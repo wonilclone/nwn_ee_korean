@@ -39,8 +39,9 @@ python3 build_release.py --skip-tlk  # TLK 빌드 건너뛰기
 │   └── README.md            # 개발 문서
 ├── translate/               # 번역 작업
 │   ├── dialog_translated/   # 번역 CSV (수정 대상)
+│   ├── editor.py            # Streamlit 번역 편집기
 │   ├── merge_dialog_files.py # TLK 생성 스크립트
-│   └── dialog.csv           # 병합된 CSV (자동 생성, gitignore)
+│   └── tools/               # 검사 도구
 └── release/                 # 빌드 결과물 (gitignore)
 ```
 
@@ -58,6 +59,22 @@ python3 build_release.py --skip-tlk  # TLK 빌드 건너뛰기
 번역을 수정하려면 `translate/dialog_translated/` 디렉토리의 CSV 파일을 편집한 후 릴리스를 다시 빌드하세요.
 
 `dialog.csv`는 자동 생성되는 중간 파일이므로 직접 수정하지 마세요.
+
+### 번역 편집기
+
+Streamlit 기반 웹 UI로 번역을 편집할 수 있습니다.
+
+```bash
+pip install streamlit
+cd translate
+streamlit run editor.py
+```
+
+기능:
+- 파일별 또는 전체 검색
+- StrRef로 특정 대사 검색
+- 영어 원문과 한글 번역 비교
+- 완성형(KS X 1001) 범위 외 한글 표시
 
 ## 기술 개요
 

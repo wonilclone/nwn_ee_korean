@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 
+[project.optional-dependencies]
+editor = ["streamlit"]
+
 [project.scripts]
 nwn-build = "build_release:main"
 
