@@ -1,0 +1,23 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+35539,PC,Player Character,Goodbye.,안녕.,m2q3alerk,,,,,0,0
+35540,PC,Player Character,Where does this bridge lead?,이 다리는 어디로 가?,m2q3alerk,,[지능 보통],,,0,0
+35541,PC,Player Character,Where bridge go?,다리 어디 가?,m2q3alerk,,[지능 낮음],,,0,0
+35542,PC,Player Character,Die troll!,"죽어라, 트롤!",m2q3alerk,,,,,0,0
+35543,PC,Player Character,Who is Mister Wanev?,와네브 씨가 누구야?,m2q3alerk,,[지능 보통],,,0,0
+35544,PC,Player Character,Who be Mister Wanev?,와네브 씨 누구야?,m2q3alerk,,[지능 낮음],,,0,0
+35545,PC,Player Character,Why are you guarding this bridge?,왜 이 다리를 지키고 있어?,m2q3alerk,,[지능 보통],,,0,0
+35546,PC,Player Character,Why you guard bridge?,왜 너 다리 지켜?,m2q3alerk,,[지능 낮음],,,0,0
+35547,PC,Player Character,Why are you guarding this bridge?,왜 이 다리를 지키고 있는 거야?,m2q3alerk,,[지능 보통],,,0,0
+35548,PC,Player Character,Why you guard bridge?,왜 너 다리 지켜?,m2q3alerk,,[지능 낮음],,,0,0
+35549,PC,Player Character,Where does this bridge lead?,이 다리는 어디로 가?,m2q3alerk,,[지능 보통],,,0,0
+35550,PC,Player Character,Where dis bridge lead?,이 다리 어디 가?,m2q3alerk,,[지능 낮음],,,0,0
+35551,PC,Player Character,I'll go.,나 갈게.,m2q3alerk,,[지능 보통],,,0,0
+35552,PC,Player Character,Me go now.,나 이제 가.,m2q3alerk,,[지능 낮음],,,0,0
+35553,PC,Player Character,I would like to cross the bridge.,다리를 건너고 싶어.,m2q3alerk,,[지능 보통],,,0,0
+35554,PC,Player Character,Me want cross bridge.,나 다리 건너고 싶어.,m2q3alerk,,[지능 낮음],,,0,0
+35555,PC,Player Character,Why don't you let me across before I kill you?,"날 보내주는 게 좋을 거야, 안 그러면 죽여버릴 테니까.",m2q3alerk,,[지능 보통],,,0,0
+35556,PC,Player Character,"If me no cross, you die!",나 못 건너면 너 죽어!,m2q3alerk,,[지능 낮음],,,0,0
+35557,PC,Player Character [M2Q3C],"<StartCheck>[Persuade]</Start> Listen, I've been invited by Wanev. If you don't let me cross you'll be punished.","<StartCheck>[설득]</Start> 들어봐, 난 와네브의 초대를 받았어. 날 보내주지 않으면 벌 받을 거야.",m2q3alerk,m2q3_lerk001,m2q3cs_lerk001,[M2Q3C],,0,0
+35558,PC,Player Character [M2Q3C],"<StartCheck>[Persuade]</Start> Me be invited by Wanev-guy. You no let me cross, he hurt you.",<StartCheck>[설득]</Start> 나 와네브한테 초대받았어. 너 날 안 보내주면 그가 너 혼내.,m2q3alerk,m2q3_lerk001,m2q3cs_lerk002,[M2Q3C],,0,0
+35559,PC,Player Character [M2Q3C],Would 100 gold pieces change your mind?,금화 100개면 생각 바꿀 수 있어?,m2q3alerk,m2q3_lerk002,m2q3cs_lerk003,[M2Q3C],,0,0
+35560,PC,Player Character [M2Q3C],Maybe 100 gold make you let me cross?,금 100개면 너 나 보내줘?,m2q3alerk,m2q3_lerk002,m2q3cs_lerk004,[M2Q3C],,0,0

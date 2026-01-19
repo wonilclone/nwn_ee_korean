@@ -1,0 +1,46 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+15903,PC,Player Character,Could I trouble you with some questions?,질문 몇 개 해도 될까요?,m1q1a00gen2,,[지능 보통],,,0,0
+15904,PC,Player Character,Me wants to ask questions from you.,나 너한테 질문하고 싶어.,m1q1a00gen2,,[지능 낮음],,,0,0
+15905,PC,Player Character,Goodbye.,그럼 이만.,m1q1a00gen2,,,,,0,0
+15906,PC,Player Character,Me want to know about different city areas.,나 도시 다른 구역들 알고 싶어.,m1q1a00gen2,,[지능 낮음],,,0,0
+15907,PC,Player Character,Can you tell me anything about the plague?,역병에 대해 뭐라도 말해줄 수 있나요?,m1q1a00gen2,,[지능 보통],,,0,0
+15908,PC,Player Character,I require some information about locations in Neverwinter.,네버윈터 위치에 대한 정보가 필요해요.,m1q1a00gen2,,[지능 보통],,,0,0
+15909,PC,Player Character,Is there anything odd that you have heard?,이상한 걸 들은 게 있나요?,m1q1a00gen2,,[지능 보통],,,0,0
+15910,PC,Player Character,You knows much about the plague?,너 역병 많이 알아?,m1q1a00gen2,,[지능 낮음],,,0,0
+15911,PC,Player Character,Me wants to have information about Neverwinter places.,나 네버윈터 장소 정보 원해.,m1q1a00gen2,,[지능 낮음],,,0,0
+15912,PC,Player Character,Maybe yous heard some rumors or something?,혹시 소문 같은 거 들었어?,m1q1a00gen2,,[지능 낮음],,,0,0
+15913,PC,Player Character,What do you know about cure attempts?,치료제를 찾으려는 시도에 대해 뭘 알아요?,m1q1a00gen2,,[지능 보통],,,0,0
+15914,PC,Player Character,You know about cure attempts maybe?,"치료 시도, 아는 거 있나?",m1q1a00gen2,,[지능 낮음],,,0,0
+15915,PC,Player Character,<StartCheck>[Insight]</Start> Has the plague disrupted the social order of the city?,<StartCheck>[통찰]</Start> 역병이 도시의 사회 질서를 어지럽혔나요?,m1q1a00gen2,,nw_d2_wis_intn,,,0,0
+15916,PC,Player Character,I want to ask something else.,다른 걸 물어보고 싶어요.,m1q1a00gen2,,[지능 보통],,,0,0
+15917,PC,Player Character,Me ask different questions.,나 다른 질문 할래.,m1q1a00gen2,,[지능 낮음],,,0,0
+15918,PC,Player Character,<StartCheck>[Insight]</Start> Are you suggesting a revolt of some sort?,<StartCheck>[통찰]</Start> 반란 같은 걸 암시하시는 건가요?,m1q1a00gen2,,nw_d2_wis_intn,,,0,0
+15919,PC,Player Character,What are the different areas of the city?,도시 지구들은 어떻게 나뉘어 있나요?,m1q1a00gen2,,[지능 보통],,,0,0
+15920,PC,Player Character,Tell me about the Beggar's Nest.,거지 소굴에 대해 말해주세요.,m1q1a00gen2,,[지능 보통],,,0,0
+15921,PC,Player Character,Tell me about the Docks district.,항만 지구에 대해 알려주세요.,m1q1a00gen2,,[지능 보통],,,0,0
+15922,PC,Player Character,Tell me about the Blacklake district.,검은호수 지구에 대해 알려주세요.,m1q1a00gen2,,[지능 보통],,,0,0
+15923,PC,Player Character,Tell me about the Peninsula.,반도에 대해 말해주세요.,m1q1a00gen2,,[지능 보통],,,0,0
+15924,PC,Player Character,Where can I get equipment? ,장비는 어디서 구할 수 있나요?,m1q1a00gen2,,[지능 보통],,,0,0
+15925,PC,Player Character,Where me get equipment?,나 장비 어디서 구해?,m1q1a00gen2,,[지능 낮음],,,0,0
+15926,PC,Player Character,Tell me about the City Core.,도시 중심부에 대해 말해주세요.,m1q1a00gen2,,[지능 보통],,,0,0
+15927,PC,Player Character,<StartCheck>[Persuade]</Start> Certainly you can tell me.,<StartCheck>[설득]</Start> 분명 말해주실 수 있겠죠.,m1q1a00gen2,,[지능 보통],,,0,0
+15928,PC,Player Character,<StartCheck>[Persuade]</Start> You can tell me. Why worries about me?,<StartCheck>[설득]</Start> 너 말해 줄 수 있어. 왜 나 걱정해?,m1q1a00gen2,,[지능 낮음],,,0,0
+15929,PC,Player Character,Certainly you can tell me? We are <race> kin.,분명 말해주실 수 있겠죠? 우린 같은 <race> 혈족이에요.,m1q1a00gen2,,nw_d2_racesmi_n,,,0,0
+15930,PC,Player Character,We both <race> kind. Why not tell me?,우리 둘 다 <race>야. 왜 말 안 해?,m1q1a00gen2,,nw_d2_racesmi_l,,,0,0
+15931,PC,Player Character,You tells about City Core.,너 도시 중심부 얘기해.,m1q1a00gen2,,[지능 낮음],,,0,0
+15932,PC,Player Character,You tells about Beggar's Nest.,너 거지 소굴 얘기해.,m1q1a00gen2,,[지능 낮음],,,0,0
+15933,PC,Player Character,You tells about the Docks district.,너 항만 지구 얘기해.,m1q1a00gen2,,[지능 낮음],,,0,0
+15934,PC,Player Character,You tells about the Blacklake.,너 검은호수 얘기해.,m1q1a00gen2,,[지능 낮음],,,0,0
+15935,PC,Player Character,You tells about Peninsula.,너 반도 지구 얘기해.,m1q1a00gen2,,[지능 낮음],,,0,0
+15936,PC,Player Character,I need to ask about other city districts.,다른 도시 지구들에 대해 물어봐야겠어요.,m1q1a00gen2,,[지능 보통],,,0,0
+15937,PC,Player Character,Me ask about other areas?,나 다른 데도 물어봐?,m1q1a00gen2,,[지능 낮음],,,0,0
+56794,PC,Player Character,You look very wealthy. Are you?,부유해 보이시네요. 그러세요?,m1q1a00gen2,,[지능 보통],,,0,0
+56795,PC,Player Character,"You look like a rich lady. You rich, lady?","너 부자처럼 보여. 너 부자야, 아가씨?",m1q1a00gen2,,[지능 낮음],,,0,0
+56796,PC,Player Character,Give me gold or I'll drag you through the Beggar's Nest.,"금을 주세요, 안 그러면 거지 소굴로 끌고 갈 거예요.",m1q1a00gen2,,[지능 보통],,,0,0
+56797,PC,Player Character,You gives gold or me pull yous through Beggar's Nest!,"너 금 내, 안 그러면 나 너 거지 소굴로 끌고 갈 거야!",m1q1a00gen2,,[지능 낮음],,,0,0
+56798,PC,Player Character,Merely curious. Let's go back to my other questions.,그냥 궁금했을 뿐이에요. 다른 질문으로 돌아가죠.,m1q1a00gen2,,[지능 보통],,,0,0
+56799,PC,Player Character,"Me just interested. Back to other questions now, okay?","나 그냥 궁금했어. 이제 다른 질문 할게, 알았지?",m1q1a00gen2,,[지능 낮음],,,0,0
+56800,PC,Player Character,"I'm a guard. I can do what I want. I'll pull you through the dirty, filthy Beggar's Nest!",전 경비병이에요. 제 맘대로 할 수 있죠. 더럽고 냄새나는 거지 소굴로 끌고 갈 거예요!,m1q1a00gen2,m1q1_evil_set,[지능 보통],,,0,0
+56801,PC,Player Character,"Me guard. Me do what me want. Me haul you through stinky, dirty Beggar's Nest!",나 경비병이야. 나 내 맘대로 해. 나 너 더럽고 냄새나는 거지 소굴로 끌고 갈 거야!,m1q1a00gen2,m1q1_evil_set,[지능 낮음],,,0,0
+56802,PC,Player Character,"I beg your pardon, ma'am. I did not mean to say that.","죄송합니다, 부인. 그런 말을 하려던 게 아니에요.",m1q1a00gen2,,[지능 보통],,,0,0
+56803,PC,Player Character,Me sorry. Me not mean to say stuff to yous.,나 미안해. 나 그런 말 하려던 거 아니었어.,m1q1a00gen2,,[지능 낮음],,,0,0

@@ -1,0 +1,781 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12354,Creature,Air Elemental,Air Elemental,대기의 원소 정령,Q3_AIR_ELEMENT,,,,,0,0
+12461,Creature,Adult Black Dragon,Adult Black Dragon,성체 흑룡,NW_DRGBLACK001,,,,,0,0
+12463,Creature,Ancient Black Dragon,Ancient Black Dragon,고대 흑룡,IYRAUROTH|KS_THURASKULUSK1,,,,,0,0
+12469,Creature,Adult Brass Dragon,Adult Brass Dragon,성체 황동룡,M3Q4E03_DEADDRAG,,,,,0,0
+12481,Creature,Adult Gold Dragon,Adult Gold Dragon,성체 황금룡,Q2E_GOOD2,,,,,0,0
+12485,Creature,Adult Green Dragon,Adult Green Dragon,성체 녹룡,CR_CORM_FOR_DEADDRAGON|NW_DRGGREEN001,,,,,0,0
+12489,Creature,Adult Red Dragon,Adult Red Dragon,성체 홍룡,DRACOLICH|Q2D4_ILLDRAGON|TEMPLETHECRIPPLEDFANG,,,,,0,0
+12499,Creature,Ancient White Dragon,Ancient White Dragon,고대 백룡,TM_CR_ZRN_WDRAG0,,,,,0,0
+12636,Creature,Air Mephit,Air Mephit,대기 메피트,M2Q2F_AMEPHIT|Q3_AIR_MEPHIT,,,,,0,0
+15099,Dialog,ALLDHA2,"Keep movin', you're blocking my view.","계속 가, 시야 가리고 있잖아.",M1Q02ALLDHA2,,,,,0,0
+15100,Dialog,ALLDHA2,Looks like trouble - I'm sounding the alarm!,수상한데-경보를 울린다!,M1Q02ALLDHA2,m1q2_ring_gong,,,,0,0
+15101,Dialog,ALLDHA2,I'll keep an eye on the door.,문을 계속 지켜보겠다.,M1Q02ALLDHA2,m1q2_formpris_0,,,,0,0
+15111,Dialog,ALLDHAN,"I'm on the other side of a stout door, nitwit.","나는 두꺼운 문 반대편에 있거든, 멍청아.",M1Q02ALLDHAN,,,,,0,0
+15112,Dialog,ALLDHAN,"What do you want, lap dog?","뭘 원하지, 꼬리 흔드는 충견아?",M1Q02ALLDHAN,,,,,0,0
+15113,Dialog,ALLDHAN,"Move along, then, and keep that tail between your legs where it belongs.","그럼 썩 꺼져, 그리고 그 꼬리는 다리 사이에나 잘 끼고 다녀.",M1Q02ALLDHAN,,,,,0,0
+15114,Dialog,ALLDHAN,"Sorry, no flatheads on the guest list. Next.",미안하지만 손님 명단에 납작머리는 없어. 다음.,M1Q02ALLDHAN,,,,,0,0
+15115,Dialog,ALLDHAN,"Your precious lords and ladies mean nothing in these parts... Scram, you hear me?","네 소중한 귀족 나리들이 여기선 아무 소용 없어... 꺼져, 못 들었어?",M1Q02ALLDHAN,,,,,0,0
+15116,Dialog,ALLDHAN,"What do you want, pretty thing?","뭘 원해, 곱상한 친구?",M1Q02ALLDHAN,,,,,0,0
+15117,Dialog,ALLDHAN,Yeah? What do you want?,그래? 뭘 원하지?,M1Q02ALLDHAN,,,,,0,0
+15118,Dialog,ALLDHAN,Life must be an endless marvel for folks like you... ,너 같은 부류에겐 인생이 끝없는 경이로움이겠지...,M1Q02ALLDHAN,,,,,0,0
+15199,Dialog,ALLFORL,"What are you doing in my home? Oh, as if there isn't enough trouble around here.","내 집에 와서 뭐 하는 거야? 아, 여기 근처에 골칫거리가 아직도 모자라다고?",M1Q02ALLFORL,,,,,0,0
+15200,Dialog,ALLFORL,"Who are you? I hope you are a guard. We need more around here. There's trouble in the prison, and nobody's doing much about it.","누구지? 경비병이면 좋겠군. 여긴 경비병이 더 필요해. 감옥에서 사고가 났는데, 아무도 제대로 나서는 사람이 없거든.",M1Q02ALLFORL,,,,,0,0
+15201,Dialog,ALLFORL,"Just wind your way up to the top o' the Peninsula. The guards walk that path twice a day, though I suppose it's a fair bit more dangerous now.",반도 지구 꼭대기까지 길을 따라 쭉 올라가. 경비병들이 그 길을 하루 두 번 순찰해... 지금은 훨씬 더 위험하겠지만.,M1Q02ALLFORL,,,,,0,0
+15202,Dialog,ALLFORL,If only they were! They prowl the streets with the gall to say... oh nothing! I don't know who to trust these days... ,"그랬으면 좋겠지! 길거릴 어슬렁대면서도 감히... 아, 됐어! 요샌 누구를 믿어야 할지 모르겠단 말이야...",M1Q02ALLFORL,,,,,0,0
+15203,Dialog,ALLFORL,"It ain't my business if you do or don't. I'd think, though, that if you've the power to help, you've a duty to do it.","네가 하든 말든 내 상관은 아니지. 그래도 도울 힘이 있다면, 도와야 할 의무가 있다고 생각해.",M1Q02ALLFORL,,,,,0,0
+15204,Dialog,ALLFORL,"May the Wailing catch you, then. I won't share the same air you breathe.",그럼 울부짖는 죽음 역병이 너도 덮치길 바랄 테다. 네가 들이마시는 공기를 나도 마실 순 없겠어.,M1Q02ALLFORL,m1q2_escapearea,,,,0,0
+15205,Dialog,ALLFORL,"It's good there are still decent folk about in these times. Best of luck to you, then.",이 와중에도 제대로 된 사람들이 남아 있다니 다행이네. 그럼 행운을 빌게.,M1Q02ALLFORL,,,,,0,0
+15206,Dialog,ALLFORL,<StartCheck>[Success]</Start> Oh very well. The prisoners who escaped are saying that it was the Head Gaoler himself who set them loose... ,"<StartCheck>[성공]</Start> 좋아, 알겠어. 탈옥수들 말로는, 간수장 본인이 직접 놈들을 풀어 줬다더군...",M1Q02ALLFORL,,,,,0,0
+15207,Dialog,ALLFORL,"<StartCheck>[Failure]</Start> I have to keep my mouth shut, <sir/madam>. My life might be on the line. Please, just leave me alone.","<StartCheck>[실패]</Start> 전 입을 다물어야 합니다, 선생님. 제 목숨이 걸렸어요. 부디 그냥 놔두세요.",M1Q02ALLFORL,,,,,0,0
+15208,Dialog,ALLFORL,You would think that. Commander Alaefin is the Head Gaoler there. He's always been so kind to us... He was a good man once.,사람들이라면 누구나 그렇게 생각하겠지. 그곳의 간수장은 사령관 알래핀이야. 늘 우리한테 친절했지... 한때는 참 좋은 사람이었어.,M1Q02ALLFORL,,,,,0,0
+15209,Dialog,ALLFORL,Oh nothing. I don't know who to trust these days... ,아무것도 아니야. 요샌 누구를 믿어야 할지 모르겠어...,M1Q02ALLFORL,,,,,0,0
+15210,Dialog,ALLFORL,"Well, I don't want to confuse you. Just keep going up. You get to the top of the Peninsula, you'll be there. I imagine it's pretty dangerous right now, though.",괜히 헷갈리게 하고 싶진 않아. 그냥 계속 위로 가. 반도 지구 꼭대기에 닿으면 그곳이야. 다만 지금은 꽤 위험할 거야.,M1Q02ALLFORL,,,,,0,0
+56665,Dialog,ALLFORL,I guess things are getting back to normal... I hope. I hope the plague doesn't get me.,이제 슬슬 예전으로 돌아가는 것 같기도 해... 그러길 바라지. 제발 역병이 나한텐 오지 않길.,M1Q02ALLFORL,,,,,0,0
+15328,Dialog,ALLKIPP,"Look, people feel uncomfortable enough just living around that prison, let alone tossing their money around near it. This place is a shopkeeper's nightmare, all right? ","솔직히, 사람들은 그 감옥 근처에서 사는 것만으로도 불편해 죽겠는데, 거기서 돈까지 쓰겠나. 이곳은 상인에겐 악몽이지.",M1Q02ALLKIPP,,,,,0,0
+15329,Dialog,ALLKIPP,One of those new Helmites was performing his blessings somewhere to the southwest before all hell broke loose. Maybe he's still there now.,"난장판이 되기 전, 새로 온 헬름 신도 하나가 남서쪽 어딘가에서 축복 의식을 하고 있었어. 지금도 그 근처에 있을지 몰라.",M1Q02ALLKIPP,,,,,0,0
+15330,Dialog,ALLKIPP,"All right, then. Stay out of trouble.","좋아, 그럼. 말썽은 피우지 마.",M1Q02ALLKIPP,,,,,0,0
+15331,Dialog,ALLKIPP,"You're a few wheels short of a wagon, aren't you... ",나사 몇 개 빠진 거 아냐...,M1Q02ALLKIPP,,,,,0,0
+15332,Dialog,ALLKIPP,Do I look like a Storekeep to you? I'm not: I'm a Gate Guard.,내가 상점 주인처럼 보여? 아니거든. 난 성문 경비병이야.,M1Q02ALLKIPP,,,,,0,0
+15333,Dialog,ALLKIPP,"Don't go far - we need to talk, citizen.","멀리 가지 마-시민, 할 얘기가 있어.",M1Q02ALLKIPP,,,,,0,0
+15334,Dialog,ALLKIPP,"If you're going onto the Peninsula, keep your head up. There's been a prison break and the place is crawling with trouble.",반도 지구로 들어갈 거라면 정신 바짝 차려. 탈옥이 벌어져서 사방이 문제투성이야.,M1Q02ALLKIPP,m1q2akippslg01,,,,0,0
+15335,Dialog,ALLKIPP,"Rumor is that Captain Alaefin, the Head Gaoler, set them free. Makes no sense to me - he was a good man and ran a tight ship... ",소문으론 간수장 알래핀 대장이 죄수들을 풀어 줬다더군. 난 도무지 이해가 안 돼-그는 훌륭했고 감옥도 엄격하게 운영했거든...,M1Q02ALLKIPP,,,,,0,0
+15336,Dialog,ALLKIPP,"Southwest of here, at the top of the hill. It commands a great view of the harbor... not that the prisoners ever got to see it.","여기서 남서쪽, 언덕 꼭대기야. 항만이 한눈에 내려다보이지... 물론 죄수들이 구경할 일은 없었지만.",M1Q02ALLKIPP,,,,,0,0
+15337,Dialog,ALLKIPP,"Sedos Sebile is the one in charge of the operation. The prisoners have her pretty much penned-in, but she's managed to secure a headquarters to the southeast.","작전 총책은 세도스 세빌이야. 죄수들이 그녀를 거의 포위했지만, 남동쪽에 본부 하나는 확보해 놨어.",M1Q02ALLKIPP,,,,,0,0
+15338,Dialog,ALLKIPP,"If you're looking to help, I'd recommend you go see her. She has better information on what's going on than I do.",도우려거든 그녀를 찾아가 봐. 사태 파악은 내가 아는 것보다 그녀가 훨씬 잘하고 있어.,M1Q02ALLKIPP,,,,,0,0
+15339,Dialog,ALLKIPP,"For now everyone's just trying to figure out what's going on. Someone's going to have to go into that prison though, and get to the bottom of it. ",지금은 다들 무슨 일이 벌어졌는지 파악하느라 분주해. 그래도 누군가는 감옥 안으로 들어가 진상을 밝혀야 해.,M1Q02ALLKIPP,,,,,0,0
+15340,Dialog,ALLKIPP,"If you want to thank me, go talk to Sedos Sebile at headquarters. We could definitely use your help cleaning up the Head Gaoler's mess... ",고맙단 말은 본부의 세도스 세빌에게 가서 해. 간수장이 저질러 놓은 일을 수습하려면 네 도움이 절실하거든...,M1Q02ALLKIPP,,,,,0,0
+15341,Dialog,ALLKIPP,"Phew, it's been a hell of a day. I'm just glad the prison break's been handled and dealt with.","휴, 오늘은 정말 지옥같았지. 탈옥 사태가 수습돼서 다행이야.",M1Q02ALLKIPP,,,,,0,0
+15378,Dialog,ALLLUR9,<StartCheck>[Failure]</Start> You... must not disturb... the master... Must not... disturb... the master... ,<StartCheck>[실패]</Start> 너는... 주인님을... 방해하면... 안 된다... 주인님을... 방해하면... 안 된다...,M1Q02ALLLUR9,,,,,0,0
+15379,Dialog,ALLLUR9,You... must not disturb... the master... Must not... disturb... the master... ,너... 주인님을... 방해하면... 안 된다... 주인님을... 방해하면... 안 된다...,M1Q02ALLLUR9,,,,vs_nintdevm_050,0,0
+15380,Dialog,ALLLUR9,You... must not disturb... the master... Must not... disturb... the master... ,너... 주인님을... 방해하면... 안 된다... 주인님을... 방해하면... 안 된다...,M1Q02ALLLUR9,,,,,0,0
+15381,Dialog,ALLLUR9,<StartCheck>[Success]</Start> Huh? W-what? Yes... I must get out of here. I must... go.,<StartCheck>[성공]</Start> 어? 뭐-뭐지? 그래... 여기서 나가야 해. 나는... 가야 해.,M1Q02ALLLUR9,m1q02atdevblo1,,,,0,0
+15382,Dialog,ALLLUR9,"Here, fool! I'm inssside! HAHAHAHAHAA!!","여기다, 멍청이! 나-안-에-있다! 하하하하하!!",M1Q02ALLLUR9,,,,vs_nintdevm_051,0,0
+15383,Dialog,ALLLUR9,Attack this flesh if you wish! It will do you no good!!,원하면 이 살덩이를 공격해 봐라! 아무 소용도 없을 테니!!,M1Q02ALLLUR9,,,,vs_nintdevm_052,0,0
+15384,Dialog,ALLLUR9,Dessstroy thissss body and I will find another! I will not be caged!,이 육신을 파괴해도 난 다른 몸을 찾을 것이다! 날 가둘 순 없다!,M1Q02ALLLUR9,,,,vs_nintdevm_053,0,0
+15385,Dialog,ALLLUR9,You... must not disturb... the master... Must not... disturb... the master... ,너... 주인님을... 방해하면... 안 된다... 주인님을... 방해하면... 안 된다...,M1Q02ALLLUR9,,,,vs_nintdevm_050,0,0
+15386,Dialog,ALLLUR9,"My mind is... is free. We are all free, the Devourer is dead! Thank the stars and all the gods!","내 정신이... 자유다. 우리 모두... 자유야, 포식귀가 죽었어! 별들과 모든 신들께 감사해!",M1Q02ALLLUR9,,,,vs_nintdevm_055,0,0
+15387,Dialog,ALLLUR9,I will not be usssed in your spellssss. Your plague isss nothing to me!,주문 따위에 이용되지 않겠다. 네놈들의 역병 따위는 내겐 아무것도 아니다!,M1Q02ALLLUR9,,,,vs_nintdevm_054,0,0
+15388,Dialog,ALLLUR9,I'm leaving. This has been too much. Thank you for your help. Thank you.,난 떠나겠어. 너무도 지독했어. 도와줘서 고맙다. 고마워.,M1Q02ALLLUR9,m1q02atdevblo1,,,,0,0
+15426,Dialog,ALLMIL1,What can I do for you?,무엇을 도와줄까?,M1Q02ALLMIL1,,,,,0,0
+15427,Dialog,ALLMIL1,"You came just in time, friend. What can I do for you?","딱 맞춰 왔군, 친구. 뭘 도와줄까?",M1Q02ALLMIL1,,,,,0,0
+15428,Dialog,ALLMIL1,"Look, I'm busy, okay?","나 지금 바쁘거든, 알겠지?",M1Q02ALLMIL1,,,,,0,0
+15429,Dialog,ALLMIL1,Sedos? She's at the district headquarters. It's a building on the east side.,세도스? 지구 본부에 있어. 동쪽에 있는 건물이지.,M1Q02ALLMIL1,,,,,0,0
+15430,Dialog,ALLMIL1,It's a building on the east side of the district.,지구 동쪽에 있는 건물이야.,M1Q02ALLMIL1,,,,,0,0
+15431,Dialog,ALLMIL1,"Haven't you heard? There's been a prison break. The whole district is crawling with them and we've got the ugly task of taking them down, dead or otherwise.","못 들었나? 탈옥이 벌어졌어. 지구 전체가 놈들로 들끓고, 우린 놈들을 죽이든 살리든 제압하는 꺼림칙한 임무를 맡았지.",M1Q02ALLMIL1,,,,,0,0
+15432,Dialog,ALLMIL1,"Well, <FirstName>, for anything beyond helping us take down these escaped prisoners and generally keep the peace, you'd have to check with our superior, Sedos Sebile.","음, <FirstName>, 탈옥수 소탕과 치안 유지 이상을 하려면 우리 상관 세도스 세빌에게 확인해야 해.",M1Q02ALLMIL1,,,,,0,0
+15433,Dialog,ALLMIL1,Then stay out of sight. This area's dangerous.,그럼 눈에 띄지 마. 이 지역은 위험해.,M1Q02ALLMIL1,,,,,0,0
+15434,Dialog,ALLMIL1,"Need any help, citizen?","도움이 필요하나, 시민?",M1Q02ALLMIL1,,,,,0,0
+66523,Dialog,ALLMIL1,Things are pretty quiet now. I guess this district is all wrapped up.,지금은 꽤 조용하군. 이 지구 일은 대강 마무리된 것 같아.,M1Q02ALLMIL1,,,,,0,0
+15447,Dialog,ALLMIL2,Then stay out of sight. This area's dangerous.,그럼 눈에 띄지 마. 이 지역은 위험해.,M1Q02ALLMIL2,,,,,0,0
+15448,Dialog,ALLMIL2,"Well, <FirstName>, for anything beyond helping us take down these escaped prisoners and generally keep the peace, you'd have to check with our superior, Sedos Sebile.","음, <FirstName>, 탈옥수 소탕과 치안 유지 이상을 하려면 우리 상관 세도스 세빌에게 확인해야 해.",M1Q02ALLMIL2,,,,,0,0
+15449,Dialog,ALLMIL2,What can I do for you?,무엇을 도와줄까?,M1Q02ALLMIL2,,,,,0,0
+15450,Dialog,ALLMIL2,"You came just in time, friend. What can I do for you?","딱 맞춰 왔군, 친구. 뭘 도와줄까?",M1Q02ALLMIL2,,,,,0,0
+15451,Dialog,ALLMIL2,"Look, I'm busy, okay?","나 지금 바쁘거든, 알겠지?",M1Q02ALLMIL2,,,,,0,0
+15452,Dialog,ALLMIL2,Sedos? She's inside.,세도스? 안에 계셔.,M1Q02ALLMIL2,,,,,0,0
+15453,Dialog,ALLMIL2,"For this district, anyways. It's a temporary location until we can get things under control here.",적어도 이 지구에선 말이지. 여긴 우리가 사태를 통제할 때까지 쓸 임시 거점이야.,M1Q02ALLMIL2,,,,,0,0
+15454,Dialog,ALLMIL2,"There's been a prison break. The whole district's crawling with them and we've got the ugly task of taking them down, dead or otherwise.","탈옥이 벌어졌어. 지구 전체가 탈옥수들로 들끓고, 우린 놈들을 죽이든 살리든 제압하는 꺼림칙한 임무를 맡았지.",M1Q02ALLMIL2,,,,,0,0
+66522,Dialog,ALLMIL2,Seems like this district is pretty quiet. I guess whatever was happening is over now. Now we just have to survive the plague.,이 지구는 꽤 조용한 편이야. 무슨 일이 있었든 이제 끝난 것 같군. 이제 우린 역병만 버티면 돼.,M1Q02ALLMIL2,,,,,0,0
+15473,Dialog,ALLMIL9,"All right, what can I do for you?","좋아, 뭘 도와줄까?",M1Q02ALLMIL9,,,,,0,0
+15474,Dialog,ALLMIL9,"You came just in time, friend. What can I do for you?","딱 맞춰 왔군, 친구. 뭘 도와줄까?",M1Q02ALLMIL9,,,,,0,0
+15475,Dialog,ALLMIL9,"Look, I'm busy, okay?","나 지금 바쁘거든, 알겠지?",M1Q02ALLMIL9,,,,,0,0
+15476,Dialog,ALLMIL9,Sedos? She's at the district headquarters. It's a building on the east side.,세도스? 지구 본부에 있어. 동쪽에 있는 건물이지.,M1Q02ALLMIL9,,,,,0,0
+15477,Dialog,ALLMIL9,It's a building on the east side of the district.,지구 동쪽에 있는 건물이야.,M1Q02ALLMIL9,,,,,0,0
+15478,Dialog,ALLMIL9,"Haven't you heard? There's been a prison break. The whole district's crawling with escapees and we've got the ugly task of taking them down, dead or otherwise.","못 들었나? 탈옥이 있었다. 지구 전체가 탈주자들로 들끓고, 우린 놈들을 죽이든 살리든 제압하는 꺼림칙한 임무를 맡았지.",M1Q02ALLMIL9,,,,,0,0
+15479,Dialog,ALLMIL9,"Well, <FirstName>, for anything beyond helping us take down these escaped prisoners and generally keep the peace, you'd have to check with our superior, Sedos Sebile.","음, <FirstName>, 탈옥수 소탕과 치안 유지 이상을 하려면 우리 상관 세도스 세빌에게 확인해야 해.",M1Q02ALLMIL9,,,,,0,0
+15480,Dialog,ALLMIL9,Then stay out of sight. This area's dangerous.,그럼 눈에 띄지 마. 이 지역은 위험해.,M1Q02ALLMIL9,,,,,0,0
+15481,Dialog,ALLMIL9,"Need some help, citizen?","도움 좀 필요하나, 시민?",M1Q02ALLMIL9,,,,,0,0
+66521,Dialog,ALLMIL9,Seems like this district is pretty quiet now. Whatever was happening is over now. I think we'll be all right... as long as the plague doesn't get us.,이 지구는 이제 꽤 조용한 것 같아. 무슨 일이 있었든 끝난 모양이지. 역병만 우리를 덮치지 않는다면 괜찮을 거야.,M1Q02ALLMIL9,,,,,0,0
+15583,Dialog,ALLTOWF,"Thanks for the help, I was trying to make my way safely home when those brutes found me.",도와줘서 고마워요. 무사히 집으로 가려고 하던 참에 저 난폭한 자들이 절 발견했거든요.,M1Q02ALLTOWF,,,,,0,0
+15584,Dialog,ALLTOWF,Bless Helm for adventurers! Things have gotten a lot better since the prison riots were finally put to rest!,모험가들에게 헬름의 가호가 있길! 감옥 폭동이 마침내 진압된 뒤로 상황이 훨씬 나아졌어요!,M1Q02ALLTOWF,,,,,0,0
+15585,Dialog,ALLTOWF,Escapees from the prison. I heard one say that it was the Head Gaoler himself who freed them... I don't like the sound of it.,감옥에서 달아난 자들이에요. 간수장 본인이 놈들을 풀어 줬다는 말을 들었는데... 영 불길하네요.,M1Q02ALLTOWF,,,,,0,0
+15586,Dialog,ALLTOWF,"With the quarantine to deal with, too? They've got their hands full, I'm afraid. Us folk have to fend for ourselves.",게다가 격리까지 처리해야 한다고요? 그 사람들도 손이 모자랄 거에요. 우리 같은 사람들은 스스로 살아남아야죠.,M1Q02ALLTOWF,,,,,0,0
+15587,Dialog,ALLTOWF,"Captain Alaefin, he's the Head Gaoler there. He runs a tight ship... or at least he used to. Some say he's the one who set these prisoners free.","알래핀 대위, 그가 그곳의 간수장이에요. 늘 엄격하게 운영했죠... 적어도 예전엔요. 죄수들을 풀어 준 게 그였다는 말도 있어요.",M1Q02ALLTOWF,,,,,0,0
+15588,Dialog,ALLTOWF,"Wha!? Here, it's all I've got... Now leave me alone!","뭐!? 여기요, 가진 건 이게 다에요... 이젠 절 좀 내버려 두세요!",M1Q02ALLTOWF,m1q2_muggergold,,,,0,0
+15589,Dialog,ALLTOWF,"Thanks again, I'll do that... ","다시 한 번 고마워요, 그렇게 할게요...",M1Q02ALLTOWF,m1q2_escapearea,,,,0,0
+15590,Dialog,ALLTOWF,"Yes, Alaefin. He's a good man, I swear he is. Why, he'd meet every afternoon in the tunnels with Lady Tanglebrook for a friendly game of chess... They're cousins, you know... ","맞아요, 알래핀. 좋은 사람이에요, 맹세하죠. 매일 오후마다 땅굴에서 탱글브룩 아가씨와 만나서 체스를 두곤 했어요... 두 사람은 사촌이거든요...",M1Q02ALLTOWF,,,,,0,0
+15591,Dialog,ALLTOWF,Lady Tanglebrook has always been leery about walking the streets in this district. Alaefin built the tunnels between the prison and her estate so they could continue their games there.,"탱글브룩 아가씨는 이 지구의 거리를 걷는 걸 늘 두려워했어요. 알래핀이 감옥과 그녀의 영지를 잇는 땅굴을 만들어, 그곳에서 계속 게임을 즐길 수 있게 했죠.",M1Q02ALLTOWF,,,,,0,0
+15592,Dialog,ALLTOWF,"The Tanglebrook? It's at the far reach of the peninsula. As I said, though, she's right scared of the Wailing and she locked the door behind me when I left. ","탱글브룩 저택요? 반도 끄트머리에 있어요. 말씀드렸듯, 그녀는 울부짖는 죽음 역병을 무서워해서... 제가 나갈 때 문을 꼭 잠가 버렸어요.",M1Q02ALLTOWF,m1q2atownslg01,,,,0,0
+15593,Dialog,ALLTOWF,"Maybe you could check in on her to make sure she's okay. Scared or no, I know she keeps a spare key hidden under her doormat for us.","혹시 그녀가 무사한지 확인해 주실래요? 겁이 많아도, 우리를 위해 현관 매트 아래에 여분 열쇠를 숨겨 둔 건 알아요.",M1Q02ALLTOWF,,,,,0,0
+15594,Dialog,ALLTOWF,"Help me! Please, you have to help!","살려 주세요! 제발, 도와주세요!",M1Q02ALLTOWF,m1q2_commoneract,,,,0,0
+15595,Dialog,ALLTOWF,I'm a maid for Lady Tanglebrook. I was on my way home from my morning shift when all of... of *this* erupted!,저는 탱글브룩 아가씨의 하녀에요. 아침 근무를 마치고 집으로 가던 중에... 이 모든 일이 터져 버렸어요!,M1Q02ALLTOWF,,,,,0,0
+15596,Dialog,ALLTOWF,Would you? I was thinking I'd never make it. I really must get to the Peninsula gates and tell Captain Kipp about what I have seen.,정말요? 전 도저히 못 갈 줄 알았어요. 반도 지구 관문으로 가서 내가 본 일을 킵 대장에게 꼭 알려야 해요.,M1Q02ALLTOWF,m1q2_follow,,,,0,0
+15597,Dialog,ALLTOWF,"There's the district gates! Thanks so much for your help, my friend.","저기 지구 관문이 보여요! 정말 고마워요, 친구.",M1Q02ALLTOWF,m1q2_escortalign,,,,0,0
+15598,Dialog,ALLTOWF,"What, is there trouble about? I must get to the Peninsula gates and speak with Captain Kipp.","왜요, 또 무슨 일이라도? 반도 지구 관문으로 가서 킵 대장과 이야기해야 해요.",M1Q02ALLTOWF,,,,,0,0
+15599,Dialog,ALLTOWF,If you say so.,알겠어요.,M1Q02ALLTOWF,m1q2_follow,,,,0,0
+15600,Dialog,ALLTOWF,"If you're leaving me here, oh please don't be long... ","여기에 절 두고 가실 거라면, 제발 오래는 걸리지 말아 주세요...",M1Q02ALLTOWF,m1q2_followoff,,,,0,0
+15601,Dialog,ALLTOWF,"Now that the plague is everywhere, they hoped that continuing to use the tunnels would prevent her from being exposed to it. ","이제 역병이 온 도시로 퍼졌으니, 땅굴을 계속 이용하면 그녀가 노출되지 않을 거라고 기대했던 거에요.",M1Q02ALLTOWF,,,,,0,0
+15626,Dialog,ALLTOWN,Thanks for the help - I was trying to make my way safely home when those brutes found me.,도와줘서 고맙습니다-무사히 집으로 가려던 참에 저 난폭한 자들이 저를 발견했습니다.,M1Q02ALLTOWN,,,,,0,0
+15627,Dialog,ALLTOWN,Bless Helm for adventurers! Things have gotten a lot better since the prison riots were finally put to rest!,모험가들에게 헬름의 가호가 있길! 감옥 폭동이 마침내 진압된 뒤로 상황이 한결 좋아졌습니다!,M1Q02ALLTOWN,,,,,0,0
+15628,Dialog,ALLTOWN,Escapees from the prison. I heard one say that it was the Head Gaoler himself who freed them... I don't like the sound of it.,감옥에서 탈주한 자들입니다. 간수장 본인이 놈들을 풀어 줬다는 말을 들었는데... 영 꺼림칙하군요.,M1Q02ALLTOWN,,,,,0,0
+15629,Dialog,ALLTOWN,"With the quarantine to deal with, too? They've got their hands full, I'm afraid. Us folk have to fend for ourselves.",게다가 격리 조치까지? 그들만으로는 역부족일 겁니다. 우리 같은 사람들은 스스로 살아남아야지요.,M1Q02ALLTOWN,,,,,0,0
+15630,Dialog,ALLTOWN,"Captain Alaefin, he's the Head Gaoler there. He runs a tight ship... or at least he used to. Some say he's the one who set these prisoners free.","알래핀 대장, 그가 그곳의 간수장입니다. 늘 엄격하게 운영했죠... 적어도 예전엔. 죄수들을 풀어 준 게 그였다는 말도 있습니다.",M1Q02ALLTOWN,,,,,0,0
+15631,Dialog,ALLTOWN,"Wha!? Here, it's all I've got... Now leave me alone!","뭐라!? 여기, 가진 건 이게 전부요... 이제 절 좀 내버려 두시오!",M1Q02ALLTOWN,m1q2_muggergold,,,,0,0
+15632,Dialog,ALLTOWN,"Thanks again, I'll do that... ","다시 한 번 고맙습니다, 그렇게 하겠습니다...",M1Q02ALLTOWN,m1q2_escapearea,,,,0,0
+15633,Dialog,ALLTOWN,"He's a good man, I swear he is. Why, he'd meet every afternoon in the tunnels with Lady Tanglebrook for a friendly game of chess... They're cousins, you know... ","그분은 좋은 분입니다, 맹세코. 매일 오후 땅굴에서 탱글브룩 아가씨와 만나 친교 삼아 체스를 두곤 했지요... 두 분은 사촌입니다...",M1Q02ALLTOWN,,,,,0,0
+15634,Dialog,ALLTOWN,"With the Wailing, Lady Tanglebrook is too scared to walk the streets. Alaefin, to ease her fears, built the tunnels between the prison and her estate so they could continue their games there.","울부짖는 죽음 역병 탓에 탱글브룩 아가씨는 거리를 걷는 것조차 두려워합니다. 그녀를 안심시키려고 알래핀이 감옥과 그녀의 영지를 잇는 땅굴을 만들어, 그곳에서 계속 게임을 즐기게 했지요.",M1Q02ALLTOWN,,,,,0,0
+15635,Dialog,ALLTOWN,"The Tanglebrook? It's at the far reach of the peninsula. As I said, though, she's right scared of the Wailing and she locked the door behind me when I left. ","탱글브룩 저택 말씀이십니까? 반도 끝자락에 있습니다. 다만 말씀드렸듯, 그녀가 울부짖는 죽음 역병을 무서워해서... 제가 나올 때 문을 꼭 잠갔습니다.",M1Q02ALLTOWN,m1q2atownslg01,,,,0,0
+15636,Dialog,ALLTOWN,"Maybe you could check in on her to make sure she's okay. Scared or no, I know she keeps a spare key hidden under her doormat for us.","혹시 괜찮은지 확인해 주시겠습니까? 겁이 많든 아니든, 우리를 위해 현관 매트 아래에 여분 열쇠를 숨겨 둔 걸 알고 있습니다.",M1Q02ALLTOWN,,,,,0,0
+15637,Dialog,ALLTOWN,"Help me! Please, you have to help!","도와 주시오! 제발, 도와 주어야 합니다!",M1Q02ALLTOWN,m1q2_commoneract,,,,0,0
+15638,Dialog,ALLTOWN,I'm a butler for Lady Tanglebrook. I was on my way home from my morning shift when all of... of *this* erupted!,저는 탱글브룩 아가씨의 집사입니다. 아침 근무를 마치고 귀가하던 중에... 이 모든 사건이 터져 버렸습니다!,M1Q02ALLTOWN,,,,,0,0
+15639,Dialog,ALLTOWN,"Would you? I was thinking I'd never make it. I have to go right to Captain Kipp at the gates, though. I must tell him about what I have seen.",정말입니까? 전 도저히 못 갈 줄 알았습니다. 하지만 곧장 관문에 있는 킵 대장에게 가서 제가 본 것을 반드시 알려야 합니다.,M1Q02ALLTOWN,m1q2_follow,,,,0,0
+15640,Dialog,ALLTOWN,"There's the District gates! Thanks so much for your help, my friend.","저기 지구 관문이 보이는군요! 정말 고맙습니다, 친구.",M1Q02ALLTOWN,m1q2_escortalign,,,,0,0
+15641,Dialog,ALLTOWN,"What, is there trouble about? I need to get to the Peninsula gates and talk to Captain Kipp.","왜요, 문제가 생겼습니까? 반도 지구 관문으로 가서 킵 대장과 이야기해야 합니다.",M1Q02ALLTOWN,,,,,0,0
+15642,Dialog,ALLTOWN,If you say so.,그러시다면.,M1Q02ALLTOWN,m1q2_follow,,,,0,0
+15643,Dialog,ALLTOWN,"If you're leaving me here, oh please don't be long... ","여기에 절 두고 가신다면, 제발 너무 오래 걸리진 말아 주십시오...",M1Q02ALLTOWN,m1q2_followoff,,,,0,0
+16571,Dialog,ASSIS,Well met. I assume you are a new recruit of the Neverwinter militia? You look like you will be a fine addition.,반갑습니다. 네버윈터 민병대의 신병이시죠? 훌륭한 전력이 되실 겁니다.,M1Q1A01ASSIS,,,,,0,0
+16572,Dialog,ASSIS,"Greetings to you. I assume you are new addition to the Neverwinter Militia? You'll prove adequate, I'm sure.",안녕하십니까. 네버윈터 민병대의 새 인원이라 생각해도 되겠습니까? 충분히 제 역할을 하시겠지요.,M1Q1A01ASSIS,,,,,0,0
+16573,Dialog,ASSIS,"Hello. You are a new recruit for the Neverwinter Militia, correct? I suppose we must make do with whatever help we can get.","안녕하세요. 네버윈터 민병대 신병 맞으시죠? 뭐, 도움이라면 뭐든 써야 하니까요.",M1Q1A01ASSIS,,,,,0,0
+16574,Dialog,ASSIS,"I will try, but only so this remedial instruction is addressed before bothering Lady Aribeth with it. You are meant to deal with her exclusively.",알겠습니다. 다만 이 초급 지침은 아리베스 경을 번거롭게 하기 전에 제가 처리하겠습니다. 원래 당신은 그분과만 일을 보게 되어 있습니다.,M1Q1A01ASSIS,,,,,0,0
+16575,Dialog,ASSIS,"I'll answer what I can, but Lady Aribeth is better informed about these matters.","답할 수 있는 건 답하겠습니다만, 이 문제는 아리베스 경이 더 잘 아십니다.",M1Q1A01ASSIS,,,,,0,0
+16576,Dialog,ASSIS,Lady Aribeth will inform you of anything you need to know. I am merely to direct you to speak with her.,필요한 건 아리베스 경이 알려 주실 겁니다. 저는 그분께 가시라고 안내하라는 임무뿐입니다.,M1Q1A01ASSIS,,,,,0,0
+16577,Dialog,ASSIS,"Another time, and be sure to present any questions you have to Lady Aribeth. She is in the next room.",다음에 하시죠. 질문이 있으면 아리베스 경께 꼭 여쭙기 바랍니다. 바로 옆방에 계십니다.,M1Q1A01ASSIS,,,,,0,0
+16578,Dialog,ASSIS,"I'm sorry, I am merely supposed to direct you to Lady Aribeth. Anything else you will have to investigate on your own.","죄송합니다만, 저는 아리베스 경께로 안내만 하게 되어 있습니다. 그 밖의 일은 직접 알아보셔야 합니다.",M1Q1A01ASSIS,,,,,0,0
+16579,Dialog,ASSIS,Aribeth will clarify what is required of you. I couldn't add anything to what she might say.,무엇이 요구되는지는 아리베스 경이 분명히 해 주실 겁니다. 제가 보탤 말은 없습니다.,M1Q1A01ASSIS,,,,,0,0
+16580,Dialog,ASSIS,New recruits of the city militia should report to Lady Aribeth as soon as possible.,도시 민병대 신병은 가능한 한 빨리 아리베스 경께 보고하십시오.,M1Q1A01ASSIS,,,,,0,0
+16581,Dialog,ASSIS,"If you have already spoken with Lady Aribeth, I'm not sure I have much of value to add. You should address your concerns with her. ","이미 아리베스 경과 얘기하셨다면, 제가 드릴 말은 많지 않습니다. 우려 사항은 그분께 말씀드리십시오.",M1Q1A01ASSIS,,,,,0,0
+16582,Dialog,ASSIS,I would advise that you speak with Lady Aribeth as soon as possible. She will brief you on what is required of you.,가능하면 곧바로 아리베스 경을 찾아가시길 권합니다. 해야 할 일을 설명해 주실 겁니다.,M1Q1A01ASSIS,,,,,0,0
+16583,Dialog,ASSIS,I assume from your tone that you will want the opportunity for profit? I understand. Not everyone joins out of the goodness of their heart.,"말씀하시는 걸로 보아, 보상 기회를 원하시는군요? 이해합니다. 모두가 선의로만 입대하는 건 아니니까요.",M1Q1A01ASSIS,,,,,0,0
+16584,Dialog,ASSIS,"I am sure you will find what you require. I don't approve, but there are ways to capitalize on desperate times.","필요한 건 구하게 되실 겁니다. 달가오진 않지만, 궁핍한 때를 이용하는 방법은 있으니까요.",M1Q1A01ASSIS,,,,,0,0
+16585,Dialog,ASSIS,"I would suggest, however, that you refrain from telling Aribeth. She is trying to help those in need, and will not appreciate your financial goals.","다만 아리베스 경께는 말하지 않기를 권하겠습니다. 그분은 도움이 필요한 이들을 돕고 계시니, 당신의 금전적 목적을 달갑게 여기지 않으실 겁니다.",M1Q1A01ASSIS,,,,,0,0
+16586,Dialog,ASSIS,"She is Lady Aribeth de Tylmarande, trusted member of the Neverwinter Nine, and favored servant of Lord Nasher Alagondar, ruler of Neverwinter.","그분은 아리베스 드 틸마란데 경, 바로 네버윈터 9인회의 신뢰받는 일원이자 네버윈터의 통치자 나셰르 알라곤다 영주님의 총애 받는 심복입니다.",M1Q1A01ASSIS,,,,,0,0
+16587,Dialog,ASSIS,"She has complete authority over the efforts to fight the plague, and that means everyone involved answers directly to her.","울부짖는 죽음 역병 대응 전권을 쥐고 계시며, 관련된 모든 이들이 그분께 직접 보고합니다.",M1Q1A01ASSIS,,,,,0,0
+16588,Dialog,ASSIS,"Now, in all seriousness, you must speak with her. I am only to serve as a signpost to newcomers.",이제 진지하게 말씀드리죠. 반드시 그분과 이야기하십시오. 저는 새로 오신 분들을 위한 이정표 역할만 합니다.,M1Q1A01ASSIS,,,,,0,0
+17173,Dialog,A,"<StartAction>This animal looks up slowly, unsure of your intent. You sense fear.</Start>",<StartAction>이 동물은 천천히 고개를 들어 당신의 의도를 가늠합니다. 두려움이 느껴집니다.,M1Q1A05S1_A,,,,,0,0
+17174,Dialog,A,"<StartAction>The animal nods, hoping you will come back soon. You sense worry.</Start>",<StartAction>동물이 고개를 끄덕입니다. 곧 돌아오길 바라는 듯합니다. 걱정이 느껴집니다.,M1Q1A05S1_A,,,,,0,0
+17175,Dialog,A,<StartAction>The animal remembers the pain it has suffered. You sense rage.</Start>,<StartAction>동물은 겪었던 고통을 떠올립니다. 분노가 느껴집니다.,M1Q1A05S1_A,,,,,0,0
+17176,Dialog,A,<StartAction>The animal is overcome by a blind fury. You sense no restraint to its rage.</Start>,<StartAction>동물이 눈먼 분노에 휩싸입니다. 그 분노를 억누르려는 기색이 전혀 보이지 않습니다.,M1Q1A05S1_A,,,,,0,0
+17177,Dialog,A,<StartAction>The animal is instantly more lively. You sense great joy.</Start>,<StartAction>동물이 순식간에 더 활기를 띱니다. 큰 기쁨이 느껴집니다.,M1Q1A05S1_A,m1s5aanimslg01,,,,0,0
+18335,Dialog,AGATE,"Citizen, you should speak to me before going through this gate.","시민이여, 이 문을 지나기 전에 먼저 저에게 말씀을 하셔야 합니다.",M1Q1AGATE,,,,,0,0
+18336,Dialog,ASIGNARMS,Shining Knights Arms and Armor,빛나는 기사 무기점,M1Q1ASIGNARMS,,,,,0,0
+18337,Dialog,ASIGNBLACK,Blacklake district,검은호수 지구,M1Q1ASIGNBLACK,,,,,0,0
+18338,Dialog,ASIGNBLADE,Trade of Blades,용병의 거래소,M1Q1ASIGNBLADE,,,,,0,0
+18339,Dialog,ASIGNCLOAK,The Cloaktower,망토탑,M1Q1ASIGNCLOAK,,,,,0,0
+18340,Dialog,ASIGNHALL,Hall of Justice,정의의 전당,M1Q1ASIGNHALL,,,,,0,0
+18341,Dialog,ASIGNHELM,Temple of Helm,헬름의 신전,M1Q1ASIGNHELM,,,,,0,0
+18342,Dialog,ASIGNMASK,The Moonstone Mask,월장석 가면 여관,M1Q1ASIGNMASK,,,,,0,0
+18343,Dialog,ASIGNNEST,Beggar's Nest,거지 소굴,M1Q1ASIGNNEST,,,,,0,0
+18344,Dialog,ASIGNOBSER,Peninsula district,반도 지구,M1Q1ASIGNOBSER,,,,,0,0
+18345,Dialog,ASIGNPIER,Docks district,항만 지구,M1Q1ASIGNPIER,,,,,0,0
+18360,Dialog,ANDR,"What? Who... ? Ruffian! Please, get away! ","뭐? 누구...? 불한당이군! 제발, 꺼져!",M1Q1C10ANDR,,,,vs_nwncomm4_050,0,0
+18361,Dialog,ANDR,"No! Please! Whatever you're here for, just take it and go! Tell Mistress Ophala that I'm sorry I caused her distress! I'm sorry!",안 돼! 제발! 왜 왔든 뭐든 가져가고 그냥 가! 오팔라 여주인께 내가 심려 끼쳐 죄송했다고 전해! 미안하다고!,M1Q1C10ANDR,,,,vs_nwncomm4_051,0,0
+18362,Dialog,ANDR,"You've opened my doors, sullied my home, and you're probably rife with plague! You've already hurt me! All for that blasted statue!","문을 따고, 내 집을 더럽히고, 너 같은 건 역병까지 들고 왔겠지! 이미 충분히 해를 끼쳤어! 전부 그 빌어먹을 조각상 때문이야!",M1Q1C10ANDR,,,,,0,0
+18363,Dialog,ANDR,Everywhere! It's my home! There's a key around here somewhere! It opens everything! JUST DON'T TOUCH ME!!!,집 안 어디든! 여긴 내 집이야! 어딘가에 열쇠가 있어! 뭐든 열려! 제발 나만 건드리지 마!!!,M1Q1C10ANDR,,,,,0,0
+18364,Dialog,ANDR,"Don't lie to me! I know! She's wanted that statue for years, and now you show up here, a thug in my home! Of course she sent you!","거짓말 마! 다 알아! 그 여자는 그 조각상을 몇 년째 노렸어, 그런데 네가 내 집에 깡패처럼 들이닥쳤지! 당연히 그녀가 보낸 거잖아!",M1Q1C10ANDR,,,,,0,0
+18365,Dialog,ANDR,"Take what you want. Just don't hurt me. I don't want anyone here, and I sure don't want Ophala breathing down my neck anymore!","원하는 건 가져가. 하지만 다치게 하진 마. 이 집엔 아무도 오지 않았으면 좋겠고, 특히 오팔라가 더는 나를 들볶는 일은 없었으면 해!",M1Q1C10ANDR,,,,,0,0
+18366,Dialog,ANDR,"Of course you are! I wouldn't believe you if you said you weren't. She's wanted that statue for years, and now you show up here, a thug in my home! ","당연히 그렇겠지! 아니라는 말은 믿지 않을 거야. 그녀가 그 조각상을 수년간 원해 왔고, 네가 지금 내 집에 깡패처럼 나타났잖아!",M1Q1C10ANDR,,,,,0,0
+18367,Dialog,ANDR,"So don't play dumb or cute, I know what this is about. Tell her I'm sorry, and that I won't bother her again! Take the damned statue and just get out!","그러니 시치미 떼지 마. 무슨 일인지 다 알아. 그녀에게 내가 미안하다고, 다시는 신경 쓰이게 하지 않겠다고 전해! 그 빌어먹을 조각상 가져가고 꺼져!",M1Q1C10ANDR,,,,,0,0
+18368,Dialog,ANDR,"It doesn't matter. You're either here for the statue or you're a thief and you'll take it anyway. Either way, I don't have to deal with it anymore.","상관없어. 넌 조각상을 가지러 왔거나, 도둑이어서 어차피 훔쳐 갈 거야. 어쨌든 이제 난 이 일에서 손 뗄 거야.",M1Q1C10ANDR,,,,,0,0
+18369,Dialog,ANDR,"If she didn't send you, I'll pay dearly for saying anything. If she did send you, she'd have told you if you were supposed to know.","그녀가 너를 보낸 게 아니라면, 내가 떠들어댄 대가를 혹독하게 치르겠지. 보낸 거라면, 알아야 할 건 이미 그녀가 너에게 말했을 거고.",M1Q1C10ANDR,,,,,0,0
+18370,Dialog,ANDR,"Suffice it to say that if you take the matron of the Moonstone Mask to a ball, make sure you don't leave with her sister.","월장석 가면 여관의 여주인을 무도회에 데려갔다면, 돌아올 땐 그녀의 여동생과 함께 나오지 않도록 조심해-그 정도면 충분하지?",M1Q1C10ANDR,,,,,0,0
+18371,Dialog,ANDR,"No amount of tributary artwork will save your hide from her wrath. Just take it. The statue is in my dresser, along with a master key for most of my locks.",아무리 공물로 예술품을 바쳐도 그녀의 분노 앞에서 네 목숨을 건질 순 없어. 그냥 가져가. 조각상은 내 서랍장에 있어. 내 집 대부분의 자물쇠를 여는 만능 열쇠랑 함께.,M1Q1C10ANDR,,,,,0,0
+18372,Dialog,ANDR,"There's a key around here somewhere that will unlock everything... or just smash it all, I don't care. Just don't touch me!",여기 어딘가에 뭐든 열 수 있는 열쇠가 있어... 아니면 그냥 다 부숴. 상관없어. 다만 나만 건드리지 마!,M1Q1C10ANDR,,,,,0,0
+20021,Dialog,ADOG,"The dog responds gladly to your approach, excitedly wagging its tail and accepting your touch. Its friendly eyes look into yours expectantly.",개가 반갑게 꼬리를 흔들며 네게 다가와 손길을 받아들인다. 친근한 눈빛이 네 시선을 기대 어린 듯 마주한다.,M1Q3ADOG,,,,,0,0
+20022,Dialog,ADOG,The dog responds to your empathic communication with images from its mind. It does not feel overly threatened in this area of the city... though it is hungry.,개는 네 정신과 교감하며 이미지를 전한다. 이 구역은 크게 위협적이지 않다고 느끼지만... 배가 고프다.,M1Q3ADOG,,,,,0,0
+20023,Dialog,ADOG,The dog has some difficulty understanding what you might find useful... though it happily informs you of the best places in the district to beg for food.,개는 네가 원하는 걸 이해하기 힘들어하지만... 대신 이 지구에서 구걸하기 좋은 곳을 알려 준다.,M1Q3ADOG,,,,,0,0
+20024,Dialog,ADOG,"As far as other creatures in the area, the dog only avoids two locations where it feels threatening monsters exist.","다른 존재들에 대해서는, 개가 위험한 괴물이 있다고 느끼는 두 장소만은 피한다고 말한다.",M1Q3ADOG,,,,,0,0
+20025,Dialog,ADOG,"It does, however, tell you some recent news. Apparently, it tried to warn an old human man not to enter a Bad Place nearby. The human did not listen... and did not return.","그리고 최근 소식도 전한다. 근처의 위험한 장소에 늙은 인간이 들어가려 했는데, 개가 막으려 했지만 듣지 않았고... 결국 돌아오지 않았다.",M1Q3ADOG,,,,,0,0
+20026,Dialog,ADOG,"Primal urges fill your consciousness, conjuring up images of an odd assortment of monsters... none stand out clearly enough for you to describe.","원초적인 충동이 네 의식을 가득 메우며, 뒤섞인 괴물들의 이미지가 떠오른다... 하지만 분명하게 묘사할 수 있을 정도로 뚜렷하지는 않다.",M1Q3ADOG,,,,,0,0
+20027,Dialog,ADOG,This query conjures up dark images in the dog's mind. There is a large house behind a great wall in the northwest part of the district... the dog avoids this area completely.,이 질문은 개의 마음속에 어두운 이미지를 불러낸다. 북서쪽 성벽 뒤에 큰 집이 있는데... 개는 그곳을 완전히 피한다.,M1Q3ADOG,,,,,0,0
+20028,Dialog,ADOG,You fish into your pack for a few strips of dried meat. The dog gulps them down happily and wags its tail in thanks.,"네 배낭에서 말린 고깃조각을 꺼내자, 개가 기쁘게 집어삼키고 꼬리를 흔들며 감사한다.",M1Q3ADOG,,,,,0,0
+20029,Dialog,ADOG,The dog whines a bit when you ask this. There is a large house in the northwest part of the district where the dogs do not go... it smells of danger and evil.,개의 낑낑거림이 이어진다. 북서쪽 지구의 큰 집에는 개들이 가지 않습니다... 위험과 악취가 풍기는 곳이다.,M1Q3ADOG,,,,,0,0
+20030,Dialog,ADOG,"The dog conjures up an image of a pleasant human man of middle age. The association is a kind one... and from the uniform, you think it likely the man is a city guard.",개가 중년의 온화한 남자를 떠올립니다. 친절한 느낌이 깃들어 있고... 제복으로 보아 도시 경비병인 듯합니다.,M1Q3ADOG,,,,,0,0
+20031,Dialog,ADOG,"The dog is aware that sometime recently another creature was in the district... not a threatening creature, however, more one strongly tied to natural forces.","개는 최근 이 지구에 다른 존재가 있었다는 걸 알고 있습니다. 위협적이진 않았고, 오히려 자연의 힘과 강하게 연결된 존재였습니다.",M1Q3ADOG,,,,,0,0
+20032,Dialog,ADOG,"At your command, the dog happily bounds off to return to its normal routine.",당신의 명령에 개가 즐겁게 뛰어가 일상으로 돌아갑니다.,M1Q3ADOG,,,,,0,0
+20033,Dialog,ADOG,The dog looks at you curiously. It seems friendly enough.,개가 호기심 어린 눈빛으로 당신을 바라봅니다. 충분히 친근해 보입니다.,M1Q3ADOG,,,,,0,0
+20034,Dialog,ADOG,The dog wags its tail but shies away from you.,개가 꼬리를 흔들지만 이내 물러섭니다.,M1Q3ADOG,,,,,0,0
+20035,Dialog,ADOG,"The dog bares its teeth and growls, obviously alarmed by your approach.",개가 이를 드러내며 으르렁거립니다. 당신의 접근에 분명 경계하고 있습니다.,M1Q3ADOG,,,,,0,0
+20036,Dialog,ADOG,The dog pictures all of these creatures behind bars... in cages or other types of captivity. All are located in a single area in the northeast part of the district.,개는 이 모든 괴물들이 우리 안에 갇혀 있는 모습을 그려 냅니다. 모두가 이 지구 북동쪽의 한 장소에 모여 있습니다.,M1Q3ADOG,,,,,0,0
+20037,Dialog,ADOG,"In the dog's mind, this house is associated with terrible magic and evil smells. Its brethren who have ventured near there do not return.",개의 마음속에서 그 집은 끔찍한 마법과 사악한 냄새와 연관돼 있습니다. 근처에 간 동료들은 돌아오지 않았습니다.,M1Q3ADOG,,,,,0,0
+20038,Dialog,ADOG,The faint image you get leads you to believe what the dog sensed was actually a dryad. The dryad was in distress... but the dog does not know what happened to her.,"희미한 이미지로 보아 개가 감지한 존재는 사실 드라이어드였던 듯합니다. 그녀는 곤경에 처해 있었지만, 개는 무슨 일이 있었는지는 모릅니다.",M1Q3ADOG,,,,,0,0
+20874,Dialog,ASOAPBOX,Meldanen and his kind are a scourge.,멜다넨과 그 패거리는 이 도시의 암덩어리 입니다!,M1Q3ASOAPBOX,,,,,0,0
+20875,Dialog,ASOAPBOX,Today he experiments on magical creatures. Tomorrow he will experiment on your children.,"오늘은 마법 생명체를 해부하고, 내일은 당신들의 아이들을 실험대에 올릴 것입니다!",M1Q3ASOAPBOX,,,,,0,0
+20876,Dialog,ASOAPBOX,Our bellies are empty while Meldanen hoards food.,"우리는 굶주리는데, 멜다넨은 식량을 쌓아 독점합니다!",M1Q3ASOAPBOX,,,,,0,0
+20877,Dialog,ASOAPBOX,"If he denies us bread, we should deny him breath.","그가 우리에게 빵을 막는다면, 우리는 그의 숨통을 끊어야 해요!",M1Q3ASOAPBOX,,,,,0,0
+20878,Dialog,ASOAPBOX,Is the plague not enough? Need we starve as well? Meldanen thinks so.,역병도 모자란가요? 굶주림까지 겪으라니! 멜다넨은 그래도 된다고 생각합니다!,M1Q3ASOAPBOX,,,,,0,0
+20879,Dialog,ASOAPBOX,This is what happens when farmers become sorcerers and sorcerers become farmers. It isn't natural.,농부가 요술사를 흉내 내고 요술사가 곡창을 움켜쥐니 이런 참사가 난겁니다! 자연의 이치가 아니에요!,M1Q3ASOAPBOX,,,,,0,0
+20880,Dialog,ASOAPBOX,"Every man, elf, and dwarf deserves to eat, not just the rich.","인간도, 엘프도, 드워프도-부자만이 아니라 모두가 먹을 권리가 있습니다!",M1Q3ASOAPBOX,,,,,0,0
+20881,Dialog,ASOAPBOX,"You have the power to do something about it. Rise up, rise up and share your power.",여러분에겐 바꿀 힘이 있습니다! 일어나세요-일어나 힘을 나눠주세요!,M1Q3ASOAPBOX,,,,,0,0
+20882,Dialog,ASOAPBOX,He became rich from our labor. It's only fair that we should not be left to starve.,그의 부는 우리의 땀에서 나왔습니다! 우리를 굶기지 않는 것이 최소한의 공정입니다!,M1Q3ASOAPBOX,,,,,0,0
+20883,Dialog,ASOAPBOX,"Meldanen has locked himself away, playing with his magical beasts. It's time for him to come out and pay his due. Pay it with his hide!",멜다넨은 마법 짐승이나 가지고 놀며 문 뒤에 숨었습니다! 이제 나와서 값을 치르게 합시다-놈이 숨긴 것을 받아냅시다!,M1Q3ASOAPBOX,,,,,0,0
+21558,Creature,Agnes Masterson,Forgotten? I TOLD you he was not to be trusted.,잊었단 말이야? 내가 그자는 믿을 수 없다고 했잖아.,M1Q04CAGNES,,,,,0,0
+21562,Creature,Agnes Masterson,"Hemmel, I can swear that you are competent, but that doesn't make it true.","헴멜, 내가 당신이 유능하다고 맹세할 순 있지. 그렇다고 그게 사실이 되는 건 아니잖아.",M1Q04CAGNES,,,,,0,0
+21564,Creature,Agnes Masterson,"Probably stealing that as well. Honestly, Hemmel, you can be such a fool.","그것도 훔치고 있겠지. 정말이지, 헴멜, 당신은 참 어리석을 때가 많아.",M1Q04CAGNES,,,,,0,0
+21567,Creature,Agnes Masterson,I told you it was a ruse. This Callik made vague promises and you handed over everything.,"내가 속임수라고 했잖아. 그 칼릭이라는 자는 얼버무린 약속만 하고, 당신은 다 내주었지.",M1Q04CAGNES,,,,,0,0
+21571,Creature,Agnes Masterson,"Oh, well done Hemmel. That shall be your stirring farewell to the Masterson family amulet.","아, 잘했어, 헴멜. 마스터슨 가문의 가보와 작별하는 멋진 인삿말로 딱이겠어.",M1Q04CAGNES,,,,,0,0
+21575,Creature,Agnes Masterson,"Only because you are too much the coward to take it up, Hemmel.","그건 당신이 겁이 많아 차마 나서질 못하기 때문이지, 헴멜.",M1Q04CAGNES,,,,,0,0
+21603,Creature,Agnes Masterson,"Hemmel, just give the nice thug whatever <he/she> wants and we can go home.","헴멜, 그냥 그 건달이 원하는 걸 주고 집에 가자고.",M1Q04CAGNES,,,,,0,0
+21607,Creature,Agnes Masterson,"Let's just go, Hemmel. You have more toys at home.","그냥 가자, 헴멜. 집에도 장난감은 많잖아.",M1Q04CAGNES,m1q4hemmelleave,,,,0,0
+21608,Creature,Agnes Masterson,"Hemmel, don't antagonize the nice thug!","헴멜, 그 건달을 괜히 건드리지 마!",M1Q04CAGNES,,,,,0,0
+21617,Creature,Agnes Masterson,"I suppose I could manage some form of payment. I'll have to see the amulet first, of course. I've already been swindled once. Will you help?",내가 뭔가 마련할 수 있을지도 모르지. 물론 먼저 목걸이를 확인해야 해. 이미 한 번 속았으니까. 도와줄래?,M1Q04CAGNES,,,,,0,0
+24609,Creature,Agnes Masterson,Agnes,애그니스,M1Q04CAGNES,,,,,0,0
+24610,Creature,Agnes Masterson,Masterson,마스터슨,M1Q04CAGNES|M1Q04CHEMMEL,,,,,0,0
+67600,Creature,Agnes Masterson,"Please, I hope you will reconsider. This Callik, he has taken advantage of me and I can't do anything about it except point you in his direction.","제발, 다시 생각해 주길 바래. 그 칼릭이라는 자가 날 이용했어. 내가 할 수 있는 건 그자의 행방을 알려주는 것뿐이야.",M1Q04CAGNES,,,,,0,0
+21689,Dialog,ASIGNSEED,The Seedy Tavern,시디 선술집,M1Q4ASIGNSEED,,,,,0,0
+21766,Dialog,AVISTA,What is it now? More rabble trying to crash the tavern? Let's have a look at you.,이번엔 또 뭐야? 선술집에 무단으로 들이닥칠 오합지졸이 더 있는 거야? 이리 와서 좀 보자고.,M1Q4B01AVISTA,,,,vs_nnwcomf2_051,0,0
+21767,Dialog,AVISTA,"You with that other one? Or was it you? Ah, I don't care any more. Door's open.","너 그 다른 놈이랑 한패야? 아니면 네가 그놈이었나? 아, 됐고. 문은 열려 있다.",M1Q4B01AVISTA,,,,,0,0
+21768,Dialog,AVISTA,"Look, like I said before, either join a group we let in, or pony up some Smugglers' Coins.","봐, 아까도 말했지. 들여보내준 무리랑 합류하든가, 아니면 밀수꾼의 주화를 좀 내놔.",M1Q4B01AVISTA,,,,,0,0
+21769,Dialog,AVISTA,"Step up to the door and let's have a look at you, shall we?","문 앞으로 와. 좀 확인해 보자고, 응?",M1Q4B01AVISTA,nw_d1_talktime,,,vs_nnwcomf2_050,0,0
+21770,Dialog,AVISTA,"I don't recognize you, do I? No, I don't. No admittance to nonmembers.","널 본 기억이 없는데, 맞지? 그래, 없어. 비회원은 출입 불가다.",M1Q4B01AVISTA,,,,,0,0
+21771,Dialog,AVISTA,"Worth my while, eh? Do you even know what that means? Pony up, and let's see what you can offer.","내 시간을 쓸 만한 값어치가 있다고? 그게 무슨 뜻인진 알긴 해? 주화나 꺼내고, 얼마나 내놓을 수 있는지 보자고.",M1Q4B01AVISTA,,,,,0,0
+21772,Dialog,AVISTA,Fair enough. The door is open to you and yours. Just don't make trouble.,좋아. 너희 일행에게 문을 열어 주지. 다만 문제는 일으키지 마.,M1Q4B01AVISTA,m1q4aavistslg01,,,,0,0
+21773,Dialog,AVISTA,"Hmmm... you're putting one over on me. Get lost, and don't come back unless you've joined a group I let in.","흠... 날 속이려 드는군. 내가 들여보내준 무리에 합류하기 전엔 꺼져, 다시 오지도 말고.",M1Q4B01AVISTA,m1q4bribetavern,,,,0,0
+21774,Dialog,AVISTA,I don't risk my neck for less than five Smugglers' Coins. Get them or join a group allowed in. Beat it.,밀수꾼의 주화 다섯 개 이하면 내 목숨을 걸진 않아. 그만큼 가져오든가 들여보내준 무리에 합류해. 썩 꺼져.,M1Q4B01AVISTA,,,,,0,0
+21775,Dialog,AVISTA,"I have better men than you doing my laundry. Give me Smugglers' Coins or join a group allowed in. Meanwhile, get lost.","세탁이나 시킬 사람도 너보단 낫겠다. 밀수꾼의 주화를 내놓거나, 들여보내준 무리에 합류해. 그전에는 꺼져.",M1Q4B01AVISTA,,,,,0,0
+21776,Dialog,AVISTA,I have no need of lackeys. Find some Smugglers' Coin or join a group I let in. Now beat it.,"꼬봉은 필요 없어. 밀수꾼의 주화를 구해 오거나, 내가 들이는 무리에 합류해. 자, 꺼져.",M1Q4B01AVISTA,,,,,0,0
+21777,Dialog,AVISTA,"Sorry, I only take black market Smugglers' Coins. Find some or join a group allowed in. Good luck, and get lost.","유감이지만, 나는 암시장에서 쓰는 밀수꾼의 주화만 받아. 그걸 구해 오거나 들여보내는 무리에 합류해. 행운을 빌고, 꺼져.",M1Q4B01AVISTA,,,,,0,0
+21778,Dialog,AVISTA,Well you can just keep it out there. She and her city guard mercenaries aren't thought of too highly here.,"그럼 밖에 그냥 있으라지. 그 여자랑 도시 경비대 용병들, 여기선 평가가 별로거든.",M1Q4B01AVISTA,,,,,0,0
+21779,Dialog,AVISTA,"If you have to ask, then you aren't welcome. This is a private establishment. Members or members of like-minded groups only.","굳이 묻는 걸 보니 환영받을 일 없다는 거지. 여긴 사설 업소다. 회원이나, 성향이 같은 단체의 구성원만.",M1Q4B01AVISTA,,,,,0,0
+21780,Dialog,AVISTA,"None of my business. Either you get a uniform I recognize, or... maybe slip me a few Smugglers' Coins. Now beat it.","내 알 바 아냐. 내가 알아보는 제복을 갖추든가... 아니면 밀수꾼의 주화 몇 닢을 슬쩍 쥐여 주든가. 자, 꺼져.",M1Q4B01AVISTA,,,,,0,0
+21781,Dialog,AVISTA,"Hmm, I sees a Bloodsailor uniform. Good enough, but watch yourself. You or any friends make trouble and out you go.","흠, 핏빛 항해자 제복이 보이는군. 그 정도면 충분해. 하지만 행동을 조심해. 너나 네 친구가 문제 일으키면 바로 쫓겨난다.",M1Q4B01AVISTA,,,,,0,0
+21782,Dialog,AVISTA,"Look, I've about had it with fools trying my patience. No more slack. Get a uniform or get lost.","봐라, 난 바보들을 상대하느라 인내심이 바닥났어. 더는 봐주지 않을거야. 제복을 구하든가 꺼져.",M1Q4B01AVISTA,,,,,0,0
+21789,Dialog,AVISTA2,I don't want any trouble in here. We'll bounce you out without a second thought.,여기서 문제 일으키지 마. 두 말 않고 바로 내쫓을 거니까.,M1Q4B01AVISTA2,m1q4talktimes0,,,vs_nnwcomf2_053,0,0
+21790,Dialog,AVISTA2,You behave in here. Things are rough enough without bringing the chaos on the streets in here.,여기서는 얌전히 굴어. 바깥 난장판까지 들여올 필요는 없거든.,M1Q4B01AVISTA2,c_gpc_talktimes,,,vs_nnwcomf2_052,0,0
+21791,Dialog,AVISTA2,"Boy howdy, you don't know how busy! I'm run off my feet! Everybody is desperate to get in, for some reason.","와, 얼마나 바쁜지 모를 거야! 발이 닳도록 뛰고 있어! 다들 무슨 이유인지 미친 듯이 들어오려 해.",M1Q4B01AVISTA2,,,,,0,0
+21792,Dialog,AVISTA2,"Nothing yet, and they always warn the person working the door. Just supposed to be an auction tonight.",아직 아무 일도 없어. 문 지키는 사람한테는 항상 미리 알리거든. 오늘 밤은 그냥 경매가 있을 뿐이야.,M1Q4B01AVISTA2,,,,,0,0
+21793,Dialog,AVISTA2,"Must be something good on the block for so many people to show up, though.","그래도 이렇게 사람이 몰린 걸 보니, 경매에 괜찮은 물건이 나오긴 하나 보지.",M1Q4B01AVISTA2,,,,,0,0
+21794,Dialog,AVISTA2,"Keep it quiet while you're here, hmm? Don't need any trouble.","여기 있는 동안은 조용히 해, 응? 시비는 사절이야.",M1Q4B01AVISTA2,,,,,0,0
+21795,Dialog,AVISTA2,Not much happening here now. Auction never happened and the crowds are going home.,"지금은 별일 없어. 경매도 무산됐고, 군중도 집으로 돌아가는 중이야.",M1Q4B01AVISTA2,,,,vs_nnwcomf2_054,0,0
+23421,Dialog,ASOLDIER,You will have to speak with my commander.,우리 지휘관과 이야기하셔야 합니다.,M1Q5ASOLDIER,,,,,0,0
+23422,Dialog,AVICTIM,I don't want to die.,죽기 싫어요.,M1Q5AVICTIM,,,,,0,0
+23423,Dialog,AVICTIM,Nooooooooo.......,안 돼애애애애......,M1Q5AVICTIM,,,,,0,0
+23424,Dialog,AVICTIM,Stay away from me.,가까이 오지 마요.,M1Q5AVICTIM,,,,,0,0
+23425,Dialog,AVICTIM,Somebody save me.,누가 살려 주세요.,M1Q5AVICTIM,,,,,0,0
+23426,Dialog,AVICTIM,How could the gods be so cruel.,신들께서 어찌 이토록 잔혹하실 수가....,M1Q5AVICTIM,,,,,0,0
+23427,Dialog,AVICTIM,Please don't hurt me.,제발 해치지 말아요.,M1Q5AVICTIM,,,,,0,0
+23428,Dialog,AVICTIM,Thank you for saving me.,구해 주셔서 감사합니다.,M1Q5AVICTIM,m1q5avictrwd,,,,0,0
+23966,Dialog,ATORGO,What can I get you?,뭘로 드릴까요?,M1S2ATORGO,,,,,0,0
+23967,Dialog,ATORGO,They're 200 gold each. Remember you'll need to talk to Ophala before she'll let you upstairs.,"개당 금화 200이야. 위층에 올라가려면 먼저 오팔라랑 이야기해야 한다는 거, 잊지 마.",M1S2ATORGO,,,,,0,0
+23968,Dialog,ATORGO,"Well, the boys and girls in the backroom will be waiting for you when you can afford it. They're well worth the price.","뭐, 주머니가 넉넉해지면 뒷방의 남녀들이 기다리고 있을 거야. 값어치는 충분하거든.",M1S2ATORGO,,,,,0,0
+23969,Dialog,ATORGO,"When you get upstairs, just give this to the companion of your choice.",위층에 올라가면 마음에 드는 동반자에게 이걸 주면 돼.,M1S2ATORGO,,,,,0,0
+24240,Dialog,ALEVER,All of the animal cages have opened.,모든 동물 우리들이 열려 있다.,M1S5ALEVER,,,,,0,0
+24245,Dialog,ATTENDANT,Lord Nasher's men will soon find a cure.,나셰르 영주님의 사람들이 곧 치료제를 찾아낼 것입니다.,TALK_ATTENDANT,,,,,0,0
+24263,Dialog,AMBUSH1,That's the one we were told about.,저 자가 우리가 들은 그놈이다.,M1_AMBUSH1,,,,,0,0
+24264,Dialog,AMBUSH1,Get the cure reagent!,치료제의 시약을 가져와!,M1_AMBUSH1,,,,,0,0
+24265,Dialog,AMBUSH1,Kill the enemy!,적을 죽여라!,M1_AMBUSH1,,,,,0,0
+24266,Dialog,AMBUSH1,We cannot fail in our task.,우린 임무를 실패할 수 없다.,M1_AMBUSH1,,,,,0,0
+24267,Dialog,AMBUSH2,We must not fail in our task.,우린 임무를 실패해선 안 된다.,M1_AMBUSH2,,,,,0,0
+24268,Dialog,AMBUSH2,Kill the enemy!,적을 죽여라!,M1_AMBUSH2,,,,,0,0
+106464,Dialog,AMBUSH2,The drow are about to leave the cave any moment now.,드로우들이 지금 당장이라도 동굴을 떠나려 한다.,Q6_AMBUSH2,,,,,0,0
+24611,Creature,Auctioneer,Auctioneer,경매인,M1Q04CAUCT,,,,,0,0
+24612,Creature,Avista,Avista,아비스타,M1Q04CAVISTA,,,,,0,0
+24696,Creature,Animated Armor,Animated Armor,움직이는 갑옷,M1Q5E11ARMOR,,,,,0,0
+64269,Creature,Animated Armor,Enhanced Animated Armor,강화된 움직이는 갑옷,M1Q5E11ARMOR,,,,,0,0
+24702,Creature,Agar,Agar,아가르,M1S04CAGAR|M1S04CAGAR02,,,,,0,0
+24718,Creature,Androd,Androd,안드로드,M1S2ANDROD,,,,,0,0
+26120,Dialog,ALTAR,With the Black Grimoire you may either complete the ritual or banish the Demon.,검은 마도서로 의식을 완수하거나 악마를 추방할 수 있습니다.,M1Q6F8ALTAR,,,,,0,0
+26121,Dialog,ALTAR,With the Demon banished you may use the Book of Helm to reinstate the Guardian Spirit.,악마를 추방했다면 헬름의 서를 사용해 수호령을 다시 일으킬 수 있습니다.,M1Q6F8ALTAR,,,,,0,0
+64421,Dialog,ALTAR,With the proper tome you could activate the power of this altar.,알맞은 고서가 있다면 이 제단의 힘을 활성화할 수 있습니다.,M1Q6F8ALTAR,,,,,0,0
+64422,Dialog,ALTAR,The evil force binding this altar has been banished and the guardian spirit reinstated.,이 제단을 얽매던 사악한 힘이 사라졌고 수호령이 돌아왔습니다..,M1Q6F8ALTAR,,,,,0,0
+64423,Dialog,ALTAR,This altar has been permanently despoiled by the release of a demon. Whatever guardian spirit might have been here is gone forever.,악마를 풀어낸 탓에 이 제단은 영구히 더럽혀졌습니다. 여기 있었을 수호령은 영원히 사라졌습니다.,M1Q6F8ALTAR,,,,,0,0
+105304,Dialog,ALTAR,"Your eye is drawn to a curious engraving. In it, a hooded figure places a black gemstone upon the altar before him, his weapon held in the air triumphantly.","눈길을 끄는 묘한 조각이 보입니다. 두건을 쓴 인물이 제단 앞에 검은 보석을 올려두고, 승리감에 무기를 높이 치켜들고 있습니다.",Q3B_ALTAR,,,,,0,0
+105305,Dialog,ALTAR,Nothing seems to happen.,아무 일도 일어나지 않는 듯합니다.,Q3B_ALTAR,,,,,0,0
+105306,Dialog,ALTAR,Your weapon suddenly feels cold to the touch and a strange red aura surrounds it.,"손에 든 무기가 갑자기 싸늘해지고, 이상한 붉은 오라가 그것을 감쌉니다.",Q3B_ALTAR,q3b_at_altar,,,,0,0
+29327,Dialog,ALLIANCESIGN,Alliance Arms Inn,연합군 여관,M2ALLIANCESIGN,,,,,0,0
+30713,Creature,Ander,"Thanks so much for helping me, Alhelor.","도와주셔서 정말 고마워요, 알헬러.",M2Q01CANDER,,,,vs_nteenm_053,0,0
+40840,Creature,Ander,Ander,앤더,M2Q01CANDER,,,,,0,0
+58698,Creature,Ander,"Well, actually, Sir Karathis just hired me and my friends to help him. He was the hunter, after all...","음, 사실 카라디스 경이 저랑 제 친구들을 고용해서 도우라고 했어요. 어쨌든 사냥꾼은 그분이었거든요...",M2Q01CANDER,,,,,0,0
+30847,Creature,Alhelor,"And he does a fine job of it, too. You just talk to me if you need anything to fight a werewolf like the one that shook up ol' Ander here.","그리고 그 친구가 정말 잘해냈지. 늙은 앤더를 흔들어댄 늑대인간 같은 놈을 상대할 일이 있으면, 날 찾아와. 필요한 건 뭐든 말해 줘.",M2Q1CALHE,,,,,0,0
+40839,Creature,Alhelor,Alhelor,알헬러.,M2Q1CALHE,,,,,0,0
+32046,Dialog,ABALLARD,Hello there <lad/lass>. My name is Ballard. I am a ranger and I am looking for someone interested in a dangerous mission. Might you be interested?,"안녕하세요, <lad/lass>. 제 이름은 발라드입니다. 저는 순찰자이고, 위험한 임무에 관심 있는 이를 찾고 있습니다. 관심 있으신가요?",M2Q1ABALLARD,m2q1aballtalk,,,vs_nelfxxm1_052,0,0
+32047,Dialog,ABALLARD,Welcome back. What can I do for you now?,다시 오셨군요. 무엇을 도와드릴까요?,M2Q1ABALLARD,,,,vs_nelfxxm1_051,0,0
+32048,Dialog,ABALLARD,"Well friend, it's not just what I need; there are many lives at stake.","친구여, 제 필요만의 문제가 아닙니다. 수많은 목숨이 달려 있습니다.",M2Q1ABALLARD,,,,,0,0
+32049,Dialog,ABALLARD,There has been trouble over in the Neverwinter Wood of late. It started with travelers bringing back tales of normally peaceful animals attacking them for no reason. ,요즘 네버윈터 숲 쪽이 심상치 않습니다. 평소엔 온순한 동물들이 이유 없이 사람들을 공격했다는 여행자들의 이야기가 들려오기 시작했거든요.,M2Q1ABALLARD,,,,,0,0
+32050,Dialog,ABALLARD,People's lives are at stake. I hope you change your mind.,사람들의 목숨이 달려 있습니다. 마음을 바꾸시길 바랍니다.,M2Q1ABALLARD,,,,,0,0
+32051,Dialog,ABALLARD,"There is a grove of druids that are trying to find out what is wrong. The leader is Aawill. He sent three of his best druids into the Wood in search of clues, but nobody has heard from them in a while.","무슨 일인지 밝혀내려는 드루이드 숲군락이 있습니다. 지도자는 아윌이지요. 그는 최고의 드루이드 셋을 숲으로 보냈는데, 한동안 소식이 없습니다.",M2Q1ABALLARD,,,,,0,0
+32052,Dialog,ABALLARD,"Then farmers and woodcutters began to disappear. The animals have been attacking everyone, even the rangers and druids that are there to help the forest. I fear that without assistance, whole villages near the Wood might be destroyed.",그러고 나서 농부들과 나무꾼들이 사라지기 시작했습니다. 숲을 돕던 순찰자와 드루이드까지 가리지 않고 동물들이 덤비고 있어요. 도움이 오지 않으면 숲 근처 마을들이 통째로 사라질까 두렵습니다.,M2Q1ABALLARD,,,,,0,0
+32053,Dialog,ABALLARD,"It is possible that the druids have returned in my absence, but Aawill could still use your assistance in preserving the Wood. If you are brave enough, seek Aawill in the grove near the forest's edge.",제가 없는 사이 드루이드들이 돌아왔을 수도 있습니다. 그래도 숲을 지키려면 아윌에게 아직 당신의 도움이 필요할 겁니다. 용기가 있으시다면 숲 가장자리의 숲군락에서 아윌을 찾아보세요.,M2Q1ABALLARD,,,,,0,0
+32054,Dialog,ABALLARD,"I hope to hear from you again, when the forest is returned to its natural state. In the meantime, should you need any nature related supplies, I would be happy to show you my wares.",숲이 본래의 상태를 되찾으면 다시 소식을 들려주시길 바랍니다. 그때까지 자연과 관련된 아이템이 필요하시면 기꺼이 제 물건을 보여 드리겠습니다.,M2Q1ABALLARD,,,,,0,0
+32055,Dialog,ABALLARD,The Wood is to the east of here. Be sure you stop by the grove before you enter the forest proper. Aawill might have some more information for you.,숲은 여기서 동쪽입니다. 본격적으로 숲으로 들어가기 전에 꼭 숲군락에 들르세요. 아윌이 더 많은 정보를 줄지도 모릅니다.,M2Q1ABALLARD,,,,,0,0
+32056,Dialog,ABALLARD,"Well, that's not really up to me to say, but I've never known Aawill to be stingy when it came to rewarding other people's assistance.","그건 제가 단정할 문제는 아니지만, 남의 도움에 보상에서 인색한 아윌을 본 적은 없습니다.",M2Q1ABALLARD,,,,,0,0
+32057,Dialog,ABALLARD,My friend! You have returned victorious. It gladdens my heart to know that there are heroes like you in the world.,친구여! 승리하고 돌아오셨군요. 당신 같은 영웅이 세상에 있다는 사실이 제 마음을 기쁘게 합니다.,M2Q1ABALLARD,,,,vs_nelfxxm1_050,0,0
+32058,Dialog,ABALLARD,Then Mielikki speed your way <brother/sister>.,"미엘리키께서 그대의 걸음을 재촉해 주시길, <brother/sister>.",M2Q1ABALLARD,,,,,0,0
+32059,Dialog,ABALLARD,Of course.,물론입니다.,M2Q1ABALLARD,nw_d1_shopnatur2,,,,0,0
+68097,Dialog,ABALLARD,Goodbye.,안녕히 가세요.,M2Q1ABALLARD,,,,,0,0
+68098,Dialog,ABALLARD,"The news I have heard is sad, yet I am sure you did your best. Is there anything I can do for you?","슬픈 소식을 들었습니다만, 최선을 다하셨으리라 믿습니다. 제가 도와드릴 일이 있을까요?",M2Q1ABALLARD,,,,,0,0
+68099,Dialog,ABALLARD,Goodbye.,안녕히 가세요.,M2Q1ABALLARD,,,,,0,0
+32260,Dialog,ALHELORHOME,"This house has a musky, unpleasant odor, though the source is not apparent.",이 집에서는 쿰쿰하고 불쾌한 냄새가 납니다. 하지만 근원지는 분명치 않습니다.,M2Q1ALHELORHOME,,,,,0,0
+32462,Creature,Adventurer,"Hello, <FullName>, Hero of Neverwinter! I am Barax, formerly a soldier of Neverwinter, now I intend to hunt down the bastards who did this to us!","안녕하신가, <FullName>, 네버윈터의 영웅이여! 나는 바락스다. 전에는 네버윈터의 병사였지만, 이제 이 짓을 한 자들을 반드시 사냥할 작정이다!",M2Q1EADVEN1,m2q1barax002,,,,0,0
+32463,Creature,Adventurer,Everyone in Neverwinter knows your name. You were one of the people who saved us from the plague and I suspect that you'll help just as much in the search for the bastards who started it.,"네버윈터 사람들은 모두 네 이름을 안다. 넌 우리를 역병에서 구한 자 중 하나였고, 이번에도 시작한 놈들을 찾아내는 데 큰 도움이 될 거라 믿는다.",M2Q1EADVEN1,,,,,0,0
+32464,Creature,Adventurer,The cult of course! This mysterious organization that unleashed the plague on Neverwinter and killed so many innocent people. A hero like you is just what we need to find them.,사교지! 네버윈터에 역병을 퍼뜨려 수많은 무고한 이를 죽인 그 불가사의한 조직 말이야. 자네 같은 영웅이야말로 우리가 그들을 찾아낼 때 꼭 필요하지.,M2Q1EADVEN1,,,,,0,0
+32465,Creature,Adventurer,"Don't let me keep you busy. I'm sure that you'll want to talk to Aribeth. We have to report all of our findings to her, after all. Best of luck with the search!",내가 더 붙잡진 않겠다. 아리베스와 얘기하고 싶을 테지. 어쨌든 모든 발견은 그녀에게 보고해야 하니까. 수색에 행운을 빈다!,M2Q1EADVEN1,,,,,0,0
+32466,Creature,Adventurer,"I'm sure that it will be more than enough. A lot of innocent people were killed and this cult owes us a debt that can only be repaid in blood. Give 'em hell for all of us, <FirstName>! ","그걸로 충분하고도 남아. 수많은 무고한 이들이 죽었고, 이 사교 놈들은 피로밖에 갚을 수 없는 빚을 졌지. 놈들한테 지옥을 보여 줘, <FirstName>!",M2Q1EADVEN1,,,,,0,0
+32467,Creature,Adventurer,What!? These bastards unleashed a plague upon our city that killed countless innocent people! We have a chance to find them and you say you don't care?!,"뭐라고!? 저 놈들이 우리 도시에 역병을 풀어 무수한 무고한 이들을 죽였다고! 이제 놈들을 찾을 기회가 왔는데, 네가 상관없다고 한다고?!",M2Q1EADVEN1,,,,,0,0
+32468,Creature,Adventurer,I have nothing else to say to you. I thought that you were a hero.,더는 할 말 없다. 난 네가 영웅인 줄 알았다.,M2Q1EADVEN1,m2q1barax001,,,,0,0
+32469,Creature,Adventurer,"Greetings, <FullName>. I hope you find the cult soon. They must be punished!","안녕하시오, <FullName>. 사교를 곧 찾아내길 바라오. 반드시 벌을 받아야 하니까!",M2Q1EADVEN1,,,,,0,0
+32470,Creature,Adventurer,"Excuse me, <man/woman>. I don't wish to speak with someone who is so uncaring about the innocents who suffered through the plague.",실례하겠소. 역병으로 고통받은 무고한 이들을 그렇게 아랑곳하지 않는 사람과는 말하고 싶지 않소.,M2Q1EADVEN1,,,,,0,0
+32471,Creature,Adventurer,"I heard that you tracked down the cult in Luskan. Give 'em hell for all of us, <FullName>!","당신이 러스칸에서 사교를 추적했다지요. 놈들에게 지옥을 보여 주세요, <FullName>!",M2Q1EADVEN1,,,,,0,0
+40880,Creature,Adventurer,Adventurer,모험가,M2Q1EADVEN1,,,,,0,0
+33476,Dialog,ASHRINE,"Here lies the brave and noble frontiersman Alloch, who scoffed at the warnings of lesser men and built this fine tower.",여기 용맹하고 고귀한 변경 개척자 알록이 잠들다. 그는 하찮은 자들의 경고를 비웃고 이 훌륭한 탑을 세웠다.,M2Q2ASHRINE,,,,,0,0
+58996,Dialog,ASHRINE,He learned of his error shortly thereafter. Beware of trolls.,머잖아 자신의 잘못을 깨달았다. 트롤을 조심하라.,M2Q2ASHRINE,,,,,0,0
+35561,Dialog,ALERK,You got wardstone? You cross bridge if want to. Me Lerk. Good bridge troll.,경계석 있나? 있으면 다리 건너도 돼. 난 럭. 착한 다리 트롤이야.,M2Q3ALERK,m2q3lerk002,,,,0,0
+35562,Dialog,ALERK,Have nice <day/night>.,좋은 <day/night> 보내라.,M2Q3ALERK,,,,,0,0
+35563,Dialog,ALERK,Lerk good bridge troll! Lerk grind your bones!,럭은 좋은 다리 트롤! 럭은 네 뼈 갈아!,M2Q3ALERK,m2hostilepcspeak,,,,0,0
+35564,Dialog,ALERK,Bridge lead to Mister Wanev's property. Nice place. Good view.,다리는 와네브 님 땅으로 가. 좋은 곳. 경치 좋아.,M2Q3ALERK,,,,,0,0
+35565,Dialog,ALERK,Mister Wanev don't like nosy people. I eat unwelcome visitors. Good bridge troll!,와네브 님은 참견쟁이 싫어해. 환영받지 못한 손님은 내가 먹어버려. 난 좋은 다리 트롤!,M2Q3ALERK,,,,,0,0
+35566,Dialog,ALERK,Mister Wanev good boss. He puny but has powerful magics.,"와네브 님은 좋은 주인. 몸집은 작지만, 강한 마법 있어.",M2Q3ALERK,,,,,0,0
+35567,Dialog,ALERK,"You halt! No pass on bridge! You try, Lerk eat you!",멈춰! 다리 못 지나! 시도하면 럭이 널 먹어!,M2Q3ALERK,,,,,0,0
+35568,Dialog,ALERK,This bridge lead to Mister Wanev's property. Me Lerk. Best bridge troll in world. Lerk keep annoying visitor from property. Lerk eat them if they try to cross bridge.,이 다리는 와네브 님 땅으로 가. 난 럭. 세상에서 제일 좋은 다리 트롤. 귀찮은 손님 막아. 억지로 지나면 내가 먹어버려.,M2Q3ALERK,,,,,0,0
+35569,Dialog,ALERK,Bye.,잘 가라.,M2Q3ALERK,,,,,0,0
+35570,Dialog,ALERK,"You not listen good? Only Wanev friend cross bridge. Me not see you before so no way you cross. You try, I eat!",말 잘 못 알아듣나? 와네브 님 친구만 다리 건너. 난 너 처음 봤어. 그러니 못 건너. 억지로 하면 먹어버려!,M2Q3ALERK,,,,,0,0
+35571,Dialog,ALERK,Hah! Lerk not scared of you! Let us fight!,하하! 럭은 너 안 무서워! 싸우자!,M2Q3ALERK,m2hostilepcspeak,,,,0,0
+35572,Dialog,ALERK,"You guest of Mister Wanev? Hmm... You sure? Well, I not want to get in trouble. You pass and no tell Wanev Lerk get in you way.",네가 와네브 님 손님이라고? 흠... 진짜? 문제 일으키긴 싫어. 지나가도 돼. 대신 와네브 님한테 럭이 막았다고 말하지 마.,M2Q3ALERK,m2q3lerk001,,,,0,0
+35573,Dialog,ALERK,Hah! Mister Wanev tell me when to expect guest. He no tell. You no pass.,하하! 와네브 님은 손님 온다고 미리 말해 줘. 이번엔 말 없었어. 넌 못 지나.,M2Q3ALERK,,,,,0,0
+35574,Dialog,ALERK,You cross bridge if you want to. Lerk no bother you.,다리 건너고 싶으면 건너. 럭은 신경 안 써.,M2Q3ALERK,,,,,0,0
+35575,Dialog,ALERK,Lerk no need gold. Storekeep not like Lerk much.,럭은 금 필요 없어. 상인들은 럭 별로 안 좋아해.,M2Q3ALERK,,,,,0,0
+39957,Dialog,ABENL,"Oh my, you're the one! You must be! You look just as the horrible beast said! ","오, 이런, 당신이 그분이군요! 틀림없어요! 그 끔찍한 괴물이 말한 모습이 딱 당신이에요!",M2Q6ABENL,,,,,0,0
+39958,Dialog,ABENL,"Listen to me! Just a short time ago, someone came here looking for you or, at least, someone who matches your exact description. He said he was going to slaughter you and he demanded to know where you were. Nearly slit my throat, too!","제 말 좀 들으세요! 방금 전, 누군가가 당신을 찾으러 여길 왔어요... 어딨냐고 다그치더군요. 제 목줄을 거의 따 버릴 뻔했다니까요!",M2Q6ABENL,nw_d1_heartoff,,,,0,0
+39959,Dialog,ABENL,"He wore some heavy, spike-covered armor and carried a massive sword in his scabbard. It was the biggest I've ever seen! He had murder in his eyes!",그 자는 무겁고 뾰족한 스파이크 갑옷을 입고 거대한 검을 들고 있었어요... 제가 본 것 중에 제일 컸어요! 눈빛이 살기로 이글거렸습니다!,M2Q6ABENL,,,,,0,0
+39960,Dialog,ABENL,"Yesterday. I could barely sleep last night for thinking about it. Gods, I nearly died!","어제였어요. 어젯밤엔 생각이 나서 거의 잠도 못 잤다니까요. 신들이시여, 전 거의 죽을 뻔했어요!",M2Q6ABENL,,,,,0,0
+39961,Dialog,ABENL,"No, no name. Just said he was with the cult... none of us had the courage to ask any questions... there was dried blood on his hands!","아니요, 이름은 못 들었어요. 다만 그가 사교 소속이라고만 했죠... 우리 중 누구도 감히 묻지 못했어요... 손에 말라붙은 피가 보였거든요!",M2Q6ABENL,,,,,0,0
+39962,Dialog,ABENL,He was some sort of orc and a huge one at that! ,오크 족속이었던 것 같아요-그리고 엄청 거대했어요!,M2Q6ABENL,,,,,0,0
+39963,Dialog,ABENL,It was the least I could do. I suggest you run away and never return! I think I might!,제가 해 줄 수 있는 최소한이었어요. 당신은 도망쳐 다시는 돌아오지 마세요! 저도 그럴까 봐요!,M2Q6ABENL,m2q1benleran001,,,,0,0
+39964,Dialog,ABENL,"There is a monster looking for you, <sir/madam>! A beast! He's going to kill you! Oh, gods, he almost killed ME!","당신을 찾는 괴물이 있어요, 선생님! 야수에요! 당신을 죽이러 왔다고요! 오, 신들이시여, 거의 저도 죽일 뻔했다니까요!",M2Q6ABENL,,,,,0,0
+39965,Dialog,ABENL,I must be leaving now.,전 이만 가봐야겠습니다.,M2Q6ABENL,,,,,0,0
+65181,Dialog,ABENL,You'd better watch out!,조심하는 게 좋을 거에요!,M2Q6ABENL,,,,,0,0
+39985,Dialog,ALERN,"Yuh, you in *big* trouble... ","으으, 큰일 났다...",M2Q6ALERN,,,,,0,0
+39986,Dialog,ALERN,"There was big fellow in here, lookin' for someone exactly like ya. Pretty sure it's ya. Buddy of mine tells 'im to get lost an' da big guy kill him for it! Bled all over... ","여기 큰 놈이 와서 딱 너 같은 사람 찾고 있었어. 아마 너 맞을 거야. 내 친구가 그만 가라고 했는데, 큰 놈이 바로 죽여 버렸어! 피투성이 됐지...",M2Q6ALERN,nw_d1_heartoff,,,,0,0
+39987,Dialog,ALERN,"No, split 'im right in half with this big jagged-lookin' blade. ","아니, 그놈은 커다란 톱니 같은 칼로 내 친구를 반으로 갈라 버렸어.",M2Q6ALERN,,,,,0,0
+39988,Dialog,ALERN,"Me buddy didn'a but after I saws 'im all split in 'alf like dat, I tells da guy you been 'round dese parts... I dare any man 'ere to say 'e wouldn'a done the same thing right then!","내 친구는 저항했지만, 난 그 꼴 보고 바로 네가 여기 있다고 말했지... 그 자리에 있던 누구라도 똑같이 했을 거야!",M2Q6ALERN,,,,,0,0
+39989,Dialog,ALERN,"Yuh? Well... thanks, eh? Me always told me buddy that that mout' of 'is would be the death o' 'im. Least 'e did it for a good <man/woman>.","응? 그래, 고맙다. 내 친구는 입이 화근일 거라 늘 말했거든. 그래도 착한 사람이었어.",M2Q6ALERN,,,,,0,0
+39990,Dialog,ALERN,We was gonna hold a big funeral for 'im. We figures he's a hero for standin' up like that agains' the cult. A li'l donation to that would be nice... ,장례는 크게 치를 거야. 사교에 맞서 싸운 영웅이었으니까. 조금이라도 기부해 주면 좋을 텐데...,M2Q6ALERN,,,,,0,0
+39991,Dialog,ALERN,Yuh. These be troubled times 'bout these parts.,맞아. 요즘 이 근처는 험한 시절이지.,M2Q6ALERN,m2q1lerner005,,,,0,0
+39992,Dialog,ALERN,"Really? Yuh, this go a long way. We'll have big hero's funeral for 'im.","정말? 그래, 큰 도움이 될 거야. 멋진 영웅의 장례를 치를 수 있겠네.",M2Q6ALERN,,,,,0,0
+39993,Dialog,ALERN,"Yuh? All right but don' you forget about 'im, okay? 'E gave 'is life to protect you, yuh?",그래? 알았다. 하지만 잊지 마라. 그는 널 지키려 목숨을 바쳤다는 걸.,M2Q6ALERN,,,,,0,0
+39994,Dialog,ALERN,"Damn adventurers! Make you drink yer buddy's blood, then cough up an' pay fer more! Here, 400 gold. It's all I 'ad to bury 'im with.","빌어먹을 모험가들! 친구 피까지 마시게 하고 또 돈 내라니! 여기, 금화 400이다. 장례 치를 전부였어.",M2Q6ALERN,m2q1lerner001,,,,0,0
+39995,Dialog,ALERN,"Damn adventurers! Make you drink yer buddy's blood, then cough up an' pay fer more! Well you and yer friends 'ave already robbed me broke an' blind!",빌어먹을 모험가들! 친구 피까지 마시게 하고 또 돈 내라니! 너랑 네 친구들이 이미 다 털어 가버렸잖아!,M2Q6ALERN,,,,,0,0
+39996,Dialog,ALERN,I leave now.,난 이제 떠납니다.,M2Q6ALERN,,,,,0,0
+39997,Dialog,ANEVA,"Looks like your bait has borne fruit after all, Jaheel. Quick, close in on them.","네 미끼가 결국 성과를 내는군, 자힐. 빨리, 놈들에게 접근해 포위해라.",M2Q6ANEVA,m2q6neva001,,,vs_nwizarf1_054,0,0
+40007,Dialog,ATHUR,"My friend, it's vital that we talk.","친구, 꼭 얘기해야 해.",M2Q6ATHUR,,,,,0,0
+40008,Dialog,ATHUR,"You must be <FirstName>. Your are exactly as the assassin described you. I'm an adventurer like you, looking for the cult. They've got an assassin trying to kill us off. Of my entire party, I'm the sole survivor.",네가 <FirstName>지? 암살자가 묘사한 그대로구나. 나도 너처럼 사교를 쫓는 모험가야. 놈들이 우리를 없애려고 암살자를 풀었어. 내 일행 중엔 나만 살아남았지.,M2Q6ATHUR,nw_d1_heartoff,,,,0,0
+40009,Dialog,ATHUR,"He's all melee so if you can keep away from his sword, you'll stand a chance. I'm an archer and that's the only reason I'm alive today.",걔는 온통 근접전이야. 그러니 검의 사거리만 벗어나면 승산이 있어. 난 궁수라서 오늘까지 살아 있는 거고.,M2Q6ATHUR,,,,,0,0
+40010,Dialog,ATHUR,Just outside of Charwood but don't bother heading back there. You don't find him... he finds you.,그을린숲 바로 바깥이었지. 하지만 거기로 굳이 돌아갈 필요는 없어. 네가 그를 찾는 게 아니라... 그가 널 찾아와.,M2Q6ATHUR,,,,,0,0
+40011,Dialog,ATHUR,Yeah: Vardoc... I didn't get his clan-name but he seems orc-raised. No human mother could raise a son to be that vicious.,"그래, 바독... 부족 이름까진 못 들었지만 오크 손에서 자란 것 같아. 인간 어머니라면 그렇게 악독한 아들을 키우진 못하지.",M2Q6ATHUR,,,,,0,0
+40012,Dialog,ATHUR,"He's a loner, it seems. Maybe that's a weakness to exploit, I don't know... He didn't seem to need any help against my party... ",외톨이인 듯해. 그게 파고들 약점일지도 모르지... 하지만 내 일행 상대로는 도움 따윈 필요 없어 보였어...,M2Q6ATHUR,,,,,0,0
+40013,Dialog,ATHUR,Spread the word. He's after every last one of us... ,주변에 널리 알려. 놈은 우리 하나하나 전부를 노리고 있어...,M2Q6ATHUR,,,,,0,0
+40014,Dialog,ATHUR,I really need to get going.,이제 정말 가봐야겠어.,M2Q6ATHUR,,,,,0,0
+40681,Creature,Aruph,Aruph,알루프,2Q4A01_ARUPH,,,,,0,0
+40744,Creature,Archeologist,Archeologist,고고학자,ARCHEOLOGIST1,,,,,0,0
+40838,Creature,Albie,Albie,앨비,M2Q1CALBIE,,,,,0,0
+40841,Creature,Azariah Craulnober,Azariah,아자리아,M2Q1CAZAR,,,,,0,0
+40842,Creature,Azariah Craulnober,Craulnober,크롤노버,M2Q1CAZAR|M2Q1CELAITH,,,,,0,0
+40861,Creature,Archon,Archon,집정관,M2Q1CHARCHON,,,,,0,0
+40906,Creature,Archdruid Aawill,Archdruid Aawill,대드루이드 아윌,M2Q2EAAWILL1,,,,,0,0
+40942,Creature,Ambassador G'urdach,G'urdach,구르다크,M2Q6CGURD,,,,,0,0
+40943,Creature,Ambassador G'urdach,Ambassador,대사,M2Q6CGURD,,,,,0,0
+42701,Dialog,ALLIANCETR3Q21,Halt! Who goes there? In the name of the Lords' Alliance I demand you identify yourself!,멈춰! 거기 누구냐? 영주 연합의 이름으로 신원을 밝힐 것을 명한다!,ALLIANCETR3Q21,m3q2c03talkoncee,,,,0,0
+42702,Dialog,ALLIANCETR3Q21,Now you just sit tight while we figure out who you are and what to do with you.,우리가 네가 누구고 어떻게 할지 판단할 때까지 꼼짝 말고 있어라.,ALLIANCETR3Q21,,,,,0,0
+42703,Dialog,ALLIANCETR3Q21,That's a mighty poor attitude to take!,그건 참으로 형편없는 태도군!,ALLIANCETR3Q21,,,,,0,0
+42704,Dialog,ALLIANCETR3Q21,"So you say. But anybody can make that claim, can't they?",말은 그렇지. 그런 말은 아무나 할 수 있잖나?,ALLIANCETR3Q21,,,,,0,0
+42705,Dialog,ALLIANCETR3Q21,Thanks for your help. I don't know if we could have survived that attack without you! I guess you've proved you're on our side. We'll continue our patrols now and leave you to your business.,도와줘서 고맙다. 방금 공격은 도움 없이는 버티기 어려웠을 거다! 네가 우리 편임을 증명했군. 우린 순찰을 계속하겠다. 당신은 당신의 일을 보도록.,ALLIANCETR3Q21,m3q2c03trex1,,,,0,0
+42707,Dialog,ALLELKC,I don't feel good. I want my momma.,몸이 안 좋아. 엄마 보고 싶어.,M2Q03ALLELKC,,,,,0,0
+42708,Dialog,ALLELKC,I know you! You're <FullName>! My momma says you made all the sick people better.,나 너 알아! 너 <FullName>지! 우리 엄마가 아픈 사람들 전부 네가 낫게 해줬다고 했어.,M2Q03ALLELKC,,,,,0,0
+42709,Dialog,ALLELKC,"Everyone was real sick, but <CUSTOM201> made us all better.","다들 많이 아팠는데, <CUSTOM201>가 우리 모두를 낫게 해줬어.",M2Q03ALLELKC,,,,,0,0
+42718,Dialog,ALLELKF,"Please, I am weak with plague. I beg you for mercy. ","제발, 역병에 시달려 기운이 없습니다. 자비를 베풀어 주십시오.",M2Q03ALLELKF,,,,,0,0
+42719,Dialog,ALLELKF,"Please, we Elk are dying from the plague. Our tribe is doomed. Take pity on us! Speak to our leader Zokan Thunderer. ","제발, 우리 큰사슴 부족이 역병으로 죽어가고 있습니다. 우리 부족은 멸망 위기입니다. 불쌍히 여겨 주십시오! 우리 지도자 천둥의 조칸과 이야기해 주십시오.",M2Q03ALLELKF,,,,,0,0
+42720,Dialog,ALLELKF,"No, please spare me!","안 됩니다, 제발 살려 주십시오!",M2Q03ALLELKF,,,,,0,0
+42721,Dialog,ALLELKF,"You will find Zokan at the center of this complex. Please, go to him now.","조칸은 이 단지의 중앙에 있습니다. 제발, 지금 그에게 가십시오.",M2Q03ALLELKF,m3q2c08walktozok,,,,0,0
+42722,Dialog,ALLELKF,"We Elk are dying from the plague. Please, you must go speak to Zokan.","우리 큰사슴 부족은 역병으로 죽어가고 있습니다. 제발, 조칸과 꼭 이야기해 주십시오.",M2Q03ALLELKF,,,,,0,0
+42723,Dialog,ALLELKF,I am going to live! <CUSTOM201> has cured the people of the Elk from the Wailing Death!,살 수 있게 되었어! <CUSTOM201>가 큰사슴 부족 사람들을 울부짖는 죽음 역병에서 치유해 주었어!,M2Q03ALLELKF,,,,,0,0
+42724,Dialog,ALLELKF,"Our children will sing your name, <FullName>! Through every generation the legend of how you saved the Elk people from the Wailing Death shall be retold.","우리 아이들이 당신의 이름을 노래할 거에요, <FullName>! 당신이 큰사슴 부족을 울부짖는 죽음 역병에서 구해낸 전설은 대대로 전해질 겁니다.",M2Q03ALLELKF,,,,,0,0
+66737,Dialog,ALLELKF,Our leader is dead; haven't you hurt us enough?,우리 지도자는 죽었어. 아직도 우릴 더 괴롭혀야겠어?,M2Q03ALLELKF,,,,,0,0
+42733,Dialog,ALLELKM,"Please, I am weak with plague. I beg you for mercy. ","제발, 역병에 시달려 기운이 없습니다. 자비를 베풀어 주십시오.",M2Q03ALLELKM,,,,,0,0
+42734,Dialog,ALLELKM,"Please, we Elk are dying from the plague. Our tribe is doomed. Take pity on us. Speak to our leader Zokan Thunderer. ","제발, 우리 큰사슴 부족이 역병으로 죽어가고 있습니다. 우리 부족은 멸망 위기입니다. 불쌍히 여겨 주십시오. 우리 지도자 천둥의 조칸과 이야기해 주십시오.",M2Q03ALLELKM,,,,,0,0
+42735,Dialog,ALLELKM,"No, please spare me!","안 됩니다, 제발 살려 주십시오!",M2Q03ALLELKM,,,,,0,0
+42736,Dialog,ALLELKM,"You will find Zokan at the center of this complex. Please, go to him now.","조칸은 이 단지의 중앙에 있습니다. 제발, 지금 그에게 가십시오.",M2Q03ALLELKM,m3q2c08walktozok,,,,0,0
+42737,Dialog,ALLELKM,"We Elk are dying from the plague. Please, you must go speak to Zokan.","우리 큰사슴 부족은 역병으로 죽어가고 있습니다. 제발, 조칸과 꼭 이야기해 주십시오.",M2Q03ALLELKM,,,,,0,0
+42738,Dialog,ALLELKM,I am going to live! <CUSTOM201> has cured the people of the Elk from the Wailing Death!,살 수 있게 되었어! <CUSTOM201>가 큰사슴 부족 사람들을 울부짖는 죽음 역병에서 치유해 주었어!,M2Q03ALLELKM,,,,,0,0
+42739,Dialog,ALLELKM,"Our children will sing your name, <FullName>! Through every generation the legend of how you saved the Elk people from the Wailing Death shall be retold.","우리 아이들이 당신의 이름을 노래할 거에요, <FullName>! 당신이 큰사슴 부족을 울부짖는 죽음 역병에서 구해낸 전설은 대대로 전해질 겁니다.",M2Q03ALLELKM,,,,,0,0
+68272,Dialog,ALLELKM,Our leader is dead; haven't you hurt us enough?,우리 지도자는 죽었어. 아직도 우릴 더 괴롭혀야겠어?,M2Q03ALLELKM,,,,,0,0
+42740,Dialog,ALLSIGNS,To Fort Ilkard.,일카드 요새로.,M3ALLSIGNS,,,,,0,0
+42741,Dialog,ALLSIGNS,Trading Post.,교역소.,M3ALLSIGNS,,,,,0,0
+42742,Dialog,ALLSIGNS,To Beorunna's Well.,베오룬나의 우물로.,M3ALLSIGNS,,,,,0,0
+42743,Dialog,ALLSIGNS,Drinking House.,주점.,M3ALLSIGNS,,,,,0,0
+42744,Dialog,ALLSIGNS,To Beorunna's Well.,베오룬나의 우물로.,M3ALLSIGNS,,,,,0,0
+42745,Dialog,ALLSIGNS,To Fort Ilkard.,일카드 요새로.,M3ALLSIGNS,,,,,0,0
+42746,Dialog,ALLSIGNS,To Fort Ilkard.,일카드 요새로.,M3ALLSIGNS,,,,,0,0
+42747,Dialog,ALLSIGNS,To Homesteads.,농가 지대로.,M3ALLSIGNS,,,,,0,0
+42748,Dialog,ALLSIGNS,To Ruins.,폐허로.,M3ALLSIGNS,,,,,0,0
+42749,Dialog,ALLSIGNS,Temple of Tyr.,티르 신전.,M3ALLSIGNS,,,,,0,0
+42750,Dialog,ALLSIGNS,To Beorunna's Well.,베오룬나의 우물로.,M3ALLSIGNS,,,,,0,0
+42751,Dialog,ALLSIGNS,To the Spine of the World.,세상의 등뼈 산맥으로.,M3ALLSIGNS,,,,,0,0
+42752,Dialog,ALLSIGNS,To the Moonwood.,달숲으로.,M3ALLSIGNS,,,,,0,0
+42753,Dialog,ALLSIGNS,To Coldwood.,냉기숲으로.,M3ALLSIGNS,,,,,0,0
+44484,Dialog,ALLBALL,"I shouldn't be talking when I'm on duty, but I guess I can make an exception for you, <FirstName>.","근무 중에는 잡담하면 안 되지만, <FirstName>, 너만은 예외로 해 줄게.",M3Q01ALLBALL,,,,,0,0
+44485,Dialog,ALLBALL,"You figure just because you're some great hero that you can bother me while I'm on duty? What do you want, <FirstName>? And make it quick!","네가 뭐 대단한 영웅이라고 내가 근무 중인데도 귀찮게 굴어도 된다고 생각하나? 뭣 때문에 왔지, <FirstName>? 빨리 말해!",M3Q01ALLBALL,,,,,0,0
+44486,Dialog,ALLBALL,Guess I'll just go back to manning the ballista then.,그럼 난 노포 근무로 돌아가야겠군.,M3Q01ALLBALL,,,,,0,0
+44487,Dialog,ALLBALL,Isn't it obvious? I'm manning the ballista. You never know when those Luskan dogs might launch an attack on our camp!,보면 모르겠나? 노포를 운용 중이야. 저 러스칸 개떼가 언제 우리 야영지를 들이칠지 모르거든!,M3Q01ALLBALL,,,,,0,0
+44488,Dialog,ALLBALL,Of course these ballista won't do much good if those Uthgardt camped on the plateau turn on us. It isn't easy fighting a war when you can't even trust your allies! ,물론 고원에 진을 친 우스가르트가 돌아서 버리면 이 노포들도 별 소용 없지. 아군도 못 믿는 전쟁만큼 힘든 게 어디 있겠어!,M3Q01ALLBALL,,,,,0,0
+44489,Dialog,ALLBALL,How can you even ask that? They're savages and pagans. Wouldn't surprise me if they're planning to sacrifice us all to their Gods next full moon!,그걸 어떻게 묻냐? 놈들은 야만적이고 이교도야. 다음 보름달에 우릴 전부 자기네 신에게 제물로 바칠 작정이어도 하나도 놀랍지 않겠다니까!,M3Q01ALLBALL,,,,,0,0
+44490,Dialog,ALLBALL,"But our orders are to treat them with respect, so I guess I shouldn't be saying anymore about this.","하지만 명령은 놈들을 존중하라고 돼 있으니, 이 얘기는 더 하지 않는 게 좋겠지.",M3Q01ALLBALL,,,,,0,0
+44491,Dialog,ALLBALL,"Uh... well, they're barbarians. Not like you, <FirstName>. You've proved yourself as an ally many times over. But the Uthgardt are nothing but bloodthirsty savages.","어... 뭐, 놈들은 야만인들이지. <FirstName>, 너처럼은 아니야. 넌 여러 번 우리 편임을 증명했지. 하지만 우스가르트는 피에 굶주린 야만인들일 뿐이야.",M3Q01ALLBALL,,,,,0,0
+44492,Dialog,ALLBALL,"Come on, everybody knows you, <FirstName>. After all you've done for Neverwinter? Your practically a living legend!","에이, <FirstName>, 너 모르는 사람이 어딨어. 네버윈터를 위해 해 온 일을 생각해 봐. 넌 사실상 살아 있는 전설이야!",M3Q01ALLBALL,,,,,0,0
+44493,Dialog,ALLBALL,"And if I may say so, it's good to have someone on our side who we can rely on when we end up facing Aribeth and that Luskan army.","게다가 말인데, 아리베스랑 그 러스칸 군대를 마주하게 될 때 믿고 맡길 사람이 우리 편에 있다는 건 든든한 일이야.",M3Q01ALLBALL,,,,,0,0
+44494,Dialog,ALLBALL,"I don't know what I can say that would be much help to a hero like you, but I'll give it my best shot.","너 같은 영웅에게 별로 도움 될 말이 있을지 모르겠지만, 최선을 다해 볼게.",M3Q01ALLBALL,,,,,0,0
+44495,Dialog,ALLBALL,"Of course, everybody used to say the same thing about Aribeth and look how she turned out. So we'll just wait and see where you end up.",물론 아리베스에 대해서도 모두가 똑같이 말하곤 했지. 결과가 어땠는지는 봤잖아. 그러니 네가 어디에 다다를지는 두고 보자고.,M3Q01ALLBALL,,,,,0,0
+44496,Dialog,ALLBALL,"Any supplies you need can be found at the stores in the camp. Weapons, armor, even healing and magic supplies, if that's what you're after.","필요한 보급품은 야영지 안 상점들에 다 있어. 무기, 방어구, 치유품이나 마법 보급품까지, 원하면 말이야.",M3Q01ALLBALL,,,,,0,0
+44497,Dialog,ALLBALL,Anything else you need to know?,더 알아야 할 게 있나?,M3Q01ALLBALL,,,,,0,0
+44498,Dialog,ALLBALL,"I guess I can answer a few questions, but make it quick. Like I said, I'm on duty.",몇 가지 질문엔 답해 줄 수 있겠지. 하지만 빨리 해. 말했듯이 난 근무 중이거든.,M3Q01ALLBALL,,,,,0,0
+44499,Dialog,ALLBALL,"You can't bully me around just because you're famous! Look, you want to ask me questions then ask. Otherwise I've got work to do.",네가 유명하다고 날 쥐락펴락할 순 없어! 질문이 있으면 해. 아니면 난 할 일이 있어.,M3Q01ALLBALL,,,,,0,0
+44500,Dialog,ALLBALL,"Can't tell you much. I'm a soldier, not a scout. There's mountains to the north and the Coldwood to the east. And of course there's Fort Ilkard to the south.","많이 말해 줄 순 없어. 난 정찰병이 아니라 병사거든. 북쪽엔 산맥, 동쪽엔 냉기숲이 있고, 남쪽엔 일카드 요새가 있어.",M3Q01ALLBALL,,,,,0,0
+44501,Dialog,ALLBALL,If you want to know more I guess you'll have to go check those places out for yourself.,더 알고 싶다면 직접 가서 확인하는 수밖에.,M3Q01ALLBALL,,,,,0,0
+44502,Dialog,ALLBALL,"Yeah, I heard Gend had some of you out looking for some old artifacts. But I'm just a soldier, I don't know anything about that.","그래, 겐드가 너희 몇 명을 보내 옛 유물을 찾게 했다더군. 하지만 난 그냥 병사일 뿐, 그 일은 몰라.",M3Q01ALLBALL,,,,,0,0
+44838,Dialog,ALLELKS,"Please, mighty <class>! This slaughter of my tribe must end. We cannot stand against your strength. Let us end this bloodhsed.","부디, 위대한 <class>여! 우리 부족의 이 학살을 끝내 주십시오. 우리는 당신의 힘을 감당할 수 없습니다. 이 유혈을 끝냅시다.",M3Q02ALLELKS,,,,,0,0
+44839,Dialog,ALLELKS,Then may the fury of the Great Elk rain down upon your head!,그렇다면 위대한 큰사슴의 분노가 그대의 머리 위에 내리쬐길!,M3Q02ALLELKS,,,,,0,0
+44840,Dialog,ALLELKS,"We are weakend by plague and sickness, you will slay us all if we resist. Our chieftain Zokan Thunderer wishes a parlay. Please accept, for the sake of the people born of the Elk.",우리는 역병과 병마로 약해졌습니다. 맞서 싸우면 우리 모두가 죽을 것입니다. 우리 족장 천둥의 조칸이 회담을 원합니다. 부디 큰사슴의 자손들을 위해 받아 주십시오.,M3Q02ALLELKS,,,,,0,0
+44841,Dialog,ALLELKS,"You will find Zokan at the center of this complex. Please, go to him now.","조칸은 이 단지의 중앙에 있습니다. 제발, 지금 그에게 가십시오.",M3Q02ALLELKS,m3q2c08walktozok,,,,0,0
+44842,Dialog,ALLELKS,"The children born of the Elk weep with sorrow. The plague ravages our people. Please, if you have not done so I beg you to parlay with Zokan Thunderer, chieftain of our tribe.","큰사슴의 자손들이 슬픔에 울고 있습니다. 역병이 우리를 유린하고 있습니다. 아직 그러지 않으셨다면, 제발 우리 족장 천둥의 조칸과 회담해 주시길 간청합니다.",M3Q02ALLELKS,,,,,0,0
+44843,Dialog,ALLELKS,Then I pray you will go to Fort Ilkard as he requested. Our people's time grows short.,그렇다면 그의 요청대로 일카드 요새로 가 주시길 빕니다. 우리 백성에게 남은 시간이 많지 않습니다.,M3Q02ALLELKS,,,,,0,0
+44844,Dialog,ALLELKS,"You have saved our tribe from extinction, <FullName>. With the cure you have brought Zokan, I have been able to heal our tribe. The Wailing Death is no more.","당신은 우리 부족을 멸종의 위기에서 구하셨습니다, <FullName>. 당신이 조칸에게 가져온 치료법 덕분에 나는 우리 부족을 치유할 수 있었습니다. 울부짖는 죽음 역병은 더 이상 없습니다.",M3Q02ALLELKS,,,,,0,0
+44845,Dialog,ALLELKS,"Once the children of the Elk wept, but <CUSTOM201> saved our people from the Wailing Death.","한때 큰사슴의 자손들이 울부짖었지만, <CUSTOM201>가 우리 백성을 울부짖는 죽음 역병에서 구해 주었습니다.",M3Q02ALLELKS,,,,,0,0
+44846,Dialog,ALLELKS,"For your heroism the spirit of the Elk shall walk by your side always. Thank you, <FullName>. We owe you everything.","당신의 영웅적 행위에 보답하여, 큰사슴의 혼이 언제나 당신 곁을 지킬 것입니다. 고맙습니다, <FullName>. 우리는 당신께 모든 것을 빚졌습니다.",M3Q02ALLELKS,,,,,0,0
+44847,Dialog,ALLELKS,"I am Sacuna, a shaman of the tribe. Please, you are too strong. My people fall before you like the leaves before an autumn storm. Let us end this slaughter.","나는 사쿠나, 이 부족의 주술사입니다. 제발, 당신은 너무 강합니다. 가을 폭풍 앞의 낙엽처럼 내 백성이 당신 앞에 쓰러지고 있습니다. 이 학살을 끝내 줍시다.",M3Q02ALLELKS,,,,,0,0
+44858,Dialog,ALLPRIF,It's about time someone showed up to rescue me! Who knows what those savages would have done if you had been much slower!,이제야 누가 날 구하러 왔네! 조금만 더 늦었으면 그 야만인들이 날 어떻게 했을지 누가 알겠어!,M3Q02ALLPRIF,,,,,0,0
+44859,Dialog,ALLPRIF,"Of all the luck, I had to get rescued by a moron!","운도 지지리 없지, 구해 준다는 게 하필 머저리라니!",M3Q02ALLPRIF,,,,,0,0
+44860,Dialog,ALLPRIF,So far all they've done is throw me in this cage. Probably saving me for some pagan ritual they hope will cure them of this plague that's infected their whole tribe.,지금까진 날 이 감방에 쳐넣은 것뿐이야. 아마 부족 전체에 번진 역병을 고쳐 보겠다고 이교도 의식에 날 제물로 쓰려는 거겠지.,M3Q02ALLPRIF,,,,,0,0
+44861,Dialog,ALLPRIF,"I suppose I can find my own way out, with these savages all so sick with plague. Some rescue this turned out to be! Hmph! ","역병으로 저 야만인들 다 쓰러져 있으니, 나 혼자서도 나갈 수 있겠네. 이게 무슨 구출이람! 흥!",M3Q02ALLPRIF,,,,,0,0
+44862,Dialog,ALLPRIF,"Mother was right. It isn't safe living out on a farm. I'm heading straight for Neverwinter, and you can bet I won't be leaving the city anytime soon again!","엄마 말이 맞았어. 시골 농장에 사는 건 안전하지가 않아. 난 곧장 네버윈터로 갈 거고, 당분간은 절대 도시 밖으로 안 나갈 거야!",M3Q02ALLPRIF,,,,,0,0
+44863,Dialog,ALLPRIF,"My name is Mileene, if you must know. Daddy left me a nice inheritance, so I thought I'd buy a little farm in the countryside. Then those damn savages came and ruined everything!","굳이 알려 달라면, 내 이름은 밀린이야. 아빠가 괜찮은 유산을 남겨 줘서 시골에 작은 농장을 샀지. 그런데 그 빌어먹을 야만인들이 와서 전부 망쳐 놨어!",M3Q02ALLPRIF,,,,,0,0
+44864,Dialog,ALLPRIF,Are you saying this is my fault? It wasn't! I was just working in my garden out on my farm when those barbarians attacked! They destroyed my home and dragged me kicking and screaming to this prison.,"내 탓이라는 거야? 아니거든! 난 내 농장 정원에서 일하고 있었을 뿐이야. 그 야만인들이 들이닥쳐서 집을 박살 내고, 날 발버둥치며 비명 지르는 채로 이 감옥까지 질질 끌고 왔다고!",M3Q02ALLPRIF,,,,,0,0
+44865,Dialog,ALLPRIF,"What else do you expect me to tell you? They captured me. The fact they haven't killed me yet, or worse, probably just means they're planning some horrible, unimaginable torture! Filthy savages!","더 뭘 말하길 바라는 거야? 놈들이 날 사로잡았고, 아직 날 안 죽였다는-아니면 그보다 더한 짓을 안 했다는-건, 아마 상상도 못 할 끔찍한 고문을 준비 중이란 뜻이겠지! 더러운 야만인들!",M3Q02ALLPRIF,,,,,0,0
+44866,Dialog,ALLPRIF,"Oh, yes, let's waste time with introductions. Don't worry about getting me safely away from here! That would be too much to ask, wouldn't it?","그래, 소개나 하면서 시간이나 낭비하자고? 날 안전하게 여기서 빼내는 건 신경 쓰지 마! 그건 너무 과한 부탁이겠지, 안 그래?",M3Q02ALLPRIF,,,,,0,0
+60624,Dialog,ALLPRIF,How dare you speak to me like that! I'll scratch your eyes out!,감히 내게 그런 말투로?! 네 눈알을 할퀴어 버릴 거야!,M3Q02ALLPRIF,nw_d1_attonend02,,,,0,0
+44877,Dialog,ALLPRIM,Thanks for freeing me. I was afraid Zokan would never let me out of that cage!,구해 줘서 고맙다. 조칸이 날 그 우리에서 절대 안 내보낼 줄 알았거든!,M3Q02ALLPRIM,,,,,0,0
+44878,Dialog,ALLPRIM,"Most of the Uthgardt are too sick with plague to even try and stop me. I'll get out of here okay. I wish I had a reward for you, but all I can do is thank you again before I go. So... thanks.","우스가르트 대부분이 역병 때문에 말도 못 하게 아파서, 날 막을 생각조차 못 해. 혼자서도 나갈 수 있겠어. 보상을 드리면 좋겠지만 가진 게 고맙단 말뿐이네. 그러니까... 고마워.",M3Q02ALLPRIM,,,,,0,0
+44879,Dialog,ALLPRIM,My name is Arden. I'm a soldier with the Lords' Alliance. At least I was until Zokan's people captured me.,내 이름은 아든. 영주 연합 소속 병사였어. 조칸 쪽 사람들이 날 붙잡기 전까지는 말이지.,M3Q02ALLPRIM,,,,,0,0
+44880,Dialog,ALLPRIM,I was on a scouting mission when I stumbled onto a group of Elk warriors. I was outnumbered four to one. Lucky for me they decided to show mercy and took me prisoner instead of simply killing me.,정찰 임무 중에 큰사슴 전사 무리를 우연히 마주쳤어. 4대 1로 숫자가 안 됐지. 운 좋게도 놈들이 자비를 보여서 그냥 죽이지 않고 포로로 잡아 갔어.,M3Q02ALLPRIM,,,,,0,0
+44881,Dialog,ALLPRIM,"Wow, you're kind of slow, aren't you? Sorry, I don't mean to sound rude. You did rescue me, after all. And I was the one dumb enough to get captured by Zokan's people, not you.","와, 너 좀 느리구나? 미안, 무례하게 들리려던 건 아냐. 어쨌든 넌 날 구해 줬잖아. 멍청하게 잡힌 건 나지, 너는 아니고.",M3Q02ALLPRIM,,,,,0,0
+44882,Dialog,ALLPRIM,"They treated me okay, though I was a little worried about catching the plague. Seems the whole tribe is infected. Their chief, Zokan, came and spoke to me a bit. I expected some kind of violent savage, but he seemed like a reasonable man.","놈들은 날 나쁘게 대하진 않았어. 다만 역병 옮을까 봐 좀 걱정되긴 했지. 부족 전체가 감염된 모양이야. 족장 조칸이 와서 잠깐 얘기도 했는데, 난 폭력적인 야만인일 줄 알았거든. 그런데 의외로 이성적인 사람이더라.",M3Q02ALLPRIM,,,,,0,0
+44883,Dialog,ALLPRIM,"Zokan asked if I knew Commander Damas from Fort Ilkard. I don't, but it was obvious Zokan hates him. He blames Damas for the plague that's killing all the Uthgardt.",조칸이 일카드 요새의 다마스 사령관을 아느냐고 묻더군. 난 몰라. 하지만 조칸이 그를 증오한다는 건 뻔히 보였어. 우스가르트를 죽이는 역병이 다 다마스 탓이라고 하더라고.,M3Q02ALLPRIM,,,,,0,0
+44884,Dialog,ALLPRIM,"I don't know why Zokan hates Damas so much. You'd have to ask the Uthgardt chief, I guess. Like that would happen!","왜 그렇게 다마스를 미워하는지는 모르지. 그건 우스가르트 족장에게 직접 물어봐야 할걸. 뭐, 그게 가능하기나 하겠지만!",M3Q02ALLPRIM,,,,,0,0
+44885,Dialog,ALLPRIM,"You aren't even smart enough to say 'plague?' Wow, I'm amazed you were able to figure out how to unlock my cell. But I shouldn't insult you after you saved my ass.","역병'이라는 말도 못 하겠어? 와, 네가 내 감방 문을 어떻게 열 줄은 안다는 게 놀랍네. ...아니, 구해 준 사람을 모욕하면 안 되지.",M3Q02ALLPRIM,,,,,0,0
+60627,Dialog,ALLPRIM,What? No - I won't die without a fight!,뭐라고? 안 돼-싸워 보지도 않고 죽진 않아!,M3Q02ALLPRIM,nw_d1_attonend02,,,,0,0
+45446,Dialog,ALLELKW,You must speak to Zokan Thunderer. He is the leader of the tribe.,천둥의 조칸과 반드시 이야기해야 합니다. 그가 우리 부족의 지도자입니다.,M3Q03ALLELKW,,,,,0,0
+45447,Dialog,ALLELKW,Our tribe is saved! <CUSTOM201> has cured the people of the Elk from the Wailing Death!,우리 부족이 구원받았어요! <CUSTOM201>가 큰사슴 부족 사람들을 울부짖는 죽음 역병에서 치유했어요!,M3Q03ALLELKW,,,,,0,0
+45448,Dialog,ALLELKW,"You are a great hero, <FullName>! Through every generation the legend of how you saved the Elk people from the Wailing Death shall be retold.","당신은 위대한 영웅이에요, <FullName>! 당신이 큰사슴 부족을 울부짖는 죽음 역병에서 구해낸 전설은 대대손손 다시 전해질 거에요.",M3Q03ALLELKW,test,,,,0,0
+45932,Creature,Advanced Stone Golem,Only those with a pass amulet are permitted entrance.,통행 호신부를 가진 자만 들어갈 수 있다.,M3Q04G11GOLE,,,,,0,0
+45933,Creature,Advanced Stone Golem,I must destroy all who intrude without an amulet.,호신부 없는 침입자는 전부 파괴해야 한다.,M3Q04G11GOLE,nw_d1_attonend02,,,,0,0
+45934,Creature,Advanced Stone Golem,Then you may enter.,"좋아, 들어가도 된다.",M3Q04G11GOLE,m3q04g11gole_1,,,,0,0
+46988,Creature,Advanced Stone Golem,Advanced Stone Golem,상급 바위 골렘,M3Q04G11GOLE,,,,,0,0
+47036,Creature,Arwyl,Arwyl,아르윌,M3Q3C04_ARWYL,,,,,0,0
+47050,Creature,Averik,Averik,아베릭,MQ3JUROR4,,,,,0,0
+48350,Dialog,ALLSOLD,I'm not about to let my city fall to these Luskan dogs!,내 도시가 저 러스칸 개떼에게 넘어가게 두진 않겠다!,M4Q01ALLSOLD,,,,,0,0
+48351,Dialog,ALLSOLD,My blade is yours. I'll follow you every step of the way! Let's drive these invaders back to the rock they crawled out from!,내 칼은 당신의 것입니다. 한 걸음도 떨어지지 않고 따르겠습니다! 저 침략자들을 기어 나온 바위틈으로 되쫓아 버립시다!,M4Q01ALLSOLD,m4q01allsoldegb1,,,,0,0
+49100,Creature,Asheera,Asheera,아시라,M4Q1D02PALA,,,,,0,0
+56563,Creature,Ancient Dire Bear,Ancient Dire Bear,고대 흉포한 곰,ANCIENTCAVEBEAR|DB_BEAR|NW_BEARDIREBOSS|NW_BOSS,,,,,0,0
+58982,Dialog,AMAGSIGN,The sign explains that this monument was built to commemorate the founding of Port Llast. The eternally glowing lights serve to welcome visitors to the town.,표지판에는 이 기념비가 라스트 항구의 건립을 기념해 세워졌다고 적혀 있습니다. 영원히 빛나는 등불은 마을을 찾는 이들을 맞이하기 위한 것입니다.,M2Q1AMAGSIGN,,,,,0,0
+59917,Dialog,ACOLYTE,May Tyr bring you peace and justice.,티르께서 그대에게 평화와 정의를 내리시길.,2Q4_ACOLYTE,,,,,0,0
+59918,Dialog,ASSASSIN,"Stupid wench, what is she about flying at us like that?","멍청한 년, 왜 저따위로 우리한테 달려드는 거지?",2Q4_ASSASSIN,,,,,0,0
+91626,Dialog,ASSASSIN,"The dark skin of the drow blends her into the shadows, but still you can see the twisted hatred clearly upon her face.","드로우의 검은 피부가 그림자에 녹아들지만, 그녀 얼굴에 뒤틀린 증오는 여전히 또렷합니다.",PRE_ASSASSIN,act_q2akiller_1,,,,0,0
+91627,Dialog,ASSASSIN,"She holds up a small dagger that glows with an evil, green aura... and she snarls. ""Oloth plynn dos!""","그녀가 사악한 녹빛 기운이 감도는 작은 단검을 들어 올리며 으르렁댑니다. ""올로스 플린 도스!""",PRE_ASSASSIN,,,,,0,0
+60223,Creature,Acolyte of Tyr,Acolyte of Tyr,티르의 견습 사제,2Q4_ACO_TEMP,,,,,0,0
+62911,Dialog,AGRATE,The grate appears to be locked from the inside.,쇠창살이 안쪽에서 잠겨 있는 것 같다.,M1Q4AGRATE,,,,,0,0
+63145,Creature,Androd Estate Guard,Androd Estate Guard,안드로드 저택 경비병,M1S2DDOORGUARD,,,,,0,0
+63146,Creature,Attack Dog,Attack Dog,투견,M1Q2PRISONER|M1S4CBEAST,,,,,0,0
+64270,Creature,Allip,Weak Allip,약한 알립,NW_ALLIP,,,,,0,0
+74903,Creature,Allip,Warrior Spirit,투사의 영혼,NW_ALLIP,,,,,0,0
+79542,Creature,Allip,Allip,알립,NW_ALLIP,,,,,0,0
+64513,Dialog,AEASTSIGN,East: Neverwinter Wood. West: Port Llast,동쪽: 네버윈터 숲. 서쪽: 라스트 항구,M2_2AEASTSIGN,,,,,0,0
+64517,Dialog,AEASTSIGN,"Northwest: Port Llast, East: South Road and Charwood","북서쪽: 라스트 항구, 동쪽: 남쪽 길과 그을린숲",M2_3AEASTSIGN,,,,,0,0
+64514,Dialog,ANORTHSIGN,"North: North Road and Green Griffon Inn. South: East Road, Neverwinter Wood, Port Llast, and Charwood","북: 북쪽 길, 푸른 그리핀 여관. 남: 동쪽 길, 네버윈터 숲, 라스트 항구, 그을린숲",M2_2ANORTHSIGN,,,,,0,0
+64518,Dialog,ANORTHSIGN,"North: Neverwinter Wood, South: South Road and Charwood",북: 네버윈터 숲. 남: 남쪽 길과 그을린숲,M2_3ANORTHSIGN,,,,,0,0
+64515,Dialog,ASOUTHSIGN,"South: South Road and Charwood. North: Port Llast, North Road, and Neverwinter Wood","남쪽: 남쪽 길, 그을린숲 / 북쪽: 라스트 항구, 북쪽 길, 네버윈터 숲",M2_2ASOUTHSIGN,,,,,0,0
+64516,Dialog,AWESTSIGN,West: Port Llast. East: East Road and Neverwinter Wood.,서쪽: 라스트 항구. 동쪽: 동쪽 길과 네버윈터 숲.,M2_2AWESTSIGN,,,,,0,0
+64519,Dialog,AWEST,"Southeast: South Road Farms and Charwood, Northwest: Port Llast","남동쪽: 남쪽길 농장과 그을린숲, 북서쪽: 라스트 항구",M2_3AWEST,,,,,0,0
+65207,Creature,Advanced Grig,Advanced Grig,상급 그리그,M2ADVANCEDGRIG,,,,,0,0
+66113,Creature,Arklem,Arklem,아클렘,2Q6J_ARKLEM,,,,,0,0
+66189,Dialog,APYREGUARD,I've grim work to do. Don't bother me.,해야 할 살벌한 일이 있다. 귀찮게 하지 마라.,M1Q1APYREGUARD,,,,,0,0
+66238,Dialog,ARMOR,"By your command, we go to fight the enemies of Helm.",명령에 따라 헬름의 적과 싸우러 나가겠습니다.,M1Q6F2ARMOR,,,,,0,0
+66239,Dialog,ARMOR,"This animated armor looks battle-ready, but shows no sign of movement. It stares intently at the altar in the center of the room. ","이 움직이는 갑옷은 전투 준비가 된 듯하지만, 전혀 움직일 기미가 없습니다. 방 한가운데의 제단만을 뚫어지게 바라보고 있습니다.",M1Q6F2ARMOR,,,,,0,0
+66956,Creature,Ancient Dust Mephit,Young Mephit,어린 메피트,NW_MEPDUST,,,,,0,0
+79594,Creature,Ancient Dust Mephit,Ancient Dust Mephit,고대 먼지 메피트,NW_MEPDUST,,,,,0,0
+68262,Creature,Arto Webber,Arto,알토,ARTO,,,,,0,0
+68263,Creature,Arto Webber,Webber,웨버,ARTO,,,,,0,0
+69309,Dialog,ADROGAN,Ohhh - I feel weak..,으으... 힘이 빠져...,Q1ADROGAN,,,,,0,0
+69310,Dialog,ADROGANDOOR,"The door to master Drogan's chambers are, as usual, sealed with an arcane lock spell to prevent some of his more curious pupils from poking around...for their own safety, or so Master Drogan says.",드로건 스승님의 방은 언제나처럼 비밀 자물쇠 주문으로 잠겨 있습니다. 호기심 많은 제자들이 돌아다니지 못하도록... 안전을 위한 것이라 드로건은 말하곤 했습니다.,Q1ADROGANDOOR,,,,,0,0
+69325,Creature,Ayala,"Sarcasm, Mischa? I'm surprised at you.","빈정거리는 겁니까, 미샤? 당신답지 않은데.",AYALA,,,,,0,0
+69341,Creature,Ayala,"Don't get any thoughts in your head of leaving, Mischa. I need you here to guard your master... that is no small task, despite what you think.","떠날 생각은 접어요, 미샤. 당신의 스승님을 지키려면 여기 있어야 해요... 당신이 생각하는 것만큼 쉬운 일이 아니에요.",AYALA,,,,,0,0
+74702,Creature,Ayala,"Do not strain yourself, Drogan. As <FirstName> said, you need your rest.","무리하지 마세요, 드로건. <FirstName>의 말대로 쉬셔야 합니다.",AYALA,,,,,0,0
+74704,Creature,Ayala,"Enough. Drogan cannot help you just yet, <FirstName>, though the dwarf is stubborn enough I almost think he might try. Please let him rest.","그만하세요. 드로건은 아직 당신을 도울 수 없습니다, <FirstName>. 저 완고한 드워프가 억지로 나서려 할지도 모르지만요. 부디 쉬게 해 주세요.",AYALA,,,,,0,0
+74706,Creature,Ayala,"That's enough, <FirstName>. Drogan needs his rest if he has any hope of recovering fully.","그만하면 됐어요, <FirstName>. 온전히 회복하려면 드로건은 쉬어야 합니다.",AYALA,,,,,0,0
+74708,Creature,Ayala,"Do not overtax Master Drogan just yet, <FirstName>, please. He needs as much rest as he can get.","드로건을 아직 무리시키지 마세요, <FirstName>. 가능한 한 많이 쉬어야 합니다.",AYALA,,,,,0,0
+74712,Creature,Ayala,"Please do not disturb him, <FirstName>. We must let him rest while he can.","방해하지 마세요, <FirstName>. 쉴 수 있을 때 충분히 쉬게 해야 합니다.",AYALA,,,,,0,0
+74715,Creature,Ayala,"The worst is over, I believe, but Drogan still needs time to rest. Perhaps you will be able to talk to him later, <FirstName>.","최악의 고비는 넘겼다고 봅니다만, 드로건에게는 아직 휴식이 필요합니다. 나중에라면 대화할 수 있을지도 몰라요, <FirstName>.",AYALA,,,,,0,0
+74718,Creature,Ayala,"You should be in bed, you stubborn dwarf. Look at you! Your legs are shaking! The poison has still not completely left your system.","고집불통 드워프 같으니, 침대에 계셔야 합니다. 당신 꼴 좀 보세요! 다리가 떨리고 있어요! 독이 아직 완전히 빠지지 않았어요.",AYALA,,,,vs_nx0ayalf_057,0,0
+74720,Creature,Ayala,"Suit yourself. Should you collapse before the hour's over, I'll not take responsibility for you.",마음대로 하세요. 한 시간도 안 돼 쓰러지더라도 책임지지 않겠습니다.,AYALA,,,,vs_nx0ayalf_058,0,0
+74735,Creature,Ayala,"Are you certain that is wise, Drogan? Whoever wants this crystal would be keeping an eye out for you, don't you think? They already felled you once.","그게 현명하다고 확신하시나요, 드로건? 이 수정에 눈독 들인 자들이 당신을 지켜보고 있을 겁니다. 이미 한 번이나 쓰러뜨렸잖아요.",AYALA,,,,,0,0
+74737,Creature,Ayala,I'm simply suggesting that perhaps <FirstName> might be better suited to taking this artifact to be identified. No-one will be watching <him/her>.,"제 말은, 이 유물을 감정받으러갈 사람으로는 <FirstName>이 더 적임일 수 있다는 겁니다. <him/her>를 주시하는 이는 없을 테니까요.",AYALA,,,,,0,0
+74750,Creature,Ayala,"If you are referring to the halflings, Drogan, that caravan is in Hilltop now.","하플링들을 말씀하시는 거라면, 드로건, 그 캐러밴은 지금 힐탑에 와 있습니다.",AYALA,,,,,0,0
+74905,Creature,Ayala,Ayala,아얄라,AYALA,,,,,0,0
+72595,Dialog,AZATH,<StartHighlight>You hear whispers within your mind and realize this creature is speaking to you telepathically. Its name is Azath and you feel a strong desire for magic.</Start>,"<StartHighlight>당신의 정신 속에서 속삭임이 들리고, 이 존재가 정신 감응으로 말하고 있음을 깨닫습니다. 이름은 아자스이며, 마법에 대한 강렬한 갈망이 느껴집니다.</Start>",Q3C_AZATH,,,,al_mg_crystalic1,0,0
+72596,Dialog,AZATH,<StartHighlight>The creature seems unmoved and its yearning for magic only increases.</Start>,"<StartHighlight>그 존재는 미동도 하지 않고, 마법에 대한 갈망만 더 커지는 듯합니다.</Start>",Q3C_AZATH,,,,c_willwisp_slct,0,0
+72597,Dialog,AZATH,"<StartHighlight>Images flash through your mind depicting a scene where you disappear in a flash and reappear within the Ancient Ruins, where you found J'nah.</Start>","<StartHighlight>당신의 정신에 영상이 번쩍이며, 당신이 번쩍 사라졌다가 즈나를 발견했던 고대 유적 안에 다시 나타나는 장면을 보여 줍니다.</Start>",Q3C_AZATH,,,,sco_mehanodd03,0,0
+72598,Dialog,AZATH,<StartHighlight>The images seem to be some kind of offer by Azath... it is what Azath was constructed for. But it feeds off of the magic from any spell to gain power.</Start>,<StartHighlight>그 영상은 아자스의 일종의 제안처럼 보입니다... 본래 그렇게 하도록 만들어진 존재이지요. 다만 힘을 얻기 위해서는 어떤 주문이든 그 마력을 빨아들입니다.</Start>,Q3C_AZATH,,,,c_willwisp_slct,0,0
+72599,Dialog,AZATH,"<StartHighlight>Azath ponders this, hovering, and then sends images to you of magical potions. You get the impression it can take the magic from these, as well, but it would have to choose the potion.</Start>","<StartHighlight>아자스는 허공에 떠서 잠시 고심하더니, 당신에게 마법 물약들의 영상을 보냅니다. 물약에서도 마력을 흡수할 수 있다는 인상을 받지만, 어떤 물약인지는 아자스가 골라야 할 듯합니다.</Start>",Q3C_AZATH,,,,al_mg_beaker1,0,0
+72600,Dialog,AZATH,"<StartHighlight>Azath floats over and begins inspecting your bags, emitting images of curious exploration...</Start>","<StartHighlight>아자스가 떠와서 당신의 가방을 살피기 시작하며, 호기심 어린 탐색의 영상을 내보냅니다...</Start>",Q3C_AZATH,q3c_take_potion1,,,al_mg_crystalgd1,0,0
+72601,Dialog,AZATH,<StartCheck>[Failure]</Start> <StartHighlight>The creature thinks on this for a long moment and finally sends images of refusal. It is too hungry.</Start>,<StartCheck>[실패]</Start> <StartHighlight>그 존재는 한참을 고민하더니 끝내 거절의 영상을 보냅니다. 너무 허기져 있다고 합니다.</Start>,Q3C_AZATH,,,,c_willwisp_death,0,0
+72602,Dialog,AZATH,<StartCheck>[Success]</Start> <StartHighlight>The creature thinks on this for a long moment and then slowly agrees. The images it sends to your mind seem suspicious.</Start>,<StartCheck>[성공]</Start> <StartHighlight>그 존재는 한참을 고민하더니 천천히 동의합니다. 다만 당신의 정신에 띄운 영상은 어딘가 수상쩍습니다.</Start>,Q3C_AZATH,,,,al_mg_crystalnt1,0,0
+72603,Dialog,AZATH,"<StartHighlight>Azath appears to consider this for a long moment, and then sends images to your mind that seem to convey agreement.</Start>","<StartHighlight>아자스는 오랫동안 고심하더니, 동의의 뜻을 담은 듯한 영상을 당신의 정신에 보냅니다.</Start>",Q3C_AZATH,,,,c_willwisp_bat1,0,0
+72604,Dialog,AZATH,<StartHighlight>Azath sends images of pleasure and thanks to your mind.</Start>,<StartHighlight>아자스가 기쁨과 감사의 영상을 당신에게 보냅니다.</Start>,Q3C_AZATH,,,,c_willwisp_bat1,0,0
+72605,Dialog,AZATH,<StartHighlight>Azath sends images of sadness. It can do nothing to assist you.</Start>,<StartHighlight>아자스가 슬픔의 영상을 보냅니다. 도와줄 수 있는 것이 없다고 합니다.</Start>,Q3C_AZATH,,,,c_willwisp_death,0,0
+72606,Dialog,AZATH,"<StartHighlight>Azath sends images to you of excitement and expectation. Any spell will do, apparently, and it seems eager to begin.</Start>","<StartHighlight>아자스가 설렘과 기대의 영상을 보냅니다. 어떤 주문이든 상관없는 듯하며, 당장 시작하고 싶어 합니다.</Start>",Q3C_AZATH,,,,sdr_mindhelp,0,0
+72617,Dialog,AZITH,<StartHighlight>You hear whispers within your mind and realize this creature is speaking to you telepathically. Its name is Azith and you feel a strong desire for magic.</Start>,"<StartHighlight>당신의 정신 속에서 속삭임이 들리고, 이 존재가 정신 감응으로 말하고 있음을 깨닫습니다. 이름은 아지스이며, 마법에 대한 강렬한 갈망이 느껴집니다.</Start>",Q3C_AZITH,,,,al_mg_crystalic1,0,0
+72618,Dialog,AZITH,<StartHighlight>The creature seems unmoved and its yearning for magic only increases.</Start>,"<StartHighlight>그 존재는 미동도 하지 않고, 마법에 대한 갈망만 더 커지는 듯합니다.</Start>",Q3C_AZITH,,,,c_willwisp_slct,0,0
+72619,Dialog,AZITH,"<StartHighlight>Images flash through your mind depicting a scene where you disappear in a flash and reappear within the High Forest, outside the caves.</Start>","<StartHighlight>당신의 정신에 영상이 번쩍이며, 당신이 번쩍 사라졌다가 높은 숲의 동굴 밖에 다시 나타나는 장면을 보여 줍니다.</Start>",Q3C_AZITH,,,,sco_mehanodd03,0,0
+72620,Dialog,AZITH,<StartHighlight>The images seem to be some kind of offer by Azith... it is what Azith was constructed for. But it feeds off of the magic from any spell to gain power.</Start>,<StartHighlight>그 영상은 아지스의 일종의 제안처럼 보입니다... 본래 그렇게 하도록 만들어진 존재이지요. 다만 힘을 얻기 위해서는 어떤 주문이든 그 마력을 빨아들입니다.</Start>,Q3C_AZITH,,,,c_willwisp_slct,0,0
+72621,Dialog,AZITH,"<StartHighlight>Azith ponders this, hovering, and then sends images to you of magical potions. You get the impression it can take the magic from these, as well, but it would have to choose the potion.</Start>","<StartHighlight>아지스는 허공에 떠서 잠시 고심하더니, 당신에게 마법 물약들의 영상을 보냅니다. 물약에서도 마력을 흡수할 수 있다는 인상을 받지만, 어떤 물약인지는 아지스가 골라야 할 듯합니다.</Start>",Q3C_AZITH,,,,al_mg_beaker1,0,0
+72622,Dialog,AZITH,"<StartHighlight>Azith floats over and begins inspecting your bags, emitting images of curious exploration...</Start>","<StartHighlight>아지스가 떠와서 당신의 가방을 살피기 시작하며, 호기심 어린 탐색의 영상을 내보냅니다...</Start>",Q3C_AZITH,q3c_take_potion,,,al_mg_crystalgd1,0,0
+72623,Dialog,AZITH,<StartCheck>[Failure]</Start> <StartHighlight>The creature thinks on this for a long moment and finally sends images of refusal. It is too hungry.</Start>,<StartCheck>[실패]</Start> <StartHighlight>그 존재는 한참을 고민하더니 끝내 거절의 영상을 보냅니다. 너무 허기져 있다고 합니다.</Start>,Q3C_AZITH,,,,c_willwisp_death,0,0
+72624,Dialog,AZITH,<StartCheck>[Success]</Start> <StartHighlight>The creature thinks on this for a long moment and then slowly agrees. The images it sends to your mind seem suspicious.</Start>,<StartCheck>[성공]</Start> <StartHighlight>그 존재는 한참을 고민하더니 천천히 동의합니다. 다만 당신의 정신에 띄운 영상은 어딘가 수상쩍습니다.</Start>,Q3C_AZITH,,,,al_mg_crystalnt1,0,0
+72625,Dialog,AZITH,"<StartHighlight>Azith appears to consider this for a long moment, and then sends images to your mind that seem to convey agreement.</Start>","<StartHighlight>아지스는 오랫동안 고심하더니, 동의의 뜻을 담은 듯한 영상을 당신의 정신에 보냅니다.</Start>",Q3C_AZITH,,,,c_willwisp_bat1,0,0
+72626,Dialog,AZITH,<StartHighlight>Azith sends images of pleasure and thanks to your mind.</Start>,<StartHighlight>아지스가 기쁨과 감사의 영상을 당신에게 보냅니다.</Start>,Q3C_AZITH,,,,c_willwisp_bat1,0,0
+72627,Dialog,AZITH,<StartHighlight>Azith sends images of sadness. It can do nothing to assist you.</Start>,<StartHighlight>아지스가 슬픔의 영상을 보냅니다. 도와줄 수 있는 것이 없다고 합니다.</Start>,Q3C_AZITH,,,,c_willwisp_death,0,0
+72628,Dialog,AZITH,"<StartHighlight>Azith sends images to you of excitement and expectation. Any spell will do, apparently, and it seems eager to begin.</Start>","<StartHighlight>아지스가 설렘과 기대의 영상을 보냅니다. 어떤 주문이든 상관없는 듯하며, 당장 시작하고 싶어 합니다.</Start>",Q3C_AZITH,,,,sdr_mindhelp,0,0
+73704,Dialog,ARZIGGUARD,Yip! You talks to chief!,킁! 족장하고 얘기해!,Q5ARZIGGUARD,,,,,0,0
+74971,Creature,Azath,Azath,아자스,Q3_AZATH,,,,,0,0
+74973,Creature,Azith,Azith,아지스,Q3_AZITH,,,,,0,0
+75951,Creature,Asabi Thrall,Out of the way. Master Ashtara wants this passage cleared.,비켜. 아슈타라 주인님이 이 통로를 치우라 하셨다.,ASABILOOTER,,,,vs_nx0asabm_064,0,0
+75952,Creature,Asabi Thrall,*Cough* *Cough* Curse this dust!,콜록 콜록 이 빌어먹을 먼지!,ASABILOOTER,,,,vs_nx0asabm_065,0,0
+75953,Creature,Asabi Thrall,"Be grateful. If you were still a statue, this could be you we're smashing.","감사한 줄 알아. 네가 아직도 조각상이었으면, 지금 우리가 부수는 게 너였을 거야.",ASABILOOTER,,,,vs_nx0asabm_066,0,0
+75954,Creature,Asabi Thrall,"Ow! Blast and bother, I didn't need that toe anyway...","아야! 젠장, 뭐, 어차피 그 발가락은 필요도 없었지...",ASABILOOTER,,,,vs_nx0asabm_067,0,0
+75955,Creature,Asabi Thrall,You better do as the Master says. We've got this cave-in under control.,주인님 말대로 하는 게 좋을 거다. 이 낙반은 우리가 통제하고 있어.,ASABILOOTER,,,,vs_nx0asabm_068,0,0
+75956,Creature,Asabi Thrall,*Sigh* I don't think we're ever getting out.,(한숨) 우린 영영 못 나갈 것 같다.,ASABILOOTER,,,,vs_nx0asabm_069,0,0
+75957,Creature,Asabi Thrall,I'm starting to feel a little claustrophobic. You?,점점 답답해지네. 너는?,ASABILOOTER,,,,vs_nx0asabm_070,0,0
+79548,Creature,Asabi Thrall,Asabi Thrall,아사비 노예,ASABILOOTER|CUT10_THRALL|CUT11_THRALL,,,,,0,0
+78899,Creature,Archangel,"If you seek the one who once suffered here, he is gone. My sisters have taken him on high and console him there, even now.","이곳에서 한때 고통받던 이를 찾는다면, 그는 이미 떠났소. 나의 자매들이 그를 높은 곳으로 데려가, 지금도 그곳에서 그를 위로하고 있소.",ARCHANGEL,,,,,0,0
+78900,Creature,Archangel,"Goodbye to you, Seeker.","잘 가시오, 구도자여.",ARCHANGEL,,,,,0,0
+78901,Creature,Archangel,"And he with you. It is why I stayed here, awaiting your return. He says to thank you for all that you have taught him by your forgiveness. If you seek the Wise Wind, he said he'd be there when you found it.","그 또한 그대와 함께하리라. 그래서 내가 여기에 머물며 그대의 귀환을 기다렸소. 그대의 용서로부터 배운 모든 것에 감사하라고, 그가 전하였소. 그대가 지혜의 바람을 찾는다면, 그대가 그것을 발견할 때 그가 그곳에 있으리라고도 하였소.",ARCHANGEL,a_karsus_joins,,,,0,0
+78902,Creature,Archangel,"And he with you. It is why I stayed here, awaiting your return. He says to thank you for all that you have taught him by your forgiveness. If you seek the Wise Wind, he said he'd be there when you found it.","그 또한 그대와 함께하리라. 그래서 내가 여기에 머물며 그대의 귀환을 기다렸소. 그대의 용서로부터 배운 모든 것에 감사하라고, 그가 전하였소. 그대가 지혜의 바람을 찾는다면, 그대가 그것을 발견할 때 그가 그곳에 있으리라고도 하였소.",ARCHANGEL,,,,,0,0
+78904,Creature,Archangel,"Through a noble act, your forgiveness, you will have assistance from the one who suffered.","그대의 고귀한 행위, 곧 용서를 통해, 고통받던 자의 도움을 얻게 될 것이오.",ARCHANGEL,,,,,0,0
+78905,Creature,Archangel,"My sisters? They have taken him to his redemption. New laws have been written, the old ones cast away. With proper penitence and sorrow, the sins of mortal life are now forgiven in the eternal.","내 자매들이라면? 그를 구원의 자리로 데려갔소. 새 법이 제정되고, 옛 법은 폐기되었소. 합당한 참회와 슬픔이 있다면, 필멸의 생에서 지은 죄도 이제 영원 속에서 용서받을 것이오.",ARCHANGEL,,,,,0,0
+78906,Creature,Archangel,"My sisters? They have taken him to his redemption. New laws have been written, the old ones cast away. With proper penitence and sorrow, the sins of mortal life are now forgiven in the eternal.","내 자매들이라면? 그를 구원의 자리로 데려갔소. 새 법이 제정되고, 옛 법은 폐기되었소. 합당한 참회와 슬픔이 있다면, 필멸의 생에서 지은 죄도 이제 영원 속에서 용서받을 것이오.",ARCHANGEL,,,,,0,0
+78908,Creature,Archangel,"My sisters? They have taken him to his redemption. New laws have been written, the old ones cast away. With proper penitence and sorrow, the sins of mortal life are now forgiven in the eternal.","내 자매들이라면? 그를 구원의 자리로 데려갔소. 새 법이 제정되고, 옛 법은 폐기되었소. 합당한 참회와 슬픔이 있다면, 필멸의 생에서 지은 죄도 이제 영원 속에서 용서받을 것이오.",ARCHANGEL,,,,,0,0
+78910,Creature,Archangel,"Making laws like that could lead you to burning in the pits, little one.","그런 법을 만들다간, 어린 것아, 지옥의 구덩이에서 불타게 될 수도 있느니라.",ARCHANGEL,,,,,0,0
+78911,Creature,Archangel,"His name was Karsus, Archwizard of Netheril. Perhaps you did not know him. He saw the soul of the world, a crime for which the demons held him here, tormenting him for many an age.","그의 이름은 카서스, 네더릴의 대마법사였소. 그대를 모를 수도 있겠지. 그는 세계의 영혼을 보았고, 그 죄로 악마들이 그를 이곳에 붙잡아 오랜 세월 괴롭혀 왔소.",ARCHANGEL,,,,,0,0
+79546,Creature,Archangel,Archangel,대천사,ARCHANGEL,,,,,0,0
+82991,Creature,Ao Worshipper,Ao Worshipper,에이오 신도,AOWORSHIPPER,,,,,0,0
+82993,Creature,Ao Guard,Ao Guard,에이오 경비병,Q5A_AOGUARD,,,,,0,0
+82998,Creature,Armor Stand,Armor Stand,갑옷 거치대,Q3B_ARMOR_STAND,,,,,0,0
+83022,Creature,Ali Ibn-Musud,Ali,알리,Q2A_ALI,,,,,0,0
+83023,Creature,Ali Ibn-Musud,Ibn-Musud,이븐-무수드,Q2A_ALI,,,,,0,0
+86743,Dialog,AMAEVIIR,"""Who is this male, Tebimar? Why did your guards let him in?""","""이 수컷은 누구지, 테비마르? 왜 경비들이 들여보냈지?""",Q2AMAEVIIR,,,,vs_nx2betyf_58,0,0
+86744,Dialog,AMAEVIIR,"""Who is this surfacer, Tebimar?  Why did your guards let her in?""","""이 지상인은 누구지, 테비마르? 왜 경비들이 들여보냈지?""",Q2AMAEVIIR,,,,vs_nx2betyf_59,0,0
+86745,Dialog,AMAEVIIR,"Matron Myrune laughs. ""Of course Zesyyr wants to kill me. I'd be disappointed if she didn't. But she lacks the ambition and the power to act.""","미룬 대모가 웃습니다. ""물론 제시르는 날 죽이고 싶어 하지. 그렇지 않았다면 실망했을 거야. 하지만 그 아이에겐 야망도, 실행할 힘도 없어.""",Q2AMAEVIIR,,,,vs_nx2betyf_60,0,0
+104623,Dialog,AMAEVIIR,"The Matron Mother Myrune gives you a scornful glance, then turns to the drow beside her.",미룬 대모가 당신을 업신여기는 눈길로 훑고는 곁의 드로우에게 몸을 돌립니다.,Q2AMAEVIIR,,,,,0,0
+104628,Dialog,AMAEVIIR,"""I am not about to execute my last surviving heir merely on the words of this <CUSTOM500>, Tebimar. Find out if <he/she> has proof.""","""이 <CUSTOM500>의 말만 믿고 내 마지막 상속인을 처형하진 않겠다, 테비마르. <he/she>에게 증거가 있는지 알아봐라.""",Q2AMAEVIIR,,,,,0,0
+104630,Dialog,AMAEVIIR,"Myrune sighs. ""You know what to do Tebimar. Deal with Zesyyr and give this <CUSTOM500> some type of reward.""","미룬이 한숨을 쉽니다. ""무엇을 해야 하는지 알겠지, 테비마르. 제시르를 처리하고 이 <CUSTOM500>에게 보상을 하도록 해.""",Q2AMAEVIIR,,,,,0,0
+104631,Dialog,AMAEVIIR,"""House Maeviir thanks you for this information, <FullName>. Please accept this amulet as a sign of our gratitude.""","""마에비르 가문은 이 정보에 감사드리네, <FullName>. 감사의 표시로 이 호신부를 받아 줘.""",Q2AMAEVIIR,q2a_zesbetrayx,,,,0,0
+104632,Dialog,AMAEVIIR,"""The guards will show you out now... and I will take care of my daughter personally.""","""이제 경비들이 널 밖으로 안내할 거야... 그리고 내 딸은 내가 직접 처리하겠다.""",Q2AMAEVIIR,q2a_zesbetrayx,,,,0,0
+104633,Dialog,AMAEVIIR,"<StartAction>Failure</Start> ""You dare to threaten a Matron Mother in her own home? Tebimar, dispose of this creature!""","<StartAction>실패</Start> ""감히 드로우 대모를 자기 집에서 협박해? 테비마르, 저 것들을 치워라!""",Q2AMAEVIIR,q2a_zesyyrrulex,,,,0,0
+104634,Dialog,AMAEVIIR,"""It will be my pleasure, Matron.""","""기꺼이 그러겠습니다, 대모님.""",Q2AMAEVIIR,,,,,0,0
+104635,Dialog,AMAEVIIR,"<StartAction>Success</Start> The Matron looks from you to her guards, evaluating her chances. ""I'd prefer you save your anger for the Valsharess, <FullName>. That's why you're here, after all.""","<StartAction>성공</Start> 대모는 당신과 경비들을 번갈아 보며 승산을 가늠합니다. ""네 분노는 발샤레스에게나 아껴 둬, <FullName>. 어차피 그 일을 하러 온 거잖아.""",Q2AMAEVIIR,,,,,0,0
+104636,Dialog,AMAEVIIR,"""But you did discover my daughter's plot against me... something Tebimar failed to do. Perhaps he should give you his sword as an additional reward, since you did his job anyway.""","""하지만 네가 내 딸의 모반을 밝혀냈지... 테비마르가 하지 못한 일을 말이야. 네가 그의 일을 대신했으니, 보상으로 자기 검을 내어주면 어떻겠니?""",Q2AMAEVIIR,,,,,0,0
+104637,Dialog,AMAEVIIR,"<StartAction>Failure</Start> ""You are brave, to bargain with a drow Matron in her own home. I admire that... so I'll let you live. But I think the reward you've been given is fair.""","<StartAction>실패</Start> ""드로우 대모와 흥정하려 들다니, 용감하군. 그런 점을 고려해서.. 살려 보내 주겠다. 다만 이미 준 보상은 공정하다고 본다.""",Q2AMAEVIIR,,,,,0,0
+104638,Dialog,AMAEVIIR,"<StartAction>Success</Start> ""Zesyyr would have killed me if not for this <CUSTOM500>, Tebimar. Why don't you give <FullName> your weapon, since <he/she> seems to be doing your job anyway?""","<StartAction>성공</Start> ""이 <CUSTOM500>가 아니었으면 제시르는 나를 죽였을 거다, 테비마르. <he/she>가 네 일을 대신하는 모양이니, 네 무기를 <FullName>에게 주지 그러냐?""",Q2AMAEVIIR,,,,,0,0
+91464,Dialog,AMBIENTBOY,"Help, help, a monster, a monster!","도와줘요, 도와줘! 괴물이다, 괴물!",PRE_AMBIENTBOY,,,,,0,0
+91465,Dialog,AMBIENTBOY,I'm scared. Do you think the armies will come again when it gets dark?,무서워. 해 지면 군대가 또 올까?,PRE_AMBIENTBOY,,,,,0,0
+91466,Dialog,AMBIENTBOY,"I never got to be in the fighting, but I bet I could have killed a bunch of duergar.","난 싸움에 못 끼었지만, 내가 나섰다면 듀에르가 몇 놈은 해치웠을 거야.",PRE_AMBIENTBOY,,,,,0,0
+91467,Dialog,AMBIENTBOY,"If I kill a drow, I'm going to steal his sword and become a powerful warrior.","내가 드로우를 쓰러뜨리면, 그 녀석 칼을 빼앗아서 강한 전사가 될 거야.",PRE_AMBIENTBOY,,,,,0,0
+91468,Dialog,AMBIENTBOY,Can we play a game? I'll be the soldiers and you be the drow. That way I get to win.,"놀이할래? 나는 군인, 너는 드로우. 그러면 내가 이길 수 있어.",PRE_AMBIENTBOY,,,,,0,0
+91469,Dialog,AMBIENTBOY,Do I have to play in here? I want to go outside.,꼭 여기서 놀아야 해? 밖에 나가고 싶어.,PRE_AMBIENTBOY,,,,,0,0
+91470,Dialog,AMBIENTBOY,My dad was wounded in the fighting. Are those monsters coming back?,우리 아빠가 싸우다가 다쳤어. 그 괴물들이 다시 오는 거야?,PRE_AMBIENTBOY,,,,,0,0
+91495,Dialog,AMBIENTGIRL,The monsters are back! Mommy help me!,"괴물들이 돌아왔어! 엄마, 도와줘!",PRE_AMBIENTGIRL,,,,,0,0
+91496,Dialog,AMBIENTGIRL,"I could hear the fighting from my bedroom. Mommy hid me in the closet, but it was scary in there.","내 방에서도 싸우는 소리가 들렸어. 엄마가 날 옷장에 숨겼는데, 거기 너무 무서웠어.",PRE_AMBIENTGIRL,,,,,0,0
+91497,Dialog,AMBIENTGIRL,Are you a hero? I have a friend who's a hero. He's invisible!,당신 영웅이야? 나도 영웅 친구가 있어. 그 친구는 안 보여!,PRE_AMBIENTGIRL,,,,,0,0
+91498,Dialog,AMBIENTGIRL,I want my mommy! Where did my mommy go?,엄마 보고 싶어! 우리 엄마 어디 갔어?,PRE_AMBIENTGIRL,,,,,0,0
+91499,Dialog,AMBIENTGIRL,Mister Durnan will save us. He's letting us stay here.,더난 아저씨가 우릴 구해 줄 거야. 여기에 있게 해 주셨어.,PRE_AMBIENTGIRL,,,,,0,0
+91500,Dialog,AMBIENTGIRL,My doll's name is Snaffy and she isn't afraid of any dark monsters.,내 인형 이름은 스내피야. 어두운 괴물도 하나도 안 무서워해.,PRE_AMBIENTGIRL,,,,,0,0
+91501,Dialog,AMBIENTGIRL,My mom says that daddy isn't coming back. Where did he go?,엄마가 아빠는 안 돌아온대. 아빠 어디 간 거야?,PRE_AMBIENTGIRL,,,,,0,0
+91628,Dialog,AWAKE1,"You stand shivering in the chill night air, sweat coursing down your body. You were somehow woken suddenly from your slumber, leaping from your bed to face, what?","당신은 밤의 싸늘한 공기 속에서 몸을 떨며, 땀이 온몸을 타고 흘러내립니다. 어찌 된 영문인지 잠에서 갑자기 깨어났는데, 대체 무엇을 마주하기 위해 침대에서 뛰쳐나온 걸까요?",PRE_AWAKE1,act_preawake_1,,,,0,0
+91629,Dialog,AWAKE1,"The memory of your strange dream still rings clearly in your head, along with an inner alarm that tells you all is not right. Suddenly you notice a drow elf!  She appears to be trying to break into the chest with your personal belongings.","기이한 꿈의 기억이 여전히 머릿속에 생생히 남아 있고, 무언가 잘못되었음을 알리는 내면의 경보가 울립니다. 그 순간, 한 드로우 엘프가 눈에 띕니다! 그녀는 당신의 개인 소지품이 든 상자를 억지로 열려는 것처럼 보입니다.",PRE_AWAKE1,,,,,0,0
+92779,Dialog,AAAMBIENTGIRL,"I could hear the fighting from my bedroom. Mommy hid me in the closet, but it was scary in there.","내 방에서도 싸우는 소리가 들렸어요. 엄마가 저를 벽장에 숨겼는데, 거기 너무 무서웠어요.",Q2AAAMBIENTGIRL,,,,,0,0
+92780,Dialog,AAAMBIENTGIRL,The boys won't let me play war with them. ,그 남자애들이 저랑은 전쟁놀이 안 해요.,Q2AAAMBIENTGIRL,,,,,0,0
+92781,Dialog,AAAMBIENTGIRL,I want my mommy! Where did my mommy go?,엄마 보고 싶어! 우리 엄마 어디 갔어?,Q2AAAMBIENTGIRL,,,,,0,0
+92782,Dialog,AAAMBIENTGIRL,Mister Blackstaff will save us. He's the protector of Waterdeep.,검은지팡이 아저씨가 우릴 구해 줄 거에요. 워터딥의 수호자잖아요.,Q2AAAMBIENTGIRL,,,,,0,0
+92783,Dialog,AAAMBIENTGIRL,My doll's name is Snaffy and she isn't afraid of any dark monsters.,내 인형 이름은 스내피에요. 어두운 괴물도 하나도 안 무서워해요.,Q2AAAMBIENTGIRL,,,,,0,0
+92784,Dialog,AAAMBIENTGIRL,My mom says that daddy isn't coming back. Where did he go?,엄마가 아빠는 안 돌아온대요. 아빠는 어디로 간 거죠?,Q2AAAMBIENTGIRL,,,,,0,0
+92785,Dialog,AALCHTAB,This display has a number of magical items for viewing. ,이 진열장에는 관람용 마법 아이템이 여럿 전시되어 있습니다.,Q2AALCHTAB,,,,,0,0
+92786,Dialog,AALCHTAB,<StartCheck>[Failed]</Start>,<StartCheck>[실패]</Start>,Q2AALCHTAB,,,,,0,0
+92788,Dialog,AALCHTAB,"<StartCheck>[Successful]</Start> You slip an item out. The guard glances over at you, but doesn't seem to notice anything.","<StartCheck>[성공]</Start> 당신은 살짝 물건 하나를 꺼냅니다. 경비병이 힐끗 쳐다보지만, 아무 일도 눈치채지 못한 듯합니다.",Q2AALCHTAB,act_q2aalchtab3,,,,0,0
+92789,Dialog,AALCHTAB,"You decide to move along, before he gets suspicious.",의심을 사기 전에 이만 자리를 뜨기로 합니다.,Q2AALCHTAB,act_q2aalchtab2,,,,0,0
+92790,Dialog,AALCHTAB,The guard eyes you suspiciously. You had better try your luck somewhere else.,경비병이 의심스러운 눈길로 당신을 훑어봅니다. 다른 곳에서 시도하는 편이 좋겠습니다.,Q2AALCHTAB,,,,,0,0
+92793,Dialog,AAMBIENTBOY,I'm scared. Do you think the armies will come again when it gets dark?,무서워. 해 지면 군대가 또 오려나?,Q2AAMBIENTBOY,,,,,0,0
+92794,Dialog,AAMBIENTBOY,"I never got to be in the fighting, but I bet I could have killed a bunch of duergar.","난 전투엔 못 나갔지만, 나도 듀에르가 몇 놈쯤은 충분히 해치웠을 거야.",Q2AAMBIENTBOY,,,,,0,0
+92795,Dialog,AAMBIENTBOY,I'm searching for corpses to loot. My dad says we can get lots of gold for magical weapons.,시체에서 쓸 만한 걸 찾는 중이야. 아빠 말로는 마법 무기는 금화를 잔뜩 받을 수 있대.,Q2AAMBIENTBOY,,,,,0,0
+92796,Dialog,AAMBIENTBOY,I want to be the soldiers and you be the drow. That way I get to win.,"나는 군인 할래, 너는 드로우 해. 그래야 내가 이기거든.",Q2AAMBIENTBOY,,,,,0,0
+92797,Dialog,AAMBIENTBOY,"I'm not supposed to be playing out here, but it's boring inside.","여기서 놀면 안 된다는데, 안에만 있으면 너무 심심하잖아.",Q2AAMBIENTBOY,,,,,0,0
+92798,Dialog,AAMBIENTBOY,My dad was wounded in the fighting. Are those monsters coming back?,"우리 아빠는 싸움에서 다쳤어. 그 괴물들, 다시 오는 거 아냐?",Q2AAMBIENTBOY,,,,,0,0
+92894,Dialog,ADOGGY,"The dog sniffs at you and, realizing you are not one of the attackers, pants in a friendly way.",개가 냄새를 맡다가 당신이 침입자가 아님을 깨닫고 친근하게 헐떡입니다.,Q2ADOGGY,,,,,0,0
+92895,Dialog,ADOGGY,The dog wishes you well in your fight against the invaders.,개가 침입자와의 싸움에서 당신의 승리를 기원합니다.,Q2ADOGGY,,,,,0,0
+92896,Dialog,ADOGGY,"The dog tells you of a magnificent bitch that he met sometime in the past. She died in the invasion, filling the dog with great sorrow.","개가 과거에 만났던 훌륭한 암컷 이야기를 들려줍니다. 그녀는 침략 때 죽었고, 개는 깊은 슬픔에 잠깁니다.",Q2ADOGGY,,,,,0,0
+92897,Dialog,ADOGGY,"The dog wonders if you plan on killing all the invaders yourself, or if you could be kind enough to just wound a few for it to finish off.","개는 당신이 침략자들을 전부 혼자 죽일 생각인지, 아니면 자기를 위해 몇 마리만 상처 입혀 줄 생각은 없는지 궁금해 합니다.",Q2ADOGGY,,,,,0,0
+92898,Dialog,ADOGGY,"The dog is enjoying the invasion very much, since its master now allows it to bite people.",개는 지금의 침략을 무척 즐기고 있습니다. 주인이 이제 사람들을 물어도 된다고 허락했으니까요.,Q2ADOGGY,,,,,0,0
+92899,Dialog,ADOGGY,"The dog tells you that duergar meat tastes like chicken. Really tough, stringy chicken.",개는 드웨가 고기가 닭고기 맛과 비슷하다고 말합니다. 아주 질기고 뻣뻣한 닭고기 같다고요.,Q2ADOGGY,,,,,0,0
+92900,Dialog,ADOGGY,The dog tells you about all the dark invaders it has helped kill.,개는 자신이 죽이는 데 도움을 준 어둠의 침략자들에 대해 이야기합니다.,Q2ADOGGY,,,,,0,0
+92902,Dialog,ADURNANGUARD,Diddelysquat.,아무 것도 없어.,Q2ADURNANGUARD,,,,,0,0
+92903,Dialog,ADURNANGUARD,"""I wish I could go with you, but I suppose I'm needed here. Best of luck.""","""나도 함께 가고 싶지만, 여긴 내가 필요하겠지. 행운을 빌어.""",Q2ADURNANGUARD,,,,,0,0
+92904,Dialog,ADURNANGUARD,"""I could do just as well as you, I'll bet. If only they'd give me a chance.""","""나도 너만큼 잘할 수 있어. 기회만 있었다면 말이지.""",Q2ADURNANGUARD,,,,,0,0
+92905,Dialog,ADURNANGUARD,"""Perhaps you really are the hero everyone says you are. Good luck, you'll need it.""","""네가 모두가 말하는 영웅이 맞을지도 모르겠군. 행운을 빌어, 필요할 거다.""",Q2ADURNANGUARD,,,,,0,0
+92906,Dialog,ADURNANGUARD,"""You fought very bravely. You obviously have the skills Durnan has been waiting for. Good luck.""","""넌 정말 용감하게 싸웠다. 더난이 기다리던 실력을 네가 갖췄어. 행운을 빈다.""",Q2ADURNANGUARD,,,,,0,0
+92907,Dialog,ADURNANGUARD,"""Get going. Durnan's waiting for you.""","""어서 가. 더난이 널 기다린다.""",Q2ADURNANGUARD,,,,,0,0
+92908,Dialog,ADURNANGUARD,"""Durnan asked for your help. You'd better get moving.""","""더난이 네 도움을 요청했어. 빨리 가는 게 좋겠다.""",Q2ADURNANGUARD,,,,,0,0
+92909,Dialog,ADURNANGUARD,The guard just shakes his head and motions towards the well room.,경비가 고개를 저으며 우물 방 쪽을 가리킵니다.,Q2ADURNANGUARD,,,,,0,0
+92910,Dialog,ADURNANGUARD,"""I don't know why Durnan called for your assistance instead of mine, but you'd better get down there now.""","""왜 더난이 내 대신 널 불렀는지 모르겠지만, 어서 내려가는 게 좋을 거다.""",Q2ADURNANGUARD,,,,,0,0
+92911,Dialog,ADURNANGUARD,"""Durnan has been organizing things and should be ready to explain his plan very soon.""","""더난이 정리를 마쳤고 곧 계획을 설명할 준비가 될 거다.""",Q2ADURNANGUARD,,,,,0,0
+93153,Dialog,AINNWELL,Do you wish to descend into the black depths of the well?,검은 우물의 심연으로 내려가고 싶습니까?,Q2AINNWELL,,,,,0,0
+93350,Dialog,AMAGICPED,"A quiet voice whispers, ""Pssst. Hey you. Give me a gold piece."" It seems to be coming from the pedestal itself.","잔잔한 목소리가 속삭입니다. ""슥- 이봐. 금화 한 닢 줘."" 소리는 받침대 자체에서 나는 듯 합니다.",Q2AMAGICPED,,,,,0,0
+93352,Dialog,AMAGICPED,"""Blast! That's so unfair!""","""쳇! 너무 불공평하잖아!""",Q2AMAGICPED,,,,,0,0
+93354,Dialog,AMAGICPED,"""Ignore him. I've got something special to show you.""","""저 녀석은 무시해. 너한테 특별히 보여 줄 게 있거든.""",Q2AMAGICPED,,,,,0,0
+93355,Dialog,AMAGICPED,"The gold piece flies up from the pedestal and catches you in the side of the head, leaving a nasty welt.","받침대에서 금화 한 닢이 튀어 올라 당신의 머리 옆을 강타하고, 보기 흉한 혹을 남깁니다.",Q2AMAGICPED,act_q2amagicped,,,,0,0
+93357,Dialog,AMAGICPED,"""Hee hee hee.""","""히히히.""",Q2AMAGICPED,,,,,0,0
+93365,Dialog,AMAGICPED,"""That's 'cause you're a lousy mage!""","""그건 네가 형편없는 마법사라서 그렇지!""",Q2AMAGICPED,,,,,0,0
+93486,Dialog,AOLDMAN,"""I don't like the modern music they play in these taverns. Why can't they stick to the classics?""","""난 요즘 주점에서 연주하는 음악이 마음에 들지 않네. 왜 고전으로만 가지 않는 거지?""",Q2AOLDMAN,,,,,0,0
+93487,Dialog,AOLDMAN,"""I was surviving by gathering wood for the university. I hope they get it rebuilt soon.""","""대학에 장작을 모아다 주며 근근이 버텼지. 빨리 재건되면 좋겠어.""",Q2AOLDMAN,,,,,0,0
+93488,Dialog,AOLDMAN,"""I heard they burned the granaries. It's going to be a long, hard winter.""","""곡창을 불태웠다더군. 올겨울은 길고 고되겠지.""",Q2AOLDMAN,,,,,0,0
+93489,Dialog,AOLDMAN,"""My poor old wife had her head split open by one of those dark dwarves.""","""가엾은 내 늙은 아내가 그 듀에르가에게 머리가 갈라졌지.""",Q2AOLDMAN,,,,,0,0
+93490,Dialog,AOLDMAN,"""I lost my home in the invasion. It was only a small home, but it was mine. What shall I do?""","""침략 때 집을 잃었어. 작은 집이었지만 내 집이었지. 이제 어쩌나?""",Q2AOLDMAN,,,,,0,0
+93491,Dialog,AOLDMAN,"""Oh, my back hurts and I can barely see. I think I need another drink.""","""허리도 쑤시고 눈도 침침하네. 한 잔 더 해야겠어.""",Q2AOLDMAN,,,,,0,0
+93929,Dialog,AWRACK,This display has a number of interesting weapons for viewing.,전시대에는 눈길을 끄는 무기들이 여럿 놓여 있습니다.,Q2AWRACK,,,,,0,0
+93930,Dialog,AWRACK,<StartCheck>[Failed]</Start>,<StartCheck>[실패]</Start>,Q2AWRACK,,,,,0,0
+93932,Dialog,AWRACK,"<StartCheck>[Successful]</Start> You slip an item out. The guard glances over at you, but doesn't seem to notice anything.",<StartCheck>[성공]</Start> 당신은 슬쩍 하나를 집어 듭니다. 경비가 힐끗 쳐다보지만 눈치채지 못한 듯합니다.,Q2AWRACK,act_q2awrack2,,,,0,0
+93933,Dialog,AWRACK,"You decide to move along, before he gets suspicious.",그가 수상해하기 전에 자리를 뜨기로 합니다.,Q2AWRACK,act_q2awrack1,,,,0,0
+93934,Dialog,AWRACK,The guard eyes you suspiciously. You had better try your luck somewhere else.,경비가 의심스러운 눈길로 당신을 훑어봅니다. 다른 곳에서 운을 시험하는 편이 낫겠습니다.,Q2AWRACK,,,,,0,0
+93937,Dialog,AYPDOOR,This door has been locked and barred because of the curfew in Waterdeep.,워터딥의 통행금지로 인해 이 문을 잠그고 빗장을 질러 두었습니다.,Q2AYPDOOR,,,,,0,0
+93945,Dialog,AYPGUARD,Durnan say you be hero. You can go in well. You be careful. Great danger in Undermountain.,더난 말해 너 영웅. 너 들어가도 돼. 조심해. 언더마운틴 아주 위험.,Q2AYPGUARD,q2a_buck_door,,,,0,0
+93946,Dialog,AYPGUARD,Glad you still be alive. Me thinked maybe you not make it. Sorry.,아직 살아 있어 기뻐. 나 생각했어 너 못 살아날 거라고. 미안.,Q2AYPGUARD,,,,,0,0
+93947,Dialog,AYPGUARD,Me no like talk 'bout it.,"그 얘기, 나 말하기 싫어.",Q2AYPGUARD,,,,,0,0
+93948,Dialog,AYPGUARD,Oh! That be me shield. If only me had 'nuff gold to pay healer for arm to grow back.,오! 그 내 방패. 금 많았으면 치유사한테 팔 다시 자라게 돈 냈을 텐데.,Q2AYPGUARD,,,,,0,0
+93949,Dialog,AYPGUARD,"But me doesn't. Me only has 50 gold, which means maybe in couple of years.","근데 없어. 나 금 50뿐, 그러면 아마 몇 해 걸려.",Q2AYPGUARD,,,,,0,0
+93950,Dialog,AYPGUARD,"Unless you takes me 50 gold for find shield. That be all me gots left, but you deserving it.","아니면 너 내 방패 찾아줘서 50 가져가. 그게 내 전부지만, 너 받을 자격 있어.",Q2AYPGUARD,,,,,0,0
+93951,Dialog,AYPGUARD,"Oh, you be the kindest <man/woman> me ever meet.","오, 너 내가 만난 가장 착한 <man/woman>.",Q2AYPGUARD,act_q2aypguard4,,,,0,0
+93952,Dialog,AYPGUARD,Maybe someday me can pay you back. Can me warn you 'bout something?,언젠가 갚을 수 있을지도. 나 뭐 하나 경고해도 돼?,Q2AYPGUARD,,,,,0,0
+93953,Dialog,AYPGUARD,Okay. Guess you knows what you doing.,좋아. 너 네가 뭘 하는지 아는 것 같아.,Q2AYPGUARD,,,,,0,0
+93954,Dialog,AYPGUARD,"Me hear things and one time me hear 'bout Skullport. Maybe if you goes there, you find Frauzetaulen. ",나 소문 듣지. 한 번은 스컬포트 얘기 들었어. 거기 가면 프라우제타울렌 찾을 수도.,Q2AYPGUARD,,,,,0,0
+93955,Dialog,AYPGUARD,"If him alive, maybe him help you. Him be tough wizard, help me party once. Told us him lives in Skullport.","그 살아 있으면, 아마 너 도와줄 거야. 강한 마법사야, 우리 일행 한 번 도와줬어. 스컬포트 산다고 했어.",Q2AYPGUARD,,,,,0,0
+93956,Dialog,AYPGUARD,You go see him if you goes down there. Now me gots to guard door. Goodbye.,거기 내려가면 그 만나 봐. 이제 나 문 지켜야 해. 잘 가.,Q2AYPGUARD,,,,,0,0
+93957,Dialog,AYPGUARD,Thank you. That be good.,고마워. 좋다.,Q2AYPGUARD,act_q2aypguard3,,,,0,0
+93958,Dialog,AYPGUARD,Now just one more year. One more year.,이제 딱 한 해만. 한 해만 더.,Q2AYPGUARD,,,,,0,0
+93959,Dialog,AYPGUARD,Okay. Me understand. Maybe me get arm back someday.,좋아. 이해해. 언젠가 팔 다시 얻을지도.,Q2AYPGUARD,act_q2aypguard2,,,,0,0
+94162,Dialog,ARGO,"Now that they've been marked, we'll see what Halaster's magic will do to them.","표식을 달아두었으니, 이제 할라스터의 마법이 그들에게 어떤 짓을 하는지 보게 되겠지.",Q2C9ARGO,,,,,0,0
+94815,Creature,Argali Silth,Argali,아갈리,ARGALI,,,,,0,0
+94816,Creature,Argali Silth,Silth,실스,ARGALI,,,,,0,0
+94894,Creature,Argo Blacktooth,Argo Blacktooth,아르고 블랙투스,Q2C9_ARGO,,,,,0,0
+98920,Dialog,AASIM_CONV,"""Get themmmm! Circle around the baaaack!""","""잡아라아아! 뒤로 돌아 포위해에에!""",HX_AASIM_CONV,,,,,0,0
+98921,Dialog,AASIM_CONV,"""Our puzzzzzles! Our precious puzzzzles!""","""우리 퍼즐들! 소중한 퍼즐들이다아!""",HX_AASIM_CONV,,,,,0,0
+98922,Dialog,AASIM_CONV,"""Kiiiiiiill themmmmmm!""","""전부 죽여어어라아아!""",HX_AASIM_CONV,,,,,0,0
+98923,Dialog,AASIM_CONV,"""They musssst not disturb the holy puzzzzzles!""","""신성한 퍼즐들을 방해하게 두어선 안 된다아!""",HX_AASIM_CONV,,,,,0,0
+98924,Dialog,AASIM_CONV,"""Invaaaaders! Fend them off! They come to solve our puzzzzzles!""","""침입자다아! 막아라아! 우리 퍼즐을 풀러 왔다아!""",HX_AASIM_CONV,,,,,0,0
+100088,Creature,Arden Swift,Arden,아든,H2_ARDENSWIFT,,,,,0,0
+100089,Creature,Arden Swift,Swift,스위프트,H2_ARDENSWIFT,,,,,0,0
+104243,Dialog,ABARTOUGH1,"""Come on, Svirf. Drink up. I want that record!""","""가자, 스버프. 마셔! 기록을 깨 보자고!""",Q2ABARTOUGH1,,,,,0,0
+104246,Dialog,ABARTOUGH1,"""Let's go, svirf. Down the hatch... unless you want to become a target dummy for the archers""","""가자, 스버프. 벌컥벌컥 들이켜... 아니면 활잡이들의 과녁 허수아비가 되고 싶냐?""",Q2ABARTOUGH1,,,,,0,0
+104250,Dialog,ABARTOUGH1,"""Well, you were right. Guess I owe you a gold piece.""","""음... 네가 맞았네. 금화 한 닢 갚아야겠군.""",Q2ABARTOUGH1,,,,,0,0
+104254,Dialog,ABARTOUGH1,"The drow turns to face you, obviously annoyed at the interruption. ""Can't you see we're busy here? My svirf only needs four more ales to break the camp record for most drinks in one day.""","드로우가 방해받아 짜증 난 기색으로 당신을 돌아봅니다. ""이 스버프에게 에일을 더 먹여서 하루 최다 음주 기록을 깨보는 중이었거든.""",Q2ABARTOUGH1,,,,,0,0
+104256,Dialog,ABARTOUGH1,"<StartAction>Success</Start> The drow hesitates before replying, obviously aware he is no match for you. ""Fine. I was getting bored anyway. Come on, let's go.""","<StartAction>성공</Start> 드로우가 대꾸하기 전 잠시 머뭇거리더니, 당신의 말에 설득된 듯 고개를 끄덕입니다. ""좋아. 어차피 슬슬 질리던 참이야. 가자, 다른 일이나 찾자.""",Q2ABARTOUGH1,,,,,0,0
+104261,Dialog,ABARTOUGH1,"<StartAction>Success</Start> ""Ah, maybe this <race> surfacer has a point. Besides, I'm bored. Let's go find something else to do.""","<StartAction>성공</Start> ""흠, 이 <race> 지상거주자의 말이 일리가 있을지도... 그래, 됐다. 네 말대로 하지. 어차피 심심하던 참이니까. 딴 거나 하러 가자.""",Q2ABARTOUGH1,,,,,0,0
+104244,Dialog,ABARTOUGH2,"""Woo - look at him go!""","""우와-봐라, 쟤 간다!""",Q2ABARTOUGH2,,,,,0,0
+104248,Dialog,ABARTOUGH2,"""Your svirf's not looking too good. I don't think he's going to make it."" ","""네 스버프 꼴이 영 안 좋다. 기록은커녕 버티지도 못할걸.""",Q2ABARTOUGH2,act_q2a3svirf_2,,,,0,0
+104249,Dialog,ABARTOUGH2,"""Huh... he's dead. Still three drinks shy. I told you he'd never break the record.""","""허... 죽었네. 여전히 세 잔 모자라. 내가 뭐랬어, 기록은 절대 못 깰 거라고 했지.""",Q2ABARTOUGH2,,,,,0,0
+104255,Dialog,ABARTOUGH2,"""He'll never make it. The svirf that set the record was twice this runt's size, and he died the next day from alcohol poisoning!""","""절대 못 한다니까. 기록 세운 스버프는 이 쪼무래기의 두 배는 됐어-그리고 다음 날 알코올 중독으로 죽었다고!""",Q2ABARTOUGH2,,,,,0,0
+104320,Dialog,AAMBIENT,Once House Maeviir was as great as any in Menzoberranzan. Now we have fallen on hard times. ,한때 마에비르 가문은 멘조베란잔에서도 손꼽히는 가문이었지. 지금은 형편이 말이 아니지만.,Q2AAMBIENT,,,,,0,0
+104321,Dialog,AAMBIENT,"Now that Zesyyr has taken over, maybe House Maeviir can return to its former glory.","이제 제시르가 자리를 잡았으니, 마에비르 가문도 예전의 영광을 되찾을지도 모르겠어.",Q2AAMBIENT,,,,,0,0
+104322,Dialog,AAMBIENT,"Once this is all over, the Matron Mother will deal with the Seer and her refugees. You'll see.",이 모든 일이 끝나면 대모께서 선견자와 그 난민들을 처리하실 거야. 두고 봐.,Q2AAMBIENT,,,,,0,0
+104323,Dialog,AAMBIENT,Lith My'athar was much better off before the Seer showed up.,선견자가 나타나기 전엔 리스 마이아사가 훨씬 나았어.,Q2AAMBIENT,,,,,0,0
+104324,Dialog,AAMBIENTGOOD,"House Maeviir has vowed to help us, but I don't know if I trust them.",마에비르 가문이 우릴 돕겠다고 맹세했지만... 솔직히 믿어도 될지 모르겠어.,Q2AAMBIENTGOOD,,,,,0,0
+104325,Dialog,AAMBIENTGOOD,I heard the Matron of House Maeviir was killed. I hope the new Matron still supports us.,마에비르 가문의 대모가 죽었다고 들었어. 새 대모도 계속 우릴 지지해 주면 좋겠는데.,Q2AAMBIENTGOOD,,,,,0,0
+104326,Dialog,AAMBIENTGOOD,"I know the odds are against us, but the Seer and Eilistraee will guide us safely through.","형세가 불리한 건 알지만, 선견자와 에일리스트레이께서 우릴 안전히 이끌어 주실 거야.",Q2AAMBIENTGOOD,,,,,0,0
+104327,Dialog,AAMBIENTGOOD,"Eilistraee teaches us to be tolerant of others, even when they despise us.","에일리스트레이는 우리에게, 설령 그들이 우릴 멸시하더라도 타인을 관용하라고 가르치셔.",Q2AAMBIENTGOOD,,,,,0,0
+104328,Dialog,ABARTENDER,"""You again? Don't you get it? Your kind aren't welcome here. This is House Maeviir territory.  Why can't you refugees just stay on your own side of the camp?""","""또야? 아직도 모르겠어? 당신 같은 족속은 여기서 환영 못 받아... 여긴 마에비르 가문 구역이야. 왜 너희 난민들은 너희 구역에만 있지 않고 자꾸 여길 기웃거리는 거지?""",Q2ABARTENDER,,,,,0,0
+104329,Dialog,ABARTENDER,"""We'll tolerate your presence here, since we all want to see the Valsharess stopped. But that doesn't mean we have to like you or your Seer. Now go away - I'm busy.""","""우리 모두 발샤레스를 멈추길 바라니까 여기 있는 건 봐주겠다... 그렇다고 너희나 너희 '선견자'를 좋아해야 한다는 뜻은 아니거든. 이제 꺼져-바쁘다.""",Q2ABARTENDER,,,,,0,0
+104330,Dialog,ABARTENDER,"The bartender scowls at you. ""You're with that Seer and those followers of Eilistraee, aren't you? We don't see too many of your kind here in this part of the camp.""","바텐더가 당신을 노려봅니다. ""당신, 그 선견자랑 그 에일리스트레이 추종자 얼간이들이랑 어울리는 놈이지? 이쪽 구역에선 너 같은 부류를 자주 보진 못하는데.""",Q2ABARTENDER,nw_d1_talklevel,,,,0,0
+104331,Dialog,ABARTENDER,"The bartender gives you a nod. ""You're the one who helped Matron Zesyyr take over House Maeviir, aren't you? Would you like a drink? It's on the house.""","바텐더가 고개를 끄덕입니다. ""마에비르 가문과 제시르 님을 도와준 자가 당신이죠? 한 잔 하실래요? 가문에서 대접하는 술입니다.""",Q2ABARTENDER,,,,,0,0
+104332,Dialog,ABARTENDER,"""Of course, <Master/Mistress>. Please give my best wishes to Mother Zesyyr the next time you see her.""","""물론이죠. 다음에 제시르 님을 뵙거든 안부 전해 주십시오.""",Q2ABARTENDER,,,,,0,0
+104333,Dialog,ABARTENDER,"""Of course, <Master/Mistress>. Anything for a friend of House Maeviir... and the savior who will defeat the Valsharess, if that Seer and those fools who follow her are to be believed.""","""그럼요. 마에비르 가문의 친구를 위해서라면 뭐든지요. 선견자와 그 얼간이 추종자들이 떠드는 말로는... 뭐 그렇다더군요.""",Q2ABARTENDER,,,,,0,0
+104334,Dialog,ABARTENDER,"""How could I? They stand against everything our society is built on. Strength breeds strength, the weak are fit only to serve. But the Seer and her followers seem to forget that.""","""어떻게 그럴 수가 있겠습니까? 그들은 우리 사회가 세워져 봉사해 온 모든 것에 반합니다. 하지만 선견자와 그 추종자들은 그걸 잊은 듯하죠.""",Q2ABARTENDER,,,,,0,0
+104335,Dialog,ABARTENDER,"""The worshipers of Eilistraee celebrate mercy and compassion. The fools glorify their own weakness. But I can't deny that the Seer has power, and she has a lot of followers.""","""에일리스트레이의 숭배자들은 자비와 연민을 강조합니다... 선견자의 힘 자체를 부정하진 않아요, 게다가 따르는 자들도 많고요.""",Q2ABARTENDER,,,,,0,0
+104336,Dialog,ABARTENDER,"""House Maeviir is in desperate need of allies right now; even those who follow Eilistraee. So we tolerate their presence in this camp. We need them against the Valsharess.""","""지금 마에비르 가문엔 동맹이 절실합니다. 에일리스트레이 추종자 일행이 마음에 들지는 않지만, 발샤레스에 맞서려면 이 진영에 그들의 존재가 필요합니다.""",Q2ABARTENDER,,,,,0,0
+104337,Dialog,ABARTENDER,"""I don't know too much about her. She's a Matron Mother, but I don't even know from which house. And everybody knows she's bent on conquering the entire Underdark.""","""그 여자는 가문의 가주죠. 세부는 잘 모릅니다만... 모두가 그녀가 언더다크 전체를 정복하려 든다는 건 알고 있어요.""",Q2ABARTENDER,,,,,0,0
+104338,Dialog,ABARTENDER,"""But House Maeviir isn't going down without a fight. She may have driven us to this small camp, but now we're going to make a stand... even if that means siding with the Seer and her bunch.""","""그래도 마에비르 가문은 그냥 가라앉지 않을 겁니다. 그녀가 강하더라도 우리도 끝까지 버틸 겁니다... 필요하다면 선견자 무리와 손잡는 한이 있더라도요.""",Q2ABARTENDER,,,,,0,0
+104339,Dialog,ABARTENDER,"The bartender gives you a full mug of drow ale. You down it quickly; the taste is pleasant, but the kick is strong.","바텐더가 드로우 에일 한 잔을 가득 따릅니다. 당신은 재빨리 들이켭니다. 맛은 괜찮지만, 독한 킥이 강력합니다.",Q2ABARTENDER,q2a_drinking,,,,0,0
+104340,Dialog,ABARTENDER,"""Is there anything else you need, good <Master/Mistress>? I'm always willing to help a friend of House Maeviir.""","""또 필요한 건 없으십니까, 훌륭하신 분? 마에비르 가문의 친구를 돕는 일이라면 언제든지요.""",Q2ABARTENDER,,,,,0,0
+104341,Dialog,ABARTENDER,"The bartender raises an eyebrow, but makes no comment as he draws you another ale. You quickly drink it down.",바텐더가 미간을 치켜세우지만 말없이 에일을 하나 더 따릅니다. 당신은 그것도 곧장 비워 버립니다.,Q2ABARTENDER,q2a_drinking,,,,0,0
+104460,Dialog,ADEANIGUARD,"Speak to the Matron Mother if you wish, but I'll be watching you.",원하시면 대모와 이야기하십시오. 하지만 제가 지켜보고 있겠습니다.,Q2ADEANIGUARD,,,,,0,0
+104461,Dialog,ADOCK,"The Seer says Cavallas is on our side, but there's something strange about him. He never takes off that cloak.","선견자는 카발라스가 우리 편이라고 말하지만, 뭔가 수상해. 녀석은 망토를 절대 벗지 않아.",Q2ADOCK,,,,,0,0
+104462,Dialog,ADOCK,Be careful over here by the river. Those who fall in don't come out.,강가 근처는 조심해라. 거기에 빠진 자는 다시 나오지 못한다.,Q2ADOCK,,,,,0,0
+104463,Dialog,ADOCK,Talk to Cavallas if you want to cross the river... but don't turn your back on him.,강을 건너려면 카발라스와 얘기해라... 하지만 등을 보이지는 마라.,Q2ADOCK,,,,,0,0
+104464,Dialog,ADOCK,"You're the one the Seer said would save us, aren't you? I hope she's right about you.",네가 바로 선견자가 말한 구세주지? 제발 그 말이 사실이길 바란다.,Q2ADOCK,,,,,0,0
+104465,Dialog,ADOCK,"I know Cavallas brings us food and supplies, but I still don't trust him.","카발라스가 우리에게 음식과 물자를 가져다주지만, 난 여전히 녀석을 믿지 못하겠다.",Q2ADOCK,,,,,0,0
+104466,Dialog,AGATEGUARD1,The Seer says you will defeat the Valsharess. I hope she's right.,선견자께서 당신이 발샤레스를 물리칠 것이라 하셨습니다. 부디 그 말씀이 옳기를 바랍니다.,Q2AGATEGUARD1,,,,,0,0
+104467,Dialog,AGATEGUARD1,"The Dark River protects the eastern side of Lith My'athar, and these gates protect the west.","검은 강은 리스 마이아사의 동쪽을 지키고, 이 문들이 서쪽을 지키고 있습니다.",Q2AGATEGUARD1,,,,,0,0
+104468,Dialog,AGATEGUARD1,"House Maeviir doesn't have enough troops to guard the gates, so the Seer sent us to help.","마에비르 가문은 이 문들을 지킬 병력이 부족하여, 선견자께서 우리를 보내셨습니다.",Q2AGATEGUARD1,,,,,0,0
+104469,Dialog,AGATEGUARD2,"The Seer sent troops to help defend the gate, but you can't count on a follower of Eilistraee.","선견자께서 문을 지키도록 병력을 보냈지만, 에일리스트레이의 추종자를 전적으로 믿을 수는 없습니다.",Q2AGATEGUARD2,,,,,0,0
+104470,Dialog,AGATEGUARD2,"House Maeviir is training more troops to help us out, but they aren't ready yet.","마에비르 가문이 우리를 돕기 위해 병력을 더 훈련하고 있지만, 아직 준비가 되지 않았습니다.",Q2AGATEGUARD2,,,,,0,0
+104471,Dialog,AGATEGUARD2,"No army has ever breached the gates of Lith My'athar, but the Valsharess might be the first.","리스 마이아사의 문은 지금껏 뚫린 적이 없으나, 발샤레스가 첫 사례가 될지도 모릅니다.",Q2AGATEGUARD2,,,,,0,0
+104472,Dialog,AGATEGUARD3,"I don't care how big these gates are, they aren't going to save us when the battle starts.","이 문들이 아무리 크다 해도, 전투가 시작되면 우리를 구해주지 못할 겁니다.",Q2AGATEGUARD3,,,,,0,0
+104473,Dialog,AGATEGUARD3,They say the undead are massing against us. We can't fight an army that's already dead!,언데드들이 우리를 향해 몰려든다는 소문이 있습니다. 이미 죽은 군대와는 싸울 수 없습니다!,Q2AGATEGUARD3,,,,,0,0
+104474,Dialog,AGATEGUARD3,The Valsharess has beholders and illithid on her side. All we have are the followers of Eilistraee.,발샤레스는 주시자와 일리시드를 거느리고 있습니다. 우리에겐 에일리스트레이의 추종자들밖에 없습니다.,Q2AGATEGUARD3,,,,,0,0
+104542,Dialog,AHERDER,Please do not upset the herd. The meat becomes sour if the rothe are frightened.,가축을 놀라게 하지 말아 주십시오. 로스가 겁을 먹으면 고기가 시어집니다.,Q2AHERDER,,,,,0,0
+104543,Dialog,AHERDER,Food is scarce here in the Underdark. Lith My'athar is lucky to have a herd of deep rothe.,언더다크에선 식량이 귀합니다. 리스 마이아사는 깊은 로스 무리를 거느리고 있으니 다행이지요.,Q2AHERDER,,,,,0,0
+104544,Dialog,AHERDER,"The rothe can be dangerous if provoked, but usually they are quite docile.","로스는 건드리면 위험할 수 있지만, 대개는 아주 온순합니다.",Q2AHERDER,,,,,0,0
+104545,Dialog,AHOUSEGUARD,"This guard is standing at attention as you approach. He barely acknowledges you as he says, ""Matron Myrune is not accepting visitors.""","이 경비병은 당신이 다가오자 꼿꼿이 서 있습니다. 그는 거의 눈길도 주지 않은 채 말합니다. ""미룬 대모는 지금 손님을 받지 않으신다.""",Q2AHOUSEGUARD,,,,,0,0
+104546,Dialog,AHOUSEGUARD,"The guard doesn't reply, but merely continues to stand rigidly at attention.","경비병은 대답하지 않고, 그냥 꼿꼿이 선 채 근무를 이어갑니다.",Q2AHOUSEGUARD,,,,,0,0
+104547,Dialog,AHOUSEGUARD,"""She's the ruler of House Maeviir. The Seer and her rebel followers are here at the pleasure of Matron Myrune. But the Matron is not seeing visitors at this time.""","""그분은 마에비르 가문의 지배자시다. 선견자와 그녀의 반군 추종자들은 미룬 대모의 허락으로 여기에 있는 것이다. 하지만 대모는 지금 손님을 뵙지 않으신다.""",Q2AHOUSEGUARD,,,,,0,0
+104548,Dialog,AHOUSEGUARD,"""This tower is the stronghold of House Maeviir. Since the rebel refugees arrived, Matron Myrune has secluded herself inside. No one is allowed to see her.""","""이 탑은 마에비르 가문의 요새다. 반군 피난민들이 도착한 이후, 미룬 대모는 안으로 들어가 은거하셨다. 누구도 그분을 뵐 수 없다.""",Q2AHOUSEGUARD,,,,,0,0
+104549,Dialog,AHOUSEGUARD,"The guard suddenly seems very nervous. ""Zesyyr gave you that? She's ready to move now?""  He glances quickly from side to side, trying to see if anyone is watching.","경비병은 갑자기 몹시 불안해 보입니다. ""제시르님이 그걸 줬다고? 이제 움직일 준비가 됐단 말이지?"" 그는 재빨리 주위를 살피며 누가 지켜보는지 확인합니다.",Q2AHOUSEGUARD,,,,,0,0
+104550,Dialog,AHOUSEGUARD,"""Some of the guards inside are still loyal to Matron Myrune. Others are wavering between her and Zesyyr. Those ones won't fight you, but they won't help you, either.""","""안에 있는 경비들 중 일부는 아직 미룬 대모께 충성하고 있다. 다른 자들은 그분과 제시르님 사이에서 흔들리고 있지. 그런 자들은 너와 싸우지도 않겠지만, 돕지도 않을 거다.""",Q2AHOUSEGUARD,,,,,0,0
+104551,Dialog,AHOUSEGUARD,"""Hurry, go inside and we'll summon the Matron. If you act quickly, you can probably kill her and Captain Tebimar before they realize what's going on.""","""서둘러, 안으로 들어가라. 우리가 대모를 불러내겠다. 네가 재빠르게 움직이면 그녀와 테비마르 대장을 눈치채기 전에 죽일 수도 있을 거다.""",Q2AHOUSEGUARD,,,,,0,0
+104552,Dialog,AHOUSEGUARD,"The guard gives you a brisk salute. ""Matron Zesyyr wishes to express her gratitude for all you have done. She considers you an ally of House Maeviir.""","경비병이 너에게 단정히 경례합니다. ""제시르 대모께서 네가 해온 모든 일에 감사를 표하시길 원하신다. 그녀는 너를 마에비르 가문의 동맹으로 여기신다.""",Q2AHOUSEGUARD,,,,,0,0
+104553,Dialog,AHOUSEGUARD,"The guard gives you another salute, but otherwise makes no reply.","경비병은 다시 경례를 하지만, 그 외에는 아무 대답도 하지 않습니다.",Q2AHOUSEGUARD,,,,,0,0
+104554,Dialog,AHOUSEGUARD,"""That isn't possible. Matron Zesyyr's position is still unstable, she is worried about assassination attempts. Nobody is allowed in to see her.""","""그건 불가능하다. 제시르 대모의 지위는 아직 불안정하고, 그녀는 암살 시도를 우려하고 계신다. 누구도 그분을 뵐 수 없다.""",Q2AHOUSEGUARD,,,,,0,0
+104555,Dialog,AHOUSEGUARD,"""Matron Zesyyr is grateful for all you've done, but she knows all too well how an ally can be turned to an enemy. She doesn't want to take any chances.""","""제시르 대모는 네가 해온 모든 일에 감사하지만, 동맹이 적으로 돌아서는 경우를 너무 잘 알고 계시다. 그분은 위험을 감수하고 싶어 하지 않으신다.""",Q2AHOUSEGUARD,,,,,0,0
+104556,Dialog,AHOUSEGUARD,"The guard gives you a brisk salute. ""Matron Myrune wishes to express her gratitude for all you have done. She considers you an ally of House Maeviir.""","경비병이 너에게 단정히 경례합니다. ""미룬 대모께서 네가 해온 모든 일에 감사를 표하시길 원하신다. 그녀는 너를 마에비르 가문의 동맹으로 여기신다.""",Q2AHOUSEGUARD,,,,,0,0
+104557,Dialog,AHOUSEGUARD,"""The guards who were here before have been executed for their treachery, along with Zesyyr herself. We have staked their heads here as a warning to any others who entertain treacherous thoughts.""","""이곳에 있던 경비들은 모두 반역죄로 처형되었고, 제시르 역시 마찬가지다. 우리는 그들의 머리를 장대에 걸어두어, 반역을 꿈꾸는 다른 자들에게 경고로 삼았다.""",Q2AHOUSEGUARD,,,,,0,0
+104558,Dialog,AHOUSEGUARD,"""That isn't possible. Matron Myrune is not willing to expose herself to another assassination attempt. Nobody is allowed in to see her.""","""그건 불가능하다. 미룬 대모는 또다시 암살을 당할 위험에 몸을 내놓을 생각이 없으시다. 누구도 그분을 뵐 수 없다.""",Q2AHOUSEGUARD,,,,,0,0
+104559,Dialog,AHOUSEGUARD,"""Matron Myrune appreciates what you have done, but she knows all too well how an ally can suddenly betray you. She refuses to leave herself vulnerable. You cannot enter.""","""미룬 대모는 네가 해온 일을 고맙게 여기지만, 동맹이 순식간에 배신하는 경우를 너무 잘 아신다. 그분은 자신을 위험에 노출시키길 거부하신다. 너는 들어갈 수 없다.""",Q2AHOUSEGUARD,,,,,0,0
+104622,Dialog,AMAESOLDIER,I can't speak with you during my drills. The sergeant will have me flogged.,훈련 중엔 말할 수 없습니다. 병장에게 맞을 거에요.,Q2AMAESOLDIER,,,,,0,0
+104656,Dialog,AMERCHANT,The Valsharess has cut off all our trade routes and supply lines. There's no hope for us now.,발샤레스가 우리의 모든 교역로와 보급선을 끊어 버렸다. 이제 우리에겐 희망이 없다.,Q2AMERCHANT,,,,,0,0
+104657,Dialog,AMERCHANT,House Maeviir has fallen on hard times. We should never have challenged the Valsharess.,마에비르 가문은 극심한 궁핍에 빠졌다. 발샤레스를 결코 거슬렀어선 안 됐다.,Q2AMERCHANT,,,,,0,0
+104658,Dialog,AMERCHANT,The Seer and her refugees have used up all my stores. I have nothing left to sell you.,선견자와 그 피난민들이 내 물건을 다 써 버렸다. 그대에게 팔 물건이 하나도 없다.,Q2AMERCHANT,,,,,0,0
+104659,Dialog,AREBTRAINING,I can't talk now. I have to focus on my drills.,지금은 이야기할 수 없습니다. 훈련에 집중해야 합니다.,Q2AREBTRAINING,,,,,0,0
+104660,Dialog,ATEMPLE,It is an honor for any follower of Eilistraee to serve the Seer. ,에일리스트레이의 추종자로서 선견자를 섬기는 것은 큰 영광입니다.,Q2ATEMPLE,,,,,0,0
+104661,Dialog,ATEMPLE,The Seer says your destiny is to kill the Valsharess. Go fulfill your destiny.,선견자께서 말씀하셨습니다. 그대의 운명은 발샤레스를 쓰러뜨리는 것이라 하셨습니다. 가서 그 운명을 이루십시오.,Q2ATEMPLE,,,,,0,0
+104662,Dialog,ATEMPLE,"We will protect the Seer at all costs. Without her, we are doomed.",우리는 어떤 대가를 치르더라도 선견자님을 지켜낼 것입니다. 그분이 없으면 우리는 멸망할 것입니다.,Q2ATEMPLE,,,,,0,0
+104730,Dialog,AZESYYRCUT,"""Quickly, secure the tower. Remove the rest of the trash that has been following my mother.""","""서둘러라! 탑을 확보해라. 어머니를 따라다니던 하찮은 것들도 모조리 치워.""",Q2AZESYYRCUT,q2a_at_zesyyr,,,vs_nx2drprf_57,0,0
+104731,Dialog,AZESYYRCUT,"Zesyyr turns her attention to you. ""Well done, <FullName>. You have my thanks, and the thanks of all House Maeviir. My guards will see you are given the payment we had agreed on.""","제시르는 시선을 당신에게 돌립니다. ""잘했어요, <FullName>. 당신에게도-그리고 마에비르 가문 전체에도-감사의 뜻을 전합니다. 경비들이 약속한 대금을 전할 겁니다.""",Q2AZESYYRCUT,,,,,0,0
+104732,Dialog,AZESYYRCUT,"""There is still much I must do to secure my position as the new Matron. The guards will show you out now.""","""내가 새 대모의 자리를 굳히려면 아직 할 일이 많아요. 이제 경비들이 당신을 밖으로 모실 겁니다.""",Q2AZESYYRCUT,,,,,0,0
+104733,Dialog,AZESYYRCUT,"""More? You have a strange way of bargaining, <FullName>. The deed is done now. Why should I give you more?""","""더 달라고요? 협상법이 특이하시군요, <FullName>. 일은 끝났습니다. 왜 더 줘야 하죠?""",Q2AZESYYRCUT,,,,,0,0
+104734,Dialog,AZESYYRCUT,"<StartAction>Success</Start> ""You have a surprisingly good grasp of the drow political system. It seems I made a mistake in disposing of my mother's body so hastily.""  ","<StartAction>성공</Start> ""드로우 정치에 대한 이해가 놀랍군요. 어머니의 시신을 성급히 처리한 건 실수였던 것 같습니다.""",Q2AZESYYRCUT,,,,,0,0
+104735,Dialog,AZESYYRCUT,"""And if I don't display her body, there may be those who believe she's still alive. They might plot against me to restore her as Matron... especially if the supposed assassin claims she still lives.""","""그리고 시신을 전시하지 않으면, 그녀가 아직 살아 있다고 믿을 자들도 있겠죠. 특히 자칭 암살자가 그녀가 살아 있다고 떠들고 다니면, 나를 몰아내고 그녀를 복귀시키려 들지 모릅니다.""",Q2AZESYYRCUT,,,,,0,0
+104736,Dialog,AZESYYRCUT,"<StartAction>Success</Start> Zesyyr looks at the carnage around her, then slowly nods. ""I suppose there's no sense in throwing away my life so soon after I've become the new Matron.""","<StartAction>성공</Start> 제시르는 주변의 참상을 한동안 바라보더니 천천히 고개를 끄덕입니다. ""대모가 되자마자 내 목숨을 내던질 이유는 없겠지요.""",Q2AZESYYRCUT,,,,,0,0
+104737,Dialog,AZESYYRCUT,"<StartAction>Success</Start> Zesyyr nods her head. ""You have proven yourself... and I may need your help in the future. I suppose it would be wise to foster some good will.""","<StartAction>성공</Start> 제시르는 고개를 끄덕입니다. ""당신이 스스로를 증명했군요... 앞으로도 도움이 필요할지 모릅니다. 호의를 쌓아 두는 게 현명하겠죠.""",Q2AZESYYRCUT,,,,,0,0
+104738,Dialog,AZESYYRCUT,"""Very well, you can have the weapon of Tebimar, my mother's personal guard as an extra reward. It is a quite a powerful weapon with magical properties. I trust this will suffice.""","""좋아요. 추가 보상으로 어머니의 근위 테비마르의 무기를 주지요. 꽤 강력한 마법 속성을 지닌 무기예요. 이 정도면 만족하리라 믿습니다.""",Q2AZESYYRCUT,act_q2azesyyr_1,,,,0,0
+104744,Dialog,AZESYYRGAURD,"This soldier is obviously a bodyguard of the nearby female drow. He fixes you with a steely gaze, analyzing the threat you might represent.","이 병사는 근처의 드로우 여성을 경호하는 자로 보입니다. 당신을 매서운 눈빛으로 똑바로 노려보며, 위협이 되는지 가늠합니다.",Q2AZESYYRGAURD,,,,,0,0
+104745,Dialog,AZESYYRGAURD,"""You may speak to the exalted daughter Zesyyr, but don't try anything. We won't let anything happen to the heir of House Maeviir."" ","""존귀한 따님 제시르와 대화하는 건 허락하겠다. 하지만 건방진 짓은 하지 마라. 마에비르 가문의 상속자에게는 아무 일도 벌어지지 않을 것이다.""",Q2AZESYYRGAURD,,,,,0,0
+104754,Dialog,ARGOHEAD,"The head of Argosus is somehow still alive, sustained by terrible magic so he is forced to look upon the fate of his followers. He looks up at you and speaks in a parched whisper:","말뚝에 꽂힌 아르고서스의 머리가 당신을 올려다봅니다. 끔찍한 마법에 의해 생명만 붙들린 채, 동료들의 고통을 지켜보도록 강요받고 있습니다. 그는 메마른 속삭임으로 말합니다:",Q2D2ARGOHEAD,act_q2d2argo_1,,,as_pl_ailingm3,0,0
+104755,Dialog,ARGOHEAD,"""I was a fool to trust you. Now I pay the ultimate price.""","""너를 믿다니 어리석었군. 이제 그 대가를 치르는구나.""",Q2D2ARGOHEAD,,,,vs_nx2slavm_51,0,0
+104756,Dialog,ARGOHEAD,"He tries to say something else, but the words only come out as a choked gurgle as he mercifully slips into death, his only escape from the tortures he has endured.","그가 무언가 더 말하려 하지만, 숨 막힌 가르랑거림만 새어 나오다가 마침내 죽음 속으로 미끄러져 들어갑니다. 그가 겪어온 고문에서 벗어나는 유일한 도피처였습니다.",Q2D2ARGOHEAD,,,,as_pl_ailingm1,0,0
+104757,Dialog,ARTUUR,"Unlike the other illithid here, this mind flayer makes no effort to probe your mind as you approach. You don't know if this is a good or bad sign.","여기 다른 일리시드들과 달리, 이 마인드 플레이어는 네가 다가가도 정신을 탐색하려 들지 않습니다. 이게 좋은 징조인지 나쁜 징조인지는 알 수 없다.",Q2D2ARTUUR,,,,,0,0
+104758,Dialog,ARTUUR,"""Welcome, <race> surfacer. Unlike some of my fellow possessors, I am willing to do business with those of the thrall races.""","""환영하네, <race> 지상인. 동족 몇몇과 달리, 나는 노예 취급받는 종족과도 거래할 용의가 있지.""",Q2D2ARTUUR,,,,,0,0
+104759,Dialog,ARTUUR,"""Goodbye, surfacer. If you wish to purchase goods, please return. I doubt you will have any luck with the other possessors.""","""잘 가게, 지상인. 물건을 사려거든 다시 오게. 다른 동족들한테서는 가망이 없을 테니.""",Q2D2ARTUUR,,,,,0,0
+104760,Dialog,ARTUUR,"""I am a shopkeeper; a simple merchant, like all the other possessors who come here to the market. But unlike them, I am willing to trade with you.""","""나는 상인일 뿐이네-이 시장에 오는 다른 동족들과 마찬가지로 단순한 장사꾼이지. 하지만 그들과 달리, 나는 너와 거래할 생각이 있지.""",Q2D2ARTUUR,nw_d1_talklevel,,,,0,0
+104761,Dialog,ARTUUR,"""The Elder Brain has opened Zorvak'Mur to other races for the thrall trade, so I would guess the Elder Brain wants us to treat you politely. I suppose I can answer some questions.""","""엘더 브레인이 노예 거래를 위해 조르박무르를 다른 종족에게 개방했지. 그러니 우리더러 너희를 공손히 대하라는 뜻일 게다. 몇 가지 질문엔 답해 주지.""",Q2D2ARTUUR,,,,,0,0
+104762,Dialog,ARTUUR,"""I do not know of this drow you have mentioned, though my knowledge is far from absolute. Perhaps the Elder Brain knows something of this.""","""네가 말한 그 드로우에 대해서는 모르네. 내 지식이 절대적인 것도 아니고. 아마 엘더 브레인이 뭔가 알고 있을지도 모르지.""",Q2D2ARTUUR,,,,,0,0
+104763,Dialog,ARTUUR,"""I'm afraid I do not know the answer to that question. Opening Zorvak'Mur was a decision of the Elder Brain, and it is much wiser than I.""","""유감이지만 그 질문의 답은 모르겠군. 조르박무르를 연 건 엘더 브레인의 결정이고, 그건 나보다 훨씬 현명하니까.""",Q2D2ARTUUR,,,,,0,0
+104764,Dialog,ARTUUR,"""I'm a merchant of goods, not thralls. If you wish to purchase a thrall you'll have to go to the auction lots in the center of town.""","""나는 물건을 파는 상인이지, 노예상은 아니네. 노예를 사고 싶다면 도시 중앙의 경매장으로 가게.""",Q2D2ARTUUR,,,,,0,0
+104765,Dialog,ARTUUR,"""The Elder Brain has opened Zorvak'Mur to other races for the thrall trade. Despite this, the other possessors cannot overcome their contempt and loathing for you inferior races."" ","""엘더 브레인이 노예 거래를 위해 조르박무르를 개방했지. 그럼에도 다른 동족들은 너희 하등 종족에 대한 경멸과 혐오를 떨치지 못하네.""",Q2D2ARTUUR,,,,,0,0
+104766,Dialog,ARTUUR,"""But I trust the wisdom of the Elder Brain, and I am willing to set aside my revulsion to do business with you... just as those who buy and sell the thralls have.""","""하지만 나는 엘더 브레인의 지혜를 신뢰한다. 그러니 혐오감을 잠시 접고 너와 거래하지... 노예를 사고파는 자들과 마찬가지로.""",Q2D2ARTUUR,,,,,0,0
+104767,Dialog,ARTUUR,"The mind flayer's tentacles twitch slightly, as if he is nervous. ""Opening Zorvak'Mur is one thing, but I do not know if the Elder Brain will speak to one of the thrall race.""","마인드 플레이어의 촉수가 약간 꿈틀거린다. 긴장한 듯하다. ""조르박무르를 여는 건 그렇다 쳐도, 엘더 브레인이 노예 종족의 말까지 들어줄지는 모르겠다.""",Q2D2ARTUUR,,,,,0,0
+104768,Dialog,ARTUUR,"""If you truly want an audience with the Elder Brain, you will have to speak to those who guard the entrance to the great chamber. You can find them in the southeast of the city.""","""정말 엘더 브레인을 뵙고 싶다면, 대전 입구를 지키는 자들에게 말해야 하네. 그들은 도시 남동쪽에 있지.""",Q2D2ARTUUR,,,,,0,0
+104769,Dialog,ARTUUR,"""Greetings once again, my <race> friend. Have you come to see what I have for sale? As you no doubt have discovered, I am the only possessor who will sell to you.""","""다시 보네, <race> 친구. 물건을 보러 왔나? 보다시피 너에게 물건을 팔 동족은 나뿐일 거다.""",Q2D2ARTUUR,,,,,0,0
+104959,Dialog,AMPLIFIER,You struggle to understand the many controls of this strange mechanism.,이 기묘한 장치의 수많은 조작계를 이해하려 애쓰지만 쉽지 않다.,Q2D4AMPLIFIER,,,,,0,0
+105132,Dialog,ANNOUNCER,The thralls are entering the pit; the time of battle is at hand.,노예들이 투기장으로 들어간다. 전투의 때가 다가왔다.,Q2D7ANNOUNCER,,,,,0,0
+105133,Dialog,ANNOUNCER,Release the thralls and let the carnage begin!,노예들을 풀어라! 학살을 시작하라!,Q2D7ANNOUNCER,,,,,0,0
+106463,Dialog,AMBUSH,You notice a group of drow just inside the cave ahead of you. If you act quickly you may be able to set an ambush for them.,앞 동굴 안쪽에 드로우 무리가 눈에 띕니다. 재빨리 움직이면 놈들에게 매복을 놓을 수 있을겁니다.,Q6_AMBUSH,,,,,0,0
+107901,Creature,Attiz,Attiz,아티즈,Q5B_ATTIZ,,,,,0,0
+109654,Dialog,AZER_CONV,"""Better sport than rats, that be sure...""","""쥐 놀음보단 훨씬 낫지...""",HX_AZER_CONV,,,,,0,0
+109655,Dialog,AZER_CONV,"""Keep 'em surrounded!""","""포위 유지해!""",HX_AZER_CONV,,,,,0,0
+109656,Dialog,AZER_CONV,"""Har, this berk should be good eating.""","""하르, 이 멍청이는 맛있게 먹겠군.""",HX_AZER_CONV,,,,,0,0
+109657,Dialog,AZER_CONV,"""Hmph. Wish *I* could grapple around this damn place.""","""흥. 이 빌어먹을 데를 나도 붙잡고 기어다닐 수 있었으면.""",HX_AZER_CONV,,,,,0,0
+109658,Dialog,AZER_CONV,"""Bloody mimic's trapped another berk. Let's get 'em!""","""빌어먹을 흉내쟁이가 또 한 멍청이를 잡았다. 덤벼!""",HX_AZER_CONV,,,,,0,0
+109825,Creature,Azer Gem Miner,Azer Gem Miner,아제르 보석 광부,HX_AZER|HX_AZER_F,,,,,0,0
+109852,Creature,Alpha Hell Frost Worg,Alpha Hell Frost Worg,우두머리 지옥서리 워그,HX_WINTER_WOLF_A,,,,,0,0

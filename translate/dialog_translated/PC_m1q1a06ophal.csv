@@ -1,0 +1,59 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17489,PC,Player Character,Well hello. I am <FullName>. Will you answer some questions?,안녕하세요. 저는 <FullName>입니다. 몇 가지 질문을 해도 될까요?,m1q1a06ophal,,[매력 중간/지능 중간],,,0,0
+17490,PC,Player Character,I'm <FullName>. I have a few questions.,전 <FullName>입니다. 몇 가지 여쭤볼 게 있어요.,m1q1a06ophal,,[매력 낮음/지능 중간],,,0,0
+17491,PC,Player Character,I'm <FullName>. Just answer my questions.,난 <FullName>야. 내 질문에만 답해.,m1q1a06ophal,,[지능 보통],,,0,0
+17492,PC,Player Character,Me <FullName>. Maybe me ask some questions?,나 <FullName>. 질문 좀 해도 되나?,m1q1a06ophal,,[지능 낮음],,,0,0
+17493,PC,Player Character,Me <FullName>. You just answer questions and stop yappin'.,나 <FullName>. 말 많지 말고 질문에나 답해.,m1q1a06ophal,,[지능 낮음],,,0,0
+17494,PC,Player Character,Farewell for now.,다음에 뵙죠.,m1q1a06ophal,,[지능 보통],,,0,0
+17495,PC,Player Character,"Bye bye, okay?","잘 가, 알았지?",m1q1a06ophal,,[지능 낮음],,,0,0
+17496,PC,Player Character,What kind of place do you run here?,여긴 어떤 곳이죠?,m1q1a06ophal,,[지능 보통],,,0,0
+17497,PC,Player Character,What kind of stuff happens here?,여기서 뭐 하는 데야?,m1q1a06ophal,,[지능 낮음],,,0,0
+17498,PC,Player Character,Know any rumors? Seen anything strange?,소문 좀 아세요? 이상한 걸 본 적은요?,m1q1a06ophal,,[지능 보통],,,0,0
+17499,PC,Player Character,Maybe you knows things? Seen weird stuffs?,뭐 아는 거 있어? 이상한 거 봤어?,m1q1a06ophal,,[지능 낮음],,,0,0
+17500,PC,Player Character,"You knows anything abouts the plague, maybe?","역병에 대해 아는 거, 있나?",m1q1a06ophal,,[지능 낮음],,,0,0
+17501,PC,Player Character,Have you heard anything about the plague?,역병에 대해 들은 게 있나요?,m1q1a06ophal,,[지능 보통],,,0,0
+17502,PC,Player Character,<StartCheck>[Persuade]</Start> You can trust me. What've you got to say?,<StartCheck>[설득]</Start> 믿어도 됩니다. 들려줄 말이 있나요?,m1q1a06ophal,,[지능 보통],,,0,0
+17503,PC,Player Character,"<StartCheck>[Persuade]</Start> Trust me, okies? Yeah, 's all good.","<StartCheck>[설득]</Start> 날 믿어, 응? 괜찮아.",m1q1a06ophal,,[지능 낮음],,,0,0
+17504,PC,Player Character,I will get them. Give me more details.,내가 가져오죠. 자세히 말해 주세요.,m1q1a06ophal,,[지능 보통],,,0,0
+17505,PC,Player Character,Me help get art stuff. Know where they is?,나 그 예술품 가져와 줄게. 어디 있는지 알아?,m1q1a06ophal,,[지능 낮음],,,0,0
+17506,PC,Player Character,This does not interest me.,흥미 없군요.,m1q1a06ophal,,[지능 보통],,,0,0
+17507,PC,Player Character,This is not my concern.,나랑 상관없어.,m1q1a06ophal,,[지능 낮음],,,0,0
+17508,PC,Player Character,Tell me about these art objects.,그 예술품들에 대해 말해 봐요.,m1q1a06ophal,,[지능 보통],,,0,0
+17509,PC,Player Character,So you want some pretty stuff? What is they?,예쁜 거 갖고 싶다는 거야? 뭐야 그게?,m1q1a06ophal,,[지능 낮음],,,0,0
+17510,PC,Player Character,No! Me demands more!,안 돼! 더 줘!,m1q1a06ophal,,[지능 낮음],,,0,0
+17511,PC,Player Character,<StartCheck>[Persuade]</Start> You must agree that I am worth more.,<StartCheck>[설득]</Start> 제 값어치가 더 한다는 데 동의하시겠죠.,m1q1a06ophal,,[지능 보통],,,0,0
+17512,PC,Player Character,<StartCheck>[Persuade]</Start> You knows me worth more than that.,<StartCheck>[설득]</Start> 내가 그보다 더 값진 거 알잖아.,m1q1a06ophal,,[지능 낮음],,,0,0
+17513,PC,Player Character,I demand more! Pay or prepare to suffer!,더 내놔! 아니면 대가를 치르게 될 거야!,m1q1a06ophal,,[지능 보통],,,0,0
+17514,PC,Player Character,"Me wants more, or me hurt you good!","더 줘, 아니면 혼쭐 내줄 거야!",m1q1a06ophal,,[지능 낮음],,,0,0
+17515,PC,Player Character,That is sufficient. Thank you.,그 정도면 충분합니다. 고맙군요.,m1q1a06ophal,,[지능 보통],,,0,0
+17516,PC,Player Character,That really good. Thanks for the stuff.,그거 참 좋아. 물건 고마워.,m1q1a06ophal,,[지능 낮음],,,0,0
+17517,PC,Player Character,I don't care! I demand more!,관계없어! 더 내놔!,m1q1a06ophal,,[지능 보통],,,0,0
+17518,PC,Player Character,"<StartCheck>[Insight]</Start> And if they stopped, you might have to sell those secrets.","<StartCheck>[통찰]</Start> 그게 끊기면, 당신도 그 비밀을 팔아야 할지도 모르겠군요.",m1q1a06ophal,,,,,0,0
+17519,PC,Player Character,"Come now, madam. Don't keep secrets between us.","자, 아가씨. 우리 사이에 비밀은 없도록 하죠.",m1q1a06ophal,,mcsgendermintn,,,0,0
+17520,PC,Player Character,You pretty. Tell me stuff. No secrets.,예쁜 아가씨. 다 말해. 비밀 없게.,m1q1a06ophal,,mcsgendermintl,,,0,0
+17521,PC,Player Character,I'm interested in the backroom.,안쪽 방에 관심이 있습니다.,m1q1a06ophal,,[지능 보통],,,0,0
+17522,PC,Player Character,Tell about backroom stuff for me. Yeah.,안쪽 방 얘기해 줘. 응.,m1q1a06ophal,,[지능 낮음],,,0,0
+17523,PC,Player Character,Don't play games. Tell me or shut the hell up.,말장난하지 마. 말하든가 입 다물어.,m1q1a06ophal,,[지능 보통],,,0,0
+17524,PC,Player Character,Stupid word games! Just say or shut up! ,바보 같은 말장난 그만! 말하든가 닥쳐!,m1q1a06ophal,,[지능 낮음],,,0,0
+17525,PC,Player Character,I want permission to access the backrooms.,안쪽 방에 들어갈 허가가 필요해요.,m1q1a06ophal,,[지능 보통],,,0,0
+17526,PC,Player Character,Me wants in backroom place. Sounds fun.,안쪽 방 들어가고 싶어. 재밌겠다.,m1q1a06ophal,,[지능 낮음],,,0,0
+17527,PC,Player Character,A common bawdy house! I am outraged!,천박한 사창가로군! 분노가 치미는군!,m1q1a06ophal,,[지능 보통],,,0,0
+17528,PC,Player Character,Bunch o' harlots and jigg-o-lers! You sick!,창녀떼랑 난봉꾼들! 더럽다!,m1q1a06ophal,,[지능 낮음],,,0,0
+17535,PC,Player Character,I already have a writ from him. Here.,그에게서 이미 증명서를 받았어. 여기.,m1q1a06ophal,,m1s2ophaclg06,,,0,0
+17536,PC,Player Character,"Me gots it already. Uh, the paper, not plague.","나 벌써 받았어. 어, 종이 말야, 역병 말고.",m1q1a06ophal,,m1s2ophaclg07,,,0,0
+17537,PC,Player Character,Thank you. I'll return directly.,고맙습니다. 곧 돌아오죠.,m1q1a06ophal,,[지능 보통],,,0,0
+17538,PC,Player Character,"Okies, me come back soon.","좋아, 금방 다시 올게.",m1q1a06ophal,,[지능 낮음],,,0,0
+17539,PC,Player Character,I have an art object you might be interested in.,관심 가질 만한 예술품이 있어요.,m1q1a06ophal,,m1s2ophaclg10,,,0,0
+17540,PC,Player Character,Me gots art crap you might like.,좋아할 만한 예쁜 거 갖고 왔어.,m1q1a06ophal,,m1s2ophaclg11,,,0,0
+17541,PC,Player Character,<StartAction>Describe securing the Statuette from Androd Golden.</Start>,<StartAction>안드로드 골든에게서 작은 조각상을 확보한 경위를 설명합니다.</Start>,m1q1a06ophal,m1s2ophaslg04,m1s2ophaclg14,,,0,0
+17542,PC,Player Character,<StartAction>Describe securing the Portrait from Thoms Rumbottom.</Start>,<StartAction>톰스 럼바텀에게서 초상화를 확보한 경위를 설명합니다.</Start>,m1q1a06ophal,m1s2ophaslg05,m1s2ophaclg15,,,0,0
+17543,PC,Player Character,<StartAction>Describe securing the Urn from Hodge.</Start>,<StartAction>호지에게서 단지를 확보한 경위를 설명합니다.</Start>,m1q1a06ophal,m1s2ophaslg06,m1s2ophaclg16,,,0,0
+17544,PC,Player Character,Nothing. Nevermind.,아니요. 됐습니다.,m1q1a06ophal,,,,,0,0
+17545,PC,Player Character,I have a writ from Oleff declaring me plague free.,올레프로부터 받은 역병 면제 증명서가 있습니다.,m1q1a06ophal,,m1s2ophaclg12,,,0,0
+17546,PC,Player Character,Me gots Oleff to say me not sick! Here paper!,올레프가 나 안 아프다 했어! 여기 종이!,m1q1a06ophal,,m1s2ophaclg13,,,0,0
+17547,PC,Player Character,This is nothing but a house of ill-repute!,여긴 악명 높은 퇴폐업소일 뿐이야!,m1q1a06ophal,,[지능 보통],,,0,0
+17548,PC,Player Character,This a dirty place! Filthy dirty!,여기 더러운 데야! 아주 더러워!,m1q1a06ophal,,[지능 낮음],,,0,0
+17549,PC,Player Character,What business do you need done?,무슨 일을 맡기려는 거죠?,m1q1a06ophal,,m1s2ophaclg21,,,0,0
+17550,PC,Player Character,You needs business or something done?,할 일 있어? 뭐 해 줄까?,m1q1a06ophal,,m1s2ophaclg22,,,0,0
+66702,PC,Player Character,I've had enough. Goodbye!,이제 충분해. 그럼 이만!,m1q1a06ophal,,[지능 보통],,,0,0
+66704,PC,Player Character,Me not stay! Me leave!,나 안 있어! 나 간다!,m1q1a06ophal,,[지능 낮음],,,0,0

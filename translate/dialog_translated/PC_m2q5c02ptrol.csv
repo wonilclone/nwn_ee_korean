@@ -1,0 +1,22 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+37729,PC,Player Character,Let me ask you some questions first.,먼저 질문 좀 할게.,m2q5c02ptrol,,[지능 보통],,,0,0
+37730,PC,Player Character,Me can ask question first?,나 먼저 질문해도 돼?,m2q5c02ptrol,,[지능 낮음],,,0,0
+37731,PC,Player Character [M2Q5C02],"<StartCheck>[Persuade]</Start> I accept your surrender, if the other goblins stop fighting me.",<StartCheck>[설득]</Start> 항복을 받아들이지. 다른 고블린들이 날 공격하지 않는다면.,m2q5c02ptrol,,m2q5c02ptrolglc2,[M2Q5C02],,0,0
+37732,PC,Player Character [M2Q5C02],"<StartCheck>[Persuade]</Start> Me says surrender okay, if no goblins is fighting me.","<StartCheck>[설득]</Start> 나 항복 받아줘, 고블린들 나 안 공격하면.",m2q5c02ptrol,,m2q5c02ptrolglc3,[M2Q5C02],,0,0
+37733,PC,Player Character [M2Q5C02],I can't accept your surrender unless I get something out of it.,뭔가 얻어야 항복을 받아들일 수 있어.,m2q5c02ptrol,,m2q5c02ptrolglc2,[M2Q5C02],,0,0
+37734,PC,Player Character [M2Q5C02],"Me listen to offer. Me gets something, yuh?","나 제안 들을게. 나 뭔가 얻어야 해, 알지?",m2q5c02ptrol,,m2q5c02ptrolglc3,[M2Q5C02],,0,0
+37735,PC,Player Character,"Actually, I enjoy killing goblins. No deal.",사실 난 고블린 죽이는 걸 즐겨. 거래 없어.,m2q5c02ptrol,,[지능 보통],,,0,0
+37736,PC,Player Character,Me likes goblin-killing too much. No deals!,나 고블린 죽이는 거 너무 좋아. 거래 없어!,m2q5c02ptrol,,[지능 낮음],,,0,0
+37737,PC,Player Character,Then I guess I'll have to kill you.,그럼 널 죽이는 수밖에 없겠네.,m2q5c02ptrol,,[지능 보통],,,0,0
+37738,PC,Player Character,Me can kill you then. No problems.,나 너 죽여도 돼. 문제없어.,m2q5c02ptrol,,[지능 낮음],,,0,0
+37739,PC,Player Character,Bye.,안녕.,m2q5c02ptrol,,,,,0,0
+37740,PC,Player Character,Tell me about these caves.,이 동굴들에 대해 말해줘.,m2q5c02ptrol,,[지능 보통],,,0,0
+37741,PC,Player Character,Me wants knowing what goes on in cave.,나 동굴에서 무슨 일 있는지 알고 싶어.,m2q5c02ptrol,,[지능 낮음],,,0,0
+37742,PC,Player Character,Where is your chieftain?,너희 족장은 어디 있어?,m2q5c02ptrol,,[지능 보통],,,0,0
+37743,PC,Player Character,Where you chieftain is?,너 족장 어디 있어?,m2q5c02ptrol,,[지능 낮음],,,0,0
+37744,PC,Player Character,Master? Who's your master? Your chieftain?,주인? 네 주인이 누구야? 족장?,m2q5c02ptrol,,[지능 보통],,,0,0
+37745,PC,Player Character,"You chieftain is master, yuh?","너 족장이 주인이야, 응?",m2q5c02ptrol,,[지능 낮음],,,0,0
+37746,PC,Player Character,I need more than that if I'm not to kill you.,널 죽이지 않으려면 더 많은 정보가 필요해.,m2q5c02ptrol,,[지능 보통],,,0,0
+37747,PC,Player Character,Me needs more or me kills you.,"나 더 알아야 해, 안 그러면 너 죽여.",m2q5c02ptrol,,[지능 낮음],,,0,0
+37748,PC,Player Character,That's fine. I accept.,좋아. 받아들일게.,m2q5c02ptrol,,[지능 보통],,,0,0
+37749,PC,Player Character,Me can accept that offer. Me okay.,나 그 제안 받아들여. 괜찮아.,m2q5c02ptrol,,[지능 낮음],,,0,0

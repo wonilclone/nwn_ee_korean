@@ -1,0 +1,25 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+80437,PC,Player Character,Enough with the pleasantries. I have questions.,인사치레는 그만. 질문이 있어.,q1_daschnaya,,,,,0,0
+80438,PC,Player Character,"Fine, except for the fighting... which you didn't join in.",싸움만 빼면 괜찮아... 근데 넌 안 도왔잖아.,q1_daschnaya,,,,,0,0
+80439,PC,Player Character,I should be going,이제 가야겠어.,q1_daschnaya,,,,,0,0
+80440,PC,Player Character,I need some healing.,치유가 필요해.,q1_daschnaya,,q1_dasch02,,,0,0
+80441,PC,Player Character,I'd like to see what you have in stock.,뭘 파는지 보고 싶어.,q1_daschnaya,,q1_dasch02,,,0,0
+80442,PC,Player Character,<StartAction>[Show her the crystal.]</Start> Have you ever seen anything like this?,<StartAction>[수정을 보여준다.]</Start> 이런 거 본 적 있어?,q1_daschnaya,,q1_showcrystal,,,0,0
+80443,PC,Player Character,Tell me what you know about this desert.,이 사막에 대해 아는 거 말해줘.,q1_daschnaya,,,,,0,0
+80444,PC,Player Character,I don't need to know any of this.,이런 거 알 필요 없어.,q1_daschnaya,,,,,0,0
+80445,PC,Player Character,What does that have to do with this desert?,그게 이 사막이랑 무슨 상관이야?,q1_daschnaya,,,,,0,0
+80446,PC,Player Character,Why did the Empire fall?,왜 제국이 몰락했어?,q1_daschnaya,,,,,0,0
+80447,PC,Player Character,There are no traces of it?,흔적이 하나도 없어?,q1_daschnaya,,,,,0,0
+80448,PC,Player Character,Tell me about the Netheril Empire.,네더릴 제국에 대해 말해줘.,q1_daschnaya,,,,,0,0
+80449,PC,Player Character,That's all I need to hear.,들어야 할 건 다 들었어.,q1_daschnaya,,,,,0,0
+80450,PC,Player Character,Flying cities? Do they still exist?,날아다니는 도시? 아직도 존재해?,q1_daschnaya,,,,,0,0
+80451,PC,Player Character,I could use some advice on my future.,내 미래에 대한 조언을 듣고 싶어.,q1_daschnaya,,q1_canadvise,,,0,0
+80452,PC,Player Character,Tower? What tower?,탑? 무슨 탑?,q1_daschnaya,,,,,0,0
+80453,PC,Player Character,Are you saying that *I* will fall due to pride?,*내*가 교만 때문에 무너질 거라는 얘기야?,q1_daschnaya,,,,,0,0
+80454,PC,Player Character,This is of no help at all.,전혀 도움이 안 돼.,q1_daschnaya,,,,,0,0
+80455,PC,Player Character,Bah! I don't believe any of this!,뭐! 이런 거 하나도 안 믿어!,q1_daschnaya,,,,,0,0
+80456,PC,Player Character,Thank you very much.,정말 고마워.,q1_daschnaya,,,,,0,0
+80457,PC,Player Character,Can you give me another reading?,다시 점 봐줄 수 있어?,q1_daschnaya,,q1_didreading,,,0,0
+80458,PC,Player Character,I don't know. What can you do for me?,모르겠어. 날 위해 뭘 해줄 수 있는데?,q1_daschnaya,,q1_dasch01,,,0,0
+80459,PC,Player Character,"It's been tolerable, so far.",지금까지는 괜찮았어.,q1_daschnaya,,,,,0,0
+80460,PC,Player Character,It doesn't seem so great to me.,별로 좋아 보이지 않는데.,q1_daschnaya,,,,,0,0

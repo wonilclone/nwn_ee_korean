@@ -1,0 +1,90 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+44658,PC,Player Character,I have some questions I need to ask.,질문이 좀 있습니다.,m3q02a11dama,,[지능 보통],,,0,0
+44659,PC,Player Character,Me want ask you question.,나 질문 있어.,m3q02a11dama,,[지능 낮음],,,0,0
+44660,PC,Player Character,I'll be going now.,이제 가보겠습니다.,m3q02a11dama,,[지능 보통],,,0,0
+44661,PC,Player Character,Me go now.,나 이제 가.,m3q02a11dama,,[지능 낮음],,,0,0
+44662,PC,Player Character,Maybe I could do something about those catapults.,투석기 문제는 제가 해결할 수 있을 것 같습니다.,m3q02a11dama,,[지능 보통],,,0,0
+44663,PC,Player Character,You want me go break catapults?,나 투석기 부수러 가면 돼?,m3q02a11dama,,[지능 낮음],,,0,0
+44664,PC,Player Character [M3Q2A11],Why are your soldiers complaining so much?,병사들이 왜 그렇게 불평이 많죠?,m3q02a11dama,,m3q2a11_complain,[M3Q2A11],,0,0
+44665,PC,Player Character [M3Q2A11],Why soldier complain at you?,병사들 왜 불평해?,m3q02a11dama,,m3q2a11_complai2,[M3Q2A11],,0,0
+44666,PC,Player Character,Do you know why the Elk tribe has allied itself with Luskan?,큰사슴 부족이 왜 러스칸과 동맹을 맺었는지 아십니까?,m3q02a11dama,,[지능 보통],,,0,0
+44667,PC,Player Character,Why Elk Uthgardts work for Luskan now?,큰사슴 우스가르트 왜 러스칸이랑 일해?,m3q02a11dama,,[지능 낮음],,,0,0
+44668,PC,Player Character,Maybe you could negotiate a truce with the Uthgardt Elk tribe.,우스가르트 큰사슴 부족과 휴전 협상을 해보는 게 어떻습니까.,m3q02a11dama,,[지능 보통],,,0,0
+44669,PC,Player Character,Maybe you make nice with Uthgardt Elk tribe.,우스가르트 큰사슴 부족이랑 좋게 지내면 안 돼?,m3q02a11dama,,[지능 낮음],,,0,0
+44670,PC,Player Character,Anything I can do to help with the siege?,포위전을 끝내기 위해 제가 할 수 있는 일이 있습니까?,m3q02a11dama,,[지능 보통],,,0,0
+44671,PC,Player Character,Me want help end siege.,나 포위전 끝내는 거 도와주고 싶어.,m3q02a11dama,,[지능 낮음],,,0,0
+44672,PC,Player Character,Is there anything I can do to help?,제가 도울 수 있는 일이 있습니까?,m3q02a11dama,,[지능 보통],,,0,0
+44673,PC,Player Character,Me want help.,나 도와주고 싶어.,m3q02a11dama,,[지능 낮음],,,0,0
+44674,PC,Player Character [M3Q02A11],The catapults have been destroyed.,투석기들을 파괴했습니다.,m3q02a11dama,,m3q02a11damasgk1,[M3Q02A11],,0,0
+44675,PC,Player Character [M3Q02A11],Me break catapults.,나 투석기 부쉈어.,m3q02a11dama,,m3q02a11damasgk2,[M3Q02A11],,0,0
+44676,PC,Player Character [M3Q02A11],I have the head of the Uthgardt sub-chief.,우스가르트 하위족장의 머리를 가져왔습니다.,m3q02a11dama,,m3q02a11damasgk3,[M3Q02A11],,0,0
+44677,PC,Player Character [M3Q02A11],Me got Uthgardt sub-chief head.,나 우스가르트 하위족장 머리 가져왔어.,m3q02a11dama,,m3q02a11damasgk4,[M3Q02A11],,0,0
+44678,PC,Player Character [M3Q02A11],I have the head of Zokan Thunderer.,천둥의 조칸의 머리를 가져왔습니다.,m3q02a11dama,,m3q02a11damasgk5,[M3Q02A11],,0,0
+44679,PC,Player Character [M3Q02A11],Me got Zokan's head.,나 조칸 머리 가져왔어.,m3q02a11dama,,m3q02a11damasgk6,[M3Q02A11],,0,0
+44680,PC,Player Character [M3Q02A11],You contaminated the Elk tribe with these plague infected blankets!,당신이 이 역병에 걸린 담요로 큰사슴 부족을 감염시켰군요!,m3q02a11dama,,m3q02a11damasgk7,[M3Q02A11],,0,0
+44681,PC,Player Character [M3Q02A11],You make Elk tribe sick! Me got plague blanket!,너 큰사슴 부족 아프게 만들었어! 나 역병 담요 있어!,m3q02a11dama,,m3q02a11damasgk8,[M3Q02A11],,0,0
+44682,PC,Player Character,The reward should suffice.,보상은 그 정도면 충분합니다.,m3q02a11dama,,[지능 보통],,,0,0
+44683,PC,Player Character,Reward be good. Me be happy.,보상 좋아. 나 행복해.,m3q02a11dama,,[지능 낮음],,,0,0
+44684,PC,Player Character,<StartCheck>[Persuade]</Start> I saved this fort from constant bombardment. Don't you think I deserve a little more?,"<StartCheck>[설득]</Start> 이 요새를 계속된 포격으로부터 구했는데, 좀 더 받아야 하는 거 아닙니까?",m3q02a11dama,,[지능 보통],,,0,0
+44685,PC,Player Character,<StartCheck>[Persuade]</Start> Me saves fort from lots of flying rocks! Me want more!,<StartCheck>[설득]</Start> 나 요새 날아오는 돌들에서 구했어! 나 더 원해!,m3q02a11dama,,[지능 낮음],,,0,0
+44686,PC,Player Character,"You'd better come up with more than that, unless you want Fort Ilkard to start looking for a new commander!",일카드 요새가 새 사령관을 찾길 원하지 않으면 더 내놓는 게 좋을 겁니다!,m3q02a11dama,,[지능 보통],,,0,0
+44687,PC,Player Character,Give more or me snap neck like twig!,더 줘 아니면 나 너 목 나뭇가지처럼 부러뜨려!,m3q02a11dama,,[지능 낮음],,,0,0
+44688,PC,Player Character,"Thank you, Commander Damas.","감사합니다, 다마스 사령관.",m3q02a11dama,,[지능 보통],,,0,0
+44689,PC,Player Character,Gold be shiny. Me be happy.,금화 반짝반짝해. 나 행복해.,m3q02a11dama,,[지능 낮음],,,0,0
+44690,PC,Player Character,<StartCheck>[Persuade]</Start> You'd think a whole fort would be worth a little more than that.,<StartCheck>[설득]</Start> 요새 전체를 구한 게 그것보다 더 가치 있지 않습니까.,m3q02a11dama,,[지능 보통],,,0,0
+44691,PC,Player Character,<StartCheck>[Persuade]</Start> That all? Me save fort! Me want more!,<StartCheck>[설득]</Start> 그게 다야? 나 요새 구했어! 나 더 원해!,m3q02a11dama,,[지능 낮음],,,0,0
+44692,PC,Player Character,You'd better increase that bounty or you'll share that Uthgardt's fate!,현상금을 올리는 게 좋을 겁니다. 안 그러면 당신도 저 우스가르트와 같은 운명을 맞을 테니까!,m3q02a11dama,,[지능 보통],,,0,0
+44693,PC,Player Character,"Give more or me chop you head off, too!","더 줘 아니면 나 너 머리도 잘라버려!",m3q02a11dama,,[지능 낮음],,,0,0
+44694,PC,Player Character,Don't forget my reward.,보상 잊지 마십시오.,m3q02a11dama,,[지능 보통],,,0,0
+44695,PC,Player Character,"Me get reward, right?","나 보상 받지, 그치?",m3q02a11dama,,[지능 낮음],,,0,0
+44696,PC,Player Character,"<StartCheck>[Insight]</Start> You wanted the Elk tribe wiped out, didn't you? Even if it meant a war!","<StartCheck>[통찰]</Start> 당신은 큰사슴 부족을 전멸시키길 원했죠? 전쟁을 불사하고서라도!",m3q02a11dama,,nw_d2_wis_intn,,,0,0
+44697,PC,Player Character,I guess the Elk tribe got what they deserved. Now how about that reward?,큰사슴 부족이 마땅한 벌을 받은 것 같군요. 그럼 보상은요?,m3q02a11dama,nw_d1_small_evil,[지능 보통],,,0,0
+44698,PC,Player Character,Them Elks got what coming to them. Me want reward.,큰사슴들 받을 거 받았어. 나 보상 원해.,m3q02a11dama,nw_d1_small_evil,[지능 낮음],,,0,0
+44699,PC,Player Character,But the Uthgardt were here first! They have as much claim to this land as the settlers! Maybe more!,하지만 우스가르트가 먼저 여기 있었어요! 정착민만큼이나 이 땅에 대한 권리가 있습니다! 어쩌면 더 많을 수도 있고요!,m3q02a11dama,,[지능 보통],,,0,0
+44700,PC,Player Character,But Elks be here first. You steal them land.,하지만 큰사슴이 먼저 여기 있었어. 너 그들 땅 훔쳤어.,m3q02a11dama,,[지능 낮음],,,0,0
+44701,PC,Player Character,I should report you for your actions!,당신의 행동을 보고해야겠습니다!,m3q02a11dama,,[지능 보통],,,0,0
+44702,PC,Player Character,Me going to tell on you!,나 너 일러바칠 거야!,m3q02a11dama,,[지능 낮음],,,0,0
+44703,PC,Player Character,You deserve to die for your actions!,당신 행동으로 볼 때 죽어 마땅합니다!,m3q02a11dama,,[지능 보통],,,0,0
+44704,PC,Player Character,You bad man. Bad man need die!,너 나쁜 놈. 나쁜 놈 죽어야 해!,m3q02a11dama,,[지능 낮음],,,0,0
+44705,PC,Player Character,Keep your blood money! I want no part of this!,피로 얼룩진 돈은 가지세요! 전 이런 일에 관여하고 싶지 않습니다!,m3q02a11dama,nw_d1_mid_good,[지능 보통],,,0,0
+44706,PC,Player Character,Keep reward. Me no want your blood money!,보상 가져. 나 너 피 묻은 돈 원하지 않아!,m3q02a11dama,nw_d1_mid_good,[지능 낮음],,,0,0
+44707,PC,Player Character,"Thank you, Commander Damas. It has been a pleasure doing business with you.","감사합니다, 다마스 사령관. 당신과 거래하게 되어 영광이었습니다.",m3q02a11dama,,[지능 보통],,,0,0
+44708,PC,Player Character,Me like work for you. You give much gold.,나 너 위해 일하는 거 좋아. 너 금화 많이 줘.,m3q02a11dama,,[지능 낮음],,,0,0
+44709,PC,Player Character,"<StartCheck>[Persuade]</Start> I went through a lot of trouble to kill this Uthgardt chief. A *lot* of trouble, if you get my meaning.","<StartCheck>[설득]</Start> 이 우스가르트 족장을 죽이는 데 엄청난 고생을 했습니다. *엄청난* 고생이죠, 무슨 뜻인지 아시겠죠.",m3q02a11dama,,[지능 보통],,,0,0
+44710,PC,Player Character,"<StartCheck>[Persuade]</Start> Uthgardt not easy kill! Me do big lots work. Big, big lots work!","<StartCheck>[설득]</Start> 우스가르트 죽이기 쉽지 않았어! 나 엄청 많은 일 했어. 엄청, 엄청 많은 일!",m3q02a11dama,,[지능 낮음],,,0,0
+44711,PC,Player Character,Unless you want to be as extinct as the Elk tribe you better hand over some more coin!,큰사슴 부족처럼 멸종하고 싶지 않으면 금화를 더 내놓는 게 좋을 겁니다!,m3q02a11dama,,[지능 보통],,,0,0
+44712,PC,Player Character,Me kill lots Uthgardts! Me kill you next if you no give more gold!,나 우스가르트 많이 죽였어! 금화 안 주면 다음은 너 죽여!,m3q02a11dama,,[지능 낮음],,,0,0
+44713,PC,Player Character,"Fine, you've made your point. The Uthgardt Elk tribe deserves death.","좋아요, 당신 말이 맞습니다. 우스가르트 큰사슴 부족은 죽어 마땅합니다.",m3q02a11dama,,[지능 보통],,,0,0
+44714,PC,Player Character,"Okay, you right. Elkies be bad guys, we need kill them.","알았어, 네 말이 맞아. 큰사슴들 나쁜 놈들이야, 우리 죽여야 해.",m3q02a11dama,,[지능 낮음],,,0,0
+44715,PC,Player Character,The only reason the Elk tribe joined Luskan is because they were promised a cure for the plague you gave them!,큰사슴 부족이 러스칸과 손잡은 건 당신이 퍼뜨린 역병의 치료제를 약속받았기 때문이잖아요!,m3q02a11dama,,[지능 보통],,,0,0
+44716,PC,Player Character,Elkies only help Luskan cause they want make sickness go away!,큰사슴들 러스칸 도와주는 건 아픈 거 낫게 하고 싶어서야!,m3q02a11dama,,[지능 낮음],,,0,0
+44717,PC,Player Character,I know you have the cure. Now hand it over.,치료제가 있다는 거 압니다. 이제 내놓으세요.,m3q02a11dama,,[지능 보통],,,0,0
+44718,PC,Player Character,Me know you got cure! Gimmie!,나 너 치료제 있는 거 알아! 내놔!,m3q02a11dama,,[지능 낮음],,,0,0
+44719,PC,Player Character,Hand over the cure or I'll make you suffer until you wish you had the plague yourself!,치료제를 내놓으세요. 안 그러면 당신도 역병에 걸리길 바랄 때까지 고통을 안겨주겠습니다!,m3q02a11dama,,[지능 보통],,,0,0
+44720,PC,Player Character,Give cure or me rip you arm off!,치료제 줘 아니면 나 너 팔 뜯어버려!,m3q02a11dama,,[지능 낮음],,,0,0
+44721,PC,Player Character [M3Q2A11],I guess I don't have much choice. Here' s your gold.,선택의 여지가 별로 없군요. 여기 금화입니다.,m3q02a11dama,m3q2a10_3000gold,m3q2a11damachk99,[M3Q2A11],,0,0
+44722,PC,Player Character [M3Q2A11],Me not got much choice. Here gold.,나 선택 별로 없어. 여기 금화.,m3q02a11dama,m3q2a10_3000gold,m3q2a11damachk00,[M3Q2A11],,0,0
+44723,PC,Player Character,I think I'll just take the cure from your cold dead hands instead.,차라리 당신이 죽은 뒤에 치료제를 가져가는 게 낫겠군요.,m3q02a11dama,,[지능 보통],,,0,0
+44724,PC,Player Character,Me just take cure from you dead body instead.,나 그냥 너 죽은 몸에서 치료제 가져갈래.,m3q02a11dama,,[지능 낮음],,,0,0
+44725,PC,Player Character [M3Q2A11],<StartCheck>[Persuade]</Start> I'll give you 500 gold. Not one coin more.,<StartCheck>[설득]</Start> 금화 500을 드리죠. 한 닢도 더는 안 됩니다.,m3q02a11dama,m3q2a10_500gold,m3q2a11damachk95,[M3Q2A11],,0,0
+44726,PC,Player Character [M3Q2A11],<StartCheck>[Persuade]</Start> Here be 500 gold.,<StartCheck>[설득]</Start> 여기 금화 500.,m3q02a11dama,m3q2a10_500gold,m3q2a11damachk96,[M3Q2A11],,0,0
+44727,PC,Player Character [M3Q2A11],<StartCheck>[Persuade]</Start> 1000 gold and not one coin more.,<StartCheck>[설득]</Start> 금화 1000이면 됩니다. 한 닢도 더는 안 됩니다.,m3q02a11dama,m3q2a10_1000gold,m3q2a11damachk97,[M3Q2A11],,0,0
+44728,PC,Player Character [M3Q2A11],<StartCheck>[Persuade]</Start> Here be 1000 gold.,<StartCheck>[설득]</Start> 여기 금화 1000.,m3q02a11dama,m3q2a10_1000gold,m3q2a11damachk98,[M3Q2A11],,0,0
+44729,PC,Player Character,Your price is too high. Forget it! I'm out of here!,가격이 너무 비쌉니다. 관두죠! 전 가겠습니다!,m3q02a11dama,,[지능 보통],,,0,0
+44730,PC,Player Character,You want big much gold. Me go now.,너 금화 너무 많이 원해. 나 이제 가.,m3q02a11dama,,[지능 낮음],,,0,0
+44731,PC,Player Character [M3Q2A11],"Okay, 1500 it is.","좋아요, 1500이면 됩니다.",m3q02a11dama,m3q2a10_1500gold,m3q2a11damack01,[M3Q2A11],,0,0
+44732,PC,Player Character [M3Q2A11],Here be 1500. Give cure now.,여기 1500. 이제 치료제 줘.,m3q02a11dama,m3q2a10_1500gold,m3q2a11damack02,[M3Q2A11],,0,0
+60590,PC,Player Character,"Me no care 'bout Elkies, but me want get gold from this somehow.","나 큰사슴들 신경 안 쓰는데, 이걸로 어떻게든 금화 받고 싶어.",m3q02a11dama,,[지능 낮음],,,0,0
+60591,PC,Player Character,"I don't care about the Elk tribe, but I want to profit from this somehow!","큰사슴 부족은 신경 안 쓰지만, 어떻게든 이걸로 이득을 보고 싶습니다!",m3q02a11dama,,[지능 보통],,,0,0
+60592,PC,Player Character,Me change mind. Elkies not deserve this. You give me plague cure right now!,나 마음 바뀌었어. 큰사슴들 이럴 자격 없어. 너 지금 당장 역병 치료제 줘!,m3q02a11dama,,[지능 낮음],,,0,0
+60593,PC,Player Character,I've changed my mind. The Elk tribe doesn't deseve this. Hand over that plague cure.,마음을 바꿨습니다. 큰사슴 부족은 이럴 짓을 당할 이유가 없어요. 역병 치료제를 내놓으세요.,m3q02a11dama,,[지능 보통],,,0,0
+60594,PC,Player Character,You give me gold and me not tell nobody 'bout you plan to make all Elkies sick.,너 나한테 금화 주면 나 아무한테도 너 큰사슴들 아프게 만든 계획 안 말할게.,m3q02a11dama,nw_d1_small_evil,[지능 낮음],,,0,0
+60595,PC,Player Character,You buy my silence and I won't tell anyone about your plan to infect the Elk tribe with the plague.,침묵을 사세요. 그럼 큰사슴 부족을 역병에 감염시키려던 당신 계획을 아무에게도 말하지 않겠습니다.,m3q02a11dama,nw_d1_small_evil,[지능 보통],,,0,0
+60596,PC,Player Character,<StartCheck>[Persuade]</Start> Make it 200.,<StartCheck>[설득]</Start> 200으로 하죠.,m3q02a11dama,,,,,0,0
+60597,PC,Player Character,Forget it.,관두죠.,m3q02a11dama,,,,,0,0
+60598,PC,Player Character,Deal.,거래 성사.,m3q02a11dama,nw_d1_small_evil,,,,0,0
+60599,PC,Player Character,You know stuff 'bout Power Words?,너 권능의 언령에 대해 아는 거 있어?,m3q02a11dama,,[지능 낮음],,,0,0
+60600,PC,Player Character,Do you know anything about the Words of Power?,권능의 언령에 대해 아는 게 있습니까?,m3q02a11dama,,[지능 보통],,,0,0
+60601,PC,Player Character,Me already go there.,나 이미 거기 갔어.,m3q02a11dama,,[지능 낮음],,,0,0
+60602,PC,Player Character,I've already been there.,이미 거기 가봤습니다.,m3q02a11dama,,[지능 보통],,,0,0
+60603,PC,Player Character,Ruins?,유적이요?,m3q02a11dama,,,,,0,0

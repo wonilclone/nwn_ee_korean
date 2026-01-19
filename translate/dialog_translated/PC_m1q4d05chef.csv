@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+22220,PC,Player Character,Who are you? What do you do?,넌 누구지? 무슨 일을 하지?,m1q4d05chef,,[지능 보통],,,0,0
+22221,PC,Player Character,Who is you? What you do?,너 누구야? 뭐해?,m1q4d05chef,,[지능 낮음],,,0,0
+22222,PC,Player Character,You wish a password?,암호가 필요한가?,m1q4d05chef,,[지능 보통],,,0,0
+22223,PC,Player Character,You want password?,암호 원해?,m1q4d05chef,,[지능 낮음],,,0,0
+22224,PC,Player Character,Can I ask about the Tavern and what's below it?,선술집이랑 그 아래에 뭐가 있는지 물어봐도 될까?,m1q4d05chef,,[지능 보통],,,0,0
+22225,PC,Player Character,Me maybe ask about Tavern and what's under it?,나 선술집이랑 밑에 뭐 있는지 물어봐도 돼?,m1q4d05chef,,[지능 낮음],,,0,0
+22226,PC,Player Character [M1Q4D04],"The password is ""Cornerstone.""","암호는 ""코너스톤""이야.",m1q4d05chef,,m1q4d04chefclg03,[M1Q4D04],,0,0
+22227,PC,Player Character [M1Q4D04],"Password is ""Cornerstone,"" or something.","암호는 ""코너스톤"" 뭐 그런 거야.",m1q4d05chef,,m1q4d04chefclg04,[M1Q4D04],,0,0
+22228,PC,Player Character,"<StartCheck>[Persuade]</Start> If you don't care, how about just forgetting it?",<StartCheck>[설득]</Start> 상관없다면 그냥 없던 일로 해 주지 않겠어?,m1q4d05chef,,[지능 보통],,,0,0
+22229,PC,Player Character,"<StartCheck>[Persuade]</Start> If you think this silly, how about we just forget it?","<StartCheck>[설득]</Start> 바보 같은 일이라 생각하면, 그냥 잊자. 어때?",m1q4d05chef,,[지능 낮음],,,0,0
+22230,PC,Player Character [M1Q4D04],"Well, handsome, maybe we can... work something out?","저기, 멋진 분. 어쩌면 우리... 뭔가 합의를 볼 수 있지 않을까?",m1q4d05chef,,m1q4d04chefclg05,[M1Q4D04],,0,0
+22231,PC,Player Character [M1Q4D04],"Aw, come on handsome. Pretty please let me through?","아, 제발 멋진 분. 제발 부탁이에요, 통과시켜 주세요?",m1q4d05chef,,m1q4d04chefclg06,[M1Q4D04],,0,0
+22232,PC,Player Character,Goodbye.,그럼 이만.,m1q4d05chef,,,,,0,0
+22233,PC,Player Character [M1Q4D04],Will some gold make you forget you need a password?,금화 좀 주면 암호가 필요하다는 걸 잊어줄래?,m1q4d05chef,,m1q4d04chefclg07,[M1Q4D04],,0,0
+22234,PC,Player Character [M1Q4D04],Maybe you take gold and forget you need password?,금화 받고 암호 필요하다는 거 잊어줄래?,m1q4d05chef,,m1q4d04chefclg08,[M1Q4D04],,0,0
+22235,PC,Player Character,You'll let me pass or I'll feed you your spine!,길을 비켜. 아니면 네 척추를 뽑아 먹여 주지!,m1q4d05chef,,[지능 보통],,,0,0
+22236,PC,Player Character,You let me pass or me kill you!,길 비켜. 아니면 나 너 죽여!,m1q4d05chef,,[지능 낮음],,,0,0
+22237,PC,Player Character [M1Q4D04],I don't know the password.,암호를 몰라.,m1q4d05chef,,m1q4d04chefclg09,[M1Q4D04],,0,0
+22238,PC,Player Character [M1Q4D04],Me not know password. ,나 암호 몰라.,m1q4d05chef,,m1q4d04chefclg10,[M1Q4D04],,0,0
+22239,PC,Player Character [M1Q4D04],How about 50 gold to look the other way?,금화 50개 주면 못 본 척해줄래?,m1q4d05chef,,m1q4d04chefclg07,[M1Q4D04],,0,0
+22240,PC,Player Character [M1Q4D04],You take 50 gold to forget me?,금화 50개 주면 나 잊어줄래?,m1q4d05chef,,m1q4d04chefclg08,[M1Q4D04],,0,0
+22241,PC,Player Character [M1Q4D04],How about 100 gold to look the other way?,금화 100개 주면 못 본 척해줄래?,m1q4d05chef,,m1q4d04chefclg11,[M1Q4D04],,0,0
+22242,PC,Player Character [M1Q4D04],You take 100 gold to forget me?,금화 100개 주면 나 잊어줄래?,m1q4d05chef,,m1q4d04chefclg12,[M1Q4D04],,0,0
+22243,PC,Player Character [M1Q4D04],"200 gold should get you to forget me, hmm?","금화 200개면 나를 잊어줄 수 있지, 응?",m1q4d05chef,,m1q4d04chefclg13,[M1Q4D04],,0,0
+22244,PC,Player Character [M1Q4D04],"You forget me for 200 gold, maybe?",금화 200개면 나 잊어줄 수 있어?,m1q4d05chef,,m1q4d04chefclg14,[M1Q4D04],,0,0
+22245,PC,Player Character,I was only testing. I meant nothing by it.,그냥 시험해 본 거야. 별 뜻은 없었어.,m1q4d05chef,,[지능 보통],,,0,0
+22246,PC,Player Character,Me just kidding. Me a kidder.,나 그냥 장난. 나 장난쟁이.,m1q4d05chef,,[지능 낮음],,,0,0

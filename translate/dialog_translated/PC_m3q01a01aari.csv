@@ -1,0 +1,129 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+42821,PC,Player Character,I can't believe Aribeth betrayed Neverwinter!,아리베스가 네버윈터를 배신했다니 믿을 수가 없어요!,m3q01a01aari,,[지능 보통],,,0,0
+42822,PC,Player Character,Is there no one who comes to the defense of Neverwinter?,네버윈터를 방어하러 나설 사람은 아무도 없나요?,m3q01a01aari,,[지능 보통],,,0,0
+42823,PC,Player Character,Have your spies learned anything of Maugrim?,첩자들이 모그림에 대해 뭔가 알아낸 거 있나요?,m3q01a01aari,,[지능 보통],,,0,0
+42824,PC,Player Character,I'll be going now.,이제 갈게요.,m3q01a01aari,,[지능 보통],,,0,0
+42825,PC,Player Character,Me not believe Aribeth be traitor!,나 못 믿겠어 아리베스가 배신자라니!,m3q01a01aari,,[지능 낮음],,,0,0
+42826,PC,Player Character,Neverwinter no have friends who help you?,네버윈터 도와줄 친구 아무도 없어?,m3q01a01aari,,[지능 낮음],,,0,0
+42827,PC,Player Character,Tell more 'bout reco-thingy reports. What 'bout Maugrim?,정찰 뭐시기 보고 더 말해. 모그림은 뭐야?,m3q01a01aari,,[지능 낮음],,,0,0
+42828,PC,Player Character,Me go now.,나 이제 가.,m3q01a01aari,,[지능 낮음],,,0,0
+42829,PC,Player Character,Any idea where I should be looking for the Words of Power?,권능의 언령을 어디서 찾아야 할지 아시나요?,m3q01a01aari,,[지능 보통],,,0,0
+42830,PC,Player Character,And what should I do once I find these Words of Power?,그 권능의 언령을 찾으면 어떻게 해야 하나요?,m3q01a01aari,,[지능 보통],,,0,0
+42831,PC,Player Character,Where me look for Power Words?,나 권능 언령 어디서 찾아?,m3q01a01aari,,[지능 낮음],,,0,0
+42832,PC,Player Character,What me do with Power Words if me find one?,나 권능 언령 찾으면 그거로 뭐 해?,m3q01a01aari,,[지능 낮음],,,0,0
+42833,PC,Player Character,Anything else?,다른 건?,m3q01a01aari,,,,,0,0
+42834,PC,Player Character,What's in this for me?,이거 하면 나한텐 뭐가 좋을까요?,m3q01a01aari,,[지능 보통],,,0,0
+42835,PC,Player Character,What me get from this?,나 이거 해서 뭐 받아?,m3q01a01aari,,[지능 낮음],,,0,0
+42836,PC,Player Character,Maybe you could recap the reconnaissance information for me.,정찰 정보를 다시 정리해서 말해 줄래요?,m3q01a01aari,,[지능 보통],,,0,0
+42837,PC,Player Character,Tell me stuff 'bout reco-thingies!,정찰 뭐시기 얘기 다시 말해!,m3q01a01aari,,[지능 낮음],,,0,0
+42838,PC,Player Character [M3Q1A01],I have one of the Words of Power.,권능의 언령 하나를 가지고 있어.,m3q01a01aari,m3_stopinit,m3q1a01aariwordc,[M3Q1A01],,0,0
+42839,PC,Player Character [M3Q1A01],Me have Power Word.,나 권능 언령 가졌어.,m3q01a01aari,m3_stopinit,m3q1a01aariwordd,[M3Q1A01],,0,0
+42840,PC,Player Character,"You are most generous, Aarin. I thank you for this reward.","정말 후하시네요, 아린. 보상 감사합니다.",m3q01a01aari,,[지능 보통],,,0,0
+42841,PC,Player Character,"Listen, Gend, you'd better dig a little deeper or the Lords' Alliance might have to find themselves another spymaster!","이봐, 겐드, 좀 더 깊이 파봐. 안 그러면 영주 연합이 다른 첩보장을 찾아야 할 거예요!",m3q01a01aari,,[지능 보통],,,0,0
+42842,PC,Player Character,You nice man. Money make me happy.,너 착한 사람. 돈 나 기쁘게 해.,m3q01a01aari,,[지능 낮음],,,0,0
+42843,PC,Player Character,More! Give more or me kill you!,더! 더 안 주면 나 너 죽여!,m3q01a01aari,,[지능 낮음],,,0,0
+42844,PC,Player Character,"I think you should know about a female lizardman I ran into. She said her name was Haedraline, and she seemed to want to help.","알려 줄 게 있어요. 도마뱀인간 여자를 만났는데, 이름이 하에드랄린이래. 우리를 도우려는 것 같았어.",m3q01a01aari,,[지능 보통],,,0,0
+42845,PC,Player Character,Me need tell you sumpin. Me talk to lizard-girly. She name Haedraline. She say she help us.,나 말할 거 있어. 나 도마뱀 아가씨 만났어. 이름 하에드랄린. 그녀 우리 도와준대.,m3q01a01aari,,[지능 낮음],,,0,0
+42846,PC,Player Character,"<StartCheck>[Persuade]</Start> Recovering the Words of Power isn't easy, Aarin. Supplies and equipment don't come cheap.","<StartCheck>[설득]</Start> 권능의 언령을 회수하는 게 쉽지 않아요, 아린. 보급품이랑 장비가 싸지 않거든요.",m3q01a01aari,,[지능 보통],,,0,0
+42847,PC,Player Character,<StartCheck>[Persuade]</Start> Me work hard for Power Word. Real hard.,<StartCheck>[설득]</Start> 나 권능 언령 위해 진짜 열심히 일했어. 진짜로.,m3q01a01aari,,[지능 낮음],,,0,0
+42848,PC,Player Character [M3Q1A01],I have one of the Words of Power.,권능의 언령 하나를 가지고 있어.,m3q01a01aari,,m3q1a01aariwordc,[M3Q1A01],,0,0
+42849,PC,Player Character,Have you learned anything more about Maugrim or his followers?,모그림이나 그 추종자들에 대해 더 알아낸 거 있나요?,m3q01a01aari,,[지능 보통],,,0,0
+42850,PC,Player Character,How goes the war effort?,전쟁 준비는 어떻게 돼가고 있나요?,m3q01a01aari,,[지능 보통],,,0,0
+42851,PC,Player Character,Have you learned anything about the lizardwoman Haedraline?,도마뱀 여자 하에드랄린에 대해 뭔가 알아낸 거 있나요?,m3q01a01aari,,[지능 보통],,,0,0
+42852,PC,Player Character [M3Q1A01],Me have Power Word.,나 권능 언령 가졌어.,m3q01a01aari,,m3q1a01aariwordd,[M3Q1A01],,0,0
+42853,PC,Player Character,You learn stuff 'bout Maugrim?,너 모그림 뭐 배웠어?,m3q01a01aari,,[지능 낮음],,,0,0
+42854,PC,Player Character,How war go?,전쟁 어떻게 돼가?,m3q01a01aari,,[지능 낮음],,,0,0
+42855,PC,Player Character,You learn lizard-girly stuff?,도마뱀 아가씨 뭐 배웠어?,m3q01a01aari,,[지능 낮음],,,0,0
+42856,PC,Player Character,"I ran into Haedraline again, Aarin.","하에드랄린을 다시 만났어요, 아린.",m3q01a01aari,,[지능 보통],,,0,0
+42857,PC,Player Character,"<StartCheck>[Persuade]</Start> Not to seem ungrateful, Aarin, but gold doesn't provide much protection against the kind of enemies I've been facing.","<StartCheck>[설득]</Start> 배은망덕하게 보이긴 싫지만, 아린, 내가 상대하는 적들한테는 금이 별 보호가 안 돼요.",m3q01a01aari,,[지능 보통],,,0,0
+42858,PC,Player Character,Gold shiny. Me happy. Me see lizard-girly again.,금 반짝반짝. 나 기뻐. 나 도마뱀 아가씨 다시 봤어.,m3q01a01aari,,[지능 낮음],,,0,0
+42859,PC,Player Character,<StartCheck>[Persuade]</Start> Me got lots of gold! Me want magic stuff! Give magic stuff!,<StartCheck>[설득]</Start> 나 금 많이 있어! 나 마법 물건 원해! 마법 물건 줘!,m3q01a01aari,,[지능 낮음],,,0,0
+42860,PC,Player Character,She spoke of the ancient Creator Races. She claimed to be one of them. I think she's a friend.,고대의 창조자 종족 얘기를 했어요. 자기가 그들 중 하나래. 친구인 것 같아요.,m3q01a01aari,,[지능 보통],,,0,0
+42861,PC,Player Character,"She say she old. She say she ""Creator Race."" She seem nice.","그녀 자기 오래됐대. 자기 ""창조자 종족""이래. 착해 보여.",m3q01a01aari,,[지능 낮음],,,0,0
+42862,PC,Player Character [M3Q1A01],I have another of the Words of Power here.,권능의 언령 또 하나 여기 있어.,m3q01a01aari,,m3q1a01aariwordc,[M3Q1A01],,0,0
+42863,PC,Player Character [M3Q1A01],Me got 'nother Power Word.,나 권능 언령 또 하나 가졌어.,m3q01a01aari,,m3q1a01aariwordd,[M3Q1A01],,0,0
+42864,PC,Player Character,"Of course, Aarin. As long as my body draws breath, I will fight to save Neverwinter.","물론이지, 아린. 내가 숨 쉬는 한 네버윈터를 구하기 위해 싸울게요.",m3q01a01aari,,[지능 보통],,,0,0
+42865,PC,Player Character,"I'll come with you, Gend, but only because I see a real potential for profit here.","따라가긴 할게, 겐드. 근데 수익성이 보여서 그래요.",m3q01a01aari,,[지능 보통],,,0,0
+42866,PC,Player Character,"<StartCheck>[Persuade]</Start> You wouldn't happen to have any spare magical equipment that might prove useful in the defense of Neverwinter, would you?",<StartCheck>[설득]</Start> 혹시 네버윈터 방어에 쓸 만한 여분의 마법 장비 있나요?,m3q01a01aari,,[지능 보통],,,0,0
+42867,PC,Player Character,Me save Neverwinter! Me fight good!,나 네버윈터 구해! 나 싸움 잘해!,m3q01a01aari,,[지능 낮음],,,0,0
+42868,PC,Player Character,Me go save Neverwinter 'cause me gonna get more gold!,나 네버윈터 구해. 나 금 더 많이 받을 거니까!,m3q01a01aari,,[지능 낮음],,,0,0
+42869,PC,Player Character,<StartCheck>[Persuade]</Start> Gold not help me fight. Me need magic stuff!,<StartCheck>[설득]</Start> 금 나한테 싸움 도움 안 돼. 나 마법 물건 필요해!,m3q01a01aari,,[지능 낮음],,,0,0
+42870,PC,Player Character,Where could I get some supplies?,보급품은 어디서 구할 수 있나요?,m3q01a01aari,,[지능 보통],,,0,0
+42871,PC,Player Character,Me need get supplies.,나 보급품 구해야 해.,m3q01a01aari,,[지능 낮음],,,0,0
+42872,PC,Player Character,I'm ready.,준비됐어요.,m3q01a01aari,,[지능 보통],,,0,0
+42874,PC,Player Character,"It is an honor to serve Neverwinter, Aarin.","네버윈터를 섬기는 건 영광이에요, 아린.",m3q01a01aari,,[지능 보통],,,0,0
+42875,PC,Player Character,There are worse ways to make a living. Neverwinter pays her servants well.,돈 벌 더 나쁜 방법도 많지. 네버윈터는 수하들에게 후하게 대가를 주잖아요.,m3q01a01aari,,[지능 보통],,,0,0
+42876,PC,Player Character,"Time is short, Gend. Let's get down to business.","시간이 없어, 겐드. 본론으로 들어가요.",m3q01a01aari,,[지능 보통],,,0,0
+42877,PC,Player Character,It be honor for me serve Neverwinter!,나 네버윈터 섬기는 거 영광이야!,m3q01a01aari,,[지능 낮음],,,0,0
+42878,PC,Player Character,Me like serve Neverwinter. Me get lots gold for this!,나 네버윈터 섬기는 거 좋아. 나 이거로 금 많이 받아!,m3q01a01aari,,[지능 낮음],,,0,0
+42879,PC,Player Character,Hurry and get to point. Me want start killing stuff.,빨리 요점 말해. 나 뭐 죽이기 시작하고 싶어.,m3q01a01aari,,[지능 낮음],,,0,0
+42880,PC,Player Character,A decoy?,미끼라고?,m3q01a01aari,,,,,0,0
+42881,PC,Player Character,Can we go over my mission one more time?,임무를 한 번만 더 확인할래요?,m3q01a01aari,m3_stopinit,[지능 보통],,,0,0
+42882,PC,Player Character,What you want me do again?,너 나한테 뭐 하라고 했지?,m3q01a01aari,m3_stopinit,[지능 낮음],,,0,0
+42883,PC,Player Character,What is my mission?,내 임무가 뭐예요?,m3q01a01aari,,[지능 보통],,,0,0
+42884,PC,Player Character,What me mission be?,나 임무 뭐야?,m3q01a01aari,,[지능 낮음],,,0,0
+42885,PC,Player Character,How could Aribeth do this to the city she once served?,아리베스가 어떻게 한때 섬기던 도시에 이럴 수 있나요?,m3q01a01aari,,[지능 보통],,,0,0
+42886,PC,Player Character,Aribeth be bad lady for do this to Neverwinter!,아리베스 나쁜 여자야 네버윈터한테 이렇게 해서!,m3q01a01aari,,[지능 낮음],,,0,0
+42887,PC,Player Character,How can we stop her?,어떻게 그녀를 막을 수 있나요?,m3q01a01aari,,[지능 보통],,,0,0
+42888,PC,Player Character,How we stop Aribeth?,우리 아리베스 어떻게 막아?,m3q01a01aari,,[지능 낮음],,,0,0
+42889,PC,Player Character,Me ready.,나 준비됐어.,m3q01a01aari,,[지능 낮음],,,0,0
+42891,PC,Player Character,So what do you need from me?,그래서 내가 뭘 해야 하나요?,m3q01a01aari,,[지능 보통],,,0,0
+42892,PC,Player Character,What you want me do 'bout this?,너 나한테 이거 어떻게 하라고 원해?,m3q01a01aari,,[지능 낮음],,,0,0
+42893,PC,Player Character,"I suppose you are right, Aarin.","네 말이 맞는 것 같아요, 아린.",m3q01a01aari,,[지능 보통],,,0,0
+42894,PC,Player Character,I can't believe you're defending her!,그녀를 옹호하다니 믿을 수가 없어요!,m3q01a01aari,,[지능 보통],,,0,0
+42895,PC,Player Character,Fenthick's death is no excuse for betraying an entire city!,펜딕의 죽음이 도시 전체를 배신할 핑계는 안 돼요!,m3q01a01aari,,[지능 보통],,,0,0
+42896,PC,Player Character,Me guess you maybe right.,나 네가 어쩌면 맞는 것 같아.,m3q01a01aari,,[지능 낮음],,,0,0
+42897,PC,Player Character,Me not believe you defend Aribeth!,나 안 믿겨. 너 아리베스 옹호해!,m3q01a01aari,,[지능 낮음],,,0,0
+42898,PC,Player Character,"Fenthick be dead, but that not excuse for Aribeth make Neverwinter all dead!","펜딕 죽었지만, 그거 아리베스가 네버윈터 다 죽게 만들 핑계 안 돼!",m3q01a01aari,,[지능 낮음],,,0,0
+42899,PC,Player Character [M3Q01A01],"Your words are light enough, Aarin, but I sense you are troubled.","말은 가볍게 하지만, 아린, 뭔가 걱정이 있는 것 같은데.",m3q01a01aari,m3_stopinit,m3q01a01aarisck5,[M3Q01A01],,0,0
+42900,PC,Player Character [M3Q01A01],"What matter, Aarin? You talk like you happy, but me think you be sad underneath.","무슨 일이야, 아린? 너 기쁜 것처럼 말하는데, 나는 속으로 슬픈 것 같아.",m3q01a01aari,m3_stopinit,m3q01a01aarisck6,[M3Q01A01],,0,0
+42901,PC,Player Character,"Maybe you just leave yourself vulnerable around me, Aarin.","어쩌면 내 앞에서만 네 약한 모습을 드러내는 건지도, 아린.",m3q01a01aari,,[지능 보통],,,0,0
+42902,PC,Player Character,"Tell me what's going on, Aarin.","무슨 일인지 말해 줘요, 아린.",m3q01a01aari,,[지능 보통],,,0,0
+42903,PC,Player Character,"You don't need to hide your feelings from me, Aarin.","내게 감정 숨길 필요 없어요, 아린.",m3q01a01aari,,[지능 보통],,,0,0
+42904,PC,Player Character,"You not need hide feelings from me, Aarin.","너 나한테 감정 숨길 필요 없어, 아린.",m3q01a01aari,,[지능 낮음],,,0,0
+42905,PC,Player Character,Maybe you leave youself more open 'round me.,어쩌면 너 나 주변에서 더 열린 거야.,m3q01a01aari,,[지능 낮음],,,0,0
+42906,PC,Player Character,"You tell me what wrong, Aarin.","너 무슨 문제인지 말해, 아린.",m3q01a01aari,,[지능 낮음],,,0,0
+42907,PC,Player Character,Troubled?,걱정이라고?,m3q01a01aari,,,,,0,0
+42908,PC,Player Character,"I'm sorry, Aarin. I don't think I share the same feelings you do. We're just friends.","미안해, 아린. 나는 네 감정을 똑같이 공유하지 않는 것 같아요. 우린 그냥 친구예요.",m3q01a01aari,,[지능 보통],,,0,0
+42909,PC,Player Character,"Me sorry, Aarin. Me not think me share same feelings you do. We just friends.","나 미안해, 아린. 나 너랑 똑같은 감정 안 가진 것 같아. 우리 그냥 친구야.",m3q01a01aari,,[지능 낮음],,,0,0
+42910,PC,Player Character,"We both serve Neverwinter, Aarin. You will not have to choose between love and duty.","우리 둘 다 네버윈터를 섬기잖아요, 아린. 사랑과 의무 사이에서 선택할 필요 없어요.",m3q01a01aari,,[지능 보통],,,0,0
+42911,PC,Player Character,"What are you saying, Aarin? That you would choose Neverwinter over me?","무슨 말이에요, 아린? 나보다 네버윈터를 선택하겠다는 거예요?",m3q01a01aari,,[지능 보통],,,0,0
+42912,PC,Player Character,You and me both got serve Neverwinter. You not have to choose love or duty.,너랑 나 둘 다 네버윈터 섬겨야 해. 너 사랑이나 의무 선택할 필요 없어.,m3q01a01aari,,[지능 낮음],,,0,0
+42913,PC,Player Character,"What you say, Aarin? You choose Neverwinter 'stead of me.","무슨 말이야, 아린? 너 나 대신 네버윈터 선택해?",m3q01a01aari,,[지능 낮음],,,0,0
+42914,PC,Player Character,"I am not Calli, and you are not Aribeth. Do not judge us by what happened with them.","나는 캘리가 아니고, 너는 아리베스가 아니야. 그들한테 일어난 일로 우릴 판단하지 마요.",m3q01a01aari,,[지능 보통],,,0,0
+42915,PC,Player Character,"Not all love leads to death and betrayal, Aarin.","모든 사랑이 죽음과 배신으로 이어지는 건 아니에요, 아린.",m3q01a01aari,,[지능 보통],,,0,0
+42916,PC,Player Character,"I don't know if I can trust a man who would not put our love ahead of everything else, Aarin.","우리 사랑을 다른 모든 것보다 앞에 두지 않을 남자를 믿을 수 있을지 모르겠어요, 아린.",m3q01a01aari,,[지능 보통],,,0,0
+42917,PC,Player Character,Me not Calli and you not Aribeth. You not judge us by what happen with them.,나 캘리 아니고 너 아리베스 아니야. 너 그들한테 일어난 일로 우리 판단하지 마.,m3q01a01aari,,[지능 낮음],,,0,0
+42918,PC,Player Character,Not all love lead to death and traitors.,모든 사랑이 죽음이랑 배신으로 가는 거 아니야.,m3q01a01aari,,[지능 낮음],,,0,0
+42919,PC,Player Character,Me not trust man who not put me love ahead of everything.,나 우리 사랑 모든 것보다 앞에 안 두는 남자 못 믿어.,m3q01a01aari,,[지능 낮음],,,0,0
+42920,PC,Player Character,"Then let me say them first, Aarin. I love you.","그럼 내가 먼저 말할게요, 아린. 사랑해요.",m3q01a01aari,,[지능 보통],,,0,0
+42921,PC,Player Character,"You have to decide, Aarin. Are you going to let your fear of what might happen ruin what we have right now?","결정해야 해요, 아린. 일어날지도 모르는 일에 대한 두려움이 지금 우리가 가진 걸 망치게 둘 거예요?",m3q01a01aari,,[지능 보통],,,0,0
+42922,PC,Player Character,"Then you let me say words. Aarin, me love you.","그럼 내가 말할게. 아린, 나 너 사랑해.",m3q01a01aari,,[지능 낮음],,,0,0
+42923,PC,Player Character,"You got decide, Aarin. You gonna let you fear of what maybe happen later ruin what we got right now?","너 결정해야 해, 아린. 나중에 어쩌면 일어날 일 두려워서 지금 우리가 가진 거 망치게 둘 거야?",m3q01a01aari,,[지능 낮음],,,0,0
+42924,PC,Player Character,"I understand, Aarin. Together we will stop Aribeth and save Neverwinter.","알겠어요, 아린. 함께 아리베스를 막고 네버윈터를 구해요.",m3q01a01aari,,[지능 보통],,,0,0
+42925,PC,Player Character,"Me understand, Aarin. Together we stop Aribeth and save Neverwinter.","나 알겠어, 아린. 함께 아리베스 막고 네버윈터 구해.",m3q01a01aari,,[지능 낮음],,,0,0
+42926,PC,Player Character [M3Q01A01],"I would like to talk to you, Aarin. About this amulet you gave me.","이야기 좀 하고 싶어, 아린. 네가 준 이 호신부 말이야.",m3q01a01aari,,m3q01a01aarisck3,[M3Q01A01],,0,0
+42927,PC,Player Character [M3Q01A01],"Me want talk at you, Aarin. 'Bout this amulet you give me.","나 너랑 이야기하고 싶어, 아린. 네가 준 이 호신부 말이야.",m3q01a01aari,,m3q01a01aarisck4,[M3Q01A01],,0,0
+42928,PC,Player Character,Maybe I could do something to help the war effort.,전쟁 준비를 돕기 위해 뭔가 할 수 있을 것 같은데요.,m3q01a01aari,,[지능 보통],,,0,0
+42929,PC,Player Character,Maybe me could do something for help war.,어쩌면 나 전쟁 돕기 위해 뭔가 할 수 있어.,m3q01a01aari,,[지능 낮음],,,0,0
+42930,PC,Player Character,Did you think I would get rid of it?,내가 버릴 거라고 생각했어요?,m3q01a01aari,,[지능 보통],,,0,0
+42931,PC,Player Character,Are you saying you want it back?,돌려받고 싶다는 거예요?,m3q01a01aari,,[지능 보통],,,0,0
+42932,PC,Player Character,Since you gave me this amulet all you've spoken about is business.,이 호신부 준 이후로 네가 한 말은 전부 업무 얘기뿐이었잖아요.,m3q01a01aari,,[지능 보통],,,0,0
+42933,PC,Player Character,You think me gonna get rid of it?,너 나 그거 버릴 거라고 생각해?,m3q01a01aari,,[지능 낮음],,,0,0
+42934,PC,Player Character,Is you saying you want it back?,너 그거 돌려받고 싶다는 거야?,m3q01a01aari,,[지능 낮음],,,0,0
+42935,PC,Player Character,"You give me amulet, then you talk to me 'bout nothing but business.","너 나한테 호신부 주고, 그 다음엔 업무 얘기밖에 안 했어.",m3q01a01aari,,[지능 낮음],,,0,0
+42936,PC,Player Character,Unsure?,확신이 없다고?,m3q01a01aari,,,,,0,0
+42937,PC,Player Character,Why didn't you explain all this to me?,왜 이 모든 걸 내게 설명하지 않았어요?,m3q01a01aari,,[지능 보통],,,0,0
+42938,PC,Player Character,Are you saying you're too busy now to get involved with me?,지금 너무 바빠서 나랑 엮일 수 없다는 거예요?,m3q01a01aari,,[지능 보통],,,0,0
+42939,PC,Player Character,"Well, I've taken the next step. Now what?","그래요, 나는 다음 단계를 밟았어요. 이제 뭐예요?",m3q01a01aari,,[지능 보통],,,0,0
+42940,PC,Player Character,Why you not just tell me this?,왜 그냥 이거 말 안 했어?,m3q01a01aari,,[지능 낮음],,,0,0
+42941,PC,Player Character,Is you saying you too busy for get involved with me now?,너 지금 너무 바빠서 나랑 엮일 수 없다는 거야?,m3q01a01aari,,[지능 낮음],,,0,0
+42942,PC,Player Character,Me take next step. Me here. Now what?,나 다음 단계 밟았어. 나 여기 있어. 이제 뭐?,m3q01a01aari,,[지능 낮음],,,0,0
+42943,PC,Player Character,"We can make this work, Aarin. It won't be easy, but what we have is worth fighting for.","이걸 잘 해낼 수 있어요, 아린. 쉽진 않겠지만, 우리가 가진 건 싸울 가치가 있어요.",m3q01a01aari,,[지능 보통],,,0,0
+42944,PC,Player Character,No one should be alone in these dark times. Together we can help each other carry our burdens.,이 어두운 시기에 혼자여야 할 사람은 없어요. 함께라면 서로의 짐을 나눌 수 있어요.,m3q01a01aari,,[지능 보통],,,0,0
+42945,PC,Player Character,"This can work. It not be easy, but good things is worth fighting for.","이거 잘될 수 있어. 쉽지 않겠지만, 좋은 것들은 싸울 가치 있어.",m3q01a01aari,,[지능 낮음],,,0,0
+42946,PC,Player Character,No one should be alone in hard times. You and me can help each other carry burdens.,힘든 시기에 아무도 혼자면 안 돼. 너랑 나 서로 짐 나눌 수 있어.,m3q01a01aari,,[지능 낮음],,,0,0
+42947,PC,Player Character,"You won't have to go through this alone, Aarin. I promise.","혼자 이걸 겪을 필요 없어요, 아린. 약속할게요.",m3q01a01aari,,[지능 보통],,,0,0
+42948,PC,Player Character,"You not need go through this alone, Aarin. Me promise.","너 혼자 이거 겪을 필요 없어, 아린. 나 약속해.",m3q01a01aari,,[지능 낮음],,,0,0
+42949,PC,Player Character,"I can't promise that, Aarin. The future is uncertain.","그건 약속 못 해요, 아린. 미래는 불확실하니까요.",m3q01a01aari,,[지능 보통],,,0,0
+42950,PC,Player Character,Me cannot promise that. Me not know what maybe happen.,나 그거 약속 못 해. 나 어쩌면 무슨 일 일어날지 몰라.,m3q01a01aari,,[지능 낮음],,,0,0

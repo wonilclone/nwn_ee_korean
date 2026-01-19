@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+106183,PC,Player Character,"""Back off! I'm not falling for any trap!""","""물러서! 함정에 안 걸려!""",q4c_ghost,,,,,0,0
+106184,PC,Player Character,"""Are you the Maker?""","""너 제작자야?""",q4c_ghost,,,,,0,0
+106185,PC,Player Character,"""Who are you?""","""넌 누구야?""",q4c_ghost,,,,,0,0
+106186,PC,Player Character,"""I don't have time to chat with spirits.""","""영혼이랑 떠들 시간 없어.""",q4c_ghost,,,,,0,0
+106187,PC,Player Character,"""So you're a ghost?""","""그럼 유령이야?""",q4c_ghost,,,,,0,0
+106188,PC,Player Character,"""Goodbye.""","""안녕.""",q4c_ghost,,,,,0,0
+106189,PC,Player Character,"""This doesn't concern me.""","""이건 내 일이 아니야.""",q4c_ghost,,,,,0,0
+106190,PC,Player Character,"""I'll just kill you instead.""","""그냥 널 죽이겠어.""",q4c_ghost,,,,,0,0
+106191,PC,Player Character,"""Make it quick.""","""빨리 말해.""",q4c_ghost,,,,,0,0
+106192,PC,Player Character,"""What's in this for me?""","""내게 뭐가 남는데?""",q4c_ghost,,,,,0,0
+106193,PC,Player Character,"""I guess I could help you.""","""도와줄 수는 있을 것 같아.""",q4c_ghost,,,,,0,0
+106194,PC,Player Character,"""I'll be back once I get that soul gem.""","""영혼석을 가져오면 돌아올게.""",q4c_ghost,,,,,0,0
+106195,PC,Player Character,"""How do I know I can trust you?""","""널 믿을 수 있다는 걸 어떻게 알지?""",q4c_ghost,,,,,0,0
+106196,PC,Player Character,"""Escape? How?""","""탈출? 어떻게?""",q4c_ghost,,,,,0,0
+106197,PC,Player Character,"""I think I should just go.""","""그냥 가는 게 나을 것 같아.""",q4c_ghost,,,,,0,0
+106198,PC,Player Character,"""What are you offering?""","""뭘 제안하는 거야?""",q4c_ghost,,,,,0,0
+106199,PC,Player Character,"""I want to ask you some questions first.""","""먼저 질문 좀 하고 싶어.""",q4c_ghost,,,,,0,0
+106200,PC,Player Character,"""Do you know anything about the golems here?""","""여기 골렘들에 대해 아는 거 있어?""",q4c_ghost,,,,,0,0
+106201,PC,Player Character,"""Tell me about the Maker.""","""제작자에 대해 말해줘.""",q4c_ghost,,,,,0,0
+106202,PC,Player Character,"""Where is the Maker now?""","""제작자는 지금 어디 있어?""",q4c_ghost,,,,,0,0
+106203,PC,Player Character,"""Give me the password, then you'll have your gem.""","""암호를 줘, 그러면 보석을 줄게.""",q4c_ghost,,,,,0,0
+106204,PC,Player Character,"<StartAction>Persuade: Bluff</Start> ""My word is my vow. I will not betray you.""","<StartAction>설득: 허세</Start> ""내 말이 곧 서약이야. 배신하지 않을게.""",q4c_ghost,,,,,0,0
+106205,PC,Player Character,"<StartAction>Persuade: Intimidate</Start> ""I could just leave you trapped here forever.""","<StartAction>설득: 위협</Start> ""널 영원히 여기 가둬둘 수도 있어.""",q4c_ghost,,,,,0,0
+106206,PC,Player Character,"<StartAction>Persuade</Start> ""I'm your only hope. That means I make the rules.""","<StartAction>설득</Start> ""나만이 네 희망이야. 그러니 규칙은 내가 정해.""",q4c_ghost,,,,,0,0
+106207,PC,Player Character,"""Here's the soul gem."" <StartAction>Give him the soul gem</Start>","""여기 영혼석이야."" <StartAction>영혼석을 건넨다.</Start>",q4c_ghost,,q4c_ghostgem,,,0,0
+106208,PC,Player Character,"""I think I'll just leave you there to rot.""","""그냥 여기 썩게 놔두겠어.""",q4c_ghost,,,,,0,0
+106209,PC,Player Character,"""Where can I find the soul gem?""","""영혼석은 어디서 찾을 수 있어?""",q4c_ghost,,,,,0,0

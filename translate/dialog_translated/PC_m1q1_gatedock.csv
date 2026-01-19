@@ -1,0 +1,42 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19229,PC,Player Character,Could you answer some questions about the Docks district?,항만 지구에 관해 몇 가지 질문을 드려도 될까요?,m1q1_gatedock,,[지능 보통],,,0,0
+19230,PC,Player Character,"Yuh. Me got questions 'bout Dock District, okay?","응. 나 항만 지구 질문 있어, 알았지?",m1q1_gatedock,,[지능 낮음],,,0,0
+19231,PC,Player Character,Goodbye.,그럼 이만.,m1q1_gatedock,,,,,0,0
+19232,PC,Player Character,Is there any way I can help out in there?,그 안에서 제가 도울 방법이 있습니까?,m1q1_gatedock,,[지능 보통],,,0,0
+19233,PC,Player Character,How bad is it in there?,그 안 사정이 얼마나 심각하죠?,m1q1_gatedock,,[지능 보통],,,0,0
+19234,PC,Player Character,Are there any places I should look out for in the Docks district?,항만 지구에서 조심해야 할 곳이 있습니까?,m1q1_gatedock,,[매력 중간/지능 중간],,,0,0
+19235,PC,Player Character,Me here to help. How me do dat?,나 도우러 왔어. 어떻게 하면 돼?,m1q1_gatedock,,[지능 낮음],,,0,0
+19236,PC,Player Character,How bad it be in dere?,그 안 얼마나 나빠?,m1q1_gatedock,,[지능 낮음],,,0,0
+19237,PC,Player Character,You know places to watch out for in Dock district?,항만 지구에서 조심할 데 아는 곳 있어?,m1q1_gatedock,,[매력 중간/지능 낮음],,,0,0
+19238,PC,Player Character,"<StartCheck>[Persuade]</Start> Look, I'm here to help, remember?","<StartCheck>[설득]</Start> 저 도우러 왔잖아요, 기억하시죠?",m1q1_gatedock,,[지능 보통],,,0,0
+19239,PC,Player Character,"<StartCheck>[Persuade]</Start> Tell me. Me here to help, yuh?","<StartCheck>[설득]</Start> 말해. 나 도우러 왔어, 응?",m1q1_gatedock,,[지능 낮음],,,0,0
+19240,PC,Player Character,I've got some general questions that need answers... ,일반적인 질문이 몇 가지 있습니다...,m1q1_gatedock,,[지능 보통],,,0,0
+19241,PC,Player Character,"Me have questions 'bout gen'ral stuff, yuh?","나 일반적인 것들 질문 있어, 알았지?",m1q1_gatedock,,[지능 낮음],,,0,0
+19242,PC,Player Character,Can you tell me anything about the Waterdhavian creatures?,워터딥의 생명체들에 대해 들려줄 수 있습니까?,m1q1_gatedock,,[지능 보통],,,0,0
+19243,PC,Player Character,What do you know about the Wailing Death?,울부짖는 죽음 역병에 대해 무엇을 아십니까?,m1q1_gatedock,,[매력 중간/지능 중간],,,0,0
+19244,PC,Player Character,Are you familiar with Lady Aribeth?,아리베스 경을 아십니까?,m1q1_gatedock,,[매력 높음/지능 중간],,,0,0
+19245,PC,Player Character,I have some questions about the Docks district.,항만 지구에 대해 몇 가지 질문이 있습니다.,m1q1_gatedock,,[지능 보통],,,0,0
+19246,PC,Player Character,Me want know more 'bout dose plague-cure creatures.,그 역병 치료 생명체들에 대해 더 알고 싶어.,m1q1_gatedock,,[지능 낮음],,,0,0
+19247,PC,Player Character,What you know 'bout da Wailin'?,"그 울부짖는 뭐시기, 뭐 알아?",m1q1_gatedock,,[매력 중간/지능 낮음],,,0,0
+19248,PC,Player Character,"You know Missus Aribeth, yuh?","아리베스 경 아는 거지, 응?",m1q1_gatedock,,[매력 높음/지능 낮음],,,0,0
+19249,PC,Player Character,"Me ask stuff 'bout Dock Dis-Trick, yuh?",나 항만... 지구 얘기 물어봐도 되지?,m1q1_gatedock,,[지능 낮음],,,0,0
+19250,PC,Player Character,Do you know anything else about what happened that night?,그날 밤에 있었던 일에 대해 다른 것도 아십니까?,m1q1_gatedock,,[지능 보통],,,0,0
+19251,PC,Player Character,<StartCheck>[Insight]</Start> Is there anyone else who might know more about the Waterdhavian creatures?,<StartCheck>[통찰]</Start> 워터딥의 생명체들에 대해 더 알 사람은 또 없을까요?,m1q1_gatedock,,nw_d2_wis_intn,,,0,0
+19252,PC,Player Character,You know any ting else 'bout dat night?,그 밤에 관해 다른 거 아는 거 있어?,m1q1_gatedock,,[지능 낮음],,,0,0
+19253,PC,Player Character,I'm interested in the plague. Can you tell me anything else about it.,역병에 관심이 있습니다. 다른 정보가 있습니까?,m1q1_gatedock,,[지능 보통],,,0,0
+19254,PC,Player Character,<StartCheck>[Insight]</Start> Is there anyone else who might know more about the Wailing Death?,<StartCheck>[통찰]</Start> 울부짖는 죽음 역병에 대해 더 알 사람은 또 없을까요?,m1q1_gatedock,,nw_d2_wis_intn,,,0,0
+19255,PC,Player Character,Me int'rested in plague. You know any udder stuff 'bout it?,나 역병 관심 있어. 다른 것도 아는 거 있어?,m1q1_gatedock,,[지능 낮음],,,0,0
+19256,PC,Player Character,Something about her fascinates me. Can you tell me anything more?,어쩐지 그녀가 마음을 끕니다. 더 들려줄 수 있나요?,m1q1_gatedock,,,,,0,0
+19257,PC,Player Character,<StartCheck>[Insight]</Start> Is there anyone else who might be able to tell me more about her?,<StartCheck>[통찰]</Start> 그녀에 대해 더 알려줄 수 있는 사람이 또 있을까요?,m1q1_gatedock,,,,,0,0
+19258,PC,Player Character,Hmm. She int'resting. You know more 'bout her?,흠. 그녀 재밌어. 더 아는 거 있어?,m1q1_gatedock,,,,,0,0
+19259,PC,Player Character,Would you mind answering some more general questions for me?,좀 더 일반적인 질문에도 답해 주실 수 있나요?,m1q1_gatedock,,[지능 보통],,,0,0
+19260,PC,Player Character,"Me have udder questions. Don't worry, dey simple.","나 다른 질문 있어. 걱정 마, 쉬운 거야.",m1q1_gatedock,,[지능 낮음],,,0,0
+19261,PC,Player Character,Lady Aribeth has assigned me to temporary militia duty.,아리베스 경께서 임시 민병대 임무를 맡기셨습니다.,m1q1_gatedock,,[지능 보통],,,0,0
+19262,PC,Player Character,Missus Aribeth made me militia for li'l while.,아리베스 경이 나 잠깐 민병대로 만들었어.,m1q1_gatedock,,[지능 낮음],,,0,0
+19263,PC,Player Character,What kind of clearance do I need?,어떤 종류의 통행증이 필요하죠?,m1q1_gatedock,,[지능 보통],,,0,0
+19264,PC,Player Character,Uh... What you mean by 'clear-rinse'?,어... '통행증'이 뭔데?,m1q1_gatedock,,[지능 낮음],,,0,0
+19265,PC,Player Character,Why do I need clearance?,왜 통행증이 필요하죠?,m1q1_gatedock,,[지능 보통],,,0,0
+19266,PC,Player Character,Why me need 'clear-rinse'?,왜 나 '통행증' 필요해?,m1q1_gatedock,,[지능 낮음],,,0,0
+19267,PC,Player Character,"Sorry, no.","미안하지만, 아니요.",m1q1_gatedock,,,,,0,0
+57042,PC,Player Character,"We is both <race>. You tell me, okay?","우리 둘 다 <race>야. 말해줘, 알았지?",m1q1_gatedock,,m1q1_race_int_l,,,0,0
+57043,PC,Player Character,We're both <race>. You can tell me.,우리 둘 다 <race>잖아. 말해줄 수 있어.,m1q1_gatedock,,m1q1_race_int_n,,,0,0

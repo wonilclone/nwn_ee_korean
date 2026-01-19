@@ -1,0 +1,55 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+24415,PC,Player Character,Could I ask you some questions?,몇 가지 물어봐도 될까?,nwgenbarkeep,,[지능 보통],,,0,0
+24416,PC,Player Character,Me want ask questions.,나 질문할래.,nwgenbarkeep,,[지능 낮음],,,0,0
+24417,PC,Player Character,Goodbye.,그럼 이만.,nwgenbarkeep,,,,,0,0
+24418,PC,Player Character,Are you sure there isn't anything going on?,정말 아무 일도 없는 게 맞나?,nwgenbarkeep,,[지능 보통],,,0,0
+24419,PC,Player Character,You not know about stuff? No stuff happening?,아무것도 몰라? 아무 일도 안 일어나?,nwgenbarkeep,,[지능 낮음],,,0,0
+24420,PC,Player Character,I thought bartenders liked to talk. Why not you?,바텐더라면 말하는 것을 좋아한다고 생각했지. 아닌가?,nwgenbarkeep,,[지능 보통],,,0,0
+24421,PC,Player Character,Me thought bartenders talk lots. Why you not?,바텐더들 수다 좋아하잖아. 왜 너는 아냐?,nwgenbarkeep,,[지능 낮음],,,0,0
+24422,PC,Player Character,So you've just given up?,그래서 그냥 포기한 거야?,nwgenbarkeep,,[지능 보통],,,0,0
+24423,PC,Player Character,So you just give up then?,그럼 그냥 포기야?,nwgenbarkeep,,[지능 낮음],,,0,0
+24439,PC,Player Character,Could I ask you some questions?,몇 가지 물어봐도 될까?,nwgenbarmaid,,[지능 보통],,,0,0
+24440,PC,Player Character,Me want ask questions.,나 질문할래.,nwgenbarmaid,,[지능 낮음],,,0,0
+24441,PC,Player Character,Goodbye.,그럼 이만.,nwgenbarmaid,,,,,0,0
+24442,PC,Player Character,What do you know about Lord Nasher?,나셰르 영주님에 대해 아는 게 있나?,nwgenbarmaid,,[지능 보통],,,0,0
+24443,PC,Player Character,What do you know about Aribeth?,아리베스에 대해 뭘 알아?,nwgenbarmaid,,[매력 중간/지능 중간],,,0,0
+24444,PC,Player Character,Shouldn't the people be the first to hear about cure attempts?,치료 시도에 대해 시민들이 가장 먼저 들어야 하는 것 아닌가?,nwgenbarmaid,,[매력 높음/지능 중간],,,0,0
+24445,PC,Player Character,What can you tell me about Neverwinter?,네버윈터에 대해 뭐 알려 줄 수 있지?,nwgenbarmaid,,[지능 보통],,,0,0
+24446,PC,Player Character,What you know about Nasher guy?,나셰르 그 사람에 대해 뭐 알아?,nwgenbarmaid,,[지능 낮음],,,0,0
+24447,PC,Player Character,What you know about Aribeth?,아리베스에 대해 뭐 알아?,nwgenbarmaid,,[매력 중간/지능 낮음],,,0,0
+24448,PC,Player Character,Maybe people should be told plague stuff. Why they not?,사람들에게 역병 얘기를 알려야 해. 왜 안 해?,nwgenbarmaid,,[매력 높음/지능 낮음],,,0,0
+24449,PC,Player Character,What you know about Neverwinter?,네버윈터에 대해 뭐 알아?,nwgenbarmaid,,[지능 낮음],,,0,0
+24450,PC,Player Character,<StartCheck>[Insight]</Start> Has he been seen in public recently?,<StartCheck>[통찰]</Start> 그가 최근에 공개석상에 모습을 드러낸 적이 있나?,nwgenbarmaid,,nw_d2_wis_intn,,,0,0
+24451,PC,Player Character,Do you know anything about the plague?,역병에 대해 아는 게 있나?,nwgenbarmaid,,[지능 보통],,,0,0
+24452,PC,Player Character,"You knows about plague, maybe?","너 역병 알아, 혹시?",nwgenbarmaid,,[지능 낮음],,,0,0
+24453,PC,Player Character,Let's go back to my first questions.,처음 질문으로 돌아가자.,nwgenbarmaid,,[지능 보통],,,0,0
+24454,PC,Player Character,Maybe we go back to first questions?,"처음 질문으로 돌아가자, 응?",nwgenbarmaid,,[지능 낮음],,,0,0
+40209,PC,Player Character,Nothing.,없어.,nwgenbarmaid,,,,,0,0
+40210,PC,Player Character,An ale.,에일 한 잔.,nwgenbarmaid,,,,,0,0
+53311,PC,Player Character,<StartAction>Enter Portal. Pay 50 gold.</Start>,<StartAction>차원문 입장. 금화 50개 지불.</Start>,nw_all_feedback,nw_all_feedback5,nw_all_feedbackc,,,0,0
+53313,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,nw_all_feedback,,,,,0,0
+53314,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,nw_all_feedback,,,,,0,0
+67750,PC,Player Character,<StartAction>Enter Portal. Pay 400 gold.</Start>,<StartAction>차원문 입장. 금화 400개 지불.</Start>,nw_all_feedback,nw_all_feedback5,nw_all_feedbacke,,,0,0
+67751,PC,Player Character,<StartAction>Enter Portal. Pay 150 gold.</Start>,<StartAction>차원문 입장. 금화 150개 지불.</Start>,nw_all_feedback,nw_all_feedback5,nw_all_feedbackd,,,0,0
+67752,PC,Player Character,<StartAction>Use the portal to teleport to your party leader at no cost.</Start>,<StartAction>차원문을 사용하여 파티 리더에게 무료로 순간이동합니다.</Start>,nw_all_feedback,nw_all_feedbackg,nw_all_feedbackf,,,0,0
+67753,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,nw_all_feedback,,,,,0,0
+67754,PC,Player Character,<StartAction>Examine contents of pool.</Start>,<StartAction>웅덩이 내용물을 살펴봅니다.</Start>,nw_all_feedback,nw_all_feedbacki,,,,0,0
+58472,PC,Player Character,Me no need to talk you now.,나 지금 너 말할 필요 없어.,nw_g_fam,,[지능 낮음],,,0,0
+58473,PC,Player Character,Nothing right now.,지금은 아무것도 아니야.,nw_g_fam,,[지능 보통],,,0,0
+58474,PC,Player Character,<StartAction>Play with the familiar.</Start>,<StartAction>사역마와 놀아줍니다.</Start>,nw_g_fam,,,,,0,0
+58475,PC,Player Character,<StartAction>Scold the familiar.</Start>,<StartAction>사역마를 꾸짖습니다.</Start>,nw_g_fam,nw_s0_heal,,,,0,0
+58476,PC,Player Character,<StartAction>Feed the familiar.</Start>,<StartAction>사역마에게 먹이를 줍니다.</Start>,nw_g_fam,,,,,0,0
+58477,PC,Player Character,<StartAction>Pet the familiar.</Start>,<StartAction>사역마를 쓰다듬습니다.</Start>,nw_g_fam,,,,,0,0
+58478,PC,Player Character,Me needs you to do something else.,나 너 다른 거 해야 해.,nw_g_fam,,[지능 낮음],,,0,0
+58479,PC,Player Character,I need you to change what you're doing.,네가 하는 일을 바꿔야겠어.,nw_g_fam,,[지능 보통],,,0,0
+58480,PC,Player Character,"It okays, you no mind.","괜찮아, 너 신경 쓰지 마.",nw_g_fam,,[지능 낮음],,,0,0
+58481,PC,Player Character,Nevermind.,아무것도 아니야.,nw_g_fam,,[지능 보통],,,0,0
+58482,PC,Player Character [Companion Settings],Me wants you to keeps good eye about.,나 너 잘 살펴야 해.,nw_g_fam,nw_ch_srch_on,nw_ch_fm_st_08,[Companion Settings],,0,0
+58483,PC,Player Character [Companion Settings],I want you to keep a sharp eye out.,주변을 잘 살펴.,nw_g_fam,nw_ch_srch_on,nw_ch_fm_st_07,[Companion Settings],,0,0
+58484,PC,Player Character [Companion Settings],Me needs you to hides more.,나 너 더 숨어야 해.,nw_g_fam,nw_ch_stlth_on,nw_ch_fm_st_06,[Companion Settings],,0,0
+58485,PC,Player Character [Companion Settings],I need you to stay more out of sight.,시야에서 더 벗어나 있어.,nw_g_fam,nw_ch_stlth_on,nw_ch_fm_st_05,[Companion Settings],,0,0
+58486,PC,Player Character [Follow: Far],Me needs you to stays far from me.,나 너 나한테서 멀리 있어야 해.,nw_g_fam,nw_ch_dist_18,[지능 낮음],[Follow: Far],,0,0
+58487,PC,Player Character [Follow: Far],I need you to hang further back from me.,나한테서 더 떨어져서 따라와.,nw_g_fam,nw_ch_dist_18,[지능 보통],[Follow: Far],,0,0
+58488,PC,Player Character [Follow: Close],Me needs you to be closer.,나 너 가까이 있어야 해.,nw_g_fam,nw_ch_dist_6,[지능 낮음],[Follow: Close],,0,0
+58489,PC,Player Character [Follow: Close],I need you to stay closer to me.,내 가까이에 있어야 해.,nw_g_fam,nw_ch_dist_6,[지능 보통],[Follow: Close],,0,0
+63860,PC,Player Character,<StartAction>Ask how to possess the familiar.</Start>,<StartAction>사역마를 빙의하는 방법을 묻습니다.</Start>,nw_g_fam,,,,,0,0

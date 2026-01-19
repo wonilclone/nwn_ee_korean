@@ -1,0 +1,46 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+15824,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶은데요.,m1q1a00gen1,,[지능 보통],,,0,0
+15825,PC,Player Character,Me want some informations.,나 정보 몇 개 원해.,m1q1a00gen1,,[지능 낮음],,,0,0
+15826,PC,Player Character,Goodbye.,그럼 이만.,m1q1a00gen1,,,,,0,0
+15827,PC,Player Character,Me want to know about city areas.,나 도시 구역들 알고 싶어.,m1q1a00gen1,,[지능 낮음],,,0,0
+15828,PC,Player Character,What do you know of the plague?,역병에 대해 뭘 아시나요?,m1q1a00gen1,,[지능 보통],,,0,0
+15829,PC,Player Character,I need infomation about places in Neverwinter.,네버윈터 지역에 대한 정보가 필요합니다.,m1q1a00gen1,,[지능 보통],,,0,0
+15830,PC,Player Character,Have you heard of anything odd? Any rumors?,이상한 소문 같은 거 들은 적 있으세요?,m1q1a00gen1,,[지능 보통],,,0,0
+15831,PC,Player Character,You know anything about the bad plague?,"나쁜 역병, 뭐 아는 거 있어?",m1q1a00gen1,,[지능 낮음],,,0,0
+15832,PC,Player Character,Me wants information about places in Neverwinter.,나 네버윈터 곳곳 정보 원해.,m1q1a00gen1,,[지능 낮음],,,0,0
+15833,PC,Player Character,Maybe you hear about odd stuff or rumors?,혹시 이상한 거나 소문 들었어?,m1q1a00gen1,,[지능 낮음],,,0,0
+15834,PC,Player Character,What do you know about attempts at a cure?,치료제를 찾으려는 시도에 대해 뭘 아시나요?,m1q1a00gen1,,[지능 보통],,,0,0
+15835,PC,Player Character,You know about cure attempts maybe?,"치료 시도, 아는 거 있나?",m1q1a00gen1,,[지능 낮음],,,0,0
+15836,PC,Player Character,<StartCheck>[Insight]</Start> How has the plague affected the nobility?,<StartCheck>[통찰]</Start> 역병이 귀족들에게 어떤 영향을 미쳤나요?,m1q1a00gen1,,nw_d2_wis_intn,,,0,0
+15837,PC,Player Character,I want to ask something else.,다른 걸 물어보고 싶은데요.,m1q1a00gen1,,[지능 보통],,,0,0
+15838,PC,Player Character,Me ask different questions.,나 다른 질문 할래.,m1q1a00gen1,,[지능 낮음],,,0,0
+15839,PC,Player Character,<StartCheck>[Insight]</Start> Are you suggesting a revolt of some sort?,<StartCheck>[통찰]</Start> 반란 같은 걸 암시하시는 건가요?,m1q1a00gen1,,nw_d2_wis_intn,,,0,0
+15840,PC,Player Character,What are the different areas of the city?,도시 지구들은 어떻게 나뉘어 있나요?,m1q1a00gen1,,[지능 보통],,,0,0
+15841,PC,Player Character,Tell me about the Beggar's Nest.,거지 소굴에 대해 말해주세요.,m1q1a00gen1,,[지능 보통],,,0,0
+15842,PC,Player Character,Tell me about the Docks district.,항민 지구에 대해 알려주세요.,m1q1a00gen1,,[지능 보통],,,0,0
+15843,PC,Player Character,Tell me about the Blacklake district.,검은호수 지구에 대해 알려주세요.,m1q1a00gen1,,[지능 보통],,,0,0
+15844,PC,Player Character,Tell me about the Peninsula.,반도에 대해 말해주세요.,m1q1a00gen1,,[지능 보통],,,0,0
+15845,PC,Player Character,Where can I get equipment? ,장비는 어디서 구할 수 있나요?,m1q1a00gen1,,[지능 보통],,,0,0
+15846,PC,Player Character,Where me get equipment?,나 장비 어디서 구해?,m1q1a00gen1,,[지능 낮음],,,0,0
+15847,PC,Player Character,Tell me about the City Core.,도시 중심부에 대해 말해주세요.,m1q1a00gen1,,[지능 보통],,,0,0
+15848,PC,Player Character,<StartCheck>[Persuade]</Start> Certainly you can tell me.,<StartCheck>[설득]</Start> 분명 말해주실 수 있겠죠.,m1q1a00gen1,,[지능 보통],,,0,0
+15849,PC,Player Character,<StartCheck>[Persuade]</Start> You can tell me. Why worries about me?,<StartCheck>[설득]</Start> 너 말해 줄 수 있어. 왜 나 걱정해?,m1q1a00gen1,,[지능 낮음],,,0,0
+15850,PC,Player Character,Certainly you can tell me... we are <race> kin.,분명 말해주실 수 있겠죠... 우린 같은 <race> 혈족이잖아요.,m1q1a00gen1,,nw_d2_racesmi_n,,,0,0
+15851,PC,Player Character,We both <race> kind. Why not tell me?,우리 둘 다 <race>야. 왜 말 안 해?,m1q1a00gen1,,nw_d2_racesmi_l,,,0,0
+15852,PC,Player Character,You tells about City Core.,너 도시 중심부 얘기해.,m1q1a00gen1,,[지능 낮음],,,0,0
+15853,PC,Player Character,You tells about Beggar's Nest.,너 거지 소굴 얘기해.,m1q1a00gen1,,[지능 낮음],,,0,0
+15854,PC,Player Character,You tells about Docks district.,너 항만 지구 얘기해.,m1q1a00gen1,,[지능 낮음],,,0,0
+15855,PC,Player Character,You tells about Blacklake.,너 검은호수 얘기해.,m1q1a00gen1,,[지능 낮음],,,0,0
+15856,PC,Player Character,You tells about Peninsula.,너 반도 지구 얘기해.,m1q1a00gen1,,[지능 낮음],,,0,0
+15857,PC,Player Character,Can you tell me about other city districts?,다른 도시 지구들에 대해 물어봐도 될까요?,m1q1a00gen1,,[지능 보통],,,0,0
+15858,PC,Player Character,Maybe tell about other city places?,다른 도시 곳들도 말해 줄래?,m1q1a00gen1,,[지능 낮음],,,0,0
+56772,PC,Player Character,Have you paid your safety tax?,안전세를 내셨나요?,m1q1a00gen1,,[지능 보통],,,0,0
+56773,PC,Player Character,You paid safety tax yet?,너 안전세 냈어?,m1q1a00gen1,,[지능 낮음],,,0,0
+56774,PC,Player Character,Yeah. I could kill you easy. Be safe. Pay me to go away.,그래요. 전 당신을 쉽게 죽일 수 있어요. 안전하게 지내고 싶으면 돈 내요.,m1q1a00gen1,,[지능 보통],,,0,0
+56775,PC,Player Character,"Yeah, me kill you easy, so you be safe and pay me not to.","그래, 나 너 쉽게 죽일 수 있어, 그러니 안전하게 나한테 돈 내.",m1q1a00gen1,,[지능 낮음],,,0,0
+56776,PC,Player Character,"Uh, nothing. Back to my other questions.","아, 아무것도 아니에요. 다른 질문으로 돌아갈게요.",m1q1a00gen1,,[지능 보통],,,0,0
+56777,PC,Player Character,That okay. Me just ask other questions.,괜찮아. 나 그냥 다른 질문 할게.,m1q1a00gen1,,[지능 낮음],,,0,0
+56778,PC,Player Character,"I AM a guard, and guards stick together. Pay up or you are dead!","전 경비병이에요, 경비병끼리 뭉치죠. 돈 내거나 죽어요!",m1q1a00gen1,m1q1_evil_set,[지능 보통],,,0,0
+56779,PC,Player Character,Me is a guard! Nobody help you! You be dead or you pay now!,나 경비병이야! 아무도 안 도와줘! 너 죽거나 아니면 지금 돈 내!,m1q1a00gen1,m1q1_evil_set,[지능 낮음],,,0,0
+56780,PC,Player Character,"You are right, of course. I apologize.","당신 말이 맞아요, 물론이죠. 사과드립니다.",m1q1a00gen1,,[지능 보통],,,0,0
+56781,PC,Player Character,You right. Me sorry.,너 맞아. 미안해.,m1q1a00gen1,,[지능 낮음],,,0,0

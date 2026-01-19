@@ -1,0 +1,35 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+22247,Dialog,CHEF,"All right, someone better tell me why that door's been opened, or so help me, I'll have the guards in here real fast!","좋아, 누가 그 문을 왜 열었는지 당장 말해. 아니면 당장 경비를 들이밀어 버릴 테니까!",M1Q4D05CHEF,,,,,0,0
+22248,Dialog,CHEF,"Now don't go bothering me. I didn't want this job and I don't need this job. Just say the password and get moving, like all the rest.","이제 귀찮게 하지 마. 이 일 하고 싶지도 않았고, 필요하지도 않아. 다른 놈들처럼 암호만 대고 지나가.",M1Q4D05CHEF,,,,,0,0
+22249,Dialog,CHEF,"Right, so who opened that door? I can't let anyone through without the password, whether they have a key or not.","좋아, 그럼 누가 문을 연 거야? 열쇠가 있든 없든, 암호 없이는 아무도 못 지나가.",M1Q4D05CHEF,,,,,0,0
+22250,Dialog,CHEF,"Don't bother me, all right? I did my part with the door and I don't care who goes through now.","더는 귀찮게 하지 마. 문 일은 내 할 만큼 했어, 누가 지나가든 이제 알 바 아니야.",M1Q4D05CHEF,,,,,0,0
+22251,Dialog,CHEF,"Of course, it's not like I care that much. Why they got the chef to guard this stupid door, I'll never know.",물론 그렇다고 내가 그리 신경 쓰는 건 아니지. 대체 왜 요리사인 나한테 이런 멍청한 문을 지키라 했는지 모르겠단 말이야.,M1Q4D05CHEF,,,,,0,0
+22252,Dialog,CHEF,"Who, me? I'm the chef, and these Bloodsailors have me guarding the door because they've lost too many regular members to the plague.","누구, 나? 난 요리사야. 이 핏빛 항해자 놈들이 역병 때문에 인원이 너무 줄었다고 문 보초를 나한테 맡겼지.",M1Q4D05CHEF,,,,,0,0
+22253,Dialog,CHEF,"None of it matters to me. I'd rather be cooking. Now, if you have the password, you'd better spit it out.","난 관심 없어. 차라리 요리나 하고 싶다. 자, 암호가 있으면 얼른 내놔.",M1Q4D05CHEF,,,,,0,0
+22254,Dialog,CHEF,"Yes, fool, a password. If that door gets opened before I've heard a password, I'm supposed to call the guards. Now, out with it.","그래, 바보야, 암호 말이다. 내가 암호를 듣기 전에 문이 열리면 경비를 부르라더군. 자, 빨리 말해.",M1Q4D05CHEF,,,,,0,0
+22255,Dialog,CHEF,Don't bother me again. It's bad enough I have to stand around here all day.,다시 귀찮게 하지 마. 하루 종일 여기 서 있는 것만으로도 질린다고.,M1Q4D05CHEF,,,,,0,0
+22256,Dialog,CHEF,"Look, I'm just the chef. I'm replacing a Bloodsailor that died of plague. If you have business downstairs, fine. Just give me the password and go.","봐, 난 그냥 요리사야. 역병으로 죽은 핏빛 항해자 대신 서 있는 거라고. 아래층에 볼일 있으면 좋아. 암호만 대고 가.",M1Q4D05CHEF,,,,,0,0
+22257,Dialog,CHEF,And don't ask me about any key or whatnot. If you know the password then you'll have your own damn key. I don't have one.,그리고 열쇠가 어떻고 묻지 마. 암호를 아는 놈이면 자기 빌어먹을 열쇠쯤은 갖고 있겠지. 나는 없어.,M1Q4D05CHEF,,,,,0,0
+22258,Dialog,CHEF,"<StartCheck>[Success]</Start> You know, I think you are right. To hell with this password crap. I'm no guard! I'm no doorman!",<StartCheck>[성공]</Start> 그러고 보니 자네 말이 맞네. 이 멍청한 암호 놀이는 집어치우지. 난 경비가 아니야! 문지기도 아니고!,M1Q4D05CHEF,,,,,0,0
+22259,Dialog,CHEF,"<StartCheck>[Failure]</Start> No, I don't think that would be the best thing for me to do. I'm no guard, but these Bloodsailors are rough customers.","<StartCheck>[실패]</Start> 아니, 그건 내 처지에 최선이 아닌 것 같군. 난 경비는 아니지만, 이 핏빛 항해자들은 험한 놈들이거든.",M1Q4D05CHEF,,,,,0,0
+22260,Dialog,CHEF,"Right, good enough for me. In fact, that's good enough for the night. Anyone else with you, they can go on in as well.","좋아, 그 정도면 충분해. 사실 오늘 밤은 그걸로 끝이지. 자네 일행이 있으면 같이 들어가도 돼.",M1Q4D05CHEF,m1q4d04chefslg04,,,,0,0
+22261,Dialog,CHEF,"I'm done with caring about their stupid door. I did my part, and now I'm done.","그 멍청한 문 따위 이제 신경 끄겠어. 할 일은 했고, 이젠 끝이다.",M1Q4D05CHEF,,,,,0,0
+22262,Dialog,CHEF,"You want to go through that door, you go right ahead. In fact, I'll even tell anyone that asks that you knew the password.",그 문으로 가고 싶으면 맘대로 가. 묻는 놈이 있으면 자네가 암호를 알았다고 내가 말해 주지.,M1Q4D05CHEF,m1q4d04chefslg04,,,,0,0
+22263,Dialog,CHEF,What? No thank you! I'm not fighting over this! Guards! Guards!,뭐? 사양이야! 이 일로 싸우진 않을 거다! 경비! 경비들아!,M1Q4D05CHEF,m1q4chefflee,,,,0,0
+22264,Dialog,CHEF,They can watch their own bloody doors. Damn right.,"그 빌어먹을 문은 지들끼리 지키라고 해. 그래, 잘됐다.",M1Q4D05CHEF,,,,,0,0
+22265,Dialog,CHEF,"Of course, you'll still need to open the door. I don't know nothing about that. If you should be down there, you probably have your own key.","물론, 문 여는 건 자네가 알아서 해야지. 그건 난 몰라. 아래층에 갈 자격이 있으면 열쇠쯤은 갖고 있을 거 아냐.",M1Q4D05CHEF,,,,,0,0
+22266,Dialog,CHEF,Then you are... not supposed to be here? Son of a... ! Guards! I was just supposed to watch the door! I'm not fighting anyone!,"그럼 자네는... 여기에 있으면 안 되는 거였어? 젠장...! 경비! 난 그냥 문만 지키라 그랬지, 누구랑 싸우라곤 안 했다고!",M1Q4D05CHEF,,,,,0,0
+22267,Dialog,CHEF,"Then get lost, and don't bother me again. If you don't know the password, then you aren't supposed to be here.","그럼 꺼져, 그리고 두 번 다시 귀찮게 하지 마. 암호도 모르면서 여기 있을 자격은 없어.",M1Q4D05CHEF,,,,,0,0
+22268,Dialog,CHEF,I don't know about that. The fact that you need to ask means you shouldn't be here.,그건 모르겠군. 그런 걸 묻는다는 건 여기 있을 자격이 없다는 뜻이야.,M1Q4D05CHEF,,,,,0,0
+22269,Dialog,CHEF,Does that mean you know the password or not?,"그럼 암호를 안다는 거야, 모른다는 거야?",M1Q4D05CHEF,,,,,0,0
+22270,Dialog,CHEF,"Well now, I've never been able to say no to a pretty face. Ah, what the hell. I'm no guard. Why did they even ask me to do this?","하하, 예쁜 얼굴엔 못 이기지. 에라 모르겠다. 난 경비도 아닌데, 대체 왜 나더러 이 짓을 시킨 거야?",M1Q4D05CHEF,,,,,0,0
+22271,Dialog,CHEF,"No offense, madam, but... I work around food a lot and I can't afford to lose my appetite.","기분 나쁘게 듣진 마, 부인. 하지만 난 음식하고 일하는 사람이라서, 식욕을 잃을 만한 일은 피해야 하거든요.",M1Q4D05CHEF,,,,,0,0
+22272,Dialog,CHEF,"I don't like you much. In fact, I think that offer is an insult... can you do better?",자네가 마음에 안 들어. 게다가 그 제안은 모욕적이기까지 하군... 더 낫게 할 수 없나?,M1Q4D05CHEF,,,,,0,0
+22273,Dialog,CHEF,"I guess that would be all right. I kind of like you, and what am I doing guarding a door anyway? I'm a chef!",그 정도면 괜찮겠지. 자네가 꽤 마음에 드는군. 어차피 내가 문을 왜 지키는 건데? 난 요리사라고!,M1Q4D05CHEF,m1q4d04chefslg03,,,,0,0
+22274,Dialog,CHEF,"You know, since that door is already open, you are probably in a lot of trouble if you don't know the password.","있지, 그 문이 이미 열려 있으니, 암호를 모르면 자네 꽤 큰일 난 걸지도 몰라.",M1Q4D05CHEF,,,,,0,0
+22275,Dialog,CHEF,"No, I don't think I want to risk my neck for that amount. I don't much like you. Can you do better?","아니, 그 돈에 목숨 걸 생각은 없어. 자네가 그다지 마음에 들지도 않고. 더 낫게 할 수 있나?",M1Q4D05CHEF,,,,,0,0
+22276,Dialog,CHEF,"I think that would suffice. I mean, why are they asking me to guard the door anyway? I'm a chef. A chef!","그 정도면 충분하겠군. 그러니까, 대체 왜 나더러 문을 지키라 하는 거야? 난 요리사야. 요리사라고!",M1Q4D05CHEF,m1q4d04chefslg02,,,,0,0
+22277,Dialog,CHEF,"You have a deal, you unsightly thug! What the hell are they doing asking me to guard the door anyway? I'm a chef!","거래 성사다, 이 보기 흉한 깡패 녀석! 근데 대체 왜 나보고 문을 지키라 한 거지? 난 요리사라고!",M1Q4D05CHEF,m1q4d04chefslg01,,,,0,0
+22278,Dialog,CHEF,"I think that would be a good deal. I mean, why are they asking me to guard the door, anyway? I'm a chef!","그거면 괜찮은 거래지. 그러니까, 왜 나보고 문을 지키래? 난 요리사잖아!",M1Q4D05CHEF,m1q4d04chefslg01,,,,0,0
+22279,Dialog,CHEF,"I think your offer should get a lot better. Yes, I think this is worth a lot more to you.","제안은 훨씬 더 좋아져야겠어. 그래, 이건 자네한테 훨씬 값진 일이잖아.",M1Q4D05CHEF,,,,,0,0
+22280,Dialog,CHEF,"I think that's a little low. I'm getting the feeling that you shouldn't be here, and my looking away is worth more than that.","그건 좀 적지. 자네 여기 있으면 안 될 것 같은데, 내가 못 본 척해 주는 값이 그 정도는 아니라고.",M1Q4D05CHEF,,,,,0,0

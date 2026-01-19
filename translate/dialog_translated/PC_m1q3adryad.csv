@@ -1,0 +1,36 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+20039,PC,Player Character,The sorcerer has kept you prisoner here?,요술사가 널 여기서 포로로 잡아 둔 거냐?,m1q3adryad,,[지능 보통],,,0,0
+20040,PC,Player Character,"Stand back! I'll have no tricks out of you, dryad!","물러서! 네 수작은 통하지 않아, 드라이어드!",m1q3adryad,,[지능 보통],,,0,0
+20041,PC,Player Character,Calm down. I am here to free you.,진정해. 널 풀어주러 왔어.,m1q3adryad,,[지능 보통],,,0,0
+20042,PC,Player Character,Wizard keep you prisoner?,마법사가 너 가둔 거야?,m1q3adryad,,[지능 낮음],,,0,0
+20043,PC,Player Character,"Stand back! No tricks, forest girl!!","물러서! 숲 아가씨, 꼼수 금지!!",m1q3adryad,,[지능 낮음],,,0,0
+20044,PC,Player Character,Me here to free you. You calm down now.,나 너 풀어주러 왔어. 이제 진정해.,m1q3adryad,,[지능 낮음],,,0,0
+20045,PC,Player Character,And how would you reward me if I let you go?,그리고 널 풀어주면 어떻게 보상할 거지?,m1q3adryad,,[지능 보통],,,0,0
+20046,PC,Player Character,Would you be able to find your way home on your own?,혼자서 집으로 돌아갈 수 있겠어?,m1q3adryad,,[지능 보통],,,0,0
+20047,PC,Player Character,What reward if you let go?,풀어주면 보상 뭐 줘?,m1q3adryad,,[지능 낮음],,,0,0
+20048,PC,Player Character,You find way out on own?,너 혼자 길 찾을 수 있어?,m1q3adryad,,[지능 낮음],,,0,0
+20049,PC,Player Character,Then you are free to go. The way behind me is clear.,그럼 가도 좋아. 내 뒤쪽 길은 확보해 뒀어.,m1q3adryad,,[지능 보통],,,0,0
+20050,PC,Player Character,Perhaps you should accompany me. It would be safer that way.,나와 함께 가는 게 좋겠다. 그게 더 안전해.,m1q3adryad,nw_d1_small_good,[지능 보통],,,0,0
+20051,PC,Player Character,Then you free. Way behind is clear.,그럼 너 자유. 뒤쪽 길 비었어.,m1q3adryad,,[지능 낮음],,,0,0
+20052,PC,Player Character,"No, you come with me. Safer.","아니, 나랑 같이 가. 그게 더 안전해.",m1q3adryad,nw_d1_small_good,[지능 낮음],,,0,0
+20053,PC,Player Character [M1Q3A00],How have you survived away from your oak this long?,참나무에서 이렇게 오래 떨어져서 어떻게 살아남은 거야?,m1q3adryad,,m1q3a00dryad01,[M1Q3A00],,0,0
+20054,PC,Player Character,I ask that you first come to Aribeth and help cure the plague.,먼저 아리베스 경에게 가서 울부짖는 죽음 역병 치료를 도와줘.,m1q3adryad,,[지능 보통],,,0,0
+20055,PC,Player Character,Me need yous to come to Aribeth for plague cure first.,먼저 아리베스한테 가서 역병 치료 도와줘야 해.,m1q3adryad,,[지능 낮음],,,0,0
+20056,PC,Player Character,Stay back! I'll not be charmed by you!,물러서! 네 매혹은 통하지 않아!,m1q3adryad,,[지능 보통],,,0,0
+20057,PC,Player Character,You back! Me not be charmed by you!,뒤로 가! 나 네 매혹 안 걸려!,m1q3adryad,,[지능 낮음],,,0,0
+20058,PC,Player Character,Forget it! I'll just take what is needed... off your corpse!,그만해라! 필요한 건... 네 시체에서 뜯어가겠다!,m1q3adryad,nw_d1_small_evil,[지능 보통],,,0,0
+20059,PC,Player Character,No! Me take what we needs... off yous when you dead!,아니! 필요한 건... 네가 죽으면 네 몸에서 가져간다!,m1q3adryad,nw_d1_small_evil,[지능 낮음],,,0,0
+20060,PC,Player Character,You charmed the sorcerer? Is that how you ended up imprisoned here?,네가 요술사를 매혹했나? 그래서 여기 갇히게 된 거냐?,m1q3adryad,,[지능 보통],,,0,0
+20061,PC,Player Character,You charm wizard? That how you caged here?,너 마법사 매혹했어? 그래서 여기 갇힌 거야?,m1q3adryad,,[지능 낮음],,,0,0
+20062,PC,Player Character,Or what? You'll charm me?,뭐? 이번엔 날 매혹하겠다는 건가?,m1q3adryad,,[지능 보통],,,0,0
+20063,PC,Player Character,"Or you charm me, yeah?","아니면 나 매혹할 거야, 응?",m1q3adryad,,[지능 낮음],,,0,0
+20064,PC,Player Character,That's all right. I could use a slave of my own.,좋아. 나도 노예 하나쯤 있으면 쓸모가 있지.,m1q3adryad,nw_d1_mid_evil,[지능 보통],,,0,0
+20065,PC,Player Character,Is okay. Me get nice dryad slave now.,좋아. 이제 예쁜 드라이어드 노예 내 거.,m1q3adryad,nw_d1_mid_evil,[지능 낮음],,,0,0
+20066,PC,Player Character,No reward? Then you die.,보상이 없어? 그럼 죽어라.,m1q3adryad,nw_d1_mid_evil,[지능 보통],,,0,0
+20067,PC,Player Character,"No gold? You die, then, bye-bye.",금화 없어? 그럼 죽어. 안녕.,m1q3adryad,nw_d1_mid_evil,[지능 낮음],,,0,0
+20068,PC,Player Character,You may get lost in the city. I'll take you to someone who can help.,도시에서 길을 잃을 수 있어. 내가 도와줄 사람에게 데려가 줄게.,m1q3adryad,nw_d1_small_good,[지능 보통],,,0,0
+20069,PC,Player Character,You get lost in city. I take you to someone who help.,도시서 길 잃어. 내가 도와줄 사람한테 데려가.,m1q3adryad,nw_d1_small_good,[지능 낮음],,,0,0
+20070,PC,Player Character,"No, you can't go anywhere. I could use a good slave.","아니, 어디도 못 가. 쓸만한 노예가 필요하거든.",m1q3adryad,nw_d1_mid_evil,[지능 보통],,,0,0
+20071,PC,Player Character,You go nowhere. Me like dryad slave.,너 아무 데도 못 가. 나 드라이어드 노예 갖고 싶어.,m1q3adryad,nw_d1_mid_evil,[지능 낮음],,,0,0
+20072,PC,Player Character,"I got what I needed. Now you die, creature.","필요한 건 얻었다. 이제 죽어라, 생명체여.",m1q3adryad,nw_d1_mid_evil,[지능 보통],,,0,0
+20073,PC,Player Character,"Me got hair. You die now, bye-bye.","나 머리카락 가졌어. 너 이제 죽어, 잘 가.",m1q3adryad,nw_d1_mid_evil,[지능 낮음],,,0,0

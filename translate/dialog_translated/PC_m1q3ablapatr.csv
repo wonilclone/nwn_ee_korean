@@ -1,0 +1,49 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19788,PC,Player Character,Could I ask you some questions?,질문을 몇 가지 드려도 될까요?,m1q3ablapatr,,[지능 보통],,,0,0
+19789,PC,Player Character,Me want ask questions.,나 질문하고 싶어.,m1q3ablapatr,,[지능 낮음],,,0,0
+19790,PC,Player Character,Goodbye.,그럼 이만.,m1q3ablapatr,,,,,0,0
+19791,PC,Player Character,What have you heard of the Waterdhavian creatures on the loose?,풀려난 워터딥의 생명체들에 대해 들은 게 있습니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19792,PC,Player Character,Any strange events lately that you can think of?,최근에 떠오르는 이상한 일이 있나요?,m1q3ablapatr,,templ_chg13ing8,,,0,0
+19793,PC,Player Character,Anything interesting going on in Blacklake?,검은호수 지구에서 흥미로운 일이 있습니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19794,PC,Player Character,"You hear 'bout Waterdhavian creatures, maybe?","워터딥의 생명체들 얘기 들었어, 혹시?",m1q3ablapatr,,[지능 낮음],,,0,0
+19795,PC,Player Character,Any strange stuff happen?,이상한 일 있었어?,m1q3ablapatr,,templ_chg13inl9,,,0,0
+19796,PC,Player Character,What going on here?,여기 무슨 일 있어?,m1q3ablapatr,,[지능 낮음],,,0,0
+19797,PC,Player Character,Any idea where they could be if they came here?,그 생명체들이 여기로 왔다면 어디에 있을지 짐작가는 곳이 있습니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19798,PC,Player Character,"<StartCheck>[Insight]</Start> Has there been anything odd since the creatures escaped, that you remember?",<StartCheck>[통찰]</Start> 그 생명체들이 탈출한 뒤로 기억나는 이상한 일이 있습니까?,m1q3ablapatr,,templ_ing8wig13,,,0,0
+19799,PC,Player Character,"You think where they go if they came, maybe?",여기 왔다면 어디 갔을지 생각나?,m1q3ablapatr,,[지능 낮음],,,0,0
+19800,PC,Player Character,Anything you consider odd?,이상하다고 생각한 건 없습니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19801,PC,Player Character,Anyone in need of assistance that you know of?,도움이 필요한 사람이 있습니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19802,PC,Player Character,"Places of interest, perhaps?",혹시 둘러볼 만한 곳이 있습니까?,m1q3ablapatr,,templ_chg10ing8,,,0,0
+19803,PC,Player Character,Odd stuff?,이상한 거 있어?,m1q3ablapatr,,[지능 낮음],,,0,0
+19804,PC,Player Character,"Someone need help, maybe?","도움 필요한 사람 있어, 혹시?",m1q3ablapatr,,[지능 낮음],,,0,0
+19805,PC,Player Character,Neat places to go?,가볼 만한 멋진 곳 있어?,m1q3ablapatr,,templ_chg10inl9,,,0,0
+19806,PC,Player Character,There's been no cases of the plague here at all?,여긴 울부짖는 죽음 역병 환자가 전혀 없다는 겁니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19807,PC,Player Character,No plague here at all?,여긴 울부짖는 죽음 역병 하나도 없어?,m1q3ablapatr,,[지능 낮음],,,0,0
+19808,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 자, 내게 말해도 해가 될 건 없어요.",m1q3ablapatr,,[지능 보통],,,0,0
+19809,PC,Player Character,<StartCheck>[Persuade]</Start> Tell me. Will hurt nobody.,<StartCheck>[설득]</Start> 말해. 아무한테도 해 안 돼.,m1q3ablapatr,,[지능 낮음],,,0,0
+19810,PC,Player Character,What do you know about the plague?,울부짖는 죽음 역병에 대해 무엇을 아십니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19811,PC,Player Character,What you know 'bout plague?,울부짖는 죽음 역병에 대해 뭐 알아?,m1q3ablapatr,,[지능 낮음],,,0,0
+19812,PC,Player Character,I want to ask you something else.,다른 걸 여쭙고 싶습니다.,m1q3ablapatr,,[지능 보통],,,0,0
+19813,PC,Player Character,Me have other question.,나 다른 질문 있어.,m1q3ablapatr,,[지능 낮음],,,0,0
+19814,PC,Player Character,I need directions.,길 안내가 필요합니다.,m1q3ablapatr,,[지능 보통],,,0,0
+19815,PC,Player Character,Me need directions.,나 길 안내 필요해.,m1q3ablapatr,,[지능 낮음],,,0,0
+19816,PC,Player Character,Where is the nearest temple?,가장 가까운 신전은 어디죠?,m1q3ablapatr,,[지능 보통],,,0,0
+19817,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비를 살 만한 곳이 있습니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19818,PC,Player Character,I'm looking for a good tavern.,괜찮은 주점이 있습니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19819,PC,Player Character,Me look for temple.,나 신전 찾는 중.,m1q3ablapatr,,[지능 낮음],,,0,0
+19820,PC,Player Character,Me need place to buy stuff.,나 물건 살 곳 필요해.,m1q3ablapatr,,[지능 낮음],,,0,0
+19821,PC,Player Character,Good place to drink?,술 마시기 좋은 데?,m1q3ablapatr,,[지능 낮음],,,0,0
+19822,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 걸 여쭤보고 싶습니다.",m1q3ablapatr,,[지능 보통],,,0,0
+19823,PC,Player Character,"No, me have other question.","아니, 나 다른 질문 있어.",m1q3ablapatr,,[지능 낮음],,,0,0
+19824,PC,Player Character,"I made it past the gate, didn't I?",내가 문을 통과했잖습니까?,m1q3ablapatr,,[지능 보통],,,0,0
+19825,PC,Player Character,Watch your tone. I've had enough of being challenged.,말투 좀 조심하죠. 시비는 이제 지겨우니까.,m1q3ablapatr,,[지능 보통],,,0,0
+19826,PC,Player Character,"I am a member of the guard, working for Aribeth.",아리베스 경을 위해 일하는 경비대원입니다.,m1q3ablapatr,,[지능 보통],,,0,0
+19827,PC,Player Character,"Me get past gate, no?","나 문 통과했지, 안 그래?",m1q3ablapatr,,[지능 낮음],,,0,0
+19828,PC,Player Character,Watch tone! Me no like always being yelled at!,말투 조심! 나 맨날 소리치는 거 싫어!,m1q3ablapatr,,[지능 낮음],,,0,0
+19829,PC,Player Character,"Me is a guard, work for Aribeth.","나 경비대야, 아리베스 위해 일해.",m1q3ablapatr,,[지능 낮음],,,0,0
+19830,PC,Player Character,"Yes, and to the Abyss with your orders, I'll go where I like.","그래, 그런 명령 따위는 지옥에 던져버려. 난 내 맘대로 갈 거니까.",m1q3ablapatr,,[지능 보통],,,0,0
+19831,PC,Player Character,"Yeah, and me no care about orders. Me go where me wants.","그래, 명령 따위 신경 안 써. 난 내가 가고 싶은 데로 가.",m1q3ablapatr,,[지능 낮음],,,0,0
+19832,PC,Player Character,Anything else?,다른 건요?,m1q3ablapatr,,[지능 보통],,,0,0
+19833,PC,Player Character,Any more?,더 있어?,m1q3ablapatr,,[지능 낮음],,,0,0
+57050,PC,Player Character,"Yous can tell me, okay? We <race> kin.","너 말해줄 수 있어, 그렇지? 우리 <race> 동족이잖아.",m1q3ablapatr,,m1q1_race_int_l,,,0,0
+57051,PC,Player Character,You can tell me. We're <race> kin.,말해줄 수 있겠죠. 우리 <race> 동족이잖아요.,m1q3ablapatr,,m1q1_race_int_n,,,0,0

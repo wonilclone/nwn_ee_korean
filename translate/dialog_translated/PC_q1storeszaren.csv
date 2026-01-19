@@ -1,0 +1,33 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+71600,PC,Player Character,Nothing thanks.,"아니, 됐어.",q1storeszaren,,,,,0,0
+71601,PC,Player Character,Would you like to buy this dragon's tooth?,이 용의 이빨을 사지 않을래?,q1storeszaren,,con_szaren_9,,,0,0
+71602,PC,Player Character,Maybe I will just hang on to it.,그냥 내가 가지고 있을게.,q1storeszaren,,,,,0,0
+71603,PC,Player Character,<StartCheck>[Persuade]</Start> It must be worth more than that!,<StartCheck>[설득]</Start> 이거 훨씬 더 가치 있다고!,q1storeszaren,,,,,0,0
+71604,PC,Player Character,I'll take it.,"좋아, 팔게.",q1storeszaren,,,,,0,0
+71605,PC,Player Character,I'll take it.,"좋아, 팔게.",q1storeszaren,,,,,0,0
+71606,PC,Player Character,Would you like to buy this tower statue?,이 탑 조각상을 살 생각 있어?,q1storeszaren,,con_szaren_8,,,0,0
+71607,PC,Player Character,Would you like to buy this mummified hand?,이 미라의 손을 살래?,q1storeszaren,,con_szaren_7,,,0,0
+71608,PC,Player Character,I guess not.,"아니, 안 살래.",q1storeszaren,,,,,0,0
+71609,PC,Player Character,<StartCheck>[Persuade]</Start> Can you not offer me more for it?,<StartCheck>[설득]</Start> 좀 더 쳐줄 수는 없어?,q1storeszaren,,,,,0,0
+71610,PC,Player Character,"Alright, deal.","그래, 팔게.",q1storeszaren,,,,,0,0
+71611,PC,Player Character,I don't care. I just want the gold.,그런 거 신경 안 써. 금화만 주면 돼.,q1storeszaren,,,,,0,0
+71612,PC,Player Character,Would you like to buy this magical mask?,이 마법 가면을 살래?,q1storeszaren,,con_szaren_6,,,0,0
+71613,PC,Player Character,I guess not.,역시 안 되겠네.,q1storeszaren,,,,,0,0
+71614,PC,Player Character,<StartCheck>[Persuade]</Start> This is a very valuable item. Surely you can offer me more?,<StartCheck>[설득]</Start> 이거 엄청 귀한 물건이야. 좀 더 쳐줄 수는 있지 않아?,q1storeszaren,,,,,0,0
+71615,PC,Player Character,I'll take it.,"좋아, 팔게.",q1storeszaren,,,,,0,0
+71616,PC,Player Character,I'll take it.,"좋아, 팔게.",q1storeszaren,,,,,0,0
+71617,PC,Player Character,Would you be interested in a dragon's egg?,용의 알을 사는 거 어때?,q1storeszaren,,con_q7chasegg,,,0,0
+71618,PC,Player Character,Neither thanks.,둘 다 필요 없어.,q1storeszaren,,,,,0,0
+71619,PC,Player Character,I will take the cloak.,망토로 받을게.,q1storeszaren,,,,,0,0
+71620,PC,Player Character,I will take the gold.,금화로 받을게.,q1storeszaren,,,,,0,0
+71621,PC,Player Character,Would you like to buy a slave?,노예를 살 거야?,q1storeszaren,,con_never,,,0,0
+71622,PC,Player Character,"No, I was just testing you.","아니, 그냥 시험해 본 거야.",q1storeszaren,,,,,0,0
+71623,PC,Player Character,Uh... maybe? ,음... 글쎄?,q1storeszaren,,,,,0,0
+71624,PC,Player Character,Yes. If you have the right price.,그래. 값만 괜찮으면.,q1storeszaren,,,,,0,0
+71625,PC,Player Character,I don't think so.,안 사.,q1storeszaren,,,,,0,0
+71626,PC,Player Character,I will take it.,그걸로 할게.,q1storeszaren,x0_d1_didcelrg,,,,0,0
+71627,PC,Player Character,May I see what you have for sale?,뭘 파는지 좀 보여 줘.,q1storeszaren,,,,,0,0
+78741,PC,Player Character,Why shouldn't I?,내가 왜 못 팔아?,q1storeszaren,,,,,0,0
+78742,PC,Player Character,Afraid of what Drogan might say?,드로건한테 뭐라고 들을까 봐 겁나?,q1storeszaren,,,,,0,0
+78743,PC,Player Character,Why shouldn't I?,내가 왜 못 팔아?,q1storeszaren,,,,,0,0
+78744,PC,Player Character,Afraid of what Drogan might say?,드로건한테 뭐라고 들을까 봐 겁나?,q1storeszaren,,,,,0,0

@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+21690,PC,Player Character,I'll take a look at your normal items.,일반 아이템을 살펴보죠.,m1q4b01auct,m1_openstore_thf,[지능 보통],,,0,0
+21691,PC,Player Character,Me just look at normal stuff.,나 그냥 보통 거 본다.,m1q4b01auct,m1_openstore_thf,[지능 낮음],,,0,0
+21692,PC,Player Character,Let's have a look at some of your special items.,특별한 아이템들을 좀 살펴보죠.,m1q4b01auct,,[지능 보통],,,0,0
+21693,PC,Player Character,Me want to see special things.,특별한 거 보고 싶다.,m1q4b01auct,,[지능 낮음],,,0,0
+21694,PC,Player Character,Why is the auction not going ahead?,경매가 왜 진행되지 않는 거죠?,m1q4b01auct,,[지능 보통],,,0,0
+21695,PC,Player Character,Why auction not on?,왜 경매 안 해?,m1q4b01auct,,[지능 낮음],,,0,0
+21696,PC,Player Character,"Another time, perhaps.",다음에 하죠.,m1q4b01auct,,[지능 보통],,,0,0
+21697,PC,Player Character,Maybe laters.,나중에.,m1q4b01auct,,[지능 낮음],,,0,0
+21698,PC,Player Character,Weapons.,무기.,m1q4b01auct,,,,,0,0
+21699,PC,Player Character,Armor.,방어구.,m1q4b01auct,,,,,0,0
+21700,PC,Player Character,Miscellaneous.,잡동사니.,m1q4b01auct,,[지능 보통],,,0,0
+21701,PC,Player Character,Miscel... Miscsca... uh... Other things!,잡탕... 잡동... 어... 다른 거!,m1q4b01auct,,[지능 낮음],,,0,0
+21702,PC,Player Character,Show me your assorted stuff.,잡다한 거 보여줘.,m1q4b01auct,,[지능 낮음],,,0,0
+21703,PC,Player Character,Show me your selection of armor.,방어구를 보여줘.,m1q4b01auct,,[지능 보통],,,0,0
+21704,PC,Player Character,Show me your miscellaneous items.,기타 물품을 보여줘.,m1q4b01auct,,[지능 보통],,,0,0
+21705,PC,Player Character,You show me your armor stuff.,너 방어구 보여줘.,m1q4b01auct,,[지능 낮음],,,0,0
+21706,PC,Player Character [M1Q4C],<StartAction>Purchase the magic longsword for 10 coins.</Start>,<StartAction>마법 장검을 주화 10개에 구매합니다.</Start>,m1q4b01auct,,m1q4csauctavailb,[M1Q4C],,0,0
+21707,PC,Player Character [M1Q4C],<StartAction>Purchase the magic morning star for 5 coins.</Start>,<StartAction>마법 가시철퇴를 주화 5개에 구매합니다.</Start>,m1q4b01auct,,m1q4csauctavailc,[M1Q4C],,0,0
+21708,PC,Player Character [M1Q4C],<StartAction>Purchase the magic double axe for 15 coins.</Start>,<StartAction>마법 쌍날도끼를 주화 15개에 구매합니다.</Start>,m1q4b01auct,,m1q4csauctavaila,[M1Q4C],,0,0
+21709,PC,Player Character [M1Q4C],<StartAction>Purchase the magical breastplate for 15 coins.</Start>,<StartAction>마법 가슴판갑을 주화 15개에 구매합니다.</Start>,m1q4b01auct,,m1q4csauctavailx,[M1Q4C],,0,0
+21710,PC,Player Character [M1Q4C],<StartAction>Purchase the magical shield for 9 coins.</Start>,<StartAction>마법 방패를 주화 9개에 구매합니다.</Start>,m1q4b01auct,,m1q4csauctavaily,[M1Q4C],,0,0
+21711,PC,Player Character [M1Q4C],<StartAction>Purchase magical leather armor for 5 coins.</Start>,<StartAction>마법 가죽 갑옷을 주화 5개에 구매합니다.</Start>,m1q4b01auct,,m1q4csauctavailz,[M1Q4C],,0,0
+21712,PC,Player Character,Show me what weapons you have.,무기가 뭐 있나 보여줘.,m1q4b01auct,,[지능 보통],,,0,0
+21713,PC,Player Character,Show me weapon stuffs.,무기 보여줘.,m1q4b01auct,,[지능 낮음],,,0,0
+21714,PC,Player Character [M1Q4C],<StartAction>Purchase the magical cloak for 14 coins.</Start>,<StartAction>마법 망토를 주화 14개에 구매합니다.</Start>,m1q4b01auct,,m1q4csauctavail1,[M1Q4C],,0,0
+21715,PC,Player Character [M1Q4B01],<StartAction>Purchase magical sash for 6 coins.</Start>,<StartAction>마법 허리띠를 주화 6개에 구매합니다.</Start>,m1q4b01auct,,m1q4b01auctclg09,[M1Q4B01],,0,0

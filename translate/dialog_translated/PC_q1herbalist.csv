@@ -1,0 +1,26 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70879,PC,Player Character,"No, thanks.","아니, 됐어.",q1herbalist,,,,,0,0
+70880,PC,Player Character,I'd like to see what you have in stock.,뭘 파는지 보고 싶어.,q1herbalist,,,,,0,0
+70881,PC,Player Character,What kinds of things do you sell here?,여기서 어떤 걸 파는지 알려줘.,q1herbalist,,,,,0,0
+70882,PC,Player Character,I should go.,이제 가야겠어.,q1herbalist,,,,,0,0
+70883,PC,Player Character,Have you seen any kobolds in the area?,이 지역에서 코볼트를 본 적 있어?,q1herbalist,,,,,0,0
+70884,PC,Player Character,I found this ring outside. Does it belong to you?,밖에서 이 반지를 발견했는데. 네 거야?,q1herbalist,x0_d1_didlawtny,q1h_foundring01,,,0,0
+70885,PC,Player Character,"Yes, he's recovering... just not completely well yet.","그래, 회복 중이야... 하지만 아직 완전하지는 않아.",q1herbalist,q1h_herbalist04,xp1_droganheal04,,,0,0
+70886,PC,Player Character,"No, he's not. In fact, that's why I'm here... I need some herbs for him.","아니, 아니야. 사실 그래서 여기 온 거야... 그를 위한 약초가 필요해.",q1herbalist,,q1h_curegiven,,,0,0
+70887,PC,Player Character,"He wasn't the last time I saw him, no.",마지막으로 봤을 땐 아니었어.,q1herbalist,,q1h_curegiven2,,,0,0
+70888,PC,Player Character,I could not care less. I have other things to worry about.,관심 없어. 걱정할 다른 게 있어.,q1herbalist,,,,,0,0
+70889,PC,Player Character,I need some herbs for Master Drogan: he's been poisoned.,드로건 스승님을 위한 약초가 필요해: 독에 당하셨어.,q1herbalist,q1h_herbalist01,q1h_curegiven,,,0,0
+70890,PC,Player Character,"Tressym tongue, charcoal and helmthorn berries.","트레심의 혀, 숯, 투구가시 열매.",q1herbalist,,,,,0,0
+70891,PC,Player Character,"He was alive, last time I checked.",마지막으로 확인했을 땐 살아 있었어.,q1herbalist,,,,,0,0
+70892,PC,Player Character,"He was poisoned, but he's recovering nicely now.","독에 당했지만, 지금은 잘 회복하고 있어.",q1herbalist,q1h_herbalist04,xp1_droganheal04,,,0,0
+70893,PC,Player Character,"No, he's not. He was poisoned during a kobold attack.","아니, 아니야. 코볼트 공격 때 독에 당했어.",q1herbalist,q1h_herbalist01,q1h_curegiven2,,,0,0
+70894,PC,Player Character,That's actually why I'm here. He's been poisoned.,사실 그래서 여기 온 거야. 독에 당하셨어.,q1herbalist,q1h_herbalist01,q1h_curegiven,,,0,0
+70895,PC,Player Character,Never mind.,됐어.,q1herbalist,,,,,0,0
+70896,PC,Player Character,"<StartCheck>[Persuade]</Start> He needs a bunch of your equipment. Free of charge, I assume?",<StartCheck>[설득]</Start> 네 장비가 많이 필요해. 무료로 주는 거지?,q1herbalist,xp1_didnotlawsm,q1h_pers02,,,0,0
+70897,PC,Player Character,<StartCheck>[Persuade]</Start> You could donate some coin. The cure is very expensive.,<StartCheck>[설득]</Start> 돈 좀 기부할 수 있어. 치료약이 엄청 비싸거든.,q1herbalist,xp1_didnotlawsm,q1h_pers01,,,0,0
+70898,PC,Player Character,"No, never mind.","아니, 됐어.",q1herbalist,,,,,0,0
+70899,PC,Player Character,"I need some herbs. Tressym tongue, charcoal and helmthorn berries.","약초가 필요해. 트레심의 혀, 숯, 투구가시 열매.",q1herbalist,,,,,0,0
+70900,PC,Player Character,"I'll try that, thanks.","해볼게, 고마워.",q1herbalist,,,,,0,0
+70901,PC,Player Character,Mara's actually not at the tavern anymore...,마라는 사실 더 이상 주점에 없어...,q1herbalist,,con_q1dmob_3,,,0,0
+70902,PC,Player Character,"I really don't think I'll be asking Mara anything, actually.",마라한테는 정말 물어보지 않을 것 같은데.,q1herbalist,,con_q1dmob_1,,,0,0
+70903,PC,Player Character,"I already have some helmthorn berries, thanks.","투구가시 열매는 이미 있어, 고마워.",q1herbalist,,q1h_hasberry,,,0,0

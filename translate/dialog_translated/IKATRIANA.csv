@@ -1,0 +1,86 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+71133,Dialog,IKATRIANA,"Is there something you need? I don't have time to chat... my mates here need tending to, as I'm sure you can plainly see.","필요한 게 있어? 잡담할 시간은 없어... 여기 내 동료들을 돌봐야 하는데, 보면 알겠지만 말이야.",Q1IKATRIANA,,,,vs_nx0katrf_051,0,0
+71134,Dialog,IKATRIANA,"Right, then. Fare you well.","그래, 그럼. 잘 가.",Q1IKATRIANA,,,,,0,0
+71135,Dialog,IKATRIANA,The name's Katriana. I lead the caravan. Why? Who are you?,"이름은 카트리아나야. 캐러밴을 이끌고 있지. 왜? 넌 누구야?",Q1IKATRIANA,,,,,0,0
+71136,Dialog,IKATRIANA,"Oh, but mine is? Funny, but I remember saying I didn't have time to chat. Was there actually something you needed?","오, 그럼 내건 괜찮다고? 웃기는군, 잡담할 시간 없다고 말한 게 기억나는데. 정말 필요한 게 있어?",Q1IKATRIANA,,,,,0,0
+71137,Dialog,IKATRIANA,"Ha! For a halfling, you're pretty secretive. Have it your way, I guess. Was there something you actually wanted?","하! 하플링치곤 꽤 비밀스럽군. 그래, 네 맘대로 해. 정말 원하는 게 있어?",Q1IKATRIANA,,,,,0,0
+71138,Dialog,IKATRIANA,Alright. <FirstName> it is. Nice to meet you. Was there something you wanted from me?,"알았어. <FirstName>이군. 반가워. 나한테 뭘 원하는 거야?",Q1IKATRIANA,,,,,0,0
+71139,Dialog,IKATRIANA,"<FirstName>, eh? Well, what was it you needed from me exactly, <FirstName>. As you can see, my hands are full.","<FirstName>, 응? 그래, 정확히 뭘 원하는 거지, <FirstName>. 보다시피 내 손은 가득 차 있어.",Q1IKATRIANA,,,,,0,0
+71140,Dialog,IKATRIANA,"That so? Dwarven wizard, right? I think I remember him. He's come to give me messages to take on to other towns, sometimes. Pays handsomely.","그래? 드워프 마법사 말이지? 기억나는 것 같아. 가끔 다른 마을로 가져갈 전갈을 맡기러 왔었지. 보수도 후했고.",Q1IKATRIANA,,,,,0,0
+71141,Dialog,IKATRIANA,"Very well, then, <FullName>, apprentice to Master Drogan. What is it, exactly, that you needed from me?","좋아, 그럼, <FullName>, 스승 드로건의 견습생. 정확히 나한테 뭐가 필요한 거지?",Q1IKATRIANA,,,,,0,0
+71142,Dialog,IKATRIANA,If you make it quick.,"빨리만 한다면.",Q1IKATRIANA,,,,,0,0
+71143,Dialog,IKATRIANA,"I did, as did my grandfather before me and his mother before him. Why? Something odd about that?","그랬지. 내 할아버지도, 그의 어머니도 그랬어. 왜? 뭐 이상해?",Q1IKATRIANA,,,,,0,0
+71144,Dialog,IKATRIANA,"Well, we trade, mostly, moving from town to town around the Silver Marches. Occasionally we'll range farther west... but not since the plague in Neverwinter.","글쎄, 주로 무역을 해. 은빛 경계의 마을들을 돌아다니지. 가끔은 더 서쪽으로도 가고... 하지만 네버윈터 역병 이후론 안 갔어.",Q1IKATRIANA,,,,,0,0
+71145,Dialog,IKATRIANA,"We're wanderers, for the most part, but I daresay we do well enough as merchants that we're welcome most anywhere.","대부분은 떠돌이야. 하지만 상인으로선 꽤 잘해서 어디든 환영받는 편이지.",Q1IKATRIANA,,,,,0,0
+71146,Dialog,IKATRIANA,"Not lately. Such are the fortunes of plying your trade in the north, however.","최근엔 아니야. 하지만 북부에서 장사하다 보면 그럴 수밖에 없지.",Q1IKATRIANA,,,,,0,0
+71147,Dialog,IKATRIANA,"Somewhat, yes. We're always looking for guards, however, and the boys don't do so bad when they're not surprised like we were today.","어느 정도는, 그래. 하지만 항상 경비원을 찾고 있어. 오늘처럼 기습당하지만 않으면 애들도 꽤 잘하거든.",Q1IKATRIANA,,,,,0,0
+71148,Dialog,IKATRIANA,I'm thinking we'll try crossing the Anauroch desert. There's goods out east that'll bring a grand price when we head back this way.,"아나우록 사막을 건너볼 생각이야. 동쪽엔 돌아올 때 큰돈 받을 물건들이 있거든.",Q1IKATRIANA,,,,,0,0
+71149,Dialog,IKATRIANA,We can always use another guard... so I can't see why not. But we're not going anywhere until everyone's recovered.,"경비원은 언제나 더 필요해... 그러니 안 될 이유가 없지. 하지만 모두가 회복될 때까진 아무 데도 안 가.",Q1IKATRIANA,,,,,0,0
+71150,Dialog,IKATRIANA,"Try back later. I'll know our plans for certain, then.","나중에 다시 와. 그땐 확실히 계획을 알 테니까.",Q1IKATRIANA,,,,,0,0
+71151,Dialog,IKATRIANA,We can always use another guard... so I can't see why not. But we're going to need some time to stock up on supplies.,"경비원은 언제나 더 필요해... 그러니 안 될 이유가 없지. 하지만 보급품을 채울 시간이 좀 필요해.",Q1IKATRIANA,,,,,0,0
+71152,Dialog,IKATRIANA,"Not at the moment. We came to Hilltop to get supplies... and the kobolds took off with much of what we had stored. Sad day, isn't it?","지금은 아냐. 힐탑에 보급품 구하러 왔는데... 코볼트들이 우리가 저장해둔 걸 대부분 들고 갔어. 슬픈 날이지, 안 그래?",Q1IKATRIANA,,,,,0,0
+71153,Dialog,IKATRIANA,"You mean since the ones that robbed us ran off? No, sorry. I've been busy here, however... maybe you should talk to Torias or Furten. They've been on watch.","우리한테 도둑질한 놈들이 도망간 이후론 말이야? 아니, 미안. 난 여기서 바빴거든... 토리아스나 퍼튼에게 물어봐. 경비를 섰으니까.",Q1IKATRIANA,,,,,0,0
+71154,Dialog,IKATRIANA,"Attacked by kobolds, naturally. Seems obvious enough, doesn't it? They came out of nowhere and tried to rob us.","코볼트한테 습격당했지, 당연히. 뻔하잖아, 안 그래? 갑자기 나타나서 우리를 털려고 했어.",Q1IKATRIANA,,,,,0,0
+71155,Dialog,IKATRIANA,"They didn't get away with anything important. Well... that's not true, exactly. They took Daschnaya's cards, sadly.","중요한 건 못 가져갔어. 뭐... 정확히는 아니지. 다슈냐의 카드를 가져갔거든, 안타깝게도.",Q1IKATRIANA,,,,,0,0
+71156,Dialog,IKATRIANA,"Maybe you could. They're a simple pack of fortune-telling cards, but they've been in Daschnaya's family for generations.","그럴 수도 있겠지. 단순한 점술 카드 한 벌이지만, 다슈냐의 집안에서 대대로 내려온 거야.",Q1IKATRIANA,,,,,0,0
+71157,Dialog,IKATRIANA,"If you get the chance, we'd sure appreciate getting those cards back. We'd even reward you. Not that I expect much. I bet those kobolds are long gone.","기회가 된다면 카드를 되찾아 주면 정말 고맙겠어. 보상도 하지. 기대는 안 하지만. 아마 코볼트들은 이미 멀리 갔을 거야.",Q1IKATRIANA,q1i_toldcards,,,,0,0
+71158,Dialog,IKATRIANA,As you wish.,"네 뜻대로.",Q1IKATRIANA,,,,,0,0
+71159,Dialog,IKATRIANA,Torias might. He followed after them a bit when they ran off. Maybe you should talk to him.,"토리아스가 알 거야. 도망갈 때 잠깐 쫓아갔거든. 그와 얘기해 봐.",Q1IKATRIANA,,,,,0,0
+71160,Dialog,IKATRIANA,They're used for telling fortunes. That's what Daschnaya does... her family's been at it for generations. It's a sad thing to have lost her family's cards.,"점 치는 데 쓰여. 다슈냐가 하는 일이지... 그 집안이 대대로 해온 거야. 가문의 카드를 잃어서 슬프지.",Q1IKATRIANA,,,,,0,0
+71161,Dialog,IKATRIANA,Our fortune-teller. She makes a bit of coin at the towns we stop at. Her family's been using those cards for generations... it's a sad day that we've lost them.,"우리 점쟁이야. 우리가 들르는 마을에서 돈을 좀 벌지. 그 집안이 그 카드를 대대로 써왔는데... 잃어버려서 슬픈 날이야.",Q1IKATRIANA,,,,,0,0
+71162,Dialog,IKATRIANA,"They took Daschnaya's cards, but thankfully those have been returned. Otherwise we're fine.","다슈냐의 카드를 가져갔지만, 다행히 돌려받았어. 그 외엔 괜찮아.",Q1IKATRIANA,,,,,0,0
+71163,Dialog,IKATRIANA,You could get Daschnaya's cards back. I'd consider that a service.,"다슈냐의 카드를 되찾아 줄 수 있겠지. 그럼 도움이 되는 거야.",Q1IKATRIANA,,,,,0,0
+71164,Dialog,IKATRIANA,"Uh-huh. Well, maybe you can be, at that. We were attacked by kobolds earlier, as you can obviously see.","아-하. 뭐, 그럴 수도 있겠네. 아까 코볼트한테 습격당했거든, 보면 알겠지만.",Q1IKATRIANA,,,,,0,0
+71165,Dialog,IKATRIANA,"Ha ha! No... no, I think I have everything I need. But thank you.","하하! 아니야... 아니야, 필요한 건 다 있는 것 같아. 하지만 고마워.",Q1IKATRIANA,,,,,0,0
+71166,Dialog,IKATRIANA,"Yes, they certainly are. As I already said, those are Daschnaya's cards. If you bring them to her, I'm sure she will be very pleased.","그래, 확실히 그래. 이미 말했듯이 다슈냐의 카드야. 그녀에게 가져다주면 아주 기뻐할 거야.",Q1IKATRIANA,,,,,0,0
+71167,Dialog,IKATRIANA,"Here... I see you've misplaced the key for her wagon. Take this and go to her, please.","여기... 마차 열쇠를 잃어버렸구나. 이걸 갖고 그녀에게 가줘.",Q1IKATRIANA,act_katriana_1,,,,0,0
+71168,Dialog,IKATRIANA,"You'll find her in the northern wagon. If I were you, I'd take her up on a reading if she offers you one.","북쪽 마차에서 찾을 수 있을 거야. 내가 너라면 점을 봐주겠다고 하면 받아들이겠어.",Q1IKATRIANA,,,,,0,0
+71169,Dialog,IKATRIANA,"How did you...? No, never mind. Obviously you took those from the kobold thieves, themselves. I hope you gave them what they deserved.","어떻게...? 아니, 됐어. 분명 코볼트 도둑들한테서 직접 가져온 거겠지. 마땅한 응징을 했길 바라지.",Q1IKATRIANA,,,,,0,0
+71170,Dialog,IKATRIANA,"Those cards are indeed Daschnaya's. Out of everything the kobolds took from us, these are all we really wanted returned. I'm sure Daschnaya would be grateful to have them back.","그 카드들은 확실히 다슈냐 거야. 코볼트들이 우리한테서 가져간 모든 것 중에서, 정말 돌려받고 싶었던 건 이것뿐이야. 다슈냐가 돌려받으면 아주 고마워할 거야.",Q1IKATRIANA,q1i_katriana05,,,,0,0
+71171,Dialog,IKATRIANA,"Here... this is the key to her wagon. If you're lucky, perhaps she'll give you a free reading!","여기... 이게 마차 열쇠야. 운이 좋으면 무료로 점을 봐줄지도 몰라!",Q1IKATRIANA,act_katriana_1,,,,0,0
+71172,Dialog,IKATRIANA,"Good. Thank you again for this. Things are looking up, for once.","좋아. 이거 다시 한번 고마워. 드디어 일이 잘 풀리고 있어.",Q1IKATRIANA,,,,,0,0
+71173,Dialog,IKATRIANA,Good. Thank you again for this... perhaps you big folk aren't so terrible after all.,"좋아. 이거 다시 한번 고마워... 아마 큰 족속도 그리 나쁘진 않은가 봐.",Q1IKATRIANA,,,,,0,0
+71174,Dialog,IKATRIANA,Daschnaya's a fortuneteller. It's in her family's blood. So far she's never been wrong.,"다슈냐는 점쟁이야. 가문의 피에 흐르는 거지. 지금까지 한 번도 틀린 적 없어.",Q1IKATRIANA,,,,,0,0
+71175,Dialog,IKATRIANA,"Suit yourself. I'm sure she'll reward you, regardless.","네 맘대로 해. 어쨌든 그녀가 보상할 거야.",Q1IKATRIANA,,,,,0,0
+71176,Dialog,IKATRIANA,"All she said is that it was important we came to Hilltop, and that we'd be fine. And we are, I suppose.","힐탑에 오는 게 중요하다고, 괜찮을 거라고 말했을 뿐이야. 그리고 우리는 괜찮은 것 같아.",Q1IKATRIANA,,,,,0,0
+71177,Dialog,IKATRIANA,Maybe she did.,"그랬을 수도 있지.",Q1IKATRIANA,,,,,0,0
+71178,Dialog,IKATRIANA,"Well... you can talk to her about that. They're her cards. If I were you, though, I'd ask for a reading.","뭐... 그건 그녀와 얘기해 봐. 그녀의 카드니까. 하지만 내가 너라면 점을 봐달라고 하겠어.",Q1IKATRIANA,,,,,0,0
+71179,Dialog,IKATRIANA,Right behind me. Daschnaya hasn't been in the mood to come out since the attack. This should cheer her right up!,"내 바로 뒤야. 다슈냐는 습격 이후 밖에 나올 기분이 아니었거든. 이걸로 기분이 확 좋아질 거야!",Q1IKATRIANA,,,,,0,0
+71180,Dialog,IKATRIANA,"No doubt. I'm sure whatever big folk cleric they have here in Hilltop is busy enough with his own people. Besides, I haven't the coin to pay for spells.","그렇겠지. 힐탑에 있는 큰 족속 성직자는 자기 사람들 돌보는 데도 바쁠 거야. 게다가 주문 비용 낼 돈도 없어.",Q1IKATRIANA,,,,,0,0
+71181,Dialog,IKATRIANA,"Thank you, but I have the situation well in hand. I'd rather not be indebted to anyone; it's not our way.","고맙지만, 상황은 내가 잘 해결하고 있어. 누구한테도 빚지고 싶지 않아. 우리 방식이 아니거든.",Q1IKATRIANA,,,,,0,0
+71182,Dialog,IKATRIANA,"I don't wish to owe you big folks anything, so no thank you. We'll make do. Not that I don't appreciate you offering.","큰 족속한테 아무 빚도 지고 싶지 않아서, 사양할게. 우리끼리 해낼 거야. 제안해 준 건 고맙지만.",Q1IKATRIANA,,,,,0,0
+71183,Dialog,IKATRIANA,"I appreciate the offer, friend, but no thanks. I'd rather not be indebted to anyone. It's just our way.","제안은 고마워, 친구. 하지만 사양할게. 누구한테도 빚지고 싶지 않아. 우리 방식이 그래.",Q1IKATRIANA,,,,,0,0
+71184,Dialog,IKATRIANA,"Thank you. Was there something else you wanted, friend?","고마워. 다른 원하는 게 있어, 친구?",Q1IKATRIANA,,,,,0,0
+71185,Dialog,IKATRIANA,"Maybe so. You may not understand it, but our self-reliance is very important to us. We only ask for help when we really need it... and that's not now.","그럴 수도 있지. 이해 못 할 수도 있지만, 자립은 우리한테 아주 중요해. 정말 필요할 때만 도움을 청하거든... 지금은 그럴 때가 아니야.",Q1IKATRIANA,,,,,0,0
+71186,Dialog,IKATRIANA,"So, then... is there something that you actually need from me, or can I return to my work?","그래, 그럼... 나한테 정말 필요한 게 있어, 아니면 내 일로 돌아가도 돼?",Q1IKATRIANA,,,,,0,0
+71187,Dialog,IKATRIANA,"They aren't going to die. I have the situation well in hand, thank you very much. You may not understand it, but our self-reliance is very important to us.","죽진 않을 거야. 상황은 내가 잘 해결하고 있어, 정말 고마워. 이해 못 할 수도 있지만, 자립은 우리한테 아주 중요해.",Q1IKATRIANA,,,,,0,0
+71188,Dialog,IKATRIANA,"Perhaps not, but I would still owe you nevertheless. You may not see that as much, but we do. As I said, it's just our way... nothing personal.","아닐 수도 있지만, 그래도 난 여전히 빚을 지는 거야. 너한텐 별것 아닐 수도 있지만, 우리한텐 그래. 말했듯이 우리 방식이야... 감정적인 건 아니야.",Q1IKATRIANA,,,,,0,0
+71189,Dialog,IKATRIANA,"You're joking, right? I meant that these fellows are my good friends as well as workers on the caravan.","농담이지, 그렇지? 이 친구들은 캐러밴 일꾼이기도 하지만 내 좋은 친구들이라는 얘기야.",Q1IKATRIANA,,,,,0,0
+71190,Dialog,IKATRIANA,"They were injured by them bloody, sneaking kobolds and that means we're going nowhere until they're well.","그 빌어먹을 비열한 코볼트들한테 다쳤고, 그래서 회복될 때까진 아무 데도 안 간다는 뜻이야.",Q1IKATRIANA,,,,,0,0
+71191,Dialog,IKATRIANA,"Hullo there, friend. You'll have to excuse me if I can't stop to chat for long... my mates here need tending to.","안녕, 친구. 오래 얘기 못 해도 이해해 줘... 여기 내 동료들을 돌봐야 해서.",Q1IKATRIANA,,,,vs_nx0katrf_050,0,0
+71192,Dialog,IKATRIANA,You again? Did you forget to ask something the first time?,"또 왔어? 처음에 뭘 물어보는 걸 잊었어?",Q1IKATRIANA,,,,vs_nx0katrf_052,0,0
+71193,Dialog,IKATRIANA,"Hullo again. Have you had any luck finding those cards? That's getting my hopes up a bit high, I suppose, isn't it?","다시 왔네. 카드 찾는 데 운이 좋았어? 내가 너무 기대하는 걸까, 그렇지?",Q1IKATRIANA,,,,vs_nx0katrf_053,0,0
+71194,Dialog,IKATRIANA,Nobody. I was just asking. It just seems a shame for Daschnaya to lose something so precious to her.,"아무도. 그냥 물어본 거야. 다슈냐가 그렇게 소중한 걸 잃어서 안타까워서.",Q1IKATRIANA,,,,,0,0
+71195,Dialog,IKATRIANA,Nobody. It was just a simple question. Must you big folk get sensitive over everything?,"아무도. 그냥 간단한 질문이었어. 큰 족속들은 뭐든지 예민하게 받아들여야 해?",Q1IKATRIANA,,,,,0,0
+71196,Dialog,IKATRIANA,"Well, I wasn't expecting much. Like I said, those kobolds are probably long gone.","뭐, 기대는 안 했어. 말했듯이 코볼트들은 아마 이미 멀리 갔을 거야.",Q1IKATRIANA,,,,,0,0
+71197,Dialog,IKATRIANA,Anyway... is there something in particular you need?,"어쨌든... 특별히 필요한 게 있어?",Q1IKATRIANA,,,,,0,0
+71198,Dialog,IKATRIANA,"Have you brought those cards to Daschnaya, yet? I'm sure she's eagerly looking forward to getting them back.","아직 카드를 다슈냐에게 가져다줬어? 돌려받길 무척 기대하고 있을 거야.",Q1IKATRIANA,,,,vs_nx0katrf_054,0,0
+71199,Dialog,IKATRIANA,"We don't tend to look much to others for help, but... thank you kindly. I appreciate what you did for Daschnaya.","우린 남한테 도움을 많이 청하는 편이 아닌데... 정말 고마워. 다슈냐를 위해 해준 일 고맙게 생각해.",Q1IKATRIANA,,,,vs_nx0katrf_055,0,0
+71200,Dialog,IKATRIANA,"Look... I don't know if you're looking for some payment, but I didn't ask you to heal anyone. We can make do on our own.","이봐... 보수를 받으려는 건지 모르겠지만, 난 아무도 치유해달라고 부탁하지 않았어. 우린 스스로 해낼 수 있어.",Q1IKATRIANA,q1i_halfheal02,,,vs_nx0katrf_056,0,0
+71201,Dialog,IKATRIANA,"Not for any healing, I'm not! We didn't ask anyone in town for any help, so if you're just here to ""offer"" your services then please go back.","치유엔 아니야! 마을 아무한테도 도움 청하지 않았어. 그저 서비스 ""제공"" 하러 온 거라면 돌아가 줘.",Q1IKATRIANA,,,,,0,0
+71202,Dialog,IKATRIANA,"I don't mean to sound ungrateful, but we don't tend to look to others for help. It's just our way.","배은망덕하게 들리려는 건 아닌데, 우린 남한테 도움 청하는 편이 아니야. 우리 방식이 그래.",Q1IKATRIANA,,,,,0,0
+71203,Dialog,IKATRIANA,"We owe you a debt for bringing those cards back... even though you have yet to give them to Daschnaya. For that, yes, but not for any healing.","카드를 돌려줘서 빚을 졌어... 아직 다슈냐에게 주진 않았지만. 그건 그래, 하지만 치유는 아니야.",Q1IKATRIANA,,,,,0,0
+71204,Dialog,IKATRIANA,We owe you a debt for bringing those cards back to Daschnaya. We'll always be grateful for that... but I didn't ask you for anything else.,"다슈냐에게 카드를 돌려줘서 빚을 졌어. 항상 고마워할 거야... 하지만 다른 건 부탁하지 않았어.",Q1IKATRIANA,,,,,0,0
+71205,Dialog,IKATRIANA,Well... I suppose this does speed up our recovery a bit. We don't have to stay here any longer than we have to.,"뭐... 이러면 회복이 좀 빨라지겠지. 필요 이상으로 여기 오래 있지 않아도 되고.",Q1IKATRIANA,,,,,0,0
+71206,Dialog,IKATRIANA,"I... thank you. We're not used to having others help us, that's all. I don't mean to sound ungrateful.","나... 고마워. 우린 남한테 도움받는 게 익숙하지 않아서 그래. 배은망덕하게 들리려는 건 아니야.",Q1IKATRIANA,,,,,0,0
+71207,Dialog,IKATRIANA,"Now, if there's nothing else, I do have to attend to the others...","이제 다른 게 없다면 다른 사람들 돌봐야 해서...",Q1IKATRIANA,,,,,0,0
+71208,Dialog,IKATRIANA,So is there something else you needed?,"그래서 다른 필요한 게 있어?",Q1IKATRIANA,,,,,0,0
+71209,Dialog,IKATRIANA,Err... and I admit we would all be very grateful if you brought those cards to Daschnaya. ,"어... 그리고 카드를 다슈냐에게 가져다주면 우리 모두 아주 고마워할 거야, 인정해. ",Q1IKATRIANA,,,,,0,0
+71210,Dialog,IKATRIANA,"Especially considering what you did for Daschnaya. You're always welcome amongst us in the caravan, friend.","특히 다슈냐를 위해 해준 일을 생각하면. 캐러밴에서 언제나 환영이야, 친구.",Q1IKATRIANA,,,,,0,0
+71211,Dialog,IKATRIANA,"I... well, I see. You struck me as a <man/woman> who was going to charge me for something I didn't ask for. I see I was mistaken.","나... 뭐, 알겠어. 부탁하지도 않은 일로 요금을 청구할 <man/woman>로 보였거든. 내가 잘못 봤나 봐.",Q1IKATRIANA,,,,,0,0
+71212,Dialog,IKATRIANA,I understand you're to join us when we cross the desert. We're about to start preparing for the trip... are you ready to go?,"사막을 건널 때 우리와 함께한다고 들었어. 막 여행 준비를 시작하려던 참인데... 갈 준비 됐어?",Q1IKATRIANA,,,,vs_nx0katrf_057,0,0
+71213,Dialog,IKATRIANA,"Fine, fine. We won't be staying around forever, though, so don't dally too long.","좋아, 좋아. 하지만 영원히 기다리진 않으니까 너무 오래 꾸물대진 마.",Q1IKATRIANA,,,,,0,0
+71214,Dialog,IKATRIANA,Excellent. I assume you won't object to helping us load up one of the wagons? Let's hop to it.,"훌륭해. 마차 중 하나 싣는 거 도와주는 건 상관없겠지? 시작하자.",Q1IKATRIANA,,,,vs_nx0katrf_058,0,0
+78728,Dialog,IKATRIANA,"Not at all. I'm very certain it was the kobolds. I'm not so certain how the locals feel about rude half-orcs, however.","전혀. 코볼트들이 확실해. 다만 이곳 사람들이 무례한 하프오크를 어떻게 여기는지는 확신이 안 서.",Q1IKATRIANA,,,,,0,0
+78730,Dialog,IKATRIANA,"Well, truth be told they made a fair attempt at that, as well.","뭐, 솔직히 그것도 꽤 시도했어.",Q1IKATRIANA,,,,,0,0
+78732,Dialog,IKATRIANA,"For generations, actually. It's something like a family trading route we follow.","사실 대대로. 가문에서 대대로 따르는 무역로 같은 거지.",Q1IKATRIANA,,,,,0,0

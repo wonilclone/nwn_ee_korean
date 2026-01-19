@@ -1,0 +1,36 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17157,Dialog,WIFE,"Dear, you're scaring the children.","여보, 아이들이 무서워해요.",WIFE,,,,,0,0
+30232,Dialog,WIFE,"Go wash up, son. You've got the smell of the sea on you.","가서 씻어라, 아들아. 바다 냄새가 나네.",M2Q1A00WIFE,m2q1atfwifson,,,,0,0
+30234,Dialog,WIFE,"We've got guests here, hon. Go make yourself presentable.","손님이 왔어, 얘야. 가서 단정하게 꾸미렴.",M2Q1A00WIFE,m2q1atfwifdau,,,,0,0
+30236,Dialog,WIFE,"And you'll make a perfectly presentable spinster someday, too, so go put on a nice blouse.","넌 언젠가 완벽하게 점잖은 노처녀가 될 테니 가서 예쁜 블라우스 입어.",M2Q1A00WIFE,,,,,0,0
+30238,Dialog,WIFE,"Are you ready for your sewing lessons, dear?","바느질 수업 준비됐니, 얘야?",M2Q1A00WIFE,m2q1atfwifgirl,,,,0,0
+30240,Dialog,WIFE,"All right, but tomorrow afternoon I want you home to work on it.","알았어, 하지만 내일 오후엔 집에 와서 연습해야 해.",M2Q1A00WIFE,m2q1atfwifgirl2,,,,0,0
+30241,Dialog,WIFE,"You've been playing Soldiers and Thieves again, haven't you?","또 병정놀이랑 도둑놀이 했지, 그렇지?",M2Q1A00WIFE,m2q1atfwifboy,,,,0,0
+30243,Dialog,WIFE,"Well then, you're going to have to make Billy not do it, aren't you... ?","그럼 빌리가 안 하게 막아야지, 안 그래...?",M2Q1A00WIFE,,,,,0,0
+30246,Dialog,WIFE,Did my husband finally bring in the plow?,남편이 마침내 쟁기를 가져왔나요?,M2Q1A00WIFE,,,,,0,0
+30248,Dialog,WIFE,"All right. Well here are some beets and onions to pay for it when he comes in, then.","알겠어요. 그럼 그이가 오면 값으로 줄 비트랑 양파가 여기 있어요.",M2Q1A00WIFE,,,,,0,0
+30250,Dialog,WIFE,"Excuse me, I don't have time to talk, <mister/missus>.","실례지만 이야기할 시간이 없어요, <mister/missus>.",M2Q1A00WIFE,,,,,0,0
+30251,Dialog,WIFE,"Don't you be pesterin' the likes of me, now.","나 같은 사람 귀찮게 하지 말아요.",M2Q1A00WIFE,,,,,0,0
+30252,Dialog,WIFE,Nice to see people of quality in our town. Welcome to Port Llast!,"우리 마을에서 품위 있는 분을 보게 되어 반갑네요. 라스트 항구에 오신 걸 환영해요!",M2Q1A00WIFE,,,,,0,0
+37700,Dialog,WIFE,"Oh? Over here! Oh, thank the - I thought I was going to die. Everytime they came close to me, their foul smells - I was so scared.","오? 여기예요! 오, 감사해요 - 죽는 줄 알았어요. 그것들이 다가올 때마다, 그 역겨운 냄새 - 너무 무서웠어요.",M2Q5A04WIFE,m2q5leah001,,,vs_ngnbarf1_051,0,0
+37701,Dialog,WIFE,"You're not one of the monsters, are you? Oh, when will this all end? I just want to be free of here.","당신은 괴물 중 하나가 아니죠? 오, 이게 언제 끝나나요? 그냥 여기서 벗어나고 싶어요.",M2Q5A04WIFE,m2q5leah001,,,vs_ngnbarf1_052,0,0
+37702,Dialog,WIFE,"Please, stay back. I haven't done a thing. I've been too scared to even breathe! Don't hurt me! I... ","제발, 물러서세요. 전 아무것도 안 했어요. 숨도 못 쉴 정도로 무서웠다고요! 해치지 마세요! 전...",M2Q5A04WIFE,m2q5leah001,,,vs_ngnbarf1_053,0,0
+37703,Dialog,WIFE,He does? He - oh... this has been so horrible. I just want to go home. Will you help me escape?,"그래요? 그분이 - 오... 정말 끔찍했어요. 그냥 집에 가고 싶어요. 탈출하는 것 좀 도와주실래요?",M2Q5A04WIFE,,,,,0,0
+37704,Dialog,WIFE,"I... I suppose I could, yes. You did kill the monsters that were guarding me, right?","전... 할 수 있을 것 같아요, 네. 저를 지키던 괴물들을 죽였죠, 맞죠?",M2Q5A04WIFE,,,,,0,0
+37705,Dialog,WIFE,"You want me to... wait here? In this place? I guess I have no choice in the matter, but please hurry back! Please... ","저보고... 여기서 기다리라고요? 이곳에서요? 선택의 여지가 없는 것 같지만, 제발 빨리 돌아와 주세요! 제발...",M2Q5A04WIFE,,,,,0,0
+37706,Dialog,WIFE,"Thank you so much, kind <sir/madam>. I wish I could show you my appreciation. Please come and visit me and my husband when you are done here.","정말 감사합니다, 친절한 <sir/madam>. 감사한 마음을 보여드리고 싶어요. 여기 일이 끝나면 저와 남편을 찾아와 주세요.",M2Q5A04WIFE,m2q5csfarmplot07,,,,0,0
+37707,Dialog,WIFE,I know we'll make it out of here. Thank you for bringing hope to me.,"우리가 여기서 나갈 수 있을 거라는 걸 알아요. 희망을 주셔서 감사해요.",M2Q5A04WIFE,,,,vs_ngnbarf1_055,0,0
+37708,Dialog,WIFE,Thank you so much for all you have done!,해주신 모든 일에 정말 감사해요!,M2Q5A04WIFE,,,,vs_ngnbarf1_056,0,0
+37709,Dialog,WIFE,"Leah. My name is Leah. I was working on the farm when I was attacked by those beasts. They kidnapped me, and - oh... ","리아예요. 제 이름은 리아예요. 농장에서 일하다가 그 짐승들한테 공격당했어요. 저를 납치했고, 그리고 - 오...",M2Q5A04WIFE,,,,,0,0
+37710,Dialog,WIFE,"Please, don't go! I don't want to be left in here, not alone... I'm so scared. It's so dark... ","제발, 가지 마세요! 여기 남겨지고 싶지 않아요, 혼자는... 너무 무서워요. 너무 어두워요...",M2Q5A04WIFE,,,,,0,0
+37711,Dialog,WIFE,Oh? What kind of questions? What did you want to ask?,"오? 무슨 질문이요? 뭘 물어보고 싶으신데요?",M2Q5A04WIFE,,,,,0,0
+37713,Dialog,WIFE,"They just wanted to use me for some menial labor, it would seem. Nothing too heavy or exhausting, really. Though it didn't make this any easier on me... ","그냥 잡일에 저를 쓰려고 한 것 같아요. 너무 힘들거나 지치는 건 아니었어요, 정말. 하지만 그렇다고 더 쉬웠던 건 아니에요...",M2Q5A04WIFE,,,,,0,0
+37714,Dialog,WIFE,"Just to do some menial labor, it would seem. Nothing too heavy or exhausting, really. Though it didn't make this any easier on me... ","그냥 잡일을 시키려고 한 것 같아요. 너무 힘들거나 지치는 건 아니었어요, 정말. 하지만 그렇다고 더 쉬웠던 건 아니에요...",M2Q5A04WIFE,,,,,0,0
+37715,Dialog,WIFE,I don't really know... it's pretty dark in here and I haven't been able to see too much. They generally just screamed at me and kept me in here.,"잘 모르겠어요... 여긴 꽤 어둡고 많이 볼 수 없었어요. 대체로 저한테 소리 지르고 여기 가둬뒀어요.",M2Q5A04WIFE,,,,,0,0
+37716,Dialog,WIFE,"Every once in a while, they would drag me out and force me to do something for them: menial labor, for the most part.","가끔씩 저를 끌어내서 뭔가를 강제로 시켰어요: 대부분 잡일이었어요.",M2Q5A04WIFE,,,,,0,0
+37717,Dialog,WIFE,"When I finished the cooking, stitching, what have you, they'd throw me back in here.","요리나 바느질 같은 걸 끝내면 다시 여기로 던져 넣었어요.",M2Q5A04WIFE,,,,,0,0
+37718,Dialog,WIFE,"I've been sick, exhausted, hungry... I can't sleep anywhere, and I just want to get back to my husband.","아프고, 지치고, 배고팠어요... 아무 데서도 잠을 잘 수 없었고, 그냥 남편에게 돌아가고 싶어요.",M2Q5A04WIFE,,,,,0,0
+37719,Dialog,WIFE,"Um... come to think of it... they mentioned something about their ""master."" It was more like a threat to them, though, to keep them in line.","음... 생각해 보니... 그들의 ""주인""에 대해 뭔가 언급했어요. 하지만 그건 그들을 통제하려는 협박 같았어요.",M2Q5A04WIFE,,,,,0,0
+37720,Dialog,WIFE,"It was as if the truly heroic monsters would be rewarded by this monster some how. Well, that's the impression that I got from it.","진정으로 영웅적인 괴물이 어떻게든 이 괴물에게 보상을 받는 것 같았어요. 뭐, 제가 받은 인상은 그래요.",M2Q5A04WIFE,,,,,0,0
+37721,Dialog,WIFE,(sob) I miss my family!,(흑흑) 가족이 보고 싶어요!,M2Q5A04WIFE,,,,vs_ngnbarf1_050,0,0
+37722,Dialog,WIFE,"Please! Don't leave me here again, I beg of you. My name is Leah. My husband must be so worried!","제발! 다시 여기 두고 가지 마세요, 부탁드려요. 제 이름은 리아예요. 남편이 얼마나 걱정할까요!",M2Q5A04WIFE,m2q5leah001,,,vs_ngnbarf1_054,0,0

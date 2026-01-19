@@ -1,0 +1,60 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19881,PC,Player Character,Could I ask you some questions?,질문을 몇 가지 드려도 될까요?,m1q3aclean,,[지능 보통],,,0,0
+19882,PC,Player Character,Me want ask questions.,나 질문하고 싶어.,m1q3aclean,,[지능 낮음],,,0,0
+19883,PC,Player Character,Goodbye.,그럼 이만.,m1q3aclean,,,,,0,0
+19884,PC,Player Character,What do you know about the plague?,울부짖는 죽음 역병에 대해 무엇을 아십니까?,m1q3aclean,,[지능 보통],,,0,0
+19885,PC,Player Character,Have you heard anything about strange creatures in the area?,이 근처에서 이상한 생명체들에 대해 들은 게 있나요?,m1q3aclean,,templ_chg10ing8,,,0,0
+19886,PC,Player Character,Do you know anything of interest about Blacklake?,검은호수 지구에 대해 흥미로운 정보가 있습니까?,m1q3aclean,,[지능 보통],,,0,0
+19887,PC,Player Character,What you know 'bout plague?,역병에 대해 뭐 알아?,m1q3aclean,,[지능 낮음],,,0,0
+19888,PC,Player Character,You hears of strange creatures maybe?,"이상한 생명체 얘기 들었어, 혹시?",m1q3aclean,,templ_chg10inl9,,,0,0
+19889,PC,Player Character,You know things 'bout Blacklake?,검은호수 얘기 좀 알아?,m1q3aclean,,[지능 낮음],,,0,0
+19890,PC,Player Character,I'm investigating the plague. Maybe you could help me?,울부짖는 죽음 역병을 조사 중입니다. 도와주실 수 있나요?,m1q3aclean,,[지능 보통],,,0,0
+19891,PC,Player Character,"<StartCheck>[Insight]</Start> Maybe you've heard some rumors here in Blacklake about the plague? Odd things, perhaps?",<StartCheck>[통찰]</Start> 여기 검은호수에서 역병 관련 소문을 들은 적이 있나요? 이상한 일이라든가요?,m1q3aclean,,templ_ing8wig13,,,0,0
+19892,PC,Player Character,Me look into plague. Maybe you help?,나 역병 알아보는 중. 도와줄래?,m1q3aclean,,[지능 낮음],,,0,0
+19893,PC,Player Character,What kind of odd things do you hear?,어떤 종류의 이상한 얘기들을 들으셨죠?,m1q3aclean,,[지능 보통],,,0,0
+19894,PC,Player Character,"I'd be interested in work, if you know of anything.",할 일이 있다면 관심 있습니다.,m1q3aclean,,[지능 보통],,,0,0
+19895,PC,Player Character,Are there any places of interest in Blacklake I should visit?,검은호수에서 찾아가 볼 만한 곳이 있습니까?,m1q3aclean,,templ_chg10ing8,,,0,0
+19896,PC,Player Character,Odd stuff? What odd stuff you speak of?,이상한 거? 무슨 이상한 거 말해?,m1q3aclean,,[지능 낮음],,,0,0
+19897,PC,Player Character,Me want work.,나 일하고 싶어.,m1q3aclean,,[지능 낮음],,,0,0
+19898,PC,Player Character,You know good places to go here?,여기 가볼 만한 좋은 곳 알아?,m1q3aclean,,templ_chg10inl9,,,0,0
+19899,PC,Player Character,Anything you can tell me about the zoo?,동물원에 대해 알려줄 만한 게 있나요?,m1q3aclean,,[지능 보통],,,0,0
+19900,PC,Player Character,<StartCheck>[Insight]</Start> What about creatures other than at the zoo? Maybe you've heard of something recent?,<StartCheck>[통찰]</Start> 동물원 말고 다른 생명체들은요? 최근에 들은 게 있나요?,m1q3aclean,,templ_ing8wig13,,,0,0
+19901,PC,Player Character,"What you know 'bout zoo, then?",그럼 동물원에 대해 뭐 알아?,m1q3aclean,,[지능 낮음],,,0,0
+19902,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 자, 내게 말해도 해가 될 건 없어요.",m1q3aclean,,[지능 보통],,,0,0
+19903,PC,Player Character,<StartCheck>[Persuade]</Start> Tell me. Will hurt nobody.,<StartCheck>[설득]</Start> 말해. 아무한테도 해 안 돼.,m1q3aclean,,[지능 낮음],,,0,0
+19904,PC,Player Character,Maybe you could tell me about some recent events.,최근 일어난 일들에 대해 들려주실 수 있나요?,m1q3aclean,,[지능 보통],,,0,0
+19905,PC,Player Character,Me have questions about stuff going on.,지금 일어나는 거에 대해 질문 있어.,m1q3aclean,,[지능 낮음],,,0,0
+19906,PC,Player Character,I want to ask you something else.,다른 걸 여쭙고 싶습니다.,m1q3aclean,,[지능 보통],,,0,0
+19907,PC,Player Character,Me have other question.,나 다른 질문 있어.,m1q3aclean,,[지능 낮음],,,0,0
+19908,PC,Player Character,I need some directions.,길 안내가 필요합니다.,m1q3aclean,,[지능 보통],,,0,0
+19909,PC,Player Character,Blacklake big place. Me need directions.,검은호수 큰 곳. 나 길 안내 필요해.,m1q3aclean,,[지능 낮음],,,0,0
+19910,PC,Player Character,Where is the nearest inn?,가장 가까운 여관은 어디죠?,m1q3aclean,,[지능 보통],,,0,0
+19911,PC,Player Character,Where is the nearest temple?,가장 가까운 신전은 어디죠?,m1q3aclean,,[지능 보통],,,0,0
+19912,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비를 살 만한 곳이 있습니까?,m1q3aclean,,[지능 보통],,,0,0
+19913,PC,Player Character,Me look for place to sleep.,잘 데 찾는 중.,m1q3aclean,,[지능 낮음],,,0,0
+19914,PC,Player Character,Me look for temple.,나 신전 찾는 중.,m1q3aclean,,[지능 낮음],,,0,0
+19915,PC,Player Character,Me need place to buy stuff.,나 물건 살 곳 필요해.,m1q3aclean,,[지능 낮음],,,0,0
+19916,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 걸 여쭙고 싶습니다.",m1q3aclean,,[지능 보통],,,0,0
+19917,PC,Player Character,"No, me have other question.","아니, 나 다른 질문 있어.",m1q3aclean,,[지능 낮음],,,0,0
+19918,PC,Player Character,Who are you?,누구시죠?,m1q3aclean,,[지능 보통],,,0,0
+19919,PC,Player Character,Who you?,너 누구야?,m1q3aclean,,[지능 낮음],,,0,0
+19921,PC,Player Character,"So... what, exactly, do you clean?",그러니까... 정확히 무엇을 청소하시는 거죠?,m1q3aclean,,[지능 보통],,,0,0
+19922,PC,Player Character,I thought only nobles lived in Blacklake.,검은호수에는 귀족들만 사는 줄 알았습니다.,m1q3aclean,,[지능 보통],,,0,0
+19924,PC,Player Character,What you clean?,너 뭐 청소해?,m1q3aclean,,[지능 낮음],,,0,0
+19926,PC,Player Character,So you've been in every house in the area?,그럼 이 근처 집들은 다 들어가 보셨다는 건가요?,m1q3aclean,,[지능 보통],,,0,0
+19927,PC,Player Character,So you go in all these houses?,그럼 여기 집들 다 들어가 봤어?,m1q3aclean,,[지능 낮음],,,0,0
+19928,PC,Player Character,Are there certain estates you don't go into?,들어가지 않는 저택들도 있습니까?,m1q3aclean,,[지능 보통],,,0,0
+19929,PC,Player Character,Any noble houses you not like going to?,안 가고 싶은 귀족 집 있어?,m1q3aclean,,[지능 낮음],,,0,0
+19930,PC,Player Character,"<StartCheck>[Persuade]</Start> Oh, go on. What were you about to say?","<StartCheck>[설득]</Start> 에이, 계속 하시죠. 방금 하려던 말이 뭐였죠?",m1q3aclean,,[지능 보통],,,0,0
+19931,PC,Player Character,"Tell me about the wizard, woman, before you try cleaning without hands.","마법사에 대해 얘기해, 아줌마. 아니면 손 없이 청소하는 법부터 배우게 될 거야.",m1q3aclean,nw_d1_small_evil,[지능 보통],,,0,0
+19932,PC,Player Character,Could I ask you some other questions?,다른 질문을 몇 가지 더 드려도 될까요?,m1q3aclean,,[지능 보통],,,0,0
+19933,PC,Player Character,"<StartCheck>[Persuade]</Start> No, you say. You can tells me.","<StartCheck>[설득]</Start> 아니, 말해. 나한테 말해도 돼.",m1q3aclean,,[지능 낮음],,,0,0
+19934,PC,Player Character,You speak 'bout wizard or you cleans without hands!,마법사 얘기해! 아니면 손 없이 청소해!,m1q3aclean,nw_d1_small_evil,[지능 낮음],,,0,0
+19935,PC,Player Character,Me have other questions.,나 다른 질문 있어.,m1q3aclean,,[지능 낮음],,,0,0
+19936,PC,Player Character,"You might know some secrets about Meldanen, then?",그럼 멜다넨에 관한 비밀도 좀 알고 계신가요?,m1q3aclean,,[지능 보통],,,0,0
+19937,PC,Player Character,"If he snuck you into the estate, perhaps that entrance still exists?","그가 당신을 저택으로 몰래 들여보냈다면, 그 출입구가 아직 남아 있을까요?",m1q3aclean,,[지능 보통],,,0,0
+19938,PC,Player Character,You knows wizard's secrets?,너 그 마법사 비밀 알아?,m1q3aclean,,[지능 낮음],,,0,0
+19939,PC,Player Character [M1Q3A00],I am grateful. Take these ten gold pieces as a gift from me.,고맙습니다. 제 선물로 금화 10개를 받아 주십시오.,m1q3aclean,m1q3acleanslg02,m1q3a00has10gp,[M1Q3A00],,0,0
+62701,PC,Player Character,Me thought only nobles in Blacklake.,나 검은호수엔 귀족만 있는 줄 알았어.,m1q3aclean,,[지능 낮음],,,0,0
+64212,PC,Player Character,"If he snuck yous in, maybe backdoor thingy still work?","그가 너 몰래 들여보냈으면, 어쩌면 뒷문 통로 아직 통할 거 아니야?",m1q3aclean,,[지능 낮음],,,0,0
+66748,PC,Player Character [M1Q3A00],"Me thank yous. Here, you gets ten golds.","고마워. 여기, 너 금화 10개 받아.",m1q3aclean,m1q3acleanslg02,m1q3a00has10dumb,[M1Q3A00],,0,0

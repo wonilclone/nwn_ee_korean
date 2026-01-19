@@ -1,0 +1,47 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+26472,PC,Player Character,How much are your rooms?,방값이 얼마죠?,2q4a_aruph,,[지능 보통],,,0,0
+26473,PC,Player Character,Could I ask you a few questions?,몇 가지 물어봐도 될까요?,2q4a_aruph,,[지능 보통],,,0,0
+26474,PC,Player Character,Bed cost how much?,침대 얼마?,2q4a_aruph,,[지능 낮음],,,0,0
+26475,PC,Player Character,Me have questions.,나 질문 있어.,2q4a_aruph,,[지능 낮음],,,0,0
+26476,PC,Player Character,Goodbye.,그럼 이만.,2q4a_aruph,,,,,0,0
+26477,PC,Player Character,"Just what is going on in Luskan, anyway?",러스칸에서 도대체 무슨 일이 벌어지고 있는 거죠?,2q4a_aruph,,[지능 보통],,,0,0
+26478,PC,Player Character,Have you heard of any cults in the city?,이 도시에서 사교에 대해 들은 게 있나요?,2q4a_aruph,,[지능 보통],,,0,0
+26479,PC,Player Character,Is there anywhere I can find work here?,여기서 일거리를 구할 만한 곳이 있을까요?,2q4a_aruph,,[지능 보통],,,0,0
+26480,PC,Player Character,"I need some directions, actually.",사실 길을 좀 물어보고 싶은데.,2q4a_aruph,,[지능 보통],,,0,0
+26481,PC,Player Character,What go on in city?,도시에 무슨 일?,2q4a_aruph,,[지능 낮음],,,0,0
+26482,PC,Player Character,Have you heard of any cults in the city?,도시에 사교 얘기 들었어?,2q4a_aruph,,[지능 낮음],,,0,0
+26483,PC,Player Character,Me look for work. What you know?,나 일 찾아. 뭐 알아?,2q4a_aruph,,[지능 낮음],,,0,0
+26484,PC,Player Character,Me not know way around city. You help?,나 도시 길 몰라. 도와줘?,2q4a_aruph,,[지능 낮음],,,0,0
+26485,PC,Player Character,"<StartCheck>[Insight]</Start> Is there any correlation between the plague in Neverwinter and the fighting, here?",<StartCheck>[통찰]</Start> 네버윈터의 역병과 여기 싸움 사이에 연관이 있나요?,2q4a_aruph,,nw_d2_wis_intn,,,0,0
+26486,PC,Player Character,Maybe I could ask you something else.,다른 것도 좀 물어봐도 될까요?,2q4a_aruph,,[지능 보통],,,0,0
+26487,PC,Player Character,Me want to ask other question.,나 다른 거 물어볼래.,2q4a_aruph,,[지능 낮음],,,0,0
+26488,PC,Player Character,Where is the nearest temple?,가장 가까운 신전이 어디죠?,2q4a_aruph,,[지능 보통],,,0,0
+26489,PC,Player Character,Is there someplace nearby to buy equipment?,근처에 장비를 살 수 있는 곳이 있나요?,2q4a_aruph,,[지능 보통],,,0,0
+26490,PC,Player Character,Where can I find the Host Tower?,중심탑은 어디에 있죠?,2q4a_aruph,,[지능 보통],,,0,0
+26491,PC,Player Character,Where close temple?,가까운 사원 어디?,2q4a_aruph,,[지능 낮음],,,0,0
+26492,PC,Player Character,Need to find store.,가게 찾아야 해.,2q4a_aruph,,[지능 낮음],,,0,0
+26493,PC,Player Character,Where me find Host Tower?,나 중심탑 어디서 찾아?,2q4a_aruph,,[지능 낮음],,,0,0
+26495,PC,Player Character,Who are you?,당신은 누구죠?,2q4a_aruph,,[지능 보통],,,0,0
+26496,PC,Player Character,Who you be?,너 누구?,2q4a_aruph,,[지능 낮음],,,0,0
+26501,PC,Player Character,How does one get into the Host Tower?,중심탑에는 어떻게 들어가죠?,2q4a_aruph,,2q4_aruph02,,,0,0
+26502,PC,Player Character,How you gets into Host Tower?,중심탑 어떻게 들어가?,2q4a_aruph,,2q4_aruph03,,,0,0
+26503,PC,Player Character,Do you know what started all of this?,이 모든 게 어떻게 시작됐는지 아나요?,2q4a_aruph,,[지능 보통],,,0,0
+26504,PC,Player Character,Tell me about the High Captains.,대선장들에 대해 말해줘요.,2q4a_aruph,,[지능 보통],,,0,0
+26505,PC,Player Character,Why doesn't someone put a stop to this?,왜 아무도 이걸 막지 않는 거죠?,2q4a_aruph,,[지능 보통],,,0,0
+26506,PC,Player Character,Have you heard any rumors?,무슨 소문 들은 거 있어요?,2q4a_aruph,,[지능 보통],,,0,0
+26507,PC,Player Character,What start all this? You knows?,이거 왜 시작됐어? 너 알아?,2q4a_aruph,,[지능 낮음],,,0,0
+26508,PC,Player Character,Tell me 'bout High Captains.,대선장들 얘기해 줘.,2q4a_aruph,,[지능 낮음],,,0,0
+26509,PC,Player Character,Why nobody stop fighting?,왜 아무도 싸움 못 멈춰?,2q4a_aruph,,[지능 낮음],,,0,0
+26510,PC,Player Character,"You hear rumors, maybe?","소문 들었지, 아마?",2q4a_aruph,,[지능 낮음],,,0,0
+26511,PC,Player Character,Tell me about the Arcane Brotherhood.,비전 결사단에 대해 말해 주세요.,2q4a_aruph,,[지능 보통],,,0,0
+26512,PC,Player Character,What is Arcane Brotherhood?,비전 결사단 뭐야?,2q4a_aruph,,[지능 낮음],,,0,0
+26513,PC,Player Character,"How do you get into the Host Tower, then?",그럼 중심탑엔 어떻게 들어가는 거죠?,2q4a_aruph,,[지능 보통],,,0,0
+26514,PC,Player Character,How you gets to Host Tower?,그럼 중심탑엔 어떻게 가?,2q4a_aruph,,[지능 낮음],,,0,0
+26515,PC,Player Character,Tell me about Baram.,바람에 대해 말해 주세요.,2q4a_aruph,,[지능 보통],,,0,0
+26516,PC,Player Character,Tell me about Kurth.,커스에 대해 말해 주세요.,2q4a_aruph,,[지능 보통],,,0,0
+26517,PC,Player Character,You tell me stuff 'bout Baram.,바람 얘기 좀 해 줘.,2q4a_aruph,,[지능 낮음],,,0,0
+26518,PC,Player Character,You tell me stuff 'bout Kurth.,커스 얘기 좀 해 줘.,2q4a_aruph,,[지능 낮음],,,0,0
+26519,PC,Player Character,What's this about necromancers?,강령술사에 대한 건 뭐죠?,2q4a_aruph,,[지능 보통],,,0,0
+26520,PC,Player Character,Can you think of anyone who might know more?,더 많이 알 만한 사람 생각나는 사람 있어요?,2q4a_aruph,,[지능 보통],,,0,0
+26521,PC,Player Character,What you says? Necromancers?,뭐라고? 강령술사?,2q4a_aruph,,[지능 낮음],,,0,0
+26522,PC,Player Character,"You knows someone, maybe, who tell more?","더 말해 줄 사람, 혹시 알아?",2q4a_aruph,,[지능 낮음],,,0,0

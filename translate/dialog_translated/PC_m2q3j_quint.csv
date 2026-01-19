@@ -1,0 +1,47 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+37302,PC,Player Character,"You are a madman, that much is clear.","당신은 미친 사람이군요, 그건 분명해 보입니다.",m2q3j_quint,,[지능 보통],,,0,0
+37303,PC,Player Character,Are you Quint Jhareg?,당신이 퀸트 자렉인가요?,m2q3j_quint,,[지능 보통],,,0,0
+37304,PC,Player Character,Why do the undead walk these halls?,왜 언데드들이 이 복도를 걷고 있나요?,m2q3j_quint,,[지능 보통],,,0,0
+37305,PC,Player Character,Didn't we meet before?,전에 만난 적이 있지 않나요?,m2q3j_quint,,[지능 보통],,,0,0
+37306,PC,Player Character,Be at peace. I come as the Judge.,안심하세요. 저는 심판관으로 왔습니다.,m2q3j_quint,,[지능 보통],,,0,0
+37307,PC,Player Character,"You be Mister Quint, yuh?","너 퀸트야, 응?",m2q3j_quint,,[지능 낮음],,,0,0
+37308,PC,Player Character,We meet before?,우리 전에 만났어?,m2q3j_quint,,[지능 낮음],,,0,0
+37309,PC,Player Character,"No, me be da Judge-guy.","아니, 나 심판관이야.",m2q3j_quint,,[지능 낮음],,,0,0
+37310,PC,Player Character,Why there so many undead here?,왜 여기 언데드 많아?,m2q3j_quint,,[지능 낮음],,,0,0
+37311,PC,Player Character,Hmm. You no make much sense.,흠. 너 말 이해 안 돼.,m2q3j_quint,,[지능 낮음],,,0,0
+37312,PC,Player Character,Tell me more... ,더 말해주세요...,m2q3j_quint,,[지능 보통],,,0,0
+37313,PC,Player Character,Get to the point.,요점만 말하세요.,m2q3j_quint,,[지능 보통],,,0,0
+37314,PC,Player Character,"Yuh? Ooh, you keep talking... ","응? 오, 계속 말해...",m2q3j_quint,,[지능 낮음],,,0,0
+37315,PC,Player Character,You got point? Get to it.,요점 있어? 빨리 말해.,m2q3j_quint,,[지능 낮음],,,0,0
+37316,PC,Player Character,Tell me more... ,더 말해주세요...,m2q3j_quint,,[지능 보통],,,0,0
+37317,PC,Player Character,Get to the point.,요점만 말하세요.,m2q3j_quint,,[지능 보통],,,0,0
+37318,PC,Player Character,"Yuh? Ooh, you keep talking... ","응? 오, 계속 말해...",m2q3j_quint,,[지능 낮음],,,0,0
+37319,PC,Player Character,You got point? Get to it.,요점 있어? 빨리 말해.,m2q3j_quint,,[지능 낮음],,,0,0
+37320,PC,Player Character,Will you give that as a written oath?,그걸 서면 맹세로 해주시겠습니까?,m2q3j_quint,,[지능 보통],,,0,0
+37321,PC,Player Character [M2Q3C],I've spoken to Karlat. He tells a different story.,칼랏과 얘기했습니다. 그는 다른 이야기를 하던데요.,m2q3j_quint,,m2q3cs_quint001,[M2Q3C],,0,0
+37322,PC,Player Character [M2Q3J],This your journal?,이게 당신 일지인가요?,m2q3j_quint,,m2q3j_quintc2,[M2Q3J],,0,0
+37323,PC,Player Character,I still have some questions.,아직 질문이 좀 있습니다.,m2q3j_quint,,[지능 보통],,,0,0
+37324,PC,Player Character,You gives that as written oath?,그거 서면 맹세로 해줘?,m2q3j_quint,,[지능 낮음],,,0,0
+37325,PC,Player Character [M2Q3C],Me talk to Karlat already. His story different.,나 칼랏이랑 얘기했어. 그 사람 다른 말했어.,m2q3j_quint,,m2q3cs_quint002,[M2Q3C],,0,0
+37326,PC,Player Character [M2Q3C],Me still have questions.,나 아직 질문 있어.,m2q3j_quint,,m2q3cs_quint002,[M2Q3C],,0,0
+37327,PC,Player Character,What role did your brother play in this?,당신 형제는 이 일에서 어떤 역할을 했나요?,m2q3j_quint,,[지능 보통],,,0,0
+37328,PC,Player Character,<StartCheck>[Insight]</Start> You seem eager to confess... ,<StartCheck>[통찰]</Start> 고백하고 싶어 하시는 것 같은데요...,m2q3j_quint,,nw_d2_wis_intn,,,0,0
+37329,PC,Player Character,Do you know what a phylactery is?,성구함이 뭔지 아시나요?,m2q3j_quint,,[지능 보통],,,0,0
+37330,PC,Player Character,What Judgment do you long for?,어떤 심판을 바라시나요?,m2q3j_quint,,[지능 보통],,,0,0
+37331,PC,Player Character,What your brother do in all this?,너 형은 이 일에서 뭐 했어?,m2q3j_quint,,[지능 낮음],,,0,0
+37332,PC,Player Character,What is this philacta-thingy?,필랙타-뭐시기가 뭐야?,m2q3j_quint,,[지능 낮음],,,0,0
+37333,PC,Player Character,What be da Judgment you wanting?,너 어떤 심판 원해?,m2q3j_quint,,[지능 낮음],,,0,0
+37334,PC,Player Character,"All right, enough questions.","좋습니다, 질문은 그만하죠.",m2q3j_quint,,[지능 보통],,,0,0
+37335,PC,Player Character,"Okay, 'nuff questions, yuh?","좋아, 질문 그만, 응?",m2q3j_quint,,[지능 낮음],,,0,0
+37336,PC,Player Character,You loved the children.,당신은 아이들을 사랑했군요.,m2q3j_quint,,[지능 보통],,,0,0
+37337,PC,Player Character,You thought it was going to be a party.,당신은 그게 파티가 될 거라고 생각했군요.,m2q3j_quint,,[지능 보통],,,0,0
+37338,PC,Player Character,You said your brother was acting strangely.,당신은 형제가 이상하게 행동하고 있다고 말했군요.,m2q3j_quint,,[지능 보통],,,0,0
+37339,PC,Player Character,"You're right, it doesn't say anything.","맞습니다, 아무것도 쓰여 있지 않네요.",m2q3j_quint,,[지능 보통],,,0,0
+37340,PC,Player Character,"You loved da children, yuh?","너 아이들 사랑했어, 응?",m2q3j_quint,,[지능 낮음],,,0,0
+37341,PC,Player Character,You thought it was for big party.,너 그게 큰 파티인 줄 알았어.,m2q3j_quint,,[지능 낮음],,,0,0
+37342,PC,Player Character,You said Karlat act funny.,너 칼랏이 이상하게 행동했다고 말했어.,m2q3j_quint,,[지능 낮음],,,0,0
+37343,PC,Player Character,"Yuh, that's right. It not say anythin' important... ","응, 맞아. 중요한 거 없어...",m2q3j_quint,,[지능 낮음],,,0,0
+37344,PC,Player Character,That's all it said. Will you give that as a written oath?,그게 전부입니다. 그걸 서면 맹세로 해주시겠습니까?,m2q3j_quint,,[지능 보통],,,0,0
+37345,PC,Player Character,"Uh, that's all it said. You gives that as written oath?","어, 그게 전부야. 서면 맹세로 해줘?",m2q3j_quint,,[지능 낮음],,,0,0
+66228,PC,Player Character,Could you excuse me for a moment?,잠깐만 실례해도 될까요?,m2q3j_quint,,[지능 보통],,,0,0
+66229,PC,Player Character,"Uh... me be right back, 'kay?","어... 나 곧 올게, 응?",m2q3j_quint,,[지능 낮음],,,0,0

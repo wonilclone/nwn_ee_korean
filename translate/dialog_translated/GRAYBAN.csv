@@ -1,0 +1,45 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+92100,Dialog,GRAYBAN,"This huge, one handed half orc stares at you with a grimace. ""Boss want speak. Him want no one leave. You stay. You listen.""","거대한 한 팔 하프오크가 얼굴을 찡그리며 당신을 바라봅니다. ""주인 말하고 싶어해. 아무도 나가면 안 돼. 너 여기 있어. 너 들어.""",PRE_GRAYBAN,,,,,0,0
+92101,Dialog,GRAYBAN,"This huge, one handed half orc stares at you with a grimace, trying to decide if he recognizes you or not. ""You no allowed out. There be ban on streets.""","거대한 한 팔 하프오크가 얼굴을 찡그리며 당신을 바라보고, 당신을 알아보는지 아닌지 판단하려 합니다. ""너 밖에 나가면 안 돼. 거리에 금지령 있어.""",PRE_GRAYBAN,,,,,0,0
+92102,Dialog,GRAYBAN,He nods and looks away at the other customers.,그가 고개를 끄덕이고 다른 손님들을 바라봅니다.,PRE_GRAYBAN,,,,,0,0
+92103,Dialog,GRAYBAN,"He frowns at you. ""Me no like to say. It bad story.""","그가 당신을 보고 찌푸립니다. ""나 말하기 싫어. 나쁜 이야기야.""",PRE_GRAYBAN,,,,,0,0
+92104,Dialog,GRAYBAN,"<StartCheck>[Failed]</Start> ""You think you threaten me? Me no be scared of you! Now go away.""","<StartCheck>[실패]</Start> ""너 나 협박할 생각? 나 너 안 무서워! 이제 가.""",PRE_GRAYBAN,,,,,0,0
+92105,Dialog,GRAYBAN,"<StartCheck>[Successful]</Start> ""You be funny <man/woman>! Me likes you, tough <man/woman>.""","<StartCheck>[성공]</Start> ""너 재밌는 <man/woman>! 나 너 좋아해, 강한 <man/woman>.""",PRE_GRAYBAN,,,,,0,0
+92106,Dialog,GRAYBAN,"<StartCheck>[Successful]</Start> ""That be big lie! Me never be coward. Me just about die!""","<StartCheck>[성공]</Start> ""그거 큰 거짓말! 나 절대 겁쟁이 아니야. 나 거의 죽을 뻔했어!""",PRE_GRAYBAN,,,,,0,0
+92107,Dialog,GRAYBAN,"<StartCheck>[Failed]</Start> ""You just want make fun of me, like others do. Go away. Me no want to talk to you.""","<StartCheck>[실패]</Start> ""너 그냥 나 놀리고 싶은 거지, 다른 사람들처럼. 가. 나 너랑 말하기 싫어.""",PRE_GRAYBAN,,,,,0,0
+92108,Dialog,GRAYBAN,"<StartCheck>[Successful]</Start> ""Me have few friends. Guess me would like to have new friend.""","<StartCheck>[성공]</Start> ""나 친구 별로 없어. 새 친구 생기면 좋을 것 같아.""",PRE_GRAYBAN,,,,,0,0
+92109,Dialog,GRAYBAN,"""Me lost all me friends when me lose me arm. We was most liked group for go into Undermountain.""","""나 팔 잃었을 때 친구들 다 잃었어. 우리 언더마운틴 갈 때 제일 인기 있는 팀이었는데.""",PRE_GRAYBAN,,,,,0,0
+92110,Dialog,GRAYBAN,"""We go real deep and make lots of gold, which me spend real fast. Then one day we meet girl.""","""우리 진짜 깊이 들어가서 금화 많이 벌었어. 나 진짜 빨리 썼지. 그러다 어느 날 여자 만났어.""",PRE_GRAYBAN,,,,,0,0
+92111,Dialog,GRAYBAN,"""Me trying. You be patient. It no long story.""","""나 노력하는 중이야. 너 기다려. 긴 이야기 아니야.""",PRE_GRAYBAN,,,,,0,0
+92112,Dialog,GRAYBAN,"""She pretty lady, tell us she help us find treasure if we fetch her cape. We think that good deal.""","""그녀 예쁜 아가씨였어. 우리한테 망토 가져다주면 보물 찾는 거 도와준다고 했어. 우리 그거 좋은 거래라고 생각했어.""",PRE_GRAYBAN,,,,,0,0
+92113,Dialog,GRAYBAN,"""So we go where she tell us, but it be trap. She is vampire and she work with slaads in dungeon. Them jump us and kill mage quick.""","""그래서 우리 그녀가 말한 곳 갔는데 함정이었어. 그녀 흡혈귀였고 던전의 슬라드들이랑 함께 일했어. 그들 우리 덮쳐서 마법사 빨리 죽였어.""",PRE_GRAYBAN,,,,,0,0
+92114,Dialog,GRAYBAN,"""Her get our cleric from behind and tear him throat out.""","""그 여자가 우리 성직자 뒤에서 목 찢어버렸어.""",PRE_GRAYBAN,,,,,0,0
+92115,Dialog,GRAYBAN,"""That come next. Just wait.""","""그건 다음에 나와. 기다려.""",PRE_GRAYBAN,,,,,0,0
+92116,Dialog,GRAYBAN,"""I killed many slaads, but see me friends all die one by one.""","""나 슬라드 많이 죽였지만, 내 친구들 하나씩 다 죽는 거 봤어.""",PRE_GRAYBAN,,,,,0,0
+92117,Dialog,GRAYBAN,"""When sweet Orah, me thief, get caught by vampire and her back get broke, me go berserk.""","""달콤한 오라, 내 도적이 흡혈귀한테 잡혀서 등이 부러졌을 때, 나 미쳐버렸어.""",PRE_GRAYBAN,,,,,0,0
+92118,Dialog,GRAYBAN,"""Me not remember what happen, but slaads and vampire be gone and me arm and shield too. Me find me way out and here me be.""","""나 무슨 일 있었는지 기억 안 나. 근데 슬라드랑 흡혈귀 다 사라졌고 내 팔이랑 방패도 없었어. 나 나갈 길 찾아서 여기 있어.""",PRE_GRAYBAN,,,,,0,0
+92119,Dialog,GRAYBAN,"""Me lost all me had. Money, arm, magic shield, friends. Life not that special now.""","""나 가진 거 다 잃었어. 돈, 팔, 마법 방패, 친구들. 삶이 이제 그렇게 특별하지 않아.""",PRE_GRAYBAN,,,,,0,0
+92120,Dialog,GRAYBAN,"""Durnan feel sorry for Grayban. Him hire me as guard. He is good boss.""","""더난 그레이반 불쌍하게 생각했어. 그가 나 경비로 고용했어. 좋은 주인이야.""",PRE_GRAYBAN,,,,,0,0
+92121,Dialog,GRAYBAN,"""Me better keep working. You should go now. You want to go out door?""","""나 계속 일해야 해. 너 이제 가야 해. 문으로 나갈 거야?""",PRE_GRAYBAN,,,,,0,0
+92122,Dialog,GRAYBAN,"""You be good listener. Maybe we be friends.""","""너 잘 들어줘. 우리 친구 될 수도 있겠어.""",PRE_GRAYBAN,,,,,0,0
+92123,Dialog,GRAYBAN,"His eyes narrow in thought. ""Me not remember boss say you go out.""","그의 눈이 생각하느라 가늘어집니다. ""나 기억 안 나. 주인 네가 나가도 된다고 말 안 했어.""",PRE_GRAYBAN,,,,,0,0
+92124,Dialog,GRAYBAN,"He scratches his head. ""You must want go out bad. Right, me let you use door for 10 gold.""","그가 머리를 긁습니다. ""너 진짜 나가고 싶은가 봐. 알았어, 금화 10개면 문 쓰게 해줄게.""",PRE_GRAYBAN,,,,,0,0
+92125,Dialog,GRAYBAN,"""Then it not worth me time to let you out. You come back when you gots gold.""","""그럼 너 내보낼 가치 없어. 금화 가지고 다시 와.""",PRE_GRAYBAN,,,,,0,0
+92126,Dialog,GRAYBAN,"""You no tell boss me lets you out. Me no want to get in trouble.""","""너 주인한테 내가 나가게 해줬다고 말 안 해. 나 문제 일으키고 싶지 않아.""",PRE_GRAYBAN,q2a_grayban_door,,,,0,0
+92127,Dialog,GRAYBAN,"<StartCheck>[Successful]</Start> ""Oh, you no tell boss that. Him trust me and be nice to me.""","<StartCheck>[성공]</Start> ""아, 너 주인한테 그거 말하면 안 돼. 그가 나 믿고 잘 대해줘.""",PRE_GRAYBAN,,,,,0,0
+92128,Dialog,GRAYBAN,"<StartCheck>[Failed]</Start> His face darkens with anger. ""Me no forget! You no try to fool Grayban!""","<StartCheck>[실패]</Start> 그의 얼굴이 분노로 어두워집니다. ""나 잊지 않았어! 너 그레이반 속이려고 하지 마!""",PRE_GRAYBAN,,,,,0,0
+92129,Dialog,GRAYBAN,"""Now go away. Me no let you leave.""","""이제 가. 나 너 못 내보내.""",PRE_GRAYBAN,,,,,0,0
+92130,Dialog,GRAYBAN,"<StartCheck>[Successful]</Start> Oh, thank you. You be nice <man/woman>. Me do sometimes forget stuff.","<StartCheck>[성공]</Start> 오, 고마워. 너 착한 <man/woman>. 나 가끔 잊어버려.",PRE_GRAYBAN,,,,,0,0
+92131,Dialog,GRAYBAN,"""You be careful if you go out. There be bad stuff out there. Many streets closed, shops closed, and sometimes looters.""","""나가면 조심해. 밖에 나쁜 것들 있어. 거리 많이 막혀 있고, 가게 문 닫았고, 가끔 약탈자들 있어.""",PRE_GRAYBAN,,,,,0,0
+92132,Dialog,GRAYBAN,"He unlocks the door, then slips the key back inside his shirt. He gives you a big, toothy grin and waves goodbye.",그가 문을 열고 열쇠를 셔츠 안으로 다시 집어넣습니다. 크고 이빨 드러낸 미소를 지으며 작별 인사를 합니다.,PRE_GRAYBAN,q2a_buck_door,,,,0,0
+92133,Dialog,GRAYBAN,"The half-orc's mind slowly churns over this information, then his face brightens in recognition. ""<FullName>! Yeah, boss say it okay for you to go out. Me remember now.""","하프오크의 머릿속이 천천히 이 정보를 소화하더니, 얼굴이 알아보는 표정으로 밝아집니다. ""<FullName>! 그래, 주인이 너 나가도 된다고 했어. 이제 기억났어.""",PRE_GRAYBAN,,,,,0,0
+92134,Dialog,GRAYBAN,"The guard wrinkles his forehead in concentration as he recognizes you. ""You back. What you want?""","경비가 당신을 알아보고 이마를 찌푸립니다. ""너 돌아왔어. 뭐 필요해?""",PRE_GRAYBAN,,,,,0,0
+92135,Dialog,GRAYBAN,"""That be me shield! Oh, you good, good <man/woman>! You be best person in world!""","""저게 내 방패! 오, 너 좋은, 좋은 <man/woman>! 너 세상에서 최고의 사람!""",PRE_GRAYBAN,,,,,0,0
+92136,Dialog,GRAYBAN,"""If only me had gold for me get arm fixed. But me doesn't. Me only has 50 gold, which means maybe in couple of years.""","""나한테 팔 고칠 금화 있으면 좋을 텐데. 근데 없어. 나 금화 50개만 있어. 그럼 2년 정도면 될 거야.""",PRE_GRAYBAN,,,,,0,0
+92137,Dialog,GRAYBAN,"""Unless you takes me 50 gold for find shield. That be all me gots left, but you deserving it.""","""너 방패 찾아주면 내 금화 50개 가져가. 그게 내가 남은 전부야. 근데 너 받을 자격 있어.""",PRE_GRAYBAN,,,,,0,0
+92138,Dialog,GRAYBAN,"""Oh, you be the kindest <man/woman> me ever meet.""","""오, 너 내가 만난 것 중에 가장 착한 <man/woman>.""",PRE_GRAYBAN,act_q2aypguard4,,,,0,0
+92139,Dialog,GRAYBAN,"""Maybe someday me can pay you back. You be careful. There be dangerous stuff in Underdark.""","""언젠가 나도 너한테 갚을 수 있을 거야. 조심해. 언더다크에 위험한 것들 많아.""",PRE_GRAYBAN,,,,,0,0
+92140,Dialog,GRAYBAN,"""Thank you. That be good.""","""고마워. 좋아.""",PRE_GRAYBAN,act_q2aypguard3,,,,0,0
+92141,Dialog,GRAYBAN,"""Now just one more year. One more year.""","""이제 1년만 더. 1년만 더.""",PRE_GRAYBAN,,,,,0,0
+92142,Dialog,GRAYBAN,"""Okay. Me understand. Maybe me get arm back someday.""","""알겠어. 나 이해해. 언젠가 나 팔 다시 찾을 수도 있어.""",PRE_GRAYBAN,act_q2aypguard2,,,,0,0
+92143,Dialog,GRAYBAN,"This huge, one handed half orc stares at you with a grimace. ""Boss call you for to go down and help him. You go now.""","거대한 한 팔 하프오크가 얼굴을 찡그리며 당신을 바라봅니다. ""주인이 너 부르래. 내려가서 도와줘. 이제 가.""",PRE_GRAYBAN,,,,,0,0

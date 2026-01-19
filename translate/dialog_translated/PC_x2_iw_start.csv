@@ -1,0 +1,26 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+94786,PC,Player Character,"""Is this some form of trick?""","""이건 어떤 속임수야?""",x2_iw_start,,,,,0,0
+94787,PC,Player Character,"""How is it that a sword can talk?""","""검이 어떻게 말을 해?""",x2_iw_start,,,,,0,0
+94788,PC,Player Character,"""Err... who are you?""","""어... 넌 누구야?""",x2_iw_start,,,,,0,0
+94789,PC,Player Character,"""And you seek to escape now?""","""그래서 이제 탈출하려는 거야?""",x2_iw_start,,,,,0,0
+94790,PC,Player Character,"""Stuck? Stuck how?""","""갇혔다고? 어떻게 갇혔어?""",x2_iw_start,,,,,0,0
+94791,PC,Player Character,"""What's the catch?""","""뭐가 문제인데?""",x2_iw_start,q2_iw_catch02,q2_iw_catch01,,,0,0
+94792,PC,Player Character,"""I might be interested... what do you do, exactly?""","""관심 있을지도... 정확히 뭘 하는데?""",x2_iw_start,,,,,0,0
+94793,PC,Player Character,"""Amongst other things?""","""다른 것들 중에?""",x2_iw_start,,,,,0,0
+94794,PC,Player Character,"""I have no need of a longsword, sorry.""","""장검은 필요 없어, 미안.""",x2_iw_start,,q2_iw_wpnchg01,,,0,0
+94795,PC,Player Character,"""I don't trust you. You'll remain where you are.""","""널 믿을 수 없어. 거기 그대로 있어.""",x2_iw_start,,,,,0,0
+94796,PC,Player Character,"""Perhaps remaining a longsword would be best.""","""장검으로 남는 게 제일 나을 것 같은데.""",x2_iw_start,q2_iw_wpnchg02,,,,0,0
+94797,PC,Player Character,"""I suppose I could use a powerful greatsword...""","""강력한 대검은 쓸 수 있을 것 같은데...""",x2_iw_start,q2_iw_wpnchg05,,,,0,0
+94798,PC,Player Character,"""I suppose I could use a powerful short sword...""","""강력한 소검은 쓸 수 있을 것 같은데...""",x2_iw_start,q2_iw_wpnchg04,,,,0,0
+94799,PC,Player Character,"""I suppose I could use a powerful dagger...""","""강력한 단검은 쓸 수 있을 것 같은데...""",x2_iw_start,q2_iw_wpnchg03,,,,0,0
+94800,PC,Player Character,"""Forget it. You'll stay right here.""","""됐어. 거기 그냥 있어.""",x2_iw_start,,q2_iw_catch03,,,0,0
+94801,PC,Player Character,"""I shall take you, if I can."" <StartAction>[Take the sword.]</Start>","""가능하다면 데려가겠어.""<StartAction>[검을 집어 듭니다.]</Start>",x2_iw_start,,q2_iw_catch03,,,0,0
+94802,PC,Player Character,"""Perhaps if you became a greatsword, instead...""","""대신 대검이 된다면...""",x2_iw_start,q2_iw_wpnchg05,q2_iw_wpnchg09,,,0,0
+94803,PC,Player Character,"""Perhaps if you became a longsword, instead...""","""대신 장검이 된다면...""",x2_iw_start,q2_iw_wpnchg02,q2_iw_wpnchg08,,,0,0
+94804,PC,Player Character,"""Perhaps if you became a short sword, instead...""","""대신 소검이 된다면...""",x2_iw_start,q2_iw_wpnchg04,q2_iw_wpnchg07,,,0,0
+94805,PC,Player Character,"""Perhaps if you became a dagger, instead...""","""대신 단검이 된다면...""",x2_iw_start,q2_iw_wpnchg03,q2_iw_wpnchg06,,,0,0
+94806,PC,Player Character,"""I've heard tales about intelligent weapons taking over their users...""","""지능을 가진 무기가 사용자를 장악한다는 이야기를 들었는데...""",x2_iw_start,,nw_d2_arcane,,,0,0
+94807,PC,Player Character,"""And what were you in life, Enserric?""","""살아있을 때 넌 뭐였어, 엔서릭?""",x2_iw_start,,,,,0,0
+94808,PC,Player Character,"""How long ago did this happen?""","""얼마나 오래전 일이야?""",x2_iw_start,,,,,0,0
+94809,PC,Player Character,"""Where is your body? I don't see it anywhere.""","""네 몸은 어디 있어? 안 보이는데.""",x2_iw_start,,,,,0,0
+94810,PC,Player Character,"""How is that a long story?""","""그게 어떻게 긴 이야기야?""",x2_iw_start,,,,,0,0

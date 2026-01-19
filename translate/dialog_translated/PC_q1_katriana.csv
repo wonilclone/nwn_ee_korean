@@ -1,0 +1,60 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+80653,PC,Player Character,I'll be fine. Don't worry about me.,괜찮을 거예요. 걱정 마세요.,q1_katriana,,,,,0,0
+80654,PC,Player Character,And if I'm not alright? What are you going to do about it?,만약 안 괜찮으면? 어떻게 할 건데요?,q1_katriana,,,,,0,0
+80655,PC,Player Character,Do you think there's going to be trouble?,문제가 생길 것 같아요?,q1_katriana,,,,,0,0
+80656,PC,Player Character,Where are my companions?,내 동료들은 어디 있어요?,q1_katriana,,,,,0,0
+80657,PC,Player Character,Did you say you hired a kobold?,코볼트를 고용했다고요?,q1_katriana,,,,,0,0
+80658,PC,Player Character,Is his name Deekin?,혹시 이름이 디킨인가요?,q1_katriana,,,,,0,0
+80659,PC,Player Character,He did? What did he say?,그랬어요? 뭐라고 했는데요?,q1_katriana,,,,,0,0
+80660,PC,Player Character,I should get some sleep.,좀 자야겠어요.,q1_katriana,,,,,0,0
+80661,PC,Player Character,Bah. I hate this desert.,에휴. 이 사막 정말 싫어요.,q1_katriana,,,,,0,0
+80662,PC,Player Character,Maybe I should go and speak to him.,가서 얘기해 봐야겠네요.,q1_katriana,,,,,0,0
+80663,PC,Player Character,Wait one second... what *were* those creatures?!,잠깐만요... 아까 그 생명체들은 *뭐였어요*?!,q1_katriana,,,,,0,0
+80664,PC,Player Character,I don't know. Is he in one of the wagons?,모르겠어요. 마차 중 하나에 있나요?,q1_katriana,,,,,0,0
+80665,PC,Player Character,Thank you for the personal concern and gratitude.,직접 걱정해 주시고 감사까지 해주시니 고맙네요.,q1_katriana,,,,,0,0
+80666,PC,Player Character,Who cares? He probably fell in battle.,누가 신경 써요? 아마 싸우다 죽었겠죠.,q1_katriana,,,,,0,0
+80667,PC,Player Character,Do you want me to look for him?,제가 찾아볼까요?,q1_katriana,,,,,0,0
+80668,PC,Player Character,"Go and look for him, then, if you're so worried.",그렇게 걱정되면 직접 찾으러 가세요.,q1_katriana,,,,,0,0
+80669,PC,Player Character,"We'll just have to make do without him, won't we?",그 사람 없이 해야겠네요.,q1_katriana,,,,,0,0
+80670,PC,Player Character,Very well. I will do what I can.,알겠어요. 할 수 있는 건 해볼게요.,q1_katriana,,,,,0,0
+80671,PC,Player Character,I should be going.,이만 가볼게요.,q1_katriana,,,,,0,0
+80672,PC,Player Character,"I think we need to re-negotiate my reward, first.",먼저 보수를 다시 협상해야 할 것 같은데요.,q1_katriana,q1_rewardneg01,q1_katriana02,,,0,0
+80673,PC,Player Character,Forget about it.,됐어요.,q1_katriana,,,,,0,0
+80674,PC,Player Character,<StartCheck>[Persuade]</Start> I want another 100 gold.,<StartCheck>[설득]</Start> 금화 100개 더 주세요.,q1_katriana,,q1_katriana05,,,0,0
+80675,PC,Player Character,<StartCheck>[Persuade]</Start> I want another 100 gold.,<StartCheck>[설득]</Start> 금화 100개 더 주세요.,q1_katriana,,q1_katriana04,,,0,0
+80676,PC,Player Character,I think we still need to negotiate.,아직 협상할 게 남은 것 같은데요.,q1_katriana,q1_rewardneg01,q1_katriana02,,,0,0
+80677,PC,Player Character,I want something in return besides just gold.,금화 말고 다른 것도 원해요.,q1_katriana,,,,,0,0
+80678,PC,Player Character,I was thinking about something a little more personal...,좀 더 개인적인 걸 생각하고 있었는데...,q1_katriana,,q1_kat_comeon01,,,0,0
+80679,PC,Player Character,<StartCheck>[Persuade]</Start> I could use a little incentive from you for this mission.,<StartCheck>[설득]</Start> 이 일 하려면 뭔가 동기 부여가 필요한데요.,q1_katriana,,q1_katriana01,,,0,0
+80680,PC,Player Character,I have some questions.,질문이 좀 있어요.,q1_katriana,,,,,0,0
+80681,PC,Player Character,I have no more questions.,질문은 다 했어요.,q1_katriana,,,,,0,0
+80682,PC,Player Character,Do you have any advice for me?,조언 좀 해주실 수 있어요?,q1_katriana,,,,,0,0
+80683,PC,Player Character,How do you know this Zidan isn't dead?,지단이 죽지 않은 건 어떻게 알아요?,q1_katriana,,,,,0,0
+80684,PC,Player Character,What can you tell me about this desert?,이 사막에 대해 아는 거 있어요?,q1_katriana,,,,,0,0
+80685,PC,Player Character,What do you know about these stingers?,스팅어에 대해 아는 거 있어요?,q1_katriana,,,,,0,0
+80686,PC,Player Character,Is there anything that can counter that poison?,그 독 해독할 방법 있어요?,q1_katriana,,,,,0,0
+80687,PC,Player Character,Why would they have attacked the caravan?,왜 캐러밴을 공격했을까요?,q1_katriana,,,,,0,0
+80688,PC,Player Character,"Just where will I find Garrick, anyway?",그나저나 가릭은 어디서 찾아요?,q1_katriana,,,,,0,0
+80689,PC,Player Character,What kinds of excavations? Did he say?,어떤 발굴이요? 뭐라고 했어요?,q1_katriana,,,,,0,0
+80690,PC,Player Character,Show me what you have in stock.,물건 좀 보여주세요.,q1_katriana,,,,,0,0
+80691,PC,Player Character,I have to *buy* my supplies off of you?,보급품을 *사야* 해요?,q1_katriana,,,,,0,0
+80692,PC,Player Character,I don't appreciate being blackmailed into helping.,협박해서 돕게 만드는 건 맘에 안 드네요.,q1_katriana,,,,,0,0
+80693,PC,Player Character,Fine. You don't leave me much choice.,좋아요. 어쩔 수 없네요.,q1_katriana,,,,,0,0
+80694,PC,Player Character,<StartCheck>[Persuade]</Start> I could use a little incentive.,<StartCheck>[설득]</Start> 뭔가 동기 부여가 필요한데요.,q1_katriana,,q1_katriana01,,,0,0
+80695,PC,Player Character,"I don't suppose I get any help in this, do I?",도움은 못 받겠죠?,q1_katriana,,,,vs_nzeliepm_055,0,0
+80696,PC,Player Character,Just how am I supposed to look for him?,도대체 어떻게 찾으라는 거예요?,q1_katriana,,,,,0,0
+80697,PC,Player Character,"Wait a second, I thought you'd been across this desert before?",잠깐만요. 전에 이 사막을 건넌 적 있다면서요?,q1_katriana,,,,,0,0
+80698,PC,Player Character,"I rescued Zidan, but haven't brought him back yet.",지단을 구출했는데 아직 데려오지 못했어요.,q1_katriana,,q1_sc_kat7,,,0,0
+80699,PC,Player Character,"I found Zidan, but I haven't been able to rescue him yet.",지단을 찾았는데 아직 구출하지 못했어요.,q1_katriana,,q1_sc_kat6,,,0,0
+80700,PC,Player Character,"I've found the stingers' caverns, but no sign of Zidan yet.",스팅어 동굴을 찾았는데 지단은 아직 못 봤어요.,q1_katriana,,q1_sc_kat5,,,0,0
+80701,PC,Player Character,"No, I haven't found him yet.",아니요. 아직 못 찾았어요.,q1_katriana,,,,,0,0
+80702,PC,Player Character,Sounds good to me.,좋네요.,q1_katriana,,,,,0,0
+80703,PC,Player Character,<StartCheck>[Intimidate]</Start> This was harder than I'd bargained for. I want compensation... now.,<StartCheck>[위협]</Start> 예상보다 힘들었어요. 보상을 원해요... 지금 당장.,q1_katriana,x0_d1_didchaotny,,,,0,0
+80704,PC,Player Character,"<StartCheck>[Persuade]</Start> I think I deserve a bit more than that, don't you?","<StartCheck>[설득]</Start> 그것보다 더 받을 자격이 있는 것 같은데요, 안 그래요?",q1_katriana,xp1_didnotlawti,,,,0,0
+80705,PC,Player Character,"I have something to do, first.",먼저 할 일이 있어요.,q1_katriana,,,,,0,0
+80706,PC,Player Character,"Yes, let's go.","네, 가요.",q1_katriana,,,,,0,0
+80707,PC,Player Character,"Forget about it. We can leave, now... that's good enough for me.",됐어요. 이제 떠날 수 있으니까... 그걸로 충분해요.,q1_katriana,x0_d1_didcgtny,,,,0,0
+80708,PC,Player Character,You're damned right I do.,당연하죠.,q1_katriana,,,,,0,0
+80709,PC,Player Character,"We can leave, now... that's reward enough for me.",이제 떠날 수 있으니까... 그걸로 충분해요.,q1_katriana,xp1_didnotevlti,,,,0,0
+80710,PC,Player Character,Getting Zidan back alive is reward enough.,지단을 살려서 데려온 것만으로도 충분해요.,q1_katriana,x0_d1_didgoodtny,,,,0,0
+80711,PC,Player Character,Give it to Zidan. He deserves it for what he's been through.,지단에게 주세요. 고생한 걸 생각하면 받을 만해요.,q1_katriana,x0_d1_didgoodsml,,,,0,0

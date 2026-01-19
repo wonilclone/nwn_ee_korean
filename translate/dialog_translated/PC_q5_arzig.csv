@@ -1,0 +1,93 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72761,PC,Player Character,I need the Rod of Ruler.,지배자의 단장이 필요해.,q5_arzig,,q5_sc_talked_jum,,,0,0
+72762,PC,Player Character,Fine. Goodbye. ,좋아. 안녕.,q5_arzig,,,,,0,0
+72763,PC,Player Character,<StartCheck>[Persuade - Intimidate]</Start> Is the rod really worth your life?,<StartCheck>[설득 - 위협]</Start> 그 단장이 정말 네 목숨만큼 가치 있어?,q5_arzig,xp1_didnotgdsm,,,,0,0
+72764,PC,Player Character,<StartCheck>[Persuade]</Start> What if I could work out a deal between you and the Master Jumper?,<StartCheck>[설득]</Start> 내가 너와 뜀박장 사이에 거래를 성사시킬 수 있다면?,q5_arzig,,,,,0,0
+72765,PC,Player Character,That's telling him. ,잘 말했어.,q5_arzig,,,,,0,0
+72766,PC,Player Character,"No, Chief, you will do what the Master Jumper says.","안 돼, 족장. 넌 뜀박장이 말하는 대로 해야 해.",q5_arzig,,,,,0,0
+72767,PC,Player Character,"No, Chief, you must compromise as well.","안 돼, 족장. 너도 타협해야 해.",q5_arzig,,,,,0,0
+72768,PC,Player Character,<StartAction>[Wait for Master Jumper to respond.]</Start>,<StartAction>[뜀박장이 대답하길 기다린다.]</Start>,q5_arzig,,,,,0,0
+72769,PC,Player Character,"What do you want from the Master Jumper, Chief?","뜀박장한테 뭘 원해, 족장?",q5_arzig,,,,,0,0
+72770,PC,Player Character,"No, Chief, Master Jumper is the one who decides. ","안 돼, 족장. 결정하는 건 뜀박장이야.",q5_arzig,,,,,0,0
+72771,PC,Player Character,Calm yourself. Let's see what Master Jumper has to say about it. ,진정해. 뜀박장이 뭐라고 하는지 들어보자.,q5_arzig,,,,,0,0
+72772,PC,Player Character,"What do you think, Master Jumper? ","어떻게 생각해, 뜀박장?",q5_arzig,,,,,0,0
+72773,PC,Player Character,You had better shut up and listen! ,입 다물고 들어!,q5_arzig,,,,,0,0
+72774,PC,Player Character,"Yes, the Chief must have the power!","맞아, 족장이 권력을 가져야 해!",q5_arzig,,,,,0,0
+72775,PC,Player Character,"Maybe I was a little hasty. Would you reconsider, Chief? ","내가 좀 성급했나 봐. 다시 생각해 줄래, 족장?",q5_arzig,,,,,0,0
+72776,PC,Player Character,Be quiet Klumph! ,"클룸프, 조용히 해!",q5_arzig,,,,,0,0
+72777,PC,Player Character,Calm down or I'll tie you down!,진정해! 안 그러면 묶어버릴 거야!,q5_arzig,,,,,0,0
+72778,PC,Player Character,But I don't know what to do with it.,그런데 그걸 어떻게 써야 할지 모르는데.,q5_arzig,,,,,0,0
+72779,PC,Player Character,You could have just done that in the first place. ,처음부터 그렇게 했어야지.,q5_arzig,,,,,0,0
+72780,PC,Player Character,I'll do my best. ,최선을 다하지.,q5_arzig,,,,,0,0
+72781,PC,Player Character,<StartCheck>[Persuade]</Start> He cannot be the chief without power. ,<StartCheck>[설득]</Start> 권력 없이는 족장이 될 수 없어.,q5_arzig,,,,,0,0
+72782,PC,Player Character,"That is a little open. Master Jumper, what do you think? ","좀 애매한데. 뜀박장, 어떻게 생각해?",q5_arzig,,,,,0,0
+72783,PC,Player Character,That sounds fair.,공정해 보이는데.,q5_arzig,,,,,0,0
+72784,PC,Player Character,Enough! We won't get anywhere with insults. ,그만! 욕설로는 아무 데도 못 가.,q5_arzig,,,,,0,0
+72785,PC,Player Character,That would solve a lot of problems. ,그러면 많은 문제가 해결될 텐데.,q5_arzig,,,,,0,0
+72786,PC,Player Character,<StartAction>[Snicker]</Start>,<StartAction>[킥킥거린다.]</Start>,q5_arzig,,,,,0,0
+72787,PC,Player Character,"Don't get upset. Klumph, that'll be enough. ","화내지 마. 클룸프, 그 정도면 충분해.",q5_arzig,,,,,0,0
+72788,PC,Player Character,"Klumph, show some respect for your Chief!","클룸프, 족장님께 예의를 갖춰!",q5_arzig,,,,,0,0
+72789,PC,Player Character,Once per year. ,1년에 한 번.,q5_arzig,,,,,0,0
+72790,PC,Player Character,Once every two months. ,2개월에 한 번.,q5_arzig,,,,,0,0
+72791,PC,Player Character,Once per month.,한 달에 한 번.,q5_arzig,,,,,0,0
+72792,PC,Player Character,Are we in agreement then?,그럼 합의한 거야?,q5_arzig,,,,,0,0
+72793,PC,Player Character,No. You get to live. ,아니. 넌 살 수 있어.,q5_arzig,,,,,0,0
+72794,PC,Player Character,You get your rod back. ,단장을 돌려받는 거지.,q5_arzig,,,,,0,0
+72795,PC,Player Character,What do you want? ,뭘 원해?,q5_arzig,,,,,0,0
+72796,PC,Player Character,"It's about time, now give him the rod and let's go.","이제 됐어. 단장 주고 가자.",q5_arzig,,,,,0,0
+72797,PC,Player Character,"Good, now, Master Jumper, is there anything you want?","좋아. 이제 뜀박장, 원하는 게 있어?",q5_arzig,,,,,0,0
+72798,PC,Player Character,That's terrible. You can't just give him a wife!,끔찍하네. 아내를 그냥 줄 순 없잖아!,q5_arzig,,,,,0,0
+72799,PC,Player Character,That sounds like a good deal.,좋은 거래인 것 같은데.,q5_arzig,,,,,0,0
+72800,PC,Player Character,Just get the rod and let's get going. ,단장이나 받고 가자.,q5_arzig,,,,,0,0
+72801,PC,Player Character,What will your sister say?,네 여동생은 뭐라고 할까?,q5_arzig,,,,,0,0
+72802,PC,Player Character,I can't believe this. ,믿을 수가 없네.,q5_arzig,,,,,0,0
+72803,PC,Player Character,What do you mean you'll give him a wife? ,아내를 준다는 게 무슨 뜻이야?,q5_arzig,,,,,0,0
+72804,PC,Player Character,Once per week.,일주일에 한 번.,q5_arzig,,,,,0,0
+72805,PC,Player Character,"Hey, no threats. Let's try to work this out amicably.","야, 협박은 안 돼. 우호적으로 해결하자.",q5_arzig,,,,,0,0
+72806,PC,Player Character,Do you really want to die Master Jumper?,"뜀박장, 정말 죽고 싶어?",q5_arzig,x0_d1_,,,,0,0
+72807,PC,Player Character,<StartCheck>[Persuade]</Start> You can trust me with it.,<StartCheck>[설득]</Start> 나한테 맡겨도 믿을 수 있어.,q5_arzig,,,,,0,0
+72808,PC,Player Character,I was just exploring.,그냥 탐험 중이었어.,q5_arzig,,,,,0,0
+72809,PC,Player Character,You just make sure they are careful too. Goodbye. ,네들도 조심하도록 해. 안녕.,q5_arzig,,,,,0,0
+72810,PC,Player Character,I will be careful. Goodbye.,조심할게. 안녕.,q5_arzig,,,,,0,0
+72811,PC,Player Character,I want to ask you some questions.,몇 가지 질문하고 싶어.,q5_arzig,,,,,0,0
+72812,PC,Player Character,I don't have any more questions.,더 이상 질문 없어.,q5_arzig,,,,,0,0
+72813,PC,Player Character,I am going now.,이제 갈게.,q5_arzig,,,,,0,0
+72814,PC,Player Character,I want to see Tymofarrar.,티모파라르를 보고 싶어.,q5_arzig,,con_arzig_4,,,0,0
+72815,PC,Player Character,I have questions about you.,너에 대해 질문이 있어.,q5_arzig,,,,,0,0
+72816,PC,Player Character,Enough about you. ,너에 대한 건 그만.,q5_arzig,,,,,0,0
+72817,PC,Player Character,Are you happy being the chief?,족장이 되어서 행복해?,q5_arzig,,,,,0,0
+72818,PC,Player Character,Could a non-kobold become the chief?,코볼트가 아닌 자도 족장이 될 수 있어?,q5_arzig,,,,,0,0
+72819,PC,Player Character,How did you become the chief?,어떻게 족장이 됐어?,q5_arzig,,,,,0,0
+72820,PC,Player Character,You beat up all the other contenders?,다른 경쟁자들을 다 때려눕혔어?,q5_arzig,,,,,0,0
+72821,PC,Player Character,That's great!,멋지네!,q5_arzig,,,,,0,0
+72822,PC,Player Character,That's horrible!,끔찍하네!,q5_arzig,,,,,0,0
+72823,PC,Player Character,They kill the others?,다른 놈들을 죽인다고?,q5_arzig,,,,,0,0
+72824,PC,Player Character,And you had the best speech?,그리고 네가 연설을 제일 잘했어?,q5_arzig,,,,,0,0
+72825,PC,Player Character,I have questions about your caves.,네 동굴에 대해 질문이 있어.,q5_arzig,,,,,0,0
+72826,PC,Player Character,Enough about your caves. ,동굴에 대한 건 그만.,q5_arzig,,,,,0,0
+72827,PC,Player Character,Where do you keep your valuables?,귀중품은 어디에 보관해?,q5_arzig,,,,,0,0
+72828,PC,Player Character,When did you come to these caves?,이 동굴엔 언제 왔어?,q5_arzig,,,,,0,0
+72829,PC,Player Character,I have questions about Tymofarrar.,티모파라르에 대해 질문이 있어.,q5_arzig,,,,,0,0
+72830,PC,Player Character,Can I go see Tymofarrar? ,티모파라르를 만나러 갈 수 있어?,q5_arzig,,con_arzig_4,,,0,0
+72831,PC,Player Character,Why is there a massive boulder in the way to Tymofarrar? ,티모파라르로 가는 길에 왜 거대한 바위가 있어?,q5_arzig,,con_q5arzig_1,,,0,0
+72832,PC,Player Character,Why is Tymofarrar here?,티모파라르는 왜 여기 있어?,q5_arzig,,,,,0,0
+72833,PC,Player Character,Enough about the dragon. ,용 얘기는 그만.,q5_arzig,,,,,0,0
+72834,PC,Player Character,How old is Tymofarrar?,티모파라르는 몇 살이야?,q5_arzig,,,,,0,0
+72835,PC,Player Character,I have come to see Tymofarrar.,티모파라르를 만나러 왔어.,q5_arzig,,con_arzig_4,,,0,0
+72836,PC,Player Character,The Master Jumper could help me. ,뜀박장이 날 도와줄 수 있을 거야.,q5_arzig,,q5_sc_tlk_klumph,,,0,0
+72837,PC,Player Character,Because of the massive boulder?,그 거대한 바위 때문에?,q5_arzig,,con_q5arzig_1,,,0,0
+72838,PC,Player Character,You will let me go see him! ,나 그를 만나게 해줘!,q5_arzig,,,,,0,0
+72839,PC,Player Character,Why is that impossible?,왜 불가능해?,q5_arzig,,,,,0,0
+72840,PC,Player Character,Why won't they listen to you? ,왜 네 말을 안 들어?,q5_arzig,,,,,0,0
+72841,PC,Player Character,You are the chief. Make them listen.,넌 족장이야. 듣게 만들어.,q5_arzig,,,,,0,0
+72842,PC,Player Character,What is a Master Jumper? ,뜀박장이 뭐야?,q5_arzig,,,,,0,0
+72843,PC,Player Character,Who is the Master Jumper?,뜀박장은 누구야?,q5_arzig,,,,,0,0
+72844,PC,Player Character,Could I use the rod?,내가 단장을 쓸 수 있을까?,q5_arzig,,,,,0,0
+72845,PC,Player Character,Why did you want to see Tymofarrar?,왜 티모파라르를 만나려고 했어?,q5_arzig,,,,,0,0
+72846,PC,Player Character,Where is the Master Jumper?,뜀박장은 어디 있어?,q5_arzig,,,,,0,0
+72847,PC,Player Character,"<StartCheck>[Persuade]</Start> You will let the Master Jumper help me, or else you will die.","<StartCheck>[설득]</Start> 뜀박장이 날 돕게 하지 않으면, 너 죽어.",q5_arzig,,,,,0,0
+72848,PC,Player Character,The Master Jumper is dead.,뜀박장이 죽었어.,q5_arzig,,con_arzig_5,,,0,0
+72849,PC,Player Character,Goodbye.,안녕.,q5_arzig,,,,,0,0
+72850,PC,Player Character,That's disgusting.,역겨워.,q5_arzig,,,,,0,0
+72851,PC,Player Character,No.,아니.,q5_arzig,,,,,0,0
+72852,PC,Player Character,A kobold? You have got to be kidding!,코볼트라고? 농담하는 거겠지!,q5_arzig,,,,,0,0

@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+91412,PC,Player Character,<StartAction>Automatic</Start> My adventures speak for themselves.,<StartAction>자동</Start> 내 모험이 스스로 증명합니다.,bk_levelup,bk_auto_level,,,,0,0
+91413,PC,Player Character,<StartAction>Manual</Start> I wish to make my own choices.,<StartAction>수동</Start> 직접 선택하고 싶습니다.,bk_levelup,,,,,0,0
+104092,PC,Player Character,"""Carry on, soldier.""","""계속하게, 병사.""",bat1artillery,,,,,0,0
+104093,PC,Player Character,"""Fire at will.""","""자유 사격.""",bat1artillery,act_q2afire_will,,,,0,0
+104094,PC,Player Character,"""Concentrate your fire on the enemy's catapults.""","""적의 투석기에 화력을 집중하게.""",bat1artillery,act_q2afire_cats,,,,0,0
+104095,PC,Player Character,"""Concentrate your fire in front of the City Gates.""","""성문 앞에 화력을 집중하게.""",bat1artillery,act_q2afire_gate,,,,0,0
+104099,PC,Player Character,"""Carry on, soldier.""","""계속하게, 병사.""",bat1cleric,,,,,0,0
+104100,PC,Player Character,"""I need you to heal those in the right inner tower.""","""오른쪽 내측 탑의 부상자들을 치료하게.""",bat1cleric,act_q2aord_rgti2,,,,0,0
+104101,PC,Player Character,"""I need you to heal those in the right outer tower.""","""오른쪽 외측 탑의 부상자들을 치료하게.""",bat1cleric,act_q2aord_rgto2,,,,0,0
+104102,PC,Player Character,"""I need you to heal those in the left inner tower.""","""왼쪽 내측 탑의 부상자들을 치료하게.""",bat1cleric,act_q2aord_lfti2,,,,0,0
+104103,PC,Player Character,"""I need you to heal those in the left outer tower.""","""왼쪽 외측 탑의 부상자들을 치료하게.""",bat1cleric,act_q2aord_lfto2,,,,0,0
+104104,PC,Player Character,"""I need you to heal those in the courtyard.""","""안뜰의 부상자들을 치료하게.""",bat1cleric,act_q2aord_gate2,,,,0,0
+104108,PC,Player Character,"""Carry on, soldier.""","""계속하게, 병사.""",bat1sword,,,,,0,0
+104109,PC,Player Character,"""I need your unit to defend the right inner tower.""","""오른쪽 내측 탑을 방어하게.""",bat1sword,act_q2aord_rigti,con_bat1sword_1,,,0,0
+104110,PC,Player Character,"""I need your unit to defend the left inner tower.""","""왼쪽 내측 탑을 방어하게.""",bat1sword,act_q2aord_lefti,con_bat1sword_1,,,0,0
+104111,PC,Player Character,"""I need your unit to defend the right outer tower.""","""오른쪽 외측 탑을 방어하게.""",bat1sword,act_q2aord_rigto,con_bat1sword_1,,,0,0
+104112,PC,Player Character,"""I need your unit to defend the left outer tower.""","""왼쪽 외측 탑을 방어하게.""",bat1sword,act_q2aord_lefto,con_bat1sword_1,,,0,0
+104113,PC,Player Character,"""Position your squad near the inner gates.""","""내성문 근처에 배치하게.""",bat1sword,act_q2aord_inngt,con_bat1sword_2,,,0,0
+104114,PC,Player Character,"""Position your squad near the outer gates.""","""외성문 근처에 배치하게.""",bat1sword,act_q2aord_outgt,con_bat1sword_2,,,0,0
+104115,PC,Player Character,"""I need your unit to defend the courtyard.""","""안뜰을 방어하게.""",bat1sword,act_q2aord_gate,,,,0,0
+104120,PC,Player Character,"""Carry on, soldier.""","""계속하게, 병사.""",bat2sword,,,,,0,0
+104121,PC,Player Character,"""I need your unit to defend the north part of town against surprise attack.""","""마을 북쪽을 기습 공격에 대비해 방어하게.""",bat2sword,act_q2aord_north,,,,0,0
+104122,PC,Player Character,"""I need your unit to go defend the south east.""","""남동쪽을 방어하게.""",bat2sword,act_q2aord_se,,,,0,0
+104123,PC,Player Character,"""I need your unit to go defend the south west.""","""남서쪽을 방어하게.""",bat2sword,act_q2aord_sw,,,,0,0
+104124,PC,Player Character,"""I need your unit to stay here and defend the seer.""","""이곳에 남아 선견자를 방어하게.""",bat2sword,act_q2aord_seer,,,,0,0
+104126,PC,Player Character,<StartAction>Do nothing.</Start>,<StartAction>아무것도 하지 않습니다.</Start>,bk_big_hole,,,,,0,0
+104127,PC,Player Character,<StartAction>Leap into the hole.</Start>,<StartAction>구멍으로 뛰어듭니다.</Start>,bk_big_hole,bk_big_hole,,,,0,0

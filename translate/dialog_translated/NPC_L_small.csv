@@ -1,0 +1,131 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12629,Creature,Lich,Lich,리치,NW_LICHBOSS,,,,,0,0
+12632,Creature,Lion,Lion,사자,M1S5ALION,,,,,0,0
+12633,Creature,Luskan Guard,Luskan Guard,러스칸 경비병,M2Q05CLUSKANGUAR,,,,,0,0
+12668,Creature,Lizardfolk Chieftain,Lizardfolk Chieftain,도마뱀인 족장,NW_OLDCHIEFA,,,,,0,0
+12671,Creature,Lizardfolk Warrior,Lizardfolk Warrior,도마뱀인 전사,2Q6K_LIZARDFOLK,,,,,0,0
+19399,Dialog,LEVER,From all around you comes the scraping of metal bars slipping back into their stone sheaths. The cell doors have opened.,사방에서 금속 창살이 석제 받침대 속으로 미끄러져 들어가는 소리가 들립니다. 감방문이 열렸습니다.,M1Q2C_LEVER,,,,,0,0
+45709,Dialog,LEVER,You are not strong enough to budge this lever.,당신은 이 지렛대를 움직일 만큼 충분히 강하지 않습니다.,M3Q04D06_LEVER,,,,,0,0
+25398,Creature,Lady Zemeria,Lady Zemeria,제메리아 부인,M1Q5ZAMERIA,,,,,0,0
+25399,Creature,Lord Eldan,Lord Eldan,엘단 경,M1S5ELDAN,,,,,0,0
+26326,Creature,Lord Nasher Alagondar,Lord Nasher,영주 나셰르,M1Q6A01NASHER,,,,,0,0
+26327,Creature,Lord Nasher Alagondar,Alagondar,알라곤다,M1Q6A01NASHER|M4Q01A04NASH,,,,,0,0
+27715,Dialog,LUSKSMITH,Aye? I've little enough stock left... and barely enough metal t' forge. State yer business or move on.,그래? 남은 재고도 거의 없고... 대장일할 쇠도 겨우 있어. 용무를 말하든지 가던 길이나 가시오.,2Q4A_LUSKSMITH,,,,,0,0
+27716,Dialog,LUSKSMITH,"Aye, then, off ye go an' leave me be.","그래, 그럼 가시게나.",2Q4A_LUSKSMITH,,,,,0,0
+27717,Dialog,LUSKSMITH,"I used to have one of the finest armories in Luskan. As it is, I've been forced to set up shop here with a... rudimentary stock.","러스칸에서 가장 훌륭한 무기고 중 하나를 가지고 있었지. 지금은 여기서 이... 기초적인 재고로 장사하게 됐소.",2Q4A_LUSKSMITH,,,,,0,0
+27718,Dialog,LUSKSMITH,"I'll sell what I has, though, before them thugs come an' take it from me o'er my dead body.","하지만 그 깡패들이 와서 내 시체를 넘어 가져가기 전에 있는 건 팔아치울 거요.",2Q4A_LUSKSMITH,,,,,0,0
+27719,Dialog,LUSKSMITH,Aye. Ye can look but ye can't touch... 'tis all of the finest manufacture.,그래. 볼 순 있지만 만질 순 없소... 모두 최고급 제작품이니까.,2Q4A_LUSKSMITH,nw_d1_shopsmit2,,,,0,0
+27720,Dialog,LUSKSMITH,"I be not in the mood to answer your questions. Find someone else t' bother, if ye not be a paying customer.","질문에 답할 기분이 아니요. 돈 쓰는 고객이 아니라면 귀찮게 할 다른 사람 찾아가시게.",2Q4A_LUSKSMITH,,,,,0,0
+32519,Creature,Larana,"Ah, <FullName>, you have awoken at last! I feel privileged to finally meet you! The Hero of Neverwinter, here before me!","아, <FullName>, 드디어 깨어나셨군요! 마침내 만나 뵙게 되어 영광입니다! 네버윈터의 영웅이 제 앞에 계시다니!",M2Q1ELARANA,,,,,0,0
+32520,Creature,Larana,"I'm getting ahead of myself. You must excuse me, I'm just so excited to meet you!","제가 너무 앞서가고 있네요. 양해해 주세요. 만나 뵙게 되어 너무 흥분됐어요!",M2Q1ELARANA,,,,,0,0
+32521,Creature,Larana,Welcome to Port Llast! I trust you had a safe journey from Neverwinter. My name is Larana and Lady Aribeth has given me the honor of greeting you upon your arrival.,"라스트 항구에 오신 걸 환영합니다! 네버윈터에서 무사히 오셨으리라 믿습니다. 제 이름은 라라나이고, 아리베스 경께서 도착하시는 당신을 맞이하는 영광을 제게 주셨습니다.",M2Q1ELARANA,m2q1larana001,,,,0,0
+32522,Creature,Larana,Let me say again how much I look up to you! We've all heard of the heroic deeds you performed in Neverwinter and how you saved so many lives from that terrible plague.,"다시 한번 말씀드리지만 당신을 정말 존경합니다! 네버윈터에서 행하신 영웅적인 업적과 끔찍한 역병으로부터 수많은 생명을 구하신 이야기를 모두 들었습니다.",M2Q1ELARANA,,,,,0,0
+32523,Creature,Larana,"Oh, I am sorry, <sir/madam>. I certainly don't want to waste the time of someone who has great deeds to perform. It is just such a pleasure to meet you.","오, 죄송합니다, <sir/madam>. 위대한 업적을 이루실 분의 시간을 낭비하고 싶지 않습니다. 단지 만나 뵙게 되어 너무 기쁩니다.",M2Q1ELARANA,,,,,0,0
+32524,Creature,Larana,"I wish not to be a bother, <sir/madam>. I realize that you have important things to do. It's just such a pleasure to meet you!","폐를 끼치고 싶지 않습니다, <sir/madam>. 중요한 일이 있으시다는 걸 알고 있습니다. 단지 만나 뵙게 되어 너무 기쁩니다!",M2Q1ELARANA,,,,,0,0
+32525,Creature,Larana,I know that you must be anxious to speak with Lady Aribeth and begin the search for the cult. She is anxious to speak with you too!,아리베스 경과 이야기하고 교단 수색을 시작하고 싶어 하시리라 알고 있습니다. 경께서도 당신과 이야기하고 싶어 하세요!,M2Q1ELARANA,,,,,0,0
+32526,Creature,Larana,"You can find Lady Aribeth and her associate, Aarin Gend, in the next room, near the exit of this building. Please go and see her right away.","아리베스 경과 그녀의 동료 아린 겐드는 다음 방, 이 건물 출구 근처에 계십니다. 바로 찾아뵙도록 하세요.",M2Q1ELARANA,,,,,0,0
+32553,Creature,Larana,"Greetings, Hero of Neverwinter! Please pause for a moment and speak with me.","안녕하세요, 네버윈터의 영웅님! 잠시 멈춰서 저와 이야기해 주세요.",M2Q1ELARANA,,,,,0,0
+32554,Creature,Larana,"Hello, again <FirstName>! If you have not yet spoken to Aribeth, you should.","또 뵙네요, <FirstName>! 아직 아리베스와 이야기하지 않으셨다면, 찾아뵙는 게 좋을 겁니다.",M2Q1ELARANA,,,,,0,0
+40882,Creature,Larana,Larana,라라나,M2Q1ELARANA,,,,,0,0
+58994,Creature,Larana,I wish you well on your quest to find the source of that horrible plague. I am sure that you will succeed and prove to be a hero once again. Goodbye!,끔찍한 역병의 근원을 찾는 탐색에 행운이 함께하길 바랍니다. 반드시 성공하시고 다시 한번 영웅이 되실 거라 확신합니다. 안녕히 가세요!,M2Q1ELARANA,,,,,0,0
+40683,Creature,Londa,Londa,론다,2Q4A01_LONDA,,,,,0,0
+40804,Creature,Leah,Leah,리아,M2Q05CFARMERWIFE,,,,,0,0
+40928,Creature,Lerk the Troll,Lerk the Troll,트롤 레르크,M2Q3WANLERK,,,,,0,0
+40931,Creature,Lieutenant Angelo,Lieutenant,중위,M2Q6CANGE,,,,,0,0
+40932,Creature,Lieutenant Angelo,Angelo,앤젤로,M2Q6CANGE,,,,,0,0
+40947,Creature,Lerner,Lerner,러너,M2Q6CLERN,,,,,0,0
+43343,Creature,Lodar,"I'm here, yer honor.","여기 있습니다, 각하.",MERC13Q11,,,,,0,0
+43345,Creature,Lodar,"Well, sir, it was night and Griff was outside the barracks. All of a sudden we heard this shout, and we run out and Griff and that Uthgardt there are going at each other with weapons drawn.","네, 각하, 밤이었고 그리프는 막사 밖에 있었습니다. 갑자기 고함 소리가 들려서 뛰쳐나갔더니 그리프와 저기 있는 우스가르트인이 무기를 뽑고 서로 싸우고 있었습니다.",MERC13Q11,,,,,0,0
+43346,Creature,Lodar,"Before we could step in, that savage stabs Griff right in the gut and runs off. We ran to get the cleric, but by then it were too late. Griff was gone. That savage killed him!","우리가 말리기도 전에 저 야만인이 그리프의 배를 찔러버리고는 도망쳤습니다. 성직자를 부르러 달려갔지만 이미 너무 늦었습니다. 그리프는 죽었습니다. 저 야만인이 죽였어요!",MERC13Q11,m3q01a01iglagb06,,,,0,0
+43347,Creature,Lodar,"I'm ready for your questions, <Lord/Lady> <FirstName>.","질문 받을 준비가 되었습니다, <Lord/Lady> <FirstName>.",MERC13Q11,,,,,0,0
+43351,Creature,Lodar,"No, they were already going at it by the time we got there.","아니요, 우리가 도착했을 때는 이미 싸우고 있었습니다.",MERC13Q11,m3q01a01res1elc1,,,,0,0
+43352,Creature,Lodar,He was pretty drunk. ,꽤 술에 취해 있었습니다. ,MERC13Q11,m3q01a01res1elc2,,,,0,0
+43353,Creature,Lodar,"I guess so. Maybe. Don't know if that's a good excuse, though.","그런 것 같습니다. 아마도요. 하지만 그게 좋은 변명이 되는지는 모르겠습니다.",MERC13Q11,m3q01a01iglagb08,,,,0,0
+43354,Creature,Lodar,"Yeah, I guess. Could be Griff started it. I don't know, I wasn't there.","네, 그럴 수 있죠. 그리프가 먼저 시작했을 수도 있습니다. 모르겠습니다. 제가 거기 없었으니까요.",MERC13Q11,m3q01a01iglagb07,,,,0,0
+43355,Creature,Lodar,"Yeah. He wanted to mess that Uthgardt up so he could beat him at cards, you know? Make him not think straight.","네. 카드 게임에서 이기려고 우스가르트인을 망가뜨리려 했어요. 제대로 생각하지 못하게 만들려고요.",MERC13Q11,m3q01a01res1elc3,,,,0,0
+43356,Creature,Lodar,"Well, it was his fault the Uthgardt was doped up. Maybe if Rolgan was in his right mind he wouldn't have killed Griff.","글쎄요, 우스가르트인이 약에 취한 건 그의 잘못입니다. 롤간이 제정신이었다면 그리프를 죽이지 않았을지도 모릅니다.",MERC13Q11,m3q01a01iglagb09,,,,0,0
+43357,Creature,Lodar,"He didn't like them much. He was always complaining about them as 'damn savages' and 'filthy Uthgardt.' Always picking fights with them, looking for trouble.","그들을 별로 좋아하지 않았습니다. 항상 '빌어먹을 야만인들'이니 '더러운 우스가르트인들'이니 불평했죠. 항상 싸움을 걸고 문제를 찾았습니다.",MERC13Q11,m3q01a01res1elc4,,,,0,0
+43358,Creature,Lodar,"Wouldn't be the first time he let his temper get the better of him. Always was a bit of a hot-head, especially when it came to those Uthgardt. He hated them something fierce.","성질을 이기지 못한 게 처음이 아닙니다. 항상 좀 다혈질이었죠. 특히 우스가르트인들에 관해서는요. 무척 증오했습니다.",MERC13Q11,m3q01a01iglagb10,,,,0,0
+43359,Creature,Lodar,I guess he could have thought that. He didn't like the Uthgardt much. He would have jumped at a chance to kill one of them off if he thought he could get away with it.,"그렇게 생각했을 수도 있습니다. 우스가르트인을 별로 좋아하지 않았으니까요. 무사히 넘어갈 수 있다고 생각했다면 그들 중 하나를 죽일 기회를 놓치지 않았을 겁니다.",MERC13Q11,m3q01a01iglagb27,,,,0,0
+47045,Creature,Lodar,Lodar,로다,MERC13Q11,,,,,0,0
+45126,Dialog,LIZS,You don't have a slave collar! The Mistresses will remove my tongue if they see me speaking to you! Go away! ,노예 목걸이가 없잖아요! 여주인들이 당신과 이야기하는 걸 보면 제 혀를 자를 거예요! 가세요! ,M3Q02G08LIZS,,,,,0,0
+45127,Dialog,LIZS,"Urg idi bacaac, ad picat wab! Noba wade?","우르그 이디 바카크, 아드 피캇 왑! 노바 와데?",M3Q02G08LIZS,,,,,0,0
+45128,Dialog,LIZS,Moab uhtadea.,모압 우타데아.,M3Q02G08LIZS,,,,,0,0
+45129,Dialog,LIZS,"Speak to Lokar, our leader. He often helps escaped slaves like you, but I am not brave enough to take such a risk.","우리 지도자 로카에게 이야기하세요. 당신 같은 탈출 노예를 자주 돕지만, 저는 그런 위험을 감수할 만큼 용감하지 못합니다.",M3Q02G08LIZS,,,,,0,0
+45130,Dialog,LIZS,Don't be a fool! The Mistresses are the Creator Race! Beside them we humans are nothing! ,바보 같은 소리 마세요! 여주인들은 창조자 종족이에요! 그들 앞에서 우리 인간은 아무것도 아니에요! ,M3Q02G08LIZS,,,,,0,0
+45131,Dialog,LIZS,Don't be a fool! The Mistresses are of the Creator Race! Beside them <race> kind is nothing!,바보 같은 소리 마세요! 여주인들은 창조자 종족이에요! 그들 앞에서 <race> 종족은 아무것도 아니에요!,M3Q02G08LIZS,,,,,0,0
+45132,Dialog,LIZS,Aiding an escaped slave is punishable by death! I can't be seen with you!,탈출 노예를 돕는 건 사형입니다! 당신과 함께 있는 걸 들켜선 안 돼요!,M3Q02G08LIZS,,,,,0,0
+45133,Dialog,LIZS,"I don't what manner of creature you are! You aren't human, and you don't look like any dwarf or elf I've ever seen. But the Mistresses are the Creator Race! Beside them your kind is nothing!","당신이 어떤 생명체인지 모르겠어요! 인간도 아니고, 제가 본 드워프나 엘프 같지도 않아요. 하지만 여주인들은 창조자 종족이에요! 그들 앞에서 당신네 종족은 아무것도 아니에요!",M3Q02G08LIZS,,,,,0,0
+45166,Dialog,LOKA,"You must be careful! I will help you if I can, but if the Masters see us speaking they will cut out my tongue.","조심해야 합니다! 가능하다면 도와드리겠지만, 주인들이 우리가 이야기하는 걸 보면 제 혀를 자를 겁니다.",M3Q02G08LOKA,,,,vs_nwncomm3_051,0,0
+45167,Dialog,LOKA,Ulak sabba por! Poad hisa ul pathcea fea gal!,울락 사바 포르! 포아드 히사 울 파스체아 페아 갈!,M3Q02G08LOKA,,,,vs_nwncomm3_050,0,0
+45168,Dialog,LOKA,Jula va pekito. Rawa asagus.,줄라 바 페키토. 라와 아사구스.,M3Q02G08LOKA,,,,,0,0
+45169,Dialog,LOKA,"I am Lokar, leader of the slaves. I often help those who have escaped the chains of the Creator Race, as you have obviously done.","저는 로카, 노예들의 지도자입니다. 당신처럼 창조자 종족의 사슬을 벗어난 이들을 자주 돕습니다.",M3Q02G08LOKA,,,,,0,0
+45170,Dialog,LOKA,I wish there was more I could do for you. Every slave that escapes is a victory for our people and a blow against the tyranny of the Creator Race. May luck be with you.,더 해드릴 수 있는 게 있었으면 좋겠습니다. 탈출하는 노예 한 명 한 명이 우리 민족의 승리이자 창조자 종족의 폭정에 대한 타격입니다. 행운이 함께하길.,M3Q02G08LOKA,,,,,0,0
+45171,Dialog,LOKA,"Of course, I understand now. You are simple-minded. It's probably from the beatings of your cruel Mistress. No wonder you have risked your very life to escape.","물론이죠. 이제 이해합니다. 당신은 단순한 정신을 가지셨군요. 아마 잔인한 여주인의 구타 때문일 겁니다. 목숨을 걸고 탈출하신 게 놀랍지 않네요.",M3Q02G08LOKA,,,,,0,0
+45172,Dialog,LOKA,"Of course, I understand now. You have lost your mind, probably from the beatings of your cruel Mistress. No wonder you have risked everything to escape.","물론이죠. 이제 이해합니다. 정신을 잃으셨군요. 아마 잔인한 여주인의 구타 때문일 겁니다. 모든 걸 걸고 탈출하신 게 놀랍지 않네요.",M3Q02G08LOKA,,,,,0,0
+45173,Dialog,LOKA,"I admit your appearance is strange to me, but the Mistresses' empire extends to distant, exotic lands. Often they bring back slaves of races and cultures never before seen in this part of the world.","당신의 외모가 낯설다는 건 인정합니다만, 여주인들의 제국은 먼 이국 땅까지 뻗어 있습니다. 종종 이 지역에서 한 번도 본 적 없는 종족과 문화의 노예들을 데려오곤 하죠.",M3Q02G08LOKA,,,,,0,0
+45174,Dialog,LOKA,"I find it far more likely you are one of these than a visitor from the future. But I do not wish to upset you. If you claim to be from a distant time, I will not dispute it. I only want to help you.","미래에서 온 방문자보다는 그런 사람 중 하나일 가능성이 훨씬 높다고 봅니다. 하지만 당신을 화나게 하고 싶지는 않습니다. 먼 시대에서 왔다고 하신다면 반박하지 않겠습니다. 그저 돕고 싶을 뿐입니다.",M3Q02G08LOKA,,,,,0,0
+45175,Dialog,LOKA,You have returned. Is there something else you wish to know about the vault we are building or the magical wards protecting it?,돌아오셨군요. 우리가 건설 중인 금고나 그것을 보호하는 마법 결계에 대해 더 알고 싶으신 게 있나요?,M3Q02G08LOKA,,,,vs_nwncomm3_052,0,0
+45176,Dialog,LOKA,"I will tell you what I can, if it will help against the Creator Race that enslaves us.","우리를 노예로 삼는 창조자 종족에 맞서는 데 도움이 된다면, 아는 대로 말씀드리겠습니다.",M3Q02G08LOKA,,,,,0,0
+45177,Dialog,LOKA,"I can tell you only what is common knowledge. The Lizard People rule the world with a terrible scaled fist. They enslave us lesser races, forcing us to serve the reptilian Mistresses until our deaths.","상식적인 것만 말씀드릴 수 있습니다. 도마뱀인이 무시무시한 비늘 주먹으로 세상을 지배합니다. 우리 하등 종족을 노예로 삼아 죽을 때까지 파충류 여주인들을 섬기도록 강요하죠.",M3Q02G08LOKA,,,,,0,0
+45178,Dialog,LOKA,"They are savage and cruel, and care nothing for those that serve them. Many slaves have perished during the building of this complex beneath the lashes of the Mistresses. I am afraid that is all I know of the Creator Race.","그들은 야만적이고 잔인하며, 섬기는 이들을 전혀 신경 쓰지 않습니다. 이 복합시설을 건설하는 동안 여주인들의 채찍 아래 많은 노예가 목숨을 잃었습니다. 창조자 종족에 대해 제가 아는 건 그게 전부입니다.",M3Q02G08LOKA,,,,,0,0
+45179,Dialog,LOKA,The Mistresses are forcing us to build a great fortress complex. At its heart we are constructing an enormous vault that will be protected by various magical wards once it is complete - though what our Masters plan to place inside the vault I cannot say.,여주인들이 우리에게 거대한 요새 복합시설을 건설하도록 강요하고 있습니다. 중심부에는 완공되면 다양한 마법 결계로 보호될 거대한 금고를 건설 중입니다 - 하지만 주인들이 금고 안에 무엇을 넣을 계획인지는 모르겠습니다.,M3Q02G08LOKA,,,,,0,0
+45180,Dialog,LOKA,"I am sorry, I have not heard of such a thing. But I am only a slave, born into servitude. My knowledge is limited to what the Mistresses tell me. This Word may indeed be here. ","죄송하지만 그런 건 들어본 적이 없습니다. 하지만 저는 그저 노예로, 예속 상태로 태어났습니다. 제 지식은 여주인들이 말해주는 것에 한정됩니다. 그 말씀이 정말 여기 있을지도 모르죠. ",M3Q02G08LOKA,,,,,0,0
+45181,Dialog,LOKA,"I am afraid I cannot tell you much more about the vault as I have not worked on it myself. There are other slaves who are more involved in the construction of the central vault. If you find them, perhaps they will have answers I do not.","제가 직접 작업하지 않았기 때문에 금고에 대해 더 많이 말씀드릴 수 없습니다. 중앙 금고 건설에 더 많이 관여한 다른 노예들이 있습니다. 그들을 찾으신다면 제가 모르는 답을 알고 있을 겁니다.",M3Q02G08LOKA,,,,,0,0
+45182,Dialog,LOKA,"Take this ring before you go. Show it to the other slaves in the complex, and they will be more willing to risk themselves to help you. ","가시기 전에 이 반지를 가져가세요. 복합시설의 다른 노예들에게 보여주면 위험을 무릅쓰고 당신을 도울 의향이 더 클 겁니다. ",M3Q02G08LOKA,m3q2g08loka3,,,,0,0
+45183,Dialog,LOKA,Right now the vault is unguarded and empty - you could enter it if you wish. But once this complex is complete the vault will be sealed by the power of three magical wards.,지금은 금고가 무방비 상태이고 비어 있습니다 - 원하신다면 들어갈 수 있습니다. 하지만 이 복합시설이 완공되면 금고는 세 개의 마법 결계의 힘으로 봉인될 것입니다.,M3Q02G08LOKA,,,,,0,0
+45184,Dialog,LOKA,"I do not know much about the magical wards, but I suspect that once they are activated it will be impossible to enter the vault without first deactivating them. Is there anything else I can tell you?","마법 결계에 대해서는 잘 모르지만, 일단 활성화되면 먼저 비활성화하지 않고는 금고에 들어갈 수 없을 거라고 생각합니다. 더 말씀드릴 게 있을까요?",M3Q02G08LOKA,,,,,0,0
+46222,Creature,Lords' Alliance Wizard,Soon the hordes will overrun this place. And our bones? Scraps for the vultures is all they'll be.,곧 무리가 이곳을 점령할 것입니다. 그리고 우리 뼈는? 독수리 먹이 조각이 될 뿐이죠.,M3Q2AWIZARD,,,,,0,0
+60943,Creature,Lords' Alliance Wizard,Lords' Alliance Wizard,영주 연합 마법사,M3Q2AWIZARD,,,,,0,0
+46973,Creature,Lillian Cambridge,Lillian,릴리안,LILLIAN3Q11,,,,,0,0
+46974,Creature,Lillian Cambridge,Cambridge,캠브리지,LILLIAN3Q11,,,,,0,0
+46977,Creature,Lokar,Lokar,로카,LOKAR3Q21,,,,,0,0
+49099,Creature,Luskan Wizard,Luskan Wizard,러스칸 마법사,LUSKANWIZARD|M4Q1B13WIZARD,,,,,0,0
+49114,Creature,Luskan Archer,Luskan Archer,러스칸 궁수,M4Q1LUSKANARCHER|M4Q1LUSKANARCHER2|M4_LUSKANARCH_11,,,,,0,0
+49116,Creature,Luskan Soldier,Luskan Soldier,러스칸 병사,M4Q1LUSKAN|M4Q1LUSKANS|M4_LUSKANSOLD_11,,,,,0,0
+57369,Creature,Lydia,Lydia,리디아,M1Q1ABEGGFEM,,,,,0,0
+59457,Creature,Luskan Sergeant,Luskan Sergeant,러스칸 상사,M2Q05CLUSKANSERG,,,,,0,0
+60266,Creature,Lizardfolk Archer,Lizardfolk Archer,도마뱀인 궁수,2Q6K_LIZARDFOLK02,,,,,0,0
+60894,Dialog,LIZARDBOSS,Hiss!,쉿!,M3_LIZARDBOSS,nw_d1_attonend02,,,,0,0
+61235,Dialog,LIZARDBOSS,"Impudent slave, you will die!","건방진 노예, 죽을 것이다!",M4_LIZARDBOSS,,,,,0,0
+60935,Creature,Lords' Alliance Soldier,Lords' Alliance Captain,영주 연합 대장,M3Q2A10_ALLY,,,,,0,0
+60936,Creature,Lords' Alliance Soldier,Lords' Alliance Soldier,영주 연합 병사,M3Q2A10_ALLY,,,,,0,0
+63136,Creature,Lothar,Lothar,로타르,M1Q3MELDGUEST,,,,,0,0
+65106,Dialog,LICH,Long have I waited for life to return to these bones. None shall stop me now!,이 뼈에 생명이 돌아오기를 오래 기다렸다. 이제 누구도 날 막지 못하리라!,M2Q5I_LICH,,,,,0,0
+65559,Creature,Lizardfolk Mage,Lizardfolk Mage,도마뱀인 마법사,HUMANOID_REPT001,,,,,0,0
+65753,Creature,Lich Warrior,Lich Warrior,리치 전사,M3Q3CSKELWAR01|M3Q3CSKELWAR02,,,,,0,0
+65927,Creature,Luskan Captain,Luskan Captain,러스칸 대장,M4_LUSKANCAPT_12,,,,,0,0
+68419,Creature,Luskan Animal Handler,Luskan Animal Handler,러스칸 동물 조련사,LUSKANANIMALHANDLER,,,,,0,0
+68421,Creature,Luskan Assassin,Luskan Assassin,러스칸 암살자,LUSKANASSASSIN,,,,,0,0
+68423,Creature,Luskan Cleric,Luskan Cleric,러스칸 성직자,LUSKANCLERIC,,,,,0,0
+68427,Creature,Luskan Frost Giant,Luskan Frost Giant,러스칸 서리 거인,NW_GNTFROST,,,,,0,0
+68428,Creature,Luskan Monk,Luskan Monk,러스칸 수도사,M4LUSKANMONK,,,,,0,0
+82318,Dialog,LEOPARD,The leopard looks at you with intelligent eyes. The fact that it hisses and pulls its ears back flat tells you it does not care for what it sees.,표범이 지적인 눈으로 당신을 바라봅니다. 쉿 소리를 내며 귀를 뒤로 납작하게 눕히는 것을 보니 보는 게 마음에 들지 않는 모양입니다.,Q5A_LEOPARD,,,,,0,0
+82319,Dialog,LEOPARD,"The leopard swishes its tail agitatedly and watches you with wary eyes, obviously not caring for your presence.",표범이 초조하게 꼬리를 흔들며 경계하는 눈으로 당신을 지켜봅니다. 명백히 당신의 존재가 마음에 들지 않는 것 같습니다.,Q5A_LEOPARD,,,,,0,0
+82320,Dialog,LEOPARD,The leopard regards you with mild curiosity and does not shy away from you. After a moment it pretends you don't exist.,표범이 약간의 호기심으로 당신을 바라보며 피하지 않습니다. 잠시 후 당신이 존재하지 않는 척합니다.,Q5A_LEOPARD,,,,,0,0
+82321,Dialog,LEOPARD,"This handsome leopard is Jasmeena's animal companion. He regards you with intelligent, wary eyes and sends an empathetic greeting.",이 늠름한 표범은 자즈미나의 동물 동료입니다. 지적이고 경계하는 눈으로 당신을 바라보며 공감적인 인사를 보냅니다.,Q5A_LEOPARD,,,,,0,0
+82322,Dialog,LEOPARD,He acknowledges your departure and returns his attention to guarding his mistress.,그는 당신의 출발을 인정하고 주인을 지키는 일에 다시 주의를 돌립니다.,Q5A_LEOPARD,,,,,0,0
+82323,Dialog,LEOPARD,The leopard has little to say that is of use... other than the fact that there is an ill wind coming from the great valleys beyond the mountain. It carries with it the scent of death and unnatural beasts.,표범은 유용한 말이 거의 없습니다... 산 너머 거대한 계곡에서 불길한 바람이 불어온다는 사실 말고는요. 그 바람은 죽음과 부자연스러운 짐승들의 냄새를 운반합니다.,Q5A_LEOPARD,,,,,0,0
+82324,Dialog,LEOPARD,"A human male crawled into the camp this morning who stank of that place. The leopard cannot be more specific as to the nature of the beasts, but has been on guard constantly since he first smelled them.","오늘 아침 그곳 냄새를 풍기는 인간 남자가 야영지로 기어들어왔습니다. 표범은 그 짐승들의 본질에 대해 더 구체적으로 말할 수 없지만, 처음 그 냄새를 맡은 이후로 계속 경계 중입니다.",Q5A_LEOPARD,,,,,0,0
+82325,Dialog,LEOPARD,"The leopard responds to your empathic communication with images from his mind. He explains that his mistress is a druid of the desert realms, and that while she stays in this camp she is not like the other humans here.","표범이 당신의 공감적 의사소통에 마음속 이미지로 응답합니다. 그는 주인이 사막 영역의 드루이드이며, 이 야영지에 머물고 있지만 여기 다른 인간들과는 다르다고 설명합니다.",Q5A_LEOPARD,,,,,0,0
+82326,Dialog,LEOPARD,He has little else to add other than his great affection for her. He warns you not to commit any violence against her or the people of the camp. His mistress commands powerful magic which she will use to defend them.,그녀에 대한 큰 애정 외에는 덧붙일 말이 거의 없습니다. 그는 당신에게 그녀나 야영지 사람들에게 폭력을 행사하지 말라고 경고합니다. 그의 주인은 그들을 방어하는 데 사용할 강력한 마법을 다룹니다.,Q5A_LEOPARD,,,,,0,0
+82327,Dialog,LEOPARD,You fish into your pack for a few strips of dried meat. The leopard sniffs at them but declines. It prefers live prey.,배낭에서 말린 고기 몇 조각을 꺼냅니다. 표범이 냄새를 맡지만 거절합니다. 살아있는 먹이를 선호합니다.,Q5A_LEOPARD,,,,,0,0
+94829,Creature,LaFontaine,LaFontaine,라폰테인,CUT1_LAFONTAINE,,,,,0,0
+97177,Dialog,LOSTNAMES,"A sea of names has been etched into the ice, buried between its countless layers. Many of them are so deep that you can only make out their dim outlines amidst the soft blue light.","수많은 이름의 바다가 얼음에 새겨져 있으며, 끝없는 층 사이에 묻혀 있습니다. 그 중 많은 것들이 너무 깊어서 부드러운 푸른 빛 속에서 희미한 윤곽만 겨우 알아볼 수 있습니다.",H2_LOSTNAMES,,,,,0,0
+100098,Creature,Lazy the Quarry Imp,Lazy the Quarry Imp,게으름뱅이 채석장 임프,H2_LAZYBODY,,,,,0,0
+100128,Creature,Lava Beast,Lava Beast,용암 짐승,HX_FIREELEM,,,,,0,0
+105111,Dialog,LIZARD1,"This lizard folk looks you up and down, then hisses out: ""A sssurfacer? Odd. Are you a ssslaver, then, up on your sssun-ssscorched world? Or have you come here to watch the pit fightsss?""","이 도마뱀인이 당신을 위아래로 훑어본 뒤 쉿 소리를 내며 말합니다: ""쉿쉿... 지상인? 이상한데. 그럼 당신은 노예상인가, 스스... 태양에 그을린 세계에서? 아니면 투기장 구경하러 왔나?""",Q2D6LIZARD1,nw_d1_talklevel,,,,0,0
+105112,Dialog,LIZARD1,"""Goodbye, sssurfacer.""","""안녕, 쉿... 지상인.""",Q2D6LIZARD1,,,,,0,0
+105113,Dialog,LIZARD1,"His reptilian eyes narrow in suspicion. ""I don't like questionsss. If you plan to trade thrallsss with the illithid, you should learn to keep information to yourself, sssurfacer.""","파충류 눈이 의심스럽게 가늘어집니다. ""질문은 쓰읏... 좋아하지 않아. 일리시드와 노예 거래할 생각이라면, 정보는 자기만 알고 있는 법을 배워야 해, 지상인.""",Q2D6LIZARD1,,,,,0,0
+105114,Dialog,LIZARD1,"""The illithid do not come to thisss place. It could be they understand we need a place to be away from their thought-probing and ssstrange appearance, and they respect our privacy.""","""일리시드는 쉿... 이 장소에 오지 않아. 우리가 그들의 생각 탐지와 이상한 외모에서 벗어날 장소가 필요하다는 걸 이해하고, 스스... 우리 사생활을 존중하는 것 같아.""",Q2D6LIZARD1,,,,,0,0
+105115,Dialog,LIZARD1,"""Or it could be they are afraid of the golem at the bar. Their mind powersss have no effect on a construct. In any case, thisss is the one place in Zorvak'Mur the illithid will never go.""","""아니면 술집 골렘을 두려워하는 걸지도. 그들의 정신 능력은 쓰읏... 구조물에 효과가 없거든. 어쨌든 쉿쉿... 여기는 조르박무르에서 일리시드가 절대 가지 않는 유일한 장소야.""",Q2D6LIZARD1,,,,,0,0
+105116,Dialog,LIZARD1,"The lizard laughs at you, flicking his forked tongue in and out. ""Only the illithid are given accessss to the Elder Brain. They won't let you in, sssurfacer.""","도마뱀인이 갈라진 혀를 날름거리며 당신을 비웃습니다. ""엘더 브레인에 접근할 수 있는 건 스스... 일리시드뿐이야. 들여보내 주지 않을 거야, 쉿... 지상인.""",Q2D6LIZARD1,,,,,0,0
+105117,Dialog,LIZARD1,"""You could sssspeak to the guards by the teleporter in the sssoutheast, if you're desperate. But they're more likely to send you off to the fighting pitsss than take you to the Elder Brain.""","""정말 다급하다면 쓰읏... 남동쪽 순간이동기 근처 경비병들에게 말해볼 수 있어. 하지만 엘더 브레인으로 데려가기보다 쉿쉿... 투기장으로 보낼 가능성이 높지.""",Q2D6LIZARD1,,,,,0,0
+105118,Dialog,LIZARD1,"""Sssome like to watch their purchases battle each other in combat, though I think it is a foolish waste of merchandise.""","""쉿쉿... 어떤 이들은 구입한 것들끼리 전투하는 걸 보는 걸 좋아하지. 하지만 난 스스... 어리석은 상품 낭비라고 생각해.""",Q2D6LIZARD1,,,,,0,0
+105119,Dialog,LIZARD1,"""Even if your thrall winsss, the illithid destroy their mindsss in preparation for the contest. They turn them into sssavage animalsss. It makesss for better fightsss.""","""네 노예가 이긴다 해도, 쉿... 일리시드는 경기 준비로 그들의 정신을 파괴해. 야만적인 동물로 만들지. 스스... 그래야 더 나은 싸움이 되니까.""",Q2D6LIZARD1,,,,,0,0
+105120,Dialog,LIZARD1,"""If you are interested in thisss ssspectacle, you should ssspeak to the illithid pit boss in the center of town. He will handle any wagersss you wish to make.""","""이 구경거리에 관심 있다면, 쉿쉿... 마을 중앙의 일리시드 투기장 관리인에게 말해봐. 하고 싶은 내기는 뭐든 쓰읏... 처리해 줄 거야.""",Q2D6LIZARD1,,,,,0,0
+105121,Dialog,LIZARD1,"""You ssshould check out the auction lot in the center of town, then. I'll be going there myself, later. If you purchase a thrall, they will prepare them for the pitsss at no extra charge.""","""그럼 쉿... 마을 중앙의 경매장을 확인해 봐. 나도 나중에 거기 갈 거야. 노예를 구입하면, 스스... 추가 비용 없이 투기장 준비를 해줄 거야.""",Q2D6LIZARD1,,,,,0,0
+105122,Dialog,LIZARD1,"The lizard folk nods at you by way of greeting. Though you are of a different race, he obviously prefers your company to that of the illithid. ""Welcome back, sssurfacer.""","도마뱀인이 인사로 당신에게 고개를 끄덕입니다. 당신이 다른 종족이지만, 분명 일리시드보다는 당신의 동행을 선호합니다. ""쉿쉿... 다시 왔군, 지상인.""",Q2D6LIZARD1,,,,,0,0
+105123,Dialog,LIZARD1,"""I heard the sssounds of battle outside. That's why I'm ssstaying in here... I'm a ssslaver, not a warrior."" ","""밖에서 전투 소리가 들렸어. 쉿... 그래서 여기 머물러 있는 거야... 난 스스... 노예상인이지, 전사가 아니거든."" ",Q2D6LIZARD1,,,,,0,0
+105131,Dialog,LIZARD2,"Ssspeak to my master, if you wish. But don't try anything.","원한다면 내 주쓰인과 이야기해. 하지만 이상한 짓은 하지 마.",Q2D6LIZARD2,,,,,0,0
+107808,Creature,Lavoera,Lavoera,라보에라,Q2DLAVOERA|Q3C_LAVOERA,,,,,0,0

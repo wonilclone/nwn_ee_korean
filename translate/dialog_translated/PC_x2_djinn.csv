@@ -1,0 +1,36 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+87042,PC,Player Character,"""Try disappearing on me again and I'll destroy you!""","또 사라지면 파괴해 버릴 거야!",x2_djinn,,,,,0,0
+87043,PC,Player Character,"""You will obey me, djinni! I own you!""","내 말을 들어, 지니! 네 주인은 나야!",x2_djinn,,,,,0,0
+87044,PC,Player Character,"""I'm sorry we got off on the wrong foot.""","첫 만남이 좋지 않아서 미안해.",x2_djinn,,,,,0,0
+87045,PC,Player Character,"""This isn't a rescue - you're my slave now!""","이건 구출이 아니야 - 넌 이제 내 노예야!",x2_djinn,,,,,0,0
+87046,PC,Player Character,"""Who are you?""","넌 누구야?",x2_djinn,,,,,0,0
+87047,PC,Player Character,"""A djinni? Does this mean you'll grant me a wish?""","지니라고? 그럼 소원을 들어주는 거야?",x2_djinn,,,,,0,0
+87048,PC,Player Character,"""So is there some kind of reward for rescuing you?""","그래서 널 구해 준 보상 같은 게 있어?",x2_djinn,,,,,0,0
+87049,PC,Player Character,"""A djinni? Then I order you to do my bidding!""","지니라고? 그럼 내 명령에 따라!",x2_djinn,,,,,0,0
+87050,PC,Player Character,"<StartCheck>[Intelligence]</Start> ""Are you a djinni? Does this mean I get a wish?""","<StartCheck>[지능]</Start> 지니야? 그럼 소원을 들어주는 거야?",x2_djinn,,[지능 높음],,,0,0
+87051,PC,Player Character,"""You better come up with something better than a lousy rock!""","형편없는 돌 말고 더 나은 걸 내놔!",x2_djinn,,,,,0,0
+87052,PC,Player Character,"""Is that it?""","그게 다야?",x2_djinn,,,,,0,0
+87053,PC,Player Character,"""Thank you.""","고마워.",x2_djinn,,,,,0,0
+87054,PC,Player Character,"""I don't have time for this.""","이럴 시간 없어.",x2_djinn,,,,,0,0
+87055,PC,Player Character,"""That doesn't sound like much of a reward.""","별로 대단한 보상 같지 않은데.",x2_djinn,,,,,0,0
+87056,PC,Player Character,"""Your shop? What are you talking about?""","네 가게? 무슨 말이야?",x2_djinn,,,,,0,0
+87057,PC,Player Character,"""That's all for now.""","지금은 그게 다야.",x2_djinn,,,,,0,0
+87058,PC,Player Character,"""I want to ask you something else.""","다른 거 물어볼게.",x2_djinn,,,,,0,0
+87059,PC,Player Character,"""Why didn't you just destroy the drow?""","왜 그냥 드로우를 파괴하지 않았어?",x2_djinn,,,,,0,0
+87060,PC,Player Character,"""Why didn't you just stop answering the summons?""","왜 그냥 소환에 응하지 않았어?",x2_djinn,,,,,0,0
+87061,PC,Player Character,"""I'd like to see your inventory now.""","지금 물건을 보고 싶어.",x2_djinn,,,,,0,0
+87062,PC,Player Character,"""No, that's all for now.""","아니, 지금은 그게 다야.",x2_djinn,,,,,0,0
+87063,PC,Player Character,"""I think I'll just kill you and take your inventory!""","그냥 널 죽이고 물건을 빼앗을까 봐!",x2_djinn,act_q2cdjinthrt,con_q2cdjinthrt,,,0,0
+87064,PC,Player Character,"""I want to ask you some questions.""","몇 가지 질문하고 싶어.",x2_djinn,,,,,0,0
+87065,PC,Player Character,"""Tell me about your store.""","네 가게에 대해 말해 줘.",x2_djinn,,,,,0,0
+87066,PC,Player Character,"""I want to know more about you, Volkarion.""","볼카리온, 너에 대해 더 알고 싶어.",x2_djinn,,,,,0,0
+87067,PC,Player Character,"""I want to ask you about something else.""","다른 것에 대해 물어볼게.",x2_djinn,,,,,0,0
+87068,PC,Player Character,"""Why run a store? What use does a djinni have for gold?""","왜 가게를 운영해? 지니가 금화를 뭐에 쓰는데?",x2_djinn,,,,,0,0
+87069,PC,Player Character,"""Why did you decide to become a merchant?""","왜 상인이 되기로 했어?",x2_djinn,,,,,0,0
+87070,PC,Player Character,"""You said before you are of royal blood?""","전에 왕족의 피를 가졌다고 했지?",x2_djinn,,,,,0,0
+87071,PC,Player Character,"""Do you know why the drow have come to Undermountain?""","드로우가 왜 언더마운틴에 왔는지 알아?",x2_djinn,,x2_djinn_chpt1,,,0,0
+87072,PC,Player Character,"""What can you tell me about Undermountain?""","언더마운틴에 대해 뭘 알려줄 수 있어?",x2_djinn,,x2_djinn_chpt1,,,0,0
+87073,PC,Player Character,"""Do you know what happened to Halaster?""","할라스터에게 무슨 일이 있었는지 알아?",x2_djinn,,x2_djinn_chpt1,,,0,0
+87074,PC,Player Character,"""Let me see what you have in stock.""","재고에 뭐가 있는지 보여 줘.",x2_djinn,,,,,0,0
+101572,PC,Player Character,"""Do you know anything about the Hells?""","지옥에 대해 아는 거 있어?",x2_djinn,,x2_djinn_chpt3,,,0,0
+101573,PC,Player Character,"""Can you tell me anything about the Underdark?""","언더다크에 대해 뭐라도 알려줄 수 있어?",x2_djinn,,x2_djinn_chpt2,,,0,0

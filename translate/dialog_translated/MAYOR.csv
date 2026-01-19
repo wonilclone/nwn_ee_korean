@@ -1,0 +1,30 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36674,Dialog,MAYOR,"Greetings, to you. I am Mobley, the mayor of Charwood. What can I do for you?","안녕하시오. 나는 그을린숲의 촌장 모블리요. 무엇을 도와드릴까?",M2Q3G02MAYOR,m2q3g_mayor001,,,vs_nclerim3_055,0,0
+36675,Dialog,MAYOR,Yes? I am Mayor Mobley. What can I help you with?,"네? 나는 모블리 촌장이오. 무엇을 도와드릴까?",M2Q3G02MAYOR,m2q3g_mayor001,,,vs_nclerim3_056,0,0
+36676,Dialog,MAYOR,"What does the like of you want? I am Mayor Mobley, and I daresay I have little patience for vagrants.","당신 같은 사람이 뭘 원하는 거요? 나는 모블리 촌장인데, 부랑자를 상대할 인내심은 없소.",M2Q3G02MAYOR,m2q3g_mayor001,,,vs_nclerim3_057,0,0
+36677,Dialog,MAYOR,"Of course, of course, I've always time for the simpler folk. 'Tis a fine morn for chatting.","물론이지, 물론이지, 평범한 분들을 위한 시간은 항상 있소. 담소하기 좋은 아침이군.",M2Q3G02MAYOR,,,,,0,0
+36678,Dialog,MAYOR,"Always willing to answer questions about our fair town. It is a fine morn for a chat, too.","우리 마을에 대한 질문엔 언제든 답할 준비가 되어있소. 담소하기 좋은 아침이기도 하고.",M2Q3G02MAYOR,,,,,0,0
+36679,Dialog,MAYOR,"Oh, you won't find anything like that here. The Lords Jhareg keep us safe from changes like that. From everything.","오, 그런 건 여기서 못 찾을 거요. 자렉 영주님들이 그런 변화로부터 우릴 지켜주시오. 모든 것으로부터.",M2Q3G02MAYOR,,,,,0,0
+36680,Dialog,MAYOR,"Goodbye. Please, visit anytime. Charwood is a friendly place.","안녕히. 언제든 오시오. 그을린숲은 친절한 곳이오.",M2Q3G02MAYOR,,,,,0,0
+36681,Dialog,MAYOR,"Well, on the whole it is a fine place. The Lords Jhareg keep us safe and we have very little to worry about. Very little... ","글쎄, 전체적으로 좋은 곳이오. 자렉 영주님들이 우릴 지켜주시니 걱정할 게 거의 없소. 거의 없어...",M2Q3G02MAYOR,,,,,0,0
+36682,Dialog,MAYOR,"There is never trouble here. The Lords Jhareg keep us safe, and that is all we need to know. That's all.","여기엔 절대 문제가 없소. 자렉 영주님들이 우릴 지켜주시니 그것만 알면 되오. 그게 다요.",M2Q3G02MAYOR,,,,,0,0
+36683,Dialog,MAYOR,I'm not sure I understand. I haven't laid eyes on anyone new until this very second. Have we met?,"무슨 말인지 모르겠소. 바로 지금까지 새 사람을 본 적이 없는데. 우리 만난 적 있소?",M2Q3G02MAYOR,,,,,0,0
+36684,Dialog,MAYOR,"I mean, I'm certian we haven't... I've had no cause to hear stories for... ages... ","그러니까, 분명 만난 적 없을 텐데... 이야기를 들은 게... 오래... 됐구먼...",M2Q3G02MAYOR,,,,,0,0
+36685,Dialog,MAYOR,I'm sorry... Very unlike a statesman to go on like that. What can I do for you?,"미안하오... 정치인답지 않게 횡설수설했군. 무엇을 도와드릴까?",M2Q3G02MAYOR,,,,,0,0
+36686,Dialog,MAYOR,"Oh, you are mistaken. It's a crisp fine morning that should ripen into a splendid midwinter's eve.","오, 착각하셨소. 상쾌한 아침이고 멋진 한겨울 저녁이 될 거요.",M2Q3G02MAYOR,,,,,0,0
+36687,Dialog,MAYOR,"I... Look, there is nothing amiss here. Time just passes slowly in a small village. Just tell your tale and go.","나... 보시오, 여기엔 아무 문제가 없소. 작은 마을에선 시간이 느리게 갈 뿐이오. 할 이야기나 하고 가시오.",M2Q3G02MAYOR,,,,,0,0
+36688,Dialog,MAYOR,"There is no threat! I don't want you making trouble out of nothing! If you disturb the Lords Jhareg, everything will end!","위협은 없소! 없는 문제를 만들지 마시오! 자렉 영주님들을 방해하면 모든 게 끝나오!",M2Q3G02MAYOR,,,,,0,0
+36689,Dialog,MAYOR,Lord Karlat Jhareg and his brother... what was his name... they carved a castle out of the cliffside and formed this town around it.,"칼랏 자렉 영주님과 그의 동생이... 이름이 뭐였더라... 절벽에서 성을 깎아내고 그 주위에 이 마을을 세웠소.",M2Q3G02MAYOR,,,,,0,0
+36690,Dialog,MAYOR,"We are protected, and that is all that matters. We have had to make certain sacrifices and listen to their stories... but we are protected... ","우린 보호받고 있고, 그게 중요한 전부요. 일정한 희생을 치르고 그분들 이야기를 들어야 했지만... 보호받고 있으니...",M2Q3G02MAYOR,,,,,0,0
+36691,Dialog,MAYOR,"That's not for me to say. Look, I really should'nt talk about them. Do you have other questions?","내가 할 말이 아니오. 보시오, 그분들에 대해 정말 말하면 안 되오. 다른 질문 있소?",M2Q3G02MAYOR,,,,,0,0
+36692,Dialog,MAYOR,"<StartCheck>[Success]</Start> I suppose, though I do not wish to make trouble. We have been safe from the stories for so long... ","<StartCheck>[성공]</Start> 그렇겠지, 문제를 일으키고 싶진 않지만. 우린 이야기들로부터 오랫동안 안전했는데...",M2Q3G02MAYOR,,,,,0,0
+36693,Dialog,MAYOR,"<StartCheck>[Failure]</Start> I don't think that would be a good idea. Please, if you have no other questions, just leave us be.","<StartCheck>[실패]</Start> 좋은 생각이 아닌 것 같소. 제발, 다른 질문이 없으면 그냥 놔두시오.",M2Q3G02MAYOR,,,,,0,0
+36694,Dialog,MAYOR,I... have not heard... in so long... I suppose I could be enticed to speak... ,"나... 들어본 게... 너무 오래돼서... 말할 마음이 생길 것도 같소...",M2Q3G02MAYOR,,,,,0,0
+36695,Dialog,MAYOR,"I... don't think that I find your approach very... attractive, madam. Please, just ask your questions and leave.","나는... 당신의 접근 방식이 그다지... 마음에 들지 않소, 부인. 제발 질문만 하고 떠나시오.",M2Q3G02MAYOR,,,,,0,0
+36696,Dialog,MAYOR,"I d-don't want trouble. I just... very well, but there is not that much to tell.","문-문제를 원하지 않소. 그냥... 좋소, 하지만 말할 게 그리 많지 않소.",M2Q3G02MAYOR,,,,,0,0
+36697,Dialog,MAYOR,Quint! It was Quint who took the children... A party in the castle... He was going to read them stories but... that was a lie. ,"퀸트! 아이들을 데려간 건 퀸트였소... 성에서 파티가 있었는데... 이야기를 읽어주겠다고 했지만... 그건 거짓말이었소.",M2Q3G02MAYOR,,,,,0,0
+36698,Dialog,MAYOR,"Something happened to them, the children, the castle. That Quint... he did it. He made it all go wrong. He's the one that ruined it all.","아이들한테, 성에 무슨 일이 생겼소. 그 퀸트가... 그자가 한 거요. 모든 걸 잘못되게 만들었소. 다 망친 건 그자요.",M2Q3G02MAYOR,,,,,0,0
+36699,Dialog,MAYOR,Look... I... I have nothing else to say. It's beyond me... If you don't mind... I really need to get back to... something... ,"보시오... 나... 더 할 말이 없소. 내가 알 바 아니오... 괜찮다면... 정말 돌아가야... 뭔가...",M2Q3G02MAYOR,,,,,0,0
+36700,Dialog,MAYOR,Good. Leave. It is best left alone. Nothing must change. Nothing can change... I... I must get back to... something.,"좋소. 떠나시오. 내버려두는 게 최선이오. 아무것도 변하면 안 되오. 아무것도 변할 수 없소... 나... 돌아가야... 뭔가.",M2Q3G02MAYOR,,,,,0,0
+36701,Dialog,MAYOR,"NO! I mean... please, leave us to our lot. This does not concern you. You can't bring change. Changes would end things.","안 돼! 그러니까... 제발, 우리 운명은 그냥 놔두시오. 이건 당신과 상관없소. 변화를 가져오면 안 되오. 변화는 모든 걸 끝낼 거요.",M2Q3G02MAYOR,,,,,0,0
+36702,Dialog,MAYOR,"Oh, perhaps I just have a carefree manner. The Lords Jhareg worry so we don't have to. Yes, that's it. That's what he said... ","오, 아마 내가 태평한 성격인가 봐. 자렉 영주님들이 걱정해주시니 우린 안 해도 되오. 그래, 그거야. 그분이 그렇게 말씀하셨지...",M2Q3G02MAYOR,,,,,0,0

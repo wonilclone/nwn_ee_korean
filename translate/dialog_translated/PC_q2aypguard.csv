@@ -1,0 +1,21 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+93961,PC,Player Character,Okay. Goodbye.,그럼. 잘 가.,q2aypguard,,,,,0,0
+93962,PC,Player Character,Where you arm be? ,너 팔 어디 있어?,q2aypguard,,[지능 낮음],,,0,0
+93963,PC,Player Character,What happened to your arm?,네 팔에 무슨 일이 있었어?,q2aypguard,,[지능 보통],,,0,0
+93964,PC,Player Character,Why no one can enter? ,왜 아무도 못 들어가?,q2aypguard,,[지능 낮음],,,0,0
+93965,PC,Player Character,Why can't anyone enter it?,왜 아무도 들어갈 수 없는 거야?,q2aypguard,,[지능 보통],,,0,0
+93966,PC,Player Character,What be in well? ,우물에 뭐 있어?,q2aypguard,,[지능 낮음],,,0,0
+93967,PC,Player Character,What's in the well?,우물에 뭐가 있는데?,q2aypguard,,[지능 보통],,,0,0
+93968,PC,Player Character,Okay. Goodbye.,그럼. 잘 가.,q2aypguard,,,,,0,0
+93969,PC,Player Character,Where you arm be? ,너 팔 어디 있어?,q2aypguard,,[지능 낮음],,,0,0
+93970,PC,Player Character,What happened to your arm?,네 팔에 무슨 일이 있었어?,q2aypguard,,[지능 보통],,,0,0
+93971,PC,Player Character,Me find shield. You name be on it.,나 방패 찾았어. 너 이름 써 있어.,q2aypguard,,con_q2aypguard7,,,0,0
+93972,PC,Player Character,I found this shield with your name on it.,네 이름이 새겨진 방패를 찾았어.,q2aypguard,,con_q2aypguard6,,,0,0
+93973,PC,Player Character,You takes me 50 gold and gets you arm back. ,너 금화 50개 받고 팔 되찾아.,q2aypguard,nw_d1_mid_good,con_q2aypguard4,,,0,0
+93974,PC,Player Character,"Here, take this 50 gold and get your arm back.","여기, 금화 50개 받고 네 팔 되찾아.",q2aypguard,nw_d1_mid_good,con_q2aypguard3,,,0,0
+93975,PC,Player Character,No thanks.,사양할게.,q2aypguard,,,,,0,0
+93976,PC,Player Character,Sure.,그래.,q2aypguard,,,,,0,0
+93977,PC,Player Character,"No, you keeps you gold. You needs it. ","아니, 너 금 가져. 너 필요해.",q2aypguard,nw_d1_small_good,[지능 낮음],,,0,0
+93978,PC,Player Character,"No, you keep your gold. You need it.","아니, 네 돈 가져. 네가 필요하잖아.",q2aypguard,nw_d1_small_good,[지능 보통],,,0,0
+93979,PC,Player Character,Me take you gold. ,나 너 금 가져갈게.,q2aypguard,nw_d1_small_evil,[지능 낮음],,,0,0
+93980,PC,Player Character,I'll be taking the gold. ,내가 그 돈 받을게.,q2aypguard,nw_d1_small_evil,[지능 보통],,,0,0

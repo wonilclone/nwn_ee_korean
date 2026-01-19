@@ -1,0 +1,36 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70047,PC,Player Character,Do you need some help?,도움 필요해?,q1dlodar,,,,,0,0
+70048,PC,Player Character,Forget it. You're on your own.,됐어. 혼자 알아서 해.,q1dlodar,,,,,0,0
+70049,PC,Player Character,I'll see what I can do.,뭘 할 수 있는지 볼게.,q1dlodar,,,,,0,0
+70050,PC,Player Character,Tell me why I should bother helping you.,왜 널 도와야 하는지 말해봐.,q1dlodar,xp1_didnotgdti,,,,0,0
+70051,PC,Player Character,"Fine, fine, I'll see what I can do.","알았어, 알았어, 뭘 할 수 있는지 볼게.",q1dlodar,,,,,0,0
+70052,PC,Player Character,That doesn't sound like a reason. I guess I'll be leaving.,그게 이유같이 안 들리는데. 그럼 갈게.,q1dlodar,,,,,0,0
+70053,PC,Player Character,"Come to think of it, maybe I should help the kobolds...","생각해보니, 코볼트들을 돕는 게 나을지도...",q1dlodar,x0_d1_dideviltny,,,,0,0
+70054,PC,Player Character,"Some kind of reward would be an incentive, you know.",뭔가 보상이 있으면 동기부여가 될 텐데.,q1dlodar,,,,,0,0
+70055,PC,Player Character,"If you haven't noticed, Drogan's not here.","못 봤나 본데, 드로건은 여기 없어.",q1dlodar,,,,,0,0
+70056,PC,Player Character,Have you tried talking with them?,코볼트들이랑 대화는 시도해봤어?,q1dlodar,,,,,0,0
+70057,PC,Player Character,And losing your cook is a bad thing?,요리사 잃는 게 나쁜 일이야?,q1dlodar,x0_d1_dideviltny,,,,0,0
+70058,PC,Player Character,Shouldn't the town guard handle this?,마을 경비가 처리해야 하는 거 아냐?,q1dlodar,,,,,0,0
+70059,PC,Player Character,So? I don't see this as my problem.,그래서? 이게 내 문제같이 안 보이는데.,q1dlodar,,,,,0,0
+70060,PC,Player Character,"Why don't you finish them off, then?",그럼 네가 마무리하면 되잖아?,q1dlodar,,,,,0,0
+70061,PC,Player Character,Hmmm. I need an herb that might be in your kitchen.,흠. 네 주방에 있을지도 모르는 약초가 필요해.,q1dlodar,,xp1_berryneed,,,0,0
+70062,PC,Player Character,I should go.,가봐야겠어.,q1dlodar,,,,,0,0
+70063,PC,Player Character,Get over it. Mara's dead. I found the body.,인정해. 마라는 죽었어. 시신을 찾았어.,q1dlodar,x0_d1_dideviltny,q1b_foundmara,,,0,0
+70064,PC,Player Character,I found Mara's body just outside of town. They killed her... I'm sorry.,마을 밖에서 마라의 시신을 찾았어. 죽였더라고... 유감이야.,q1dlodar,x0_d1_didgoodtny,q1b_foundmara,,,0,0
+70065,PC,Player Character,"50 gold?! Do better than that, or kobolds will be the least of your problems!","금화 50개?! 더 잘하는 게 좋을 거야, 아니면 코볼트가 문제의 전부가 아닐 테니까!",q1dlodar,x0_d1_dideviltny,,,,0,0
+70066,PC,Player Character,"<StartCheck>[Persuade]</Start> I'm sure you can do better than that, Lodar.","<StartCheck>[설득]</Start> 더 잘할 수 있을 거 같은데, 로다르.",q1dlodar,xp1_didnotgdti,,,,0,0
+70067,PC,Player Character,"50 gold would be fine, thanks.","금화 50개면 괜찮아, 고마워.",q1dlodar,,,,,0,0
+70068,PC,Player Character,"Actually, all I really need is some Helmthorn berries.","사실, 진짜 필요한 건 투구가시 열매야.",q1dlodar,,xp1_berryneed,,,0,0
+70069,PC,Player Character,No reward is necessary. I was happy to help.,보상은 필요 없어. 도울 수 있어서 기뻤어.,q1dlodar,x0_d1_didgoodsml,,,,0,0
+70070,PC,Player Character,Sounds good to me!,좋은데!,q1dlodar,xp1_didnotlawsm,,,,0,0
+70071,PC,Player Character,"No, I won't break my word to them. Let them go.","아니, 약속 어기지 않을 거야. 보내줘.",q1dlodar,x0_d1_didlawmed,,,,0,0
+70072,PC,Player Character,"That's a little bloodthirsty of you, isn't it?",좀 피에 굶주린 거 아냐?,q1dlodar,,,,,0,0
+70073,PC,Player Character,So then we're no better than they are?,그럼 우리가 코볼트들보다 나을 게 없잖아?,q1dlodar,,,,,0,0
+70074,PC,Player Character,"I suppose you're correct. Do what you wish, then.",네 말이 맞는 것 같아. 그럼 원하는 대로 해.,q1dlodar,,,,,0,0
+70075,PC,Player Character,"They're helpless, now. I won't permit a slaughter just to ease your anger.",코볼트들 무력해. 네 분노 풀려고 학살은 허락 안 해.,q1dlodar,xp1_didnotevlsm,,,,0,0
+70076,PC,Player Character,They have broken the law. We should imprison them.,법을 어겼어. 감옥에 가둬야지.,q1dlodar,x0_d1_didlawtny,,,,0,0
+70077,PC,Player Character,"I convinced them to surrender, didn't I? And they let Mara live?",항복하도록 설득했잖아? 그리고 마라는 살려뒀고?,q1dlodar,,,,,0,0
+70078,PC,Player Character,That's my point. There should be a difference between us and monsters.,그게 내 요점이야. 우리랑 괴물들 사이엔 차이가 있어야지.,q1dlodar,,,,,0,0
+70079,PC,Player Character,"Do what must be done, then. I'll not take part.",해야 할 일을 해. 난 참여 안 할 거야.,q1dlodar,,,,,0,0
+70080,PC,Player Character,"No, I suppose they should pay for what they've done...","아니, 한 일에 대가를 치러야 할 것 같긴 해...",q1dlodar,,,,,0,0
+70081,PC,Player Character,"Then yes, we let them go.","그럼 응, 보내주자.",q1dlodar,x0_d1_didgoodmed,,,,0,0

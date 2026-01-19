@@ -1,0 +1,54 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+21117,PC,Player Character,I am a member of the city guard under Aribeth's command.,아리베스 경 휘하의 도시 경비대원이다.,m1q3gateguard,,[지능 보통],,,0,0
+21118,PC,Player Character,Me is member of city guard.,나 도시 경비대.,m1q3gateguard,,[지능 낮음],,,0,0
+21119,PC,Player Character,Goodbye.,그럼 이만.,m1q3gateguard,,,,,0,0
+21120,PC,Player Character,Have you heard any rumors about where they might be?,그들이 어디 있을지에 대한 소문을 들은 적 있어?,m1q3gateguard,,[지능 보통],,,0,0
+21121,PC,Player Character,Have you heard anything at all about the creatures?,그 생명체들에 대해 뭐라도 들은 게 있어?,m1q3gateguard,,[지능 보통],,,0,0
+21122,PC,Player Character,Anything of interest I should know about in Blacklake?,검은호수에서 알아둘 만한 흥미로운 소식이 있나요?,m1q3gateguard,,[지능 보통],,,0,0
+21123,PC,Player Character,Do you hear stuff about where monsters is? ,괴물 어디 있는지 얘기 들었나?,m1q3gateguard,,[지능 낮음],,,0,0
+21124,PC,Player Character,"You hears anything about creatures, maybe?","괴물 얘기 들은 거 있나, 혹시?",m1q3gateguard,,[지능 낮음],,,0,0
+21125,PC,Player Character,Something goin' on in Blacklake?,검은호수에 무슨 일 있나?,m1q3gateguard,,[지능 낮음],,,0,0
+21126,PC,Player Character,"So, none of the nobles have reported seeing anything strange?","그럼, 아무 귀족도 이상한 걸 봤다고 신고하지 않았나요?",m1q3gateguard,,[지능 보통],,,0,0
+21127,PC,Player Character,<StartCheck>[Insight]</Start> Maybe you have heard of someone who might know more? Someone who's acting strangely.,<StartCheck>[통찰]</Start> 더 잘 아는 사람 얘기를 들은 적은? 요즘 수상하게 구는 사람이라든가.,m1q3gateguard,,nw_d2_wis_intn,,,0,0
+21128,PC,Player Character,"So, nobody see strange stuff? ","그럼, 아무도 이상한 거 못 봤나?",m1q3gateguard,,[지능 낮음],,,0,0
+21129,PC,Player Character,Who is Meldanen?,멜다넨이 누구야?,m1q3gateguard,,[지능 보통],,,0,0
+21130,PC,Player Character,Anyone you know of in the Blacklake district who needs help?,검은호수 지구에서 도움이 필요한 사람 알아?,m1q3gateguard,,[지능 보통],,,0,0
+21131,PC,Player Character,Are there any places of interest in the Blacklake district that I should visit?,검은호수 지구에서 가볼 만한 흥미로운 장소가 있어?,m1q3gateguard,,[지능 보통],,,0,0
+21132,PC,Player Character,Meldanen? Who Meldanen?,"멜다넨? 누구야, 멜다넨?",m1q3gateguard,,[지능 낮음],,,0,0
+21133,PC,Player Character,Me city guard. Anyone need help from city guard?,나 도시 경비대. 도움 필요한 사람 있나?,m1q3gateguard,,[지능 낮음],,,0,0
+21134,PC,Player Character,You know good places to go here?,여기 가볼 만한 좋은 데 있나?,m1q3gateguard,,[지능 낮음],,,0,0
+21135,PC,Player Character,Have you heard any leads on who might have been responsible for the 'accident'?,그 '사고'를 누가 저질렀는지 단서 들은 거 있나요?,m1q3gateguard,,[지능 보통],,,0,0
+21136,PC,Player Character,<StartCheck>[Insight]</Start> Don't you find it sort of strange that the 'accident' happened as soon as the creatures made it into the city?,<StartCheck>[통찰]</Start> 그 '사고'가 그 생명체들이 도시에 들어오자마자 일어났다는 게 이상하다고 생각하지 않나요?,m1q3gateguard,,nw_d2_wis_intn,,,0,0
+21137,PC,Player Character,You know maybe who set monsters free?,"괴물 풀어준 놈 누군지, 혹시 아나?",m1q3gateguard,,[지능 낮음],,,0,0
+21138,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 자, 말해도 해가 될 건 없잖아요.",m1q3gateguard,,[지능 보통],,,0,0
+21139,PC,Player Character,<StartCheck>[Persuade]</Start> Tell me. Will hurt nobody.,<StartCheck>[설득]</Start> 말해. 아무도 안 다쳐.,m1q3gateguard,,[지능 낮음],,,0,0
+21140,PC,Player Character,I've been commanded to find the Waterdhavian creatures. Have you heard anything about them?,워터딥 생명체들을 찾으라는 명령을 받았어. 그것들에 대해 들은 게 있어?,m1q3gateguard,,[지능 보통],,,0,0
+21141,PC,Player Character,Me supposed to find Waterdeep monsters. You hear something?,나 워터딥 괴물 찾으래. 뭐 들었나?,m1q3gateguard,,[지능 낮음],,,0,0
+21142,PC,Player Character,I want to ask you something else.,다른 걸 물어보고 싶어.,m1q3gateguard,,[지능 보통],,,0,0
+21143,PC,Player Character,Me have other question.,나 다른 질문 있어.,m1q3gateguard,,[지능 낮음],,,0,0
+21144,PC,Player Character,I need some directions.,길 좀 물어볼게.,m1q3gateguard,,[지능 보통],,,0,0
+21145,PC,Player Character,Me need directions.,나 길 알려줘.,m1q3gateguard,,[지능 낮음],,,0,0
+21146,PC,Player Character,Where is the nearest tavern?,가장 가까운 주점이 어디야?,m1q3gateguard,,[지능 보통],,,0,0
+21147,PC,Player Character,Where is the nearest temple?,가장 가까운 신전이 어디야?,m1q3gateguard,,[지능 보통],,,0,0
+21148,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비를 살 수 있는 곳이 있어?,m1q3gateguard,,[지능 보통],,,0,0
+21149,PC,Player Character,Are there any places of interest in the Blacklake district that I should visit?,검은호수 지구에서 가볼 만한 곳이 있어?,m1q3gateguard,,[지능 보통],,,0,0
+21150,PC,Player Character,Me look for place to drink.,나 술 마실 데 찾는다.,m1q3gateguard,,[지능 낮음],,,0,0
+21151,PC,Player Character,Me look for temple.,나 사원 찾는다.,m1q3gateguard,,[지능 낮음],,,0,0
+21152,PC,Player Character,Me need place to buy stuff.,나 물건 살 데 필요해.,m1q3gateguard,,[지능 낮음],,,0,0
+21153,PC,Player Character,Any place that has fun stuff?,재밌는 데 있어?,m1q3gateguard,,[지능 낮음],,,0,0
+21154,PC,Player Character,Why is it closed off?,왜 폐쇄된 거야?,m1q3gateguard,,[지능 보통],,,0,0
+21155,PC,Player Character,Why it closed?,왜 막았나?,m1q3gateguard,,[지능 낮음],,,0,0
+21156,PC,Player Character,"You will let me pass or I'll get very angry, fool.","통과시켜, 안 그러면 화낼 거야, 멍청아.",m1q3gateguard,,[지능 보통],,,0,0
+21157,PC,Player Character,Me pass or me gets very mad with you.,나 지나가. 아니면 나 엄청 화낸다.,m1q3gateguard,,[지능 낮음],,,0,0
+21158,PC,Player Character,"Seeing as I am under Aribeth's personal command, you may want to re-think that tone.","내가 아리베스의 지휘하에 있는 걸 안다면, 말투를 고쳐보는 게 좋을 겁니다.",m1q3gateguard,,[지능 보통],,,0,0
+21159,PC,Player Character,"Me under Aribeth's personal command, you. Speak nice.",나 아리베스의 직접 명령 받아. 말 곱게 해.,m1q3gateguard,,[지능 낮음],,,0,0
+21160,PC,Player Character,"Fine, I'm going.","알았어, 갈게.",m1q3gateguard,,[지능 보통],,,0,0
+21161,PC,Player Character,"Okay, me go.","그래, 나 간다.",m1q3gateguard,,[지능 낮음],,,0,0
+21162,PC,Player Character,That's right.,맞아.,m1q3gateguard,,[지능 보통],,,0,0
+21163,PC,Player Character,Yeah? So?,그래? 그래서?,m1q3gateguard,,[지능 낮음],,,0,0
+21164,PC,Player Character,"Let me through the gate, then.",그럼 문 통과시켜 줘.,m1q3gateguard,,[지능 보통],,,0,0
+21165,PC,Player Character,Lets me through gate.,그럼 문 열어줘.,m1q3gateguard,,[지능 낮음],,,0,0
+21166,PC,Player Character,Who's Samuel?,사무엘이 누구야?,m1q3gateguard,,[지능 보통],,,0,0
+21167,PC,Player Character,Who Samuel?,사무엘 누구야?,m1q3gateguard,,[지능 낮음],,,0,0
+57108,PC,Player Character,"<StartCheck>[Flirt]</Start> Yous can tell me, okay, handsome guy?","<StartCheck>[유혹]</Start> 말해줄 수 있지, 응? 멋진 사람?",m1q3gateguard,,mcsgenderfintl,,,0,0
+57109,PC,Player Character,"<StartCheck>[Flirt]</Start> Come now, handsome. You can tell little old me. ","<StartCheck>[유혹]</Start> 자, 잘생긴 분. 작은 나한테 말해줄 수 있잖아.",m1q3gateguard,,mcsgenderfintn,,,0,0

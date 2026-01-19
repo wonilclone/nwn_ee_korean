@@ -1,0 +1,47 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72072,Dialog,BLUMBERG,You... you're <race>! Please... all the gnolls seem to have left the cave! Is that true? Are we free to go?,당신은... <race>족이군요! 제발요... 놀들이 전부 동굴에서 떠난 것 같아요! 정말인가요? 이제 나가도 되는 건가요?,Q3_BLUMBERG,,,,,0,0
+72073,Dialog,BLUMBERG,"We... we are? You're sure? Oh, thank you, my <lord/lady>, thank you!","정... 정말인가요? 확실하신가요? 오, 고맙습니다, 모험가님, 정말 감사합니다!",Q3_BLUMBERG,,,,,0,0
+72074,Dialog,BLUMBERG,"I... I know it is much to ask, but there was another amongst us who survived. His name is Glendir, but the gnolls took him. He... he could be alive, somewhere...","이건... 지나친 부탁인 건 알아요. 하지만 우리 중에 살아남은 사람이 한 명 더 있었어요. 글렌디르라는 사람인데, 놀들이 그를 끌고 갔어요. 어... 어쩌면 어딘가에 아직 살아 있을지도 몰라요...",Q3_BLUMBERG,,,,,0,0
+72075,Dialog,BLUMBERG,"Before we go, we must know... is the village of Hilltop safe? It's the only settlement near this forest, and we can't return to Blumberg now.","가기 전에 꼭 알아야 해요... 힐탑 마을은 안전한가요? 이 숲 근처엔 거기밖에 없고, 우리는 지금 블럼버그로 돌아갈 수가 없어요.",Q3_BLUMBERG,,,,,0,0
+72078,Dialog,BLUMBERG,"That is such a relief, thank the gods! Tell me, my <lord/lady>... might we know the name of our savior?","정말 다행이에요, 신들께 감사드려요! 모험가님... 우리의 구세주의 성함을 알 수 있을까요?",Q3_BLUMBERG,,,,,0,0
+72079,Dialog,BLUMBERG,"As you wish. May the gods watch over you, my <lord/lady>.","원하시는 대로 하세요. 신들의 가호가 함께하길 빕니다, 모험가님.",Q3_BLUMBERG,,,,,0,0
+72080,Dialog,BLUMBERG,"Thank you, <FirstName>. May the gods watch over you always.","고맙습니다, <FirstName>. 언제나 신들의 가호가 함께하길 빕니다.",Q3_BLUMBERG,,,,,0,0
+72081,Dialog,BLUMBERG,"You... you are too generous! Thank you ever so much, <FirstName>. Fare you well, and may the gods watch over you always!","당신은... 정말 너무나도 너그러우시네요! 진심으로 감사합니다, <FirstName>. 안녕히 가세요, 언제나 신들의 가호가 함께하길!",Q3_BLUMBERG,q3_take100gp,,,,0,0
+72082,Dialog,BLUMBERG,"It is generous of you to offer, my <lord/lady> but we would not want to be a burden. We can make it on our own. Tell me... might we know the name of our savior?","호의는 감사하지만, 모험가님, 부담이 되고 싶진 않아요. 우리 힘으로 갈 수 있어요. 그러니... 우리의 구세주의 성함을 알려 주시겠어요?",Q3_BLUMBERG,,,,,0,0
+72083,Dialog,BLUMBERG,You... you wouldn't! Please don't say such a thing!!,그럴... 리가요! 제발 그런 말씀은 하지 말아 주세요!!,Q3_BLUMBERG,q3_slavehate,,,,0,0
+72084,Dialog,BLUMBERG,"We... we have nothing, stranger. The gnolls took us prisoner in Blumberg... all we have are the rags they left us with.","우리는... 아무것도 없어요, 나그네님. 블럼버그에서 놀들에게 포로로 잡혔고... 남은 건 그들이 남겨 준 이 누더기뿐이에요.",Q3_BLUMBERG,,,,,0,0
+72085,Dialog,BLUMBERG,"Does... that mean you will not free us? Please, my <lord/lady>, say that isn't so! Nobody could be that cruel-hearted!","그... 그럼 우리를 풀어 주지 않겠다는 뜻인가요? 제발요, 모험가님, 그렇지 않다고 말해 주세요! 그렇게 잔인한 사람은 없을 거예요!",Q3_BLUMBERG,,,,,0,0
+72086,Dialog,BLUMBERG,"Then... then we are stuck here, still. Stuck here until we die. You are a cruel, evil <man/woman>,  you are.",그렇다면... 우리는 여기에 갇힌 채로 있어야 하겠군요. 죽을 때까지요. 당신은 잔혹하고 악한 <man/woman>이에요.,Q3_BLUMBERG,q3_slavehate,,,,0,0
+72087,Dialog,BLUMBERG,"We are from Blumberg... or, rather, I should say we were. The gnolls descended on our village not more than a day ago.","우리는 블럼버그 사람입니다... 아니, 정확히는 그랬었죠. 하루도 채 안 되어 놀들이 마을을 습격했어요.",Q3_BLUMBERG,,,,,0,0
+72088,Dialog,BLUMBERG,We don't know why they came or what they wanted. They... they killed most of us. We're all that's left.,"왜 왔는지도, 무엇을 원했는지도 모르겠어요. 그들은... 우리 대부분을 죽였어요. 남은 건 우리뿐이에요.",Q3_BLUMBERG,,,,,0,0
+72089,Dialog,BLUMBERG,"Oh, please... is there no way you could release us? I'm begging you! We will surely die here if we do not escape!",제발요... 우리를 풀어 줄 방법이 전혀 없나요? 부탁드려요! 여기서 빠져나가지 못하면 우린 반드시 죽어요!,Q3_BLUMBERG,,,,,0,0
+72090,Dialog,BLUMBERG,"Oh, please... is there no way you could release us? I'm begging you! We will surely die here if we do not escape!",제발요... 우리를 풀어 줄 방법이 전혀 없나요? 부탁드려요! 여기서 빠져나가지 못하면 우린 반드시 죽어요!,Q3_BLUMBERG,,,,,0,0
+72091,Dialog,BLUMBERG,"Oh, please... if there's any pity in you, you'll free us from this misery! Have mercy on us, stranger!","제발요... 조금이라도 동정심이 있으시다면 이 고통에서 우리를 풀어 주세요! 자비를 베풀어 주세요, 나그네님!",Q3_BLUMBERG,,,,,0,0
+72092,Dialog,BLUMBERG,You would abandon innocent folk in need? Then... then we are doomed.,곤경에 빠진 죄 없는 사람들을 버리시겠다고요? 그렇다면... 우린 끝장이에요.,Q3_BLUMBERG,q3_slavehate,,,,0,0
+72093,Dialog,BLUMBERG,"Oh, please... if the gnolls are really gone, could we not flee from here? Is it not safe?","제발요... 정말로 놀들이 떠났다면, 우린 여기서 달아날 수 있는 거 아닌가요? 안전하지 않나요?",Q3_BLUMBERG,,,,,0,0
+72094,Dialog,BLUMBERG,"You have? I... I don't know how you did it, but you are a marvel of a <man/woman> to accomplish such a feat! Does this mean we can leave this horrid place?","정말요? 어떻게 하신 건지... 모르겠지만, 그런 일을 해내시다니 놀라운 <man/woman>이시네요! 그럼 이제 이 끔찍한 곳을 떠날 수 있다는 뜻인가요?",Q3_BLUMBERG,,,,,0,0
+72095,Dialog,BLUMBERG,You... you're <race>? Are you in league with these gnolls somehow? Was it you who ordered us turned into slaves?,당신... <race>족이라고요? 혹시 이 놀들과 한통속인가요? 우리를 노예로 만들라고 지시한 게 당신인가요?,Q3_BLUMBERG,q3_knowslaves,,,,0,0
+72096,Dialog,BLUMBERG,"I... I... y-yes, my <lord/lady>...","저... 저... 예, 모험가님...",Q3_BLUMBERG,q3_slavehate,,,,0,0
+72097,Dialog,BLUMBERG,"I... you are an evil, cruel <man/woman> for what you've done to us. I hope the gods make you pay for this!",당... 당신은 우리에게 한 짓으로 보아 악하고 잔인한 <man/woman>이에요. 신들이 반드시 대가를 치르게 하길 빕니다!,Q3_BLUMBERG,q3_slavehate,,,,0,0
+72098,Dialog,BLUMBERG,"Then please, my <lord/lady>! Take pity on us! Free us from this hell-hole, I beg you!","그렇다면 제발요, 모험가님! 우릴 불쌍히 여겨 주세요! 이 지옥 같은 곳에서 풀어 주세요, 간청드립니다!",Q3_BLUMBERG,,,,,0,0
+72099,Dialog,BLUMBERG,You... you're willing to anger these gnolls and free us?,당신이... 놀들을 화나게 하면서까지 우릴 풀어 주시겠다는 건가요?,Q3_BLUMBERG,,,,,0,0
+72100,Dialog,BLUMBERG,"Bless you, my <lord/lady>! Bless you!","축복받으세요, 모험가님! 정말 고맙습니다!",Q3_BLUMBERG,,,,,0,0
+72101,Dialog,BLUMBERG,Then... then we are doomed. Go then... go and do whatever you believe is so important that you abandon innocent folk to such a gruesome fate.,그렇다면... 우린 끝장이네요. 가세요... 죄 없는 사람들을 이렇게 끔찍한 운명에 버려 두고서도 꼭 해야 한다고 믿는 일을 하러요.,Q3_BLUMBERG,q3_slavehate,,,,0,0
+72102,Dialog,BLUMBERG,"Oh, thank you! Thank you! Please hurry, my <lord/lady>!","오, 고마워요! 정말 감사합니다! 제발 서둘러 주세요, 모험가님!",Q3_BLUMBERG,,,,,0,0
+72103,Dialog,BLUMBERG,I will believe that when I see it.,직접 보기 전엔 믿지 않겠어요.,Q3_BLUMBERG,,,,,0,0
+72104,Dialog,BLUMBERG,"We... we have nothing, stranger. The gnolls took us prisoner in Blumberg... all we have are the rags they left us with.","우리는... 아무것도 없어요, 나그네님. 블럼버그에서 놀들에게 포로로 잡혔고... 남은 건 그들이 남겨 준 이 누더기뿐이에요.",Q3_BLUMBERG,,,,,0,0
+72105,Dialog,BLUMBERG,"Does... that mean you will not free us? Please, my <lord/lady>, say that isn't so! Nobody could be that cruel-hearted!","그... 그럼 우리를 풀어 주지 않겠다는 뜻인가요? 제발요, 모험가님, 그렇지 않다고 말해 주세요! 그렇게 잔인한 사람은 없을 거예요!",Q3_BLUMBERG,,,,,0,0
+72106,Dialog,BLUMBERG,"You've... taken control of them? How did... never mind that, couldn't you free us, then? Couldn't you let us go?","당신이... 그들을 장악했다고요? 어떻게... 아니, 그건 됐고, 그럼 우릴 풀어 줄 수는 없는 건가요? 여기서 내보내 줄 수는요?",Q3_BLUMBERG,,,,,0,0
+72107,Dialog,BLUMBERG,"You... you're <race>! Thank the gods! Please, my <lord/lady>... please let us out of this place! The gnolls will be the death of us for sure!","당신... <race>족이군요! 신들께 감사드려요! 제발요, 모험가님... 우릴 여기서 꺼내 주세요! 놀들이 분명 우릴 죽일 거예요!",Q3_BLUMBERG,q3_knowslaves,,,,0,0
+72108,Dialog,BLUMBERG,"I... I think we will have to take our chances, then. Thank you, my <lord/lady> for setting us free.","그... 그럼 어쩔 수 없이 운에 맡겨야겠네요. 풀어 주셔서 감사합니다, 모험가님.",Q3_BLUMBERG,,,,,0,0
+72109,Dialog,BLUMBERG,What do you want? To torment us helpless folk?! If these gnolls are really gone can we not even leave this hellish place?,무엇을 원하죠? 무력한 우리를 더 괴롭히려는 겁니까?! 정말로 놀들이 떠났다면 이 지옥 같은 곳에서 나갈 수도 없는 건가요?,Q3_BLUMBERG,,,,,0,0
+72110,Dialog,BLUMBERG,What do you want with us? Are you here to torment us more?! Will you not attempt to free us?!,우릴 어쩌겠다는 거죠? 더 괴롭히러 온 건가요?! 우리를 풀어 줄 생각은 없나요?!,Q3_BLUMBERG,,,,,0,0
+72111,Dialog,BLUMBERG,"It's you again! Please tell us that we are free to go, please!","또 당신이군요! 제발요, 이제 나가도 된다고 말해 주세요!",Q3_BLUMBERG,,,,,0,0
+72112,Dialog,BLUMBERG,"Very well, my <lord/lady>, but be quick I beg you!","알겠습니다, 모험가님. 하지만 제발 서둘러 주세요!",Q3_BLUMBERG,,,,,0,0
+72113,Dialog,BLUMBERG,What do you want with us? Are you here to torment us more?! Will you not free us from this place?,우릴 어쩌겠다는 거죠? 더 괴롭히러 오신 건가요?! 우릴 여기서 풀어 주실 수는 없나요?,Q3_BLUMBERG,,,,,0,0
+72114,Dialog,BLUMBERG,"It's you again! Please tell us that we are free to go, please!","또 당신이군요! 제발요, 이제 나가도 된다고 말해 주세요!",Q3_BLUMBERG,,,,,0,0
+72115,Dialog,BLUMBERG,"Please! Please help us be free of this place, we beg you!","제발요! 제발 우릴 여기서 벗어나게 도와 주세요, 간청드립니다!",Q3_BLUMBERG,,,,,0,0
+78755,Dialog,BLUMBERG,Then... then we must make the trek westward towards Silverymoon. I can only hope we will all survive to see it.,그렇다면... 실버리문을 향해 서쪽으로 고된 길을 떠나야겠군요. 모두가 무사히 도착할 수 있기를 바랄 뿐이에요.,Q3_BLUMBERG,,,,,0,0
+78756,Dialog,BLUMBERG," Fare you well, my <lord/lady>.","안녕히 가세요, 모험가님.",Q3_BLUMBERG,,,,,0,0
+78758,Dialog,BLUMBERG,"I see. We thank you both, then. I hope you are right... we shall try to make it to Hilltop now.",그렇군요. 두 분 모두께 감사드립니다. 당신 말씀이 맞길 바라요... 이제 힐탑으로 가 보겠습니다.,Q3_BLUMBERG,,,,,0,0
+78760,Dialog,BLUMBERG,Then we must chance that Hilltop still stands. I can only pray it is so.,그렇다면 힐탑이 아직 무사하길 믿고 가야겠군요. 정말 그러하기만을 기도할 뿐이에요.,Q3_BLUMBERG,,,,,0,0

@@ -1,0 +1,57 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+89845,PC,Player Character,Never mind.,됐어.,xp2_hen_template,,,,,0,0
+89846,PC,Player Character,I think we need to part ways.,우리 헤어져야 할 것 같아.,xp2_hen_template,,,,,0,0
+89847,PC,Player Character,"Never mind, then.","그럼, 됐어.",xp2_hen_template,,,,,0,0
+89848,PC,Player Character,Wait here until I return.,내가 돌아올 때까지 여기서 기다려.,xp2_hen_template,,,,,0,0
+89849,PC,Player Character,Leave me. (If the henchman has somewhere else to go.),나한테서 떠나. (부하가 갈 곳이 있는 경우),xp2_hen_template,,,,,0,0
+89850,PC,Player Character,I want to change your tactics.,전술을 바꾸고 싶어.,xp2_hen_template,,,,,0,0
+89851,PC,Player Character,I don't want to change anything else right now.,지금은 더 바꾸고 싶은 게 없어.,xp2_hen_template,,,,,0,0
+89852,PC,Player Character,I want you to leave any traps that you see alone.,함정을 보더라도 그냥 놔둬.,xp2_hen_template,,,,,0,0
+89853,PC,Player Character,I want you to disarm any traps that you see.,함정을 보면 해제해.,xp2_hen_template,,,,,0,0
+89854,PC,Player Character,I want to move faster and not bother with searching or stealth.,더 빠르게 움직이고 탐색이나 은신은 신경 쓰지 마.,xp2_hen_template,,,,,0,0
+89855,PC,Player Character,I need you to be stealthy right now.,지금은 은신해야 해.,xp2_hen_template,,,,,0,0
+89856,PC,Player Character,Don't help me if I fail to open a locked door or chest.,내가 잠긴 문이나 상자를 못 열어도 도와주지 마.,xp2_hen_template,,,,,0,0
+89857,PC,Player Character,Help me if I fail to open a locked door or chest.,내가 잠긴 문이나 상자를 못 열면 도와줘.,xp2_hen_template,,,,,0,0
+89858,PC,Player Character,I want to change the distance you stay away from me.,나와 떨어져 있는 거리를 바꾸고 싶어.,xp2_hen_template,,,,,0,0
+89859,PC,Player Character,Stay a long distance away.,멀리 떨어져 있어.,xp2_hen_template,,,,,0,0
+89860,PC,Player Character,Keep a medium distance.,적당한 거리를 유지해.,xp2_hen_template,,,,,0,0
+89861,PC,Player Character,Stay close.,가까이 있어.,xp2_hen_template,,,,,0,0
+89862,PC,Player Character,Go ahead and attack as soon as you see enemies.,적이 보이면 바로 공격해.,xp2_hen_template,,,,,0,0
+89863,PC,Player Character,Defend me and don't attack until I do.,나를 방어하고 내가 공격할 때까지 공격하지 마.,xp2_hen_template,,,,,0,0
+89864,PC,Player Character,I want to adjust your equipment.,장비를 조정하고 싶어.,xp2_hen_template,,,,,0,0
+89865,PC,Player Character,Can you identify my equipment?,내 장비를 감정해줄 수 있어?,xp2_hen_template,,,,,0,0
+89866,PC,Player Character,I want you to use your [spell-like ability].,네 [주문 유사 능력]을 써줘.,xp2_hen_template,,,,,0,0
+89867,PC,Player Character,I need you to cast a spell.,주문을 시전해줘.,xp2_hen_template,,,,,0,0
+89868,PC,Player Character,Never mind.,됐어.,xp2_hen_template,,,,,0,0
+89869,PC,Player Character,Spell list (non-targeted spell),주문 목록 (대상 지정 불필요 주문),xp2_hen_template,,,,,0,0
+89870,PC,Player Character,"No, I've changed my mind.","아니, 마음이 바뀌었어.",xp2_hen_template,,,,,0,0
+89871,PC,Player Character,"Yes, go ahead.","응, 해.",xp2_hen_template,,,,,0,0
+89872,PC,Player Character,Spell list (targeted spell),주문 목록 (대상 지정 주문),xp2_hen_template,,,,,0,0
+89873,PC,Player Character,I've changed my mind.,마음이 바뀌었어.,xp2_hen_template,,,,,0,0
+89874,PC,Player Character,Cast it on my animal companion.,내 동물 동료에게 시전해.,xp2_hen_template,,,,,0,0
+89875,PC,Player Character,Cast it on my familiar.,내 사역마에게 시전해.,xp2_hen_template,,,,,0,0
+89876,PC,Player Character,Cast it on the other henchman.,다른 부하에게 시전해.,xp2_hen_template,,,,,0,0
+89877,PC,Player Character,Cast it on me.,나에게 시전해.,xp2_hen_template,,,,,0,0
+89878,PC,Player Character,Cast it on yourself.,네 자신에게 시전해.,xp2_hen_template,,,,,0,0
+89879,PC,Player Character,What was it you wanted to say earlier?,아까 무슨 말을 하려고 했어?,xp2_hen_template,,,,,0,0
+89880,PC,Player Character,Let's stop and talk a moment.,잠깐 멈추고 얘기하자.,xp2_hen_template,,,,,0,0
+89881,PC,Player Character,We're done talking.,얘기는 끝났어.,xp2_hen_template,,,,,0,0
+89882,PC,Player Character,"No, nothing else.","아니, 다른 건 없어.",xp2_hen_template,,,,,0,0
+89883,PC,Player Character,What do you think of our current situation?,지금 상황에 대해 어떻게 생각해?,xp2_hen_template,,,,,0,0
+89884,PC,Player Character,How is everything?,다 괜찮아?,xp2_hen_template,,,,,0,0
+89885,PC,Player Character,I wish to discuss your training.,네 훈련에 대해 얘기하고 싶어.,xp2_hen_template,,,,,0,0
+89886,PC,Player Character,Switch back to the standard level-up scheme.,기본 레벨업 방식으로 돌아가.,xp2_hen_template,,,,,0,0
+89887,PC,Player Character,Continue with what you're doing now.,지금 하던 대로 계속해.,xp2_hen_template,,,,,0,0
+89888,PC,Player Character,Focus on class #2.,2번 직업에 집중해.,xp2_hen_template,,,,,0,0
+89889,PC,Player Character,Focus on class #1.,1번 직업에 집중해.,xp2_hen_template,,,,,0,0
+89890,PC,Player Character,Non-repeating topic #5.,반복 불가 주제 #5,xp2_hen_template,,,,,0,0
+89891,PC,Player Character,Non-repeating topic #4.,반복 불가 주제 #4,xp2_hen_template,,,,,0,0
+89892,PC,Player Character,Non-repeating topic #3.,반복 불가 주제 #3,xp2_hen_template,,,,,0,0
+89893,PC,Player Character,Non-repeating topic #2.,반복 불가 주제 #2,xp2_hen_template,,,,,0,0
+89894,PC,Player Character,Non-repeating topic #1.,반복 불가 주제 #1,xp2_hen_template,,,,,0,0
+89895,PC,Player Character,Never mind.,됐어.,xp2_hen_template,,,,,0,0
+89896,PC,Player Character,Join with me.,나와 함께 가자.,xp2_hen_template,,,,,0,0
+89897,PC,Player Character,Not right now.,지금은 안 돼.,xp2_hen_template,,,,,0,0
+89898,PC,Player Character,What do you want to say?,무슨 말을 하고 싶어?,xp2_hen_template,,,,,0,0
+89899,PC,Player Character,Join up with me again.,다시 나와 합류해.,xp2_hen_template,,,,,0,0
+89900,PC,Player Character,Stay here.,여기 있어.,xp2_hen_template,,,,,0,0

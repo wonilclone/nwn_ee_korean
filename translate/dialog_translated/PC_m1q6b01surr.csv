@@ -1,0 +1,41 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+25752,PC,Player Character,I have no need of you. Die as you should!,필요 없다. 넌 죽어 마땅해!,m1q6b01surr,,[지능 보통],,,0,0
+25753,PC,Player Character,I have questions I want answered.,대답해야 할 질문이 있다.,m1q6b01surr,,[지능 보통],,,0,0
+25754,PC,Player Character,Me not need yous. Die!,나 너 필요 없어. 죽어!,m1q6b01surr,,[지능 낮음],,,0,0
+25755,PC,Player Character,Me gots questions for you!,나 너한테 물을 거 있어!,m1q6b01surr,,[지능 낮음],,,0,0
+25756,PC,Player Character,I want some information about these Old Ones.,그 '태고의 존재들'에 대해 정보가 좀 필요해.,m1q6b01surr,,[지능 보통],,,0,0
+25757,PC,Player Character,Me want info 'bout Old Ones.,나 태고의 존재들 정보 원해.,m1q6b01surr,,[지능 낮음],,,0,0
+25758,PC,Player Character,Where can I find Desther?,데스터는 어디서 찾을 수 있지?,m1q6b01surr,,[지능 보통],,,0,0
+25759,PC,Player Character,Where Desther?,데스터 어디 있어?,m1q6b01surr,,[지능 낮음],,,0,0
+25760,PC,Player Character,"Go on. Just get out of here, coward.","가. 여기서 꺼져, 겁쟁아.",m1q6b01surr,,[지능 보통],,,0,0
+25761,PC,Player Character,"You just run away now, worm.","지금 당장 도망가, 벌레야.",m1q6b01surr,,[지능 낮음],,,0,0
+25762,PC,Player Character,I've decided to kill you after all.,역시 널 죽이기로 했다.,m1q6b01surr,nw_d1_mid_evil,[지능 보통],,,0,0
+25763,PC,Player Character,Me kill you after all.,결국 나 너 죽일 거야.,m1q6b01surr,nw_d1_mid_evil,[지능 낮음],,,0,0
+25764,PC,Player Character,I've beaten you once. You'd better talk.,난 이미 한 번 널 이겼어. 입 여는 게 좋을 거다.,m1q6b01surr,,[지능 보통],,,0,0
+25765,PC,Player Character,You talk or me get mad! You no want me get mad! ,말해! 안 그러면 나 화내! 나 화내는 거 너 싫지!,m1q6b01surr,,[지능 낮음],,,0,0
+25766,PC,Player Character,Back to my initial questions now.,이제 처음 질문으로 돌아가자.,m1q6b01surr,,[지능 보통],,,0,0
+25767,PC,Player Character,"Okay, back to first questions.","좋아, 처음 질문으로 다시.",m1q6b01surr,,[지능 낮음],,,0,0
+25768,PC,Player Character,<StartCheck>[Persuade]</Start> There's no harm in telling me now. You are through here.,<StartCheck>[설득]</Start> 지금 말해도 상관없다. 넌 여기서 끝났다.,m1q6b01surr,,[지능 보통],,,0,0
+25769,PC,Player Character,<StartCheck>[Persuade]</Start> You done here. It no matter is you tell me now.,<StartCheck>[설득]</Start> 너 여기서 끝났어. 지금 말해도 괜찮아.,m1q6b01surr,,[지능 낮음],,,0,0
+25770,PC,Player Character,Either you start talking or I start removing your fingers!,말 안 하면 네 손가락부터 하나씩 잘라 버린다!,m1q6b01surr,nw_d1_small_evil,[지능 보통],,,0,0
+25771,PC,Player Character,You talk or me hack off you fingers!,"말해, 아니면 너 손가락 잘라 버려!",m1q6b01surr,nw_d1_small_evil,[지능 낮음],,,0,0
+25772,PC,Player Character,"<StartCheck>[Persuade]</Start> You aren't holding anything back, are you?",<StartCheck>[설득]</Start> 숨기고 있는 건 없겠지?,m1q6b01surr,,[지능 보통],,,0,0
+25773,PC,Player Character,"<StartCheck>[Persuade]</Start> You holding back on me, maybe?","<StartCheck>[설득]</Start> 나한테 숨기는 거, 있지?",m1q6b01surr,,[지능 낮음],,,0,0
+25774,PC,Player Character,You're holding out on me! Come clean or I'll burn your ears off!,"날 속이려 드는군! 솔직히 말해, 안 그럼 네 귀를 태워 버리겠다!",m1q6b01surr,nw_d1_small_evil,[지능 보통],,,0,0
+25775,PC,Player Character,You know more! You tell or maybe me burn you good!,"너 더 알고 있어! 말해, 아니면 내가 제대로 태워 버릴 거야!",m1q6b01surr,nw_d1_small_evil,[지능 낮음],,,0,0
+25776,PC,Player Character,Who do you serve?,넌 누구를 섬기지?,m1q6b01surr,,[지능 보통],,,0,0
+25777,PC,Player Character,You know anything about any guards or traps nearby?,근처 경비나 함정에 대해 아는 게 있나?,m1q6b01surr,,[지능 보통],,,0,0
+25778,PC,Player Character,Who you serve?,너 누구 섬겨?,m1q6b01surr,,[지능 낮음],,,0,0
+25779,PC,Player Character,You know about guards or traps around here?,여기 주변 경비나 함정 알아?,m1q6b01surr,,[지능 낮음],,,0,0
+25780,PC,Player Character,"Get out of my sight, coward.","꺼져, 겁쟁이.",m1q6b01surr,,[지능 보통],,,0,0
+25781,PC,Player Character,"Get lost, scared little worm!","꺼져, 겁많은 벌레 새끼야!",m1q6b01surr,,[지능 낮음],,,0,0
+25782,PC,Player Character,I want to ask about Helm's Hold.,헬름의 요새에 대해 묻고 싶다.,m1q6b01surr,,[지능 보통],,,0,0
+25783,PC,Player Character,Me ask about Helm's Hold.,나 헬름의 요새 물어볼래.,m1q6b01surr,,[지능 낮음],,,0,0
+25784,PC,Player Character,Why did you come here?! Why kill everyone?!,왜 여기 온 거야?! 왜 모두를 죽인 거지?!,m1q6b01surr,,[지능 보통],,,0,0
+25785,PC,Player Character,Why you do that? Why you come here and kill?!,왜 그런 거야? 왜 여기 와서 죽여?!,m1q6b01surr,,[지능 낮음],,,0,0
+25786,PC,Player Character,I have to get moving. I wonder what to do with you.,난 가봐야 한다. 널 어쩌면 좋을지 고민이군.,m1q6b01surr,,[지능 보통],,,0,0
+25787,PC,Player Character,"Me got to move on. What me do with you, hmm?","나 가야 해. 너를 어쩌면 좋지, 흠?",m1q6b01surr,,[지능 낮음],,,0,0
+25788,PC,Player Character,Why was Neverwinter supposed to fall to plague?,왜 네버윈터가 역병에 무너져야 했지?,m1q6b01surr,,[지능 보통],,,0,0
+25789,PC,Player Character,Why Neverwinter gotta fall to this plague?,왜 네버윈터가 이 역병에 무너져야 해?,m1q6b01surr,,[지능 낮음],,,0,0
+25790,PC,Player Character,Who promised you this? Where are they?,이걸 누가 약속했지? 그들은 어디 있지?,m1q6b01surr,,[지능 보통],,,0,0
+25791,PC,Player Character,Who tell you this stuff? Where you hear it?,이런 말 누가 했어? 어디서 들었어?,m1q6b01surr,,[지능 낮음],,,0,0

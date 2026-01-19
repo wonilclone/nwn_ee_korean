@@ -1,0 +1,46 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+21029,PC,Player Character,I am a member of the city guard under Aribeth. I think I can enter.,아리베스 경 휘하의 도시 경비대원이다. 들어가도 되겠지.,m1q3gategua,,nw_d2_ing6,,,0,0
+21030,PC,Player Character,Me city guard. Aribeth my boss. Me can go in.,나 도시 경비대. 아리베스가 상관. 나 들어간다.,m1q3gategua,,nw_d2_inl9,,,0,0
+21031,PC,Player Character,Goodbye.,그럼 이만.,m1q3gategua,,,,,0,0
+21032,PC,Player Character,Who lives here?,여기엔 누가 살지?,m1q3gategua,,[지능 보통],,,0,0
+21033,PC,Player Character,Who live here?,누가 여기 사는데?,m1q3gategua,,[지능 낮음],,,0,0
+21034,PC,Player Character,"You'll stand aside and let me enter, or it's your head.",비켜서 날 들여보내. 아니면 네 목이 달아날 거다.,m1q3gategua,,[지능 보통],,,0,0
+21035,PC,Player Character,"You move and me go in, or me get angry.","비켜. 나 들어간다, 아니면 나 화난다.",m1q3gategua,,[지능 낮음],,,0,0
+21036,PC,Player Character,"Fine. Can I ask you some questions, then?",좋아. 그럼 질문 좀 해도 되나?,m1q3gategua,,[지능 보통],,,0,0
+21037,PC,Player Character,Okay. Me ask you questions?,좋아. 나 질문해도 돼?,m1q3gategua,,[지능 낮음],,,0,0
+21038,PC,Player Character [M1Q3A00],How about 200 gp? Would that change your mind?,금화 200개는 어때? 마음이 바뀌지 않아?,m1q3gategua,m1q3aorrslg01,m1q3a00gateg01,[M1Q3A00],,0,0
+21039,PC,Player Character [M1Q3A00],"We're both <race>, how about 100 gp? Would that change your mind?","우리 둘 다 <race>잖아, 금화 100개는 어때? 마음이 바뀌지 않아?",m1q3gategua,m1q3aorrslg02,m1q3a00gateg02,[M1Q3A00],,0,0
+21040,PC,Player Character,"<StartCheck>[Strength]</Start> You don't want trouble with me, fool. Think very carefully.","<StartCheck>[근력]</Start> 나랑 문제 만들지 마, 바보야. 잘 생각해.",m1q3gategua,,nw_d2_racesmi_n,,,0,0
+21041,PC,Player Character,"<StartCheck>[Persuade]</Start> I SAID that I serve Lady Aribeth! You risk her wrath if you don't stand aside! Meldanen be damned, think of yourself!","<StartCheck>[설득]</Start> 분명히 말했지, 난 아리베스 경을 섬긴다! 비키지 않으면 그분의 분노를 사게 될 거다! 멜다넨은 알 바 아니니, 네 목숨부터 생각해!",m1q3gategua,,nw_d2_racedifi_n,,,0,0
+21042,PC,Player Character,"Then I'll have to do this the hard way. Time to die, fool.","그럼 어쩔 수 없지. 힘으로 간다. 죽을 각오해라, 바보야.",m1q3gategua,,[지능 보통],,,0,0
+21043,PC,Player Character [M1Q3A00],Me give 200 gp. That change mind?,나 금화 200개 줄게. 마음 바뀌어?,m1q3gategua,m1q3aorrslg01,m1q3a00gateg03,[M1Q3A00],,0,0
+21044,PC,Player Character [M1Q3A00],We both <race> kind. Me give 100 gp. That change mind?,우리 둘 다 <race> 동족이야. 나 금화 100개 줄게. 마음 바뀌어?,m1q3gategua,m1q3aorrslg02,m1q3a00gateg04,[M1Q3A00],,0,0
+21045,PC,Player Character,"<StartCheck>[Strength]</Start> You no want trouble with me. You think, now.","<StartCheck>[근력]</Start> 너, 나하고 문제 만들지 마. 이제 생각해.",m1q3gategua,,nw_d2_racesmi_l,,,0,0
+21046,PC,Player Character,"<StartCheck>[Persuade]</Start> Me SAY me serve Aribeth! She lay beatings on you if you not move! Damn Meldanen, cover yer own big butt!","<StartCheck>[설득]</Start> 나, 아리베스 섬긴다 했지! 안 비키면 그분한테 크게 당할 걸! 멜다넨이고 뭐고, 네 살길이나 챙겨!",m1q3gategua,,nw_d2_racedifi_l,,,0,0
+21047,PC,Player Character,Then me do this hard way. Now you die!!,그럼 힘으로 한다. 이제 너 죽어!!,m1q3gategua,,[지능 낮음],,,0,0
+21048,PC,Player Character,"Let me ask you something else, then.","그럼, 다른 걸 물어보지.",m1q3gategua,,[지능 보통],,,0,0
+21049,PC,Player Character,"Me ask something else, then.","그럼, 다른 거 물을게.",m1q3gategua,,[지능 낮음],,,0,0
+21050,PC,Player Character,Is there some way I could arrange to meet with Meldanen?,멜다넨을 만날 방법을 마련할 수 있을까?,m1q3gategua,,[지능 보통],,,0,0
+21051,PC,Player Character,Maybe me could meets with Meldanen?,"나, 멜다넨 만날 수 있나?",m1q3gategua,,[지능 낮음],,,0,0
+21052,PC,Player Character,Perhaps I could arrange a meeting with the owner?,혹시 주인과 만남을 잡을 수 있을까?,m1q3gategua,,[지능 보통],,,0,0
+21053,PC,Player Character,Maybe me could meets with owner?,주인 만나게 해줄 수 있나?,m1q3gategua,,[지능 낮음],,,0,0
+21054,PC,Player Character,Have you heard anything about strange creatures hereabouts?,이 근처에 이상한 생명체 소문 들은 거 있나?,m1q3gategua,,[지능 보통],,,0,0
+21055,PC,Player Character,"<StartCheck>[Insight]</Start> Have you been feeling any symptoms of the plague, yet? If not, you will soon.","<StartCheck>[통찰]</Start> 역병 증상이 느껴지기 시작했나? 아직 아니라면, 곧 올 거다.",m1q3gategua,,_false,,,0,0
+21056,PC,Player Character,What exactly goes on here?,여기서는 대체 무슨 일을 하지?,m1q3gategua,,[지능 보통],,,0,0
+21057,PC,Player Character,What will it take for me to get inside?,안으로 들어가려면 무엇이 필요하지?,m1q3gategua,,[지능 보통],,,0,0
+21058,PC,Player Character,What go on here?,여기서 뭐 해?,m1q3gategua,,[지능 낮음],,,0,0
+21059,PC,Player Character,You hear about weird creatures 'round here?,여기 이상한 괴물들 얘기 들었어?,m1q3gategua,,[지능 낮음],,,0,0
+21060,PC,Player Character,What it take for me to get in?,나 들어가려면 뭐 필요해?,m1q3gategua,,[지능 낮음],,,0,0
+21061,PC,Player Character,Maybe he acquired some new creature very recently?,혹시 그가 아주 최근에 새로운 괴물을 들여오지 않았나?,m1q3gategua,,[지능 보통],,,0,0
+21062,PC,Player Character,Maybe he get new monster lately?,최근에 새 괴물 얻었나?,m1q3gategua,,[지능 낮음],,,0,0
+21063,PC,Player Character,"<StartCheck>[Persuade]</Start> No, no, I want to hear this. Is this creature dangerous?","<StartCheck>[설득]</Start> 아니, 그 얘기를 듣고 싶다. 그 생명체, 위험한가?",m1q3gategua,,[지능 보통],,,0,0
+21064,PC,Player Character,"<StartCheck>[Persuade]</Start> No, no, me want to hear this. Is monster dangerous?","<StartCheck>[설득]</Start> 아니, 나 그거 듣고 싶어. 그 괴물 위험해?",m1q3gategua,,[지능 낮음],,,0,0
+21065,PC,Player Character,Tell me now. I won't ask you twice.,지금 당장 말해. 두 번 묻지 않겠다.,m1q3gategua,,[지능 보통],,,0,0
+21066,PC,Player Character,Tell now. Me won't ask twice.,지금 말해. 두 번 안 물어.,m1q3gategua,,[지능 낮음],,,0,0
+21067,PC,Player Character,That's it. You've been asking for this... time to die!,됐어. 그렇게 원했지... 죽을 시간이다!,m1q3gategua,,[지능 보통],,,0,0
+21068,PC,Player Character,Now you done it. Time to die!!,이제 끝이다. 죽을 시간!!,m1q3gategua,,[지능 낮음],,,0,0
+21069,PC,Player Character,Is this... guest... of Meldanen's still here?,그... 멜다넨의 '손님'... 아직 여기에 있지?,m1q3gategua,,[지능 보통],,,0,0
+21070,PC,Player Character,She still here?,그녀 아직 여기 있나?,m1q3gategua,,[지능 낮음],,,0,0
+21071,PC,Player Character,"<StartCheck>[Persuade/Bluff]</Start> Not yet. You're in danger, however. That's why I came.",<StartCheck>[설득/허세]</Start> 아직은 아닙니다. 하지만 당신이 위험합니다. 그래서 제가 온 겁니다.,m1q3gategua,,,,,0,0
+21072,PC,Player Character,Of course not. Forgive me... let me ask you something else.,물론 아니지. 실례했군... 다른 걸 좀 물어보겠다.,m1q3gategua,,,,,0,0
+21073,PC,Player Character,Are you sure? Let me open you up and find out... ,확실한가? 그럼 배를 갈라 확인해 볼까...?,m1q3gategua,,,,,0,0

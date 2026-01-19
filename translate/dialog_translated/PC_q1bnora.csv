@@ -1,0 +1,48 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+69595,PC,Player Character,Not yet.,아직이에요.,q1bnora,,,,,0,0
+69596,PC,Player Character,You weren't terribly attached to your family were you? ,가족에게 그렇게 애착이 없었나요?,q1bnora,x0_d1_didchaotny,con_q1hblake_5,,,0,0
+69597,PC,Player Character,I have some terrible news for you.,끔찍한 소식이 있어요.,q1bnora,,con_q1hblake_5,,,0,0
+69598,PC,Player Character,I have some good news and some bad news.,좋은 소식과 나쁜 소식이 있어요.,q1bnora,,con_q1bnora_4,,,0,0
+69599,PC,Player Character,Let's just say you and your husband will have time to make a new kid. ,당신과 남편이 새 아이를 만들 시간은 있다고 해두죠.,q1bnora,x0_d1_didchaotny,con_q1bnora_6,,,0,0
+69600,PC,Player Character,"I rescued your husband, but was too late to save your baby. ","남편은 구했지만, 아기를 구하기엔 너무 늦었어요.",q1bnora,,con_q1bnora_6,,,0,0
+69601,PC,Player Character,"Adam lives, but your child was killed by a kobold.","아담은 살았지만, 아이는 코볼트에게 죽었어요.",q1bnora,,con_q1bnora_6,,,0,0
+69602,PC,Player Character,I rescued your baby. ,아기를 구했어요.,q1bnora,,con_q1bnora_7,,,0,0
+69603,PC,Player Character,"Your baby is fine, but Adam was killed.","아기는 괜찮지만, 아담은 죽었어요.",q1bnora,act_q1hblake_9,con_q1bnora_7,,,0,0
+69604,PC,Player Character,"The baby is fine, but I do not have him on me.","아기는 괜찮은데, 지금 가지고 있진 않아요.",q1bnora,,con_q1hblake_9,,,0,0
+69605,PC,Player Character,I put Tynan back in his crib. He is safe.,타이난을 침대에 다시 눕혔어요. 안전해요.,q1bnora,,con_q1bnora_10,,,0,0
+69606,PC,Player Character,I am keeping your child.,아이를 제가 가질게요.,q1bnora,,con_q1hblake_3,,,0,0
+69607,PC,Player Character,I don't need to explain. Goodbye. ,설명할 필요 없어요. 안녕히 계세요.,q1bnora,,,,,0,0
+69608,PC,Player Character,I will think of something. Goodbye. ,뭔가 생각해 볼게요. 안녕히 계세요.,q1bnora,,,,,0,0
+69609,PC,Player Character,I will sell him as a slave to the Thayvian wizard. ,테이 마법사한테 노예로 팔아버릴 거예요.,q1bnora,,con_never,,,0,0
+69610,PC,Player Character,"Give me something now, if you want him back.",돌려받고 싶으면 지금 뭔가 주세요.,q1bnora,act_q1bnora_5,,,,0,0
+69611,PC,Player Character,Then I am keeping him.,그럼 제가 가질게요.,q1bnora,,,,,0,0
+69612,PC,Player Character,I was kidding. Here he is.,농담이었어요. 여기 있어요.,q1bnora,,,,,0,0
+69613,PC,Player Character,Here is your young babe.,아기 여기 있어요.,q1bnora,act_q1bnora_3,con_q1hblake_3,,,0,0
+69614,PC,Player Character,<StartCheck>[Persuade - Lie]</Start> He is alive. He is just waiting inside for you.,<StartCheck>[설득 - 거짓말]</Start> 살아있어요. 안에서 당신을 기다리고 있어요.,q1bnora,x0_d1_didcetny,,,,0,0
+69615,PC,Player Character,I am afraid Adam didn't survive.,유감이지만 아담은 살아남지 못했어요.,q1bnora,,,,,0,0
+69616,PC,Player Character,Would it help if I gave you some gold?,금화를 드리면 도움이 될까요?,q1bnora,,,,,0,0
+69617,PC,Player Character,I guess you are right. Good luck then.,맞는 것 같네요. 행운을 빌어요.,q1bnora,,,,,0,0
+69618,PC,Player Character,I insist. Here is fifty gold.,받으셔야 해요. 여기 금화 50개요.,q1bnora,nw_d1_mid_good,x1_50gold,,,0,0
+69619,PC,Player Character,"I insist, here is ten gold.",받으셔야 해요. 여기 금화 10개요.,q1bnora,nw_d1_small_good,x1_10gold,,,0,0
+69620,PC,Player Character,"Give me that ring, or your babe will follow his father to an early grave.","반지 내놔요, 아니면 아기도 아버지를 따라 일찍 죽을 거예요.",q1bnora,act_q1bnora_5,,,,0,0
+69621,PC,Player Character,I think I deserve a reward for saving your baby.,아기를 구한 거 보상받아야 할 것 같은데요.,q1bnora,,,,,0,0
+69622,PC,Player Character,"Yes, well, I will be going then.","네, 그럼 이제 가볼게요.",q1bnora,,,,,0,0
+69623,PC,Player Character,Adam is well. He waits inside for you. ,아담은 괜찮아요. 안에서 당신을 기다리고 있어요.,q1bnora,,con_q1bnora_5,,,0,0
+69624,PC,Player Character,"Adam lives, but you will need to get him a healer.","아담은 살았지만, 치료사가 필요할 거예요.",q1bnora,,con_q1bnora_5,,,0,0
+69625,PC,Player Character,That's it? I deserve more than that for risking my life. ,그게 다예요? 목숨 걸고 한 거치곤 더 받아야 할 것 같은데요.,q1bnora,,,,,0,0
+69626,PC,Player Character,I guess it will have to do then.,그 정도면 되겠네요.,q1bnora,,,,,0,0
+69627,PC,Player Character,I don't need a reward. I was glad I could help.,보상은 필요 없어요. 도울 수 있어서 기뻤어요.,q1bnora,x0_d1_didgoodtny,,,,0,0
+69628,PC,Player Character,Thank you. That is very generous of you. ,감사합니다. 정말 후하시네요.,q1bnora,,,,,0,0
+69629,PC,Player Character,I have my own problems. Why don't you go save them?,저도 제 문제가 있어요. 당신이 가서 구하는 게 어때요?,q1bnora,,,,,0,0
+69630,PC,Player Character,"No, Goodbye.","아니요, 안녕히 계세요.",q1bnora,act_nora_1,,,,0,0
+69631,PC,Player Character,"Sorry, I don't know what I was thinking. I will help. ","미안해요, 제가 뭘 생각한 건지 모르겠네요. 도울게요.",q1bnora,con_q1nora1,,,,0,0
+69632,PC,Player Character,I guess I can try. ,해볼게요.,q1bnora,,,,,0,0
+69633,PC,Player Character,I have to ask you some questions first.,먼저 질문 좀 해야겠어요.,q1bnora,,,,,0,0
+69634,PC,Player Character,That's all my questions.,질문은 다 했어요.,q1bnora,,,,,0,0
+69635,PC,Player Character,I will save them. ,구해드릴게요.,q1bnora,,,,,0,0
+69636,PC,Player Character,Where do you keep your valuables?,귀중품은 어디 보관하세요?,q1bnora,,,,,0,0
+69637,PC,Player Character,"If you want your family to live, give me that ring!",가족이 살길 원하면 반지 내놔요!,q1bnora,,,,,0,0
+69638,PC,Player Character,Where is the baby?,아기는 어디 있어요?,q1bnora,,,,,0,0
+69639,PC,Player Character,How many kobolds are there?,코볼트는 몇 마리예요?,q1bnora,,,,,0,0
+69640,PC,Player Character,"Before I do anything, let's discuss payment.","뭘 하기 전에, 대가부터 논의하죠.",q1bnora,,,,,0,0
+69641,PC,Player Character,There is no time then. I will do my best.,그럼 시간이 없네요. 최선을 다할게요.,q1bnora,,,,,0,0

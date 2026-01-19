@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19442,Creature,Emernik,"The Head Gaoler's right hand man is a half-orc named Kurdan Fenkt, one of the meanest prisoners in the Pit.",간수장의 오른팔은 쿠르단 펜크트라는 하프오크야. 나락에서 가장 악랄한 죄수 중 하나지.,M1Q2_EMERNIK,,,,,0,0
+19443,Creature,Emernik,Four in total. The top two are the prison proper. The bottom two are the Pits.,"전부 넷이야. 위의 두 층은 감옥 본구역이고, 아래 두 층은 '나락'이지.",M1Q2_EMERNIK,,,,,0,0
+19444,Creature,Emernik,"He kept talking about cutting us, getting inside our heads. Some of our guys came out of there looking like zombies. The rest of us were... discarded.","놈은 우릴 베겠다느니, 우리 정신 속으로 파고들겠다느니 중얼거렸어. 거기 갔다 나온 동료들 중엔 좀비처럼 된 애들도 있었지. 나머지는... 내다 버렸고.",M1Q2_EMERNIK,,,,,0,0
+19445,Creature,Emernik,"Psst! Into the lockdown, quick, before the patrols see us!",쉿! 봉쇄실로 들어가! 순찰대가 보기 전에 서둘러!,M1Q2_EMERNIK,m1q2_emernik1,,,,0,0
+19446,Creature,Emernik,Pull that lever. It locks the door so we'll be safe.,저 레버를 당겨. 문이 봉쇄되면 안전해.,M1Q2_EMERNIK,,,,,0,0
+19447,Creature,Emernik,"Thank goodness you've come, then. They've been going from cell to cell, killing us guards... I think I'm the last one left.",와 줘서 정말 다행이야. 놈들이 감방마다 돌면서 우릴 죽이고 다녔어... 아마 난 마지막 남은 경비일 거야.,M1Q2_EMERNIK,,,,,0,0
+19448,Creature,Emernik,The Head Gaoler? He was torturing some of us former guards on the bottom level until we managed to escape.,간수장 말이야? 맨 아래층에서 우리 전직 경비 몇명을 고문하고 있었지. 우리가 간신히 도망치기 전까지는.,M1Q2_EMERNIK,,,,,0,0
+19449,Creature,Emernik,Agreed. The Head Gaoler's a monster - We have to put a stop to him.,동감이야. 간수장은 괴물이지-우리가 끝을 봐야 해.,M1Q2_EMERNIK,,,,,0,0
+19450,Creature,Emernik,It's the Security Layer - Supposed to be a buffer zone between the regular prisoners and the troublemakers we throw down in the Pits... ,"여긴 보안층이야-일반 수감자들이랑, 우리가 나락으로 내던지는 말썽꾼들 사이의 완충 구역이지...",M1Q2_EMERNIK,,,,,0,0
+19451,Creature,Emernik,That's where you're headed. There aren't many cells down there except those the prisoners built themselves. What they did in the Pits was their business... ,네가 가려는 곳이 바로 거기야. 거기엔 죄수들이 스스로 만든 감방 말고는 많지 않아. 나락에서 무슨 짓을 하든... 그건 놈들 사정이었지...,M1Q2_EMERNIK,,,,,0,0
+19452,Creature,Emernik,"The cell doors are locked but the others should all be open. If you can get inside a lockdown and seal it up, you should be safe inside.","감방 문은 잠겨 있지만, 다른 문들은 다 열려 있을 거야. 봉쇄실 안으로 들어가서 문을 닫아 걸면, 안에서는 안전할 거야.",M1Q2_EMERNIK,,,,,0,0
+19453,Creature,Emernik,They've barricaded themselves in the central guard room. They're sending out patrols but it's pretty haphazard - I've killed off a couple without them noticing... ,놈들은 중앙 경비실에 방어벽을 치고 틀어박혔어. 순찰대를 내보내긴 하는데 꽤 허술하지-눈치 못 채게 몇 조는 내가 처치했거든...,M1Q2_EMERNIK,,,,,0,0
+19454,Creature,Emernik,"Yeah, you'll find them to the north and south.","그래, 북쪽이랑 남쪽에서 보게 될 거야.",M1Q2_EMERNIK,,,,,0,0
+19455,Creature,Emernik,At your command.,명령만 내려.,M1Q2_EMERNIK,m1q2_follow,,,,0,0
+19456,Creature,Emernik,Sure thing. I'll secure the area.,좋아. 내가 이 구역을 확보하지.,M1Q2_EMERNIK,m1q2_followoff,,,,0,0
+19457,Creature,Emernik,Think we'll survive the day?,오늘 우리가 살아남을 수 있을까?,M1Q2_EMERNIK,,,,,0,0
+19458,Creature,Emernik,"You're not with the prisoners, are you?","너, 죄수들 편은 아니지?",M1Q2_EMERNIK,,,,,0,0
+19459,Creature,Emernik,"Yeah? Well, now that I've got you cornered, I'm going to take you down like I did the last one - point blank.","그래? 그럼 한 가지 확실히 하자. 널 궁지에 몰았으니, 지난 놈처럼-바로 눈앞에서 끝장내 주마.",M1Q2_EMERNIK,nw_d1_attonend,,,,0,0
+19460,Creature,Emernik,"You're mistrusting - not the sign of a hunter. I guess that means you're being hunted, just like me. I'm the last guard left, I think.",너무 경계가 심하군-사냥꾼답진 않아. 그 말은 네가 나처럼 사냥당하고 있다는 뜻이겠지. 아마 내가 마지막으로 남은 경비일 거야.,M1Q2_EMERNIK,,,,,0,0
+19461,Creature,Emernik,Just a guard. The name's Emernik.,그냥 경비였지. 이름은 에머닉이야.,M1Q2_EMERNIK,,,,,0,0
+19462,Creature,Emernik,I squeezed through the bars and snapped the neck of the prisoner they'd sent to butcher me. Too little too late - The others are all dead.,"난 창살 사이를 비집고 빠져나와, 날 도륙하러 보낸 죄수의 목을 꺾어 버렸어. 하지만 너무 늦었지-다른 사람들은 전부 죽었어.",M1Q2_EMERNIK,,,,,0,0
+19463,Creature,Emernik,I don't see why not. We're safe in here.,왜 안 되겠어. 여기 안은 안전하니까.,M1Q2_EMERNIK,,,,,0,0
+19464,Creature,Emernik,"The people in those cells were my friends. Abandon their memory if you want, stranger, but I'm here for some vengeance.","저 감방에 있던 사람들은 내 친구들이었어. 그들의 기억을 버리든 말든 네 마음이지만, 이방인. 난 복수를 하러 왔다.",M1Q2_EMERNIK,,,,,0,0
+19466,Creature,Emernik,Just be careful. This is place is a deathtrap right now.,조심해. 지금 여긴 죽음의 함정이야.,M1Q2_EMERNIK,,,,,0,0
+19467,Creature,Emernik,Looks like things are cooling down. I'm going to stay around here and try to get things back in order. Thanks for the help.,이제 상황이 좀 가라앉는 것 같군. 난 여기 남아 질서를 되찾아 보겠다. 도와줘서 고마워.,M1Q2_EMERNIK,,,,,0,0
+24664,Creature,Emernik,Emernik,에머닉,M1Q2_EMERNIK,,,,,0,0

@@ -1,0 +1,378 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+54087,PC,Player Character,I think we need to change your tactics.,전술을 바꿔야 할 것 같아.,nw_hen_gri,,[지능 보통],,,0,0
+54088,PC,Player Character,"I think we need to part ways now, Grimgnaw.","이제 헤어져야 할 것 같아, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54089,PC,Player Character,We need to change the distance you stay away from me.,나와의 거리를 조정해야 해.,nw_hen_gri,,,,,0,0
+54090,PC,Player Character [Follow: Close],Stay close.,가까이 따라와.,nw_hen_gri,nw_ch_dist_6,,[Follow: Close],,0,0
+54091,PC,Player Character [Follow: Medium],Medium distance.,중간 거리.,nw_hen_gri,nw_ch_dist_12,,[Follow: Medium],,0,0
+54092,PC,Player Character [Follow: Far],Far distance.,먼 거리.,nw_hen_gri,nw_ch_dist_18,,[Follow: Far],,0,0
+54093,PC,Player Character,Nevermind.,신경 쓰지 마.,nw_hen_gri,,,,,0,0
+54098,PC,Player Character,Could we change how quickly you decide to heal me.,날 치료하는 속도를 바꿀 수 있을까.,nw_hen_gri,,nw_ch_heal_0,,,0,0
+54099,PC,Player Character [Healing: 75% HP],Heal me if I become somewhat injured (below 75% of total hit points).,좀 다치면 치유해줘 (총 생명력의 75% 이하).,nw_hen_gri,nw_ch_heal_75,[지능 보통],[Healing: 75% HP],,0,0
+54100,PC,Player Character [Healing: 50% HP],Heal me if I become wounded (below 50% of total hit points).,부상당하면 치유해줘 (총 생명력의 50% 이하).,nw_hen_gri,nw_ch_heal_50,[지능 보통],[Healing: 50% HP],,0,0
+54101,PC,Player Character [Healing: 25% HP],Heal me if I become seriously wounded (below 25% of total hit points).,심각하게 다치면 치유해줘 (총 생명력의 25% 이하).,nw_hen_gri,nw_ch_heal_25,[지능 보통],[Healing: 25% HP],,0,0
+54102,PC,Player Character [Companion Settings],Could you not search all the time?,항상 수색하지 않을래?,nw_hen_gri,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+54103,PC,Player Character [Companion Settings],Could you please search when we move around?,우리가 이동할 때 수색해줄래?,nw_hen_gri,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+54104,PC,Player Character [Companion Settings],Could you use more stealth when we travel?,여행할 때 더 은밀하게 행동해줄래?,nw_hen_gri,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+54105,PC,Player Character [Companion Settings],Could you stop being so stealthy all the time?,항상 그렇게 은밀하게 행동하지 않을래?,nw_hen_gri,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+54106,PC,Player Character [Companion Settings],If I fail to open a locked door or chest please come to my aid.,내가 잠긴 문이나 상자를 여는 데 실패하면 도와줘.,nw_hen_gri,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+54107,PC,Player Character [Companion Settings],If I fail to open a locked door or chest do not assist me.,내가 잠긴 문이나 상자를 여는 데 실패해도 돕지 마.,nw_hen_gri,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+54108,PC,Player Character,I don't want to change anything else right now.,지금은 다른 건 바꾸고 싶지 않아.,nw_hen_gri,,,,,0,0
+54109,PC,Player Character → Daelan Red Tiger (Barbarian),<StartCheck>[Persuade]</Start> How about 100 and the promise of lots and lots of killing?,<StartCheck>[설득]</Start> 100에 엄청 많이 죽일 수 있다는 약속를 더하면 어때?,nw_hen_gri,,nw_d2_henchmen03,→ Daelan Red Tiger (Barbarian),,0,0
+54110,PC,Player Character,We need change way you do stuff.,너 하는 방식 바꿔야 해.,nw_hen_gri,,[지능 낮음],,,0,0
+54111,PC,Player Character,"Me no want you here no more, Grimgnaw. You go now.","나 너 이제 필요 없어, 그림노. 가.",nw_hen_gri,,[지능 낮음],,,0,0
+54112,PC,Player Character → Grimgnaw (Monk),<StartCheck>[Persuade]</Start> What if me give 100 but me promise we do lots and lots of killing?,<StartCheck>[설득]</Start> 나 100 주고 우리 엄청 많이 죽인다고 약속하면 어때?,nw_hen_gri,,nw_d2_henchmen04,→ Grimgnaw (Monk),,0,0
+54113,PC,Player Character → Tomi Undergallows (Rogue),"I could use a monk at my side. Here's your 150 gold. Welcome aboard, Grimgnaw.","수도사이 옆에 있으면 좋겠어. 여기 금화 150개야. 환영해, 그림노.",nw_hen_gri,nw_d1_henchmen01,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+54114,PC,Player Character → Linu La'neral (Cleric),Here be you 150 gold. Now you be me slave.,여기 네 금화 150개야. 이제 너 내 노예야.,nw_hen_gri,nw_d1_henchmen01,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+54115,PC,Player Character,I'll be going now.,이제 가볼게.,nw_hen_gri,,[지능 보통],,,0,0
+54116,PC,Player Character,Me go now.,나 이제 가.,nw_hen_gri,,[지능 낮음],,,0,0
+54117,PC,Player Character → Boddyknock Glinckle (Sorcerer),125? Deal.,125? 좋아.,nw_hen_gri,nw_d1_henchmen03,nw_d2_henchmen05,→ Boddyknock Glinckle (Sorcerer),,0,0
+54118,PC,Player Character → Sharwyn (Bard),"I could use a monk by my side. Here's your 200 gold. Welcome aboard, Grimgnaw.","수도사이 옆에 있으면 좋겠어. 여기 금화 200개야. 환영해, 그림노.",nw_hen_gri,nw_d1_henchmen04,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+54119,PC,Player Character → Tomi Undergallows (Rogue),<StartCheck>[Persuade]</Start> How about 150 and the promise of lots and lots of killing?,<StartCheck>[설득]</Start> 150에 엄청 많이 죽일 수 있다는 약속을 더하면 어때?,nw_hen_gri,,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+54120,PC,Player Character,Here be 200 gold. Now you be me slave.,여기 금화 200. 이제 너 내 노예.,nw_hen_gri,nw_d1_henchmen04,nw_d2_henchmen08,,,0,0
+54121,PC,Player Character → Linu La'neral (Cleric),<StartCheck>[Persuade]</Start> What if me give 150 but me promise we do lots and lots of killing?,<StartCheck>[설득]</Start> 나 150 주고 우리 엄청 많이 죽인다고 약속하면 어때?,nw_hen_gri,,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+54122,PC,Player Character,"I could use a good fighter. Here's your 250 gold. Welcome aboard, Grimgnaw.","좋은 전사가 필요해. 금화 250이야. 환영해, 그림노.",nw_hen_gri,nw_d1_henchmen06,nw_d2_henchmen09,,,0,0
+54123,PC,Player Character → Sharwyn (Bard),<StartCheck>[Persuade]</Start> How about 200 and the promise of lots and lots of killing?,<StartCheck>[설득]</Start> 200에 엄청 많이 죽일 수 있다는 약속을 더하면 어때?,nw_hen_gri,,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+54124,PC,Player Character,Here be 250 gold. Now you be me slave.,여기 금화 250. 이제 너 내 노예.,nw_hen_gri,nw_d1_henchmen06,nw_d2_henchmen11,,,0,0
+54125,PC,Player Character,<StartCheck>[Persuade]</Start> What if me give 200 but me promise we do lots and lots of killing?,<StartCheck>[설득]</Start> 나 200 주고 우리 엄청 많이 죽이기 약속하면 어때?,nw_hen_gri,,nw_d2_henchmen08,,,0,0
+54126,PC,Player Character,175? Deal.,175? 좋아.,nw_hen_gri,nw_d1_henchmen05,nw_d2_henchmen07,,,0,0
+54127,PC,Player Character,225? Deal.,225? 좋아.,nw_hen_gri,nw_d1_henchmen07,nw_d2_henchmen10,,,0,0
+54128,PC,Player Character,You change how far away you stay.,얼마나 멀리 있을지 바꿔.,nw_hen_gri,,,,,0,0
+54130,PC,Player Character,You need change how you heal me.,날 치료하는 방식 바꿔.,nw_hen_gri,,nw_ch_heal_0,,,0,0
+54131,PC,Player Character [Companion Settings],You not search all time no more.,너 이제 항상 수색하지 마.,nw_hen_gri,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+54132,PC,Player Character [Companion Settings],You search all time when we move.,우리 움직일 때 항상 수색해.,nw_hen_gri,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+54133,PC,Player Character [Companion Settings],You stop sneaking so quiet now.,너 이제 조용히 잠입하지 마.,nw_hen_gri,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+54134,PC,Player Character [Companion Settings],You start sneak quiet now.,너 이제 조용히 잠입해.,nw_hen_gri,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+54135,PC,Player Character [Companion Settings],If me fail on locked door or chest you help me.,나 잠긴 문이나 상자 실패하면 너 나 도와줘.,nw_hen_gri,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+54136,PC,Player Character [Companion Settings],If me fail on locked door or chest you not help me.,나 잠긴 문이나 상자 실패해도 너 나 돕지 마.,nw_hen_gri,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+54137,PC,Player Character,Me not want change anything else now.,나 지금 다른 거 바꾸기 싫어.,nw_hen_gri,,,,,0,0
+54141,PC,Player Character [Healing: 75% HP],You heal if me sort of hurt (below 75% of total hit points).,나 좀 다치면 너 치유해 (총 생명력의 75% 이하).,nw_hen_gri,nw_ch_heal_75,[지능 낮음],[Healing: 75% HP],,0,0
+54142,PC,Player Character [Healing: 50% HP],You heal if me wounded (below 50% of total hit points).,나 부상당하면 너 치유해 (총 생명력의 50% 이하).,nw_hen_gri,nw_ch_heal_50,[지능 낮음],[Healing: 50% HP],,0,0
+54143,PC,Player Character [Healing: 25% HP],You heal if me hurt real bad (below 25% of total hit points).,나 진짜 심하게 다치면 너 치유해 (총 생명력의 25% 이하).,nw_hen_gri,nw_ch_heal_25,[지능 낮음],[Healing: 25% HP],,0,0
+54144,PC,Player Character,I don't have that kind of gold to spend on a henchman.,부하한테 쓸 그런 금화가 없어.,nw_hen_gri,,[지능 보통],,,0,0
+54145,PC,Player Character,Me not got that much gold for spend on you.,나 너한테 쓸 그렇게 많은 금화 없어.,nw_hen_gri,,[지능 낮음],,,0,0
+54146,PC,Player Character,Who are you? How do you know about the Academy?,넌 누구야? 사관학교를 어떻게 알아?,nw_hen_gri,,[지능 보통],,,0,0
+54147,PC,Player Character,I don't feel like talking right now. Goodbye.,지금은 말하기 싫어. 안녕.,nw_hen_gri,,[지능 보통],,,0,0
+54148,PC,Player Character,What's in the Beggar's Nest?,거지 소굴에 뭐가 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54149,PC,Player Character,I'm looking for a good mercenary to help me in my mission. ,임무를 도와줄 좋은 용병을 찾고 있어.,nw_hen_gri,,[지능 보통],,,0,0
+54150,PC,Player Character,Why haven't you investigated the Beggar's Nest yourself?,왜 직접 거지 소굴을 조사하지 않았어?,nw_hen_gri,,[지능 보통],,,0,0
+54151,PC,Player Character,"Actually, I'm looking for some hired help to assist me on my mission. ","사실, 임무를 도와줄 고용인을 찾고 있어.",nw_hen_gri,,[지능 보통],,,0,0
+54152,PC,Player Character,I'll be going now.,이제 가볼게.,nw_hen_gri,,[지능 보통],,,0,0
+54153,PC,Player Character,I want to ask you some questions about Neverwinter.,네버윈터에 대해 몇 가지 질문하고 싶어.,nw_hen_gri,,[지능 보통],,,0,0
+54154,PC,Player Character,"Well, I wasn't acting alone. Aribeth and the other city guard did as much as I. ","뭐, 혼자 행동한 건 아니야. 아리베스와 다른 도시 경비대도 나만큼 했어.",nw_hen_gri,,[지능 보통],,,0,0
+54155,PC,Player Character,"Yes, that would be me. ","그래, 나야.",nw_hen_gri,,[지능 보통],,,0,0
+54156,PC,Player Character,Who you be? How you know 'bout the Academy?,너 누구야? 사관학교 어떻게 알아?,nw_hen_gri,,[지능 낮음],,,0,0
+54157,PC,Player Character,Me not wanna talk. Goodbye. ,나 말하기 싫어. 안녕.,nw_hen_gri,,[지능 낮음],,,0,0
+54158,PC,Player Character,What be in the Beggar's Nest?,거지 소굴에 뭐 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54159,PC,Player Character,Me looking for mercenary to help on mission.,나 임무 도와줄 용병 찾아.,nw_hen_gri,,[지능 낮음],,,0,0
+54160,PC,Player Character,Why you not go check out Beggar Nest youself?,왜 너 거지 소굴 직접 안 가?,nw_hen_gri,,[지능 낮음],,,0,0
+54161,PC,Player Character,Me looking for help in me mission.,나 내 임무 도와줄 사람 찾아.,nw_hen_gri,,[지능 낮음],,,0,0
+54162,PC,Player Character,Me go now.,나 이제 가.,nw_hen_gri,,[지능 낮음],,,0,0
+54163,PC,Player Character,Me want to ask questions 'bout Neverwinter.,나 네버윈터 질문하고 싶어.,nw_hen_gri,,[지능 낮음],,,0,0
+54164,PC,Player Character,Me have lots of help! Aribeth and... Aribeth... and... nevermind.,나 도움 많아! 아리베스랑... 아리베스... 그리고... 아니야.,nw_hen_gri,,[지능 낮음],,,0,0
+54165,PC,Player Character,Me greatest one there is! Me save city!,나 최고야! 나 도시 구했어!,nw_hen_gri,,[지능 낮음],,,0,0
+54166,PC,Player Character,So you're working for Aribeth?,그럼 아리베스를 위해 일하는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54167,PC,Player Character,Goodbye.,안녕.,nw_hen_gri,,,,,0,0
+54168,PC,Player Character,You work for Aribeth? Me work for Aribeth too! ,너 아리베스 위해 일해? 나도 아리베스 위해 일해!,nw_hen_gri,,[지능 낮음],,,0,0
+54169,PC,Player Character,"(Sluuurp) Oops, me sorry. So how you get hired by Aribeth?","(쭈우욱) 이런, 나 미안해. 아리베스한테 어떻게 고용됐어?",nw_hen_gri,,,,,0,0
+54170,PC,Player Character,"If you're so interested in vengeance, why are you standing around here?","복수에 그렇게 관심이 많다면, 왜 여기 서 있어?",nw_hen_gri,,[지능 보통],,,0,0
+54171,PC,Player Character,"If you want kill cult, why you stand around here?","너 사교 죽이고 싶으면, 왜 여기 서 있어?",nw_hen_gri,,[지능 낮음],,,0,0
+54172,PC,Player Character,I guess I could use a homicidal monk at my side. You're in. ,살인광 수도사가 있으면 도움이 될 것 같네. 합류해.,nw_hen_gri,,[지능 보통],,,0,0
+54173,PC,Player Character,"Sorry, but I'm not interested. Goodbye.","미안하지만, 관심 없어. 안녕.",nw_hen_gri,,[지능 보통],,,0,0
+54174,PC,Player Character,Me need psycho monk to help in fights. You in. ,나 싸움 도와줄 미친 수도사 필요해. 너 합류.,nw_hen_gri,,[지능 낮음],,,0,0
+54175,PC,Player Character,"Sorry, me not interested. ","미안, 나 관심 없어.",nw_hen_gri,,[지능 낮음],,,0,0
+54176,PC,Player Character,Have you heard any rumors about the cult since you've come here?,여기 온 뒤로 사교에 대한 소문 들은 거 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54177,PC,Player Character,You hear any stuff about cult? Me looking for clues. ,너 사교 소문 들었어? 나 단서 찾아.,nw_hen_gri,,[지능 낮음],,,0,0
+54178,PC,Player Character,Charwood?,그을린숲?,nw_hen_gri,,,,,0,0
+54179,PC,Player Character,So are you going to look into it some more?,그럼 더 조사할 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54180,PC,Player Character,So why are you standing around here? Shouldn't you be out scouring the north for this cult?,그런데 왜 여기 서 있어? 북쪽에서 이 사교 찾아다녀야 하는 거 아니야?,nw_hen_gri,,[지능 보통],,,0,0
+54181,PC,Player Character,You gonna try to find out more stuff about the cult and Charwood?,너 사교랑 그을린숲 더 알아볼 거야?,nw_hen_gri,,[지능 낮음],,,0,0
+54182,PC,Player Character,Why you stand around here? You supposed to be looking for cult.,왜 여기 서 있어? 너 사교 찾아야 해.,nw_hen_gri,,[지능 낮음],,,0,0
+54183,PC,Player Character,I'd like you to level up. You'd be more useful to me with a little training. ,레벨 올리면 좋겠어. 훈련하면 더 도움이 될 거야.,nw_hen_gri,,nw_ch_check_38,,,0,0
+54184,PC,Player Character,Me want you to level up. You be better with training. ,나 너 레벨 올리면 좋겠어. 훈련하면 더 좋아져.,nw_hen_gri,,nw_ch_check_39,,,0,0
+54185,PC,Player Character,I just want to talk for a while. ,잠깐 얘기하고 싶어.,nw_hen_gri,,nw_ch_check_43,,,0,0
+54186,PC,Player Character,Me just wanna talk. ,나 그냥 얘기하고 싶어.,nw_hen_gri,,nw_ch_check_44,,,0,0
+54187,PC,Player Character,"If you're going to be my henchman, I'd like to know more about you. ","내 부하가 될 거라면, 너에 대해 더 알고 싶어.",nw_hen_gri,,nw_ch_check_1,,,0,0
+54188,PC,Player Character,I want you to continue your story from before.,아까 하던 얘기 계속해줘.,nw_hen_gri,,nw_ch_check_3,,,0,0
+54189,PC,Player Character,Nevermind.,신경 쓰지 마.,nw_hen_gri,,,,,0,0
+54190,PC,Player Character,Me wanna know you better. Me think that important. ,나 너 더 알고 싶어. 나 그거 중요하다고 생각해.,nw_hen_gri,,nw_ch_check_2,,,0,0
+54191,PC,Player Character,Me want you continue you story from before. ,나 너 아까 얘기 계속하면 좋겠어.,nw_hen_gri,,nw_ch_check_4,,,0,0
+54192,PC,Player Character,I have seen too much death and suffering from the plague to stand idly by.,역병으로 인한 죽음과 고통을 너무 많이 봐서 가만히 있을 수 없어.,nw_hen_gri,,[지능 보통],,,0,0
+54193,PC,Player Character,I seek to forge a legend that will last for ever.,영원히 남을 전설을 만들고 싶어.,nw_hen_gri,,[지능 보통],,,0,0
+54194,PC,Player Character,Aribeth has promised me gold and riches if I can help her in this.,아리베스가 도와주면 금화와 부를 준다고 약속했어.,nw_hen_gri,,[지능 보통],,,0,0
+54195,PC,Player Character,"Tell me more about the Order of the Long Death, Grimgnaw.","오랜 죽음의 교단에 대해 더 말해줘, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54196,PC,Player Character,"That's all well and good, but just remember that until your death comes you're serving me.","그건 다 좋은데, 네가 죽을 때까지 나를 섬긴다는 거 기억해.",nw_hen_gri,,[지능 보통],,,0,0
+54197,PC,Player Character,Me want know more 'bout you Order of Long Death.,나 너네 오랜 죽음 사교 더 알고 싶어.,nw_hen_gri,,[지능 낮음],,,0,0
+54198,PC,Player Character,"That all nice, but you not forget that until you be dead you be serving me!","그거 다 좋은데, 너 죽을 때까지 나 섬긴다는 거 잊지 마!",nw_hen_gri,,[지능 낮음],,,0,0
+54199,PC,Player Character,I have a ring here with a falcon on it. Is this the ring?,매가 새겨진 반지가 있어. 이게 그 반지야?,nw_hen_gri,,nw_ch_check_8,,,0,0
+54200,PC,Player Character,If I find it I'll let you know.,찾으면 알려줄게.,nw_hen_gri,,[지능 보통],,,0,0
+54201,PC,Player Character,Me found ring with bird on it. Maybe this be ring you look for.,나 새 새겨진 반지 찾았어. 이게 너 찾는 반지일 수도.,nw_hen_gri,,nw_ch_check_9,,,0,0
+54202,PC,Player Character,If me find it me let you know.,나 찾으면 너한테 알려줄게.,nw_hen_gri,,[지능 낮음],,,0,0
+54203,PC,Player Character,If we're going to be traveling together I'd like to know a little more about you.,함께 여행할 거라면 너에 대해 좀 더 알고 싶어.,nw_hen_gri,,nw_ch_check_10,,,0,0
+54204,PC,Player Character,"I'd like you to continue your story from before, Grimgnaw.","아까 하던 얘기 계속해줘, 그림노.",nw_hen_gri,,nw_ch_check_12,,,0,0
+54205,PC,Player Character,"If we be travel together, me want know more 'bout you.","우리 같이 여행하면, 나 너 더 알고 싶어.",nw_hen_gri,,nw_ch_check_11,,,0,0
+54206,PC,Player Character,Me want you keep talking 'bout story you start before.,나 너 아까 시작한 얘기 계속하면 좋겠어.,nw_hen_gri,,nw_ch_check_13,,,0,0
+54207,PC,Player Character,I wouldn't mind knowing your thoughts on Aribeth's betrayal. How do you feel about it?,아리베스의 배신에 대한 네 생각을 알고 싶어. 어떻게 생각해?,nw_hen_gri,,nw_ch_check_19,,,0,0
+54208,PC,Player Character,I want you to continue with what you were telling me before.,아까 하던 얘기 계속해줘.,nw_hen_gri,,nw_ch_check_21,,,0,0
+54209,PC,Player Character,Me want to know what you think about Aribeth betraying everyone. How you feel 'bout that?,나 아리베스가 모두 배신한 거 어떻게 생각하는지 알고 싶어. 너 어떻게 느껴?,nw_hen_gri,,nw_ch_check_20,,,0,0
+54210,PC,Player Character,Me want you to continue you story from before.,나 너 아까 얘기 계속하면 좋겠어.,nw_hen_gri,,nw_ch_check_22,,,0,0
+54211,PC,Player Character,"Tell me more about your Order, Grimgnaw.","네 사교에 대해 더 말해줘, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54212,PC,Player Character,What kind of enemies are you talking about?,어떤 적을 말하는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54213,PC,Player Character,"You're talking about the undead, right? Liches and zombies and the like.",언데드 말하는 거지? 리치나 좀비 같은 거.,nw_hen_gri,,[지능 보통],,,0,0
+54214,PC,Player Character,I have a mummified hand here. Will this do.,미라의 손이 있어. 이게 괜찮을까.,nw_hen_gri,,nw_ch_check_17,,,0,0
+54215,PC,Player Character,"Don't worry, I'm sure we'll find the components you're looking for.","걱정 마, 네가 찾는 재료 찾을 거야.",nw_hen_gri,,[지능 보통],,,0,0
+54216,PC,Player Character,Just don't let this get in the way of your other duties.,다른 임무에 방해되게 하지는 마.,nw_hen_gri,,[지능 보통],,,0,0
+54217,PC,Player Character,Me got mummy hand here. This be what you need?,나 미라의 손 있어. 이거 너 필요한 거야?,nw_hen_gri,,nw_ch_check_18,,,0,0
+54218,PC,Player Character,You not worry. We find stuff you need for you ritual.,너 걱정 마. 우리 너 의식에 필요한 거 찾을 거야.,nw_hen_gri,,[지능 낮음],,,0,0
+54219,PC,Player Character,Accepting death is one thing. Having your lover hung right in front of you is something else.,죽음을 받아들이는 것과 연인이 눈앞에서 교수형당하는 건 별개야.,nw_hen_gri,,[지능 보통],,,0,0
+54220,PC,Player Character,I have a dagger here with a skeletal hand on it. Is this one of the blessed weapons?,해골 손이 새겨진 단검이 있어. 이게 축복받은 무기 중 하나야?,nw_hen_gri,,nw_ch_check_26,,,0,0
+54221,PC,Player Character,"Then if the Silent Lord wills it, we'll find one of the sacred weapons.","그럼 침묵의 군주가 원하면, 성스러운 무기 중 하나를 찾을 거야.",nw_hen_gri,,[지능 보통],,,0,0
+54222,PC,Player Character,Me got knife here with bony hand on it. Maybe this be what you look for.,나 뼈 손 새겨진 칼 있어. 이게 너 찾는 거일 수도.,nw_hen_gri,,nw_ch_check_27,,,0,0
+54223,PC,Player Character,You not worry Grimgnaw. Me keep killing stuff 'till you find weapon. ,너 걱정 마 그림노. 나 너 무기 찾을 때까지 계속 죽일 거야.,nw_hen_gri,,[지능 낮음],,,0,0
+54224,PC,Player Character,You again? Are you following me like some kind of pathetic lost puppy?,또 너야? 불쌍한 길 잃은 강아지처럼 날 따라다니는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54225,PC,Player Character,"What are you doing here, Grimgnaw?","여기서 뭐 하는 거야, 그림노?",nw_hen_gri,,[지능 보통],,,0,0
+54226,PC,Player Character,So you were conscripted into service by Aribeth?,그러니까 아리베스가 너를 징집한 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54227,PC,Player Character,How much would it cost to hire your services?,너를 고용하는 데 얼마나 들어?,nw_hen_gri,,[지능 보통],,,0,0
+54228,PC,Player Character,Goodbye.,안녕.,nw_hen_gri,,,,,0,0
+54229,PC,Player Character [Companion Settings],I could use a monk by my side.,수도사이 옆에 있으면 좋겠어.,nw_hen_gri,nw_ch_check48,[지능 보통],[Companion Settings],,0,0
+54230,PC,Player Character,Do you have any information on the cult behind the Wailing Death?,울부짖는 죽음 배후의 사교에 대해 아는 게 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54231,PC,Player Character,I don't need anything right now.,지금은 필요한 게 없어.,nw_hen_gri,,[지능 보통],,,0,0
+54232,PC,Player Character,I did my duty. ,내 의무를 다했어.,nw_hen_gri,,[지능 보통],,,0,0
+54233,PC,Player Character,"I know, I'm great. What can I say?","알아, 난 대단하지. 뭐라고 말하겠어?",nw_hen_gri,,[지능 보통],,,0,0
+54234,PC,Player Character,Me do duty. ,나 의무 다했어.,nw_hen_gri,,[지능 낮음],,,0,0
+54235,PC,Player Character,Me am so great! Me am so great!,나 엄청 대단해! 나 엄청 대단해!,nw_hen_gri,,[지능 낮음],,,0,0
+54236,PC,Player Character,So you're working for Aarin Gend?,그러니까 아린 겐드를 위해 일하는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54237,PC,Player Character,You work for Aarin Gend? Me work for Aarin too!,너 아린 겐드 위해 일해? 나도 아린 위해 일해!,nw_hen_gri,,[지능 낮음],,,0,0
+54238,PC,Player Character,Goodbye. ,안녕.,nw_hen_gri,,,,,0,0
+54239,PC,Player Character,Have you heard any rumors as to where the Words could be?,권능의 언령이 어디 있을지에 대한 소문 들은 거 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54240,PC,Player Character,Why are you standing around here? Shouldn't you be looking for these Words? ,왜 여기 서 있는 거야? 권능의 언령을 찾아야 하는 거 아니야?,nw_hen_gri,,[지능 보통],,,0,0
+54241,PC,Player Character,You heard any rumors about where Words be? Me want to find them. ,언령 어디 있는지 소문 들었어? 나 찾고 싶어.,nw_hen_gri,,[지능 낮음],,,0,0
+54242,PC,Player Character,Why you stand here? You should look for Words. ,왜 너 여기 서 있어? 너 언령 찾아야 해.,nw_hen_gri,,[지능 낮음],,,0,0
+54243,PC,Player Character [Companion Settings],I could use a homicidal monk. Come on.,살인적인 수도사이 필요해. 가자.,nw_hen_gri,nw_ch_check48,[지능 보통],[Companion Settings],,0,0
+54244,PC,Player Character,"Sorry, I'm not interested. ",미안하지만 관심 없어.,nw_hen_gri,,[지능 보통],,,0,0
+54245,PC,Player Character [Companion Settings],Me could use psycho monk. Come on.,나 싸이코 수도사 필요해. 가자.,nw_hen_gri,nw_ch_check48,[지능 낮음],[Companion Settings],,0,0
+54246,PC,Player Character,Me not like you. ,나 너 싫어.,nw_hen_gri,,[지능 낮음],,,0,0
+54247,PC,Player Character,"It is good to see you again, Grimgnaw.","다시 만나서 반가워, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54248,PC,Player Character,I'm getting sick of seeing your ugly mug every time I turn around!,돌아설 때마다 네 못생긴 얼굴 보는 게 이제 지겹다!,nw_hen_gri,,[지능 보통],,,0,0
+54249,PC,Player Character,"Do you know anything about the Words of Power, Grimgnaw.","권능의 언령에 대해 아는 거 있어, 그림노?",nw_hen_gri,,[지능 보통],,,0,0
+54250,PC,Player Character [Companion Settings],"We should join up again, Grimgnaw.","우리 다시 합류해야겠어, 그림노.",nw_hen_gri,nw_ch_check48,[지능 보통],[Companion Settings],,0,0
+54251,PC,Player Character,Sorry but I don't need any help right now.,미안하지만 지금은 도움이 필요 없어.,nw_hen_gri,,[지능 보통],,,0,0
+54252,PC,Player Character [Companion Settings],Yes. ,좋아.,nw_hen_gri,nw_ch_check48,,[Companion Settings],,0,0
+54253,PC,Player Character,"No, not now. ","아니, 지금은 안 돼.",nw_hen_gri,,,,,0,0
+54254,PC,Player Character [Companion Settings],Yes.,좋아.,nw_hen_gri,nw_ch_check48,,[Companion Settings],,0,0
+54255,PC,Player Character,No. ,아니.,nw_hen_gri,,,,,0,0
+54256,PC,Player Character,What's a monk of the Long Death order doing in Neverwinter?,오랜 죽음의 교단 수도사이 네버윈터에서 뭐 하는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54257,PC,Player Character,What kind of skills does a monk of the Order of the Long Death possess?,오랜 죽음의 교단 수도사은 어떤 기술을 가지고 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54258,PC,Player Character,Why monk of Long Death order be here in Neverwinter?,왜 오랜 죽음 사교 수도사 여기 네버윈터에 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54259,PC,Player Character,What kind of skill you be say you got?,너 무슨 기술 가졌다고 했어?,nw_hen_gri,,[지능 낮음],,,0,0
+54260,PC,Player Character,"You seem a little bit creepy, Grimgnaw.","좀 섬뜩하네, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54261,PC,Player Character,"You be creepy, dwarf.","너 섬뜩해, 드워프.",nw_hen_gri,,[지능 낮음],,,0,0
+54262,PC,Player Character,Me see lots people die. Me not like it. Me want help them.,나 많은 사람 죽는 거 봤어. 나 그거 싫어. 나 도와주고 싶어.,nw_hen_gri,,[지능 낮음],,,0,0
+54263,PC,Player Character,If me save Neverwinter then me be big hero.,나 네버윈터 구하면 나 큰 영웅 돼.,nw_hen_gri,,[지능 낮음],,,0,0
+54264,PC,Player Character,Me get lots gold if me help Neverwinter!,나 네버윈터 도우면 금화 많이 받아!,nw_hen_gri,,[지능 낮음],,,0,0
+54265,PC,Player Character,Mithral Hall? Is that where you come from originally?,미스랄 홀? 거기가 네 원래 고향이야?,nw_hen_gri,,[지능 보통],,,0,0
+54266,PC,Player Character,Mithral Hall? Me not know you come from there.,미스랄 홀? 나 너 거기서 왔는지 몰랐어.,nw_hen_gri,,[지능 낮음],,,0,0
+54267,PC,Player Character,Shunned? What do you mean?,기피당했다고? 무슨 뜻이야?,nw_hen_gri,,[지능 보통],,,0,0
+54268,PC,Player Character,We don't have time for this now. We need to stay focused on our mission.,지금 이럴 시간 없어. 임무에 집중해야 해.,nw_hen_gri,,[지능 보통],,,0,0
+54269,PC,Player Character,Shun? What you mean?,기피? 무슨 뜻이야?,nw_hen_gri,,[지능 낮음],,,0,0
+54270,PC,Player Character,We not got time for this. We need get back to what our mission be.,우리 이럴 시간 없어. 우리 임무로 돌아가야 해.,nw_hen_gri,,[지능 낮음],,,0,0
+54271,PC,Player Character,How did you end up joining the Order of the Long Death?,어떻게 오랜 죽음의 교단에 들어가게 된 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54272,PC,Player Character,How you end up in Order of Long Death?,너 어떻게 오랜 죽음 사교에 들어갔어?,nw_hen_gri,,[지능 낮음],,,0,0
+54273,PC,Player Character,Who?,누구?,nw_hen_gri,,,,,0,0
+54274,PC,Player Character,And you followed her here?,그래서 그녀를 여기까지 따라온 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54275,PC,Player Character,I'll help you find and kill Alaganda - or at least help you find her ring.,알라간다를 찾아서 죽이는 걸 도와줄게 - 아니면 최소한 그녀의 반지를 찾는 건 도와줄게.,nw_hen_gri,,[지능 보통],,,0,0
+54276,PC,Player Character,"She's probably dead already, and the ring could be anywhere in the city. You'll never find it.","그녀는 이미 죽었을 거고, 반지는 도시 어딘가에 있을 거야. 절대 찾지 못할 거야.",nw_hen_gri,,[지능 보통],,,0,0
+54277,PC,Player Character,"Me help you kill girly. Or if she dead already, me help you find ring.",나 너 여자 죽이는 거 도와줘. 아니면 그녀 이미 죽었으면 나 반지 찾는 거 도와줘.,nw_hen_gri,,[지능 낮음],,,0,0
+54278,PC,Player Character,She probably dead already. This city be big place - you never gonna find ring here.,그녀 아마 이미 죽었어. 이 도시 큰 곳이야 - 너 여기서 반지 절대 못 찾아.,nw_hen_gri,,[지능 낮음],,,0,0
+54279,PC,Player Character,As long as you don't let your search interfere with your service to me!,네 탐색이 나에 대한 봉사를 방해하지 않는 한!,nw_hen_gri,,[지능 보통],,,0,0
+54280,PC,Player Character,You not let you search get in way of stuff you do for me!,너 탐색이 나 위해 하는 일 방해하면 안 돼!,nw_hen_gri,,[지능 낮음],,,0,0
+54281,PC,Player Character,Do you have any advice or suggestions you can give me about my mission?,내 임무에 대해 조언이나 제안할 게 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54282,PC,Player Character,You got any hint or tip you give me 'bout this mission?,너 이 임무에 대해 힌트나 조언 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54283,PC,Player Character,Why are you so interested in the Beggar's Nest?,왜 거지 소굴에 그렇게 관심이 있는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54284,PC,Player Character,Why you want see Beggar Nest?,왜 너 거지 소굴 보고 싶어?,nw_hen_gri,,[지능 낮음],,,0,0
+54285,PC,Player Character,I think that's enough talking for now.,이제 얘기는 이 정도면 충분한 것 같아.,nw_hen_gri,,[지능 보통],,,0,0
+54286,PC,Player Character,Me not want talk no more.,나 더 이상 말 안 하고 싶어.,nw_hen_gri,,[지능 낮음],,,0,0
+54287,PC,Player Character,"Thank you, Grimgnaw.","고마워, 그림노.",nw_hen_gri,,,,,0,0
+54288,PC,Player Character,That's it? A cheap amulet?,그게 다야? 싸구려 호신부?,nw_hen_gri,,,,,0,0
+54289,PC,Player Character,What can you tell me about the Dragon Mountains?,용의 산맥에 대해 뭘 알려줄 수 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54290,PC,Player Character,You know stuff 'bout Dragon Mountains?,너 용의 산맥에 대해 아는 거 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54291,PC,Player Character,"What you be doing here, Grimgnaw?","너 여기서 뭐 하고 있어, 그림노?",nw_hen_gri,,[지능 낮음],,,0,0
+54292,PC,Player Character,You again? Is you following me like some stupid puppy?,또 너야? 너 바보 강아지처럼 나 따라다니는 거야?,nw_hen_gri,,[지능 낮음],,,0,0
+54293,PC,Player Character,Aribeth force you to come serve here?,아리베스가 너 여기 와서 일하라고 강제했어?,nw_hen_gri,,[지능 낮음],,,0,0
+54294,PC,Player Character,How much it cost for you work for me again?,너 나 위해 다시 일하는 데 얼마나 들어?,nw_hen_gri,,[지능 낮음],,,0,0
+54295,PC,Player Character,You know stuff 'bout that cult that spread plague?,너 역병 퍼뜨린 사교에 대해 아는 거 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54296,PC,Player Character [Companion Settings],Me need monk like you for help me.,나 너 같은 수도사 필요해.,nw_hen_gri,nw_ch_check48,[지능 낮음],[Companion Settings],,0,0
+54297,PC,Player Character,Me not need nothing right now.,나 지금 아무것도 필요 없어.,nw_hen_gri,,[지능 낮음],,,0,0
+54298,PC,Player Character,Charwood?,그을린숲?,nw_hen_gri,,,,,0,0
+54299,PC,Player Character,You used to live 'round here?,너 여기 근처에 살았어?,nw_hen_gri,,[지능 낮음],,,0,0
+54300,PC,Player Character,"Me glad for see you again, Grimgnaw.","나 너 다시 만나서 기뻐, 그림노.",nw_hen_gri,,[지능 낮음],,,0,0
+54301,PC,Player Character,Me sick of you! Everywhere me go you ugly face be there!,나 너 때문에 짜증나! 내가 어디 가든 네 못생긴 얼굴 있어!,nw_hen_gri,,[지능 낮음],,,0,0
+54302,PC,Player Character,You know stuff 'bout Words of Power?,너 권능의 언령에 대해 아는 거 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54303,PC,Player Character [Companion Settings],"We should be join up again, dwarf.","우리 다시 합류해야 해, 드워프.",nw_hen_gri,nw_ch_check48,[지능 낮음],[Companion Settings],,0,0
+54304,PC,Player Character,"Sorry, me not need no help right now.","미안, 나 지금 도움 필요 없어.",nw_hen_gri,,[지능 낮음],,,0,0
+54305,PC,Player Character,You used to live in this region?,이 지역에 살았어?,nw_hen_gri,,[지능 보통],,,0,0
+54306,PC,Player Character,"Tell me more about you Order, dwarf.","너 사교에 대해 더 얘기해줘, 드워프.",nw_hen_gri,,[지능 낮음],,,0,0
+54307,PC,Player Character,What enemies you be talking about?,너 무슨 적들에 대해 얘기하는 거야?,nw_hen_gri,,[지능 낮음],,,0,0
+54308,PC,Player Character,What happened?,무슨 일이 있었어?,nw_hen_gri,,,,,0,0
+54309,PC,Player Character,I thought you liked killing and death.,너 죽이는 것과 죽음을 좋아하는 줄 알았는데.,nw_hen_gri,,[지능 보통],,,0,0
+54310,PC,Player Character,What was so scary about zombies and skeletons? They aren't so tough.,좀비와 해골이 뭐가 그렇게 무서웠어? 그렇게 강하지도 않잖아.,nw_hen_gri,,[지능 보통],,,0,0
+54311,PC,Player Character,Me thought yo like killing and death.,나 너 죽이는 것과 죽음 좋아하는 줄 알았어.,nw_hen_gri,,[지능 낮음],,,0,0
+54312,PC,Player Character,What be so scary 'bout zombie and skeleton. They not so tough.,좀비와 해골 뭐가 그렇게 무서워. 그렇게 강하지도 않아.,nw_hen_gri,,[지능 낮음],,,0,0
+54313,PC,Player Character,I didn't realize you were so squeamish.,네가 그렇게 겁이 많은 줄 몰랐어.,nw_hen_gri,,[지능 보통],,,0,0
+54314,PC,Player Character,You mean you had to kill some of your own companions?,네 동료들을 죽여야 했다는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54315,PC,Player Character,You had to kill you own friends?,너 네 친구들 죽여야 했어?,nw_hen_gri,,[지능 낮음],,,0,0
+54316,PC,Player Character,What about the lich?,리치는 어떻게 됐어?,nw_hen_gri,,[지능 보통],,,0,0
+54317,PC,Player Character,"I'm sorry for what happened to the other monks of your Order, Grimgnaw.","네 사교의 다른 수도사들에게 일어난 일에 대해 유감이야, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54318,PC,Player Character,"The zombies that used to be your friends are destroyed, Grimgnaw. Dead is dead.","네 친구들이었던 좀비들은 파괴됐어, 그림노. 죽은 건 죽은 거야.",nw_hen_gri,,[지능 보통],,,0,0
+54319,PC,Player Character,Enough with the memories. Don't let this interfere with your duties to me!,기억은 이제 그만. 이게 나에 대한 네 의무를 방해하지 않게 해!,nw_hen_gri,,[지능 보통],,,0,0
+54320,PC,Player Character,"Me sorry for what happen to you friends, Grimgnaw.","나 네 친구들에게 일어난 일 안타까워, 그림노.",nw_hen_gri,,[지능 낮음],,,0,0
+54321,PC,Player Character,"Them zombies that was you friends be destroyed, dwarf. Dead is dead.","네 친구들이었던 좀비들 파괴됐어, 드워프. 죽은 건 죽은 거야.",nw_hen_gri,,[지능 낮음],,,0,0
+54322,PC,Player Character,Me not care 'bout all this! You better not let this stuff get in way of you work!,나 이 모든 거 신경 안 써! 너 이게 네 일 방해하면 안 돼!,nw_hen_gri,,[지능 낮음],,,0,0
+54323,PC,Player Character,How do you plan to do that?,어떻게 할 계획이야?,nw_hen_gri,,[지능 보통],,,0,0
+54324,PC,Player Character,What do you want me to do?,내가 뭘 하길 바라는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54325,PC,Player Character,What you need me do?,너 나한테 뭐 하라고?,nw_hen_gri,,[지능 낮음],,,0,0
+54326,PC,Player Character,What kind of components are you looking for?,어떤 종류의 재료를 찾고 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54327,PC,Player Character,What kind of component is you looking for?,너 무슨 종류 재료 찾고 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54328,PC,Player Character,You better not let you search get in way of work for me!,너 탐색이 나 위한 일 방해하면 안 돼!,nw_hen_gri,,[지능 낮음],,,0,0
+54329,PC,Player Character,"The reward you offer is greater than you know, Grimgnaw.","네가 주는 보상은 네가 아는 것보다 더 큰 거야, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54330,PC,Player Character,Great. That and a couple coppers will get me a mug of warm ale.,좋아. 그거랑 동전 몇 닢이면 따뜻한 에일 한 잔 살 수 있겠네.,nw_hen_gri,,[지능 보통],,,0,0
+54331,PC,Player Character,You not need give me reward. You thanks be reward enough.,너 나한테 보상 줄 필요 없어. 네 감사가 충분한 보상이야.,nw_hen_gri,,[지능 낮음],,,0,0
+54332,PC,Player Character,What good that do me? Me not buy stuff with thanks and friendship!,그게 나한테 무슨 소용이야? 나 감사와 우정으로 물건 못 사!,nw_hen_gri,,[지능 낮음],,,0,0
+54333,PC,Player Character,So you disapprove of what she has done?,그래서 그녀가 한 일을 인정할 수 없다는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54334,PC,Player Character,It be one thing for accept death. It be another to watch you lover be hanging from rope.,죽음 받아들이는 거랑 네 연인 밧줄에 매달려 있는 거 보는 거는 다른 거야.,nw_hen_gri,,[지능 낮음],,,0,0
+54335,PC,Player Character,So you not think it right what she done?,그래서 너 그녀가 한 일 옳지 않다고 생각해?,nw_hen_gri,,[지능 낮음],,,0,0
+54336,PC,Player Character,Go on.,계속해.,nw_hen_gri,,,,,0,0
+54337,PC,Player Character,You subject yourself to torture?,너 스스로 고문당한 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54338,PC,Player Character,You let youself be tortured?,너 스스로 고문당했어?,nw_hen_gri,,[지능 낮음],,,0,0
+54339,PC,Player Character,I want to hear about the rituals.,의식에 대해 듣고 싶어.,nw_hen_gri,,[지능 보통],,,0,0
+54340,PC,Player Character,Me want hear 'bout rituals.,나 의식 얘기 듣고 싶어.,nw_hen_gri,,[지능 낮음],,,0,0
+54341,PC,Player Character,Why does it have to be those specific three victims?,왜 꼭 그 특정한 세 희생자여야 해?,nw_hen_gri,,[지능 보통],,,0,0
+54342,PC,Player Character,Why it got to be them three exactly?,왜 꼭 그 셋이어야 해?,nw_hen_gri,,[지능 낮음],,,0,0
+54343,PC,Player Character,How does the wheel work?,수레바퀴는 어떻게 작동하는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54344,PC,Player Character,How wheel work?,수레바퀴 어떻게 작동해?,nw_hen_gri,,[지능 낮음],,,0,0
+54345,PC,Player Character,What was the final challenge?,최후의 시련이 뭐였어?,nw_hen_gri,,[지능 보통],,,0,0
+54346,PC,Player Character,Seems like your Order likes to kill off it's members. That's kind of foolish.,네 교단은 자기 구성원들을 죽이는 걸 좋아하는 것 같은데. 좀 어리석은 거 아니야?,nw_hen_gri,,[지능 보통],,,0,0
+54347,PC,Player Character,What the final challenge be?,최후 시련 뭐였어?,nw_hen_gri,,[지능 낮음],,,0,0
+54348,PC,Player Character,Sound like you Order kills everyone who want to join. That not too smart.,너네 교단 들어오고 싶은 사람 다 죽이는 것 같은데. 그거 별로 똑똑하지 않아.,nw_hen_gri,,[지능 낮음],,,0,0
+54349,PC,Player Character,But I thought you were a member of the Order already!,근데 너 이미 교단 구성원인 줄 알았는데!,nw_hen_gri,,[지능 보통],,,0,0
+54350,PC,Player Character,I can't help you with anything until I find the Words of Power.,권능의 언령을 찾기 전까지는 아무것도 도와줄 수 없어.,nw_hen_gri,,[지능 보통],,,0,0
+54351,PC,Player Character,Me not help you with nothin' 'til me find Power Words.,나 권능의 언령 찾을 때까지 아무것도 도와줄 수 없어.,nw_hen_gri,,[지능 낮음],,,0,0
+54352,PC,Player Character,This quest better not interfere with your duty to me!,이 탐색이 나에 대한 네 의무를 방해하지 않는 게 좋을 거야!,nw_hen_gri,,[지능 보통],,,0,0
+54353,PC,Player Character,You quest better not get in way of stuff you do for me!,너 탐색이 나 위해 하는 일 방해하면 안 돼!,nw_hen_gri,,[지능 낮음],,,0,0
+54354,PC,Player Character,"I thank you for this reward, Grimgnaw","이 보상에 대해 고마워, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54355,PC,Player Character,I feel like I'm getting screwed in this deal.,이 거래에서 내가 손해 보는 것 같은데.,nw_hen_gri,,[지능 보통],,,0,0
+54356,PC,Player Character,Me thank you for this.,나 이거 고마워.,nw_hen_gri,,[지능 낮음],,,0,0
+54357,PC,Player Character,Why me think you rip me off here?,왜 나 네가 날 속이는 것 같아?,nw_hen_gri,,[지능 낮음],,,0,0
+54358,PC,Player Character,Me not know you so squeamish.,나 네가 그렇게 겁이 많은 줄 몰랐어.,nw_hen_gri,,[지능 낮음],,,0,0
+54359,PC,Player Character,What happen to lich?,리치는 어떻게 됐어?,nw_hen_gri,,[지능 낮음],,,0,0
+54360,PC,Player Character,"You talk 'bout undead, right? Like zombies and liches and stuff.",너 언데드 얘기하는 거지? 좀비랑 리치 같은 거.,nw_hen_gri,,[지능 낮음],,,0,0
+54361,PC,Player Character,How you gonna do that?,너 그거 어떻게 할 거야?,nw_hen_gri,,[지능 낮음],,,0,0
+54362,PC,Player Character,"What are you going to do now, Grimgnaw?","이제 뭘 할 거야, 그림노?",nw_hen_gri,,[지능 보통],,,0,0
+54363,PC,Player Character,"What you do now, Grimgnaw?","너 이제 뭐 해, 그림노?",nw_hen_gri,,[지능 낮음],,,0,0
+54364,PC,Player Character,Wait? Wait for what?,기다린다고? 뭘 기다리는데?,nw_hen_gri,,[지능 보통],,,0,0
+54365,PC,Player Character,Wait? Why for you got to wait?,기다려? 왜 너 기다려야 해?,nw_hen_gri,,[지능 낮음],,,0,0
+54366,PC,Player Character,"You're a sick and evil man, Grimgnaw. Too evil for my taste.","너 병든 사악한 놈이야, 그림노. 내 취향에는 너무 사악해.",nw_hen_gri,,[지능 보통],,,0,0
+54367,PC,Player Character,"You be sick and evil, dwarf. Me not like you.","너 병들고 사악해, 드워프. 나 너 싫어.",nw_hen_gri,,[지능 낮음],,,0,0
+54368,PC,Player Character,I just think it's time we parted ways.,이제 헤어질 때인 것 같아.,nw_hen_gri,,[지능 보통],,,0,0
+54369,PC,Player Character,Me just think it time we go apart.,나 이제 우리 헤어질 때인 것 같아.,nw_hen_gri,,[지능 낮음],,,0,0
+54370,PC,Player Character,I've changed my mind. Stick with me and we'll leave a trail of bodies across the land!,마음을 바꿨어. 나랑 계속 있으면 이 땅에 시체 흔적을 남길 거야!,nw_hen_gri,,[지능 보통],,,0,0
+54371,PC,Player Character,Me change mind. You stay and we leave trail of bodies all over this land!,나 마음 바꿨어. 너 남아서 우리 이 땅 전체에 시체 흔적 남겨!,nw_hen_gri,,[지능 낮음],,,0,0
+54372,PC,Player Character,Did you ever go there youself?,너 직접 거기 가본 적 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54373,PC,Player Character,Did you ever investigate the Beggar's Nest on your own?,거지 소굴을 혼자서 조사해본 적 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54374,PC,Player Character,So the Silent Lord is the god your Order worships?,그러니까 침묵의 군주가 네 교단이 숭배하는 신이야?,nw_hen_gri,,[지능 보통],,,0,0
+54375,PC,Player Character,So Silent Lord be God you order worship?,그러니까 침묵의 군주가 너네 교단 숭배하는 신이야?,nw_hen_gri,,[지능 낮음],,,0,0
+54376,PC,Player Character,"Your Order sounds pretty evil, Grimgnaw.","네 교단은 꽤 사악하게 들리는데, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54377,PC,Player Character,You Order sound like it be real bad evil.,너네 교단 정말 나쁜 악처럼 들려.,nw_hen_gri,,[지능 낮음],,,0,0
+54378,PC,Player Character,"But they wouldn't accept you, would they?",하지만 그들은 널 받아들이지 않았겠지?,nw_hen_gri,,[지능 보통],,,0,0
+54379,PC,Player Character,You said before they shunned you. What happened?,전에 그들이 널 기피했다고 했잖아. 무슨 일이 있었어?,nw_hen_gri,,[지능 낮음],,,0,0
+54380,PC,Player Character,"Them other dwarves not want you around, do they?",다른 드워프들 너 주변에 있는 거 원하지 않지?,nw_hen_gri,,[지능 낮음],,,0,0
+54381,PC,Player Character,You said them others shun you. What happen?,너 다른 사람들이 널 기피한다고 했잖아. 무슨 일 있었어?,nw_hen_gri,,[지능 낮음],,,0,0
+54382,PC,Player Character,Did they reject you because you were part of the Long Death Order?,오랜 죽음의 교단 소속이라서 널 거부한 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54383,PC,Player Character,Did them send you away 'cause you be part of Long Death Order?,너 오랜 죽음 교단 소속이라서 널 쫓아낸 거야?,nw_hen_gri,,[지능 낮음],,,0,0
+54384,PC,Player Character,Can't say I've had the pleasure.,그런 즐거움을 가져본 적이 없다고 할 수밖에.,nw_hen_gri,,[지능 보통],,,0,0
+54385,PC,Player Character,That's horrible!,끔찍하네!,nw_hen_gri,,[지능 보통],,,0,0
+54386,PC,Player Character,"I've seen my share of killing, if that's what you mean.","그게 네 말뜻이라면, 나도 죽이는 건 꽤 봤어.",nw_hen_gri,,[지능 보통],,,0,0
+54387,PC,Player Character,That be horrible!,그거 끔찍해!,nw_hen_gri,,[지능 낮음],,,0,0
+54388,PC,Player Character,Me not ever had that pleasure.,나 그런 즐거움 가져본 적 없어.,nw_hen_gri,,[지능 낮음],,,0,0
+54389,PC,Player Character,"Me seen lots of killing, if that what you mean.",네 말이 그거라면 나 죽이는 거 많이 봤어.,nw_hen_gri,,[지능 낮음],,,0,0
+54390,PC,Player Character,"No kidding - you're a freak, Grimgnaw!","농담 아니고 - 너 괴물이야, 그림노!",nw_hen_gri,,[지능 보통],,,0,0
+54391,PC,Player Character,"They were weak, Grimgnaw. They couldn't dare to face death like you.","그들은 약했어, 그림노. 너처럼 죽음을 대면할 용기가 없었던 거야.",nw_hen_gri,,[지능 보통],,,0,0
+54392,PC,Player Character,"You be big weirdo freak, dwarf!","너 완전 이상한 괴물이야, 드워프!",nw_hen_gri,,[지능 낮음],,,0,0
+54393,PC,Player Character,"Them just weak. Them scared of death. They not strong like you, Grimgnaw.","그들 그냥 약해. 그들 죽음 무서워해. 그들 너처럼 강하지 않아, 그림노.",nw_hen_gri,,[지능 낮음],,,0,0
+54394,PC,Player Character,What do you mean by that?,그게 무슨 뜻이야?,nw_hen_gri,,[지능 보통],,,0,0
+54395,PC,Player Character,What you mean?,무슨 뜻이야?,nw_hen_gri,,[지능 낮음],,,0,0
+54396,PC,Player Character,"You can tell me, Grimgnaw. Maybe it's something I can help you with.","말해줘, 그림노. 어쩌면 내가 도와줄 수 있는 일일지도 몰라.",nw_hen_gri,,[지능 보통],,,0,0
+54397,PC,Player Character,Fine - just don't let it distract you from the job at hand!,좋아 - 하지만 당면한 일에서 주의를 분산시키지는 마!,nw_hen_gri,,[지능 보통],,,0,0
+54398,PC,Player Character,"It okay, dwarf. You can tell me you secret and maybe me can help you.","괜찮아, 드워프. 너 네 비밀 말해줘 그러면 나 도와줄 수 있을지도.",nw_hen_gri,,[지능 낮음],,,0,0
+54399,PC,Player Character,"Okay, but you not let you problem get in way of you work for me!","좋아, 근데 너 네 문제가 나 위한 일 방해하면 안 돼!",nw_hen_gri,,[지능 낮음],,,0,0
+54400,PC,Player Character,You follow here here?,너 그녀 여기까지 따라왔어?,nw_hen_gri,,[지능 낮음],,,0,0
+54401,PC,Player Character,Proof? What kind of proof?,증거? 무슨 증거?,nw_hen_gri,,,,,0,0
+54402,PC,Player Character,Me not gonna just stand by and watch you kill innocent woman!,나 그냥 서서 너 무고한 여자 죽이는 거 보지 않을 거야!,nw_hen_gri,nw_d1_small_good,[지능 낮음],,,0,0
+54403,PC,Player Character,I'm not going to just stand by and watch you kill an innocent woman!,무고한 여자를 죽이는 걸 그냥 서서 보고 있지는 않을 거야!,nw_hen_gri,nw_d1_small_good,[지능 보통],,,0,0
+54404,PC,Player Character,"This isn't right. I must part ways with you now, Grimgnaw.","이건 옳지 않아. 이제 너랑 헤어져야겠어, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54405,PC,Player Character,"Actually, I don't have a problem with killing this woman.","사실, 이 여자를 죽이는 건 문제없어.",nw_hen_gri,nw_d1_small_evil,[지능 보통],,,0,0
+54406,PC,Player Character,This not be right. Me not want stay with you no more.,이거 옳지 않아. 나 더 이상 너랑 있고 싶지 않아.,nw_hen_gri,,[지능 낮음],,,0,0
+54407,PC,Player Character,It okay. You stay. Me not care if you kill girly.,괜찮아. 너 남아. 나 네가 여자 죽여도 상관없어.,nw_hen_gri,nw_d1_small_evil,[지능 낮음],,,0,0
+54408,PC,Player Character,Tell me about Charwood.,그을린숲에 대해 말해줘.,nw_hen_gri,,[지능 보통],,,0,0
+54409,PC,Player Character,You tell 'bout Charwood.,너 그을린숲 얘기해줘.,nw_hen_gri,,[지능 낮음],,,0,0
+54410,PC,Player Character,Have you ever been to Charwood?,그을린숲에 가본 적 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54411,PC,Player Character,You ever be to Charwood?,너 그을린숲에 가본 적 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54412,PC,Player Character,"Is your Order evil, Grimgnaw?","네 교단은 사악한 거야, 그림노?",nw_hen_gri,,[지능 보통],,,0,0
+54413,PC,Player Character,"Is you Order be evil, dwarf?","너네 교단 사악한 거야, 드워프?",nw_hen_gri,,[지능 낮음],,,0,0
+54414,PC,Player Character,You worship death - it's no wonder you have enemies!,너희는 죽음을 숭배하잖아 - 적이 있는 게 당연하지!,nw_hen_gri,,[지능 보통],,,0,0
+54415,PC,Player Character,You be death cult! It no wonder you have enemies!,너희는 죽음 사교야! 적 있는 게 당연해!,nw_hen_gri,,[지능 낮음],,,0,0
+54416,PC,Player Character,What do you mean?,무슨 뜻이야?,nw_hen_gri,,[지능 보통],,,0,0
+54417,PC,Player Character,What you mean?,무슨 뜻이야?,nw_hen_gri,,[지능 낮음],,,0,0
+54418,PC,Player Character,"You're a sick man, Grimgnaw.","너 병든 놈이야, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+54419,PC,Player Character,"You one sick man, dwarf.","너 병든 놈이야, 드워프.",nw_hen_gri,,[지능 낮음],,,0,0
+54420,PC,Player Character,I don't think I want to get involved with this.,이 일에 연루되고 싶지 않은 것 같아.,nw_hen_gri,,[지능 보통],,,0,0
+54421,PC,Player Character,Me not want get mixed up in this.,나 이 일에 휘말리고 싶지 않아.,nw_hen_gri,,[지능 낮음],,,0,0
+54422,PC,Player Character,How do we get to the Dragon Mountains?,용의 산맥에 어떻게 가는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54423,PC,Player Character,How we get at Dragon Mountain?,우리 용의 산맥에 어떻게 가?,nw_hen_gri,,[지능 낮음],,,0,0
+54424,PC,Player Character,You used for live 'round here?,너 여기 근처에 살았어?,nw_hen_gri,,[지능 낮음],,,0,0
+54425,PC,Player Character,You used to live in this region?,이 지역에 살았어?,nw_hen_gri,,[지능 보통],,,0,0
+54426,PC,Player Character,That's a horrible thing to say!,그건 끔찍한 말이야!,nw_hen_gri,,[지능 보통],,,0,0
+54427,PC,Player Character,"You're a bloodthirsty freak, Grimgnaw. I like it!","너 피에 굶주린 괴물이구나, 그림노. 마음에 들어!",nw_hen_gri,nw_d1_small_evil,[지능 보통],,,0,0
+54428,PC,Player Character,That bad thing to say!,그거 나쁜 말이야!,nw_hen_gri,,[지능 낮음],,,0,0
+54429,PC,Player Character,"You sicko freak, dwarf! Me like it!","너 싸이코 괴물이야, 드워프! 나 마음에 들어!",nw_hen_gri,nw_d1_small_evil,[지능 낮음],,,0,0
+54430,PC,Player Character,"I could never believe these things to be beautiful, Grimgnaw. You're an evil, evil man!","이런 것들을 아름답다고는 절대 믿을 수 없어, 그림노. 너 정말 사악한 놈이야!",nw_hen_gri,,[지능 보통],,,0,0
+54431,PC,Player Character,"Me not ever think this stuff be beautiful, Grimgnaw. You be sick little man!","나 이런 거 절대 아름답다고 생각 안 해, 그림노. 너 병든 꼬맹이야!",nw_hen_gri,,[지능 낮음],,,0,0
+54432,PC,Player Character,"I kill when I have to, Grimgnaw, but I doubt I'll ever see anything beautiful in it.","필요할 때는 죽이지, 그림노, 하지만 거기서 아름다운 걸 볼 수 있을 것 같지는 않아.",nw_hen_gri,,[지능 보통],,,0,0
+54433,PC,Player Character,Me kill when me have to. Me not ever see nothing beautiful in it.,나 죽여야 할 때 죽여. 나 거기서 아름다운 거 절대 못 봐.,nw_hen_gri,,[지능 낮음],,,0,0
+54434,PC,Player Character,"Death, killing, pain, torture - I already love those things, Grimgnaw. Maybe I could join your Order?","죽음, 살육, 고통, 고문 - 난 이미 그런 것들을 좋아해, 그림노. 어쩌면 네 교단에 들어갈 수 있을까?",nw_hen_gri,,[지능 보통],,,0,0
+54435,PC,Player Character,Me already like killing and torture and stuff. Maybe me could join you Order?,나 이미 죽이는 거랑 고문 같은 거 좋아해. 나 너네 교단 들어갈 수 있어?,nw_hen_gri,,[지능 낮음],,,0,0
+54436,PC,Player Character,I'd never want to hear about that stuff anyway!,어차피 그런 것들에 대해 듣고 싶지도 않아!,nw_hen_gri,,[지능 보통],,,0,0
+54437,PC,Player Character,Me not never want hear 'bout tha anyway!,나 어쨌든 그런 거 듣고 싶지 않아!,nw_hen_gri,,[지능 낮음],,,0,0
+54438,PC,Player Character,So enlighten me. Tell me about your Order's rituals.,그럼 가르쳐줘. 네 교단의 의식에 대해 말해줘.,nw_hen_gri,,[지능 보통],,,0,0
+54439,PC,Player Character,You teach me. Tell me 'bout you rituals and stuff.,너 나 가르쳐줘. 너네 의식 같은 거 말해줘.,nw_hen_gri,,[지능 낮음],,,0,0
+54440,PC,Player Character,"What kind of monster are you, Grimgnaw? You deserve death!","너 어떤 괴물이야, 그림노? 넌 죽어 마땅해!",nw_hen_gri,,[지능 보통],,,0,0
+54441,PC,Player Character,"You be monster, Grimgnaw! You deserve death!","너 괴물이야, 그림노! 너 죽어 마땅해!",nw_hen_gri,,[지능 낮음],,,0,0
+54442,PC,Player Character,Fine. Go on.,좋아. 계속해.,nw_hen_gri,,,,,0,0
+54443,PC,Player Character,But me thought you already be member of you Order!,근데 나 너 이미 네 교단 구성원인 줄 알았어!,nw_hen_gri,,[지능 낮음],,,0,0
+54444,PC,Player Character,What task?,무슨 임무?,nw_hen_gri,,,,,0,0
+54445,PC,Player Character,Sounds simple.,간단하게 들리는데.,nw_hen_gri,,,,,0,0
+54446,PC,Player Character,Why would they bless a weapon just so someone else can use it to kill them?,왜 다른 사람이 그걸 써서 자신들을 죽이게 하려고 무기를 축성하는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54447,PC,Player Character,Why them bless weapon just so some guy can use it for kill them?,왜 그들 무기 축성해서 다른 놈이 그걸로 자기들 죽이게 해?,nw_hen_gri,,[지능 낮음],,,0,0
+54448,PC,Player Character,So you want me to find this weapon for you?,그래서 내가 이 무기를 찾아주길 바라는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54449,PC,Player Character,You want me for find weapon for you?,너 나한테 무기 찾아달라는 거야?,nw_hen_gri,,[지능 낮음],,,0,0
+54450,PC,Player Character,So wouldn't my help be a violation of your Order's beliefs?,그럼 내 도움이 네 교단의 신념에 어긋나는 거 아니야?,nw_hen_gri,,[지능 보통],,,0,0
+54451,PC,Player Character,But if me help you that not be against the rules?,근데 나 너 도우면 규칙 어기는 거 아니야?,nw_hen_gri,,[지능 낮음],,,0,0
+54452,PC,Player Character,How will I recognize one of these blessed weapons?,이 축성된 무기들을 어떻게 알아볼 수 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54453,PC,Player Character,How me know when me find blessed weapon?,나 축성된 무기 찾으면 어떻게 알아?,nw_hen_gri,,[지능 낮음],,,0,0
+63979,PC,Player Character,"Me too busy for this now, monk!","나 지금 이거 할 시간 없어, 수도사!",nw_hen_gri,,[지능 낮음],,,0,0
+63980,PC,Player Character,"Not now, Grimgnaw! I'm kind of busy here!","지금은 안 돼, 그림노! 여기서 좀 바빠!",nw_hen_gri,,[지능 보통],,,0,0
+63981,PC,Player Character,Me not want to hear it. We got big fight ahead.,나 듣고 싶지 않아. 우리 앞에 큰 싸움 있어.,nw_hen_gri,,[지능 낮음],,,0,0
+63982,PC,Player Character,"Good, keep quiet. We've got business to take care of!","좋아, 조용히 해. 우리 처리할 일이 있어!",nw_hen_gri,,[지능 보통],,,0,0
+63983,PC,Player Character,"No, you tell me what you got to say.","아니, 너 할 말 있으면 말해.",nw_hen_gri,,[지능 낮음],,,0,0
+63984,PC,Player Character,"No, tell me what you have to say.","아니, 할 말이 있으면 말해.",nw_hen_gri,,[지능 보통],,,0,0
+63985,PC,Player Character,"What you want, Grimgnaw?","뭐 원해, 그림노?",nw_hen_gri,,[지능 낮음],,,0,0
+63986,PC,Player Character,"Yes, Grimgnaw - what is it?","그래, 그림노 - 뭐야?",nw_hen_gri,,[지능 보통],,,0,0
+63987,PC,Player Character,Me only kill when me got no other choice.,나 다른 선택 없을 때만 죽여.,nw_hen_gri,,[지능 낮음],,,0,0
+63988,PC,Player Character,"I only kill when I have to, Grimgnaw.","죽여야 할 때만 죽여, 그림노.",nw_hen_gri,,[지능 보통],,,0,0
+63989,PC,Player Character,"*Sigh* Me big hero now, so me guess lots of people gonna be in awe when me come around.",*한숨* 나 이제 큰 영웅이라 많은 사람들 내가 오면 경외할 거야.,nw_hen_gri,,[지능 낮음],,,0,0
+63990,PC,Player Character,*Sigh* I guess people holding me in awe is the burden of being a hero.,*한숨* 사람들이 날 경외하는 건 영웅이 되는 대가인 것 같아.,nw_hen_gri,,[지능 보통],,,0,0
+63991,PC,Player Character,"You not worry, Grimgnaw. You good at killing people, too.","너 걱정하지 마, 그림노. 너도 사람 죽이는 거 잘해.",nw_hen_gri,,[지능 낮음],,,0,0
+63992,PC,Player Character,"Don't sell yourself short, Grimgnaw. You spread as much bloodshed as I do.","너무 겸손하게 굴지 마, 그림노. 너도 나만큼 피를 흘리게 하잖아.",nw_hen_gri,,[지능 보통],,,0,0
+63993,PC,Player Character,"Enough talk, dwarf! Morag not be dead yet! We still got work to do!","말 그만해, 드워프! 모라그 아직 안 죽었어! 우리 아직 할 일 있어!",nw_hen_gri,,[지능 낮음],,,0,0
+63994,PC,Player Character,"Save it, dwarf. Our work here isn't done.","그만해, 드워프. 여기서 우리 일은 끝나지 않았어.",nw_hen_gri,,[지능 보통],,,0,0
+63995,PC,Player Character,You talk like you think you gonna die in this fight!,너 이 싸움에서 죽을 것처럼 말하는데!,nw_hen_gri,,[지능 낮음],,,0,0
+63996,PC,Player Character,Are you saying you expect to die in this battle?,이 전투에서 죽을 거라고 예상한다는 거야?,nw_hen_gri,,[지능 보통],,,0,0

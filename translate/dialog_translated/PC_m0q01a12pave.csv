@@ -1,0 +1,53 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+50683,PC,Player Character,I think we need to change your tactics.,네 전술을 좀 바꿔야 할 것 같아.,m0q01a12pave,,[지능 보통],,,0,0
+50684,PC,Player Character,I think I'll do better off on my own.,혼자 하는 게 나을 것 같아.,m0q01a12pave,,[지능 보통],,,0,0
+50685,PC,Player Character,We need to change the distance you stay away from me.,나랑 떨어져 있는 거리를 바꿔야겠어.,m0q01a12pave,,,,,0,0
+50686,PC,Player Character [Follow: Close],Six feet.,2미터.,m0q01a12pave,nw_ch_dist_6,,[Follow: Close],,0,0
+50687,PC,Player Character [Follow: Medium],Twelve feet.,4미터.,m0q01a12pave,nw_ch_dist_12,,[Follow: Medium],,0,0
+50688,PC,Player Character [Follow: Far],Eighteen feet.,6미터.,m0q01a12pave,nw_ch_dist_18,,[Follow: Far],,0,0
+50689,PC,Player Character,Nevermind.,됐어.,m0q01a12pave,,,,,0,0
+50690,PC,Player Character,Could you alter your spell casting practices?,주문 시전 방식을 바꿔줄 수 있어?,m0q01a12pave,,nw_ch_spell_0,,,0,0
+50691,PC,Player Character [Companion Settings],I want you to use your most powerful spells first.,가장 강력한 주문부터 먼저 써줘.,m0q01a12pave,nw_ch_spell_1,[지능 보통],[Companion Settings],,0,0
+50692,PC,Player Character [Companion Settings],Try to overpower monster with higher level spells.,높은 레벨 주문으로 괴물을 압도해봐.,m0q01a12pave,nw_ch_spell_2,[지능 보통],[Companion Settings],,0,0
+50693,PC,Player Character [Companion Settings],Try to user appropriately powered spells for the monsters we fight.,싸우는 괴물에 맞게 적절한 주문을 써봐.,m0q01a12pave,nw_ch_spell_3,[지능 보통],[Companion Settings],,0,0
+50694,PC,Player Character,Could we change how quickly you decide to heal me.,나를 치료하는 타이밍을 바꿔줄 수 있어?,m0q01a12pave,,nw_ch_heal_0,,,0,0
+50695,PC,Player Character [Healing: 75% HP],Heal me if I become somewhat injured (below 75% of total hit points).,좀 다치면 치료해줘 (체력 75% 이하일 때).,m0q01a12pave,nw_ch_heal_75,[지능 보통],[Healing: 75% HP],,0,0
+50696,PC,Player Character [Healing: 50% HP],Heal me if I become wounded (below 50% of total hit points).,부상당하면 치료해줘 (체력 50% 이하일 때).,m0q01a12pave,nw_ch_heal_50,[지능 보통],[Healing: 50% HP],,0,0
+50697,PC,Player Character [Healing: 25% HP],Heal me if I become seriously wounded (below 25% of total hit points).,심하게 다치면 치료해줘 (체력 25% 이하일 때).,m0q01a12pave,nw_ch_heal_25,[지능 보통],[Healing: 25% HP],,0,0
+50698,PC,Player Character [Companion Settings],Could you not search all the time?,항상 수색하지 않아도 돼.,m0q01a12pave,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+50699,PC,Player Character [Companion Settings],Could you please search when we move around?,이동할 때 수색 좀 해줘.,m0q01a12pave,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+50700,PC,Player Character [Companion Settings],Could you use more stealth when we travel?,이동할 때 좀 더 은밀하게 다녀줄래?,m0q01a12pave,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+50701,PC,Player Character [Companion Settings],Could you stop being so stealthy all the time?,항상 그렇게 은밀하게 안 해도 돼.,m0q01a12pave,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+50702,PC,Player Character [Companion Settings],"If I fail to open a locked door or chest, please come to my aid.",내가 잠긴 문이나 상자 여는 데 실패하면 도와줘.,m0q01a12pave,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+50703,PC,Player Character [Companion Settings],"If I fail to open a locked door or chest, do not assist me.",내가 잠긴 문이나 상자 여는 데 실패해도 도와주지 마.,m0q01a12pave,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+50704,PC,Player Character,I don't want to change anything else right now.,지금은 다른 건 안 바꿀래.,m0q01a12pave,,,,,0,0
+50705,PC,Player Character,We need change way you do stuff.,너 하는 거... 바꿔야 해.,m0q01a12pave,,[지능 낮음],,,0,0
+50706,PC,Player Character,Me no want you here no more.,나 더 이상 너 필요 없어.,m0q01a12pave,,[지능 낮음],,,0,0
+50707,PC,Player Character,You change how far away you stay.,너 거리 바꿔. 얼마나 멀리 있을지.,m0q01a12pave,,,,,0,0
+50708,PC,Player Character,You need change how you shoot spells.,너 주문 쏘는 거 바꿔야 해.,m0q01a12pave,,nw_ch_spell_0,,,0,0
+50709,PC,Player Character,You need change how you heal me.,너 나 치료하는 거 바꿔야 해.,m0q01a12pave,,nw_ch_heal_0,,,0,0
+50710,PC,Player Character [Companion Settings],You not search all time no more.,너 이제 맨날 찾아다니지 마.,m0q01a12pave,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+50711,PC,Player Character [Companion Settings],You search all time when we move.,너 우리 움직일 때 맨날 찾아다녀.,m0q01a12pave,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+50712,PC,Player Character [Companion Settings],You stop sneaking so quiet now.,이제 조용히 숨는 거 그만해.,m0q01a12pave,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+50713,PC,Player Character [Companion Settings],You start sneak quiet now.,이제 조용히 숨어다녀.,m0q01a12pave,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+50714,PC,Player Character [Companion Settings],"If me fail on locked door or chest, you help me.",나 잠긴 거 못 열면 너 도와줘.,m0q01a12pave,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+50715,PC,Player Character [Companion Settings],"If me fail on locked door or chest, you not help me.",나 잠긴 거 못 열어도 너 도와주지 마.,m0q01a12pave,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+50716,PC,Player Character,Me not want change anything else now.,나 지금 다른 거 안 바꿔.,m0q01a12pave,,,,,0,0
+50717,PC,Player Character [Companion Settings],Use you most powerful spells first.,너 제일 쎈 주문 먼저 써.,m0q01a12pave,nw_ch_spell_1,[지능 낮음],[Companion Settings],,0,0
+50718,PC,Player Character [Companion Settings],You try overpower monster with higher level spells.,너 높은 주문으로 괴물 눌러.,m0q01a12pave,nw_ch_spell_2,[지능 낮음],[Companion Settings],,0,0
+50719,PC,Player Character [Companion Settings],You try use strong spells on strong baddies and weak spells on weak baddies.,쎈 놈한테 쎈 주문 쓰고 약한 놈한테 약한 주문 써.,m0q01a12pave,nw_ch_spell_3,[지능 낮음],[Companion Settings],,0,0
+50720,PC,Player Character [Healing: 75% HP],You heal if me sort of hurt (below 75% of total hit points).,나 좀 아프면 치료해줘 (체력 75% 아래).,m0q01a12pave,nw_ch_heal_75,[지능 낮음],[Healing: 75% HP],,0,0
+50721,PC,Player Character [Healing: 50% HP],You heal if me wounded (below 50% of total hit points).,나 다치면 치료해줘 (체력 50% 아래).,m0q01a12pave,nw_ch_heal_50,[지능 낮음],[Healing: 50% HP],,0,0
+50722,PC,Player Character [Healing: 25% HP],You heal if me hurt real bad (below 25% of total hit points).,나 많이 아프면 치료해줘 (체력 25% 아래).,m0q01a12pave,nw_ch_heal_25,[지능 낮음],[Healing: 25% HP],,0,0
+50723,PC,Player Character,Yes. Go.,응. 가.,m0q01a12pave,,,,,0,0
+50724,PC,Player Character,No. Stay.,아니. 있어.,m0q01a12pave,,,,,0,0
+50725,PC,Player Character,"Okay, join up with me.","좋아, 나랑 같이 다니자.",m0q01a12pave,,[지능 보통],,,0,0
+50726,PC,Player Character,"Okay, you be join up with me.","좋아, 너 나랑 같이 다녀.",m0q01a12pave,,[지능 낮음],,,0,0
+50727,PC,Player Character,"Sorry, not interested.","미안, 관심 없어.",m0q01a12pave,,,,,0,0
+50728,PC,Player Character,Join up?,같이 갈래?,m0q01a12pave,,,,,0,0
+57864,PC,Player Character,Forget it.,됐어.,m0q01a12pave,,,,,0,0
+61589,PC,Player Character,Goodbye.,잘 가.,m0q01a12pave,,,,,0,0
+61590,PC,Player Character,Some got what it takes. Some don't got it.,어떤 놈은 되고. 어떤 놈은 안 되고.,m0q01a12pave,,[지능 낮음],,,0,0
+61591,PC,Player Character,"Some people have what it takes, some don't.","될 사람은 되고, 안 될 사람은 안 되는 거야.",m0q01a12pave,,[지능 보통],,,0,0
+61592,PC,Player Character,You just got to stick with it.,그냥 계속 해봐.,m0q01a12pave,,[지능 낮음],,,0,0
+61593,PC,Player Character,"You just have to stick with it, Pavel.","그냥 꾸준히 하면 돼, 파벨.",m0q01a12pave,,[지능 보통],,,0,0

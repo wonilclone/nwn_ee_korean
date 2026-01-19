@@ -1,0 +1,98 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+32961,PC,Player Character,You seem rather nervous. What's your name?,꽤 긴장한 것 같은데. 이름이 뭐지?,m2q2ajax2,,[지능 보통],,,0,0
+32962,PC,Player Character,I don't look like who?,누구처럼 안 보인다는 거야?,m2q2ajax2,,[지능 보통],,,0,0
+32963,PC,Player Character,Who you be?,너 누구야?,m2q2ajax2,,[지능 낮음],,,0,0
+32964,PC,Player Character,Me not look like who?,나 누구처럼 안 보여?,m2q2ajax2,,[지능 낮음],,,0,0
+32965,PC,Player Character,I am <FirstName>. What creatures are you talking about?,난 <FirstName>이야. 어떤 생명체를 얘기하는 건데?,m2q2ajax2,,[지능 보통],,,0,0
+32966,PC,Player Character,My name is <FullName> and I am interested in hearing more about these creatures.,"내 이름은 <FullName>이고, 그 생명체에 대해 더 듣고 싶은데.",m2q2ajax2,,[지능 보통],,,0,0
+32967,PC,Player Character,"Nevermind my name, what are these creatures you are looking for?",이름은 신경 쓰지 마. 네가 찾고 있는 게 뭔데?,m2q2ajax2,,[지능 보통],,,0,0
+32968,PC,Player Character,Me be <FirstName>. What creatures you hunt?,나 이름 <FirstName>. 무슨 생명체 사냥해?,m2q2ajax2,,[지능 낮음],,,0,0
+32969,PC,Player Character,Me name be <FullName> and me want know more about creatures.,나 이름 <FullName>이고 생명체 더 알고 싶어.,m2q2ajax2,,[지능 낮음],,,0,0
+32970,PC,Player Character,You not need know name. You tell me about creatures.,이름 몰라도 돼. 생명체 얘기해.,m2q2ajax2,,[지능 낮음],,,0,0
+32971,PC,Player Character,Maybe we should start with introductions.,자기소개부터 하는 게 좋겠는데.,m2q2ajax2,,[지능 보통],,,0,0
+32972,PC,Player Character,Trolls? Tell me more!,트롤? 더 말해봐!,m2q2ajax2,,[지능 보통],,,0,0
+32973,PC,Player Character,Trolls. You tell me 'bout trolls.,트롤. 트롤 얘기해.,m2q2ajax2,,[지능 낮음],,,0,0
+32974,PC,Player Character,So you are looking for dead things?,그래서 죽은 것들을 찾고 있다는 거야?,m2q2ajax2,,[지능 보통],,,0,0
+32975,PC,Player Character,You mean you want find dead thing?,죽은 거 찾는다는 거야?,m2q2ajax2,,[지능 낮음],,,0,0
+32976,PC,Player Character,Trolls? Ogres? Tell me more about them.,트롤? 오우거? 그것들에 대해 더 말해봐.,m2q2ajax2,,[지능 보통],,,0,0
+32977,PC,Player Character,Tell me more about this creator race.,그 창조자 종족에 대해 더 말해줘.,m2q2ajax2,,[지능 보통],,,0,0
+32978,PC,Player Character,What kind of treasure are you suggesting?,어떤 보물을 말하는 건데?,m2q2ajax2,,[지능 보통],,,0,0
+32979,PC,Player Character,I think I've heard enough. Goodbye.,이제 충분히 들은 것 같네. 잘 가.,m2q2ajax2,,[지능 보통],,,0,0
+32980,PC,Player Character,Me want know about trolls.,나 트롤 더 알고 싶어.,m2q2ajax2,,[지능 낮음],,,0,0
+32981,PC,Player Character,What more you know about creator race?,창조자 종족 뭐 더 알아?,m2q2ajax2,,[지능 낮음],,,0,0
+32982,PC,Player Character,Treasure? Me want hear more 'bout treasure.,보물? 나 보물 더 듣고 싶어.,m2q2ajax2,,[지능 낮음],,,0,0
+32983,PC,Player Character,Me grow bored. Bye bye.,나 심심해. 안녕.,m2q2ajax2,,[지능 낮음],,,0,0
+32984,PC,Player Character,What you need for to prove?,뭐로 증명해?,m2q2ajax2,,[지능 낮음],,,0,0
+32985,PC,Player Character,I could help you look for this ancient tome.,그 고대의 책을 찾는 걸 도와줄 수 있어.,m2q2ajax2,,[지능 보통],,,0,0
+32986,PC,Player Character,I'm not really interested.,별로 관심 없는데.,m2q2ajax2,,[지능 보통],,,0,0
+32987,PC,Player Character,I help you get tome.,나 책 찾는 거 도와줄게.,m2q2ajax2,,[지능 낮음],,,0,0
+32988,PC,Player Character,Me not care for books. Me find other things to do.,나 책 안 좋아해. 다른 거 할래.,m2q2ajax2,,[지능 낮음],,,0,0
+32989,PC,Player Character,What were you looking for again?,뭘 찾는다고 했지?,m2q2ajax2,,[지능 보통],,,0,0
+32990,PC,Player Character,<StartCheck>[Persuade]</Start> I want to help you find that book. How much will you pay me?,<StartCheck>[설득]</Start> 책 찾는 걸 돕고 싶은데. 얼마나 줄 건데?,m2q2ajax2,,[지능 보통],,,0,0
+32991,PC,Player Character,"This wouldn't happen to be the book you are looking for, would it?",혹시 네가 찾던 책이 이거 아닐까?,m2q2ajax2,,nw_d2_j_arti_it1,,,0,0
+32992,PC,Player Character,You say what you looking for again?,뭐 찾는다고 했어?,m2q2ajax2,,[지능 낮음],,,0,0
+32993,PC,Player Character,Me want look for book. How much you pay?,나 책 찾고 싶어. 얼마 줘?,m2q2ajax2,,[지능 낮음],,,0,0
+32994,PC,Player Character,Maybe this be book you want?,혹시 이거 찾던 책이야?,m2q2ajax2,,nw_d2_j_arti_it2,,,0,0
+32995,PC,Player Character,Goodbye.,잘 가.,m2q2ajax2,,,,,0,0
+32996,PC,Player Character,<StartCheck>[Persuade]</Start> You wouldn't believe the hell I had to go through to get this. Surely you could afford a little more.,<StartCheck>[설득]</Start> 이거 구하느라 얼마나 고생했는지 모를 거야. 분명 좀 더 줄 수 있을 텐데.,m2q2ajax2,,[지능 보통],,,0,0
+32997,PC,Player Character,You better fork over more than that or you'll get to experience all the pain I suffered recovering the darn thing.,더 안 주면 내가 이거 구하느라 겪은 고통을 네가 똑같이 겪게 해주지.,m2q2ajax2,nw_d1_small_evil,[지능 보통],,,0,0
+32998,PC,Player Character,"Certainly, that sounds fine by me.","물론이지, 괜찮아.",m2q2ajax2,,[지능 보통],,,0,0
+32999,PC,Player Character,Not a chance. Finders keepers you know.,안 돼. 주운 사람이 임자지.,m2q2ajax2,,[지능 보통],,,0,0
+33000,PC,Player Character,<StartCheck>[Persuade]</Start> Me work hard to find. Me want more.,<StartCheck>[설득]</Start> 나 찾느라 힘들었어. 더 줘.,m2q2ajax2,,[지능 낮음],,,0,0
+33001,PC,Player Character,Me show you how much it hurt to find 'less you give me more!,더 안 주면 내가 얼마나 아팠는지 보여줄 거야!,m2q2ajax2,nw_d1_small_evil,[지능 낮음],,,0,0
+33002,PC,Player Character,That seem fair.,괜찮아.,m2q2ajax2,,[지능 낮음],,,0,0
+33003,PC,Player Character,No selling! Me keeping book. Finders keepers.,안 팔아! 나 가질 거야. 주운 사람이 임자야.,m2q2ajax2,,[지능 낮음],,,0,0
+33004,PC,Player Character,All right. 750 gold pieces it is.,좋아. 금화 750이면 되지.,m2q2ajax2,,[지능 보통],,,0,0
+33005,PC,Player Character,Okay. 750 gp.,좋아. 금화 750.,m2q2ajax2,,[지능 낮음],,,0,0
+33006,PC,Player Character,"I don't think so. I can get a better price from someone else, I think.",안 될 것 같은데. 다른 사람한테 더 받을 수 있을 것 같아.,m2q2ajax2,,[지능 보통],,,0,0
+33007,PC,Player Character,"Nope, me sell for more to someone else.",안 돼. 다른 사람한테 더 받고 팔 거야.,m2q2ajax2,,[지능 낮음],,,0,0
+33008,PC,Player Character,That sounds better. Hand over the gold.,그게 더 낫네. 금화 내놔.,m2q2ajax2,,[지능 보통],,,0,0
+33009,PC,Player Character,"Nope, I'm keeping it.","안 돼, 내가 가질 거야.",m2q2ajax2,,[지능 보통],,,0,0
+33010,PC,Player Character,That be better. Here you book.,좋아. 여기 책.,m2q2ajax2,,[지능 낮음],,,0,0
+33011,PC,Player Character,"Nope, me keep.",안 돼. 나 가져.,m2q2ajax2,,[지능 낮음],,,0,0
+33012,PC,Player Character,"<StartCheck>[Persuade]</Start> All right. I hate to part with it for only 500 gp, though... ",<StartCheck>[설득]</Start> 알았어. 그런데 금화 500으로 팔기엔 아까운데...,m2q2ajax2,,[지능 보통],,,0,0
+33013,PC,Player Character,I guess I need the 500 gold more than the book.,책보다 금화 500이 더 필요할 것 같네.,m2q2ajax2,,[지능 보통],,,0,0
+33014,PC,Player Character,"That's all right. I can find someone else who will pay me for it, I think.",괜찮아. 더 쳐주는 다른 사람을 찾을 수 있을 거야.,m2q2ajax2,,[지능 보통],,,0,0
+33015,PC,Player Character,<StartCheck>[Persuade]</Start> Mmmm... okay. But me likes it a lot... 500 gold pieces seems not so much.,<StartCheck>[설득]</Start> 으음... 좋아. 하지만 나 이거 좋아하는데... 금화 500 너무 적어.,m2q2ajax2,,[지능 낮음],,,0,0
+33016,PC,Player Character,Me guesses 500 gold pieces is okay.,나 금화 500 괜찮아.,m2q2ajax2,,[지능 낮음],,,0,0
+33017,PC,Player Character,Nope. Me sell someone else for more.,안 돼. 다른 사람한테 더 받고 팔 거야.,m2q2ajax2,,[지능 낮음],,,0,0
+33018,PC,Player Character,Where did you say you thought that book was?,책이 어디 있다고 했지?,m2q2ajax2,,nw_d2_j_arti11,,,0,0
+33019,PC,Player Character,"I think I found your book, is this it?","네 책 찾은 것 같은데, 이거 맞아?",m2q2ajax2,,nw_d2_j_arti_it1,,,0,0
+33020,PC,Player Character,"No, nothing yet.","아니, 아직 못 찾았어.",m2q2ajax2,,[지능 보통],,,0,0
+33021,PC,Player Character,Quit being so pushy! I'll get around to finding it.,그렇게 재촉하지 마! 찾을 거니까.,m2q2ajax2,,[지능 보통],,,0,0
+33022,PC,Player Character,"Found it, me thinks. This it?",찾은 것 같아. 이거야?,m2q2ajax2,,nw_d2_j_arti_it2,,,0,0
+33023,PC,Player Character,Nope. But me working on it.,아니. 하지만 찾는 중이야.,m2q2ajax2,,[지능 낮음],,,0,0
+33024,PC,Player Character,You no bug me. Me find when good and ready to find.,재촉하지 마. 준비되면 찾을 거야.,m2q2ajax2,,[지능 낮음],,,0,0
+33025,PC,Player Character,Where me find book again?,책 어디서 찾으라고 했어?,m2q2ajax2,,nw_d2_j_arti12,,,0,0
+33026,PC,Player Character,"Okay, goodbye.","그래, 잘 가.",m2q2ajax2,,,,,0,0
+33027,PC,Player Character,What did you do then?,그래서 뭘 했는데?,m2q2ajax2,,[지능 보통],,,0,0
+33028,PC,Player Character,Obviously you didn't hire good guards!,좋은 경비병을 안 고용했나 보지!,m2q2ajax2,,[지능 보통],,,0,0
+33029,PC,Player Character,I'm sorry for your grief.,안됐네.,m2q2ajax2,,[지능 보통],,,0,0
+33030,PC,Player Character,Get to the point.,요점만 말해.,m2q2ajax2,,[지능 보통],,,0,0
+33031,PC,Player Character,Me sorry they die.,죽어서 안됐어.,m2q2ajax2,,[지능 낮음],,,0,0
+33032,PC,Player Character,Hurry up.,빨리 말해.,m2q2ajax2,,[지능 낮음],,,0,0
+33033,PC,Player Character,What you do?,뭐 했어?,m2q2ajax2,,[지능 낮음],,,0,0
+33034,PC,Player Character,"Why you no hire big, strong guards?",왜 크고 강한 경비병 안 고용했어?,m2q2ajax2,,[지능 낮음],,,0,0
+33035,PC,Player Character,When did they fight dragons?,용들과 언제 싸웠는데?,m2q2ajax2,,[지능 보통],,,0,0
+33036,PC,Player Character,How long ago did this supposedly take place?,그게 얼마나 오래전 일이라는 거야?,m2q2ajax2,,[지능 보통],,,0,0
+33037,PC,Player Character,When fight dragons?,용들이랑 언제 싸웠어?,m2q2ajax2,,[지능 낮음],,,0,0
+33038,PC,Player Character,When this maybe happen?,그게 언제 있었던 일이야?,m2q2ajax2,,[지능 낮음],,,0,0
+33039,PC,Player Character,And you think you can prove this race existed?,그래서 그 종족이 존재했다는 걸 증명할 수 있다는 거야?,m2q2ajax2,,[지능 보통],,,0,0
+33040,PC,Player Character,Grant money? Is that what you are worried about?,연구 보조금? 그게 걱정되는 거야?,m2q2ajax2,,[지능 보통],,,0,0
+33041,PC,Player Character,What is the grant money for?,연구 보조금은 뭐 하는 데 쓰는 건데?,m2q2ajax2,,[지능 보통],,,0,0
+33042,PC,Player Character,What grant money?,무슨 보조금?,m2q2ajax2,,[지능 낮음],,,0,0
+33043,PC,Player Character,Ah! You care 'bout money. That me understand.,아! 돈 걱정하는구나. 그건 나도 알아.,m2q2ajax2,,[지능 낮음],,,0,0
+33044,PC,Player Character,That would be just fine.,괜찮아.,m2q2ajax2,,[지능 보통],,,0,0
+33045,PC,Player Character,<StartCheck>[Persuade]</Start> This sounds very dangerous. I think some money up front would be justified.,<StartCheck>[설득]</Start> 꽤 위험해 보이는데. 선금 좀 받는 게 당연하지 않을까.,m2q2ajax2,,[지능 보통],,,0,0
+33046,PC,Player Character,That be good.,좋아.,m2q2ajax2,,[지능 낮음],,,0,0
+33047,PC,Player Character,"All right, I'm off.","좋아, 다녀오지.",m2q2ajax2,,[지능 보통],,,0,0
+33048,PC,Player Character,<StartCheck>[Persuade]</Start> This sound dangerous. Me want gold first to do job.,<StartCheck>[설득]</Start> 위험해 보여. 일 시작하기 전에 돈 줘.,m2q2ajax2,,[지능 낮음],,,0,0
+33049,PC,Player Character,Me off.,갈게.,m2q2ajax2,,[지능 낮음],,,0,0
+33050,PC,Player Character,"Good enough, for now.",일단은 괜찮네.,m2q2ajax2,,[지능 보통],,,0,0
+33051,PC,Player Character,"Me agree, for now.",나 좋아.,m2q2ajax2,,[지능 낮음],,,0,0
+33052,PC,Player Character,What's your name again?,이름이 뭐라고 했지?,m2q2ajax2,,[지능 보통],,,0,0
+33053,PC,Player Character,What you called?,이름 뭐야?,m2q2ajax2,,[지능 낮음],,,0,0
+33054,PC,Player Character,What kind of research do you do here?,여기서 무슨 연구를 하는 건데?,m2q2ajax2,,[지능 보통],,,0,0
+33055,PC,Player Character,What re-search? What you do here?,연구 뭐야? 여기서 뭐 해?,m2q2ajax2,,[지능 낮음],,,0,0
+33056,PC,Player Character,Research? You mean you're hunting creatures?,연구? 생명체를 사냥한다는 거야?,m2q2ajax2,,[지능 보통],,,0,0
+33057,PC,Player Character,Uhh... you mean you hunts stuff?,으... 사냥한다는 거야?,m2q2ajax2,,[지능 낮음],,,0,0

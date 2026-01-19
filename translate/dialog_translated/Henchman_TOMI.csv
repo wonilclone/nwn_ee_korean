@@ -1,0 +1,257 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+86428,Henchman,Henchman_TOMI,"""Aye? Don't suppose there's some reason for us ta chat, is there? Naw, didn't bloody well think so.""","""응? 우리가 대화할 이유가 있을 리 없잖아, 안 그래? 아니, 그럴 줄 알았어.""",TOMI,,,,vs_nx2tomim_71,0,0
+86429,Henchman,Henchman_TOMI,"""Am I glad to see you! I expect the gods're gettin' tired of seein' me. They're going ta start thinking I'm just taunting them, ya know.""","""널 만나니 정말 기쁘다고! 신들도 나 보는 거 지겨워할 거야. 내가 그냥 약 올리는 거라고 생각하기 시작할걸, 알지?""",TOMI,,,,vs_nx2tomim_72,0,0
+86430,Henchman,Henchman_TOMI,"""Oy! Listen up!""","""이봐! 잘 들어!""",TOMI,,,,vs_nx2tomim_73,0,0
+86431,Henchman,Henchman_TOMI,"""So... ya need Tomi's skills again? Undermountain has a lot of traps, ya know. Better we pair up than go it alone.""","""그러니까... 토미 실력이 또 필요한 거야? 언더마운틴엔 함정이 엄청 많거든, 알지? 혼자 가는 것보단 같이 가는 게 낫지.""",TOMI,,,,vs_nx2tomim_74,0,0
+86432,Henchman,Henchman_TOMI,"""Right-o! Off we go!""","""좋아! 가자고!""",TOMI,x0_d1_hen_rejoin,,,,0,0
+86433,Henchman,Henchman_TOMI,"""So are we off, aye?""","""그럼 우리 가는 거야?""",TOMI,,,,vs_nx2tomim_76,0,0
+86434,Henchman,Henchman_TOMI,"""Eh? What can Tomi do for ya?""","""응? 토미가 뭘 도와줄까?""",TOMI,,,,vs_nx2tomim_77,0,0
+86435,Henchman,Henchman_TOMI,"""Something else ya need?""","""또 필요한 거 있어?""",TOMI,x0_d1_cancelcast,,,vs_nx2tomim_78,0,0
+86436,Henchman,Henchman_TOMI,"""Oy! Either that's Sharwyn over there on the bloody floor or corpses in general are lookin' a lot better n' usual.""","""이봐! 저기 바닥에 있는 게 샤윈이거나, 아니면 시체들이 평소보다 훨씬 나아 보이거나 둘 중 하나야.""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_79,0,0
+86437,Henchman,Henchman_TOMI,"""Don't look now but I think we gots a half-orc barbarian corpse on our hands.""","""쳐다 보지 마, 하프오크 야만전사 시체가 우리 손에 들어온 것 같아.""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_80,0,0
+86438,Henchman,Henchman_TOMI,"""Bloody hell!""","""젠장!""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_81,0,0
+86439,Henchman,Henchman_TOMI,"""Ya know, the bloody wizard who made this place just loves ta put puzzles like this in your way. I s'pose we'll have to solve this thing now, aye?""","""있잖아, 이 장소 만든 빌어먹을 마법사가 이런 퍼즐을 길목에 두는 걸 엄청 좋아하거든. 이제 이걸 풀어야 할 것 같은데, 안 그래?""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_82,0,0
+86440,Henchman,Henchman_TOMI,"""Right. Sleepin' dragon ahead. Ya wants t' wake it up nicely or rudely?""","""알겠어. 앞에 자고 있는 용이 있어. 조용히 깨울래 아니면 거칠게 깨울래?""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_83,0,0
+86441,Henchman,Henchman_TOMI,"""I always love a good teleport. Gets ya in places ya can't sneak to, ya know?""","""좋은 순간이동은 항상 좋아. 몰래 갈 수 없는 곳까지 데려다주거든, 알지?""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_84,0,0
+86442,Henchman,Henchman_TOMI,"""It's always best ta figure that a rat knows the way to treasure, aye?""","""쥐가 보물 가는 길을 안다고 생각하는 게 항상 최고지, 안 그래?""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_85,0,0
+86443,Henchman,Henchman_TOMI,"""Oh, look. He's gone an' given himself up now. Too bad fer him.""","""오, 봐봐. 이제 항복했네. 불쌍한 놈.""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_86,0,0
+86444,Henchman,Henchman_TOMI,"""Mehh... might want t' hold on, here. I gots a bad feelin' about this place.""","""으음... 여기서 잠깐 멈추는 게 좋을 것 같아. 이 장소 기분이 안 좋거든.""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_87,0,0
+86445,Henchman,Henchman_TOMI,"""She surrendered? I say cut 'er wings off! Hah-ha ha ha!""","""항복했다고? 날개 잘라버리자고! 하하하 하!""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_88,0,0
+86446,Henchman,Henchman_TOMI,"""Blasted bloody statues. What do ya want t' bet that it's part of some puzzle? I hate these things.""","""빌어먹을 조각상들. 이게 퍼즐의 일부라는 거에 뭘 걸래? 이런 거 정말 싫어.""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_89,0,0
+86447,Henchman,Henchman_TOMI,"""Oh, it's these folks again. Still don't trust 'em.""","""오, 또 이 사람들이네. 여전히 안 믿어.""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_90,0,0
+86448,Henchman,Henchman_TOMI,"""Can ya smell that? That's goblin turds, that is. Bloody smart buggers, sometimes, though they're probably no match fer you.""","""냄새 맡아? 그건 고블린 똥이야. 가끔은 똑똑한 놈들이지만, 너한텐 상대도 안 되겠지.""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_91,0,0
+86449,Henchman,Henchman_TOMI,"""Oy! She's back again, look sharp!""","""이봐! 또 돌아왔어, 조심해!""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_92,0,0
+86450,Henchman,Henchman_TOMI,"""Damn, but she's good. I didn't even bloody well pick 'er out that time.""","""젠장, 진짜 실력 좋네. 이번엔 전혀 눈치채지 못했어.""",TOMI,x0_d1_hen_noline,,,vs_nx2tomim_93,0,0
+86451,Henchman,Henchman_TOMI,"""I wonder where me old friend Sammy has gotten off to. I sure do miss 'im.""","""내 오랜 친구 새미는 어디 갔을까. 정말 그리워.""",TOMI,,,,vs_nx2tomim_94,0,0
+86452,Henchman,Henchman_TOMI,"""You reminds me of someone I met in Neverwinter. I ever tells ya that?""","""너 네버윈터에서 만난 누군가가 생각나. 그 얘기 한 적 있었나?""",TOMI,,,,vs_nx2tomim_95,0,0
+86453,Henchman,Henchman_TOMI,"""Just another adventure to round out me fulfilling career, I always say.""","""내 만족스러운 경력을 완성할 또 하나의 모험이지, 항상 그렇게 말하거든.""",TOMI,,,,vs_nx2tomim_96,0,0
+86454,Henchman,Henchman_TOMI,"""Oy now! Don't get too far ahead! I can only run so bleedin' fast, ya know.""","""이봐! 너무 앞서 가지 마! 나 그렇게 빨리 못 뛴다고, 알지?""",TOMI,,,,vs_nx2tomim_97,0,0
+86455,Henchman,Henchman_TOMI,"""So-oooo... hmmm... I wonder how much a map o' this place would go for...""","""그러니까... 음... 이 장소 지도가 얼마나 받을까...""",TOMI,,,,vs_nx2tomim_98,0,0
+86456,Henchman,Henchman_TOMI,"""Brandobaris's bloody feet! Does it ever smell in here, phaugh!""","""브란도바리스의 발이시여! 여기 냄새 진짜 지독하네, 푸!""",TOMI,,,,vs_nx2tomim_99,0,0
+86457,Henchman,Henchman_TOMI,"""Hmph. Every dungeon looks the same.""","""흠. 모든 던전이 똑같이 생겼어.""",TOMI,,,,vs_nx2tomim_100,0,0
+86458,Henchman,Henchman_TOMI,"""Where's me damn picks... oh, there. Why'd I put 'em there?""","""내 빌어먹을 곡괭이는 어디... 아, 저기. 왜 저기 뒀지?""",TOMI,,,,vs_nx2tomim_101,0,0
+86459,Henchman,Henchman_TOMI,"""Oh. lovely... what'd I step in now?""","""오. 좋아... 지금 뭘 밟은 거야?""",TOMI,,,,vs_nx2tomim_102,0,0
+86460,Henchman,Henchman_TOMI,"""Crimeny... where the bloody hell are we?""","""젠장... 여기가 대체 어디야?""",TOMI,,,,vs_nx2tomim_103,0,0
+86461,Henchman,Henchman_TOMI,"""Alright. Update the map... this thing'll be worth a fortune...""","""좋아. 지도 업데이트하고... 이거 엄청난 가치가 있을 거야...""",TOMI,,,,vs_nx2tomim_104,0,0
+86462,Henchman,Henchman_TOMI,"""Oy! I hate it when there's miles o' rock over me bloody head, don't you?""","""이봐! 머리 위에 수 킬로미터의 바위가 있는 거 정말 싫어, 너도 그렇지?""",TOMI,,,,vs_nx2tomim_105,0,0
+86463,Henchman,Henchman_TOMI,"""Bloody traps everywhere. I'd love ta throttle the crazy mage who made this place, aye?""","""빌어먹을 함정 천지야. 이 장소 만든 미친 마법사 목 조르고 싶어, 안 그래?""",TOMI,,,,vs_nx2tomim_106,0,0
+86464,Henchman,Henchman_TOMI,"""Ya ever wonder why they don't just get an army and invade this place?""","""왜 군대 끌고 와서 이 장소를 침공하지 않는지 궁금하지 않아?""",TOMI,,,,vs_nx2tomim_107,0,0
+86465,Henchman,Henchman_TOMI,"""An' all this was underneath Waterdeep the whole bleedin' time. I thought it'd be a bit smaller, meself.""","""이 모든 게 줄곧 워터딥 아래 있었다니. 나는 좀 더 작을 줄 알았어.""",TOMI,,,,vs_nx2tomim_108,0,0
+86466,Henchman,Henchman_TOMI,"""Oy! What's that? Oh... just another rat.""","""이봐! 저건 뭐야? 오... 또 쥐네.""",TOMI,,,,vs_nx2tomim_109,0,0
+86467,Henchman,Henchman_TOMI,"""If I dies again, don't ya bloody leave me down here, aye?""","""내가 또 죽으면 여기 두고 가지 마, 알았지?""",TOMI,,,,vs_nx2tomim_110,0,0
+86468,Henchman,Henchman_TOMI,"""Monster blood. There ain't nothin' that stinks quite like it.""","""괴물 피. 이만큼 지독한 냄새는 없어.""",TOMI,,,,vs_nx2tomim_111,0,0
+86469,Henchman,Henchman_TOMI,"""Ya think we'll be going down t' the Underdark? I been there before, ya know.""","""언더다크로 내려갈 것 같아? 나 거기 가본 적 있거든, 알지?""",TOMI,,,,vs_nx2tomim_112,0,0
+86470,Henchman,Henchman_TOMI,"""What in bleedin' blazes is on me shoe? Gahhh! It's a right squishy one.""","""내 신발에 뭐가 묻은 거야? 으악! 진짜 물컹한 거네.""",TOMI,,,,vs_nx2tomim_113,0,0
+89901,Henchman,Henchman_TOMI,"""So are we off, aye?""","""그럼 우리 가는 거야?""",TOMI,,,,vs_nx2tomim_76,0,0
+89902,Henchman,Henchman_TOMI,---------- Random Pop-Ups Start Here ------------,---------- 랜덤 팝업 여기서 시작 ------------,TOMI,,,,,0,0
+89903,Henchman,Henchman_TOMI,"""What? Ye're thinkin' of bloody running off without me, are ya?""","""뭐? 나 빼고 도망칠 생각이야?""",TOMI,,,,,0,0
+89904,Henchman,Henchman_TOMI,"""Fine, fine. I won't stand around forever, though, just so ya know.""","""좋아, 좋아. 근데 영원히 여기 서 있진 않을 거야, 알아둬.""",TOMI,,,,,0,0
+89905,Henchman,Henchman_TOMI,"""Alrighty. I think I can find my own way back. You can find me there if ya needs me again.""","""알겠어. 혼자 돌아갈 길 찾을 수 있을 것 같아. 다시 필요하면 거기서 찾아.""",TOMI,,,,,0,0
+89918,Henchman,Henchman_TOMI,"""Oh, aye. I'll take a look through your pack... and I promise not to take anything extra for myself, ha ha!""","""오, 그래. 네 배낭 좀 살펴볼게... 내가 몰래 챙기지 않겠다고 약속해, 하하!""",TOMI,,,,,0,0
+89919,Henchman,Henchman_TOMI,"""One extra shadow, coming up!""","""추가 그림자 하나 나간다!""",TOMI,,,,,0,0
+89920,Henchman,Henchman_TOMI,"""Right-o! Just don't leave me behind accidentally, aye?""","""좋아! 그냥 실수로 날 두고 가지 마, 알았지?""",TOMI,,,,,0,0
+89921,Henchman,Henchman_TOMI,"""Talk? What about?""","""대화? 뭐에 대해?""",TOMI,,,,,0,0
+89936,Henchman,Henchman_TOMI,"""I'm workin' on just bein' a Shadowdancer at the moment. Ya want me to change that?""","""지금은 그림자 춤꾼 되는 것만 하고 있어. 그거 바꿀래?""",TOMI,,,,,0,0
+89937,Henchman,Henchman_TOMI,"""I'm workin' on just bein' a rogue, at the moment. Ya want me to change that?""","""지금은 도적 되는 것만 하고 있어. 그거 바꿀래?""",TOMI,,,,,0,0
+89938,Henchman,Henchman_TOMI,"""That's what I'd prefer anyway. Sure thing.""","""어차피 내가 선호하는 거야. 좋아.""",TOMI,x0_d1_level0,,,,0,0
+89939,Henchman,Henchman_TOMI,"""If ya like. I split my time between pickin' up me roguish skills and workin' at being a Shadowdancer. I can focus on one o' those things exclusive-like, if ya prefer.""","""네가 원한다면 말야. 도적 기술 익히는 것과 그림자 춤꾼 되는 걸 나눠서 하고 있거든. 원한다면 하나만 집중할 수도 있어.""",TOMI,,,,,0,0
+89940,Henchman,Henchman_TOMI,"""Don't change anything? I can do that.""","""아무것도 안 바꿀래? 그렇게 할 수 있어.""",TOMI,,,,,0,0
+89941,Henchman,Henchman_TOMI,"""Right. Shadowdancer it is.""","""알겠어. 그림자 춤꾼으로 할게.""",TOMI,x0_d1_level2,,,,0,0
+89942,Henchman,Henchman_TOMI,"""Fair enough. I'll work on being just a rogue, fer now.""","""괜찮아. 일단은 도적으로만 할게.""",TOMI,x0_d1_level1,,,,0,0
+89943,Henchman,Henchman_TOMI,"""Hmmm... yeah, I guess they're not so common, aye? Just let me put it this way... there's folks who can hide and there's folks who become one with the shadows.""","""음... 그래, 흔하지 않지, 안 그래? 이렇게 말해볼게... 숨을 수 있는 사람들이 있고 그림자와 하나가 되는 사람들이 있어.""",TOMI,,,,,0,0
+89944,Henchman,Henchman_TOMI,"""Us Shadowdancers, we're the ones who do the latter. Just don't ask me why we does it, 'cause I'd have ta kill ya then. Ha ha ha!""","""우리 그림자 춤꾼들은 후자를 하는 사람들이야. 왜 그러냐고 묻지 마, 그럼 죽여야 할 거니까. 하하하!""",TOMI,,,,,0,0
+89945,Henchman,Henchman_TOMI,"Tomi thinks about it for a moment, his brows furrowing. ""Hmmm. With all the reward money, ya mean? I were thinkin' of taking a vacation. Maybe goin' up ta Icewind Dale.""","토미는 잠시 생각하며 눈썹을 찡그립니다. ""음. 보상금 다 받고 나서 말야? 휴가 가려고 생각하고 있었어. 아마 아이스윈드 데일로 갈 거야.""",TOMI,,,,,0,0
+89946,Henchman,Henchman_TOMI,"""I hears there's some goody-two-shoes drow elf up there who needs 'is arse kicked. Sounds like a fun enough vacation ta me.""","""거기 착한 척하는 드로우 엘프가 있다는데 혼쭐을 내줘야 할 것 같더라고. 나한텐 충분히 재밌는 휴가지 같은데.""",TOMI,x2_hen_tomstory4,,,,0,0
+89947,Henchman,Henchman_TOMI,"""See? Now we're gettin' somewhere. Ye're alright.""","""봐봐? 이제 좀 통하네. 괜찮잖아.""",TOMI,,,,,0,0
+89948,Henchman,Henchman_TOMI,"""Pffft. Never happen. I'm Tomi Undergallows, or haven't ya heard?""","""푸. 그런 일 없어. 난 토미 언더갤로우라고, 안 들어봤어?""",TOMI,,,,,0,0
+89949,Henchman,Henchman_TOMI,"""Well, there ya go. An' besides, how tough could he be? It's not like he's Elminster or some such, sheesh.""","""뭐, 그렇지. 게다가 얼마나 강할 수 있겠어? 엘민스터나 그런 사람도 아니고, 쯧.""",TOMI,,,,,0,0
+89950,Henchman,Henchman_TOMI,"""Yeah, I've heard that before. What do ya want me ta do? Head to the Moonshaes an' sit on some beach? What kind o' fun is that?""","""그래, 전에도 들었어. 내가 뭘 하길 원해? 문쉐이로 가서 해변에 앉아 있으라고? 그게 무슨 재미야?""",TOMI,,,,,0,0
+89951,Henchman,Henchman_TOMI,"""Ya mean before the little misunderstandin' between me an' Lord Nasher?""","""나랑 나셰르 영주님 사이의 작은 오해 전 말야?""",TOMI,,,,,0,0
+89952,Henchman,Henchman_TOMI,"He shrugs. ""Well, ya did ask."" Whistling happily, he skips on ahead.","그가 어깨를 으쓱합니다. ""뭐, 네가 물어봤잖아."" 행복하게 휘파람을 불며 앞으로 깡충깡충 뛰어갑니다.",TOMI,,,,,0,0
+89953,Henchman,Henchman_TOMI,"Tomi shrugs. ""Aw, it were nothing so big, if ya asks me. I'd had a few investments go sour, ya see, an' another opportunity came up. I didn't have the coin on hand, however.""","토미가 어깨를 으쓱합니다. ""아, 나한텐 큰 일도 아니었어. 투자 몇 개가 안 좋게 됐거든, 그러다 다른 기회가 생겼어. 근데 당장 돈이 없었지.""",TOMI,,,,,0,0
+89954,Henchman,Henchman_TOMI,"""Well, I was going to replace the money in the Treasury with the profits. With interest, even! Old Nasher didn't see it that way, o' course.""","""뭐, 수익금으로 재무부 돈을 갚으려고 했어. 이자까지 붙여서! 늙은 나셰르는 그렇게 안 봤지만, 당연히.""",TOMI,,,,,0,0
+89955,Henchman,Henchman_TOMI,"""Naw. I were just encouraged ta leave. Big difference with that, ya know.""","""아니. 그냥 떠나라고 권유받은 거지. 그거랑은 큰 차이야, 알지?""",TOMI,,,,,0,0
+89956,Henchman,Henchman_TOMI,"""Right after the plague ended, though, hmmm... well, back then Tomi opened up chain o' businesses he did. Was right profitable, too.""","""역병 끝나고 바로, 음... 뭐, 그때 토미가 사업체 체인을 열었지. 꽤 수익성 있었어.""",TOMI,x2_hen_tomstory4,,,,0,0
+89957,Henchman,Henchman_TOMI,"""Well, maybe it were more of a club. The members paid dues an' in return I let *them* do their business.""","""뭐, 클럽에 가까웠을지도. 회원들이 회비 내면 그 대가로 *그들*이 장사하게 해줬지.""",TOMI,,,,,0,0
+89958,Henchman,Henchman_TOMI,"""Pfft. Now ye're soundin' just like that Aarin Gend fella who served Nasher, all serious an' such. So it were a guild, it didn't hurt no-one. Well... no-one we weren't paid to.""","""푸. 이제 나셰르를 섬겼던 아린 겐드 같이 들리네, 진지하고 그런 거. 그래서 조합이였어, 누구도 다치게 안 했어. 뭐... 돈 받지 않은 사람은 말야.""",TOMI,,,,,0,0
+89959,Henchman,Henchman_TOMI,"He throws his hands up in disgust. ""Fine, fine! Tomi Undergallows is the most terrible halfling ta ever grace Faerun! Are ya happy now? Sheesh.""","그가 역겨워하며 손을 들어 올립니다. ""좋아, 좋아! 토미 언더갤로우는 페이룬을 누볐던 가장 끔찍한 하플링이야! 이제 만족해? 쯧.""",TOMI,,,,,0,0
+89960,Henchman,Henchman_TOMI,"He looks around. ""But what are we chattin' for? We're down here to adventure, aren't we? Get yer butt in gear, already.""","그가 주위를 둘러봅니다. ""근데 우리 뭐 하러 떠드는 거야? 여기 모험하러 온 거잖아, 안 그래? 빨리 엉덩이 움직여.""",TOMI,,,,,0,0
+89961,Henchman,Henchman_TOMI,"""Not so good. There were the original thieves' guild that sort o' took exception ta mine. I guess they never heard o' live an' let live, aye?""","""별로 안 좋았어. 원래 있던 도적 조합이 내 조합을 못마땅하게 여겼거든. 서로 살고 살게 하라는 말 못 들어봤나 봐, 안 그래?""",TOMI,,,,,0,0
+89962,Henchman,Henchman_TOMI,"""They sent eight assassins after me before they finally gave up. By that time I'd decided it just weren't worth it. Aw, well.""","""결국 포기하기 전에 암살자 8명을 보냈어. 그때쯤엔 나도 가치가 없다고 판단했지. 아, 뭐.""",TOMI,,,,,0,0
+89963,Henchman,Henchman_TOMI,"""The old fart who runs the bloody city, that's who. I tells ya... don't do anything to get the city riled up, 'cause he'll feed ya to the lions. Spineless old dog, that one.""","""빌어먹을 도시 운영하는 늙은이지, 그 사람. 말해주는데... 도시를 화나게 할 짓 하지 마, 사자 밥으로 던질 테니까. 비겁한 늙은이야.""",TOMI,,,,,0,0
+89964,Henchman,Henchman_TOMI,"""Oh, aye. That's not where I came from originally, but it's been good enough fer now. I'm somethin' of a hero there, too... ya heard of the plague, right?""","""오, 그래. 원래 거기 출신은 아니지만 지금은 괜찮아. 거기서 나도 뭔가 영웅이거든... 역병 들어봤지, 맞지?""",TOMI,,,,,0,0
+89965,Henchman,Henchman_TOMI,"""Aye, well, I was one o' the folks that helped Lady Aribeth ta deal with that. Of course, nobody remembers the poor lass for that any more.""","""그래, 뭐, 아리베스 경이 그거 다루는 걸 도운 사람 중 하나야. 물론 이제 아무도 불쌍한 아가씨를 그 일로 기억하지 않지만.""",TOMI,x2_hen_tomstory4,,,,0,0
+89966,Henchman,Henchman_TOMI,"""You'd think that'd be the case, but naw. Ever since the plague, there's been a couple of... misunderstandings. Tomi had to get on outta Neverwinter, he did. Kinda made coming ta Waterdeep an easy decision.""","""그렇게 생각할 법하지만 아니야. 역병 이후로 몇 가지... 오해가 있었거든. 토미는 네버윈터에서 나와야 했어. 워터딥으로 오는 게 쉬운 결정이 됐지.""",TOMI,,,,,0,0
+89967,Henchman,Henchman_TOMI,"""I don't know. Why ain't ya surprised? I've never done anythin' to make anyone upset in me whole life.""","""모르겠어. 왜 놀라지 않아? 난 평생 누구를 화나게 한 적이 없는데.""",TOMI,,,,,0,0
+89968,Henchman,Henchman_TOMI,"""But enough about stinky ol' Neverwinter. I'm a Waterdeep halfling now. Let's get on with, errr... what were we doing? Are we saving the city or what?""","""하지만 구린 네버윈터 얘긴 그만. 난 이제 워터딥 하플링이야. 계속하자, 음... 우리 뭐 하고 있었지? 도시 구하는 거야 뭐야?""",TOMI,,,,,0,0
+89969,Henchman,Henchman_TOMI,"""Right! On to save the city!""","""맞아! 도시 구하러 가자!""",TOMI,,,,,0,0
+89970,Henchman,Henchman_TOMI,"""Bah. Same old smelly place it was before. And is it my fault Lord Nasher doesn't understand the difference between borrowin' some coin from the Treasury and stealin' it? Nope, it ain't.""","""흥. 전과 똑같이 구린 곳이야. 나셰르 영주님이 재무부에서 돈 좀 빌리는 거랑 훔치는 거의 차이를 모르는 게 내 잘못이야? 아니, 아니지.""",TOMI,,,,,0,0
+89971,Henchman,Henchman_TOMI,"""Ya mean the Hero of Neverwinter? Aye, <he/she> was there, too. You remind me o' <him/her> a little bit, ya do.""","""네버윈터의 영웅 말야? 그래, <he/she>도 거기 있었어. 너 <him/her> 좀 닮았어, 진짜.""",TOMI,,,,,0,0
+89972,Henchman,Henchman_TOMI,"""If ya asks me, they give that <lad/lass> a bit too much credit, an' not enough to the little folks... an' certainly not any at all fer Lady Aribeth after what she did. That's just the way things go, aye?""","""나한테 물으면 말야, 그 <lad/lass>한테 공을 너무 많이 주고 작은 사람들한텐 충분히 안 주지... 아리베스 경한텐 그녀가 한 일 이후로 전혀 안 주고. 그냥 그런 거지, 안 그래?""",TOMI,,,,,0,0
+89973,Henchman,Henchman_TOMI,"Tomi thinks for a moment, scratching his chin. ""Ya know... I can't rightly say. Went on ta other adventures is my guess.""","토미는 잠시 생각하며 턱을 긁습니다. ""있잖아... 확실히 말 못 하겠어. 다른 모험 떠났을 거야, 내 추측엔.""",TOMI,,,,,0,0
+89974,Henchman,Henchman_TOMI,"""Oh. She were this pretty little filly, a paladin that served Lord Nasher... the bloke who runs Neverwinter. It was her duty ta fight the plague.""","""오. 예쁜 아가씨였어, 나셰르 영주님을 섬기던 성기사였지... 네버윈터 운영하는 사람. 역병과 싸우는 게 그녀의 임무였어.""",TOMI,,,,,0,0
+89975,Henchman,Henchman_TOMI,"""Aye, ye've heard of her? She were this paladin that Lord Nasher told ta fight the plague. She's the one that found the Hero of Neverwinter... if ya heard about that one, too, I dunno.""","""그래, 그녀 들어봤어? 나셰르 영주님이 역병과 싸우라고 한 성기사였어. 네버윈터의 영웅을 찾아낸 사람이지... 그것도 들어봤는지 모르겠지만.""",TOMI,,,,,0,0
+89976,Henchman,Henchman_TOMI,"""Anyway, she eventually turned against the city. Fell from grace, painter 'er armor black... the whole bit. Sad, really. Though I hear her new armor was damned fetching.""","""어쨌든 결국엔 도시를 등졌어. 타락하고 갑옷을 검게 칠하고... 온갖 짓 다 했지. 슬프지, 진짜. 근데 새 갑옷은 정말 멋졌다고 들었어.""",TOMI,,,,,0,0
+89977,Henchman,Henchman_TOMI,"For once, an expression of real sadness crosses the halfling's eyes and he looks away from you. ""Dead,"" he grudgingly says. ""It weren't right, but... I guess it had ta be.""","처음으로 진짜 슬픔의 표정이 하플링의 눈을 스치고 그가 당신에게서 시선을 돌립니다. ""죽었어,"" 그가 마지못해 말합니다. ""옳지 않았지만... 어쩔 수 없었을 거야.""",TOMI,,,,,0,0
+89978,Henchman,Henchman_TOMI,"""I liked her well enough. Funny how nobody ever blames Lord Nasher for drivin' her to it all. I'd sure tell him so, if I ever saw him again.""","""난 그녀를 꽤 좋아했어. 웃긴 건 아무도 나셰르 영주님이 그녀를 그렇게 만들었다고 비난하지 않는다는 거야. 다시 보면 확실히 말해줄 텐데.""",TOMI,,,,,0,0
+89979,Henchman,Henchman_TOMI,"""I'm not just going ta bloody well stand around forever... but alright. I'll stay here for now.""","""영원히 여기 서 있을 생각은 없어... 근데 좋아. 일단 여기 있을게.""",TOMI,,,,,0,0
+89980,Henchman,Henchman_TOMI,"""Right-o! Off we go!""","""좋아! 가자고!""",TOMI,x0_d1_hen_rejoin,,,vs_nx2tomim_75,0,0
+89981,Henchman,Henchman_TOMI,"""Too busy ta chat with the fella who watches your back, hey? Fine, fine, Tomi'll remember that, he will.""","""네 뒤를 봐주는 친구랑 대화할 시간도 없어, 응? 좋아, 좋아, 토미가 기억해둘게.""",TOMI,x0_d1_hen_inter0,,,,0,0
+89982,Henchman,Henchman_TOMI,"""Right, then. Please forgive the humble Tomi Undergallows for offending your divine personage with anything other than prayer. I should bloody well know better.""","""알겠어. 비천한 토미 언더갤로우가 기도 외의 것으로 당신의 신성한 인격을 모욕한 걸 용서해줘. 내가 더 잘 알아야 했는데.""",TOMI,,,,,0,0
+89983,Henchman,Henchman_TOMI,"""Right, then. I apologize for my base crassness and attitude. I am unworthy of addressing a respectable personage such as yourself.""","""알겠어. 내 천한 조잡함과 태도를 사과할게. 난 당신 같은 존경받는 인물에게 말 걸 자격이 없어.""",TOMI,,,,,0,0
+89984,Henchman,Henchman_TOMI,"""Right, then. 'Oh, yer magnificent Highness, m'<Lord/Lady>. Might this lowly mealworm have a word with ye?""","""알겠어. '오, 위대하신 전하, <Lord/Lady> 시여. 이 비천한 벌레가 한 말씀 여쭤도 될까요?""",TOMI,,,,,0,0
+89985,Henchman,Henchman_TOMI,"Tomi frowns, rolling his eyes. ""Alright, then. Have it yer way, sheesh.""","토미가 눈을 굴리며 찌푸립니다. ""알겠어. 네 맘대로 해, 쯧.""",TOMI,,,,,0,0
+89986,Henchman,Henchman_TOMI,"""So ya figure I should poke ya with a dagger next time?""","""그럼 다음엔 단검으로 찔러야 한다는 거야?""",TOMI,,,,,0,0
+89987,Henchman,Henchman_TOMI,"""Right, then. Next time I'll just whip off me bloody shorts and flag ya down.""","""알겠어. 다음엔 빌어먹을 바지 벗고 손 흔들어줄게.""",TOMI,,,,,0,0
+89988,Henchman,Henchman_TOMI,"""So what's rude about it? Did I say 'Listen up, cow!'? No, I don't think so.""","""그게 뭐가 무례해? 내가 '잘 들어, 암소야!'라고 했어? 아니, 그렇게 안 했지.""",TOMI,,,,,0,0
+89989,Henchman,Henchman_TOMI,"""That's not rude. I could'a just pinched yer arse if I needed yer attention.""","""무례하지 않아. 주의가 필요하면 엉덩이 꼬집을 수도 있었어.""",TOMI,,,,,0,0
+89990,Henchman,Henchman_TOMI,"""How much coin do ya got, anyways?""","""어쨌든 돈 얼마나 있어?""",TOMI,,,,,0,0
+89991,Henchman,Henchman_TOMI,"""It's just that I got this... investment opportunity I knows about, aye?"" He looks about, suspicious, and leans in closer. ""Lemons.""","""그냥 내가 아는 이... 투자 기회가 있거든, 알지?"" 그가 의심스럽게 주위를 둘러보고 더 가까이 기댑니다. ""레몬.""",TOMI,,,,,0,0
+89992,Henchman,Henchman_TOMI,"""Shhhh! Not so loud! Aye, lemons! It's this little yellow fruit that comes from Maztica, the sourest thing ya ever did taste, they is.""","""쉿! 크게 말하지 마! 그래, 레몬! 마즈티카에서 오는 작고 노란 과일이야, 네가 맛본 것 중 가장 신 거지.""",TOMI,,,,,0,0
+89993,Henchman,Henchman_TOMI,"His eyes grow distant as he becomes suddenly animated. ""Just think of it! It could become the fashionable new fruit, loved by nobles everywhere and served at buffets! And... and it can clean greasy messes, too!""","그의 눈이 멀어지고 갑자기 활기차집니다. ""생각해 봐! 유행하는 새 과일이 될 수 있어, 모든 귀족들이 사랑하고 뷔페에서 제공되는! 그리고... 기름진 얼룩도 닦을 수 있어!""",TOMI,,,,,0,0
+89994,Henchman,Henchman_TOMI,"""Let's not get silly, aye? Anyway, what do ya think?""","""바보 같이 굴지 말자, 안 그래? 어쨌든 어떻게 생각해?""",TOMI,,,,,0,0
+89995,Henchman,Henchman_TOMI,"""Importing bloody lemons from Maztica! We'll make millions, we will!""","""마즈티카에서 빌어먹을 레몬을 수입하는 거야! 수백만을 벌 거야!""",TOMI,,,,,0,0
+89996,Henchman,Henchman_TOMI,"""You like the idea?"" He seems surprised. ""My pitch must be getting better. Hmmm... now to just survive all this Undermountain business...""","""아이디어 마음에 들어?"" 그가 놀란 듯 보입니다. ""내 제안이 점점 나아지나 봐. 음... 이제 이 언더마운틴 일을 살아남기만 하면...""",TOMI,,,,,0,0
+89997,Henchman,Henchman_TOMI,"""What? Ya can't ask about a friend's finances, aye?""","""뭐? 친구 재정 상태 물어보면 안 돼, 안 그래?""",TOMI,,,,,0,0
+89998,Henchman,Henchman_TOMI,"Tomi frowns thoughtfully. ""Fine, then. Suit yerself."" He casts an eye at your belt pouch, but says no more.","토미가 생각에 잠겨 찌푸립니다. ""좋아. 맘대로 해."" 그가 당신의 허리 주머니를 힐끗 보지만 더 이상 말하지 않습니다.",TOMI,,,,,0,0
+89999,Henchman,Henchman_TOMI,"""You ever been to Calimshan? I've been thinkin' lately just how familiar you look.""","""칼림샨에 가본 적 있어? 최근에 네가 얼마나 친숙해 보이는지 생각하고 있었어.""",TOMI,,,,,0,0
+90000,Henchman,Henchman_TOMI,"Tomi regards you with narrowed eyes for a long moment. ""It's taken me a while to realize it, but I'm thinkin'... you look a lot like this <lad/lass> who owes me a whole lot o' coin.""","토미가 긴 순간 동안 가늘게 뜬 눈으로 당신을 바라봅니다. ""깨닫는 데 시간이 좀 걸렸는데, 생각해 보니까... 너 나한테 엄청난 돈 빚진 <lad/lass>랑 많이 닮았어.""",TOMI,,,,,0,0
+90001,Henchman,Henchman_TOMI,"""An old friend. Blonde hair, green eyes, rugged complexion, wild eyes. Never did pay me back, neither."" His expression grows even more suspicious.","""오랜 친구. 금발 머리, 녹색 눈, 거친 안색, 야성적인 눈. 돈도 안 갚았지."" 그의 표정이 더욱 의심스러워집니다.",TOMI,,,,,0,0
+90002,Henchman,Henchman_TOMI,"""So ya admit ya owes me, then?""","""그럼 네가 나한테 빚졌다는 거 인정하는 거야?""",TOMI,,,,,0,0
+90003,Henchman,Henchman_TOMI,"Tomi frowns deeply. ""Ya know, ya don't *have* ta keep saying that."" With that he turns away, muttering to himself.","토미가 깊이 찌푸립니다. ""있잖아, *계속* 그렇게 말할 필요는 없어."" 그러고는 중얼거리며 돌아섭니다.",TOMI,,,,,0,0
+90004,Henchman,Henchman_TOMI,"""Right."" He glares at you for a long moment, as if considering his option, and then finally turns away, muttering. ""I'll be watching you.""","""알겠어."" 그가 선택지를 고려하는 듯 긴 순간 동안 노려보다가 마침내 중얼거리며 돌아섭니다. ""지켜보고 있을 거야.""",TOMI,,,,,0,0
+90005,Henchman,Henchman_TOMI,"""Is it? What if ya came ta Waterdeep and changed yer appearance?""","""그래? 워터딥에 와서 외모를 바꿨으면 어쩔래?""",TOMI,,,,,0,0
+90006,Henchman,Henchman_TOMI,"""Ha! That's what *<he/she>* said, too!"" He gives you one last withering glare before finally turning away, muttering under his breath.","""하! *<he/she>*도 똑같이 말했어!"" 그가 마지막으로 매서운 눈초리를 보낸 후 마침내 숨을 헐떡이며 돌아섭니다.",TOMI,,,,,0,0
+90007,Henchman,Henchman_TOMI,"""I said ya looked a *lot* like <him/her>... not *just* like <him/her>."" Tomi gives you one last withering glare before turning away, muttering suspiciously under his breath.","""*많이* 닮았다고 했지... *그냥* 닮았다고 안 했어."" 토미가 마지막으로 매서운 눈초리를 보낸 후 의심스럽게 중얼거리며 돌아섭니다.",TOMI,,,,,0,0
+90008,Henchman,Henchman_TOMI,"He eyes you suspiciously. ""Are ya sure? I never forgets a face, ya know.""","그가 의심스럽게 당신을 바라봅니다. ""확실해? 난 얼굴을 절대 안 잊는다고, 알지?""",TOMI,,,,,0,0
+90009,Henchman,Henchman_TOMI,"""I got a question for ya: ya ever run into a halfling fella named Sammy? Anywhere along yer travels?""","""질문 하나 할게: 새미라는 하플링 친구 본 적 있어? 여행 중 어디서든?""",TOMI,,,,,0,0
+90010,Henchman,Henchman_TOMI,"""Aye, he's got a last name. Bumbleheart! Samuel Bumbleheart! Me lifelong nemesis!"" He shakes his fist at the heavens suddenly, as if cursing the gods for his ill luck.","""그래, 성도 있어. 범블하트! 사무엘 범블하트! 내 평생 숙적!"" 그가 갑자기 하늘을 향해 주먹을 흔들며 불운에 대해 신들을 저주하는 듯합니다.",TOMI,,,,,0,0
+90011,Henchman,Henchman_TOMI,"""My childhood friend, he was, and constant companion... until he betrayed me!"" Again Tomi shakes his fist at the heavens.","""내 어린 시절 친구였고 늘 함께하는 동료였어... 날 배신하기 전까진!"" 토미가 다시 하늘을 향해 주먹을 흔듭니다.",TOMI,,,,,0,0
+90012,Henchman,Henchman_TOMI,"""Well, it can't be said enough! Me whole life I've been tormented by that bugger!""","""뭐, 아무리 말해도 모자라! 평생 저 놈한테 괴롭힘 당했어!""",TOMI,,,,,0,0
+90013,Henchman,Henchman_TOMI,"""Well maybe not me entire life, then, but enough o' it! I'd still be safely tucked away, a legendary thief in Calimshan if it weren't fer him!""","""뭐, 평생은 아닐지도 모르지만, 충분히 긴 시간이야! 그놈만 아니었으면 칼림샨의 전설적인 도적으로 안전하게 지내고 있었을 거야!""",TOMI,,,,,0,0
+90014,Henchman,Henchman_TOMI,"""Oh... and if ya sees him, it's important ya don't listen to none o' his blather about his wife. Or that time he got arrested. Errr... or that other time he got arrested.""","""오... 그리고 그놈 보면 중요한 건데, 그놈이 아내에 대해 지껄이는 거 듣지 마. 아니면 체포당한 그때 얘기. 으음... 아니면 다른 번에 체포당한 얘기.""",TOMI,,,,,0,0
+90015,Henchman,Henchman_TOMI,"Tomi thinks for a moment. ""Or that time he accidentally got sold into slavery. Don't listen to none o' that.""","토미가 잠시 생각합니다. ""아니면 실수로 노예로 팔렸던 그때 얘기. 그런 거 하나도 듣지 마.""",TOMI,,,,,0,0
+90016,Henchman,Henchman_TOMI,"""Ya don't need ta *slaughter* him, per se... on top o' bein' me nemesis, the poor fella just seems ta have this urge to rush at me screamin' with a dagger in his hand. Unnerving as all hell.""","""*학살*할 필요는 없어... 숙적이기도 하지만, 불쌍한 놈이 손에 단검 들고 비명 지르며 달려드는 충동이 있는 것 같거든. 엄청 신경 쓰여.""",TOMI,,,,,0,0
+90017,Henchman,Henchman_TOMI,"""Aye, well... let's get back to yer business, then.""","""그래, 뭐... 네 일로 돌아가자.""",TOMI,,,,,0,0
+90018,Henchman,Henchman_TOMI,"""Well, don't you go believin' any of it. Damn fool has gone crazy... on top o' being my nemesis, he has this urge now to rush at me screamin' with a dagger in his hand every time he sees me. Unnerving as all hell.""","""뭐, 하나도 믿지 마. 빌어먹을 바보가 미쳤어... 숙적이기도 한데 이제 날 볼 때마다 손에 단검 들고 비명 지르며 달려드는 충동이 생겼어. 엄청 신경 쓰여.""",TOMI,,,,,0,0
+90019,Henchman,Henchman_TOMI,"""That's not important. What's important is that he did."" Tomi looks at you indignantly. ""Damn unprofessional of him, I tell ya. And ungrateful, too.""","""그건 중요하지 않아. 중요한 건 그놈이 그랬다는 거야."" 토미가 분개하며 당신을 바라봅니다. ""정말 비전문적이야, 말해주는데. 배은망덕하기도 하고.""",TOMI,,,,,0,0
+90020,Henchman,Henchman_TOMI,"""And now, on top o' bein' my nemisis, he has to come rushin' at me screaming with a dagger in his hand every time we meet. Unnerving as all hell, that is.""","""그리고 이제 숙적이기도 한데, 만날 때마다 손에 단검 들고 비명 지르며 달려들어야 해. 엄청 신경 쓰이지, 진짜.""",TOMI,,,,,0,0
+90021,Henchman,Henchman_TOMI,"""He's tormented me fer me entire life, that's what!""","""평생 날 괴롭혔어, 그게 뭐냐면!""",TOMI,,,,,0,0
+90022,Henchman,Henchman_TOMI,"""Not really. Me whole life I've been tormented by that bugger!""","""별로. 평생 저 놈한테 괴롭힘 당했어!""",TOMI,,,,,0,0
+90023,Henchman,Henchman_TOMI,"""I'm just wonderin'... you're the same <lad/lass> that was mentioned in that book, aye?""","""그냥 궁금한데... 너 그 책에 나온 그 <lad/lass> 맞지, 안 그래?""",TOMI,,,,,0,0
+90024,Henchman,Henchman_TOMI,"""Yeah, I don't blame ya."" Tomi shakes his head and whistles appreciatively.","""그래, 이해해."" 토미가 고개를 흔들며 감탄하는 휘파람을 붑니다.",TOMI,,,,,0,0
+90026,Henchman,Henchman_TOMI,"""Naw. I get plenty of character assassination from other sources, thanks. Don't need it none in writin'.""","""아니. 다른 곳에서 충분히 인격 모독당하거든, 고마워. 글로 쓸 필요 없어.""",TOMI,,,,,0,0
+90027,Henchman,Henchman_TOMI,"Tomi scrunches up his face, looking entirely like he's about to broach an unpleasant subject. ""Yeah, well... I was just wonderin'... did ya ever actually read the thing?""","토미가 얼굴을 찌푸리며 완전히 불쾌한 주제를 꺼내려는 것처럼 보입니다. ""그래, 뭐... 그냥 궁금한데... 그거 실제로 읽어봤어?""",TOMI,,,,,0,0
+90028,Henchman,Henchman_TOMI,"""Well that would explain it, then. Ya see, there was somethin' a little... strange... about it...""","""뭐, 그럼 설명이 되네. 있잖아, 뭔가 좀... 이상한... 게 있었거든...""",TOMI,,,,,0,0
+90029,Henchman,Henchman_TOMI,"""Ya did, aye?"" He looks mildly surprised. ""Ya didn't find somethin' a little... strange... in it? Not at all?""","""읽었어?"" 그가 약간 놀란 듯 보입니다. ""뭔가 좀... 이상한... 거 못 찾았어? 전혀?""",TOMI,,,,,0,0
+90030,Henchman,Henchman_TOMI,"""Well, ya see... there's this 'tension' that develops between the hero and <his/her> 'erstwhile kobold companion'...""","""뭐, 있잖아... 영웅과 <his/her> '과거 코볼트 동료' 사이에 '긴장감'이 발전하거든...""",TOMI,,,,,0,0
+90031,Henchman,Henchman_TOMI,"""Is that so? Don't ya remember when the kobold gave ya flowers?""","""그래? 코볼트가 네게 꽃 줬던 거 기억 안 나?""",TOMI,,,,,0,0
+90032,Henchman,Henchman_TOMI,"""And then he says, you know... how yer the best boss *ever*...""","""그러고 나서 말하잖아, 있잖아... 네가 *역대* 최고의 대장이라고...""",TOMI,,,,,0,0
+90033,Henchman,Henchman_TOMI,"""Aye, but then you go on and on about how *grateful* and *appreciative* you are fer him...""","""그래, 근데 그 다음에 계속해서 그한테 얼마나 *감사*하고 *고마운*지 말하잖아...""",TOMI,,,,,0,0
+90034,Henchman,Henchman_TOMI,"""I knew it! Damn bloody books... can't trust 'em! Full of lies, they are!""","""알았어! 빌어먹을 책들... 믿을 수가 없어! 거짓말 천지야!""",TOMI,,,,,0,0
+90035,Henchman,Henchman_TOMI,"He looks apologetic. ""I had ta ask, ya know.""","그가 미안해 보입니다. ""물어볼 수밖에 없었어, 알지?""",TOMI,,,,,0,0
+90036,Henchman,Henchman_TOMI,"""Maybe."" He shrugs, looking apologetic. ""I had ta ask, ya know.""","""그럴지도."" 그가 미안해 보이며 어깨를 으쓱입니다. ""물어볼 수밖에 없었어, 알지?""",TOMI,,,,,0,0
+90037,Henchman,Henchman_TOMI,"""Right! Dropped it is."" He looks apologetic. ""I had ta ask, ya know.""","""알겠어! 그만할게."" 그가 미안해 보입니다. ""물어볼 수밖에 없었어, 알지?""",TOMI,,,,,0,0
+90038,Henchman,Henchman_TOMI,"He shrugs. ""I dunno. It just seemed, to me, that the book strongly hinted that you an' the kobold were *really close*.""","그가 어깨를 으쓱입니다. ""모르겠어. 나한텐 그냥 책이 너랑 코볼트가 *정말 가까운* 사이라고 강하게 암시하는 것 같았거든.""",TOMI,,,,,0,0
+90039,Henchman,Henchman_TOMI,"Tomi looks like he is about to continue, but then purses his lips and decides against it. ""Well, alrighty then. Let's just move along, shall we?""","토미가 계속할 것 같았지만 입술을 오므리고 마음을 바꿉니다. ""뭐, 알겠어. 그냥 넘어가자, 응?""",TOMI,,,,,0,0
+90040,Henchman,Henchman_TOMI,"""That's what the book says, it does.""","""책에 그렇게 써 있거든.""",TOMI,,,,,0,0
+90041,Henchman,Henchman_TOMI,"""Ya know... tension. Like as in an attraction, aye? Like as when two folks like one another?""","""있잖아... 긴장감. 끌림 같은 거, 안 그래? 두 사람이 서로 좋아할 때 같은?""",TOMI,,,,,0,0
+90042,Henchman,Henchman_TOMI,"""Err... I'm not talkin' about *that* sort of tension.""","""으음... 난 *그런* 종류의 긴장감 말하는 게 아니야.""",TOMI,,,,,0,0
+90043,Henchman,Henchman_TOMI,"Tomi stares at you, his jaw dropping open. After a moment, he remembers to close it again. ""Right. I, ah... ahhhhh... right.""","토미가 턱이 떨어지며 당신을 바라봅니다. 잠시 후 다시 닫는 것을 기억합니다. ""알겠어. 나, 아... 으음... 알겠어.""",TOMI,,,,,0,0
+90044,Henchman,Henchman_TOMI,"Tomi stares at you, his jaw dropping open. After a moment, he remembers to close it again. ""Maybe this little partnership will work out better than I bloody well thought,"" he mutters.","토미가 턱이 떨어지며 당신을 바라봅니다. 잠시 후 다시 닫는 것을 기억합니다. ""아마 이 작은 동업이 내가 생각했던 것보다 더 잘 될 거야,"" 그가 중얼거립니다.",TOMI,,,,,0,0
+90045,Henchman,Henchman_TOMI,"""Oh. Right. I knew that.""","""오. 맞아. 알고 있었어.""",TOMI,,,,,0,0
+90046,Henchman,Henchman_TOMI,"Tomi looks away, whistling innocently. A moment later he sprays something into his mouth that smells faintly of mint...",토미가 시선을 돌리며 순진하게 휘파람을 붑니다. 잠시 후 그가 민트 향이 희미하게 나는 무언가를 입에 뿌립니다...,TOMI,,,,,0,0
+90047,Henchman,Henchman_TOMI,"""What do I have ta do, grow scales?"" He pouts. ""Blast it, anyway.""","""내가 뭘 해야 해, 비늘 키워? "" 그가 삐칩니다. ""젠장할, 어쨌든.""",TOMI,,,,,0,0
+90048,Henchman,Henchman_TOMI,"""That doesn't bother ya?""","""그거 신경 안 쓰여?""",TOMI,,,,,0,0
+90049,Henchman,Henchman_TOMI,"""Well, *I* would be mad, I would. Tomi Undergallows has a reputation to maintain. But if you don't mind,"" he shrugs. ""Let's get on with it, then. Got ta provide for the sequel, right?""","""뭐, *나*라면 화낼 거야. 토미 언더갤로우는 유지할 평판이 있거든. 근데 네가 신경 안 쓴다면,"" 그가 어깨를 으쓱입니다. ""그럼 계속하자. 속편 제공해야 하잖아, 그렇지?""",TOMI,,,,,0,0
+90050,Henchman,Henchman_TOMI,"He rolls his eyes. ""Oh, ho ho. Yer funny, ye are. So ye're aware of the 'tension' between the hero and <his/her> 'erstwhile kobold companion', aye?""","그가 눈을 굴립니다. ""오, 호호. 재밌네, 진짜. 그럼 영웅과 <his/her> '과거 코볼트 동료' 사이의 '긴장감'을 알고 있다는 거야?""",TOMI,,,,,0,0
+90051,Henchman,Henchman_TOMI,"""It did?"" For a moment he looks confused, then he just shakes his head. ""I'm not talkin' about that. Ya see... there's this 'tension' that develops between the hero and <his/her> 'erstwhile kobold companion'...""","""그랬어?"" 잠시 혼란스러워 보이다가 고개를 흔듭니다. ""그 얘기 하는 게 아니야. 있잖아... 영웅과 <his/her> '과거 코볼트 동료' 사이에 발전하는 이 '긴장감'이 있거든...""",TOMI,,,,,0,0
+90052,Henchman,Henchman_TOMI,"""Oh, you know... the little thing that kobold fella wrote. Urinetide somethin', I don't know.""","""오, 있잖아... 그 코볼트 친구가 쓴 작은 거. 유린타이드 뭐시기, 모르겠어.""",TOMI,,,,,0,0
+90054,Henchman,Henchman_TOMI,--------- Random Conversations begin here ----------,--------- 랜덤 대화 여기서 시작 ----------,TOMI,,,,,0,0
+90055,Henchman,Henchman_TOMI,"""I think I know how to get by that portal, if ye're interested.""","""관심 있으면 저 차원문 지나가는 방법 알 것 같은데.""",TOMI,x0_d1_hen_inter0,,,,0,0
+90056,Henchman,Henchman_TOMI,"""Supposedly, whenever ya go through that doorway, the chains pop off an they go to other places around this level. Then ya gots ta collect 'em up again an' put them back on the door.""","""아마도 그 문을 지나가면 사슬이 떨어져 나가서 이 층 주변의 다른 곳으로 가. 그럼 다시 모아서 문에 다시 달아야 해.""",TOMI,,,,,0,0
+90057,Henchman,Henchman_TOMI,"""Sounds like someone just wanted t' make it a bit harder to move through the dungeon. I tell ya, that wizard bloke who made this place is a real nutter.""","""누군가 던전을 지나가는 걸 좀 더 어렵게 만들고 싶었던 것 같아. 말해주는데, 이 장소 만든 마법사 친구 진짜 미쳤어.""",TOMI,,,,,0,0
+90058,Henchman,Henchman_TOMI,"""Yeah, well, if I meets up with one more puzzle my head's goin' ta crack wide open, I tell ya.""","""그래, 뭐, 퍼즐 하나만 더 만나면 내 머리가 쪼개질 거야, 말해주는데.""",TOMI,,,,,0,0
+90059,Henchman,Henchman_TOMI,"""Naw. I didn't get all that far in here, remember?""","""아니. 여기 그렇게 멀리 못 왔었어, 기억나?""",TOMI,,,,,0,0
+90060,Henchman,Henchman_TOMI,"""The drow mentioned it, they did. They had one o' the chains an' were tryin' to figure out where the rest went.""","""드로우들이 말했어. 사슬 하나를 가지고 있었고 나머지가 어디 갔는지 알아내려고 했거든.""",TOMI,,,,,0,0
+90061,Henchman,Henchman_TOMI,"""Suit yerself. I've got better things t' do, anyways... like watchin' for some more halfling-killin' drow, that's what.""","""맘대로 해. 어차피 할 일이 더 있거든... 하플링 죽이는 드로우 더 찾는 것 같은 거.""",TOMI,,,,,0,0
+90062,Henchman,Henchman_TOMI,"""Brandobaris's hairy feet! There's more thrones in here than in a bloody Calimshani urinal!""","""브란도바리스의 털 많은 발이시여! 여긴 왕좌가 빌어먹을 칼림샨 변기보다 많아!""",TOMI,x0_d1_hen_inter0,,,,0,0
+90063,Henchman,Henchman_TOMI,"""Heh... well, Tomi does his best thinkin' on more than just his feet.""","""헤... 뭐, 토미는 발로만 생각하는 게 아니거든.""",TOMI,,,,,0,0
+90064,Henchman,Henchman_TOMI,"""Come to think of it, I do remember hearin' about this place. It's, errrr, the Hall of Sleeping Kings or some such. Or that's what this drunk bloke once told me.""","""생각해 보니 이 장소에 대해 들었던 것 같아. 으음, 잠자는 왕들의 전당이나 그런 거. 아니면 취한 친구가 한번 그렇게 말했거든.""",TOMI,,,,,0,0
+90065,Henchman,Henchman_TOMI,"""I guess the wizard who built this place has a fondness fer collectin' ancient northern Kings an' such. Puts 'em on display here, I guess.""","""이 장소 만든 마법사가 고대 북쪽 왕들 같은 거 모으는 걸 좋아하는 것 같아. 여기 전시해 놓은 것 같거든.""",TOMI,,,,,0,0
+90066,Henchman,Henchman_TOMI,"He shrugs. ""I dunno. You human folk got all sorts of Kings an' Queens lyin' around, maybe the wizard scooped up a few extra. All I know is I wouldn't go ticklin' them any... they don't look *that* dead to me.""","그가 어깨를 으쓱입니다. ""모르겠어. 너희 인간들은 온갖 왕과 여왕이 널려 있잖아, 마법사가 몇 개 더 긁어모았을지도. 내가 아는 건 건드리지 않을 거라는 거야... 그렇게 *완전히* 죽은 것 같지 않거든.""",TOMI,,,,,0,0
+90067,Henchman,Henchman_TOMI,"""Oy! Watch where yer flingin' accusations like that! I'm hurt, I am.""","""이봐! 그런 비난 어디 던지는지 조심해! 상처받았어, 진짜.""",TOMI,,,,,0,0
+90068,Henchman,Henchman_TOMI,"""Good. I don't think they're the giggling type anyhow.""","""좋아. 어차피 웃음 나올 타입은 아닌 것 같아.""",TOMI,,,,,0,0
+90069,Henchman,Henchman_TOMI,"""Anytime, mate!""","""언제든지, 친구!""",TOMI,,,,,0,0
+90070,Henchman,Henchman_TOMI,"""None that I can see, but I wouldn't go an' tickle any o' these fella either. They don't look all *that* dead, if ya ask me.""","""내가 보기엔 없어, 근데 이 친구들 중 누구도 건드리지 않을 거야. 나한테 물으면 그렇게 *완전히* 죽은 것 같지 않거든.""",TOMI,,,,,0,0
+90071,Henchman,Henchman_TOMI,"He shrugs. ""How should I bloody know? Just don't go an' tickle them or anythin', that'd be my advice.""","그가 어깨를 으쓱입니다. ""내가 어떻게 알아? 그냥 건드리거나 하지 마, 그게 내 조언이야.""",TOMI,,,,,0,0
+90072,Henchman,Henchman_TOMI,"""You know, I think this is what they call the Hall of Mirrors. Bloody famous, this part is.""","""있잖아, 이게 거울의 전당이라고 부르는 거 같아. 엄청 유명하거든, 여기.""",TOMI,x0_d1_hen_inter0,,,,0,0
+90073,Henchman,Henchman_TOMI,"""Alright, fine. Have it your way. Tomi'll just stay out of sight and a bit further away, if it's all the same to you.""","""알겠어, 좋아. 네 맘대로 해. 토미는 그냥 안 보이는 곳에 좀 더 멀리 있을게, 괜찮다면.""",TOMI,nw_ch_dist_18,,,,0,0
+90074,Henchman,Henchman_TOMI,"""Alright, fine. Have it your way. Tomi'll just keep out of sight, if it's all the same to you.""","""알겠어, 좋아. 네 맘대로 해. 토미는 그냥 안 보이는 곳에 있을게, 괜찮다면.""",TOMI,x0_d1_hen_stlth,,,,0,0
+90075,Henchman,Henchman_TOMI,"""Could be because of all the mirrors lined up. Just a thought, ya know.""","""줄지어 늘어선 거울들 때문일 수도 있어. 그냥 생각이야, 알지?""",TOMI,,,,,0,0
+90076,Henchman,Henchman_TOMI,"""I might be. What's it to ya?""","""그럴 수도 있어. 그게 뭐?""",TOMI,,,,,0,0
+90077,Henchman,Henchman_TOMI,"""Hey! Hey! Let's not get personal-like, all of a sudden, aye? Tomi didn't mean anything by that comment. Just warnin' ya about these mirrors.""","""이봐! 이봐! 갑자기 개인적으로 받아들이지 마, 안 그래? 토미는 그 말로 아무 뜻 없었어. 그냥 이 거울들에 대해 경고하는 거야.""",TOMI,,,,,0,0
+90078,Henchman,Henchman_TOMI,"""Right. Respect. Got it, aye. Now about the hall...?""","""알겠어. 존중. 이해했어. 이제 전당에 대해...?""",TOMI,,,,,0,0
+90079,Henchman,Henchman_TOMI,"<StartCheck>[Failure]</Start> Tomi rolls his eyes visibly, sighing. ""Right. Anyway, do ya want to hear about the hall, or don't ya?""","<StartCheck>[실패]</Start> 토미가 눈에 띄게 눈을 굴리며 한숨을 쉽니다. ""알겠어. 어쨌든 전당에 대해 듣고 싶어, 아니야?""",TOMI,,,,,0,0
+90080,Henchman,Henchman_TOMI,"<StartCheck>[Success]</Start> Tomi looks at you and he gulps audibly, obviously unnerved. ""Ummm... aye. I didn't mean nothin' by that, no offense. Just warnin' about the hall, is all.""","<StartCheck>[성공]</Start> 토미가 당신을 보며 들릴 정도로 꿀꺽 삼키며 명백히 불안해합니다. ""음... 그래. 아무 뜻 없었어, 기분 나쁘게 하려던 거 아냐. 그냥 전당에 대해 경고하는 거야.""",TOMI,,,,,0,0
+90081,Henchman,Henchman_TOMI,"""Well, I've heard tale of a place in Undermountain where there's rows of mirrors... some of them magical, some of them not. Some of them are real dangerous like, or so the stories go.""","""뭐, 언더마운틴에 거울이 줄지어 있는 장소에 대한 이야기를 들었어... 어떤 건 마법이고 어떤 건 아니야. 어떤 건 정말 위험하다고, 이야기가 그래.""",TOMI,,,,,0,0
+90082,Henchman,Henchman_TOMI,"""Had a friend who said he looked in one of the mirrors and his image just bloody well stepped out and attacked him! Don't like the idea of another Tomi runnin' around, myself.""","""친구가 거울 하나를 봤는데 그의 모습이 그냥 빌어먹게 나와서 공격했대! 또 다른 토미가 돌아다니는 건 싫어, 나는.""",TOMI,,,,,0,0
+90083,Henchman,Henchman_TOMI,"""Oh... one other thing: my friend also said that he broke a bunch of mirrors and found good treasure behind some of them. Ended up with a lot o' bad luck, though. Seven years per mirror adds up, ya know.""","""오... 한 가지 더: 친구가 거울 여러 개 깨뜨리고 몇 개 뒤에서 좋은 보물을 찾았대. 근데 결국 엄청 불운이 따랐어. 거울 하나당 7년씩 쌓이거든, 알지?""",TOMI,,,,,0,0
+90084,Henchman,Henchman_TOMI,"""An' that's a lot."" Tomi scratches himself. ""Poor fella. Ended up stabbed, he did. I really had no choice, though.""","""그리고 그건 많아."" 토미가 몸을 긁습니다. ""불쌍한 친구. 결국 찔렸어. 난 정말 선택의 여지가 없었어.""",TOMI,,,,,0,0
+90085,Henchman,Henchman_TOMI,"""Speaking of which, ya want me to stay outta sight? Just in case?""","""그 말이 나온 김에, 안 보이게 있을까? 만약을 위해?""",TOMI,,,,,0,0
+90086,Henchman,Henchman_TOMI,"He looks at you dubiously. ""Well... alright. I got a bad feelin' about this, though.""","그가 의심스럽게 당신을 바라봅니다. ""음... 알겠어. 하지만 기분이 안 좋거든.""",TOMI,,,,,0,0
+90087,Henchman,Henchman_TOMI,"""Right! Good luck to ya!""","""좋아! 행운을 빌어!""",TOMI,x0_d1_hen_stlth,,,,0,0
+90088,Henchman,Henchman_TOMI,"He nods, grinning. ""Aye, that's what it was called. It ain't the only magical mirror here, either, so you've got to be cautious.""","그가 웃으며 끄덕입니다. ""그래, 그렇게 불렸어. 여기 마법 거울이 그것만 있는 것도 아니니까 조심해야 해.""",TOMI,,,,,0,0
+90089,Henchman,Henchman_TOMI,"""Ho ho ho. Ye're too bloody funny, ye are.""","""호호호. 정말 빌어먹게 웃기네, 너.""",TOMI,,,,,0,0
+90090,Henchman,Henchman_TOMI,"""Right. Well, I don't exactly like the idea of having another one o' *you* runnin' around, either, so let's be careful what we look into, aye?""","""알겠어. 음, *너*가 하나 더 돌아다니는 것도 그리 좋은 생각은 아니니까, 뭘 들여다볼지 조심하자고, 안 그래?""",TOMI,,,,,0,0
+90091,Henchman,Henchman_TOMI,"His thoughts wander for a moment on that subject, and then he suddenly smiles broadly. ""But enough o' that. Ya need me ta join up with ya, I expect?""","그의 생각이 잠시 그 주제를 벗어나더니, 갑자기 활짝 미소 짓습니다. ""하지만 그만하고. 나랑 같이 가야 할 것 같은데, 안 그래?""",TOMI,,,,,0,0
+90092,Henchman,Henchman_TOMI,"""You brought me back just ta leave me here? Not that I'm complainin', but that seems just silly.""","""날 되살렸는데 여기 두고 갈 거야? 불평하는 건 아니지만, 좀 바보 같은데.""",TOMI,,,,,0,0
+90093,Henchman,Henchman_TOMI,------- This line must be placed at the end of inter-party banter ---------,------- 이 대사는 파티 간 대화 끝에 배치해야 함 ---------,TOMI,,,,,0,0
+90094,Henchman,Henchman_TOMI,"""So I hears tellin' that yer some kind o' talespinner, Sharwyn. That true?""","""그러니까 네가 이야기꾼이라고 들었어, 샤윈. 진짜야?""",TOMI,,,,,0,0
+90096,Henchman,Henchman_TOMI,"""So ye've heard of the great Tomi Undergallows, then, aye?""","""그럼 위대한 토미 언더갤로우에 대해 들어봤겠네, 안 그래?""",TOMI,,,,,0,0
+90098,Henchman,Henchman_TOMI,"""Oh! Stabbed right in the gut, that one!""","""오! 정통으로 맞았네!""",TOMI,,,,,0,0
+90100,Henchman,Henchman_TOMI,"""Ya have?""","""그래?""",TOMI,,,,,0,0
+90102,Henchman,Henchman_TOMI,"Tomi thinks about it for a moment, and then grins. ""Better'n nothin'.""","토미가 잠시 생각하더니 웃습니다. ""없는 것보단 낫지.""",TOMI,,,,,0,0
+90103,Henchman,Henchman_TOMI,"""So-oooo... Sharwyn, is it? That's a pretty name fer a pretty lass.""","""그러니까... 샤윈이라고? 예쁜 아가씨에게 예쁜 이름이네.""",TOMI,,,,,0,0
+90105,Henchman,Henchman_TOMI,"""What? I didn't even hardly say nothin'! Why are ya gettin' all defensive?""","""뭐? 아무것도 안 했는데! 왜 그렇게 방어적이야?""",TOMI,,,,,0,0
+90107,Henchman,Henchman_TOMI,"""Really? Well... I'm bloody glad ya noticed.""","""진짜? 음... 알아줘서 빌어먹게 기쁘네.""",TOMI,,,,,0,0
+90109,Henchman,Henchman_TOMI,"""Ya just want me ta say? Out loud an' everything?""","""그냥 말하라고? 크게 다 말하라고?""",TOMI,,,,,0,0
+90111,Henchman,Henchman_TOMI,"""Daelan? I gots a question I need ta ask ya. Don't mean to offend ya none, though...""","""데란? 물어볼 게 있어. 기분 나쁘게 하려는 건 아니야...""",TOMI,,,,,0,0
+90113,Henchman,Henchman_TOMI,"""Well, it's just that... I've met a few half-orcs in my time, ya know? And ye're the first one in all me life I've ever met who wasn't... you know...""","""음, 그냥... 하프오크를 여럿 만나봤거든, 알지? 근데 너는 내 평생 처음으로 만난... 뭐랄까...""",TOMI,,,,,0,0
+90115,Henchman,Henchman_TOMI,"""There ya go.""","""바로 그거야.""",TOMI,,,,,0,0
+90117,Henchman,Henchman_TOMI,"""Well..."" Tomi taps his chin thoughtfully. ""I just want ta know one thing... does yer smarts give ya an easier time with the ladies... or *worse*?""","""음..."" 토미가 생각에 잠겨 턱을 두드립니다. ""한 가지만 알고 싶어... 네 똑똑함이 여자들한테 더 쉽게 만들어줘... 아니면 *더 힘들게*?""",TOMI,,,,,0,0
+90119,Henchman,Henchman_TOMI,"""Yeah, big fella?""","""그래, 큰 친구?""",TOMI,,,,,0,0
+90121,Henchman,Henchman_TOMI,"""Right-o! Focusing.""","""알겠어! 집중할게.""",TOMI,,,,,0,0
+90122,Henchman,Henchman_TOMI,"""Hmmm. Ye're a rather large fella there, aren't ya, Daelan?""","""흠. 꽤 큰 친구네, 데란?""",TOMI,,,,,0,0
+90124,Henchman,Henchman_TOMI,"""My point being that large folk such as yerself need to be kept entertained! Let Tomi do a trick for ya! How about you hand me that ring of yours?""","""내 말은 너 같은 큰 친구들은 재미있게 해줘야 한다고! 토미가 마술 하나 보여줄게! 네 반지 좀 줘볼래?""",TOMI,,,,,0,0
+90126,Henchman,Henchman_TOMI,"""Heh heh... would I try to trick you? That's not very fair of ya, is it?""","""헤헤... 내가 속이려고 하겠어? 좀 너무한 거 아니야?""",TOMI,,,,,0,0
+90128,Henchman,Henchman_TOMI,"""Err... yeah. Anyhow..."" Tomi takes the ring and passes his hand over it a few times. Some flashy hand movements and he tosses the ring up... only it has vanished! ""Ta-da!""","""어... 그래. 어쨌든..."" 토미가 반지를 받아 손을 몇 번 위로 지나갑니다. 화려한 손동작을 하고 반지를 위로 던지는데... 사라졌습니다! ""짜잔!""",TOMI,,,,,0,0
+90130,Henchman,Henchman_TOMI,"""Ye're not much of an audience, is ya?"" Grudgingly, Tomi reaches into a pocket and fetches out the ring, handing it back. Daelan grins broadly but says nothing in return.","""별로 좋은 관객이 아니네?"" 토미가 마지못해 주머니에 손을 넣어 반지를 꺼내 돌려줍니다. 데란이 활짝 웃지만 아무 말도 하지 않습니다.",TOMI,,,,,0,0
+90131,Henchman,Henchman_TOMI,"""So... I've been watchin' ya fer a little while, Linu...""","""그러니까... 널 좀 지켜봤거든, 리누...""",TOMI,,,,,0,0
+90133,Henchman,Henchman_TOMI,"""Well, I was thinkin... ye're always goin' on about how clumsy ye are an' such. I don't think that's the case at all.""","""음, 생각해봤는데... 넌 항상 얼마나 서투른지 말하잖아. 전혀 그렇지 않다고 생각해.""",TOMI,,,,,0,0
+90135,Henchman,Henchman_TOMI,"""I'm just tryin' to tell ya that I don't think ye're clumsy at all. In fact, I think ye're graceful just like every other bloody elf I've seen.""","""그냥 네가 전혀 서투르지 않다고 말하려는 거야. 사실, 내가 본 다른 빌어먹을 엘프들처럼 우아하다고 생각해.""",TOMI,,,,,0,0
+90137,Henchman,Henchman_TOMI,"""Naw. Ye're pretty much clumsier'n a troll with two left feet.""","""아니. 넌 정말 왼발 둘 달린 트롤보다 서투르네.""",TOMI,,,,,0,0
+90139,Henchman,Henchman_TOMI,"""Correction: *dextrous* and *agile* little fiend! Ha ha ha ha-ha!!""","""정정: *민첩하고* *날쌘* 작은 악마! 하하하 하하!!""",TOMI,,,,,0,0
+90140,Henchman,Henchman_TOMI,"""Linu, ye're a healer, right? I've got some... aches... from old battles, hurtin' somethin' fierce!""","""리누, 넌 치유사지? 나... 옛날 전투에서... 아픈 데가 있어, 엄청 아파!""",TOMI,,,,,0,0
+90142,Henchman,Henchman_TOMI,"""Oh, all over. I think I need some hands-on attention, if ya know what I mean...""","""오, 여기저기. 직접 손으로 치료가 필요할 것 같은데, 무슨 말인지 알지...""",TOMI,,,,,0,0
+90144,Henchman,Henchman_TOMI,"""And?"" Tomi waggles his eyebrows at her, grinning.","""그래서?"" 토미가 그녀를 향해 눈썹을 움직이며 웃습니다.",TOMI,,,,,0,0
+90146,Henchman,Henchman_TOMI,"""OW! OW! Hey, what's yer problem?! Sheesh!""","""아야! 아야! 이봐, 뭐가 문제야?! 젠장!""",TOMI,,,,,0,0
+90148,Henchman,Henchman_TOMI,"""Oh... that.""","""오... 그거.""",TOMI,,,,,0,0
+90150,Henchman,Henchman_TOMI,"""Heh... I guess a little healin's out o' the question, then, eh?""","""헤... 그럼 치유는 좀 어려운 것 같네, 그렇지?""",TOMI,,,,,0,0
+90152,Henchman,Henchman_TOMI,"""Ya know... I was lookin' through yer notes, Deekin. The ones fer that book ye're writin'.""","""있잖아... 네 메모를 보고 있었어, 디킨. 네가 쓰는 그 책 말이야.""",TOMI,,,,,0,0
+90154,Henchman,Henchman_TOMI,"""Oh, you can have 'em back. I'm just wonderin'... what's with all the doodles?""","""오, 돌려줄게. 그냥 궁금한데... 낙서는 뭐야?""",TOMI,,,,,0,0
+90156,Henchman,Henchman_TOMI,"""All the hearts an' such, an' some of 'em looked a little... ummm... risque, if ya ask me.""","""하트 같은 거 말이야, 그리고 좀... 음... 야한 것 같던데, 내 생각엔.""",TOMI,,,,,0,0
+90158,Henchman,Henchman_TOMI,"""And what's with that writing? I could barely read it... it looked like a dyin' man writin' out his will or somethin'...""","""그리고 그 글씨는 뭐야? 거의 못 읽겠더라... 죽어가는 사람이 유언장 쓰는 것 같던데...""",TOMI,,,,,0,0
+90160,Henchman,Henchman_TOMI,"""Alright, alright, have yer damn notes back, ya big baby.""","""알겠어, 알겠어, 네 빌어먹을 메모를 가져가, 이 애기야.""",TOMI,,,,,0,0
+90162,Henchman,Henchman_TOMI,"""And, ummm... let me know when you finish the chapter...""","""그리고, 음... 장 완성하면 알려줘...""",TOMI,,,,,0,0
+90163,Henchman,Henchman_TOMI,"""Hmmm... so tell me, kobold... just how tall are ya, anyhow?""","""흠... 그래서 말해봐, 코볼트... 넌 대체 얼마나 큰 거야?""",TOMI,,,,,0,0
+90165,Henchman,Henchman_TOMI,"""Just tell me how tall ya are, dammit! Come here, let me measure ya...""","""그냥 얼마나 큰지 말해봐, 젠장! 이리 와봐, 재볼게...""",TOMI,,,,,0,0
+90167,Henchman,Henchman_TOMI,"""I am not, ya bloody liar! Can't ya answer a simple question?""","""아니야, 이 빌어먹을 거짓말쟁이! 간단한 질문 하나 대답 못 해?""",TOMI,,,,,0,0
+90168,Henchman,Henchman_TOMI,"""Bloody squealer.""","""빌어먹을 고자질쟁이.""",TOMI,,,,,0,0
+90170,Henchman,Henchman_TOMI,"""I just want ta bloody well know! Why's that so hard ta understand!""","""그냥 빌어먹게 알고 싶을 뿐이야! 왜 이해하기 그렇게 어려워!""",TOMI,,,,,0,0
+90172,Henchman,Henchman_TOMI,"""That's it! Ye're in fer a world o' hurt now, ya scuttling lizard thing, you!""","""이제 끝이야! 이제 엄청 고통받을 거야, 이 기어다니는 도마뱀 같은 놈!""",TOMI,,,,,0,0
+90174,Henchman,Henchman_TOMI,"""Hah! Serves you right!""","""하! 당연한 거야!""",TOMI,,,,,0,0
+90176,Henchman,Henchman_TOMI,"""Oh, shut up.""","""오, 닥쳐.""",TOMI,,,,,0,0
+90178,Henchman,Henchman_TOMI,"""I'm going to kick yer bloody arse, just you watch --""","""네 빌어먹을 엉덩이를 걷어차 줄 거야, 두고 봐 --""",TOMI,,,,,0,0
+90180,Henchman,Henchman_TOMI,"""Yeah, sorry.""","""그래, 미안.""",TOMI,,,,,0,0
+102747,Henchman,Henchman_TOMI,"Tomi eyes your companions suspiciously. ""Hmph. Don't want t' be a spoilsport, but ya got a whole crowd already. If it thins out some, come give me a holler, aye?""","토미가 당신의 동료들을 의심스럽게 바라봅니다. ""흠. 재미 없게 굴고 싶진 않은데, 이미 사람이 꽤 많네. 좀 줄어들면 나한테 와서 소리 질러줘, 알았지?""",TOMI,x0_d1_hen_fired,,,,0,0

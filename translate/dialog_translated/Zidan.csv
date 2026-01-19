@@ -1,0 +1,31 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+80482,Creature,Zidan,"Err... yes. I am Zidan, complete with bodily juices, yes...","저... 네. 지단입니다, 피와 살이 멀쩡한, 네...",Q1_ZIDAN,,,,,0,0
+80523,Creature,Zidan,I would be most pleased to help however I am needed.,"필요하신 일이라면 무엇이든 기꺼이 돕겠습니다.",Q1_ZIDAN,,,,,0,0
+80617,Creature,Zidan,"I would not advise that, Madame Katriana.","그건 권하지 않겠습니다, 카트리아나 부인.",Q1_ZIDAN,q1_at_kat10,,,,0,0
+80619,Creature,Zidan,That is true. The thanks must go to <FirstName> for that.,"사실입니다. 그건 <FirstName>에게 감사해야죠.",Q1_ZIDAN,,,,,0,0
+80626,Creature,Zidan,"I... I... yes, of course, Madame Katriana...","저... 저... 네, 물론이죠, 카트리아나 부인...",Q1_ZIDAN,,,,,0,0
+80627,Creature,Zidan,But... but I have already paid <FirstName> for my rescue!,"하지만... 하지만 구출 대가로 <FirstName>에게 이미 지불했는데요!",Q1_ZIDAN,,,,,0,0
+80636,Creature,Zidan,"You... are too kind, Madame Katriana...","정말... 친절하시군요, 카트리아나 부인...",Q1_ZIDAN,,,,,0,0
+80640,Creature,Zidan,Err... but I have already given much of my gold to <FirstName>...,"저... 하지만 이미 금화 대부분을 <FirstName>에게 드렸는데요...",Q1_ZIDAN,,,,,0,0
+80647,Creature,Zidan,"Thank you kindly, Madame Katriana. And you, as well, <FirstName>... this is most unexpected.","정말 감사합니다, 카트리아나 부인. 당신에게도요, <FirstName>... 이건 정말 뜻밖이군요.",Q1_ZIDAN,,,,,0,0
+80650,Creature,Zidan,"Of course, my lady. You have my apologies... I did not mean to exclude you.","물론이죠, 아가씨. 죄송합니다... 빼놓으려던 건 아니었습니다.",Q1_ZIDAN,,,,,0,0
+80652,Creature,Zidan,"My apologies, sir. Of course you deserve my gratitude, as well.","죄송합니다, 선생님. 물론 당신께도 감사드려야죠.",Q1_ZIDAN,,,,,0,0
+80769,Creature,Zidan,This is true. I am alive... and grateful.,"사실입니다. 살아있고... 감사하고 있습니다.",Q1_ZIDAN,,,,,0,0
+80771,Creature,Zidan,Err... yes... that is quite an image you conjure...,"저... 네... 참 생생한 상상력이시군요...",Q1_ZIDAN,,,,,0,0
+80788,Creature,Zidan,Greetings. I am most pleased to be the one who shall lead this caravan through the great desert. My name is Zidan.,"반갑습니다. 이 캐러밴을 이끌고 대사막을 건너게 되어 매우 기쁩니다. 제 이름은 지단입니다.",Q1_ZIDAN,,,,,0,0
+80972,Creature,Zidan,So you shall go and negotiate for our water? Good luck to you. I certainly would not want to deal with the Guardian Bedine.,"그럼 물을 협상하러 가시는 겁니까? 행운을 빕니다. 저라면 수호자 베다인과 상대하고 싶지 않을 겁니다.",Q2_ZIDAN,act_q2zidan_1,,,,0,0
+80973,Creature,Zidan,"Be wary, <FirstName>. These are a strange people.","조심하세요, <FirstName>. 이상한 사람들입니다.",Q2_ZIDAN,,,,,0,0
+80974,Creature,Zidan,"The Bedine of this oasis are a strange lot. I do not know too much about them, but the rest of the Bedine do not deal with the Guardians. It is said that they are cursed.","이 오아시스의 베다인은 이상한 무리입니다. 잘 알지는 못하지만, 다른 베다인들은 수호자들과 상종하지 않습니다. 저주받았다고 하더군요.",Q2_ZIDAN,,,,,0,0
+80975,Creature,Zidan,"We are a nomadic people, but this tribe lives here on a permanent basis. The legends of our people say that this tribe was once part of us, but one day they appeared here, strange and elusive.","우리는 유목민이지만, 이 부족은 여기에 정착해 삽니다. 우리 민족의 전설에 따르면 이 부족은 한때 우리의 일원이었지만, 어느 날 여기에 나타났는데 이상하고 종잡을 수 없었다고 합니다.",Q2_ZIDAN,,,,,0,0
+80976,Creature,Zidan,"One day a foolish Bedine nomad decided to steal an heirloom of this tribe. He was caught, and the leader of this tribe cursed him and all other Bedine, so that we can never enter the oasis.","어느 날 어리석은 베다인 유목민이 이 부족의 가보를 훔치려 했습니다. 붙잡혔고, 이 부족의 지도자가 그와 모든 베다인에게 저주를 내려 우리는 오아시스에 들어갈 수 없게 되었습니다.",Q2_ZIDAN,,,,,0,0
+80977,Creature,Zidan,"We call them the guardians, though we do not know what it is they are guarding. You could ask them, but I would do so in a polite way.","우리는 그들을 수호자라 부르지만, 무엇을 지키는지는 모릅니다. 물어볼 수는 있지만, 공손하게 하시길 권합니다.",Q2_ZIDAN,,,,,0,0
+80978,Creature,Zidan,"The artifact was very powerful, they said. It had a specific purpose, one that the Bedine could not fulfill, though they never told us what it was. We do not communicate with them anymore.","그 유물은 매우 강력했다고 합니다. 특별한 목적이 있었는데, 베다인은 그걸 이룰 수 없었다고요. 그게 뭔지는 절대 말해주지 않았습니다. 이제 우리는 그들과 왕래하지 않습니다.",Q2_ZIDAN,,,,,0,0
+80979,Creature,Zidan,We find ourselves getting more nauseous the closer we get. Right now I can feel the effects only slightly. Were I to get much closer I would start to feel cramping in my bowels.,"가까이 갈수록 메스꺼워집니다. 지금은 약간만 느껴지지만, 더 가까이 가면 배에 경련이 오기 시작할 겁니다.",Q2_ZIDAN,,,,,0,0
+80980,Creature,Zidan,"It is hard to fight an enemy while your body is trying to excrete waste out every opening. An effective curse, you might say.","온몸 구멍에서 뭔가 쏟아지려 할 때 적과 싸우기는 어렵죠. 효과적인 저주입니다.",Q2_ZIDAN,,,,,0,0
+80981,Creature,Zidan,I see you have returned. Did you have any luck?,"돌아오셨군요. 잘 되셨습니까?",Q2_ZIDAN,,,,,0,0
+80982,Creature,Zidan,"Yes, be wary. This is a dangerous place.","네, 조심하세요. 위험한 곳입니다.",Q2_ZIDAN,,,,,0,0
+80983,Creature,Zidan,That is excellent news. We should be leaving soon then.,"아주 좋은 소식이군요. 곧 출발해야겠습니다.",Q2_ZIDAN,act_q2zidan_2,,,,0,0
+80984,Creature,Zidan,"That is horrible. When this caravan has crossed the desert I shall spread the word among my people. Perhaps we will be able to help the survivors, if there are any.","끔찍하군요. 캐러밴이 사막을 건너면 우리 동포들에게 소식을 전하겠습니다. 생존자가 있다면 도울 수 있을지도 모릅니다.",Q2_ZIDAN,,,,,0,0
+80985,Creature,Zidan,"I will do my best, though I have never been into this oasis before.","최선을 다하겠습니다. 오아시스 안에 들어가 본 적은 없지만요.",Q2_ZIDAN,,,,,0,0
+80986,Creature,Zidan,You have done an excellent job. Maybe you have the soul of a Bedine.,"훌륭하게 해내셨습니다. 베다인의 영혼을 가지고 계신 게 아닐까요.",Q2_ZIDAN,,,,,0,0
+83016,Creature,Zidan,Zidan,"지단",Q1_ZIDAN|Q2_ZIDAN|Q2_ZIDAN2,,,,,0,0

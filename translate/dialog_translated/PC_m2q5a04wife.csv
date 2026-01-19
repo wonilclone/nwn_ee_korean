@@ -1,0 +1,25 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+37676,PC,Player Character [M2Q5C],"I spoke with your husband, Leah. He thinks that you're dead.","네 남편과 얘기했어, 리아. 그는 네가 죽었다고 생각해.",m2q5a04wife,,m2q5csleah002,[M2Q5C],,0,0
+37677,PC,Player Character,"All right. It should be safe for you to get out of here, Leah.","좋아. 이제 안전하게 나갈 수 있을 거야, 리아.",m2q5a04wife,,[지능 보통],,,0,0
+37678,PC,Player Character,I didn't expect to find any prisoners. Can you get out on your own?,포로가 있을 줄은 몰랐어. 혼자 나갈 수 있어?,m2q5a04wife,,[지능 보통],,,0,0
+37679,PC,Player Character,I'll go make sure it's safe. Can you wait here? I'll come back.,내가 먼저 가서 안전한지 확인할게. 여기서 기다릴 수 있어? 다시 올게.,m2q5a04wife,,[지능 보통],,,0,0
+37680,PC,Player Character [M2Q5C],Me knows you husband. He think you Leah is dead.,나 네 남편 알아. 그 너 리아 죽었다고 생각해.,m2q5a04wife,,m2q5csleah003,[M2Q5C],,0,0
+37681,PC,Player Character,"Me killed lots of things, so be safe for you to go. Yuh, Leah?","나 많은 것들 죽였어, 그러니 너 가도 안전해. 그렇지, 리아?",m2q5a04wife,,[지능 낮음],,,0,0
+37682,PC,Player Character,Me not realize you is here. You make own way out?,나 너 여기 있는 거 몰랐어. 너 혼자 나갈 수 있어?,m2q5a04wife,,[지능 낮음],,,0,0
+37683,PC,Player Character,"Um... me go kill stuff, then come back. You go later, yuh?","음... 나 가서 것들 죽이고, 다시 올게. 너 나중에 가, 알았지?",m2q5a04wife,,[지능 낮음],,,0,0
+37684,PC,Player Character,Of course. I'll lead you to the exit. It'll be safe from there.,물론이지. 출구까지 안내할게. 거기서부터는 안전할 거야.,m2q5a04wife,,[지능 보통],,,0,0
+37685,PC,Player Character,Yes. Just follow the trail of carnage and you'll be fine.,그래. 학살의 흔적만 따라가면 괜찮을 거야.,m2q5a04wife,,[지능 보통],,,0,0
+37686,PC,Player Character,"You be safe, if you be fast and quiet.",너 빠르고 조용하게 하면 안전할 거야.,m2q5a04wife,,[지능 낮음],,,0,0
+37687,PC,Player Character,Who are you?,넌 누구야?,m2q5a04wife,,[지능 보통],,,0,0
+37688,PC,Player Character,Who you is? Huh?,너 누구야? 응?,m2q5a04wife,,[지능 낮음],,,0,0
+37689,PC,Player Character,Goodbye.,안녕.,m2q5a04wife,,,,,0,0
+37690,PC,Player Character,"Me can help you. Take to exit, yuh? Away from monsters?","나 너 도와줄 수 있어. 출구로 데려다줄게, 응? 괴물들한테서 멀리?",m2q5a04wife,,[지능 낮음],,,0,0
+37691,PC,Player Character,Leah! I need to ask you some questions.,리아! 질문 좀 해야겠어.,m2q5a04wife,,[지능 보통],,,0,0
+37692,PC,Player Character,You is Leah? Me got question for you.,너 리아야? 나 질문 있어.,m2q5a04wife,,[지능 낮음],,,0,0
+37693,PC,Player Character,What can you tell me of these caves?,이 동굴에 대해 뭘 알려줄 수 있어?,m2q5a04wife,,[지능 보통],,,0,0
+37694,PC,Player Character,What me can gets told of caves?,나 동굴에 대해 뭐 알 수 있어?,m2q5a04wife,,[지능 낮음],,,0,0
+37695,PC,Player Character,Why did the monsters kidnap you?,왜 괴물들이 널 납치한 거야?,m2q5a04wife,,[지능 보통],,,0,0
+37696,PC,Player Character,"Why monsters take you, not kill you instead?","왜 괴물들 너 데려가고, 죽이지 않았어?",m2q5a04wife,,[지능 낮음],,,0,0
+37697,PC,Player Character,You should get out of here now.,이제 나가는 게 좋겠어.,m2q5a04wife,,[지능 보통],,,0,0
+37698,PC,Player Character,"Me thinks you should get out now, yuh?","나 생각에 너 지금 나가야 해, 알았지?",m2q5a04wife,,[지능 낮음],,,0,0
+37699,PC,Player Character,"<StartCheck>[Insight]</Start> I hate to keep asking questions, but did they mention anything?","<StartCheck>[통찰]</Start> 계속 질문해서 미안한데, 뭔가 말한 거 있어?",m2q5a04wife,,nw_d2_wis_intn,,,0,0

@@ -1,0 +1,467 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+102280,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_nat,,,,,0,0
+102281,PC,Player Character,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아.""",xp2_hen_nat,,x2_d2_inreaper,,,0,0
+102282,PC,Player Character,"""All right, fine. Stay with me, then.""","""알았어, 좋아. 그럼 나와 함께 있어.""",xp2_hen_nat,,,,,0,0
+102283,PC,Player Character,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",xp2_hen_nat,,,,,0,0
+102284,PC,Player Character,"""Go on. Maybe we'll meet later.""","""가. 나중에 만날 수도 있어.""",xp2_hen_nat,,,,,0,0
+102285,PC,Player Character,"""I want to change your tactics.""","""전술을 바꿨으면 좋겠어.""",xp2_hen_nat,,,,,0,0
+102286,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",xp2_hen_nat,,,,,0,0
+102287,PC,Player Character,"""I don't want you to cast any spells until I say otherwise.""","""내가 달리 말하기 전까지 주문을 시전하지 마.""",xp2_hen_nat,x2_ch_spell_off,x2_ch_yes_spells,,,0,0
+102288,PC,Player Character,"""I want you to go ahead and cast spells on your own.""","""네 판단으로 먼저 주문을 시전해.""",xp2_hen_nat,x2_ch_spell_on,x2_ch_no_spells,,,0,0
+102289,PC,Player Character,"""Do not try to use dispel magic spells to remove disabling effects from party members.""","""파티원의 무력화 효과를 제거하기 위해 주문해제를 사용하지 마.""",xp2_hen_nat,x2_d1_unsetdisp,x2_d1_usedispel,,,0,0
+102290,PC,Player Character,"""Use dispel magic spells to remove disabling effects from party members.""","""파티원의 무력화 효과를 제거하기 위해 주문해제를 사용해.""",xp2_hen_nat,x2_d1_setdispel,x2_d1_nodispel,,,0,0
+102291,PC,Player Character,"""I want you to leave any traps that you see alone for now.""","""지금은 보이는 함정을 그대로 놔둬.""",xp2_hen_nat,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+102292,PC,Player Character,"""I want you to disarm any traps that you see.""","""보이는 함정은 모두 해제해.""",xp2_hen_nat,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+102293,PC,Player Character,"""Don't try to be stealthy anymore.""","""이제 은밀하게 행동하지 마.""",xp2_hen_nat,x2_d1_stealth3,x2_d1_instealth,,,0,0
+102294,PC,Player Character,"""Stay stealthy, but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만.""",xp2_hen_nat,x2_d1_stealth2,,,,0,0
+102295,PC,Player Character,"""Try to remain stealthy all the time.""","""항상 은밀하게 행동하도록 해.""",xp2_hen_nat,x2_d1_stealth1,,,,0,0
+102296,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 돕지 마.""",xp2_hen_nat,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+102297,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 도와줘.""",xp2_hen_nat,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+102298,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와의 거리를 조정했으면 좋겠어.""",xp2_hen_nat,,,,,0,0
+102299,PC,Player Character [Follow: Far],Stay a long distance away.,먼 거리를 유지해.,xp2_hen_nat,nw_ch_dist_18,,[Follow: Far],,0,0
+102300,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,xp2_hen_nat,nw_ch_dist_12,,[Follow: Medium],,0,0
+102301,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,xp2_hen_nat,nw_ch_dist_6,,[Follow: Close],,0,0
+102302,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 보는 즉시 공격해.""",xp2_hen_nat,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+102303,PC,Player Character,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격하기 전까지 공격하지 마.""",xp2_hen_nat,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+102304,PC,Player Character,"""I want to adjust your equipment.""","""장비를 조정했으면 해.""",xp2_hen_nat,,,,,0,0
+102305,PC,Player Character,"""Can you identify my equipment?""","""내 장비를 감정해줄 수 있어?""",xp2_hen_nat,,x1_hen_canid,,,0,0
+102306,PC,Player Character,"""I need you to cast a spell.""","""주문을 시전해줘야겠어.""",xp2_hen_nat,,,,,0,0
+102307,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_nat,,,,,0,0
+102308,PC,Player Character,"""Ultravision.""","""초시야.""",xp2_hen_nat,x0_d1_castultra,x0_d2_hasultra,,,0,0
+102309,PC,Player Character,"""True Seeing.""","""진실의 시야.""",xp2_hen_nat,x0_d1_casttruese,x0_d2_hastruesee,,,0,0
+102310,PC,Player Character,"""Summon Creature IX.""","""생명체 소환 9.""",xp2_hen_nat,x0_d1_castsumm9,x0_d2_hassumm9,,,0,0
+102311,PC,Player Character,"""Summon Creature VIII.""","""생명체 소환 8.""",xp2_hen_nat,x0_d1_castsumm8,x0_d2_hassumm8,,,0,0
+102312,PC,Player Character,"""Summon Creature VII.""","""생명체 소환 7.""",xp2_hen_nat,x0_d1_castsumm7,x0_d2_hassumm7,,,0,0
+102313,PC,Player Character,"""Summon Creature VI.""","""생명체 소환 6.""",xp2_hen_nat,x0_d1_castsumm6,x0_d2_hassumm6,,,0,0
+102314,PC,Player Character,"""Summon Creature V.""","""생명체 소환 5.""",xp2_hen_nat,x0_d1_castsumm5,x0_d2_hassumm5,,,0,0
+102315,PC,Player Character,"""Summon Creature IV.""","""생명체 소환 4.""",xp2_hen_nat,x0_d1_castsumm4,x0_d2_hassumm4,,,0,0
+102316,PC,Player Character,"""Summon Creature III.""","""생명체 소환 3.""",xp2_hen_nat,x0_d1_castsumm3,x0_d2_hassumm3,,,0,0
+102317,PC,Player Character,"""Summon Creature II.""","""생명체 소환 2.""",xp2_hen_nat,x0_d1_castsumm2,x0_d2_hassumm2,,,0,0
+102318,PC,Player Character,"""Summon Creature I.""","""생명체 소환 1.""",xp2_hen_nat,x0_d1_castsumm1,x0_d2_hassumm1,,,0,0
+102319,PC,Player Character,"""Stoneskin.""","""돌 피부.""",xp2_hen_nat,x0_d1_caststonsk,x0_d2_hasstskin,,,0,0
+102320,PC,Player Character,"""Spell Resistance.""","""주문 저항.""",xp2_hen_nat,x0_d1_castspresi,x0_d2_hasspelres,,,0,0
+102321,PC,Player Character,"""Spell Mantle.""","""주문 망토.""",xp2_hen_nat,x0_d1_castspmant,x0_d2_hasspman,,,0,0
+102322,PC,Player Character,"""Shield of Faith.""","""믿음의 방패.""",xp2_hen_nat,x0_d1_castshfait,x0_d2_hasshldfth,,,0,0
+102323,PC,Player Character,"""Shield.""","""방패.""",xp2_hen_nat,x0_d1_castshield,x0_d2_hasshield,,,0,0
+102324,PC,Player Character,"""Shadow Shield.""","""그림자 방패.""",xp2_hen_nat,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
+102325,PC,Player Character,"""See Invisibility.""","""투명체 보기.""",xp2_hen_nat,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+102326,PC,Player Character,"""Sanctuary.""","""성역.""",xp2_hen_nat,x0_d1_castsanct,x0_d2_hassanc,,,0,0
+102327,PC,Player Character,"""Restoration.""","""회복.""",xp2_hen_nat,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
+102328,PC,Player Character,"""Resistance.""","""저항.""",xp2_hen_nat,x0_d1_castresist,x0_d2_hasresist,,,0,0
+102329,PC,Player Character,"""Resist Elements.""","""원소 저항.""",xp2_hen_nat,x0_d1_castresele,x0_d2_hasreselem,,,0,0
+102330,PC,Player Character,"""Remove Paralysis.""","""마비 해제.""",xp2_hen_nat,x0_d1_castrempar,x0_d2_hasrempara,,,0,0
+102331,PC,Player Character,"""Remove Fear.""","""공포 해제.""",xp2_hen_nat,x0_d1_castrfear,x0_d2_hasremfear,,,0,0
+102332,PC,Player Character,"""Remove Disease.""","""질병 해제.""",xp2_hen_nat,x0_d1_castrdisea,x0_d2_hasremdis,,,0,0
+102333,PC,Player Character,"""Remove Curse.""","""저주 해제.""",xp2_hen_nat,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
+102334,PC,Player Character,"""Remove Blindness/Deafness.""","""실명/청각 상실 해제.""",xp2_hen_nat,x0_d1_castrembdf,x0_d2_hasrembldf,,,0,0
+102335,PC,Player Character,"""Regenerate.""","""재생.""",xp2_hen_nat,x0_d1_castregen,x0_d2_hasregen,,,0,0
+102336,PC,Player Character,"""Protection From Spells.""","""주문으로부터 보호.""",xp2_hen_nat,x0_d1_castprspel,x0_d2_hasprspell,,,0,0
+102337,PC,Player Character,"""Protection From Elements.""","""원소로부터 보호.""",xp2_hen_nat,x0_d1_castprelem,x0_d2_hasprelem,,,0,0
+102338,PC,Player Character,"""Premonition.""","""예감.""",xp2_hen_nat,x0_d1_castpremon,x0_d2_haspremon,,,0,0
+102339,PC,Player Character,"""Prayer.""","""기도.""",xp2_hen_nat,x0_d1_castprayer,x0_d2_hasprayer,,,0,0
+102340,PC,Player Character,"""Owl's Wisdom.""","""부엉이의 지혜.""",xp2_hen_nat,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
+102341,PC,Player Character,"""Neutralize poison.""","""독성 무효화.""",xp2_hen_nat,x0_d1_castnpoiso,x0_d2_hasneutpoi,,,0,0
+102342,PC,Player Character,"""Monstrous Regeneration.""","""괴물같은 재생.""",xp2_hen_nat,x0_d1_castmregen,x0_d2_hasmrege,,,0,0
+102343,PC,Player Character,"""Minor Globe of Invulnerability.""","""하급 무적의 구체.""",xp2_hen_nat,x0_d1_castmglobe,x2_d2_hasmglobe,,,0,0
+102344,PC,Player Character,"""Mind Blank.""","""정신 차단.""",xp2_hen_nat,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+102345,PC,Player Character,"""Mestil's Acid Sheath.""","""메스틸의 산성 보호막.""",xp2_hen_nat,x2_d1_castmesshe,x2_d2_hasmesshe,,,0,0
+102346,PC,Player Character,"""Mass Haste.""","""대규모 가속.""",xp2_hen_nat,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
+102347,PC,Player Character,"""Magical Vestment.""","""마법 의복.""",xp2_hen_nat,x0_d1_castmvest,x0_d2_hasmagvest,,,0,0
+102348,PC,Player Character,"""Mage Armor.""","""마법학자 갑옷.""",xp2_hen_nat,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
+102349,PC,Player Character,"""Light.""","""빛.""",xp2_hen_nat,x0_d1_castlight,x0_d2_haslight,,,0,0
+102350,PC,Player Character,"""Lesser Spell Mantle.""","""하급 주문 망토.""",xp2_hen_nat,x0_d1_castlspman,x0_d2_haslesspm,,,0,0
+102351,PC,Player Character,"""Lesser Restoration.""","""하급 회복.""",xp2_hen_nat,x0_d1_castlresto,x0_d2_haslesrest,,,0,0
+102352,PC,Player Character,"""Lesser Mind Blank""","""하급 정신 차단.""",xp2_hen_nat,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+102353,PC,Player Character,"""Lesser Dispel.""","""하급 주문해제.""",xp2_hen_nat,x0_d1_castldispe,x0_d2_hasldispel,,,0,0
+102354,PC,Player Character,"""Knock.""","""문 두드리기.""",xp2_hen_nat,x0_d1_castknock,x0_d2_hasknock,,,0,0
+102355,PC,Player Character,"""Invisibility Sphere.""","""투명화 구체.""",xp2_hen_nat,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
+102356,PC,Player Character,"""Invisibility.""","""투명화.""",xp2_hen_nat,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
+102357,PC,Player Character,"""Improved Invisibility.""","""우수한 투명화.""",xp2_hen_nat,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
+102358,PC,Player Character,"""Haste.""","""가속.""",xp2_hen_nat,x0_d1_casthaste,x0_d2_hashaste,,,0,0
+102359,PC,Player Character,"""Greater Stoneskin.""","""상급 돌 피부.""",xp2_hen_nat,x0_d1_castgrston,x0_d2_hasgrstone,,,0,0
+102360,PC,Player Character,"""Greater Spell Mantle.""","""상급 주문 망토.""",xp2_hen_nat,x0_d1_castgspman,x2_d2_hasgspman,,,0,0
+102361,PC,Player Character,"""Greater Sanctuary.""","""상급 성역.""",xp2_hen_nat,x0_d1_castgsanc,x2_d2_hasethenss,,,0,0
+102362,PC,Player Character,"""Greater Restoration.""","""상급 회복.""",xp2_hen_nat,x0_d1_castgresto,x0_d2_hasgrrest,,,0,0
+102363,PC,Player Character,"""Greater Dispelling.""","""상급 주문해제.""",xp2_hen_nat,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
+102364,PC,Player Character,"""Globe of Invulnerability.""","""무적의 구체.""",xp2_hen_nat,x0_d1_castglobe,x2_d2_hasglobe,,,0,0
+102365,PC,Player Character,"""Ghostly Visage.""","""유령의 형상.""",xp2_hen_nat,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
+102366,PC,Player Character,"""Freedom of Movement.""","""자유 이동.""",xp2_hen_nat,x0_d1_castfreedo,x0_d2_hasfreemov,,,0,0
+102367,PC,Player Character,"""Fox's Cunning.""","""여우의 교활함.""",xp2_hen_nat,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
+102368,PC,Player Character,"""Find Traps.""","""함정 찾기.""",xp2_hen_nat,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
+102369,PC,Player Character,"""Ethereal Visage.""","""에테르 형상.""",xp2_hen_nat,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
+102370,PC,Player Character,"""Entropic Shield.""","""혼돈의 보호막.""",xp2_hen_nat,x0_d1_castentsh,x2_d2_hasntropic,,,0,0
+102371,PC,Player Character,"""Energy Buffer.""","""에너지 완충기.""",xp2_hen_nat,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+102372,PC,Player Character,"""No, I've changed my mind.""","""아니, 마음이 바뀌었어.""",xp2_hen_nat,,,,,0,0
+102373,PC,Player Character,"""Yes, go ahead.""","""그래, 계속해.""",xp2_hen_nat,x0_d1_targetself,,,,0,0
+102374,PC,Player Character,"""Endure Elements.""","""원소 인내.""",xp2_hen_nat,x0_d1_castendele,x0_d2_hasendelem,,,0,0
+102375,PC,Player Character,"""Endurance.""","""인내.""",xp2_hen_nat,x0_d1_castendur,x0_d2_hasendur,,,0,0
+102376,PC,Player Character,"""Elemental Shield.""","""원소 방패.""",xp2_hen_nat,x0_d1_castelesh,x2_d2_haselemsh,,,0,0
+102377,PC,Player Character,"""Eagle's Splendor.""","""독수리의 위엄.""",xp2_hen_nat,x0_d1_casteagles,x0_d2_haseagles,,,0,0
+102378,PC,Player Character,"""Divine Power.""","""신성한 권능.""",xp2_hen_nat,x0_d1_castdivpow,x0_d2_hasdivpow,,,0,0
+102379,PC,Player Character,"""Displacement.""","""변위.""",xp2_hen_nat,x2_d1_castdispla,x2_d2_hasmesshe,,,0,0
+102380,PC,Player Character,"""Dispel Magic.""","""주문해제.""",xp2_hen_nat,x0_d1_castdismag,x0_d2_hasdispelm,,,0,0
+102381,PC,Player Character,"""Death Ward.""","""죽음 방비.""",xp2_hen_nat,x0_d1_castdward,x0_d2_hasdthward,,,0,0
+102382,PC,Player Character,"""Death Armor.""","""죽음의 갑옷.""",xp2_hen_nat,x0_d1_castdarmor,x0_d2_hasdarmor,,,0,0
+102383,PC,Player Character,"""Create Undead.""","""언데드 생성.""",xp2_hen_nat,x0_d1_castcrund,x0_d2_hascreund,,,0,0
+102384,PC,Player Character,"""Continual Flame.""","""계속되는 불꽃.""",xp2_hen_nat,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+102385,PC,Player Character,"""Clarity.""","""맑은 정신.""",xp2_hen_nat,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
+102386,PC,Player Character,"""Cat's Grace.""","""고양이의 우아함.""",xp2_hen_nat,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
+102387,PC,Player Character,"""Bull's Strength.""","""황소의 근력.""",xp2_hen_nat,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
+102388,PC,Player Character,"""I've changed my mind.""","""마음이 바뀌었어.""",xp2_hen_nat,,,,,0,0
+102389,PC,Player Character,"""Cast on all the party members.""","""모든 파티원에게 시전해.""",xp2_hen_nat,x0_d1_targetall,x2_d1_targetall,,,0,0
+102390,PC,Player Character,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 시전해.""",xp2_hen_nat,x2_d1_targethen9,x2_d1_hashench9,,,0,0
+102391,PC,Player Character,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 시전해.""",xp2_hen_nat,x2_d1_targethen8,x2_d1_hashench8,,,0,0
+102392,PC,Player Character,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 시전해.""",xp2_hen_nat,x2_d1_targethen7,x2_d1_hashench7,,,0,0
+102393,PC,Player Character,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 시전해.""",xp2_hen_nat,x2_d1_targethen6,x2_d1_hashench6,,,0,0
+102394,PC,Player Character,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 시전해.""",xp2_hen_nat,x2_d1_targethen5,x2_d1_hashench5,,,0,0
+102395,PC,Player Character,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 시전해.""",xp2_hen_nat,x2_d1_targethen4,x2_d1_hashench4,,,0,0
+102396,PC,Player Character,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 시전해.""",xp2_hen_nat,x2_d1_targethen3,x2_d1_hashench3,,,0,0
+102397,PC,Player Character,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 시전해.""",xp2_hen_nat,x2_d1_targethen2,x2_d1_hashench2,,,0,0
+102398,PC,Player Character,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 시전해.""",xp2_hen_nat,x2_d1_targethen1,x2_d1_hashench1,,,0,0
+102399,PC,Player Character,"""Cast it on my animal companion.""","""내 동물 동료에게 시전해.""",xp2_hen_nat,x0_d1_targetcomp,x0_d2_hascompan,,,0,0
+102400,PC,Player Character,"""Cast it on my familiar.""","""내 사역마에게 시전해.""",xp2_hen_nat,x0_d1_targetfam,x0_d2_hasfamil,,,0,0
+102401,PC,Player Character,"""Cast it on me.""","""나에게 시전해.""",xp2_hen_nat,x0_d1_targetme,,,,0,0
+102402,PC,Player Character,"""Cast it on yourself.""","""너 자신에게 시전해.""",xp2_hen_nat,x0_d1_targetself,,,,0,0
+102403,PC,Player Character,"""Bless.""","""축복.""",xp2_hen_nat,x0_d1_castbless,x0_d2_hasbless,,,0,0
+102404,PC,Player Character,"""Animate Dead.""","""언데드 생성.""",xp2_hen_nat,x0_d1_castandead,x0_d2_hasandead,,,0,0
+102405,PC,Player Character,"""Aid.""","""지원.""",xp2_hen_nat,x0_d1_castaid,x0_d2_hasaid,,,0,0
+102406,PC,Player Character,"""I need you to cast a group of buffing spells.""","""강화 주문들을 시전해야겠어.""",xp2_hen_nat,x2_d1_setgroup,,,,0,0
+102407,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_nat,,,,,0,0
+102408,PC,Player Character,"""Cast all the buffing spells you have.""","""가진 강화 주문 전부 시전해.""",xp2_hen_nat,x2_d1_castbuff3,,,,0,0
+102409,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""오래 지속되는 강화 주문 전부 시전해.""",xp2_hen_nat,x2_d1_castbuff2,,,,0,0
+102410,PC,Player Character,"""Cast all the short duration buffing spells.""","""짧게 지속되는 강화 주문 전부 시전해.""",xp2_hen_nat,x2_d1_castbuff1,,,,0,0
+102411,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 하려던 말이 뭐였어?""",xp2_hen_nat,,x0_d2_hen_interp,,,0,0
+102412,PC,Player Character,"""Let's stop and talk for a moment.""","""잠깐 멈춰서 얘기하자.""",xp2_hen_nat,,,,,0,0
+102413,PC,Player Character,"""That's all for now.""","""이제 됐어.""",xp2_hen_nat,,,,,0,0
+102414,PC,Player Character,"""No, nothing else.""","""아니, 다른 건 없어.""",xp2_hen_nat,,,,,0,0
+102415,PC,Player Character,"""How are you doing? Is anything wrong?""","""어때? 무슨 문제 있어?""",xp2_hen_nat,,,,,0,0
+102416,PC,Player Character,"""I wish to discuss your training.""","""네 훈련에 대해 논의하고 싶어.""",xp2_hen_nat,,,,,0,0
+102417,PC,Player Character,"""I'd like you to go back to finding a balance between the two.""","""둘 사이의 균형을 찾는 걸로 돌아갔으면 좋겠어.""",xp2_hen_nat,,,,,0,0
+102418,PC,Player Character,"""Continue with what you're doing now.""","""지금 하는 대로 계속해.""",xp2_hen_nat,,,,,0,0
+102419,PC,Player Character,"""Concentrate on becoming an assassin.""","""암살자가 되는 데 집중해.""",xp2_hen_nat,,,,,0,0
+102420,PC,Player Character,"""I want you to focus exclusively on your mage training.""","""마법사 훈련에만 집중했으면 좋겠어.""",xp2_hen_nat,,,,,0,0
+102421,PC,Player Character,"""I want to talk more about the lost souls.""","""잃어버린 영혼들에 대해 더 얘기하고 싶어.""",xp2_hen_nat,x2_inathstage62,x2_inathstage6x,,,0,0
+102422,PC,Player Character,"""What do they say to you?""","""그들이 뭐라고 해?""",xp2_hen_nat,,,,,0,0
+102423,PC,Player Character,"""I think it's just your guilty conscience acting up.""","""그냥 네 죄책감이 작동하는 거 같은데.""",xp2_hen_nat,,,,,0,0
+102424,PC,Player Character,"""That's ridiculous.""","""말도 안 돼.""",xp2_hen_nat,,,,,0,0
+102425,PC,Player Character,"""If you're losing your sanity, I can replace you!""","""제정신을 잃고 있다면, 널 교체할 수 있어!""",xp2_hen_nat,,,,,0,0
+102426,PC,Player Character,"""Well, you killed them. I guess they'd be angry with you.""","""네가 죽였으니까. 화낼 만하지.""",xp2_hen_nat,,,,,0,0
+102427,PC,Player Character,"""You can't let yourself continue to be haunted by your past.""","""과거에 계속 시달리게 놔둬선 안 돼.""",xp2_hen_nat,,,,,0,0
+102428,PC,Player Character,"""I'm sick of this. You deal with this problem, now!""","""이제 지겹다. 이 문제 해결해, 당장!""",xp2_hen_nat,x2_inathrom__,,,,0,0
+102429,PC,Player Character,"""You have to be strong, Nathyrra. You have to resist them.""","""강해져야 해, 나시라. 그들에게 저항해야 해.""",xp2_hen_nat,,,,,0,0
+102430,PC,Player Character,"""You're not what you once were, Nathyrra. The spirits have no claim over you.""","""넌 예전의 네가 아니야, 나시라. 영혼들이 널 요구할 권리는 없어.""",xp2_hen_nat,,,,,0,0
+102431,PC,Player Character,"""You can, Nathyrra. I believe in you. You are stronger than you realize.""","""할 수 있어, 나시라. 널 믿어. 넌 네가 생각하는 것보다 강해.""",xp2_hen_nat,,,,,0,0
+102432,PC,Player Character,"""But you aren't alone, my love. I'm with you. Always.""","""하지만 넌 혼자가 아니야, 사랑하는 이여. 내가 함께 있어. 항상.""",xp2_hen_nat,,x2_nathromancex,,,0,0
+102433,PC,Player Character,"""What do you plan to do after all this?""","""이 모든 게 끝나면 뭘 할 생각이야?""",xp2_hen_nat,x2_inathstage42,x2_inathstage4x,,,0,0
+102434,PC,Player Character,"""You could find plenty of work as an assassin on the surface.""","""지상에서 암살자로 일거리를 많이 찾을 수 있을 거야.""",xp2_hen_nat,,,,,0,0
+102435,PC,Player Character,"""You've gone soft!""","""많이 약해졌네!""",xp2_hen_nat,,,,,0,0
+102436,PC,Player Character,"""I think trying to help others in the Underdark is a noble goal.""","""언더다크의 다른 이들을 돕는 건 고귀한 목표라고 생각해.""",xp2_hen_nat,,,,,0,0
+102437,PC,Player Character,"""There are people who need saving on the surface, too.""","""지상에도 구원이 필요한 사람들이 있어.""",xp2_hen_nat,,,,,0,0
+102438,PC,Player Character,"""When the time comes, I'm sure you'll make the right choice.""","""때가 되면 올바른 선택을 할 거라고 확신해.""",xp2_hen_nat,x2_inathrom++,,,,0,0
+102439,PC,Player Character,"""Sounds like you want to change all of drow society.""","""드로우 사회 전체를 바꾸고 싶은 것 같은데.""",xp2_hen_nat,,,,,0,0
+102440,PC,Player Character,"""Maybe you could stay with me.""","""어쩌면 나와 함께 있을 수도 있지.""",xp2_hen_nat,,nw_d2_male,,,0,0
+102441,PC,Player Character,"""Fine. Choose Eilistraee instead of me.""","""좋아. 나 대신 에일리스트레이를 선택해.""",xp2_hen_nat,,,,,0,0
+102442,PC,Player Character,"""We can make it work.""","""우리가 해낼 수 있어.""",xp2_hen_nat,,,,,0,0
+102443,PC,Player Character,"""Wherever you go, I'll go with you.""","""네가 어디를 가든, 함께 갈게.""",xp2_hen_nat,,,,,0,0
+102444,PC,Player Character,"""I want to talk to you about Eilistraee.""","""에일리스트레이에 대해 얘기하고 싶어.""",xp2_hen_nat,x2_inathstage32,x2_inathstage3x,,,0,0
+102445,PC,Player Character,"""Just tell me what you can.""","""말할 수 있는 것만 말해줘.""",xp2_hen_nat,,,,,0,0
+102446,PC,Player Character,"""What do the followers of Eilistraee believe in?""","""에일리스트레이의 신도들은 뭘 믿어?""",xp2_hen_nat,,,,,0,0
+102447,PC,Player Character,"""Sounds like a stupid religion to me.""","""내겐 멍청한 종교처럼 들려.""",xp2_hen_nat,,,,,0,0
+102448,PC,Player Character,"""If anyone can be saved, what about the Valsharess?""","""누구든 구원받을 수 있다면, 발샤레스는 어때?""",xp2_hen_nat,,,,,0,0
+102449,PC,Player Character,"""I'm glad you've found your salvation.""","""구원을 찾아서 다행이야.""",xp2_hen_nat,,,,,0,0
+102450,PC,Player Character,"""We've all done terrible things in our past. You just deal with it.""","""우리 모두 과거에 끔찍한 일을 했어. 그냥 받아들이는 거야.""",xp2_hen_nat,,,,,0,0
+102451,PC,Player Character,"""You have to learn to leave the past in the past, Nathyrra.""","""과거를 과거로 남겨두는 법을 배워야 해, 나시라.""",xp2_hen_nat,,,,,0,0
+102452,PC,Player Character,"""Maybe part of worshipping Eilistraee is learning to forgive yourself.""","""어쩌면 에일리스트레이를 숭배하는 것의 일부는 자신을 용서하는 법을 배우는 거야.""",xp2_hen_nat,,,,,0,0
+102453,PC,Player Character,"""Don't let those dreams get in the way of our mission!""","""그 꿈들이 우리 임무를 방해하게 하지 마!""",xp2_hen_nat,,,,,0,0
+102454,PC,Player Character,"""Is there anything I can do to help?""","""내가 도울 수 있는 게 있을까?""",xp2_hen_nat,x2_inathrom++,,,,0,0
+102455,PC,Player Character,"""If Eilistraee preaches mercy and forgiveness, why are we doing so much killing in her service?""","""에일리스트레이가 자비와 용서를 설파한다면, 왜 우리는 그녀를 섬기며 이렇게 많은 살육을 하는 거야?""",xp2_hen_nat,,,,,0,0
+102456,PC,Player Character,"""Is that why you're helping me now? Some kind of penance for past sins?""","""그게 지금 날 돕는 이유야? 과거의 죄에 대한 일종의 속죄?""",xp2_hen_nat,,,,,0,0
+102457,PC,Player Character,"""I want to know more about House Kant'tar.""","""칸타르 가문에 대해 더 알고 싶어.""",xp2_hen_nat,x2_inathstage22,x2_inathstage2x,,,0,0
+102458,PC,Player Character,"""I suppose you really didn't have any other choice.""","""정말 다른 선택의 여지가 없었던 것 같네.""",xp2_hen_nat,,,,,0,0
+102459,PC,Player Character,"""House Kant'tar, the Valsharess, the Seer: your loyalty seems rather fickle.""","""칸타르 가문, 발샤레스, 선견자: 네 충성심은 꽤 변덕스러워 보여.""",xp2_hen_nat,,,,,0,0
+102460,PC,Player Character,"""I just hope you don't switch sides yet again.""","""또 다시 편을 바꾸지 않길 바라지.""",xp2_hen_nat,,,,,0,0
+102461,PC,Player Character,"""I'm glad you're on our side now.""","""이제 우리 편이어서 다행이야.""",xp2_hen_nat,,,,,0,0
+102462,PC,Player Character,"""I can see your conversion is sincere.""","""네 개종이 진실하다는 걸 알겠어.""",xp2_hen_nat,,,,,0,0
+102463,PC,Player Character,"""Pretty words, but they don't mean much coming from you.""","""좋은 말이지만, 너한테서 나온 말은 별 의미가 없어.""",xp2_hen_nat,,,,,0,0
+102464,PC,Player Character,"""You don't have to walk this path alone, Nathyrra. I will be there to help you.""","""이 길을 혼자 걸을 필요 없어, 나시라. 내가 도울게.""",xp2_hen_nat,x2_inathrom++,,,,0,0
+102465,PC,Player Character,"""It doesn't seem that different to me.""","""내겐 그렇게 달라 보이지 않는데.""",xp2_hen_nat,,,,,0,0
+102466,PC,Player Character,"""I'm not sure I understand.""","""잘 이해가 안 가.""",xp2_hen_nat,,,,,0,0
+102467,PC,Player Character,"""I'm glad you did. Otherwise we would never have met.""","""그래서 다행이야. 그렇지 않았다면 우린 만나지 못했을 테니.""",xp2_hen_nat,,nw_d2_male,,,0,0
+102468,PC,Player Character,"""I hope you won't discard me so easily.""","""날 그렇게 쉽게 버리진 않길 바라지.""",xp2_hen_nat,,,,,0,0
+102469,PC,Player Character,"""Didn't you want revenge?""","""복수하고 싶지 않았어?""",xp2_hen_nat,,,,,0,0
+102470,PC,Player Character,"""I want to know more about the Red Sisters.""","""붉은 자매단에 대해 더 알고 싶어.""",xp2_hen_nat,x2_inathstage12,x2_inathstage1x,,,0,0
+102471,PC,Player Character,"""All right, if you'd rather not talk about it...""","""알았어, 얘기하기 싫다면...""",xp2_hen_nat,,,,,0,0
+102472,PC,Player Character,"""So tell me about the training.""","""그럼 훈련에 대해 말해줘.""",xp2_hen_nat,,,,,0,0
+102473,PC,Player Character,"""Actually, I don't want to talk about this.""","""사실, 이것에 대해 얘기하고 싶지 않아.""",xp2_hen_nat,,,,,0,0
+102474,PC,Player Character,"""Obviously you were the survivor from your class.""","""분명히 넌 네 반에서 살아남은 자였어.""",xp2_hen_nat,,,,,0,0
+102475,PC,Player Character,"""That hardly seems like an efficient way to do things.""","""그건 효율적인 방법 같지 않은데.""",xp2_hen_nat,,,,,0,0
+102476,PC,Player Character,"""It's always good to have an edge.""","""우위를 갖는 건 항상 좋지.""",xp2_hen_nat,,,,,0,0
+102477,PC,Player Character,"""So how did you finally kill her?""","""그래서 결국 어떻게 죽였어?""",xp2_hen_nat,,,,,0,0
+102478,PC,Player Character,"""But the instructors said that wasn't allowed!""","""하지만 교관들이 그건 안 된다고 했잖아!""",xp2_hen_nat,,,,,0,0
+102479,PC,Player Character,"""You're a horrible person!""","""넌 끔찍한 사람이야!""",xp2_hen_nat,x2_inathrom__,,,,0,0
+102480,PC,Player Character,"""But you cheated!""","""하지만 속임수를 썼잖아!""",xp2_hen_nat,,,,,0,0
+102481,PC,Player Character,"""You like to play by your own rules, don't you?""","""네 자신의 규칙대로 하는 걸 좋아하지, 그렇지?""",xp2_hen_nat,,,,,0,0
+102482,PC,Player Character,"""Remind me to keep an eye on you when I go to sleep.""","""내가 잘 때 널 주시하라고 일깨워줘.""",xp2_hen_nat,x2_inathrom++,nw_d2_male,,,0,0
+102483,PC,Player Character,"""They should have just graduated you both.""","""둘 다 그냥 졸업시켰어야 했어.""",xp2_hen_nat,,,,,0,0
+102484,PC,Player Character,"""You used magic? That's hardly fair!""","""마법을 썼다고? 그건 공정하지 않아!""",xp2_hen_nat,,,,,0,0
+102485,PC,Player Character,"""That's what I like about you - you know how to use all your assets!""","""그게 네가 좋은 점이야 - 모든 수단을 활용할 줄 알잖아!""",xp2_hen_nat,,nw_d2_male,,,0,0
+102486,PC,Player Character,"""I want to know more about you.""","""너에 대해 더 알고 싶어.""",xp2_hen_nat,,x2_nathcatchup,,,0,0
+102487,PC,Player Character,"""No, not yet. Stay here.""","""아니, 아직. 여기 있어.""",xp2_hen_nat,,,,,0,0
+102488,PC,Player Character,"""Yes, come along.""","""그래, 같이 가.""",xp2_hen_nat,,,,,0,0
+102489,PC,Player Character,"""Not right now, Nathyrra.""","""지금은 아니야, 나시라.""",xp2_hen_nat,x0_d1_hen_inter0,,,,0,0
+102490,PC,Player Character,"""Yes, Nathyrra?""","""그래, 나시라?""",xp2_hen_nat,x0_d1_hen_inter0,,,,0,0
+102491,PC,Player Character,"""Wow, you've got a great grasp of the bloody obvious!""","""와, 뻔한 걸 정말 잘 파악하네!""",xp2_hen_nat,,,,,0,0
+102492,PC,Player Character,"""All I feel is the need to find a way out of this place.""","""내가 느끼는 건 이곳을 빠져나갈 방법을 찾아야 한다는 것뿐이야.""",xp2_hen_nat,,,,,0,0
+102493,PC,Player Character,"""Isn't that a cheery thought.""","""참 유쾌한 생각이네.""",xp2_hen_nat,,,,,0,0
+102494,PC,Player Character,"""You can feel the lost souls?""","""잃어버린 영혼들을 느낄 수 있어?""",xp2_hen_nat,,,,,0,0
+102495,PC,Player Character,"""Can we just move on?""","""그냥 계속 갈 수 있을까?""",xp2_hen_nat,,,,,0,0
+102496,PC,Player Character,"""I don't hear anything.""","""아무것도 안 들려.""",xp2_hen_nat,,,,,0,0
+102497,PC,Player Character,"""Maybe we don't want to hear what they're saying.""","""아마 그들이 하는 말을 듣고 싶지 않을 거야.""",xp2_hen_nat,,,,,0,0
+102498,PC,Player Character,"""Maybe they're trying to warn us.""","""어쩌면 우리에게 경고하려는 걸 거야.""",xp2_hen_nat,,,,,0,0
+102499,PC,Player Character,"""Well, we are in the one of the Nine Hells. It isn't supposed to be pleasant.""","""뭐, 우린 구층 지옥 중 하나에 있잖아. 쾌적할 리가 없지.""",xp2_hen_nat,,,,,0,0
+102500,PC,Player Character,"""But the cold makes your lips such a pretty shade of blue.""","""하지만 추위가 네 입술을 아주 예쁜 푸른색으로 만들어주네.""",xp2_hen_nat,,nw_d2_male,,,0,0
+102501,PC,Player Character,"""Quit stalling. Out with it.""","""꾸물대지 말고. 말해.""",xp2_hen_nat,,,,,0,0
+102502,PC,Player Character,"""What is it, Nathyrra?""","""뭔데, 나시라?""",xp2_hen_nat,,,,,0,0
+102503,PC,Player Character,"""I didn't have a choice. That's the only reason I helped you.""","""선택의 여지가 없었어. 그게 널 도운 유일한 이유야.""",xp2_hen_nat,inathyrrarom__,,,,0,0
+102504,PC,Player Character,"""I want to stop Mephistopheles, yes.""","""메피스토펠레스를 막고 싶어, 그래.""",xp2_hen_nat,,,,,0,0
+102505,PC,Player Character,"""All I care about is getting out of the Nine Hells.""","""내가 신경 쓰는 건 구층 지옥에서 빠져나가는 것뿐이야.""",xp2_hen_nat,,,,,0,0
+102506,PC,Player Character,"""Nope.""","""아니.""",xp2_hen_nat,,,,,0,0
+102507,PC,Player Character,"""I would have helped even if it wasn't for the geas on me.""","""나한테 걸린 기아스가 아니었어도 도왔을 거야.""",xp2_hen_nat,,,,,0,0
+102508,PC,Player Character,"""It didn't help much. Now we've got Mephistopheles to deal with.""","""별로 도움이 안 됐어. 이제 메피스토펠레스를 상대해야 하잖아.""",xp2_hen_nat,,,,,0,0
+102509,PC,Player Character,"""Really? I just consider you a glorified servant.""","""정말? 난 그냥 너를 화려한 하인 정도로 생각해.""",xp2_hen_nat,inathyrrarom__,,,,0,0
+102510,PC,Player Character,"""I consider you a friend, too.""","""나도 너를 친구라고 생각해.""",xp2_hen_nat,,,,,0,0
+102511,PC,Player Character,"""We could be more than just friends, Nathyrra.""","""우린 그냥 친구 이상이 될 수 있어, 나시라.""",xp2_hen_nat,,nw_d2_male,,,0,0
+102512,PC,Player Character,"""You think you could do better, drow? You're no prize, yourself!""","""네가 더 잘할 수 있다고 생각해, 드로우? 너도 별거 아니잖아!""",xp2_hen_nat,,,,,0,0
+102513,PC,Player Character,"""Never mind. Let's just move on.""","""신경 쓰지 마. 그냥 계속 가자.""",xp2_hen_nat,,,,,0,0
+102514,PC,Player Character,"""It's okay, Nathyrra. I understand.""","""괜찮아, 나시라. 이해해.""",xp2_hen_nat,,,,,0,0
+102515,PC,Player Character,"""Really? I don't feel anything for you.""","""정말? 난 너한테 아무 감정도 없는데.""",xp2_hen_nat,x2_inathrom__,,,,0,0
+102516,PC,Player Character,"""Aw, I didn't know you cared...""","""아, 신경 쓰는 줄 몰랐네...""",xp2_hen_nat,,,,,0,0
+102517,PC,Player Character,"""I'm sorry. Go on.""","""미안해. 계속해.""",xp2_hen_nat,,,,,0,0
+102518,PC,Player Character,"""Let me save you some time: I *don't* have any feelings for you, Nathyrra.""","""시간 좀 아껴줄게: 난 너한테 아무 감정도 *없어*, 나시라.""",xp2_hen_nat,x2_inathrom__,,,,0,0
+102519,PC,Player Character,"""Someone you love?""","""사랑하는 사람?""",xp2_hen_nat,,,,,0,0
+102520,PC,Player Character,"""And I love you.""","""나도 사랑해.""",xp2_hen_nat,x2_inathrom++,,,,0,0
+102521,PC,Player Character,"""We still have to find a way out of here, Nathyrra.""","""우린 여전히 여기서 빠져나갈 방법을 찾아야 해, 나시라.""",xp2_hen_nat,,,,,0,0
+102522,PC,Player Character,"""So what happens now?""","""그래서 이제 어떻게 되는 거야?""",xp2_hen_nat,,,,,0,0
+102523,PC,Player Character,"""What about your faith? What about Eilistraee?""","""네 신앙은? 에일리스트레이는?""",xp2_hen_nat,,,,,0,0
+102524,PC,Player Character,"""I consider you a friend, Nathyrra. Nothing more. I'm sorry.""","""난 너를 친구라고 생각해, 나시라. 그 이상은 아니야. 미안해.""",xp2_hen_nat,,,,,0,0
+102525,PC,Player Character,"""I do, Nathyrra. I love you.""","""그래, 나시라. 사랑해.""",xp2_hen_nat,,,,,0,0
+102526,PC,Player Character,"""Humor is part of my romantic charm.""","""유머는 내 로맨틱한 매력의 일부야.""",xp2_hen_nat,,,,,0,0
+102527,PC,Player Character,"""I feel close to you too, Nathyrra.""","""나도 너와 가깝게 느껴, 나시라.""",xp2_hen_nat,,,,,0,0
+102528,PC,Player Character,"""Right now all I think about is killing the Valsharess!""","""지금 내가 생각하는 건 발샤레스를 죽이는 것뿐이야!""",xp2_hen_nat,,,,,0,0
+102529,PC,Player Character,"""Who cares about the surface?! We've got more important things to worry about!""","""지상이 뭐가 중요해?! 걱정할 더 중요한 게 있잖아!""",xp2_hen_nat,,,,,0,0
+102530,PC,Player Character,"""It's pretty boring compared to the Underdark.""","""언더다크에 비하면 꽤 지루해.""",xp2_hen_nat,,,,,0,0
+102531,PC,Player Character,"""Well, they aren't too fond of drow up there.""","""뭐, 거기선 드로우를 별로 좋아하지 않아.""",xp2_hen_nat,,,,,0,0
+102532,PC,Player Character,"""You'll see it for yourself, someday.""","""언젠가 직접 보게 될 거야.""",xp2_hen_nat,,,,,0,0
+102533,PC,Player Character,"""The surface is beautiful.""","""지상은 아름다워.""",xp2_hen_nat,,,,,0,0
+102534,PC,Player Character,"""Yes, I suppose I will.""","""그래, 그럴 것 같아.""",xp2_hen_nat,,,,,0,0
+102535,PC,Player Character,Why? Do you want to run away together?,왜? 같이 도망가고 싶어?,xp2_hen_nat,,nw_d2_male,,,0,0
+102536,PC,Player Character,"""I'm going to slaughter the Valsharess like a hog!""","""발샤레스를 돼지처럼 도살할 거야!""",xp2_hen_nat,,,,,0,0
+102537,PC,Player Character,"""Killed the Seer? What do you mean?""","""선견자를 죽였다고? 무슨 뜻이야?""",xp2_hen_nat,,,,,0,0
+102538,PC,Player Character,"""I don't have time for this story!""","""이 이야기 들을 시간 없어!""",xp2_hen_nat,,,,,0,0
+102539,PC,Player Character,"""I haven't heard this tale yet.""","""아직 이 이야기 못 들었어.""",xp2_hen_nat,,,,,0,0
+102540,PC,Player Character,"""Why were you sent to kill the Seer?""","""왜 선견자를 죽이러 보내졌어?""",xp2_hen_nat,,,,,0,0
+102541,PC,Player Character,"""Then what happened?""","""그래서 무슨 일이 일어났어?""",xp2_hen_nat,,,,,0,0
+102542,PC,Player Character,"""So she sent you to end the problem.""","""그래서 그녀가 문제를 끝내라고 널 보낸 거네.""",xp2_hen_nat,,,,,0,0
+102543,PC,Player Character,"""Maybe studying Eilistraee's teachings made you more open to the idea of a conversion.""","""어쩌면 에일리스트레이의 가르침을 공부한 게 개종에 더 열린 마음을 갖게 한 거야.""",xp2_hen_nat,,,,,0,0
+102544,PC,Player Character,"""But you couldn't kill her?""","""하지만 죽일 수 없었어?""",xp2_hen_nat,,,,,0,0
+102545,PC,Player Character,"""We should probably continue on with our quest.""","""아마 우리 임무를 계속해야 할 것 같아.""",xp2_hen_nat,,,,,0,0
+102546,PC,Player Character,"""You're weak! I would have killed her!""","""약하네! 난 죽였을 거야!""",xp2_hen_nat,,,,,0,0
+102547,PC,Player Character,"""And you've served the Seer ever since?""","""그리고 그때부터 선견자를 섬긴 거야?""",xp2_hen_nat,,,,,0,0
+102548,PC,Player Character,"""She had seen you in a vision, hadn't she?""","""그녀가 환영으로 널 봤지, 그렇지?""",xp2_hen_nat,,,,,0,0
+102549,PC,Player Character,"""Obviously you don't feel that way now.""","""분명히 지금은 그렇게 느끼지 않겠지.""",xp2_hen_nat,,,,,0,0
+102550,PC,Player Character,"""Are you saying you doubted the Seer's visions?""","""선견자의 환영을 의심했다는 거야?""",xp2_hen_nat,,,,,0,0
+102551,PC,Player Character,"""The Seer believes in me because of her visions.""","""선견자는 환영 때문에 날 믿어.""",xp2_hen_nat,,,,,0,0
+102552,PC,Player Character,"""I don't like you spying on me, drow!""","""날 염탐하는 거 싫어, 드로우!""",xp2_hen_nat,,,,,0,0
+102553,PC,Player Character,"""Really? Who?""","""정말? 누구?""",xp2_hen_nat,,,,,0,0
+102554,PC,Player Character,"""Why do I remind you of <him/her>?""","""왜 내가 <him/her>를 떠올리게 해?""",xp2_hen_nat,,,,,0,0
+102555,PC,Player Character,"""I remind you of a slave?""","""내가 노예를 떠올리게 해?""",xp2_hen_nat,,,,,0,0
+102556,PC,Player Character,"""I really don't care about this.""","""난 정말 이거에 관심 없어.""",xp2_hen_nat,,,,,0,0
+102557,PC,Player Character,"""Seelamin is in your past. <He/She>'s not here now.""","""실라민은 네 과거야. <He/She>는 지금 여기 없어.""",xp2_hen_nat,,,,,0,0
+102558,PC,Player Character,"""What happened to <him/her>?""","""<him/her>에게 무슨 일이 일어났어?""",xp2_hen_nat,,,,,0,0
+102559,PC,Player Character,"""Wait a minute - the Valsharess destroyed your House?""","""잠깐만 - 발샤레스가 네 가문을 멸망시켰어?""",xp2_hen_nat,,,,,0,0
+102560,PC,Player Character,"""Let me guess... you helped the Valsharess destroy House Kant'tar.""","""추측하자면... 넌 발샤레스가 칸타르 가문을 멸망시키는 걸 도왔지.""",xp2_hen_nat,,,,,0,0
+102561,PC,Player Character,"""Did you have anything to do with House Kant'tar's fall?""","""칸타르 가문의 몰락에 관련이 있었어?""",xp2_hen_nat,,,,,0,0
+102562,PC,Player Character,"""If she destroyed your House, why did you join the Red Sisters?""","""그녀가 네 가문을 멸망시켰는데, 왜 붉은 자매단에 합류했어?""",xp2_hen_nat,,,,,0,0
+102563,PC,Player Character,"""Just make a long story short and get to the point!""","""긴 이야기 짧게 하고 요점만 말해!""",xp2_hen_nat,,,,,0,0
+102564,PC,Player Character,"""Is the story over yet? Sorry, I dozed off there for a bit.""","""이야기 끝났어? 미안, 잠깐 졸았어.""",xp2_hen_nat,,,,,0,0
+102565,PC,Player Character,"""We should probably get back to our mission.""","""아마 우리 임무로 돌아가야 할 것 같아.""",xp2_hen_nat,,,,,0,0
+102566,PC,Player Character,"""How could you go work for the woman who killed your family?""","""어떻게 네 가족을 죽인 여자를 위해 일할 수 있었어?""",xp2_hen_nat,,,,,0,0
+102567,PC,Player Character,"""Weren't you worried it was a trap?""","""함정일까봐 걱정되지 않았어?""",xp2_hen_nat,,,,,0,0
+102568,PC,Player Character,"""Weren't you worried it was a trap?""","""함정일까봐 걱정되지 않았어?""",xp2_hen_nat,,,,,0,0
+102569,PC,Player Character,"""How could you go work for the woman who killed your family?""","""어떻게 네 가족을 죽인 여자를 위해 일할 수 있었어?""",xp2_hen_nat,,,,,0,0
+102570,PC,Player Character,"""I don't get it. How did you end up joining the Red Sisters?""","""이해가 안 가. 어떻게 붉은 자매단에 합류하게 됐어?""",xp2_hen_nat,,,,,0,0
+102571,PC,Player Character,"""So you went into hiding?""","""그래서 숨었어?""",xp2_hen_nat,,,,,0,0
+102572,PC,Player Character,"""So you've been watching me? See anything you like?""","""그래서 날 지켜봤어? 마음에 드는 거 있었어?""",xp2_hen_nat,,nw_d2_male,,,0,0
+102573,PC,Player Character,"""Is there some point to this?""","""이게 무슨 요점이 있어?""",xp2_hen_nat,,,,,0,0
+102574,PC,Player Character,"""I knew you couldn't be trusted!""","""믿을 수 없다는 걸 알았어!""",xp2_hen_nat,,,,,0,0
+102575,PC,Player Character,"""How do I know you're not a spy, pretending to help us?""","""우릴 돕는 척하는 첩자가 아니라는 걸 어떻게 알아?""",xp2_hen_nat,,,,,0,0
+102576,PC,Player Character,"""You turned on the Valsharess. Next you might turn on us.""","""발샤레스를 배신했어. 다음엔 우릴 배신할 수도 있지.""",xp2_hen_nat,,,,,0,0
+102577,PC,Player Character,"""I'm sorry, Nathyrra. I trust you.""","""미안해, 나시라. 널 믿어.""",xp2_hen_nat,,,,,0,0
+102578,PC,Player Character,"""No wonder you know so much about her.""","""네가 그녀에 대해 많이 아는 게 당연하네.""",xp2_hen_nat,,,,,0,0
+102579,PC,Player Character,"""I don't know if I want you traveling with me anymore.""","""더 이상 너랑 같이 여행하고 싶은지 모르겠어.""",xp2_hen_nat,,,,,0,0
+102580,PC,Player Character,"""No, I want you to go.""","""아니, 가길 바라지.""",xp2_hen_nat,,,,,0,0
+102581,PC,Player Character,"""Fine, I'll keep you around. But I'm watching you!""","""좋아, 데리고 있을게. 하지만 지켜볼 거야!""",xp2_hen_nat,,,,,0,0
+102582,PC,Player Character,"""I trust you, Nathyrra.""","""널 믿어, 나시라.""",xp2_hen_nat,,,,,0,0
+102583,PC,Player Character,"""Can you blame them?""","""그들을 탓할 수 있어?""",xp2_hen_nat,,,,,0,0
+102584,PC,Player Character,"""You worked for our enemy?""","""우리 적을 위해 일했어?""",xp2_hen_nat,,,,,0,0
+102585,PC,Player Character,"""I'm glad you're on our side now, Nathyrra.""","""이제 우리 편이어서 다행이야, 나시라.""",xp2_hen_nat,,,,,0,0
+102586,PC,Player Character,"""So you were an assassin. Who cares?""","""암살자였다고. 그게 뭐?""",xp2_hen_nat,,,,,0,0
+102587,PC,Player Character,"""The past is in the past, Nathyrra.""","""과거는 과거야, 나시라.""",xp2_hen_nat,,,,,0,0
+102588,PC,Player Character,"""The Red Sisters?""","""붉은 자매단?""",xp2_hen_nat,,,,,0,0
+102589,PC,Player Character,"""What are you talking about?""","""무슨 얘기야?""",xp2_hen_nat,,,,,0,0
+102590,PC,Player Character,"""Are you going to tell me what the problem is or not?""","""문제가 뭔지 말해줄 거야 말 거야?""",xp2_hen_nat,,,,,0,0
+102591,PC,Player Character,"""This isn't the best time for this, Nathyrra.""","""지금은 이걸 할 때가 아니야, 나시라.""",xp2_hen_nat,,,,,0,0
+102592,PC,Player Character,"""Let's go.""","""가자.""",xp2_hen_nat,,,,,0,0
+102593,PC,Player Character,"<StartAction>[Deekin]</Start> ""Ixthyria the Scalesinger...""","<StartAction>[디킨]</Start> ""비늘소리꾼 익시리아...""",xp2_hen_nat,a_true_deekin,hx_dek_nameonce,,,0,0
+102594,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_nat,,,,,0,0
+102595,PC,Player Character,"""Believe in yourself, Deekin.""","""자신을 믿어, 디킨.""",xp2_hen_nat,h2a_deek_namebel,,,,0,0
+102596,PC,Player Character,"""You're kind, you're talented, you're funny. You don't need me anymore. If I die, you'll be all right.""","""넌 친절하고, 재능 있고, 재미있어. 더 이상 날 필요로 하지 않아. 내가 죽어도, 넌 괜찮을 거야.""",xp2_hen_nat,,,,,0,0
+102597,PC,Player Character,"""Not if I can help it. Come, we have an adventure to finish.""","""내가 도울 수 있다면 그렇지 않아. 와, 끝내야 할 모험이 있어.""",xp2_hen_nat,,,,,0,0
+102598,PC,Player Character,"""Surrender your soul to me, little one!"" ","""네 영혼을 나에게 바쳐라, 꼬마야!""",xp2_hen_nat,,c_evilact,,,0,0
+102599,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",xp2_hen_nat,,,,,0,0
+102600,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",xp2_hen_nat,,,,,0,0
+102601,PC,Player Character,"<StartAction>[Valen]</Start> ""Oeskathine the Demonwrestler...""","<StartAction>[발렌]</Start> ""악마씨름꾼 오에스카틴...""",xp2_hen_nat,a_true_valen,hx_val_nameonce,,,0,0
+102602,PC,Player Character,"""Nothing right now.""","""지금은 아무것도.""",xp2_hen_nat,,,,,0,0
+102603,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",xp2_hen_nat,,c_evilact,,,0,0
+102604,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 너를 묶는다!""",xp2_hen_nat,,c_false,,,0,0
+102605,PC,Player Character,"""I hereby free you from your infernal taint.""","""이로써 너를 지옥의 오염에서 해방한다.""",xp2_hen_nat,h2a_val_namefor,h2a_val_namefor1,,,0,0
+102606,PC,Player Character,"""You're welcome.""","""천만에.""",xp2_hen_nat,,,,,0,0
+102607,PC,Player Character,"""Glad you like it. Now give me your soul.""","""마음에 들어서 다행이야. 이제 네 영혼을 내게 줘.""",xp2_hen_nat,,c_evilact,,,0,0
+102608,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",xp2_hen_nat,,,,,0,0
+102609,PC,Player Character,"""Sorry, my love, but this is it for us.""","""미안해, 내 사랑, 하지만 우리는 여기까지야.""",xp2_hen_nat,,x2_valromancex,,,0,0
+102610,PC,Player Character,"""Yes, I am.""","""그래, 그래.""",xp2_hen_nat,,,,,0,0
+102611,PC,Player Character,"""Good. Now, in repayment, you are to become my lover forever.""","""좋아. 이제, 보답으로, 넌 영원히 내 연인이 되는 거야.""",xp2_hen_nat,,c_false,,,0,0
+102612,PC,Player Character,"""Well... perhaps not.""","""뭐... 아닐 수도.""",xp2_hen_nat,,,,,0,0
+102613,PC,Player Character,"""You heard me.""","""들었잖아.""",xp2_hen_nat,h2a_val_namerom,,,,0,0
+102614,PC,Player Character,"""We're done. For now.""","""끝났어. 일단은.""",xp2_hen_nat,,,,,0,0
+102615,PC,Player Character,"""You don't frighten me. I own you, body and soul.""","""날 겁주지 못해. 널 소유하고 있어, 몸과 영혼을.""",xp2_hen_nat,,,,,0,0
+102616,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화났을 때 정말 섹시해. 키스해줘!""",xp2_hen_nat,,,,,0,0
+102617,PC,Player Character,"""So there's hope for us after all?""","""그러면 우리에게 결국 희망이 있는 거야?""",xp2_hen_nat,,x2_valromancex,,,0,0
+102618,PC,Player Character,"""Does it really feel that different?""","""정말 그렇게 다르게 느껴져?""",xp2_hen_nat,,,,,0,0
+102619,PC,Player Character,"""I'm glad. You certainly earned it.""","""다행이야. 분명히 그럴 자격이 있어.""",xp2_hen_nat,,,,,0,0
+102620,PC,Player Character,"<StartAction>[Aribeth]</Start> ""Va'ardalia the Twinsouled...""","<StartAction>[아리베스]</Start> ""두영혼의 바아달리아...""",xp2_hen_nat,a_true_ari,hx_ari_nameonce,,,0,0
+102621,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_nat,,,,,0,0
+102622,PC,Player Character,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 대해 죄책감을 느끼지 마.""",xp2_hen_nat,,,,,0,0
+102623,PC,Player Character,"""You are right. I will not ask that of you.""","""네 말이 맞아. 그걸 요구하지 않을게.""",xp2_hen_nat,,,,,0,0
+102624,PC,Player Character,"""Don't you see? This is your atonement... It's all right...""","""모르겠어? 이게 네 속죄야... 괜찮아...""",xp2_hen_nat,,,,,0,0
+102625,PC,Player Character,"""I just don't want to see you suffer so.""","""그저 네가 그렇게 고통받는 걸 보고 싶지 않을 뿐이야.""",xp2_hen_nat,,,,,0,0
+102626,PC,Player Character,"""Yes, Aribeth. Dead and cold...""","""그래, 아리베스. 죽고 차갑게...""",xp2_hen_nat,,,,,0,0
+102627,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",xp2_hen_nat,,c_evilact,,,0,0
+102628,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",xp2_hen_nat,,,,,0,0
+102629,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",xp2_hen_nat,,,,,0,0
+102630,PC,Player Character,"""I command you to pursue evil, not good.""","""선이 아닌 악을 추구하라고 명령한다.""",xp2_hen_nat,hx_ari_change_e,c_evilact,,,0,0
+102631,PC,Player Character,"""I command you to love me...""","""날 사랑하라고 명령한다...""",xp2_hen_nat,h2a_ari_nameroma,c_false,,,0,0
+102632,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_nat,,,,,0,0
+102633,PC,Player Character,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 대해 죄책감을 느끼지 마.""",xp2_hen_nat,,,,,0,0
+102634,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",xp2_hen_nat,,c_evilact,,,0,0
+102635,PC,Player Character,"""If it means losing you, then no...""","""널 잃는다는 뜻이라면, 안 돼...""",xp2_hen_nat,,,,,0,0
+102636,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",xp2_hen_nat,,,,,0,0
+102637,PC,Player Character,"""I command you to pursue good, not evil.""","""악이 아닌 선을 추구하라고 명령한다.""",xp2_hen_nat,hx_ari_change_g,,,,0,0
+102638,PC,Player Character,"""I command you to love me!""","""날 사랑하라고 명령한다!""",xp2_hen_nat,h2a_ari_nameroma,c_false,,,0,0
+102639,PC,Player Character,"""That is all, Aribeth.""","""그게 다야, 아리베스.""",xp2_hen_nat,,,,,0,0
+102640,PC,Player Character,"<StartAction>[Nathyrra]</Start> ""Qeyifalia the Skyseeker...""","<StartAction>[나시라]</Start> ""하늘탐구자 퀴팔리아...""",xp2_hen_nat,a_true_nath,hx_nat_nameonce,,,0,0
+102641,PC,Player Character,"""Nothing right now.""","""지금은 아무것도.""",xp2_hen_nat,,,,,0,0
+102642,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",xp2_hen_nat,,c_evilact,,,0,0
+102643,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",xp2_hen_nat,,,,,0,0
+102644,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",xp2_hen_nat,,,,,0,0
+102645,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 너를 묶는다!""",xp2_hen_nat,h2a_nath_namerom,c_false,,,0,0
+102646,PC,Player Character,"""Your anger is nothing to me. I own you, body and soul.""","""네 분노는 내게 아무것도 아니야. 널 소유하고 있어, 몸과 영혼을.""",xp2_hen_nat,,,,,0,0
+102647,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화났을 때 정말 섹시해. 키스해줘!""",xp2_hen_nat,,,,,0,0
+102648,PC,Player Character,"""Forgive yourself for your past crimes.""","""과거의 죄를 용서해.""",xp2_hen_nat,h2a_nath_namefor,,,,0,0
+102649,PC,Player Character,"""I won't do anything to harm you, Nathyrra.""","""너에게 해가 되는 건 하지 않을게, 나시라.""",xp2_hen_nat,,,,,0,0
+102650,PC,Player Character,"""I'm really getting sick of this! Get over it already!""","""정말 지겹다! 이제 극복해!""",xp2_hen_nat,,,,,0,0
+102651,PC,Player Character,"""Enough with the chit-chat! I just want to kill Mephistopheles!""","""잡담은 그만! 난 그냥 메피스토펠레스를 죽이고 싶어!""",xp2_hen_nat,,,,,0,0
+102652,PC,Player Character,"""I can't help you with this, Nathyrra.""","""이건 도와줄 수 없어, 나시라.""",xp2_hen_nat,,,,,0,0
+102653,PC,Player Character,"""You have to learn to forgive yourself, Nathyrra.""","""자신을 용서하는 법을 배워야 해, 나시라.""",xp2_hen_nat,,,,,0,0
+102654,PC,Player Character,"""In time you'll learn to forgive yourself, Nathyrra.""","""시간이 지나면 자신을 용서하는 법을 배울 거야, 나시라.""",xp2_hen_nat,,,,,0,0
+102655,PC,Player Character,"""I'll help you through this, Nathyrra. I love you, remember?""","""이걸 헤쳐나갈 수 있게 도와줄게, 나시라. 사랑한다는 거 기억해?""",xp2_hen_nat,hx_nat_romce_adv,hx_nath_romance1,,,0,0
+102656,PC,Player Character,"""Why must you two always fight? Fine, I love neither of you!""","""왜 너희 둘은 항상 싸워야 해? 좋아, 둘 다 사랑하지 않아!""",xp2_hen_nat,hx_ari_nath_0,,,,0,0
+102657,PC,Player Character,"""Forgive me... I'm sorry, Nathyrra, but it's Aribeth I love.""","""용서해... 미안해, 나시라, 하지만 내가 사랑하는 건 아리베스야.""",xp2_hen_nat,hx_ari2_nath0,,,,0,0
+102658,PC,Player Character,"""Leave us be, Aribeth. I loved Nathyrra first and best.""","""우릴 내버려둬, 아리베스. 나시라를 먼저 그리고 가장 사랑했어.""",xp2_hen_nat,hx_ari0_nath2,,,,0,0
+102659,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I have love enough for the both of you.""","<StartCheck>[설득]</Start> ""둘 다를 위한 사랑이 충분히 있어.""",xp2_hen_nat,,,,,0,0
+102660,PC,Player Character,"""Why must you two always fight? Fine, I love neither of you!""","""왜 너희 둘은 항상 싸워야 해? 좋아, 둘 다 사랑하지 않아!""",xp2_hen_nat,hx_ari_nath_0,,,,0,0
+102661,PC,Player Character,"""Forgive me... I'm sorry, Nathyrra, but it's Aribeth I love.""","""용서해... 미안해, 나시라, 하지만 내가 사랑하는 건 아리베스야.""",xp2_hen_nat,hx_ari2_nath0,,,,0,0
+102662,PC,Player Character,"""Leave us be, Aribeth. I loved Nathyrra first and best.""","""우릴 내버려둬, 아리베스. 나시라를 먼저 그리고 가장 사랑했어.""",xp2_hen_nat,hx_ari0_nath2,,,,0,0
+102663,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I have love enough for the both of you.""","<StartCheck>[설득]</Start> ""둘 다를 위한 사랑이 충분히 있어.""",xp2_hen_nat,,,,,0,0
+102664,PC,Player Character,"""You're welcome, Deekin.""","""천만에, 디킨.""",xp2_hen_nat,,,,,0,0
+102665,PC,Player Character,"""The Reaper has always referred to it as his realm, nothing else.""","""사신은 항상 그것을 자신의 영역이라고 부를 뿐이야.""",xp2_hen_nat,,,,,0,0
+102666,PC,Player Character,"""He's an ally. That's all you need to know.""","""동맹이야. 그것만 알면 돼.""",xp2_hen_nat,,,,,0,0
+102667,PC,Player Character,"""I don't know what he is. A demon, perhaps? He just is.""","""그가 뭔지 모르겠어. 악마? 그냥 그래.""",xp2_hen_nat,,,,,0,0
+102668,PC,Player Character,"""Enough questions. The Reaper is an ally. That's all you need to know.""","""질문은 그만. 사신은 동맹이야. 그것만 알면 돼.""",xp2_hen_nat,,,,,0,0
+102669,PC,Player Character,"""No... not really. He said something about a nexus, but I didn't really get it.""","""아니... 별로. 경계 영역에 대해 뭐라고 했는데, 잘 이해 못 했어.""",xp2_hen_nat,,[지능 낮음],,,0,0
+102670,PC,Player Character,"""This place is a nexus, or so the Reaper says. I'm not sure I understand it all.""","""이곳은 경계 영역이라고, 사신이 그러는데. 전부 이해하는지 확신이 안 서.""",xp2_hen_nat,,[지능 중간],,,0,0
+102671,PC,Player Character,"""The Reaper says his realm is a nexus. It connects to many places, but not all.""","""사신은 자신의 영역이 경계 영역이라고 해. 많은 곳과 연결되지만, 전부는 아니야.""",xp2_hen_nat,,[지능 높음],,,0,0
+102672,PC,Player Character,"""Why don't you ask him yourself?""","""직접 물어보지 그래?""",xp2_hen_nat,,,,,0,0
+102673,PC,Player Character,"""Are you done yapping? I'd like to try and find a way out of here.""","""떠들기 끝났어? 여기서 나갈 방법을 찾고 싶은데.""",xp2_hen_nat,,,,,0,0
+102674,PC,Player Character,"""Do you know anything about this place?""","""이곳에 대해 아는 게 있어?""",xp2_hen_nat,,,,,0,0
+102675,PC,Player Character,"""Seems a bit... cold to be one of the Hells, doesn't it?""","""지옥 중 하나치고는 좀... 춥지 않아?""",xp2_hen_nat,,,,,0,0
+102676,PC,Player Character,"""What was your first clue?""","""첫 번째 단서가 뭐였어?""",xp2_hen_nat,,,,,0,0
+102677,PC,Player Character,"""That's very helpful. What would I do if you weren't here to point out the blatantly obvious?""","""정말 도움이 되네. 네가 여기서 뻔한 걸 지적하지 않았다면 어쩔 뻔했어?""",xp2_hen_nat,,,,,0,0
+102678,PC,Player Character,"""Not if we find it first!""","""우리가 먼저 찾으면 안 그래!""",xp2_hen_nat,,,,,0,0
+102679,PC,Player Character,"""If they try anything, I'll slaughter them all!""","""뭔가 시도하면, 전부 도살할 거야!""",xp2_hen_nat,,,,,0,0
+102680,PC,Player Character,"""When I hack my way to the Elder Brain, it'll negotiate with me!""","""엘더 브레인까지 베고 가면, 나랑 협상할 거야!""",xp2_hen_nat,,,,,0,0
+102681,PC,Player Character,"""What could I use to protect my mind?""","""내 정신을 보호하는 데 뭘 쓸 수 있을까?""",xp2_hen_nat,,con_q2dgate_1,,,0,0
+102682,PC,Player Character,"""What about your mind?""","""네 정신은?""",xp2_hen_nat,,,,,0,0
+102683,PC,Player Character,"""Then we shouldn't have any problems.""","""그럼 문제없겠네.""",xp2_hen_nat,,,,,0,0
+102684,PC,Player Character,"""I can't imagine you as anybody's thrall.""","""누구의 노예로도 상상이 안 가.""",xp2_hen_nat,,nw_d2_male,,,0,0
+102685,PC,Player Character,"""You as my servant? Does this mean you'll cook and clean for me?""","""넌 내 하인? 그럼 날 위해 요리하고 청소해준다는 거야?""",xp2_hen_nat,,,,,0,0
+102686,PC,Player Character,"""This isn't drow society. Around here, the man is in charge!""","""여긴 드로우 사회가 아니야. 여기선 남자가 담당이야!""",xp2_hen_nat,,,,,0,0
+102687,PC,Player Character,"""No wonder you're so bossy.""","""독단적인 게 당연하네.""",xp2_hen_nat,,,,,0,0
+102688,PC,Player Character,"""Enough of this. Let's just move on.""","""이제 됐어. 그냥 계속 가자.""",xp2_hen_nat,,,,,0,0
+102689,PC,Player Character,"""When I want your advice, I'll ask for it.""","""조언이 필요하면, 요청할게.""",xp2_hen_nat,,,,,0,0
+102690,PC,Player Character,"""You're sure cute when you're angry.""","""화났을 때 정말 귀엽네.""",xp2_hen_nat,,,,,0,0
+102691,PC,Player Character,"""Wow - you're not only bossy, you're defensive, too.""","""와 - 독단적일 뿐만 아니라, 방어적이기까지 하네.""",xp2_hen_nat,,,,,0,0
+102692,PC,Player Character,"""I've noticed that about you.""","""그거 눈치챘어.""",xp2_hen_nat,,,,,0,0
+102693,PC,Player Character,"""It wasn't a compliment. Believe me. Let's just move on.""","""칭찬이 아니었어. 믿어. 그냥 계속 가자.""",xp2_hen_nat,,,,,0,0
+102694,PC,Player Character,"""No, you're just bossy.""","""아니, 그냥 독단적인 거야.""",xp2_hen_nat,,,,,0,0
+102695,PC,Player Character,"""It *was* a compliment. I like bossy, domineering women.""","""칭찬이 *맞아*. 독단적이고 지배적인 여성이 좋아.""",xp2_hen_nat,,,,,0,0
+102696,PC,Player Character,"""This helmet will protect me from them.""","""이 투구가 그들로부터 날 보호할 거야.""",xp2_hen_nat,,con_q2dgate_2,,,0,0
+102697,PC,Player Character,"""I'm not afraid of a few zombies!""","""좀비 몇 마리 두렵지 않아!""",xp2_hen_nat,,,,,0,0
+102698,PC,Player Character,"""You think the undead are inside the temple?""","""사원 안에 언데드가 있다고 생각해?""",xp2_hen_nat,,,,,0,0
+102699,PC,Player Character,"""I'm getting sick of your whining, drow!""","""징징대는 거 지겹다, 드로우!""",xp2_hen_nat,,,,,0,0
+102700,PC,Player Character,"""Whatever we find, I'll destroy it!""","""뭘 찾든, 파괴할 거야!""",xp2_hen_nat,,,,,0,0
+102701,PC,Player Character,"""Don't worry, I'll be careful in there.""","""걱정 마, 거기서 조심할게.""",xp2_hen_nat,,,,,0,0
+102702,PC,Player Character,"""Do you think it's some kind of trap?""","""일종의 함정이라고 생각해?""",xp2_hen_nat,,,,,0,0
+102703,PC,Player Character,"""They're probably slaves, then.""","""그럼 아마 노예들이겠지.""",xp2_hen_nat,,,,,0,0
+102704,PC,Player Character,"""We won't get to the bottom of this by standing here.""","""여기 서 있어서는 이걸 끝까지 알아낼 수 없어.""",xp2_hen_nat,,,,,0,0
+102705,PC,Player Character,"""We'll have to investigate to find out.""","""알아내려면 조사해야 해.""",xp2_hen_nat,,,,,0,0
+102706,PC,Player Character,"""Maybe they aren't what they appear.""","""어쩌면 보이는 것과 다를 수도 있어.""",xp2_hen_nat,,,,,0,0
+102707,PC,Player Character,"""So what? Who cares?""","""그래서? 누가 신경 써?""",xp2_hen_nat,,,,,0,0
+102708,PC,Player Character,"""What good are you if you can't cast any spells?""","""주문 하나 시전 못 하면 무슨 소용이야?""",xp2_hen_nat,,,,,0,0
+102709,PC,Player Character,"""Good. Now we don't have to worry about an enemy's spell killing us.""","""좋아. 이제 적의 주문이 우릴 죽일까 걱정 안 해도 돼.""",xp2_hen_nat,,,,,0,0
+102710,PC,Player Character,"""A dead magic zone? How is that possible?""","""마법 무효 지역? 어떻게 가능해?""",xp2_hen_nat,,,,,0,0
+102711,PC,Player Character,"""Maybe we'll learn more about them if we look around.""","""둘러보면 그들에 대해 더 알 수 있을 거야.""",xp2_hen_nat,,,,,0,0
+102712,PC,Player Character,"""Maybe some long forgotten race left them here.""","""어쩌면 오래 잊혀진 종족이 여기 남겨둔 걸 수도.""",xp2_hen_nat,,,,,0,0
+102713,PC,Player Character,"""Come on. The sooner we find this Eye Tyrant, the sooner this is over.""","""가자. 이 눈알 폭군을 빨리 찾을수록, 빨리 끝나.""",xp2_hen_nat,,,,,0,0
+102714,PC,Player Character,"""What's the matter? Are you scared?""","""무슨 일이야? 무서워?""",xp2_hen_nat,,,,,0,0
+102715,PC,Player Character,"""There might be slaves in here, too.""","""여기에도 노예들이 있을 수 있어.""",xp2_hen_nat,,,,,0,0
+102716,PC,Player Character,"""Don't worry, I'll keep my eyes peeled.""","""걱정 마, 눈 부릅뜨고 있을게.""",xp2_hen_nat,,,,,0,0
+102717,PC,Player Character,"""It's just a joke. Relax.""","""그냥 농담이야. 진정해.""",xp2_hen_nat,,,,,0,0
+102718,PC,Player Character,"""I'm sorry... I didn't mean anything by it.""","""미안해... 그런 뜻이 아니었어.""",xp2_hen_nat,,,,,0,0
+102719,PC,Player Character,"""I don't need you mothering me, drow!""","""엄마 노릇하지 마, 드로우!""",xp2_hen_nat,,,,,0,0
+102720,PC,Player Character,"""I haven't run into anything I can't handle, yet.""","""아직 감당 못 할 것과 마주친 적 없어.""",xp2_hen_nat,,,,,0,0
+102721,PC,Player Character,"""Nobody said this was going to be easy.""","""이게 쉬울 거라고 아무도 말 안 했어.""",xp2_hen_nat,,,,,0,0
+102722,PC,Player Character,"""I'd like to go into the dungeon now. That is, unless you have some more useless advice you want to pass on.""","""이제 던전에 들어가고 싶어. 쓸모없는 조언 더 하고 싶은 게 아니라면 말이야.""",xp2_hen_nat,,,,,0,0
+102723,PC,Player Character,"""I'll be careful.""","""조심할게.""",xp2_hen_nat,,,,,0,0
+102724,PC,Player Character,"""You think I'm special? I think you're special, too.""","""내가 특별하다고 생각해? 나도 네가 특별하다고 생각해.""",xp2_hen_nat,,nw_d2_male,,,0,0
+102725,PC,Player Character,"""I'll be careful.""","""조심할게.""",xp2_hen_nat,,,,,0,0
+102726,PC,Player Character,"""So how are we supposed to cross it?""","""그래서 어떻게 건너야 해?""",xp2_hen_nat,,,,,0,0
+102727,PC,Player Character,"""You think this river will stop the army of the Valsharess?""","""이 강이 발샤레스의 군대를 막을 거라고 생각해?""",xp2_hen_nat,,,,,0,0
+102728,PC,Player Character,"""I can look after myself, drow.""","""스스로 돌볼 수 있어, 드로우.""",xp2_hen_nat,,,,,0,0
+102729,PC,Player Character,"""It doesn't seem that bad too me.""","""내겐 그렇게 나빠 보이지 않는데.""",xp2_hen_nat,,,,,0,0
+102730,PC,Player Character,"""It's unsettling, but I'll be okay.""","""불안하긴 하지만, 괜찮을 거야.""",xp2_hen_nat,,,,,0,0
+102731,PC,Player Character,"""I still don't trust you, drow. If you betray me...""","""아직도 널 믿지 않아, 드로우. 날 배신하면...""",xp2_hen_nat,,,,,0,0
+102732,PC,Player Character,"""I'll keep that in mind.""","""명심할게.""",xp2_hen_nat,,,,,0,0
+102733,PC,Player Character,"""Thank you, Nathyrra. It's good to know I have your support.""","""고마워, 나시라. 네 지지가 있다는 걸 알게 돼서 좋아.""",xp2_hen_nat,,,,,0,0
+102734,PC,Player Character,"""You're worried about me?""","""날 걱정해?""",xp2_hen_nat,,,,,0,0
+102735,PC,Player Character,"""Is this some kind of drow come on?""","""이게 드로우식 작업 멘트야?""",xp2_hen_nat,,nw_d2_male,,,0,0
+102736,PC,Player Character,"""I don't want to discuss this now.""","""지금 이걸 논의하고 싶지 않아.""",xp2_hen_nat,,,,,0,0
+102737,PC,Player Character,"""You came with me. Expect to die.""","""나랑 왔어. 죽을 각오해.""",xp2_hen_nat,,,,,0,0
+102738,PC,Player Character,"""Yes. Let's go.""","""그래. 가자.""",xp2_hen_nat,,,,,0,0
+102739,PC,Player Character,"""No, not right now.""","""아니, 지금은 아니야.""",xp2_hen_nat,x0_d1_hen_fired,,,,0,0
+102740,PC,Player Character,"""You keep dying. That's a problem.""","""계속 죽어. 그게 문제야.""",xp2_hen_nat,,,,,0,0
+102741,PC,Player Character,"""Your skills are stealth and secrecy. Try to stay out of combat.""","""네 기술은 은밀함과 비밀이야. 전투에서 벗어나 있도록 해.""",xp2_hen_nat,,,,,0,0
+102742,PC,Player Character,"""Don't worry. I won't abandon you, Nathyrra.""","""걱정 마. 널 버리지 않을게, 나시라.""",xp2_hen_nat,,,,,0,0
+102743,PC,Player Character,"""Nathyrra doesn't answer to you, Aribeth!""","""나시라는 네게 대답하지 않아, 아리베스!""",xp2_hen_nat,,,,,0,0
+102744,PC,Player Character,"""She has a point, Nathyrra.""","""일리가 있어, 나시라.""",xp2_hen_nat,,,,,0,0
+102745,PC,Player Character,"""Stop it, both of you.""","""그만해, 둘 다.""",xp2_hen_nat,,,,,0,0

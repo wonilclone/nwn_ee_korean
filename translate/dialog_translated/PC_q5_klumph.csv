@@ -1,0 +1,45 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+73203,PC,Player Character,"I am not a prisoner, I was just exploring.","""난 포로가 아니야, 그냥 탐험 중이었어.""",q5_klumph,,,,,0,0
+73204,PC,Player Character,What is a Master Jumper? ,"""뜀박장이 뭐야?""",q5_klumph,,,,,0,0
+73205,PC,Player Character,"Tell me how to get in, or else you die!","""들어가는 방법을 말해, 아니면 죽어!""",q5_klumph,,,,,0,0
+73206,PC,Player Character,Why shouldn't I just use the rod?,"""왜 그냥 단장을 사용하면 안 돼?""",q5_klumph,,,,,0,0
+73207,PC,Player Character,"But they know the Big Master chose you, why do you have to have the rod?","""하지만 큰 주인님이 널 선택한 걸 알잖아, 왜 단장이 있어야 해?""",q5_klumph,,,,,0,0
+73208,PC,Player Character,That's just stupid. They should just follow you.,"""그건 바보 같아. 그냥 널 따르면 되잖아.""",q5_klumph,,,,,0,0
+73209,PC,Player Character,I already met your chief.,"""이미 네 족장을 만났어.""",q5_klumph,,con_q5klumph_3,,,0,0
+73210,PC,Player Character,I think I will just kill you.,"""그냥 널 죽일 것 같아.""",q5_klumph,,,,,0,0
+73211,PC,Player Character,I think I will just kill him.,"""그냥 그를 죽일 것 같아.""",q5_klumph,,,,,0,0
+73212,PC,Player Character,I will try.,"""해볼게.""",q5_klumph,,,,,0,0
+73213,PC,Player Character,I already killed your chief.,"""이미 네 족장을 죽였어.""",q5_klumph,,con_q5klumph_2,,,0,0
+73214,PC,Player Character,I will go find the rod.,"""가서 단장을 찾을게.""",q5_klumph,,,,,0,0
+73215,PC,Player Character,I think I will just kill you instead.,"""대신 그냥 널 죽일 것 같아.""",q5_klumph,,,,,0,0
+73216,PC,Player Character,I don't need anybody.,"""아무도 필요 없어.""",q5_klumph,,,,,0,0
+73217,PC,Player Character,Why shouldn't I just use the rod?,"""왜 그냥 단장을 사용하면 안 돼?""",q5_klumph,,,,,0,0
+73218,PC,Player Character,"But they know the Big Master chose you, why do you have to have the rod?","""하지만 큰 주인님이 널 선택한 걸 알잖아, 왜 단장이 있어야 해?""",q5_klumph,,,,,0,0
+73219,PC,Player Character,That's just stupid. They should just follow you.,"""그건 바보 같아. 그냥 널 따르면 되잖아.""",q5_klumph,,,,,0,0
+73220,PC,Player Character,Is this the rod? Here you go.,"""이게 그 단장이야? 여기 있어.""",q5_klumph,,con_q5klumph_1,,,0,0
+73221,PC,Player Character,Where is this chief?,"""이 족장은 어디 있어?""",q5_klumph,,,,,0,0
+73222,PC,Player Character,I will do what needs to be done.,"""해야 할 일을 할게.""",q5_klumph,,,,,0,0
+73223,PC,Player Character,That sounds like a good idea.,"""좋은 생각 같아.""",q5_klumph,,,,,0,0
+73224,PC,Player Character,I do not plan to kill him.,"""그를 죽일 생각은 없어.""",q5_klumph,,,,,0,0
+73225,PC,Player Character,"To block an entire passage, the rock must be huge! What is the secret to lifting it? ","""통로 전체를 막으려면 바위가 엄청나게 커야 해! 들어올리는 비결이 뭐야?""",q5_klumph,,,,,0,0
+73226,PC,Player Character,How could you lift the rock?,"""어떻게 바위를 들어올릴 수 있어?""",q5_klumph,,,,,0,0
+73227,PC,Player Character,I will be going then.,"""그럼 갈게.""",q5_klumph,,,,,0,0
+73228,PC,Player Character,I need to get in to see your master. ,"""네 주인을 만나려면 들어가야 해.""",q5_klumph,,,,,0,0
+73229,PC,Player Character,How do you let visitors in? ,"""방문자는 어떻게 들여보내?""",q5_klumph,,,,,0,0
+73230,PC,Player Character,Why are you a prisoner?,"""왜 네가 포로야?""",q5_klumph,,,,,0,0
+73231,PC,Player Character,"Is your 'big' Master the dragon, Tymofarrar?","""네 '큰' 주인님이 용, 티모파라르야?""",q5_klumph,,,,,0,0
+73232,PC,Player Character,"No, I just thought I would see what he looked like.","""아니, 그냥 어떻게 생겼는지 보려고 했어.""",q5_klumph,,,,,0,0
+73233,PC,Player Character,I am planning to kill him.,"""그를 죽일 계획이야.""",q5_klumph,,,,,0,0
+73234,PC,Player Character,"Yes, I need to speak to him.","""응, 그와 얘기해야 해.""",q5_klumph,,,,,0,0
+73235,PC,Player Character,Why wouldn't you let him see this 'big' Master? ,"""왜 그를 이 '큰' 주인님한테 보내주지 않아?""",q5_klumph,,,,,0,0
+73236,PC,Player Character,I don't understand. ,"""이해가 안 돼.""",q5_klumph,,,,,0,0
+73237,PC,Player Character,Not yet.,"""아직.""",q5_klumph,,,,,0,0
+73238,PC,Player Character,I have some other questions for you.,"""다른 질문이 좀 있어.""",q5_klumph,,,,,0,0
+73239,PC,Player Character,That's all. Goodbye. ,"""그게 다야. 안녕.""",q5_klumph,,,,,0,0
+73240,PC,Player Character,What is your name?,"""이름이 뭐야?""",q5_klumph,,,,,0,0
+73241,PC,Player Character,"<StartCheck>[Persuade - lie]</Start> What a coincidence, my name is Klumph too!","<StartCheck>[설득 - 거짓말]</Start> ""우연의 일치네, 내 이름도 클룸프야!""",q5_klumph,,,,,0,0
+73242,PC,Player Character,I'm not telling you that.,"""그건 안 말해줄 거야.""",q5_klumph,,,,,0,0
+73243,PC,Player Character,My name is <FullName>. ,"""내 이름은 <FullName>이야.""",q5_klumph,,,,,0,0
+73244,PC,Player Character,I am <FirstName>.,"""난 <FirstName>이야.""",q5_klumph,,,,,0,0
+73245,PC,Player Character,Not yet.,"""아직.""",q5_klumph,,,,,0,0
+73246,PC,Player Character,Yes!,"""응!""",q5_klumph,,,,,0,0

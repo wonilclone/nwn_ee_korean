@@ -1,0 +1,56 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17794,PC,Player Character,I would speak with you... and perhaps more.,당신과 이야기하고 싶군요... 어쩌면 그 이상도.,m1q1a06tani,,[매력 중간/지능 중간],,,0,0
+17795,PC,Player Character,Me talk with yous? Maybe more?,너랑 얘기할래? 어쩌면 더?,m1q1a06tani,,[매력 중간/지능 낮음],,,0,0
+17796,PC,Player Character,Goodbye.,안녕히 계세요.,m1q1a06tani,,,,,0,0
+17797,PC,Player Character,<StartAction>Bemoan about how no one really respects you.</Start>,<StartAction>아무도 자신을 존중하지 않는다며 하소연합니다.</Start>,m1q1a06tani,,,,,0,0
+17798,PC,Player Character,"Let's talk about you, and what you like.",당신 이야기부터 하죠. 무엇을 좋아합니까?,m1q1a06tani,,[지능 보통],,,0,0
+17799,PC,Player Character,"You listen well? Does talking make your ""clients"" more relaxed?",말을 잘 들어주나요? 손님들이랑 대화하면 더 편안해지던가요?,m1q1a06tani,,[지능 보통],,,0,0
+17800,PC,Player Character,Perhaps I could ask some serious questions?,진지한 질문을 몇 가지 해도 될까요?,m1q1a06tani,,[지능 보통],,,0,0
+17801,PC,Player Character,"We talk about you, handsome kinda guy.","너 얘기하자, 잘생긴 남자.",m1q1a06tani,,[지능 낮음],,,0,0
+17802,PC,Player Character,You listen? Talking make customers feel more happy?,너 들어줘? 말하면 손님들 기분 좋아져?,m1q1a06tani,,[지능 낮음],,,0,0
+17803,PC,Player Character,"Maybe me ask serious stuffs, okay?",중요한 거 좀 물어봐도 돼?,m1q1a06tani,,[지능 낮음],,,0,0
+17804,PC,Player Character,Where are you from? What is your story?,고향이 어디죠? 당신 이야기를 들려줘요.,m1q1a06tani,,[지능 보통],,,0,0
+17805,PC,Player Character,Where you from? What your story?,어디서 왔어? 무슨 사연이야?,m1q1a06tani,,[지능 낮음],,,0,0
+17806,PC,Player Character,<StartCheck>[Insight]</Start> I'd find it degrading to disguise my true self like that.,"<StartCheck>[통찰]</Start> 진짜 자신을 숨기는 건, 내겐 모욕처럼 느껴져.",m1q1a06tani,m1s2c01luceslg03,nw_d2_wis_intn,,,0,0
+17807,PC,Player Character,I want to talk about something else.,다른 이야기로 넘어가죠.,m1q1a06tani,,[지능 보통],,,0,0
+17808,PC,Player Character,Me talk about different things.,딴 얘기 하자.,m1q1a06tani,,[지능 낮음],,,0,0
+17809,PC,Player Character,<StartAction>Lament the inherent loneliness of the adventurer lifestyle.</Start>,<StartAction>모험가 삶의 고독을 한탄합니다.</Start>,m1q1a06tani,,,,,0,0
+17810,PC,Player Character,Nothing bothers me. I am strong.,난 아무렇지도 않습니다. 강하니까요.,m1q1a06tani,,[지능 보통],,,0,0
+17811,PC,Player Character,Me strong. Nothing hurt me.,나 쎄. 아무것도 못 아프게 해.,m1q1a06tani,,[지능 낮음],,,0,0
+17812,PC,Player Character,"Whatever, plaything. I'm not here to talk.","됐어, 놀이상대야. 수다 떨러 온 게 아니야.",m1q1a06tani,,[지능 보통],,,0,0
+17813,PC,Player Character,"Shaddap. Me not here for words, lap-lad.","닥쳐. 난 말하러 온 거 아냐, 접대 총각.",m1q1a06tani,,[지능 낮음],,,0,0
+17814,PC,Player Character,"There's more than talking, right?",말만 하러 온 건 아니겠죠?,m1q1a06tani,,[매력 낮음/지능 중간],,,0,0
+17815,PC,Player Character,"We not just talk, right?","우리 말만 안 하지, 맞지?",m1q1a06tani,,[매력 낮음/지능 낮음],,,0,0
+17816,PC,Player Character,Here is a Pass Coin. My name is <FirstName>.,여기 통행 주화에요. 제 이름은 <FirstName>입니다.,m1q1a06tani,,m1s2c01luceclg04,,,0,0
+17817,PC,Player Character,Here my Pass Coin. Me called <FirstName>.,여기 내 통행 주화. 난 <FirstName>야.,m1q1a06tani,,m1s2c01luceclg05,,,0,0
+17818,PC,Player Character,I don't have a Pass Coin.,통행 주화는 없어요.,m1q1a06tani,,m1s2c01luceclg06,,,0,0
+17819,PC,Player Character,Me not gots Pass Coin.,통행 주화 없어.,m1q1a06tani,,m1s2c01luceclg07,,,0,0
+17820,PC,Player Character,I should be going.,이만 가봐야겠네요.,m1q1a06tani,,[지능 보통],,,0,0
+17821,PC,Player Character,"Me should go, maybe.",나 가야 할 듯.,m1q1a06tani,,[지능 낮음],,,0,0
+17822,PC,Player Character,"I'll stay a while, I think.",조금 더 있어도 되겠죠.,m1q1a06tani,,[지능 보통],,,0,0
+17823,PC,Player Character,Me not so dumb. Me stay.,나 멍청이 아냐. 있을래.,m1q1a06tani,,[지능 낮음],,,0,0
+17824,PC,Player Character,I must leave. Farewell.,이만 떠나야겠어요. 안녕히.,m1q1a06tani,,[지능 보통],,,0,0
+17825,PC,Player Character,Me gots to go. Bye.,이제 가야 해. 안녕.,m1q1a06tani,,[지능 낮음],,,0,0
+17826,PC,Player Character,Perhaps we could... retire to your bedchambers?,혹시... 당신의 침실로 함께 갈까요?,m1q1a06tani,,m1s2c01luceclg10,,,0,0
+17827,PC,Player Character,"Maybe we go sleep now? Nicely, I mean.","이제 같이 잘래? 좋게, 그러니까.",m1q1a06tani,,m1s2c01luceclg11,,,0,0
+17828,PC,Player Character,Forget the talk. Let's wrassle!,"수다는 됐고, 한 판 즐기자!",m1q1a06tani,,m1s2c01luceclg08,,,0,0
+17829,PC,Player Character,Let's make two-butt beast!,둘이 한 짐승이 되어보자!,m1q1a06tani,,m1s2c01luceclg09,,,0,0
+17830,PC,Player Character,What do you know of the plague?,역병에 대해 아는 게 있나요?,m1q1a06tani,,[지능 보통],,,0,0
+17831,PC,Player Character,Know anything about plague?,역병 아는 거 있어?,m1q1a06tani,,[지능 낮음],,,0,0
+17832,PC,Player Character,"Shouldn't you be ashamed, working here?",여기서 일하는 게 부끄럽지 않습니까?,m1q1a06tani,m1s2c01luceslg03,[지능 보통],,,0,0
+17833,PC,Player Character,You maybe ashamed of working here?,"여기서 일하는 거, 좀 창피하지?",m1q1a06tani,m1s2c01luceslg03,[지능 낮음],,,0,0
+17834,PC,Player Character,"<StartCheck>[Insight]</Start> That's very selfless, giving of yourself like that.",<StartCheck>[통찰]</Start> 자신을 내어주다니... 꽤 이타적이군요.,m1q1a06tani,,nw_d2_wis_intn,,,0,0
+17835,PC,Player Character,What *I* need? Right. You do this to help others. Ha!,내가 '필요'해서? 그래요. 남을 돕겠다고 이 일을 한다고요. 하!,m1q1a06tani,,[지능 보통],,,0,0
+17836,PC,Player Character,Me not that stupid! You not here to help!,나 그렇게 바보 아냐! 너 남 도우려고 있는 거 아냐!,m1q1a06tani,,[지능 낮음],,,0,0
+17837,PC,Player Character,Don't make me go upside your head! I've always wanted to say that.,머리통 한 대 치게 만들지 마! ...이 말 꼭 한번 해보고 싶었거든.,m1q1a06tani,,[지능 보통],,,0,0
+17838,PC,Player Character,<StartAction>Confide that you might have a big role in curing the plague.</Start>,<StartAction>역병 치료에 큰 역할을 맡을지도 모른다고 속내를 털어놓습니다.</Start>,m1q1a06tani,,,,,0,0
+17839,PC,Player Character,I enjoyed our time together. I hope you did as well.,함께한 시간이 좋았어요. 당신도 그랬길 바랍니다.,m1q1a06tani,,[지능 보통],,,0,0
+17840,PC,Player Character,Me like you. Hope you like me a little.,나 너 좋아. 너도 나 좀 좋아했음 좋겠어.,m1q1a06tani,,[지능 낮음],,,0,0
+17841,PC,Player Character,"Just another victim, boy.","넌 그저 또 하나의 희생자일 뿐이다, 소년.",m1q1a06tani,,[지능 보통],,,0,0
+17842,PC,Player Character,You one of many. Hehe. Me done with you.,너는 많은 것 중 하나. 헤헤. 너랑은 끝.,m1q1a06tani,,[지능 낮음],,,0,0
+17843,PC,Player Character,Just lay with me. That is enough.,그냥 함께 누워 있어요. 그걸로 충분해요.,m1q1a06tani,,[지능 보통],,,0,0
+17844,PC,Player Character,Maybe we just lay still. That good.,그냥 같이 누워만 있자. 그거 좋다.,m1q1a06tani,,[지능 낮음],,,0,0
+17845,PC,Player Character,Gentle comforts are welcome. I'm not that tired.,부드러운 위로면 충분해요. 아직 그렇게 피곤하진 않아요.,m1q1a06tani,,[지능 보통],,,0,0
+17846,PC,Player Character,"Gentle night, maybe. Me not that tired.",살살하면 돼. 나 그리 안 피곤해.,m1q1a06tani,,[지능 낮음],,,0,0
+17847,PC,Player Character,I'm looking for an animal. Think you can manage?,난 짐승 같은 상대를 찾고 있어요. 가능하겠습니까?,m1q1a06tani,,[지능 보통],,,0,0
+17848,PC,Player Character,Make me tired. Real tired. Animal man.,나 지치게 해. 아주 지치게. 짐승 남자.,m1q1a06tani,,[지능 낮음],,,0,0

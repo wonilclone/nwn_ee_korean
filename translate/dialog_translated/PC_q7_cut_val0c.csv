@@ -1,0 +1,35 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+107234,PC,Player Character,"""Someone who I'd enjoy killing?""","죽이면 재밌겠다고?",q7_cut_val0c,,,,,0,0
+107235,PC,Player Character,"""Enough with this. Why are you here?""","됐어. 왜 여기 있는 거야?",q7_cut_val0c,,,,,0,0
+107236,PC,Player Character,"""My name is <FirstName>.""","내 이름은 <FirstName>야.",q7_cut_val0c,,,,,0,0
+107237,PC,Player Character,"""I might consider such an alliance...""","그런 동맹을 고려해 볼 수도 있겠군...",q7_cut_val0c,,,,,0,0
+107238,PC,Player Character,"""I would rather send you to the Nine Hells!""","차라리 널 구층 지옥으로 보내버리겠어!",q7_cut_val0c,,,,,0,0
+107239,PC,Player Character,"""I am not interested.""","관심 없어.",q7_cut_val0c,,,,,0,0
+107240,PC,Player Character,"""Perhaps you are right...""","네 말이 맞을지도...",q7_cut_val0c,,,,,0,0
+107241,PC,Player Character,"""Forget it! I would rather die than aid you.""","됐어! 널 돕느니 차라리 죽겠어.",q7_cut_val0c,,,,,0,0
+107242,PC,Player Character,"""Betray the rebels? I cannot do that.""","반란군을 배신하라고? 그럴 수 없어.",q7_cut_val0c,,,,,0,0
+107243,PC,Player Character,"""I need some kind of immediate reward if we're going to be allies.""","동맹이 되려면 즉각적인 보상이 필요해.",q7_cut_val0c,,q7_sc_reward01,,,0,0
+107244,PC,Player Character,"""No... I've decided I'd really rather just kill you.""","아니... 그냥 널 죽이는 게 낫겠다고 결정했어.",q7_cut_val0c,,,,,0,0
+107245,PC,Player Character,"""Very well. You have yourself an ally.""","좋아. 동맹을 얻었군.",q7_cut_val0c,,q7_sc_geas02,,,0,0
+107246,PC,Player Character,"""Not good enough, sorry.""","충분하지 않아, 미안.",q7_cut_val0c,q7_at_reward02,,,,0,0
+107247,PC,Player Character,"""I would prefer something else.""","다른 게 낫겠어.",q7_cut_val0c,,,,,0,0
+107248,PC,Player Character,"""Maybe the robe was good enough, after all.""","아무래도 로브면 충분할 것 같군.",q7_cut_val0c,,,,,0,0
+107249,PC,Player Character,"""I would gladly do this, but I am under a geas to fight you.""","기꺼이 그러겠지만, 너와 싸우라는 기아스에 묶여 있어.",q7_cut_val0c,,q7_sc_geas01,,,0,0
+107250,PC,Player Character,"""You can remove the geas? Then what are we waiting for?!""","기아스를 풀 수 있다고? 그럼 뭘 기다려?!",q7_cut_val0c,,,,,0,0
+107251,PC,Player Character,"""You think you are attractive to me? Don't be foolish.""","내가 너한테 끌린다고 생각해? 어리석은 소리 마.",q7_cut_val0c,,nw_d2_male,,,0,0
+107252,PC,Player Character,"""Sorry, but you just aren't my type.""","미안하지만, 넌 내 취향이 아니야.",q7_cut_val0c,,nw_d2_female,,,0,0
+107253,PC,Player Character,"""I seem to be doing pretty well so far.""","지금까지 꽤 잘하고 있는 것 같은데.",q7_cut_val0c,,,,,0,0
+107254,PC,Player Character,"""Betray my friends? Betray the Seer and the rebels?""","친구들을 배신하라고? 선견자와 반란군을?",q7_cut_val0c,,,,,0,0
+107255,PC,Player Character,"""I could never work with such as you!""","너 같은 자와는 절대 함께할 수 없어!",q7_cut_val0c,,,,,0,0
+107256,PC,Player Character,"""You and I working together? Are you joking?""","너랑 내가 함께? 농담이야?",q7_cut_val0c,,,,,0,0
+107257,PC,Player Character,"""I'd rather you were at *my* side.""","차라리 네가 *내* 편에 서는 게 낫겠어.",q7_cut_val0c,,,,,0,0
+107258,PC,Player Character,"""Call me whatever you wish. I don't care.""","뭐라고 부르든 상관없어.",q7_cut_val0c,,,,,0,0
+107259,PC,Player Character,"""What does that mean, exactly?""","그게 정확히 무슨 뜻이야?",q7_cut_val0c,,,,,0,0
+107260,PC,Player Character,"""Give me your name first. I understand 'Valsharess' is only a title.""","먼저 네 이름을 알려줘. '발샤레스'는 칭호일 뿐이라고 알고 있어.",q7_cut_val0c,,[지능 높음],,,0,0
+107261,PC,Player Character,"""Good. Now tell me why you are here.""","좋아. 이제 왜 여기 있는지 말해.",q7_cut_val0c,,,,,0,0
+107262,PC,Player Character,"""And you can call me your enemy.""","그리고 날 네 적이라고 불러도 돼.",q7_cut_val0c,,,,,0,0
+107263,PC,Player Character,"""And I am <FullName>.""","그리고 나는 <FullName>야.",q7_cut_val0c,,,,,0,0
+107264,PC,Player Character,"""One fine looking drow, if I might say so.""","내가 말해도 된다면, 꽤 멋진 드로우인데.",q7_cut_val0c,,nw_d2_male,,,0,0
+107265,PC,Player Character,"""It... it isn't Lolth herself, is it?!""","그... 설마 롤쓰 본인은 아니겠지?!",q7_cut_val0c,,,,,0,0
+107266,PC,Player Character,"""You must be the Valsharess.""","넌 발샤레스겠군.",q7_cut_val0c,,,,,0,0
+107267,PC,Player Character,"""What is this? How did you get in here!?""","이게 뭐야? 어떻게 여기 들어온 거야!?",q7_cut_val0c,,,,,0,0

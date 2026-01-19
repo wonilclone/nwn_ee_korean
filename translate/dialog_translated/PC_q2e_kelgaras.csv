@@ -1,0 +1,83 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+81377,PC,Player Character,"I am here only to destroy you, evil creature!","널 파괴하러 왔을 뿐이야, 사악한 놈!",q2e_kelgaras,,,,,0,0
+81378,PC,Player Character,You try to kill me and then wish to speak?,날 죽이려 하고서 대화하자고?,q2e_kelgaras,,,,,0,0
+81379,PC,Player Character,Why should I want to speak with you?,왜 너랑 얘기해야 하지?,q2e_kelgaras,,,,,0,0
+81380,PC,Player Character,I will speak with you.,대화하지.,q2e_kelgaras,,,,,0,0
+81381,PC,Player Character,I do not wish to share my name with you.,이름을 알려주고 싶지 않아.,q2e_kelgaras,,,,,0,0
+81382,PC,Player Character,I said no.,싫다고 했어.,q2e_kelgaras,,,,,0,0
+81383,PC,Player Character,<StartCheck>[Persuade - lie]</Start> My name is Katriana.,<StartCheck>[설득 - 거짓말]</Start> 내 이름은 카트리아나야.,q2e_kelgaras,q2e_at_kelgaras3,nw_d2_female,,,0,0
+81384,PC,Player Character,<StartCheck>[Persuade - lie]</Start> My name is Torias.,<StartCheck>[설득 - 거짓말]</Start> 내 이름은 토리아스야.,q2e_kelgaras,q2e_at_kelgaras2,nw_d2_male,,,0,0
+81385,PC,Player Character,I am <FullName>.,나는 <FullName>이야.,q2e_kelgaras,q2e_at_kelgaras1,,,,0,0
+81386,PC,Player Character,I have no questions for you.,질문은 없어.,q2e_kelgaras,,,,,0,0
+81387,PC,Player Character,Are you interested in making a deal?,거래에 관심 있어?,q2e_kelgaras,,,,,0,0
+81388,PC,Player Character,<StartAction>[Pull out tower crystal.]</Start> Do you know what this crystal is?,<StartAction>[탑 수정을 꺼낸다.]</Start> 이 수정이 뭔지 알아?,q2e_kelgaras,,,,,0,0
+81389,PC,Player Character,Why do you need to hold it?,왜 들고 있어야 해?,q2e_kelgaras,,,,,0,0
+81390,PC,Player Character,I don't think so. It is important.,안 될 것 같아. 중요한 거거든.,q2e_kelgaras,,,,,0,0
+81391,PC,Player Character,Definitely not.,절대 안 돼.,q2e_kelgaras,,,,,0,0
+81392,PC,Player Character,I'm not sure...,잘 모르겠어...,q2e_kelgaras,,,,,0,0
+81393,PC,Player Character,<StartHighlight>[Put the crystal away.]</Start> No.,<StartHighlight>[수정을 치운다.]</Start> 싫어.,q2e_kelgaras,,,,,0,0
+81394,PC,Player Character,"<StartAction>[Quickly put it away.]</Start> Uh, never mind. I have a different question.","<StartAction>[재빨리 치운다.]</Start> 어, 됐어. 다른 질문이 있어.",q2e_kelgaras,,,,,0,0
+81395,PC,Player Character,<StartAction>[Show him the crystal anyways.]</Start>,<StartAction>[어쨌든 수정을 보여준다.]</Start>,q2e_kelgaras,,,,,0,0
+81396,PC,Player Character,Why do you hate the Bedine so much?,왜 베다인을 그렇게 미워해?,q2e_kelgaras,,,,,0,0
+81397,PC,Player Character,I do not care for such things.,그런 건 관심 없어.,q2e_kelgaras,,,,,0,0
+81398,PC,Player Character,Someday I will forge a kingdom.,언젠가 왕국을 세울 거야.,q2e_kelgaras,,,,,0,0
+81399,PC,Player Character,"They shall build monuments to me, someday.","언젠가 날 위한 기념비를 세울 거야.",q2e_kelgaras,,,,,0,0
+81400,PC,Player Character,I will have riches beyond belief.,믿을 수 없는 부를 갖게 될 거야.,q2e_kelgaras,,,,,0,0
+81401,PC,Player Character,My fame shall live on. ,내 명성은 영원히 남을 거야.,q2e_kelgaras,,,,,0,0
+81402,PC,Player Character,Tell me about the Netherese.,네더릴에 대해 말해줘.,q2e_kelgaras,,,,,0,0
+81403,PC,Player Character,I would love such power.,그런 힘을 갖고 싶어.,q2e_kelgaras,,,,,0,0
+81404,PC,Player Character,Not so powerful that they survived though.,그래도 살아남을 만큼 강하진 않았잖아.,q2e_kelgaras,,,,,0,0
+81405,PC,Player Character,So why did they fail?,그래서 왜 실패한 거야?,q2e_kelgaras,,,,,0,0
+81406,PC,Player Character,"There are kings and tyrants, but I serve none of them.","왕도 있고 폭군도 있지만, 난 아무도 섬기지 않아.",q2e_kelgaras,,,,,0,0
+81407,PC,Player Character,I serve my god.,내 신을 섬겨.,q2e_kelgaras,,,,,0,0
+81408,PC,Player Character,I serve my people.,내 백성을 섬겨.,q2e_kelgaras,,,,,0,0
+81409,PC,Player Character,I serve no one.,아무도 섬기지 않아.,q2e_kelgaras,,,,,0,0
+81410,PC,Player Character,Tell me your version of the story.,네 버전의 이야기를 들려줘.,q2e_kelgaras,,,,,0,0
+81411,PC,Player Character,You mean the rod I stole?,내가 훔친 지팡이 말이야?,q2e_kelgaras,,,,,0,0
+81412,PC,Player Character,"Well, that was pretty stupid.","뭐, 꽤 멍청한 짓이었네.",q2e_kelgaras,,,,,0,0
+81413,PC,Player Character,Why would you bind it to a rod?,왜 지팡이에 묶은 거야?,q2e_kelgaras,,,,,0,0
+81414,PC,Player Character,This is pretty much exactly what the Bedine told me.,베다인이 말해준 것과 거의 똑같네.,q2e_kelgaras,,,,,0,0
+81415,PC,Player Character,And now I have the rod they placed your soul in.,그리고 이제 네 영혼을 넣은 지팡이가 내 손에 있어.,q2e_kelgaras,,[지능 낮음],,,0,0
+81416,PC,Player Character,What happened to your people?,네 백성들은 어떻게 됐어?,q2e_kelgaras,,,,,0,0
+81417,PC,Player Character,How did you get free?,어떻게 풀려난 거야?,q2e_kelgaras,,,,,0,0
+81418,PC,Player Character,"Enough, I want to ask you about something else.","됐어, 다른 걸 물어보고 싶어.",q2e_kelgaras,,,,,0,0
+81419,PC,Player Character,Hurry up and finish your story.,빨리 이야기를 끝내.,q2e_kelgaras,,,,,0,0
+81420,PC,Player Character,What did you find?,뭘 발견한 거야?,q2e_kelgaras,,,,,0,0
+81421,PC,Player Character,"No, but my mother was.","아니, 하지만 어머니는 그랬어.",q2e_kelgaras,,,,,0,0
+81422,PC,Player Character,I never knew my father.,아버지는 몰라.,q2e_kelgaras,,,,,0,0
+81423,PC,Player Character,"No, he was a noble.","아니, 귀족이었어.",q2e_kelgaras,,,,,0,0
+81424,PC,Player Character,"Yes, he was.","응, 그랬어.",q2e_kelgaras,,,,,0,0
+81425,PC,Player Character,"No, he was a commoner.","아니, 평민이었어.",q2e_kelgaras,,,,,0,0
+81426,PC,Player Character,"No, I am an orphan.","아니, 나는 고아야.",q2e_kelgaras,,,,,0,0
+81427,PC,Player Character,You know nothing about me.,넌 나에 대해 아무것도 몰라.,q2e_kelgaras,,,,,0,0
+81428,PC,Player Character,You are wrong.,틀렸어.,q2e_kelgaras,,,,,0,0
+81429,PC,Player Character,You are close.,거의 맞았어.,q2e_kelgaras,,,,,0,0
+81430,PC,Player Character,I have no more questions.,더 이상 질문 없어.,q2e_kelgaras,,,,,0,0
+81431,PC,Player Character,Is there no other way?,다른 방법은 없어?,q2e_kelgaras,,,,,0,0
+81432,PC,Player Character,No. I will not betray them.,안 돼. 그들을 배신하지 않겠어.,q2e_kelgaras,,,,,0,0
+81433,PC,Player Character,"Yes, if it is worth my while.","그래, 가치가 있다면.",q2e_kelgaras,,,,,0,0
+81434,PC,Player Character,They are not my friends. I merely sought water from them.,그들은 내 친구가 아니야. 그냥 물을 구하러 갔을 뿐이야.,q2e_kelgaras,,,,,0,0
+81435,PC,Player Character,"I like it, so far.","지금까지는 마음에 들어.",q2e_kelgaras,,,,,0,0
+81436,PC,Player Character,What do I get for doing this?,이걸 하면 뭘 얻어?,q2e_kelgaras,,,,,0,0
+81437,PC,Player Character,What happens then?,그다음엔 어떻게 돼?,q2e_kelgaras,,,,,0,0
+81438,PC,Player Character,I changed my mind. I think I will destroy you instead.,마음이 바뀌었어. 대신 널 파괴하겠어.,q2e_kelgaras,,,,,0,0
+81439,PC,Player Character,Give me the dagger.,단검을 줘.,q2e_kelgaras,,,,,0,0
+81440,PC,Player Character,Very well.,좋아.,q2e_kelgaras,,,,,0,0
+81441,PC,Player Character,I want to ask something else.,다른 걸 물어보고 싶어.,q2e_kelgaras,,,,,0,0
+81442,PC,Player Character,Finish telling me your story.,이야기를 끝내줘.,q2e_kelgaras,,,,,0,0
+81443,PC,Player Character,What has bolstered your powers? ,무엇이 네 힘을 키워줬어?,q2e_kelgaras,,,,,0,0
+81444,PC,Player Character,I do not wish to answer that.,대답하고 싶지 않아.,q2e_kelgaras,,,,,0,0
+81445,PC,Player Character,"No, I used him for my own purposes and left when he had nothing more to give.","아니, 내 목적을 위해 이용하고 더 이상 줄 게 없으면 떠났어.",q2e_kelgaras,,,,,0,0
+81446,PC,Player Character,"He was a good teacher, but I had no feelings for him.","좋은 스승이었지만, 정은 없었어.",q2e_kelgaras,,,,,0,0
+81447,PC,Player Character,There was no mentor in my life.,내 인생에 스승은 없었어.,q2e_kelgaras,,,,,0,0
+81448,PC,Player Character,Yes. He was a good teacher.,응. 좋은 스승이었어.,q2e_kelgaras,,,,,0,0
+81449,PC,Player Character,"Yes, there is truth in what you say.","응, 네 말에 진실이 있어.",q2e_kelgaras,,,,,0,0
+81450,PC,Player Character,You have your opinions; I have mine.,"넌 네 의견이 있고, 난 내 의견이 있어.",q2e_kelgaras,,,,,0,0
+81451,PC,Player Character,Perhaps you are right.,어쩌면 네가 맞을지도.,q2e_kelgaras,,,,,0,0
+81452,PC,Player Character,You are disgusting.,넌 역겹군.,q2e_kelgaras,,,,,0,0
+81453,PC,Player Character,The Bedine said the creature was combating your evil.,베다인은 그 생명체가 네 악을 막고 있다고 했어.,q2e_kelgaras,,,,,0,0
+81454,PC,Player Character,Why should I believe this phaerimm was evil?,왜 이 페어림이 악하다고 믿어야 해?,q2e_kelgaras,,,,,0,0
+81455,PC,Player Character,What fools.,바보들 같으니.,q2e_kelgaras,,,,,0,0
+81456,PC,Player Character,Somewhat ironic I suppose.,좀 아이러니하네.,q2e_kelgaras,,,,,0,0
+81457,PC,Player Character,I don't find that funny.,웃기지 않아.,q2e_kelgaras,,,,,0,0
+81458,PC,Player Character,You spoke of research; I thought you were trying to take over the world.,"연구에 대해 말했는데, 세계를 정복하려 한 줄 알았어.",q2e_kelgaras,,,,,0,0

@@ -1,0 +1,84 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+16617,PC,Player Character,Hello Oleff. I am <FullName>. Will you answer some questions?,"안녕하세요, 올레프. 저는 <FullName>입니다. 몇 가지 질문에 답해 주시겠습니까?",m1q1a01olef,,[매력 중간/지능 중간],,,0,0
+16618,PC,Player Character,My name is <FirstName>. I have some questions for you.,제 이름은 <FirstName>입니다. 몇 가지 질문이 있습니다.,m1q1a01olef,,[매력 낮음/지능 중간],,,0,0
+16619,PC,Player Character,I'm <FirstName>. Enough chatter. I have questions for you.,난 <FirstName> 입니다. 잡담은 그만하고. 질문이 있습니다.,m1q1a01olef,,[지능 보통],,,0,0
+16620,PC,Player Character,Me <FullName>. Maybe me ask some questions?,나 <FullName>. 질문 좀 해도 돼?,m1q1a01olef,,[지능 낮음],,,0,0
+16621,PC,Player Character,"Me <FirstName>. Stop yappin' and answer questions, okay?","나 <FirstName>. 수다 그만하고 질문에 답해, 알겠지?",m1q1a01olef,,[지능 낮음],,,0,0
+16622,PC,Player Character,Farewell for now.,그럼 이만.,m1q1a01olef,,[지능 보통],,,0,0
+16623,PC,Player Character,Bye bye then.,그럼 잘 있어.,m1q1a01olef,,[지능 낮음],,,0,0
+16624,PC,Player Character,What is your position here?,여기서 당신의 직책은 무엇입니까?,m1q1a01olef,,[지능 보통],,,0,0
+16625,PC,Player Character,What your job here?,여기서 뭐 하는 사람이야?,m1q1a01olef,,[지능 낮음],,,0,0
+16626,PC,Player Character,What are the tenets of the Tyrran faith?,티르 신앙의 교리는 뭐죠?,m1q1a01olef,,[지능 보통],,,0,0
+16627,PC,Player Character,What stuff do Tyrrans believe?,티르 신도들은 뭐 믿어?,m1q1a01olef,,[지능 낮음],,,0,0
+16628,PC,Player Character,<StartCheck>[Insight]</Start> That might sound harsh to some people.,<StartCheck>[통찰]</Start> 어떤 이들에겐 가혹하게 들릴지도 모르겠군요.,m1q1a01olef,,nw_d2_wis_intn,,,0,0
+16629,PC,Player Character,Me needs temple stuff. What you gots?,사원 물건 필요해. 뭐 있어?,m1q1a01olef,,[지능 낮음],,,0,0
+16630,PC,Player Character,I require temple services. What can you offer?,사원에서 제공하는 서비스가 필요합니다. 무엇을 이용할 수 있죠?,m1q1a01olef,,[지능 보통],,,0,0
+16631,PC,Player Character,<StartCheck>[Persuade]</Start> Maybe me can still help?,<StartCheck>[설득]</Start> 아직 나도 도울 수 있지 않을까?,m1q1a01olef,,[지능 낮음],,,0,0
+16632,PC,Player Character,<StartCheck>[Persuade]</Start> I might still be able to help.,<StartCheck>[설득]</Start> 혹시 도움이 될 수 있을지도 모릅니다.,m1q1a01olef,,[지능 보통],,,0,0
+16633,PC,Player Character,The plague undoubtedly complicated things.,역병 때문에 일이 틀어진 건 분명하군요.,m1q1a01olef,,[지능 보통],,,0,0
+16634,PC,Player Character,Plague probably loused things up good.,역병이 다 망쳐 놨겠지.,m1q1a01olef,,[지능 낮음],,,0,0
+16635,PC,Player Character,Your efforts were likely wasted when the plague hit.,역병이 덮치며 당신들의 노력이 물거품이 되었겠군요.,m1q1a01olef,,[지능 보통],,,0,0
+16636,PC,Player Character,All you did probably useless when plague happen.,역병 나고 나선 네가 한 거 다 소용없었겠지.,m1q1a01olef,,[지능 낮음],,,0,0
+16637,PC,Player Character,"A waste of time, even before the plague hit.",역병이 오기 전부터 애초에 시간 낭비였던 거죠.,m1q1a01olef,,[지능 보통],,,0,0
+16638,PC,Player Character,"Bah! Diggin' is stupid, even before plague hit.",쳇! 파헤치는 건 애초에 바보짓이야.,m1q1a01olef,,[지능 낮음],,,0,0
+16639,PC,Player Character [M1Q1A01],I will help you find these tombs.,이 무덤들을 찾는 걸 도울게요.,m1q1a01olef,,m1q1a01olefclgl1,[M1Q1A01],,0,0
+16640,PC,Player Character [M1Q1A01],Me help find tombs and dead guys.,나 무덤이랑 죽은 사람들 찾는 거 도와줄게.,m1q1a01olef,,m1q1a01olefclgl2,[M1Q1A01],,0,0
+16641,PC,Player Character [M1Q1A01],I have no interest in helping.,돕는 건 관심 없어.,m1q1a01olef,,m1q1a01olefclgl1,[M1Q1A01],,0,0
+16642,PC,Player Character [M1Q1A01],Me no want to bother with this.,나 이거 귀찮아서 관심 없어.,m1q1a01olef,,m1q1a01olefclgl2,[M1Q1A01],,0,0
+16643,PC,Player Character,What do you know about Halueth Never?,할루스 네버에 대해 무엇을 아십니까?,m1q1a01olef,,[지능 보통],,,0,0
+16644,PC,Player Character,Who this Halueth Never guy?,그 할루스 네버가 누군데?,m1q1a01olef,,[지능 낮음],,,0,0
+16645,PC,Player Character,No! Me demands more!,안 돼! 더 내놔!,m1q1a01olef,,[지능 낮음],,,0,0
+16646,PC,Player Character [M1Q1A01],Give me a copy of your letter.,편지 사본 하나 줘.,m1q1a01olef,m1q1a01olefend05,[지능 보통],[M1Q1A01],,0,0
+16647,PC,Player Character [M1Q1A01],Me needs copy of yous letter thing.,나 너 편지 사본 필요해.,m1q1a01olef,m1q1a01olefend05,[지능 낮음],[M1Q1A01],,0,0
+16648,PC,Player Character [M1Q1A01],Me not care about this.,나 이거 관심 없어.,m1q1a01olef,,m1q1a01olefclgl4,[M1Q1A01],,0,0
+16649,PC,Player Character,Farewell for now.,그럼 이만.,m1q1a01olef,,[지능 보통],,,0,0
+16650,PC,Player Character,Bye bye,잘 있어.,m1q1a01olef,,[지능 낮음],,,0,0
+16651,PC,Player Character,Go over what is needed again.,필요한 것을 다시 한번 정리해 주십시오.,m1q1a01olef,,[지능 보통],,,0,0
+16652,PC,Player Character,"You repeat stuff about this job, okay?","이 일 다시 설명해 줘, 응?",m1q1a01olef,,[지능 낮음],,,0,0
+16653,PC,Player Character,Farewell for now.,그럼 이만.,m1q1a01olef,,[지능 보통],,,0,0
+16654,PC,Player Character,Bye bye for now.,그럼 잘 있어.,m1q1a01olef,,[지능 낮음],,,0,0
+16655,PC,Player Character,"Yeah yeah, I'll look into it sometime.","알겠어요, 언젠가 살펴보죠.",m1q1a01olef,,[지능 보통],,,0,0
+16656,PC,Player Character,Me get around to it maybe later.,나중에... 아마 해 볼게.,m1q1a01olef,,[지능 낮음],,,0,0
+16657,PC,Player Character,Go over the task with me. Perhaps I will help too.,의뢰 내용을 다시 설명해 주세요. 나도 도울지 모르니까요.,m1q1a01olef,,[지능 보통],,,0,0
+16658,PC,Player Character,You tell me stuff too. Maybe me help.,너도 얘기해 봐. 나도 도울지 몰라.,m1q1a01olef,,[지능 낮음],,,0,0
+16659,PC,Player Character,This doesn't interest me. Farewell.,흥미 없군요. 그럼 이만.,m1q1a01olef,,[지능 보통],,,0,0
+16660,PC,Player Character,Me not care much. Bye.,별로 관심 없어. 잘 있어.,m1q1a01olef,,[지능 낮음],,,0,0
+16661,PC,Player Character [M1Q1A01],Me gots stuff from one of the tomb-things.,나 무덤 중 하나에서 물건 가져왔어.,m1q1a01olef,,m1q1a01olefclg19,[M1Q1A01],,0,0
+16662,PC,Player Character [M1Q1A01],I have an artifact from one of the tombs.,무덤들 중 하나에서 유물을 가져왔어요.,m1q1a01olef,,m1q1a01olefclg18,[M1Q1A01],,0,0
+16663,PC,Player Character [M1Q1A01],I have a copy of your letter and will look into it.,"편지 사본이 있고, 조사해 볼게요.",m1q1a01olef,,m1q1a01olefclgl3,[M1Q1A01],,0,0
+16664,PC,Player Character [M1Q1A01],Me gots a letter from you. Me look into tomb stuff.,나 너한테서 편지 받았어. 나 무덤 조사할게.,m1q1a01olef,,m1q1a01olefclgl4,[M1Q1A01],,0,0
+16665,PC,Player Character [M1Q1A01],I have no interest in this.,관심 없어.,m1q1a01olef,,m1q1a01olefclgl3,[M1Q1A01],,0,0
+16666,PC,Player Character [M1Q1A01],<StartAction>Describe the recovery of the Ancient Chronicles of Never.</Start>,<StartAction>네버 고대 연대기 회수에 대해 설명합니다.</Start>,m1q1a01olef,m1q1a01olefend06,m1q1a01olefclg20,[M1Q1A01],,0,0
+16667,PC,Player Character [M1Q1A01],<StartAction>Describe the recovery of Halueth Never's rusted armor.</Start>,<StartAction>할루스 네버의 녹슨 갑옷 회수에 대해 설명합니다.</Start>,m1q1a01olef,m1q1a01olefend07,m1q1a01olefclg21,[M1Q1A01],,0,0
+16668,PC,Player Character,Nevermind.,아니다.,m1q1a01olef,,,,,0,0
+16669,PC,Player Character [M1Q1A01],<StartAction>Describe the recovery of the ancient Holy Symbol of Tyr.</Start>,<StartAction>티르의 고대 성물 회수에 대해 설명합니다.</Start>,m1q1a01olef,m1q1a01olefend08,m1q1a01olefclg22,[M1Q1A01],,0,0
+16670,PC,Player Character,<StartCheck>[Persuade]</Start> You must agree that I am worth more.,<StartCheck>[설득]</Start> 제 값어치가 더 하다는 데 동의하시겠죠.,m1q1a01olef,,[지능 보통],,,0,0
+16671,PC,Player Character,<StartCheck>[Persuade]</Start> You knows me worth more than that.,<StartCheck>[설득]</Start> 나 그보다 값어치 더 있는 거 알잖아.,m1q1a01olef,,[지능 낮음],,,0,0
+16672,PC,Player Character,"I demand more, lest you need a tomb of your own!","더 내놓으시오, 안 그러면 당신도 묘자리를 쓰게 될 겁니다!",m1q1a01olef,,[지능 보통],,,0,0
+16673,PC,Player Character,"Me wants more, or me put you in tomb like Never!","더 줘, 아니면 너도 네버처럼 무덤에 넣어 버릴 거야!",m1q1a01olef,,[지능 낮음],,,0,0
+16674,PC,Player Character,"Me come back if find more, okay.","더 찾으면 다시 올게, 알았지.",m1q1a01olef,,[지능 낮음],,,0,0
+16675,PC,Player Character,That is sufficient. Thank you.,충분합니다. 고맙습니다.,m1q1a01olef,,[지능 보통],,,0,0
+16676,PC,Player Character,That really good. Thanks for the stuff.,아주 좋아. 물건 고마워.,m1q1a01olef,,[지능 낮음],,,0,0
+16677,PC,Player Character,I shall return if I find more.,더 찾으면 다시 오겠습니다.,m1q1a01olef,,[지능 보통],,,0,0
+16678,PC,Player Character,That will not do! I demand more!,그걸로는 안 됩니다! 더 요구하겠습니다!,m1q1a01olef,,[지능 보통],,,0,0
+16679,PC,Player Character [M1Q1A01],<StartAction>Describe the recovery of Jacob's blessed quill from the evil Gilles.</Start>,<StartAction>사악한 길레스에게서 제이콥의 축복받은 깃펜 회수에 대해 설명합니다.</Start>,m1q1a01olef,m1q1a01olefend11,m1q1a01olefclg29,[M1Q1A01],,0,0
+16680,PC,Player Character [M1Q1A01],<StartAction>Describe the recovery of Jacob's blessed quill from the evil Gilles.</Start>,<StartAction>사악한 길레스에게서 제이콥의 축복받은 깃펜 회수에 대해 설명합니다.</Start>,m1q1a01olef,m1q1a01olefend10,m1q1a01olefclg29,[M1Q1A01],,0,0
+16681,PC,Player Character,Farewell,그럼 이만.,m1q1a01olef,,[지능 보통],,,0,0
+16682,PC,Player Character,Bye bye,잘 있어.,m1q1a01olef,,[지능 낮음],,,0,0
+16683,PC,Player Character [M1Q1A01],I have a letter from Ophala for you.,오팔라가 당신한테 보내는 편지가 있어요.,m1q1a01olef,,m1q1a01olefclg07,[M1Q1A01],,0,0
+16684,PC,Player Character [M1Q1A01],Me gots letter from Ophala for yous.,나 오팔라가 너한테 보내는 편지 있어.,m1q1a01olef,,m1q1a01olefclg08,[M1Q1A01],,0,0
+16685,PC,Player Character [M1Q1A01],Why do you consort with a sinful operation?,왜 죄악스러운 사업에 협력하는 거죠?,m1q1a01olef,,m1q1a01olefclg31,[M1Q1A01],,0,0
+16686,PC,Player Character [M1Q1A01],Me thought you good. Why you work with dirty people?,나 너 선하다고 생각했어. 왜 더러운 사람들이랑 일해?,m1q1a01olef,,m1q1a01olefclg32,[M1Q1A01],,0,0
+16689,PC,Player Character,Gold. I want gold to keep quiet about you.,금화요. 당신 일을 입 다물려면 금화가 필요합니다.,m1q1a01olef,,[지능 보통],,,0,0
+16690,PC,Player Character,Me wants gold to shut up. Heh.,입 다물어 줄게. 금화나 내놔. 헤헷.,m1q1a01olef,,[지능 낮음],,,0,0
+16691,PC,Player Character,"Yes, you will pay me now.","그래요, 지금 제게 돈을 주시죠.",m1q1a01olef,m1a1a01olefslg01,[지능 보통],,,0,0
+16692,PC,Player Character,Yeah! You pay me good!,좋아! 실컷 내놔!,m1q1a01olef,m1a1a01olefslg01,[지능 낮음],,,0,0
+16697,PC,Player Character [M1Q1A01],<StartAction>Describe the recovery of Jacob's blessed quill from the evil Gilles.</Start>,<StartAction>사악한 길레스에게서 제이콥의 축복받은 깃펜 회수에 대해 설명합니다.</Start>,m1q1a01olef,m1q1a01olefend10,m1q1a01olefclg29,[M1Q1A01],,0,0
+62642,PC,Player Character,Me needs temple stuffs.,나 사원 물건 필요해.,m1q1a01olef,,[지능 낮음],,,0,0
+62643,PC,Player Character,I require temple services.,사원 서비스가 필요합니다.,m1q1a01olef,,[지능 보통],,,0,0
+62644,PC,Player Character,Me needs temple stuff.,나 사원 물건 필요해.,m1q1a01olef,,[지능 낮음],,,0,0
+62645,PC,Player Character,I need temple services.,사원 서비스가 필요해요.,m1q1a01olef,,[지능 보통],,,0,0
+62646,PC,Player Character,Me need temple stuff.,나 사원 물건 필요해.,m1q1a01olef,,[지능 낮음],,,0,0
+62647,PC,Player Character,I need temple services.,사원 서비스가 필요합니다.,m1q1a01olef,,[지능 보통],,,0,0
+66834,PC,Player Character [M1Q1A01],I think I've found a Tyrran artifact. Does it interest you?,티르의 유물을 찾은 것 같아요. 관심 있어요?,m1q1a01olef,m1q1a01olefend05,m1q1a01olefclg18,[M1Q1A01],,0,0
+66835,PC,Player Character [M1Q1A01],Me found Tyr old thingy in tomb. You interested in it?,나 무덤에서 티르 옛날 물건 찾았어. 너 관심 있어?,m1q1a01olef,m1q1a01olefend05,m1q1a01olefclg19,[M1Q1A01],,0,0

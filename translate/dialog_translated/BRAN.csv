@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30285,Dialog,BRAN,Grrrr. Get out of my cave... ,그르르. 내 동굴에서 꺼져...,M2Q1A02BRAN,nw_d1_j_surr01,,,,0,0
+30286,Dialog,BRAN,"Yuck, this place smells horrible! I'm going to get some fresh air, all right?","윽, 여기 냄새 정말 형편없군! 난 바람 좀 쐬고 올 거야, 알겠지?",M2Q1A02BRAN,m2q1atkarat2,,,,0,0
+30287,Dialog,BRAN,Grrrr... I died when I became this - beast. This battle can only end my misery.,그르르... 내가 이 짐승이 되었을 때 이미 죽은 목숨이야. 이 싸움만이 내 고통을 끝내 주겠지.,M2Q1A02BRAN,m2q1attackbran,,,,0,0
+30288,Dialog,BRAN,"Grrrr... silver? You're trying to kill me, aren't you?","그르르... 은이라고? 날 죽이려는 거지, 그렇지?",M2Q1A02BRAN,,,,,0,0
+30289,Dialog,BRAN,"I am Bran, from Port Llast - at one time normal, not afflicted with this... grrr... lycanthropic disease. Why don't you take your sneering self away from here?",난 라스트 항구 출신 브랜이다. 예전엔 멀쩡했지... 그르르... 이 늑대인간 병에 걸리기 전까진. 빈정거릴 거면 그냥 꺼져 줄래?,M2Q1A02BRAN,,,,,0,0
+30290,Dialog,BRAN,"<StartCheck>[Success]</Start> No one's called me handsome before... grrrr. Give me one of those charms, then. I ain't scared of it... ","<StartCheck>[성공]</Start> 나를 잘생겼다고 한 사람은 처음인데... 그르르. 좋아, 그 부적을 하나 줘. 난 그딴 거 안 무서워...",M2Q1A02BRAN,m2q1werecurexp,,,,0,0
+30291,Dialog,BRAN,<StartCheck>[Failure]</Start> Exactly - I can't trust anyone. Grrrr... Now back off.,"<StartCheck>[실패]</Start> 그래, 그래서 아무도 못 믿는 거다. 그르르... 이제 물러나.",M2Q1A02BRAN,,,,,0,0
+30292,Dialog,BRAN,"Grrrr, you think I'm scared of death... give me the charm, then, and I'll prove it to you.","그르르, 내가 죽음을 무서워한다고 생각해?... 그럼 그 부적을 내놔. 내가 증명해 보이지.",M2Q1A02BRAN,m2q1werecurexp,,,,0,0
+30293,Dialog,BRAN,"<StartCheck>[Success]</Start> Grrr... Neurik's been good to me since I was a baby, hasn't he... all right, give me one of those charms... ","<StartCheck>[성공]</Start> 그르르... 뉴릭은 내가 어릴 때부터 잘해 줬지... 좋아, 그 부적을 하나 줘...",M2Q1A02BRAN,m2q1werecurexp,,,,0,0
+30294,Dialog,BRAN,"Grrrrr... if you're looking for my ring, I don't have it.","그르르르... 내 반지를 찾는 거라면, 난 가지고 있지 않아.",M2Q1A02BRAN,nw_d1_j_surr01,,,,0,0
+30295,Dialog,BRAN,"Some adventurers came by. They told me if I gave it to them, people would stop searching for me. I guess they lied.","모험가들이 왔었지. 그자들이 그러더군, 반지를 넘기면 사람들이 수색을 멈출 거라고. 거짓말이었나 보지.",M2Q1A02BRAN,,,,,0,0
+30296,Dialog,BRAN,"It - It worked, I can feel it. Thank you so much. Here, take my ring and bring it to Neurik so he knows I'm all right!","됐... 됐어, 느껴져. 고마워. 자, 내 반지를 가져가서 뉴릭에게 전해 줘. 내가 무사하다고!",M2Q1A02BRAN,,,,,0,0
+30297,Dialog,BRAN,My adventuring ring? Grrrr. You mean you won't kill me if I just give it to you?,내 모험가 반지 말이야? 그르르. 내가 그냥 주면 넌 날 안 죽인다는 건가?,M2Q1A02BRAN,,,,,0,0
+30298,Dialog,BRAN,"Grrrr... take it back to Neurik, then, and tell him I'm dead or cured or something. Just leave me and my cave alone, all right?","그르르... 그럼 뉴릭에게 가져가. 내가 죽었대든 치료됐대든 아무렇게나 말해. 이제 날 내버려 둬. 이 동굴도 말이야, 알겠지?",M2Q1A02BRAN,m2q1a02branring2,,,,0,0
+30299,Dialog,BRAN,Grrr... if you insist... ,그르르... 네가 꼭 그렇다면...,M2Q1A02BRAN,,,,,0,0
+30300,Dialog,BRAN,"The battle, of course, didn't fare as we expected. Karathis became a werewolf, or was killed. I don't know. Or care. The rest of us fled. Only Ander escaped becoming a werewolf.","물론 전투는 우리가 기대한 대로 흘러가지 않았지. 카라디스는 늑대인간이 됐거나, 죽었거나. 나도 몰라. 관심도 없고. 우리는 흩어졌고, 앤더만이 늑대인간이 되는 걸 피했어.",M2Q1A02BRAN,,,,,0,0
+30301,Dialog,BRAN,"It - It worked, I can feel it! I never thought I would be normal again, but - you proved me wrong!","됐... 됐어, 느껴져! 다시 정상으로 돌아올 거라곤 생각도 못했는데... 당신이 내가 틀렸단걸 증명했어!",M2Q1A02BRAN,nw_d1_high_good,,,,0,0
+30302,Dialog,BRAN,"I came out here on an expedition with Sir Karathis and some friends, Urth, Ander and Geth. We were hunting a - grrr - werewolf.","난 카라디스 경, 그리고 친구들 어스, 앤더, 게스와 함께 여기로 원정을 왔어. 우린... 그르르... 늑대인간을 사냥 중이었지.",M2Q1A02BRAN,,,,,0,0
+30303,Dialog,BRAN,"Urth was running back to Port Llast. I tried to stop him, but - I just didn't want to see anyone from Port Llast hurt.",어스는 라스트 항구로 뛰어가고 있었어. 난 그를 막으려 했지. 라스트 항구 사람들이 다치는 꼴은 보고 싶지 않았거든.,M2Q1A02BRAN,,,,,0,0
+30304,Dialog,BRAN,"Ander escaped, but I'm not sure where he is. It is likely he returned to Port Llast. If I were healthy, that is where I would be.","앤더는 빠져나갔지만, 어디로 갔는지는 모르겠어. 아마 라스트 항구로 돌아갔겠지. 내가 멀쩡하다면, 나도 거기로 갔을 거야.",M2Q1A02BRAN,,,,,0,0
+30305,Dialog,BRAN,"Geth? No... I don't know where he got to, if he managed to get anywhere that is.",게스? 아니... 그가 어디로 갔는지 몰라. 어딘가에 도착이나 했을지나 모르겠다.,M2Q1A02BRAN,,,,,0,0
+30306,Dialog,BRAN,"I don't know where Karathis is, but I would hunt him down if I did. He ruined my life. This isn't even a life. Not anymore.",카라디스가 어디 있는지도 몰라. 알았다면 사냥에 나섰을 거야. 그자가 내 삶을 망쳤어. 이건 더는 삶도 아니야.,M2Q1A02BRAN,,,,,0,0
+30307,Dialog,BRAN,Please! I am myself again! Don't kill me!,제발! 이제 제정신으로 돌아왔어! 날 죽이지 마!,M2Q1A02BRAN,,,,,0,0
+30308,Dialog,BRAN,Grrr - Please! - Grrrrr - Can't control... Myself!,그르르... 제발! ... 그르르르... 통제가... 안 돼!,M2Q1A02BRAN,,,,,0,0
+30309,Dialog,BRAN,I need to get out of this place.,여길 빨리 나가야겠어.,M2Q1A02BRAN,m2q1bran001,,,,0,0
+30310,Dialog,BRAN,What did you want to talk about?,무슨 얘기를 하려고 했지?,M2Q1A02BRAN,,,,,0,0

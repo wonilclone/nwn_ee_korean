@@ -1,0 +1,126 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+5637,Creature,Vampire,Vampire,흡혈귀,NW_VAMPIRE|TM_CR_VAMPIRE001,,,,,0,0
+12455,Creature,Vrock,Vrock,브록,2Q4D_VROCK|2Q6_VROCK|HX_HELL_VROCK|NW_DMVROCK|Q2E_EVIL4|TM_VROCK,,,,,0,0
+60132,Creature,Vrock,Karcha will see the flesh torn from your bones puny creature.,카르챠가 네 뼈에서 살점이 찢겨 나가는 걸 지켜봐 주마 하찮은 것아.,2Q6_VROCK,,,,,0,0
+12794,Creature,Vampire Warrior,Vampire Warrior,흡혈귀 투사,Q2BLAIR_VAMPBOSS,,,,,0,0
+22486,Creature,Vengaul,"Er... yes! Yes, this is my second wave, come to fight you! Adventurers all, we will defeat you!","어... 그래! 그래, 이들은 제 2차 병력이다. 너희를 무찌르러 왔지! 모험가들이여, 우리가 너희를 쓰러뜨릴 것이다!",M1Q04CVENGAUL,,,,vs_fvengaum_054,0,0
+24636,Creature,Vengaul,Vengaul,벵골,M1Q04CVENGAUL,,,,,0,0
+22518,Dialog,VENGAUL,"Well fought! You have proven quite the force, defeating Callik like that. The lad was giving me trouble. No sense of style.","잘 싸웠소! 칼릭을 그렇게 쓰러뜨리다니, 당신은 대단한 실력자로군. 그 녀석이 날 괴롭히고 있었지. 스타일이라곤 없는 녀석이었소.",M1Q4F23VENGAUL,m1_initstop,,,vs_fvengaum_050,0,0
+22519,Dialog,VENGAUL,"Still, I gather from your well-fortified self that I am in further trouble, am I not?","하지만, 중무장한 당신을 보아하니 내가 더 큰 곤경에 빠진 것 같군요. 그렇지 않습니까?",M1Q4F23VENGAUL,,,,,0,0
+22520,Dialog,VENGAUL,Nonsense. I merely issued a statement or two. How people choose to react to that is not my concern.,터무니없소. 나는 한두 마디 발언을 했을 뿐. 사람들이 그에 어떻게 반응할지는 내 관심사가 아니오.,M1Q4F23VENGAUL,,,,,0,0
+22521,Dialog,VENGAUL,I stumbled upon the remains of a fine little bird that Nasher and his lackeys carelessly lost. Imagine my surprise at seeing some dog in the street carrying it. I merely wished to put it to good use.,나셰르와 그 부하들이 부주의하게 잃어버린 훌륭한 새의 잔해를 우연히 발견했소. 길거리의 개 한 마리가 그걸 물고 가는 걸 봤을 때 얼마나 놀랐는지 상상이나 하시오. 나는 단지 그걸 잘 활용하고 싶었을 뿐이오.,M1Q4F23VENGAUL,,,,,0,0
+22522,Dialog,VENGAUL,"That's a blanketing statement. Why, may I ask, do you deem it necessary to kill me?","그건 일반화한 진술이오. 묻겠소, 왜 날 죽일 필요가 있다고 여기시오?",M1Q4F23VENGAUL,,,,,0,0
+22523,Dialog,VENGAUL,"Well, a great deal of harm was taken. I'll just take my leave. You'll find what you need in my absence, I am sure.","뭐, 많은 피해가 있었군. 그럼 이만 가보겠소. 내가 없어도 필요한 걸 찾을 수 있을 거요.",M1Q4F23VENGAUL,m1q4vengslg01,,,,0,0
+22524,Dialog,VENGAUL,That wasn't my doing. Desperate people do desperate things. Would you kill the baker if they rioted over bread?,그건 내가 한 일이 아니오. 절박한 사람들은 절박한 일을 하는 법. 빵 때문에 폭동이 일어났다고 제빵사를 죽이겠소?,M1Q4F23VENGAUL,,,,,0,0
+22525,Dialog,VENGAUL,You'll pardon me if I just leave? My lieutenants will more than oblige your bloodlust. The spoils of victory to the winners!,그냥 떠나도 용서해 주시겠소? 내 부관들이 당신의 살육욕을 충분히 채워 줄 거요. 승리의 전리품은 승자의 것!,M1Q4F23VENGAUL,m1q4vengaulenemy,,,,0,0
+22526,Dialog,VENGAUL,You don't know the old boy like I do. We've been at each other's throats for years. He'd not want me caged or dead.,당신은 그 늙은이를 나만큼 모르시오. 우린 수년간 서로 으르렁대왔소. 그는 내가 감옥에 가거나 죽길 원치 않을 거요.,M1Q4F23VENGAUL,,,,,0,0
+22527,Dialog,VENGAUL,"This whole thing would have been an insult, to be sure, but deep inside, Nasher likes these little confrontations","물론 이 모든 일이 모욕적이긴 하지만, 속으로는 나셰르도 이런 작은 대결들을 즐기오.",M1Q4F23VENGAUL,,,,,0,0
+22528,Dialog,VENGAUL,"""Just for a laugh"" then, I'll do my best to escape. I've no reason to die here. Not when I would've returned the beast anyway.","그럼 ""그냥 재미로"" 도망치도록 최선을 다하겠소. 여기서 죽을 이유가 없지. 어차피 그 짐승을 돌려줄 생각이었는데.",M1Q4F23VENGAUL,,,,,0,0
+22529,Dialog,VENGAUL,"The remains of the creature are in a crate. Send it to Nasher with my regards, though I doubt he'll have time for a scoundrel like you.",그 생명체의 잔해는 상자 안에 있소. 내 인사와 함께 나셰르에게 보내시오. 하지만 그가 당신 같은 건달에게 시간을 낼지는 의문이오.,M1Q4F23VENGAUL,m1q4vengaulenemy,,,,0,0
+22530,Dialog,VENGAUL,"My weapons? You are certainly intent on making this a conflict. Very well, my friend, a fight you shall have.","내 무기라고? 당신은 확실히 이걸 싸움으로 만들 작정이군. 좋소, 친구여, 원하는 싸움을 주지.",M1Q4F23VENGAUL,,,,,0,0
+22531,Dialog,VENGAUL,"Of course I will. Oh, don't look so surprised. What am I going to do with some mangy bird? Besides, I know full well how important the feathers of this beast are.","물론 그럴 거요. 오, 그렇게 놀란 표정은 짓지 마시오. 병든 새를 가지고 뭘 하겠소? 게다가 이 짐승의 깃털이 얼마나 중요한지 잘 알고 있소.",M1Q4F23VENGAUL,,,,,0,0
+22532,Dialog,VENGAUL,"My fun was in making Nasher want it. Since he won't play and my men have largely abandoned me, the ruse is over.","내 재미는 나셰르가 그걸 원하게 만드는 것이었소. 그가 게임을 거부하고 부하들이 대부분 날 버렸으니, 이 속임수도 끝이오.",M1Q4F23VENGAUL,,,,,0,0
+22533,Dialog,VENGAUL,"The remains of the beast are in a crate. Take the feathers, and my blessings. I have friends suffering from the plague too, you know. Nasher knows who I mean.","그 짐승의 잔해는 상자 안에 있소. 깃털을 가져가시오, 그리고 내 축복도. 나도 역병으로 고통받는 친구들이 있소. 나셰르는 내가 누구를 말하는지 알 거요.",M1Q4F23VENGAUL,,,,,0,0
+22534,Dialog,VENGAUL,"I suppose from your perspective you are correct. Since you are the dominant force in the room, I bow to your wisdom.","당신 관점에서 보면 맞는 말씀이오. 당신이 이 방에서 지배적인 힘이니, 당신의 지혜에 고개를 숙이지.",M1Q4F23VENGAUL,,,,,0,0
+22535,Dialog,VENGAUL,"Of course, of course. I expected as much, though I was also hoping that Nasher would make an appearance. ","물론, 물론이오. 그 정도는 예상했소. 하지만 나셰르가 직접 나타나길 바랐는데 말이오.",M1Q4F23VENGAUL,,,,,0,0
+22536,Dialog,VENGAUL,"As you will. Farewell, my friend. Our paths will cross again, I am sure.","당신이 원하는 대로 하시오. 안녕히, 친구여. 우리 길이 다시 교차할 거라 확신하오.",M1Q4F23VENGAUL,m1q4vengslg01,,,,0,0
+24529,Dialog,VERSION,"Design version 3.8.1 Please use this when submitting design bugs. Last updated May 24, noon",디자인 버전 3.8.1 디자인 버그를 제출할 때 이것을 사용하십시오. 5월 24일 정오 최종 업데이트,__VERSION,,,,,0,0
+50951,Dialog,VERSION,"Tutorial Design build 2.3.2 Last updated May 22, at 9pm",튜토리얼 디자인 빌드 2.3.2 5월 22일 오후 9시 최종 업데이트,_VERSION,,,,,0,0
+61260,Dialog,VERSION,Version 8.7,버전 8.7,M4_VERSION,,,,,0,0
+64330,Dialog,VERSION,Design build 2.2.1 last updated May 22 at 4pm,디자인 빌드 2.2.1 5월 22일 오후 4시 최종 업데이트,__VERSION,,,,,0,0
+24547,Creature,Victim,Victim,희생자,VICTIM,,,,,0,0
+109829,Creature,Victim,Victim,희생자,HX_CRYSTAL3_VIC1|HX_CRYSTAL3_VIC2|HX_CRYSTAL3_VIC5|HX_CRYSTAL3_VIC6|HX_CRYSTAL3_VIC7,,,,,0,0
+24607,Creature,Vasco the Mauler,Vasco,분쇄자,M1Q02CVASCO,,,,,0,0
+24608,Creature,Vasco the Mauler,the Mauler,바스코,M1Q02CVASCO,,,,,0,0
+24634,Creature,Vengaul's Guard,Vengaul's Guard,벵골의 경비병,M1Q04CTHUG03,,,,,0,0
+29676,Dialog,VRDOC,Master Maugrim don't like meddlers... But Vardoc take care of dat.,모그림 주인님은 참견쟁이를 싫어하시지... 하지만 바독이 처리할 거야.,M2Q1000VRDOC,m2q6vardoc001,,,vs_nthugxm1_058,0,0
+32014,Dialog,VIRDA,"Burn, burn, burrrrn! This forest is unclean and only through Kossuth's righteous flames can it be made pure! Burrrrrrrn!","불타라, 불타라, 불타라! 이 숲은 불결하고 오직 코수스의 정의로운 불꽃으로만 정화될 수 있다! 불타라!",M2Q1A14VIRDA,,,,,0,0
+32015,Dialog,VIRDA,"I am Viirda, priest of Kossuth the Firelord. Do not molest me as I must remain vigilant for new growth in this already despoiled Wood... ",나는 불의 군주 코수스의 성직자 비르다다. 이미 망가진 숲에서 새로운 성장을 경계해야 하니 방해하지 마라...,M2Q1A14VIRDA,,,,,0,0
+37429,Dialog,VROCK,TO THE PITS!! TO THE PITS WITH THE DAMN SUMMONER KARLAT! SCREEEEEEEEE!!!!!,나락으로!! 빌어먹을 소환자 칼랏과 함께 나락으로!! 끼애액!!!!!,M2Q3K10VROCK,,,,,0,0
+37430,Dialog,VROCK,"I WILL NOT SERVE, WHATEVER YOU LOOK LIKE, I WILL NOT SERVE!! YOU CAN'T JUST CALL ME HERE!!!","섬기지 않을 것이다, 네 모습이 어떻든, 섬기지 않는다!! 그냥 날 여기로 부를 순 없다!!!",M2Q3K10VROCK,,,,,0,0
+37431,Dialog,VROCK,"DEAL WAS DONE, DEAL WAS DONE! I WILL NOT SERVE!!!! SKREEEEEEEEEEEEEEE!!!!!!!","계약은 끝났다, 계약은 끝났다! 섬기지 않는다!!!! 끼애애애애액!!!!!!!",M2Q3K10VROCK,,,,,0,0
+37432,Dialog,VROCK,"COME CLOSER AND DIE, DIE, DIE!!!!!!!!","가까이 오면 죽는다, 죽는다, 죽는다!!!!!!!!",M2Q3K10VROCK,,,,,0,0
+37433,Dialog,VROCK,"REND YOU IN THE PITS, KARLAT! REND YOU IN THE PITS!!!!!","나락에서 네놈을 찢어 주마, 칼랏! 나락에서 찢어 주마!!!!!",M2Q3K10VROCK,,,,,0,0
+37434,Dialog,VROCK,"NO HOPE FOR YOU IF YOU GET CLOSE TO ME, KARLAT!!! RIP OUT YOUR SPINE!!!! SKREEEEEEEEEEE!!!!","내게 가까이 오면 네놈에겐 희망이 없다, 칼랏!!! 네 척추를 뽑아 내겠다!!!! 끼애애애애액!!!!",M2Q3K10VROCK,,,,,0,0
+37435,Dialog,VROCK,CIRCLE BROKEN!! CIRCLE FOULED!! FREE TO REND YOUR SPINE!!!! SCKREEEEEEEEEEEEE!!!!!,마법진이 깨졌다!! 마법진이 파괴됐다!! 네 척추를 찢을 자유를 얻었다!!!! 끼애애애애애액!!!!!,M2Q3K10VROCK,,,,,0,0
+37849,Dialog,VICTM,Save me please! I help you!!,살려 주세요! 도와줄게요!!,M2Q5D14VICTM,,,,,0,0
+37850,Dialog,VICTM,Most thankful I am. You have saved poor I from torture... ,정말 고맙소. 불쌍한 나를 고문에서 구해 주었소...,M2Q5D14VICTM,,,,,0,0
+37851,Dialog,VICTM,"No, no! You will kill I, I knows! Runs, must I!!","안 돼, 안 돼! 나를 죽일 거야, 알아! 도망쳐야 해, 나는!!",M2Q5D14VICTM,m2q5bbearvicrun2,,,,0,0
+37852,Dialog,VICTM,"Chieftain of bugbears has imprisoned I. At order of the master, it was. I speaks against the master.",버그베어 족장이 나를 가뒀어. 주인님의 명령으로. 나는 주인님을 반대해서 그래.,M2Q5D14VICTM,,,,,0,0
+37853,Dialog,VICTM,"The master is large creature, giant maybe. Comes to the tribes in caves, takes strongest of us away. Me not knows why!","주인님은 큰 생명체, 아마 거인. 동굴의 부족들에게 와서, 우리 중 가장 강한 자들을 데려가. 왜 그러는지 몰라!",M2Q5D14VICTM,,,,,0,0
+37854,Dialog,VICTM,"Be following this tunnel out of cell to north. It go a little east, then back south to tunnel down and temple. Master live down there. Never go there, I... not know more.","감방에서 북쪽 이 땅굴을 따라가. 조금 동쪽으로 가다가, 다시 남쪽으로 가면 땅굴 아래로 내려가서 신전이 나와. 주인님은 거기 살아. 거긴 안 가 봤어, 나... 더 모르겠어.",M2Q5D14VICTM,,,,,0,0
+37855,Dialog,VICTM,Master weakens tribes of caves. Takes strongest to own caves. No one knows why.,주인님은 동굴 부족들을 약화시켜. 가장 강한 자들을 자기 동굴로 데려가. 왜 그러는지 아무도 몰라.,M2Q5D14VICTM,,,,,0,0
+37856,Dialog,VICTM,I speaks against master. Master pushes bugbears around. I say bugbears fight master. But master hears all... tells chieftain to send I to prison.,나는 주인님을 반대했어. 주인님은 버그베어들을 괴롭혀. 나는 버그베어들이 주인님과 싸워야 한다고 말했어. 하지만 주인님은 다 들어... 족장에게 나를 감옥에 보내라고 했지.,M2Q5D14VICTM,,,,,0,0
+37857,Dialog,VICTM,"No, no! <Race> no kill I! Runs, must I!!","안 돼, 안 돼! <Race> 나를 죽이지 마! 도망쳐야 해, 나는!!",M2Q5D14VICTM,m2q5bbearvicrun2,,,,0,0
+37858,Dialog,VICTM,"Yes, I goes... I leave this hills far, far behind. Most kind is you... ","그래, 가겠어... 이 언덕을 아주, 아주 멀리 떠날 거야. 정말 친절하시구나...",M2Q5D14VICTM,m2q5bbearvicrun,,,,0,0
+37859,Dialog,VICTM,No! No! AAAAAGHH!!!,안 돼! 안 돼! 으아아아!!!,M2Q5D14VICTM,m2q5bbeartor003,,,,0,0
+40961,Creature,Vardoc,Vardoc,바독,M2Q6CVARD,,,,,0,0
+40962,Creature,Vigo the Rat,Vigo,비고,M2Q6CVIGO,,,,,0,0
+40963,Creature,Vigo the Rat,the Rat,쥐새끼,M2Q6CVIGO,,,,,0,0
+42543,Creature,Valindra Shadowmantle,Shadowmantle,섀도맨틀,2Q6G_VALINDRA,,,,,0,0
+42544,Creature,Valindra Shadowmantle,Valindra,발린드라,2Q6G_VALINDRA,,,,,0,0
+60107,Creature,Valindra Shadowmantle,"Your corpse shall join the ranks of my minions, adventurer!","네 시체도 내 하수인 대열에 보태 주마, 모험가!",2Q6G_VALINDRA,,,,,0,0
+43368,Creature,Vanda,I am here. Ask your questions.,여기 있어요. 물어보세요.,UTHGARDTWI3Q11,,,,,0,0
+43370,Creature,Vanda,Neither my husband nor I would ever commit vile murder. We Uthgardt are an honorable people!,남편도 저도 그런 끔찍한 살인을 저지르지 않아요. 우스가르트트는 명예를 중시하는 사람들이에요!,UTHGARDTWI3Q11,,,,,0,0
+43372,Creature,Vanda,"Yes, but he wouldn't have killed that man!","그래요, 하지만 그는 그 남자를 죽이지 않았을 거예요!",UTHGARDTWI3Q11,,,,,0,0
+43375,Creature,Vanda,I told Rolgan to go speak with Griff... To beg him to return the heirlooms he had taken from us. To appeal to Griff's sense of decency. My husband is no killer. He only went back because I sent him there to talk with Griff.,나는 롤간에게 그리프와 얘기하러 가라고 했어요... 우리에게서 가져간 가보를 돌려 달라고 빌라고요. 그리프의 양심에 호소하라고요. 내 남편은 살인자가 아니에요. 그가 돌아간 건 내가 그리프와 말해 보라고 보냈기 때문이에요.,UTHGARDTWI3Q11,m3q01a01iglagb17,,,,0,0
+43376,Creature,Vanda,"These are more than just heirlooms. They are artifacts of great religious significance to the Black Lion tribe. Their value is greater than mere money. Why, they mean more than life itself to the worshippers of Uthgar!","그것들은 단순한 가보가 아니에요. 검은 사자 부족에겐 지극히 중요한 종교 유물이죠. 그 가치는 돈 따위와는 비교할 수 없어요. 우스가르트를 섬기는 이들에게는, 목숨보다 소중하니까요!",UTHGARDTWI3Q11,m3q01a01iglaelc5,,,,0,0
+43379,Creature,Vanda,You people hate the Uthgardt! For generations the Lords' Alliance has persecuted us because we were different! You are nothing but a bunch of racists! ,너희는 우스가르트트를 증오해! 영주 연합은 우리가 다르다는 이유로 대대로 우릴 탄압해 왔어! 너희는 한낱 인종차별주의자들일 뿐이야!,UTHGARDTWI3Q11,m3q01a01iglaelc4,,,,0,0
+43420,Creature,Vanda,"I am ready for your questions, <Lord/Lady> <FirstName>.","질문을 받을 준비가 됐습니다, 모험가님 <FirstName>.",UTHGARDTWI3Q11,,,,,0,0
+47068,Creature,Vanda,Vanda,반다,UTHGARDTWI3Q11,,,,,0,0
+43765,Dialog,VAND,"I am sorry, were you speaking to me? Forgive my distraction, I am worried about my husband's upcoming trial.","죄송해요, 저한테 하신 말씀이었나요? 곧 있을 남편의 재판이 걱정이라 정신이 없었습니다.",M3Q01A01VAND,,,,,0,0
+43766,Dialog,VAND,"My husband Rolgan is accused of murdering one of the Lords' Alliance soldiers. He faces execution if not saved. Forgive me, but this is difficult to talk about. ",제 남편 롤간은 영주 연합의 병사 한 명을 살해한 혐의를 받고 있어요. 구해 내지 못하면 처형당할 겁니다. 미안하지만... 이런 얘기는 하기가 힘드네요.,M3Q01A01VAND,,,,,0,0
+43767,Dialog,VAND,"As you wish. Should you need to speak to me again I shall be here in the village, awaiting the trial summons from Neurik at the temple.",좋을 대로 하세요. 다시 제게 볼 일이 있으시면 저는 마을에 있겠습니다. 신전의 뉴릭이 보낼 재판 소환장을 기다리고 있을 테니까요.,M3Q01A01VAND,,,,,0,0
+43768,Dialog,VAND,"Representing my husband? I am sorry, but the ways of your justice system are unfamiliar to we people of the Black Lion Tribe. Are you a friend or foe?","남편을 변호한다고요? 미안하지만, 당신들의 사법 절차는 우리 검은 사자 부족에겐 낯섭니다. 당신은 우리 편입니까, 적입니까?",M3Q01A01VAND,,,,,0,0
+43769,Dialog,VAND,"The priest Neurik said I would have to answer the questions put to me with complete honesty... it was as if he *expected* me to lie! He knows nothing about the honor of our tribe. Ask away, I have nothing to hide.","성직자 뉴릭은 내게 묻는 말에 완전히 솔직하게 답해야 한다고 했어요... 마치 제가 거짓말할 거라고 생각하는 듯했죠! 그는 우리 부족의 명예를 전혀 모릅니다. 뭐든 물어보세요, 숨길 건 없으니까요.",M3Q01A01VAND,,,,,0,0
+43770,Dialog,VAND,"My husband returned home late. He had been drinking, but there was something else. He seemed... different. As if more than alcohol were at work in his mind.","남편은 늦게 집에 돌아왔어요. 술을 마시긴 했지만, 그뿐만이 아니었어요. 뭔가... 달라 보였죠. 마치 술 말고 다른 것이 그의 정신을 지배하는 듯했어요.",M3Q01A01VAND,,,,,0,0
+43771,Dialog,VAND,"When he told me he had gambled away the heirlooms of our family, precious stones sanctified by the priests of Uthgar, I knew something was very wrong. He was not in his right mind, or he would never have wagered these sacred stones on a game of chance.","그가 우리 집안의 가보-우스가르트의 성직자들이 성별한 귀한 보석들-를 도박으로 날려 버렸다고 말했을 때, 뭔가 크게 잘못되었다는 걸 알았어요. 제정신이었다면 그런 성스러운 보석을 운에 맡겨 내기판에 올릴 리가 없죠.",M3Q01A01VAND,,,,,0,0
+43772,Dialog,VAND,"I know my husband, and he is no irresponsible drunkard! Something happened to him, something more sinister than mere alcohol! Of course I have no proof but I know it's true all the same.","전 제 남편을 알아요, 그는 무책임한 주정뱅이가 아닙니다! 그에게 무슨 일이 있었던 거예요. 단순한 술 이상의, 더 사악한 무엇이! 물론 증거는 없지만, 사실이라는 걸 압니다.",M3Q01A01VAND,,,,,0,0
+43773,Dialog,VAND,I sent him to ask this man Griff to return the heirlooms. We offered to pay him gold in exchange. It would have been far more than he could ever sell the heirlooms for. Their religious significance to the Black Lion tribe far exceeds their material worth.,제가 남편을 보냈어요. 그리프라는 자에게 가서 가보를 돌려 달라고 말하라고요. 우리는 금으로 보상하겠다고도 했습니다. 그가 가보를 팔아 얻을 돈보다 훨씬 많았을 거예요. 검은 사자 부족에게 그 유물들의 종교적 가치는 물질적 가치보다 훨씬 큽니다.,M3Q01A01VAND,,,,,0,0
+43774,Dialog,VAND,"But the soldier attacked my husband, and Rolgan was forced to kill Griff to preserve his own life. He fled to the Temple seeking sanctuary, a mob of Griff's enraged friends close on his heels. ","하지만 그 병사가 남편을 공격했고, 롤간은 살기 위해 어쩔 수 없이 그리프를 죽였습니다. 그는 성역을 구하며 신전으로 달아났고, 분노한 그리프의 친구들이 떼 지어 뒤를 바짝 쫓아왔지요.",M3Q01A01VAND,,,,,0,0
+43775,Dialog,VAND,"Please, help my husband. They are portraying him as a drunken, pagan savage. This is how they view all the Uthgardt. We are a noble people, but if Rolgan is convicted the hurtful stereotype will only get stronger.","제발, 제 남편을 도와 주세요. 그들은 그를 술 취한 이교도의 야만인으로 몰아가고 있어요. 우스가르트트를 전부 그렇게 보는 겁니다. 우리는 고결한 사람들이에요. 하지만 롤간이 유죄가 되면 저 상처 주는 낙인은 더 강해질 뿐이에요.",M3Q01A01VAND,,,,,0,0
+43776,Dialog,VAND,"I wish I could be of more help, but all I can do is pray Uthgar grants you wisdom in this matter.","더 도와 드리고 싶지만, 제가 할 수 있는 건 우스가르트께서 이 일에 지혜를 내리시길 기도하는 것뿐이에요.",M3Q01A01VAND,,,,,0,0
+43777,Dialog,VAND,"My husband is dead, the sun in my sky has fallen and my spirit is swallowed by the dark night. I grieve and pray to Uthgar to lift up his soul, but in my mouth the words are hollow.","남편은 죽었어요. 내 하늘의 태양이 져 버렸고, 내 영혼은 칠흑 같은 밤에 삼켜졌어요. 나는 슬피 울며 우스가르트께 그의 영혼을 들어 올려 달라 기도하지만, 입술에서 나오는 말은 공허할 뿐이에요.",M3Q01A01VAND,,,,,0,0
+43778,Dialog,VAND,"The servants of Tyr defiled his body, mounting him on a stake outside their temple in a perverse act they call justice. And they dare to call us savages? Leave me to my mourning... I only want to be left alone.",티르의 종복들이 그의 시신을 모독했어요. 그들은 그 짓을 정의라고 부르며 신전 밖 말뚝에 그를 세워 놓았죠. 그런데도 감히 우리를 야만이라 부르다니요? 부디 제 슬픔을 방해하지 말아 주세요... 혼자 있고 싶어요.,M3Q01A01VAND,,,,,0,0
+43779,Dialog,VAND,The justice of the Lord's Alliance is true justice. My husband's trial is over and he is no longer accused of his crime! We are together once more.,"영주 연합의 정의야말로 참된 정의예요. 남편의 재판이 끝났고, 더는 죄를 뒤집어쓰지 않았어요! 우리는 다시 함께하게 되었어요.",M3Q01A01VAND,,,,,0,0
+43780,Dialog,VAND,"I am grateful to you, <FirstName>, for you have have returned the sun to my sky. Forever you shall be counted as a friend of the Black Lion tribe of the Uthgardt people.","<FirstName>, 내 하늘의 태양을 되돌려 주어 당신께 감사드립니다. 당신은 영원히 우스가르트트의 검은 사자 부족의 벗으로 기억될 거예요.",M3Q01A01VAND,,,,,0,0
+60498,Dialog,VAND,Neurik at the Temple of Tyr can explain it better than I - I do not understand the ways of your justice system.,티르 신전의 뉴릭이 저보다 더 잘 설명해 줄 거예요-당신들의 사법 절차는 제겐 이해하기 어렵습니다.,M3Q01A01VAND,,,,,0,0
+46411,Dialog,VAATH,"You not too bright, for come stumbling into camp of great Vaath!","너 그리 똑똑하지 않구나, 위대한 바스의 야영지로 비틀거리며 왔으니 말이야!",M3Q3A02VAATH,,,,,0,0
+46412,Dialog,VAATH,Me surrender! Me surrender!,나 항복! 나 항복!,M3Q3A02VAATH,,,,,0,0
+46413,Dialog,VAATH,You not kill Vaath. You let Vaath live.,너 바스 안 죽여. 너 바스 살려 줘.,M3Q3A02VAATH,,,,,0,0
+46414,Dialog,VAATH,Me not know nothing! Me be just bandit. But you no kill me yet... me got stuff me can give you.,나 아무것도 몰라! 나는 그냥 산적이야. 하지만 너 나 아직 안 죽였어... 나 너한테 줄 수 있는 거 있어.,M3Q3A02VAATH,,,,,0,0
+46415,Dialog,VAATH,Then me gonna die fighting!,그럼 나 싸우다 죽겠어!,M3Q3A02VAATH,,,,,0,0
+46416,Dialog,VAATH,You not know Vaath the Mighty? Me am great bandit who rob from rich and give to me! This be camp of Vaath.,너 힘센 바스를 모르나? 나는 부자한테서 빼앗아 나한테 주는 위대한 산적이야! 여기가 바스의 야영지야.,M3Q3A02VAATH,,,,,0,0
+46417,Dialog,VAATH,Me attack 'cause you come into camp. But you strong. Too strong for Vaath. Maybe you let Vaath live?,나 공격한 건 너 야영지로 왔으니까. 하지만 너 강해. 바스한테 너무 강해. 너 바스 살려 줄래?,M3Q3A02VAATH,,,,,0,0
+46418,Dialog,VAATH,Me give you gold if you not kill Vaath. 500 gold for let Vaath live.,나 너한테 금 줄게 바스 안 죽이면. 바스 살려 주면 금화 500개.,M3Q3A02VAATH,m3q3a_vaathg1,,,,0,0
+46419,Dialog,VAATH,"Me got 300 gold on belt. You let Vaath go, it be yours.","나 허리띠에 금화 300개 있어. 너 바스 보내 주면, 그거 네 거야.",M3Q3A02VAATH,m3q3a_vaathg2,,,,0,0
+46420,Dialog,VAATH,"Here, me got 100 gold. You let Vaath live, me give you gold.","여기, 나 금화 100개 있어. 너 바스 살려 주면, 나 너한테 금 줄게.",M3Q3A02VAATH,m3q3a_vaathg3,,,,0,0
+46424,Dialog,VAATH,You great <man/woman>! Vaath go far away now and not ever come back!,너 훌륭한 <man/woman>! 바스 이제 멀리 가서 절대 안 돌아올 거야!,M3Q3A02VAATH,,,,,0,0
+46425,Dialog,VAATH,What? Vaath not give you him head! Vaath need head for live!,뭐? 바스 너한테 그의 머리 안 줘! 바스는 살려면 머리 필요해!,M3Q3A02VAATH,,,,,0,0
+46426,Dialog,VAATH,"Wait, me got idea! Me give you head of other orc. One already dead. All orc head look alike! No one know it not Vaath!","기다려, 나 생각 있어! 나 너한테 다른 오크 머리 줄게. 이미 죽은 놈. 오크 머리는 다 똑같이 생겨! 아무도 바스 아닌 거 모를 거야!",M3Q3A02VAATH,,,,,0,0
+46427,Dialog,VAATH,"Here, you take this head. Now you not need kill Vaath. You take gold and let Vaath live, okay?","자, 너 이 머리 가져가. 이제 너 바스 죽일 필요 없어. 너 금 가지고 바스 살려 줘, 알았지?",M3Q3A02VAATH,,,,,0,0
+46428,Dialog,VAATH,"You go gets you bounty with other head, and me go far, far away. No one ever know Vaath not dead. It good idea, no?","너 다른 머리 가지고 현상금 받으러 가고, 나는 아주, 아주 멀리 가. 아무도 바스 안 죽은 거 절대 모를 거야. 좋은 생각이지, 그치?",M3Q3A02VAATH,m3q3a_vaathb2,,,,0,0
+47035,Creature,Vaath,Vaath,바스,M3Q3A_VAATH,,,,,0,0
+48296,Creature,Vanya,"It would be an honor if you would allow me to join my sword to your cause, <FullName>. Will you have me?","제 검을 당신의 대의에 보탤 수 있게 허락해 주신다면 영광이겠어요, <FullName>. 저를 받아 주시겠습니까?",M4Q01A07VANY,,,,,0,0
+48297,Creature,Vanya,"<Sir/Madam>, now is not the time for idle conversation.","선생님, 지금은 한가한 이야기나 할 때가 아닙니다.",M4Q01A07VANY,,,,,0,0
+48303,Creature,Vanya,"As you wish. Good luck with your mission, <FullName>. The fate of Neverwinter depends on you.","원하시는 대로. 임무에 행운을, <FullName>. 네버윈터의 운명이 당신께 달려 있어요.",M4Q01A07VANY,,,,,0,0
+48304,Creature,Vanya,"Greetings, <FullName>. I am Vanya of the Neverwinter militia. Trancar's orders are that I accompany you in your mission to stop the Luskan golems and catapults.","<FullName>, 반갑습니다. 저는 네버윈터 민병대의 바냐예요. 트란카르의 명으로, 러스칸의 골렘과 투석기를 저지하는 임무에 당신과 함께하라는 지시를 받았습니다.",M4Q01A07VANY,,,,,0,0
+48305,Creature,Vanya,"You will not regret this, my <lord/lady>. My skills are yours to command.","후회하지 않으실 겁니다, 모험가님. 제 기술은 전부 당신의 명을 따르죠.",M4Q01A07VANY,,,,,0,0
+48306,Creature,Vanya,"I will follow you and perform to the best of my abilities, according to the orders you have given me.","당신이 내린 명령에 따라 따르고, 가진 능력을 다해 임무를 수행하겠습니다.",M4Q01A07VANY,,,,,0,0
+48307,Creature,Vanya,"Do not underestimate me, <FullName>. Though no hero such as you, my arm is strong, my courage true and my steel sharp.","<FullName>, 저를 얕보지 마세요. 당신 같은 영웅은 아니어도, 제 팔은 강하고, 용기는 굳건하며, 칼날은 날카롭습니다.",M4Q01A07VANY,,,,,0,0
+48328,Creature,Vanya,"With the golems beaten and the catapults destroyed, we have a chance against those Luskan dogs!","골렘을 격파하고 투석기를 파괴하면, 저 러스칸의 개들과 맞설 기회가 생깁니다!",M4Q01A07VANY,,,,,0,0
+48329,Creature,Vanya,"If you need anything you must speak with Trancar, the battalion commander.",필요한 게 있으면 대대장 트란카르와 상의하세요.,M4Q01A07VANY,,,,,0,0
+48330,Creature,Vanya,"I cannot speak with you right now, my <lord/lady>. I am on duty.","지금은 말씀드릴 수 없습니다, 모험가님. 근무 중입니다.",M4Q01A07VANY,,,,,0,0
+48332,Creature,Vanya,Trancar knows there is no soldier in the battalion more capable. That is why he wanted me to aid you in your mission.,트란카르는 이 대대에서 저만큼 유능한 병사가 없다는 걸 알죠. 그래서 당신의 임무를 돕게 하려는 겁니다.,M4Q01A07VANY,,,,,0,0
+48333,Creature,Vanya,I hope Trancar sends me out on foray soon. I'm eager to strike a blow against our enemy.,트란카르가 곧 정찰대를 보내 줬으면 하네요. 적에게 한 방 먹이고 싶어서 몸이 근질거립니다.,M4Q01A07VANY,,,,,0,0
+49085,Creature,Vanya,Vanya,바냐,M4Q01A07VANY,,,,,0,0
+60217,Creature,Voleron,Voleron,볼레론,2Q4D_LICH,,,,,0,0
+65404,Creature,Voleron,"At last! The 'hero' of my enemies comes to die! Once you are dead, Voleron shall be free!","드디어! 내 적들의 '영웅'이 죽으러 왔군! 네가 죽으면, 볼레론은 자유로워진다!",2Q4D_LICH,,,,,0,0
+60872,Dialog,VAMPBOSS,"You will never sully Layenne's Tomb, mortal sludge!",필멸의 오물아! 네놈 따위가 레옌의 무덤을 더럽히는 일은 결코 없다!,M3Q3A2_VAMPBOSS,,,,,0,0
+61312,Creature,Vale Reyer,Reyer,레이어,M4_MOON_COMMONM2,,,,,0,0
+61313,Creature,Vale Reyer,Vale,베일,M4_MOON_COMMONM2,,,,,0,0
+65145,Dialog,VOICE,YOU HAVE ENTERED THE ROOM OF THE FINAL TEST!,최종 시험의 방에 들어왔다!,M2Q5S_VOICE,,,,,0,0
+79544,Creature,Vengeful Spirit,Vengeful Spirit,복수의 영혼,TORCHSPIRIT,,,,,0,0
+100161,Creature,Veregon,Veregon,베레곤,Q4A_VEREGON,,,,,0,0
+107879,Creature,Vacant-looking Drow,Vacant-looking Drow,멍한 표정의 드로우,Q2DTHRALL2,,,,,0,0
+109866,Creature,"Valen, Dead Shadowbreath","Valen, Dead","발렌, 사망",HX_FEND_VALEN2,,,,,0,0

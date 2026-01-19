@@ -1,0 +1,33 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17429,PC,Player Character,I want to ask questions about the Moonstone Mask.,월장석 가면 여관에 대해 몇 가지 묻고 싶습니다.,m1q1a06malp,,[지능 보통],,,0,0
+17430,PC,Player Character,Me want some informations about Moonstone Mask.,월장석 가면 여관 얘기 좀 해 봐.,m1q1a06malp,,[지능 낮음],,,0,0
+17431,PC,Player Character,Goodbye.,안녕히 계세요.,m1q1a06malp,,,,,0,0
+17432,PC,Player Character,What do you know of the plague?,역병에 대해 아는 게 있나요?,m1q1a06malp,,[매력 중간/지능 중간],,,0,0
+17433,PC,Player Character,What kind of service is offered here?,여기는 어떤 서비스를 제공하죠?,m1q1a06malp,,[지능 보통],,,0,0
+17434,PC,Player Character,What can you tell me about the owner of this place?,이곳의 주인에 대해 말해 줄 수 있나요?,m1q1a06malp,,[매력 높음/지능 중간],,,0,0
+17435,PC,Player Character,You know anything about the bad plague?,"나쁜 역병, 뭔가 알아?",m1q1a06malp,,[매력 중간/지능 낮음],,,0,0
+17436,PC,Player Character,What they do here? What service you get?,여기서 뭐 해? 무슨 서비스 있어?,m1q1a06malp,,[지능 낮음],,,0,0
+17437,PC,Player Character,Know anything about owner here?,여기 주인에 대해 아는 거 있어?,m1q1a06malp,,[매력 높음/지능 낮음],,,0,0
+17438,PC,Player Character,What do you know about attempts at a cure?,치료법을 찾으려는 시도들에 대해 아는 게 있나요?,m1q1a06malp,,[지능 보통],,,0,0
+17439,PC,Player Character,You know about cure attempts maybe?,"치료 시도, 혹시 알아?",m1q1a06malp,,[지능 낮음],,,0,0
+17440,PC,Player Character,I want to ask something else.,다른 걸 묻고 싶네요.,m1q1a06malp,,[지능 보통],,,0,0
+17441,PC,Player Character,Me ask different questions.,다른 거 물어볼래.,m1q1a06malp,,[지능 낮음],,,0,0
+17442,PC,Player Character,I don't work here. I've questions about the Moonstone Mask.,여기 직원이 아닙니다. 월장석 가면 여관에 대해 물을 게 있어요.,m1q1a06malp,,[지능 보통],,,0,0
+17443,PC,Player Character,Me not work here. Me gots questions about Moonstone Mask.,나 여기 사람 아냐. 월장석 가면 여관 물을 게 있어.,m1q1a06malp,,[지능 낮음],,,0,0
+17444,PC,Player Character,"I am not here for your amusement, dog!","난 네 장난감이 아니야, 이 개자식!",m1q1a06malp,,[지능 보통],,,0,0
+17445,PC,Player Character,"Me not here for you, jerk.","나 놀아 주러 온 거 아냐, 이 바보야.",m1q1a06malp,,[지능 낮음],,,0,0
+17446,PC,Player Character,Farewell.,안녕히 계세요.,m1q1a06malp,,[지능 보통],,,0,0
+17447,PC,Player Character,Bye bye.,잘 있어.,m1q1a06malp,,[지능 낮음],,,0,0
+17448,PC,Player Character,<StartCheck>[Persuade]</Start> What did you almost say? You can tell me.,<StartCheck>[설득]</Start> 방금 하려던 말이 뭐였죠? 말해도 됩니다.,m1q1a06malp,,[지능 보통],,,0,0
+17449,PC,Player Character,"<StartCheck>[Persuade]</Start> What you almost say? Tell me, 's okay.",<StartCheck>[설득]</Start> 방금 뭐 말하려 했어? 말해도 돼.,m1q1a06malp,,[지능 낮음],,,0,0
+17450,PC,Player Character,"<StartCheck>[Flirt]</Start> Come now, you can tell little old me. Can't you?",<StartCheck>[유혹]</Start> 나한테만 살짝 말해 주지 않겠어요?,m1q1a06malp,,mcsgenderfintn,,,0,0
+17451,PC,Player Character,"<StartCheck>[Flirt]</Start> Maybe yous can tell me? Hmmm, pretty boy?","<StartCheck>[유혹]</Start> 나한테만 살짝 말해줄래, 음? 잘생긴 아가야?",m1q1a06malp,,mcsgenderfintl,,,0,0
+17452,PC,Player Character,"Tell me, or I twist your head off!",말해! 아니면 네 목을 비틀어 버릴 테니까!,m1q1a06malp,,[지능 보통],,,0,0
+17453,PC,Player Character,"You tell me, or me break yous head!",말해! 안 그러면 네 대가리 깨버린다!,m1q1a06malp,,[지능 낮음],,,0,0
+17454,PC,Player Character,<StartCheck>[Insight]</Start> Doesn't the plague discourage... close contact?,<StartCheck>[통찰]</Start> 역병 때문에... 가까운 접촉은 꺼려지지 않나요?,m1q1a06malp,,nw_d2_wis_intn,,,0,0
+17455,PC,Player Character,A den of sin. It has no place in a moral city!,타락의 소굴이군. 도덕적인 도시엔 있을 곳이 아니다!,m1q1a06malp,,[지능 보통],,,0,0
+17456,PC,Player Character,This a bad place! No good for good city!,여기 나쁜 데야! 착한 도시엔 안 맞아!,m1q1a06malp,,[지능 낮음],,,0,0
+56980,PC,Player Character,I could get you banned from this place. You should pay me not to.,당신을 이곳에서 출입 금지시킬 수 있어요. 그러지 않게 돈 내는 게 좋을 거예요.,m1q1a06malp,,[지능 보통],,,0,0
+56981,PC,Player Character,Maybe I get you banned out of here. Maybe you pay me not to.,어쩌면 나 너 여기서 쫓아내게 할 수 있어. 안 그러면 돈 내.,m1q1a06malp,,[지능 낮음],,,0,0
+56982,PC,Player Character,Give me gold now now or I'll yell that you've got the plague!,"지금 당장 돈 내, 안 그러면 네가 역병에 걸렸다고 소리칠 거야!",m1q1a06malp,m1q1_evil_set,[지능 보통],,,0,0
+56983,PC,Player Character,You give me gold nows or me yells that you sick with plague thingy!,"너 지금 돈 내, 안 그러면 나 너 역병 걸렸다고 소리칠 거야!",m1q1a06malp,m1q1_evil_set,[지능 낮음],,,0,0

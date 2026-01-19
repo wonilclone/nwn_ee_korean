@@ -1,0 +1,76 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+27196,Creature,Lady Jadale,Oh! I wasn't expecting any visitors. Are you here to see my husband? I'm afraid he's out of the city right now.,어머! 손님이 오실 줄 몰랐어요. 남편을 만나러 오신 건가요? 아쉽게도 지금 도시를 비우셨는데.,2Q4A_JADALE,,,,vs_nnwnobf2_050,0,0
+27197,Creature,Lady Jadale,Fare you well. Perhaps we'll speak again.,안녕히 가세요. 다음에 또 이야기해요.,2Q4A_JADALE,,,,,0,0
+27198,Creature,Lady Jadale,"Yes, yes. On your way, then.","네, 네. 그럼 가세요.",2Q4A_JADALE,,,,,0,0
+27199,Creature,Lady Jadale,Begone and good riddance.,꺼져요. 잘됐네.,2Q4A_JADALE,,,,,0,0
+27200,Creature,Lady Jadale,Mmm. I see.,음. 알겠어요.,2Q4A_JADALE,,,,,0,0
+27201,Creature,Lady Jadale,I'd be delighted to answer your questions. What do you wish?,기꺼이 질문에 답해 드릴게요. 뭘 원하세요?,2Q4A_JADALE,,,,,0,0
+27202,Creature,Lady Jadale,"*Sigh* You came in my home to question me? All right, go ahead.","(한숨) 남의 집에 들어와서 심문하시겠다고요? 좋아요, 어서 해봐요.",2Q4A_JADALE,,,,,0,0
+27203,Creature,Lady Jadale,"I'd rather you left my home, please. I didn't invite you, after all. So, if there's nothing pressing... ",제 집에서 나가 주시면 좋겠어요. 초대한 적도 없잖아요. 급한 일이 아니라면...,2Q4A_JADALE,,,,,0,0
+27204,Creature,Lady Jadale,"Welcome to my home. Is there something I can do for you, <sir/madam>?",제 집에 오신 걸 환영해요. 도와드릴 일이 있나요?,2Q4A_JADALE,,,,vs_nnwnobf2_051,0,0
+27205,Creature,Lady Jadale,I don't remember inviting you into my home. What do you want?,제 집에 초대한 기억이 없는데요. 뭘 원하세요?,2Q4A_JADALE,,,,vs_nnwnobf2_052,0,0
+27206,Creature,Lady Jadale,"I am the Lady Jadale. My husband is out of the city, right now, however. Is there something I can do for you?",전 자데일 부인이에요. 하지만 남편은 지금 도시를 비우셨어요. 도와드릴 일이 있나요?,2Q4A_JADALE,,,,,0,0
+27207,Creature,Lady Jadale,"You know about the ring Erbie gave me? Oh... Erbie must have sent you, I guess. Well I don't think what he's asking is very fair!","어브가 준 반지 얘기를 아세요? 아... 어브가 보낸 거군요. 글쎄요, 그 사람 요구는 공평하지 않다고 생각해요!",2Q4A_JADALE,,,,,0,0
+27208,Creature,Lady Jadale,"Erbie's just being silly. He gave me his ring because he loves me, and I'm not giving it back because that hasn't changed!","어브는 그냥 바보같이 구는 거예요. 절 사랑해서 반지를 줬고, 그건 변하지 않았으니 돌려주지 않을 거예요!",2Q4A_JADALE,nw_d1_j_fetch08,,,,0,0
+27209,Creature,Lady Jadale,Again? (sigh) We already talked about this. I don't know why you insist on hounding me.,또요? (한숨) 이미 그 얘기 했잖아요. 왜 자꾸 졸라대시는지 모르겠네요.,2Q4A_JADALE,,,,,0,0
+27210,Creature,Lady Jadale,Why would you want to do that? I gave Erbie's ring to you already.,왜 그러시려고요? 어브의 반지는 이미 드렸잖아요.,2Q4A_JADALE,,,,,0,0
+27211,Creature,Lady Jadale,"Now, if there's nothing else I can do for you... ","이제, 더 도와드릴 일이 없다면...",2Q4A_JADALE,,,,,0,0
+27212,Creature,Lady Jadale,Oh... but I don't have Erbie's ring anymore.,아... 하지만 어브의 반지는 더 이상 없어요.,2Q4A_JADALE,,,,,0,0
+27213,Creature,Lady Jadale,I gave it to someone else already. I'm sorry. Is there something else you wanted?,다른 사람한테 이미 줬어요. 죄송해요. 다른 건 없으세요?,2Q4A_JADALE,,,,,0,0
+27214,Creature,Lady Jadale,"I suppose there's no harm in that... it is just a nice bauble, after all. Fine... you want the ring? I'll sell it to you. For 1000 gp.",그래도 괜찮겠죠... 그냥 예쁜 장신구일 뿐이니까요. 좋아요... 반지를 원하세요? 팔게요. 금화 1000에.,2Q4A_JADALE,,,,,0,0
+27215,Creature,Lady Jadale,What?! How dare you speak so to a lady! You take that back right now or I'll have my guards throw you out of here!,"뭐라고요?! 감히 귀부인한테 그런 말을! 당장 취소하세요, 안 그러면 경비원들한테 쫓아내게 할 거예요!",2Q4A_JADALE,,,,,0,0
+27216,Creature,Lady Jadale,"<StartCheck>[Success]</Start> Oh, all right. I don't really want it around anymore, anyhow... it would just remind me of Erbie.","<StartCheck>[성공]</Start> 아, 좋아요. 어차피 더 이상 갖고 있기도 싫었어요... 어브 생각만 날 테니까.",2Q4A_JADALE,nw_d1_j_fetch11,,,,0,0
+27217,Creature,Lady Jadale,"<StartCheck>[Success]</Start> *Sigh* How about 400 gp, then?","<StartCheck>[성공]</Start> (한숨) 그럼 금화 400은 어때요?",2Q4A_JADALE,,,,,0,0
+27218,Creature,Lady Jadale,"<StartCheck>[Failure]</Start> Hmph. The price is 1000 gp. If you don't like it, then you know where the door is.","<StartCheck>[실패]</Start> 흥. 가격은 금화 1000이에요. 싫으시면 문이 어딘지 아시잖아요.",2Q4A_JADALE,,,,,0,0
+27219,Creature,Lady Jadale,Just give me a moment... ,잠깐만요...,2Q4A_JADALE,,,,,0,0
+27220,Creature,Lady Jadale,"Hmph. You want it that badly, then fine... though I doubt Erbie will pay you that much for it. But I don't care what he does anymore.","흥. 그렇게 원하시면 좋아요... 어브가 그만큼 주진 않을 것 같지만. 뭐, 그 사람이 뭘 하든 이제 상관없어요.",2Q4A_JADALE,,,,,0,0
+27221,Creature,Lady Jadale,"No, I'm not... ! (sigh) Fine. I don't really want this thing around anyhow. 250 gold pieces and it's yours.","아뇨, 전...! (한숨) 좋아요. 어차피 이거 갖고 있기도 싫었어요. 금화 250에 드릴게요.",2Q4A_JADALE,,,,,0,0
+27223,Creature,Lady Jadale,"I'm not going to sell it, if that's what you mean. There is no price you can put on my love for Erbie!",팔진 않을 거예요. 어브에 대한 제 사랑에는 가격을 매길 수 없어요!,2Q4A_JADALE,,,,,0,0
+27224,Creature,Lady Jadale,"Well! I suppose you are out of luck, then. The price is 1000 gold, no lower.","그래요! 그럼 운이 없으신 거네요. 가격은 금화 1000이고, 더 내리진 않을 거예요.",2Q4A_JADALE,,,,,0,0
+27225,Creature,Lady Jadale,"Hmph. You don't even have that little bit of gold? Are you a pauper? Anyway... the price isn't going any lower. It is my ring, after all.","흥. 그 정도 금화도 없으세요? 거지예요? 어쨌든... 더 내리진 않을 거예요. 제 반지잖아요.",2Q4A_JADALE,,,,,0,0
+27226,Creature,Lady Jadale,"Well if you don't even have 400 gold to spare, I can't help you. Haggle all you want, that's as low as I'll go.","금화 400도 없으시다면, 도와드릴 수가 없네요. 아무리 깎으셔도, 이게 최저예요.",2Q4A_JADALE,,,,,0,0
+27227,Creature,Lady Jadale,Here it is. Take it and go... I'm sure we don't have anything else to discuss.,여기요. 가져가시고 나가세요... 더 할 얘기는 없을 거예요.,2Q4A_JADALE,nw_d1_j_fetch09,,,,0,0
+27228,Creature,Lady Jadale,What -? Where is it? My ring is gone! I've been robbed!!!,뭐...? 어디 갔어? 반지가 없어졌어! 도둑 맞았어!!!,2Q4A_JADALE,nw_d1_j_fetch13,,,,0,0
+27229,Creature,Lady Jadale,"You! You were involved in this, weren't you?! Erbie sent you to distract me so someone else could steal it!","당신! 당신도 한패죠?! 어브가 당신을 보내서 날 정신 팔리게 하고 다른 사람이 훔치게 했구나!",2Q4A_JADALE,,,,,0,0
+27230,Creature,Lady Jadale,"For all I know, Erbie may not even have sent you! Well... I'm going to teach you a lesson! I'm keeping your gold!","어쩌면 어브가 보낸 것도 아닐지 몰라! 좋아요... 혼내줄게요! 당신 금화는 내가 가질 거예요!",2Q4A_JADALE,,,,,0,0
+27231,Creature,Lady Jadale,Fine! Now get out of my home. I'm sure you know where the door is.,좋아요! 이제 제 집에서 나가세요. 문이 어딘지 아시잖아요.,2Q4A_JADALE,2q4_jadale09,,,,0,0
+27232,Creature,Lady Jadale,How dare you threaten me after all this! I'll teach you a lesson you won't soon forget! Guards!!,이 모든 일 후에 감히 나를 협박해?! 절대 잊지 못할 교훈을 줄 테야! 경비원!!,2Q4A_JADALE,2q4_hostile_jad,,,,0,0
+27233,Creature,Lady Jadale,Fair? Don't talk to me about fair! I've just been robbed of my precious ring - and I know you were involved somehow!,공평? 공평 타령 하지 마세요! 소중한 반지를 막 도둑맞았는데요 - 당신도 어떻게든 연루된 거 알아요!,2Q4A_JADALE,,,,,0,0
+27234,Creature,Lady Jadale,Talk about what? I don't think there's anything to discuss.,무슨 얘기요? 논의할 게 없는 것 같은데요.,2Q4A_JADALE,,,,,0,0
+27235,Creature,Lady Jadale,You... you must be joking! I've never heard of such a thing!,당신... 농담하시는 거죠! 그런 건 들어본 적도 없어요!,2Q4A_JADALE,,,,,0,0
+27236,Creature,Lady Jadale,"Well, I don't think that's very funny.","글쎄요, 별로 재미없는 것 같은데요.",2Q4A_JADALE,,,,,0,0
+27237,Creature,Lady Jadale,<StartCheck>[Success]</Start> Oh no! I... I... you can have the ring! I didn't mean to do anything wrong!,<StartCheck>[성공]</Start> 맙소사! 저... 저... 반지 가지세요! 나쁜 짓을 하려던 게 아니에요!,2Q4A_JADALE,2q4_jadale07,,,,0,0
+27238,Creature,Lady Jadale,<StartCheck>[Failure]</Start> That's the most absurd thing I've ever heard. I don't believe for a second that you're with the garrison!,<StartCheck>[실패]</Start> 지금까지 들어본 것 중 제일 황당해요. 당신이 수비대 소속이라는 거 1초도 안 믿어요!,2Q4A_JADALE,,,,,0,0
+27239,Creature,Lady Jadale,<StartCheck>[Success]</Start> What?! But... what does that mean?,"<StartCheck>[성공]</Start> 뭐라고요?! 하지만... 그게 무슨 뜻이에요?",2Q4A_JADALE,,,,,0,0
+27240,Creature,Lady Jadale,"<StartCheck>[Failure]</Start> Don't be absurd! Even if such a law existed, it wouldn't matter *now,* with all this fighting.","<StartCheck>[실패]</Start> 말도 안 돼요! 그런 법이 있다고 해도, 이렇게 싸움이 벌어지고 있는 *지금*은 상관없잖아요.",2Q4A_JADALE,,,,,0,0
+27241,Creature,Lady Jadale,"<StartCheck>[Success]</Start> Oh no! My poor Erbie! All right, then, have it your way! You can have the ring... you leave him alone!","<StartCheck>[성공]</Start> 맙소사! 불쌍한 어브! 좋아요, 당신 뜻대로 해요! 반지 가져가요... 어브는 건드리지 마세요!",2Q4A_JADALE,2q4_jadale07,,,,0,0
+27242,Creature,Lady Jadale,"<StartCheck>[Success]</Start> Oh, that's fine! My husband has plenty of coin, he... oh. Wait. (sigh) That won't work.","<StartCheck>[성공]</Start> 아, 괜찮아요! 남편이 돈이 많아서, 그가... 아. 잠깐. (한숨) 그건 안 되겠네.",2Q4A_JADALE,,,,,0,0
+27243,Creature,Lady Jadale,I guess... I guess I shall have to return the ring.,그러면... 그러면 반지를 돌려줘야겠네요.,2Q4A_JADALE,2q4_jadale07,,,,0,0
+27244,Creature,Lady Jadale,<StartCheck>[Success]</Start> I... guess you're right. That wasn't very nice of him.,<StartCheck>[성공]</Start> 저... 맞는 것 같아요. 그 사람 참 못됐네요.,2Q4A_JADALE,2q4_jadale02,,,,0,0
+27245,Creature,Lady Jadale,"I should keep the ring, then. It's pretty... and that pig of a gnome doesn't deserve it back!","그럼 반지는 내가 갖고 있어야겠어요. 예쁘잖아요... 그 돼지 같은 노움은 돌려받을 자격이 없어요!",2Q4A_JADALE,,,,,0,0
+27246,Creature,Lady Jadale,"Oh, if he even notices it at all. First he would have to come home. Hmph. Erbie is just over-reacting.","아, 남편이 알아채기나 하려나. 일단 집에 와야 할 텐데. 흥. 어브는 그냥 과민반응하는 거예요.",2Q4A_JADALE,,,,,0,0
+27247,Creature,Lady Jadale,I don't know. Maybe he loves me so much that it scares him? Erbie is so sweet.,모르겠어요. 아마 너무 사랑해서 무서운 거 아닐까요? 어브는 참 다정해요.,2Q4A_JADALE,,,,,0,0
+27248,Creature,Lady Jadale,"That's very rude of you, you know.",참 무례하시네요.,2Q4A_JADALE,,,,,0,0
+27249,Creature,Lady Jadale,"<StartCheck>[Success]</Start> You're right. It's a gaudy thing, anyway. I'll give you the ring, then, if you'll throw it in his face.","<StartCheck>[성공]</Start> 맞아요. 어차피 촌스러운 물건이에요. 그럼 반지 드릴게요, 그 사람 얼굴에 던져주세요.",2Q4A_JADALE,2q4_jadale07,,,,0,0
+27250,Creature,Lady Jadale,"<StartCheck>[Failure]</Start> Hah! I get expensive gifts all the time from my husband, don't I? The ring is mine, now.","<StartCheck>[실패]</Start> 하! 남편한테 비싼 선물 늘 받잖아요, 안 그래요? 반지는 이제 제 거예요.",2Q4A_JADALE,,,,,0,0
+27251,Creature,Lady Jadale,"Well, no... no, of course I don't want Erbie hurt!","글쎄, 아뇨... 아뇨, 당연히 어브가 다치는 건 원치 않아요!",2Q4A_JADALE,,,,,0,0
+27252,Creature,Lady Jadale,"<StartCheck>[Success]</Start> He... doesn't? But, I... oh! There's someone else, isn't there? He wants to... give the ring to someone else! That pig!","<StartCheck>[성공]</Start> 그가... 안 그렇다고요? 하지만, 저는... 아! 다른 여자가 있죠? 반지를... 다른 여자한테 주려는 거죠! 이 돼지 같으니!",2Q4A_JADALE,2q4_jadale02,,,,0,0
+27253,Creature,Lady Jadale,<StartCheck>[Failure]</Start> Oh piffle! I don't believe you. Erbie loves me!,<StartCheck>[실패]</Start> 웃기고 있네요! 안 믿어요. 어브는 날 사랑해요!,2Q4A_JADALE,,,,,0,0
+27254,Creature,Lady Jadale,"<StartCheck>[Success]</Start> I don't want Erbie thinking that, no! I... all right, I'll give his ring back.","<StartCheck>[성공]</Start> 어브가 그렇게 생각하는 건 싫어요! 저는... 좋아요, 반지 돌려줄게요.",2Q4A_JADALE,2q4_jadale07,,,,0,0
+27255,Creature,Lady Jadale,"<StartCheck>[Failure]</Start> Well, he's being silly then. He should know better. I love Erbie and Erbie loves me and that's that!","<StartCheck>[실패]</Start> 글쎄, 그건 바보 같은 생각이에요. 더 잘 알아야지. 난 어브를 사랑하고 어브도 날 사랑해요. 그게 전부예요!",2Q4A_JADALE,,,,,0,0
+27256,Creature,Lady Jadale,Then get out! This conversation is over!,그럼 나가세요! 대화는 끝이에요!,2Q4A_JADALE,2q4_jadale09,,,,0,0
+27257,Creature,Lady Jadale,That's better. And you can take the damned ring! I don't want it anymore.,그게 낫네요. 그 망할 반지 가져가세요! 더 이상 원치 않아요.,2Q4A_JADALE,2q4_jadale07,,,,0,0
+27258,Creature,Lady Jadale,That's better.,그게 낫네요.,2Q4A_JADALE,,,,,0,0
+27259,Creature,Lady Jadale,"Aieee! Thug! Ruffian!! Guards, help me!!","악! 깡패! 불량배!! 경비원, 도와줘요!!",2Q4A_JADALE,2q4_hostile_jad,,,,0,0
+27260,Creature,Lady Jadale,"I... I... fine! If Erbie wants to send some brutish <man/woman> to steal my ring, then you can have it!","저... 저... 좋아요! 어브가 무식한 놈을 보내서 반지를 훔치려 한다면, 가져가요!",2Q4A_JADALE,2q4_jadale07,,,,0,0
+27261,Creature,Lady Jadale,"I... I... fine! If Erbie wants to send some brutish <man/woman> to steal my ring, then you can have it!","저... 저... 좋아요! 어브가 무식한 놈을 보내서 반지를 훔치려 한다면, 가져가요!",2Q4A_JADALE,2q4_jadale07,,,,0,0
+27262,Creature,Lady Jadale,Hmph. Are you going to apologize or not?,"흥. 사과할 거예요, 안 할 거예요?",2Q4A_JADALE,,,,,0,0
+27263,Creature,Lady Jadale,What -? Where is it? My ring is gone! I've been robbed!!!,뭐...? 어디 갔어? 반지가 없어졌어! 도둑 맞았어!!!,2Q4A_JADALE,nw_d1_j_fetch13,,,,0,0
+27264,Creature,Lady Jadale,"You! You were involved in this, weren't you?! Erbie sent you to distract me so someone else could steal it!","당신! 당신도 한패죠?! 어브가 당신을 보내서 날 정신 팔리게 하고 다른 사람이 훔치게 했구나!",2Q4A_JADALE,,,,,0,0
+27265,Creature,Lady Jadale,"For all I know, Erbie may not even have sent you! You could be some... some thief <man/woman>!","어쩌면 어브가 보낸 것도 아닐지 몰라! 당신은 그냥... 그냥 도둑놈일지도!",2Q4A_JADALE,,,,,0,0
+27266,Creature,Lady Jadale,"Well, I'm going to teach you a lesson! Guards!!","좋아요, 혼내줄게요! 경비원!!",2Q4A_JADALE,,,,,0,0
+27267,Creature,Lady Jadale,I really don't know. It's all such a big mess. My husband had to go out of town on business when it started... I'm sure he'll explain it to me when he comes back.,정말 모르겠어요. 너무 엉망진창이에요. 남편이 사태가 시작될 때 사업차 도시를 떠나셨어요... 돌아오시면 설명해 주실 거예요.,2Q4A_JADALE,,,,,0,0
+27268,Creature,Lady Jadale,"Well... a good lady-friend of mine wanted to start a cult to Sune, once. Does that count?","글쎄요... 친한 친구 중 한 명이 예전에 수니 교단을 만들고 싶어 한 적 있어요. 그것도 해당돼요?",2Q4A_JADALE,,,,,0,0
+27269,Creature,Lady Jadale,"(giggle!) I really don't know my way around the city. My coachman would know... but he was killed days ago, alas.","(킥킥!) 전 정말 도시 지리를 잘 몰라요. 마부가 알겠지만... 아쉽게도 며칠 전에 죽었어요.",2Q4A_JADALE,,,,,0,0
+40689,Creature,Lady Jadale,Lady Jadale,자데일 부인,2Q4A_JADALE,,,,,0,0
+65351,Creature,Lady Jadale,"I said we didn't have anything more to discuss, didn't I? I assume you know where the door is?","더 할 얘기 없다고 말씀드렸을텐데요? 문이 어딘지는 아시겠죠?",2Q4A_JADALE,,,,,0,0

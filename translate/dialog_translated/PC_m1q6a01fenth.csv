@@ -1,0 +1,39 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+25571,PC,Player Character,Goodbye.,그럼 이만.,m1q6a01fenth,,,,,0,0
+25572,PC,Player Character,What will happen during this ritual?,이 의식에서 무슨 일이 일어나?,m1q6a01fenth,,[지능 보통],,,0,0
+25573,PC,Player Character,I have questions about your fellows.,네 동료들에 대해 물어보고 싶어.,m1q6a01fenth,,[지능 보통],,,0,0
+25574,PC,Player Character,What gonna happen in spell?,그 주문에서 뭐 일어나?,m1q6a01fenth,,[지능 낮음],,,0,0
+25575,PC,Player Character,Me gots questions about other peoples here.,여기 다른 사람들 얘기 물어볼 거 있어.,m1q6a01fenth,,[지능 낮음],,,0,0
+25576,PC,Player Character,I was happy to be part of the team. ,팀의 일원이 되어 기뻤어.,m1q6a01fenth,,[지능 보통],,,0,0
+25577,PC,Player Character,Me glad to work with everyone.,다 같이 일해서 좋았어.,m1q6a01fenth,,[지능 낮음],,,0,0
+25578,PC,Player Character,How is Lord Nasher faring?,나셰르 영주님은 어떠신가요?,m1q6a01fenth,,[지능 보통],,,0,0
+25579,PC,Player Character,Lord Nasher okay? How he doing?,나셰르 영주님 괜찮아? 상태 어때?,m1q6a01fenth,,[지능 낮음],,,0,0
+25580,PC,Player Character,Why you kinda stop saying something? What you not say?,왜 말하다가 멈췄어? 뭐 안 말한 거 있어?,m1q6a01fenth,,[지능 낮음],,,0,0
+25581,PC,Player Character,Why did you hesitate to tell me something?,왜 무언가를 말하기를 망설였죠?,m1q6a01fenth,,[지능 보통],,,0,0
+25582,PC,Player Character,What form will the cure take?,치료제는 어떤 형태가 되는거죠?,m1q6a01fenth,,[지능 보통],,,0,0
+25583,PC,Player Character,What the cure gonna look like? Shiny?,치료제 어떻게 생겨? 반짝거려?,m1q6a01fenth,,[지능 낮음],,,0,0
+25584,PC,Player Character,Let's go back to my other questions.,다른 질문으로 돌아가자.,m1q6a01fenth,,[지능 보통],,,0,0
+25585,PC,Player Character,We maybe go back to other questions?,다른 질문으로 다시 갈까?,m1q6a01fenth,,[지능 낮음],,,0,0
+25586,PC,Player Character,Will your relationship with Aribeth improve now?,이제 아리베스와의 관계가 나아질까요?,m1q6a01fenth,,[지능 보통],,,0,0
+25587,PC,Player Character,You maybe get along better with Aribeth now?,이제 아리베스랑 더 잘 지내?,m1q6a01fenth,,[지능 낮음],,,0,0
+25588,PC,Player Character,Desther will not create the cure alone. Others are involved.,데스터 혼자 치료약을 만드는 게 아냐. 다른 사람들도 연루되어 있어.,m1q6a01fenth,,[지능 보통],,,0,0
+25589,PC,Player Character,Desther not make cure by himself. Others is helping.,데스터 혼자 치료제 못 만들어. 다른 사람들이 돕고 있어.,m1q6a01fenth,,[지능 낮음],,,0,0
+25590,PC,Player Character,I did the important part. Desther sat on his hands.,중요한 일은 내가 했습니다. 데스터는 손 놓고 있었죠.,m1q6a01fenth,,[지능 보통],,,0,0
+25591,PC,Player Character,Me did important stuff. Desther just talk lots.,나 중요한 거 했어. 데스터는 말만 많았어.,m1q6a01fenth,,[지능 낮음],,,0,0
+25592,PC,Player Character,<StartCheck>[Persuade]</Start> You can tell me. I've proven myself trustworthy.,<StartCheck>[설득]</Start> 말해도 돼. 난 충분히 신뢰할 만하다는 걸 증명했잖아.,m1q6a01fenth,,[지능 보통],,,0,0
+25593,PC,Player Character,<StartCheck>[Persuade]</Start> It okay to tell me. Ain't me proven good to trust?,"<StartCheck>[설득]</Start> 내게 말해도 돼. 나 믿을 만하단 거 증명했잖아, 안 그래?",m1q6a01fenth,,[지능 낮음],,,0,0
+25594,PC,Player Character,"I am <race>, just as you are. I'll understand.",나는 너처럼 <race>야. 이해할 거야.,m1q6a01fenth,,nw_d2_racesmi_n,,,0,0
+25595,PC,Player Character,We both <race> kind. Me understand good.,우리 둘 다 <race>야. 나 잘 이해해.,m1q6a01fenth,,nw_d2_racesmi_l,,,0,0
+25596,PC,Player Character,Tell me or I'll rip your head off!,말 안 하면 머리통 뜯어버린다!,m1q6a01fenth,,[지능 보통],,,0,0
+25597,PC,Player Character,You tells or me smash you flat!,"말해, 아니면 널 납작하게 으깨버릴 거야!",m1q6a01fenth,,[지능 낮음],,,0,0
+25598,PC,Player Character,Have you done something to help him?,그를 돕기 위해 뭔가 했어?,m1q6a01fenth,,[지능 보통],,,0,0
+25599,PC,Player Character,You done something to help him somehow?,그를 돕게 뭐 한 거 있어?,m1q6a01fenth,,[지능 낮음],,,0,0
+25600,PC,Player Character,Is there precedent for this? Will it work?,전례가 있는 일이에요? 이게 통할까요?,m1q6a01fenth,,[지능 보통],,,0,0
+25601,PC,Player Character,You understand it? It really work like that?,그거 이해해? 진짜 그렇게 돼?,m1q6a01fenth,,[지능 낮음],,,0,0
+25602,PC,Player Character,Doesn't that leave the castle unprotected?,그러면 성이 무방비 상태가 되는 거 아냐?,m1q6a01fenth,,[지능 보통],,,0,0
+25603,PC,Player Character,That not make Castle Never weaker?,그럼 네버 성 더 약해지는 거 아냐?,m1q6a01fenth,,[지능 낮음],,,0,0
+25604,PC,Player Character,What would Aribeth think of this?,아리베스는 이걸 어떻게 생각할까?,m1q6a01fenth,,[지능 보통],,,0,0
+25605,PC,Player Character,"What Aribeth think of this, hmm? You not tell her?","아리베스 이거 뭐라 생각해, 흠? 그녀한테 말 안 했어?",m1q6a01fenth,,[지능 낮음],,,0,0
+25606,PC,Player Character,<StartCheck>[Insight]</Start> Perhaps you see what you want to see.,<StartCheck>[통찰]</Start> 아무래도 당신은 보고 싶은 것만 보고있는 것 같군요.,m1q6a01fenth,,nw_d2_wis_intn,,,0,0
+25607,PC,Player Character [M1Q5A01],You keep secrets from her. That isn't a clue?,넌 그녀한테 비밀을 숨기고 있어. 그게 단서가 아니야?,m1q6a01fenth,,m1q5a01aribclg04,[M1Q5A01],,0,0
+25608,PC,Player Character [M1Q5A01],Yous keep secrets from her. You being dumb.,너 그녀한테 비밀 숨겨. 멍청한 거 아냐.,m1q6a01fenth,,m1q5a01aribclg05,[M1Q5A01],,0,0

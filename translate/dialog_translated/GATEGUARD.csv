@@ -1,0 +1,74 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+16991,Dialog,GATEGUARD,Hold! Passage from the city of Neverwinter is forbidden. We cannot risk the plague being spread to the surrounding countryside.,멈춰라! 네버윈터에서 나가는 건 금지다. 역병이 주변 지역으로 퍼질 위험을 감수할 순 없소.,M1Q1A05GATEGUARD,,,,vs_nnwgrdm3_050,0,0
+16992,Dialog,GATEGUARD,"Well met, citizen.",반갑소 시민.,M1Q1A05GATEGUARD,,,,,0,0
+16993,Dialog,GATEGUARD,No one has exited the city recently. I would not allow it. The danger to the outside lands is too great.,최근 도시를 나간 사람은 없소. 허락하지 않았으니까. 바깥 지역이 너무 위험해지오.,M1Q1A05GATEGUARD,,,,,0,0
+16994,Dialog,GATEGUARD,"I don't care if you're the bloody avatar of Ilmater himself, you're not getting through this gate. Nobody passes this point until a cure is found.","당신이 일메이터의 화신이라 해도 소용없소. 이 문은 못 지나가오. 치료법이 나올 때까지 아무도 못 나가오.",M1Q1A05GATEGUARD,,,,,0,0
+16995,Dialog,GATEGUARD,"What, did you not understand what I just said? Passage outside if forbidden. That means no one, and I mean NO ONE gets out.","뭐 방금 한 말을 못 알아들었소? 외부 통행은 금지요. 아무도 절대로 아무도 못 나간다는 말이오.",M1Q1A05GATEGUARD,,,,,0,0
+16996,Dialog,GATEGUARD,I am trusted with the grave duty of keeping the whole of the North free of plague and you want to chat me up?,북부 전역을 역병으로부터 지키는 중대한 임무를 맡았는데 잡담이나 하자는 거요?,M1Q1A05GATEGUARD,,,,,0,0
+16997,Dialog,GATEGUARD,"Please, just leave me to my duty. I can't lose focus. I can't let anyone gain my favor. Everyone is to be treated the same. Nobody gets out.","제발 임무에 집중하게 해주시오. 한눈팔 수 없소. 누구에게도 봐줄 수 없소. 모두 똑같이 대해야 하오. 아무도 못 나가오.",M1Q1A05GATEGUARD,,,,,0,0
+16998,Dialog,GATEGUARD,"Er... I suppose I am not specifically restricted from letting people into the city. They are warned of the danger, but it is their risk to take.","어... 도시 안으로 들어오는 건 막으라는 명령은 없소. 위험은 경고하지만 그건 본인 책임이오.",M1Q1A05GATEGUARD,,,,,0,0
+16999,Dialog,GATEGUARD,"That being said, nobody has entered the city recently. In fact, I believe only Desther and his Helmite brethren have dared risk it, and that was shortly after the plague began.","그래도 최근 도시에 들어온 사람은 없소. 사실 데스터와 헬름 신도들만 위험을 무릅쓰고 들어왔소. 역병 초기였지.",M1Q1A05GATEGUARD,,,,,0,0
+17000,Dialog,GATEGUARD,"They have been tirelessly helping ever since. It's an astounding level of sacrifice for them to make, risking themselves like that.",그 뒤로 쉬지 않고 돕고 있소. 그렇게 몸을 던지다니 대단한 희생이오.,M1Q1A05GATEGUARD,,,,,0,0
+21168,Dialog,GATEGUARD,Greetings citizen. The Blacklake district has been cordoned off to everyone but the city guard and the nobility. ,반갑소 시민. 검은호수 지구는 경비대와 귀족 외에는 출입 통제요. ,M1Q3GATEGUARD,,,,,0,0
+21169,Dialog,GATEGUARD,Fare you well. Perhaps we'll speak again.,잘 가시오. 또 뵐지도 모르겠소.,M1Q3GATEGUARD,,,,,0,0
+21170,Dialog,GATEGUARD,"Yes, yes. On your way, then.","그래 그래. 가시오.",M1Q3GATEGUARD,,,,,0,0
+21171,Dialog,GATEGUARD,Begone and good riddance.,꺼져. 잘됐군.,M1Q3GATEGUARD,,,,,0,0
+21172,Dialog,GATEGUARD,"Sorry about that. I think I have heard about you, after all. The city guard has so many new recruits that it's all but impossible to keep track.","미안하오. 아 당신 얘기 들은 것 같소. 경비대에 신병이 하도 많아서 다 기억하기가 거의 불가능하오.",M1Q3GATEGUARD,m1_tlkinc,,,,0,0
+21173,Dialog,GATEGUARD,"Hmmph. The city guard has so many new recruits, I can't even keep up. I think I heard of you, though.","흠. 경비대에 신병이 너무 많아서 도저히 따라갈 수가 없소. 그래도 당신 얘기는 들은 것 같소.",M1Q3GATEGUARD,m1_tlkinc,,,,0,0
+21174,Dialog,GATEGUARD,"So you're one of those mercenaries under Aribeth? And they expect me to keep all these new recruits straight. Ahhhh, fine, fine, I guess you can pass.","아리베스 휘하 용병이오? 이 많은 신병을 다 파악하라니. 아아 알았소 알았소 지나가시오.",M1Q3GATEGUARD,m1_tlkinc,,,,0,0
+21175,Dialog,GATEGUARD,"Sorry. No tales of monsters running about the district. Not that I've heard, anyway. ","미안하오. 지구에서 괴물이 돌아다닌다는 얘긴 없소. 내가 듣기론. ",M1Q3GATEGUARD,,,,,0,0
+21176,Dialog,GATEGUARD,"Only that there was some accident when they were brought in, and now they're fled or lost or something. We aren't supposed to panic people by talking about that, though. ","데려올 때 사고가 났고 도망갔거나 잃어버렸다는 것만 들었소. 그런 얘기로 사람들 불안하게 하면 안 된다더군. ",M1Q3GATEGUARD,,,,,0,0
+21177,Dialog,GATEGUARD,"Well, there's that whole situation with Meldanen. Glad he isn't my problem. He's a strange one.","글쎄 멜다넨 건이 있긴 하오. 내 관할이 아니라 다행이지. 이상한 작자요.",M1Q3GATEGUARD,,,,,0,0
+21178,Dialog,GATEGUARD,"Do you have a speech impediment? Oh, nevermind.",말을 잘 못하는 거요? 아 됐소.,M1Q3GATEGUARD,,,,,0,0
+21179,Dialog,GATEGUARD,"He's one of the noblemen, supposedly a wizard. Scary reputation. I, uh... probably shouldn't say much more than that, though.","귀족 중 한 명인데 마법사라고 하오. 평판이 무섭소. 난 어... 이 이상은 말 안 하는 게 좋겠소.",M1Q3GATEGUARD,,,,,0,0
+21180,Dialog,GATEGUARD,"Hmph. It's just a district of rich nobles who aren't even suffering from the plague like the rest of the city. I wouldn't worry too much about them, myself.",흥. 도시 다른 곳처럼 역병에 시달리지도 않는 부자 귀족들 동네요. 난 그들 걱정은 안 하오.,M1Q3GATEGUARD,,,,,0,0
+21181,Dialog,GATEGUARD,You could always visit the zoo. It's run by some of the nobility and there is quite a selection of exotic animals. ,동물원에 가봐도 되오. 귀족들이 운영하는데 진귀한 동물이 꽤 있소. ,M1Q3GATEGUARD,,,,,0,0
+21182,Dialog,GATEGUARD,"<StartCheck>[Success]</Start> All right, I guess there's no harm. It's not like I'm going to be struck by a lightning bolt or anything, heh.","<StartCheck>[성공]</Start> 알았소 뭐 해될 건 없겠지. 번개 맞을 것도 아니고 허.",M1Q3GATEGUARD,,,,,0,0
+21183,Dialog,GATEGUARD,"<StartCheck>[Failure]</Start> Sorry, but I'm not risking that sorcerer finding out I've been chatting about him. Better a quiet mouse than a loud toad, you know.","<StartCheck>[실패]</Start> 미안하지만 그 마법사 귀에 내가 떠벌렸다는 게 들어가면 안 되오. 시끄러운 두꺼비보다 조용한 쥐가 낫다잖소.",M1Q3GATEGUARD,,,,,0,0
+21184,Dialog,GATEGUARD,"Well, it's not as if they come out to the gate to gossip with me and have tea, you know. Most of them are huddled in their big mansions terrified that the plague's going to enter Blacklake regardless of what we do.","글쎄 그들이 문 앞까지 와서 나랑 수다 떨고 차 마시는 건 아니잖소. 대부분 우리가 뭘 해도 역병이 들어올까 봐 큰 저택에 틀어박혀 벌벌 떨고 있소.",M1Q3GATEGUARD,,,,,0,0
+21185,Dialog,GATEGUARD,"Is there something else you need, then?","그럼 다른 건 없소?",M1Q3GATEGUARD,,,,,0,0
+21186,Dialog,GATEGUARD,"Acting strangely? Well... I suppose Meldanen would certainly qualify, although acting strange is nothing new for him. He's a wizard, they say... sort of an odd bird amongst the nobility.","이상하게 군다? 글쎄... 멜다넨이 딱 맞겠소. 그자한텐 이상한 게 평소지만. 마법사라던데... 귀족 중에서도 유별난 편이오.",M1Q3GATEGUARD,,,,,0,0
+21187,Dialog,GATEGUARD,"People have been saying that Meldanen's hoarding food. Some think that he should share some of it with the common folk. I don't know. I wouldn't go messing with Meldanen, myself. ","멜다넨이 식량을 쌓아두고 있다는 소문이 있소. 평민들한테 나눠야 한다는 사람도 있고. 모르겠소. 난 멜다넨은 건드리고 싶지 않소. ",M1Q3GATEGUARD,,,,,0,0
+21188,Dialog,GATEGUARD,I'm not really privy to that kind of information. I haven't a clue.,그런 건 잘 모르오. 전혀.,M1Q3GATEGUARD,,,,,0,0
+21189,Dialog,GATEGUARD,Something else?,다른 건?,M1Q3GATEGUARD,,,,,0,0
+21190,Dialog,GATEGUARD,"Yeah, sure, but what does that mean to me? That all happened in the City Core, long ways from here.","그래 그렇겠지만 나랑 무슨 상관이오? 그건 다 도시 중심부에서 일어난 일이오. 여기서 한참 떨어진.",M1Q3GATEGUARD,,,,,0,0
+21191,Dialog,GATEGUARD,I don't really want to talk about this anymore. It's not really my business. ,이 얘긴 더 하고 싶지 않소. 내 일이 아니오. ,M1Q3GATEGUARD,,,,,0,0
+21192,Dialog,GATEGUARD,"Stop right where you are, citizen. Commoners are not allowed to enter the Blacklake district. ","거기 서시오 시민. 평민은 검은호수 지구에 들어갈 수 없소. ",M1Q3GATEGUARD,,,,,0,0
+21193,Dialog,GATEGUARD,"Move along, you! The Blacklake district is off limits to all commoners. Especially filth like you.",저리 가! 검은호수 지구는 평민 출입 금지다. 특히 너 같은 쓰레기는.,M1Q3GATEGUARD,,,,,0,0
+21194,Dialog,GATEGUARD,"I suppose it wouldn't hurt to tell someone. Especially a pretty lass like yourself... Sune knows I don't, uh... well, nevermind.","뭐 말해도 해될 건 없겠지. 특히 당신처럼 예쁜 아가씨한테는... 수니 여신께서도 아시다시피 난 어... 글쎄 됐소.",M1Q3GATEGUARD,,,,,0,0
+21195,Dialog,GATEGUARD,I just heard that they're supposed to cure the plague or somesuch. I think it'd be a desperate fool who'd believe that. Monsters don't cure plagues.,역병을 치료할 수 있다느니 뭐라느니 들었소. 그걸 믿으면 바보요. 괴물이 역병을 고친다니.,M1Q3GATEGUARD,,,,,0,0
+21196,Dialog,GATEGUARD,Where do you need to go?,어디로 가려고 하오?,M1Q3GATEGUARD,,,,,0,0
+21197,Dialog,GATEGUARD,Make it quick.,빨리 하시오.,M1Q3GATEGUARD,,,,,0,0
+21198,Dialog,GATEGUARD,What else do you want to know?,또 뭘 알고 싶소?,M1Q3GATEGUARD,,,,,0,0
+21199,Dialog,GATEGUARD,"I wouldn't be surprised if you got lost often. Oh, nevermind.",자주 길 잃어도 이상하지 않겠소. 아 됐소.,M1Q3GATEGUARD,,,,,0,0
+21200,Dialog,GATEGUARD,Try the Board Laid Bare. It's just north of here and should have everything you need. ,적나라한 게시판에 가보시오. 여기서 바로 북쪽이고 필요한 건 다 있을 거요. ,M1Q3GATEGUARD,,,,,0,0
+21201,Dialog,GATEGUARD,There are no temples in the Blacklake district. Nobility doesn't have time to be pious. ,검은호수 지구엔 신전이 없소. 귀족들은 경건할 시간이 없거든. ,M1Q3GATEGUARD,,,,,0,0
+21202,Dialog,GATEGUARD,Not many shops in the area. Err... I guess you could try the Board Laid Bare. It's a tavern just north of here. ,이 근방엔 상점이 별로 없소. 어... 적나라한 게시판에 가보시오. 여기서 바로 북쪽에 있는 술집이오. ,M1Q3GATEGUARD,,,,,0,0
+21203,Dialog,GATEGUARD,You could always visit the zoo. It's run by some of the nobility and there is quite a selection of exotic animals. ,동물원에 가봐도 되오. 귀족들이 운영하는데 진귀한 동물이 꽤 있소. ,M1Q3GATEGUARD,,,,,0,0
+21204,Dialog,GATEGUARD,Is there something else?,다른 건?,M1Q3GATEGUARD,,,,,0,0
+21205,Dialog,GATEGUARD,Did you not hear what I said? Only guards and nobles are allowed into the Blacklake area. Period. Now begone.,내 말 못 들었소? 경비대와 귀족만 검은호수에 들어갈 수 있소. 끝. 가시오.,M1Q3GATEGUARD,,,,,0,0
+21206,Dialog,GATEGUARD,To keep the plague from reaching Neverwinter's most prominent citizens. So far we've been successful.,네버윈터의 명망 높은 시민들을 역병에서 지키려고요. 지금까진 성공적이오.,M1Q3GATEGUARD,,,,,0,0
+21207,Dialog,GATEGUARD,"That will change, of course, if we start letting every peasant that approaches the gate through. So return whence you came.","물론 문 앞에 오는 농민을 다 들여보내면 달라지겠지. 그러니 온 곳으로 돌아가시오.",M1Q3GATEGUARD,,,,,0,0
+21208,Dialog,GATEGUARD,(sigh) How do I explain this in the simplest fashion?,(한숨) 어떻게 하면 쉽게 설명할 수 있을까?,M1Q3GATEGUARD,,,,,0,0
+21209,Dialog,GATEGUARD,You must be pulling my leg. You're *<race>*... ,농담하시오? 당신은 *<race>*인데... ,M1Q3GATEGUARD,,,,,0,0
+21210,Dialog,GATEGUARD,"Right. Sorry to hold you up, <sir/madam>.","알겠소. 잡아둬서 미안하오 <sir/madam>.",M1Q3GATEGUARD,m1q3gategslg01,,,,0,0
+21211,Dialog,GATEGUARD,"Keep your tunic on, already.",진정하시오.,M1Q3GATEGUARD,m1q3gategslg01,,,,0,0
+21212,Dialog,GATEGUARD,Fine. Just don't make any trouble in the district.,알았소. 지구에서 말썽만 피우지 마시오.,M1Q3GATEGUARD,m1q3gategslg01,,,,0,0
+21213,Dialog,GATEGUARD,"But no... like I said, I've heard no stories of any strange monsters in Blacklake.","하지만 아니오... 말했듯이 검은호수에서 이상한 괴물 얘긴 들은 적 없소.",M1Q3GATEGUARD,,,,,0,0
+21214,Dialog,GATEGUARD,"Fact is, Meldanen's been hoarding food. Or so claims Formosa, one of the louder noblewomen in Blacklake.","사실 멜다넨이 식량을 쌓아두고 있소. 검은호수에서 제일 목청 큰 귀부인 포르모사가 그러더군.",M1Q3GATEGUARD,,,,,0,0
+21215,Dialog,GATEGUARD,"She says the food should be used to feed the city, wants to force the sorcerer to give it up. She's been stirring up quite a bit of trouble over it.","그 식량으로 도시 사람들을 먹여야 한다느니 마법사한테 내놓으라고 압박하겠다느니. 그 일로 소동을 꽤 벌이고 있소.",M1Q3GATEGUARD,,,,,0,0
+21216,Dialog,GATEGUARD,"If you want to know more about it, you should talk to Formosa. You'll hear her screeching soon enough, I'd think, if you go near the district's main square. I wouldn't mind someone trying to rein her in, myself. ","더 알고 싶으면 포르모사와 얘기해보시오. 지구 중앙 광장 근처에 가면 그녀 고함 소리가 바로 들릴 거요. 누가 좀 제어해줬으면 나도 좋겠소. ",M1Q3GATEGUARD,,,,,0,0
+21217,Dialog,GATEGUARD,Anything else you needed to know?,더 알아야 할 거 있소?,M1Q3GATEGUARD,,,,,0,0
+21218,Dialog,GATEGUARD,Although I did hear tell that old Samuel went missing last week. No trace of him. Poor sod probably fell into the lake.,그나저나 늙은 사무엘이 지난주에 실종됐다고 들었소. 흔적도 없고. 불쌍한 놈 호수에 빠졌나 보오.,M1Q3GATEGUARD,,,,,0,0
+21219,Dialog,GATEGUARD,"Oh, just one of the older guards. I hear Thurin's been looking for him, though. If you're really interested you could talk to him... he'll be patrolling about, no doubt.","아 나이든 경비 중 한 명이오. 투린이 찾고 있다던데. 관심 있으면 그한테 얘기해보시오... 순찰 중일 거요.",M1Q3GATEGUARD,,,,,0,0
+57110,Dialog,GATEGUARD,"Forgive me, lass, but I don't find your... interest... all that appealing. Let's discuss something else, hmm?","미안하오 아가씨 하지만 그런... 관심은... 별로 반갑지 않소. 다른 얘기 하는 게 어떻소?",M1Q3GATEGUARD,,,,,0,0
+57111,Dialog,GATEGUARD,"Ahh, it's not worth worrying about. He's been taken care of, I hear. He was the main problem in Blacklake, as far as I'm concerned. It's pretty quiet now.","아 걱정할 것 없소. 처리됐다고 들었소. 내가 보기엔 그자가 검은호수의 골칫덩이였소. 지금은 조용하오.",M1Q3GATEGUARD,,,,,0,0
+62822,Dialog,GATEGUARD,"Oh, the gate is already open. Just head on through.","아 문은 이미 열려 있소. 그냥 지나가시오.",M1Q3GATEGUARD,,,,,0,0
+62823,Dialog,GATEGUARD,"Patrolling the tavern, that is. The Board Laid Bare is where Thurin spends his off-hours.","술집 순찰 말이오. 적나라한 게시판이 투린이 쉬는 시간 보내는 곳이오.",M1Q3GATEGUARD,,,,,0,0
+62824,Dialog,GATEGUARD,"But, he's no longer a concern. I heard someone put him in his place, or something. The Blacklake is really quiet now.","하지만 그는 이제 걱정 없소. 누가 혼내줬다나 뭐라나 들었소. 검은호수는 지금 조용하오.",M1Q3GATEGUARD,,,,,0,0
+62825,Dialog,GATEGUARD,"Greetings to you. I swear, I've seen more traffic just recently than since the plague began.","반갑소. 맹세코 역병 시작 이래 최근만큼 왕래가 많았던 적이 없소.",M1Q3GATEGUARD,,,,,0,0
+62826,Dialog,GATEGUARD,"You are here on militia business, I assume? Nobody else comes through this area except us guards.",민병대 일로 온 거겠지? 우리 경비대 말곤 이쪽으로 오는 사람이 없소.,M1Q3GATEGUARD,,,,,0,0
+62827,Dialog,GATEGUARD,The gate is already open if you need to enter.,들어가려면 문은 이미 열려 있소.,M1Q3GATEGUARD,,,,,0,0
+62828,Dialog,GATEGUARD,"Not much reason for you to be here, though. I hear the Blacklake is quiet now. There was some trouble with some nobles stealing food or something, but that's over with.","여기 있을 이유는 별로 없소. 검은호수가 조용하다던데. 귀족이 식량 훔치는 문제가 있었다나 뭐라나 근데 그건 끝났소.",M1Q3GATEGUARD,,,,,0,0
+62829,Dialog,GATEGUARD,"Maybe you had something to do with that? Good on you, if you did.","혹시 그 일에 관여했소? 그랬다면 잘했소.",M1Q3GATEGUARD,,,,,0,0
+62830,Dialog,GATEGUARD,"Citizen, what's your business in the Blacklake district?","시민 검은호수 지구에 무슨 볼일이오?",M1Q3GATEGUARD,,,,,0,0

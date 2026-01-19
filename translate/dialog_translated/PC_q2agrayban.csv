@@ -1,0 +1,44 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+93045,PC,Player Character,Me find shield. You name be on it. ,나 방패 찾았어. 너 이름 있어.,q2agrayban,,con_q2aypguard7,,,0,0
+93046,PC,Player Character,I found this shield with your name on it.,당신 이름이 새겨진 방패를 찾았어요.,q2agrayban,,con_q2aypguard6,,,0,0
+93047,PC,Player Character,You takes me 50 gold and gets you arm back. ,너 나 금화 50개 주면 팔 돌려줘.,q2agrayban,nw_d1_mid_good,con_q2aypguard4,,,0,0
+93048,PC,Player Character,No thanks.,됐어.,q2agrayban,,,,,0,0
+93049,PC,Player Character,Sure.,그래.,q2agrayban,,,,,0,0
+93050,PC,Player Character,"Here, take this 50 gold and get your arm back.","여기, 금화 50개 받고 팔 되찾으세요.",q2agrayban,nw_d1_mid_good,con_q2aypguard3,,,0,0
+93051,PC,Player Character,No thanks.,됐어요.,q2agrayban,,,,,0,0
+93052,PC,Player Character,Sure.,그럴게요.,q2agrayban,,,,,0,0
+93053,PC,Player Character,"No, you keeps you gold. You needs it. ","아니, 너 금 가져. 너 필요해.",q2agrayban,nw_d1_small_good,[지능 낮음],,,0,0
+93054,PC,Player Character,"No, you keep your gold. You need it.","아니요, 금화는 가지세요. 필요하실 테니.",q2agrayban,nw_d1_small_good,[지능 보통],,,0,0
+93055,PC,Player Character,Me take you gold. ,나 금 가져.,q2agrayban,nw_d1_small_evil,[지능 낮음],,,0,0
+93056,PC,Player Character,I'll be taking the gold. ,금화는 내가 받을게요.,q2agrayban,nw_d1_small_evil,[지능 보통],,,0,0
+93057,PC,Player Character,"""Goodbye.""","""잘 가.""",q2agrayban,,,,,0,0
+93058,PC,Player Character,"""What happen to you arm."" ","""너 팔 어떻게 됐어.""",q2agrayban,,con_q2agrayban2,,,0,0
+93059,PC,Player Character,"""What happened to your arm?""","""팔은 어떻게 된 거예요?""",q2agrayban,,con_q2agrayban1,,,0,0
+93060,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Tell me what happen or maybe you lose other arm."" ","<StartCheck>[위협]</Start> ""무슨 일 있었는지 말해 안 그러면 다른 팔도 없어.""",q2agrayban,,[지능 낮음],,,0,0
+93061,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Tell me what happened or maybe you'll lose that other arm.""","<StartCheck>[위협]</Start> ""무슨 일이 있었는지 말해요. 안 그러면 남은 팔도 잃을지 몰라요.""",q2agrayban,,[지능 보통],,,0,0
+93062,PC,Player Character,"<StartCheck>[Bluff]</Start> ""Me hear customer say you lose it 'cause you be coward."" ","<StartCheck>[허세]</Start> ""나 손님이 말하는 거 들었어. 너 겁쟁이라서 팔 잃었다고.""",q2agrayban,,[지능 낮음],,,0,0
+93063,PC,Player Character,"<StartCheck>[Bluff]</Start> ""I heard some customers say you lost it because you're a coward.""","<StartCheck>[허세]</Start> ""손님들이 그러던데, 겁쟁이라서 팔을 잃었다고요.""",q2agrayban,,[지능 보통],,,0,0
+93064,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Me want be you friend. Please tell me."" ","<StartCheck>[설득]</Start> ""나 너 친구 되고 싶어. 제발 말해줘.""",q2agrayban,,[지능 낮음],,,0,0
+93065,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I'd like to be your friend. Please tell me.""","<StartCheck>[설득]</Start> ""친구가 되고 싶어요. 말해주세요.""",q2agrayban,,[지능 보통],,,0,0
+93066,PC,Player Character,"""Me no need you life story. Hurry up."" ","""나 너 인생 이야기 필요 없어. 빨리 말해.""",q2agrayban,,[지능 낮음],,,0,0
+93067,PC,Player Character,"""I don't need your life story. Hurry up.""","""인생 얘기는 필요 없어요. 빨리요.""",q2agrayban,,[지능 보통],,,0,0
+93068,PC,Player Character,"""What girl that be?"" ","""그 여자 누구야?""",q2agrayban,,[지능 낮음],,,0,0
+93069,PC,Player Character,"""What girl is that?""","""그 여자가 누구예요?""",q2agrayban,,[지능 보통],,,0,0
+93070,PC,Player Character,"""That still no tell me where you arm go."" ","""그래도 팔 어디 갔는지 안 말했어.""",q2agrayban,,[지능 낮음],,,0,0
+93071,PC,Player Character,"""That still doesn't tell me how you lost your arm.""","""아직도 팔을 어떻게 잃었는지 말 안 했잖아요.""",q2agrayban,,[지능 보통],,,0,0
+93072,PC,Player Character,"""Go on.""","""계속해요.""",q2agrayban,,,,,0,0
+93073,PC,Player Character,"""At least you survive."" ","""그래도 너 살았어.""",q2agrayban,,[지능 낮음],,,0,0
+93074,PC,Player Character,"""At least you survived.""","""그래도 살아남았네요.""",q2agrayban,,[지능 보통],,,0,0
+93075,PC,Player Character,"""So how you end up here?"" ","""그래서 어떻게 여기 오게 됐어?""",q2agrayban,,[지능 낮음],,,0,0
+93076,PC,Player Character,"""So how did you end up working here?""","""그래서 어떻게 여기서 일하게 됐어요?""",q2agrayban,,[지능 보통],,,0,0
+93077,PC,Player Character,"""Me think me no allowed."" ","""나 안 된다고 생각했어.""",q2agrayban,,[지능 낮음],,,0,0
+93078,PC,Player Character,"""I thought I wasn't allowed."" ","""안 되는 줄 알았는데요.""",q2agrayban,,[지능 보통],,,0,0
+93079,PC,Player Character,"""Yes, please.""","""네, 부탁해요.""",q2agrayban,,,,,0,0
+93080,PC,Player Character,"""Me allowed to leave."" ","""나 나가도 돼.""",q2agrayban,,[지능 낮음],,,0,0
+93081,PC,Player Character,"""I'm allowed to leave.""","""나갈 수 있어요.""",q2agrayban,,[지능 보통],,,0,0
+93082,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Durnan be me friend; him no mind."" ","<StartCheck>[설득]</Start> ""더난 내 친구야. 걔 신경 안 써.""",q2agrayban,,[지능 낮음],,,0,0
+93083,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Durnan's my friend; he won't mind.""","<StartCheck>[설득]</Start> ""더난은 제 친구예요. 신경 안 쓸 거예요.""",q2agrayban,,[지능 보통],,,0,0
+93084,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""You let me out, or me tell Durnan you forget what him tell you 'bout me."" ","<StartCheck>[위협]</Start> ""나 내보내. 안 그러면 더난한테 이를 거야.""",q2agrayban,,[지능 낮음],,,0,0
+93085,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""You let me out, or I'll tell Durnan you forgot his instructions.""","<StartCheck>[위협]</Start> ""내보내 주세요. 안 그러면 더난한테 지시 사항 잊었다고 말할게요.""",q2agrayban,,[지능 보통],,,0,0
+93086,PC,Player Character,"<StartCheck>[Bluff]</Start> ""You forget. No worry, me no tell nobody you forget."" ","<StartCheck>[허세]</Start> ""너 잊었어. 걱정 마, 나 아무한테도 안 말해.""",q2agrayban,,[지능 낮음],,,0,0
+93087,PC,Player Character,"<StartCheck>[Bluff]</Start> ""You must have forgotten. Don't worry, I won't tell anybody you forgot.""","<StartCheck>[허세]</Start> ""잊으셨나 보네요. 걱정 마세요, 아무한테도 안 말할게요.""",q2agrayban,,[지능 보통],,,0,0

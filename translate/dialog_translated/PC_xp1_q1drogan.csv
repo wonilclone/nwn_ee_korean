@@ -1,0 +1,31 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+74762,PC,Player Character,"Don't worry about it, Master Drogan. You should rest. ","걱정 마세요, 드로건 스승님. 쉬셔야 해요.",xp1_q1drogan,,,,,0,0
+74763,PC,Player Character,"No, not really. Are you well enough to help?","아니요, 그다지요. 도와주실 만큼 괜찮으세요?",xp1_q1drogan,,,,,0,0
+74764,PC,Player Character,"Well enough, considering you forced me into this.",이 일을 강요하셨으니 그 정도는 괜찮죠.,xp1_q1drogan,,,,,0,0
+74765,PC,Player Character,"It is going well, Master Drogan.","잘 되고 있어요, 드로건 스승님.",xp1_q1drogan,,,,,0,0
+74766,PC,Player Character,<StartAction>[Lie]</Start> Not so good. I haven't found anything.,<StartAction>[거짓말한다.]</Start> 별로 안 좋아요. 아무것도 못 찾았어요.,xp1_q1drogan,xp1_didnotlawsm,,,,0,0
+74767,PC,Player Character,<StartAction>[Give him the tower statue.]</Start> It went well. I have the broken tower statue here.,<StartAction>[그에게 탑 조각상을 준다.]</Start> 잘 됐어요. 부서진 탑 조각상이 여기 있어요.,xp1_q1drogan,,q1_juststatue,,,0,0
+74768,PC,Player Character,<StartAction>[Only give him the tower statue.]</Start> It went well. I have the broken tower statue here.,<StartAction>[탑 조각상만 준다.]</Start> 잘 됐어요. 부서진 탑 조각상이 여기 있어요.,xp1_q1drogan,xp1_didnotlawsm,xp1_hassome_n,,,0,0
+74769,PC,Player Character,<StartAction>[Only give him the tower statue.]</Start> It went well. I have the broken tower statue here.,<StartAction>[탑 조각상만 준다.]</Start> 잘 됐어요. 부서진 탑 조각상이 여기 있어요.,xp1_q1drogan,xp1_didnotlawsm,xp1_hasall_n,,,0,0
+74770,PC,Player Character,<StartAction>[Give all the artifacts you have.]</Start> It went well. I have some of the artifacts here.,<StartAction>[가지고 있는 모든 유물을 준다.]</Start> 잘 됐어요. 유물 몇 개가 여기 있어요.,xp1_q1drogan,,xp1_hassome_n,,,0,0
+74771,PC,Player Character,I sure hope there's a reward after all that work...,그 고생 후에 보상이 있었으면 좋겠는데...,xp1_q1drogan,,,,,0,0
+74772,PC,Player Character,"Look, I did what you asked... is my final test over?","봐요, 시키신 대로 했어요... 최종 시험은 끝난 거죠?",xp1_q1drogan,,,,,0,0
+74773,PC,Player Character,Only that J'Nah was seeking it for someone else.,즈나가 다른 누군가를 위해 그걸 찾고 있었다는 것뿐이에요.,xp1_q1drogan,,,,,0,0
+74774,PC,Player Character,"Master Drogan is far more capable than I am, I'm sure.",드로건 스승님이 저보다 훨씬 더 뛰어나시죠.,xp1_q1drogan,,,,,0,0
+74775,PC,Player Character,How sure can you be that no-one will be watching for me?,아무도 절 지켜보지 않을 거라고 어떻게 확신하세요?,xp1_q1drogan,,,,,0,0
+74776,PC,Player Character,I'm not interested in going anywhere.,아무 데도 갈 생각 없어요.,xp1_q1drogan,,,,,0,0
+74777,PC,Player Character,You want me to take the artifact somewhere? Why?,제가 유물을 어디 가져가길 원하세요? 왜죠?,xp1_q1drogan,,,,,0,0
+74778,PC,Player Character,Spare me the compliments. I suppose it will get me out of here.,칭찬은 됐어요. 여기서 나가게는 해주겠네요.,xp1_q1drogan,,,,,0,0
+74779,PC,Player Character,And just what do I get out of it?,그래서 제가 뭘 얻는데요?,xp1_q1drogan,,,,,0,0
+74780,PC,Player Character,Why not? Sounds like fun.,왜 안 되겠어요? 재밌을 것 같은데요.,xp1_q1drogan,,,,,0,0
+74781,PC,Player Character,"I would be honored, Master Drogan. I'll do my best.","영광이에요, 드로건 스승님. 최선을 다하겠습니다.",xp1_q1drogan,,,,,0,0
+74782,PC,Player Character,And where would I find this Garrick?,그 가릭은 어디서 찾을 수 있죠?,xp1_q1drogan,,,,,0,0
+74783,PC,Player Character,"I need to do something, first.",먼저 할 일이 있어요.,xp1_q1drogan,,,,,0,0
+74784,PC,Player Character,"Yes, I'm ready to go.","네, 갈 준비됐어요.",xp1_q1drogan,,,,,0,0
+74785,PC,Player Character,"But I haven't even found all the artifacts, yet.",하지만 아직 모든 유물을 찾지도 못했어요.,xp1_q1drogan,,q1_notalldone,,,0,0
+74786,PC,Player Character,"But you're far more capable than I am, Master Drogan.",하지만 드로건 스승님이 저보다 훨씬 더 뛰어나시잖아요.,xp1_q1drogan,,,,,0,0
+74787,PC,Player Character,But I'm not interested in going anywhere!,하지만 전 아무 데도 갈 생각 없어요!,xp1_q1drogan,,,,,0,0
+74788,PC,Player Character,So you want me to take this crystal somewhere?,그래서 이 수정을 어디 가져가라는 거죠?,xp1_q1drogan,,,,,0,0
+74789,PC,Player Character,I don't know anything about that. That's how I got it.,그건 몰라요. 제가 그렇게 얻은 거예요.,xp1_q1drogan,,,,,0,0
+74790,PC,Player Character,"It was accidentally broken by the kobold I got it from, but I don't know what's inside it.","제가 받은 코볼트가 실수로 깨뜨렸지만, 안에 뭐가 있는지는 몰라요.",xp1_q1drogan,,,,,0,0
+74791,PC,Player Character,<StartAction>[Give all the artifacts you have.]</Start> It went well. I have all of the artifacts now.,<StartAction>[가지고 있는 모든 유물을 준다.]</Start> 잘 됐어요. 이제 모든 유물을 다 가지고 있어요.,xp1_q1drogan,,xp1_hasall_n,,,0,0

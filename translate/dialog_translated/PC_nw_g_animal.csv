@@ -1,0 +1,21 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+53318,PC,Player Character,Nothing right now.,지금은 아무것도 아니야.,nw_g_animal,,[지능 보통],,,0,0
+53319,PC,Player Character,"Oooh, you in my brain. Me go now.","오, 너 내 머릿속에 있어. 나 간다.",nw_g_animal,,[지능 낮음],,,0,0
+58436,PC,Player Character,<StartAction>Play with your companion.</Start>,<StartAction>동물 동료와 놀아줍니다.</Start>,nw_g_animal,,,,,0,0
+58437,PC,Player Character,<StartAction>Scold your companion.</Start>,<StartAction>동물 동료를 꾸짖습니다.</Start>,nw_g_animal,,,,,0,0
+58438,PC,Player Character,<StartAction>Pet your companion.</Start>,<StartAction>동물 동료를 쓰다듬습니다.</Start>,nw_g_animal,,,,,0,0
+58439,PC,Player Character,<StartAction>Feed your companion.</Start>,<StartAction>동물 동료에게 먹이를 줍니다.</Start>,nw_g_animal,,,,,0,0
+58440,PC,Player Character,Me needs you to do something else.,나 너 다른 거 해야 해.,nw_g_animal,,[지능 낮음],,,0,0
+58441,PC,Player Character,I need you to do something else.,다른 걸 해야겠어.,nw_g_animal,,[지능 보통],,,0,0
+58442,PC,Player Character,"It okay, you no mind.","괜찮아, 너 신경 쓰지 마.",nw_g_animal,,[지능 낮음],,,0,0
+58443,PC,Player Character,Nevermind.,아무것도 아니야.,nw_g_animal,,[지능 보통],,,0,0
+58444,PC,Player Character [Companion Settings],Me wants you to keep look out for stuff.,나 너 주변 잘 살펴야 해.,nw_g_animal,nw_ch_srch_on,nw_ch_fm_st_08,[Companion Settings],,0,0
+58445,PC,Player Character [Companion Settings],I need you to be on the alert.,경계 태세를 유지해.,nw_g_animal,nw_ch_srch_on,nw_ch_fm_st_07,[Companion Settings],,0,0
+58446,PC,Player Character [Companion Settings],Me wants you to hides more.,나 너 더 숨어야 해.,nw_g_animal,nw_ch_stlth_on,nw_ch_fm_st_06,[Companion Settings],,0,0
+58447,PC,Player Character [Companion Settings],I want you to remain hidden more.,더 숨어 있어.,nw_g_animal,nw_ch_stlth_on,nw_ch_fm_st_05,[Companion Settings],,0,0
+58448,PC,Player Character [Follow: Far],"Me wants you to be far back, okays?","나 너 뒤에 멀리 있어야 해, 알았지?",nw_g_animal,nw_ch_dist_18,[지능 낮음],[Follow: Far],,0,0
+58449,PC,Player Character [Follow: Far],I want you to hang further back from me.,나한테서 더 떨어져서 따라와.,nw_g_animal,nw_ch_dist_18,[지능 보통],[Follow: Far],,0,0
+58450,PC,Player Character [Follow: Close],Me needs you to stay closer.,나 너 가까이 있어야 해.,nw_g_animal,nw_ch_dist_6,[지능 낮음],[Follow: Close],,0,0
+58451,PC,Player Character [Follow: Close],I need you to stay closer to me.,내 가까이에 있어야 해.,nw_g_animal,nw_ch_dist_6,[지능 보통],[Follow: Close],,0,0
+58452,PC,Player Character,That be all.,그게 다야.,nw_g_animal,,[지능 낮음],,,0,0
+58453,PC,Player Character,That's all.,그게 다야.,nw_g_animal,,[지능 보통],,,0,0

@@ -1,0 +1,53 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36072,PC,Player Character,Could I ask you some questions?,질문 좀 해도 될까요?,m2q3e_ingo,,[지능 보통],,,0,0
+36073,PC,Player Character,Uh... Me ask questions?,어... 나 질문해도 돼?,m2q3e_ingo,,[지능 낮음],,,0,0
+36074,PC,Player Character,Goodbye.,안녕히 계세요.,m2q3e_ingo,,,,,0,0
+36075,PC,Player Character,That cult preying on Neverwinter - know anything about it?,네버윈터를 노리는 사이비 교단 - 아는 거 있어요?,m2q3e_ingo,,[지능 보통],,,0,0
+36076,PC,Player Character,Actually I'm more interested in local affairs... ,사실 이 지역 일에 더 관심이 있어요...,m2q3e_ingo,,[매력 중간/지능 중간],,,0,0
+36077,PC,Player Character,How long have you farmed here?,여기서 얼마나 농사를 지으셨어요?,m2q3e_ingo,,[매력 높음/지능 중간],,,0,0
+36078,PC,Player Character,Anything interesting about these parts?,이 근처에 뭔가 흥미로운 거 있어요?,m2q3e_ingo,,[지능 보통],,,0,0
+36079,PC,Player Character,"Yuh, da cult. What you know of it?","응, 그 사이비. 뭐 알아?",m2q3e_ingo,,[지능 낮음],,,0,0
+36080,PC,Player Character,"Uh, what 'bout stuff in this area?","어, 이 지역 일은 뭐 있어?",m2q3e_ingo,,[매력 중간/지능 낮음],,,0,0
+36081,PC,Player Character,How long you farm 'round here?,여기서 농사 얼마나 했어?,m2q3e_ingo,,[매력 높음/지능 낮음],,,0,0
+36082,PC,Player Character,"Uh, there be any odd stories 'bout this place?","어, 여기 이상한 얘기 있어?",m2q3e_ingo,,[지능 낮음],,,0,0
+36083,PC,Player Character,Did anything else stand out about him?,그 사람한테서 다른 특이한 점은 없었나요?,m2q3e_ingo,,[지능 보통],,,0,0
+36084,PC,Player Character,"<StartCheck>[Insight]</Start> Why do you say ""as good as gone?""","<StartCheck>[통찰]</Start> 왜 ""사라진 거나 마찬가지""라고 하시는 거예요?",m2q3e_ingo,,nw_d2_wis_intn,,,0,0
+36085,PC,Player Character,Any other stuff about strange guy?,그 이상한 놈 다른 거 있어?,m2q3e_ingo,,[지능 낮음],,,0,0
+36086,PC,Player Character,Tell me one of your father-in-law's stories.,장인어른 이야기 하나 해주세요.,m2q3e_ingo,,[지능 보통],,,0,0
+36087,PC,Player Character,"Actually, I'm more interested in a job, if you know of anything.","사실, 일거리가 있다면 더 관심 있는데요.",m2q3e_ingo,,[지능 보통],,,0,0
+36088,PC,Player Character,Are there any places you think I should visit?,가볼 만한 곳이 있을까요?,m2q3e_ingo,,[매력 중간/지능 중간],,,0,0
+36089,PC,Player Character,"Yuh, tell me story den... ","응, 그럼 이야기 해줘...",m2q3e_ingo,,[지능 낮음],,,0,0
+36090,PC,Player Character,Me want work.,나 일하고 싶어.,m2q3e_ingo,,[지능 낮음],,,0,0
+36091,PC,Player Character,There be other places to go 'round here?,이 근처 다른 갈 데 있어?,m2q3e_ingo,,[매력 중간/지능 낮음],,,0,0
+36092,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 에이, 말해줘도 해 없잖아요.",m2q3e_ingo,,[지능 보통],,,0,0
+36093,PC,Player Character,<StartCheck>[Persuade]</Start> Tell me. Will hurt nobody.,<StartCheck>[설득]</Start> 말해봐. 아무도 안 다쳐.,m2q3e_ingo,,[지능 낮음],,,0,0
+36094,PC,Player Character,I'm curious about some recent events... ,최근 일들이 좀 궁금한데요...,m2q3e_ingo,,[지능 보통],,,0,0
+36095,PC,Player Character,"There be stuff happening lately, yuh?","요즘 무슨 일 있어, 응?",m2q3e_ingo,,[지능 낮음],,,0,0
+36096,PC,Player Character,I have some other questions.,다른 질문이 있어요.,m2q3e_ingo,,[지능 보통],,,0,0
+36097,PC,Player Character,Me have other question.,나 다른 질문 있어.,m2q3e_ingo,,[지능 낮음],,,0,0
+36098,PC,Player Character,Can I ask you some directions?,길 좀 물어봐도 될까요?,m2q3e_ingo,,[지능 보통],,,0,0
+36099,PC,Player Character,"Uh, me lost. You give directions, yuh?","어, 나 길 잃었어. 길 알려줘, 응?",m2q3e_ingo,,[지능 낮음],,,0,0
+36100,PC,Player Character,Where does the west road lead?,서쪽 길은 어디로 가요?,m2q3e_ingo,,[지능 보통],,,0,0
+36101,PC,Player Character,Where does the east road lead?,동쪽 길은 어디로 가요?,m2q3e_ingo,,[지능 보통],,,0,0
+36102,PC,Player Character,Is there a place where I might rest nearby?,근처에 쉴 곳이 있나요?,m2q3e_ingo,,[지능 보통],,,0,0
+36103,PC,Player Character,Where that west road go?,서쪽 길 어디로 가?,m2q3e_ingo,,[지능 낮음],,,0,0
+36104,PC,Player Character,Where that east road go?,동쪽 길 어디로 가?,m2q3e_ingo,,[지능 낮음],,,0,0
+36105,PC,Player Character,Me need place to buy stuff.,나 물건 살 데 필요해.,m2q3e_ingo,,[지능 낮음],,,0,0
+36106,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 걸 물어보고 싶은데요.",m2q3e_ingo,,[지능 보통],,,0,0
+36107,PC,Player Character,Me have other question.,나 다른 질문 있어.,m2q3e_ingo,,[지능 낮음],,,0,0
+36108,PC,Player Character,I need some more directions.,길 좀 더 물어볼게요.,m2q3e_ingo,,[지능 보통],,,0,0
+36109,PC,Player Character,Me need more directions.,나 길 더 물어볼 거야.,m2q3e_ingo,,[지능 낮음],,,0,0
+36110,PC,Player Character,"A story, is it? I'd love to hear it... ","이야기요? 듣고 싶네요...",m2q3e_ingo,,[지능 보통],,,0,0
+36111,PC,Player Character,"Yuh, tell me story, then.","응, 그럼 이야기 해줘.",m2q3e_ingo,,[지능 낮음],,,0,0
+36112,PC,Player Character,Could you answer some other questions for me?,다른 질문도 대답해 주실 수 있어요?,m2q3e_ingo,,[지능 보통],,,0,0
+36113,PC,Player Character,"Me have other questions... You answer, yuh?","나 다른 질문 있어... 대답해줄 거지, 응?",m2q3e_ingo,,[지능 낮음],,,0,0
+36114,PC,Player Character,How come?,왜요?,m2q3e_ingo,,[지능 보통],,,0,0
+36115,PC,Player Character,Yuh?,응?,m2q3e_ingo,,[지능 낮음],,,0,0
+36116,PC,Player Character,Who is Pete O'Deel?,피트 오딜이 누구예요?,m2q3e_ingo,,[지능 보통],,,0,0
+36117,PC,Player Character,Who Pete O'Deel?,피트 오딜이 누구야?,m2q3e_ingo,,[지능 낮음],,,0,0
+36118,PC,Player Character,Trouble with wolves?,늑대 문제요?,m2q3e_ingo,,[지능 보통],,,0,0
+36119,PC,Player Character,Wolf trouble?,늑대 문제?,m2q3e_ingo,,[지능 낮음],,,0,0
+36120,PC,Player Character,Who are the O'Deels?,오딜 가족이 누구예요?,m2q3e_ingo,,[지능 보통],,,0,0
+36121,PC,Player Character,Who them O'Deels?,오딜네가 누구야?,m2q3e_ingo,,[지능 낮음],,,0,0
+36122,PC,Player Character,What are your thoughts on the O'Deel lass?,오딜네 아가씨에 대해 어떻게 생각하세요?,m2q3e_ingo,,[지능 보통],,,0,0
+36123,PC,Player Character,What you think 'bout that 'Deel girlie?,오딜네 아가씨 어떻게 생각해?,m2q3e_ingo,,[지능 낮음],,,0,0

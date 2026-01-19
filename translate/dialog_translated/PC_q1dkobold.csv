@@ -1,0 +1,34 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+69960,PC,Player Character,I've talked to you long enough.,너희랑 충분히 얘기했어.,q1dkobold,,,,,0,0
+69961,PC,Player Character,How about I help you kobolds fight your way out of here?,코볼트들이 여기서 탈출하도록 도와줄까?,q1dkobold,,,,,0,0
+69962,PC,Player Character,Of course. Let's do it now!,물론이지. 지금 하자!,q1dkobold,x0_d1_didevilmed,,,,0,0
+69963,PC,Player Character,Maybe... for the right price.,글쎄... 대가가 괜찮다면.,q1dkobold,,,,,0,0
+69964,PC,Player Character,"No, forget I mentioned that.","아니, 한 말 취소야.",q1dkobold,,,,,0,0
+69965,PC,Player Character,<StartCheck>[Perform]</Start> <StartAction>[Attempt to fascinate the Kobolds]</Start>,<StartCheck>[공연]</Start> <StartAction>[코볼트들을 매혹시키려 시도한다]</Start>,q1dkobold,,con_q1dkobold_6,,,0,0
+69966,PC,Player Character,<StartAction>[Cast Bane on the Kobold]</Start> Just surrender now and you won't get hurt!,<StartAction>[코볼트에게 재앙을 시전한다]</Start> 지금 항복하면 안 다쳐!,q1dkobold,act_q1dkobold_8,con_q1dkobold_5,,,0,0
+69967,PC,Player Character,<StartAction>[Cast Scare on the Kobold]</Start> Just surrender now and you won't get hurt!,<StartAction>[코볼트에게 공포를 시전한다]</Start> 지금 항복하면 안 다쳐!,q1dkobold,act_q1dkobold_6,con_q1dkobold_3,,,0,0
+69968,PC,Player Character,<StartAction>[Cast Sleep on the Kobolds]</Start>,<StartAction>[코볼트들에게 수면을 시전한다]</Start>,q1dkobold,,con_q1dkobold_2,,,0,0
+69969,PC,Player Character,<StartAction>[Cast Charm Person on the Kobold]</Start> Just put your weapons away and give yourselves up. You can trust me.,<StartAction>[코볼트에게 사람 현혹을 시전한다]</Start> 무기 내려놓고 항복해. 날 믿어도 돼.,q1dkobold,act_q1dkobold_7,con_q1dkobold_4,,,0,0
+69970,PC,Player Character,<StartCheck>[Intimidate]</Start> I tell you what... surrender now and I'll let you all live.,<StartCheck>[위협]</Start> 이렇게 하자... 지금 항복하면 다 살려줄게.,q1dkobold,act_k1dkobold_19,con_q1dkobold_10,,,0,0
+69971,PC,Player Character,"<StartCheck>[Persuade]</Start> All right, you win. We'll let you go.","<StartCheck>[설득]</Start> 알았어, 너희가 이겼어. 보내줄게.",q1dkobold,act_q1dkobold_18,con_q1dkobold_9,,,0,0
+69972,PC,Player Character,I suppose you're right...,네 말이 맞는 것 같아...,q1dkobold,,,,,0,0
+69973,PC,Player Character,<StartCheck>[Intimidate]</Start> You'll do as I say! Now let them go!,<StartCheck>[위협]</Start> 내 말대로 해! 지금 풀어줘!,q1dkobold,,,,,0,0
+69974,PC,Player Character,<StartAction>[Whisper]</Start> We will ambush them when they come out!,<StartAction>[속삭인다]</Start> 나올 때 습격할 거야!,q1dkobold,,,,,0,0
+69975,PC,Player Character,"<StartCheck>[Persuade]</Start> Don't worry about it. I will rescue her later, if I can.",<StartCheck>[설득]</Start> 신경 쓰지 마. 나중에 구할 수 있으면 구할게.,q1dkobold,,,,,0,0
+69976,PC,Player Character,"<StartCheck>[Persuade]</Start> Take me as a hostage, instead, and let the woman go.","<StartCheck>[설득]</Start> 대신 날 인질로 잡고, 여자는 보내줘.",q1dkobold,act_q1dkobold_17,con_q1dkobold_8,,,0,0
+69977,PC,Player Character,Forget it! I'm not going in there by myself.,싫어! 혼자 그 안에 안 들어가.,q1dkobold,,,,,0,0
+69978,PC,Player Character,I agree. I will come alone.,좋아. 혼자 갈게.,q1dkobold,,,,,0,0
+69979,PC,Player Character,Forget it. I won't do that.,싫어. 그건 안 해.,q1dkobold,,,,,0,0
+69980,PC,Player Character,"Very well. No creatures. <StartAction>[Dismiss any familiars, animal companions or summoned creatures.]</Start>","알았어. 생명체 없이. <StartAction>[사역마, 동물 동료, 소환된 생명체를 해제한다.]</Start>",q1dkobold,q1d_dismiss,,,,0,0
+69981,PC,Player Character,Now that the cook is safe I can kill you properly!,요리사가 안전하니 이제 제대로 죽여버릴 수 있어!,q1dkobold,,,,,0,0
+69982,PC,Player Character,Now that I'm on this side... how about I help you get out of here?,이제 이쪽에 왔으니... 여기서 탈출하도록 도와줄까?,q1dkobold,,,,,0,0
+69983,PC,Player Character,No. Forget I said anything.,아니. 한 말 잊어.,q1dkobold,,,,,0,0
+69984,PC,Player Character,"Here! Eat hot death, kobold!!","여기! 뜨거운 죽음을 먹어라, 코볼트!!",q1dkobold,,,,,0,0
+69985,PC,Player Character,Maybe. If the price is right.,글쎄. 대가가 괜찮다면.,q1dkobold,,,,,0,0
+69986,PC,Player Character,Absolutely. Let's attack them now!,물론이지. 지금 공격하자!,q1dkobold,x0_d1_didevilmed,,,,0,0
+69987,PC,Player Character,<StartAction>[Lie]</Start> Absolutely. Let's attack them now!,<StartAction>[거짓말한다]</Start> 물론이지. 지금 공격하자!,q1dkobold,,,,,0,0
+69988,PC,Player Character,<StartCheck>[Intimidate]</Start> I'm much stronger than the cook. Surrender now and you won't get hurt.,<StartCheck>[위협]</Start> 나 요리사보다 훨씬 강해. 지금 항복하면 안 다쳐.,q1dkobold,q1d_hostintim2,q1d_hostintim1,,,0,0
+69989,PC,Player Character,<StartCheck>[Persuade]</Start> Look... you can leave now. Just go and nobody will hurt you.,<StartCheck>[설득]</Start> 들어봐... 이제 가도 돼. 그냥 가면 아무도 안 다치게 해줄게.,q1dkobold,q1d_hostpers2,q1d_hostpers1,,,0,0
+69990,PC,Player Character,A reward? Sounds good to me.,보상? 좋은데.,q1dkobold,,,,,0,0
+69991,PC,Player Character,"Just get out of here, vermin. I don't want your reward.","그냥 꺼져, 해충들아. 너희 보상 따윈 필요 없어.",q1dkobold,,,,,0,0
+69992,PC,Player Character,"Actually, I just like to kill. And you're next!","사실, 난 그냥 죽이는 걸 좋아해. 다음은 너야!",q1dkobold,,,,,0,0

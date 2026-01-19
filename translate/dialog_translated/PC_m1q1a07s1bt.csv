@@ -1,0 +1,22 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17906,PC,Player Character,I've got a pass for the Gauntlet.,시련장 통행증을 가지고 있어.,m1q1a07s1bt,,m1s4cs001,,,0,0
+17907,PC,Player Character,Me gots Gauntlet pass.,나 시련장 통행증 있음.,m1q1a07s1bt,,m1s4cs002,,,0,0
+17908,PC,Player Character,Anything interesting in this tavern?,이 주점에 볼 만한 게 있나?,m1q1a07s1bt,,[지능 보통],,,0,0
+17909,PC,Player Character,Anything neat in this place?,여기 볼 거 있어?,m1q1a07s1bt,,[지능 낮음],,,0,0
+17910,PC,Player Character,Let's see what you have for sale.,물건 좀 보여 줘.,m1q1a07s1bt,m1_openstore_gen,[지능 보통],,,0,0
+17911,PC,Player Character,What's you got for sale?,뭐 파는 거 있어?,m1q1a07s1bt,m1_openstore_gen,[지능 낮음],,,0,0
+17912,PC,Player Character,Goodbye.,그럼 이만.,m1q1a07s1bt,,,,,0,0
+17913,PC,Player Character,Give me the earnings for the week.,이번 주 수입금을 줘.,m1q1a07s1bt,,[지능 보통],,,0,0
+17914,PC,Player Character,"You give money made this week, maybe?","이번 주에 번 돈, 줄래?",m1q1a07s1bt,,[지능 낮음],,,0,0
+17915,PC,Player Character,"<StartCheck>[Persuade]</Start> Come on, what harm is there in telling me?","<StartCheck>[설득]</Start> 자, 좀 알려 준다고 해서 나쁠 것 없잖아?",m1q1a07s1bt,,[지능 보통],,,0,0
+17916,PC,Player Character,<StartCheck>[Persuade]</Start> Why you not tell? Nobody care if me know.,<StartCheck>[설득]</Start> 왜 말 안 해? 내가 알아도 아무도 신경 안 써.,m1q1a07s1bt,,[지능 낮음],,,0,0
+17917,PC,Player Character,"I don't want to resort to force, but I will if you don't tell me.","힘으로 해결하고 싶진 않은데, 말 안 해 주면 그렇게 할 거야.",m1q1a07s1bt,,[지능 보통],,,0,0
+17918,PC,Player Character,"Me not want to fight, but me will if you not tell.",나 싸움 하기 싫어. 근데 말 안 하면 할 거야.,m1q1a07s1bt,,[지능 낮음],,,0,0
+17919,PC,Player Character,The Trade of Blades? What's that?,용병의 거래소? 그게 뭐지?,m1q1a07s1bt,,[지능 보통],,,0,0
+17920,PC,Player Character,Trade of Blades? What that?,용병의 거래소? 그거 뭐야?,m1q1a07s1bt,,[지능 낮음],,,0,0
+17921,PC,Player Character,"What is the Gauntlet, specifically?",시련장이라는 게 정확히 뭐야?,m1q1a07s1bt,,[지능 보통],,,0,0
+17922,PC,Player Character,What the Gauntlet be?,시련장 뭐야?,m1q1a07s1bt,,[지능 낮음],,,0,0
+17923,PC,Player Character,Why is this a big secret?,왜 이렇게 큰 비밀로 하는 거지?,m1q1a07s1bt,,[지능 보통],,,0,0
+17924,PC,Player Character,Why this all so secret-like?,왜 이거 전부 비밀처럼 굴어?,m1q1a07s1bt,,[지능 낮음],,,0,0
+17925,PC,Player Character,What do I have to do now that I own the bar?,"이제 내가 이 술집의 주인이 됐으니, 뭘 하면 되지?",m1q1a07s1bt,,[지능 보통],,,0,0
+17926,PC,Player Character,What me gots to do with this place now that me own it?,나 이제 여기 주인. 뭐 해야 돼?,m1q1a07s1bt,,[지능 낮음],,,0,0

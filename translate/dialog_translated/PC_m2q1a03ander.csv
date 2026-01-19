@@ -1,0 +1,100 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30748,PC,Player Character,I'd like to ask you some questions.,몇 가지 물어보고 싶어요.,m2q1a03ander,,[지능 보통],,,0,0
+30749,PC,Player Character,Me is wanting ask questions from you.,나 너한테 물어보고 싶은 거 있어.,m2q1a03ander,,[지능 낮음],,,0,0
+30750,PC,Player Character,Goodbye.,안녕히 계세요.,m2q1a03ander,,,,,0,0
+30751,PC,Player Character,Why did Karathis insist on going in alone?,왜 카라디스는 혼자 들어가겠다고 고집했죠?,m2q1a03ander,,[지능 보통],,,0,0
+30752,PC,Player Character,Do you know where the others might be?,다른 애들이 어디 있을지 알아요?,m2q1a03ander,,[지능 보통],,,0,0
+30753,PC,Player Character [M2Q1A03],<StartCheck>[Persuade]</Start> What can you tell me of Alhelor?,<StartCheck>[설득]</Start> 알헬러에 대해 뭘 말해줄 수 있어요?,m2q1a03ander,,m2q1a03andersc2n,[M2Q1A03],,0,0
+30754,PC,Player Character,What's going on in Port Llast?,라스트 항구에서 무슨 일이 일어나고 있나요?,m2q1a03ander,,[지능 보통],,,0,0
+30755,PC,Player Character,Why Karathis go in first without friends?,왜 카라디스 혼자 먼저 들어갔어? 친구들 없이?,m2q1a03ander,,[지능 낮음],,,0,0
+30756,PC,Player Character,Me looks for other boys.,나 다른 애들 찾아.,m2q1a03ander,,[지능 낮음],,,0,0
+30757,PC,Player Character [M2Q1A03],<StartCheck>[Persuade]</Start> Me talks with Alhelor. What you knows?,<StartCheck>[설득]</Start> 나 알헬러랑 얘기해. 너 뭐 알아?,m2q1a03ander,,m2q1a03andersc2l,[M2Q1A03],,0,0
+30758,PC,Player Character,What stuff happen in Port Llast?,라스트 항구에서 무슨 일 일어나?,m2q1a03ander,,[지능 낮음],,,0,0
+30759,PC,Player Character,Why did Karathis need your help then?,그럼 왜 카라디스는 당신의 도움이 필요했죠?,m2q1a03ander,,[지능 보통],,,0,0
+30760,PC,Player Character,<StartCheck>[Insight]</Start> Are you sure the beast was Karathis?,<StartCheck>[통찰]</Start> 그 짐승이 정말 카라디스였다고 확신해요?,m2q1a03ander,,nw_d2_wis_intn,,,0,0
+30761,PC,Player Character,Why Karathis wants you and friends coming?,왜 카라디스 너랑 친구들 오라고 했어?,m2q1a03ander,,[지능 낮음],,,0,0
+30762,PC,Player Character,You know where Urth could be?,어스가 어디 있을지 알아?,m2q1a03ander,,[지능 보통],,,0,0
+30763,PC,Player Character,<StartCheck>[Insight]</Start> <StartAction>Ask where the werewolf's den is.</Start>,<StartCheck>[통찰]</Start> <StartAction>늑대인간 소굴이 어디 있는지 물어본다.</Start>,m2q1a03ander,,nw_d2_wis_intn,,,0,0
+30764,PC,Player Character,How about Bran? Where would he go?,브랜은? 어디로 갔을까요?,m2q1a03ander,,[지능 보통],,,0,0
+30765,PC,Player Character,What did he say?,그가 뭐라고 했죠?,m2q1a03ander,,[지능 보통],,,0,0
+30766,PC,Player Character,What says he to you?,그가 너한테 뭐라고 했어?,m2q1a03ander,,[지능 낮음],,,0,0
+30767,PC,Player Character [M2Q1A03],Can you tell me about your experience with the Black Wolf?,검은 늑대와의 경험에 대해 말해줄 수 있어요?,m2q1a03ander,,m2q1a03andersc1n,[M2Q1A03],,0,0
+30768,PC,Player Character [M2Q1A03],Me wants to know what happen 'tween Black Wolf and you.,나 검은 늑대랑 너 사이에 무슨 일 있었는지 알고 싶어.,m2q1a03ander,,m2q1a03andersc1l,[M2Q1A03],,0,0
+30769,PC,Player Character,Let me ask you about something else.,다른 것에 대해 물어볼게요.,m2q1a03ander,,[지능 보통],,,0,0
+30770,PC,Player Character,"Me changes subject, ask other stuffs.","나 다른 주제로 바꿔, 다른 거 물어봐.",m2q1a03ander,,[지능 낮음],,,0,0
+30771,PC,Player Character,Can I ask you some directions?,길 좀 물어봐도 될까요?,m2q1a03ander,,[지능 보통],,,0,0
+30772,PC,Player Character,Can me gets told where places is?,나 어디가 어딘지 좀 알려줘?,m2q1a03ander,,[지능 낮음],,,0,0
+30773,PC,Player Character,I need to find a temple.,신전을 찾아야 해요.,m2q1a03ander,,[지능 보통],,,0,0
+30774,PC,Player Character,Is there someplace I can buy equipment?,장비를 살 수 있는 곳이 있나요?,m2q1a03ander,,[지능 보통],,,0,0
+30775,PC,Player Character,Me wants temple.,나 신전 원해.,m2q1a03ander,,[지능 낮음],,,0,0
+30776,PC,Player Character,Me runs low on supplies. Me can buy?,나 물건 거의 떨어져. 나 살 수 있어?,m2q1a03ander,,[지능 낮음],,,0,0
+30777,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 걸 물어보고 싶네요.",m2q1a03ander,,[지능 보통],,,0,0
+30778,PC,Player Character,Me have other question.,나 다른 질문 있어.,m2q1a03ander,,[지능 낮음],,,0,0
+30779,PC,Player Character,Maybe you can tell me where to look for Geth?,게스를 어디서 찾아야 할지 말해줄 수 있어요?,m2q1a03ander,,[지능 보통],,,0,0
+30780,PC,Player Character,What about Sir Karathis? Where would he be?,카라디스 경은요? 어디 계실까요?,m2q1a03ander,,[지능 보통],,,0,0
+30781,PC,Player Character [M2Q1A03],I spoke with Neurik. He said I should see you.,뉴릭과 얘기했어요. 당신을 만나보라고 하더군요.,m2q1a03ander,,m2q1a03andersc1n,[M2Q1A03],,0,0
+30782,PC,Player Character [M2Q1A03],Me gets told by Neurik to talks with you.,나 뉴릭한테 들었어 너한테 얘기하라고.,m2q1a03ander,,m2q1a03andersc1l,[M2Q1A03],,0,0
+30783,PC,Player Character,Who is Alhelor?,알헬러가 누구죠?,m2q1a03ander,,[지능 보통],,,0,0
+30784,PC,Player Character,Who this Alhelor?,이 알헬러가 누구야?,m2q1a03ander,,[지능 낮음],,,0,0
+30785,PC,Player Character,Neurik? Alhelor? Sleeping troubles? Did I miss something?,뉴릭? 알헬러? 수면 장애? 제가 뭘 놓친 건가요?,m2q1a03ander,,[지능 보통],,,0,0
+30786,PC,Player Character,Neurik? Alhelor? Sleeping troubles? Me not understand.,뉴릭? 알헬러? 잠 문제? 나 이해 못 해.,m2q1a03ander,,[지능 낮음],,,0,0
+30789,PC,Player Character,Who are you?,당신은 누구세요?,m2q1a03ander,,[지능 보통],,,0,0
+30790,PC,Player Character,Who you be?,너 누구야?,m2q1a03ander,,[지능 낮음],,,0,0
+30791,PC,Player Character,Where was the Black Wolf's cave again?,검은 늑대 동굴이 어디였다고 했죠?,m2q1a03ander,,[지능 보통],,,0,0
+30792,PC,Player Character,"Me ask where Black Wolf cave is, yuh?","나 검은 늑대 동굴 어딘지 물어봐, 응?",m2q1a03ander,,[지능 낮음],,,0,0
+30793,PC,Player Character,You knows where Urth is?,너 어스 어디 있는지 알아?,m2q1a03ander,,[지능 낮음],,,0,0
+30794,PC,Player Character,Maybe Bran? Where he be?,브랜은? 어디 있어?,m2q1a03ander,,[지능 낮음],,,0,0
+30795,PC,Player Character,Um... Geth? You know where is?,음... 게스? 어디 있는지 알아?,m2q1a03ander,,[지능 낮음],,,0,0
+30796,PC,Player Character,Me looks for Sir Karathis? Where he go?,나 카라디스 경 찾아? 어디로 갔어?,m2q1a03ander,,[지능 낮음],,,0,0
+58701,PC,Player Character,"Nope, me not wants that.","아니, 나 그거 안 원해.",m2q1a03ander,,[지능 낮음],,,0,0
+58702,PC,Player Character,No thanks.,사양할게요.,m2q1a03ander,,[지능 보통],,,0,0
+58703,PC,Player Character,"Yeah, you tells me.","응, 너 말해 줘.",m2q1a03ander,,[지능 낮음],,,0,0
+58704,PC,Player Character,"Yes, tell me.","네, 말해 주세요.",m2q1a03ander,,[지능 보통],,,0,0
+58705,PC,Player Character [M2Q1A03],You tells me about werewolf you meets.,너 만난 늑대인간에 대해 말해 줘.,m2q1a03ander,,m2q1a03ander02,[M2Q1A03],,0,0
+58706,PC,Player Character [M2Q1A03],Tell me about your encounter with the werewolf.,늑대인간과의 조우에 대해 말해 주세요.,m2q1a03ander,,m2q1a03ander01,[M2Q1A03],,0,0
+58707,PC,Player Character [M2Q1A03],What werewolf? What you says?,무슨 늑대인간? 너 무슨 말해?,m2q1a03ander,,m2q1a03ander04,[M2Q1A03],,0,0
+58708,PC,Player Character [M2Q1A03],What's this about a werewolf?,늑대인간이라니 무슨 얘기죠?,m2q1a03ander,,m2q1a03ander03,[M2Q1A03],,0,0
+58709,PC,Player Character,You helps sell what?,너 뭘 파는 거 도와?,m2q1a03ander,,[지능 낮음],,,0,0
+58710,PC,Player Character,Werewolf remedies?,늑대인간 치료약이요?,m2q1a03ander,,[지능 보통],,,0,0
+58711,PC,Player Character,"What you goings to do, now?",너 이제 뭐 할 거야?,m2q1a03ander,,[지능 낮음],,,0,0
+58712,PC,Player Character,What do you plan on doing now?,이제 뭘 할 계획이세요?,m2q1a03ander,,[지능 보통],,,0,0
+58713,PC,Player Character,"Yeah, you is useless, for sure.","그래, 너 쓸모없어, 확실해.",m2q1a03ander,nw_d1_small_evil,[지능 낮음],,,0,0
+58714,PC,Player Character,"Yes, you're pretty useless, all right.","네, 당신 정말 쓸모없네요.",m2q1a03ander,nw_d1_small_evil,[지능 보통],,,0,0
+58715,PC,Player Character,"You makes money when you helps Alhelor, huh?","너 알헬러 도울 때 돈 벌었지, 응?",m2q1a03ander,,[지능 낮음],,,0,0
+58716,PC,Player Character,"You must have made some money helping Alhelor, no?",알헬러를 도와서 돈 좀 벌었겠네요?,m2q1a03ander,,[지능 보통],,,0,0
+58717,PC,Player Character,Then you is dumb kid! Hah!,그럼 너 바보 애야! 하!,m2q1a03ander,nw_d1_small_evil,[지능 낮음],,,0,0
+58718,PC,Player Character,Then you're an idiot. Hah!,그럼 당신 바보네요. 하!,m2q1a03ander,nw_d1_small_evil,[지능 보통],,,0,0
+58719,PC,Player Character,Is good. You gives me coin and you nots get hurt.,좋아. 너 나한테 돈 주면 너 다치지 않아.,m2q1a03ander,nw_d1_mid_evil,[지능 낮음],,,0,0
+58720,PC,Player Character,"Good. Hand over the coin, then, and be quick about it.",좋아요. 돈 빨리 내세요.,m2q1a03ander,nw_d1_mid_evil,[지능 보통],,,0,0
+58721,PC,Player Character,"Me thinks you should go, then, maybe.","나 생각에 너 그럼 가야 할 것 같아, 아마.",m2q1a03ander,,[지능 낮음],,,0,0
+58722,PC,Player Character,"I think you should move on, then.",그럼 떠나는 게 좋겠네요.,m2q1a03ander,,[지능 보통],,,0,0
+58723,PC,Player Character,You kids me? You not finds way out of town! Ha ha!,너 농담이지? 너 마을 밖도 못 나가! 하하!,m2q1a03ander,nw_d1_small_evil,[지능 낮음],,,0,0
+58724,PC,Player Character,Are you kidding? You couldn't find your way out of town!,농담하는 거예요? 당신 마을 밖도 못 나갈걸요!,m2q1a03ander,nw_d1_small_evil,[지능 보통],,,0,0
+58725,PC,Player Character [M1Q1A00],Here... me gives 100 gold to helps out.,여기... 나 도와주려고 금화 100개 줘.,m2q1a03ander,nw_d1_mid_good,m1q1a00has100gpl,[M1Q1A00],,0,0
+58726,PC,Player Character [M1Q1A00],Here... 100 gold to help you out.,여기... 도와드리려고 금화 100개요.,m2q1a03ander,nw_d1_mid_good,m1q1a00has100gpn,[M1Q1A00],,0,0
+58727,PC,Player Character,Okays. You do that.,좋아. 너 그렇게 해.,m2q1a03ander,nw_d1_small_good,[지능 낮음],,,0,0
+58728,PC,Player Character,You do that.,그렇게 하세요.,m2q1a03ander,nw_d1_small_good,[지능 보통],,,0,0
+58729,PC,Player Character,Maybe you coulds sell stuff now?,지금 물건 팔 수도 있지 않아?,m2q1a03ander,,[지능 낮음],,,0,0
+58730,PC,Player Character,Maybe you should open your own shop?,자기 가게를 차리는 건 어때요?,m2q1a03ander,,[지능 보통],,,0,0
+58731,PC,Player Character,Hah! Me jokes! You never does that!,하! 나 농담이야! 너 절대 못 해!,m2q1a03ander,nw_d1_small_evil,[지능 낮음],,,0,0
+58732,PC,Player Character,Hah! I was joking! As if you could ever do it!,하! 농담이에요! 당신이 할 수 있을 리가!,m2q1a03ander,nw_d1_small_evil,[지능 보통],,,0,0
+64530,PC,Player Character,Who this Neurik?,이 뉴릭이 누구야?,m2q1a03ander,,[지능 낮음],,,0,0
+64531,PC,Player Character,Who is this Neurik?,이 뉴릭이라는 사람은 누구죠?,m2q1a03ander,,[지능 보통],,,0,0
+64532,PC,Player Character,Why you not talks about it?,왜 너 그거 얘기 안 해?,m2q1a03ander,,[지능 낮음],,,0,0
+64533,PC,Player Character,Why can't you talk about it?,왜 그것에 대해 말할 수 없나요?,m2q1a03ander,,[지능 보통],,,0,0
+64534,PC,Player Character,Who this Neurik?,이 뉴릭이 누구야?,m2q1a03ander,,[지능 낮음],,,0,0
+64535,PC,Player Character,Who is this Neurik?,이 뉴릭이라는 사람은 누구죠?,m2q1a03ander,,[지능 보통],,,0,0
+64536,PC,Player Character,Why you not talks about it?,왜 너 그거 얘기 안 해?,m2q1a03ander,,[지능 낮음],,,0,0
+64537,PC,Player Character,Why can't you talk about it?,왜 그것에 대해 말할 수 없나요?,m2q1a03ander,,[지능 보통],,,0,0
+64538,PC,Player Character,You tells me where Alhelor live.,너 알헬러 어디 사는지 말해 줘.,m2q1a03ander,,[지능 낮음],,,0,0
+64539,PC,Player Character,Tell me where this Alhelor lives.,알헬러가 어디 사는지 말해 주세요.,m2q1a03ander,,[지능 보통],,,0,0
+64540,PC,Player Character,Ander... Alhelor really be Black Wolf.,앤더... 알헬러가 정말 검은 늑대야.,m2q1a03ander,,[지능 낮음],,,0,0
+64541,PC,Player Character,Ander... Alhelor is really the Black Wolf.,앤더... 알헬러가 정말 검은 늑대예요.,m2q1a03ander,,[지능 보통],,,0,0
+64542,PC,Player Character,You just says if you seen him since he go.,너 떠난 뒤로 그를 봤는지만 말해 줘.,m2q1a03ander,,[지능 낮음],,,0,0
+64543,PC,Player Character,Just tell me if you've seen him since he left.,떠난 뒤로 그를 봤는지만 말해 주세요.,m2q1a03ander,,[지능 보통],,,0,0
+64544,PC,Player Character,"Me knows it sound funny, but me gets to bottom of this soon.","나 이거 우스운 소리인 거 알지만, 나 곧 진상 밝혀낼 거야.",m2q1a03ander,,[지능 낮음],,,0,0
+64545,PC,Player Character,"I know it sounds strange, but I will get to the bottom of this.","이상하게 들리는 거 알지만, 진상을 밝혀낼 겁니다.",m2q1a03ander,,[지능 보통],,,0,0
+64546,PC,Player Character,"Me not jokes, Ander. Me want to warns you.","나 농담 아니야, 앤더. 나 너한테 경고하고 싶었어.",m2q1a03ander,,[지능 낮음],,,0,0
+64547,PC,Player Character,"I'm not joking, Ander. I wanted to warn you.","농담 아니에요, 앤더. 경고하고 싶었어요.",m2q1a03ander,,[지능 보통],,,0,0
+64548,PC,Player Character,Who you?,너 누구?,m2q1a03ander,,[지능 낮음],,,0,0
+64549,PC,Player Character,Who are you?,당신은 누구세요?,m2q1a03ander,,[지능 보통],,,0,0

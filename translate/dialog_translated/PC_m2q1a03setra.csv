@@ -1,0 +1,23 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30908,PC,Player Character,<StartCheck>[Insight]</Start> What gem are you talking about?,<StartCheck>[통찰]</Start> 무슨 보석을 말하는 거야?,m2q1a03setra,,nw_d2_wis_intn,,,0,0
+30909,PC,Player Character,Make you beautiful? What do you mean?,널 아름답게 만든다고? 무슨 뜻이야?,m2q1a03setra,,[매력 중간/지능 중간],,,0,0
+30910,PC,Player Character [M2Q2S],I have something that might make you beautiful again.,널 다시 아름답게 만들 수 있는 게 있어.,m2q1a03setra,,m2q2scseta2,[M2Q2S],,0,0
+30911,PC,Player Character,I'm looking for some missing druids.,실종된 드루이드들을 찾고 있어.,m2q1a03setra,,[지능 보통],,,0,0
+30912,PC,Player Character,I have other things I need to do.,다른 할 일들이 있어.,m2q1a03setra,,[지능 낮음],,,0,0
+30913,PC,Player Character,Make you purty? What you mean?,너 예뻐지게 해준다고? 무슨 뜻이야?,m2q1a03setra,,[매력 중간/지능 낮음],,,0,0
+30914,PC,Player Character,Me look for missin' folk.,나 잃어버린 사람들 찾아.,m2q1a03setra,,[지능 낮음],,,0,0
+30915,PC,Player Character [M2Q2S],"Me have somethin' to make you purty, yuh?","나 너 예뻐지게 만들어줄 거 있어, 알지?",m2q1a03setra,,m2q2scseta9,[M2Q2S],,0,0
+30916,PC,Player Character,"Uh, yuh, me go now.","어, 응, 나 이제 가.",m2q1a03setra,,[지능 낮음],,,0,0
+30917,PC,Player Character [M2Q2S],"No, a potion of nymph's tears.","아니, 님프의 눈물 물약이야.",m2q1a03setra,,m2q2scseta3,[M2Q2S],,0,0
+30918,PC,Player Character [M2Q2S],"<StartCheck>[Persuade]</Start> No, a magic mirror. Anyone who peers into it is made beautiful.","<StartCheck>[설득]</Start> 아니, 마법 거울이야. 들여다보는 사람을 누구나 아름답게 만들어줘.",m2q1a03setra,,m2q2scseta4,[M2Q2S],,0,0
+30919,PC,Player Character,"Sorry, I was mistaken, Setara.","미안, 착각이었어, 세타라.",m2q1a03setra,,[지능 보통],,,0,0
+30920,PC,Player Character [M2Q2S],"No, me have potion of purtiness for you.","아니, 나 너 예뻐지게 해주는 물약 있어.",m2q1a03setra,,m2q2scseta5,[M2Q2S],,0,0
+30921,PC,Player Character [M2Q2S],"<StartCheck>[Persuade]</Start> No, me have magic mirror. It make you purty, see?","<StartCheck>[설득]</Start> 아니, 나 마법 거울 있어. 그게 너 예쁘게 만들어줘, 알지?",m2q1a03setra,,m2q2scseta6,[M2Q2S],,0,0
+30922,PC,Player Character,"Uh, me goof up. Sorry.","어, 나 실수했어. 미안해.",m2q1a03setra,,[지능 낮음],,,0,0
+30923,PC,Player Character [M2Q2S],"Setara, you had mentioned a gem.","세타라, 보석에 대해 말했었잖아.",m2q1a03setra,,m2q2scseta7,[M2Q2S],,0,0
+30924,PC,Player Character,"Setara, I'm still looking for those druids.","세타라, 아직도 드루이드들을 찾고 있어.",m2q1a03setra,,[지능 보통],,,0,0
+30925,PC,Player Character,"All right, take care of yourself.","알았어, 조심해.",m2q1a03setra,,[지능 보통],,,0,0
+30926,PC,Player Character [M2Q2S],"Uh, you talk 'bout gem... ","어, 너 보석 얘기했잖아...",m2q1a03setra,,m2q2scseta8,[M2Q2S],,0,0
+30927,PC,Player Character,"Uh, me still look for missin' folk.","어, 나 아직도 잃어버린 사람들 찾고 있어.",m2q1a03setra,,[지능 낮음],,,0,0
+30928,PC,Player Character,Me go if that okay.,괜찮으면 나 갈게.,m2q1a03setra,,[지능 낮음],,,0,0
+30929,PC,Player Character,<StartCheck>[Insight]</Start> Shed a tear? What do you mean?,<StartCheck>[통찰]</Start> 눈물을 흘린다고? 무슨 뜻이야?,m2q1a03setra,,nw_d2_wis_intn,,,0,0

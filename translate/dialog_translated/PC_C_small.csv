@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+79102,PC,Player Character,Leave.,떠납니다.,catchingthewind,,,,,0,0
+79103,PC,Player Character,Read the story that you've written.,당신이 쓴 이야기를 읽습니다.,catchingthewind,a_catching_read,,,,0,0
+85906,PC,Player Character,We can't be sure. Maybe only a matter of days.,확실하지 않습니다. 아마 며칠 정도일 겁니다.,cut102seer,,,,vs_nx2imlom_66,0,0
+86280,PC,Player Character,We are betrayed! The enemy is within the walls!,배신당했다! 적이 성벽 안에 있다!,cut108seer2,,,,vs_nx2seerf_57,0,0
+86634,PC,Player Character,"Mother Seer, it is good to see you once more.","어머니 선견자님, 다시 뵙게 되어 기쁩니다.",cut102seer2,,,,vs_nx2nathf_50,0,0
+86635,PC,Player Character,"I believe I have come up with a better solution. Better for House Maeviir, at least.","더 나은 해결책을 생각해냈습니다. 적어도 마에비르 가문에는 더 나은.",cut108seer,,,,vs_nx2betyf_50,0,0
+86636,PC,Player Character,The Valsharess is too strong. We either side with her or die.,발샤레스는 너무 강합니다. 그녀 편에 서거나 죽거나 둘 중 하나입니다.,cut108seer,,,,vs_nx2betyf_51,0,0
+86637,PC,Player Character,"House Maeviir no longer needs you, Seer. We serve the Valsharess now!","마에비르 가문은 더 이상 당신이 필요 없습니다, 선견자님. 우리는 이제 발샤레스를 섬깁니다!",cut108seer,,,,vs_nx2betyf_52,0,0
+91416,PC,Player Character,No. <StartAction>Destroy the door.</Start>,아니오. <StartAction>문을 파괴합니다.</Start>,con_hod_ddoor,hod_destroy_door,,,,0,0
+91417,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_ddoor,act_ddoor_jump,,,,0,0
+91419,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,con_hod_door0,hod_close_door,,,,0,0
+91420,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_door0,x0_portal_a0jump,,,,0,0
+91423,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,con_hod_door1,hod_close_door,,,,0,0
+91424,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_door1,x0_portal_a1jump,,,,0,0
+91427,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,con_hod_door2,hod_close_door,,,,0,0
+91428,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_door2,x0_portal_a2jump,,,,0,0
+91431,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,con_hod_door3,hod_close_door,,,,0,0
+91432,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_door3,x0_portal_a3jump,,,,0,0
+91435,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,con_hod_door4,hod_close_door,,,,0,0
+91436,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_door4,,x0_portal_a4jump,,,0,0
+91439,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,con_hod_door5,hod_close_door,,,,0,0
+91440,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_door5,x0_portal_a5jump,x0_portal_a5exis,,,0,0
+91443,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,con_hod_ldoor,hod_destroy_door,,,,0,0
+91444,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_ldoor,act_ldoor_jump,,,,0,0
+91463,PC,Player Character,"""Hello raven.""","""안녕, 까마귀야.""",cut5_raven,,,,,0,0
+95570,PC,Player Character,Not right now.,지금은 아닙니다.,con_hod_homedoor,act_ddoor_destry,,,,0,0
+95571,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,con_hod_homedoor,act_ddoor_jump2,,,,0,0

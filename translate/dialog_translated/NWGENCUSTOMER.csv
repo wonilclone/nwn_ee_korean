@@ -1,0 +1,50 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+24496,Dialog,NWGENCUSTOMER,Thank you.,고마워요.,NWGENCUSTOMER,,,,,0,0
+24497,Dialog,NWGENCUSTOMER,"Barmaid, over here?","여급, 이쪽이요?",NWGENCUSTOMER,nw_tav_custwait,,,,0,0
+24499,Dialog,NWGENCUSTOMER,Barmaid.,여급.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
+24501,Dialog,NWGENCUSTOMER,Another ale.,맥주 한 잔 더.,NWGENCUSTOMER,,,,,0,0
+24503,Dialog,NWGENCUSTOMER,Get meesh another drink! I'm thirshty!,나한테 술 한 잔 더 갖다줘! 목말라!,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
+24505,Dialog,NWGENCUSTOMER,Eh? Not polite to interrupt someone's drinkin'. What can I do for you?,응? 술 마시는 사람 방해하는 건 예의가 아닌데. 뭘 도와줄까?,NWGENCUSTOMER,,,,vs_ngnbarm2_050,0,0
+24506,Dialog,NWGENCUSTOMER,Bye then. Good on you.,그럼 안녕. 잘 가라고.,NWGENCUSTOMER,,,,,0,0
+24507,Dialog,NWGENCUSTOMER,All right then. Farewell.,그럼 됐어. 잘 가게.,NWGENCUSTOMER,,,,,0,0
+24508,Dialog,NWGENCUSTOMER,Bah. Waste of my time.,쳇. 시간 낭비야.,NWGENCUSTOMER,,,,,0,0
+24509,Dialog,NWGENCUSTOMER,"I ain't got time for imbeciles. Ah, all right, what do you want to know?","멍청이한테 쓸 시간은 없어. 아, 됐어. 뭘 알고 싶은데?",NWGENCUSTOMER,,,,,0,0
+24510,Dialog,NWGENCUSTOMER,"I suppose. Don't know why you would want to know what I think, though.","그럴 수도 있지. 내 생각을 왜 알고 싶어 하는지는 모르겠지만.",NWGENCUSTOMER,,,,,0,0
+24511,Dialog,NWGENCUSTOMER,"I guess, but I don't feel much like talking.","글쎄, 별로 말하고 싶은 기분은 아닌데.",NWGENCUSTOMER,,,,,0,0
+24512,Dialog,NWGENCUSTOMER,"Ah, like I care. Talk if you want. Maybe I'll answer.","아, 알 게 뭐야. 말하고 싶으면 해. 대답해줄 수도 있어.",NWGENCUSTOMER,,,,,0,0
+24513,Dialog,NWGENCUSTOMER,"Look, you seem like an all right person. Just leave me be. I don't know anything about any of this. I just wait to get the plague and die.","이봐, 괜찮은 사람 같긴 한데. 그냥 나 좀 내버려 둬. 이런 일에 대해서는 아무것도 몰라. 그냥 역병에 걸려 죽기만 기다리는 거야.",NWGENCUSTOMER,,,,,0,0
+24514,Dialog,NWGENCUSTOMER,"Bah! Can't trust anybody. I wish Aarin Gend were back in town. He gets things done with a quick slice to the throat, not priests and strange creatures.","쳇! 아무도 믿을 수가 없어. 아린 겐드가 마을에 돌아왔으면 좋겠다. 그 사람은 성직자나 이상한 생명체가 아니라 목을 빠르게 긋는 걸로 일을 처리하거든.",NWGENCUSTOMER,,,,,0,0
+24515,Dialog,NWGENCUSTOMER,"Who is... ? You don't know Aarin Gend, spymaster? Some guard you are, if you really are one. Aarin Gend is the best officer Neverwinter has.","누구냐고...? 첩보장 아린 겐드를 모른다고? 정말 경비라면, 그런 경비가 다 있나. 아린 겐드는 네버윈터 최고의 장교야.",NWGENCUSTOMER,,,,,0,0
+24516,Dialog,NWGENCUSTOMER,"I don't hate all of them, but I'm damn tired of promises that ain't helping. Like those Helmite guys talking about blessings that just get you soggy.","다 싫은 건 아니지만, 도움도 안 되는 약속들엔 진절머리가 나. 그냥 축축해지기만 하는 축복 얘기하는 헬름 신도들처럼 말이야.",NWGENCUSTOMER,,,,,0,0
+24517,Dialog,NWGENCUSTOMER,"Ah, I heard Aribeth and that lot were looking for some weird beasts that were supposed to be part of a cure.","아, 아리베스와 그 일행이 치료제의 일부라는 이상한 짐승들을 찾고 있다고 들었어.",NWGENCUSTOMER,,,,,0,0
+24518,Dialog,NWGENCUSTOMER,Is there something else you wanted to know?,다른 알고 싶은 거 있어?,NWGENCUSTOMER,,,,,0,0
+24519,Dialog,NWGENCUSTOMER,Like what? I ain't seen nothing but the inside of a bottle for days now. You should really go bug somebody that matters.,뭘? 며칠째 술병 안쪽밖에 본 게 없어. 중요한 사람이나 가서 귀찮게 해.,NWGENCUSTOMER,,,,,0,0
+24520,Dialog,NWGENCUSTOMER,Whatever. What do you want to know?,아무래도 좋아. 뭘 알고 싶은데?,NWGENCUSTOMER,,,,,0,0
+24521,Dialog,NWGENCUSTOMER,"What? You bother me just to blow me off? Take a walk, little <boy/girl>, you ain't making friends here.","뭐? 그냥 무시하려고 귀찮게 한 거야? 저리 가, 꼬마야. 여기서 친구 못 사귀어.",NWGENCUSTOMER,,,,,0,0
+24522,Dialog,NWGENCUSTOMER,"I tell you, if he weren't off on some mission somewhere he'd be cutting a swath through this plague. Couldn't do worse than these fool clerics and creatures.","말해 두는데, 어디선가 임무 중이 아니었다면 이 역병을 휩쓸어버렸을 거야. 이 멍청한 성직자들과 생명체들보다 못할 리가 없지.",NWGENCUSTOMER,,,,,0,0
+24523,Dialog,NWGENCUSTOMER,"Don't waste your time. If you're at all important to Neverwinter you'll meet him eventually. Trust me, you won't find him if he doesn't want to be found.","시간 낭비하지 마. 네버윈터에 조금이라도 중요한 사람이면 언젠간 만나게 될 거야. 믿어, 그 사람이 찾아지길 원치 않으면 못 찾아.",NWGENCUSTOMER,,,,,0,0
+24524,Dialog,NWGENCUSTOMER,Ain't seen nothing but empty words from anyone. The plague just keeps going.,누구한테서도 빈말밖에 못 들었어. 역병은 계속되고 있을 뿐이지.,NWGENCUSTOMER,,,,,0,0
+24525,Dialog,NWGENCUSTOMER,"Nothing's happened with that yet, so it's probably just as much of a lie as what the Helmites are spilling. I don't know nothing more.","아직 아무 일도 안 생겼으니, 헬름 신도들이 떠드는 거처럼 그것도 거짓말일 거야. 더 아는 건 없어.",NWGENCUSTOMER,,,,,0,0
+24526,Dialog,NWGENCUSTOMER,"Oh, I remember now. I heard about how to cure the plague and gain fabulous riches in the process. Yep, I heard how to solve everyone's problems.","아, 이제 생각났다. 역병을 치료하고 그 과정에서 엄청난 부를 얻는 법을 들었어. 그래, 모두의 문제를 해결하는 법을 들었다고.",NWGENCUSTOMER,,,,,0,0
+24527,Dialog,NWGENCUSTOMER,"Then I sat in this tavern and waited for some jerk to come ask me about it, so I could tell them and let them get all the glory.","그러곤 이 술집에 앉아서 어떤 바보가 와서 물어보길 기다렸지. 그래서 말해주고 그들이 영광을 다 가져가게 하려고.",NWGENCUSTOMER,,,,,0,0
+24528,Dialog,NWGENCUSTOMER,"Is that what you want, a solution for everything? Well, how about this: stop pestering losers in bars and go do something that matters!","그게 원하는 거야? 모든 것에 대한 해결책? 그럼 이건 어때: 술집에서 패배자들 귀찮게 하지 말고 중요한 일이나 해!",NWGENCUSTOMER,,,,,0,0
+40220,Dialog,NWGENCUSTOMER,Thank you.,고마워요.,NWGENCUSTOMER,,,,,0,0
+40221,Dialog,NWGENCUSTOMER,Barmaid.,여급.,NWGENCUSTOMER,nw_tav_custwait,,,,0,0
+40223,Dialog,NWGENCUSTOMER,Barmaid.,여급.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
+40225,Dialog,NWGENCUSTOMER,Another ale.,맥주 한 잔 더.,NWGENCUSTOMER,,,,,0,0
+40227,Dialog,NWGENCUSTOMER,Get me another drink!,술 한 잔 더 줘!,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
+40229,Dialog,NWGENCUSTOMER,Hold up there.,잠깐만요.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
+40230,Dialog,NWGENCUSTOMER,Excuse me.,실례합니다.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
+40231,Dialog,NWGENCUSTOMER,I'd rather not talk right now.,지금은 말하고 싶지 않아요.,NWGENCUSTOMER,,,,,0,0
+65195,Dialog,NWGENCUSTOMER,I don't suppose there's something you want?,혹시 원하는 게 있나요?,NWGENCUSTOMER,,,,,0,0
+65196,Dialog,NWGENCUSTOMER,I'm just here to have a drink or two. Leave me be.,그냥 술 한두 잔 마시러 온 거야. 내버려 둬.,NWGENCUSTOMER,,,,,0,0
+65197,Dialog,NWGENCUSTOMER,They say the hills are still full of monsters. I hate monsters!,언덕에 아직도 괴물이 가득하다더군. 괴물은 질색이야!,NWGENCUSTOMER,,,,,0,0
+65198,Dialog,NWGENCUSTOMER,The roads out there aren't safe. I lost both my guards to some orc raiders.,밖에 길이 안전하지 않아. 오크 약탈자들한테 경비 둘 다 잃었어.,NWGENCUSTOMER,,,,,0,0
+65199,Dialog,NWGENCUSTOMER,I wonder how Mutamin gets all his money? Someone told me he was once a great adventurer.,무타민이 돈을 어떻게 그렇게 모으는지 궁금해. 누가 그러는데 예전에 대단한 모험가였다더군.,NWGENCUSTOMER,,,,,0,0
+65200,Dialog,NWGENCUSTOMER,I hear that the High Captains in Luskan have been slaughtering the populace in the name of some evil demon.,러스칸의 대선장들이 어떤 사악한 악마의 이름으로 민중을 학살하고 있다고 들었어.,NWGENCUSTOMER,,,,,0,0
+65201,Dialog,NWGENCUSTOMER,How long do you suppose they'll keep Luskan closed?,러스칸을 얼마나 오래 폐쇄해둘 것 같아?,NWGENCUSTOMER,,,,,0,0
+65202,Dialog,NWGENCUSTOMER,"Sigh. This inn isn't bad, really... I'd just rather get into Luskan and be done with my business.","휴. 이 여관이 나쁘진 않은데... 그냥 러스칸에 들어가서 볼일이나 끝내고 싶어.",NWGENCUSTOMER,,,,,0,0
+65203,Dialog,NWGENCUSTOMER,"I suppose you're here for the contest, huh?","대회 때문에 온 거지, 그렇지?",NWGENCUSTOMER,,,,,0,0
+65204,Dialog,NWGENCUSTOMER,"Hmm. I hear winning the contest isn't worth it, after all. What do you think?","흠. 대회에서 이겨봤자 별 가치가 없다던데. 어떻게 생각해?",NWGENCUSTOMER,,,,,0,0
+65205,Dialog,NWGENCUSTOMER,"I'd like to congratulate you on your victory, <sir/madam>.","승리를 축하드립니다, 선생님.",NWGENCUSTOMER,,,,,0,0
+65206,Dialog,NWGENCUSTOMER,Aren't you the one who won the contest? Wow. Well done!,대회에서 이긴 사람 아니야? 와. 잘했어!,NWGENCUSTOMER,,,,,0,0

@@ -1,0 +1,115 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+37594,PC,Player Character [M2Q5C],What's so dangerous about this area?,이 지역이 뭐가 그렇게 위험한 거야?,m2q5a04frmer,,m2q5csfarmplot6n,[M2Q5C],,0,0
+37595,PC,Player Character,Where's the nearest inn?,가장 가까운 여관이 어디야?,m2q5a04frmer,,[지능 보통],,,0,0
+37596,PC,Player Character,Can you tell me the way to Luskan?,러스칸 가는 길 좀 알려줄 수 있어?,m2q5a04frmer,,[지능 보통],,,0,0
+37597,PC,Player Character,I'll be on my way.,이제 갈게.,m2q5a04frmer,,[지능 보통],,,0,0
+37599,PC,Player Character [M2Q5C],"Why this area is dangerous, huh?","왜 이 지역 위험해, 응?",m2q5a04frmer,,m2q5csfarmplot6l,[M2Q5C],,0,0
+37600,PC,Player Character,Me just wants find inn.,나 그냥 여관 찾고 싶어.,m2q5a04frmer,,[지능 낮음],,,0,0
+37601,PC,Player Character,Me looks for Luskan. Is this way?,나 러스칸 찾아. 이쪽이야?,m2q5a04frmer,,[지능 낮음],,,0,0
+37602,PC,Player Character,Me go now.,나 이제 가.,m2q5a04frmer,,[지능 낮음],,,0,0
+37610,PC,Player Character [M2Q5C],"The monster's leader, Dergiab, is dead. I have his head.","괴물들의 우두머리 데지압이 죽었어. 머리를 가져왔고.",m2q5a04frmer,,m2q5csfarmplot5n,[M2Q5C],,0,0
+37611,PC,Player Character [M2Q5C],"Me killed monster leader, Dergiab. Me got it head.","나 괴물 우두머리 데지압 죽였어. 나 머리 가져왔어.",m2q5a04frmer,,m2q5csfarmplot5l,[M2Q5C],,0,0
+37612,PC,Player Character [M2Q5C],I have Leah's ring right here. She's dead.,"리아의 반지 여기 있어. 그녀는 죽었어.",m2q5a04frmer,,m2q5csfarmplot1b,[M2Q5C],,0,0
+37613,PC,Player Character [M2Q5C],Me gots Leah ring. She be dead.,나 리아 반지 가져왔어. 그녀 죽었어.,m2q5a04frmer,,m2q5csfarmplot1c,[M2Q5C],,0,0
+37614,PC,Player Character [M2Q5C],The monster's leader is dead. I have his head.,괴물들의 우두머리는 죽었어. 머리를 가져왔고.,m2q5a04frmer,,m2q5csfarmplot5n,[M2Q5C],,0,0
+37615,PC,Player Character [M2Q5C],Me killed monster leader. Me got head.,나 괴물 우두머리 죽였어. 나 머리 가져왔어.,m2q5a04frmer,,m2q5csfarmplot5l,[M2Q5C],,0,0
+37616,PC,Player Character,I'll be on my way.,이제 갈게.,m2q5a04frmer,,[지능 보통],,,0,0
+37617,PC,Player Character,Me go now. Bye.,나 이제 가. 안녕.,m2q5a04frmer,,[지능 낮음],,,0,0
+37618,PC,Player Character,It will do.,그 정도면 돼.,m2q5a04frmer,,[지능 보통],,,0,0
+37619,PC,Player Character,It do fine.,괜찮아.,m2q5a04frmer,,[지능 낮음],,,0,0
+37620,PC,Player Character,"<StartCheck>[Persuade]</Start> I think killing Dergiab is worth a bit larger reward, no?","<StartCheck>[설득]</Start> 데지압을 죽인 건 좀 더 큰 보상을 받을 만하지 않아?",m2q5a04frmer,,[지능 보통],,,0,0
+37621,PC,Player Character,"<StartCheck>[Persuade]</Start> Dergiab not easy kill. Me earns more, no?","<StartCheck>[설득]</Start> 데지압 죽이기 쉽지 않았어. 나 더 받아야 해, 그렇지?",m2q5a04frmer,,[지능 낮음],,,0,0
+37622,PC,Player Character,I might have to rough you up and see what else you got in there.,거칠게 좀 굴어서 거기 뭐가 더 있나 봐야겠는데.,m2q5a04frmer,nw_d1_small_evil,[지능 보통],,,0,0
+37623,PC,Player Character,Me thinking you gots more gold... Maybe me shake you up and looks.,나 네가 금화 더 가지고 있다고 생각해... 흔들어서 찾아볼까.,m2q5a04frmer,nw_d1_small_evil,[지능 낮음],,,0,0
+37624,PC,Player Character,No gold is necessary. I just wanted to let you know the deed was done.,금화는 필요 없어. 그냥 일이 끝났다는 걸 알려주고 싶었어.,m2q5a04frmer,nw_d1_small_good,[지능 보통],,,0,0
+37625,PC,Player Character,Me no needs gold. Me just want to tell you Dergiab dead.,나 금화 필요 없어. 나 그냥 데지압 죽었다고 알려주고 싶었어.,m2q5a04frmer,nw_d1_small_good,[지능 낮음],,,0,0
+37626,PC,Player Character [M2Q5C],I see Leah made it back safely.,리아가 무사히 돌아온 걸 봤어.,m2q5a04frmer,,m2q5csfarmplot01,[M2Q5C],,0,0
+37627,PC,Player Character [M2Q5C],Me sees wife makes it back okay.,나 부인 무사히 돌아온 거 봤어.,m2q5a04frmer,,m2q5csfarmplot02,[M2Q5C],,0,0
+37628,PC,Player Character [M2Q5C],Nothing yet.,아직 아무것도.,m2q5a04frmer,,m2q5csfarmplot04,[M2Q5C],,0,0
+37629,PC,Player Character [M2Q5C],Me has no news yet.,나 아직 소식 없어.,m2q5a04frmer,,m2q5csfarmplot05,[M2Q5C],,0,0
+37630,PC,Player Character [M2Q5C],I have some questions.,몇 가지 질문이 있는데.,m2q5a04frmer,,m2q5csfarmplot04,[M2Q5C],,0,0
+37631,PC,Player Character [M2Q5C],Me have questions.,나 질문 있어.,m2q5a04frmer,,m2q5csfarmplot05,[M2Q5C],,0,0
+37632,PC,Player Character,Could you give me some directions?,길 좀 알려줄 수 있어?,m2q5a04frmer,,[지능 보통],,,0,0
+37633,PC,Player Character,"Me want directions, please.","나 길 알려줘, 부탁이야.",m2q5a04frmer,,[지능 낮음],,,0,0
+59230,PC,Player Character,Me has no time to be errand <boy/girl>.,나 심부름 <boy/girl> 할 시간 없어.,m2q5a04frmer,,[지능 낮음],,,0,0
+59231,PC,Player Character,I've no time for your errands.,당신 심부름할 시간 없어.,m2q5a04frmer,,[지능 보통],,,0,0
+59232,PC,Player Character,I would like some directions.,길 좀 알려줬으면 하는데.,m2q5a04frmer,[지능 보통],[지능 보통],,,0,0
+59233,PC,Player Character,Me needs directions.,나 길 알려줘.,m2q5a04frmer,[지능 낮음],[지능 낮음],,,0,0
+59234,PC,Player Character,Nevermind.,됐어.,m2q5a04frmer,,,,,0,0
+59235,PC,Player Character [M2Q5A04],Me told there be caves 'round here.,나 이 근처에 동굴 있다고 들었어.,m2q5a04frmer,,m2q5a04farmer02,[M2Q5A04],,0,0
+59236,PC,Player Character [M2Q5A04],I'm told there are caves in this area.,이 지역에 동굴이 있다고 들었는데.,m2q5a04frmer,,m2q5a04farmer01,[M2Q5A04],,0,0
+59237,PC,Player Character,Me looks for Luskan. Is this way?,나 러스칸 찾아. 이쪽이야?,m2q5a04frmer,,[지능 낮음],,,0,0
+59238,PC,Player Character,Can you tell me the way to Luskan?,러스칸 가는 길 좀 알려줄 수 있어?,m2q5a04frmer,,[지능 보통],,,0,0
+59239,PC,Player Character,Me just wants find inn.,나 그냥 여관 찾고 싶어.,m2q5a04frmer,,[지능 낮음],,,0,0
+59240,PC,Player Character,Where's the nearest inn?,가장 가까운 여관이 어디야?,m2q5a04frmer,,[지능 보통],,,0,0
+59241,PC,Player Character,"Is okay, thanks.","괜찮아, 고마워.",m2q5a04frmer,,[지능 낮음],,,0,0
+59242,PC,Player Character,"That's fine, thanks.","괜찮아, 고마워.",m2q5a04frmer,,[지능 보통],,,0,0
+59243,PC,Player Character,Me gots no more questions.,나 더 이상 질문 없어.,m2q5a04frmer,,[지능 낮음],,,0,0
+59244,PC,Player Character,I don't have any more questions.,더 이상 질문 없어.,m2q5a04frmer,,[지능 보통],,,0,0
+59245,PC,Player Character [M2Q5A04],"You thinks wife lives, maybe?","부인 살아있다고 생각해, 혹시?",m2q5a04frmer,,m2q5a04farmer06,[M2Q5A04],,0,0
+59246,PC,Player Character [M2Q5A04],Do you think your wife is still alive?,당신 부인이 아직 살아있다고 생각해?,m2q5a04frmer,,m2q5a04farmer05,[M2Q5A04],,0,0
+59247,PC,Player Character,"You knows about cult 'round here, maybe?","이 근처 사교에 대해 알아, 혹시?",m2q5a04frmer,,[지능 낮음],,,0,0
+59248,PC,Player Character,Do you know anything about a cult in the region?,이 지역에 사교에 대해 아는 거 있어?,m2q5a04frmer,,[지능 보통],,,0,0
+59249,PC,Player Character,Where me finds caves?,나 동굴 어디서 찾아?,m2q5a04frmer,,[지능 낮음],,,0,0
+59250,PC,Player Character,Where do I find these caves?,이 동굴들은 어디서 찾을 수 있어?,m2q5a04frmer,,[지능 보통],,,0,0
+59251,PC,Player Character,Tell me 'bout Dergiab.,데지압에 대해 말해줘.,m2q5a04frmer,,[지능 낮음],,,0,0
+59252,PC,Player Character,Tell me of this Dergiab.,이 데지압에 대해 말해줘.,m2q5a04frmer,,[지능 보통],,,0,0
+59253,PC,Player Character,What you wants me to do again?,나한테 다시 뭐 하라고 했지?,m2q5a04frmer,,[지능 낮음],,,0,0
+59254,PC,Player Character,What is it you want me to do again?,다시 뭘 해달라는 거지?,m2q5a04frmer,,[지능 보통],,,0,0
+59255,PC,Player Character,Me not needs gold. Me happy to help.,나 금화 필요 없어. 나 도와서 기뻐.,m2q5a04frmer,nw_d1_small_good,[지능 낮음],,,0,0
+59256,PC,Player Character,No reward is necessary. I was glad to do it.,보상은 필요 없어. 기꺼이 도운 거야.,m2q5a04frmer,nw_d1_small_good,[지능 보통],,,0,0
+59257,PC,Player Character,"<StartCheck>[Persuade]</Start> Safety of wife be worth more, no?","<StartCheck>[설득]</Start> 부인 안전이 더 가치 있지, 그렇지?",m2q5a04frmer,,[지능 낮음],,,0,0
+59258,PC,Player Character,"<StartCheck>[Persuade]</Start> I think your wife's safety is worth more than that, no?","<StartCheck>[설득]</Start> 당신 부인의 안전이 그것보다 더 가치 있다고 생각하는데, 안 그래?",m2q5a04frmer,,[지능 보통],,,0,0
+59259,PC,Player Character,Me not take gold for sad news.,나 슬픈 소식 전하고 금화 안 받아.,m2q5a04frmer,nw_d1_small_good,[지능 낮음],,,0,0
+59260,PC,Player Character,I cannot accept your gold for bringing such sad news.,그런 슬픈 소식을 전하고 금화를 받을 수 없어.,m2q5a04frmer,nw_d1_small_good,[지능 보통],,,0,0
+59261,PC,Player Character,"Me thinks you give more gold. Me not be nice, otherwise.","나 네가 금화 더 주는 게 좋다고 생각해. 안 그러면 나 착하지 않을 거야.",m2q5a04frmer,nw_d1_small_evil,[지능 낮음],,,0,0
+59262,PC,Player Character,I think you can cough up a bit more. Wouldn't want to get rough.,좀 더 내놓을 수 있을 것 같은데. 거칠게 굴고 싶진 않아.,m2q5a04frmer,nw_d1_small_evil,[지능 보통],,,0,0
+59263,PC,Player Character,"<StartCheck>[Persuade]</Start> Peace of minds worth more, no?","<StartCheck>[설득]</Start> 마음의 평화가 더 가치 있지, 그렇지?",m2q5a04frmer,,[지능 낮음],,,0,0
+59264,PC,Player Character,"<StartCheck>[Persuade]</Start> I think peace of mind is worth a bit more, no?","<StartCheck>[설득]</Start> 마음의 평화가 좀 더 가치 있다고 생각하는데, 안 그래?",m2q5a04frmer,,[지능 보통],,,0,0
+59265,PC,Player Character,Nevermind.,됐어.,m2q5a04frmer,,,,,0,0
+59266,PC,Player Character [M2Q5A04],Me told there be caves 'round here.,나 이 근처에 동굴 있다고 들었어.,m2q5a04frmer,,m2q5a04farmer02,[M2Q5A04],,0,0
+59267,PC,Player Character [M2Q5A04],I'm told there are caves in this area.,이 지역에 동굴이 있다고 들었는데.,m2q5a04frmer,,m2q5a04farmer01,[M2Q5A04],,0,0
+59268,PC,Player Character,"Is okay, thanks.","괜찮아, 고마워.",m2q5a04frmer,,[지능 낮음],,,0,0
+59269,PC,Player Character,"That's fine, thanks.","괜찮아, 고마워.",m2q5a04frmer,,[지능 보통],,,0,0
+59270,PC,Player Character,Why you not just leaves?,왜 그냥 떠나지 않아?,m2q5a04frmer,,[지능 낮음],,,0,0
+59271,PC,Player Character,Why don't you just leave?,왜 그냥 떠나지 않는 거야?,m2q5a04frmer,,[지능 보통],,,0,0
+59272,PC,Player Character,Why Luskan stops patrols?,러스칸 왜 순찰 멈췄어?,m2q5a04frmer,,[지능 낮음],,,0,0
+59273,PC,Player Character,Why would Luskan stop patrolling?,러스칸이 왜 순찰을 멈춘 거야?,m2q5a04frmer,,[지능 보통],,,0,0
+59274,PC,Player Character,Who this Dergiab?,이 데지압 누구야?,m2q5a04frmer,,[지능 낮음],,,0,0
+59275,PC,Player Character,Who is this Dergiab?,이 데지압이 누구야?,m2q5a04frmer,,[지능 보통],,,0,0
+59276,PC,Player Character,You knows Aarin Gend?,너 아린 겐드 알아?,m2q5a04frmer,,[지능 낮음],,,0,0
+59277,PC,Player Character,You know Aarin Gend?,아린 겐드 알아?,m2q5a04frmer,,[지능 보통],,,0,0
+59278,PC,Player Character,What you says about wife?,부인에 대해 뭐라고 했지?,m2q5a04frmer,,[지능 낮음],,,0,0
+59279,PC,Player Character,What's this about your wife?,당신 부인에 대해 무슨 일인데?,m2q5a04frmer,,[지능 보통],,,0,0
+59280,PC,Player Character,Maybe me coulds help.,아마 나 도울 수 있어.,m2q5a04frmer,,[지능 낮음],,,0,0
+59281,PC,Player Character,Perhaps I could help.,아마 내가 도울 수 있을 거야.,m2q5a04frmer,,[지능 보통],,,0,0
+59282,PC,Player Character,Me gots other stuff to do.,나 할 거 다른 거 있어.,m2q5a04frmer,,[지능 낮음],,,0,0
+59283,PC,Player Character,I have other things to do.,다른 할 일이 있어.,m2q5a04frmer,,[지능 보통],,,0,0
+59284,PC,Player Character,"Me looks into it real soon, then.","나 곧 알아볼게, 그럼.",m2q5a04frmer,,[지능 낮음],,,0,0
+59285,PC,Player Character,I will look into it as soon as I can.,최대한 빨리 알아볼게.,m2q5a04frmer,,[지능 보통],,,0,0
+59286,PC,Player Character,Me has questions.,나 질문 있어.,m2q5a04frmer,,[지능 낮음],,,0,0
+59287,PC,Player Character,I have some questions.,몇 가지 질문이 있는데.,m2q5a04frmer,,[지능 보통],,,0,0
+59288,PC,Player Character,Me gots no more questions.,나 더 이상 질문 없어.,m2q5a04frmer,,[지능 낮음],,,0,0
+59289,PC,Player Character,I don't have any more questions.,더 이상 질문 없어.,m2q5a04frmer,,[지능 보통],,,0,0
+59290,PC,Player Character,"You thinks wife lives, maybe?","부인 살아있다고 생각해, 혹시?",m2q5a04frmer,,[지능 낮음],,,0,0
+59291,PC,Player Character,Do you think your wife is still alive?,당신 부인이 아직 살아있다고 생각해?,m2q5a04frmer,,[지능 보통],,,0,0
+59292,PC,Player Character,"You knows about cult 'round here, maybe?","이 근처 사교에 대해 알아, 혹시?",m2q5a04frmer,,[지능 낮음],,,0,0
+59293,PC,Player Character,Do you know anything about a cult in the region?,이 지역에 사교에 대해 아는 거 있어?,m2q5a04frmer,,[지능 보통],,,0,0
+59294,PC,Player Character,Where me finds caves?,나 동굴 어디서 찾아?,m2q5a04frmer,,[지능 낮음],,,0,0
+59295,PC,Player Character,Where do I find these caves?,이 동굴들은 어디서 찾을 수 있어?,m2q5a04frmer,,[지능 보통],,,0,0
+59296,PC,Player Character,Tell me 'bout Dergiab.,데지압에 대해 말해줘.,m2q5a04frmer,,[지능 낮음],,,0,0
+59297,PC,Player Character,Tell me of this Dergiab.,이 데지압에 대해 말해줘.,m2q5a04frmer,,[지능 보통],,,0,0
+59298,PC,Player Character,How much reward you means?,보상 얼마나 말하는 거야?,m2q5a04frmer,,[지능 낮음],,,0,0
+59299,PC,Player Character,What kind of reward are we talking?,어느 정도 보상을 얘기하는 거야?,m2q5a04frmer,,[지능 보통],,,0,0
+59300,PC,Player Character,"There be other adventurers, huh?","다른 모험가들 있었어, 응?",m2q5a04frmer,,[지능 낮음],,,0,0
+59301,PC,Player Character,There have been other adventurers?,다른 모험가들이 있었어?,m2q5a04frmer,,[지능 보통],,,0,0
+59302,PC,Player Character,What you does here?,너 여기서 뭐 해?,m2q5a04frmer,,[지능 낮음],,,0,0
+59303,PC,Player Character,What is it you do around here?,여기서 무엇을 하는 거야?,m2q5a04frmer,,[지능 보통],,,0,0
+59304,PC,Player Character [M2Q5A04],You be Gerrol? Me talks with son.,너 게롤이야? 나 아들이랑 얘기했어.,m2q5a04frmer,,m2q5a04farmer08,[M2Q5A04],,0,0
+59305,PC,Player Character [M2Q5A04],You're Gerrol? Your son mentioned you.,게롤이세요? 아드님이 언급하던데요.,m2q5a04frmer,,m2q5a04farmer07,[M2Q5A04],,0,0
+59306,PC,Player Character,"Me not agrees to nothings, yet.","나 아직 아무것도 동의 안 했어.",m2q5a04frmer,,[지능 낮음],,,0,0
+59307,PC,Player Character,"Not so fast, old man.","그렇게 서두르지 마, 영감.",m2q5a04frmer,,[지능 보통],,,0,0
+59308,PC,Player Character,"He thinks so, yup.","그는 그렇게 생각해, 응.",m2q5a04frmer,,[지능 낮음],,,0,0
+59309,PC,Player Character,"He seemed to think so, yes.","그는 그렇게 생각하는 것 같던데, 그래.",m2q5a04frmer,,[지능 보통],,,0,0
+59310,PC,Player Character,What kind of help you needs?,무슨 도움 필요해?,m2q5a04frmer,,[지능 낮음],,,0,0
+59311,PC,Player Character,What kind of help do you need?,어떤 도움이 필요한 거야?,m2q5a04frmer,,[지능 보통],,,0,0

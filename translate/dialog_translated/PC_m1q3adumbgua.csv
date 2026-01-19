@@ -1,0 +1,35 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+20096,PC,Player Character,"Who, exactly, is your master?",네 주인은 정확히 누구지?,m1q3adumbgua,m1_stopinit,[지능 보통],,,0,0
+20097,PC,Player Character,Who master?,주인 누구?,m1q3adumbgua,m1_stopinit,[지능 낮음],,,0,0
+20098,PC,Player Character,"You're not exactly bright for a guard, are you?","경비치고 영 똑똑하진 않군, 그치?",m1q3adumbgua,m1_stopinit,[지능 보통],,,0,0
+20099,PC,Player Character,Wizard hire dumb guard?,"마법사, 바보 경비 고용했어?",m1q3adumbgua,m1_stopinit,[지능 낮음],,,0,0
+20100,PC,Player Character,"I am an intruder, obviously.",봐서 알겠지. 난 침입자다.,m1q3adumbgua,m1_stopinit,[지능 보통],,,0,0
+20101,PC,Player Character,"Me intruder, dummy.","나 침입자야, 멍청아.",m1q3adumbgua,m1_stopinit,[지능 낮음],,,0,0
+20102,PC,Player Character,My name is <FirstName>. Who are you?,내 이름은 <FirstName>다. 넌 누구지?,m1q3adumbgua,m1_stopinit,[지능 보통],,,0,0
+20103,PC,Player Character,Me <FirstName>. Who you?,나 <FirstName>. 너 누구?,m1q3adumbgua,m1_stopinit,[지능 낮음],,,0,0
+20104,PC,Player Character,<StartCheck>[Persuade]</Start> Err... I would be one of the master's friends. I'm here to see him.,<StartCheck>[설득]</Start> 어... 나는 주인님의 친구 중 하나야. 그를 만나러 왔어.,m1q3adumbgua,,[지능 보통],,,0,0
+20105,PC,Player Character,<StartCheck>[Persuade]</Start> Err... me master's friend. Here to see master.,<StartCheck>[설득]</Start> 어... 나 주인 친구. 주인 보러 왔어.,m1q3adumbgua,,[지능 낮음],,,0,0
+20106,PC,Player Character,"<StartCheck>[Insight]</Start> You don't need to challenge me. I wouldn't be here if I wasn't supposed to be, would I?",<StartCheck>[통찰]</Start> 확인 할 필요 없어. 내가 올 자리가 아니었다면 여기 있겠어?,m1q3adumbgua,,nw_d2_wis_intn,,,0,0
+20107,PC,Player Character,"<StartCheck>[Insight]</Start> So how would you know what one looks like, then?",<StartCheck>[통찰]</Start> 그럼 어떻게 생긴 건지 네가 어떻게 안다는 거지?,m1q3adumbgua,,nw_d2_wis_intn,,,0,0
+20108,PC,Player Character,Nevermind that. I have some questions.,그건 됐다. 질문이 좀 있다.,m1q3adumbgua,,[지능 보통],,,0,0
+20109,PC,Player Character,Not matter. Me have questions.,상관 없어. 나 질문 있어.,m1q3adumbgua,,[지능 낮음],,,0,0
+20110,PC,Player Character,Just forget I was here. That should be easy.,내가 여기 있었다는 건 잊어버려. 쉬울 거다.,m1q3adumbgua,,[지능 보통],,,0,0
+20111,PC,Player Character,"You just not sees me, okay?","그냥 나 못 본 거야, 알겠지?",m1q3adumbgua,,[지능 낮음],,,0,0
+20112,PC,Player Character,Now you're just too smart for your own good. Time to die.,이제 넌 네 주제도 모르고 너무 똑똑한 척해. 죽을 시간이야.,m1q3adumbgua,,[지능 보통],,,0,0
+20113,PC,Player Character,You too smart! Now you dies!!,너 너무 똑똑해! 이제 죽어!!,m1q3adumbgua,,[지능 낮음],,,0,0
+20114,PC,Player Character,Where exactly can I find your master?,네 주인은 정확히 어디에 있지?,m1q3adumbgua,,[지능 보통],,,0,0
+20115,PC,Player Character,What's beyond the door on your right?,오른쪽 문 너머엔 뭐가 있지?,m1q3adumbgua,,[지능 보통],,,0,0
+20116,PC,Player Character,What's beyond the door on your left?,왼쪽 문 너머엔 뭐가 있지?,m1q3adumbgua,,[지능 보통],,,0,0
+20117,PC,Player Character,What sort of guardians are there here?,여긴 어떤 수호자들이 있지?,m1q3adumbgua,,[지능 보통],,,0,0
+20118,PC,Player Character,Where master?,주인 어디?,m1q3adumbgua,,[지능 낮음],,,0,0
+20119,PC,Player Character,What behind door on your right?,오른쪽 문 뒤에 뭐?,m1q3adumbgua,,[지능 낮음],,,0,0
+20120,PC,Player Character,What behind door on your left?,왼쪽 문 뒤에 뭐?,m1q3adumbgua,,[지능 낮음],,,0,0
+20121,PC,Player Character,Your master - what he have guarding place?,네 주인-여길 지키는 건 뭐야?,m1q3adumbgua,,[지능 낮음],,,0,0
+20122,PC,Player Character,Why would your master keep prisoners?,네 주인은 왜 죄수들을 가두는 거지?,m1q3adumbgua,,[지능 보통],,,0,0
+20123,PC,Player Character,Why master have prisoners?,왜 주인 죄수 가둬?,m1q3adumbgua,,[지능 낮음],,,0,0
+20124,PC,Player Character,I have some questions for you.,너에게 물을 게 있다.,m1q3adumbgua,m1_stopinit,[지능 보통],,,0,0
+20125,PC,Player Character,Nevermind. I'll leave you to your... er... thoughts.,신경 쓰지 마. 네가... 어... 생각하게 둘테니까.,m1q3adumbgua,m1_stopinit,[지능 보통],,,0,0
+20126,PC,Player Character,Me have questions.,나 질문 있어.,m1q3adumbgua,m1_stopinit,[지능 낮음],,,0,0
+20127,PC,Player Character,Is okay. Me leave you alone.,괜찮아. 나 너 그냥 내버려둬.,m1q3adumbgua,m1_stopinit,[지능 낮음],,,0,0
+20128,PC,Player Character [M1Q3A00],I just thought you should know your master is dead.,네 주인이 죽었다는 걸 알려주려고.,m1q3adumbgua,m1_stopinit,m1q3a00dumbg03,[M1Q3A00],,0,0
+20129,PC,Player Character [M1Q3A00],Me say your master is dead.,나 네 주인 죽었다고 말하는 거야.,m1q3adumbgua,m1_stopinit,m1q3a00dumbg04,[M1Q3A00],,0,0

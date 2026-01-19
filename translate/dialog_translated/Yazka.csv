@@ -1,0 +1,30 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+71869,Creature,Yazka,"Yes, we not even knows what relics is! You goes and look for different relic-stealing kobolds.","그래, 우리 유물이 뭔지도 몰라! 너 가서 다른 유물 훔친 코볼트들 찾아봐.",Q2_YAZKA,,,,,0,0
+71872,Creature,Yazka,"Yes, we never even hear of no human village by name of Hilltop.","그래, 우리 힐탑이라는 인간 마을 들어본 적도 없어.",Q2_YAZKA,,,,,0,0
+71874,Creature,Yazka,"Yip! You shuts up, big idiot!","킁! 너 입 닥쳐, 큰 바보!",Q2_YAZKA,,,,,0,0
+71878,Creature,Yazka,"Shut up, Kipper! You be biggest idiot! You tells <him/her> everything! Ack, yip! Next you tell <him/her> 'bout how Deekin steal tower and runs away!","닥쳐, 키퍼! 너 제일 큰 바보! 너 <him/her>한테 다 말했어! 악, 킁! 다음엔 디킨이 탑 훔쳐서 도망친 거까지 말하겠네!",Q2_YAZKA,,,,,0,0
+71884,Creature,Yazka,"Ack, ack, Urko, we must kill it! <Man/Woman> be dangerous!","악, 악, 우르코, 저거 죽여야 해! <Man/Woman> 위험해!",Q2_YAZKA,,,,,0,0
+71888,Creature,Yazka,"Ack, ack, Urko, we must kills it! <Man/Woman> be dangerous!","악, 악, 우르코, 저거 죽여야 해! <Man/Woman> 위험해!",Q2_YAZKA,,,,,0,0
+71892,Creature,Yazka,"Yip! You should knows if they still out there, ack, yip! They would wants to rips you and cooks you and eats you... except maybe they not cooks you, first. Maybe them just eats you raw?","킁! 너 그놈들 아직 밖에 있는지 알아야지, 악, 킁! 그놈들 너 찢고 요리하고 먹고 싶을 거야... 아니면 요리 안 하고. 그냥 날로 먹을지도?",Q2_YAZKA,,,,,0,0
+71897,Creature,Yazka,"Ack, yip! Me tells you so! Them finds us and kills us and eats us, yes them will! Soon them comes in here and then we dead for sure! We needs to run away!","악, 킁! 내가 말했지! 그놈들 우리 찾아서 죽이고 먹을 거야, 맞아! 곧 여기로 와서 우리 확실히 죽어! 도망가야 해!",Q2_YAZKA,,,,,0,0
+71900,Creature,Yazka,"No, Urko, you no should believe it! It lies! Gnolls be out there still and it tricks us!","안 돼, 우르코, 저거 믿으면 안 돼! 저거 거짓말해! 놀들 아직 밖에 있고 저거 우리 속여!",Q2_YAZKA,,,,,0,0
+71904,Creature,Yazka,"Him not be as tough as me! Ack, yip! Me would make better leader.","그 녀석 나만큼 세지 않아! 악, 킁! 내가 더 좋은 대장 될 거야.",Q2_YAZKA,,,,,0,0
+71908,Creature,Yazka,"Not everyone, ack, yip. Deekin not follow you!","전부는 아니야, 악, 킁. 디킨은 너 안 따라!",Q2_YAZKA,,,,,0,0
+71913,Creature,Yazka,"Yes, yip... we not even hears of no Drogan...","그래, 킁... 우리 드로건이란 놈 들어본 적도 없어...",Q2_YAZKA,,,,,0,0
+71915,Creature,Yazka,Ummm... maybe. Maybe me should be leader. Ack! Me be much smarter and braver.,"으음... 아마. 아마 내가 대장 해야 할지도. 악! 나 훨씬 똑똑하고 용감해.",Q2_YAZKA,,,,,0,0
+71918,Creature,Yazka,<StartCheck>[Failure]</Start> Ummm... no. Me thinks that not very smart. Me lets Urko be leader.,"<StartCheck>[실패]</Start> 으음... 아니. 나 그거 별로 똑똑하지 않다고 생각해. 나 우르코 대장 시켜.",Q2_YAZKA,,,,,0,0
+71921,Creature,Yazka,<StartCheck>[Success]</Start> Ummm... yes! Yip!! You helps me be leader and me lets you have magic mummy hand!,"<StartCheck>[성공]</Start> 으음... 그래! 킁!! 너 내가 대장 되게 도와주면 나 마법 미라 손 줄게!",Q2_YAZKA,q2_at_kob_awlow,,,,0,0
+71923,Creature,Yazka,"Yes!! Ack!! Yip! Now me be boss!! Join me, kobold friends!","그래!! 악!! 킁! 이제 내가 대장이야!! 나한테 합류해, 코볼트 친구들!",Q2_YAZKA,,,,,0,0
+71926,Creature,Yazka,Me like Deekin. Him sings such pretty songs.,"나 디킨 좋아해. 그 녀석 노래 예쁘게 불러.",Q2_YAZKA,,,,,0,0
+71928,Creature,Yazka,"You shuts up, Kipper! You not supposed to talks 'bout that!","입 닥쳐, 키퍼! 너 그거 말하면 안 돼!",Q2_YAZKA,,,,,0,0
+71932,Creature,Yazka,"You be so stupid, Kipper! Why you not shuts up and let Urko and me talks with stranger?","너 너무 멍청해, 키퍼! 왜 입 닥치고 우르코랑 나한테 낯선 놈이랑 얘기하게 안 해?",Q2_YAZKA,,,,,0,0
+71935,Creature,Yazka,"Ack, yip! Me not does nothing wrong! Kipper be really stupid one.","악, 킁! 나 잘못한 거 없어! 키퍼가 진짜 멍청한 놈이야.",Q2_YAZKA,,,,,0,0
+71938,Creature,Yazka,And gnolls attacks us when we gots hand and other magic stuff too. Yip!,"그리고 놀들이 우리 공격했을 때 손이랑 다른 마법 물건도 있었어. 킁!",Q2_YAZKA,,,,,0,0
+71956,Creature,Yazka,"Ack, yip! All is gone except mummy hand, and now we all dies.","악, 킁! 미라 손 빼고 다 없어졌어, 이제 우리 다 죽어.",Q2_YAZKA,,,,,0,0
+71962,Creature,Yazka,"Yes, that be good idea, ack, yip! Attacks it!","그래, 그거 좋은 생각이야, 악, 킁! 공격해!",Q2_YAZKA,q2_at_urko_att,,,,0,0
+71971,Creature,Yazka,"Ummm... there be mummy hand... tower statue thingie... tooth of dragon... and big mask, me thinks. Ack, yip, gnolls steals tooth and mask when them attacks and kills many of us.","으음... 미라 손 있었어... 탑 조각상 어쩌구... 용 이빨... 그리고 큰 가면, 인 것 같아. 악, 킁, 놀들이 공격해서 우리 많이 죽일 때 이빨이랑 가면 훔쳐갔어.",Q2_YAZKA,,,,,0,0
+71974,Creature,Yazka,"We not be sure. Ack, yip, it probably not really break... or maybe it was, but him run off right away. Deekin very scared.","우리 확실히 몰라. 악, 킁, 아마 진짜 부서진 건 아닐 거야... 아니면 그랬을지도, 근데 그 녀석 바로 도망갔어. 디킨 많이 무서워했어.",Q2_YAZKA,,,,,0,0
+71977,Creature,Yazka,"Ack, yip! Yes, we dies if we say anything 'bout that. Make gnolls look like nice play friends.","악, 킁! 그래, 우리 그거에 대해 말하면 죽어. 놀들이 착한 놀이 친구처럼 보이게 할 거야.",Q2_YAZKA,,,,,0,0
+72039,Creature,Yazka,"Ack, ack! Me speaks not to you! You should not be here at all!","악, 악! 나 너한테 말 안 해! 너 여기 아예 있으면 안 돼!",Q2_YAZKA,,,,,0,0
+72040,Creature,Yazka,"Ack! You helps me good. Me be very thankful. You takes mummy hand and you go. Urko had mummy hand, so you search him body. Yip!  Me lead kobolds back to our home now..","악! 너 나 잘 도와줬어. 나 아주 고마워. 너 미라 손 갖고 가. 우르코가 미라 손 갖고 있었어, 그 녀석 몸 뒤져봐. 킁! 나 이제 코볼트들 집으로 데려갈게..",Q2_YAZKA,act_yazka_1,,,,0,0
+74922,Creature,Yazka,Yazka,"야즈카",Q2_YAZKA,,,,,0,0

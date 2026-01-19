@@ -1,0 +1,52 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19834,Creature,Blacklake Patrol,"Who might you be, <sir/madam>? I don't recognize you. You are aware the district is off-limits to all but residents and the city guard?",선생님은 누구시죠? 뵌 적이 없습니다. 이 지구는 주민과 시 경비를 제외하고는 출입 금지인 것 아십니까?,M1Q3ABLAPATR,,,,,0,0
+19835,Creature,Blacklake Patrol,"Fare you well, my <lord/lady>.","안녕히 가십시오, 모험가님.",M1Q3ABLAPATR,,,,,0,0
+19836,Creature,Blacklake Patrol,"As you wish, <sir/madam>.",원하시는 대로 하시죠.,M1Q3ABLAPATR,,,,,0,0
+19837,Creature,Blacklake Patrol,"Yes, yes, off you go.","그래, 그래, 가 보시죠.",M1Q3ABLAPATR,,,,,0,0
+19838,Creature,Blacklake Patrol,(sigh) Why do I always get stuck with this type?,(한숨) 왜 하필이면 이런 부류만 내 근무에 걸리는 건지...,M1Q3ABLAPATR,,,,,0,0
+19839,Creature,Blacklake Patrol,"I'd be happy to answer a question or two, my <lord/lady>.","두어 가지 질문쯤은 기꺼이 답하겠습니다, 모험가님.",M1Q3ABLAPATR,,,,,0,0
+19840,Creature,Blacklake Patrol,"I suppose I can answer a question for you, <sir/madam>.","질문 하나 정도는 답해 드릴 수 있겠죠, 선생님.",M1Q3ABLAPATR,,,,,0,0
+19841,Creature,Blacklake Patrol,If it doesn't take too long. Go ahead.,오래 걸리지 않는다면요. 말씀해 보시죠.,M1Q3ABLAPATR,,,,,0,0
+19842,Creature,Blacklake Patrol,"I heard something about some beasts loose in the city... but I haven't seen anything like that here in Blacklake, that's for certain.",도시에 괴수가 풀려났다는 얘긴 들었습니다만... 적어도 여기 검은호수에선 그런 일은 못 봤습니다.,M1Q3ABLAPATR,,,,,0,0
+19843,Creature,Blacklake Patrol,"Nothing to do with the plague, no. We haven't been getting much news here since we closed the district off.",역병과는 무관합니다. 이 지구를 봉쇄한 뒤로는 소식도 별로 들어오지 않습니다.,M1Q3ABLAPATR,,,,,0,0
+19844,Creature,Blacklake Patrol,"Could be, I suppose. What kinds of things you find interesting?",그럴 수도 있겠죠. 어떤 이야기가 궁금하십니까?,M1Q3ABLAPATR,,,,,0,0
+19845,Creature,Blacklake Patrol,"There's been a couple of incidents... but we've quarantined them right away. But no... no outbreaks, thankfully. No idea how long that'll last, though.",사건이 몇 건 있긴 했지만 곧바로 격리했습니다. 다행히... 발병은 없어요. 얼마나 갈지는 모르겠지만요.,M1Q3ABLAPATR,,,,,0,0
+19846,Creature,Blacklake Patrol,Is there something else you wanted to know?,다른 궁금한 점이 있습니까?,M1Q3ABLAPATR,,,,,0,0
+19847,Creature,Blacklake Patrol,Well... there is the business with Meldanen's visitor. But I'm not supposed to talk about that... ,"음... 멜다넨에게 온 손님 건이 있긴 합니다만, 그건 말하지 말라는 지시를 받아서요...",M1Q3ABLAPATR,,,,,0,0
+19848,Creature,Blacklake Patrol,"Hmph. That Formosa keeps on going on in the southeast square about how she wants help. Someone should shut her up, you ask me.",흠. 그 포르모사라는 여자가 남동쪽 광장에서 도움을 달라느니 뭐니 계속 떠듭니다. 제 생각에는... 누가 가서 입 좀 다물게 해야 합니다.,M1Q3ABLAPATR,,,,,0,0
+19849,Creature,Blacklake Patrol,"I don't know. Maybe the zoo? That's in the northeast. Me, I like the Board Laid Bare... you should check out the basement. Heh.",글쎄요. 아마 동물원일까요? 북동쪽에 있습니다. 저는 '적나라한 게시판' 선술집을 좋아합니다... 지하실을 한 번 살펴보시죠. 헤헤.,M1Q3ABLAPATR,,,,,0,0
+19850,Creature,Blacklake Patrol,"Well, that's pretty rich. I don't think you are quite what people here are looking for. Someone looking for you? Ha!","허, 참 가관이군요. 여기 사람들이 찾는 분은 선생님 같지 않은데요. 누가 선생님을 찾는다구요? 하!",M1Q3ABLAPATR,,,,,0,0
+19851,Creature,Blacklake Patrol,Is there something else you wanted to know?,다른 궁금하신 점이 있습니까?,M1Q3ABLAPATR,,,,,0,0
+19852,Creature,Blacklake Patrol,<StartCheck>[Success]</Start> I suppose you're right. Meldanen's had this strange woman visiting him the past few days. He's been real secretive about her.,<StartCheck>[성공]</Start> 말씀도 일리가 있습니다. 멜다넨에게 지난 며칠 사이에 수상한 여자가 찾아왔습니다. 그 여자에 대해서는 아주 비밀스럽게 굽니다.,M1Q3ABLAPATR,,,,,0,0
+19853,Creature,Blacklake Patrol,"Some of the fellows think he's holding her there... he's just the type. At any rate, his estate is up in the northwest if you want to go there. I wouldn't.",동료들 중에는 그 여자를 거기에 붙잡아 두고 있다고들 합니다... 딱 그럴 성격이지요. 아무튼 가시겠다면 그의 저택은 북서쪽에 있습니다. 저는 권하지 않습니다.,M1Q3ABLAPATR,,,,,0,0
+19854,Creature,Blacklake Patrol,"<StartCheck>[Failure]</Start> Sorry, but I don't want to be on the wizard's bad side. If you want to know about it, go see him at his estate in the northwest.","<StartCheck>[실패]</Start> 죄송하지만, 그 마법사의 미움을 사고 싶지는 않습니다. 알고 싶으시다면 북서쪽에 있는 저택으로 직접 찾아가 보십시오.",M1Q3ABLAPATR,,,,,0,0
+19855,Creature,Blacklake Patrol,"You could try the zoo up in the northeast. Maybe something's hiding there, I don't know.",북동쪽의 동물원을 가 보셔도 됩니다. 뭔가 숨어 있을지도 모르겠습니다. 저도 확실하진 않습니다.,M1Q3ABLAPATR,,,,,0,0
+19856,Creature,Blacklake Patrol,"Is there something else you need, then?",그럼 또 필요하신 것이 있습니까?,M1Q3ABLAPATR,,,,,0,0
+19857,Creature,Blacklake Patrol,"Hmm. You know, that's when Meldanen got his new visitor. Some strange woman that he's been real insistent on us guards not talking about. Even paid us some gold.",흠. 그러고 보니 그 무렵 멜다넨에게 새 손님이 왔습니다. 우리 경비들에게 그 여자에 대해 입 밖에 내지 말라고 아주 집요하게 당부했지요. 금화도 쥐여 주었습니다.,M1Q3ABLAPATR,,,,,0,0
+19858,Creature,Blacklake Patrol,"I can tell you, though. The lass is strange, and it does fit the time... but what do I know? Meldanen lives on an estate in the northwest, at any rate.",그래도 말씀은 드리겠습니다. 그 아가씨가 수상한 건 사실이고 시기도 맞습니다... 하지만 제가 뭘 알겠습니까. 아무튼 멜다넨은 북서쪽의 저택에 살고 있습니다.,M1Q3ABLAPATR,,,,,0,0
+19859,Creature,Blacklake Patrol,"Identify yourself, <sir/madam>! Blacklake is off-limits to all but district residents and the city guard!","신분을 밝히십시오, 선생님! 검은호수 지구는 주민과 시 경비를 제외하고는 출입 금지입니다!",M1Q3ABLAPATR,,,,,0,0
+19860,Creature,Blacklake Patrol,"You there! Identify yourself! How did you find your way into the district, tell me!",거기 계신 분! 신분을 밝히십시오! 이 지구에는 어떻게 들어오셨는지 말씀하십시오!,M1Q3ABLAPATR,,,,,0,0
+19861,Creature,Blacklake Patrol,Well... I suppose telling a fellow <race> can't hurt. Meldanen's had this strange woman visiting him the past few days. He's been real secretive about her. ,글쎄요... 같은 <race>에게 말씀드려도 해가 되지는 않겠지요. 멜다넨에게 지난 며칠 동안 수상한 여자가 찾아왔습니다. 그 여자에 대해서는 아주 비밀스럽게 굽니다.,M1Q3ABLAPATR,,,,,0,0
+19862,Creature,Blacklake Patrol,"Not much more than anyone else, thankfully. Patrolling here in Blacklake has its advantages, after all.",다행히도 다른 곳들만큼 심각하진 않습니다. 여기 검은호수에서 순찰을 도는 것도 나름 이점이 있지요.,M1Q3ABLAPATR,,,,,0,0
+19863,Creature,Blacklake Patrol,Where do you need to go?,어디로 가셔야 합니까?,M1Q3ABLAPATR,,,,,0,0
+19864,Creature,Blacklake Patrol,(sigh) Make it quick.,(한숨) 빨리 말씀하십시오.,M1Q3ABLAPATR,,,,,0,0
+19865,Creature,Blacklake Patrol,What do you want to know?,무엇을 알고 싶으십니까?,M1Q3ABLAPATR,,,,,0,0
+19866,Creature,Blacklake Patrol,"Yes, I suppose it would seem large to someone like you, wouldn't it?","그래요, 선생님 같은 분께는 크게 느껴질 수도 있겠지요, 그렇지 않습니까?",M1Q3ABLAPATR,,,,,0,0
+19867,Creature,Blacklake Patrol,"There ain't no temple in Blacklake. If there were, the clerics would likely be kicked out, anyway.",검은호수에는 사원이 없습니다. 있었다 해도 성직자들은 아마 쫓겨났을 겁니다.,M1Q3ABLAPATR,,,,,0,0
+19868,Creature,Blacklake Patrol,"Not really. You can buy stuff at the Board Laid Bare, though. It's a tavern by the south gate.",딱히는 없습니다. 대신 '적나라한 게시판' 선술집에서 물건을 살 수 있습니다. 남문 옆의 선술집입니다.,M1Q3ABLAPATR,,,,,0,0
+19869,Creature,Blacklake Patrol,Board Laid Bare. Near the south gate. Interesting stuff going on in the cellar.,'적나라한 게시판' 선술집. 남문 근처입니다. 지하에서 재미있는 일들이 벌어집니다.,M1Q3ABLAPATR,,,,,0,0
+19870,Creature,Blacklake Patrol,"Err... yes, my <lord/lady>. I think I recognize you now. You're one of them working for Aribeth de Tylmarande, aren't you?","어... 예, 모험가님. 이제 알아보겠습니다. 아리베스 드 틸마란데 경을 위해 일하시는 분 중 한 분이시죠?",M1Q3ABLAPATR,,,,,0,0
+19871,Creature,Blacklake Patrol,"I'm not interested in what you've had enough of, <sir/madam>. There is a plague in the city... wait, I recognize you now. You're one of Lady Aribeth's whelp recruits.","무엇이 지긋지긋하신지는 관심 없습니다, 선생님. 도시에 역병이 돌고 있습니다... 잠깐, 이제 알겠군요. 모험가님, 아리베스 경의 신병 중 한 분이시군요.",M1Q3ABLAPATR,,,,,0,0
+19872,Creature,Blacklake Patrol,"Well, yes... I suppose you did, at that. Come to think of it, you're working for Lady Aribeth, aren't you?","음, 예... 그러고 보니 그렇습니다. 생각해 보니, 아리베스 경을 위해 일하고 계시지요?",M1Q3ABLAPATR,,,,,0,0
+19873,Creature,Blacklake Patrol,"Who says you passed the gate? Not I. Now, <sir/madam>, I have strict orders regarding intruders in the district.","누가 성문을 통과했다고 했습니까? 저는 아닙니다. 자, 선생님, 저는 이 지구의 침입자에 대해 엄격한 명령을 받고 있습니다.",M1Q3ABLAPATR,,,,,0,0
+19874,Creature,Blacklake Patrol,"Right, I remember now.","좋습니다, 이제 기억났습니다.",M1Q3ABLAPATR,,,,,0,0
+19875,Creature,Blacklake Patrol,"My apologies, my <lord/lady>. Can't be too careful with folks getting desperate and all. I'll tell the other patrolmen about you, to be sure.","실례했습니다, 모험가님. 모두들 절박해져 있어서 조심할 수밖에 없습니다. 다른 순찰병들에게도 모험가님에 대해 알려 두겠습니다.",M1Q3ABLAPATR,m1q3a00patrol01,,,,0,0
+19876,Creature,Blacklake Patrol,"I suppose you have that right, working for the city as you do. I'd be more polite around the established guards, though; you'll need what friends you can get.",도시를 위해 일하시니 그럴 권한은 있겠지요. 그래도 정식 경비들 앞에서는 더 예의를 갖추시는 것이 좋겠습니다. 지금은 아군이 될 사람을 최대한 만들어 두셔야 하니까요.,M1Q3ABLAPATR,,,,,0,0
+19877,Creature,Blacklake Patrol,"Greetings, my <lord/lady>. Is there something you need?","안녕하십니까, 모험가님. 필요하신 것이 있습니까?",M1Q3ABLAPATR,,,,,0,0
+19878,Creature,Blacklake Patrol,"You mean... oh, in the Blacklake district. I see what you mean.","그 말은... 아, 검은호수 지구 말씀입니까. 무슨 뜻인지 알겠습니다.",M1Q3ABLAPATR,,,,,0,0
+19879,Creature,Blacklake Patrol,Well... maybe you want to talk to Captain Thurin. One of the older guards has been missing for a while. Probably fell into the gutter.,글쎄요... 투린 대장과 이야기해 보시겠습니까. 연로한 경비병 하나가 한동안 실종 상태입니다. 아마 도랑에 빠졌을지도 모르겠습니다.,M1Q3ABLAPATR,,,,,0,0
+19880,Creature,Blacklake Patrol,"You'll find Thurin at the tavern, most like. Wouldn't bother, though, were I you.",투린은 아마 선술집에 있을 겁니다. 저라면 굳이 찾아가진 않겠지만요.,M1Q3ABLAPATR,,,,,0,0
+24534,Creature,Blacklake Patrol,Blacklake Patrol,검은호수 순찰병,M1Q3ABLAPATR,,,,,0,0
+57052,Creature,Blacklake Patrol,"Not anymore. There was some business with a local woman named Formosa, but that's over with. Nothing much happening here now.","이제는 아닙니다. 포르모사라는 동네 여자와 얽힌 일이 좀 있었지만, 그건 끝났습니다. 지금은 별일 없습니다.",M1Q3ABLAPATR,,,,,0,0
+57053,Creature,Blacklake Patrol,"There was something strange with the mage Meldanen and a visitor of his, but that seems to have been settled. Not much happening now.","마법사 멜다넨과 그의 손님 사이에 수상한 일이 있긴 했지만, 해결된 듯합니다. 지금은 조용합니다.",M1Q3ABLAPATR,,,,,0,0
+57054,Creature,Blacklake Patrol,"Well, Meldanen had a visitor about that time, but that matter has been settled. There's not much happening here now.","뭐, 그 무렵 멜다넨에게 손님이 오긴 했지만 그 일은 정리되었습니다. 지금 여기는 별다른 일 없습니다.",M1Q3ABLAPATR,,,,,0,0

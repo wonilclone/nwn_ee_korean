@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+95852,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h2_devil_info,hx_lazy_sleep,,,,0,0
+95853,PC,Player Character,<StartAction>Talk to the imp.</Start>,<StartAction>임프와 대화합니다.</Start>,h2_devil_info,h2a_lazy_wake,h2c_lazy_awake,,,0,0
+95854,PC,Player Character,<StartAction>Look at the grinder.</Start>,<StartAction>분쇄기를 살펴봅니다.</Start>,h2_devil_info,,,,,0,0
+95855,PC,Player Character,"""Your hand's stuck in the grinder.""","""네 손이 분쇄기에 끼었네.""",h2_devil_info,,,,,0,0
+95856,PC,Player Character,"""You put your hand in the grinder on purpose?""","""일부러 분쇄기에 손을 넣은 거야?""",h2_devil_info,,,,,0,0
+95857,PC,Player Character,"""You work here in the quarry?""","""여기 채석장에서 일해?""",h2_devil_info,,,,,0,0
+95858,PC,Player Character,"""What's your name?""","""이름이 뭐야?""",h2_devil_info,,,,,0,0
+95859,PC,Player Character,"""Lazy, would you know the Reaper's True Name?""","""레이지, 혹시 사신의 진명을 알아?""",h2_devil_info,,h2c_reaper_name,,,0,0
+95860,PC,Player Character,"""Mephistopheles?""","""메피스토펠레스?""",h2_devil_info,,,,,0,0
+95861,PC,Player Character,"""The Sleeping Man?""","""잠자는 자?""",h2_devil_info,,,,,0,0
+95862,PC,Player Character,"""The gith? Who are they?""","""기스? 그들이 누구야?""",h2_devil_info,,,,,0,0
+95863,PC,Player Character,"""The grinder had better be fixed soon or Gru'ul will be angry.""","""분쇄기를 빨리 고쳐야 할 텐데, 아니면 그루울이 화낼 거야.""",h2_devil_info,,,,,0,0
+95864,PC,Player Character,"""I talked to Gru'ul. He's given you a holiday.""","""그루울과 얘기했어. 그가 너한테 휴일을 줬어.""",h2_devil_info,,h2c_lazy_holiday,,,0,0
+95865,PC,Player Character,<StartAction>Wake the imp.</Start>,<StartAction>임프를 깨웁니다.</Start>,h2_devil_info,h2a_lazy_wake,h2c_lazy_asleep,,,0,0
+95866,PC,Player Character,<StartCheck>[Dexterity]</Start> <StartAction>Dismantle the grinder and free the imp.</Start>,<StartCheck>[민첩성]</Start> <StartAction>분쇄기를 분해하고 임프를 꺼낸다.</Start>,h2_devil_info,h2a_lazy_dis_att,h2c_lazy_dismant,,,0,0
+95867,PC,Player Character,"""Goodbye.""","""안녕.""",h2_devil_info,,,,,0,0
+95868,PC,Player Character,"""How did your hand get stuck in the grinder, anyway?""","""어쨌든, 손이 어떻게 분쇄기에 끼게 된 거야?""",h2_devil_info,,,,,0,0
+95869,PC,Player Character,"""You put your hand in the grinder on purpose?""","""일부러 분쇄기에 손을 넣은 거야?""",h2_devil_info,,,,,0,0
+95870,PC,Player Character,"""You work here in the quarry?""","""여기 채석장에서 일해?""",h2_devil_info,,,,,0,0
+95871,PC,Player Character,"""What's your name?""","""이름이 뭐야?""",h2_devil_info,,,,,0,0
+95872,PC,Player Character,"""Lazy, would you know the Reaper's True Name?""","""레이지, 혹시 사신의 진명을 알아?""",h2_devil_info,,h2c_reaper_name,,,0,0
+95873,PC,Player Character,"""Mephistopheles?""","""메피스토펠레스?""",h2_devil_info,,,,,0,0
+95874,PC,Player Character,"""The Sleeping Man?""","""잠자는 자?""",h2_devil_info,,,,,0,0
+95875,PC,Player Character,"""Calm down. Everything's going to be all right.""","""진정해. 다 괜찮아질 거야.""",h2_devil_info,,,,,0,0
+95876,PC,Player Character,"""Your arm's mangled. You can't work like that.""","""네 팔이 엉망이야. 그 상태로는 일 못 해.""",h2_devil_info,,,,,0,0
+95877,PC,Player Character,<StartAction>Feed the imp through the grinder.</Start>,<StartAction>임프를 분쇄기 속으로 밀어 넣습니다.</Start>,h2_devil_info,h2a_lazy_feed,h2c_lazy_ingrind,,c_mephit_dead,0,0

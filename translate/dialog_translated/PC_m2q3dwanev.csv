@@ -1,0 +1,72 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+35635,PC,Player Character,"Apologies won't save you now, mage! Die!",이제 와서 사과해봤자 소용없어! 죽어라!,m2q3dwanev,,[지능 보통],,,0,0
+35636,PC,Player Character,Perhaps you had better answer my questions before I finish what you started.,네가 시작한 일을 끝내기 전에 내 질문에 답하는 게 좋을 거야.,m2q3dwanev,,[지능 보통],,,0,0
+35637,PC,Player Character,"I give you rash, bad guy! Die! Die!",나쁜 놈! 발진 줄게! 죽어! 죽어!,m2q3dwanev,,[지능 낮음],,,0,0
+35638,PC,Player Character,I no got rash. You answer me questions now!,나 발진 안 났어. 이제 질문에 대답해!,m2q3dwanev,,[지능 낮음],,,0,0
+35639,PC,Player Character [M2Q3C],I have been sent here to take a magical gem from you. ,마법 보석을 가져오라고 여기 왔다.,m2q3dwanev,,m2q3cswanev009,[M2Q3C],,0,0
+35640,PC,Player Character [M2Q3C],Me come for magic gem.,나... 마법 보석 가지러 왔어.,m2q3dwanev,,m2q3cswanev010,[M2Q3C],,0,0
+35641,PC,Player Character,I have no further questions.,더 이상 질문은 없어.,m2q3dwanev,,[지능 보통],,,0,0
+35642,PC,Player Character,Me have no more questions.,나... 더 질문 없어.,m2q3dwanev,,[지능 낮음],,,0,0
+35643,PC,Player Character,You are of no use to me. Die!,더 이상 쓸모없군. 죽어라!,m2q3dwanev,nw_d1_mid_evil,[지능 보통],,,0,0
+35644,PC,Player Character,You useless! Die!,쓸모없어! 죽어!,m2q3dwanev,nw_d1_mid_evil,[지능 낮음],,,0,0
+35645,PC,Player Character,I have been hired to get the gem and I intend to get it. Hand it over now!,보석을 가져오라고 고용됐고 반드시 가져갈 거다. 당장 내놔!,m2q3dwanev,,[지능 보통],,,0,0
+35646,PC,Player Character,Elaith Serpent guy hire me so me gonna get the gem. Give it now!,엘레이스가 나 고용했어. 보석 가져갈 거야. 지금 줘!,m2q3dwanev,,[지능 낮음],,,0,0
+35647,PC,Player Character,<StartCheck>[Persuade]</Start> That is not acceptable. Tell me what happened to the gem.,<StartCheck>[설득]</Start> 그건 안 돼. 보석이 어떻게 됐는지 말해.,m2q3dwanev,,[지능 보통],,,0,0
+35648,PC,Player Character,<StartCheck>[Persuade]</Start> Me say no. You tell me what happen to gem.,<StartCheck>[설득]</Start> 싫어. 보석 어떻게 됐는지 말해.,m2q3dwanev,,[지능 낮음],,,0,0
+35649,PC,Player Character,I do not care to listen to your excuses. Tell me where the gem is or suffer the consequences.,변명 듣고 싶지 않아. 보석이 어딨는지 말해. 안 그러면 대가를 치르게 될 거야.,m2q3dwanev,nw_d1_small_evil,[지능 보통],,,0,0
+35650,PC,Player Character,No excuses! You tell where gem or me hurt you good!,변명 싫어! 보석 어딨는지 말해. 안 그러면 아프게 해줄게!,m2q3dwanev,nw_d1_small_evil,[지능 낮음],,,0,0
+35651,PC,Player Character,<StartCheck>[Insight]</Start> You say that YOU are unable to retrieve the gem but I believe that I have just proven myself to be stronger than you.,"<StartCheck>[통찰]</Start> 네가 보석을 되찾을 수 없다고 했지만, 나는 방금 내가 너보다 강하다는 걸 증명한 것 같은데.",m2q3dwanev,,nw_d2_wis_intn,,,0,0
+35652,PC,Player Character,"Come on, you must have more than that. Hand it over!","이봐, 더 있을 거 아냐. 내놔!",m2q3dwanev,,[지능 보통],,,0,0
+35653,PC,Player Character,C'mon! You have more treasures! Gimme!,이봐! 보물 더 있잖아! 줘!,m2q3dwanev,,[지능 낮음],,,0,0
+35654,PC,Player Character,That is not enough! Give me more or I'll feed you a foot of sharpened steel!,그걸론 부족해! 더 내놔. 안 그러면 이 칼로 배를 갈라주지!,m2q3dwanev,nw_d1_small_evil,[지능 보통],,,0,0
+35655,PC,Player Character,Me want more or me stab you good!,더 줘! 안 그러면 찔러버릴 거야!,m2q3dwanev,nw_d1_small_evil,[지능 낮음],,,0,0
+35656,PC,Player Character,Who are you?,넌 누구야?,m2q3dwanev,,[지능 보통],,,0,0
+35657,PC,Player Character [M2Q3C],I want your valuables. Anything and everything of value.,귀중품을 원해. 가치 있는 건 다.,m2q3dwanev,,m2q3cswanev006,[M2Q3C],,0,0
+35658,PC,Player Character,Who you be?,넌... 누구야?,m2q3dwanev,,[지능 낮음],,,0,0
+35659,PC,Player Character [M2Q3C],You give me gold and treasures.,금하고 보물 줘.,m2q3dwanev,,m2q3cswanev005,[M2Q3C],,0,0
+35660,PC,Player Character,"Who are you, exactly?",정확히 넌 누구야?,m2q3dwanev,,[지능 보통],,,0,0
+35661,PC,Player Character,That isn't how it works. You answer my questions or I kill you.,그런 식으론 안 돼. 내 질문에 답해. 안 그러면 죽인다.,m2q3dwanev,,[지능 보통],,,0,0
+35662,PC,Player Character,I dunno. Who you be?,몰라. 넌 누구야?,m2q3dwanev,,[지능 낮음],,,0,0
+35663,PC,Player Character,Nuh-uh. You answer me or you die.,안 돼. 대답해. 안 그러면 죽어.,m2q3dwanev,,[지능 낮음],,,0,0
+35664,PC,Player Character,Go on.,계속해.,m2q3dwanev,,,,,0,0
+35665,PC,Player Character,Enough of this. I have another question.,됐어. 다른 질문이 있어.,m2q3dwanev,,[지능 보통],,,0,0
+35666,PC,Player Character,Story too long. Me have other question.,이야기 너무 길어. 다른 질문 있어.,m2q3dwanev,,[지능 낮음],,,0,0
+35667,PC,Player Character,And the gem?,그래서 보석은?,m2q3dwanev,,,,,0,0
+35668,PC,Player Character,I care not. Let me ask you something else.,관심 없어. 다른 거 물어볼게.,m2q3dwanev,,[지능 보통],,,0,0
+35669,PC,Player Character,Me no care. Other question.,관심 없어. 다른 질문.,m2q3dwanev,,[지능 낮음],,,0,0
+35670,PC,Player Character,Where is this area and how do I get there?,그곳이 어디고 어떻게 가지?,m2q3dwanev,,[지능 보통],,,0,0
+35671,PC,Player Character,Where be area and how me get there?,거기 어디야? 어떻게 가?,m2q3dwanev,,[지능 낮음],,,0,0
+35672,PC,Player Character,Give me the key to the door and I shall get the gem myself.,문 열쇠를 줘. 내가 직접 보석을 찾아오지.,m2q3dwanev,,[지능 보통],,,0,0
+35673,PC,Player Character,Gimme key and me get gem.,열쇠 줘. 나 보석 가져올게.,m2q3dwanev,,[지능 낮음],,,0,0
+35674,PC,Player Character,<StartCheck>[Insight]</Start> Is there anything in the area that could help me get through without becoming demon fodder?,<StartCheck>[통찰]</Start> 그 구역에 악마 밥이 되지 않고 통과할 수 있게 도와줄 만한 게 있어?,m2q3dwanev,,nw_d2_wis_intn,,,0,0
+35675,PC,Player Character [M2Q3W],I will attempt to close the portal as I search for the gem.,보석을 찾으면서 차원문을 닫아보지.,m2q3dwanev,m2q3wanev008,[지능 보통],[M2Q3W],,0,0
+35676,PC,Player Character [M2Q3W],"Yeah, me try close portal for you.",그래... 나 차원문 닫아볼게.,m2q3dwanev,m2q3wanev008,[지능 낮음],[M2Q3W],,0,0
+35677,PC,Player Character,If the reward is good.,보상이 괜찮다면.,m2q3dwanev,,[지능 보통],,,0,0
+35678,PC,Player Character,What be reward?,보상 뭐야?,m2q3dwanev,,[지능 낮음],,,0,0
+35679,PC,Player Character,I'm not interested. I just want the gem.,관심 없어. 보석만 원해.,m2q3dwanev,,[지능 보통],,,0,0
+35680,PC,Player Character,Me no care. Just want gem.,관심 없어. 보석만.,m2q3dwanev,,[지능 낮음],,,0,0
+35681,PC,Player Character,How about a little bit of the reward in advance?,보상을 조금 미리 받을 수 있을까?,m2q3dwanev,,[지능 보통],,,0,0
+35682,PC,Player Character,You give some reward now?,지금 보상 좀 줘?,m2q3dwanev,,[지능 낮음],,,0,0
+35683,PC,Player Character,I haven't closed the portal yet.,아직 차원문을 닫지 않았어.,m2q3dwanev,,[지능 보통],,,0,0
+35684,PC,Player Character,Me no close portal yet.,나... 아직 차원문 안 닫았어.,m2q3dwanev,,[지능 낮음],,,0,0
+35685,PC,Player Character,What was I supposed to do again?,내가 뭘 해야 한다고 했지?,m2q3dwanev,,[지능 보통],,,0,0
+35686,PC,Player Character,What you want me do again?,나 뭐 하라고 했어?,m2q3dwanev,,[지능 낮음],,,0,0
+35687,PC,Player Character,The portal has been closed.,차원문을 닫았어.,m2q3dwanev,,[지능 보통],,,0,0
+35688,PC,Player Character,Me close portal real good.,나 차원문 잘 닫았어.,m2q3dwanev,,[지능 낮음],,,0,0
+35689,PC,Player Character,Goodbye.,안녕.,m2q3dwanev,,,,,0,0
+35690,PC,Player Character,Could you tell me the story about the portal again?,차원문 이야기를 다시 해줄래?,m2q3dwanev,,[지능 보통],,,0,0
+35691,PC,Player Character,Me want to hear portal story again.,나 차원문 이야기 다시 듣고 싶어.,m2q3dwanev,,[지능 낮음],,,0,0
+35692,PC,Player Character [M2Q5C],You mentioned that you had lost the gem?,보석을 잃어버렸다고 했지?,m2q3dwanev,,m2q5cswanev007,[M2Q5C],,0,0
+35693,PC,Player Character [M2Q3C],You say you lose gem?,보석 잃어버렸다고 했어?,m2q3dwanev,,m2q3cswanev008,[M2Q3C],,0,0
+35694,PC,Player Character,We are both of the same race. Surely you could take that into consideration and offer a bit more.,우리 둘 다 같은 종족이잖아. 그걸 고려해서 좀 더 주면 안 될까?,m2q3dwanev,,nw_d2_racesnhn,,,0,0
+35695,PC,Player Character,<StartCheck>[Persuade]</Start> I've just saved your home from a demon infestation. I want a bigger reward.,<StartCheck>[설득]</Start> 네 집을 악마로부터 구해줬잖아. 더 큰 보상을 원해.,m2q3dwanev,,[지능 보통],,,0,0
+35696,PC,Player Character [M2Q3W],Why don't you throw a little extra in so I won't have to hurt you again?,또 다치기 싫으면 좀 더 얹어주는 게 어때?,m2q3dwanev,m2q3wanev007,[지능 보통],[M2Q3W],,0,0
+35697,PC,Player Character,Indeed. Farewell!,그래. 안녕히!,m2q3dwanev,,[지능 보통],,,0,0
+35698,PC,Player Character,Me <race> kind. You <race> kind. Be nice to me.,나 <race>. 너도 <race>. 나한테 잘해.,m2q3dwanev,,nw_d2_racesnhl,,,0,0
+35699,PC,Player Character,<StartCheck>[Persuade]</Start> Me save you big demon trouble. You give more money?,<StartCheck>[설득]</Start> 나 악마 문제 해결했어. 돈 더 줘?,m2q3dwanev,,[지능 낮음],,,0,0
+35700,PC,Player Character,How 'bout you give more money and me not kill you real bad?,돈 더 주면 안 죽일게. 어때?,m2q3dwanev,,[지능 낮음],,,0,0
+35701,PC,Player Character,Bye bye.,안녕.,m2q3dwanev,,[지능 낮음],,,0,0
+35702,PC,Player Character,Sure. That would be handy.,그래. 그러면 좋겠어.,m2q3dwanev,,[지능 보통],,,0,0
+35703,PC,Player Character,"Yuh, it move me so me no walk.",응... 나 걷기 싫어. 옮겨줘.,m2q3dwanev,,[지능 낮음],,,0,0
+35704,PC,Player Character,I'll find my own way out.,혼자 나갈 길을 찾아볼게.,m2q3dwanev,,[지능 보통],,,0,0
+35705,PC,Player Character,Me okay. Bye bye.,괜찮아. 안녕.,m2q3dwanev,,[지능 낮음],,,0,0

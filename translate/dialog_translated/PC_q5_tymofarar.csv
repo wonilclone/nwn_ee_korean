@@ -1,0 +1,183 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+73520,PC,Player Character,"Then get upset. I've come to kill you, dragon.","그럼 화내봐. 난 널 죽이러 왔으니까, 용이여.",q5_tymofarar,,,,,0,0
+73521,PC,Player Character,<StartAction>[Break the Ice Phylactery]</Start> I've got something up my sleeve alright!,<StartAction>[얼음 성구함을 부숨]</Start> 내 소매에 뭔가 있거든!,q5_tymofarar,act_q5tymo_5,q5_hasphylactery,,,0,0
+73522,PC,Player Character,I want to talk about J'Nah.,즈나에 대해 얘기하고 싶어.,q5_tymofarar,q5_jnahtalk01,q5_jnahtalk10,,,0,0
+73523,PC,Player Character,I want to talk about the artifacts you stole.,네가 훔친 유물들에 대해 얘기하고 싶어.,q5_tymofarar,,,,,0,0
+73524,PC,Player Character,I want to talk about Deekin.,디킨에 대해 얘기하고 싶어.,q5_tymofarar,,q5_knowdeekin,,,0,0
+73525,PC,Player Character,I think this rod is yours.,이 단장이 네 거 같은데.,q5_tymofarar,,q5_pchasrod,,,0,0
+73526,PC,Player Character,"Never mind that. I'm here to kill you, dragon.","그건 됐고. 널 죽이러 왔어, 용이여.",q5_tymofarar,,,,,0,0
+73527,PC,Player Character,And if I haven't changed my mind?,그런데 내가 마음을 안 바꿨다면?,q5_tymofarar,,,,,0,0
+73528,PC,Player Character,Err... then I'll just go back the way I came...,어... 그럼 그냥 왔던 길로 돌아갈게...,q5_tymofarar,,,,,0,0
+73529,PC,Player Character,Then you leave me no choice. We fight.,그럼 선택의 여지가 없네. 싸우자.,q5_tymofarar,,,,,0,0
+73530,PC,Player Character,And what would I get if I agreed?,동의하면 뭘 받는데?,q5_tymofarar,,,,,0,0
+73531,PC,Player Character,Which proposal is that?,어떤 제안 말하는 거야?,q5_tymofarar,,,,,0,0
+73532,PC,Player Character,I think this rod is yours.,이 단장이 네 거 같은데.,q5_tymofarar,,q5_pchasrod,,,0,0
+73533,PC,Player Character,"Actually, I've decided to kill you instead.","사실, 그 대신 널 죽이기로 했어.",q5_tymofarar,,,,,0,0
+73534,PC,Player Character,"<StartAction>[Break the Ice Phylactery]</Start> I'm armed well, indeed.",<StartAction>[얼음 성구함을 부숨]</Start> 진짜 잘 무장했지.,q5_tymofarar,act_q5tymo_5,q5_hasphylactery,,,0,0
+73535,PC,Player Character,"No, she's not dead yet.","아니, 아직 안 죽었어.",q5_tymofarar,,,,,0,0
+73536,PC,Player Character,I've been thinking about my reward...,내 보상에 대해 생각해 봤는데...,q5_tymofarar,,,,,0,0
+73537,PC,Player Character,"I want to be sure, first, that you'll honor your deal.",먼저 네가 약속을 지킬지 확실히 하고 싶어.,q5_tymofarar,,q5_oath01,,,0,0
+73538,PC,Player Character,<StartAction>[Lie]</Start> It's done. J'Nah is dead.,<StartAction>[거짓말]</Start> 끝났어. 즈나는 죽었어.,q5_tymofarar,,q5_jnahnotdead,,,0,0
+73539,PC,Player Character,It's done. J'Nah is dead.,끝났어. 즈나는 죽었어.,q5_tymofarar,,q5_jnahdead,,,0,0
+73540,PC,Player Character,That's enough. I don't want anything.,그걸로 충분해. 아무것도 원하지 않아.,q5_tymofarar,,,,,0,0
+73541,PC,Player Character,The time has come for you to die.,네가 죽을 시간이 왔어.,q5_tymofarar,,,,,0,0
+73542,PC,Player Character,"I do not want any more ""rewards"" from you.","너한테서 ""보상"" 같은 건 더 이상 받고 싶지 않아.",q5_tymofarar,xp1_didnotevlsm,,,,0,0
+73543,PC,Player Character,Perhaps you're right.,네 말이 맞을지도.,q5_tymofarar,,,,,0,0
+73544,PC,Player Character,<StartAction>[Break the Ice Phylactery]</Start> My reward will be your death!,<StartAction>[얼음 성구함을 부숨]</Start> 내 보상은 네 죽음이 될 거야!,q5_tymofarar,act_q5tymo_5,q5_hasphylactery,,,0,0
+73545,PC,Player Character,I want whatever artifacts you stole from Hilltop.,힐탑에서 훔친 유물이 뭐든 다 원해.,q5_tymofarar,,q5_gavemask6,,,0,0
+73546,PC,Player Character,Give me the mask artifact.,가면 유물을 줘.,q5_tymofarar,,q5_gavemask2,,,0,0
+73547,PC,Player Character,I want you to act as Hilltop's guardian against danger.,힐탑을 위험으로부터 지키는 수호자가 되길 원해.,q5_tymofarar,,q5_gavehilltop3,,,0,0
+73548,PC,Player Character,I want you to leave Hilltop alone from now on.,이제부터 힐탑을 내버려 두길 원해.,q5_tymofarar,,q5_gavehilltop2,,,0,0
+73549,PC,Player Character,I want Deekin released from your service.,디킨을 네 부하에서 해방시키길 원해.,q5_tymofarar,,q5_gavedeekin2,,,0,0
+73550,PC,Player Character,I want more gold and magic.,더 많은 금화와 마법을 원해.,q5_tymofarar,,q5_gavegold3,,,0,0
+73551,PC,Player Character,I would like gold and magic.,금화와 마법을 받고 싶어.,q5_tymofarar,,q5_gavegold2,,,0,0
+73552,PC,Player Character,The time has come for you to die.,네가 죽을 시간이 왔어.,q5_tymofarar,,,,,0,0
+73553,PC,Player Character,I would like to negotiate for the mask artifact.,가면 유물에 대해 협상하고 싶어.,q5_tymofarar,,q5_gavemask4,,,0,0
+73554,PC,Player Character,Forget it.,됐어.,q5_tymofarar,,,,,0,0
+73555,PC,Player Character,<StartCheck>[Persuade]</Start> That's a little steep for something you don't want.,<StartCheck>[설득]</Start> 원하지도 않는 거치고는 좀 비싸네.,q5_tymofarar,,,,,0,0
+73556,PC,Player Character,Very well. 300 gold it is.,좋아. 금화 300개다.,q5_tymofarar,,q5_have300gp,,,0,0
+73557,PC,Player Character,Done. Here you go.,됐어. 여기 있어.,q5_tymofarar,,q5_have500gp,,,0,0
+73558,PC,Player Character,"<StartCheck>[Persuade]</Start> I need that mask artifact, as well.",<StartCheck>[설득]</Start> 그 가면 유물도 필요해.,q5_tymofarar,,q5_gavemask3,,,0,0
+73559,PC,Player Character,<StartCheck>[Persuade]</Start> I want whatever artifacts you stole from Hilltop.,<StartCheck>[설득]</Start> 힐탑에서 훔친 유물이 뭐든 다 원해.,q5_tymofarar,,q5_gavemask7,,,0,0
+73560,PC,Player Character,Is there enough in the chest to free Deekin?,상자에 디킨을 풀어주기에 충분한 게 있어?,q5_tymofarar,,q5_gavedeekin6,,,0,0
+73561,PC,Player Character,I would like to negotiate for Deekin's freedom.,디킨의 자유에 대해 협상하고 싶어.,q5_tymofarar,,q5_gavedeekin4,,,0,0
+73562,PC,Player Character,"<StartCheck>[Persuade]</Start> Would you consider releasing Deekin from your service, as well?",<StartCheck>[설득]</Start> 디킨을 네 부하에서 풀어주는 것도 고려해 줄래?,q5_tymofarar,q5_gavedeekin5,q5_gavedeekin3,,,0,0
+73563,PC,Player Character,I should go.,가봐야겠어.,q5_tymofarar,,,,,0,0
+73564,PC,Player Character,I believe this rod is yours?,이 단장이 네 거 맞지?,q5_tymofarar,,q5_pchasrod,,,0,0
+73565,PC,Player Character,"Yes, we're through.","응, 끝났어.",q5_tymofarar,,,,,0,0
+73566,PC,Player Character,But I don't want you to leave Hilltop alone... I want you to guard it from danger.,하지만 힐탑을 내버려 두는 건 원하지 않아... 위험으로부터 지키길 원해.,q5_tymofarar,q5_gavehilltop6,q5_gavehilltop4,,,0,0
+73567,PC,Player Character,Why not? Are you saying you can't do it?,왜 안 돼? 못 한다는 거야?,q5_tymofarar,,,,,0,0
+73568,PC,Player Character,"Not always, just if it's ever threatened again.","항상은 아니고, 다시 위협받을 때만.",q5_tymofarar,,,,,0,0
+73569,PC,Player Character,"You gave your oath, remember?","맹세했잖아, 기억나?",q5_tymofarar,,q5_oath03,,,0,0
+73570,PC,Player Character,You did promise that Hilltop would be safe.,힐탑이 안전할 거라고 약속했잖아.,q5_tymofarar,,q5_reward08,,,0,0
+73571,PC,Player Character,"Forget it, then. I'll ask for something else.",그럼 됐어. 다른 걸 요구할게.,q5_tymofarar,,,,,0,0
+73572,PC,Player Character,No! That's not good enough!,안 돼! 그걸로는 충분하지 않아!,q5_tymofarar,,,,,0,0
+73573,PC,Player Character,That will have to do.,그걸로 만족해야겠네.,q5_tymofarar,,,,,0,0
+73574,PC,Player Character,Uh-oh...,어어...,q5_tymofarar,,q5_tymo03,,,0,0
+73575,PC,Player Character,"I figured as much. Have it your way, then.",그럴 줄 알았어. 그럼 네 뜻대로 해.,q5_tymofarar,,,,,0,0
+73576,PC,Player Character,"<StartAction>[Break the Ice Phylactery]</Start> How about ""phylactery""?","<StartAction>[얼음 성구함을 부숨]</Start> ""성구함""은 어때?",q5_tymofarar,act_q5tymo_5,q5_hasphylactery,,,0,0
+73577,PC,Player Character,You traitorous creature! I'll kill you for this!,이 배신자 같은 놈! 이것 때문에 죽여주겠어!,q5_tymofarar,,q5_tymo02,,,0,0
+73578,PC,Player Character,<StartAction>[Break the Ice Phylactery]</Start> How's this for a challenge?,<StartAction>[얼음 성구함을 부숨]</Start> 이 정도면 도전이 되겠지?,q5_tymofarar,act_q5tymo_5,q5_hasphylactery,,,0,0
+73579,PC,Player Character,<StartCheck>[Intimidate]</Start> I'm warning you... attack me and I use this phylactery!,<StartCheck>[위협]</Start> 경고하는데... 날 공격하면 이 성구함을 쓸 거야!,q5_tymofarar,,q5_hasphylactery,,,0,0
+73580,PC,Player Character,<StartCheck>[Persuade]</Start> Is this really necessary? Can't we talk this over?,<StartCheck>[설득]</Start> 정말 이래야 해? 얘기로 풀 수 없어?,q5_tymofarar,,,,,0,0
+73581,PC,Player Character,"<StartCheck>[Insight]</Start> You know, this is just what J'Nah warned me you would do...","<StartCheck>[통찰]</Start> 있잖아, 즈나가 네가 이럴 거라고 경고했거든...",q5_tymofarar,,q5_tricky,,,0,0
+73582,PC,Player Character,J'Nah told me you couldn't be trusted.,즈나가 널 믿을 수 없다고 했어.,q5_tymofarar,,,,,0,0
+73583,PC,Player Character,"<StartCheck>[Persuade]</Start> But you're so intelligent, I was sure you could be reasoned with that all this isn't necessary...",<StartCheck>[설득]</Start> 하지만 넌 정말 똑똑하잖아. 이런 게 필요 없다는 걸 이성적으로 이해할 수 있을 거라고 확신했는데...,q5_tymofarar,,,,,0,0
+73584,PC,Player Character,<StartCheck>[Persuade/Bluff]</Start> So J'Nah was the more trustworthy of you two.,<StartCheck>[설득/허세]</Start> 즈나가 너희 둘 중 더 믿을 만 하겠어.,q5_tymofarar,,,,,0,0
+73585,PC,Player Character,<StartCheck>[Persuade/Bluff]</Start> So she was right. You aren't noble and benevolent like other dragons.,<StartCheck>[설득/허세]</Start> 그녀 말이 맞았어. 넌 다른 용들처럼 고귀하고 자비롭지 않네.,q5_tymofarar,,,,,0,0
+73586,PC,Player Character,But I thought you wanted J'Nah dead!,하지만 즈나가 죽길 원했던 거 아니었어!,q5_tymofarar,,q5_tymo03,,,0,0
+73587,PC,Player Character,But you agreed to reward me!,하지만 날 보상하겠다고 동의했잖아!,q5_tymofarar,,q5_tymo02,,,0,0
+73588,PC,Player Character,Nothing. I should go.,아무것도 아니야. 가봐야겠어.,q5_tymofarar,,,,,0,0
+73589,PC,Player Character,What was your first clue?,첫 번째 단서가 뭐였어?,q5_tymofarar,,,,,0,0
+73590,PC,Player Character,What I am isn't important.,내가 뭔지는 중요하지 않아.,q5_tymofarar,,,,,0,0
+73591,PC,Player Character,I'm hoping we can work together.,우리가 함께 일할 수 있길 바라지.,q5_tymofarar,,,,,0,0
+73592,PC,Player Character,"I'm here to kill you, actually.","사실, 널 죽이러 왔어.",q5_tymofarar,,,,,0,0
+73593,PC,Player Character,"I will destroy you, dragon. Let's end this now.",널 파괴하겠어. 지금 끝내자.,q5_tymofarar,nw_d1_attonend02,,,,0,0
+73594,PC,Player Character,"<StartAction>[Break the Ice Phylactery]</Start> I have something to back up my threat, all right!",<StartAction>[얼음 성구함을 부숨]</Start> 내 위협을 뒷받침할 게 있거든!,q5_tymofarar,act_q5tymo_5,q5_hasphylactery,,,0,0
+73595,PC,Player Character,You're responsible for nearly killing Master Drogan!,드로건 스승님을 거의 죽일 뻔한 건 네 책임이야!,q5_tymofarar,,,,,0,0
+73596,PC,Player Character,You must pay for sending your kobolds to attack Hilltop!,코볼트들을 보내 힐탑을 공격한 대가를 치러야 해!,q5_tymofarar,,,,,0,0
+73597,PC,Player Character,"J'Nah may have sent me to kill you, but that doesn't mean I will do it.","즈나가 널 죽이라고 보냈지만, 그렇게 할 거란 뜻은 아니야.",q5_tymofarar,q5_jnahtalk02,q5_jnahtalk06,,,0,0
+73598,PC,Player Character,I want to talk about J'Nah.,즈나에 대해 얘기하고 싶어.,q5_tymofarar,q5_jnahtalk01,q5_jnahtalk10,,,0,0
+73599,PC,Player Character,Are you trying to shift responsibility for what you've done?,네가 한 일에 대한 책임을 떠넘기려는 거야?,q5_tymofarar,,,,,0,0
+73600,PC,Player Character,What does this have to do with me?,이게 나랑 무슨 상관이야?,q5_tymofarar,,,,,0,0
+73601,PC,Player Character,Why? What did this J'Nah do?,왜? 이 즈나가 뭘 했는데?,q5_tymofarar,,q5_jnahtalk07,,,0,0
+73602,PC,Player Character,Which artifact was that?,어떤 유물이었어?,q5_tymofarar,,q5_jnahtalk08,,,0,0
+73603,PC,Player Character,"J'Nah commands the gnolls, then?",그럼 즈나가 놀들을 지휘하는 거야?,q5_tymofarar,,q5_jnahtalk07,,,0,0
+73604,PC,Player Character,Smart move on your part.,네 입장에선 현명한 선택이네.,q5_tymofarar,,,,,0,0
+73605,PC,Player Character,"Actually, I killed her.","사실, 내가 죽였어.",q5_tymofarar,,q5_jnahdead,,,0,0
+73606,PC,Player Character,"J'Nah is my enemy, as she is yours.",즈나는 네 적인 것처럼 내 적이야.,q5_tymofarar,,,,,0,0
+73607,PC,Player Character,I don't know.,몰라.,q5_tymofarar,,,,,0,0
+73608,PC,Player Character,Umm... life?,음... 생명?,q5_tymofarar,,[지능 낮음],,,0,0
+73609,PC,Player Character,Umm... death?,음... 죽음?,q5_tymofarar,,[지능 낮음],,,0,0
+73610,PC,Player Character,Umm... gems?,음... 보석?,q5_tymofarar,,[지능 낮음],,,0,0
+73611,PC,Player Character,Power?,힘?,q5_tymofarar,,[지능 중간],,,0,0
+73612,PC,Player Character,Murder?,살인?,q5_tymofarar,,[지능 중간],,,0,0
+73613,PC,Player Character,Revenge?,복수?,q5_tymofarar,,[지능 중간],,,0,0
+73614,PC,Player Character,"Revenge, of course.",당연히 복수지.,q5_tymofarar,,[지능 높음],,,0,0
+73615,PC,Player Character,Very well. I agree.,좋아. 동의해.,q5_tymofarar,,,,,0,0
+73616,PC,Player Character,And should I refuse?,거절하면 어떻게 되는데?,q5_tymofarar,,,,,0,0
+73617,PC,Player Character,Then you leave me little choice. I agree.,그럼 선택의 여지가 별로 없네. 동의해.,q5_tymofarar,,,,,0,0
+73618,PC,Player Character,"Then I refuse. I would rather kill you, beast.","그럼 거절해. 차라리 널 죽이겠어, 짐승 같은 놈.",q5_tymofarar,,,,,0,0
+73619,PC,Player Character,"What do I get if I agree, then?",그럼 동의하면 뭘 받는데?,q5_tymofarar,,q5_reward01,,,0,0
+73620,PC,Player Character,You would attack me?,날 공격하겠다고?,q5_tymofarar,,,,,0,0
+73621,PC,Player Character,What do I get for doing this?,이걸 하면 뭘 받는데?,q5_tymofarar,,q5_reward01,,,0,0
+73622,PC,Player Character,I'll think of something later.,나중에 생각할게.,q5_tymofarar,,,,,0,0
+73623,PC,Player Character,Magic interests me.,마법이 관심 가.,q5_tymofarar,,,,,0,0
+73624,PC,Player Character,Gold sounds like a good start.,금화라면 좋은 시작일 것 같은데.,q5_tymofarar,,,,,0,0
+73625,PC,Player Character,I want Deekin freed from your service.,디킨을 네 부하에서 해방시키길 원해.,q5_tymofarar,q5_reward02,q5_knowdeekin,,,0,0
+73626,PC,Player Character,I want the mask artifact.,가면 유물을 원해.,q5_tymofarar,,q5_knowmask02,,,0,0
+73627,PC,Player Character,I want any of the artifacts you took from Hilltop.,힐탑에서 가져간 유물이 뭐든 원해.,q5_tymofarar,q5_knowmask,q5_knowmask03,,,0,0
+73628,PC,Player Character,I want Hilltop to be safe.,힐탑이 안전하길 원해.,q5_tymofarar,,,,,0,0
+73629,PC,Player Character,How do I know you'll even keep your word?,네가 약속을 지킬지 어떻게 알아?,q5_tymofarar,,q5_oath01,,,0,0
+73630,PC,Player Character,It's a good start.,좋은 시작이야.,q5_tymofarar,,,,,0,0
+73631,PC,Player Character,"Not really, no.","별로, 아니.",q5_tymofarar,,,,,0,0
+73632,PC,Player Character,"Yes, Deekin must be freed.","응, 디킨은 꼭 풀어줘야 해.",q5_tymofarar,,,,,0,0
+73633,PC,Player Character,And where do I find this J'Nah?,그럼 이 즈나는 어디서 찾아?,q5_tymofarar,,q5_jnahtalk07,,,0,0
+73634,PC,Player Character,And just how would I be able to kill her?,그리고 어떻게 그녀를 죽일 수 있는데?,q5_tymofarar,,,,,0,0
+73635,PC,Player Character,Why not kill her yourself?,네가 직접 죽이지 그래?,q5_tymofarar,,,,,0,0
+73636,PC,Player Character,Who are these superiors of hers?,그녀의 상관들은 누구야?,q5_tymofarar,,,,,0,0
+73637,PC,Player Character,And what if I said I already killed her?,이미 죽였다고 하면 어때?,q5_tymofarar,,q5_jnahdead,,,0,0
+73638,PC,Player Character,<StartAction>[Lie]</Start> She sent me to arrange a truce between you.,<StartAction>[거짓말]</Start> 그녀가 너희 사이에 휴전을 주선하라고 보냈어.,q5_tymofarar,q5_jnahtalk01,,,,0,0
+73639,PC,Player Character,"No, but I've heard of her.","아니, 하지만 그녀에 대해 들었어.",q5_tymofarar,q5_jnahtalk01,q5_jnahtalk09,,,0,0
+73640,PC,Player Character,"<StartAction>[Lie]</Start> No, but I've heard of her.","<StartAction>[거짓말]</Start> 아니, 하지만 그녀에 대해 들었어.",q5_tymofarar,,q5_jnahtalk06,,,0,0
+73641,PC,Player Character,She sent me to retrieve the tower statue.,그녀가 탑 조각상을 가져오라고 보냈어.,q5_tymofarar,q5_jnahtalk01,q5_jnahtalk06,,,0,0
+73642,PC,Player Character,And if I'm not?,아니면 어떻게 되는데?,q5_tymofarar,,,,,0,0
+73643,PC,Player Character,"I guess I'll hear your proposal, then.",그럼 네 제안을 들어봐야겠네.,q5_tymofarar,,,,,0,0
+73644,PC,Player Character,"Not if I kill you first, you won't.",내가 먼저 죽이면 안 되겠지.,q5_tymofarar,,,,,0,0
+73645,PC,Player Character,"She sent me to kill you, actually.","사실, 그녀가 널 죽이라고 보냈어.",q5_tymofarar,q5_jnahtalk02,q5_jnahtalk06,,,0,0
+73646,PC,Player Character,"I can't back out, now. I have to kill you.",이제 물러설 수 없어. 널 죽여야 해.,q5_tymofarar,xp1_didnotchati,,,,0,0
+73647,PC,Player Character,Wait! I've changed my mind!,잠깐! 마음이 바뀌었어!,q5_tymofarar,,,,,0,0
+73648,PC,Player Character,"I never intended to do as she asked, anyhow.",어차피 그녀가 요청한 대로 할 생각 없었어.,q5_tymofarar,xp1_didnotlawti,,,,0,0
+73649,PC,Player Character,I'm willing to listen to what you have to say.,네가 할 말을 들을 의향이 있어.,q5_tymofarar,,,,,0,0
+73650,PC,Player Character,"But you didn't get all the artifacts, right?","하지만 유물을 다 가져가진 못했지, 그렇지?",q5_tymofarar,,,,,0,0
+73651,PC,Player Character,So you broke your deal with her?,그럼 그녀와의 거래를 깨뜨린 거네?,q5_tymofarar,,,,,0,0
+73652,PC,Player Character,So she lied about only wanting the tower statue?,그럼 탑 조각상만 원한다고 거짓말한 거네?,q5_tymofarar,,q5_jnahtalk07,,,0,0
+73653,PC,Player Character,But she said it was you who betrayed *her*.,하지만 그녀가 말하기론 *그녀*를 배신한 건 너래.,q5_tymofarar,q5_jnahtalk01,q5_jnahtalk06,,,0,0
+73654,PC,Player Character,But all J'Nah wanted was the tower statue. Why try to take the rest?,하지만 즈나가 원한 건 탑 조각상뿐이었잖아. 왜 나머지도 가져가려 한 거야?,q5_tymofarar,q5_jnahtalk01,q5_jnahtalk06,,,0,0
+73655,PC,Player Character,But why attack you if the deed was already done?,하지만 일이 이미 끝났는데 왜 널 공격해?,q5_tymofarar,,,,,0,0
+73656,PC,Player Character,The tower statue.,탑 조각상.,q5_tymofarar,,q5_jnahtalk06,,,0,0
+73657,PC,Player Character,"The two of you don't get along, do you?","너희 둘은 사이가 안 좋지, 그렇지?",q5_tymofarar,q5_jnahtalk01,q5_jnahtalk05,,,0,0
+73658,PC,Player Character,Odd. She says you deserve to die for the same reasons.,이상하네. 그녀도 같은 이유로 네가 죽어야 한다고 말하던데.,q5_tymofarar,q5_jnahtalk02,q5_jnahtalk06,,,0,0
+73659,PC,Player Character,"I suppose it's a good thing I killed her, then?",그럼 내가 그녀를 죽인 건 잘한 거네?,q5_tymofarar,,q5_jnahdead,,,0,0
+73660,PC,Player Character,You sent those kobolds to attack Hilltop!,코볼트들을 보내 힐탑을 공격했잖아!,q5_tymofarar,,,,,0,0
+73661,PC,Player Character,I have my sources.,내 정보원들이 있어.,q5_tymofarar,,,,,0,0
+73662,PC,Player Character,"I followed their tracks back here, actually.","사실, 그들의 발자국을 추적해서 여기까지 왔어.",q5_tymofarar,,,,,0,0
+73663,PC,Player Character,J'Nah told me all about it.,즈나가 다 말해줬어.,q5_tymofarar,,q5_jnahtalk05,,,0,0
+73664,PC,Player Character,Deekin told me about you.,디킨이 너에 대해 말해줬어.,q5_tymofarar,,q5_knowdeekin,,,0,0
+73665,PC,Player Character,You just told me. That's how I know.,네가 방금 말했잖아. 그래서 아는 거야.,q5_tymofarar,,[지능 높음],,,0,0
+73666,PC,Player Character,I want to talk about the artifacts you stole.,네가 훔친 유물들에 대해 얘기하고 싶어.,q5_tymofarar,,,,,0,0
+73667,PC,Player Character,I'm here to talk to you about Deekin.,디킨에 대해 얘기하러 왔어.,q5_tymofarar,,q5_knowdeekin,,,0,0
+73668,PC,Player Character,How badly do you want to know?,얼마나 알고 싶은데?,q5_tymofarar,,,,,0,0
+73669,PC,Player Character,Deekin wants you dead.,디킨이 네가 죽길 원해.,q5_tymofarar,,,,,0,0
+73670,PC,Player Character,Deekin said you sent the kobolds to attack Hilltop.,디킨이 네가 코볼트들을 보내 힐탑을 공격했다고 했어.,q5_tymofarar,,q5_correction02,,,0,0
+73671,PC,Player Character,He has an artifact that I need.,그가 내게 필요한 유물을 가지고 있어.,q5_tymofarar,,,,,0,0
+73672,PC,Player Character,Because I'm here to kill you so I can get it.,널 죽여서 그걸 얻으려고 여기 왔거든.,q5_tymofarar,,,,,0,0
+73673,PC,Player Character,Deekin's hidden it. He won't give it to me unless I prove to him you're dead.,디킨이 숨겨뒀어. 네가 죽었다는 걸 증명하지 않으면 주지 않아.,q5_tymofarar,,,,,0,0
+73674,PC,Player Character,Deekin's hidden it. He won't give it to me unless you free him from your service.,디킨이 숨겨뒀어. 네가 부하에서 풀어주지 않으면 주지 않아.,q5_tymofarar,,,,,0,0
+73675,PC,Player Character,I don't understand. Aren't you trying to collect all the artifacts?,이해가 안 가. 모든 유물을 모으려는 거 아니야?,q5_tymofarar,,,,,0,0
+73676,PC,Player Character,He wants to be free of your service.,그가 네 부하에서 자유로워지고 싶어 해.,q5_tymofarar,,,,,0,0
+73677,PC,Player Character,I'm not going to tell you that.,그건 말하지 않을 거야.,q5_tymofarar,,,,,0,0
+73678,PC,Player Character,<StartAction>[Lie]</Start> I believe he's deep within the High Forest.,<StartAction>[거짓말]</Start> 높은 숲 깊은 곳에 있는 것 같아.,q5_tymofarar,,,,,0,0
+73679,PC,Player Character,He's probably hiding in Blumberg.,아마 블럼버그에 숨어 있을 거야.,q5_tymofarar,,,,,0,0
+73680,PC,Player Character,I believe this rod is yours?,이 단장이 네 거 맞지?,q5_tymofarar,,q5_pchasrod,,,0,0
+73681,PC,Player Character,"I am not here to amuse you, dragon!",널 즐겁게 하려고 온 게 아니야!,q5_tymofarar,,,,,0,0
+73682,PC,Player Character,<StartCheck>[Persuade/Bluff]</Start> I am a great and powerful mage! You'd best beware.,<StartCheck>[설득/허세]</Start> 난 위대하고 강력한 마법학자야! 조심하는 게 좋을 거야.,q5_tymofarar,,,,,0,0
+73683,PC,Player Character,I am a champion of law and justice above all else.,난 무엇보다 법과 정의의 수호자야.,q5_tymofarar,,xp1_pcispaladin,,,0,0
+73684,PC,Player Character,"I may not be a knight, but I am a warrior.","기사는 아니지만, 전사야.",q5_tymofarar,,xp1_pciswarrior,,,0,0
+73685,PC,Player Character,"I am a cleric, dragon. A servant of the gods.",난 성직자야. 신들의 종복이지.,q5_tymofarar,,xp1_pciscleric,,,0,0
+73686,PC,Player Character,"I am a servant of nature, if you must know.","알아야겠다면, 난 자연의 종복이야.",q5_tymofarar,,nw_d2_nature,,,0,0
+73687,PC,Player Character,I am a master of the martial arts.,난 무술의 대가야.,q5_tymofarar,,xp1_pcismonk,,,0,0
+73688,PC,Player Character,I am no knight. I am a wielder of the arcane arts.,기사가 아니야. 비전 마법의 사용자지.,q5_tymofarar,,nw_d2_arcane,,,0,0
+73689,PC,Player Character,"I am a rogue, dragon, and nothing more.",난 도적이야. 그뿐이야.,q5_tymofarar,,xp1_pcisrogue,,,0,0
+73690,PC,Player Character,I'm not certain I'd be better than your kobolds.,네 코볼트들보다 나을지 확신이 안 서.,q5_tymofarar,,,,,0,0
+73691,PC,Player Character,"I could tell you a tale, if you're willing.",원한다면 이야기를 들려줄 수 있어.,q5_tymofarar,,,,,0,0
+73692,PC,Player Character,"I can play you a song, if you wish.",원한다면 노래를 연주해 줄 수 있어.,q5_tymofarar,q5_playsong,xp1_pcisbard,,,0,0
+73693,PC,Player Character,"I am a bard, if you must know.","알아야겠다면, 난 음유시인이야.",q5_tymofarar,,xp1_pcisbard,,,0,0
+73694,PC,Player Character,I'd prefer to discuss matters seriously.,진지하게 문제를 논의하는 게 좋겠어.,q5_tymofarar,,,,,0,0
+73695,PC,Player Character,"I will not be toyed with, dragon!","장난감 취급 받진 않을 거야, 도마뱀 주제에!",q5_tymofarar,,,,,0,0
+73696,PC,Player Character,I do hope you're joking.,농담이길 바라지.,q5_tymofarar,,,,,0,0
+73697,PC,Player Character,Play you a song? Certainly.,노래를 연주해 달라고? 물론이지.,q5_tymofarar,q5_playsong,,,,0,0
+73698,PC,Player Character,Of course I'm aware of that!,당연히 알고 있지!,q5_tymofarar,,,,,0,0
+73699,PC,Player Character,Have you never seen my kind before?,내 종족을 본 적 없어?,q5_tymofarar,,,,,0,0
+73700,PC,Player Character,"Err... you're a dragon, aren't you?",어... 넌 용이지?,q5_tymofarar,,q5_notknowtymo,,,0,0
+73701,PC,Player Character,Are you Tymofarrar?,네가 티모파라르야?,q5_tymofarar,,q5_knowtymo,,,0,0

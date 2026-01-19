@@ -1,0 +1,40 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+29848,Dialog,FARMR,Howdy Haljal. How's business?,안녕 할잘. 장사는 어때?,M2Q1A00FARMR,m2q1atfarmhal1,,,,0,0
+29850,Dialog,FARMR,I've got a plow that needs fixing. Think you could take a gander at it?,고쳐야 할 쟁기가 있는데. 한번 봐줄 수 있어?,M2Q1A00FARMR,,,,,0,0
+29852,Dialog,FARMR,Will do. Thanks.,그렇게 할게. 고마워.,M2Q1A00FARMR,m2q1atfarmhal2,,,,0,0
+29853,Dialog,FARMR,Howdy Neurik. Spare a few potions?,안녕 뉴릭. 물약 좀 줄 수 있어?,M2Q1A00FARMR,m2q1atfarmneu2,,,,0,0
+29855,Dialog,FARMR,Ayup. I reckon it's just the weather we've been having but better safe than sorry.,그래. 날씨 탓인 것 같긴 한데 조심해서 나쁠 건 없잖아.,M2Q1A00FARMR,,,,,0,0
+29857,Dialog,FARMR,Howdy Missus.,여보.,M2Q1A00FARMR,m2q1atfarmwif1,,,,0,0
+29859,Dialog,FARMR,Haljal says he'll fix the plow tomorrow and I picked up a potion for the cow. See? I been busy.,할잘이 내일 쟁기 고쳐준대. 소한테 줄 물약도 구했고. 봐? 바빴다고.,M2Q1A00FARMR,,,,,0,0
+29861,Dialog,FARMR,Did you milk the cow?,소 젖 짰니?,M2Q1A00FARMR,m2q1atfarmdau1,,,,0,0
+29863,Dialog,FARMR,"Just checking, is all.",확인한 거야.,M2Q1A00FARMR,,,,,0,0
+29865,Dialog,FARMR,"Did you bring in the wood, son?","장작은 가져왔어, 얘?",M2Q1A00FARMR,m2q1atfarmson1,,,,0,0
+29867,Dialog,FARMR,"You're not lyin' to me again, are ya?","또 거짓말하는 거 아니지, 그치?",M2Q1A00FARMR,,,,,0,0
+29869,Dialog,FARMR,"You and yer gnomes. I don't wanna hear another word of it, all right? Now get about yer business.",너하고 네 노움들 타령. 더 이상 듣기 싫어. 알았지? 이제 네 할 일이나 해.,M2Q1A00FARMR,m2q1atfarmson2,,,,0,0
+29870,Dialog,FARMR,"So what did you do today, kids?","그래서 오늘 뭐 했어, 애들아?",M2Q1A00FARMR,,,,,0,0
+29876,Dialog,FARMR,Yes'm.,넵.,M2Q1A00FARMR,m2q1atfarmwif2,,,,0,0
+29877,Dialog,FARMR,"<StartCheck>[Success]</Start> The Eisenfeldts have grown all sullen since they lost their boy, Urth, that's all. Never leave their farmhouse. I've been tillin' their lands for them when I can - I don't know what else to do... ","<StartCheck>[성공]</Start> 아이젠펠트네가 아들 우르트를 잃고 나서 우울해졌어. 농가를 안 나와. 할 수 있을 때 그 집 땅을 대신 갈아주고 있는데, 뭘 더 해야 할지 모르겠어...",M2Q1A00FARMR,,,,,0,0
+29878,Dialog,FARMR,"<StartCheck>[Failure]</Start> Now don't you go tryin' to pry it outa me. A man's entitled to his private thoughts, ain't he?","<StartCheck>[실패]</Start> 캐묻지 마. 사람한테는 비밀로 할 생각도 있는 거야, 안 그래?",M2Q1A00FARMR,,,,,0,0
+29879,Dialog,FARMR,"As if this town didn't have enough bullies... The Eisenfeldts have grown all sullen since they lost their boy, Urth, that's all. They never leave their farmhouse.","이 마을에 깡패가 부족하기라도 한 것처럼... 아이젠펠트네가 아들 우르트를 잃고 나서 우울해졌어. 농가를 안 나와.",M2Q1A00FARMR,,,,,0,0
+29880,Dialog,FARMR,"<StartCheck>[Failure]</Start> Now don't you go tryin' to pry it outa me. A man's entitled to his private thoughts, ain't he?","<StartCheck>[실패]</Start> 캐묻지 마. 사람한테는 비밀로 할 생각도 있는 거야, 안 그래?",M2Q1A00FARMR,,,,,0,0
+29881,Dialog,FARMR,"<StartCheck>[Success]</Start> I think they're keepin' secrets from you Neverwintans and don't want anybody nosin' about. Mark my words, you can't trust a Luskan half as far as you can throw an ogre.","<StartCheck>[성공]</Start> 내 생각엔 러스칸 놈들이 네버윈터 사람들한테 비밀을 숨기고 아무도 캐묻지 않길 바라는 것 같아. 내 말 잘 들어, 러스칸 놈은 코빼기도 못 믿어.",M2Q1A00FARMR,,,,,0,0
+29882,Dialog,FARMR,"A few pails short of a honey wagon, are you?","머리에 나사가 좀 빠진 거야, 뭐야?",M2Q1A00FARMR,,,,,0,0
+29883,Dialog,FARMR,"A few pails short of a honey wagon, are you?","머리에 나사가 좀 빠진 거야, 뭐야?",M2Q1A00FARMR,,,,,0,0
+29884,Dialog,FARMR,Shove off - I've got work to do or the Missus will have me hide.,"꺼져, 일해야 해. 안 그러면 마누라가 가만 안 둬.",M2Q1A00FARMR,,,,,0,0
+29885,Dialog,FARMR,"Eh? Oh, you're that hero they be talkin' about. Whaddaya want?","응? 아, 사람들이 말하던 그 영웅이구먼. 뭘 원해?",M2Q1A00FARMR,,,,,0,0
+29886,Dialog,FARMR,"Howdy, friend.","안녕, 친구.",M2Q1A00FARMR,,,,,0,0
+29887,Dialog,FARMR,"All right, I've got work to do anyway.","좋아, 어차피 일해야 하니까.",M2Q1A00FARMR,,,,,0,0
+29888,Dialog,FARMR,We be simple folk here. Take your ego elsewhere.,우린 여기서 소박하게 사는 사람들이야. 잘난 척은 딴 데서 해.,M2Q1A00FARMR,,,,,0,0
+29889,Dialog,FARMR,"A few pails short of a honey wagon, are you?","머리에 나사가 좀 빠진 거야, 뭐야?",M2Q1A00FARMR,,,,,0,0
+29890,Dialog,FARMR,What kind of questions?,무슨 질문인데?,M2Q1A00FARMR,,,,,0,0
+29891,Dialog,FARMR,"Aye, Ballard keeps a grove in the northeast corner of town. Has more concern for his bears than my cows, mind you.","응, 발라드가 마을 북동쪽 구석에 수풀을 가꾸고 있어. 내 소보다 자기 곰을 더 걱정하지, 참.",M2Q1A00FARMR,,,,,0,0
+29892,Dialog,FARMR,You can find the Alliance Arms just south of the north gate. Gets a little rowdy every now and then but the servin' girls are nice.,연합군 여관은 북쪽 문 바로 남쪽에 있어. 가끔 시끄럽긴 한데 서빙하는 아가씨들은 좋아.,M2Q1A00FARMR,,,,,0,0
+29893,Dialog,FARMR,There's the mercenary barracks in the northwest end of town. Mayor Kendrack runs the show there.,마을 북서쪽 끝에 용병 막사가 있어. 켄드랙 시장이 거기서 일을 지휘하지.,M2Q1A00FARMR,,,,,0,0
+29894,Dialog,FARMR,"There's a place up atop a hill in the northeast that sells magical supplies, but I haven't ever needed to go up there.",북동쪽 언덕 위에 마법 용품 파는 곳이 있는데 거기 갈 일은 없었어.,M2Q1A00FARMR,,,,,0,0
+29895,Dialog,FARMR,Neurik heads the temple in the northwest of town. He's Tyrran - a good man - gives me potions sometimes to help my cow when she goes sick.,뉴릭이 마을 북서쪽 신전을 맡고 있어. 티르의 사제인데 좋은 사람이야. 소가 아프면 가끔 물약을 줘.,M2Q1A00FARMR,,,,,0,0
+29896,Dialog,FARMR,Rumor is that Luskan's sealed its gates to anyone comin' in. Some figger they came down wit' the Wailing but I thinks different.,소문에 러스칸이 외부인 출입을 막았대. 울부짖는 죽음 역병 때문이라는 사람도 있지만 난 다르게 생각해.,M2Q1A00FARMR,,,,,0,0
+29897,Dialog,FARMR,"Well, there be Alhelor the wolf-hunter's mechant and Mr. Craulnober who both spend their time at the inn. You should go and speak with them. An' then there's the Eisenfeldts but... but I'm no gossip, you hear?","음, 늑대 사냥꾼 알헬러하고 크롤노버 씨가 여관에서 시간 보내. 가서 얘기해 봐. 그리고 아이젠펠트네도 있는데... 난 수다쟁이가 아냐, 알겠어?",M2Q1A00FARMR,,,,,0,0
+29898,Dialog,FARMR,"As if this town didn't have enough bullies... Look, I just think Luskan's keepin' secrets from you Neverwintans, that's all. They don't want anybody nosin' about.","이 마을에 깡패가 부족하기라도 한 것처럼... 봐, 내 생각엔 러스칸이 네버윈터 사람들한테 비밀을 숨기는 것 같아. 아무도 캐묻지 않길 바라는 거지.",M2Q1A00FARMR,,,,,0,0
+29899,Dialog,FARMR,What are ya lookin' for?,뭘 찾는데?,M2Q1A00FARMR,,,,,0,0
+29900,Dialog,FARMR,Who are you looking for?,누구를 찾는데?,M2Q1A00FARMR,,,,,0,0
+29901,Dialog,FARMR,"As for normal equipment, the Cracked Anvil in the west of town be the only real store here.","일반 장비라면 마을 서쪽에 있는 금간 모루가 여기서 유일한 제대로 된 가게야.",M2Q1A00FARMR,,,,,0,0

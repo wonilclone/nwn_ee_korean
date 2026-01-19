@@ -1,0 +1,66 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+41893,PC,Player Character,Could I ask you some questions?,몇 가지 물어봐도 될까?,2q6b_orcambass,,[지능 보통],,,0,0
+41894,PC,Player Character,Me want ask questions.,나 질문 하고 싶어.,2q6b_orcambass,,[지능 낮음],,,0,0
+41895,PC,Player Character,Goodbye.,안녕.,2q6b_orcambass,,,,,0,0
+41896,PC,Player Character,"Why are you here, exactly?",정확히 왜 여기 있는 거야?,2q6b_orcambass,,[지능 보통],,,0,0
+41897,PC,Player Character,Why you here?,왜 여기 있어?,2q6b_orcambass,,[지능 낮음],,,0,0
+41898,PC,Player Character,What do you know about the tower?,탑에 대해 뭘 알아?,2q6b_orcambass,,[지능 보통],,,0,0
+41899,PC,Player Character,What you know 'bout wizard tower?,마법사 탑 뭐 알아?,2q6b_orcambass,,[지능 낮음],,,0,0
+41900,PC,Player Character,How do I get around this place?,여기서 어떻게 돌아다녀?,2q6b_orcambass,,[지능 보통],,,0,0
+41901,PC,Player Character,How me gets around here?,여기 어떻게 돌아다녀?,2q6b_orcambass,,[지능 낮음],,,0,0
+41902,PC,Player Character,Who are you?,넌 누구야?,2q6b_orcambass,,[지능 보통],,,0,0
+41903,PC,Player Character,Who you?,너 누구?,2q6b_orcambass,,[지능 낮음],,,0,0
+41904,PC,Player Character,What do you mean?,무슨 말이야?,2q6b_orcambass,,[지능 보통],,,0,0
+41905,PC,Player Character,What you mean?,무슨 뜻이야?,2q6b_orcambass,,[지능 낮음],,,0,0
+41906,PC,Player Character,"<StartCheck>[Persuade]</Start> Of course, I knew you were important right away.","<StartCheck>[설득]</Start> 물론, 처음부터 네가 중요한 인물이란 걸 알았지.",2q6b_orcambass,,[지능 보통],,,0,0
+41907,PC,Player Character,"<StartCheck>[Persuade]</Start> Yeah, me knew you big and important whole time.","<StartCheck>[설득]</Start> 응, 나 처음부터 네가 크고 중요한 거 알았어.",2q6b_orcambass,,[지능 낮음],,,0,0
+41908,PC,Player Character,<StartCheck>[Flirt]</Start> Of course you're important... you're so big and strong.,<StartCheck>[유혹]</Start> 물론 넌 중요하지... 그렇게 크고 강하잖아.,2q6b_orcambass,,nw_d2_flirti_n,,,0,0
+41909,PC,Player Character,<StartCheck>[Flirt]</Start> Of course you important. You is so big and strong... ,<StartCheck>[유혹]</Start> 물론 너 중요해. 너 엄청 크고 힘세잖아...,2q6b_orcambass,,nw_d2_flirti_l,,,0,0
+41910,PC,Player Character,"You'll answer my questions now, orc!","당장 내 질문에 대답해, 오크!",2q6b_orcambass,,[지능 보통],,,0,0
+41911,PC,Player Character,"You answer questions, orc, or you pay!","질문 대답해, 오크, 안 그러면 대가 치러!",2q6b_orcambass,,[지능 낮음],,,0,0
+41912,PC,Player Character,Forget I asked.,내가 물어본 거 잊어.,2q6b_orcambass,,[지능 보통],,,0,0
+41913,PC,Player Character,"Forget me asks, then.","그럼 나 물어본 거 잊어.",2q6b_orcambass,,[지능 낮음],,,0,0
+41914,PC,Player Character,What did you say about the wizards?,마법사들에 대해 뭐라고 했어?,2q6b_orcambass,,[지능 보통],,,0,0
+41915,PC,Player Character,What you say 'bout wizards?,마법사들 뭐라고 했어?,2q6b_orcambass,,[지능 낮음],,,0,0
+41916,PC,Player Character,Tell me about the Arcane Brotherhood.,비전 결사단에 대해 말해봐.,2q6b_orcambass,,[지능 보통],,,0,0
+41917,PC,Player Character,What has been happening in the tower?,탑에서 무슨 일이 있었어?,2q6b_orcambass,,[지능 보통],,,0,0
+41918,PC,Player Character,Tell me 'bout the wizards.,마법사들 얘기해 봐.,2q6b_orcambass,,[지능 낮음],,,0,0
+41919,PC,Player Character,What happen in tower?,탑에서 무슨 일 있었어?,2q6b_orcambass,,[지능 낮음],,,0,0
+41920,PC,Player Character,Tell me about this Maugrim.,이 모그림에 대해 말해봐.,2q6b_orcambass,,[지능 보통],,,0,0
+41921,PC,Player Character,Tell me 'bout Maugrim.,모그림 얘기해 봐.,2q6b_orcambass,,[지능 낮음],,,0,0
+41922,PC,Player Character,The new Archmage Arcane? What happened to the old one?,새 비전 대마법사? 전임은 어떻게 됐어?,2q6b_orcambass,,[지능 보통],,,0,0
+41923,PC,Player Character,New wizard leader? What happen to old one?,새 마법사 우두머리? 옛날 놈 어떻게 됐어?,2q6b_orcambass,,[지능 낮음],,,0,0
+41924,PC,Player Character,"What does he want, do you know?",그가 뭘 원하는지 알아?,2q6b_orcambass,,[지능 보통],,,0,0
+41925,PC,Player Character,What he wants? You know?,그가 뭘 원해? 너 알아?,2q6b_orcambass,,[지능 낮음],,,0,0
+41926,PC,Player Character,New wizard?,새 마법사?,2q6b_orcambass,,,,,0,0
+41927,PC,Player Character,Let me ask you something else.,다른 거 물어볼게.,2q6b_orcambass,,[지능 보통],,,0,0
+41928,PC,Player Character,Me ask something else.,나 다른 거 물어볼게.,2q6b_orcambass,,[지능 낮음],,,0,0
+41929,PC,Player Character,What is this army for?,이 군대는 뭘 위한 거야?,2q6b_orcambass,,[지능 보통],,,0,0
+41930,PC,Player Character,What army for?,군대 뭐 하려고?,2q6b_orcambass,,[지능 낮음],,,0,0
+41931,PC,Player Character,You think the orcs will agree?,오크들이 동의할 거 같아?,2q6b_orcambass,,[지능 보통],,,0,0
+41932,PC,Player Character,You thinks orcs say yes?,오크들 그러겠다고 할까?,2q6b_orcambass,,[지능 낮음],,,0,0
+41933,PC,Player Character,Aribeth?!,아리베스?!,2q6b_orcambass,,,,,0,0
+41934,PC,Player Character,"An orc?! Die, monster!!","오크?! 죽어, 괴물!!",2q6b_orcambass,,[지능 보통],,,0,0
+41935,PC,Player Character,"Orc?! You die, monster!!","오크?! 너 죽어, 괴물!!",2q6b_orcambass,,[지능 낮음],,,0,0
+41936,PC,Player Character,But what do the wizards need you for?,근데 마법사들이 널 왜 필요로 해?,2q6b_orcambass,,[지능 보통],,,0,0
+41937,PC,Player Character,What wizards needs you for?,마법사들 왜 너 필요해?,2q6b_orcambass,,[지능 낮음],,,0,0
+41938,PC,Player Character,"Okay, that's it. Now you die.","좋아, 됐어. 이제 죽어.",2q6b_orcambass,,[지능 보통],,,0,0
+41939,PC,Player Character,"Well, me strong! You die!!","흥, 나 세! 너 죽어!!",2q6b_orcambass,,[지능 낮음],,,0,0
+41940,PC,Player Character,"<StartCheck>[Insight]</Start> Oh, I doubt you know anything, then, being an underling... ","<StartCheck>[통찰]</Start> 아, 그럼 넌 아무것도 모르겠네, 부하 주제에...",2q6b_orcambass,,nw_d2_wis_intn,,,0,0
+41941,PC,Player Character,"Aaargh, now you dies!!","으아아, 이제 죽어!!",2q6b_orcambass,,[지능 낮음],,,0,0
+60011,PC,Player Character,Why you has big golem guy?,왜 큰 골렘 놈 있어?,2q6b_orcambass,,[지능 낮음],,,0,0
+60012,PC,Player Character,Why do you have a golem here?,왜 여기 골렘이 있어?,2q6b_orcambass,,[지능 보통],,,0,0
+60013,PC,Player Character,"You knows 'bout cult here, maybe?",너 여기 사교 알아?,2q6b_orcambass,,[지능 낮음],,,0,0
+60014,PC,Player Character,Do you know anything about a cult here?,여기 사교에 대해 뭐 알아?,2q6b_orcambass,,[지능 보통],,,0,0
+60015,PC,Player Character,You hears 'bout someone named Maugrim?,모그림이란 놈 들어봤어?,2q6b_orcambass,,2q6_yeanasha02,,,0,0
+60016,PC,Player Character,Have you heard of anyone named Maugrim?,모그림이란 사람 들어봤어?,2q6b_orcambass,,2q6_yeanasha01,,,0,0
+60017,PC,Player Character,"You trusts traitor to lead army, huh?",배신자가 군대 이끄는 거 믿어?,2q6b_orcambass,,[지능 낮음],,,0,0
+60018,PC,Player Character,You trust a traitor to lead the army?,배신자가 군대를 이끄는 걸 믿어?,2q6b_orcambass,,[지능 보통],,,0,0
+60019,PC,Player Character,How you knows that true?,그거 사실인 줄 어떻게 알아?,2q6b_orcambass,,[지능 낮음],,,0,0
+60020,PC,Player Character,How do you know that's true?,그게 사실인지 어떻게 알아?,2q6b_orcambass,,[지능 보통],,,0,0
+60021,PC,Player Character,What he gives orcs?,오크들한테 뭐 줘?,2q6b_orcambass,,[지능 낮음],,,0,0
+60022,PC,Player Character,What has he offered you?,그가 뭘 제안했어?,2q6b_orcambass,,[지능 보통],,,0,0
+60023,PC,Player Character,Who this Obould you keeps talking 'bout?,네가 계속 말하는 오볼드 누구야?,2q6b_orcambass,,[지능 낮음],,,0,0
+60024,PC,Player Character,Who is this Obould you keep mentioning?,네가 계속 언급하는 오볼드가 누구야?,2q6b_orcambass,,[지능 보통],,,0,0
+60025,PC,Player Character,"Me ambassador, comes from Mulhorand.","나 사절, 멀호란드에서 왔어.",2q6b_orcambass,,[지능 낮음],,,0,0
+60026,PC,Player Character,I am the ambassador from Mulhorand.,난 멀호란드에서 온 사절이야.,2q6b_orcambass,,[지능 보통],,,0,0

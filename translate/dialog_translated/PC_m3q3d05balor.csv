@@ -1,0 +1,38 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+46876,PC,Player Character,Who are you? What are you doing here?,넌 누구야? 여기서 뭐 하는 거야?,m3q3d05balor,,[지능 보통],,,0,0
+46877,PC,Player Character,Who you be and what you be doing here?,너 누구고 여기서 뭐 해?,m3q3d05balor,,[지능 낮음],,,0,0
+46878,PC,Player Character,How can you help me?,어떻게 날 도와줄 수 있어?,m3q3d05balor,,[지능 보통],,,0,0
+46879,PC,Player Character,How you help me?,어떻게 도와줘?,m3q3d05balor,,[지능 낮음],,,0,0
+46880,PC,Player Character,Sorry. I'm not talking to a demon. Goodbye.,미안하지만 악마와는 얘기 안 해. 안녕.,m3q3d05balor,,[지능 보통],,,0,0
+46881,PC,Player Character,Me not talk to demon. Bye!,나 악마랑 안 얘기해. 안녕!,m3q3d05balor,,[지능 낮음],,,0,0
+46882,PC,Player Character,What do you want from me?,나한테 뭘 원하는 거야?,m3q3d05balor,,[지능 보통],,,0,0
+46883,PC,Player Character,Me hear what you want first.,먼저 뭐 원하는지 들을게.,m3q3d05balor,,[지능 낮음],,,0,0
+46884,PC,Player Character,Tell me more about how you can help me.,어떻게 날 도와줄 수 있는지 더 말해봐.,m3q3d05balor,,[지능 보통],,,0,0
+46885,PC,Player Character,Me wanting know how you is helping me.,어떻게 도와주는지 더 알고 싶어.,m3q3d05balor,,[지능 낮음],,,0,0
+46886,PC,Player Character,I'd rather not have you help me. Goodbye.,도움은 받고 싶지 않아. 안녕.,m3q3d05balor,,[지능 보통],,,0,0
+46887,PC,Player Character,Me not want you is helping me. At all!,나 도움 원하지 않아. 전혀!,m3q3d05balor,,[지능 낮음],,,0,0
+46890,PC,Player Character,<StartCheck>[Insight]</Start> Do I need to sell my soul or something?,<StartCheck>[통찰]</Start> 혹시 영혼을 팔아야 하는 건 아니겠지?,m3q3d05balor,,nw_d2_wis_intn,,,0,0
+46891,PC,Player Character [M3Q3S],"Take the talisman. Now, how will you help me?","부적을 가져가. 이제, 어떻게 날 도와줄 건데?",m3q3d05balor,,m3q3sc_balor_002,[M3Q3S],,0,0
+46892,PC,Player Character [M3Q3S],Me gives you talisman. You helping now?,부적 줄게. 이제 도와줘?,m3q3d05balor,,m3q3sc_balor_003,[M3Q3S],,0,0
+46893,PC,Player Character,"No, I won't give you the talisman you want.","아니, 네가 원하는 부적은 안 줘.",m3q3d05balor,,[지능 보통],,,0,0
+46894,PC,Player Character,Me not gives you my talisman.,나 부적 안 줘.,m3q3d05balor,,[지능 낮음],,,0,0
+46895,PC,Player Character [M3Q3D],I'd like you to open all of the doors.,모든 문을 열어줬으면 해.,m3q3d05balor,,m3q3d_succdoors,[M3Q3D],,0,0
+46896,PC,Player Character [M3Q3D],Me wants stuck doors opened!,나 막힌 문 열어줬으면 좋겠어!,m3q3d05balor,,m3q3d_succdoorsl,[M3Q3D],,0,0
+46897,PC,Player Character [M3Q3D5],Give me a powerful magical item.,강력한 마법 아이템을 줘.,m3q3d05balor,,m3q3d5_demon1,[M3Q3D5],,0,0
+46898,PC,Player Character [M3Q3D5],Me wants magic item! Powerful magic item!,나 마법 아이템 원해! 강력한 마법 아이템!,m3q3d05balor,,m3q3d5_demon2,[M3Q3D5],,0,0
+46899,PC,Player Character,I don't want you to do anything for me.,아무것도 안 해줬으면 해.,m3q3d05balor,,[지능 보통],,,0,0
+46900,PC,Player Character,Me not want you helping me at all!,나 도움 전혀 원하지 않아!,m3q3d05balor,,[지능 낮음],,,0,0
+46901,PC,Player Character,"Fine, I will do this.","좋아, 하지.",m3q3d05balor,,[지능 보통],,,0,0
+46902,PC,Player Character,Me can do this.,나 할 수 있어.,m3q3d05balor,,[지능 낮음],,,0,0
+46903,PC,Player Character,So without those talismans you're trapped here?,그럼 부적들이 없으면 여기 갇혀 있는 거야?,m3q3d05balor,,[지능 보통],,,0,0
+46904,PC,Player Character,So if you not get jewelry you be trapped here?,부적 못 받으면 여기 갇혀 있는 거야?,m3q3d05balor,,[지능 낮음],,,0,0
+46905,PC,Player Character,I will not do this for you!,그건 안 해줄 거야!,m3q3d05balor,,[지능 보통],,,0,0
+46906,PC,Player Character,"If me gets talismans, me is keeping!",내가 부적 찾으면 나 가질 거야!,m3q3d05balor,,[지능 낮음],,,0,0
+46909,PC,Player Character [M3Q3S],I have one of your talismans here.,여기 부적 하나 있어.,m3q3d05balor,,m3q3sc_balor_002,[M3Q3S],,0,0
+46910,PC,Player Character [M3Q3S],Hey! Me gots you jewelry here now!,야! 나 지금 부적 있어!,m3q3d05balor,,m3q3sc_balor_003,[M3Q3S],,0,0
+46911,PC,Player Character,"Fine, you may help me then,","좋아, 그럼 도와줘도 돼.",m3q3d05balor,,[지능 보통],,,0,0
+46912,PC,Player Character,Me changes mind. You can helps me.,마음 바꿨어. 도와줘도 돼.,m3q3d05balor,,[지능 낮음],,,0,0
+46913,PC,Player Character,No. I do not wish your aid.,아니. 도움은 원하지 않아.,m3q3d05balor,,[지능 보통],,,0,0
+46914,PC,Player Character,Me not needs you do thing.,나 도움 필요 없어.,m3q3d05balor,,[지능 낮음],,,0,0
+46915,PC,Player Character,How do I know that I can trust you?,널 믿을 수 있다는 걸 어떻게 알아?,m3q3d05balor,,[지능 보통],,,0,0
+46916,PC,Player Character,Me not thinking me can trust you.,나 너 믿을 수 없을 것 같아.,m3q3d05balor,,[지능 낮음],,,0,0

@@ -1,0 +1,33 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+93232,PC,Player Character,"""Quiet. I'm the one who asks the questions here!""","""조용히 해. 여기선 내가 질문하는 쪽이야!""",q2alinu,,,,,0,0
+93233,PC,Player Character,"""You were dead. I just raised you. Can you remember anything?""","""너 죽었었어. 내가 되살린 거야. 뭐 기억나는 거 있어?""",q2alinu,,,,,0,0
+93234,PC,Player Character,"""I'm <FirstName>. I saw you in the tavern with Durnan.""","""난 <FirstName>야. 너 더난이랑 주점에 있는 거 봤어.""",q2alinu,,q2a_linu04,,,0,0
+93235,PC,Player Character,"""You don't remember me? I spoke to your group at the tavern.""","""날 기억 못 해? 주점에서 너희 일행한테 말 걸었잖아.""",q2alinu,,q2a_linu03,,,0,0
+93236,PC,Player Character,"""You don't remember me? We spoke at the tavern.""","""날 기억 못 해? 주점에서 얘기했잖아.""",q2alinu,,q2a_linu02,,,0,0
+93237,PC,Player Character,"""Then what happened?""","""그 다음엔 뭐가 있었어?""",q2alinu,,,,,0,0
+93238,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2alinu,,,,,0,0
+93239,PC,Player Character,"""How about you join me?""","""나랑 같이 다닐래?""",q2alinu,,,,,0,0
+93240,PC,Player Character,"""That's a good point. I'm probably safer without you.""","""일리 있네. 너 없는 게 더 안전할 것 같아.""",q2alinu,,,,,0,0
+93241,PC,Player Character,"""I'm willing to risk it. I could use a good healer.""","""위험 감수할 만해. 치료사가 필요하거든.""",q2alinu,,,,,0,0
+93242,PC,Player Character,"""What are you going to do now?""","""이제 어떻게 할 거야?""",q2alinu,,,,,0,0
+93243,PC,Player Character,"""That's probably for the best.""","""그게 나을 것 같네.""",q2alinu,,,,,0,0
+93244,PC,Player Character,"""Enough chit-chat. I think I'll just kill you now.""","""잡담은 그만. 이제 죽여야겠어.""",q2alinu,,,,,0,0
+93245,PC,Player Character,"""Just kidding. Head on back to the inn.""","""농담이야. 주점으로 돌아가.""",q2alinu,,,,,0,0
+93246,PC,Player Character,"""I just want the satisfaction of killing you myself."" <StartAction>[Kill him.]</Start>","""직접 죽이는 만족감을 맛보고 싶어서."" <StartAction>[죽인다.]</Start>",q2alinu,nw_d1_mid_evil,,,,0,0
+93247,PC,Player Character,"""This is all the thanks I get for bringing you back to life?""","""되살려 줬더니 고작 이 정도야?""",q2alinu,,,,,0,0
+93248,PC,Player Character,"""I guess you're right. I don't need a reward.""","""맞는 말이야. 보상 같은 거 필요 없어.""",q2alinu,,,,,0,0
+93249,PC,Player Character,"""Not good enough. Guess I have to kill you.""","""충분하지 않은데. 죽여야겠어.""",q2alinu,,,,,0,0
+93250,PC,Player Character,"""Why don't you come with me, instead?""","""대신 나랑 같이 다니는 건 어때?""",q2alinu,,,,,0,0
+93251,PC,Player Character,"""Is there anything you can tell me about this area?""","""이 지역에 대해 뭐 알려줄 거 있어?""",q2alinu,,,,,0,0
+93252,PC,Player Character,"""Do you know where your other companions are?""","""다른 동료들이 어딨는지 알아?""",q2alinu,,q2a_linunocomp,,,0,0
+93253,PC,Player Character,"""How did you end up stuffed inside that sarcophagus?""","""어떻게 석관 안에 쳐박혀 있게 된 거야?""",q2alinu,,,,,0,0
+93254,PC,Player Character,"""You're pathetic. I should have just left you for dead.""","""한심하네. 그냥 죽어 있게 뒀어야 했어.""",q2alinu,,,,,0,0
+93255,PC,Player Character,"""I'm sorry. I guess this whole situation is just getting to me.""","""미안해. 이 상황 때문에 좀 예민했나 봐.""",q2alinu,,,,,0,0
+93256,PC,Player Character,"""Go back to the inn and find a corner to pray in. That's the only place someone as hopeless as you can be of any use.""","""주점 돌아가서 구석에서 기도나 해. 너 같은 쓸모없는 놈은 거기나 어울려.""",q2alinu,,,,,0,0
+93257,PC,Player Character,"""As well as can be expected.""","""뭐 그럭저럭.""",q2alinu,,,,,0,0
+93258,PC,Player Character,"""I could use some help. Maybe you could join up with me?""","""도움이 필요해. 나랑 같이 다닐래?""",q2alinu,,,,,0,0
+93259,PC,Player Character,"""Get back to your prayers. You've already proved you aren't good for much else.""","""기도나 하러 돌아가. 넌 그것밖에 못 한다는 거 증명했잖아.""",q2alinu,,,,,0,0
+93260,PC,Player Character,"""Yeah, nobody had to come drag my sorry carcass out of there.""","""그래, 나는 아무도 거기서 끌어내 줄 필요 없었지.""",q2alinu,,,,,0,0
+93261,PC,Player Character,"""You don't like me much, do you?""","""날 별로 안 좋아하지?""",q2alinu,,,,,0,0
+93262,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I'm sorry about what I said to you before. I didn't mean it.""","<StartCheck>[설득]</Start> ""아까 한 말은 미안해. 진심 아니었어.""",q2alinu,,,,,0,0
+93263,PC,Player Character,"""I should go.""","""이제 갈게.""",q2alinu,,,,,0,0

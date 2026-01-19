@@ -1,0 +1,21 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+81745,Dialog,SHIELDGAURD,"You are an intruder. You destroyed other intruders. Destroying of intruders is a job for guardians. You destroyed intruders, therefore you are a guardian. How may I assist you, guardian?","당신은 침입자다. 당신은 다른 침입자들을 파괴했다. 침입자 파괴는 수호자의 임무다. 당신은 침입자를 파괴했다, 따라서 당신은 수호자다. 어떻게 도와드릴까, 수호자?",Q3_SHIELDGAURD,act_q3shield_1,,,,0,0
+81746,Dialog,SHIELDGAURD,The guardian protects the master. Do not touch the master.,수호자는 주인을 보호한다. 주인을 만지지 마라.,Q3_SHIELDGAURD,,,,,0,0
+81747,Dialog,SHIELDGAURD,Treasure? Inquiring into definition of treasure. Concept does not fall into accepted commands. What is treasure?,보물? 보물의 정의를 조회 중. 개념이 수락된 명령에 포함되지 않음. 보물이란 무엇인가?,Q3_SHIELDGAURD,,,,,0,0
+81748,Dialog,SHIELDGAURD,These things do not fall within accepted commands. Query unanswerable within defined parameters.,이러한 것들은 수락된 명령에 포함되지 않음. 정의된 매개변수 내에서 질의 응답 불가.,Q3_SHIELDGAURD,,,,,0,0
+81749,Dialog,SHIELDGAURD,Master is valuable. I guard the master. The master is behind me. Query answered.,주인은 귀중하다. 나는 주인을 지킨다. 주인은 내 뒤에 있다. 질의 응답 완료.,Q3_SHIELDGAURD,,,,,0,0
+81750,Dialog,SHIELDGAURD,No intruders in immediate vicinity; request does not fall into accepted commands. ,근처에 침입자 없음; 요청이 수락된 명령에 포함되지 않음.,Q3_SHIELDGAURD,,,,,0,0
+81751,Dialog,SHIELDGAURD,I am a guardian. You are a guardian. We are guardians. Nothing else is known.,나는 수호자다. 당신은 수호자다. 우리는 수호자다. 그 외에 알려진 것 없음.,Q3_SHIELDGAURD,,,,,0,0
+81752,Dialog,SHIELDGAURD,The great master made me. I protect him now. The great master is behind me.,위대한 주인이 나를 만들었다. 나는 이제 그를 보호한다. 위대한 주인은 내 뒤에 있다.,Q3_SHIELDGAURD,,,,,0,0
+81753,Dialog,SHIELDGAURD,I protect the great master. I do my job. You do not act like a guardian. Maybe you are an intruder.,나는 위대한 주인을 보호한다. 나는 임무를 수행한다. 당신은 수호자처럼 행동하지 않는다. 당신은 침입자일 수도 있다.,Q3_SHIELDGAURD,,,,,0,0
+81754,Dialog,SHIELDGAURD,"Intruders must find death. You must die, intruder!","침입자는 죽어야 한다. 죽어라, 침입자!",Q3_SHIELDGAURD,,,,,0,0
+81755,Dialog,SHIELDGAURD,"The great master takes many forms. Once he walked and talked, now he is in silent meditation.","위대한 주인은 많은 형태를 취한다. 한때는 걷고 말했으나, 지금은 조용히 명상 중이다.",Q3_SHIELDGAURD,,,,,0,0
+81756,Dialog,SHIELDGAURD,"Good, we do not want to disturb the great master's rest.","좋다, 우리는 위대한 주인의 휴식을 방해하고 싶지 않다.",Q3_SHIELDGAURD,,,,,0,0
+81757,Dialog,SHIELDGAURD,"But the great master is here. But the great master does summon guardians. This is ineffable. I would ask the great master, but I do not wish to disturb his rest. We shall wait until he awakens.","하지만 위대한 주인은 여기 있다. 하지만 위대한 주인은 수호자를 소환한다. 이것은 형언할 수 없다. 위대한 주인에게 묻고 싶지만, 휴식을 방해하고 싶지 않다. 깨어날 때까지 기다리겠다.",Q3_SHIELDGAURD,,,,,0,0
+81758,Dialog,SHIELDGAURD,"<StartCheck>[Failure]</Start> Commands contradictory. Insufficient guidelines. Priority one, destroy intruders. Now destroying all intruders.","<StartCheck>[실패]</Start> 명령 모순 발생. 지침 불충분. 우선순위 1, 침입자 파괴. 이제 모든 침입자를 파괴한다.",Q3_SHIELDGAURD,,,,,0,0
+81759,Dialog,SHIELDGAURD,<StartCheck>[Success]</Start> Commands contradictory. Insufficient guidelines. Mission aborted. ,<StartCheck>[성공]</Start> 명령 모순 발생. 지침 불충분. 임무 중단.,Q3_SHIELDGAURD,act_q3shield_2,,,,0,0
+81760,Dialog,SHIELDGAURD,The master needs no flesh. He is wise in everything.,주인은 육체가 필요 없다. 그는 모든 것에 지혜롭다.,Q3_SHIELDGAURD,,,,,0,0
+81761,Dialog,SHIELDGAURD,Insufficient input for argument. Please end this line of questioning.,논증을 위한 입력 불충분. 이 질문 라인을 종료하라.,Q3_SHIELDGAURD,,,,,0,0
+81762,Dialog,SHIELDGAURD,Dead? Death happens to intruders. Death does not happen to great master.,죽음? 죽음은 침입자에게 일어난다. 죽음은 위대한 주인에게 일어나지 않는다.,Q3_SHIELDGAURD,,,,,0,0
+81763,Dialog,SHIELDGAURD,"The guardian returns. How may I assist you, guardian?","수호자가 돌아왔다. 어떻게 도와드릴까, 수호자?",Q3_SHIELDGAURD,,,,,0,0
+81764,Dialog,SHIELDGAURD,...,...,Q3_SHIELDGAURD,,,,,0,0

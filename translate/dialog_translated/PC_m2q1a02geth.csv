@@ -1,0 +1,25 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30348,PC,Player Character,Who are you?,너 누구야?,m2q1a02geth,,[지능 보통],,,0,0
+30349,PC,Player Character,"I'm here to kill you, Geth. Are you ready?","널 죽이러 왔어, 게스. 준비됐어?",m2q1a02geth,,[지능 보통],,,0,0
+30350,PC,Player Character [M2Q1S],I have silver charms - from Neurik.,은 부적을 가지고 왔어 - 뉴릭에게서 받은 거야.,m2q1a02geth,,m2q1scurth3n,[M2Q1S],,0,0
+30351,PC,Player Character,Me says you tell me your name.,"나 말했어, 너 이름 말해.",m2q1a02geth,,[지능 낮음],,,0,0
+30352,PC,Player Character,"Me kills you, Geth. Now!","나 너 죽여, 게스. 지금!",m2q1a02geth,,[지능 낮음],,,0,0
+30353,PC,Player Character [M2Q1S],"Me gots silver charms. They works, yuh!",나 은 부적 가져왔어. 효과 있어!,m2q1a02geth,,m2q1scurth3l,[M2Q1S],,0,0
+30354,PC,Player Character,"<StartCheck>[Insight]</Start> If you want to change the future, you must do it yourself.","<StartCheck>[통찰]</Start> 미래를 바꾸고 싶다면, 네가 직접 해야 해.",m2q1a02geth,,nw_d2_wis_intn,,,0,0
+30355,PC,Player Character,<StartCheck>[Persuade]</Start> This charm comes from Neurik. It is safe.,<StartCheck>[설득]</Start> 이 부적은 뉴릭에게서 왔어. 안전해.,m2q1a02geth,,[지능 보통],,,0,0
+30356,PC,Player Character,"Take the charm, or I'll see you dead myself.","부적을 받아, 안 그러면 내가 직접 죽일 거야.",m2q1a02geth,,[지능 보통],,,0,0
+30357,PC,Player Character,I don't care. I'm killing you now.,상관없어. 지금 죽일 거야.,m2q1a02geth,,[지능 보통],,,0,0
+30358,PC,Player Character,<StartCheck>[Persuade]</Start> Neurik give charm. Is good!,<StartCheck>[설득]</Start> 뉴릭이 부적 줬어. 좋은 거야!,m2q1a02geth,,[지능 낮음],,,0,0
+30359,PC,Player Character,"You gets charm, or me kills you!","너 부적 받아, 안 그러면 나 너 죽여!",m2q1a02geth,,[지능 낮음],,,0,0
+30360,PC,Player Character,Grrr... me kills you now!,으르렁... 나 지금 너 죽여!,m2q1a02geth,,[지능 낮음],,,0,0
+30361,PC,Player Character,What means you? Me not knowing.,무슨 뜻이야? 나 몰라.,m2q1a02geth,,[지능 낮음],,,0,0
+30362,PC,Player Character,Huh? What are you talking about?,뭐? 무슨 소리야?,m2q1a02geth,,[지능 보통],,,0,0
+30363,PC,Player Character,How did you become like this?,어떻게 이렇게 됐어?,m2q1a02geth,,[지능 보통],,,0,0
+30364,PC,Player Character [M2Q1A03],"<StartCheck>[Insight]</Start> I've been sent to end the werewolf menace. If you give me your ring, I will leave and no one will come searching for you in the future.","<StartCheck>[통찰]</Start> 늑대인간 위협을 끝내러 파견됐어. 반지를 주면, 떠날게. 그러면 앞으로 아무도 널 찾지 않을 거야.",m2q1a02geth,,m2q1a03alhlr_p7a,[M2Q1A03],,0,0
+30365,PC,Player Character,I'll try to find some help for you. Stay here.,도움을 찾아볼게. 여기 있어.,m2q1a02geth,,[지능 보통],,,0,0
+30366,PC,Player Character,"You stays here. Me goes to get help, then come back, okay?","너 여기 있어. 나 도움 받으러 갔다가 돌아올게, 알았지?",m2q1a02geth,,[지능 낮음],,,0,0
+30367,PC,Player Character,What makes you become werewolf?,어떻게 늑대인간 됐어?,m2q1a02geth,,[지능 낮음],,,0,0
+30368,PC,Player Character,Do you know where I can find any of them?,그들을 어디서 찾을 수 있는지 알아?,m2q1a02geth,,[지능 보통],,,0,0
+30369,PC,Player Character,Where me find these people? You know.,나 이 사람들 어디서 찾아? 너 알아.,m2q1a02geth,,[지능 낮음],,,0,0
+30370,PC,Player Character,Excuse me. I will leave.,실례할게. 갈게.,m2q1a02geth,,[지능 보통],,,0,0
+30371,PC,Player Character,Me sorry. Me go now.,나 미안해. 나 이제 가.,m2q1a02geth,,[지능 낮음],,,0,0

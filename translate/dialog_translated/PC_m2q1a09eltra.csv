@@ -1,0 +1,81 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+31725,PC,Player Character,What kind of wares do you sell here?,여기서 어떤 물건을 파는 거야?,m2q1a09eltra,,[지능 보통],,,0,0
+31726,PC,Player Character,Can I see your merchandise?,물건 좀 볼 수 있을까?,m2q1a09eltra,,[지능 보통],,,0,0
+31727,PC,Player Character,I'd like to ask you some questions.,몇 가지 물어볼 게 있어.,m2q1a09eltra,,[지능 보통],,,0,0
+31728,PC,Player Character,What you sell? You sell wares?,뭐 팔아? 물건 팔아?,m2q1a09eltra,,[지능 낮음],,,0,0
+31729,PC,Player Character,Me want to buy stuff.,나 물건 사고 싶어.,m2q1a09eltra,,[지능 낮음],,,0,0
+31730,PC,Player Character,Me have questions.,나 질문 있어.,m2q1a09eltra,,[지능 낮음],,,0,0
+31731,PC,Player Character,Goodbye.,잘 가.,m2q1a09eltra,,,,,0,0
+31732,PC,Player Character [M2Q1A],Have you heard anything about werewolves near Port Llast?,라스트 항구 근처에서 늑대인간에 대해 들은 거 있어?,m2q1a09eltra,,m2q1atfarmson1a,[M2Q1A],,0,0
+31733,PC,Player Character [M2Q1C],I'm looking for work. Do you know of any?,일거리를 찾고 있어. 혹시 아는 거 있어?,m2q1a09eltra,,m2q1cs_eltoor001,[M2Q1C],,0,0
+31734,PC,Player Character,"I need some directions, actually.","사실, 길 좀 알려줘.",m2q1a09eltra,,[지능 보통],,,0,0
+31735,PC,Player Character [M2Q1A],"You knows of werewolves, yeah? In Port Llast?","늑대인간 알아, 응? 라스트 항구에서?",m2q1a09eltra,,m2q1atfarmson1b,[M2Q1A],,0,0
+31736,PC,Player Character [M2Q1C],Me needs job. Needs making money. You help?,나 일 필요해. 돈 벌어야 해. 도와줄래?,m2q1a09eltra,,m2q1cs_eltoor002,[M2Q1C],,0,0
+31737,PC,Player Character,Me need directions.,나 길 알아야 해.,m2q1a09eltra,,[지능 낮음],,,0,0
+31738,PC,Player Character,Good. Tell me more.,좋아. 더 말해줘.,m2q1a09eltra,,[지능 보통],,,0,0
+31739,PC,Player Character,"Me likes. Me wants more knowledge, though.","나 좋아. 근데 나 더 알고 싶어.",m2q1a09eltra,,[지능 낮음],,,0,0
+31740,PC,Player Character,What are these tomes? What do they do?,이 비전서들이 뭐야? 뭘 하는 거야?,m2q1a09eltra,,[지능 보통],,,0,0
+31741,PC,Player Character,Me not know why you is wanting tomes.,나 왜 비전서 원하는지 몰라.,m2q1a09eltra,,[지능 낮음],,,0,0
+31742,PC,Player Character,"Not interested, but I have another question.","관심 없어, 근데 다른 질문이 있어.",m2q1a09eltra,,[지능 보통],,,0,0
+31743,PC,Player Character,Me not care. Me gots other question.,나 관심 없어. 나 다른 질문 있어.,m2q1a09eltra,,[지능 낮음],,,0,0
+31744,PC,Player Character [M2Q1C],"Yes, I have one.","응, 있어.",m2q1a09eltra,,m2q1cseltoor010,[M2Q1C],,0,0
+31745,PC,Player Character [M2Q1C],Me gots reagent. Here you goes.,나 시약 있어. 여기 있어.,m2q1a09eltra,,m2q1cseltoor011,[M2Q1C],,0,0
+31746,PC,Player Character,"No, I don't have one.","아니, 없어.",m2q1a09eltra,,[지능 보통],,,0,0
+31747,PC,Player Character,Me not gots reagent.,나 시약 없어.,m2q1a09eltra,,[지능 낮음],,,0,0
+31748,PC,Player Character,What is a reagent?,시약이 뭐야?,m2q1a09eltra,,[지능 보통],,,0,0
+31749,PC,Player Character,Me not know. What is reagent?,나 몰라. 시약이 뭐야?,m2q1a09eltra,,[지능 낮음],,,0,0
+31750,PC,Player Character,"Actually, can I ask a question instead?","사실, 대신 질문 해도 돼?",m2q1a09eltra,,[지능 보통],,,0,0
+31751,PC,Player Character,Me rather asks question.,나 질문하고 싶어.,m2q1a09eltra,,[지능 낮음],,,0,0
+31752,PC,Player Character [M2Q1C],<StartAction>Offer fire beetle's belly reagent.</Start>,<StartAction>화염 딱정벌레의 배 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoor001,m2q1cseltoor012,[M2Q1C],,0,0
+31753,PC,Player Character [M2Q1C],<StartAction>Offer bodak's tooth reagent.</Start>,<StartAction>보닥의 이빨 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoor002,m2q1cseltoor013,[M2Q1C],,0,0
+31754,PC,Player Character [M2Q1C],<StartAction>Offer ettercap's silk gland reagent.</Start>,<StartAction>이터캡의 비단 분비선 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoor003,m2q1cseltoor014,[M2Q1C],,0,0
+31755,PC,Player Character [M2Q1C],<StartAction>Offer rakshasa's eye reagent.</Start>,<StartAction>락샤사의 눈 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoor004,m2q1cseltoor015,[M2Q1C],,0,0
+31756,PC,Player Character [M2Q1C],<StartAction>Offer slaad's tongue reagent.</Start>,<StartAction>슬라드의 혀 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoor005,m2q1cseltoor016,[M2Q1C],,0,0
+31757,PC,Player Character,I'd rather not offer a reagent.,시약은 안 주고 싶어.,m2q1a09eltra,,[지능 보통],,,0,0
+31758,PC,Player Character,Me wanting keep reagent. Me not give.,나 시약 갖고 싶어. 나 안 줘.,m2q1a09eltra,,[지능 낮음],,,0,0
+31759,PC,Player Character,Can I ask about something else?,다른 거 물어봐도 돼?,m2q1a09eltra,,[지능 보통],,,0,0
+31760,PC,Player Character,Me gots different question.,나 다른 질문 있어.,m2q1a09eltra,,[지능 낮음],,,0,0
+31761,PC,Player Character [M2Q1A09],What would I have exciting news about?,뭐에 대한 좋은 소식이 있을까?,m2q1a09eltra,,m2q1a09eltralc2,[M2Q1A09],,0,0
+31762,PC,Player Character [M2Q1A09],Me not know what you say. Exciting what?,나 네가 뭐라는지 몰라. 좋은 뭐?,m2q1a09eltra,,m2q1a09eltralc3,[M2Q1A09],,0,0
+31763,PC,Player Character,Can you remind me about that job?,그 일에 대해 다시 말해줄 수 있어?,m2q1a09eltra,,[지능 보통],,,0,0
+31764,PC,Player Character,Me needs reminder what me agreed to.,나 내가 동의한 거 다시 알려줘.,m2q1a09eltra,,[지능 낮음],,,0,0
+31765,PC,Player Character [M2Q1C],I have one of the tomes you seek.,네가 찾는 비전서 중 하나를 갖고 있어.,m2q1a09eltra,,m2q1cseltoor001,[M2Q1C],,0,0
+31766,PC,Player Character [M2Q1C],"Me gots tome. You want, still?","나 비전서 있어. 아직 원해?",m2q1a09eltra,,m2q1cseltoor002,[M2Q1C],,0,0
+31767,PC,Player Character [M2Q1A09],Can you remind me about that tome-recovery job?,그 비전서 회수 일에 대해 다시 말해줄래?,m2q1a09eltra,,m2q1a09eltralc2,[M2Q1A09],,0,0
+31768,PC,Player Character [M2Q1A09],Me needs more refreshment 'bout tomes job.,나 비전서 일에 대해 다시 알려줘.,m2q1a09eltra,,m2q1a09eltralc3,[M2Q1A09],,0,0
+31769,PC,Player Character [M2Q1C],<StartAction>Offer Tome of Fire.</Start>,<StartAction>불의 비전서를 건넵니다.</Start>,m2q1a09eltra,,m2q1cseltoor003,[M2Q1C],,0,0
+31770,PC,Player Character [M2Q1C],<StartAction>Offer Tome of Ice.</Start>,<StartAction>얼음의 비전서를 건넵니다.</Start>,m2q1a09eltra,,m2q1cseltoor004,[M2Q1C],,0,0
+31771,PC,Player Character [M2Q1C],<StartAction>Offer Tome of Life.</Start>,<StartAction>생명의 비전서를 건넵니다.</Start>,m2q1a09eltra,,m2q1cseltoor005,[M2Q1C],,0,0
+31772,PC,Player Character [M2Q1C],<StartAction>Offer Tome of Death.</Start>,<StartAction>죽음의 비전서를 건넵니다.</Start>,m2q1a09eltra,,m2q1cseltoor006,[M2Q1C],,0,0
+31773,PC,Player Character [M2Q1C],<StartAction>Offer Tome of Resonance.</Start>,<StartAction>공명의 비전서를 건넵니다.</Start>,m2q1a09eltra,,m2q1cseltoor007,[M2Q1C],,0,0
+31774,PC,Player Character [M2Q1C],I have another tome to offer.,줄 비전서가 또 있어.,m2q1a09eltra,,m2q1cseltoor001,[M2Q1C],,0,0
+31775,PC,Player Character [M2Q1C],Me gots more tome for you.,나 너한테 줄 비전서 더 있어.,m2q1a09eltra,,m2q1cseltoor002,[M2Q1C],,0,0
+31776,PC,Player Character,<StartCheck>[Persuade]</Start> Surely you can provide me with more than that.,<StartCheck>[설득]</Start> 분명 그것보다 더 줄 수 있을 텐데.,m2q1a09eltra,,[지능 보통],,,0,0
+31777,PC,Player Character,"<StartCheck>[Persuade]</Start> Me can get more golds, huh?","<StartCheck>[설득]</Start> 나 금화 더 받을 수 있어, 응?",m2q1a09eltra,,[지능 낮음],,,0,0
+31778,PC,Player Character,Should I beat more money out of you?,너한테서 돈을 더 뜯어내야 할까?,m2q1a09eltra,,[지능 보통],,,0,0
+31779,PC,Player Character,"Me can beat more gold from you, yes?","나 너한테서 금화 더 빼앗아, 응?",m2q1a09eltra,,[지능 낮음],,,0,0
+31780,PC,Player Character,I'd rather not part with the tomes just yet.,아직 비전서를 넘기고 싶지 않아.,m2q1a09eltra,,[지능 보통],,,0,0
+31781,PC,Player Character,Me thinks me keep tomes for now.,나 생각에 지금은 비전서 갖고 있을래.,m2q1a09eltra,,[지능 낮음],,,0,0
+31782,PC,Player Character,"Yes, I think that would help.","응, 그게 도움이 될 것 같아.",m2q1a09eltra,,[지능 보통],,,0,0
+31783,PC,Player Character,"Me wants refreshment, yes. Tell again, please.","나 다시 듣고 싶어, 응. 다시 말해줘.",m2q1a09eltra,,[지능 낮음],,,0,0
+31784,PC,Player Character,Where could the Tome of Fire be?,불의 비전서는 어디에 있을까?,m2q1a09eltra,,[지능 보통],,,0,0
+31785,PC,Player Character,Do you know where the Tome of Ice is?,얼음의 비전서가 어디 있는지 알아?,m2q1a09eltra,,[지능 보통],,,0,0
+31786,PC,Player Character,I need more information about the Tome of Life.,생명의 비전서에 대해 더 알아야 해.,m2q1a09eltra,,[지능 보통],,,0,0
+31787,PC,Player Character,Help me find the Tome of Death.,죽음의 비전서 찾는 걸 도와줘.,m2q1a09eltra,,[지능 보통],,,0,0
+31788,PC,Player Character,Do you know where the Tome of Resonance is?,공명의 비전서가 어디 있는지 알아?,m2q1a09eltra,,[지능 보통],,,0,0
+31789,PC,Player Character,<StartCheck>[Insight]</Start> I would need a lab.,<StartCheck>[통찰]</Start> 연구실이 필요하겠군.,m2q1a09eltra,,nw_d2_wis_intn,,,0,0
+31790,PC,Player Character,Me gets Tome of Fire if me knows where is.,나 어디 있는지 알면 불의 비전서 가져와.,m2q1a09eltra,,[지능 낮음],,,0,0
+31791,PC,Player Character,Me want to knows where Ice Tome is.,나 얼음의 비전서 어디 있는지 알고 싶어.,m2q1a09eltra,,[지능 낮음],,,0,0
+31792,PC,Player Character,Where you thinks Life Tome is?,생명의 비전서 어디 있다고 생각해?,m2q1a09eltra,,[지능 낮음],,,0,0
+31793,PC,Player Character,Where me find Tome of Death?,죽음의 비전서 어디서 찾아?,m2q1a09eltra,,[지능 낮음],,,0,0
+31794,PC,Player Character,Where me look for Res'nance Tome?,공명의 비전서 어디서 찾아?,m2q1a09eltra,,[지능 낮음],,,0,0
+31795,PC,Player Character,Who is the Arcane Brotherhood?,비전 결사단이 뭐야?,m2q1a09eltra,,[지능 보통],,,0,0
+31796,PC,Player Character,What be this brother thingy?,이 결사단 뭐시기가 뭐야?,m2q1a09eltra,,[지능 낮음],,,0,0
+31797,PC,Player Character,Where is his tomb?,그의 무덤이 어디야?,m2q1a09eltra,,[지능 보통],,,0,0
+31798,PC,Player Character,Where me find grave?,무덤 어디서 찾아?,m2q1a09eltra,,[지능 낮음],,,0,0
+31799,PC,Player Character,Where might I find Saer Bodkin?,세어 보드킨을 어디서 찾을 수 있을까?,m2q1a09eltra,,[지능 보통],,,0,0
+31800,PC,Player Character,Saer Bodkin be where?,세어 보드킨 어디 있어?,m2q1a09eltra,,[지능 낮음],,,0,0
+31801,PC,Player Character [M2Q1C],<StartAction>Offer skeleton's knuckle reagent.</Start>,<StartAction>해골의 손가락 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoor006,m2q1cseltoor017,[M2Q1C],,0,0
+68094,PC,Player Character [M2Q1S],<StartAction>Offer fairy dust reagent.</Start>,<StartAction>요정의 가루 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoora03,m2q1sceltoora03,[M2Q1S],,0,0
+68095,PC,Player Character [M2Q1S],<StartAction>Offer fenberries reagent.</Start>,<StartAction>펜베리 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoora02,m2q1sceltoora02,[M2Q1S],,0,0
+68096,PC,Player Character [M2Q1S],<StartAction>Offer quartz crystal reagent.</Start>,<StartAction>석영 수정 시약을 건넵니다.</Start>,m2q1a09eltra,m2q1eltoora01,m2q1sceltoora01,[M2Q1S],,0,0

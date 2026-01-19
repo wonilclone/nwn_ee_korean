@@ -1,0 +1,48 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+33238,PC,Player Character,I don't understand what you are saying.,무슨 말씀을 하시는지 모르겠어요.,m2q2aliz,,[지능 보통],,,0,0
+33239,PC,Player Character,"Yes, I can understand you.","네, 이해할 수 있어요.",m2q2aliz,,[지능 보통],,,0,0
+33240,PC,Player Character,"That doesn't sound like the proper tone of voice for one who was beaten, but I understand what you say.","패배한 자의 어조로는 적절하지 않게 들리지만, 무슨 말인지는 이해해요.",m2q2aliz,,[지능 보통],,,0,0
+33241,PC,Player Character,Me know what you say. What you be?,나 네가 뭐 말하는지 알아. 너 뭐야?,m2q2aliz,,[지능 낮음],,,0,0
+33242,PC,Player Character,Me not like way you talk. You watch mouth or me take you head.,나 네가 말하는 방식 싫어. 너 입 조심해 아니면 나 너 머리 가져가.,m2q2aliz,,[지능 낮음],,,0,0
+33243,PC,Player Character,Me not know what you say.,나 네가 뭐 말하는지 몰라.,m2q2aliz,,[지능 낮음],,,0,0
+33244,PC,Player Character,"I don't know what you are talking about. We ""mammals"" rule the world.","무슨 말씀을 하는지 모르겠어요. 우리 ""포유류""가 세상을 지배해요.",m2q2aliz,,[지능 보통],,,0,0
+33245,PC,Player Character,You talk as if you just won the battle. Why aren't you afraid of me?,방금 전투에서 이긴 것처럼 말하네요. 왜 날 두려워하지 않죠?,m2q2aliz,,[지능 보통],,,0,0
+33246,PC,Player Character,What you mean? We rule world.,무슨 뜻이야? 우리가 세상 지배해.,m2q2aliz,,[지능 낮음],,,0,0
+33247,PC,Player Character,Me just beat you. Why you no afraid of me?,나 방금 너 이겼어. 왜 너 나 무서워하지 않아?,m2q2aliz,,[지능 낮음],,,0,0
+33248,PC,Player Character,Slaves? We are nobody's slaves.,노예? 우리는 누구의 노예도 아니에요.,m2q2aliz,,[지능 보통],,,0,0
+33249,PC,Player Character,I'm not answering any of your questions until you answer mine.,당신이 내 질문에 답하기 전까지는 답하지 않을 거예요.,m2q2aliz,,[지능 보통],,,0,0
+33250,PC,Player Character,Slaves? Me no be slave to anyone.,노예? 나 누구한테도 노예 아니야.,m2q2aliz,,[지능 낮음],,,0,0
+33251,PC,Player Character,Me not answer questions 'til you answer mine.,"나 네 질문 답 안 해, 너 내 질문 답할 때까지.",m2q2aliz,,[지능 낮음],,,0,0
+33252,PC,Player Character,They don't really rule much of anything. Are you concerned about dragons?,그들은 실제로 뭐든 지배하지 않아요. 용들이 걱정되나요?,m2q2aliz,,[지능 보통],,,0,0
+33253,PC,Player Character,"If you don't answer my questions right now, I'm going to slit your slimy throat!",지금 당장 내 질문에 답하지 않으면 네 미끈한 목을 베어버릴 거야!,m2q2aliz,,[지능 보통],,,0,0
+33254,PC,Player Character,I'm not talking to you anymore. Get out of my sight.,더 이상 당신과 대화하지 않을 거예요. 내 눈앞에서 사라져요.,m2q2aliz,,[지능 보통],,,0,0
+33255,PC,Player Character,<StartCheck>[Insight]</Start> Dragons? Does your race fear the power of the dragons?,<StartCheck>[통찰]</Start> 용? 당신 종족이 용의 힘을 두려워하나요?,m2q2aliz,,nw_d2_wis_intn,,,0,0
+33256,PC,Player Character,What are you?,당신은 뭐예요?,m2q2aliz,,[지능 보통],,,0,0
+33257,PC,Player Character,Who are you?,당신은 누구예요?,m2q2aliz,,[지능 보통],,,0,0
+33258,PC,Player Character,"Not rule, but do fly. You worry 'bout dragons?","지배 안 해, 근데 날아다녀. 너 용 걱정돼?",m2q2aliz,,[지능 낮음],,,0,0
+33259,PC,Player Character,"You answer me questions now, or me cut heads off.","너 지금 내 질문 답해, 아니면 나 머리 잘라버려.",m2q2aliz,,[지능 낮음],,,0,0
+33260,PC,Player Character,You bothering me. Go away quick.,너 나 짜증나게 해. 빨리 가.,m2q2aliz,,[지능 낮음],,,0,0
+33261,PC,Player Character,I can tell you that I am getting rather tired of being called a mammal. Call me <FirstName>.,포유류라고 불리는 게 지겨워지고 있어요. 절 <FirstName>이라고 불러요.,m2q2aliz,,[지능 보통],,,0,0
+33262,PC,Player Character,What are you doing here?,여기서 뭐 하고 있어요?,m2q2aliz,,[지능 보통],,,0,0
+33263,PC,Player Character,What you be?,너 뭐야?,m2q2aliz,,[지능 낮음],,,0,0
+33264,PC,Player Character,Who you be?,너 누구야?,m2q2aliz,,[지능 낮음],,,0,0
+33265,PC,Player Character,What you do here?,너 여기서 뭐 해?,m2q2aliz,,[지능 낮음],,,0,0
+33266,PC,Player Character,That doesn't answer my question.,그건 내 질문에 대한 답이 아니에요.,m2q2aliz,,[지능 보통],,,0,0
+33267,PC,Player Character,I don't trust you. I think I had better kill you.,당신을 믿을 수 없어요. 죽이는 게 나을 것 같아요.,m2q2aliz,,[지능 보통],,,0,0
+33268,PC,Player Character,That not good answer! No make any sense.,그거 좋은 답 아니야! 말이 안 돼.,m2q2aliz,,[지능 낮음],,,0,0
+33269,PC,Player Character,Me no trust you. Me kill you now.,나 너 믿지 않아. 나 지금 너 죽여.,m2q2aliz,,[지능 낮음],,,0,0
+33270,PC,Player Character,You say we. Who are you refering to?,당신은 우리라고 말했어요. 누구를 말하는 거죠?,m2q2aliz,,,,,0,0
+33271,PC,Player Character,What makes you think your race will dominate ours?,당신 종족이 우리 종족을 지배할 거라고 생각하는 이유가 뭐죠?,m2q2aliz,,[지능 보통],,,0,0
+33272,PC,Player Character,Me just beat you. What make you think you take us over?,나 방금 너 이겼어. 뭐 때문에 너 우리 지배할 수 있다고 생각해?,m2q2aliz,,[지능 낮음],,,0,0
+33273,PC,Player Character,You will answer my questions now!,지금 당장 내 질문에 답할 거예요!,m2q2aliz,,[지능 보통],,,0,0
+33274,PC,Player Character,"You answer me questions now, or else!","너 지금 내 질문 답해, 아니면 큰일 나!",m2q2aliz,,[지능 낮음],,,0,0
+33275,PC,Player Character,I have more questions.,질문이 더 있어요.,m2q2aliz,,[지능 보통],,,0,0
+33276,PC,Player Character,Me have more question.,나 질문 더 있어.,m2q2aliz,,[지능 낮음],,,0,0
+33277,PC,Player Character,I have more questions.,질문이 더 있어요.,m2q2aliz,,[지능 보통],,,0,0
+33278,PC,Player Character,Me have another question.,나 다른 질문 있어.,m2q2aliz,,[지능 낮음],,,0,0
+33279,PC,Player Character,Who is this queen you speak of?,당신이 말하는 이 여왕은 누구예요?,m2q2aliz,,[지능 보통],,,0,0
+33280,PC,Player Character,Who be you queen?,너희 여왕 누구야?,m2q2aliz,,[지능 낮음],,,0,0
+33281,PC,Player Character,I would ask you more questions.,질문을 더 하고 싶어요.,m2q2aliz,,[지능 보통],,,0,0
+33282,PC,Player Character,Me want ask more question.,나 질문 더 하고 싶어.,m2q2aliz,,[지능 낮음],,,0,0
+33283,PC,Player Character,"If you are so powerful, then how was I able to defeat you?","그렇게 강하다면, 어떻게 내가 당신을 물리칠 수 있었죠?",m2q2aliz,,[지능 보통],,,0,0
+33284,PC,Player Character,"If you so tough, why me beat you so easy?","너 그렇게 강하면, 왜 나 너 쉽게 이겼어?",m2q2aliz,,[지능 낮음],,,0,0

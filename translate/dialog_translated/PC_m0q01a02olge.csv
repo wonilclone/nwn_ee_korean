@@ -1,0 +1,44 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+49422,PC,Player Character,Ready.,준비됐어요.,m0q01a02olge,,,,,0,0
+49423,PC,Player Character,"Yes, I'd like to get a tutorial on stores and see what you have for sale.","네, 상점 사용법 튜토리얼을 받고 판매하는 물건을 보고 싶어요.",m0q01a02olge,,[지능 보통],,,0,0
+49424,PC,Player Character,"No, I'm not interested in buying anything right now.","아니요, 지금은 아무것도 살 생각 없어요.",m0q01a02olge,,[지능 보통],,,0,0
+49425,PC,Player Character,"Yes, me want lesson on stores and me want see what you got in you store.","응, 나 상점 배우고 싶고 너 물건을 보고 싶어.",m0q01a02olge,,[지능 낮음],,,0,0
+49426,PC,Player Character,"No, me not want buy nothing right now.","아니, 나 지금 아무것도 안 사.",m0q01a02olge,,[지능 낮음],,,0,0
+49427,PC,Player Character,Yes.,네.,m0q01a02olge,m0q0_olgerd_001,,,,0,0
+49428,PC,Player Character,No.,아니요.,m0q01a02olge,m0q0_olgerd_002,,,,0,0
+49443,PC,Player Character,Go on.,계속하세요.,m0q01a02olge,,,,,0,0
+49444,PC,Player Character,Could you repeat what you just said?,방금 말씀하신 거 반복해 주실 수 있어요?,m0q01a02olge,,[지능 보통],,,0,0
+49445,PC,Player Character,Me lost. Maybe you repeat what you say before?,나 헷갈려. 아까 말한 거 다시 말해줘?,m0q01a02olge,,[지능 낮음],,,0,0
+49446,PC,Player Character,Go on.,계속하세요.,m0q01a02olge,,,,,0,0
+49447,PC,Player Character,"Sorry, could you repeat that one more time?","미안한데, 한 번 더 반복해 주실 수 있어요?",m0q01a02olge,,[지능 보통],,,0,0
+49448,PC,Player Character,Me sorry. Me got lost. You say that again?,미안해. 나 헷갈렸어. 다시 말해줘?,m0q01a02olge,,[지능 낮음],,,0,0
+49449,PC,Player Character,Got it. Go on.,알았어요. 계속하세요.,m0q01a02olge,,,,,0,0
+49450,PC,Player Character,"Wait a minute, could you go over that again?","잠깐만요, 그거 다시 설명해 주실 수 있어요?",m0q01a02olge,,[지능 보통],,,0,0
+49451,PC,Player Character,Me not get it. Could you tell me again?,나 이해 못했어. 다시 말해줘?,m0q01a02olge,,[지능 낮음],,,0,0
+49452,PC,Player Character,I already know how to work my inventory.,인벤토리 사용법은 이미 알아요.,m0q01a02olge,,[지능 보통],,,0,0
+49453,PC,Player Character,Me already know how work inventory.,나 인벤토리 어떻게 하는지 이미 알아.,m0q01a02olge,,[지능 낮음],,,0,0
+49454,PC,Player Character,I don't need a tutorial on how to use the stores.,상점 사용법 튜토리얼은 필요 없어요.,m0q01a02olge,,[지능 보통],,,0,0
+49455,PC,Player Character,Me know how store work. You not need tell me.,나 상점 어떻게 하는지 알아. 너 말 안 해도 돼.,m0q01a02olge,,[지능 낮음],,,0,0
+49460,PC,Player Character,I understand. Go on.,이해했어요. 계속하세요.,m0q01a02olge,,[지능 보통],,,0,0
+49461,PC,Player Character,Me get it. Go on.,나 알았어. 계속해.,m0q01a02olge,,[지능 낮음],,,0,0
+49462,PC,Player Character,Could you repeat that?,그거 반복해 주실 수 있어요?,m0q01a02olge,,[지능 보통],,,0,0
+49463,PC,Player Character,Me need you say that again.,나 다시 말해줘야 해.,m0q01a02olge,,[지능 낮음],,,0,0
+61484,PC,Player Character,Goodbye.,안녕.,m0q01a02olge,,,,,0,0
+61485,PC,Player Character,Tell me 'bout how stores work.,너 상점 어떻게 하는지 말해줘.,m0q01a02olge,,[지능 낮음],,,0,0
+61486,PC,Player Character,Tell me 'bout how inventory work.,너 인벤토리 어떻게 하는지 말해줘.,m0q01a02olge,,[지능 낮음],,,0,0
+61487,PC,Player Character,Me got questions me want ask.,나 질문 하고 싶어.,m0q01a02olge,,[지능 낮음],,,0,0
+61488,PC,Player Character,Me want see what you sell.,나 네가 파는 거 보고 싶어.,m0q01a02olge,,[지능 낮음],,,0,0
+61489,PC,Player Character,Can you explain how stores work?,상점이 어떻게 작동하는지 설명해 주실 수 있어요?,m0q01a02olge,,[지능 보통],,,0,0
+61498,PC,Player Character,Can you explain how my inventory works?,제 인벤토리가 어떻게 작동하는지 설명해 주실 수 있어요?,m0q01a02olge,,[지능 보통],,,0,0
+61512,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶어요.,m0q01a02olge,,[지능 보통],,,0,0
+61513,PC,Player Character,You know stuff 'bout a cure?,치료제 뭐 알아?,m0q01a02olge,,[지능 낮음],,,0,0
+61514,PC,Player Character,You know stuff 'bout plague?,역병 뭐 알아?,m0q01a02olge,,[지능 낮음],,,0,0
+61515,PC,Player Character,"You talk 'bout you self, Olgerd.","올거드, 너 자신 얘기해.",m0q01a02olge,,[지능 낮음],,,0,0
+61516,PC,Player Character,Have you heard anything about a cure?,치료제에 대해 들으신 거 있어요?,m0q01a02olge,,[지능 보통],,,0,0
+61517,PC,Player Character,Lady Aribeth?,아리베스 경?,m0q01a02olge,,,,,0,0
+61518,PC,Player Character,Me want meet Lady Aribeth.,나 아리베스 경 만나고 싶어.,m0q01a02olge,,[지능 낮음],,,0,0
+61519,PC,Player Character,I'd like to meet the Lady Aribeth.,아리베스 경을 만나고 싶어요.,m0q01a02olge,,[지능 보통],,,0,0
+61520,PC,Player Character,What can you tell me about the plague?,역병에 대해 뭘 알려주실 수 있어요?,m0q01a02olge,,[지능 보통],,,0,0
+61521,PC,Player Character,"Tell me about yourself, Olgerd.","자신에 대해 말씀해 주세요, 올거드.",m0q01a02olge,,[지능 보통],,,0,0
+61522,PC,Player Character,I want to see what you have for sale.,판매하는 물건을 보고 싶어요.,m0q01a02olge,,[지능 보통],,,0,0
+61523,PC,Player Character,Okay.,좋아.,m0q01a02olge,,,,,0,0

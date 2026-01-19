@@ -1,0 +1,36 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36569,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶은데요.,m2q3g02man,,[지능 보통],,,0,0
+36570,PC,Player Character,Me want some informations.,나 정보 원해.,m2q3g02man,,[지능 낮음],,,0,0
+36571,PC,Player Character,Goodbye.,안녕히 계세요.,m2q3g02man,,,,,0,0
+36572,PC,Player Character,Charwood out in nowhere. Who keep it safe?,그을린숲 아무것도 없는 곳에 있어. 누가 안전 지켜?,m2q3g02man,,[지능 낮음],,,0,0
+36573,PC,Player Character,I seek the cult that prolonged the Neverwinter plague.,저는 네버윈터 역병을 연장시킨 사교를 찾고 있습니다.,m2q3g02man,,[지능 보통],,,0,0
+36574,PC,Player Character,What can you tell me about Charwood?,그을린숲에 대해 뭘 알려주실 수 있나요?,m2q3g02man,,[지능 보통],,,0,0
+36575,PC,Player Character,Have you heard of any trouble around here?,이 근처에서 무슨 문제 들으셨나요?,m2q3g02man,,[지능 보통],,,0,0
+36576,PC,Player Character,Me looks for plague-pushing cult. They hurt Neverwinter.,나 역병 퍼뜨린 사교 찾아. 걔들 네버윈터 해쳤어.,m2q3g02man,,[지능 낮음],,,0,0
+36577,PC,Player Character,You tells me abouts Charwood.,그을린숲 얘기해줘.,m2q3g02man,,[지능 낮음],,,0,0
+36578,PC,Player Character,Maybe you hear about odd stuff or rumors?,이상한 거나 소문 들었어?,m2q3g02man,,[지능 낮음],,,0,0
+36579,PC,Player Character,I want to ask something else.,다른 걸 물어보고 싶어요.,m2q3g02man,,[지능 보통],,,0,0
+36580,PC,Player Character,Me ask different questions.,나 다른 질문 물어봐.,m2q3g02man,,[지능 낮음],,,0,0
+36581,PC,Player Character,Charwood seems pretty isolated. Who protects you?,그을린숲은 꽤 외딴 것 같은데. 누가 당신들을 보호하나요?,m2q3g02man,,[지능 보통],,,0,0
+36582,PC,Player Character,Do you have shops? Merchants?,상점이 있나요? 상인은요?,m2q3g02man,,[지능 보통],,,0,0
+36583,PC,Player Character,You gots equipments?,장비 있어?,m2q3g02man,,[지능 낮음],,,0,0
+36584,PC,Player Character [M2Q3C],But you saw me not long ago.,하지만 얼마 전에 저를 보셨잖아요.,m2q3g02man,,m2q3cstalkedmen,[M2Q3C],,0,0
+36585,PC,Player Character [M2Q3C],What you talking about? You just see me earlier.,무슨 소리야? 조금 전에 나 봤잖아.,m2q3g02man,,m2q3cstalkedmel,[M2Q3C],,0,0
+36586,PC,Player Character,<StartCheck>[Insight]</Start> Just formed? Port Llast is years old.,<StartCheck>[통찰]</Start> 막 만들어졌다고요? 라스트 항구는 수년 전부터 있었는데요.,m2q3g02man,,nw_d2_wis_intn,,,0,0
+36587,PC,Player Character,Where are your guards? Perhaps they know?,경비병들은 어디 있나요? 그들이 알지도 모르겠네요.,m2q3g02man,,[지능 보통],,,0,0
+36588,PC,Player Character,You gots guards? Maybe they knows?,경비병 있어? 걔들 알까?,m2q3g02man,,[지능 낮음],,,0,0
+36589,PC,Player Character,Who are the important people in town?,마을에서 중요한 사람들은 누구인가요?,m2q3g02man,,[지능 보통],,,0,0
+36590,PC,Player Character,Who important around here?,여기 중요한 사람 누구야?,m2q3g02man,,[지능 낮음],,,0,0
+36591,PC,Player Character,<StartCheck>[Insight]</Start> Are you afraid of the Lords Jhareg?,<StartCheck>[통찰]</Start> 자렉 경을 두려워하시나요?,m2q3g02man,,nw_d2_wis_intn,,,0,0
+36592,PC,Player Character,Who Quint?,퀸트 누구야?,m2q3g02man,,[지능 낮음],,,0,0
+36593,PC,Player Character,Who is Quint?,퀸트는 누구죠?,m2q3g02man,,[지능 보통],,,0,0
+36594,PC,Player Character,Tell me more about Charwood.,그을린숲에 대해 더 말해주세요.,m2q3g02man,,[지능 보통],,,0,0
+36595,PC,Player Character,Me ask something else about town.,나 마을 다른 거 물어봐.,m2q3g02man,,[지능 낮음],,,0,0
+36596,PC,Player Character,Where can I find the Mayor?,시장을 어디서 찾을 수 있나요?,m2q3g02man,,[지능 보통],,,0,0
+36597,PC,Player Character,Where me find Mayor-guy?,나 시장 어디서 찾아?,m2q3g02man,,[지능 낮음],,,0,0
+36598,PC,Player Character,Where's this castle?,이 성은 어디 있나요?,m2q3g02man,,[지능 보통],,,0,0
+36599,PC,Player Character,Where this castle be?,이 성 어디 있어?,m2q3g02man,,[지능 낮음],,,0,0
+36600,PC,Player Character,Who's Karlat?,칼랏은 누구죠?,m2q3g02man,,[지능 보통],,,0,0
+36601,PC,Player Character,Who this Karlat-guy?,이 칼랏 누구야?,m2q3g02man,,[지능 낮음],,,0,0
+36602,PC,Player Character,What does the gate guard protect you from?,문 경비병은 당신들을 무엇으로부터 지키나요?,m2q3g02man,,[지능 보통],,,0,0
+36603,PC,Player Character,What da gate-guard-guy protect you from?,저 문 경비병 뭐로부터 지켜?,m2q3g02man,,[지능 낮음],,,0,0

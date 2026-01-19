@@ -1,0 +1,32 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+25658,PC,Player Character,Farewell.,그럼 이만 가보겠습니다.,m1q6a01nash,,[지능 보통],,,0,0
+25659,PC,Player Character,Should Desther be killed?,데스터를 죽여야겠습니까?,m1q6a01nash,,[지능 보통],,,0,0
+25660,PC,Player Character,Maybe Desther should die?,데스터 죽어야 해?,m1q6a01nash,,[지능 낮음],,,0,0
+25661,PC,Player Character,I go for now.,나 이제 간다.,m1q6a01nash,,[지능 낮음],,,0,0
+25662,PC,Player Character,Why you think he follow Desther?,왜 그가 데스터 따라갔다고 생각해?,m1q6a01nash,,[지능 낮음],,,0,0
+25663,PC,Player Character,Why would he follow Desther?,왜 데스터를 따라갔을까요?,m1q6a01nash,,[지능 보통],,,0,0
+25664,PC,Player Character,Goodbye.,그럼 이만.,m1q6a01nash,,,,,0,0
+25665,PC,Player Character,Will things be getting back to normal now?,이제 모든 게 정상으로 돌아가게 되겠습니까?,m1q6a01nash,,[지능 보통],,,0,0
+25666,PC,Player Character,I have questions about your fellows.,동료분들에 대해 몇 가지 물어보고 싶어요.,m1q6a01nash,,[지능 보통],,,0,0
+25667,PC,Player Character,Maybe stuff get normal when this spell get done?,이 주문 끝나면 다 정상 되는 거야?,m1q6a01nash,,[지능 낮음],,,0,0
+25668,PC,Player Character,Me gots questions about other peoples here.,여기 다른 사람들에 대해 물어볼 거 있어.,m1q6a01nash,,[지능 낮음],,,0,0
+25669,PC,Player Character,Me gots questions about the spell thingy.,그 주문 뭐시기에 대해 물어볼 거 있어.,m1q6a01nash,,[지능 낮음],,,0,0
+25670,PC,Player Character,I have questions about the ritual.,그 의식에 대해 질문이 있어요.,m1q6a01nash,,[지능 보통],,,0,0
+25671,PC,Player Character,Let's go back to my initial questions.,처음 질문으로 돌아가도 될까요?,m1q6a01nash,,[지능 보통],,,0,0
+25672,PC,Player Character,We maybe go back to first questions?,처음 질문으로 다시 가도 돼?,m1q6a01nash,,[지능 낮음],,,0,0
+25673,PC,Player Character [M1Q5A01],Fenthick says that he gave his ward key to Desther.,펜딕이 자신의 구역 열쇠를 데스터에게 주었다고 했습니다.,m1q6a01nash,,m1q5a01aribclg04,[M1Q5A01],,0,0
+25674,PC,Player Character [M1Q5A01],Fenthick give his castle key thing to Desther.,펜딕 자기 성 열쇠 데스터한테 줬대.,m1q6a01nash,,m1q5a01aribclg05,[M1Q5A01],,0,0
+25675,PC,Player Character,Desther appears to be a traitor. What are your thoughts?,데스터는 배신자인 듯합니다. 어떻게 생각하십니까?,m1q6a01nash,,[지능 보통],,,0,0
+25676,PC,Player Character,Desther a traitor. What you think of that?,데스터 배신자야. 그거 어떻게 생각해?,m1q6a01nash,,[지능 낮음],,,0,0
+25677,PC,Player Character,What do you think of what Fenthick has done?,펜딕이 한 일에 대해 어떻게 생각하십니까?,m1q6a01nash,,[지능 보통],,,0,0
+25678,PC,Player Character,What you think about what Fenthick do?,"펜딕이 한 거, 어떻게 생각해?",m1q6a01nash,,[지능 낮음],,,0,0
+25679,PC,Player Character,Who were the attackers that Desther allowed in?,데스터가 들여보낸 공격자들은 누구였습니까?,m1q6a01nash,,[지능 보통],,,0,0
+25680,PC,Player Character,Who them guys Desther brought to attack us?,데스터가 들여온 그 공격한 놈들은 누구야?,m1q6a01nash,,[지능 낮음],,,0,0
+25681,PC,Player Character,Let's go back to my first questions.,처음 질문으로 돌아가도 될까요?,m1q6a01nash,,[지능 보통],,,0,0
+25682,PC,Player Character,"Maybe go back to first questions, okay?","처음 질문으로 다시 가도 돼, 응?",m1q6a01nash,,[지능 낮음],,,0,0
+25683,PC,Player Character,What's Fenthick really done? Nothing outright criminal yet.,펜딕이 실제로 무엇을 했죠? 아직 명백한 범죄를 저지른 건 아니지 않습니까?,m1q6a01nash,,[지능 보통],,,0,0
+25684,PC,Player Character,Fenthick really that bad? He not do real criminal stuff yet.,펜딕 정말 그렇게 나빠? 아직 진짜 범죄 저지른 건 없잖아.,m1q6a01nash,,[지능 낮음],,,0,0
+25685,PC,Player Character,<StartCheck>[Persuade]</Start> Investigations in the Docks suggest you knew Vengaul Bloodsail?,"<StartCheck>[설득]</Start> 항만 지구 조사에 따르면, 벵골 블러드세일을 아셨던 것 같던데요?",m1q6a01nash,,[지능 보통],,,0,0
+25686,PC,Player Character,<StartCheck>[Persuade]</Start> Stuff in Docks district say maybe you know Vengaul Bloodsail?,"<StartCheck>[설득]</Start> 항만 지구 얘기 보니, 너 벵골 블러드세일 알아?",m1q6a01nash,,[지능 낮음],,,0,0
+25687,PC,Player Character,"<StartCheck>[Insight]</Start> New villains, but not the kind you are used to.","<StartCheck>[통찰]</Start> 새로운 악당들이라, 원래 상대하시던 유형의 악당들은 아니겠죠.",m1q6a01nash,,nw_d2_wis_intn,,,0,0
+25688,PC,Player Character,<StartCheck>[Insight]</Start> Does that extend to each other?,<StartCheck>[통찰]</Start> 그게 서로 간에도 해당되나요?,m1q6a01nash,,nw_d2_wis_intn,,,0,0

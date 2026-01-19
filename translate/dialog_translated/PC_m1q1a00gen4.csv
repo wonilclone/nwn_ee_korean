@@ -1,0 +1,48 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+16074,PC,Player Character,I want to ask you some questions.,질문 좀 할게.,m1q1a00gen4,,[지능 보통],,,0,0
+16075,PC,Player Character,Me want some informations.,나 정보 몇 개 원해.,m1q1a00gen4,,[지능 낮음],,,0,0
+16076,PC,Player Character,Goodbye.,그럼 이만.,m1q1a00gen4,,,,,0,0
+16077,PC,Player Character,Me want to know about different city areas.,나 도시 다른 구역들 알고 싶어.,m1q1a00gen4,,[지능 낮음],,,0,0
+16078,PC,Player Character,What do you know of the plague?,역병에 대해 뭘 알고 있어?,m1q1a00gen4,,[지능 보통],,,0,0
+16079,PC,Player Character,I need infomation about places in Neverwinter.,네버윈터의 여러 장소들에 대한 정보가 필요해.,m1q1a00gen4,,[지능 보통],,,0,0
+16080,PC,Player Character,Have you heard of anything odd? Any rumors?,이상한 일 들어본 적 있어? 소문이든 뭐든?,m1q1a00gen4,,[지능 보통],,,0,0
+16081,PC,Player Character,You know anything about the bad plague?,"나쁜 역병, 뭐 아는 거 있어?",m1q1a00gen4,,[지능 낮음],,,0,0
+16082,PC,Player Character,Me wants information about places in Neverwinter.,나 네버윈터 곳곳 정보 원해.,m1q1a00gen4,,[지능 낮음],,,0,0
+16083,PC,Player Character,Maybe you hear about odd stuff or rumors?,혹시 이상한 거나 소문 들었어?,m1q1a00gen4,,[지능 낮음],,,0,0
+16084,PC,Player Character,What do you know about attempts at a cure?,치료제를 만드는 시도에 대해 뭘 알아?,m1q1a00gen4,,[지능 보통],,,0,0
+16085,PC,Player Character,You know about cure attempts maybe?,"치료법 시도, 아는 거 있나?",m1q1a00gen4,,[지능 낮음],,,0,0
+16086,PC,Player Character,<StartCheck>[Insight]</Start> Do you mean physically or spiritually?,"<StartCheck>[통찰]</Start> 육체적으로 말하는 건가, 영적으로 말하는 건가?",m1q1a00gen4,,nw_d2_wis_intn,,,0,0
+16087,PC,Player Character,I want to ask something else.,다른 걸 물어볼게.,m1q1a00gen4,,[지능 보통],,,0,0
+16088,PC,Player Character,Me ask different questions.,나 다른 질문 할래.,m1q1a00gen4,,[지능 낮음],,,0,0
+16089,PC,Player Character,What are the different areas of the city?,도시의 지구들은 어떻게 나뉘어 있어?,m1q1a00gen4,,[지능 보통],,,0,0
+16090,PC,Player Character,Beggar's Nest.,거지 소굴.,m1q1a00gen4,,,,,0,0
+16091,PC,Player Character,Docks district.,항만 지구.,m1q1a00gen4,,,,,0,0
+16092,PC,Player Character,Blacklake district.,검은호수 지구.,m1q1a00gen4,,,,,0,0
+16093,PC,Player Character,Peninsula.,반도 지구.,m1q1a00gen4,,,,,0,0
+16094,PC,Player Character,Where can I get equipment? ,장비는 어디서 구할 수 있어?,m1q1a00gen4,,[지능 보통],,,0,0
+16095,PC,Player Character,Where me get equipment?,나 장비 어디서 구해?,m1q1a00gen4,,[지능 낮음],,,0,0
+16096,PC,Player Character,City Core.,도시 중심부.,m1q1a00gen4,,,,,0,0
+16097,PC,Player Character,<StartCheck>[Persuade]</Start> What do you know about that?,<StartCheck>[설득]</Start> 그것에 대해 뭘 알고 있어?,m1q1a00gen4,,[지능 보통],,,0,0
+16098,PC,Player Character,You can tell me. We are <race> kin.,말해 줘. 우린 같은 <race>이잖아.,m1q1a00gen4,,nw_d2_racesmi_n,,,0,0
+16099,PC,Player Character,We both <race> kind. Why not tell me?,우리 둘 다 <race>야. 왜 말 안 해?,m1q1a00gen4,,nw_d2_racesmi_l,,,0,0
+16100,PC,Player Character,<StartCheck>[Persuade]</Start> You know anything abouts that?,<StartCheck>[설득]</Start> 그거에 대해 아는 거 있어?,m1q1a00gen4,,[지능 낮음],,,0,0
+16101,PC,Player Character,I need to ask about the other districts.,다른 지구들에 대해 물어봐야겠어.,m1q1a00gen4,,[지능 보통],,,0,0
+16102,PC,Player Character,Me ask about other city areas.,나 다른 도시 구역들 물어봐?,m1q1a00gen4,,[지능 낮음],,,0,0
+56815,PC,Player Character,Woulds you buy cure for bad plague if someone offer?,누가 안 좋은 역병 치료제 팔면 살 거야?,m1q1a00gen4,,[지능 낮음],,,0,0
+56816,PC,Player Character,Would you buy a cure if it was offered?,치료제가 나오면 살 거야?,m1q1a00gen4,,[지능 보통],,,0,0
+56817,PC,Player Character,Nevermind. Me just ask other questions.,아니야. 나 그냥 다른 것 물어볼게.,m1q1a00gen4,,[지능 낮음],,,0,0
+56818,PC,Player Character,Nevermind. I just have a few other questions.,"아니, 됐어. 다른 질문 몇 개만 할게.",m1q1a00gen4,,[지능 보통],,,0,0
+56819,PC,Player Character,"Me ask to see if you gots gold! Give it, now!",나 금 있는지 보려고 물어본 거야! 이제 내놔!,m1q1a00gen4,,[지능 낮음],,,0,0
+56820,PC,Player Character,"To find out if you have gold! Hand it over, now!",네가 돈 있는지 알아내려고! 이제 내놔!,m1q1a00gen4,,[지능 보통],,,0,0
+56821,PC,Player Character,Me just teasing yous. Me sorry. Really.,나 그냥 장난친 거야. 나 미안해. 진짜.,m1q1a00gen4,,[지능 낮음],,,0,0
+56822,PC,Player Character,"Ahh, I was just joking around. Sorry about that.","아, 그냥 농담한 거야. 미안해.",m1q1a00gen4,,[지능 보통],,,0,0
+56823,PC,Player Character,Me a guard and you is nobody! You give gold or you die like dog!,나 경비고 너는 아무것도 아냐! 너 금 주든지 개처럼 죽든지!,m1q1a00gen4,m1q1_evil_set,[지능 낮음],,,0,0
+56824,PC,Player Character,I'm a guard and you are nobody. Hand over your gold or die like a dog!,"난 경비고 넌 아무것도 아니야. 금 내놔, 안 그럼 개처럼 죽어!",m1q1a00gen4,m1q1_evil_set,[지능 보통],,,0,0
+56825,PC,Player Character,<StartCheck>[Lie]</Start> Me gots the cure! You give all yous gold and you get it!,<StartCheck>[거짓말]</Start> 나 치료제 있어! 너 금 다 주면 줄게!,m1q1a00gen4,,[지능 낮음],,,0,0
+56826,PC,Player Character,<StartCheck>[Lie]</Start> I have the cure! Give me all your gold and you can have it!,<StartCheck>[거짓말]</Start> 내게 치료제가 있어! 금 다 내놓으면 줄게!,m1q1a00gen4,,[지능 보통],,,0,0
+56827,PC,Player Character,"Me just ask to see if you gots gold! Give it, now!",나 그냥 너 금 있나 보려고 물어본 거야! 이제 내놔!,m1q1a00gen4,,[지능 낮음],,,0,0
+56828,PC,Player Character,Bah! I just asked to see if you had gold! Give it to me!,쳇! 그냥 돈 있나 확인한 거야! 이제 내놔!,m1q1a00gen4,,[지능 보통],,,0,0
+56829,PC,Player Character,"Me gots to make a living. Just business, okay?","나 돈 벌어야 해. 그냥 장사야, 알겠어?",m1q1a00gen4,,[지능 낮음],,,0,0
+56830,PC,Player Character,Don't take it too hard. It's just business.,너무 심각하게 받아들이지 마. 그냥 장사일 뿐이야.,m1q1a00gen4,,[지능 보통],,,0,0
+56831,PC,Player Character,Yous really stupid! HAW!,너 진짜 멍청해! 하하!,m1q1a00gen4,,[지능 낮음],,,0,0
+56832,PC,Player Character,HAHAHA! What an idiot!,하하하! 완전 바보네!,m1q1a00gen4,,[지능 보통],,,0,0

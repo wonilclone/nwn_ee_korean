@@ -1,0 +1,66 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17178,PC,Player Character,I will listen. What is it you wish to say?,들을게. 무슨 말을 하고 싶은 거지?,m1q1a06gill,,[매력 중간/지능 중간],,,0,0
+17179,PC,Player Character,What do you want?,뭘 원하지?,m1q1a06gill,,[매력 낮음/지능 중간],,,0,0
+17180,PC,Player Character,"Speak, but waste my time and you'll regret it.",말해 봐라. 하지만 시간을 낭비하면 후회하게 될 거다.,m1q1a06gill,,[지능 보통],,,0,0
+17181,PC,Player Character,What you meaning? You please e'splain.,무슨 말이야? 설명해 줘.,m1q1a06gill,,[지능 낮음],,,0,0
+17182,PC,Player Character,"What you blather about, idiot?","무슨 헛소리야, 바보야?",m1q1a06gill,,[지능 낮음],,,0,0
+17183,PC,Player Character,Farewell for now.,그럼 이만.,m1q1a06gill,,[지능 보통],,,0,0
+17184,PC,Player Character,Bye bye for nows.,잘 있어.,m1q1a06gill,,[지능 낮음],,,0,0
+17185,PC,Player Character,I do what needs to be done. What is your offer?,할 일은 한다. 제안이 뭔가?,m1q1a06gill,,[지능 보통],,,0,0
+17186,PC,Player Character,Me does whatever. What you want?,나 뭐든 해. 뭘 원해?,m1q1a06gill,,[지능 낮음],,,0,0
+17187,PC,Player Character,Me nots evil!,나 나쁜 사람 아냐!,m1q1a06gill,,[지능 낮음],,,0,0
+17188,PC,Player Character,I do not commit evil acts!,나는 악한 짓은 하지 않는다!,m1q1a06gill,,[지능 보통],,,0,0
+17189,PC,Player Character,<StartCheck>[Persuade]</Start> Me bad inside where good can't see!,"<StartCheck>[설득]</Start> 겉으로는 안 보일 뿐, 속은 사악하지!",m1q1a06gill,,[지능 낮음],,,0,0
+17190,PC,Player Character,"<StartCheck>[Persuade]</Start> My evil is carefully veiled, making me more dangerous!",<StartCheck>[설득]</Start> 내 악의는 교묘히 감춰져 있지. 그래서 더 위험해!,m1q1a06gill,,[지능 보통],,,0,0
+17191,PC,Player Character,You wish me to bring them to you instead of Oleff?,올레프 대신 당신에게 가져오라는 건가?,m1q1a06gill,,[매력 중간/지능 중간],,,0,0
+17192,PC,Player Character,You wants me to bring to you instead of Oleff?,올레프 말고 너한테 갖다 주라는 거야?,m1q1a06gill,,[매력 중간/지능 낮음],,,0,0
+17193,PC,Player Character,Even in times of plague you scheme. How petty.,역병 중에도 음모라니. 저열하군.,m1q1a06gill,,[지능 보통],,,0,0
+17194,PC,Player Character,Even with plague around you act mean. Stupid.,역병 도는데도 못되게 굴어. 바보 같아.,m1q1a06gill,,[지능 낮음],,,0,0
+17195,PC,Player Character,I will bring the artifacts to you instead of Oleff.,올레프 대신 당신에게 유물을 가져가겠다.,m1q1a06gill,,[지능 보통],,,0,0
+17196,PC,Player Character,Me bring stuff to yous instead of Oleff stuffed-shirt.,폼만 잡는 올레프 대신 너한테 가져갈게.,m1q1a06gill,,[지능 낮음],,,0,0
+17197,PC,Player Character,Why do you think I am working for Oleff?,왜 내가 올레프를 위해 일한다고 생각하지?,m1q1a06gill,,[지능 보통],,,0,0
+17198,PC,Player Character,Why you think me work for Oleff?,왜 내가 올레프 위해 일한다고 생각해?,m1q1a06gill,,[지능 낮음],,,0,0
+17199,PC,Player Character,No! Me demands more!,안 돼! 더 줘!,m1q1a06gill,,[지능 낮음],,,0,0
+17200,PC,Player Character,The letter is unimportant. I don't need it.,그 편지는 중요하지 않아. 필요 없다.,m1q1a06gill,,[지능 보통],,,0,0
+17201,PC,Player Character,Letter dumb. Me not need.,편지 바보 같아. 나 필요 없어.,m1q1a06gill,,[지능 낮음],,,0,0
+17202,PC,Player Character,Me not care about this.,이 일엔 관심 없어.,m1q1a06gill,,[지능 낮음],,,0,0
+17203,PC,Player Character,Go over what is needed again.,필요한 걸 다시 한 번 정리해 줘.,m1q1a06gill,,[지능 보통],,,0,0
+17204,PC,Player Character,"You repeat stuff about this job, okay?","이 일 다시 설명해 줘, 알았지?",m1q1a06gill,,[지능 낮음],,,0,0
+17205,PC,Player Character,Farewell for now.,그럼 이만.,m1q1a06gill,,[지능 보통],,,0,0
+17206,PC,Player Character,Bye bye for now.,잘 있어.,m1q1a06gill,,[지능 낮음],,,0,0
+17207,PC,Player Character,"Yeah yeah, I'll look into it sometime.","알겠어, 언젠가 살펴보지.",m1q1a06gill,,[지능 보통],,,0,0
+17208,PC,Player Character,Me get around to it maybe later.,나중에... 아마 해 볼게.,m1q1a06gill,,[지능 낮음],,,0,0
+17209,PC,Player Character,Go over the task with me. Perhaps I will help too.,의뢰 내용을 다시 설명해. 나도 도울지 모르니까.,m1q1a06gill,,[지능 보통],,,0,0
+17210,PC,Player Character,You tell me stuff too. Maybe me help.,너도 말해 봐. 나도 도울지 몰라.,m1q1a06gill,,[지능 낮음],,,0,0
+17211,PC,Player Character,This doesn't interest me. Farewell.,흥미 없군. 그럼 이만.,m1q1a06gill,,[지능 보통],,,0,0
+17212,PC,Player Character,Me not care much. Bye.,나 별로 신경 안 써. 잘 있어.,m1q1a06gill,,[지능 낮음],,,0,0
+17213,PC,Player Character,Me gots stuff from one of the tomb-things.,나 저 무덤들 중 하나에서 물건 가져왔어.,m1q1a06gill,m1q1_gille_sinc1,m1s1gillclg07,,,0,0
+17214,PC,Player Character,I have an artifact from one of the tombs.,무덤들 중 하나에서 유물을 가져왔다.,m1q1a06gill,m1q1_gille_sinc1,m1s1gillclg06,,,0,0
+17215,PC,Player Character,I have no interest in this.,난 관심 없다.,m1q1a06gill,,[지능 보통],,,0,0
+17216,PC,Player Character,<StartAction>Describe the recovery of the Ancient Chronicles of Never.</Start>,<StartAction>네버의 고대 연대기를 회수한 경위를 설명합니다.</Start>,m1q1a06gill,m1s1gillslg03,m1s1gillclg08,,,0,0
+17217,PC,Player Character,<StartAction>Describe the recovery of Halueth Never's rusted armor.</Start>,<StartAction>할루스 네버의 녹슨 갑옷을 회수한 경위를 설명합니다.</Start>,m1q1a06gill,m1s1gillslg04,m1s1gillclg10,,,0,0
+17218,PC,Player Character,Nevermind.,그만두지.,m1q1a06gill,,,,,0,0
+17219,PC,Player Character,<StartAction>Describe the recovery of the Ancient Holy Symbol of Tyr.</Start>,<StartAction>티르의 고대 성표를 회수한 경위를 설명합니다.</Start>,m1q1a06gill,m1s1gillslg05,m1s1gillclg09,,,0,0
+17220,PC,Player Character,<StartCheck>[Persuade]</Start> You must agree that I am worth more.,<StartCheck>[설득]</Start> 내 값어치가 더 하다는 데 동의하겠지.,m1q1a06gill,,[지능 보통],,,0,0
+17221,PC,Player Character,<StartCheck>[Persuade]</Start> You knows me worth more than that.,<StartCheck>[설득]</Start> 나 그보다 값어치 더 있는 거 알잖아.,m1q1a06gill,,[지능 낮음],,,0,0
+17222,PC,Player Character,I demand more! Appease me or die!,더 내놔! 내놓지 않으면 죽게 될 거다!,m1q1a06gill,,[지능 보통],,,0,0
+17223,PC,Player Character,Me get more or you die like dog!,"더 줘, 아니면 개처럼 죽어!",m1q1a06gill,,[지능 낮음],,,0,0
+17224,PC,Player Character,"Me come back if find more, okay.","더 찾으면 다시 올게, 알았지.",m1q1a06gill,,[지능 낮음],,,0,0
+17225,PC,Player Character,That is sufficient. Thank you.,그 정도면 충분하다. 고맙다.,m1q1a06gill,,[지능 보통],,,0,0
+17226,PC,Player Character,That really good. Thanks for the stuff.,진짜 좋네. 물건 고마워.,m1q1a06gill,,[지능 낮음],,,0,0
+17227,PC,Player Character,I shall return if I find more.,더 찾으면 다시 오겠다.,m1q1a06gill,,[지능 보통],,,0,0
+17228,PC,Player Character,That will not do! I demand more!,그걸로는 안 된다! 더 내놔!,m1q1a06gill,,[지능 보통],,,0,0
+17229,PC,Player Character,You were at the tomb and didn't help the dying?,"무덤에 있었으면서, 죽어 가는 사람을 돕지 않았다고?",m1q1a06gill,,[지능 보통],,,0,0
+17230,PC,Player Character,You was there and didn't help the dying guys?,거기 있었으면서 죽어 가는 사람들 안 도왔다고?,m1q1a06gill,,[지능 낮음],,,0,0
+17231,PC,Player Character,That's despicable! Give me Jacob's quill NOW!,비열하군! 제이콥의 깃펜을 당장 내놔!,m1q1a06gill,,[지능 보통],,,0,0
+17232,PC,Player Character,You evil dumb-head! Give me Jacob's write-y thing NOW!,악독한 놈! 제이콥의 쓰는 거 당장 내놔!,m1q1a06gill,,[지능 낮음],,,0,0
+17233,PC,Player Character,"Give me the Quill now, you evil bastard!","깃펜을 지금 당장 내놔, 이 악당아!",m1q1a06gill,,[지능 보통],,,0,0
+17234,PC,Player Character,"You gives me Quill right now, jerk!","지금 당장 깃펜 내놔, 이 자식아!",m1q1a06gill,,[지능 낮음],,,0,0
+17235,PC,Player Character,What are the tenets of your faith in Talona?,탈로나 신앙의 교리는 무엇이지?,m1q1a06gill,,[지능 보통],,,0,0
+17236,PC,Player Character,What Talona? What she stand for?,탈로나? 그 여신은 뭘 상징해?,m1q1a06gill,,[지능 낮음],,,0,0
+64194,PC,Player Character,How you knows about artifact stuff to start?,너 처음에 유물 같은 거 어떻게 알았어?,m1q1a06gill,,[지능 낮음],,,0,0
+64195,PC,Player Character,How did you know of the artifacts to begin with?,애초에 유물에 대해 어떻게 알았지?,m1q1a06gill,,[지능 보통],,,0,0
+64196,PC,Player Character,You was there and didn't help the dying guys?,너 거기 있었는데 죽어가는 사람들 안 도와줬어?,m1q1a06gill,,[지능 낮음],,,0,0
+64197,PC,Player Character,You were there and didn't help the dying?,거기 있었으면서 죽어가는 사람들을 안 도와준 거야?,m1q1a06gill,,[지능 보통],,,0,0
+64198,PC,Player Character,You evil dumb-head! Give me Jacob's write-y thing NOW!,너 나쁜 멍청이! 제이콥의 깃펜 당장 내놔!,m1q1a06gill,,[지능 낮음],,,0,0
+64199,PC,Player Character,That's despicable! Give me Jacob's quill NOW!,정말 비열하군! 제이콥의 깃펜 당장 내놔!,m1q1a06gill,,[지능 보통],,,0,0

@@ -1,0 +1,38 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+110366,PC,Player Character,"""I want to ask you some questions.""","""몇 가지 물어보고 싶은데.""",q4b_dahanna,,,,,0,0
+110367,PC,Player Character,"""Tell me more about the island.""","""이 섬에 대해 더 말해줘.""",q4b_dahanna,,,,,0,0
+110368,PC,Player Character,"""Tell me about the golems.""","""골렘에 대해 말해줘.""",q4b_dahanna,,,,,0,0
+110369,PC,Player Character,"""I would've thought you'd cleared all the golems out by now.""","""이제 골렘은 다 처치했을 줄 알았는데.""",q4b_dahanna,,,,,0,0
+110370,PC,Player Character,"""Tell me about the Maker.""","""제작자에 대해 말해줘.""",q4b_dahanna,,,,,0,0
+110371,PC,Player Character,"""What happened to him?""","""그에게 무슨 일이 있었지?""",q4b_dahanna,,,,,0,0
+110372,PC,Player Character,"""Friend or foe? Uh... I guess I'll pick foe!""","""친구냐 적이냐? 어... 적으로 하지!""",q4b_dahanna,,,,,0,0
+110373,PC,Player Character,"""It's no joke. I just want to slaughter you all. I'm funny that way.""","""농담 아니야. 너희를 다 죽이고 싶을 뿐이야. 나 좀 그래.""",q4b_dahanna,nw_d1_small_evil,,,,0,0
+110374,PC,Player Character,"""Calm down. I'm not looking for a fight, either.""","""진정해. 나도 싸우려는 건 아니야.""",q4b_dahanna,,,,,0,0
+110375,PC,Player Character,"""My name and business are my own.""","""내 이름과 볼일은 내 알 바야.""",q4b_dahanna,,,,,0,0
+110376,PC,Player Character,"""My name is <FullName>. I don't mean any harm.""","""내 이름은 <FullName>. 해칠 생각 없어.""",q4b_dahanna,,,,,0,0
+110377,PC,Player Character,"""I'll be going now.""","""이만 가볼게.""",q4b_dahanna,,,,,0,0
+110378,PC,Player Character,"""Time for this to get bloody. Die, you Underdark excuse for a dwarf!""","""피 볼 시간이야. 죽어라, 언더다크 출신 드워프 나부랭이!""",q4b_dahanna,nw_d1_small_evil,,,,0,0
+110379,PC,Player Character,"""I'm looking for allies to help me against the Valsharess.""","""발샤레스에 맞설 동맹을 찾고 있어.""",q4b_dahanna,,,,,0,0
+110380,PC,Player Character,"<StartCheck>Persuade: Intimidate</Start> ""You're either with me or against me. Think about it.""","<StartCheck>설득: 위협</Start> ""내 편이 아니면 적이야. 잘 생각해.""",q4b_dahanna,,,,,0,0
+110381,PC,Player Character,"""I gave you a chance. Now you'll pay the price!"" <StartAction>Attack.</Start>","""기회를 줬는데. 이제 대가를 치러!"" <StartAction>공격한다.</Start>",q4b_dahanna,nw_d1_small_evil,,,,0,0
+110382,PC,Player Character,"""Fine. I want to ask you something else then.""","""좋아. 그럼 다른 걸 물어볼게.""",q4b_dahanna,,,,,0,0
+110383,PC,Player Character,"<StartCheck>Persuade</Start> ""Eventually the Valsharess will turn her army against the duergar, too.""","<StartCheck>설득</Start> ""결국 발샤레스는 듀에르가에게도 군대를 돌릴 거야.""",q4b_dahanna,,,,,0,0
+110384,PC,Player Character,"""What are you doing here?""","""여기서 뭐 하는 거야?""",q4b_dahanna,,,,,0,0
+110385,PC,Player Character,"""I have some other questions.""","""다른 질문이 있어.""",q4b_dahanna,,,,,0,0
+110386,PC,Player Character,"""Relax. We'll just be going now.""","""긴장 풀어. 그냥 갈게.""",q4b_dahanna,,,,,0,0
+110387,PC,Player Character,"""Settle down. We just want to ask you some questions.""","""진정해. 그냥 몇 가지 물어보려는 거야.""",q4b_dahanna,,,,,0,0
+110388,PC,Player Character,"""Nobody threatens me! Death to the duergar!"" <StartAction>Attack.</Start>","""아무도 날 위협하지 못해! 듀에르가에게 죽음을!"" <StartAction>공격한다.</Start>",q4b_dahanna,q4b_dahannaend01,,,,0,0
+110389,PC,Player Character,"""Is this some kind of shake down?""","""이거 협박이야?""",q4b_dahanna,,,,,0,0
+110390,PC,Player Character,"""Your island? What are you talking about?""","""너희 섬이라고? 무슨 소리야?""",q4b_dahanna,,,,,0,0
+110391,PC,Player Character,"""I think I see where this is going...""","""어떻게 될지 알겠네...""",q4b_dahanna,,,,,0,0
+110392,PC,Player Character,"""Maybe we could work out a deal.""","""거래를 할 수도 있을 텐데.""",q4b_dahanna,,,,,0,0
+110393,PC,Player Character,"<StartAction>Persuade:Bluff</Start> ""I didn't find anything worthwhile. You've picked this place clean.""","<StartAction>설득:허세</Start> ""쓸만한 거 못 찾았어. 여긴 다 털렸더라.""",q4b_dahanna,,,,,0,0
+110394,PC,Player Character,"<StartAction>Persuade: Intimidate</Start> ""Careful now. This may be more than you can handle.""","<StartAction>설득: 위협</Start> ""조심해. 감당 못 할 수도 있어.""",q4b_dahanna,,,,,0,0
+110395,PC,Player Character,"<StartAction>Persuade</Start> ""You have no right to my stuff. I did all the work!""","<StartAction>설득</Start> ""내 물건에 권리가 없어. 일은 다 내가 했잖아!""",q4b_dahanna,,,,,0,0
+110396,PC,Player Character,"""Apology *not* accepted! You'll pay for this with blood!""","""사과는 *안* 받아! 피로 갚게 해주지!""",q4b_dahanna,q4b_dahannaend01,,,,0,0
+110397,PC,Player Character,"""Sounds like times are tough. Here's a thousand gold to help you out.""","""힘든 시절인가 보네. 여기 금화 천 개, 도움이 되길.""",q4b_dahanna,q4b1000goldx,q4b1000gold,,,0,0
+110398,PC,Player Character,"""That's okay. There's no hard feelings.""","""괜찮아. 감정 상한 거 없어.""",q4b_dahanna,,,,,0,0
+110399,PC,Player Character,"""Maybe it's time you moved on to somewhere else.""","""이제 다른 곳으로 옮겨야 할 때가 아닐까.""",q4b_dahanna,,,,,0,0
+110400,PC,Player Character,"<StartAction>Persuade</Start> ""I'll give you a thousand gold... no more.""","<StartAction>설득</Start> ""금화 천 개 줄게... 더는 안 돼.""",q4b_dahanna,,q4b1000gold,,,0,0
+110401,PC,Player Character,No deal.,"거래 안 해.",q4b_dahanna,,,,,0,0
+110402,PC,Player Character,"Here's the 10,000 gold.","여기 금화 만 개.",q4b_dahanna,q4b10000goldx,q4b10000gold,,,0,0

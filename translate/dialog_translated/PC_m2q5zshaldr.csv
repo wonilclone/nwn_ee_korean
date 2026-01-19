@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+38999,PC,Player Character,"Shaldrissa, right? I'm <FirstName> and your father sent me to rescue you.","샬드리사, 맞지? 난 <FirstName>이고, 네 아버지가 날 보내서 널 구하러 왔어.",m2q5zshaldr,,[지능 보통],,,0,0
+39000,PC,Player Character,"I'll rescue you now, but don't get in my way.","이제 구해 줄게, 하지만 내 방해하지 마.",m2q5zshaldr,,[지능 보통],,,0,0
+39002,PC,Player Character,Wait right here.,여기서 기다려.,m2q5zshaldr,,[지능 보통],,,0,0
+39003,PC,Player Character,"Shaldrissa? Me now you rescue, yuh.","샬드리사? 나 지금 너 구하러 왔어, 응.",m2q5zshaldr,,[지능 낮음],,,0,0
+39004,PC,Player Character,"Me rescue you, girly.","나 너 구해 줄게, 아가씨.",m2q5zshaldr,,[지능 낮음],,,0,0
+39006,PC,Player Character,You stay here now.,너 여기 있어.,m2q5zshaldr,,[지능 낮음],,,0,0
+39007,PC,Player Character,<StartCheck>[Persuade]</Start> Settle down and tell me what's going on here.,<StartCheck>[설득]</Start> 진정하고 무슨 일인지 말해 봐.,m2q5zshaldr,,[지능 보통],,,0,0
+39008,PC,Player Character,Save the story for your father. You must go now.,네 아버지한테 얘기는 나중에 해. 지금 가야 해.,m2q5zshaldr,,[지능 보통],,,0,0
+39009,PC,Player Character,<StartCheck>[Persuade]</Start> No understand. What happen?,<StartCheck>[설득]</Start> 나 이해 못 해. 무슨 일 있었어?,m2q5zshaldr,,[지능 낮음],,,0,0
+39010,PC,Player Character,Dumb dumb! We go right now!,멍청이! 우리 지금 가!,m2q5zshaldr,,[지능 낮음],,,0,0
+39013,PC,Player Character,You had better tell me what you were talking about or I'll make you sorry that your father ever hired me.,무슨 얘기 하는 건지 말 안 하면 네 아버지가 날 고용한 걸 후회하게 만들어 줄게.,m2q5zshaldr,,[지능 보통],,,0,0
+39014,PC,Player Character,No. Me want know what happen. Talk or get hurt.,"안 돼. 나 무슨 일 있었는지 알고 싶어. 말해, 아니면 다쳐.",m2q5zshaldr,,[지능 낮음],,,0,0
+39015,PC,Player Character,It's all over now. You should be safe to go home.,이제 다 끝났어. 안전하게 집에 갈 수 있을 거야.,m2q5zshaldr,,[지능 보통],,,0,0
+39016,PC,Player Character,You safe now. You go back to you dad.,너 이제 안전해. 너 아빠한테 돌아가.,m2q5zshaldr,,[지능 낮음],,,0,0
+39017,PC,Player Character [M2Q1S],Yesgar told me that you were the one who planned this and wanted the money.,예스가르가 말하길 네가 이 일을 계획하고 돈을 원했다고 하던데.,m2q5zshaldr,,m2q1shald001,[M2Q1S],,0,0
+39018,PC,Player Character [M2Q1S],Bad guy say you take money. You trick father.,나쁜 놈이 너 돈 가져갔다고 했어. 너 아버지 속였어.,m2q5zshaldr,,m2q1shald002,[M2Q1S],,0,0
+39019,PC,Player Character,"Hmm. Well, you seem sincere, but it's your father's problem now. You can go home to him.",흠. 진심인 것 같네. 하지만 이제 네 아버지 문제야. 아버지한테 돌아가.,m2q5zshaldr,,[지능 보통],,,0,0
+39020,PC,Player Character,"Yuh, probably. You go to dad now.","응, 아마. 너 이제 아빠한테 가.",m2q5zshaldr,,[지능 낮음],,,0,0
+65146,PC,Player Character,"You go home, but be safe. Much danger there be if you not go right home and see you father.","너 집에 가, 하지만 조심해. 바로 집으로 가서 아버지 안 보면 위험해.",m2q5zshaldr,,[지능 낮음],,,0,0
+65147,PC,Player Character,"You can go home now, but be careful and go straight to your father.","이제 집에 갈 수 있어, 하지만 조심하고 아버지한테 바로 가.",m2q5zshaldr,,[지능 보통],,,0,0
+65148,PC,Player Character,"You be safe now, so you tell me you story. Please?","너 이제 안전해, 그러니까 너 무슨 일 있었는지 말해 줘. 응?",m2q5zshaldr,,[지능 낮음],,,0,0
+65149,PC,Player Character,"You're safe now, but I need you to tell me what happened. Please?","이제 안전해, 하지만 무슨 일이 있었는지 말해 줘야겠어. 제발?",m2q5zshaldr,,[지능 보통],,,0,0
+65150,PC,Player Character,You gots 'nuff excitement now?,너 충분히 신나게 놀았어?,m2q5zshaldr,,[지능 낮음],,,0,0
+65151,PC,Player Character,Do you think you've had enough mystery in your life now?,이제 인생에서 충분히 신비로운 경험 한 것 같아?,m2q5zshaldr,,[지능 보통],,,0,0
+65152,PC,Player Character,You fall for that tale? That story be as old as me grandma's grandma.,너 그 얘기 믿었어? 그 이야기 우리 할머니 할머니만큼 오래됐어.,m2q5zshaldr,,[지능 낮음],,,0,0
+65153,PC,Player Character,You fell for that old story?,그 오래된 얘기를 믿은 거야?,m2q5zshaldr,,[지능 보통],,,0,0

@@ -1,0 +1,41 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+81788,Dialog,RAT,The rat wishes it could find some more shiny rocks for its home.,쥐는 집에 둘 반짝이는 돌을 더 찾고 싶어합니다.,Q3B_RAT,,,,,0,0
+81789,Dialog,RAT,The rat winks an impish eye at you then flees to safety.,쥐가 장난스럽게 눈을 깜빡이더니 안전한 곳으로 도망칩니다.,Q3B_RAT,,,,,0,0
+81790,Dialog,RAT,"The rat sniffs, then drops the diamond into your hand. It takes the quartz and flees to the safety of its hole.","쥐가 킁킁거리더니 다이아몬드를 당신 손에 떨어뜨립니다. 석영을 집어들고 자기 굴로 재빨리 도망칩니다.",Q3B_RAT,q3b_at_rat2,,,,0,0
+81791,Dialog,RAT,The rat trembles with defiance. It seems to be very desperate to hang on to the shiny rock.,쥐가 반항하며 떱니다. 반짝이는 돌을 붙잡으려고 필사적인 것 같습니다.,Q3B_RAT,,,,,0,0
+81792,Dialog,RAT,<StartCheck>[Failure]</Start> The rat ignores your bullying and sniffs itself defiantly.,<StartCheck>[실패]</Start> 쥐가 당신의 협박을 무시하고 도도하게 자기 몸을 킁킁거립니다.,Q3B_RAT,,,,,0,0
+81793,Dialog,RAT,"<StartCheck>[Success]</Start> The rat heaves a mighty sigh, then drops the diamond. It quickly flees to safety.","<StartCheck>[성공]</Start> 쥐가 크게 한숨을 쉬더니 다이아몬드를 떨어뜨립니다. 재빨리 안전한 곳으로 도망칩니다.",Q3B_RAT,q3b_at_rat1,,,,0,0
+81794,Dialog,RAT,<StartCheck>[Failure]</Start> The rat ignores your request and scratches itself defiantly.,<StartCheck>[실패]</Start> 쥐가 당신의 요청을 무시하고 도도하게 자기 몸을 긁습니다.,Q3B_RAT,,,,,0,0
+81795,Dialog,RAT,"<StartCheck>[Success]</Start> The rat heaves a mighty sigh, then drops the diamond. It quickly flees to safety.","<StartCheck>[성공]</Start> 쥐가 크게 한숨을 쉬더니 다이아몬드를 떨어뜨립니다. 재빨리 안전한 곳으로 도망칩니다.",Q3B_RAT,q3b_at_rat1,,,,0,0
+81796,Dialog,RAT,"<StartAction>[A rat jumps out of the rubble, grabs the diamond in its mouth and runs away.]</Start>","<StartAction>[쥐 한 마리가 잔해에서 튀어나와 입으로 다이아몬드를 물고 도망친다.]</Start>",Q3B_RAT,act_q3brat_1,,,,0,0
+93984,Dialog,RAT,"The rat's nose twitches and his eyes blink as he looks at you, then he moves on, casually sniffing the floor.","쥐가 당신을 바라보며 코를 씰룩이고 눈을 깜빡이더니, 느긋하게 바닥 냄새를 맡으며 이동합니다.",Q2B02RAT,,,,,0,0
+93985,Dialog,RAT,The rat stares up at you with eyes that seem as old as Undermountain itself. Images flash through your mind in rapid succession.,쥐가 언더마운틴만큼이나 오래된 것 같은 눈으로 당신을 올려다봅니다. 영상들이 빠르게 연이어 당신 머릿속에 스쳐지나갑니다.,Q2B02RAT,,,,,0,0
+93986,Dialog,RAT,"You see bones and rotting flesh, glittering objects that fascinate the rat, and more than any other image or emotion, you sense the constant struggle to survive.","뼈와 썩은 살점, 쥐를 매료시키는 반짝이는 물건들이 보이고, 다른 어떤 영상이나 감정보다도 생존을 위한 끊임없는 투쟁이 느껴집니다.",Q2B02RAT,,,,,0,0
+93987,Dialog,RAT,The rat scurries off.,쥐가 종종걸음으로 가버립니다.,Q2B02RAT,,,,,0,0
+93988,Dialog,RAT,A warm feeling of gratitude emanates from the rat.,쥐에게서 따뜻한 감사의 감정이 느껴집니다.,Q2B02RAT,,,,,0,0
+93989,Dialog,RAT,"You get the distinct impression that the rats wants you to follow close behind him, so he can show you something.",쥐가 뭔가를 보여주려고 자기를 바짝 따라오라는 뚜렷한 느낌을 받습니다.,Q2B02RAT,,,,,0,0
+93990,Dialog,RAT,It squeaks in fear and starts to run away.,쥐가 무서워서 끽끽거리며 도망치기 시작합니다.,Q2B02RAT,nw_d2_leaverun,,,,0,0
+93991,Dialog,RAT,The rat nods and moves away.,쥐가 고개를 끄덕이고 떠나갑니다.,Q2B02RAT,,,,,0,0
+93992,Dialog,RAT,"You get the impression that the rat has what it considers to be its own treasure, but where that might be, it isn't telling right now.","쥐가 자기만의 보물이라고 여기는 것이 있다는 느낌을 받지만, 그게 어디 있는지는 지금 알려주지 않습니다.",Q2B02RAT,,,,,0,0
+93993,Dialog,RAT,You see images of a large group of creatures moving through the dungeon and killing many of its inhabitants.,던전을 통과하며 많은 거주자들을 죽이는 거대한 무리의 영상이 보입니다.,Q2B02RAT,,,,,0,0
+93994,Dialog,RAT,The rat is obviously terrified of the army that attacked Waterdeep. It seems to think of the army as coming from east of here.,쥐는 워터딥을 공격한 군대를 분명히 두려워합니다. 군대가 여기 동쪽에서 왔다고 생각하는 것 같습니다.,Q2B02RAT,,,,,0,0
+94688,Dialog,RAT,"""Squeek... squeek.""","""끽... 끽.""",Q2RAT,,,,,0,0
+94689,Dialog,RAT,The rat wonders if you might not have a spare bit of cheese on your person. Or a spare bit of drow flesh. Mmm... drow flesh.,쥐가 혹시 치즈 조각을 가지고 있지 않나 궁금해합니다. 아니면 드로우 살점이라도. 음... 드로우 살점.,Q2RAT,,,,,0,0
+94690,Dialog,RAT,The rats thinks that you smell well fed and wonders if maybe it should become an adventurer too.,쥐가 당신에게서 잘 먹은 냄새가 난다고 생각하며 자기도 모험가가 되어야 하나 궁금해합니다.,Q2RAT,,,,,0,0
+94691,Dialog,RAT,"The rat tells you that it had a pretty gem this morning, but it got eaten by a chicken. The chicken was then eaten by a cat, which was then torn apart by a pack of dogs.","쥐가 오늘 아침에 예쁜 보석이 있었는데 닭한테 먹혔다고 합니다. 그 닭은 고양이가 먹었고, 그 고양이는 개 무리에게 찢겨졌답니다.",Q2RAT,,,,,0,0
+94692,Dialog,RAT,"The dogs then attacked a group of duergar, who killed most of the dogs. The duergar found the gem, but were then killed by a bunch of guards.","그 개들은 듀에르가 무리를 공격했고, 듀에르가가 대부분의 개를 죽였답니다. 듀에르가가 보석을 찾았지만, 경비병 무리에게 살해당했답니다.",Q2RAT,,,,,0,0
+94693,Dialog,RAT,The rat then starts to tell you how the guards were eaten by dragons when you realize the rat is making this all up as he goes along.,쥐가 경비병들이 용에게 먹혔다고 말하기 시작할 때쯤 이 쥐가 즉석에서 지어내고 있다는 걸 깨닫습니다.,Q2RAT,,,,,0,0
+94694,Dialog,RAT,The rat thinks that drow corpses are the sweetest tasting meat on the streets these days.,쥐가 요즘 거리에서 드로우 시체가 가장 맛있는 고기라고 생각합니다.,Q2RAT,,,,,0,0
+94695,Dialog,RAT,"The rat wishes it could live in a flying city like its great, great, great grandfather did. Actually there are quite a few more greats in his explanation, but you get the picture.","쥐가 증조할아버지의 증조할아버지처럼 하늘을 나는 도시에 살고 싶어합니다. 사실 설명에 '증조'가 훨씬 더 많이 들어가지만, 대충 감이 올 겁니다.",Q2RAT,,,,,0,0
+94696,Dialog,RAT,The rat sniffs you and decides that you are not a corpse... yet.,쥐가 당신 냄새를 맡고 아직은 시체가 아니라고 판단합니다... 아직은.,Q2RAT,,,,,0,0
+105296,Dialog,RAT,The rat's eyes look beady in the dark.,어둠 속에서 쥐의 눈이 구슬처럼 반짝입니다.,Q3_RAT,,,,,0,0
+105297,Dialog,RAT,"The rats cluster around you excitedly, trying to tell you about some coffins they found nearby.","쥐들이 신나서 당신 주위에 모여들며, 근처에서 발견한 관에 대해 알려주려 합니다.",Q3_RAT,,,,,0,0
+105878,Dialog,RAT,This rat is busy gnawing at some long dead remains.,이 쥐는 오래전에 죽은 잔해를 갉아먹느라 바쁩니다.,Q4B_RAT,,,,,0,0
+105879,Dialog,RAT,"The rat ignores you, intent on devouring its fill of the meal in front of it.","쥐가 당신을 무시하고 눈앞의 먹이를 배불리 먹는 데만 집중합니다.",Q4B_RAT,,,,,0,0
+105880,Dialog,RAT,"You get an image of the rat's lair, a secret hiding place among the garbage of the west wall. You sense other images as well; other secrets hidden away near the garbage.","쥐의 보금자리 영상이 보입니다. 서쪽 벽 쓰레기 사이의 비밀 은신처입니다. 다른 영상도 느껴집니다. 쓰레기 근처에 숨겨진 다른 비밀들도요.",Q4B_RAT,,,,,0,0
+105881,Dialog,RAT,The rat ignores your request. It is too focused on devouring the meal in front of it.,쥐가 당신의 요청을 무시합니다. 눈앞의 먹이를 먹는 데 너무 집중하고 있습니다.,Q4B_RAT,,,,,0,0
+106226,Dialog,RAT,This rat is one of many scavengers in the dungeon.,이 쥐는 던전에 있는 많은 청소부 중 하나입니다.,Q4C_RAT,,,,,0,0
+106227,Dialog,RAT,You sense images of a warm lair and a safe hiding place located beyond a door that is always closed.,따뜻한 보금자리와 항상 닫혀 있는 문 너머에 있는 안전한 은신처의 영상이 느껴집니다.,Q4C_RAT,,,,,0,0
+106228,Dialog,RAT,A picture of the room beyond the door begins to form as you probe the rodent's mind for details of its lair. A lever placed on the floor is of particular interest.,설치류의 마음을 탐색해 보금자리의 세부 사항을 알아내자 문 너머 방의 모습이 형성되기 시작합니다. 바닥에 놓인 레버가 특히 눈에 띕니다.,Q4C_RAT,,,,,0,0
+106229,Dialog,RAT,"You send an image of the rat returning to the safety of its lair and pushing against the lever. The rodent's mind seizes on this image, and it scurries off to do your bidding.","쥐에게 보금자리의 안전한 곳으로 돌아가 레버를 미는 영상을 보냅니다. 설치류의 마음이 이 영상을 붙잡고, 종종걸음으로 당신의 명령을 수행하러 갑니다.",Q4C_RAT,,,,,0,0
+106230,Dialog,RAT,"Now that the door is open, the rat's thoughts are of little use to you.","문이 열렸으니, 쥐의 생각은 더 이상 쓸모가 없습니다.",Q4C_RAT,,,,,0,0

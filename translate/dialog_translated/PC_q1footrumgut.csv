@@ -1,0 +1,38 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70508,PC,Player Character,I will leave now.,이제 갈게.,q1footrumgut,,,,,0,0
+70509,PC,Player Character,You have a wife?,아내가 있어?,q1footrumgut,,,,,0,0
+70510,PC,Player Character,<StartCheck>[Persuade]</Start> You have a really beautiful voice. I was drawn here by it.,<StartCheck>[설득]</Start> 목소리가 정말 아름다워. 그 소리에 이끌려 왔어.,q1footrumgut,,,,,0,0
+70511,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶어.,q1footrumgut,,,,,0,0
+70512,PC,Player Character,That's all my questions.,질문은 다 했어.,q1footrumgut,,,,,0,0
+70513,PC,Player Character,Have you had troubles with kobolds?,코볼트들한테 문제 있었어?,q1footrumgut,,,,,0,0
+70514,PC,Player Character,Why do you want a wife?,왜 아내를 원해?,q1footrumgut,,con_q1rrumgut_1,,,0,0
+70515,PC,Player Character,Why don't you find someone more your size?,왜 비슷한 크기인 사람을 안 찾아?,q1footrumgut,,,,,0,0
+70516,PC,Player Character,Why are you called Rumgut?,왜 이름이 럼거트야?,q1footrumgut,,,,,0,0
+70517,PC,Player Character,"I like to drink too. Why, I bet I can drink more than you!",나도 술 좋아해. 내가 너보다 더 많이 마실 수 있을 거야!,q1footrumgut,,con_rumgut_1,,,0,0
+70518,PC,Player Character,I changed my mind. I do not think I can out drink you.,마음 바꿨어. 너보다 많이 못 마실 것 같아.,q1footrumgut,,,,,0,0
+70519,PC,Player Character,"<StartAction>[Pretend to drink, but spill most on ground.]</Start>",<StartAction>[마시는 척하지만 대부분 바닥에 흘린다.]</Start>,q1footrumgut,act_rumgut_1,,,,0,0
+70520,PC,Player Character,"Time to die, Rumgut!","죽을 시간이야, 럼거트!",q1footrumgut,,,,,0,0
+70521,PC,Player Character,I guess you can lock me up.,날 가둬도 돼.,q1footrumgut,,,,,0,0
+70522,PC,Player Character,<StartAction>[Drink the flask of rum.]</Start>,<StartAction>[럼 플라스크를 마신다.]</Start>,q1footrumgut,act_rumgut_1,,,,0,0
+70523,PC,Player Character,"<StartAction>[Pretend to drink, but spill most on ground.]</Start>",<StartAction>[마시는 척하지만 대부분 바닥에 흘린다.]</Start>,q1footrumgut,,,,,0,0
+70524,PC,Player Character,<StartAction>[Drink the flask of rum.]</Start>,<StartAction>[럼 플라스크를 마신다.]</Start>,q1footrumgut,,,,,0,0
+70525,PC,Player Character,"<StartAction>[Pretend to drink, but spill most on ground.]</Start>",<StartAction>[마시는 척하지만 대부분 바닥에 흘린다.]</Start>,q1footrumgut,,,,,0,0
+70526,PC,Player Character,<StartAction>[Drink the flask of rum.]</Start>,<StartAction>[럼 플라스크를 마신다.]</Start>,q1footrumgut,,,,,0,0
+70527,PC,Player Character,Could I speak to your wife?,아내랑 얘기할 수 있을까?,q1footrumgut,,,,,0,0
+70528,PC,Player Character,I am here to save Becka.,베카를 구하러 왔어.,q1footrumgut,,con_q1rnathan_2,,,0,0
+70529,PC,Player Character,"Let her go, or I will have to kill you.","풀어줘, 아니면 죽여야겠어.",q1footrumgut,,,,,0,0
+70530,PC,Player Character,Sounds like you will be a great couple.,정말 좋은 커플이 될 것 같네.,q1footrumgut,,,,,0,0
+70531,PC,Player Character,"Listen stupid. She is a dwarf, which means she will never get bigger. ","들어봐 멍청아. 베카는 드워프야, 절대 더 안 커.",q1footrumgut,,,,,0,0
+70532,PC,Player Character,But she is a dwarf. ,근데 드워프잖아.,q1footrumgut,,,,,0,0
+70533,PC,Player Character,"You are a giant, idiot! ","넌 거인이야, 멍청아!",q1footrumgut,,,,,0,0
+70534,PC,Player Character,"You are an idiot, giant!",넌 멍청한 거인이야!,q1footrumgut,,,,,0,0
+70535,PC,Player Character,"No, that is as big as she gets.","아니, 저게 최대야.",q1footrumgut,,,,,0,0
+70536,PC,Player Character,"But you are a giant, she's not!","근데 넌 거인이고, 베카는 아니잖아!",q1footrumgut,,,,,0,0
+70537,PC,Player Character,"For someone so big, you sure have a small brain.",몸은 크면서 머리는 정말 작구나.,q1footrumgut,,,,,0,0
+70538,PC,Player Character,It would look better if I sliced it open. ,내가 갈라 놓으면 더 멋있어 보일 거야.,q1footrumgut,,,,,0,0
+70539,PC,Player Character,"No, it makes you look as stupid as you really are. ","아니, 실제로 얼마나 멍청한지 보여주는 것 같은데.",q1footrumgut,,,,,0,0
+70540,PC,Player Character,Uh... sure. ,어... 그래.,q1footrumgut,,,,,0,0
+70541,PC,Player Character,It is very impressive.,정말 인상적이야.,q1footrumgut,,,,,0,0
+70542,PC,Player Character,I am fully grown.,난 다 컸어.,q1footrumgut,,,,,0,0
+70543,PC,Player Character,<StartCheck>[Persuade]</Start> You have to trust me. She will never be a proper wife.,<StartCheck>[설득]</Start> 날 믿어야 해. 제대로 된 아내가 절대 못 돼.,q1footrumgut,,,,,0,0
+70544,PC,Player Character,"Oh, forget it!","아, 됐어!",q1footrumgut,,,,,0,0

@@ -1,0 +1,48 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+69785,Dialog,BTORIAS,"Greetings, m'lady! Might I say that it's a fine thing to be greeted by such a fair face as yours on such a cold day.","안녕하십니까, 아가씨! 이렇게 추운 날에 당신처럼 고운 얼굴을 뵙다니, 참으로 운이 좋군요.",Q1BTORIAS,q1i_torias01,,,,0,0
+69786,Dialog,BTORIAS,"Why hello there! Such a pretty face, even on a big folk such as yourself, is a treat to warm the heart on a cold, cold day.","오, 안녕하세요! 당신처럼 큰 분에게서도 이렇게 고운 얼굴을 본다니, 살을 에는 날에도 마음이 훈훈해지네요.",Q1BTORIAS,q1i_torias01,,,,0,0
+69787,Dialog,BTORIAS,"Ah, but it's the tall ones that make the finest catch! You'd be surprised the things a halfling can make up for when he's caught a foot or two short, m'lady.","아, 하지만 키 큰 분들이야말로 최고의 상대지요! 하플링이 한두 뼘 모자라도 어떻게든 만회하는지 보시면 놀라실 겁니다, 아가씨.",Q1BTORIAS,,,,,0,0
+69788,Dialog,BTORIAS,"Mmm. On such a chilly day, it's a pleasant treat to meet such a pretty halfling lass as yourself.","흠. 이런 쌀쌀한 날에 당신 같은 예쁜 하플링 아가씨를 만나다니, 기분 좋은 일이네요.",Q1BTORIAS,q1i_torias01,,,,0,0
+69789,Dialog,BTORIAS,"Now, now, no need to get violent. Unless, um... well, no, never mind that. Can't blame a lad for trying, can you? Heh heh.","자, 자, 흥분할 필요 없죠. 아니, 음... 글쎄, 됐습니다. 시도해 보는 것까진 나무랄 수 없잖아요? 헤헷.",Q1BTORIAS,,,,,0,0
+69790,Dialog,BTORIAS,"Ah, well, you can't blame a man for trying, can you? A woman like yourself no doubt has the lads throwing themselves at your feet... I can only do the same.","아, 뭐, 시도해 본 걸 탓할 순 없잖아요? 당신 같은 여자라면 젊은 녀석들이 발밑에 엎드릴 테지요... 저도 그저 그중 하나일 뿐.",Q1BTORIAS,,,,,0,0
+69791,Dialog,BTORIAS,"Ha! A compliment, is it? Well, that certainly beats the odd slap I've gotten as of late. Perhaps my luck is turning about.",하! 칭찬인가요? 최근에 얻어맞은 따귀보단 훨씬 낫군요. 운이 트이려나 봅니다.,Q1BTORIAS,,,,,0,0
+69792,Dialog,BTORIAS,"Oh-ho! We've only just met and here you've gone and figured me out already. It seems I'm as uncomplicated as halflings come, eh?","오호! 이제 막 만났는데 벌써 절 간파하셨네요. 제가 그만큼 단순한 하플링인가 봅니다, 그죠?",Q1BTORIAS,,,,,0,0
+69793,Dialog,BTORIAS,My name is Torias. A pleasure to meet you. Might I have the honor of knowing your name?,제 이름은 토리아스입니다. 만나서 반갑습니다. 성함을 알 수 있는 영광을 주시겠습니까?,Q1BTORIAS,,,,,0,0
+69794,Dialog,BTORIAS,"Hard to get, is it? Have it your way, m'lady. I'll but gladly play along.","쉽게 안 넘어가시겠다? 좋습니다, 아가씨. 기꺼이 맞춰 드리죠.",Q1BTORIAS,,,,,0,0
+69795,Dialog,BTORIAS,"Ahhh, yes, the dwarven wizard. I remember him from our last visit. Fine fellow. Good to know he keeps such excellent company.","아아, 그 드워프 마법사 말이군요. 지난번 방문 때 봤던 기억이 납니다. 훌륭한 친구죠. 그런 분과 함께 다니신다니 더 좋네요.",Q1BTORIAS,,,,,0,0
+69796,Dialog,BTORIAS,"<FirstName>, is it? A beautiful name for a beautiful lady.","<FirstName>, 맞습니까? 고운 아가씨께 어울리는 아름다운 이름이네요.",Q1BTORIAS,,,,,0,0
+69797,Dialog,BTORIAS,"Why, hullo there. I don't suppose you've a rum-tipped cigar on you, by chance?","오, 안녕하세요. 혹시 럼을 적신 시가를 가지고 계시진 않겠죠?",Q1BTORIAS,q1i_torias01,,,,0,0
+69798,Dialog,BTORIAS,"Ah, well. I grew attached to them in Amn, you see, and have only recently run out. Too bad. Grey days ahead, I suppose.","아, 뭐, 앰에서 맛을 들였는데, 최근에 다 떨어졌거든요. 아쉽게도 앞으로는 좀 우울하겠네요.",Q1BTORIAS,,,,,0,0
+69799,Dialog,BTORIAS,"A rum-tipped cigar. It's... well, never mind. Simply something I grew attached to in Amn, and I've recently run out. Ah, well.","럼을 적신 시가 시가요. 그건... 음, 됐습니다. 앰에서 맛을 들인 건데, 최근에 다 떨어졌거든요. 에휴.",Q1BTORIAS,,,,,0,0
+69800,Dialog,BTORIAS,"Pardon my manners, sir. I am called Torias. And you are...?","실례했습니다, 선생님. 저는 토리아스라 합니다. 당신은...?",Q1BTORIAS,,,,,0,0
+69802,Dialog,BTORIAS,"Oh, I see. A <man/woman> of mystery, eh? Fair enough.","오, 그렇군요. 수수께끼 같은 분이시네? 좋아요.",Q1BTORIAS,,,,,0,0
+69803,Dialog,BTORIAS,"Then I am very pleased to meet you, <FirstName>.","그렇다면 만나서 매우 반갑습니다, <FirstName>.",Q1BTORIAS,,,,,0,0
+69804,Dialog,BTORIAS,Is there something that Torias might do for you today?,오늘 토리아스가 도와드릴 일이 있을까요?,Q1BTORIAS,,,,,0,0
+69806,Dialog,BTORIAS,"Well... I would gladly answer questions, dear <man/woman>, but I'm sure that Katriana would have my hide. I have to be on watch for more kobolds, you see.","음... 기꺼이 답해 드리고 싶지만, 그러다간 카트리아나가 저를 가만두지 않을 거예요. 코볼트가 더 올지 경계해야 하거든요.",Q1BTORIAS,,,,,0,0
+69807,Dialog,BTORIAS,"There were some other kobolds that came running past well after everything seemed settled. Scared us but good, but they ran on south through the gate.","모든 게 가라앉은 뒤에도 다른 코볼트 몇이 뛰어 지나갔어요. 우리를 제대로 놀라게 했지만, 남쪽 문을 통해 남쪽으로 달려가 버렸습니다.",Q1BTORIAS,,,,,0,0
+69808,Dialog,BTORIAS,"I've no idea where they came from or what they were up to. Large group, actually.","어디서 왔는지, 무슨 꿍꿍이였는지 전혀 모르겠어요. 사실 꽤 큰 무리였죠.",Q1BTORIAS,,,,,0,0
+69809,Dialog,BTORIAS,"Yes, indeed. The little fellows crept up on us and took us all rather by surprise. Made off with a good amount of our supplies, too.",맞아요. 그 꼬마 녀석들이 슬금슬금 다가와 우릴 제대로 기습했죠. 보급품도 한 움큼이나 훔쳐 달아났고요.,Q1BTORIAS,,,,,0,0
+69810,Dialog,BTORIAS,"Unlike the other kobolds which fled Hilltop by the gate, these ones ran north of here to an old farm. I followed them but I didn't dare go inside as I was alone.","문을 통해 힐탑에서 달아난 다른 코볼트들과 달리, 이 녀석들은 여기 북쪽의 오래된 농장으로 달려갔어요. 뒤를 밟긴 했지만 혼자라서 안으로 들어갈 엄두는 못 냈죠.",Q1BTORIAS,,,,,0,0
+69811,Dialog,BTORIAS,"Some of them jumped into the river to the east, but others might still be in there. They may even still have some of our equipment, I don't know.","몇 놈은 동쪽 강으로 뛰어들었지만, 다른 놈들은 아직 그 안에 있을지도 몰라요. 우리 장비를 아직 갖고 있을 수도 있고요, 잘은 모르겠지만.",Q1BTORIAS,q1b_torias_tells,,,,0,0
+69812,Dialog,BTORIAS,"Alas, I cannot. I have to stay with my fellows until they're better. No running off to adventure for me.",유감이지만 못 합니다. 동료들이 나아질 때까지 곁을 지켜야 하거든요. 전 모험하러 뛰쳐나갈 처지가 아니에요.,Q1BTORIAS,,,,,0,0
+69813,Dialog,BTORIAS,"If you're thinking of going up there, I might suggest you speak to Katriana first. She might have a boon to ask of you. Beyond that... good luck.",거기 올라갈 생각이라면 먼저 카트리아나와 얘기해 보라고 권하고 싶네요. 당신에게 부탁할 일이 있을지 몰라요. 그밖에는... 행운을 빕니다.,Q1BTORIAS,,,,,0,0
+69814,Dialog,BTORIAS,"Hmm. Well, Katriana would tell you that no, it doesn't... at least not at the moment. We came to Hilltop to stock up, and the kobolds made off with a lot.","흠. 글쎄요, 카트리아나는 지금 당장은 아니라고 할 겁니다... 적어도 당장만은요. 우린 보급을 채우러 힐탑에 왔는데, 코볼트들이 많은 걸 훔쳐 갔으니까요.",Q1BTORIAS,,,,,0,0
+69815,Dialog,BTORIAS,"At least... they made off with our public goods. We have some... private goods, if you know what I mean. Black market stuff.","적어도... 공용 물자는 털렸죠. 우리에겐... 사적인 물건도 있거든요, 무슨 뜻인지 아시겠죠. 암시장 물건들이요.",Q1BTORIAS,,,,,0,0
+69816,Dialog,BTORIAS,"Not necessarily, no. Just goods that might appeal to those of a, ah, more subtle nature: the workings to build traps, tools... those sorts of things.","꼭 그런 건 아니에요. 음... 좀 더 은밀한 성향의 분들이 좋아할 만한 물건들-함정을 만드는 부품, 공구... 그런 종류죠.",Q1BTORIAS,q1i_torias04,,,,0,0
+69817,Dialog,BTORIAS,"Mmm... oh, of course, of course. What else can Torias do for you, my dear <man/woman>?","으음... 아, 물론, 물론이죠. 토리아스가 또 무엇을 해드릴까요?",Q1BTORIAS,,,,,0,0
+69818,Dialog,BTORIAS,Certainly. Give me but a moment to find what I have...,물론이죠. 가지고 있는 걸 좀 찾아볼 시간을 주세요...,Q1BTORIAS,,,,,0,0
+69819,Dialog,BTORIAS,"Not necessarily, no. Just goods that a, ah, experienced rogue might appreciate. Like yourself, for instance... I can spot the type anywhere.","꼭 그런 건 아니에요. 음, 노련한 도적이라면 좋아할 만한 물건들이죠. 이를테면 당신 같은 분이요... 나는 그런 기질은 어디서든 알아보거든요.",Q1BTORIAS,q1i_torias04,,,,0,0
+69820,Dialog,BTORIAS,Greetings once again! Is there something Torias can do for you?,다시 인사드립니다! 토리아스가 도와드릴 일이 있을까요?,Q1BTORIAS,,,,,0,0
+69821,Dialog,BTORIAS,"Good gracious me! Those are Daschnaya's cards! My, my, but will she ever be delighted that you've found them.","세상에! 그건 다슈냐의 카드잖아요! 아이고, 당신이 찾아줬다는 걸 알면 얼마나 기뻐하겠어요.",Q1BTORIAS,,,,,0,0
+69822,Dialog,BTORIAS,"Please... go and show these to Katriana. She'll let you in to see Daschnaya, I'm sure. We've all been worried sick about the poor woman ever since these cards were stolen!","부탁이에요... 이걸 카트리아나에게 가져가 보여 주세요. 그럼 다슈냐를 만나게 들여보내 줄 겁니다, 틀림없어요. 카드가 도난당한 뒤로 그 불쌍한 여자를 두고 우리 모두 속이 타들어갔거든요!",Q1BTORIAS,,,,,0,0
+69823,Dialog,BTORIAS,"Greetings, my good <man/woman>!","반갑습니다, 좋은 분!",Q1BTORIAS,,,,,0,0
+69824,Dialog,BTORIAS,Katriana tells me that you were able to retrieve Daschnaya's cards. For that I am most grateful.,카트리아나한테서 들었어요. 당신이 다슈냐의 카드를 되찾았다고. 진심으로 감사드립니다.,Q1BTORIAS,,,,,0,0
+69825,Dialog,BTORIAS,"I hear that you're going to be coming with us to the desert, eh? Well, welcome aboard!","당신이 우리와 함께 사막으로 간다던데요, 그렇죠? 음, 환영합니다!",Q1BTORIAS,,,,,0,0
+78651,Dialog,BTORIAS,"Fraternizing, eh? Is the big lug jealous?","정분이 났다, 이건가요? 그 우락부락한 녀석이 질투하던가요?",Q1BTORIAS,,,,,0,0
+78653,Dialog,BTORIAS,"Yep. Jealous, just like I thought. Sad, sad thing.",그렇지. 내 생각대로 질투하네. 딱하고도 딱하군.,Q1BTORIAS,,,,,0,0
+78655,Dialog,BTORIAS,"Hah! Maybe just a little bit, my good lady dwarf! Perhaps you'd care to join me, yourself, in the enjoyment of some fine wine, hmm?","하! 아마 조금은요, 우리 사랑스런 드워프 아가씨! 당신도 나랑 좋은 와인 한잔 즐겨 보실래요, 음?",Q1BTORIAS,,,,,0,0
+78657,Dialog,BTORIAS,Oh? It'd be a pleasant enough way to go.,오? 그거야 꽤 즐거운 마무리겠네요.,Q1BTORIAS,,,,,0,0
+78659,Dialog,BTORIAS,"Oh. Well, then, have fun!","오. 그럼, 즐거운 시간 보내요!",Q1BTORIAS,,,,,0,0
+78660,Dialog,BTORIAS,Have fun!,즐거운 시간 보내요!,Q1BTORIAS,,,,,0,0
+78662,Dialog,BTORIAS,"Insignificant, eh? You just call Torias that because you can't attract a woman to save your life, I suppose?","하찮다, 이거군요? 여자를 꼬실 재간이 없으니 토리아스를 그렇게 부르는 거겠죠?",Q1BTORIAS,,,,,0,0
+78664,Dialog,BTORIAS,"Yep. Just like I thought. Sad thing, that.",그렇지. 내 예상대로야. 참 딱하군.,Q1BTORIAS,,,,,0,0

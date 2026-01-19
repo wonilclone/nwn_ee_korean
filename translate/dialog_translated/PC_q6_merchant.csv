@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+106761,PC,Player Character,"""Let me see what you have for sale.""","""뭘 파는지 보고 싶어.""",q6_merchant,,,,,0,0
+106762,PC,Player Character,"""You aren't much of a businessman, are you?""","""장사 솜씨는 별로네.""",q6_merchant,,,,,0,0
+106763,PC,Player Character,"""You're glad you're poor?""","""가난한 게 기쁘다고?""",q6_merchant,,,,,0,0
+106764,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q6_merchant,,,,,0,0
+106765,PC,Player Character,"""That kind of talk might drive away customers.""","""그런 말은 손님들을 쫓아낼 수도 있어.""",q6_merchant,,,,,0,0
+106766,PC,Player Character,"""I want to make a deal for your mirror shard.""","""네 거울 조각과 거래하고 싶어.""",q6_merchant,,q6_merchshard10,,,0,0
+106767,PC,Player Character,"""Never mind.""","""됐어.""",q6_merchant,,,,,0,0
+106768,PC,Player Character,"<StartAction>Bluff</Start> ""I've got a cursed gold piece I can give you.""","<StartAction>[허세]</Start> ""저주받은 금화가 있어.""",q6_merchant,,q6_has1gold,,,0,0
+106769,PC,Player Character,"<StartAction>Bluff</Start> ""It brings poverty to anyone who freely and knowingly accepts it.""","<StartAction>[허세]</Start> ""자발적이고 의식적으로 받아들인 사람에게 가난을 가져다준대.""",q6_merchant,,,,,0,0
+106770,PC,Player Character,"<StartAction>Intimidate</Start> ""Give me that shard, or your life will be worth less than a piece of broken glass!""","<StartAction>[위협]</Start> ""그 조각 안 주면, 네 목숨은 깨진 유리 조각보다 못한 값어치가 될 거야!""",q6_merchant,,,,,0,0
+106771,PC,Player Character,"<StartAction>Persuade</Start> ""But the shard isn't worthless. It's part of a magic mirror.""","<StartAction>[설득]</Start> ""하지만 그 조각은 쓸모없는 게 아니야. 마법 거울의 일부거든.""",q6_merchant,,q6_mirror99,,,0,0
+106772,PC,Player Character,"""I don't have that much.""","""그만큼은 없어.""",q6_merchant,,,,,0,0
+106773,PC,Player Character,"""Yeah, I think I can afford 1 gold piece.""","""응, 금화 1개 정도는 낼 수 있어.""",q6_merchant,q6_take1gold,q6_has1gold,,,0,0
+106774,PC,Player Character,"""You want something worth *less* than the shard?""","""조각보다 *가치가 낮은* 걸 원하는 거야?""",q6_merchant,,,,,0,0
+106775,PC,Player Character,"""What's worth less than a piece of broken glass?""","""깨진 유리 조각보다 가치가 낮은 게 뭔데?""",q6_merchant,,,,,0,0
+106776,PC,Player Character,"""I've got a burned book here. Will that do?""","""여기 불탄 책이 있어. 괜찮아?""",q6_merchant,,q6_burnedbook,,,0,0
+106777,PC,Player Character,"""Here's a copy of Deekin's book. It's not worth much.""","""여기 디킨 책 사본이 있어. 별로 가치 없어.""",q6_merchant,,q6_deekinbook,,,0,0
+106778,PC,Player Character,"""Quiet, Deekin. The big people are talking now.""","""조용히 해, 디킨. 어른들이 얘기하고 있어.""",q6_merchant,,,,,0,0
+106779,PC,Player Character,"""Sorry, Deekin. But we need that shard.""","""미안, 디킨. 하지만 그 조각이 필요해.""",q6_merchant,,,,,0,0
+106780,PC,Player Character,"""I don't have time for this.""","""이럴 시간 없어.""",q6_merchant,,,,,0,0
+106781,PC,Player Character,"""Inventory? Are you some kind of merchant?""","""재고? 무슨 상인이야?""",q6_merchant,,q6_talklevel0,,,0,0
+106782,PC,Player Character,"""Who are you?""","""넌 누구야?""",q6_merchant,,q6_talklevel0,,,0,0
+106783,PC,Player Character,"""Goodbye.""","""안녕.""",q6_merchant,,,,,0,0
+106784,PC,Player Character,"""I don't like your attitude. Time to die!"" <StartAction>Attack the merchant.</Start>","""네 태도 마음에 안 들어. 죽을 시간이야!"" <StartAction>[상인을 공격한다.]</Start>",q6_merchant,q6_at_merchant2,,,,0,0
+106785,PC,Player Character,"""I just want to ask you some questions.""","""질문 좀 하고 싶어.""",q6_merchant,,,,,0,0
+106786,PC,Player Character,"""That kind of talk might drive away customers.""","""그런 말은 손님들을 쫓아낼 수도 있어.""",q6_merchant,,,,,0,0

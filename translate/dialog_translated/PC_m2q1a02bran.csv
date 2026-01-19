@@ -1,0 +1,33 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30253,PC,Player Character,Can I ask who you are?,누구신지 물어봐도 될까요?,m2q1a02bran,,[지능 보통],,,0,0
+30254,PC,Player Character,"Have you dug your grave, lycanthrope? It's time to die.","무덤을 팠어, 늑대인간? 이제 죽을 시간이야.",m2q1a02bran,,[지능 보통],,,0,0
+30255,PC,Player Character [M2Q1S],Neurik gave me these silver charms. I think they can help you.,뉴릭이 이 은 부적들을 줬어요. 당신을 도울 수 있을 것 같아요.,m2q1a02bran,,m2q1scurth3n,[M2Q1S],,0,0
+30256,PC,Player Character,Who you be? Me wants to know.,너 누구야? 나 알고 싶어.,m2q1a02bran,,[지능 낮음],,,0,0
+30257,PC,Player Character,"Me kill you, wolfy... ","나 너 죽일 거야, 늑대 녀석...",m2q1a02bran,,[지능 낮음],,,0,0
+30258,PC,Player Character [M2Q1S],"Wait, me help! Me have silver charms from healer-man.","기다려, 나 도와줄게! 나 치료사한테서 은 부적 받았어.",m2q1a02bran,,m2q1scurth3l,[M2Q1S],,0,0
+30259,PC,Player Character,"<StartCheck>[Persuade]</Start> Don't be shy, handsome - it won't hurt you.","<StartCheck>[설득]</Start> 부끄러워하지 마, 잘생긴 친구 - 다치게 하지 않을게.",m2q1a02bran,,nw_d2_flirti_n,,,0,0
+30260,PC,Player Character,"<StartCheck>[Persuade]</Start> Nonsense. Neurik made it and, if you can't trust him, you can't trust anyone.","<StartCheck>[설득]</Start> 말도 안 돼요. 뉴릭이 만든 거예요. 그 사람을 믿을 수 없다면, 아무도 믿을 수 없어요.",m2q1a02bran,,[지능 보통],,,0,0
+30261,PC,Player Character,"Look, kid. Take it or I *will* kill you. It's that simple.","이봐, 꼬마야. 마시든지 아니면 *진짜로* 죽일 거야. 그렇게 간단해.",m2q1a02bran,,[지능 보통],,,0,0
+30262,PC,Player Character,"All right, kid, dig your grave.","알았어, 꼬마야. 무덤을 파.",m2q1a02bran,,[지능 보통],,,0,0
+30263,PC,Player Character,"<StartCheck>[Persuade]</Start> Grrrr... You so handsome when you angry, wolfy.","<StartCheck>[설득]</Start> 으르렁... 너 화나면 정말 잘생겼어, 늑대 녀석.",m2q1a02bran,,nw_d2_flirti_l,,,0,0
+30264,PC,Player Character,<StartCheck>[Persuade]</Start> Neurik good man. He no hurt you.,<StartCheck>[설득]</Start> 뉴릭 좋은 사람이야. 그 사람 너 해치지 않아.,m2q1a02bran,,[지능 낮음],,,0,0
+30265,PC,Player Character,"You no take potion thingy, me kill you, yuh? So take it.","너 물약 안 마시면 나 너 죽여, 응? 그러니까 마셔.",m2q1a02bran,,[지능 낮음],,,0,0
+30266,PC,Player Character,"Grrr... That's it, me hurt you now... ","으르렁... 그래, 나 이제 너 다치게 할 거야...",m2q1a02bran,,[지능 낮음],,,0,0
+30267,PC,Player Character,Why you no have ring?,너 왜 반지 없어?,m2q1a02bran,,[지능 낮음],,,0,0
+30268,PC,Player Character,Why don't you have your ring?,왜 반지가 없어요?,m2q1a02bran,,[지능 보통],,,0,0
+30269,PC,Player Character,Tell me how you became a werewolf.,어떻게 늑대인간이 됐는지 말해 봐요.,m2q1a02bran,,[지능 보통],,,0,0
+30270,PC,Player Character [M2Q1A03],"<StartCheck>[Insight]</Start> I've been sent to end the werewolf menace. If you give me your ring, I'll leave and no one will come searching for you in the future.","<StartCheck>[통찰]</Start> 나는 늑대인간 위협을 끝내라고 보내졌어요. 반지를 주면, 떠날게요. 그리고 아무도 미래에 당신을 찾으러 오지 않을 거예요.",m2q1a02bran,,m2q1a03alhlr_p7a,[M2Q1A03],,0,0
+30271,PC,Player Character,"Look, sit tight, okay? I'll see if I can find help for you.","이봐요, 여기서 기다려요, 알았죠? 도움을 찾을 수 있는지 볼게요.",m2q1a02bran,,[지능 보통],,,0,0
+30272,PC,Player Character,"You stay here, yuh? Me come back later. Helps you?","너 여기 있어, 응? 나 나중에 돌아올게. 도와줄게?",m2q1a02bran,,[지능 낮음],,,0,0
+30273,PC,Player Character,"Uh, wha' happen to you?","어, 너한테 무슨 일 있었어?",m2q1a02bran,,[지능 낮음],,,0,0
+30274,PC,Player Character,I won't kill you. I promise.,죽이지 않을게요. 약속해요.,m2q1a02bran,,[지능 보통],,,0,0
+30275,PC,Player Character,Do you know where I can find Urth?,어스를 어디서 찾을 수 있는지 알아요?,m2q1a02bran,,[지능 보통],,,0,0
+30276,PC,Player Character,What came of Ander? Where is he now?,앤더는 어떻게 됐어요? 지금 어디 있어요?,m2q1a02bran,,[지능 보통],,,0,0
+30277,PC,Player Character,Would you know where would I find Geth?,게스를 어디서 찾을 수 있을까요?,m2q1a02bran,,[지능 보통],,,0,0
+30278,PC,Player Character,Where is Karathis now?,카라디스는 지금 어디 있어요?,m2q1a02bran,,[지능 보통],,,0,0
+30279,PC,Player Character,Where me is finding Urth now?,나 어스 어디서 찾아?,m2q1a02bran,,[지능 낮음],,,0,0
+30280,PC,Player Character,Where Ander went? You says he make away.,앤더 어디 갔어? 너 그 사람 도망갔다고 말했잖아.,m2q1a02bran,,[지능 낮음],,,0,0
+30281,PC,Player Character,Where Geth be now? You know?,게스 지금 어디야? 너 알아?,m2q1a02bran,,[지능 낮음],,,0,0
+30282,PC,Player Character,Where Karathis be now?,카라디스 지금 어디야?,m2q1a02bran,,[지능 낮음],,,0,0
+30283,PC,Player Character,Let's talk about something else.,다른 얘기 하죠.,m2q1a02bran,,[지능 보통],,,0,0
+30284,PC,Player Character,We talk 'bout another thing.,우리 다른 거 얘기해.,m2q1a02bran,,[지능 낮음],,,0,0

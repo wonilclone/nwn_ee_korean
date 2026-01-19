@@ -1,0 +1,49 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+56894,PC,Player Character,Slow down. I'll hear what you have to say.,천천히 하세요. 무슨 말씀인지 들어 보겠습니다.,m1q1a01push,m1_initstop,[지능 보통],,,0,0
+56895,PC,Player Character,"Okay, just slow down and me listen.","좋아, 천천히 해. 나 들을게.",m1q1a01push,m1_initstop,[지능 낮음],,,0,0
+56896,PC,Player Character,I may have heard of this. Give some background on the Peninsula district.,들어본 것 같네요. 반도 지구에 대해 배경 설명을 좀 해 주세요.,m1q1a01push,,[지능 보통],,,0,0
+56897,PC,Player Character,How did these prisoners get loose?,죄수들은 어떻게 탈출한 거죠?,m1q1a01push,,[지능 보통],,,0,0
+56898,PC,Player Character,Isn't anyone in the district able to fight back?,그 지구에서 맞서 싸울 수 있는 사람은 아무도 없나요?,m1q1a01push,,[지능 보통],,,0,0
+56899,PC,Player Character,"Hmm, maybe me hears about this. Tell some background on Peninsula.","흠, 나 이거 들어본 것 같아. 반도 얘기 좀 해줘.",m1q1a01push,,[지능 낮음],,,0,0
+56900,PC,Player Character,How prisoners get loose?,죄수들 어떻게 탈출했어?,m1q1a01push,,[지능 낮음],,,0,0
+56901,PC,Player Character,There nobody that can fight back in there?,거기 싸울 수 있는 사람 아무도 없어?,m1q1a01push,,[지능 낮음],,,0,0
+56902,PC,Player Character,"Easy, then. Tell me when you are ready.",진정하시고 준비되면 말씀하세요.,m1q1a01push,,[지능 보통],,,0,0
+56903,PC,Player Character,You relax and stuff. You can say when you ready.,너 진정해. 준비되면 말해.,m1q1a01push,,[지능 낮음],,,0,0
+56904,PC,Player Character,"Rounding up escapees, eh? Let's talk price.",탈주자들을 잡는다고요? 가격 얘기부터 합시다.,m1q1a01push,,[지능 보통],,,0,0
+56905,PC,Player Character,"Chasing escaper guys, hmm? What you pay?",탈주한 놈들 쫓는다고? 얼마 줄 건데?,m1q1a01push,,[지능 낮음],,,0,0
+56906,PC,Player Character,I have no news of that. Goodbye.,그건 못 들었어요. 안녕히 계세요.,m1q1a01push,,[지능 보통],,,0,0
+56907,PC,Player Character,Me got nothing to says. Bye.,나 그거 몰라. 안녕.,m1q1a01push,,[지능 낮음],,,0,0
+56908,PC,Player Character,"Get lost, woman. I'm not your servant.","꺼져요, 아줌마. 난 당신 하인이 아니에요.",m1q1a01push,,[지능 보통],,,0,0
+56909,PC,Player Character,You get bent. Me not slaves for yous.,너 저리 가. 나 너 노예 아니야.,m1q1a01push,,[지능 낮음],,,0,0
+56910,PC,Player Character,"What is it, woman? Why are you bothering me?","뭔가요, 아줌마? 왜 나를 귀찮게 하는 거죠?",m1q1a01push,m1_initstop,[지능 보통],,,0,0
+56911,PC,Player Character,Why you gots to bug me? What you want?!,왜 나한테 성가시게 구는 거야? 뭘 원해?!,m1q1a01push,m1_initstop,[지능 낮음],,,0,0
+56912,PC,Player Character,Hurry up and say. I'm a busy <man/woman>.,빨리 말하세요. 난 바쁜 사람이에요.,m1q1a01push,,[지능 보통],,,0,0
+56913,PC,Player Character,Me busy with stuff. You tell quick or shut up and go.,나 바빠. 빨리 말하든가 닥치고 꺼져.,m1q1a01push,,[지능 낮음],,,0,0
+56914,PC,Player Character,"I'm sorry, but I don't have time right now.","죄송하지만, 지금은 시간이 없어요.",m1q1a01push,,[지능 보통],,,0,0
+56915,PC,Player Character,"Me really sorry, but me not got time. Sorry.",나 정말 미안해. 근데 나 시간 없어. 미안해.,m1q1a01push,,[지능 낮음],,,0,0
+56916,PC,Player Character,This does not concern me. Get lost.,이건 나랑 상관없어요. 꺼지세요.,m1q1a01push,,[지능 보통],,,0,0
+56917,PC,Player Character,Me not care. You get lost.,나 상관없어. 너 꺼져.,m1q1a01push,,[지능 낮음],,,0,0
+56918,PC,Player Character,"You go back to information stuff you say before, okay?",너 아까 말한 정보로 돌아가. 알았지?,m1q1a01push,,[지능 낮음],,,0,0
+56919,PC,Player Character,I'll have to ask you to go back over some information.,아까 말씀하신 정보로 다시 돌아가 주세요.,m1q1a01push,,[지능 보통],,,0,0
+56920,PC,Player Character,Peninsula okay now. It all going to be normal.,반도 이제 괜찮아. 다 정상으로 돌아갈 거야.,m1q1a01push,,m1q1_penicheckl,,,0,0
+56921,PC,Player Character,The Peninsula is returning to normal now. Everything is fine.,반도가 정상으로 돌아가고 있어요. 다 괜찮습니다.,m1q1a01push,,m1q1_penicheckh,,,0,0
+56922,PC,Player Character,<FirstName>. Thank you for asking.,<FirstName>이에요. 물어봐 줘서 고마워요.,m1q1a01push,nw_d1_small_good,[지능 보통],,,0,0
+56923,PC,Player Character,Me <FirstName>. It nice that you care.,나 <FirstName>이야. 물어봐 줘서 고마워.,m1q1a01push,nw_d1_small_good,[지능 낮음],,,0,0
+56924,PC,Player Character,<FullName>. Remember it!,<FullName>이에요. 기억하세요!,m1q1a01push,,[지능 보통],,,0,0
+56925,PC,Player Character,<FullName>. You better not forgets it!,<FullName>이야. 까먹지 마!,m1q1a01push,,[지능 낮음],,,0,0
+56926,PC,Player Character,"If it's all the same, I'll keep it to myself.","괜찮으시다면, 말하지 않겠어요.",m1q1a01push,nw_d1_small_good,[지능 보통],,,0,0
+56927,PC,Player Character,"If it okay, me want to not say. Okay?","괜찮으면, 나 말 안 하고 싶어. 괜찮지?",m1q1a01push,nw_d1_small_good,[지능 낮음],,,0,0
+56928,PC,Player Character,None of your damn business.,당신이랑 상관없잖아요.,m1q1a01push,,[지능 보통],,,0,0
+56929,PC,Player Character,It not your business. Me not tell you!,그거 너 상관없어. 나 안 말해줘!,m1q1a01push,,[지능 낮음],,,0,0
+56930,PC,Player Character,I'll see what I can do. You stay here where it's safe.,뭘 할 수 있는지 알아볼게요. 여기 안전한 곳에 계세요.,m1q1a01push,,[지능 보통],,,0,0
+56931,PC,Player Character,Me try to make Peninsula safe. You stay safe here.,나 반도 안전하게 만들어 볼게. 너는 여기 안전하게 있어.,m1q1a01push,,[지능 낮음],,,0,0
+56932,PC,Player Character,"Of course, how callous of me to ask. I'm sorry.","물론이죠, 무신경하게 물어봐서 죄송해요. 미안합니다.",m1q1a01push,,[지능 보통],,,0,0
+56933,PC,Player Character,"Oh yeah, me should have guessed. Me sorry.","아 맞다, 나 짐작했어야 했는데. 미안해.",m1q1a01push,,[지능 낮음],,,0,0
+56934,PC,Player Character,"Oh, that just won't do. I guess I won't help, then.","아, 그건 안 되겠네요. 그럼 안 돕겠어요.",m1q1a01push,,[지능 보통],,,0,0
+56935,PC,Player Character,Tsk. That too bad. Me not help then.,쯧. 그건 너무 안됐네. 나 안 도와줘.,m1q1a01push,,[지능 낮음],,,0,0
+56936,PC,Player Character,"Wrong answer, wench! You'll pay me and you'll do it now!","잘못 생각했네, 이년아! 돈 내놔, 지금 당장!",m1q1a01push,m1q1_evil_set,[지능 보통],,,0,0
+56937,PC,Player Character,"You change what you say now! Give me gold and fast, dammit!","너 말 바꿔! 금화 내놔, 빨리!",m1q1a01push,m1q1_evil_set,[지능 낮음],,,0,0
+56938,PC,Player Character,I am sorry to hear that. Perhaps I can help with Peninsula.,안됐네요. 제가 반도를 좀 도와드릴 수 있을 것 같아요.,m1q1a01push,,[지능 보통],,,0,0
+56939,PC,Player Character,Me sorry. Maybe me help Peninsula for you?,미안해. 내가 반도 도와줄 수 있을 것 같아.,m1q1a01push,,[지능 낮음],,,0,0
+56940,PC,Player Character,You'll give me gold or I'll beat you silly!,돈 주든지 두들겨 패든지 할 거예요!,m1q1a01push,m1q1_evil_set,[지능 보통],,,0,0
+56941,PC,Player Character,You pay me or me smack you down!,너 돈 내든지 내가 때리든지!,m1q1a01push,m1q1_evil_set,[지능 낮음],,,0,0

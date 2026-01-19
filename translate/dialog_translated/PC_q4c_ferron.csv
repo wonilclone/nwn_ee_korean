@@ -1,0 +1,42 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+106094,PC,Player Character,"""Time to turn you into scrap metal!""","""고철로 만들어줄 시간이야!""",q4c_ferron,,,,,0,0
+106095,PC,Player Character,"""You're pretty well spoken, for a golem.""","""골렘 치고는 말을 꽤 잘하네.""",q4c_ferron,,,,,0,0
+106096,PC,Player Character,"""Enough talking. Time to die, golem!""","""말은 그만. 죽을 시간이야, 골렘!""",q4c_ferron,,,,,0,0
+106097,PC,Player Character,"""Help you? You golems have been attacking me everywhere I go!""","""도와달라고? 너희 골렘들은 내가 가는 곳마다 공격해왔잖아!""",q4c_ferron,,,,,0,0
+106098,PC,Player Character,"""I should be going now.""","""이만 가봐야겠어.""",q4c_ferron,,,,,0,0
+106099,PC,Player Character,"""Why are you at war?""","""왜 전쟁 중이야?""",q4c_ferron,,,,,0,0
+106100,PC,Player Character,"""Who's Aghaaz?""","""아가즈가 누구야?""",q4c_ferron,,,,,0,0
+106101,PC,Player Character,"""Sorry, I'm not interested in this.""","""미안하지만, 관심 없어.""",q4c_ferron,,,,,0,0
+106102,PC,Player Character,"""I'd rather just kill you.""","""그냥 널 죽이는 게 낫겠어.""",q4c_ferron,,,,,0,0
+106103,PC,Player Character,"""Fine, I'll listen. But make it quick.""","""좋아, 들어줄게. 하지만 빨리 해.""",q4c_ferron,,,,,0,0
+106104,PC,Player Character,"""What do you want me to do?""","""내가 뭘 하길 원해?""",q4c_ferron,,,,,0,0
+106105,PC,Player Character,"""The Power Source?""","""동력원?""",q4c_ferron,,,,,0,0
+106106,PC,Player Character,"""I want no part of this.""","""난 여기 끼어들고 싶지 않아.""",q4c_ferron,,,,,0,0
+106107,PC,Player Character,"""Forget it! I'm not your errand <boy/girl>.""","""됐어! 난 네 심부름꾼이 아니야.""",q4c_ferron,,,,,0,0
+106108,PC,Player Character,"""If I get you the Power Source, you have to help me."" <StartAction>Tell Ferron about the Valsharess.</Start>","""동력원을 가져다주면, 날 도와줘야 해."" <StartAction>페론에게 발샤레스에 대해 말합니다.</Start>",q4c_ferron,,,,,0,0
+106109,PC,Player Character,"""Aghaaz is dead.""","""아가즈는 죽었어.""",q4c_ferron,,q4c_aghaazdead,,,0,0
+106110,PC,Player Character,"""Leader of the rebels?""","""반란군의 지도자?""",q4c_ferron,,,,,0,0
+106111,PC,Player Character,"""Sentient golems? What are you talking about?""","""지성 있는 골렘? 무슨 말이야?""",q4c_ferron,,,,,0,0
+106112,PC,Player Character,"""I'll be back once I have the Power Source.""","""동력원을 얻으면 다시 올게.""",q4c_ferron,,q4c_ferron99-,,,0,0
+106113,PC,Player Character,"""You should know something: the Maker is dead.""","""알아야 할 게 있어. 창조주가 죽었어.""",q4c_ferron,,q4c_makerdead,,,0,0
+106114,PC,Player Character,"""I want to ask you some questions.""","""몇 가지 물어볼 게 있어.""",q4c_ferron,,,,,0,0
+106115,PC,Player Character,"""Tell me about the Power Source.""","""동력원에 대해 말해줘.""",q4c_ferron,,q4c_ferron99-,,,0,0
+106116,PC,Player Character,"""How long have you been here?""","""여기 얼마나 오래 있었어?""",q4c_ferron,,,,,0,0
+106117,PC,Player Character,"""You've been here 500 years and all you've done is start a civil war?""","""500년이나 여기 있었는데 한 일이 내전 시작이야?""",q4c_ferron,,,,,0,0
+106118,PC,Player Character,"""You waited for 300 years before you even decided to leave?""","""떠나기로 결정하기까지 300년이나 기다렸다고?""",q4c_ferron,,,,,0,0
+106119,PC,Player Character,"""Despite your free will, you still think like a construct.""","""자유 의지가 있는데도 여전히 구조물처럼 생각하네.""",q4c_ferron,,,,,0,0
+106120,PC,Player Character,"""See? If Deekin can make something of himself, anyone can!""","""봐! 디킨도 뭔가를 해낼 수 있다면, 누구나 할 수 있어!""",q4c_ferron,,,,,0,0
+106121,PC,Player Character,"""Famous?""","""유명하다고?""",q4c_ferron,,,,,0,0
+106122,PC,Player Character,"""Tell me about Aghaaz and his followers.""","""아가즈와 그의 추종자들에 대해 말해줘.""",q4c_ferron,,q4c_ferron99-,,,0,0
+106123,PC,Player Character,"""Tell me about yourself and your followers.""","""너와 네 추종자들에 대해 말해줘.""",q4c_ferron,,,,,0,0
+106124,PC,Player Character,"""Tell me about the Maker.""","""창조주에 대해 말해줘.""",q4c_ferron,,,,,0,0
+106125,PC,Player Character,"""I want to ask you something else.""","""다른 것도 물어보고 싶어.""",q4c_ferron,,,,,0,0
+106126,PC,Player Character,"""Why haven't you searched for the Maker?""","""왜 창조주를 찾지 않았어?""",q4c_ferron,,,,,0,0
+106127,PC,Player Character,"""Aghaaz sent me to destroy you.""","""아가즈가 널 파괴하라고 보냈어.""",q4c_ferron,,q4c_aghaaz10,,,0,0
+106128,PC,Player Character,<StartAction> Tell Ferron about the Valsharess and Aghaaz's offer.</Start>,<StartAction>페론에게 발샤레스와 아가즈의 제안에 대해 말합니다.</Start>,q4c_ferron,,,,,0,0
+106129,PC,Player Character,"""You really think you could survive against me?""","""정말 나한테 이길 수 있다고 생각해?""",q4c_ferron,,,,,0,0
+106130,PC,Player Character,"""The Power Source?""","""동력원?""",q4c_ferron,,,,,0,0
+106131,PC,Player Character,"""I don't have to kill you. Maybe we could work something out.""","""널 죽일 필요는 없어. 어떻게 해결할 수 있을지도 몰라.""",q4c_ferron,,,,,0,0
+106132,PC,Player Character,"""Aghaaz is dead.""","""아가즈는 죽었어.""",q4c_ferron,,q4c_aghaazdead,,,0,0
+106133,PC,Player Character,"""I have the Power Source. Take it.""","""동력원을 가져왔어. 받아.""",q4c_ferron,,q4c_powersource,,,0,0
+106134,PC,Player Character,"""Don't forget: I need your help against the Valsharess.""","""잊지 마. 발샤레스에 맞서 네 도움이 필요해.""",q4c_ferron,,,,,0,0

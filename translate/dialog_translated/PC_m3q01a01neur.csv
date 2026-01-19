@@ -1,0 +1,38 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+43504,PC,Player Character,I have need of healing.,치료가 필요합니다.,m3q01a01neur,,[지능 보통],,,0,0
+43505,PC,Player Character,I would like to purchase some supplies.,물품을 구매하고 싶습니다.,m3q01a01neur,,[지능 보통],,,0,0
+43506,PC,Player Character,Maybe I could help you with this problem.,이 문제를 제가 도와드릴 수 있을 것 같은데요.,m3q01a01neur,,m3q1_trialask,,,0,0
+43507,PC,Player Character,I'll be going now.,이제 가볼게요.,m3q01a01neur,,[지능 보통],,,0,0
+43508,PC,Player Character,Me need heal.,나 치료 필요해.,m3q01a01neur,,[지능 낮음],,,0,0
+43509,PC,Player Character,Me want buy stuff.,나 물건 사고 싶어.,m3q01a01neur,,[지능 낮음],,,0,0
+43510,PC,Player Character,Maybe me can help you problem.,나 문제 도와줄 수 있어.,m3q01a01neur,,m3q1_trialaskl,,,0,0
+43511,PC,Player Character,Me go now.,나 가.,m3q01a01neur,,[지능 낮음],,,0,0
+43512,PC,Player Character,Maybe I could defend the Uthgardt warrior.,제가 우스가르트 전사를 변호할 수 있을 것 같습니다.,m3q01a01neur,,[지능 보통],,,0,0
+43513,PC,Player Character,I could represent the Uthgardt... for a price.,대가만 준다면 우스가르트인을 변호할 수 있습니다.,m3q01a01neur,,[지능 보통],,,0,0
+43514,PC,Player Character,Me want help. Me do trial.,나 돕고 싶어. 나 재판 할게.,m3q01a01neur,,[지능 낮음],,,0,0
+43515,PC,Player Character,Give money and me do trial.,돈 주면 나 재판 할게.,m3q01a01neur,,[지능 낮음],,,0,0
+43516,PC,Player Character [M3Q1A01],I've completed my investigations and I'm ready to begin Rolgan's trial.,조사를 완료했고 롤간의 재판을 시작할 준비가 됐습니다.,m3q01a01neur,,m3q1a01neurstb,[M3Q1A01],,0,0
+43517,PC,Player Character,I'll do it.,하겠습니다.,m3q01a01neur,,,,,0,0
+43518,PC,Player Character,And what about the witnesses?,그럼 증인들은요?,m3q01a01neur,,,,,0,0
+43519,PC,Player Character,I'll begin my investigations right away.,당장 조사를 시작하겠습니다.,m3q01a01neur,,,,,0,0
+43520,PC,Player Character,"Sounds simple: sword for guilty, torch for innocent.","간단하네요: 유죄면 검, 무죄면 횃불.",m3q01a01neur,,,,,0,0
+43521,PC,Player Character,"I understand. Three jurors or more must be holding a torch to get Rolgan acquitted. And if I end the conversation before we're done, Rolgan suffers.",이해했습니다. 세 명 이상의 배심원이 횃불을 들고 있어야 롤간이 무죄 판결을 받습니다. 그리고 제가 다 끝나기 전에 대화를 끝내면 롤간이 고통받게 됩니다.,m3q01a01neur,,,,,0,0
+43522,PC,Player Character,Can we go over the rules one more time?,규칙을 한 번 더 설명해 주시겠어요?,m3q01a01neur,,,,,0,0
+43523,PC,Player Character,I'm ready. Let's begin.,준비됐습니다. 시작하죠.,m3q01a01neur,,,,,0,0
+43524,PC,Player Character,"Actually, I need some more time to prepare.",사실 준비할 시간이 좀 더 필요합니다.,m3q01a01neur,,,,,0,0
+43525,PC,Player Character,"I remember, Neurik. Good to see you again.","기억합니다, 뉴릭. 다시 뵙게 되어 반갑습니다.",m3q01a01neur,,[지능 보통],,,0,0
+43526,PC,Player Character,"Me remember. Good for see you again, Neurik.","나 기억해. 또 봐서 좋아, 뉴릭.",m3q01a01neur,,[지능 낮음],,,0,0
+43527,PC,Player Character,"Me not remember you, Neurik.","나 너 기억 못 해, 뉴릭.",m3q01a01neur,,[지능 낮음],,,0,0
+43528,PC,Player Character,"Sorry, Neurik. I don't remember you.","죄송해요, 뉴릭. 기억이 안 나네요.",m3q01a01neur,,[지능 보통],,,0,0
+43529,PC,Player Character,Who are you again?,당신은 또 누구죠?,m3q01a01neur,,[지능 보통],,,0,0
+43530,PC,Player Character,"Who you be, again?",너 또 누구야?,m3q01a01neur,,[지능 낮음],,,0,0
+43531,PC,Player Character,Trial?,재판이요?,m3q01a01neur,,,,,0,0
+43532,PC,Player Character,What do you mean about the outcome of Rolgan's trial?,롤간의 재판 결과에 대해 무슨 말씀이신가요?,m3q01a01neur,,[지능 보통],,,0,0
+43533,PC,Player Character,What you mean 'bout outcome of trial?,재판 결과 무슨 말이야?,m3q01a01neur,,[지능 낮음],,,0,0
+43534,PC,Player Character,"<StartCheck>[Persuade]</Start> Your reward seems a little light, after all the work I did.",<StartCheck>[설득]</Start> 보상이 제가 한 일에 비하면 좀 적은 것 같은데요.,m3q01a01neur,,,,,0,0
+43535,PC,Player Character,"Listen, Neurik, I spent a lot of time on that trial! You better come up with some more cash if you know what's good for you!","들어봐, 뉴릭, 난 그 재판에 많은 시간을 썼어! 무슨 일이 일어날지 알고 싶다면 돈을 더 내놔!",m3q01a01neur,,,,,0,0
+43536,PC,Player Character,Tell you what: you hand over those funds and I won't start hacking off your fingers.,이렇게 하자: 그 돈을 넘기면 네 손가락을 자르지 않겠어.,m3q01a01neur,nw_d1_small_evil,,,,0,0
+43537,PC,Player Character,"I'm sorry, Neurik. I just lost my head for a moment. I didn't mean that. Forgive me.","미안해요, 뉴릭. 제가 잠깐 화가 났었어요. 그럴 의도는 아니었습니다. 용서해주세요.",m3q01a01neur,,,,,0,0
+43538,PC,Player Character,You tell anyone and I guarantee you'll end up a corpse! Now give me the money!,누구한테 말하면 시체가 될 거라고 보장하지! 이제 돈 내놔!,m3q01a01neur,nw_d1_high_evil,,,,0,0
+60491,PC,Player Character,Me need 'nother copy of book.,나 쪽지 다시 필요해.,m3q01a01neur,,[지능 낮음],,,0,0
+60492,PC,Player Character,Can I get another copy of the notebook?,쪽지를 다시 받을 수 있을까요?,m3q01a01neur,,[지능 보통],,,0,0

@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+105197,PC,Player Character,"""Actually, I'm just here to destroy you!""","""사실, 난 그냥 널 파괴하러 왔어!""",q2delderbrain,,,,,0,0
+105198,PC,Player Character,"""I don't care about the other illithid! I just want to kill you!"" <StartAction>Attack the brain pool.</Start>","""""다른 일리시드는 신경 안 써! 그냥 널 죽이고 싶어!"""" <StartAction>뇌 웅덩이를 공격합니다.</Start>",q2delderbrain,act_q2d4brain_1,,,,0,0
+105199,PC,Player Character,"""What are you talking about?""","""무슨 얘기야?""",q2delderbrain,,,,,0,0
+105200,PC,Player Character,"""Yes. I want you to withdraw your support of the Valsharess.""","""그래. 발샤레스에 대한 지원을 철회해 줬으면 해.""",q2delderbrain,,,,,0,0
+105201,PC,Player Character,"""I think I'll just kill you instead.""","""그냥 널 죽이는 게 낫겠어.""",q2delderbrain,,,,,0,0
+105202,PC,Player Character,"""Can I convince the Elder Concorde to abandon the Valsharess?""","""장로 합의체를 설득해서 발샤레스를 버리게 할 수 있어?""",q2delderbrain,,,,,0,0
+105203,PC,Player Character,"""Forget it. I'll just smash you into goo!""","""됐어. 그냥 널 진흙으로 만들어 버리겠어!""",q2delderbrain,,,,,0,0
+105204,PC,Player Character,"""Okay, what do you propose, then?""","""좋아, 그럼 뭘 제안하는 거야?""",q2delderbrain,,,,,0,0
+105205,PC,Player Character,"""How am I supposed to do that?""","""그걸 어떻게 하라는 거야?""",q2delderbrain,,,,,0,0
+105206,PC,Player Character,"""I'll be back after I get the mirror.""","""거울을 가져온 후에 돌아올게.""",q2delderbrain,,,,,0,0
+105207,PC,Player Character,<StartAction> Don't mention the thrall revolt. </Start>,<StartAction>노예 반란에 대해 언급하지 않습니다.</Start>,q2delderbrain,,,,,0,0
+105208,PC,Player Character,"""I think it's brain smashing time!""","""이제 뇌를 박살낼 시간인 것 같은데!""",q2delderbrain,,,,,0,0
+105209,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2delderbrain,,,,,0,0
+105210,PC,Player Character,"""If I help you, I want you to give up the thrall trade.""","""내가 도와주면, 노예 거래를 포기해 줘.""",q2delderbrain,,,,,0,0
+105211,PC,Player Character,"""What's in this for me?""","""내게 뭐가 남는데?""",q2delderbrain,,,,,0,0
+105212,PC,Player Character,"""I don't like your attitude. Time to die, brain!""","""네 태도가 마음에 안 들어. 죽을 시간이야, 뇌!""",q2delderbrain,,,,,0,0
+105213,PC,Player Character,"""Here's the mirror."" <StartAction>Place the mirror in the brain pool</Start>","""""여기 거울이야."""" <StartAction>거울을 뇌 웅덩이에 놓습니다.</Start>",q2delderbrain,x2_takemirror,x2_hasmirror,,,0,0
+105214,PC,Player Character,<StartAction>Don't mention the thrall revolt.</Start>,<StartAction>노예 반란에 대해 언급하지 않습니다.</Start>,q2delderbrain,act_q2d4brain_3,,,,0,0
+105215,PC,Player Character,"""I should warn you - there is a thrall revolt planned.""","""경고해 두는데 - 노예 반란이 계획되어 있어.""",q2delderbrain,q2_slavebetrayx,q2_slaveuprise2,,,0,0
+105216,PC,Player Character,"""Why should I help the illithid become more powerful?""","""왜 내가 일리시드가 더 강해지도록 도와야 하는데?""",q2delderbrain,,,,,0,0
+105217,PC,Player Character,"""I should warn you - there is a thrall revolt planned.""","""경고해 두는데 - 노예 반란이 계획되어 있어.""",q2delderbrain,q2_slavebetrayx,q2_slaveuprise2,,,0,0
+105218,PC,Player Character,"""Sorry - I'm going to finish what I started!""","""미안 - 시작한 걸 끝내겠어!""",q2delderbrain,,,,,0,0
+105219,PC,Player Character,"""Why should I let you live?""","""왜 널 살려둬야 하는데?""",q2delderbrain,,,,,0,0
+105220,PC,Player Character,"""Is this some kind of trick?""","""이거 무슨 속임수야?""",q2delderbrain,,,,,0,0
+105221,PC,Player Character,"""What are you talking about?""","""무슨 얘기야?""",q2delderbrain,,,,,0,0
+105222,PC,Player Character,"""How do you know about the Valsharess?""","""발샤레스에 대해 어떻게 알아?""",q2delderbrain,,,,,0,0
+105223,PC,Player Character,<StartAction>Attack the brain pool.</Start>,<StartAction>뇌 웅덩이를 공격합니다.</Start>,q2delderbrain,act_q2d4brain_1,,,,0,0

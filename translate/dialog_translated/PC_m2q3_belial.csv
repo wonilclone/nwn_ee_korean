@@ -1,0 +1,30 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+37493,PC,Player Character,Make me more powerful by your magic!,네 마법으로 날 더 강하게 만들어!,m2q3_belial,nw_j_demon7,[지능 보통],,,0,0
+37494,PC,Player Character,<StartCheck>[Persuade]</Start> I require the assistance of a magic item!,<StartCheck>[설득]</Start> 마법 아이템의 도움이 필요하다!,m2q3_belial,,[지능 보통],,,0,0
+37495,PC,Player Character,<StartCheck>[Persuade]</Start> I command you to give me an item of the greatest power!,<StartCheck>[설득]</Start> 가장 강력한 아이템을 내게 주라 명한다!,m2q3_belial,,[지능 보통],,,0,0
+37496,PC,Player Character,I come as the Judge and demand only answers.,나는 심판자로서 왔으며 답만을 요구한다.,m2q3_belial,,[지능 보통],,,0,0
+37497,PC,Player Character,"Uh, you make me big and tuff!","어, 너 나 크고 강하게 만들어!",m2q3_belial,nw_j_demon7,[지능 낮음],,,0,0
+37498,PC,Player Character,"<StartCheck>[Persuade]</Start> Uh, me need a... a magic thingy!","<StartCheck>[설득]</Start> 어, 나... 마법 물건 필요해!",m2q3_belial,,[지능 낮음],,,0,0
+37499,PC,Player Character,<StartCheck>[Persuade]</Start> Me need a magic thingy. Somethin' of great power!,<StartCheck>[설득]</Start> 나 마법 물건 필요해. 엄청 강한 거!,m2q3_belial,,[지능 낮음],,,0,0
+37500,PC,Player Character,Me be da Judge-guy. Me only want answers.,나 심판자야. 나 답만 원해.,m2q3_belial,,[지능 낮음],,,0,0
+37501,PC,Player Character,Then tell me the tale of the brothers Jhareg... ,그럼 자렉 형제들의 이야기를 해줘...,m2q3_belial,,[지능 보통],,,0,0
+37502,PC,Player Character,What charade do you speak of?,무슨 연극을 말하는 거야?,m2q3_belial,,[지능 보통],,,0,0
+37503,PC,Player Character,Were you a witness or a participant in this crime?,"넌 이 범죄의 목격자였어, 아니면 가담자였어?",m2q3_belial,,[지능 보통],,,0,0
+37504,PC,Player Character,"<StartCheck>[Insight]</Start> You're trapped here too, aren't you... ","<StartCheck>[통찰]</Start> 너도 여기 갇힌 거지, 그렇지...",m2q3_belial,,nw_d2_wis_intn,,,0,0
+37505,PC,Player Character,You tell me 'bout da Jharegs... ,너 자렉들 얘기 해줘...,m2q3_belial,,[지능 낮음],,,0,0
+37506,PC,Player Character,"""Charade?"" What this you speak of?",""""연극?""" 이게 무슨 얘기야?",m2q3_belial,,[지능 낮음],,,0,0
+37507,PC,Player Character,Did you do this crime or only watch?,너 범죄 저질렀어 아니면 그냥 봤어?,m2q3_belial,,[지능 낮음],,,0,0
+37508,PC,Player Character,Argue your guilt or innocence while you still can... ,아직 시간 있을 때 네 죄에 대해 말해봐...,m2q3_belial,,[지능 보통],,,0,0
+37509,PC,Player Character,You be guilty of da crime here? Yes or no?,너 여기서 범죄 저질렀어? 응 아니 아니?,m2q3_belial,,[지능 낮음],,,0,0
+37510,PC,Player Character,Tell me more... ,더 말해봐...,m2q3_belial,,[지능 보통],,,0,0
+37511,PC,Player Character,Get to the point.,요점을 말해.,m2q3_belial,,[지능 보통],,,0,0
+37512,PC,Player Character,"Ooh, you talk more... ","오, 너 더 말해...",m2q3_belial,,[지능 낮음],,,0,0
+37513,PC,Player Character,You got point? Get to it.,요점 있어? 빨리 말해.,m2q3_belial,,[지능 낮음],,,0,0
+37514,PC,Player Character,Then it was you behind the slaughter!?,그럼 학살의 배후가 너였어!?,m2q3_belial,,[지능 보통],,,0,0
+37515,PC,Player Character,But why did you do this?,하지만 왜 이런 짓을 한 거야?,m2q3_belial,,[지능 보통],,,0,0
+37516,PC,Player Character,Why are you telling me this so openly?,왜 이렇게 공개적으로 말해주는 거지?,m2q3_belial,,[지능 보통],,,0,0
+37517,PC,Player Character,Will you give this as your written oath?,서면 맹세로 이걸 줄 거야?,m2q3_belial,,[지능 보통],,,0,0
+37518,PC,Player Character,Huh? You was behind da slaughter!?,뭐? 너 학살 뒤에 있었어!?,m2q3_belial,,[지능 낮음],,,0,0
+37519,PC,Player Character,How come you do all this?,왜 이런 짓 했어?,m2q3_belial,,[지능 낮음],,,0,0
+37520,PC,Player Character,"Why you be so honest, all of sudden?",왜 갑자기 이렇게 솔직해?,m2q3_belial,,[지능 낮음],,,0,0
+37521,PC,Player Character,"You gives this as written oath, yuh?",너 서면 맹세로 줄 거지?,m2q3_belial,,[지능 낮음],,,0,0

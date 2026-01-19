@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+93126,PC,Player Character,"""Time to die, goblin!""","""죽을 시간이야, 고블린!""",q2agrovel,,,,,0,0
+93127,PC,Player Character,"""Sorry, it's killin' time!","""미안하지만, 죽일 시간이야!""",q2agrovel,,,,,0,0
+93128,PC,Player Character,"""I might let you live... if you can give me useful information.""","""살려줄 수도 있어... 유용한 정보를 줄 수 있다면.""",q2agrovel,,,,,0,0
+93129,PC,Player Character,"""I serve only myself.""","""난 나 자신만을 섬겨.""",q2agrovel,,,,,0,0
+93130,PC,Player Character,"""I work for the city of Waterdeep!""","""난 워터딥을 위해 일해!""",q2agrovel,,,,,0,0
+93131,PC,Player Character,"""Enough yapping. I'm in the mood for a goblin-ka-bob!""","""떠들기 그만. 고블린 꼬치 먹고 싶은 기분이야!""",q2agrovel,,q2agrovel0,,,0,0
+93132,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2agrovel,,,,,0,0
+93133,PC,Player Character,"""The only escape from here is death - and I'll be happy to help!""","""여기서 탈출하는 유일한 방법은 죽음뿐이야 - 기꺼이 도와주지!""",q2agrovel,,,,,0,0
+93134,PC,Player Character,"""Forget it. You can stay in here and rot for all I care.""","""됐어. 여기서 썩든지 말든지 난 상관없어.""",q2agrovel,,,,,0,0
+93135,PC,Player Character,"""I suppose I could get Durnan to pull you up the well.""","""더난에게 우물에서 널 끌어올리라고 할게.""",q2agrovel,,,,,0,0
+93136,PC,Player Character,"""Tell Durnan <FullName> sent you up."" <StartAction>Pull the chain.</Start>","""더난에게 <FullName>이 보냈다고 해."" <StartAction>사슬을 당긴다.</Start>",q2agrovel,q2agrovel10x,,,,0,0
+93137,PC,Player Character,"""You mentioned ogres and fairies?""","""오우거랑 요정 얘기를 했지?""",q2agrovel,,,,,0,0
+93138,PC,Player Character,"""What do you know about Undermountain?""","""언더마운틴에 대해 뭘 알아?""",q2agrovel,,,,,0,0
+93139,PC,Player Character,"""Halaster's gone? What do you mean?""","""할라스터가 사라졌다고? 무슨 뜻이야?""",q2agrovel,,,,,0,0
+93140,PC,Player Character,"""Who are you?""","""넌 누구야?""",q2agrovel,,,,,0,0
+93141,PC,Player Character,"""How did you come to Undermountain?""","""어떻게 언더마운틴에 오게 됐어?""",q2agrovel,,,,,0,0
+93142,PC,Player Character,"""What happened to the rest of your tribe?""","""네 부족의 나머지는 어떻게 됐어?""",q2agrovel,,,,,0,0
+93143,PC,Player Character,"""What are you talking about?""","""무슨 얘기야?""",q2agrovel,,,,,0,0
+93144,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2agrovel,,,,,0,0
+93145,PC,Player Character,"""I sent him up here so you could capture and interrogate him.""","""붙잡아서 심문할 수 있게 보냈어.""",q2agrovel,,,,,0,0
+93146,PC,Player Character,"""I've never seen this creature before in my life.""","""이 생명체는 한 번도 본 적 없어.""",q2agrovel,,,,,0,0
+93147,PC,Player Character,"""Yes. He wanted to escape Undermountain. I think he's harmless.""","""그래. 언더마운틴을 탈출하고 싶어 했어. 무해한 것 같아.""",q2agrovel,,,,,0,0
+93148,PC,Player Character,"""Just send him to the prisons. That should solve all our problems.""","""그냥 감옥에 보내. 그럼 문제가 다 해결될 거야.""",q2agrovel,,,,,0,0
+93149,PC,Player Character,"""I guess I never thought of that.""","""그건 생각 못 했네.""",q2agrovel,,,,,0,0
+93150,PC,Player Character,"""Open your eyes, Durnan! He's obviously a spy!""","""정신 차려, 더난! 녀석은 분명 첩자야!""",q2agrovel,,,,,0,0
+93151,PC,Player Character,"""I don't think he's any threat. Might as well put him to work.""","""위협적이지 않은 것 같아. 일이나 시키는 게 나을 걸.""",q2agrovel,,,,,0,0
+93152,PC,Player Character,"<StartCheck>[Insight]</Start> ""Put him to work at your inn so you can keep an eye on him.""","<StartCheck>[통찰]</Start> ""여관에서 일시키면서 감시하면 돼.""",q2agrovel,,x0_d2_insight,,,0,0

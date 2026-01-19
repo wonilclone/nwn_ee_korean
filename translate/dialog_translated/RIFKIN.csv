@@ -1,0 +1,21 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+82332,Dialog,RIFKIN,"Excuse me, but I'm trying to meditate. Please speak to the high priest if you have any questions.","실례지만, 명상 중이야. 질문이 있으면 대사제에게 물어봐.",Q5A_RIFKIN,,,,,0,0
+82333,Dialog,RIFKIN,"The Messiah speaks to me. Oh, Holy Ao, heal the wounds I caused myself in your name, and I will give you a worthy gift.","구세주께서 내게 말씀하신다. 오, 성스러운 에이오여, 당신의 이름으로 제가 스스로 낸 상처를 치유해 주소서, 그러면 합당한 선물을 드리겠나이다.",Q5A_RIFKIN,,,,,0,0
+82334,Dialog,RIFKIN,"Holy Ao, I live to serve.","성스러운 에이오여, 봉사하기 위해 살아가나이다.",Q5A_RIFKIN,,,,,0,0
+82335,Dialog,RIFKIN,"I will give you my gift. Here it is, Holy Ao.","선물을 드리겠나이다. 여기 있습니다, 성스러운 에이오여.",Q5A_RIFKIN,act_aoworship_2,,,,0,0
+82336,Dialog,RIFKIN,"I pray for the time when you will grant me powers of my own, that I might go out and spread word that you are the supreme being.","저만의 힘을 내려주실 그날을 기도합니다, 그래야 당신이 지고한 존재임을 세상에 알릴 수 있사옵니다.",Q5A_RIFKIN,,,,,0,0
+82337,Dialog,RIFKIN,"Thank you so much, Holy Ao.","정말 감사합니다, 성스러운 에이오여.",Q5A_RIFKIN,,,,,0,0
+82338,Dialog,RIFKIN,"<StartCheck>[Successful]</Start> I will give you my gift. Here it is, Holy Ao. Please do not smite me! I live only to serve you.","<StartCheck>[성공]</Start> 선물을 드리겠나이다. 여기 있습니다, 성스러운 에이오여. 저를 내치지 마소서! 오직 당신을 섬기기 위해 살아가나이다.",Q5A_RIFKIN,act_aoworship_2,,,,0,0
+82339,Dialog,RIFKIN,"I am sorry, Holy Ao. I will give you my gift. Please do not smite me! I live only to serve you.","죄송합니다, 성스러운 에이오여. 선물을 드리겠나이다. 저를 내치지 마소서! 오직 당신을 섬기기 위해 살아가나이다.",Q5A_RIFKIN,act_aoworship_2,,,,0,0
+82340,Dialog,RIFKIN,"Holy Ao, you have my gift. Please grant me mighty powers to show the world that you are the supreme being.","성스러운 에이오여, 선물을 받으셨습니다. 당신이 최고의 존재임을 세상에 보여줄 강력한 힘을 내려주소서.",Q5A_RIFKIN,,,,,0,0
+82341,Dialog,RIFKIN,You cannot be Holy Ao! He would not come down here just to ignore us!,성스러운 에이오일 리가 없어! 그분은 우리를 무시하려고 여기 내려오지 않으셨을 거야!,Q5A_RIFKIN,,,,,0,0
+82342,Dialog,RIFKIN,A common thug. What a wasted life.,하찮은 깡패군. 참 낭비되는 삶이야.,Q5A_RIFKIN,,,,,0,0
+82369,Dialog,RIFKIN,"Do not listen to him, Holy Ao. Come and hear my plea and I will give you my gift.","그의 말을 듣지 마소서, 성스러운 에이오여. 와서 제 간청을 들어주시면 선물을 드리겠나이다.",Q5B_RIFKIN,,,,,0,0
+82673,Dialog,RIFKIN,Could it be possible? Could this be the one we have been waiting for?,가능한 일인가? 이분이 우리가 기다려온 그분일까?,Q5B_RIFKIN,,,,,0,0
+82679,Dialog,RIFKIN,"Praise heaven, you have come to us at last! How would you like me to beat myself for your worship, Holy Ao?","하늘에 찬양을, 드디어 우리에게 오셨군요! 어떻게 자해해야 당신을 경배할 수 있겠습니까, 성스러운 에이오여?",Q5B_RIFKIN,,,,,0,0
+82681,Dialog,RIFKIN,"Your words have wisdom that stretches beyond the mortal plane! We shall dote on everything you teach us, master.","당신의 말씀에는 필멸자의 세계를 뛰어넘는 지혜가 담겨 있습니다! 가르침을 모두 새기겠습니다, 주인님.",Q5B_RIFKIN,,,,,0,0
+82683,Dialog,RIFKIN,Look how he denies his holiness! Just as Ao has always done!,그분이 자신의 신성함을 부정하는 것 좀 봐! 에이오께서 늘 그러셨듯이!,Q5B_RIFKIN,,,,,0,0
+82685,Dialog,RIFKIN,"How shall we get away from you, Holy Ao?","어떻게 당신에게서 떠날 수 있겠습니까, 성스러운 에이오여?",Q5B_RIFKIN,,,,,0,0
+82687,Dialog,RIFKIN,"Me too, Holy Ao! Speak to me!","저에게도요, 성스러운 에이오여! 저에게 말씀해 주소서!",Q5B_RIFKIN,,,,,0,0
+82690,Dialog,RIFKIN,<StartHighlight>[He catches it.]</Start> A gift! A gift from Holy Ao! This is a holy pebble!,<StartHighlight>[받아낸다.]</Start> 선물이다! 성스러운 에이오께서 주신 선물! 이건 성스러운 조약돌이야!,Q5B_RIFKIN,,,,,0,0
+82709,Dialog,RIFKIN,"It is true. I can understand much that I never knew, but it only comes into focus when the pain strikes my nerves.","사실이야. 전에는 몰랐던 것들을 많이 깨달을 수 있어. 하지만 고통이 몸을 찌를 때만 또렷해져.",Q5B_RIFKIN,,,,,0,0

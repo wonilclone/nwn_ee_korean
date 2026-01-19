@@ -1,0 +1,53 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+20636,PC,Player Character,Could I ask you some questions?,질문을 몇 가지 드려도 될까요?,m1q3anobwom,,[지능 보통],,,0,0
+20637,PC,Player Character,Me want ask questions.,나 질문하고 싶어.,m1q3anobwom,,[지능 낮음],,,0,0
+20638,PC,Player Character,Goodbye.,그럼 이만.,m1q3anobwom,,,,,0,0
+20639,PC,Player Character,Are you aware of any strange creatures in the area?,이 근처에 이상한 생명체들에 대해 알고 계십니까?,m1q3anobwom,,[지능 보통],,,0,0
+20640,PC,Player Character,Have you heard any rumors concerning the plague?,울부짖는 죽음 역병과 관련된 소문을 들은 게 있습니까?,m1q3anobwom,,templ_chg10ing8,,,0,0
+20641,PC,Player Character,Do you know of anything interesting going on in Blacklake?,검은호수 지구에서 흥미로운 일이 있습니까?,m1q3anobwom,,[지능 보통],,,0,0
+20642,PC,Player Character,You know 'bout strange creatures around?,주변에 이상한 생명체 아는 거 있어?,m1q3anobwom,,[지능 낮음],,,0,0
+20643,PC,Player Character,"You hear plague rumors, maybe?","울부짖는 죽음 역병 소문 들었어, 혹시?",m1q3anobwom,,templ_chg10inl9,,,0,0
+20644,PC,Player Character,You know 'bout weird stuff here?,여기 이상한 일 아는 거 있어?,m1q3anobwom,,[지능 낮음],,,0,0
+20645,PC,Player Character,"So there's been nothing odd about the zoo, then?",그렇다면 동물원엔 이상한 점이 전혀 없다는 건가요?,m1q3anobwom,,[지능 보통],,,0,0
+20646,PC,Player Character,"<StartCheck>[Insight]</Start> Is it possible that some creatures might have gained access to the zoo, somehow?",<StartCheck>[통찰]</Start> 어떻게든 어떤 생명체들이 동물원에 들어갔을 가능성은 없습니까?,m1q3anobwom,,templ_ing8wig13,,,0,0
+20647,PC,Player Character,Nothing weird about zoo?,동물원 이상한 거 없어?,m1q3anobwom,,[지능 낮음],,,0,0
+20648,PC,Player Character,Anything peculiar that you can think of?,떠오르는 이상한 점이 있습니까?,m1q3anobwom,,[지능 보통],,,0,0
+20649,PC,Player Character,"I'd be interested in work, if you know of anything.",할 일이 있다면 관심 있습니다.,m1q3anobwom,,[지능 보통],,,0,0
+20650,PC,Player Character,Any places in Blacklake you think I should visit?,검은호수 지구에서 찾아가 볼 만한 곳이 있습니까?,m1q3anobwom,,templ_chg10ing8,,,0,0
+20651,PC,Player Character,Any weird stuff?,이상한 거 있어?,m1q3anobwom,,[지능 낮음],,,0,0
+20652,PC,Player Character,Me want work.,나 일하고 싶어.,m1q3anobwom,,[지능 낮음],,,0,0
+20653,PC,Player Character,Places in Blacklake I should go to?,검은호수에서 내가 가야 할 데 있어?,m1q3anobwom,,templ_chg10inl9,,,0,0
+20654,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 자, 내게 말해도 해가 될 건 없어요.",m1q3anobwom,,[지능 보통],,,0,0
+20655,PC,Player Character,<StartCheck>[Persuade]</Start> Tell me. Will hurt nobody.,<StartCheck>[설득]</Start> 말해. 아무한테도 해 안 돼.,m1q3anobwom,,[지능 낮음],,,0,0
+20656,PC,Player Character,I'm investigating the plague. Perhaps you can help me?,울부짖는 죽음 역병을 조사 중입니다. 도와주실 수 있나요?,m1q3anobwom,,[지능 보통],,,0,0
+20657,PC,Player Character,Me look into plague. Maybe you help?,나 역병 알아보는 중. 도와줄래?,m1q3anobwom,,[지능 낮음],,,0,0
+20658,PC,Player Character,I want to ask you something else.,다른 걸 여쭙고 싶습니다.,m1q3anobwom,,[지능 보통],,,0,0
+20659,PC,Player Character,Me have other question.,나 다른 질문 있어.,m1q3anobwom,,[지능 낮음],,,0,0
+20660,PC,Player Character,Can I ask you some directions?,길을 좀 여쭤봐도 될까요?,m1q3anobwom,,[지능 보통],,,0,0
+20661,PC,Player Character,Me need directions.,나 길 안내 필요해.,m1q3anobwom,,[지능 낮음],,,0,0
+20662,PC,Player Character,Where is the nearest inn?,가장 가까운 여관은 어디죠?,m1q3anobwom,,[지능 보통],,,0,0
+20663,PC,Player Character,Where is the nearest temple?,가장 가까운 신전은 어디죠?,m1q3anobwom,,[지능 보통],,,0,0
+20664,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비를 살 만한 곳이 있습니까?,m1q3anobwom,,[지능 보통],,,0,0
+20665,PC,Player Character,Me look for place to sleep.,나 잘 데 찾는 중.,m1q3anobwom,,[지능 낮음],,,0,0
+20666,PC,Player Character,Me look for temple.,나 신전 찾는 중.,m1q3anobwom,,[지능 낮음],,,0,0
+20667,PC,Player Character,Me need place to buy stuff.,나 물건 살 곳 필요해.,m1q3anobwom,,[지능 낮음],,,0,0
+20668,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 걸 여쭙고 싶습니다.",m1q3anobwom,,[지능 보통],,,0,0
+20669,PC,Player Character,"No, me have other question.","아니, 나 다른 질문 있어.",m1q3anobwom,,[지능 낮음],,,0,0
+20670,PC,Player Character,"<StartCheck>[Persuade]</Start> I'm with the city guard, I don't mean any harm.","<StartCheck>[설득]</Start> 저는 도시 경비대 소속입니다, 해칠 의도는 없습니다.",m1q3anobwom,,[지능 보통],,,0,0
+20672,PC,Player Character,Get out of my way! I'll go where I please!,비켜! 난 가고 싶은 데로 간다!,m1q3anobwom,,[지능 보통],,,0,0
+20673,PC,Player Character,I was just leaving.,이만 가보겠습니다.,m1q3anobwom,,[지능 보통],,,0,0
+20674,PC,Player Character,<StartCheck>[Persuade]</Start> Me city guard. Mean no harm.,<StartCheck>[설득]</Start> 나 도시 경비대야. 해칠 생각 없어.,m1q3anobwom,,[지능 낮음],,,0,0
+20676,PC,Player Character,You get out of way! Me goes where me want!!,너 비켜! 난 가고 싶은 데로 가!!,m1q3anobwom,,[지능 낮음],,,0,0
+20677,PC,Player Character,"Me is going, now.","나 간다, 지금.",m1q3anobwom,,[지능 낮음],,,0,0
+20678,PC,Player Character [M1Q3N],"My dear, dear lady, are you sure you couldn't tell me?","부인, 정말로 말씀해 주실 수 없나요?",m1q3anobwom,,m1q3nobleclg04,[M1Q3N],,0,0
+20679,PC,Player Character [M1Q3N],"Gee, pretty lady, you sure you not say? Me curious... ","저기, 예쁜 아가씨, 정말 못 말해? 나 궁금한데...",m1q3anobwom,,m1q3nobleclg05,[M1Q3N],,0,0
+57084,PC,Player Character,Maybe me gonna do that! You gives gold or you die!,"어쩌면 나 그렇게 할지도! 금화 다 내놔, 안 그러면 죽어!",m1q3anobwom,m1q1_evil_set,[지능 낮음],,,0,0
+57085,PC,Player Character,Perhaps I will! Give me all your gold or die!,어쩌면 그렇게 할지도 몰라요! 금화 다 주시지 않으면 죽을 거예요!,m1q3anobwom,m1q1_evil_set,[지능 보통],,,0,0
+57086,PC,Player Character,Me collecting tax to help me keep streets safe.,나 거리를 안전하게 지키려고 세금 걷는 거야.,m1q3anobwom,,[지능 낮음],,,0,0
+57087,PC,Player Character,I'm collecting a tax to help me keep the streets free of crime.,범죄 없는 거리를 유지하기 위해 세금을 걷고 있어요.,m1q3anobwom,,[지능 보통],,,0,0
+57088,PC,Player Character,Me just leave nows. Sorry to bothers.,나 지금 그냥 갈게. 괴롭혀서 미안해.,m1q3anobwom,,[지능 낮음],,,0,0
+57089,PC,Player Character,I'll just leave. Sorry to bother you.,그냥 가겠습니다. 귀찮게 해서 죄송해요.,m1q3anobwom,,[지능 보통],,,0,0
+57090,PC,Player Character,Maybe me just go back to other questions.,나 그냥 다른 질문으로 돌아갈게.,m1q3anobwom,,[지능 낮음],,,0,0
+57091,PC,Player Character,Perhaps I should just go back to my other questions.,다른 질문으로 돌아가는 게 좋을 것 같아요.,m1q3anobwom,,[지능 보통],,,0,0
+57092,PC,Player Character,"You not understand. If me not get paid, you not safe. Me make sure you not safe!","못 알아듣네. 나한테 돈 안 내면, 안전 못 해. 내가 안전 못 하게 만들 거야!",m1q3anobwom,m1q1_evil_set,[지능 낮음],,,0,0
+57093,PC,Player Character,"You don't understand. If I don't get paid, you won't be safe. I'll see to it!","이해를 못 하시는군요. 제가 돈을 못 받으면, 안전하지 못할 거예요. 제가 보장하죠!",m1q3anobwom,m1q1_evil_set,[지능 보통],,,0,0

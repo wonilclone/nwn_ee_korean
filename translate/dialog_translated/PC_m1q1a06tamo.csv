@@ -1,0 +1,85 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17629,PC,Player Character,I would speak with you... and perhaps more.,당신과 이야기하고 싶어요... 어쩌면 그 이상도요.,m1q1a06tamo,,[매력 중간/지능 중간],,,0,0
+17630,PC,Player Character,Me talk with yous? Maybe more?,너랑 얘기해? 어쩌면 더?,m1q1a06tamo,,[매력 중간/지능 낮음],,,0,0
+17631,PC,Player Character,Goodbye.,안녕히 계세요.,m1q1a06tamo,,,,,0,0
+17632,PC,Player Character,<StartAction>Bemoan about how no one really respects you.</Start>,<StartAction>아무도 자신을 존중하지 않는다며 하소연합니다.</Start>,m1q1a06tamo,,,,,0,0
+17633,PC,Player Character,"Let's talk about you, and what you like.",당신 이야기부터 해봐요. 무엇을 좋아하죠?,m1q1a06tamo,,[지능 보통],,,0,0
+17634,PC,Player Character,"You listen well? Does talking make your ""clients"" more relaxed?",말 잘 들어줘? 손님들이랑 이야기하면 더 편해져?,m1q1a06tamo,,[지능 보통],,,0,0
+17635,PC,Player Character,Perhaps I could ask some serious questions?,진지한 질문을 좀 해도 될까요?,m1q1a06tamo,,[지능 보통],,,0,0
+17636,PC,Player Character,We talk about you. You pretty.,너 얘기하자. 너 예뻐.,m1q1a06tamo,,[지능 낮음],,,0,0
+17637,PC,Player Character,You listen? Talking make customers feel more happy?,너 들어줘? 말하면 손님들 기분 더 좋아져?,m1q1a06tamo,,[지능 낮음],,,0,0
+17638,PC,Player Character,"Maybe me ask serious stuffs, okay?",중요한 거 물어봐도 되지?,m1q1a06tamo,,[지능 낮음],,,0,0
+17639,PC,Player Character,Where are you from? What is your story?,고향이 어디죠? 당신 이야기를 들려줘요.,m1q1a06tamo,,[지능 보통],,,0,0
+17640,PC,Player Character,Where you from? What your story?,어디서 왔어? 무슨 사연이야?,m1q1a06tamo,,[지능 낮음],,,0,0
+17641,PC,Player Character,<StartCheck>[Insight]</Start> I'd find it degrading to disguise my true self like that.,"<StartCheck>[통찰]</Start> 진짜 자신을 숨기는 건, 제겐 모욕처럼 느껴져요.",m1q1a06tamo,m1s2c01luceslg03,nw_d2_wis_intn,,,0,0
+17642,PC,Player Character,I want to talk about something else.,다른 이야기로 넘어가죠.,m1q1a06tamo,,[지능 보통],,,0,0
+17643,PC,Player Character,Me talk about different things.,딴 얘기 하자.,m1q1a06tamo,,[지능 낮음],,,0,0
+17644,PC,Player Character,<StartAction>Lament the inherent loneliness of the adventurer lifestyle.</Start>,<StartAction>모험가의 삶이 지닌 고독을 한탄합니다.</Start>,m1q1a06tamo,,,,,0,0
+17645,PC,Player Character,Nothing bothers me. I am strong.,난 아무렇지도 않아요. 강하니까.,m1q1a06tamo,,[지능 보통],,,0,0
+17646,PC,Player Character,Me strong. Nothing hurt me.,나 튼튼해. 아무것도 못 아프게 해.,m1q1a06tamo,,[지능 낮음],,,0,0
+17647,PC,Player Character,"Whatever, harlot. I'm not here to talk.","됐어, 창녀. 수다 떨러 온 게 아니야.",m1q1a06tamo,,[지능 보통],,,0,0
+17648,PC,Player Character,"Shaddap. Me not here for words, lap-lady.","닥쳐. 난 말하러 온 거 아냐, 접대 아가씨.",m1q1a06tamo,,[지능 낮음],,,0,0
+17649,PC,Player Character,"There's more than talking, right?",말만 하는 건 아니지?,m1q1a06tamo,,[매력 낮음/지능 중간],,,0,0
+17650,PC,Player Character,"We not just talk, right?","우리 말만 안 하지, 맞지?",m1q1a06tamo,,[매력 낮음/지능 낮음],,,0,0
+17651,PC,Player Character,Here is a Pass Coin. My name is <FirstName>.,여기 통행 주화에요. 제 이름은 <FirstName>입니다.,m1q1a06tamo,,m1s2c01luceclg04,,,0,0
+17652,PC,Player Character,Here my Pass Coin. Me called <FirstName>.,여기 내 통행 주화. 난 <FirstName>야.,m1q1a06tamo,,m1s2c01luceclg05,,,0,0
+17653,PC,Player Character,I don't have a Pass Coin.,통행 주화는 없어요.,m1q1a06tamo,,m1s2c01luceclg06,,,0,0
+17654,PC,Player Character,Me not gots Pass Coin.,통행 주화 없어.,m1q1a06tamo,,m1s2c01luceclg07,,,0,0
+17655,PC,Player Character,I should be going.,이만 가봐야겠네요.,m1q1a06tamo,,[지능 보통],,,0,0
+17656,PC,Player Character,"Me should go, maybe.",나 가야 할 듯.,m1q1a06tamo,,[지능 낮음],,,0,0
+17657,PC,Player Character,"I'll stay a while, I think.",조금 더 있어도 되겠죠.,m1q1a06tamo,,[지능 보통],,,0,0
+17658,PC,Player Character,Me not so dumb. Me stay.,나 멍청이 아냐. 있을 거야.,m1q1a06tamo,,[지능 낮음],,,0,0
+17659,PC,Player Character,I must leave. Farewell.,이만 떠나야겠어요. 안녕히.,m1q1a06tamo,,[지능 보통],,,0,0
+17660,PC,Player Character,Me gots to go. Bye.,이제 가야 해. 안녕.,m1q1a06tamo,,[지능 낮음],,,0,0
+17661,PC,Player Character,"Perhaps we could... retire to your bedchambers, my lady?","혹시... 당신의 침실로 함께 갈까요, 아가씨?",m1q1a06tamo,,m1s2c01luceclg10,,,0,0
+17662,PC,Player Character,"Maybe we go sleep now? Nicely, I mean.","이제 같이 잘래? 좋게, 그러니까.",m1q1a06tamo,,m1s2c01luceclg11,,,0,0
+17663,PC,Player Character,"Let's knock boots, honey!","한 판 즐겨보자, 자기야!",m1q1a06tamo,,m1s2c01luceclg08,,,0,0
+17664,PC,Player Character,Let's make two-butt beast!,둘이 한 짐승이 되어보자!,m1q1a06tamo,,m1s2c01luceclg09,,,0,0
+17665,PC,Player Character,What do you know of the plague?,역병에 대해 아는 게 있나요?,m1q1a06tamo,,[지능 보통],,,0,0
+17666,PC,Player Character,Know anything about plague?,역병 아는 거 있어?,m1q1a06tamo,,[지능 낮음],,,0,0
+17667,PC,Player Character,Shouldn't you be ashamed of working here?,여기서 일하는 게 부끄럽지 않나요?,m1q1a06tamo,m1s2c01luceslg03,[지능 보통],,,0,0
+17668,PC,Player Character,You feel dirty? Maybe ashamed?,더럽다고 느껴? 좀 창피하지?,m1q1a06tamo,m1s2c01luceclg12,[지능 낮음],,,0,0
+17669,PC,Player Character,"<StartCheck>[Insight]</Start> That's very selfless, giving of yourself like that.",<StartCheck>[통찰]</Start> 자신을 내어주다니... 꽤 이타적이군요.,m1q1a06tamo,,nw_d2_wis_intn,,,0,0
+17670,PC,Player Character,Harsh. Aren't you supposed to have a heart of gold?,냉정하네요. '황금 같은 마음'은 없는 건가요?,m1q1a06tamo,,[지능 보통],,,0,0
+17671,PC,Player Character,Harsh. Where's your heart of gold and stuff?,차갑네. 황금 같은 마음은 어디 갔어?,m1q1a06tamo,,[지능 낮음],,,0,0
+17672,PC,Player Character,<StartAction>Confide that you might have a big role in curing the plague.</Start>,<StartAction>역병 치료에 큰 역할을 맡을지도 모른다고 속내를 털어놓습니다.</Start>,m1q1a06tamo,,,,,0,0
+17673,PC,Player Character,What's that about your other clients?,다른 손님 이야기는 뭐죠?,m1q1a06tamo,,m1s2c01tamoclg06,,,0,0
+17674,PC,Player Character,You gots problems with someone?,누구랑 문제라도 있어?,m1q1a06tamo,,m1s2c01tamoclg07,,,0,0
+17675,PC,Player Character,You're having problems? Perhaps it *should* be my business.,곤란한 일이 있나요? 제 일이 되어도 상관없겠네요.,m1q1a06tamo,,m1s2tamoclg01,,,0,0
+17676,PC,Player Character,"You gots trouble? Maybe it good me help, maybe?",문제 있어? 내가 도와주면 좋을지도?,m1q1a06tamo,,m1s2tamoclg02,,,0,0
+17677,PC,Player Character,Don't tease! Tell me about your client or shut the hell up!,애태우지 마! 손님 얘기를 하든가 입을 다물어!,m1q1a06tamo,,m1s2tamoclg01,,,0,0
+17678,PC,Player Character,Stupid! Say about client or be more quiets!,"바보야! 손님 얘기해, 아니면 조용히 해!",m1q1a06tamo,,m1s2tamoclg02,,,0,0
+17679,PC,Player Character,What's in it for me?,난 뭘 얻게 되죠?,m1q1a06tamo,,[지능 보통],,,0,0
+17680,PC,Player Character,What me get?,나 뭐 받아?,m1q1a06tamo,,[지능 낮음],,,0,0
+17681,PC,Player Character,Perhaps I can look into it. I'll see.,제가 알아볼 수도 있겠네요. 고려해 보죠.,m1q1a06tamo,,[지능 보통],,,0,0
+17682,PC,Player Character,Maybe me try find this jerk.,그 멍청이 한번 찾아볼까.,m1q1a06tamo,,[지능 낮음],,,0,0
+17683,PC,Player Character,"I'll maybe take a look. Now, about that chat?","살펴보긴 하죠. 이제, 대화는 계속하죠?",m1q1a06tamo,,m1s2c01tamoclg01,,,0,0
+17684,PC,Player Character,"Me maybe look, but first we talk.",나 볼지도 몰라. 근데 먼저 얘기하자.,m1q1a06tamo,,m1s2c01tamoclg02,,,0,0
+17685,PC,Player Character,I'll just go look into this. ,그럼 바로 알아보러 가죠.,m1q1a06tamo,,[지능 보통],,,0,0
+17686,PC,Player Character,Me go check it out.,나 가서 확인해볼게.,m1q1a06tamo,,[지능 낮음],,,0,0
+17687,PC,Player Character,I'm here as a Moonstone Mask customer.,월장석 가면의 손님으로 왔습니다.,m1q1a06tamo,,[지능 보통],,,0,0
+17688,PC,Player Character,Me here for pretty ladies. Heeh.,나 예쁜 아가씨 보러 왔지. 히히.,m1q1a06tamo,,[지능 낮음],,,0,0
+17689,PC,Player Character,What business do you mean? Are you having trouble?,무슨 일 말씀이죠? 곤란한 일이라도 있나요?,m1q1a06tamo,,m1s2c01tamoclg06,,,0,0
+17690,PC,Player Character,I'm here about the business with Hoff.,호프 일로 왔습니다.,m1q1a06tamo,,m1s2c01tamoclg23,,,0,0
+17691,PC,Player Character,Me here about Hoff.,"나, 호프 일 때문에 왔어.",m1q1a06tamo,,m1s2c01tamoclg24,,,0,0
+17692,PC,Player Character,What business you mean? Me don't get it.,무슨 일 말해? 잘 모르겠어.,m1q1a06tamo,,m1s2c01tamoclg07,,,0,0
+17693,PC,Player Character,I hope you enjoyed our time together. ,함께한 시간이 좋았길 바랍니다.,m1q1a06tamo,,m1s2c01tamoclg17,,,0,0
+17694,PC,Player Character,Hope you happy. Me happy if you happy.,즐거웠지? 네가 좋으면 나도 좋아.,m1q1a06tamo,,m1s2c01tamoclg18,,,0,0
+17695,PC,Player Character,Like I care? You're another notch on my sword.,내 알 바야? 넌 그저 목록에 하나 더 늘었을 뿐.,m1q1a06tamo,,m1s2c01tamoclg17,,,0,0
+17696,PC,Player Character,Heh... me not care. Got what me wanted.,헤... 상관없어. 내가 원한 건 얻었거든.,m1q1a06tamo,,m1s2c01tamoclg18,,,0,0
+17697,PC,Player Character,Goodbye.,안녕.,m1q1a06tamo,,,,,0,0
+17698,PC,Player Character,Here's your brooch. Hoff doesn't have it.,여기 당신 브로치. 호프가 가진 건 없었어요.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg25,,,0,0
+17699,PC,Player Character,Here brooch. Hoff gots nothing.,여기 브로치. 호프는 아무것도 없어.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg26,,,0,0
+17700,PC,Player Character,Hoff is dead. Here is your brooch.,호프는 죽었습니다. 브로치는 여기 있어요.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg27,,,0,0
+17701,PC,Player Character,Hoff whack dead! Here your brooch.,호프 꽝! 죽었어! 여기 네 브로치.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg28,,,0,0
+17702,PC,Player Character,Sorry to hear that.,안타깝네요.,m1q1a06tamo,,[지능 보통],,,0,0
+17703,PC,Player Character,That too bad.,그거 참 안 됐다.,m1q1a06tamo,,[지능 낮음],,,0,0
+17704,PC,Player Character,He's dead. Here's your brooch.,그 자는 죽었어요. 브로치는 여기 있습니다.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg13,,,0,0
+17705,PC,Player Character,He dead. Here your pin-thing.,그놈 죽었어. 여기 네 브로치.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg15,,,0,0
+17706,PC,Player Character,Nothing.,없습니다.,m1q1a06tamo,,,,,0,0
+17707,PC,Player Character,He's scared now. Here's your brooch.,이제 겁을 먹었더군요. 브로치는 여기 있습니다.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg14,,,0,0
+17708,PC,Player Character,He scaredy-baby now. Here your brooch.,이젠 쫄았어. 여기 네 브로치.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg16,,,0,0
+17709,PC,Player Character,"Well good. Now, how about some chatting?","잘 됐네요. 그럼, 대화를 좀 더 해볼까요?",m1q1a06tamo,,[지능 보통],,,0,0
+17710,PC,Player Character,"Good then. Now maybe we ""talk.""","좋아. 이제 우리 ""얘기"" 좀 하자?",m1q1a06tamo,,[지능 낮음],,,0,0
+66794,PC,Player Character,Hoff? Was he a half-Orc? He's already dead.,호프? 하프오크였어? 그는 이미 죽었어.,m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg13,,,0,0
+66795,PC,Player Character,"This Hoff guy, he half-orc? He dead.","호프라는 놈, 하프오크야? 죽었어.",m1q1a06tamo,m1s2c01tamoslg02,m1s2c01tamoclg15,,,0,0

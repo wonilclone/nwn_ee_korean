@@ -1,0 +1,36 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+15256,PC,Player Character,"Yes, please give me Helm's blessing.","네, 헬름의 축복을 주세요.",m1q02allhelm,,[지능 보통],,,0,0
+15257,PC,Player Character,"No thanks, but have you any other services?","괜찮아요, 다른 서비스는 있나요?",m1q02allhelm,,[지능 보통],,,0,0
+15258,PC,Player Character,No thanks. Carry on with your work.,괜찮아요. 일하세요.,m1q02allhelm,,[지능 보통],,,0,0
+15259,PC,Player Character,Could you answer some questions for me?,질문 몇 개 해도 될까요?,m1q02allhelm,,[지능 보통],,,0,0
+15260,PC,Player Character,Have you any other services?,다른 서비스가 있나요?,m1q02allhelm,,[지능 보통],,,0,0
+15261,PC,Player Character,"Thank you, that will be all.","고마워요, 됐어요.",m1q02allhelm,,[지능 보통],,,0,0
+15262,PC,Player Character,"<StartCheck>[Insight]</Start> Tell me about Desther, your superior.",<StartCheck>[통찰]</Start> 상급자인 데스터에 대해 말해주세요.,m1q02allhelm,,nw_d2_wis_intn,,,0,0
+15263,PC,Player Character,What does your holy symbol mean?,성물의 의미가 뭔가요?,m1q02allhelm,,[매력 중간/지능 중간],,,0,0
+15264,PC,Player Character,What do you know of the Wailing Death?,울부짖는 죽음 역병에 대해 뭘 알고 있죠?,m1q02allhelm,,[지능 보통],,,0,0
+15269,PC,Player Character,"Blessing? Yuh, that be good.","축복? 응, 그거 좋다.",m1q02allhelm,,[지능 낮음],,,0,0
+15270,PC,Player Character,No blessing. Me want stuff. You sell any?,축복 필요 없어. 나 물건 원해. 파는 거 있어?,m1q02allhelm,,[지능 낮음],,,0,0
+15271,PC,Player Character,"No, no. Me go now.","아냐, 아냐. 나 이제 가.",m1q02allhelm,,[지능 낮음],,,0,0
+15272,PC,Player Character,Me got questions.,나 질문 있어.,m1q02allhelm,,[지능 낮음],,,0,0
+15273,PC,Player Character,Me want stuff. You sell any?,나 물건 원해. 파는 거 있어?,m1q02allhelm,,[지능 낮음],,,0,0
+15274,PC,Player Character,Okay. Me go now.,좋아. 나 간다.,m1q02allhelm,,[지능 낮음],,,0,0
+15275,PC,Player Character,Me still want stuff. You sell any?,나 아직도 물건 원해. 파는 거 있어?,m1q02allhelm,,[지능 낮음],,,0,0
+15282,PC,Player Character,What services do you offer?,어떤 서비스를 제공하나요?,m1q02allhelm,,[지능 보통],,,0,0
+15283,PC,Player Character,What dat necklace all you priesties wear?,너희 신관들 다들 걸고 다니는 그 목걸이는 뭐지?,m1q02allhelm,,[매력 중간/지능 낮음],,,0,0
+15284,PC,Player Character,"Dat Wailing, dat plague stuff - what you know 'bout it?",그 울부짖는 죽음 역병-그거 뭐 알아?,m1q02allhelm,,[지능 낮음],,,0,0
+15285,PC,Player Character,What do you know about the prison riots?,감옥의 폭동에 대해 뭘 알고 있죠?,m1q02allhelm,,[지능 보통],,,0,0
+15286,PC,Player Character,What you know 'bout prison riots?,감옥 폭동에 대해 뭐 알아?,m1q02allhelm,,[지능 낮음],,,0,0
+56666,PC,Player Character,Me gots other questions.,나 다른 질문 있어.,m1q02allhelm,,[지능 낮음],,,0,0
+56667,PC,Player Character,I have some other questions.,다른 질문이 있어요.,m1q02allhelm,,[지능 보통],,,0,0
+56668,PC,Player Character,That mean you gots gold on yous?,그럼 너 금 가지고 있다는 거야?,m1q02allhelm,,[지능 낮음],,,0,0
+56669,PC,Player Character,"So you have gold on you, then?",그럼 금을 가지고 있다는 거군요?,m1q02allhelm,,[지능 보통],,,0,0
+56670,PC,Player Character,"Eh, no reason. Me ask other questions now, okay?","아, 이유 없어. 나 다른 질문 할게, 알았지?",m1q02allhelm,,[지능 낮음],,,0,0
+56671,PC,Player Character,No reason. Let's go back to some other questions.,이유 없어요. 다른 질문으로 돌아가죠.,m1q02allhelm,,[지능 보통],,,0,0
+56672,PC,Player Character,"You gives it, now! Me maybe kill you for it!",금 내놔! 나 그것 때문에 죽일지도 몰라!,m1q02allhelm,,[지능 낮음],,,0,0
+56673,PC,Player Character,Hand it over! I'll kill you for it!,내놔요! 그것 때문에 죽일 거예요!,m1q02allhelm,,[지능 보통],,,0,0
+56674,PC,Player Character,Me sorry. Me not really gonna hurt yous.,나 미안해. 나 진짜로 다치게 하려는 거 아니었어.,m1q02allhelm,,[지능 낮음],,,0,0
+56675,PC,Player Character,"Forgive me, I did not mean to actually harm you.","용서하세요, 정말로 해치려던 건 아니에요.",m1q02allhelm,,[지능 보통],,,0,0
+56676,PC,Player Character,Me serve Aribeth. Nobody balme me if you found dead!,나 아리베스 섬겨. 너 죽어 있어도 아무도 나 탓 안 해!,m1q02allhelm,m1q1_evil_set,[지능 낮음],,,0,0
+56677,PC,Player Character,I serve Aribeth. Nobody will blame me if you are found dead!,난 아리베스를 섬겨요. 당신이 죽어 있어도 아무도 날 탓하지 않을 거예요!,m1q02allhelm,m1q1_evil_set,[지능 보통],,,0,0
+56678,PC,Player Character,"Show what you gots, then.",너 가진 거 보여줘.,m1q02allhelm,m1_openstore_tpl,[지능 낮음],,,0,0
+56679,PC,Player Character,"Show me what you have, then.",가진 거 보여주세요.,m1q02allhelm,m1_openstore_tpl,[지능 보통],,,0,0

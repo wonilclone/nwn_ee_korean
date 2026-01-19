@@ -1,0 +1,354 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+10855,PC,Player Character,I want to change your tactics.,네 전술을 바꾸고 싶어.,nw_hen_dae,,[지능 보통],,,0,0
+10856,PC,Player Character,I think I'll do better off on my own.,혼자 하는 게 더 나을 것 같아.,nw_hen_dae,,[지능 보통],,,0,0
+10857,PC,Player Character,I want to change the distance you stay away from me.,나한테서 떨어져 있는 거리를 바꾸고 싶어.,nw_hen_dae,,,,,0,0
+10858,PC,Player Character [Follow: Close],Stay close.,가까이 따라와.,nw_hen_dae,nw_ch_dist_6,,[Follow: Close],,0,0
+10859,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,nw_hen_dae,nw_ch_dist_12,,[Follow: Medium],,0,0
+10860,PC,Player Character [Follow: Far],Stay a long distance away from me.,나에게서 먼 거리를 유지해.,nw_hen_dae,nw_ch_dist_18,,[Follow: Far],,0,0
+10861,PC,Player Character,Nevermind.,됐어.,nw_hen_dae,,,,,0,0
+10866,PC,Player Character,I want to change our agreement about when you heal me.,나를 언제 치유할지에 대한 약속을 바꾸고 싶어.,nw_hen_dae,,nw_ch_heal_0,,,0,0
+10867,PC,Player Character [Healing: 75% HP],Heal me when I drop below 75% of my total hit points.,총 생명력의 75% 이하로 떨어지면 치유해줘.,nw_hen_dae,nw_ch_heal_75,[지능 보통],[Healing: 75% HP],,0,0
+10868,PC,Player Character [Healing: 50% HP],Heal me when I drop below 50% of my total hit points.,총 생명력의 50% 이하로 떨어지면 치유해줘.,nw_hen_dae,nw_ch_heal_50,[지능 보통],[Healing: 50% HP],,0,0
+10869,PC,Player Character [Healing: 25% HP],Heal me when I drop below 25% of my total hit points.,총 생명력의 25% 이하로 떨어지면 치유해줘.,nw_hen_dae,nw_ch_heal_25,[지능 보통],[Healing: 25% HP],,0,0
+10870,PC,Player Character [Companion Settings],Stop searching all the time.,항상 수색하지 마.,nw_hen_dae,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+10871,PC,Player Character [Companion Settings],Search while we move.,움직이면서 수색해.,nw_hen_dae,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+10872,PC,Player Character [Companion Settings],Travel in stealth mode from now on.,이제부터 은신 모드로 이동해.,nw_hen_dae,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+10873,PC,Player Character [Companion Settings],Stop traveling in stealth mode.,은신 모드로 이동하지 마.,nw_hen_dae,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+10874,PC,Player Character [Companion Settings],Help me if I fail to open a locked door or chest.,내가 잠긴 문이나 상자를 여는 데 실패하면 도와줘.,nw_hen_dae,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+10875,PC,Player Character [Companion Settings],Don't help me if I fail to open a locked door or chest.,내가 잠긴 문이나 상자를 여는 데 실패해도 돕지 마.,nw_hen_dae,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+10876,PC,Player Character,I don't want to change anything else right now.,지금은 더 바꿀 건 없어.,nw_hen_dae,,,,,0,0
+10877,PC,Player Character → Daelan Red Tiger (Barbarian),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 100.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 100 줄게.,nw_hen_dae,,nw_d2_henchmen03,→ Daelan Red Tiger (Barbarian),,0,0
+10878,PC,Player Character,We need change way you do stuff.,"우리, 네가 하는 방식 바꿔야 해.",nw_hen_dae,,[지능 낮음],,,0,0
+10879,PC,Player Character,Me no want you here no more.,나 너 더 이상 여기 필요 없어.,nw_hen_dae,,[지능 낮음],,,0,0
+10880,PC,Player Character → Grimgnaw (Monk),<StartCheck>[Persuade]</Start> That seem high. Me give 100 only.,<StartCheck>[설득]</Start> 그거 높아 보여. 나 100만 줘.,nw_hen_dae,,nw_d2_henchmen04,→ Grimgnaw (Monk),,0,0
+10881,PC,Player Character → Tomi Undergallows (Rogue),"I could use a good fighter. Here's your 150 gold. Welcome aboard, Daelan.","훌륭한 전사가 필요해. 여기 금화 150개야. 환영해, 데란.",nw_hen_dae,nw_d1_henchmen01,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+10882,PC,Player Character → Linu La'neral (Cleric),"Here be you 150 gold. Now you be me slave, Daelan.","여기 네 금화 150개야. 이제 너 내 노예야, 데란.",nw_hen_dae,nw_d1_henchmen01,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+10883,PC,Player Character,I'll be going now.,이만 가 볼게.,nw_hen_dae,,[지능 보통],,,0,0
+10884,PC,Player Character,Me go now.,"나, 이제 간다.",nw_hen_dae,,[지능 낮음],,,0,0
+10885,PC,Player Character → Boddyknock Glinckle (Sorcerer),125? Deal.,125? 좋아.,nw_hen_dae,nw_d1_henchmen03,nw_d2_henchmen05,→ Boddyknock Glinckle (Sorcerer),,0,0
+10886,PC,Player Character → Sharwyn (Bard),"I could use a good fighter. Here's your 200 gold. Welcome aboard, Daelan.","훌륭한 전사가 필요해. 여기 금화 200개야. 환영해, 데란.",nw_hen_dae,nw_d1_henchmen04,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+10887,PC,Player Character → Tomi Undergallows (Rogue),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 150.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 150 줄게.,nw_hen_dae,,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+10888,PC,Player Character,"Here be 200 gold. Now you be me slave, Daelan.","여기 금화 200. 이제 너 내 노예, 데란.",nw_hen_dae,nw_d1_henchmen04,nw_d2_henchmen08,,,0,0
+10889,PC,Player Character → Linu La'neral (Cleric),<StartCheck>[Persuade]</Start> That seem high. Me give 150 only.,<StartCheck>[설득]</Start> 그거 높아 보여. 나 150만 줘.,nw_hen_dae,,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+10890,PC,Player Character,"I could use a good fighter. Here's your 250 gold. Welcome aboard, Daelan.","쓸만한 전사가 필요해. 여기 금화 250. 합류해, 데란.",nw_hen_dae,nw_d1_henchmen06,nw_d2_henchmen09,,,0,0
+10891,PC,Player Character → Sharwyn (Bard),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 200.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 200 줄게.,nw_hen_dae,,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+10892,PC,Player Character,"Here be 250 gold. Now you be me slave, Daelan.","여기 금화 250. 이제 너 내 노예, 데란.",nw_hen_dae,nw_d1_henchmen06,nw_d2_henchmen11,,,0,0
+10893,PC,Player Character,<StartCheck>[Persuade]</Start> That seem high. Me give 200 only.,<StartCheck>[설득]</Start> 너무 비싸. 200만 줄게.,nw_hen_dae,,nw_d2_henchmen08,,,0,0
+10894,PC,Player Character,175? Deal.,175? 좋아.,nw_hen_dae,nw_d1_henchmen05,nw_d2_henchmen07,,,0,0
+10895,PC,Player Character,225? Deal.,225? 좋아.,nw_hen_dae,nw_d1_henchmen07,nw_d2_henchmen10,,,0,0
+10896,PC,Player Character,You change how far away you stay.,"너, 나랑 떨어지는 거리 바꿔.",nw_hen_dae,,,,,0,0
+10898,PC,Player Character,You need change how you heal me.,"너, 나 치유하는 거 바꿔.",nw_hen_dae,,nw_ch_heal_0,,,0,0
+10899,PC,Player Character [Companion Settings],You not search all time no more.,너 이제 항상 수색하지 마.,nw_hen_dae,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+10900,PC,Player Character [Companion Settings],You search all time when we move.,우리 움직일 때 항상 수색해.,nw_hen_dae,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+10901,PC,Player Character [Companion Settings],You stop sneaking so quiet now.,너 이제 조용히 잠입하지 마.,nw_hen_dae,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+10902,PC,Player Character [Companion Settings],You start sneak quiet now.,너 이제 조용히 잠입해.,nw_hen_dae,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+10903,PC,Player Character [Companion Settings],If me fail on locked door or chest you help me.,나 잠긴 문이나 상자 실패하면 너 나 도와줘.,nw_hen_dae,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+10904,PC,Player Character [Companion Settings],If me fail on locked door or chest you not help me.,나 잠긴 문이나 상자 실패해도 너 나 돕지 마.,nw_hen_dae,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+10905,PC,Player Character,Me not want change anything else now.,"나, 더 이상 바꾸기 싫어.",nw_hen_dae,,,,,0,0
+10909,PC,Player Character [Healing: 75% HP],You heal if me sort of hurt (below 75% of total hit points).,나 좀 다치면 너 치유해 (총 생명력의 75% 이하).,nw_hen_dae,nw_ch_heal_75,[지능 낮음],[Healing: 75% HP],,0,0
+10910,PC,Player Character [Healing: 50% HP],You heal if me wounded (below 50% of total hit points).,나 부상당하면 너 치유해 (총 생명력의 50% 이하).,nw_hen_dae,nw_ch_heal_50,[지능 낮음],[Healing: 50% HP],,0,0
+10911,PC,Player Character [Healing: 25% HP],You heal if me hurt real bad (below 25% of total hit points).,나 진짜 심하게 다치면 너 치유해 (총 생명력의 25% 이하).,nw_hen_dae,nw_ch_heal_25,[지능 낮음],[Healing: 25% HP],,0,0
+10912,PC,Player Character,Yes. Go.,좋아. 가.,nw_hen_dae,,,,,0,0
+10913,PC,Player Character,No. Stay.,아니. 있어.,nw_hen_dae,,,,,0,0
+10914,PC,Player Character,I don't have that kind of gold to spend on a henchman.,그 정도 금화를 동료에게 쓸 순 없어.,nw_hen_dae,,[지능 보통],,,0,0
+10915,PC,Player Character,Me not got that much gold for spend on you.,나 너한테 쓸 금화 그만큼 없어.,nw_hen_dae,,[지능 낮음],,,0,0
+10916,PC,Player Character,Who are you?,당신은 누구야?,nw_hen_dae,,[지능 보통],,,0,0
+10917,PC,Player Character,I don't feel like talking right now. Goodbye.,지금은 말하기 싫어. 그럼 이만.,nw_hen_dae,,[지능 보통],,,0,0
+10918,PC,Player Character,What did you mean about the docks getting 'worse'?,항만이 '더 나빠졌다'는 게 무슨 뜻이야?,nw_hen_dae,,[지능 보통],,,0,0
+10919,PC,Player Character,I'm looking for a good mercenary to help me in my mission. ,내 임무를 도와줄 쓸만한 용병을 찾고 있어.,nw_hen_dae,,[지능 보통],,,0,0
+10920,PC,Player Character,I work for Lady Aribeth. I have been instructed to find several missing creatures that are ingredients for a plague cure.,나는 아리베스 경을 위해 일해. 울부짖는 죽음 역병 치료제의 재료가 되는 실종된 생명체들을 찾으라는 지시를 받았어.,nw_hen_dae,,[지능 보통],,,0,0
+10921,PC,Player Character,I work for Lady Aribeth. My mission is confidential. ,나는 아리베스 경을 위해 일해. 내 임무는 기밀이야.,nw_hen_dae,,[지능 보통],,,0,0
+10922,PC,Player Character,Anything else you can tell me about the docks?,항만에 대해 더 말해 줄 게 있어?,nw_hen_dae,,[지능 보통],,,0,0
+10923,PC,Player Character,"Actually, I'm looking for some hired help to assist me on my mission. ",사실은 내 임무를 도와줄 사람을 고용하려고 해.,nw_hen_dae,,[지능 보통],,,0,0
+10924,PC,Player Character,No thanks. Goodbye. ,"아니, 됐어. 그럼 이만.",nw_hen_dae,,[지능 보통],,,0,0
+10925,PC,Player Character,I want to ask you some questions. ,몇 가지 물어보고 싶어.,nw_hen_dae,,[지능 보통],,,0,0
+10926,PC,Player Character,"Well, I wasn't acting alone. Aribeth and the other city guard did as much as I. ","글쎄, 나 혼자 한 건 아니야. 아리베스랑 다른 도시 경비들도 나만큼이나 했지.",nw_hen_dae,,[지능 보통],,,0,0
+10927,PC,Player Character,"Yes, that would be me. ","그래, 그게 바로 나야.",nw_hen_dae,,[지능 보통],,,0,0
+10928,PC,Player Character,Who you be?,너 누구?,nw_hen_dae,,[지능 낮음],,,0,0
+10929,PC,Player Character,Me not wanna talk. Goodbye. ,나 말하기 싫어. 그럼 이만.,nw_hen_dae,,[지능 낮음],,,0,0
+10930,PC,Player Character,What you mean 'bout docks get 'worse'?,항만 더 '나빠졌다'는 말 무슨 뜻이야?,nw_hen_dae,,[지능 낮음],,,0,0
+10931,PC,Player Character,Me looking for mercenary to help on mission.,나 임무 도와줄 용병 찾는 중.,nw_hen_dae,,[지능 낮음],,,0,0
+10932,PC,Player Character,You hear 'bout other stuff happening at docks?,항만에서 일어나는 다른 일 들었어?,nw_hen_dae,,[지능 낮음],,,0,0
+10933,PC,Player Character,Me looking for help in me mission.,나 임무 도와줄 사람 찾는 중.,nw_hen_dae,,[지능 낮음],,,0,0
+10934,PC,Player Character,Me go now.,"나, 이제 간다.",nw_hen_dae,,[지능 낮음],,,0,0
+10935,PC,Player Character,Me work for lady Aribeth. Me looking for creatures. They important. They cure plague. ,나 아리베스 경 위해 일해. 생명체들 찾는 중. 중요해. 그거 역병 고쳐.,nw_hen_dae,,[지능 낮음],,,0,0
+10936,PC,Player Character,Me working for lady Aribeth. Can't tell you me mission. It secret. ,나 아리베스 경 위해 일해. 임무 못 말해. 비밀이야.,nw_hen_dae,,[지능 낮음],,,0,0
+10937,PC,Player Character,Me want to ask questions.,나 질문 하고 싶어.,nw_hen_dae,,[지능 낮음],,,0,0
+10938,PC,Player Character,Me have lots of help! Aribeth and... Aribeth... and... nevermind.,나한테 도와주는 사람 많아! 아리베스랑... 아리베스... 그리고... 됐다.,nw_hen_dae,,[지능 낮음],,,0,0
+10939,PC,Player Character,Me greatest one there is! Me save city!,나 최고야! 나 도시 구해!,nw_hen_dae,,[지능 낮음],,,0,0
+10940,PC,Player Character,So you're working for Aribeth?,그럼 아리베스를 위해 일하는 거야?,nw_hen_dae,,[지능 보통],,,0,0
+10941,PC,Player Character,Goodbye.,그럼 이만.,nw_hen_dae,,,,,0,0
+10942,PC,Player Character,You work for Aribeth? Me work for Aribeth too! ,너 아리베스 위해 일해? 나도 아리베스 위해 일해!,nw_hen_dae,,[지능 낮음],,,0,0
+10943,PC,Player Character,"(Sluuurp) Oops, me sorry. So how you get hired by Aribeth?","(후루룩) 어, 미안. 그래서 너 아리베스한테 어떻게 고용됐어?",nw_hen_dae,,,,,0,0
+10944,PC,Player Character,"If you're so interested in vengeance, why are you standing around here?","그렇게 복수에 관심이 많다면, 왜 여기 서 있는 거지?",nw_hen_dae,,[지능 보통],,,0,0
+10945,PC,Player Character,"If you want kill cult, why you stand around here?","사교 죽이고 싶다면서, 왜 여기 서 있어?",nw_hen_dae,,[지능 낮음],,,0,0
+10946,PC,Player Character,I wouldn't mind an extra fighter. You're in. ,전사가 하나 더 있어도 나쁘지 않지. 합류해.,nw_hen_dae,,[지능 보통],,,0,0
+10947,PC,Player Character,"Sorry, but I'm not interested. Goodbye.",미안하지만 관심 없어. 그럼 이만.,nw_hen_dae,,[지능 보통],,,0,0
+10948,PC,Player Character,Me need another fight man. You in. ,나 싸움 잘하는 사람 하나 더 필요해. 너 들어와.,nw_hen_dae,,[지능 낮음],,,0,0
+10949,PC,Player Character,"Sorry, me not interested. ","미안, 나 관심 없어.",nw_hen_dae,,[지능 낮음],,,0,0
+10950,PC,Player Character,Have you heard any rumors about the cult since you've come here?,여기에 온 뒤로 그 사교에 대한 소문을 들은 거 있어?,nw_hen_dae,,[지능 보통],,,0,0
+10951,PC,Player Character,You hear any stuff about cult? Me looking for clues. ,사교 얘기 들은 거 있어? 나 단서 찾는 중.,nw_hen_dae,,[지능 낮음],,,0,0
+10952,PC,Player Character,Luskan?,러스칸?,nw_hen_dae,,,,,0,0
+10953,PC,Player Character,So are you going to look into it some more?,그걸 더 조사해 볼 거야?,nw_hen_dae,,[지능 보통],,,0,0
+10954,PC,Player Character,So why are you standing around here? Shouldn't you be out scouring the north for this cult?,그럼 왜 여기 서 있는 거지? 그 사교를 찾아 북쪽을 뒤져야 하는 거 아니야?,nw_hen_dae,,[지능 보통],,,0,0
+10955,PC,Player Character,You gonna try to find out more stuff about the cult and Luskan?,사교랑 러스칸에 대해 더 알아보려는 거야?,nw_hen_dae,,[지능 낮음],,,0,0
+10956,PC,Player Character,Why you stand around here? You supposed to be looking for cult.,왜 여기 서 있어? 너 사교 찾으러 가야 해.,nw_hen_dae,,[지능 낮음],,,0,0
+10957,PC,Player Character,I'd like you to level up. You'd be more useful to me with a little training. ,레벨업했으면 해. 조금만 훈련하면 내게 더 도움이 될 거야.,nw_hen_dae,,nw_ch_check_38,,,0,0
+10958,PC,Player Character,Me want you to level up. You be better with training. ,나 너 레벨업 원해. 훈련하면 더 좋아.,nw_hen_dae,,nw_ch_check_39,,,0,0
+10959,PC,Player Character,I just want to talk for a while. ,잠깐 얘기나 하고 싶어.,nw_hen_dae,,nw_ch_check_43,,,0,0
+10960,PC,Player Character,Me just wanna talk. ,나 그냥 얘기만 할래.,nw_hen_dae,,nw_ch_check_44,,,0,0
+10961,PC,Player Character,"If you're going to be my henchman, I'd like to know more about you. ","내 동료가 될 거라면, 너에 대해 더 알고 싶어.",nw_hen_dae,,nw_ch_check_1,,,0,0
+10962,PC,Player Character,I want you to continue your story from before.,아까 하던 이야기 이어 줘.,nw_hen_dae,,nw_ch_check_3,,,0,0
+10963,PC,Player Character,Nevermind.,됐어.,nw_hen_dae,,,,,0,0
+10964,PC,Player Character,Me wanna know you better. Me think that important. ,나 너 더 알고 싶어. 그거 중요해.,nw_hen_dae,,nw_ch_check_2,,,0,0
+10965,PC,Player Character,Me want you continue you story from before. ,나 너 아까 하던 이야기 계속해.,nw_hen_dae,,nw_ch_check_4,,,0,0
+10966,PC,Player Character,I have seen too much death and suffering from the plague to stand idly by.,"그 역병으로 인한 죽음과 고통을 너무 많이 봐서, 더는 가만히 있을 수 없어.",nw_hen_dae,,[지능 보통],,,0,0
+10967,PC,Player Character,In times of darkness great heroes must do great deeds. It is how legends are forged.,어둠의 때엔 위대한 영웅이 위업을 이루어야 하지. 그렇게 전설이 탄생하는 법이야.,nw_hen_dae,,[지능 보통],,,0,0
+10968,PC,Player Character,Aribeth has promised me gold and riches if I can help her in this.,아리베스가 이 일에 협력하면 금화와 부를 약속했어.,nw_hen_dae,,[지능 보통],,,0,0
+10969,PC,Player Character,Don't worry Daelan. Stick with me and the bards will sing your praises.,"걱정 마, 데란. 나만 믿고 따라와. 음유시인들이 네 찬가를 부르게 해 줄게.",nw_hen_dae,,[지능 보통],,,0,0
+10970,PC,Player Character,Those days are over. You work for me now! Don't forget it!,그 시절은 끝났어. 이제 넌 내 밑에서 일해! 잊지 마!,nw_hen_dae,,[지능 보통],,,0,0
+10971,PC,Player Character,"You not worry, Daelan. You stick with me and bards be singing songs 'bout we two!","넌 걱정 말라, 데란. 나랑 같이 다니면 음유시인들이 우리 둘 노래 부를 거야!",nw_hen_dae,,[지능 낮음],,,0,0
+10972,PC,Player Character,You not think 'bout that no more! Now you be work for me!,그 생각 더는 하지 마! 이제부터 넌 내 밑에서 일해!,nw_hen_dae,,[지능 낮음],,,0,0
+10973,PC,Player Character,Is this the brooch you were talking about?,네가 말하던 그 브로치가 이거야?,nw_hen_dae,,nw_ch_check_8,,,0,0
+10974,PC,Player Character,If I find it I'll let you know.,찾으면 알려 줄게.,nw_hen_dae,,[지능 보통],,,0,0
+10975,PC,Player Character,Me found brooch! Is this your mother's brooch?,나 브로치 찾았어! 이게 네 어머니 브로치야?,nw_hen_dae,,nw_ch_check_9,,,0,0
+10976,PC,Player Character,If me find it me let you know.,나 찾으면 너한테 말해 줄게.,nw_hen_dae,,[지능 낮음],,,0,0
+10977,PC,Player Character,If we're to be adventuring companions I'd like to know a little more about you.,"우리가 함께 모험할 거라면, 너에 대해 조금 더 알고 싶어.",nw_hen_dae,,nw_ch_check_10,,,0,0
+10978,PC,Player Character,"I'd like you to continue your story from before, Daelan. ","데란, 전에 하던 이야기 이어서 해줘.",nw_hen_dae,,nw_ch_check_12,,,0,0
+10979,PC,Player Character,"If we be travel together, me want know more 'bout you.","우리 같이 다닐 거면, 나 너 더 알고 싶어.",nw_hen_dae,,nw_ch_check_11,,,0,0
+10980,PC,Player Character,Me want you keep talking 'bout story you start before.,나 너 아까 시작한 이야기 계속 말해 줘.,nw_hen_dae,,nw_ch_check_13,,,0,0
+10981,PC,Player Character,I wouldn't mind knowing your thoughts on Aribeth's betrayal. Why do you think she did it?,아리베스의 배신에 대한 네 생각을 듣고 싶어. 왜 그런 일을 했다고 보지?,nw_hen_dae,,nw_ch_check_19,,,0,0
+10982,PC,Player Character,I want you to continue your story from before. ,아까 하던 이야기 이어 줬으면 해.,nw_hen_dae,,nw_ch_check_21,,,0,0
+10983,PC,Player Character,Me want to know what you think about Aribeth betraying everyone. Why she do it?,나 너 아리베스가 모두를 배신한 거 어떻게 생각하는지 알고 싶어. 왜 그랬을까?,nw_hen_dae,,nw_ch_check_20,,,0,0
+10984,PC,Player Character,Me want you to continue you story from before.,나 너 아까 하던 이야기 계속해 줘.,nw_hen_dae,,nw_ch_check_22,,,0,0
+10985,PC,Player Character,Tell me about the Uthgardt. About your customs and traditions.,우스가르트에 대해 말해 줘. 풍습과 전통 같은 것들 말이야.,nw_hen_dae,,[지능 보통],,,0,0
+10986,PC,Player Character,What was it like for you growing up?,넌 자라면서 어땠어?,nw_hen_dae,,[지능 보통],,,0,0
+10987,PC,Player Character,Why did you go to Luskan?,왜 러스칸으로 갔던 거지?,nw_hen_dae,,[지능 보통],,,0,0
+10988,PC,Player Character,This axe has a notched blade. Is this the one you saw in your vision?,"이 도끼, 날이 이가 패였어. 네가 환상에서 본 그 도끼가 이거야?",nw_hen_dae,,nw_ch_check_17,,,0,0
+10989,PC,Player Character,"Don't worry, we'll find the axe... and the killer who used it!","걱정 마, 우리가 그 도끼를... 그리고 그걸 쓴 살인범도 찾아낼 거야!",nw_hen_dae,,[지능 보통],,,0,0
+10990,PC,Player Character,Just don't let this get in the way of your other duties.,다른 임무에 지장 주지 않도록 해.,nw_hen_dae,,[지능 보통],,,0,0
+10991,PC,Player Character,Me got axe with notched blade. This be axe from you dream?,나 이빨 난 날 가진 도끼 갖고 있어. 이게 네 꿈에서 본 도끼야?,nw_hen_dae,,nw_ch_check_18,,,0,0
+10992,PC,Player Character,You not worry. We find axe and killer who use it!,너 걱정 마. 우리 도끼랑 그거 쓴 살인자도 찾을 거야!,nw_hen_dae,,[지능 낮음],,,0,0
+10993,PC,Player Character,What do you think her reason is?,그녀가 그런 일을 한 이유가 뭐라고 생각해?,nw_hen_dae,,[지능 보통],,,0,0
+10994,PC,Player Character,What are you talking about? They never turned her out!,무슨 소리를 하는 거야? 그들이 그녀를 내쫓은 적은 없어!,nw_hen_dae,,[지능 보통],,,0,0
+10995,PC,Player Character,I have a spear here. Is this Uthgar's Spear?,여기 창이 있어. 이게 우스가의 창이야?,nw_hen_dae,,nw_ch_check_26,,,0,0
+10996,PC,Player Character,"Don't worry, Daelan. We'll find Uthgar's Spear. I promise.","걱정 마, 데란. 우스가의 창을 찾을 거야. 약속할게.",nw_hen_dae,,[지능 보통],,,0,0
+10997,PC,Player Character,Me got spear here. Maybe this be what you look for.,나 창 있어. 아마 네가 찾는 그거일지도.,nw_hen_dae,,nw_ch_check_27,,,0,0
+10998,PC,Player Character,You not worry Daelan. We find spear. Me promise.,"너 걱정 마, 데란. 우리 창 찾는다. 나 약속해.",nw_hen_dae,,[지능 낮음],,,0,0
+10999,PC,Player Character,You again? Are you following me like some kind of pathetic lost puppy?,또 너야? 한심한 길 잃은 강아지처럼 날 따라다니는 거냐?,nw_hen_dae,,[지능 보통],,,0,0
+11000,PC,Player Character,"I'm surprised to see you here, Daelan.","여기서 보게 될 줄은 몰랐네, 데란.",nw_hen_dae,,[지능 보통],,,0,0
+11001,PC,Player Character,So you were conscripted into service by Aribeth?,그럼 아리베스한테 징집된 거야?,nw_hen_dae,,[지능 보통],,,0,0
+11002,PC,Player Character,How much would it cost to hire your services?,널 고용하려면 얼마가 필요하지?,nw_hen_dae,,[지능 보통],,,0,0
+11003,PC,Player Character,Goodbye.,그럼 이만.,nw_hen_dae,,,,,0,0
+11004,PC,Player Character [Companion Settings],I could use a good fighter by my side.,내 곁에 훌륭한 전사가 있으면 좋겠어.,nw_hen_dae,nw_ch_check46,[지능 보통],[Companion Settings],,0,0
+11005,PC,Player Character,Do you have any information on the cult behind the Wailing Death?,울부짖는 죽음 역병 배후의 사교에 대해 아는 게 있나?,nw_hen_dae,,[지능 보통],,,0,0
+11006,PC,Player Character,I don't need anything right now.,지금 필요한 건 없어.,nw_hen_dae,,[지능 보통],,,0,0
+11007,PC,Player Character,I did my duty. ,내 임무를 다했어.,nw_hen_dae,,[지능 보통],,,0,0
+11008,PC,Player Character,"I know, I'm great. What can I say?","알지, 내가 대단하잖아. 뭐라 더 하겠어?",nw_hen_dae,,[지능 보통],,,0,0
+11009,PC,Player Character,Me do duty. ,나 임무 했어.,nw_hen_dae,,[지능 낮음],,,0,0
+11010,PC,Player Character,Me am so great! Me am so great!,나 진짜 최고! 나 진짜 최고!,nw_hen_dae,,[지능 낮음],,,0,0
+11011,PC,Player Character,So you're working for Aarin Gend?,그럼 아린 겐드를 위해 일하는 거야?,nw_hen_dae,,[지능 보통],,,0,0
+11012,PC,Player Character,You work for Aarin Gend? Me work for Aarin too!,너 아린 겐드 위해 일해? 나도 아린 위해 일해!,nw_hen_dae,,[지능 낮음],,,0,0
+11013,PC,Player Character,Goodbye. ,그럼 이만.,nw_hen_dae,,,,,0,0
+11014,PC,Player Character,Have you heard any rumors as to where the Words could be?,권능의 언령이 어디 있을지에 대한 소문 들은 거 있어?,nw_hen_dae,,[지능 보통],,,0,0
+11015,PC,Player Character,Why are you standing around here? Shouldn't you be looking for these Words? ,왜 여기 서 있어? 그 언령들을 찾아야 하는 거 아니야?,nw_hen_dae,,[지능 보통],,,0,0
+11016,PC,Player Character,You heard any rumors about where Words be? Me want to find them. ,언령 어디 있는지 소문 들었어? 나 그거 찾고 싶어.,nw_hen_dae,,[지능 낮음],,,0,0
+11017,PC,Player Character,Why you stand here? You should look for Words. ,왜 여기 서 있어? 너 언령 찾아야 해.,nw_hen_dae,,[지능 낮음],,,0,0
+11018,PC,Player Character [Companion Settings],I could use some extra muscle in my search for the Words.,권능의 언령을 찾는 데 추가 힘이 필요해.,nw_hen_dae,nw_ch_check46,[지능 보통],[Companion Settings],,0,0
+11019,PC,Player Character,"Sorry, I'm not interested. ",미안하지만 관심 없어.,nw_hen_dae,,[지능 보통],,,0,0
+11020,PC,Player Character [Companion Settings],You look like tough guy. Me could use you in me search for Power Words.,너 강한 사람 같아 보여. 나 권능의 언령 찾는 데 너 필요해.,nw_hen_dae,nw_ch_check46,[지능 낮음],[Companion Settings],,0,0
+11021,PC,Player Character,Me not like you. ,나 너 안 좋아.,nw_hen_dae,,[지능 낮음],,,0,0
+11022,PC,Player Character,"It is good to see you again, Daelan Red Tiger.","다시 만나 반갑군, 붉은 호랑이 데란.",nw_hen_dae,,[지능 보통],,,0,0
+11023,PC,Player Character,I'm getting sick of seeing your ugly mug every time I turn around!,고개 돌릴 때마다 네 추한 낯짝 보는 것도 이젠 지긋지긋하군!,nw_hen_dae,,[지능 보통],,,0,0
+11024,PC,Player Character,"Do you know anything about the Words of Power, Daelan?","데란, 권능의 언령에 대해 아는 게 있어?",nw_hen_dae,,[지능 보통],,,0,0
+11025,PC,Player Character [Companion Settings],"I would be honored to have you join up with me again, Daelan.","다시 함께하게 되면 영광이야, 데란.",nw_hen_dae,nw_ch_check46,[지능 보통],[Companion Settings],,0,0
+11026,PC,Player Character,I don't need any help right now.,지금은 도움이 필요 없어.,nw_hen_dae,,[지능 보통],,,0,0
+11027,PC,Player Character [Companion Settings],Yes. ,좋아.,nw_hen_dae,nw_ch_check46,,[Companion Settings],,0,0
+11028,PC,Player Character,"No, not now. ","아니, 지금은 안 돼.",nw_hen_dae,,,,,0,0
+11029,PC,Player Character [Companion Settings],Yes.,좋아.,nw_hen_dae,nw_ch_check46,,[Companion Settings],,0,0
+11030,PC,Player Character,No. ,아니.,nw_hen_dae,,,,,0,0
+11031,PC,Player Character,Why would an Uthgardt tribesman come to the city?,우스가르트 부족 사람이 왜 도시에 온 거지?,nw_hen_dae,,[지능 보통],,,0,0
+11032,PC,Player Character,"I'm sorry, but I don't know much about the Uthgardt tribes.","미안하지만, 우스가르트 부족에 대해선 잘 몰라.",nw_hen_dae,,[지능 보통],,,0,0
+11033,PC,Player Character,Why Uthgardt come to city?,왜 우스가르트가 도시 오지?,nw_hen_dae,,[지능 낮음],,,0,0
+11034,PC,Player Character,Uthgardt tribes? Me not know 'bout them.,우스가르트 부족? 나 잘 몰라.,nw_hen_dae,,[지능 낮음],,,0,0
+11035,PC,Player Character,Then what happened?,그다음엔 어떻게 됐지?,nw_hen_dae,,[지능 보통],,,0,0
+11036,PC,Player Character,What happen next?,그다음에 뭐 됐어?,nw_hen_dae,,[지능 낮음],,,0,0
+11037,PC,Player Character,You're quite well spoken for a half-orc.,하프오크치고는 말을 꽤 잘하는군.,nw_hen_dae,,[지능 보통],,,0,0
+11038,PC,Player Character,You talk real good for half-orc.,"너, 하프오크치곤 말 진짜 잘해.",nw_hen_dae,,[지능 낮음],,,0,0
+11039,PC,Player Character,Me see lots people die. Me not like it. Me want help them.,나 사람들 많이 죽는 거 봤어. 싫어. 나 도와주고 싶어.,nw_hen_dae,,[지능 낮음],,,0,0
+11040,PC,Player Character,Neverwinter need hero to save it. If me save Neverwinter then me be hero.,네버윈터는 구할 영웅 필요해. 내가 네버윈터 구하면 나 영웅 돼.,nw_hen_dae,,[지능 낮음],,,0,0
+11041,PC,Player Character,Me get lots gold if me help Neverwinter!,나 네버윈터 도우면 금화 많이 받는다!,nw_hen_dae,,[지능 낮음],,,0,0
+11042,PC,Player Character,Exile? Shame of your father's blood? What are you talking about?,추방? 네 아버지의 혈통이 수치라고? 무슨 소리를 하는 거지?,nw_hen_dae,,[지능 보통],,,0,0
+11043,PC,Player Character,Exile? Shame of you father? What you be talk about?,추방? 네 아버지 수치? 너 무슨 말 하는 거야?,nw_hen_dae,,[지능 낮음],,,0,0
+11044,PC,Player Character,"No, Daelan. Tell me what you were talking about. I want to hear it.","아니, 데란. 아까 하던 말 계속해 줘. 듣고 싶어.",nw_hen_dae,,[지능 보통],,,0,0
+11045,PC,Player Character,It better not. I need you to stay focused and follow my orders!,그러지 않는 게 좋겠군. 넌 집중해서 내 명령을 따라야 해!,nw_hen_dae,,[지능 보통],,,0,0
+11046,PC,Player Character,"It okay, Daelan. Me want know what you talking about.","괜찮아, 데란. 네가 무슨 말 하는지 알고 싶어.",nw_hen_dae,,[지능 낮음],,,0,0
+11047,PC,Player Character,It better not be happen again! Me want you pay attention to me orders!,다시 그러면 안 돼! 내 명령 잘 들어!,nw_hen_dae,,[지능 낮음],,,0,0
+11048,PC,Player Character,"Cork it, Daelon! The last thing I need is your problems dumped on me!","닥쳐, 데란! 내게 네 문제 떠넘기는 건 사양이야!",nw_hen_dae,,[지능 보통],,,0,0
+11049,PC,Player Character,Why you tell this at me? Me no care 'bout you problems.,왜 나한테 이런 말해? 나 네 문제 관심 없어.,nw_hen_dae,,[지능 낮음],,,0,0
+11050,PC,Player Character,Did they hate you so much just because you were different?,다르다는 이유만으로 너를 그렇게 미워했던 거야?,nw_hen_dae,,[지능 보통],,,0,0
+11051,PC,Player Character,What about your father?,네 아버지는?,nw_hen_dae,,[지능 보통],,,0,0
+11052,PC,Player Character,Why did they finally exile you?,결국 왜 널 추방한 거지?,nw_hen_dae,,[지능 보통],,,0,0
+11053,PC,Player Character,Them hate you just 'cause you different?,걔네 너 다르다고 그렇게 미워했어?,nw_hen_dae,,[지능 낮음],,,0,0
+11054,PC,Player Character,What about you daddy?,너 아빠는?,nw_hen_dae,,[지능 낮음],,,0,0
+11055,PC,Player Character,Why them finally exile you?,왜 걔네 결국 너 추방했어?,nw_hen_dae,,[지능 낮음],,,0,0
+11056,PC,Player Character,What do you mean?,무슨 뜻이지?,nw_hen_dae,,[지능 보통],,,0,0
+11057,PC,Player Character,What you mean?,무슨 뜻이야?,nw_hen_dae,,[지능 낮음],,,0,0
+11058,PC,Player Character,That's horrible! They had no right to do that!,끔찍하군! 그럴 권리는 없었어!,nw_hen_dae,,[지능 보통],,,0,0
+11059,PC,Player Character,Can't say I blame them. I'd have done the same thing.,그들을 탓하긴 어렵군. 나라도 똑같이 했을 거야.,nw_hen_dae,,[지능 보통],,,0,0
+11060,PC,Player Character,"Someday you'll prove yourself, and they'll learn to accept you.","언젠가 네가 스스로를 증명하면, 그들도 널 받아들이게 될 거야.",nw_hen_dae,,[지능 보통],,,0,0
+11061,PC,Player Character,You're better off without those bigots!,그 편협한 자들 없이 지내는 게 오히려 나아!,nw_hen_dae,,[지능 보통],,,0,0
+11062,PC,Player Character,That not right! They mean to you for no reason!,그건 안 돼! 걔네 이유 없이 너한테 못됐어!,nw_hen_dae,,[지능 낮음],,,0,0
+11063,PC,Player Character,You not worry. Someday you prove youself and they take you back.,걱정 마. 언젠가 네가 자신 증명하면 걔네가 너 다시 받아줄 거야.,nw_hen_dae,,[지능 낮음],,,0,0
+11064,PC,Player Character,You not need them jerks!,걔네 같은 놈들 필요 없어!,nw_hen_dae,,[지능 낮음],,,0,0
+11065,PC,Player Character,Me not blame them. Me do same thing.,나 걔네 탓 안 해. 나도 똑같이 했을 거야.,nw_hen_dae,,[지능 낮음],,,0,0
+11066,PC,Player Character,"I want to help you, Daelan.","널 돕고 싶어, 데란.",nw_hen_dae,,[지능 보통],,,0,0
+11067,PC,Player Character,"Just tell me how you have to prove yourself to the tribe, and we'll do it.",부족에게 어떻게 스스로를 증명해야 하는지 말해 줘. 같이 해보자.,nw_hen_dae,,[지능 보통],,,0,0
+11068,PC,Player Character,"Good. I'm paying you to kill monsters, not drag up painful childhood memories.","좋아. 난 네게 괴물 잡으라고 돈을 주는 거지, 아픈 어린 시절을 끄집어내라 준 게 아니야.",nw_hen_dae,,[지능 보통],,,0,0
+11069,PC,Player Character,"Me want help you, Daelan.","나 너 도와주고 싶어, 데란.",nw_hen_dae,,[지능 낮음],,,0,0
+11070,PC,Player Character,"You tell me how you prove youself to tribe, and me help you do it.",너 부족에 어떻게 자신 증명하는지 말해. 나 그거 도와줄게.,nw_hen_dae,,[지능 낮음],,,0,0
+11071,PC,Player Character,Good. Me not paying you to be big baby! You here to fight monsters and stuff!,좋아. 나 너한테 칭얼대라고 돈 주는 거 아냐! 너 여기서 괴물 같은 거랑 싸우라고 있는 거야!,nw_hen_dae,,[지능 낮음],,,0,0
+11072,PC,Player Character,Failed? How?,실패했다고? 어떻게?,nw_hen_dae,,,,,0,0
+11073,PC,Player Character,Don't worry. Tell me your quest and we'll figure a way to do it.,걱정 마. 네 과업이 뭔지 말해 줘. 해낼 방법을 찾아보자.,nw_hen_dae,,[지능 보통],,,0,0
+11074,PC,Player Character,You not worry. You say quest at me and we be figure it out.,걱정 마. 네 과업 말해. 우리 방법 찾아낼 거야.,nw_hen_dae,,[지능 낮음],,,0,0
+11075,PC,Player Character,How can you complete this quest if you don't know what it is?,뭔지도 모르면서 어떻게 그 과업을 완수하겠다는 거지?,nw_hen_dae,,[지능 보통],,,0,0
+11076,PC,Player Character,How you do quest if you not know what it is?,뭔지도 모르면서 어떻게 과업 해?,nw_hen_dae,,[지능 낮음],,,0,0
+11077,PC,Player Character,Lost?,잃어버렸다고?,nw_hen_dae,,,,,0,0
+11078,PC,Player Character,"Don't worry, Daelan. We'll find your brooch, somehow.","걱정 마, 데란. 어떻게든 네 브로치를 찾을 거야.",nw_hen_dae,,[지능 보통],,,0,0
+11079,PC,Player Character,"Give it up. If you haven't found it by now, you're never going to find it.",그만 포기해. 지금까지 못 찾았으면 앞으로도 못 찾을 거야.,nw_hen_dae,,[지능 보통],,,0,0
+11080,PC,Player Character,You not worry. We find brooch somehow.,걱정 마. 우리 어떻게든 브로치 찾을 거야.,nw_hen_dae,,[지능 낮음],,,0,0
+11081,PC,Player Character,Give it up. If you not find it yet you never gonna find it.,그만 포기해. 아직도 못 찾았으면 앞으로도 못 찾을 거야.,nw_hen_dae,,[지능 낮음],,,0,0
+11082,PC,Player Character,As long as you don't let your search interfere with your service to me!,"다만, 나를 위해 하는 일에 지장만 주지 마!",nw_hen_dae,,[지능 보통],,,0,0
+11083,PC,Player Character,You not let you search get in way of stuff you do for me!,찾는다고 해서 나 위해 하는 일 방해하면 안 돼!,nw_hen_dae,,[지능 낮음],,,0,0
+11084,PC,Player Character,Do you have any advice or suggestions you can give me about my mission?,내 임무에 대해 조언이나 제안해 줄 게 있나?,nw_hen_dae,,[지능 보통],,,0,0
+11085,PC,Player Character,You got any hint or tip you give me 'bout this mission?,이 임무에 줄 힌트나 팁 있어?,nw_hen_dae,,[지능 낮음],,,0,0
+11086,PC,Player Character,Tell me about the docks.,부두에 대해 말해 줘.,nw_hen_dae,,[지능 보통],,,0,0
+11087,PC,Player Character,Tell me 'bout docks.,부두 얘기해 줘.,nw_hen_dae,,[지능 낮음],,,0,0
+11088,PC,Player Character,Anything else?,또 있어?,nw_hen_dae,,,,,0,0
+11089,PC,Player Character,I think that's enough talking for now.,지금은 이 정도면 됐어.,nw_hen_dae,,[지능 보통],,,0,0
+11090,PC,Player Character,Me not want talk no more.,나 더 이상 말하기 싫어.,nw_hen_dae,,[지능 낮음],,,0,0
+11091,PC,Player Character,"Thank you, Daelan.","고마워, 데란.",nw_hen_dae,,,,,0,0
+11092,PC,Player Character,That's it? A cheap amulet?,이게 다야? 이런 싸구려 호신부?,nw_hen_dae,,,,,0,0
+11093,PC,Player Character,High Captains?,대선장들?,nw_hen_dae,,,,,0,0
+11094,PC,Player Character,Tell me about the Arcane Brotherhood.,비전 결사단에 대해 말해 줘.,nw_hen_dae,,[지능 보통],,,0,0
+11095,PC,Player Character,That's enough information for now.,지금은 정보는 이 정도면 됐어.,nw_hen_dae,,[지능 보통],,,0,0
+11096,PC,Player Character,You know stuff 'bout them Arcane Brother guys?,그 비전 결사단 사람들에 대해 아는 거 있어?,nw_hen_dae,,[지능 낮음],,,0,0
+11097,PC,Player Character,Me not want talk no more.,나 더 이상 말하기 싫어.,nw_hen_dae,,[지능 낮음],,,0,0
+11098,PC,Player Character,Anything else?,또 있어?,nw_hen_dae,,,,,0,0
+11099,PC,Player Character,What can you tell me about the Elk tribe and Fort Ilkard?,큰사슴 부족과 일카드 요새에 대해 뭐 알려줄 수 있어?,nw_hen_dae,,[지능 보통],,,0,0
+11100,PC,Player Character,You know stuff 'bout Elkies and Fort Ilkard?,큰사슴이랑 일카드 요새 아는 거 있어?,nw_hen_dae,,[지능 낮음],,,0,0
+11101,PC,Player Character,More?,더 있어?,nw_hen_dae,,,,,0,0
+11102,PC,Player Character,"Me not think me see you here, Daelan. ","나, 여기서 너 볼 줄 몰랐어, 데란.",nw_hen_dae,,[지능 낮음],,,0,0
+11103,PC,Player Character,You again? Is you following me like some stupid puppy?,또 너야? 바보 강아지처럼 나 따라다녀?,nw_hen_dae,,[지능 낮음],,,0,0
+11104,PC,Player Character,Aribeth force you to come serve here?,아리베스가 너 여기 와서 일하라 했어?,nw_hen_dae,,[지능 낮음],,,0,0
+11105,PC,Player Character,How much it cost for you work for me again?,다시 나 위해 일하면 얼마야?,nw_hen_dae,,[지능 낮음],,,0,0
+11106,PC,Player Character,You know stuff 'bout that cult that spread plague?,그 역병 퍼뜨린 사교에 대해 아는 거 있어?,nw_hen_dae,,[지능 낮음],,,0,0
+11107,PC,Player Character [Companion Settings],Me need good fighter like you for help me.,나 너 같은 훌륭한 전사 필요해.,nw_hen_dae,nw_ch_check46,[지능 낮음],[Companion Settings],,0,0
+11108,PC,Player Character,Me not need nothing right now.,나 지금 아무것도 필요 없어.,nw_hen_dae,,[지능 낮음],,,0,0
+11109,PC,Player Character,Luskan?,러스칸?,nw_hen_dae,,,,,0,0
+11110,PC,Player Character,How so?,어떻게?,nw_hen_dae,,,,,0,0
+11111,PC,Player Character,"Me glad for see you again, Daelan.","다시 봐서 좋아, 데란.",nw_hen_dae,,[지능 낮음],,,0,0
+11112,PC,Player Character,Me sick of you! Everywhere me go you ugly face be there!,너 지겨워! 나 어디 가도 네 못생긴 얼굴 있어!,nw_hen_dae,,[지능 낮음],,,0,0
+11113,PC,Player Character,"You know stuff 'bout Words of Power, Daelan?","데란, 권능의 언령에 대해 아는 거 있어?",nw_hen_dae,,[지능 낮음],,,0,0
+11114,PC,Player Character [Companion Settings],"Me be happy if you join me 'gain, Daelan.","너 다시 합류하면 나 행복해, 데란.",nw_hen_dae,nw_ch_check46,[지능 낮음],[Companion Settings],,0,0
+11115,PC,Player Character,Me not need no help right now.,나 지금 아무 도움도 필요 없어.,nw_hen_dae,,[지능 낮음],,,0,0
+11116,PC,Player Character,How so?,어떻게?,nw_hen_dae,,,,,0,0
+11117,PC,Player Character,Tell me 'bout Uthgardts. Me want know 'bout you customs.,우스가르트 얘기해 줘. 너희 풍습 알고 싶어.,nw_hen_dae,,[지능 낮음],,,0,0
+11118,PC,Player Character,What it like for you growing up?,너 크면서 어땠어?,nw_hen_dae,,[지능 낮음],,,0,0
+11119,PC,Player Character,What happened?,무슨 일이 있었어?,nw_hen_dae,,,,,0,0
+11120,PC,Player Character,If you hadn't killed them they would have killed you.,네가 그들을 죽이지 않았다면 그들이 널 죽였을 거야.,nw_hen_dae,,[지능 보통],,,0,0
+11121,PC,Player Character,Why didn't you just leave?,왜 그냥 떠나지 않았지?,nw_hen_dae,,[지능 보통],,,0,0
+11122,PC,Player Character,"If you not kill them, them just kill you.",네가 안 죽였으면 걔네가 너 죽였어.,nw_hen_dae,,[지능 낮음],,,0,0
+11123,PC,Player Character,Why you not just leave?,왜 그냥 안 떠났어?,nw_hen_dae,,[지능 낮음],,,0,0
+11124,PC,Player Character,What did you mean by fate intervening?,운명이 끼어들었다는 게 무슨 뜻이지?,nw_hen_dae,,[지능 보통],,,0,0
+11125,PC,Player Character,"You helped him escape, didn't you?","그가 도망치게 도와줬지, 그렇지?",nw_hen_dae,,[지능 보통],,,0,0
+11126,PC,Player Character,You help him get away from prison?,너 그 사람 감옥에서 도망치게 도왔어?,nw_hen_dae,,[지능 낮음],,,0,0
+11127,PC,Player Character,What about the old man?,그 노인은?,nw_hen_dae,,[지능 보통],,,0,0
+11128,PC,Player Character,What 'bout old man?,그 노인은?,nw_hen_dae,,[지능 낮음],,,0,0
+11129,PC,Player Character,"You did nothing wrong, Daelan. You fought some soldiers and freed some slaves.","넌 잘못한 게 없어, 데란. 몇몇 병사와 싸웠고 노예들을 풀어줬잖아.",nw_hen_dae,,[지능 보통],,,0,0
+11130,PC,Player Character,"We all have a dark side, Daelan. You have faced yours and triumphed over it.","우린 모두 어두운 면을 갖고 있어, 데란. 넌 네 어둠을 마주했고 이겨냈지.",nw_hen_dae,,[지능 보통],,,0,0
+11131,PC,Player Character,"Your father's blood makes you a killer, Daelan. Just accept it.","네 아버지의 혈통이 널 살인자로 만들었어, 데란. 그냥 받아들여.",nw_hen_dae,,[지능 보통],,,0,0
+11132,PC,Player Character,Enough with the memories. Don't let this interfere with your duties to me!,추억 타령은 그만. 내게 하는 일에 지장 주지 마!,nw_hen_dae,,[지능 보통],,,0,0
+11133,PC,Player Character,You not do nothing wrong. You kill soldiers and free slaves.,너 잘못한 거 없어. 병사들 죽이고 노예들 풀어줬어.,nw_hen_dae,,[지능 낮음],,,0,0
+11134,PC,Player Character,We all got mean streak. You seen yours and you not like that no more.,우리 다 나쁜 면 있어. 너 네 거 봤고 이제 그런 거 아니야.,nw_hen_dae,,[지능 낮음],,,0,0
+11135,PC,Player Character,You orc blood make you a killer. Deal with it.,너 오크 피가 너를 살인자로 만들어. 그냥 받아들여.,nw_hen_dae,,[지능 낮음],,,0,0
+11136,PC,Player Character,Me not care 'bout all this! You better not let this stuff get in way of you work!,나 이런 거 신경 안 써! 이런 일로 내 일 방해하면 안 돼!,nw_hen_dae,,[지능 낮음],,,0,0
+11137,PC,Player Character,What do you mean by one of many?,'여럿 중 하나'라니 무슨 뜻이지?,nw_hen_dae,,[지능 보통],,,0,0
+11138,PC,Player Character,Do you know who killed her?,그녀를 죽인 게 누군지 아나?,nw_hen_dae,,[지능 보통],,,0,0
+11139,PC,Player Character,You know who be one who kill her?,그녀 죽인 게 누군지 알아?,nw_hen_dae,,[지능 낮음],,,0,0
+11140,PC,Player Character,How are you going to track down the bandit who killed her?,그녀를 죽인 도적을 어떻게 추적할 거지?,nw_hen_dae,,[지능 보통],,,0,0
+11141,PC,Player Character,How you gonna find bandit who kill her?,그녀 죽인 도적 어떻게 찾을 거야?,nw_hen_dae,,[지능 낮음],,,0,0
+11142,PC,Player Character,You better not let you search for axe get in way of work for me!,도끼 찾는다고 내 일 방해하면 안 돼!,nw_hen_dae,,[지능 낮음],,,0,0
+11143,PC,Player Character,Yes. He was a dwarf named Gorkan.,그래. 이름이 고르칸인 드워프였어.,nw_hen_dae,,[지능 보통],,,0,0
+11144,PC,Player Character,Yes. It be some dwarf name Gorkan.,응. 고르칸이라는 드워프야.,nw_hen_dae,,[지능 낮음],,,0,0
+11145,PC,Player Character,"The reward you offer is greater than you know, Daelan.","네가 주려는 보상은 네가 생각하는 것보다 훨씬 값져, 데란.",nw_hen_dae,,[지능 보통],,,0,0
+11146,PC,Player Character,Great. That and a couple coppers will get me a mug of warm ale.,훌륭하네. 그거랑 동전 몇 닢이면 미지근한 에일 한 잔은 사겠군.,nw_hen_dae,,[지능 보통],,,0,0
+11147,PC,Player Character,You not need give me reward. You thanks be reward enough.,보상 필요 없어. 네 고마움이면 충분해.,nw_hen_dae,,[지능 낮음],,,0,0
+11148,PC,Player Character,What good that do me? Me not buy stuff with thanks and friendship!,그게 나한테 무슨 소용? 고맙다랑 우정으로 물건 못 사!,nw_hen_dae,,[지능 낮음],,,0,0
+11149,PC,Player Character,So are you going to tell me or are you going to make me guess?,"그래서 말해 줄 거야, 아니면 내가 맞춰야 해?",nw_hen_dae,,[지능 보통],,,0,0
+11150,PC,Player Character,What you think Aribeth reason be?,아리베스가 왜 그랬다고 생각해?,nw_hen_dae,,[지능 낮음],,,0,0
+11151,PC,Player Character,You gonna tell me or you gonna make me guess?,"말해 줄 거야, 아니면 내가 맞춰야 해?",nw_hen_dae,,[지능 낮음],,,0,0
+11152,PC,Player Character,What you talk 'bout? They not turn her out?,무슨 소리야? 걔네가 그녀 쫓아내지 않았어?,nw_hen_dae,,[지능 낮음],,,0,0
+11153,PC,Player Character,That's no excuse for her betrayal!,그래도 그녀의 배신을 정당화할 순 없어!,nw_hen_dae,,[지능 보통],,,0,0
+11154,PC,Player Character,That no excuse for what she done!,그래도 그녀가 한 짓 변명 못 해!,nw_hen_dae,,[지능 낮음],,,0,0
+11155,PC,Player Character,Sounds like you think she was justified.,듣자하니 그녀가 정당했다고 보는군.,nw_hen_dae,,[지능 보통],,,0,0
+11156,PC,Player Character,It sound like maybe you think she right for what she do.,"너, 그녀가 잘했다고 생각하는 것 같네.",nw_hen_dae,,[지능 낮음],,,0,0
+11157,PC,Player Character,What fate would that be?,그 '운명'이란 게 뭐지?,nw_hen_dae,,[지능 보통],,,0,0
+11158,PC,Player Character,What fate you talking 'bout?,그 '운명'이 뭐 말하는 거야?,nw_hen_dae,,[지능 낮음],,,0,0
+11159,PC,Player Character,Go on.,계속해.,nw_hen_dae,,,,,0,0
+11160,PC,Player Character,What did the boy do?,그 소년은 뭘 했지?,nw_hen_dae,,[지능 보통],,,0,0
+11161,PC,Player Character,What boy do?,소년 뭐 했어?,nw_hen_dae,,[지능 낮음],,,0,0
+11162,PC,Player Character,I want to hear it.,그 얘기 듣고 싶어.,nw_hen_dae,,[지능 보통],,,0,0
+11163,PC,Player Character,Me want hear it.,나 듣고 싶어.,nw_hen_dae,,[지능 낮음],,,0,0
+11164,PC,Player Character,What about the boy with the spear?,창을 든 그 소년은?,nw_hen_dae,,[지능 보통],,,0,0
+11165,PC,Player Character,What about boy who take spear?,창 가져간 소년은?,nw_hen_dae,,[지능 낮음],,,0,0
+11166,PC,Player Character,How does it end?,어떻게 끝나?,nw_hen_dae,,[지능 보통],,,0,0
+11167,PC,Player Character,"How it end, then?","그럼, 어떻게 끝나?",nw_hen_dae,,[지능 낮음],,,0,0
+11168,PC,Player Character,I guess I see your point.,네 말도 일리가 있군.,nw_hen_dae,,[지능 보통],,,0,0
+11169,PC,Player Character,That's not the same! Aribeth didn't just run away. She betrayed us!,그건 같지 않아! 아리베스는 단지 도망친 게 아니야. 우릴 배신했어!,nw_hen_dae,,[지능 보통],,,0,0
+11170,PC,Player Character,Me guess me see you point.,"나, 네 말 알 것 같아.",nw_hen_dae,,[지능 낮음],,,0,0
+11171,PC,Player Character,"That not same at all. Aribeth not just run away, she betray us!","그거 전혀 같지 않아. 아리베스 그냥 도망친 거 아니야, 우릴 배신했어!",nw_hen_dae,,[지능 낮음],,,0,0
+11172,PC,Player Character,Hope?,희망?,nw_hen_dae,,,,,0,0
+11173,PC,Player Character,Tell me about your vision.,네 환영에 대해 말해 줘.,nw_hen_dae,,[지능 보통],,,0,0
+11174,PC,Player Character,Tell me 'bout vision.,환영 얘기해 줘.,nw_hen_dae,,[지능 낮음],,,0,0
+11175,PC,Player Character,This vision quest better not interfere with your duty to me!,그 환영을 쫓는 여정이 내게 대한 네 임무를 방해하면 안 돼!,nw_hen_dae,,[지능 보통],,,0,0
+11176,PC,Player Character,You vision quest better not get in way of stuff you do for me!,"너 환영 찾는 거, 나 위해 하는 일 방해하면 안 돼!",nw_hen_dae,,[지능 낮음],,,0,0
+11177,PC,Player Character,"I thank you for this reward, Daelan.","이 보상 고마워, 데란.",nw_hen_dae,,[지능 보통],,,0,0
+11178,PC,Player Character,I feel like I'm getting screwed in this deal.,왠지 손해 보는 기분이 드는데.,nw_hen_dae,,[지능 보통],,,0,0
+11179,PC,Player Character,"Me thank you for this, Daelan.","이거 고마워, 데란.",nw_hen_dae,,[지능 낮음],,,0,0
+11180,PC,Player Character,Why me think you rip me off here?,"왜 나, 너한테 바가지 쓴 것 같지?",nw_hen_dae,,[지능 낮음],,,0,0
+11181,PC,Player Character,Fate? What you mean?,운명? 무슨 뜻이야?,nw_hen_dae,,[지능 낮음],,,0,0
+11182,PC,Player Character,Good. They deserved it.,좋아. 그럴 자격이 있었지.,nw_hen_dae,,[지능 보통],,,0,0
+11183,PC,Player Character,Good. Them guards deserve it!,좋아. 그 경비놈들 그럴 자격 있어!,nw_hen_dae,,[지능 낮음],,,0,0
+11184,PC,Player Character,Why you go there?,왜 거기 갔어?,nw_hen_dae,,[지능 낮음],,,0,0
+11185,PC,Player Character,What that mean? One of many?,그게 뭐 뜻이야? '여럿 중 하나'?,nw_hen_dae,,[지능 낮음],,,0,0
+11186,PC,Player Character,"What are you going to do with the spear now, Daelan?","이제 그 창을 어떻게 할 거지, 데란?",nw_hen_dae,,[지능 보통],,,0,0
+11187,PC,Player Character,"What you do with spear now, Daelan?","이제 그 창으로 뭐 할 거야, 데란?",nw_hen_dae,,[지능 낮음],,,0,0
+11188,PC,Player Character,And what about you?,그럼 넌?,nw_hen_dae,,[지능 보통],,,0,0
+11189,PC,Player Character,And what happen to you?,그럼 넌 어떻게 돼?,nw_hen_dae,,[지능 낮음],,,0,0
+11190,PC,Player Character,"I'm going to miss you, Daelan.","네가 그리울 거야, 데란.",nw_hen_dae,,[지능 보통],,,0,0
+11191,PC,Player Character,So you mean you're just going to abandon me now?,그럼 이제 난 버려두고 그냥 떠나겠다는 거야?,nw_hen_dae,,[지능 보통],,,0,0
+11192,PC,Player Character,"Me gonna miss you, Daelan.","나 너 그리울 거야, 데란.",nw_hen_dae,,[지능 낮음],,,0,0
+11193,PC,Player Character,So now you gonna take off and just leave me?,그럼 이제 나 두고 그냥 가겠다는 거야?,nw_hen_dae,,[지능 낮음],,,0,0
+62511,PC,Player Character [Companion Settings],You not use melee weapons in fight no more. You use range weapons.,너 이제 싸움에서 근접 무기 쓰지 마. 원거리 무기 써.,nw_hen_dae,nw_ch_goranged,nw_ch_commelee,[Companion Settings],,0,0
+62512,PC,Player Character [Companion Settings],You not use range weapons in fight no more. You use melee weapons.,너 이제 싸움에서 원거리 무기 쓰지 마. 근접 무기 써.,nw_hen_dae,nw_ch_gomelee,nw_ch_comrange,[Companion Settings],,0,0
+62513,PC,Player Character [Companion Settings],Stop using your melee weapons in combat and only use your ranged weapons.,전투에서 근접 무기 사용을 멈추고 원거리 무기만 사용해.,nw_hen_dae,nw_ch_goranged,nw_ch_commelee,[Companion Settings],,0,0
+62514,PC,Player Character [Companion Settings],Stop using your ranged weapons and only use melee weapons in combat.,전투에서 원거리 무기 사용을 멈추고 근접 무기만 사용해.,nw_hen_dae,nw_ch_gomelee,nw_ch_comrange,[Companion Settings],,0,0
+63894,PC,Player Character,"Me too busy for this now, orcy-boy!","나 지금 이거 할 시간 없어, 오크 녀석!",nw_hen_dae,,[지능 낮음],,,0,0
+63895,PC,Player Character,Me not want to hear it. We got big fight ahead.,나 듣고 싶지 않아. 우리 앞에 큰 싸움 있어.,nw_hen_dae,,[지능 낮음],,,0,0
+63896,PC,Player Character,"Good, keep quiet. We've got business to take care of!","좋아, 조용히 해. 우리 처리할 일이 있어!",nw_hen_dae,,[지능 보통],,,0,0
+63897,PC,Player Character,Me sorry. You tell me what you got to say.,나 미안해. 너 할 말 있으면 말해.,nw_hen_dae,,[지능 낮음],,,0,0
+63898,PC,Player Character,I'm sorry. Please go on.,미안해. 계속해.,nw_hen_dae,,[지능 보통],,,0,0
+63899,PC,Player Character,"Not now, Daelan! I'm kind of busy here!","지금은 안 돼, 데란! 여기서 좀 바빠!",nw_hen_dae,,[지능 보통],,,0,0
+63900,PC,Player Character,"What you want, Daelan friend?","뭐 원해, 데란 친구?",nw_hen_dae,,[지능 낮음],,,0,0
+63901,PC,Player Character,"Yes, Daelan - what is it?","그래, 데란 - 뭐야?",nw_hen_dae,,[지능 보통],,,0,0
+63902,PC,Player Character,Me not no hero - me only in this for the money!,나 영웅 아니야 - 나 돈 때문에 이거 하는 거야!,nw_hen_dae,,[지능 낮음],,,0,0
+63903,PC,Player Character,Don't paint me as something I'm not - I'm only in this for the money!,내가 아닌 걸로 포장하지 마 - 난 돈 때문에 이거 하는 거야!,nw_hen_dae,,[지능 보통],,,0,0
+63904,PC,Player Character,"*Sigh* Me big hero now, so me guess lots of people gonna be in awe when me come around.",*한숨* 나 이제 큰 영웅이라 많은 사람들 내가 오면 경외할 거야.,nw_hen_dae,,[지능 낮음],,,0,0
+63905,PC,Player Character,*Sigh* I guess people holding me in awe is the burden of being a hero.,*한숨* 사람들이 날 경외하는 건 영웅이 되는 대가인 것 같아.,nw_hen_dae,,[지능 보통],,,0,0
+63906,PC,Player Character,"Me not do it alone. You help me lots, Daelan.","나 혼자 한 거 아니야. 너 나 많이 도와줬어, 데란.",nw_hen_dae,,[지능 낮음],,,0,0
+63907,PC,Player Character,I didn't do it alone. You have been a valuable ally throughout my adventures.,혼자 한 게 아니야. 넌 내 모험 내내 소중한 동료였어.,nw_hen_dae,,[지능 보통],,,0,0
+63908,PC,Player Character,"Enough talk, ocry-boy! Morag not be dead yet! We still got work to do!","말 그만해, 오크 녀석! 모라그 아직 안 죽었어! 우리 아직 할 일 있어!",nw_hen_dae,,[지능 낮음],,,0,0
+63909,PC,Player Character,"Save it, Daelan. Our work here isn't done.","그만해, 데란. 여기서 우리 일은 끝나지 않았어.",nw_hen_dae,,[지능 보통],,,0,0
+63910,PC,Player Character,"Thanks. That mean a lot to me, Daelan.","고마워. 그거 나한테 큰 의미야, 데란.",nw_hen_dae,,[지능 낮음],,,0,0
+63911,PC,Player Character,"Thank you, Daelan. That means a lot to me.","고마워, 데란. 큰 의미야.",nw_hen_dae,,[지능 보통],,,0,0

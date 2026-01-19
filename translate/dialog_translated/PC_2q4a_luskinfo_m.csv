@@ -1,0 +1,31 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+27425,PC,Player Character,Could I ask you some questions?,질문 좀 해도 될까요?,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27426,PC,Player Character,Me want ask questions.,나 질문 하고 싶어.,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27427,PC,Player Character,Goodbye.,안녕히 계세요.,2q4a_luskinfo_m,,,,,0,0
+27428,PC,Player Character,What's going on in this city?,이 도시에서 무슨 일이 벌어지고 있나요?,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27429,PC,Player Character,What happen in city?,도시에서 무슨 일 있어?,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27430,PC,Player Character,Why are you so frightened? I said I wouldn't hurt you.,왜 그렇게 겁먹은 거예요? 해치지 않겠다고 했잖아요.,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27431,PC,Player Character,Why you so scared? Me say me not hurt you.,왜 그렇게 무서워해? 나 안 다치게 한다고 했어.,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27432,PC,Player Character,Can I ask you some directions?,길 좀 물어봐도 될까요?,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27433,PC,Player Character,Me need directions.,나 길 알아야 해.,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27434,PC,Player Character,Where is the nearest inn?,가장 가까운 여관이 어디예요?,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27435,PC,Player Character,Where is the nearest temple?,가장 가까운 사원이 어디예요?,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27436,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비를 살 수 있는 곳이 있나요?,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27437,PC,Player Character,What's around here?,여기 주변에 뭐가 있나요?,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27438,PC,Player Character,Me look for place to sleep.,나 잘 곳 찾아.,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27439,PC,Player Character,Me look for temple.,나 사원 찾아.,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27440,PC,Player Character,Me need place to buy stuff.,나 물건 살 곳 필요해.,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27441,PC,Player Character,What around?,주변에 뭐 있어?,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27442,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 걸 물어보고 싶어요.",2q4a_luskinfo_m,,[지능 보통],,,0,0
+27443,PC,Player Character,"No, me have other question.","아니, 나 다른 질문 있어.",2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27444,PC,Player Character,<StartCheck>[Persuade]</Start> I am an adventurer looking for information; I don't mean any harm.,<StartCheck>[설득]</Start> 전 정보를 찾는 모험가예요. 해칠 생각은 없어요.,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27445,PC,Player Character,Get out of my way! I'll take whatever I want!,비켜! 내가 원하는 건 뭐든 가져갈 거야!,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27446,PC,Player Character,I was just leaving.,이제 가려던 참이었어요.,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27447,PC,Player Character,"<StartCheck>[Persuade]</Start> Me adventurer. Mean no harm, only look for information.","<StartCheck>[설득]</Start> 나 모험가야. 해칠 생각 없어, 정보만 찾아.",2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27448,PC,Player Character,You get out of way! Me take what I wants!!,너 비켜! 나 내가 원하는 거 다 가져갈 거야!!,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27449,PC,Player Character,Me was just going.,나 그냥 가려던 참이었어.,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27450,PC,Player Character,Tell me about these High Captains.,이 대선장들에 대해 말해주세요.,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27451,PC,Player Character,Tell me 'bout High Captains.,대선장들에 대해 말해줘.,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27452,PC,Player Character,Is there nobody to stop all this?,이 모든 걸 막을 사람은 아무도 없나요?,2q4a_luskinfo_m,,[지능 보통],,,0,0
+27453,PC,Player Character,There nobody to stops it?,이거 막을 사람 아무도 없어?,2q4a_luskinfo_m,,[지능 낮음],,,0,0
+27454,PC,Player Character,What wizards?,무슨 마법사들이요?,2q4a_luskinfo_m,,,,,0,0

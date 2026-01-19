@@ -1,0 +1,454 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+103358,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_val,,,,,0,0
+103359,PC,Player Character,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아.""",xp2_hen_val,,x2_d2_inreaper,,,0,0
+103360,PC,Player Character,"""Never mind, then. Stay with me.""","""그럼 신경 쓰지 마. 나와 함께 있어.""",xp2_hen_val,,,,,0,0
+103361,PC,Player Character,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",xp2_hen_val,,,,,0,0
+103362,PC,Player Character,"""Go on. Maybe we'll meet later.""","""가. 나중에 만날 수도 있어.""",xp2_hen_val,,,,,0,0
+103363,PC,Player Character,"""I want to change your tactics.""","""전술을 바꿨으면 좋겠어.""",xp2_hen_val,,,,,0,0
+103364,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",xp2_hen_val,,,,,0,0
+103365,PC,Player Character,"""I want you to leave any traps that you see alone for now.""","""지금은 보이는 함정을 그대로 놔둬.""",xp2_hen_val,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+103366,PC,Player Character,"""I want you to disarm any traps that you see.""","""보이는 함정은 모두 해제해.""",xp2_hen_val,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+103367,PC,Player Character,"""Don't try to be stealthy anymore.""","""이제 은밀하게 행동하지 마.""",xp2_hen_val,x2_d1_stealth3,x2_d1_instealth,,,0,0
+103368,PC,Player Character,"""Stay stealthy, but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만.""",xp2_hen_val,x2_d1_stealth2,,,,0,0
+103369,PC,Player Character,"""Try to remain stealthy all the time.""","""항상 은밀하게 행동하도록 해.""",xp2_hen_val,x2_d1_stealth1,,,,0,0
+103370,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 돕지 마.""",xp2_hen_val,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+103371,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 도와줘.""",xp2_hen_val,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+103372,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와의 거리를 조정했으면 좋겠어.""",xp2_hen_val,,,,,0,0
+103373,PC,Player Character [Follow: Far],Stay a long distance away.,먼 거리를 유지해.,xp2_hen_val,nw_ch_dist_18,,[Follow: Far],,0,0
+103374,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,xp2_hen_val,nw_ch_dist_12,,[Follow: Medium],,0,0
+103375,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,xp2_hen_val,nw_ch_dist_6,,[Follow: Close],,0,0
+103376,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 보는 즉시 공격해.""",xp2_hen_val,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+103377,PC,Player Character,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격하기 전까지 공격하지 마.""",xp2_hen_val,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+103378,PC,Player Character,"""I want to adjust your equipment.""","""장비를 조정했으면 해.""",xp2_hen_val,,,,,0,0
+103379,PC,Player Character,"""Can you identify my equipment?""","""내 장비를 감정해줄 수 있어?""",xp2_hen_val,,x1_hen_canid,,,0,0
+103380,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 하려던 말이 뭐였어?""",xp2_hen_val,,x0_d2_hen_interp,,,0,0
+103381,PC,Player Character,"""Let's stop and talk for a moment.""","""잠깐 멈춰서 이야기하자.""",xp2_hen_val,,con_tm_lyrbkgrnd,,,0,0
+103382,PC,Player Character,"""That's all for now.""","""일단 이게 다야.""",xp2_hen_val,,,,,0,0
+103383,PC,Player Character,"""No, nothing else.""","""아니, 다른 건 없어.""",xp2_hen_val,,,,,0,0
+103384,PC,Player Character,"""How are you doing? Is anything wrong?""","""어떻게 지내? 뭐 문제 있어?""",xp2_hen_val,,,,,0,0
+103385,PC,Player Character,"""What do you plan to do after all this?""","""이 모든 게 끝나면 뭘 할 계획이야?""",xp2_hen_val,x2_ivalstage62,x2_ivalstage6x,,,0,0
+103386,PC,Player Character,"""What else would you do?""","""그럼 뭘 하겠어?""",xp2_hen_val,,,,,0,0
+103387,PC,Player Character,"""No, I think you should travel on your own.""","""아니, 네 혼자 여행하는 게 좋을 것 같아.""",xp2_hen_val,,,,,0,0
+103388,PC,Player Character,"""So long as you're okay with Nathyrra being with me.""","""나시라가 나와 함께 있는 걸 괜찮다면.""",xp2_hen_val,,x2_nathromancex,,,0,0
+103389,PC,Player Character,"""Certainly. I'd be glad to have you join me.""","""물론이지. 같이 가면 기쁠 거야.""",xp2_hen_val,,,,,0,0
+103390,PC,Player Character,"""Do whatever you like. I won't stop you.""","""하고 싶은 대로 해. 막지 않을게.""",xp2_hen_val,,,,,0,0
+103391,PC,Player Character,"""You could always travel with me.""","""언제든 나랑 같이 여행할 수 있어.""",xp2_hen_val,,,,,0,0
+103392,PC,Player Character,"""Isn't your place at my side?""","""네 자리는 내 곁 아니야?""",xp2_hen_val,,x2_valromancex,,,0,0
+103393,PC,Player Character,"""Not really. We don't need to spend every waking moment together.""","""별로. 매 순간을 함께 보낼 필요는 없어.""",xp2_hen_val,,,,,0,0
+103394,PC,Player Character,"""You think you could get away from me that easy?""","""그렇게 쉽게 나한테서 벗어날 수 있을 것 같아?""",xp2_hen_val,,,,,0,0
+103395,PC,Player Character,"""I'd gladly have you at my side, Valen.""","""내 곁에 있어줬으면 좋겠어, 발렌.""",xp2_hen_val,,,,,0,0
+103396,PC,Player Character,"""I don't want you to give up everything for me.""","""날 위해 모든 걸 포기하길 바라진 않아.""",xp2_hen_val,,,,,0,0
+103397,PC,Player Character,"""Whoa! Not so fast there!""","""워! 너무 빨라!""",xp2_hen_val,,,,,0,0
+103398,PC,Player Character,"""You just let me worry about that.""","""그건 내가 걱정할게.""",xp2_hen_val,,,,,0,0
+103399,PC,Player Character,"""I am an adventurer. I don't have time for any of that just yet.""","""난 모험가야. 아직 그럴 시간이 없어.""",xp2_hen_val,,,,,0,0
+103400,PC,Player Character,"""Let's enjoy what we have now. We can worry about that later.""","""지금 우리가 가진 걸 즐기자. 나중에 걱정해도 돼.""",xp2_hen_val,,,,,0,0
+103401,PC,Player Character,"""Marriage and children sound wonderful... eventually.""","""결혼과 아이들은 멋지게 들려... 언젠가는.""",xp2_hen_val,,,,,0,0
+103402,PC,Player Character,"""That depends. What do you think?""","""경우에 따라 다르지. 넌 어떻게 생각해?""",xp2_hen_val,,,,,0,0
+103403,PC,Player Character,"""It's definitely too soon. We've only just met, practically!""","""확실히 너무 빨라. 사실상 방금 만났잖아!""",xp2_hen_val,,,,,0,0
+103404,PC,Player Character,"""Not at all. Let's get started right now.""","""전혀 아니야. 지금 당장 시작하자.""",xp2_hen_val,,,,,0,0
+103405,PC,Player Character,"""Tell me about your time on the surface.""","""지상에서 지낸 이야기 해줘.""",xp2_hen_val,x2_ivalstage42,x2_ivalstage4x,,,0,0
+103406,PC,Player Character,"""Such as?""","""예를 들면?""",xp2_hen_val,,,,,0,0
+103407,PC,Player Character,"""You couldn't tell that they were evil?""","""그들이 악한지 몰랐어?""",xp2_hen_val,,,,,0,0
+103408,PC,Player Character,"""I'm sure that could happen to anyone.""","""누구에게나 일어날 수 있는 일이야.""",xp2_hen_val,,,,,0,0
+103409,PC,Player Character,"""Uh-oh...""","""어머...""",xp2_hen_val,,,,,0,0
+103410,PC,Player Character,"""What did you do?""","""뭘 했어?""",xp2_hen_val,,,,,0,0
+103411,PC,Player Character,"""I'm sure you did the right thing.""","""분명 옳은 일을 했을 거야.""",xp2_hen_val,,,,,0,0
+103412,PC,Player Character,"""You can't hide away forever.""","""영원히 숨어 있을 수는 없어.""",xp2_hen_val,,,,,0,0
+103413,PC,Player Character,"""I'm sure you'll get the hang of it eventually.""","""언젠가는 익숙해질 거야.""",xp2_hen_val,,,,,0,0
+103414,PC,Player Character,"""Most people aren't used to horned tieflings running around, anyhow.""","""대부분의 사람들은 뿔 달린 티플링이 돌아다니는 데 익숙하지 않으니까.""",xp2_hen_val,,,,,0,0
+103415,PC,Player Character,"""Sounds like it isn't safe to let you loose.""","""풀어놓기엔 위험해 보이는데.""",xp2_hen_val,,,,,0,0
+103416,PC,Player Character,"""Why not spare the paladin? It wasn't his fault.""","""왜 성기사는 살려주지 않았어? 그의 잘못이 아니었잖아.""",xp2_hen_val,,,,,0,0
+103417,PC,Player Character,"""What?! You killed them both?! How could you?!""","""뭐?! 둘 다 죽였어?! 어떻게 그럴 수가?!""",xp2_hen_val,,,,,0,0
+103418,PC,Player Character,"""How could you be so gullible?""","""어떻게 그렇게 순진할 수가 있어?""",xp2_hen_val,,,,,0,0
+103419,PC,Player Character,"""Tell me how you escaped Grimash't.""","""그리마쉬트에게서 어떻게 탈출했는지 말해줘.""",xp2_hen_val,x2_ivalstage32,x2_ivalstage3x,,,0,0
+103420,PC,Player Character,"""So what happened?""","""그래서 무슨 일이 일어났어?""",xp2_hen_val,,,,,0,0
+103421,PC,Player Character,"""The tower was attacked? Wouldn't that put you more in danger?""","""탑이 공격받았어? 그럼 더 위험했겠네?""",xp2_hen_val,,,,,0,0
+103422,PC,Player Character,"""So you escaped by pure luck?""","""그래서 순전히 운으로 탈출한 거야?""",xp2_hen_val,,,,,0,0
+103423,PC,Player Character,"""So what came next?""","""그 다음엔?""",xp2_hen_val,,,,,0,0
+103424,PC,Player Character,"""Hmph. What's so useful about humanity?""","""흥. 인간성이 뭐가 그렇게 유용해?""",xp2_hen_val,,,,,0,0
+103425,PC,Player Character,"""I'd prefer a smart man, myself. Or a strong man.""","""난 똑똑한 남자가 좋아. 아니면 강한 남자.""",xp2_hen_val,,,,,0,0
+103426,PC,Player Character,"""That seems like a stupid thing to say.""","""바보 같은 소리네.""",xp2_hen_val,,,,,0,0
+103427,PC,Player Character,"""I think you are a good man, Valen.""","""넌 좋은 사람이야, 발렌.""",xp2_hen_val,,,,,0,0
+103428,PC,Player Character,"""Are you afraid you'll die alone?""","""혼자 죽을까봐 두려워?""",xp2_hen_val,,,,,0,0
+103429,PC,Player Character,"""But isn't the demonic part of you useful?""","""하지만 네 안의 악마 부분은 유용하지 않아?""",xp2_hen_val,,,,,0,0
+103430,PC,Player Character,"""Do you ever fear you will lose your humanity again?""","""다시 인간성을 잃을까봐 두려워한 적 있어?""",xp2_hen_val,,,,,0,0
+103431,PC,Player Character,"""How could you defeat a demon you yourself said was so powerful?""","""네가 그렇게 강력하다고 말한 악마를 어떻게 물리쳤어?""",xp2_hen_val,,,,,0,0
+103432,PC,Player Character,"""Did Grimash't come after you?""","""그리마쉬트가 뒤쫓아왔어?""",xp2_hen_val,,,,,0,0
+103433,PC,Player Character,"""You enjoyed it?""","""즐거웠어?""",xp2_hen_val,,,,,0,0
+103434,PC,Player Character,"""And so you went straight to the Seer?""","""그래서 바로 선견자에게 갔어?""",xp2_hen_val,,,,,0,0
+103435,PC,Player Character,"""Just how old are you?""","""대체 나이가 몇이야?""",xp2_hen_val,,,,,0,0
+103436,PC,Player Character,"""How can you not know?""","""어떻게 모를 수가 있어?""",xp2_hen_val,,,,,0,0
+103437,PC,Player Character,"""How did you get out of the Abyss, then?""","""그럼 어떻게 심연에서 나왔어?""",xp2_hen_val,,,,,0,0
+103438,PC,Player Character,"""What kind of favor?""","""어떤 부탁?""",xp2_hen_val,,,,,0,0
+103439,PC,Player Character,"""Maybe you could... show me?""","""어쩌면 넌... 보여줄 수 있어?""",xp2_hen_val,,nw_d2_female,,,0,0
+103440,PC,Player Character,"""Tell me more about your time in the Abyss.""","""심연에서 보낸 시간에 대해 더 말해줘.""",xp2_hen_val,x2_ivalstage22,x2_ivalstage2x,,,0,0
+103441,PC,Player Character,"""Well, if you're embarrassed, you needn't bother...""","""뭐, 부끄럽다면, 굳이 안 해도 돼...""",xp2_hen_val,,,,,0,0
+103442,PC,Player Character,"""I'm bored. It should pass the time.""","""지루해. 시간이나 때울 수 있을 거야.""",xp2_hen_val,x2_ivalrom__,,,,0,0
+103443,PC,Player Character,"""I'm curious. I find your past interesting.""","""궁금해. 네 과거가 흥미로워.""",xp2_hen_val,,,,,0,0
+103444,PC,Player Character,"""That's all I wanted to know.""","""알고 싶은 건 그게 다야.""",xp2_hen_val,,,,,0,0
+103445,PC,Player Character,"""Have you ever... been in love?""","""혹시... 사랑에 빠진 적 있어?""",xp2_hen_val,xp2_valstory08,xp2_valstory04,,,0,0
+103446,PC,Player Character,"""Just answer the question and stop evading.""","""그냥 질문에 대답하고 회피하지 마.""",xp2_hen_val,,,,,0,0
+103447,PC,Player Character,"""It's just a simple question. What's the harm?""","""간단한 질문이야. 뭐가 문제야?""",xp2_hen_val,,,,,0,0
+103448,PC,Player Character,"""You don't need to answer it if you don't want to.""","""원하지 않으면 대답 안 해도 돼.""",xp2_hen_val,,,,,0,0
+103449,PC,Player Character,"""That figures.""","""그럴 줄 알았어.""",xp2_hen_val,,,,,0,0
+103450,PC,Player Character,"""Who was she?""","""누구였어?""",xp2_hen_val,,,,,0,0
+103451,PC,Player Character,"""And there has been no-one else since?""","""그 이후로 아무도 없었어?""",xp2_hen_val,,,,,0,0
+103452,PC,Player Character,"""That's all I wanted to know.""","""알고 싶은 건 그게 다야.""",xp2_hen_val,,,,,0,0
+103453,PC,Player Character,"""And that's it? You just forget about her?""","""그게 다야? 그냥 잊어버린 거야?""",xp2_hen_val,,,,,0,0
+103454,PC,Player Character,"""You didn't even try to save her?""","""구하려고 시도조차 안 했어?""",xp2_hen_val,,,,,0,0
+103455,PC,Player Character,"""I'm very sorry.""","""정말 미안해.""",xp2_hen_val,,,,,0,0
+103456,PC,Player Character,"""How is it that you didn't die during all that?""","""그 모든 일에도 어떻게 죽지 않았어?""",xp2_hen_val,xp2_valstory07,xp2_valstory03,,,0,0
+103457,PC,Player Character,"""Only a fool doesn't question what happens to him.""","""자신에게 일어난 일을 의심하지 않는 건 바보뿐이야.""",xp2_hen_val,,,,,0,0
+103458,PC,Player Character,"""Well, I'm thankful you're here too.""","""뭐, 네가 여기 있어서 고마워.""",xp2_hen_val,,,,,0,0
+103459,PC,Player Character,"""Neither would I, if I were you.""","""나라도 그랬을 거야.""",xp2_hen_val,,,,,0,0
+103460,PC,Player Character,"""Perhaps the gods were watching over you?""","""어쩌면 신들이 지켜보고 있었던 걸까?""",xp2_hen_val,,,,,0,0
+103461,PC,Player Character,"""Were there many others like you in the Abyss?""","""심연에 너 같은 이들이 많았어?""",xp2_hen_val,xp2_valstory06,xp2_valstory02,,,0,0
+103462,PC,Player Character,"""What did you do before you were taken captive?""","""포로가 되기 전엔 뭘 했어?""",xp2_hen_val,xp2_valstory05,xp2_valstory01,,,0,0
+103463,PC,Player Character,"""I want to ask you something else.""","""다른 걸 물어보고 싶어.""",xp2_hen_val,,,,,0,0
+103464,PC,Player Character,"""How did you get captured?""","""어떻게 포로가 됐어?""",xp2_hen_val,xp2_valstory16,xp2_valstory12,,,0,0
+103465,PC,Player Character,"""So you were a thief?""","""그럼 도둑이었어?""",xp2_hen_val,xp2_valstory15,xp2_valstory11,,,0,0
+103466,PC,Player Character,"""It could not have been easy.""","""쉽지 않았을 거야.""",xp2_hen_val,,,,,0,0
+103467,PC,Player Character,"""I guess you did what you had to.""","""해야 할 일을 한 거겠지.""",xp2_hen_val,,,,,0,0
+103468,PC,Player Character,"""So you not only stole but you were proud of it? How typical.""","""훔쳤을 뿐만 아니라 자랑스러워했어? 전형적이네.""",xp2_hen_val,,,,,0,0
+103469,PC,Player Character,"""How did your mother die?""","""어머니는 어떻게 돌아가셨어?""",xp2_hen_val,xp2_valstory14,xp2_valstory10,,,0,0
+103470,PC,Player Character,"""You don't believe that?""","""그걸 믿지 않아?""",xp2_hen_val,,,,,0,0
+103471,PC,Player Character,"""Maybe it was better that way.""","""어쩌면 그게 나았을 수도.""",xp2_hen_val,,,,,0,0
+103472,PC,Player Character,"""Did you ever get revenge on her?""","""그녀에게 복수한 적 있어?""",xp2_hen_val,,,,,0,0
+103473,PC,Player Character,"""That sounds terrible!""","""끔찍하게 들려!""",xp2_hen_val,,,,,0,0
+103474,PC,Player Character,"""What did she do?""","""그녀가 뭘 했어?""",xp2_hen_val,,,,,0,0
+103475,PC,Player Character,"""I'm sorry.""","""미안해.""",xp2_hen_val,,,,,0,0
+103476,PC,Player Character,"""What is Sigil? I've never heard of it.""","""시질이 뭐야? 들어본 적 없는데.""",xp2_hen_val,xp2_valstory13,xp2_valstory09,,,0,0
+103477,PC,Player Character,"""How do the drow feel about your leadership?""","""드로우들은 네 지휘를 어떻게 생각해?""",xp2_hen_val,x2_ivalstage12,x2_ivalstage1x,,,0,0
+103478,PC,Player Character,"""It seems surprising they would even agree to listen to you.""","""그들이 네 말을 들으려 한다는 것만으로도 놀라운데.""",xp2_hen_val,,,,,0,0
+103479,PC,Player Character,"""Someone with a handsome set of horns?""","""멋진 뿔을 가진 사람?""",xp2_hen_val,,nw_d2_female,,,0,0
+103480,PC,Player Character,"""I know what a tiefling is.""","""티플링이 뭔지 알아.""",xp2_hen_val,,,,,0,0
+103481,PC,Player Character,"""So tell me what a tiefling is, then.""","""그럼 티플링이 뭔지 말해줘.""",xp2_hen_val,,,,,0,0
+103482,PC,Player Character,"""Not at all, you're quite handsome.""","""전혀 아니야, 꽤 잘생겼어.""",xp2_hen_val,,,,,0,0
+103483,PC,Player Character,"""No, I don't think so.""","""아니, 그렇게 생각 안 해.""",xp2_hen_val,,,,,0,0
+103484,PC,Player Character,"""Yes, of course.""","""그래, 물론이지.""",xp2_hen_val,,,,,0,0
+103485,PC,Player Character,"""It does. I knew there was something off about you.""","""그래. 뭔가 이상하다 싶었어.""",xp2_hen_val,,,,,0,0
+103486,PC,Player Character,"""No, that's not necessary.""","""아니, 그럴 필요 없어.""",xp2_hen_val,,,,,0,0
+103487,PC,Player Character,"""I didn't realize you'd had military engagements.""","""군사 작전에 참여한 줄 몰랐네.""",xp2_hen_val,,,,,0,0
+103488,PC,Player Character,"""You probably saved them, then. I'm impressed.""","""그럼 아마 그들을 구한 거야. 인상적이네.""",xp2_hen_val,,,,,0,0
+103489,PC,Player Character,"""So you've never actually won a battle, then?""","""그럼 실제로 전투에서 이긴 적이 없는 거야?""",xp2_hen_val,,,,,0,0
+103490,PC,Player Character,"""What happened then?""","""그래서 무슨 일이 일어났어?""",xp2_hen_val,,,,,0,0
+103491,PC,Player Character,"""I don't need to hear about it.""","""들을 필요 없어.""",xp2_hen_val,,,,,0,0
+103492,PC,Player Character,"""It didn't go well?""","""잘 안 됐어?""",xp2_hen_val,,,,,0,0
+103493,PC,Player Character,"""Maybe that would be best.""","""그게 최선일지도.""",xp2_hen_val,,,,,0,0
+103494,PC,Player Character,"""Does your blood make you evil?""","""네 피가 널 악하게 만들어?""",xp2_hen_val,,,,,0,0
+103495,PC,Player Character,"""I don't like the sound of that at all.""","""그 소리가 전혀 마음에 안 들어.""",xp2_hen_val,,,,,0,0
+103496,PC,Player Character,"""Then I will have to keep a close eye on you.""","""그럼 널 면밀히 지켜봐야겠네.""",xp2_hen_val,,,,,0,0
+103497,PC,Player Character,"""Then I will judge you on your actions.""","""그럼 네 행동으로 판단할게.""",xp2_hen_val,,,,,0,0
+103498,PC,Player Character,"""If you're struggling, then that's all I can ask.""","""고민하고 있다면, 그것만으로도 충분해.""",xp2_hen_val,,,,,0,0
+103499,PC,Player Character,"""Actually, I find it quite intriguing.""","""사실, 꽤 흥미로운데.""",xp2_hen_val,,nw_d2_female,,,0,0
+103500,PC,Player Character,"""I judge a man by his actions, not his blood.""","""피가 아니라 행동으로 사람을 판단해.""",xp2_hen_val,,,,,0,0
+103501,PC,Player Character,"""No. Should it?""","""아니. 그래야 해?""",xp2_hen_val,,,,,0,0
+103502,PC,Player Character,"""Doesn't that make your job more difficult?""","""그게 일을 더 어렵게 만들지 않아?""",xp2_hen_val,,,,,0,0
+103503,PC,Player Character,"""So why do you care what happens to them?""","""그럼 왜 그들에게 무슨 일이 일어나든 신경 써?""",xp2_hen_val,,,,,0,0
+103504,PC,Player Character,"""And you don't?""","""넌 안 그래?""",xp2_hen_val,,,,,0,0
+103505,PC,Player Character,"""I want to know more about you.""","""너에 대해 더 알고 싶어.""",xp2_hen_val,,x2_valcatchup,,,0,0
+103506,PC,Player Character,"""What do you want to know?""","""뭘 알고 싶어?""",xp2_hen_val,,,,,0,0
+103507,PC,Player Character,"""Then never mind.""","""그럼 신경 쓰지 마.""",xp2_hen_val,,,,,0,0
+103508,PC,Player Character,"""No, not yet. Stay here.""","""아니, 아직. 여기 있어.""",xp2_hen_val,,,,,0,0
+103509,PC,Player Character,"""Yes, come along.""","""그래, 같이 가.""",xp2_hen_val,,,,,0,0
+103510,PC,Player Character,"""This isn't a good time, Valen.""","""지금은 좋은 때가 아니야, 발렌.""",xp2_hen_val,x0_d1_hen_inter0,,,,0,0
+103511,PC,Player Character,"""Certainly, Valen. What would you like?""","""물론이지, 발렌. 뭘 원해?""",xp2_hen_val,x0_d1_hen_inter0,,,,0,0
+103512,PC,Player Character,"""Well, keep control of yourself!""","""뭐, 자제력을 유지해!""",xp2_hen_val,,,,,0,0
+103513,PC,Player Character,"""What do you mean?""","""무슨 뜻이야?""",xp2_hen_val,,,,,0,0
+103514,PC,Player Character,"""Well, if you get us killed, I'm not raising you!""","""뭐, 우릴 죽게 만들면, 되살리지 않을 거야!""",xp2_hen_val,,,,,0,0
+103515,PC,Player Character,"""Just keep control of yourself.""","""그냥 자제력을 유지해.""",xp2_hen_val,,,,,0,0
+103516,PC,Player Character,"""Yes, you'd think they'd have the same trouble as you.""","""그래, 그들도 너와 같은 문제를 겪을 거라 생각할 텐데.""",xp2_hen_val,,,,,0,0
+103517,PC,Player Character,"""Are you going to be able to hold out?""","""버틸 수 있겠어?""",xp2_hen_val,,,,,0,0
+103518,PC,Player Character,"""Maybe you're right. Maybe you should stay here.""","""네 말이 맞을지도. 여기 있어야 할지도.""",xp2_hen_val,,,,,0,0
+103519,PC,Player Character,"""No, forget it. I'm not leaving you here.""","""아니, 됐어. 널 여기 두고 갈 수 없어.""",xp2_hen_val,,,,,0,0
+103520,PC,Player Character,"""You'd be willing to do that? I'm grateful, but there's no need.""","""그렇게 하려고? 고맙지만, 그럴 필요 없어.""",xp2_hen_val,,,,,0,0
+103521,PC,Player Character,"""Yes, perhaps that's for the best.""","""그래, 아마 그게 최선일 거야.""",xp2_hen_val,,,,,0,0
+103522,PC,Player Character,"""I need you with me. You're not staying behind.""","""네가 필요해. 뒤에 남지 마.""",xp2_hen_val,,,,,0,0
+103523,PC,Player Character,"""I'm not going to leave you in the Hells. Don't be absurd.""","""지옥에 널 두고 갈 수 없어. 말도 안 돼.""",xp2_hen_val,,,,,0,0
+103524,PC,Player Character,"""I'm not leaving you behind, my love. Ever.""","""널 두고 가지 않을 거야, 내 사랑. 절대로.""",xp2_hen_val,,x2_valromancex,,,0,0
+103525,PC,Player Character,"""This isn't some sappy confession, is it?""","""감상적인 고백은 아니겠지?""",xp2_hen_val,,,,,0,0
+103526,PC,Player Character,"""Just spit it out already.""","""그냥 말해.""",xp2_hen_val,,,,,0,0
+103527,PC,Player Character,"""And why should I care what you think, exactly?""","""내가 네 생각을 왜 신경 써야 하지?""",xp2_hen_val,,,,,0,0
+103528,PC,Player Character,"""Are you joking? I only helped you because of the geas.""","""농담이야? 기아스 때문에 도운 것뿐이야.""",xp2_hen_val,,,,,0,0
+103529,PC,Player Character,"""They can all die. And you with them, for that matter.""","""모두 죽어도 돼. 사실 너도 같이.""",xp2_hen_val,,,,,0,0
+103530,PC,Player Character,"""I do want to stop Mephistopheles, that's true.""","""메피스토펠레스를 막고 싶은 건 맞아.""",xp2_hen_val,,,,,0,0
+103531,PC,Player Character,"""I want to get out of the Hells. That's it.""","""지옥에서 빠져나가고 싶어. 그게 다야.""",xp2_hen_val,,,,,0,0
+103532,PC,Player Character,"""I have a reward coming to me. That's all I care about.""","""보상이 있어. 그것만 신경 써.""",xp2_hen_val,,,,,0,0
+103533,PC,Player Character,"""Thank you. I would have helped even if it wasn't for the geas.""","""고마워. 기아스가 아니었어도 도왔을 거야.""",xp2_hen_val,,,,,0,0
+103534,PC,Player Character,"""We've still got Mephistopheles to deal with.""","""아직 메피스토펠레스를 상대해야 해.""",xp2_hen_val,,,,,0,0
+103535,PC,Player Character,"""Don't be an idiot. You're here to assist me, that's all.""","""바보같이 굴지 마. 넌 날 돕기 위해 여기 있는 거야, 그게 다야.""",xp2_hen_val,,,,,0,0
+103536,PC,Player Character,"""We're hardly friends, Valen.""","""우린 거의 친구가 아니야, 발렌.""",xp2_hen_val,,,,,0,0
+103537,PC,Player Character,"""Friends? Certainly. I'd like that.""","""친구? 물론. 그러고 싶어.""",xp2_hen_val,,,,,0,0
+103538,PC,Player Character,"""I'd be willing to be more than just friends, if you would.""","""네가 원한다면, 친구 이상이 되고 싶어.""",xp2_hen_val,,nw_d2_female,,,0,0
+103539,PC,Player Character,"""You think you can do better than me? Hah!""","""나보다 나은 사람을 찾을 수 있다고 생각해? 하!""",xp2_hen_val,,,,,0,0
+103540,PC,Player Character,"""I see. Have it your way, then.""","""알겠어. 그럼 네 맘대로 해.""",xp2_hen_val,,,,,0,0
+103541,PC,Player Character,"""It's all right. I understand.""","""괜찮아. 이해해.""",xp2_hen_val,,,,,0,0
+103542,PC,Player Character,"""Take off that armor and we could get even closer.""","""그 갑옷 벗으면 더 가까워질 수 있을 텐데.""",xp2_hen_val,,,,,0,0
+103543,PC,Player Character,"""I know. I was only joking, Valen.""","""알아. 그냥 농담이었어, 발렌.""",xp2_hen_val,,,,,0,0
+103544,PC,Player Character,"""Oh, all right. Go ahead, spoilsport.""","""오, 알았어. 계속해, 재미없는 사람.""",xp2_hen_val,,,,,0,0
+103545,PC,Player Character,"""That's too bad. I feel nothing for you at all.""","""안됐네. 난 너한테 아무 감정도 없는데.""",xp2_hen_val,,,,,0,0
+103546,PC,Player Character,"""I... think of you only as a friend, Valen. I'm sorry.""","""난... 너를 친구로만 생각해, 발렌. 미안해.""",xp2_hen_val,,,,,0,0
+103547,PC,Player Character,"""Well...""","""뭐...""",xp2_hen_val,,,,,0,0
+103548,PC,Player Character,"""Of course.""","""물론이지.""",xp2_hen_val,,,,,0,0
+103549,PC,Player Character,"""I feel close to you too, Valen.""","""나도 너와 가깝게 느껴, 발렌.""",xp2_hen_val,,,,,0,0
+103550,PC,Player Character,"""I... don't know how I feel, Valen. It's too soon...""","""난... 어떻게 느끼는지 모르겠어, 발렌. 너무 빨라...""",xp2_hen_val,,,,,0,0
+103551,PC,Player Character,"""And I love you, Valen.""","""나도 사랑해, 발렌.""",xp2_hen_val,x2_ivalrom++,,,,0,0
+103552,PC,Player Character,"""We still have much to do. Dealing with Mephistopheles, for starters.""","""아직 할 일이 많아. 우선 메피스토펠레스를 상대해야 하고.""",xp2_hen_val,,,,,0,0
+103553,PC,Player Character,"""What do you see happening between us, Valen?""","""우리 사이에 무슨 일이 일어날 거라고 생각해, 발렌?""",xp2_hen_val,,,,,0,0
+103554,PC,Player Character,"""Close in what way?""","""어떤 의미로 가까워?""",xp2_hen_val,,,,,0,0
+103555,PC,Player Character,"""What's that?""","""그게 뭔데?""",xp2_hen_val,,,,,0,0
+103556,PC,Player Character,"""Is that such a terrible thing?""","""그게 그렇게 끔찍한 일이야?""",xp2_hen_val,,,,,0,0
+103557,PC,Player Character,"""I've never given it too much thought, really.""","""사실 그것에 대해 많이 생각해본 적 없어.""",xp2_hen_val,,,,,0,0
+103558,PC,Player Character,"""Not really. I've never believed in much of anything.""","""별로. 뭔가를 믿어본 적이 없어.""",xp2_hen_val,,,,,0,0
+103559,PC,Player Character,"""Yes, I am. I am faithful to my deity, if you must know.""","""그래, 그래. 알아야겠다면, 내 신을 믿어.""",xp2_hen_val,,,,,0,0
+103560,PC,Player Character,"""You have your opinion, I have my faith. Let us leave it at that.""","""넌 네 의견이 있고, 난 내 신앙이 있어. 그걸로 하자.""",xp2_hen_val,,,,,0,0
+103561,PC,Player Character,"""No, I don't find it offensive at all.""","""아니, 전혀 불쾌하지 않아.""",xp2_hen_val,,,,,0,0
+103562,PC,Player Character,"""That depends. Are you planning on leaving?""","""경우에 따라 다르지. 떠날 계획이야?""",xp2_hen_val,,,,,0,0
+103563,PC,Player Character,"""No? Why would you stay if you love the planes?""","""아니? 차원계를 사랑한다면 왜 머물러?""",xp2_hen_val,,,,,0,0
+103564,PC,Player Character,"""Then you should at least learn all you can about us.""","""그럼 최소한 우리에 대해 배울 수 있는 건 다 배워야 해.""",xp2_hen_val,,,,,0,0
+103565,PC,Player Character,"""Then you should adapt to our ways.""","""그럼 우리 방식에 적응해야 해.""",xp2_hen_val,,,,,0,0
+103566,PC,Player Character,"""You can't change who you are, Valen.""","""네 본질은 바꿀 수 없어, 발렌.""",xp2_hen_val,,,,,0,0
+103567,PC,Player Character,"""I don't think there's any harm in learning our ways.""","""우리 방식을 배우는 데 해가 될 건 없다고 생각해.""",xp2_hen_val,,,,,0,0
+103568,PC,Player Character,"""Yes, I'd like that very much.""","""그래, 그러고 싶어.""",xp2_hen_val,,,,,0,0
+103569,PC,Player Character,"""No, I don't need you with me any longer than necessary.""","""아니, 필요 이상으로 너와 함께 있을 필요 없어.""",xp2_hen_val,,,,,0,0
+103570,PC,Player Character,"""Do what you want. I won't stop you.""","""하고 싶은 대로 해. 막지 않을게.""",xp2_hen_val,,,,,0,0
+103571,PC,Player Character,"""Why are you asking me?""","""왜 나한테 물어?""",xp2_hen_val,,,,,0,0
+103572,PC,Player Character,"""Ask someone else.""","""다른 사람한테 물어봐.""",xp2_hen_val,,,,,0,0
+103573,PC,Player Character,"""A god is still more powerful than you could conceive of, no?""","""신은 여전히 네가 상상할 수 있는 것보다 강력하잖아, 안 그래?""",xp2_hen_val,,,,,0,0
+103574,PC,Player Character,"""I think you don't know what you are talking about.""","""무슨 말 하는지 모르는 것 같은데.""",xp2_hen_val,,,,,0,0
+103575,PC,Player Character,"""Of course. I am a servant to my deity. Did you not know that?""","""물론이지. 난 내 신의 종복이야. 몰랐어?""",xp2_hen_val,,nw_d2_holy,,,0,0
+103576,PC,Player Character,"""Let's hear it, then.""","""들어보자.""",xp2_hen_val,,,,,0,0
+103577,PC,Player Character,"""I don't want your stupid apology.""","""네 어리석은 사과 따윈 원하지 않아.""",xp2_hen_val,,,,,0,0
+103578,PC,Player Character,"""An apology? For what?""","""사과? 뭐에 대한?""",xp2_hen_val,,,,,0,0
+103579,PC,Player Character,"""And? That's it?""","""그래서? 그게 다야?""",xp2_hen_val,,,,,0,0
+103580,PC,Player Character,"""Oh, never mind. I suppose it'll do.""","""오, 신경 쓰지 마. 그 정도면 될 것 같아.""",xp2_hen_val,,,,,0,0
+103581,PC,Player Character,"""I want you on your knees, fool.""","""무릎 꿇어, 바보.""",xp2_hen_val,,,,,0,0
+103582,PC,Player Character,"""Is *that* how you apologize to a woman?""","""*그렇게* 여자에게 사과하는 거야?""",xp2_hen_val,,nw_d2_female,,,0,0
+103583,PC,Player Character,"""Perhaps. For a kiss.""","""어쩌면. 키스하면.""",xp2_hen_val,,,,,0,0
+103584,PC,Player Character,"""Yes, I am. You're off the hook... this time.""","""그래, 그래. 봐준다... 이번만.""",xp2_hen_val,,,,,0,0
+103585,PC,Player Character,"""Maybe a little.""","""조금.""",xp2_hen_val,,,,,0,0
+103586,PC,Player Character,"""Of course not!""","""당연히 아니지!""",xp2_hen_val,,,,,0,0
+103587,PC,Player Character,"""All right, fine. You're off the hook.""","""알았어, 좋아. 봐준다.""",xp2_hen_val,,,,,0,0
+103588,PC,Player Character,"""I think I deserve more of an apology then that.""","""그것보다 더 제대로 된 사과를 받을 자격이 있다고 생각해.""",xp2_hen_val,,,,,0,0
+103589,PC,Player Character,"""Hah! Forget it.""","""하! 잊어버려.""",xp2_hen_val,,,,,0,0
+103590,PC,Player Character,"""Thank you. Yes.""","""고마워. 그래.""",xp2_hen_val,,,,,0,0
+103591,PC,Player Character,"""Thank you, Valen. I appreciate your candor.""","""고마워, 발렌. 솔직함에 감사해.""",xp2_hen_val,,,,,0,0
+103592,PC,Player Character,"""What do you know about him?""","""그에 대해 뭘 알아?""",xp2_hen_val,,,,,0,0
+103593,PC,Player Character,"""What makes you think I won't betray you?""","""내가 배신하지 않을 거라고 왜 생각해?""",xp2_hen_val,,,,,0,0
+103594,PC,Player Character,"""Of course not. You still don't know me, however.""","""물론 아니지. 하지만 넌 여전히 날 모르잖아.""",xp2_hen_val,,,,,0,0
+103595,PC,Player Character,"""No. Forget it.""","""아니. 잊어버려.""",xp2_hen_val,,,,,0,0
+103596,PC,Player Character,"""Yes, I suppose so.""","""그래, 그런 것 같아.""",xp2_hen_val,,,,,0,0
+103597,PC,Player Character,"""Not really. I just don't like you.""","""별로. 그냥 네가 싫어.""",xp2_hen_val,,,,,0,0
+103598,PC,Player Character,"""If I could get rid of this geas, damn right I would.""","""이 기아스를 없앨 수 있다면, 당연히 그럴 거야.""",xp2_hen_val,,,,,0,0
+103599,PC,Player Character,"""You can stuff your apology. I don't need it.""","""사과 따윈 집어치워. 필요 없어.""",xp2_hen_val,,,,,0,0
+103600,PC,Player Character,"""Well, I don't want to talk about her.""","""뭐, 그녀에 대해 말하고 싶지 않아.""",xp2_hen_val,,,,,0,0
+103601,PC,Player Character,"""Yes, I really wish to ignore you.""","""그래, 정말 무시하고 싶어.""",xp2_hen_val,,,,,0,0
+103602,PC,Player Character,"""What could be so important? You still think I will betray her?""","""뭐가 그렇게 중요해? 아직도 내가 그녀를 배신할 거라고 생각해?""",xp2_hen_val,,,,,0,0
+103603,PC,Player Character,"""Fine, go on. I was only joking.""","""좋아, 계속해. 그냥 농담이었어.""",xp2_hen_val,,,,,0,0
+103604,PC,Player Character,"""Good. I have a few questions about her, myself.""","""좋아. 나도 그녀에 대해 몇 가지 질문이 있어.""",xp2_hen_val,,,,,0,0
+103605,PC,Player Character,"<StartAction>[Groan]</Start> ""What for? Why now?""","<StartAction>[신음]</Start> ""뭐 때문에? 왜 지금?""",xp2_hen_val,,,,,0,0
+103606,PC,Player Character,"""Why? Do you still think I will betray her?""","""왜? 아직도 내가 그녀를 배신할 거라고 생각해?""",xp2_hen_val,,,,,0,0
+103607,PC,Player Character,"""Is this a gender thing? Like how all men are pigs?""","""이거 성별 문제야? 모든 남자가 돼지라는 식으로?""",xp2_hen_val,,nw_d2_female,,,0,0
+103608,PC,Player Character,"""You'd be correct. I have no idea what that is.""","""맞아. 그게 뭔지 전혀 모르겠어.""",xp2_hen_val,,,,,0,0
+103609,PC,Player Character,"""I know what the Blood Wars are.""","""피의 전쟁이 뭔지 알아.""",xp2_hen_val,,,,,0,0
+103610,PC,Player Character,"""How were you recruited?""","""어떻게 모집됐어?""",xp2_hen_val,,,,,0,0
+103611,PC,Player Character,"""How long did this go on?""","""얼마나 오래 계속됐어?""",xp2_hen_val,,,,,0,0
+103612,PC,Player Character,"""I'm so sorry. That sounds terrible.""","""정말 미안해. 끔찍하게 들려.""",xp2_hen_val,,,,,0,0
+103613,PC,Player Character,"""Continue your tale.""","""이야기 계속해.""",xp2_hen_val,,,,,0,0
+103614,PC,Player Character,"""She came to the Abyss?""","""그녀가 심연에 왔어?""",xp2_hen_val,,,,,0,0
+103615,PC,Player Character,"""What happened next?""","""다음엔 무슨 일이 일어났어?""",xp2_hen_val,,,,,0,0
+103616,PC,Player Character,"""Oh. I didn't realize you had *that* kind of relationship.""","""오. *그런* 관계였는지 몰랐네.""",xp2_hen_val,,,,,0,0
+103617,PC,Player Character,"""And this is what was so important to tell me?""","""그리고 이게 나한테 말하기 그렇게 중요했어?""",xp2_hen_val,,,,,0,0
+103618,PC,Player Character,"""Good for you. Thanks for the tip.""","""잘됐네. 조언 고마워.""",xp2_hen_val,,,,,0,0
+103619,PC,Player Character,"""I understand, Valen. We all do what we must.""","""이해해, 발렌. 우리 모두 해야 할 일을 하는 거니까.""",xp2_hen_val,,,,,0,0
+103620,PC,Player Character,"""I am not going to betray anyone, Valen. You have to trust me.""","""누구도 배신하지 않을 거야, 발렌. 날 믿어야 해.""",xp2_hen_val,x2_ivalrom++,,,,0,0
+103621,PC,Player Character,"""Are we back to that again?""","""다시 그 얘기야?""",xp2_hen_val,,,,,0,0
+103622,PC,Player Character,"""By turning you into her personal bodyguard?""","""널 그녀의 개인 경호원으로 만들어서?""",xp2_hen_val,,,,,0,0
+103623,PC,Player Character,"""Your master didn't try to get you back?""","""네 주인이 널 되찾으려 하지 않았어?""",xp2_hen_val,,,,,0,0
+103624,PC,Player Character,"""I see where this is going. Hurry up.""","""어디로 가는지 알겠어. 서둘러.""",xp2_hen_val,,,,,0,0
+103625,PC,Player Character,"""That can't have been easy, considering where you were.""","""네가 있던 곳을 생각하면 쉽지 않았을 거야.""",xp2_hen_val,,,,,0,0
+103626,PC,Player Character,"""But she hadn't even done anything to you.""","""하지만 그녀는 너한테 아무것도 하지 않았잖아.""",xp2_hen_val,,,,,0,0
+103627,PC,Player Character,"""Why did you fight if you didn't like it?""","""좋아하지도 않았는데 왜 싸웠어?""",xp2_hen_val,,,,,0,0
+103628,PC,Player Character,"""Perhaps I could answer that by killing you.""","""아마 널 죽임으로써 대답할 수 있을 거야.""",xp2_hen_val,,,,,0,0
+103629,PC,Player Character,"""That's a rude question, isn't it?""","""무례한 질문이지 않아?""",xp2_hen_val,,,,,0,0
+103630,PC,Player Character,"""What do you mean?""","""무슨 뜻이야?""",xp2_hen_val,,,,,0,0
+103631,PC,Player Character,"""According to your Seer, I'm the one who can win.""","""네 선견자에 따르면, 내가 이길 수 있는 사람이야.""",xp2_hen_val,,,,,0,0
+103632,PC,Player Character,"""What is your point, Valen?""","""요점이 뭐야, 발렌?""",xp2_hen_val,,,,,0,0
+103633,PC,Player Character,"""If you feel the need to brood, do it elsewhere.""","""우울해하고 싶으면, 다른 데 가서 해.""",xp2_hen_val,,,,,0,0
+103634,PC,Player Character,"""I'll get the job done no matter what you or she thinks.""","""너나 그녀가 뭐라고 생각하든 일은 끝낼 거야.""",xp2_hen_val,,,,,0,0
+103635,PC,Player Character,"""You don't believe in her visions?""","""그녀의 환영을 믿지 않아?""",xp2_hen_val,,,,,0,0
+103636,PC,Player Character,"""Meaning what?""","""그게 무슨 뜻인데?""",xp2_hen_val,,,,,0,0
+103637,PC,Player Character,"""I admire your dedication.""","""네 헌신에 감탄해.""",xp2_hen_val,,,,,0,0
+103638,PC,Player Character,"""That's very presumptuous of you.""","""참 주제넘네.""",xp2_hen_val,,,,,0,0
+103639,PC,Player Character,"""And how would I do that while I'm under this geas?""","""그리고 이 기아스에 걸려 있는데 어떻게 그럴 수 있겠어?""",xp2_hen_val,,,,,0,0
+103640,PC,Player Character,"""Absolutely. I'll break this geas if it's the last thing I do.""","""당연하지. 마지막까지 이 기아스를 깨뜨릴 거야.""",xp2_hen_val,,,,,0,0
+103641,PC,Player Character,"""I don't know.""","""모르겠어.""",xp2_hen_val,,,,,0,0
+103642,PC,Player Character,"""No. I said I would do this, and I will.""","""아니. 하겠다고 했고, 할 거야.""",xp2_hen_val,,,,,0,0
+103643,PC,Player Character,"""I'd leave. This has nothing to do with me, as far as I'm concerned.""","""떠날 거야. 내가 보기엔 나랑 아무 상관 없어.""",xp2_hen_val,,,,,0,0
+103644,PC,Player Character,"""Maybe not. I just don't like being forced into anything.""","""아닐지도. 그냥 강요받는 게 싫을 뿐이야.""",xp2_hen_val,,,,,0,0
+103645,PC,Player Character,"""I don't care what happens to the drow. I'm here to stop the Valsharess.""","""드로우에게 무슨 일이 일어나든 상관없어. 난 발샤레스를 막으러 왔어.""",xp2_hen_val,,,,,0,0
+103646,PC,Player Character,"""You think I would betray them?""","""내가 그들을 배신할 거라고 생각해?""",xp2_hen_val,,,,,0,0
+103647,PC,Player Character,"""If you don't trust me so much, then why are you here?""","""그렇게 날 믿지 못한다면, 왜 여기 있어?""",xp2_hen_val,,,,,0,0
+103648,PC,Player Character,"""Yes, I have. Go on, get out of here.""","""그래, 했어. 어서, 나가.""",xp2_hen_val,,,,,0,0
+103649,PC,Player Character,"""I need a companion I can trust.""","""믿을 수 있는 동료가 필요해.""",xp2_hen_val,,,,,0,0
+103650,PC,Player Character,"""No. Have you?""","""아니. 너는?""",xp2_hen_val,,,,,0,0
+103651,PC,Player Character,"""What do you want from me? My word I won't betray you?""","""내게 뭘 원해? 배신하지 않겠다는 약속?""",xp2_hen_val,,,,,0,0
+103652,PC,Player Character,"""No.""","""아니.""",xp2_hen_val,,,,,0,0
+103653,PC,Player Character,"""Yes.""","""그래.""",xp2_hen_val,,,,,0,0
+103654,PC,Player Character,"""I can't do anything while I'm under the geas, anyhow.""","""어차피 기아스에 걸려 있는 동안은 아무것도 할 수 없어.""",xp2_hen_val,,,,,0,0
+103655,PC,Player Character,"""Maybe it is.""","""그럴지도.""",xp2_hen_val,,,,,0,0
+103656,PC,Player Character,"""I didn't ask to be put in charge.""","""책임을 맡아달라고 부탁받은 적 없어.""",xp2_hen_val,,,,,0,0
+103657,PC,Player Character,"""It's a duty I shall see through to the end, I promise you.""","""끝까지 완수할 의무야, 약속해.""",xp2_hen_val,,,,,0,0
+103658,PC,Player Character,"""Stopping the Valsharess is the only thing that's important.""","""발샤레스를 막는 게 중요한 유일한 일이야.""",xp2_hen_val,,,,,0,0
+103659,PC,Player Character,"""I'm not here to help anyone. What if I refuse?""","""누구를 도우러 온 게 아니야. 거부하면 어떻게 되는데?""",xp2_hen_val,,,,,0,0
+103660,PC,Player Character,"""Doesn't it mean anything to you? Your Seer is the one who put me in charge.""","""아무 의미도 없어? 네 선견자가 날 책임자로 임명했잖아.""",xp2_hen_val,,,,,0,0
+103661,PC,Player Character,"""I'll do the best I can. Like I said, I didn't ask for this.""","""최선을 다할게. 말했듯이, 이걸 원한 적 없어.""",xp2_hen_val,,,,,0,0
+103662,PC,Player Character,"""Do you see any forces? What am I in charge of?""","""병력이 보여? 내가 뭘 지휘하는데?""",xp2_hen_val,,,,,0,0
+103663,PC,Player Character,"""And if I refuse?""","""거부하면?""",xp2_hen_val,,,,,0,0
+103664,PC,Player Character,"""That's a little dramatic, isn't it?""","""좀 극적이지 않아?""",xp2_hen_val,,,,,0,0
+103665,PC,Player Character,"""Besides my charm and beauty?""","""내 매력과 아름다움 말고?""",xp2_hen_val,,nw_d2_female,,,0,0
+103666,PC,Player Character,"""You seem almost sad.""","""거의 슬퍼 보이는데.""",xp2_hen_val,,,,,0,0
+103667,PC,Player Character,"""We don't have time to get into this, Valen.""","""이걸 따질 시간 없어, 발렌.""",xp2_hen_val,,,,,0,0
+103668,PC,Player Character,"""Let's go.""","""가자.""",xp2_hen_val,,,,,0,0
+103669,PC,Player Character,"<StartAction>[Deekin]</Start> ""Ixthyria the Scalesinger...""","<StartAction>[디킨]</Start> ""비늘소리꾼 익시리아...""",xp2_hen_val,a_true_deekin,hx_dek_nameonce,,,0,0
+103670,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_val,,,,,0,0
+103671,PC,Player Character,"""Believe in yourself, Deekin.""","""자신을 믿어, 디킨.""",xp2_hen_val,h2a_deek_namebel,,,,0,0
+103672,PC,Player Character,"""You're kind, you're talented, you're funny. You don't need me anymore. If I die, you'll be all right.""","""넌 친절하고, 재능 있고, 재미있어. 더 이상 날 필요로 하지 않아. 내가 죽어도, 넌 괜찮을 거야.""",xp2_hen_val,,,,,0,0
+103673,PC,Player Character,"""Not if I can help it. Come, we have an adventure to finish.""","""내가 도울 수 있다면 그렇지 않아. 와, 끝내야 할 모험이 있어.""",xp2_hen_val,,,,,0,0
+103674,PC,Player Character,"""Surrender your soul to me, little one!"" ","""네 영혼을 나에게 바쳐라, 꼬마야!""",xp2_hen_val,,c_evilact,,,0,0
+103675,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",xp2_hen_val,,,,,0,0
+103676,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",xp2_hen_val,,,,,0,0
+103677,PC,Player Character,"<StartAction>[Aribeth]</Start> ""Va'ardalia the Twinsouled...""","<StartAction>[아리베스]</Start> ""두영혼의 바아달리아...""",xp2_hen_val,a_true_ari,hx_ari_nameonce,,,0,0
+103678,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_val,,,,,0,0
+103679,PC,Player Character,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 대해 죄책감을 느끼지 마.""",xp2_hen_val,,,,,0,0
+103680,PC,Player Character,"""You are right. I will not ask that of you.""","""네 말이 맞아. 그걸 요구하지 않을게.""",xp2_hen_val,,,,,0,0
+103681,PC,Player Character,"""Don't you see? This is your atonement... It's all right...""","""모르겠어? 이게 네 속죄야... 괜찮아...""",xp2_hen_val,,,,,0,0
+103682,PC,Player Character,"""I just don't want to see you suffer so.""","""그저 네가 그렇게 고통받는 걸 보고 싶지 않을 뿐이야.""",xp2_hen_val,,,,,0,0
+103683,PC,Player Character,"""Yes, Aribeth. Dead and cold...""","""그래, 아리베스. 죽고 차갑게...""",xp2_hen_val,,,,,0,0
+103684,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",xp2_hen_val,,c_evilact,,,0,0
+103685,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",xp2_hen_val,,,,,0,0
+103686,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",xp2_hen_val,,,,,0,0
+103687,PC,Player Character,"""I command you to pursue evil, not good.""","""선이 아닌 악을 추구하라고 명령한다.""",xp2_hen_val,hx_ari_change_e,,,,0,0
+103688,PC,Player Character,"""I command you to love me...""","""날 사랑하라고 명령한다...""",xp2_hen_val,h2a_ari_nameroma,c_false,,,0,0
+103689,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_val,,,,,0,0
+103690,PC,Player Character,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 대해 죄책감을 느끼지 마.""",xp2_hen_val,,,,,0,0
+103691,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",xp2_hen_val,,c_evilact,,,0,0
+103692,PC,Player Character,"""If it means losing you, then no...""","""널 잃는다는 뜻이라면, 안 돼...""",xp2_hen_val,,,,,0,0
+103693,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",xp2_hen_val,,,,,0,0
+103694,PC,Player Character,"""I command you to pursue good, not evil.""","""악이 아닌 선을 추구하라고 명령한다.""",xp2_hen_val,hx_ari_change_g,,,,0,0
+103695,PC,Player Character,"""I command you to love me!""","""날 사랑하라고 명령한다!""",xp2_hen_val,h2a_ari_nameroma,c_false,,,0,0
+103696,PC,Player Character,"""That is all, Aribeth.""","""그게 다야, 아리베스.""",xp2_hen_val,,,,,0,0
+103697,PC,Player Character,"<StartAction>[Nathyrra]</Start> ""Qeyifalia the Skyseeker...""","<StartAction>[나시라]</Start> ""하늘탐구자 퀴팔리아...""",xp2_hen_val,a_true_nath,hx_nat_nameonce,,,0,0
+103698,PC,Player Character,"""Nothing right now.""","""지금은 아무것도.""",xp2_hen_val,,,,,0,0
+103699,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",xp2_hen_val,,c_evilact,,,0,0
+103700,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",xp2_hen_val,,,,,0,0
+103701,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",xp2_hen_val,,,,,0,0
+103702,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 너를 묶는다!""",xp2_hen_val,h2a_nath_namerom,c_false,,,0,0
+103703,PC,Player Character,"""Your anger is nothing to me. I own you, body and soul.""","""네 분노는 내게 아무것도 아니야. 널 소유하고 있어, 몸과 영혼을.""",xp2_hen_val,,,,,0,0
+103704,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화났을 때 정말 섹시해. 키스해줘!""",xp2_hen_val,,,,,0,0
+103705,PC,Player Character,"""Forgive yourself for your past crimes.""","""과거의 죄를 용서해.""",xp2_hen_val,h2a_nath_namefor,,,,0,0
+103706,PC,Player Character,"""I won't do anything to harm you, Nathyrra.""","""너에게 해가 되는 건 하지 않을게, 나시라.""",xp2_hen_val,,,,,0,0
+103707,PC,Player Character,"<StartAction>[Valen]</Start> ""Oeskathine the Demonwrestler...""","<StartAction>[발렌]</Start> ""악마씨름꾼 오에스카틴...""",xp2_hen_val,a_true_valen,hx_val_nameonce,,,0,0
+103708,PC,Player Character,"""Nothing right now.""","""지금은 아무것도.""",xp2_hen_val,,,,,0,0
+103709,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",xp2_hen_val,,c_evilact,,,0,0
+103710,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",xp2_hen_val,,,,,0,0
+103711,PC,Player Character,"""We're done. For now.""","""끝났어. 일단은.""",xp2_hen_val,,,,,0,0
+103712,PC,Player Character,"""Sorry, my love, but this is it for us.""","""미안해, 내 사랑, 하지만 우리는 여기까지야.""",xp2_hen_val,,x2_valromancex,,,0,0
+103713,PC,Player Character,"""Yes, I am.""","""그래, 그래.""",xp2_hen_val,,,,,0,0
+103714,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 너를 묶는다!""",xp2_hen_val,,c_false,,,0,0
+103715,PC,Player Character,"""Well... perhaps not.""","""뭐... 아닐 수도.""",xp2_hen_val,,,,,0,0
+103716,PC,Player Character,"""You heard me.""","""들었잖아.""",xp2_hen_val,h2a_val_namerom,,,,0,0
+103717,PC,Player Character,"""You don't frighten me. I own you, body and soul.""","""날 겁주지 못해. 널 소유하고 있어, 몸과 영혼을.""",xp2_hen_val,,,,,0,0
+103718,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화났을 때 정말 섹시해. 키스해줘!""",xp2_hen_val,,,,,0,0
+103719,PC,Player Character,"""I hereby free you from your infernal taint.""","""이로써 너를 지옥의 오염에서 해방한다.""",xp2_hen_val,h2a_val_namefor,h2a_val_namefor1,,,0,0
+103720,PC,Player Character,"""You're welcome.""","""천만에.""",xp2_hen_val,,,,,0,0
+103721,PC,Player Character,"""Glad you like it. Now give me your soul.""","""마음에 들어서 다행이야. 이제 네 영혼을 내게 줘.""",xp2_hen_val,,c_evilact,,,0,0
+103722,PC,Player Character,"""Good. Now, in repayment, you are to be become my lover forever.""","""좋아. 이제, 보답으로, 넌 영원히 내 연인이 되는 거야.""",xp2_hen_val,,c_false,,,0,0
+103723,PC,Player Character,"""So there's hope for us after all?""","""그러면 우리에게 결국 희망이 있는 거야?""",xp2_hen_val,,x2_valromancex,,,0,0
+103724,PC,Player Character,"""Does it really feel that different?""","""정말 그렇게 다르게 느껴져?""",xp2_hen_val,,,,,0,0
+103725,PC,Player Character,"""I'm glad. You certainly earned it.""","""다행이야. 분명히 그럴 자격이 있어.""",xp2_hen_val,,,,,0,0
+103726,PC,Player Character,"""Right. You fear for your humanity. Losing hope. Got it.""","""그렇지. 네 인간성을 두려워하는구나. 희망을 잃고. 알겠어.""",xp2_hen_val,,,,,0,0
+103727,PC,Player Character,"""I just want to get to Mephistopheles, that's all.""","""그냥 메피스토펠레스에게 가고 싶어, 그게 다야.""",xp2_hen_val,,,,,0,0
+103728,PC,Player Character,"""I'm just a little tired of your whining.""","""네 징징거림에 좀 지쳤어.""",xp2_hen_val,,,,,0,0
+103729,PC,Player Character,"""I am your friend, Valen. But I can't help you with this.""","""난 네 친구야, 발렌. 하지만 이건 도와줄 수 없어.""",xp2_hen_val,,,,,0,0
+103730,PC,Player Character,"""I am your friend. I'm sorry.""","""난 네 친구야. 미안해.""",xp2_hen_val,,,,,0,0
+103731,PC,Player Character,"""Hasn't the Seer helped you overcome this?""","""선견자가 이걸 극복하도록 도와주지 않았어?""",xp2_hen_val,,,,,0,0
+103732,PC,Player Character,"""Enough chatter. I want to find Mephistopheles.""","""잡담은 그만. 메피스토펠레스를 찾고 싶어.""",xp2_hen_val,,,,,0,0
+103733,PC,Player Character,"""It will get better, in time.""","""시간이 지나면 나아질 거야.""",xp2_hen_val,,,,,0,0
+103734,PC,Player Character,"""I can help you with that, if you let me.""","""허락한다면, 그걸 도와줄 수 있어.""",xp2_hen_val,,,,,0,0
+103735,PC,Player Character,"""Doesn't our love give you any hope at all?""","""우리의 사랑이 전혀 희망을 주지 않아?""",xp2_hen_val,,x2_valromancex,,,0,0
+103736,PC,Player Character,"""I don't know, Valen.""","""모르겠어, 발렌.""",xp2_hen_val,,,,,0,0
+103737,PC,Player Character,"""Not if you keep whining like this.""","""이렇게 계속 징징거리면 안 돼.""",xp2_hen_val,,,,,0,0
+103738,PC,Player Character,"""Let's just take each day as it comes, Valen.""","""그냥 하루하루를 살아가자, 발렌.""",xp2_hen_val,,,,,0,0
+103739,PC,Player Character,"""There's always hope.""","""항상 희망은 있어.""",xp2_hen_val,,,,,0,0
+103740,PC,Player Character,"""The Reaper has always referred to it as his realm, nothing else.""","""사신은 항상 그것을 자신의 영역이라고 부를 뿐이야.""",xp2_hen_val,,,,,0,0
+103741,PC,Player Character,"""He's an ally. That's all you need to know.""","""동맹이야. 그것만 알면 돼.""",xp2_hen_val,,,,,0,0
+103742,PC,Player Character,"""I don't know what he is. A demon, perhaps? He just is.""","""그가 뭔지 모르겠어. 악마? 그냥 그래.""",xp2_hen_val,,,,,0,0
+103743,PC,Player Character,"""Enough questions. The Reaper is an ally. That's all you need to know.""","""질문은 그만. 사신은 동맹이야. 그것만 알면 돼.""",xp2_hen_val,,,,,0,0
+103744,PC,Player Character,"""No... not really. He said something about a nexus, but I didn't really get it.""","""아니... 별로. 경계 영역에 대해 뭐라고 했는데, 잘 이해 못 했어.""",xp2_hen_val,,[지능 낮음],,,0,0
+103745,PC,Player Character,"""This place is a nexus, or so the Reaper says. I'm not sure I understand it all.""","""이곳은 경계 영역이라고, 사신이 그러는데. 전부 이해하는지 확신이 안 서.""",xp2_hen_val,,[지능 중간],,,0,0
+103746,PC,Player Character,"""The Reaper says his realm is a nexus. It connects to many places, but not all.""","""사신은 자신의 영역이 경계 영역이라고 해. 많은 곳과 연결되지만, 전부는 아니야.""",xp2_hen_val,,[지능 높음],,,0,0
+103747,PC,Player Character,"""Why don't you ask him yourself?""","""직접 물어보지 그래?""",xp2_hen_val,,,,,0,0
+103748,PC,Player Character,"""Are you done yapping? I'd like to try and find a way out of here.""","""떠들기 끝났어? 여기서 나갈 방법을 찾고 싶은데.""",xp2_hen_val,,,,,0,0
+103749,PC,Player Character,"""So you must know something about this place?""","""그럼 이곳에 대해 뭔가 알겠네?""",xp2_hen_val,,,,,0,0
+103750,PC,Player Character,"""If you don't attack, maybe they won't.""","""공격하지 않으면, 그들도 안 할 거야.""",xp2_hen_val,,,,,0,0
+103751,PC,Player Character,"""Seems a bit... cold to be the Hells, doesn't it?""","""지옥치고는 좀... 춥지 않아?""",xp2_hen_val,,,,,0,0
+103752,PC,Player Character,"""What was your first clue?""","""첫 번째 단서가 뭐였어?""",xp2_hen_val,,,,,0,0
+103753,PC,Player Character,"""That's very helpful. What would I do if you weren't here to point out the blatantly obvious?""","""정말 도움이 되네. 네가 여기서 뻔한 걸 지적하지 않았다면 어쩔 뻔했어?""",xp2_hen_val,,,,,0,0
+103754,PC,Player Character,"""Then we'd better check it out first.""","""그럼 먼저 확인하는 게 낫겠네.""",xp2_hen_val,,,,,0,0
+103755,PC,Player Character,"""If they try anything, I'll slaughter them all!""","""뭔가 시도하면, 전부 도살할 거야!""",xp2_hen_val,,,,,0,0
+103756,PC,Player Character,"""When I hack my way to the Elder Brain, it'll negotiate with me!""","""엘더 브레인까지 베고 가면, 나랑 협상할 거야!""",xp2_hen_val,,,,,0,0
+103757,PC,Player Character,"""What could I use to protect my mind?""","""내 정신을 보호하는 데 뭘 쓸 수 있을까?""",xp2_hen_val,,con_q2dgate_1,,,0,0
+103758,PC,Player Character,"""What about your mind?""","""네 정신은?""",xp2_hen_val,,,,,0,0
+103759,PC,Player Character,"""Then we shouldn't have any problems.""","""그럼 문제없겠네.""",xp2_hen_val,,,,,0,0
+103760,PC,Player Character,"""If you were my thrall, would you have to cook and clean for me?""","""네가 내 노예라면, 날 위해 요리하고 청소해야 해?""",xp2_hen_val,,,,,0,0
+103761,PC,Player Character,"""And if I like my men dark and brooding?""","""내가 어둡고 우울한 남자를 좋아한다면?""",xp2_hen_val,,,,,0,0
+103762,PC,Player Character,"""Sounds like you'd be fun to tame.""","""길들이기 재미있을 것 같은데.""",xp2_hen_val,,,,,0,0
+103763,PC,Player Character,"""Enough of this. Let's just move on.""","""이제 됐어. 그냥 계속 가자.""",xp2_hen_val,,,,,0,0
+103764,PC,Player Character,"""I didn't mean it that way. Don't be so damned defensive!""","""그런 뜻이 아니었어. 그렇게 방어적으로 굴지 마!""",xp2_hen_val,,,,,0,0
+103765,PC,Player Character,"""You're very cute when you're angry.""","""화났을 때 정말 귀엽네.""",xp2_hen_val,,,,,0,0
+103766,PC,Player Character,"""My! You're not only moody, you're defensive too!""","""이런! 변덕스러울 뿐만 아니라, 방어적이기까지 하네!""",xp2_hen_val,,,,,0,0
+103767,PC,Player Character,"""I've noticed that about you.""","""그거 눈치챘어.""",xp2_hen_val,,,,,0,0
+103768,PC,Player Character,"""It wasn't a compliment. Believe me. Let's just move on.""","""칭찬이 아니었어. 믿어. 그냥 계속 가자.""",xp2_hen_val,,,,,0,0
+103769,PC,Player Character,"""No. You're just sullen and suspicious, most of the time.""","""아니. 그냥 대부분 시무룩하고 의심이 많아.""",xp2_hen_val,,,,,0,0
+103770,PC,Player Character,"""Yes, it was a compliment. I think you'd be fun to tame.""","""그래, 칭찬이었어. 길들이기 재미있을 것 같아.""",xp2_hen_val,,,,,0,0
+103771,PC,Player Character,"""This helmet will protect me from them.""","""이 투구가 그들로부터 날 보호할 거야.""",xp2_hen_val,,con_q2dgate_2,,,0,0
+103772,PC,Player Character,"""I'm not afraid of a few zombies!""","""좀비 몇 마리 두렵지 않아!""",xp2_hen_val,,,,,0,0
+103773,PC,Player Character,"""You think the undead are inside the temple?""","""사원 안에 언데드가 있다고 생각해?""",xp2_hen_val,,,,,0,0
+103774,PC,Player Character,"""Must you prattle on about unimportant things?""","""중요하지 않은 것들에 대해 떠들어대야 해?""",xp2_hen_val,,,,,0,0
+103775,PC,Player Character,"""Whatever we find, I'll destroy it!""","""뭘 찾든, 파괴할 거야!""",xp2_hen_val,,,,,0,0
+103776,PC,Player Character,"""Don't worry, I'll be careful in there.""","""걱정 마, 거기서 조심할게.""",xp2_hen_val,,,,,0,0
+103777,PC,Player Character,"""Do you think it's some kind of trap?""","""일종의 함정이라고 생각해?""",xp2_hen_val,,,,,0,0
+103778,PC,Player Character,"""They're probably slaves, then.""","""그럼 아마 노예들이겠지.""",xp2_hen_val,,,,,0,0
+103779,PC,Player Character,"""We won't get to the bottom of this by standing here.""","""여기 서 있어서는 이걸 끝까지 알아낼 수 없어.""",xp2_hen_val,,,,,0,0
+103780,PC,Player Character,"""We'll have to investigate to find out.""","""알아내려면 조사해야 해.""",xp2_hen_val,,,,,0,0
+103781,PC,Player Character,"""Maybe they aren't what they appear.""","""어쩌면 보이는 것과 다를 수도 있어.""",xp2_hen_val,,,,,0,0
+103782,PC,Player Character,"""So what? Who cares?""","""그래서? 누가 신경 써?""",xp2_hen_val,,,,,0,0
+103783,PC,Player Character,"""Good. Now we don't have to worry about an enemy's spell killing us.""","""좋아. 이제 적의 주문이 우릴 죽일까 걱정 안 해도 돼.""",xp2_hen_val,,,,,0,0
+103784,PC,Player Character,"""A dead magic zone? How is that possible?""","""마법 무효 지역? 어떻게 가능해?""",xp2_hen_val,,,,,0,0
+103785,PC,Player Character,"""Maybe we'll learn more about them if we look around.""","""둘러보면 그들에 대해 더 알 수 있을 거야.""",xp2_hen_val,,,,,0,0
+103786,PC,Player Character,"""Maybe some long forgotten race left them here.""","""어쩌면 오래 잊혀진 종족이 여기 남겨둔 걸 수도.""",xp2_hen_val,,,,,0,0
+103787,PC,Player Character,"""Come on. The sooner we find the Eye Tyrant, the sooner this is over.""","""가자. 이 눈알 폭군을 빨리 찾을수록, 빨리 끝나.""",xp2_hen_val,,,,,0,0
+103788,PC,Player Character,"""What's the matter? Are you scared?""","""무슨 일이야? 무서워?""",xp2_hen_val,,,,,0,0
+103789,PC,Player Character,"""There might be slaves in here, too.""","""여기에도 노예들이 있을 수 있어.""",xp2_hen_val,,,,,0,0
+103790,PC,Player Character,"""Don't worry, I'll keep my eyes peeled.""","""걱정 마, 눈 부릅뜨고 있을게.""",xp2_hen_val,,,,,0,0
+103791,PC,Player Character,"""Oh ho ho.""","""오 호 호.""",xp2_hen_val,,,,,0,0
+103792,PC,Player Character,"""Are you getting frightened, tiefling?""","""무서워지는 거야, 티플링?""",xp2_hen_val,,,,,0,0
+103793,PC,Player Character,"""I haven't run into anything I can't handle, yet.""","""아직 감당 못 할 것과 마주친 적 없어.""",xp2_hen_val,,,,,0,0
+103794,PC,Player Character,"""Nobody said this was going to be easy.""","""이게 쉬울 거라고 아무도 말 안 했어.""",xp2_hen_val,,,,,0,0
+103795,PC,Player Character,"""I'd like to go into the dungeon now. That is, unless you have some more useless advice you want to pass on.""","""이제 던전에 들어가고 싶어. 쓸모없는 조언 더 하고 싶은 게 아니라면 말이야.""",xp2_hen_val,,,,,0,0
+103796,PC,Player Character,"""I'll be careful.""","""조심할게.""",xp2_hen_val,,,,,0,0
+103797,PC,Player Character,"""You think I'm special? I think you're special, too.""","""내가 특별하다고 생각해? 나도 네가 특별하다고 생각해.""",xp2_hen_val,,nw_d2_male,,,0,0
+103798,PC,Player Character,"""I'll be careful.""","""조심할게.""",xp2_hen_val,,,,,0,0
+103799,PC,Player Character,"""So how are we supposed to cross it?""","""그래서 어떻게 건너야 해?""",xp2_hen_val,,,,,0,0
+103800,PC,Player Character,"""You think this river will stop the army of the Valsharess?""","""이 강이 발샤레스의 군대를 막을 거라고 생각해?""",xp2_hen_val,,,,,0,0
+103801,PC,Player Character,"""No need. I am well aware of the Underdark's nature.""","""필요 없어. 언더다크의 본질을 잘 알아.""",xp2_hen_val,,,,,0,0
+103802,PC,Player Character,"""I think I have a good idea already, thank you.""","""이미 잘 알고 있어, 고마워.""",xp2_hen_val,,,,,0,0
+103803,PC,Player Character,"""I'd be glad to hear what you know.""","""네가 아는 걸 들으면 기쁠 거야.""",xp2_hen_val,,,,,0,0
+103804,PC,Player Character,"""I would hope you'd do the same for me.""","""넌 나한테도 똑같이 해주길 바라지.""",xp2_hen_val,,,,,0,0
+103805,PC,Player Character,"""Yes. Let's go.""","""그래. 가자.""",xp2_hen_val,,,,,0,0
+103806,PC,Player Character,"""Stay here for now.""","""일단 여기 있어.""",xp2_hen_val,x0_d1_hen_fired,,,,0,0
+103807,PC,Player Character,"""It's not your fault. Don't worry about it.""","""네 잘못이 아니야. 걱정하지 마.""",xp2_hen_val,,,,,0,0
+103808,PC,Player Character,"""Keep dying and I may decide otherwise.""","""계속 죽으면 마음이 바뀔지도.""",xp2_hen_val,,,,,0,0
+103809,PC,Player Character,"""I need your combat skills. Don't let it happen again.""","""네 전투 기술이 필요해. 다시는 그러지 마.""",xp2_hen_val,,,,,0,0
+103810,PC,Player Character,"""I would never leave you behind, my love.""","""널 두고 가지 않을 거야, 내 사랑.""",xp2_hen_val,,x2_valromancex,,,0,0

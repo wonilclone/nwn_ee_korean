@@ -1,0 +1,25 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+20130,Creature,Grommin,"You! You, there! You'se must be... uhh... eye-dent-ih-fide. Yuh, identified!","너! 거기, 너! 너 반드시... 어... 신-분-확-인. 응, 신분 확인!",M1Q3ADUMBGUA,m1q3abumbslg01,,,,0,0
+20131,Creature,Grommin,D'oh! Nobody listen to Grommin... ,어! 아무도 그로민 말 안 들어...,M1Q3ADUMBGUA,m1q3abumbslg01,,,,0,0
+20132,Creature,Grommin,Who you?! Master say he no want be disturbed! ,너 누구?! 주인님 방해받기 싫다고 했어!,M1Q3ADUMBGUA,,,,,0,0
+20133,Creature,Grommin,"No-ooo! Grommin stop you, he will!!","안-돼! 그로민이 막을 거야!!",M1Q3ADUMBGUA,nw_d1_attonend,,,,0,0
+20134,Creature,Grommin,"Master is Melad... Maldo... Meldanen. Is sorcerer, very scary. Not like visitors, none, 'cept friends maybe. Who you?","주인님은 멜라드... 말도... 멜다넨. 요술사야, 무서워. 방문객 싫어해, 아무도, 친구 빼고 아마. 너 누구?",M1Q3ADUMBGUA,,,,,0,0
+20135,Creature,Grommin,Master say he only let guard in house who not nosy. Grommin not nosy. Grommin supposed to only let in master's friends. Who you?,주인님 말하길 참견 안 하는 경비만 집에 들여. 그로민 참견 안 해. 그로민은 주인님 친구만 들여야 돼. 너 누구?,M1Q3ADUMBGUA,,,,,0,0
+20136,Creature,Grommin,"You talks big for a big, dumb <race> jerk.","큰 멍청한 <race> 나쁜놈치곤 말 크게 하네.",M1Q3ADUMBGUA,,,,,0,0
+20137,Creature,Grommin,"Me Grommin. Grommin work as guard for master, keep out bad people. Let in master friends only. Easy job... never see master friend. Who you?","나 그로민. 그로민은 주인님 경비 일해, 나쁜 사람 안 들여. 주인님 친구만 들여. 쉬운 일... 주인님 친구 못 봤어. 너 누구?",M1Q3ADUMBGUA,,,,,0,0
+20138,Creature,Grommin,"<StartCheck>[Success]</Start> Oh, okay. Grommin open door for you. You go see him.","<StartCheck>[성공]</Start> 아, 알았어. 그로민 문 열어줘. 가서 봐.",M1Q3ADUMBGUA,m1q3adumbslg02,,,,0,0
+20139,Creature,Grommin,<StartCheck>[Failure]</Start> How Grommin know you friend? You no look like friend. Grommin never see friend of master before.,<StartCheck>[실패]</Start> 그로민이 어떻게 너 친구인지 알아? 친구처럼 안 생겼어. 그로민 주인님 친구 전에 못 봤어.,M1Q3ADUMBGUA,,,,,0,0
+20140,Creature,Grommin,"Uhhh... no, Grommin guess not. You smart like master. Grommin open door, you go see him, okay?","어... 아니, 그로민 아닌 것 같아. 너 주인님처럼 똑똑해. 그로민 문 열어, 가서 봐, 알았지?",M1Q3ADUMBGUA,m1q3adumbslg02,,,,0,0
+20141,Creature,Grommin,"Uhhh... Grommin don't. You smart like master, must be master friend. Grommin open door, now, you go see him.","어... 그로민 몰라. 너 주인님처럼 똑똑해, 주인님 친구겠지. 그로민 문 열어, 이제, 가서 봐.",M1Q3ADUMBGUA,m1q3adumbslg02,,,,0,0
+20142,Creature,Grommin,Okay. Grommin can do that. Grommin like easy job.,알았어. 그로민 할 수 있어. 그로민 쉬운 일 좋아.,M1Q3ADUMBGUA,m1q3a00dumbg02,,,,0,0
+20143,Creature,Grommin,"Grommin not do tests good, but Grommin try.","그로민 시험 잘 못 해, 하지만 그로민 노력해.",M1Q3ADUMBGUA,,,,,0,0
+20144,Creature,Grommin,"Master is downstairs, maybe. Grommin never be there, so Grommin not know. Master not like Grommin, much.","주인님 아래층에, 아마. 그로민 거기 안 가봐서, 그로민 몰라. 주인님 그로민 별로 안 좋아해.",M1Q3ADUMBGUA,,,,,0,0
+20145,Creature,Grommin,"Uhhh... lots of rooms where master keeps things. Big room with many books, too... big books. Grommin not read, though.","어... 주인님이 물건 두는 방 많아. 큰 방에 책 많아... 큰 책. 그로민은 못 읽지만.",M1Q3ADUMBGUA,,,,,0,0
+20146,Creature,Grommin,"Uhhh... Grommin not know. Grommin not allowed to go there. Grommin know master has prisoners, though... they go there, not come out.","어... 그로민 몰라. 그로민 거기 못 가. 주인님한테 죄수 있다는 건 알아... 거기 가면 안 나와.",M1Q3ADUMBGUA,,,,,0,0
+20147,Creature,Grommin,"Sometimes master get mad at someone, they go in there. Sometimes master catch thief, they go in there. Grommin hope master not get mad at Grommin.","가끔 주인님 누구한테 화나면 거기 가. 가끔 주인님 도둑 잡으면 거기 가. 그로민 주인님이 그로민한테 화 안 냈으면 좋겠어.",M1Q3ADUMBGUA,,,,,0,0
+20148,Creature,Grommin,"Master have lots monsters. Sometimes he lets them run around, eat robbers. Master can talks to them, Grommin thinks.","주인님 괴물 많아. 가끔 돌아다니게 해, 도둑 먹어. 주인님은 괴물들한테 말할 수 있어, 그로민 생각.",M1Q3ADUMBGUA,,,,,0,0
+20149,Creature,Grommin,"Some Grommin sees, even. They looks like little peoples, but they has wings and are mean. Grommin no like them.","그로민 본 것도 있어. 작은 사람들처럼 생겼는데 날개 있고 나빠. 그로민 싫어.",M1Q3ADUMBGUA,,,,,0,0
+20150,Creature,Grommin,You come back? What you want from Grommin now?,너 돌아왔어? 그로민한테 이제 뭐 원해?,M1Q3ADUMBGUA,,,,,0,0
+20151,Creature,Grommin,"Okay. Grommin like standing here, is good job. Grommin's mama be very proud.","알았어. 그로민 여기 서 있는 거 좋아, 좋은 일이야. 그로민 엄마 자랑스러워할 거야.",M1Q3ADUMBGUA,,,,,0,0
+20152,Creature,Grommin,Oh. Was good job for Grommin. Is too bad now.,아. 그로민한테 좋은 일이었어. 이제 너무 나빠.,M1Q3ADUMBGUA,m1q3adumbslg01,,,,0,0
+24558,Creature,Grommin,Grommin,그로민,M1Q3ADUMBGUA,,,,,0,0

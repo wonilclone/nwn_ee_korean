@@ -1,0 +1,60 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+74140,PC,Player Character,Goodbye.,안녕히.,q7dhermit,,,,,0,0
+74141,PC,Player Character,I won't.,안 그럴게요.,q7dhermit,,,,,0,0
+74142,PC,Player Character,How much does it cost?,얼마예요?,q7dhermit,,,,,0,0
+74143,PC,Player Character,What is a recharging box?,충전 상자가 뭐예요?,q7dhermit,,,,,0,0
+74144,PC,Player Character,Would you be interested in buying a mummified hand?,미라의 손 사실 생각 있어요?,q7dhermit,,con_szaren_7,,,0,0
+74145,PC,Player Character,No thanks.,됐어요.,q7dhermit,,,,,0,0
+74146,PC,Player Character,I'll take it.,살게요.,q7dhermit,,,,,0,0
+74147,PC,Player Character,Would you be interested in buying a tower statue?,탑 조각상을 사실 생각 있어요?,q7dhermit,,con_szaren_8,,,0,0
+74148,PC,Player Character,Would you be interested in buying a dragon's tooth?,용의 이빨을 사실 생각 있어요?,q7dhermit,,con_szaren_9,,,0,0
+74149,PC,Player Character,Never mind.,됐어요.,q7dhermit,,,,,0,0
+74150,PC,Player Character,<StartCheck>[Persuade]</Start> It must be worth more than that!,<StartCheck>[설득]</Start> 더 가치 있을 텐데요!,q7dhermit,,,,,0,0
+74151,PC,Player Character,I'll take it.,살게요.,q7dhermit,,,,,0,0
+74152,PC,Player Character,I'll take it.,살게요.,q7dhermit,,,,,0,0
+74153,PC,Player Character,Would you be interested in buying a magical mask?,마법 가면 사실 생각 있어요?,q7dhermit,,con_szaren_6,,,0,0
+74154,PC,Player Character,I'll leave it.,안 팔게요.,q7dhermit,,,,,0,0
+74155,PC,Player Character,<StartCheck>[Persuade]</Start> This is a very valuable item. Surely you can offer me more?,<StartCheck>[설득]</Start> 아주 귀한 물건이에요. 더 쳐줄 수 있지 않아요?,q7dhermit,,,,,0,0
+74156,PC,Player Character,I'll take it.,살게요.,q7dhermit,,,,,0,0
+74157,PC,Player Character,I'll take it.,살게요.,q7dhermit,,,,,0,0
+74158,PC,Player Character,Would you be interested in buying a dragon egg?,용의 알을 사실 생각 있어요?,q7dhermit,,con_q7chasegg,,,0,0
+74159,PC,Player Character,No thanks.,됐어요.,q7dhermit,,,,,0,0
+74160,PC,Player Character,Yes.,네.,q7dhermit,,,,,0,0
+74161,PC,Player Character,"I think you might be my problem, with an attitude like that.",그런 태도라면 당신이 문제 아닐까요.,q7dhermit,,,,,0,0
+74162,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶어요.,q7dhermit,,con_hermit_1,,,0,0
+74163,PC,Player Character,That's enough questions.,질문은 그만 할게요.,q7dhermit,,,,,0,0
+74164,PC,Player Character,"Who is the ""Lady"" you spoke of?",말씀하신 "여인"이 누구예요?,q7dhermit,,,,,0,0
+74165,PC,Player Character,I am looking for some stolen magical artifacts. Has anybody tried to sell you any?,도난당한 마법 유물을 찾고 있어요. 누가 팔려고 한 적 있어요?,q7dhermit,,,,,0,0
+74166,PC,Player Character,Do you have any powerful magic items?,강력한 마법 물건 있어요?,q7dhermit,,,,,0,0
+74167,PC,Player Character,I have other questions.,다른 질문이 있어요.,q7dhermit,,,,,0,0
+74168,PC,Player Character,Do you know about the gnolls here in the forest?,이 숲의 놀들에 대해 알아요?,q7dhermit,,,,,0,0
+74169,PC,Player Character,Did you notice anything else about her?,그녀에 대해 다른 거 눈치챈 거 있어요?,q7dhermit,,,,,0,0
+74170,PC,Player Character,Who are you?,누구세요?,q7dhermit,,,,,0,0
+74171,PC,Player Character,<StartCheck>[Persuade - Intimidate]</Start> Tell me your name or I'll have to force it out of you! ,<StartCheck>[설득 - 위협]</Start> 이름을 말해요. 안 그러면 억지로라도 알아낼 거예요!,q7dhermit,,,,,0,0
+74172,PC,Player Character,I was just joking.,농담이에요.,q7dhermit,,,,,0,0
+74173,PC,Player Character,"Sorry, my mistake.","미안해요, 제 실수예요.",q7dhermit,,,,,0,0
+74174,PC,Player Character,"<StartCheck>[Persuade]</Start> Please, tell me your name.","<StartCheck>[설득]</Start> 제발, 이름을 알려주세요.",q7dhermit,,,,,0,0
+74175,PC,Player Character,You have the same name as me.,저랑 이름이 같네요.,q7dhermit,,,,,0,0
+74176,PC,Player Character,Really?,정말요?,q7dhermit,,,,,0,0
+74177,PC,Player Character,I think you are lying.,거짓말하는 것 같은데요.,q7dhermit,,,,,0,0
+74178,PC,Player Character,"No, that is fine.","아니요, 괜찮아요.",q7dhermit,,,,,0,0
+74179,PC,Player Character,"Fine, I'll ask you something else.","알겠어요, 다른 거 물어볼게요.",q7dhermit,,,,,0,0
+74180,PC,Player Character,What name did your mother call you?,어머니가 뭐라고 불렀어요?,q7dhermit,,,,,0,0
+74181,PC,Player Character,Goodbye.,안녕히.,q7dhermit,,,,,0,0
+74182,PC,Player Character,I won't. ,안 그럴게요.,q7dhermit,,,,,0,0
+74183,PC,Player Character,How much does it cost?,얼마예요?,q7dhermit,,,,,0,0
+74184,PC,Player Character,What is a recharging box?,충전 상자가 뭐예요?,q7dhermit,,,,,0,0
+74185,PC,Player Character,I want you to teleport me somewhere.,어딘가로 순간이동 시켜주세요.,q7dhermit,,,,,0,0
+74186,PC,Player Character,Send me to my party leader.,파티 리더한테 보내주세요.,q7dhermit,,xp1_notlead_n,,,0,0
+74187,PC,Player Character,Send me to the foothills.,산기슭으로 보내주세요.,q7dhermit,,,,,0,0
+74188,PC,Player Character,Send me to the kobold caves.,코볼트 동굴로 보내주세요.,q7dhermit,,con_q7hermit_3,,,0,0
+74189,PC,Player Character,Send me to Blumberg.,블럼버그로 보내주세요.,q7dhermit,,con_q7hermit_4,,,0,0
+74190,PC,Player Character,Send me to Hilltop.,힐탑으로 보내주세요.,q7dhermit,,,,,0,0
+74191,PC,Player Character,Why are you so uptight?,왜 그렇게 예민해요?,q7dhermit,,,,,0,0
+74192,PC,Player Character,Why do you say that?,왜 그래요?,q7dhermit,,,,,0,0
+74193,PC,Player Character,Just show me what you have for sale.,파는 물건이나 보여주세요.,q7dhermit,,,,,0,0
+74194,PC,Player Character,Let me sell you something so I can get enough money.,돈 모으게 뭐 좀 팔게요.,q7dhermit,,,,,0,0
+74195,PC,Player Character,I do not have enough gold.,금화가 부족해요.,q7dhermit,,,,,0,0
+74196,PC,Player Character,Well let me see what I can sell you then.,그럼 뭘 팔 수 있는지 볼게요.,q7dhermit,x1_openstore,,,,0,0
+74197,PC,Player Character,"Fine, I'll pay.","알겠어요, 낼게요.",q7dhermit,act_q7hermit_2,con_q1hermit_2,,,0,0
+78860,PC,Player Character,Nevermind. I'll walk.,됐어요. 걸어갈게요.,q7dhermit,,,,,0,0

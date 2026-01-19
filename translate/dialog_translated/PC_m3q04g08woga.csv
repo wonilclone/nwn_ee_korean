@@ -1,0 +1,32 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+45861,PC,Player Character,Who are you and what are you doing here?,당신은 누구고 여기서 뭐 하는 건가요?,m3q04g08woga,,[지능 보통],,,0,0
+45862,PC,Player Character,I've decided I'm just going to kill you.,그냥 죽이기로 했습니다.,m3q04g08woga,,[지능 보통],,,0,0
+45863,PC,Player Character [M3Q04G08],I'll be going now.,이제 가볼게요.,m3q04g08woga,m3q04g08wogaelc6,[지능 보통],[M3Q04G08],,0,0
+45864,PC,Player Character,Who you be and what you do here?,너 누구고 여기서 뭐 해?,m3q04g08woga,,[지능 낮음],,,0,0
+45865,PC,Player Character,Me just want kill you.,나 그냥 너 죽이고 싶어.,m3q04g08woga,,[지능 낮음],,,0,0
+45866,PC,Player Character [M3Q04G08],Me go now.,나 가.,m3q04g08woga,m3q04g08wogaelc6,[지능 낮음],[M3Q04G08],,0,0
+45867,PC,Player Character [M3Q04G08],Why would the King want a half-orc for an advisor?,왕이 왜 하프오크를 참모로 원하겠어요?,m3q04g08woga,,m3q04g08wogasck1,[M3Q04G08],,0,0
+45868,PC,Player Character [M3Q04G08],I want to ask you some questions.,질문 좀 하고 싶습니다.,m3q04g08woga,m3q04g08wogaelc0,[지능 보통],[M3Q04G08],,0,0
+45869,PC,Player Character [M3Q04G08],You be half-orc. Half-orc be stupid. How you be advisor?,너 하프오크야. 하프오크 바보야. 어떻게 너 참모야?,m3q04g08woga,,m3q04g08wogasck5,[M3Q04G08],,0,0
+45870,PC,Player Character [M3Q04G08],Me want you answer questions.,나 질문 대답하면 좋겠어.,m3q04g08woga,m3q04g08wogaelc0,[지능 낮음],[M3Q04G08],,0,0
+45871,PC,Player Character,Information?,정보요?,m3q04g08woga,,,,,0,0
+45872,PC,Player Character [M3Q04G08],Tell me about Klauth.,클라우스에 대해 말해주세요.,m3q04g08woga,,m3q04g08wogasck2,[M3Q04G08],,0,0
+45873,PC,Player Character [M3Q04G08],Tell me about the dragon experiments.,용 실험에 대해 말해주세요.,m3q04g08woga,,m3q04g08wogasck3,[M3Q04G08],,0,0
+45875,PC,Player Character [M3Q04G08],You tell 'bout Klauth.,클라우스 말해.,m3q04g08woga,,m3q04g08wogasck6,[M3Q04G08],,0,0
+45876,PC,Player Character [M3Q04G08],You tell 'bout dragon exper'ments.,용 실험 말해.,m3q04g08woga,,m3q04g08wogasck7,[M3Q04G08],,0,0
+45878,PC,Player Character,Fine. Here's your money.,좋아요. 여기 돈 있어요.,m3q04g08woga,m3take500,m3have500n,,,0,0
+45879,PC,Player Character,I don't have that much.,그렇게 많이는 없어요.,m3q04g08woga,,[지능 보통],,,0,0
+45880,PC,Player Character,<StartCheck>[Persuade]</Start> How can you charge me for information after I save your life?,<StartCheck>[설득]</Start> 제가 목숨을 구해줬는데 정보에 돈을 받을 수 있어요?,m3q04g08woga,,[지능 보통],,,0,0
+45881,PC,Player Character,"Maybe I should cut off your tongue, since you don't seem to want to use it!","혀를 잘라버려야겠네요, 쓰고 싶은 생각이 없는 것 같으니까!",m3q04g08woga,nw_d1_small_evil,[지능 보통],,,0,0
+45882,PC,Player Character,Here be you money.,여기 돈이야.,m3q04g08woga,m3take500,m3have500d,,,0,0
+45883,PC,Player Character,Me not have that much.,나 그렇게 많이 없어.,m3q04g08woga,,[지능 낮음],,,0,0
+45884,PC,Player Character,<StartCheck>[Persuade]</Start> Me save your life! You not s'posed to charge me!,<StartCheck>[설득]</Start> 나 목숨 구해줬어! 돈 받으면 안 돼!,m3q04g08woga,,[지능 낮음],,,0,0
+45885,PC,Player Character,You talk or me rip you tongue out!,말해 아니면 나 혀 뜯어내!,m3q04g08woga,nw_d1_small_evil,[지능 낮음],,,0,0
+45886,PC,Player Character,Fine. Here's 300 gold.,좋아요. 여기 금화 300개요.,m3q04g08woga,m3take300,m3have300,,,0,0
+45887,PC,Player Character,Here be 300 golds. Now talk!,여기 금화 300개. 이제 말해!,m3q04g08woga,m3take300,m3have300_2,,,0,0
+45888,PC,Player Character,"Forget it, I'm out of here.","됐어요, 갈게요.",m3q04g08woga,,[지능 보통],,,0,0
+45889,PC,Player Character,Me not spend money. Me go now.,나 돈 안 써. 나 가.,m3q04g08woga,,[지능 낮음],,,0,0
+45890,PC,Player Character,"Fine, 100. Now talk!","좋아요, 100개요. 이제 말하세요!",m3q04g08woga,m3take100,m3have100,,,0,0
+45891,PC,Player Character,Anything else you know?,더 아는 거 있어?,m3q04g08woga,,,,,0,0
+65702,PC,Player Character,You give me gold for getting you out!,구해준 거 금화로 줘!,m3q04g08woga,,[지능 낮음],,,0,0
+65703,PC,Player Character,Is there a reward for rescuing you?,구해준 보상이 있나요?,m3q04g08woga,,[지능 보통],,,0,0

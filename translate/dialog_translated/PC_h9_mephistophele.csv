@@ -1,0 +1,61 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+98868,PC,Player Character,"""Return to Cania and never come back...""","""카니아로 돌아가서 다시는 오지 마...""",h9_mephistophele,,,,,0,0
+98869,PC,Player Character,"""I never want to see your face again.""","""네 얼굴은 다시는 보고 싶지 않아.""",h9_mephistophele,,,,,0,0
+98870,PC,Player Character,"""There won't be a next time..."" <StartAction>[Kill him.]</Start>","""다음은 없어..."" <StartAction>[그를 죽인다.]</Start>",h9_mephistophele,h9a_meph_death2,,,,0,0
+98871,PC,Player Character,"""This world is mine!""","""이 세계는 내 거야!""",h9_mephistophele,,,,,0,0
+98872,PC,Player Character,"""There is no honor..."" <StartAction>[Kill him.]</Start>","""명예 따윈 없어..."" <StartAction>[그를 죽인다.]</Start>",h9_mephistophele,h9a_meph_death2,,,,0,0
+98873,PC,Player Character,"""Repent!""","""회개해!""",h9_mephistophele,,,,,0,0
+98874,PC,Player Character,"""A curse on mine and off with yours!"" <StartAction>[Kill him.]</Start>","""내 저주를 받고 네 목을 내놔!"" <StartAction>[그를 죽인다.]</Start>",h9_mephistophele,h9a_meph_death2,,,,0,0
+98875,PC,Player Character,"""I've come to replace you.""","""널 대신하러 왔어.""",h9_mephistophele,h9a_meph_replace,,,,0,0
+98876,PC,Player Character,"""I've come to join you.""","""너와 손잡으러 왔어.""",h9_mephistophele,h9a_meph_join,,,,0,0
+98877,PC,Player Character,"""I've come to stop you.""","""널 막으러 왔어.""",h9_mephistophele,h9a_meph_stop,,,,0,0
+98878,PC,Player Character,"""All you gave me was an empty husk. Prepare to die.""","""네가 준 건 빈껍데기뿐이었어. 죽을 준비해.""",h9_mephistophele,hx_mephatk_pc,,,,0,0
+98879,PC,Player Character,"""Then replace me. Do your best!""","""그럼 날 대신해 봐. 최선을 다해!""",h9_mephistophele,hx_mephatk_pc,,,,0,0
+98880,PC,Player Character,"""Thra'axfyl the Ambitious, surrender Toril to me!""","""야망의 스라악실, 토릴을 내게 내놓아라!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
+98881,PC,Player Character,"""Surrender Cania to its original inhabitants, the Knowers!""","""카니아를 원래 주인인 현자들에게 돌려줘!""",h9_mephistophele,,c_false,,,0,0
+98882,PC,Player Character,"""Repent of your crimes! Become kind-hearted and good!""","""네 죄를 회개해! 착하고 선한 자가 돼!""",h9_mephistophele,,c_false,,,0,0
+98883,PC,Player Character,"""Then fight me, you coward!""","""그럼 싸워, 겁쟁이!""",h9_mephistophele,hx_mephatk_pc,,,,0,0
+98884,PC,Player Character,"""Then I apologize: You bring this death upon yourself.""","""그럼 미안하지만, 네가 자초한 거야.""",h9_mephistophele,hx_mephatk_pc,,,,0,0
+98885,PC,Player Character,"""Thra'axfyl the Ambitious, subordinate yourself to me!""","""야망의 스라악실, 내게 복종해라!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
+98886,PC,Player Character,"""I'll open an inn and make you the chambermaid!""","""여관을 열어서 널 하녀로 쓸 거야!""",h9_mephistophele,,c_false,,,0,0
+98887,PC,Player Character,"""You will serve me as henchman for all my future adventures!""","""앞으로 모든 모험에서 널 부하로 부릴 거야!""",h9_mephistophele,,c_false,,,0,0
+98888,PC,Player Character,"""I will rule the Hells of Baator and you will be my lackey!""","""내가 베이아터의 지옥들을 지배하고 넌 내 하수인이 될 거야!""",h9_mephistophele,,,,,0,0
+98889,PC,Player Character,"""Rule the Hells of Baator with me as equal partner!""","""나와 동등한 동반자로 베이아터의 지옥들을 다스려!""",h9_mephistophele,,,,,0,0
+98890,PC,Player Character,"""You don't know the half of it! Fight me, you coward!""","""넌 반도 모르잖아! 싸워, 겁쟁이!""",h9_mephistophele,hx_mephatk_pc,,,,0,0
+98891,PC,Player Character,"""Then I intend to die trying...""","""그래도 죽을 때까지 해볼 거야...""",h9_mephistophele,hx_mephatk_pc,,,,0,0
+98892,PC,Player Character,"""Thra'axfyl the Ambitious, I command you to stop this carnage!""","""야망의 스라악실, 이 학살을 멈추라고 명령한다!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
+98893,PC,Player Character,"""Fight me!""","""덤벼!""",h9_mephistophele,hx_mephatk_pc2,,,,0,0
+98894,PC,Player Character,"""Serve me to the end of your days!""","""평생 나를 섬겨!""",h9_mephistophele,,c_false,,,0,0
+98895,PC,Player Character,"""Return to Cania and remain there forever!""","""카니아로 돌아가서 영원히 거기 있어!""",h9_mephistophele,,,,,0,0
+98896,PC,Player Character,"""Become kind-hearted and good!""","""착하고 선한 자가 돼!""",h9_mephistophele,,c_false,,,0,0
+98897,PC,Player Character,"""I command you to die!""","""죽으라고 명령한다!""",h9_mephistophele,,,,,0,0
+98906,PC,Player Character,"""Side with him, then. I knew you'd betray me eventually.""","""그럼 그 편에 서. 언젠간 날 배신할 줄 알았어.""",h9_mephistophele,h9a_meph_betray2,,,,0,0
+98907,PC,Player Character,"""Qeyifalia the Skyseeker, I command you to side with me!""","""하늘을 찾는 케이팔리아, 내 편에 서라고 명령한다!""",h9_mephistophele,a_true_nath,h9c_meph_nathy2,,,0,0
+98908,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Whose wrath would you rather face? His or mine!?""","<StartCheck>[위협]</Start> ""누구한테 찍히고 싶어? 그놈한테야, 나한테야!?""",h9_mephistophele,,,,,0,0
+98909,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Ignore him, Nathyrra. You've left the Red Sisters behind you.""","<StartCheck>[설득]</Start> ""무시해, 나시라. 넌 이미 붉은 자매단을 떠났잖아.""",h9_mephistophele,,,,,0,0
+98910,PC,Player Character,"""Then to the Hells with you, I'll kill you both!""","""그럼 지옥에나 가, 둘 다 죽여버릴 거야!""",h9_mephistophele,h9a_meph_betray1,,,,0,0
+98911,PC,Player Character,"""Va'ardalia the Twinsouled, I command you to side with me!""","""쌍둥이 영혼의 바아르달리아, 내 편에 서라고 명령한다!""",h9_mephistophele,a_true_ari,h9c_meph_ari_2,,,0,0
+98912,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""I'm far more evil than he'll ever be, dear...""","<StartCheck>[위협]</Start> ""난 그 녀석보다 훨씬 더 사악해...""",h9_mephistophele,,,,,0,0
+98913,PC,Player Character,"<StartCheck>[Persuade]</Start> ""May I propose a double-cross?""","<StartCheck>[설득]</Start> ""뒤통수 한 번 쳐볼래?""",h9_mephistophele,,,,,0,0
+98914,PC,Player Character,"""Once a traitor, always a traitor, then...""","""한번 배신자는 영원한 배신자구나...""",h9_mephistophele,h9a_meph_betray1,,,,0,0
+98915,PC,Player Character,"""Va'ardalia the Twinsouled, I command you to fight alongside me!""","""쌍둥이 영혼의 바아르달리아, 내 곁에서 싸우라고 명령한다!""",h9_mephistophele,a_true_ari,h9c_meph_ari_2,,,0,0
+98916,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""I will make your death more painful than your life ever was!""","<StartCheck>[위협]</Start> ""살면서 겪은 고통 따윈 비교도 안 되게 죽여줄 거야!""",h9_mephistophele,,,,,0,0
+98917,PC,Player Character,"<StartCheck>[Persuade]</Start> ""He lies! Your faith is what you make of it, Aribeth.""","<StartCheck>[설득]</Start> ""거짓말이야! 네 믿음은 네가 만드는 거야, 아리베스.""",h9_mephistophele,,,,,0,0
+98918,PC,Player Character,"""Why are you doing this?""","""왜 이러는 거야?""",h9_mephistophele,,,,,0,0
+98919,PC,Player Character,"""Sorry, the Hells froze over.""","""미안, 지옥이 얼어붙었거든.""",h9_mephistophele,,,,,0,0
+109638,PC,Player Character,"""You can't even make your own decisions! You disgust me. Betray me, then.""","""자기 결정도 못 내리잖아! 꼴도 보기 싫어. 배신하든가.""",h9_mephistophele,h9a_meph_betray4,,,,0,0
+109639,PC,Player Character,"""Betray me if you will but I will miss you, Deekin.""","""배신하고 싶으면 해, 하지만 보고 싶을 거야, 디킨.""",h9_mephistophele,hx_end_deebetray,,,,0,0
+109640,PC,Player Character,"""Ixthyria the Scalesinger, ignore Mephistopheles and remain with me!""","""비늘의 노래꾼 익스시리아, 메피스토펠레스를 무시하고 내 곁에 있어라!""",h9_mephistophele,a_true_deekin,h9c_meph_deek2,,,0,0
+109641,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""I'll wring your neck if you betray me, Deekin!""","<StartCheck>[위협]</Start> ""배신하면 목을 비틀어버릴 거야, 디킨!""",h9_mephistophele,,,,,0,0
+109642,PC,Player Character,"""That's it, Deekin! You're in for it now!""","""이제 끝이야, 디킨! 각오해!""",h9_mephistophele,,,,,0,0
+109643,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Don't listen to him, Deekin! We're a team, remember?""","<StartCheck>[설득]</Start> ""그 말 듣지 마, 디킨! 우리 한 팀이잖아, 기억나지?""",h9_mephistophele,,,,,0,0
+109644,PC,Player Character,"""I never trusted you anyway. Betray me and die with Mephistopheles, then.""","""어차피 널 믿은 적 없어. 그래, 배신해서 메피스토펠레스랑 같이 죽어.""",h9_mephistophele,h9a_meph_betray3,,,,0,0
+109645,PC,Player Character,"""Oeskathine the Demonwrestler, I command you to stand at my side.""","""악마와 싸우는 자 외스카틴, 내 곁에 서라고 명령한다.""",h9_mephistophele,a_true_valen,h9c_meph_valen2,,,0,0
+109646,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Betray me and I'll kill you, Valen, I swear it!""","<StartCheck>[위협]</Start> ""배신하면 죽여버릴 거야, 발렌, 맹세해!""",h9_mephistophele,,,,,0,0
+109647,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Don't listen to his lies, Valen! I need you at my side!""","<StartCheck>[설득]</Start> ""그의 거짓말에 속지 마, 발렌! 네가 내 곁에 필요해!""",h9_mephistophele,,,,,0,0
+109648,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Isn't your love for me stronger than that, Valen?""","<StartCheck>[설득]</Start> ""날 향한 사랑이 그보다 강하지 않아, 발렌?""",h9_mephistophele,,x2_valromancey,,,0,0
+109649,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I love you, Valen. Please don't listen to him.""","<StartCheck>[설득]</Start> ""사랑해, 발렌. 제발 그 말 듣지 마.""",h9_mephistophele,,c_false,,,0,0
+109650,PC,Player Character,"""No! I won't accept this! Don't do it!""","""안 돼! 이건 받아들일 수 없어! 그러지 마!""",h9_mephistophele,,,,,0,0
+109651,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I love you, Nathyrra. You're not a Red Sister anymore.""","<StartCheck>[설득]</Start> ""사랑해, 나시라. 넌 더 이상 붉은 자매단이 아니야.""",h9_mephistophele,,c_false,,,0,0
+109652,PC,Player Character,"<StartCheck>[Persuade]</Start> ""But I thought you loved me, Aribeth.""","<StartCheck>[설득]</Start> ""근데 날 사랑하는 줄 알았는데, 아리베스.""",h9_mephistophele,,h9_meph_loveari,,,0,0
+109653,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I love you, Aribeth. That is not evil.""","<StartCheck>[설득]</Start> ""사랑해, 아리베스. 그건 악이 아니야.""",h9_mephistophele,,h9_meph_loveari,,,0,0

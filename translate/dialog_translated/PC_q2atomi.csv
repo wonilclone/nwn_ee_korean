@@ -1,0 +1,39 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+93844,PC,Player Character,"""Quiet. I have some questions.""","""조용해. 질문이 있어.""",q2atomi,,,,,0,0
+93845,PC,Player Character,"""Silence! I did not raise you to hear you prattle on!""","""입 닥쳐! 네 주절거림을 듣자고 살린 게 아냐!""",q2atomi,,xp2_pcnotcleric,,,0,0
+93846,PC,Player Character,"""I would expect more thanks for bringing you back from the dead.""","""죽음에서 되살려줬으니 더 고마워해도 되겠는데.""",q2atomi,,xp2_pcnotcleric,,,0,0
+93847,PC,Player Character,"""You should not be so disrespectful of the devout.""","""신앙심 깊은 이에게 그렇게 무례해선 안 돼.""",q2atomi,,xp2_pcnotcleric,,,0,0
+93848,PC,Player Character,"""What?""","""뭐?""",q2atomi,,xp1_pciscleric,,,0,0
+93849,PC,Player Character,"""What's important is that I just brought you back from the dead.""","""중요한 건 내가 방금 너를 되살렸다는 거야.""",q2atomi,,,,,0,0
+93850,PC,Player Character,"""Do I? You were part of that group back at the inn, right?""","""그래? 넌 여관에 있던 그 일행이었지?""",q2atomi,,q2a_tomi04,,,0,0
+93851,PC,Player Character,"""I should. You were with that group I talked to in the inn.""","""그래야지. 넌 여관에서 내가 얘기한 그 일행이었잖아.""",q2atomi,,q2a_tomi03,,,0,0
+93852,PC,Player Character,"""Don't you remember who I am? We spoke at the inn.""","""내가 누군지 기억 안 나? 여관에서 얘기했잖아.""",q2atomi,,q2a_tomi02,,,0,0
+93853,PC,Player Character,"""Perhaps dying again would jog your memory.""","""다시 죽으면 기억이 나려나.""",q2atomi,,,,,0,0
+93854,PC,Player Character,"""Are you kidding me?""","""장난해?""",q2atomi,,,,,0,0
+93855,PC,Player Character,"""No, my name is <FirstName>.""","""아니, 내 이름은 <FirstName>야.""",q2atomi,,,,,0,0
+93856,PC,Player Character,"""I should move on.""","""이제 가봐야겠어.""",q2atomi,,,,,0,0
+93857,PC,Player Character,"""What are you going to do, now?""","""이제 어쩔 거야?""",q2atomi,,,,,0,0
+93858,PC,Player Character,"""Don't you wonder what happened to the rest of your group?""","""나머지 일행에게 무슨 일이 일어났는지 궁금하지 않아?""",q2atomi,,q2a_spokeadv01,,,0,0
+93859,PC,Player Character,"""How did you end up here?""","""어쩌다 여기까지 온 거야?""",q2atomi,,,,,0,0
+93860,PC,Player Character,"""Just who are you, anyway?""","""도대체 넌 누구야?""",q2atomi,,q2a_tomi01,,,0,0
+93861,PC,Player Character,"""Does it really matter? I'm not here to rescue any of you.""","""그게 중요해? 너희를 구하러 온 게 아니야.""",q2atomi,,,,,0,0
+93862,PC,Player Character,"""No, I haven't found her. Why?""","""아니, 못 찾았어. 왜?""",q2atomi,,,,,0,0
+93863,PC,Player Character,"""I found her, yes, and sent her back to the inn.""","""찾았어. 여관으로 돌려보냈고.""",q2atomi,,con_q2crakplot_4,,,0,0
+93864,PC,Player Character,"""I found her, yes, but she's dead. Just as you were.""","""찾긴 했는데, 죽었어. 너처럼.""",q2atomi,,con_q2crakplot_3,,,0,0
+93865,PC,Player Character,"""I found a rakshasa pretending to be her.""","""그녀로 변장한 락샤사를 찾았어.""",q2atomi,,con_q2crakplot_2,,,0,0
+93866,PC,Player Character,"""What are you going to do, now?""","""이제 어쩔 거야?""",q2atomi,,,,,0,0
+93867,PC,Player Character,"""Not a chance.""","""절대 안 돼.""",q2atomi,,,,,0,0
+93868,PC,Player Character,"""I don't think so, no.""","""아니, 그렇게 생각 안 해.""",q2atomi,,,,,0,0
+93869,PC,Player Character,"""I could use your help, sure.""","""네 도움이 필요해.""",q2atomi,,,,,0,0
+93870,PC,Player Character,"""So how did the drow catch you?""","""드로우한테 어떻게 잡힌 거야?""",q2atomi,,,,,0,0
+93871,PC,Player Character,"""So where are these slaves you mention?""","""네가 말한 노예들은 어디 있어?""",q2atomi,,con_q2crakplot_0,,,0,0
+93872,PC,Player Character,"""What's this about a djinni?""","""지니가 뭔 소리야?""",q2atomi,,,,,0,0
+93873,PC,Player Character,"""I found her with some slaves. She's determined to help them.""","""노예들이랑 같이 있는 걸 찾았어. 그들을 돕겠다더라.""",q2atomi,,con_q2crakplot_1,,,0,0
+93874,PC,Player Character,"""No thanks.""","""됐어.""",q2atomi,,,,,0,0
+93875,PC,Player Character,"""Sure, come along.""","""그래, 같이 가자.""",q2atomi,,,,,0,0
+93876,PC,Player Character,"""I am not your personal savior.""","""난 네 개인 구원자가 아냐.""",q2atomi,,,,,0,0
+93877,PC,Player Character,"""Not so well, I'm afraid.""","""별로 좋지 않아.""",q2atomi,,,,,0,0
+93878,PC,Player Character,"""It's going well, so far.""","""지금까지는 잘 되고 있어.""",q2atomi,,,,,0,0
+93879,PC,Player Character,"""I could use your help, actually.""","""사실, 네 도움이 필요해.""",q2atomi,,,,,0,0
+103953,PC,Player Character,Goodbye.,"안녕.",q2atomi,,,,,0,0
+103954,PC,Player Character,"""Will you join up with me?""","""나랑 같이 갈래?""",q2atomi,,,,,0,0

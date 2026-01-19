@@ -1,0 +1,29 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+104142,PC,Player Character,<StartAction>Read descriptive text.</Start>,<StartAction>설명문을 읽습니다.</Start>,bk_sim,,,,,0,0
+104143,PC,Player Character,<StartAction>Insert Tynan.</Start>,<StartAction>타이난을 넣습니다.</Start>,bk_sim,,bk_con_hastynan,,,0,0
+104144,PC,Player Character,<StartAction>Press humanoid button.</Start>,<StartAction>인간형 버튼을 누릅니다.</Start>,bk_sim,bk_act_tynangobl,,,,0,0
+104145,PC,Player Character,<StartAction>Press Spider button.</Start>,<StartAction>거미 버튼을 누릅니다.</Start>,bk_sim,bk_act_taketynan,,,,0,0
+104146,PC,Player Character,<StartAction>Insert Pearl of Bashing.</Start>,<StartAction>강타의 진주를 넣습니다.</Start>,bk_sim,,bk_con_hasix,,,0,0
+104147,PC,Player Character,<StartAction>Drop Pearl of Tongues into slot.</Start>,<StartAction>언어의 진주를 구멍에 넣습니다.</Start>,bk_sim,,bk_con_hastongue,,,0,0
+104148,PC,Player Character,"""Common.""","""공용어.""",bk_sim,bk_sim_transtrue,,,,0,0
+104149,PC,Player Character,<StartAction>Lore</Start> Examine the panel more closely.,<StartAction>전승지식</Start> 패널을 더 자세히 살펴봅니다.,bk_sim,,bk_con_isbeholde,,,0,0
+104150,PC,Player Character,<StartAction>Examine the buttons.</Start>,<StartAction>버튼들을 살펴봅니다.</Start>,bk_sim,,,,,0,0
+104151,PC,Player Character,<StartAction>Do nothing.</Start>,<StartAction>아무것도 하지 않습니다.</Start>,bk_sim,,,,,0,0
+104152,PC,Player Character,<StartAction>Try something else.</Start>,<StartAction>다른 걸 시도합니다.</Start>,bk_sim,,,,,0,0
+104153,PC,Player Character,<StartAction>Press glowing button.</Start>,<StartAction>빛나는 버튼을 누릅니다.</Start>,bk_sim,bk_sunblast,,,,0,0
+104154,PC,Player Character,"<StartAction>Press button that says ""Row 4. Right.""</Start>","<StartAction>"""4열. 오른쪽."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r4_right,bk_con_iscommon,,,0,0
+104155,PC,Player Character,"<StartAction>Press button that says ""Row 4. Left.""</Start>","<StartAction>"""4열. 왼쪽."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r4_left,bk_con_iscommon,,,0,0
+104156,PC,Player Character,"<StartAction>Press button that says ""Puckin. Oring.""</Start>","<StartAction>"""푸킨. 오링."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r3_right,bk_con_isbeholde,,,0,0
+104157,PC,Player Character,"<StartAction>Press button that says ""Row 3. Right.""</Start>","<StartAction>"""3열. 오른쪽."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r3_right,bk_con_iscommon,,,0,0
+104158,PC,Player Character,"<StartAction>Press button that says ""Zapp. Vikik.""</Start>","<StartAction>"""잽. 비킥."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r4_left,bk_con_isbeholde,,,0,0
+104159,PC,Player Character,"<StartAction>Press button that says ""Row 3. Left.""</Start>","<StartAction>"""3열. 왼쪽."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r3_left,bk_con_iscommon,,,0,0
+104160,PC,Player Character,"<StartAction>Press button that says ""Row 2. Right.""</Start>","<StartAction>"""2열. 오른쪽."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r2_right,bk_con_iscommon,,,0,0
+104161,PC,Player Character,"<StartAction>Press button that says ""Snirk. Oring.""</Start>","<StartAction>"""스닉. 오링."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r2_right,bk_con_isbeholde,,,0,0
+104162,PC,Player Character,"<StartAction>Press button that says ""Puckin. Vikik.""</Start>","<StartAction>"""푸킨. 비킥."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r3_left,bk_con_isbeholde,,,0,0
+104163,PC,Player Character,"<StartAction>Press button that says ""Zapp. Oring.""</Start>","<StartAction>"""잽. 오링."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r4_right,bk_con_isbeholde,,,0,0
+104164,PC,Player Character,"<StartAction>Press button that says ""Galoon. Oring.""</Start>","<StartAction>"""갈룬. 오링."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r1_right,bk_con_isbeholde,,,0,0
+104165,PC,Player Character,"<StartAction>Press button that says ""Row 2. Left.""</Start>","<StartAction>"""2열. 왼쪽."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r2_left,bk_con_iscommon,,,0,0
+104166,PC,Player Character,"<StartAction>Press button that says ""Row 1. Right.""</Start>","<StartAction>"""1열. 오른쪽."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r1_right,bk_con_iscommon,,,0,0
+104167,PC,Player Character,"<StartAction>Press button that says ""Galoon. Vikik.""</Start>","<StartAction>"""갈룬. 비킥."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r1_left,bk_con_isbeholde,,,0,0
+104168,PC,Player Character,"<StartAction>Press button that says ""Snirk. Vikik.""</Start>","<StartAction>"""스닉. 비킥."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r2_left,bk_con_isbeholde,,,0,0
+104169,PC,Player Character,"<StartAction>Press button that says ""Row 1. Left.""</Start>","<StartAction>"""1열. 왼쪽."""이라고 쓰인 버튼을 누른다.</Start>",bk_sim,bk_sim_r1_left,bk_con_iscommon,,,0,0

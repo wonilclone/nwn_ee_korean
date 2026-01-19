@@ -1,0 +1,24 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+82859,PC,Player Character,You got that right.,그 말이 맞네.,q5b_valana,,,,,0,0
+82860,PC,Player Character,I'm sure Garrick appreciates your efforts.,가릭이 당신의 노력에 감사할 거야.,q5b_valana,,,,,0,0
+82861,PC,Player Character,I should go.,이제 가야겠어.,q5b_valana,,,,,0,0
+82862,PC,Player Character,The important thing is he survived.,중요한 건 그가 살아남았다는 거야.,q5b_valana,,,,,0,0
+82863,PC,Player Character,You are having doubts?,의문이 드는 거야?,q5b_valana,,,,,0,0
+82864,PC,Player Character,Ever since you left the service of Lathander...?,라샌더를 섬기는 걸 그만둔 이후로...?,q5b_valana,,,,,0,0
+82865,PC,Player Character,I cannot advise you in this.,이건 내가 조언할 수 없어.,q5b_valana,,,,,0,0
+82866,PC,Player Character,"You did not come here expecting spells from Ao, did you? What drew you here in the first place?",에이오한테서 주문을 기대하고 온 건 아니잖아? 처음엔 뭐 때문에 여기 온 거야?,q5b_valana,,,,,0,0
+82867,PC,Player Character,Do you still feel that way?,아직도 그렇게 느껴?,q5b_valana,,,,,0,0
+82868,PC,Player Character,And what if this is a test of your faith by Ao?,만약 이게 에이오의 신앙 시험이라면?,q5b_valana,,,,,0,0
+82869,PC,Player Character,"Well, you obviously don't have the faith in Ao you once did.",분명히 예전처럼 에이오에 대한 신앙이 없는 거네.,q5b_valana,,,,,0,0
+82870,PC,Player Character,Maybe magic shouldn't be the answer to everything. Have you thought of that?,마법이 모든 해답이 아닐 수도 있어. 생각해 봤어?,q5b_valana,,,,,0,0
+82871,PC,Player Character,I think you've already answered that question for yourself.,그 질문에 대한 답은 이미 스스로 찾은 것 같은데.,q5b_valana,,,,,0,0
+82872,PC,Player Character,"You prayed for Garrick to be well, and now he is. Even that could be a sign.","가릭이 나아지길 기도했고, 이제 나았어. 그것만으로도 신호일 수 있어.",q5b_valana,,[지능 높음],,,0,0
+82873,PC,Player Character,Maybe magic shouldn't be the answer to everything. Have you thought of that?,마법이 모든 해답이 아닐 수도 있어. 생각해 봤어?,q5b_valana,,nw_d2_wishigh,,,0,0
+82874,PC,Player Character,"If you have such doubts, you are not a true believer in Ao, are you?","그런 의문이 든다면, 에이오의 진정한 신자가 아니잖아?",q5b_valana,,,,,0,0
+82875,PC,Player Character,That's up to you. I can't help you there.,그건 당신이 결정할 일이야. 나는 도와줄 수 없어.,q5b_valana,,,,,0,0
+82876,PC,Player Character,You have failed your god. Give everything you own to me and go make penance.,당신은 신을 저버렸어. 가진 거 전부 내게 주고 속죄하러 가.,q5b_valana,xp1_didnotgdsm,,,,0,0
+82877,PC,Player Character,I happen to know the Oasis of the Green Palm could use a new cleric of Lathander...,녹색 야자 오아시스에 라샌더의 새 성직자가 필요하다는데...,q5b_valana,,,,,0,0
+82878,PC,Player Character,<StartCheck>[Persuade/Convert Valana to your own religion.]</Start> Perhaps it is time for you to follow a new faith.,<StartCheck>[설득/발라나를 당신의 종교로 개종시킵니다.]</Start> 이제 새로운 신앙을 따를 때가 됐을지도.,q5b_valana,,nw_d2_holy,,,0,0
+82879,PC,Player Character,I should go.,이제 가야겠어.,q5b_valana,,,,,0,0
+82880,PC,Player Character,Can I ask you some questions?,질문 좀 해도 돼?,q5b_valana,,,,,0,0
+82881,PC,Player Character,You look like you have a problem.,문제가 있는 것 같은데.,q5b_valana,,,,,0,0

@@ -1,0 +1,52 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+87247,PC,Player Character,"""Never mind.""","""됐어.""",x2_iw_enserric,,,,,0,0
+87248,PC,Player Character,"""Any advice you can offer?""","""조언해줄 수 있는 거 있어?""",x2_iw_enserric,,,,,0,0
+87249,PC,Player Character,"""You all right in there?""","""거기 괜찮아?""",x2_iw_enserric,x2_iw_ens_setq5,x2_iw_ens_getq4,,,0,0
+87250,PC,Player Character,"""You don't sound very happy.""","""별로 행복해 보이지 않는데.""",x2_iw_enserric,,,,,0,0
+87251,PC,Player Character,"""This must be difficult for you.""","""이게 많이 힘들겠다.""",x2_iw_enserric,,,,,0,0
+87252,PC,Player Character,"""Not really.""","""그렇지도 않아.""",x2_iw_enserric,,,,,0,0
+87253,PC,Player Character,"""Yes.""","""그래.""",x2_iw_enserric,,,,,0,0
+87254,PC,Player Character,"""I agree. I wish there was something I could do.""","""동의해. 내가 뭔가 해줄 수 있으면 좋겠는데.""",x2_iw_enserric,,,,,0,0
+87255,PC,Player Character,"""Maybe I could try to see if you're right.""","""네 말이 맞는지 확인해볼까.""",x2_iw_enserric,,,,,0,0
+87256,PC,Player Character,"""That's all I need. A bellyaching weapon.""","""딱 필요했던 거야. 투덜대는 무기.""",x2_iw_enserric,,,,,0,0
+87257,PC,Player Character,"""But you do exist. As a weapon.""","""하지만 넌 존재하잖아. 무기로서.""",x2_iw_enserric,,,,,0,0
+87258,PC,Player Character,"""Why is it difficult to remember?""","""왜 기억하기 어려운 거야?""",x2_iw_enserric,,,,,0,0
+87259,PC,Player Character,"""Do you want to see her again?""","""그녀를 다시 보고 싶어?""",x2_iw_enserric,,,,,0,0
+87260,PC,Player Character,"""Is there any way to get you out of this sword?""","""이 검에서 널 꺼낼 방법이 있어?""",x2_iw_enserric,,x2_iw_ens_getq1b,,,0,0
+87261,PC,Player Character,"""You're not getting mine!""","""내 건 안 돼!""",x2_iw_enserric,x2_iw_ens_setq4,,,,0,0
+87262,PC,Player Character,"""Is that even possible?""","""그게 가능하긴 해?""",x2_iw_enserric,x2_iw_ens_setq4,,,,0,0
+87263,PC,Player Character,"""Not whole enough?""","""충분히 온전하지 않다고?""",x2_iw_enserric,,,,,0,0
+87264,PC,Player Character,"""That's horrible! I'm so sorry.""","""끔찍하다! 정말 안됐네.""",x2_iw_enserric,,,,,0,0
+87265,PC,Player Character,"""Fair enough. No need for me to bother thinking about it, then.""","""알겠어. 그럼 나도 굳이 고민할 필요 없겠네.""",x2_iw_enserric,,,,,0,0
+87266,PC,Player Character,"""I'll try to free you if I can.""","""할 수 있으면 널 자유롭게 해줄게.""",x2_iw_enserric,,,,,0,0
+87267,PC,Player Character,"""Such a body would need to be soulless, perhaps?""","""그런 몸은 영혼이 없어야 하나?""",x2_iw_enserric,x2_iw_ens_setq4,[지능 높음],,,0,0
+87268,PC,Player Character,"""Tell me more about your mortal life.""","""살아있을 때 삶에 대해 더 말해줘.""",x2_iw_enserric,,x2_iw_ens_getq1c,,,0,0
+87269,PC,Player Character,"""I want you to boost the enchantment on the sword.""","""검의 마법 강화를 높여줬으면 해.""",x2_iw_enserric,,x2_iw_ens_getq3,,,0,0
+87270,PC,Player Character,"""You appear to be affecting my health. Why is that, exactly?""","""내 건강에 영향을 주는 것 같은데. 정확히 왜 그런 거야?""",x2_iw_enserric,,x2_ens_ch2start,,,0,0
+87271,PC,Player Character,"""What do you mean you're not sure?""","""확실하지 않다니 무슨 뜻이야?""",x2_iw_enserric,,,,,0,0
+87272,PC,Player Character,"""I'll learn to live with it.""","""그냥 적응할게.""",x2_iw_enserric,,,,,0,0
+87273,PC,Player Character,"""Could I die from this?""","""이것 때문에 죽을 수도 있어?""",x2_iw_enserric,,,,,0,0
+87274,PC,Player Character,"""Will it get any worse?""","""더 악화될 수 있어?""",x2_iw_enserric,,,,,0,0
+87275,PC,Player Character,"""I suppose I'll just have to sell you, then.""","""그럼 그냥 널 팔아야겠네.""",x2_iw_enserric,,,,,0,0
+87276,PC,Player Character,"""Can you do something about it?""","""뭔가 해줄 수 있어?""",x2_iw_enserric,,,,,0,0
+87278,PC,Player Character,"""Never mind, then. I'll keep the enchantment for now.""","""됐어. 일단 마법 강화는 유지할게.""",x2_iw_enserric,,,,,0,0
+87279,PC,Player Character,"""Alright. Remove the effects for now, then.""","""알겠어. 일단 효과를 제거해줘.""",x2_iw_enserric,,,,,0,0
+87280,PC,Player Character,"""Never mind.""","""됐어.""",x2_iw_enserric,,,,,0,0
+87281,PC,Player Character,"""How about answering some questions?""","""질문 좀 대답해줄래?""",x2_iw_enserric,,,,,0,0
+87282,PC,Player Character,"""I don't need to know anything else.""","""다른 건 알 필요 없어.""",x2_iw_enserric,,,,,0,0
+87283,PC,Player Character,"""What can you tell me about Undermountain?""","""언더마운틴에 대해 뭐 알려줄 수 있어?""",x2_iw_enserric,,,,,0,0
+87284,PC,Player Character,"""No, really.""","""아니, 진짜로.""",x2_iw_enserric,,,,,0,0
+87285,PC,Player Character,"""Do you have any secret powers I should know about?""","""내가 알아야 할 비밀 능력이 있어?""",x2_iw_enserric,,x2_ens_disable,,,0,0
+87286,PC,Player Character,"""Do you know where there's treasure around here?""","""이 근처 보물이 어디 있는지 알아?""",x2_iw_enserric,,,,,0,0
+87287,PC,Player Character,"""Tell me more about your mortal life.""","""살아있을 때 삶에 대해 더 말해줘.""",x2_iw_enserric,x2_iw_ens_setq1,,,,0,0
+87288,PC,Player Character,"""Forgotten?""","""잊혀졌다고?""",x2_iw_enserric,,,,,0,0
+87289,PC,Player Character,"""Do you remember any spells?""","""기억나는 주문이 있어?""",x2_iw_enserric,,,,,0,0
+87290,PC,Player Character,"""Is there anyone who would miss you?""","""널 그리워할 사람이 있어?""",x2_iw_enserric,,,,,0,0
+87291,PC,Player Character,"""You can service me as a weapon, that's how.""","""무기로서 날 도와주면 돼, 그게 방법이야.""",x2_iw_enserric,,,,,0,0
+87292,PC,Player Character,"""You can bring a good price at the market.""","""시장에서 좋은 값을 받을 수 있을 거야.""",x2_iw_enserric,,,,,0,0
+87293,PC,Player Character,"""Good. Let's go, then.""","""좋아. 그럼 가자.""",x2_iw_enserric,,,,,0,0
+101578,PC,Player Character,"""Never mind, then.""","""그럼 됐어.""",x2_iw_enserric,,,,,0,0
+101579,PC,Player Character,"""I know. Drain as much as you can."" <StartAction>[-6 Constitution]</Start>","""알아. 최대한 흡수해."" <StartAction>[-6 체질]</Start>",x2_iw_enserric,x2_iw_setdrain6,,,,0,0
+101580,PC,Player Character,"""I know. Drain a moderate amount."" <StartAction>[-4 Constitution]</Start>","""알아. 적당히 흡수해."" <StartAction>[-4 체질]</Start>",x2_iw_enserric,x2_iw_setdrain4,,,,0,0
+101581,PC,Player Character,"""I know. Drain only a little."" <StartAction>[-2 Constitution]</Start>","""알아. 조금만 흡수해."" <StartAction>[-2 체질]</Start>",x2_iw_enserric,x2_iw_setdrain2,,,,0,0
+101582,PC,Player Character,"""Temporary? Could it be made voluntary?""","""일시적? 자발적으로 조절할 수 있어?""",x2_iw_enserric,x2_iw_ens_setq3,,,,0,0

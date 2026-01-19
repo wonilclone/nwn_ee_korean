@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36376,PC,Player Character,"Grovelling won't save your worthless hide! Die, dog!","애원해도 소용없어! 죽어라, 개 같은 놈!",m2q3e_silverback,,[지능 보통],,,0,0
+36377,PC,Player Character,You talk do you? Then answer my questions!,말을 할 줄 알아? 그럼 내 질문에 답해!,m2q3e_silverback,,[지능 보통],,,0,0
+36378,PC,Player Character,You beg like dog. Me kill you now.,너 개처럼 빌어. 나 이제 죽여.,m2q3e_silverback,,[지능 낮음],,,0,0
+36379,PC,Player Character,"Huh? You talk? Then you better answer questions, too!",응? 너 말해? 그럼 질문에도 답하는 게 좋을 거야!,m2q3e_silverback,,[지능 낮음],,,0,0
+36380,PC,Player Character,Tell me about your hunting grounds.,네 사냥터에 대해 말해줘.,m2q3e_silverback,,[지능 보통],,,0,0
+36381,PC,Player Character,"Hmm. You tell me 'bout da places you hunt, yuh?","음. 너 사냥하는 곳 말해줘, 응?",m2q3e_silverback,,[지능 낮음],,,0,0
+36382,PC,Player Character,Who is this ranger?,그 순찰자가 누구야?,m2q3e_silverback,,[지능 보통],,,0,0
+36383,PC,Player Character,Who be this ranger?,그 순찰자 누구야?,m2q3e_silverback,,[지능 낮음],,,0,0
+36384,PC,Player Character,Whimpering dog! I've decided to kill you after all.,징징대는 개 같은 놈! 결국 죽이기로 했어.,m2q3e_silverback,nw_d1_mid_evil,[지능 보통],,,0,0
+36385,PC,Player Character,"Me kill you after all, stupid dog!","나 결국 너 죽여, 멍청한 개!",m2q3e_silverback,nw_d1_mid_evil,[지능 낮음],,,0,0
+36386,PC,Player Character,I've got a few more questions.,질문이 몇 개 더 있어.,m2q3e_silverback,,[지능 보통],,,0,0
+36387,PC,Player Character,Me got more questions,나 질문 더 있어.,m2q3e_silverback,,[지능 낮음],,,0,0
+36388,PC,Player Character,That I face you here should be proof that I'm no coward... ,내가 여기 네 앞에 있는 게 겁쟁이가 아니라는 증거야...,m2q3e_silverback,,[지능 보통],,,0,0
+36389,PC,Player Character,Would coward have come here to face you? Me no coward.,겁쟁이가 여기 와서 너 상대하겠어? 나 겁쟁이 아니야.,m2q3e_silverback,,[지능 낮음],,,0,0
+36390,PC,Player Character,Fine. I want to ask you something else.,좋아. 다른 거 물어볼게.,m2q3e_silverback,,[지능 보통],,,0,0
+36391,PC,Player Character,"Okay, me ask other stuff.","알았어, 나 다른 거 물어봐.",m2q3e_silverback,,[지능 낮음],,,0,0
+36392,PC,Player Character,"<StartCheck>[Persuade]</Start> Simply a favor, that's all I ask... ","<StartCheck>[설득]</Start> 그냥 부탁일 뿐이야, 그게 다야...",m2q3e_silverback,,[지능 보통],,,0,0
+36393,PC,Player Character,"<StartCheck>[Persuade]</Start> Jus' an itty-bitty favor, that all me ask... ","<StartCheck>[설득]</Start> 그냥 조그만 부탁이야, 그게 다야...",m2q3e_silverback,,[지능 낮음],,,0,0
+36394,PC,Player Character,Where did you learn to talk?,어떻게 말을 배웠어?,m2q3e_silverback,,[지능 보통],,,0,0
+36395,PC,Player Character,"You've been hunting the nearby cattle, haven't you... ","근처 가축들을 사냥했지, 안 그래...",m2q3e_silverback,,[지능 보통],,,0,0
+36396,PC,Player Character,How come you talk?,왜 너 말해?,m2q3e_silverback,,[지능 낮음],,,0,0
+36397,PC,Player Character,"You been hunting da cattle 'round here, yuh?","너 여기 가축들 사냥했지, 응?",m2q3e_silverback,,[지능 낮음],,,0,0
+36398,PC,Player Character,"I need you to stop hunting the cattle... and no people, either!",가축 사냥 좀 그만해야겠어... 사람도 안 돼!,m2q3e_silverback,,[지능 보통],,,0,0
+36399,PC,Player Character,"Stop hunting da cows, 'kay? And da people too... ","소 사냥 그만해, 알았지? 사람도 마찬가지고...",m2q3e_silverback,,[지능 낮음],,,0,0
+36400,PC,Player Character,<StartCheck>[Insight]</Start> It sounds like coward's food... ,<StartCheck>[통찰]</Start> 겁쟁이나 먹는 음식 같은데...,m2q3e_silverback,,nw_d2_wis_intn,,,0,0
+36401,PC,Player Character,Yes but they're owned by farmers who will have you killed!,"그래, 하지만 농부들 소유야, 그들이 널 죽일 거야!",m2q3e_silverback,,[지능 보통],,,0,0
+36402,PC,Player Character,"Yuh, but they owned by farmers who kill you!","응, 하지만 농부들 거야, 그들이 너 죽여!",m2q3e_silverback,,[지능 낮음],,,0,0

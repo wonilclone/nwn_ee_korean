@@ -1,0 +1,284 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+3074,Creature,Pit Fiend,Pit Fiend,나락의 마귀,HX_FEND_DEVIL|Q2E_EVIL3,,,,,0,0
+3095,Creature,Pit Fiend,Pit Fiend,나락의 마귀,HX_HELL_PITFIEND|HX_HELL_PIT_CUT|HX_TEMP_DEVIL|PITFIEND|Q2D8SPAWN2,,,,,0,0
+5991,Creature,Panther,Panther,표범,NW_PANTHER,,,,,0,0
+5995,Creature,Panther,Panther,표범,M1S4FBEAST|M1S5APANTHER,,,,,0,0
+6005,Creature,Pixie,Pixie,픽시,RB_PIXIE,,,,,0,0
+12722,Creature,Phase Spider,Phase Spider,위상 거미,CUT1_SPIDER2,,,,,0,0
+16796,Dialog,PENI1,"Please, good <sir/madam>, can you help? We have lost family to the plague, and escaped convicts in the Peninsula district prevent us from even mourning in our own homes.","제발요, <sir/madam>, 도와주실 수 있나요? 역병으로 가족을 잃었는데, 반도 지구의 탈옥수들 때문에 집에서 애도조차 할 수 없어요.",M1Q1A01PENI1,,,,,0,0
+16797,Dialog,PENI1,"Goodbye, I guess. Please, if you have a chance, can you please look into the trouble in the Peninsula? We have no one else to turn to.","안녕히 가세요. 제발, 기회가 되신다면 반도의 문제를 좀 살펴봐 주실 수 있나요? 의지할 사람이 아무도 없어요.",M1Q1A01PENI1,,,,,0,0
+16799,Dialog,PENI1,I... I don't know what someone like me could tell you. All I know is that none of us can go home. The guards do nothing... The Peninsula is unimportant with the plague taking a larger toll.,저... 저 같은 사람이 무슨 말을 할 수 있을지 모르겠네요. 제가 아는 건 우리 중 누구도 집에 갈 수 없다는 것뿐이에요. 경비병들은 아무것도 안 해요... 역병이 더 큰 피해를 주니 반도는 중요하지 않은 모양이에요.,M1Q1A01PENI1,,,,,0,0
+16804,Dialog,PENI1,"Glad that somebody was willing to take those thieves to the woodshed. I gotta thank you. Now if you'll excuse me, I'm gonna get back to work in there.","누군가가 저 도둑들을 혼내줘서 기뻐요. 정말 감사합니다. 그럼 실례할게요, 일하러 돌아가야 해서요.",M1Q1A01PENI1,,,,,0,0
+16805,Dialog,PENI1,I hate this. Someone should lay down the law.,이거 정말 싫어요. 누군가 법을 세워야 해요.,M1Q1A01PENI1,,,,,0,0
+16806,Dialog,PENI1,That's the way things get done! Yes indeed!,그게 바로 일을 처리하는 방법이죠! 정말 그래요!,M1Q1A01PENI1,,,,,0,0
+56882,Dialog,PENI1,Please... we've nobody left to turn to. The guards won't help... don't just walk away. The Peninsula... our homes... it's all we've got.,제발요... 의지할 사람이 아무도 없어요. 경비병들은 안 도와줘요... 그냥 가지 마세요. 반도가... 우리 집이... 우리가 가진 전부예요.,M1Q1A01PENI1,,,,,0,0
+56883,Dialog,PENI1,"I... I don't know if you can or not. I'm not sure what has gone wrong in there. I just know is that if we try to go back to our homes, we'll be killed.",저... 당신이 할 수 있을지 모르겠어요. 거기서 무슨 일이 일어났는지 확실치 않아요. 다만 집으로 돌아가려 하면 죽을 거라는 것만 알아요.,M1Q1A01PENI1,,,,,0,0
+56884,Dialog,PENI1,"If there is something you can do... please, I'm begging you... help us.","뭔가 할 수 있는 일이 있다면... 제발, 부탁드려요... 도와주세요.",M1Q1A01PENI1,,,,,0,0
+16810,Dialog,PENI2,"Pardon my improper greeting, <sir/madam>, but I really can't muster the interest today. The plague picks us off one by one, and I can't even hide in my home.","부적절한 인사를 용서해 주세요, <sir/madam>. 오늘은 정말 관심을 가질 여유가 없네요. 역병이 우리를 하나씩 데려가는데, 집에 숨을 수조차 없어요.",M1Q1A01PENI2,,,,,0,0
+16811,Dialog,PENI2,Fare you well. I will be here. There's nowhere else for me to go. Definitely not home.,안녕히 가세요. 저는 여기 있을 거예요. 갈 곳이 없거든요. 집은 확실히 아니고요.,M1Q1A01PENI2,,,,,0,0
+16813,Dialog,PENI2,"I can't talk to anyone. I don't want to. I just want to be able to go home. Ah, why am I telling you this? You can't take on the whole Peninsula district.","아무하고도 말하고 싶지 않아요. 그냥 집에 갈 수 있으면 좋겠어요. 아, 왜 이런 얘기를 하는 걸까요? 반도 지구 전체를 상대할 순 없잖아요.",M1Q1A01PENI2,,,,,0,0
+16816,Dialog,PENI2,"What do you want? I thank you for your sympathy, if that's what you've come to offer, but the guards have already given us plenty of good wishes. Unfortunately it doesn't help get our homes back. ","무슨 일이세요? 동정심을 주러 오신 거라면 감사하지만, 경비병들이 이미 좋은 말씀 많이 해줬어요. 안타깝게도 그게 집을 되찾는 데는 도움이 안 돼요.",M1Q1A01PENI2,,,,,0,0
+16817,Dialog,PENI2,What do you want? Please tell me you're not one of the thugs that forced us out. I've nothing left to steal. I can't even huddle in my own home anymore.,무슨 일이세요? 우리를 쫓아낸 건달들 중 하나는 아니시죠? 훔칠 것도 이젠 없어요. 제 집에 움츠리고 있을 수조차 없는걸요.,M1Q1A01PENI2,,,,,0,0
+16818,Dialog,PENI2,"I can't believe someone took the time to help us. Thank you for all you have done. It may not be much, but the Peninsula is where our homes are.","누군가가 시간을 내서 우리를 도와주다니 믿을 수가 없네요. 해주신 모든 일에 감사드려요. 많지 않을지 몰라도, 반도가 우리 집이 있는 곳이에요.",M1Q1A01PENI2,,,,,0,0
+16819,Dialog,PENI2,(sob) What are we to do?,(흐느낌) 우린 어떻게 해야 하죠?,M1Q1A01PENI2,,,,,0,0
+16820,Dialog,PENI2,I never thought I'd be able to go home again.,다시는 집에 갈 수 없을 줄 알았어요.,M1Q1A01PENI2,,,,,0,0
+56889,Dialog,PENI2,The Peninsula is all but overrun by escaped criminals. We've lost everything to them. Why doesn't anybody do something about it?,반도가 탈옥수들에게 거의 점령당했어요. 그들한테 모든 걸 잃었어요. 왜 아무도 뭔가 하지 않는 거죠?,M1Q1A01PENI2,,,,,0,0
+56890,Dialog,PENI2,I don't need to be reminded of how little I can help myself. We were pushed out by so many... the whole Peninsula district... overrun.,제가 얼마나 무력한지 상기시킬 필요 없어요. 너무 많은 사람들에게 쫓겨났어요... 반도 지구 전체가... 점령당했죠.,M1Q1A01PENI2,,,,,0,0
+56891,Dialog,PENI2,"Go then, but... please... if you have a chance... please look into the Penisula... It was all we had.","가세요, 하지만... 제발... 기회가 되시면... 반도를 좀 살펴봐 주세요... 우리가 가진 전부였어요.",M1Q1A01PENI2,,,,,0,0
+56892,Dialog,PENI2,I... I don't know. You can't take on the whole district by yourself... can you? I guess we need a hero... I don't know if that's you.,저... 모르겠어요. 혼자서 지구 전체를 상대할 순 없잖아요... 그렇죠? 영웅이 필요한 것 같은데... 그게 당신인지는 모르겠어요.,M1Q1A01PENI2,,,,,0,0
+56893,Dialog,PENI2,"If there is something you can do to help the situation in the Peninsula, I beg you, please do it.","반도 상황을 도울 수 있는 일이 있다면, 부탁드려요, 제발 해주세요.",M1Q1A01PENI2,,,,,0,0
+19394,Dialog,PRISBANTER,I'll die before going back to that hell hole.,그 지옥에 돌아가느니 차라리 죽겠어.,M1Q2A_PRISBANTER,,,,,0,0
+19395,Dialog,PRISBANTER,You'll be easy pickings.,쉬운 먹잇감이겠군.,M1Q2A_PRISBANTER,,,,,0,0
+19396,Dialog,PRISBANTER,Alaefin will reward us handsomely for your head!,알레핀이 네 머리에 후한 보상을 줄 거야!,M1Q2A_PRISBANTER,,,,,0,0
+19397,Dialog,PRISBANTER,This is our turf now.,이제 여기는 우리 구역이야.,M1Q2A_PRISBANTER,,,,,0,0
+19398,Dialog,PRISBANTER,You came to the wrong part of town.,잘못된 구역에 왔군.,M1Q2A_PRISBANTER,,,,,0,0
+21621,Dialog,PEASANTS,Don't go drawing attention to me. Can't keep a coin in your purse for all the thieves out today.,날 주목하게 하지 마세요. 오늘 나온 도둑들 때문에 지갑에 동전 하나 못 간수하겠어요.,M1Q4A01PEASANTS,,,,,0,0
+21622,Dialog,PEASANTS,Plague and thieves... if the city weren't in quarantine I'd have fled long ago.,역병에 도둑까지... 도시가 봉쇄되지 않았다면 진작 도망쳤을 거예요.,M1Q4A01PEASANTS,,,,,0,0
+21623,Dialog,PEASANTS,"Feh! Don't tell ME there's a cure in the works. Just letting us peasants die, they are!",흥! 치료법을 개발 중이라는 소리 하지 마세요. 그냥 우리 평민들을 죽게 내버려 두는 거예요!,M1Q4A01PEASANTS,,,,,0,0
+21624,Dialog,PEASANTS,"That Desther and his bunch, they talk a lot, but I've yet to see their blessings help anyone.","데스터와 그 무리, 말은 많이 하는데 그들의 축복이 누군가를 도운 걸 본 적이 없어요.",M1Q4A01PEASANTS,,,,,0,0
+21625,Dialog,PEASANTS,"I suppose things could be worse. Not sure HOW exactly, but I'm sure they could be.","더 나빠질 수도 있겠죠. 정확히 어떻게인지는 모르지만, 분명 그럴 수 있을 거예요.",M1Q4A01PEASANTS,,,,,0,0
+21626,Dialog,PEASANTS,"That Nasher, I've heard he's working day and night on a cure for the Wailing. Gives me hope.","나셰르 영주님, 울부짖는 죽음 역병 치료법 개발에 밤낮없이 일하신다고 들었어요. 희망이 되네요.",M1Q4A01PEASANTS,,,,,0,0
+21627,Dialog,PEASANTS,I know there will be a cure. Know why? Because nobles have the Wailing too.,치료법이 나올 거예요. 왜인지 아세요? 귀족들도 울부짖는 죽음 역병에 걸렸거든요.,M1Q4A01PEASANTS,,,,,0,0
+21628,Dialog,PEASANTS,"Don't know why there's been so much crime lately. It's not like they can steal a cure, eh?","최근에 왜 범죄가 그렇게 많은지 모르겠어요. 치료법을 훔칠 수 있는 것도 아닌데, 그렇죠?",M1Q4A01PEASANTS,,,,,0,0
+21629,Dialog,PEASANTS,"Things are settling down. Don't know what happend, but I'm glad my purse is safe now.","상황이 진정되고 있어요. 무슨 일이 있었는지 모르지만, 지갑이 안전해서 다행이에요.",M1Q4A01PEASANTS,,,,,0,0
+21630,Dialog,PEASANTS,"Things are calmer now. There's still the plague, of course, but the Helmites will take care of that.","이제 좀 조용해졌어요. 물론 역병은 여전하지만, 헬름교도들이 처리할 거예요.",M1Q4A01PEASANTS,,,,,0,0
+22478,Dialog,PASSAGE,What's the big problem? You were going to auction the thing yourself!,무슨 큰 문제라고? 당신도 그걸 직접 경매에 붙이려던 거잖아!,M1Q4F20PASSAGE,m1q4passagelc40,,,vs_nthugxm1_055,0,0
+22479,Dialog,PASSAGE,I won't let you squander this opportunity! That thing is worth a fortune!,이 기회를 낭비하게 놔두지 않을 거야! 그건 엄청난 가치가 있다고!,M1Q4F20PASSAGE,m1q4passagelc30,,,vs_nthugxm1_054,0,0
+22480,Dialog,PASSAGE,Cur! Bounder! You are not half the man your father was!,비열한 놈! 건달아! 네 아버지의 반도 안 되는군!,M1Q4F20PASSAGE,m1q4passagelc20,,,vs_fvengaum_051,0,0
+22481,Dialog,PASSAGE,There is a great commotion from the passage ahead. The sounds of a battle ring loud against the stone.,앞쪽 통로에서 큰 소동이 들립니다. 전투 소리가 돌에 크게 울려 퍼집니다.,M1Q4F20PASSAGE,m1q4passagelc10,,,,0,0
+22482,Dialog,PASSAGE,"Don't you start with that, old man! This is just about business!","그런 소리 하지 마, 늙은이! 이건 그냥 사업일 뿐이야!",M1Q4F20PASSAGE,,,,vs_nthugxm1_053,0,0
+22483,Dialog,PASSAGE,"Life is measured by more than wealth, my boy. A well schemed plot keeps your name in the history books!","인생은 재산 이상으로 측정되는 거야, 얘야. 잘 짜인 계략이 역사책에 네 이름을 남기는 법이지!",M1Q4F20PASSAGE,,,,vs_fvengaum_052,0,0
+22484,Dialog,PASSAGE,That was showmanship. Make them think the prize is lost and they respect you all the more when they get it.,그건 쇼맨십이었어. 상이 사라졌다고 생각하게 만들면 나중에 받았을 때 더 존경하게 되지.,M1Q4F20PASSAGE,,,,vs_fvengaum_053,0,0
+35626,Dialog,PASSAGE,"You notice what looks to be an underwater passage. If you could hold your breath long enough, perhaps it would be possible to swim to the other side. Do you wish to try?","수중 통로처럼 보이는 것을 발견합니다. 충분히 오래 숨을 참을 수 있다면, 어쩌면 반대편으로 헤엄쳐 갈 수 있을 것입니다. 시도해보시겠습니까?",M2Q3B07PASSAGE,,,,,0,0
+35627,Dialog,PASSAGE,You dive into the pool but run out of breath before reaching the passage.,물 속으로 뛰어들었지만 통로에 도달하기 전에 숨이 떨어집니다.,M2Q3B07PASSAGE,m2q3underpassag3,,,,0,0
+35628,Dialog,PASSAGE,You successfully make it to the other side.,성공적으로 반대편에 도착합니다.,M2Q3B07PASSAGE,m2q3underpassage,,,,0,0
+35629,Dialog,PASSAGE,It should be much easier to make it back. Do you wish to try?,돌아가는 것은 훨씬 더 쉬울 것입니다. 시도해보시겠습니까?,M2Q3B07PASSAGE,,,,,0,0
+35630,Dialog,PASSAGE,You successfully make it to the other side.,성공적으로 반대편에 도착합니다.,M2Q3B07PASSAGE,m2q3underpassag2,,,,0,0
+24273,Dialog,PYREINFOTRIG,Whoever has been piling these disease-ridden corpses for burning has long ago fled. If you had a torch you could continue his work.,불태우기 위해 이 역병에 걸린 시체들을 쌓아두던 사람은 오래 전에 도망갔습니다. 횃불이 있다면 그의 일을 계속할 수 있을 것입니다.,M1_PYREINFOTRIG,,,,,0,0
+24274,Dialog,PYREINFOTRIG,It will take a long time for these bodies to be consumed by the flames.,이 시체들이 불에 완전히 타는 데는 오랜 시간이 걸릴 것입니다.,M1_PYREINFOTRIG,,,,,0,0
+24540,Creature,Patron,Patron,고객,M1S04CPATRON|M1S2ADWFPATRON|M1S2APATRON|M1S2HALFPATRON|M1S2PATRON|M1S2PATRON2|PATRON,,,,,0,0
+24571,Creature,Priest of Helm,Priest of Helm,헬름의 사제,M1GEN_HUMPRIEST|M1Q02CHELMITE|PRIESTOFHELM,,,,,0,0
+24599,Creature,Peasant,Peasant,농부,M1Q02CPEASFE|M2Q1AMBCOMM|M2Q1AMBCOMM2,,,,,0,0
+24629,Creature,Peasant Woman,Peasant Man,농부 남성,M1Q04CPEASANT01,,,,,0,0
+24630,Creature,Peasant Woman,Peasant Woman,농부 여성,M1Q04CPEASANT01,,,,,0,0
+24697,Creature,Patrol,Patrol,순찰병,M1Q5PATROL,,,,,0,0
+24710,Creature,Punkin,Punkin,펀킨,M1S1CPUNKIN,,,,,0,0
+25741,Creature,Priest of Tyr,This priest is in deep meditation preparing for the ritual. He ignores you.,이 사제는 의식을 준비하며 깊은 명상에 잠겨 있습니다. 그는 당신을 무시합니다.,M1Q6A01PRIEST,m1q6a_inconv,,,,0,0
+25742,Creature,Priest of Tyr,This priest is still quite shaken up about the events that have just happened. He is unable to put his feelings into words.,이 사제는 방금 일어난 사건에 대해 아직도 상당히 동요하고 있습니다. 그는 자신의 감정을 말로 표현할 수 없습니다.,M1Q6A01PRIEST,m1q6a_inconv,,,,0,0
+26329,Creature,Priest of Tyr,Priest of Tyr,티르의 사제,M1Q6A01PRIEST,,,,,0,0
+25978,Dialog,PEDESTAL,This Pedestal has an indent where a gem may be placed.,이 받침대에는 보석을 놓을 수 있는 홈이 있습니다.,M1Q6F06PEDESTAL,,,,,0,0
+27757,Dialog,PANIC_LINE,"Please, I have always been loyal to High Captain Kurth, don't hurt us.","제발, 저는 항상 대선장 커스에게 충성해왔습니다. 우리를 해치지 마세요.",2Q4A_PANIC_LINE,,,,,0,0
+27758,Dialog,PANIC_LINE,"Don't hurt us, I serve only High Captain Baram.","우리를 해치지 마세요, 저는 오직 대선장 바람만을 섬깁니다.",2Q4A_PANIC_LINE,,,,,0,0
+27759,Dialog,PANIC_LINE,"By the gods, the undead have come for us! Please save us powers above.","신이시여, 언데드가 우리를 잡으러 왔습니다! 제발 위의 신들이시여 우리를 구해주소서.",2Q4A_PANIC_LINE,,,,,0,0
+29331,Dialog,PLLASTMINESIGN,The Port Llast Mine has been closed for many years: ever since the vein of ore ran out.,라스트 항구 광산은 오랜 세월 동안 폐쇄되어 있습니다: 광맥이 고갈된 이후로 줄곧.,M2PLLASTMINESIGN,,,,,0,0
+35632,Dialog,PATROL,Intruder! Sound the alarm!,침입자다! 경보를 울려!,M2Q3D04PATROL,,,,,0,0
+35633,Dialog,PATROL,I sense the wardstone. You may pass.,경계석을 감지하는군. 통과해도 좋다.,M2Q3D04PATROL,,,,,0,0
+46265,Dialog,PATROL,*Hiss.*,*쉬익.*,M3Q2G03PATROL,,,,,0,0
+46266,Dialog,PATROL,Aaarrghhhh! Aaarrghhhhh!!!!,아아아아! 아아아아!!!!,M3Q2G03PATROL,,,,,0,0
+46267,Dialog,PATROL,*Hiss.* *Hiss.*,*쉬익.* *쉬익.*,M3Q2G03PATROL,,,,,0,0
+46268,Dialog,PATROL,*Hiss.* *Hiss.*,*쉬익.* *쉬익.*,M3Q2G03PATROL,,,,,0,0
+46269,Dialog,PATROL,Grrr.,으르르.,M3Q2G03PATROL,,,,,0,0
+46270,Dialog,PATROL,Rah! Rahrak!,라! 라라크!,M3Q2G03PATROL,,,,,0,0
+37750,Dialog,PTROL,We surrender! No hurt. We not want getting killed so much!,우리 항복! 안 다치게! 우리 죽는 거 많이 안 좋아!,M2Q5C02PTROL,m2q5surrgob1,,,,0,0
+37751,Dialog,PTROL,"We is told we not fighting with you. So me not talk, neither. You talk to chieftain. ","우리 너랑 안 싸우라고 들었어. 그래서 나 안 말해, 절대. 너 족장한테 말해.",M2Q5C02PTROL,,,,,0,0
+37752,Dialog,PTROL,"<StartCheck>[Success]</Start> You wants us making all goblins be peaceful to you? Okays, we can do that. Yes, we talks, spreads word. You lets us go, yeah?","<StartCheck>[성공]</Start> 너 우리가 모든 고블린 너한테 평화롭게 만들라고? 좋아, 우리 그거 할 수 있어. 그래, 우리 말하고, 소문 퍼뜨려. 너 우리 보내줘, 응?",M2Q5C02PTROL,m2q5c02ptrolslc1,,,,0,0
+37753,Dialog,PTROL,"<StartCheck>[Failure]</Start> You wants us making all goblins be peaceful to you? We not think we can do that, no. We not sure, is we.","<StartCheck>[실패]</Start> 너 우리가 모든 고블린 너한테 평화롭게 만들라고? 우리 그거 못 할 것 같아, 아니. 우리 확신 없어.",M2Q5C02PTROL,,,,,0,0
+37754,Dialog,PTROL,What's you means? You wants treasure maybe? Me gots gold. Me gives you gold if you stops with fighting us?,무슨 뜻? 너 보물 원해 어쩌면? 나 금 있어. 나 너한테 금 줘 너 우리 안 싸우면?,M2Q5C02PTROL,m2q5c02ptrolslc1,,,,0,0
+37755,Dialog,PTROL,Aaarrrggghhh! We still is fighting with <race> kind. Kill!,아아아아! 우리 아직도 <race> 종족이랑 싸워. 죽여!,M2Q5C02PTROL,m2q5c02ptrolslc2,,,,0,0
+37756,Dialog,PTROL,"What you asks us goblins, huh? We not knows so very much like you <race> kind think you knows. Er... what is question, huh?","너 우리 고블린한테 뭐 물어, 응? 우리 너 <race> 종족이 안다고 생각하는 것처럼 그렇게 많이 몰라. 어... 뭐가 질문, 응?",M2Q5C02PTROL,,,,,0,0
+37757,Dialog,PTROL,"Okay, okay! Me just kidding. Haha! Get joke? <Race> friend likes joke, yeah? We makes no goblin fights with <race> friend. Me go now?","좋아, 좋아! 나 그냥 농담. 하하! 농담 알아? <Race> 친구 농담 좋아해, 응? 우리 고블린 <race> 친구랑 안 싸우게 만들어. 나 이제 가?",M2Q5C02PTROL,m2q5c02ptrolslc1,,,,0,0
+37758,Dialog,PTROL,"We is left to living! We can breathe still! We runs away now! And we tells other goblins not is fighting with you, no! We is good. You see!","우리 살았어! 우리 아직도 숨 쉬어! 우리 이제 도망가! 그리고 우리 다른 고블린한테 너랑 안 싸우라고 말해, 절대! 우리 착해. 너 봐!",M2Q5C02PTROL,m2q5c02ptrol001,,,,0,0
+37759,Dialog,PTROL,We is left to living! We can breathe still! We runs away now!,우리 살았어! 우리 아직도 숨 쉬어! 우리 이제 도망가!,M2Q5C02PTROL,m2q5c02ptrol001,,,,0,0
+37760,Dialog,PTROL,"You wants talking with us chieftain, yeah? Okay, me tells you where find. He behind this door.","너 우리 족장이랑 말하고 싶어, 응? 좋아, 나 너한테 어디 있는지 말해줘. 그 이 문 뒤에 있어.",M2Q5C02PTROL,m2q5c02ptrolslc1,,,,0,0
+37761,Dialog,PTROL,"We is at wars with orcs and bugbears. One days we live here alone, now we gots others living with us, all because of master.","우리 오크랑 버그베어랑 전쟁 중. 옛날엔 우리 여기 혼자 살았는데, 이제 우리 다른 애들이랑 같이 살아, 다 주인 때문.",M2Q5C02PTROL,,,,,0,0
+37762,Dialog,PTROL,"No, not goblin chieftain... Master is bigger, stronger, not goblin. He steals away our best fighter for his own use. Not know why, though.","아니, 고블린 족장 아니야... 주인은 더 크고, 더 강해, 고블린 아니야. 그 우리 최고 전사 훔쳐가서 자기가 써. 왜 그런지는 몰라.",M2Q5C02PTROL,,,,,0,0
+37763,Dialog,PTROL,"Me makes other goblins not fights you, too! If me gets life saved, me can gets it done, yeah? Me do, me do!","나 다른 고블린들도 너 안 싸우게 만들어! 나 살려주면, 나 그거 할 수 있어, 응? 나 해, 나 해!",M2Q5C02PTROL,,,,,0,0
+37764,Dialog,PTROL,"Then me can lives? Me tells you what. Me makes sure no one other goblins fights you either. You did fair with us, so we do good to you, too. We leaves now, yes?","그럼 나 살 수 있어? 나 너한테 말해줄게. 나 다른 고블린들 너랑 안 싸우게 확실히 해. 너 우리한테 공정했으니까, 우리도 너한테 잘해. 우리 이제 가, 응?",M2Q5C02PTROL,,,,,0,0
+37765,Dialog,PTROL,You not hurt chiefy!,너 족장님 다치게 하지 마!,M2Q5C02PTROL,,,,,0,0
+37766,Dialog,PTROL,We give up! No kill!,우리 포기! 죽이지 마!,M2Q5C02PTROL,,,,,0,0
+37767,Dialog,PREST,Defilers! Defilers of the temple! Attack! Attack!!,모독자들이다! 신전의 모독자들! 공격! 공격!!,M2Q5C04PREST,,,,,0,0
+37768,Dialog,PREST,"Do not defile temple, <race> one! Out! out!!!","신전을 모독하지 마라, <race> 놈! 나가! 나가!!!",M2Q5C04PREST,,,,,0,0
+37831,Dialog,PREST,Infidels! They must not reach temple!! I go and release the guardians!!,이교도들이다! 신전에 도달하게 할 수 없어!! 내가 수호자들을 풀어주겠다!!,M2Q5C20PREST,,,,,0,0
+37899,Dialog,PRSNR,"Help! Me is prisoner here. You release me, yuh? Or is you working with orc and goblin? Me just want leaving. Not like prisons! Help me! Please, help!","도와줘! 나 여기 죄수야. 너 나 풀어줘, 응? 아니면 너 오크랑 고블린이랑 일해? 나 그냥 떠나고 싶어. 감옥 싫어! 도와줘! 제발, 도와줘!",M2Q5D15PRSNR,,,,,0,0
+37900,Dialog,PRSNR,"Me is prisoner of bugbears in this cave! Prisoner from war with orcs and goblins. Me wanting leave, but me is stuck. You help, yeah?","나 이 동굴에서 버그베어한테 잡힌 죄수야! 오크랑 고블린이랑 전쟁에서 잡혔어. 나 떠나고 싶은데, 나 갇혀 있어. 너 도와줘, 응?",M2Q5D15PRSNR,,,,,0,0
+37901,Dialog,PRSNR,Me gots no weapons. Me gots no others bugbears. No one is here. You see? Me just wants not being prisoner. Gets back to war with orcs and goblins.,나 무기 없어. 나 다른 버그베어들 없어. 아무도 여기 없어. 너 봐? 나 그냥 죄수 아니고 싶어. 오크랑 고블린이랑 전쟁으로 돌아가.,M2Q5D15PRSNR,,,,,0,0
+37902,Dialog,PRSNR,"We not is meaning to make such fool of self, but we is desperate. Long time for we is tortured! Long time we not be in war against orcs and goblins.","우리 이렇게 바보같이 보이고 싶지 않아, 근데 우리 절박해. 오래 고문당했어! 오래 오크랑 고블린이랑 전쟁 안 했어.",M2Q5D15PRSNR,,,,,0,0
+37903,Dialog,PRSNR,"Ah, okay. Me not knows much but prison bars, but we tries answer all questions. We wants out of prison, yeah!","아, 좋아. 나 감옥 창살 말고는 많이 몰라, 근데 우리 모든 질문 답하려고 노력해. 우리 감옥에서 나가고 싶어, 응!",M2Q5D15PRSNR,,,,,0,0
+37904,Dialog,PRSNR,Me gots no weapons. Me gots no others bugbears. No one is here. You see? Me just wants not being prisoner. Gets back to war with orcs and goblins.,나 무기 없어. 나 다른 버그베어들 없어. 아무도 여기 없어. 너 봐? 나 그냥 죄수 아니고 싶어. 오크랑 고블린이랑 전쟁으로 돌아가.,M2Q5D15PRSNR,,,,,0,0
+37905,Dialog,PRSNR,Me prisoner is. Me gots nothing to give. But me knows stuff. Maybe you wants asking me questions? Me try answer?,나 죄수야. 나 줄 거 없어. 근데 나 것들 알아. 어쩌면 너 나한테 질문하고 싶어? 나 답해볼게?,M2Q5D15PRSNR,,,,,0,0
+37907,Dialog,PRSNR,"We is fighting with orcs and goblins. Gets beat and taken prisoner. Everyone wants pleasing master, so needs beating other forces to make strength.","우리 오크랑 고블린이랑 싸워. 졌고 죄수 됐어. 모두 주인 기쁘게 하고 싶어, 그래서 힘 만들려고 다른 세력들 이겨야 해.",M2Q5D15PRSNR,,,,,0,0
+37908,Dialog,PRSNR,"Me can tells you that caves is home to orcs, goblins, and us bugbears. We fights so much. Not safe in caves for you outsider.","나 너한테 동굴이 오크, 고블린, 우리 버그베어들 집이라고 말해줄 수 있어. 우리 많이 싸워. 동굴에서 너 외부인한테 안전 안 해.",M2Q5D15PRSNR,,,,,0,0
+37909,Dialog,PRSNR,"Orcs and goblins is everywhere. We bugbears strong, we fights tough. But we never makes advance for long. Too many foes for us.","오크랑 고블린 어디나 있어. 우리 버그베어 강해, 우리 세게 싸워. 근데 우리 오래 진격 못 해. 우리한테 적들 너무 많아.",M2Q5D15PRSNR,,,,,0,0
+37910,Dialog,PRSNR,"If we bugbear is beating orc and goblin, then master is happy with us. Take us for his army. And we be most powerful.","우리 버그베어가 오크랑 고블린 이기면, 주인이 우리한테 기뻐해. 우리 데려가서 자기 군대에 넣어. 그리고 우리 최강 돼.",M2Q5D15PRSNR,,,,,0,0
+37911,Dialog,PRSNR,"Dergiab is master. He big ogre, but cast magics, too! He very strong warrior, and kills many who try and take his ruling away.","데르기아브가 주인. 그 큰 오우거인데, 마법도 써! 그 엄청 강한 전사고, 그의 지배 빼앗으려는 사람들 많이 죽여.",M2Q5D15PRSNR,,,,,0,0
+37912,Dialog,PRSNR,"Orc chieftain and goblin chieftain in caves. If killed is they, tribes would falls apart. We not know what doing without chieftain. We bugbears got chieftain, too. But we prisoner so long, not knows where.","오크 족장이랑 고블린 족장 동굴에 있어. 그들 죽으면, 부족들 무너져. 우리 족장 없이 뭐 해야 할지 몰라. 우리 버그베어도 족장 있어. 근데 우리 죄수로 너무 오래 있어서, 어디 있는지 몰라.",M2Q5D15PRSNR,,,,,0,0
+37913,Dialog,PRSNR,"Me not lying when me say me not know... proud warriors get taken by master, but we not know where they is go, or why.","나 내가 모른다고 말할 때 거짓말 안 해... 자랑스러운 전사들 주인한테 끌려가는데, 우리 그들이 어디 가는지, 왜 가는지 몰라.",M2Q5D15PRSNR,,,,,0,0
+37915,Dialog,PRSNR,"Me in prison. You come in, me kill you, then goes back! Come, frees me so me can kill, please master!","나 감옥에 있어. 너 들어와, 나 너 죽여, 그리고 돌아가! 와, 나 풀어줘 나 죽일 수 있게, 주인 기쁘게 해!",M2Q5D15PRSNR,,,,,0,0
+37916,Dialog,PRSNR,No hurt me! Please!,나 다치게 하지 마! 제발!,M2Q5D15PRSNR,,,,,0,0
+37917,Dialog,PRSNR,Me run! Me run!,나 도망가! 나 도망가!,M2Q5D15PRSNR,m2q5c_bugbearesc,,,,0,0
+68117,Dialog,PRSNR,"Me go free? Oh, joy! Me run away now. Me thanks you much.","나 자유? 오, 기뻐! 나 이제 도망가. 나 너한테 고마워 많이.",M2Q5D15PRSNR,nw_d2_leaverun,,,,0,0
+40029,Dialog,PORTLLAST001,To Neverwinter Wood.,네버윈터 숲으로.,M2_PORTLLAST001,,,,,0,0
+40030,Dialog,PORTLLAST002,To Green Griffon Inn and Luskan.,푸른 그리핀 여관과 러스칸으로.,M2_PORTLLAST002,,,,,0,0
+40031,Dialog,PORTLLAST003,To Charwood.,그을린숲으로.,M2_PORTLLAST003,,,,,0,0
+40032,Dialog,PORTLLASTSIGN,To Port Llast.,라스트 항구로.,M2_PORTLLASTSIGN,,,,,0,0
+40686,Creature,Priestess of Bane,Priestess of Bane,베인의 여사제,2Q4A_BANEPRIEST,,,,,0,0
+40702,Creature,Priestess of Auril,Priestess of Auril,아우릴의 여사제,2Q4D_AURIL|2Q4_AURILCLERIC,,,,,0,0
+40706,Creature,Priestess of Mask,Priestess of Mask,마스크의 여사제,2Q4D_MASK,,,,,0,0
+40752,Creature,Port Llast Mercenary,Port Llast Mercenary,라스트 항구 용병,M2Q01CMERC|M2Q1MERCUNIQ,,,,,0,0
+40757,Creature,Prichev,Prichev,프리체프,M2Q01CPRICHEV,,,,,0,0
+40865,Creature,Peren,Peren,페렌,M2Q1CPEREN,,,,,0,0
+40910,Creature,Puma,Puma,퓨마,M2Q2E_PUMA,,,,,0,0
+43618,Dialog,PALL,Why have you come to seek the council of this old woman?,왜 이 늙은 여인의 조언을 구하러 왔는가?,M3Q01A01PALL,,,,,0,0
+43619,Dialog,PALL,Go with the blessing of the Black Lion tribe.,검은 사자 부족의 축복과 함께 가거라.,M3Q01A01PALL,,,,,0,0
+43620,Dialog,PALL,I am Palla of the Black Lion tribe. I offer the wisdom of age to the Uthgardt who seek it.,나는 검은 사자 부족의 팔라다. 나는 지혜를 구하는 우스가르트에게 나이의 지혜를 제공한다.,M3Q01A01PALL,,,,,0,0
+43621,Dialog,PALL,From your dull speech I sense you are in desperate need of guidance from one who is wiser than yourself.,그대의 둔한 말투로 보아 그대보다 현명한 이의 인도가 절실히 필요하다는 것을 느낀다.,M3Q01A01PALL,,,,,0,0
+43622,Dialog,PALL,"Unfortunately, the council of elders is reserved for those of the Black Lion tribe. My wisdom is only in the Uthgardt way of life and you... are not Uthgardt. ","불행히도, 장로 회의는 검은 사자 부족원들을 위한 것이다. 나의 지혜는 오직 우스가르트의 삶의 방식에 대한 것이고 그대는... 우스가르트가 아니다.",M3Q01A01PALL,,,,,0,0
+43623,Dialog,PALL,I know nothing of your kind. I cannot give you guidance. Depart with the blessing of the Black Lion tribe. This alone I can give you.,나는 그대의 종족에 대해 아무것도 모른다. 나는 그대에게 인도를 줄 수 없다. 검은 사자 부족의 축복과 함께 떠나거라. 이것만은 그대에게 줄 수 있다.,M3Q01A01PALL,,,,,0,0
+43624,Dialog,PALL,"The life of one of my people is in your hands. I will aid you as best I can, though there is little I can do. The ways of justice among the Lords' Alliance are unknown to me.","내 동족의 생명이 그대의 손에 달려 있다. 내가 할 수 있는 일은 적지만, 최선을 다해 그대를 도울 것이다. 영주 연합의 정의의 방식은 나에게 낯설다.",M3Q01A01PALL,,,,,0,0
+43625,Dialog,PALL,"I am very disappointed in Rolgan. Our tribe constantly struggles against the stereotype of the drunken savage, yet Rolgan allowed himself to fall under the influence of alcohol. This is the result.","나는 롤간에게 매우 실망했다. 우리 부족은 술 취한 야만인이라는 고정관념에 맞서 끊임없이 싸우고 있는데, 롤간은 자신이 술의 영향 아래 빠지도록 허락했다. 이것이 그 결과다.",M3Q01A01PALL,,,,,0,0
+43626,Dialog,PALL,"That remains to be seen. Rolgan is a symbol of our people, I pray he is not guilty of what they claim. But my duty in this trial is clear: Neurik has explained the vow I have taken as juror.",그것은 지켜봐야 알 것이다. 롤간은 우리 동족의 상징이다. 나는 그가 그들이 주장하는 바에 대해 무죄이기를 기도한다. 하지만 이 재판에서의 나의 의무는 명확하다: 뉴릭이 배심원으로서 내가 한 서약을 설명했다.,M3Q01A01PALL,,,,,0,0
+43627,Dialog,PALL,"If the evidence shows Rolgan let alcohol cloud his mind so that he killed that man without reason, I must return a verdict of guilty. This trial is not the way of our tribe, but I must follow Neurik's rules in this matter.","증거가 롤간이 술로 인해 정신이 흐려져서 이유 없이 그 남자를 죽였다는 것을 보여준다면, 나는 유죄 평결을 내려야 한다. 이 재판은 우리 부족의 방식이 아니지만, 나는 이 문제에 있어 뉴릭의 규칙을 따라야 한다.",M3Q01A01PALL,,,,,0,0
+43628,Dialog,PALL,"We Uthgardt cannot risk the wrath of the Lords' Alliance by defying the High Priest of Tyr. I pray Rolgan is not a sacrifice for the good of the entire tribe, but if it must be it must be.","우리 우스가르트는 티르의 대사제를 거역하여 영주 연합의 분노를 감수할 수 없다. 나는 롤간이 부족 전체의 선을 위한 희생이 되지 않기를 기도하지만, 그래야 한다면 그래야 하는 것이다.",M3Q01A01PALL,,,,,0,0
+65660,Dialog,PALL,"Rolgan owes you his life, <FullName>. You have earned much honor in defending him. We children of the Black Lion thank you for what you have done.","롤간은 그대에게 생명을 빚졌다, <FullName>. 그대는 그를 변호하며 많은 명예를 얻었다. 검은 사자의 자손들은 그대가 한 일에 감사한다.",M3Q01A01PALL,,,,,0,0
+65661,Dialog,PALL,"Rolgan's spirit haunts me for the judgment I have passed - just as he will haunt you for breaking your vow to defend him! Begone, Oathbreaker!","롤간의 영혼이 내가 내린 판결로 나를 괴롭힌다 - 그를 변호하겠다는 서약을 깬 그대를 괴롭히듯이! 물러가거라, 서약 파괴자여!",M3Q01A01PALL,,,,,0,0
+46220,Creature,Page,"Keep the lights bright, is what I always say.","불을 밝게 유지해야 해, 내가 항상 하는 말이지.",M3Q2ACLEANUP,,,,,0,0
+47006,Creature,Page,Page,페이지,M3Q2ACLEANUP,,,,,0,0
+47018,Creature,Plague-Stricken Warrior,Plague-Stricken Warrior,역병에 걸린 전사,M3Q2DSICKMAN,,,,,0,0
+47051,Creature,Palla,Palla,팔라,MQ3JUROR5,,,,,0,0
+49103,Creature,Protector Against the Mace,Protector Against the Mace,둔기로부터의 보호자,M4Q1D08_IMM_BLUN,,,,,0,0
+49104,Creature,Protector Against Frost,Protector Against Frost,냉기로부터의 보호자,M4Q1D08_IMM_COLD,,,,,0,0
+49105,Creature,Protector Against the Storm,Protector Against the Storm,폭풍으로부터의 보호자,M4Q1D08_IMM_ELEC,,,,,0,0
+49106,Creature,Protector Against Flame,Protector Against Flame,화염으로부터의 보호자,M4Q1D08_IMM_FIRE,,,,,0,0
+49107,Creature,Protector Against the Lessers,Protector Against the Lessers,하급자로부터의 보호자,M4Q1D08_IMM_OTHE,,,,,0,0
+49108,Creature,Protector Against the Spear,Protector Against the Spear,창으로부터의 보호자,M4Q1D08_IMM_PIER,,,,,0,0
+49109,Creature,Protector Against Venom,Protector Against Venom,독으로부터의 보호자,M4Q1D08_IMM_POIS,,,,,0,0
+49110,Creature,Protector Against the Sword,Protector Against the Sword,검으로부터의 보호자,M4Q1D08_IMM_SLAS,,,,,0,0
+50987,Creature,Pavel,Pavel,파벨,NW_GUARD,,,,,0,0
+93931,Creature,Pavel,"""Hey you! Don't touch that!""","""야 너! 그거 만지지 마!""",NW_GUARD,act_q2awrack1,,,,0,0
+56578,Creature,Pack Leader,Pack Leader,무리 우두머리,CORRUPTEDSLAVERHOUND|NW_BOSS,,,,,0,0
+60123,Dialog,PINNACLE,"The portal seems to be inactive, at its center a small hole marks the spot where a portal stone would go.",차원문이 비활성화된 것 같습니다. 중앙의 작은 구멍이 차원문 제어석이 들어갈 자리를 표시하고 있습니다.,2Q6P_PINNACLE,,,,,0,0
+60124,Dialog,PINNACLE,Through the portal you see the Spine of the World and a small settlement. Do you proceed?,차원문을 통해 세상의 등뼈 산맥과 작은 정착지가 보입니다. 진행하시겠습니까?,2Q6P_PINNACLE,,,,,0,0
+61334,Creature,Perigor Schwa,Schwa,슈바,M4_TYR_COMMONM2,,,,,0,0
+61335,Creature,Perigor Schwa,Perigor,페리고르,M4_TYR_COMMONM2,,,,,0,0
+68308,Dialog,PRIMPOOL,"This pool swims with the colors of red, blue and yellow.  There are gems embedded at the bottom of the pool.","이 웅덩이에는 빨강, 파랑, 노랑색이 흐릅니다. 웅덩이 바닥에 보석들이 박혀 있습니다.",M3PRIMPOOL,,,,,0,0
+68309,Dialog,PRIMPOOL,"Upon close examination you see a red, blue and yellow gem.  It looks as if you could press one of the three.","자세히 살펴보니 빨강, 파랑, 노랑 보석이 보입니다. 세 개 중 하나를 누를 수 있을 것 같습니다.",M3PRIMPOOL,,,,,0,0
+68310,Dialog,PRIMPOOL,The water of the pool changes to lemon yellow.,웅덩이의 물이 레몬 노랑색으로 변합니다.,M3PRIMPOOL,m3q2pool11,,,,0,0
+68311,Dialog,PRIMPOOL,The water of the pool changes to sky blue.,웅덩이의 물이 하늘 파랑색으로 변합니다.,M3PRIMPOOL,m3q2pool11,,,,0,0
+68312,Dialog,PRIMPOOL,The water of the pool changes to blood red. ,웅덩이의 물이 핏빛 빨강색으로 변합니다.,M3PRIMPOOL,m3q2pool11,,,,0,0
+68313,Dialog,PRIMPOOL,Upon close examination you see a blue and yellow gem.  It looks as if you could press one of them.,자세히 살펴보니 파랑과 노랑 보석이 보입니다. 둘 중 하나를 누를 수 있을 것 같습니다.,M3PRIMPOOL,,,,,0,0
+68314,Dialog,PRIMPOOL,Upon close examination you see a red and yellow gem.  It looks as if you could press one of them.,자세히 살펴보니 빨강과 노랑 보석이 보입니다. 둘 중 하나를 누를 수 있을 것 같습니다.,M3PRIMPOOL,,,,,0,0
+68315,Dialog,PRIMPOOL,Upon close examination you see a red and blue gem.  It looks as if you could press one of the gems.,자세히 살펴보니 빨강과 파랑 보석이 보입니다. 보석 중 하나를 누를 수 있을 것 같습니다.,M3PRIMPOOL,,,,,0,0
+68316,Dialog,PRIMPOOL,The water in this pool is lemon yellow.,이 웅덩이의 물은 레몬 노랑색입니다.,M3PRIMPOOL,,,,,0,0
+68317,Dialog,PRIMPOOL,The water in this pool is sky blue.,이 웅덩이의 물은 하늘 파랑색입니다.,M3PRIMPOOL,,,,,0,0
+68318,Dialog,PRIMPOOL,The water in this pool is blood red.,이 웅덩이의 물은 핏빛 빨강색입니다.,M3PRIMPOOL,,,,,0,0
+70553,Dialog,PIP_COM1,Me want god to save me. Me will worship him.,나 신이 날 구해 주길 바래. 나 그를 숭배할 거야.,Q1G_PIP_COM1,,,,,0,0
+70554,Dialog,PIP_COM2,I do not know what to believe. He was right about some things.,뭘 믿어야 할지 모르겠어. 일부는 맞는 말이었어.,Q1G_PIP_COM2,,,,,0,0
+70555,Dialog,PIP_COM3,The prophet sees all. The prophet knows all.,예언자는 모든 걸 본다. 예언자는 모든 걸 안다.,Q1G_PIP_COM3,,,,,0,0
+70556,Dialog,PIP_COM4,All praise to the prophet of the new god!,새로운 신의 예언자를 찬양하라!,Q1G_PIP_COM4,,,,,0,0
+70557,Dialog,PIP_COM5,Praise be to the prophet of the new god. All bow before his wisdom!,새로운 신의 예언자를 찬양하라. 모두 그의 지혜 앞에 절하라!,Q1G_PIP_COM5,,,,,0,0
+70558,Dialog,PIP_COM6,I cannot believe these people are falling for such obvious lies.,이 사람들이 그런 뻔한 거짓말에 넘어가다니 믿을 수 없어.,Q1G_PIP_COM6,,,,,0,0
+70622,Dialog,PIP_COMMON4,I don't want to die! I shall follow this new god. What is his name?,죽고 싶지 않아! 이 새로운 신을 따를 거야. 이름이 뭐지?,Q1G_PIP_COMMON4,act_q1bpiper_16,,,,0,0
+70630,Dialog,PIP_COMMON4,But what about old Hol Halstrom? He called Piper a fool and now he's dead!,하지만 늙은 홀 할스트롬은 어때? 파이퍼를 바보라고 불렀더니 지금 죽었잖아!,Q1G_PIP_COMMON4,,,,,0,0
+70688,Dialog,PIP_COMMON4,The one true god! The one true god!,유일한 참된 신이시여! 유일한 참된 신이시여!,Q1G_PIP_COMMON4,,,,,0,0
+70702,Dialog,PIP_COMMON4,But what about all the prophesies? Are you sure you made them up?,하지만 모든 예언은 어떻게 돼? 정말 지어낸 거 확실해?,Q1G_PIP_COMMON4,act_q1bpiper_14,,,,0,0
+70624,Dialog,PIP_COMMON6,"What lies you spread! I will listen to no more of your foolishness, Piper.","무슨 거짓말을 퍼뜨리는 거야! 네 어리석은 소리는 더 이상 안 듣겠어, 파이퍼.",Q1G_PIP_COMMON6,,,,,0,0
+70629,Dialog,PIP_COMMON2,What? Give up everything I have worked so hard to gain? You really are insane! I am going to speak to the mayor about this.,뭐? 그렇게 열심히 일해서 얻은 모든 걸 포기하라고? 정말 미쳤구나! 시장님께 이 일을 말씀드릴 거야.,Q1G_PIP_COMMON2,,,,,0,0
+70631,Dialog,PIP_COMMON1,Yeah. Me no want to be dead. Me will follow new god. Me got nothing to give up anyway.,그래. 나 죽고 싶지 않아. 나 새로운 신 따를 거야. 어차피 포기할 것도 없어.,Q1G_PIP_COMMON1,,,,,0,0
+70665,Dialog,PIP_COMMON1,No. Only Hol. He was the target of the new god's vengeance!,아니. 홀만. 그가 새로운 신의 복수 대상이었어!,Q1G_PIP_COMMON1,,,,,0,0
+70669,Dialog,PIP_COMMON1,You defiled Hol's corpse? He was my friend! I can't believe this.,홀의 시체를 더럽혔다고? 내 친구였는데! 믿을 수 없어.,Q1G_PIP_COMMON1,,,,,0,0
+70691,Dialog,PIP_COMMON1,The new god is coming in glory! We worship his mighty prophet who shines a light on the dark words of the unbeliever!,새로운 신이 영광 중에 오신다! 불신자의 어두운 말에 빛을 비추는 그의 강력한 예언자를 우리는 숭배한다!,Q1G_PIP_COMMON1,,,,,0,0
+70698,Dialog,PIP_COMMON1,Die?,죽어?,Q1G_PIP_COMMON1,act_q1bpiper_13,,,,0,0
+70704,Dialog,PIP_COMMON1,You lucky you got that sword or you be joining you fake god.,"그 검을 가진 게 다행이지, 아니면 네 가짜 신과 함께 있을 뻔했어.",Q1G_PIP_COMMON1,,,,,0,0
+70634,Dialog,PIP_COMMON5,All praise and worship to the new god and his prophet!,새로운 신과 그의 예언자를 찬양하고 숭배하라!,Q1G_PIP_COMMON5,,,,,0,0
+70670,Dialog,PIP_COMMON5,You disgust me! I think I had better go apologize to Hol's widow and see how she is doing.,역겹군! 홀의 미망인에게 사과하러 가서 어떻게 지내는지 봐야겠어.,Q1G_PIP_COMMON5,,,,,0,0
+70695,Dialog,PIP_COMMON5,"I am sorry I followed the dark path! I have committed many indiscretions, and I have had impure thoughts!","어두운 길을 따른 걸 후회해! 많은 무분별한 짓을 저질렀고, 불순한 생각을 했어!",Q1G_PIP_COMMON5,act_q1bpiper_17,,,,0,0
+70658,Dialog,PIP_COMMON3,I was the one who found Hol's corpse. The neck was nearly severed and there were many wounds on his body! The new god must have hated him!,내가 홀의 시체를 발견했어. 목이 거의 잘렸고 몸에 많은 상처가 있었어! 새로운 신이 그를 증오했음에 틀림없어!,Q1G_PIP_COMMON3,,,,,0,0
+70671,Dialog,PIP_COMMON3,"We all should do that. Piper, you are filth. No one will ever believe your lies again.","우리 모두 그래야 해. 파이퍼, 넌 쓰레기야. 이제 아무도 네 거짓말을 믿지 않을 거야.",Q1G_PIP_COMMON3,,,,,0,0
+70674,Dialog,PIP_COMMON3,The god speaks to him! He is the new god's holy man!,신이 그에게 말씀하신다! 그는 새로운 신의 성자다!,Q1G_PIP_COMMON3,,,,,0,0
+71854,Dialog,PUZZLE_CLUE,Safe becomes death and death becomes safe when one has what he desires.,원하는 것을 가지면 안전이 죽음이 되고 죽음이 안전이 된다.,Q2_PUZZLE_CLUE,,,,,0,0
+72041,Dialog,PLAYERXDOOR,Something tells you that this door will open when you are allowed to leave.  Master Drogan's orders.,이 문은 떠나도 될 때 열릴 거라는 느낌이 듭니다. 드로건 스승님의 명령입니다.,Q2A2PLAYERXDOOR,,,,,0,0
+72045,Dialog,PALADINREWARD,"You have proved yourself worthy, paladin.  Take the trappings of your new station and go forth to fulfill your destiny.","자네는 자격을 증명했네, 성기사. 새로운 지위의 상징을 가지고 가서 운명을 이루게.",Q2PALADINREWARD,,,,,0,0
+79343,Dialog,PORTABLEDOOR,"The phrase ""Here there be shadows"" is inlaid with silver on the door's surface.","문 표면에 은으로 ""여기 그림자 있으리""라는 문구가 상감되어 있습니다.",PORTABLEDOOR,a_portdoor_open,,,,0,0
+79344,Dialog,PORTABLEDOOR,"With a wave of your hand, the door dissolves into a black mist and is gone.",손을 휘두르자 문이 검은 안개로 녹아들어 사라집니다.,PORTABLEDOOR,,,,,0,0
+81229,Dialog,PALADIN,"<StartHighlight>You hear a soft voice in your head.</Start> Come, my follower... the time for your reward is now, if you can prove yourself worthy in this challenge.","<StartHighlight>머릿속에서 부드러운 목소리가 들립니다.</Start> 오라, 나의 추종자여... 이 도전에서 자격을 증명한다면 보상을 받을 때가 왔노라.",Q2D_PALADIN,,,,,0,0
+81230,Dialog,PILLAR1,<StartAction>[The runes inscribed on this pillar are unfamiliar. Further study could possibly reveal their nature.]</Start>,<StartAction>[이 기둥에 새겨진 룬은 낯섭니다. 더 연구하면 그 본질을 밝힐 수 있을지도 모릅니다.]</Start>,Q2D_PILLAR1,,,,,0,0
+81231,Dialog,PILLAR1,"<StartCheck>[Success]</Start> <StartAction>The statement translates to something quite brief and clear: Kel-Garas, priest of Jergal and servant of the darkest path.</Start>","<StartCheck>[성공]</Start> <StartAction>이 문구는 짧고 명확하게 번역됩니다: 켈가라스, 제르갈의 사제이자 가장 어두운 길의 하인.</Start>",Q2D_PILLAR1,,,,,0,0
+81232,Dialog,PILLAR1,"<StartCheck>[Failure]</Start> <StartAction>You cannot make out the meaning of the runes, though the message is short. It may relate to a title of some sort, perhaps a priest.</Start>","<StartCheck>[실패]</Start> <StartAction>메시지는 짧지만 룬의 의미를 알아낼 수 없습니다. 어떤 칭호와 관련이 있을지도 모르고, 아마도 사제일 것입니다.</Start>",Q2D_PILLAR1,,,,,0,0
+81233,Dialog,PILLAR1,"<StartCheck>[Success]</Start> <StartAction>The statement translates to something quite brief and clear: Kel-Garas, priest of Jergal and servant of the darkest path.</Start>","<StartCheck>[성공]</Start> <StartAction>이 문구는 짧고 명확하게 번역됩니다: 켈가라스, 제르갈의 사제이자 가장 어두운 길의 하인.</Start>",Q2D_PILLAR1,,,,,0,0
+81237,Dialog,PILLAR2,"<StartAction>[There are ancient runes inscribed on this pillar. The language is unfamiliar, but further study could possibly reveal its nature.]</Start>",<StartAction>[이 기둥에 고대 룬이 새겨져 있습니다. 언어가 낯설지만 더 연구하면 그 본질을 밝힐 수 있을지도 모릅니다.]</Start>,Q2D_PILLAR2,,,,,0,0
+81238,Dialog,PILLAR2,"<StartCheck>[Success]</Start> <StartAction>The runes tell of a powerful priest of Jergal, relating his following statement as both a curse and prophecy: ""Netheril shall return! I shall bring it back and rule on high!""</Start>","<StartCheck>[성공]</Start> <StartAction>룬은 제르갈의 강력한 사제에 대해 말하며, 다음 진술을 저주이자 예언으로 전합니다: ""네더릴은 돌아올 것이다! 내가 되돌려 놓고 높은 곳에서 지배하리라!""</Start>",Q2D_PILLAR2,,,,,0,0
+81239,Dialog,PILLAR2,"<StartCheck>[Success]</Start> <StartAction> The runes seem to tell the tale of a priest and some form of curse, but you cannot make out the details.</Start>","<StartCheck>[성공]</Start> <StartAction> 룬은 사제와 어떤 저주에 대한 이야기를 하는 것 같지만, 세부 사항은 알아낼 수 없습니다.</Start>",Q2D_PILLAR2,,,,,0,0
+81240,Dialog,PILLAR2,"<StartCheck>[Success]</Start> <StartAction>The runes tell of a powerful priest of Jergal, relating his following statement as both a curse and prophecy: ""Netheril shall return! I shall bring it back and rule on high!""</Start>","<StartCheck>[성공]</Start> <StartAction>룬은 제르갈의 강력한 사제에 대해 말하며, 다음 진술을 저주이자 예언으로 전합니다: ""네더릴은 돌아올 것이다! 내가 되돌려 놓고 높은 곳에서 지배하리라!""</Start>",Q2D_PILLAR2,,,,,0,0
+92727,Dialog,PREGUARD,"""Thanks for your help. I sure hope someone can figure out how to stop these invasions. The city is going to run out of guards... well, someday.""","도움 주셔서 감사합니다. 누군가 이 침공을 막는 방법을 알아내길 바라요. 도시의 경비병들이 바닥날 거예요... 뭐, 언젠가는요.",Q2A1PREGUARD,,,,,0,0
+94150,Dialog,PEDASTAL,A winch and pulley system above this pedestal looks as if a chain of some sort could be attached to it.,이 받침대 위의 윈치와 도르래 시스템은 어떤 사슬을 부착할 수 있을 것처럼 보입니다.,Q2C2PEDASTAL,,,,,0,0
+94151,Dialog,PEDASTAL,This particular chain does not appear to fit here.,이 특정 사슬은 여기에 맞지 않는 것 같습니다.,Q2C2PEDASTAL,,,,,0,0
+94152,Dialog,PEDASTAL,The chain winches easily into place.,사슬이 쉽게 제자리로 감깁니다.,Q2C2PEDASTAL,q2c2_createchain,,,,0,0
+94158,Dialog,POOL,"Colors within the pool swirl, but nothing happens.","웅덩이 안의 색깔들이 소용돌이치지만, 아무 일도 일어나지 않습니다.",Q2C2POOL,,,,,0,0
+94811,Dialog,POWDERKEG,"Before you is a small wooden keg. It appears to have a small wick, similar to a candle, coming out of the top of the barrel. What do you wish to do?",앞에 작은 나무 통이 있습니다. 통 꼭대기에서 양초 같은 작은 심지가 나와 있습니다. 무엇을 하시겠습니까?,X2_POWDERKEG,,,,,0,0
+107408,Dialog,POWDERKEG,"Before you is a small wooden keg. It appears to have a small wick, similar to a candle, coming out of the top of the barrel.",앞에 작은 나무 통이 있습니다. 통 꼭대기에서 양초 같은 작은 심지가 나와 있습니다.,X2_POWDERKEG,,,,,0,0
+94833,Creature,Pappilon,Pappilon,파피용,CUT1_PAPPILON,,,,,0,0
+94834,Creature,Parley,Parley,팔리,CUT1_PARLEY,,,,,0,0
+97178,Dialog,PILG_BERRIES,"This woman is stooped over a small bush, picking berries from it and placing them in a small pouch beside her on the ice.",이 여자는 작은 덤불 위로 몸을 구부리고 열매를 따서 얼음 위 옆에 있는 작은 주머니에 넣고 있습니다.,H2_PILG_BERRIES,,,,,0,0
+97179,Dialog,PILG_BERRIES,"""If I knew the Reaper's True Name, would I be picking nettles in Baator's depths in the dim hope that I won't freeze to death?""","""수확자의 참된 이름을 안다면, 얼어 죽지 않기를 희미한 바람으로 베이아터의 깊은 곳에서 쐐기풀을 따고 있겠어?""",H2_PILG_BERRIES,,,,,0,0
+97180,Dialog,PILG_BERRIES,"""From the Material Plane, are you? Hmph. Well you can forget it, there's no going home. The Gates are closed for you and me both. We stay here until we freeze or die of boredom.""","""물질계 출신이야? 흥. 잊어버려, 집에 갈 수 없어. 관문은 너와 나 둘 다에게 닫혔어. 우린 얼어 죽거나 지루해서 죽을 때까지 여기 있는 거야.""",H2_PILG_BERRIES,,,,,0,0
+97181,Dialog,PILG_BERRIES,"""Pfft. Do you have a better idea? Give it up, berk, you're trapped and clueless to boot.""","""쳇. 더 나은 생각 있어? 포기해, 멍청이, 넌 갇혀 있고 단서도 없어.""",H2_PILG_BERRIES,,,,,0,0
+97182,Dialog,PILG_BERRIES,"""Who, Swift? He had plans to wake the Sleeping Man 'til the sensei put a stop to him. I don't know the details but he's not making himself any friends. The Hells are bad enough without a comedian.""","""누구, 스위프트? 사부가 막기 전까지 잠자는 자를 깨울 계획을 세웠어. 자세한 건 모르지만 친구를 만들고 있진 않아. 지옥은 코미디언 없이도 충분히 나빠.""",H2_PILG_BERRIES,h2a_pilg_journ01,,,,0,0
+97183,Dialog,PILG_BERRIES,"""Ask him, I want no part of it. Oh, and I don't recommend trusting him any farther than you can throw him, especially where money's concerned. My gold's paid for more of his tavern bill than I care to admit.""","""그에게 물어봐, 난 관여하고 싶지 않아. 아, 그리고 그를 너무 믿지는 말라고 권해, 특히 돈이 관련되면. 내 금화가 내가 인정하고 싶은 것보다 더 많이 그의 술집 계산서를 냈어.""",H2_PILG_BERRIES,,,,,0,0
+97184,Dialog,PILG_BERRIES,"""This here's a Velox Nettle. They've got deep roots going down to the lava pools beneath the ice and their berries store the heat. It's the only way to start a decent fire around here.""","""이건 벨록스 쐐기풀이야. 얼음 아래 용암 웅덩이까지 내려가는 깊은 뿌리를 가졌고 열매가 열을 저장해. 이 근처에서 제대로 된 불을 피울 수 있는 유일한 방법이야.""",H2_PILG_BERRIES,,,,,0,0
+97185,Dialog,PILG_BERRIES,"""Sure, but make it quick, it's freezing out here.""","""물론이지만, 빨리 해, 여기 엄청 추워.""",H2_PILG_BERRIES,,,,,0,0
+97186,Dialog,PILG_BERRIES,"""The tavern keeper's been letting some of us pay our tabs with them so he'll have a few. The Quarry Master might have some as well. Other than that, you'll just have to find them where they grow.""","""주점 주인이 우리 중 몇몇이 그걸로 외상값을 갚게 허락해서 좀 가지고 있을 거야. 채석장 감독도 좀 있을지도 몰라. 그 외엔 자라는 곳에서 찾아야 해.""",H2_PILG_BERRIES,,,,,0,0
+97187,Dialog,PILG_BERRIES,"""As I said, though, they like what heat they can find. If you spy a steam fissure like this in the ice, there'll probably be a Velox Nettle basking in that little bit of warmth.""","""말했듯이, 그것들은 찾을 수 있는 열을 좋아해. 얼음에서 이런 증기 균열을 발견하면, 아마 그 약간의 온기를 쬐는 벨록스 쐐기풀이 있을 거야.""",H2_PILG_BERRIES,,,,,0,0
+97188,Dialog,PILG_BERRIES,"""If you spy some wood, you just break the berries open over it and the heat will set it alight. A single berry won't get you a whole lot of warmth, though. I recommend a good three-berry fire if you can afford it.""","""나무를 발견하면, 그 위에 열매를 터뜨리기만 하면 열이 불을 붙일 거야. 하지만 열매 하나로는 많은 온기를 못 얻어. 여유가 된다면 열매 세 개로 피우는 좋은 불을 권해.""",H2_PILG_BERRIES,,,,,0,0
+97189,Dialog,PILG_BERRIES,"""What are you, daft? It's freezing cold out here and there isn't enough room in the tavern for everybody. You've got to sleep somewhere, right? And for that you're going to need a good fire.""","""바보야? 여기 얼어 죽을 정도로 춥고 주점엔 모두가 들어갈 공간이 없어. 어딘가에서 자야 하잖아, 그렇지? 그러려면 좋은 불이 필요해.""",H2_PILG_BERRIES,,,,,0,0
+97190,Dialog,PILG_BERRIES,"""Bah! Mage-fire's so unpredictable. Here one second and gone the next. It's fine for burning things but if you need to cook or make camp out here, you're going to need Velox Berries.""","""흥! 마법 불은 너무 예측 불가능해. 한순간 있다가 다음 순간 사라져. 뭔가 태우기엔 괜찮지만 요리하거나 여기서 야영하려면 벨록스 열매가 필요해.""",H2_PILG_BERRIES,,,,,0,0
+97191,Dialog,PILG_BERRIES,"""Have you tried it?""","""시도해 봤어?""",H2_PILG_BERRIES,,,,,0,0
+97192,Dialog,PILG_BERRIES,"""The Mysteries? Don't bother, I'm sure the sensei made all of them up. I'm willing to bet there isn't even a Sleeping Man at all.""","""신비들? 신경 쓰지 마, 사부가 다 지어낸 거라 확신해. 잠자는 자조차 아예 없다고 장담할 수 있어.""",H2_PILG_BERRIES,,,,,0,0
+97193,Dialog,PILG_BERRIES,"""We sold everything we owned to come on this Pilgrimage. We've traveled all the way from Limbo, only to end up trapped in the Eighth Hell of Baator for all eternity. And, now that we're here, she won't even let us see him.""","""우리는 이 순례를 오기 위해 가진 모든 걸 팔았어. 림보에서 여기까지 왔는데, 결국 영원히 베이아터의 여덟 번째 지옥에 갇혀 버렸어. 그리고 이제 여기 왔는데, 그녀는 우리가 그를 보는 것조차 허락하지 않아.""",H2_PILG_BERRIES,,,,,0,0
+97194,Dialog,PILG_BERRIES,"""Not until we learn the Five-Fold Mysteries, she says. Well, I've figured out the third one and it reads like a three-penny fantasy novel. Just the sort of romantic notion that the sensei would dream up...""","""다섯 신비를 배울 때까지는 안 된대. 음, 세 번째 걸 알아냈는데 저렴한짜리 삼류 소설처럼 읽혀. 딱 사부가 꿈꿀 만한 낭만적인 생각이지...""",H2_PILG_BERRIES,,,,,0,0
+97195,Dialog,PILG_BERRIES,"""Why did he leave? Because his heart had known no love. Utter rubbish. She's created this Sleeping Man out of whole cloth and, what's worse, she's become hopelessly smitten with this character she's created.""","""왜 떠났냐고? 그의 마음이 사랑을 몰랐기 때문이래. 완전히 헛소리야. 그녀가 이 잠자는 자를 통째로 지어냈고, 더 나쁜 건, 자기가 만든 캐릭터에게 절망적으로 빠져 버렸어.""",H2_PILG_BERRIES,h2a_pilg_learn3,,,,0,0
+109051,Dialog,PILG_BERRIES,"""The Gates are open. I want to take some Velox Berries back home to Limbo with me to see if they'll grow in the monastery garden...""","""관문이 열렸어. 벨록스 열매를 림보의 집으로 가져가서 수도원 정원에서 자랄지 보고 싶어...""",H2_PILG_BERRIES,,,,,0,0
+98118,Dialog,PRAYERCARD,"A brief prayer is written on this card in the Sleeping Man's graceful scrawl:
+   As a child, I learned to Hope.
+   When I became a man, my Hope matured into Faith.
+   With my old age approaching, I pray my Faith bears Love upon its branches.","이 카드에 잠자는 자의 우아한 갈겨쓴 글씨로 짧은 기도문이 적혀 있습니다: 어린 시절, 나는 희망을 배웠습니다. 어른이 되었을 때, 나의 희망은 믿음으로 성숙했습니다. 노년이 다가오며, 나의 믿음이 그 가지에 사랑을 맺기를 기도합니다.",H3_PRAYERCARD,,,,,0,0
+100105,Creature,Pit Fiend Quarry Worker,Pit Fiend Quarry Worker,나락의 마귀 채석장 일꾼,H2_PITFIEND,,,,,0,0
+100135,Creature,Pit Fiend Prisoner,Pit Fiend Prisoner,나락의 마귀 죄수,HX_KNOWER_DEVIL2,,,,,0,0
+104858,Dialog,POSSESSOR1,"You feel an urgent prodding in your mind as this illithid attempts to touch your thoughts. Unable to breach the protections of your helm, the illithid grudgingly retreats.","이 일리시드가 당신의 생각을 만지려 시도하면서 마음속에 긴급한 자극을 느낍니다. 투구의 보호를 뚫을 수 없자, 일리시드는 마지못해 물러납니다.",Q2D2POSSESSOR1,,,,,0,0
+104859,Dialog,POSSESSOR1,"When it addresses you, the illithid's words are filled with contempt. ""I will not sell my wares to one of <race> kind. Your race are fit to be thralls, and nothing more.""","일리시드가 당신에게 말을 걸 때, 그 말에는 경멸이 가득합니다. 나는 <race> 종족에게 내 물건을 팔지 않는다. 너희 종족은 노예가 되기에나 적합하지, 그 이상은 아니다.",Q2D2POSSESSOR1,,,,,0,0
+104860,Dialog,POSSESSOR1,"The mind flayer's tentacles twitch in mild excitement as you approach, and you feel it probing your unguarded mind. It speaks to you in a voice you hear only in your thoughts: ","마인드 플레이어의 촉수가 당신이 다가가자 약간 흥분하여 꿈틀거리고, 무방비 상태인 당신의 마음을 탐사하는 것을 느낍니다. 당신의 생각 속에서만 들리는 목소리로 말합니다:",Q2D2POSSESSOR1,,,,,0,0
+104861,Dialog,POSSESSOR1,"""You are extremely stupid or extremely brave, to leave your mind vulnerable before me! Either way, you shall remember none of your previous existence when you have become my thrall!""","""내 앞에서 마음을 무방비로 두다니 극도로 멍청하거나 극도로 용감하군! 어느 쪽이든, 내 노예가 되면 이전 존재에 대해 아무것도 기억하지 못할 것이다!""",Q2D2POSSESSOR1,,,,,0,0
+104862,Dialog,POSSESSOR1,"Because of your bargain with the Overmind, this illithid knows better than to try and probe your thoughts.","초월체와의 거래 때문에, 이 일리시드는 당신의 생각을 탐사하려 시도하지 않는 것이 나음을 압니다.",Q2D2POSSESSOR1,,,,,0,0
+105309,Dialog,PIT,The pit descends into darkness. You cannot tell how deep it is.,구덩이가 어둠 속으로 내려갑니다. 얼마나 깊은지 알 수 없습니다.,Q3B_PIT,,,,,0,0
+105310,Dialog,PIT,"The stone tumbles through empty space, disappearing into the darkness below. After a few seconds, you hear it clatter against some hard surface below.","돌이 빈 공간을 굴러 떨어지며 아래 어둠 속으로 사라집니다. 몇 초 후, 아래 단단한 표면에 부딪히는 소리가 들립니다.",Q3B_PIT,,,,,0,0
+105334,Creature,Planetar,"""Halt mortal! You stand accused of interfering in divine work and causing willful harm to our agent, Lavoera. I have been sent to exact your punishment...""","""멈춰라 필멸자여! 신성한 일을 방해하고 우리의 대리인 라보에라에게 고의적인 해를 끼친 죄로 고발되었다. 나는 너를 처벌하기 위해 보내졌다...""",Q3C_PLANETAR,,,,,0,0
+107895,Creature,Planetar,Planetar,플레네타,Q3C_PLANETAR,,,,,0,0
+105335,Dialog,PIT_CULTELDER,"The priest before you is tall and pale. Blood trickles from the corners of his mouth. ""Welcome, child,"" he rasps. ""You have been chosen to serve the will of Vix'thra, yes?""","앞에 있는 사제는 키가 크고 창백합니다. 그의 입가에서 피가 흘러내립니다. ""환영한다, 아이야."" 그가 쉰 목소리로 말합니다. ""너는 빅스트라의 뜻을 섬기도록 선택되었지, 그렇지?""",Q3PIT_CULTELDER,,,,,0,0
+105336,Dialog,PIT_CULTELDER,"""If only it was so easy. Vix'thra demands your bones, however, and we demand your blood. Fare thee well, my child..."" The priest opens his mouth to reveal two sharp fangs... He lunges for your throat.","""그렇게 쉽다면 좋겠구나. 하지만 빅스트라는 네 뼈를 요구하고, 우리는 네 피를 요구한다. 잘 가거라, 나의 아이여... 사제가 입을 벌려 날카로운 두 송곳니를 드러냅니다... 그가 당신의 목을 향해 돌진합니다.""",Q3PIT_CULTELDER,,,,,0,0
+105337,Dialog,PIT_CULTELDER,"""My name was Zeremund once but now we have no names. We are simply the Elders, the Ones Who Dwell with Vix'thra, the Gatherers of Bones. We serve our master's will, we see to his desires, and he fulfills our own.""","""내 이름은 한때 제레문드였지만 이제 우리는 이름이 없다. 우리는 단지 장로들, 빅스트라와 함께 거하는 자들, 뼈를 모으는 자들일 뿐이다. 우리는 주인의 뜻을 섬기고, 그의 욕망을 돌보며, 그는 우리의 것을 이루어 준다.""",Q3PIT_CULTELDER,,,,,0,0
+105338,Dialog,PIT_CULTELDER,"""Do you really believe that? Have you never been manipulated? Have you never pursued a lie? Have you never sold your soul? Your flesh? Your blood? Yet the blessed Vix'thra desires none of these...""","""정말로 그렇게 믿는가? 조종당한 적이 한 번도 없는가? 거짓을 좇은 적이 한 번도 없는가? 영혼을 판 적이 한 번도 없는가? 육신을? 피를? 그러나 축복받은 빅스트라는 이 모든 것을 원하지 않는다...""",Q3PIT_CULTELDER,,,,,0,0
+105339,Dialog,PIT_CULTELDER,"""A volunteer? How fascinating. We don't get many of those... You're either very confident or very faithful, aren't you? I have a soft spot for rarities like you... Rare things are precious, don't you think?""","""자원자? 흥미롭군. 그런 이는 많지 않지... 너는 매우 자신 있거나 매우 신실하겠구나, 그렇지 않은가? 나는 너 같은 희귀한 존재에게 약점이 있다네... 희귀한 것은 귀중하지, 그렇게 생각하지 않는가?""",Q3PIT_CULTELDER,,,,,0,0
+105340,Dialog,PIT_CULTELDER,"""Yes, so precious. Your flesh so warm, your skin so smooth, the eyes in your skull so brightly shining... your blood, even now, coursing through your veins... But the blessed Vix'thra desires none of these.""","""그래, 너무나 귀중하지. 너의 살은 매우 따뜻하고, 피부는 매우 부드럽고, 두개골 속 눈은 매우 밝게 빛나며... 너의 피는, 지금도, 혈관을 통해 흐르고 있지... 하지만 축복받은 빅스트라는 이 모든 것을 원하지 않는다.""",Q3PIT_CULTELDER,,,,,0,0
+105341,Dialog,PIT_CULTELDER,"""'Creep' is what you call me, is it? Perhaps there is some truth to that. But it is Vix'thra who rules this domain and it is your bones he covets. He has a great... interest... in bones...""","""'소름 끼치는 놈'이라고 부르는가? 아마 그것에도 진실이 있겠지. 하지만 이 영역을 지배하는 것은 빅스트라이고, 그가 탐내는 것은 네 뼈다. 그는 뼈에 큰... 관심이... 있지...""",Q3PIT_CULTELDER,,,,,0,0
+105342,Dialog,PIT_CULTELDER,"""Things of the flesh are not his domain... No, what he covets, above all, are things of bone. It is your femur he wants, your spine, your jaw, the hundred bones within your hands...""","""육신의 것들은 그의 영역이 아니다... 아니, 그가 무엇보다 탐내는 것은 뼈의 것들이지. 그가 원하는 것은 너의 대퇴골, 척추, 턱, 손 안의 백 개의 뼈들...""",Q3PIT_CULTELDER,,,,,0,0
+105343,Dialog,PIT_CULTELDER,"""How very noble of you... Would you be so eager if I told you that it is your bones the great Vix'thra truly desires? He has a great... interest... in bones...""","""참으로 고귀하구나... 위대한 빅스트라가 진정으로 원하는 것이 네 뼈라고 말한다면 그렇게 열심일 수 있겠는가? 그는 뼈에 큰... 관심이... 있지...""",Q3PIT_CULTELDER,,,,,0,0
+105344,Dialog,PIT_CULTELDER,"""You see, that is where we run into a little... complication... Within the priesthood, we elders have had to take certain measures that we might serve Vix'thra throughout the ages...""","""보다시피, 거기서 우리는 약간의... 복잡한 상황에... 처하게 되지... 사제단 내에서, 우리 장로들은 시대를 거쳐 빅스트라를 섬기기 위해 특정한 조치를 취해야 했지...""",Q3PIT_CULTELDER,,,,,0,0
+105348,Dialog,PIT_CULTELDER,"""And what of my wishes? You see, within the priesthood, we elders have had to take certain... measures... that we might serve Vix'thra throughout the ages...""","""내 소원은 어떻게 되는가? 보다시피, 사제단 내에서, 우리 장로들은 시대를 거쳐 빅스트라를 섬기기 위해 특정한... 조치를... 취해야 했지...""",Q3PIT_CULTELDER,,,,,0,0
+105349,Dialog,PIT_CULTELDER,"""Long ago a pact was made, a decision... Vix'thra claims the bones but the blood is ours."" The priest opens his mouth to reveal two sharp fangs... He lunges for your throat.","""오래전에 계약이 맺어졌고, 결정이... 빅스트라는 뼈를 요구하지만 피는 우리의 것이다. 사제가 입을 벌려 날카로운 두 송곳니를 드러냅니다... 그가 당신의 목을 향해 돌진합니다.""",Q3PIT_CULTELDER,,,,,0,0
+105353,Dialog,PIT_CULTELDER,"The priest smiles, a fresh trail of blood trickling from between his tight-pressed lips. ""Let us just say he feels a certain... kinship... to them. He's a crafter, you see. He likes to fashion things from them...""","사제가 미소 짓고, 꽉 다문 입술 사이에서 신선한 피가 흘러내립니다. ""그가 그것들에 대해 특정한... 유대감을... 느낀다고 해두지. 그는 장인이거든. 그것들로 무언가를 만드는 것을 좋아하지...""",Q3PIT_CULTELDER,,,,,0,0
+105354,Dialog,PIT_CULTELDER,ELDER CULTIST (VAMPIRE) AWAITING THE PLAYER IN THE PIT OF SACRIFICE.,"""희생의 구덩이에서 플레이어를 기다리는 장로 광신도 (흡혈귀).""",Q3PIT_CULTELDER,,,,,0,0
+106216,Dialog,POWERDOOR,"""This is the holy sanctum of Aghaaz, high priest of the Maker. These are his private quarters... none but Aghaaz himself may enter.""","""이곳은 제작자의 대사제 아가즈의 성스러운 성소입니다. 그의 개인 방입니다... 아가즈 본인 외에는 아무도 들어갈 수 없습니다.""",Q4C_POWERDOOR,,,,,0,0
+106217,Dialog,POWERDOOR,"""I will not abandon my post. The holy chambers of the high priest are for his eyes only. You cannot enter.""","""나는 내 자리를 버리지 않을 것입니다. 대사제의 성스러운 방은 그의 눈만을 위한 것입니다. 들어갈 수 없습니다.""",Q4C_POWERDOOR,,,,,0,0
+106218,Dialog,POWERDOOR,"<StartAction>Failure</Start> ""Aghaaz would never allow such a thing. These are his private chambers, they are holy. Only the high priest of the Maker is allowed inside.""","<StartAction>실패</Start> 아가즈는 결코 그런 것을 허락하지 않을 것입니다. 이곳은 그의 개인 방이며, 성스럽습니다. 제작자의 대사제만 안으로 들어갈 수 있습니다.",Q4C_POWERDOOR,,,,,0,0
+106223,Dialog,PSOURCE,"The Power Source glows with radiant energy and pulses with a slow, steady beat as if it had a life of its own. It is quite likely that this artifact is closely tied to the golems of this level.",동력원이 빛나는 에너지로 빛나며 마치 자체 생명을 가진 것처럼 느리고 꾸준한 박동으로 맥동합니다. 이 유물이 이 층의 골렘들과 밀접하게 연결되어 있을 가능성이 큽니다.,Q4C_PSOURCE,,,,,0,0
+107822,Creature,Paragon Mind Flayer,Paragon Mind Flayer,초월종 마인드 플레이어,Q2A_BAT2_MFX,,,,,0,0
+107828,Creature,Pit Fiend Captain,Pit Fiend Captain,나락의 마귀 대장,Q2ABAT1_OUT2,,,,,0,0
+107907,Creature,Petyr Trenkhold,Petyr,페티르,Q6_PETYR,,,,,0,0
+107908,Creature,Petyr Trenkhold,Trenkhold,트렌크홀드,Q6_PETYR,,,,,0,0
+109039,Dialog,PILG_1LINER,"""What are you looking at, berk?""","""뭘 보는 거야, 멍청아?""",H2_PILG_1LINER,hx_slct_con,,,,0,0
+109040,Dialog,PILG_1LINER,"""If you see Arden Swift, punch him in the bloody lip for me...""","""아든 스위프트를 보거든, 나 대신 그 망할 입술을 한 대 쳐 줘...""",H2_PILG_1LINER,hx_slct_con,,,,0,0
+109041,Dialog,PILG_1LINER,"The githzerai glares at you, bored and sullen.",기스제라이가 지루하고 침울한 표정으로 당신을 노려봅니다.,H2_PILG_1LINER,,,,,0,0
+109042,Dialog,PILG_1LINER,"""Leave me be, I'm a long way from home...""","""날 내버려 둬, 집에서 멀리 떨어져 있어...""",H2_PILG_1LINER,hx_slct_con,,,,0,0
+109043,Dialog,PILG_1LINER,"""Bloody sensei and her Sleeping Man...""","""망할 사부와 그녀의 잠자는 자라니...""",H2_PILG_1LINER,hx_slct_con,,,,0,0
+109044,Dialog,PILG_1LINER,"""I hear we be done with this wretched place. The Gates are open and what few of us are left intend to make the trek back home to Limbo...""","""이 비참한 곳과는 끝이라고 들었어. 관문이 열렸고 남은 우리 소수는 림보의 집으로 돌아갈 작정이야...""",H2_PILG_1LINER,hx_slct_con,,,,0,0
+109045,Dialog,PILG_1LINER,"1-LINER GITHZERAI PILGRIM, BOTH GENDERS. MULTIPLES PLACED BUT THEY'RE FOUND PRIMARILY AROUND THE TAVERN AND TEMPLE (BUT NOT INSIDE THE TEMPLE).","1줄 대사 기스제라이 순례자, 남녀 모두. 여러 명 배치되지만 주로 주점과 사원 주변에서 발견됨 (사원 내부는 제외).",H2_PILG_1LINER,,,,,0,0
+109823,Creature,Puzzler,Puzzler,수수께끼꾼,HX_ASSIMAR|HX_ASSIMAR_CLERI|HX_ASSIMAR_C_CUT|HX_ASSIMAR_DEAD|HX_ASSIMAR_FIGHT|HX_ASSIMAR_F_CUT|HX_ASSIMAR_ROG|HX_ASSIMAR_R_CUT,,,,,0,0

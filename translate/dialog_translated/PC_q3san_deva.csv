@@ -1,0 +1,43 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+105429,PC,Player Character,"""Goodbye.""","""안녕히.""",q3san_deva,,,,,0,0
+105430,PC,Player Character,"""I'll be back.""","""다시 올게.""",q3san_deva,,,,,0,0
+105431,PC,Player Character,"""Why should I free you?""","""왜 널 풀어줘야 하지?""",q3san_deva,,,,,0,0
+105432,PC,Player Character,"""What have the elders done to you?""","""장로들이 너한테 뭘 한 거야?""",q3san_deva,,,,,0,0
+105433,PC,Player Character,"""How long have they been doing this to you?""","""얼마나 오래 이런 짓을 당한 거야?""",q3san_deva,,,,,0,0
+105434,PC,Player Character,"""How are they creating these golems?""","""그들은 어떻게 이 골렘들을 만드는 거지?""",q3san_deva,,,,,0,0
+105435,PC,Player Character,"""Why are they creating these golems?""","""왜 이 골렘들을 만드는 거야?""",q3san_deva,,,,,0,0
+105436,PC,Player Character,"""What binds you here?""","""뭐가 널 여기 묶어두고 있어?""",q3san_deva,,,,,0,0
+105437,PC,Player Character,"""Who are you?""","""넌 누구야?""",q3san_deva,,,,,0,0
+105438,PC,Player Character,"""How did you end up here?""","""어쩌다 여기 오게 된 거야?""",q3san_deva,,q3c_do_once,,,0,0
+105439,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아갈게.""",q3san_deva,,,,,0,0
+105440,PC,Player Character,"""Yes, you're a terrible little beast.""","""그래, 넌 끔찍한 작은 짐승이야.""",q3san_deva,,,,,0,0
+105441,PC,Player Character,"""What was your mission?""","""네 임무가 뭐였어?""",q3san_deva,,,,,0,0
+105442,PC,Player Character,"""Goodbye.""","""안녕히.""",q3san_deva,,,,,0,0
+105443,PC,Player Character,"""Yes, well... Shoo! Get out of here...""","""그래, 뭐... 저리 가! 꺼져...""",q3san_deva,,,,,0,0
+105444,PC,Player Character,"""What do you intend to do now?""","""이제 뭘 할 생각이야?""",q3san_deva,,,,,0,0
+105445,PC,Player Character,"""How did you fail everyone?""","""어떻게 모두를 실망시킨 거야?""",q3san_deva,,,,,0,0
+105446,PC,Player Character,"""What was your mission?""","""네 임무가 뭐였어?""",q3san_deva,,,,,0,0
+105447,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아갈게.""",q3san_deva,,,,,0,0
+105448,PC,Player Character,"""What was that message you had to deliver?""","""전해야 했던 메시지가 뭐였어?""",q3san_deva,,,,,0,0
+105449,PC,Player Character,"""You have no idea what to do, do you?""","""뭘 해야 할지 모르겠지?""",q3san_deva,,,,,0,0
+105450,PC,Player Character,"""I could use your help.""","""네 도움이 필요해.""",q3san_deva,,,,,0,0
+105451,PC,Player Character,"""You're right. Get out of here. Shoo!""","""네 말이 맞아. 저리 가. 꺼져!""",q3san_deva,,,,,0,0
+105452,PC,Player Character,"<StartCheck>[Persuade]</Start> ""This is your chance to make things right.""","<StartCheck>[설득]</Start> ""이건 잘못을 바로잡을 기회야.""",q3san_deva,,,,,0,0
+105453,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Come now, it's not so bad.""","<StartCheck>[설득]</Start> ""자, 그렇게 나쁘지 않아.""",q3san_deva,,,,,0,0
+105454,PC,Player Character,"""I've changed my mind. Get out of here. Shoo!""","""마음이 바뀌었어. 저리 가. 꺼져!""",q3san_deva,,,,,0,0
+105455,PC,Player Character,"""Nevermind. Do what you wish.""","""신경 쓰지 마. 하고 싶은 대로 해.""",q3san_deva,,,,,0,0
+105456,PC,Player Character,"""There's a rebellion against the drow and the rebel camp needs your protection.""","""드로우에 맞서는 반란이 있어. 반란군 캠프가 네 보호를 필요로 해.""",q3san_deva,,,,,0,0
+105457,PC,Player Character,"""I need your help defeating Vix'thra.""","""빅스트라를 물리치는 데 네 도움이 필요해.""",q3san_deva,,q3c_vixlive,,,0,0
+105458,PC,Player Character,"""Yes, help me battle Vix'thra.""","""그래, 빅스트라와 싸우는 걸 도와줘.""",q3san_deva,,,,,0,0
+105459,PC,Player Character,"""Okay, I freed you. How about a reward?""","""좋아, 널 풀어줬어. 보상은 어때?""",q3san_deva,,,,,0,0
+105460,PC,Player Character,"""How are you feeling?""","""기분이 어때?""",q3san_deva,,,,,0,0
+105461,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Come now, it's not so bad.""","<StartCheck>[설득]</Start> ""자, 그렇게 나쁘지 않아.""",q3san_deva,,q3c_deva_peronce,,,0,0
+105462,PC,Player Character,"""Goodbye.""","""안녕히.""",q3san_deva,,,,,0,0
+105463,PC,Player Character,"""I have a geas placed on me and I need your help.""","""나한테 기아스가 걸려 있어. 네 도움이 필요해.""",q3san_deva,,,,,0,0
+105464,PC,Player Character,"""Don't kick a gift horse in the mouth...""","""선물 받고 트집 잡지 마...""",q3san_deva,,,,,0,0
+105465,PC,Player Character,"""Well I'm not *really* evil...""","""뭐, 나는 *진짜로* 악한 건 아니야...""",q3san_deva,,,,,0,0
+105466,PC,Player Character,"""I've got my reasons.""","""내 나름의 이유가 있어.""",q3san_deva,,,,,0,0
+105467,PC,Player Character,"""I could have done that?""","""내가 그렇게 할 수 있었어?""",q3san_deva,,,,,0,0
+105468,PC,Player Character,"""You've still got a mission to accomplish, remember?""","""아직 완수해야 할 임무가 있잖아, 기억나?""",q3san_deva,,,,,0,0
+105469,PC,Player Character,"""I need to ask one last favor of you.""","""마지막으로 부탁 하나 해야겠어.""",q3san_deva,,,,,0,0
+105470,PC,Player Character,"""You're bleeding.""","""피 흘리고 있어.""",q3san_deva,,,,,0,0

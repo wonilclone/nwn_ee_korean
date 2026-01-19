@@ -1,0 +1,124 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12659,Creature,Noblewoman,Noblewoman,귀부인,AC_ALICINE|AC_CHASTITY|AC_MURIEL|AC_PEMBERTON2|M2Q05CGREENNOB03|M2Q05CNOBLEWOMAN|M2Q6CNOBW|RESISTANCEARMYNOBLEFEMALE|RESISTANCEARMYNOBLEOTHER,,,,,0,0
+24657,Creature,Noblewoman,Noblewoman,귀부인,M1Q1NEWNOBLEFEM,,,,,0,0
+12660,Creature,Nobleman,Nobleman,귀족,AC_PEMBERTON|M2Q05CGREENNOB01|M2Q05CGREENNOB02|M2Q05CNOBLEMAN|M2Q6CNOBM|RESISTANCEARMYNOBLEMALE|RESISTANCEARMYNOBLEOTHER,,,,,0,0
+24658,Creature,Nobleman,Nobleman,귀족,M1Q1NEWNOBLEMALE,,,,,0,0
+12662,Creature,Nymph,Nymph,님프,M2Q2CNYMPH|M2Q2FNYMPH,,,,,0,0
+19569,Dialog,NORTHLEVER,The clang of metal bars echoes through the north wing of the prison.,금속 창살이 부딪히는 소리가 감옥의 북쪽 구역에 울려 퍼집니다.,M1Q2_NORTHLEVER,,,,,0,0
+21618,Dialog,NOBLE2,"Hemmel is such a boy. He'd have us stand here for ages thinking his precious heirloom will return. Hmph!",헴멜은 정말 애송이야. 그 소중한 가보가 돌아올 거라고 생각하며 우릴 한없이 여기 서 있게 하다니. 흥!,M1Q4A01NOBLE2,,,,,0,0
+21619,Dialog,NOBLE2,"Hemmel, the locals are pestering me. Could we please leave!","헴멜, 이 지역민들이 날 괴롭히고 있어. 우리 제발 떠날 수 없어!",M1Q4A01NOBLE2,,,,,0,0
+21620,Dialog,NOBLE3,The Master is very attached to his... things.,주인님은 그분의... 물건들에 매우 애착이 있으시지.,M1Q4A01NOBLE3,,,,,0,0
+24248,Dialog,NEWCOMMON,Got a silver?,은화 하나 있어?,TALK_M1Q1NEWCOMMON,,,,,0,0
+24251,Dialog,NEWGUARD,You should be indoors.,실내로 들어가 있어야지.,TALK_M1Q1NEWGUARD,,,,,0,0
+24567,Creature,Noble,Noble,귀족,M1GENELFNOBLE|M1GEN_ELFNOBLE,,,,,0,0
+24624,Creature,Neibor,Neibor,네이보,M1Q04CMUGGER01,,,,,0,0
+24643,Creature,Nyatar,Nyatar,니아타르,M1Q1A5NYATAR|M4Q01A05NYAT,,,,,0,0
+48035,Creature,Nyatar,May the blessings of Earthmother Chauntea and the Treefather Silvanus be upon you in these dark times.,이 어두운 시기에 대지의 어머니 촌티아와 나무의 아버지 실바누스의 축복이 함께하시길.,M4Q01A05NYAT,,,,vs_fnyatarm_056,0,0
+48036,Creature,Nyatar,"Welcome, child. Even those shunned by the world are welcome here. We are all children of nature, after all.","환영합니다, 아이여. 세상에게 외면받은 이들조차 이곳에서는 환영받습니다. 우리 모두 결국엔 자연의 자녀들이니까요.",M4Q01A05NYAT,,,,vs_fnyatarm_057,0,0
+48037,Creature,Nyatar,As you wish. As long as this grove stands I will try to maintain the balance by offering my services to any who ask.,원하시는 대로요. 이 숲이 서 있는 한 저는 요청하는 누구에게나 제 도움을 제공함으로써 균형을 유지하려 노력하겠습니다.,M4Q01A05NYAT,nw_d1_shopnatur4,,,,0,0
+48038,Creature,Nyatar,"There is little I can tell you, I fear. I have not left my grove for many days or nights and I know nothing of the details of this war ravaging the city.","말씀드릴 게 별로 없을 것 같습니다. 여러 날밤 동안 이 숲을 떠나지 않았고, 도시를 황폐화시키는 이 전쟁의 세부 사항은 전혀 모릅니다.",M4Q01A05NYAT,,,,,0,0
+48039,Creature,Nyatar,May the Earthmother and Treefather give you the strength to maintain balance in these troubled times.,대지의 어머니와 나무의 아버지께서 이 혼란스러운 시기에 균형을 유지할 힘을 주시길.,M4Q01A05NYAT,,,,,0,0
+48040,Creature,Nyatar,"I have worked long to preserve nature's balance in this city, but in the chaos and destruction of war all my efforts are focused on preserving this grove as a place of tranquility and refuge for those who need it.","이 도시에서 자연의 균형을 지키기 위해 오랫동안 일해 왔지만, 전쟁의 혼돈과 파괴 속에서 제 모든 노력은 필요한 이들을 위해 이 숲을 평온과 피난처의 장소로 보존하는 데 집중되어 있습니다.",M4Q01A05NYAT,,,,,0,0
+24712,Creature,Noble Guard,Noble Guard,귀족 경비,M1S1GENNOBLEGUARD,,,,,0,0
+35116,Creature,Nymph Ranger Slave,The mistress must be protected. Slay the intruder!,여주인을 보호해야 해. 침입자를 죽여!,M2Q2HSLAVE2,,,,,0,0
+40916,Creature,Nymph Ranger Slave,Nymph Ranger Slave,님프 순찰자 노예,M2Q2HSLAVE2,,,,,0,0
+64670,Creature,Nymph Ranger Slave,Kill for the mistress!,여주인을 위해 죽여라!,M2Q2HSLAVE2,m2q2nymphslave02,,,,0,0
+64671,Creature,Nymph Ranger Slave,What has happened to me? Where am I? I must find my family!,내게 무슨 일이 일어난 거지? 여긴 어디야? 가족을 찾아야 해!,M2Q2HSLAVE2,m2q2h_slaveleave,,,,0,0
+40028,Dialog,NEVERWINWOOD,Neverwinter Wood.,네버윈터 숲.,M2_NEVERWINWOOD,,,,,0,0
+40697,Creature,Noble Customer,Noble Visitor,귀족 방문객,2Q4C_NOBLECUSTOMER,,,,,0,0
+40698,Creature,Noble Customer,Noble Customer,귀족 고객,2Q4C_NOBLECUSTOMER,,,,,0,0
+40817,Creature,Nuglat,Nuglat,누글랏,M2Q05CNUGLAT,,,,,0,0
+40917,Creature,Nymph Druid Slave,Nymph Druid Slave,님프 드루이드 노예,M2Q2HSLAVE4,,,,,0,0
+40918,Creature,Nymph Slave,Nymph Slave,님프 노예,M2Q2HSLAVE5|M2Q2HSLAVE6,,,,,0,0
+40951,Creature,Neva,Neva,네바,M2Q6CNEVA,,,,,0,0
+41846,Creature,Nanny,"I... it is horrible, horrible! All the children... gone... ","저... 끔찍해요, 끔찍해요! 아이들이 전부... 없어졌어요... ",2Q4E_NANNY,,,,,0,0
+41847,Creature,Nanny,Londa... Miss Londa's children... I am their nanny... ,론다... 론다 아가씨의 아이들... 저는 그들의 유모예요... ,2Q4E_NANNY,,,,,0,0
+41848,Creature,Nanny,"Yes... yes, you know of them? I... I am their nanny... ","네... 네, 그들을 아세요? 저... 저는 그들의 유모예요... ",2Q4E_NANNY,,,,,0,0
+41849,Creature,Nanny,"It was horrible! He... the High Captain, he... took the children from Miss Londa's home. He... threw me to these spiders, and... and...","끔찍했어요! 그... 대선장이, 그가... 론다 아가씨의 집에서 아이들을 데려갔어요. 그가... 날 이 거미들에게 던져 넣었고... 그리고...",2Q4E_NANNY,,,,,0,0
+41850,Creature,Nanny,(sob!) He had the bigger children turned into... into creatures like himself. The... the smaller ones he gave to the other creature to... to... (sob!) All dead. All of them...,(흐느낌!) 그는 큰 아이들을 자신과 같은... 그런 생명체로 바꿔 버렸어요. 그... 작은 아이들은 다른 생명체에게 넘겨서... 넘겨서... (흐느낌!) 전부 죽었어요. 모두 다...,2Q4E_NANNY,,,,,0,0
+41851,Creature,Nanny,This... this is all I have left of them. Find... find Miss Londa and give it to her. Tell her I *tried* to save them... it was no use...,이... 이게 제가 가진 유일한 것이에요. 론다... 론다 아가씨를 찾아서 이걸 주세요. 제가 그들을 구하려고 *애썼다고* 전해 주세요... 소용없었어요...,2Q4E_NANNY,2q4_nanny05,,,,0,0
+65440,Creature,Nanny,I... Ilmater's mercy! Where am I? Wh-what is this place?,저... 일메이터의 자비시여! 여긴 어디죠? 여-여긴 어디예요?,2Q4E_NANNY,,,,,0,0
+65441,Creature,Nanny,"Done to me? I... oh, the spiders. I... I remember...","저한테 한 짓이요? 저... 아, 거미들. 저... 기억이 나요...",2Q4E_NANNY,,,,,0,0
+65442,Creature,Nanny,"Me? M-my name is Miriam. These... oh my. The spiders! I... I remember...","저요? 제-제 이름은 미리암이에요. 이... 세상에. 거미들! 저... 기억이 나요...",2Q4E_NANNY,,,,,0,0
+65443,Creature,Nanny,"You... freed me? Oh... the spiders, I... I remember! I remember!","당신이... 날 풀어줬어요? 오... 거미들, 저... 기억나요! 기억이 나요!",2Q4E_NANNY,,,,,0,0
+65444,Creature,Nanny,"I... yes. I can leave. I... I've got to get out of this city, I can't stay here. Th-thank you for freeing me, my <lord/lady>... I must go...","저... 네. 떠날 수 있어요. 저... 이 도시를 빠져나가야 해요, 여기 있을 수 없어요. 날 풀어줘서 감-감사합니다, <lord/lady> 님... 가봐야 해요...",2Q4E_NANNY,,,,,0,0
+65445,Creature,Nanny,"O-of course. I... didn't think. N-nobody does anything for anyone, here, do they? I've just got to leave, got to get out...","그-그럼요. 저... 생각 못 했네요. 여기선 아-아무도 남을 위해 아무것도 안 하잖아요, 그렇죠? 그냥 떠나야 해요, 빠져나가야 해요...",2Q4E_NANNY,,,,,0,0
+65446,Creature,Nanny,"I cannot face Miss Londa. Not after... not after that. I've just got to get out of this place. Th-thank you for freeing me, my <lord/lady>... but I must go...","론다 아가씨를 볼 면목이 없어요. 그... 그 일 후엔. 그냥 이곳에서 빠져나가야 해요. 날 풀어줘서 감-감사합니다, <lord/lady> 님... 하지만 가봐야 해요...",2Q4E_NANNY,,,,,0,0
+65561,Creature,Nanny,Nanny,유모,2Q4E_NANNY,,,,,0,0
+42549,Creature,Nyphithys,Nyphithys,니피시스,2Q6_NYPHITHYS,,,,,0,0
+47039,Creature,Nax,Nax,낙스,NAX,,,,,0,0
+48423,Creature,Neverwinter Soldier,There's too many of those Luskan soldiers in the streets. We don't stand a chance.,거리에 러스칸 병사들이 너무 많아. 우린 가망이 없어.,M4Q01B02SOLD,nw_d1_talktime,,,,0,0
+48424,Creature,Neverwinter Soldier,The captain should have given the order to retreat long ago. Now it's too late.,대장이 진작 후퇴 명령을 내렸어야 했어. 이제 너무 늦었어.,M4Q01B02SOLD,m4q01b02soldelc1,,,,0,0
+48425,Creature,Neverwinter Soldier,"We're with you, <FullName>! We'll follow you every step of the way!","우리가 함께합니다, <FullName>! 매 발걸음마다 따르겠습니다!",M4Q01B02SOLD,,,,,0,0
+48426,Creature,Neverwinter Soldier,"I'd surrender, but the Luskans don't take prisoners.",항복하고 싶지만 러스칸 놈들은 포로를 받지 않아.,M4Q01B02SOLD,,,,,0,0
+48427,Creature,Neverwinter Soldier,We're trapped here. We'll never make it out alive.,우린 여기 갇혔어. 살아서 빠져나갈 수 없을 거야.,M4Q01B02SOLD,,,,,0,0
+48428,Creature,Neverwinter Soldier,Death to the Luskan invaders!,러스칸 침략자들에게 죽음을!,M4Q01B02SOLD,,,,,0,0
+48539,Creature,Neverwinter Soldier,There's too many of those Luskan soldiers in the streets. We don't stand a chance.,거리에 러스칸 병사들이 너무 많아. 우린 가망이 없어.,M4Q01B15SOLD,nw_d1_talktime,,,,0,0
+48540,Creature,Neverwinter Soldier,The captain should have given the order to retreat long ago. Now it's too late.,대장이 진작 후퇴 명령을 내렸어야 했어. 이제 너무 늦었어.,M4Q01B15SOLD,m4q01b15soldelc1,,,,0,0
+48541,Creature,Neverwinter Soldier,"We're with you, <FullName>! We'll follow you every step of the way!","우리가 함께합니다, <FullName>! 매 발걸음마다 따르겠습니다!",M4Q01B15SOLD,,,,,0,0
+48542,Creature,Neverwinter Soldier,"I'd surrender, but the Luskans don't take prisoners.",항복하고 싶지만 러스칸 놈들은 포로를 받지 않아.,M4Q01B15SOLD,,,,,0,0
+48543,Creature,Neverwinter Soldier,We're trapped here. We'll never make it out alive.,우린 여기 갇혔어. 살아서 빠져나갈 수 없을 거야.,M4Q01B15SOLD,,,,,0,0
+48544,Creature,Neverwinter Soldier,Death to the Luskan invaders!,러스칸 침략자들에게 죽음을!,M4Q01B15SOLD,,,,,0,0
+49086,Creature,Neverwinter Soldier,Neverwinter Soldier,네버윈터 병사,M4Q01B02SOLD|M4Q01B15SOLD,,,,,0,0
+50976,Creature,Naiad,Naiad,나이아드,M0Q0_STUDT_02,,,,,0,0
+58995,Dialog,NBOSS,Intruder! Destroy! Destroy!,침입자! 파괴! 파괴!,M2Q1NBOSS,,,,,0,0
+61215,Dialog,NBOSS,Intruder! Destroy! Destroy!,침입자! 파괴! 파괴!,M2Q1NBOSS,,,,,0,0
+61248,Dialog,NURSE,"I wish I could help you, but I have to get back to the patients.","도와드리고 싶지만 환자들에게 돌아가야 해요.",M4_NURSE,,,,,0,0
+61249,Dialog,NURSE,Please step back; the patients need their sleep.,뒤로 물러서 주세요. 환자들은 수면이 필요합니다.,M4_NURSE,,,,,0,0
+61250,Dialog,NURSE,"Talk to the priest; I'm busy right now, I'm sorry.","사제님께 말씀하세요. 지금 바빠서요, 죄송합니다.",M4_NURSE,,,,,0,0
+61251,Dialog,NURSE,"This man is bleeding; I can't help you, I'm sorry.","이 남자가 출혈 중이에요. 도와드릴 수 없어요, 죄송합니다.",M4_NURSE,,,,,0,0
+61265,Creature,Neverwinter Commander,I am too busy to talk right now.,지금은 말할 시간이 없소.,NW_PG_COMMANDER,,,,,0,0
+61321,Creature,Neverwinter Commander,Neverwinter Commander,네버윈터 사령관,NW_PG_COMMANDER,,,,,0,0
+61315,Creature,Nurse Rae,Rae,레이,M4_NURSE1,,,,,0,0
+61316,Creature,Nurse Thessaly,Thessaly,테살리,M4_NURSE2,,,,,0,0
+61317,Creature,Nurse Tansey,Tansey,탠지,M4_NURSE3,,,,,0,0
+61318,Creature,Nurse Emily,Emily,에밀리,M4_NURSE4,,,,,0,0
+61322,Creature,Neverwinter Guard,Neverwinter Guard,네버윈터 경비,NW_PG_GUARD,,,,,0,0
+62820,Creature,Nasty Imp,I kill you for master!,주인님을 위해 죽여 주겠어!,M1Q3BOSSIMP,,,,,0,0
+63131,Creature,Nasty Imp,Nasty Imp,더러운 임프,M1Q3BOSSIMP,,,,,0,0
+65208,Creature,Nixie Mage,Nixie Mage,닉시 마법사,M2NIXIEMAGE,,,,,0,0
+65448,Dialog,NYPHITHYS02,I would speak with you.,당신과 이야기하고 싶습니다.,2Q6C_NYPHITHYS02,,,,,0,0
+65926,Creature,Neverwinter Castle Guard,Neverwinter Castle Guard,네버윈터 성 경비,M4_CASTLE_GUARD1|M4_CASTLE_GUARD2,,,,,0,0
+65931,Creature,Norieriston Thel,Thel,텔,NORIERISTON,,,,,0,0
+65932,Creature,Norieriston Thel,Norieriston,노리에리스톤,NORIERISTON,,,,,0,0
+71267,Dialog,NETHERTRACKS1,"A small group of creatures passed through this area recently, according to the tracks.",흔적으로 보아 최근에 소규모 생명체 무리가 이 지역을 지나갔습니다.,Q1NETHERTRACKS1,,,,,0,0
+71268,Dialog,NETHERTRACKS1,A small group of humanoids seems to be inhabiting the small cave in front of you.,소규모 인간형 생명체 무리가 앞의 작은 동굴에 거주하는 것 같습니다.,Q1NETHERTRACKS1,,,,,0,0
+71269,Dialog,NETHERTRACKS1,"A small group of orcs, perhaps six, appear to use this cave as their home. They would appear to be fresh, indicating that some of them are in the cave at this moment.","아마도 6마리 정도의 소규모 오크 무리가 이 동굴을 거처로 사용하는 것 같습니다. 흔적이 신선하여, 일부가 지금 이 순간 동굴에 있음을 나타냅니다.",Q1NETHERTRACKS1,,,,,0,0
+71270,Dialog,NETHERWOLF,<StartAction>[The wolf looks at you with a lopsided grin.]</Start>,<StartAction>[늑대가 비뚤어진 미소를 지으며 당신을 바라봅니다.]</Start>,Q1NETHERWOLF,,,,,0,0
+71271,Dialog,NETHERWOLF,The wolf remembers the smell of blood on the wounds of the kobolds that ran into the cave.,늑대는 동굴로 달려간 코볼트들의 상처에서 나던 피 냄새를 기억합니다.,Q1NETHERWOLF,,,,,0,0
+71272,Dialog,NETHERWOLF,"The wolf scratches at a fleabite, wondering if swimming in the river would be worth the effort to get rid of the pest. ",늑대가 벼룩에 물린 자리를 긁으며 이 해충을 없애기 위해 강에서 수영하는 수고가 가치 있을지 궁금해합니다.,Q1NETHERWOLF,,,,,0,0
+71273,Dialog,NETHERWOLF,The wolf appears bored and wonders when you are going to go hunting together.,늑대는 지루해 보이며 당신과 언제 함께 사냥을 나갈지 궁금해합니다.,Q1NETHERWOLF,,,,,0,0
+71274,Dialog,NETHERWOLF,"The wolf looks you over to decide if you would make a good mate, arriving at the decision that you would not produce good offspring together.",늑대가 당신이 좋은 짝이 될지 판단하기 위해 살피더니 함께 좋은 새끼를 낳지 못할 거라는 결론에 도달합니다.,Q1NETHERWOLF,,,,,0,0
+71275,Dialog,NETHERWOLF,The wolf complains about a stag he was hunting that kept disappearing into thin air.,늑대가 사냥하던 수사슴이 계속 허공으로 사라졌다며 불평합니다.,Q1NETHERWOLF,,,,,0,0
+71276,Dialog,NETHERWOLF,"The wolf wonders how you can stand to move about on two legs, since you are obviously much slower.",늑대는 당신이 명백히 훨씬 느린데 어떻게 두 다리로 다니는 걸 견디는지 궁금해합니다.,Q1NETHERWOLF,,,,,0,0
+81544,Dialog,NW_HOBGOBLIN001,<StartAction>[Grunt]</Start>,<StartAction>[으르렁]</Start>,NW_HOBGOBLIN001,,,,,0,0
+92685,Dialog,NYMPHDOG,"""Woof, woof!""","""멍멍!""",Q1_NYMPHDOG,,,,,0,0
+92686,Dialog,NYMPHDOG,"The dog wishes it could be your companion; running by your side as you go off into battle, and tearing out the throats of your foes. It always dreamed of becoming a dog-of-war.","개는 당신의 동료가 될 수 있기를 바랍니다. 당신이 전투에 나갈 때 옆에서 달리고, 적들의 목을 물어뜯는 그런. 항상 전쟁개가 되는 꿈을 꿔왔습니다.",Q1_NYMPHDOG,,,,,0,0
+92687,Dialog,NYMPHDOG,The dog tells you it was talking to a rat the other day that swore it knew a secret room filled with treasure. The dog warns you to never trust a rat.,개가 얼마 전에 보물로 가득 찬 비밀 방을 안다고 맹세했던 쥐와 이야기했다고 말합니다. 개는 쥐를 절대 믿지 말라고 경고합니다.,Q1_NYMPHDOG,,,,,0,0
+92688,Dialog,NYMPHDOG,"The dogs sniffs the air, then tells you that it isn't terribly fond of the smell down here. It wonders how long it has been since the floor was given a good scrubbing.","개가 공기를 킁킁거리더니 여기 냄새가 그리 좋지 않다고 말합니다. 마지막으로 바닥을 제대로 청소한 지 얼마나 됐는지 궁금해합니다.",Q1_NYMPHDOG,,,,,0,0
+92689,Dialog,NYMPHDOG,"The dog wonders whatever happened to the bright, sunny place where he used to live. He gloomily concludes that it was probably destroyed when the sky fell, just like the chicken warned him.","개는 자신이 살던 밝고 햇살 가득한 곳에 무슨 일이 생긴 건지 궁금해합니다. 닭이 경고한 대로 하늘이 떨어질 때 아마도 파괴됐을 거라고 우울하게 결론짓습니다.",Q1_NYMPHDOG,,,,,0,0
+92690,Dialog,NYMPHDOG,The dog tells you that it is getting rather tired of chasing chickens and wonders why there aren't any cats around here.,개가 닭 쫓는 것도 이제 좀 지겹고 왜 여기엔 고양이가 하나도 없는지 궁금하다고 말합니다.,Q1_NYMPHDOG,,,,,0,0
+92691,Dialog,NYMPHDOG,The dog cannot seem to remember how it got down into this dismal dungeon. It wonders how it will ever manage to make its way home.,개는 어떻게 이 음산한 지하 감옥에 들어왔는지 기억이 안 나는 것 같습니다. 어떻게 집으로 갈 길을 찾을지 궁금해합니다.,Q1_NYMPHDOG,,,,,0,0
+94455,Creature,Nathyrra,"Nathyrra seizes your arm and hisses into your ear: ""He's an archmage of tremendous power and unstable temperament. Don't make him angry!""","나시라가 당신의 팔을 붙잡고 귓속말로 쉭쉭거립니다: ""엄청난 힘과 불안정한 기질을 가진 대마법사예요. 화나게 하지 마세요!""",X2_HEN_NATHYRRA,,,,vs_nx2nathf_135,0,0
+94470,Creature,Nathyrra,"Nathyrra gasps. ""The geas will bind you to Halaster's service. He's compelled you to enter the Underdark and kill the Valsharess. If you don't obey him, you'll wither away and die.""","나시라가 숨을 헐떡입니다. ""그 강제적인 명령이 당신을 할라스터의 섬기도록 할 거예요. 그자가 당신이 언더다크에 들어가서 발샤레스를 죽이도록 했어요. 그를 따르지 않으면, 쇠약해져 죽을 거예요.""",X2_HEN_NATHYRRA,,,,,0,0
+94487,Creature,Nathyrra,"""Please, Halaster. Send me down as well. <FirstName> will need help, and I have allies in the Underdark. The Seer also wants to stop the Valsharess. Please.""","""부탁드려요, 할라스터. 저도 같이 보내 주세요. <FirstName>에게 도움이 필요할 거고, 저는 언더다크에 동맹이 있어요. 선견자도 발샤레스를 막고 싶어 해요. 부탁드려요.""",X2_HEN_NATHYRRA,,,,,0,0
+94934,Creature,Nathyrra,Nathyrra,나시라,HX_FEND_NATH|X2_HEN_NATHYRA|X2_HEN_NATHYRRA|X2_REB_NATHYRA,,,,,0,0
+108675,Creature,Nathyrra,"""I must admit, the sensei's faith intrigues me...""","""사부의 신앙이 흥미롭다는 건 인정해야겠어요...""",X2_HEN_NATHYRRA,,,,,0,0
+109077,Creature,Nathyrra,"""I wish he'd wash them more often...""","""좀 더 자주 씻었으면 좋겠는데...""",X2_HEN_NATHYRRA,,,,,0,0
+94859,Creature,NEW TOMI Undergallows,OLD TOMI,옛 토미,NW_HEN_GAL,,,,,0,0
+94860,Creature,NEW TOMI Undergallows,NEW TOMI,새 토미,NW_HEN_GAL,,,,,0,0
+94916,Creature,Noble Warrior,Noble Warrior,귀족 전사,Q2E_GOOD4,,,,,0,0
+94918,Creature,Noble Elf Mage,Noble Elf Mage,귀족 엘프 마법사,Q2E_GOOD5,,,,,0,0
+94920,Creature,Noble Dwarf Lord,Noble Dwarf Lord,귀족 드워프 군주,Q2E_GOOD6,,,,,0,0
+94967,Creature,Noxious Ogre,Noxious Ogre,유독한 오우거,X2_Q2OGRE2,,,,,0,0
+95622,Dialog,NARRATOR,"You became a terror on the face of Toril, legends claiming that your armies spread the darkness that was within your heart over the lands of Faerun. You were yet another challenge for the heroes of the land to face, and it is said that upon your inevitable defeat by the forces of good you swore revenge. In tales told by drunken bards, your spirit festers in a dungeon far beneath a plain that remembers your ancient battles only by the old bones still bleaching in the sun. One day your ambition will demand your return... or so the bards will claim.","당신은 토릴 대륙에 공포가 되었고, 당신의 군대가 당신 마음속 어둠을 페이룬 땅에 퍼뜨렸다는 전설이 전해집니다. 당신은 그 땅의 영웅들이 맞서야 할 또 하나의 도전이었고, 선의 세력에게 필연적으로 패배했을 때 복수를 맹세했다고 전해집니다. 술 취한 음유시인들이 전하는 이야기에서, 당신의 영혼은 태양에 희게 바래는 오래된 뼈들로만 당신의 고대 전투를 기억하는 평원 깊은 곳의 지하 감옥에서 곪아 있습니다. 언젠가 당신의 야심이 귀환을 요구할 것입니다... 적어도 음유시인들은 그렇게 주장하겠죠.",H10_NARRATOR,hx_fends_pc,,,,0,0
+95623,Dialog,NARRATOR,"Saved from the destruction that would have been visited upon them by Mephistopheles, the citizens of Toril joined together in showering you with their gratitude. A holiday was named in your honor, and in the days to come you would rise in power, becoming confidante to the lords of nations who sought counsel from the wisest of champions. Legends conflict in their claims of where you went after this, some saying you disappeared mysteriously and some saying you rose to become a benevolent ruler... the only surety is that your name is uttered alongside the greatest heroes the Realms has ever known.","메피스토펠레스에 의해 가해졌을 파멸에서 구원받은 토릴의 시민들은 함께 모여 당신에게 감사를 쏟아냈습니다. 당신을 기리는 축일이 정해졌고, 앞으로 당신은 권력이 높아져 가장 현명한 영웅의 조언을 구하는 나라들의 군주들의 측근이 되었습니다. 전설들은 그 후 당신이 어디로 갔는지에 대해 서로 상충하는데, 어떤 이는 당신이 신비롭게 사라졌다고 하고 어떤 이는 자비로운 통치자가 되었다고 합니다... 확실한 것은 당신의 이름이 세계이 알아온 가장 위대한 영웅들과 함께 언급된다는 것입니다.",H10_NARRATOR,hx_fends_pc,,,,0,0
+95624,Dialog,NARRATOR,"Word of your hell-borne alliance with Mephistopheles spread far and wide throughout the planes. Armies trembled before the two of you, lords and ladies pandered to your every whim, and evil permeated the ground upon which you trod. Nothing could stop you and nothing ever did...","메피스토펠레스와의 지옥에서 맺은 동맹에 대한 소문이 차원들 전역에 널리 퍼졌습니다. 군대들은 당신 둘 앞에서 떨었고, 귀족들은 당신의 모든 변덕에 아첨했으며, 악이 당신이 밟는 땅에 스며들었습니다. 아무것도 당신을 막을 수 없었고 실제로 막지 못했습니다...",H10_NARRATOR,hx_fends_pc,,,,0,0
+95625,Dialog,NARRATOR,"When all was said and done and an end put to the fiendish plans of Mephistopheles, monuments to your victory were erected throughout the world of Toril. Over time, tales of your heroism grew into legends, then into myths. It is said you walked the planes and some say you walk them still, sowing the seeds of goodness and hope wherever you go...","모든 것이 끝나고 메피스토펠레스의 사악한 계획이 종결되었을 때, 당신의 승리를 기리는 기념비들이 토릴 세계 곳곳에 세워졌습니다. 시간이 지나며 당신의 영웅담은 전설이 되었고, 그 후 신화가 되었습니다. 당신이 차원들을 걸었고 어떤 이들은 여전히 걷고 있으며, 가는 곳마다 선과 희망의 씨앗을 뿌린다고 전해집니다...",H10_NARRATOR,hx_fends_pc,,,,0,0
+95626,Dialog,NARRATOR,"News of your escape from the Hells and triumph over Mephistopheles spread far and wide throughout the realms. Armies trembled before you, lords and ladies pandered to your every whim, and evil permeated the ground upon which you trod. In time, some began to wonder if life under Mephistopheles might have been kinder. Old, now, and wise, you smile to yourself... Yes, they were probably right...","당신이 지옥에서 탈출하고 메피스토펠레스를 이긴 소식이 세계 전역에 널리 퍼졌습니다. 군대들은 당신 앞에서 떨었고, 귀족들은 당신의 모든 변덕에 아첨했으며, 악이 당신이 밟는 땅에 스며들었습니다. 시간이 흐르자, 일부는 메피스토펠레스 아래에서의 삶이 더 나았을지도 모른다고 생각하기 시작했습니다. 이제 늙고 현명해진 당신은 혼자 미소 짓습니다... 네, 그들이 아마 옳았겠죠...",H10_NARRATOR,hx_fends_pc,,,,0,0
+95627,Dialog,NARRATOR,"With Mephistopheles bound to your service, you quickly grew in power and status. Bards penned songs of the Devil Tamer and, through your adventures, you came to live a long life of wealth and privelege. Some loved you, some feared you but all gave you their respect. You were the Devil Tamer, the Hero of Waterdeep, a legend in your own time...","메피스토펠레스가 당신에게 묶이자, 당신은 빠르게 권력과 지위가 높아졌습니다. 음유시인들은 마귀 조련사에 대한 노래를 지었고, 당신의 모험을 통해 부와 특권의 긴 삶을 살게 되었습니다. 어떤 이는 당신을 사랑했고 어떤 이는 두려워했지만 모두가 당신을 존경했습니다. 당신은 마귀 조련사, 워터딥의 영웅, 당신 시대의 전설이었습니다...",H10_NARRATOR,hx_fends_pc,,,,0,0
+95628,Dialog,NARRATOR,"Yet not all sat so well with you for, when you commanded Mephistopheles, you had placed your trust in a devil's word. You used no True Name to bind him, nor did you extinguish the fire that was his life. To the end of your days, you possessed a certainty that somewhere in the vastness of the planes, the archdevil was licking his wounds and waiting for you, plotting his revenge. You watch and wait for that day to come, and when it does you know that you will have to fight him to the last breath.","하지만 모든 것이 순조롭지만은 않았습니다. 메피스토펠레스를 명령했을 때, 당신은 마귀의 말을 신뢰했습니다. 그를 묶을 진명도 사용하지 않았고, 그의 생명인 불을 끄지도 않았습니다. 당신은 생의 마지막까지, 광대한 차원 어딘가에서 그 대마귀가 상처를 핥으며 당신을 기다리고 있고, 복수를 계획하고 있다는 확신을 가졌습니다. 당신은 그날이 오기를 지켜보고 기다리며, 그날이 오면 마지막 숨까지 그와 싸워야 한다는 것을 압니다.",H10_NARRATOR,hx_fends_pc3,,,,0,0
+95629,Dialog,NARRATOR,"As promised, however, you built an inn of your own in Waterdeep and people came from miles around to torment the fallen devil that was its chambermaid...","하지만 약속대로, 당신은 워터딥에 자신의 여관을 지었고 사람들은 사방에서 찾아와 객실 시녀가 된 타락한 마귀를 괴롭혔습니다...",H10_NARRATOR,,,,,0,0
+95630,Dialog,NARRATOR,"END NARRATION. BASED ON VARIABLES SET THROUGHOUT THE GAME, THE PLAYER IS PRESENTED WITH THE AFTERMATH OF THEIR ACTIONS IN THE WORLD.","서술 종료. 게임 전반에 설정된 변수들을 기반으로, 플레이어는 세계에서 자신의 행동의 여파를 맞이합니다.",H10_NARRATOR,,,,vs_naribetf_095,0,0
+109819,Creature,"Nathyrra, Dead","Nathyrra, Dead","나시라, 사망",HX_FEND_NATH2,,,,,0,0
+109865,Creature,Nhagruul,Nhagruul,나그룰,QX_NHAGRUUL,,,,,0,0

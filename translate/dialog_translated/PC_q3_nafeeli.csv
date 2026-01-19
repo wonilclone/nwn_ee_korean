@@ -1,0 +1,47 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72510,PC,Player Character,"Just little kobolds? You're going to die, vermin!","그냥 꼬마 코볼트들? 죽어라, 해충들!",q3_nafeeli,,,,,0,0
+72511,PC,Player Character,Why not? This should be a fun little sport!,왜 안 되겠어? 재미있는 오락거리가 되겠군!,q3_nafeeli,x0_d1_dideviltny,,,,0,0
+72512,PC,Player Character,You're evil little monsters and you deserve to die!!,너희는 사악한 꼬마 괴물이고 죽어 마땅해!!,q3_nafeeli,xp1_didnotevlti,q3_kobold04,,,0,0
+72513,PC,Player Character,And what about the defenseless people in Hilltop? This is justice!!,힐탑의 무방비한 사람들은 어쩌고? 이건 정의야!!,q3_nafeeli,x0_d1_didlawsml,q3_kobold02,,,0,0
+72514,PC,Player Character,So give me one good reason why I shouldn't.,그러니까 안 될 이유 하나만 대봐.,q3_nafeeli,,[지능 보통],,,0,0
+72515,PC,Player Character,"Then run, and don't stop running. I don't want to see you ever again!","그럼 뛰어, 멈추지 말고 계속 뛰어. 다시는 보고 싶지 않아!",q3_nafeeli,xp1_didnotevlsm,,,,0,0
+72516,PC,Player Character,"Then answer some of my questions, and be quick about it.","그럼 내 질문에 대답해, 빨리.",q3_nafeeli,,,,,0,0
+72517,PC,Player Character,"Alright, go on. Get out of here, all of you.","좋아, 가. 여기서 나가, 모두.",q3_nafeeli,xp1_didnotevlsm,,,,0,0
+72518,PC,Player Character,I want some questions answered first.,먼저 몇 가지 질문에 대답해줘.,q3_nafeeli,,,,,0,0
+72519,PC,Player Character,"Nothing, never mind.","아무것도 아니야, 됐어.",q3_nafeeli,,,,,0,0
+72520,PC,Player Character,Forget it! Now you die!,됐어! 이제 죽어!,q3_nafeeli,,,,,0,0
+72521,PC,Player Character,No! Now you pay for what you did in Hilltop!,안 돼! 힐탑에서 한 짓의 대가를 치러라!,q3_nafeeli,,q3_kobold02,,,0,0
+72522,PC,Player Character,Do you kobolds know how to fight?,너희 코볼트들은 싸울 줄 아나?,q3_nafeeli,,q3_sc_kob_help,,,0,0
+72523,PC,Player Character,"Oh, no reason...","아, 별 이유 없어...",q3_nafeeli,,,,,0,0
+72524,PC,Player Character,I just wanted to know how easy it'll be to kill you all.,너희 모두를 죽이기가 얼마나 쉬울지 알고 싶었을 뿐이야.,q3_nafeeli,,,,,0,0
+72525,PC,Player Character,I think you should help me fight the gnolls.,놀들과 싸우는 걸 도와야 할 것 같은데.,q3_nafeeli,,,,,0,0
+72526,PC,Player Character,True. I suppose I don't need your help after all.,맞아. 결국 네 도움은 필요 없을 것 같군.,q3_nafeeli,,,,,0,0
+72527,PC,Player Character,<StartCheck>[Intimidate]</Start> You fight them or you fight me. Make your choice.,<StartCheck>[위협]</Start> 놀들과 싸우든지 나와 싸우든지. 선택해.,q3_nafeeli,,,,,0,0
+72528,PC,Player Character,That's not justice for Hilltop... but killing you will be.,그건 힐탑에 대한 정의가 아니야... 하지만 널 죽이는 건 정의지.,q3_nafeeli,x0_d1_didlawsml,q3_kobold02,,,0,0
+72529,PC,Player Character,"No, I'd much rather kill you now.","아니, 차라리 지금 죽이겠어.",q3_nafeeli,,,,,0,0
+72530,PC,Player Character,"No, I don't trust you. Best you kobolds just get out of here now.","아니, 믿을 수 없어. 너희 코볼트들은 지금 당장 여기서 나가는 게 좋을 거야.",q3_nafeeli,,,,,0,0
+72531,PC,Player Character,Very well. You help me fight the chieftain and you live.,좋아. 족장과 싸우는 걸 도우면 살려준다.,q3_nafeeli,,,,,0,0
+72532,PC,Player Character,And where are you going to get weapons?,무기는 어디서 구할 건데?,q3_nafeeli,,,,,0,0
+72533,PC,Player Character,<StartCheck>[Intimidate]</Start> I'd think you'd want to make up for what you did at Hilltop...,<StartCheck>[위협]</Start> 힐탑에서 한 짓을 보상하고 싶을 거라고 생각했는데...,q3_nafeeli,,q3_kobold02,,,0,0
+72534,PC,Player Character,<StartCheck>[Persuade]</Start> Don't you want to fight back? You just need to help me.,<StartCheck>[설득]</Start> 반격하고 싶지 않아? 나만 도와주면 돼.,q3_nafeeli,,,,,0,0
+72535,PC,Player Character,Then it's time for you to die!,그럼 네가 죽을 시간이야!,q3_nafeeli,,,,,0,0
+72536,PC,Player Character,Do you know anything about someone named J'Nah?,즈나라는 사람에 대해 아는 거 있어?,q3_nafeeli,,q3_knowjnah,,,0,0
+72537,PC,Player Character,What do you know about these gnolls?,이 놀들에 대해 뭘 알아?,q3_nafeeli,,,,,0,0
+72538,PC,Player Character,What else?,또 뭐가 있어?,q3_nafeeli,,,,,0,0
+72539,PC,Player Character,Who are you and how did you get here?,넌 누구고 어떻게 여기 온 거야?,q3_nafeeli,,,,,0,0
+72540,PC,Player Character,I don't have any more questions for you.,더 이상 질문은 없어.,q3_nafeeli,,,,,0,0
+72541,PC,Player Character,"You attacked Hilltop?! The gnolls are the least of your worries, kobold!!","힐탑을 공격했다고?! 놀들은 네 걱정거리 중 가장 작은 거야, 코볼트!!",q3_nafeeli,,,,,0,0
+72542,PC,Player Character,You were part of the raid on Hilltop?,힐탑 습격에 가담했던 거야?,q3_nafeeli,,,,,0,0
+72543,PC,Player Character,I want to ask you something else.,다른 걸 물어보고 싶어.,q3_nafeeli,,,,,0,0
+72544,PC,Player Character,"You're going to pay for what you did, kobold!","네가 한 짓의 대가를 치르게 될 거야, 코볼트!",q3_nafeeli,,,,,0,0
+72545,PC,Player Character,What kind of poison did you use on Drogan?,드로건에게 어떤 독을 썼어?,q3_nafeeli,,,,,0,0
+72546,PC,Player Character,What happened to Drogan's artifacts?,드로건의 유물들은 어떻게 됐어?,q3_nafeeli,,,,,0,0
+72547,PC,Player Character,Tell me why you raided Hilltop.,왜 힐탑을 습격했는지 말해.,q3_nafeeli,,,,,0,0
+72548,PC,Player Character,This Master of yours? You mean Tymofarrar?,네 주인이라고? 티모파라르 말이야?,q3_nafeeli,,q3_knowtymo,,,0,0
+72549,PC,Player Character,"Just stay right where you are, creature, and don't try anything!","거기 가만히 있어, 이 생명체야, 수작 부리지 마!",q3_nafeeli,,,,,0,0
+72550,PC,Player Character,Good. Then you should all be easy to kill.,좋아. 그럼 너희 모두 죽이기 쉽겠군.,q3_nafeeli,,,,,0,0
+72551,PC,Player Character,"Forget it. You can rot in there, you little beasts.","됐어. 거기서 썩어, 꼬마 짐승들아.",q3_nafeeli,,,,,0,0
+72552,PC,Player Character,"I'll see what I can do, hold on.","뭘 할 수 있는지 볼게, 잠깐만.",q3_nafeeli,,,,,0,0
+72553,PC,Player Character,And why should I let you out?,왜 내가 널 풀어줘야 하는데?,q3_nafeeli,,,,,0,0
+72554,PC,Player Character,Try again.,다시 해봐.,q3_nafeeli,,,,,0,0
+72555,PC,Player Character,"I have some questions, first.","먼저 몇 가지 질문이 있어.",q3_nafeeli,,,,,0,0

@@ -1,0 +1,50 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+71985,PC,Player Character,I am looking for some stolen relics.,도난당한 유물을 찾고 있어.,q2_urko,,,,,0,0
+71986,PC,Player Character,I seek the kobolds who raided Hilltop.,힐탑을 습격한 코볼트들을 찾고 있어.,q2_urko,,,,,0,0
+71987,PC,Player Character,"If you lie to me again, I will kill you.","다시 거짓말하면, 죽여버릴 거야.",q2_urko,,,,,0,0
+71988,PC,Player Character,I want the relics you stole. ,네가 훔친 유물을 내놔.,q2_urko,,,,,0,0
+71989,PC,Player Character,So who wants to tell me the truth?,그래서 누가 진실을 말해줄 건데?,q2_urko,,,,,0,0
+71992,PC,Player Character,I only wanted to get close enough to kill the leader first! ,우두머리부터 죽이려고 가까이 가고 싶었을 뿐이야!,q2_urko,,,,,0,0
+71993,PC,Player Character,"You had better answer all my questions, if you want to survive.","살고 싶으면, 내 질문에 전부 대답하는 게 좋을 거야.",q2_urko,,,,,0,0
+71994,PC,Player Character,"Don't worry, scaly friend. I won't hurt you.","걱정 마, 비늘 달린 친구. 해치지 않을게.",q2_urko,,,,,0,0
+71995,PC,Player Character,My name is <FirstName>. I just want to talk to you.,내 이름은 <FirstName>이야. 그냥 대화하고 싶어.,q2_urko,,,,,0,0
+71996,PC,Player Character,Why are you so worried about gnolls? ,왜 그렇게 놀을 걱정해?,q2_urko,,,,,0,0
+71997,PC,Player Character,What are gnolls?,놀이 뭐야?,q2_urko,,,,,0,0
+71998,PC,Player Character,"<StartCheck>[Persuade - lie]</Start> Yes, there was a large group I had to sneak by, just to get in here.","<StartCheck>[설득 - 거짓말]</Start> 응, 여기 들어오려고 몰래 지나친 큰 무리가 있었어.",q2_urko,xp1_didnotlawti,,,,0,0
+71999,PC,Player Character,I never saw any gnolls.,놀은 본 적 없어.,q2_urko,,,,,0,0
+72000,PC,Player Character,I don't want to talk anymore. Goodbye.,더 이상 얘기하고 싶지 않아. 안녕.,q2_urko,,,,,0,0
+72001,PC,Player Character,"You don't look like a very tough leader, Urko! ","별로 강해 보이지 않는 우두머리야, 우르코!",q2_urko,,,,,0,0
+72002,PC,Player Character,"And I am sure you make a great leader, Urko. ","분명 훌륭한 우두머리일 거야, 우르코.",q2_urko,,,,,0,0
+72003,PC,Player Character,"How did you get to be the leader, Urko?","어떻게 우두머리가 됐어, 우르코?",q2_urko,,,,,0,0
+72004,PC,Player Character,I am done talking to you.,대화 끝났어.,q2_urko,,,,,0,0
+72005,PC,Player Character,Now you die!,이제 죽어!,q2_urko,,,,,0,0
+72006,PC,Player Character,"Yes, I am leaving now. Goodbye. ","그래, 이제 갈게. 안녕.",q2_urko,,,,,0,0
+72007,PC,Player Character,I have some other questions for you.,다른 질문이 있어.,q2_urko,,,,,0,0
+72008,PC,Player Character,Who sent you after Drogan?,누가 드로건을 노리라고 보냈어?,q2_urko,,,,,0,0
+72009,PC,Player Character,Do you have some stolen relics? ,훔친 유물 가지고 있어?,q2_urko,,,,,0,0
+72010,PC,Player Character,Are you the kobolds who raided Hilltop? ,힐탑을 습격한 코볼트들이야?,q2_urko,,,,,0,0
+72011,PC,Player Character,"Would you like to be the leader, Yazka?","우두머리가 되고 싶어, 야즈카?",q2_urko,,,,,0,0
+72012,PC,Player Character,"<StartCheck>[Persuade]</Start> Do you want me to help you fight to become the leader here, Yazka?","<StartCheck>[설득]</Start> 여기서 우두머리가 되도록 싸우는 걸 도와줄까, 야즈카?",q2_urko,x0_d1_didchaosml,,,,0,0
+72013,PC,Player Character,Who is Deekin?,디킨이 누구야?,q2_urko,,,,,0,0
+72014,PC,Player Character,Tell me what magic you speak of. ,말하는 그 마법이 뭔지 말해봐.,q2_urko,,,,,0,0
+72015,PC,Player Character,What did Deekin steal?,디킨이 뭘 훔쳤어?,q2_urko,,,,,0,0
+72016,PC,Player Character,I need the mummified hand.,미라가 된 손이 필요해.,q2_urko,,,,,0,0
+72017,PC,Player Character,Give me the hand or I will kill you now!,손을 내놔. 안 그러면 지금 죽여버린다!,q2_urko,,,,,0,0
+72018,PC,Player Character,<StartCheck>[Persuade - Lie]</Start> The hand is worthless. It was just a trophy from Drogan's adventures.,<StartCheck>[설득 - 거짓말]</Start> 그 손은 가치가 없어. 드로건의 모험에서 얻은 전리품일 뿐이야. [지능 보통],q2_urko,xp1_didnotlawti,[지능 보통],,,0,0
+72019,PC,Player Character,"<StartCheck>[Difficult Persuade]</Start> I can protect you from the gnolls, if you give me the hand.","<StartCheck>[어려운 설득]</Start> 손을 주면, 놀로부터 보호해줄 수 있어.",q2_urko,,,,,0,0
+72020,PC,Player Character,So you are the kobolds that attacked Hilltop?,그래서 힐탑을 공격한 코볼트들이 너희야?,q2_urko,,,,,0,0
+72021,PC,Player Character,What kind of poison did you use?,어떤 독을 썼어?,q2_urko,,,,,0,0
+72022,PC,Player Character,You mean Tymofarrar?,티모파라르 말이야?,q2_urko,,con_urko_2,,,0,0
+72023,PC,Player Character,"No, but I met him and he is really angry with you.","아니, 하지만 만났는데 너희한테 엄청 화나 있더라.",q2_urko,,,,,0,0
+72024,PC,Player Character,"No, but I killed him.","아니, 하지만 내가 죽였어.",q2_urko,,,,,0,0
+72025,PC,Player Character,"<StartCheck>[Persuade - lie]</Start> Yes, and he sent me to get the artifacts you stole.","<StartCheck>[설득 - 거짓말]</Start> 응, 그리고 네가 훔친 유물을 가져오라고 날 보냈어.",q2_urko,xp1_didnotlawti,,,,0,0
+72026,PC,Player Character,Who is your Master?,네 주인이 누구야?,q2_urko,,con_urko_1,,,0,0
+72027,PC,Player Character,So *you* are the ones who stabbed Drogan!,그래서 드로건을 찌른 게 *너희*였구나!,q2_urko,,,,,0,0
+72028,PC,Player Character,Tell me about the items you stole.,훔친 물건들에 대해 말해봐.,q2_urko,,,,,0,0
+72029,PC,Player Character,Nothing happened when the tower broke? ,탑이 부서졌을 때 아무 일도 없었어?,q2_urko,,,,,0,0
+72030,PC,Player Character,What did that stupid kobold do to the tower? ,그 멍청한 코볼트가 탑에 무슨 짓을 한 거야?,q2_urko,,,,,0,0
+72031,PC,Player Character,He broke the tower?,탑을 부쉈다고?,q2_urko,,,,,0,0
+72032,PC,Player Character,Why did you steal the magic items?,왜 마법 물건들을 훔쳤어?,q2_urko,,,,,0,0
+72033,PC,Player Character,Goodbye. ,안녕.,q2_urko,,,,,0,0
+72034,PC,Player Character,I have some questions for you. ,질문이 있어.,q2_urko,,,,,0,0
+72035,PC,Player Character,Tell me about the kobold who left the crypt recently.,최근에 지하실을 떠난 코볼트에 대해 말해봐.,q2_urko,,q2_knowdeekin,,,0,0

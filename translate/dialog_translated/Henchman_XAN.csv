@@ -1,0 +1,461 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+76051,Henchman,Henchman_XAN,"Xanos has no business with you. If you are looking for idle 'chit-chat', look elsewhere.",자노스는 네게 할 말이 없다. 쓸데없는 '잡담'을 원한다면 다른 데 가봐라.,XAN,,,,vs_nx0xanom_055,0,0
+76052,Henchman,Henchman_XAN,"Hmph. If you were better at this, Xanos would not have to undergo such unpleasantness.",흥. 네가 제대로 했다면 자노스가 이런 불쾌함을 겪지 않아도 됐을 텐데.,XAN,,,,vs_nx0xanom_056,0,0
+76053,Henchman,Henchman_XAN,Hold! Xanos wishes to speak!,잠깐! 자노스가 할 말이 있다!,XAN,,,,vs_nx0xanom_057,0,0
+76054,Henchman,Henchman_XAN,"Hah! It seems the dwarf has finally gotten himself into a bind, and now he needs us to come to his rescue.","하! 드워프 놈이 드디어 곤경에 빠졌고, 이제 우리가 구해주길 바라는군.",XAN,x0_d1_meet,,,vs_nx0xanom_058,0,0
+76055,Henchman,Henchman_XAN,"This desert is a vile land full of nothing but sand and death, and the quarters are half too small for anyone! What are we doing here?!","이 사막은 모래와 죽음뿐인 역겨운 땅이고, 숙소는 말도 안 되게 좁아! 도대체 여기서 뭘 하는 거야?!",XAN,x0_d1_meet,,,vs_nx0xanom_059,0,0
+76056,Henchman,Henchman_XAN,"So we are within one of the fabled Netherese flying cities, eh? There is much power to be found here, if we are watchful.",그러니까 우리가 전설의 네더릴 공중도시 안에 있다는 거군. 주의 깊게 살핀다면 여기서 엄청난 힘을 찾을 수 있을 거다.,XAN,,,,vs_nx0xanom_060,0,0
+76057,Henchman,Henchman_XAN,"You have come to ask Xanos to rejoin you, yes?",자노스에게 다시 합류하자고 요청하러 온 거지?,XAN,,,,vs_nx0xanom_061,0,0
+76058,Henchman,Henchman_XAN,What do you want?,무슨 일이냐?,XAN,,,,vs_nx0xanom_062,0,0
+76060,Henchman,Henchman_XAN,I hope you have come to take Xanos away from this caravan. These halflings grow more irritating by the minute.,자노스를 이 캐러밴에서 데려가러 왔길 바란다. 이 하플링 놈들은 시간이 갈수록 더 짜증나게 굴어.,XAN,,,,vs_nx0xanom_064,0,0
+76061,Henchman,Henchman_XAN,Xanos would prefer to join you. It is preferable to standing here doing nothing.,자노스는 네게 합류하는 게 낫겠어. 여기 서서 빈둥거리는 것보단 낫지.,XAN,,,,vs_nx0xanom_065,0,0
+77841,Henchman,Henchman_XAN,This crystal... it is like none I have seen before. Perhaps it was worth the destruction of the artifact to discover it.,이 수정은... 이전에 본 것과 다르군. 유물을 파괴한 보람이 있었나 보다.,XAN,x0_d1_hen_noline,,,,0,0
+77842,Henchman,Henchman_XAN,"I wonder how Drogan... anyone, was able to obtain a tooth like this...","드로건이... 아니 누가 됐든, 대체 어떻게 이런 이빨을 구했을까...",XAN,x0_d1_hen_noline,,,,0,0
+77843,Henchman,Henchman_XAN,A mask imbued with the power of a god. This could get us much if we chose to use it...,신의 힘이 깃든 가면. 쓰기만 한다면 엄청난 걸 얻을 수 있겠는데...,XAN,x0_d1_hen_noline,,,,0,0
+77844,Henchman,Henchman_XAN,The pieces of the ancient dead have long been known to harbor power after their... dismemberment.,고대 언데드의 조각들은 절단된 후에도 오랫동안 힘을 간직한다고 알려져 있지.,XAN,x0_d1_hen_noline,,,,0,0
+77845,Henchman,Henchman_XAN,"That... that creature is huge! How can we hope to face it directly, should it attack? May... maybe retreat would be a good decision...",저... 저 괴물은 엄청나게 크다! 공격해오면 정면으로 어떻게 맞서겠나? 어쩌면... 후퇴가 현명한 선택일지도...,XAN,x0_d1_hen_noline,,,,0,0
+77846,Henchman,Henchman_XAN,This place does not look good. We should be wary while here...,여기는 좋아 보이지 않아. 경계를 늦추지 말아야겠군...,XAN,x0_d1_hen_noline,,,,0,0
+77847,Henchman,Henchman_XAN,The kobolds flee before us! Flee before Xanos!,코볼트들이 도망친다! 자노스 앞에서 도망쳐!,XAN,x0_d1_hen_noline,,,,0,0
+77848,Henchman,Henchman_XAN,"Kobolds may not be bright, but they can be tricky... We should be wary of traps.",코볼트들은 멍청해도 교활할 수 있어... 함정을 조심해야 해.,XAN,x0_d1_hen_noline,,,,0,0
+77849,Henchman,Henchman_XAN,The gnolls captured all these people? Maybe from Blumberg... or maybe they have ranged farther still...,놀들이 이 사람들을 전부 잡아갔다고? 블럼버그에서... 아니면 더 먼 곳에서 왔을 수도 있고...,XAN,x0_d1_hen_noline,,,,0,0
+77850,Henchman,Henchman_XAN,There are kobolds in these cages as well... The gnolls seem to have captured them.,우리 안에 코볼트들도 있군... 놀들이 걔네도 잡은 모양이야.,XAN,x0_d1_hen_noline,,,,0,0
+77851,Henchman,Henchman_XAN,Why would this building be still standing? It is strange...,왜 이 건물만 멀쩡히 서 있는 거지? 이상하군...,XAN,x0_d1_hen_noline,,,,0,0
+77852,Henchman,Henchman_XAN,"This town, too, has been razed... Look! Gnolls!",이 마을도 쑥대밭이 됐구나... 봐라! 놀들이다!,XAN,x0_d1_hen_noline,,,,0,0
+77853,Henchman,Henchman_XAN,Bah! All this green makes me queasy... The hills were better...,젠장! 온통 녹색 천지라 속이 메스껍군... 언덕이 훨씬 나았어...,XAN,x0_d1_hen_noline,,,,0,0
+77854,Henchman,Henchman_XAN,These mountains are not known to be kind to travelers...,이 산맥은 여행자들에게 친절하지 않기로 유명하지...,XAN,x0_d1_hen_noline,,,,0,0
+77855,Henchman,Henchman_XAN,This is a place of great magic. A powerful force resides here...,여긴 강력한 마법이 깃든 곳이야. 막강한 힘이 머물고 있어...,XAN,x0_d1_hen_noline,,,,0,0
+77856,Henchman,Henchman_XAN,"Many of the creatures died in this battle... but I cannot tell the way it ended, nor what became of the survivors.","많은 생명체가 이 전투에서 죽었어... 하지만 어떻게 끝났는지, 생존자들이 어떻게 됐는지는 모르겠군.",XAN,x0_d1_hen_noline,,,,0,0
+77857,Henchman,Henchman_XAN,"The people here, too, seem to have fled the kobolds... or been killed.",여기 사람들도 코볼트를 피해 도망쳤거나... 살해당한 것 같아.,XAN,x0_d1_hen_noline,,,,0,0
+77858,Henchman,Henchman_XAN,A caravan has arrived? One has to wonder about their timing...,캐러밴이 도착했다고? 타이밍이 묘하군...,XAN,x0_d1_hen_noline,,,,0,0
+77859,Henchman,Henchman_XAN,"Xanos has no need of prophecies of doom and destruction. As long as Xanos has Xanos, there is nothing to fear!","자노스는 파멸과 파괴 따위의 예언은 필요 없다. 자노스에게 자노스가 있는 한, 두려울 건 없어!",XAN,x0_d1_hen_noline,,,,0,0
+77860,Henchman,Henchman_XAN,Bah! I could lead this town better than that drunkard...,젠장! 저 주정뱅이보다 내가 이 마을을 훨씬 잘 다스릴 텐데...,XAN,x0_d1_hen_noline,,,,0,0
+77861,Henchman,Henchman_XAN,"Hmph. The locals try to fight the kobolds themselves, but they do not have the power of Xanos!","흥. 마을 사람들이 직접 코볼트와 싸우려 하지만, 자노스의 힘은 없지!",XAN,x0_d1_hen_noline,,,,0,0
+77862,Henchman,Henchman_XAN,The dwarf's laboratory is downstairs. I wonder how the kobolds were able to breach its defenses?,드워프의 연구실은 아래층에 있어. 코볼트들이 어떻게 방어를 뚫었을까?,XAN,x0_d1_hen_noline,,,,0,0
+77863,Henchman,Henchman_XAN,The tremors do not stop... Xanos fears that bad things will soon happen...,진동이 멈추질 않아... 자노스는 곧 나쁜 일이 벌어질 것 같은 불길한 예감이 든다...,XAN,x0_d1_hen_noline,,,,0,0
+77864,Henchman,Henchman_XAN,The world shakes with wrath... This does not bode well for us...,세상이 분노로 흔들린다... 좋은 징조가 아니야...,XAN,x0_d1_hen_noline,,,,0,0
+77865,Henchman,Henchman_XAN,All have fallen to Xanos! Rejoice!,모두 자노스 앞에 쓰러졌다! 환호하라!,XAN,x0_d1_hen_noline,,,,0,0
+77866,Henchman,Henchman_XAN,Half of these golems have been destroyed under the iron fist of Xanos!,골렘의 절반이 자노스의 철권 아래 박살났다!,XAN,x0_d1_hen_noline,,,,0,0
+77867,Henchman,Henchman_XAN,Another has felt the true might of Xanos!,또 한 놈이 자노스의 진정한 힘을 맛봤군!,XAN,x0_d1_hen_noline,,,,0,0
+77868,Henchman,Henchman_XAN,Xanos is not afraid! Xanos will conquer all! Let us face what comes ahead and vanquish it!,자노스는 두렵지 않다! 자노스는 모든 것을 정복할 것이다! 앞에 나타나는 것들을 모조리 쓸어버리자!,XAN,x0_d1_hen_noline,,,,0,0
+77869,Henchman,Henchman_XAN,The... the creature is huge! Xanos does not think he can handle this alone...,저... 저 생명체는 엄청나게 크다! 자노스 혼자서는 감당이 안 될 것 같은데...,XAN,x0_d1_hen_noline,,,,0,0
+77870,Henchman,Henchman_XAN,This is a room of great magic... Maybe more magic than Xanos himself can wield... Be wary.,여긴 강력한 마법의 방이야... 자노스조차 다룰 수 없을 만큼의 마법일지도... 조심해라.,XAN,x0_d1_hen_noline,,,,0,0
+77871,Henchman,Henchman_XAN,The winds of death flow here... Xanos does like this...,죽음의 바람이 흐르는군... 자노스는 이게 마음에 든다...,XAN,x0_d1_hen_noline,,,,0,0
+77872,Henchman,Henchman_XAN,I know where this is going... and it makes Xanos' brain hurt. I hate mazes...,어디로 가는지 뻔하군... 자노스의 머리가 아파진다. 미로는 정말 질색이야...,XAN,x0_d1_hen_noline,,,,0,0
+77873,Henchman,Henchman_XAN,"This area is dangerous... The floor looks disturbed, and who knows what manner of creature may lurk in the dark.","여기는 위험해... 바닥이 뒤틀려 있고, 어둠 속에 무슨 괴물이 숨어 있을지 모르지.",XAN,x0_d1_hen_noline,,,,0,0
+77874,Henchman,Henchman_XAN,The stench of death and magic is upon this place...,죽음과 마법의 악취가 진동하는군...,XAN,x0_d1_hen_noline,,,,0,0
+77875,Henchman,Henchman_XAN,This place is strange to Xanos. I trust nothing I cannot understand...,여긴 자노스에게 낯설어. 이해할 수 없는 건 믿지 않는다...,XAN,x0_d1_hen_noline,,,,0,0
+77876,Henchman,Henchman_XAN,"The power of these tomes is beyond my ken... If I, too, could possess such power...",이 고서들의 힘은 내 이해를 초월해... 나도 저런 힘을 가질 수 있다면...,XAN,x0_d1_hen_noline,,,,0,0
+77877,Henchman,Henchman_XAN,Ah hah! The treasures of the Netherese! These ancient tomes are just the sort of treasures I seek!,아하! 네더릴의 보물이다! 이 고대 고서들이야말로 내가 찾던 보물이지!,XAN,x0_d1_hen_noline,,,,0,0
+77878,Henchman,Henchman_XAN,Insects will be squashed beneath Xanos' great heel!,벌레 따위는 자노스의 발꿈치에 짓밟힐 뿐이다!,XAN,x0_d1_hen_noline,,,,0,0
+77879,Henchman,Henchman_XAN,"With all the power the Netheril had, something could turn all their works to dust... Hope that it does not find us as well.","네더릴이 가진 모든 힘을 가지고도, 뭔가가 그들의 업적을 먼지로 만들어버렸어... 그게 우리도 찾지 않길 바라자.",XAN,x0_d1_hen_noline,,,,0,0
+77880,Henchman,Henchman_XAN,"These halls they've dug up... they're ancient. The knowledge of the Netherese could lie within, demons or not.","이 복도들은... 고대의 것이야. 악마가 있든 말든, 네더릴의 지식이 여기 있을 거다.",XAN,x0_d1_hen_noline,,,,0,0
+77881,Henchman,Henchman_XAN,Xanos thinks that these archeologists may have dug up something more than what they expected...,자노스가 보기엔 이 고고학자 놈들이 예상보다 훨씬 더 많은 걸 파낸 것 같군...,XAN,x0_d1_hen_noline,,,,0,0
+77882,Henchman,Henchman_XAN,Why worship a god if he never listens? These followers of Ao are only deluding themselves...,듣지도 않는 신을 왜 숭배하는 거지? 이 에이오 신자들은 자기기만에 빠져 있을 뿐이야...,XAN,x0_d1_hen_noline,,,,0,0
+77883,Henchman,Henchman_XAN,The water in the oasis flows once more! Now I can finally get a damn drink...,오아시스에 물이 다시 흐른다! 드디어 마실 수 있겠군...,XAN,x0_d1_hen_noline,,,,0,0
+77884,Henchman,Henchman_XAN,The ancient dead are powerful indeed... but none so powerful as Xanos!,고대 언데드들은 확실히 강력하지... 하지만 자노스만큼은 아니지!,XAN,x0_d1_hen_noline,,,,0,0
+77885,Henchman,Henchman_XAN,That statue... I recognize its like. It is of Jergal... There is evil at work here.,저 조각상은... 알겠어. 제르갈의 것이군... 여기서 사악한 일이 벌어지고 있어.,XAN,x0_d1_hen_noline,,,,0,0
+77886,Henchman,Henchman_XAN,Dry oasis... old bridge... older tombs... This place is ancient and dead.,마른 오아시스... 낡은 다리... 더 오래된 무덤들... 여긴 고대이자 죽음 그 자체야.,XAN,x0_d1_hen_noline,,,,0,0
+77887,Henchman,Henchman_XAN,"This temple is no longer a sacred place, and the dead lie restless. But much power could reside in a place like this...","이 신전은 더 이상 성스럽지 않고, 죽은 자들이 불안하게 누워 있어. 하지만 이런 곳엔 막강한 힘이 깃들어 있을 수 있지...",XAN,x0_d1_hen_noline,,,,0,0
+77888,Henchman,Henchman_XAN,This oasis is useless! There is no water here!,이 오아시스는 쓸모없어! 물이 한 방울도 없잖아!,XAN,x0_d1_hen_noline,,,,0,0
+77889,Henchman,Henchman_XAN,A foul sacrifice in progress... a helpless person in need... Xanos thinks that heroes are made in times like these!,사악한 희생 의식이 진행 중이고... 무력한 희생자가 있군... 자노스가 보기엔 영웅은 이럴 때 탄생하는 법이지!,XAN,x0_d1_hen_noline,,,,0,0
+77890,Henchman,Henchman_XAN,"These caves seem endless... Who knows how far down they go? But the farther they go, the more we might find within.","이 동굴들은 끝이 없어 보여... 얼마나 깊은지 누가 알겠나? 하지만 깊을수록, 더 많은 걸 찾을 수 있겠지.",XAN,x0_d1_hen_noline,,,,0,0
+77891,Henchman,Henchman_XAN,These holes must lead into their lair. Who knows what may lurk within... but it is the guide we need.,이 구멍들은 놈들의 소굴로 이어질 거야. 안에 뭐가 숨어 있을지 모르지만... 이게 우리가 찾던 단서야.,XAN,x0_d1_hen_noline,,,,0,0
+77892,Henchman,Henchman_XAN,This is one of the holes those scorpion creatures might have come from. We should be on our guard.,이건 저 전갈 괴물들이 나왔을 구멍 중 하나야. 경계를 늦추면 안 돼.,XAN,x0_d1_hen_noline,,,,0,0
+77893,Henchman,Henchman_XAN,Bah! Then I shall remain here until I find something useful to do.,젠장! 그럼 뭔가 쓸모 있는 일을 찾을 때까지 여기 남아 있겠어.,XAN,,,,,0,0
+77894,Henchman,Henchman_XAN,Good! You see the merit in having someone competent accompany you.,좋아! 능력 있는 자와 동행하는 게 얼마나 좋은지 알아보는군.,XAN,x0_d1_hen_hired,,,,0,0
+77895,Henchman,Henchman_XAN,Grrr... These small creatures will not last long should Xanos get angry...,으르렁... 자노스가 화나면 이 꼬맹이들은 오래 못 버틸 거야...,XAN,,,,,0,0
+77896,Henchman,Henchman_XAN,Finally! Now I can be rid of them and have something useful to do!,드디어! 이제 저놈들한테서 벗어나서 제대로 된 일을 할 수 있겠군!,XAN,x0_d1_hen_hired,,,,0,0
+77897,Henchman,Henchman_XAN,"So have you come to your senses? You need Xanos' skills, now, yes?",정신 차렸나? 이제 자노스의 실력이 필요한 거지?,XAN,,,,vs_nx0xanom_063,0,0
+77898,Henchman,Henchman_XAN,Bah! Go to your doom alone if you wish! I will be here if your senses return.,젠장! 혼자 죽고 싶으면 그렇게 해! 정신 차리면 여기 있을 테니.,XAN,,,,,0,0
+77899,Henchman,Henchman_XAN,"Very well, then. I shall accompany you.",좋아. 동행하지.,XAN,x0_d1_hen_hired,,,,0,0
+77900,Henchman,Henchman_XAN,What?! You would turn Xanos aside and make your way without him?,뭐라고?! 자노스를 두고 혼자 가겠다는 거냐?,XAN,,,,,0,0
+77901,Henchman,Henchman_XAN,"Ah, so you have not lost your mind completely. Only with Xanos can you hope to succeed.","아, 완전히 미치진 않았군. 자노스와 함께해야만 성공할 수 있어.",XAN,,,,,0,0
+77902,Henchman,Henchman_XAN,"*grumble* Very well, I shall remain here. We shall join again when you return.","*투덜* 좋아, 여기 남아 있을게. 돌아오면 다시 합류하지.",XAN,,,,,0,0
+77903,Henchman,Henchman_XAN,"Bah! Leave if you will, but you shall not get far without me! I will return to Drogan's and wait there.","젠장! 가고 싶으면 가, 하지만 나 없인 멀리 못 가! 드로건 집으로 돌아가서 거기서 기다리겠어.",XAN,,,,,0,0
+77904,Henchman,Henchman_XAN,Xanos will increase his skills and powers as he sees fit.,자노스는 원하는 대로 실력과 능력을 키울 거다.,XAN,,,,,0,0
+77905,Henchman,Henchman_XAN,*You* would advise *me* on tactics?,*네*가 *나*한테 전술을 조언하겠다고?,XAN,,,,,0,0
+77906,Henchman,Henchman_XAN,If that is all you wish...,그게 다라면...,XAN,,,,,0,0
+77907,Henchman,Henchman_XAN,Very well. Caution and observation shall be sacrificed to speed.,좋아. 신중함과 관찰은 속도를 위해 포기하지.,XAN,,,,,0,0
+77908,Henchman,Henchman_XAN,"Only those who Xanos wishes to see him, will.",자노스가 보이길 원하는 자들만 볼 수 있어.,XAN,,,,,0,0
+77909,Henchman,Henchman_XAN,You can attempt them on your own then.,그럼 혼자 해봐.,XAN,,,,,0,0
+77910,Henchman,Henchman_XAN,"Indeed. Where you have failed, Xanos shall succeed!",그래. 네가 실패한 곳에서 자노스가 성공할 거야!,XAN,,,,,0,0
+77911,Henchman,Henchman_XAN,"How far apart should we remain, then?",얼마나 떨어져 있어야 하지?,XAN,,,,,0,0
+77912,Henchman,Henchman_XAN,It shall be as you wish.,네가 원하는 대로 하지.,XAN,,,,,0,0
+77913,Henchman,Henchman_XAN,None will stand against Xanos!,누구도 자노스를 막을 수 없다!,XAN,,,,,0,0
+77914,Henchman,Henchman_XAN,"Very well, then.",알았어.,XAN,,,,,0,0
+77915,Henchman,Henchman_XAN,"*sigh* Very well, then. Here is my equipment.",*한숨* 좋아. 여기 내 장비다.,XAN,,,,,0,0
+77916,Henchman,Henchman_XAN,"Eh. Maybe. Allow Xanos to rummage through your things. If something is found that is identifiable, Xanos will tell you. Good enough?",에. 아마도. 자노스가 네 물건 좀 뒤져볼게. 감정할 수 있는 게 발견되면 말해주지. 충분하지?,XAN,,,,,0,0
+77917,Henchman,Henchman_XAN,Now witness the fury of Xanos!,이제 자노스의 분노를 목격하라!,XAN,,,,,0,0
+77918,Henchman,Henchman_XAN,A spell then? What is it you wish me to cast?,주문? 뭘 시전하길 원하는 거야?,XAN,,,,,0,0
+77919,Henchman,Henchman_XAN,"What do you really want, then?",진짜로 원하는 게 뭔데?,XAN,x0_d1_cancelcast,,,,0,0
+77920,Henchman,Henchman_XAN,This is what you want me to cast?,이걸 시전하라는 거야?,XAN,,,,,0,0
+77921,Henchman,Henchman_XAN,Who do you want me to cast this on?,누구한테 시전하라는 거지?,XAN,,,,,0,0
+77922,Henchman,Henchman_XAN,Xanos will do this...,자노스가 하지...,XAN,,,,,0,0
+77923,Henchman,Henchman_XAN,You wish to mine my wisdom? The wisdom of Xanos is not something to be taken lightly!,내 지혜를 얻고 싶은 거냐? 자노스의 지혜는 가볍게 여길 게 아니야!,XAN,,,,,0,0
+77924,Henchman,Henchman_XAN,"Xanos will survive. Indeed, I shall survive better than all those who have fallen before!","자노스는 살아남을 거다. 그래, 앞서 쓰러진 모든 놈들보다 훨씬 더 잘 살아남을 거야!",XAN,,,,,0,0
+77925,Henchman,Henchman_XAN,What else is there you wish to speak of?,또 뭘 얘기하고 싶은데?,XAN,,,,,0,0
+77926,Henchman,Henchman_XAN,"An adventurer does not speak of the hardships he endures, but... I am fine.",모험가는 자신의 고난을 떠벌리지 않지만... 난 괜찮아.,XAN,,,,,0,0
+77927,Henchman,Henchman_XAN,Everything is the same as it always has been. It is a cloth that my name shall be writ large across.,모든 게 늘 그랬듯 똑같아. 이건 내 이름이 크게 새겨질 역사야.,XAN,,,,,0,0
+77928,Henchman,Henchman_XAN,"In time I shall be even stronger, and then our current problems will seem as nothing.","시간이 지나면 더 강해질 거고, 그럼 지금의 문제들은 아무것도 아닌 게 될 거야.",XAN,,,,,0,0
+77929,Henchman,Henchman_XAN,I am as well as may be expected given our current situation.,현재 상황을 고려하면 예상할 만큼은 괜찮아.,XAN,,,,,0,0
+77930,Henchman,Henchman_XAN,There is a foreboding feeling in the air... As if destiny moved against us...,공기 중에 불길한 느낌이 든다... 마치 운명이 우리를 거스르는 것 같아...,XAN,,,,,0,0
+77931,Henchman,Henchman_XAN,"It would be wiser for you to attend to your own affairs than mine, <FirstName>.","네 일이나 신경 쓰는 게 더 현명할 거야, <FirstName>.",XAN,,,,,0,0
+77932,Henchman,Henchman_XAN,"Xanos may not be able to see, but he can hear! All shall fall before me! As soon as I can find them...","자노스는 볼 수 없지만, 들을 수는 있다! 모두 내 앞에 쓰러질 것이다! 찾기만 하면...",XAN,,,,,0,0
+77933,Henchman,Henchman_XAN,"I am injured, true, but more than competent enough to solve any problems which you seem incapable of handling.","다쳤지만, 네가 해결 못 하는 문제들을 처리하기엔 충분해.",XAN,,,,,0,0
+77934,Henchman,Henchman_XAN,Xanos has been injured. It may not be advisable for me to stay in harm's way much longer...,자노스가 부상을 입었어. 더 이상 위험 속에 머물러선 안 될 것 같은데...,XAN,,,,,0,0
+77935,Henchman,Henchman_XAN,I am close to death and need healing soon... My journey cannot end this way!,"죽음 직전이야, 곧 치유가 필요해... 내 여정이 이렇게 끝날 순 없어!",XAN,,,,,0,0
+77936,Henchman,Henchman_XAN,"Cool, clammy skin... Pale complexion... Fever... It would seem that Xanos has been poisoned... *cough* Ohhh...",차갑고 축축한 피부... 창백한 안색... 열... 자노스가 중독됐군... *기침* 오오...,XAN,,,,,0,0
+77937,Henchman,Henchman_XAN,Xanos is strong! Xanos is healthy! Xanos... has a strange itching sensation... Xanos maybe is not so well...,자노스는 강하다! 자노스는 건강하다! 자노스는... 이상하게 가려워... 자노스 어쩌면 별로 안 좋을지도...,XAN,,,,,0,0
+77938,Henchman,Henchman_XAN,I am currently only pursuing my magical studies.,지금은 마법 연구만 하고 있어.,XAN,,,,,0,0
+77939,Henchman,Henchman_XAN,I am currently only pursuing my martial studies.,지금은 무술 연구만 하고 있어.,XAN,,,,,0,0
+77940,Henchman,Henchman_XAN,"Hmm... perhaps I shall study as you have suggested... Yes, that would be wise.","흠... 네 말대로 공부하는 게 나을 것 같군... 그래, 현명하겠어.",XAN,x0_d1_level0,,,,0,0
+77941,Henchman,Henchman_XAN,I am currently pursuing both martial and magical studies.,지금은 무술과 마법 연구 둘 다 하고 있어.,XAN,,,,,0,0
+77942,Henchman,Henchman_XAN,"Hmm... perhaps I shall study as you have suggested... Yes, that would be wise.","흠... 네 말대로 공부하는 게 나을 것 같군... 그래, 현명하겠어.",XAN,,,,,0,0
+77943,Henchman,Henchman_XAN,"Hmm... perhaps I shall study as you have suggested... Yes, that would be wise.","흠... 네 말대로 공부하는 게 나을 것 같군... 그래, 현명하겠어.",XAN,x0_d1_level2,,,,0,0
+77944,Henchman,Henchman_XAN,"Hmm... perhaps I shall study as you have suggested... Yes, that would be wise.","흠... 네 말대로 공부하는 게 나을 것 같군... 그래, 현명하겠어.",XAN,x0_d1_level1,,,,0,0
+77945,Henchman,Henchman_XAN,"Hah! When your own ring runs low on focus crystals, you ask me for mine? Do not worry, little <Race>. Xanos keeps his safe.","하! 네 반지에 초첨 수정이 떨어지니까 내 걸 달라고? 걱정 마, 작은 <Race>야. 자노스는 자기 걸 안전하게 보관하지.",XAN,,,,,0,0
+77946,Henchman,Henchman_XAN,Xanos knows of your intentions... The ring and the crystals that power it are kept close and safe... for Xanos alone!,자노스는 네 속셈을 안다... 반지와 수정들은 가까이 안전하게 보관돼 있어... 자노스만을 위해!,XAN,,,,,0,0
+77947,Henchman,Henchman_XAN,"Did Drogan not show you how focus crystals are made? Remember the little machine in the lab inside his bedroom? If it is more crystals you are sniffing about for, look for them there, instead.",드로건이 초첨 수정 만드는 법을 안 보여줬나? 침실 안 연구실에 있는 작은 기계 기억나지? 수정이 더 필요하면 거기서 찾아봐.,XAN,,,,,0,0
+77948,Henchman,Henchman_XAN,"Ah, well... I do not know. The future seems so far away at times like this.","아, 글쎄... 모르겠어. 이럴 땐 미래가 너무 멀게 느껴진다.",XAN,,,,,0,0
+77949,Henchman,Henchman_XAN,Bah! I don't know anymore... Things used to be so clear... so certain.,젠장! 더 이상 모르겠어... 예전엔 모든 게 명확했는데... 확실했는데.,XAN,,,,,0,0
+77950,Henchman,Henchman_XAN,"The world was in order and my destiny was secure. But now... but now things have gone far, far beyond what I had thought.",세상은 질서 있었고 내 운명은 확고했어. 하지만 이제... 이제 일들이 내가 생각했던 것보다 훨씬 더 멀리 나아가 버렸어.,XAN,,,,,0,0
+77951,Henchman,Henchman_XAN,I... I don't think I was ready for this... for any of this. It is only now that I have had time to think that I can... fully appreciate this.,난... 이것에 대해 준비가 안 됐던 것 같아... 이 모든 것에. 이제야 생각할 시간이 생겨서... 온전히 이해할 수 있게 됐어.,XAN,,,,,0,0
+77952,Henchman,Henchman_XAN,"Reality has always been there. It has shaped the ways I have gone, and the opportunities I have had... all for myself.",현실은 항상 거기 있었어. 내가 걸어온 길과 가졌던 기회들을 만들었지... 모두 나 자신을 위해.,XAN,,,,,0,0
+77953,Henchman,Henchman_XAN,I know. I will not. But... but maybe things have changed... Maybe the world has... Maybe it is me...,알아. 그러지 않을 거야. 하지만... 어쩌면 상황이 변했을지도... 어쩌면 세상이... 어쩌면 나일지도...,XAN,,,,,0,0
+77954,Henchman,Henchman_XAN,"No, it will not. I do not complain of the fate this life has given me... but maybe it has changed... Maybe I have...","아니, 그러지 않을 거야. 이 삶이 준 운명에 대해 불평하지 않아... 하지만 어쩌면 변했을지도... 어쩌면 내가...",XAN,,,,,0,0
+77955,Henchman,Henchman_XAN,"I have, maybe. The world has, perhaps. I don't even know anymore.",어쩌면 그랬을지도. 세상도 어쩌면. 더 이상 뭐가 뭔지 모르겠어.,XAN,,,,,0,0
+77956,Henchman,Henchman_XAN,You once told me that no one can be an island unto themselves... Or was that master Drogan? Maybe it was him... but I remember that lesson well.,"네가 언젠가 말했었지, 아무도 혼자 섬이 될 수 없다고... 아니면 드로건 스승이었나? 어쩌면 그였을지도... 하지만 그 교훈은 잘 기억해.",XAN,,,,,0,0
+77957,Henchman,Henchman_XAN,"You could not tell to look at me, or to listen to the way I speak, but I remember it every day, and every day it strikes home more and more to me.","날 보거나 말하는 방식을 들어선 모르겠지만, 매일 그걸 기억하고, 매일 더 와닿아.",XAN,,,,,0,0
+77958,Henchman,Henchman_XAN,"Hah! Like it or not, you will! This is my time, <FirstName>, and I will spend it as I can! It is the least you can offer me!","하! 좋든 싫든 들어야 할 거야! 이건 내 시간이야, <FirstName>, 내가 하고 싶은 대로 쓸 거야! 이 정도는 해줄 수 있잖아!",XAN,,,,,0,0
+77959,Henchman,Henchman_XAN,*sigh* But it doesn't matter now I guess... I don't know what's come over me...,*한숨* 하지만 이제 상관없는 것 같아... 내게 무슨 일이 생긴 건지 모르겠어...,XAN,,,,,0,0
+77960,Henchman,Henchman_XAN,Maybe... maybe it was the time I spent encased in stone. It was... indescribable. Maybe it affected me.,어쩌면... 돌에 갇혀 있던 시간 때문일지도. 그건... 형언할 수 없었어. 어쩌면 그게 영향을 미쳤을지도.,XAN,,,,,0,0
+77961,Henchman,Henchman_XAN,Bah! You're always so intransigent! It's always the same with you!,젠장! 넌 항상 그렇게 고집불통이야! 항상 똑같다고!,XAN,,,,,0,0
+77962,Henchman,Henchman_XAN,But.. maybe that is a good thing. To have an island of stability when everything else seems so far...,하지만... 어쩌면 그게 좋은 걸지도. 다른 모든 게 멀게 느껴질 때 안정적인 섬을 가지는 건...,XAN,,,,,0,0
+77963,Henchman,Henchman_XAN,I think... I think I will put my destiny... my plans on hold for a while.,생각해보니... 내 운명을... 내 계획을 잠시 접어둬야 할 것 같아.,XAN,,,,,0,0
+77964,Henchman,Henchman_XAN,Bah! It is not failure I worry about. I... I just need a little time maybe. To get accustomed to the way things seem now.,젠장! 걱정하는 건 실패가 아니야. 난... 그냥 조금 시간이 필요할 뿐이야 어쩌면. 지금 상황에 익숙해지려면.,XAN,,,,,0,0
+77965,Henchman,Henchman_XAN,"I think... I would stay in your company if you would let me. I do not think there is any place that I would rather be, right now.","생각해보니... 허락해준다면 너랑 함께 있고 싶어. 지금은, 여기 말고는 있고 싶은 곳이 없어.",XAN,,,,,0,0
+77966,Henchman,Henchman_XAN,"We have spent much time together, you and I, and in spite of all that has happened to us, I still know you... Who you are.","우리 함께 많은 시간을 보냈어, 너와 나, 우리에게 벌어진 모든 일에도 불구하고, 난 여전히 널 알아... 네가 누군지를.",XAN,,,,,0,0
+77967,Henchman,Henchman_XAN,"I will stay with you for as long as I need, or for as long as you'll have me. Together we shall find a way to end this task... and maybe, I will find a way to go to my future as well.","필요한 만큼, 아니면 네가 받아들여주는 한 함께 있을게. 함께 이 임무를 끝낼 방법을 찾을 거야... 그리고 어쩌면, 나도 내 미래로 갈 길을 찾겠지.",XAN,,,,,0,0
+77968,Henchman,Henchman_XAN,Come. We should speak no more of this. Let us continue on our way.,가자. 이 얘기는 그만하고. 계속 나아가자.,XAN,,,,,0,0
+77969,Henchman,Henchman_XAN,"But... I am glad that you have been here, whatever your intentions may have been.","하지만... 네 속셈이 뭐였든, 네가 여기 있어줘서 기뻐.",XAN,,,,,0,0
+77970,Henchman,Henchman_XAN,I... I just need a little time maybe. To get accustomed to the way things seem now.,난... 그냥 조금 시간이 필요할 뿐이야 어쩌면. 지금 상황에 익숙해지려면.,XAN,,,,,0,0
+77971,Henchman,Henchman_XAN,"Yes, it has affected me. Unlike you, it seems. Nothing seems to have fazed you... not really, at any rate.","그래, 영향을 받았어. 너와는 달리. 아무것도 널 놀라게 하지 않은 것 같은데... 실제로는.",XAN,,,,,0,0
+77972,Henchman,Henchman_XAN,I don't know... I don't know what to think anymore. I just... it...,모르겠어... 더 이상 뭘 생각해야 할지 모르겠어. 그냥... 그게...,XAN,,,,,0,0
+77973,Henchman,Henchman_XAN,Hah! Xanos is as strong as ever! Only... I just...,하! 자노스는 언제나처럼 강하다! 단지... 그냥...,XAN,,,,,0,0
+77974,Henchman,Henchman_XAN,Hah! 'Gentle King Xanos'! I like that one!,하! '부드러운 왕 자노스'! 그거 마음에 드는군!,XAN,,,,,0,0
+77975,Henchman,Henchman_XAN,You always were the funny one... even when you weren't trying to be! Hah! But you always spoke your mind; that is true.,넌 항상 재미있었지... 그러려고 하지 않을 때도! 하! 하지만 항상 솔직했어; 그건 사실이야.,XAN,,,,,0,0
+77976,Henchman,Henchman_XAN,"I had read a great many books before we left master Drogan's. Both books on politics and kingdoms, and on the sorcerer-kings of old, who had carved their kingdoms from the land as I will.","드로건 스승 집을 떠나기 전에 책을 많이 읽었어. 정치와 왕국에 관한 책들, 옛날 요술사 왕들에 관한 책들, 내가 그럴 것처럼 땅에서 왕국을 개척했던 자들 말이야.",XAN,,,,,0,0
+77977,Henchman,Henchman_XAN,I have had much time to think of the society I would make when I ruled with absolute power. It is a surprisingly difficult task to balance all that would need to be balanced in harmony.,절대권력으로 지배할 때 만들 사회에 대해 생각할 시간이 많았어. 모든 걸 조화롭게 균형 맞추는 건 놀랍도록 어려운 일이더라.,XAN,,,,,0,0
+77978,Henchman,Henchman_XAN,"Hah! Neither would Xanos not that long ago, but a happy kingdom is one that can achieve much more than an unhappy one.","하! 얼마 전의 자노스도 그랬겠지만, 행복한 왕국이 불행한 왕국보다 훨씬 더 많은 걸 이뤄낼 수 있어.",XAN,,,,,0,0
+77979,Henchman,Henchman_XAN,"It is far better to be loved by the subjects than to be hated by them. You never know when a dissatisfied subject will turn on you, or who may aid him in his cause, but happy subjects... you can tell their intentions in their eyes.","백성들한테 미움받는 것보다 사랑받는 게 훨씬 나아. 불만 있는 백성이 언제 배신할지, 누가 도울지 절대 모르지만, 행복한 백성들은... 눈빛만 봐도 속내를 알 수 있어.",XAN,,,,,0,0
+77980,Henchman,Henchman_XAN,"Do not think that I am being overly sentimental by seeking their happiness. No, it is very much self-preservation that causes me to seek this.","그들의 행복을 추구한다고 해서 내가 지나치게 감상적이라고 생각하지 마. 아니, 이건 철저히 자기 보존 때문이야.",XAN,,,,,0,0
+77981,Henchman,Henchman_XAN,"You... you're joking, right? Happiness is not an end in and of itself. One who is happy will be complacent, and do nothing more than... than exist!","농담... 하는 거지? 행복이 그 자체로 목적은 아니야. 행복한 놈은 안주하게 되고, 그냥... 존재하는 것 이상은 아무것도 안 하게 돼!",XAN,,,,,0,0
+77982,Henchman,Henchman_XAN,"As much as people may complain and moan about the hardships in their life, it is by such struggles that their own worth is defined.","사람들이 삶의 고난에 대해 아무리 불평해도, 그런 투쟁을 통해 자신의 가치가 정의되는 거야.",XAN,,,,,0,0
+77983,Henchman,Henchman_XAN,"After all, look at Xanos! I have led a troubled life, and for that, I am destined for greatness! Hah!","결국, 자노스를 봐! 난 고난 많은 삶을 살았고, 그래서 위대함을 향한 운명을 타고났어! 하!",XAN,,,,,0,0
+77984,Henchman,Henchman_XAN,"Bah! Compared to some, perhaps not. It is not only the troubles one faces that define you, but also your reactions to them. Will you face the pressure, or cave under it?","젠장! 어떤 놈들과 비교하면 아닐지도. 널 정의하는 건 마주하는 고난만이 아니라 그것에 대한 반응이기도 하지. 압박에 맞설 건가, 그 아래 무너질 건가?",XAN,,,,,0,0
+77985,Henchman,Henchman_XAN,"Some may have been crushed by the life they lead, but Xanos... Xanos will prevail above all! Xanos will never be tread on the ground like so much dirt!","어떤 놈들은 삶에 짓눌렸을지 몰라도, 자노스는... 자노스는 모든 것 위에 우뚝 설 거야! 자노스는 절대 흙처럼 땅에 짓밟히지 않아!",XAN,,,,,0,0
+77986,Henchman,Henchman_XAN,"It is you, above all others who should realize this by now. It is by my own indomitable spirit that I will prevail! I will drag myself to the very heights of power by my teeth if I have to!",넌 무엇보다도 이제 이걸 깨달아야 해. 내가 이기는 건 나의 불굴의 정신 덕분이야! 필요하다면 이빨로라도 권력의 정상까지 기어올라갈 거야!,XAN,,,,,0,0
+77987,Henchman,Henchman_XAN,*sigh* But such things can be wearying of the soul sometimes. Sometimes it is so much easier to want to stop... to rest.,*한숨* 하지만 그런 일들은 때로 영혼을 지치게 해. 때론 멈추고 싶어지는 게... 쉬고 싶어.,XAN,,,,,0,0
+77988,Henchman,Henchman_XAN,"I do not give up on my goal, though. I will prevail! Destiny will be mine!",하지만 목표를 포기하진 않아. 이길 거야! 운명은 내 거야!,XAN,,,,,0,0
+77989,Henchman,Henchman_XAN,Hah! You think that I give up on my great goal? Never!,하! 내가 위대한 목표를 포기한다고 생각해? 절대!,XAN,,,,,0,0
+77990,Henchman,Henchman_XAN,"Everyone does need rest, though. Perhaps a little sleep... to regain my strength. At times it feels as though I have been wandering for years through lands I have never expected to see...",하지만 모두에게 휴식은 필요하지. 어쩌면 좀 자는 게... 힘을 회복하려면. 때론 결코 보리라 생각지 못한 땅을 수년간 헤맨 것처럼 느껴져...,XAN,,,,,0,0
+77991,Henchman,Henchman_XAN,"Bah! I grow melancholy and thoughtful in my old age... Enough of this! Let us continue on our way, then.",젠장! 늙어서 우울하고 사색적이 되는군... 이제 그만! 계속 가자.,XAN,,,,,0,0
+77992,Henchman,Henchman_XAN,"I know not what your destiny is, little <Race>, nor how you will react to the pressures this journey puts upon you. Whatever path you choose, Xanos will prevail!","네 운명이 뭔지, 작은 <Race>야, 이 여정이 네게 가하는 압박에 어떻게 반응할지 모르겠어. 어떤 길을 선택하든, 자노스는 이길 거야!",XAN,,,,,0,0
+77993,Henchman,Henchman_XAN,"Bah! Compared to some, perhaps my troubles are not so harsh. It is not only the troubles one faces that define you, but also your reactions to them. Will you face the pressure, or cave under it.","젠장! 어떤 놈들과 비교하면 내 고난은 그리 가혹하지 않을지도. 널 정의하는 건 마주하는 고난만이 아니라 그것에 대한 반응이기도 하지. 압박에 맞설 건가, 그 아래 무너질 건가.",XAN,,,,,0,0
+77994,Henchman,Henchman_XAN,Indeed it is not! I never claimed to be out for anyone but Xanos!,정말 그렇지 않아! 자노스 말고는 누구도 위하지 않는다고 주장한 적 없어!,XAN,,,,,0,0
+77995,Henchman,Henchman_XAN,"By keeping my subjects happy, I can avoid raising their ire. This has been the downfall of all oppressive tyrants in the past. But I cannot keep them too happy...",백성들을 행복하게 해서 분노를 피할 수 있어. 이게 과거 모든 폭군들의 몰락이었지. 하지만 너무 행복하게 할 순 없어...,XAN,,,,,0,0
+77996,Henchman,Henchman_XAN,"I do not follow in their footsteps. No, no, Xanos is not that simple. Rather, I build upon their mistakes. I correct them.","그들의 발자취를 따르지 않아. 아니, 자노스는 그렇게 단순하지 않아. 오히려, 그들의 실수 위에 세워. 바로잡는 거지.",XAN,,,,,0,0
+77997,Henchman,Henchman_XAN,"Ah... Now that is a good question, my friend. One that I cannot find an easy answer to.","아... 좋은 질문이군, 친구여. 쉽게 답할 수 없는.",XAN,,,,,0,0
+77998,Henchman,Henchman_XAN,I do not think that I would like to stay here in the north. It is too cold. Too uninhabited.,이 북쪽에 머물고 싶진 않아. 너무 춥고. 인적도 드물고.,XAN,,,,,0,0
+77999,Henchman,Henchman_XAN,"No, I am very much a people person. I think I will go south to more populous lands. It is there that I can seek my fortune and destiny on my own.","아니, 난 사람을 좋아하는 편이야. 더 사람 많은 땅으로, 남쪽으로 갈 거야. 거기서 혼자 내 운명과 행운을 찾을 수 있어.",XAN,,,,,0,0
+78000,Henchman,Henchman_XAN,"Hah! I am not gone yet! We still have time together, you and I, and I am thinking that our greatest challenges may yet lie ahead.","하! 아직 안 갔어! 우리에게 아직 함께할 시간이 있어, 너와 나, 가장 큰 도전들이 아직 앞에 놓여 있을 거라 생각해.",XAN,,,,,0,0
+78001,Henchman,Henchman_XAN,But it is nice to dream sometimes. Dream of what will happen when I finally am strong enough to make my wishes a reality.,하지만 때론 꿈을 꾸는 것도 좋지. 내가 마침내 내 소망을 현실로 만들 만큼 강해졌을 때 무슨 일이 일어날지 꿈꾸는 것.,XAN,,,,,0,0
+78002,Henchman,Henchman_XAN,"I will go south, to warmer lands. I will find a nice city or two. Ones dealing with a little bit of instability, or suffering under harsh rulership.","남쪽으로, 더 따뜻한 땅으로 갈 거야. 좋은 도시 하나 둘을 찾을 거고. 약간 불안정하거나, 가혹한 통치 아래 고통받는 곳들.",XAN,,,,,0,0
+78003,Henchman,Henchman_XAN,"It is then that Xanos will step in and assist the locals, taking charge of their efforts, and bringing my own name forward. In such a fashion I will gain my place in the world.","그때 자노스가 개입해서 지역 주민들을 도우며 그들의 노력을 이끌고, 내 이름을 내세울 거야. 그런 식으로 세상에서 내 자리를 얻는 거지.",XAN,,,,,0,0
+78004,Henchman,Henchman_XAN,Barbaric?? Hardly! It is a well-used and time-honored tradition. It is as much a part of politics as... as... rebellion...,야만적?? 천만에! 이건 검증된 전통이야. 정치의 일부지... 반란만큼이나...,XAN,,,,,0,0
+78005,Henchman,Henchman_XAN,"I suppose that is not a good example, but it is not that unnatural a thing to happen! And it is not as if I would be a bad ruler. I, Xanos, would be the greatest ruler! Hahahah!","좋은 예는 아닌 것 같지만, 그렇게 부자연스러운 일은 아니야! 그리고 내가 나쁜 통치자가 될 것도 아니고. 나, 자노스는 가장 위대한 통치자가 될 거야! 하하하!",XAN,,,,,0,0
+78006,Henchman,Henchman_XAN,"Indeed, for it is the beginning only. Soon all will see the virtue in Xanos' rule, and others will come flocking to my banner. It will be only a matter of time before my empire expands.","그래, 이건 시작일 뿐이니까. 곧 모두가 자노스 통치의 미덕을 보게 될 거고, 다른 놈들이 내 깃발 아래 모여들 거야. 내 제국이 확장되는 건 시간문제야.",XAN,,,,,0,0
+78007,Henchman,Henchman_XAN,"Then all the world shall know of Xanos. They shall tremble at his wrath, weep for his sadness, and cry out in joy for his happiness!","그럼 온 세상이 자노스를 알게 될 거야. 그들은 내 분노에 떨고, 내 슬픔에 눈물 흘리고, 내 기쁨에 환호할 거야!",XAN,,,,,0,0
+78008,Henchman,Henchman_XAN,"But that is far in the future from now. In the present, there is still much we can do that should be done. Let us continue on our way, my friend.","하지만 그건 먼 미래의 일이야. 지금은, 해야 할 일이 아직 많아. 계속 가자, 친구여.",XAN,,,,,0,0
+78009,Henchman,Henchman_XAN,"Hah! If that day should come, many years from now, I will not forget our friendship and travels together, little <race>. Do not fear, I will try to be gentle with you.","하! 그날이 온다면, 지금부터 여러 해 후, 작은 <race>야, 우리 우정과 함께한 여행을 잊지 않을 거야. 걱정 마, 너한테 부드럽게 대하려 노력할게.",XAN,,,,,0,0
+78010,Henchman,Henchman_XAN,"Hah! If you prove yourself competent in our travels together, little <Race>, perhaps you will have a place at my side one day. An advisor to the great king Xanos!","하! 우리가 함께 여행하는 동안 능력을 증명한다면, 작은 <Race>야, 어쩌면 언젠가 내 곁에 자리가 있을지도. 위대한 왕 자노스의 조언자로!",XAN,,,,,0,0
+78011,Henchman,Henchman_XAN,"Bah! It is not nonsense! It is a vision of the future! I, Xanos, have been blessed with this sight... with this knowledge, and I will see it through until the end!","젠장! 헛소리가 아니야! 이건 미래의 비전이야! 나, 자노스는 이 통찰을... 이 지식을 받았고, 끝까지 관철할 거야!",XAN,,,,,0,0
+78012,Henchman,Henchman_XAN,"I do not like the tone in your voice... You disapprove, I think. My methods are a well-used and time-honored tradition. They are as much a part of politics as... as... rebellion...",네 목소리 어조가 마음에 안 드는데... 반대하는군. 내 방법은 검증된 전통이야. 정치의 일부지... 반란만큼이나...,XAN,,,,,0,0
+78013,Henchman,Henchman_XAN,Of course! It is a well-used and time-honored tradition. It is as much a part of politics as... as... rebellion...,물론이지! 이건 검증된 전통이야. 정치의 일부지... 반란만큼이나...,XAN,,,,,0,0
+78014,Henchman,Henchman_XAN,"Hah! Indeed! I know this as well as you. We still have time together, you and I, and I am thinking that our greatest challenges may yet lie ahead.","하! 그래! 나도 너만큼 잘 알아. 우리에게 아직 함께할 시간이 있어, 너와 나, 가장 큰 도전들이 아직 앞에 놓여 있을 거라 생각해.",XAN,,,,,0,0
+78015,Henchman,Henchman_XAN,Bah! You do not know charisma if it stares you in the face... as it is doing right now! But I still have much to do before those days come. Our journeys will not end so quickly I am thinking now.,젠장! 네 눈앞에서 쳐다보고 있는데도 카리스마를 모르는군... 지금 그러고 있잖아! 하지만 그때가 오기 전에 아직 할 일이 많아. 우리 여정은 그렇게 빨리 안 끝날 거야.,XAN,,,,,0,0
+78016,Henchman,Henchman_XAN,"Hah! I did say that we would talk eventually, didn't I? Very well. What is it you wish to know?",하! 언젠가 얘기하자고 했었지? 좋아. 뭘 알고 싶은데?,XAN,,,,,0,0
+78017,Henchman,Henchman_XAN,"Hahah! You are always in good humor, <FirstName>. I doubt that our paths will cross much after we have finished our task.","하하! 넌 항상 좋은 유머를 가졌어, <FirstName>. 임무 끝나면 우리 길이 많이 안 겹칠 것 같아.",XAN,,,,,0,0
+78018,Henchman,Henchman_XAN,"No, when I have finished my training, I shall go far from here... Far away to virgin, untouched lands and minds, who will then cower and fall before Xanos!","아니, 훈련 끝나면 여기서 멀리 갈 거야... 순수하고 손대지 않은 땅과 사람들한테, 그럼 자노스 앞에 움츠리고 쓰러질 거야!",XAN,,,,,0,0
+78019,Henchman,Henchman_XAN,"I know, I know. You disapprove. It is not so uncommon as that. Master Drogan too, thinks that I have the potential to cause much harm, but that is not my intent.","알아, 알아. 넌 반대하지. 그리 흔한 일은 아니야. 드로건 스승도 내가 많은 해를 끼칠 잠재력이 있다고 생각하지만, 그게 내 의도는 아니야.",XAN,,,,,0,0
+78020,Henchman,Henchman_XAN,"But none of you seem to understand that what I do, I do for the good of others as much as myself. The lands of the Realms need the firm hand of government to guide them.","하지만 너희 중 누구도 이해 못 하는 것 같아, 내가 하는 게 나 자신만큼이나 다른 이들을 위한 거라는 걸. 영역의 땅들은 이끌 정부의 확고한 손길이 필요해.",XAN,,,,,0,0
+78021,Henchman,Henchman_XAN,"The broken, lawless lands that cover too much of the earth would benefit much from Xanos' rule.",지구의 너무 많은 곳을 덮고 있는 무너지고 무법천지인 땅들은 자노스의 통치로 큰 이익을 얻을 거야.,XAN,,,,,0,0
+78022,Henchman,Henchman_XAN,"You mean like the Thayans? The Zhentarim? Fools, all of them... They have not learned enough from history.","테이인들처럼? 젠타림처럼? 바보들, 전부... 역사에서 제대로 배우지 못했어.",XAN,,,,,0,0
+78023,Henchman,Henchman_XAN,"""Nothing makes a prince so much esteemed as to carry on great enterprises and to give rare examples of himself.""",위대한 사업을 수행하고 자신의 희귀한 본보기를 보여주는 것만큼 군주를 존경받게 만드는 건 없어.,XAN,,,,,0,0
+78024,Henchman,Henchman_XAN,"To be a great leader, to create a lasting kingdom, one must not only be able to conquer or subject his people, one must also be able to win their hearts.","위대한 지도자가 되려면, 지속되는 왕국을 만들려면, 백성을 정복하거나 복종시킬 수 있을 뿐만 아니라, 그들의 마음도 얻어야 해.",XAN,,,,,0,0
+78025,Henchman,Henchman_XAN,It is through the esteem of one's subjects that one has true power over them.,자신의 백성의 존경을 통해 그들에 대한 진정한 권력을 갖게 되는 거야.,XAN,,,,,0,0
+78026,Henchman,Henchman_XAN,"Hah! A simplistic method, and one that always fails in time. No one who treats all as enemies has ever held power for long.","하! 단순한 방법이고, 항상 실패하는 방법이지. 모두를 적으로 대하는 놈은 절대 오래 권력을 못 지켜.",XAN,,,,,0,0
+78027,Henchman,Henchman_XAN,"It is not in the best interest of a ruler to lie to his subjects. Lies are always revealed in the end, to the detriment of those who have harmed others by them.","통치자가 백성한테 거짓말하는 건 최선이 아니야. 거짓말은 항상 결국 드러나고, 그걸로 다른 이들한테 해를 끼친 자들에게 해가 돼.",XAN,,,,,0,0
+78028,Henchman,Henchman_XAN,"No, a great ruler, as I will be, must divide the world into two camps: those who are against me, and those who are subject to me.","아니, 나처럼 될 위대한 통치자는 세상을 두 진영으로 나눠야 해: 나한테 반대하는 자들과, 나한테 복종하는 자들.",XAN,,,,,0,0
+78029,Henchman,Henchman_XAN,"""A prince is also esteemed when he is a true friend and a true enemy."" A true friend to my people, and a true enemy to those who stand against. I shall treat my subjects as if my own children, and my enemies as mortal ones.","군주는 진정한 친구이자 진정한 적일 때 존경받아. 내 백성에겐 진정한 친구, 맞서는 자들에겐 진정한 적. 내 백성을 내 자식처럼 대하고, 내 적들을 치명적인 자들로 대할 거야.",XAN,,,,,0,0
+78030,Henchman,Henchman_XAN,"It is through such kind acts as these that the subjects will grow to love what I give them, and my enemies fear what may occur if they resist. This breeds a fanatical devotion to the ruler in his subjects, enhancing his power.","이런 친절한 행위들을 통해 백성들은 내가 주는 걸 사랑하게 되고, 내 적들은 저항하면 무슨 일이 벌어질지 두려워하게 돼. 이게 통치자에 대한 광적인 헌신을 심어줘서 권력을 강화하는 거야.",XAN,,,,,0,0
+78031,Henchman,Henchman_XAN,"Hah! But I see that my philosophy is, perhaps, a bit beyond you. Do not fear, it is understandable.","하! 하지만 내 철학이 어쩌면 네겐 좀 어려운 것 같군. 걱정 마, 이해할 만해.",XAN,,,,,0,0
+78032,Henchman,Henchman_XAN,Bah! A genius like Xanos also learns from the masters of the past. I give only truths gleaned from the work of others!,젠장! 자노스 같은 천재도 과거의 대가들한테서 배워. 난 그저 다른 이들의 작업에서 얻은 진실을 줄 뿐이야!,XAN,,,,,0,0
+78033,Henchman,Henchman_XAN,"You seek to insult me with it?! Bah! Let us go, then, and do something more meaningful than your chiding.","그걸로 날 모욕하려는 거냐?! 젠장! 가자, 네 잔소리보다 더 의미 있는 일을 하자고.",XAN,,,,,0,0
+78034,Henchman,Henchman_XAN,Hah! Time will tell what future Xanos will hold. And I know that it is a great one!,하! 시간이 자노스의 미래를 증명할 거야. 그리고 난 그게 위대한 미래라는 걸 알아!,XAN,,,,,0,0
+78035,Henchman,Henchman_XAN,"Come, let us leave, my friend, and continue with our task.","자, 가자, 친구여, 계속 임무를 수행하자고.",XAN,,,,,0,0
+78036,Henchman,Henchman_XAN,"Why question the wind, the rain, or the ground underneath your feet? It is the fundamentals, my friend. It is the desire that drives me.","왜 바람, 비, 발밑의 땅을 의심하겠나? 이건 근본이야, 친구여. 날 이끄는 욕망이지.",XAN,,,,,0,0
+78037,Henchman,Henchman_XAN,My life? What is my life... It is nothing without a purpose!,내 삶? 내 삶이 뭐냐면... 목적 없인 아무것도 아니야!,XAN,,,,,0,0
+78038,Henchman,Henchman_XAN,To exist... to sit around all day doing nothing? Being 'nice'? Serving others?? That is no way for one such as Xanos to live!,존재하는 것... 하루 종일 앉아서 아무것도 안 하는 것? '착하게'? 다른 사람을 섬기는 거?? 그건 자노스 같은 자가 살 길이 아니야!,XAN,,,,,0,0
+78039,Henchman,Henchman_XAN,"No, for me, the only place to be is the top. A place above reproach where none can stand beside me!","아니, 나한텐 정상만이 유일한 곳이야. 누구도 비난할 수 없고 누구도 내 곁에 설 수 없는 곳!",XAN,,,,,0,0
+78040,Henchman,Henchman_XAN,"Hah! Those with the will to gain power shall see it come in their lifetime. Such destiny is mine, of course.",하! 권력을 얻으려는 의지를 가진 자는 살아생전에 그걸 얻게 될 거야. 그런 운명은 당연히 내 거지.,XAN,,,,,0,0
+78041,Henchman,Henchman_XAN,"But you think me to become an evil dictator? A tyrant? You compare me to the Thayans, perhaps?",하지만 내가 사악한 독재자가 될 거라 생각하나? 폭군? 날 테이인들과 비교하는 건가?,XAN,,,,,0,0
+78042,Henchman,Henchman_XAN,"No, this is not the way for Xanos. Xanos is no monster. Xanos is smarter than that.","아니, 그건 자노스의 길이 아니야. 자노스는 괴물이 아니야. 자노스는 그것보다 똑똑해.",XAN,,,,,0,0
+78043,Henchman,Henchman_XAN,"Hah! You think me weak-minded? You think me simple? Power drives me, yes, but it does not consume me.","하! 내가 의지박약하다고 생각하나? 단순하다고 생각해? 권력이 날 이끌긴 하지만, 날 집어삼키진 않아.",XAN,,,,,0,0
+78044,Henchman,Henchman_XAN,"This thing... this thing which drives me, it is power. But power is fleeting, as we have already seen in our journey.","이것... 날 이끄는 이것은 권력이야. 하지만 권력은 덧없어, 우리 여정에서 이미 봤듯이.",XAN,,,,,0,0
+78045,Henchman,Henchman_XAN,Xanos will not stand by as what I worked all my life to achieve is stripped from me. Not again!,자노스는 평생 이루려 했던 걸 빼앗기는 걸 그냥 보고만 있지 않을 거야. 다시는!,XAN,,,,,0,0
+78046,Henchman,Henchman_XAN,Hah! Spoken truly as one who does not understand... and fears because of it.,하! 이해하지 못하는 자의 말이군... 그래서 두려워하는 거지.,XAN,,,,,0,0
+78047,Henchman,Henchman_XAN,"I will not have my life taken from me by ignorance. Not in me, nor in my subjects.","무지 때문에 내 삶을 빼앗기지 않을 거야. 나도, 내 백성들도.",XAN,,,,,0,0
+78048,Henchman,Henchman_XAN,"History, my friend, teaches us many things. It teaches us the lessons that others have learned at their expense. A good ruler, as I shall be, learns from the mistakes of those who have failed.","역사는, 친구여, 우리에게 많은 걸 가르쳐줘. 다른 이들이 대가를 치르며 배운 교훈을 말이야. 나처럼 될 훌륭한 통치자는 실패한 자들의 실수에서 배우지.",XAN,,,,,0,0
+78049,Henchman,Henchman_XAN,But what mistakes have they made? What have I learned?,하지만 그들이 무슨 실수를 했지? 내가 뭘 배웠지?,XAN,,,,,0,0
+78050,Henchman,Henchman_XAN,Hah! Xanos will not be so easily drawn into your little trap! I will not sell my knowledge so cheaply as that!,하! 자노스는 네 작은 덫에 그렇게 쉽게 안 걸려들어! 내 지식을 그렇게 싸게 팔진 않아!,XAN,,,,,0,0
+78051,Henchman,Henchman_XAN,"Let us journey on further, and then, perhaps, I will let you have a better glimpse at the genius of Xanos!","더 여행하자고, 그럼 어쩌면 자노스의 천재성을 더 보여줄게!",XAN,,,,,0,0
+78052,Henchman,Henchman_XAN,"Hah! You overestimate yourself, little <Race>! Xanos has a destiny, forged in his past, which will not be denied!","하! 스스로를 과대평가하는군, 작은 <Race>! 자노스에겐 과거에 단련된 운명이 있고, 그건 거부될 수 없어!",XAN,,,,,0,0
+78053,Henchman,Henchman_XAN,"My life is nothing without purpose, and that purpose is power! No other kind of life can be bared.","내 삶은 목적 없인 아무것도 아니고, 그 목적은 권력이야! 다른 종류의 삶은 견딜 수 없어.",XAN,,,,,0,0
+78054,Henchman,Henchman_XAN,"Hahah! I forgot about that... You had asked, hadn't you?",하하! 그거 잊고 있었네... 물어봤었지?,XAN,,,,,0,0
+78055,Henchman,Henchman_XAN,I guess I got a little carried away and never got around to telling you.,좀 흥분해서 말해주는 걸 까먹었나 봐.,XAN,,,,,0,0
+78056,Henchman,Henchman_XAN,"I have only myself to rely upon. Not you, not Drogan... especially not Dorna... I have become capable in and of myself to achieve my goals.","난 나 자신만 의지할 수 있어. 너도, 드로건도 아니야... 특히 도르나는... 난 스스로 목표를 이룰 능력을 갖췄어.",XAN,,,,,0,0
+78057,Henchman,Henchman_XAN,"Yes, yes. I avoid, I know. Fine. I will tell you now.","그래, 그래. 피한다는 거 알아. 좋아. 지금 말해줄게.",XAN,,,,,0,0
+78058,Henchman,Henchman_XAN,"When I was younger I did not have the... self-control I have now. I was a brash young lad, full of himself and his abilities.","어렸을 때 난 지금 같은... 자제력이 없었어. 거칠고 젊은 놈이었지, 자신과 능력으로 가득 찬.",XAN,,,,,0,0
+78059,Henchman,Henchman_XAN,You would not understand the follies of youth then? Are you perfect as master Drogan seems to think?,젊음의 어리석음을 이해 못 하겠다고? 넌 드로건 스승이 생각하는 것처럼 완벽한가?,XAN,,,,,0,0
+78060,Henchman,Henchman_XAN,"Bah! I act as I do now because I am capable of it. I know what I can and cannot do, now. I was more... foolish then.",젠장! 지금처럼 행동하는 건 그럴 능력이 있어서야. 이제 뭘 할 수 있고 없는지 알아. 그땐 더... 어리석었어.,XAN,,,,,0,0
+78061,Henchman,Henchman_XAN,"I had placed too much importance on the acceptance of others... on their goodwill. I was a stupid, stupid youth.",다른 사람들의 인정에... 그들의 호의에 너무 많은 가치를 뒀어. 난 정말 멍청한 젊은이였어.,XAN,,,,,0,0
+78062,Henchman,Henchman_XAN,Bah! I can be as critical of myself as you can. I push myself always so that I do not repeat the mistakes of the past.,젠장! 난 너만큼 나 자신을 비판할 수 있어. 과거의 실수를 반복하지 않으려고 항상 나 자신을 밀어붙여.,XAN,,,,,0,0
+78063,Henchman,Henchman_XAN,I am not some simple-minded half-orc to not realize these things. I can and will stand on my own!,난 이런 걸 깨닫지 못하는 단순한 하프오크가 아니야. 혼자 설 수 있고 설 거야!,XAN,,,,,0,0
+78064,Henchman,Henchman_XAN,Hah! You seek to insult me? You think that Xanos would not notice your jokes at his expense?,하! 날 모욕하려는 거냐? 자노스가 네 비용으로 하는 농담을 눈치채지 못할 거라 생각해?,XAN,,,,,0,0
+78065,Henchman,Henchman_XAN,I am not some stupid half-orc for you to play mind-games with! I can and will stand on my own!,난 네가 마인드 게임을 할 수 있는 멍청한 하프오크가 아니야! 혼자 설 수 있고 설 거야!,XAN,,,,,0,0
+78066,Henchman,Henchman_XAN,"Ever since the simple-minded bigots of my home drove me out, fearing my strength and my sorcery, I have vowed that I will cow to no one! Submit to no one!","내 고향의 단순한 편견쟁이들이 내 힘과 마법을 두려워해 날 쫓아낸 이후로, 난 누구에게도 굴복하지 않겠다고 맹세했어! 누구에게도 복종하지 않아!",XAN,,,,,0,0
+78067,Henchman,Henchman_XAN,"I am Xanos, and my will shall not be denied!","난 자노스고, 내 의지는 거부될 수 없어!",XAN,,,,,0,0
+78068,Henchman,Henchman_XAN,"Bah! You are as heartless as always. I do not know why I let myself tell you these things, knowing you will only mock me in response.",젠장! 넌 항상 무정해. 네가 비웃을 걸 알면서도 왜 내가 이런 걸 말하는지 모르겠어.,XAN,,,,,0,0
+78069,Henchman,Henchman_XAN,"They cast me out and I wandered the wilderness for months... never knowing where my next meal would come from, or even if I would survive the night.","그들은 날 쫓아냈고 난 몇 달간 황야를 헤맸어... 다음 끼니가 어디서 올지, 밤을 살아남을 수 있을지도 모른 채.",XAN,,,,,0,0
+78070,Henchman,Henchman_XAN,Until at last I found my way here to Hilltop... and master Drogan.,마침내 여기 힐탑으로... 드로건 스승한테 오게 됐지.,XAN,,,,,0,0
+78071,Henchman,Henchman_XAN,"He alone accepted me for what I am, and let me harness the powers I was wielding. Powers I have now forged into the true might of Xanos!","그만이 날 있는 그대로 받아들였고, 내가 휘두르던 힘을 다스리게 해줬어. 이제 자노스의 진정한 힘으로 단련한 권능을!",XAN,,,,,0,0
+78072,Henchman,Henchman_XAN,"Heh. In time, in time. All shall feel the power of Xanos, and all will bow before me!","헤. 때가 되면, 때가 되면. 모두 자노스의 힘을 느낄 거고, 모두 내 앞에 고개 숙일 거야!",XAN,,,,,0,0
+78073,Henchman,Henchman_XAN,"But not right now. We have things to do, you understand, so let us be doing them.","하지만 지금은 아니야. 할 일이 있잖아, 그러니까 하자고.",XAN,,,,,0,0
+78074,Henchman,Henchman_XAN,"Yes. Yes, I believe we shall.","그래. 그래, 그럴 거야.",XAN,,,,,0,0
+78075,Henchman,Henchman_XAN,Bah! Talking to you is as if speaking to a brick wall! Let us stop this nonsense and continue with our journey.,젠장! 너랑 얘기하는 건 벽돌 벽한테 말하는 것 같아! 이 헛소리 그만하고 계속 여행하자.,XAN,,,,,0,0
+78076,Henchman,Henchman_XAN,"Bah! We have been over this story before, you and I. Why would you wish to hear it again?","젠장! 이 얘기 전에 했었잖아, 너랑 나. 왜 또 듣고 싶어하는 거야?",XAN,,,,,0,0
+78077,Henchman,Henchman_XAN,Not interesting?! The greatest story ever told?! It is a story you will tell to your children!,재미없다고?! 역사상 가장 위대한 이야기?! 네 자식들한테 들려줄 이야기야!,XAN,,,,,0,0
+78078,Henchman,Henchman_XAN,"Someday, far in the future, you will look back on the days you have known me and rejoice that you were close to someone who was so destined for greatness!","언젠가, 먼 미래에, 날 알았던 날들을 돌이켜보면 위대함을 향한 운명을 가진 자 가까이에 있었다는 걸 기뻐하게 될 거야!",XAN,,,,,0,0
+78079,Henchman,Henchman_XAN,It is my destiny to achieve greatness. None will deny the will of Xanos!,위대함을 이루는 게 내 운명이야. 누구도 자노스의 의지를 거부하지 못해!,XAN,,,,,0,0
+78080,Henchman,Henchman_XAN,I know you may doubt me. You... Mischa... Drogan... Dorna... All do not believe that this destiny will be mine... but I will show them!,네가 의심할 수 있다는 거 알아. 너... 미샤... 드로건... 도르나... 모두 이 운명이 내 거라고 믿지 않아... 하지만 보여줄 거야!,XAN,,,,,0,0
+78081,Henchman,Henchman_XAN,"I will work as hard as it takes, do whatever it may take, to achieve this goal.","목표를 이루기 위해 필요한 만큼 열심히 일하고, 무엇이든 할 거야.",XAN,,,,,0,0
+78082,Henchman,Henchman_XAN,"Fear not, little <Race>, I am in full control of myself.","걱정 마, 작은 <Race>야, 난 완전히 통제하고 있어.",XAN,,,,,0,0
+78083,Henchman,Henchman_XAN,"But I shall not be denied on my path to power. If anything in my life has shown this, it is that my will cannot be denied!","하지만 권력으로 가는 길에서 거부당하지 않을 거야. 내 삶의 무언가가 이걸 보여줬다면, 내 의지는 거부될 수 없다는 거지!",XAN,,,,,0,0
+78084,Henchman,Henchman_XAN,"Bah! You are too impatient, <FirstName>. In time you will see the truth of what I say... You may even agree with it.","젠장! 너무 조급하군, <FirstName>. 때가 되면 내 말의 진실을 보게 될 거야... 동의할 수도 있고.",XAN,,,,,0,0
+78085,Henchman,Henchman_XAN,Rest assured that greatness is what I seek. The path of power and the voice within. It is my destiny.,"안심해, 위대함이 내가 찾는 거야. 권력의 길과 내면의 목소리. 이게 내 운명이야.",XAN,,,,,0,0
+78086,Henchman,Henchman_XAN,And that is all we shall speak of for now... We have more pressing concerns.,그게 지금 얘기할 전부야... 더 급한 일들이 있어.,XAN,,,,,0,0
+78087,Henchman,Henchman_XAN,"My life of hardship and regret... the times I have... Bah! Xanos is not weak like the others. Though I may not speak of it, I have my own troubles. These are none of your concern.",고난과 후회의 내 삶... 내가 겪었던 시간들은... 젠장! 자노스는 다른 놈들처럼 약하지 않아. 말하지 않아도 내 고민은 있어. 이건 네 상관할 바 아니야.,XAN,,,,,0,0
+78088,Henchman,Henchman_XAN,The only thing that shall change the past and make the future great. It is my call to power.,과거를 바꾸고 미래를 위대하게 만들 유일한 것. 그게 내 권력으로의 부름이야.,XAN,,,,,0,0
+78089,Henchman,Henchman_XAN,"But it drives me onward...  If anything in my life has shown this, it is that my will cannot be denied!","하지만 그게 날 앞으로 밀어붙여... 내 삶의 무언가가 이걸 보여줬다면, 내 의지는 거부될 수 없다는 거지!",XAN,,,,,0,0
+78090,Henchman,Henchman_XAN,Hah! You sound like Xanos! We shall be good company for one another!,하! 자노스처럼 말하는군! 서로 좋은 친구가 될 거야!,XAN,,,,,0,0
+78091,Henchman,Henchman_XAN,"But I shall not be denied on my path to power... by you or anyone. If anything in my life has shown this, it is that my will cannot be denied!","하지만 권력으로 가는 길에서 거부당하지 않을 거야... 너나 누구에게도. 내 삶의 무언가가 이걸 보여줬다면, 내 의지는 거부될 수 없다는 거지!",XAN,,,,,0,0
+78092,Henchman,Henchman_XAN,"Hah! Fear not, little <Race> <man/woman>, I know my own limits.","하! 걱정 마, 작은 <Race> <man/woman>, 난 내 한계를 알아.",XAN,,,,,0,0
+78093,Henchman,Henchman_XAN,Bah! Unlikely. You have always been too focused on your studies by far. But... I will humor you this once.,젠장! 아닐 거야. 넌 항상 공부에만 너무 집중했어. 하지만... 이번만 들어줄게.,XAN,,,,,0,0
+78094,Henchman,Henchman_XAN,Bah! Very well. I shall tell you once more if you wish.,젠장! 좋아. 원한다면 다시 한 번 말해줄게.,XAN,,,,,0,0
+78095,Henchman,Henchman_XAN,Bah! Then I will remain here until you come to your senses.,젠장! 그럼 네가 정신 차릴 때까지 여기 있겠어.,XAN,,,,,0,0
+78096,Henchman,Henchman_XAN,Hah! Then we shall face our perils together!,하! 그럼 함께 위험에 맞서자!,XAN,,,,,0,0
+78097,Henchman,Henchman_XAN,That... that is something I never wish to repeat again... Being entombed in stone is no way to exist.,저건... 다시는 반복하고 싶지 않아... 돌에 갇히는 건 존재할 방법이 아니야.,XAN,x0_d1_meet,,,,0,0
+78098,Henchman,Henchman_XAN,Hah! Well I know this. But I also think we shall see more of her... and we must not repeat our folly.,하! 잘 알지. 하지만 그녀를 또 보게 될 것 같아... 우리 어리석음을 반복하면 안 돼.,XAN,,,,,0,0
+78099,Henchman,Henchman_XAN,"Facing a medusa... and now one in possession of the mythallar will not be easy. Even harder now that this lizard thinks we are his slaves, if what I hear is correct.","메두사와 맞서는 것... 게다가 이제 미살라를 가진 메두사는 쉽지 않을 거야. 이 도마뱀이 우리를 노예로 생각한다니, 내가 들은 게 맞다면 더 힘들겠군.",XAN,,,,,0,0
+78100,Henchman,Henchman_XAN,Hah! I don't doubt that. We shall both take her down... we must obey the lizard for now...,하! 의심 안 해. 우리 둘 다 그녀를 쓰러뜨릴 거야... 지금은 도마뱀에게 복종해야 하지만...,XAN,,,,,0,0
+78101,Henchman,Henchman_XAN,"There seems little else we can do, except what this lizard wants... but in time...",이 도마뱀이 원하는 것 말고는 할 수 있는 게 별로 없어 보이는데... 하지만 때가 되면...,XAN,,,,,0,0
+78102,Henchman,Henchman_XAN,"In time we shall free ourselves. Perhaps with the strength of the mythallar, I could... hmm...","때가 되면 자유로워질 거야. 어쩌면 미살라의 힘으로, 난... 흠...",XAN,,,,,0,0
+78103,Henchman,Henchman_XAN,"But no, that is not our concern, is it? For now we must try to find this Heurodis. I know she is here somewhere... ehhh... where is this, again, exactly?","하지만 아니야, 그건 우리 문제가 아니지? 지금은 이 헤우로디스를 찾아야 해. 어딘가 여기 있다는 거 아는데... 에... 여기가 정확히 어디더라?",XAN,,,,,0,0
+78104,Henchman,Henchman_XAN,What? Then why did you free me? You need Xanos!,뭐? 그럼 왜 날 풀어준 거야? 자노스가 필요하잖아!,XAN,,,,,0,0
+78105,Henchman,Henchman_XAN,"Yes, yes, yes. You are beginning to sound like Drogan.","그래, 그래, 그래. 드로건처럼 말하기 시작하는군.",XAN,x0_d1_hen_hired,,,,0,0
+78106,Henchman,Henchman_XAN,Bah! Fine! But you shall come back to Xanos soon enough. You will see.,젠장! 좋아! 하지만 곧 자노스한테 돌아올 거야. 두고 봐.,XAN,,,,,0,0
+78107,Henchman,Henchman_XAN,Indeed. I think we could aid each other greatly.,그래. 서로 크게 도울 수 있을 것 같아.,XAN,x0_d1_hen_hired,,,,0,0
+78108,Henchman,Henchman_XAN,What? Me? Never! Do not be silly.,뭐? 나? 절대! 웃기지 마.,XAN,x0_d1_hen_hired,,,,0,0
+78109,Henchman,Henchman_XAN,"It doesn't seem to matter what we wish to believe, it is what *he* believes that is what matters...","우리가 뭘 믿고 싶은지는 중요하지 않은 것 같아, *그*가 믿는 게 중요한 거지...",XAN,,,,,0,0
+78110,Henchman,Henchman_XAN,"Hmph. You have need of Xanos' skill in this place or you would not have freed me. I truly doubt you would have saved me out of pure sentimentality, eh?","흥. 이곳에서 자노스의 실력이 필요하지 않았다면 날 풀어주지 않았을 거야. 순전히 감상적으로 날 구했을 거라곤 생각 안 하는데, 그치?",XAN,,,,,0,0
+78111,Henchman,Henchman_XAN,"Alright. It sounds like a good plan to Xanos, so long as you follow your own advice, eh?","알았어. 자노스한텐 좋은 계획으로 들리는데, 네가 네 충고를 따르는 한 말이야, 그치?",XAN,,,,,0,0
+78112,Henchman,Henchman_XAN,And neither will I. But I also think we shall see more of her... and we must not repeat our folly.,나도 그럴 거야. 하지만 그녀를 또 보게 될 것 같아... 우리 어리석음을 반복하면 안 돼.,XAN,,,,,0,0
+78113,Henchman,Henchman_XAN,Bah! What is good about it? The dangers of this place are evident... Perhaps we should help each other to stay alive.,젠장! 뭐가 좋다는 거야? 이곳의 위험은 명백해... 어쩌면 살아남기 위해 서로 도와야 할 거야.,XAN,,,,,0,0
+78114,Henchman,Henchman_XAN,"Well then, we shall see how well you do without Xanos to aid you.","그럼, 자노스의 도움 없이 얼마나 잘하는지 보자고.",XAN,,,,,0,0
+78115,Henchman,Henchman_XAN,"Of course... I thought of it! Let us go together, then.",당연하지... 내가 생각했어! 함께 가자.,XAN,x0_d1_hen_hired,,,,0,0
+78116,Henchman,Henchman_XAN,And you think *I* should accompany you?  You think that *I* want to retrieve these artifacts for master Drogan?,그리고 *내*가 너랑 동행해야 한다고 생각해? *내*가 드로건 스승을 위해 이 유물들을 찾아오고 싶다고 생각해?,XAN,,,,,0,0
+78117,Henchman,Henchman_XAN,"Xanos would not be so callous as to reject a call for help, once given. If you wish my aid, I shall be here to ask.",자노스는 도움 요청을 받고도 거절할 만큼 냉담하지 않아. 내 도움이 필요하면 여기 있을 테니 물어봐.,XAN,,,,,0,0
+78118,Henchman,Henchman_XAN,"Very well, then. Xanos shall accompany you in this task. Drogan will likely reward us well when we succeed.",좋아. 자노스가 이 일에 동행하지. 성공하면 드로건이 우리한테 잘 보상해줄 거야.,XAN,,,,,0,0
+78119,Henchman,Henchman_XAN,This was not funny the first time you said it. Xanos is not impressed.,처음 말했을 때도 재미없었어. 자노스는 감동 안 받아.,XAN,,,,,0,0
+78120,Henchman,Henchman_XAN,I do not wish to be mocked!,비웃음받고 싶지 않아!,XAN,,,,,0,0
+78121,Henchman,Henchman_XAN,"Oh, ho ho. I see. Now it is all a big joke, eh? Xanos must suffer the blunt end of your juvenile wit.","오, 호 호. 알겠어. 이제 전부 큰 농담이군, 그치? 자노스가 네 유치한 재치의 무딘 끝을 겪어야 하는군.",XAN,,,,,0,0
+78122,Henchman,Henchman_XAN,"Xanos will feel sorry for <FirstName>, shortly.",자노스가 곧 <FirstName>을 불쌍히 여기게 될 거야.,XAN,,,,,0,0
+78123,Henchman,Henchman_XAN,"Do you wish to hear what I have to say or not, imbecile?!","내가 할 말을 듣고 싶은 거야 아닌 거야, 멍청아?!",XAN,,,,,0,0
+78124,Henchman,Henchman_XAN,Very well. Then Xanos shall hold his own counsel.,좋아. 그럼 자노스는 자기 생각을 간직하지.,XAN,x0_d1_hen_inter0,,,,0,0
+78125,Henchman,Henchman_XAN,This place... it holds great power.,이곳은... 강력한 힘을 품고 있어.,XAN,x0_d1_hen_inter0,,,,0,0
+78126,Henchman,Henchman_XAN,"Hah! It is not that I criticize your ferret-like instincts, but rather that I, too, am eager to find the source of this power.","하! 네 족제비 같은 본능을 비판하는 게 아니라, 나도 이 힘의 원천을 찾고 싶어서 그래.",XAN,,,,,0,0
+78127,Henchman,Henchman_XAN,"There was great magic worked here at one time... magic whose origins I do not recognize. It is ancient indeed, though.",언젠가 여기서 엄청난 마법이 사용됐어... 내가 인식하지 못하는 기원의 마법. 확실히 고대의 것이야.,XAN,,,,,0,0
+78128,Henchman,Henchman_XAN,If I am correct... If my intuition tells me true...,내가 맞다면... 내 직관이 맞다면...,XAN,,,,,0,0
+78129,Henchman,Henchman_XAN,Well it is most definitely not the work of the gnolls...,글쎄 확실히 놀들의 작품은 아니야...,XAN,,,,,0,0
+78130,Henchman,Henchman_XAN,"Yes, yes, I have already said that. You do not need to mindlessly repeat every word I say.","그래, 그래, 이미 말했어. 내가 하는 말을 무의미하게 반복할 필요 없어.",XAN,,,,,0,0
+78131,Henchman,Henchman_XAN,"It is not elven. Not dwarven. Almost... human? We are near the Nether mountains... If it is that old, then, perhaps...","엘프의 것도 아니야. 드워프의 것도 아니고. 거의... 인간? 우린 네더 산맥 근처에 있어... 그렇게 오래됐다면, 어쩌면...",XAN,,,,,0,0
+78132,Henchman,Henchman_XAN,"Oh but I am. I think this may be the work of the ancient Netherese. If that is true, then what we may find here could have power beyond our wildest dreams... or enough power to reduce us all to dust in an instant.","오 하지만 그래. 고대 네더릴인들의 작품일 수도 있어. 그게 사실이라면, 여기서 찾을 수 있는 건 우리가 상상하는 것보다 훨씬 더 강력한 힘일 수도... 아니면 순식간에 우리 모두를 먼지로 만들어버릴 만큼의 힘일 수도 있어.",XAN,,,,,0,0
+78133,Henchman,Henchman_XAN,"Yes... Netherese. If that is true, then what we may find here could have power beyond our wildest dreams... or enough power to reduce us all to dust in an instant.","그래... 네더릴. 그게 사실이라면, 여기서 찾을 수 있는 건 우리가 상상하는 것보다 훨씬 더 강력한 힘일 수도... 아니면 순식간에 우리 모두를 먼지로 만들어버릴 만큼의 힘일 수도 있어.",XAN,,,,,0,0
+78134,Henchman,Henchman_XAN,"Netherese? If that is true, then what we may find here could have power beyond our wildest dreams... or enough power to reduce us all to dust in an instant.","네더릴? 그게 사실이라면, 여기서 찾을 수 있는 건 우리가 상상하는 것보다 훨씬 더 강력한 힘일 수도... 아니면 순식간에 우리 모두를 먼지로 만들어버릴 만큼의 힘일 수도 있어.",XAN,,,,,0,0
+78135,Henchman,Henchman_XAN,"We should be wary here, I know, but the potential power... it is limitless.","여기선 조심해야 하는 거 알지만, 잠재적인 힘은... 무한해.",XAN,,,,,0,0
+78136,Henchman,Henchman_XAN,What is this mistress that spoke to J'Nah? This situation is getting more complex by the moment.,즈나와 얘기했다는 그 여주인은 뭐지? 상황이 순간순간 더 복잡해지고 있어.,XAN,x0_d1_hen_inter0,,,,0,0
+78137,Henchman,Henchman_XAN,"A feud between a dragon and a sorceress... and a secret master powerful enough to use both to further his, or maybe her, concerns.","용과 요술사 사이의 불화... 그리고 둘 다 이용해서 자신의, 어쩌면 그녀의 목적을 달성할 만큼 강력한 비밀 주인.",XAN,,,,,0,0
+78138,Henchman,Henchman_XAN,I worry that what we may have stepped into may soon outstrip us both.,우리가 발을 들인 게 곧 우리 둘 다를 압도할까 봐 걱정돼.,XAN,,,,,0,0
+78139,Henchman,Henchman_XAN,"Indeed we do, <FirstName>, but I worry about the dangers... The danger to Xanos.","그렇지, <FirstName>, 하지만 위험이 걱정돼... 자노스에 대한 위험이.",XAN,,,,,0,0
+78140,Henchman,Henchman_XAN,Hah! Xanos will not be leaving one such as you to be our only hope! That would be no hope at all. But there are dangers...,하! 자노스는 너 같은 놈을 우리의 유일한 희망으로 남겨두지 않을 거야! 그건 희망이 전혀 없는 거지. 하지만 위험들이 있어...,XAN,,,,,0,0
+78141,Henchman,Henchman_XAN,"Hah! It is not your health I care about, <Race>! It is Xanos' health that may suffer!","하! 걱정하는 건 네 건강이 아니야, <Race>! 자노스의 건강이 위험할 수 있어!",XAN,,,,,0,0
+78142,Henchman,Henchman_XAN,It would not do to have a glorious life such as mine cut short in its prime.,내 같은 영광스러운 삶이 전성기에 짧게 끝나는 건 안 되지.,XAN,,,,,0,0
+78143,Henchman,Henchman_XAN,"But we would seem to have little choice in the matter. Let us continue then, and bring the retrieved artifacts back to master Drogan.","하지만 선택의 여지가 별로 없어 보여. 계속하자, 그리고 찾은 유물들을 드로건 스승한테 돌려드리자.",XAN,,,,,0,0
+78144,Henchman,Henchman_XAN,Hah! Xanos can handle anything! But...,하! 자노스는 뭐든 감당할 수 있어! 하지만...,XAN,,,,,0,0
+78145,Henchman,Henchman_XAN,"Do you not find it disturbing that a dragon, such as this Tymofarrar, seeks the artifacts that were entrusted to master Drogan?",이 티모파라르 같은 용이 드로건 스승한테 맡겨진 유물들을 찾고 있다는 게 불안하지 않나?,XAN,x0_d1_hen_inter0,,,,0,0
+78146,Henchman,Henchman_XAN,Perhaps the artifacts hold a much greater import than we were led to believe...,어쩌면 유물들이 우리가 믿었던 것보다 훨씬 더 중요한 의미를 가지고 있을지도...,XAN,,,,,0,0
+78147,Henchman,Henchman_XAN,Indeed... It is as you say...,그래... 네 말이 맞아...,XAN,,,,,0,0
+78148,Henchman,Henchman_XAN,The enemies we face must go beyond the simple kobolds we have encountered already.,우리가 맞서는 적들은 이미 마주친 단순한 코볼트들을 넘어서야 해.,XAN,,,,,0,0
+78149,Henchman,Henchman_XAN,"That was not my original meaning, but... the powers they may hold would surely help Xanos in his quest...",그게 내 원래 의도는 아니었지만... 그들이 가진 힘들이 자노스의 탐구를 확실히 도울 거야...,XAN,,,,,0,0
+78150,Henchman,Henchman_XAN,Bah! That is not what I was talking about! I was only suggesting that perhaps the enemies we face go beyond the simple kobolds we have encountered already.,젠장! 그 얘기를 한 게 아니야! 우리가 맞서는 적들이 이미 마주친 단순한 코볼트들을 넘어선다는 걸 제안한 것뿐이야.,XAN,,,,,0,0
+78151,Henchman,Henchman_XAN,"First kobolds, then a dragon; who knows what other powers may be lurking behind the scenes and are arrayed against us?","처음엔 코볼트, 그다음 용; 무대 뒤에 숨어서 우리에게 맞서고 있을 다른 힘들이 뭐가 있을지 누가 알겠어?",XAN,,,,,0,0
+78152,Henchman,Henchman_XAN,"But he cannot. We are left to our own devices for now, and we must take all due caution as we continue.","하지만 그럴 수 없어. 지금은 우리끼리 해결해야 하고, 계속하면서 모든 주의를 기울여야 해.",XAN,,,,,0,0
+78153,Henchman,Henchman_XAN,We must not allow Xanos' glorious life to be snuffed out so meaninglessly.,자노스의 영광스러운 삶이 그렇게 무의미하게 꺼지는 걸 허용하면 안 돼.,XAN,,,,,0,0
+78154,Henchman,Henchman_XAN,"Indeed. We are left to our own devices for now, and we must take all due caution as we continue.","그래. 지금은 우리끼리 해결해야 하고, 계속하면서 모든 주의를 기울여야 해.",XAN,,,,,0,0
+78155,Henchman,Henchman_XAN,"Indeed. But we are left to our own devices for now, and we should take all due caution as we continue.","그래. 하지만 지금은 우리끼리 해결해야 하고, 계속하면서 모든 주의를 기울여야 해.",XAN,,,,,0,0
+78156,Henchman,Henchman_XAN,This... this place has a feeling of life about it... and of death.,이... 이곳은 삶의 느낌이 있어... 그리고 죽음의.,XAN,x0_d1_hen_inter0,,,,0,0
+78157,Henchman,Henchman_XAN,Hah! Xanos does not fear the kobolds that fled here! But... there may be other things... older things...,하! 자노스는 여기 도망친 코볼트들을 두려워하지 않아! 하지만... 다른 것들이 있을 수도... 더 오래된 것들이...,XAN,,,,,0,0
+78158,Henchman,Henchman_XAN,"I will speak candidly with you now, <FirstName>. Xanos does not scare easily, but I question the wisdom of disturbing a tomb such as this.","솔직히 말할게, <FirstName>. 자노스는 쉽게 겁먹지 않지만, 이런 무덤을 방해하는 게 현명한지 의문이야.",XAN,,,,,0,0
+78159,Henchman,Henchman_XAN,"There is no love between my ancestors and the elves, but I rise above that. I do not discriminate as they do. But these places were not meant to be disturbed.","내 조상들과 엘프들 사이에 사랑은 없지만, 난 그것보다 위에 있어. 그들처럼 차별하지 않아. 하지만 이런 곳들은 방해받도록 만들어지지 않았어.",XAN,,,,,0,0
+78160,Henchman,Henchman_XAN,"I only think that, maybe, if we continue, something may awaken that was not meant to. We should not disturb the bones of the dead.","그냥 생각하는 건데, 어쩌면 계속하면 깨어나선 안 될 무언가가 깨어날지도. 죽은 자들의 뼈를 방해하면 안 돼.",XAN,,,,,0,0
+78161,Henchman,Henchman_XAN,"Bah! I sound like a coward to you now, but my words stand true. I do not wish to die in a place like this.","젠장! 이제 네게 겁쟁이처럼 들리겠지만, 내 말은 사실이야. 이런 곳에서 죽고 싶지 않아.",XAN,,,,,0,0
+78162,Henchman,Henchman_XAN,"Bah! Talking to you is like talking to a brick wall, sometimes! Very well, I will follow your lead, <FirstName>, but I have voiced my concerns.","젠장! 너랑 얘기하는 건 때론 벽돌 벽한테 말하는 것 같아! 좋아, 네 리드를 따를게, <FirstName>, 하지만 내 우려는 말했어.",XAN,,,,,0,0
+78163,Henchman,Henchman_XAN,"Hah! If I could believe that, I might have some respect for your abilities, but I know well your limitations, <FirstName>.","하! 그걸 믿을 수 있다면 네 능력에 좀 존경심을 가질 수도 있겠지만, 네 한계를 잘 아는데, <FirstName>.",XAN,,,,,0,0
+78164,Henchman,Henchman_XAN,"If you choose to go on, I shall remain with you. Xanos will protect you! Hah!","계속 가기로 선택한다면, 함께 있을게. 자노스가 널 지킬 거야! 하!",XAN,,,,,0,0
+78165,Henchman,Henchman_XAN,"Xanos will not die, of course. I was more concerned for your safety, is all.",자노스는 당연히 안 죽어. 네 안전이 걱정됐을 뿐이야.,XAN,,,,,0,0
+78166,Henchman,Henchman_XAN,The kobolds have not left this town peacefully... I will have my revenge for what they have done here!,코볼트들이 이 마을을 평화롭게 떠나지 않았어... 여기서 그들이 한 일에 대해 복수하겠어!,XAN,x0_d1_hen_inter0,,,,0,0
+78167,Henchman,Henchman_XAN,"Bah! Selfish to the end, you are. But Xanos at least admits to his failings, as few as they might be. Though both you and Drogan liked to point mine out for me.","젠장! 끝까지 이기적이군. 하지만 자노스는 적어도 자신의 결점을 인정해, 아주 적긴 해도. 너랑 드로건이 내 것들을 지적해주길 좋아했지만.",XAN,,,,,0,0
+78168,Henchman,Henchman_XAN,"Yes... Drogan. It seems we all owe a lot to master Drogan. I can hardly count the number of scars he left on my body. Still, the crotchety old dwarf had some redeeming features.","그래... 드로건. 우리 모두 드로건 스승한테 많은 빚을 진 것 같아. 그가 내 몸에 남긴 흉터 수를 거의 셀 수가 없어. 그래도, 까칠한 늙은 드워프한테 괜찮은 점들이 있었지.",XAN,,,,,0,0
+78169,Henchman,Henchman_XAN,"When I first came to this town, I was shunned by the people because of my heritage... my orcish half was all they could see... except Drogan.","이 마을에 처음 왔을 때, 내 혈통 때문에 사람들한테 배척당했어... 내 오크 반쪽이 그들이 볼 수 있는 전부였지... 드로건을 제외하고는.",XAN,,,,,0,0
+78170,Henchman,Henchman_XAN,"What? Here?? The people here are country folk and woodsmen... They have a harsh acceptance of the realities around them, and are very cynical of the good intentions of others.","뭐? 여기?? 여기 사람들은 시골 사람들이고 나무꾼들이야... 주변 현실을 가혹하게 받아들이고, 다른 사람들의 좋은 의도를 매우 냉소적으로 봐.",XAN,,,,,0,0
+78171,Henchman,Henchman_XAN,"But I suppose I do not hold it against them any longer... In the years I have been here they have grown on me, I guess.",하지만 더 이상 그들을 원망하지 않는 것 같아... 여기 있은 몇 년 동안 그들이 점점 좋아졌어.,XAN,,,,,0,0
+78172,Henchman,Henchman_XAN,Indeed. We must find those kobolds... and retrieve the artifacts they have stolen.,그래. 저 코볼트들을 찾아야 해... 그리고 그들이 훔친 유물들을 되찾아야 해.,XAN,,,,,0,0
+78173,Henchman,Henchman_XAN,Bah! You are as inflexible as always.,젠장! 넌 항상 그렇게 융통성 없어.,XAN,,,,,0,0
+78174,Henchman,Henchman_XAN,The hallmark of those destined for greatness is flexibility. Like me for example.,위대함을 향한 운명을 가진 자들의 특징은 유연성이야. 나처럼 말이야.,XAN,,,,,0,0
+78175,Henchman,Henchman_XAN,But we should delay no longer. We must pursue those kobolds and retrieve the artifacts they have stolen.,하지만 더 이상 지체하면 안 돼. 저 코볼트들을 추격해서 그들이 훔친 유물들을 되찾아야 해.,XAN,,,,,0,0
+78176,Henchman,Henchman_XAN,"Yes... Yes, I will. And we should not waste more time here talking. Action calls.","그래... 그래, 그럴게. 그리고 여기서 더 이상 시간 낭비하면 안 돼. 행동이 부른다.",XAN,,,,,0,0
+78177,Henchman,Henchman_XAN,Bah! You are too cynical by far! You think only of yourself! You are almost as bad as the townsfolk were when I had first arrived.,젠장! 넌 너무 냉소적이야! 자기 자신만 생각해! 내가 처음 도착했을 때 마을 사람들만큼 나빠.,XAN,,,,,0,0
+78178,Henchman,Henchman_XAN,Bah! I knew I could not expect understanding from you. *You* have always had it easy... being Drogan's pet student. Some of us actually had to work for ourselves.,젠장! 네게서 이해를 기대할 수 없다는 걸 알았어. *너*는 항상 쉬웠잖아... 드로건의 애완 제자였으니까. 우리 중 일부는 실제로 스스로를 위해 일해야 했어.,XAN,,,,,0,0
+78179,Henchman,Henchman_XAN,"I am not bitter! Not anymore at least... I do not hold it against them any longer. They have grown on me, I guess.",쓰라리지 않아! 더 이상은 적어도... 더 이상 그들을 원망하지 않아. 점점 좋아졌어.,XAN,,,,,0,0
+78180,Henchman,Henchman_XAN,"Even silly Mischa could tell Drogan favored you, and I would not call her observant. She worships Drogan as much as these townsfolk do. That respect is their one redeeming feature. It almost makes me like them.","어리석은 미샤조차 드로건이 널 편애한다는 걸 알 수 있었어, 그녀를 관찰력 있다고는 안 하겠지만. 그녀는 이 마을 사람들만큼 드로건을 숭배해. 그 존경심이 그들의 유일한 장점이야. 거의 그들을 좋아하게 만들어.",XAN,,,,,0,0
+78181,Henchman,Henchman_XAN,"Then show it! You act so tough and independent, but Xanos acts this way too. Perhaps if you can find some maturity, then we can speak as equals and avoid some of the verbal abuse.","그럼 보여줘! 넌 그렇게 강하고 독립적으로 행동하지만, 자노스도 이렇게 행동해. 어쩌면 성숙함을 찾을 수 있다면, 동등하게 얘기하고 언어 폭력을 피할 수 있을 거야.",XAN,,,,,0,0
+78182,Henchman,Henchman_XAN,The townsfolk do not even mistreat me anymore. I could almost like them now.,마을 사람들은 더 이상 날 나쁘게 대하지도 않아. 이제 거의 그들을 좋아할 수 있을 것 같아.,XAN,,,,,0,0
+78183,Henchman,Henchman_XAN,"The kobolds would have to have come through the village, I think... Though they hold no challenge for Xanos, the villagers may have fared poorly.","코볼트들이 마을을 통과했을 거라 생각해... 자노스한텐 도전이 안 되지만, 마을 사람들은 고생했을 거야.",XAN,x0_d1_hen_inter0,,,,0,0
+78184,Henchman,Henchman_XAN,"Hah! It is as I thought it would be: At the first sign of hardship, you turn and run back to Drogan's skirt!","하! 생각했던 대로야: 어려움의 첫 징조에, 넌 돌아서서 드로건의 치마로 도망가!",XAN,,,,,0,0
+78185,Henchman,Henchman_XAN,"The kobolds have only just left. If we pursue now, we may yet have a chance to catch them before they leave the town.",코볼트들이 막 떠났어. 지금 추격하면 마을을 떠나기 전에 잡을 기회가 있을 거야.,XAN,,,,,0,0
+78186,Henchman,Henchman_XAN,"But we must have a plan to find and capture them. I, Xanos, shall take the lead, of course.","하지만 그들을 찾고 잡을 계획이 있어야 해. 나, 자노스가 당연히 주도할 거야.",XAN,,,,,0,0
+78187,Henchman,Henchman_XAN,"Hah! I know, I know. You think me overconfident, but I shall be gracious.","하! 알아, 알아. 내가 과신한다고 생각하겠지만, 관대하게 굴게.",XAN,,,,,0,0
+78188,Henchman,Henchman_XAN,"I know that master Drogan favors you above the rest of us. You are his oldest student, after all. Therefore I shall treat you as an equal in this endeavor.",드로건 스승이 우리 중에 널 제일 좋아한다는 거 알아. 네가 그의 가장 오래된 제자니까. 그래서 이 노력에서 널 동등하게 대할게.,XAN,,,,,0,0
+78189,Henchman,Henchman_XAN,"We shall find and defeat the kobolds together, in our own way. But be wary... They may have expected us to follow them.",우리만의 방식으로 함께 코볼트들을 찾고 물리칠 거야. 하지만 조심해... 그들이 우리가 따라올 걸 예상했을 수도 있어.,XAN,,,,,0,0
+78190,Henchman,Henchman_XAN,Let us go. We must not let them get too far ahead of us.,가자. 너무 멀리 가게 두면 안 돼.,XAN,,,,,0,0
+78191,Henchman,Henchman_XAN,"I agree. That is a surprisingly good insight for you, <FirstName>; one worthy of Xanos himself.","동의해. 네겐 놀랍도록 좋은 통찰이야, <FirstName>; 자노스 자신에게나 어울릴 만한.",XAN,,,,,0,0
+78192,Henchman,Henchman_XAN,"Quick action is decisive, but rash ones are the sign of a small intellect.","빠른 행동은 결단력 있지만, 성급한 건 작은 지성의 표시야.",XAN,,,,,0,0
+78193,Henchman,Henchman_XAN,"This is it, I think... We shall meet Heurodis again very soon... and there must not be things left unsaid between us, as there was between master Drogan and myself.","이거야, 생각건대... 곧 다시 헤우로디스를 만나게 될 거야... 그리고 드로건 스승과 나 사이처럼 우리 사이에 말하지 않은 것들이 남아있으면 안 돼.",XAN,x0_d1_hen_inter0,,,,0,0
+78194,Henchman,Henchman_XAN,"Bah! That is always the way with you. Always like this, in the end.",젠장! 넌 항상 그래. 결국엔 항상 이래.,XAN,,,,,0,0
+78195,Henchman,Henchman_XAN,But you and master Drogan... you have changed me from the way I once was. You have made a new man of me.,하지만 너와 드로건 스승은... 예전의 나를 바꿨어. 날 새로운 사람으로 만들었어.,XAN,,,,,0,0
+78196,Henchman,Henchman_XAN,"Once this Heurodis has been dealt with, perhaps we shall see what the future will hold in store for us.","이 헤우로디스를 처리하고 나면, 어쩌면 미래가 우리를 위해 무엇을 준비했는지 보게 될 거야.",XAN,,,,,0,0
+78197,Henchman,Henchman_XAN,"Perhaps... perhaps not. I am not at all certain that we will survive this, but... I must speak my piece now.",어쩌면... 어쩌면 아닐지도. 우리가 살아남을 거라고 전혀 확신할 수 없지만... 지금 내 생각을 말해야 해.,XAN,,,,,0,0
+78198,Henchman,Henchman_XAN,"In spite of all that has been between us, both good and bad, I... I count you as a true friend <FirstName>. I mean that.","우리 사이에 있었던 모든 것에도 불구하고, 좋은 것도 나쁜 것도, 난... 널 진정한 친구로 여겨 <FirstName>. 진심이야.",XAN,,,,,0,0
+78199,Henchman,Henchman_XAN,"You may not agree, you may not feel it is appropriate, but that is the way things stand.","동의하지 않을 수도, 적절하지 않다고 느낄 수도 있지만, 그게 현실이야.",XAN,,,,,0,0
+78200,Henchman,Henchman_XAN,"You are my friend, and as such, I will stand by you in the final battle, even though it may cost me my life.","넌 내 친구고, 그래서 최후의 전투에서 네 곁에 설 거야, 비록 내 목숨을 잃을지라도.",XAN,,,,,0,0
+78201,Henchman,Henchman_XAN,"Indeed... well, still I shall be there. Let us go now, and meet our fate, then.","그래... 그래도 거기 있을게. 가자, 그리고 우리 운명을 마주하자.",XAN,,,,,0,0
+78202,Henchman,Henchman_XAN,"Let us go now, and meet our fate, then.","가자, 그리고 우리 운명을 마주하자.",XAN,,,,,0,0
+78203,Henchman,Henchman_XAN,You and master Drogan... you have changed me from the way I once was. You have made a new man of me.,너와 드로건 스승은... 예전의 나를 바꿨어. 날 새로운 사람으로 만들었어.,XAN,,,,,0,0
+78204,Henchman,Henchman_XAN,"These three Winds must be the key to the mythallar and Heurodis... If we hope to defeat her, we must find them, then.","이 세 바람이 미살라와 헤우로디스의 열쇠일 거야... 그녀를 물리치려면, 그것들을 찾아야 해.",XAN,x0_d1_hen_inter0,,,,0,0
+78205,Henchman,Henchman_XAN,I can only hope that all of them have survived the millennia trapped inside this ruin...,이 폐허 안에 갇혀 수천 년을 버텨냈길 바랄 뿐이야...,XAN,,,,,0,0
+78206,Henchman,Henchman_XAN,Yes... I know... But we need to find all three first.,그래... 알아... 하지만 먼저 셋 다 찾아야 해.,XAN,,,,,0,0
+78207,Henchman,Henchman_XAN,"They're supposed to be scattered around, with each one in a different place. But surely they would not have left them unguarded...","흩어져 있다고 해, 각각 다른 곳에. 하지만 분명히 지키지 않고 두지는 않았을 거야...",XAN,,,,,0,0
+78208,Henchman,Henchman_XAN,I think it's likely they put each one in its own fortress of sorts... something to protect it from casual outsiders and thieves.,각각을 자체 요새 같은 곳에 뒀을 것 같아... 평범한 외부인들과 도둑들로부터 보호하기 위해.,XAN,,,,,0,0
+78209,Henchman,Henchman_XAN,"Hah! Them? Those thieves. No, I don't think they'd know anything about this city. They're just common thieves and slavers.","하! 그들? 그 도둑들. 아니, 이 도시에 대해 뭘 알 것 같지 않아. 그냥 평범한 도둑과 노예상들이야.",XAN,,,,,0,0
+78210,Henchman,Henchman_XAN,Indeed. We will likely have to face whatever guardians the ancient Netherese put in place... plus whatever Heurodis has done to reinforce them.,그래. 고대 네더릴인들이 배치한 수호자들과... 헤우로디스가 강화하기 위해 한 것들을 맞서야 할 거야.,XAN,,,,,0,0
+78211,Henchman,Henchman_XAN,I do not know...,모르겠어...,XAN,,,,,0,0
+78212,Henchman,Henchman_XAN,"Perhaps as this city is divided into sections, maybe they placed the Winds in those as well...","어쩌면 이 도시가 구역으로 나뉜 것처럼, 바람들도 그곳에 배치했을지도...",XAN,,,,,0,0
+78213,Henchman,Henchman_XAN,"We must search them at any rate, but we must stay on our guard. We cannot allow Heurodis or whatever lurks here to stop us in our task.","어쨌든 찾아봐야 하지만, 경계를 늦추면 안 돼. 헤우로디스나 여기 숨어 있는 것들이 우리 임무를 막게 두면 안 돼.",XAN,,,,,0,0
+78214,Henchman,Henchman_XAN,Hah! Don't let overconfidence blind you to the truth! We need those Winds.,하! 과신이 진실을 가리게 두지 마! 저 바람들이 필요해.,XAN,,,,,0,0
+78215,Henchman,Henchman_XAN,This place seems to be shaking itself apart! It is only a matter of time before all this collapses around us.,이곳이 스스로 산산조각 나는 것 같아! 이 모든 게 우리 주위로 무너지는 건 시간문제야.,XAN,x0_d1_hen_inter0,,,,0,0
+78216,Henchman,Henchman_XAN,Heurodis might be trying to reactivate this city... to make it fly again... but I don't think it would work.,헤우로디스가 이 도시를 재가동하려는 것 같아... 다시 날게 만들려고... 하지만 될 것 같지 않아.,XAN,,,,,0,0
+78217,Henchman,Henchman_XAN,Indeed... and that is why we must make certain to stop her.,그래... 그래서 그녀를 막아야 해.,XAN,,,,,0,0
+78218,Henchman,Henchman_XAN,"She might get the city to fly; she might harness its powers. But when it finally comes crashing down around her, who knows what destruction it will cause...","도시를 날게 할 수도, 그 힘을 이용할 수도 있어. 하지만 결국 그녀 주위로 추락할 때, 어떤 파괴를 일으킬지 누가 알겠어...",XAN,,,,,0,0
+78219,Henchman,Henchman_XAN,"No, it's vital we stop her... we cannot afford to fail.","아니, 그녀를 막는 게 중요해... 실패할 수 없어.",XAN,,,,,0,0
+78220,Henchman,Henchman_XAN,"Hah! Yes, I had almost forgotten... I suppose that says something about me... about us.","하! 그래, 거의 잊고 있었어... 그게 나에 대해... 우리에 대해 뭔가를 말해주는 것 같아.",XAN,,,,,0,0
+78221,Henchman,Henchman_XAN,"Hah! I had thoughts of that, too, at one point. But the powers here, old though they are, are too strong for any of us to wield.","하! 한때는 나도 그런 생각을 했어. 하지만 여기 힘들은, 오래됐어도, 우리 중 누구도 휘두르기엔 너무 강해.",XAN,,,,,0,0
+78222,Henchman,Henchman_XAN,"But... a thought occurs: we may not be able to harness the city, but surely some of the items within it must hold incredible magical power.","하지만... 생각이 떠오르네: 도시는 이용 못 할지 몰라도, 분명 그 안의 일부 아이템들은 엄청난 마법 능력을 가지고 있을 거야.",XAN,,,,,0,0
+78223,Henchman,Henchman_XAN,Any that we could take with us... Just think of it! The power!,우리가 가져갈 수 있는 것들... 생각만 해봐! 그 힘을!,XAN,,,,,0,0
+78224,Henchman,Henchman_XAN,Yes. Let's go quickly.,그래. 빨리 가자.,XAN,,,,,0,0
+78225,Henchman,Henchman_XAN,"Hah! Not if I find it first! Let us hurry, then.",하! 내가 먼저 찾으면 안 돼! 서두르자.,XAN,,,,,0,0
+78226,Henchman,Henchman_XAN,Perhaps... Let us hurry in any case.,어쩌면... 어쨌든 서두르자.,XAN,,,,,0,0
+78227,Henchman,Henchman_XAN,Yes. Speed and time are of the essence.,그래. 속도와 시간이 핵심이야.,XAN,,,,,0,0
+78228,Henchman,Henchman_XAN,It is too old... I can sense the magic failing in the enchantments... The decay...,너무 오래됐어... 마법진의 마법이 실패하는 게 느껴져... 부패가...,XAN,,,,,0,0
+78229,Henchman,Henchman_XAN,Drogan... he is dead now. I am having... difficulty with this.,드로건... 이제 돌아가셨어. 난... 이게 힘들어.,XAN,x0_d1_hen_inter0,,,,0,0
+78230,Henchman,Henchman_XAN,Bah! Xanos is not weak! Xanos is strong! Stronger than you it would seem...,젠장! 자노스는 약하지 않아! 자노스는 강해! 네가 보기에 그런 것보다 더...,XAN,,,,,0,0
+78231,Henchman,Henchman_XAN,It is not weakness to admit your feelings... You can draw much strength from it.,감정을 인정하는 건 약한 게 아니야... 거기서 큰 힘을 얻을 수 있어.,XAN,,,,,0,0
+78232,Henchman,Henchman_XAN,"Drogan... As much as I hate to say it, he was like family to me.","드로건은... 인정하기 싫지만, 내겐 가족 같은 존재였어.",XAN,,,,,0,0
+78233,Henchman,Henchman_XAN,Xanos never relied on anyone save Xanos... until he came along. He was a mentor to me... almost a father.,자노스는 자노스 말고는 아무도 믿지 않았어... 그가 나타나기 전까진. 그는 내 스승이었고... 거의 아버지 같았지.,XAN,,,,,0,0
+78234,Henchman,Henchman_XAN,"He took me in when none would and in the end, he gave his life for me as well...","아무도 안 받아줄 때 그는 날 받아줬고, 결국엔 날 위해 목숨까지 바쳤어...",XAN,,,,,0,0
+78235,Henchman,Henchman_XAN,"Bah! Cynicism and mockery are your trademarks, as always. I try to be serious and that is the response you give me...",젠장! 냉소와 조롱은 네 상징이지. 진지하게 얘기하려고 하면 네가 하는 반응이 그거야...,XAN,,,,,0,0
+78236,Henchman,Henchman_XAN,"I do not disagree, but did you hear the things he had to say to Xanos? He was a gruff old dwarf, and I was a troublesome student.","아니라고 할 순 없지만, 그가 자노스한테 한 말들 들었잖아? 그는 까칠한 늙은 드워프였고, 난 문제아 제자였어.",XAN,,,,,0,0
+78237,Henchman,Henchman_XAN,"I thought... I believed that he saw something more in Xanos, but the words never came from his mouth before. Why... why did those words have to come only when he was dying?","난 생각했어... 그가 자노스에게서 뭔가 더 많은 걸 봤다고 믿었는데, 그 말은 한 번도 그의 입에서 나오지 않았어. 왜... 왜 그 말들은 죽어가는 순간에만 나와야 했던 거지?",XAN,,,,,0,0
+78238,Henchman,Henchman_XAN,Why could Xanos never let go of his pride and confide in his mentor. So many things I should have said... now it is too late.,왜 자노스는 자존심을 버리지 못하고 스승에게 털어놓지 못했을까. 해야 했던 말들이 얼마나 많았는데... 이젠 너무 늦었어.,XAN,,,,,0,0
+78239,Henchman,Henchman_XAN,"Curse your miserable heart, <FirstName>. If it were not for the example set by Master Drogan I would destroy you here and now for your foul words.","지독한 놈, <FirstName>. 드로건 사부님께서 보여주신 모범이 아니었다면, 네 그 더러운 말 때문에 지금 당장 널 죽였을 거야.",XAN,,,,,0,0
+78240,Henchman,Henchman_XAN,Indeed. There is much that needs to be finished. We will not let his sacrifice be in vain. ,그래. 끝내야 할 일이 많아. 그분의 희생을 헛되이 하지 않을 거야.,XAN,,,,,0,0
+78241,Henchman,Henchman_XAN,Drogan gave everything to stop Heurodis from gaining the mythallar and using it for her foul purposes. We must not fail in this.,드로건은 헤우로디스가 미살라를 손에 넣어서 사악한 목적으로 쓰는 걸 막기 위해 모든 걸 바쳤어. 우린 실패할 수 없어.,XAN,,,,,0,0
+78242,Henchman,Henchman_XAN,When we find Heurodis... I will tear her heart from her chest!,헤우로디스를 찾으면... 그년의 심장을 뜯어내 주겠어!,XAN,,,,,0,0
+78243,Henchman,Henchman_XAN,"The power of this crystal, this... mythallar. Are you sure that you can handle it? Should not Xanos keep it safe?","이 수정의 힘, 이... 미살라. 네가 정말 다룰 수 있는 거 맞아? 자노스가 안전하게 보관해야 하는 거 아니야?",XAN,x0_d1_hen_inter0,,,,0,0
+78244,Henchman,Henchman_XAN,Bah! You laugh at Xanos! I do not know why I put up with you sometimes.,젠장! 날 비웃는 거야! 가끔 왜 너랑 같이 다니는지 모르겠어.,XAN,,,,,0,0
+78245,Henchman,Henchman_XAN,Bah! You mock Xanos and seek to belittle him? I do not know why I put up with you sometimes. Who leads whom here? You should ask yourself this sometime.,젠장! 자노스를 조롱하고 깔보려는 거야? 가끔 왜 너랑 같이 다니는지 모르겠어. 누가 누굴 이끄는 건지 생각해 봐.,XAN,,,,,0,0
+78246,Henchman,Henchman_XAN,Perhaps... perhaps not. I suppose we have little choice.,그럴지도... 아닐지도. 어쩔 수 없는 것 같긴 해.,XAN,,,,,0,0
+78247,Henchman,Henchman_XAN,"The power that Garrick has said is within this crystal, though... It is awesome. If this master of J'Nah's could lay hands on it...",가릭이 말한 이 수정 안의 힘은... 엄청나. 즈나의 주인이란 놈이 이걸 손에 넣으면...,XAN,,,,,0,0
+78248,Henchman,Henchman_XAN,Hah! You are awfully confident for someone who has had such troubles so far.,하! 지금까지 고생한 주제에 자신감만 넘치네.,XAN,,,,,0,0
+78249,Henchman,Henchman_XAN,"Indeed, it is only because of Xanos that you have come as far as you have! Hah!","사실, 자노스가 있었기에 여기까지 온 거지! 하!",XAN,,,,,0,0
+78250,Henchman,Henchman_XAN,But... it may be better if you keep the mythallar in your care... so long as you recognize what it is you carry.,하지만... 네가 미살라를 보관하는 게 나을지도... 네가 뭘 가지고 있는지만 알고 있다면.,XAN,,,,,0,0
+78251,Henchman,Henchman_XAN,I suppose it is better that you keep it in your care... so long as you recognize what it is you carry.,네가 보관하는 게 나은 것 같아... 네가 뭘 가지고 있는지만 알고 있다면.,XAN,,,,,0,0
+78252,Henchman,Henchman_XAN,"Indeed we cannot. I suppose it is better then, that you keep it in your care... so long as you recognize what it is you carry.",그럴 수 없지. 네가 보관하는 게 낫겠어... 네가 뭘 가지고 있는지만 알고 있다면.,XAN,,,,,0,0
+78253,Henchman,Henchman_XAN,"That one crystal, if used improperly, could destroy us all... and the rocks and sand for miles around. It is dangerous... yet therein lies its allure.","저 수정 하나만 잘못 쓰면, 우리 전부와 주변 수 마일의 바위와 모래까지 날려버릴 수 있어... 위험하지... 하지만 바로 거기에 매력이 있어.",XAN,,,,,0,0
+78254,Henchman,Henchman_XAN,"If you could just let me hold it and try to... no! I... I do not think I should be trusted to handle it... It is, perhaps, too tempting.",잠깐만 들고 시험해 볼 수 있게 해줄래... 안 돼! 난... 날 믿고 맡기면 안 될 것 같아... 너무 유혹적이야.,XAN,,,,,0,0
+78255,Henchman,Henchman_XAN,Keep it... Keep the crystal... Keep it safe and we shall see what utility it may prove to be later.,네가 가져... 수정을 가지고... 안전하게 보관해. 나중에 어떻게 쓸모있을지 보자고.,XAN,,,,,0,0
+78256,Henchman,Henchman_XAN,Xanos wishes to make a complaint. This desert is a hellish and inhospitable place! Our traveling accomodations are dreadful and the food since we left Hilltop has been nothing short of dreadful!,"자노스는 불만을 제기하고 싶다. 이 사막은 지옥 같고 적대적인 곳이야! 이동 숙소는 끔찍하고, 힐탑을 떠난 이후 음식은 정말 최악이었어!",XAN,x0_d1_hen_inter0,,,,0,0
+78257,Henchman,Henchman_XAN,"So you are in the same position as Xanos. Neither of us asked to be here, and yet here we are!",넌 자노스랑 같은 처지군. 우리 둘 다 여기 오고 싶어서 온 게 아니잖아!,XAN,,,,,0,0
+78258,Henchman,Henchman_XAN,"Nothing, obviously. You are in no better a position than Xanos. Neither of us was given a choice as to whether or not we wished to come here!",뻔하잖아. 넌 자노스보다 나은 처지가 아니야. 우리 둘 다 여기 오고 싶냐고 선택권 받은 적 없어!,XAN,,,,,0,0
+78259,Henchman,Henchman_XAN,"Was Xanos given a choice? Were you? I did not ask to be sent into the desert to risk my life, as I recall.","자노스가 선택권 받았어? 넌? 내가 기억하기론, 사막으로 가서 목숨 걸으라는 요청 받은 적 없는데.",XAN,,,,,0,0
+78260,Henchman,Henchman_XAN,"Bah! I believe that I am entitled to some ""whining"", as you put it. Xanos did not ask to be here!","젠장! 자노스는 ""투덜거림""이라고 하든 뭐든 좀 할 자격이 있어. 자노스는 여기 오고 싶지 않았어!",XAN,,,,,0,0
+78261,Henchman,Henchman_XAN,"No sooner was one dangerous task completed, then we were ordered to rush headlong into another! And for what?! To identify this little crystal?!","위험한 일 하나 끝내자마자, 또 다른 일로 당장 돌진하라는 명령을 받았어! 뭐 때문에?! 이 조그만 수정 감정하자고?!",XAN,,,,,0,0
+78262,Henchman,Henchman_XAN,"And yet here we both are, performing Drogan's little task like dutiful children. We risk our lives for nothing!","근데 우리 둘 다 여기 있잖아, 드로건의 심부름을 착한 아이들처럼 수행하면서. 우린 아무 것도 아닌 것 때문에 목숨을 걸어!",XAN,,,,,0,0
+78263,Henchman,Henchman_XAN,"I would rather we not have left Hilltop at all! What relevance does this task have to our lives, eh?",난 힐탑을 떠나지 말았어야 했어! 이 일이 우리 삶에 무슨 관계가 있는데?,XAN,,,,,0,0
+78264,Henchman,Henchman_XAN,"Obviously it is not important enough a task for Drogan to take it on, himself, is it? No, it is for us to risk our lives for nothing!","드로건이 직접 맡을 만큼 중요한 일이 아니라는 거 뻔하잖아? 아니지, 우리더러 목숨 걸고 하라는 거지!",XAN,,,,,0,0
+78265,Henchman,Henchman_XAN,So what if we have this crystal identified? Then what? We should be looking for the culprit behind that J'Nah woman and taking the battle to her!,그래서 이 수정 감정받으면 어쩔 건데? 그다음엔? 즈나란 여자 배후에 있는 놈을 찾아서 그쪽으로 싸움을 걸어야지!,XAN,,,,,0,0
+78266,Henchman,Henchman_XAN,"Or better yet, give all the artifacts back to the Harpers and tell them to think of a better place to hide them. If we do not have what this woman wants, she need not bother with us!","아니면 차라리 유물들을 전부 하퍼들한테 돌려주고 더 나은 은신처나 생각하라고 해. 우리한테 그 여자가 원하는 게 없으면, 우리한테 신경 쓸 필요도 없잖아!",XAN,,,,,0,0
+78267,Henchman,Henchman_XAN,"What does it matter? This is Harper business, not ours! By carrying this crystal, we put ourselves in danger!","무슨 상관이야? 이건 하퍼들 일이지, 우리 일이 아니야! 이 수정을 가지고 다니면서 우리 자신을 위험에 빠뜨리고 있어!",XAN,,,,,0,0
+78268,Henchman,Henchman_XAN,"Of course Xanos makes sense! Why are we even involved in this madness?! This is Harper business, not ours! By carrying this crystal, we put ourselves in danger!","당연히 자노스가 맞지! 우리가 왜 이 미친 짓에 말려든 거야?! 이건 하퍼들 일이지, 우리 일이 아니야! 이 수정을 가지고 다니면서 우리 자신을 위험에 빠뜨리고 있어!",XAN,,,,,0,0
+78269,Henchman,Henchman_XAN,"Yes, and that is what Xanos finds so very irritating. Moreso than having my britches full of sand, even. I do not know why I put up with it.","맞아, 그게 자노스가 제일 짜증나는 거야. 바지에 모래가 가득 찬 것보다도 더. 왜 참고 있는지 모르겠어.",XAN,,,,,0,0
+78270,Henchman,Henchman_XAN,"Hmmm. Perhaps you are right. Still, Xanos would prefer to choose when he risks his hide, regardless of the possible rewards. Unless they are very, very big rewards. Hmmm.","흠. 네 말이 맞을지도. 그래도 자노스는 언제 목숨을 걸지 선택하고 싶어, 가능한 보상이 뭐든 간에. 엄청 엄청 큰 보상이 아닌 한. 흠.",XAN,,,,,0,0
+78271,Henchman,Henchman_XAN,Do not be ridiculous! Xanos laughs in the face of danger! Ha ha ha!,웃기지 마! 자노스는 위험 앞에서 웃어! 하하하!,XAN,,,,,0,0
+78272,Henchman,Henchman_XAN,"What?! Where?! Kill it! Kill it quickly, I... oh, I see. You are joking with Xanos. How very droll you can be, <FirstName>, ha ha.","뭐?! 어디?! 죽여! 빨리 죽여, 난... 아, 알겠어. 자노스한테 농담하는 거군. 재미있네, <FirstName>, 하하.",XAN,,,,,0,0
+78273,Henchman,Henchman_XAN,"Yes, and notice how greatly he is helping us in return, eh? Our rings no longer protect us, and yet he gives us nothing to replace them.","그래, 그리고 그가 우리한테 얼마나 도움이 되는지 봐. 우리 반지들은 더 이상 보호 안 해주는데, 대신 줄 건 아무것도 없잖아.",XAN,,,,,0,0
+78274,Henchman,Henchman_XAN,"Tell me seriously, however... why did you come? Xanos may have little choice but to follow you about, but you could have refused if anyone could have.","진지하게 물어보는데... 넌 왜 왔어? 자노스는 어쩔 수 없이 널 따라다니지만, 넌 거절할 수 있었잖아.",XAN,,,,,0,0
+78275,Henchman,Henchman_XAN,"Too late, eh? Xanos is beginning to think that you enjoy all of this more than you say. Perhaps you are right to do so... or perhaps you are crazy.",너무 늦었어? 자노스는 네가 말하는 것보다 이 모든 걸 즐기는 것 같은데. 그게 맞을지도... 아니면 네가 미쳤거나.,XAN,,,,,0,0
+78276,Henchman,Henchman_XAN,You believe so? Perhaps you are right. Perhaps Xanos thinks too much of his comfort and not the power this little crystal could bring. You make a good point.,그렇게 생각해? 네 말이 맞을지도. 자노스는 편안함만 생각하고 이 조그만 수정이 가져올 힘은 생각 안 했어. 좋은 지적이야.,XAN,,,,,0,0
+78277,Henchman,Henchman_XAN,"I see. Xanos swears... if you begin to run around waving your weapon and crying, ""Wheeee!"", I shall vomit.","알겠어. 자노스는 맹세하는데... 네가 무기 휘두르면서 ""위이이!"" 하고 뛰어다니기 시작하면, 토할 거야.",XAN,,,,,0,0
+78278,Henchman,Henchman_XAN,"Pfah! One day I hope you will grow a spine, <FirstName>. It is revolting to see you grovel before Drogan as he throws you a bone.","젠장! 언젠간 네가 배짱이 좀 생겼으면 좋겠어, <FirstName>. 드로건이 뼈다귀 하나 던져주면 그 앞에서 기어 다니는 꼴이 역겹네.",XAN,,,,,0,0
+78279,Henchman,Henchman_XAN,"Yes, revenge is good. Whoever is behind this attacked Xanos as much as she attacked the dwarf, eh? That is true.","그래, 복수는 좋지. 배후에 있는 놈이 그 드워프만큼이나 자노스도 공격한 거잖아? 맞아.",XAN,,,,,0,0
+78280,Henchman,Henchman_XAN,"Bah. Xanos will come along, then, and do as he must. But he will still complain! Never shall he relent!","젠장. 자노스는 같이 갈게, 해야 할 일 하고. 하지만 계속 불평할 거야! 절대 멈추지 않을 거야!",XAN,,,,,0,0
+78281,Henchman,Henchman_XAN,"Yes, it is very good, is it not? What a pair we shall make!","그래, 아주 좋지, 안 그래? 우리 둘이 환상의 짝꿍이 될 거야!",XAN,,,,,0,0
+78282,Henchman,Henchman_XAN,"And why not? It is better than listening to other people speak. Try long enough and others become a distant buzzing, in fact.",왜 안 돼? 남 얘기 듣는 것보단 낫지. 충분히 오래 해보면 다른 사람들은 저 멀리서 윙윙거리는 소리가 돼.,XAN,,,,,0,0
+78283,Henchman,Henchman_XAN,Eh? What was that?,어? 뭐라고?,XAN,,,,,0,0
+78284,Henchman,Henchman_XAN,Now you sound like Xanos's mother. I am beginning to feel very nostalgic.,이제 자노스 엄마처럼 들리는데. 향수가 느껴지네.,XAN,,,,,0,0
+78285,Henchman,Henchman_XAN,"Xanos shall mouth his complaints in your direction, then. And use hand gestures, of course.",그럼 자노스가 불평을 네 쪽으로 입 모양으로만 할게. 물론 손짓도 하고.,XAN,,,,,0,0
+78286,Henchman,Henchman_XAN,"But enough with our dawdling. If we are to find treasure and power, we will not do so standing about. Lead on, <FirstName>.","이제 그만 꾸물거리자. 보물과 힘을 찾으려면, 여기 서 있어선 안 돼. 가자, <FirstName>.",XAN,,,,,0,0
+78287,Henchman,Henchman_XAN,Very well. I will come.,알았어. 갈게.,XAN,,,,,0,0
+78288,Henchman,Henchman_XAN,I shall stay then. Leave if you will.,여기 남아 있겠어. 가고 싶으면 가.,XAN,,,,,0,0
+78289,Henchman,Henchman_XAN,<StartHighlight>Xanos is currently unconscious and will likely die if he is not given aid very soon.</Start>,"<StartHighlight>자노스는 현재 의식이 없고, 곧 도움을 받지 못하면 죽을 것이다.</Start>",XAN,,,,,0,0
+78290,Henchman,Henchman_XAN,This is not a good time to speak.,지금은 말할 때가 아니야.,XAN,,,,,0,0

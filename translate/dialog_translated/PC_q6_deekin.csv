@@ -1,0 +1,126 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+73901,PC,Player Character,Tymofarrar is dead.,티모파라르는 죽었어.,q6_deekin,,con_q6deekin_4,,,0,0
+73902,PC,Player Character,You want proof?!,증거를 원하는 거야?!,q6_deekin,,,,,0,0
+73903,PC,Player Character,"No, I don't have any proof.","아니, 증거는 없어.",q6_deekin,,,,,0,0
+73904,PC,Player Character,"I got the mask artifact from him, didn't I?","그에게서 가면 유물을 얻었잖아, 안 그래?",q6_deekin,,q6_hasmask,,,0,0
+73905,PC,Player Character,"<StartCheck>[Persuade/Lie]</Start> Trust me, Deekin... he's dead.","<StartCheck>[설득/거짓말]</Start> 날 믿어, 디킨... 그는 죽었어.",q6_deekin,,q6_tymonotdead,,,0,0
+73906,PC,Player Character,That's it! You're going to die for this insult!!,좋아! 이 모욕의 대가로 죽는 거야!!,q6_deekin,,,,,0,0
+73907,PC,Player Character,"<StartCheck>[Persuade]</Start> Trust me, Deekin... he's dead.","<StartCheck>[설득]</Start> 날 믿어, 디킨... 그는 죽었어.",q6_deekin,,q6_tymodead,,,0,0
+73908,PC,Player Character,I have his head. How's that for proof?,그의 머리를 가지고 있어. 이 정도면 증거가 되겠어?,q6_deekin,,q6_pchashead,,,0,0
+73909,PC,Player Character,"Well, I talked to Tymofarrar...","음, 티모파라르와 이야기했어...",q6_deekin,,q5_pctalktymo,,,0,0
+73910,PC,Player Character,Never mind.,신경 쓰지 마.,q6_deekin,,q5_pcnottalk,,,0,0
+73911,PC,Player Character,"It doesn't matter. He's dead, now.","상관없어. 이제 죽었으니까.",q6_deekin,,con_q6deekin_4,,,0,0
+73912,PC,Player Character,"I haven't persuaded him to free you, yet.","아직 널 풀어주라고 설득하지 못했어.",q6_deekin,,,,,0,0
+73913,PC,Player Character,He wants me to kill J'Nah... and then he'll let you go.,그가 즈나를 죽이길 원해... 그러면 널 풀어준대.,q6_deekin,,q6_deeknotfree02,,,0,0
+73914,PC,Player Character,He said you're free to go. He gave me this... doll... to give to you.,네가 자유라고 했어. 이... 인형을... 너한테 주라고 줬어.,q6_deekin,,q6_deekfreehs,,,0,0
+73915,PC,Player Character,He said he really didn't care what you did.,네가 뭘 하든 상관없다고 했어.,q6_deekin,,q6_deekfreens,,,0,0
+73916,PC,Player Character,<StartCheck>[Persuade/Lie]</Start> He said you're free to go.,<StartCheck>[설득/거짓말]</Start> 네가 자유라고 했어.,q6_deekin,,q6_deeknotfree,,,0,0
+73917,PC,Player Character,"I got news for you, alright: you're dead!","소식이 있다면, 네가 죽는다는 거야!",q6_deekin,,,,,0,0
+73918,PC,Player Character,"Get away from me, you filthy cretin!","꺼져, 이 더러운 놈아!",q6_deekin,,,,,0,0
+73919,PC,Player Character,"If I have something to tell you, I'll tell you.","할 말이 있으면 말하겠어.",q6_deekin,,,,,0,0
+73920,PC,Player Character,"Sorry, Deekin, nothing yet.","미안, 디킨, 아직 아무것도 없어.",q6_deekin,,,,,0,0
+73921,PC,Player Character,I don't need your help.,네 도움은 필요 없어.,q6_deekin,,,,,0,0
+73922,PC,Player Character,I have some questions.,질문이 좀 있어.,q6_deekin,,,,,0,0
+73923,PC,Player Character,"No more questions, here.","질문은 이제 그만.",q6_deekin,,,,,0,0
+73924,PC,Player Character,How do I know you even have the tower statue?,네가 탑 조각상을 가지고 있다는 걸 어떻게 믿어?,q6_deekin,,,,,0,0
+73925,PC,Player Character,"Fair enough, I suppose.","공정한 거래인 것 같네.",q6_deekin,,,,,0,0
+73926,PC,Player Character,What use is a broken statue to me?,부서진 조각상이 내게 무슨 소용이야?,q6_deekin,,,,,0,0
+73927,PC,Player Character,There is no shiny rock inside. You're lying!,안에 반짝이는 돌은 없어. 거짓말하는 거야!,q6_deekin,,,,,0,0
+73928,PC,Player Character,"I didn't know it was there, either, until you told me.","나도 네가 말해주기 전까진 몰랐어.",q6_deekin,,,,,0,0
+73929,PC,Player Character,I want to know more about these gnolls.,이 놀들에 대해 더 알고 싶어.,q6_deekin,,,,,0,0
+73930,PC,Player Character,What happened during the attack?,공격 중에 무슨 일이 있었어?,q6_deekin,,,,,0,0
+73931,PC,Player Character,And the gnolls didn't chase you?,그리고 놀들이 널 쫓지 않았어?,q6_deekin,,,,,0,0
+73932,PC,Player Character,"Why did they attack you, then?","그럼 왜 널 공격한 거야?",q6_deekin,,,,,0,0
+73933,PC,Player Character,Tell me about the other kobolds.,다른 코볼트들에 대해 말해 줘.,q6_deekin,,,,,0,0
+73934,PC,Player Character,Enough about the kobolds.,코볼트 얘기는 이제 그만.,q6_deekin,,,,,0,0
+73935,PC,Player Character,Is there a secret way in to find Tymofarrar?,티모파라르를 찾아갈 비밀 통로가 있어?,q6_deekin,,,,,0,0
+73936,PC,Player Character,Well... won't Tymofarrar be angry if I kill all his kobolds?,음... 내가 그의 코볼트들을 전부 죽이면 티모파라르가 화내지 않을까?,q6_deekin,,,,,0,0
+73937,PC,Player Character,What protections do these caves have?,이 동굴들엔 어떤 방어 장치가 있어?,q6_deekin,,,,,0,0
+73938,PC,Player Character,Ice Hounds?,얼음 사냥개들?,q6_deekin,,,,,0,0
+73939,PC,Player Character,Master Jumper?,뜀박장?,q6_deekin,,,,,0,0
+73940,PC,Player Character,Big Chief?,대족장?,q6_deekin,,,,,0,0
+73941,PC,Player Character,Tell me about Tymofarrar.,티모파라르에 대해 말해 줘.,q6_deekin,,,,,0,0
+73942,PC,Player Character,"Alright, enough about the dragon.","좋아, 용 얘기는 이제 그만.",q6_deekin,,,,,0,0
+73943,PC,Player Character,How long has Tymofarrar lived in the area? Do you know?,티모파라르가 이 지역에 얼마나 오래 살았어? 알아?,q6_deekin,,,,,0,0
+73944,PC,Player Character,"Just how powerful is Tymofarrar, anyway?","티모파라르가 정확히 얼마나 강력한 거야?",q6_deekin,,,,,0,0
+73945,PC,Player Character,Does this dragon have any weaknesses that you know of?,이 용에게 네가 아는 약점이 있어?,q6_deekin,,,,,0,0
+73946,PC,Player Character,Do you know how Tymofarrar knew that Drogan had those artifacts?,티모파라르가 드로건이 그 유물들을 가지고 있다는 걸 어떻게 알았는지 알아?,q6_deekin,,,,,0,0
+73947,PC,Player Character,"He has a lot of treasure, does he?","그가 보물을 많이 가지고 있어?",q6_deekin,,,,,0,0
+73948,PC,Player Character,Do you know where he hides it?,어디에 숨겼는지 알아?,q6_deekin,,,,,0,0
+73949,PC,Player Character,Why would Tymofarrar want to steal the artifacts?,티모파라르가 왜 유물들을 훔치려 했을까?,q6_deekin,,,,,0,0
+73950,PC,Player Character,Where do I find him?,그를 어디서 찾을 수 있어?,q6_deekin,,,,,0,0
+73951,PC,Player Character,Why don't you want to go back to your old Master?,왜 옛 주인님한테 돌아가고 싶지 않은 거야?,q6_deekin,,q6_deekin07,,,0,0
+73952,PC,Player Character,You really think that's possible?,정말 그게 가능하다고 생각해?,q6_deekin,,,,,0,0
+73953,PC,Player Character,Don't be ridiculous. You're just a kobold!,웃기지 마. 넌 그냥 코볼트잖아!,q6_deekin,,,,,0,0
+73954,PC,Player Character,"Oh, I'm not such a great traveler.","아, 나도 그렇게 대단한 여행자는 아니야.",q6_deekin,,,,,0,0
+73955,PC,Player Character,I think that's an admirable goal.,그거 훌륭한 목표인 것 같아.,q6_deekin,,,,,0,0
+73956,PC,Player Character,Do you know anything about a sorceress named J'Nah?,즈나라는 요술사에 대해 아는 게 있어?,q6_deekin,,q6_deekin_jnah,,,0,0
+73957,PC,Player Character,He sent the kobolds on the raid because he was angry?,화가 나서 코볼트들을 급습에 보냈다고?,q6_deekin,,,,,0,0
+73958,PC,Player Character,What I want is that tower statue.,내가 원하는 건 그 탑 조각상이야.,q6_deekin,,,,,0,0
+73959,PC,Player Character,"Alright, have it your way.","좋아, 네 맘대로 해.",q6_deekin,,,,,0,0
+73960,PC,Player Character,"<StartAction>[Cast Charm Person]</Start> But I'm your friend, Deekin.","<StartAction>[사람 매혹 시전]</Start> 하지만 난 네 친구야, 디킨.",q6_deekin,act_q6deekin_2,con_q1dkobold_4,,,0,0
+73961,PC,Player Character,"<StartCheck>[Persuade]</Start> How about you just show it to me, so I know you do have it?","<StartCheck>[설득]</Start> 그냥 내게 보여주는 게 어때? 네가 정말 가지고 있는지 알 수 있게.",q6_deekin,,,,,0,0
+73962,PC,Player Character,<StartCheck>[Persuade]</Start> Don't you trust me? I promise I'll free you.,<StartCheck>[설득]</Start> 날 못 믿는 거야? 널 자유롭게 해주겠다고 약속할게.,q6_deekin,,,,,0,0
+73963,PC,Player Character,<StartCheck>[Intimidate]</Start> Listen... give me the statue *now* and this will hurt a lot less.,<StartCheck>[위협]</Start> 들어봐... 조각상을 *지금* 내놔. 그러면 덜 아플 거야.,q6_deekin,,,,,0,0
+73964,PC,Player Character,That's it! I'd rather kill you than get the statue!,좋아! 조각상 얻는 것보다 널 죽이는 게 낫겠어!,q6_deekin,,,,,0,0
+73965,PC,Player Character,"For starters, stop calling me ""<CUSTOM1001>"".","일단, 나를 ""<CUSTOM1001>""라고 부르지 마.",q6_deekin,,,,,0,0
+73966,PC,Player Character,I don't really care.,난 상관없어.,q6_deekin,x0_d1_deekcall07,,,,0,0
+73967,PC,Player Character,"Call me ""Mistress""!","나를 ""여주인님""이라고 불러!",q6_deekin,x0_d1_deekcall03,nw_d2_female,,,0,0
+73968,PC,Player Character,"Call me ""Master""!","나를 ""주인님""이라고 불러!",q6_deekin,x0_d1_deekcall03,nw_d2_male,,,0,0
+73969,PC,Player Character,I'd prefer you didn't talk to me at all.,차라리 나한테 말을 안 걸었으면 좋겠어.,q6_deekin,x0_d1_deekcall06,,,,0,0
+73970,PC,Player Character,"""The great <FirstName>"" will do, I suppose.","""위대한 <FirstName>""라고 부르면 될 것 같아.",q6_deekin,x0_d1_deekcall02,,,,0,0
+73971,PC,Player Character,My name is <FirstName>.,내 이름은 <FirstName>이야.,q6_deekin,x0_d1_deekcall01,,,,0,0
+73972,PC,Player Character,I should go.,가봐야겠어.,q6_deekin,,,,,0,0
+73973,PC,Player Character,I could use some help. Why don't you travel with me?,도움이 좀 필요해. 나와 함께 여행하는 게 어때?,q6_deekin,,,,,0,0
+73974,PC,Player Character,"Oh, forget it.","아, 잊어버려.",q6_deekin,,,,,0,0
+73975,PC,Player Character,"Tymofarrar is not going to swoop down on you, I'm sure.","티모파라르가 네게 덮치진 않을 거야, 확신해.",q6_deekin,,,,,0,0
+73976,PC,Player Character,"It would be funny to watch, that's for sure.","보면 재밌긴 하겠지, 확실히.",q6_deekin,,,,,0,0
+73977,PC,Player Character,"No, I suppose not.","아니, 그렇겠지.",q6_deekin,,,,,0,0
+73978,PC,Player Character,Why are you following me? Speak quickly!,왜 나를 따라오는 거야? 빨리 말해!,q6_deekin,,,,,0,0
+73979,PC,Player Character,I would never help an evil creature such as you!,너 같은 사악한 생명체는 절대 돕지 않을 거야!,q6_deekin,,,,,0,0
+73980,PC,Player Character,"You should be more frightened of me! Die, monster!!","나를 더 두려워해야 할 텐데! 죽어라, 괴물!!",q6_deekin,,,,,0,0
+73981,PC,Player Character,And why would I even consider helping you?,왜 내가 널 돕는 걸 고려하기라도 하겠어?,q6_deekin,,,,,0,0
+73982,PC,Player Character,So what did you do that is so terrible?,그래서 네가 그렇게 끔찍한 짓을 뭘 한 거야?,q6_deekin,,,,,0,0
+73983,PC,Player Character,Alright. I'll see what I can do.,좋아. 내가 뭘 할 수 있을지 보지.,q6_deekin,,q6_deekin04,,,0,0
+73984,PC,Player Character,You mean Blumberg?,블럼버그를 말하는 거야?,q6_deekin,,,,,0,0
+73986,PC,Player Character,<StartCheck>[Persuade]</Start> Give me the statue and I might consider helping you.,<StartCheck>[설득]</Start> 조각상을 내게 줘. 그러면 널 도울지 고려해볼게.,q6_deekin,,,,,0,0
+73987,PC,Player Character,"Hand the statue over right now, kobold. Your life depends on it!","조각상을 당장 내놔, 코볼트. 네 목숨이 달렸어!",q6_deekin,,,,,0,0
+73988,PC,Player Character,So how am I supposed to help you?,그래서 내가 어떻게 널 도와야 하는데?,q6_deekin,,q6_deekin03,,,0,0
+73989,PC,Player Character,Are you blackmailing me?!,나를 협박하는 거야?!,q6_deekin,,,,,0,0
+73990,PC,Player Character,And why should your Master listen to me?,왜 네 주인님이 내 말을 들어야 하는데?,q6_deekin,,,,,0,0
+73991,PC,Player Character,"What if I just killed him, instead?","대신 그냥 그를 죽이면 어때?",q6_deekin,,,,,0,0
+73992,PC,Player Character,Why do you need him to free you? Aren't you already free?,왜 그가 널 자유롭게 해야 하는데? 이미 자유로운 거 아니야?,q6_deekin,,,,,0,0
+73993,PC,Player Character,What do you mean the tower statue is 'broken'?,탑 조각상이 '부서졌다'는 게 무슨 뜻이야?,q6_deekin,,,,,0,0
+73994,PC,Player Character,What shiny thing inside? What are you talking about?,안에 반짝이는 게 뭔데? 무슨 말을 하는 거야?,q6_deekin,,,,,0,0
+73995,PC,Player Character,You have the tower statue on you?,탑 조각상을 가지고 있는 거야?,q6_deekin,,,,,0,0
+73996,PC,Player Character,How do I know you'll keep your word?,네가 약속을 지킬지 어떻게 알아?,q6_deekin,,,,,0,0
+73997,PC,Player Character,Are you saying that you're some kind of... kobold jester?,네가... 코볼트 광대 같은 거라는 뜻이야?,q6_deekin,,,,,0,0
+73998,PC,Player Character,"If you're so important, why do you need my help?","그렇게 중요한 존재라면, 왜 내 도움이 필요한 거야?",q6_deekin,,,,,0,0
+73999,PC,Player Character,You're a bard? Can you even cast spells?,음유시인이라고? 주문도 쓸 수 있어?,q6_deekin,,,,,0,0
+74000,PC,Player Character,Uh-huh.,어-허.,q6_deekin,,,,,0,0
+74001,PC,Player Character,Who is this Master you speak of?,네가 말하는 그 주인님이 누구야?,q6_deekin,,,,,0,0
+74002,PC,Player Character,I want to ask you about something else.,다른 걸 물어보고 싶어.,q6_deekin,,,,,0,0
+74003,PC,Player Character,"Forget it. Now you die, little beast!","잊어버려. 이제 넌 죽는 거야, 작은 짐승아!",q6_deekin,,,,,0,0
+74004,PC,Player Character,I'm not helping you with anything.,난 네 일을 절대 돕지 않아.,q6_deekin,,,,,0,0
+74005,PC,Player Character,Tell me more about this dragon.,이 용에 대해 더 말해 줘.,q6_deekin,,,,,0,0
+74006,PC,Player Character,Where can I find this Master of yours?,네 주인님을 어디서 찾을 수 있어?,q6_deekin,,,,,0,0
+74007,PC,Player Character,Maybe you should come and show me.,아마 네가 와서 보여줘야 할 것 같아.,q6_deekin,,,,,0,0
+74008,PC,Player Character,So this Tymofarrar was behind the theft of the artifacts?,그러니까 이 티모파라르가 유물 도난의 배후였어?,q6_deekin,,,,,0,0
+74009,PC,Player Character,So what am I supposed to do against a dragon?,그래서 용을 상대로 어떻게 해야 하는데?,q6_deekin,,,,,0,0
+74010,PC,Player Character,Why did these gnolls want the artifacts?,이 놀들은 왜 유물을 원했어?,q6_deekin,,,,,0,0
+74011,PC,Player Character,A dragon?! What am I supposed to do against a dragon?!,용이라고?! 용을 상대로 어떻게 해야 한다는 거야?!,q6_deekin,,,,,0,0
+74012,PC,Player Character,Help you? After what you did to Hilltop and Master Drogan?!,널 돕는다고? 힐탑과 드로건 사부님한테 한 짓을 하고?!,q6_deekin,,,,,0,0
+74013,PC,Player Character,You need my help?,내 도움이 필요하다고?,q6_deekin,,,,,0,0
+74014,PC,Player Character,Back off! I'll have no tricks out of you!,물러서! 네 속임수는 안 통해!,q6_deekin,,,,,0,0
+74015,PC,Player Character,Deekin? The kobolds in the crypt mentioned you.,디킨? 지하묘지의 코볼트들이 널 언급했어.,q6_deekin,,q6_deekin01,,,0,0
+74016,PC,Player Character,A kobold? What do you want?,코볼트? 뭘 원해?,q6_deekin,,,,,0,0
+74017,PC,Player Character,What happened here? Why are you in this ruined store?,여기서 무슨 일이 있었어? 왜 이 폐허가 된 가게에 있어?,q6_deekin,,,,,0,0
+74018,PC,Player Character,Deekin? What are you doing here?,디킨? 여기서 뭐 하는 거야?,q6_deekin,,con_q6deekin_2,,,0,0
+74019,PC,Player Character,What happened to you? Where did you go?,무슨 일 있었어? 어디 갔었어?,q6_deekin,,con_q6deekin_1,,,0,0
+74020,PC,Player Character,"Now that I have the statue, you die!!","이제 조각상을 가졌으니, 넌 죽는 거야!!",q6_deekin,,,,,0,0
+74021,PC,Player Character,"Just go. I don't want to see you ever again, creature!","그냥 가. 다신 보고 싶지 않아, 이 생명체야!",q6_deekin,,,,,0,0
+74022,PC,Player Character,I don't really care what you do.,네가 뭘 하든 상관없어.,q6_deekin,,,,,0,0
+74023,PC,Player Character,"You're welcome to come with me, if you like.","원한다면, 나와 함께 와도 좋아.",q6_deekin,,,,,0,0
+78851,PC,Player Character,<StartAction>[Lie]</Start> Tymofarrar is dead.,<StartAction>[거짓말]</Start> 티모파라르는 죽었어.,q6_deekin,,q5_tymonotdead,,,0,0
+78852,PC,Player Character,"<StartAction>[Lie]</Start> Well, I talked to Tymofarrar...","<StartAction>[거짓말]</Start> 음, 티모파라르와 이야기했어...",q6_deekin,,q5_pcnottalk,,,0,0
+78853,PC,Player Character,<StartAction>[Cast Charm Person]</Start> I think you want to give me that statue now.,<StartAction>[사람 매혹 시전]</Start> 이제 그 조각상을 내게 주고 싶을 거야.,q6_deekin,act_q6deekin_2,con_q1dkobold_4,,,0,0

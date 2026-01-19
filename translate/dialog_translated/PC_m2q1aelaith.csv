@@ -1,0 +1,96 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+32060,PC,Player Character,"Greetings, Sir. My name is <FullName>.","인사드립니다. 제 이름은 <FullName>입니다.",m2q1aelaith,,[지능 보통],,,0,0
+32061,PC,Player Character,Who are you?,당신은 누구죠?,m2q1aelaith,,[지능 보통],,,0,0
+32062,PC,Player Character,"Hello, sir. Me is <FullName>.","안녕, 나는 <FullName>.",m2q1aelaith,,[지능 낮음],,,0,0
+32063,PC,Player Character,What your name?,너 이름 뭐야?,m2q1aelaith,,[지능 낮음],,,0,0
+32064,PC,Player Character,I'll be going.,이제 가보겠습니다.,m2q1aelaith,,[지능 보통],,,0,0
+32065,PC,Player Character,Me go now.,나 이제 가.,m2q1aelaith,,[지능 낮음],,,0,0
+32066,PC,Player Character [M2Q1S],"You look familiar, somehow... ",어쩐지... 낯익어 보이는데요...,m2q1aelaith,,m2q1scelaith02,[M2Q1S],,0,0
+32067,PC,Player Character [M2Q1S],"Mmmm... me recognizes you, maybe... ",음... 나 너 아는 것 같아...,m2q1aelaith,,m2q1scelaith03,[M2Q1S],,0,0
+32068,PC,Player Character,I wonder if I could ask you some questions?,몇 가지 질문을 드려도 될까요?,m2q1aelaith,,[매력 중간/지능 중간],,,0,0
+32069,PC,Player Character,I have some questions for you.,당신에게 몇 가지 질문이 있어요.,m2q1aelaith,,[매력 낮음/지능 중간],,,0,0
+32071,PC,Player Character,Me want ask something.,나 질문 하고 싶어.,m2q1aelaith,,[지능 낮음],,,0,0
+32072,PC,Player Character [M2Q1S],<StartCheck>[Lore]</Start> Elaith Craulnober. I've heard that name before.,<StartCheck>[전승지식]</Start> 엘레이스 크롤노버. 전에 그 이름을 들어본 적이 있어요.,m2q1aelaith,,m2q1scelaith04,[M2Q1S],,0,0
+32073,PC,Player Character [M2Q1S],<StartCheck>[Lore]</Start> Elaith Craulnober. Me hears that name befores.,<StartCheck>[전승지식]</Start> 엘레이스 크롤노버. 나 그 이름 전에 들었어.,m2q1aelaith,,m2q1scelaith05,[M2Q1S],,0,0
+32075,PC,Player Character,I'm looking for information on the people that started the plague.,역병을 일으킨 사람들에 대한 정보를 찾고 있어요.,m2q1aelaith,,[지능 보통],,,0,0
+32076,PC,Player Character,Me look for people who starts plague.,나 역병 시작한 사람들 찾아.,m2q1aelaith,,[지능 낮음],,,0,0
+32077,PC,Player Character,Evermeet is closed to you? Why is that?,에버밋이 당신에게 닫혔다고요? 왜 그런 거죠?,m2q1aelaith,,[지능 보통],,,0,0
+32078,PC,Player Character,Why Evermeet be closed? You kicked out?,왜 에버밋 닫혔어? 쫓겨난 거야?,m2q1aelaith,,[지능 낮음],,,0,0
+32080,PC,Player Character,Do you know of anything odd in the area?,이 지역에서 이상한 일이 있었는지 아세요?,m2q1aelaith,,[지능 보통],,,0,0
+32081,PC,Player Character,You know 'bout weird stuff 'round here?,여기 주변에 이상한 거 알아?,m2q1aelaith,,[지능 낮음],,,0,0
+32082,PC,Player Character,Please continue.,계속하세요.,m2q1aelaith,,[지능 보통],,,0,0
+32083,PC,Player Character,I hope this story has a point to it.,이 이야기에 요점이 있으면 좋겠네요.,m2q1aelaith,,[지능 보통],,,0,0
+32084,PC,Player Character,Me still listening.,나 아직 듣고 있어.,m2q1aelaith,,[지능 낮음],,,0,0
+32085,PC,Player Character,Me get bored.,나 지루해.,m2q1aelaith,,[지능 낮음],,,0,0
+32086,PC,Player Character,What is this 'Evermeet' you mention?,당신이 말한 '에버밋'이 뭔가요?,m2q1aelaith,,[지능 보통],,,0,0
+32087,PC,Player Character,"You say something 'bout ""Evermeet."" What that?",너 '에버밋' 얘기했지. 그게 뭐야?,m2q1aelaith,,[지능 낮음],,,0,0
+32088,PC,Player Character,So what do you intend to do?,그래서 어떻게 할 생각이죠?,m2q1aelaith,,[지능 보통],,,0,0
+32089,PC,Player Character,So what you do?,그래서 너 뭐 할 거야?,m2q1aelaith,,[지능 낮음],,,0,0
+32090,PC,Player Character,"I don't really trust you, Elaith.","엘레이스, 당신을 정말 신뢰할 수가 없네요.",m2q1aelaith,,[지능 보통],,,0,0
+32091,PC,Player Character,Me no trust you.,나 너 안 믿어.,m2q1aelaith,,[지능 낮음],,,0,0
+32092,PC,Player Character,What kind of reward are we talking here?,무슨 종류의 보상을 말하는 건가요?,m2q1aelaith,,[지능 보통],,,0,0
+32093,PC,Player Character,What reward if me do it?,나 하면 보상 뭐야?,m2q1aelaith,,[지능 낮음],,,0,0
+32094,PC,Player Character,"Very well, Elaith. I shall help you recover the gems.","좋습니다, 엘레이스. 보석을 되찾는 걸 도와드리겠습니다.",m2q1aelaith,,[지능 보통],,,0,0
+32095,PC,Player Character,Okay... me get gems for you.,좋아... 나 보석 가져다 줄게.,m2q1aelaith,,[지능 낮음],,,0,0
+32096,PC,Player Character,I am not interested in this.,이건 관심 없어요.,m2q1aelaith,,[지능 보통],,,0,0
+32097,PC,Player Character,Me no care about stupid gems.,나 멍청한 보석 관심 없어.,m2q1aelaith,,[지능 낮음],,,0,0
+32098,PC,Player Character,Perhaps I could help?,제가 도울 수 있을까요?,m2q1aelaith,,[지능 보통],,,0,0
+32099,PC,Player Character,Maybe me helps?,나 도와줄까?,m2q1aelaith,,[지능 낮음],,,0,0
+32100,PC,Player Character,I might help... for the right price.,도와줄 수도 있죠... 적절한 대가만 있다면.,m2q1aelaith,,[지능 보통],,,0,0
+32101,PC,Player Character,I coulds help... if price good.,나 도와줄 수도... 값이 좋으면.,m2q1aelaith,,[지능 낮음],,,0,0
+32102,PC,Player Character,"<StartCheck>[Persuade]</Start> I could get the job done, I assure you.",<StartCheck>[설득]</Start> 제가 해낼 수 있습니다. 장담하죠.,m2q1aelaith,,[지능 보통],,,0,0
+32103,PC,Player Character,"<StartCheck>[Persuade]</Start> Me could gets it done, me knows.",<StartCheck>[설득]</Start> 나 해낼 수 있어. 나 알아.,m2q1aelaith,,[지능 낮음],,,0,0
+32104,PC,Player Character,"Fine. Do it yourself, then.","좋아요. 그럼 직접 하세요.",m2q1aelaith,,[지능 보통],,,0,0
+32105,PC,Player Character,"Okays. You do it, then.","좋아. 그럼 너 해.",m2q1aelaith,,[지능 낮음],,,0,0
+32106,PC,Player Character [M2Q1C],<StartCheck>[Persuade]</Start> I'd expect some kind of payment up front if you want me to do this. ,<StartCheck>[설득]</Start> 제가 이걸 하려면 선불을 기대해야겠는데요.,m2q1aelaith,,m2q1cselaith005,[M2Q1C],,0,0
+32107,PC,Player Character [M2Q1C],"<StartCheck>[Persuade]</Start> Okays, but me want coins now, not laters!",<StartCheck>[설득]</Start> 좋아. 근데 나 돈 지금 줘. 나중에 말고!,m2q1aelaith,,m2q1cselaith006,[M2Q1C],,0,0
+32108,PC,Player Character [M2Q1S],"<StartCheck>[Insight]</Start> Nice story. Unless you want me blabbing it all over town, however, I want some coin up front.",<StartCheck>[통찰]</Start> 좋은 이야기네요. 하지만 제가 이걸 온 마을에 떠벌리는 걸 원치 않으시면 선불이 필요해요.,m2q1aelaith,,m2q1scelaith07,[M2Q1S],,0,0
+32109,PC,Player Character [M2Q1S],Might you have any equipment I could purchase?,제가 구매할 수 있는 장비가 있으신가요?,m2q1aelaith,,m2q1scelaith10,[M2Q1S],,0,0
+32110,PC,Player Character [M2Q1S],Maybe you haves stuff I buy?,너 나한테 팔 거 있어?,m2q1aelaith,,m2q1scelaith11,[M2Q1S],,0,0
+32111,PC,Player Character,"Retired? A real loss to the profession, I'm sure.","은퇴했다고요? 그 직업에 큰 손실이겠군요.",m2q1aelaith,,[매력 중간/지능 중간],,,0,0
+32112,PC,Player Character,Right. You don't look like you're retired.,그렇군요. 은퇴한 것 같아 보이지 않는데요.,m2q1aelaith,,[지능 보통],,,0,0
+32113,PC,Player Character,"You retire for true, or you just pretendy retire?",너 진짜 은퇴했어? 아니면 그냥 척하는 거야?,m2q1aelaith,,[지능 낮음],,,0,0
+32114,PC,Player Character,"Oh, nevermind then.","아, 그럼 신경 쓰지 마세요.",m2q1aelaith,,[지능 보통],,,0,0
+32115,PC,Player Character,"Okays, no mind then.","좋아, 그럼 됐어.",m2q1aelaith,,[지능 낮음],,,0,0
+32116,PC,Player Character,I'll take a look.,한번 볼게요.,m2q1aelaith,,[지능 보통],,,0,0
+32117,PC,Player Character,Me takes peek.,나 좀 볼게.,m2q1aelaith,,[지능 낮음],,,0,0
+32118,PC,Player Character,"No, that's okay.","아니요, 괜찮아요.",m2q1aelaith,,,,,0,0
+32119,PC,Player Character [M2Q1S],Could I buy some equipment from you?,당신한테서 장비를 살 수 있을까요?,m2q1aelaith,,m2q1scelaith12,[M2Q1S],,0,0
+32120,PC,Player Character [M2Q1S],Me buys stuff from you?,나 너한테서 물건 사?,m2q1aelaith,,m2q1scelaith13,[M2Q1S],,0,0
+32121,PC,Player Character [M2Q1S],I have been thinking about your offer... ,당신의 제안에 대해 생각해봤는데요...,m2q1aelaith,,m2q1scelaith14,[M2Q1S],,0,0
+32122,PC,Player Character [M2Q1S],Me be thinking 'bout offer... ,나 제안에 대해 생각했어...,m2q1aelaith,,m2q1scelaith15,[M2Q1S],,0,0
+32123,PC,Player Character,Tell me who currently has these gems again.,누가 현재 이 보석들을 가지고 있는지 다시 말해주세요.,m2q1aelaith,,[지능 보통],,,0,0
+32124,PC,Player Character,Say where me finds gems again.,보석 어디 있는지 다시 말해.,m2q1aelaith,,[지능 낮음],,,0,0
+32125,PC,Player Character [M2Q1S],I do have one of the gems right here.,보석 중 하나를 여기 가지고 있어요.,m2q1aelaith,,m2q1scelaith17,[M2Q1S],,0,0
+32126,PC,Player Character [M2Q1S],Me has gem right here.,나 보석 여기 있어.,m2q1aelaith,,m2q1scelaith18,[M2Q1S],,0,0
+32127,PC,Player Character [M2Q1S],I have the last gem.,마지막 보석을 가지고 있어요.,m2q1aelaith,,m2q1scelaith19,[M2Q1S],,0,0
+32128,PC,Player Character [M2Q1S],Me has last gem.,나 마지막 보석 있어.,m2q1aelaith,,m2q1scelaith20,[M2Q1S],,0,0
+32129,PC,Player Character,"No, I'll be going.","아니요, 이제 가보겠습니다.",m2q1aelaith,,[지능 보통],,,0,0
+32130,PC,Player Character,"No, me go now.","아니, 나 이제 가.",m2q1aelaith,,[지능 낮음],,,0,0
+32131,PC,Player Character,"Here, Elaith. Take the gem.","여기요, 엘레이스. 보석 받으세요.",m2q1aelaith,,[지능 보통],,,0,0
+32132,PC,Player Character,"Here, you takes it.","여기, 너 가져.",m2q1aelaith,,[지능 낮음],,,0,0
+32133,PC,Player Character,<StartCheck>[Persuade]</Start> These gems were difficult to acquire. I think I deserve more than you're paying me. ,<StartCheck>[설득]</Start> 이 보석들을 얻는 게 어려웠어요. 당신이 주는 것보다 더 받을 자격이 있다고 생각해요.,m2q1aelaith,,[지능 보통],,,0,0
+32134,PC,Player Character,<StartCheck>[Persuade]</Start> Gems was hard to gets. Me deserves more than you pays.,<StartCheck>[설득]</Start> 보석 얻기 힘들었어. 나 너 주는 거보다 더 받을 자격 있어.,m2q1aelaith,,[지능 낮음],,,0,0
+32135,PC,Player Character,I have the feeling you're shafting me. Pay more or no deal!,당신이 날 속이는 것 같은데요. 더 주지 않으면 거래 없어요!,m2q1aelaith,,[지능 보통],,,0,0
+32136,PC,Player Character,"You cheats me, me knows it! You no gets gem!","너 나 속여. 나 알아! 너 보석 못 가져!",m2q1aelaith,,[지능 낮음],,,0,0
+32137,PC,Player Character,"<StartCheck>[Threaten]</Start> It'd be a shame if anything happened to your daughter, Elaith. ","<StartCheck>[위협]</Start> 당신 딸에게 무슨 일이 생긴다면 안타까운 일이겠군요, 엘레이스.",m2q1aelaith,nw_d1_small_evil,[지능 보통],,,0,0
+32138,PC,Player Character,Fine. Take the gem.,좋아요. 보석 가져가세요.,m2q1aelaith,,[지능 보통],,,0,0
+32139,PC,Player Character,I'm not frightened of you. You get nothing!,당신이 무섭지 않아요. 아무것도 못 받을 거예요!,m2q1aelaith,,[지능 보통],,,0,0
+32140,PC,Player Character,Fine. You takes gem.,좋아. 너 보석 가져.,m2q1aelaith,,[지능 낮음],,,0,0
+32141,PC,Player Character,Me not scared! You gets nothing!,나 안 무서워! 너 아무것도 못 가져!,m2q1aelaith,,[지능 낮음],,,0,0
+32142,PC,Player Character [M2Q1S],<StartCheck>[Lore]</Start> Elaith Craulnober. I've heard that name before.,<StartCheck>[전승지식]</Start> 엘레이스 크롤노버. 전에 그 이름을 들어본 적이 있어요.,m2q1aelaith,,m2q1scelaith04,[M2Q1S],,0,0
+32143,PC,Player Character [M2Q1S],Might you have any equipment I could purchase?,제가 구매할 수 있는 장비가 있으신가요?,m2q1aelaith,,m2q1scelaith10,[M2Q1S],,0,0
+32144,PC,Player Character [M2Q1S],Maybe you haves stuff I buy?,너 나한테 팔 거 있어?,m2q1aelaith,,m2q1scelaith11,[M2Q1S],,0,0
+32145,PC,Player Character,"Retired? A real loss to the profession, I'm sure.","은퇴했다고요? 그 직업에 큰 손실이겠군요.",m2q1aelaith,,[매력 중간/지능 중간],,,0,0
+32146,PC,Player Character,Right. You don't look like you're retired.,그렇군요. 은퇴한 것 같아 보이지 않는데요.,m2q1aelaith,,[지능 보통],,,0,0
+32147,PC,Player Character,"You retire for true, or you just pretendy retire?",너 진짜 은퇴했어? 아니면 그냥 척하는 거야?,m2q1aelaith,,[지능 낮음],,,0,0
+32148,PC,Player Character,"Oh, nevermind then.","아, 그럼 신경 쓰지 마세요.",m2q1aelaith,,[지능 보통],,,0,0
+32149,PC,Player Character,"Okays, no mind then.","좋아, 그럼 됐어.",m2q1aelaith,,[지능 낮음],,,0,0
+32150,PC,Player Character,I'll take a look.,한번 볼게요.,m2q1aelaith,,[지능 보통],,,0,0
+32151,PC,Player Character,Me takes peek.,나 좀 볼게.,m2q1aelaith,,[지능 낮음],,,0,0
+32152,PC,Player Character,"No, that's okay.","아니요, 괜찮아요.",m2q1aelaith,,,,,0,0
+64570,PC,Player Character,"What you doings here, then?",그럼 너 여기서 뭐 해?,m2q1aelaith,,[지능 낮음],,,0,0
+64571,PC,Player Character,"What are you doing here, then?",그럼 여기서 뭐 하는 거죠?,m2q1aelaith,,[지능 보통],,,0,0
+64572,PC,Player Character,Tells me 'bout yourself.,너에 대해 얘기해 줘.,m2q1aelaith,,[지능 낮음],,,0,0
+64573,PC,Player Character,Tell me more about yourself.,당신에 대해 더 말해주세요.,m2q1aelaith,,[지능 보통],,,0,0
+68102,PC,Player Character [M2Q1S],<StartCheck>[Lore]</Start> Elaith Craulnober. Me hears that name befores.,<StartCheck>[전승지식]</Start> 엘레이스 크롤노버. 나 그 이름 전에 들었어.,m2q1aelaith,,m2q1scelaith05,[M2Q1S],,0,0

@@ -1,0 +1,45 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+93306,PC,Player Character,"""Goodbye.""","""안녕.""",q2amadame,,,,,0,0
+93307,PC,Player Character,"""Me asks you questions?"" ","""나 너한테 질문해도 돼?""",q2amadame,,[지능 낮음],,,0,0
+93308,PC,Player Character,"""May I ask you some questions?""","""몇 가지 질문해도 될까요?""",q2amadame,,[지능 보통],,,0,0
+93309,PC,Player Character,"""Me not have more questions."" ","""나 더 질문 없어.""",q2amadame,,[지능 낮음],,,0,0
+93310,PC,Player Character,"""I don't have any more questions.""","""더 질문 없어요.""",q2amadame,,[지능 보통],,,0,0
+93311,PC,Player Character,"""You know where me get equipment?"" ","""너 어디서 장비 구해?""",q2amadame,,[지능 낮음],,,0,0
+93312,PC,Player Character,"""Do you know where I could get some equipment?""","""어디서 장비를 구할 수 있는지 아세요?""",q2amadame,,[지능 보통],,,0,0
+93313,PC,Player Character,"""You get attack in here?' ","""여기서 공격 받았어?""",q2amadame,,[지능 낮음],,,0,0
+93314,PC,Player Character,"""Have you been attacked in here?""","""여기서 공격을 받은 적 있나요?""",q2amadame,,[지능 보통],,,0,0
+93315,PC,Player Character,"""Why all these people be here?"" ","""왜 이 사람들 다 여기 있어?""",q2amadame,,[지능 낮음],,,0,0
+93316,PC,Player Character,"""Why are all these people in here?""","""왜 이 사람들이 다 여기 있는 거죠?""",q2amadame,,[지능 보통],,,0,0
+93317,PC,Player Character,"""Could me help you, maybe?"" ","""나 도와줄 수 있어, 아마?""",q2amadame,,[지능 낮음],,,0,0
+93318,PC,Player Character,"""Could I help you somehow?""","""제가 어떻게든 도울 수 있을까요?""",q2amadame,,[지능 보통],,,0,0
+93319,PC,Player Character,"""Gold help me too. You give me gold or goodbye widows and orphans."" ","""금화 나도 도움 돼. 금화 줘 안 그러면 과부들이랑 고아들 안녕.""",q2amadame,,con_q2amad8,,,0,0
+93320,PC,Player Character,"""Gold would help me as well. You don't want anything to happen to these poor widows and orphans?""","""금화는 저한테도 도움이 될 거예요. 이 불쌍한 과부들과 고아들에게 무슨 일이 생기길 원하진 않으시겠죠?""",q2amadame,,con_q2amad7,,,0,0
+93321,PC,Player Character,"""It only a joke. Calm yourself."" ","""농담이야. 진정해.""",q2amadame,,[지능 낮음],,,0,0
+93322,PC,Player Character,"""It was only a joke. Relax.""","""농담이에요. 진정하세요.""",q2amadame,,[지능 보통],,,0,0
+93323,PC,Player Character,"""Me no care. Give me you gold."" ","""나 상관없어. 금화 내놔.""",q2amadame,,[지능 낮음],,,0,0
+93324,PC,Player Character,"""I don't care. Give me your gold.""","""상관없어요. 금화 내놔요.""",q2amadame,,[지능 보통],,,0,0
+93325,PC,Player Character,"""Me guess me no help you then."" ","""그럼 나 도와줄 수 없나 봐.""",q2amadame,,[지능 낮음],,,0,0
+93326,PC,Player Character,"""I guess I can't help you then.""","""그럼 도와드릴 수 없겠네요.""",q2amadame,,[지능 보통],,,0,0
+93327,PC,Player Character,"""Me could spare 200 gold."" ","""나 금화 200개 줄 수 있어.""",q2amadame,,con_q2amad6,,,0,0
+93328,PC,Player Character,"""I could spare 200 gold.""","""금화 200개 정도는 줄 수 있어요.""",q2amadame,,con_q2amad5,,,0,0
+93329,PC,Player Character,"""100 gold help you?"" ","""금화 100개 도움 돼?""",q2amadame,,con_q2amad3,,,0,0
+93330,PC,Player Character,"""How about 100 gold?""","""금화 100개는 어때요?""",q2amadame,,con_q2amad4,,,0,0
+93331,PC,Player Character,"""10 gold help?"" ","""금화 10개 도움 돼?""",q2amadame,,con_q2amad2,,,0,0
+93332,PC,Player Character,"""Would 10 gold help.""","""금화 10개면 도움이 될까요.""",q2amadame,,con_q2amad1,,,0,0
+93333,PC,Player Character,"""That where you grow up?"" ","""거기서 자랐어?""",q2amadame,,[지능 낮음],,,0,0
+93334,PC,Player Character,"""That was were you grew up?""","""거기서 자라신 건가요?""",q2amadame,,[지능 보통],,,0,0
+93335,PC,Player Character,"""Ha! Me guess you find calling in life at young age."" ","""하! 어릴 때 인생 목표 찾았나 봐.""",q2amadame,,,,,0,0
+93336,PC,Player Character,"""Ha! I guess you found your calling in life early.""","""하! 일찍 인생의 천직을 찾으셨네요.""",q2amadame,,,,,0,0
+93337,PC,Player Character,"""Why you no run away?"" ","""왜 도망 안 갔어?""",q2amadame,,[지능 낮음],,,0,0
+93338,PC,Player Character,"""Why didn't you just run away?""","""그냥 도망가지 그랬어요?""",q2amadame,,[지능 보통],,,0,0
+93339,PC,Player Character,"""Me guess you do what you must to live."" ","""살려면 해야 하는 거 하는 거지.""",q2amadame,,[지능 낮음],,,0,0
+93340,PC,Player Character,"""I guess you do what you have to, to survive.""","""살아남으려면 어쩔 수 없는 거죠.""",q2amadame,,[지능 보통],,,0,0
+93341,PC,Player Character,"""That be awful. How you do bad thing like that?""","""그거 끔찍해. 어떻게 그런 나쁜 짓 해?""",q2amadame,,[지능 낮음],,,0,0
+93342,PC,Player Character,"""That is horrible! How could you do such things?""","""끔찍하네요! 어떻게 그런 일을 할 수 있죠?""",q2amadame,,[지능 보통],,,0,0
+93343,PC,Player Character,"""Goodbye.""","""안녕.""",q2amadame,,,,,0,0
+93344,PC,Player Character,"""Me gots more questions."" ","""나 더 질문 있어.""",q2amadame,,[지능 낮음],,,0,0
+93345,PC,Player Character,"""I have some more questions.""","""질문이 좀 더 있어요.""",q2amadame,,[지능 보통],,,0,0
+93346,PC,Player Character,"""Who you be?"" ","""너 누구야?""",q2amadame,,[지능 낮음],,,0,0
+93347,PC,Player Character,"""Who are you?""","""누구세요?""",q2amadame,,[지능 보통],,,0,0
+93348,PC,Player Character,"""Me want help you with widows and orphans."" ","""나 과부들이랑 고아들 돕는 거 도와주고 싶어.""",q2amadame,,[지능 낮음],,,0,0
+93349,PC,Player Character,"""I would like to help you with the widows and orphans."" ","""과부들과 고아들 돕는 걸 도와드리고 싶어요.""",q2amadame,,[지능 보통],,,0,0

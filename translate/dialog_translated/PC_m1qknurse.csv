@@ -1,0 +1,33 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+23848,PC,Player Character,Could I ask you some questions?,질문을 몇 가지 드려도 될까요?,m1qknurse,,[지능 보통],,,0,0
+23849,PC,Player Character,Me want ask questions.,나 질문하고 싶어.,m1qknurse,,[지능 낮음],,,0,0
+23850,PC,Player Character,Goodbye.,그럼 이만.,m1qknurse,,,,,0,0
+23851,PC,Player Character,Have you heard anything about a cure for the Wailing Death?,울부짖는 죽음 역병 치료법에 대해 들은 게 있습니까?,m1qknurse,,[지능 보통],,,0,0
+23852,PC,Player Character,Did you know anything about the attack on the Academy?,사관학교 습격에 관해 들은 게 있습니까?,m1qknurse,,[매력 중간/지능 중간],,,0,0
+23853,PC,Player Character,How did you end up here tending the afflicted.,어쩌다 이곳에서 환자들을 돌보게 되셨나요?,m1qknurse,,[매력 높음/지능 중간],,,0,0
+23854,PC,Player Character,"Have you heard any rumors lately? You know, gossip and the like?",최근에 들은 소문이 있습니까?,m1qknurse,,[지능 보통],,,0,0
+23855,PC,Player Character,You know stuff 'bout cure for sick?,역병 치료법 아는 거 있어?,m1qknurse,,[지능 낮음],,,0,0
+23856,PC,Player Character,What you know 'bout fight at Academy?,"사관학교에서 싸움 난 거, 뭐 알아?",m1qknurse,,[매력 중간/지능 낮음],,,0,0
+23857,PC,Player Character,You be nurse. How you get your job here?,너 여기서 병자 돌보는 사람. 어떻게 이 일 하게 됐어?,m1qknurse,,[매력 높음/지능 낮음],,,0,0
+23858,PC,Player Character,You hear gossip or rumors or stuff?,소문 같은 거 들었어?,m1qknurse,,[지능 낮음],,,0,0
+23859,PC,Player Character,That's it? You haven't heard the rumors about a cure from Waterdeep?,그게 다요? 워터딥에서 온 치료법 소문은 못 들었나요?,m1qknurse,,[지능 보통],,,0,0
+23860,PC,Player Character,You not hear stuff 'bout cure from Waterdeep?,워터딥에서 온 치료법 소문 못 들었어?,m1qknurse,,[지능 낮음],,,0,0
+23861,PC,Player Character,Tell me what you've heard about Desther.,데스터에 대해 들은 이야기를 말씀해 주세요.,m1qknurse,,[지능 보통],,,0,0
+23862,PC,Player Character,Tell me what you've heard about Aribeth.,아리베스에 대해 들은 이야기를 말씀해 주세요.,m1qknurse,,[지능 보통],,,0,0
+23863,PC,Player Character,Tell me what you've heard about Fenthick.,펜딕에 대해 들은 이야기를 말씀해 주세요.,m1qknurse,,[매력 중간/지능 중간],,,0,0
+23864,PC,Player Character,Tell what you hear 'bout Desther.,데스터 얘기 들은 거 말해.,m1qknurse,,[지능 낮음],,,0,0
+23865,PC,Player Character,Tell what you hear 'bout Aribeth.,아리베스 얘기 들은 거 말해.,m1qknurse,,[지능 낮음],,,0,0
+23866,PC,Player Character,Tell what you hear 'bout Fenthick.,펜딕 얘기 들은 거 말해.,m1qknurse,,[매력 중간/지능 낮음],,,0,0
+23867,PC,Player Character,What were they saying?,그들이 뭐라고 했습니까?,m1qknurse,,[지능 보통],,,0,0
+23868,PC,Player Character,"<StartCheck>[Insight]</Start> You don't like Desther much, do you?",<StartCheck>[통찰]</Start> 데스터를 별로 좋아하지 않는군요?,m1qknurse,,nw_d2_wis_intn,,,0,0
+23869,PC,Player Character,What them say?,뭐라고 했어?,m1qknurse,,[지능 낮음],,,0,0
+23870,PC,Player Character,Aren't you afraid of contracting the plague yourself?,당신도 역병에 걸릴까 두렵지 않습니까?,m1qknurse,,[지능 보통],,,0,0
+23871,PC,Player Character,"You not scared you get sick, too?",너도 병 걸릴까 안 무서워?,m1qknurse,,[지능 낮음],,,0,0
+23872,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 자, 내게 말해도 해가 될 건 없어요.",m1qknurse,,[지능 보통],,,0,0
+23873,PC,Player Character,<StartCheck>[Persuade]</Start> Tell me. Will hurt nobody.,<StartCheck>[설득]</Start> 말해. 아무한테도 해 안 돼.,m1qknurse,,[지능 낮음],,,0,0
+23874,PC,Player Character,What can you tell me about the plague?,역병에 대해 무엇을 알려 주실 수 있습니까?,m1qknurse,,[지능 보통],,,0,0
+23875,PC,Player Character,What you know 'bout plague?,역병에 대해 뭐 알아?,m1qknurse,,[지능 낮음],,,0,0
+23876,PC,Player Character,I want to ask you something else.,다른 걸 여쭙고 싶습니다.,m1qknurse,,[지능 보통],,,0,0
+23877,PC,Player Character,Me have other question.,나 다른 질문 있어.,m1qknurse,,[지능 낮음],,,0,0
+23878,PC,Player Character,Can I ask you some directions?,길을 좀 여쭤봐도 될까요?,m1qknurse,,[지능 보통],,,0,0
+23879,PC,Player Character,Neverwinter big place. Me need directions.,네버윈터 큰 곳. 나 길 좀 알려줘.,m1qknurse,,[지능 낮음],,,0,0

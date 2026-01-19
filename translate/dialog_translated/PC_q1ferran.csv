@@ -1,0 +1,54 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70368,PC,Player Character,You can hand over your belongings -- now!,소지품을 내놔 -- 당장!,q1ferran,x0_d1_didchaosml,,,,0,0
+70369,PC,Player Character,Never mind. I have more pressing business.,됐어. 더 급한 일이 있어.,q1ferran,,,,,0,0
+70370,PC,Player Character,"I'm not interested in your fire, but I have questions.","모닥불에는 관심 없는데, 질문이 있어.",q1ferran,,,,,0,0
+70371,PC,Player Character,Thank you. I appreciate the hospitality.,고마워. 환대에 감사해.,q1ferran,,,,,0,0
+70372,PC,Player Character,I prefer to ask the questions here.,질문은 내가 할게.,q1ferran,,,,,0,0
+70373,PC,Player Character,I should go.,가봐야겠어.,q1ferran,,,,,0,0
+70374,PC,Player Character,Why are you here in the foothills?,왜 이 산기슭에 있는 거야?,q1ferran,,q1foot_ferran03,,,0,0
+70375,PC,Player Character,Who are you?,당신은 누구지?,q1ferran,,q1foot_ferran02,,,0,0
+70376,PC,Player Character,Arcane archer?,비전 궁수?,q1ferran,,,,,0,0
+70377,PC,Player Character,Tell me what happened here.,여기서 무슨 일이 있었는지 말해줘.,q1ferran,,,,,0,0
+70378,PC,Player Character,I have some other questions.,다른 질문이 있어.,q1ferran,,,,,0,0
+70379,PC,Player Character,Tell me about this elven crypt.,이 엘프 납골당에 대해 말해줘.,q1ferran,,,,,0,0
+70380,PC,Player Character,Did you see anything else?,다른 건 못 봤어?,q1ferran,,,,,0,0
+70381,PC,Player Character,Did you see where that one went?,그놈이 어디로 갔는지 봤어?,q1ferran,,,,,0,0
+70382,PC,Player Character,What did the gnolls do after the battle?,전투 후에 놀들은 뭘 했어?,q1ferran,,,,,0,0
+70383,PC,Player Character,Where do you think they were going?,어디로 가는 것 같았어?,q1ferran,,,,,0,0
+70384,PC,Player Character,You didn't intervene or chase after them?,끼어들거나 쫓아가지 않았어?,q1ferran,,,,,0,0
+70385,PC,Player Character,What can you tell me about this area?,이 지역에 대해 뭘 알려줄 수 있어?,q1ferran,,,,,0,0
+70386,PC,Player Character,I noticed some unusual deer tracks nearby.  Do you know anything of them?,근처에서 이상한 사슴 발자국을 봤는데. 뭔지 알아?,q1ferran,,con_q1footrang_2,,,0,0
+70387,PC,Player Character,Shadow Hart?,그림자 숫사슴?,q1ferran,,,,,0,0
+70388,PC,Player Character,"Well, good luck on that.","그래, 행운을 빌어.",q1ferran,,,,,0,0
+70389,PC,Player Character,Perhaps I could help you find this creature.,그 생명체를 찾는 걸 도와줄 수도 있어.,q1ferran,,,,,0,0
+70390,PC,Player Character,Doesn't it seem wrong to kill one thing to save another?,무언가를 살리려고 다른 걸 죽이는 게 잘못된 것 같지 않아?,q1ferran,,,,,0,0
+70391,PC,Player Character,How does one hunt a beast who disappears?,사라지는 짐승을 어떻게 사냥해?,q1ferran,,,,,0,0
+70392,PC,Player Character,Are these the horns you're looking for?,이게 당신이 찾는 뿔이야?,q1ferran,,q1foot_hashorns,,,0,0
+70393,PC,Player Character,<StartCheck>[Persuade]</Start> Would you tell me the story behind the elven crypt?,<StartCheck>[설득]</Start> 엘프 납골당에 얽힌 이야기를 해줄래?,q1ferran,,q1foot_knowcrypt,,,0,0
+70394,PC,Player Character,Is it very dangerous to enter?,들어가면 매우 위험해?,q1ferran,,,,,0,0
+70395,PC,Player Character,So the rest of the elves hated Ascalhorn?,그래서 다른 엘프들은 아스칼혼을 싫어했던 거야?,q1ferran,,,,,0,0
+70396,PC,Player Character,So it's a place of dark magic?,그러니까 어둠의 마법이 있는 곳이야?,q1ferran,,,,,0,0
+70397,PC,Player Character,"Honored dead? Shouldn't the crypt be in better shape, then?","명예로운 죽은 자들? 그렇다면 납골당이 더 잘 관리되어 있어야 하는 거 아니야?",q1ferran,,,,,0,0
+70398,PC,Player Character,I have the horns of the Shadow Hart.,그림자 숫사슴의 뿔을 갖고 있어.,q1ferran,,q1foot_hashorns,,,0,0
+70399,PC,Player Character,These were damn difficult to acquire. Forget it!,이거 구하기 정말 어려웠어. 됐어!,q1ferran,,,,,0,0
+70400,PC,Player Character,I said no! I'm keeping them.,싫다니까! 내가 가질 거야.,q1ferran,xp1_didnotgdti,,,,0,0
+70401,PC,Player Character,And what kind of reward are you offering?,보상으로 뭘 줄 건데?,q1ferran,,,,,0,0
+70402,PC,Player Character,"Alright, here. Take them and go.","알았어, 여기. 가져가고 가.",q1ferran,x0_d1_didgoodsml,,,,0,0
+70403,PC,Player Character,Certainly. Take them and return to your wife.,물론이지. 가져가고 아내에게 돌아가.,q1ferran,x0_d1_didgoodmed,,,,0,0
+70404,PC,Player Character,"That depends on the reward, really.","솔직히, 보상에 달렸어.",q1ferran,,,,,0,0
+70405,PC,Player Character,I can't take that from you. Here... take the horns.,그건 받을 수 없어. 여기... 뿔을 가져가.,q1ferran,x0_d1_didgoodsml,,,,0,0
+70406,PC,Player Character,What do I need your bow for? Offer something else.,당신 활이 왜 필요해? 다른 걸 제안해.,q1ferran,,,,,0,0
+70407,PC,Player Character,A bow's a good start. What else do you have?,활은 좋은 시작이야. 또 뭐 있어?,q1ferran,,,,,0,0
+70408,PC,Player Character,"Ahhh, I can't stand this anymore. Take the horns, and keep your stupid bow.","아, 더 못 참겠어. 뿔 가져가고, 그 멍청한 활도 가져.",q1ferran,x0_d1_didgoodsml,,,,0,0
+70409,PC,Player Character,"Fine, fine. The bow will have to do.","알았어, 알았어. 활로 하지 뭐.",q1ferran,xp1_didnotgdsm,,,,0,0
+70410,PC,Player Character,"Nothing else, hey? I'll just hold onto this, then.","다른 건 없다고? 그럼 그냥 내가 갖고 있을게.",q1ferran,x0_d1_didevilsml,,,,0,0
+70411,PC,Player Character,I have the Hart's horns... and that's what counts.,숫사슴 뿔은 내가 갖고 있어... 그게 중요한 거지.,q1ferran,x0_d1_didevilsml,,,,0,0
+70412,PC,Player Character,A magical bow? That will do.,마법 활이라고? 그거면 되겠네.,q1ferran,xp1_didnotgdsm,,,,0,0
+70413,PC,Player Character,"I am from Hilltop, yes, but my business is my own.","힐탑에서 왔어, 맞아, 하지만 내 일은 내 일이야.",q1ferran,,,,,0,0
+70414,PC,Player Character,"I'm looking for a group of kobolds that attacked Hilltop, actually.","사실, 힐탑을 공격한 코볼트 무리를 찾고 있어.",q1ferran,,,,,0,0
+70415,PC,Player Character,"Yes, tell me what happened.","그래, 무슨 일이 있었는지 말해줘.",q1ferran,,,,,0,0
+70416,PC,Player Character,"More dangerous than you think. Hand over your belongings, now!","생각보다 더 위험한 사람이지. 소지품을 내놔, 당장!",q1ferran,x0_d1_didchaosml,,,,0,0
+70417,PC,Player Character,"Fine. Forget it, then.","알았어. 됐어, 그럼.",q1ferran,,,,,0,0
+70418,PC,Player Character,<StartCheck>[Intimidate]</Start> But elves make fine bows and arrows. Hand them over now!,<StartCheck>[위협]</Start> 하지만 엘프들은 좋은 활과 화살을 만들지. 당장 내놔!,q1ferran,xp1_didnotgdsm,,,,0,0
+70419,PC,Player Character,<StartCheck>[Intimidate]</Start> I could always search your corpse and see for myself...,<StartCheck>[위협]</Start> 네 시체를 뒤져서 직접 확인해도 되는데...,q1ferran,xp1_didnotgdsm,,,,0,0
+70420,PC,Player Character,"<StartAction>[Attack]</Start> Oh, you'll pay dearly for that mouth of yours!","<StartAction>[공격]</Start> 오, 그 주둥이를 놀린 값은 비싸게 치러야겠어!",q1ferran,xp1_didnotgdsm,,,,0,0

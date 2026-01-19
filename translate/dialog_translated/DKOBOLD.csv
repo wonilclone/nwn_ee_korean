@@ -1,0 +1,39 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+69896,Dialog,DKOBOLD,Okays!  You back - what you want now?  You helps us leave?,좋아! 다시 왔네-이제 뭐 원해? 우릴 나가게 도와줄래?,Q1DKOBOLD,,,,,0,0
+69897,Dialog,DKOBOLD,Yip! Who you be? We wants no more fights! Yip yip!,킁! 너 누구야? 우린 더는 싸우기 싫어! 킁!,Q1DKOBOLD,act_q1dkobold_20,,,,0,0
+69899,Dialog,DKOBOLD,"You hears that? You lets us go! We no fight, we takes cook-woman with us! We smarts, you not tricks us!","들었지? 우릴 보내! 싸움 안 해, 요리 여자 데리고 간다! 우린 똑똑해, 우릴 못 속여!",Q1DKOBOLD,,,,,0,0
+69900,Dialog,DKOBOLD,Really? But we just gets started! Yip!,정말? 근데 이제 막 시작했는데! 킁!,Q1DKOBOLD,,,,,0,0
+69902,Dialog,DKOBOLD,"Okay, you goes away now! You lets us leave or we kills cook-woman! We be very serious!!","좋아, 이제 가! 우릴 안 보내면 요리 여자 죽인다! 우리 아주 진지하다!!",Q1DKOBOLD,,,,,0,0
+69904,Dialog,DKOBOLD,Yip? Is you serious? You fights with us?,킁? 진심이야? 우리랑 싸운다고?,Q1DKOBOLD,,,,,0,0
+69906,Dialog,DKOBOLD,We fights! Fights!! Yip yip yip!!,싸운다! 싸운다!! 끼이이이익!!,Q1DKOBOLD,,,,,0,0
+69908,Dialog,DKOBOLD,<StartCheck>[Success]</Start> Oooh... looks at all the pretty lights...,<StartCheck>[성공]</Start> 오오... 반짝이는 불빛 많다...,Q1DKOBOLD,act_q1dkobold_5,,,,0,0
+69910,Dialog,DKOBOLD,<StartCheck>[Success]</Start> AAAAHHHH! YIP YIP YIP!! WE SURRENDERS!!,<StartCheck>[성공]</Start> 아아악! 끼이이이익!! 우리 항복!!,Q1DKOBOLD,,,,,0,0
+69912,Dialog,DKOBOLD,WE SURRENDERS! WE SURRENDERS!! NO HURTS!! NO HURTS PLEEEASE!!,우리 항복! 우리 항복!! 아프게 하지 마! 제발 아프게 하지 마!!,Q1DKOBOLD,,,,,0,0
+69913,Dialog,DKOBOLD,<StartHighlight>[Success]</Start> What you do with hands? What <he/she> doing?!,<StartHighlight>[성공]</Start> 손으로 뭐 한 거야? <he/she>는 뭐 하는 거지?!,Q1DKOBOLD,,,,,0,0
+69914,Dialog,DKOBOLD,"<StartCheck>[Success]</Start> Me trusts you. Me trusts you lots. Okay, we comes.","<StartCheck>[성공]</Start> 너 믿어. 많이 믿어. 좋아, 간다.",Q1DKOBOLD,,,,,0,0
+69916,Dialog,DKOBOLD,<He/She> be okays. <He/She> not hurts us. We go out now! Yip!,<he/she> 괜찮다. 우릴 안 다치게 한다. 이제 나간다! 킁!,Q1DKOBOLD,,,,,0,0
+69917,Dialog,DKOBOLD,"<StartCheck>[Failure]</Start> No, you surrenders!","<StartCheck>[실패]</Start> 아니, 네가 항복해!",Q1DKOBOLD,,,,,0,0
+69919,Dialog,DKOBOLD,<StartCheck>[Success]</Start> Umm... me not like sounds of that...,<StartCheck>[성공]</Start> 음... 그 소리 별로야...,Q1DKOBOLD,,,,,0,0
+69921,Dialog,DKOBOLD,"Okays, we comes out now. Yip! You no hurts us, okays?","좋아, 지금 나간다. 킁! 우리 안 다치게, 알았지?",Q1DKOBOLD,,,,,0,0
+69923,Dialog,DKOBOLD,Yip yip! Now you lets us go! We leaves with cook-woman and you not stops us!!,"끼이익! 이제 우릴 보내! 우린 요리 여자 데리고 나간다, 넌 못 막아!!",Q1DKOBOLD,,,,,0,0
+69924,Dialog,DKOBOLD,<StartCheck>[Success]</Start> What this? Yip? You no tricks us?,<StartCheck>[성공]</Start> 이게 뭐지? 킁? 우릴 안 속이는 거지?,Q1DKOBOLD,,,,,0,0
+69926,Dialog,DKOBOLD,Yip! You no lets us go? What we do now then?!,킁! 우릴 안 보내? 그럼 이제 어쩌지?!,Q1DKOBOLD,,,,,0,0
+69927,Dialog,DKOBOLD,You lets us go!!,우릴 보내!!,Q1DKOBOLD,,,,,0,0
+69932,Dialog,DKOBOLD,We gets to leave? Yip yip yip! We go! We go now!!,우리가 떠나도 돼? 끼이이이익! 간다! 지금 간다!!,Q1DKOBOLD,,,,c_kobold_slct,0,0
+69933,Dialog,DKOBOLD,<StartCheck>[Success]</Start> Umm... you not tries to trick us?,<StartCheck>[성공]</Start> 음... 우릴 속이려는 거 아니지?,Q1DKOBOLD,x0_d1_didgoodsml,,,,0,0
+69935,Dialog,DKOBOLD,"Yip yip yip! Okays! We takes you, gives away her! You be much betters! You not try to tricks us, now...","끼이이이익! 좋아! 너를 데리고, 그녀는 풀어 준다! 네가 훨씬 낫다! 이제 우릴 속이지 마...",Q1DKOBOLD,,,,,0,0
+69936,Dialog,DKOBOLD,"Mmmm... yip... okays, maybe. But if you comes in, you comes alone! You gots friend they waits out theres!","음... 킁... 좋아, 아마도. 근데 들어오면 혼자 들어와! 친구들은 밖에서 기다려!",Q1DKOBOLD,,,,,0,0
+69941,Dialog,DKOBOLD,"Grrr! Me not knows... you gots beastie. We takes you hostage, you sends beastie away! Yip yip!","그르르! 모르겠다... 너 짐승 있다. 널 인질로 잡고, 그 짐승은 물려 보내! 끼이익!",Q1DKOBOLD,,,,,0,0
+69942,Dialog,DKOBOLD,Okays! Now you be our hostage! Yip yip!,좋아! 이제 네가 우리 인질! 끼이익!,Q1DKOBOLD,,,,,0,0
+69944,Dialog,DKOBOLD,Me not know. Maybe it cooks? You cooks something goods to eat! You cooks now! Yip yip!,모르겠다. 아마 요리하나? 맛있는 거 요리해! 지금 요리해! 끼이익!,Q1DKOBOLD,,,,,0,0
+69945,Dialog,DKOBOLD,Yip yip yip! Betrayed! Betrayed!!,끼이이이익! 배신이다! 배신!!,Q1DKOBOLD,,,,,0,0
+69947,Dialog,DKOBOLD,Umm... that sounds good. Yip. Is you serious?,음... 그거 좋은데. 킁. 진심이지?,Q1DKOBOLD,,,,,0,0
+69948,Dialog,DKOBOLD,Yip yip! Then you gets to cooking! Me be hungry!!,끼이익! 그럼 당장 요리해! 배고프다!!,Q1DKOBOLD,,,,,0,0
+69950,Dialog,DKOBOLD,We fights! Fights!! Yip yip yip!!,싸운다! 싸운다!! 끼이이이익!!,Q1DKOBOLD,,,,,0,0
+69952,Dialog,DKOBOLD,"<StartCheck>[Success]</Start> We leaves, we takes you with us! You be hostage!!","<StartCheck>[성공]</Start> 우린 떠난다, 널 데리고! 너 인질!!",Q1DKOBOLD,,,,,0,0
+69954,Dialog,DKOBOLD,"You is right. Yip. Okays, we goes. But you no tricks us... we be smart!!","네 말이 맞아. 킁. 좋아, 간다. 하지만 속이지 마... 우린 똑똑해!!",Q1DKOBOLD,,,,,0,0
+69955,Dialog,DKOBOLD,Please - no hurts us!,제발-해치지 마!,Q1DKOBOLD,,,,,0,0
+69956,Dialog,DKOBOLD,Yip yip! You helps us kobolds. We be very happy! We gives you reward!,끼이익! 네가 우리 코볼트 도왔다. 우리 아주 기쁘다! 보상 준다!,Q1DKOBOLD,act_q1dkobold_19,,,,0,0
+69957,Dialog,DKOBOLD,"You takes this. We thanks you, but gots to run now! Yip yip yip! We go!!","이거 받아. 고맙다, 근데 이젠 도망가야 해! 끼이이이익! 간다!!",Q1DKOBOLD,act_q1dkobold_15,,,,0,0
+69958,Dialog,DKOBOLD,Err... okays. You is strange. Yip yip yip! We go!!,어... 좋아. 너 좀 이상하다. 끼이이이익! 간다!!,Q1DKOBOLD,,,,,0,0
+69959,Dialog,DKOBOLD,Yip yip yip! Betrayed! Betrayed!!,끼이이이익! 배신이다! 배신!!,Q1DKOBOLD,,,,,0,0

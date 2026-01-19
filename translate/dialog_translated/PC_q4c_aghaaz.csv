@@ -1,0 +1,53 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+105958,PC,Player Character,"""You are an abomination that must be destroyed!""","""넌 파괴해야 할 괴물이야!""",q4c_aghaaz,,,,,0,0
+105959,PC,Player Character,"""You're pretty well spoken, for a golem.""","""골렘치고는 말을 꽤 잘하는군.""",q4c_aghaaz,,,,,0,0
+105960,PC,Player Character,"""Enough talking. Time to die, golem!""","""말은 그만. 죽을 시간이다, 골렘!""",q4c_aghaaz,,,,,0,0
+105961,PC,Player Character,"""Parley? Golems have been attacking me ever since I got here!""","""협상? 여기 온 이후로 골렘들이 계속 날 공격했는데!""",q4c_aghaaz,,,,,0,0
+105962,PC,Player Character,"""I should be going now.""","""이만 가봐야겠어.""",q4c_aghaaz,,,,,0,0
+105963,PC,Player Character,"""Why are you at war?""","""왜 전쟁 중인 거지?""",q4c_aghaaz,,,,,0,0
+105964,PC,Player Character,"""Who's Ferron?""","""페론이 누구야?""",q4c_aghaaz,,,,,0,0
+105965,PC,Player Character,"""Sorry, I'm not interested in this.""","""미안하지만 관심 없어.""",q4c_aghaaz,,,,,0,0
+105966,PC,Player Character,"""Then I'm against you.""","""그렇다면 난 네 적이야.""",q4c_aghaaz,,,,,0,0
+105967,PC,Player Character,"""Nobody threatens me!""","""아무도 날 협박할 수 없어!""",q4c_aghaaz,,,,,0,0
+105968,PC,Player Character,"""Fine. What is it you want me to do?""","""좋아. 뭘 해달라는 거야?""",q4c_aghaaz,,,,,0,0
+105969,PC,Player Character,"""And you want my help?""","""그래서 내 도움이 필요한 거야?""",q4c_aghaaz,,,,,0,0
+105970,PC,Player Character,"""Forget it! I'm not your errand <boy/girl>.""","""됐어! 난 네 심부름꾼이 아니야.""",q4c_aghaaz,,,,,0,0
+105971,PC,Player Character,"""If I help you, you have to help me."" <StartAction>Tell Aghaaz about the Valsharess.</Start>","""내가 도와주면, 너도 날 도와야 해."" <StartAction>아가즈에게 발샤레스에 대해 말합니다.</Start>",q4c_aghaaz,,,,,0,0
+105972,PC,Player Character,"""High priest of the Maker?""","""제작자의 대사제?""",q4c_aghaaz,,,,,0,0
+105973,PC,Player Character,"""Sentient golems? What are you talking about?""","""지성을 가진 골렘? 무슨 소리야?""",q4c_aghaaz,,,,,0,0
+105974,PC,Player Character,"""I'll be back once Ferron is dead.""","""페론을 죽이면 돌아올게.""",q4c_aghaaz,,q4c_aghaaz99-,,,0,0
+105975,PC,Player Character,"""You should know something: the Maker is dead.""","""알아둬야 할 게 있어. 제작자는 죽었어.""",q4c_aghaaz,,q4c_makerdead,,,0,0
+105976,PC,Player Character,"""Sorry. Forget I mentioned it.""","""미안. 내가 말한 거 잊어.""",q4c_aghaaz,,,,,0,0
+105977,PC,Player Character,"""It's true. He abandoned you all and became a demi-lich.""","""사실이야. 그는 너희 모두를 버리고 데미리치가 됐어.""",q4c_aghaaz,,,,,0,0
+105978,PC,Player Character,"""I'm speaking the truth. I killed him myself.""","""사실을 말하는 거야. 내가 직접 죽였어.""",q4c_aghaaz,,,,,0,0
+105979,PC,Player Character,"""I won't help spread a lie. The Maker is dead!""","""거짓말을 퍼뜨리는 건 안 도와. 제작자는 죽었어!""",q4c_aghaaz,,,,,0,0
+105980,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 할게.""",q4c_aghaaz,,,,,0,0
+105981,PC,Player Character,"""Tell me about Ferron and his followers.""","""페론과 그 추종자들에 대해 말해줘.""",q4c_aghaaz,,q4c_aghaaz99-,,,0,0
+105982,PC,Player Character,"""Tell me about yourself and your followers.""","""너와 네 추종자들에 대해 말해줘.""",q4c_aghaaz,,,,,0,0
+105983,PC,Player Character,"""Tell me about the Maker.""","""제작자에 대해 말해줘.""",q4c_aghaaz,,,,,0,0
+105984,PC,Player Character,"""I want to ask you something else.""","""다른 걸 물어볼게.""",q4c_aghaaz,,,,,0,0
+105985,PC,Player Character,"""So you just sit around and wait for him to return?""","""그래서 그냥 앉아서 그가 돌아오길 기다리는 거야?""",q4c_aghaaz,,,,,0,0
+105986,PC,Player Character,"""Isn't it obvious by now he isn't coming back?""","""이쯤 되면 그가 안 돌아온다는 게 뻔하지 않아?""",q4c_aghaaz,,,,,0,0
+105987,PC,Player Character,"""After five centuries, isn't it time to move on?""","""5세기나 지났는데, 이제 앞으로 나아갈 때 아니야?""",q4c_aghaaz,,,,,0,0
+105988,PC,Player Character,"""Can't you see that your society is stagnating?""","""네 사회가 정체되고 있다는 걸 모르겠어?""",q4c_aghaaz,,,,,0,0
+105989,PC,Player Character,"""For a sentient creature, you still think like a construct.""","""지성을 가진 생명체치고는 아직도 피조물처럼 생각하는군.""",q4c_aghaaz,,,,,0,0
+105990,PC,Player Character,"""Where is the Maker now?""","""제작자는 지금 어디 있어?""",q4c_aghaaz,,,,,0,0
+105991,PC,Player Character,"""Why haven't you gone to look for the Maker?""","""왜 제작자를 찾아 나서지 않았어?""",q4c_aghaaz,,,,,0,0
+105992,PC,Player Character,"""So you claim to be a perfect being?""","""그래서 너는 완벽한 존재라는 거야?""",q4c_aghaaz,,,,,0,0
+105993,PC,Player Character,"""Ferron sent me to get the Power Source from you.""","""페론이 나를 보내서 너한테서 동력원을 가져오라고 했어.""",q4c_aghaaz,,q4c_ferron10,,,0,0
+105994,PC,Player Character,"""You could try to kill me. You'd fail, but you could try.""","""날 죽이려고 해봐. 실패하겠지만, 해볼 수는 있지.""",q4c_aghaaz,,,,,0,0
+105995,PC,Player Character,"""Enough of this. Give me the power source or die!""","""이젠 됐어. 동력원을 내놔, 안 그러면 죽어!""",q4c_aghaaz,,,,,0,0
+105996,PC,Player Character,<StartAction>Explain about the Valsharess.</Start>,<StartAction>발샤레스에 대해 설명합니다.</Start>,q4c_aghaaz,,,,,0,0
+105997,PC,Player Character,"""Okay, you've got a deal.""","""좋아, 거래 성립이야.""",q4c_aghaaz,,,,,0,0
+105998,PC,Player Character,"""I don't want to get involved in this.""","""이 일에 끼어들고 싶지 않아.""",q4c_aghaaz,,,,,0,0
+105999,PC,Player Character,"""Forget it! I'm not your errand <boy/girl>!""","""됐어! 난 네 심부름꾼이 아니야!""",q4c_aghaaz,,,,,0,0
+106000,PC,Player Character,"""I won't betray Ferron!""","""페론을 배신하지 않을 거야!""",q4c_aghaaz,,,,,0,0
+106001,PC,Player Character,"""Then I'm against you.""","""그렇다면 난 네 적이야.""",q4c_aghaaz,,,,,0,0
+106002,PC,Player Character,"""Ferron's arguments make sense.""","""페론의 주장이 일리가 있어.""",q4c_aghaaz,,,,,0,0
+106003,PC,Player Character,"""I guess I'll just have to kill you then.""","""그럼 널 죽여야겠군.""",q4c_aghaaz,,,,,0,0
+106004,PC,Player Character,"""Ferron wants the power source. If you're smart, you'll give it to me.""","""페론이 동력원을 원해. 현명하다면 내놓는게 좋을거야.""",q4c_aghaaz,,,,,0,0
+106005,PC,Player Character,"""Ferron warned me you might be unreasonable.""","""페론이 네가 말이 안 통할 수도 있다고 경고했어.""",q4c_aghaaz,,,,,0,0
+106006,PC,Player Character,"""You should know something: the Maker is dead.""","""알아둬야 할 게 있어. 제작자는 죽었어.""",q4c_aghaaz,,q4c_makerdead,,,0,0
+106007,PC,Player Character,"""It's no lie. I killed the Maker myself.""","""거짓말이 아니야. 내가 직접 제작자를 죽였어.""",q4c_aghaaz,,,,,0,0
+106008,PC,Player Character,"""I get it. Don't worry, I won't mention this again.""","""알았어. 걱정 마, 다시는 이 얘기 안 할게.""",q4c_aghaaz,,,,,0,0
+106009,PC,Player Character,"""Here is Ferron's head.""","""여기 페론의 머리야.""",q4c_aghaaz,,q4c_ferrronhead,,,0,0

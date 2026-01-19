@@ -1,0 +1,41 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+41852,PC,Player Character,<StartAction>[Give him the pass]</Start> Here you go.,<StartAction>[통행증을 건넨다]</Start> 여기 있어요.,2q6a_captain,,,,,0,0
+41860,PC,Player Character,<StartCheck>[Threaten]</Start> You dare question me?!,<StartCheck>[위협]</Start> 감히 나를 의심해요?!,2q6a_captain,,[지능 보통],,,0,0
+41861,PC,Player Character,Does the tower inform you of all their guests?,탑에서 모든 손님들을 알려 주나요?,2q6a_captain,,[지능 보통],,,0,0
+41862,PC,Player Character,You will let me in before I grow... angry.,화내기 전에 날 들여보내요.,2q6a_captain,,[지능 보통],,,0,0
+41863,PC,Player Character,"Fine, I'll just kill you now.","좋아요, 그럼 지금 죽여 드리죠.",2q6a_captain,,[지능 보통],,,0,0
+41864,PC,Player Character,<StartCheck>[Threaten]</Start> You questions me?!,<StartCheck>[위협]</Start> 너 나한테 질문해?!,2q6a_captain,,[지능 낮음],,,0,0
+41865,PC,Player Character,"Wizards tell you 'bout all guests, huh?",마법사들이 너한테 손님 다 말해줘?,2q6a_captain,,[지능 낮음],,,0,0
+41866,PC,Player Character,You lets me in or me gets very mad!,너 나 들여보내든지 나 엄청 화나!,2q6a_captain,,[지능 낮음],,,0,0
+41867,PC,Player Character,"Okays, me kills you now.","좋아, 나 지금 너 죽여.",2q6a_captain,,[지능 낮음],,,0,0
+41868,PC,Player Character,"<StartCheck>[Lie]</Start> I am the Mulhorandi ambassador, I assure you.","<StartCheck>[거짓말]</Start> 전 멀홀란드의 대사예요, 확실해요.",2q6a_captain,,[지능 보통],,,0,0
+41869,PC,Player Character,"<StartCheck>[Lie]</Start> Me Mulhorandi ambassador, me assures you, okays?","<StartCheck>[거짓말]</Start> 나 멀홀란드 대사야, 확실하다고?",2q6a_captain,,[지능 낮음],,,0,0
+41870,PC,Player Character,Are you refusing me entry?,입장을 거부하는 건가요?,2q6a_captain,,[지능 보통],,,0,0
+41871,PC,Player Character,You saying me cannot go in?,너 나 못 들어간다고 하는 거야?,2q6a_captain,,[지능 낮음],,,0,0
+41872,PC,Player Character,That's it. You're a dead man.,그렇군요. 당신은 죽은 목숨이에요.,2q6a_captain,,[지능 보통],,,0,0
+41873,PC,Player Character,"That it. You dead man, now.",그렇구나. 너 이제 죽은 사람이야.,2q6a_captain,,[지능 낮음],,,0,0
+59960,PC,Player Character,"Maybe you shoulds ask wizards, huh?",마법사들한테 물어보는 게 좋을걸?,2q6a_captain,,[지능 낮음],,,0,0
+59961,PC,Player Character,"Perhaps you should ask your wizards, then.",그럼 당신 마법사들한테 물어봐야겠네요.,2q6a_captain,,[지능 보통],,,0,0
+59962,PC,Player Character,Goodbye.,안녕히 계세요.,2q6a_captain,,,,,0,0
+59963,PC,Player Character,"Good. You dies, now.",좋아. 너 이제 죽어.,2q6a_captain,,[지능 낮음],,,0,0
+59964,PC,Player Character,Me has questions.,나 질문 있어.,2q6a_captain,,[지능 낮음],,,0,0
+59965,PC,Player Character,Excellent. Now you die.,훌륭해요. 이제 죽으세요.,2q6a_captain,,[지능 보통],,,0,0
+59966,PC,Player Character,I have some questions.,질문이 좀 있어요.,2q6a_captain,,[지능 보통],,,0,0
+59967,PC,Player Character,Tells me 'bout tower.,탑 얘기 해줘.,2q6a_captain,,[지능 낮음],,,0,0
+59968,PC,Player Character,Why is so much security?,왜 경비가 이렇게 많아?,2q6a_captain,,[지능 낮음],,,0,0
+59969,PC,Player Character,You talks 'bout fighting...?,너 싸움 얘기했잖아...?,2q6a_captain,,[지능 낮음],,,0,0
+59970,PC,Player Character,Who this new Archmage guy?,새 대마법사라는 사람 누구야?,2q6a_captain,,[지능 낮음],,,0,0
+59971,PC,Player Character,Tell me about the Host Tower.,중심탑에 대해 말해 주세요.,2q6a_captain,,[지능 보통],,,0,0
+59972,PC,Player Character,Just how big is tower?,탑이 얼마나 커?,2q6a_captain,,[지능 낮음],,,0,0
+59973,PC,Player Character,You hears 'bout someone named Maugrim?,너 모그림이라는 사람 들어봤어?,2q6a_captain,,[지능 낮음],,,0,0
+59974,PC,Player Character,"You knows 'bout cult in tower, maybe?",너 탑에 사교 있다는 거 알아?,2q6a_captain,,[지능 낮음],,,0,0
+59975,PC,Player Character,Just how large is the tower?,탑이 얼마나 크죠?,2q6a_captain,,[지능 보통],,,0,0
+59976,PC,Player Character,Have you heard of someone named Maugrim?,모그림이라는 사람 들어보셨나요?,2q6a_captain,,[지능 보통],,,0,0
+59977,PC,Player Character,Do you know about any cult in the tower?,탑에 사교가 있다는 건 알고 있나요?,2q6a_captain,,[지능 보통],,,0,0
+59978,PC,Player Character,Why all the tight security?,왜 경비가 이렇게 삼엄하죠?,2q6a_captain,,[지능 보통],,,0,0
+59979,PC,Player Character,You mentioned fighting...?,싸움 얘기하셨는데...?,2q6a_captain,,[지능 보통],,,0,0
+59980,PC,Player Character,What you means by mess?,엉망이라는 게 무슨 뜻이야?,2q6a_captain,,[지능 낮음],,,0,0
+59981,PC,Player Character,What do you mean by a mess?,엉망이라는 게 무슨 뜻이죠?,2q6a_captain,,[지능 보통],,,0,0
+59982,PC,Player Character,Who is this new Archmage Arcane?,이 새 대마법사라는 분은 누구예요?,2q6a_captain,,[지능 보통],,,0,0
+59983,PC,Player Character,"Old archmage dead, huh?",옛날 대마법사 죽었어?,2q6a_captain,,[지능 낮음],,,0,0
+59984,PC,Player Character,The former Archmage is dead?,이전 대마법사가 죽었나요?,2q6a_captain,,[지능 보통],,,0,0

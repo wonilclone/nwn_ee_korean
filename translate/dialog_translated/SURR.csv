@@ -1,0 +1,30 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+25792,Dialog,SURR,You will die here! My masters command it!,여기서 죽을 거야! 내 주인들의 명령이다!,M1Q6B01SURR,nw_d1_attonend02,,,,0,0
+25793,Dialog,SURR,"I... I bow to you. Please, spare me. My masters have failed to protect me as promised... ","다... 당신에게 빌게. 제발, 살려줘. 주인님들은 약속대로 날 지켜주지 못했어...",M1Q6B01SURR,nw_d1_j_surr01,,,,0,0
+25794,Dialog,SURR,What?! But... you can't! I will die fighting!,뭐?! 하지만... 안 돼! 싸우다 죽을 거야!,M1Q6B01SURR,nw_d1_attonend02,,,,0,0
+25795,Dialog,SURR,What... what do you want to know?,뭐... 뭘 알고 싶은데?,M1Q6B01SURR,,,,,0,0
+25796,Dialog,SURR,Where... where are they? They said I would never fall... I surrender! I surrender!,어디... 어디 있지? 내가 절대 쓰러지지 않을 거라고 했는데... 항복할게! 항복한다고!,M1Q6B01SURR,,,,,0,0
+25797,Dialog,SURR,I can't tell you what I don't know. I was told to report to Desther. He is our leader here. He serves the will of the Old Ones.,모르는 걸 어떻게 말해. 데스터에게 보고하라는 말만 들었어. 그가 여기 우리 지도자야. 태고의 존재들의 뜻을 섬기지.,M1Q6B01SURR,,,,,0,0
+25798,Dialog,SURR,Thank you... I will not trouble you again. My masters... they haven't delivered what they promised.,고마워... 다시는 귀찮게 안 할게. 내 주인들이... 약속한 걸 지키지 않았어.,M1Q6B01SURR,nw_d2_leaverun,,,,0,0
+25799,Dialog,SURR,I... I don't know. He's here somewhere. He is above me. I don't ask questions.,나... 나도 몰라. 어딘가에 있어. 내 위에 있는 사람이야. 난 질문 안 해.,M1Q6B01SURR,,,,,0,0
+25800,Dialog,SURR,I swear I don't know! He's in the Hold somewhere!,정말 몰라! 맹세코! 성채 어딘가에 있다고!,M1Q6B01SURR,,,,,0,0
+25801,Dialog,SURR,"<StartCheck>[Success]</Start> I... I know, but there's nothing left that I can say except... well, I think Desther is trying to raise some more protection.","<StartCheck>[성공]</Start> 나... 알아, 하지만 더 말할 게 없는데... 음, 데스터가 보호막을 더 올리려고 하는 것 같아.",M1Q6B01SURR,,,,,0,0
+25802,Dialog,SURR,<StartCheck>[Failure]</Start> There's nothing left to tell that matters. I just want to leave. I was promised protection and I didn't get it.,<StartCheck>[실패]</Start> 더 말할 게 없어. 그냥 떠나고 싶어. 보호해 준다고 약속했는데 안 지켜졌잖아.,M1Q6B01SURR,,,,,0,0
+25803,Dialog,SURR,"Well, there might be a few things. **DETAILS**","음, 몇 가지 있긴 해. **세부사항**",M1Q6B01SURR,,,,,0,0
+25804,Dialog,SURR,<StartCheck>[Success]</Start> Maybe there's this other thing. **DETAILS 2** That's all I know - honest! ,<StartCheck>[성공]</Start> 혹시 다른 게 있긴 해. **세부사항 2** 그게 전부야-정말이야!,M1Q6B01SURR,,,,,0,0
+25805,Dialog,SURR,Please! I'll tell you whatever you want! **DETAILS 2**,제발! 원하는 거 뭐든 말할게! **세부사항 2**,M1Q6B01SURR,,,,,0,0
+25806,Dialog,SURR,The Old Ones. They are the Scale and the Eye. All will serve them and be protected... or so Desther told me... ,태고의 존재들. 그들은 비늘과 눈이야. 모두가 그들을 섬기고 보호받을 거야... 데스터가 그렇게 말했어...,M1Q6B01SURR,,,,,0,0
+25807,Dialog,SURR,I told you I don't know anymore! I just want to go! I just want to go! Please! Don't hurt me!,더 이상 모른다니까! 그냥 가고 싶어! 그냥 가고 싶단 말이야! 제발! 다치게 하지 마!,M1Q6B01SURR,,,,,0,0
+25808,Dialog,SURR,What about it? There isn't much to tell now that we've killed everyone.,그게 왜? 우리가 모두 죽여버렸는데 별로 할 말이 없어.,M1Q6B01SURR,,,,,0,0
+25809,Dialog,SURR,I was told they wanted a base to support people sent to Neverwinter. I wan't told why. I was just supposed to help infiltrate this place.,네버윈터로 보내진 사람들을 지원할 기지가 필요하다고 들었어. 이유는 안 들었어. 그냥 이곳에 침투하라는 명령만 받았어.,M1Q6B01SURR,,,,,0,0
+25810,Dialog,SURR,I followed orders. Desther went to Neverwinter and we made sure nobody could get word from any real Helmites here in the Hold.,"명령을 따랐을 뿐이야. 데스터가 네버윈터로 갔고, 우리는 성채의 진짜 헬름 신도들이 소식을 전하지 못하게 했어.",M1Q6B01SURR,,,,,0,0
+25811,Dialog,SURR,"I am no threat, I swear it. I won't hurt you, or anyone else.","난 위협이 아니야, 맹세해. 당신이나 다른 누구도 해치지 않을게.",M1Q6B01SURR,,,,,0,0
+25812,Dialog,SURR,"He's doing some kind of ritual to gain power, since I think he's been abandoned just like me. He probably thinks the Old Ones will be impressed... ","나처럼 버림받았다고 생각하는지 힘을 얻기 위해 무슨 의식을 하고 있어. 아마 태고의 존재들이 감명받을 거라 생각하는 것 같아...",M1Q6B01SURR,,,,,0,0
+25813,Dialog,SURR,You'll have to stop whatever spell he's begun before you fight him. He won't fall easily.,그와 싸우기 전에 그가 시작한 주문을 먼저 멈춰야 할 거야. 쉽게 쓰러지지 않을 거야.,M1Q6B01SURR,,,,,0,0
+25814,Dialog,SURR,I don't know much else about them. I was promised protection and wealth when the end came to Neverwinter. That was enough for me to follow.,그들에 대해선 별로 아는 게 없어. 네버윈터의 종말이 왔을 때 보호와 부를 약속받았어. 그게 따르기에 충분했어.,M1Q6B01SURR,,,,,0,0
+25815,Dialog,SURR,"I don't know. I was just told that the plague served the Old Ones, and that weakening Neverwinter would prepare it for the battle to come.","몰라. 역병이 태고의 존재들을 섬기는 거고, 네버윈터를 약화시키는 게 다가올 전투를 준비하는 거라는 말만 들었어.",M1Q6B01SURR,,,,,0,0
+25816,Dialog,SURR,"I thought some of it could be lies, but they paid me and promised me more, so I did what Desther said. I'm... I'm sorry. I'm a fool.","어떤 건 거짓말일 수도 있다고 생각했지만, 돈을 주고 더 많이 약속했으니까 데스터가 시킨 대로 했어. 나... 나는 바보야.",M1Q6B01SURR,,,,,0,0
+25817,Dialog,SURR,The cult of the Old Ones recruited me while I was traveling. I don't know where they came from or where their base is.,"여행 중에 태고의 존재들의 사교에서 나를 포섭했어. 그들이 어디서 왔는지, 기지가 어딘지 몰라.",M1Q6B01SURR,,,,,0,0
+25818,Dialog,SURR,All I know is they wanted the plague in Neverwinter to last as long as possible. It wasn't my business to ask why. They don't like questions.,내가 아는 건 그들이 네버윈터의 역병이 최대한 오래 지속되길 원했다는 것뿐이야. 왜인지는 내 일이 아니었어. 질문하는 걸 싫어하거든.,M1Q6B01SURR,,,,,0,0
+25819,Dialog,SURR,"<StartCheck>[Failure]</Start> Come on, I'm just the hired help. Just let me go. I don't know anything really important. I don't.","<StartCheck>[실패]</Start> 제발, 난 그냥 고용된 거야. 날 보내줘. 정말 중요한 건 아무것도 몰라. 정말이야.",M1Q6B01SURR,,,,,0,0
+25820,Dialog,SURR,That's all I know! I swear it! I swear!,그게 전부야! 맹세코! 맹세해!,M1Q6B01SURR,,,,,0,0

@@ -1,0 +1,245 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12441,Creature,White Stag,White Stag,순백색 수사슴,M3_DEERSTAG,,,,,0,0
+12643,Creature,Water Mephit,Water Mephit,물 메피트,Q3_WATER_MEPHIT,,,,,0,0
+12726,Creature,Wraith Spider,Wraith Spider,망령 거미,X2_Q2WRAITHSPID,,,,,0,0
+12799,Creature,Waitress,Waitress,여종업원,2Q4_WAITRESS|M1S04CWAITRESS|M2Q05CGREENWAIT,,,,,0,0
+12802,Creature,Water Elemental,Water Elemental,물의 원소 정령,M2AA2CWATELEM|Q3_WATER_ELEMENT,,,,,0,0
+12808,Creature,Wererat,Wererat,늑대인간 쥐,M2Q04CWERERAT,,,,,0,0
+12812,Creature,Wight,Wight,악귀,M3Q3C_WIGHT10,,,,,0,0
+12814,Creature,Will-O'-Wisp,Will-O'-Wisp,도깨비불,M2Q2CWILLOWISP|TM_CRE_WILLOWISP,,,,,0,0
+12816,Creature,Wolf,Wolf,늑대,FANG|M1S4DBEAST|M1S5AWOLF|M2Q02CWYVWOLF|M2Q03CWOLFMOTHER|M2Q2A_WOLF|M2Q3E_WOLF|M2WOLF|M3Q1MAP_YUSWOLF|NW_WOLF|Q1FOOTWOLF|Q1RING_WOLF|Q2EWOLF,,,,,0,0
+70545,Creature,Wolf,<StartAction>[The wolf looks at you with a lopsided grin.]</Start>,<StartAction>[늑대가 비뚤어진 미소로 당신을 바라봅니다.]</Start>,Q1FOOTWOLF,,,,,0,0
+70546,Creature,Wolf,The wolf wonders if the giant in the cave will throw out some more kobold parts to chew on.,늑대는 동굴 안의 거인이 씹을 만한 코볼트 부위를 더 내던지지 않을까 궁금해합니다.,Q1FOOTWOLF,,,,,0,0
+70547,Creature,Wolf,"The wolf scratches at a flea bite, wondering if swimming in the river would be worth the effort to get rid of the pest. ","늑대는 벼룩 물린 곳을 긁으면서, 이 해충을 없애려고 강에서 수영하는 게 수고할 가치가 있을지 궁금해합니다.",Q1FOOTWOLF,,,,,0,0
+70548,Creature,Wolf,The wolf appears bored and wonders when you are going to go hunting together.,늑대는 지루해 보이며 언제 함께 사냥하러 갈지 궁금해합니다.,Q1FOOTWOLF,,,,,0,0
+70549,Creature,Wolf,"The wolf looks you over to decide if you would make a good mate, arriving at the decision that you would not produce good offspring together.","늑대는 당신을 훑어보며 좋은 짝이 될지 결정하려고 하다가, 함께 좋은 자손을 낳지는 못할 거라는 결론에 도달합니다.",Q1FOOTWOLF,,,,,0,0
+70550,Creature,Wolf,The wolf complains about a stag he was hunting that kept disappearing into thin air.,늑대는 사냥하던 사슴이 공중으로 계속 사라져버려서 불평합니다.,Q1FOOTWOLF,,,,,0,0
+70551,Creature,Wolf,"The wolf wonders how you can stand to move about on two legs, since you are obviously much slower.",늑대는 당신이 분명히 훨씬 느린데도 어떻게 두 다리로 움직이는 걸 견디는지 궁금해합니다.,Q1FOOTWOLF,,,,,0,0
+12820,Creature,Worg,Worg,워그,BW_WORG01|BW_WORGBOSS|DB_WORG01|KS_WORG|M2Q3E_WORG|Q1CAVEWORG|Q1FOOTWORG,,,,,0,0
+12822,Creature,Wraith,Wraith,망령,M1S1WRAITH,,,,,0,0
+79636,Creature,Wraith,Wraith,망령,NW_WRAITH,,,,,0,0
+18060,Dialog,WT,"Good on you, boss, showing these rabble they could be beat. Not great for business, but worth it to see them get fed their boots.","잘했어요, 대장님. 이 오합지졸한테 당할 수 있다는 걸 보여줬잖아요. 장사에는 별로지만, 걔네가 꼴 좀 당하는 걸 보는 건 그만한 가치가 있죠.",M1Q1A07S1WT,,,,,0,0
+18061,Dialog,WT,You'll want to take that there pass to the bartender. He'll set you up. That's all I'm saying.,통행 주화를 저기 바텐더한테 가져가세요. 다 준비해줄 겁니다. 그게 다예요.,M1Q1A07S1WT,,,,,0,0
+18062,Dialog,WT,The bartender will take your order. I'm busy.,바텐더가 주문 받을 거예요. 전 바빠요.,M1Q1A07S1WT,,,,,0,0
+22033,Dialog,WITTIAN,"Eh? Go on, I got nothing wo-(hic)-worth stealin'. Just here to drink... not the auction.","어? 가, 난 훔칠 만한-(딸꾹)-게 없어. 그냥 술 마시러 온 거야... 경매 아니고.",M1Q4D02WITTIAN,,,,,0,0
+22034,Dialog,WITTIAN,You... you here looking for the auction? That's right here... if it's gonna be on... I don't know... ,너... 너 경매 찾아온 거야? 바로 여기야... 열릴 거라면... 모르겠는데...,M1Q4D02WITTIAN,,,,,0,0
+22035,Dialog,WITTIAN,Wooo... you in the wrong place. Wait... then so am I... Haaaaaaaahaha <StartAction>(cough)</Start>.,우우... 너 잘못 온 거야. 잠깐... 그럼 나도 그런가... 하하하하하 <StartAction>(기침)</Start>.,M1Q4D02WITTIAN,,,,,0,0
+22036,Dialog,WITTIAN,Supposed to be for a plague cure... or something. Vengaul wouldn't say... being his normal flashy self... ,역병 치료제를 위한 거라고... 뭐 그런 거. 벵골은 말 안 하더라고... 평소처럼 과시하면서...,M1Q4D02WITTIAN,,,,,0,0
+22037,Dialog,WITTIAN,"That ain't sitting too well with the crowd, though. Callik near... uh... near had a fit. I think there's gonna be somethin.... uh... ",하지만 군중들은 별로 안 좋아해. 칼릭이 거의... 어... 폭발할 뻔했어. 뭔가 있을 것 같은데... 어...,M1Q4D02WITTIAN,,,,,0,0
+22038,Dialog,WITTIAN,Was I saying something?,내가 뭔가 말하고 있었나?,M1Q4D02WITTIAN,,,,,0,0
+22039,Dialog,WITTIAN,"Lieutenant Callik. Thinks Vengaul is too old... too flashy. No respect for tradition, that man. I... I ain't saying anything more... except... ",칼릭 중위. 벵골이 너무 늙었다고 생각해... 너무 과시적이라고. 전통에 대한 존중이 없는 놈이지. 난... 더 이상 말 안 할 거야... 빼고...,M1Q4D02WITTIAN,,,,,0,0
+22040,Dialog,WITTIAN,Shhhh.... They took her... you know? Dara'nei? That's Vengaul's woman. They took her downstairs... I think... ,쉿.... 그녀를 데려갔어... 알지? 다라네이? 벵골의 여자야. 아래층으로 데려갔어... 내 생각엔...,M1Q4D02WITTIAN,,,,,0,0
+22041,Dialog,WITTIAN,Bye and good luck... yah... <StartAction>(hic)</Start>,잘 가... 그래... <StartAction>(딸꾹)</Start>,M1Q4D02WITTIAN,,,,,0,0
+22042,Dialog,WITTIAN,uh... I gotta sit down....,어... 앉아야겠어....,M1Q4D02WITTIAN,,,,,0,0
+66907,Dialog,WITTIAN,"What a night. No more auction... looks like Bloodsailors are done... and worst of all... I think I'm sobering up. Ohh, my head.","대단한 밤이었어. 경매도 끝났고... 핏빛 항해자들도 끝난 것 같고... 그리고 최악은... 술이 깨는 것 같아. 오, 내 머리.",M1Q4D02WITTIAN,,,,,0,0
+23751,Creature,Walters,"You look like hell, man. Dead doesn't suit you.","지옥에서 온 것 같네, 친구. 죽은 게 너한테 안 어울려.",WALTERS104A,c_gpc_talktimes,,,vs_nnwgrdm3_056,0,0
+24544,Creature,Walters,Walters,월터스,WALTERS104A,,,,,0,0
+24637,Creature,Wittian,Wittian,위티안,M1Q04CWITTIAN,,,,,0,0
+24698,Creature,Weak Zombie,Weak Zombie,약한 좀비,M1Q5ZOMBIEWEAK|NW_ZOMBIE01,,,,,0,0
+24754,Creature,Wall Guard,Wall Guard,성벽 경비병,WALLGUARD,,,,,0,0
+27814,Dialog,WAITRESS,Aye? Something ye need? We haven't much.,응? 뭐 필요한 거라도? 별로 없어.,2Q4A_WAITRESS,,,,,0,0
+27815,Dialog,WAITRESS,This be the Cutlass Inn. Ye tellin' me ye're from out of Luskan? I haven't seen a strange face since the battles started.,여긴 커틀러스 여관이야. 러스칸 밖에서 왔다는 거야? 전투가 시작된 이후로 낯선 얼굴을 본 적이 없는데.,2Q4A_WAITRESS,,,,,0,0
+27816,Dialog,WAITRESS,"From Neverwinter? Huh. Even with that plague o' yours, ye should have stayed there. Luskan's no place fer anybody, now.",네버윈터에서? 흠. 그 역병이 있어도 거기 있었어야 했어. 지금 러스칸은 아무도 있을 곳이 아니야.,2Q4A_WAITRESS,,,,,0,0
+27817,Dialog,WAITRESS,"I thought they gone and sealed the gates. Well, mind yerself in the streets. The soldiers will kill anyone they sees.","문을 봉쇄했다고 생각했는데. 뭐, 거리에서 조심해. 병사들은 보이는 사람 누구든 죽일 거야.",2Q4A_WAITRESS,,,,,0,0
+27818,Dialog,WAITRESS,"Your home burned down too, I expect, aye? Well, speak to Aruph, then. This place be as good a refuge as any.","너네 집도 불탔겠지, 그렇지? 그럼 알루프한테 말해 봐. 여긴 어디든 만큼 괜찮은 피난처야.",2Q4A_WAITRESS,,,,,0,0
+27819,Dialog,WAITRESS,"We've watered-down ale. Mayhap there's some wine, left... though the soldiers came days ago an' took most of it.",물 탄 에일이 있어. 와인도 좀 남았을 거야... 며칠 전에 병사들이 와서 대부분 가져갔지만.,2Q4A_WAITRESS,,,,,0,0
+27820,Dialog,WAITRESS,"I'll find what I can and be back. If ye're in a hurry, go an' talk to Aruph.",찾을 수 있는 거 찾아서 올게. 급하면 알루프한테 가서 말해.,2Q4A_WAITRESS,nw_d2_walkways,,,,0,0
+27821,Dialog,WAITRESS,"Don't mind me none, then. I'm just here to serve the customers. Such as they be, I guess.","그럼 신경 쓰지 마. 난 그냥 손님들 시중들러 온 거야. 뭐, 그런 손님들이라도 있으면 말이지.",2Q4A_WAITRESS,nw_d2_walkways,,,,0,0
+27822,Dialog,WAITRESS,"Aye, if ye be quick.","응, 빨리만 하면.",2Q4A_WAITRESS,,,,,0,0
+27823,Dialog,WAITRESS,"'Tis the damned High Captains warring on each other, sure enough. They been tearing apart the city fer weeks, now.","빌어먹을 대선장들이 서로 전쟁 중이야, 확실해. 몇 주째 도시를 갈기갈기 찢고 있어.",2Q4A_WAITRESS,,,,,0,0
+27824,Dialog,WAITRESS,"Ye can't walk the bloody streets... each side will think ye're working for the other, and will kill ye on sight. They loot and burn and murder as they please.","빌어먹을 거리를 걸을 수도 없어... 양측 모두 네가 반대편에서 일한다고 생각해서, 보는 즉시 죽일 거야. 약탈하고 불태우고 마음대로 살인해.",2Q4A_WAITRESS,,,,,0,0
+27825,Dialog,WAITRESS,"I think the whole city's gone mad. Half o' Luskan's been torn apart, an' nobody knows why.","도시 전체가 미쳐버린 것 같아. 러스칸의 절반이 갈기갈기 찢겼는데, 아무도 이유를 몰라.",2Q4A_WAITRESS,,,,,0,0
+27826,Dialog,WAITRESS,"Cults? We've enough problems, m'<lord/lady>... cults would be the least o' them.","광신도들? 우린 문제가 충분해, <lord/lady>... 광신도들은 그중 가장 사소한 문제지.",2Q4A_WAITRESS,,,,,0,0
+27827,Dialog,WAITRESS,Normally we'd be full to the bloody rafters with yer usual sort of pirates an' smugglers... these folk all be locals put out o' their homes.,평소라면 흔한 해적이나 밀수업자들로 빌어먹을 서까래까지 꽉 찼을 텐데... 여기 있는 사람들은 다 집에서 쫓겨난 현지인들이야.,2Q4A_WAITRESS,,,,,0,0
+27828,Dialog,WAITRESS,"The soldiers don't bother us none, for now, so the inn's a decent place fer refuge. Aruph's too kind to charge them, neither.","지금은 병사들이 우릴 괴롭히지 않아서, 여관이 피난하기 괜찮은 곳이지. 알루프도 너무 친절해서 돈도 안 받아.",2Q4A_WAITRESS,,,,,0,0
+27829,Dialog,WAITRESS,"Ach, I get enough o' that from the pirates who used t' wander through here. Keep yer hands t' yerself.","아, 여기 돌아다니던 해적들한테 그런 건 충분히 당했어. 손 치워.",2Q4A_WAITRESS,,,,,0,0
+27830,Dialog,WAITRESS,"If ye has more questions, ye should talk to Aruph. I has things that need doing.",더 질문 있으면 알루프한테 말해 봐. 난 할 일이 있어.,2Q4A_WAITRESS,nw_d2_walkways,,,,0,0
+27831,Dialog,WAITRESS,"Aye, on yer way, then.","그래, 그럼 가.",2Q4A_WAITRESS,nw_d2_walkways,,,,0,0
+29296,Dialog,WAITTABLES,Can I take your order <Mister/Missus>.,"주문 받아도 될까요, <Mister/Missus>.",2Q4_WAITTABLES,,,,,0,0
+29297,Dialog,WAITTABLES,"Aruph, I need a drink for the <man/woman> over yonder.","알루프, 저기 <man/woman>한테 줄 음료 필요해요.",2Q4_WAITTABLES,,,,,0,0
+29298,Dialog,WAITTABLES,Here you go <Sir/Madam>.,"여기 있습니다, <Sir/Madam>.",2Q4_WAITTABLES,,,,,0,0
+29334,Creature,Wanev's Bugbear,Kill for Master Wanev! We wants reward ale!,와네브 주인님을 위해 죽여라! 우리 보상 에일 원해!,M2Q03CBUGBEAR,,,,,0,0
+29335,Creature,Wanev's Bugbear,"Wardstone, eh? You go along.",경계석이라고? 가도 돼.,M2Q03CBUGBEAR,,,,,0,0
+40758,Creature,Wanev's Bugbear,Wanev's Bugbear,와네브의 버그베어,M2Q03CBUGBEAR,,,,,0,0
+30960,Dialog,WTLES,"Shove off. Me talkin' to lady, yuh?","꺼져. 나 아가씨랑 얘기 중이야, 응?",M2Q1A03WTLES,,,,vs_nbarbam1_051,0,0
+30961,Dialog,WTLES,Why they always water down me ale?,왜 맨날 내 에일에 물 타는 거야?,M2Q1A03WTLES,,,,vs_nbarbam1_052,0,0
+30962,Dialog,WTLES,"Huh, you tink she like me?","어, 저 애가 날 좋아한다고 생각해?",M2Q1A03WTLES,,,,vs_nbarbam1_050,0,0
+30963,Dialog,WTLES,"Yuh, tanks.","응, 고마워.",M2Q1A03WTLES,,,,,0,0
+30964,Dialog,WTLES,"Okay, but make it fast, yuh? Me have girly-girl to see.","좋아, 근데 빨리 해, 응? 나 여자애 만나야 해.",M2Q1A03WTLES,,,,,0,0
+30965,Dialog,WTLES,"Uh... Me no know... Look, me in hurry, yuh?","어... 나 몰라... 봐, 나 바빠, 응?",M2Q1A03WTLES,,,,,0,0
+30966,Dialog,WTLES,"That's it, go away. You just wastes me time.","됐어, 저리 가. 넌 그냥 내 시간 낭비야.",M2Q1A03WTLES,,,,,0,0
+30967,Dialog,WTLES,Greedy thief!,탐욕스런 도둑놈!,M2Q1A03WTLES,,,,vs_nbarbam1_053,0,0
+30981,Creature,Witless Fighter,Yuh. Me kill orcs all day. Big army.,응. 나 하루 종일 오크 죽여. 큰 군대.,M2Q1CWITL,,,,vs_nbarbam1_054,0,0
+30983,Creature,Witless Fighter,"Huh, more orcs?","어, 오크 더 있어?",M2Q1CWITL,,,,vs_nbarbam1_055,0,0
+30985,Creature,Witless Fighter,"Uh, me need more ale, first... Gimme a moment.","어, 나 먼저 에일 더 필요해... 잠깐만.",M2Q1CWITL,,,,vs_nbarbam1_058,0,0
+30986,Creature,Witless Fighter,"Oh, me see what you doing now! You want romp, yuh?","오, 이제 네가 뭐 하는지 알겠어! 놀고 싶은 거지, 응?",M2Q1CWITL,,,,vs_nbarbam1_056,0,0
+30990,Creature,Witless Fighter,"Yuh. Yuh, me do that.","응. 응, 나 그래.",M2Q1CWITL,m2q5zamith002,,,vs_nbarbam1_057,0,0
+40875,Creature,Witless Fighter,Witless,멍청이,M2Q1CWITL,,,,,0,0
+40876,Creature,Witless Fighter,Fighter,전사,M2Q1CWITL,,,,,0,0
+38848,Dialog,WTRES,"If you desire anything, <sir/madam>, I'll just be a moment.","뭐 필요하시면, <sir/madam>, 금방 올게요.",M2Q5L01WTRES,,,,,0,0
+38849,Dialog,WTRES,So long as it *is* quick.,*정말* 빨리만 하면요.,M2Q5L01WTRES,,,,,0,0
+38850,Dialog,WTRES,"Talk to Mutamin if you need anything right away, <sir/madam>. It might be a while before I can get to you.","당장 뭐 필요하시면 무타민한테 말씀하세요, <sir/madam>. 제가 가기까지 좀 걸릴 수 있거든요.",M2Q5L01WTRES,,,,,0,0
+38851,Dialog,WTRES,"I've no idea, <sir/madam>. I just serve them.","모르겠어요, <sir/madam>. 전 그냥 시중들 뿐이에요.",M2Q5L01WTRES,,,,,0,0
+38852,Dialog,WTRES,"Aside from the fact that its gates are closed due to the plague? No, not really. We're always busy, here, though, so that makes no difference.","역병 때문에 문이 닫혔다는 거 말고요? 아니요, 별로요. 여긴 항상 바쁘거든요. 그래서 별 차이 없어요.",M2Q5L01WTRES,,,,,0,0
+38853,Dialog,WTRES,"No, these are all regular folk in here. Nothing too unique about any of them except for that Zamithra woman, perhaps.","아뇨, 여기 있는 사람들은 다 평범한 사람들이에요. 자미스라라는 여자 빼고는 특별한 사람 없어요.",M2Q5L01WTRES,,,,,0,0
+38854,Dialog,WTRES,"Not strange, <sir/madam>. She's got guts, and I admire her. Zamithra is a famous mercenary captain, renowned for her revilement of men.","이상하지 않아요, <sir/madam>. 그녀는 배짱이 있고, 전 존경해요. 자미스라는 유명한 용병 대장으로, 남자들을 경멸하기로 유명하죠.",M2Q5L01WTRES,,,,,0,0
+38855,Dialog,WTRES,"I think men could use a swift kick sometimes, certainly.","남자들은 가끔 발길질 좀 당해야 한다고 생각해요, 확실히.",M2Q5L01WTRES,,,,,0,0
+38856,Dialog,WTRES,"Oh, of course not. You've nothing to worry about, dear man. Ha ha!","오, 물론 아니에요. 걱정 마세요, 선생님. 하하!",M2Q5L01WTRES,,,,,0,0
+38857,Dialog,WTRES,"Mutamin. You'll find him behind the counter near the back hall, more as like.","무타민이요. 뒤쪽 복도 근처 카운터 뒤에 있을 거예요, 아마도.",M2Q5L01WTRES,,,,,0,0
+38858,Dialog,WTRES,Was that a question? Do you want to know who the owner is? Is that what you mean?,그게 질문이었나요? 주인이 누군지 알고 싶으세요? 그 말씀이신가요?,M2Q5L01WTRES,,,,,0,0
+38859,Dialog,WTRES,"But I do think of her as a good example for what women can accomplish if we set our minds to it, don't you think?","그래도 전 그녀를 여자들이 마음먹으면 뭘 해낼 수 있는지 보여주는 좋은 예로 생각해요, 그렇지 않나요?",M2Q5L01WTRES,,,,,0,0
+38860,Dialog,WTRES,Not that I can think of. ,생각나는 건 없네요.,M2Q5L01WTRES,,,,,0,0
+38861,Dialog,WTRES,"No, these are all regular folk in here. Nothing too unique about any of them except for that Zamithra woman, perhaps. Or the minotaur. He's a frightening one.","아뇨, 여기 있는 사람들은 다 평범한 사람들이에요. 자미스라라는 여자 빼고는 특별한 사람 없어요. 아, 미노타우로스도 있네요. 그는 무서운 존재죠.",M2Q5L01WTRES,,,,,0,0
+38862,Dialog,WTRES,"No, these are all regular folk in here. Nothing too unique about any of them except maybe for the minotaur. He's a scary one.","아뇨, 여기 있는 사람들은 다 평범한 사람들이에요. 미노타우로스 빼고는 특별한 사람 없어요. 그는 무서운 존재죠.",M2Q5L01WTRES,,,,,0,0
+38863,Dialog,WTRES,"Well, a short time ago, a minotaur arrived during the night and demanded a room. His name was Gor or Zar or something like that. ","글쎄요, 얼마 전에 밤중에 미노타우로스가 와서 방을 달라고 했어요. 이름은 고르인가 자르인가 뭐 그런 거였어요.",M2Q5L01WTRES,,,,,0,0
+38864,Dialog,WTRES,"He's been holed up in a room upstairs. He only unlocks the door to take food and ale. A LOT of food and ale. I don't know what he's hiding from. He seems to be having a good time getting drunk, regardless.",위층 방에 틀어박혀 있어요. 음식이랑 에일 받으려고만 문을 열죠. 엄청 많은 음식과 에일을요. 뭘 숨는 건지 모르겠어요. 어쨌든 술 마시면서 즐기는 것 같더라고요.,M2Q5L01WTRES,,,,,0,0
+38865,Dialog,WTRES,Any other questions?,다른 질문 있으세요?,M2Q5L01WTRES,,,,,0,0
+40626,Creature,Wyrmling Blue Dragon,Wyrmling Blue Dragon,새끼 청룡,X0_WYRMLING_BLU,,,,,0,0
+40761,Creature,Woman,Woman,여자,M2Q03CCHARWOMAN|M2Q03CCHARWOMAN2|M2Q03CCHARWOMAN3|M2Q03CCHARWOMAN4,,,,,0,0
+40771,Creature,Wanev's Golem,Wanev's Golem,와네브의 골렘,M2Q03CWANEVGOL|M2Q03CWANEVGOL01,,,,,0,0
+40772,Creature,Wanev's Guard,Wanev's Guard,와네브의 경비,M2Q03CWANEVGUARD,,,,,0,0
+40773,Creature,Wolf Mother,Mother,어미,M2Q03CWOLFMOTHER,,,,,0,0
+40874,Creature,Wanev,Wanev,와네브,M2Q1CWANEV,,,,,0,0
+40877,Creature,Wyvern,Wyvern,와이번,M2Q1CWYVERN,,,,,0,0
+40921,Creature,Wanev's Gargoyle,Wanev's Gargoyle,와네브의 가고일,M2Q3CWANEVGAR,,,,,0,0
+42545,Creature,Warden Erjack,Warden Erjack,간수장 에르잭,2Q6H_ERJACK,,,,,0,0
+60108,Creature,Warden Erjack,Your head shall adorn my dinner table fool.,"네 머리가 내 식탁을 장식할 거다, 바보 같은 놈.",2Q6H_ERJACK,,,,,0,0
+46561,Dialog,WATER,"Ah, so another water elemental is summoned forth to this plane. Tell me, <race> creature, what would you have me do?","아, 또 다른 물의 원소 정령이 이 차원으로 소환되는군요. 말해 보세요, <race> 생명체여, 무엇을 하길 원하십니까?",M3Q3B10WATER,,,,,0,0
+46562,Dialog,WATER,"This was once the lair of the mage Cyril Lyricus, greatest of all the summoners. Here he practiced great magic and created many servants.",이곳은 한때 모든 소환사 중 가장 위대한 마법사 시릴 리리쿠스의 은신처였습니다. 그는 여기서 위대한 마법을 수련하고 많은 하인을 창조했습니다.,M3Q3B10WATER,,,,,0,0
+46563,Dialog,WATER,"If it pleases you, I can give you something that I brought with me from my home plane. Do you wish this?","원하신다면, 제 고향 차원에서 가져온 무언가를 드릴 수 있습니다. 원하십니까?",M3Q3B10WATER,,,,,0,0
+46564,Dialog,WATER,"I am in your control still, and so I must warn you that if you relinquish control of me, I am under no obligation to return.","저는 여전히 당신의 통제 아래 있으므로, 경고해야 합니다. 통제를 포기하시면 제가 돌아올 의무는 없습니다.",M3Q3B10WATER,,,,,0,0
+46565,Dialog,WATER,"I am the greatest of his servants... though I sense my creator is no more. Yet even with Cyril's death, my power is bound to this summoning pool.","저는 그의 하인 중 가장 위대한 존재입니다... 비록 창조주가 더 이상 없다는 것을 감지하지만요. 하지만 시릴의 죽음에도 불구하고, 제 힘은 이 소환 연못에 묶여 있습니다.",M3Q3B10WATER,,,,,0,0
+46566,Dialog,WATER,"You have disrupted the ritual of summoning by your approach. I am no longer under your control, and so I leave.","당신의 접근으로 소환 의식이 방해받았습니다. 더 이상 당신의 통제 아래 있지 않으므로, 떠나겠습니다.",M3Q3B10WATER,,,,,0,0
+46567,Dialog,WATER,"Who calls to me, and for what purpose am I summoned to this plane?","누가 저를 부르는 것이며, 무슨 목적으로 이 차원에 소환되었습니까?",M3Q3B10WATER,,,,,0,0
+46568,Dialog,WATER,"You have summoned me, <race> <male/female> and so by the magic of Cyril Lyricus I must perform a task for you. What is it you wish of me?","당신이 저를 소환했군요, <race> <male/female>. 그러므로 시릴 리리쿠스의 마법에 의해 당신을 위한 임무를 수행해야 합니다. 무엇을 원하십니까?",M3Q3B10WATER,,,,,0,0
+46569,Dialog,WATER,"Very well. If you wish it, this deed will be performed and then I will absolve myself of your control.","알겠습니다. 원하신다면, 이 일을 수행한 뒤 당신의 통제에서 벗어나겠습니다.",M3Q3B10WATER,,,,,0,0
+46571,Dialog,WATER,Very well. I do as you wish.,알겠습니다. 원하시는 대로 하겠습니다.,M3Q3B10WATER,,,,,0,0
+46574,Dialog,WATER,Very well. I return from whence I have come.,알겠습니다. 제가 온 곳으로 돌아가겠습니다.,M3Q3B10WATER,m3q3at_water_003,,,,0,0
+46576,Dialog,WATER,"I am, obviously, a water elemental. You performed the ritual and summoned me. Now, I am bound to obey one command.","저는, 명백히, 물의 원소 정령입니다. 당신이 의식을 수행하여 저를 소환했습니다. 이제 저는 하나의 명령에 복종해야 합니다.",M3Q3B10WATER,,,,,0,0
+46577,Dialog,WATER,"You might wish me to perform some random task, or perhaps you wish me to gift you with a boon. Simply command me.","어떤 무작위 임무를 수행하길 원하실 수도 있고, 혹은 선물을 드리길 원하실 수도 있습니다. 그저 명령하십시오.",M3Q3B10WATER,,,,,0,0
+46578,Dialog,WATER,"I cannot tell you what the item will be, but it will be powerful enough to suit you.","어떤 물건이 될지 말씀드릴 수 없지만, 당신에게 적합할 만큼 강력할 것입니다.",M3Q3B10WATER,,,,,0,0
+46579,Dialog,WATER,"Fine. Then simply tell me what you do wish, and I will fulfill your request.","좋습니다. 그럼 무엇을 원하시는지 말씀하시면, 요청을 들어드리겠습니다.",M3Q3B10WATER,,,,,0,0
+46580,Dialog,WATER,"Fine, then take this item. And now, I will take my leave of you.","좋습니다, 그럼 이 물건을 받으십시오. 이제 당신을 떠나겠습니다.",M3Q3B10WATER,nw_j_demon4,,,,0,0
+46986,Creature,Wogar,Wogar,워거,M3Q04G08WOGAEGB,,,,,0,0
+48777,Creature,Wounded Soldier,"The golems, there's... *ungh* there's no defeating them... ","골렘들, 그들은... *으윽* 이길 수가 없어...",M4Q01BWOUN,,,,,0,0
+48778,Creature,Wounded Soldier,"His massive blade, it cut me right - *agh!* - right there... ","그의 거대한 검이, 날 베었어 - *으악!* - 바로 여기를...",M4Q01BWOUN,,,,,0,0
+48779,Creature,Wounded Soldier,"I'd like to get my hands on whoever's controlling it, I tell ya... ","그걸 조종하는 놈을 내 손으로 잡고 싶어, 정말이야...",M4Q01BWOUN,,,,,0,0
+49090,Creature,Wounded Soldier,Wounded Soldier,부상당한 병사,M4Q01BWOUN,,,,,0,0
+49095,Creature,Wilbur,Wilbur,윌버,M4Q01C17WILB,,,,,0,0
+59426,Dialog,WOLFBOSS,*HOOOOOWL*,*아우우우우*,M2WOLFBOSS,,,,,0,0
+63125,Dialog,WOLFBOSS,*HOOOOOWL*,*아우우우우*,M1WOLFBOSS,,,,,0,0
+60133,Dialog,WERERAT,Baram will pleased with your head on a pike.,바람은 네 머리가 창끝에 꽂힌 걸 보면 기뻐할 거다.,2Q6_WERERAT,,,,,0,0
+60268,Creature,Wererat Captain,Wererat Captain,시궁쥐인간 대장,2Q4_WERERAT_BOSS|NW_BOSS,,,,,0,0
+60888,Dialog,WIZLAB,This room looks like a functional wizard's lab.,이 방은 기능하는 마법사의 연구실처럼 보입니다.,M3Q3D_WIZLAB,,,,,0,0
+61261,Dialog,WOUNDED,Those Luskan dogs are merciless. I hear they don't even take prisoners - if you try to surrender they just cut you down where you stand! ,저 러스칸 개자식들은 무자비해. 포로도 안 잡는다더라고 - 항복하려 해도 그냥 서 있는 자리에서 베어버린대!,M4_WOUNDED,,,,,0,0
+61262,Dialog,WOUNDED,"You're the hero who saved us from the Wailing Death! Have you come here to save the city one last time, or are you trapped here like the rest of us?","당신은 울부짖는 죽음 역병에서 우릴 구한 영웅이잖아요! 도시를 마지막으로 한 번 더 구하러 온 건가요, 아니면 우리처럼 여기 갇힌 건가요?",M4_WOUNDED,,,,,0,0
+61263,Dialog,WOUNDED,"My wounds are bad, but at least I'm still alive. That's more than most of my company can say.","내 부상은 심각하지만, 적어도 살아 있어. 우리 중대 대부분은 그것조차 할 수 없으니까.",M4_WOUNDED,,,,,0,0
+61264,Dialog,WOUNDED,Between the catapults and war golems we didn't stand a chance against the invaders. They took the south section of the city.,투석기와 전쟁 골렘 사이에서 침략자들을 상대할 기회조차 없었어. 그들이 도시 남쪽 구역을 점령했어.,M4_WOUNDED,,,,,0,0
+64271,Creature,Weak Shadow,Weak Shadow,약한 그림자,NW_SHADOW,,,,,0,0
+65334,Creature,Water Elemental Guardian,By the sword shall you bless me. With my essence I shall bless you.,검으로 당신이 저를 축복하실 것입니다. 제 정수로 당신을 축복하겠습니다.,2Q4_ILLUSKWATER,,,,,0,0
+65558,Creature,Water Elemental Guardian,Water Elemental Guardian,물의 원소 정령 수호자,2Q4_ILLUSKWATER,,,,,0,0
+65730,Dialog,WORSHIPPER,"I am sorry, I must focus on the spirits of my ancestors, and pray that they rescue us from this plague.","죄송하지만, 조상들의 영혼에 집중하고 그들이 이 역병에서 우릴 구해주길 기도해야 합니다.",M3Q2D_WORSHIPPER,,,,,0,0
+68350,Dialog,WORSHIPPER,Our tribe is saved! <CUSTOM201> has cured the people of the Elk from the Wailing Death!,우리 부족이 구원받았습니다! <CUSTOM201>님께서 큰사슴 부족 사람들을 울부짖는 죽음 역병에서 치료해 주셨습니다!,M3Q2D_WORSHIPPER,,,,,0,0
+68351,Dialog,WORSHIPPER,"You are a great hero, <FullName>! Through every generation the legend of how you saved the Elk people from the Wailing Death shall be retold.","당신은 위대한 영웅입니다, <FullName>! 울부짖는 죽음 역병에서 큰사슴 부족을 구한 전설이 대대로 전해질 것입니다.",M3Q2D_WORSHIPPER,test,,,,0,0
+72036,Dialog,WARNING,"<StartAction>A message has been chiseled into the face of this granite marker in several languages. While almost faded, it is still legible:</Start>","<StartAction>이 화강암 표지석 표면에 여러 언어로 메시지가 새겨져 있습니다. 거의 희미해졌지만, 여전히 읽을 수 있습니다:</Start>",Q2_WARNING,,,,,0,0
+72037,Dialog,WARNING,"""Herein lie the brave warriors of fair Ascalhorn. Know ye that they perished with honor, and that the memory of their grim duty shall fill our hearts with sadness for all eternity.""","""여기 고귀한 아스칼혼의 용감한 전사들이 잠들어 있노라. 알지어다, 그들은 명예롭게 죽었으며, 그들의 엄숙한 의무에 대한 기억이 영원토록 우리 마음을 슬픔으로 채울 것임을.""",Q2_WARNING,,,,,0,0
+72038,Dialog,WARNING,"""If thou dost enter this hallowed place, enter with respect. Those who seek only to defile shall be granted no mercy.""","""그대가 이 신성한 장소에 들어오거든, 존중하는 마음으로 들어오라. 오직 더럽히려는 자들에게는 자비가 없으리라.""",Q2_WARNING,,,,,0,0
+74976,Creature,Warrior,Warrior,전사,Q3_DAEMONFEY,,,,,0,0
+79626,Creature,Weird Spawner,Weird Spawner,괴이한 정령 생성기,WEIRDSPAWNER,,,,,0,0
+79629,Creature,Wisp,Wisp,위습,NW_WILLOWISP,,,,,0,0
+81783,Creature,Worker,Thank you for healing me! The demonic creatures swarmed out and slew everybody.,치료해 주셔서 감사합니다! 악마 같은 생명체들이 떼를 지어 나와 모두를 죽였어요.,Q3A_WORKER,,,,,0,0
+81784,Creature,Worker,I am getting out of here before they come back.,놈들이 돌아오기 전에 여기서 빠져나가겠습니다.,Q3A_WORKER,,,,,0,0
+81785,Creature,Worker,"Death... death came... so swiftly. Horrible laughter... we screamed and cried... for mercy... then, more laughter...","죽음이... 죽음이 왔어... 너무 빨리. 끔찍한 웃음소리... 우린 비명지르고 울었어... 자비를 구하며... 그러자, 더 많은 웃음소리...",Q3A_WORKER,,,,,0,0
+81786,Creature,Worker,One more thing.... they... they have found the....,한 가지 더.... 그들이... 그들이 찾았어....,Q3A_WORKER,,,,,0,0
+81787,Creature,Worker,Ah.....,아.....,Q3A_WORKER,q3a_at_worker1,,,,0,0
+83036,Creature,Worker,Worker,일꾼,Q3A_WORKER|WORKER,,,,,0,0
+84452,Dialog,WARRIOR1,"Mistress! Forgive me, but I heard something near the doors.","여주인님! 용서하십시오만, 문 근처에서 무언가 소리가 들렸습니다.",Q2D_WARRIOR1,,,,vs_nx2drmgm_63,0,0
+84453,Dialog,WARRIOR1,"Yes, mistress. Right away.","네, 여주인님. 즉시 하겠습니다.",Q2D_WARRIOR1,,,,vs_nx2drmgm_64,0,0
+92699,Dialog,WATERAMBIENTS,They slew everyone they could reach. I even heard that they killed one of the secret Lords of Waterdeep.,손에 닿는 사람은 모두 죽였어. 워터딥의 비밀 군주 중 한 명도 죽였다는 소문까지 들었어.,Q1WATERAMBIENTS,,,,,0,0
+92700,Dialog,WATERAMBIENTS,We will fight for our beloved city until the last of us falls. We will never surrender!,우리는 마지막 한 명이 쓰러질 때까지 사랑하는 도시를 위해 싸울 거야. 절대 항복하지 않을 거야!,Q1WATERAMBIENTS,,,,,0,0
+92701,Dialog,WATERAMBIENTS,That's it; I'm moving to Amn! The drow and duergar can have this blasted city!,"됐어, 앰으로 이사 갈 거야! 드로우와 듀에르가가 이 빌어먹을 도시 가져도 돼!",Q1WATERAMBIENTS,,,,,0,0
+92702,Dialog,WATERAMBIENTS,We must keep the armies up here to protect us.,군대를 여기 위에 남겨서 우릴 보호해야 해.,Q1WATERAMBIENTS,,,,,0,0
+92703,Dialog,WATERAMBIENTS,We must send the armies down to kill them.,군대를 아래로 보내서 놈들을 죽여야 해.,Q1WATERAMBIENTS,,,,,0,0
+92704,Dialog,WATERAMBIENTS,Death came with the night and left with the dawn. I'm afraid it shall return tonight to end us all.,죽음이 밤과 함께 왔다가 새벽과 함께 떠났어. 오늘 밤 다시 와서 우리 모두를 끝장낼까 봐 두려워.,Q1WATERAMBIENTS,,,,,0,0
+92705,Dialog,WATERAMBIENTS,What are the Lords of Waterdeep doing to help us? Why are they holed up in the castle? Are they going to leave us down here to die?,워터딥의 군주들은 우릴 돕기 위해 뭘 하는 거지? 왜 성에 틀어박혀 있는 거야? 우릴 여기 버려두고 죽게 하려는 건가?,Q1WATERAMBIENTS,,,,,0,0
+92706,Dialog,WATERAMBIENTS,"My dog tore the throat out of two of them, but they just kept on coming. I barely escaped with my life!","내 개가 놈들 둘의 목을 물어뜯었는데도, 계속 달려들었어. 간신히 목숨만 건졌어!",Q1WATERAMBIENTS,,,,,0,0
+92707,Dialog,WATERAMBIENTS,My son! They took my son! Why would they take such a young innocent?,내 아들! 내 아들을 데려갔어! 왜 그렇게 어린 순수한 아이를 데려가는 거지?,Q1WATERAMBIENTS,,,,,0,0
+92708,Dialog,WATERAMBIENTS,They came out of the sewers and destroyed my home. Will they come back tonight and finish us off?,하수구에서 나와 내 집을 파괴했어. 오늘 밤 돌아와서 우릴 끝장낼까?,Q1WATERAMBIENTS,,,,,0,0
+92730,Dialog,WARNINGGUARD,"""Be careful out here... there could be an enemy around every corner.""","""여기서 조심하세요... 모퉁이마다 적이 있을 수 있습니다.""",Q2A1WARNINGGUARD,,,,,0,0
+92731,Dialog,WARNINGGUARD,"A nervous guard comes running up to you. ""How fares everyone inside?""","긴장한 경비병이 당신에게 달려옵니다. ""안에 있는 사람들은 괜찮습니까?""",Q2A1WARNINGGUARD,,,,,0,0
+92732,Dialog,WARNINGGUARD,"""I know, Tamsil warned us. There have been attacks all over this side of the city.  Although we have been resisting them, there are still many of the enemy about.""","""알고 있습니다, 탐실이 경고했죠. 도시 이쪽 전역에 공격이 있었습니다. 저항하고는 있지만, 여전히 적이 많이 남아 있습니다.""",Q2A1WARNINGGUARD,,,,,0,0
+92733,Dialog,WARNINGGUARD,"""All roads leading out of this district are sealed and most businesses hereabouts are closed.  You might be better off staying inside until we can clear the streets, my <lord/lady>.""","""이 지구에서 나가는 모든 길이 봉쇄되었고 이 근처 대부분의 상점이 문을 닫았습니다. 거리를 정리할 때까지 안에 계시는 게 나을 겁니다, <lord/lady>.""",Q2A1WARNINGGUARD,act_wguard_talk,,,,0,0
+92734,Dialog,WARNINGGUARD,Okay... but don't say I didn't warn you.,알겠습니다... 하지만 경고 안 했다고 하지 마세요.,Q2A1WARNINGGUARD,,,,,0,0
+92735,Dialog,WARNINGGUARD,"""<FullName>? Oh... I'm sorry. Well, I guess you can handle yourself out here, then.""","""<FullName>? 오... 죄송합니다. 그럼, 여기서 스스로 잘 대처하실 수 있겠군요.""",Q2A1WARNINGGUARD,,,,,0,0
+94819,Creature,Waterdeep Wizard,Waterdeep Wizard,워터딥 마법사,CUT10_GWIZ|HX_END_WATERDEEP3,,,,,0,0
+94821,Creature,Waterdeep Militia,Waterdeep Militia,워터딥 민병대,CUT10_MILITIA|CUT10_MILITIA_D|CUT10_MILITIA_F|CUT10_MILITIA_F2|CUT10_RAM_R|HX_END_WATERDEEP|Q2A1_MILITIA,,,,,0,0
+94930,Creature,White Thesta,White,화이트,WHITE,,,,,0,0
+94931,Creature,White (Victim) Thesta,Thesta,테스타,HX_CRYSTAL3_VIC3|WHITE,,,,,0,0
+100120,Creature,White (Victim) Thesta,White (Victim),화이트 (희생자),HX_CRYSTAL3_VIC3,,,,,0,0
+98994,Dialog,WASTE_1,You stumble upon some tracks half-buried in the snow but can't make heads or tails of them.,"눈에 반쯤 묻힌 발자국을 우연히 발견하지만, 그것이 무엇인지 알 수 없습니다.",HX_WASTE_1,,,,,0,0
+98995,Dialog,WASTE_1,"You come across some tracks half-buried in the snow. There are some smaller ones that look like they belong to some kind of dog, as well as some larger ones you can't seem to identify.","눈에 반쯤 묻힌 발자국을 발견합니다. 개 같은 것의 것으로 보이는 작은 발자국들과, 정체를 알 수 없는 큰 발자국들이 있습니다.",HX_WASTE_1,,,,,0,0
+98996,Dialog,WASTE_1,You spy some tracks half-buried in the snow. Most belong to a pack of frost worgs that likely makes its den somewhere to the west. A larger set of worg prints indicate a powerful alpha male leading the pack.,눈에 반쯤 묻힌 발자국을 발견합니다. 대부분은 아마도 서쪽 어딘가에 소굴을 둔 서리 워그 무리의 것입니다. 더 큰 워그 발자국은 무리를 이끄는 강력한 우두머리 수컷을 나타냅니다.,HX_WASTE_1,,,,,0,0
+98998,Dialog,WASTE_1,"Farther off, you also spy an older set of prints belonging to some form of Troll. Judging by the depth of the impression and cold climate, you suspect that a handful of Ice Trolls must call the region home.","더 멀리, 어떤 형태의 트롤의 것으로 보이는 오래된 발자국도 발견합니다. 자국의 깊이와 추운 기후로 판단하건대, 소수의 얼음 트롤이 이 지역을 거처로 삼고 있는 것 같습니다.",HX_WASTE_1,,,,,0,0
+98999,Dialog,WASTE_2,You stumble upon a smattering of rodent tracks leading every which way in the dust.,사방으로 이어지는 설치류 발자국을 먼지 속에서 우연히 발견합니다.,HX_WASTE_2,,,,,0,0
+99000,Dialog,WASTE_2,You see some well-worn rat tracks crisscrossing the dusty floor. They must have a nest somewhere nearby.,먼지 낀 바닥을 가로지르는 낡은 쥐 발자국을 봅니다. 근처 어딘가에 둥지가 있는 것이 틀림없습니다.,HX_WASTE_2,,,,,0,0
+99001,Dialog,WASTE_2,You spy various well-worn rat tracks crisscrossing the dusty floor. They all lead back to a pile of crates in the corner where you can see they've managed to chew a small hole. No doubt they have a nest on the other side.,"먼지 낀 바닥을 가로지르는 다양한 낡은 쥐 발자국을 발견합니다. 모두 구석의 상자 더미로 이어지는데, 그곳에 작은 구멍을 뚫어 놓은 것을 볼 수 있습니다. 의심할 여지 없이 반대편에 둥지가 있을 것입니다.",HX_WASTE_2,,,,,0,0
+99002,Dialog,WASTE_3,You stumble upon various large tracks in the snow. Whatever created them was definitely big.,눈 속에서 다양한 큰 발자국을 우연히 발견합니다. 무엇이 만들었든 분명히 컸습니다.,HX_WASTE_3,,,,,0,0
+99003,Dialog,WASTE_3,"You see some footprints set deep in the snow. The bulk of them appear to come from some form of giant humanoid, though there are some smaller ones that you can't quite identify.","눈에 깊이 파인 발자국을 봅니다. 대부분은 어떤 형태의 거대 인간형 생명체의 것으로 보이지만, 정체를 알 수 없는 작은 발자국도 있습니다.",HX_WASTE_3,,,,,0,0
+99004,Dialog,WASTE_3,"You spy a collection of footprints set deep in the snow. Most appear to be the oversized bootprints of a band of Frost Giants, though you also spy some smaller ones that look to belong to a family of ice trolls.","눈에 깊이 파인 발자국 무리를 발견합니다. 대부분은 서리 거인 무리의 거대한 장화 자국으로 보이지만, 얼음 트롤 가족의 것으로 보이는 작은 발자국도 있습니다.",HX_WASTE_3,,,,,0,0
+99005,Dialog,WASTE_3,"Though the tracks clearly mingle, they show no signs of conflict. While you doubt the two groups met for a purely social engagement, they likely had to negotiate an end to some minor dispute.","발자국이 명백히 섞여 있지만, 충돌의 흔적은 없습니다. 두 집단이 순전히 사교적인 만남을 가졌다고는 생각하지 않지만, 아마도 사소한 분쟁을 협상으로 끝냈을 것입니다.",HX_WASTE_3,,,,,0,0
+99006,Dialog,WASTE_4,"You stumble upon some bloodstains in the well-trampled snow, but you're not sure what to make of them.","잘 밟힌 눈 속에서 핏자국을 우연히 발견하지만, 그것이 무엇을 의미하는지 확신할 수 없습니다.",HX_WASTE_4,,,,,0,0
+99007,Dialog,WASTE_4,You see some bloodstains in the well-trampled snow. Some of the footprints seem to be trollish in origin.,잘 밟힌 눈 속에서 핏자국을 봅니다. 일부 발자국은 트롤의 것으로 보입니다.,HX_WASTE_4,,,,,0,0
+99008,Dialog,WASTE_4,You spy some bloodstains in the well-trampled snow and quickly ascertain that the trolls must have sent a small raiding party to capture some of the Frost Giants' hunting wolves.,"잘 밟힌 눈 속에서 핏자국을 발견하고, 트롤들이 서리 거인의 사냥 늑대 몇 마리를 잡기 위해 소규모 습격대를 보냈음을 빠르게 파악합니다.",HX_WASTE_4,,,,,0,0
+99009,Dialog,WASTE_4,"Judging by the blood, one of the trolls must have been unable to contain its hunger, biting into one of the still-warm carcasses before returning safely home.","핏자국으로 판단하건대, 트롤 중 하나가 배고픔을 참지 못하고 안전하게 집으로 돌아가기 전에 아직 따뜻한 시체 하나를 물어뜯은 것 같습니다.",HX_WASTE_4,,,,,0,0
+99010,Dialog,WASTE_5,You stumble upon some chunks of ice beneath the drifting snow and wonder how they might have been formed.,"눈보라 아래에서 얼음 덩어리를 우연히 발견하고, 어떻게 형성되었는지 궁금해합니다.",HX_WASTE_5,,,,,0,0
+99011,Dialog,WASTE_5,You see a somewhat regular pattern of ice chunks rising out of the drifting snow. They almost seem to form a line of footprints but the pattern gets chaotic as it nears the unmistakable trails left by the Frost Giants. ,"눈보라에서 솟아오른 얼음 덩어리의 다소 규칙적인 패턴을 봅니다. 거의 발자국 줄처럼 보이지만, 서리 거인이 남긴 명백한 흔적에 가까워질수록 패턴이 혼란스러워집니다.",HX_WASTE_5,,,,,0,0
+99012,Dialog,WASTE_5,"An intensely hot creature, presumably some form of fire elemental, has left icy footprints where the snow that melted beneath its feet has since re-frozen.","극도로 뜨거운 생명체, 아마도 어떤 형태의 불의 원소 정령이, 발 아래에서 녹은 눈이 다시 얼어붙어 얼음 발자국을 남겼습니다.",HX_WASTE_5,,,,,0,0
+99013,Dialog,WASTE_5,"Judging by the chaos of the tracks, there were more than one of them and they were able to surprise a patrolling Frost Giant and lay him low. The impression left by his fallen body is deep indeed.","발자국의 혼란으로 판단하건대, 한 마리 이상이었고 순찰 중인 서리 거인을 기습하여 쓰러뜨렸습니다. 쓰러진 몸이 남긴 자국이 정말로 깊습니다.",HX_WASTE_5,,,,,0,0
+99014,Dialog,WASTE_6,Pools of ichor and puddles of slush are all that mark the scene of the fiendish battle you just witnessed.,방금 목격한 극악한 전투 현장을 표시하는 것은 고름 웅덩이와 진흙탕 웅덩이뿐입니다.,HX_WASTE_6,,,,,0,0
+99015,Dialog,WASTE_6,Pools of ichor and puddles of slush mark the scene of the fiendish battle you just witnessed. The trail of blood leads through the shattered wall and to the battle that still rages beyond.,고름 웅덩이와 진흙탕 웅덩이가 방금 목격한 극악한 전투 현장을 표시합니다. 피의 흔적은 부서진 벽을 통과하여 여전히 격렬하게 벌어지는 전투로 이어집니다.,HX_WASTE_6,,,,,0,0
+99016,Dialog,WASTE_6,Pools of ichor and puddles of slush mark the scene of the fiendish battle you just witnessed. The trail of blood leads through the shattered wall and to the battle that still rages beyond.,고름 웅덩이와 진흙탕 웅덩이가 방금 목격한 극악한 전투 현장을 표시합니다. 피의 흔적은 부서진 벽을 통과하여 여전히 격렬하게 벌어지는 전투로 이어집니다.,HX_WASTE_6,,,,,0,0
+99017,Dialog,WASTE_6,"Examining the trail more closely, you note that both sets of prints show signs of extensive weariness and past injury, as if the skirmish in which they were engaged had been raging for quite some time.","흔적을 더 자세히 조사하니, 두 무리의 발자국 모두 광범위한 피로와 과거 부상의 흔적을 보이며, 마치 그들이 참여한 접전이 꽤 오랫동안 격렬하게 벌어진 것 같습니다.",HX_WASTE_6,,,,,0,0
+99018,Dialog,WASTE_7,"You stumble across a set of heavy footprints almost entirely obscured by the falling snow. They must be quite old, still visible only by virtue of their substantial depth and size.",내리는 눈에 거의 완전히 가려진 무거운 발자국을 우연히 발견합니다. 상당한 깊이와 크기 덕분에만 보일 뿐인 것으로 보아 꽤 오래된 것임이 틀림없습니다.,HX_WASTE_7,,,,,0,0
+99019,Dialog,WASTE_7,"You see a pair of tracks almost entirely obscured by the falling snow. Though the tracks are quite old, you can see that one is of a relatively average-sized humanoid and the other from a fairly large, misshapen devil.","내리는 눈에 거의 완전히 가려진 한 쌍의 발자국을 봅니다. 발자국이 꽤 오래되었지만, 하나는 비교적 평범한 크기의 인간형 생명체의 것이고 다른 하나는 꽤 크고 기형적인 마귀의 것임을 알 수 있습니다.",HX_WASTE_7,,,,,0,0
+99020,Dialog,WASTE_7,"You see a pair of tracks almost entirely obscured by the falling snow. The tracks are quite old but it's clear that a relatively frail human male, probably a wizard of some sort, had approached one of the nearby pits.","내리는 눈에 거의 완전히 가려진 한 쌍의 발자국을 봅니다. 발자국이 꽤 오래되었지만, 비교적 허약한 인간 남성, 아마도 어떤 종류의 마법사가 근처 구덩이 중 하나에 접근했음이 분명합니다.",HX_WASTE_7,,,,,0,0
+99021,Dialog,WASTE_7,"It appears that he must have performed some form of ritual that melted the ice and freed one of the prisoners, a heavyset, misshapen pit fiend.",그가 얼음을 녹여 죄수 중 하나인 육중하고 기형적인 나락의 마귀를 해방시키는 어떤 형태의 의식을 수행했던 것으로 보입니다.,HX_WASTE_7,,,,,0,0
+99022,Dialog,WASTE_7,"A brief altercation apparently ensued, the pit fiend clearly making short work of the one who freed him. The fiend's awkward gait left its telltale trail into the battlefield.","짧은 충돌이 발생했던 것으로 보이며, 나락의 마귀가 자신을 해방시킨 자를 명백히 빠르게 처리했습니다. 악마의 어색한 걸음걸이가 전장으로 이어지는 명백한 흔적을 남겼습니다.",HX_WASTE_7,,,,,0,0
+99023,Dialog,WASTE_8,Evidence of the recent battle is already being buried beneath a layer of Cania's endless snow.,최근 전투의 증거가 이미 카니아의 끝없는 눈 층 아래에 묻히고 있습니다.,HX_WASTE_8,,,,,0,0
+99024,Dialog,WASTE_8,"By studying the fading tracks of the warring fiends and their countless war machines, you can almost decipher the various fronts, feints, and strategies of the recent battle.","전쟁 중인 악마들과 수많은 전쟁 기계의 희미해지는 흔적을 연구함으로써, 최근 전투의 다양한 전선, 기만 공격, 전략을 거의 해독할 수 있습니다.",HX_WASTE_8,,,,,0,0
+99025,Dialog,WASTE_8,You wonder if either side knew the importance of what lay beneath the featureless stretch of ice over which they fought...,어느 쪽이든 그들이 싸운 특징 없는 얼음 지대 아래에 무엇이 있는지 그 중요성을 알고 있었는지 궁금합니다...,HX_WASTE_8,,,,,0,0
+99026,Dialog,WASTE_8,"Judging by the tracks of the warring fiends and their countless war machines, the recent battle had been waging for some time, constantly criss-crossing the battlefield as one side or the other achieved the upper hand.","전쟁 중인 악마들과 수많은 전쟁 기계의 흔적으로 판단하건대, 최근 전투는 한쪽이나 다른 쪽이 우위를 점하면서 전장을 끊임없이 가로지르며 한동안 격렬하게 벌어졌습니다.",HX_WASTE_8,,,,,0,0
+99027,Dialog,WASTE_8,"The lesser fiends were clearly the first to die, followed shortly thereafter by an extended artillery barrage that destroyed the bulk of both sides' war machines.","하급 악마들이 명백히 먼저 죽었고, 곧이어 연장된 포격이 양측 전쟁 기계의 대부분을 파괴했습니다.",HX_WASTE_8,,,,,0,0
+99028,Dialog,WASTE_8,"By the time you arrived, the demons had gained a slight advantage and pushed the front into new territory. The advance depleted their supplies however, forcing them to resort to throwing the ruins of what remained.","당신이 도착했을 때, 악마들은 약간의 우위를 점하고 전선을 새로운 영역으로 밀어붙였습니다. 그러나 진격으로 보급품이 고갈되어, 남은 것의 잔해를 던지는 데 의존할 수밖에 없었습니다.",HX_WASTE_8,,,,,0,0
+99029,Dialog,WASTE_8,You wonder if either side knew the importance of what lay beneath the featureless stretch of ice over which they fought...,어느 쪽이든 그들이 싸운 특징 없는 얼음 지대 아래에 무엇이 있는지 그 중요성을 알고 있었는지 궁금합니다...,HX_WASTE_8,,,,,0,0
+99030,Dialog,WNTRWOLF_CONV,"The wolf sniffs at you cautiously, ready to dart back and regroup at the first sign of sudden movement.","늑대가 조심스럽게 당신의 냄새를 맡으며, 갑작스러운 움직임의 첫 신호에 뒤로 물러나 재집결할 준비를 합니다.",HX_WNTRWOLF_CONV,,,,,0,0
+99031,Dialog,WNTRWOLF_CONV,The alpha wolf nods at you and you swear you see it wink before it returns its attention to the frolicking pups.,"우두머리 늑대가 당신에게 고개를 끄덕이고, 장난치는 새끼들에게 주의를 돌리기 전에 윙크하는 것을 본 것 같습니다.",HX_WNTRWOLF_CONV,,,,c_wolf_yes,0,0
+99032,Dialog,WNTRWOLF_CONV,The alpha wolf howls into the windswept sky and his howl tells a story...,"우두머리 늑대가 바람 부는 하늘을 향해 울부짖고, 그의 울부짖음이 이야기를 전합니다...",HX_WNTRWOLF_CONV,,,,c_wolfwint_bat1,0,0
+99033,Dialog,WNTRWOLF_CONV,"There were pups here once, the lifeblood of the pack. But then came giants who destroyed the den and stole the pups away to raise as hunting dogs. If only the pups could return home, the pack would be strong again.","한때 여기 무리의 생명줄인 새끼들이 있었습니다. 하지만 거인들이 와서 소굴을 파괴하고 새끼들을 빼앗아 사냥개로 키웠습니다. 새끼들만 집으로 돌아올 수 있다면, 무리는 다시 강해질 것입니다.",HX_WNTRWOLF_CONV,,,,,0,0
+99034,Dialog,WNTRWOLF_CONV,"The alpha wolf stands strong and fierce before you, snarling. You can smell the fear of the other wolves.",우두머리 늑대가 으르렁거리며 당신 앞에 강하고 사나워 보이게 서 있습니다. 다른 늑대들의 두려움 냄새를 맡을 수 있습니다.,HX_WNTRWOLF_CONV,,,,c_wolf_atk1,0,0
+99035,Dialog,WNTRWOLF_CONV,"Growling, the alpha wolf clamps its jaws around your neck, drawing a single bead of blood before letting go. It howls into the windswept sky and the tension of the moment fades.","으르렁거리며, 우두머리 늑대가 당신의 목에 턱을 물어 한 방울의 피를 뽑아낸 후 놓아줍니다. 바람 부는 하늘을 향해 울부짖고, 순간의 긴장이 사라집니다.",HX_WNTRWOLF_CONV,h8a_wolf_quest,,,c_wolfwint_bat1,0,0
+99036,Dialog,WNTRWOLF_CONV,"His howl tells a story: There were pups here once, the lifeblood of the pack. But then came giants who destroyed the den and stole the pups away to raise as hunting dogs. If only the pups could return home, the pack would be strong again.","그의 울부짖음이 이야기를 전합니다: 한때 여기 무리의 생명줄인 새끼들이 있었습니다. 하지만 거인들이 와서 소굴을 파괴하고 새끼들을 빼앗아 사냥개로 키웠습니다. 새끼들만 집으로 돌아올 수 있다면, 무리는 다시 강해질 것입니다.",HX_WNTRWOLF_CONV,hx_wolfquest_st,,,,0,0
+99037,Dialog,WNTRWOLF_CONV,"The wolf pup bites at your heels, eager to play.",늑대 새끼가 놀고 싶어 당신의 발뒤꿈치를 물어뜯습니다.,HX_WNTRWOLF_CONV,,,,c_wolf_hit2,0,0
+99038,Dialog,WNTRWOLF_CONV,"Yipping excitedly, the wolf pups flee their enclosure.","흥분해서 깽깽거리며, 늑대 새끼들이 우리에서 도망칩니다.",HX_WNTRWOLF_CONV,h8a_wolf_journ02,,,c_wolf_hit1,0,0
+99039,Dialog,WNTRWOLF_CONV,The wolf seems happy to see you.,늑대가 당신을 보고 기뻐하는 것 같습니다.,HX_WNTRWOLF_CONV,,,,c_wolf_yes,0,0
+99040,Dialog,WNTRWOLF_CONV,"The wolf sniffs at you cautiously, ready to dart back and regroup at the first sign of sudden movement.","늑대가 조심스럽게 당신의 냄새를 맡으며, 갑작스러운 움직임의 첫 신호에 뒤로 물러나 재집결할 준비를 합니다.",HX_WNTRWOLF_CONV,,,,c_wolf_yes,0,0
+99041,Dialog,WNTRWOLF_CONV,The wolf remains wary of you but seems willing to let you pass. You sense that it wants you to present yourself to the pack's alpha wolf.,늑대가 당신을 경계하지만 지나가게 해줄 의향이 있는 것 같습니다. 무리의 우두머리 늑대에게 자신을 소개하길 원한다는 것을 감지합니다.,HX_WNTRWOLF_CONV,h8a_wolf_journ01,,,,0,0
+99047,Dialog,WOLF_CONV,You cannot fit through the entrance to the wolf den.,늑대 소굴 입구를 통과할 수 없습니다.,HX_WOLF_CONV,,,,,0,0
+99048,Dialog,WOLF_CONV,It would not be wise to approach the wolf den in that form.,그 형태로 늑대 소굴에 접근하는 것은 현명하지 않을 것입니다.,HX_WOLF_CONV,,,,,0,0
+99049,Dialog,WOLFGATE_CONV,The gate is locked.,문이 잠겨 있습니다.,HX_WOLFGATE_CONV,,,,,0,0
+100110,Creature,Worried Spirit,Spirit of the Dead,죽은 자의 영혼,H2_SPIRITFEMALE|H2_SPIRITMALE|HX_SPIRIT,,,,,0,0
+109817,Creature,Worried Spirit,Worried Spirit,걱정하는 영혼,H2_SPIRITFEMALE|H2_SPIRITMALE,,,,,0,0
+100140,Creature,Water Beast,Water Beast,물 야수,HX_WATERELEM,,,,,0,0
+100144,Creature,Winter Wolf Pup,Winter Wolf Pup,겨울 늑대 새끼,HX_WINTER_WOLF_P,,,,,0,0
+100147,Creature,Waterdeep Militia Archer,Waterdeep Militia Archer,워터딥 민병대 궁수,HX_END_WATERDEEP2,,,,,0,0
+100150,Creature,Walking Bone Mass,Walking Bone Mass,걸어다니는 뼈 덩어리,Q4A_BONE_GOLEM,,,,,0,0
+106537,Dialog,WINGEDELFGREETER1,"The male nods in greeting, his wings rustling slightly. ""Welcome to Shaori Fell, stranger. I am Skaa and this is Nairow."" Despite his pleasant words, there is no joy in his voice.","남성이 인사로 고개를 끄덕이며, 날개가 약간 바스락거립니다. ""샤오리의 언덕에 오신 걸 환영합니다, 이방인. 저는 스카이고 이쪽은 나이로우입니다."" 그의 쾌활한 말과 달리, 그의 목소리에는 기쁨이 없습니다.",Q6_WINGEDELFGREETER1,,,,,0,0
+106541,Dialog,WINGEDELFGREETER1,"Skaa gets a strange expression on his face, as if your words are stirring up thoughts and memories he can't quite grasp. He shakes his head, dispelling the strange stupor.","스카의 얼굴에 이상한 표정이 떠오르는데, 마치 당신의 말이 그가 완전히 파악할 수 없는 생각과 기억을 불러일으키는 것 같습니다. 그는 고개를 흔들어 이상한 혼미함을 떨쳐냅니다.",Q6_WINGEDELFGREETER1,,,,,0,0
+106542,Dialog,WINGEDELFGREETER1,"""Once we lived high in the mountains, soaring among the clouds and the gleaming spires of our glorious city. But now we live here, underground. Cold, damp, dark... far better, don't you think?""","""한때 우리는 높은 산에 살았고, 영광스러운 도시의 빛나는 첨탑과 구름 사이를 날아다녔습니다. 하지만 이제 우리는 여기, 지하에 살고 있습니다. 춥고, 습하고, 어둡지만... 훨씬 낫지 않나요?""",Q6_WINGEDELFGREETER1,,,,,0,0
+106543,Dialog,WINGEDELFGREETER1,"""Only a fool wants to fly free and touch the sky."" It's obvious from his words that on some level he believes what he is saying. But it's also clear that something is very wrong here.","""자유롭게 날아 하늘을 만지고 싶어 하는 건 바보뿐입니다."" 그의 말로 보아 어느 정도는 자신이 말하는 것을 믿고 있음이 분명합니다. 하지만 여기에 뭔가 매우 잘못되었다는 것도 분명합니다.",Q6_WINGEDELFGREETER1,,,,,0,0
+106545,Dialog,WINGEDELFGREETER1,"Skaa laughs, though it is a grim and desperate sound. ""The drow are not the cause of our troubles. Not directly. In truth, we are quite fond of our dark cousins.""","스카가 웃지만, 그것은 음울하고 절박한 소리입니다. ""드로우는 우리 문제의 원인이 아닙니다. 직접적으로는요. 사실, 우리는 어둠의 사촌들을 꽤 좋아합니다.""",Q6_WINGEDELFGREETER1,,,,,0,0
+106538,Dialog,WINGEDELFGREETER2,"The female chimes in, her own voice echoing the sorrow etched on her face. ""You are welcome here, stranger. I'm sure you'll find our town quite beautiful, despite its troubles.""","여성이 끼어들며, 그녀의 목소리도 얼굴에 새겨진 슬픔을 반영합니다. ""여기 오신 걸 환영합니다, 이방인. 문제에도 불구하고 우리 마을이 꽤 아름답다는 걸 알게 되실 거예요.""",Q6_WINGEDELFGREETER2,q6_greeter01x,,,,0,0
+106544,Dialog,WINGEDELFGREETER2,"Nairow's brow furrows in confusion. ""What an odd thing to say. Those drow asked us the same question when they first arrived. No, we are here because our Queen brought us here.""","나이로우의 이마가 혼란스럽게 찌푸려집니다. ""이상한 말씀이네요. 저 드로우들도 처음 도착했을 때 같은 질문을 했어요. 아니요, 우리는 여왕님께서 우리를 여기로 데려오셨기 때문에 여기 있는 거예요.""",Q6_WINGEDELFGREETER2,,,,,0,0
+106546,Dialog,WINGEDELFGREETER2,"Nairow nods in agreement. ""We have welcomed the drow here, just as we have welcomed you. You are all free to explore our beautiful town.""","나이로우가 동의하며 고개를 끄덕입니다. ""우리는 당신을 환영한 것처럼 드로우들도 여기서 환영했어요. 모두 우리의 아름다운 마을을 자유롭게 탐험하실 수 있어요.""",Q6_WINGEDELFGREETER2,,,,,0,0
+106549,Dialog,WINGEDELFGREETER2,"Nairow shakes her head. ""Oh, no. Quite the contrary. We have welcomed the other drow here, just as we welcomed you. You are all free to explore our beautiful town.""","나이로우가 고개를 흔듭니다. ""오, 아니에요. 정반대예요. 우리는 당신을 환영한 것처럼 다른 드로우들도 여기서 환영했어요. 모두 우리의 아름다운 마을을 자유롭게 탐험하실 수 있어요.""",Q6_WINGEDELFGREETER2,,,,,0,0
+107880,Creature,Witless Svirfneblin,Witless Svirfneblin,멍청한 스버프네블린,Q2DTHRALL3,,,,,0,0
+109874,Creature,White Abishai,White Abishai,백색 아비샤이,YJ_WHITE_AB,,,,,0,0

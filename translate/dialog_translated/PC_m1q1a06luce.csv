@@ -1,0 +1,50 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17326,PC,Player Character,I would speak with you... and perhaps more.,당신과 이야기하고 싶군요... 더 나아가서도요.,m1q1a06luce,,[매력 중간/지능 중간],,,0,0
+17327,PC,Player Character,Me talk with yous? Maybe more?,너랑 얘기할래? 더... 할 수도?,m1q1a06luce,,[매력 중간/지능 낮음],,,0,0
+17328,PC,Player Character,Goodbye.,안녕히 계세요.,m1q1a06luce,,,,,0,0
+17329,PC,Player Character,<StartAction>Bemoan about how no one really respects you.</Start>,<StartAction>아무도 자신을 제대로 존중하지 않는다고 하소연합니다.</Start>,m1q1a06luce,,,,,0,0
+17330,PC,Player Character,"Let's talk about you, and what you like.",당신 이야기를 해요. 무엇을 좋아하는지.,m1q1a06luce,,[지능 보통],,,0,0
+17331,PC,Player Character,"You listen well? Does talking make your ""clients"" more relaxed?",당신은 잘 들어 주나요? 손님들이 대화를 하면 더 편해지던가요?,m1q1a06luce,,[지능 보통],,,0,0
+17332,PC,Player Character,Perhaps I could ask some serious questions?,어쩌면 좀 진지한 질문을 해도 될까요?,m1q1a06luce,,[지능 보통],,,0,0
+17333,PC,Player Character,We talk about you. You pretty.,네 얘기하자. 너 예뻐.,m1q1a06luce,,[지능 낮음],,,0,0
+17334,PC,Player Character,You listen? Talking make customers feel more happy?,너 잘 들어? 말하면 손님들 기분 좋아져?,m1q1a06luce,,[지능 낮음],,,0,0
+17335,PC,Player Character,"Maybe me ask serious stuffs, okay?",나 진지한 거 물어봐도 돼?,m1q1a06luce,,[지능 낮음],,,0,0
+17336,PC,Player Character,Where are you from? What is your story?,어디 출신이죠? 당신 이야기를 들려줘요.,m1q1a06luce,,[지능 보통],,,0,0
+17337,PC,Player Character,Where you from? What your story?,너 어디서 왔어? 무슨 사연 있어?,m1q1a06luce,,[지능 낮음],,,0,0
+17338,PC,Player Character,<StartCheck>[Insight]</Start> I'd find it degrading to disguise my true self like that.,<StartCheck>[통찰]</Start> 난 내 진짜 모습을 속이는 건 스스로를 비하하는 일이라고 생각해요.,m1q1a06luce,m1s2c01luceslg03,nw_d2_wis_intn,,,0,0
+17339,PC,Player Character,I want to talk about something else.,다른 이야기로 넘어가죠.,m1q1a06luce,,[지능 보통],,,0,0
+17340,PC,Player Character,Me talk about different things.,다른 얘기 하자.,m1q1a06luce,,[지능 낮음],,,0,0
+17341,PC,Player Character,<StartAction>Lament the inherent loneliness of the adventurer lifestyle.</Start>,<StartAction>모험가의 삶에 내재된 외로움을 탄식합니다.</Start>,m1q1a06luce,,,,,0,0
+17342,PC,Player Character,Nothing bothers me. I am strong.,난 괜찮아요. 강하니까요.,m1q1a06luce,,[지능 보통],,,0,0
+17343,PC,Player Character,Me strong. Nothing hurt me.,나 세. 아무것도 못 상처내.,m1q1a06luce,,[지능 낮음],,,0,0
+17344,PC,Player Character,"Whatever, harlot. I'm not here to talk.","됐어, 창녀. 난 이야기하러 온 게 아니야.",m1q1a06luce,,[지능 보통],,,0,0
+17345,PC,Player Character,"Shaddap. Me not here for words, lap-lady.","닥쳐. 나 말하러 온 거 아냐, 무릎 아가씨.",m1q1a06luce,,[지능 낮음],,,0,0
+17346,PC,Player Character,"There's more than talking, right?",대화만 하러 온 건 아니겠죠?,m1q1a06luce,,[매력 낮음/지능 중간],,,0,0
+17347,PC,Player Character,"We not just talk, right?","우리 말만 안 하지, 그치?",m1q1a06luce,,[매력 낮음/지능 낮음],,,0,0
+17348,PC,Player Character,Here is a Pass Coin. My name is <FirstName>.,여기 통행 주화에요. 제 이름은 <FirstName>입니다.,m1q1a06luce,,m1s2c01luceclg04,,,0,0
+17349,PC,Player Character,Here my Pass Coin. Me called <FirstName>.,여기 내 통행 주화. 난 <FirstName>야.,m1q1a06luce,,m1s2c01luceclg05,,,0,0
+17350,PC,Player Character,I don't have a Pass Coin.,통행 주화는 없어요.,m1q1a06luce,,m1s2c01luceclg06,,,0,0
+17351,PC,Player Character,Me not gots Pass Coin.,통행 주화 없어.,m1q1a06luce,,m1s2c01luceclg07,,,0,0
+17352,PC,Player Character,I should be going.,이만 가보죠.,m1q1a06luce,,[지능 보통],,,0,0
+17353,PC,Player Character,"Me should go, maybe.",나 이제 가야 할 듯.,m1q1a06luce,,[지능 낮음],,,0,0
+17354,PC,Player Character,"I'll stay a while, I think.",조금 더 머물러도 될 것 같네요.,m1q1a06luce,,[지능 보통],,,0,0
+17355,PC,Player Character,Me not so dumb. Me stay.,나 멍청이 아냐. 좀 있을래.,m1q1a06luce,,[지능 낮음],,,0,0
+17356,PC,Player Character,I must leave. Farewell.,이제 가보겠습니다. 안녕히 계세요.,m1q1a06luce,,[지능 보통],,,0,0
+17357,PC,Player Character,Me gots to go. Bye.,나 가야 해. 잘 있어.,m1q1a06luce,,[지능 낮음],,,0,0
+17358,PC,Player Character,"Perhaps we could... retire to your bedchambers, my lady?","혹시... 방으로 자리를 옮길까요, 아가씨?",m1q1a06luce,,m1s2c01luceclg10,,,0,0
+17359,PC,Player Character,"Maybe we go sleep now? Nicely, I mean.",이제 같이 잘래? 좋은 뜻으로 말한 거야.,m1q1a06luce,,m1s2c01luceclg11,,,0,0
+17360,PC,Player Character,"Let's knock boots, honey!","한 번 즐겨보자, 자기!",m1q1a06luce,m1s2c01luceslg01,m1s2c01luceclg08,,,0,0
+17361,PC,Player Character,Let's make two-butt beast!,둘이서 두 엉덩이 짐승 만들자!,m1q1a06luce,m1s2c01luceslg01,m1s2c01luceclg09,,,0,0
+17362,PC,Player Character,What do you know of the plague?,역병에 대해 아는 게 있나요?,m1q1a06luce,,[지능 보통],,,0,0
+17363,PC,Player Character,Know anything about plague?,"역병, 뭐 알아?",m1q1a06luce,,[지능 낮음],,,0,0
+17364,PC,Player Character,Shouldn't you be ashamed of working here?,여기서 일하는 걸 부끄럽게 여겨야 하는 거 아닌가요?,m1q1a06luce,m1s2c01luceslg03,[지능 보통],,,0,0
+17365,PC,Player Character,You feel dirty? Maybe ashamed?,더럽다 느껴? 좀 창피해?,m1q1a06luce,m1s2c01luceslg03,[지능 낮음],,,0,0
+17366,PC,Player Character,"<StartCheck>[Insight]</Start> That's very selfless, giving of yourself like that.",<StartCheck>[통찰]</Start> 그렇게 자신을 내어주는 건 참 이타적이네요.,m1q1a06luce,,nw_d2_wis_intn,,,0,0
+17367,PC,Player Character,"A prostitute with a heart of gold. Oh, that's new.",마음씨 고운 창녀라... 참 신선하군요.,m1q1a06luce,,[지능 보통],,,0,0
+17368,PC,Player Character,Lap-lady with the heart of gold. That really new.,마음씨 고운 무릎 아가씨라니. 진짜 새롭네.,m1q1a06luce,,[지능 낮음],,,0,0
+17369,PC,Player Character,Don't make me go upside your head!,머리통 쥐어박히기 싫으면 까불지 마!,m1q1a06luce,,,,,0,0
+17370,PC,Player Character,<StartAction>Confide that you might have a big role in curing the plague.</Start>,<StartAction>자신이 역병 치료에 큰 역할을 맡을지도 모른다고 은밀히 털어놓습니다.</Start>,m1q1a06luce,,,,,0,0
+17371,PC,Player Character,I enjoyed our time together. I hope you did as well.,함께한 시간이 즐거웠어요. 당신도 그랬으면 합니다.,m1q1a06luce,,[지능 보통],,,0,0
+17372,PC,Player Character,Me like you. Hope you like me a little.,나 너 좋았어. 너도 조금은 좋았길.,m1q1a06luce,,[지능 낮음],,,0,0
+17373,PC,Player Character,"Another notch on my sword, woman. Nothing more.",내 칼자루에 새겨질 또 하나의 눈금일뿐. 그 이상은 아니야.,m1q1a06luce,,[지능 보통],,,0,0
+17374,PC,Player Character,You just one more for the road. Ha!,넌 그냥 하나 더 추가야. 하!,m1q1a06luce,,[지능 낮음],,,0,0

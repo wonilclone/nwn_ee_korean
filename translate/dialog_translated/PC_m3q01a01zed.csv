@@ -1,0 +1,26 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+43881,PC,Player Character [M3Q01P],Trial? What trial?,재판? 무슨 재판?,m3q01a01zed,,m3q01pctrial,[M3Q01P],,0,0
+43882,PC,Player Character [M3Q01A01],I'm the defense counsel for Rolgan.,난 롤간의 변호인이야.,m3q01a01zed,,m3q01a01aversgk1,[M3Q01A01],,0,0
+43883,PC,Player Character,I'll be going now.,이제 갈게.,m3q01a01zed,,[지능 보통],,,0,0
+43884,PC,Player Character,Do you know why they were fighting?,왜 싸웠는지 알아?,m3q01a01zed,,,,,0,0
+43885,PC,Player Character,What happened to your leg?,다리는 어떻게 된 거야?,m3q01a01zed,,[지능 보통],,,0,0
+43886,PC,Player Character,Anything else you can tell me?,다른 얘기해 줄 거 있어?,m3q01a01zed,,,,,0,0
+43887,PC,Player Character,You don't seem very impartial.,공정하지 않은 것 같은데.,m3q01a01zed,,,,,0,0
+43888,PC,Player Character,I get the feeling you're holding back on me.,뭔가 숨기는 것 같은데.,m3q01a01zed,,,,,0,0
+43889,PC,Player Character,What's wrong with your leg?,다리가 왜 그래?,m3q01a01zed,,,,,0,0
+43890,PC,Player Character,"If I find out you're holding anything back, the pain won't only be in your leg!","뭔가 숨기는 게 있다는 걸 알게 되면, 다리만 아플 게 아닐 거야!",m3q01a01zed,,,,,0,0
+43891,PC,Player Character [M3Q1A01],I've got a few healing spells of my own. Maybe I can help.,내가 치유 주문 좀 알아. 도와줄 수 있을 것 같은데.,m3q01a01zed,,m3q1a01a01zedhea,[M3Q1A01],,0,0
+43892,PC,Player Character,I think you know something about Griff's death you aren't telling me.,그리프의 죽음에 대해 말 안 하는 뭔가를 알고 있는 것 같은데.,m3q01a01zed,,,,,0,0
+43893,PC,Player Character [M3Q101A01],"Here you go, good as new. <StartCheck>[Use Minor Healing Spell]</Start>","자, 이제 새 것처럼 됐어. <StartCheck>[가벼운 치유 주문 사용]</Start>",m3q01a01zed,m3q101a01zedhe2,,[M3Q101A01],,0,0
+43894,PC,Player Character,I changed my mind. I think I'll let you suffer.,생각이 바뀌었어. 그냥 고통받게 놔둘게.,m3q01a01zed,,,,,0,0
+43895,PC,Player Character,Why you leg got ouchie?,왜 다리 아파?,m3q01a01zed,,[지능 낮음],,,0,0
+43896,PC,Player Character,Me go now.,나 이제 가.,m3q01a01zed,,[지능 낮음],,,0,0
+60499,PC,Player Character,<StartCheck>[Lie]</Start> Bad news. You wages got cut. You gotta give back 50 gold.,<StartCheck>[거짓말]</Start> 나쁜 소식이야. 너 월급 깎였어. 너 금화 50개 돌려줘야 해.,m3q01a01zed,,[지능 낮음],,,0,0
+60500,PC,Player Character,<StartCheck>[Lie]</Start> Bad news. Wages have been cut. You have to give back 50 gold from your salary.,<StartCheck>[거짓말]</Start> 나쁜 소식이에요. 월급이 깎였어요. 급여에서 금화 50개를 돌려줘야 해요.,m3q01a01zed,,[지능 보통],,,0,0
+60501,PC,Player Character,Give me you gold or me rip you sore leg right off!,"나한테 금화 줘, 아니면 나 너 아픈 다리 뜯어낼 거야!",m3q01a01zed,,[지능 낮음],,,0,0
+60502,PC,Player Character,Hand over your gold or I'll rip that injured leg right off!,"금화 내놔, 아니면 그 다친 다리 뜯어버릴 거야!",m3q01a01zed,,[지능 보통],,,0,0
+60503,PC,Player Character,"You all hurt, you keep gold.","너 다 다쳤어, 너 금화 가져.",m3q01a01zed,,[지능 낮음],,,0,0
+60504,PC,Player Character,"Tell you what, since you're injured I'll let you keep your wages.","뭐, 다쳤으니까 월급 가져도 괜찮아.",m3q01a01zed,,[지능 보통],,,0,0
+60505,PC,Player Character,That not me problem. You give gold now.,그거 내 문제 아니야. 너 금화 지금 줘.,m3q01a01zed,,[지능 낮음],,,0,0
+60506,PC,Player Character,Not my problem. Just hand over the gold.,내 문제 아니야. 그냥 금화 내놔.,m3q01a01zed,,[지능 보통],,,0,0
+65664,PC,Player Character [M3Q1A7],What did happen that night with Griff?,그날 밤 그리프한테 무슨 일이 있었던 거야?,m3q01a01zed,,m3q1a7_zedtold,[M3Q1A7],,0,0

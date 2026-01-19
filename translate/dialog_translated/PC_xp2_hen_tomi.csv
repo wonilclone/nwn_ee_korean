@@ -1,0 +1,193 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+90181,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_tomi,,,,,0,0
+90182,PC,Player Character,"""I think we need to part ways.""","""우리는 헤어져야 할 것 같아.""",xp2_hen_tomi,,x2_d2_inreaper,,,0,0
+90183,PC,Player Character,"""No, never mind.""","""아니, 신경 쓰지 마.""",xp2_hen_tomi,,,,,0,0
+90184,PC,Player Character,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",xp2_hen_tomi,,,,,0,0
+90185,PC,Player Character,"""I need to go.""","""가야 해.""",xp2_hen_tomi,,,,,0,0
+90186,PC,Player Character,"""I want to change your tactics.""","""전술을 바꾸고 싶어.""",xp2_hen_tomi,,,,,0,0
+90187,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",xp2_hen_tomi,,,,,0,0
+90188,PC,Player Character,"""I want you to leave any traps that you see alone.""","""보이는 함정은 그냥 내버려 둬.""",xp2_hen_tomi,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+90189,PC,Player Character,"""I want you to disarm any traps that you see.""","""보이는 함정은 모두 해제해 줘.""",xp2_hen_tomi,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+90190,PC,Player Character,"""I want to move faster and not bother with searching or stealth.""","""더 빨리 움직이고 탐색이나 은신은 신경 쓰지 마.""",xp2_hen_tomi,x0_d1_hen_nomode,x0_d2_hen_inmode,,,0,0
+90191,PC,Player Character,"""I need you to be stealthy right now.""","""지금은 은밀하게 행동해 줘.""",xp2_hen_tomi,x0_d1_hen_stlth,x0_d2_hen_stltn,,,0,0
+90192,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패해도 돕지 마.""",xp2_hen_tomi,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+90193,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 도와줘.""",xp2_hen_tomi,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+90194,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와의 거리를 바꾸고 싶어.""",xp2_hen_tomi,,,,,0,0
+90195,PC,Player Character [Follow: Far],"""Stay a long distance away.""","""멀리 떨어져 있어.""",xp2_hen_tomi,nw_ch_dist_18,,[Follow: Far],,0,0
+90196,PC,Player Character [Follow: Medium],"""Keep a medium distance.""","""중간 거리를 유지해.""",xp2_hen_tomi,nw_ch_dist_12,,[Follow: Medium],,0,0
+90197,PC,Player Character [Follow: Close],"""Stay close.""","""가까이 있어.""",xp2_hen_tomi,nw_ch_dist_6,,[Follow: Close],,0,0
+90198,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 보는 즉시 공격해.""",xp2_hen_tomi,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+90199,PC,Player Character,"""Defend me and don't attack until I do.""","""날 지키고 내가 공격할 때까지 공격하지 마.""",xp2_hen_tomi,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+90200,PC,Player Character,"""I want to adjust your equipment.""","""장비를 조정하고 싶어.""",xp2_hen_tomi,,,,,0,0
+90201,PC,Player Character,"""Can you identify my equipment?""","""내 장비를 감정해 줄 수 있어?""",xp2_hen_tomi,,x1_hen_canid,,,0,0
+90202,PC,Player Character,"""Can you summon one of your shadows?""","""그림자 중 하나를 소환할 수 있어?""",xp2_hen_tomi,,x2_hen_tomishad3,,,0,0
+90203,PC,Player Character,"""I need you to blend into the shadows.""","""그림자 속에 숨어야 해.""",xp2_hen_tomi,,x2_hen_tomishad1,,,0,0
+90204,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 하려던 말이 뭐였어?""",xp2_hen_tomi,,x0_d2_hen_interp,,,0,0
+90205,PC,Player Character,"""Let's stop and talk a moment.""","""잠깐 멈춰서 이야기하자.""",xp2_hen_tomi,,,,,0,0
+90206,PC,Player Character,"""We're done talking.""","""이야기는 끝났어.""",xp2_hen_tomi,,,,,0,0
+90207,PC,Player Character,"""No, nothing else.""","""아니, 다른 건 없어.""",xp2_hen_tomi,,,,,0,0
+90208,PC,Player Character,"""How is everything?""","""어떻게 지내?""",xp2_hen_tomi,,,,,0,0
+90209,PC,Player Character,"""I wish to discuss your training.""","""훈련에 대해 얘기하고 싶어.""",xp2_hen_tomi,,,,,0,0
+90210,PC,Player Character,"""Go back to splitting your time up between rogue and Shadowdancer.""","""도적과 그림자 춤꾼 사이에 시간을 나눠서 쓰는 걸로 돌아가.""",xp2_hen_tomi,,,,,0,0
+90211,PC,Player Character,"""Continue with what you're doing now.""","""지금 하는 것 계속해.""",xp2_hen_tomi,,,,,0,0
+90212,PC,Player Character,"""Focus on being a Shadowdancer.""","""그림자 춤꾼에 집중해.""",xp2_hen_tomi,,,,,0,0
+90213,PC,Player Character,"""Focus on being a rogue.""","""도적에 집중해.""",xp2_hen_tomi,,,,,0,0
+90214,PC,Player Character,"""What's a Shadowdancer?""","""그림자 춤꾼이 뭐야?""",xp2_hen_tomi,,,,,0,0
+90215,PC,Player Character,"""Do you have plans for what you're going to do after all this?""","""이 일이 끝나면 뭘 할 계획이야?""",xp2_hen_tomi,,x2_hen_tomstory3,,,0,0
+90216,PC,Player Character,"""Icewind Dale? What kind of vacation is that?""","""아이스윈드 데일? 그게 무슨 휴가야?""",xp2_hen_tomi,,,,,0,0
+90217,PC,Player Character,"""Good plan. I might just have to join you.""","""좋은 계획이야. 나도 함께해야겠어.""",xp2_hen_tomi,,,,,0,0
+90218,PC,Player Character,"""And if this drow proves to be too tough for you?""","""이 드로우가 네게 너무 벅차다면?""",xp2_hen_tomi,,,,,0,0
+90219,PC,Player Character,"""I think I did hear that somewhere.""","""어디선가 들은 것 같아.""",xp2_hen_tomi,,,,,0,0
+90220,PC,Player Character,"""You're a very odd little halfling.""","""넌 정말 이상한 하플링이야.""",xp2_hen_tomi,,,,,0,0
+90221,PC,Player Character,"""So what happened after you helped save Neverwinter?""","""그래서 네버윈터를 구하는 걸 도운 후에 무슨 일이 있었어?""",xp2_hen_tomi,,x2_hen_tomstory2,,,0,0
+90222,PC,Player Character,"""Suddenly I don't want to know...""","""갑자기 알고 싶지 않아...""",xp2_hen_tomi,,,,,0,0
+90223,PC,Player Character,"""Yes, before that.""","""그래, 그 전에.""",xp2_hen_tomi,,,,,0,0
+90224,PC,Player Character,"""What misunderstanding?""","""무슨 오해?""",xp2_hen_tomi,,,,,0,0
+90225,PC,Player Character,"""I see where this is going...""","""어디로 가는지 알겠어...""",xp2_hen_tomi,,,,,0,0
+90226,PC,Player Character,"""So he kicked you out of the city?""","""그래서 그가 널 도시에서 쫓아냈어?""",xp2_hen_tomi,,,,,0,0
+90227,PC,Player Character,"""What kind of businesses?""","""어떤 사업?""",xp2_hen_tomi,,,,,0,0
+90228,PC,Player Character,"""You started a thieves' guild.""","""도적 조합을 시작했구나.""",xp2_hen_tomi,,,,,0,0
+90229,PC,Player Character,"""I don't need to hear any more.""","""더 이상 들을 필요 없어.""",xp2_hen_tomi,,,,,0,0
+90230,PC,Player Character,"""It's no wonder Lord Nasher kicked you out of the city!""","""나셰르 영주가 널 도시에서 쫓아낸 게 당연하지!""",xp2_hen_tomi,,,,,0,0
+90231,PC,Player Character,"""And how did that go?""","""그래서 어떻게 됐어?""",xp2_hen_tomi,,,,,0,0
+90232,PC,Player Character,"""Who's Lord Nasher again?""","""나셰르 영주가 누구였지?""",xp2_hen_tomi,,,,,0,0
+90233,PC,Player Character,"""And you had a misunderstanding with him?""","""그와 오해가 있었어?""",xp2_hen_tomi,,,,,0,0
+90234,PC,Player Character,"""You said you came from Neverwinter, correct?""","""네버윈터에서 왔다고 했지?""",xp2_hen_tomi,,x2_hen_tomstory1,,,0,0
+90235,PC,Player Character,"""I was in Hilltop when that happened, yes.""","""그 일이 일어났을 때 힐탑에 있었어, 맞아.""",xp2_hen_tomi,,,,,0,0
+90236,PC,Player Character,"""So you must be very popular in Neverwinter.""","""그럼 네버윈터에서 인기가 많겠네.""",xp2_hen_tomi,,,,,0,0
+90237,PC,Player Character,"""Why am I not surprised?""","""왜 놀랍지 않을까?""",xp2_hen_tomi,,,,,0,0
+90238,PC,Player Character,"""So I'm told.""","""그렇게 들었어.""",xp2_hen_tomi,,,,,0,0
+90239,PC,Player Character,"""How is Neverwinter now?""","""네버윈터는 지금 어때?""",xp2_hen_tomi,,,,,0,0
+90240,PC,Player Character,"""Tell me about this Lady Aribeth.""","""이 아리베스 경에 대해 말해 줘.""",xp2_hen_tomi,,,,,0,0
+90241,PC,Player Character,"""I thought I heard someone else was responsible for curing the plague?""","""다른 누군가가 역병을 치료한 책임자라고 들은 것 같은데?""",xp2_hen_tomi,,,,,0,0
+90242,PC,Player Character,"""What happened to this hero?""","""이 영웅은 어떻게 됐어?""",xp2_hen_tomi,,,,,0,0
+90243,PC,Player Character,"""Who is this Lady Aribeth?""","""이 아리베스 경은 누구야?""",xp2_hen_tomi,,,,,0,0
+90244,PC,Player Character,"""Poor lass? You mean Lady Aribeth?""","""불쌍한 아가씨? 아리베스 경 말하는 거야?""",xp2_hen_tomi,,,,,0,0
+90245,PC,Player Character,"""What happened to her?""","""그녀에게 무슨 일이 있었어?""",xp2_hen_tomi,,,,,0,0
+90246,PC,Player Character,"""No, stay here for the moment.""","""아니, 당분간 여기 있어.""",xp2_hen_tomi,,,,,0,0
+90247,PC,Player Character,"""Yes, come with me.""","""응, 나랑 같이 가.""",xp2_hen_tomi,,,,,0,0
+90248,PC,Player Character,"""Not right now. I'm busy.""","""지금은 안 돼. 바빠.""",xp2_hen_tomi,x0_d1_hen_inter0,,,,0,0
+90249,PC,Player Character,"""You don't need to be rude, you know.""","""무례할 필요는 없잖아.""",xp2_hen_tomi,,,,,0,0
+90250,PC,Player Character,"""Maybe later.""","""나중에 할게.""",xp2_hen_tomi,x0_d1_hen_inter0,,,,0,0
+90251,PC,Player Character,"""That's better.""","""그게 낫지.""",xp2_hen_tomi,,,,,0,0
+90252,PC,Player Character,"""What is it, Tomi?""","""뭐야, 토미?""",xp2_hen_tomi,x0_d1_hen_inter0,,,,0,0
+90253,PC,Player Character,"""Gold? Not much.""","""금화? 별로 없어.""",xp2_hen_tomi,,,,,0,0
+90254,PC,Player Character,"""Gold? I have lots of it.""","""금화? 많이 있어.""",xp2_hen_tomi,,,,,0,0
+90255,PC,Player Character,"""Lemons?""","""레몬?""",xp2_hen_tomi,,,,,0,0
+90256,PC,Player Character,"""Enough, Tomi. I'm not interested.""","""그만해, 토미. 관심 없어.""",xp2_hen_tomi,,,,,0,0
+90257,PC,Player Character,"""A sour fruit? Who would want such a thing?""","""신 과일? 누가 그런 걸 원하겠어?""",xp2_hen_tomi,,,,,0,0
+90258,PC,Player Character,"""How is this an investment, exactly?""","""정확히 어떻게 투자가 되는 거야?""",xp2_hen_tomi,,,,,0,0
+90259,PC,Player Character,"""Maybe you could make some kind of juice drink out of it, even.""","""어쩌면 그걸로 주스 같은 음료를 만들 수도 있겠네.""",xp2_hen_tomi,,,,,0,0
+90260,PC,Player Character,"""About what?""","""뭐에 대해?""",xp2_hen_tomi,,,,,0,0
+90261,PC,Player Character,"""Sounds great.""","""좋은데.""",xp2_hen_tomi,,,,,0,0
+90262,PC,Player Character,"""I'll get back to you on that.""","""나중에 다시 얘기하자.""",xp2_hen_tomi,,,,,0,0
+90263,PC,Player Character,"""Ri-iiiiggghht.""","""그-래애애.""",xp2_hen_tomi,,,,,0,0
+90264,PC,Player Character,"""That's a rather rude question.""","""꽤 무례한 질문인데.""",xp2_hen_tomi,,,,,0,0
+90265,PC,Player Character,"""Why do you need to know?""","""왜 알아야 해?""",xp2_hen_tomi,,,,,0,0
+90266,PC,Player Character,"""You can ask, but I don't have to answer.""","""물어볼 수는 있지만, 대답할 필요는 없어.""",xp2_hen_tomi,,,,,0,0
+90267,PC,Player Character,"""No, you can't.""","""안 돼.""",xp2_hen_tomi,,,,,0,0
+90268,PC,Player Character,"""Why do you ask?""","""왜 물어?""",xp2_hen_tomi,,,,,0,0
+90269,PC,Player Character,"""And who is this <lad/lass> who owes you money, exactly?""","""그리고 네게 돈을 빚진 이 <lad/녀석>은 정확히 누구야?""",xp2_hen_tomi,,,,,0,0
+90270,PC,Player Character,"<StartAction>[Sigh.]</Start> ""And I never will, either.""","<StartAction>[한숨.]</Start> ""그리고 앞으로도 절대 안 그럴 거야.""",xp2_hen_tomi,,,,,0,0
+90271,PC,Player Character,"""Sounds like me, alright.""","""나 같은데.""",xp2_hen_tomi,,,,,0,0
+90272,PC,Player Character,"""That doesn't sound anything like me. That's stupid.""","""그건 나랑 전혀 안 닮았어. 바보 같네.""",xp2_hen_tomi,,,,,0,0
+90273,PC,Player Character,"""You can try to collect, but I wouldn't recommend it.""","""걷으려고 해봐도 되지만, 추천하지 않아.""",xp2_hen_tomi,,,,,0,0
+90274,PC,Player Character,"""Perhaps I should have left you dead where I found you...""","""너를 발견한 곳에 죽은 채로 두는 건데...""",xp2_hen_tomi,,,,,0,0
+90275,PC,Player Character,"""I admit to nothing.""","""아무것도 인정 안 해.""",xp2_hen_tomi,,,,,0,0
+90276,PC,Player Character,"""Sure thing. Bring it on, short stuff.""","""좋아. 덤벼, 꼬맹이.""",xp2_hen_tomi,,,,,0,0
+90277,PC,Player Character,"""That's ridiculous.""","""말도 안 돼.""",xp2_hen_tomi,,,,,0,0
+90278,PC,Player Character,"""You're insane.""","""넌 미쳤어.""",xp2_hen_tomi,,,,,0,0
+90279,PC,Player Character,"""Fine, you got me. I thought I had you fooled, too.""","""알았어, 들켰네. 나도 널 속인 줄 알았어.""",xp2_hen_tomi,,,,,0,0
+90280,PC,Player Character,"""If I look different, then how could I look just like this person?""","""내가 다르게 생겼다면, 어떻게 이 사람이랑 똑같이 생길 수 있겠어?""",xp2_hen_tomi,,,,,0,0
+90281,PC,Player Character,"""No, I've never been to Calimshan.""","""아니, 칼림샨에 가본 적 없어.""",xp2_hen_tomi,,,,,0,0
+90282,PC,Player Character,"""I don't even know where Calimshan is.""","""칼림샨이 어딘지도 몰라.""",xp2_hen_tomi,,,,,0,0
+90283,PC,Player Character,"""You think we've met before?""","""우리가 전에 만났다고 생각해?""",xp2_hen_tomi,,,,,0,0
+90284,PC,Player Character,"""I'm quite certain I've never been to Calimshan, yes.""","""칼림샨에 가본 적 없다고 확신해, 응.""",xp2_hen_tomi,,,,,0,0
+90285,PC,Player Character,"""Sammy? Does he have a last name?""","""새미? 성이 있어?""",xp2_hen_tomi,,,,,0,0
+90286,PC,Player Character,"""No, I've never met anyone by that name.""","""아니, 그 이름의 사람은 만난 적 없어.""",xp2_hen_tomi,,,,,0,0
+90287,PC,Player Character,"""What, he owes you money?""","""뭐, 그가 네게 돈을 빚졌어?""",xp2_hen_tomi,,,,,0,0
+90288,PC,Player Character,"""Dare I even ask?""","""감히 물어봐도 될까?""",xp2_hen_tomi,,,,,0,0
+90289,PC,Player Character,"""Right. He's your enemy. I got that part.""","""그래. 그가 네 적이야. 그건 알았어.""",xp2_hen_tomi,,,,,0,0
+90290,PC,Player Character,"""I thought you said he was your childhood friend and companion?""","""어린 시절 친구이자 동료라고 말하지 않았어?""",xp2_hen_tomi,,,,,0,0
+90291,PC,Player Character,"""Slaughter him on sight. Got it.""","""보이는 즉시 죽여라. 알겠어.""",xp2_hen_tomi,,,,,0,0
+90292,PC,Player Character,"""I bet.""","""그럴 거야.""",xp2_hen_tomi,,,,,0,0
+90293,PC,Player Character,"""Are you kidding? I'd love to hear what he has to say, suddenly.""","""농담이야? 갑자기 그가 무슨 말을 하는지 듣고 싶어.""",xp2_hen_tomi,,,,,0,0
+90294,PC,Player Character,"""Why did he betray you, exactly?""","""정확히 왜 배신한 거야?""",xp2_hen_tomi,,,,,0,0
+90295,PC,Player Character,"""What did he do, exactly?""","""정확히 뭘 한 거야?""",xp2_hen_tomi,,,,,0,0
+90296,PC,Player Character,"""A bit overdramatic, aren't you?""","""좀 과장하는 거 아냐?""",xp2_hen_tomi,,,,,0,0
+90297,PC,Player Character,"""Why are you asking?""","""왜 물어?""",xp2_hen_tomi,,,,,0,0
+90298,PC,Player Character,"""I don't really want to talk about that.""","""그건 얘기하고 싶지 않아.""",xp2_hen_tomi,,,,,0,0
+90299,PC,Player Character,"""Mentioned? It was a chronicle of my adventure.""","""언급? 내 모험의 기록이었어.""",xp2_hen_tomi,,,,,0,0
+90300,PC,Player Character,"""Hardly. Why would I?""","""별로. 왜 그래야 해?""",xp2_hen_tomi,,,,,0,0
+90301,PC,Player Character,"""No, I never got around to it.""","""아니, 그럴 시간이 없었어.""",xp2_hen_tomi,,,,,0,0
+90302,PC,Player Character,"""I have no doubt about that. What's your point?""","""그건 의심 안 해. 요점이 뭐야?""",xp2_hen_tomi,,,,,0,0
+90303,PC,Player Character,"""What are you talking about?""","""무슨 소리야?""",xp2_hen_tomi,,,,,0,0
+90304,PC,Player Character,"""Yes, I did.""","""응, 읽었어.""",xp2_hen_tomi,,,,,0,0
+90305,PC,Player Character,"""No, nothing strange at all. Why?""","""아니, 이상한 건 전혀 없었어. 왜?""",xp2_hen_tomi,,,,,0,0
+90306,PC,Player Character,"""I'm sure you're imagining things.""","""상상하는 것 같은데.""",xp2_hen_tomi,,,,,0,0
+90307,PC,Player Character,"""What about it?""","""그게 어쨌다고?""",xp2_hen_tomi,,nw_d2_female,,,0,0
+90308,PC,Player Character,"""So? He says that stuff all the time.""","""그래서? 늘 그런 말 하잖아.""",xp2_hen_tomi,,,,,0,0
+90309,PC,Player Character,"""Well, that's just a big lie!""","""뭐, 그건 완전 거짓말이야!""",xp2_hen_tomi,,,,,0,0
+90310,PC,Player Character,"""Hmph. I agree.""","""흥. 동의해.""",xp2_hen_tomi,,,,,0,0
+90311,PC,Player Character,"""I think you're reading too much into it, anyway.""","""어쨌든 너무 깊게 읽는 것 같아.""",xp2_hen_tomi,,,,,0,0
+90312,PC,Player Character,"""Let's just drop the topic, all right?""","""그냥 그 주제는 그만하자, 알았지?""",xp2_hen_tomi,,,,,0,0
+90313,PC,Player Character,"""What are you trying to say, Tomi?""","""뭘 말하려는 거야, 토미?""",xp2_hen_tomi,,,,,0,0
+90314,PC,Player Character,"""You're insane. Now drop it.""","""넌 미쳤어. 이제 그만해.""",xp2_hen_tomi,,,,,0,0
+90315,PC,Player Character,"""We were friends. I still don't understand what you mean.""","""우리는 친구였어. 아직도 무슨 뜻인지 모르겠어.""",xp2_hen_tomi,,,,,0,0
+90316,PC,Player Character,"""I *was* grateful and appreciative of him.""","""*그랬어* 그에게 감사하고 고마워했지.""",xp2_hen_tomi,,,,,0,0
+90317,PC,Player Character,"""I *am* the best boss ever.""","""나는 *최고의* 보스야.""",xp2_hen_tomi,,,,,0,0
+90318,PC,Player Character,"""Deekin never gave me flowers. That's silly.""","""디킨이 꽃을 준 적 없어. 말도 안 돼.""",xp2_hen_tomi,,nw_d2_male,,,0,0
+90319,PC,Player Character,"""So what about it, then?""","""그래서 어쨌다고?""",xp2_hen_tomi,,,,,0,0
+90320,PC,Player Character,"""I don't understand. What are you talking about?""","""이해가 안 돼. 무슨 말이야?""",xp2_hen_tomi,,,,,0,0
+90321,PC,Player Character,"""Tension? Well, I did find him annoying.""","""긴장? 글쎄, 짜증나긴 했어.""",xp2_hen_tomi,,,,,0,0
+90322,PC,Player Character,"""Oh, that. Well, he *is* one cute kobold.""","""아, 그거. 뭐, 그는 *귀여운* 코볼트니까.""",xp2_hen_tomi,,,,,0,0
+90323,PC,Player Character,"""I was joking.""","""농담이었어.""",xp2_hen_tomi,,,,,0,0
+90324,PC,Player Character,"""If you're lucky.""","""네가 운이 좋다면.""",xp2_hen_tomi,,,,,0,0
+90325,PC,Player Character,"""You're no kobold, Tomi.""","""넌 코볼트가 아니잖아, 토미.""",xp2_hen_tomi,,,,,0,0
+90326,PC,Player Character,"""So? So what?""","""그래서? 그래서 뭐?""",xp2_hen_tomi,,,,,0,0
+90327,PC,Player Character,"""Why would it? Deekin is one cute little kobold.""","""왜 그래야 해? 디킨은 귀여운 작은 코볼트야.""",xp2_hen_tomi,,,,,0,0
+90328,PC,Player Character,"""It's not true, so I'm not concerned.""","""사실이 아니니까 걱정 안 해.""",xp2_hen_tomi,,,,,0,0
+90329,PC,Player Character,"""It's just a book. What do I care?""","""그냥 책이야. 내가 왜 신경 써?""",xp2_hen_tomi,,,,,0,0
+90330,PC,Player Character,"""I'd hate to think what you'd consider strange.""","""네가 이상하다고 생각하는 게 뭔지 알고 싶지 않아.""",xp2_hen_tomi,,,,,0,0
+90331,PC,Player Character,"""It had completely atrocious grammar.""","""문법이 완전히 엉망이었어.""",xp2_hen_tomi,,[지능 높음],,,0,0
+90332,PC,Player Character,"""Other than the fact a kobold wrote it?""","""코볼트가 썼다는 것 말고?""",xp2_hen_tomi,,,,,0,0
+90333,PC,Player Character,"""Mentioned in which book?""","""어느 책에 언급됐어?""",xp2_hen_tomi,,,,,0,0
+90334,PC,Player Character,"""Tell me what you know, then.""","""그럼 네가 아는 걸 말해 줘.""",xp2_hen_tomi,,,,,0,0
+90335,PC,Player Character,"""Chains. Got it. Just a simple puzzle.""","""사슬. 알겠어. 간단한 퍼즐이네.""",xp2_hen_tomi,,,,,0,0
+90336,PC,Player Character,"""Do you know where the chains are?""","""사슬이 어디 있는지 알아?""",xp2_hen_tomi,,,,,0,0
+90337,PC,Player Character,"""How do you know about that?""","""그걸 어떻게 알아?""",xp2_hen_tomi,,,,,0,0
+90338,PC,Player Character,"""I don't need help with that, thanks.""","""그건 도움 필요 없어, 고마워.""",xp2_hen_tomi,,,,,0,0
+90339,PC,Player Character,"""If you don't have anything useful to say, be silent.""","""할 말이 없으면 조용히 해.""",xp2_hen_tomi,,,,,0,0
+90340,PC,Player Character,"""Who do you suppose these skeletons are?""","""이 해골들이 누구라고 생각해?""",xp2_hen_tomi,,,,,0,0
+90341,PC,Player Character,"""That's pretty gross, Tomi.""","""꽤 역겨운데, 토미.""",xp2_hen_tomi,,,,,0,0
+90342,PC,Player Character,"""What northern Kings?""","""무슨 북부 왕들?""",xp2_hen_tomi,,,,,0,0
+90343,PC,Player Character,"""You just watch your sticky fingers here, halfling.""","""여기서 손버릇 조심해, 하플링.""",xp2_hen_tomi,,,,,0,0
+90344,PC,Player Character,"""I don't plan on tickling them.""","""간지럽힐 생각 없어.""",xp2_hen_tomi,,,,,0,0
+90345,PC,Player Character,"""Gee. Thanks for the advice.""","""어이쿠. 조언 고마워.""",xp2_hen_tomi,,,,,0,0
+90346,PC,Player Character,"""Any traps that you can see?""","""보이는 함정 있어?""",xp2_hen_tomi,,,,,0,0
+90347,PC,Player Character,"""Do you think they'll come to life?""","""살아날 것 같아?""",xp2_hen_tomi,,,,,0,0
+90348,PC,Player Character,"""I don't need to hear about it, Tomi.""","""그 얘기 들을 필요 없어, 토미.""",xp2_hen_tomi,,,,,0,0
+90349,PC,Player Character,"""Why do they call it that?""","""왜 그렇게 부르는 거야?""",xp2_hen_tomi,,,,,0,0
+90350,PC,Player Character,"""Are you mocking me?""","""날 비웃는 거야?""",xp2_hen_tomi,,,,,0,0
+90351,PC,Player Character,"""I don't need this. Keep your comments to yourself.""","""이런 거 필요 없어. 말은 혼자 해.""",xp2_hen_tomi,,,,,0,0
+90352,PC,Player Character,"""Nothing at all. Now... let's talk about your treasure share...""","""아무것도 아니야. 이제... 네 보물 몫에 대해 얘기하자...""",xp2_hen_tomi,,[지능 보통],,,0,0
+90353,PC,Player Character,"""I'd like a little more respect if we're to travel together.""","""같이 여행하려면 좀 더 존중해 줬으면 좋겠어.""",xp2_hen_tomi,,,,,0,0
+90354,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Do you want to die now, halfling?""","<StartCheck>[위협]</Start> ""지금 죽고 싶어, 하플링?""",xp2_hen_tomi,,,,,0,0
+90355,PC,Player Character,"""Fine, fine. What do you know about it?""","""좋아, 좋아. 그것에 대해 뭘 알아?""",xp2_hen_tomi,,,,,0,0
+90356,PC,Player Character,"""I meant why does it need a special name, smart mouth?""","""왜 특별한 이름이 필요한지 물어본 거야, 똑똑이?""",xp2_hen_tomi,,,,,0,0
+90357,PC,Player Character,"""Right. I'll be careful.""","""그래. 조심할게.""",xp2_hen_tomi,,,,,0,0
+90358,PC,Player Character,"""No, stay in sight.""","""아니, 보이는 곳에 있어.""",xp2_hen_tomi,,,,,0,0
+90359,PC,Player Character,"""Sure, do that.""","""그래, 그렇게 해.""",xp2_hen_tomi,,,,,0,0
+90360,PC,Player Character,"""There's a Mirror of Duplication in here?""","""여기 복제의 거울이 있어?""",xp2_hen_tomi,,[지능 높음],,,0,0
+90361,PC,Player Character,"""It'd be nice to have a back-up for the next time you die.""","""네가 다음에 죽을 때를 대비한 백업이 있으면 좋겠네.""",xp2_hen_tomi,,,,,0,0
+90362,PC,Player Character,"""I don't like that idea, either.""","""나도 그 생각 마음에 안 들어.""",xp2_hen_tomi,,,,,0,0
+90363,PC,Player Character,"""You know something about it?""","""그것에 대해 뭔가 알아?""",xp2_hen_tomi,,,,,0,0
+90364,PC,Player Character,"""Yes, let's go.""","""응, 가자.""",xp2_hen_tomi,,,,,0,0
+90365,PC,Player Character,"""No, just stay here for now.""","""아니, 당분간 여기 있어.""",xp2_hen_tomi,x0_d1_hen_fired,,,,0,0
+90366,PC,Player Character,"""Tomi...""","""토미...""",xp2_hen_tomi,,,,,0,0
+90367,PC,Player Character,"""Leave him alone, Tomi.""","""그냥 내버려 둬, 토미.""",xp2_hen_tomi,,,,,0,0
+90368,PC,Player Character,"""Why do you want to know, Tomi?""","""왜 알고 싶어, 토미?""",xp2_hen_tomi,,,,,0,0
+90369,PC,Player Character,"""Don't taunt him, Deekin.""","""놀리지 마, 디킨.""",xp2_hen_tomi,,,,,0,0
+90370,PC,Player Character,"""He's taller, Tomi. Get over it.""","""그가 더 크잖아, 토미. 받아들여.""",xp2_hen_tomi,,,,,0,0
+90371,PC,Player Character,"""Stop it, you two!""","""그만해, 둘 다!""",xp2_hen_tomi,,,,,0,0
+90372,PC,Player Character,"""Enough!""","""그만!""",xp2_hen_tomi,,,,,0,0

@@ -1,0 +1,343 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+78291,PC,Player Character,"No, stay here.","아니, 여기 있어.",xp1_hen_xan,,,,,0,0
+78292,PC,Player Character,"Fine, come with me.","좋아, 같이 가자.",xp1_hen_xan,,,,,0,0
+78293,PC,Player Character,"No, stay here.","아니, 여기 있어.",xp1_hen_xan,,,,,0,0
+78294,PC,Player Character,"Yeah, you can come with me.","그래, 같이 와도 돼.",xp1_hen_xan,,,,,0,0
+78295,PC,Player Character,"No, never mind.","아니, 관두자.",xp1_hen_xan,,,,,0,0
+78296,PC,Player Character,"Yes, come with me.","그래, 같이 가자.",xp1_hen_xan,,,,,0,0
+78297,PC,Player Character,Never mind.,아니야.,xp1_hen_xan,,,,,0,0
+78298,PC,Player Character,I think we need to part ways.,이제 헤어져야 할 것 같아.,xp1_hen_xan,,,,,0,0
+78299,PC,Player Character,"Alright, fine. Stay with me, then.",알았어. 그럼 같이 있자.,xp1_hen_xan,,,,,0,0
+78300,PC,Player Character,Wait here until I return.,내가 돌아올 때까지 여기서 기다려.,xp1_hen_xan,,,,,0,0
+78301,PC,Player Character,Leave me. Now.,떠나. 지금 당장.,xp1_hen_xan,,x0_d2_ischapt1,,,0,0
+78302,PC,Player Character,I'd like you to level up.,레벨업을 해줬으면 해.,xp1_hen_xan,,x0_d2_hen_canlvl,,,0,0
+78303,PC,Player Character,I want to change your tactics.,전술을 바꾸고 싶어.,xp1_hen_xan,,,,,0,0
+78304,PC,Player Character,I don't want to change anything else right now.,지금은 다른 건 바꾸지 않을게.,xp1_hen_xan,,,,,0,0
+78305,PC,Player Character,I want to move faster and not bother with stealth or searching.,더 빨리 움직이고 싶어. 은신이나 탐색은 신경 쓰지 말고.,xp1_hen_xan,x0_d1_hen_nomode,x0_d2_hen_inmode,,,0,0
+78306,PC,Player Character,I need you to be stealthy right now.,지금은 은밀하게 행동해줘.,xp1_hen_xan,x0_d1_hen_stlth,x0_d2_hen_stltn,,,0,0
+78307,PC,Player Character [Companion Settings],Don't help me if I fail to open a locked door or chest.,내가 잠긴 문이나 상자를 열지 못해도 도와주지 마.,xp1_hen_xan,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+78308,PC,Player Character [Companion Settings],Help me if I fail to open a locked door or chest.,내가 잠긴 문이나 상자를 열지 못하면 도와줘.,xp1_hen_xan,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+78309,PC,Player Character,I want to change the distance you stay away from me.,나와의 거리를 조정하고 싶어.,xp1_hen_xan,,,,,0,0
+78310,PC,Player Character [Follow: Far],Stay a long distance away from me.,나한테서 멀리 떨어져 있어.,xp1_hen_xan,nw_ch_dist_18,,[Follow: Far],,0,0
+78311,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,xp1_hen_xan,nw_ch_dist_12,,[Follow: Medium],,0,0
+78312,PC,Player Character [Follow: Close],Stay close.,가까이 붙어 있어.,xp1_hen_xan,nw_ch_dist_6,,[Follow: Close],,0,0
+78313,PC,Player Character,Go ahead and attack as soon as you see enemies.,적을 보는 즉시 공격해.,xp1_hen_xan,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+78314,PC,Player Character,Defend me and don't attack until I do.,날 지켜주고 내가 공격할 때까지 기다려.,xp1_hen_xan,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+78315,PC,Player Character,I want to adjust your equipment.,장비를 조정하고 싶어.,xp1_hen_xan,,,,,0,0
+78316,PC,Player Character,Can you identify my equipment?,내 장비를 감정해줄 수 있어?,xp1_hen_xan,,x1_hen_canid,,,0,0
+78317,PC,Player Character,I want you to use your Barbarian Rage.,야만족의 분노를 사용해줘.,xp1_hen_xan,,x0_d2_hasrage,,,0,0
+78318,PC,Player Character,I need you to cast a spell.,주문을 시전해줘.,xp1_hen_xan,,,,,0,0
+78319,PC,Player Character,Never mind.,아니야.,xp1_hen_xan,,,,,0,0
+78320,PC,Player Character,"No, that's it.","아니, 됐어.",xp1_hen_xan,,,,,0,0
+78321,PC,Player Character,Ultravision.,초시야,xp1_hen_xan,x0_d1_castultra,x0_d2_hasultra,,,0,0
+78322,PC,Player Character,True Seeing.,진실의 시야,xp1_hen_xan,x0_d1_casttruese,x0_d2_hastruesee,,,0,0
+78323,PC,Player Character,Summon Creature IX.,생명체 소환 9,xp1_hen_xan,x0_d1_castsumm9,x0_d2_hassumm9,,,0,0
+78324,PC,Player Character,Summon Creature VIII.,생명체 소환 8,xp1_hen_xan,x0_d1_castsumm8,x0_d2_hassumm8,,,0,0
+78325,PC,Player Character,Summon Creature VII.,생명체 소환 7,xp1_hen_xan,x0_d1_castsumm7,x0_d2_hassumm7,,,0,0
+78326,PC,Player Character,Summon Creature VI.,생명체 소환 6,xp1_hen_xan,x0_d1_castsumm6,x0_d2_hassumm6,,,0,0
+78327,PC,Player Character,Summon Creature V.,생명체 소환 5,xp1_hen_xan,x0_d1_castsumm5,x0_d2_hassumm5,,,0,0
+78328,PC,Player Character,Summon Creature IV.,생명체 소환 4,xp1_hen_xan,x0_d1_castsumm4,x0_d2_hassumm4,,,0,0
+78329,PC,Player Character,Summon Creature III.,생명체 소환 3,xp1_hen_xan,x0_d1_castsumm3,x0_d2_hassumm3,,,0,0
+78330,PC,Player Character,Summon Creature II.,생명체 소환 2,xp1_hen_xan,x0_d1_castsumm2,x0_d2_hassumm2,,,0,0
+78331,PC,Player Character,Summon Creature I.,생명체 소환 1,xp1_hen_xan,x0_d1_castsumm1,x0_d2_hassumm1,,,0,0
+78332,PC,Player Character,Stoneskin.,돌 피부,xp1_hen_xan,x0_d1_caststonsk,x0_d2_hasstskin,,,0,0
+78333,PC,Player Character,Shield.,보호막,xp1_hen_xan,x0_d1_castshield,x0_d2_hasshield,,,0,0
+78334,PC,Player Character,Shadow Shield.,그림자 보호막,xp1_hen_xan,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
+78335,PC,Player Character,See Invisibility.,투명체 보기,xp1_hen_xan,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+78336,PC,Player Character,Resistance.,저항,xp1_hen_xan,x0_d1_castresist,x0_d2_hasresist,,,0,0
+78337,PC,Player Character,Resist Elements.,원소 저항,xp1_hen_xan,x0_d1_castresele,x0_d2_hasreselem,,,0,0
+78338,PC,Player Character,Remove Curse.,저주 해제,xp1_hen_xan,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
+78339,PC,Player Character,Remove Blindness/Deafness.,실명/청각상실 제거,xp1_hen_xan,x0_d1_castrembdf,x0_d2_hasrembldf,,,0,0
+78340,PC,Player Character,Protection From Spells.,주문으로부터 보호,xp1_hen_xan,x0_d1_castprspel,x0_d2_hasprspell,,,0,0
+78341,PC,Player Character,Protection From Elements.,원소로부터 보호,xp1_hen_xan,x0_d1_castprelem,x0_d2_hasprelem,,,0,0
+78342,PC,Player Character,Premonition.,예감,xp1_hen_xan,x0_d1_castpremon,x0_d2_haspremon,,,0,0
+78343,PC,Player Character,Owl's Wisdom.,올빼미의 지혜,xp1_hen_xan,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
+78344,PC,Player Character,Mind Blank.,정신 비우기,xp1_hen_xan,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+78345,PC,Player Character,Mass Haste.,대규모 가속,xp1_hen_xan,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
+78346,PC,Player Character,Mage Armor.,마법학자 갑옷,xp1_hen_xan,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
+78347,PC,Player Character,Light.,빛,xp1_hen_xan,x0_d1_castlight,x0_d2_haslight,,,0,0
+78348,PC,Player Character,Lesser Mind Blank,하급 정신 비우기,xp1_hen_xan,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+78349,PC,Player Character,Knock.,문 두드리기,xp1_hen_xan,x0_d1_castknock,x0_d2_hasknock,,,0,0
+78350,PC,Player Character,Invisibility Sphere.,투명화 구체,xp1_hen_xan,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
+78351,PC,Player Character,Invisibility,투명화,xp1_hen_xan,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
+78352,PC,Player Character,Improved Invisibility.,우수한 투명화,xp1_hen_xan,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
+78353,PC,Player Character,Haste.,가속,xp1_hen_xan,x0_d1_casthaste,x0_d2_hashaste,,,0,0
+78354,PC,Player Character,Greater Stoneskin.,상급 돌 피부,xp1_hen_xan,x0_d1_castgrston,x0_d2_hasgrstone,,,0,0
+78355,PC,Player Character,Ghostly Visage.,유령의 형상,xp1_hen_xan,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
+78356,PC,Player Character,Fox's Cunning,여우의 교활함,xp1_hen_xan,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
+78357,PC,Player Character,Find Traps.,함정 찾기,xp1_hen_xan,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
+78358,PC,Player Character,Ethereal Visage.,에테르 형상,xp1_hen_xan,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
+78359,PC,Player Character,Energy Buffer.,원소 완충,xp1_hen_xan,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+78360,PC,Player Character,"No, I've changed my mind.","아니, 마음이 바뀌었어.",xp1_hen_xan,,,,,0,0
+78361,PC,Player Character,"Yes, go ahead.","그래, 해줘.",xp1_hen_xan,x0_d1_targetself,,,,0,0
+78362,PC,Player Character,Endure Elements.,원소 인내,xp1_hen_xan,x0_d1_castendele,x0_d2_hasendelem,,,0,0
+78363,PC,Player Character,Endurance.,지구력,xp1_hen_xan,x0_d1_castendur,x0_d2_hasendur,,,0,0
+78364,PC,Player Character,Eagle's Splendour.,독수리의 위엄,xp1_hen_xan,x0_d1_casteagles,x0_d2_haseagles,,,0,0
+78365,PC,Player Character,Create Undead.,언데드 생성,xp1_hen_xan,x0_d1_castcrund,x0_d2_hascreund,,,0,0
+78366,PC,Player Character,Continual Flame.,계속되는 불꽃,xp1_hen_xan,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+78367,PC,Player Character,Clarity.,맑은 정신,xp1_hen_xan,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
+78368,PC,Player Character,Cat's Grace.,고양이의 우아함,xp1_hen_xan,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
+78369,PC,Player Character,Bull's Strength.,황소의 근력,xp1_hen_xan,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
+78370,PC,Player Character,I've changed my mind.,마음이 바뀌었어.,xp1_hen_xan,,,,,0,0
+78371,PC,Player Character,Cast it on my animal companion.,내 동물 동료에게 시전해줘.,xp1_hen_xan,x0_d1_targetcomp,x0_d2_hascompan,,,0,0
+78372,PC,Player Character,Cast it on my familiar.,내 사역마에게 시전해줘.,xp1_hen_xan,x0_d1_targetfam,x0_d2_hasfamil,,,0,0
+78373,PC,Player Character,Cast it on me.,나한테 시전해줘.,xp1_hen_xan,x0_d1_targetme,,,,0,0
+78374,PC,Player Character,Cast it on yourself.,자네한테 시전해줘.,xp1_hen_xan,x0_d1_targetself,,,,0,0
+78375,PC,Player Character,Animate Dead.,시체 조종,xp1_hen_xan,x0_d1_castandead,x0_d2_hasandead,,,0,0
+78376,PC,Player Character,What was it you wanted to say earlier?,아까 하려던 말이 뭐였어?,xp1_hen_xan,,x0_d2_hen_interp,,,0,0
+78377,PC,Player Character,Let's stop and talk for a moment.,잠깐 멈춰서 얘기 좀 하자.,xp1_hen_xan,,,,,0,0
+78378,PC,Player Character,We're done talking.,얘기는 이만.,xp1_hen_xan,,,,,0,0
+78379,PC,Player Character,How is everything?,어떻게 지내?,xp1_hen_xan,,,,,0,0
+78380,PC,Player Character,I want to discuss your training.,훈련에 대해 논의하고 싶어.,xp1_hen_xan,,,,,0,0
+78381,PC,Player Character,<StartAction>[Xanos will take 1 barbarian level for every 4 sorcerer levels.]</Start> Concentrate on both martial and magical studies.,<StartAction>[자노스는 요술사 레벨 4마다 야만전사 레벨을 1 받습니다.]</Start> 무술과 마법 공부를 병행해.,xp1_hen_xan,,,,,0,0
+78382,PC,Player Character,<StartAction>[No leveling change.]</Start> Keep studying as you are.,<StartAction>[레벨업 변경 없음.]</Start> 지금처럼 계속 공부해.,xp1_hen_xan,,,,,0,0
+78383,PC,Player Character,<StartAction>[Xanos will level up as sorcerer only.]</Start> Concentrate on magical studies.,<StartAction>[자노스는 요술사로만 레벨업합니다.]</Start> 마법 공부에 집중해.,xp1_hen_xan,,,,,0,0
+78384,PC,Player Character,<StartAction>[Xanos will level up as barbarian only.]</Start> Concentrate on your martial studies.,<StartAction>[자노스는 야만전사로만 레벨업합니다.]</Start> 무술 공부에 집중해.,xp1_hen_xan,,,,,0,0
+78385,PC,Player Character,Where is your ring? The one Drogan gave us?,반지는 어디 있어? 드로건이 우리한테 준 거 말이야.,xp1_hen_xan,,x0_d2_ischapt1,,,0,0
+78386,PC,Player Character,And where do you keep it?,그럼 어디에 보관하는데?,xp1_hen_xan,,,,,0,0
+78387,PC,Player Character,I wasn't trying to take it from you...,빼앗으려던 게 아니라...,xp1_hen_xan,,,,,0,0
+78388,PC,Player Character,Have you thought about your future more since we last talked?,지난번 얘기한 이후로 미래에 대해 더 생각해봤어?,xp1_hen_xan,,x0_d2_xanstory7,,,0,0
+78389,PC,Player Character,Don't get all sentimental on me.,감상적으로 굴지 마.,xp1_hen_xan,,,,,0,0
+78390,PC,Player Character,"Yeah, tell me about it...","그래, 말해봐...",xp1_hen_xan,,,,,0,0
+78391,PC,Player Character,What do you mean?,무슨 말이야?,xp1_hen_xan,,,,,0,0
+78392,PC,Player Character,Reality always tends to kick in eventually.,현실은 결국엔 항상 뒤통수를 치지.,xp1_hen_xan,,,,,0,0
+78393,PC,Player Character,"Remember your future, Xanos. Don't give up on it!","미래를 기억해, 자노스. 포기하지 마!",xp1_hen_xan,,,,,0,0
+78394,PC,Player Character,I don't think whining about it will do you any good.,투덜거린다고 좋아질 것 같진 않은데.,xp1_hen_xan,,,,,0,0
+78395,PC,Player Character,What has changed?,뭐가 바뀌었는데?,xp1_hen_xan,,,,,0,0
+78396,PC,Player Character,I don't want to hear this.,듣고 싶지 않아.,xp1_hen_xan,,,,,0,0
+78397,PC,Player Character,I think you're making excuses. Shape up!,변명하는 것 같은데. 정신 차려!,xp1_hen_xan,,,,,0,0
+78398,PC,Player Character,Better to stop before you fail.,실패하기 전에 멈추는 게 낫지.,xp1_hen_xan,,,,,0,0
+78399,PC,Player Character,Why?,왜?,xp1_hen_xan,,,,,0,0
+78400,PC,Player Character,You will?,그럴 거야?,xp1_hen_xan,,,,,0,0
+78401,PC,Player Character,It didn't affect me.,나한텐 영향 없었는데.,xp1_hen_xan,,,,,0,0
+78402,PC,Player Character,Affected you?,너한테 영향을 줬다고?,xp1_hen_xan,,,,,0,0
+78403,PC,Player Character,So what can be done?,그럼 어떻게 할 수 있는데?,xp1_hen_xan,,,,,0,0
+78404,PC,Player Character,Why are you telling me this?,왜 나한테 이런 얘길 하는 거야?,xp1_hen_xan,,,,,0,0
+78405,PC,Player Character,"You're getting weak, Xanos.","약해지는구나, 자노스.",xp1_hen_xan,,,,,0,0
+78406,PC,Player Character,So tell me of the kingdom 'Gentle King Xanos' will rule.,그럼 '자애로운 왕 자노스'가 다스릴 왕국에 대해 얘기해봐.,xp1_hen_xan,,x0_d2_xanstory6,,,0,0
+78407,PC,Player Character,You seek a harmonious kingdom? I wouldn't have thought...,조화로운 왕국을 추구한다고? 생각도 못 했는데...,xp1_hen_xan,,,,,0,0
+78408,PC,Player Character,You should create happiness for its own sake.,행복 자체를 위해 행복을 만들어야지.,xp1_hen_xan,,,,,0,0
+78409,PC,Player Character,You weren't *that* troubled.,그렇게까지 고민스러워 보이진 않았는데.,xp1_hen_xan,,,,,0,0
+78410,PC,Player Character,What are you saying?,무슨 소리야?,xp1_hen_xan,,,,,0,0
+78411,PC,Player Character,Good. You were never really destined for greatness.,좋아. 넌 애초에 위대함의 운명은 아니었으니까.,xp1_hen_xan,,,,,0,0
+78412,PC,Player Character,Are you giving up now?,이제 포기하는 거야?,xp1_hen_xan,,,,,0,0
+78413,PC,Player Character,Then what am I destined for?,그럼 난 어떤 운명인데?,xp1_hen_xan,,,,,0,0
+78414,PC,Player Character,Indeed...,그렇군...,xp1_hen_xan,,,,,0,0
+78415,PC,Player Character,That doesn't sound very selfless...,그다지 이타적으로 들리진 않는데...,xp1_hen_xan,,,,,0,0
+78416,PC,Player Character,Self-preservation?,자기 보존?,xp1_hen_xan,,,,,0,0
+78417,PC,Player Character,If those sorcerer-kings are all gone... do you think it's a good idea to follow them?,그 요술사 왕들이 다 사라졌다면... 그들을 따르는 게 좋은 생각이라고 생각해?,xp1_hen_xan,,,,,0,0
+78418,PC,Player Character,You're building your base on the tyrants of old?,옛날 폭군들을 기반으로 삼는 거야?,xp1_hen_xan,,,,,0,0
+78419,PC,Player Character,How so?,어떻게?,xp1_hen_xan,,,,,0,0
+78420,PC,Player Character,Where will you go after you have finished learning? What will you do?,배움을 마치고 나면 어디로 갈 거야? 뭘 할 건데?,xp1_hen_xan,,x0_d2_xanstory5,,,0,0
+78421,PC,Player Character,I wish you luck in your journey.,여정에 행운을 빌어.,xp1_hen_xan,,,,,0,0
+78422,PC,Player Character,How barbaric!,야만적이네!,xp1_hen_xan,,,,,0,0
+78423,PC,Player Character,A modest beginning.,소박한 시작이군.,xp1_hen_xan,,,,,0,0
+78424,PC,Player Character,"Your empire and mine will clash eventually, you realize.",네 제국과 내 제국은 결국 충돌할 거란 걸 알지?,xp1_hen_xan,,,,,0,0
+78425,PC,Player Character,Maybe I'll come and visit you someday.,언젠가 찾아갈게.,xp1_hen_xan,,,,,0,0
+78426,PC,Player Character,I don't want to hear any more of this nonsense.,이런 헛소리는 더 듣고 싶지 않아.,xp1_hen_xan,,,,,0,0
+78427,PC,Player Character,"Good luck with that, then.",그럼 행운을 빌어.,xp1_hen_xan,,,,,0,0
+78428,PC,Player Character,You'll try to conquer a city?,도시를 정복하려고?,xp1_hen_xan,,,,,0,0
+78429,PC,Player Character,I think you'll need to work a bit more on it...,좀 더 다듬어야 할 것 같은데...,xp1_hen_xan,,,,,0,0
+78430,PC,Player Character,A people person? Don't make me laugh.,사교적이라고? 웃기지 마.,xp1_hen_xan,,,,,0,0
+78431,PC,Player Character,You want to rant a bit more about yourself? Your path to power?,너 자신에 대해 더 떠들고 싶어? 권력으로 가는 길에 대해?,xp1_hen_xan,,x0_d2_xanstory4,,,0,0
+78432,PC,Player Character,You realize that eventually I'd have to kill you...,결국엔 내가 널 죽여야 할 거란 걸 알지...,xp1_hen_xan,,,,,0,0
+78433,PC,Player Character,I've had just about enough with your egotism.,이기주의는 이제 지겹다.,xp1_hen_xan,,,,,0,0
+78434,PC,Player Character,Seeking power for its own sake is not a good goal.,권력 자체를 위해 권력을 추구하는 건 좋은 목표가 아니야.,xp1_hen_xan,,,,,0,0
+78435,PC,Player Character,How would you be better than any of the others?,다른 이들보다 어떻게 더 나을 건데?,xp1_hen_xan,,,,,0,0
+78436,PC,Player Character,The only way to real power is to crush all who oppose you beneath your heel!,진정한 권력으로 가는 유일한 길은 반대하는 모든 이를 발 아래 짓밟는 거야!,xp1_hen_xan,,,,,0,0
+78437,PC,Player Character,"You'd actually be a decent person, then?",그럼 괜찮은 사람이 되겠다는 거야?,xp1_hen_xan,,,,,0,0
+78438,PC,Player Character,So you'd lie to them to keep them happy?,그럼 그들을 행복하게 유지하려고 거짓말할 거야?,xp1_hen_xan,,,,,0,0
+78439,PC,Player Character,Perhaps you will do something useful.,뭔가 쓸모 있는 걸 하게 될지도 모르지.,xp1_hen_xan,,,,,0,0
+78440,PC,Player Character,It's a wonder an incompetent like you could think up something like that.,무능한 네가 그런 걸 생각해낼 수 있다니 놀랍네.,xp1_hen_xan,,,,,0,0
+78441,PC,Player Character,A simplistic theory.,단순한 이론이네.,xp1_hen_xan,,,,,0,0
+78442,PC,Player Character,"You overestimate yourself, yet again, Xanos.","또 자신을 과대평가하는구나, 자노스.",xp1_hen_xan,,,,,0,0
+78443,PC,Player Character,"Basically, you just want to be king.",기본적으로 왕이 되고 싶은 거잖아.,xp1_hen_xan,,,,,0,0
+78444,PC,Player Character,How can you possibly think you'd become so powerful?,어떻게 그렇게 강력해질 수 있다고 생각하는 거야?,xp1_hen_xan,,,,,0,0
+78445,PC,Player Character,"Why such a craving for power, Xanos?","왜 그렇게 권력을 갈망하는 거야, 자노스?",xp1_hen_xan,,x0_d2_xanstory3,,,0,0
+78446,PC,Player Character,Is there nothing else in your life?,네 삶에 다른 건 없어?,xp1_hen_xan,,,,,0,0
+78447,PC,Player Character,"It's always good to have a goal... if, perhaps, an inappropriate one.",목표를 갖는 건 항상 좋지... 부적절할 수도 있겠지만.,xp1_hen_xan,,,,,0,0
+78448,PC,Player Character,You're pretty mouthy for a henchman.,종자 치고는 입이 되게 거칠구나.,xp1_hen_xan,,,,,0,0
+78449,PC,Player Character,A budding tyrant...,싹수 노란 폭군이네...,xp1_hen_xan,,,,,0,0
+78450,PC,Player Character,Absolute power corrupts absolutely.,절대 권력은 절대적으로 부패해.,xp1_hen_xan,,,,,0,0
+78451,PC,Player Character,I never said you were a monster!,괴물이라고 말한 적 없어!,xp1_hen_xan,,,,,0,0
+78452,PC,Player Character,Smarter? What do you mean?,더 똑똑하다고? 무슨 말이야?,xp1_hen_xan,,,,,0,0
+78453,PC,Player Character,You're pathetic.,한심하구나.,xp1_hen_xan,,,,,0,0
+78454,PC,Player Character,Again?,또?,xp1_hen_xan,,,,,0,0
+78455,PC,Player Character,How do you plan to keep it then?,그럼 어떻게 유지할 건데?,xp1_hen_xan,,,,,0,0
+78456,PC,Player Character,You will never have more power than me!,넌 절대 나보다 강력해질 수 없어!,xp1_hen_xan,,,,,0,0
+78457,PC,Player Character,Sounds kind of obsessive to me...,좀 집착적으로 들리는데...,xp1_hen_xan,,,,,0,0
+78458,PC,Player Character,So you were picked on as a kid... so what?,어릴 때 괴롭힘당했다고... 그래서 어쩌라고?,xp1_hen_xan,,,,,0,0
+78459,PC,Player Character,Are you going to tell me how you ended up at Drogan's now?,이제 어떻게 드로건한테 오게 됐는지 말해줄 거야?,xp1_hen_xan,,x0_d2_xanstory2,,,0,0
+78460,PC,Player Character,"You could try explaining, you know.",설명 좀 해봐.,xp1_hen_xan,,,,,0,0
+78461,PC,Player Character,You tend to get wrapped up in yourself a lot...,자신한테 너무 빠져드는 경향이 있어...,xp1_hen_xan,,,,,0,0
+78462,PC,Player Character,So... ?,그래서... ?,xp1_hen_xan,,,,,0,0
+78463,PC,Player Character,Just get on with it.,그냥 계속 말해.,xp1_hen_xan,,,,,0,0
+78464,PC,Player Character,Some people never change.,절대 안 변하는 사람들도 있지.,xp1_hen_xan,,,,,0,0
+78465,PC,Player Character,Unlike now...,지금이랑은 다르게...,xp1_hen_xan,,,,,0,0
+78466,PC,Player Character,Don't be so hard on yourself.,너무 자책하지 마.,xp1_hen_xan,,,,,0,0
+78467,PC,Player Character,Everyone has things they regret doing.,누구나 후회하는 일은 있어.,xp1_hen_xan,,,,,0,0
+78468,PC,Player Character,Some people never change...,절대 안 변하는 사람들도 있어...,xp1_hen_xan,,,,,0,0
+78469,PC,Player Character,Cry me a river.,좀 그만 징징거려.,xp1_hen_xan,,,,,0,0
+78470,PC,Player Character,"So they drove you out, did they?",그래서 쫓겨난 거야?,xp1_hen_xan,,,,,0,0
+78471,PC,Player Character,Let's see this 'true might' then.,그럼 그 '진정한 힘'을 보자고.,xp1_hen_xan,,,,,0,0
+78472,PC,Player Character,"Well, 'mighty Xanos', shall we continue?","자, '강력한 자노스'여, 계속할까?",xp1_hen_xan,,,,,0,0
+78473,PC,Player Character,I am not impressed.,감명받지 못했는데.,xp1_hen_xan,,,,,0,0
+78474,PC,Player Character,You're kind of funny in a plotting-to-take-over-the-world kind of way.,세계정복을 꿈꾸는 의미에서 좀 웃기긴 하네.,xp1_hen_xan,,,,,0,0
+78475,PC,Player Character,So how did you end up coming to Drogan in the first place?,그래서 애초에 어떻게 드로건한테 오게 됐어?,xp1_hen_xan,,x0_d2_xanstory1,,,0,0
+78476,PC,Player Character,"You're right... It isn't very interesting, I guess.",맞아... 그다지 흥미롭진 않은 것 같네.,xp1_hen_xan,,,,,0,0
+78477,PC,Player Character,"You know, this attitude is really getting old.",이런 태도는 이제 지겹다.,xp1_hen_xan,,,,,0,0
+78478,PC,Player Character,More likely you'll be remembering *me*!,네가 *나*를 기억하게 될 가능성이 더 높아!,xp1_hen_xan,,,,,0,0
+78479,PC,Player Character,"You sure think a lot of yourself, don't you...",자신에 대해 엄청 잘난 척하는구나...,xp1_hen_xan,,,,,0,0
+78480,PC,Player Character,Do not let your obsessions consume you.,집착에 잡아먹히지 마.,xp1_hen_xan,,,,,0,0
+78481,PC,Player Character,I've heard enough of your monomaniacal ranting!,편집광적인 허풍은 이제 지겹다!,xp1_hen_xan,,,,,0,0
+78482,PC,Player Character,You're set on this path?,이 길을 확고히 정한 거야?,xp1_hen_xan,,,,,0,0
+78483,PC,Player Character,What has shown this?,뭐가 그걸 보여줬는데?,xp1_hen_xan,,,,,0,0
+78484,PC,Player Character,And what is this destiny?,그 운명이 뭔데?,xp1_hen_xan,,,,,0,0
+78485,PC,Player Character,What about the past? It is gone.,과거는 어떻고? 이미 지나갔잖아.,xp1_hen_xan,,,,,0,0
+78486,PC,Player Character,The power shall be mine alone!,권력은 나 혼자 가질 거야!,xp1_hen_xan,,,,,0,0
+78487,PC,Player Character,You should learn not to abuse power...,권력을 남용하지 않는 법을 배워야 해...,xp1_hen_xan,,,,,0,0
+78488,PC,Player Character,Whatever it takes? Anything?,뭐든지 해야 한다고? 무슨 수를 써서든?,xp1_hen_xan,,,,,0,0
+78489,PC,Player Character,Would you believe I'm interested?,관심 있다고 믿어줄래?,xp1_hen_xan,,,,,0,0
+78490,PC,Player Character,Just humor me.,그냥 맞춰줘.,xp1_hen_xan,,,,,0,0
+78491,PC,Player Character,"No, not just yet.","아니, 아직은.",xp1_hen_xan,,,,,0,0
+78492,PC,Player Character,"Yes, come with me.","그래, 같이 가자.",xp1_hen_xan,x0_d1_hen_rejoin,,,,0,0
+78493,PC,Player Character,It wasn't exactly intentional.,정확히 의도한 건 아니었어.,xp1_hen_xan,,,,,0,0
+78494,PC,Player Character,"Heurodis will die, plain and simple.","헤우로디스는 죽을 거야, 간단해.",xp1_hen_xan,,,,,0,0
+78495,PC,Player Character,We should bide our time.,때를 기다려야 해.,xp1_hen_xan,,,,,0,0
+78496,PC,Player Character,Heurodis called it Undrentide.,헤우로디스가 언드렌타이드라고 불렀어.,xp1_hen_xan,,,,,0,0
+78497,PC,Player Character,Maybe it's better if you remained behind.,넌 뒤에 남는 게 나을지도 몰라.,xp1_hen_xan,,,,,0,0
+78498,PC,Player Character,Fine. But remember what we're here to do.,좋아. 하지만 여기 온 이유를 기억해.,xp1_hen_xan,,,,,0,0
+78499,PC,Player Character,No. You definitely need to stay here.,안 돼. 넌 여기 남아야 해.,xp1_hen_xan,,,,,0,0
+78500,PC,Player Character,"Come with me, then. We've much to do.",그럼 같이 가자. 할 일이 많아.,xp1_hen_xan,,,,,0,0
+78501,PC,Player Character,"Maybe so. Don't get any big ideas, however.",그럴지도. 하지만 과한 생각은 하지 마.,xp1_hen_xan,,,,,0,0
+78502,PC,Player Character,"I am not a slave, no matter what Ashtara thinks.","아슈타라가 뭐라고 생각하든, 난 노예가 아니야.",xp1_hen_xan,,,,,0,0
+78503,PC,Player Character,A 'thank you' would not be out of the question.,'고맙다'는 말 정도는 해도 되는데.,xp1_hen_xan,,,,,0,0
+78504,PC,Player Character,"Try not to look her in the eyes again, then.",그럼 다시는 그녀 눈을 쳐다보지 마.,xp1_hen_xan,,,,,0,0
+78505,PC,Player Character,I won't let it happen to me again.,다시는 그런 일 안 당할 거야.,xp1_hen_xan,,,,,0,0
+78506,PC,Player Character,"It's good to see you, too...",나도 반가워...,xp1_hen_xan,,,,,0,0
+78507,PC,Player Character,I think I can do just fine on my own right now.,지금은 혼자서도 잘할 수 있을 것 같은데.,xp1_hen_xan,,,,,0,0
+78508,PC,Player Character,That would be a good idea.,좋은 생각이네.,xp1_hen_xan,,,,,0,0
+78509,PC,Player Character,"I'm going to head out and look for master Drogan's stolen artifacts, but he suggested I take someone with me.","드로건 스승님의 도난당한 유물들을 찾으러 나갈 건데, 누군가 같이 데려가라고 하시더라고.",xp1_hen_xan,,,,,0,0
+78510,PC,Player Character,"If you really have a problem with it, I'll check with the others.",정말 문제라면 다른 사람들한테 물어볼게.,xp1_hen_xan,,,,,0,0
+78511,PC,Player Character,"Yeah, I think you do.","응, 그런 것 같아.",xp1_hen_xan,x0_d1_hen_hired,,,,0,0
+78512,PC,Player Character,"If you see him, tell him to go ahead and talk.",걔 보면 얘기해도 된다고 전해줘.,xp1_hen_xan,,,,,0,0
+78513,PC,Player Character,"What is it you want, exactly?",정확히 뭘 원하는 거야?,xp1_hen_xan,,,,,0,0
+78514,PC,Player Character,You seem to talk on behalf of this Xanos quite a bit.,이 자노스를 대변하는 걸 꽤 자주 하는구나.,xp1_hen_xan,,,,,0,0
+78515,PC,Player Character,You? Or Xanos? I get confused.,너? 아니면 자노스? 헷갈리네.,xp1_hen_xan,,,,,0,0
+78516,PC,Player Character,"Yes, poor Xanos.","그래, 불쌍한 자노스.",xp1_hen_xan,,,,,0,0
+78517,PC,Player Character,"I'll have to remember to thank him for the sympathy, then.",그럼 동정에 감사하다고 전해야겠네.,xp1_hen_xan,,,,,0,0
+78518,PC,Player Character,I don't have time to listen to you now...,지금은 들을 시간 없어...,xp1_hen_xan,x0_d1_hen_inter0,,,,0,0
+78519,PC,Player Character,And what does Xanos wish to say?,자노스가 뭐라고 하고 싶은 건데?,xp1_hen_xan,x0_d1_hen_inter0,,,,0,0
+78520,PC,Player Character,"I will find anything valuable, don't worry.",가치 있는 건 다 찾을 테니 걱정 마.,xp1_hen_xan,,,,,0,0
+78521,PC,Player Character,And why are you so interested by who made it?,누가 만들었는지 왜 그렇게 관심 있는 거야?,xp1_hen_xan,,,,,0,0
+78522,PC,Player Character,Who could have made this?,이걸 누가 만들었을까?,xp1_hen_xan,,,,,0,0
+78523,PC,Player Character,Ancient magic?,고대 마법?,xp1_hen_xan,,,,,0,0
+78524,PC,Player Character,You can't be so sure.,확실할 수 없어.,xp1_hen_xan,,,,,0,0
+78525,PC,Player Character,You mean...,그러니까...,xp1_hen_xan,,,,,0,0
+78526,PC,Player Character,Perhaps what?,아마도 뭐?,xp1_hen_xan,,,,,0,0
+78527,PC,Player Character,So?,그래서?,xp1_hen_xan,,,,,0,0
+78528,PC,Player Character,What do you mean?,무슨 말이야?,xp1_hen_xan,,,,,0,0
+78529,PC,Player Character,What's the problem?,뭐가 문제야?,xp1_hen_xan,,,,,0,0
+78530,PC,Player Character,We do what we must.,해야 할 일을 하는 거지.,xp1_hen_xan,,,,,0,0
+78531,PC,Player Character,"If you want to be a coward, feel free.",겁쟁이가 되고 싶으면 알아서 해.,xp1_hen_xan,,,,,0,0
+78532,PC,Player Character,Don't worry; I'll be fine.,걱정 마. 괜찮을 거야.,xp1_hen_xan,,,,,0,0
+78533,PC,Player Character,If you don't think you can handle it...,감당 못 할 것 같으면...,xp1_hen_xan,,,,,0,0
+78534,PC,Player Character,I don't know.,모르겠어.,xp1_hen_xan,,,,,0,0
+78535,PC,Player Character,Then we must retrieve them no matter what!,그럼 무슨 일이 있어도 되찾아야 해!,xp1_hen_xan,,,,,0,0
+78536,PC,Player Character,If I could harness that power...,그 힘을 이용할 수 있다면...,xp1_hen_xan,,,,,0,0
+78537,PC,Player Character,If only master Drogan could tell us more...,드로건 스승님이 더 말씀해주실 수만 있다면...,xp1_hen_xan,,,,,0,0
+78538,PC,Player Character,We will proceed with caution then.,그럼 조심해서 진행하자.,xp1_hen_xan,,,,,0,0
+78539,PC,Player Character,It doesn't matter. We must get those artifacts!,상관없어. 그 유물들을 가져와야 해!,xp1_hen_xan,,,,,0,0
+78540,PC,Player Character,What are you suggesting?,뭘 제안하는 거야?,xp1_hen_xan,,,,,0,0
+78541,PC,Player Character,I'm not afraid of the kobolds!,코볼트 따위 안 무서워!,xp1_hen_xan,,,,,0,0
+78542,PC,Player Character,What do you mean?,무슨 말이야?,xp1_hen_xan,,,,,0,0
+78543,PC,Player Character,"Getting cold feet, Xanos?","겁먹은 거야, 자노스?",xp1_hen_xan,,,,,0,0
+78544,PC,Player Character,You're concerned about elven tombs?,엘프 무덤이 걱정돼?,xp1_hen_xan,,,,,0,0
+78545,PC,Player Character,Stop being such a wimp and let's get going.,그만 겁쟁이처럼 굴고 가자.,xp1_hen_xan,,,,,0,0
+78546,PC,Player Character,"I'll protect you, don't worry.",내가 지켜줄 테니 걱정 마.,xp1_hen_xan,,,,,0,0
+78547,PC,Player Character,"We won't die, Xanos.","안 죽어, 자노스.",xp1_hen_xan,,,,,0,0
+78548,PC,Player Character,You think I care what you want?,네가 원하는 게 뭔지 신경 쓸 것 같아?,xp1_hen_xan,,,,,0,0
+78549,PC,Player Character,"Why so vehement, Xanos?","왜 그렇게 격렬하게 구는 거야, 자노스?",xp1_hen_xan,,,,,0,0
+78550,PC,Player Character,We'll all have revenge for what they did to master Drogan.,드로건 스승님한테 당한 일에 대해 다 같이 복수할 거야.,xp1_hen_xan,,,,,0,0
+78551,PC,Player Character,I would think that people here would be more enlightened.,여기 사람들은 더 개화됐을 줄 알았는데.,xp1_hen_xan,,,,,0,0
+78552,PC,Player Character,Then we shouldn't waste any more time here.,그럼 여기서 시간 낭비하지 말자.,xp1_hen_xan,,,,,0,0
+78553,PC,Player Character,Don't get all sentimental.,감상적으로 굴지 마.,xp1_hen_xan,,,,,0,0
+78554,PC,Player Character,So you will protect them?,그럼 그들을 지킬 거야?,xp1_hen_xan,,,,,0,0
+78555,PC,Player Character,He was always a kindly old man... the fool.,항상 친절한 노인이셨지... 바보같이.,xp1_hen_xan,,,,,0,0
+78556,PC,Player Character,Not everyone only sees what's on the outside.,누구나 겉모습만 보는 건 아니야.,xp1_hen_xan,,,,,0,0
+78557,PC,Player Character,Well you have to admit: you are a brute.,인정해야지. 넌 무지한 사람이야.,xp1_hen_xan,,,,,0,0
+78558,PC,Player Character,"Don't be so bitter, Xanos.","그렇게 쓴소리하지 마, 자노스.",xp1_hen_xan,,,,,0,0
+78559,PC,Player Character,I was never a pet student!,난 애지중지하는 학생 아니었어!,xp1_hen_xan,,,,,0,0
+78560,PC,Player Character,I've worked harder than any of you!,난 누구보다 열심히 일했다고!,xp1_hen_xan,,,,,0,0
+78561,PC,Player Character,Maybe we should return to master Drogan...,드로건 스승님께 돌아가야 하지 않을까...,xp1_hen_xan,,,,,0,0
+78562,PC,Player Character,"Whatever you say, Xanos.","네 맘대로, 자노스.",xp1_hen_xan,,,,,0,0
+78563,PC,Player Character,We shall find them together.,같이 찾자.,xp1_hen_xan,,,,,0,0
+78564,PC,Player Character,You always were an egotist Xanos. Don't overestimate yourself.,"자노스, 넌 항상 이기주의자였어. 자신을 과대평가하지 마.",xp1_hen_xan,,,,,0,0
+78565,PC,Player Character,We should have a plan before getting in over our heads.,일이 꼬이기 전에 계획을 세워야 해.,xp1_hen_xan,,,,,0,0
+78566,PC,Player Character,Then we should get going!,그럼 가자!,xp1_hen_xan,,,,,0,0
+78567,PC,Player Character,We may not get another chance...,다음 기회는 없을지도 몰라...,xp1_hen_xan,,,,,0,0
+78568,PC,Player Character,I don't really care what you have to say.,네가 뭐라고 하든 신경 안 써.,xp1_hen_xan,,,,,0,0
+78569,PC,Player Character,Death is always a possibility.,죽음은 항상 가능성이지.,xp1_hen_xan,,,,,0,0
+78570,PC,Player Character,"Our victory is assured, don't worry.",우리의 승리는 확실하니 걱정 마.,xp1_hen_xan,,,,,0,0
+78571,PC,Player Character,You will be welcome to travel by my side.,내 곁을 여행하는 걸 환영할게.,xp1_hen_xan,,,,,0,0
+78572,PC,Player Character,I don't need you to beat Heurodis.,헤우로디스를 이기는 데 네가 필요하진 않아.,xp1_hen_xan,,,,,0,0
+78573,PC,Player Character,As you should.,당연하지.,xp1_hen_xan,,,,,0,0
+78574,PC,Player Character,"Thank you, Xanos.","고마워, 자노스.",xp1_hen_xan,,,,,0,0
+78575,PC,Player Character,What is it?,뭔데?,xp1_hen_xan,,,,,0,0
+78576,PC,Player Character,"If they haven't, we're lost.",그들이 못 찾았다면 우린 끝이야.,xp1_hen_xan,,,,,0,0
+78577,PC,Player Character,Would the Asabi know?,아사비들이 알까?,xp1_hen_xan,,,,,0,0
+78578,PC,Player Character,We'd better be on our guard then.,그럼 경계를 늦추지 말아야겠네.,xp1_hen_xan,,,,,0,0
+78579,PC,Player Character,Where would they be in the city then?,그럼 도시 어디에 있을까?,xp1_hen_xan,,,,,0,0
+78580,PC,Player Character,I don't need any Winds to defeat Heurodis!,헤우로디스를 이기는 데 바람 따위 필요 없어!,xp1_hen_xan,,,,,0,0
+78581,PC,Player Character,Of course they did.,당연히 그랬지.,xp1_hen_xan,,,,,0,0
+78582,PC,Player Character,It doesn't matter if it'll work or not... she's going to try.,성공하든 안 하든 상관없어... 어차피 시도할 거잖아.,xp1_hen_xan,,,,,0,0
+78583,PC,Player Character,We won't fail. Remember destiny.,실패하지 않을 거야. 운명을 기억해.,xp1_hen_xan,,,,,0,0
+78584,PC,Player Character,"Maybe where she fails, I can succeed.",그녀가 실패한 곳에서 내가 성공할 수 있을지도.,xp1_hen_xan,,,,,0,0
+78585,PC,Player Character,Let's hurry up then.,그럼 서두르자.,xp1_hen_xan,,,,,0,0
+78586,PC,Player Character,It will all be mine!,다 내 거야!,xp1_hen_xan,,,,,0,0
+78587,PC,Player Character,Our task is more important than that!,우리 임무가 그것보다 중요해!,xp1_hen_xan,,,,,0,0
+78588,PC,Player Character,Then let's get to it.,그럼 시작하자.,xp1_hen_xan,,,,,0,0
+78589,PC,Player Character,You're right. It's too old.,맞아. 너무 오래됐어.,xp1_hen_xan,,,,,0,0
+78590,PC,Player Character,Why not?,왜 안 돼?,xp1_hen_xan,,,,,0,0
+78591,PC,Player Character,Don't be such a weakling.,그렇게 약하게 굴지 마.,xp1_hen_xan,,,,,0,0
+78592,PC,Player Character,It's hard on me too.,나한테도 힘들어.,xp1_hen_xan,,,,,0,0
+78593,PC,Player Character,What do you mean?,무슨 말이야?,xp1_hen_xan,,,,,0,0
+78594,PC,Player Character,You would think he would have sacrificed you instead.,차라리 널 희생시켰어야 하는 거 아니야.,xp1_hen_xan,,,,,0,0
+78595,PC,Player Character,There is nothing that can be done now.,이제 할 수 있는 건 없어.,xp1_hen_xan,,,,,0,0
+78596,PC,Player Character,He gave his life for everyone.,모두를 위해 목숨을 바치셨어.,xp1_hen_xan,,,,,0,0
+78597,PC,Player Character,Maybe he just lied to make you feel better.,기분 좋으라고 거짓말한 걸지도 몰라.,xp1_hen_xan,,,,,0,0
+78598,PC,Player Character,We must honor his memory with our deeds. ,우리의 행동으로 그분의 기억을 기려야 해.,xp1_hen_xan,,,,,0,0
+78599,PC,Player Character,"His spirit is watching over us, Xanos.","그분의 영혼이 우리를 지켜보고 계셔, 자노스.",xp1_hen_xan,,,,,0,0
+78600,PC,Player Character,HAHAHAHAHA!,하하하하하!,xp1_hen_xan,,,,,0,0
+78601,PC,Player Character,You're a henchman. Shut up and hench.,넌 종자야. 입 다물고 일이나 해.,xp1_hen_xan,,,,,0,0
+78602,PC,Player Character,"I am more than capable, Xanos.","충분히 할 수 있어, 자노스.",xp1_hen_xan,,,,,0,0
+78603,PC,Player Character,Then we have to kill the master.,그럼 주인을 죽여야 해.,xp1_hen_xan,,,,,0,0
+78604,PC,Player Character,The mythallar will be safe with me.,미살라는 나한테 맡기면 안전해.,xp1_hen_xan,,,,,0,0
+78605,PC,Player Character,We can't allow that to happen.,그렇게 되도록 내버려둘 순 없어.,xp1_hen_xan,,,,,0,0
+78606,PC,Player Character,"I don't like it either, Xanos.","나도 마음에 안 들어, 자노스.",xp1_hen_xan,,,,,0,0
+78607,PC,Player Character,And what am I supposed to do about it?,그래서 내가 어쩌라고?,xp1_hen_xan,,,,,0,0
+78608,PC,Player Character,"So why did you come, then?",그럼 왜 온 거야?,xp1_hen_xan,,,,,0,0
+78609,PC,Player Character,"Quit your whining, Xanos.","징징거리지 마, 자노스.",xp1_hen_xan,,,,,0,0
+78610,PC,Player Character,"I've wondered about that, myself.",나도 궁금했어.,xp1_hen_xan,,,,,0,0
+78611,PC,Player Character,What would you rather we be doing?,뭘 하는 게 더 나아?,xp1_hen_xan,,,,,0,0
+78612,PC,Player Character,You don't think that's important?,그게 중요하지 않다고 생각해?,xp1_hen_xan,,,,,0,0
+78613,PC,Player Character,"If we know why she wants the crystal, we might know how to defeat her.",그녀가 왜 수정을 원하는지 알면 어떻게 이길지 알 수도 있어.,xp1_hen_xan,,,,,0,0
+78614,PC,Player Character,And just where would we look for her?,그럼 어디서 찾아야 하는데?,xp1_hen_xan,,,,,0,0
+78615,PC,Player Character,You make a lot of sense.,일리 있네.,xp1_hen_xan,,,,,0,0
+78616,PC,Player Character,"Well, we don't seem to have a choice, as you said.",말한 대로 선택의 여지가 없는 것 같아.,xp1_hen_xan,,,,,0,0
+78617,PC,Player Character,We also stand to gain significant rewards.,상당한 보상도 얻을 수 있고.,xp1_hen_xan,,,,,0,0
+78618,PC,Player Character,What? Are you afraid of a little danger?,뭐? 위험이 좀 있다고 무서워?,xp1_hen_xan,,,,,0,0
+78619,PC,Player Character,There's a stinger behind you.,뒤에 스팅어 있어.,xp1_hen_xan,,,,,0,0
+78620,PC,Player Character,"Master Drogan is a Harper, and we are helping him.",드로건 스승님은 하퍼고 우린 그분을 돕고 있어.,xp1_hen_xan,,,,,0,0
+78621,PC,Player Character,Perhaps I could have refused. Too late now.,거절할 수도 있었겠지. 이젠 늦었지만.,xp1_hen_xan,,,,,0,0
+78622,PC,Player Character,I think you underestimate the possibilities here.,가능성을 과소평가하는 것 같은데.,xp1_hen_xan,,,,,0,0
+78623,PC,Player Character,Are you kidding? This is an adventure!,농담이야? 모험이잖아!,xp1_hen_xan,,,,,0,0
+78624,PC,Player Character,I owe Master Drogan a lot. This is the least I can do.,드로건 스승님께 빚진 게 많아. 이 정도는 해야지.,xp1_hen_xan,,,,,0,0
+78625,PC,Player Character,"I want revenge, plain and simple.","복수하고 싶어, 간단해.",xp1_hen_xan,,,,,0,0
+78626,PC,Player Character,"Oh, joy.","아, 좋아라.",xp1_hen_xan,,,,,0,0
+78627,PC,Player Character,"You like hearing yourself talk, don't you?",자기 말하는 거 좋아하지?,xp1_hen_xan,,,,,0,0
+78628,PC,Player Character,Is that so?,그래?,xp1_hen_xan,,,,,0,0
+78629,PC,Player Character,"Don't force me to kill you, Xanos.","날 죽이게 만들지 마, 자노스.",xp1_hen_xan,,,,,0,0
+78630,PC,Player Character,"Complain silently, then, if you must.",불평하려면 조용히 해.,xp1_hen_xan,,,,,0,0
+78631,PC,Player Character,Let's go.,가자.,xp1_hen_xan,x0_d1_hen_rejoin,,,,0,0
+78632,PC,Player Character,Stay here.,여기 있어.,xp1_hen_xan,x0_d1_hen_fired,,,,0,0

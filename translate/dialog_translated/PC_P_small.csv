@@ -1,0 +1,70 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+79345,PC,Player Character,Dismiss the door.,문을 닫습니다.,portabledoor,,,,,0,0
+79346,PC,Player Character,Pass through the doorway.,문을 통과합니다.,portabledoor,a_portdoor_enter,,,,0,0
+91820,PC,Player Character,"""I can't waste my time listening to a drunk's tall tales.""","""술주정뱅이의 허풍을 들으며 시간 낭비할 순 없어.""",pre_drezzy,,,,,0,0
+91821,PC,Player Character,"""That's disgusting!"" ","""역겹군!""",pre_drezzy,,,,,0,0
+91822,PC,Player Character,"""Some other time, thanks anyways.""","""다음에 듣지. 어쨌든 고마워.""",pre_drezzy,,,,,0,0
+91823,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",pre_drezzy,,,,,0,0
+91824,PC,Player Character,"""I have no more questions."" ","""더 이상 질문 없어.""",pre_drezzy,,,,,0,0
+91825,PC,Player Character,"""Do you want to join me?""","""나와 함께 할래?""",pre_drezzy,,,,,0,0
+91826,PC,Player Character,"""What do you think about these attacks?""","""이 공격들에 대해 어떻게 생각해?""",pre_drezzy,,,,,0,0
+91827,PC,Player Character,"""What do you know about Undermountain?""","""언더마운틴에 대해 뭘 알아?""",pre_drezzy,,,,,0,0
+91828,PC,Player Character,"""I really don't care.""","""정말 관심 없어.""",pre_drezzy,,,,,0,0
+91829,PC,Player Character,"""Start at the beginning. How did you get inside a dragon?""","""처음부터 시작해. 어떻게 용 안에 들어가게 된 거야?""",pre_drezzy,,,,,0,0
+91830,PC,Player Character,"""Hurry up and get to the dragon part.""","""서둘러서 용 얘기로 넘어가.""",pre_drezzy,,,,,0,0
+91831,PC,Player Character,"""You wanted to live in Undermountain?""","""언더마운틴에서 살고 싶었다고?""",pre_drezzy,,,,,0,0
+91832,PC,Player Character,"""You really ate your way out of a live dragon?""","""정말로 살아있는 용 뱃속을 먹고 나왔다고?""",pre_drezzy,,,,,0,0
+91833,PC,Player Character,"""A good tale, friend.""","""좋은 이야기였어, 친구.""",pre_drezzy,,,,,0,0
+91834,PC,Player Character,"""Goodbye.""","""잘 가.""",pre_drezzy,,,,,0,0
+91835,PC,Player Character,"""That's mighty kind of you.""","""정말 친절하군.""",pre_drezzy,,,,,0,0
+91836,PC,Player Character,"""I don't need a head start.""","""선출발은 필요 없어.""",pre_drezzy,,,,,0,0
+91837,PC,Player Character,"""I'll join you in that feast, friend dwarf.""","""나도 그 잔치에 합류하지, 드워프 친구.""",pre_drezzy,,,,,0,0
+92184,PC,Player Character,"""I can take care of myself.""",난 알아서 잘해.,pre_joinguard,,,,,0,0
+92185,PC,Player Character,"""Don't you recognize me? I'm <FullName>!""",날 못 알아보겠어? 나 <FullName>야!,pre_joinguard,,,,,0,0
+92271,PC,Player Character,"""Don't aggravate me or I just might.""","""날 건드리지 마. 아니면 정말 그럴지도 몰라.""",pre_mhaere,,,,,0,0
+92272,PC,Player Character,"""So I got carried away during the battle. So what?""","""전투 중에 좀 흥분했어. 그래서?""",pre_mhaere,,,,,0,0
+92273,PC,Player Character,"""What do you mean? I didn't do anything.""","""무슨 말이야? 난 아무것도 안 했어.""",pre_mhaere,,,,,0,0
+92274,PC,Player Character,"""I'm good at killing, and that's what's important.""","""난 죽이는 데 능숙해, 그게 중요한 거지.""",pre_mhaere,,,,,0,0
+92275,PC,Player Character,"""If people get in my way, there's nothing I can do.""","""사람들이 내 길을 막으면, 어쩔 수 없잖아.""",pre_mhaere,,,,,0,0
+92276,PC,Player Character,"""It wasn't my intention to harm anyone but the enemy, my lady. I apologize.""","""적이 아닌 사람을 해칠 의도는 없었어요, 부인. 사과드립니다.""",pre_mhaere,,,,,0,0
+92277,PC,Player Character,"""I should go.""","""이제 가봐야 해.""",pre_mhaere,,,,,0,0
+92278,PC,Player Character,"""Is there somewhere I can rest?""","""쉴 수 있는 곳이 있어?""",pre_mhaere,,,,,0,0
+92279,PC,Player Character,"""Can I ask you some questions?""","""질문 좀 해도 될까?""",pre_mhaere,,,,,0,0
+92280,PC,Player Character,"""Where can I get some supplies?""","""보급품은 어디서 구할 수 있어?""",pre_mhaere,,,,,0,0
+92281,PC,Player Character,"""Do you know anything about Undermountain?""","""언더마운틴에 대해 아는 게 있어?""",pre_mhaere,,,,,0,0
+92282,PC,Player Character,"""Did I see you fighting during the battle here?""","""전투 중에 당신이 싸우는 걸 봤어?""",pre_mhaere,,,,,0,0
+92283,PC,Player Character,"""What do you know about the attacks on Waterdeep?""","""워터딥 공격에 대해 뭘 알아?""",pre_mhaere,,,,,0,0
+92284,PC,Player Character,"""Who are you?""","""넌 누구야?""",pre_mhaere,,,,,0,0
+92285,PC,Player Character,"""Damn right you weren't.""","""당연히 그랬지.""",pre_mhaere,,,,,0,0
+92286,PC,Player Character,"""Don't worry about it... I'm alive.""","""걱정하지 마... 난 살아있어.""",pre_mhaere,,,,,0,0
+92287,PC,Player Character,"""There's nothing you could have done.""","""네가 할 수 있는 일은 아무것도 없었어.""",pre_mhaere,,,,,0,0
+92421,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""The name is <FirstName> and you had better open that door up before I get angry!""",<StartCheck>[위협]</Start> 내 이름은 <FirstName>이야. 화내기 전에 문 열어!,pre_sobreydoor,,,,,0,0
+92422,PC,Player Character,"""I am <FullName>. Perhaps you have heard of me?"" ",나는 <FullName>야. 혹시 들어봤어?,pre_sobreydoor,,,,,0,0
+92423,PC,Player Character,"""Pardon me, but my name is <FullName> and I was told you might help me.""","""실례지만, 제 이름은 <FullName>이고 당신이 도와줄 수 있다는 말을 들었어요.""",pre_sobreydoor,,,,,0,0
+92522,PC,Player Character,"""Actually, I'm here see the fair maidens...""","""사실은 아름다운 아가씨들을 보러 왔어...""",pre_tamsil02,,nw_d2_flirt,,,0,0
+92523,PC,Player Character,"""We'll see. It depends on the reward.""","""두고 봐야지. 보상에 달렸어.""",pre_tamsil02,,,,,0,0
+92524,PC,Player Character,"""Yes, I am. Are there many others here?""","""그래. 여기 다른 사람도 많아?""",pre_tamsil02,,,,,0,0
+92525,PC,Player Character,"""What call is that?""","""무슨 부름이야?""",pre_tamsil02,,,,,0,0
+92526,PC,Player Character,"""Your father? Who might you be?""","""네 아버지? 넌 누구지?""",pre_tamsil02,,,,,0,0
+92527,PC,Player Character,"""Your father isn't the only one in danger here, you know.""","""여기서 위험한 건 네 아버지만이 아니야.""",pre_tamsil02,,,,,0,0
+92528,PC,Player Character,"""He lives.""","""살아계셔.""",pre_tamsil02,,,,,0,0
+92529,PC,Player Character,"""Calm yourself. We were victorious.""","""진정해. 우리가 이겼어.""",pre_tamsil02,,,,,0,0
+92530,PC,Player Character,"""That's what I'm here for.""","""내가 여기 온 이유지.""",pre_tamsil02,,,,,0,0
+92531,PC,Player Character,"""Slow down there, girl. Leave this to experienced adventurers.""","""진정해, 아가씨. 이건 숙련된 모험가들에게 맡겨.""",pre_tamsil02,,,,,0,0
+92532,PC,Player Character,"""And you think you can do something about it?""","""그래서 네가 뭘 할 수 있다고 생각해?""",pre_tamsil02,,,,,0,0
+92533,PC,Player Character,"""You want to come along? Fine by me.""","""같이 가고 싶어? 좋아.""",pre_tamsil02,,,,,0,0
+92534,PC,Player Character,"""I can't spend all my time protecting you. Forget it.""","""널 보호하는 데 시간을 다 쓸 순 없어. 됐어.""",pre_tamsil02,,,,,0,0
+92535,PC,Player Character,"""Your mother is right. Your place is here.""","""네 어머니 말이 맞아. 네 자리는 여기야.""",pre_tamsil02,,,,,0,0
+92536,PC,Player Character,"""You can help by going to the city guard and telling them what's happened here.""","""시 경비대에 가서 여기서 무슨 일이 있었는지 알려주면 도움이 될 거야.""",pre_tamsil02,,,,,0,0
+92537,PC,Player Character,"""You think you can fight? Don't make me laugh.""","""네가 싸울 수 있다고? 웃기지 마.""",pre_tamsil02,,,,,0,0
+92538,PC,Player Character,"""There was another attack in the well room. He's fine.""","""우물실에서 또 공격이 있었어. 아버지는 괜찮아.""",pre_tamsil02,,,,,0,0
+92675,PC,Player Character,"""Goodbye.""","""안녕.""",pre_upcommon,,,,,0,0
+92676,PC,Player Character,"""Would you like to work with me?""","""나랑 같이 일할래?""",pre_upcommon,,,,,0,0
+92677,PC,Player Character,"""Let me ask you some questions.""","""질문 좀 할게.""",pre_upcommon,,,,,0,0
+92678,PC,Player Character,"""That is all my questions.""","""이게 내 질문 전부야.""",pre_upcommon,,,,,0,0
+92679,PC,Player Character,"""Who is Durnan?""","""더난이 누구야?""",pre_upcommon,,,,,0,0
+92680,PC,Player Character,"""You mentioned assassinations.""","""암살 얘기를 했잖아.""",pre_upcommon,,,,,0,0
+92681,PC,Player Character,"""Who are you and why are you here?"" ","""너 누구고 왜 여기 있어?""",pre_upcommon,,,,,0,0
+92682,PC,Player Character,"""Who are you?""","""너 누구야?""",pre_upcommon,,,,,0,0
+92683,PC,Player Character,"""You want to write about me?""","""나에 대해 글 쓰고 싶다고?""",pre_upcommon,,,,,0,0
+92684,PC,Player Character,"""Who are your masters?""","""네 주인은 누구야?""",pre_upcommon,,,,,0,0

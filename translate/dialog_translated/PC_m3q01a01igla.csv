@@ -1,0 +1,40 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+43302,PC,Player Character [M3Q01A01],Did you see who actually started the fight?,실제로 누가 싸움을 시작했는지 보셨나요?,m3q01a01igla,m3q01a01res1elc1,m3q01a01res1sck1,[M3Q01A01],,0,0
+43303,PC,Player Character [M3Q01A01],"Was the Uthgardt in his right mind, or did he seem intoxicated to you?","우스가르트인이 정신이 멀쩡했나요, 아니면 취한 것처럼 보였나요?",m3q01a01igla,m3q01a01res1elc2,m3q01a01res1sck2,[M3Q01A01],,0,0
+43304,PC,Player Character [M3Q01A01],Isn't it true that Griff spiked Rolgan's drink earlier that evening?,그리프가 그날 저녁 일찍 롤간의 술에 약을 탔다는 게 사실 아닌가요?,m3q01a01igla,m3q01a01iglaelc1,m3q01a01res1sck3,[M3Q01A01],,0,0
+43305,PC,Player Character [M3Q01A01],Can you tell me how Griff felt toward the Uthgardt?,그리프가 우스가르트인을 어떻게 느꼈는지 말해주실 수 있나요?,m3q01a01igla,m3q01a01iglaelc2,m3q01a01res1sck4,[M3Q01A01],,0,0
+43306,PC,Player Character,I have no more questions for this witness.,이 증인에 대한 질문은 더 없습니다.,m3q01a01igla,,,,,0,0
+43307,PC,Player Character [M3Q01A01],"You never actually witnessed the start of the fight, did you?","싸움이 시작되는 걸 실제로 목격한 적은 없죠, 그렇죠?",m3q01a01igla,m3q01a01res2elc1,m3q01a01res2sck1,[M3Q01A01],,0,0
+43308,PC,Player Character [M3Q01A01],Don't you think Rolgan's judgment was impaired by all the alcohol he had consumed?,롤간이 마신 술 때문에 판단력이 흐려졌다고 생각하지 않나요?,m3q01a01igla,m3q01a01res2elc2,m3q01a01res2sck2,[M3Q01A01],,0,0
+43309,PC,Player Character [M3Q01A01],"Griff had spiked Rolgan's drink that night, right Zed?","그리프가 그날 밤 롤간의 술에 약을 탔죠, 그렇죠 제드?",m3q01a01igla,m3q01a01res2elc3,m3q01a01res2sck3,[M3Q01A01],,0,0
+43310,PC,Player Character [M3Q01A01],"Rolgan lost a lot of money that night, didn't he Zed? Can you explain that?","롤간은 그날 밤 돈을 많이 잃었죠, 그렇죠 제드? 설명해 주실 수 있나요?",m3q01a01igla,m3q01a01res2elc4,m3q01a01res2sck4,[M3Q01A01],,0,0
+43311,PC,Player Character,I have no further questions for this witness.,이 증인에 대한 추가 질문은 없습니다.,m3q01a01igla,,,,,0,0
+43312,PC,Player Character,So drunk he didn't know what he was doing?,너무 취해서 자기가 뭘 하는지도 몰랐다는 거죠?,m3q01a01igla,,,,,0,0
+43313,PC,Player Character,So maybe Griff started the fight and Rolgan was just defending himself.,그럼 그리프가 싸움을 시작했고 롤간은 자기방어를 한 것일 수도 있겠네요.,m3q01a01igla,,,,,0,0
+43314,PC,Player Character,So Griff is partly to blame for his own death?,그럼 그리프가 자기 죽음에 부분적으로 책임이 있는 거네요?,m3q01a01igla,,,,,0,0
+43315,PC,Player Character,So this fight could have been started by Griff?,그럼 이 싸움은 그리프가 시작했을 수도 있는 거네요?,m3q01a01igla,,,,,0,0
+43316,PC,Player Character,<StartCheck>[Insight]</Start> Maybe Griff thought that since Rolgan was drugged the Uthgardt would be an easy target in a fight.,<StartCheck>[통찰]</Start> 그리프는 롤간이 약에 취했으니 우스가르트인을 싸움에서 쉬운 표적으로 삼을 수 있다고 생각했을지도 모르죠.,m3q01a01igla,,nw_d2_wis_intn,,,0,0
+43317,PC,Player Character,Don't you think that that's a mitigating circumstance in what happened?,그게 일어난 일에 대한 참작할 만한 상황이라고 생각하지 않나요?,m3q01a01igla,,,,,0,0
+43318,PC,Player Character,Don't you think that might have been a factor in Griff's death?,그게 그리프의 죽음에 한 요인이 되었을 수도 있다고 생각하지 않나요?,m3q01a01igla,,,,,0,0
+43319,PC,Player Character,<StartCheck>[Insight]</Start> Maybe Griff attacked Rolgan because he thought his cheating had been discovered.,<StartCheck>[통찰]</Start> 그리프는 자신의 속임수가 발각됐다고 생각해서 롤간을 공격했을지도 모르죠.,m3q01a01igla,,nw_d2_wis_intn,,,0,0
+43320,PC,Player Character [M3Q01A01],Tell me why you sent your husband to see Griff.,왜 남편을 그리프에게 보냈는지 말해주세요.,m3q01a01igla,m3q01a01res3elc1,m3q01a01res3sck1,[M3Q01A01],,0,0
+43321,PC,Player Character [M3Q01A01],Tell me about the significance of the heirlooms your husband had gambled away.,남편이 도박으로 잃은 가보들의 중요성에 대해 말해주세요.,m3q01a01igla,m3q01a01res3elc2,m3q01a01res3sck2,[M3Q01A01],,0,0
+43322,PC,Player Character [M3Q01A01],Do you think your husband is on trial here simply because he is an Uthgardt?,남편이 우스가르트인이라는 이유만으로 여기서 재판을 받는다고 생각하시나요?,m3q01a01igla,m3q01a01res3elc3,m3q01a01res3sck3,[M3Q01A01],,0,0
+43323,PC,Player Character,I have no more questions for Vanda.,반다에 대한 질문은 더 없습니다.,m3q01a01igla,,,,,0,0
+43324,PC,Player Character,I would like to question Rolgan.,롤간을 심문하고 싶습니다.,m3q01a01igla,,,,,0,0
+43325,PC,Player Character,I am ready for closing arguments.,최종 변론을 할 준비가 됐습니다.,m3q01a01igla,,,,,0,0
+43326,PC,Player Character [M3Q01A01],"Tell us what happened that night, Rolgan.","그날 밤 무슨 일이 있었는지 말해주세요, 롤간.",m3q01a01igla,m3q01a01res4elc1,m3q01a01res4sck1,[M3Q01A01],,0,0
+43327,PC,Player Character [M3Q01A01],"What was your state of mind that night, Rolgan? Were you thinking clearly?","그날 밤 당신의 정신 상태는 어땠나요, 롤간? 정신이 또렷했나요?",m3q01a01igla,m3q01a01res4elc2,m3q01a01res4sck2,[M3Q01A01],,0,0
+43328,PC,Player Character [M3Q01A01],Do you think the only reason you are here is because you are an Uthgardt?,당신이 여기 있는 유일한 이유가 우스가르트인이기 때문이라고 생각하나요?,m3q01a01igla,m3q01a01res4elc3,m3q01a01res4sck3,[M3Q01A01],,0,0
+43329,PC,Player Character,I have no further questions for this witness.,이 증인에 대한 추가 질문은 없습니다.,m3q01a01igla,,,,,0,0
+43330,PC,Player Character,"<StartCheck>[Insight]</Start> The jury may think this is merely an excuse to justify what you have done, Rolgan.","<StartCheck>[통찰]</Start> 배심원단은 이것을 당신이 한 일을 정당화하기 위한 변명에 불과하다고 생각할 수 있습니다, 롤간.",m3q01a01igla,,nw_d2_wis_intn,,,0,0
+43331,PC,Player Character,"The prosecution witnesses never saw who started the fight, so we must accept Rolgan's claim of self defense as truth.","검찰 측 증인들은 누가 싸움을 시작했는지 본 적이 없으므로, 롤간의 자기방어 주장을 사실로 받아들여야 합니다.",m3q01a01igla,,,,,0,0
+43332,PC,Player Character [M3Q01A01],We know Griff was a violent man who hated the Uthgardt. He probably started the fight himself.,그리프는 우스가르트인을 증오하는 폭력적인 사람이었습니다. 그가 직접 싸움을 시작했을 것입니다.,m3q01a01igla,m3q01a01res5elc1,m3q01a01res5sck1,[M3Q01A01],,0,0
+43333,PC,Player Character [M3Q01A01],"Because he was drunk, Rolgan is clearly not responsible for his actions.",그가 취했기 때문에 롤간은 자신의 행동에 대해 분명히 책임이 없습니다.,m3q01a01igla,m3q01a01res5elc2,m3q01a01res5sck2,[M3Q01A01],,0,0
+43334,PC,Player Character [M3Q01A01],"Griff spiked Rolgan's drink, making Rolgan more prone to act irrationally.",그리프가 롤간의 술에 약을 타서 롤간이 더 비이성적으로 행동하게 만들었습니다.,m3q01a01igla,m3q01a01res5elc3,m3q01a01res5sck3,[M3Q01A01],,0,0
+43335,PC,Player Character [M3Q01A01],The heirlooms Griff had taken were valuable religious artifacts of great value to the Black Lion tribe.,그리프가 가져간 가보들은 검은사자 부족에게 큰 가치가 있는 귀중한 종교 유물이었습니다.,m3q01a01igla,m3q01a01res5elc5,m3q01a01res5sck5,[M3Q01A01],,0,0
+43336,PC,Player Character [M3Q01A01],"Rolgan is here because he is an Uthgardt, an outsider. Don't let your racist prejudices judge him.",롤간은 우스가르트인이자 외부인이기 때문에 여기 있습니다. 당신의 인종차별적 편견으로 그를 판단하지 마세요.,m3q01a01igla,m3q01a01res5elc6,m3q01a01res5sck6,[M3Q01A01],,0,0
+43337,PC,Player Character [M3Q01A01],"<StartCheck>[Insight]</Start> The inherent racism of the courts has been mentioned often at this trial, but that is not the real issue. ","<StartCheck>[통찰]</Start> 법정의 고유한 인종차별은 이 재판에서 자주 언급되었지만, 그것이 진짜 쟁점은 아닙니다.",m3q01a01igla,m3q01a01res5elc7,m3q01a01res5sck7,[M3Q01A01],,0,0
+43338,PC,Player Character,"Forget about accusations of racism. Griff attacked Rolgan, Rolgan defended himself. That is the only issue here.","인종차별 비난은 잊으세요. 그리프가 롤간을 공격했고, 롤간이 자신을 방어했습니다. 그것이 여기서의 유일한 쟁점입니다.",m3q01a01igla,,,,,0,0
+43339,PC,Player Character,The defense rests its case.,변호측은 사건을 종결합니다.,m3q01a01igla,,,,,0,0
+43340,PC,Player Character [M3Q01A01],"Griff cheated at cards, and when he saw Rolgan he attacked him out of fear Rolgan had found out.","그리프는 카드 게임에서 속임수를 썼고, 롤간을 봤을 때 롤간이 알아냈을까 두려워 공격했습니다.",m3q01a01igla,m3q01a01res5elc4,m3q01a01res5sck4,[M3Q01A01],,0,0

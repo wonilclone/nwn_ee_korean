@@ -1,0 +1,67 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+5999,Creature,Imp,Imp,임프,2Q4D_IMP|2Q6_IMP,,,,,0,0
+94965,Creature,Imp,Imp,임프,X2_Q2IMP1,,,,,0,0
+6003,Creature,Ice Mephit,Ice Mephit,얼음 메피트,M2Q2F_IMEPHIT,,,,,0,0
+12445,Creature,Intellect Devourer,Intellect Devourer,지성 포식귀,M1Q2_DEVOUR|Q2D_ILL_PET1,,,,,0,0
+12576,Creature,Iron Golem,Iron Golem,철 골렘,2Q6_SANCTUMGOLEM|GOLEM_FXP_01|GOLEM_FXP_2|M2Q06CWIZGOLEM03|M3Q3_IRONGOLEM17|NW_GOLIRON|Q4B_IRON_GOLEM,,,,,0,0
+60889,Creature,Iron Golem,<StartAction>Your attacks have no effect. You will have to destroy the protection glyphs to make the golem vulnerable.</Start>,<StartAction>공격이 통하지 않는다. 골렘을 무력화하려면 보호 문양을 파괴해야 한다.</Start>,M3Q3_IRONGOLEM17,,,,,0,0
+60890,Creature,Iron Golem,Intruders must be destroyed. Activating protection glyphs!,침입자는 파괴해야 한다. 보호 문양 가동!,M3Q3_IRONGOLEM17,m3q3d_glyph,,,,0,0
+12621,Creature,Invisible Stalker,Invisible Stalker,투명 추적자,M2Q05CSTALKER,,,,,0,0
+24247,Creature,Issabon,Begone peasant!,저리 가라 천민아!,TALK_M1Q1NEWNOBLEFEM,,,,,0,0
+25215,Creature,Issabon,Issabon,이사본,TALK_M1Q1NEWNOBLEFEM,,,,,0,0
+24255,Dialog,IBARUM,You can't loiter by the gate. Aribeth's orders.,문 앞에서 어슬렁거리지 마. 아리베스의 명령이야.,TALK_M1Q1IBARUM,,,,,0,0
+24652,Creature,Ibarum,Ibarum,이바룸,M1Q1IBARUM,,,,,0,0
+25365,Creature,Innkeeper,Innkeeper,여관 주인,M2Q1INNKEEP,,,,,0,0
+27103,Dialog,INNGUARD,"We don't want any of the fighting outside to spill into here, do we? Don't make any trouble and we won't have a problem.","바깥 싸움이 여기까지 번지면 안 되잖아, 그렇지? 문제 일으키지 않으면 우리도 문제없어.",2Q4A_INNGUARD,nw_d1_ctr01,,,,0,0
+27104,Dialog,INNGUARD,"If you have questions, direct them to Mr. Thunderfist. He owns the inn.","질문이 있으면 썬더피스트 씨에게 해. 여관 주인이니까.",2Q4A_INNGUARD,nw_d1_ctr02,,,,0,0
+27105,Dialog,INNGUARD,"These folks are just here for some safety, is all. It's my job to see that they don't get attacked while they're here.","여기 있는 사람들은 그냥 안전을 찾아 온 거야. 이들이 있는 동안 공격받지 않게 하는 게 내 일이지.",2Q4A_INNGUARD,nw_d1_ctr03,,,,0,0
+46970,Creature,Igland of the Swift Sword,of the Swift Sword,빠른 검,IGLAND3Q11,,,,,0,0
+46971,Creature,Igland of the Swift Sword,Igland,이글랜드,IGLAND3Q11,,,,,0,0
+50205,Creature,Injured Man,"Your training here is complete, <FirstName>. You should speak with Elynwyd, and then proceed to the south assembly hall to receive blessings and congratulations from Lady Aribeth.","<FirstName>, 여기서의 훈련이 끝났다. 엘린위드와 대화한 후 남쪽 집회장으로 가서 아리베스 여사의 축복과 축하를 받도록.",M0Q01A07INJU,,,,,0,0
+50251,Creature,Injured Man,You must speak to Elynwyd in the center of the room before you may undertake the trials of faith.,신앙의 시련에 도전하려면 먼저 방 중앙에 있는 엘린위드와 대화해야 해.,M0Q01A07INJU,,,,,0,0
+50252,Creature,Injured Man,Only clerics and druids may undertake the trials of faith.,성직자와 드루이드만 신앙의 시련에 도전할 수 있어.,M0Q01A07INJU,,,,,0,0
+50253,Creature,Injured Man,The Academy is under attack! The invaders must be slain!,사관학교가 공격받고 있다! 침입자들을 처치해야 해!,M0Q01A07INJU,,,,,0,0
+50254,Creature,Injured Man,"To complete the Trial of Faith, you must cast a healing spell upon me. When this is done, you must go speak with Elynwyd in the center of the room once more.","신앙의 시련을 완수하려면 나에게 치유 주문을 시전해야 해. 끝나면 방 중앙의 엘린위드와 다시 대화해.",M0Q01A07INJU,,,,,0,0
+50256,Creature,Injured Man,"I have been healed, but you have not completed the other part of the trials of faith.","치료는 받았지만, 신앙 시련의 나머지 부분을 완료하지 않았어.",M0Q01A07INJU,,,,,0,0
+50957,Creature,Injured Man,Injured Man,부상당한 남자,M0Q01A07INJU,,,,,0,0
+61329,Creature,Ilse Starr,Starr,스타,M4_TYR_COMMONF3,,,,,0,0
+61330,Creature,Ilse Starr,Ilse,일세,M4_TYR_COMMONF3,,,,,0,0
+65107,Dialog,INVISPILLAR,"This pillar shines with a holy light, basking the room in its warm glow.","이 기둥이 신성한 빛으로 빛나며, 따뜻한 광채로 방을 감싸고 있다.",M2Q5INVISPILLAR,,,,,0,0
+65332,Dialog,ILLUSKPALADI,Ever will the innocent guard this seal. ,영원히 순수한 자가 이 봉인을 지키리라.,2Q4_ILLUSKPALADI,,,,,0,0
+65742,Creature,Ixaristu,Ixaristu,익사리스투,M3Q04A03UTHSSGK,,,,,0,0
+71011,Dialog,IBIRGEN,<StartAction>[grumble... mumble...]</Start>,<StartAction>[투덜투덜... 중얼중얼...]</Start>,Q1IBIRGEN,,,,,0,0
+71668,Dialog,ISANDE,"Oh... wrenched from the darkness of death... where has it gone... can feel it close... so close, yet gone... ","아... 죽음의 어둠에서 끌려나와... 어디로 갔나... 가깝게 느껴져... 이렇게 가까운데, 사라졌어...",Q2_ISANDE,,,,,0,0
+71669,Dialog,ISANDE,Oh... you are different from the last one... but you have nothing to take from me... not anymore... Isande is all but forgotten... now I am defiled...,"아... 저번 자와는 다르군... 하지만 더 이상 빼앗을 건 없어... 이산드는 거의 잊혔지... 이제 나는 모독당했어...",Q2_ISANDE,,,,,0,0
+71670,Dialog,ISANDE,Need to rest... please... find my sword... I shall reward you...,쉬어야 해... 제발... 내 검을 찾아줘... 보상하겠어...,Q2_ISANDE,,,,,0,0
+71671,Dialog,ISANDE,Questions? No answers have I... need to rest... must return to... darkness... must have it back...,질문? 답은 없어... 쉬어야 해... 어둠으로... 돌아가야 해... 되찾아야 해...,Q2_ISANDE,,,,,0,0
+71672,Dialog,ISANDE,So many years have I rested... how long... but always did my sword rest... in the place of honor... now gone... I can feel it... near...,오랜 세월 쉬었지... 얼마나 됐나... 하지만 내 검은 항상... 명예로운 자리에 있었어... 이제 사라졌어... 느낄 수 있어... 가까이...,Q2_ISANDE,act_q2isande_sw1,,,,0,0
+71673,Dialog,ISANDE,It is a sword... long... steel... ancient heirloom... nothing more...,검이야... 길고... 강철로 된... 오래된 가보... 그뿐...,Q2_ISANDE,,,,,0,0
+71674,Dialog,ISANDE,"A human... cutthroat, in leather... stole the sword so many years ago... evil thief crept into my tomb... then he ran away...","인간... 가죽옷 입은 암살자... 오래전에 검을 훔쳐갔어... 사악한 도둑이 내 무덤에 몰래 들어와... 도망쳤지...",Q2_ISANDE,,,,,0,0
+71675,Dialog,ISANDE,Yes.... there will be... reward... bring it back... then I rest...,그래... 보상이... 있을 거야... 가져와줘... 그러면 쉴 수 있어...,Q2_ISANDE,q2_at_isande_que,,,,0,0
+71676,Dialog,ISANDE,I... await your... return...,너의... 귀환을... 기다리겠어...,Q2_ISANDE,,,,,0,0
+71677,Dialog,ISANDE,I know you... back you have come... do you bring... my sword?,너를 알아... 돌아왔구나... 내 검을... 가져왔어?,Q2_ISANDE,,,,,0,0
+71678,Dialog,ISANDE,Go... find my sword... let me rest...,가... 내 검을 찾아줘... 쉬게 해줘...,Q2_ISANDE,,,,,0,0
+71679,Dialog,ISANDE,My sword... now I can rest... at last... this could be helpful for you...choose one item from my chest... with my gratitude.,내 검... 이제 쉴 수 있어... 드디어... 이게 네게 도움이 될 거야... 내 상자에서 물건 하나를 골라... 감사의 표시로.,Q2_ISANDE,q2_at_isnd_rew,,,,0,0
+71680,Dialog,ISANDE,"Now, back to the darkness....","이제, 어둠으로 돌아가야지...",Q2_ISANDE,q2_at_isande_go,,,,0,0
+100096,Creature,Imp Quarry Worker,Imp Quarry Worker,임프 채석 노동자,H2_IMP,,,,,0,0
+100133,Creature,Ice Beast,Ice Beast,얼음 야수,HX_ICEELEM,,,,,0,0
+104890,Dialog,ILL_NUR3,"One of your rivals notes: ""You seem quite eager to increase the bidding. You must see something worthwhile in this thrall. I offer 1500.""","경쟁자 중 하나가 말한다: ""입찰에 열을 올리는군. 이 노예한테서 뭔가 보이나 봐. 1500.""",Q2D_ILL_NUR3,,,,,0,0
+104893,Dialog,ILL_NUR3,"The other illithid bidder shakes his head. ""That is too much for me. I drop from the bidding.""","다른 일리시드 입찰자가 고개를 젓는다. ""너무 비싸군. 빠지겠어.""",Q2D_ILL_NUR3,,,,,0,0
+104910,Dialog,ILL_NUR3,"<StartAction>Failure</Start> The other bidders aren't fooled by your act. ""The <race> bidder is trying to trick us. The thrall must be valuable. I offer 1500.""","<StartAction>실패</Start> 다른 입찰자들이 연기에 속지 않는다. ""저 <race>가 속이려 드는군. 노예가 값어치 있는 게 분명해. 1500.""",Q2D_ILL_NUR3,,,,,0,0
+104912,Dialog,ILL_NUR3,"""As do I. I have no wish to purchase a feeble thrall.""","""나도 마찬가지야. 허약한 노예를 살 생각은 없어.""",Q2D_ILL_NUR3,,,,,0,0
+104892,Dialog,ILL_NUR2,"Again, one of your rivals is quick to meet the offer: ""I'll give you 2000.""","다시 경쟁자 중 하나가 재빨리 호응한다: ""2000 내겠어.""",Q2D_ILL_NUR2,,,,,0,0
+104896,Dialog,ILL_NUR2,"Your sudden jump in the bidding seems to have caught your opponent off guard. ""3000? Just like that? You obviously want this thrall more than I do. I withdraw from the bidding.""","갑작스러운 가격 인상에 상대가 당황한 것 같다. ""3000? 그냥 그렇게? 나보다 이 노예를 더 원하는 게 분명하군. 입찰에서 빠지겠어.""",Q2D_ILL_NUR2,,,,,0,0
+104897,Dialog,ILL_NUR2,"The other remaining bidder is quick to counter: ""I'll go to 2800.""","남은 다른 입찰자가 재빨리 맞받아친다: ""2800까지 가지.""",Q2D_ILL_NUR2,,,,,0,0
+104898,Dialog,ILL_NUR2,"<StartAction>Failure</Start> Your threat seems to have angered your competitor into a rash jump in the price. ""I will not be outbid by a thrall! I offer 4000!""","<StartAction>실패</Start> 위협에 경쟁자가 화가 나서 가격을 무리하게 올린다. ""노예 따위한테 질 순 없다! 4000!""",Q2D_ILL_NUR2,,,,,0,0
+104899,Dialog,ILL_NUR2,"The illithid thinks for a long time before admitting: ""I cannot match that price. She is yours.""","일리시드가 한참 고민하다 인정한다: ""그 가격은 못 맞추겠군. 네 것이다.""",Q2D_ILL_NUR2,,,,,0,0
+104901,Dialog,ILL_NUR2,"<StartAction>Success</Start> Surprisingly, your threat seems to have intimidated your competition. He considers briefly, then shakes his head.","<StartAction>성공</Start> 놀랍게도 위협에 경쟁자가 겁을 먹은 것 같다. 잠시 고민하더니 고개를 젓는다.",Q2D_ILL_NUR2,,,,,0,0
+104903,Dialog,ILL_NUR2,"The mind flayer debates for a long time before offering up another bid. ""3500 for the female thrall.""","마인드 플레이어가 한참 고민하더니 다시 입찰한다. ""암컷 노예에 3500.""",Q2D_ILL_NUR2,,,,,0,0
+104904,Dialog,ILL_NUR2,"The illithid thinks for a long time before admitting: ""I cannot match that price. She is yours.""","일리시드가 한참 고민하다 인정한다: ""그 가격은 못 맞추겠군. 네 것이다.""",Q2D_ILL_NUR2,,,,,0,0
+104907,Dialog,ILL_NUR2,"One of the nearby illithids - your competitors in the auction - meets the price: ""1000 gold pieces.""","근처 일리시드 중 하나-경매 경쟁자-가 응찰한다: ""금화 1000개.""",Q2D_ILL_NUR2,,,,,0,0
+104911,Dialog,ILL_NUR2,"<StartAction>Success</Start> The other bidders seem to consider your comments carefully. ""This <race> bidder likely knows more about the health of humans than we do. I withdraw.""","<StartAction>성공</Start> 다른 입찰자들이 네 말을 신중히 고려한다. ""저 <race>가 인간 건강에 대해 우리보다 잘 아는 것 같군. 빠지겠어.""",Q2D_ILL_NUR2,,,,,0,0
+104957,Dialog,ILLMECH,"Mashing more controls at random, you seem to have deactivated the globe.",조작판을 마구 더 누르자 구체가 꺼진 것 같다.,Q2D4_ILLMECH,,,,,0,0
+104958,Dialog,ILLMECH,"Mashing some controls at random, you seem to have activated this strange device.",조작판을 마구 누르자 이상한 장치가 켜진 것 같다.,Q2D4_ILLMECH,,,,,0,0
+107861,Creature,Intellect Ravager,Intellect Ravager,지성 파괴귀,Q2D4BADDOG,,,,,0,0
+109838,Creature,Ice Troll Shaman,Ice Troll Shaman,얼음 트롤 주술사,HX_ICE_TROLL,,,,,0,0
+109839,Creature,Ice Troll Berserker,Ice Troll Berserker,얼음 트롤 광전사,HX_ICE_TROLL2,,,,,0,0
+109846,Creature,Illithid,Illithid,일리시드,HX_FEND_ILLITHID,,,,,0,0

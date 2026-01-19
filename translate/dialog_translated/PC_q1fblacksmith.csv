@@ -1,0 +1,72 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70223,PC,Player Character,"Neither, thanks. Goodbye.","둘 다 됐어요. 안녕히.",q1fblacksmith,,,,,0,0
+70224,PC,Player Character,I would like to ask you some questions.,몇 가지 물어봐도 될까요?,q1fblacksmith,,,,,0,0
+70225,PC,Player Character,<StartCheck>[Persuade - lie]</Start> Have you heard about the new kobold defense tax?,<StartCheck>[설득 - 거짓말]</Start> 새로운 코볼트 방어세에 대해 들었어요?,q1fblacksmith,x0_d1_didchaosml,con_fiona_3,,,0,0
+70226,PC,Player Character,Did you have problems with the kobolds?,코볼트 때문에 문제가 있었어요?,q1fblacksmith,,,,,0,0
+70227,PC,Player Character,That is all my questions.,질문은 그게 다예요.,q1fblacksmith,,,,,0,0
+70228,PC,Player Character,"No, thanks. Goodbye. ","아뇨, 됐어요. 안녕히.",q1fblacksmith,,,,,0,0
+70229,PC,Player Character,Would you tell me about yourself?,자기 이야기를 해주겠어요?,q1fblacksmith,,,,,0,0
+70230,PC,Player Character,Please stop fooling around. I was trying to be serious.,장난 좀 그만해요. 진지하게 얘기하려는 거였어요.,q1fblacksmith,,,,,0,0
+70231,PC,Player Character,"Yes, you are about the most annoying person I have ever met.","그래요, 당신은 내가 만난 사람 중에 제일 짜증나요.",q1fblacksmith,,,,,0,0
+70232,PC,Player Character,No. I think you are pretty normal.,아뇨. 꽤 평범한 것 같은데요.,q1fblacksmith,,,,,0,0
+70233,PC,Player Character,"What I meant to say, is you are fat, ugly and completely out of your mind. ","내가 말하려던 건, 당신이 뚱뚱하고 못생기고 완전히 제정신이 아니라는 거예요.",q1fblacksmith,,,,,0,0
+70234,PC,Player Character,"Fine, then I'll just see your inventory and then I'll go. ","좋아요, 그럼 물건만 보고 갈게요.",q1fblacksmith,,,,,0,0
+70235,PC,Player Character,Is this another joke?,이것도 또 농담이에요?,q1fblacksmith,,,,,0,0
+70236,PC,Player Character,I'm sorry.,미안해요.,q1fblacksmith,,,,,0,0
+70237,PC,Player Character,"Yes, but I like you all the same.","그래요, 그래도 좋아요.",q1fblacksmith,,,,,0,0
+70238,PC,Player Character,"Fine, I didn't really want to hear it anyways. ","좋아요, 어차피 듣고 싶지도 않았어요.",q1fblacksmith,,,,,0,0
+70239,PC,Player Character,I will respect your privacy.,사생활을 존중할게요.,q1fblacksmith,,,,,0,0
+70240,PC,Player Character,Why? ,왜요?,q1fblacksmith,,,,,0,0
+70241,PC,Player Character,What was so bad for you?,뭐가 그렇게 안 좋았어요?,q1fblacksmith,,,,,0,0
+70242,PC,Player Character,Piper said he sold you his sword.,파이퍼가 당신한테 칼을 팔았다고 하던데요.,q1fblacksmith,,con_fiona_2,,,0,0
+70243,PC,Player Character,<StartCheck>[Persuade - lie]</Start> That is not the story he tells. He says you stole it from him!,<StartCheck>[설득 - 거짓말]</Start> 그 사람은 다르게 말하던데요. 당신이 훔쳐갔다고요!,q1fblacksmith,x0_d1_didchaotny,,,,0,0
+70244,PC,Player Character,I want to buy it. ,사고 싶어요.,q1fblacksmith,,,,,0,0
+70245,PC,Player Character,Could I have it?,그거 받을 수 있을까요?,q1fblacksmith,,,,,0,0
+70246,PC,Player Character,I found these magical antlers. Do you know anything about them?,이 마법의 뿔을 찾았는데요. 뭔지 알아요?,q1fblacksmith,,con_fiona_4,,,0,0
+70247,PC,Player Character,"Neither, goodbye. ","둘 다 됐어요, 안녕히.",q1fblacksmith,,,,,0,0
+70248,PC,Player Character,I will sell them to you.,당신한테 팔게요.,q1fblacksmith,,,,,0,0
+70249,PC,Player Character,"Maybe I would like the helm, after all. ","다시 생각해보니 투구가 좋겠네요.",q1fblacksmith,,,,,0,0
+70250,PC,Player Character,"<StartCheck>[Persuade]</Start> For such powerful items, you could certainly spare more than that.","<StartCheck>[설득]</Start> 이렇게 강력한 물건인데, 좀 더 주실 수 있잖아요.",q1fblacksmith,,con_fiona_5,,,0,0
+70251,PC,Player Character,Never mind. ,됐어요.,q1fblacksmith,,,,,0,0
+70252,PC,Player Character,"No, I want the helm. ","아뇨, 투구로 할게요.",q1fblacksmith,,,,,0,0
+70253,PC,Player Character,I will take it.,그걸로 할게요.,q1fblacksmith,,,,,0,0
+70254,PC,Player Character,I will take it.,그걸로 할게요.,q1fblacksmith,,,,,0,0
+70255,PC,Player Character,I want the helm.,투구로 할게요.,q1fblacksmith,,,,,0,0
+70256,PC,Player Character,I changed my mind. How much will you buy them for? ,마음이 바뀌었어요. 얼마에 사줄 거예요?,q1fblacksmith,,,,,0,0
+70257,PC,Player Character,That is too much.,너무 비싸요.,q1fblacksmith,,,,,0,0
+70258,PC,Player Character,<StartAction>[Cast Charm]</Start> You would like to do this for much less.,<StartAction>[매혹 시전]</Start> 훨씬 싸게 해주고 싶잖아요.,q1fblacksmith,,xp1_checkcharm,,,0,0
+70259,PC,Player Character,"Never mind, goodbye. ","됐어요, 안녕히.",q1fblacksmith,,,,,0,0
+70260,PC,Player Character,Here is the gold.,여기 금화예요.,q1fblacksmith,,con_fiona_8,,,0,0
+70261,PC,Player Character,<StartCheck>[Persuade - Intimidate]</Start> I think allowing you to live should give me a nice discount.,<StartCheck>[설득 - 위협]</Start> 살려두는 대가로 할인해주는 게 좋을 것 같은데요.,q1fblacksmith,,con_fiona_10,,,0,0
+70262,PC,Player Character,<StartCheck>[Persuade]</Start> Couldn't you help an old friend out? I have always felt so close to you.,<StartCheck>[설득]</Start> 옛 친구 좀 도와줄 수 없어요? 항상 가깝게 느꼈는데.,q1fblacksmith,,con_fiona_10,,,0,0
+70263,PC,Player Character,I will pay.,돈 낼게요.,q1fblacksmith,,,,,0,0
+70264,PC,Player Character,I would like to see your goods.,물건 좀 볼게요.,q1fblacksmith,,,,,0,0
+70265,PC,Player Character,Goodbye.,안녕히.,q1fblacksmith,,,,,0,0
+70266,PC,Player Character,"I met a half-orc named Glendir, who claims to be your brother.",글렌디르라는 하프오크를 만났는데 당신 남동생이래요.,q1fblacksmith,act_q1smith_1,con_fiona_17,,,0,0
+70267,PC,Player Character,He's doing well; if you count being a prisoner of hungry gnolls as a good thing. ,잘 지내요. 배고픈 놀들의 포로인 게 좋은 거라면요.,q1fblacksmith,,,,,0,0
+70268,PC,Player Character,I imagine he will be dead soon.,곧 죽을 것 같아요.,q1fblacksmith,,,,,0,0
+70269,PC,Player Character,He is being held by a group of gnolls. ,놀 무리한테 붙잡혀 있어요.,q1fblacksmith,,,,,0,0
+70270,PC,Player Character,I imagine the gnolls will devour him soon. ,놀들이 곧 그를 잡아먹을 것 같아요.,q1fblacksmith,,,,,0,0
+70271,PC,Player Character,He is a prisoner of a group of gnolls.,놀 무리의 포로예요.,q1fblacksmith,,,,,0,0
+70272,PC,Player Character,I am not going to save him.,구하러 안 갈 거예요.,q1fblacksmith,,,,,0,0
+70273,PC,Player Character,I will only rescue him if I am getting paid.,돈을 받아야 구해줄게요.,q1fblacksmith,,,,,0,0
+70274,PC,Player Character,<StartCheck>[Persuade]</Start> Your brother's life must be worth something to you?,<StartCheck>[설득]</Start> 남동생 목숨이 당신한테 무가치하진 않겠죠?,q1fblacksmith,,,,,0,0
+70275,PC,Player Character,I am working on it.,진행 중이에요.,q1fblacksmith,,,,,0,0
+70276,PC,Player Character,"I have news for you. Your brother, Glendir, is dead.","소식 전할 게 있어요. 남동생 글렌디르가 죽었어요.",q1fblacksmith,act_fiona_11,con_fiona_11,,,0,0
+70277,PC,Player Character,Not a chance! You gambled and you lost.,절대 안 돼요! 도박에서 진 거예요.,q1fblacksmith,,,,,0,0
+70278,PC,Player Character,"No, I already spent it.","아뇨, 이미 다 썼어요.",q1fblacksmith,act_fiona_12,,,,0,0
+70279,PC,Player Character,"Fine, goodbye.","좋아요, 안녕히.",q1fblacksmith,,,,,0,0
+70280,PC,Player Character,Then you are of no more use to me. I think I will enjoy killing you.,그럼 이제 쓸모없군요. 죽이는 걸 즐기겠어요.,q1fblacksmith,,,,,0,0
+70281,PC,Player Character,"Of course. I am sorry, Fiona.","물론이죠. 미안해요, 피오나.",q1fblacksmith,x0_d1_didlawsml,,,,0,0
+70282,PC,Player Character,I would like to see your goods.,물건 좀 볼게요.,q1fblacksmith,,,,,0,0
+70283,PC,Player Character,Not yet.,아직이요.,q1fblacksmith,,,,,0,0
+70284,PC,Player Character,I have this promissory note.,이 약속 어음이 있어요.,q1fblacksmith,,con_fiona_16,,,0,0
+70285,PC,Player Character,Goodbye.,안녕히.,q1fblacksmith,,,,,0,0
+70286,PC,Player Character,"<StartCheck>[Persuade - Intimidate]</Start> I'll be getting something from you, if you know what is good for you!","<StartCheck>[설득 - 위협]</Start> 뭐 좀 받아야겠어요, 당신 잘되려면요!",q1fblacksmith,,,,,0,0
+70287,PC,Player Character,<StartCheck>[Persuade]</Start> You could give me some equipment instead of the gold.,<StartCheck>[설득]</Start> 금화 대신 장비를 줄 수도 있잖아요.,q1fblacksmith,,,,,0,0
+70288,PC,Player Character,I want a reward.,보상을 원해요.,q1fblacksmith,,con_fiona_15,,,0,0
+70289,PC,Player Character,Fine. Goodbye.,좋아요. 안녕히.,q1fblacksmith,,,,,0,0
+70290,PC,Player Character,What does that mean?,무슨 뜻이에요?,q1fblacksmith,,,,,0,0
+70291,PC,Player Character,<StartCheck>[Persuade]</Start> I deserve something for my efforts.,<StartCheck>[설득]</Start> 제 노력에 대한 대가를 받을 자격이 있어요.,q1fblacksmith,,,,,0,0
+70292,PC,Player Character,"How is Glendir, a half-orc, your brother?","하프오크 글렌디르가 어떻게 당신 남동생이에요?",q1fblacksmith,,,,,0,0
+70293,PC,Player Character,What are you talking about?,무슨 말이에요?,q1fblacksmith,,,,,0,0

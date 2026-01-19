@@ -1,0 +1,212 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12513,Creature,Earth Elemental,Earth Elemental,대지의 원소 정령,BW_EARTH|Q3_EARTH_ELEMENT,,,,,0,0
+12515,Creature,Elder Earth Elemental,Elder Earth Elemental,대지의 원소 정령 장로,DB_ANIMATE,,,,,0,0
+12518,Creature,Elf Mage,Elf Mage,엘프 마법사,AC_DAXIONG|RB_DAXIONG,,,,,0,0
+12519,Creature,Elf Mercenary,Elf Mercenary,엘프 용병,AC_JOREY|AC_KYLEENA|AC_WILDELFGUARD,,,,,0,0
+12522,Creature,Ettercap,Ettercap,이터캡,NW_ETTERCAP,,,,,0,0
+12524,Creature,Ettin,Ettin,에틴,M3Q04D02ETTN|M3Q4D10_ETTIN|M3Q4D_ETTIN|TM_CR_ETTIN01,,,,,0,0
+45694,Creature,Ettin,Who be you? Only hill giants and ettins be here! You not 'posed be here!,너 누구냐? 여기는 언덕 거인이랑 에틴만 있는 곳이다! 너 여기 있으면 안 돼!,M3Q04D02ETTN,,,,,0,0
+45695,Creature,Ettin,<StartCheck>[Success]</Start> Me sorry. Boss think me stupid. Him not talk at me much. Me not get message.,<StartCheck>[성공]</Start> 나 미안해. 대장은 나 멍청하다고 생각해. 그 나한테 별로 말 안 해. 나 전갈 못 받았어.,M3Q04D02ETTN,m3q04d02ettnelc1,,,,0,0
+45696,Creature,Ettin,Me like you. You be talk like me! Maybe we be friend after you be talk at big boss man.,나 너 좋아. 너 나처럼 말해! 아마 너 큰 대장한테 말하면 우리 친구 될 거야.,M3Q04D02ETTN,m3q04d02ettnelc1,,,,0,0
+45697,Creature,Ettin,Me kill you. Kill you to goo.,나 너 죽인다. 너 죽여서 진흙 만든다.,M3Q04D02ETTN,nw_d1_attonend02,,,,0,0
+45698,Creature,Ettin,<StartCheck>[Failure]</Start> Me boss not like guests!,<StartCheck>[실패]</Start> 내 대장 손님 안 좋아해!,M3Q04D02ETTN,,,,,0,0
+45699,Creature,Ettin,<StartCheck>[Failure]</Start> Me no get message! Me think you be trick me!,<StartCheck>[실패]</Start> 나 전갈 못 받았어! 나는 너 나 속이는 것 같아!,M3Q04D02ETTN,,,,,0,0
+45700,Creature,Ettin,"Me like you. You be talk like me, yuh?","나 너 좋아. 너 나처럼 말해, 응?",M3Q04D02ETTN,,,,,0,0
+45701,Creature,Ettin,"<StartCheck>[Success]</Start> Him did? Me no want boss get mad. You go in. Hurry, boss not like wait.","<StartCheck>[성공]</Start> 그가 그랬어? 나 대장 화나는 거 원치 않아. 너 들어가. 서둘러, 대장 기다리는 거 싫어해.",M3Q04D02ETTN,,,,,0,0
+45702,Creature,Ettin,"<StartCheck>[Success]</Start> No! Me guard hall. Me got order stay here! *You* go talk at boss, *me* wait here.","<StartCheck>[성공]</Start> 안 돼! 나 복도 지킨다. 나 여기 있으라고 명령 받았어! *너* 대장한테 가서 말해, *나* 여기서 기다려.",M3Q04D02ETTN,,,,,0,0
+45703,Creature,Ettin,"Hurry, go speak boss. Him not like wait.","서둘러, 대장한테 가서 말해. 그 기다리는 거 싫어해.",M3Q04D02ETTN,m3q04d02ettnelc2,,,,0,0
+45704,Creature,Ettin,<StartCheck>[Failure]</Start> You no trick me! Me stupid me not look!,<StartCheck>[실패]</Start> 너 나 속이지 마! 나 멍청해서 안 봐!,M3Q04D02ETTN,nw_d1_attonend02,,,,0,0
+45705,Creature,Ettin,<StartCheck>[Success]</Start> Me like you looks. You be talk like me. Me think me can trust you. Go speak at boss.,<StartCheck>[성공]</Start> 나 너 보기 좋아. 너 나처럼 말해. 나는 너 믿을 수 있을 것 같아. 대장한테 가서 말해.,M3Q04D02ETTN,m3q04d02ettnelc1,,,,0,0
+45706,Creature,Ettin,Me gots visitor for Chief!,나 족장님한테 손님 데려왔어!,M3Q04D02ETTN,,,,,0,0
+45708,Creature,Ettin,No enemy! Maybe you enemy! Maybe me kill you and I be next chief-guard!,적 아니야! 아마 너 적이야! 아마 나 너 죽이고 내가 다음 족장 경비 될 거야!,M3Q04D02ETTN,m3q04d02ettin_2,,,,0,0
+12638,Creature,Earth Mephit,Earth Mephit,대지 메피트,M2Q2F_EMEPHIT|NW_MEPEARTH|Q3_EARTH_MEPHIT,,,,,0,0
+12800,Creature,Elder Water Elemental,Elder Water Elemental,물의 원소 정령 장로,NW_WATELDER,,,,,0,0
+23846,Dialog,EWARNING,This is Bloodsailor territory. Get out!,여긴 블러드세일러 구역이다. 꺼져!,M1Q5EWARNING,,,,,0,0
+24554,Creature,Ergus,Ergus,어거스,ERGUS,,,,,0,0
+24555,Creature,Escaped Prisoner,Escaped Prisoner,탈옥수,ESCAPED PRISONER1|M1Q2AESCPRIS01|M1Q2AESCPRIS02|M1Q2AESCPRIS03|M1Q2ASLING|M1Q2CESCPRIS1|M1Q2PRISLV6|M1Q2PRISONER|M1Q2_FORMERPRISONERNORTHWING|M1Q2_FORMERPRISONERSOUTHWING|M1Q2_FORMPRIS2|M1Q2_FORMPRIS3,,,,,0,0
+24646,Creature,Eravian,Eravian,에라비안,M1Q1AERAVIAN,,,,,0,0
+24699,Creature,Eltoora Sarptyl,Eltoora,엘투라,ELTOORASAR3Q11|M1S03CELTOORA|M2Q1CELTOORA|M4Q1AELTO,,,,,0,0
+24700,Creature,Eltoora Sarptyl,Sarptyl,사프틸,ELTOORASAR3Q11|M1S03CELTOORA|M2Q1CELTOORA|M4Q1AELTO,,,,,0,0
+49048,Creature,Eltoora Sarptyl,"You have come to the Cloak Tower in dark times, friend. The others of my guild have left to lend their spells to the battle and I've heard nothing of them since. ","어두운 시기에 망토 탑에 오셨군요, 친구여. 우리 조합의 다른 이들은 전투에 주문을 보태러 떠났고, 그 이후로 소식을 듣지 못했습니다.",M4Q1AELTO,,,,vs_feltoorf_061,0,0
+49049,Creature,Eltoora Sarptyl,I'll take whatever gold you've got. I'm casting a wardspell to protect the castle and every ounce of gold I can commit to it will make it stronger.,끔찍한 재앙이 우리에게 닥쳤습니다. 뼈속 깊이 느껴지는군요. 다가올 날들을 살아남을 수 있기를 미스트라께 기도할 뿐입니다.,M4Q1AELTO,nw_d1_shoparcne4,,,,0,0
+49050,Creature,Eltoora Sarptyl,I had a funny feeling people like you might show up here. Looks like I was right.,아리베스 경은 현관을 지나 동쪽으로 가시면 찾으실 수 있을 겁니다. 당신이 찾는 분이 그분 아닌가요?,M4Q1AELTO,,,,,0,0
+49051,Creature,Eltoora Sarptyl,Tell those Arcane Brothers that they won't they won't lay their filthy hands on the castle. Not if I can help it at any rate... ,"부디, 친구여. 제가 준비할 시간을 주십시오. 그래야 품위 있게 최후를 맞이할 수 있을 테니까요.",M4Q1AELTO,,,,,0,0
+25898,Dialog,EBRIDGE,"This bridge used to lead to Neverwinter. It has recently been destroyed, however, and will take a number of days to rebuild.","이 다리는 예전에 네버윈터로 이어졌습니다. 그러나 최근 파괴되어, 재건하려면 며칠이 걸릴 것입니다.",M1Q6EBRIDGE,,,,,0,0
+28270,Creature,Escort,"Please be quick, I must continue my duties.","서둘러 주세요, 임무를 계속해야 합니다.",2Q4C_ESCORT,nw_d2_walkways,,,,0,0
+40692,Creature,Escort,Escort,호위병,2Q4C_ESCORT,,,,,0,0
+30311,Dialog,EISNF,Go away. We don't want you bringin' trouble on this house.,가 버려. 우리 집에서 말썽을 피우지 마.,M2Q1A02EISNF,,,,,0,0
+30313,Dialog,EISNF,"Oh, Urth, there's someone coming up! You look - presentable, don't you my boy?","오, 어스, 누가 올라간단다! 지금 보기에... 멀쩡해 보이니, 내 아가?",M2Q1A02EISNF,,,,,0,0
+30314,Dialog,EISNF,"If you want to blather at me, you'd best do it from outside where I can't hear you.",헛소리할 거면 내가 못 듣게 바깥에서 하시지.,M2Q1A02EISNF,,,,,0,0
+30315,Dialog,EISNF,"Thank you, good <sir/madam>! We treated you so poorly but you have been so kind... ","고맙습니다, 선생님! 우리가 그렇게 못되게 굴었는데도 이렇게 친절하시다니...",M2Q1A02EISNF,,,,,0,0
+30316,Dialog,EISNF,Our boy Urth is himself again! 'Tis like having him back from the very grave!,우리 아들 어스가 예전 모습으로 돌아왔어요! 무덤에서 살아 돌아온 것만 같아요!,M2Q1A02EISNF,,,,,0,0
+30318,Dialog,EISNF,"They're rickety an' - an' it's a danger to climb them, you hear? ","거기는 다 삐걱거려서-그러니까-올라가면 위험하단 말이야, 들려?",M2Q1A02EISNF,,,,,0,0
+30332,Dialog,EISNM,"I'm warning you - If you be lookin' for our boy Urth, he ain't here.","경고하겠소-우리 아들 어스를 찾는 거라면, 여기엔 없소.",M2Q1A02EISNM,,,,,0,0
+30333,Dialog,EISNM,"You've done the three of us a fine favor, <lad/lass>, and I'd like you to have somethin' that's been in our family awhile.","우린 셋 다 큰 은혜를 입었네, 젊은이. 우리 집안에 오래 내려온 걸 하나 받게나.",M2Q1A02EISNM,,,,,0,0
+30334,Dialog,EISNM,"Twas my great grandfather's sickle, but it always seemed too beautiful to use for simple harvest work.","증조부의 낫일세만, 평범한 추수 일에 쓰기엔 너무 아름답더군.",M2Q1A02EISNM,m2q1mreisen001,,,,0,0
+30335,Dialog,EISNM,A chest of 300 gold. 'Twas my inheritance but I've been too scared to spend it. Now's as good a time to be rid of it as any.,"금화 300이 든 궤짝이네. 상속받은 돈이지만, 쓰기가 두려워 손도 못 댔지. 지금이든 언제든, 털어버리기엔 딱 좋을 때군.",M2Q1A02EISNM,m2q1mreisen006,,,,0,0
+30336,Dialog,EISNM,A chest of 150 gold. 'Twas part of my inheritance but I've been too scared to spend it. Now's as good a time to be rid of it as any.,"금화 150이 든 궤짝이네. 상속받은 돈이지만, 쓰기가 두려워 손도 못 댔지. 지금이든 언제든, 털어버리기엔 딱 좋을 때군.",M2Q1A02EISNM,m2q1mreisen003,,,,0,0
+30337,Dialog,EISNM,"May the winds be ever at your back, my friend.","언제나 바람이 그대 등 뒤에서 불어 주길, 친구.",M2Q1A02EISNM,,,,,0,0
+30338,Dialog,EISNM,"<StartCheck>[Success]</Start> Of course, good <FirstName>. It's not easy being an adventurer, as Urth learned almost too late.","<StartCheck>[성공]</Start> 물론이오, <FirstName>. 모험가의 길이란 쉽지 않다는 걸 우리 어스도 간발의 차로 뼈저리게 배웠지.",M2Q1A02EISNM,m2q1mreisen005,,,,0,0
+30339,Dialog,EISNM,"<StartCheck>[Failure]</Start> Of what use are your deeds if we all starve over the winter? I'm sorry, that's too much for me to give.","<StartCheck>[실패]</Start> 겨울에 우리가 굶어 죽으면 그대가 한 일이 무슨 소용이겠소? 미안하지만, 그건 내가 줄 수 있는 액수가 아니오.",M2Q1A02EISNM,,,,,0,0
+30340,Dialog,EISNM,"<StartCheck>[Success]</Start> Of course, good <FirstName>. It's not easy being an adventurer, as Urth learned almost too late.","<StartCheck>[성공]</Start> 물론이오, <FirstName>. 모험가의 길이란 쉽지 않다는 걸 우리 어스도 간발의 차로 뼈저리게 배웠지.",M2Q1A02EISNM,m2q1mreisen004,,,,0,0
+30341,Dialog,EISNM,"<StartCheck>[Success]</Start> Of course, good <FirstName>. It's not easy being an adventurer, as Urth learned almost too late.","<StartCheck>[성공]</Start> 물론이오, <FirstName>. 모험가의 길이란 쉽지 않다는 걸 우리 어스도 간발의 차로 뼈저리게 배웠지.",M2Q1A02EISNM,m2q1mreisen002,,,,0,0
+30342,Dialog,EISNM,"<StartCheck>[Failure]</Start> Of what use are your deeds if we all starve over the winter? I'm sorry, that's too much for me to give.","<StartCheck>[실패]</Start> 겨울에 우리가 굶어 죽으면 그대가 한 일이 무슨 소용이겠소? 미안하지만, 그건 내가 줄 수 있는 액수가 아니오.",M2Q1A02EISNM,,,,,0,0
+30343,Dialog,EISNM,"<StartCheck>[Failure]</Start> Of what use are your deeds if we all starve over the winter? I'm sorry, that's too much for me to give.","<StartCheck>[실패]</Start> 겨울에 우리가 굶어 죽으면 그대가 한 일이 무슨 소용이겠소? 미안하지만, 그건 내가 줄 수 있는 액수가 아니오.",M2Q1A02EISNM,,,,,0,0
+30344,Dialog,EISNM,"Why, may the weather rot you, <FullName>! We'll starve the winter, rest assured, but here be your devil's gold.","맙소사, 천지가 널 썩게 하길 바라지, <FullName>! 우린 올겨울 굶어 죽게 생겼지만, 여기 네 마귀 같은 금을 가져가.",M2Q1A02EISNM,m2q1mreisen005,,,,0,0
+30345,Dialog,EISNM,"Aye, this has become a happy home again.","그래, 다시 행복한 집이 되었지.",M2Q1A02EISNM,,,,,0,0
+30346,Dialog,EISNM,Don't you hurt our boy!,우리 아들 다치게 하지 마!,M2Q1A02EISNM,,,,,0,0
+30347,Dialog,EISNM,"Get out of here, you dirty scoundrel.","꺼져, 이 더러운 불한당아.",M2Q1A02EISNM,,,,,0,0
+40682,Creature,Elynwyd,Elynwyd,엘린위드,2Q4A01_ELYNWYD|M1Q0BELYNWYD,,,,,0,0
+40708,Creature,Evaine,Evaine,에바인,M2Q05CEVAINE,,,,,0,0
+40710,Creature,Evil Spirit,Evil Spirit ,사악한 영혼,2Q4E_SHRNSPIR,,,,,0,0
+40722,Creature,Erb,Erb,어브,2Q4_ERB,,,,,0,0
+40851,Creature,Elaith Craulnober,Elaith,엘레이스,M2Q1CELAITH,,,,,0,0
+43167,Dialog,EDEG,"Welcome to the Temple of Tyr. Should you require the services of a priest, please speak to Neurik.",티르의 신전에 오신 것을 환영합니다. 성직자의 도움이 필요하시면 뉴릭에게 말씀하세요.,M3Q01A01EDEG,,,,,0,0
+43168,Dialog,EDEG,"I am Edegar, a minor acolyte in the service of Tyr. Though I have little in the way of divine powers, I try to make myself useful by performing the day to day functions around the temple. ","저는 티르를 섬기는 견습 사제 에데가르입니다. 신성력은 미약하지만, 사원의 일상 업무를 맡아 도움이 되려 합니다.",M3Q01A01EDEG,,,,,0,0
+43169,Dialog,EDEG,If you need the services of a true cleric you will have to speak to Neurik.,진정한 성직자의 도움이 필요하시면 뉴릭과 이야기하셔야 합니다.,M3Q01A01EDEG,,,,,0,0
+43170,Dialog,EDEG,May the sword of Tyr's justice watch over you and keep you safe.,티르의 정의의 검이 그대를 지켜 안전하게 하길.,M3Q01A01EDEG,,,,,0,0
+43171,Dialog,EDEG,"Of course, of course. Neurik has done me a great honor by selecting me for the jury in this case. I am looking forward to performing my duties in the administration of Tyr's justice.","물론이지요, 물론입니다. 이번 사건의 배심원으로 저를 뽑아 주신 건 뉴릭과 제게 베푼 큰 영예입니다. 티르의 정의를 집행하는 제 의무를 다하길 고대하고 있습니다.",M3Q01A01EDEG,,,,,0,0
+43172,Dialog,EDEG,"Even though I disapprove of the Uthgardt's worship of a pagan god, I am not going to pre-judge him. The real culprit in this crime is the demon alcohol.","우스가르트가 이교의 신을 섬기는 건 못마땅하지만, 그를 미리 판단하진 않겠습니다. 이 범죄의 진짜 범인은 악마 같은 술이지요.",M3Q01A01EDEG,,,,,0,0
+43173,Dialog,EDEG,Of course the alcohol does not excuse the Uthgardt's behavior. Anyone who lets themself get drunk must bear the consequences of his actions. This is why I so strongly disapprove of consuming alcoholic beverages.,물론 술이 우스가르트의 행위를 면책하진 않습니다. 스스로 취하도록 내버려 두는 자는 그 행위의 결과를 감수해야 합니다. 그래서 제가 음주를 강력히 못마땅해하는 겁니다.,M3Q01A01EDEG,,,,,0,0
+43174,Dialog,EDEG,"But I am keeping an open mind. I wish you well in this case, my <Lord/Lady>. May the justice of Tyr be served.","하지만 열린 마음으로 임하겠습니다. 이번 사건에서 행운이 따르길, 모험가님. 티르의 정의가 실현되기를.",M3Q01A01EDEG,,,,,0,0
+43175,Dialog,EDEG,You dare offer a bribe to me here in the Hall of Justice! I should report you to Neurik and have you barred from the case!,감히 정의의 전당에서 내게 뇌물을 건네다니! 뉴릭에게 보고해 이 사건에서 당신을 배제하게 해야겠군요!,M3Q01A01EDEG,m3q01a01edegegb1,,,,0,0
+43176,Dialog,EDEG,"Yes, well, your jest was in very poor taste. I won't report you to Neurik, but I suggest in the future you approach this matter with the gravity it deserves.","좋습니다만, 그 농담은 매우 무례했습니다. 뉴릭에게 보고하진 않겠지만, 앞으로는 이 일을 그에 걸맞은 무게로 대하시길 권합니다.",M3Q01A01EDEG,,,,,0,0
+65656,Dialog,EDEG,"Welcome, <FirstName>. I must congratulate you on your performance at Rolgan's trial. You truly served the cause of justice in his acquital.","어서 오세요, <FirstName>. 롤건의 재판에서 보여 준 활약을 축하드립니다. 그의 무죄 판결을 이끌어 진정으로 정의에 봉사하셨어요.",M3Q01A01EDEG,,,,,0,0
+65657,Dialog,EDEG,I know Neurik appreciates all you have done to aid the Temple in this matter.,이 일로 사원을 도운 당신의 모든 수고에 뉴릭도 깊이 감사하고 있습니다.,M3Q01A01EDEG,,,,,0,0
+65658,Dialog,EDEG,"Welcome, <FirstName>. I hope you are not feeling any guilt in failing to gain an acquital for the Uthgardt warrior - his blood is not on your hands.","어서 오세요, <FirstName>. 우스가르트 전사의 무죄 판결을 얻지 못했다고 죄책감을 느끼지 않으셨으면 합니다-그의 피가 당신 손에 묻은 건 아닙니다.",M3Q01A01EDEG,,,,,0,0
+65659,Dialog,EDEG,You did your duty in this matter and presented the evidence to the court so justice might be served. Sometimes it is difficult for people to accept that Tyr's justice is harsh.,당신은 증거를 법정에 제시해 정의가 집행되도록 했습니다. 때로 티르의 정의가 엄혹하다는 사실을 받아들이기 어렵지요.,M3Q01A01EDEG,,,,,0,0
+44598,Dialog,ECKE,"I may be just a simple gnome, but Commander Damas doesn't have the right to treat me like this! What a pompous, self-absorbed jerk!","난 그냥 평범한 노움일지 몰라도, 다마스 사령관이 날 이렇게 대할 권리는 없지! 뭐 그리 잘났다고, 자기밖에 모르는 건방진 주제에!",M3Q02A10ECKE,m3q2a10_complain,,,,0,0
+44599,Dialog,ECKE,"Hey, good to see one of my own kind here. We gnomes have to stick together! If we don't, pompous jerks like Commander Damas will just keep pushing us around.","오, 동족을 여기서 보니 반갑군. 노움들끼리는 뭉쳐야지! 안 그러면 다마스 사령관 같은 건방진 자식들이 우릴 계속 막 부려 먹을 거야.",M3Q02A10ECKE,m3q2a10_complain,,,,0,0
+44600,Dialog,ECKE,Can you blame me? I finally get enough money to retire and buy a nice little homestead in the country and then BAM! I get conscripted into his army.,"내가 이러는 걸 탓하겠어? 평생 모아 은퇴하고 시골에 조그만 집 한 채 마련하려던 참에, 쾅! 그놈 군대에 징집돼 버렸다고.",M3Q02A10ECKE,,,,,0,0
+44601,Dialog,ECKE,"Now he won't even let me return home. I've got to get buyers lined up for my crops. If I don't sort it out soon, I'm going to lose a fortune! And it will all be because of that jerk Damas. ","이젠 집에도 못 돌아가게 막아. 수확물 살 사람들하고 계약을 잡아야 하는데, 빨리 처리 못 하면 큰돈을 날린다고! 이게 다 그 재수 없는 다마스 때문이지.",M3Q02A10ECKE,,,,,0,0
+44602,Dialog,ECKE,"Well, he ain't doing it very damn well! The Uthgardt aren't normally on good terms with Luskan. If Damas wanted to I bet he could bargain a peace treaty and at least get the Uthgardt to call off their warriors.","잘하기는 개뿔! 우스가르트가 원래 러스칸이랑 사이가 좋은 것도 아닌데, 다마스가 마음만 먹으면 평화 협정 정도는 끌어내서 우스가르트 전사들을 물리게 할 수도 있을 거라고!",M3Q02A10ECKE,,,,,0,0
+44603,Dialog,ECKE,But he's too stubborn or too stupid or too arrogant or too blind or too bloodthirsty to even try and make peace. The guy's a complete moron.,"근데 놈은 고집불통에다 멍청하고, 오만하고, 눈먼 데다, 피에 굶주르기까지 해서 평화 시도 따위는 꿈도 안 꾸지. 완전 바보야.",M3Q02A10ECKE,,,,,0,0
+44604,Dialog,ECKE,"No point in that. He doesn't listen to anyone smarter than he is, which means he doesn't listen to ANYBODY!","소용없어. 자기보다 똑똑한 사람 말은 안 듣거든-그 말은, 아무도 안 듣는다는 뜻이지!",M3Q02A10ECKE,,,,,0,0
+44605,Dialog,ECKE,"I'd join you if I could, but until this war with Luskan is over all the conscripts have to stay here to defend Fort Ilkard. If you need anything else, you know where to find me.","나도 합류하고 싶지만, 러스칸과 전쟁이 끝나기 전엔 징집된 사람들은 전부 여기 남아 일카드 요새를 지켜야 해. 다른 게 필요하면, 날 어디서 찾을지 알잖아.",M3Q02A10ECKE,,,,,0,0
+44606,Dialog,ECKE,"Forgive me for saying so, but you might be the only person in this place who's even stupidier than Damas. I don't think there's any point in you speaking to that jerk.","실례지만, 여기서 다마스보다 더 멍청한 사람이라면 아마 당신뿐일 걸. 그 재수 없는 자식이랑 말 섞어 봐야 소용도 없다고 본다.",M3Q02A10ECKE,,,,,0,0
+44607,Dialog,ECKE,"Nothing you can really do, unless you want to buy several hundred bushels of turnips. Wait a minute... there is something you can do!",당신이 순무 몇백 부셸을 사 주겠다는 게 아니라면 딱히 할 수 있는 일은 없어. 잠깐만... 할 수 있는 게 하나 있긴 하다!,M3Q02A10ECKE,,,,,0,0
+44608,Dialog,ECKE,I could write up a note with instructions for my wife and a list of all the buyers she has to get in touch with to sell our crop. You could deliver the note for me! ,아내에게 줄 지시사항과 연락해야 할 구매자 목록을 적은 쪽지를 써 줄 수 있어. 그걸 대신 전해 주겠어?,M3Q02A10ECKE,,,,,0,0
+44609,Dialog,ECKE,"Thanks! This will save me a bundle. Take this note back to my wife and she'll know what to do. Don't worry, I've put down that she should give you a substantial reward for this.","고마워! 큰돈을 굳겠네. 이 쪽지를 아내에게 가져다주면 뭘 해야 할지 알 거야. 걱정 마, 수고비를 넉넉히 주라고 적어 놨어.",M3Q02A10ECKE,m3q02a10eckeelc1,,,,0,0
+44610,Dialog,ECKE,"I didn't really think my valuables would be much use in a war, so I left them all back at the homestead. But if you deliver the note, my wife will make sure the effort is worth your while. ","전쟁에선 귀중품이 쓸모 없을 거라 생각해서, 집에 다 두고 왔거든. 대신 쪽지만 전해 주면, 아내가 충분히 보상해 줄 거야.",M3Q02A10ECKE,,,,,0,0
+44611,Dialog,ECKE,"Hey, I understand. It's only my living. It's only my entire life savings. Don't worry about it. Really.","알겠어. 내 생계고, 내 전 재산이긴 하지만 말이야. 뭐, 신경 쓰지 마. 정말로.",M3Q02A10ECKE,,,,,0,0
+44612,Dialog,ECKE,"Now I sit around in a suit of armor two sizes too big waiting for a Luskan soldier to split my skull. Hell of a retirement, huh?","이젠 두 사이즈는 큰 갑옷을 걸치고 여기 앉아, 러스칸 병사가 내 머리를 쪼개 주기만 기다리는 신세라니. 끝내주는 은퇴지, 안 그래?",M3Q02A10ECKE,,,,,0,0
+44613,Dialog,ECKE,"I really appreciate you taking that note for my wife. If you hadn't agreed to help me, I might have lost my farm. All because of that arrogant, self-absorbed jerk Damas!",아내에게 쪽지를 전해 줘서 정말 고마워. 네가 도와주지 않았다면 농장을 잃었을지도 몰라. 다 그 건방지고 자기밖에 모르는 다마스 때문이었을 텐데!,M3Q02A10ECKE,m3q2a10_complain,,,,0,0
+60587,Dialog,ECKE,"Oh, yeah - they're always telling us run of the mill soldiers about things like that. Hmph! Get serious. Commander Damas doesn't tell us anything.","그래, 그래-평범한 졸병들한테 그런 중대한 얘기를 늘 해 주지, 그치. 허! 농담은 집어치워. 다마스 사령관은 우리한테 아무것도 안 알려 줘.",M3Q02A10ECKE,,,,,0,0
+60588,Dialog,ECKE,"You can ask him about those Words if you want, but I don't know if he'd be any help. He's nothing but a pompous, self absorbed jerk!",그 '권능의 언령'에 관해 묻고 싶다면 가서 물어 보든가. 도움이나 될지 모르겠지만. 녀석은 건방지고 자기밖에 모르는 놈일 뿐이야!,M3Q02A10ECKE,,,,,0,0
+60589,Dialog,ECKE,My farm is down in the fields to the west of Fort Ilkard. It shouldn't be hard to recognize my wife - I don't think there are too many other gnomes living as farmers in the area.,우리 농장은 일카드 요새 서쪽 들판 아래쪽이야. 아내는 금방 알아볼 걸-이 근처에 농사짓는 노움이 몇이나 있겠어.,M3Q02A10ECKE,,,,,0,0
+46958,Creature,Endar Heartfood,Endar,엔다르,ANDARHEART3Q11,,,,,0,0
+46959,Creature,Endar Heartfood,Heartfood,하트푸드,ANDARHEART3Q11,,,,,0,0
+46965,Creature,Eckel,Eckel,에켈,ECKEL3Q21,,,,,0,0
+46996,Creature,Elk Patroller,Elk Patroller,큰사슴 순찰병,M3Q1HOSTILEEL002,,,,,0,0
+46997,Creature,Elk Tribe Guard,Elk Tribe Guard,큰사슴 부족 경비병,M3Q1HOSTILEEL003,,,,,0,0
+46998,Creature,Elk Tribe Warrior,Elk Tribe Warrior,큰사슴 부족 투사,UTHDOORGUA3Q21|UTHGARDTEL3Q21,,,,,0,0
+47000,Creature,Elk Tribe Warrior,Elk Tribe Warrior,큰사슴 부족 투사,M3Q1HOSTILEELK|M3Q1HOSTILEELK9,,,,,0,0
+65744,Creature,Elk Tribe Warrior,Elk Tribe Subchief,큰사슴 부족 하위족장,M3Q1HOSTILEELK,,,,,0,0
+65748,Creature,Elk Tribe Warrior,Elk Tribe Defender,큰사슴 부족 수비대,M3Q1HOSTILEELK|M3Q2D_ELKDEF_07,,,,,0,0
+47001,Creature,Elk Tribe Archer,Elk Tribe Archer,큰사슴 부족 궁수,M3Q1HOSTILEELK2|M3Q2A02LOWARCHER|M3_ELKARCH_07,,,,,0,0
+47014,Creature,Elk Tribe Brute,Elk Tribe Brute,큰사슴 부족 거구,M3Q2A11_CAGED|M3Q2C06DOORBREAKER,,,,,0,0
+47047,Creature,Edegar,Edegar,에데가르,MQ3JUROR1,,,,,0,0
+47061,Creature,Elk Tribeswoman,Elk Tribeswoman,큰사슴 부족 여인,UTHGARDTEL3Q22,,,,,0,0
+47062,Creature,Elk Tribe Child,Elk Tribe Child,큰사슴 부족 아이,UTHGARDTEL3Q23,,,,,0,0
+48839,Creature,Esmerelda,"I don't like this. I don't like this one bit. When I became an archeologist, this was not what I had in mind!","마음에 안 들어요. 전혀 마음에 안 들어요. 고고학자가 되려고 했을 때, 이런 건 생각도 못 했다고요!",M4Q01C03ASS2,,,,,0,0
+48840,Creature,Esmerelda,You should go speak to Master Ford. Maybe you can talk some sense into him and get him to give this all up.,포드 선생님께 가서 말씀드리는 게 좋겠어요. 어쩌면 당신이 그분을 설득해서 이 일을 그만두게 할 수 있을지도 몰라요.,M4Q01C03ASS2,,,,,0,0
+48841,Creature,Esmerelda,"Master Ford is messing with things he doesn't understand. Things like that Source Stone are best left to wizards, not professors and their students!","포드 선생님은 자신이 이해하지 못하는 것들을 건드리고 계세요. 근원석 같은 건 마법사들에게 맡겨야지, 교수나 학생들이 다룰 게 아니에요!",M4Q01C03ASS2,,,,,0,0
+48842,Creature,Esmerelda,"You'll have to see Master Ford about that. I don't know why anyone would want to see that thing, though. There's something evil about that stone - I can feel it!",그건 포드 선생님께 물어봐야 할 거예요. 하지만 왜 누군가 그걸 보고 싶어하는지 모르겠어요. 그 돌에는 뭔가 사악한 게 있어요 - 느껴져요!,M4Q01C03ASS2,,,,,0,0
+48843,Creature,Esmerelda,Go ahead and ask your questions. I'll tell you whatever I know.,질문하세요. 제가 아는 건 뭐든 말씀드릴게요.,M4Q01C03ASS2,,,,,0,0
+48844,Creature,Esmerelda,I see even the slow witted are bitten by the curiosity bug. Seems the search for knowledge is a curse none of us can escape.,둔한 사람도 호기심에 사로잡히는군요. 지식 탐구는 우리 누구도 벗어날 수 없는 저주인 것 같아요.,M4Q01C03ASS2,,,,,0,0
+48845,Creature,Esmerelda,"I am Esmerelda, one of Master Ford's students. He has me concocting philters of crushed gems, as if he hopes that will give him some insight into the Source Stone.","저는 에스메렐다예요, 포드 선생님의 제자 중 한 명이죠. 선생님은 저한테 으깬 보석으로 물약을 만들게 하세요. 그게 근원석에 대한 통찰을 줄 거라 기대하시는 것 같아요.",M4Q01C03ASS2,,,,,0,0
+48846,Creature,Esmerelda,"He's a well-known archeologist. Well-known in his field, anyway. It's a rather small, tight-knit group. Most of them have died off, tampering with arcane treasures they've unearthed.",그분은 유명한 고고학자예요. 적어도 그 분야에서는요. 꽤 작고 긴밀한 집단이죠. 대부분은 발굴한 비전 보물을 건드리다 죽었어요.,M4Q01C03ASS2,,,,,0,0
+48847,Creature,Esmerelda,"Normally Master Ford has the sense not to mess with magic, but he's fascinated by the Source Stone. That's him over there by the door.","평소 포드 선생님은 마법을 건드리지 않을 만큼 분별력이 있는데, 근원석에 매혹당한 것 같아요. 저기 문 옆에 계신 분이 선생님이에요.",M4Q01C03ASS2,,,,,0,0
+48848,Creature,Esmerelda,I know it's a thing of great power - and great evil! I wish we had never found it. There's something alive inside - that's what Master Ford says.,엄청난 힘을 가진 물건이라는 건 알아요 - 그리고 엄청난 악도요! 발견하지 않았으면 좋았을 텐데. 안에 뭔가 살아있는 게 있대요 - 포드 선생님 말씀이에요.,M4Q01C03ASS2,,,,,0,0
+48849,Creature,Esmerelda,"You'd think that would make him more cautious, but he's behaving very strangely. It's like the stone has some strange hold over him.","그럼 더 조심하실 것 같지만, 아주 이상하게 행동하세요. 마치 그 돌이 선생님을 이상하게 사로잡은 것 같아요.",M4Q01C03ASS2,,,,,0,0
+48850,Creature,Esmerelda,I guess I shouldn't be surprised you've never heard of him.,당신이 그분에 대해 들어본 적 없다고 해도 놀랍지 않네요.,M4Q01C03ASS2,,,,,0,0
+48851,Creature,Esmerelda,"They're with the Source Stone. Master Ford thinks they might help unlock the secrets of what's inside. Personally, there are some secrets I prefer not to know.",근원석과 함께 있어요. 포드 선생님은 그것들이 안에 있는 것의 비밀을 푸는 데 도움이 될 거라 생각하세요. 개인적으로는 알고 싶지 않은 비밀들이 있어요.,M4Q01C03ASS2,,,,,0,0
+48852,Creature,Esmerelda,"But this stone isn't like normal gems. We have no idea what we're getting into here, and I don't like this one bit.",하지만 이 돌은 일반 보석과 달라요. 우리가 뭘 다루는지 전혀 몰라요. 전혀 마음에 들지 않아요.,M4Q01C03ASS2,,,,,0,0
+49092,Creature,Esmerelda,Esmerelda,에스메렐다,M4Q01C03ASS2,,,,,0,0
+49645,Creature,Erdan,Can't you see I'm practicing my drills? You're a <class>. You should know how hard basic training is. So why are you bothering me? ,훈련 중인 게 안 보여요? 당신도 <class>잖아요. 기초 훈련이 얼마나 힘든지 알잖아요. 왜 저를 방해하는 거죠?,M0Q01A05ERDA,,,,,0,0
+49646,Creature,Erdan,"Can't you see I'm practicing my drills? The Academy might go easy on a <class> like you, but those of us training under Herban can't afford to waste our time chatting! ","훈련 중인 게 안 보여요? 사관학교는 당신 같은 <class>에게는 관대할지 몰라도, 허반 밑에서 훈련받는 우리는 잡담할 시간이 없어요!",M0Q01A05ERDA,,,,,0,0
+49647,Creature,Erdan,Back again? I'm pretty busy here - what do you want this time?,또 왔군요? 여기서 꽤 바쁜데 - 이번엔 뭘 원하죠?,M0Q01A05ERDA,,,,,0,0
+49648,Creature,Erdan,"Look, I'm not trying to be rude. It's just that Herban doesn't like us taking breaks from our drills. It's a sign of weakness! ",무례하려는 게 아니에요. 다만 허반이 훈련 중 휴식을 싫어하거든요. 나약함의 표시라면서요!,M0Q01A05ERDA,,,,,0,0
+49649,Creature,Erdan,"Okay, but make it quick. I need to finish my drills so I can attend the graduation ceremonies. I don't want to miss my chance to meet Lady Aribeth.","알겠어요, 빨리 하세요. 훈련을 마치고 졸업식에 참석해야 해요. 아리베스 경을 만날 기회를 놓치고 싶지 않아요.",M0Q01A05ERDA,nw_d1_talklevel,,,,0,0
+49650,Creature,Erdan,Then I'll get back to my drills.,그럼 훈련으로 돌아가겠어요.,M0Q01A05ERDA,,,,,0,0
+49651,Creature,Erdan,"Get on with it then. The sooner you ask, the sooner I can get back to my training.",그럼 어서 물어보세요. 빨리 물으면 빨리 훈련으로 돌아갈 수 있어요.,M0Q01A05ERDA,,,,,0,0
+49652,Creature,Erdan,Lady Aribeth represents everything the Academy stands for: skill and bravery and honor! She's the reason I joined the Academy in the first place.,아리베스 경은 사관학교가 추구하는 모든 것을 대표해요. 기량과 용기와 명예를요! 제가 사관학교에 들어온 이유가 그분이에요.,M0Q01A05ERDA,,,,,0,0
+49653,Creature,Erdan,"She's young, but she's already proven her heroism a dozen times over. That's why Lord Nasher put her in charge of dealing with the plague.","젊으시지만, 이미 수십 번이나 영웅적 행적을 보여주셨어요. 그래서 나셰르 영주께서 역병 대응 책임을 맡기신 거예요.",M0Q01A05ERDA,,,,,0,0
+49654,Creature,Erdan,"It's not for the faint of heart, that's for sure! Rise at dawn, march for an hour and then an hour of drills. And that's just before breakfast! ",심약한 사람들은 견딜 수 없죠! 새벽에 일어나서 한 시간 행군하고 한 시간 훈련이에요. 그게 아침 식사 전이에요!,M0Q01A05ERDA,,,,,0,0
+49655,Creature,Erdan,"Herban doesn't stand for weakness or failure. He drives the recruits hard, but these are tough times. Anyone who can't take it probably shouldn't be training at the Academy anyway.","허반은 나약함이나 실패를 용납하지 않아요. 신병들을 혹독하게 몰아붙이지만, 지금은 힘든 시기니까요. 견디지 못하는 사람은 애초에 사관학교에서 훈련받을 자격이 없는 거죠.",M0Q01A05ERDA,,,,,0,0
+49656,Creature,Erdan,"The training is tough, but the rewards are worth it. Lady Aribeth herself is even here to congratulate the graduating recruits. The chance to meet her in person is inspiration enough for me.","훈련은 힘들지만 보람은 충분해요. 아리베스 경께서 직접 졸업하는 신병들을 축하해 주러 오셨으니까요. 그분을 직접 뵐 수 있다는 것만으로도 전 충분해요.",M0Q01A05ERDA,,,,,0,0
+49657,Creature,Erdan,"I try not to think about it, to tell you the truth. I need to stay focused on my training. But since you brought it up, there's one thing I don't understand about the Wailing Death.","솔직히 말하면 생각하지 않으려고 해요. 훈련에 집중해야 하거든요. 하지만 당신이 꺼내셨으니, 울부짖는 죽음에 대해 이해가 안 가는 게 하나 있어요.",M0Q01A05ERDA,,,,,0,0
+49658,Creature,Erdan,"There's something unnatural about this plague, though it seems nobody wants to admit it. I guess they're afraid of panic in the streets. But you can't deny the facts. ",이 역병에는 뭔가 부자연스러운 게 있어요. 아무도 인정하고 싶어하지 않는 것 같지만요. 거리에서 공황이 일어날까 두려워하는 것 같아요. 하지만 사실을 부정할 수는 없죠.,M0Q01A05ERDA,,,,,0,0
+49659,Creature,Erdan,"I heard about Blackstaff and his cure. I don't like putting my faith in wizards, but I heard Lady Aribeth trusts him. She's at the Academy, you know. I hope I get a chance to meet her. ","검은지팡이와 그의 치료제에 대해 들었어요. 마법사를 믿는 건 싫지만, 아리베스 경이 그를 신뢰한다고 들었어요. 그분이 사관학교에 계세요. 만날 기회가 있었으면 좋겠어요.",M0Q01A05ERDA,,,,,0,0
+49660,Creature,Erdan,Where did it come from? Neverwinter's the only city that seems to be suffering. And why can't the priests cure it? ,어디서 온 걸까요? 네버윈터만 고통받는 것 같아요. 그리고 왜 사제들이 치료하지 못하는 거죠?,M0Q01A05ERDA,,,,,0,0
+49661,Creature,Erdan,Defend the Waterdhavian creatures! Don't let them be taken!,워터딥의 생명체들을 지켜라! 빼앗기지 마!,M0Q01A05ERDA,,,,,0,0
+49662,Creature,Erdan,"You can't be serious, everybody knows fighting between recruits will get you kicked out of the Academy! Take your blustering threats somewhere else. I've got to get back to my drills.",설마 진심은 아니겠죠. 신병끼리 싸우면 사관학교에서 쫓겨난다는 건 다들 알잖아요! 허세 가득한 협박은 다른 데 가서 하세요. 전 훈련으로 돌아가야 해요.,M0Q01A05ERDA,,,,,0,0
+50953,Creature,Erdan,Erdan,에르단,M0Q01A05ERDA,,,,,0,0
+50907,Dialog,EFINAL,Kill the Dryad!,드라이어드를 죽여라!,M1Q0EFINAL,,,,vs_ngobkngm_053,0,0
+50908,Dialog,EFINAL,No! I must escape!,안 돼! 탈출해야겠어!,M1Q0EFINAL,,,,vs_nnymphf_061,0,0
+50909,Dialog,EFINAL,They've freed the Yuan-Ti!,놈들이 유안티를 풀어줬어!,M1Q0EFINAL,,,,vs_ndesthem_156,0,0
+50910,Dialog,EFINAL,"My bonds are broken, I must escape this place.","결박이 풀렸다, 이곳을 빠져나가야 해.",M1Q0EFINAL,,,,vs_ngulnanf_061,0,0
+60134,Dialog,EIMPBOSS,Heeheehee! Me kill you manthing! Heehee!,히히히! 나 너 죽인다 인간놈! 히히!,M2EIMPBOSS,,,,,0,0
+60135,Dialog,EOGREBOSS,"I shall crush you, puny manling!","조그만 인간놈, 으스러뜨려주마!",M2EOGREBOSS,,,,,0,0
+60136,Dialog,EQUASBOSS,You die die die! Heehee!,너 죽어 죽어 죽어! 히히!,M2EQUASBOSS,,,,,0,0
+61336,Creature,Enoch Tonn,Tonn,톤,M4_TYR_COMMONM3,,,,,0,0
+61337,Creature,Enoch Tonn,Enoch,에녹,M4_TYR_COMMONM3,,,,,0,0
+63129,Creature,Escaped Sorcerer,Escaped Sorcerer,탈옥한 요술사,M1Q2BOSSMAGE,,,,,0,0
+64263,Dialog,EALTAR,This stone altar hums with energy. It would not take much to shatter the stressed structure.,이 돌 제단은 에너지로 웅웅거립니다. 긴장된 구조를 부수는 데는 많은 힘이 필요하지 않을 것입니다.,M1Q5EALTAR,,,,,0,0
+94580,Dialog,EALTAR,Smoke billows from the altar in front of you.,당신 앞의 제단에서 연기가 피어오릅니다.,Q2EALTAR,,,,,0,0
+94581,Dialog,EALTAR,Peering more closely into the smoke you discern a strange shimmering vortex.  Possibly a gateway to another dimension.,연기를 더 자세히 들여다보니 이상하게 반짝이는 소용돌이가 보입니다. 아마도 다른 차원으로의 관문일 것입니다.,Q2EALTAR,,,,,0,0
+65740,Creature,Elk Tribe Hero,Elk Tribe Hero,큰사슴 부족 영웅,M3_ELKHERO_12,,,,,0,0
+65741,Creature,Elk Tribe Sniper,Elk Tribe Sniper,큰사슴 부족 저격수,M3_ELKSNIPER_12,,,,,0,0
+65745,Creature,Elk Tribe Druid,Elk Tribe Druid,큰사슴 부족 드루이드,M3Q2ADRUID,,,,,0,0
+65746,Creature,Elk Tribe Defender Subchief,Elk Tribe Defender Subchief,큰사슴 부족 수호자 부족장,M3Q2D07SUBCHIEFS|M3Q2D_ELKSUB_12,,,,,0,0
+65747,Creature,Elk Tribe Defender Archer,Elk Tribe Defender Archer,큰사슴 부족 수호자 궁수,M3Q2DELKARCHER|M3Q2D_ELKARCH_07,,,,,0,0
+65749,Creature,Elk Tribe Worshipper,Elk Tribe Worshipper,큰사슴 부족 숭배자,M3Q2D_WORSHIPF|M3Q2D_WORSHIPM,,,,,0,0
+65754,Creature,Elk Tribe Shaman,Elk Tribe Shaman,큰사슴 부족 주술사,UTHGARDTEL3Q24,,,,,0,0
+65988,Dialog,ENDDOOR,You can not leave the Academy yet.,아직 사관학교를 떠날 수 없습니다.,M1Q0ENDDOOR,,,,,0,0
+66721,Dialog,ELK,I must return to my duties.,임무로 돌아가야 합니다.,M3Q2_ELK,,,,,0,0
+79251,Dialog,EMPTYTOME,Fresh ink still glistens on the ancient vellum.,고대 양피지 위에서 신선한 잉크가 여전히 반짝입니다.,EMPTYTOME,,,,,0,0
+79252,Dialog,EMPTYTOME,"The ink that once covered these pages has all but faded away, leaving a pale, blank surface. ","한때 이 페이지를 덮었던 잉크는 거의 사라져서, 창백하고 빈 표면만 남았습니다.",EMPTYTOME,,,,,0,0
+79253,Dialog,EMPTYTOME,You dip your quill into the bottle of ink and begin...,잉크병에 깃털펜을 담그고 시작합니다...,EMPTYTOME,,,,,0,0
+79254,Dialog,EMPTYTOME,"It doesn't take you long to write your tale. You lay down your quill, satisfied.",이야기를 쓰는 데 오래 걸리지 않았습니다. 만족하며 깃털펜을 내려놓습니다.,EMPTYTOME,,,,,0,0
+79255,Dialog,EMPTYTOME,You can't think of a story to write. Perhaps you'll have to come back later.,쓸 이야기가 떠오르지 않습니다. 나중에 다시 와야 할 것 같습니다.,EMPTYTOME,,,,,0,0
+84490,Creature,Eyeball,Eyeball,눈알,CUT107_BEHOLDER3|Q2A_BAT2_BEH3,,,,,0,0
+90386,Creature,Erinyes,Erinyes,에리니에스,HX_HELL_ERIN,,,,,0,0
+92719,Dialog,ENCGUARD1,"""We'll just wait here until those reinforcements arrive.""",지원군이 올 때까지 여기서 기다리겠습니다.,Q2A1ENCGUARD1,,,,,0,0
+92720,Dialog,ENCGUARD1,"*huff... puff* ""My <Lord/Lady>. There is a small band of the enemy just around the corner. They drove us back.""","*헉... 헉* ""나리. 저 모퉁이에 적의 소규모 무리가 있습니다. 그들이 우리를 쫓아냈습니다.""",Q2A1ENCGUARD1,,,,,0,0
+92721,Dialog,ENCGUARD1,"""We can't handle them by ourselves. We need reinforcements.""",우리끼리는 감당할 수 없습니다. 지원군이 필요합니다.,Q2A1ENCGUARD1,,,,,0,0
+92722,Dialog,ENCGUARD1,"""No, no. Of course not. Uh... we'll just stay here and wait for reinforcements.""","아니, 아닙니다. 물론 아니죠. 어... 그냥 여기 있으면서 지원군을 기다리겠습니다.",Q2A1ENCGUARD1,,,,,0,0
+92723,Dialog,ENCGUARD1,"""Suit yourself. We'll... we'll just wait here for the reinforcements to arrive.""",마음대로 하세요. 우린... 그냥 여기서 지원군이 올 때까지 기다리겠습니다.,Q2A1ENCGUARD1,,,,,0,0
+92726,Dialog,ENCGUARD2,"""We'll, uh... we'll stay here and make sure nothing sneaks up on you from behind.""","우린, 어... 여기 있으면서 뒤에서 기습하는 게 없도록 확인하겠습니다.",Q2A1ENCGUARD2,,,,,0,0
+94584,Dialog,EGATES,There does not appear to be any way to open this gate...and the use of force seems to do nothing.,이 문을 열 방법이 없어 보입니다... 그리고 힘을 써도 아무 소용이 없는 것 같습니다.,Q2EGATES,,,,,0,0
+94585,Dialog,EREAPER,The Reaper seems to be some kind of custodian of this strange place.  He looks at you expectantly.,수확자는 이 이상한 장소의 관리인 같습니다. 그가 당신을 기대에 차서 바라봅니다.,Q2EREAPER,,,,,0,0
+94586,Dialog,EREAPER,Behold - this door will take you to your party leader.,보라 - 이 문은 당신을 파티 리더에게 데려갈 것이다.,Q2EREAPER,act_q2ereaper_2,,,,0,0
+94587,Dialog,EREAPER,Behold - this door will return you.,보라 - 이 문은 당신을 되돌려 보낼 것이다.,Q2EREAPER,act_q2ereaper_1,,,,0,0
+94592,Dialog,ETABLE,Before you is a table filled with various ingredients and beakers to mix them in.,당신 앞에는 다양한 재료와 그것들을 섞을 비커로 가득 찬 탁자가 있습니다.,Q2ETABLE,,,,,0,0
+94685,Dialog,EVINEBASIN,Before you is a vine covered basin covered in elven runes and bathed in a green light.,당신 앞에는 덩굴로 덮이고 엘프 룬으로 새겨졌으며 녹색 빛에 물든 대야가 있습니다.,Q2EVINEBASIN,,,,,0,0
+94943,Creature,Evil Nymph,Evil Nymph,사악한 님프,X2_Q2_VAMPNYMPH,,,,,0,0
+94962,Creature,Evil Fairy,Evil Fairy,사악한 요정,X2_Q2FAIRY1,,,,,0,0
+100094,Creature,Erinyes Quarry Worker,Erinyes Quarry Worker,에리니에스 채석장 노동자,H2_ERINYES,,,,,0,0
+109811,Creature,Erinyes Quarry Worker,Weary Quarry Worker,지친 채석장 노동자,H2_ERINYES|H2_IMP,,,,,0,0
+104220,Dialog,EVILGUARD1,"""Look at these pathetic Eilistraee scum. I have no idea why Matron Myrune has thrown our lot in with them.""",저 한심한 에일리스트레이 쓰레기들 좀 봐. 대모 미룬이 왜 우리를 그들과 함께 던져 넣었는지 모르겠어.,Q2A3EVILGUARD1,act_q2a3fight_3,,,,0,0
+104222,Dialog,EVILGUARD2,"""Listen to those cowards - there's no way an army full of their type will ever stop the Valsharess! I say we teach these worms a lesson!""",저 겁쟁이들 말 좀 들어봐 - 저런 부류로 가득 찬 군대가 발샤레스를 막을 방법은 없어! 저 벌레들한테 교훈을 줘야 해!,Q2A3EVILGUARD2,act_q2a3fight_3,,,,0,0
+104229,Dialog,EVILGUARD2,"The drow takes an involuntary step back, then quickly composes himself again. ""Come on, let's go. I've had enough of the Seer's followers for one day.""","드로우가 무의식적으로 한 걸음 물러서다가 재빨리 자신을 추스릅니다. ""가자, 가자고. 오늘은 선견자 추종자들을 충분히 봤어.""",Q2A3EVILGUARD2,,,,,0,0
+104224,Dialog,EVILGUARD3,"""Is that so? Well, surfacer... any advice on how we can win a war when you're stuck with a bunch of pacifists like the followers of Eilistraee on your side?""","그래? 그럼, 지상인... 에일리스트레이 추종자들 같은 평화주의자들과 함께 있으면서 어떻게 전쟁에 이길 수 있는지 조언 좀 해줄래?",Q2A3EVILGUARD3,,,,,0,0
+104225,Dialog,EVILGUARD3,"""Hmph! Another pacifist... just what House Maeviir needed.""",흥! 또 평화주의자라... 메비어 가문에 딱 필요했던 것이군.,Q2A3EVILGUARD3,,,,,0,0
+104234,Dialog,EVILNOBLE,"""Maybe you're not so bad, surfacer. At least you know cowards when you see them.""","어쩌면 넌 그렇게 나쁘지 않을지도 몰라, 지상인. 적어도 겁쟁이를 보면 알아보는군.",Q2A3EVILNOBLE,,,,,0,0
+104235,Dialog,EVILNOBLE,"""I still don't like the idea of having the Seer's pacifists on our side, but maybe with you here we stand half a chance.""","여전히 선견자의 평화주의자들을 우리 편에 두는 건 싫지만, 네가 여기 있으면 반은 이길 가능성이 있을지도 몰라.",Q2A3EVILNOBLE,,,,,0,0
+104236,Dialog,EVILNOBLE,"""You're as bad as the rest of the Seer's pets. How can  you lead an army to victory with such pacifists in tow? Only those able to show strength will survive the coming days.""",넌 선견자의 애완동물들만큼이나 형편없어. 그런 평화주의자들을 데리고 어떻게 군대를 승리로 이끌 수 있겠어? 힘을 보여줄 수 있는 자들만이 다가올 날들에서 살아남을 거야.,Q2A3EVILNOBLE,,,,,0,0
+104237,Dialog,EVILNOBLE,"""I just hope that when the battles start, you show more courage than you did here.""",전투가 시작되면 여기서보다 더 용기를 보여주기를 바랄 뿐이야.,Q2A3EVILNOBLE,,,,,0,0
+105143,Dialog,ENTRYTRACKS,You notice a large group of humanoid tracks in the area - coming and going.,이 지역에서 수많은 인간형 생물의 발자국을 발견합니다 - 오고가는 흔적이 있습니다.,Q2D_ENTRYTRACKS,,,,,0,0
+105144,Dialog,ENTRYTRACKS,"A large group of humanoids seems to have been herded in this direction, escorted by several reptilian creatures.",수많은 인간형 생명체들이 이 방향으로 몰려온 것 같습니다. 여러 파충류 생명체들이 호위했습니다.,Q2D_ENTRYTRACKS,,,,,0,0
+105145,Dialog,ENTRYTRACKS,"A large group of humanoids seems to have been herded in this direction. They're feet were shackled or bound and they were escorted by several lizardmen, judging by the tracks.","수많은 인간형 생물들이 이 방향으로 몰려온 것 같습니다. 발자국을 보니 발이 족쇄에 묶이거나 결박되었고, 여러 리자드맨이 호위했습니다.",Q2D_ENTRYTRACKS,,,,,0,0
+105287,Creature,Expressionless Duergar,"A strange half-smile and a vacant expression is all the response you get - eyes that look, but see nothing.",당신이 받는 반응은 이상한 반쯤 웃는 얼굴과 멍한 표정뿐입니다 - 보지만 아무것도 보지 못하는 눈입니다.,Q2DTHRALL1,,,,,0,0
+107877,Creature,Expressionless Duergar,Expressionless Duergar,무표정한 듀에르가,Q2DTHRALL1,,,,,0,0
+106424,Creature,Eldath Ra'sin,"The stern figure of a drow warrior materializes out of the shadows. His grace is that of a panther ready to spring, and he appraises you openly with alien, violet eyes before he speaks.","드로우 전사의 엄격한 모습이 그림자에서 나타납니다. 그의 우아함은 뛰어오를 준비가 된 표범 같고, 말하기 전에 이질적인 보라색 눈으로 공공연히 당신을 평가합니다.",Q5A_ELDATH,,,,,0,0
+106425,Creature,Eldath Ra'sin," ""So. What have we here?"" He smiles broadly, a chilling sight. ""None other than the very one who hampered the attack efforts in Undermountain, it appears.""","""그래. 여기 누가 있나?"" 그가 활짝 웃는데, 오싹한 광경입니다. ""언더마운틴에서 공격 노력을 방해했던 바로 그 자인 것 같군.""",Q5A_ELDATH,,,,,0,0
+106426,Creature,Eldath Ra'sin,"""We have been looking for you for a while, <race> <male/female>, but we certainly did not expect you to fall right into our hands.""","한동안 당신을 찾고 있었지, <race> 놈. 하지만 당신이 우리 손에 바로 떨어질 줄은 정말 몰랐어.",Q5A_ELDATH,,,,,0,0
+106427,Creature,Eldath Ra'sin,"He chuckles lightly. ""I am not here to parley or to listen to your pathetic mumblings, surfacer. I am here to kill you. The Valsharess has had quite enough of you.""","그가 가볍게 웃습니다. ""협상하거나 네 한심한 중얼거림을 들으러 온 게 아니야, 지상인. 널 죽이러 왔지. 발샤레스께서 네놈에게 질려하셨거든.""",Q5A_ELDATH,,,,,0,0
+106428,Creature,Eldath Ra'sin,"<StartCheck>[Failure]</Start> ""Enough! It is time that you felt the wrath of the Valsharess.""","<StartCheck>[실패]</Start> ""충분해! 이제 발샤레스의 분노를 느낄 시간이야.""",Q5A_ELDATH,,,,,0,0
+108598,Creature,Eldath Ra'sin,Eldath,엘다스,Q5A_ELDATH,,,,,0,0
+108599,Creature,Eldath Ra'sin,Ra'sin,라신,Q5A_ELDATH,,,,,0,0
+106504,Dialog,EMPTY_CAVE,The cave inside is empty.,안의 동굴은 비어 있습니다.,Q6_EMPTY_CAVE,,,,,0,0
+111379,Creature,Emerald Golem,Emerald Golem,에메랄드 골렘,TM_CR_THAYGOLEM2,,,,,0,0

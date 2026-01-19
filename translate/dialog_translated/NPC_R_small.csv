@@ -1,0 +1,187 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+5641,Creature,Revenant,Revenant,레버넌트,M2Q1CHREVENANT|NW_REVENANT001,,,,,0,0
+6008,Creature,Raven,Raven,까마귀,CUT5_RAVEN|EMPATHYCROW|SHADOWRAVEN|X2_RAVEN,,,,,0,0
+91456,Creature,Raven,"""Squawk, squawk.""","까악, 까악.",CUT5_RAVEN,,,,,0,0
+91457,Creature,Raven,The raven has been watching a chicken with a bit of a limp. She wishes the stupid beast would hurry up and die.,까마귀는 절뚝거리는 닭 한 마리를 지켜보고 있습니다. 그 멍청한 짐승이 빨리 죽기를 바라고 있습니다.,CUT5_RAVEN,,,,,0,0
+91458,Creature,Raven,"The raven wonders why any rational creature, would want to live in such a dark and desolate place.",까마귀는 이성적인 생명체가 왜 이렇게 어둡고 황량한 곳에 살고 싶어 하는지 궁금해합니다.,CUT5_RAVEN,,,,,0,0
+91459,Creature,Raven,The raven is unsure if the number of corpses to feed on really makes up for the lack of flying room here in Undermountain.,까마귀는 먹을 수 있는 시체의 수가 언더마운틴의 비좁은 비행 공간을 보상해 주는지 확신이 서지 않습니다.,CUT5_RAVEN,,,,,0,0
+91460,Creature,Raven,The raven insists that it is fully in keeping with the laws of the universe that a raven can hover in one spot.,까마귀는 까마귀가 한 곳에 정지 비행할 수 있는 것이 우주의 법칙에 완전히 부합한다고 주장합니다.,CUT5_RAVEN,,,,,0,0
+91461,Creature,Raven,The raven hurriedly tells you that something has happened to the sky and it expects you to make the problem go away... now!,까마귀가 급히 하늘에 뭔가 일이 생겼고 당신이 그 문제를 해결해 주길 기대한다고 말합니다... 지금 당장!,CUT5_RAVEN,,,,,0,0
+91462,Creature,Raven,The raven is rather confused about a pun involving foul and fowl. It decides that puns must be some kind of foolish earthbound humor.,까마귀는 'foul'과 'fowl'에 관한 말장난에 다소 혼란스러워합니다. 말장난은 어떤 어리석은 지상 생명체의 유머일 것이라고 결론 내립니다.,CUT5_RAVEN,,,,,0,0
+12405,Creature,Red Slaad,Fire Beetle,불 딱정벌레,M2Q3IFIRE,,,,,0,0
+12529,Creature,Red Slaad,Fire Elemental,불의 원소 정령,M2Q3IFIRE|M3_FIRE|Q3_FIRE_ELEMENT,,,,,0,0
+12531,Creature,Red Slaad,Elder Fire Elemental,불의 원소 정령 장로,M2Q3IFIRE,,,,,0,0
+12533,Creature,Red Slaad,Huge Fire Elemental,거대 불의 원소 정령,M2Q3IFIRE|M3Q3D_FIREELEM|M3Q3FIREELEM1|M3Q3FIREELEM2|M3Q3FIREELEM3|M3Q3FIREELEM4|NW_BOSS,,,,,0,0
+12558,Creature,Red Slaad,Fire Giant,불의 거인,M2Q3IFIRE|M3Q4D12_FIRE|M3Q4E03_GIANT|M4Q4G05_GIANTP|M4Q4G06_GIANT,,,,,0,0
+12714,Creature,Red Slaad,Red Slaad,붉은 슬라드,M2Q3IFIRE|NW_SLAADRED|TM_CR_ART_SLAADR,,,,,0,0
+12682,Creature,Rakshasa,Rakshasa,락샤사,DB_VEJONI_TRUE|Q2CGUARDRAK,,,,,0,0
+40707,Creature,Rakshasa,Rakshasa,락샤사,2Q4D_RAKSHASA,,,,,0,0
+23949,Dialog,RIDDLE1,"Inscribed on the chest are the words ""A wall at arms length.""","상자에 새겨진 글귀: ""팔 길이만큼의 벽.""",M1S1RIDDLE1,,,,,0,0
+23950,Dialog,RIDDLE2,"Inscribed on the chest are the words ""Tooth of the forge.""","상자에 새겨진 글귀: ""대장간의 이빨.""",M1S1RIDDLE2,,,,,0,0
+23951,Dialog,RIDDLE3,"Inscribed on the chest are the words ""A splinter delivered in flight.""","상자에 새겨진 글귀: ""비행 중에 전달되는 파편.""",M1S1RIDDLE3,,,,,0,0
+23952,Dialog,RIDDLE4,"Inscribed on the chest are the words ""Diamond of the forest, if the seasons never changed.""","상자에 새겨진 글귀: ""계절이 변하지 않는다면, 숲의 다이아몬드.""",M1S1RIDDLE4,,,,,0,0
+24752,Creature,Ritual Zombie,Ritual Zombie,의식 좀비,RITUAL_ZOMBIE,,,,,0,0
+38975,Dialog,RIDDLESIGN01,19,19,M2Q5RIDDLESIGN01,,,,,0,0
+38976,Dialog,RIDDLESIGN02,16,16,M2Q5RIDDLESIGN02,,,,,0,0
+38977,Dialog,RIDDLESIGN03,36,36,M2Q5RIDDLESIGN03,,,,,0,0
+38978,Dialog,RIDDLESIGN04,24,24,M2Q5RIDDLESIGN04,,,,,0,0
+38979,Dialog,RIDDLESIGN05,20,20,M2Q5RIDDLESIGN05,,,,,0,0
+38980,Dialog,RIDDLESIGN06,38,38,M2Q5RIDDLESIGN06,,,,,0,0
+38981,Dialog,RIDDLESIGN07,32,32,M2Q5RIDDLESIGN07,,,,,0,0
+40015,Dialog,ROADSIGN001,To the Green Griffon Inn.,푸른 그리핀 여관으로.,M2ROADSIGN001,,,,,0,0
+40016,Dialog,ROADSIGN002,To Neverwinter Wood.,네버윈터 숲으로.,M2ROADSIGN002,,,,,0,0
+40017,Dialog,ROADSIGN003,To Charwood.,그을린숲으로.,M2ROADSIGN003,,,,,0,0
+40018,Dialog,ROADSIGN004,To Green Griffon Inn.,푸른 그리핀 여관으로.,M2ROADSIGN004,,,,,0,0
+40019,Dialog,ROADSIGN004,To Neverwinter Wood.,네버윈터 숲으로.,M2ROADSIGN004,,,,,0,0
+40020,Dialog,ROADSIGN004,To Charwood.,그을린숲으로.,M2ROADSIGN004,,,,,0,0
+40021,Dialog,ROADSIGN005,To Port Llast.,라스트 항구로.,M2ROADSIGN005,,,,,0,0
+40974,Creature,Revat,Revat,레바트,REVAT,,,,,0,0
+42550,Creature,Rimardo Domine,Rimardo,리마르도,2Q6_RIMARDO,,,,,0,0
+42551,Creature,Rimardo Domine,Domine,도미네,2Q6_RIMARDO,,,,,0,0
+43383,Creature,Rolgan,"Yes, my <lord/lady>. What do you wish to know?","예, 모험가님. 무엇을 알고 싶으십니까?",ROLGAN3Q11,,,,,0,0
+43389,Creature,Rolgan,"My wife convinced me to go speak with Griff, to beg him to return the heirlooms to me. But when I approached Griff, he attacked as soon as he saw me. I had no choice but to defend myself.","아내가 그리프를 찾아가 가보를 돌려달라고 애원하라고 설득했습니다. 하지만 그리프에게 다가갔을 때, 그는 저를 보자마자 공격했습니다. 자신을 방어할 수밖에 없었습니다.",ROLGAN3Q11,m3q01a01iglagb21,,,,0,0
+43390,Creature,Rolgan,"No, my mind was hazy with the fog from the many cups I had consumed. It was as if I was in a dream, nothing seemed real. I hardly even realized what was happening until it was too late and Griff was dead. ","아니, 제 정신은 마신 술잔들로 인해 흐릿했습니다. 마치 꿈속에 있는 것 같았고, 아무것도 현실처럼 느껴지지 않았습니다. 너무 늦어서 그리프가 죽을 때까지 무슨 일이 일어나는지 거의 깨닫지 못했습니다.",ROLGAN3Q11,m3q01a01iglagb22,,,,0,0
+43391,Creature,Rolgan,"That is not my intent. I know I must be responsible for my own actions, my <lord/lady>. But that night I was not thinking rationally. When Griff attacked, my instincts took over and I defended myself. I am no murderer, and I hope the court can understand that.","그럴 의도는 없었습니다. 제 행동에 책임을 져야 한다는 것을 압니다, 모험가님. 하지만 그날 밤 저는 이성적으로 생각하지 못했습니다. 그리프가 공격했을 때, 본능이 앞섰고 저는 자신을 방어했습니다. 저는 살인자가 아니며, 법정이 그것을 이해해 주기를 바랍니다.",ROLGAN3Q11,m3q01a01iglagb27,,,,0,0
+43392,Creature,Rolgan,"I believe the Lords' Alliance must appease their own soldiers. If an innocent Uthgardt must be sacrificed for that end, they would not hesitate to do so. ","영주 연합은 자신들의 병사들을 달래야 합니다. 그 목적을 위해 무고한 우스가르트를 희생시켜야 한다면, 주저하지 않을 것입니다.",ROLGAN3Q11,m3q01a01iglaelc4,,,,0,0
+43394,Creature,Rolgan,I am a true Uthgardt warrior of the Black Lion tribe! I have earned the honor and respect of all my people!,나는 검은 사자 부족의 진정한 우스가르트 전사다! 내 모든 동족의 명예와 존경을 얻었다!,ROLGAN3Q11,,,,,0,0
+43396,Creature,Rolgan,I would be shamed by my actions. I *am* shamed by my actions.,제 행동으로 수치스러울 것입니다. 제 행동으로 *수치스럽습니다*.,ROLGAN3Q11,,,,,0,0
+43427,Creature,Rolgan,"This trial is about my culture and beliefs, not about my actions. ","이 재판은 제 행동에 관한 것이 아니라, 제 문화와 신념에 관한 것입니다.",ROLGAN3Q11,m3q01a01iglagb23,,,,0,0
+47053,Creature,Rolgan,Rolgan,롤간,ROLGAN3Q11,,,,,0,0
+43638,Dialog,ROLG,You are here because Neurik sent you? You are here because of the trial?,뉴릭이 당신을 보냈습니까? 재판 때문에 여기 온 겁니까?,M3Q01A01ROLG,,,,vs_nbarbam3_050,0,0
+43639,Dialog,ROLG,"Go if you wish. I must stay here, though my heart aches to return to my tribe. When the trial is over, Uthgar willing, I will be allowed to return to my home.","원한다면 가십시오. 저는 여기 머물러야 합니다. 부족으로 돌아가고 싶은 마음이 간절하지만. 재판이 끝나면, 우스가르의 뜻이라면, 집으로 돌아갈 수 있을 것입니다.",M3Q01A01ROLG,,,,,0,0
+43640,Dialog,ROLG,I am called a murderer and now I await judgment. Neurik can explain it better. I am unfamiliar with the ways of justice among your kind.,저는 살인자라 불리며 지금 심판을 기다리고 있습니다. 뉴릭이 더 잘 설명할 수 있을 것입니다. 저는 당신들의 정의 방식에 익숙하지 않습니다.,M3Q01A01ROLG,,,,,0,0
+43641,Dialog,ROLG,"Griff invited me to play a game of chance. Not wanting to spurn this gesture of friendship, I accepted his invitation and the drinks he readily offered me.","그리프가 도박을 하자고 초대했습니다. 우정의 제스처를 거절하고 싶지 않아서, 저는 그의 초대와 그가 흔쾌히 내민 술을 받아들였습니다.",M3Q01A01ROLG,,,,,0,0
+43642,Dialog,ROLG,"I began to feel strange, my mind was clouded by more than just ale. I gambled foolishly, and lost several personal heirlooms of great religious significance to my tribe. ","이상하게 느껴지기 시작했고, 제 정신은 단순히 술 이상의 것으로 흐릿해졌습니다. 어리석게 도박을 했고, 부족에게 큰 종교적 의미를 지닌 여러 가보를 잃었습니다.",M3Q01A01ROLG,,,,,0,0
+43643,Dialog,ROLG,"I know this, my <lord/lady>. I was not in my right mind. Something strange had taken hold of my thoughts.","압니다, 모험가님. 저는 정신이 온전하지 않았습니다. 무언가 이상한 것이 제 생각을 장악했습니다.",M3Q01A01ROLG,,,,,0,0
+43644,Dialog,ROLG,"I returned to my tribe in shame. Vanda, my wife, told me to go back and speak to Griff, to humble myself and beg him to return our religious heirlooms in exchange for the promise of much gold later on.",수치스럽게 부족으로 돌아왔습니다. 제 아내 반다가 그리프에게 돌아가서 몸을 낮추고 나중에 많은 금화를 주겠다고 약속하는 대가로 종교적 가보를 돌려달라고 애원하라고 했습니다.,M3Q01A01ROLG,,,,,0,0
+43645,Dialog,ROLG,"But Griff attacked me before I could speak my offer. I killed him to save my own life. There was no other choice! I fled to this temple, barely escaping a mob of soldiers seeking my blood to avenge Griff.",하지만 그리프는 제가 제안을 말하기도 전에 저를 공격했습니다. 제 목숨을 구하기 위해 그를 죽였습니다. 다른 선택이 없었습니다! 그리프의 복수를 위해 제 피를 찾는 병사 무리를 간신히 피해 이 사원으로 도망쳤습니다.,M3Q01A01ROLG,,,,,0,0
+43646,Dialog,ROLG,Neurik gave me sanctuary but only if I vowed to submit to a trial to determine my fate.,"뉴릭은 제게 성역을 제공했지만, 제 운명을 결정할 재판에 복종하겠다고 맹세해야만 했습니다.",M3Q01A01ROLG,,,,,0,0
+43647,Dialog,ROLG,"We Uthgardt are different than you. Our ways and customs may seem strange. They call us savages and pagans and drunks and thieves. This is how the Lords' Alliance sees us, and that is why I am called a murderer for defending myself.","우리 우스가르트는 당신들과 다릅니다. 우리의 방식과 관습은 이상하게 보일 수 있습니다. 그들은 우리를 야만인, 이교도, 주정뱅이, 도둑이라고 부릅니다. 영주 연합이 우리를 보는 방식이 이렇기에, 저는 자신을 방어했을 뿐인데 살인자라 불립니다.",M3Q01A01ROLG,,,,,0,0
+43648,Dialog,ROLG,"We of the Black Lion Tribe are a noble people. I am no heathen savage, no vile killer. I pray to Uthgar that you can see this and help me.","우리 검은 사자 부족은 고귀한 민족입니다. 저는 이교도 야만인도, 사악한 살인자도 아닙니다. 우스가르께 당신이 이것을 보고 저를 도와주시길 기도합니다.",M3Q01A01ROLG,,,,,0,0
+43649,Dialog,ROLG,It is good to taste the open air once more. Freedom is sweet upon my tongue. I thank Uthgar for the verdict that cleansed the word murderer from my name.,다시 한번 대기의 맛을 느끼니 좋습니다. 자유가 제 혀에서 달콤합니다. 제 이름에서 살인자라는 말을 씻어낸 판결에 대해 우스가르께 감사드립니다.,M3Q01A01ROLG,,,,vs_nbarbam3_051,0,0
+43650,Dialog,ROLG,"And I thank you, <Lord/Lady> <FirstName>. You are a true friend of the Uthgardt people, and the Black Lion Tribe speaks your name with reverence.","그리고 당신께 감사드립니다, <Lord/Lady> <FirstName>. 당신은 우스가르트 민족의 진정한 친구이며, 검은 사자 부족은 당신의 이름을 경외심을 담아 말합니다.",M3Q01A01ROLG,,,,vs_nbarbam3_052,0,0
+46230,Creature,Ruzon Vond,"Gonmir, wake up... Gonny, get up. Get up, please.","곤미르, 일어나... 곤니, 일어나. 일어나, 제발.",M3Q2AWOUNDED1,m3q2awounded1d1,,,,0,0
+46231,Creature,Ruzon Vond,Go on. Leave us. Gonmir's dead and the rest of us will follow him shortly. Leave me be.,가. 우릴 내버려 둬. 곤미르는 죽었고 나머지 우리도 곧 그를 따를 거야. 날 내버려 둬.,M3Q2AWOUNDED1,,,,,0,0
+46232,Creature,Ruzon Vond,Gonmir and I were wounded again during the fighting at the Fort. They send us back to the Well and Neurik heals us. Then we come back and fight some more.,곤미르와 나는 요새에서의 전투 중에 또 부상을 입었어. 그들은 우릴 우물로 돌려보내고 뉴릭이 치료해 줘. 그러면 우린 돌아와서 또 싸워.,M3Q2AWOUNDED1,,,,,0,0
+46233,Creature,Ruzon Vond,"I guess this is the last trip for Gonmir. He's dead. One of those barbarians got him with an arrow. I thought he'd make it, but... ",곤미르에게는 이번이 마지막 여행인 것 같아. 죽었어. 그 야만인 중 하나가 화살로 그를 맞혔어. 살 줄 알았는데...,M3Q2AWOUNDED1,,,,,0,0
+46234,Creature,Ruzon Vond,"I'm all right. When I get back to the Well, Neurik will heal me. Gonmir, he's not so lucky.","난 괜찮아. 우물로 돌아가면 뉴릭이 치료해 줄 거야. 곤미르는, 그렇게 운이 좋지 않아.",M3Q2AWOUNDED1,,,,,0,0
+46235,Creature,Ruzon Vond,"Whatever. I'm not waiting around here to die, I'm getting back to the Well.",됐어. 여기서 죽기 위해 기다리지 않을 거야. 우물로 돌아갈 거야.,M3Q2AWOUNDED1,nw_d2_leaverun,,,,0,0
+46236,Creature,Ruzon Vond,"Yeah, Fort Ilkard. It is just down the road. I'd stay clear of it though, if you're not a fighting <man/woman>.","응, 일카드 요새. 길 아래에 있어. 하지만 싸우는 <man/사람>이 아니라면 피하는 게 좋을 거야.",M3Q2AWOUNDED1,,,,,0,0
+47010,Creature,Ruzon Vond,Ruzon,루존,M3Q2AWOUNDED1,,,,,0,0
+47011,Creature,Ruzon Vond,Vond,본드,M3Q2AWOUNDED1,,,,,0,0
+46257,Dialog,RIDDLECOL,Riddle of Light.,빛의 수수께끼.,M3Q2F20RIDDLECOL,,,,,0,0
+46258,Dialog,RIDDLESMO,Riddle of Smoke.,연기의 수수께끼.,M3Q2F20RIDDLESMO,,,,,0,0
+46259,Dialog,RIDDLESOU,Riddle of Sound.,소리의 수수께끼.,M3Q2F20RIDDLESOU,,,,,0,0
+46966,Creature,Rolkid,Rolkid,롤키드,ROLKID3Q11,,,,,0,0
+47025,Creature,Responder,Responder,응답자,M3Q2G03RESPOND,,,,,0,0
+50975,Creature,Rezron,Rezron,레즈론,M0Q0_STUDR_01,,,,,0,0
+59420,Dialog,ROADSIGN,"North: Luskan, South: Port Llast","북쪽: 러스칸, 남쪽: 라스트 항구",M2Q5F_ROADSIGN,,,,,0,0
+64227,Dialog,REFUGEE1,Can you do something? Can you? I don't see how...,뭔가 할 수 있습니까? 할 수 있습니까? 어떻게 할 수 있을지 모르겠지만...,M1Q5_REFUGEE1,,,,,0,0
+64228,Dialog,REFUGEE1,Where do we go now? Plague... zombies... where?,이제 어디로 가죠? 역병... 좀비... 어디로?,M1Q5_REFUGEE1,,,,,0,0
+64229,Dialog,REFUGEE1,I guess I should have tried to get to the City Core. There's certainly no help coming to us here.,도시 중심부로 가려고 했어야 했나 봐. 여기선 확실히 아무 도움도 오지 않을 거야.,M1Q5_REFUGEE1,,,,,0,0
+64230,Dialog,REFUGEE1,"How long before they get in here? Zombies are mindless, but they'll smell us... they'll throw themselves at the doors. We're all going to die...","얼마나 있어야 그들이 여기 들어오나? 좀비는 정신이 없지만, 우릴 냄새로 찾을 거야... 문에 몸을 던질 거야. 우리 모두 죽을 거야...",M1Q5_REFUGEE1,,,,,0,0
+64231,Dialog,REFUGEE1,My neighbor... he died of the plague. Then he came back as a zombie. That's not going to happen to me... is it? IS IT!,내 이웃이... 역병으로 죽었어. 그러더니 좀비로 돌아왔어. 나한테는 그런 일 일어나지 않을 거야... 그렇지? 그렇지!,M1Q5_REFUGEE1,,,,,0,0
+64232,Dialog,REFUGEE1,Where are the guards? Where is Lord Nasher? They left us to die! To die!,경비병들은 어디 있어? 나셰르 영주는 어디 있어? 우릴 죽게 내버려 뒀어! 죽게!,M1Q5_REFUGEE1,,,,,0,0
+64233,Dialog,REFUGEE1,"Is there anything anyone can do? Anything? It's the damned walking dead out there, for crying out loud!","누가 뭐라도 할 수 있어? 뭐라도? 저 밖엔 빌어먹을 살아있는 시체들이 있다고, 제발!",M1Q5_REFUGEE1,,,,,0,0
+64234,Dialog,REFUGEE1,What is wrong with this city? Plague... zombies... did we kick the Fates' dog or something?,"이 도시에 무슨 문제가 있는 거야? 역병... 좀비... 우리가 운명의 개를 찼나, 뭔가?",M1Q5_REFUGEE1,,,,,0,0
+64235,Dialog,REFUGEE1,You'd think the guards could have done something... but no... nothing... they stood on the wall...,경비병들이 뭔가 할 수 있었을 거라 생각하겠지... 하지만 아니야... 아무것도... 그들은 벽 위에 서 있기만 했어...,M1Q5_REFUGEE1,,,,,0,0
+64236,Dialog,REFUGEE1,Lost everyone. We all just ran... don't know where the family is. No clue...,모두 잃었어. 우리 모두 그냥 도망쳤어... 가족이 어디 있는지 몰라. 전혀...,M1Q5_REFUGEE1,,,,,0,0
+64237,Dialog,REFUGEE1,"Gotta look at the good side, you know? Zombies don't loot. I might have a home to go back to when this is over.","좋은 면을 봐야지, 알지? 좀비는 약탈 안 해. 이게 끝나면 돌아갈 집이 있을 수도 있어.",M1Q5_REFUGEE1,,,,,0,0
+64238,Dialog,REFUGEE1,Zombies chased me the whole way here. I'm lucky to be alive.,좀비들이 여기까지 계속 쫓아왔어. 살아있는 게 행운이야.,M1Q5_REFUGEE1,,,,,0,0
+64239,Dialog,REFUGEE1,"I'm glad this place is here. I could have tried to get to the Helmite sanctuary, but I really needed a drink.","이곳이 있어서 다행이야. 헬름 성역으로 가려고 할 수도 있었지만, 정말 술이 필요했어.",M1Q5_REFUGEE1,,,,,0,0
+64240,Dialog,REFUGEE1,Whew... lucky to have made it here. They killed everything... and then those dead got up... I barely got here.,휴... 여기까지 온 게 행운이야. 그들이 모든 걸 죽였어... 그러더니 그 죽은 것들이 일어났어... 간신히 여기까지 왔어.,M1Q5_REFUGEE1,,,,,0,0
+64241,Dialog,REFUGEE1,I don't believe it. We can leave? The undead are gone? Thank you... thank you if you did this...,믿을 수 없어. 떠날 수 있어? 언데드가 사라졌어? 고마워... 이걸 해낸 거라면 고마워...,M1Q5_REFUGEE1,m1q5brefslg01,,,,0,0
+64242,Dialog,REFUGEE2,"These are the last days... I'm sure of it. Plague, undead... all we need is a plague of vermin and I'm calling it quits.","이게 마지막 날들이야... 확신해. 역병, 언데드... 해충 역병만 더 생기면 난 포기할 거야.",M1Q5_REFUGEE2,,,,,0,0
+64243,Dialog,REFUGEE2,What is left... nothing. The living fear the plague... the dead can't rest. Why go on?,뭐가 남았어... 아무것도. 산 자는 역병을 두려워하고... 죽은 자는 쉬지 못해. 왜 계속해야 해?,M1Q5_REFUGEE2,,,,,0,0
+64244,Dialog,REFUGEE2,Slow death to plague or quick death to zombies... maybe the undead are the merciful way out after all.,역병으로 천천히 죽거나 좀비에게 빠르게 죽거나... 어쩌면 언데드가 자비로운 탈출구일지도 몰라.,M1Q5_REFUGEE2,,,,,0,0
+64245,Dialog,REFUGEE2,I heard some people tried to get to the City Core but the guards wouldn't let them out past the gate. They didn't want the plague to spread...,누군가 도시 중심부로 가려고 했지만 경비병들이 문을 지나 나가게 두지 않았다고 들었어. 역병이 퍼지는 걸 원하지 않았대...,M1Q5_REFUGEE2,,,,,0,0
+64246,Dialog,REFUGEE2,"Where do we go now... there's nowhere. We just wait for the zombies to get us here, I guess...",이제 어디로 가... 갈 곳이 없어. 여기서 좀비들이 우릴 덮칠 때까지 기다리는 것뿐이겠지...,M1Q5_REFUGEE2,,,,,0,0
+64247,Dialog,REFUGEE2,"At least you can outrun zombies for a while, but the plague... I don't have a clue how to avoid that.","적어도 한동안은 좀비를 따돌릴 수 있지만, 역병은... 어떻게 피할지 전혀 모르겠어.",M1Q5_REFUGEE2,,,,,0,0
+64248,Dialog,REFUGEE2,I guess I could have tried to go to the Helmite sanctuary... but they are always treating plague victims there. I don't want to get sick...,헬름 성역으로 가려고 할 수도 있었겠지... 하지만 거기선 항상 역병 희생자들을 치료하고 있어. 아프고 싶지 않아...,M1Q5_REFUGEE2,,,,,0,0
+64249,Dialog,REFUGEE2,What can you trust if you can't trust the dead to stay down? How can anything be normal after that?,죽은 자가 죽어있을 거라고 믿을 수 없다면 뭘 믿을 수 있어? 그 후에 어떻게 무엇이든 정상일 수 있겠어?,M1Q5_REFUGEE2,,,,,0,0
+64250,Dialog,REFUGEE2,So this is where I will die... great. They can't keep the zombies out forever...,그래서 여기서 죽는구나... 훌륭해. 좀비들을 영원히 막을 순 없을 텐데...,M1Q5_REFUGEE2,,,,,0,0
+64251,Dialog,REFUGEE2,Can you understand having nothing? Having to leave everything or die? Can anyone understand...,아무것도 없다는 게 어떤 건지 이해할 수 있어? 모든 걸 두고 떠나야 하거나 죽어야 하는 게? 누가 이해할 수 있겠어...,M1Q5_REFUGEE2,,,,,0,0
+64252,Dialog,REFUGEE2,"I hate this place. Fools trying to act like everything will be okay. Well, nothing is okay... we're all doomed.","이곳이 싫어. 모든 게 괜찮을 것처럼 행동하는 바보들. 뭐, 아무것도 괜찮지 않아... 우리 모두 망했어.",M1Q5_REFUGEE2,,,,,0,0
+64253,Dialog,REFUGEE2,What do you want? I've nothing for you... I had to leave everyting to flee the zombies... I've nothing...,뭘 원해? 당신 줄 게 없어... 좀비를 피해 도망치려고 모든 걸 두고 와야 했어... 아무것도 없어...,M1Q5_REFUGEE2,,,,,0,0
+64254,Dialog,REFUGEE2,Is there nothing the guards can do? Burn down the Great Graveyard? Something? Anything...,경비병들이 할 수 있는 게 정말 없어? 거대 묘지를 불태우는 것? 뭐라도? 무엇이든...,M1Q5_REFUGEE2,,,,,0,0
+64255,Dialog,REFUGEE2,I'm... I'm at the bottom. Things can't get worse. Who'd have thought this was how it would end?,난... 난 바닥이야. 더 나빠질 수 없어. 누가 이렇게 끝날 거라고 생각했겠어?,M1Q5_REFUGEE2,,,,,0,0
+64256,Dialog,REFUGEE2,I am so grateful. I... I'm just stunned that someone would bother to help us... thank you.,정말 감사해. 난... 누군가 우릴 도우려 신경 쓸 거라는 게 그냥 놀라워... 고마워.,M1Q5_REFUGEE2,m1q5brefslg01,,,,0,0
+64268,Creature,Refugee,Refugee,난민,M1Q5BREFUGEE,,,,,0,0
+94868,Creature,Refugee,Refugee,난민,Q2A_REFUGEE1|Q2A_REFUGEE2|Q2A_REFUGEE3|Q2A_REFUGEE4,,,,,0,0
+71278,Dialog,RRUMGUTCAGE,The lock on this cage appears too solid to pick and the bars too thick to break.,이 우리의 자물쇠는 너무 튼튼해서 따기 힘들고 창살은 너무 두꺼워서 부술 수 없어 보입니다.,Q1RRUMGUTCAGE,,,,gui_picklockfail,0,0
+71279,Dialog,RSHADOWTRACKS,These tracks are from some kind of deer. You cannot tell how fresh the tracks are.,이 발자국은 어떤 사슴의 것입니다. 발자국이 얼마나 신선한지 알 수 없습니다.,Q1RSHADOWTRACKS,,,,,0,0
+71280,Dialog,RSHADOWTRACKS,"These stag tracks are growing familiar to you, but you still have not seen the mighty beast that is responsible for them. You do feel like you are drawing closer to your elusive quarry.","이 수사슴 발자국이 점점 익숙해지고 있지만, 아직 이 발자국을 만든 강력한 짐승을 보지 못했습니다. 포착하기 어려운 사냥감에 가까워지고 있다고 느낍니다.",Q1RSHADOWTRACKS,,,,,0,0
+71281,Dialog,RSHADOWTRACKS,"These appear to be deer or stag tracks, but from one you are not familiar with.","사슴이나 수사슴 발자국으로 보이지만, 익숙하지 않은 것의 발자국입니다.",Q1RSHADOWTRACKS,,,,,0,0
+71282,Dialog,RSHADOWTRACKS,These stag tracks must be from the Shadow Hart. These tracks seem quite fresh. Your quarry must be close.,이 수사슴 발자국은 그림자 사슴의 것임이 틀림없습니다. 발자국이 꽤 신선해 보입니다. 사냥감이 가까이 있을 것입니다.,Q1RSHADOWTRACKS,,,,,0,0
+71283,Dialog,RSHADOWTRACKS,"These stag tracks are growing familiar to you, but you still have not seen the mighty beast that is responsible for them. You do feel like you are drawing closer to your elusive quarry.","이 수사슴 발자국이 점점 익숙해지고 있지만, 아직 이 발자국을 만든 강력한 짐승을 보지 못했습니다. 포착하기 어려운 사냥감에 가까워지고 있다고 느낍니다.",Q1RSHADOWTRACKS,,,,,0,0
+71284,Dialog,RSHADOWTRACKS,"These appear to be stag tracks, but they are from an unusually large one. One you are not familiar with.","수사슴 발자국으로 보이지만, 비정상적으로 큰 것의 발자국입니다. 익숙하지 않은 것입니다.",Q1RSHADOWTRACKS,,,,,0,0
+71285,Dialog,RSHADOWTRACKS,These stag tracks were from the mighty Shadow Hart.,이 수사슴 발자국은 강력한 그림자 사슴의 것이었습니다.,Q1RSHADOWTRACKS,,,,,0,0
+71286,Dialog,RTRACKSNETHER,You are unable to determine what creature made these tracks. They do seem to generally be leading in the direction of the pass to the Nether Mountains.,어떤 생명체가 이 발자국을 만들었는지 알 수 없습니다. 대체로 네더 산맥으로 가는 고갯길 방향으로 향하는 것 같습니다.,Q1RTRACKSNETHER,,,,,0,0
+71287,Dialog,RTRACKSNETHER,These appear to be kobold tracks. They seem to be leading to the High Pass to the Nether Mountains.,코볼트 발자국으로 보입니다. 네더 산맥으로 가는 높은 고갯길로 향하는 것 같습니다.,Q1RTRACKSNETHER,,,,,0,0
+71288,Dialog,RTRACKSNETHER,These appear to be kobold tracks. A large group of perhaps 30 or so of the creatures passed by this way within the last day. They seem to be leading to the High Pass to the Nether Mountains.,코볼트 발자국으로 보입니다. 약 30마리 정도의 대규모 무리가 지난 하루 이내에 이 길을 지나갔습니다. 네더 산맥으로 가는 높은 고갯길로 향하는 것 같습니다.,Q1RTRACKSNETHER,,,,,0,0
+71294,Dialog,RUMGUTSECRET,"<StartHighlight>[Behind this pile of rocks you see a small, darkened crawlspace that leads out to the foothills.]</Start>",<StartHighlight>[이 바위 더미 뒤에 기슭으로 이어지는 작고 어두운 기어다니는 공간이 보입니다.]</Start>,Q1RUMGUTSECRET,,,,,0,0
+71295,Dialog,RUMGUTSECRET,"<StartHighlight>[Behind this pile of rocks you see a small, darkened crawlspace. A possible escape route - if one was to brave the darkness.]</Start>",<StartHighlight>[이 바위 더미 뒤에 작고 어두운 기어다니는 공간이 보입니다. 가능한 탈출 경로입니다 - 어둠을 용기 내어 마주할 수 있다면.]</Start>,Q1RUMGUTSECRET,,,,,0,0
+71299,Dialog,RUMSECRETOUT,<StartHighlight>[Behind this pile of rocks you see a small darkened crawlspace that leads back into Rumgut's cave.]</Start>,<StartHighlight>[이 바위 더미 뒤에 럼것의 동굴로 돌아가는 작고 어두운 기어다니는 공간이 보입니다.]</Start>,Q1RUMSECRETOUT,,,,,0,0
+71300,Dialog,RUMSECRETOUT,The tunnel seems to have collapsed behind you. There is no way back into the cave from here.,땅굴이 당신 뒤에서 무너진 것 같습니다. 여기서 동굴로 돌아갈 방법이 없습니다.,Q1RUMSECRETOUT,,,,,0,0
+71521,Dialog,RURALTOLI,"Ah, what I would give for a nice jug of dwarven ale! I will never have another child again, I swear it!","아, 좋은 드워프 에일 한 항아리를 위해 뭐든 주겠어! 다시는 아이를 갖지 않을 거야, 맹세해!",Q1RURALTOLI,,,,,0,0
+71522,Dialog,RURALTOLI,A week overdue! When will this child come?,일주일이나 지났어! 이 아이는 언제 나올 거야?,Q1RURALTOLI,,,,,0,0
+71523,Dialog,RURALTOLI,Gah! I have known cows who weighed less than I do now! This is why I did nae want another child for so long.,으악! 지금 나보다 가벼운 소들도 알아! 이래서 오랫동안 아이를 더 갖고 싶지 않았던 거야.,Q1RURALTOLI,,,,,0,0
+71524,Dialog,RURALTOLI,"My husband will nae tell me what is going on. He wishes not to worry me, but I am sick with worry, nonetheless.","남편이 무슨 일인지 말해 주지 않아. 날 걱정시키고 싶지 않은 거겠지만, 그래도 걱정에 병이 날 지경이야.",Q1RURALTOLI,,,,,0,0
+71525,Dialog,RURALTOLI,Me precious daughter! Where be me daughter?,내 소중한 딸! 내 딸이 어디 있어?,Q1RURALTOLI,,,,,0,0
+71526,Dialog,RURALTOLI,"Ah, I want this child out of me! I am so sick of being this heavy and awkward.","아, 이 아이가 나갔으면 좋겠어! 이렇게 무겁고 불편한 게 너무 싫어.",Q1RURALTOLI,,,,,0,0
+71527,Dialog,RURALTOLI,"Ah, it be so good of ye to have brought Becka back to us. Now she can help me have this child.","아, 베카를 우리에게 데려와 줘서 정말 고마워. 이제 그 애가 이 아이를 낳는 걸 도와줄 수 있어.",Q1RURALTOLI,,,,,0,0
+71528,Dialog,RURALTOLI,I can feel something be wrong with me daughter. I think her life has passed from this mortal coil.,내 딸에게 뭔가 잘못됐다는 걸 느낄 수 있어. 그 애의 생명이 이 세상을 떠난 것 같아.,Q1RURALTOLI,,,,,0,0
+71529,Dialog,RURALTOLI,"Ye are evil, pure and true. Ye shall pay for your deeds!",당신은 순수하고 진정한 악이야. 당신 행위의 대가를 치를 거야!,Q1RURALTOLI,,,,,0,0
+72557,Dialog,ROPE,The rope leads up into a shaft of light,밧줄이 빛의 수직 통로로 올라갑니다,Q3_ROPE,,,,,0,0
+93981,Dialog,ROPE,Pulling the rope signals Durnan to haul you back up. Do you wish to pull the rope and return to the Yawning Portal?,밧줄을 당기면 더난에게 신호를 보내 당신을 끌어올려 줍니다. 밧줄을 당겨 하품하는 차원문으로 돌아가겠습니까?,Q2B01ROPE,,,,,0,0
+79347,Dialog,ROB,"I think and think but there is nothing. All that was once wise within this skull has long since rotted from the bone, my king and quests now all forgotten...","생각하고 또 생각하지만 아무것도 없습니다. 이 두개골 안에 한때 현명했던 모든 것이 오래전에 뼈에서 썩어 없어졌고, 제 왕과 임무는 이제 모두 잊혀졌습니다...",ROB,,,,,0,0
+79348,Dialog,ROB,"At last, something here that lives! Please, you must help me!","마침내, 여기 살아있는 무언가가! 제발, 저를 도와주셔야 합니다!",ROB,,,,,0,0
+79349,Dialog,ROB,"Yes, yes, that's it! To the grave and then deeper, to the Plane of Sorrows! There are places there where the ether leaks back into my world. At long last, I shall follow it home!","그래, 그래, 그거야! 무덤으로 가서 더 깊이, 슬픔의 차원계로! 거기엔 에테르가 제 세계로 새어 들어가는 곳이 있습니다. 마침내, 고향으로 따라갈 것입니다!",ROB,,,,,0,0
+79350,Dialog,ROB,"Come, let us cross blades and weave spells and send me out with proper fanfare! To think that I have lingered here so long, with the answer all around me! To battle, my salvation!","오시오, 검을 맞대고 주문을 짜서 제대로 된 환송으로 저를 보내 주시오! 답이 제 주위에 있었는데 이렇게 오래 여기 머물렀다니! 전투로, 저의 구원으로!",ROB,,,,,0,0
+79351,Dialog,ROB,"I... I don't know... I was summoned here, long ago, my quests interrupted to perform some service for the king. I don't remember what. I remember nothing, it seems. Nothing.","저... 모르겠습니다... 아주 오래전에 여기로 소환되었고, 왕을 위한 어떤 임무를 수행하느라 제 탐구가 중단되었습니다. 무엇인지 기억나지 않습니다. 아무것도 기억나지 않는 것 같습니다. 아무것도.",ROB,,,,,0,0
+79352,Dialog,ROB,"Perhaps there is no help for me. Perhaps I am cursed to linger here forever amidst these graves, cut off from the world I loved the most.",아마도 저에게 도움이 없을 것입니다. 아마도 제가 가장 사랑했던 세계와 단절된 채 이 무덤들 사이에서 영원히 머물도록 저주받은 것 같습니다.,ROB,,,,,0,0
+79353,Dialog,ROB,"Even so, I can't help but think that there must be a way. Every problem is but a puzzle to be solved. Our reality is but a game with hidden rules. If one can but discern them, suddenly all things become possible.","그래도, 방법이 있을 거라는 생각을 멈출 수 없습니다. 모든 문제는 풀어야 할 퍼즐일 뿐입니다. 우리의 현실은 숨겨진 규칙이 있는 게임일 뿐입니다. 그것들을 분별할 수만 있다면, 갑자기 모든 것이 가능해집니다.",ROB,,,,,0,0
+79356,Dialog,ROB,"But it feels like I have been trapped here forever, never to return to that which I loved best!",하지만 제가 가장 사랑했던 것으로 돌아갈 수 없이 영원히 여기 갇혀 있는 것처럼 느껴집니다!,ROB,,,,,0,0
+79358,Dialog,ROB,"Someone will tell my tale, little one. Someone, somewhere, or somewhen. It is so hard to remember.","누군가 제 이야기를 할 것입니다, 꼬마. 누군가, 어딘가에서, 또는 언젠가. 기억하기가 너무 어렵습니다.",ROB,,,,,0,0
+79359,Dialog,ROB,"There were... There were two kings, I think. I served two masters, one here in this world, and one in the last. That last one, I was to tell the king that she is dead. But who is this 'she?' If only I could remember. If only I could return...","있었어요... 두 명의 왕이 있었던 것 같아요. 저는 두 주인을 섬겼습니다. 한 명은 이 세계에, 한 명은 저 세계에. 저 마지막 것, 저는 왕에게 그녀가 죽었다고 말해야 했습니다. 하지만 이 '그녀'가 누구죠? 기억할 수만 있다면. 돌아갈 수만 있다면...",ROB,,,,,0,0
+79360,Dialog,ROB,"What were they now? I was seeking out a woman called the Night Hag, I think... Or was it a stone? ...No, no, it was a young elf who wore the same uniform as I. Oh, I don't know... Time has left this skull an empty shell.","그것들이 뭐였죠? 밤의 마녀라 불리는 여자를 찾고 있었던 것 같은데... 아니면 돌이었나? ...아니, 아니야, 저와 같은 제복을 입은 젊은 엘프였어요. 오, 모르겠어요... 시간이 이 두개골을 빈 껍질로 만들어 버렸습니다.",ROB,,,,,0,0
+79361,Dialog,ROB,"Nothing except... In my dreams, I still see my Prince's hand stretched out towards mine, the sounds of battle all around us in the night... Nothing more, nothing more.","아무것도 없습니다, 다만... 제 꿈에서, 저는 아직도 제 왕자님의 손이 제 손을 향해 뻗어 있는 걸 봅니다, 밤에 우리 주위에 전투의 소리가... 더 이상은 없습니다, 더 이상은.",ROB,,,,,0,0
+79370,Dialog,ROMANCENOVEL,"Dust covers the pages of this unassuming romance novel. It is lovingly illustrated, though the inks have dulled with age.","먼지가 이 수수한 로맨스 소설의 페이지들을 덮고 있습니다. 사랑스럽게 삽화가 그려져 있지만, 세월에 잉크가 바래졌습니다.",ROMANCENOVEL,,,,,0,0
+79371,Dialog,ROMANCENOVEL,You dip your quill into the bottle of ink and begin. It doesn't take long to make the necessary revisions.,잉크병에 깃펜을 담그고 시작합니다. 필요한 수정을 하는 데 오래 걸리지 않습니다.,ROMANCENOVEL,,,,,0,0
+80936,Dialog,RUNE_PILLAR,"When evil grows unchecked, then shall one destroy the guardians and prove <his/her> worth to wield the Desert's Fury.","악이 제지받지 않고 자랄 때, 그때 누군가 수호자들을 파괴하고 사막의 분노를 휘두를 <his/그의> 가치를 증명할 것이다.",Q2_RUNE_PILLAR,q2b_at_pillar,,,,0,0
+92728,Dialog,RIVERGATE,The River Gate has been sealed due to the recent attacks.,강 문은 최근 공격으로 인해 봉인되었습니다.,Q2A1RIVERGATE,,,,,0,0
+94897,Creature,Rakshasa First-Born,Rakshasa First-Born,락샤사 첫 번째 출생,Q2CRAK1,,,,,0,0
+94898,Creature,Rakshasa Adept,Rakshasa Adept,락샤사 숙련자,Q2CRAK2,,,,,0,0
+94966,Creature,Raging Ogre,Raging Ogre,광분한 오우거,X2_Q2OGRE1,,,,,0,0
+98095,Dialog,REBUSPOSTS,"A word is carved into this stone pillar: ""Elysium""","이 석조 기둥에 단어가 새겨져 있습니다: ""엘리시움""",H2_REBUSPOSTS,,,,,0,0
+98096,Dialog,REBUSPOSTS,"A word is carved into this stone pillar: ""Coordinate.""","이 석조 기둥에 단어가 새겨져 있습니다: ""좌표.""",H2_REBUSPOSTS,,,,,0,0
+98097,Dialog,REBUSPOSTS,"A word is carved into this stone pillar: ""Dimension.""","이 석조 기둥에 단어가 새겨져 있습니다: ""차원.""",H2_REBUSPOSTS,,,,,0,0
+98098,Dialog,REBUSPOSTS,"A word is carved into this stone pillar: ""Infinity.""","이 석조 기둥에 단어가 새겨져 있습니다: ""무한.""",H2_REBUSPOSTS,,,,,0,0
+98099,Dialog,REBUSPOSTS,"A word is carved into this stone pillar: ""Treason.""","이 석조 기둥에 단어가 새겨져 있습니다: ""반역.""",H2_REBUSPOSTS,,,,,0,0
+98100,Dialog,REBUSPOSTS,"A word is carved into this stone pillar: ""Alternate.""","이 석조 기둥에 단어가 새겨져 있습니다: ""대안.""",H2_REBUSPOSTS,,,,,0,0
+98977,Dialog,RING_CONV,"You speculate on how the Sleeping Man's three-part ring might eventually fit together. Until you have all the pieces, however, it will be hard to tell.",잠자는 남자의 세 조각 반지가 최종적으로 어떻게 맞춰질지 추측합니다. 하지만 모든 조각을 가질 때까지는 알기 어려울 것입니다.,HX_RING_CONV,,,,,0,0
+98978,Dialog,RING_CONV,"The three pieces of the Sleeping Man's ring glitter in your hand, each inscribed with a different initial. You wonder where you should begin.","잠자는 남자의 반지 세 조각이 당신의 손에서 반짝이며, 각각 다른 이니셜이 새겨져 있습니다. 어디서 시작해야 할지 궁금합니다.",HX_RING_CONV,,,,,0,0
+98979,Dialog,RING_CONV,"You separate the piece of the ring marked with an 'H' from the others and hold it between your fingers. It gleams softly in dim light, as if encouraging you to continue.","'H'로 표시된 반지 조각을 다른 것들과 분리하고 손가락 사이에 듭니다. 희미한 빛 속에서 부드럽게 빛나며, 마치 계속하라고 격려하는 것 같습니다.",HX_RING_CONV,,,,,0,0
+98980,Dialog,RING_CONV,"You jump with surprise as a jolt of electricity courses through your body. You watch as the ring disassembles itself in your hand. Apparently, you have made the wrong choice.","전기 충격이 당신의 몸을 관통하자 놀라서 뛰어오릅니다. 반지가 당신의 손에서 스스로 분해되는 것을 봅니다. 분명히, 잘못된 선택을 한 것 같습니다.",HX_RING_CONV,hx_ringpc_dmg,,,,0,0
+98981,Dialog,RING_CONV,"You attach the piece of the ring marked with an 'F' to the one marked with an 'H'. The seam between them glows warmly, then disappears as the two pieces fuse together.","'F'로 표시된 반지 조각을 'H'로 표시된 것에 붙입니다. 그들 사이의 이음매가 따뜻하게 빛나다가, 두 조각이 융합하면서 사라집니다.",HX_RING_CONV,,,,,0,0
+98982,Dialog,RING_CONV,"You add the final piece, marked with an 'L'. The seam glows and fuses completing the ring. The three letters, 'HFL', now correspond with the journey of Hope, Faith, and Love mentioned in the Sleeping Man's prayer.","'L'로 표시된 마지막 조각을 추가합니다. 이음매가 빛나며 융합되어 반지를 완성합니다. 세 글자 'HFL'은 이제 잠자는 남자의 기도에서 언급된 희망, 믿음, 사랑의 여정과 일치합니다.",HX_RING_CONV,hx_ringpc_take,,,,0,0
+98983,Dialog,RING_CONV,"You jump with surprise as a jolt of electricity courses through your body. Apparently, you have made the wrong choice.","전기 충격이 당신의 몸을 관통하자 놀라서 뛰어오릅니다. 분명히, 잘못된 선택을 한 것 같습니다.",HX_RING_CONV,hx_ringpc_dmg,,,,0,0
+99081,Dialog,RAT1_CONV,"The rat blinks at you, twitching his nose before returning his attention to sniffing at the floor before him.",쥐가 당신을 향해 눈을 깜박이고 코를 씰룩이더니 다시 앞 바닥을 냄새 맡는 데 집중합니다.,Q4A_RAT1_CONV,,,,,0,0
+99082,Dialog,RAT1_CONV,"The rat stares up at you with eyes that seem as old as these caves. Reflected in their darkened pools, you see a series of images flashing by in rapid succession.","쥐가 이 동굴만큼이나 오래된 것처럼 보이는 눈으로 당신을 올려다봅니다. 어두운 눈동자에 비친 것에서, 일련의 이미지가 빠르게 연속적으로 스쳐 지나가는 것을 봅니다.",Q4A_RAT1_CONV,,,,,0,0
+99083,Dialog,RAT1_CONV,"You see bones and rotting flesh, glittering objects of desire and, above all, the constant struggle to survive.","뼈와 썩은 고기, 반짝이는 욕망의 대상들, 그리고 무엇보다도 생존을 위한 끊임없는 투쟁을 봅니다.",Q4A_RAT1_CONV,,,,,0,0
+99084,Dialog,RAT1_CONV,"A warm feeling of gratitude emanates from the rat. You get the distinct impression that it wants you to see its prized nest, but you aren't sure how you could fit through the hole it's chewed.","쥐에게서 따뜻한 감사의 느낌이 발산됩니다. 쥐가 당신에게 소중한 둥지를 보여주고 싶어 한다는 뚜렷한 인상을 받지만, 쥐가 씹어 놓은 구멍으로 어떻게 들어갈 수 있을지 확신이 서지 않습니다.",Q4A_RAT1_CONV,,,,,0,0
+99085,Dialog,RAT1_CONV,It squeaks in fear and runs away.,두려움에 찍찍 울며 도망갑니다.,Q4A_RAT1_CONV,nw_d2_leaverun,,,,0,0
+99086,Dialog,RAT1_CONV,The rat seems very possessive of the treasure it has gathered over the course of its long life. You get the sense that it is stashed away in a safe place where only a rat could go or fit.,쥐는 오랜 생애 동안 모은 보물에 매우 소유욕이 강해 보입니다. 쥐만이 갈 수 있거나 들어갈 수 있는 안전한 곳에 숨겨져 있다는 느낌을 받습니다.,Q4A_RAT1_CONV,,,,,0,0
+99087,Dialog,RAT1_CONV,"The rotting flesh and bones bring a sense of comfort, a sense of home. The rat seems to be using the decay from these caves to form its nest.",썩은 고기와 뼈가 안락함과 집의 느낌을 가져옵니다. 쥐는 이 동굴의 부패물을 사용하여 둥지를 만드는 것 같습니다.,Q4A_RAT1_CONV,,,,,0,0
+99093,Dialog,RAT2_CONV,"The rat blinks at you, twitching his nose before returning to gnaw on the ankle of the corpse before him.",쥐가 당신을 향해 눈을 깜박이고 코를 씰룩이더니 다시 앞의 시체 발목을 갉아먹는 데 돌아갑니다.,Q4A_RAT2_CONV,,,,,0,0
+100148,Creature,Rizolvir's Ghost,Rizolvir's Ghost,리졸비르의 유령,Q2ARIZOLVIR,,,,,0,0
+107852,Creature,Rizolvir's Ghost,Rizolvir,리졸비르,Q2ARIZOLVIR,,,,,0,0
+104219,Dialog,REBEL,You should speak with the Seer.,선견자와 이야기해야 합니다.,Q2A2REBEL,,,,,0,0
+104317,Dialog,ROTHE,"The rothe ignores you, and continues chewing its cud.",로테가 당신을 무시하고 되새김질을 계속합니다.,Q2A_ROTHE,,,,,0,0
+104318,Dialog,ROTHE,"The animal's thoughts briefly focus on you as you approach. Once it realizes you are not the herder bringing the next meal, it returns to chewing its cud.","당신이 다가가자 동물의 생각이 잠시 당신에게 집중됩니다. 당신이 다음 식사를 가져오는 목동이 아니라는 것을 깨닫자, 되새김질로 돌아갑니다.",Q2A_ROTHE,,,,,0,0
+104319,Dialog,ROTHE,"The rothe's mind is preoccupied with thoughts of food and sleep, this animal has been completely domesticated. Whatever wild instincts it might have once possessed are long gone.","로테의 마음은 음식과 잠에 대한 생각으로 가득 차 있으며, 이 동물은 완전히 길들여졌습니다. 한때 가지고 있었을지도 모르는 야생 본능은 오래전에 사라졌습니다.",Q2A_ROTHE,,,,,0,0
+107860,Creature,Red Thrall,Red Thrall,붉은 노예,Q2D2REDGLAD1|Q2D2REDGLAD2,,,,,0,0
+107912,Creature,Red Sister Cleric,Red Sister Cleric,붉은 자매단 성직자,Q6_RSCLERIC,,,,,0,0
+107914,Creature,Red Sister Rogue,Red Sister Rogue,붉은 자매단 도적,Q6_RSROGUE,,,,,0,0
+107915,Creature,Red Sister Warrior,Red Sister Warrior,붉은 자매단 전사,Q6_RSWARRIOR,,,,,0,0
+111381,Creature,Ruby Golem,Ruby Golem,루비 골렘,TM_CR_THAYGOLEM1,,,,,0,0

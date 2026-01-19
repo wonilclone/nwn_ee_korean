@@ -1,0 +1,32 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+29915,PC,Player Character,"Okay, me go now, yuh?","좋아, 나 이제 가, 응?",m2q1a00merc,,[지능 낮음],,,0,0
+29916,PC,Player Character,"Out of my way, money-grubber.","비켜, 수전노야.",m2q1a00merc,,[지능 보통],,,0,0
+29917,PC,Player Character,Nevermind.,신경 쓰지 마세요.,m2q1a00merc,,[지능 보통],,,0,0
+29918,PC,Player Character,"Me have questions, you answer, yuh?","나 질문 있어, 너 대답해, 응?",m2q1a00merc,,[지능 낮음],,,0,0
+29919,PC,Player Character,"Urgh, you in me way... ","으, 너 내 길 막고 있어...",m2q1a00merc,,[지능 낮음],,,0,0
+29920,PC,Player Character,"Uh, me go now.","어, 나 이제 가.",m2q1a00merc,,[지능 낮음],,,0,0
+29921,PC,Player Character,I don't like thinking about snapping your neck but that won't stop me... ,네 목을 부러뜨릴 생각은 싫지만 그래도 막지는 않을 거야...,m2q1a00merc,nw_d1_mid_evil,[지능 보통],,,0,0
+29922,PC,Player Character,"No, you tell! You tell or me crush you!","아니, 너 말해! 너 말하지 않으면 나 너 으깨!",m2q1a00merc,nw_d1_mid_evil,[지능 낮음],,,0,0
+29923,PC,Player Character,"<StartCheck>[Insight]</Start> If you're a sword for hire, where else have you served?","<StartCheck>[통찰]</Start> 검을 팔고 다니는 사람이라면, 어디서 복무했어요?",m2q1a00merc,,[지능 보통],,,0,0
+29924,PC,Player Character,"You mercenary. Me pay you, you follow, yuh?","너 용병이야. 나 돈 줘, 너 따라와, 응?",m2q1a00merc,,[지능 낮음],,,0,0
+29925,PC,Player Character,Me want healer priest.,나 치료사 사제 원해.,m2q1a00merc,,[지능 낮음],,,0,0
+29926,PC,Player Character,"Thanks, that's everything.","고마워요, 그게 다예요.",m2q1a00merc,,[지능 보통],,,0,0
+29927,PC,Player Character,Me tree-friend. Der other tree-friends here? Druids an' Rangers?,나 자연의 친구야. 여기 다른 자연의 친구 있어? 드루이드랑 순찰자?,m2q1a00merc,,nw_d2_naturi_l,,,0,0
+29928,PC,Player Character,Me want place to sleep and drink.,나 자고 술 마실 곳 원해.,m2q1a00merc,,[매력 중간/지능 낮음],,,0,0
+29929,PC,Player Character,What type store around here?,여기 무슨 상점 있어?,m2q1a00merc,,[지능 낮음],,,0,0
+29930,PC,Player Character,Any other towns nearby?,근처에 다른 마을 있어?,m2q1a00merc,,[지능 낮음],,,0,0
+29931,PC,Player Character,Could you answer a few questions for me?,질문 몇 가지 대답해 주실 수 있어요?,m2q1a00merc,,[지능 보통],,,0,0
+29932,PC,Player Character,Does Port Llast have a ranger or druid I could speak with?,라스트 항구에 순찰자나 드루이드가 있나요? 대화하고 싶은데요.,m2q1a00merc,,nw_d2_naturi_n,,,0,0
+29933,PC,Player Character,Where can I find an inn?,여관은 어디에 있어요?,m2q1a00merc,,[매력 중간/지능 중간],,,0,0
+29934,PC,Player Character,You're a mercenary. That mean you're for hire?,용병이시군요. 고용할 수 있나요?,m2q1a00merc,,[지능 보통],,,0,0
+29935,PC,Player Character,Know where I can find a priest?,사제는 어디서 찾을 수 있어요?,m2q1a00merc,,[지능 보통],,,0,0
+29936,PC,Player Character,What kind of stores do you have around here?,여기 어떤 상점들이 있어요?,m2q1a00merc,,[지능 보통],,,0,0
+29937,PC,Player Character,Are there any other towns in the region?,이 지역에 다른 마을들이 있나요?,m2q1a00merc,,[지능 보통],,,0,0
+29938,PC,Player Character,<StartCheck>[Persuade]</Start> What can you tell me about Luskan?,<StartCheck>[설득]</Start> 러스칸에 대해 뭘 알려줄 수 있어요?,m2q1a00merc,,[지능 보통],,,0,0
+29939,PC,Player Character,<StartCheck>[Persuade]</Start> Luskan? What that like?,<StartCheck>[설득]</Start> 러스칸? 거기 어때?,m2q1a00merc,,[지능 낮음],,,0,0
+29940,PC,Player Character,I need some directions.,길 안내가 좀 필요해요.,m2q1a00merc,,[지능 보통],,,0,0
+29941,PC,Player Character,Me need directions.,나 길 안내 필요해.,m2q1a00merc,,[지능 낮음],,,0,0
+29942,PC,Player Character,I'm looking for some people.,찾는 사람들이 있어요.,m2q1a00merc,,[지능 보통],,,0,0
+29943,PC,Player Character,Me look for certain kind of people.,나 특정 종류 사람들 찾고 있어.,m2q1a00merc,,[지능 낮음],,,0,0
+29944,PC,Player Character,Could you answer some other questions?,다른 질문들에 대답해 주실 수 있어요?,m2q1a00merc,,[지능 보통],,,0,0
+29945,PC,Player Character,You answer other stuff?,너 다른 거 대답해 줘?,m2q1a00merc,,[지능 낮음],,,0,0

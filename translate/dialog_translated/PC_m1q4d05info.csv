@@ -1,0 +1,44 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+22281,PC,Player Character,Could I ask you some questions?,몇 가지 물어봐도 될까?,m1q4d05info,,[지능 보통],,,0,0
+22282,PC,Player Character,Me want ask questions.,나 질문할래.,m1q4d05info,,[지능 낮음],,,0,0
+22283,PC,Player Character,Goodbye.,그럼 이만.,m1q4d05info,,,,,0,0
+22284,PC,Player Character,Anything odd happening here?,여기서 별난 일이라도 있었나?,m1q4d05info,,[지능 보통],,,0,0
+22285,PC,Player Character,You know odd things about here?,여기 이상한 일 아는 거 있어?,m1q4d05info,,[지능 낮음],,,0,0
+22286,PC,Player Character,I want to ask about the Bloodsailors.,핏빛 항해자들에 대해 묻고 싶어.,m1q4d05info,,[지능 보통],,,0,0
+22287,PC,Player Character,I want to ask about the auction.,경매에 대해 묻고 싶은데.,m1q4d05info,,[지능 보통],,,0,0
+22288,PC,Player Character,Me ask about Bloodsailor guys.,나 핏빛 항해자들 물어볼래.,m1q4d05info,,[지능 낮음],,,0,0
+22289,PC,Player Character,Me ask about auction.,나 경매 물어볼래.,m1q4d05info,,[지능 낮음],,,0,0
+22290,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 어서, 말해도 해가 안 될 텐데.",m1q4d05info,,nw_d2_racedifi_n,,,0,0
+22291,PC,Player Character,<StartCheck>[Persuade]</Start> You tell me and it okay. Will hurt nobody.,<StartCheck>[설득]</Start> 너 말해도 괜찮아. 아무도 다치지 않아.,m1q4d05info,,nw_d2_racedifi_l,,,0,0
+22292,PC,Player Character,Know anything about the plague?,역병에 대해 아는 게 있어?,m1q4d05info,,[지능 보통],,,0,0
+22293,PC,Player Character,You knows stuff about plague?,너 역병에 대해 아는 거 있어?,m1q4d05info,,[지능 낮음],,,0,0
+22294,PC,Player Character,What locations are important in the Docks district?,항만 지구에서 중요한 장소들은 어디지?,m1q4d05info,,[지능 보통],,,0,0
+22295,PC,Player Character,Where important places in Docks?,항만 지구 중요한 곳 어디?,m1q4d05info,,[지능 낮음],,,0,0
+22296,PC,Player Character,Tell me about the Seedy Tavern.,시디 선술집에 대해 말해 줘.,m1q4d05info,,[지능 보통],,,0,0
+22297,PC,Player Character,Tell me about the Golden Apple.,황금 사과에 대해 말해 줘.,m1q4d05info,,[지능 보통],,,0,0
+22298,PC,Player Character,Tell me about the Twenty in a Quiver.,스무발 화살통에 대해 말해 줘.,m1q4d05info,,[지능 보통],,,0,0
+22299,PC,Player Character,I'm looking for basic services. General stuff.,기본적인 상점이나 서비스가 필요해. 흔한 것들이지.,m1q4d05info,,[지능 보통],,,0,0
+22300,PC,Player Character,What you know about Seedy place?,시디 선술집에 대해 뭐 알아?,m1q4d05info,,[지능 낮음],,,0,0
+22301,PC,Player Character,You tells about Golden Apple.,황금 사과 얘기해 줘.,m1q4d05info,,[지능 낮음],,,0,0
+22302,PC,Player Character,You tells about Twenty in the Quiver.,스무발 화살통 얘기해 줘.,m1q4d05info,,[지능 낮음],,,0,0
+22303,PC,Player Character,Me look for all kinds of stuff. Service stuff.,나 별별 거 찾는 중. 서비스 같은 거.,m1q4d05info,,[지능 낮음],,,0,0
+22304,PC,Player Character,I'd rather ask you about something else.,다른 걸 물어보는 게 낫겠어.,m1q4d05info,,[지능 보통],,,0,0
+22305,PC,Player Character,Me have other question.,나 다른 질문 있어.,m1q4d05info,,[지능 낮음],,,0,0
+22306,PC,Player Character,Back to my questions about locations.,장소에 대한 질문으로 돌아가자.,m1q4d05info,,[지능 보통],,,0,0
+22307,PC,Player Character,Back to stuff about places.,장소 얘기로 다시.,m1q4d05info,,[지능 낮음],,,0,0
+22308,PC,Player Character,"What do you mean when you say ""strange?""","네가 말한 ""이상하다""는 무슨 뜻이지?",m1q4d05info,,[지능 보통],,,0,0
+22309,PC,Player Character,"What you mean, ""strange?""","무슨 뜻이야, ""이상하다""가?",m1q4d05info,,[지능 낮음],,,0,0
+22310,PC,Player Character,We both have <race> blood. Why not give me a break?,우리 둘 다 <race> 피가 흐르잖아. 좀 봐주지 않을래?,m1q4d05info,,nw_d2_racesmi_n,,,0,0
+22311,PC,Player Character,"Me <race> blood like you. You tell me, okay?","나도 너처럼 <race> 피 있어. 말해 줘, 응?",m1q4d05info,,nw_d2_racesmi_l,,,0,0
+22312,PC,Player Character [M1Q4D05],"<StartCheck>[Flirt]</Start> You tell me, okay, nice man? You really nice man.","<StartCheck>[유혹]</Start> 말해줘, 그렇지, 좋은 사람? 진짜 좋은 사람이야.",m1q4d05info,,m1q4d05infoclg02,[M1Q4D05],,0,0
+22313,PC,Player Character [M1Q4D05],"<StartCheck>[Flirt]</Start> Come now, handsome. You can tell me, can't you?","<StartCheck>[유혹]</Start> 어서, 멋진 분. 말해줄 수 있지, 그렇지?",m1q4d05info,,m1q4d05infoclg01,[M1Q4D05],,0,0
+22314,PC,Player Character,Tell me about Vengaul.,벵골에 대해 말해 줘.,m1q4d05info,,[지능 보통],,,0,0
+22315,PC,Player Character,You tell about Vengaul.,벵골 얘기해 줘.,m1q4d05info,,[지능 낮음],,,0,0
+22316,PC,Player Character,Tell me about Callik.,칼릭에 대해 말해 줘.,m1q4d05info,,[지능 보통],,,0,0
+22317,PC,Player Character,You tell about Callik.,칼릭 얘기해 줘.,m1q4d05info,,[지능 낮음],,,0,0
+22318,PC,Player Character,Is that why he's not here tonight?,그래서 그가 오늘 밤 여기 없는 거야?,m1q4d05info,,[지능 보통],,,0,0
+22319,PC,Player Character,That why Vengaul not here?,그래서 벵골 오늘 여기 없는 거야?,m1q4d05info,,[지능 낮음],,,0,0
+22320,PC,Player Character,Does he have the backing to do that?,그럴 만한 지지 세력이 그에게 있어?,m1q4d05info,,[지능 보통],,,0,0
+22321,PC,Player Character,He gots support for that? That a big fight.,그거 하게 지지 있어? 큰 싸움이야.,m1q4d05info,,[지능 낮음],,,0,0
+22322,PC,Player Character,Where is his house?,그의 집은 어디야?,m1q4d05info,,[지능 보통],,,0,0
+22323,PC,Player Character,Where Callik's house be?,칼릭 집 어디 있어?,m1q4d05info,,[지능 낮음],,,0,0

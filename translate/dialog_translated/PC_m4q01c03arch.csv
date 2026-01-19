@@ -1,0 +1,21 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+48780,PC,Player Character,I need to see the Source Stone.,근원석을 봐야 해.,m4q01c03arch,,[지능 보통],,,0,0
+48781,PC,Player Character,I would like to ask you some questions.,질문 좀 하고 싶어.,m4q01c03arch,,[지능 보통],,,0,0
+48782,PC,Player Character,Me need see stone.,나 돌 봐야 해.,m4q01c03arch,,[지능 낮음],,,0,0
+48783,PC,Player Character,Me want ask questions.,나 질문하고 싶어.,m4q01c03arch,,[지능 낮음],,,0,0
+48784,PC,Player Character,Goodbye.,잘 가.,m4q01c03arch,,,,,0,0
+48785,PC,Player Character,What do you know about the Source Stone?,근원석에 대해 뭘 알아?,m4q01c03arch,,[지능 보통],,,0,0
+48786,PC,Player Character,What you know 'bout Source Stone?,너 근원석 뭐 알아?,m4q01c03arch,,[지능 낮음],,,0,0
+48787,PC,Player Character,Where are the Words of Power?,권능의 언령은 어디 있어?,m4q01c03arch,,[지능 보통],,,0,0
+48788,PC,Player Character,Where be Power Words?,권능의 언령 어디 있어?,m4q01c03arch,,[지능 낮음],,,0,0
+48789,PC,Player Character,Who are you again?,"다시 한번, 넌 누구야?",m4q01c03arch,,[지능 보통],,,0,0
+48790,PC,Player Character,Who you be again?,너 누구였지?,m4q01c03arch,,[지능 낮음],,,0,0
+48791,PC,Player Character,Don't you think it might be dangerous to unlock the secrets of the Source Stone?,근원석의 비밀을 푸는 게 위험할 수도 있다고 생각하지 않아?,m4q01c03arch,,[지능 보통],,,0,0
+48792,PC,Player Character,You not think it dangerous to unlock secrets of stone?,너 돌 비밀 푸는 게 위험하다고 생각 안 해?,m4q01c03arch,,[지능 낮음],,,0,0
+48793,PC,Player Character,How come nobody noticed this stone down here before?,왜 전엔 아무도 이 돌을 눈치채지 못했지?,m4q01c03arch,,[지능 보통],,,0,0
+48794,PC,Player Character,This stone be here long time. How come no one see it 'til now?,돌 여기 오래 있었어. 왜 지금까지 아무도 안 봤어?,m4q01c03arch,,[지능 낮음],,,0,0
+48795,PC,Player Character,"<StartCheck>[Insight]</Start> You feel the call of the ancient evil that dwells within the stone, Master Ford. Beware lest it consume you.","<StartCheck>[통찰]</Start> 포드 박사, 당신은 돌 안에 깃든 고대의 악이 부르는 소리를 느낍니다. 그것에 잠식되지 않도록 조심하세요.",m4q01c03arch,,nw_d2_wis_intn,,,0,0
+48796,PC,Player Character,Tell me your theories.,네 이론을 말해봐.,m4q01c03arch,,[지능 보통],,,0,0
+48797,PC,Player Character,Me want hear your theories.,나 네 이론 듣고 싶어.,m4q01c03arch,,[지능 낮음],,,0,0
+48798,PC,Player Character,I'm not interested in your theories.,네 이론에는 관심 없어.,m4q01c03arch,,[지능 보통],,,0,0
+48799,PC,Player Character,Me not interested in you theory.,나 네 이론 관심 없어.,m4q01c03arch,,[지능 낮음],,,0,0

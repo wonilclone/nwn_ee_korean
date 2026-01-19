@@ -1,0 +1,77 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+95749,PC,Player Character,"""Why are you always so foul-mouthed?""","""왜 항상 그렇게 입이 거칠어?""",h2_devil_gruul,,,,,0,0
+95750,PC,Player Character,"""Do you know the Reaper's True Name?""","""사신의 진명을 아는가?""",h2_devil_gruul,,h2c_reaper_name,,,0,0
+95751,PC,Player Character,"""What is this place? I don't even know where I am.""","""여기가 어디지? 내가 어디 있는지도 모르겠어.""",h2_devil_gruul,,,,,0,0
+95752,PC,Player Character,"""Aren't the Hells supposed to be hot?""","""지옥은 원래 뜨거운 곳 아닌가?""",h2_devil_gruul,,,,,0,0
+95753,PC,Player Character,"""I need to talk to you about Mephistopheles.""","""메피스토펠레스에 대해 물어볼 게 있어.""",h2_devil_gruul,,,,,0,0
+95754,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h2_devil_gruul,,,,,0,0
+95755,PC,Player Character,"""What is it that he wants?""","""그가 원하는 게 뭐지?""",h2_devil_gruul,,,,,0,0
+95756,PC,Player Character,"""Did he ever mention a Valsharess of the drow?""","""드로우의 발샤레스를 언급한 적 있나?""",h2_devil_gruul,,,,,0,0
+95757,PC,Player Character,"""Who is Mephistopheles, anyway?""","""메피스토펠레스가 도대체 누구지?""",h2_devil_gruul,,,,,0,0
+95758,PC,Player Character,"""Wait, I want to purchase something.""","""잠깐, 뭔가 사고 싶어.""",h2_devil_gruul,,,,,0,0
+95759,PC,Player Character,<StartAction>[View Store]</Start>,<StartAction>[상점 보기]</Start>,h2_devil_gruul,h2a_gruul_store,,,,0,0
+95760,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 신비를 찾고 있어.""",h2_devil_gruul,,h2c_gruul_5fold,,,0,0
+95761,PC,Player Character,<StartAction>[Leave.]</Start>,<StartAction>[떠난다.]</Start>,h2_devil_gruul,,,,,0,0
+95762,PC,Player Character,"<StartAction>[Attack]</Start> ""Die, foul beast!""","<StartAction>[공격]</Start> ""죽어라, 더러운 짐승!""",h2_devil_gruul,,,,,0,0
+95763,PC,Player Character,"""Ha ha... ha...? Er, I was only kidding...""","""하하... 하...? 어, 농담이었어...""",h2_devil_gruul,,,,,0,0
+95764,PC,Player Character,"""I don't have to answer to you! Bring it on!""","""네게 대답할 필요 없어! 덤벼!""",h2_devil_gruul,,,,,0,0
+95765,PC,Player Character,"""Because I feel like it!""","""그냥 그러고 싶으니까!""",h2_devil_gruul,,,,,0,0
+95766,PC,Player Character,"""Because you're evil!""","""네가 악하니까!""",h2_devil_gruul,,,,,0,0
+95767,PC,Player Character,"""Because you're a demon!""","""네가 악마니까!""",h2_devil_gruul,,,,,0,0
+95768,PC,Player Character,"""Because you're a devil!""","""네가 마귀니까!""",h2_devil_gruul,,,,,0,0
+95769,PC,Player Character,<StartAction>[Attack]</Start>,<StartAction>[공격]</Start>,h2_devil_gruul,h2_gruul_attack,,,,0,0
+95770,PC,Player Character,"""Wait, I know what's the matter.""","""잠깐, 뭐가 문제인지 알겠어.""",h2_devil_gruul,,h2c_gruul_matter,,,0,0
+95771,PC,Player Character,"""Goodbye.""","""잘 있어.""",h2_devil_gruul,,,,,0,0
+95772,PC,Player Character,"""Your workers are tired, that's all.""","""일꾼들이 지쳤을 뿐이야.""",h2_devil_gruul,,,,,0,0
+95773,PC,Player Character,"""You're too cruel a boss.""","""네가 너무 잔인한 상관이라서 그래.""",h2_devil_gruul,,,,,0,0
+95774,PC,Player Character,"""I, uh... dismantled your grinder...""","""나, 어... 네 분쇄기를 분해했어...""",h2_devil_gruul,,h2c_gruul_disman,,,0,0
+95775,PC,Player Character,"""I'm sorry, I won't do it again...""","""미안해, 다시는 안 그럴게...""",h2_devil_gruul,,,,,0,0
+95776,PC,Player Character,"""Wait, I can pay for it!""","""잠깐, 배상할 수 있어!""",h2_devil_gruul,,,,,0,0
+95777,PC,Player Character,"""Forget it! I'm not giving you anything!""","""됐어! 아무것도 안 줄 거야!""",h2_devil_gruul,,,,,0,0
+95778,PC,Player Character,"""Alright, I'll be back with the money.""","""알았어, 돈 가지고 올게.""",h2_devil_gruul,,,,,0,0
+95779,PC,Player Character,"<StartCheck>[Persuade]</Start> ""That's ridiculous! 30,000 tops!""","<StartCheck>[설득]</Start> ""말도 안 돼! 최대 3만이야!""",h2_devil_gruul,,,,,0,0
+95780,PC,Player Character,"""Forget it! I'm not giving you anything!""","""됐어! 아무것도 안 줄 거야!""",h2_devil_gruul,,,,,0,0
+95781,PC,Player Character,"""Here's the 30,000 gold, then.""","""그럼 여기 금화 3만.""",h2_devil_gruul,h2a_gruul_repair,h2c_gruul_30000g,,,0,0
+95782,PC,Player Character,"""Fine, here's 50,000 gold.""","""좋아, 여기 금화 5만.""",h2_devil_gruul,h2a_gruul_repai2,h2c_gruul_50000g,,,0,0
+95783,PC,Player Character,"""There was an imp caught in it.""","""임프가 하나 끼어 있었어.""",h2_devil_gruul,,,,,0,0
+95784,PC,Player Character,"""You feed them through? That's horrible!""","""그걸로 갈아버린다고? 끔찍해!""",h2_devil_gruul,,,,,0,0
+95785,PC,Player Character,"""You've got an imp in your grinder.""","""네 분쇄기에 임프가 끼어 있어.""",h2_devil_gruul,,h2c_gruul_nodism,,,0,0
+95786,PC,Player Character,"""Look, maybe we can declare today a holiday.""","""이봐, 오늘을 휴일로 선포하는 건 어때.""",h2_devil_gruul,,,,,0,0
+95787,PC,Player Character,"""Mardi Gras?""","""마르디 그라?""",h2_devil_gruul,,,,,0,0
+95788,PC,Player Character,"""Accordion Awareness Day?""","""아코디언 알리기의 날?""",h2_devil_gruul,,,,,0,0
+95789,PC,Player Character,"""Uh... National Bring-Your-Imp-To-Work Week?""","""어... 전국 임프 데려오기 주간?""",h2_devil_gruul,,,,,0,0
+95790,PC,Player Character,"<StartCheck>[Intelligence: Success]</Start> ""Mephistopheles has left Cania, for starters.""","<StartCheck>[지능: 성공]</Start> ""우선, 메피스토펠레스가 카니아를 떠났거든.""",h2_devil_gruul,,h2c_gruul_hi_int,,,0,0
+95791,PC,Player Character,"""We need to work on your management style.""","""네 관리 방식을 개선해야겠어.""",h2_devil_gruul,,,,,0,0
+95792,PC,Player Character,"""Feed him through? That's horrible!""","""갈아버린다고? 끔찍해!""",h2_devil_gruul,,,,,0,0
+95793,PC,Player Character,"""Fine, I'll go feed him through.""","""좋아, 가서 갈아버릴게.""",h2_devil_gruul,,,,,0,0
+95794,PC,Player Character,"""Forget it! I'm not giving you anything!""","""됐어! 아무것도 안 줄 거야!""",h2_devil_gruul,,,,,0,0
+95795,PC,Player Character,"""Goodbye.""","""잘 있어.""",h2_devil_gruul,,,,,0,0
+95796,PC,Player Character,"""Sorry, I'm not interested.""","""미안, 관심 없어.""",h2_devil_gruul,,,,,0,0
+95797,PC,Player Character,"""What are you proposing, Gru'ul?""","""뭘 제안하는 거야, 그루울?""",h2_devil_gruul,,c_evilact,,,0,0
+95798,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h2_devil_gruul,,,,,0,0
+95799,PC,Player Character,"""That sounds good, Gru'ul, but I don't have the names you want.""","""좋게 들리는데, 그루울. 하지만 네가 원하는 이름이 없어.""",h2_devil_gruul,,h2c_gruul_noslav,,,0,0
+95800,PC,Player Character,"""That sounds good, Gru'ul. Let's do it.""","""좋아, 그루울. 그렇게 하지.""",h2_devil_gruul,,h2c_gruul_slaves,,,0,0
+95801,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h2_devil_gruul,,,,,0,0
+95802,PC,Player Character,"""Ixthyria the Scalesinger, the kobold known as Deekin.""","""비늘소리꾼 익시리아, 디킨이라 불리는 코볼트.""",h2_devil_gruul,h2a_gruul_deeki1,h2c_gruul_deeki1,,,0,0
+95803,PC,Player Character,"""Qeyifalia the Skyseeker, the drow known as Nathyrra.""","""하늘탐구자 퀴팔리아, 나시라라 불리는 드로우.""",h2_devil_gruul,h2a_gruul_nathy1,h2c_gruul_nathy1,,,0,0
+95804,PC,Player Character,"""Oeskathine the Demonwrestler, the tiefling known as Valen.""","""악마씨름꾼 오에스카틴, 발렌이라 불리는 티플링.""",h2_devil_gruul,h2a_gruul_valen1,h2c_gruul_valen1,,,0,0
+95805,PC,Player Character,"""Va'ardalia the Twinsouled, the spirit known as Aribeth.""","""두영혼의 바아달리아, 아리베스라 불리는 영혼.""",h2_devil_gruul,h2a_gruul_ari1,h2c_gruul_ari1,,,0,0
+95806,PC,Player Character,,"""",h2_devil_gruul,h2a_gruul_leave,,,,0,0
+95807,PC,Player Character,"""Tell me about this artifact...""","""이 유물에 대해 말해줘...""",h2_devil_gruul,,,,,0,0
+95808,PC,Player Character,"""What use do you have for someone's True Name?""","""누군가의 진명을 뭐에 쓰려고?""",h2_devil_gruul,,,,,0,0
+95809,PC,Player Character,"""I want that artifact for free, Gru'ul...""","""그 유물을 공짜로 원해, 그루울...""",h2_devil_gruul,,h2c_gruul_named,,,0,0
+95810,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h2_devil_gruul,,,,,0,0
+95811,PC,Player Character,"""Have it your way, then.""","""그럼 네 맘대로 해.""",h2_devil_gruul,,,,,0,0
+95812,PC,Player Character,"""Fine. Then I'll just have to kill you for it.""","""좋아. 그럼 죽이고 뺏어야겠군.""",h2_devil_gruul,,,,,0,0
+95813,PC,Player Character,"""Hand it over, Gargelflaw the Vile...""","""내놔라, 비열한 가겔플로...""",h2_devil_gruul,,h2c_gruul_named,,,0,0
+95814,PC,Player Character,"""What tall tales have you been hearing?""","""무슨 허풍을 들었길래?""",h2_devil_gruul,,,,,0,0
+95815,PC,Player Character,<StartAction>[View Store]</Start>,<StartAction>[상점 보기]</Start>,h2_devil_gruul,h2a_gruul_store,h2c_gruul_store,,,0,0
+95816,PC,Player Character,"""Gargelflaw the Vile...""","""비열한 가겔플로...""",h2_devil_gruul,a_truename,h2c_gruul_named,,,0,0
+95817,PC,Player Character,"""I want you to declare a holiday for your workers.""","""일꾼들에게 휴일을 선포해.""",h2_devil_gruul,,,,,0,0
+95818,PC,Player Character,"""I demand that you show me your store!""","""상점을 보여달라고 명령한다!""",h2_devil_gruul,h2a_gruul_store2,h2c_gruul_nostor,,,0,0
+95819,PC,Player Character,<StartAction>[View Store.]</Start>,<StartAction>[상점 보기.]</Start>,h2_devil_gruul,h2a_gruul_store3,h2c_gruul_store,,,0,0
+95820,PC,Player Character,"""I command you to be good to the end of your days...""","""죽는 날까지 선하게 살라고 명령한다...""",h2_devil_gruul,h2a_gruul_good,,,,0,0
+95821,PC,Player Character,"""Goodbye, Gargelflaw.""","""잘 있어, 가겔플로.""",h2_devil_gruul,h2a_gruul_leave,,,,0,0
+108705,PC,Player Character,"""But I dismantled it!""","""하지만 내가 분해했는데!""",h2_devil_gruul,,h2c_gruul_disma2,,,0,0
+108706,PC,Player Character,"""But there's an imp in your grinder!""","""하지만 네 분쇄기에 임프가 끼어 있어!""",h2_devil_gruul,,h2c_gruul_imp,,,0,0
+110433,PC,Player Character,"""He named you Quarry Boss? That must be quite the honor...""","""널 채석장 우두머리로 임명했다고? 대단한 영광이겠군...""",h2_devil_gruul,,,,,0,0

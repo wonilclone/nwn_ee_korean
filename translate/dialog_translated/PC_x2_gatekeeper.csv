@@ -1,0 +1,84 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+110228,PC,Player Character,"""I need to ask you something.""","""물어볼 게 있습니다.""",x2_gatekeeper,,,,,0,0
+110229,PC,Player Character,"""I have died and wish to return to where I fell.""","""죽었는데 쓰러진 곳으로 돌아가고 싶습니다.""",x2_gatekeeper,,,,,0,0
+110230,PC,Player Character,"""But Toril is my home!""","""하지만 토릴이 제 고향이에요!""",x2_gatekeeper,,,,,0,0
+110231,PC,Player Character,"""You can't comply? But I command you!""","""따를 수 없다고요? 하지만 명령하는 겁니다!""",x2_gatekeeper,,,,,0,0
+110232,PC,Player Character,"""What? Who says I'm barred from there?""","""뭐라고요? 누가 제가 거기 출입 금지라고 했죠?""",x2_gatekeeper,,,,,0,0
+110233,PC,Player Character,"""So you worked for Mephistopheles all along.""","""그래서 처음부터 메피스토펠레스를 위해 일했군요.""",x2_gatekeeper,,,,,0,0
+110234,PC,Player Character,"""I knew it! You lied to me!""","""알았어! 날 속였군!""",x2_gatekeeper,,,,,0,0
+110235,PC,Player Character,"""His forever? What do you mean?""","""영원히 그의 것? 무슨 말이에요?""",x2_gatekeeper,,,,,0,0
+110236,PC,Player Character,"""But he's not here to command you now.""","""하지만 지금 그가 여기서 당신에게 명령하는 건 아니잖아요.""",x2_gatekeeper,,,,,0,0
+110237,PC,Player Character,"""What is a True Name?""","""진명이 뭐죠?""",x2_gatekeeper,,,,,0,0
+110238,PC,Player Character,"""So am I stuck here forever?""","""그러면 영원히 여기 갇히는 건가요?""",x2_gatekeeper,,,,,0,0
+110239,PC,Player Character,"""What do you mean he took my place?""","""그가 제 자리를 대신했다니 무슨 말이에요?""",x2_gatekeeper,,,,,0,0
+110240,PC,Player Character,"""Cania? Isn't that one of the Nine Hells?""","""카니아? 구층 지옥 중 하나 아닌가요?""",x2_gatekeeper,,[지능 높음],,,0,0
+110241,PC,Player Character,"""The realm of Cania? What do you mean?""","""카니아의 영역? 무슨 뜻이죠?""",x2_gatekeeper,,[지능 중간],,,0,0
+110242,PC,Player Character,"""Here? But... I'm not in Cania, am I?""","""여기요? 하지만... 제가 카니아에 있는 건 아니죠?""",x2_gatekeeper,,,,,0,0
+110243,PC,Player Character,"""Is there nothing you can do to help me?""","""저를 도와줄 수 있는 건 아무것도 없나요?""",x2_gatekeeper,,,,,0,0
+110244,PC,Player Character,"""I have other questions.""","""다른 질문이 있습니다.""",x2_gatekeeper,,,,,0,0
+110245,PC,Player Character,"""I must go.""","""가야겠습니다.""",x2_gatekeeper,,,,,0,0
+110246,PC,Player Character,"""What of my companions? Where are they?""","""제 동료들은요? 어디 있죠?""",x2_gatekeeper,,x2_hidecompanion,,,0,0
+110247,PC,Player Character,"""No, summon no one.""","""아니요, 아무도 소환하지 마세요.""",x2_gatekeeper,,,,,0,0
+110248,PC,Player Character,"""Summon forth Valen.""","""발렌을 소환하세요.""",x2_gatekeeper,,x2_gate_tryval,,,0,0
+110249,PC,Player Character,"""Summon forth Nathyrra.""","""나시라를 소환하세요.""",x2_gatekeeper,,x2_gate_trynat,,,0,0
+110250,PC,Player Character,"""Summon forth Deekin.""","""디킨을 소환하세요.""",x2_gatekeeper,,x2_gate_trydeeki,,,0,0
+110251,PC,Player Character,"""I can't think of anyone else.""","""다른 사람은 생각나지 않네요.""",x2_gatekeeper,,,,,0,0
+110252,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있습니다.""",x2_gatekeeper,,h2c_gate_5fold,,,0,0
+110253,PC,Player Character,"""Yes, it is. What is he waiting for?""","""네, 맞아요. 그가 뭘 기다리는 거죠?""",x2_gatekeeper,,,,,0,0
+110254,PC,Player Character,"""And who is 'she'?""","""그리고 '그녀'는 누구죠?""",x2_gatekeeper,,,,,0,0
+110255,PC,Player Character,"""So tell me again what I could do to return home?""","""그러면 집으로 돌아가려면 어떻게 해야 하는지 다시 말해주세요.""",x2_gatekeeper,,,,,0,0
+110256,PC,Player Character,"""Hecugoth the Abandoned, I command you to grant me passage home!""","""버림받은 헤쿠고스여, 고향으로 가는 길을 열라 명한다!""",x2_gatekeeper,a_truename,h1c_gate_truname,,,0,0
+110257,PC,Player Character,"""Thank you, Reaper. That will be all.""","""고맙습니다, 사신. 그게 다입니다.""",x2_gatekeeper,,,,,0,0
+110258,PC,Player Character,"""Allow the Devils to wreak their havoc on the planes.""","""마귀들이 차원계에 혼란을 일으키게 허하라.""",x2_gatekeeper,h1a_gate_devils,h1c_gate_devils,,,0,0
+110259,PC,Player Character,"""Allow the Spirits of the Dead to haunt the Living.""","""죽은 자들의 영혼이 산 자들을 괴롭히게 허하라.""",x2_gatekeeper,h1a_gate_spirits,h1c_gate_spirits,,,0,0
+110260,PC,Player Character,"""Allow the Githzerai Pilgrims to return home.""","""기스제라이 순례자들이 고향으로 돌아가게 허하라.""",x2_gatekeeper,h1a_gate_pilgrim,h1c_gate_pilgrim,,,0,0
+110261,PC,Player Character,"""I have died and wish to return to where I fell.""","""죽었는데 쓰러진 곳으로 돌아가고 싶습니다.""",x2_gatekeeper,,x2_portal_gate_1,,,0,0
+110262,PC,Player Character,"""What do you know about Cania?""","""카니아에 대해 뭘 알고 있죠?""",x2_gatekeeper,,,,,0,0
+110263,PC,Player Character,"""Surely there are other ways back to Toril?""","""분명 토릴로 돌아가는 다른 방법이 있을 텐데요?""",x2_gatekeeper,,,,,0,0
+110264,PC,Player Character,"""You sound as if you'd prefer to betray Mephistopheles.""","""메피스토펠레스를 배신하고 싶은 것처럼 들리는군요.""",x2_gatekeeper,,,,,0,0
+110265,PC,Player Character,"""But aren't you worried that I might abuse your True Name?""","""하지만 제가 당신의 진명을 남용할까 걱정되지 않나요?""",x2_gatekeeper,,,,,0,0
+110266,PC,Player Character,"""How could I discover your True Name?""","""당신의 진명을 어떻게 알아낼 수 있죠?""",x2_gatekeeper,,,,,0,0
+110267,PC,Player Character,"""Are there any other relics?""","""다른 유물이 있나요?""",x2_gatekeeper,,,,,0,0
+110268,PC,Player Character,"""What is Cania?""","""카니아가 뭐야?""",x2_gatekeeper,,[지능 낮음],,,0,0
+110269,PC,Player Character,"""I should destroy you for betraying me.""","""날 배신한 대가로 널 파괴해야겠군.""",x2_gatekeeper,,,,,0,0
+110270,PC,Player Character,"""I require your assistance. Quickly.""","""당신의 도움이 필요합니다. 빨리요.""",x2_gatekeeper,,,,,0,0
+110271,PC,Player Character,"""So we meet again.""","""다시 만났군요.""",x2_gatekeeper,,,,,0,0
+110272,PC,Player Character,"""It is good to see you again, Reaper.""","""다시 뵈니 반갑습니다, 사신.""",x2_gatekeeper,,,,,0,0
+110273,PC,Player Character,"""I would like to know more about how the Relic works.""","""유물이 어떻게 작동하는지 더 알고 싶습니다.""",x2_gatekeeper,,,,,0,0
+110274,PC,Player Character,"""How do I return home from here?""","""여기서 어떻게 집으로 돌아가죠?""",x2_gatekeeper,,,,,0,0
+110275,PC,Player Character,"""Why are rogue stones so important?""","""왜 도적의 돌이 그렇게 중요하죠?""",x2_gatekeeper,,,,,0,0
+110276,PC,Player Character,"""What do you mean by anchoring?""","""정박이란 무슨 뜻이죠?""",x2_gatekeeper,,,,,0,0
+110277,PC,Player Character,"""What about the far door, the one covered in mist?""","""저 멀리 안개로 덮인 문은요?""",x2_gatekeeper,,,,,0,0
+110278,PC,Player Character,"""You have to be dead to go through it?""","""그걸 통과하려면 죽어야 하나요?""",x2_gatekeeper,,,,,0,0
+110279,PC,Player Character,"""Where does the central portal go?""","""중앙 차원문은 어디로 가죠?""",x2_gatekeeper,,,,,0,0
+110280,PC,Player Character,"""So I am immortal? I cannot die?""","""그러면 전 불사인가요? 죽을 수 없는 건가요?""",x2_gatekeeper,,,,,0,0
+110281,PC,Player Character,"""I've heard enough about the Relic.""","""유물에 대해서는 충분히 들었습니다.""",x2_gatekeeper,,x2_portal_gate_c,,,0,0
+110282,PC,Player Character,"""I must go.""","""가야겠습니다.""",x2_gatekeeper,,,,,0,0
+110283,PC,Player Character,"""Tell me about the Relic again.""","""유물에 대해 다시 말해주세요.""",x2_gatekeeper,,,,,0,0
+110284,PC,Player Character,"""I must go to the leader of my adventuring party.""","""모험단의 리더에게 가야 합니다.""",x2_gatekeeper,,x2_portal_gate_4,,,0,0
+110285,PC,Player Character,"""I have died and wish to return to where I fell.""","""죽었는데 쓰러진 곳으로 돌아가고 싶습니다.""",x2_gatekeeper,,x2_portal_gate_1,,,0,0
+110286,PC,Player Character,"""But who created the relic? What is it?""","""하지만 누가 유물을 만들었죠? 그게 뭔가요?""",x2_gatekeeper,,,,,0,0
+110287,PC,Player Character,"""That's not an answer.""","""그건 대답이 아닌데요.""",x2_gatekeeper,,,,,0,0
+110288,PC,Player Character,"""Tell me about your realm once again.""","""당신의 영역에 대해 다시 말해주세요.""",x2_gatekeeper,,,,,0,0
+110289,PC,Player Character,"""Are there many places like this?""","""이런 곳이 많이 있나요?""",x2_gatekeeper,,,,,0,0
+110290,PC,Player Character,"""There is a door at the far end of the room, covered in mist...""","""방 저 끝에 안개로 덮인 문이 있는데...""",x2_gatekeeper,,,,,0,0
+110291,PC,Player Character,"""Why not?""","""왜 안 되죠?""",x2_gatekeeper,,,,,0,0
+110292,PC,Player Character,"""What are all these doors?""","""이 문들은 다 뭐죠?""",x2_gatekeeper,,,,,0,0
+110293,PC,Player Character,"""No, not yet.""","""아니요, 아직이요.""",x2_gatekeeper,,,,,0,0
+110294,PC,Player Character,"""Yes, do that.""","""네, 그렇게 하세요.""",x2_gatekeeper,,,,,0,0
+110295,PC,Player Character,"""But...where is this place exactly?""","""하지만... 여기가 정확히 어디죠?""",x2_gatekeeper,,,,,0,0
+110296,PC,Player Character,"""I don't understand.""","""이해가 안 돼요.""",x2_gatekeeper,,,,,0,0
+110297,PC,Player Character,"""I would like to know more about you.""","""당신에 대해 더 알고 싶습니다.""",x2_gatekeeper,,,,,0,0
+110298,PC,Player Character,"""Enough of that, then.""","""그건 됐습니다.""",x2_gatekeeper,,,,,0,0
+110299,PC,Player Character,"""Do you rule here? Or do you serve another?""","""여기를 다스리나요? 아니면 다른 이를 섬기나요?""",x2_gatekeeper,,,,,0,0
+110300,PC,Player Character,"""Is that an answer?""","""그게 대답인가요?""",x2_gatekeeper,,,,,0,0
+110301,PC,Player Character,"""What is the significance of the relic?""","""유물의 의미가 뭐죠?""",x2_gatekeeper,,,,,0,0
+110302,PC,Player Character,"""So could I command you to come with me?""","""그러면 당신에게 저와 함께 오라고 명령할 수 있나요?""",x2_gatekeeper,,,,,0,0
+110303,PC,Player Character,"""Is there no way to free you?""","""당신을 해방시킬 방법은 없나요?""",x2_gatekeeper,,,,,0,0
+110304,PC,Player Character,"""How did you come to be here?""","""어떻게 여기 오게 됐죠?""",x2_gatekeeper,,,,,0,0
+110305,PC,Player Character,"""Who created this realm, then?""","""그러면 누가 이 영역을 만들었죠?""",x2_gatekeeper,,,,,0,0
+110306,PC,Player Character,"""But... what *are* you, exactly?""","""하지만... 당신은 정확히 *무엇*이죠?""",x2_gatekeeper,,,,,0,0
+110307,PC,Player Character,"""That is a lot of names.""","""이름이 참 많군요.""",x2_gatekeeper,,,,,0,0
+110308,PC,Player Character,"""True Name?""","""진명이요?""",x2_gatekeeper,,,,,0,0
+110309,PC,Player Character,"""Why must it be secret?""","""왜 비밀이어야 하죠?""",x2_gatekeeper,,,,,0,0
+110310,PC,Player Character,"""It seems I died once again.""","""또 죽은 것 같군요.""",x2_gatekeeper,,x2_portal_gate_a,,,0,0

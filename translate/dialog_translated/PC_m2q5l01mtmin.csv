@@ -1,0 +1,48 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+38694,PC,Player Character,Any news that you can tell me of?,말해줄 수 있는 소식이 있나요?,m2q5l01mtmin,,[지능 보통],,,0,0
+38695,PC,Player Character [M2Q5C],"For a small inn, the place sure seems busy.",작은 여관 치고는 정말 바쁘네요.,m2q5l01mtmin,,m2q5csnocontkeyn,[M2Q5C],,0,0
+38696,PC,Player Character [M2Q5C],I'd like to ask you about this competition of yours.,당신의 대회에 대해 물어보고 싶은데요.,m2q5l01mtmin,,m2q5csnocontke2n,[M2Q5C],,0,0
+38697,PC,Player Character [M2Q5L01],How about a room?,방 하나 주세요.,m2q5l01mtmin,,m2q5l01mtmin02,[M2Q5L01],,0,0
+38698,PC,Player Character,I'll be going.,가볼게요.,m2q5l01mtmin,,[지능 보통],,,0,0
+38699,PC,Player Character,Why are Luskan's gates closed?,러스칸의 성문이 왜 닫혔나요?,m2q5l01mtmin,,[지능 보통],,,0,0
+38700,PC,Player Character [M2Q5C],Is that why the inn is so busy?,그래서 여관이 이렇게 바쁜 건가요?,m2q5l01mtmin,,m2q5csnocontkeyn,[M2Q5C],,0,0
+38701,PC,Player Character,"There wouldn't be some *other* reason, would there?",다른 이유는 없겠죠?,m2q5l01mtmin,,[지능 보통],,,0,0
+38702,PC,Player Character,The patrons seem to say that something else is going on.,손님들은 뭔가 다른 일이 벌어지고 있다고 말하던데요.,m2q5l01mtmin,,[지능 보통],,,0,0
+38703,PC,Player Character,"I'd like to know some more about it, first.",먼저 그것에 대해 더 알고 싶은데요.,m2q5l01mtmin,,[지능 보통],,,0,0
+38704,PC,Player Character,What's the reward?,보상이 뭐죠?,m2q5l01mtmin,,[지능 보통],,,0,0
+38705,PC,Player Character,"Yes, I'd like to take part.","네, 참가하고 싶습니다.",m2q5l01mtmin,,[지능 보통],,,0,0
+38706,PC,Player Character,No. Not interested.,아니요. 관심 없어요.,m2q5l01mtmin,,[지능 보통],,,0,0
+38707,PC,Player Character,I think your contest is barbaric!,당신 대회는 야만적이라고 생각해요!,m2q5l01mtmin,,[지능 보통],,,0,0
+38708,PC,Player Character,Could you explain all that again?,그걸 다시 설명해 주시겠어요?,m2q5l01mtmin,,[지능 보통],,,0,0
+38709,PC,Player Character,You gots news for me?,나한테 소식 있어?,m2q5l01mtmin,,[지능 낮음],,,0,0
+38710,PC,Player Character [M2Q5C],Why so busy? All people here to sleeps?,왜 이렇게 바빠? 다들 자러 온 거야?,m2q5l01mtmin,,m2q5csnocontkeyl,[M2Q5C],,0,0
+38711,PC,Player Character [M2Q5C],Me gots question about you competition.,나 대회 질문 있어.,m2q5l01mtmin,,m2q5csnocontke2l,[M2Q5C],,0,0
+38712,PC,Player Character [M2Q5L01],"Me wants to get a room, please.",나 방 갖고 싶어.,m2q5l01mtmin,,m2q5l01mtmin03,[M2Q5L01],,0,0
+38713,PC,Player Character,Me goes bye.,나 가.,m2q5l01mtmin,,[지능 낮음],,,0,0
+38714,PC,Player Character,Thank you. It was quite the experience.,감사합니다. 꽤 좋은 경험이었어요.,m2q5l01mtmin,,[지능 보통],,,0,0
+38715,PC,Player Character,Me says thanks for gold. Dungeon was good.,나 금화 고맙다고 말해. 던전 좋았어.,m2q5l01mtmin,,[지능 낮음],,,0,0
+38716,PC,Player Character,<StartCheck>[Persuade]</Start> Come on? That's it? Throw in another 300.,<StartCheck>[설득]</Start> 이봐요? 이게 다예요? 300개 더 주세요.,m2q5l01mtmin,,[지능 보통],,,0,0
+38717,PC,Player Character,<StartCheck>[Persuade]</Start> Me do good! Me gets... 300 gold more?,<StartCheck>[설득]</Start> 나 잘했어! 나 받아... 금화 300개 더?,m2q5l01mtmin,,[지능 낮음],,,0,0
+38718,PC,Player Character,<StartCheck>[Persuade]</Start> How about just 200 gold more?,<StartCheck>[설득]</Start> 금화 200개만 더 주시면 안 될까요?,m2q5l01mtmin,,[지능 보통],,,0,0
+38719,PC,Player Character,"<StartCheck>[Persuade]</Start> Me gets 200 more, me goes away.",<StartCheck>[설득]</Start> 나 200개 더 받으면 가.,m2q5l01mtmin,,[지능 낮음],,,0,0
+38720,PC,Player Character,"<StartCheck>[Persuade]</Start> Make it 100 more, and I'll leave satisfied.",<StartCheck>[설득]</Start> 100개만 더 주시면 만족하며 가겠습니다.,m2q5l01mtmin,,[지능 보통],,,0,0
+38721,PC,Player Character,<StartCheck>[Persuade]</Start> Me just wants 100 gold is all! Please?,<StartCheck>[설득]</Start> 나 금화 100개만 원해! 제발?,m2q5l01mtmin,,[지능 낮음],,,0,0
+38722,PC,Player Character,"I want more gold, and I'm taking it.","금화를 더 원하고, 가져갈 거예요.",m2q5l01mtmin,,[지능 보통],,,0,0
+38723,PC,Player Character,Me wants more gold! Now! Me takes! Now!,나 금화 더 원해! 지금! 나 가져가! 지금!,m2q5l01mtmin,,[지능 낮음],,,0,0
+38724,PC,Player Character,Bye.,안녕히 계세요.,m2q5l01mtmin,,,,,0,0
+38725,PC,Player Character,Why is gates to Luskan is closed?,러스칸 문 왜 닫혀 있어?,m2q5l01mtmin,,[지능 낮음],,,0,0
+38726,PC,Player Character [M2Q5C],So that is why inn so busy?,그래서 여관 바쁜 거야?,m2q5l01mtmin,,m2q5csnocontkeyn,[M2Q5C],,0,0
+38727,PC,Player Character,That only reason is so busy? No other reason?,그것만 이유야? 다른 이유 없어?,m2q5l01mtmin,,[지능 낮음],,,0,0
+38728,PC,Player Character,Me hears other say some things different.,나 다른 사람들 다른 말 하는 거 들었어.,m2q5l01mtmin,,[지능 낮음],,,0,0
+38729,PC,Player Character,Yes. Me do this.,응. 나 할게.,m2q5l01mtmin,,[지능 낮음],,,0,0
+38730,PC,Player Character,Tell more. Me not know what is it.,더 말해. 나 그게 뭔지 몰라.,m2q5l01mtmin,,[지능 낮음],,,0,0
+38731,PC,Player Character,What happens if me wins? What me get?,나 이기면 뭐 생겨? 뭐 받아?,m2q5l01mtmin,,[지능 낮음],,,0,0
+38732,PC,Player Character,"No, me is not doing this.","아니, 나 안 해.",m2q5l01mtmin,,[지능 낮음],,,0,0
+38733,PC,Player Character,Me not hear all you say. Say again?,나 네 말 다 못 들었어. 다시 말해?,m2q5l01mtmin,,[지능 낮음],,,0,0
+38734,PC,Player Character,Me think you make people as animal! Meanie!,나 생각엔 너 사람들 동물처럼 만들어! 나쁜 사람!,m2q5l01mtmin,,[지능 낮음],,,0,0
+38735,PC,Player Character,"You're right. Tell me about your contest, then.",맞아요. 그럼 대회에 대해 말해주세요.,m2q5l01mtmin,,[지능 보통],,,0,0
+38736,PC,Player Character,"Okay. Me re-thinks. Say about contest, then.",좋아. 나 다시 생각했어. 대회 말해줘.,m2q5l01mtmin,,[지능 낮음],,,0,0
+65140,PC,Player Character [M2Q5L01],Me wants to see goods.,나 물건을 보고 싶어.,m2q5l01mtmin,,m2q5l01mtmin05,[M2Q5L01],,0,0
+65141,PC,Player Character [M2Q5L01],Let me see your goods.,물건 좀 보여주세요.,m2q5l01mtmin,,m2q5l01mtmin04,[M2Q5L01],,0,0
+65142,PC,Player Character,Let me see what you sells.,너 뭐 파는지 보여줘.,m2q5l01mtmin,,[지능 낮음],,,0,0
+65143,PC,Player Character,Let me see what you're selling.,무엇을 파는지 보여주세요.,m2q5l01mtmin,,[지능 보통],,,0,0

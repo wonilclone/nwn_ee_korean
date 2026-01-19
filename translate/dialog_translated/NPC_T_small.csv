@@ -1,0 +1,342 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12786,Creature,Troll,Troll,트롤,BW_TROLL|M2Q2CTROLLHENCH|M2Q2_TROLL|NW_TROLL,,,,,0,0
+12788,Creature,Troll Shaman,Troll Shaman,트롤 주술사,BW_TROLLWIZ|M2Q2TROLLSHAM|NW_TROLLWIZ,,,,,0,0
+59001,Creature,Troll Shaman,"Rend your flesh and suck the marrow from your bones, will I!",네 살점을 찢고 뼈에서 골수를 빨아먹겠어!,M2Q2TROLLSHAM,,,,,0,0
+12829,Creature,Tyrantfog Zombie,Tyrantfog Zombie,폭군안개 좀비,NW_ZOMBTYRANT,,,,,0,0
+18462,Dialog,THOM,"Who are you, you little blighter?! Speak! Or I will call the guards to remove you!","넌 누구야, 이 조그만 녀석! 말해! 안 그러면 경비를 불러서 쫓아내겠어!",M1Q1D08THOM,,,,,0,0
+18463,Dialog,THOM,By what right do you enter my home! Did Ophala put you up to this?! I demand to know! ,무슨 권리로 내 집에 들어온 거야! 오팔라가 시킨 거야?! 당장 대답해!,M1Q1D08THOM,m1_initstop,,,,0,0
+18464,Dialog,THOM,Worry? Why should I worry! You are obviously a scoundrel with no true backbone! Guards! Dispatch this worm!,걱정? 왜 내가 걱정해야 돼! 넌 분명 배짱도 없는 건달이잖아! 경비! 이 벌레 좀 처리해!,M1Q1D08THOM,,,,,0,0
+18465,Dialog,THOM,"Eh... n-now then, there's no c-call for that kind of talk. I didn't mean to threaten you... Just thought I'd try the old school discipline... eh? Yes... ",어... 그-그렇게까지 말할 필요는 없지 않나. 위협할 생각은 없었어... 옛날 학교 방식으로 좀 해보려 했을 뿐이야... 그렇지? 그래...,M1Q1D08THOM,,,,,0,0
+18466,Dialog,THOM,"Oh, but who else would put you up to this, hmm? Well if she wants that portrait, she should send real fighting men to get it!","아, 하지만 그녀 말고 누가 시켰겠어, 응? 그 초상화를 원하면 제대로 된 전사들을 보내서 가져가라고 해!",M1Q1D08THOM,,,,,0,0
+18467,Dialog,THOM,Obviously Ophala means business... she s-sent capable muscle... Take what you want... I'm not the fighter I once was... ,오팔라가 진심이구나... 그-그녀가 유능한 깡패를 보냈어... 원하는 걸 가져가... 난 예전만큼 싸울 수 있는 사람이 못 돼...,M1Q1D08THOM,,,,,0,0
+18468,Dialog,THOM,*Sigh* Not like the old days... J-just don't hurt me... ,*한숨* 옛날 같지 않아... 그-그냥 날 다치게 하지 마...,M1Q1D08THOM,m1s2thomslg01,,,,0,0
+18469,Dialog,THOM,What? Only a dog doesn't respect surrender! Guards! Help!,뭐? 개만이 항복을 존중하지 않아! 경비! 도와줘!,M1Q1D08THOM,m1s2thomslg02,,,,0,0
+18470,Dialog,THOM,Take what you will... This old man can't stop you... Damn that Ophala... ,가져가고 싶은 거 가져가... 이 늙은이는 널 막을 수 없어... 빌어먹을 오팔라...,M1Q1D08THOM,,,,,0,0
+19679,Dialog,TANGLECORPS,"There is a large hole in the side of Lady Tanglebrook's skull, the contents having been violently removed. Whatever caused this, it wasn't the Wailing Death.","탱글브룩 양의 두개골 옆면에 커다란 구멍이 있으며, 내용물이 폭력적으로 제거된 것으로 보입니다. 이게 무엇 때문이든, 울부짖는 죽음은 아닙니다.",M1Q2_TANGLECORPS,,,,,0,0
+21981,Dialog,TRAITOR,Intruders! Get them!,침입자다! 잡아라!,M1Q4B07TRAITOR,,,,,0,0
+21982,Dialog,TRAITOR,Why do you protect him? He's probably dead of plague already!,왜 그를 지키는 거야? 이미 역병으로 죽었을 거야!,M1Q4B07TRAITOR,,,,,0,0
+21983,Dialog,TRAITOR,Vengaul is gone! Tell me where he hid it!,벵골은 사라졌어! 어디에 숨겼는지 말해!,M1Q4B07TRAITOR,,,,,0,0
+21984,Dialog,TRAITOR,"Look, you had better get used to the way things are now. Vengaul was too old and foolish!","이봐, 지금 상황에 익숙해지는 게 좋을 거야. 벵골은 너무 늙고 어리석었어!",M1Q4B07TRAITOR,,,,,0,0
+21985,Dialog,TRAITOR,Where is he! You will tell me! Callik must know!,그가 어디 있어! 말할 거야! 칼릭이 알아야 해!,M1Q4B07TRAITOR,,,,,0,0
+22208,Dialog,TAVERN,"The auction has been delayed twice... What the hell. If there's a cure, I want it NOW!",경매가 두 번이나 연기됐어... 젠장. 치료제가 있다면 지금 당장 원해!,M1Q4D03TAVERN,,,,,0,0
+22209,Dialog,TAVERN,You know... there's not a single Vengaul loyalist in the room... I wonder if he's even here.,있잖아... 방에 벵골 충성파가 한 명도 없어... 그가 여기 있긴 한 건가.,M1Q4D03TAVERN,,,,,0,0
+22210,Dialog,TAVERN,"Callik ain't here, is he? He doesn't like this one bit, I hear. Must be getting tired of being in Vengaul's shadow.","칼릭은 여기 없지, 그렇지? 이게 마음에 안 든다더라. 벵골 그늘에 가려져 있는 게 지겨워지는 모양이야.",M1Q4D03TAVERN,,,,,0,0
+22211,Dialog,TAVERN,I heard Vengaul's on the way out. Too flashy. Wants everything to be a grand adventure. Glory hound.,벵골이 퇴출당한다고 들었어. 너무 화려해. 모든 걸 대단한 모험으로 만들고 싶어 하지. 명성 사냥꾼이야.,M1Q4D03TAVERN,,,,,0,0
+22212,Dialog,TAVERN,Last I saw Vengaul he was carrying some kinda cage. Why's he walking his pets when there's business to be done?,마지막으로 봤을 때 벵골이 새장 같은 거 들고 있더라. 할 일이 있는데 왜 애완동물을 산책시키는 거야?,M1Q4D03TAVERN,,,,,0,0
+22213,Dialog,TAVERN,I heard it's just part of a cure. Gotta have the means to process it. Some thug buys it and it'll go to waste.,치료제의 일부일 뿐이라고 들었어. 처리할 수단이 있어야 해. 어떤 건달이 사면 낭비될 거야.,M1Q4D03TAVERN,,,,,0,0
+22214,Dialog,TAVERN,"I bet there ain't no cure. I mean, how did Vengaul get a cure when Nasher and them can't?","치료제 따윈 없을 거라 장담해. 내 말은, 나셰르도 못 구한 치료제를 벵골이 어떻게 구했겠어?",M1Q4D03TAVERN,,,,,0,0
+22215,Dialog,TAVERN,Vengaul better not be telling his damned stories again. You don't jerk around a city full of the dying.,벵골 그 빌어먹을 이야기 또 하지 않는 게 좋을 거야. 죽어가는 사람들로 가득한 도시를 가지고 장난치지 마.,M1Q4D03TAVERN,,,,,0,0
+22216,Dialog,TAVERN,I sold everything. All of it. This better be a cure. I'm ruined if it isn't. I'm dead if it isn't.,모든 걸 팔았어. 전부 다. 이게 치료제여야 해. 아니면 난 파산이야. 아니면 난 죽어.,M1Q4D03TAVERN,,,,,0,0
+22217,Dialog,TAVERN,I wish the damn thing would start. Have they got the goods or not?,빨리 시작했으면 좋겠어. 물건이 있는 거야 없는 거야?,M1Q4D03TAVERN,,,,,0,0
+22218,Dialog,TAVERN,Auction turned out to be a bust. Guess us simple thugs are stuck to die of the plague.,경매는 엉망이 됐어. 우리 같은 평범한 건달들은 역병으로 죽을 운명인가 봐.,M1Q4D03TAVERN,,,,,0,0
+22219,Dialog,TAVERN,Callik is gone. Looks like Vengaul is sticking around as leader after all. Never had my doubts... no sir... ,칼릭은 사라졌어. 벵골이 지도자로 남는 것 같아. 의심한 적 없었어... 전혀 없었다고...,M1Q4D03TAVERN,,,,,0,0
+23201,Dialog,TVRN,Drake and Harben are working out a defence for people still trapped by zombies. You should go help.,드레이크와 하벤이 아직 좀비에게 갇힌 사람들을 위한 방어를 마련하고 있어. 가서 도와줘.,M1Q5A10TVRN,,,,,0,0
+23202,Dialog,TVRN,"I saw some strange stuff around the old warehouse in the northeast, but Drake might know more.","북동쪽 낡은 창고 근처에서 이상한 걸 봤는데, 드레이크가 더 알 거야.",M1Q5A10TVRN,,,,,0,0
+23203,Dialog,TVRN,There's a few places that still have people in 'em. Speak with Drake if you want to check them out.,아직 사람들이 있는 곳이 몇 군데 있어. 확인하고 싶으면 드레이크한테 얘기해봐.,M1Q5A10TVRN,,,,,0,0
+23204,Dialog,TVRN,"I swear, the dead are rising faster than the plague is killin' people off! Gotta be connected somewhere.","맹세코, 죽은 자들이 역병으로 사람들이 죽는 것보다 빨리 일어나고 있어! 어딘가 연결돼 있을 거야.",M1Q5A10TVRN,,,,,0,0
+23205,Dialog,TVRN,"The undead cluster around the Great Graveyard, and nobody can get close. Barricaded up good, it is.",언데드가 거대 묘지 주변에 몰려 있어서 아무도 가까이 갈 수 없어. 제대로 방어벽이 쳐져 있어.,M1Q5A10TVRN,,,,,0,0
+23206,Dialog,TVRN,The Helmites swear the city will be delivered through blessings. Bah! Drake and Harben will deliver us proper by killin' zombies!,헬름 신자들은 축복으로 도시가 구원받을 거라고 맹세해. 헛소리! 드레이크와 하벤이 좀비를 죽여서 제대로 구원해줄 거야!,M1Q5A10TVRN,,,,,0,0
+23207,Dialog,TVRN,"Sure, the Helmite sanctuary keeps zombies away, but you have to listen to their ""blessing this"" and ""blessing that.""","그래, 헬름의 성소는 좀비를 막아주지만, ""축복이 어쩌고"" ""축복이 저쩌고"" 들어야 해.",M1Q5A10TVRN,,,,,0,0
+23208,Dialog,TVRN,"That Desther and his Helmites believe their ""pat on the head"" blessing actually helps. Hmpf! Ain't stopped anyone getting plagued yet!","그 데스터와 헬름 신자들은 ""머리 쓰다듬기"" 축복이 실제로 도움이 된다고 믿어. 흥! 아직 아무도 역병 걸리는 걸 막지 못했는데!",M1Q5A10TVRN,,,,,0,0
+23209,Dialog,TVRN,"Harben and Drake are keeping folk busy, but the damn undead need to be stopped at the source.","하벤과 드레이크가 사람들을 바쁘게 하고 있지만, 빌어먹을 언데드를 근원에서 막아야 해.",M1Q5A10TVRN,,,,,0,0
+23210,Dialog,TVRN,"Those guards at the gate canna even keep their own safe. Lost that young fellah Walters, I hear.",문 앞의 경비들은 자기들조차 지키지 못해. 그 젊은이 월터스를 잃었다고 들었어.,M1Q5A10TVRN,,,,,0,0
+23211,Dialog,TVRN,"That Drake fellah, he's something else, eh? An undead hunter! Good to see SOMEONE taking it to 'em!","그 드레이크라는 사람, 뭔가 달라, 그렇지? 언데드 사냥꾼이야! 누군가가 그들한테 맞서는 걸 보니 좋아!",M1Q5A10TVRN,,,,,0,0
+23212,Dialog,TVRN,"I coulda gone to that sanctuary instead of here, but I prefer sensible talk over their pipe dreams.","그 성소 대신 여기 올 수도 있었지만, 헛된 꿈보다 분별 있는 대화를 선호해.",M1Q5A10TVRN,,,,,0,0
+23213,Dialog,TVRN,"Saw some fool mage in red fighting instead of running. Full of himself, he was. Now the street's full of him too.",도망치지 않고 싸우는 빨간 옷 입은 바보 마법사를 봤어. 자만에 가득 차 있더라. 이제 거리가 그 사람으로 가득해.,M1Q5A10TVRN,,,,,0,0
+23214,Dialog,TVRN,Came here from the soup kitchen before it got overrun. Damned guards couldn't help. They didn't even know where it was.,무너지기 전에 무료 급식소에서 여기로 왔어. 빌어먹을 경비들은 도와주지 못했어. 거기가 어딘지도 몰랐어.,M1Q5A10TVRN,,,,,0,0
+23956,Creature,Torgo,What can I get you?,뭘 드릴까요?,M1S2ABARKEEP,,,,,0,0
+24717,Creature,Torgo,Torgo,토르고,M1S2ABARKEEP,,,,,0,0
+24606,Creature,Townsfolk,Townsfolk,마을 사람,M1Q02CTOWN,,,,,0,0
+24631,Creature,Tavern Patron,Tavern Patron,술집 손님,M1Q04CTAVERN,,,,,0,0
+94927,Creature,Tavern Patron,Tavern Patron,술집 손님,TAVERNPATRON,,,,,0,0
+24632,Creature,Thug,Thug,건달,M1Q04CTHUG|M1Q4AXBOW|M1Q4MUGGER|M1S04CTHUG,,,,,0,0
+64267,Creature,Thug,Ruffian,불한당,M1Q4MUGGER,,,,,0,0
+24635,Creature,Traitor,Traitor,배신자,M1Q04CTRAITOR,,,,,0,0
+24711,Creature,Telma,Telma,텔마,M1S1CTELMA,,,,,0,0
+24713,Creature,Talonite,Talonite,탈로나 신자,M1S1GENTALONITE,,,,,0,0
+24720,Creature,Tamora,Tamora,타모라,M1S2C02TAMORA|M4Q01A06TAMO,,,,,0,0
+48115,Creature,Tamora,"I never really saw myself as a nurse before, though I have often been complimented on my bedside manner!","전에는 간호사로 보지 않았는데, 사람들이 내 환자 돌보는 방식을 자주 칭찬해줬어!",M4Q01A06TAMO,m4q01a06tanielc1,,,vs_nprostf2_056,0,0
+48116,Creature,Tamora,I guess I shouldn't be joking with all the suffering around us. Especially not while Luce's baby sister is still missing. Poor little girl.,주변에 고통받는 사람들이 많은데 농담하면 안 되겠지. 특히 루스의 여동생이 아직 실종된 상황에선. 불쌍한 꼬마.,M4Q01A06TAMO,,,,,0,0
+48117,Creature,Tamora,"I guess I shouldn't be joking with all the suffering around us, but Luce and her sister have been reunited and I can't help but feel it's a sign of better times ahead.","주변에 고통받는 사람들이 많은데 농담하면 안 되겠지만, 루스가 여동생과 재회했고 더 나은 시절의 징조라는 생각을 멈출 수가 없어.",M4Q01A06TAMO,,,,,0,0
+48118,Creature,Tamora,When I look at all the wounded I can't help but curse those Luskan dogs for what they have done.,부상자들을 보면 러스칸 개자식들이 한 짓에 욕이 나와.,M4Q01A06TAMO,nw_d1_talktime,,,vs_nprostf2_057,0,0
+48119,Creature,Tamora,It's even worse for poor Luce. Her little sister is missing. I pray the Luskan scum don't find that little girl.,가엾은 루스는 더 심해. 여동생이 실종됐거든. 러스칸 쓰레기들이 그 꼬마를 찾지 못하길 기도해.,M4Q01A06TAMO,,,,,0,0
+48120,Creature,Tamora,Thank the gods Luce has been reunited with her little sister. I hate the thought of what might have happened if the Luskan scum got their dirty hands on that girl.,루스가 여동생과 재회했다니 신들께 감사해. 러스칸 쓰레기들의 더러운 손에 그 아이가 넘어갔다면 어땠을지 생각만 해도 끔찍해.,M4Q01A06TAMO,,,,,0,0
+48121,Creature,Tamora,Aren't you a handsome one? Come back when all this is over and I'll give you a night of pleasure you'll never forget... and at a very reasonable price! Just ask for Tamora.,잘생기셨네요? 이 일이 다 끝나면 돌아와요. 절대 못 잊을 즐거운 밤을 선사해드릴게요... 아주 합리적인 가격으로! 타모라를 찾으세요.,M4Q01A06TAMO,nw_d1_talktime,,,vs_nprostf2_058,0,0
+48122,Creature,Tamora,"But right now I must tend to the wounded. Maybe Ophala can help you, she's in charge of the Moonstone Mask.",하지만 지금은 부상자들을 돌봐야 해요. 오팔라가 도와줄 수 있을 거예요. 월장석 가면 여관을 책임지고 있거든요.,M4Q01A06TAMO,,,,,0,0
+48123,Creature,Tamora,I can't speak to you right now. I have to change the dressings of all these soldiers.,지금은 얘기할 수 없어요. 이 병사들 붕대를 다 갈아줘야 해요.,M4Q01A06TAMO,nw_d1_talktime,,,vs_nprostf2_059,0,0
+48124,Creature,Tamora,"If you need anything you should speak to Ophala, she's in charge of the Moonstone Mask.",필요한 게 있으면 오팔라한테 말씀하세요. 월장석 가면 여관을 책임지고 있어요.,M4Q01A06TAMO,,,,,0,0
+24727,Creature,Tanith,Tanith,타니스,M1S2TANITH|M4Q01A06TANI,,,,,0,0
+48125,Creature,Tanith,"Things were always hectic around here, but never like this. There seems to be no end to the number of wounded!","여기는 항상 정신없었지만, 이 정도는 아니었어. 부상자 수가 끝이 없는 것 같아!",M4Q01A06TANI,m4q01a06tanielc1,,,,0,0
+48126,Creature,Tanith,There's so many wounded we haven't even be able to help poor Luce look for her missing sister.,부상자가 너무 많아서 루스의 실종된 여동생을 찾는 것조차 도와주지 못했어.,M4Q01A06TANI,,,,,0,0
+48127,Creature,Tanith,At least Luce and her sister have been reunited. It's small things like that that give me hope.,적어도 루스와 여동생은 재회했어. 그런 작은 일들이 나한테 희망을 줘.,M4Q01A06TANI,,,,,0,0
+48128,Creature,Tanith,"Normally visiting soldiers are good for business around this place, but the Luskanites only want to kill us all!","보통은 병사들이 방문하면 장사가 잘 되는데, 러스칸 사람들은 우리 모두를 죽이려고만 해!",M4Q01A06TANI,nw_d1_talktime,,,,0,0
+48129,Creature,Tanith,It makes me shudder to think of poor Luce's missing sister. I hope the little girl is still alive.,루스의 실종된 여동생을 생각하면 몸서리쳐져. 그 꼬마가 아직 살아있길 바라지.,M4Q01A06TANI,,,,,0,0
+48130,Creature,Tanith,It's a miracle little Leesa survived with those butchers running around! But at least she's back safe with Luce now.,그 도살자들이 돌아다니는데 어린 리사가 살아남은 건 기적이야! 하지만 적어도 지금은 루스와 함께 안전해.,M4Q01A06TANI,,,,,0,0
+48131,Creature,Tanith,"If you return when this madness is over, my lady, I promise an evening of pleasure and delight... and at a very reasonable price. Just ask for Tanith.","이 광기가 끝나고 돌아오시면, 부인, 즐겁고 유쾌한 저녁을 약속드릴게요... 아주 합리적인 가격으로. 타니스를 찾으세요.",M4Q01A06TANI,nw_d1_talktime,,,,0,0
+48132,Creature,Tanith,"But right now I must tend to the wounded. Perhaps Ophala can help you, she's in charge of the Moonstone Mask.",하지만 지금은 부상자들을 돌봐야 해요. 오팔라가 도와줄 수 있을 거예요. 월장석 가면 여관을 책임지고 있거든요.,M4Q01A06TANI,,,,,0,0
+48133,Creature,Tanith,I have no time to speak with you. The wounded demand all my attention.,얘기할 시간이 없어요. 부상자들이 제 관심을 다 요구해요.,M4Q01A06TANI,nw_d1_talktime,,,,0,0
+48134,Creature,Tanith,"If you need anything you should speak to Ophala, she's in charge of the Moonstone Mask.",필요한 게 있으면 오팔라한테 말씀하세요. 월장석 가면 여관을 책임지고 있어요.,M4Q01A06TANI,,,,,0,0
+24728,Creature,Thoms Rumbottom,Rumbottom,럼바텀,M1S2THOMS,,,,,0,0
+24729,Creature,Thoms Rumbottom,Thoms,톰스,M1S2THOMS,,,,,0,0
+24753,Creature,Thoms Estate Guard,Thoms Estate Guard,톰스 저택 경비,M1Q1D11_PATROL,,,,,0,0
+27775,Dialog,TOWERGRD,"You won't be allowed across the bridge without authorization, citizen. Please step away.","허가 없이는 다리를 건널 수 없습니다, 시민. 물러나세요.",2Q4A_TOWERGRD,,,,,0,0
+27776,Dialog,TOWERGRD,"On your way, then, citizen.","가세요, 시민.",2Q4A_TOWERGRD,,,,,0,0
+27777,Dialog,TOWERGRD,"Don't return, if you know what's good for you.",자신을 위하는 거라면 돌아오지 마세요.,2Q4A_TOWERGRD,,,,,0,0
+27778,Dialog,TOWERGRD,"This bridge is the only egress onto the island where the Host Tower of the Arcane Brotherhood sits, <sir/madam>.","이 다리는 비전 결사단의 주탑이 있는 섬으로 가는 유일한 출구입니다, <sir/madam>.",2Q4A_TOWERGRD,,,,,0,0
+27779,Dialog,TOWERGRD,"Aye, an organization of wizards. Some say they rule Luskan, but if they do, they do so secretly. We rarely see or hear of them.","네, 마법사 조직이죠. 그들이 러스칸을 지배한다고 하는데, 그렇다면 비밀리에 하는 거죠. 거의 보거나 듣지 못하니까요.",2Q4A_TOWERGRD,,,,,0,0
+27780,Dialog,TOWERGRD,"Not hardly. The wizards protect their privacy with magic. You can't sail a boat to the island or tunnel there or even cast a spell to take you there... no passing, period. Not without their say so. That, at least, is what I'm told.",전혀요. 마법사들은 마법으로 사생활을 보호해요. 섬으로 배를 타고 가거나 땅굴을 뚫거나 주문을 써서 갈 수도 없어요... 통행 금지죠. 그들이 허락하지 않으면요. 적어도 제가 들은 바로는 그래요.,2Q4A_TOWERGRD,,,,,0,0
+27781,Dialog,TOWERGRD,"You need written permission by the Arcane Brotherhood themselves, affixed with their seal.","비전 결사단이 직접 쓴 서면 허가가 필요하고, 그들의 인장이 찍혀 있어야 합니다.",2Q4A_TOWERGRD,,,,,0,0
+27782,Dialog,TOWERGRD,(sigh) You don't. It's only given by the wizards to the High Captains and dignitaries invited to see them.,(한숨) 방법이 없어요. 마법사들이 대선장들과 초청받은 고위 인사들에게만 주거든요.,2Q4A_TOWERGRD,,,,,0,0
+27783,Dialog,TOWERGRD,I wouldn't suggest it. Even if you got past us... which I doubt... there are powerful wards on the bridge. You need the pass to get past them.,권하지 않겠어요. 우리를 지나쳤다고 해도... 의심스럽지만... 다리에 강력한 보호막이 있어요. 통행증이 있어야 지나갈 수 있어요.,2Q4A_TOWERGRD,,,,,0,0
+27784,Dialog,TOWERGRD,Or this is what I'm told. You're free to make the attempt... if you wish.,제가 들은 바로는 그래요. 원하신다면... 시도해보세요.,2Q4A_TOWERGRD,,,,,0,0
+27785,Dialog,TOWERGRD,What?! Let me see that... ,뭐?! 그거 좀 봅시다...,2Q4A_TOWERGRD,,,,,0,0
+27786,Dialog,TOWERGRD,You? An ambassador? Hmph. Let me see that... ,당신이? 대사가? 흥. 그거 좀 봅시다...,2Q4A_TOWERGRD,,,,,0,0
+27787,Dialog,TOWERGRD,"Well... it's affixed with the seal. That's magical, so it can't be forged. Very well, then, <sir/madam>, my apologies.","음... 인장이 찍혀 있네요. 마법이라 위조할 수 없죠. 좋습니다, <sir/madam>, 죄송합니다.",2Q4A_TOWERGRD,,,,,0,0
+27788,Dialog,TOWERGRD,"The Brotherhood have had quite a few dignitaries arriving within the last couple of weeks, but none from so far away. No matter. You may cross.","지난 몇 주 동안 결사단에 고위 인사들이 꽤 많이 도착했지만, 이렇게 먼 곳에서 온 분은 없었어요. 상관없습니다. 건너가세요.",2Q4A_TOWERGRD,2q4_towergrd03,,,,0,0
+27789,Dialog,TOWERGRD,"You are free to cross the bridge, ambassador.","다리를 건너셔도 됩니다, 대사님.",2Q4A_TOWERGRD,2q4_towergrd03,,,,0,0
+27790,Dialog,TOWERGRD,"You must be with the ambassador from Mulhorand, yes? You are free to cross the bridge.",멀호란드 대사와 함께 오신 거죠? 다리를 건너셔도 됩니다.,2Q4A_TOWERGRD,2q4_towergrd03,,,,0,0
+29332,Dialog,TROL,Hee hee!,히히!,M2Q02B06TROL,,,,,0,0
+29333,Dialog,TROL,Stupid bears!,멍청한 곰들!,M2Q02B06TROL,,,,,0,0
+38903,Dialog,TBLET,"A female wizard lived to see her great great grand daughters. She had 4 daughters, 5 grand daughters, 7 great grand daughters and 11 great great grand daughters. How many great great great grand daughters would she have?","한 여성 마법사가 증손녀들을 보고 살았습니다. 그녀에게는 딸이 4명, 손녀가 5명, 증손녀가 7명, 고손녀가 11명 있었습니다. 그녀에게는 몇 명의 현손녀가 있을까요?",M2Q5N16TBLET,,,,,0,0
+40958,Creature,Tarran,Tarran,타란,M2Q6CTARRAN|M2Q6CTARRAN2,,,,,0,0
+40959,Creature,Thurwin,Thurwin,서윈,M2Q6CTHUR,,,,,0,0
+40971,Creature,Troll Berserker,Troll Chieftain,트롤 족장,NW_TROLLCHIEF,,,,,0,0
+40972,Creature,Troll Elite,Troll Elite,트롤 정예병,NW_TROLL_ELITE,,,,,0,0
+44458,Dialog,TAVE,"Get you a drink, <sir/madam>? We've got a fine selection of beverages if you're interested.","한잔 드릴까요, <sir/madam>? 관심 있으시면 좋은 음료들이 많이 있어요.",M3Q01A11TAVE,,,,,0,0
+44460,Dialog,TAVE,Then quit bothering me. Can't you see I'm swamped?,그럼 날 귀찮게 하지 마. 내가 얼마나 바쁜지 안 보여?,M3Q01A11TAVE,,,,,0,0
+44464,Dialog,TAVE,Let me show you what we've got.,뭐가 있는지 보여드릴게요.,M3Q01A11TAVE,m3q01a11tave2,,,,0,0
+44465,Dialog,TAVE,"Oh, I get it. A man selling drinks is automatically the information hub of the community, right? Well, I don't have the time or the inclination to pry my drunken customers about their dark secrets.","아, 알겠어. 술 파는 사람은 자동으로 동네 정보통이라는 거지, 그렇지? 글쎄, 난 취한 손님들한테서 어두운 비밀을 캐낼 시간도 의향도 없어.",M3Q01A11TAVE,,,,,0,0
+44466,Dialog,TAVE,"I sell drinks. I'm a bartender. That's all I am, and I'm fine with that. So, do you want a drink or not?","난 술 팔아. 바텐더야. 그게 다고, 그걸로 만족해. 그래서, 술 마실 거야 말 거야?",M3Q01A11TAVE,,,,,0,0
+60571,Dialog,TAVE,"What? No, I'd never sell a drink to a soldier on duty. They'd take my license if I did that - I'd be ruined!","뭐? 아니, 근무 중인 병사한테 술을 팔 리가 없지. 그랬다간 면허 박탈당해서 파산이야!",M3Q01A11TAVE,,,,,0,0
+60572,Dialog,TAVE,"Don't be going around spreading rumors like that now, my <lord/lady>, even in jest. We're talking about my livelihood, after all.","그런 소문 퍼트리지 마세요, <lord/lady>. 농담으로라도. 내 생계가 걸린 문제라고요.",M3Q01A11TAVE,,,,,0,0
+60573,Dialog,TAVE,"Of course, my good <man/woman>. It's as if it never happened. Now, can I get you a drink?","물론이죠, 손님. 없던 일로 하죠. 자, 한잔 드릴까요?",M3Q01A11TAVE,,,,,0,0
+60574,Dialog,TAVE,What? You mean... this is a shakedown? I thought I'd gotten away from this kind of extortion when I left Westgate! You're as bad as those damn Nightmasks!,뭐? 이거... 갈취야? 웨스트게이트를 떠나면 이런 공갈은 안 당할 줄 알았는데! 그 망할 나이트마스크 놈들만큼이나 나쁘네!,M3Q01A11TAVE,,,,,0,0
+60575,Dialog,TAVE,"Fine - here's your gold. But now that I've given my share, you've got to leave me alone! In fact, get out of here. You're not welcome in my bar!","좋아, 여기 돈이야. 하지만 이제 내 몫 냈으니까 날 좀 내버려둬! 아니 그냥 나가. 내 술집에선 환영 안 해!",M3Q01A11TAVE,nw_d1_evil_50,,,,0,0
+60576,Dialog,TAVE,"Sorry, but you're too late. Somebody's already come by and put the squeeze on me here at Beorunna's well.",미안하지만 늦었어. 이미 누가 와서 여기 베오룬나의 우물에서 돈 뜯어갔거든.,M3Q01A11TAVE,,,,,0,0
+60577,Dialog,TAVE,"I've already paid my share to you shakedown artists and I can't afford anymore, no matter what you threaten me with. You can't get blood from a stone.","이미 너희 갈취범들한테 내 몫 냈고 더 이상은 못 줘, 뭘로 협박하든 상관없이. 돌에서 피는 못 짜내.",M3Q01A11TAVE,,,,,0,0
+60578,Dialog,TAVE,"Sorry, but that's the hard truth of the matter. But maybe you want to drown your sorrows in a nice drink?",미안하지만 그게 현실이야. 그렇지만 좋은 술로 슬픔이나 달래볼래?,M3Q01A11TAVE,,,,,0,0
+60579,Dialog,TAVE,"You again? Look, I've already paid you off once - I can't afford to give you another 50 gold! You can't get blood from a stone.","또 왔어? 이봐, 이미 한 번 돈 줬는데, 50 금화를 또 줄 여유는 없어! 돌에서 피는 못 짜내.",M3Q01A11TAVE,,,,,0,0
+60580,Dialog,TAVE,"If I wanted to deal with these kind of constant shakedowns I would have stayed in Westgate and given my gold to the Nightmasks. So go on, you - get out of here.","이런 끊임없는 갈취를 당할 바엔 웨스트게이트에 남아서 나이트마스크 놈들한테 돈 주는 게 나았지. 그러니까 꺼져, 나가.",M3Q01A11TAVE,,,,,0,0
+46284,Dialog,TRIBEPATROL,I live for the hunt... not this... boredom.,난 사냥을 위해 사는데... 이런... 지루함은 아니야.,M3Q2TRIBEPATROL,,,,,0,0
+46285,Dialog,TRIBEPATROL,"To me, my brothers! An intruder is before me.","내 형제들이여, 내게로! 침입자가 눈앞에 있다.",M3Q2TRIBEPATROL,,,,,0,0
+46286,Dialog,TRIBEPATROL,My brothers and sisters will soon descend upon you. Your death is written stranger... ,"내 형제자매들이 곧 너에게 덮칠 것이다. 네 죽음은 이미 정해졌다, 이방인이여...",M3Q2TRIBEPATROL,,,,,0,0
+46287,Dialog,TRIBEPATROL,Strange. Wonder what that was all about.,이상하네. 그게 뭐였을까.,M3Q2TRIBEPATROL,,,,,0,0
+46288,Dialog,TRIBEPATROL,Kill the intruder!,침입자를 죽여라!,M3Q2TRIBEPATROL,,,,,0,0
+46289,Dialog,TRIBEPATROL,The intruder!,침입자다!,M3Q2TRIBEPATROL,,,,,0,0
+46290,Dialog,TRIBEPATROL,Move along.,지나가.,M3Q2TRIBEPATROL,nw_d2_walkways,,,,0,0
+47023,Creature,Temporal Lizard,Temporal Slave,시간 노예,M3Q2FTIMELIZARD,,,,,0,0
+47024,Creature,Temporal Lizard,Temporal Lizard,시간 도마뱀,M3Q2FTIMELIZARD,,,,,0,0
+49080,Dialog,TRIGGER1,The door by which you entered the inner sanctum vanishes.,내부 성소로 들어온 문이 사라집니다.,M4TRIGGER1,,,,,0,0
+50983,Creature,Tabitha,Tabitha,타비사,M1Q0BTABITHA,,,,,0,0
+50984,Creature,Target,Target,표적,M1Q0BTARGET,,,,,0,0
+50985,Creature,Tough Goblin,Weak Goblin,약한 고블린,M1Q0D19GOBLIN,,,,,0,0
+57875,Creature,Tough Goblin,Tough Goblin,강한 고블린,M1Q0D19GOBLIN,,,,,0,0
+56577,Creature,Troll Chieftain,Troll Chieftain,트롤 족장,CT_TROLL2|NW_BOSS|NW_TROLLBOSS,,,,,0,0
+59223,Dialog,TREE,"This ancient tree seems to pulse with energy, as if it is sentient.","이 고대 나무는 에너지로 맥동하는 것 같으며, 마치 의식을 가진 듯합니다.",M2Q3F_TREE,,,,,0,0
+60870,Dialog,TEMPORAL,This apparition does not appear to be able to interact with you.,이 유령은 당신과 상호작용할 수 없는 것으로 보입니다.,M3Q2F_TEMPORAL,,,,,0,0
+61306,Creature,Theren Mirniman,Mirniman,미르니만,M4_MOON_COMMONF,,,,,0,0
+61307,Creature,Theren Mirniman,Theren,테렌,M4_MOON_COMMONF,,,,,0,0
+61338,Creature,Temple Guard,Temple Guard,사원 경비,M4_TYR_GUARD,,,,,0,0
+62913,Dialog,TAVERN2,"This is the place to be, yes indeed... (hic). Drinkin' the day... night... away. Whatever.","여기가 있을 곳이지, 정말로... (딸꾹) 낮에... 밤에... 술 마시면서. 뭐든.",M1Q4D03TAVERN2,,,,,0,0
+62914,Dialog,TAVERN2,"Who wants to sing! Well, go ahead, I ain't gonna. (hic) Hahaaaaa...","누가 노래 부를래! 뭐, 어서, 난 안 할 거야. (딸꾹) 하하하...",M1Q4D03TAVERN2,,,,,0,0
+62915,Dialog,TAVERN2,"To all my friends! Yeah, that's all of you... (hic) I love you guys...","내 모든 친구들에게! 그래, 너희 모두... (딸꾹) 사랑해 친구들...",M1Q4D03TAVERN2,,,,,0,0
+62916,Dialog,TAVERN2,"Who's gonna be my friend? The one that buy-sh me another drink, that's who. Hahaaaaa!","누가 내 친구가 될래? 나한테 술 한잔 더 사줄 사람, 그게 친구지. 하하하!",M1Q4D03TAVERN2,,,,,0,0
+65105,Dialog,TOMB,The board reads: 'BEWARE! The undead are restless. Bring weapons to visit Grandma or don't visit her at all. Really.' It is signed: The Caretaker.,게시판에는 이렇게 적혀 있습니다: '주의! 언데드들이 들끓고 있습니다. 할머니를 방문하려면 무기를 가져오세요. 아니면 아예 방문하지 마세요. 진심입니다.' 서명: 관리인.,M2Q5F_TOMB,,,,,0,0
+65339,Dialog,TAG_KID,Captain Baram smells like a sewer. He gets mad if you tell him.,바람 대장은 하수구 냄새가 나. 말하면 화내.,2Q4_TAG_KID,,,,,0,0
+65340,Dialog,TAG_KID,War is fun 'cause I get to stay up late!,"전쟁은 재밌어, 늦게까지 안 자도 되니까!",2Q4_TAG_KID,,,,,0,0
+65341,Dialog,TAG_KID,I can't go home because my house burnt down.,집이 불타서 집에 못 가.,2Q4_TAG_KID,,,,,0,0
+65342,Dialog,TAG_KID,Captain Kurth is a big meenie! He hit Billy.,커스 대장은 나쁜 사람이야! 빌리를 때렸어.,2Q4_TAG_KID,,,,,0,0
+65343,Dialog,TAG_KID,Mommy says we have to stay here or we'll die.,엄마가 여기 있어야 안 죽는대.,2Q4_TAG_KID,,,,,0,0
+65344,Dialog,TAG_KID,Tag! You're it!,술래잡기! 네가 술래!,2Q4_TAG_KID,,,,,0,0
+66086,Creature,Temporal Golem Slave,Temporal Golem Slave,시간 골렘 노예,M3Q2F_TEMP_GOLEM,,,,,0,0
+68418,Creature,Trained Krenshar,Trained Krenshar,훈련된 크렌샤,NW_KRENSHAR,,,,,0,0
+68432,Creature,Trained Umber Hulks,Trained Umber Hulks,훈련된 엄버 헐크,NW_UMBERHULK,,,,,0,0
+71313,Creature,Toli Hurst,"What is this all about? Why are ye fighting with our guest? If my Nathan judges <him/her> to be good enough to enter our home, then ye will treat <him/her> as an honored guest!","이게 무슨 일이에요? 왜 우리 손님과 싸우는 거예요? 내 나단이 <him/her>을 우리 집에 들일 만큼 괜찮다고 판단했다면, 당신도 <him/her>을 귀한 손님으로 대해야죠!",TOLI,,,,,0,0
+71315,Creature,Toli Hurst,"Nathan will dock your pay, lad. Now get out of here and get your chores done.","나단이 네 급여를 깎을 거야, 애야. 이제 나가서 네 일 마저 하렴.",TOLI,,,,,0,0
+71317,Creature,Toli Hurst,"<StartCheck>[Failure]</Start> Well, he can be very short tempered, but he really is a good farmhand, and we do be needing him. But he does need to be punished.","<StartCheck>[실패]</Start> 뭐, 성질이 급하긴 하지만 정말 좋은 일꾼이에요. 꼭 필요하고요. 하지만 벌은 받아야죠.",TOLI,,,,,0,0
+71318,Creature,Toli Hurst,"<StartCheck>[Success]</Start> I never did like the way ye skulked about here, lad. Ye can just get off our property and we'll see about hiring a new hand.","<StartCheck>[성공]</Start> 네가 여기서 몰래 돌아다니는 게 맘에 안 들었어, 애야. 우리 땅에서 나가고 새 일꾼을 구해야겠어.",TOLI,,,,,0,0
+71320,Creature,Toli Hurst,"Hmm, well, you had better get outside and get your chores done boy, before Nathan comes back in.","음, 나단이 돌아오기 전에 얼른 나가서 일 마저 하렴, 얘야.",TOLI,,,,,0,0
+75011,Creature,Toli Hurst,Toli,톨리,TOLI,,,,,0,0
+71628,Creature,Thayvian Slave,T'is a better life out here than back in Thay.,테이에 있을 때보다 여기서의 삶이 더 나아.,Q1THAYSLAVE,,,,,0,0
+74966,Creature,Thayvian Slave,Thayvian Slave,테이인 노예,Q1THAYSLAVE,,,,,0,0
+71629,Dialog,TRACKS2,"A large group of creatures passed through this area recently, according to the tracks.",발자국에 따르면 최근에 대규모 생명체 무리가 이 지역을 지나갔습니다.,Q1TRACKS2,,,,,0,0
+71630,Dialog,TRACKS2,"A large group of humanoids came from the forest and headed towards the road not long ago. According to the tracks, they took the same route back.",대규모 인간형 무리가 숲에서 나와 얼마 전에 도로로 향했습니다. 발자국에 따르면 같은 길로 돌아갔습니다.,Q1TRACKS2,,,,,0,0
+71631,Dialog,TRACKS2,"A large group of gnolls, perhaps three dozen, followed this path out of the forest towards the road not long ago. About half that many gnolls returned by the same route later. The tracks indicate that they took with them perhaps half a dozen kobolds... perhaps prisoners?","대규모 놀 무리, 아마 36마리 정도가 얼마 전에 이 길을 따라 숲에서 도로로 향했습니다. 그 절반 정도의 놀이 나중에 같은 길로 돌아갔습니다. 발자국을 보면 코볼트 6마리 정도를 데리고 갔습니다... 포로일까요?",Q1TRACKS2,,,,,0,0
+72050,Dialog,TRACKS2,"According to the disturbed dust, you believe the kobolds have passed through this section of the hall several times.",흩어진 먼지로 보아 코볼트들이 이 복도 구역을 여러 번 지나간 것 같습니다.,Q2TRACKS2,,,,,0,0
+72051,Dialog,TRACKS2,"The kobolds obviously continued along this hallway, but you cannot tell which direction they took at the intersection.","코볼트들이 분명 이 복도를 따라 계속 갔지만, 교차로에서 어느 방향으로 갔는지는 알 수 없습니다.",Q2TRACKS2,,,,,0,0
+72052,Dialog,TRACKS2,"The kobolds continued this way, according to the tracks, and turned right at the intersection.",발자국에 따르면 코볼트들이 이쪽으로 계속 가서 교차로에서 오른쪽으로 돌았습니다.,Q2TRACKS2,,,,,0,0
+74201,Dialog,TRACKS2,"A large group of creatures passed through this area recently, according to the tracks.",발자국에 따르면 최근에 대규모 생명체 무리가 이 지역을 지나갔습니다.,Q7TRACKS2,,,,,0,0
+74202,Dialog,TRACKS2,A large group of humanoids came from the foothills and headed north not long ago.,대규모 인간형 무리가 구릉지에서 나와 얼마 전에 북쪽으로 향했습니다.,Q7TRACKS2,,,,,0,0
+74203,Dialog,TRACKS2,"A large group of gnolls, perhaps three dozen, followed this path through the forest to the north not long ago. The tracks indicate that they took with them perhaps half a dozen kobolds... perhaps prisoners?  They do not seem to have gone into the nearby cave.","대규모 놀 무리, 아마 36마리 정도가 얼마 전에 이 길을 따라 숲을 지나 북쪽으로 향했습니다. 발자국을 보면 코볼트 6마리 정도를 데리고 갔습니다... 포로일까요? 근처 동굴로는 들어가지 않은 것 같습니다.",Q7TRACKS2,,,,,0,0
+107122,Dialog,TRACKS2,This area is full of humanoid tracks.,이 지역은 인간형 발자국으로 가득합니다.,Q6_TRACKS2,,,,,0,0
+107123,Dialog,TRACKS2,"A group of drow has passed through this area, although you can't tell their numbers or heading.","드로우 무리가 이 지역을 지나갔지만, 숫자나 방향은 알 수 없습니다.",Q6_TRACKS2,,,,,0,0
+107124,Dialog,TRACKS2,A dozen drow passed here. It seems that they scanned the area for a while and then they split into two groups. One climbed the ledge to the left and one climbed the opposite ledge to the right.,12명의 드로우가 여기를 지나갔습니다. 잠시 지역을 살핀 뒤 두 무리로 나뉜 것 같습니다. 한 무리는 왼쪽 절벽을 올라가고 한 무리는 반대쪽 오른쪽 절벽을 올라갔습니다.,Q6_TRACKS2,,,,,0,0
+71632,Dialog,TRACKS3,"The small humanoid tracks in the area are numerous and scattered. They seem to head in every direction, almost.",이 지역의 작은 인간형 발자국이 많고 흩어져 있습니다. 거의 모든 방향으로 향하는 것 같습니다.,Q1TRACKS3,,,,,0,0
+71633,Dialog,TRACKS3,There are many small humanoid tracks seemingly running to and fro in the area... probably belonging to kobolds. There seem to be far more of the older tracks heading towards Hilltop than returning to the mountains in the north.,이 지역에는 많은 작은 인간형 발자국이 여기저기 왔다갔다 한 흔적이 있습니다... 아마 코볼트의 것입니다. 힐탑으로 향하는 오래된 발자국이 북쪽 산으로 돌아가는 것보다 훨씬 많습니다.,Q1TRACKS3,,,,,0,0
+71634,Dialog,TRACKS3,"There are scatterings of many small humanoid tracks in the area... kobold tracks, without a doubt. The older and more numerous tracks head towards Hilltop. A much smaller number head north, back towards the mountains, and those tracks seem to indicate the kobolds were running or fleeing at the time.","이 지역에는 많은 작은 인간형 발자국이 흩어져 있습니다... 의심의 여지없이 코볼트 발자국입니다. 더 오래되고 많은 발자국은 힐탑으로 향합니다. 훨씬 적은 수가 북쪽 산으로 돌아가며, 그 발자국들은 코볼트들이 당시 달리거나 도망치고 있었음을 나타냅니다.",Q1TRACKS3,,,,,0,0
+72053,Dialog,TRACKS3,"There are many tracks in the dust. Wherever the kobolds are hiding, they are likely very close.","먼지에 발자국이 많습니다. 코볼트들이 어디 숨어 있든, 아마 아주 가까운 곳일 겁니다.",Q2TRACKS3,,,,,0,0
+72054,Dialog,TRACKS3,"The kobold tracks along this hall are heavy. Wherever they are hiding, it is nearby and likely further down the hall.",이 복도의 코볼트 발자국이 많습니다. 어디 숨어 있든 근처이고 아마 복도 더 아래일 겁니다.,Q2TRACKS3,,,,,0,0
+72055,Dialog,TRACKS3,"It's obvious to you that the kobolds slowed along this hallway, and numerous tracks run back and forth along its length. You are quite sure that the kobold lair is close... perhaps further down the hall from here at the next doorway.",코볼트들이 이 복도에서 속도를 늦추고 수많은 발자국이 복도를 따라 왔다갔다 한 것이 확실합니다. 코볼트 소굴이 가깝다고 확신합니다... 아마 여기서 복도 더 아래 다음 출입구일 겁니다.,Q2TRACKS3,,,,,0,0
+74204,Dialog,TRACKS3,"A large group of creatures passed through this area recently, according to the tracks.",발자국에 따르면 최근에 대규모 생명체 무리가 이 지역을 지나갔습니다.,Q7TRACKS3,,,,,0,0
+74205,Dialog,TRACKS3,A large group of humanoids came from the foothills and headed north and then east not long ago.,대규모 인간형 무리가 구릉지에서 나와 얼마 전에 북쪽으로 갔다가 동쪽으로 향했습니다.,Q7TRACKS3,,,,,0,0
+74206,Dialog,TRACKS3,"A large group of gnolls, perhaps three dozen, followed this path through the forest to the north not long ago. The tracks indicate that they took with them perhaps half a dozen kobolds... perhaps prisoners?  They seem to have gone east when they reached the clearing in front of you.","대규모 놀 무리, 아마 36마리 정도가 얼마 전에 이 길을 따라 숲을 지나 북쪽으로 향했습니다. 발자국을 보면 코볼트 6마리 정도를 데리고 갔습니다... 포로일까요? 앞의 공터에 도착했을 때 동쪽으로 간 것 같습니다.",Q7TRACKS3,,,,,0,0
+107126,Dialog,TRACKS3,This area is full of humanoid tracks.,이 지역은 인간형 발자국으로 가득합니다.,Q6_TRACKS3,,,,,0,0
+107127,Dialog,TRACKS3,"A group of drow has passed through this area, although you can't tell their numbers or heading.","드로우 무리가 이 지역을 지나갔지만, 숫자나 방향은 알 수 없습니다.",Q6_TRACKS3,,,,,0,0
+107128,Dialog,TRACKS3,A group of about a dozen drow passed through this area. They went into the cave to the south.,약 12명의 드로우 무리가 이 지역을 지나갔습니다. 남쪽 동굴로 들어갔습니다.,Q6_TRACKS3,,,,,0,0
+71635,Dialog,TRACKS4,There is a scattering of small humanoid tracks... probably kobold... heading in this direction. You suspect that these kobolds fled from the battle nearby.,작은 인간형 발자국이 흩어져 있습니다... 아마 코볼트... 이쪽 방향으로 향하고 있습니다. 이 코볼트들이 근처 전투에서 도망친 것 같습니다.,Q1TRACKS4,,,,,0,0
+71636,Dialog,TRACKS4,"A large group of humanoids came from the forest and headed towards the road not long ago. According to the tracks, they took the same route back.",대규모 인간형 무리가 숲에서 나와 얼마 전에 도로로 향했습니다. 발자국에 따르면 같은 길로 돌아갔습니다.,Q1TRACKS4,,,,,0,0
+71637,Dialog,TRACKS4,It is obvious from the tracks that a group of kobolds fled the battle at some point and ran in this direction. There appears to have been little pursuit by any other creatures.,발자국으로 보아 코볼트 무리가 어느 시점에 전투에서 도망쳐 이쪽 방향으로 달아난 것이 확실합니다. 다른 생명체들의 추격은 거의 없었던 것 같습니다.,Q1TRACKS4,,,,,0,0
+74207,Dialog,TRACKS4,"A large group of creatures passed through this area recently, according to the tracks.",발자국에 따르면 최근에 대규모 생명체 무리가 이 지역을 지나갔습니다.,Q7TRACKS4,,,,,0,0
+74208,Dialog,TRACKS4,A large group of humanoids came from the foothills and headed around the lake.,대규모 인간형 무리가 구릉지에서 나와 호수 주변으로 향했습니다.,Q7TRACKS4,,,,,0,0
+74209,Dialog,TRACKS4,"A large group of gnolls, perhaps three dozen, followed this path through the forest to the north not long ago. The tracks indicate that they took with them perhaps half a dozen kobolds... perhaps prisoners?  They seem to have avoided the docks and skirted around the lake.","대규모 놀 무리, 아마 36마리 정도가 얼마 전에 이 길을 따라 숲을 지나 북쪽으로 향했습니다. 발자국을 보면 코볼트 6마리 정도를 데리고 갔습니다... 포로일까요? 부두를 피해 호수 주변을 돌아간 것 같습니다.",Q7TRACKS4,,,,,0,0
+72047,Dialog,TRACKS1,"The dust on the ground has been disturbed heavily by small tracks... kobolds, without a doubt.",바닥의 먼지가 작은 발자국으로 심하게 어지러워져 있습니다... 의심의 여지없이 코볼트입니다.,Q2TRACKS1,,,,,0,0
+72048,Dialog,TRACKS1,"There are numerous tracks belonging to humanoids... kobolds, no doubt... heading north. You cannot determine how many, exactly, but more than a dozen at least.",인간형 발자국이 많이 있습니다... 의심의 여지없이 코볼트... 북쪽으로 향하고 있습니다. 정확히 몇 마리인지는 알 수 없지만 최소 12마리 이상입니다.,Q2TRACKS1,,,,,0,0
+72049,Dialog,TRACKS1,"There are numerous kobold tracks scuffed into the disturbed dust, here. Around twenty or so kobolds ran through this area in a hurry, heading north. There is no evidence of them returning the same way, although examining the tracks closely leads you to believe that at least one kobold snuck back out of the crypt very recently.","흩어진 먼지에 수많은 코볼트 발자국이 남아 있습니다. 약 20마리 정도의 코볼트가 서둘러 이 지역을 지나 북쪽으로 향했습니다. 같은 길로 돌아간 증거는 없지만, 발자국을 자세히 조사한 결과 최소 한 마리의 코볼트가 최근에 묘지에서 몰래 빠져나간 것 같습니다.",Q2TRACKS1,,,,,0,0
+74198,Dialog,TRACKS1,"A large group of creatures passed through this area recently, according to the tracks.",발자국에 따르면 최근에 대규모 생명체 무리가 이 지역을 지나갔습니다.,Q7TRACKS1,,,,,0,0
+74199,Dialog,TRACKS1,A large group of humanoids came from the foothills and headed north not long ago.,대규모 인간형 무리가 구릉지에서 나와 얼마 전에 북쪽으로 향했습니다.,Q7TRACKS1,,,,,0,0
+74200,Dialog,TRACKS1,"A large group of gnolls, perhaps three dozen, followed this path through the forest to the north not long ago. The tracks indicate that they took with them perhaps half a dozen kobolds... perhaps prisoners?","대규모 놀 무리, 아마 36마리 정도가 얼마 전에 이 길을 따라 숲을 지나 북쪽으로 향했습니다. 발자국을 보면 코볼트 6마리 정도를 데리고 갔습니다... 포로일까요?",Q7TRACKS1,,,,,0,0
+107118,Dialog,TRACKS1,This area is full of humanoid tracks.,이 지역은 인간형 발자국으로 가득합니다.,Q6_TRACKS1,,,,,0,0
+107119,Dialog,TRACKS1,"A group of drow has passed through this area, although you can't tell their numbers or heading.","드로우 무리가 이 지역을 지나갔지만, 숫자나 방향은 알 수 없습니다.",Q6_TRACKS1,,,,,0,0
+107120,Dialog,TRACKS1,A large drow raiding party has passed through this area recently. There appears to have been about a dozen drow in this group as they headed to the east.,최근에 대규모 드로우 약탈대가 이 지역을 지나갔습니다. 이 무리에는 약 12명의 드로우가 있었던 것 같으며 동쪽으로 향했습니다.,Q6_TRACKS1,,,,,0,0
+73718,Dialog,TYMOENTRANCE,"On closer inspection, there appears to be a large and obvious keyhole carved into the center of this stone.",자세히 보니 이 돌의 중앙에 크고 확실한 열쇠 구멍이 새겨져 있습니다.,Q5TYMOENTRANCE,,,,,0,0
+73719,Dialog,TYMOENTRANCE,"On closer inspection, there appears to be a large and obvious keyhole carved into the center of this stone.  A large stone key seems to be stuck in the keyhole.",자세히 보니 이 돌의 중앙에 크고 확실한 열쇠 구멍이 새겨져 있습니다. 큰 돌 열쇠가 열쇠 구멍에 끼어 있는 것 같습니다.,Q5TYMOENTRANCE,,,,,0,0
+73723,Dialog,TYMOEXIT,"On closer inspection, there appears to be a large and obvious keyhole carved into the center of this stone.",자세히 보니 이 돌의 중앙에 크고 확실한 열쇠 구멍이 새겨져 있습니다.,Q5TYMOEXIT,,,,,0,0
+73724,Dialog,TYMOEXIT,"On closer inspection, there appears to be a large and obvious keyhole carved into the center of this stone.  A large stone key seems to be stuck in the keyhole.",자세히 보니 이 돌의 중앙에 크고 확실한 열쇠 구멍이 새겨져 있습니다. 큰 돌 열쇠가 열쇠 구멍에 끼어 있는 것 같습니다.,Q5TYMOEXIT,,,,,0,0
+74210,Dialog,TRACKS5,"A large group of creatures passed through this area recently, according to the tracks.",발자국에 따르면 최근에 대규모 생명체 무리가 이 지역을 지나갔습니다.,Q7TRACKS5,,,,,0,0
+74211,Dialog,TRACKS5,A large group of humanoids came from the foothills and headed north across a stream.,대규모 인간형 무리가 구릉지에서 나와 북쪽으로 개울을 건넜습니다.,Q7TRACKS5,,,,,0,0
+74212,Dialog,TRACKS5,"A large group of gnolls, perhaps three dozen, followed this path through the forest to the north not long ago. The tracks indicate that they took with them perhaps half a dozen kobolds... perhaps prisoners?  They seem to have headed north across the stream towards a small cave.","대규모 놀 무리, 아마 36마리 정도가 얼마 전에 이 길을 따라 숲을 지나 북쪽으로 향했습니다. 발자국을 보면 코볼트 6마리 정도를 데리고 갔습니다... 포로일까요? 개울을 건너 북쪽의 작은 동굴로 향한 것 같습니다.",Q7TRACKS5,,,,,0,0
+79486,Dialog,TEMPLEDOOR,"Something holds you here within this foul temple. It seems this tale moves only forward, never back.","이 사악한 사원 안에 무언가가 당신을 붙잡고 있습니다. 이 이야기는 앞으로만 나아갈 뿐, 뒤로 돌아갈 수 없는 것 같습니다.",TEMPLEDOOR,,,,,0,0
+79487,Dialog,TOWERDOORS,<StartAction>You feel a sharp tug and an electric shock as Ashtara's collar tightens about your neck. It seems he doesn't want you to stray too far...</Start>,<StartAction>아시타라의 목걸이가 목을 조이며 날카로운 잡아당김과 전기 충격이 느껴집니다. 그가 당신이 너무 멀리 가는 걸 원하지 않는 것 같습니다...</Start>,TOWERDOORS,,,,al_mg_jacobs1,0,0
+79553,Creature,The Fury,The Fury,분노,NW_BANDIT006,,,,,0,0
+79567,Creature,The Dark Wind,The Dark Wind,어둠의 바람,CUT20DARKWIND,,,,,0,0
+79572,Creature,The Dead Wind,The Dead Wind,죽음의 바람,DEADWIND,,,,,0,0
+79620,Creature,Tower Builder,Tower Builder,탑 건설자,TOWERBUILDER,,,,,0,0
+79634,Creature,The Wise Wind,The Wise Wind,지혜의 바람,WISEWIND,,,,,0,0
+80712,Dialog,TAUNT,Talona grant us victory!!,탈로나여 우리에게 승리를 주소서!!,Q1_TAUNT,,,,,0,0
+80713,Dialog,TAUNT,Hsss!! Perish!!,쉬익!! 죽어라!!,Q1_TAUNT,,,,,0,0
+80714,Dialog,TAUNT,Fool! Here you shall die!,바보 같은! 여기서 죽을 거야!,Q1_TAUNT,,,,,0,0
+80715,Dialog,TAUNT,You shall be sacrificed to the Lady of Poison!,독의 여신께 제물로 바쳐질 것이다!,Q1_TAUNT,,,,,0,0
+80716,Dialog,TAUNT,The Lady of Poison shall drink your blood!,독의 여신이 네 피를 마실 것이다!,Q1_TAUNT,,,,,0,0
+80717,Dialog,TAUNT,Hsss! You will die in agony!,쉬익! 고통 속에서 죽을 거야!,Q1_TAUNT,,,,,0,0
+80718,Dialog,TAUNT,Talona shall have your soul!,탈로나가 네 영혼을 가져갈 것이다!,Q1_TAUNT,,,,,0,0
+82350,Dialog,TALISSICA,"Excuse me, but I'm trying to meditate. Please speak to the high priest if you have any questions.",죄송하지만 명상 중입니다. 질문이 있으시면 대사제님께 말씀하세요.,Q5A_TALISSICA,,,,,0,0
+82351,Dialog,TALISSICA,"The Messiah speaks to me. Oh, great <Lord/Lady>, show me a wonderous sign and I will give you a worthy gift.","메시아께서 내게 말씀하신다. 오, 위대하신 <Lord/Lady>시여, 경이로운 징표를 보여주시면 합당한 선물을 드리겠습니다.",Q5A_TALISSICA,,,,,0,0
+82352,Dialog,TALISSICA,"Great <Lord/Lady>, I live to serve.","위대하신 <Lord/Lady>시여, 모시기 위해 살아갑니다.",Q5A_TALISSICA,,,,,0,0
+82353,Dialog,TALISSICA,"I will give you my gift. Here it is, Great <Lord/Lady>.","제 선물을 드리겠습니다. 여기 있습니다, 위대하신 <Lord/Lady>시여.",Q5A_TALISSICA,act_aoworship_1,,,,0,0
+82354,Dialog,TALISSICA,"I pray for the time when you will grant me powers of my own, that I might go out and spread word of your dominion.",언젠가 저에게도 권능을 내려주셔서 밖으로 나가 당신의 지배를 전파할 수 있기를 기도합니다.,Q5A_TALISSICA,,,,,0,0
+82355,Dialog,TALISSICA,"That was amazing, Great <Lord/Lady>!","놀라우셨습니다, 위대하신 <Lord/Lady>시여!",Q5A_TALISSICA,,,,,0,0
+82356,Dialog,TALISSICA,"<StartCheck>[Successful]</Start> I will give you my gift. Here it is, Great <Lord/Lady>. Please do not smite me! I live only to serve you.","<StartCheck>[성공]</Start> 제 선물을 드리겠습니다. 여기 있습니다, 위대하신 <Lord/Lady>시여. 제발 징벌하지 마십시오! 오직 당신을 섬기기 위해 살아갑니다.",Q5A_TALISSICA,act_aoworship_1,,,,0,0
+82357,Dialog,TALISSICA,"I am sorry, Great <Lord/Lady>. I will give you my gift. Here it is, Great <Lord/Lady>. Please do not smite me! I live only to serve you.","죄송합니다, 위대하신 <Lord/Lady>시여. 제 선물을 드리겠습니다. 여기 있습니다, 위대하신 <Lord/Lady>시여. 제발 징벌하지 마십시오! 오직 당신을 섬기기 위해 살아갑니다.",Q5A_TALISSICA,act_aoworship_1,,,,0,0
+82358,Dialog,TALISSICA,"Great <Lord/Lady>, I have given you my gift. I await the moment when you grant me mighty powers to show the world your dominion.","위대하신 <Lord/Lady>시여, 선물을 드렸습니다. 당신의 지배를 세상에 보여줄 강력한 권능을 내려주실 순간을 기다립니다.",Q5A_TALISSICA,,,,,0,0
+82359,Dialog,TALISSICA,You cannot be Holy Ao! He would not come down here just to ignore us!,성스러운 에이오일 리가 없어! 그분은 우리를 무시하려고 여기 내려오지 않으셨을 거야!,Q5A_TALISSICA,,,,,0,0
+82360,Dialog,TALISSICA,Get out of my sight. Your kind sicken me.,내 눈앞에서 사라져. 네 꼴이 역겹군.,Q5A_TALISSICA,,,,,0,0
+82367,Dialog,TELNIX,"Excuse me, but I'm trying to study the ways of apathy. Please speak to the high priest if you have any questions.",죄송하지만 무관심의 길을 공부 중입니다. 질문이 있으시면 대사제님께 말씀하세요.,Q5A_TELNIX,,,,,0,0
+82368,Dialog,TELNIX,"The Messiah speaks to me. Oh, Mighty God Incarnate, show these fools your divine apathy and ignore their pleas for help.","메시아께서 내게 말씀하신다. 오, 강력하신 신의 화신이시여, 이 어리석은 자들에게 당신의 신성한 무관심을 보이시고 그들의 도움 요청을 무시하소서.",Q5A_TELNIX,,,,,0,0
+82371,Dialog,TELNIX,The true Ao would not be swayed so easily.,진정한 에이오라면 그렇게 쉽게 흔들리지 않으셨을 텐데.,Q5A_TELNIX,,,,,0,0
+82372,Dialog,TELNIX,"Mighty God Incarnate, I live to serve.","강력하신 신의 화신이시여, 모시기 위해 살아갑니다.",Q5A_TELNIX,,,,,0,0
+82373,Dialog,TELNIX,"You show your true colors. Leave me be, that I can search for the divine essence of apathy.","본색을 드러내는군. 날 내버려둬, 무관심의 신성한 본질을 찾을 테니.",Q5A_TELNIX,,,,,0,0
+82374,Dialog,TELNIX,Then it is yours. Go into the world and show just how little you care.,그럼 네 것이야. 세상에 나가서 얼마나 관심 없는지 보여줘.,Q5A_TELNIX,act_aoworship_3,,,,0,0
+82375,Dialog,TELNIX,"Do as you wish, I do not care.","하고 싶은 대로 해, 상관없어.",Q5A_TELNIX,,,,,0,0
+82376,Dialog,TELNIX,That should not matter to a powerful being like Ao.,에이오 같은 강력한 존재에겐 그런 게 문제가 안 되지.,Q5A_TELNIX,,,,,0,0
+82377,Dialog,TELNIX,"Mighty God Incarnate, you have my gift. I worship you as the true spirit of godly apathy.","강력하신 신의 화신이시여, 선물을 받으셨습니다. 진정한 신성한 무관심의 정신으로 당신을 숭배합니다.",Q5A_TELNIX,,,,,0,0
+82378,Dialog,TELNIX,"You cannot be the true incarnation of Ao, or you would have ignored the other fools and their pleas. Leave me be, that I can search for the divine essence of apathy.","에이오의 진정한 화신일 리가 없어, 아니면 다른 어리석은 자들과 그들의 간청을 무시했을 테니까. 날 내버려둬, 무관심의 신성한 본질을 찾을 테니.",Q5A_TELNIX,,,,,0,0
+82379,Dialog,TELNIX,"I really don't care that you threatened our lives. That doesn't mean I want to be your friend, however.",네가 우리 목숨을 위협한 건 정말 상관없어. 하지만 그렇다고 네 친구가 되고 싶진 않아.,Q5A_TELNIX,,,,,0,0
+82675,Dialog,TELNIX,"I... I suppose it could be. It was a very good answer, after all.",그... 그럴 수도 있지. 정말 좋은 대답이었으니까.,Q5B_TELNIX,,,,,0,0
+82688,Dialog,TELNIX,I don't know about this. You should speak to me first.,잘 모르겠는데. 먼저 나한테 얘기해야 돼.,Q5B_TELNIX,,,,,0,0
+82370,Dialog,TALISSICIA,"And hear my plea, Great <Lord/Lady>, and you will also have mine.","제 간청도 들어주소서, 위대하신 <Lord/Lady>시여, 그러면 제 것도 받으실 수 있습니다.",Q5B_TALISSICIA,,,,,0,0
+82674,Dialog,TALISSICIA,"Yes, yes, it must be <him/her>! This is what we have sought!","그래, 그래, 틀림없어! 우리가 찾던 분이야!",Q5B_TALISSICIA,,,,,0,0
+82676,Dialog,TALISSICIA,"You are the avatar, the incarnation of our god. You are Ao!","당신은 화신, 우리 신의 화신입니다. 당신은 에이오입니다!",Q5B_TALISSICIA,,,,,0,0
+82678,Dialog,TALISSICIA,"Yes <he/she> is! I can sense <his/her> power now! My Great <Lord/Lady>, thank you for coming to us!","맞아! 이제 <his/her> 권능이 느껴져! 위대하신 <Lord/Lady>시여, 우리에게 와주셔서 감사합니다!",Q5B_TALISSICIA,,,,,0,0
+82682,Dialog,TALISSICIA,"Yes, tell us more, Great <Lord/Lady>.","네, 더 말씀해주세요, 위대하신 <Lord/Lady>시여.",Q5B_TALISSICIA,,,,,0,0
+82684,Dialog,TALISSICIA,Thank you for revealing yourself to us! Now we can be sure that we were wise and followed the right path!,우리에게 계시를 주셔서 감사합니다! 이제 우리가 현명하게 올바른 길을 따랐다는 걸 확신할 수 있습니다!,Q5B_TALISSICIA,,,,,0,0
+82686,Dialog,TALISSICIA,"I have a gift for you, Great <Lord/Lady>. Come and speak to me and you shall have my gift.","위대하신 <Lord/Lady>시여, 선물이 있습니다. 와서 얘기하시면 제 선물을 드리겠습니다.",Q5B_TALISSICIA,,,,,0,0
+82691,Dialog,TALISSICIA,"No, it is a sign! A sign that we are to be like rocks, thrown against the hatred of the world, guided by Ao's own hand.","아니야, 징표야! 우리가 바위처럼, 세상의 증오에 맞서 던져지되, 에이오 자신의 손에 인도받는다는 징표야.",Q5B_TALISSICIA,,,,,0,0
+82799,Dialog,TABLE,"This table smells strongly of sweet wine, and beside the keg is a bottle of the Aoist's potent brew along with many small goblets.","이 탁자에서 달콤한 포도주 냄새가 강하게 나며, 통 옆에는 에이오 신자들의 강한 술이 담긴 병과 많은 작은 잔이 있습니다.",Q5B_TABLE,,,,,0,0
+82800,Dialog,TABLE,"You take the bottle of wine and put it away amongst your equipment. It is the only one on the table, alas, and the keg is almost empty.","포도주 병을 가져다가 장비 사이에 넣었습니다. 아쉽게도 탁자 위에 유일한 병이고, 통은 거의 비어 있습니다.",Q5B_TABLE,q5b_swipewine7,,,,0,0
+82801,Dialog,TABLE,"<StartCheck>[Failure]</Start> You manage to grab the bottle of wine, but the looks from the nearby faithful force you to return it where it was immediately. They are keeping a wary eye on the wine, now.","<StartCheck>[실패]</Start> 포도주 병을 잡으려 했지만, 근처 신자들의 시선 때문에 즉시 제자리에 돌려놓아야 했습니다. 그들은 이제 포도주를 경계심 가득한 눈으로 지켜보고 있습니다.",Q5B_TABLE,q5b_table01,,,,0,0
+82802,Dialog,TABLE,<StartCheck>[Success]</Start> You quickly swipe the bottle from the table and store it amongst your equipment. Nobody in the temple is the wiser.,<StartCheck>[성공]</Start> 재빨리 탁자에서 병을 훔쳐 장비 사이에 넣었습니다. 사원의 누구도 눈치채지 못했습니다.,Q5B_TABLE,q5b_swipewine5,,,,0,0
+82803,Dialog,TABLE,You pour some of the wine in a goblet and taste it. It is as good as its reputation states... easily one of the finest wines you've ever had.,포도주를 잔에 따라 맛을 봅니다. 평판대로 훌륭합니다... 지금까지 마셔본 포도주 중 최고 중 하나입니다.,Q5B_TABLE,,,,,0,0
+82804,Dialog,TABLE,The minister looks at you severely until you put down the goblet. Apparently sampling the wine is not permitted.,목사가 당신이 잔을 내려놓을 때까지 엄하게 쳐다봅니다. 포도주를 맛보는 것은 허용되지 않는 것 같습니다.,Q5B_TABLE,,,,,0,0
+82805,Dialog,TABLE,This table smells strongly of sweet wine. Atop it is an almost-empty keg and many small goblets.,이 탁자에서 달콤한 포도주 냄새가 강하게 납니다. 위에는 거의 빈 통과 많은 작은 잔이 있습니다.,Q5B_TABLE,,,,,0,0
+86276,Creature,The Seer,"Lith My'athar cannot survive this siege much longer, Matron Myrune.","리스 마이아사는 이 포위를 더 이상 버틸 수 없습니다, 미룬 대모.",Q2ASEER,,,,vs_nx2seerf_53,0,0
+86277,Creature,The Seer,You have to order the House Maeviir troops to press the attack.,마에비르 가문 군대에게 공격을 강화하라고 명령해야 합니다.,Q2ASEER,,,,vs_nx2seerf_54,0,0
+86278,Creature,The Seer,What... what do you mean?,뭐... 무슨 말씀이세요?,Q2ASEER,,,,vs_nx2seerf_55,0,0
+86279,Creature,The Seer,What? You cannot believe the Valsharess' lies.,뭐라고요? 발샤레스의 거짓말을 믿을 수 없어요.,Q2ASEER,,,,vs_nx2seerf_56,0,0
+107854,Creature,The Seer,The Seer,선견자,HX_FEND_SEER1|HX_FEND_SEER2|Q2ASEER|Q7_SEER,,,,,0,0
+86789,Creature,The Valsharess' Hand,"""My name is Ashar, the Valsharess' hand. Through me she sees all that transpires on the battlefield. My mistress is pleased you have chosen to join us in our final push into Lith My'athar.""","내 이름은 아샤르, 발샤레스의 수족이다. 나를 통해 그녀는 전장에서 일어나는 모든 일을 본다. 우리 여주인께서는 네가 리스 마이아사로의 마지막 진격에 합류하기로 선택한 것을 기쁘게 여기신다.",Q2AEVILHERALD,act_q2aevil_2,,,vs_nx2intlm_52,0,0
+86790,Creature,The Valsharess' Hand,"""The battle is all but over, and my mistress has one last order for you: find and kill the Seer!""","전투는 거의 끝났고, 우리 여주인께서 너에게 마지막 명령이 있으시다: 선견자를 찾아 죽여라!",Q2AEVILHERALD,,,,vs_nx2intlm_53,0,0
+86791,Creature,The Valsharess' Hand,"""The battle will only end once we find and kill the Seer.""",선견자를 찾아 죽여야만 전투가 끝날 것이다.,Q2AEVILHERALD,,,,vs_nx2intlm_54,0,0
+107839,Creature,The Valsharess' Hand,The Valsharess' Hand,발샤레스의 수족,Q2AEVILHERALD,,,,,0,0
+91857,Creature,Tamsil,"""Wait! What's that noise, Father?""","기다려! 그 소음이 뭐야, 아버지?",TAMSIL1,,,,as_cv_gutterspl3,0,0
+94925,Creature,Tamsil,Tamsil,탐실,TAMSIL|TAMSIL1,,,,,0,0
+94831,Creature,The Matron,The Matron,대모,CUT1_MATRON,,,,,0,0
+94837,Creature,Tanarell,Tanarell,타나렐,CUT1_TANARELL,,,,,0,0
+94847,Creature,The Guard,The Guard,경비,CUT5_ESCORT|Q2A1_ENC2GUARD|Q2A1_GUARD|Q2A1_PREGUARD|Q2A_WELLGUARD,,,,,0,0
+94885,Creature,Tree Golem,Tree Golem,나무 골렘,Q2B_FQ_TREE,,,,,0,0
+94971,Creature,Troll Bodyguard,Troll Bodyguard,트롤 보디가드,X2_Q2TROLL1,,,,,0,0
+94973,Creature,The Reaper,The Reaper,수확자,X2REAPER,,,,,0,0
+97776,Creature,The Sleeping Man,"""No! My love! How dare you do this to us! I will find her, I must!""","안 돼! 내 사랑! 감히 우리에게 이런 짓을! 그녀를 찾아야 해, 꼭!",H2_SLEEPINGMAN,,,,,0,0
+97779,Creature,The Sleeping Man,"""Who are you? Both of you... I have seen you in my dreams... Why have you woken me, woman?""","넌 누구야? 너희 둘 다... 꿈에서 본 적이 있어... 왜 날 깨운 거야, 여자?",H2_SLEEPINGMAN,h2a_sens_journ02,,,,0,0
+97781,Creature,The Sleeping Man,"""What evil is this? By the power of Celestia's Heavens, release this woman from whatever foul magic you have used against her!""","이게 무슨 사악한 짓이야? 셀레스티아의 천국의 권능으로, 네가 이 여자에게 쓴 사악한 마법에서 풀어줘!",H2_SLEEPINGMAN,,,,,0,0
+97783,Creature,The Sleeping Man,"""What fiendish lies are these!? Out of my sight, woman! You are no more my one true love than this <FirstName> before you is a teller of truths!""","이게 무슨 사악한 거짓말이야!? 내 눈앞에서 사라져, 여자! 넌 내 진정한 사랑이 아니야, 이 <FirstName>이 진실을 말하는 자가 아닌 것처럼!",H2_SLEEPINGMAN,,,,,0,0
+97784,Creature,The Sleeping Man,"Tears in her eyes, the sensei flees. The Sleeping Man turns his wrathful gaze towards you. ""Your lying ways will be the death of you, devil...""","눈물을 흘리며 선생이 도망칩니다. 잠자는 남자가 분노에 찬 시선을 당신에게 돌립니다. ""네 거짓말은 네 죽음이 될 거야, 마귀...""",H2_SLEEPINGMAN,,,,,0,0
+97785,Creature,The Sleeping Man,"""It's you... I... I have seen you in my dreams! My love, my one true love, at long last you have found me here by the Gates of Cania...""","바로 너야... 나... 꿈에서 본 적이 있어! 내 사랑, 내 진정한 사랑, 드디어 카니아의 문 옆에서 날 찾았구나...",H2_SLEEPINGMAN,h2a_sens_journ01,,,,0,0
+97787,Creature,The Sleeping Man,"""Is it... Is it alright if I call you that?""",그... 그렇게 불러도 괜찮을까?,H2_SLEEPINGMAN,,,,,0,0
+97789,Creature,The Sleeping Man,"""The flock will find its way back to the fold, my love. They have their own lives to live. You must live yours...""","무리는 제 길을 찾아갈 거야, 내 사랑. 그들은 자신들의 삶을 살아야 해. 넌 네 삶을 살아야 해...",H2_SLEEPINGMAN,,,,,0,0
+100109,Creature,The Sleeping Man,The Sleeping Man,잠자는 남자,H2_SLEEPINGMAN|HX_FEND_SLEEP|HX_SLEEPMAN_END,,,,,0,0
+109118,Creature,The Sleeping Man,"""No, gods, no! Why have you abandoned me!?""","안 돼, 신들이시여, 안 돼! 왜 날 버리셨습니까!?",H2_SLEEPINGMAN,,,,,0,0
+98101,Creature,Tavernkeeper,"You feel somewhat unnerved beneath the dragon's malevolent gaze. Only in the outer planes, you surmise, would such a creature choose to be a tavernkeeper.",용의 사악한 시선 아래서 다소 불안함을 느낍니다. 오직 외부 차원에서만 이런 생명체가 주점 주인이 되기로 선택할 거라고 추측합니다.,H2_TAVERNKEEPER,,,,,0,0
+98102,Creature,Tavernkeeper,"""Can I get you something?"" it growls, the corners of its mighty maw curling up in what looks to be an angry sneer.","""뭐 좀 드릴까요?"" 그것이 으르렁거리며, 강력한 턱의 끝이 화난 비웃음처럼 올라갑니다.",H2_TAVERNKEEPER,,,,,0,0
+98103,Creature,Tavernkeeper,"The tavernkeeper smiles the toothy smile of a true businessman. ""I brew a fine Velox Berry Firewater but supply doesn't always keep up with demand... Bring me five Velox Berries and you'll have earned yourself a pint.""","주점 주인은 진정한 사업가의 이빨 드러낸 미소를 짓습니다. ""훌륭한 벨록스 베리 독주를 만들지만 공급이 항상 수요를 따라가지 못하는데... 벨록스 베리 5개를 가져오면 파인트 한 잔을 얻을 자격이 생기지.""",H2_TAVERNKEEPER,,,,,0,0
+98104,Creature,Tavernkeeper,"""I know how to run a tavern, hunt for my supper, and make a fine swill. The rest I leave to berks like you... Now were you wanting a drink or not?""","주점 운영하는 법, 저녁 식사 사냥하는 법, 훌륭한 술 만드는 법은 알아. 나머지는 너 같은 놈들에게 맡겨... 그래서 술 마실 거야 말 거야?",H2_TAVERNKEEPER,,,,,0,0
+98105,Creature,Tavernkeeper,"The dragon's cruel laugh reverberates throughout the tavern. You hear a tankard shatter in the room beyond. ""Give it up, berk. Pull up a chair and have a drink, you're here to stay.""","용의 잔인한 웃음이 주점 전체에 울려 퍼집니다. 너머 방에서 컵이 산산조각 나는 소리가 들립니다. ""포기해, 임마. 의자 끌고 와서 한잔해, 여기 머물게 될 테니까.""",H2_TAVERNKEEPER,,,,,0,0
+98106,Creature,Tavernkeeper,"You spy a cold glint in the tavern-keeper's eye. ""Gru'ul and I have an arrangement regarding the off-duty quarry workers so here's where they spend their coin. Some of the spirits come here, too, devil knows why.""","주점 주인의 눈에서 차가운 빛이 보입니다. ""그루울과 나는 비번 채석장 일꾼들에 관해 합의가 있어서 여기서 그들이 돈을 쓰지. 일부 영혼들도 여기 와, 마귀도 이유를 모르겠지만.""",H2_TAVERNKEEPER,,,,,0,0
+98107,Creature,Tavernkeeper,"""As for them Githzerai, they're new here and nothing but trouble, nursing their swill like it's all they have left in life. That winged fellow with them, though, he drinks it hard and fast. I just hope he's good for the money...""","기스제라이들은 여기 처음 와서 말썽만 부려, 술을 마치 인생에 남은 전부인 것처럼 조금씩 마시지. 하지만 그들과 함께 있는 날개 달린 놈은 세고 빠르게 마셔. 돈만 있으면 좋겠어...",H2_TAVERNKEEPER,,,,,0,0
+98108,Creature,Tavernkeeper,"The dragon's warm breath smells like a rotting carcass. You think you can see someone's limb caught between its teeth. ""Sleeping, you say? Passed out, more like it...""","용의 따뜻한 숨결은 썩은 시체 냄새가 납니다. 이빨 사이에 누군가의 사지가 끼어 있는 게 보이는 것 같습니다. ""자고 있다고? 기절한 거지, 더 정확히는...""",H2_TAVERNKEEPER,,,,,0,0
+100112,Creature,Tavernkeeper,Tavern Keeper,주점 주인,H2_TAVERNKEEPER,,,,,0,0
+100114,Creature,Tavernkeeper,Tavernkeeper,주점 주인,H2_TAVERNKEEPER,,,,,0,0
+109139,Creature,Tavernkeeper,"""Time is money, little one...""","시간은 돈이야, 꼬마야...",H2_TAVERNKEEPER,,,,,0,0
+109140,Creature,Tavernkeeper,"The dragon bends down low, sniffing you, its nostrils flared. ""What's the matter? Can't handle a little fire?""","용이 낮게 몸을 굽히고 당신의 냄새를 맡으며 콧구멍을 벌립니다. ""왜 그래? 약간의 불도 못 참아?""",H2_TAVERNKEEPER,,,,,0,0
+109141,Creature,Tavernkeeper,"""It will keep your blood boiling for as long as a three-berry fire. What's more, you can take it with you and you won't need to hunt for wood. A fine deal if you ask me...""",베리 3개 불만큼 오래 네 피를 끓게 할 거야. 게다가 가져갈 수도 있고 나무를 찾을 필요도 없지. 내가 보기엔 좋은 거래인데...,H2_TAVERNKEEPER,,,,,0,0
+109142,Creature,Tavernkeeper,"""Fuel for the fires of Baator, it's said. I planted a bush right outside the tavern entrance, if you'd like to see, though I suspect the bastard Githzerai have already picked it clean.""","베이아터의 불의 연료라고 하더라. 주점 입구 바로 밖에 덤불을 심었는데, 보고 싶으면 보라고, 하지만 그 망할 기스제라이들이 이미 다 따갔을 거야.",H2_TAVERNKEEPER,,,,,0,0
+109143,Creature,Tavernkeeper,"He exhales, obscuring the counter in tendrils of foul-smelling shadow. It clears to reveal a small jar of milky purple liquid, stoppered for travel. The cork smells overwhelmingly of gin. ",그가 숨을 내쉬자 악취 나는 그림자의 덩굴이 카운터를 가립니다. 그것이 걷히자 여행용으로 마개가 씌워진 유백색 보라 액체가 담긴 작은 병이 드러납니다. 마개에서 압도적인 진 냄새가 납니다.,H2_TAVERNKEEPER,,,,,0,0
+102758,Dialog,TM_HENCH_ASTAR,"""Tell me how you need me to act, and I shall endeavor to do so.""",어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다.,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102759,Dialog,TM_HENCH_ASTAR,"""That's good. And far less painful, considering the method I use to 'disarm' a trap.""",좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요.,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102760,Dialog,TM_HENCH_ASTAR,"He arches an eyebrow, half-grinning. ""If you think I can, let's see.""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지.""",TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102761,Dialog,TM_HENCH_ASTAR,"He nods. ""It was not as if I was actually avoiding detection, at any rate.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요.""",TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102762,Dialog,TM_HENCH_ASTAR,"""I will be as quiet as possible, then, until the battle begins.""",그럼 전투가 시작될 때까지 최대한 조용히 할게요.,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102763,Dialog,TM_HENCH_ASTAR,"He smirks briefly. ""I am no creeper in the shadows, <FirstName>, but I shall attempt to avoid kicking buckets about if it will assist you.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게.""",TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102764,Dialog,TM_HENCH_ASTAR,"""So be it. I would only be forced to destroy the lock, anyhow.""",그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요.,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102765,Dialog,TM_HENCH_ASTAR,"He shrugs. ""I can try to bash it open, if need be. Expect nothing subtle in that regard.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마.""",TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102766,Dialog,TM_HENCH_ASTAR,"""Where would you have me, then?""",그럼 어디에 있으면 될까요?,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102767,Dialog,TM_HENCH_ASTAR,"He nods in agreement, saying nothing.",그가 아무 말 없이 동의하며 고개를 끄덕입니다.,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102768,Dialog,TM_HENCH_ASTAR,"He nods. ""I am most effective when rushing headlong into the thick of combat, believe it or not.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요.""",TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102769,Dialog,TM_HENCH_ASTAR,"""I will watch your back and follow your lead, as you say.""",말씀대로 뒤를 지키며 따르겠습니다.,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102770,Dialog,TM_HENCH_ASTAR,He removes his backpack and offers it to you without comment.,그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+102771,Dialog,TM_HENCH_ASTAR,"""My knowledge of magical lore is limited to some few tales I heard during my time in the Abyss. I shall look through what you have and tell you if I recognize anything... but I feel hardly confident.""",마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요.,TM_HENCH_ASTAR|TM_HENCH_BEIRMOU|TM_HENCH_EREMUTH|TM_HENCH_LYRESSA|TM_HENCH_SHARALY|VAL,,,,,0,0
+105673,Dialog,TEMPLGUARD,"The priest's features are pale and gaunt within the shadows of his purplish cowl. ""Vix'thra protect you,"" he intones.","사제의 얼굴은 보라색 두건의 그림자 안에서 창백하고 수척합니다. ""빅스트라께서 보호하시길,"" 그가 음송합니다.",Q3VIL_TEMPLGUARD,,,,,0,0
+105674,Dialog,TEMPLGUARD,"<StartCheck>[Failure]</Start> The priest dodges your clumsy hands and shouts for help. You can hear the temple door creak open as two more priests emerge, weapons raised.",<StartCheck>[실패]</Start> 사제가 당신의 서투른 손을 피하고 도움을 요청합니다. 두 명의 사제가 무기를 든 채 나타나며 사원 문이 삐걱거리며 열리는 소리가 들립니다.,Q3VIL_TEMPLGUARD,,,,,0,0
+105675,Dialog,TEMPLGUARD,"<StartCheck>[Success]</Start> It's over in an instant and the priest's lifeless body slumps to the ground. Shocked, the second priest attacks.",<StartCheck>[성공]</Start> 순식간에 끝나고 사제의 생명 없는 몸이 땅에 쓰러집니다. 충격을 받은 두 번째 사제가 공격합니다.,Q3VIL_TEMPLGUARD,,,,,0,0
+105676,Dialog,TEMPLGUARD,"""If a master beats his dog when it is still a pup, that dog will fear the world even long after its master's death. So it is with former slaves.""","주인이 개가 아직 강아지일 때 때리면, 그 개는 주인이 죽은 후에도 오랫동안 세상을 두려워할 것입니다. 전 노예들도 그렇지요.",Q3VIL_TEMPLGUARD,,,,,0,0
+105677,Dialog,TEMPLGUARD,"""They have come from cruel masters into the kind shelter of Vix'thra's blessing yet, even here, they will forever be afraid. By Vix'thra's will, I freed many of these slaves myself but I expect no gratitude.""","그들은 잔인한 주인들로부터 벗어나 빅스트라의 축복의 친절한 보호소로 왔지만, 여기서조차 영원히 두려워할 것입니다. 빅스트라의 뜻으로 저는 많은 노예들을 직접 해방시켰지만 감사는 기대하지 않습니다.",Q3VIL_TEMPLGUARD,,,,,0,0
+105678,Dialog,TEMPLGUARD,"A smile creeps across the priest's pale lips. ""The Ceremony shows Vix'thra that his followers are firm in their faith. The temple holds one every month but the villagers have been known to call their own when they have need.""","사제의 창백한 입술에 미소가 번집니다. ""의식은 빅스트라께 그의 신자들이 신앙에 확고함을 보여줍니다. 사원은 매달 한 번 거행하지만 마을 사람들은 필요할 때 직접 부르기도 합니다.""",Q3VIL_TEMPLGUARD,q3a_at_npc1,,,,0,0
+105679,Dialog,TEMPLGUARD,"""If you wish to call a Ceremony, simply ring the gong in the courtyard behind the temple and the village will assemble. It is through the Ceremony that Vix'thra protects you.""",의식을 부르고 싶으시면 사원 뒤 안뜰의 징을 치시면 마을이 모일 것입니다. 의식을 통해 빅스트라께서 당신을 보호하십니다.,Q3VIL_TEMPLGUARD,,,,,0,0
+105680,Dialog,TEMPLGUARD,"""I apologize but the temple is holy to us. Only members of the priesthood or those who have important business with the order may enter.""",죄송하지만 사원은 우리에게 신성합니다. 사제단의 구성원이나 교단과 중요한 일이 있는 자들만 들어갈 수 있습니다.,Q3VIL_TEMPLGUARD,,,,,0,0
+105681,Dialog,TEMPLGUARD,"The priest is becoming irritable but he does his best to smile. ""As you wish. It is Vix'thra's will that I serve you.""","사제가 짜증을 내고 있지만 최선을 다해 미소를 짓습니다. ""뜻대로 하십시오. 당신을 섬기는 것이 빅스트라의 뜻입니다.""",Q3VIL_TEMPLGUARD,,,,,0,0
+105682,Dialog,TEMPLGUARD,"""You may worship him as all the others of the village do. Bless each other with his name and, if you have need of him, the gong behind the temple is always available to you.""","마을의 다른 모든 이들처럼 그를 숭배하시면 됩니다. 그의 이름으로 서로를 축복하고, 필요하시면 사원 뒤의 징이 항상 이용 가능합니다.",Q3VIL_TEMPLGUARD,,,,,0,0
+105683,Dialog,TEMPLGUARD,"""High Priest Sodalis is a very busy man and he grows busier by the day. I'm afraid he is only available for important ceremonial events.""",대사제 소달리스는 매우 바쁜 분이며 날마다 더 바빠지고 있습니다. 유감스럽게도 중요한 의식 행사에만 참석하십니다.,Q3VIL_TEMPLGUARD,,,,,0,0
+105684,Dialog,TEMPLGUARD,"""What services we offer, you may have through me. There is no need for you to pass through these doors.""",우리가 제공하는 서비스는 저를 통해 받으실 수 있습니다. 이 문을 통과하실 필요가 없습니다.,Q3VIL_TEMPLGUARD,q3a_temple_store,,,,0,0
+105685,Dialog,TEMPLGUARD,"He nods, his gaze solemn. ""Vix'thra the White, Vix'thra the Wise, the Sage Protector, the Freer of Slaves. All who know Vix'thra's greatness tremble before him in worship.""","그가 엄숙한 시선으로 고개를 끄덕입니다. ""하얀 빅스트라, 현명한 빅스트라, 현자 보호자, 노예 해방자. 빅스트라의 위대함을 아는 모든 이가 경배하며 그 앞에서 떨고 있습니다.""",Q3VIL_TEMPLGUARD,,,,,0,0
+105686,Dialog,TEMPLGUARD,MALE PRIEST GUARDING TEMPLE DOOR. 2 EXIST. THEY HOLD THE DOOR KEY AND GO HOSTILE ON ANY PICK OR BASH ATTEMPT. DESTROY THEM ON DEATH OF VIX'THRA.,사원 문을 지키는 남성 사제. 2명 존재. 그들은 문 열쇠를 가지고 있으며 따거나 부수려는 시도에 적대적이 됨. 빅스트라가 죽으면 그들을 파괴함.,Q3VIL_TEMPLGUARD,,,,,0,0
+107116,Dialog,THE_FOOL2,"The fool grins at you - a grin devoid of intelligence or recognition. He begins to caper and dance before you, seemingly oblivious to his former state of grace.","바보가 당신에게 웃습니다 - 지성이나 인지가 없는 미소입니다. 그는 당신 앞에서 뛰어다니고 춤을 추기 시작하며, 과거의 우아함을 완전히 망각한 것 같습니다.",Q6_THE_FOOL2,,,,,0,0
+107117,Dialog,THE_FOOL2,"But beneath the vacant expression you half-sense something else. In his eyes you see a faint glimmer of understanding, and a yearning for what was lost but not entirely forgotten.",하지만 공허한 표정 아래에서 다른 무언가를 반쯤 감지합니다. 그의 눈에서 희미한 이해의 빛과 잃어버렸지만 완전히 잊혀지지 않은 것에 대한 갈망을 봅니다.,Q6_THE_FOOL2,,,,,0,0
+107121,Dialog,TRACKS1A,A large drow raiding party has passed through this area recently. There must have been dozens of drow in this group as they headed to the east.,최근에 대규모 드로우 약탈대가 이 지역을 지나갔습니다. 이 무리에는 수십 명의 드로우가 있었던 것이 틀림없으며 동쪽으로 향했습니다.,Q6_TRACKS1A,,,,,0,0
+107125,Dialog,TRACKS2A,A dozen drow passed here. It seems that they scanned the area for a while and then they split into two groups. One climbed the ledge to the left and one climbed the opposite ledge to the right.,12명의 드로우가 여기를 지나갔습니다. 잠시 지역을 살핀 뒤 두 무리로 나뉜 것 같습니다. 한 무리는 왼쪽 절벽을 올라가고 한 무리는 반대쪽 오른쪽 절벽을 올라갔습니다.,Q6_TRACKS2A,,,,,0,0
+107129,Dialog,TRACKS3A,A group of about a dozen drow passed through this area. They went into the cave to the south.,약 12명의 드로우 무리가 이 지역을 지나갔습니다. 남쪽 동굴로 들어갔습니다.,Q6_TRACKS3A,,,,,0,0
+107837,Creature,The Valsharess,The Valsharess,발샤레스,Q2ADREAMMATRON,,,,,0,0
+107868,Creature,The Warden,The Warden,간수,Q2D_ILL_WARDEN,,,,,0,0
+107897,Creature,temp,temp,임시,Q5_DROW_WARRIOR2,,,,,0,0
+107917,Creature,The Fool,The Fool,바보,Q6_THEFOOL,,,,,0,0
+107923,Creature,TEMP Get Rid of Me,TEMP Get Rid of Me,임시 날 지워,X2_SVIRFNEBLIN01,,,,,0,0
+109815,Creature,"The Sleeping Man, Dead","The Sleeping Man, Dead","잠자는 남자, 사망",HX_FEND_SLEEP2,,,,,0,0
+110637,Creature,Troglodyte Warrior,Troglodyte Warrior,동굴인 전사,NW_TROG002,,,,,0,0

@@ -1,0 +1,24 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30393,PC,Player Character,"I've come to talk, nothing more.","대화하러 왔어, 그뿐이야.",m2q1a02krath,,[지능 보통],,,0,0
+30394,PC,Player Character,You failed the boys of Port Llast. Prepare to die.,넌 라스트 항구의 소년들을 버렸어. 죽을 준비해.,m2q1a02krath,,[지능 보통],,,0,0
+30395,PC,Player Character [M2Q1S],Neurik gave me these silver charms. I think I can help... ,뉴릭이 은 부적들을 줬어. 도울 수 있을 것 같아...,m2q1a02krath,,m2q1scurth3n,[M2Q1S],,0,0
+30396,PC,Player Character,"Me talk, yuh? Dat all.","나 말하러 왔어, 알지? 그게 다야.",m2q1a02krath,,[지능 낮음],,,0,0
+30397,PC,Player Character,"Me kill you, wolfy... ","나 너 죽여, 늑대야...",m2q1a02krath,,[지능 낮음],,,0,0
+30398,PC,Player Character [M2Q1S],"Wait, me help! Me have silver charm thingies from healer-man.","잠깐, 나 도와줄게! 나 치유사한테서 은 부적들 받았어.",m2q1a02krath,,m2q1scurth3l,[M2Q1S],,0,0
+30399,PC,Player Character,"<StartCheck>[Persuade]</Start> This is magic, representative of Tyr's justice.","<StartCheck>[설득]</Start> 이건 마법이야, 티르의 정의를 나타내지.",m2q1a02krath,,nw_d2_classmi_n,,,0,0
+30400,PC,Player Character,"<StartCheck>[Persuade]</Start> If it was normal silver, perhaps, but this bears Neurik's holy blessing.","<StartCheck>[설득]</Start> 평범한 은이었다면 그랬겠지만, 이건 뉴릭의 신성한 축복이 담겨 있어.",m2q1a02krath,,nw_d2_classnoi_n,,,0,0
+30401,PC,Player Character,"I offer you a choice, Karathis - Take it or I kill you.","선택권을 주지, 카라디스 - 받거나 죽거나.",m2q1a02krath,nw_d1_small_evil,[지능 보통],,,0,0
+30402,PC,Player Character,"Enough about cures and poisons, then - let us fight as warriors!",치료니 독이니 하는 얘기는 그만 - 전사답게 싸우자!,m2q1a02krath,,[지능 보통],,,0,0
+30403,PC,Player Character,"All right, no charm then... at least for now.","알았어, 부적은 없는 거야... 적어도 지금은.",m2q1a02krath,,[지능 보통],,,0,0
+30404,PC,Player Character,<StartCheck>[Persuade]</Start> But dis be blessed silver of da healer-priest.,<StartCheck>[설득]</Start> 하지만 이건 치유 사제가 축복한 은이야.,m2q1a02krath,,nw_d2_classmi_l,,,0,0
+30405,PC,Player Character,<StartCheck>[Persuade]</Start> But dis be special silver - it from Neurik.,<StartCheck>[설득]</Start> 하지만 이건 특별한 은이야 - 뉴릭에게서 왔어.,m2q1a02krath,,nw_d2_classnoi_l,,,0,0
+30406,PC,Player Character,"You no take silver charm thingy, me kill you, yuh? So take it.","너 은 부적 안 받으면 나 너 죽여, 알지? 그러니 받아.",m2q1a02krath,nw_d1_small_evil,[지능 낮음],,,0,0
+30407,PC,Player Character,"Grrr, no more words, wolfy! We fight now.","으르렁, 말은 그만, 늑대야! 이제 싸워.",m2q1a02krath,,[지능 낮음],,,0,0
+30408,PC,Player Character,"Uh, wha' happen to you?","어, 너한테 무슨 일 있었어?",m2q1a02krath,,[지능 낮음],,,0,0
+30409,PC,Player Character,Can you tell me what happened?,무슨 일이 있었는지 말해줄 수 있어?,m2q1a02krath,,[지능 보통],,,0,0
+30410,PC,Player Character,<StartCheck>[Insight]</Start> Help me fake your death and you can go free.,"<StartCheck>[통찰]</Start> 네가 죽은 것처럼 꾸미는 걸 도와주면, 자유롭게 가도 돼.",m2q1a02krath,,nw_d2_wis_intn,,,0,0
+30411,PC,Player Character,"Stay here, Sir Karathis. Perhaps I can help you yet.","여기 있어, 카라디스 경. 아직 도울 방법이 있을지도 몰라.",m2q1a02krath,,[지능 보통],,,0,0
+30412,PC,Player Character,"You stay here, yuh? Me come back later. Help you?","너 여기 있어, 알지? 나 나중에 돌아올게. 도와줄게?",m2q1a02krath,,[지능 낮음],,,0,0
+30413,PC,Player Character,<StartCheck>[Persuade]</Start> Seriously - I don't know what happened.,<StartCheck>[설득]</Start> 진짜야 - 무슨 일이 있었는지 몰라.,m2q1a02krath,,[지능 보통],,,0,0
+30414,PC,Player Character,<StartCheck>[Persuade]</Start> Me really isn't knowing this.,<StartCheck>[설득]</Start> 나 진짜 이거 모르는 거야.,m2q1a02krath,,[지능 낮음],,,0,0
+30415,PC,Player Character,<StartCheck>[Insight]</Start> Do you know the identity of the Black Wolf?,<StartCheck>[통찰]</Start> 검은 늑대의 정체를 알아?,m2q1a02krath,,,,,0,0

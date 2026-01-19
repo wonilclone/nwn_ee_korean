@@ -1,0 +1,78 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12827,Creature,Zombie,Zombie,좀비,2Q4_ZOMBIE|AC_PROTO176M|AC_PROTO210Z|BW_ZOMBIE01|BW_ZOMBIE02|DRAGOTHMINION|M1Q5E01ZOMBIE|NW_ZOMBIE01|NW_ZOMBIE02,,,,,0,0
+59954,Creature,Zombie,Must feed,먹어야 해,2Q4_ZOMBIE,,,,,0,0
+59955,Creature,Zombie,Must destroy,파괴해야 해,2Q4_ZOMBIE,,,,,0,0
+59956,Creature,Zombie,For the master,주인님을 위해,2Q4_ZOMBIE,,,,,0,0
+83021,Creature,Zombie,Zombie,좀비,Q2_ZOMBIE,,,,,0,0
+12830,Creature,Zombie Warrior,Zombie Warrior,좀비 투사,2Q4_ZOMB_WAR|AC_PROTO215D,,,,,0,0
+23841,Dialog,ZGUL,"Hear my voice through your dead! You thought to use me, to sacrifice for a spell! I have used you to free myself!","망자들을 통해 내 목소리를 들어라! 네가 나를 이용하려 했지, 주문의 제물로! 하지만 나는 너를 이용해 스스로 해방되었노라!",M1Q5E13ZGUL,m1q5e13zgulslg01,,,vs_ngulnanf_050,0,0
+23842,Dialog,ZGUL,You will join my legion of dead! I have seen the visions! The scaled ones will rule here! I will overrun!,네놈도 내 망자의 군단에 합류하게 될 것이다! 환상을 보았노라! 비늘 달린 자들이 이곳을 지배하리니! 모든 것을 휩쓸어버리리라!,M1Q5E13ZGUL,m1q5e13zgulslg01,,,vs_ngulnanf_051,0,0
+23843,Dialog,ZGUL,"The plague weakens you, but strengthens my army! It is a blessing! A gift! You cannot imagine the gift!","역병이 너희를 쇠약하게 할수록 내 군대는 강해진다! 축복이로다! 선물이로다! 이 선물이 얼마나 대단한지 상상조차 못하리라!",M1Q5E13ZGUL,m1q5e13zgulslg01,,,vs_ngulnanf_052,0,0
+23844,Dialog,ZGUL,"You cannot deny that the scales will rule! See the power I am granted?! It is incredible, and beyond even Merrshaulk!","비늘 달린 자들이 지배하리라는 것을 부정할 수 없으리! 내게 부여된 이 힘을 보라! 경이로우며 메르샤울크조차 능가하노라!",M1Q5E13ZGUL,m1q5e13zgulslg01,,,vs_ngulnanf_053,0,0
+23845,Dialog,ZGUL,"Come if you must, but you will die! The visions cannot lie! I see the coming of the eye! The eye!","기어이 오겠다면 와라, 하지만 죽게 되리라! 환상은 거짓을 말하지 않는다! 눈의 도래가 보인다! 그 눈이!",M1Q5E13ZGUL,m1q5e13zgulslg01,,,vs_ngulnanf_054,0,0
+24755,Creature,Zelieph,Zelieph,젤리에프,ZELIEPH,,,,,0,0
+24756,Creature,ZooPatron,ZooPatron,동물원 손님,LOOKERS,,,,,0,0
+30980,Dialog,ZMTHR,Hard day?,힘든 하루였어?,M2Q1A03ZMTHR,m2q5_zamith003,,,vs_nbarbaf1_053,0,0
+30982,Dialog,ZMTHR,Interested in a hard night?,격렬한 밤에 관심 있어?,M2Q1A03ZMTHR,,,,vs_nbarbaf1_054,0,0
+30984,Dialog,ZMTHR,If you'd like... ,원한다면...,M2Q1A03ZMTHR,,,,vs_nbarbaf1_055,0,0
+30987,Dialog,ZMTHR,"Wench, get this man his ale.","아가씨, 이 남자한테 에일 줘.",M2Q1A03ZMTHR,,,,vs_nbarbaf1_058,0,0
+30988,Dialog,ZMTHR,"The gods made you smart, did they?","신들이 널 똑똑하게 만들었나, 그래?",M2Q1A03ZMTHR,,,,vs_nbarbaf1_056,0,0
+30989,Dialog,ZMTHR,"Come up to my room, then, and waste your wit on me there.","그럼 내 방으로 올라와서 그 재치를 나한테 써봐.",M2Q1A03ZMTHR,,,,vs_nbarbaf1_057,0,0
+30991,Dialog,ZMTHR,Someone stole my Onyx gem last night.,어젯밤에 누가 내 오닉스 보석을 훔쳐갔어.,M2Q1A03ZMTHR,,,,vs_nbarbaf1_051,0,0
+30993,Dialog,ZMTHR,I'm checking out and you won't have my business again.,나가겠어. 다신 이 집에 돈 안 쓸 거야.,M2Q1A03ZMTHR,,,,vs_nbarbaf1_052,0,0
+30995,Dialog,ZMTHR,Hi handsome... Hard day?,안녕 잘생긴 양반... 힘든 하루였어?,M2Q1A03ZMTHR,m2q5zamith001,,,vs_nbarbaf1_059,0,0
+30996,Dialog,ZMTHR,Interested in a hard night?,격렬한 밤에 관심 있어?,M2Q1A03ZMTHR,,,,,0,0
+30997,Dialog,ZMTHR,If you'd like... ,원한다면...,M2Q1A03ZMTHR,,,,,0,0
+30998,Dialog,ZMTHR,"Come up to my room, then, and waste your wit on me there. I'll leave the door unlocked.","그럼 내 방으로 올라와서 그 재치를 나한테 써봐. 문 안 잠글게.",M2Q1A03ZMTHR,m2q5zamith003,,,,0,0
+30999,Dialog,ZMTHR,"The gods made you smart, did they?","신들이 널 똑똑하게 만들었나, 그래?",M2Q1A03ZMTHR,,,,,0,0
+31000,Dialog,ZMTHR,"You know what, chump? You're right. Why waste my time?","있잖아, 멍청아? 네 말이 맞아. 내가 왜 시간을 낭비해야 하지?",M2Q1A03ZMTHR,m2q5_zamith001,,,,0,0
+31001,Dialog,ZMTHR,"Did you hear that, my women? This man's all mouth and no metal... Rise up and brawl, women! Rise up and brawl!","들었지, 내 여자들? 이놈 입만 살았어... 일어나서 싸워라, 여자들아! 일어나서 싸워!",M2Q1A03ZMTHR,m2q5zamith004,,,,0,0
+31002,Dialog,ZMTHR,"I'm on the prowl, <man/woman>. Stay out of the way.","사냥 중이야, <man/woman>. 방해하지 마.",M2Q1A03ZMTHR,m2q5zamith001,,,vs_nbarbaf1_060,0,0
+31003,Dialog,ZMTHR,"Keep your hands where they belong, <Lad/Lass>... ","손은 제자리에 두라고, <Lad/Lass>...",M2Q1A03ZMTHR,,,,vs_nbarbaf1_061,0,0
+31004,Dialog,ZMTHR,Thieves and robbers! How dare you rob me of my things!,도둑놈들! 감히 내 물건을 훔쳐가다니!,M2Q1A03ZMTHR,,,,vs_nbarbaf1_062,0,0
+31005,Dialog,ZMTHR,I'm not in the mood for talk right now. Perhaps later.,지금은 이야기할 기분이 아니야. 나중에.,M2Q1A03ZMTHR,,,,vs_nbarbaf1_050,0,0
+38994,Dialog,ZAMWOM,I am a member of Zamithra's Blackguards! You can talk to her if she's in the mood for conversation.,난 자미스라의 흑기사단 일원이야! 그녀가 대화할 기분이면 말해도 돼.,M2Q5ZAMWOM,,,,,0,0
+38995,Dialog,ZAMWOM,I suspect the mistress will be happy in the morning. She always gets what she wants from men. ,아침이면 마님이 기분이 좋아질 거야. 항상 남자들한테 원하는 걸 얻으니까.,M2Q5ZAMWOM,,,,,0,0
+38996,Dialog,ZAMWOM,Mistress Zamithra's gem has been stolen. I have failed the mistress!,자미스라 마님의 보석이 도난당했어. 마님을 실망시켰어!,M2Q5ZAMWOM,,,,,0,0
+38997,Dialog,ZAMWOM,Zamithra seems distraught. Probably the fault of some man. I hate men.,자미스라가 혼란스러워 보여. 아마 어떤 남자 때문이겠지. 난 남자가 싫어.,M2Q5ZAMWOM,,,,,0,0
+38998,Dialog,ZAMWOM,Back away male! Perhaps Mistress Zamithra will put up with your leering but I will not!,물러서 남자! 자미스라 마님은 네 음흉한 눈빛을 참아줄지 몰라도 난 안 그래!,M2Q5ZAMWOM,,,,,0,0
+40824,Creature,Zamithra's Guard,Zamithra's Guard,자미스라의 경비,M2Q05CZAMITHGRD,,,,,0,0
+40871,Creature,Zamithra,Zamithra,자미스라,M2Q1CSHAR|M2Q1CSHAR2,,,,,0,0
+40879,Creature,Zor,Zor,조르,M2Q1CZOR,,,,,0,0
+43349,Creature,Zed,"Right, sir. Well, it's like Lodar said. Griff was outside, we heard him shout, we run out and the Uthgardt sticks a blade in Griff's belly. Then that savage runs off to the Temple for sanctuary like some kind of coward!","맞아요. 로다르 말대로예요. 그리프가 밖에 있었는데, 고함 소리가 들려서 뛰어나갔더니 그 우스가르트 놈이 그리프 배에 칼을 꽂는 거예요. 그러곤 그 야만인이 겁쟁이처럼 신전으로 도망쳐서 피신했죠!",MERC23Q11,,,,,0,0
+43360,Creature,Zed,"No, I didn't see who started the fight. So, yeah, it could have been Griff, if that's what you're getting at.","아뇨, 누가 먼저 시작했는지는 못 봤어요. 그러니까... 네, 그리프였을 수도 있죠. 그게 묻고 싶은 거라면요.",MERC23Q11,m3q01a01iglagb12,,,,0,0
+43361,Creature,Zed,"Sure, he was drunk. But that don't mean you get to go kill people. You have to know how to hold your drinks, right? Know your limits.","물론 그 사람은 취해 있었죠. 하지만 그렇다고 사람을 죽여도 된다는 건 아니잖아요. 술은 자기 주량껏 마셔야죠, 안 그래요? 한계를 알아야지.",MERC23Q11,m3q01a01iglagb15,,,,0,0
+43362,Creature,Zed,"Yeah, he put something in Rolgan's drink. Made his mind fuzzy, so he didn't really understand what he was doing.","네, 롤간 술에 뭔가 타긴 했어요. 정신이 몽롱해져서 자기가 뭘 하는지도 몰랐을 거예요.",MERC23Q11,m3q01a01iglaelc1,,,,0,0
+43363,Creature,Zed,"I don't know what ""mitigating"" means, but Griff shouldn't have spiked that Uthgardt's drink. That's wrong... Griff was always doing stupid stuff like that.","""참작""이 뭔 뜻인지 모르겠지만, 그리프가 그 우스가르트 술에 약을 탄 건 잘못이에요. 나쁜 짓이죠... 그리프는 맨날 그런 바보짓을 했어요.",MERC23Q11,m3q01a01iglagb13,,,,0,0
+43364,Creature,Zed,Griff cheated. He wanted to win so he could humilate that Uthgardt; embarass and ruin him. So he cheated during the card game.,그리프가 속인 거예요. 이겨서 그 우스가르트한테 망신을 주려고요. 창피 주고 완전히 깔아뭉개려고. 그래서 카드 게임에서 속임수를 썼죠.,MERC23Q11,m3q01a01iglaelc3,,,,0,0
+43365,Creature,Zed,"I warned Griff that that Uthgardt would be mad after losing everything he owned. I said it would lead to trouble, but Griff didn't care. He said he welcomed trouble with the Uthgardt.","저 그리프한테 경고했어요, 그 우스가르트가 전 재산 잃으면 화낼 거라고. 문제가 생길 거라고 했는데도 신경 안 쓰더라고요. 우스가르트랑 한판 붙는 건 환영이라면서.",MERC23Q11,m3q01a01iglagb14,,,,0,0
+43366,Creature,Zed,"If Griff thought someone was coming to settle a score, he wouldn't wait. Griff would make sure he made the first move. He preferred to start fights himself, you know?","그리프가 누군가 복수하러 온다고 생각하면 기다리지 않았을 거예요. 선빵 날리는 스타일이거든요. 자기가 먼저 시비 거는 걸 좋아했어요, 알죠?",MERC23Q11,m3q01a01iglagb27,,,,0,0
+43429,Creature,Zed,I'm ready to answer this <man/woman>'s questions.,이 <man/woman> 분 질문에 대답할 준비 됐어요.,MERC23Q11,,,,,0,0
+47046,Creature,Zed,Zed,제드,MERC23Q11,,,,,0,0
+47070,Creature,Zokan,Zokan,조칸,ZOKAN3Q21,,,,,0,0
+50970,Creature,Zarn,Zarn,자른,M0Q0_STUDC_02,,,,,0,0
+56579,Creature,Zombie Lord,Zombie Lord,좀비 군주,AC_PROTO234A|AC_PROTO234B|NW_BOSS,,,,,0,0
+83038,Creature,Zombie Lord,Zombie Lord,좀비 군주,NW_ZOMBWARR02,,,,,0,0
+80789,Dialog,ZIDAN2,"I... I am free! Oh, what sheer relief! I am forever grateful to you, <sir/madam>! How can such a rescue ever be repaid?","자... 자유다! 아, 살았구나! <sir/madam>, 평생 은혜를 잊지 않겠습니다! 이 구원의 은혜를 어찌 갚아야 할지요?",Q1_ZIDAN2,q1_at_zidan3,,,,0,0
+80790,Dialog,ZIDAN2,It was a close thing. The creatures were about to sacrifice me to their dread goddess... in a manner I would not wish on my worst enemy.,"정말 위험했습니다. 그 괴물들이 저를 끔찍한 여신에게 제물로 바치려 했어요... 철천지 원수에게도 원치 않을 방식으로요.",Q1_ZIDAN2,,,,,0,0
+80791,Dialog,ZIDAN2,"Please... I will follow you out of this place. I saw very little when I was dragged in, I do not think I can find my way out on my own.","부디... 이곳을 나가실 때 데려가 주세요. 끌려올 때 아무것도 못 봤거든요. 혼자서는 빠져나갈 수 없을 것 같습니다.",Q1_ZIDAN2,,,,,0,0
+80794,Dialog,ZIDAN2,"I agree whole-heartedly, my lady. I will feel safer, however, once we have returned to the caravan.","전적으로 동의합니다, 아가씨. 하지만 캐러밴으로 돌아가야 비로소 안심이 될 것 같습니다.",Q1_ZIDAN2,,,,,0,0
+80796,Dialog,ZIDAN2,"I would rather not think of it, kobold.","생각하고 싶지 않아요, 코볼트.",Q1_ZIDAN2,,,,,0,0
+80798,Dialog,ZIDAN2,"I... I have only the gold Madame Katriana forwarded me when I was hired. These scorpion creatures saw no need to take it, I suppose. It... it is not much, however.","저... 저는 고용됐을 때 카트리아나 마담이 선불로 주신 금화밖에 없습니다. 이 전갈 괴물들은 그걸 가져갈 생각이 없었나 봐요. 하지만... 많지는 않습니다.",Q1_ZIDAN2,,,,,0,0
+80799,Dialog,ZIDAN2,"There is no need to threaten my life, <sir/madam>... I know what you have done for me. It is just that... the only other thing I possess is an heirloom of my family line...","목숨을 위협하실 필요 없습니다, <sir/madam>... 절 살려주신 은혜는 알고 있습니다. 다만... 제가 가진 거라곤 가문 대대로 물려받은 가보뿐이라서요...",Q1_ZIDAN2,,,,,0,0
+80800,Dialog,ZIDAN2,"As... as you wish. Here, the heirloom and gold both.","뜻... 뜻대로 하세요. 여기, 가보와 금화 둘 다요.",Q1_ZIDAN2,q1_zidan03,,,,0,0
+80804,Dialog,ZIDAN2,"Then take it. It would not have meant anything had I been killed, no?","그럼 받으세요. 제가 죽었으면 아무 소용없는 물건이 됐을 테니까요, 안 그렇습니까?",Q1_ZIDAN2,q1_zidan02,,,,0,0
+80806,Dialog,ZIDAN2,"I am grateful never the less. If you had not arrived when you did, the creatures would surely have sacrificed me to their dread goddess!","그래도 감사드립니다. 제때 오시지 않았다면, 그 괴물들이 분명 저를 끔찍한 여신에게 제물로 바쳤을 거예요!",Q1_ZIDAN2,,,,,0,0
+80810,Dialog,ZIDAN2,"Please! I... I am being held here by a... a magical force! Free me, I beg you!","부디! 저... 저는 마... 마법의 힘에 붙잡혀 있어요! 풀어주세요, 부탁드립니다!",Q1_ZIDAN2,,,,,0,0
+80811,Dialog,ZIDAN2,"What would you have of me, <sir/madam>?","무엇을 원하십니까, <sir/madam>?",Q1_ZIDAN2,,,,,0,0
+80812,Dialog,ZIDAN2,"As you wish, but do not be gone for long. I do not wish to be taken by these creatures once more.","알겠습니다, 하지만 오래 걸리지 않게 해주세요. 다시 이 괴물들에게 잡히긴 싫습니다.",Q1_ZIDAN2,,,,,0,0
+80813,Dialog,ZIDAN2,It will be a relief. Lead on.,다행이네요. 앞장서 주세요.,Q1_ZIDAN2,,,,,0,0
+80814,Dialog,ZIDAN2,"I owe you my life, <sir/madam>. I shall always be grateful for your assistance.","목숨을 구해주셨습니다, <sir/madam>. 이 은혜 평생 잊지 않겠습니다.",Q1_ZIDAN2,,,,,0,0
+80827,Dialog,ZIDAN_BEG,I... I won't be able to survive much longer!,저... 저는 더 이상 못 버텨요!,Q1_ZIDAN_BEG,,,,,0,0
+80828,Dialog,ZIDAN_BEG,They wish to sacrifice me! Please hurry!,저를 제물로 바치려 해요! 서둘러 주세요!,Q1_ZIDAN_BEG,,,,,0,0
+80829,Dialog,ZIDAN_BEG,"If you have any mercy in your heart, free me!",조금이라도 자비심이 있다면 풀어주세요!,Q1_ZIDAN_BEG,,,,,0,0
+80830,Dialog,ZIDAN_BEG,"You... you are from the caravan! Please, help me! I beg you!","당신... 당신은 캐러밴에서 온 사람이군요! 제발 도와주세요! 부탁드립니다!",Q1_ZIDAN_BEG,,,,,0,0
+81782,Dialog,ZIDAN,"You were a decent traveling companion. If the gods wish it, maybe we shall meet again someday.","좋은 동행이었습니다. 신들의 뜻이라면 언젠가 다시 만나게 되겠죠.",Q3_ZIDAN,,,,,0,0
+94945,Creature,Zombie Protector,Zombie Protector,좀비 수호자,X2_Q2BS_ZOMLORD,,,,,0,0
+107846,Creature,Zesyyr Maeviir,Zesyyr Maeviir,제시르 마에비르,Q2AMAEZESYYR,,,,,0,0
+107906,Creature,Zephid,Zephid,제피드,Q6_HELLHOUND,,,,,0,0

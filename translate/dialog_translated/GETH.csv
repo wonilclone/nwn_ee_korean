@@ -1,0 +1,22 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30372,Dialog,GETH,What are you doing here? Why have you come? I do not wish to be bothered.,여기서 뭐 하는 거야? 왜 온 거지? 방해받고 싶지 않아.,M2Q1A02GETH,nw_d1_j_surr01,,,,0,0
+30373,Dialog,GETH,"I am overjoyed. I am human again! Thank you, stranger, thank you. I am forever indebted!","너무 기뻐. 다시 인간이 됐어! 고마워, 낯선 이여, 고마워. 평생 은혜를 잊지 않을게!",M2Q1A02GETH,m2escapearea,,,,0,0
+30374,Dialog,GETH,"I do not fear death - not as a beast as I am now. If you come for death, then I shall make sure you have it.","죽음이 두렵지 않아 - 지금처럼 짐승인 채로는. 죽이러 왔다면, 네가 먼저 죽게 해주지.",M2Q1A02GETH,m2q1attackbran,,,,0,0
+30375,Dialog,GETH,"Silver? I might be despondent about my future, but I do not wish it prematurely ended, either.","은? 미래가 암담하긴 하지만, 그렇다고 일찍 끝나길 바라는 건 아니야.",M2Q1A02GETH,,,,,0,0
+30376,Dialog,GETH,"Geth - at one time a normal man, and not a horrific beast - who hails from Port Llast. Why do you care?","게스 - 한때는 평범한 사람이었지, 이런 끔찍한 짐승이 아니라 - 라스트 항구 출신이야. 왜 궁금해?",M2Q1A02GETH,,,,,0,0
+30377,Dialog,GETH,"I suppose you're right. If I sit here and do nothing, then nothing will change, right? Fine, give me your silver charm.","네 말이 맞는 것 같아. 여기 앉아서 아무것도 안 하면, 아무것도 변하지 않겠지? 좋아, 은 부적을 줘.",M2Q1A02GETH,m2q1werecurexp,,,,0,0
+30378,Dialog,GETH,"<StartCheck>[Failure]</Start> Karathis told me that I would be safe at his side, and look at me now. No, I think I'll pass on your offer.","<StartCheck>[실패]</Start> 카라디스는 자기 곁에 있으면 안전할 거라고 했어, 근데 지금 내 꼴 좀 봐. 아니, 네 제안은 사양할게.",M2Q1A02GETH,,,,,0,0
+30379,Dialog,GETH,"Well, if those are my choices, then I suppose I will take the charm. Death this way or death that way - what does it matter?","뭐, 그게 내 선택지라면, 부적을 받아야겠군. 이쪽으로 죽나 저쪽으로 죽나 - 뭐가 다르겠어?",M2Q1A02GETH,m2q1werecurexp,,,,0,0
+30380,Dialog,GETH,"<StartCheck>[Success]</Start> I felt a - flicker of hope. Could it be truth, then? Fine, give me the charm and we will see what happens.","<StartCheck>[성공]</Start> 희망의 - 불빛이 느껴졌어. 그럼 사실일 수도 있는 거야? 좋아, 부적을 줘, 어떻게 되나 보자.",M2Q1A02GETH,m2q1werecurexp,,,,0,0
+30381,Dialog,GETH,"I should have known better. To think, I believed these intrusions would end with the gift of a ring.","진작 알았어야 했는데. 반지를 주면 이런 침입이 끝날 거라 믿었다니.",M2Q1A02GETH,nw_d1_j_surr01,,,,0,0
+30382,Dialog,GETH,"An adventurer visited me, and told me that if I gave up my ring these intrusions would end. Yet here you are, likely looking for that ring.","어떤 모험가가 찾아와서, 반지를 넘기면 이런 침입이 끝날 거라고 했어. 근데 또 왔네, 아마 그 반지 찾으러 온 거겠지.",M2Q1A02GETH,,,,,0,0
+30383,Dialog,GETH,"I - am human again! Is this a joke? A dream that I will wake from? Let it be truth! Oh, take my ring, and bring it to Neurik.","다 - 다시 인간이 됐어! 이게 장난인가? 깨어날 꿈인가? 사실이길! 오, 내 반지를 가져가서 뉴릭에게 전해줘.",M2Q1A02GETH,,,,,0,0
+30384,Dialog,GETH,"Fine, take it. I need it not. It will not change the course of my life.","좋아, 가져가. 필요 없어. 내 인생의 방향은 바뀌지 않을 테니.",M2Q1A02GETH,m2q1a02gethring2,,,,0,0
+30385,Dialog,GETH,"As if I have any interest in going elsewhere. But you wouldn't understand. Fine, farewell - just leave me alone.","다른 곳에 갈 생각이나 있는 것처럼. 하지만 넌 이해 못 할 거야. 좋아, 잘 가 - 그냥 날 내버려 둬.",M2Q1A02GETH,,,,,0,0
+30386,Dialog,GETH,"It sounded fun, but this is how it ended. Everyone ran. We all became werewolves except for Ander. As far as I know, he wasn't caught.","재미있을 것 같았는데, 이렇게 끝났지. 다들 도망쳤어. 앤더 빼고 다 늑대인간이 됐어. 내가 알기론, 그는 잡히지 않았어.",M2Q1A02GETH,,,,,0,0
+30387,Dialog,GETH,"Karathis brought me out here with some of my friends: Urth, Bran and Ander. He wanted us to help him kill a werewolf.","카라디스가 친구 몇 명과 함께 여기로 데려왔어: 어스, 브랜, 앤더. 늑대인간 사냥을 도와달라고 했지.",M2Q1A02GETH,,,,,0,0
+30388,Dialog,GETH,"No, I don't. And I grow weary of this conversation. Perhaps we can put it to an end, yes?","아니, 없어. 그리고 이 대화도 지쳐가. 이쯤에서 끝내면 안 될까?",M2Q1A02GETH,,,,,0,0
+30389,Dialog,GETH,Thank you... ,고마워...,M2Q1A02GETH,,,,,0,0
+30390,Dialog,GETH,Stop hurting me! I will no longer attack you!,그만 때려! 더 이상 공격 안 할게!,M2Q1A02GETH,,,,,0,0
+30391,Dialog,GETH,Grrr - Please! - Grrrrr - Can't control... Myself!,으르르 - 제발! - 으르르르 - 제어할 수... 없어!,M2Q1A02GETH,,,,,0,0
+30392,Dialog,GETH,I really must go.,정말 가야겠어.,M2Q1A02GETH,,,,,0,0

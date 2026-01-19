@@ -1,0 +1,50 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36124,Creature,Ingo,"A good <quarterday> for field work, wouldn't you say, m'<lord/lady>?",밭일하기 좋은 <quarterday>지요. 그렇게 생각 안 하십니까?,M2Q3E_INGO,,,,,0,0
+36125,Creature,Ingo,"Safe journeys, then. I'll be here in the fields if you ever feel like stopping by to chat.",그럼 좋은 여행되시길. 혹시라도 수다나 떨고 싶으시다면 난 항상 밭에 있을 겁니다.,M2Q3E_INGO,,,,,0,0
+36126,Creature,Ingo,"Yes, and mind the cornstalks on the way out.",그래요. 나갈 때 옥수수대 밟지 않게 조심하시구려.,M2Q3E_INGO,,,,,0,0
+36127,Creature,Ingo,"Aye, get out and stay out as far as I'm concerned.",그래. 이왕이면 다시는 안 왔으면 좋겠군.,M2Q3E_INGO,,,,,0,0
+36128,Creature,Ingo,"I see. A little on the slow side, are we?",그래요. 좀 둔한 편이로군.,M2Q3E_INGO,,,,,0,0
+36129,Creature,Ingo,"I suppose you could. What is it you want to know, m'<lord/lady>?",할 수야 있지요. 뭘 알고 싶으신 겁니까?,M2Q3E_INGO,,,,,0,0
+36130,Creature,Ingo,I suppose I can answer a few questions for you... ,질문 몇 개는 대답해 드릴 수 있을 것 같소...,M2Q3E_INGO,,,,,0,0
+36131,Creature,Ingo,Hmph. I'll answer a question or two... provided you don't take too long.,흠. 한두 가지 질문이라면 대답해 주지... 너무 오래 끌지 않는다면.,M2Q3E_INGO,,,,,0,0
+36132,Creature,Ingo,"Hrmm... A week ago or so, my son said he met a seedy looking fellow heading into the Charwood. My son said hello and the man said some rude things. He's as good as gone, then, I suppose...","흠... 일주일 전쯤, 아들 녀석이 그을린숲으로 들어가는 수상한 사람을 만났다고 했소. 아들이 인사했는데 그 자가 무례한 말을 했다더군요. 그렇다면 이미 끝난 셈이지...",M2Q3E_INGO,,,,,0,0
+36133,Creature,Ingo,"Other than Pete O'Deel's trouble with the wolves, it's been pretty quiet around these parts. Grass grows, wind blows, nothing much of consequence...","피트 오딜네 늑대 문제 말고는 이 근처는 꽤 조용하지요. 풀이 자라고, 바람이 불고, 대단한 일은 별로 없소...",M2Q3E_INGO,,,,,0,0
+36134,Creature,Ingo,"Since I was a young man, I suppose. The farm came with the wife, bless her soul. Her parents homesteaded the place, but that's a story in itself... ","젊을 때부터였을 겁니다. 농장은 아내와 함께 온 거지요. 명복을 비오. 아내 부모님이 이곳을 개척하셨는데, 그거야말로 그 자체로 한 이야기지요...",M2Q3E_INGO,,,,,0,0
+36135,Creature,Ingo,"Oh, my father-in-law told me a few old tales from when he first cleared the land to settle here.","아, 장인어른이 처음 이곳에 정착하려고 땅을 개간할 때의 옛이야기를 몇 가지 해주셨지요.",M2Q3E_INGO,,,,,0,0
+36136,Creature,Ingo,"See where the field stops and the woods begin? My father-in-law said to... never... Oh, now of all the stories, what possessed me to tell this one?","밭이 끝나고 숲이 시작되는 곳이 보입니까? 장인어른이 말씀하시길... 절대... 아, 왜 하필 이 이야기를 하려고 들었을까?",M2Q3E_INGO,,,,,0,0
+36137,Creature,Ingo,"Well, other than cheering up my boy Erik, I'm not sure what you could do. Seems that O'Deel lass has broken his heart just like I said.",글쎄요. 제 아들 에릭을 기운 나게 해주는 것 말고는 뭘 할 수 있을지 모르겠소. 내가 말했던 대로 오딜네 처녀가 그 애 마음을 산산조각 냈나 보구려.,M2Q3E_INGO,m2q2ingo001,,,,0,0
+36138,Creature,Ingo,"Maybe wander by Pete O'Deel's up on the south bluff, there. They're friendly enough folk and wouldn't mind hearing the latest news from town. Their girl, Constance, she's a nice lass.",남쪽 절벽 위에 있는 피트 오딜네에 가보시는 것도 좋겠소. 붙임성 좋은 사람들이고 마을 소식 듣는 걸 마다하지 않을 거요. 그 집 딸 콘스탄스는 착한 아가씨지요.,M2Q3E_INGO,,,,,0,0
+36139,Creature,Ingo,Well I suppose that's about as direct as one can get.,글쎄. 그게 가장 직접적인 방법이라면야.,M2Q3E_INGO,,,,,0,0
+36140,Creature,Ingo,Is there something else you wanted to know?,다른 것도 알고 싶은 게 있소?,M2Q3E_INGO,,,,,0,0
+36141,Creature,Ingo,"<StartCheck>[Success]</Start> Well if you start a story, you'd better finish it, they say... The trees beyond that line, that's Charwood territory and no place for the living... ","<StartCheck>[성공]</Start> 시작한 이야기는 끝을 맺어야 한다지요... 저 선 너머의 나무들, 거기가 그을린숲이고 산 자가 갈 곳이 아니오...",M2Q3E_INGO,,,,,0,0
+36142,Creature,Ingo,"You can cut down a hundred of those trees but, when you wake up the next morning, they'll all be standing again like they'd never known the blade.","저 나무들을 백 그루 베어도, 다음 날 아침에 일어나면 모두 다시 서 있을 거요. 마치 칼날을 맞은 적이 없다는 듯이.",M2Q3E_INGO,,,,,0,0
+36143,Creature,Ingo,"<StartCheck>[Failure]</Start> It might and it mightn't. Just don't go into the Charwood if you treasure your sanity, all right?","<StartCheck>[실패]</Start> 그럴 수도 있고 아닐 수도 있소. 정신을 소중히 여긴다면, 그을린숲에는 들어가지 마시오. 알겠소?",M2Q3E_INGO,,,,,0,0
+36144,Creature,Ingo,"Other than the fact that no one travels to Charwood, no. That forest is haunted so people who know generally steer clear.",아무도 그을린숲에 가지 않는다는 것 말고는 없소. 그 숲에는 유령이 나오기 때문에 아는 사람들은 피해 다니지요.,M2Q3E_INGO,,,,,0,0
+36145,Creature,Ingo,"Is there something else you need, then?",그럼 다른 필요한 게 있소?,M2Q3E_INGO,,,,,0,0
+36146,Creature,Ingo,"It's nothing but devil's business in there, mark my word, <boy/girl>.",그곳은 마귀들이나 할 일이오. 내 말 명심하시오.,M2Q3E_INGO,,,,,0,0
+36147,Creature,Ingo,"You've still got more questions, don't you... I can tell.",아직도 질문이 더 있군요... 알 수 있소.,M2Q3E_INGO,,,,,0,0
+36148,Creature,Ingo,"Out for a jaunt, are you, <mister/missus>?",산책 중이신가요?,M2Q3E_INGO,,,,,0,0
+36149,Creature,Ingo,"Mind you don't trample the corn, now.",옥수수 밟지 않게 조심하시오.,M2Q3E_INGO,,,,,0,0
+36150,Creature,Ingo,"Aye, that seems a reasonable enough thing to ask after.",그래요. 물어볼 만한 것이군요.,M2Q3E_INGO,,,,,0,0
+36151,Creature,Ingo,Where are you trying to get to?,어디로 가시려는 겁니까?,M2Q3E_INGO,,,,,0,0
+36152,Creature,Ingo,Very well but mind that I've still got work that needs doing... ,좋소. 하지만 난 아직 할 일이 남았다는 걸 명심하시오...,M2Q3E_INGO,,,,,0,0
+36153,Creature,Ingo,What do you want to know?,뭘 알고 싶으시오?,M2Q3E_INGO,,,,,0,0
+36154,Creature,Ingo,"Yes, I suppose someone like you must get lost out here fairly easy, wouldn't you... ",그래요. 당신 같은 사람은 이 동네에서 길 잃기 쉬우시겠지요...,M2Q3E_INGO,,,,,0,0
+36155,Creature,Ingo,"That way? Take it long enough and you'll make it all the way to Port Llast. Most of the ruts along the way are mine, at least come harvest.",저쪽으로요? 충분히 가면 라스트 항구까지 갈 수 있소. 길에 난 바퀴 자국 대부분은 내 것이지요. 최소한 수확철에는.,M2Q3E_INGO,,,,,0,0
+36156,Creature,Ingo,"Well, now, that heads into the Charwood. Take my advice, though, you're better off thinking of my farm as the end of the road.","저기요. 저쪽은 그을린숲으로 가는 거요. 내 충고를 따르자면, 내 농장을 길의 끝이라고 생각하는 게 좋을 거요.",M2Q3E_INGO,,,,,0,0
+36157,Creature,Ingo,"Well now, I'd offer you my place but my son's grown to the point where there's not the same room that there used to be.","글쎄, 우리 집을 권하고 싶지만 아들이 커서 예전처럼 방이 넉넉하지 않소.",M2Q3E_INGO,,,,,0,0
+36158,Creature,Ingo,Sure. Where do you need to go?,물론이오. 어디로 가셔야 하오?,M2Q3E_INGO,,,,,0,0
+36159,Creature,Ingo,Something about those woods don't take well to change. Word is there's a village of lost souls in there somewhere and people who go there never leave... ,"저 숲에는 변화를 싫어하는 무언가가 있소. 어디선가 길 잃은 영혼들의 마을이 있고, 거기 가는 사람들은 절대 돌아오지 못한다는 말이 있지요...",M2Q3E_INGO,,,,,0,0
+36160,Creature,Ingo,My father-in-law warned me never to go in there and I've told my boy the same. You'd be wise to do likewise... Now is there anything else?,장인어른이 절대 거기 들어가지 말라고 경고하셨고 나도 아들에게 같은 말을 했소. 당신도 그리 하는 게 현명할 거요... 다른 것도 있소?,M2Q3E_INGO,,,,,0,0
+36161,Creature,Ingo,"He's locked himself in his room, ""to think"", he says,and I'm getting a little tired of doing his chores in the meantime.","녀석이 방에 틀어박혔소. ""생각 좀 해야겠다""나 뭐라나. 그동안 녀석 일까지 하느라 좀 지치고 있소.",M2Q3E_INGO,,,,,0,0
+36162,Creature,Ingo,"Wade across the stream, though, and there's an old tree hollow where I camped a night or two in my younger days. It gives good shelter from the wind.",개울을 건너면 옛날 젊을 때 하루 이틀 야영했던 늙은 나무 구멍이 있소. 바람막이로 좋지요.,M2Q3E_INGO,,,,,0,0
+36163,Creature,Ingo,"Now that my boy's cheered up a little and finally off to market, things are pretty good around here.","아들 녀석이 좀 기운을 되찾고 드디어 장터에 갔으니, 이제 이 주변도 괜찮아졌소.",M2Q3E_INGO,,,,,0,0
+36164,Creature,Ingo,"Pete is the farmer across the way. Mary and my wife were best friends from birth 'til the day she passed away. I've known the O'Deels since we first started courting. They're good folk. Pete's farm's been beset by wolves, lately.",피트는 건너편 농부요. 메리와 내 아내는 태어날 때부터 죽을 때까지 가장 친한 친구였지요. 오딜 가족은 우리가 연애를 시작할 때부터 알았소. 좋은 사람들이요. 피트네 농장이 요즘 늑대 때문에 골치를 썩고 있소.,M2Q3E_INGO,,,,,0,0
+36165,Creature,Ingo,"Just down the road, Pete O'Deel has a farm with a few head of cattle. A pack of wolves has been killing his cattle almost daily. ","길을 따라 내려가면, 피트 오딜이 소를 몇 마리 기르는 농장을 가지고 있소. 늑대 무리가 거의 매일 그의 소를 죽이고 있지요.",M2Q3E_INGO,,,,,0,0
+36166,Creature,Ingo,What else can I help you with?,다른 도움이 필요한 게 있소?,M2Q3E_INGO,,,,,0,0
+36167,Creature,Ingo,"Now what else be troubling you, m'<lord/lady>?",그래 또 무슨 고민이 있으십니까?,M2Q3E_INGO,,,,,0,0
+36168,Creature,Ingo,"The farmers down the road, Mary and Peter. Mary and my wife were best friends from birth 'til the day she passed away. I've known the O'Deels since we first started courting. They're good folk.",길 아래쪽 농부들이요. 메리와 피터. 메리와 내 아내는 태어날 때부터 죽을 때까지 가장 친한 친구였소. 오딜 가족은 우리가 연애를 시작할 때부터 알았지요. 좋은 사람들이오.,M2Q3E_INGO,,,,,0,0
+36169,Creature,Ingo,"Well... You see Mary always had my wife growing up. All Constance has had is Erik. It's different, is all. She could use a woman-friend.",그게... 메리는 자라면서 늘 내 아내가 있었소. 콘스탄스에게는 에릭뿐이었지요. 좀 다른 거요. 여자 친구가 필요할 거요.,M2Q3E_INGO,,,,,0,0
+36170,Creature,Ingo,"Still more questions, is it?",아직도 질문이 더 있소?,M2Q3E_INGO,,,,,0,0
+36171,Creature,Ingo,"Still more questions, is it?",아직도 질문이 더 있소?,M2Q3E_INGO,,,,,0,0
+40970,Creature,Ingo,Ingo,잉고,M2Q3E_INGO,,,,,0,0

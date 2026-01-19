@@ -1,0 +1,25 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+24724,Creature,Luce,Luce,루스,M1S2LUCE|M4Q01A06LUCE,,,,,0,0
+48071,Creature,Luce,"Please, <sir/madam>! I beg of you, help my sister. Leesa's just a little girl.","제발요, <sir/madam>! 부탁이에요, 제 동생을 도와주세요. 리사는 어린애예요.",M4Q01A06LUCE,,,,vs_nprostf1_058,0,0
+48072,Creature,Luce,"I'm sorry, but I can't speak with you right now, <sir/madam>. I have to keep an eye on my little sister.","미안하지만 지금은 얘기할 수 없어요, <sir/madam>. 제 여동생을 지켜봐야 해요.",M4Q01A06LUCE,,,,vs_nprostf1_059,0,0
+48073,Creature,Luce,Leesa already vanished once. I don't want her to disappear on me again.,리사가 이미 한 번 사라졌어요. 다시 사라지는 건 싫어요.,M4Q01A06LUCE,,,,,0,0
+48074,Creature,Luce,"Please, I have no time for questions. Don't you understand? Leesa is missing! Please, help her. I beg you.","제발, 질문할 시간 없어요. 모르겠어요? 리사가 실종됐어요! 제발 도와주세요. 부탁이에요.",M4Q01A06LUCE,,,,,0,0
+48075,Creature,Luce,"Please, Leesa's just a little girl. Please bring her back to me. Please.","제발, 리사는 어린애예요. 제발 돌려주세요. 제발요.",M4Q01A06LUCE,,,,,0,0
+48076,Creature,Luce,"Why won't anybody help me? She's just a little girl! Please, somebody find her. Please.","왜 아무도 안 도와주는 거예요? 어린애라고요! 제발 누가 찾아주세요. 제발요.",M4Q01A06LUCE,,,,,0,0
+48077,Creature,Luce,I... I have no gold to pay you. But there is something. A family heirloom. It's all I have left. You can have it if you bring back Leesa.,"전... 드릴 돈이 없어요. 하지만 뭔가 있어요. 가보예요. 제가 가진 전부예요. 리사를 데려오면 드릴게요.",M4Q01A06LUCE,,,,,0,0
+48078,Creature,Luce,"No, I can't show it to you. I'm afraid to even say what it is. Someone will steal it. This place is full of thieves. ","안 돼요, 보여드릴 수 없어요. 뭔지 말하기도 무서워요. 누가 훔쳐갈 거예요. 여긴 도둑 천지라고요.",M4Q01A06LUCE,,,,,0,0
+48079,Creature,Luce, I... I don't even have it with me. Bring Leesa to me and I'll get it for you. I just want Leesa back.," 전... 지금 갖고 있지도 않아요. 리사를 데려오면 가져올게요. 리사만 돌아오면 돼요.",M4Q01A06LUCE,,,,,0,0
+48080,Creature,Luce,"Thank you, kind <sir/madam>. I'm so worried about Leesa. Before our mother died from the plague I promised her I'd watch out for my sister.","감사합니다, 친절한 <sir/madam>. 리사가 너무 걱정돼요. 어머니가 역병으로 돌아가시기 전에 동생을 지키겠다고 약속했거든요.",M4Q01A06LUCE,,,,,0,0
+48081,Creature,Luce,"When Luskan attacked we tried to sneak out of the city one night, but we couldn't get through. There were Luskan soldiers everywhere. We had to hide while they passed by. We hid for hours, it seemed.","러스칸이 공격했을 때 어느 날 밤 몰래 도시를 빠져나가려 했는데 뚫고 나갈 수 없었어요. 러스칸 병사가 어디에나 있었어요. 그들이 지나가는 동안 숨어야 했죠. 몇 시간이나 숨어 있었어요.",M4Q01A06LUCE,,,,,0,0
+48082,Creature,Luce,"I... I must have fallen asleep, waiting there in the dark. I didn't mean to, but I was so tired. And when I woke up Leesa was... *sob*... she was *sob*... she was gone!","전... 어둠 속에서 기다리다 잠들었나 봐요. 그러려던 건 아닌데 너무 피곤했어요. 깨어났을 땐 리사가... *흐느낌*... 리사가 *흐느낌*... 사라졌어요!",M4Q01A06LUCE,,,,,0,0
+48083,Creature,Luce,"I searched all night, until the dawn came. But there were so many soldiers! If they caught me... I can't go back. I just can't!","밤새 찾았어요. 새벽이 올 때까지. 하지만 병사가 너무 많았어요! 잡히면... 돌아갈 수 없어요. 정말 못 가요!",M4Q01A06LUCE,,,,,0,0
+48084,Creature,Luce,"Poor Leesa! I had to leave her there, wandering around in that war zone to the south. I... I had no other choice.","불쌍한 리사! 남쪽 전쟁터를 떠도는 리사를 두고 와야 했어요. 전... 선택의 여지가 없었어요.",M4Q01A06LUCE,,,,,0,0
+48085,Creature,Luce,"She's somewhere in the Luskan war zone. To the south. I know she's still alive... She has to be! Please, bring her back to me!","러스칸 전쟁터 어딘가에 있어요. 남쪽이요. 아직 살아 있어요... 살아 있을 거예요! 제발 데려와주세요!",M4Q01A06LUCE,m4q01a06luceelc1,,,,0,0
+48086,Creature,Luce,No! Why would you say that? NO! It isn't true! I know it isn't! You just don't want to help me!,안 돼요! 왜 그런 말을 해요? 안 돼! 사실이 아니에요! 아니라고요! 그냥 돕기 싫은 거잖아요!,M4Q01A06LUCE,,,,,0,0
+48087,Creature,Luce,Have you... have you found my sister? Have you found Leesa yet?,찾았나요... 제 동생 찾았나요? 리사 찾았어요?,M4Q01A06LUCE,,,,vs_nprostf1_057,0,0
+48088,Creature,Luce,"Thank you, my <Lord/Lady>. Thank you for bringing me back my little Leesa. ","감사합니다, <Lord/Lady>. 제 어린 동생을 데려다줘서 고마워요.",M4Q01A06LUCE,m4q1a6_returned,,,vs_nprostf1_056,0,0
+48089,Creature,Luce,"I... I have no gold to give you, but I do have this cloak. It was a family heirloom. My mother said it was magic.","전... 드릴 돈은 없지만 이 망토는 있어요. 가보예요. 어머니가 마법이라고 하셨어요.",M4Q01A06LUCE,m4q01a06luceelc2,,,,0,0
+48090,Creature,Luce,"But... but you promised! Please, bring her back! Please, I beg you! Bring Leesa back to me!","하지만... 약속했잖아요! 제발 데려와주세요! 제발 부탁이에요! 리사를 데려와주세요!",M4Q01A06LUCE,,,,,0,0
+48091,Creature,Luce,"You... you are too kind, my <Lord/Lady>. Thank you. For everything.","너무... 친절하세요, <Lord/Lady>. 감사합니다. 모든 것에.",M4Q01A06LUCE,,,,,0,0
+48092,Creature,Luce,"Now I just have to keep an eye on her. With all that's happened, I hope we make it through this.","이제 잘 지켜봐야죠. 이런 일들이 있었는데 우리가 잘 견디길 바라요.",M4Q01A06LUCE,,,,,0,0
+68403,Creature,Luce,I do not want to speak with you right now. I am too worried about my little sister Leesa. I don't know what I'll do if I never see her again...,지금은 얘기하고 싶지 않아요. 제 여동생 리사가 너무 걱정돼요. 다시 못 보면 어쩌죠...,M4Q01A06LUCE,,,,,0,0

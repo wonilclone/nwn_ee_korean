@@ -1,0 +1,62 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+32379,Dialog,BINN,Good day to you. Always a pleasure to see a fellow <Race> here at the Alliance Arms Inn. How can I be of service to you my friend?,"안녕하세요. 연합군 여관에서 같은 <Race>를 뵙게 되어 반갑습니다. 무엇을 도와드리면 될까요, 친구분?",M2Q1BINN,,,,,0,0
+32380,Dialog,BINN,"Oh grand, another barbarian. I guess I can allow you to stay, but do try to be careful with the furniture. You do know what furniture is... oh forget it. How can I help you?","오, 훌륭해라, 또 야만전사군요. 묵게는 해 드리죠. 다만 가구는 조심해 주시길. 가구가 뭔지는... 됐습니다. 무엇을 도와드릴까요?",M2Q1BINN,,,,,0,0
+32381,Dialog,BINN,"Servants of the gods are awarded special treatment here at the Alliance Arms Inn. How may I be of service to you, <Master/Mistress>?","신을 섬기는 분들은 이곳 연합군 여관에서 특별 대우를 받습니다. 무엇을 도와드리면 될까요, 모험가님?",M2Q1BINN,,,,,0,0
+32382,Dialog,BINN,Welcome! The Alliance Arms Inn is fortunate indeed to be visited by such heroic folk as yourself <lord/lady>. How may a humble innkeep be of service to you?,환영합니다! 이렇게 위대한 영웅이 찾아주시다니 연합군 여관의 영광입니다. 소박한 여관주인이 무엇을 해 드리면 될까요?,M2Q1BINN,,,,,0,0
+32383,Dialog,BINN,"Welcome to the Alliance Arms Inn. It is a pleasure to serve a hero at my humble establishment. Is there anything I can get for you, <sir/madam>?","연합군 여관에 오신 걸 환영합니다. 제 소박한 여관에서 영웅을 모시게 되어 기쁩니다. 무엇을 가져다드릴까요, 모험가님?",M2Q1BINN,,,,,0,0
+32384,Dialog,BINN,What do you want? Even if you are a hero I still expect you to conduct yourself properly if you want to stay here. I have a reputation to uphold. ,무슨 용무시죠? 영웅이라도 여기 머물려면 예의를 지키셔야 합니다. 제 명성이 달려 있거든요.,M2Q1BINN,,,,,0,0
+32385,Dialog,BINN,"Only 5 gold pieces for a quality room. I assure you, it will be a peaceful sleep after a hard day.",질 좋은 방이 금화 5개면 됩니다. 고된 하루 뒤에도 평온히 주무실 겁니다.,M2Q1BINN,,,,,0,0
+32386,Dialog,BINN,"Well, you certainly look much more relaxed. Ready to get back to another day of adventuring I'm sure. Is there anything else I can do for you?",이제 한결 편안해 보이시네요. 또 하루 모험을 나설 준비가 되셨겠죠. 다른 도움 드릴까요?,M2Q1BINN,,,,,0,0
+32387,Dialog,BINN,"My, my, we do have a delightful way of speaking, don't we? I do hope you know how to use the chamber pot. I hate having to change soiled sheets.","어휴, 말씀 참 '근사'하시네요. 요강 쓰는 법은 아시겠죠? 더럽혀진 시트를 갈아 치우는 건 질색이거든요.",M2Q1BINN,,,,,0,0
+32388,Dialog,BINN,"Ah... yes, so sorry <sir/madam>.","아... 예, 죄송합니다, 모험가님.",M2Q1BINN,,,,,0,0
+32389,Dialog,BINN,Your pardon.,무례를 용서하시길.,M2Q1BINN,,,,,0,0
+32390,Dialog,BINN,"(sigh) Just don't waste too much of my time. I am very busy, <sir/madam>.","(한숨) 제 시간을 너무 낭비하진 마세요. 아주 바쁩니다, 모험가님.",M2Q1BINN,,,,,0,0
+32391,Dialog,BINN,I'll do my best <sir/madam>.,"최선을 다하겠습니다, 모험가님.",M2Q1BINN,,,,,0,0
+32392,Dialog,BINN,There has been trouble throughout the north this past while. Between plagues and werewolves a man can hardly step foot outside his inn.,"요즘 북쪽 전역이 뒤숭숭하죠. 역병에 늑대인간까지 겹쳐서, 여관 밖으로 발도 못 내밀 지경입니다.",M2Q1BINN,,,,,0,0
+32393,Dialog,BINN,"It's over, of course, but I don't know that the effects have entirely passed. Looters and bandits are always a problem, but nature also seems to feel the repercussions of something that severe.","지금은 끝났다고는 하지만, 여파가 완전히 가신 것 같진 않군요. 약탈자와 산적은 늘 문제고, 자연 또한 그만큼 큰 사태의 반동을 겪는 듯합니다.",M2Q1BINN,,,,,0,0
+32394,Dialog,BINN,I've been hearing about strange things from Neverwinter Wood. Of course that might just be completely unrelated.,네버윈터 숲에서 기이한 일들이 벌어진다는 얘길 들었습니다. 물론 전혀 무관할 수도 있지요.,M2Q1BINN,,,,,0,0
+32395,Dialog,BINN,"It's just that there is this ranger, Ballard, who was talking about it here the other day. He seemed to be quite disturbed.",며칠 전 여기서 순찰자 발라드가 그런 이야기를 하더군요. 꽤나 불안해 보였습니다.,M2Q1BINN,,,,,0,0
+32396,Dialog,BINN,If you want to know more I would ask Ballard. He's camped in a grove of trees to the north east of the inn.,더 알고 싶으시면 발라드에게 물어보세요. 여관 북동쪽 수풀에 야영을 하고 있습니다.,M2Q1BINN,,,,,0,0
+32397,Dialog,BINN,"Hmm, as you wish.","흠, 좋을 대로 하시죠.",M2Q1BINN,,,,,0,0
+32398,Dialog,BINN,"It may be over, but there are some who suggest that the effects might be more wide-spread than just making people sick.","끝났다고는 해도, 사람을 아프게 만드는 것 이상의 더 광범위한 영향이 있었다는 말도 있습니다.",M2Q1BINN,,,,,0,0
+32399,Dialog,BINN,Nature itself is still feeling the effects.,자연 자체가 아직도 여파를 느끼고 있죠.,M2Q1BINN,,,,,0,0
+32400,Dialog,BINN,"It's all they're talking about in here. Some knight came along and convinced some boys to go hunting werewolves, but then it turned out... ","여기선 그 이야기뿐입니다. 어느 기사가 와서 젊은이들을 설득해 늑대인간 사냥을 나섰다더군요, 그런데 결국은...",M2Q1BINN,,,,,0,0
+32401,Dialog,BINN,Actually it would probably be better to get the information first-hand. Ander is a survivor of the whole thing. He's in here this <quarterday> and he can tell the tale better than I can.,"사실 직접 들으시는 게 좋겠네요. 앤더가 그 일의 생존자입니다. 이번 <quarterday>에 이 안에 있을 테니, 저보다 훨씬 제대로 들려줄 겁니다.",M2Q1BINN,,,,,0,0
+32402,Dialog,BINN,"Well, there is Alhelor. He seems to know a lot about werewolves. He also has some special equipment to sell to werewolf hunters. You could talk to him, I suppose. Although... no, nevermind.","음, 알헬러라는 사람도 있지요. 늑대인간에 대해선 잘 아는 듯하고, 사냥꾼들을 위한 특수 장비도 판다더군요. 가서 이야기해 보셔도 되겠죠. 다만... 아니, 됐습니다.",M2Q1BINN,,,,,0,0
+32403,Dialog,BINN,"<StartCheck>[Success]</Start> Well, I hate to say anything, but there is something a little odd about Alhelor. He just puts me on edge. I doubt it is anything serious. Just my nerves I suspect.","<StartCheck>[성공]</Start> 뭐라 말하긴 싫지만, 알헬러에게 좀 수상한 구석이 있긴 합니다. 큰 문제는 아닐 겁니다. 제 신경이 예민한 탓이겠지요.",M2Q1BINN,,,,,0,0
+32404,Dialog,BINN,<StartCheck>[Failure]</Start> No. I refuse to gossip about a customer. Talk to him and see for yourself.,<StartCheck>[실패]</Start> 아니요. 손님 험담은 하지 않습니다. 직접 가서 보시죠.,M2Q1BINN,,,,,0,0
+32405,Dialog,BINN,Certainly <sir/madam>. What would you like to know about?,"물론입니다, 모험가님. 무엇을 알고 싶으신가요?",M2Q1BINN,,,,,0,0
+32406,Dialog,BINN,"If you really need to know, I suppose.",정 정말 필요하시다면요.,M2Q1BINN,,,,,0,0
+32407,Dialog,BINN,For normal supplies I would suggest the Cracked Anvil to the southeast. ,일반 물자는 남동쪽의 '금간 모루'를 추천합니다.,M2Q1BINN,,,,,0,0
+32408,Dialog,BINN,"Yes <sir/madam>. The docks are located just west of here. They are fairly safe, at least as safe as things can be in these times.","네, 모험가님. 항만은 여기서 바로 서쪽입니다. 요즘 사정치곤 그럭저럭 안전한 편이지요.",M2Q1BINN,,,,,0,0
+32409,Dialog,BINN,One can never feel truly safe when there are werewolves running around.,늑대인간이 들끓는 세상에 진정한 안전이란 없지요.,M2Q1BINN,,,,,0,0
+32410,Dialog,BINN,"Some work for an adventurous soul? Well there is that elf over there. He calls himself ""The Serpent"" and has been inquiring about adventurers for a couple of days.",모험심 가득한 분이 하실 일거리요? 저기 엘프 하나가 며칠째 모험가를 찾고 있습니다. 스스로를 '독사'라 부르더군요.,M2Q1BINN,,,,,0,0
+32411,Dialog,BINN,"I'm not sure what he wants, but it might be worth your while to check it out. He certainly seems to have no lack of gold.","무엇을 원하는지는 모르겠지만, 가 볼 가치는 있어 보입니다. 금화가 모자라 보이진 않더군요.",M2Q1BINN,,,,,0,0
+32412,Dialog,BINN,Haven't had enough yet? You should speak to Mayor Kendrack. He usually has a worry or two that need taking care of.,아직도 부족하신가요? 켄드랙 시장을 찾아가 보세요. 늘 해결할 걱정거리 한두 개쯤은 있거든요.,M2Q1BINN,,,,,0,0
+32413,Dialog,BINN,"Sorry, I haven't heard of anything lately.","죄송하지만, 요즘은 딱히 들은 소식이 없습니다.",M2Q1BINN,,,,,0,0
+32414,Dialog,BINN,"I wonder what kind of job you might be able to handle without bungling? Oh well, let me see.","당신이 망치지 않고 해낼 수 있는 일이 뭐가 있을지 궁금하군요. 자, 어디 보죠.",M2Q1BINN,,,,,0,0
+32415,Dialog,BINN,"Bad stuff. Well, there is the stew we served last night, but I don't suppose that's exactly what you meant.","나쁜 일이라... 어젯밤에 낸 스튜가 있긴 한데, 아마 그 말씀은 아니시겠죠.",M2Q1BINN,,,,,0,0
+32416,Dialog,BINN,We've been plagued by werewolves near town and I hear that the Neverwinter Wood has things that are even worse.,"마을 근처는 늑대인간 때문에 고생이고, 네버윈터 숲엔 그보다 더한 것들이 있다더군요.",M2Q1BINN,,,,,0,0
+32417,Dialog,BINN,"I'm not sure where it is now, but you could talk to Ander. He was there when it all happened. He's here in the tavern this <quarterday>.","지금 어디 있는지는 모르겠지만, 앤더에게 물어보세요. 그 일이 벌어질 때 거기에 있었거든요. 이번 <quarterday>에 이 술집에 있습니다.",M2Q1BINN,,,,,0,0
+32418,Dialog,BINN,"You could talk to Alhelor, he has stuff to kill werewolves. Just be... no, nevermind.","알헬러에게 가 보셔도 됩니다. 늑대인간을 잡는 장비가 있지요. 다만 조심... 아니, 됐습니다.",M2Q1BINN,,,,,0,0
+32419,Dialog,BINN,"<StartCheck>[Success]</Start> Well, it's silly, but he is a little odd. It's probably nothing.","<StartCheck>[성공]</Start> 우스운 얘기 같지만, 그 사람이 좀 별나긴 합니다. 아마 별일은 아닐 겁니다.",M2Q1BINN,,,,,0,0
+32420,Dialog,BINN,"<StartCheck>[Failure]</Start> No, I shouldn't have said anything. Do you need anything else?","<StartCheck>[실패]</Start> 아니요, 괜한 말을 했군요. 다른 필요한 건요?",M2Q1BINN,,,,,0,0
+32421,Dialog,BINN,I doubt that I could explain it to you. Perhaps you should go talk to Ballard. He is camped out in the grove of trees to the northeast.,제가 설명해 드려도 이해하시기 어려울 겁니다. 차라리 발라드를 찾아가 보세요. 북동쪽 수풀에 진을 치고 있습니다.,M2Q1BINN,,,,,0,0
+32422,Dialog,BINN,That would be a mallard. Ballard is a ranger.,음악 발라드가 아니구요. 순찰자인 발라드 말입니다.,M2Q1BINN,,,,,0,0
+32423,Dialog,BINN,"Ugh, I shiver to think of the difficulty that you will have when trying to think up questions.","으, 당신이 질문을 짜내느라 겪을 고생을 생각하니 소름이 돋는군요.",M2Q1BINN,,,,,0,0
+32424,Dialog,BINN,"I suppose if I use very small words, you might be able to follow my directions.",아주 쉬운 말만 쓴다면 제 지시를 따라올 수도 있겠지요.,M2Q1BINN,,,,,0,0
+32425,Dialog,BINN,If you are looking for magical supplies you could try looking up Eltoora in the northeast part of town.,마법 물자를 찾는다면 마을 북동쪽의 엘투라를 찾아보세요.,M2Q1BINN,,,,,0,0
+32426,Dialog,BINN,"Feel free to spend lots of money here at the Alliance Arms Inn, where paying customers are always welcome.",연합군 여관에서는 언제든 마음껏 돈을 쓰셔도 됩니다. 지갑 여는 손님은 언제나 환영이니까요.,M2Q1BINN,,,,,0,0
+32427,Dialog,BINN,I'll bet a cup of wine would help you come up with more questions. Give it some thought.,와인 한 잔이면 질문이 더 떠오를 겁니다. 한 번 생각해 보시죠.,M2Q1BINN,,,,,0,0
+32428,Dialog,BINN,"When you're done, come back and have a nice spiced cider, to help you relax after a stressful day.",볼일을 마치고 돌아오면 향신 사과주 한 잔으로 긴장을 푸세요.,M2Q1BINN,,,,,0,0
+32429,Dialog,BINN,Don't forget to try our special selection of ales before you leave town.,마을을 떠나기 전에 우리 집의 특별한 에일도 잊지 말고 맛보세요.,M2Q1BINN,,,,,0,0
+32430,Dialog,BINN,"With a head like a rock, no doubt. Well, good luck and don't run up any large tabs.","머리가 바위만큼 단단하시군요, 의심의 여지없이. 아무튼 행운을 빕니다. 외상은 크게 만들지 마시고요.",M2Q1BINN,,,,,0,0
+32431,Dialog,BINN,"Don't forget, the Alliance Arms Inn has one of the best selections of imported ale this side of Waterdeep.","잊지 마세요, 연합군 여관은 워터딥의 이쪽 방면에서는 수입 에일 목록이 가장 훌륭한 곳 중 하나랍니다.",M2Q1BINN,,,,,0,0
+32432,Dialog,BINN,"Remember, you can get a good rest here at the Alliance Arms Inn. Camping causes cramping!","기억해 두세요, 연합군 여관에서는 푹 쉴 수 있습니다. 캠핑하면 쥐 납니다!",M2Q1BINN,,,,,0,0
+32433,Dialog,BINN,"Well, that'll teach me to open my mouth, now won't it.","그래요, 괜히 입 놀리면 안 된다는 걸 또 배웠네요.",M2Q1BINN,,,,,0,0
+64587,Dialog,BINN,"A tax on taverns? That's outrageous! Lord Nasher must be out of his mind. Forget it, I'll never pay.","술집에 세금이라니? 터무니없군요! 나셰르 영주님이 정신이 나가신 모양입니다. 됐습니다, 절대 안 냅니다.",M2Q1BINN,,,,,0,0
+64588,Dialog,BINN,"<StartCheck>[Failure]</Start> Lady Aribeth wants to come down here and ask for more taxes in person, then I'll talk to her.","<StartCheck>[실패]</Start> 아리베스 경이 직접 내려와 더 내라고 말씀하신다면, 그때 이야기해 보죠.",M2Q1BINN,,,,,0,0
+64589,Dialog,BINN,"<StartCheck>[Success]</Start> Fine, here's 50 gold. It's a real shame when a ruler thinks he can just tax his subjects for every little thing.","<StartCheck>[성공]</Start> 좋아요, 여기 금화 50개요. 통치자가 사소한 것마다 세금을 매길 수 있다고 믿는다니, 참 안타깝군요.",M2Q1BINN,m2q1arfarm1,,,,0,0
+64590,Dialog,BINN,Now what do you want?,그래서 이제 뭘 원하십니까?,M2Q1BINN,,,,,0,0
+64591,Dialog,BINN,A joke? You can't even begin to know how not funny that kind of joke is to an innkeep. Well... no harm done... I suppose. What can I do for you?,농담이라고요? 여관주인에게 그런 농담이 얼마나 하나도 안 웃긴지 가늠도 못하시겠죠. 뭐... 별일은 아니었으니 됐습니다. 무엇을 도와드릴까요?,M2Q1BINN,,,,,0,0
+64592,Dialog,BINN,"I already paid that tax to another person, so just forget about it. Now what do you want.","그 세금은 이미 다른 사람에게 냈습니다. 그러니 그만 잊으시죠. 그래서, 이제 뭘 원하십니까?",M2Q1BINN,,,,,0,0

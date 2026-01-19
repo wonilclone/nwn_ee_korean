@@ -1,0 +1,47 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+34834,PC,Player Character,"Uh, I'm <FirstName>. Who are you?","어, 저는 <FirstName>입니다. 당신은 누구예요?",m2q2grelmar,,[지능 보통],,,0,0
+34835,PC,Player Character,I can't understand you. What are you talking about?,이해할 수 없어요. 무슨 말을 하는 거예요?,m2q2grelmar,,[지능 보통],,,0,0
+34836,PC,Player Character,Me be <FirstName>. Who be you?,나 <FirstName>이야. 너 누구야?,m2q2grelmar,,[지능 낮음],,,0,0
+34837,PC,Player Character,Me no understand. What you mean to say?,나 이해 못 해. 무슨 말 하는 거야?,m2q2grelmar,,[지능 낮음],,,0,0
+34838,PC,Player Character,I am going to try to ask some questions. Do you think you could answer some?,질문 좀 해보려고 해요. 대답해 줄 수 있을까요?,m2q2grelmar,,[지능 보통],,,0,0
+34839,PC,Player Character,You've gone insane!,미쳤군요!,m2q2grelmar,,[지능 보통],,,0,0
+34840,PC,Player Character,I'm not going to listen to this anymore. Goodbye.,더 이상 듣지 않을 거예요. 안녕.,m2q2grelmar,,[지능 보통],,,0,0
+34841,PC,Player Character,How about I cut out your tongue if you don't quit rhyming?,운율 그만 맞추지 않으면 혀를 잘라버릴까?,m2q2grelmar,,[지능 보통],,,0,0
+34842,PC,Player Character,"Me want ask questions. You try to answer them, okay?","나 질문 하고 싶어. 너 대답해봐, 알았지?",m2q2grelmar,,[지능 낮음],,,0,0
+34843,PC,Player Character,You crazy!,너 미쳤어!,m2q2grelmar,,[지능 낮음],,,0,0
+34844,PC,Player Character,Me cut out tongue if you keep rhymes!,너 계속 운율 맞추면 나 혀 잘라버려!,m2q2grelmar,,[지능 낮음],,,0,0
+34845,PC,Player Character,Me not listen to you no more. Bye bye.,나 더 이상 안 들어. 안녕.,m2q2grelmar,,[지능 낮음],,,0,0
+34846,PC,Player Character,"<StartCheck>[Persuade]</Start> That almost made sense. Do you mean you're crazy, because you are on the Spirit's plane?",<StartCheck>[설득]</Start> 거의 말이 되네요. 정령계에 있어서 미쳤다는 말이에요?,m2q2grelmar,,[지능 보통],,,0,0
+34847,PC,Player Character,"<StartCheck>[Persuade]</Start> That almost make sense. You mean you be crazy, 'cause you be on Spirit plane?",<StartCheck>[설득]</Start> 거의 말 돼. 너 정령계에 있어서 미쳤다는 거야?,m2q2grelmar,,[지능 낮음],,,0,0
+34848,PC,Player Character,I think I understand. Now I want to try to ask you some other questions.,이해한 것 같아요. 이제 다른 질문을 해보고 싶어요.,m2q2grelmar,,[지능 보통],,,0,0
+34849,PC,Player Character,Me think me get it. Now me try other questions.,나 이해한 것 같아. 이제 나 다른 질문 해볼게.,m2q2grelmar,,[지능 낮음],,,0,0
+34850,PC,Player Character,What has driven you crazy?,무엇이 당신을 미치게 했어요?,m2q2grelmar,,[지능 보통],,,0,0
+34851,PC,Player Character,What are you doing here?,여기서 뭐 하고 있어요?,m2q2grelmar,,[지능 보통],,,0,0
+34852,PC,Player Character,Is it possible for you to stop rhyming?,운율 맞추는 걸 멈출 수 있나요?,m2q2grelmar,,[지능 보통],,,0,0
+34853,PC,Player Character,What do you know about the Spirit of the Wood?,숲의 정령에 대해 뭘 알고 있어요?,m2q2grelmar,,[지능 보통],,,0,0
+34854,PC,Player Character,Why you be mad?,너 왜 미쳤어?,m2q2grelmar,,[지능 낮음],,,0,0
+34855,PC,Player Character,What you be doing here?,너 여기서 뭐 하고 있어?,m2q2grelmar,,[지능 낮음],,,0,0
+34856,PC,Player Character,"You stop rhyming, maybe?",너 운율 그만 맞출 수 있어?,m2q2grelmar,,[지능 낮음],,,0,0
+34857,PC,Player Character,What you know 'bout Spirit of Wood?,너 숲의 정령에 대해 뭐 알아?,m2q2grelmar,,[지능 낮음],,,0,0
+34858,PC,Player Character,<StartCheck>[Persuade]</Start> You mean somebody left you here and you can't get out?,<StartCheck>[설득]</Start> 누군가 당신을 여기 두고 갔고 나갈 수 없다는 말이에요?,m2q2grelmar,,[지능 보통],,,0,0
+34859,PC,Player Character,"That makes no sense to me, let's try a different question.","그건 말이 안 되네요, 다른 질문을 해보죠.",m2q2grelmar,,[지능 보통],,,0,0
+34860,PC,Player Character,I think you would make more sense with your head cut off. Time to die!,머리를 자르면 더 말이 될 것 같네요. 죽을 시간이야!,m2q2grelmar,,[지능 보통],,,0,0
+34861,PC,Player Character,That make no sense. Me try other question.,그거 말 안 돼. 나 다른 질문 해볼게.,m2q2grelmar,,[지능 낮음],,,0,0
+34862,PC,Player Character,You make more sense without head. You die now!,너 머리 없으면 더 말 돼. 너 이제 죽어!,m2q2grelmar,,[지능 낮음],,,0,0
+34863,PC,Player Character,So you're the one who hurt the Spirit of the Wood. Do you know how to cure it?,그럼 숲의 정령을 다치게 한 게 당신이군요. 어떻게 치료하는지 알아요?,m2q2grelmar,,[지능 보통],,,0,0
+34864,PC,Player Character,So you poisoned a tree and that made the Spirit sick? Why would anyone want the Spirit hurt?,나무에 독을 놔서 정령을 아프게 했다고요? 왜 누군가 정령을 다치게 하려고 하죠?,m2q2grelmar,,[지능 보통],,,0,0
+34865,PC,Player Character,<StartCheck>[Persuade]</Start> You mean you get left here and you no can get out?,<StartCheck>[설득]</Start> 너 여기 버려졌고 나갈 수 없다는 거야?,m2q2grelmar,,[지능 낮음],,,0,0
+34866,PC,Player Character,You hurt Spirit? You know how it be saved?,너 정령 다치게 했어? 너 어떻게 살리는지 알아?,m2q2grelmar,,[지능 낮음],,,0,0
+34867,PC,Player Character,You poison tree and it make Spirit sick? Why someone want hurt Spirit?,너 나무에 독 놔서 정령 아프게 했어? 왜 누가 정령 다치게 하고 싶어 해?,m2q2grelmar,,[지능 낮음],,,0,0
+34868,PC,Player Character,Who is this Maugrim?,이 모그림이 누구예요?,m2q2grelmar,,[지능 보통],,,0,0
+34869,PC,Player Character,Who be this Maugrim?,모그림이 누구야?,m2q2grelmar,,[지능 낮음],,,0,0
+34870,PC,Player Character,"<StartCheck>[Persuade]</Start> You are scared of this Maugrim. Don't worry, I'm a much tougher lion than he is.","<StartCheck>[설득]</Start> 모그림이 두렵군요. 걱정 마세요, 저는 그보다 훨씬 강한 사자예요.",m2q2grelmar,,[지능 보통],,,0,0
+34871,PC,Player Character,"<StartCheck>[Persuade]</Start> You be scared of Maugrim? You no worry, me much tougher lion than he.","<StartCheck>[설득]</Start> 너 모그림 무서워? 걱정 마, 나 그보다 훨씬 강한 사자야.",m2q2grelmar,,[지능 낮음],,,0,0
+34872,PC,Player Character,So you mean other cultists are causing trouble?,다른 사교도들도 문제를 일으키고 있다는 말이에요?,m2q2grelmar,,[지능 보통],,,0,0
+34873,PC,Player Character,You tell me if other cultists cause trouble like you?,다른 사교도들도 너처럼 문제 일으켜?,m2q2grelmar,,[지능 낮음],,,0,0
+34874,PC,Player Character,"<StartCheck>[Persuade]</Start> Don't worry, I won't tell anybody your secret. You can trust me.","<StartCheck>[설득]</Start> 걱정 마세요, 비밀을 아무에게도 말하지 않을게요. 날 믿어도 돼요.",m2q2grelmar,,[지능 보통],,,0,0
+34875,PC,Player Character,<StartCheck>[Persuade]</Start> You tell me secret. Me promise me no tell others.,<StartCheck>[설득]</Start> 너 비밀 말해줘. 나 약속해 나 다른 사람한테 안 말해.,m2q2grelmar,,[지능 낮음],,,0,0
+34876,PC,Player Character,Why would someone want to hurt the Spirit?,왜 누군가 정령을 다치게 하려고 하죠?,m2q2grelmar,,[지능 보통],,,0,0
+34877,PC,Player Character,Why them want hurt Spirit?,왜 그들 정령 다치게 하고 싶어 해?,m2q2grelmar,,[지능 낮음],,,0,0
+34878,PC,Player Character,Do you mean there are other cultists causing trouble?,다른 사교도들도 문제를 일으키고 있다는 말이에요?,m2q2grelmar,,[지능 보통],,,0,0
+34879,PC,Player Character,Other cultists cause trouble like you?,다른 사교도들도 너처럼 문제 일으켜?,m2q2grelmar,,[지능 낮음],,,0,0

@@ -1,0 +1,35 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+71394,PC,Player Character,Goodbye.,안녕히.,q1ruralnathan,,,,,0,0
+71395,PC,Player Character,I am trying.,노력하고 있어요.,q1ruralnathan,,con_q1rnathan_4,,,0,0
+71396,PC,Player Character,Your daughter is dead.,따님은 돌아가셨어요.,q1ruralnathan,act_nathan_1,con_nathan_2,,,0,0
+71397,PC,Player Character,Explain what happened. ,무슨 일이 있었는지 설명해 주세요.,q1ruralnathan,,con_nathan_1,,,0,0
+71398,PC,Player Character,I have decided to help you. ,도와드리기로 했어요.,q1ruralnathan,act_q1rnathan_2,con_q1rnathan_3,,,0,0
+71399,PC,Player Character,I want to ask you some questions. ,질문 좀 하고 싶어요.,q1ruralnathan,,,,,0,0
+71400,PC,Player Character,I didn't say I would help you.,도와준다고 한 적 없어요.,q1ruralnathan,,con_q1rnathan_3,,,0,0
+71401,PC,Player Character,Aren't you one of the dwarven race known as the Duergar?,듀에르가라는 드워프 종족 아니에요?,q1ruralnathan,,,,,0,0
+71402,PC,Player Character,You lie; I know all about Duergar and their evil ways.,거짓말이에요. 듀에르가와 그들의 사악한 방식에 대해 다 알아요.,q1ruralnathan,,,,,0,0
+71403,PC,Player Character,I am Drogan's pupil and he never mentioned you. ,저는 드로건의 제자인데 당신 얘기는 한 적 없어요.,q1ruralnathan,,,,,0,0
+71404,PC,Player Character,"Well, as a matter of fact, I know Drogan well.","사실, 드로건을 잘 알아요.",q1ruralnathan,,,,,0,0
+71405,PC,Player Character,You have no need of a name. I am simply passing through.,이름은 필요 없어요. 그냥 지나가는 중이에요.,q1ruralnathan,,,,,0,0
+71406,PC,Player Character,Recognize a friend by <his/her> face; words can be lies.,친구는 얼굴로 알아보는 거예요. 말은 거짓일 수 있으니.,q1ruralnathan,,,,,0,0
+71407,PC,Player Character,The people of Hilltop know me as <FirstName>.,힐탑 사람들은 저를 <FirstName>으로 알아요.,q1ruralnathan,,,,,0,0
+71408,PC,Player Character,"I am <FirstName>, a pupil of Drogan's back in Hilltop.","저는 <FirstName>, 힐탑에서 드로건의 제자예요.",q1ruralnathan,,,,,0,0
+71409,PC,Player Character,I'll just take what I want off your corpse then.,그럼 당신 시체에서 원하는 걸 가져갈게요.,q1ruralnathan,,,,,0,0
+71410,PC,Player Character,"No trouble, good Master Hurst. I am not here to stay.","문제없어요, 허스트 어른. 오래 있을 건 아니에요.",q1ruralnathan,,,,,0,0
+71411,PC,Player Character,What is bothering you so greatly?,뭐가 그렇게 걱정이에요?,q1ruralnathan,,,,,0,0
+71412,PC,Player Character,Have you been bothered by the kobolds too?,코볼트 때문에 고생하셨어요?,q1ruralnathan,,,,,0,0
+71413,PC,Player Character,Good luck and goodbye.,행운을 빌어요. 안녕히.,q1ruralnathan,,,,,0,0
+71414,PC,Player Character,I just want to ask you some questions.,질문 좀 하고 싶을 뿐이에요.,q1ruralnathan,,,,,0,0
+71415,PC,Player Character,That's all my questions.,질문은 그게 다예요.,q1ruralnathan,,,,,0,0
+71416,PC,Player Character,Where is the hill giant's cave?,언덕 거인 동굴이 어디예요?,q1ruralnathan,,,,,0,0
+71417,PC,Player Character,Why did you mention Chauntea? Isn't she a human goddess?,왜 차운티아를 언급했어요? 인간 여신 아니에요?,q1ruralnathan,,,,,0,0
+71418,PC,Player Character,"What kind of name is Nathan, for a dwarf?",네이선이 드워프 이름으로는 좀 이상하지 않아요?,q1ruralnathan,,,,,0,0
+71419,PC,Player Character,"How did you, a Duergar, come to live on the surface?","듀에르가인 당신이 어떻게 지상에서 살게 됐어요?",q1ruralnathan,,,,,0,0
+71420,PC,Player Character,I don't care about your troubles.,당신 문제는 관심 없어요.,q1ruralnathan,,,,,0,0
+71421,PC,Player Character,"Tell me more, perhaps I could help.","더 말해봐요, 도와줄 수 있을지도 몰라요.",q1ruralnathan,,con_nathan_4,,,0,0
+71422,PC,Player Character,Forget it. She's probably already been roasted on a spit.,잊어버려요. 이미 꼬챙이에 구워졌을 거예요.,q1ruralnathan,,,,,0,0
+71423,PC,Player Character,I have my own problems.,저도 제 문제가 있어요.,q1ruralnathan,,,,,0,0
+71424,PC,Player Character,Goodbye.,안녕히.,q1ruralnathan,,,,,0,0
+71425,PC,Player Character,I changed my mind. I will help you.,마음이 바뀌었어요. 도와드릴게요.,q1ruralnathan,act_q1rnathan_2,,,,0,0
+71426,PC,Player Character,Is there a reward?,보상이 있어요?,q1ruralnathan,,,,,0,0
+71427,PC,Player Character,I can help you.,도와드릴 수 있어요.,q1ruralnathan,act_q1rnathan_2,,,,0,0

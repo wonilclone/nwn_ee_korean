@@ -1,0 +1,12 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+79362,PC,Player Character,"Return to the grave, ye bones!","무덤으로 돌아가라, 뼈다귀들아!",rob,,,,,0,0
+79363,PC,Player Character,How can I help?,어떻게 도와줄까?,rob,,,,,0,0
+79364,PC,Player Character,Why should I help you?,내가 왜 널 도와줘야 하지?,rob,,,,,0,0
+79365,PC,Player Character,Who are you?,넌 누구야?,rob,,,,,0,0
+79366,PC,Player Character,"I'm sorry, I cannot help.","미안하지만, 도와줄 수 없어.",rob,,,,,0,0
+79367,PC,Player Character,What king do you speak of?,무슨 왕을 말하는 거야?,rob,,,,,0,0
+79368,PC,Player Character,What were these quests that were interrupted?,그 중단된 임무가 뭐였는데?,rob,,,,,0,0
+79369,PC,Player Character,Surely you must remember something...,뭔가 기억나는 게 있을 텐데...,rob,,,,,0,0
+79372,PC,Player Character,Leave.,떠납니다.,romancenovel,,,,,0,0
+79373,PC,Player Character,Rewrite the ending.,결말을 다시 씁니다.,romancenovel,a_tome_rewrite,c_pen_and_ink,,,0,0
+79374,PC,Player Character,Read the novel.,소설을 읽습니다.,romancenovel,a_romancenovel,,,,0,0

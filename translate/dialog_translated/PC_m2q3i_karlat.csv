@@ -1,0 +1,45 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+37213,PC,Player Character,"Back to the grave, you undead beast!","무덤으로 돌아가라, 언데드 괴물아!",m2q3i_karlat,,[지능 보통],,,0,0
+37214,PC,Player Character,Are you Karlat Jhareg?,당신이 칼랏 자렉인가요?,m2q3i_karlat,,[지능 보통],,,0,0
+37215,PC,Player Character,Why is this tower so full of fire?,왜 이 탑은 불로 가득한 거죠?,m2q3i_karlat,,[지능 보통],,,0,0
+37216,PC,Player Character,Why do you sound so confused?,왜 그렇게 혼란스러워 보이시죠?,m2q3i_karlat,,[지능 보통],,,0,0
+37217,PC,Player Character,Be at peace. I am the Judge you seek.,안심하세요. 제가 당신이 찾는 심판관입니다.,m2q3i_karlat,,[지능 보통],,,0,0
+37218,PC,Player Character,"You be Mister Karlat, yuh?","너 칼랏이야, 응?",m2q3i_karlat,,[지능 낮음],,,0,0
+37219,PC,Player Character,Why you sound confused?,왜 혼란스러워?,m2q3i_karlat,,[지능 낮음],,,0,0
+37220,PC,Player Character,"Yuh, me be da Judge-guy.","응, 나 심판관이야.",m2q3i_karlat,,[지능 낮음],,,0,0
+37221,PC,Player Character,Why there so much fire here?,왜 여기 불 많아?,m2q3i_karlat,,[지능 낮음],,,0,0
+37222,PC,Player Character,"Die, Mister Undead Beast! Die again!","죽어, 언데드! 다시 죽어!",m2q3i_karlat,,[지능 낮음],,,0,0
+37223,PC,Player Character,Tell me more... ,더 말해주세요...,m2q3i_karlat,,[지능 보통],,,0,0
+37224,PC,Player Character,Get to the point.,요점만 말하세요.,m2q3i_karlat,,[지능 보통],,,0,0
+37225,PC,Player Character,"Yuh? Ooh, you keep talking... ","응? 오, 계속 말해...",m2q3i_karlat,,[지능 낮음],,,0,0
+37226,PC,Player Character,You got point? Get to it.,요점 있어? 빨리 말해.,m2q3i_karlat,,[지능 낮음],,,0,0
+37227,PC,Player Character,Tell me more... ,더 말해주세요...,m2q3i_karlat,,[지능 보통],,,0,0
+37228,PC,Player Character,Get to the point.,요점만 말하세요.,m2q3i_karlat,,[지능 보통],,,0,0
+37229,PC,Player Character,"Yuh? Ooh, you keep talking... ","응? 오, 계속 말해...",m2q3i_karlat,,[지능 낮음],,,0,0
+37230,PC,Player Character,You got point? Get to it.,요점 있어? 빨리 말해.,m2q3i_karlat,,[지능 낮음],,,0,0
+37231,PC,Player Character,Will you give that as a written oath?,그걸 서면 맹세로 해주시겠습니까?,m2q3i_karlat,,[지능 보통],,,0,0
+37232,PC,Player Character [M2Q3C],I've spoken to Quint. He tells a different story.,퀸트와 얘기했습니다. 그는 다른 이야기를 하던데요.,m2q3i_karlat,,m2q3cs_karlat001,[M2Q3C],,0,0
+37233,PC,Player Character [M2Q3I],This your journal?,이게 당신 일지인가요?,m2q3i_karlat,,m2q3i_karlatc2,[M2Q3I],,0,0
+37234,PC,Player Character,I still have some questions.,아직 질문이 좀 있습니다.,m2q3i_karlat,,[지능 보통],,,0,0
+37235,PC,Player Character,You gives that as written oath?,그거 서면 맹세로 해줘?,m2q3i_karlat,,[지능 낮음],,,0,0
+37236,PC,Player Character [M2Q3C],Me talk to Quint already. His story different.,나 퀸트랑 얘기했어. 그 사람 다른 말했어.,m2q3i_karlat,,m2q3cs_karlat002,[M2Q3C],,0,0
+37237,PC,Player Character,Me still have questions.,나 아직 질문 있어.,m2q3i_karlat,,[지능 낮음],,,0,0
+37238,PC,Player Character,Why would Quint do such a thing?,퀸트가 왜 그런 짓을 했을까요?,m2q3i_karlat,,[지능 보통],,,0,0
+37239,PC,Player Character,"<StartCheck>[Insight]</Start> A lich's phylactery, huh? Aren't liches evil?",<StartCheck>[통찰]</Start> 리치의 성구함이라고요? 리치는 악한 존재 아닌가요?,m2q3i_karlat,,nw_d2_wis_intn,,,0,0
+37240,PC,Player Character,Who has the phylactery now?,지금 그 성구함은 누가 가지고 있나요?,m2q3i_karlat,,[지능 보통],,,0,0
+37241,PC,Player Character,What about Lathander and the Guardian?,라샌더와 수호자는 어떻게 됐죠?,m2q3i_karlat,,[지능 보통],,,0,0
+37242,PC,Player Character,But why Quint do horrible thing like that?,퀸트 왜 그런 나쁜 짓 했어?,m2q3i_karlat,,[지능 낮음],,,0,0
+37243,PC,Player Character,Who has philacta-thingy now?,그 필랙타-뭐시기 누가 갖고 있어?,m2q3i_karlat,,[지능 낮음],,,0,0
+37244,PC,Player Character,What 'bout da Guardian an' her god?,수호자랑 신은 어떻게 됐어?,m2q3i_karlat,,[지능 낮음],,,0,0
+37245,PC,Player Character,"All right, enough questions.","좋습니다, 질문은 그만하죠.",m2q3i_karlat,,[지능 보통],,,0,0
+37246,PC,Player Character,"Okay, 'nuff questions, yuh?","좋아, 질문 그만, 응?",m2q3i_karlat,,[지능 낮음],,,0,0
+37247,PC,Player Character,You tricked your brother into the crime.,당신이 동생을 속여서 범죄에 끌어들인 거군요.,m2q3i_karlat,,[지능 보통],,,0,0
+37248,PC,Player Character,You sought undeath out of a greed for knowledge.,당신은 지식에 대한 탐욕으로 언데드가 되려 했군요.,m2q3i_karlat,,[지능 보통],,,0,0
+37249,PC,Player Character,You acted on the advice of someone named Belial.,당신은 벨리알이라는 자의 조언을 따른 거군요.,m2q3i_karlat,,[지능 보통],,,0,0
+37250,PC,Player Character,Nothing. It doesn't say anything of note.,아무것도 아닙니다. 주목할 만한 내용이 없네요.,m2q3i_karlat,,[지능 보통],,,0,0
+37251,PC,Player Character,You tricked Quint into da crime.,너 퀸트 속여서 나쁜 짓 시켰어.,m2q3i_karlat,,[지능 낮음],,,0,0
+37252,PC,Player Character,You greedy for knowledge. That's why you undead.,너 지식 욕심내서 언데드 됐어.,m2q3i_karlat,,[지능 낮음],,,0,0
+37253,PC,Player Character,"Some guy called Belial, he tell you to do stuff.","벨리알이라는 사람, 그 사람이 시켰어.",m2q3i_karlat,,[지능 낮음],,,0,0
+37254,PC,Player Character,"Huh? Oh, it not say anything important... ","응? 오, 중요한 거 없어...",m2q3i_karlat,,[지능 낮음],,,0,0
+37255,PC,Player Character,That's all it said. Will you give that as a written oath?,그게 전부입니다. 그걸 서면 맹세로 해주시겠습니까?,m2q3i_karlat,,[지능 보통],,,0,0
+37256,PC,Player Character,"Uh, that's all it said. You gives that as written oath?","어, 그게 전부야. 서면 맹세로 해줘?",m2q3i_karlat,,[지능 낮음],,,0,0

@@ -1,0 +1,87 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72643,Dialog,ARZIG,"Grr, yip! You comes into my caves and kills my kobolds, yip! My teeths long to tear your throat out, grrr!","그르르, 킁! 너 내 동굴에 들어와서 내 코볼트들 죽였지, 킁! 내 이빨이 네 목 찢고 싶어서 근질근질해, 그르르!",Q5_ARZIG,act_q5arzig_7,,,,0,0
+72644,Dialog,ARZIG,"Grr, you dies now! Attacks <him/her>! Yip!","그르르, 너 지금 죽는다! 저놈을 공격해! 킁!",Q5_ARZIG,,,,,0,0
+72646,Dialog,ARZIG,"Nafeeli, yip! You always stupid kobold. Me not care that him saves you, grr.","나필리, 킁! 너 언제나 멍청한 코볼트. 그가 너 구해줬어도 나 신경 안 해, 그르르.",Q5_ARZIG,,,,,0,0
+72649,Dialog,ARZIG,"Grr, you saves this kobold? Yip, me not sure me trusts you. Me keeps eye on you. Grr, why you comes to my caves and kills my kobolds, yip?","그르르, 너 이 코볼트 살렸어? 킁! 나 네가 믿을 만한지 잘 모르지. 나 너 지켜본다. 그르르, 왜 내 동굴에 와서 내 코볼트들 죽였어, 킁?",Q5_ARZIG,act_arzig_3,,,,0,0
+72651,Dialog,ARZIG,"Grr, you saves both them kobolds? Me guess you be friend of tribe, yip!","그르르, 너 그 둘 다 살렸어? 너 우리 부족 친구인 걸로 치지, 킁!",Q5_ARZIG,act_arzig_2,,,,0,0
+72654,Dialog,ARZIG,"Grr, you saves all them kobolds, yip? You be good ally, yip! Me, Chief Arzig declare you be Champion!","그르르, 너 코볼트들 전부 살렸지, 킁? 너 좋은 동맹, 킁! 나, 족장 아르직, 너를 용사로 선언한다!",Q5_ARZIG,act_arzig_1,,,,0,0
+72655,Dialog,ARZIG,"Yip, you be welcomes here, but me wonders why you comes to my caves, grr.","킁, 여기선 환영... 하지만 왜 내 동굴에 왔는지 궁금, 그르르.",Q5_ARZIG,,,,,0,0
+72656,Dialog,ARZIG,"Grr, what you want rod for? Kobolds no will listen to you, yip, them no listen to me either! Master Jumper only commands them.","그르르, 그 단장은 왜 필요? 코볼트들 네 말 안 들어, 킁! 내 말도 안 들어! 뜀박장만 저들을 지휘해.",Q5_ARZIG,,,,,0,0
+72657,Dialog,ARZIG,"Yip, me knew me no could trust you! Grr, you be working for Master Jumper! That why you want to take rod away from me, yip!","킁, 너 못 믿을 줄 알았지! 그르르, 너 뜀박장 편이지! 그래서 내 단장 빼앗으려 했던 거야, 킁!",Q5_ARZIG,,,,,0,0
+72658,Dialog,ARZIG,"<StartCheck>[Failure]</Start> Grr, you never makes threats at me again!","<StartCheck>[실패]</Start> 그르르, 다시는 나한테 겁주지 마!",Q5_ARZIG,,,,,0,0
+72659,Dialog,ARZIG,"<StartCheck>[Success]</Start> Grr, me really not likes way you makes threats at me, yip, but you is strong and me no wants to die.","<StartCheck>[성공]</Start> 그르르, 네가 나 겁주는 거 마음에 안 들어, 킁... 하지만 너 강하고, 나 죽기 싫어.",Q5_ARZIG,,,,,0,0
+72660,Dialog,ARZIG,"Yip, if you makes Master Jumper agree with me, then me will gives over rod, grr. Yip, guards, go gets Master Jumper!","킁, 네가 뜀박장 내 말에 동의하게 만들면, 나 단장 넘겨준다, 그르르. 킁! 경비들아, 뜀박장 데려와!",Q5_ARZIG,act_q5arzig_1,,,,0,0
+72661,Dialog,ARZIG,"<StartCheck>[Failure]</Start> Me could never get along with Master Jumper! Grr, me hates Master Jumper! You must be traitor to help him, yip, grr!","<StartCheck>[실패]</Start> 나 뜀박장이랑 절대 사이좋게 못 지내! 그르르, 나 뜀박장 싫어! 그를 돕다니 넌 배신자야, 킁, 그르르!",Q5_ARZIG,,,,,0,0
+72662,Dialog,ARZIG,"<StartCheck>[Success]</Start> Grr, you mean you arbiters.. arbicates... you helps us make peace? Yip, guards, go gets Master Jumper Klumph!","<StartCheck>[성공]</Start> 그르르, 너 중재자... 중재해 준다... 우리 사이 평화 만들게 도와준다? 킁! 경비들아, 뜀박장 클룸프 데려와!",Q5_ARZIG,act_q5arzig_1,,,,0,0
+72663,Dialog,ARZIG,"Now, yip, Master Jumper, you listens while I tells you how things work, yip! Grr, if you agrees with me, then you gets you rod back.","이제, 킁, 뜀박장, 내가 어떻게 할지 말하는 동안 잘 듣는다, 킁! 그르르, 내 말에 동의하면 네 단장 돌려준다.",Q5_ARZIG,,,,,0,0
+72664,Dialog,ARZIG,"What, yip? That no be fair! This be as bad as before! Grr, you be traitors! Kill them, yip!","뭐, 킁? 그건 불공평! 예전이랑 똑같이 나빠! 그르르, 너희 배신자들! 저것들 죽여라, 킁!",Q5_ARZIG,,,,,0,0
+72665,Dialog,ARZIG,"Grr, fine, but him must do some too.","그르르, 좋아... 하지만 걔도 뭔가 해야 해.",Q5_ARZIG,,,,,0,0
+72668,Dialog,ARZIG,"Me maybe do that, yip! Grr, or maybe me cuts off you head!","나 그거 해줄지도, 킁! 그르르, 아니면 네 머리 잘라 버릴지도!",Q5_ARZIG,,,,,0,0
+72669,Dialog,ARZIG,"Grr, me wants to go in to see Big Master whenever me wants, yip!","그르르, 나 원할 때마다 큰 주인 보러 들어갈 수 있어야 해, 킁!",Q5_ARZIG,,,,,0,0
+72670,Dialog,ARZIG,"Grr, you no helps me here! Me think you trys to trick Chief Arzig, yip!","그르르, 너 여기선 나 안 도와! 나 생각해-너 족장 아르직 속이려 한다, 킁!",Q5_ARZIG,,,,,0,0
+72673,Dialog,ARZIG,"Grr, you not very good at this. You not much of ally. Me guess not much use for rod now. Maybe if me gives it to you, you figures out how to return it to Big Master so he picks a new Master Jumper?","그르르, 너 이거 잘 못해. 별로 동맹 같지 않아. 이제 단장 쓸모 별로 없지. 아마 너한테 주면, 큰 주인에게 돌려주는 법 찾아서 새 뜀박장 뽑게 할 수 있나?",Q5_ARZIG,,,,,0,0
+72674,Dialog,ARZIG,"You so tough, maybe you go hit rock with rod, it break in two, yip, yip, yip!","너 힘 세지? 그 단장으로 바위 쳐서 반으로 부숴 봐라, 킁, 킁, 킁!",Q5_ARZIG,act_q5arzig_5,,,,0,0
+72679,Dialog,ARZIG,"Grr, you not very good at this! Now Master Jumper dead and we gots no way in! We kills you too, now. Attack <him/her>!","그르르, 너 이거 정말 못해! 이제 뜀박장 죽었고, 우린 들어갈 방법 없어! 이제 너도 죽인다. 저놈을 공격해!",Q5_ARZIG,act_q5arzig_4,,,,0,0
+72682,Dialog,ARZIG,"Grr, me no wants to go all the time. Yip, Big Master eats me if me bothers him too much!","그르르, 나 맨날 가고 싶지 않아. 킁, 큰 주인 너무 귀찮게 하면 나 잡아먹어!",Q5_ARZIG,,,,,0,0
+72684,Dialog,ARZIG,"Grr, me no be here for you make jokes about! Yip! Maybe me just kills both of you!","그르르, 나 농담거리 아니다! 킁! 둘 다 그냥 죽여 버릴까!",Q5_ARZIG,,,,,0,0
+72686,Dialog,ARZIG,"That alright, yip, me think same thing 'bout you.","그거 좋아, 킁. 나도 너에 대해 똑같이 생각.",Q5_ARZIG,,,,,0,0
+72687,Dialog,ARZIG,"Yip! What if me goes only sometimes to see Big Master, but you no stops me, yip!","킁! 그러면 어때? 나 가끔만 큰 주인 보러 가고, 너는 막지 않는 거, 킁!",Q5_ARZIG,,,,,0,0
+72689,Dialog,ARZIG,"Grr, that be word me wanted!","그르르, 그 말! 그거 내가 원한 거!",Q5_ARZIG,,,,,0,0
+72691,Dialog,ARZIG,"That seem fair, yip, but me asks him anything else me wants!","그건 공평해 보인다, 킁. 하지만 나, 그에게 다른 것도 뭐든 묻는다!",Q5_ARZIG,,,,,0,0
+72693,Dialog,ARZIG,"Yip! That be fine. Here is you rod, yip, me gots to think of stuff for me to ask Big Master.","킁! 그거면 됐다. 여기 네 단장이다, 킁. 나 큰 주인에게 물어볼 것들 생각해야 해.",Q5_ARZIG,,,,,0,0
+72696,Dialog,ARZIG,"No, yip! We eats all the horses 'round here. There be none to give.","아니, 킁! 이 근처 말은 우리가 다 먹었다. 줄 건 하나도 없다.",Q5_ARZIG,,,,,0,0
+72698,Dialog,ARZIG,"We no gots those either, yip. You gots weapons already.","그것도 없어, 킁. 너 이미 무기 있잖아.",Q5_ARZIG,,,,,0,0
+72700,Dialog,ARZIG,"Argh, yip! You always wants cloaks and robes! Enough with cloaks and robes! How 'bout me gives you wife, yip?","아악, 킁! 너희 맨날 망토, 로브만 원해! 망토, 로브 그만! 아내 줘도 되나, 킁?",Q5_ARZIG,,,,,0,0
+72701,Dialog,ARZIG,"<StartAction>[Whispers]</Start> Hey, me not gives him nothing special. Me sister be wanting husband.","<StartAction>[속삭임]</Start> 야, 특별한 거 주는 거 아니다. 내 여동생 남편 원한다.",Q5_ARZIG,,,,,0,0
+72704,Dialog,ARZIG,"That who me was thinking 'bout, yip! Get her out of me cave finally, grr.","그거! 내가 생각한 그 사람, 킁! 드디어 내 동굴에서 쫓아낼 수 있겠다, 그르르.",Q5_ARZIG,,,,,0,0
+72706,Dialog,ARZIG,"She say yes, so she get out of me cave! She no want to be there and me no want her there, yip!","그녀가 좋대, 그래서 내 동굴에서 나가! 그녀도 거기 싫고, 나도 그녀 거기 있는 거 싫다, 킁!",Q5_ARZIG,,,,,0,0
+72709,Dialog,ARZIG,"Grr, sorry.","그르르, 미안.",Q5_ARZIG,,,,,0,0
+72712,Dialog,ARZIG,"Where be Master Jumper? Him be dead? You traitorous <race> <man/woman>! You kills him, so me kills you.","뜀박장 어디 있어? 죽었어? 이 배신자 <race>! 네가 그를 죽였으니, 나도 너를 죽인다!",Q5_ARZIG,,,,,0,0
+72713,Dialog,ARZIG,"<StartCheck>[Failure]</Start> Yip, grr! No! You gots no way to use it, 'less you gives it to Master Jumper! Yip, me no share power with him!","<StartCheck>[실패]</Start> 킁, 그르르! 안 돼! 뜀박장에게 주지 않으면 너 그거 쓸 방법 없어! 킁, 나 그와 힘 나누지 않아!",Q5_ARZIG,,,,,0,0
+72714,Dialog,ARZIG,"Grr, yip, that be fine. If you has questions, you speaks to me though. My kobolds no will attacks you no more, but you no kills them no more either, yip!","그르르, 킁, 그건 좋다. 그래도 질문 있으면 나한테 말해. 내 코볼트들 더는 너 공격 안 할 거야, 대신 너도 더는 그들을 죽이면 안 된다, 킁!",Q5_ARZIG,,,,,0,0
+72715,Dialog,ARZIG,"If you kills them, grr, then we all attacks you! You understands, yip?","네가 그들을 죽이면, 그르르, 우린 전부 너를 공격한다! 이해했나, 킁?",Q5_ARZIG,,,,,0,0
+72716,Dialog,ARZIG,"Yip, goodbye.","킁, 잘 가라.",Q5_ARZIG,,,,,0,0
+72717,Dialog,ARZIG,"What can we helps you with, yip? Me not so sure me can answer all questions.","뭘 도와줄까, 킁? 모든 질문 답해 줄 수 있을지 자신은 없다.",Q5_ARZIG,,,,,0,0
+72718,Dialog,ARZIG,"Grr, then you goes soon?","그르르, 그럼 곧 갈 거지?",Q5_ARZIG,,,,,0,0
+72719,Dialog,ARZIG,"Good, grr. Me mean goodbye, yip.","좋아, 그르르. 아니, 잘 가란 말이다, 킁.",Q5_ARZIG,,,,,0,0
+72720,Dialog,ARZIG,"Grr, questions 'bout me? What you want to know about Chief Arzig, yip?","그르르, 나에 대한 질문? 족장 아르직에 대해 뭘 알고 싶어, 킁?",Q5_ARZIG,,,,,0,0
+72721,Dialog,ARZIG,"Yip, most of time me love be chief, 'cept when kobolds no listen. But them listens when me teaches them lesson. Kobolds not like lessons much.","킁, 대부분 나 족장인 거 좋아. 코볼트들이 말 안 들 때만 빼고. 하지만 내가 본때 가르치면 듣는다. 코볼트들 본때는 별로 안 좋아한다.",Q5_ARZIG,,,,,0,0
+72722,Dialog,ARZIG,"No, yip! Maybe be like Big Master and rule tribe, but never be chief. Me think if Big Master ever gone though, we just rule selves and no be slaves, grr, yip!","아니, 킁! 큰 주인은 부족을 다스릴 수 있어도, 족장은 절대 아니다. 그래도 큰 주인이 사라지면 우린 우리 스스로를 다스리고 노예가 되지 않을 거라고 생각해, 그르르, 킁!",Q5_ARZIG,,,,,0,0
+72723,Dialog,ARZIG,"Yip, me win big fight, yip. That be how kobolds pick chief.","킁, 나 큰 싸움에서 이겼다, 킁. 코볼트들이 족장 뽑는 법이 그렇다.",Q5_ARZIG,,,,,0,0
+72724,Dialog,ARZIG,"What? Yip? No, not that kind of fight. When there needs to be new chief, all kobolds gets together and picks four best possible chiefs.","뭐? 킁? 아니, 그런 싸움 아니다. 새 족장이 필요하면 코볼트들이 전부 모여서 가장 그럴싸한 후보 넷을 뽑는다.",Q5_ARZIG,,,,,0,0
+72725,Dialog,ARZIG,"Then four choices goes out and prepares speech, yip! Then four kobolds comes back and tells why him be best chief, or sometimes her, but that be rare.","그다음 그 네 후보가 나가 연설을 준비한다, 킁! 다시 와서 왜 자기(때로는 그녀지만 드물다)가 최고의 족장인지 말한다.",Q5_ARZIG,,,,,0,0
+72726,Dialog,ARZIG,"When speeches done, kobolds all throw rocks at ones they hate most and kobold left standing is winner.","연설이 끝나면 코볼트들이 가장 미운 놈에게 돌을 던지고, 끝까지 서 있는 코볼트가 이긴다.",Q5_ARZIG,,,,,0,0
+72727,Dialog,ARZIG,"Yip, me likes it well enough!","킁, 나 그 방식 꽤 마음에 든다!",Q5_ARZIG,,,,,0,0
+72728,Dialog,ARZIG,"Not for me, yip! That be kobold way. You no judge us, yip!","내가 정한 규칙은 아니다, 킁! 그게 코볼트 방식이다. 우릴 판단하지 마, 킁!",Q5_ARZIG,,,,,0,0
+72729,Dialog,ARZIG,"Not kill, yip, well... sometimes, but mostly just hurt them enough to fall down. Many times ones who knows them not likely to wins, them falls down right away, so no one needs throw rocks.","죽이지는 않아, 킁... 음, 가끔은 그렇지만, 보통은 쓰러질 만큼만 다치게 한다. 대개 이길 가망 없는 놈들은 바로 쓰러져서 아무도 돌을 던질 필요가 없다.",Q5_ARZIG,,,,,0,0
+72730,Dialog,ARZIG,"Course, some throws rocks anyways, but that not sporting, yip!","물론 그래도 돌을 던지는 놈들이 있지, 하지만 그건 공정하지 않다, 킁!",Q5_ARZIG,,,,,0,0
+72731,Dialog,ARZIG,"Grr, no, me have hardest head!","그르르, 아니! 내 머리가 제일 단단하다!",Q5_ARZIG,,,,,0,0
+72732,Dialog,ARZIG,"What you want know about caves, yip?","동굴에 대해 뭘 알고 싶어, 킁?",Q5_ARZIG,,,,,0,0
+72733,Dialog,ARZIG,"We keeps them in... yip, what, you thinks me stupid? Grr, no treats me like that, just cause me talks different! Me be Chief of whole tribe, what you be chief of?","우린 그것들을... 킁, 뭐야, 나 바보로 보냐? 그르르, 말투 다르다고 그렇게 대하지 마! 나는 온 부족의 족장이다. 넌 뭘 족장이냐?",Q5_ARZIG,,,,,0,0
+72734,Dialog,ARZIG,"You no be chief of nothing, yip! You just keep you hands off kobolds things, sneaky <race> person, grr!","넌 아무것도 족장 아니다, 킁! 코볼트 물건에 손 대지 마, 교활한 <race> 녀석, 그르르!",Q5_ARZIG,,,,,0,0
+72735,Dialog,ARZIG,"Yip? We lives here all our lives. Me not know when tribe comes here; just been here long time, yip!","킁? 우린 평생 여기서 살았다. 부족이 언제 여기 왔는지는 나도 모른다. 그냥 오래전부터였다, 킁!",Q5_ARZIG,,,,,0,0
+72736,Dialog,ARZIG,"Yip! Me tells you what me can, but me not know too much 'bout Big Master! Grr, Master Jumper keeps me out.","킁! 아는 만큼은 말해 주겠다. 하지만 큰 주인에 대해서는 많이 모른다! 그르르, 뜀박장이 날 못 들어가게 막는다.",Q5_ARZIG,,,,,0,0
+72737,Dialog,ARZIG,"Why him not be here, grr? You think someone going to tell him no, yip?","그가 여기 없는 이유가 뭐겠냐, 그르르? 누가 감히 그에게 '안 된다'고 말할 거라 생각하나, 킁?",Q5_ARZIG,,,,,0,0
+72738,Dialog,ARZIG,"Older than me, yip! Older than any kobolds here! That all me know, yip!","나보다도 늙었다, 킁! 여기 있는 어떤 코볼트보다도! 내가 아는 건 그게 전부다, 킁!",Q5_ARZIG,,,,,0,0
+72739,Dialog,ARZIG,"Grr, yip, what you want to see Big Master for? We cannot sees him right now. Yip, that be impossible.","그르르, 킁, 큰 주인을 왜 보려 해? 지금은 그를 만날 수 없다. 킁, 불가능하다.",Q5_ARZIG,,,,,0,0
+72740,Dialog,ARZIG,"Me hates Master Jumper so much, grr, but me find it hard to work without him. Me can no use him rod, yip!","난 뜀박장이 엄청 싫다, 그르르, 하지만 그 없이 일하기가 힘들다. 그의 단장은 나도 못 쓴다, 킁!",Q5_ARZIG,,,,,0,0
+72741,Dialog,ARZIG,"Grr, me knew me trusts you not. You is on side of Master Jumper. Me *hates* Master Jumper!","그르르, 역시 널 못 믿겠다고 생각했다. 넌 뜀박장 편이지. 난 뜀박장을 증오한다!",Q5_ARZIG,,,,,0,0
+72742,Dialog,ARZIG,"Grr, stupid kobolds who supposed to make rock go up will no listen to me no more.","그르르, 바위를 올려야 하는 멍청한 코볼트들이 이제는 내 말을 더는 듣지 않는다.",Q5_ARZIG,,,,,0,0
+72743,Dialog,ARZIG,"The cave is blocked off by a big rock, grr. Stupid kobolds who supposed to make rock go up will no listen to me no more.","동굴은 큰 바위로 막혔다, 그르르. 그 바위를 올려야 하는 멍청한 코볼트들이 이제는 내 말을 더는 안 듣는다.",Q5_ARZIG,,,,,0,0
+72744,Dialog,ARZIG,"Grr, me wishes it that easy, yip! Them no-good kobold jumpers hides when me come to them. Me waves rod in air and tells them me now Master Jumper, but them says Big Master not say so.","그르르, 그렇게 쉬웠으면 좋겠다, 킁! 그 못된 코볼트 점퍼들은 내가 가면 숨는다. 내가 단장을 휘두르며 이제 내가 뜀박장이라고 말해도, 큰 주인이 그렇게 말 안 했다며 버틴다.",Q5_ARZIG,,,,,0,0
+72745,Dialog,ARZIG,"Grr, him is stupid kobold who tell me no when me want to go see Big Master. Big Master picks one kobold and makes him Master Jumper, grr, but it never be chief.","그르르, 그는 내가 큰 주인을 보러 가겠다 하면 '안 된다'고 하는 멍청한 코볼트다. 큰 주인은 코볼트 하나를 골라 뜀박장으로 만든다, 그르르, 하지만 그건 결코 족장이 아니다.",Q5_ARZIG,,,,,0,0
+72746,Dialog,ARZIG,"Master Jumper tells other kobolds to jump on platform, then platform goes down and big rock goes up, yip! But only Master Jumper with rod can make rock lifting work, grr.","뜀박장이 다른 코볼트들에게 발판 위로 뛰라고 하면 발판이 내려가고 큰 바위가 올라간다, 킁! 하지만 단장을 든 뜀박장만 그 바위 올리기를 작동시킬 수 있다, 그르르.",Q5_ARZIG,,,,,0,0
+72747,Dialog,ARZIG,"That why me take rod away and put Master Jumper in prison, 'cause he thinks he be all so powerful and tells me no.","그래서 내가 단장을 빼앗고 뜀박장을 감옥에 넣었다. 자기가 아주 힘세다고 생각하면서 나에게 '안 된다'고 하니까.",Q5_ARZIG,,,,,0,0
+72748,Dialog,ARZIG,"Grr, them stupid kobolds follows you no better than them follows me, yip! Only Master Jumper can use rod, yip!","그르르, 그 멍청한 코볼트들이 너 말도 내 말만큼이나 안 듣는다, 킁! 단장은 오직 뜀박장만 쓸 수 있다, 킁!",Q5_ARZIG,,,,,0,0
+72749,Dialog,ARZIG,"Grr, me wanted to ask if me could be Master Jumper and Chief. Yip, that way me gots all power and no have to fight with Master Jumper. Me hoped Big Master sees wisdom in that, yip!","그르르, 내가 뜀박장이자 족장이 될 수 있는지 물어보려 했다. 킁, 그러면 모든 힘을 내가 쥐고 뜀박장과 싸울 필요가 없지. 큰 주인이 그 지혜를 알아줄 거라 바랐다, 킁!",Q5_ARZIG,,,,,0,0
+72750,Dialog,ARZIG,"Yip, but me never gots to ask, so me teaches Master Jumper lesson.","킁, 하지만 물어볼 기회는 없었다. 그래서 뜀박장에게 본때를 보여줬다.",Q5_ARZIG,,,,,0,0
+72751,Dialog,ARZIG,"Him in prison, north of here, but him no can help you, yip! Him can no tell kobolds what to do with out rod.","그는 여기 북쪽 감옥에 있다. 하지만 그는 너를 도울 수 없다, 킁! 단장 없이는 코볼트들에게 무엇을 하라 말할 수 없다.",Q5_ARZIG,,,,,0,0
+72752,Dialog,ARZIG,"What? You killed Master Jumper? Now we never get in to see Big Master! You stupid <man/woman>, Big Master will kill me. Me will kill you then!","뭐? 네가 뜀박장을 죽였다고? 이제 우린 큰 주인을 만나러 들어갈 수가 없어! 이 멍청한 것, 큰 주인이 날 죽일 거다. 그럼 나도 너를 죽이겠다!",Q5_ARZIG,,,,,0,0
+72753,Dialog,ARZIG,"Yip, grr, you back. What you wants now, grr?","킁, 그르르, 돌아왔네. 이제 뭘 원하는 거지, 그르르?",Q5_ARZIG,,,,,0,0
+72754,Dialog,ARZIG,"Grr, goodbye.","그르르, 잘 가라.",Q5_ARZIG,,,,,0,0
+72755,Dialog,ARZIG,"Yip, yip, how can Chief Arzig helps you, friend?","킁, 킁, 족장 아르직이 어떻게 도와주나, 친구?",Q5_ARZIG,,,,,0,0
+72756,Dialog,ARZIG,"Yip, grr, the champion returns to us. How we helps you, honored one?","킁, 그르르, 우리에게 용사가 돌아왔다. 존귀한 이여, 무엇을 도와드리나?",Q5_ARZIG,,,,,0,0
+72757,Dialog,ARZIG,"Yip, grr, Master Jumper and me sister be good match. You wants me set you up with me cousin?","킁, 그르르, 뜀박장과 내 여동생, 잘 어울린다. 내 사촌도 소개해 줄까?",Q5_ARZIG,,,,,0,0
+72758,Dialog,ARZIG,"Oh, so you already knows me cousin. Sorry 'bout that.","오, 내 사촌을 이미 아는구나. 그건 미안.",Q5_ARZIG,,,,,0,0
+72759,Dialog,ARZIG,"Fine. But me will keep asking until me finds a fool, umm, me means a companion for me cousin.","좋아. 하지만 내가 바보... 으음, 내 사촌의 짝을 찾을 때까지 계속 물어볼 거다.",Q5_ARZIG,,,,,0,0
+72760,Dialog,ARZIG,"No, me no kid 'bout me ugly cousin. Hard to marry ugly kobold off, even to other kobolds.","아니, 내 못생긴 사촌 얘기는 농담이 아니다. 못생긴 코볼트는 다른 코볼트에게라도 혼사 치르기 어렵다.",Q5_ARZIG,,,,,0,0

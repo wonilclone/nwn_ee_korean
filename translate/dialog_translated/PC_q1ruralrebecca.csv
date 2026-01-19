@@ -1,0 +1,36 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+71486,PC,Player Character,"Right, I will just kill him.","알았어, 그냥 죽여버릴게.",q1ruralrebecca,,,,,0,0
+71487,PC,Player Character,Who are you?,넌 누구야?,q1ruralrebecca,,,,,0,0
+71488,PC,Player Character,Let me see what I can do.,내가 뭘 할 수 있는지 볼게.,q1ruralrebecca,,,,,0,0
+71489,PC,Player Character,What is it worth for me to do this?,이걸 하면 뭘 받을 수 있는데?,q1ruralrebecca,,,,,0,0
+71490,PC,Player Character,What am I supposed to do with the giant right there?,저기 있는 거인은 어떻게 하라고?,q1ruralrebecca,,,,,0,0
+71491,PC,Player Character,I'll be right back.,금방 돌아올게.,q1ruralrebecca,,,,,0,0
+71492,PC,Player Character,"That might work, but it might not. Any other possibilities?","될 수도 있지만 안 될 수도 있어. 다른 방법은 없어?",q1ruralrebecca,,,,,0,0
+71493,PC,Player Character,Actually I have some special powder <StartHighlight>[choking powder]</Start> here.  I could give you some to put into his food. ,사실 여기 특별한 가루 <StartHighlight>[질식 가루]</Start>가 있어. 음식에 넣으라고 좀 줄까.,q1ruralrebecca,,con_becka_3,,,0,0
+71494,PC,Player Character,"Do it my way, or I won't help you!","내 방식대로 해, 안 그러면 도와주지 않을 거야!",q1ruralrebecca,,,,,0,0
+71495,PC,Player Character,"<StartCheck>[Persuade - lie]</Start> It won't hurt him, it will just help him sleep.","<StartCheck>[설득 - 거짓말]</Start> 다치지 않아, 그냥 잠드는 걸 도와줄 뿐이야.",q1ruralrebecca,nw_d1_small_evil,,,,0,0
+71496,PC,Player Character,I changed my mind. Let's try it your way. ,"마음이 바뀌었어. 네 방식대로 해 보자.",q1ruralrebecca,,,,,0,0
+71497,PC,Player Character,<StartCheck>[Craft Trap]</Start> <StartAction>[Use choking powder to make a poison.]</Start>,<StartCheck>[함정 제작]</Start> <StartAction>[질식 가루로 독을 만든다.]</Start>,q1ruralrebecca,,con_becka_3,,,0,0
+71498,PC,Player Character,Let's try it your way then. ,그럼 네 방식대로 해 보자.,q1ruralrebecca,,,,,0,0
+71499,PC,Player Character,I don't like that plan. I think we should try something else.,그 계획은 마음에 안 들어. 다른 걸 시도해야 할 것 같아.,q1ruralrebecca,,,,,0,0
+71500,PC,Player Character,Let's give that a try.,그거 한번 해 보자.,q1ruralrebecca,,,,,0,0
+71501,PC,Player Character,Right. I'll be back later.,"알았어. 나중에 다시 올게.",q1ruralrebecca,,,,,0,0
+71502,PC,Player Character,What am I supposed to do again? ,내가 뭘 해야 하는 거였지?,q1ruralrebecca,,,,,0,0
+71503,PC,Player Character,"Fine, I'll go kill it. ","알았어, 가서 죽일게.",q1ruralrebecca,,,,,0,0
+71504,PC,Player Character,That wasn't in here a second ago.,방금까지 저건 여기 없었는데.,q1ruralrebecca,,,,,0,0
+71505,PC,Player Character,Where did it come from though?,근데 어디서 온 거야?,q1ruralrebecca,,,,,0,0
+71506,PC,Player Character,"I'll go look, but I won't kill the rat.","가서 볼게, 근데 쥐는 안 죽일 거야.",q1ruralrebecca,,,,,0,0
+71507,PC,Player Character,Why do I have to kill the rat?,왜 내가 쥐를 죽여야 해?,q1ruralrebecca,,,,,0,0
+71508,PC,Player Character,Alright.,알았어.,q1ruralrebecca,,,,,0,0
+71509,PC,Player Character,I'll get it.,내가 잡을게.,q1ruralrebecca,,,,,0,0
+71510,PC,Player Character,Maybe we should talk first.,먼저 이야기 좀 하자.,q1ruralrebecca,,,,,0,0
+71511,PC,Player Character,Your father is dead.,네 아버지가 죽었어.,q1ruralrebecca,,con_becka_2,,,0,0
+71512,PC,Player Character,"<StartCheck>[Persuade - lie]</Start> Sorry, bad joke. He's fine.","<StartCheck>[설득 - 거짓말]</Start> 미안, 농담이 심했어. 괜찮아.",q1ruralrebecca,,,,,0,0
+71513,PC,Player Character,<StartCheck>[Persuade - lie]</Start> I don't know how it happened.,<StartCheck>[설득 - 거짓말]</Start> 어떻게 된 건지 모르겠어.,q1ruralrebecca,,,,,0,0
+71514,PC,Player Character,"I had to kill him. Now, back to business.","죽여야 했어. 자, 본론으로 돌아가자.",q1ruralrebecca,,,,,0,0
+71515,PC,Player Character,Who said you were safe?  ,누가 네가 안전하다고 했어?,q1ruralrebecca,,,,,0,0
+71516,PC,Player Character,You are right. I will meet you at your father's farm. ,"네 말이 맞아. 네 아버지 농장에서 만나자.",q1ruralrebecca,,,,,0,0
+71517,PC,Player Character,I think I would like to kill you now. ,지금 널 죽이고 싶어졌어.,q1ruralrebecca,,,,,0,0
+71518,PC,Player Character,"There is a reward a young, female like you could give me. ","너처럼 젊은 여자가 줄 수 있는 보상이 있지.",q1ruralrebecca,,nw_d2_male,,,0,0
+71519,PC,Player Character,I think I could use a personal slave.,개인 노예가 필요한 것 같아.,q1ruralrebecca,,,,,0,0
+71520,PC,Player Character,I will meet you there then.,그럼 거기서 만나자.,q1ruralrebecca,act_q1ruralreb_2,,,,0,0

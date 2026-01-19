@@ -1,0 +1,176 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+89040,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_linu,,,,,0,0
+89041,PC,Player Character,"""I think we need to part ways.""","""우리는 헤어져야 할 것 같아.""",xp2_hen_linu,,x2_d2_inreaper,,,0,0
+89042,PC,Player Character,"""No, never mind.""","""아니, 신경 쓰지 마.""",xp2_hen_linu,,,,,0,0
+89043,PC,Player Character,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",xp2_hen_linu,,,,,0,0
+89044,PC,Player Character,"""I need to go.""","""가야 해.""",xp2_hen_linu,,,,,0,0
+89045,PC,Player Character,"""I want to change your tactics.""","""전술을 바꾸고 싶어.""",xp2_hen_linu,,,,,0,0
+89046,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",xp2_hen_linu,,,,,0,0
+89047,PC,Player Character,"""I want you to leave any traps that you see alone.""","""보이는 함정은 그냥 내버려 둬.""",xp2_hen_linu,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+89048,PC,Player Character,"""I want you to disarm any traps that you see.""","""보이는 함정은 모두 해제해 줘.""",xp2_hen_linu,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+89049,PC,Player Character,"""I want to move faster and not bother with searching or stealth.""","""더 빨리 움직이고 탐색이나 은신은 신경 쓰지 마.""",xp2_hen_linu,x0_d1_hen_nomode,x0_d2_hen_inmode,,,0,0
+89050,PC,Player Character,"""I need you to be stealthy right now.""","""지금은 은밀하게 행동해 줘.""",xp2_hen_linu,x0_d1_hen_stlth,x0_d2_hen_stltn,,,0,0
+89051,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패해도 돕지 마.""",xp2_hen_linu,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+89052,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 도와줘.""",xp2_hen_linu,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+89053,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와의 거리를 바꾸고 싶어.""",xp2_hen_linu,,,,,0,0
+89054,PC,Player Character [Follow: Far],"""Stay a long distance away.""","""멀리 떨어져 있어.""",xp2_hen_linu,nw_ch_dist_18,,[Follow: Far],,0,0
+89055,PC,Player Character [Follow: Medium],"""Keep a medium distance.""","""중간 거리를 유지해.""",xp2_hen_linu,nw_ch_dist_12,,[Follow: Medium],,0,0
+89056,PC,Player Character [Follow: Close],"""Stay close.""","""가까이 있어.""",xp2_hen_linu,nw_ch_dist_6,,[Follow: Close],,0,0
+89057,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 보는 즉시 공격해.""",xp2_hen_linu,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+89058,PC,Player Character,"""Defend me and don't attack until I do.""","""날 지키고 내가 공격할 때까지 공격하지 마.""",xp2_hen_linu,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+89059,PC,Player Character,"""I want to adjust your equipment.""","""장비를 조정하고 싶어.""",xp2_hen_linu,,,,,0,0
+89060,PC,Player Character,"""Can you identify my equipment?""","""내 장비를 감정해 줄 수 있어?""",xp2_hen_linu,,x1_hen_canid,,,0,0
+89061,PC,Player Character,"""I need you to cast a group of buffing spells.""","""강화 주문 묶음을 시전해 줘.""",xp2_hen_linu,x2_d1_setgroup,,,,0,0
+89062,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_linu,,,,,0,0
+89063,PC,Player Character,"""Cast all the buffing spells you have.""","""가진 강화 주문을 모두 시전해.""",xp2_hen_linu,x2_d1_castbuff3,,,,0,0
+89064,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""오래 지속되는 강화 주문을 모두 시전해.""",xp2_hen_linu,x2_d1_castbuff2,,,,0,0
+89065,PC,Player Character,"""Cast all the short duration buffing spells.""","""짧게 지속되는 강화 주문을 모두 시전해.""",xp2_hen_linu,x2_d1_castbuff1,,,,0,0
+89066,PC,Player Character,"""I need you to cast a spell.""","""주문을 시전해 줘.""",xp2_hen_linu,,,,,0,0
+89067,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_linu,,,,,0,0
+89068,PC,Player Character,"""Ultravision.""","""초시야.""",xp2_hen_linu,x0_d1_castultra,x0_d2_hasultra,,,0,0
+89069,PC,Player Character,"""True Seeing.""","""진실의 시야.""",xp2_hen_linu,x0_d1_casttruese,x0_d2_hastruesee,,,0,0
+89070,PC,Player Character,"""Summon Creature IX.""","""생명체 소환 9.""",xp2_hen_linu,x0_d1_castsumm9,x0_d2_hassumm9,,,0,0
+89071,PC,Player Character,"""Summon Creature VIII.""","""생명체 소환 8.""",xp2_hen_linu,x0_d1_castsumm8,x0_d2_hassumm8,,,0,0
+89072,PC,Player Character,"""Summon Creature VII.""","""생명체 소환 7.""",xp2_hen_linu,x0_d1_castsumm7,x0_d2_hassumm7,,,0,0
+89073,PC,Player Character,"""Summon Creature VI.""","""생명체 소환 6.""",xp2_hen_linu,x0_d1_castsumm6,x0_d2_hassumm6,,,0,0
+89074,PC,Player Character,"""Summon Creature V.""","""생명체 소환 5.""",xp2_hen_linu,x0_d1_castsumm5,x0_d2_hassumm5,,,0,0
+89075,PC,Player Character,"""Summon Creature IV.""","""생명체 소환 4.""",xp2_hen_linu,x0_d1_castsumm4,x0_d2_hassumm4,,,0,0
+89076,PC,Player Character,"""Summon Creature III.""","""생명체 소환 3.""",xp2_hen_linu,x0_d1_castsumm3,x0_d2_hassumm3,,,0,0
+89077,PC,Player Character,"""Summon Creature II.""","""생명체 소환 2.""",xp2_hen_linu,x0_d1_castsumm2,x0_d2_hassumm2,,,0,0
+89078,PC,Player Character,"""Summon Creature I.""","""생명체 소환 1.""",xp2_hen_linu,x0_d1_castsumm1,x0_d2_hassumm1,,,0,0
+89079,PC,Player Character,"""Stoneskin.""","""돌 피부.""",xp2_hen_linu,x0_d1_caststonsk,x0_d2_hasstskin,,,0,0
+89080,PC,Player Character,"""Spell Resistance.""","""주문 저항.""",xp2_hen_linu,x0_d1_castspresi,x0_d2_hasspelres,,,0,0
+89081,PC,Player Character,"""Spell Mantle.""","""주문 망토.""",xp2_hen_linu,x0_d1_castspmant,x0_d2_hasspman,,,0,0
+89082,PC,Player Character,"""Shield of Faith.""","""믿음의 방패.""",xp2_hen_linu,x0_d1_castshfait,x0_d2_hasshldfth,,,0,0
+89083,PC,Player Character,"""Shield.""","""방패.""",xp2_hen_linu,x0_d1_castshield,x0_d2_hasshield,,,0,0
+89084,PC,Player Character,"""Shadow Shield.""","""그림자 방패.""",xp2_hen_linu,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
+89085,PC,Player Character,"""See Invisibility.""","""투명체 보기.""",xp2_hen_linu,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+89086,PC,Player Character,"""Sanctuary.""","""성역.""",xp2_hen_linu,x0_d1_castsanct,x0_d2_hassanc,,,0,0
+89087,PC,Player Character,"""Restoration.""","""회복.""",xp2_hen_linu,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
+89088,PC,Player Character,"""Resistance.""","""저항.""",xp2_hen_linu,x0_d1_castresist,x0_d2_hasresist,,,0,0
+89089,PC,Player Character,"""Resist Elements.""","""원소 저항.""",xp2_hen_linu,x0_d1_castresele,x0_d2_hasreselem,,,0,0
+89090,PC,Player Character,"""Remove Paralysis.""","""마비 해제.""",xp2_hen_linu,x0_d1_castrempar,x0_d2_hasrempara,,,0,0
+89091,PC,Player Character,"""Remove Fear.""","""공포 해제.""",xp2_hen_linu,x0_d1_castrfear,x0_d2_hasremfear,,,0,0
+89092,PC,Player Character,"""Remove Disease.""","""질병 해제.""",xp2_hen_linu,x0_d1_castrdisea,x0_d2_hasremdis,,,0,0
+89093,PC,Player Character,"""Remove Curse.""","""저주 해제.""",xp2_hen_linu,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
+89094,PC,Player Character,"""Remove Blindness/Deafness.""","""실명/청각 상실 해제.""",xp2_hen_linu,x0_d1_castrembdf,x0_d2_hasrembldf,,,0,0
+89095,PC,Player Character,"""Regenerate.""","""재생.""",xp2_hen_linu,x0_d1_castregen,x0_d2_hasregen,,,0,0
+89096,PC,Player Character,"""Protection From Spells.""","""주문으로부터의 보호.""",xp2_hen_linu,x0_d1_castprspel,x0_d2_hasprspell,,,0,0
+89097,PC,Player Character,"""Protection From Elements.""","""원소로부터의 보호.""",xp2_hen_linu,x0_d1_castprelem,x0_d2_hasprelem,,,0,0
+89098,PC,Player Character,"""Premonition.""","""예감.""",xp2_hen_linu,x0_d1_castpremon,x0_d2_haspremon,,,0,0
+89099,PC,Player Character,"""Prayer.""","""기도.""",xp2_hen_linu,x0_d1_castprayer,x0_d2_hasprayer,,,0,0
+89100,PC,Player Character,"""Owl's Wisdom.""","""올빼미의 지혜.""",xp2_hen_linu,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
+89101,PC,Player Character,"""Neutralize poison.""","""독 중화.""",xp2_hen_linu,x0_d1_castnpoiso,x0_d2_hasneutpoi,,,0,0
+89102,PC,Player Character,"""Monstrous Regeneration.""","""괴물같은 재생.""",xp2_hen_linu,x0_d1_castmregen,x0_d2_hasmrege,,,0,0
+89103,PC,Player Character,"""Minor Globe of Invulnerability.""","""하급 무적의 구체.""",xp2_hen_linu,x0_d1_castmglobe,x2_d2_hasmglobe,,,0,0
+89104,PC,Player Character,"""Mind Blank.""","""정신 비우기.""",xp2_hen_linu,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+89105,PC,Player Character,"""Mass Haste.""","""대규모 가속.""",xp2_hen_linu,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
+89106,PC,Player Character,"""Magical Vestment.""","""마법 의복.""",xp2_hen_linu,x0_d1_castmvest,x0_d2_hasmagvest,,,0,0
+89107,PC,Player Character,"""Mage Armor.""","""마법학자 갑옷.""",xp2_hen_linu,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
+89108,PC,Player Character,"""Light.""","""빛.""",xp2_hen_linu,x0_d1_castlight,x0_d2_haslight,,,0,0
+89109,PC,Player Character,"""Lesser Spell Mantle.""","""하급 주문 망토.""",xp2_hen_linu,x0_d1_castlspman,x0_d2_haslesspm,,,0,0
+89110,PC,Player Character,"""Lesser Restoration.""","""하급 회복.""",xp2_hen_linu,x0_d1_castlresto,x0_d2_haslesrest,,,0,0
+89111,PC,Player Character,"""Lesser Mind Blank.""","""하급 정신 비우기.""",xp2_hen_linu,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+89112,PC,Player Character,"""Lesser Dispel.""","""하급 주문해제.""",xp2_hen_linu,x0_d1_castldispe,x0_d2_hasldispel,,,0,0
+89113,PC,Player Character,"""Knock.""","""문 두드리기.""",xp2_hen_linu,x0_d1_castknock,x0_d2_hasknock,,,0,0
+89114,PC,Player Character,"""Invisibility Sphere.""","""투명화 구체.""",xp2_hen_linu,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
+89115,PC,Player Character,"""Invisibility.""","""투명화.""",xp2_hen_linu,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
+89116,PC,Player Character,"""Improved Invisibility.""","""우수한 투명화.""",xp2_hen_linu,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
+89117,PC,Player Character,"""Haste.""","""가속.""",xp2_hen_linu,x0_d1_casthaste,x0_d2_hashaste,,,0,0
+89118,PC,Player Character,"""Greater Stoneskin.""","""상급 돌 피부.""",xp2_hen_linu,x0_d1_castgrston,x0_d2_hasgrstone,,,0,0
+89119,PC,Player Character,"""Greater Spell Mantle.""","""상급 주문 망토.""",xp2_hen_linu,x0_d1_castgspman,x2_d2_hasgspman,,,0,0
+89120,PC,Player Character,"""Greater Sanctuary.""","""상급 성역.""",xp2_hen_linu,x0_d1_castgsanc,x2_d2_hasethenss,,,0,0
+89121,PC,Player Character,"""Greater Restoration.""","""상급 회복.""",xp2_hen_linu,x0_d1_castgresto,x0_d2_hasgrrest,,,0,0
+89122,PC,Player Character,"""Greater Dispelling.""","""상급 해제.""",xp2_hen_linu,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
+89123,PC,Player Character,"""Globe of Invulnerability.""","""무적의 구체.""",xp2_hen_linu,x0_d1_castglobe,x2_d2_hasglobe,,,0,0
+89124,PC,Player Character,"""Ghostly Visage.""","""유령의 형상.""",xp2_hen_linu,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
+89125,PC,Player Character,"""Freedom of Movement.""","""자유 이동.""",xp2_hen_linu,x0_d1_castfreedo,x0_d2_hasfreemov,,,0,0
+89126,PC,Player Character,"""Fox's Cunning.""","""여우의 교활함.""",xp2_hen_linu,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
+89127,PC,Player Character,"""Find Traps.""","""함정 찾기.""",xp2_hen_linu,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
+89128,PC,Player Character,"""Ethereal Visage.""","""에테르 형상.""",xp2_hen_linu,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
+89129,PC,Player Character,"""Entropic Shield.""","""혼돈의 보호막.""",xp2_hen_linu,x0_d1_castentsh,x2_d2_hasntropic,,,0,0
+89130,PC,Player Character,"""Energy Buffer.""","""에너지 완충기.""",xp2_hen_linu,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+89131,PC,Player Character,"""No, I've changed my mind.""","""아니, 마음을 바꿨어.""",xp2_hen_linu,,,,,0,0
+89132,PC,Player Character,"""Yes, go ahead.""","""그래, 계속해.""",xp2_hen_linu,x0_d1_targetself,,,,0,0
+89133,PC,Player Character,"""Endure Elements.""","""원소 인내.""",xp2_hen_linu,x0_d1_castendele,x0_d2_hasendelem,,,0,0
+89134,PC,Player Character,"""Endurance.""","""인내.""",xp2_hen_linu,x0_d1_castendur,x0_d2_hasendur,,,0,0
+89135,PC,Player Character,"""Elemental Shield.""","""원소 방패.""",xp2_hen_linu,x0_d1_castelesh,x2_d2_haselemsh,,,0,0
+89136,PC,Player Character,"""Eagle's Splendor.""","""독수리의 위엄.""",xp2_hen_linu,x0_d1_casteagles,x0_d2_haseagles,,,0,0
+89137,PC,Player Character,"""Divine Power.""","""신성한 권능.""",xp2_hen_linu,x0_d1_castdivpow,x0_d2_hasdivpow,,,0,0
+89138,PC,Player Character,"""Dispel Magic.""","""주문해제.""",xp2_hen_linu,x0_d1_castdismag,x0_d2_hasdispelm,,,0,0
+89139,PC,Player Character,"""Death Ward.""","""죽음 방비.""",xp2_hen_linu,x0_d1_castdward,x0_d2_hasdthward,,,0,0
+89140,PC,Player Character,"""Death Armor.""","""죽음의 갑옷.""",xp2_hen_linu,x0_d1_castdarmor,x0_d2_hasdarmor,,,0,0
+89141,PC,Player Character,"""Create Undead.""","""언데드 생성.""",xp2_hen_linu,x0_d1_castcrund,x0_d2_hascreund,,,0,0
+89142,PC,Player Character,"""Continual Flame.""","""계속되는 불꽃.""",xp2_hen_linu,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+89143,PC,Player Character,"""Clarity.""","""맑은 정신.""",xp2_hen_linu,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
+89144,PC,Player Character,"""Cat's Grace.""","""고양이의 우아함.""",xp2_hen_linu,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
+89145,PC,Player Character,"""Bull's Strength.""","""황소의 근력.""",xp2_hen_linu,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
+89146,PC,Player Character,"""I've changed my mind.""","""마음을 바꿨어.""",xp2_hen_linu,,,,,0,0
+89147,PC,Player Character,"""Cast on all the party members.""","""파티원 전체에게 시전해.""",xp2_hen_linu,x0_d1_targetall,x2_d1_targetall,,,0,0
+89148,PC,Player Character,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 시전해.""",xp2_hen_linu,x2_d1_targethen9,x2_d1_hashench9,,,0,0
+89149,PC,Player Character,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 시전해.""",xp2_hen_linu,x2_d1_targethen8,x2_d1_hashench8,,,0,0
+89150,PC,Player Character,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 시전해.""",xp2_hen_linu,x2_d1_targethen7,x2_d1_hashench7,,,0,0
+89151,PC,Player Character,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 시전해.""",xp2_hen_linu,x2_d1_targethen6,x2_d1_hashench6,,,0,0
+89152,PC,Player Character,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 시전해.""",xp2_hen_linu,x2_d1_targethen5,x2_d1_hashench5,,,0,0
+89153,PC,Player Character,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 시전해.""",xp2_hen_linu,x2_d1_targethen4,x2_d1_hashench4,,,0,0
+89154,PC,Player Character,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 시전해.""",xp2_hen_linu,x2_d1_targethen3,x2_d1_hashench3,,,0,0
+89155,PC,Player Character,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 시전해.""",xp2_hen_linu,x2_d1_targethen2,x2_d1_hashench2,,,0,0
+89156,PC,Player Character,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 시전해.""",xp2_hen_linu,x2_d1_targethen1,x2_d1_hashench1,,,0,0
+89157,PC,Player Character,"""Cast it on my animal companion.""","""내 동물 동료에게 시전해.""",xp2_hen_linu,x0_d1_targetcomp,x0_d2_hascompan,,,0,0
+89158,PC,Player Character,"""Cast it on my familiar.""","""내 사역마에게 시전해.""",xp2_hen_linu,x0_d1_targetfam,x0_d2_hasfamil,,,0,0
+89159,PC,Player Character,"""Cast it on me.""","""나한테 시전해.""",xp2_hen_linu,x0_d1_targetme,,,,0,0
+89160,PC,Player Character,"""Cast it on yourself.""","""너한테 시전해.""",xp2_hen_linu,x0_d1_targetself,,,,0,0
+89161,PC,Player Character,"""Bless.""","""축복.""",xp2_hen_linu,x0_d1_castbless,x0_d2_hasbless,,,0,0
+89162,PC,Player Character,"""Animate Dead.""","""죽음의 부활.""",xp2_hen_linu,x0_d1_castandead,x0_d2_hasandead,,,0,0
+89163,PC,Player Character,"""Aid.""","""지원.""",xp2_hen_linu,x0_d1_castaid,x0_d2_hasaid,,,0,0
+89164,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 뭐라고 하려던 거였어?""",xp2_hen_linu,,x0_d2_hen_interp,,,0,0
+89165,PC,Player Character,"""Let's stop and talk a moment.""","""잠깐 멈춰서 얘기하자.""",xp2_hen_linu,,,,,0,0
+89166,PC,Player Character,"""We're done talking.""","""얘기는 끝났어.""",xp2_hen_linu,,,,,0,0
+89167,PC,Player Character,"""No, nothing else.""","""아니, 다른 건 없어.""",xp2_hen_linu,,,,,0,0
+89168,PC,Player Character,"""How is everything?""","""어떻게 지내?""",xp2_hen_linu,,,,,0,0
+89169,PC,Player Character,"""Do you have plans for what you're going to do after all this?""","""이 모든 게 끝나면 뭘 할 계획이야?""",xp2_hen_linu,,x2_hen_linstory2,,,0,0
+89170,PC,Player Character,"""I'm sure that reward could be put to good use.""","""그 보상을 잘 쓸 수 있을 거야.""",xp2_hen_linu,,,,,0,0
+89171,PC,Player Character,"""I don't know. I haven't thought about it at all.""","""모르겠어. 생각해 본 적이 없어.""",xp2_hen_linu,,,,,0,0
+89172,PC,Player Character,"""I still haven't been rewarded properly.""","""아직도 제대로 된 보상을 받지 못했어.""",xp2_hen_linu,,,,,0,0
+89173,PC,Player Character,"""You're very welcome.""","""천만에.""",xp2_hen_linu,,,,,0,0
+89174,PC,Player Character,"""It was nothing.""","""별거 아니야.""",xp2_hen_linu,,,,,0,0
+89175,PC,Player Character,"""I was thinking of taking some time off.""","""좀 쉴 생각이었어.""",xp2_hen_linu,,,,,0,0
+89176,PC,Player Character,"""I'm sure another adventure will come along.""","""또 다른 모험이 찾아올 거야.""",xp2_hen_linu,,,,,0,0
+89177,PC,Player Character,"""I was hoping I could spend more time with you.""","""너랑 더 많은 시간을 보낼 수 있으면 좋겠어.""",xp2_hen_linu,,nw_d2_male,,,0,0
+89178,PC,Player Character,"""You said you came from Neverwinter, correct?""","""네버윈터에서 왔다고 했지?""",xp2_hen_linu,,x2_hen_linstory1,,,0,0
+89179,PC,Player Character,"""Lord Nasher was generous? He paid well?""","""나셰르 영주님이 후하셨어? 보수를 잘 줬어?""",xp2_hen_linu,,,,,0,0
+89180,PC,Player Character,"""Did you know the Hero of Neverwinter?""","""네버윈터의 영웅을 알아?""",xp2_hen_linu,,,,,0,0
+89181,PC,Player Character,"""Is it true the Hero saved Neverwinter single-handedly?""","""영웅이 혼자 네버윈터를 구했다는 게 사실이야?""",xp2_hen_linu,,,,,0,0
+89182,PC,Player Character,"""Where is the Hero now?""","""영웅은 지금 어디 있어?""",xp2_hen_linu,,,,,0,0
+89183,PC,Player Character,"""You helped fight the plague?""","""역병과 싸우는 걸 도왔어?""",xp2_hen_linu,,,,,0,0
+89184,PC,Player Character,"""Let's move on.""","""이제 가자.""",xp2_hen_linu,,,,,0,0
+89185,PC,Player Character,"""What happened to Lady Aribeth?""","""아리베스 경은 어떻게 됐어?""",xp2_hen_linu,,,,,0,0
+89186,PC,Player Character,"""From what I hear, she deserved it.""","""내가 들은 바로는 자업자득이야.""",xp2_hen_linu,,,,,0,0
+89187,PC,Player Character,"""That sounds very sad.""","""정말 슬픈 일이네.""",xp2_hen_linu,,,,,0,0
+89188,PC,Player Character,"""No, stay here for the moment.""","""아니, 잠시 여기 있어.""",xp2_hen_linu,,,,,0,0
+89189,PC,Player Character,"""Yes, come with me.""","""그래, 나랑 같이 가.""",xp2_hen_linu,,,,,0,0
+89190,PC,Player Character,"""Not right now. I'm busy.""","""지금은 안 돼. 바빠.""",xp2_hen_linu,x0_d1_hen_inter0,,,,0,0
+89191,PC,Player Character,"""What would you like, Linu?""","""뭐가 필요해, 리누?""",xp2_hen_linu,x0_d1_hen_inter0,,,,0,0
+89192,PC,Player Character,"""I know everything I need to know about them.""","""알아야 할 건 다 알아.""",xp2_hen_linu,,,,,0,0
+89193,PC,Player Character,"""I know they are evil and dark-skinned elves, but that's it.""","""사악하고 검은 피부의 엘프라는 건 알지만, 그게 다야.""",xp2_hen_linu,,,,,0,0
+89194,PC,Player Character,"""That's all I wanted to know.""","""알고 싶었던 건 그게 다야.""",xp2_hen_linu,,,,,0,0
+89195,PC,Player Character,"""So the other races of the Underdark hate the drow?""","""그럼 언더다크의 다른 종족들은 드로우를 싫어해?""",xp2_hen_linu,,,,,0,0
+89196,PC,Player Character,"""Could the drow have unified somehow?""","""드로우들이 어떻게든 통합할 수 있었을까?""",xp2_hen_linu,,,,,0,0
+89197,PC,Player Character,"""Tell me about this goddess, Lolth.""","""이 여신 롤쓰에 대해 말해 줘.""",xp2_hen_linu,,,,,0,0
+89198,PC,Player Character,"""Why would their goddess want them to war with each other?""","""여신이 왜 그들끼리 싸우길 바라는 거야?""",xp2_hen_linu,,,,,0,0
+89199,PC,Player Character,"""Do the drow wish to return to the surface?""","""드로우들은 지상으로 돌아가길 원해?""",xp2_hen_linu,,,,,0,0
+89200,PC,Player Character,"""Isn't there another famous drow outcast named Drizzt?""","""드리즈트라는 유명한 드로우 추방자가 또 있지 않아?""",xp2_hen_linu,,,,,0,0
+89201,PC,Player Character,"""A fair amount. I am an elf, after all.""","""꽤 알아. 어쨌든 난 엘프니까.""",xp2_hen_linu,,xp1_pciself,,,0,0
+89202,PC,Player Character,"""Yes, please. My knowledge is limited.""","""응, 부탁해. 내 지식이 제한적이야.""",xp2_hen_linu,,,,,0,0
+89203,PC,Player Character,"""No, I know plenty about them.""","""아니, 그들에 대해 충분히 알아.""",xp2_hen_linu,,,,,0,0
+89204,PC,Player Character,"""I don't need to hear about him.""","""그에 대해 들을 필요 없어.""",xp2_hen_linu,,,,,0,0
+89205,PC,Player Character,"""Tell me what you know about him.""","""그에 대해 아는 걸 말해 줘.""",xp2_hen_linu,,,,,0,0
+89206,PC,Player Character,"""So Undermountain once belonged to the dwarves?""","""그럼 언더마운틴은 원래 드워프들 것이었어?""",xp2_hen_linu,,,,,0,0
+89207,PC,Player Character,"""I've heard enough, thanks.""","""충분히 들었어, 고마워.""",xp2_hen_linu,,,,,0,0
+89208,PC,Player Character,"""So how powerful is Halaster?""","""그래서 할라스터는 얼마나 강력해?""",xp2_hen_linu,,,,,0,0
+89209,PC,Player Character,"""How could the drow have taken over?""","""드로우들이 어떻게 장악할 수 있었어?""",xp2_hen_linu,,,,,0,0
+89210,PC,Player Character,"""Broke into the Underdark? What do you mean?""","""언더다크로 침입했다고? 무슨 뜻이야?""",xp2_hen_linu,,,,,0,0
+89211,PC,Player Character,"""Why put all the puzzles and monsters in here?""","""왜 여기에 수수께끼랑 괴물들을 다 넣어 둔 거야?""",xp2_hen_linu,,,,,0,0
+89212,PC,Player Character,"""The elves have tales about him? How old is he?""","""엘프들이 그에 대한 이야기를 가지고 있어? 얼마나 늙었어?""",xp2_hen_linu,,,,,0,0
+89213,PC,Player Character,"""Yes, let's go.""","""그래, 가자.""",xp2_hen_linu,,,,,0,0
+89214,PC,Player Character,"""No, just stay here for now.""","""아니, 지금은 여기 있어.""",xp2_hen_linu,x0_d1_hen_fired,,,,0,0

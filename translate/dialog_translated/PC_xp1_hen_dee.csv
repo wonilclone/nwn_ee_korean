@@ -1,0 +1,289 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+76865,PC,Player Character,"No, stay here.","아니, 여기 있어.",xp1_hen_dee,,,,,0,0
+76866,PC,Player Character,"Yes, come with me.","그래, 따라와.",xp1_hen_dee,,,,,0,0
+76867,PC,Player Character,"No, never mind.","아니, 됐어.",xp1_hen_dee,,,,,0,0
+76868,PC,Player Character,"Yes, come with me.","그래, 따라와.",xp1_hen_dee,,,,,0,0
+76869,PC,Player Character,Never mind.,됐어.,xp1_hen_dee,,,,,0,0
+76870,PC,Player Character,I think we need to part ways.,이제 헤어져야 할 것 같아.,xp1_hen_dee,,,,,0,0
+76871,PC,Player Character,"Alright, fine. Stay with me, then.","알았어, 좋아. 그럼 같이 있어.",xp1_hen_dee,,,,,0,0
+76872,PC,Player Character,Just stay here for the moment.,일단 여기 있어.,xp1_hen_dee,,,,,0,0
+76873,PC,Player Character,I'd like you to level up.,레벨 올려.,xp1_hen_dee,,x0_d2_hen_canlvl,,,0,0
+76874,PC,Player Character,I want to change your tactics.,전술을 바꾸고 싶어.,xp1_hen_dee,,,,,0,0
+76875,PC,Player Character,I don't want to change anything else right now.,지금은 더 바꾸고 싶진 않아.,xp1_hen_dee,,,,,0,0
+76876,PC,Player Character,I want to move faster and not bother with stealth or searching.,더 빨리 움직이고 싶어. 은신이나 탐색은 신경 쓰지 마.,xp1_hen_dee,x0_d1_hen_nomode,x0_d2_hen_inmode,,,0,0
+76877,PC,Player Character,I need you to be stealthy right now.,지금은 은밀하게 움직여야 해.,xp1_hen_dee,x0_d1_hen_stlth,x0_d2_hen_stltn,,,0,0
+76878,PC,Player Character [Companion Settings],Don't help me if I fail to open a locked door or chest.,자물쇠 열기 실패하면 돕지 마.,xp1_hen_dee,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+76879,PC,Player Character [Companion Settings],Help me if I fail to open a locked door or chest.,자물쇠 열기 실패하면 도와줘.,xp1_hen_dee,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+76880,PC,Player Character,I want to change the distance you stay away from me.,나한테서 떨어져 있을 거리를 바꾸고 싶어.,xp1_hen_dee,,,,,0,0
+76881,PC,Player Character [Follow: Far],Stay a long distance away from me.,나한테서 멀리 떨어져 있어.,xp1_hen_dee,nw_ch_dist_18,,[Follow: Far],,0,0
+76882,PC,Player Character [Follow: Medium],Keep a medium distance.,적당한 거리 유지해.,xp1_hen_dee,nw_ch_dist_12,,[Follow: Medium],,0,0
+76883,PC,Player Character [Follow: Close],Stay close.,가까이 붙어 있어.,xp1_hen_dee,nw_ch_dist_6,,[Follow: Close],,0,0
+76884,PC,Player Character,Go ahead and attack as soon as you see enemies.,적 보이는 즉시 공격해.,xp1_hen_dee,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+76885,PC,Player Character,Defend me and don't attack until I do.,날 지키고 내가 공격할 때까지 기다려.,xp1_hen_dee,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+76886,PC,Player Character,I want to adjust your equipment.,장비를 조정하고 싶어.,xp1_hen_dee,,,,,0,0
+76887,PC,Player Character,Can you identify my equipment?,내 장비 감정해 줄 수 있어?,xp1_hen_dee,,x1_hen_canid,,,0,0
+76888,PC,Player Character,I want you to use your Bard Song.,음유시인의 노래 사용해.,xp1_hen_dee,,x0_d2_hassong,,,0,0
+76889,PC,Player Character,I need you to cast a spell.,주문 시전해 줘.,xp1_hen_dee,,,,,0,0
+76890,PC,Player Character,Never mind.,됐어.,xp1_hen_dee,,,,,0,0
+76891,PC,Player Character,"No, that's it.","아니, 그게 다야.",xp1_hen_dee,,,,,0,0
+76892,PC,Player Character,Ultravision.,초시야.,xp1_hen_dee,x0_d1_castultra,x0_d2_hasultra,,,0,0
+76893,PC,Player Character,See Invisibility.,투명 간파.,xp1_hen_dee,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+76894,PC,Player Character,Resistance.,저항.,xp1_hen_dee,x0_d1_castresist,x0_d2_hasresist,,,0,0
+76895,PC,Player Character,Remove Disease.,질병 치료.,xp1_hen_dee,x0_d1_castremdis,x0_d2_hasremdis,,,0,0
+76896,PC,Player Character,Remove Curse.,저주 해제.,xp1_hen_dee,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
+76897,PC,Player Character,Owl's Wisdom.,올빼미의 지혜.,xp1_hen_dee,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
+76898,PC,Player Character,Neutralize Poison.,독 중화.,xp1_hen_dee,x0_d1_castneupoi,x0_d2_hasneutpoi,,,0,0
+76899,PC,Player Character,Mass Haste.,대규모 가속.,xp1_hen_dee,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
+76900,PC,Player Character,Mage Armor.,마법학자 갑옷.,xp1_hen_dee,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
+76901,PC,Player Character,Light.,빛.,xp1_hen_dee,x0_d1_castlight,x0_d2_haslight,,,0,0
+76902,PC,Player Character,Invisibility Sphere.,투명화 구체.,xp1_hen_dee,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
+76903,PC,Player Character,Invisibility,투명화,xp1_hen_dee,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
+76904,PC,Player Character,Improved Invisibility.,우수한 투명화.,xp1_hen_dee,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
+76905,PC,Player Character,Haste.,가속.,xp1_hen_dee,x0_d1_casthaste,x0_d2_hashaste,,,0,0
+76906,PC,Player Character,Ghostly Visage.,유령의 형상.,xp1_hen_dee,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
+76907,PC,Player Character,Fox's Cunning,여우의 교활함,xp1_hen_dee,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
+76908,PC,Player Character,Find Traps.,함정 발견.,xp1_hen_dee,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
+76909,PC,Player Character,Ethereal Visage.,에테르 형상.,xp1_hen_dee,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
+76910,PC,Player Character,Energy Buffer.,에너지 완충기.,xp1_hen_dee,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+76911,PC,Player Character,Eagle's Splendour.,독수리의 위풍.,xp1_hen_dee,x0_d1_casteagles,x0_d2_haseagles,,,0,0
+76912,PC,Player Character,Clarity.,맑은 정신.,xp1_hen_dee,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
+76913,PC,Player Character,Cat's Grace.,고양이의 우아함.,xp1_hen_dee,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
+76914,PC,Player Character,Bull's Strength.,황소의 근력.,xp1_hen_dee,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
+76915,PC,Player Character,I've changed my mind.,마음 바뀌었어.,xp1_hen_dee,,,,,0,0
+76916,PC,Player Character,Cast it on my animal companion.,내 동물 동료한테 걸어.,xp1_hen_dee,x0_d1_targetcomp,x0_d2_hascompan,,,0,0
+76917,PC,Player Character,Cast it on my familiar.,내 사역마한테 걸어.,xp1_hen_dee,x0_d1_targetfam,x0_d2_hasfamil,,,0,0
+76918,PC,Player Character,Cast it on me.,나한테 걸어.,xp1_hen_dee,x0_d1_targetme,,,,0,0
+76919,PC,Player Character,Cast it on yourself.,너한테 걸어.,xp1_hen_dee,x0_d1_targetself,,,,0,0
+76920,PC,Player Character,What was it you wanted to say earlier?,아까 뭐라고 하려던 거였어?,xp1_hen_dee,,x0_d2_hen_interp,,,0,0
+76921,PC,Player Character,Let's stop and talk for a moment.,잠깐 멈춰서 얘기 좀 하자.,xp1_hen_dee,,,,,0,0
+76922,PC,Player Character,We're done talking.,얘기 다 했어.,xp1_hen_dee,,,,,0,0
+76923,PC,Player Character,How is everything?,어떻게 지내?,xp1_hen_dee,,,,,0,0
+76924,PC,Player Character,"I want you to stop calling me ""<CUSTOM1001>"".","나를 ""<CUSTOM1001>""라고 부르지 마.",xp1_hen_dee,,,,,0,0
+76925,PC,Player Character,I really don't care.,난 정말 신경 안 써.,xp1_hen_dee,x0_d1_deekcall07,,,,0,0
+76926,PC,Player Character,"I don't know, but I've got a few names for you.","모르겠는데, 너한테 붙일 이름 몇 개는 있어.",xp1_hen_dee,x0_d1_deekcall06,,,,0,0
+76927,PC,Player Character,"You will call me ""miss"", and that's all!","나를 ""아가씨""라고 불러. 그게 다야!",xp1_hen_dee,x0_d1_deekcall05,nw_d2_female,,,0,0
+76928,PC,Player Character,"You will call me ""sir"", and that's all!","나를 ""나리""라고 불러. 그게 다야!",xp1_hen_dee,x0_d1_deekcall05,nw_d2_male,,,0,0
+76929,PC,Player Character,"You can address me as ""my <Lord/Lady>"".","나를 ""나의 <Lord/Lady>""라고 불러.",xp1_hen_dee,x0_d1_deekcall04,,,,0,0
+76930,PC,Player Character,"Call me ""<Master/Mistress>""!","나를 ""<Master/Mistress>""라고 불러!",xp1_hen_dee,x0_d1_deekcall03,,,,0,0
+76931,PC,Player Character,"""The great <FirstName>"" will do, I suppose.","그냥 ""위대한 <FirstName>""이면 되겠지.",xp1_hen_dee,x0_d1_deekcall02,,,,0,0
+76932,PC,Player Character,Call me by my name. <FirstName>.,내 이름으로 불러. <FirstName>.,xp1_hen_dee,x0_d1_deekcall01,,,,0,0
+76933,PC,Player Character,I want to discuss your training.,훈련에 대해 얘기하고 싶어.,xp1_hen_dee,,,,,0,0
+76934,PC,Player Character,"<StartAction>[Deekin will gain levels in the Rogue class]</Start> No, keep on working on your stealth for now.","<StartAction>[디킨이 도적 직업으로 레벨을 얻습니다]</Start> 아니, 계속 은신 쪽으로 하자.",xp1_hen_dee,,,,,0,0
+76935,PC,Player Character,"<StartAction>[Deekin will gain levels in the Bard class]</Start> Yes, go back to improving your bard talents.","<StartAction>[디킨이 음유시인 직업으로 레벨을 얻습니다]</Start> 그래, 음유시인 재능 키우는 걸로 돌아가자.",xp1_hen_dee,,,,,0,0
+76936,PC,Player Character,"<StartAction>[Deekin will gain levels in the Bard class]</Start> No, keep on doing what you are now.","<StartAction>[디킨이 음유시인 직업으로 레벨을 얻습니다]</Start> 아니, 지금 하는 대로 계속해.",xp1_hen_dee,,,,,0,0
+76937,PC,Player Character,"<StartAction>[Deekin will gain levels in the Rogue class]</Start> Yes, try to focus more on your stealth and skills.","<StartAction>[디킨이 도적 직업으로 레벨을 얻습니다]</Start> 그래, 은신과 기술에 더 집중해 봐.",xp1_hen_dee,,,,,0,0
+76938,PC,Player Character,So what do you intend to do once this is all over?,이게 다 끝나면 어떻게 할 생각이야?,xp1_hen_dee,,x0_d2_deekstory5,,,0,0
+76939,PC,Player Character,The Dalelands?,데일랜드?,xp1_hen_dee,,,,,0,0
+76940,PC,Player Character,"The Dalelands is quite far away, you know.",데일랜드는 꽤 멀잖아.,xp1_hen_dee,,,,,0,0
+76941,PC,Player Character,So I gather.,그런 것 같네.,xp1_hen_dee,,,,,0,0
+76942,PC,Player Character,Sounds like you've thought about this a lot.,많이 생각해 본 것 같은데.,xp1_hen_dee,,,,,0,0
+76943,PC,Player Character,Out of the caves?,동굴 밖으로?,xp1_hen_dee,,,,,0,0
+76944,PC,Player Character,"You're a fool, Deekin.","바보 같은 놈이야, 디킨.",xp1_hen_dee,,,,,0,0
+76945,PC,Player Character,I think you forget what kobolds are like.,코볼트가 어떤 존재인지 잊은 것 같은데.,xp1_hen_dee,,,,,0,0
+76946,PC,Player Character,You bet!,당연하지!,xp1_hen_dee,,,,,0,0
+76947,PC,Player Character,So when do I get to see this 'epic story'?,그래서 이 '서사시' 언제 볼 수 있는 건데?,xp1_hen_dee,,,,,0,0
+76948,PC,Player Character,"Not a chance, kobold.","안 돼, 코볼트.",xp1_hen_dee,,,,,0,0
+76949,PC,Player Character,"You'll have to chase after your own dreams, Deekin.","네 꿈은 네가 쫓아야지, 디킨.",xp1_hen_dee,,,,,0,0
+76950,PC,Player Character,Maybe. We'll have to see.,모르겠어. 두고 봐야지.,xp1_hen_dee,,,,,0,0
+76951,PC,Player Character,It sounds like a worthy goal.,가치 있는 목표 같은데.,xp1_hen_dee,,,,,0,0
+76952,PC,Player Character,I highly doubt that.,전혀 그렇게 생각 안 하는데.,xp1_hen_dee,,,,,0,0
+76953,PC,Player Character,And what makes you think I'll let you go?,내가 널 보내줄 거라고 생각하는 이유가 뭔데?,xp1_hen_dee,,,,,0,0
+76954,PC,Player Character,"Your dreams are a little too big, kobold.","네 꿈은 좀 너무 큰데, 코볼트.",xp1_hen_dee,,,,,0,0
+76955,PC,Player Character,Oh? And what would you do if you met him?,오? 그래서 그를 만나면 뭘 할 건데?,xp1_hen_dee,,,,,0,0
+76956,PC,Player Character,You can't just visit Elminster!,엘민스터를 그냥 찾아갈 순 없어!,xp1_hen_dee,,,,,0,0
+76957,PC,Player Character,"Well, no, he wouldn't eat you, I'm sure...","뭐, 아니, 널 잡아먹진 않을 거야...",xp1_hen_dee,,,,,0,0
+76958,PC,Player Character,How about some entertainment?,뭐 재미있는 거 없어?,xp1_hen_dee,,x0_d2_deekstory4,,,0,0
+76959,PC,Player Character,Are you saying we're doomed?,우리가 망했다는 거야?,xp1_hen_dee,,,,,0,0
+76960,PC,Player Character,So... do you know any good tales?,그래서... 좋은 이야기 알아?,xp1_hen_dee,,x0_d2_deekstory3,,,0,0
+76961,PC,Player Character,Hmmm. Maybe later.,흠. 나중에.,xp1_hen_dee,,,,,0,0
+76962,PC,Player Character,"Okay, tell me.","좋아, 말해 봐.",xp1_hen_dee,,,,,0,0
+76963,PC,Player Character,You don't say?,정말?,xp1_hen_dee,,,,,0,0
+76964,PC,Player Character,Count Fred?,프레드 백작?,xp1_hen_dee,,,,,0,0
+76965,PC,Player Character,Is there a point to this?,요점이 뭔데?,xp1_hen_dee,,,,,0,0
+76966,PC,Player Character,I'm beginning to like this story.,이 이야기 재미있는데.,xp1_hen_dee,,,,,0,0
+76967,PC,Player Character,Uh-oh...,"어, 이런...",xp1_hen_dee,,,,,0,0
+76968,PC,Player Character,"I think you need to die for that, kobold.","그 말 때문에 죽어야 할 것 같은데, 코볼트.",xp1_hen_dee,,,,,0,0
+76969,PC,Player Character,I think part of my soul just died...,내 영혼 일부가 방금 죽은 것 같아...,xp1_hen_dee,,,,,0,0
+76970,PC,Player Character,"<StartAction>[laugh!]</Start> That's pretty funny, Deekin.","<StartAction>[웃음!]</Start> 꽤 웃기는데, 디킨.",xp1_hen_dee,,,,,0,0
+76971,PC,Player Character,<StartAction>[groan...]</Start>,<StartAction>[신음...]</Start>,xp1_hen_dee,,,,,0,0
+76972,PC,Player Character,"This is very gruesome, Deekin.","정말 끔찍한데, 디킨.",xp1_hen_dee,,,,,0,0
+76973,PC,Player Character,What's it about?,무슨 내용인데?,xp1_hen_dee,,,,,0,0
+76974,PC,Player Character,Tell me why you wanted your freedom from Tymofarrar.,티모파라르에게서 자유를 원했던 이유 말해 봐.,xp1_hen_dee,,x0_d2_deekstory2,,,0,0
+76975,PC,Player Character,Didn't you feel you owed Tymofarrar something?,티모파라르한테 빚진 게 있다고 느끼지 않았어?,xp1_hen_dee,,,,,0,0
+76976,PC,Player Character,And what way was that?,그게 어떤 식인데?,xp1_hen_dee,,,,,0,0
+76977,PC,Player Character,I don't understand what you mean.,무슨 말인지 모르겠어.,xp1_hen_dee,,,,,0,0
+76978,PC,Player Character,You? A dragon? Ha ha ha!!,너? 용? 하하하!!,xp1_hen_dee,x0_d1_deekinhate,,,,0,0
+76979,PC,Player Character,So are you happy you left?,그래서 떠나서 행복해?,xp1_hen_dee,,,,,0,0
+76980,PC,Player Character,Tymofarrar told you that?,티모파라르가 그렇게 말했어?,xp1_hen_dee,,,,,0,0
+76981,PC,Player Character,But you were so scared of Tymofarrar coming after you.,티모파라르가 쫓아올까 봐 그렇게 겁먹어 했잖아.,xp1_hen_dee,,,,,0,0
+76982,PC,Player Character,But didn't you enjoy working for Tymofarrar?,티모파라르를 위해 일하는 게 즐겁지 않았어?,xp1_hen_dee,,,,,0,0
+76983,PC,Player Character,"I want to know how you became a bard, initially.",처음에 어떻게 음유시인이 됐는지 알고 싶어.,xp1_hen_dee,,x0_d2_deekstory1,,,0,0
+76984,PC,Player Character,But why did he select you and not another kobold?,다른 코볼트 말고 왜 너를 선택한 거야?,xp1_hen_dee,,,,,0,0
+76985,PC,Player Character,Why would a dragon teach a kobold anything?,용이 왜 코볼트한테 뭘 가르쳐?,xp1_hen_dee,,,,,0,0
+76986,PC,Player Character,You were supposed to be the next chief?! Hah!,네가 다음 족장이 될 예정이었다고?! 하!,xp1_hen_dee,,,,,0,0
+76987,PC,Player Character,Did Tymofarrar train all the chiefs like that?,티모파라르가 모든 족장들을 그렇게 훈련시켰어?,xp1_hen_dee,,,,,0,0
+76988,PC,Player Character,So what happened?,그래서 무슨 일이 있었는데?,xp1_hen_dee,,,,,0,0
+76989,PC,Player Character,Serves you right for not studying.,공부 안 한 댓가야.,xp1_hen_dee,,,,,0,0
+76990,PC,Player Character,You poor creature! That must have been hard to take.,불쌍하게! 받아들이기 힘들었겠다.,xp1_hen_dee,x0_d1_deekinlike,,,,0,0
+76991,PC,Player Character,It must have been difficult keeping Tymofarrar happy.,티모파라르를 기쁘게 하기 힘들었겠어.,xp1_hen_dee,,,,,0,0
+76992,PC,Player Character,"Not many, I'd imagine.",많지 않았을 것 같은데.,xp1_hen_dee,,,,,0,0
+76993,PC,Player Character,Didn't you want to be chief?,족장이 되고 싶지 않았어?,xp1_hen_dee,,,,,0,0
+76994,PC,Player Character,Why not?,왜 안 돼?,xp1_hen_dee,,,,,0,0
+76995,PC,Player Character,That couldn't have gone well.,잘 안 풀렸겠네.,xp1_hen_dee,,,,,0,0
+76996,PC,Player Character,"But you didn't die, obviously.",하지만 죽진 않았잖아.,xp1_hen_dee,,,,,0,0
+76997,PC,Player Character,It still seems like an odd choice for a kobold.,코볼트치곤 여전히 이상한 선택 같은데.,xp1_hen_dee,,,,,0,0
+76998,PC,Player Character,"Yes, but why did he teach you to be a bard?","그래, 하지만 왜 음유시인으로 가르친 거야?",xp1_hen_dee,,,,,0,0
+76999,PC,Player Character,<StartAction>[Reprimand Deekin.]</Start>,<StartAction>[디킨을 꾸짖는다.]</Start>,xp1_hen_dee,,,,,0,0
+77000,PC,Player Character,"Well, I hope you learned a lesson.","뭐, 교훈은 얻었길 바라지.",xp1_hen_dee,,,,,0,0
+77001,PC,Player Character,Good enough. You're forgiven... for now.,충분해. 용서해 줄게... 일단은.,xp1_hen_dee,,,,,0,0
+77002,PC,Player Character,Forget it! I'm through with you!,됐어! 너랑 끝이야!,xp1_hen_dee,,,,,0,0
+77003,PC,Player Character,Not good enough! <StartAction>[Reprimand him some more.]</Start>,부족해! <StartAction>[더 꾸짖는다.]</Start>,xp1_hen_dee,,,,,0,0
+77004,PC,Player Character,"No, not just yet.","아니, 아직은.",xp1_hen_dee,,,,,0,0
+77005,PC,Player Character,"Yes, come with me.","그래, 따라와.",xp1_hen_dee,x0_d1_hen_rejoin,,,,0,0
+77006,PC,Player Character,"Never mind that, just fall in line.","신경 쓰지 마, 그냥 대열에 합류해.",xp1_hen_dee,,,,,0,0
+77007,PC,Player Character,You're just lucky I was able to turn you back.,널 되돌릴 수 있어서 운이 좋았어.,xp1_hen_dee,,,,,0,0
+77008,PC,Player Character,You're certainly welcome.,천만에.,xp1_hen_dee,,,,,0,0
+77009,PC,Player Character,"Are you okay, Deekin?","괜찮아, 디킨?",xp1_hen_dee,,,,,0,0
+77010,PC,Player Character,"If I were him, I would have just eaten you.",내가 그였다면 그냥 널 먹어치웠을 거야.,xp1_hen_dee,,,,,0,0
+77011,PC,Player Character,Tymofarrar used to paralyze you? How horrible!,티모파라르가 널 마비시키곤 했어? 끔찍하네!,xp1_hen_dee,,,,,0,0
+77012,PC,Player Character,I'll have to remember that trick.,그 기술 기억해 둬야겠어.,xp1_hen_dee,,,,,0,0
+77013,PC,Player Character,We kill her. Quickly.,죽이는 거지. 빨리.,xp1_hen_dee,,,,,0,0
+77014,PC,Player Character,"Close our eyes, that's what.",눈을 감는 거지.,xp1_hen_dee,,,,,0,0
+77015,PC,Player Character,"I don't really know, Deekin.","잘 모르겠어, 디킨.",xp1_hen_dee,,,,,0,0
+77016,PC,Player Character,"I'm not sure, either.",나도 확실치 않아.,xp1_hen_dee,,,,,0,0
+77017,PC,Player Character,Good question.,좋은 질문이야.,xp1_hen_dee,,,,,0,0
+77018,PC,Player Character,"No. Just stay here for now, out of trouble.","아니. 일단 여기 있어, 말썽 피우지 말고.",xp1_hen_dee,,,,,0,0
+77019,PC,Player Character,Of course...,당연하지...,xp1_hen_dee,,,,,0,0
+77020,PC,Player Character,It couldn't have been that long.,그렇게 오래 걸리진 않았을 거야.,xp1_hen_dee,,[지능 중간],,,0,0
+77021,PC,Player Character,A couple of days at most.,기껏해야 며칠.,xp1_hen_dee,,[지능 높음],,,0,0
+77022,PC,Player Character,Maybe we can find something to help us before then.,그전에 우리를 도와줄 뭔가를 찾을 수 있을지도.,xp1_hen_dee,,,,,0,0
+77023,PC,Player Character,Of course I'm happy. Now I get to finally kill you!,물론 기쁘지. 이제 드디어 널 죽일 수 있겠어!,xp1_hen_dee,,,,,0,0
+77024,PC,Player Character,Just how is it that I haven't seen you this entire trip?,이 여정 내내 어떻게 널 한 번도 못 봤지?,xp1_hen_dee,,,,,0,0
+77025,PC,Player Character,"No, the great hero is not happy to see Deekin at *all*.","아니, 위대한 영웅은 디킨을 보게 돼서 *전혀* 기쁘지 않아.",xp1_hen_dee,,,,,0,0
+77026,PC,Player Character,Deekin? What are you doing here?,디킨? 여기서 뭐 하는 거야?,xp1_hen_dee,,,,,0,0
+77027,PC,Player Character,Forget it. I want you off this caravan... now!,됐어. 이 캐러밴에서 당장 내려!,xp1_hen_dee,,,,,0,0
+77028,PC,Player Character,"Fine, then cook. And leave me alone.","좋아, 그럼 요리나 해. 그리고 날 좀 내버려 둬.",xp1_hen_dee,,,,,0,0
+77029,PC,Player Character,Being a cook isn't being an adventurer.,요리사가 되는 게 모험가가 되는 건 아니야.,xp1_hen_dee,,,,,0,0
+77030,PC,Player Character,You want to be an adventurer?,모험가가 되고 싶은 거야?,xp1_hen_dee,,,,,0,0
+77031,PC,Player Character,No. Not interested.,아니. 관심 없어.,xp1_hen_dee,,,,,0,0
+77032,PC,Player Character,"Sorry, Deekin. You'll have to find your own adventure.","미안해, 디킨. 네 모험은 네가 찾아야지.",xp1_hen_dee,,,,,0,0
+77033,PC,Player Character,But I don't want some annoying kobold with me!,성가신 코볼트랑 같이 다니긴 싫은데!,xp1_hen_dee,,,,,0,0
+77034,PC,Player Character,"You want to write my story, do you?",내 이야기를 쓰고 싶은 거야?,xp1_hen_dee,,,,,0,0
+77035,PC,Player Character,"Alright. Come with me, then.",알았어. 그럼 따라와.,xp1_hen_dee,,,,,0,0
+77036,PC,Player Character,You want to travel with me? Can you fight?,나랑 같이 다니고 싶어? 싸울 수 있어?,xp1_hen_dee,,,,,0,0
+77037,PC,Player Character,Can you cast spells?,주문 시전할 수 있어?,xp1_hen_dee,,,,,0,0
+77038,PC,Player Character,Can you at least carry stuff?,최소한 짐이라도 나를 수 있어?,xp1_hen_dee,,,,,0,0
+77039,PC,Player Character,Forget it.,됐어.,xp1_hen_dee,,,,,0,0
+77040,PC,Player Character,"Right. Okay, you're in.","좋아. 알았어, 들어와.",xp1_hen_dee,,,,,0,0
+77041,PC,Player Character,"Quiet, Deekin. This isn't a good time.","조용히, 디킨. 지금 좋은 때가 아니야.",xp1_hen_dee,x0_d1_hen_inter0,,,,0,0
+77042,PC,Player Character,"Yes, Deekin? What is it?","그래, 디킨? 뭔데?",xp1_hen_dee,x0_d1_hen_inter0,,,,0,0
+77043,PC,Player Character,It seems that way.,그런 것 같아.,xp1_hen_dee,,,,,0,0
+77044,PC,Player Character,"Don't turn coward now, kobold!","지금 겁쟁이로 변하지 마, 코볼트!",xp1_hen_dee,,,,,0,0
+77045,PC,Player Character,Why? Are you going to try something you'll regret?,왜? 후회할 짓이라도 하려고?,xp1_hen_dee,,,,,0,0
+77046,PC,Player Character,"Are you quite through, yet?",다 끝났어?,xp1_hen_dee,,,,,0,0
+77047,PC,Player Character,"We're not going to die, Deekin.","우린 죽지 않아, 디킨.",xp1_hen_dee,,,,,0,0
+77048,PC,Player Character,Just make sure I get a copy of that epic tale.,그 서사시 사본 하나 받을 수 있게 해.,xp1_hen_dee,,,,,0,0
+77049,PC,Player Character,"Yes, well, you haven't been the worst companion, I suppose.","뭐, 최악의 동료는 아니었어.",xp1_hen_dee,,,,,0,0
+77050,PC,Player Character,"Thank you, Deekin. It's been an honor.","고마워, 디킨. 영광이었어.",xp1_hen_dee,,,,,0,0
+77051,PC,Player Character,Don't be stupid. You'll die long before I fall.,바보 같은 소리 마. 내가 쓰러지기 훨씬 전에 네가 죽을 거야.,xp1_hen_dee,,,,,0,0
+77052,PC,Player Character,"Oh, I'm not going anywhere, Deekin.","오, 난 어디 안 가, 디킨.",xp1_hen_dee,,,,,0,0
+77053,PC,Player Character,I'm sure you can finish the story without me.,너 없이도 이야기 끝낼 수 있을 거야.,xp1_hen_dee,,,,,0,0
+77054,PC,Player Character,"You'll get a chance to finish it, I'm sure.","끝낼 기회가 있을 거야, 분명.",xp1_hen_dee,,,,,0,0
+77055,PC,Player Character,"Do you want to stay out of this fight, Deekin?","이 싸움 빠지고 싶어, 디킨?",xp1_hen_dee,,,,,0,0
+77056,PC,Player Character,Don't think about it. You couldn't possibly understand.,생각하지 마. 이해 못 할 거야.,xp1_hen_dee,,,,,0,0
+77057,PC,Player Character,Don't ask such stupid questions.,바보 같은 질문 하지 마.,xp1_hen_dee,,,,,0,0
+77058,PC,Player Character,This is probably something completely different.,이건 아마 완전히 다른 거겠지.,xp1_hen_dee,,,,,0,0
+77059,PC,Player Character,I don't intend on collecting anything.,아무것도 모을 생각 없어.,xp1_hen_dee,,,,,0,0
+77060,PC,Player Character,Maybe. You seem to have paid more attention than I did.,아마도. 나보다 더 주의 깊게 들었던 것 같은데.,xp1_hen_dee,,,,,0,0
+77061,PC,Player Character,"The Tower of the Winds, right.","바람의 탑, 맞지.",xp1_hen_dee,,,,,0,0
+77062,PC,Player Character,"That's where Heurodis is, I suppose.",헤우로디스가 있는 곳이겠지.,xp1_hen_dee,,,,,0,0
+77063,PC,Player Character,Stop that!,그만둬!,xp1_hen_dee,,,,,0,0
+77064,PC,Player Character,"Gee. Thanks, Deekin.","이런. 고마워, 디킨.",xp1_hen_dee,,,,,0,0
+77065,PC,Player Character,"You're not talking about the kind you smell again, are you?",또 냄새로 아는 그런 거 아니지?,xp1_hen_dee,,,,,0,0
+77066,PC,Player Character,"With Netherese magic, anything could be possible.",네더릴 마법이라면 뭐든 가능할 수도 있어.,xp1_hen_dee,,,,,0,0
+77067,PC,Player Character,Three Winds might just be what these things are called.,세 바람이 그냥 이것들의 이름일 수도 있어.,xp1_hen_dee,,,,,0,0
+77068,PC,Player Character,Deekin...,디킨...,xp1_hen_dee,,,,,0,0
+77069,PC,Player Character,Stop bothering me with your prattle!,쓸데없는 소리로 귀찮게 하지 마!,xp1_hen_dee,,,,,0,0
+77070,PC,Player Character,"It's something Heurodis is doing, obviously.","헤우로디스가 하는 일이겠지, 분명.",xp1_hen_dee,,,,,0,0
+77071,PC,Player Character,Deekin...,디킨...,xp1_hen_dee,,,,,0,0
+77072,PC,Player Character,Heurodis said that Undrentide would fly again...,헤우로디스가 언드렌타이드가 다시 날 거라고 했어...,xp1_hen_dee,,,,,0,0
+77073,PC,Player Character,I don't want to talk about it.,그 얘기 하기 싫어.,xp1_hen_dee,,,,,0,0
+77074,PC,Player Character,"Why are you asking this, Deekin?","왜 이걸 묻는 거야, 디킨?",xp1_hen_dee,,,,,0,0
+77075,PC,Player Character,"I really don't care what you write, Deekin.","네가 뭘 쓰든 정말 신경 안 써, 디킨.",xp1_hen_dee,,,,,0,0
+77076,PC,Player Character,Write that Drogan was a sentimental idiot who wasted his chance at power.,드로건은 힘을 얻을 기회를 낭비한 감상적인 바보였다고 써.,xp1_hen_dee,,,,,0,0
+77077,PC,Player Character,Write that he died nobly and that we won't let his sacrifice be in vain.,그가 고귀하게 죽었고 그의 희생을 헛되게 하지 않을 거라고 써.,xp1_hen_dee,,,,,0,0
+77078,PC,Player Character,Write that Drogan died as he lived: a hero. He won't soon be forgotten.,드로건은 살았던 대로 죽었다고 써. 영웅으로서. 쉽게 잊히지 않을 거야.,xp1_hen_dee,,,,,0,0
+77079,PC,Player Character,"Drogan was an old fool, that's what he was.","드로건은 늙은 바보였어, 그게 전부야.",xp1_hen_dee,,,,,0,0
+77080,PC,Player Character,"He saved us both, Deekin. Why? Is that so surprising?","우리 둘 다 구했잖아, 디킨. 왜? 그게 그렇게 놀라워?",xp1_hen_dee,,,,,0,0
+77081,PC,Player Character,He sacrificed himself for me. You just happened to be with me.,날 위해 희생한 거야. 넌 그냥 나랑 같이 있었을 뿐이고.,xp1_hen_dee,,,,,0,0
+77082,PC,Player Character,"I could not care less, really.",정말 신경 안 써.,xp1_hen_dee,,,,,0,0
+77083,PC,Player Character,"Yes, I think he is.","그래, 그런 것 같아.",xp1_hen_dee,,,,,0,0
+77084,PC,Player Character,"He called it a mythallar, yes.","미살라라고 불렀지, 맞아.",xp1_hen_dee,,,,,0,0
+77085,PC,Player Character,Keep your hands to yourself and don't get any ideas.,손 치워 두고 이상한 생각 하지 마.,xp1_hen_dee,,,,,0,0
+77086,PC,Player Character,Someone either wants it or wants us not to have it.,"누군가 원하거나, 우리가 갖지 못하게 하려는 거겠지.",xp1_hen_dee,,,,,0,0
+77087,PC,Player Character,"Let them come. And don't get cowardly, now.",오라고 해. 그리고 지금 겁먹지 마.,xp1_hen_dee,,,,,0,0
+77088,PC,Player Character,"Actually, we're going to them.","사실, 우리가 그들한테 가는 거야.",xp1_hen_dee,,,,,0,0
+77089,PC,Player Character,It hasn't happened so far.,지금까지는 일어나지 않았어.,xp1_hen_dee,,,,,0,0
+77090,PC,Player Character,"You've got a point, there... I don't really want to be in danger.",일리가 있네... 위험해지긴 싫어.,xp1_hen_dee,,,,,0,0
+77091,PC,Player Character,"Garrick seems to think the mythallar might be the key to victory, here.",가릭은 미살라가 승리의 열쇠일 거라고 생각하는 것 같아.,xp1_hen_dee,,,,,0,0
+77092,PC,Player Character,"You aren't thinking of backing out now, are you?",지금 빠지려는 건 아니겠지?,xp1_hen_dee,,,,,0,0
+77093,PC,Player Character,Bah! This is foolish talk!,흥! 바보 같은 소리야!,xp1_hen_dee,,,,,0,0
+77094,PC,Player Character,Don't worry so much. I'll protect you.,너무 걱정하지 마. 내가 지켜줄게.,xp1_hen_dee,,,,,0,0
+77095,PC,Player Character,"Maybe a little. It's okay to be scared, Deekin.","조금은. 무서워해도 괜찮아, 디킨.",xp1_hen_dee,,,,,0,0
+77096,PC,Player Character,"No, I'm not scared at all. There's no reason to be.","아니, 전혀 안 무서워. 무서워할 이유가 없어.",xp1_hen_dee,,,,,0,0
+77097,PC,Player Character,"I'd love to go back to Hilltop, but how?","힐탑으로 돌아가고 싶지만, 어떻게?",xp1_hen_dee,,,,,0,0
+77098,PC,Player Character,And give up the rewards that may be waiting for me? Never!,기다리고 있을지 모를 보상을 포기하라고? 절대!,xp1_hen_dee,,,,,0,0
+77099,PC,Player Character,No. We've got to do what we can on our own.,아니. 우리 힘으로 할 수 있는 걸 해야 해.,xp1_hen_dee,,,,,0,0
+77100,PC,Player Character,I'm not going to give the mythallar away! It could be useful!,미살라를 넘겨줄 생각 없어! 유용할 수도 있잖아!,xp1_hen_dee,,,,,0,0
+77101,PC,Player Character,Never you mind about that.,그건 신경 쓰지 마.,xp1_hen_dee,,,,,0,0
+77102,PC,Player Character,It may hold the secret to great magical power.,거대한 마법력의 비밀을 품고 있을지도 몰라.,xp1_hen_dee,,,,,0,0
+77103,PC,Player Character,"But Drogan is far away, and I've no way to contact him.","드로건은 멀리 있고, 연락할 방법도 없어.",xp1_hen_dee,,,,,0,0
+77104,PC,Player Character,"We've got far more important things to do, Deekin.","훨씬 더 중요한 일이 있어, 디킨.",xp1_hen_dee,,,,,0,0
+77105,PC,Player Character,"No, we can't do that.","아니, 그럴 순 없어.",xp1_hen_dee,,,,,0,0
+77106,PC,Player Character,That could take a long time.,시간이 오래 걸릴 수도 있어.,xp1_hen_dee,,,,,0,0
+77107,PC,Player Character,Probably.,아마도.,xp1_hen_dee,,,,,0,0
+77108,PC,Player Character,Why? What do you know about it?,왜? 그것에 대해 뭘 아는데?,xp1_hen_dee,,,,,0,0
+77109,PC,Player Character,Poisoned him?,독살했다고?,xp1_hen_dee,,,,,0,0
+77110,PC,Player Character,You feel guilty? I find that a little surprising.,죄책감을 느낀다고? 좀 놀라운데.,xp1_hen_dee,,,,,0,0
+77111,PC,Player Character,I don't really need to hear any whining from you.,네 징징거림은 들을 필요 없어.,xp1_hen_dee,,,,,0,0
+77112,PC,Player Character,"Why do you think you never fit in, then?",왜 적응하지 못했다고 생각해?,xp1_hen_dee,,,,,0,0
+77113,PC,Player Character,Are you really all that different from the other kobolds?,정말 다른 코볼트들과 그렇게 다른 거야?,xp1_hen_dee,,,,,0,0
+77114,PC,Player Character,I thought you wanted Tymofarrar dead?,티모파라르가 죽길 원했던 거 아니었어?,xp1_hen_dee,,,,,0,0
+77115,PC,Player Character,How convenient.,편리하네.,xp1_hen_dee,,,,,0,0
+77116,PC,Player Character,"I'm not here to protect you, kobold.","널 지키러 온 게 아니야, 코볼트.",xp1_hen_dee,,,,,0,0
+77117,PC,Player Character,"No. Actually, in a strange way it helped us out.",아니. 사실 이상하게도 도움이 됐어.,xp1_hen_dee,,,,,0,0
+77118,PC,Player Character,Why do you even care?,왜 신경이나 써?,xp1_hen_dee,,,,,0,0
+77119,PC,Player Character,"Oh, yes, he was furious.","오, 그래, 엄청 화났었지.",xp1_hen_dee,,,,,0,0
+77120,PC,Player Character,Why are you so interested?,왜 그렇게 관심이 많은 거야?,xp1_hen_dee,,,,,0,0
+77121,PC,Player Character,So you know what it does?,그게 뭘 하는지 알아?,xp1_hen_dee,,,,,0,0
+77122,PC,Player Character,Forget it. I'll find another use for it.,됐어. 다른 용도를 찾을게.,xp1_hen_dee,,,,,0,0
+77123,PC,Player Character,"Go ahead, then. Make it into an amulet.","좋아, 그럼. 호신부로 만들어.",xp1_hen_dee,,,,,0,0
+77124,PC,Player Character,Can't you make it into something that would help me?,날 도와줄 수 있는 걸로 만들 순 없어?,xp1_hen_dee,,,,,0,0
+77125,PC,Player Character,"Make it into a dagger, then.",그럼 단검으로 만들어.,xp1_hen_dee,,,,,0,0
+77126,PC,Player Character,"So this amulet would benefit you, right?",그럼 이 호신부는 너한테 도움이 되는 거지?,xp1_hen_dee,,,,,0,0
+77127,PC,Player Character,<StartAction>[Lie]</Start> Drogan gave it to me. What's it to you?,<StartAction>[거짓말]</Start> 드로건이 나한테 줬어. 그게 너랑 무슨 상관이야?,xp1_hen_dee,,,,,0,0
+77128,PC,Player Character,"Because I never gave it back to him, that's why.","그한테 돌려주지 않았으니까, 그래서.",xp1_hen_dee,,,,,0,0
+77129,PC,Player Character,Just don't run during a fight and I'll be happy.,싸우는 동안만 도망가지 마. 그럼 만족할게.,xp1_hen_dee,,,,,0,0
+77130,PC,Player Character,"Well, we're safer together, aren't we?","뭐, 같이 있으면 더 안전하잖아, 그렇지?",xp1_hen_dee,,,,,0,0
+77131,PC,Player Character,"If you're so free, why did you follow me?",그렇게 자유롭다면 왜 날 따라온 거야?,xp1_hen_dee,,,,,0,0
+77132,PC,Player Character,"Yes, I remember you blackmailing me into arranging that.","그래, 네가 협박해서 주선하게 한 거 기억해.",xp1_hen_dee,,,,,0,0
+77133,PC,Player Character,"Well, you're free now.","뭐, 이제 자유잖아.",xp1_hen_dee,,,,,0,0
+77134,PC,Player Character,Perhaps it's your imagination which makes you different.,아마 상상력이 널 다르게 만드는 거겠지.,xp1_hen_dee,,nw_d2_wishigh,,,0,0
+77135,PC,Player Character,"It's good that you're worried, but Drogan came through it okay.","걱정하는 건 좋지만, 드로건은 괜찮았어.",xp1_hen_dee,,,,,0,0
+77136,PC,Player Character,"Well, it turned out Drogan recovered just fine, no thanks to you.","뭐, 드로건은 잘 회복했어, 네 덕은 아니지만.",xp1_hen_dee,,,,,0,0
+77137,PC,Player Character,You're probably right.,네 말이 맞을 거야.,xp1_hen_dee,,,,,0,0
+77138,PC,Player Character,"I would have listened to you, Deekin.","내가 들어줬을 거야, 디킨.",xp1_hen_dee,,,,,0,0
+77139,PC,Player Character,You don't know that for sure.,확실히 알 순 없잖아.,xp1_hen_dee,,,,,0,0
+77140,PC,Player Character,Don't feel guilty. I didn't care about Drogan one way or the other.,죄책감 갖지 마. 난 드로건에 대해 어느 쪽으로든 신경 안 썼어.,xp1_hen_dee,,,,,0,0
+77141,PC,Player Character,What did I tell you about calling me that?,그렇게 부르는 거 뭐라고 했지?,xp1_hen_dee,,x0_d2_notboss,,,0,0
+77142,PC,Player Character,"Well, don't. Now be quiet.","뭐, 하지 마. 이제 조용히 해.",xp1_hen_dee,x0_d1_hen_inter0,,,,0,0
+77143,PC,Player Character,"What do you want, then?",그럼 뭘 원하는 거야?,xp1_hen_dee,x0_d1_hen_inter0,,,,0,0
+77144,PC,Player Character,"Never mind that, let's go.","신경 쓰지 마, 가자.",xp1_hen_dee,x0_d1_hen_rejoin,,,,0,0
+77145,PC,Player Character,"Yes, I brought you back... but you should stay here.","그래, 되살려 줬지... 하지만 여기 있는 게 좋겠어.",xp1_hen_dee,x0_d1_hen_fired,,,,0,0
+77146,PC,Player Character,Keep this up and I won't bring you back at all!,계속 이러면 다시는 안 살릴 거야!,xp1_hen_dee,,,,,0,0
+77147,PC,Player Character,Forget it. You're staying here.,됐어. 여기 있어.,xp1_hen_dee,x0_d1_hen_fired,,,,0,0
+77148,PC,Player Character,"Fine, you can come along.","좋아, 따라와도 돼.",xp1_hen_dee,x0_d1_hen_rejoin,,,,0,0
+77149,PC,Player Character,Just try not to die next time.,다음엔 죽지 않도록 해.,xp1_hen_dee,,,,,0,0
+77150,PC,Player Character,What did the voice say to you?,그 목소리가 뭐라고 했어?,xp1_hen_dee,,,,,0,0
+77151,PC,Player Character,"No, stay here for now.","아니, 일단 여기 있어.",xp1_hen_dee,x0_d1_hen_fired,,,,0,0
+77152,PC,Player Character,"Yes, come along.","그래, 따라와.",xp1_hen_dee,x0_d1_hen_rejoin,,,,0,0

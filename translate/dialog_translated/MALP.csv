@@ -1,0 +1,39 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17457,Dialog,MALP,"Is there something you want? If not, please stand further away. Your looks may take interest away from me.","뭔가 원하는 거 있어? 아니면 좀 떨어져 줘. 네 외모 때문에 나한테 올 관심이 줄어들잖아.",M1Q1A06MALP,,,,,0,0
+17458,Dialog,MALP,Yes? Is there something you want? I usually only have time to speak with the ladies when I visit here.,"응? 뭔가 원하는 거 있어? 여기 오면 보통 아가씨들하고만 얘기하거든.",M1Q1A06MALP,,,,,0,0
+17459,Dialog,MALP,"Greetings to you. Here, stand a bit closer. I look positively dashing next to you.","안녕. 자, 좀 더 가까이 서봐. 네 옆에 서니 내가 더 멋져 보이는군.",M1Q1A06MALP,,,,,0,0
+17460,Dialog,MALP,Very well. Let me know if I go too fast for you.,"좋아. 너무 빠르면 말해.",M1Q1A06MALP,,,,,0,0
+17461,Dialog,MALP,Very well. I have a few moments. What is it?,"좋아. 잠깐 시간 있어. 뭔데?",M1Q1A06MALP,,,,,0,0
+17462,Dialog,MALP,Don't speak of that! People come here to get away from such talk. They might shut this place down if people get too worried.,"그런 얘긴 하지 마! 사람들이 그런 얘기 피하려고 여기 오는 거야. 너무 걱정하면 여길 닫아버릴지도 몰라.",M1Q1A06MALP,,,,,0,0
+17463,Dialog,MALP,Goodbye. Perhaps we'll talk another time.,"잘 가. 다음에 또 얘기하자.",M1Q1A06MALP,,,,,0,0
+17464,Dialog,MALP,"Companionship, in whatever form that means to you. The employees here are adept in discourse, games, and are especially good at listening.","함께할 사람이지, 네가 원하는 형태로. 여기 직원들은 대화도 게임도 잘하고, 특히 얘기를 잘 들어줘.",M1Q1A06MALP,,,,,0,0
+17465,Dialog,MALP,"Suffice to say that she runs a clean, much needed establishment. You won't find anyone to badmouth her.","깨끗하고 꼭 필요한 곳을 운영한다는 것만 말해두지. 그녀를 험담하는 사람은 못 찾을 거야.",M1Q1A06MALP,,,,,0,0
+17466,Dialog,MALP,"Ophala is a saint of a woman. Anyone saying otherwise had best keep a close eye on... well, this isn't for me to talk about.","오팔라는 성녀 같은 여자야. 다르게 말하는 사람은 조심해야... 뭐, 이건 내가 할 얘기가 아니군.",M1Q1A06MALP,,,,,0,0
+17467,Dialog,MALP,"Well, greetings to you, my fair, fair lady. Would you care to share my company awhile?","오, 안녕, 정말 예쁜 아가씨군. 잠시 나와 함께할래?",M1Q1A06MALP,,,,,0,0
+17468,Dialog,MALP,"Hello there. Let's have a look at you. Nothing spectacular, but fair enough. Would you care to share my company?","안녕. 어디 보자. 대단하진 않지만 괜찮네. 나와 함께할래?",M1Q1A06MALP,,,,,0,0
+17469,Dialog,MALP,"No, no, no, you're not what I had in mind at all. Get yourself back under whatever rock you crawled from.","아니, 아니, 아니, 넌 내가 생각한 타입이 전혀 아니야. 어디서 기어 나왔든 다시 돌아가.",M1Q1A06MALP,,,,,0,0
+17470,Dialog,MALP,"Fair day to you, ma'am.","좋은 하루, 부인.",M1Q1A06MALP,,,,,0,0
+17471,Dialog,MALP,"Very well, though perhaps we'll discuss compensation later?","좋아, 나중에 보상 얘기는 하는 거지?",M1Q1A06MALP,,,,,0,0
+17472,Dialog,MALP,"That's a relief. From your tone I was worried that Ophala might have lost her taste in companions. Leave me, then.","다행이군. 말투를 보니 오팔라가 사람 보는 눈이 없어졌나 걱정했어. 그럼 가봐.",M1Q1A06MALP,,,,,0,0
+17473,Dialog,MALP,"Ah, you're an intellectual charmer as well. Very well, I'll answer what I can.","아, 지적인 매력도 있군. 좋아, 아는 데까지 답해줄게.",M1Q1A06MALP,,,,,0,0
+17474,Dialog,MALP,"Well, you certainly have a charming manner. Perhaps I can be a bit more... free with you. Very well.","뭐, 확실히 매력적인 태도군. 아마 좀 더... 편하게 얘기해도 되겠어. 좋아.",M1Q1A06MALP,,,,,0,0
+17475,Dialog,MALP,"Ehh, don't do that. You'lll put me off my supper. Sorry, but you're just not my... ah... type.","에, 그러지 마. 밥맛 떨어지게. 미안하지만 넌 내... 아... 타입이 아니야.",M1Q1A06MALP,,,,,0,0
+17476,Dialog,MALP,<StartCheck>[Success]</Start> I suppose it wouldn't hurt. It's not like people don't know. They just don't talk about it.,"<StartCheck>[성공]</Start> 말해도 상관없겠지. 사람들이 모르는 것도 아니고. 그냥 얘기 안 할 뿐이야.",M1Q1A06MALP,,,,,0,0
+17477,Dialog,MALP,"<StartCheck>[Failure]</Start> No, I really don't want to be making an enemy of Ophala. She's a great source of... comfort in these times.","<StartCheck>[실패]</Start> 아니, 오팔라를 적으로 만들고 싶지 않아. 그녀는 요즘 같은 때 큰... 위안이거든.",M1Q1A06MALP,,,,,0,0
+17478,Dialog,MALP,"Ophala dabbles in... artful theft. She's arranged expensive losses for many of her detracters, though usually just as trophy victories.","오팔라는... 예술적인 도둑질을 해. 자기를 비방하는 자들에게 비싼 대가를 치르게 했지, 보통은 전리품 삼아서.",M1Q1A06MALP,,,,,0,0
+17479,Dialog,MALP,"It's a challenge to her, and I've heard of nobles playfully offering their homes as targets, though maybe they only say that after.","그녀에겐 도전이지. 귀족들이 장난삼아 자기 집을 표적으로 제공한다고 들었는데, 뭐 털리고 나서 그렇게 말하는 걸 수도 있지만.",M1Q1A06MALP,,,,,0,0
+17480,Dialog,MALP,"Okay, okay! It's not like she makes things a big secret, so there's no need to get violent. Take it easy.","알았어, 알았어! 그녀가 크게 비밀로 하는 것도 아니니까 폭력적으로 굴 필요 없잖아. 진정해.",M1Q1A06MALP,,,,,0,0
+17481,Dialog,MALP,"She doesn't do it herself, of course. She hires subtle sneaksmen, though I hear the plague has taken her favorites.","직접 하는 건 아니야, 물론. 교묘한 잠입꾼들을 고용하지. 역병이 그녀가 아끼던 사람들을 데려갔다고 들었지만.",M1Q1A06MALP,,,,,0,0
+17482,Dialog,MALP,"They know a lot about everyone, and that knowledge keeps the Moonstone Mask from being closed by the more prudish of the community.","그들은 모든 사람에 대해 많이 알고 있어. 그 정보 덕분에 월장석 가면이 깐깐한 사람들한테 문 닫히지 않는 거지.",M1Q1A06MALP,,,,,0,0
+17483,Dialog,MALP,Bite your tongue! That would be the greatest tragedy of them all. Imagine the decline in morale from that!,"입 조심해! 그건 최악의 비극일 거야. 사기가 얼마나 떨어지겠어!",M1Q1A06MALP,,,,,0,0
+17484,Dialog,MALP,"No, Ophala has taken special precautions to avoid any such worries. You'll realize that, should you decide to... partake.","아니, 오팔라는 그런 걱정 안 하게 특별히 조치해뒀어. 만약... 이용하기로 하면 알게 될 거야.",M1Q1A06MALP,,,,,0,0
+17485,Dialog,MALP,And by what authority do you speak? Your god? There are other gods. Your laws? There are other laws.,"무슨 권위로 말하는 거야? 네 신? 다른 신들도 있어. 네 법? 다른 법들도 있고.",M1Q1A06MALP,,,,,0,0
+17486,Dialog,MALP,"No one is here against their will. There is a prestige to this place, and many a great name has come just to talk with an attentive listener.","여기 누구도 억지로 온 게 아니야. 이곳엔 명성이 있고, 많은 유명인들이 그저 얘기 들어주는 사람과 대화하러 왔어.",M1Q1A06MALP,,,,,0,0
+17487,Dialog,MALP,"You won't get far around here if you damn things just because they personally offend you. That's intolerance, not morality.","자기 기분 나쁘다고 비난하면 여기선 멀리 못 가. 그건 편협함이지 도덕이 아니야.",M1Q1A06MALP,,,,,0,0
+17488,Dialog,MALP,"Nothing, but I know that I won't live in fear. I will mourn, and I may die, but I will do it at the bar with my friends and in talented company.","아무것도. 하지만 두려움에 떨며 살진 않을 거야. 슬퍼하고, 죽을 수도 있겠지만, 바에서 친구들과 함께할 거야.",M1Q1A06MALP,,,,,0,0
+56984,Dialog,MALP,"Come now, why would you want to do any such thing? You'd be taking away my only comfort in these dark times. Go on, you don't really mean it.","이봐, 왜 그런 걸 하려고 해? 이 어두운 시기에 내 유일한 위안을 빼앗는 거야. 어서, 진심이 아니잖아.",M1Q1A06MALP,,,,,0,0
+56985,Dialog,MALP,"Sorry, friend, but you are wasting your time. I've already been shaken down for every last gold I had. It's only the fine generosity of Lady Cheldarstorn that allows me to stay now.","미안하지만, 친구, 시간 낭비야. 이미 가진 금화를 다 털렸어. 지금 여기 있을 수 있는 건 순전히 켈다스토른 부인의 관대함 덕분이야.",M1Q1A06MALP,,,,,0,0
+56986,Dialog,MALP,"I'll answer questions if you have them, but I'm a stone as far as coin is concerned. I've got none to give.","질문 있으면 답해줄게, 하지만 돈에 관해서는 돌덩이야. 줄 게 없어.",M1Q1A06MALP,,,,,0,0
+56987,Dialog,MALP,"Hey... whoa, now... come on. You're kidding, right? Okay, you're not kidding. Listen, I'll give you all I got on me if you'll just leave me alone.","이봐... 잠깐... 설마. 농담이지? 알았어, 농담이 아니군. 들어봐, 날 내버려 두면 가진 거 다 줄게.",M1Q1A06MALP,m1q0_evil_reward,,,,0,0
+56988,Dialog,MALP,"Yeesh, what kind of a jerk are you, threatening to take away the only enjoyment I have left? Get out of here. You got what you came for. Get lost.","에휴, 넌 뭔 인간이야, 내 남은 유일한 즐거움을 빼앗겠다고 협박해? 꺼져. 원하는 거 얻었잖아. 저리 가.",M1Q1A06MALP,,,,,0,0
+56989,Dialog,MALP,"Oh no, I'm not wasting another moment on the likes of you. Why don't you go steal candy from someone else, big <man/woman>.","오 안 돼, 너 같은 놈한테 한 순간도 더 낭비 안 해. 다른 데 가서 사탕이나 빼앗아, 대단한 <man/woman> 양반.",M1Q1A06MALP,,,,,0,0

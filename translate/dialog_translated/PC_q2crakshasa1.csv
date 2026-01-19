@@ -1,0 +1,44 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+94380,PC,Player Character,"""I'll be back once I have the activation stone.""","""활성화 석이 생기면 돌아올게요.""",q2crakshasa1,,,,,0,0
+94381,PC,Player Character,"""I've decided to butcher you like hogs. It's how I get my kicks.""","""돼지처럼 도살하기로 했어. 내 취미거든.""",q2crakshasa1,nw_d1_high_evil,,,,0,0
+94382,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 할게요.""",q2crakshasa1,,,,,0,0
+94383,PC,Player Character,"""What do you know about the magic chains and the central chamber?""","""마법 사슬과 중앙 방에 대해 뭘 알아요?""",q2crakshasa1,,,,,0,0
+94384,PC,Player Character,Do you know where these chains are now?,그 사슬들이 지금 어디 있는지 알아요?,q2crakshasa1,,,,,0,0
+94385,PC,Player Character,But now the doors are sealed.,하지만 문이 봉인되어 있잖아요.,q2crakshasa1,,,,,0,0
+94386,PC,Player Character,"""I want to ask about something else.""","""다른 것도 물어볼게요.""",q2crakshasa1,,,,,0,0
+94387,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""You better tell me where that chain is... I don't want this to get nasty.""","<StartCheck>[위협]</Start> ""사슬 어디 있는지 말하는 게 좋을 거야... 일이 험해지는 건 원치 않거든.""",q2crakshasa1,,,,,0,0
+94388,PC,Player Character,"""Then I guess I'll have to beat it out of you!""","""그럼 때려서 불어야겠네!""",q2crakshasa1,,,,,0,0
+94389,PC,Player Character,"<StartCheck>[Persuade - Flirt]</Start> ""Do I look like someone who'd betray you? Come on... you can trust me.""","<StartCheck>[설득 - 유혹]</Start> ""내가 배신할 사람처럼 보여? 이봐... 날 믿어도 돼.""",q2crakshasa1,,nw_d2_flirt,,,0,0
+94390,PC,Player Character,"""Why have the drow come to Undermountain?"" ","""드로우가 왜 언더마운틴에 온 거예요?""",q2crakshasa1,,,,,0,0
+94391,PC,Player Character,"""What can you tell me about Halaster?""","""할라스터에 대해 뭘 알려줄 수 있어요?""",q2crakshasa1,,,,,0,0
+94392,PC,Player Character,"""Where can I find the activation stone again?""","""활성화 석은 어디서 찾을 수 있어요?""",q2crakshasa1,,,,,0,0
+94393,PC,Player Character,"""I have the activation stone right here.""","""활성화 석을 여기 갖고 있어요.""",q2crakshasa1,act_q2rakchanged,con_q2crak_1,,,0,0
+94394,PC,Player Character,"""Is there something you're not telling me?""","""뭔가 숨기는 거 있어요?""",q2crakshasa1,,con_q2rakadvent1,,,0,0
+94395,PC,Player Character,"""Never mind. I want to ask you something else.""","""됐어요. 다른 거 물어볼게요.""",q2crakshasa1,,,,,0,0
+94396,PC,Player Character,"""Tomi said there was something strange about you.""","""토미가 뭔가 이상하다고 했어요.""",q2crakshasa1,,,,,0,0
+94397,PC,Player Character,"""You seem awfully defensive about this.""","""굉장히 방어적이네요.""",q2crakshasa1,,,,,0,0
+94398,PC,Player Character,"""I think I'll go speak to Linu about this right now.""","""당장 리누한테 가서 얘기해야겠어요.""",q2crakshasa1,,,,,0,0
+94399,PC,Player Character,"<StartCheck>[Intelligence]</Start> ""Hold on... how did Tomi and Linu get in here without killing the Rakshasa guards?""","<StartCheck>[지능]</Start> ""잠깐... 토미와 리누가 락샤사 경비병들을 죽이지 않고 어떻게 들어왔죠?""",q2crakshasa1,,[지능 높음],,,0,0
+94400,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 할게요.""",q2crakshasa1,,,,,0,0
+94401,PC,Player Character,"""Your Rakshasa captors are dead. You're free.""","""널 잡아둔 락샤사들은 죽었어. 이제 자유야.""",q2crakshasa1,,,,,0,0
+94402,PC,Player Character,"""I killed the Rakshasa - just like I'm going to kill you!""","""락샤사를 죽였어-너도 죽일 거야!""",q2crakshasa1,,,,,0,0
+94403,PC,Player Character,"""Forget it... I just want to kill you.""","""됐어... 그냥 널 죽이고 싶어.""",q2crakshasa1,,,,,0,0
+94404,PC,Player Character,"""Help you? What are you talking about?""","""도와달라고? 무슨 소리야?""",q2crakshasa1,,,,,0,0
+94405,PC,Player Character,"""I'll spare you... for now. Tell me what you know.""","""살려줄게... 일단은. 아는 거 말해.""",q2crakshasa1,,,,,0,0
+94406,PC,Player Character,"""Why would I want to save someone like you?""","""왜 너 같은 걸 구해야 해?""",q2crakshasa1,,,,,0,0
+94407,PC,Player Character,"""Save you? Save you from what?""","""구해달라고? 뭘로부터?""",q2crakshasa1,,,,,0,0
+94408,PC,Player Character,"""The Rakshasa are dead. But who are you?""","""락샤사는 죽었어. 근데 넌 누구야?""",q2crakshasa1,,,,,0,0
+94409,PC,Player Character,"""I hope there's a point to all this.""","""하고 싶은 말이 뭐야?""",q2crakshasa1,,,,,0,0
+94410,PC,Player Character,"""Great. You're free. So get out of here.""","""좋아. 자유야. 그러니 꺼져.""",q2crakshasa1,,,,,0,0
+94411,PC,Player Character,"""So now that I've killed the Rakshasa, you're free to leave?""","""그럼 내가 락샤사를 죽였으니, 떠날 수 있는 거야?""",q2crakshasa1,,,,,0,0
+94412,PC,Player Character,"""I'm too busy to waste my time with this!""","""이런 데 시간 낭비할 여유 없어!""",q2crakshasa1,,,,,0,0
+94413,PC,Player Character,"""I could help you find that stone... for the right reward.""","""그 돌 찾는 걸 도와줄 수도 있어... 보상만 괜찮다면.""",q2crakshasa1,,,,,0,0
+94414,PC,Player Character,"""And you want me to find the activation stone?""","""활성화 석을 찾아달라는 거야?""",q2crakshasa1,,,,,0,0
+94415,PC,Player Character,"""Maybe I could help you find the activation stone.""","""활성화 석 찾는 걸 도와줄 수도 있어.""",q2crakshasa1,,,,,0,0
+94416,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2crakshasa1,,,,,0,0
+94417,PC,Player Character,"""I think I'd rather just slaughter everyone here.""","""그냥 여기 있는 놈들 다 도살하는 게 낫겠어.""",q2crakshasa1,nw_d1_high_evil,,,,0,0
+94418,PC,Player Character,"""Okay, I'll try and find the activation stone for you.""","""알았어, 활성화 석 찾아볼게.""",q2crakshasa1,,,,,0,0
+94419,PC,Player Character,"""That's okay - I can find it without your help.""","""괜찮아-네 도움 없이도 찾을 수 있어.""",q2crakshasa1,,,,,0,0
+94420,PC,Player Character,"""Actually, I'd rather ask you some questions first.""","""사실, 먼저 질문 좀 할게.""",q2crakshasa1,,,,,0,0
+94421,PC,Player Character,"""Okay, where can I find the activation stone?""","""알았어, 활성화 석은 어디서 찾을 수 있어?""",q2crakshasa1,,,,,0,0
+94422,PC,Player Character,"""What do you know about those chains?""","""그 사슬에 대해 뭘 알아?""",q2crakshasa1,,,,,0,0

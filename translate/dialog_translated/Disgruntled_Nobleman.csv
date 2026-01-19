@@ -1,0 +1,61 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+24550,Creature,Disgruntled Nobleman,Disgruntled Nobleman,불만 가득한 귀족,M1Q3ANOBMAN,,,,,0,0
+62757,Creature,Disgruntled Nobleman,"Villain, why are you here? This is private property!","악당, 왜 여기에 있나? 여긴 사유지다!",M1Q3ANOBMAN,m1_stopinit,,,,0,0
+62758,Creature,Disgruntled Nobleman,"Why are you in my home? What business do you have here? None lawful, I'll wager.",왜 내 집에 들어왔지? 무슨 용무로? 합법적인 일은 아닐 테지.,M1Q3ANOBMAN,m1_stopinit,,,,0,0
+62759,Creature,Disgruntled Nobleman,"The sheer nerve! Why have you come into my home, <sir/madam>?","감히 어디서! 내 집에 왜 들어왔나, 선생?",M1Q3ANOBMAN,m1_stopinit,,,,0,0
+62760,Creature,Disgruntled Nobleman,"Get out of here, before I call the watch on you!",썩 꺼져! 경비대를 부르기 전에!,M1Q3ANOBMAN,,,,,0,0
+62761,Creature,Disgruntled Nobleman,"I suppose that makes you a burglar of some sort? Come to rob me, have you?",그렇다면 너는 좀도둑쯤 되겠군? 날 털러 왔나?,M1Q3ANOBMAN,,,,,0,0
+62762,Creature,Disgruntled Nobleman,"I thought so. Fine, take your bloody gold and get out! I don't have time to be listening to your evil posturing. Take it and go!","그럴 줄 알았다. 좋아, 이 빌어먹을 금화를 가져가고 꺼져! 네 악랄한 으름장 따위 들을 시간 없어. 가져가고 나가!",M1Q3ANOBMAN,m1q0_evil_reward,,,,0,0
+62763,Creature,Disgruntled Nobleman,And don't return! Animal! Dog!,그리고 다시는 오지 마! 짐승 같으니! 개 같은!,M1Q3ANOBMAN,,,,,0,0
+62764,Creature,Disgruntled Nobleman,"What is this? Another lout pushing through my home? Well, let me save you some time. If you were going to rob me, someone already beat you to it!",뭐야? 또 다른 건달이 내 집을 헤집고 다니는 건가? 시간을 아껴 주지. 털 생각이면 이미 누가 먼저 털고 갔어!,M1Q3ANOBMAN,,,,,0,0
+62765,Creature,Disgruntled Nobleman,So state whatever your other business is and then get out. I've nothing more to take!,그러니 다른 볼일이 있으면 말하고 꺼져. 더 이상 가져갈 것도 없어!,M1Q3ANOBMAN,,,,,0,0
+62766,Creature,Disgruntled Nobleman,"<StartCheck>[Failure]</Start> I don't trust the look of you, villain! Just because there's a plague, you think you can walk in anywhere? Get out this instant!","<StartCheck>[실패]</Start> 꼴이 영 수상하군, 악당! 역병이라고 해서 아무 집이나 들락거릴 수 있는 줄 아나? 당장 나가!",M1Q3ANOBMAN,,,,,0,0
+62767,Creature,Disgruntled Nobleman,"<StartCheck>[Success]</Start> Oh. I suppose you don't look like such a bad sort. You just startled me by barging in here uninvited, is all.",<StartCheck>[성공]</Start> 흠... 그렇게 나쁜 사람처럼 보이진 않는군. 초대도 없이 들이닥쳐서 놀랐을 뿐이야.,M1Q3ANOBMAN,m1_tlkinc,,,,0,0
+62768,Creature,Disgruntled Nobleman,"What was it you wanted, then, <sir/madam>?","그래서, 뭘 원하나, 선생?",M1Q3ANOBMAN,,,,,0,0
+62769,Creature,Disgruntled Nobleman,"Ruffians back again, hmm? Something you need?","또 깡패들이로군, 흠? 필요한 게 있나?",M1Q3ANOBMAN,m1_stopinit,,,,0,0
+62770,Creature,Disgruntled Nobleman,"Yes, leave me be.","그래, 이만 가 보게.",M1Q3ANOBMAN,,,,,0,0
+62771,Creature,Disgruntled Nobleman,I'm sure you know the way out.,나가는 길은 알겠지.,M1Q3ANOBMAN,,,,,0,0
+62772,Creature,Disgruntled Nobleman,"Fare you well, <sir/madam>.","안녕히 가시오, 선생.",M1Q3ANOBMAN,,,,,0,0
+62773,Creature,Disgruntled Nobleman,"If you must. I will make no promises that I will answer, though.",그러시든지. 하지만 대답해 준다고 약속하진 않겠네.,M1Q3ANOBMAN,,,,,0,0
+62774,Creature,Disgruntled Nobleman,"Very well, but keep your distance. I don't recognize you, so you likely slipped past the barricade and may have brought the plague with you.","좋아, 하지만 거리 둬. 난 자넬 모르니, 방어벽을 몰래 넘어온 자일지도 모르고 역병을 데려왔을지도 모르니까.",M1Q3ANOBMAN,,,,,0,0
+62775,Creature,Disgruntled Nobleman,"Well... make it quick, if you will. I do have things I should be attending to.",그럼... 빨리 끝내주게. 내가 볼일이 많아서 말이야.,M1Q3ANOBMAN,,,,,0,0
+62776,Creature,Disgruntled Nobleman,"You don't say? Nobles dying in (gulp) their own homes? Hypothetically, would you mean nobles like me... in my home?","정말인가? 귀족들이 (꿀꺽) 자기 집에서 죽는다니? 가령, 나 같은 귀족... 이 집에서?",M1Q3ANOBMAN,,,,,0,0
+62777,Creature,Disgruntled Nobleman,"All right then. Whatever you were up to, I don't want to see you back.","좋아. 무슨 짓이든, 다시는 돌아오지 마.",M1Q3ANOBMAN,,,,,0,0
+62778,Creature,Disgruntled Nobleman,Very well... but make it quick. I'm not sure what you are up to...,좋아... 하지만 빨리 말해. 자네가 무슨 수작을 부리는지 모르겠군...,M1Q3ANOBMAN,,,,,0,0
+62779,Creature,Disgruntled Nobleman,I understand. Take your damn gold and get out. Out! Criminal! Dog!,알겠다. 이 더러운 금화를 가져가고 꺼져라. 나가! 범죄자! 개 같은 것!,M1Q3ANOBMAN,m1q0_evil_reward,,,,0,0
+62780,Creature,Disgruntled Nobleman,"Stop right there! I've already given out the last of my gold and there isn't any more! Now, ask your questions and get out!","거기 서라! 줄 금은 이미 마지막까지 내줬어, 더는 없어! 자, 물을 거면 묻고 꺼져!",M1Q3ANOBMAN,,,,,0,0
+62781,Creature,Disgruntled Nobleman,"As you will. Make your questions short, I cannot bear your halting speech.",좋을 대로. 질문은 짧게 해. 더듬거리는 말투는 못 견디겠으니.,M1Q3ANOBMAN,,,,,0,0
+62782,Creature,Disgruntled Nobleman,"What were you looking for, then?","그래서, 뭘 찾고 있었나?",M1Q3ANOBMAN,,,,,0,0
+62783,Creature,Disgruntled Nobleman,"Unless you are asking for the way out of my home, I doubt I can help you.","내 집에서 나가는 길을 묻는 게 아니라면, 내가 도울 일은 없을 걸세.",M1Q3ANOBMAN,,,,,0,0
+62784,Creature,Disgruntled Nobleman,"I imagine they sell supplies at the Board Laid Bare, but I have not been there myself. It is by the south gate.","물자는 적나라한 게시판 선술집에서 판다고 들었네만, 나 스스로 가 본 적은 없지. 남문 근처에 있어.",M1Q3ANOBMAN,,,,,0,0
+62785,Creature,Disgruntled Nobleman,We have no such establishment. Those that need such a place used to travel to the City Core.,여긴 그런 시설 없다. 그런 게 필요하면 시가지 중심지로 가곤 했지.,M1Q3ANOBMAN,,,,,0,0
+62786,Creature,Disgruntled Nobleman,"The Board Laid Bare, I believe. A tavern mostly. I can't tell you any more. Not my sort of place. It is by the south gate.",적나라한 게시판일 걸세. 주로 선술집이지. 더는 모른다네. 내 취향이 아니거든. 남문 근처에 있어.,M1Q3ANOBMAN,,,,,0,0
+62787,Creature,Disgruntled Nobleman,Is there something else?,또 필요한가?,M1Q3ANOBMAN,,,,,0,0
+62788,Creature,Disgruntled Nobleman,"I'm certain that I am above anything you would consider ""interesting.""",자네가 '흥미롭다'고 여길 만한 것 따위와 나는 거리가 멀지.,M1Q3ANOBMAN,,,,,0,0
+62789,Creature,Disgruntled Nobleman,"I don't know. That tavern, the Board Laid Bare? It has quite a scandalous reputation, I hear.","모르겠군. 그 선술집, 적나라한 게시판 선술집 말인가? 제법 악평이 자자하다고 들었지.",M1Q3ANOBMAN,,,,,0,0
+62790,Creature,Disgruntled Nobleman,I have no information on employment. I have people for that.,일자리 따위엔 관심 없어. 그건 내 사람들이 알아서 한다.,M1Q3ANOBMAN,,,,,0,0
+62791,Creature,Disgruntled Nobleman,"Well, that girl Formosa is looking for people who will listen to her. She's down in the southeast square trying to stir up folks against Meldanen.","그나저나, 포르모사라는 아가씨가 자기 말을 들어줄 사람을 찾고 있더군. 남동쪽 광장에서 멜다넨을 헐뜯으며 선동 중이지.",M1Q3ANOBMAN,,,,,0,0
+62792,Creature,Disgruntled Nobleman,"I don't pay attention to troublemakers like her. Everyone should be left to their own affairs. Whatever Meldanen is up to, it's no business of hers or mine.","그런 소란꾼에게 신경 쓰지 않아. 사람은 각자 일에나 신경 써야지. 멜다넨이 뭘 하든, 그건 그녀도 나도 상관할 바 아니야.",M1Q3ANOBMAN,,,,,0,0
+62793,Creature,Disgruntled Nobleman,Is there something else you wanted to know?,다른 게 더 궁금한가?,M1Q3ANOBMAN,,,,,0,0
+62794,Creature,Disgruntled Nobleman,"Mmm, nothing comes to mind. At least, nothing now that Formosa and Meldanen are no longer at each other's throats.","흠, 딱히 떠오르는 건 없군. 포르모사와 멜다넨이 서로 으르렁거리던 것도 이제 끝났으니.",M1Q3ANOBMAN,,,,,0,0
+62795,Creature,Disgruntled Nobleman,"Lord Meldanen has been stirring up trouble, but I do not wish to speak of it.","멜다넨 경이 말썽을 일으킨 건 맞지만, 더 말하고 싶지 않군.",M1Q3ANOBMAN,,,,,0,0
+62796,Creature,Disgruntled Nobleman,"Er... No, I don't think I shall go into the subject in detail. I don't find your manner... eh... entreating. Besides, Meldanen is a dangerous man to gossip about.","음... 아니, 자세한 얘기는 꺼내지 않겠네. 자네 태도가 영 내키지 않아. 게다가 멜다넨에 대해 떠벌리다간 위험하거든.",M1Q3ANOBMAN,,,,,0,0
+62797,Creature,Disgruntled Nobleman,"Well now, I wouldn't mind spending a few more moments in your delightful company. Lean in close, now. From what I've heard, Meldanen recently accquired a young woman for his amusement.","흠, 자네 정도면 잠시 더 상대해 줘도 되겠지. 이리 가까이. 들리는 말로는 멜다넨이 최근에 자기 흥미를 위해 젊은 여자를 들여왔다더군.",M1Q3ANOBMAN,,,,,0,0
+62798,Creature,Disgruntled Nobleman,"<StartCheck>[Failure]</Start> I don't spread rumors. Besides, Meldanen is not known for his patience or gentle business acumen. I do not wish to be on his bad side.","<StartCheck>[실패]</Start> 소문을 퍼뜨릴 생각은 없네. 게다가 멜다넨은 인내도, 온건한 장사수완도 모르는 인물이지. 그와 틀어지고 싶지 않다네.",M1Q3ANOBMAN,,,,,0,0
+62799,Creature,Disgruntled Nobleman,"His mansion is in the northwest part of the district if you wish to visit him yourself. I would advise against it, however.",직접 찾아갈 셈이면 저택은 지구 북서쪽에 있지. 다만 말리겠네.,M1Q3ANOBMAN,,,,,0,0
+62800,Creature,Disgruntled Nobleman,"<StartCheck>[Success]</Start> I suppose there's no way for the wizard to know, is there? Well... word is that Meldanen recently accquired a young woman for his amusement.","<StartCheck>[성공]</Start> 그 마법사가 알 길은 없겠지, 그렇지? ...그래, 들리는 말로는 멜다넨이 최근 자신의 흥미를 위해 젊은 여자를 들였다고 하더군.",M1Q3ANOBMAN,,,,,0,0
+62801,Creature,Disgruntled Nobleman,"He won't let her out, and the rumors say that she's rather strange...perhaps not quite human. The gods only know what he wants with her. Rather sordid business, no?","그녀를 밖으로 내보내지도 않고, 소문으론 좀 수상한 처자라네... 완전히 인간은 아닐지도. 신들만이 그의 의도를 알겠지. 꽤 추잡한 일이야, 안 그런가?",M1Q3ANOBMAN,,,,,0,0
+62802,Creature,Disgruntled Nobleman,"At any rate, if you want you can see for yourself. Meldanen's estate is in the northwest. I wouldn't advise going there, though...he won't see you.",어쨌든 직접 확인하고 싶다면 북서쪽 멜다넨 영지로 가 보게. 추천하진 않지만... 자네를 만나 주지도 않을 걸세.,M1Q3ANOBMAN,,,,,0,0
+62803,Creature,Disgruntled Nobleman,"Nothing. Well, there was some sort of affair with Lord Meldanen, but it has apparently been resolved. I assume it was some sort of scandal.","없어. 뭐, 멜다넨 경과 무슨 소동이 있긴 했지만, 이미 수습된 듯하네. 아마 한바탕 스캔들이었겠지.",M1Q3ANOBMAN,,,,,0,0
+62804,Creature,Disgruntled Nobleman,"I heard he was hoarding food or some such, but all is quiet now.","식량을 비축했다느니 어쩌니 하는 얘길 들었지만, 지금은 조용해.",M1Q3ANOBMAN,,,,,0,0
+62805,Creature,Disgruntled Nobleman,"I have paid close attention to what has been said of the plague, but there is little real information. I don't know if I can help you.","역병 소식엔 귀를 기울여 왔지만, 실속 있는 정보는 드물더군. 자네에게 도움이 될지는 모르겠네.",M1Q3ANOBMAN,,,,,0,0
+62806,Creature,Disgruntled Nobleman,"As you will. Try to speak a little faster, I don't have all day.",좋을 대로. 말은 좀 빠르게 하지. 내게도 시간은 소중하네.,M1Q3ANOBMAN,,,,,0,0
+62807,Creature,Disgruntled Nobleman,What do you want to know?,무얼 알고 싶은가?,M1Q3ANOBMAN,,,,,0,0
+62808,Creature,Disgruntled Nobleman,"I pay no attention to the ramblings of the lower classes, and I assure you that Blacklake nobles do not spread rumors. I cannot help you.",하층민의 지껄임엔 귀 기울이지 않아. 검은호수의 귀족들이라면 소문을 퍼뜨리지도 않지. 도와줄 수 없다.,M1Q3ANOBMAN,,,,,0,0
+62809,Creature,Disgruntled Nobleman,"Certainly not. The Blacklake maintains strict control on all animals. There is even a zoo, but there is hardly anything there I would call strange.","전혀. 검은호수는 동물 관리를 엄격히 한다. 동물원도 있긴 하지만, 별로 '이상하다' 할 만한 건 없지.",M1Q3ANOBMAN,,,,,0,0
+62810,Creature,Disgruntled Nobleman,"I have no idea what you are looking for, or would consider ""odd."" The zoo's in the northeast if you want to see for yourself.","자네가 뭘 찾는지, '별난' 게 뭔지 난 모른다. 보고 싶으면 북동쪽에 있는 동물원으로 가 보게.",M1Q3ANOBMAN,,,,,0,0
+62811,Creature,Disgruntled Nobleman,"Is there something else you need, then?",그럼 또 필요한 게 있나?,M1Q3ANOBMAN,,,,,0,0
+62812,Creature,Disgruntled Nobleman,"I couldn't say. Lord Montgomery ""Sureshot"" is the proprietor. You will have to speak with him if you wish a definitive answer.","모르겠군. 몽고메리 경, '백발백중'이 그곳 주인이다. 확답이 필요하면 직접 물어보게.",M1Q3ANOBMAN,,,,,0,0
+62813,Creature,Disgruntled Nobleman,The zoo's in the northeast part of the district if you haven't already been.,동물원은 지구 북동쪽에 있다. 아직 안 가 봤다면 말이야.,M1Q3ANOBMAN,,,,,0,0
+62814,Creature,Disgruntled Nobleman,Why have you intruded? Get out! Out! Filthy evil beast!,왜 침입했지? 꺼져! 당장! 더러운 악귀 같으니!,M1Q3ANOBMAN,,,,,0,0
+64216,Creature,Disgruntled Nobleman,I don't welcome strangers in my estate! ,내 저택에 뜨내기는 환영하지 않아!,M1Q3ANOBMAN,,,,,0,0

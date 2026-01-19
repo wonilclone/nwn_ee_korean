@@ -1,0 +1,21 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+14929,PC,Player Character,I need some spellcasting equipment.,주문 시전 장비가 필요합니다.,m1q01a03eltr,m1_openstore_mag,[지능 보통],,,0,0
+14930,PC,Player Character,"Me need some spell-stuff now, please.",나 주문 물건 지금 필요해. 부탁.,m1q01a03eltr,m1_openstore_mag,[지능 낮음],,,0,0
+14931,PC,Player Character,What kind of guild is this?,이 조합은 어떤 곳인가요?,m1q01a03eltr,,[지능 보통],,,0,0
+14932,PC,Player Character,Me not know what guild is. You tell?,나 조합이 뭔지 몰라. 말해 줘?,m1q01a03eltr,,[지능 낮음],,,0,0
+14933,PC,Player Character,I've never told you my name before.,전에 제 이름을 말씀드린 적이 없는데요.,m1q01a03eltr,,m1s3aeltoclg05,,,0,0
+14934,PC,Player Character,Me not tell name. How you know?,나 이름 말 안 했어. 어떻게 알아?,m1q01a03eltr,,m1s3aeltoclg06,,,0,0
+14935,PC,Player Character,I must be on my way.,이제 가봐야겠습니다.,m1q01a03eltr,,[지능 보통],,,0,0
+14936,PC,Player Character,Me go back to adventure-stuff now. Bye.,나 이제 모험하러 가. 잘 있어.,m1q01a03eltr,,[지능 낮음],,,0,0
+14937,PC,Player Character,I would like to join the guild.,조합에 가입하고 싶습니다.,m1q01a03eltr,,m1s3aeltoclg05,,,0,0
+14938,PC,Player Character,Me like to would join your guild.,나 너희 조합 가입하고 싶어.,m1q01a03eltr,,m1s3aeltoclg06,,,0,0
+14939,PC,Player Character,Evaluate me for guild membership.,조합 가입 심사를 해 주세요.,m1q01a03eltr,,m1s3aeltoclg07,,,0,0
+14940,PC,Player Character,Me do something to be guild member. You judge me.,나 조합 회원 되려고 뭐 할게. 너 판단해.,m1q01a03eltr,,m1s3aeltoclg08,,,0,0
+14941,PC,Player Character,"Okay, bye.","좋아, 그럼 이만.",m1q01a03eltr,,[지능 낮음],,,0,0
+14942,PC,Player Character,Have you special equipment available for guild members?,조합 회원 전용 특별 장비가 있나요?,m1q01a03eltr,m1_openstore_spc,[지능 보통],,,0,0
+14943,PC,Player Character,Yes.,그래.,m1q01a03eltr,,,,,0,0
+14944,PC,Player Character,No.,아니.,m1q01a03eltr,,,,,0,0
+14945,PC,Player Character,Here is my 200 gold. Let me take the test again.,여기 금화 200개입니다. 다시 시험 보게 해주세요.,m1q01a03eltr,m1s3eltrslg02,m1s3aeltoclg11,,,0,0
+14946,PC,Player Character,You take gold. Me try again.,너 금화 받아. 나 다시 해 볼래.,m1q01a03eltr,m1s3eltrslg02,m1s3aeltoclg12,,,0,0
+14947,PC,Player Character,"Farewell, then.",그럼 이만.,m1q01a03eltr,,[지능 보통],,,0,0
+14948,PC,Player Character,Maybe you gots special stuff for guild members?,조합 회원 전용 좋은 물건 있지?,m1q01a03eltr,m1_openstore_spc,[지능 낮음],,,0,0

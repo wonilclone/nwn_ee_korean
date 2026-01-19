@@ -1,0 +1,63 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12825,Creature,Yuan-Ti Priest,Yuan-Ti Priest,유안티 사제,M3Q4H_YUANTI,,,,,0,0
+68353,Creature,Yuan-Ti Priest,"Die, mammal scum!",죽어라 포유류 쓰레기야!,M3Q4H_YUANTI,,,,,0,0
+24689,Creature,Young Cockatrice,Young Cockatrice,어린 코카트리스,M1Q4DCOCKATRICE,,,,,0,0
+24705,Creature,Young Woman,Young Woman,젊은 여자,M1S04CGROUPIEF,,,,,0,0
+24706,Creature,Young Man,Young Man,젊은 남자,M1S04CGROUPIEM,,,,,0,0
+25944,Dialog,YARI,"Heheh. You know, I would have thought that killing the Helmites of this place once would be enough... but no... ","헤헤헤. 있잖아, 여기 헬름 신도들을 한 번 죽이면 끝일 줄 알았는데... 아니더라고...",M1Q6F03YARI,,,,,0,0
+25945,Dialog,YARI,"Next thing you know, they're raising up all over! Lucky thing I trapped myself in here. Yeah... LUCKY!! DAMMIT!!","어느새 사방에서 다 일어나더라고! 여기 갇힌 게 다행이지 뭐야. 그래... 다행이라고!! 젠장!!",M1Q6F03YARI,,,,,0,0
+25946,Dialog,YARI,Desther's men? Desther's!? Desther is a tool like everyone. Like you. Some of us are just happy to serve.,데스터 부하냐고? 데스터!? 데스터는 그냥 도구야. 너처럼. 우리 중 일부는 기꺼이 섬길 뿐이지.,M1Q6F03YARI,,,,,0,0
+25947,Dialog,YARI,His time is done. He should have accepted the glorious role he was given. He only delays the inevitable.,그의 시대는 끝났어. 주어진 영광스러운 역할을 받아들였어야지. 피할 수 없는 걸 미루고만 있잖아.,M1Q6F03YARI,,,,,0,0
+25948,Dialog,YARI,"Invader?! I know the truth! You know nothing! We are all tools for the greater glory! You, me, Desther!",침입자?! 난 진실을 알아! 넌 아무것도 몰라! 우리 모두 위대한 영광을 위한 도구야! 너도 나도 데스터도!,M1Q6F03YARI,,,,,0,0
+25949,Dialog,YARI,"You... you will pay as well. And Neverwinter. The past comes to haunt, and you will be the dead ones soon enough.","너... 너도 대가를 치를 거야. 네버윈터도. 과거가 복수하러 돌아오면 너희가 곧 죽은 자가 될 거야.",M1Q6F03YARI,,,,,0,0
+25950,Dialog,YARI,No more truth for you! No more! You'll learn what you need as you are fed through it! HAAAAAhaaaaahahaa!,더 이상 진실은 없어! 없다고! 그 속으로 던져지면서 배우게 될 거야! 하아아아하하하하아!!,M1Q6F03YARI,,,,,0,0
+25951,Dialog,YARI,You? You want more? You get nothing! NOTHING! My masters will punish you all for the past! For the Future!,뭐? 더 원해? 아무것도 못 얻어! 아무것도! 내 주인들이 과거 때문에 너희 모두를 벌할 거야! 미래를 위해!,M1Q6F03YARI,,,,,0,0
+25952,Dialog,YARI,An honor to die for the Old Ones! Desther needs to learn this! The People of the Eye must serve! You too! All of Neverwinter will!,태고의 존재들을 위해 죽는 건 영광이야! 데스터도 이걸 배워야 해! 눈동자 교단은 섬겨야 해! 너도! 네버윈터 전체가!,M1Q6F03YARI,,,,,0,0
+25953,Dialog,YARI,"Your time comes! Your time comes! After mine, after Desther's, but not before Neverwinter! HAAAAAhahahahaha!!!","너의 때가 온다! 너의 때가 온다! 내 다음에, 데스터 다음에. 하지만 네버윈터보다는 먼저 아니야! 하아아아하하하하아!!!",M1Q6F03YARI,,,,,0,0
+25954,Dialog,YARI,What? Yes! Yesssssss! Open the door! Set me free and I will... uh... follow you. Yesssss!,"뭐? 좋아! 좋아아아아! 문을 열어! 날 풀어주면... 어... 따라갈게. 좋아아아!",M1Q6F03YARI,,,,,0,0
+25955,Dialog,YARI,Yesss... free! FREE!! I will tell the Old Ones of your foolishness and weakness! Your time comes! It COMES!!!!,그래애... 자유다! 자유야!! 태고의 존재들에게 네 어리석음과 약함을 고할 거야! 너의 때가 온다! 온다아아!!!!,M1Q6F03YARI,m1q6f3yarislg01,,,,0,0
+25956,Dialog,YARI,Forever? Sealed Forever!? It changes nothing! NOTHING!! You'll pay! All of Neverwinter will pay!,영원히? 영원히 봉인!? 아무것도 안 바뀌어! 아무것도!! 대가를 치를 거야! 네버윈터 전부가!,M1Q6F03YARI,,,,,0,0
+26334,Creature,Yari the Knife,the Knife,칼잡이,M1Q6F3YARI,,,,,0,0
+26335,Creature,Yari the Knife,Yari,야리,M1Q6F3YARI,,,,,0,0
+32776,Dialog,YESGAR,Foolish hero! Yesgar will smash you!,멍청한 영웅 놈! 예스가르가 부셔버린다!,M2Q1YESGAR,nw_d1_attonend02,,,vs_fjalekm_057,0,0
+32777,Dialog,YESGAR,Yesgar is glad that you spare his life.,예스가르 목숨 살려줘서 기뻐.,M2Q1YESGAR,nw_d1_j_surr01,,,vs_fjalekm_059,0,0
+32778,Dialog,YESGAR,"Yesgar not dead yet, puny <race> runt!",예스가르 아직 안 죽었어. 쪼끄만 <race> 새끼!,M2Q1YESGAR,nw_d1_attonend02,,,,0,0
+32779,Dialog,YESGAR,Yesgar will tell you secret about young girl Shaldrissa. Then you let Yesgar live?,예스가르가 어린 계집 샬드리사 비밀 알려줄게. 그러면 예스가르 살려줄 거야?,M2Q1YESGAR,,,,,0,0
+32780,Dialog,YESGAR,Wait! Spare Yesgar's life!,잠깐! 예스가르 목숨 살려줘!,M2Q1YESGAR,,,,vs_fjalekm_058,0,0
+32781,Dialog,YESGAR,You are a kind and merciful <man/woman>! Life is better than ear. Wait... (slice) AH! That smarts.,넌 착하고 자비로운 <man/woman>이야! 목숨이 귀보다 낫지. 잠깐... (썩둑) 아앗! 따가워.,M2Q1YESGAR,m2q5yesgear,,,,0,0
+32782,Dialog,YESGAR,Yesgar meet Shaldrissa when hiding out at Inn in Port Llast. She smitten with Yesgar's manly physique. She manipulate Yesgar into kidnapping her. ,예스가르 라스트 항구 여관에 숨어 있을 때 샬드리사 만났어. 걔가 예스가르 남자다운 몸에 반했어. 걔가 예스가르 꼬드겨서 자기 납치하게 만들었어.,M2Q1YESGAR,,,,,0,0
+32783,Dialog,YESGAR,"Yesgar tell truth! Shaldrissa want me to run away with her! She to blame, not Yesgar! She want money!","예스가르 진실 말해! 샬드리사가 같이 도망치자고 했어! 잘못은 걔 거야, 예스가르 아니야! 걔가 돈 원했어!",M2Q1YESGAR,m2q1yesgar001,,,,0,0
+32784,Dialog,YESGAR,"<StartCheck>[Success]</Start> Okay, don't hurt Yesgar! Me get Shaldrissa drunk. She so drunk she agree to all Yesgar's wants. Heh. She quite a feisty girl. ","<StartCheck>[성공]</Start> 알았어, 예스가르 때리지 마! 내가 샬드리사 취하게 했어. 걔 너무 취해서 예스가르 원하는 거 다 따랐어. 헤헤. 꽤 불같은 계집이야.",M2Q1YESGAR,,,,,0,0
+32785,Dialog,YESGAR,<StartCheck>[Failure]</Start> Me tell truth! Now let Yesgar go!,<StartCheck>[실패]</Start> 나 진실 말했어! 이제 예스가르 보내줘!,M2Q1YESGAR,,,,,0,0
+32786,Dialog,YESGAR,Yesgar doesn't have any money to give. Yesgar is an outlaw.,예스가르 줄 돈 없어. 예스가르는 무법자야.,M2Q1YESGAR,,,,,0,0
+32787,Dialog,YESGAR,"Don't kill Yesgar! Yesgar was lying. There is a chest behind Yesgar. In it is a key. ",예스가르 죽이지 마! 예스가르 거짓말했어. 예스가르 뒤에 상자 있어. 안에 열쇠 있어.,M2Q1YESGAR,,,,,0,0
+32788,Dialog,YESGAR,The key will open iron door at south of dungeon. That is where Yesgar has treasure. Can Yesgar go now?,열쇠로 던전 남쪽 철문 열 수 있어. 거기 예스가르 보물 있어. 이제 예스가르 가도 돼?,M2Q1YESGAR,,,,,0,0
+32789,Dialog,YESGAR,"Don't kill Yesgar! Yesgar was lying. There is a chest behind Yesgar. In it is a key. ",예스가르 죽이지 마! 예스가르 거짓말했어. 예스가르 뒤에 상자 있어. 안에 열쇠 있어.,M2Q1YESGAR,,,,,0,0
+32790,Dialog,YESGAR,"Shaldrissa not so pure-hearted. Yesgar not kidnap her, she run away with Yesgar! Her idea!","샬드리사 그렇게 순진 안 해. 예스가르 납치 안 했어, 걔가 예스가르랑 도망친 거야! 걔 아이디어!",M2Q1YESGAR,,,,,0,0
+32791,Dialog,YESGAR,Good. Yesgar always tell truth. Can Yesgar go now?,좋아. 예스가르 항상 진실 말해. 이제 예스가르 가도 돼?,M2Q1YESGAR,,,,,0,0
+32792,Dialog,YESGAR,Yesgar bother you no more.,예스가르 더 이상 안 귀찮게 해.,M2Q1YESGAR,,,,vs_fjalekm_056,0,0
+32793,Dialog,YESGAR,"Take the ear, Yesgar won't bother you again. ","귀 가져가. 예스가르 다시 안 귀찮게 해.",M2Q1YESGAR,,,,,0,0
+38990,Dialog,YESOGRE,Boss say no hurt you.,두목이 안 때리래.,M2Q5YESOGRE,,,,,0,0
+38991,Dialog,YESOGRE,"Nice cave, yuh?","좋은 동굴이지, 응?",M2Q5YESOGRE,,,,,0,0
+38992,Dialog,YESOGRE,"Now boss go, we live in mines.","이제 두목 떠났어, 우리 광산에 살아.",M2Q5YESOGRE,,,,,0,0
+38993,Dialog,YESOGRE,"Ungh, no attack now. You go.","으응, 이제 안 공격해. 너 가.",M2Q5YESOGRE,,,,,0,0
+40713,Creature,Yuan-Ti Conjurer,Yuan-Ti Conjurer,유안티 소환술사,2Q4E_YUANTICONJ|2Q4E_Y_FAKE_01,,,,,0,0
+40714,Creature,Yuan-Ti Necromancer,Yuan-Ti Necromancer,유안티 강령술사,2Q4E_YUANTI|2Q4E_Y_FAKE_02,,,,,0,0
+40823,Creature,Yuan-Ti,Yuan-Ti,유안티,M2Q05CYUANTI,,,,,0,0
+40878,Creature,Yesgar,Yesgar,예스가르,M2Q1CYESGAR,,,,,0,0
+47069,Creature,Yusam,Yusam,유삼,YUSAM3Q11,,,,,0,0
+64418,Dialog,YARIDOOR,This door has been sealed forever.,이 문은 영원히 봉인되었다.,M1Q6F3YARIDOOR,,,,,0,0
+64419,Dialog,YARIDOOR,The locking mechanism on the door would allow you to open it or jam it closed permanently.,문의 잠금 장치를 조작하면 문을 열거나 영구적으로 걸어 잠글 수 있다.,M1Q6F3YARIDOOR,,,,,0,0
+65210,Creature,Young Troll,Young Troll,어린 트롤,M2Q2_TROLL,,,,,0,0
+65345,Dialog,YUANTI,Your soul shall be mine!,네 영혼은 내 것이다!,2Q4_YUANTI,,,,,0,0
+65346,Dialog,YUANTIFAKE,"I am invincible, fool! Suffering shall be your only reward!","난 무적이다, 바보야! 고통만이 네 유일한 보상이 될 거다!",2Q4_YUANTIFAKE,,,,,0,0
+65347,Dialog,YUANTIFAKE,I bask in the glory of Shar and she is with me!,나는 샤의 영광 속에 있고 그녀가 나와 함께한다!,2Q4_YUANTIFAKE,,,,,0,0
+65348,Dialog,YUANTIFAKE,I stand in the dark light of Shar and she is my armor.,나는 샤의 어둠의 빛 속에 서 있고 그녀가 나의 갑옷이다.,2Q4_YUANTIFAKE,,,,,0,0
+65349,Dialog,YUANTIFAKE,Your powers are feeble against the powers of Shar weakling.,"네 힘은 샤의 힘 앞에 보잘것없다, 약골아.",2Q4_YUANTIFAKE,,,,,0,0
+65350,Dialog,YUANTIFAKE,"Nothing can touch us, fool! Prepare for death!","아무것도 우릴 건드리지 못해, 바보야! 죽을 준비나 해!",2Q4_YUANTIFAKE,,,,,0,0
+68356,Creature,Yuan-Ti Mage,Yuan-Ti Mage,유안티 마법사,M3Q4H_YUANMAGE,,,,,0,0
+68357,Creature,Yuan-Ti Warrior,Yuan-Ti Warrior,유안티 투사,M3Q4H_YUANWAR,,,,,0,0
+109792,Dialog,YJ_CUT1,"""Slay the mortal!""","필멸자를 죽여라!",YJ_CUT1,,,,c_devil_bat2,0,0
+109793,Dialog,YJ_CUT2,"""But... but this is <CUSTOM77777>! The devil-slayer of Waterdeep!""","하... 하지만 이자는 <CUSTOM77777>입니다! 워터딥의 마귀 사냥꾼이라고요!",YJ_CUT2,,,,c_behold_slct,0,0
+109794,Dialog,YJ_CUT3,"""Silence! Slay it or I will show you pain beyond belief!""","닥쳐! 죽여라. 안 그러면 상상도 못 할 고통을 보여주마!",YJ_CUT3,,,,c_devil_bat1,0,0
+109795,Dialog,YJ_CUT4,"""Yes... yes great one!""","예... 예, 위대하신 분이시여!",YJ_CUT4,,,,c_behold_bat1,0,0

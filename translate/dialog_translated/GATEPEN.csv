@@ -1,0 +1,46 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19351,Dialog,GATEPEN,"Hail, good <sir/madam>! The Wailing Death has taken a heavy toll beyond these gates. The Peninsula is a dangerous place and we're restricting access on Lady Aribeth's orders.","안녕하시오, <sir/madam>! 울부짖는 죽음 역병이 이 문 너머에 큰 피해를 입혔소. 반도는 위험한 곳이라 아리베스 경의 명으로 출입을 제한하고 있소.",M1Q1_GATEPEN,,,,,0,0
+19352,Dialog,GATEPEN,Be careful. There's plenty of danger afoot.,조심하시오. 위험이 도처에 있소.,M1Q1_GATEPEN,,,,,0,0
+19353,Dialog,GATEPEN,"Yes, yes. On your way, then.","알았소, 알았소. 그럼 가시오.",M1Q1_GATEPEN,,,,,0,0
+19354,Dialog,GATEPEN,I'll be keeping my eye on you... ,지켜보고 있겠소...,M1Q1_GATEPEN,,,,,0,0
+19355,Dialog,GATEPEN,"I see. A little on the slow side, are we?","그렇군. 좀 둔한 편인가?",M1Q1_GATEPEN,,,,,0,0
+19356,Dialog,GATEPEN,I'd be happy to answer a question or two. What do you want to know?,질문 한두 개 정도는 기꺼이 답해드리겠소. 뭘 알고 싶소?,M1Q1_GATEPEN,,,,,0,0
+19357,Dialog,GATEPEN,"I suppose I can answer a question for you, <lad/lass>. Go ahead.","질문 하나 정도는 답해줄 수 있겠군, <lad/lass>. 물어보시오.",M1Q1_GATEPEN,,,,,0,0
+19358,Dialog,GATEPEN,I'll answer one of your questions... if it doesn't take long.,질문 하나는 답해드리겠소... 오래 안 걸린다면.,M1Q1_GATEPEN,,,,,0,0
+19359,Dialog,GATEPEN,"Well, Commander Sebile came tearing through here on militia orders a while back... but I probably shouldn't be talking about that. There are enough rumors in this city already without me adding to them.","글쎄, 세빌 사령관이 얼마 전 민병대 명령을 받고 급히 지나갔소... 하지만 그 얘긴 하면 안 되겠지. 이 도시엔 이미 소문이 넘쳐나니 내가 보탤 건 없소.",M1Q1_GATEPEN,,,,,0,0
+19360,Dialog,GATEPEN,It's pretty bad - I certainly wouldn't go in unequipped. Gate Captain Kipp can brief you once you're on the other side.,꽤 심각하오 - 장비 없이 들어가는 건 권하지 않소. 건너편에 가면 수문장 킵이 설명해줄 거요.,M1Q1_GATEPEN,,,,,0,0
+19361,Dialog,GATEPEN,"There's not much there, to be honest. With the prison at the top of the rise and all, most reputable folk and businesses steer clear. You should probably talk to Gate Captain Kipp on the other side - he can fill you in.","솔직히 별거 없소. 언덕 위에 감옥이 있다 보니 평판 있는 사람들과 상점들은 다 피하지. 건너편에 있는 수문장 킵과 얘기해보시오 - 자세히 알려줄 거요.",M1Q1_GATEPEN,,,,,0,0
+19362,Dialog,GATEPEN,Is there something else you wanted to know?,다른 알고 싶은 거 있소?,M1Q1_GATEPEN,,,,,0,0
+19363,Dialog,GATEPEN,<StartCheck>[Success]</Start> I suppose you're right... Apparently there's been a bit of a prison break. She got sent in to mop up. ,<StartCheck>[성공]</Start> 말이 맞는 것 같소... 탈옥 사건이 좀 있었다고 하더군. 사령관이 수습하러 들어갔소.,M1Q1_GATEPEN,,,,,0,0
+19364,Dialog,GATEPEN,"If you want to know more about it, I suggest you talk to Commander Sebile in person. She'll have a temporary headquarters set up somewhere in the District.","더 알고 싶으면 세빌 사령관을 직접 만나보시오. 지구 어딘가에 임시 본부를 차렸을 거요.",M1Q1_GATEPEN,,,,,0,0
+19365,Dialog,GATEPEN,"<StartCheck>[Failure]</Start> Sorry, but you'll have to go through official channels and that means talking to Commander Sebile directly. Apparently she's set up a headquarters somewhere in the District.","<StartCheck>[실패]</Start> 미안하지만 공식 경로를 따라야 하오. 그러려면 세빌 사령관과 직접 얘기해야 하오. 지구 어딘가에 본부를 차렸다고 하더군.",M1Q1_GATEPEN,,,,,0,0
+19366,Dialog,GATEPEN,"The Wailing's taken its toll beyond these gates, <lad/lass>, making it a dangerous place. Lady Aribeth has ordered us to restrict access.","울부짖는 죽음 역병이 이 문 너머에 큰 피해를 줬소, <lad/lass>. 위험한 곳이 됐지. 아리베스 경이 출입을 제한하라고 명령했소.",M1Q1_GATEPEN,,,,,0,0
+19367,Dialog,GATEPEN,"Harrumph... I thought we were keeping ragamuffins like you on the other side of this gate. The Wailing's taken its toll out there, making it a dangerous place.","흥... 당신 같은 누더기는 이 문 저쪽에 두는 줄 알았는데. 울부짖는 죽음 역병이 저쪽에 큰 피해를 줘서 위험한 곳이 됐소.",M1Q1_GATEPEN,,,,,0,0
+19368,Dialog,GATEPEN,Well... I suppose telling my fellow <race> folk can't hurt. Apparently there's been a bit of a prison break. She got sent in to mop up... ,"글쎄... 같은 <race> 동포에게 말하는 건 괜찮겠지. 탈옥 사건이 좀 있었다고 하더군. 사령관이 수습하러 들어갔소...",M1Q1_GATEPEN,,,,,0,0
+19369,Dialog,GATEPEN,"A little on the slow side, are we?","좀 둔한 편인가?",M1Q1_GATEPEN,,,,,0,0
+19370,Dialog,GATEPEN,I'd be happy to answer a question or two. What do you want to know?,질문 한두 개 정도는 기꺼이 답해드리겠소. 뭘 알고 싶소?,M1Q1_GATEPEN,,,,,0,0
+19371,Dialog,GATEPEN,"I suppose I can answer a question for you, <lad/lass>. Go ahead.","질문 하나 정도는 답해줄 수 있겠군, <lad/lass>. 물어보시오.",M1Q1_GATEPEN,,,,,0,0
+19372,Dialog,GATEPEN,I'll answer one of your questions... if it doesn't take long.,질문 하나는 답해드리겠소... 오래 안 걸린다면.,M1Q1_GATEPEN,,,,,0,0
+19373,Dialog,GATEPEN,"Aye, my friend Haggard was with the night watch in the Academy when the caravan bringing the creatures came in. We found him with his throat slit after the attack, amidst the empty cages.","그렇소, 내 친구 해거드가 생명체들을 싣고 온 대상이 도착했을 때 사관학교 야간 경비를 서고 있었소. 공격 후에 빈 우리들 사이에서 목이 베인 채로 발견됐지.",M1Q1_GATEPEN,,,,,0,0
+19374,Dialog,GATEPEN,"He had the symbol of Helm, god of all us guard-folk, gripped tightly in his frozen palm. We buried him with it that way... to honor him.","그의 얼어붙은 손에는 우리 경비병들의 신 헬름의 상징이 꽉 쥐어져 있었소. 그를 기리기 위해 그 상태로 묻어줬소.",M1Q1_GATEPEN,,,,,0,0
+19375,Dialog,GATEPEN,"The rest, as they say, is history. Freed from their cages, the Waterdhavian creatures fled into the night and are out there still, hiding from us all.","나머지는 다 아시다시피 역사가 됐소. 우리에서 풀려난 워터딥의 생명체들은 밤 속으로 도망쳐서 아직도 우리 모두에게서 숨어 있소.",M1Q1_GATEPEN,,,,,0,0
+19376,Dialog,GATEPEN,Is there anything else you need?,다른 필요한 거 있소?,M1Q1_GATEPEN,,,,,0,0
+19377,Dialog,GATEPEN,"The person who knows the most about it is probably Lady Aribeth, herself. She's a good soul and deadly smart, too. I'm glad she's in charge of the search.","그것에 대해 가장 잘 아는 사람은 아마 아리베스 경 본인일 거요. 선한 영혼에 무섭게 똑똑하지. 수색을 그분이 맡아서 다행이오.",M1Q1_GATEPEN,,,,,0,0
+19378,Dialog,GATEPEN,"Too little to cure it, too much to live without fear. Our only hope is to find those Waterdhavian creatures. Without them, every last one of us is dead.","치료하기엔 너무 적고, 두려움 없이 살기엔 너무 많소. 유일한 희망은 그 워터딥의 생명체들을 찾는 것뿐이오. 그것들 없이는 우리 모두 죽소.",M1Q1_GATEPEN,,,,,0,0
+19379,Dialog,GATEPEN,Only that I've lost half my family to it by now. I stand guard in their memory.,지금까지 가족의 절반을 역병에 잃었다는 것뿐이오. 그들을 기억하며 경비를 서고 있소.,M1Q1_GATEPEN,,,,,0,0
+19380,Dialog,GATEPEN,"You might want to check with the Helmite, Desther. He's new here but has been putting his own health at risk to offer Helm's blessings to the plague-struck.","헬름 신도 데스터에게 확인해보시오. 여기 온 지 얼마 안 됐지만 자기 건강을 무릅쓰고 역병에 걸린 이들에게 헬름의 축복을 베풀고 있소.",M1Q1_GATEPEN,,,,,0,0
+19381,Dialog,GATEPEN,"Do you have a speech impediment? Oh, nevermind.","말을 못하시오? 아, 됐소.",M1Q1_GATEPEN,,,,,0,0
+19382,Dialog,GATEPEN,"Can't say I know her as well as Abbot Fenthick, har har! But, aye, she has been a pillar of this community since she was knighted.","펜딕 수도원장만큼 잘 안다고는 못하겠소, 하하! 하지만 그래, 기사 작위를 받은 이래로 이 공동체의 기둥이었소.",M1Q1_GATEPEN,,,,,0,0
+19383,Dialog,GATEPEN,"I'm afraid not. We must respect a person's privacy, especially in sad times such as this.","안 되겠소. 개인의 사생활을 존중해야 하오, 특히 이런 슬픈 시기에는.",M1Q1_GATEPEN,,,,,0,0
+19384,Dialog,GATEPEN,"If you want the dirt on Lady Aribeth, you'd best talk to good sir Fenthick. They're due to be married in the summer, you know... ","아리베스 경에 대한 뒷이야기를 원하면 펜딕 씨에게 물어보시오. 올여름에 결혼할 예정이라오, 아시오?",M1Q1_GATEPEN,,,,,0,0
+19385,Dialog,GATEPEN,"Aye, there was word she'd be hiring on adventurers to help fill the ranks. What can I do for you then?","그래, 대열을 채우기 위해 모험가들을 고용할 거라는 얘기가 있었소. 그래서 뭘 도와드릴까?",M1Q1_GATEPEN,,,,,0,0
+19386,Dialog,GATEPEN,*sigh* Thank goodness it wasn't a permanent appointment.,*한숨* 다행히 정식 임명은 아니었군.,M1Q1_GATEPEN,,,,,0,0
+19387,Dialog,GATEPEN,"We're under pretty tight lockdown right now. Unless you have the express permission of either Lady Aribeth or Lord Nasher, you'll have to remain in the Core.","지금 꽤 엄격한 봉쇄 상태요. 아리베스 경이나 나셰르 영주님의 명확한 허가가 없으면 중심부에 머물러야 하오.",M1Q1_GATEPEN,,,,,0,0
+19388,Dialog,GATEPEN,"Look, the Wailing Death isn't a joke. I don't even want to think of the number of dead. I heard Lord Nasher has even come down with it.","이봐요, 울부짖는 죽음 역병은 장난이 아니오. 죽은 사람 수는 생각하고 싶지도 않소. 나셰르 영주님마저 걸렸다는 소문을 들었소.",M1Q1_GATEPEN,,,,,0,0
+19389,Dialog,GATEPEN,"We have no cure, not yet, so we're doing the only thing we know how to do. Limit movement, limit exposure. In other words... you'd better have clearance.","치료제가 없소, 아직은. 그래서 할 수 있는 일만 하고 있소. 이동 제한, 노출 제한. 다시 말해... 허가가 있어야 하오.",M1Q1_GATEPEN,,,,,0,0
+19390,Dialog,GATEPEN,Then don't waste my time.,그럼 내 시간 낭비하지 마시오.,M1Q1_GATEPEN,,,,,0,0
+19391,Dialog,GATEPEN,I assume you have proper quarantine clearance to enter the District?,지구에 들어갈 적절한 검역 허가가 있으시오?,M1Q1_GATEPEN,,,,,0,0
+19392,Dialog,GATEPEN,"In other words, if you want access to the Peninsula district, you're going to need quarantine clearance, understood?","다시 말해, 반도 지구에 들어가려면 검역 허가가 필요하오, 알겠소?",M1Q1_GATEPEN,,,,,0,0
+19393,Dialog,GATEPEN,"Well, now that you're here, you'd damn well better have quarantine clearance if you intend to go back... Lady Aribeth's orders... ","글쎄, 여기 온 이상 돌아가려면 검역 허가가 있어야 하오... 아리베스 경의 명령이오...",M1Q1_GATEPEN,,,,,0,0
+57048,Dialog,GATEPEN,"Not so bad anymore. I'm not sure what all happened, but I understand that the prisoners have been dealt with. It's pretty quiet now.","이제 그렇게 나쁘지 않소. 무슨 일이 있었는지는 잘 모르지만 죄수들은 처리됐다고 알고 있소. 지금은 꽤 조용하오.",M1Q1_GATEPEN,,,,,0,0
+57049,Dialog,GATEPEN,"Hmm, I don't think there's much to do anymore. The problem in the prison has been dealt with, as far as I know.","흠, 이제 할 일이 별로 없을 것 같소. 내가 아는 한 감옥 문제는 해결됐소.",M1Q1_GATEPEN,,,,,0,0

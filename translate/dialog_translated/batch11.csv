@@ -1,0 +1,1355 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+99649,,,"""Endure Elements.""","""원소 인내.""",,,,,,0,0
+99650,,,"""Endurance.""","""지구력.""",,,,,,0,0
+99651,,,"""Eagle's Splendor.""","""독수리의 위엄.""",,,,,,0,0
+99652,,,"""Divine Favor.""","""신의 은총.""",,,,,,0,0
+99653,,,"""Create Undead.""","""언데드 생성.""",,,,,,0,0
+99654,,,"""Continual Flame.""","""계속되는 불꽃.""",,,,,,0,0
+99655,,,"""Clarity.""","""명료함.""",,,,,,0,0
+99656,,,"""Cat's Grace.""","""고양이의 우아함.""",,,,,,0,0
+99657,,,"""Bull's Strength.""","""황소의 근력.""",,,,,,0,0
+99658,,,"""I've changed my mind.""","""마음이 바뀌었어.""",,,,,,0,0
+99659,,,"""Cast on all the party members.""","""파티원 전체에게 시전해.""",,,,,,0,0
+99660,,,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 시전해.""",,,,,,0,0
+99661,,,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 시전해.""",,,,,,0,0
+99662,,,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 시전해.""",,,,,,0,0
+99663,,,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 시전해.""",,,,,,0,0
+99664,,,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 시전해.""",,,,,,0,0
+99665,,,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 시전해.""",,,,,,0,0
+99666,,,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 시전해.""",,,,,,0,0
+99667,,,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 시전해.""",,,,,,0,0
+99668,,,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 시전해.""",,,,,,0,0
+99669,,,"""Cast it on my animal companion.""","""내 동물 동반자에게 시전해.""",,,,,,0,0
+99670,,,"""Cast it on my familiar.""","""내 사역마에게 시전해.""",,,,,,0,0
+99671,,,"""Cast it on me.""","""나에게 시전해.""",,,,,,0,0
+99672,,,"""Cast it on yourself.""","""네 자신에게 시전해.""",,,,,,0,0
+99673,,,"""Aura of Glory.""","""영광의 오라.""",,,,,,0,0
+99674,,,"""Animate Dead.""","""사체 소생.""",,,,,,0,0
+99675,,,"""What was it you wanted to say earlier?""","""아까 하려던 말이 뭐였어?""",,,,,,0,0
+99676,,,"""Let's stop and talk for a moment.""","""잠깐 멈추고 얘기하자.""",,,,,,0,0
+99677,,,"""All right, enough of this discussion.""","""좋아, 이 얘기는 그만하자.""",,,,,,0,0
+99678,,,"""How are you feeling?""","""기분이 어때?""",,,,,,0,0
+99679,,,"""What are you going to do when all this is over?""","""이게 다 끝나면 뭘 할 거야?""",,,,,,0,0
+99680,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99681,,,"""A sound plan. I'm impressed, Aribeth.""","""좋은 계획이야. 대단하네, 아리베스.""",,,,,,0,0
+99682,,,"""No, I won't allow it.""","""안 돼, 허락 안 해.""",,,,,,0,0
+99683,,,"""Assuming you can leave Cania...""","""카니아를 떠날 수 있다면...""",,,,,,0,0
+99684,,,"""To what end?""","""무슨 목적으로?""",,,,,,0,0
+99685,,,"""Why did you almost become one of the Lost?""","""왜 잃어버린 자들 중 하나가 될 뻔했어?""",,,,,,0,0
+99686,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99687,,,"""The Hells can pose no threat to any of us.""","""지옥은 우리 누구에게도 위협이 안 돼.""",,,,,,0,0
+99688,,,"""You're welcome, Aribeth. I'm happy to have helped.""","""천만에, 아리베스. 도울 수 있어서 기뻐.""",,,,,,0,0
+99689,,,"""Hmph. I should have known to leave things be...""","""흥. 내버려 둘걸...""",,,,,,0,0
+99690,,,"""What is it like to be a Spirit?""","""영혼으로 사는 건 어때?""",,,,,,0,0
+99691,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99692,,,"""Much as I expected, then.""","""예상대로군.""",,,,,,0,0
+99693,,,"""It must be horrible for you!""","""끔찍하겠다!""",,,,,,0,0
+99694,,,"""It could be worse...""","""더 나쁠 수도 있지...""",,,,,,0,0
+99695,,,"""What exactly happened in Neverwinter, anyway?""","""네버윈터에서 정확히 무슨 일이 있었어?""",,,,,,0,0
+99696,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99697,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99698,,,"""How did you die? How did you end up here?""","""어떻게 죽었어? 여기 어떻게 온 거야?""",,,,,,0,0
+99699,,,"""But they defeated you. They turned you back...""","""하지만 패배했잖아. 물리쳤잖아...""",,,,,,0,0
+99700,,,"""Why would you do such a thing?""","""왜 그런 짓을 했어?""",,,,,,0,0
+99701,,,"""Whose army did you lead?""","""누구 군대를 이끌었어?""",,,,,,0,0
+99702,,,"""But who did you serve?""","""하지만 누구를 섬겼어?""",,,,,,0,0
+99703,,,"""But before that. There was a time you called the city home.""","""하지만 그 전에. 그 도시를 고향이라 부르던 때가 있었잖아.""",,,,,,0,0
+99704,,,"""Why would you wish to be ignorant?""","""왜 모르고 싶어해?""",,,,,,0,0
+99705,,,"""No, that's it.""","""아니, 됐어.""",,,,,,0,0
+99706,,,"""I think we need to part ways.""","""헤어져야 할 것 같아.""",,,,,,0,0
+99707,,,"""All right, fine. Stay with me, then.""","""알았어, 좋아. 그럼 같이 가.""",,,,,,0,0
+99708,,,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",,,,,,0,0
+99709,,,"""Leave me. Now.""","""떠나. 지금.""",,,,,,0,0
+99710,,,"""I want to change your tactics.""","""전술을 바꾸고 싶어.""",,,,,,0,0
+99711,,,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",,,,,,0,0
+99712,,,"""I don't want you to cast any spells until I say otherwise.""","""내가 다르게 말하기 전까지 주문 쓰지 마.""",,,,,,0,0
+99713,,,"""I want you to go ahead and cast spells on your own.""","""알아서 주문 써도 돼.""",,,,,,0,0
+99714,,,"""Do not try to use dispel magic spells to remove disabling effects from party members.""","""파티원의 무력화 효과를 해제하려고 마법 해제 주문 쓰지 마.""",,,,,,0,0
+99715,,,"""Use dispel magic spells to remove disabling effects from party members.""","""파티원의 무력화 효과를 마법 해제 주문으로 해제해.""",,,,,,0,0
+99716,,,"""Do not disarm traps that you see.""","""보이는 함정 해제하지 마.""",,,,,,0,0
+99717,,,"""Disarm any traps that you see.""","""보이는 함정은 다 해제해.""",,,,,,0,0
+99718,,,"""Don't try to be stealthy anymore.""","""더 이상 은신하지 마.""",,,,,,0,0
+99719,,,"""Stay stealthy, but only until the next fight.""","""은신해, 근데 다음 전투 전까지만.""",,,,,,0,0
+99720,,,"""I need you to be stealthy right now.""","""지금 당장 은신해야 해.""",,,,,,0,0
+99721,,,"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자 열기 실패해도 도와주지 마.""",,,,,,0,0
+99722,,,"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자 열기 실패하면 도와줘.""",,,,,,0,0
+99723,,,"""I want to change the distance you stay away from me.""","""나와의 거리를 바꾸고 싶어.""",,,,,,0,0
+99724,,,"""Stay a long distance away from me.""","""멀리 떨어져 있어.""",,,,,,0,0
+99725,,,"""Keep a medium distance.""","""중간 거리를 유지해.""",,,,,,0,0
+99726,,,"""Stay close.""","""가까이 있어.""",,,,,,0,0
+99727,,,"""Go ahead and attack as soon as you see enemies.""","""적 보이면 바로 공격해.""",,,,,,0,0
+99728,,,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격할 때까지 공격하지 마.""",,,,,,0,0
+99729,,,"""I want to adjust your equipment.""","""장비를 조정하고 싶어.""",,,,,,0,0
+99730,,,"""I want you to use [BLACKGUARD SPECIAL BUFFS]""","""[흑기사 특수 강화] 써줘.""",,,,,,0,0
+99731,,,"""I need you to cast a group of buffing spells.""","""강화 주문을 시전해줘.""",,,,,,0,0
+99732,,,"""Never mind.""","""됐어.""",,,,,,0,0
+99733,,,"""Cast every buffing spell you have.""","""가진 강화 주문 다 써.""",,,,,,0,0
+99734,,,"""Cast all of your buffing spells that last a long time.""","""오래가는 강화 주문 다 써.""",,,,,,0,0
+99735,,,"""Cast all of your short duration buffing spells.""","""짧은 강화 주문 다 써.""",,,,,,0,0
+99736,,,"""I need you to cast a spell.""","""주문 하나 시전해줘.""",,,,,,0,0
+99738,,,"""Ultravision.""","""초시야.""",,,,,,0,0
+99739,,,"""True Seeing.""","""진실의 시야.""",,,,,,0,0
+99740,,,"""Summon Creature IX.""","""생명체 소환 9.""",,,,,,0,0
+99741,,,"""Summon Creature VIII.""","""생명체 소환 8.""",,,,,,0,0
+99742,,,"""Summon Creature VII.""","""생명체 소환 7.""",,,,,,0,0
+99743,,,"""Summon Creature VI.""","""생명체 소환 6.""",,,,,,0,0
+99744,,,"""Summon Creature V.""","""생명체 소환 5.""",,,,,,0,0
+99745,,,"""Summon Creature IV.""","""생명체 소환 4.""",,,,,,0,0
+99746,,,"""Summon Creature III.""","""생명체 소환 3.""",,,,,,0,0
+99747,,,"""Summon Creature II.""","""생명체 소환 2.""",,,,,,0,0
+99748,,,"""Summon Creature I.""","""생명체 소환 1.""",,,,,,0,0
+99749,,,"""Stoneskin.""","""돌 피부.""",,,,,,0,0
+99750,,,"""Shield.""","""방패.""",,,,,,0,0
+99751,,,"""Shadow Shield.""","""그림자 방패.""",,,,,,0,0
+99752,,,"""See Invisibility.""","""투명체 보기.""",,,,,,0,0
+99753,,,"""Resistance.""","""저항.""",,,,,,0,0
+99754,,,"""Resist Elements.""","""원소 저항.""",,,,,,0,0
+99755,,,"""Remove Curse.""","""저주 해제.""",,,,,,0,0
+99756,,,"""Remove Blindness/Deafness.""","""실명/청각 상실 해제.""",,,,,,0,0
+99757,,,"""Protection From Spells.""","""주문으로부터 보호.""",,,,,,0,0
+99758,,,"""Protection From Elements.""","""원소로부터 보호.""",,,,,,0,0
+99759,,,"""Premonition.""","""예지.""",,,,,,0,0
+99760,,,"""Owl's Wisdom.""","""올빼미의 지혜.""",,,,,,0,0
+99761,,,"""Mind Blank.""","""정신 차단.""",,,,,,0,0
+99762,,,"""Mass Haste.""","""대규모 가속.""",,,,,,0,0
+99763,,,"""Mage Armor.""","""마법학자 갑옷.""",,,,,,0,0
+99764,,,"""Light.""","""빛.""",,,,,,0,0
+99765,,,"""Lesser Mind Blank.""","""하위 정신 차단.""",,,,,,0,0
+99766,,,"""Knock.""","""문 두드리기.""",,,,,,0,0
+99767,,,"""Invisibility Sphere.""","""투명 구체.""",,,,,,0,0
+99768,,,"""Invisibility.""","""투명화.""",,,,,,0,0
+99769,,,"""Improved Invisibility.""","""우수한 투명화.""",,,,,,0,0
+99770,,,"""Haste.""","""가속.""",,,,,,0,0
+99771,,,"""Greater Stoneskin.""","""상급 돌 피부.""",,,,,,0,0
+99772,,,"""Ghostly Visage.""","""유령의 형상.""",,,,,,0,0
+99773,,,"""Fox's Cunning""","""여우의 교활함.""",,,,,,0,0
+99774,,,"""Find Traps.""","""함정 찾기.""",,,,,,0,0
+99775,,,"""Ethereal Visage.""","""에테르 형상.""",,,,,,0,0
+99776,,,"""Energy Buffer.""","""에너지 완충기.""",,,,,,0,0
+99777,,,"""No, I've changed my mind.""","""아니, 마음이 바뀌었어.""",,,,,,0,0
+99778,,,"""Yes, go ahead.""","""응, 해.""",,,,,,0,0
+99779,,,"""Endure Elements.""","""원소 인내.""",,,,,,0,0
+99780,,,"""Endurance.""","""지구력.""",,,,,,0,0
+99781,,,"""Eagle's Splendor.""","""독수리의 위엄.""",,,,,,0,0
+99782,,,"""Create Undead.""","""언데드 생성.""",,,,,,0,0
+99783,,,"""Continual Flame.""","""계속되는 불꽃.""",,,,,,0,0
+99784,,,"""Clarity.""","""명료함.""",,,,,,0,0
+99785,,,"""Cat's Grace.""","""고양이의 우아함.""",,,,,,0,0
+99786,,,"""Bull's Strength.""","""황소의 근력.""",,,,,,0,0
+99788,,,"""Cast on all the party members.""","""파티원 전체에게 시전해.""",,,,,,0,0
+99789,,,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 시전해.""",,,,,,0,0
+99790,,,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 시전해.""",,,,,,0,0
+99791,,,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 시전해.""",,,,,,0,0
+99792,,,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 시전해.""",,,,,,0,0
+99793,,,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 시전해.""",,,,,,0,0
+99794,,,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 시전해.""",,,,,,0,0
+99795,,,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 시전해.""",,,,,,0,0
+99796,,,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 시전해.""",,,,,,0,0
+99797,,,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 시전해.""",,,,,,0,0
+99802,,,"""Animate Dead.""","""사체 소생.""",,,,,,0,0
+99803,,,"""What was it you wanted to say earlier?""","""아까 하려던 말이 뭐였어?""",,,,,,0,0
+99804,,,"""Let's stop and talk for a moment.""","""잠깐 멈추고 얘기하자.""",,,,,,0,0
+99805,,,"""All right, enough of this discussion.""","""좋아, 이 얘기는 그만하자.""",,,,,,0,0
+99806,,,"""How are you feeling?""","""기분이 어때?""",,,,,,0,0
+99807,,,"""What are you going to do when all this is over?""","""이게 다 끝나면 뭘 할 거야?""",,,,,,0,0
+99808,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99809,,,"""A sound plan. I'm impressed.""","""좋은 계획이야. 대단하네.""",,,,,,0,0
+99810,,,"""No, I'll never let you.""","""안 돼, 절대 허락 안 해.""",,,,,,0,0
+99811,,,"""Assuming you can leave Cania...""","""카니아를 떠날 수 있다면...""",,,,,,0,0
+99812,,,"""To what end?""","""무슨 목적으로?""",,,,,,0,0
+99813,,,"""Why did you almost become one of the Lost?""","""왜 잃어버린 자들 중 하나가 될 뻔했어?""",,,,,,0,0
+99814,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99815,,,"""I'm glad I could help.""","""도울 수 있어서 기뻐.""",,,,,,0,0
+99816,,,"""You're welcome.""","""천만에.""",,,,,,0,0
+99817,,,"""What have I done?""","""내가 뭘 한 거야?""",,,,,,0,0
+99818,,,"""What is it like to be a Spirit?""","""영혼으로 사는 건 어때?""",,,,,,0,0
+99819,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99820,,,"""I think you're mad.""","""미친 것 같아.""",,,,,,0,0
+99821,,,"""That's disgusting!""","""역겹군!""",,,,,,0,0
+99822,,,"""Sounds pleasant...""","""좋아 보이네...""",,,,,,0,0
+99823,,,"""What exactly happened in Neverwinter, anyway?""","""네버윈터에서 정확히 무슨 일이 있었어?""",,,,,,0,0
+99824,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99825,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99826,,,"""How did you die? How did you end up here?""","""어떻게 죽었어? 여기 어떻게 온 거야?""",,,,,,0,0
+99827,,,"""Yet they defeated you...""","""하지만 패배했잖아...""",,,,,,0,0
+99828,,,"""But why? What drove you to such an end?""","""하지만 왜? 뭐가 그런 결말로 몰았어?""",,,,,,0,0
+99829,,,"""You didn't love Fenthick?""","""펜딕을 사랑하지 않았어?""",,,,,,0,0
+99830,,,"""Whose army did you lead?""","""누구 군대를 이끌었어?""",,,,,,0,0
+99831,,,"""But before that. You lived there, didn't you?""","""하지만 그 전에. 거기 살았잖아, 그렇지?""",,,,,,0,0
+99832,,,"""What hypocrisy?""","""무슨 위선?""",,,,,,0,0
+99833,,,"""Not right now, Aribeth. Stay warm.""","""지금은 아니야, 아리베스. 따뜻하게 지내.""",,,,,,0,0
+99834,,,"""Yes, I'd like you to travel with me again.""","""응, 다시 같이 다녔으면 해.""",,,,,,0,0
+99835,,,"""Not really. I just wanted to rub your nose in it a little.""","""아니. 그냥 좀 놀려주고 싶었어.""",,,,,,0,0
+99836,,,"""Come along but keep your comments to yourself.""","""같이 와, 근데 잔소리는 하지 마.""",,,,,,0,0
+99837,,,"""Sorry, not now. We'll talk about it later.""","""미안, 지금은 안 돼. 나중에 얘기하자.""",,,,,,0,0
+99838,,,"""Yes, Aribeth?""","""왜, 아리베스?""",,,,,,0,0
+99839,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99840,,,"""Well I have no time to hear your religious lectures.""","""종교 강의 들을 시간 없어.""",,,,,,0,0
+99841,,,"""You're the expert. Explain to me hell's nature...""","""네가 전문가잖아. 지옥의 본질을 설명해줘...""",,,,,,0,0
+99842,,,"""Do you take issue with your punishment?""","""받은 벌에 불만 있어?""",,,,,,0,0
+99843,,,"""The Hells are a little colder than I expected, that's for sure.""","""지옥이 예상보다 좀 춥긴 하네, 확실히.""",,,,,,0,0
+99844,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99845,,,"""Why ice and lava? It doesn't make sense.""","""왜 얼음과 용암이야? 말이 안 돼.""",,,,,,0,0
+99846,,,"""Mephistopheles is coming back, isn't he?""","""메피스토펠레스가 돌아오는 거지?""",,,,,,0,0
+99847,,,"""Why would he just abandon this place?""","""왜 이곳을 그냥 버린 거야?""",,,,,,0,0
+99848,,,"""Temple training?""","""신전 훈련?""",,,,,,0,0
+99849,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99850,,,"""Keep them to yourself. I have no time to hear them.""","""혼자 간직해. 들을 시간 없어.""",,,,,,0,0
+99851,,,"""Forget Neverwinter! It was nothing but a city of fools.""","""네버윈터는 잊어! 바보들의 도시일 뿐이야.""",,,,,,0,0
+99852,,,"""What memories?""","""무슨 기억?""",,,,,,0,0
+99853,,,"""Not happy memories, I assume?""","""행복한 기억은 아니겠지?""",,,,,,0,0
+99854,,,"""Why would Lord Nasher have been scared?""","""나셰르 경은 왜 두려워했어?""",,,,,,0,0
+99855,,,"""Tell me of the hanging.""","""교수형에 대해 말해줘.""",,,,,,0,0
+99856,,,"""Tell me of Fenthick and Desther.""","""펜딕과 데스터에 대해 말해줘.""",,,,,,0,0
+99857,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99858,,,"""That's a responsibility I'll shoulder, then.""","""그럼 그 책임은 내가 지지.""",,,,,,0,0
+99859,,,"""Don't worry. All we want is the Gatekeeper's.""","""걱정 마. 우리가 원하는 건 문지기 것뿐이야.""",,,,,,0,0
+99860,,,"""If that's what it takes to do good in the world.""","""세상에 선을 행하는 데 필요하다면.""",,,,,,0,0
+99861,,,"""Hold on, we need to free her first.""","""잠깐, 먼저 그녀를 풀어줘야 해.""",,,,,,0,0
+99862,,,"""Stop lecturing me, all right? I can handle it!""","""설교 좀 그만해, 알았어? 나도 할 수 있어!""",,,,,,0,0
+99863,,,"""What's the matter? Scared I might learn yours?""","""왜? 네 것도 알게 될까 봐 무서워?""",,,,,,0,0
+99864,,,"""I'll keep it in mind.""","""명심할게.""",,,,,,0,0
+99865,,,"""You give sound advice, Aribeth. I will heed it well.""","""좋은 조언이야, 아리베스. 잘 새겨들을게.""",,,,,,0,0
+99866,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99867,,,"""Where do you recognize it from?""","""어디서 본 건데?""",,,,,,0,0
+99868,,,"""Innocent?""","""순수했다고?""",,,,,,0,0
+99869,,,"""You thought you loved him.""","""그를 사랑한다고 생각했던 거잖아.""",,,,,,0,0
+99870,,,"""You were young.""","""넌 어렸어.""",,,,,,0,0
+99871,,,"""But you've never been here before.""","""하지만 여기 온 적 없잖아.""",,,,,,0,0
+99872,,,"""Where do you recognize the tree from?""","""그 나무를 어디서 본 건데?""",,,,,,0,0
+99873,,,"""I think we've found the Knower of Places, then.""","""그럼 장소를 아는 자를 찾은 것 같군.""",,,,,,0,0
+99874,,,"""Don't get your hopes up.""","""너무 기대하지 마.""",,,,,,0,0
+99875,,,"""It's just any old tree.""","""그냥 평범한 나무일 뿐이야.""",,,,,,0,0
+99876,,,"""What tree?""","""무슨 나무?""",,,,,,0,0
+99877,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99878,,,"""Yes, I'm plotting a painful demise for the little beast...""","""응, 그 작은 짐승의 고통스러운 죽음을 계획 중이야...""",,,,,,0,0
+99879,,,"""And I couldn't help see the look of interest on yours...""","""네 얼굴에서 관심 있는 표정을 못 본 척할 수가 없네...""",,,,,,0,0
+99880,,,"""You'd be shocked too. It's rather cold down here.""","""너도 놀랄 거야. 여긴 꽤 추우니까.""",,,,,,0,0
+99881,,,"""Keep you hands to yourself, ghost. I'm not interested.""","""손 치워, 유령. 관심 없어.""",,,,,,0,0
+99882,,,"""Hey now, I thought you were supposed to be good!""","""이봐, 넌 선한 사람이었잖아!""",,,,,,0,0
+99883,,,"""Mind your own business... And stop laughing.""","""네 일이나 신경 써... 그리고 웃지 마.""",,,,,,0,0
+99884,,,"""Well keep your hands to yourself. I'm not interested.""","""손 치워. 관심 없어.""",,,,,,0,0
+99885,,,"""Are you flirting with me?""","""나한테 작업 거는 거야?""",,,,,,0,0
+99886,,,"""Expectations? I thought you were supposed to be good!""","""기대? 넌 선한 사람이었잖아!""",,,,,,0,0
+99887,,,"""Well I'm not interested, all right?""","""관심 없어, 알았어?""",,,,,,0,0
+99888,,,"""A surprise but not an unwelcome one."" [SET ROMANCE TO 1]","""놀랍지만 반갑지 않은 건 아니야."" [로맨스 1로 설정]""",,,,,,0,0
+99889,,,"""Love?""","""사랑?""",,,,,,0,0
+99890,,,"""I... I just don't think I'm ready for it, Aribeth.""","""나... 아직 준비가 안 된 것 같아, 아리베스.""",,,,,,0,0
+99891,,,"""When it comes to dead girls? Yes. Definitely frightening.""","""죽은 여자라면? 그래. 확실히 무서워.""",,,,,,0,0
+99892,,,"""Frightening? Terrifying is more like it!""","""무섭다고? 공포스럽다가 맞아!""",,,,,,0,0
+99893,,,"""No, I think I like it..."" [SET ROMANCE TO 1]","""아니, 좋은 것 같아..."" [로맨스 1로 설정]""",,,,,,0,0
+99894,,,"""Whoa, slow down. Marry?""","""잠깐, 천천히. 결혼?""",,,,,,0,0
+99895,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99896,,,"""All I feel is the weight of dust and time.""","""느껴지는 건 먼지와 시간의 무게뿐이야.""",,,,,,0,0
+99897,,,"""It serves you right, you traitor...""","""쌤통이야, 배신자...""",,,,,,0,0
+99898,,,"""Good, I'm glad I'm not the only one.""","""다행이야, 나만 그런 게 아니라서.""",,,,,,0,0
+99899,,,"""I'm sorry, I didn't mean to be so harsh.""","""미안해, 그렇게 심하게 말할 생각은 없었어.""",,,,,,0,0
+99900,,,"""Yes, I can. There's a happiness here.""","""응, 느껴져. 여기엔 행복이 있어.""",,,,,,0,0
+99901,,,"""All right, let's get down to business.""","""좋아, 본론으로 들어가자.""",,,,,,0,0
+99902,,,"""It's good to see you happy.""","""네가 행복해 보여서 좋아.""",,,,,,0,0
+99903,,,"""That's how you are, too, isn't it?""","""너도 그렇잖아, 그렇지?""",,,,,,0,0
+99904,,,"""It's all in your head. Now stop your prancing around.""","""다 네 머릿속 생각이야. 그만 들떠.""",,,,,,0,0
+99905,,,"""I just want to go home, Aribeth.""","""그냥 집에 가고 싶어, 아리베스.""",,,,,,0,0
+99906,,,"""Fine, I can feel it! But you can't make me like it...""","""좋아, 느껴져! 하지만 좋아하게 만들 순 없어...""",,,,,,0,0
+99907,,,"""Hope just gets you killed.""","""희망은 죽음을 부를 뿐이야.""",,,,,,0,0
+99908,,,"""Being trapped in hell put a damper on things...""","""지옥에 갇히니까 기분이 좀 가라앉네...""",,,,,,0,0
+99909,,,"""Let's just drop it, all right? We've got work to do.""","""그만하자, 알았어? 할 일이 있잖아.""",,,,,,0,0
+99910,,,"""You're right, I need to loosen up a little.""","""맞아, 좀 느긋해질 필요가 있어.""",,,,,,0,0
+99911,,,"""I'm not interested in a lecture on virtues, Aribeth.""","""덕목 강의에는 관심 없어, 아리베스.""",,,,,,0,0
+99912,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99913,,,"""Through that portal is vengeance, nothing more.""","""저 차원문 너머엔 복수가 있을 뿐이야.""",,,,,,0,0
+99914,,,"""True, I must face Mephistopheles with no evil in my heart.""","""맞아, 마음에 악을 품지 않고 메피스토펠레스를 상대해야 해.""",,,,,,0,0
+99915,,,"""Hope, then. It doesn't matter. Just follow.""","""그럼 희망이라 해. 상관없어. 그냥 따라와.""",,,,,,0,0
+99916,,,"""To each their own. For me, it is vengeance.""","""사람마다 다르지. 나에겐 복수야.""",,,,,,0,0
+99917,,,"""It's all right. I'm going with you.""","""괜찮아. 같이 갈게.""",,,,,,0,0
+99918,,,"""We all have devils on our back, Aribeth.""","""우리 모두 등에 악마를 업고 있어, 아리베스.""",,,,,,0,0
+99919,,,<StartAction>[Leave.]</Start>,<StartAction>[떠난다.]</Start>,,,,,,0,0
+99921,,,"""Nothing. Never mind...""","""아무것도. 됐어...""",,,,,,0,0
+99922,,,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 죄책감 느끼지 마.""",,,,,,0,0
+99923,,,"""You are right. I will not ask that of you.""","""네 말이 맞아. 그건 부탁 안 할게.""",,,,,,0,0
+99924,,,"""Don't you see? This is your atonement... It's all right...""","""모르겠어? 이게 네 속죄야... 괜찮아...""",,,,,,0,0
+99925,,,"""I just don't want to see you suffer so.""","""그냥 네가 그렇게 고통받는 걸 보기 싫어.""",,,,,,0,0
+99926,,,"""Yes, Aribeth. Dead and cold...""","""그래, 아리베스. 죽어서 차갑지...""",,,,,,0,0
+99927,,,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐!""",,,,,,0,0
+99928,,,"""If it means losing you, then no.""","""널 잃는다면, 안 돼.""",,,,,,0,0
+99929,,,"""Yes, I am sure.""","""응, 확실해.""",,,,,,0,0
+99931,,,"""I command you to pursue evil, not good."" [VFX, CHANGE HER SWORD VFX, CHANGE HER ALIGNMENT, CHANGE PC'S ALIGNMENT]","""선이 아니라 악을 추구하라 명한다."" [VFX, 검 VFX 변경, 성향 변경, PC 성향 변경]""",,,,,,0,0
+99933,,,"""That is all, Aribeth.""","""그게 다야, 아리베스.""",,,,,,0,0
+99934,,,"""That portal is the future, not the past.""","""저 차원문은 미래야, 과거가 아니라.""",,,,,,0,0
+99935,,,"""I'll be there. There, on the other side.""","""내가 거기 있을게. 저쪽 편에.""",,,,,,0,0
+99936,,,"""But you are loved.""","""하지만 넌 사랑받고 있어.""",,,,,,0,0
+99937,,,"""It's never too late, Aribeth.""","""절대 늦지 않았어, 아리베스.""",,,,,,0,0
+99938,,,"""Do you want me to?""","""내가 그러길 원해?""",,,,,,0,0
+99939,,,"""No, Aribeth. I never did.""","""아니, 아리베스. 한 번도 안 그랬어.""",,,,,,0,0
+99940,,,"""Well, we've had our fun but I wouldn't call it love...""","""음, 재미는 있었지만 사랑이라고 하긴...""",,,,,,0,0
+99941,,,"""Against my better judgment, I'm afraid I do."" [SET ROMANCE TO 2]","""이성적으론 안 되는데, 그런 것 같아."" [로맨스 2로 설정]""",,,,,,0,0
+99942,,,"""Yes, I do. With all my heart."" [SET ROMANCE TO 2]","""응, 사랑해. 진심으로."" [로맨스 2로 설정]""",,,,,,0,0
+99943,,,"[SHE IS PC'S TRUE LOVE] ""You are my one true love."" [SET ROMANCE TO 2]","[PC의 진정한 사랑] ""넌 내 유일한 진정한 사랑이야."" [로맨스 2로 설정]",,,,,,0,0
+99944,,,"""Save it for later, ghost.""","""나중에 해, 유령.""",,,,,,0,0
+99945,,,"""Spit it out, Aribeth...""","""어서 말해, 아리베스...""",,,,,,0,0
+99946,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99947,,,"""Well I have no time to hear your maddened prattling.""","""미친 소리 들을 시간 없어.""",,,,,,0,0
+99948,,,"""As you seem an expert, what is hell's nature, then?""","""전문가인 것 같으니, 지옥의 본질이 뭔데?""",,,,,,0,0
+99949,,,"""Do you take issue with your punishment?""","""받은 벌에 불만 있어?""",,,,,,0,0
+99950,,,"""How do you like it?""","""어때?""",,,,,,0,0
+99951,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+99952,,,"""Warmer I can understand but blacker?""","""더 따뜻하다는 건 알겠는데 더 어둡다고?""",,,,,,0,0
+99953,,,"""Planning a coup?""","""쿠데타를 계획하는 거야?""",,,,,,0,0
+99954,,,"""Why would he just abandon this place?""","""왜 이곳을 그냥 버린 거야?""",,,,,,0,0
+99955,,,"""Given the choice?""","""선택권이 주어진다면?""",,,,,,0,0
+99956,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99957,,,"""Then keep them to yourself.""","""그럼 혼자 간직해.""",,,,,,0,0
+99958,,,"""Forget Neverwinter! It was nothing but a city of fools.""","""네버윈터는 잊어! 바보들의 도시일 뿐이야.""",,,,,,0,0
+99959,,,"""What memories?""","""무슨 기억?""",,,,,,0,0
+99960,,,"""I would think that would make you happy.""","""그게 행복할 줄 알았는데.""",,,,,,0,0
+99961,,,"""Why would Lord Nasher have been scared?""","""나셰르 경은 왜 두려워했어?""",,,,,,0,0
+99962,,,"""Tell me of the hanging.""","""교수형에 대해 말해줘.""",,,,,,0,0
+99963,,,"""Tell me of Fenthick and Desther.""","""펜딕과 데스터에 대해 말해줘.""",,,,,,0,0
+99964,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99965,,,"""I like the way you think, Aribeth...""","""생각하는 방식이 마음에 들어, 아리베스...""",,,,,,0,0
+99966,,,"""Why bother? Mephistopheles already beat them once.""","""왜 귀찮게? 메피스토펠레스가 이미 한번 이겼잖아.""",,,,,,0,0
+99967,,,"""I don't think they're interested...""","""관심 없어 보이는데...""",,,,,,0,0
+99968,,,"""Too risky. Traitors can't be trusted...""","""너무 위험해. 배신자는 믿을 수 없어...""",,,,,,0,0
+99969,,,"""Read into it what you wish, dead one.""","""원하는 대로 해석해, 죽은 자.""",,,,,,0,0
+99970,,,"""I'm sorry. I didn't mean it that way, Aribeth.""","""미안해. 그런 뜻이 아니었어, 아리베스.""",,,,,,0,0
+99971,,,"""That's precisely what I'm implying. I have my eye on you...""","""딱 그 뜻이야. 널 지켜보고 있어...""",,,,,,0,0
+99972,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99973,,,"""Where do you recognize it from?""","""어디서 본 건데?""",,,,,,0,0
+99974,,,"""Burned it down?""","""불태웠다고?""",,,,,,0,0
+99975,,,"""You thought you loved him.""","""그를 사랑한다고 생각했던 거잖아.""",,,,,,0,0
+99976,,,"""You were young.""","""넌 어렸어.""",,,,,,0,0
+99977,,,"""But you've never been here before.""","""하지만 여기 온 적 없잖아.""",,,,,,0,0
+99978,,,"""Where do you recognize the tree from?""","""그 나무를 어디서 본 건데?""",,,,,,0,0
+99979,,,"""I think we've found the Knower of Places, then.""","""그럼 장소를 아는 자를 찾은 것 같군.""",,,,,,0,0
+99980,,,"""Don't get your hopes up. We have work to do.""","""너무 기대하지 마. 할 일이 있어.""",,,,,,0,0
+99981,,,"""It's just any old tree.""","""그냥 평범한 나무일 뿐이야.""",,,,,,0,0
+99982,,,"""What tree?""","""무슨 나무?""",,,,,,0,0
+99983,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99985,,,"""Well go savor it somewhere else.""","""다른 데 가서 음미해.""",,,,,,0,0
+99986,,,"""That's not all you're savoring...'","""음미하는 게 그것만은 아니겠지...""",,,,,,0,0
+99987,,,"""If you tell a soul, I'll gouge your eyes out...""","""누구한테든 말하면 눈알을 파버릴 거야...""",,,,,,0,0
+99989,,,"""Your life?""","""네 삶?""",,,,,,0,0
+99990,,,"""You hideous little blackmailer!""","""이 끔찍한 협박자 녀석!""",,,,,,0,0
+99991,,,"""Hands off, harlot. I'm not interested in your baited lures.""","""손 치워, 창녀. 네 미끼에 관심 없어.""",,,,,,0,0
+99992,,,"""Tit for tat, my dear. Now it's your turn.""","""눈엔 눈, 이엔 이야. 이제 네 차례야.""",,,,,,0,0
+99993,,,"""If I would have known you'd be so interested...""","""네가 그렇게 관심 있을 줄 알았으면...""",,,,,,0,0
+99994,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+99995,,,"""Deal with it, princess...""","""감당해, 공주님...""",,,,,,0,0
+99996,,,"""What's making you so uncomfortable?""","""뭐가 그렇게 불편해?""",,,,,,0,0
+99997,,,"""I don't like it here, either, but we need his help.""","""나도 여기 싫지만, 그의 도움이 필요해.""",,,,,,0,0
+99998,,,"""Nonsense. He's fast asleep.""","""말도 안 돼. 깊이 잠들어 있잖아.""",,,,,,0,0
+99999,,,"""Then what's the whole story?""","""그럼 전체 이야기가 뭔데?""",,,,,,0,0
+100000,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+100001,,,"""Through that portal is vengeance, nothing more.""","""저 차원문 너머엔 복수가 있을 뿐이야.""",,,,,,0,0
+100002,,,"""It's all right. I'm going with you.""","""괜찮아. 같이 갈게.""",,,,,,0,0
+100003,,,"""We all have devils on our back, Aribeth.""","""우리 모두 등에 악마를 업고 있어, 아리베스.""",,,,,,0,0
+100004,,,<StartAction>[Leave.]</Start>,<StartAction>[떠난다.]</Start>,,,,,,0,0
+100006,,,"""Nothing. Never mind...""","""아무것도. 됐어...""",,,,,,0,0
+100007,,,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 죄책감 느끼지 마.""",,,,,,0,0
+100008,,,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐!""",,,,,,0,0
+100009,,,"""If it means losing you, then no.""","""널 잃는다면, 안 돼.""",,,,,,0,0
+100010,,,"""Yes, I am sure.""","""응, 확실해.""",,,,,,0,0
+100012,,,"""I command you to pursue good, not evil."" [VFX, CHANGE HER SWORD VFX, CHANGE HER ALIGNMENT, CHANGE PC'S ALIGNMENT]","""악이 아니라 선을 추구하라 명한다."" [VFX, 검 VFX 변경, 성향 변경, PC 성향 변경]""",,,,,,0,0
+100014,,,"""That is all, Aribeth.""","""그게 다야, 아리베스.""",,,,,,0,0
+100015,,,"""What does it matter?""","""그게 뭐가 중요해?""",,,,,,0,0
+100016,,,"""Do you want me to?""","""내가 그러길 원해?""",,,,,,0,0
+100017,,,"""What are you about to do?""","""무슨 짓을 하려는 거야?""",,,,,,0,0
+100018,,,"""Then no, Aribeth. I never did...""","""그럼 아니야, 아리베스. 한 번도 안 그랬어...""",,,,,,0,0
+100019,,,"""Then yes, against my better judgment, I'm afraid I do."" [SET ROMANCE TO 2]","""그럼 그래, 이성적으론 안 되는데, 그런 것 같아."" [로맨스 2로 설정]""",,,,,,0,0
+100020,,,"""Then yes, with all the blackness of my heart..."" [SET ROMANCE TO 2]","""그럼 그래, 내 마음의 모든 어둠으로..."" [로맨스 2로 설정]""",,,,,,0,0
+100021,,,"[SHE IS PC'S TRUE LOVE] ""Then yes, you are my one true love."" [SET ROMANCE TO 2]","[PC의 진정한 사랑] ""그럼 그래, 넌 내 유일한 진정한 사랑이야."" [로맨스 2로 설정]",,,,,,0,0
+100022,,,"""No, Aribeth. I never did...""","""아니, 아리베스. 한 번도 안 그랬어...""",,,,,,0,0
+100023,,,"""Well, we've had our fun but I wouldn't call it love...""","""음, 재미는 있었지만 사랑이라고 하긴...""",,,,,,0,0
+100024,,,"""Against my better judgment, I'm afraid I do."" [SET ROMANCE TO 2]","""이성적으론 안 되는데, 그런 것 같아."" [로맨스 2로 설정]""",,,,,,0,0
+100025,,,"""Yes, with all the blackness of my heart..."" [SET ROMANCE TO 2]","""그래, 내 마음의 모든 어둠으로..."" [로맨스 2로 설정]""",,,,,,0,0
+100026,,,"[SHE IS PC'S TRUE LOVE] ""You are my one true love."" [SET ROMANCE TO 2]","[PC의 진정한 사랑] ""넌 내 유일한 진정한 사랑이야."" [로맨스 2로 설정]",,,,,,0,0
+100027,,,"""Come, gentle spirit. Let us finish what we started.","""와, 온화한 영혼이여. 시작한 걸 끝내자.""",,,,,,0,0
+100028,,,"""Rest here awhile. I will travel without you.""","""여기서 잠시 쉬어. 나 혼자 갈게.""",,,,,,0,0
+100029,,,"""Come, fell spirit. Let us finish what we started.""","""와, 사악한 영혼이여. 시작한 걸 끝내자.""",,,,,,0,0
+100030,,,"""Do what you will. I have no further use for you.""","""맘대로 해. 더 이상 쓸모없어.""",,,,,,0,0
+100031,,,"""Goodbye.""","""잘 가.""",,,,,,0,0
+100032,,,"""I understand you challenged Mephistopheles.""","""메피스토펠레스에게 도전했다고 들었어.""",,,,,,0,0
+100033,,,"""How did Mephistopheles respond?""","""메피스토펠레스는 뭐라고 했어?""",,,,,,0,0
+100034,,,"""Why is whether or not you loved him so important?""","""그를 사랑했는지 아닌지가 왜 그렇게 중요해?""",,,,,,0,0
+100035,,,"""Once you've embraced evil, there's no turning back.""","""일단 악을 받아들이면 돌이킬 수 없어.""",,,,,,0,0
+100036,,,"""Fine. Tyr chose you as his paladin, then. Do you doubt his wisdom?""","""좋아. 티르가 널 성기사로 선택했잖아. 그분의 지혜를 의심해?""",,,,,,0,0
+100037,,,"""Then pursue it now with all the blackness of your heart!""","""그럼 마음의 모든 어둠으로 지금 추구해!""",,,,,,0,0
+100038,,,"""You're in hell. It's a bit late to doubt your true nature.""","""지옥에 있잖아. 진정한 본성을 의심하기엔 좀 늦었어.""",,,,,,0,0
+100039,,,"""You were very good at being evil, Aribeth.""","""넌 악을 행하는 데 아주 능숙했어, 아리베스.""",,,,,,0,0
+100040,,,"""Don't you wish to be powerful? To have your vengeance?""","""강해지고 싶지 않아? 복수하고 싶지 않아?""",,,,,,0,0
+100041,,,"""Tyr chose you as his paladin. Do you doubt his wisdom?""","""티르가 널 성기사로 선택했잖아. 그분의 지혜를 의심해?""",,,,,,0,0
+100042,,,"""Fine. Once you've embraced evil, there's no turning back.""","""좋아. 일단 악을 받아들이면 돌이킬 수 없어.""",,,,,,0,0
+100043,,,"""You acted out of a sense of justice.""","""넌 정의감에서 행동했어.""",,,,,,0,0
+100044,,,"""Let Tyr decide if he will take you.""","""티르가 널 받아들일지 결정하게 해.""",,,,,,0,0
+100045,,,"""You did not act alone.""","""혼자 한 게 아니잖아.""",,,,,,0,0
+100046,,,"""Then be righteous, here in the depths of hell.""","""그럼 여기 지옥 깊은 곳에서 정의로워져.""",,,,,,0,0
+100047,,,"""Then it is Tyr's mistake, not yours.""","""그럼 티르의 실수지, 네 실수가 아니야.""",,,,,,0,0
+100048,,,"""If not for love, why did you do it?""","""사랑이 아니었다면, 왜 그랬어?""",,,,,,0,0
+100049,,,"""Mephistopheles wants you to feel that way.""","""메피스토펠레스가 네가 그렇게 느끼길 원해.""",,,,,,0,0
+100050,,,"""You were to marry. How could you not love him?""","""결혼할 예정이었잖아. 어떻게 사랑하지 않을 수 있어?""",,,,,,0,0
+100051,,,"""Mephistopheles is just toying with your emotions.""","""메피스토펠레스가 네 감정을 가지고 놀고 있을 뿐이야.""",,,,,,0,0
+100052,,,"""I live by my own laws as well.""","""나도 내 법칙대로 살아.""",,,,,,0,0
+100053,,,"""But what of morality, of good and evil?""","""하지만 도덕은? 선과 악은?""",,,,,,0,0
+100054,,,"""I think I know you from somewhere.""","""어디서 본 것 같아.""",,,,,,0,0
+100055,,,"""Why do you try to forget them?""","""왜 잊으려고 해?""",,,,,,0,0
+100056,,,"""I won't let that happen.""","""그렇게 안 되게 할 거야.""",,,,,,0,0
+100057,,,"""Fine, what do I care?""","""좋아, 내가 뭘 신경 쓰겠어?""",,,,,,0,0
+100058,,,"""I understand.""","""이해해.""",,,,,,0,0
+100059,,,"""You don't want that.""","""넌 그걸 원하지 않잖아.""",,,,,,0,0
+100060,,,"""Why did you attack me?""","""왜 공격했어?""",,,,,,0,0
+100061,,,"""I thought I knew you from somewhere.""","""어디서 본 것 같았어.""",,,,,,0,0
+100062,,,"""I had questions I wanted to ask you.""","""물어볼 게 있었어.""",,,,,,0,0
+100063,,,"""I believed you were making a mistake.""","""실수하고 있다고 생각했어.""",,,,,,0,0
+100064,,,"""I wanted to torture you.""","""고문하고 싶었어.""",,,,,,0,0
+100065,,,"""I needed your help.""","""네 도움이 필요했어.""",,,,,,0,0
+100066,,,"""I felt sorry for you.""","""안됐다고 생각했어.""",,,,,,0,0
+100067,,,"""You were cold so I warmed you.""","""추워 보여서 따뜻하게 해줬어.""",,,,,,0,0
+100068,,,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",,,,,,0,0
+100069,,,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",,,,,,0,0
+100070,,,"""Do you know the answer or don't you?""","""답을 알아, 몰라?""",,,,,,0,0
+100071,,,"""Please, m'Lady, you must help.""","""제발, 아리베스 경, 도와줘야 해.""",,,,,,0,0
+100072,,,"<StartCheck>[Persuade]</Start> ""Then tell me the answer.""","<StartCheck>[설득]</Start> ""그럼 답을 말해.""",,,,,,0,0
+100073,,,"""How have the gods spited you?""","""신들이 어떻게 널 괴롭혔어?""",,,,,,0,0
+100074,,,"""Who was this man you loved?""","""사랑했던 그 남자가 누구야?""",,,,,,0,0
+100079,,,"Blah Blah Blah, I'm the Knower of Names.","어쩌고저쩌고, 나는 이름의 현자야.",,,,,,0,0
+100091,,,"Rage, almost palpable, billows off the Quarry Boss like a stormcloud. The very walls seem to ripple and change in the wake of his anger.","거의 만질 수 있을 것 같은 분노가 채석장 감독에게서 폭풍구름처럼 피어오릅니다. 그의 분노에 벽마저 물결치며 변하는 것 같습니다.",,,,,,0,0
+100093,,,The pale white flesh of this muscular creature is scarred from countless beatings. A lifetime of hellish servitude is seeming less and less appealing to you.,"이 근육질 생명체의 창백한 살은 수없이 맞아서 흉터투성이입니다. 평생 지옥의 노예로 사는 것이 점점 매력적으로 느껴지지 않습니다.",,,,,,0,0
+100095,,,The fair skin of this once-comely Erinyes is leathery with scars and vericose veins and other vestiges of a too-hard life.,"한때 아름다웠던 이 에리니에스의 흰 피부는 흉터와 정맥류 그리고 너무 힘든 삶의 다른 흔적들로 가죽처럼 변해 있습니다.",,,,,,0,0
+100097,,,"The imp flaps its wings wearily, letting its arms and legs dangle limp after a hard day's work.","임프가 지친 듯 날개를 퍼덕이며, 고된 하루 일과 후 팔다리를 축 늘어뜨립니다.",,,,,,0,0
+100099,,,This half-conscious imp has had a nasty run-in with a Quarry Grinder. His arm is horribly mangled.,"이 반쯤 의식 잃은 임프는 채석장 분쇄기와 끔찍한 충돌을 했습니다. 팔이 심하게 뭉개져 있습니다.",,,,,,0,0
+100101,,,"Fierce-looking as he is, this man seems intensely bored. His dour expression seems well-suited to the gray pallor of his face.","험상궂은 외모에도 이 남자는 극도로 지루해 보입니다. 우울한 표정이 회색빛 창백한 얼굴과 잘 어울립니다.",,,,,,0,0
+100102,,,"Fierce-looking as she is, this woman seems intensely bored. Her dour expression seems well-suited to the gray pallor of her face.","험상궂은 외모에도 이 여자는 극도로 지루해 보입니다. 우울한 표정이 회색빛 창백한 얼굴과 잘 어울립니다.",,,,,,0,0
+100104,,,"This woman is stooped over a small bush, picking berries from it and placing them in a small pouch beside her on the ice.","이 여자는 작은 덤불 위에 몸을 굽히고, 열매를 따서 얼음 위 옆에 놓인 작은 주머니에 담고 있습니다.",,,,,,0,0
+100106,,,This Pit Fiend is has a stooped posture and its clawed hands are cracked and blistered from heavy labor.,"이 피트 핀드는 구부정한 자세를 하고 있으며 발톱 달린 손은 힘든 노동으로 갈라지고 물집이 잡혀 있습니다.",,,,,,0,0
+100111,,,"This ghostly spirit seems to flit in and out of existence, barely visible save for the layer of frost that clings to its features.","이 유령 같은 영혼은 존재했다 사라졌다 하는 것 같으며, 얼굴에 달라붙은 서리 층 외에는 거의 보이지 않습니다.",,,,,,0,0
+100113,,,The tavern keeper peers down at you with sullen eyes.,주점 주인이 침울한 눈으로 당신을 내려다봅니다.,,,,,,0,0
+100115,,,"This is one of the stranger tavernkeepers you've ever seen. Then again, this is probably one of the strangest taverns...","지금까지 본 주점 주인 중에서도 이상한 축에 속합니다. 물론, 이 주점도 가장 이상한 주점 중 하나겠지만...",,,,,,0,0
+100122,,,The Yawning Portal's cook is know for a temper as fiery as his ovens.,하품하는 차원문의 요리사는 그의 화덕만큼 불같은 성격으로 유명합니다.,,,,,,0,0
+100139,,,Outcast Devil,추방된 악마,,,,,,0,0
+100143,,,Alpha Winter Wolf,우두머리 겨울늑대,,,,,,0,0
+100165,,,"Holes have been cut and laced into the back of this bardswear, apparently to make room for wings.","이 음유시인 의복의 등에 구멍이 뚫려 끈으로 묶여 있는데, 분명 날개를 위한 공간을 만들기 위해서입니다.",,,,,,0,0
+100171,,,"This is a Stone Gargoyle Ear, seemingly broken off from one of the statues.","이것은 석상 가고일 귀로, 조각상 중 하나에서 부러진 것 같습니다.",,,,,,0,0
+100172,,,Githzerai Properties,기스제라이 속성,,,,,,0,0
+100173,,,Githzerai Strapping,기스제라이 띠,,,,,,0,0
+100174,,,"Worn by the Sensei, the spiritual and military leaders of the Githzerai, these woven strappings are adorned with passages from the Book of Zerthimon.","기스제라이의 정신적, 군사적 지도자인 사부가 착용하는 이 직조 띠에는 제르시몬의 책의 구절이 장식되어 있습니다.",,,,,,0,0
+100176,,,"This hand seems to have a life about it. It wriggles and writhes as you hold it, constantly gripping at your fingers.
+
+When properly thrown, it will latch onto nearby obstacles - provided there is something it can grab onto. Upon hooking onto something, it will pull its owner over to it, and place itself back in its owner's backpack.
+
+The Demonic Grappling Hand can also be used to manipulate some objects, like activating them, or pulling them closer to its owner.","이 손은 생명이 있는 것 같습니다. 잡고 있으면 꿈틀거리고 몸부림치며 끊임없이 손가락을 잡으려 합니다.
+
+제대로 던지면 근처 장애물에 달라붙습니다 - 잡을 수 있는 것이 있다면요. 무언가에 걸리면 주인을 그쪽으로 끌어당기고 다시 주인의 배낭에 들어갑니다.
+
+악마의 갈고리손은 일부 물체를 조작하는 데도 사용할 수 있습니다. 작동시키거나 주인 쪽으로 끌어당기는 것처럼요.",,,,,,0,0
+100177,,,Gruul's Bracer,그룰의 완갑,,,,,,0,0
+100179,,,"The Sleeping Man dreams more and more about his search, now, tossing and turning restlessly as I probe deeper into his thoughts. The search had led him to the vast wastes of Cania, well beyond the Gates. I could almost feel the biting cold he suffered, on the verge of death amidst the blinding snows. He had a ring that turned the whole world dark and marked the path that compelled him ever forward. Every step was agony but every step brought him closer to his quest's completion. Only at the end of the dream did the nature of that quest become clear. He sought the Knower of Places... Thus I learned the Fourth-Fold Mystery of the Sleeping Man. He has slept more peacefully ever since and he has not dreamed of his time in the wastes since.","잠자는 자는 이제 자신의 탐색에 대해 점점 더 많이 꿈꿉니다. 내가 그의 생각 깊이 파고들수록 그는 뒤척이며 불안하게 잠듭니다. 탐색은 그를 문 너머 카니아의 광활한 황무지로 이끌었습니다. 눈보라 속에서 죽음 직전에 그가 겪은 혹독한 추위를 거의 느낄 수 있었습니다. 그에게는 온 세상을 어둡게 하고 끊임없이 앞으로 나아가게 하는 길을 표시하는 반지가 있었습니다. 모든 발걸음이 고통이었지만 모든 발걸음이 그를 탐구의 완성에 더 가까이 가져왔습니다. 꿈 끝에서야 그 탐구의 본질이 분명해졌습니다. 그는 공간의 현자를 찾았던 것입니다... 이렇게 저는 잠자는 자의 넷째 수수께끼를 배웠습니다. 그 이후로 그는 더 평화롭게 잠들고 있으며 황무지에서의 시간을 꿈꾸지 않습니다.",,,,,,0,0
+100181,,,"Sensei Dharvana uses this amulet to focus on the dreams of the Sleeping Man. For those of sufficient mental acuity, simply wearing the amulet while in the Sleeping Man's presence should be sufficient to bring any latent psionic powers to the fore.","다르바나 사부는 이 호신부를 사용해 잠자는 자의 꿈에 집중합니다. 충분한 정신적 예민함을 가진 자라면 잠자는 자 앞에서 호신부를 착용하는 것만으로도 잠재된 초능력을 끌어낼 수 있습니다.",,,,,,0,0
+100183,,,"Bent and battered, this strange trumpet is somehow linked to the howling winds of Pandemonium. Its sound is definitely more jarring than it is musical.","휘고 망가진 이 이상한 나팔은 어떻게든 복마전의 울부짖는 바람과 연결되어 있습니다. 그 소리는 음악적이라기보다 확실히 더 귀에 거슬립니다.",,,,,,0,0
+100186,,,"The potion contained within this bottle can warm the body for quite some time. The energy of the Velox Berries it was made from, has been harnessed within.
+
+When times are tough, and there are no berries or wood to be found, this potion can be a life-saver.","이 병에 담긴 물약은 꽤 오랫동안 몸을 따뜻하게 할 수 있습니다. 재료인 벨록스 열매의 에너지가 안에 담겨 있습니다.
+
+상황이 힘들고 열매나 장작을 찾을 수 없을 때, 이 물약은 생명의 은인이 될 수 있습니다.",,,,,,0,0
+100188,,,"This highly sought after berry has a very unique attribute at its core. While it is not edible for most beings, it does provide a fiery spark when crushed or broken apart.
+
+This can be quite useful for anyone travelling in harsh environments, as the spark can be used on flammable objects to create a fire that can burn far longer and far warmer than natural fires.","이 귀한 열매는 핵심에 매우 독특한 속성을 가지고 있습니다. 대부분의 존재가 먹을 수 없지만, 으깨거나 쪼개면 불꽃을 제공합니다.
+
+혹독한 환경을 여행하는 사람에게 상당히 유용할 수 있습니다. 불꽃을 가연성 물체에 사용하면 자연 불보다 훨씬 오래, 훨씬 따뜻하게 타는 불을 만들 수 있기 때문입니다.",,,,,,0,0
+100190,,,"Engraved on the face of this ring are two symbols - one to represent fire and one to represent ice. When these forces work together in harmony, the body is at peace with either of these elements.
+
+It seemingly did its last owner no good, but this balancing power in the hands of either of the ring's elemental ties could cause a great uprising.
+
+It is for this reason that the previous owner must have ""hid"" it away and embraced his death rather than giving it up. ","이 반지 표면에는 두 개의 상징이 새겨져 있습니다 - 하나는 불을, 하나는 얼음을 나타냅니다. 이 힘들이 조화롭게 함께 작용하면, 육체는 이 원소들 중 어느 것과도 평화롭게 됩니다.
+
+마지막 주인에게는 별 도움이 안 된 것 같지만, 반지의 원소적 유대 중 어느 손에든 이 균형의 힘은 큰 봉기를 일으킬 수 있습니다.
+
+이런 이유로 이전 주인은 이것을 ""숨기고"" 포기하기보다 죽음을 받아들인 것이 틀림없습니다.",,,,,,0,0
+100192,,,"While these assorted gems are shiny and quite nice looking, they have no real value - except that the Mimic seems to like them.","이 다양한 보석들은 반짝이고 꽤 예쁘게 보이지만, 실제 가치는 없습니다 - 단지 미믹이 좋아하는 것 같습니다.",,,,,,0,0
+100195,,,This portion of the Sleeping Man's ring is marked with the initial 'H'.,잠자는 자의 반지 이 조각에는 이니셜 'H'가 새겨져 있습니다.,,,,,,0,0
+100197,,,This portion of the Sleeping Man's ring is marked with the initial 'F'.,잠자는 자의 반지 이 조각에는 이니셜 'F'가 새겨져 있습니다.,,,,,,0,0
+100199,,,This portion of the Sleeping Man's ring is marked with the initial 'L'.,잠자는 자의 반지 이 조각에는 이니셜 'L'가 새겨져 있습니다.,,,,,,0,0
+100206,,,Knower Armor,현자의 갑옷,,,,,,0,0
+100212,,,"A small stone key, smooth to the touch.","만지면 매끄러운 작은 돌 열쇠입니다.",,,,,,0,0
+100214,,,This bucket is empty.,이 양동이는 비어 있습니다.,,,,,,0,0
+100215,,,Bucket with Magic Water,마법 물이 든 양동이,,,,,,0,0
+100216,,,This bucket is filled with the Magic Water the miners used to keep their oxen healthy.,이 양동이에는 광부들이 황소를 건강하게 유지하는 데 사용한 마법 물이 가득 차 있습니다.,,,,,,0,0
+100217,,,Warding Amulet,보호 호신부,,,,,,0,0
+100218,,,"A heavy amulet, adorned with a shrunken skull and a few smaller, unrecognizable bones.","쪼그라든 해골과 몇 개의 작고 알아볼 수 없는 뼈로 장식된 무거운 호신부입니다.",,,,,,0,0
+100219,,,"TEMP - The Warding Amulet ties the wearer's soul to the healing rods throughout the land.
+
+Wearing this will have the rods heal you insetad of hurting you. ","임시 - 보호 호신부는 착용자의 영혼을 전국의 치유 막대와 연결합니다.
+
+이것을 착용하면 막대가 당신을 다치게 하는 대신 치유합니다.",,,,,,0,0
+100221,,,"This leaf has been foraged from the Velox Fern. The healing properties of these leaves are well-known throughout the land - that is, if the user knows how to extract them properly.
+
+Use: Heals target and regenerates for a short period.
+
+Can also be used on some water sources to dilute the healing properties, making the water more suitable for certain creatures.","이 잎은 벨록스 양치류에서 채집되었습니다. 이 잎들의 치유 효능은 전국적으로 잘 알려져 있습니다 - 물론, 사용자가 제대로 추출하는 법을 안다면요.
+
+사용: 대상을 치유하고 짧은 시간 동안 재생합니다.
+
+일부 수원에 사용하여 치유 성분을 희석시켜 특정 생명체에게 더 적합한 물로 만들 수도 있습니다.",,,,,,0,0
+100223,,,TEMP - Used to morph the PC into different forms.,임시 - PC를 다른 형태로 변신시키는 데 사용됩니다.,,,,,,0,0
+100225,,,"This is a small, rusted copper key, that is barely holding its shape. Even still, it still looks as if it could open something.","이것은 형태를 거의 유지하지 못하는 작고 녹슨 구리 열쇠입니다. 그래도 여전히 무언가를 열 수 있을 것 같습니다.",,,,,,0,0
+100227,,,"Sponge Spores are small, living bits of fungus, broken off of Water Mold. When eaten, the Spores die and release their air into the bloodstream of the imbiber.
+
+This release of air only lasts a short while, but during that time, breathing is unnecessary, making travel through harsh, gaseous areas and deep waterways possible. ","스펀지 포자는 물 곰팡이에서 떨어져 나온 작고 살아있는 곰팡이 조각입니다. 먹으면 포자가 죽으면서 공기를 섭취자의 혈류로 방출합니다.
+
+이 공기 방출은 잠시만 지속되지만, 그 동안은 호흡이 필요 없어 험난한 기체 지역이나 깊은 수로를 통과할 수 있습니다.",,,,,,0,0
+100229,,,"Water Mold is a very rare fungus, found only in remote caverns and swamps.
+
+The Water Mold itself is not very useful, but the hundreds of living Sponge Spores it contains are.
+
+When broken off, the Sponge Spores immediately replace themselves, feeding off the very air we breathe.
+
+These Spores contain pockets of air, and when eaten can be very useful in the right situation.
+
+Use this item to break off some Sponge Spores.","물 곰팡이는 외진 동굴과 늪에서만 발견되는 매우 희귀한 곰팡이입니다.
+
+물 곰팡이 자체는 그다지 유용하지 않지만, 그 안에 담긴 수백 개의 살아있는 스펀지 포자는 유용합니다.
+
+떼어내면 스펀지 포자는 우리가 숨 쉬는 공기를 먹고 즉시 재생됩니다.
+
+이 포자들은 공기 주머니를 담고 있어 먹으면 적절한 상황에서 매우 유용할 수 있습니다.
+
+이 아이템을 사용하여 스펀지 포자를 떼어내십시오.",,,,,,0,0
+100231,,,"The skull of a scavenger rat, surprisingly clean for being devoured by a gutless beast.","청소부 쥐의 두개골인데, 내장 없는 짐승에게 먹혔다 치고는 놀라울 정도로 깨끗합니다.",,,,,,0,0
+100233,,,This is a very ordinary looking cloak.,매우 평범해 보이는 망토입니다.,,,,,,0,0
+100234,,,"The origin of this cloak dates back to the days when King Richard Garrison held power in Cania. It was crafted for him by his servant, a demented and twisted man named Pony Tall.
+
+Pony was not a gifted being, but he managed to sew the cloak in a matter of just a few days. Barely resembling a cloak, Pony Tall had done the best he could and so wrapped the tattered garment up and made way to his master.
+
+After giving the cloak to the King, Pony was slaughtered for his foul gift, his blood staining and possibly corrupting the garment.
+
+Before tossing the cloak out along with Pony's body, King Richard put it on to mock his dead, incompetant servant. Upon doing so, he felt better - in all ways - and the cold night air ceased.
+
+It was never known how the cloak came to have the powers it has, but most suspect they actually originated from his dead servant's blood.","이 망토의 기원은 리처드 개리슨 왕이 카니아에서 권력을 쥐고 있던 시절로 거슬러 올라갑니다. 그의 하인인 포니 톨이라는 정신 나가고 뒤틀린 남자가 왕을 위해 만들었습니다.
+
+포니는 재능 있는 존재가 아니었지만, 불과 며칠 만에 망토를 꿰맸습니다. 망토라고 하기 어려운 모양이었지만, 포니 톨은 최선을 다했기에 너덜너덜한 옷을 싸서 주인에게로 향했습니다.
+
+망토를 왕에게 준 후, 포니는 그 형편없는 선물 때문에 도살당했고, 그의 피가 옷을 물들이고 아마도 타락시켰을 것입니다.
+
+포니의 시체와 함께 망토를 버리기 전에, 리처드 왕은 죽은 무능한 하인을 조롱하기 위해 입어보았습니다. 그러자 그는 모든 면에서 기분이 나아졌고 - 차가운 밤공기도 사라졌습니다.
+
+망토가 어떻게 이런 힘을 갖게 되었는지는 알려지지 않았지만, 대부분은 실제로 죽은 하인의 피에서 비롯되었다고 의심합니다.",,,,,,0,0
+100237,,,"The dwarven smith Silverblade forged the first of these hammers - purportedly combining a masterfully crafted warhammer with a Girdle of Giant Strength and Gauntlets of Ogre Power - as a gift for his military-bound son. Sadly, the son fell before the hammer's completion and, in grief, Silverblade took it up himself, dying in valiant battle. Recently, the dwarf Barun reassembled the device, leading to the creation of additional variants by other master smiths.
+
+This is one of those variants.","드워프 대장장이 실버블레이드가 이 망치들 중 첫 번째를 제작했습니다 - 명장의 전투 망치에 거인 힘의 허리띠와 오우거 힘의 건틀릿을 결합했다고 전해집니다 - 군에 가는 아들을 위한 선물이었습니다. 슬프게도 망치가 완성되기 전에 아들이 쓰러졌고, 비탄에 빠진 실버블레이드는 직접 들고 용맹한 전투에서 죽었습니다. 최근 드워프 바룬이 장치를 재조립하면서 다른 명장들이 추가 변형품을 만들게 되었습니다.
+
+이것은 그 변형품 중 하나입니다.",,,,,,0,0
+100242,,,"Frost Darts give off a blast of frigid cold when they strike their target, flash-freezing armor and flesh alike.","서리 다트는 목표물에 맞으면 혹독한 냉기 폭발을 일으켜 갑옷과 살을 똑같이 순간 동결시킵니다.",,,,,,0,0
+100275,,,Body Squash sound,몸 으깨지는 소리,,,,,,0,0
+100287,,,Boulder,바위,,,,,,0,0
+100293,,,Blood-Soaked Bag,피에 젖은 가방,,,,,,0,0
+100294,,,"Soaked in blood, it is obvious the bag had been long ago swallowed by the prisoner.","피에 젖어 있어서 가방이 오래 전에 죄수가 삼킨 것임이 분명합니다.",,,,,,0,0
+100296,,,"An anchor, holding the magical prison in place.","마법 감옥을 제자리에 고정하는 닻입니다.",,,,,,0,0
+100297,,,Chain,사슬,,,,,,0,0
+100298,,,A chain hangs down from above.,사슬이 위에서 늘어져 있습니다.,,,,,,0,0
+100301,,,"This massive wooden table is gouged, scarred, and stained by many years of gambling.","이 거대한 나무 탁자는 오랜 세월 도박으로 패이고 흠집 나고 얼룩져 있습니다.",,,,,,0,0
+100304,,,This half-conscious imp has had a nasty run-in with a Quarry Grinder. His arm is horribly mangled.,"이 반쯤 의식 잃은 임프는 채석장 분쇄기와 끔찍한 충돌을 했습니다. 팔이 심하게 뭉개져 있습니다.",,,,,,0,0
+100306,,,"A sea of names has been etched into the ice, buried between its countless layers. Many of them are so deep that you can only make out their dim outlines amidst the soft blue light.","얼음에 이름의 바다가 새겨져 있고, 수많은 층 사이에 묻혀 있습니다. 많은 것들이 너무 깊어서 부드러운 푸른 빛 속에서 희미한 윤곽만 볼 수 있습니다.",,,,,,0,0
+100308,,,"The word ""Alternate"" has been carved into the gray stone.","""대안""이라는 단어가 회색 돌에 새겨져 있습니다.",,,,,,0,0
+100310,,,"The word ""Coordinate"" has been carved into the gray stone.","""좌표""라는 단어가 회색 돌에 새겨져 있습니다.",,,,,,0,0
+100312,,,"The word ""Dimension"" has been carved into the gray stone.","""차원""이라는 단어가 회색 돌에 새겨져 있습니다.",,,,,,0,0
+100314,,,"The word ""Elysium"" has been carved into the gray stone.","""엘리시움""이라는 단어가 회색 돌에 새겨져 있습니다.",,,,,,0,0
+100316,,,"The word ""Infinity"" has been carved into the gray stone.","""무한""이라는 단어가 회색 돌에 새겨져 있습니다.",,,,,,0,0
+100318,,,"The word ""Treason"" has been carved into the gray stone.","""반역""이라는 단어가 회색 돌에 새겨져 있습니다.",,,,,,0,0
+100320,,,A word has been carved into the gray stone.,회색 돌에 단어가 새겨져 있습니다.,,,,,,0,0
+100326,,,A small gathering of wood lies before you. It is clear that this was once a campsite.,작은 장작더미가 당신 앞에 놓여 있습니다. 여기가 한때 야영지였음이 분명합니다.,,,,,,0,0
+100330,,,A door sits before you. You wonder where it leads.,문이 앞에 있습니다. 어디로 이어지는지 궁금합니다.,,,,,,0,0
+100336,,,The orb on this conductor can harness great power.,이 도체의 구체는 거대한 힘을 담을 수 있습니다.,,,,,,0,0
+100341,,,Medium Berry Flame,중간 열매 불꽃,,,,,,0,0
+100347,,,End Flames (cutscene),불꽃 종료 (컷신),,,,,,0,0
+100348,,,Essence Orb,정수 구체,,,,,,0,0
+100349,,,"A glowing orb sits atop the pedestal. You can see a hinge, indicating that it can be opened.","빛나는 구체가 받침대 위에 놓여 있습니다. 경첩이 보여서 열 수 있음을 알 수 있습니다.",,,,,,0,0
+100356,,,"A piece of ice, among many, blocking the path in front of you.","앞길을 막고 있는 많은 얼음 조각 중 하나입니다.",,,,,,0,0
+100378,,,"It is hard to make out anything specific about the prisoner, other than just that.","죄수에 대해 그것 외에는 구체적으로 알아보기 어렵습니다.",,,,,,0,0
+100402,,,Mawgwump,모그웜프,,,,,,0,0
+100410,,,"It is not common to see green plants where there is little sunlight, but the Velox Nettle is an exception. While some warmth is required for this plant to exist, it has been known to thrive even in the harshest conditions. The berries of this plant, while coarse and cold to the touch, offer a warm, sparking energy in their interior.","햇빛이 거의 없는 곳에서 녹색 식물을 보기는 흔치 않지만, 벨록스 쐐기풀은 예외입니다. 이 식물이 존재하려면 약간의 온기가 필요하지만, 가장 혹독한 환경에서도 번성하는 것으로 알려져 있습니다. 이 식물의 열매는 만지면 거칠고 차갑지만, 내부에는 따뜻하고 불꽃 튀는 에너지를 제공합니다.",,,,,,0,0
+100411,,,"The smells of hickory smoke and fresh bread waft out of the earthen oven, making your mouth water.","호두나무 연기와 신선한 빵 냄새가 흙 화덕에서 풍겨 나와 군침이 돕니다.",,,,,,0,0
+100429,,,Used to light up the path created by the ring.,반지가 만든 길을 밝히는 데 사용됩니다.,,,,,,0,0
+100441,,,A Howl in the Night,밤의 울부짖음,,,,,,0,0
+100442,,,You have stumbled upon a pack of winter wolves deep in the wastes of Cania. They seem skittish and frightened but not overtly hostile. They must have a den somewhere nearby and an alpha wolf who leads them.,"카니아의 황무지 깊은 곳에서 겨울늑대 무리를 우연히 만났습니다. 겁먹고 겁에 질린 것 같지만 노골적으로 적대적이지는 않습니다. 근처 어딘가에 굴과 무리를 이끄는 우두머리 늑대가 있을 것입니다.",,,,,,0,0
+100443,,,"The leader of a pack of winter wolves has warned you of a clan of frost giants who live nearby, deep in Cania's frozen wastes. Some of the wolf pups have been stolen and the pack would no doubt be happy to see their young safely returned.","겨울늑대 무리의 우두머리가 카니아의 얼어붙은 황무지 깊숙이 사는 서리 거인 일족에 대해 경고했습니다. 늑대 새끼들이 일부 도난당했으며 무리는 새끼들이 무사히 돌아오면 기뻐할 것입니다.",,,,,,0,0
+100444,,,You have freed a group of wolf pups being held captive by a nearby giant clan. The pups yipped excitedly as they raced off for the safety of their den. The pack will be relieved by their safe return.,"근처 거인 일족에게 억류되어 있던 늑대 새끼들을 풀어주었습니다. 새끼들은 신나게 짖으며 안전한 굴로 달려갔습니다. 무리는 그들의 무사 귀환에 안도할 것입니다.",,,,,,0,0
+100445,,,"A group of wolf pups lie slaughtered outside a giant fortress, their blood pooling in the trodden snow. You wondered if their pack will survive this endless winter without them.","늑대 새끼들이 거인 요새 밖에서 도살된 채 누워 있고, 피가 밟힌 눈에 고여 있습니다. 그들 없이 무리가 이 끝없는 겨울을 버틸 수 있을지 궁금합니다.",,,,,,0,0
+100446,,,"You have killed the leader of a wolf pack deep in the frozen wastes of Cania. Though he was no match for you in the end, he fought with the fury of a cornered animal. Without his strength and guidance, you doubt the remainder of the pack will survive the endless winter.","카니아의 얼어붙은 황무지 깊은 곳에서 늑대 무리의 우두머리를 죽였습니다. 결국 상대가 안 됐지만, 궁지에 몰린 동물의 분노로 싸웠습니다. 그의 힘과 인도 없이는 나머지 무리가 끝없는 겨울을 버틸 수 있을지 의문입니다.",,,,,,0,0
+100447,,,A Lost Leader,잃어버린 지도자,,,,,,0,0
+100448,,,"In speaking with the Spirits of the Dead who cluster around the Gates of Cania, you have learned that they had a leader who had stood up to Mephistopheles when he first announced that he would be devouring their souls to fuel his undead army on the Prime Material plane. He must have done something dire to her, however, for after the confrontation, she fled to a cave in the center of the city where she now refuses to speak with anyone. The Spirits say she's becoming one of the Lost, those who have given up hope and are slowly merging with the icy essence of Cania.","카니아의 문 주변에 모여 있는 죽은 자들의 영혼과 대화하면서, 그들에게 지도자가 있었다는 것을 알게 되었습니다. 그녀는 메피스토펠레스가 주물질계에 언데드 군대를 만들기 위해 그들의 영혼을 집어삼키겠다고 처음 발표했을 때 그에게 맞섰습니다. 하지만 그가 그녀에게 끔찍한 짓을 한 것이 틀림없습니다. 대결 후 그녀는 도시 중심부의 동굴로 도망쳐 이제 누구와도 대화하기를 거부합니다. 영혼들은 그녀가 잃어버린 자들 중 하나가 되어가고 있다고 합니다 - 희망을 포기하고 카니아의 얼음 정수와 서서히 합쳐지는 자들 말입니다.",,,,,,0,0
+100449,,,"You have found the cave in which the so-called Lost Leader of the Spirits of the Dead has sequestered herself. The cave rests atop a ridge in the city's heart and though she has sealed the entrance with some form of spell, you were able to hear her sobs echoing from deep within. A strange dog-like creature paced back and forth, whining outside the cave's entrance.","죽은 자들의 영혼의 소위 잃어버린 지도자가 은둔하고 있는 동굴을 찾았습니다. 동굴은 도시 중심부의 산등성이 위에 있으며, 그녀가 어떤 주문으로 입구를 봉인했지만 깊은 곳에서 울려 퍼지는 그녀의 흐느낌을 들을 수 있었습니다. 이상한 개 같은 생명체가 동굴 입구 밖에서 낑낑거리며 왔다 갔다 하고 있었습니다.",,,,,,0,0
+100450,,,"You were able to guide the strange dog-like creature you found outside the Lost Leader's cave to where it needed to be. Once led to the right location, it shot a beam of energy into the city's icy walls, carving the Spirit Leader's name into the ice so she could finally become one of the lost. Leaning closer, you were able to read the newly carved name: ""Aribeth de Tylmarande."" Curious, you wonder if the magical barrier she had placed at the cave entrance has faded with her passing.","잃어버린 지도자의 동굴 밖에서 발견한 이상한 개 같은 생명체를 필요한 곳으로 안내할 수 있었습니다. 올바른 위치로 이끌자, 그것은 도시의 얼음 벽에 에너지 광선을 쏴서 영혼 지도자의 이름을 얼음에 새겨 그녀가 마침내 잃어버린 자 중 하나가 될 수 있게 했습니다. 가까이 다가가서 새로 새겨진 이름을 읽을 수 있었습니다: ""아리베스 드 틸마란데."" 호기심에 그녀가 동굴 입구에 설치한 마법 장벽이 그녀의 죽음과 함께 사라졌는지 궁금합니다.",,,,,,0,0
+100451,,,"There, in an ice-sheathed cavern at the heart of the City of Lost Souls, you beheld Aribeth de Tylmarande, the Lost Leader of the Spirits of the Dead. A thick layer of frost clings to her once-lithe frame, her ghostly shape at last made solid by the ice of Cania. Half-burned logs rest in a blackened pit before her, their flames long since quenched by the cavern's icy chill.","그곳, 잃어버린 영혼들의 도시 중심부에 있는 얼음으로 뒤덮인 동굴에서 죽은 자들의 영혼의 잃어버린 지도자인 아리베스 드 틸마란데를 보았습니다. 한때 날씬했던 그녀의 몸에 두꺼운 서리 층이 달라붙어 있고, 그녀의 유령 같은 형체는 마침내 카니아의 얼음으로 고체가 되었습니다. 반쯤 탄 통나무가 그녀 앞의 검게 그을린 구덩이에 놓여 있으며, 불꽃은 동굴의 얼음 같은 한기에 오래전에 꺼졌습니다.",,,,,,0,0
+100452,,,"In an effort to thaw the frozen statue of Aribeth de Tylmarande, the Lost Leader of the Spirits of the Dead, you have expended a single precious velox berry to create a fire. Unfortunately, the paltry flames did little to combat the cavern's icy chill and were soon extinguished.","죽은 자들의 영혼의 잃어버린 지도자 아리베스 드 틸마란데의 얼어붙은 형상을 녹이려고 귀한 벨록스 열매 하나를 사용해 불을 피웠습니다. 불행히도 보잘것없는 불꽃은 동굴의 얼음 같은 한기에 거의 효과가 없었고 곧 꺼져버렸습니다.",,,,,,0,0
+100453,,,"In an effort to thaw the frozen statue of Aribeth de Tylmarande, the Lost Leader of the Spirits of the Dead, you have expended two precious velox berries to create a fire. While the flames were sufficient to warm the confined space of the cavern, they were not enough to penetrate the icy chill that still clings to Aribeth's ghostly form.","죽은 자들의 영혼의 잃어버린 지도자 아리베스 드 틸마란데의 얼어붙은 형상을 녹이려고 귀한 벨록스 열매 두 개를 사용해 불을 피웠습니다. 불꽃은 동굴의 밀폐된 공간을 데우기에 충분했지만, 아리베스의 유령 같은 형체에 여전히 달라붙어 있는 얼음 같은 한기를 뚫기엔 부족했습니다.",,,,,,0,0
+100454,,,"Thanks to your efforts, Aribeth de Tylmarande, the Lost Leader of the Spirits of the Dead was rescued from the bitter chill of Cania. To your surprise, she expressed her gratitude by drawing her ghostly blade and pressing you to the attack.","당신의 노력 덕분에 죽은 자들의 영혼의 잃어버린 지도자 아리베스 드 틸마란데가 카니아의 혹독한 한기에서 구출되었습니다. 놀랍게도 그녀는 유령 검을 뽑아 당신을 공격하는 것으로 감사를 표했습니다.",,,,,,0,0
+100455,,,"Lost and now found, hostile and now pacified, Aribeth de Tylmarande, the ghostly leader of the Spirits of the Dead has surrendered herself to your will. It seems she has given up on life, even the threadbare shred experienced by the Spirits of the Dead. For your efforts to rescue her from the icy grasp of Cania to go unwasted, you will have to speak with her and convince her that she has something worth living for.","잃어버렸다가 발견되고, 적대적이었다가 진정된 죽은 자들의 영혼의 유령 지도자 아리베스 드 틸마란데가 당신의 뜻에 항복했습니다. 그녀는 죽은 자들의 영혼이 경험하는 그 가느다란 삶의 조각마저도 포기한 것 같습니다. 카니아의 얼음 같은 손아귀에서 그녀를 구출하려는 노력이 헛되지 않으려면, 그녀와 대화하고 살아갈 가치가 있는 무언가가 있다고 설득해야 합니다.",,,,,,0,0
+100456,,,"You have rescued Aribeth de Tylmarande, the ghostly leader of the Spirits of the Dead, from the icy grip of Cania. Thanks to your efforts and persistence, she has dedicated what remains of this threadbare afterlife to the cause of good. With that, you have restored her to her former paladinhood and she has offered to aid you in your quest through hell.","카니아의 얼음 같은 손아귀에서 죽은 자들의 영혼의 유령 지도자 아리베스 드 틸마란데를 구출했습니다. 당신의 노력과 끈기 덕분에, 그녀는 남은 희미한 사후의 삶을 선의 대의에 바치기로 했습니다. 그로써 그녀의 성기사 지위가 회복되었고, 그녀는 지옥을 통과하는 당신의 여정을 돕겠다고 제안했습니다.",,,,,,0,0
+100457,,,"You have rescued Aribeth de Tylmarande, the ghostly leader of the Spirits of the Dead, from the icy grip of Cania. Thanks to your efforts and persistence, she has dedicated what remains of this threadbare afterlife to the cause of evil. With that, you have restored her to her former status as a fearsome Blackguard and she has offered to aid you in your quest through hell.","카니아의 얼음 같은 손아귀에서 죽은 자들의 영혼의 유령 지도자 아리베스 드 틸마란데를 구출했습니다. 당신의 노력과 끈기 덕분에, 그녀는 남은 희미한 사후의 삶을 악의 대의에 바치기로 했습니다. 그로써 그녀의 두려운 블랙가드 지위가 회복되었고, 그녀는 지옥을 통과하는 당신의 여정을 돕겠다고 제안했습니다.",,,,,,0,0
+100458,,,Arden Swift,아덴 스위프트,,,,,,0,0
+100459,,,"Trapped here much like you, a group of Githzerai Pilgrims have related an interesting tale regarding a certain fellow named Arden Swift who has been traveling with them for the past while. According to the prevailing gossip, Arden got into an argument with the Pilgrims' leader regarding his sacriligious plans to wake the so-called Sleeping Man who the Pilgrims are here to visit. Arden's currently drowning his sorrows in the Hellbreath Tavern in the city's southeast corner.","당신처럼 이곳에 갇힌 기스제라이 순례자들이 한동안 함께 여행해 온 아덴 스위프트라는 자에 대한 흥미로운 이야기를 들려주었습니다. 소문에 따르면, 아덴은 순례자들이 찾아온 잠자는 자를 깨우겠다는 불경한 계획 때문에 순례자들의 지도자와 말다툼을 벌였다고 합니다. 아덴은 현재 도시 남동쪽 구석의 지옥숨결 주점에서 술로 시름을 달래고 있습니다.",,,,,,0,0
+100460,,,"You have met a jester, Arden Swift, in the Hellbreath Tavern in the city's southeast corner. He seems somehow associated with the Githzerai Pilgrims currently patronizing the establishment but, given his tiefling heritage and the dirty looks they occasionally slip him over their half-empty tankards, you're unsure how.","도시 남동쪽 구석의 지옥숨결 주점에서 광대 아덴 스위프트를 만났습니다. 그는 현재 이 술집을 찾는 기스제라이 순례자들과 어떤 관련이 있는 것 같지만, 티플링 혈통인 데다 순례자들이 반쯤 빈 잔 너머로 가끔 그에게 쏘아보는 시선을 보면, 어떤 관계인지는 확실하지 않습니다.",,,,,,0,0
+100461,,,"In talking with Arden Swift, a bard traveling with the Githzerai, he has told you of his rather sacriligious plans to wake their so-called Sleeping Man using a Trumpet of Pandemonium he acquired somewhere in his travels. Due to a quick intervention on the part of the Pilgrims' Sensei, the jester's plan never came to pass but he still carries the trumpet and it might be possible to convince him to part with it.","기스제라이와 함께 여행하는 음유시인 아덴 스위프트와 대화하면서, 그가 여행 중 어딘가에서 구한 복마전의 나팔으로 잠자는 자를 깨우려는 다소 불경한 계획을 들었습니다. 순례자들의 사부가 빠르게 개입한 덕분에 광대의 계획은 실행되지 못했지만, 그는 아직 나팔을 가지고 있어서 설득하면 넘겨받을 수 있을지도 모릅니다.",,,,,,0,0
+100462,,,"Arden Swift, patron of the Hellbreath Tavern and itinerant jester currently taveling with the entourage of Githzerai Pilgrims, has placed his beloved Trumpet of Pandemonium as a prize for an upcoming card game. He had intended to used the trumpet to wake the so-called Sleeping Man but had been caught red-handed by the Pilgrims' Sensei before he could sound its blast. If you're interested in acquiring it for yourself, you merely have to place your ante on the table and guess the card he's holding in five questions or less. You're not entirely sure if you can trust him but it might be worth a try.","지옥숨결 주점의 단골이자 기스제라이 순례자 일행과 여행 중인 떠돌이 광대 아덴 스위프트가 곧 있을 카드 게임의 상품으로 자신의 소중한 복마전의 나팔을 걸었습니다. 그는 잠자는 자를 깨우는 데 나팔을 쓰려 했지만, 울리기 전에 순례자들의 사부에게 현장에서 들켜 버렸습니다. 직접 손에 넣고 싶다면 판돈을 걸고 다섯 번의 질문 이내로 그가 들고 있는 카드를 맞히면 됩니다. 그를 완전히 믿을 수 있을지는 모르겠지만, 시도해 볼 만할 것입니다.",,,,,,0,0
+100463,,,"With some quick thinking and a good eye, you were able to win Arden Swift's Trumpet of Pandemonium in a game of cards. Although he cheated regularly throughout the actual game, he was good on his word and handed over the trumpet as soon as you won. You suspect he was more interested in the antes you put in, as he's probably racked up a hefty tab with the rather evil-looking bartender.","재빠른 사고와 날카로운 눈으로 카드 게임에서 아덴 스위프트의 복마전의 나팔을 따냈습니다. 게임 내내 그가 속임수를 썼지만, 약속은 지켜서 당신이 이기자마자 나팔을 넘겨주었습니다. 아마도 사악하게 생긴 바텐더에게 밀린 술값이 많아서 당신이 건 판돈에 더 관심이 있었던 것 같습니다.",,,,,,0,0
+100464,,,"In a visit to the Hellbreath Tavern, you managed to pickpocket a trumpet from the jester Arden Swift. It looks dented and old. Though its sound quality probably leaves something to be desired, you're pretty sure it's going to be loud.","지옥숨결 주점을 방문했을 때 광대 아덴 스위프트에게서 나팔을 소매치기하는 데 성공했습니다. 찌그러지고 낡아 보입니다. 음질은 별로겠지만, 시끄럽기는 할 것입니다.",,,,,,0,0
+100465,,,"In a visit to the Hellbreath Tavern, you managed to pick a fight with the jester Arden Swift. Rummaging through his pack when it was all done, you found a strange-looking trumpet, dented and old. Though its sound quality probably leaves something to be desired, you're pretty sure it's going to be loud.","지옥숨결 주점을 방문했을 때 광대 아덴 스위프트와 싸움을 벌였습니다. 모든 게 끝난 후 그의 가방을 뒤지다가 이상하게 생긴 나팔을 발견했는데, 찌그러지고 낡았습니다. 음질은 별로겠지만, 시끄럽기는 할 것입니다.",,,,,,0,0
+100466,,,"Using the Trumpet of Pandemonium you acquired from Arden Swift, you were able to do the unthinkable: wake the Sleeping Man...","아덴 스위프트에게서 얻은 복마전의 나팔을 사용해 상상도 못 할 일을 해냈습니다: 잠자는 자를 깨운 것입니다...",,,,,,0,0
+100468,,,"Peering into an ice crystal that that thrust itself up from Cania's glacial floor, you saw a vision of Mephistopheles' progress in the Prime Material Plane. It appears that he has discovered the carnage left behind by the Seer's defeat. As he passed through the rotting carcasses, they rose in his wake, a ghostly army bound to do his bidding...","카니아의 빙하 바닥에서 솟아오른 얼음 수정을 들여다보며, 물질계에서 메피스토펠레스가 진행 중인 일에 대한 환영을 보았습니다. 그가 선견자의 패배 후 남겨진 살육의 현장을 발견한 것 같습니다. 그가 썩어가는 시체들 사이를 지나가자, 그것들이 그의 뒤에서 일어났습니다. 그의 명령에 복종할 유령 군대가...",,,,,,0,0
+100469,,,"Peering into an ice crystal that that thrust itself up from Cania's glacial floor, you saw a vision of Mephistopheles' progress in the Prime Material Plane. It appears that, together with his newly created army, he is slowly winding his way to the surface, sowing destruction in his wake. Mephistopheles seems to feed off the ruin he is causing. With every moment, he grows stronger...","카니아의 빙하 바닥에서 솟아오른 얼음 수정을 들여다보며, 물질계에서 메피스토펠레스가 진행 중인 일에 대한 환영을 보았습니다. 새로 만든 군대와 함께 천천히 지표면으로 올라가며 지나간 자리에 파괴를 뿌리고 있는 것 같습니다. 메피스토펠레스는 자신이 일으킨 폐허에서 힘을 얻는 것 같습니다. 매 순간, 그는 더 강해지고 있습니다...",,,,,,0,0
+100470,,,"Peering into an ice crystal that that thrust itself up from Cania's glacial floor, you saw a vision of Mephistopheles' progress in the Prime Material Plane. It appears that he has made his way to the surface, emerging in the Yawning Portal. Many of the patrons were incinerated by his deadly gaze, though you don't yet know the fate of Durnan and his family. Even so, time grows short and the city of Waterdeep is in great peril.","카니아의 빙하 바닥에서 솟아오른 얼음 수정을 들여다보며, 물질계에서 메피스토펠레스가 진행 중인 일에 대한 환영을 보았습니다. 그가 지표면에 도달해 하품하는 문에 나타난 것 같습니다. 많은 손님들이 그의 치명적인 시선에 소각되었지만, 더난과 그의 가족의 운명은 아직 알 수 없습니다. 그래도 시간이 촉박하고 워터딥은 큰 위험에 처해 있습니다.",,,,,,0,0
+100471,,,Escape from the Hells,지옥 탈출,,,,,,0,0
+100472,,,"The familiar blackness of death enveloped you but the blood-red eyes of your betrayer, Mephistopheles, lingered to the end. And then you woke to find your eyes reflected in the Gatekeeper's shimmering skin. Everything seems strangely familiar...","익숙한 죽음의 어둠이 당신을 감쌌지만, 배신자 메피스토펠레스의 핏빛 눈은 끝까지 남아 있었습니다. 그리고 눈을 떠보니 문지기의 빛나는 피부에 당신의 눈이 비치고 있었습니다. 모든 것이 이상하게 익숙합니다...",,,,,,0,0
+100473,,,"The archdevil Mephistopheles has played you for a fool. He has commanded your mysterious ally, the Gatekeeper, to bar your return to Waterdeep on the Prime Material plane, trapping you instead in some hellish world called Cania. The Gatekeeper seems sympathetic to your plight but claims he has no choice but to obey for Mephistopheles has commanded him by his True Name. Such names seem to have a strange power in this place and it seems the only way to break Mephistopheles' prohibition will be learn the Gatekeeper's True Name for yourself.","대악마 메피스토펠레스가 당신을 바보로 만들었습니다. 그는 당신의 신비로운 동맹인 문지기에게 물질계의 워터딥으로 돌아가지 못하게 막으라 명령하고, 대신 카니아라는 지옥 세계에 가두었습니다. 문지기는 당신의 처지에 동정적인 것 같지만, 메피스토펠레스가 진명으로 명령했기에 복종할 수밖에 없다고 합니다. 이곳에서 그런 이름은 이상한 힘을 가진 것 같고, 메피스토펠레스의 금지를 깨는 유일한 방법은 문지기의 진명을 직접 알아내는 것뿐입니다.",,,,,,0,0
+100474,,,"Your search for the Gatekeeper's True Name has turned up its first clue: one of the citizens of this strange city claims that an old and venerable creature known as the Sleeping Man might have the information your looking for. He sleeps in the city's northwest quarter and apparently has done so for longer than anyone can remember. Hopefully, with his help, you'll be able to return home to Waterdeep and take your vengeance on the archdevil Mephistopheles.","문지기의 진명을 찾는 과정에서 첫 번째 단서를 얻었습니다: 이 이상한 도시의 주민 중 한 명이 잠자는 자라고 알려진 오래되고 존경받는 존재가 당신이 찾는 정보를 가지고 있을 수 있다고 합니다. 그는 도시의 북서쪽 구역에서 잠들어 있으며, 아무도 기억하지 못하는 옛날부터 그래왔다고 합니다. 그의 도움으로 워터딥의 집으로 돌아가 대악마 메피스토펠레스에게 복수할 수 있기를 바랍니다.",,,,,,0,0
+100475,,,"The Sleeping Man was not as helpful in your quest for the Gatekeeper's True Name as you had hoped. You did learn, however, of an ancient race called the Knowers that populated Cania before it was colonized by the legions of hell. One of them, the Knower of Names, was banished by Mephistopheles to an unknown prison deep in Cania's frozen wastelands. Unable to find the Knower of Names, the Sleeping Man instead sought out her sister, the Knower of Places, with the help of a magical ring that that served as his guide through Cania's wastes. If you can repeat his feat, perhaps she will be able to help you find her sister's hidden prison. The Sleeping Man broke the ring into three parts and hid it in a guarded room below his chambers. It seems your journey will begin there.","잠자는 자는 문지기의 진명을 찾는 데 기대만큼 도움이 되지 않았습니다. 하지만 지옥 군단이 식민지로 삼기 전에 카니아에 살았던 현자들이라는 고대 종족에 대해 알게 되었습니다. 그중 한 명인 이름의 현자는 메피스토펠레스에 의해 카니아의 얼어붙은 황무지 깊은 곳의 알려지지 않은 감옥으로 추방되었습니다. 이름의 현자를 찾을 수 없었던 잠자는 자는 대신 카니아의 황무지를 안내해 줄 마법 반지의 도움으로 그녀의 자매인 공간의 현자를 찾아갔습니다. 그의 업적을 따라 할 수 있다면, 그녀가 자매의 숨겨진 감옥을 찾는 것을 도와줄 수 있을 것입니다. 잠자는 자는 반지를 세 조각으로 나누어 자신의 방 아래 경비되는 방에 숨겼습니다. 여정은 거기서 시작될 것입니다.",,,,,,0,0
+100476,,,"The Sleeping Man's ring that will lead you to the Knower of Places and hopefully to the Gatekeeper's True Name is a strange artifact indeed. When you slip it onto your finger, it is as if you can see into another sort of space, another dimension. Some things are present there that are not present in the real world and some things you would expect to find have disappeared. One thing you are grateful to see, however, are a line of glowing arrows that will hopefully chart a safe course through Cania's vast wastelands. You feel the stirrings of hope in your chest for the first time since Mephistopheles banished you to this frozen place.","공간의 현자에게, 그리고 바라건대 문지기의 진명으로 당신을 이끌어 줄 잠자는 자의 반지는 정말 이상한 유물입니다. 손가락에 끼면 마치 다른 종류의 공간, 다른 차원을 볼 수 있는 것 같습니다. 현실 세계에는 없는 것들이 거기에 있고, 있어야 할 것들이 사라져 있습니다. 그러나 감사하게도 보이는 것은 카니아의 광대한 황무지를 통과하는 안전한 길을 표시해 줄 빛나는 화살표들입니다. 메피스토펠레스가 이 얼어붙은 곳으로 추방한 이후 처음으로 가슴에서 희망이 일렁이는 것을 느낍니다.",,,,,,0,0
+100477,,,"Tormented by her loneliness, the Knower of Places has agreed to help you on your quest for the Gatekeeper's True Name. She has woven a new magic into the Sleeping Man's ring, allowing it to guide you to her sister, the Knower of Names, just as it guided you to her. She left you with a cryptic parting message that will hopefully aid you when you reach her sister's icy prison: ""You are not the first to seek the prison and not the first to find it. At 7 o'clock a hole was dug and a fearsome devil freed. If he'd have come but sixteen hours prior, he'd have uncovered what you need."" Hopefully you'll be able to compel the Gatekeeper to return you to Waterdeep before Mephistopheles has destroyed your home forever.","외로움에 시달리던 공간의 현자가 문지기의 진명을 찾는 여정을 돕기로 동의했습니다. 그녀는 잠자는 자의 반지에 새로운 마법을 엮어, 자신에게 안내했던 것처럼 자매인 이름의 현자에게도 안내할 수 있게 했습니다. 그녀는 자매의 얼음 감옥에 도착했을 때 도움이 될 수수께끼 같은 작별 메시지를 남겼습니다: ""감옥을 찾은 첫 번째 사람은 아니야. 7시에 구멍이 파여 무서운 악마가 풀려났지. 열여섯 시간만 일찍 왔더라면 네가 필요한 걸 찾았을 텐데."" 메피스토펠레스가 당신의 고향을 영원히 파괴하기 전에 문지기를 강제해 워터딥으로 돌아갈 수 있기를 바랍니다.",,,,,,0,0
+100478,,,"At long last you have learned the True Name of the Gatekeeper: Hecugoth the Abandoned. You say it aloud a few times, rolling it around on your tongue. It has sad sound to it but you are eager to put it to use. It's your ticket out of here, back to Waterdeep and the Prime Material or whatever still remains of them after the chaos that Mephistopheles has sown in your absence. The Relic of the Reaper will take you back to the Gates of Cania but you pause to consider whether you have any pressing tasks you wish to accomplish on this plane before you go. Facing Mephistopheles won't be easy and you'd better have made your peace with the world.","마침내 문지기의 진명을 알아냈습니다: 버림받은 헤쿠고스. 혀 위에서 굴려보며 몇 번 소리 내어 말해 봅니다. 슬픈 울림이 있지만 어서 써먹고 싶습니다. 이곳을 벗어나 워터딥과 물질계로, 아니면 당신이 없는 사이 메피스토펠레스가 뿌린 혼란 후에 남아있는 곳으로 돌아갈 티켓입니다. 사신의 유물이 카니아의 문으로 데려다줄 것이지만, 가기 전에 이 차원에서 해야 할 급한 일이 있는지 생각해 봅니다. 메피스토펠레스와 맞서는 건 쉽지 않을 테니 세상과 화해해 두는 게 좋을 것입니다.",,,,,,0,0
+100479,,,"Commanded by his True Name, the Gatekeeper has opened a Planar Gate that will lead you back home to Waterdeep. Mephistopheles won't be expecting you so you'll have to take advantage of whatever element of surprise you have. It will pay to be well-prepared before you step through that gate.","진명의 명령을 받은 문지기가 워터딥의 고향으로 이끌어 줄 차원문을 열었습니다. 메피스토펠레스는 당신을 예상하지 못할 테니 기습의 이점을 최대한 활용해야 합니다. 그 문을 통과하기 전에 충분히 준비하는 것이 좋을 것입니다.",,,,,,0,0
+100480,,,"Waterdeep is in shambles and your sudden appearance has brought scant hope to Durnan and the handful of citizens and soldiers still trying to resist Mephistopheles' forces. It's clear they're fighting a war of movement, winning what battles they can and surrendering ground whenever Mephistopheles himself makes an appearance. Though you dared not say it in their presence, you doubt their ragtag resistance will survive much longer without your assistance. This time, when Durnan retreats from Mephistopheles' advance, you intend to be waiting for him.","워터딥은 폐허가 되었고 당신의 갑작스러운 등장은 더난과 메피스토펠레스의 군대에 저항하는 소수의 시민과 병사들에게 작은 희망을 가져다주었습니다. 그들이 기동전을 벌이며 이길 수 있는 전투에서 승리하고 메피스토펠레스가 직접 나타날 때마다 땅을 내주고 있음이 분명합니다. 그들 앞에서 감히 말하지 못했지만, 당신의 도움 없이는 그들의 어설픈 저항이 오래 버티지 못할 것입니다. 이번에 더난이 메피스토펠레스의 진격을 피해 후퇴할 때, 당신은 그를 기다리고 있을 것입니다.",,,,,,0,0
+100481,,,"Amidst the chaos of battle and shattered streets, Durnan and his brave but dwindling army retreated from Mephistopheles' approach. The arch-devil towers over the city's architecture, reducing it to rubble with a gaze. There, in the scattered remnants of the proudest city of the Prime Material, you prepare to make your stand against the devil's onslaught...","전투의 혼란과 부서진 거리 속에서, 더난과 그의 용감하지만 줄어드는 군대가 메피스토펠레스의 접근을 피해 후퇴했습니다. 대악마는 도시의 건물들 위로 우뚝 솟아 시선 하나로 잿더미로 만듭니다. 물질계에서 가장 자랑스러운 도시의 흩어진 잔해 속에서, 당신은 악마의 맹공에 맞서 싸울 준비를 합니다...",,,,,,0,0
+100482,,,"And with that, Mephistopheles is defeated. Dark clouds linger in the graying sky above, the sounds of battle slowly growing still in the distance. Weary yet triumphant, you stop to ponder the significance of your victory...","그리고 메피스토펠레스는 패배했습니다. 회색빛 하늘 위에 어두운 구름이 머물고, 멀리서 전투의 소리가 서서히 잦아듭니다. 지쳤지만 승리한 당신은 잠시 멈춰 승리의 의미를 곱씹습니다...",,,,,,0,0
+100484,,,"According to rumor, the City of Lost Souls is a holy site for a group of planar Pilgrims. The bulk of them are said to be congregating in and around the Hellbreath Tavern in the southeast corner of town.","소문에 따르면, 잃어버린 영혼의 도시는 차원계 순례자 집단의 성지입니다. 그들 대부분이 도시 남동쪽 구석의 지옥숨결 주점 안팎에 모여 있다고 합니다.",,,,,,0,0
+100485,,,"A group of disconsolate Pilgrims are trapped in Cania much like you. Their leader, the Sensei, led them here to worship at the feet of a figure they refer to as the Sleeping Man. She can be found in the Temple in the city's northwest corner.","당신처럼 카니아에 갇힌 낙담한 순례자 무리가 있습니다. 그들의 지도자인 사부가 잠자는 자라 부르는 존재의 발치에서 숭배하기 위해 이곳으로 이끌었습니다. 그녀는 도시 북서쪽 구석의 신전에서 찾을 수 있습니다.",,,,,,0,0
+100486,,,"Dharvana, the Githzerai Sensei, insists that you must learn and recite the Five-Fold Mysteries of the Sleeping Man before she will let you into the temple's Inner Sanctum to see him. She listed the Five-Fold Mysteries as follows: Who is he? From where did he come? Why did he leave? Who did he seek? What was the answer?","기스제라이 다르바나 사부는 잠자는 자를 만나러 신전의 내부 성소에 들어가려면 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 한다고 고집합니다. 그녀가 나열한 오중 수수께끼는 다음과 같습니다: 그는 누구인가? 어디서 왔는가? 왜 떠났는가? 누구를 찾았는가? 답은 무엇이었는가?",,,,,,0,0
+100487,,,"Dharvana, the Githzerai Sensei, insists that you must learn and recite the Five-Fold Mysteries of the Sleeping Man before she will let you into the temple's Inner Sanctum to see him. She listed the Five-Fold Mysteries as follows: Who is he? From where did he come? Why did he leave? Who did he seek? What was the answer?
+
+You have now learned the answer to one of those five Mysteries.","기스제라이 다르바나 사부는 잠자는 자를 만나러 신전의 내부 성소에 들어가려면 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 한다고 고집합니다. 그녀가 나열한 오중 수수께끼는 다음과 같습니다: 그는 누구인가? 어디서 왔는가? 왜 떠났는가? 누구를 찾았는가? 답은 무엇이었는가?
+
+이제 다섯 가지 수수께끼 중 하나의 답을 알게 되었습니다.",,,,,,0,0
+100488,,,"Dharvana, the Githzerai Sensei, insists that you must learn and recite the Five-Fold Mysteries of the Sleeping Man before she will let you into the temple's Inner Sanctum to see him. She listed the Five-Fold Mysteries as follows: Who is he? From where did he come? Why did he leave? Who did he seek? What was the answer?
+
+You have now learned the answer to twi of those five Mysteries.","기스제라이 다르바나 사부는 잠자는 자를 만나러 신전의 내부 성소에 들어가려면 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 한다고 고집합니다. 그녀가 나열한 오중 수수께끼는 다음과 같습니다: 그는 누구인가? 어디서 왔는가? 왜 떠났는가? 누구를 찾았는가? 답은 무엇이었는가?
+
+이제 다섯 가지 수수께끼 중 두 개의 답을 알게 되었습니다.",,,,,,0,0
+100489,,,"Dharvana, the Githzerai Sensei, insists that you must learn and recite the Five-Fold Mysteries of the Sleeping Man before she will let you into the temple's Inner Sanctum to see him. She listed the Five-Fold Mysteries as follows: Who is he? From where did he come? Why did he leave? Who did he seek? What was the answer?
+
+You have now learned the answer to three of those five Mysteries.","기스제라이 다르바나 사부는 잠자는 자를 만나러 신전의 내부 성소에 들어가려면 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 한다고 고집합니다. 그녀가 나열한 오중 수수께끼는 다음과 같습니다: 그는 누구인가? 어디서 왔는가? 왜 떠났는가? 누구를 찾았는가? 답은 무엇이었는가?
+
+이제 다섯 가지 수수께끼 중 세 개의 답을 알게 되었습니다.",,,,,,0,0
+100490,,,"Dharvana, the Githzerai Sensei, insists that you must learn and recite the Five-Fold Mysteries of the Sleeping Man before she will let you into the temple's Inner Sanctum to see him. She listed the Five-Fold Mysteries as follows: Who is he? From where did he come? Why did he leave? Who did he seek? What was the answer?
+
+You have now learned the answer to four of those five Mysteries.","기스제라이 다르바나 사부는 잠자는 자를 만나러 신전의 내부 성소에 들어가려면 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 한다고 고집합니다. 그녀가 나열한 오중 수수께끼는 다음과 같습니다: 그는 누구인가? 어디서 왔는가? 왜 떠났는가? 누구를 찾았는가? 답은 무엇이었는가?
+
+이제 다섯 가지 수수께끼 중 네 개의 답을 알게 되었습니다.",,,,,,0,0
+100491,,,"Dharvana, the Githzerai Sensei, insists that you must learn and recite the Five-Fold Mysteries of the Sleeping Man before she will let you into the temple's Inner Sanctum to see him. She listed the Five-Fold Mysteries as follows: Who is he? From where did he come? Why did he leave? Who did he seek? What was the answer?
+
+You have now learned the answer to all five of those Mysteries, should you wish to recite them before the Sensei.","기스제라이 다르바나 사부는 잠자는 자를 만나러 신전의 내부 성소에 들어가려면 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 한다고 고집합니다. 그녀가 나열한 오중 수수께끼는 다음과 같습니다: 그는 누구인가? 어디서 왔는가? 왜 떠났는가? 누구를 찾았는가? 답은 무엇이었는가?
+
+이제 다섯 가지 수수께끼의 답을 모두 알게 되었으니, 원한다면 사부 앞에서 암송할 수 있습니다.",,,,,,0,0
+100492,,,"While exploring the Temple of the Sleeping Man in the city's northwest corner, you've managed to pick the lock on one of the doors. It leads to the Inner Sanctum where the temple's namesake is said to rest.","도시 북서쪽 구석의 잠자는 자의 신전을 탐험하다가 문 하나의 자물쇠를 따는 데 성공했습니다. 그 문은 신전의 이름이 유래한 존재가 쉬고 있다는 내부 성소로 통합니다.",,,,,,0,0
+100493,,,"In the holy confines of the Temple of the Sleeping Man, you have successfully recited his Five-Fold Mysteries before the Sensei Dharvana. Your reward is a crystalline amulet that she says will help you focus your thoughts on the dreams of the Sleeping Man, provided you have any latent psionic powers. The door into the temple's Inner Sanctum is now unlocked to you.","잠자는 자의 신전의 신성한 구역에서 다르바나 사부 앞에서 오중 수수께끼를 성공적으로 암송했습니다. 보상은 수정 부적인데, 잠재적인 사이오닉 능력이 있다면 잠자는 자의 꿈에 생각을 집중하는 데 도움이 될 것이라고 합니다. 신전의 내부 성소로 통하는 문이 이제 열렸습니다.",,,,,,0,0
+100494,,,"Defiling the holy confines of the Temple of the Sleeping Man, you have assassinated its leader, the Sensei Dharvana. Looting through her bloodied corpse, you found an interesting crystalline amulet about her neck. You pocket it surreptitiously, eager to explore the remainder of the temple.","잠자는 자의 신전의 신성한 구역을 모독하며 지도자인 다르바나 사부를 암살했습니다. 피투성이 시체를 뒤져 목에서 흥미로운 수정 부적을 발견했습니다. 슬쩍 주머니에 넣고 나머지 신전을 탐험하고 싶어집니다.",,,,,,0,0
+100495,,,"There, in the temple's Inner Sanctum, with the winged form of the Sleeping Man prostrate before you, you tried in vain to make use of the Sensei's amulet. The crystal glowed a murky green when in his presence and you could feel its growing hum but you somehow lacked the wisdom to tap into its psionic powers. ","신전의 내부 성소에서, 날개 달린 잠자는 자의 형체가 앞에 엎드려 있는 가운데, 사부의 부적을 사용하려 했지만 헛수고였습니다. 수정은 그의 곁에서 탁한 녹색으로 빛났고 점점 커지는 진동을 느낄 수 있었지만, 어찌된 일인지 사이오닉 능력을 끌어낼 지혜가 부족했습니다.",,,,,,0,0
+100496,,,"There, in the temple's Inner Sanctum, with the winged form of the Sleeping Man prostrate before you, you made use of the Sensei's amulet. The crystal glowed a murky green when in his presence and you could feel its growing hum and then, all at once, you found yourself swept up within his dreams. ","신전의 내부 성소에서, 날개 달린 잠자는 자의 형체가 앞에 엎드려 있는 가운데, 사부의 부적을 사용했습니다. 수정은 그의 곁에서 탁한 녹색으로 빛났고 점점 커지는 진동을 느꼈습니다. 그리고 갑자기 그의 꿈속으로 빨려 들어갔습니다.",,,,,,0,0
+100497,,,"There, in the temple's dim green light, the Sensei's amulet clasped about your neck, you dreamed the dreams of the Sleeping Man. Mephistopheles was there and a woman called the Knower of Names, whom he banished. And an older woman, the Knower of Places, whom the Sleeping Man had visited in search of his one true love. Throughout his quest, he was somehow guided by a ring that now lies, buried and guarded, in a chamber below him. If you hope to find the Knowers, you will need that ring upon your finger...","신전의 어두운 녹색 빛 속에서, 사부의 부적을 목에 걸고 잠자는 자의 꿈을 꾸었습니다. 메피스토펠레스가 있었고, 그가 추방한 이름의 현자라는 여인이 있었습니다. 그리고 잠자는 자가 진정한 사랑을 찾아 방문했던 나이든 여인, 공간의 현자가 있었습니다. 여정 내내 그는 어떤 반지의 안내를 받았는데, 그 반지는 지금 그의 아래 방에 묻혀 경비되고 있습니다. 현자들을 찾으려면 그 반지를 손가락에 끼어야 할 것입니다...",,,,,,0,0
+100498,,,"There, in the temple's dim green light, you have done the unthinkable and woken the Sleeping Man. Hopefully he will be able to tell you the Gatekeeper's True Name.","신전의 어두운 녹색 빛 속에서 상상도 못 할 일을 해냈습니다: 잠자는 자를 깨운 것입니다. 그가 문지기의 진명을 알려줄 수 있기를 바랍니다.",,,,,,0,0
+100499,,,"In waking the Sleeping Man, you unleashed the Sensei's fury. Driven mad with rage, she attacked and you had no choice but to defend yourself. Now she lies dead at the feet of the Sleeping Man who she worshiped. About her neck is a crystalline amulet. You snap it off, casually pocketing it as you have so many other treasures taken from the bodies of the dead.","잠자는 자를 깨우자 사부의 분노가 폭발했습니다. 광기에 사로잡힌 그녀가 공격해 와서 방어할 수밖에 없었습니다. 이제 그녀는 숭배하던 잠자는 자의 발치에 죽어 누워 있습니다. 목에 수정 부적이 있습니다. 떼어내서 죽은 자들의 시체에서 가져간 다른 많은 보물들처럼 무심히 주머니에 넣습니다.",,,,,,0,0
+100500,,,"The Sleeping Man knows many things but, sadly, the Gatekeeper's True Name is not one of them. Even so, he tells of a race of creatures called the Knowers who once called Cania home. One of them, the Knower of Names was banished by Mephistopheles long ago while the other, the Knower of Places, lives in hiding deep in Cania's frozen wastelands. His own quest had brought him the latter's hidden lair, long ago, a feat made possible only with the aid of an enchanted ring. The ring lies in a chamber under the temple, guarded and kept safe all these many years. He has invited you to make use of the ring, provided you can claim it, and wishes you well on your journey.","잠자는 자는 많은 것을 알고 있지만, 안타깝게도 문지기의 진명은 그중 하나가 아닙니다. 그래도 한때 카니아를 고향으로 삼았던 현자들이라는 종족에 대해 알려줍니다. 그중 한 명인 이름의 현자는 오래전 메피스토펠레스에 의해 추방되었고, 다른 한 명인 공간의 현자는 카니아의 얼어붙은 황무지 깊숙이 숨어 살고 있습니다. 오래전 그 자신의 여정이 후자의 숨겨진 은신처로 이끌었는데, 마법이 걸린 반지의 도움으로만 가능했습니다. 반지는 신전 아래 방에 있으며, 오랜 세월 경비되고 안전하게 보관되어 왔습니다. 그는 반지를 얻을 수 있다면 사용하라고 제안하며 여정에 행운을 빕니다.",,,,,,0,0
+100502,,,You've heard mention of some form of quarry being operated by the devils in the City of Lost Souls. A fiend by the name of Gru'ul apparently serves as the Quarry Boss.,"잃어버린 영혼의 도시에서 악마들이 운영하는 채석장에 대한 이야기를 들었습니다. 그루울이라는 마족이 채석장 감독으로 일하고 있다고 합니다.",,,,,,0,0
+100503,,,"The dented metal walls of the Quarry Office on the east side of town reverberate with the rage of the Quarry Boss, Gru'ul. Apparently Grinder #5, down in the quarry proper, is malfunctioning. As Gru'ul runs one of the only stores in town and he refuses to do business until the Grinder is back in operation, it might be in your interest to investigate.","도시 동쪽의 채석장 사무실의 찌그러진 금속 벽이 채석장 감독 그루울의 분노로 울립니다. 채석장 아래의 분쇄기 5호가 고장 난 것 같습니다. 그루울이 도시에서 거의 유일한 상점을 운영하고 분쇄기가 다시 작동할 때까지 거래를 거부하니, 조사해 보는 게 좋을 것입니다.",,,,,,0,0
+100504,,,"Down in the ice quarry on the eastern edge of the City of Lost Souls, Lazy the Imp decided to stick his hand into Grinder #5 in order to gain a much-needed rest. You have succeeded in taking the Grinder apart, thereby freeing Lazy, but Gru'ul, the Quarry Boss, still won't do business with anyone until that Grinder is back in operation.","잃어버린 영혼의 도시 동쪽 끝의 얼음 채석장에서, 게으름뱅이 임프가 필요한 휴식을 얻으려고 분쇄기 5호에 손을 넣었습니다. 분쇄기를 분해해서 게으름뱅이를 해방시키는 데 성공했지만, 채석장 감독 그루울은 분쇄기가 다시 작동할 때까지 아무와도 거래하지 않을 것입니다.",,,,,,0,0
+100505,,,"Down in the ice quarry on the eastern edge of the City of Lost Souls, Lazy the Imp decided to stick his hand into Grinder #5 in order to gain a much-needed rest. You have succeeded in taking the Grinder apart, thereby freeing Lazy, but have been unable to put it back together again. You're not entirely sure how you're going to break the news to Gru'ul, the Quarry Boss, but you're going to have to remedy the problem somehow if you expect to do any business with him in the future.","잃어버린 영혼의 도시 동쪽 끝의 얼음 채석장에서, 게으름뱅이 임프가 필요한 휴식을 얻으려고 분쇄기 5호에 손을 넣었습니다. 분쇄기를 분해해서 게으름뱅이를 해방시키는 데 성공했지만, 다시 조립할 수 없었습니다. 채석장 감독 그루울에게 어떻게 말해야 할지 모르겠지만, 앞으로 그와 거래하려면 어떻게든 문제를 해결해야 합니다.",,,,,,0,0
+100506,,,"Down in the ice quarry on the eastern edge of the City of Lost Souls, Lazy the Imp decided to stick his hand into Grinder #5 in order to gain a much-needed rest. You have succeeded in taking the Grinder apart, thereby freeing Lazy, but have been unable to put it back together again. Gru'ul, the Quarry Boss, has put the 50,000 gp repair price squarely on your shoulders and, sadly, if you expect to do any business with him, you're going to have to pay up.","잃어버린 영혼의 도시 동쪽 끝의 얼음 채석장에서, 게으름뱅이 임프가 필요한 휴식을 얻으려고 분쇄기 5호에 손을 넣었습니다. 분쇄기를 분해해서 게으름뱅이를 해방시키는 데 성공했지만, 다시 조립할 수 없었습니다. 채석장 감독 그루울이 수리비 금화 50,000개를 당신에게 떠넘겼고, 안타깝게도 그와 거래하려면 돈을 내야 합니다.",,,,,,0,0
+100507,,,"Down in the ice quarry on the eastern edge of the City of Lost Souls, Lazy the Imp decided to stick his hand into Grinder #5 in order to gain a much-needed rest. You have succeeded in taking the Grinder apart, thereby freeing Lazy, but have been unable to put it back together again. Gru'ul, the Quarry Boss, has put the 30,000 gp repair price squarely on your shoulders and, sadly, if you expect to do any business with him, you're going to have to pay up.","잃어버린 영혼의 도시 동쪽 끝의 얼음 채석장에서, 게으름뱅이 임프가 필요한 휴식을 얻으려고 분쇄기 5호에 손을 넣었습니다. 분쇄기를 분해해서 게으름뱅이를 해방시키는 데 성공했지만, 다시 조립할 수 없었습니다. 채석장 감독 그루울이 수리비 금화 30,000개를 당신에게 떠넘겼고, 안타깝게도 그와 거래하려면 돈을 내야 합니다.",,,,,,0,0
+100508,,,"Down in the ice quarry on the eastern edge of the City of Lost Souls, Lazy the Imp decided to stick his hand into Grinder #5 in order to gain a much-needed rest. Luckily you have a knack with machines and were able to take the Grinder apart, free Lazy, and then put it back together once all was said and done. Gru'ul, the Quarry Boss, should be happy to hear that you got it working again.","잃어버린 영혼의 도시 동쪽 끝의 얼음 채석장에서, 게으름뱅이 임프가 필요한 휴식을 얻으려고 분쇄기 5호에 손을 넣었습니다. 다행히 기계에 소질이 있어서 분쇄기를 분해하고, 게으름뱅이를 해방시키고, 모든 게 끝난 후 다시 조립할 수 있었습니다. 채석장 감독 그루울은 다시 작동시켰다는 소식에 기뻐할 것입니다.",,,,,,0,0
+100509,,,"Down in the ice quarry on the eastern edge of the City of Lost Souls, Lazy the Imp decided to stick his hand into Grinder #5 in order to gain a much-needed rest. Deciding that his rest should be permanent, you chose to feed him through the Grinder. Gru'ul, the Quarry Boss, should be happy to hear that everything is back in fine working condition.","잃어버린 영혼의 도시 동쪽 끝의 얼음 채석장에서, 게으름뱅이 임프가 필요한 휴식을 얻으려고 분쇄기 5호에 손을 넣었습니다. 그의 휴식이 영원해야 한다고 결정하고, 분쇄기에 그를 넣어 버렸습니다. 채석장 감독 그루울은 모든 것이 정상 작동한다는 소식에 기뻐할 것입니다.",,,,,,0,0
+100510,,,"Down in the ice quarry on the eastern edge of the City of Lost Souls, Lazy the Imp decided to stick his hand into Grinder #5 in order to gain a much-needed rest. Somehow you managed to convince Gru'ul, the Quarry Boss, to declare a holiday for his laborers, thereby improving their quality of life. With the issue now addressed, you'll hopefully be able to do some actual business with the otherwise preoccupied Quarry Boss.","잃어버린 영혼의 도시 동쪽 끝의 얼음 채석장에서, 게으름뱅이 임프가 필요한 휴식을 얻으려고 분쇄기 5호에 손을 넣었습니다. 어떻게든 채석장 감독 그루울을 설득해서 노동자들에게 휴일을 선언하게 해서 그들의 삶의 질을 향상시켰습니다. 문제가 해결되었으니, 다른 일에 몰두하던 채석장 감독과 실제 거래를 할 수 있기를 바랍니다.",,,,,,0,0
+100511,,,"Thanks to your assistance, Gru'ul the Quarry Boss has finally agreed to do business with you. If you ever need supplies, you can return to his store in the Quarry Office on the east side of town.","당신의 도움 덕분에 채석장 감독 그루울이 마침내 거래에 동의했습니다. 물자가 필요하면 도시 동쪽의 채석장 사무실에 있는 그의 상점으로 돌아갈 수 있습니다.",,,,,,0,0
+100512,,,The Fifth-Fold Mystery of the Sleeping Man,잠자는 자의 다섯째 수수께끼,,,,,,0,0
+100513,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Fifth-Fold Mystery of the Sleeping Man is ""What was the answer?""","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 다섯째 수수께끼는 ""답은 무엇이었는가?""입니다.",,,,,,0,0
+100514,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Fifth-Fold Mystery of the Sleeping Man is ""What was the answer?""
+
+You have learned the Mystery from the spirit of Aribeth de Tylmarande, who says the answer given was 'She will find you by the Gates of Cania.' ","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 다섯째 수수께끼는 ""답은 무엇이었는가?""입니다.
+
+아리베스 드 틸마란데의 영혼에게서 수수께끼를 알아냈는데, 주어진 답은 '그녀가 카니아의 문에서 당신을 찾을 것이다'라고 합니다.",,,,,,0,0
+100515,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Fifth-Fold Mystery of the Sleeping Man is ""What was the answer?""
+
+You have learned the Mystery from the Gatekeeper of Cania, who says the answer given was 'She will find you by the Gates of Cania.'","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 다섯째 수수께끼는 ""답은 무엇이었는가?""입니다.
+
+카니아의 문지기에게서 수수께끼를 알아냈는데, 주어진 답은 '그녀가 카니아의 문에서 당신을 찾을 것이다'라고 합니다.",,,,,,0,0
+100516,,,The First-Fold Mystery of the Sleeping Man,잠자는 자의 첫째 수수께끼,,,,,,0,0
+100517,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The First-Fold Mystery of the Sleeping Man is ""Who is he?""","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 첫째 수수께끼는 ""그는 누구인가?""입니다.",,,,,,0,0
+100518,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The First-Fold Mystery of the Sleeping Man is ""Who is he?""
+
+You have learned the Mystery from Gru'ul, the Quarry Boss, who says he's a Planetar, a creature of good.","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 첫째 수수께끼는 ""그는 누구인가?""입니다.
+
+채석장 감독 그루울에게서 수수께끼를 알아냈는데, 그는 선의 존재인 플레네타라고 합니다.",,,,,,0,0
+100519,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The First-Fold Mystery of the Sleeping Man is ""Who is he?""
+
+You have learned the Mystery from the Sensei, herself, who says he's a Planetar, a creature of good.","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 첫째 수수께끼는 ""그는 누구인가?""입니다.
+
+사부 본인에게서 수수께끼를 알아냈는데, 그는 선의 존재인 플레네타라고 합니다.",,,,,,0,0
+100520,,,The Fourth-Fold Mystery of the Sleeping Man,잠자는 자의 넷째 수수께끼,,,,,,0,0
+100521,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Fourth-Fold Mystery of the Sleeping Man is ""Who did he seek?""","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 넷째 수수께끼는 ""누구를 찾았는가?""입니다.",,,,,,0,0
+100522,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Fourth-Fold Mystery of the Sleeping Man is ""Who did he seek?""
+
+You have learned the Mystery from a book in the Sensei's temple, which claims he sought a creature called the Knower of Places.","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 넷째 수수께끼는 ""누구를 찾았는가?""입니다.
+
+사부의 신전에 있는 책에서 수수께끼를 알아냈는데, 공간의 현자라는 존재를 찾았다고 합니다.",,,,,,0,0
+100523,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Fourth-Fold Mystery of the Sleeping Man is ""Who did he seek?""
+
+You have learned the Mystery from Arden Swift in the Hellbreath Tavern, who claims he sought a creature called the Knower of Places.","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 넷째 수수께끼는 ""누구를 찾았는가?""입니다.
+
+지옥숨결 주점의 아덴 스위프트에게서 수수께끼를 알아냈는데, 공간의 현자라는 존재를 찾았다고 합니다.",,,,,,0,0
+100525,,,"You can feel yourself getting closer to the hidden lair of the Knower of Places. In a secret chamber deep in the icy wastes of Cania, you have found the statue of a gargoyle. Etched along its base are the words ""Stone to stone the stone turns; Lightning to lightning, the ligtning fades.""","공간의 현자의 숨겨진 은신처에 가까워지는 것을 느낍니다. 카니아의 얼음 황무지 깊은 곳의 비밀 방에서 가고일 조각상을 발견했습니다. 받침대를 따라 새겨진 글귀가 있습니다: ""돌에서 돌로 돌이 돌아가고, 번개에서 번개로 번개가 사라진다.""",,,,,,0,0
+100526,,,"A series of chambers run deep beneath the ice of Cania, leading to what you hope will be the hidden lair of the Knower of Places. Various gargoyle statues guard the way. You have just encountered another that bears a strange inscription: ""What one cannot hear, others cannot see.""","카니아의 얼음 아래로 일련의 방들이 깊숙이 이어져 공간의 현자의 숨겨진 은신처로 이어지기를 바랍니다. 다양한 가고일 조각상들이 길을 지키고 있습니다. 이상한 문구가 새겨진 또 다른 조각상을 발견했습니다: ""하나가 듣지 못하면, 다른 것들은 볼 수 없다.""",,,,,,0,0
+100527,,,"A series of chambers run deep beneath the ice of Cania, leading to what you hope will be the hidden lair of the Knower of Places. Various gargoyle statues guard the way. A recent one bore a strange inscription that read ""What one cannot hear, others cannot see."" You have just discovered a new statue. While it bears no inscription, it seems to be missing its ears.","카니아의 얼음 아래로 일련의 방들이 깊숙이 이어져 공간의 현자의 숨겨진 은신처로 이어지기를 바랍니다. 다양한 가고일 조각상들이 길을 지키고 있습니다. 최근의 것에는 ""하나가 듣지 못하면, 다른 것들은 볼 수 없다""라는 이상한 문구가 새겨져 있었습니다. 새로운 조각상을 발견했습니다. 문구는 없지만 귀가 없는 것 같습니다.",,,,,,0,0
+100528,,,"A series of chambers run deep beneath the ice of Cania, leading to what you hope will be the hidden lair of the Knower of Places. Various gargoyle statues guard the way. The most recent gargoyle had been missing its ears. When you found and replaced them, however, the statue opened its mouth, revealing a small switch.","카니아의 얼음 아래로 일련의 방들이 깊숙이 이어져 공간의 현자의 숨겨진 은신처로 이어지기를 바랍니다. 다양한 가고일 조각상들이 길을 지키고 있습니다. 가장 최근의 가고일은 귀가 없었습니다. 귀를 찾아 붙이자 조각상이 입을 열어 작은 스위치를 드러냈습니다.",,,,,,0,0
+100529,,,"A series of chambers run deep beneath the ice of Cania, leading to what you hope will be the hidden lair of the Knower of Places. Various puzzles have stood in your way but now a portal has appeared, leading into a third chamber that lies beyond. ","카니아의 얼음 아래로 일련의 방들이 깊숙이 이어져 공간의 현자의 숨겨진 은신처로 이어지기를 바랍니다. 여러 가지 퍼즐이 가로막았지만 이제 포털이 나타나 저편의 세 번째 방으로 통합니다.",,,,,,0,0
+100530,,,"You can feel yourself getting closer to the hidden lair of the Knower of Places. In a secret chamber deep in the icy wastes of Cania, you caused three gargoyle statues to fire lightning at a magically warded door. With that, the warding faded, revealing a second chamber beyond.","공간의 현자의 숨겨진 은신처에 가까워지는 것을 느낍니다. 카니아의 얼음 황무지 깊은 곳의 비밀 방에서 세 개의 가고일 조각상이 마법으로 봉인된 문에 번개를 쏘게 했습니다. 그러자 봉인이 사라지며 저편의 두 번째 방이 드러났습니다.",,,,,,0,0
+100531,,,"A series of chambers run deep beneath the ice of Cania, leading to what you hope will be the hidden lair of the Knower of Places. Various gargoyle statues guard the way. The most recent gargoyle had been missing its ears. When you found and replaced them, however, the statue opened its mouth, revealing a small switch. When you pressed the switch, you heard three different gongs sound throughout the chamber in what seemed to be a very particular order. It seems that whoever created the statues expects you to find the gongs and play back the sequence.","카니아의 얼음 아래로 일련의 방들이 깊숙이 이어져 공간의 현자의 숨겨진 은신처로 이어지기를 바랍니다. 다양한 가고일 조각상들이 길을 지키고 있습니다. 가장 최근의 가고일은 귀가 없었습니다. 귀를 찾아 붙이자 조각상이 입을 열어 작은 스위치를 드러냈습니다. 스위치를 누르자 방 전체에서 세 개의 다른 징 소리가 특정한 순서로 울렸습니다. 조각상을 만든 자는 징을 찾아 그 순서대로 연주하길 기대하는 것 같습니다.",,,,,,0,0
+100533,,,"A bizarre creature, shaped like a common treasure chest but wielding some strange grappling device, has stolen the clothes right off your back before escaping to safety. Cold, naked, and embarrassed, you vow to make the pesky little creature pay.","평범한 보물 상자 모양이지만 이상한 갈고리 장치를 휘두르는 기괴한 생명체가 당신의 옷을 벗겨가고 안전한 곳으로 도망쳤습니다. 춥고, 벌거벗고, 창피한 당신은 그 성가신 작은 생명체에게 복수하겠다고 다짐합니다.",,,,,,0,0
+100534,,,"A bizarre creature, shaped like a common treasure chest but wielding some strange grappling device, has stolen armor right out of your pack before escaping to safety. Cold, naked, and embarrassed, you vow to make the pesky little creature pay.","평범한 보물 상자 모양이지만 이상한 갈고리 장치를 휘두르는 기괴한 생명체가 가방에서 갑옷을 훔쳐가고 안전한 곳으로 도망쳤습니다. 춥고, 벌거벗고, 창피한 당신은 그 성가신 작은 생명체에게 복수하겠다고 다짐합니다.",,,,,,0,0
+100535,,,"A bizarre creature, shaped like a common treasure chest but wielding some strange grappling device, has stolen some of your possessions right out of your pack before escaping to safety. Cold, naked, and embarrassed, you vow to make the pesky little creature pay.","평범한 보물 상자 모양이지만 이상한 갈고리 장치를 휘두르는 기괴한 생명체가 가방에서 소지품 일부를 훔쳐가고 안전한 곳으로 도망쳤습니다. 춥고, 벌거벗고, 창피한 당신은 그 성가신 작은 생명체에게 복수하겠다고 다짐합니다.",,,,,,0,0
+100536,,,"The pesky Mimic is dead at last and your stolen belongings returned. What is more, you have also recovered the strange grappling device it had been using to navigate the chambers. Judging by what the Mimic had been capable of, you surmise that you should be able to use it to pull yourself to certain objects or pull them to you. You have a sneaking suspicion that you'll be able to find other less conventional uses for it as well. Regardless, it appears that you simply need to be facing in the general direction of the object you intend to interact with when the grappling hand is activated.","성가신 흉내쟁이가 마침내 죽고 훔친 소지품을 되찾았습니다. 게다가 흉내쟁이가 방을 돌아다니는 데 사용하던 이상한 갈고리 장치도 회수했습니다. 흉내쟁이가 할 수 있었던 것으로 보아, 특정 물체에 자신을 끌어당기거나 물체를 당신에게 끌어당기는 데 사용할 수 있을 것입니다. 다른 비전통적인 용도도 찾을 수 있을 거라는 짐작이 듭니다. 어쨌든 갈고리 손을 활성화할 때 상호작용하려는 물체의 일반적인 방향을 향하기만 하면 되는 것 같습니다.",,,,,,0,0
+100537,,,The Prisoner,죄수,,,,,,0,0
+100538,,,"A magical platform glows high above you, a human form dimly visible upon it. It almost appears that the platform was intended as some form of prison, forever separating the mysterious figure from the world below. Perhaps there is a way to lower the platform and investigate further.","마법의 발판이 당신 머리 위 높이에서 빛나고, 그 위에 인간의 형체가 희미하게 보입니다. 발판은 일종의 감옥으로 의도된 것 같아, 신비로운 형체를 아래 세상에서 영원히 분리시킵니다. 발판을 내려 더 조사할 방법이 있을지도 모릅니다.",,,,,,0,0
+100539,,,"Your efforts to lower the magical prison have met with mixed success. While it didn't actually lower, per se, you were able to dissolve it. Unfortunately for the prisoner it held aloft, the results of your interference were rather catastrophic. If he wasn't already dead before the platform dissolved, he is now. Still, as the prisoner hit the ground, you heard a small ringing sound echo off the stone walls, suggesting that something else must have fallen with him.","마법의 감옥을 내리려는 노력은 반쯤 성공했습니다. 정확히 내린 것은 아니지만 녹일 수는 있었습니다. 불행히도 그 위에 있던 죄수에게 당신의 개입 결과는 꽤 참혹했습니다. 발판이 녹기 전에 이미 죽지 않았다면, 지금은 죽었습니다. 그래도 죄수가 바닥에 떨어질 때 돌벽에 작은 울림 소리가 울려 퍼져, 그와 함께 다른 무언가가 떨어졌음을 암시합니다.",,,,,,0,0
+100540,,,"Mould grows on the dessicated entrails of the fallen prisoner, suggesting that he was indeed dead long before your interventions. His remains are cloaked in the tangled remnants of a motheaten robe, its arcane lettering having long since faded beneath the dust. There, gleaming amidst his shriveled intestines, a golden ring pokes through the tatters of a tiny bag. It seems that the prisoner had valued it enough to swallow it and thereby hide it from his unknown captors.","떨어진 죄수의 말라붙은 내장에 곰팡이가 자라, 당신이 개입하기 훨씬 전에 이미 죽었음을 암시합니다. 그의 유해는 좀먹은 로브의 엉킨 잔해로 덮여 있고, 비전의 글자는 먼지 아래서 오래전에 바랬습니다. 쪼그라든 창자 사이에서 반짝이며, 작은 주머니의 넝마를 뚫고 황금 반지가 삐죽 나와 있습니다. 죄수는 그것을 삼켜서 알 수 없는 포획자들에게서 숨길 만큼 소중히 여겼던 것 같습니다.",,,,,,0,0
+100542,,,The Spirits of the Dead who congregate around the Gates of Cania speak of a creature called the Scrivener who bears the horrible responsibility of carving the names of Lost Spirits into the city's icy walls.,"카니아의 문 주변에 모이는 죽은 자들의 영혼이 기록관이라 불리는 생명체에 대해 말합니다. 잃어버린 영혼들의 이름을 도시의 얼음 벽에 새기는 끔찍한 책임을 지고 있다고 합니다.",,,,,,0,0
+100543,,,"You have found a small dog-like beast called the Scrivener whining at the entrance to a cave at the heart of town. Some magical force blocks the entrance, however, leaving both of you out in the proverbial cold.","마을 중심부의 동굴 입구에서 기록관이라 불리는 작은 개 같은 짐승이 낑낑거리는 것을 발견했습니다. 하지만 마법의 힘이 입구를 막고 있어 둘 다 추위에 떨고 있습니다.",,,,,,0,0
+100544,,,"It seems you have found a friend in a small dog-like creature called the Scrivener. It speaks in the form of word pictures that it projects psionically into the air just above its head. It seems to want you to lead it somewhere but you're having trouble determining where it wants to go. It keeps projecting the following sequence of images to you: A sturdy oak, full with leaves, then a boy held in his father's arms. This second image seems to be focused on the boy rather than the father. ","기록관이라 불리는 작은 개 같은 생명체와 친구가 된 것 같습니다. 그것은 머리 바로 위 공중에 사이오닉으로 투사하는 단어 그림 형태로 말합니다. 어딘가로 안내해 달라는 것 같지만 어디로 가고 싶은지 파악하기 어렵습니다. 계속해서 다음 순서의 이미지를 투사합니다: 잎이 무성한 튼튼한 참나무, 그리고 아버지 품에 안긴 소년. 두 번째 이미지는 아버지보다 소년에게 초점이 맞춰진 것 같습니다.",,,,,,0,0
+100545,,,"It seems you have found a friend in a small dog-like creature called the Scrivener. It speaks in the form of word pictures that it projects psionically into the air just above its head. It also seems to navigate the town by way of a series of stone pillars, etched with words. You have already led it to the first of these, called 'Treason' but now it wishes to be taken to another. It keeps projecting the following sequence of images to you: A man on his deathbed, then two others standing side by side, then a fourth man's leg, bared between his ankle-high boots and knee-length breeches.","기록관이라 불리는 작은 개 같은 생명체와 친구가 된 것 같습니다. 그것은 머리 바로 위 공중에 사이오닉으로 투사하는 단어 그림 형태로 말합니다. 또한 단어가 새겨진 일련의 석조 기둥을 통해 마을을 탐색하는 것 같습니다. 이미 첫 번째 기둥인 '반역'으로 안내했지만 이제 다른 곳으로 가고 싶어합니다. 계속해서 다음 순서의 이미지를 투사합니다: 임종 침대의 남자, 나란히 서 있는 두 사람, 그리고 발목 높이 부츠와 무릎길이 바지 사이에 드러난 네 번째 남자의 다리.",,,,,,0,0
+100546,,,"It seems you have found a friend in a small dog-like creature called the Scrivener. It speaks in the form of word pictures that it projects psionically into the air just above its head. It also seems to navigate the town by way of a series of stone pillars, etched with words. You have already led it to two of these, called 'Treason' and 'Dimension,' but now it wishes to be taken to a third. It keeps projecting the following sequence of images to you: A traveler's resting house, a shark cutting through the water, a close-up of a winking face, and steam rising from a cup and saucer.","기록관이라 불리는 작은 개 같은 생명체와 친구가 된 것 같습니다. 그것은 머리 바로 위 공중에 사이오닉으로 투사하는 단어 그림 형태로 말합니다. 또한 단어가 새겨진 일련의 석조 기둥을 통해 마을을 탐색하는 것 같습니다. 이미 두 개의 기둥인 '반역'과 '차원'으로 안내했지만 이제 세 번째로 가고 싶어합니다. 계속해서 다음 순서의 이미지를 투사합니다: 여행자의 쉼터, 물살을 가르는 상어, 윙크하는 얼굴 클로즈업, 그리고 찻잔과 받침에서 피어오르는 증기.",,,,,,0,0
+100547,,,"Your strange little pet, the Scrivener, at last seems done with its task. When you led it to the pillar called ""Infinity,"" it found its way to a nearby section of wall and began to carve a name into the ice. When you took a closer look, you saw that the name read ""Aribeth de Tylmarande."" With that, the Scrivener wandered off, content that its task was complete.","당신의 이상한 작은 애완동물, 기록관이 마침내 임무를 끝낸 것 같습니다. '무한'이라는 기둥으로 안내하자, 그것은 근처 벽 부분을 찾아가 얼음에 이름을 새기기 시작했습니다. 자세히 보니 그 이름은 '아리베스 드 틸마란데'였습니다. 그러자 기록관은 임무가 끝났다는 듯 만족하며 떠났습니다.",,,,,,0,0
+100548,,,The Second-Fold Mystery of the Sleeping Man,잠자는 자의 둘째 수수께끼,,,,,,0,0
+100549,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Second-Fold Mystery of the Sleeping Man is ""From where did he come?""","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 둘째 수수께끼는 ""어디서 왔는가?""입니다.",,,,,,0,0
+100550,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Second-Fold Mystery of the Sleeping Man is ""From where did he come?""
+
+You have learned the Mystery from the countless devils who toil away in the quarry. They say he comes from a plane called Elysium.","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 둘째 수수께끼는 ""어디서 왔는가?""입니다.
+
+채석장에서 일하는 수많은 마귀들에게서 수수께끼를 배웠습니다. 그들은 그가 엘리시움이라는 차원에서 왔다고 합니다.",,,,,,0,0
+100551,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The Second-Fold Mystery of the Sleeping Man is ""From where did he come?""
+
+You have learned the Mystery from the Scrivener who carves the names of the Lost into the ice. If you understood him correctly, it seems the Sleeping Man comes from someplace called Elysium.","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 둘째 수수께끼는 ""어디서 왔는가?""입니다.
+
+잃어버린 자들의 이름을 얼음에 새기는 기록관에게서 수수께끼를 배웠습니다. 그를 제대로 이해했다면, 잠자는 자는 엘리시움이라는 곳에서 온 것 같습니다.",,,,,,0,0
+100553,,,"As you peer at the Sensei's amulet, you notice that the light seems to play strangely off its crystalline structure. Not quite sure what to make of this strange behavior, you return it to your pack for later investigation.","사부의 부적을 들여다보니, 수정 구조에서 빛이 이상하게 반사되는 것을 알아챘습니다. 이 이상한 현상을 어떻게 해석해야 할지 잘 모르겠어서, 나중에 조사하려고 배낭에 도로 넣었습니다.",,,,,,0,0
+100554,,,"In a fortunate twist of fate, the Sensei's amulet has revealed its true nature. By carefully controlling the angle at which the light strikes its crystalline structure, you find that the resulting refraction has the unexpected ability to modify your body's form. You file the knowledge away for future reference. From here on in, you decide to be more a little more mindful of your magic items, that they don't trigger again so unexpectedly.","운 좋게도 사부의 부적이 진정한 본질을 드러냈습니다. 수정 구조에 빛이 비치는 각도를 조심스럽게 조절하니, 굴절된 빛이 신체 형태를 변형시키는 예상치 못한 능력이 있음을 발견했습니다. 나중을 위해 이 지식을 기억해 둡니다. 앞으로는 마법 아이템이 이렇게 예상치 못하게 작동하지 않도록 좀 더 주의하기로 합니다.",,,,,,0,0
+100556,,,TEMP - Player sees first spirit getting yoinked in a cutscene.,TEMP - 플레이어가 컷신에서 첫 번째 영혼이 끌려가는 것을 봄.,,,,,,0,0
+100557,,,TEMP - Player asks about the spirit who was previously yoinked.,TEMP - 플레이어가 이전에 끌려간 영혼에 대해 물음.,,,,,,0,0
+100558,,,The Third-Fold Mystery of the Sleeping Man,잠자는 자의 셋째 수수께끼,,,,,,0,0
+100559,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The First-Fold Mystery of the Sleeping Man is ""Why did he leave?""","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 셋째 수수께끼는 ""왜 떠났는가?""입니다.",,,,,,0,0
+100560,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The First-Fold Mystery of the Sleeping Man is ""Why did he leave?""
+
+You learned the Mystery from the Spirits of the Dead who call the City of Lost Souls their home. They claim that the Sleeping Man's heart had known no love.","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 셋째 수수께끼는 ""왜 떠났는가?""입니다.
+
+잃어버린 영혼의 도시를 고향이라 부르는 죽은 자들의 영혼에게서 수수께끼를 배웠습니다. 그들은 잠자는 자의 마음이 사랑을 모르고 있었다고 합니다.",,,,,,0,0
+100561,,,"Before Sensei Dharvana will let you enter her temple's Inner Sanctum to see the Sleeping Man, she wants you to learn and recite his Five-Fold Mysteries. The First-Fold Mystery of the Sleeping Man is ""Why did he leave?""
+
+You learned the Mystery from the Githzerai Pilgrims now trapped in Cania. They claim that the Sleeping Man's heart had known no love.","다르바나 사부가 잠자는 자를 만나러 신전의 내부 성소에 들어가게 해주려면, 먼저 잠자는 자의 오중 수수께끼를 배우고 암송해야 합니다. 잠자는 자의 셋째 수수께끼는 ""왜 떠났는가?""입니다.
+
+현재 카니아에 갇힌 기스제라이 순례자들에게서 수수께끼를 배웠습니다. 그들은 잠자는 자의 마음이 사랑을 모르고 있었다고 합니다.",,,,,,0,0
+100563,,,"Having paid the Knower's price, you have learned the True Name of Arden Swift, the jester you met in the Hellbreath Tavern in the City of Lost Souls. He is known in the gods' tongue as Caddisthwaite the Doomed.","현자의 대가를 치르고 잃어버린 영혼들의 도시 지옥숨결 주점에서 만난 광대 아든 스위프트의 진명을 알게 되었습니다. 그는 신들의 언어로 파멸한 캐디스스웨이트라고 불립니다.",,,,,,0,0
+100568,,,"Having paid the Knower's price, you have learned the True Name of your henchman Aribeth de Tylmarande. She is known in the gods' tongue as Va'ardalia the Twinsouled.","현자의 대가를 치르고 동료 아리베스 드 틸마란데의 진명을 알게 되었습니다. 그녀는 신들의 언어로 두영혼의 바아달리아라고 불립니다.",,,,,,0,0
+100569,,,"Having paid the Knower's price, you have learned the True Name of your henchman Aribeth de Tylmarande. She is known in the gods' tongue as Va'ardalia the Twinsouled. Using this knowledge, you recently commanded her to resist the temptations of your nemesis Mephistopheles when you faced each other amidst the ruins of Waterdeep.","현자의 대가를 치르고 동료 아리베스 드 틸마란데의 진명을 알게 되었습니다. 그녀는 신들의 언어로 두영혼의 바아달리아라고 불립니다. 이 지식을 사용해 최근 워터딥 폐허에서 숙적 메피스토펠레스와 맞섰을 때 그녀에게 그의 유혹에 저항하라고 명령했습니다.",,,,,,0,0
+100571,,,"Having paid the Knower's price, you have learned the True Name of your henchman Deekin. He is known in the gods' tongue as Ixthyria the Scalesinger.","현자의 대가를 치르고 동료 디킨의 진명을 알게 되었습니다. 그는 신들의 언어로 비늘소리꾼 익시리아라고 불립니다.",,,,,,0,0
+100572,,,"Having paid the Knower's price, you have learned the True Name of your henchman Deekin. He is known in the gods' tongue as Ixthyria the Scalesinger. Using this knowledge, you recently commanded him to resist the temptations of your nemesis Mephistopheles when you faced each other amidst the ruins of Waterdeep.","현자의 대가를 치르고 동료 디킨의 진명을 알게 되었습니다. 그는 신들의 언어로 비늘소리꾼 익시리아라고 불립니다. 이 지식을 사용해 최근 워터딥 폐허에서 숙적 메피스토펠레스와 맞섰을 때 그에게 그의 유혹에 저항하라고 명령했습니다.",,,,,,0,0
+100574,,,"Having paid the Knower's price, you have learned the True Name of the Gatekeeper of Cania and can finally command him to send you home to the Prime Material. He is known in the gods' tongue as Hecugoth the Abandoned.","현자의 대가를 치르고 카니아의 문지기의 진명을 알게 되어 마침내 주 물질계로 돌려보내라고 명령할 수 있습니다. 그는 신들의 언어로 버림받은 헤쿠고스라고 불립니다.",,,,,,0,0
+100575,,,"Having paid the Knower's price, you have learned the True Name of the Gatekeeper of Cania. He is known in the gods' tongue as Hecugoth the Abandoned. You recently used this knowledge to command him to let the Githzerai Pilgrims return to their home plane of Limbo.","현자의 대가를 치르고 카니아의 문지기의 진명을 알게 되었습니다. 그는 신들의 언어로 버림받은 헤쿠고스라고 불립니다. 최근 이 지식을 사용해 기스제라이 순례자들을 고향 차원 림보로 돌려보내라고 명령했습니다.",,,,,,0,0
+100576,,,"Having paid the Knower's price, you have learned the True Name of the Gatekeeper of Cania. He is known in the gods' tongue as Hecugoth the Abandoned. You recently used this knowledge to command him to allow the Spirits of the Dead to pass through the Gates and haunt the Land of the Living.","현자의 대가를 치르고 카니아의 문지기의 진명을 알게 되었습니다. 그는 신들의 언어로 버림받은 헤쿠고스라고 불립니다. 최근 이 지식을 사용해 죽은 자들의 영혼이 문을 통과해 산 자들의 땅을 떠돌게 허락하라고 명령했습니다.",,,,,,0,0
+100577,,,"Having paid the Knower's price, you have learned the True Name of the Gatekeeper of Cania. He is known in the gods' tongue as Hecugoth the Abandoned. You recently used this knowledge to command him to loose the Devils of Cania upon the unsuspecting planes.","현자의 대가를 치르고 카니아의 문지기의 진명을 알게 되었습니다. 그는 신들의 언어로 버림받은 헤쿠고스라고 불립니다. 최근 이 지식을 사용해 카니아의 마귀들을 의심하지 않는 차원들에 풀어놓으라고 명령했습니다.",,,,,,0,0
+100578,,,"Having paid the Knower's price, you have learned the True Name of the Gatekeeper of Cania. He is known in the gods' tongue as Hecugoth the Abandoned. You recently used it to command him to let you return home to Waterdeep to take your vengeance on the arch-devil Mephistopheles.","현자의 대가를 치르고 카니아의 문지기의 진명을 알게 되었습니다. 그는 신들의 언어로 버림받은 헤쿠고스라고 불립니다. 최근 이것을 사용해 워터딥으로 돌아가 대악마 메피스토펠레스에게 복수하게 해달라고 명령했습니다.",,,,,,0,0
+100580,,,"Having paid the Knower's price, you have learned the True Name of Gru'ul, the foul-mouthed Quarry Boss in the City of Lost Souls. He is known in the gods' tongue as Gargelflaw the Vile.","현자의 대가를 치르고 잃어버린 영혼들의 도시의 입이 거친 채석장 우두머리 그루울의 진명을 알게 되었습니다. 그는 신들의 언어로 비열한 가겔플로라고 불립니다.",,,,,,0,0
+100582,,,"Having paid the Knower's price, you have learned her True Name. She is known in the gods' tongue as Phyreshi the Knower.","현자의 대가를 치르고 그녀의 진명을 알게 되었습니다. 그녀는 신들의 언어로 현자 피레시라고 불립니다.",,,,,,0,0
+100583,,,"Having paid the Knower's price, you have learned her True Name. She is known in the gods' tongue as Phyreshi the Knower. You recently used this knowledge to command her to reveal the True Name of your nemesis, Mephistopheles, who she loved.","현자의 대가를 치르고 그녀의 진명을 알게 되었습니다. 그녀는 신들의 언어로 현자 피레시라고 불립니다. 최근 이 지식을 사용해 그녀가 사랑했던 숙적 메피스토펠레스의 진명을 밝히라고 명령했습니다.",,,,,,0,0
+100584,,,"Having paid the Knower's price, you have learned her True Name. She is known in the gods' tongue as Phyreshi the Knower. You recently used this knowledge to command her to go to the Sleeping Man who waits for her at the Gates of Cania and loves her with all his heart.","현자의 대가를 치르고 그녀의 진명을 알게 되었습니다. 그녀는 신들의 언어로 현자 피레시라고 불립니다. 최근 이 지식을 사용해 카니아의 문에서 그녀를 기다리며 온 마음으로 그녀를 사랑하는 잠자는 자에게 가라고 명령했습니다.",,,,,,0,0
+100586,,,"Having paid the Knower's price, you have learned the True Name of her sister, the Knower of Places. She is known in the gods' tongue as Cordemylia the Knower.","현자의 대가를 치르고 그녀의 자매인 공간의 현자의 진명을 알게 되었습니다. 그녀는 신들의 언어로 현자 코르데밀리아라고 불립니다.",,,,,,0,0
+100588,,,"Having paid the Knower's price, you have commanded her to reveal the True Name of your nemesis, the arch-devil Mephistopheles. He is known in the gods' tongue as Thra'axfyl the Ambitious.","현자의 대가를 치르고 그녀에게 숙적인 대악마 메피스토펠레스의 진명을 밝히라고 명령했습니다. 그는 신들의 언어로 야망의 트라악스필이라고 불립니다.",,,,,,0,0
+100589,,,"Having paid the Knower's price, you have commanded her to reveal the True Name of your nemesis, the arch-devil Mephistopheles. He is known in the gods' tongue as Thra'axfyl the Ambitious. You recently used that knowledge to stop his plans for Lordship over the Prime Material Plane which he hoped would become the Tenth Hell of Baator.","현자의 대가를 치르고 그녀에게 숙적인 대악마 메피스토펠레스의 진명을 밝히라고 명령했습니다. 그는 신들의 언어로 야망의 트라악스필이라고 불립니다. 최근 그 지식을 사용해 베이아터의 열 번째 지옥으로 만들려던 주 물질계 지배 계획을 저지했습니다.",,,,,,0,0
+100590,,,"Having paid the Knower's price, you have commanded her to reveal the True Name of your nemesis, the arch-devil Mephistopheles. He is known in the gods' tongue as Thra'axfyl the Ambitious. You recently used that knowledge to force him to let you join in his plans for Lordship over the Prime Material Plane and its transformation into the Tenth Hell of Baator.","현자의 대가를 치르고 그녀에게 숙적인 대악마 메피스토펠레스의 진명을 밝히라고 명령했습니다. 그는 신들의 언어로 야망의 트라악스필이라고 불립니다. 최근 그 지식을 사용해 주 물질계 지배와 베이아터의 열 번째 지옥으로의 변환 계획에 합류하게 강제했습니다.",,,,,,0,0
+100591,,,"Having paid the Knower's price, you have commanded her to reveal the True Name of your nemesis, the arch-devil Mephistopheles. He is known in the gods' tongue as Thra'axfyl the Ambitious. You recently used that knowledge to replace him as Lord of the Prime Material Plane.","현자의 대가를 치르고 그녀에게 숙적인 대악마 메피스토펠레스의 진명을 밝히라고 명령했습니다. 그는 신들의 언어로 야망의 트라악스필이라고 불립니다. 최근 그 지식을 사용해 주 물질계의 군주로서 그를 대체했습니다.",,,,,,0,0
+100593,,,"Having paid the Knower's price, you have learned the True Name of your henchman Nathyrra. She is known in the gods' tongue as Qeyifalia the Skyseeker.","현자의 대가를 치르고 동료 나시라의 진명을 알게 되었습니다. 그녀는 신들의 언어로 하늘탐구자 퀴팔리아라고 불립니다.",,,,,,0,0
+100594,,,"Having paid the Knower's price, you have learned the True Name of your henchman Nathyrra. She is known in the gods' tongue as Qeyifalia the Skyseeker. Using this knowledge, you recently commanded her to resist the temptations of your nemesis Mephistopheles when you faced each other amidst the ruins of Waterdeep.","현자의 대가를 치르고 동료 나시라의 진명을 알게 되었습니다. 그녀는 신들의 언어로 하늘탐구자 퀴팔리아라고 불립니다. 이 지식을 사용해 최근 워터딥 폐허에서 숙적 메피스토펠레스와 맞섰을 때 그녀에게 그의 유혹에 저항하라고 명령했습니다.",,,,,,0,0
+100596,,,"Having paid the Knower's price, you have learned the True Name of the Sensei Dharvana, leader of the Githzerai Pilgrims trapped in the City of Lost Souls. She is known in the gods' tongue as Fa'arethia the Misguided.","현자의 대가를 치르고 잃어버린 영혼들의 도시에 갇힌 기스제라이 순례자들의 지도자인 다르바나 사부의 진명을 알게 되었습니다. 그녀는 신들의 언어로 잘못 인도된 파아레시아라고 불립니다.",,,,,,0,0
+100598,,,"Having paid the Knower's price, you have learned the True Name of the Sleeping Man. He is known in the gods' tongue as Celesfa'ar the Patient.","현자의 대가를 치르고 잠자는 자의 진명을 알게 되었습니다. 그는 신들의 언어로 인내의 셀레스파아르라고 불립니다.",,,,,,0,0
+100600,,,"Having paid the Knower's price, you have learned that you are the Sleeping Man's one true love for whom he has been waiting all this time.","현자의 대가를 치르고 당신이 잠자는 자가 그토록 오랫동안 기다려 온 진정한 사랑임을 알게 되었습니다.",,,,,,0,0
+100601,,,"Having paid the Knower's price, you have learned that Aribeth de Tylmarande is the Sleeping Man's one true love. She is known in the gods' tongue as Va'ardalia the Twinsouled.","현자의 대가를 치르고 아리베스 드 틸마란데가 잠자는 자의 진정한 사랑임을 알게 되었습니다. 그녀는 신들의 언어로 두영혼의 바아달리아라고 불립니다.",,,,,,0,0
+100602,,,"Having paid the Knower's price, you have learned that the Sensei Dharvana is the Sleeping Man's one true love. She is known in the gods' tongue as Fa'arethia the Misguided.","현자의 대가를 치르고 다르바나 사부가 잠자는 자의 진정한 사랑임을 알게 되었습니다. 그녀는 신들의 언어로 잘못 인도된 파아레시아라고 불립니다.",,,,,,0,0
+100603,,,"Having paid the Knower's price, you have learned that Nathyrra is the Sleeping Man's one true love. She is known in the gods' tongue as Qeyifalia the Skyseeker.","현자의 대가를 치르고 나시라가 잠자는 자의 진정한 사랑임을 알게 되었습니다. 그녀는 신들의 언어로 하늘탐구자 퀴팔리아라고 불립니다.",,,,,,0,0
+100604,,,"Having paid the Knower's price, you have learned that her sister, the Knower of Places is the Sleeping Man's one true love. She is known in the gods' tongue as Cordemylia the Knower.","현자의 대가를 치르고 그녀의 자매인 공간의 현자가 잠자는 자의 진정한 사랑임을 알게 되었습니다. 그녀는 신들의 언어로 현자 코르데밀리아라고 불립니다.",,,,,,0,0
+100605,,,"Having paid the Knower's price, you have learned that she is actually the Sleeping Man's one true love. She is known in the gods' tongue as Phyreshi the Knower.","현자의 대가를 치르고 그녀가 실제로 잠자는 자의 진정한 사랑임을 알게 되었습니다. 그녀는 신들의 언어로 현자 피레시라고 불립니다.",,,,,,0,0
+100606,,,"Having paid the Knower's price, you have learned that an Astral Deva called Lavoera is the Sleeping Man's one true love. She is known in the gods' tongue as Zyramethia the Young.","현자의 대가를 치르고 라보에라라는 아스트랄 데바가 잠자는 자의 진정한 사랑임을 알게 되었습니다. 그녀는 신들의 언어로 젊은 지라메시아라고 불립니다.",,,,,,0,0
+100608,,,"Having paid the Knower's price, you have learned the True Name of your henchman Valen. He is known in the gods' tongue as Oeskathine the Demonwrestler.","현자의 대가를 치르고 동료 발렌의 진명을 알게 되었습니다. 그는 신들의 언어로 악마레슬러 오에스카틴이라고 불립니다.",,,,,,0,0
+100609,,,"Having paid the Knower's price, you have learned the True Name of your henchman Valen. He is known in the gods' tongue as Oeskathine the Demonwrestler. Using this knowledge, you recently commanded him to resist the temptations of your nemesis Mephistopheles when you faced each other amidst the ruins of Waterdeep.","현자의 대가를 치르고 동료 발렌의 진명을 알게 되었습니다. 그는 신들의 언어로 악마레슬러 오에스카틴이라고 불립니다. 이 지식을 사용해 최근 워터딥 폐허에서 숙적 메피스토펠레스와 맞섰을 때 그에게 그의 유혹에 저항하라고 명령했습니다.",,,,,,0,0
+100611,,,"Having paid the Knower's price, you have learned that Aribeth de Tylmarande is your one true love. She is known in the gods' tongue as Va'ardalia the Twinsouled.","현자의 대가를 치르고 아리베스 드 틸마란데가 당신의 진정한 사랑임을 알게 되었습니다. 그녀는 신들의 언어로 두영혼의 바아달리아라고 불립니다.",,,,,,0,0
+100612,,,"Having paid the Knower's price, you have learned that Nathyrra is your one true love. She is known in the gods' tongue as Qeyifalia the Skyseeker.","현자의 대가를 치르고 나시라가 당신의 진정한 사랑임을 알게 되었습니다. 그녀는 신들의 언어로 하늘탐구자 퀴팔리아라고 불립니다.",,,,,,0,0
+100613,,,"Having paid the Knower's price, you have learned that you have not yet met your one true love. She is known in the gods' tongue as Cassanduria the Beautiful.","현자의 대가를 치르고 아직 진정한 사랑을 만나지 못했음을 알게 되었습니다. 그녀는 신들의 언어로 아름다운 카산두리아라고 불립니다.",,,,,,0,0
+100614,,,"Having paid the Knower's price, you have learned that Valen is your one true love. He is known in the gods' tongue as Oeskathine the Demonwrestler.","현자의 대가를 치르고 발렌이 당신의 진정한 사랑임을 알게 되었습니다. 그는 신들의 언어로 악마레슬러 오에스카틴이라고 불립니다.",,,,,,0,0
+100615,,,"Having paid the Knower's price, you have learned that the Sleeping Man is your one true love. He is known in the gods' tongue as Celesfa'ar the Patient.","현자의 대가를 치르고 잠자는 자가 당신의 진정한 사랑임을 알게 되었습니다. 그는 신들의 언어로 인내의 셀레스파아르라고 불립니다.",,,,,,0,0
+100616,,,"Having paid the Knower's price, you have learned that you have not yet met your one true love. He is known in the gods' tongue as Cwylgarion the Strong","현자의 대가를 치르고 아직 진정한 사랑을 만나지 못했음을 알게 되었습니다. 그는 신들의 언어로 강인한 크윌가리온이라고 불립니다.",,,,,,0,0
+100617,,,"Having paid the Knower's price, you have learned that you have no true love and never will.","현자의 대가를 치르고 진정한 사랑이 없으며 앞으로도 없을 것임을 알게 되었습니다.",,,,,,0,0
+100621,,,A small hole is mysteriously present behind the barrier that surrounds this wall of crates.,이 상자 벽을 둘러싼 장벽 뒤에 수상하게 작은 구멍이 있습니다.,,,,,,0,0
+100638,,,War Machine Graveyard,전쟁 기계 묘지,,,,,,0,0
+100641,,,"The frost-bleached corpse hangs silent, staring into the ice prison below it.","서리에 바랜 시체가 조용히 매달려 있으며, 그 아래 얼음 감옥을 응시하고 있습니다.",,,,,,0,0
+100677,,,Grinder 5 Bump Point,분쇄기 5 충돌 지점,,,,,,0,0
+100703,,,A small depression in the stone bears a familiar mark. You think you've seen it on the amulet that the Sensei wears about her neck.,돌의 작은 움푹 파인 곳에 익숙한 표시가 있습니다. 사부가 목에 걸고 있는 부적에서 본 것 같습니다.,,,,,,0,0
+100758,,,Essence Pedestal,정수 받침대,,,,,,0,0
+100761,,,"A brief prayer is written on this card in the Sleeping Man's graceful scrawl:
+
+   As a child, I learned to Hope.
+   When I became a man, my Hope matured into Faith.
+   With my old age approaching, I pray my Faith bears Love upon its branches.","잠자는 자의 우아한 필체로 이 카드에 짧은 기도문이 쓰여 있습니다:
+
+   어린 시절, 나는 희망을 배웠습니다.
+   어른이 되었을 때, 희망은 신앙으로 성숙했습니다.
+   노년이 다가오는 지금, 신앙이 그 가지에 사랑을 맺기를 기도합니다.",,,,,,0,0
+100767,,,453_452,453_452,,,,,,0,0
+100768,,,456_454,456_454,,,,,,0,0
+100769,,,449_451,449_451,,,,,,0,0
+100770,,,455_454,455_454,,,,,,0,0
+100771,,,455_450,455_450,,,,,,0,0
+100772,,,458_450,458_450,,,,,,0,0
+100773,,,457_450,457_450,,,,,,0,0
+100774,,,It doesn't look like you can get through the lightning barrier.,번개 장벽을 통과할 수 있을 것 같지 않습니다.,,,,,,0,0
+100776,,,This item can not be given to Lavoera.,이 아이템은 라보에라에게 줄 수 없습니다.,,,,,,0,0
+100781,,,This pile of rocks looks oddly out of place - like it has been placed here by hand.,이 돌무더기는 이상하게 어울리지 않습니다 - 누군가 손으로 여기에 놓은 것 같습니다.,,,,,,0,0
+100840,,,<DEATH SCREAM AS HER SOUL IS RIPPED APART>,<영혼이 찢겨나가며 죽음의 비명>,,,,,vs_nx2nathf_117,0,0
+100853,,,Eilistraee guide my hand!,에일리스트레이여 내 손을 인도하소서!,,,,,,0,0
+100854,,,For the Seer!,선견자를 위해!,,,,,,0,0
+100855,,,You shall fall!,쓰러져라!,,,,,,0,0
+100856,,,Your life is forfeit!,네 목숨은 끝이다!,,,,,,0,0
+100857,,,Quickly! My wounds need healing!,빨리! 치료가 필요해!,,,,,,0,0
+100858,,,I need assisstance!,도움이 필요해!,,,,,,0,0
+100859,,,Careful: enemies are near.,조심해: 적이 가까워.,,,,,,0,0
+100860,,,Fall back! Fall back!,후퇴해! 후퇴!,,,,,,0,0
+100861,,,You wouldn't dare.,감히 그러겠어?,,,,,,0,0
+100862,,,Protect my flank.,측면을 지켜줘.,,,,,,0,0
+100863,,,Mir! Hold. Wait a moment.,잠깐! 멈춰. 잠시만.,,,,,,0,0
+100864,,,"No, I must not fall!","안 돼, 쓰러질 수 없어!",,,,,,0,0
+100865,,,The shadows� closing in�,그림자가... 다가오고 있어...,,,,,,0,0
+100866,,,Poison� but what kind?,독... 그런데 무슨 독이지?,,,,,,0,0
+100867,,,My magic has failed!,마법이 실패했어!,,,,,,0,0
+100868,,,My attacks are useless!,공격이 안 먹혀!,,,,,,0,0
+100869,,,Follow me.,따라와.,,,,,,0,0
+100870,,,Over here. Look at this.,이쪽이야. 이것 봐.,,,,,,0,0
+100871,,,We should stay close now.,이제 가까이 붙어 있어야 해.,,,,,,0,0
+100872,,,Step aside so I may pass.,비켜줘.,,,,,,0,0
+100873,,,No lock can thwart me!,자물쇠 따위 문제없어!,,,,,,0,0
+100874,,,We should examine this place carefully.,이곳을 조심히 조사해야 해.,,,,,,0,0
+100875,,,I will become one with the shadows.,그림자와 하나가 되겠어.,,,,,,0,0
+100876,,,Of course.,물론이지.,,,,,,0,0
+100877,,,I cannot.,할 수 없어.,,,,,,0,0
+100878,,,The task is complete.,임무 완료.,,,,,,0,0
+100879,,,"If you load me down with equipment, I won't be of much use to you.","장비를 너무 많이 주면 쓸모없어질 거야.",,,,,,0,0
+100880,,,Yes?,응?,,,,,,0,0
+100881,,,Greetings.,안녕.,,,,,,0,0
+100882,,,Yes.,응.,,,,,,0,0
+100883,,,No.,아니.,,,,,,0,0
+100884,,,Stop! Hold a moment.,멈춰! 잠깐.,,,,,,0,0
+100885,,,We should rest and recuperate.,쉬면서 회복해야 해.,,,,,,0,0
+100886,,,This boredom will dull our senses.,이 지루함이 감각을 둔하게 할 거야.,,,,,,0,0
+100887,,,Farewell.,잘 가.,,,,,,0,0
+100888,,,You have my thanks.,고마워.,,,,,,0,0
+100889,,,Vith Usstan!,비스 우스탄!,,,,,,0,0
+100890,,,Well done.,잘했어.,,,,,,0,0
+100891,,,I wish to speak with you.,얘기하고 싶어.,,,,,,0,0
+100892,,,An excellent idea.,훌륭한 생각이야.,,,,,,0,0
+100893,,,I think this may be a mistake�,이건 실수일 수도 있어...,,,,,,0,0
+100894,,,Only a fool dares to cross me!,나한테 덤비다니 바보군!,,,,,,0,0
+100895,,,You are not allowed to look at this creature's inventory.,이 생명체의 소지품을 볼 수 없습니다.,,,,,,0,0
+100924,,,"You can use the Craft Skills radial option to access your character's craft trap, craft weapon and craft armor skills.","제작 기술 방사형 옵션을 사용하여 캐릭터의 함정 제작, 무기 제작, 방어구 제작 기술에 접근할 수 있습니다.",,,,,,0,0
+100925,,,* Chaos Shield Triggered *,* 혼돈의 방패 발동 *,,,,,,0,0
+100926,,,"Legend holds that this powerful item was created by the god Cyric during the Time of Troubles, giving him one more powerful weapon to use against his foes in battle. For, unlike most shields, the Shield of Chaos truly is a weapon. Whenever its wearer is hit during combat, the shield can retaliate with any number of powerful and disabling effects, ranging from blindness to paralysis to blasts of fire and lightning that will engulf the unfortunate opponent.","전설에 따르면 이 강력한 아이템은 혼란의 시대에 시릭 신이 만들어 전투에서 적들에게 사용할 강력한 무기를 하나 더 얻었다고 합니다. 대부분의 방패와 달리 혼돈의 방패는 진정한 무기입니다. 착용자가 전투 중 맞을 때마다 방패는 실명에서 마비, 불운한 상대를 집어삼킬 화염과 번개 폭발까지 강력하고 무력화시키는 효과로 반격할 수 있습니다.",,,,,,0,0
+100929,,,* Area of effect dispelled  *,* 효과 범위 해제됨 *,,,,,,0,0
+100930,,,* Area of effect not dispelled *,* 효과 범위 해제 안 됨 *,,,,,,0,0
+100932,,,* Death through ability damage *,* 능력치 피해로 사망 *,,,,,,0,0
+100934,,,Flee! Matron Myrune is dead!,도망쳐! 미룬 대모가 죽었다!,,,,,,0,0
+100935,,,Flee! The Matron has fallen!,도망쳐! 대모가 쓰러졌다!,,,,,,0,0
+100936,,,Run before Zesyyr returns!,제시르가 돌아오기 전에 도망쳐!,,,,,,0,0
+100938,,,Remember that you can use alchemist's fire on your melee weapons to add fire damage to your attacks for a short duration.,연금술사의 불을 근접 무기에 사용하면 짧은 시간 동안 공격에 화염 피해를 추가할 수 있습니다.,,,,,,0,0
+100940,,,<CUSTOM0> projects a stream of flames.,<CUSTOM0>이(가) 화염 줄기를 발사합니다.,,,,,,0,0
+100942,,,"A shifter that transforms into azer chieftain shape can project a stream of flames on a single enemy.  If the shifter succeeds a ranged touch attack on the target,
+he will do 1d4 points of firedamage damage / classlevel + his wisdom ability modifier.","아저 족장 형태로 변신한 변신술사는 단일 적에게 화염 줄기를 발사할 수 있습니다. 원거리 접촉 공격이 성공하면
+직업 레벨당 1d4점의 화염 피해 + 지혜 능력치 수정치를 줍니다.",,,,,,0,0
+100943,,,<CUSTOM0> performs touch attack.,<CUSTOM0>이(가) 접촉 공격을 수행합니다.,,,,,,0,0
+100944,,,*  Only melee weapons can be coated with alchemist's fire! *,* 연금술사의 불은 근접 무기에만 바를 수 있습니다! *,,,,,,0,0
+100945,,,Unknown characters appear.,알 수 없는 캐릭터가 나타납니다.,,,,,,0,0
+100946,,,You press a button but it appears to have no effect.,버튼을 눌렀지만 효과가 없는 것 같습니다.,,,,,,0,0
+100947,,,You press a button. Lights begin flashing on the surface of the machine but you are unsure what other effects may have occured.,버튼을 누릅니다. 기계 표면에서 불이 깜빡이기 시작하지만 다른 효과가 무엇인지 확신할 수 없습니다.,,,,,,0,0
+100966,,,Aaaaahhhh!,으아아아!,,,,,vs_nx2halam_hit1,0,0
+100967,,,* Your charisma is too low to use this feat! *,* 이 특기를 사용하기엔 매력이 너무 낮습니다! *,,,,,,0,0
+100968,,,"The ogre seems to have painted a portrait of a stunningly beautiful ogress, but for some unknown reason, he has painted over all the good parts.","오우거가 놀랍도록 아름다운 암컷 오우거의 초상화를 그린 것 같지만, 알 수 없는 이유로 좋은 부분은 모두 덧칠해버렸습니다.",,,,,,0,0
+100974,,,Something prevents you from activating the relic in this area.,무언가가 이 지역에서 유물을 활성화하는 것을 막고 있습니다.,,,,,,0,0
+100975,,,The door is sealed by a magical barrier.,문이 마법 장벽으로 봉인되어 있습니다.,,,,,,0,0
+100976,,,The mimic is dead. An astral door appears beside you.,흉내쟁이가 죽었습니다. 아스트랄 문이 옆에 나타납니다.,,,,,,0,0
+101025,,,"With the portal open, you are of no more use to us... except as food!","차원문이 열렸으니 넌 더 이상 쓸모없어... 먹이 외에는!",,,,,,0,0
+101087,,,They cannot stand against us! Strike them down!,우리를 당할 수 없다! 쓰러뜨려라!,,,,,,0,0
+101088,,,You cannot win this fight!,이 싸움에서 이길 수 없다!,,,,,,0,0
+101089,,,Into the flames we leap!,불꽃 속으로 뛰어들어라!,,,,,,0,0
+101090,,,I am wounded! Help me!,부상당했어! 도와줘!,,,,,,0,0
+101091,,,I am being overwhelmed!,압도당하고 있어!,,,,,,0,0
+101092,,,We are set upon once again.,다시 공격당하고 있다.,,,,,,0,0
+101093,,,Fall back! We must regroup!,후퇴! 재정비해야 해!,,,,,,0,0
+101094,,,My blood calls for yours and it *will* be satisfied.,내 피가 네 피를 원하고 *반드시* 채워질 거다.,,,,,,0,0
+101095,,,I need you at my side!,내 옆에 있어줘!,,,,,,0,0
+101096,,,Stop!,멈춰!,,,,,,0,0
+101097,,,Ahhh! I will *not* go down!,으아! *절대* 쓰러지지 않아!,,,,,,0,0
+101098,,,Ahh! I can feel the poison!,으! 독이 느껴져!,,,,,,0,0
+101099,,,My magic did not work!,마법이 안 먹혔어!,,,,,,0,0
+101100,,,This weapon is doing nothing!,이 무기가 안 먹혀!,,,,,,0,0
+101101,,,Come. Let's go.,가자.,,,,,,0,0
+101102,,,What do we have here?,이게 뭐지?,,,,,,0,0
+101103,,,We should remain together.,함께 있어야 해.,,,,,,0,0
+101104,,,Let me through.,비켜.,,,,,,0,0
+101105,,,I'll try to open it.,열어볼게.,,,,,,0,0
+101106,,,I'll keep an eye out.,경계할게.,,,,,,0,0
+101107,,,Not a sound.,소리 내지 마.,,,,,,0,0
+101108,,,Very well.,알겠어.,,,,,,0,0
+101109,,,I cannot.,못해.,,,,,,0,0
+101110,,,It's done.,끝났어.,,,,,,0,0
+101111,,,"How much do you plan on weighing me down with, exactly?","대체 얼마나 더 짐을 지우려고?",,,,,,0,0
+101112,,,At your command.,명령대로.,,,,,,0,0
+101113,,,Greetings.,안녕하시오.,,,,,,0,0
+101114,,,Yes.,그렇소.,,,,,,0,0
+101115,,,No.,아니오.,,,,,,0,0
+101116,,,Wait one moment.,잠깐 기다리시오.,,,,,,0,0
+101117,,,We all need our rest.,모두 쉬어야 하오.,,,,,,0,0
+101118,,,How long must we remain idle? This is accomplishing nothing.,얼마나 더 놀고 있어야 하오? 아무것도 이루지 못하고 있소.,,,,,,0,0
+101119,,,Farewell.,안녕히.,,,,,,0,0
+101120,,,You have my thanks.,감사하오.,,,,,,0,0
+101121,,,By the pits of Hell!,지옥의 구덩이에 맹세코!,,,,,,0,0
+101122,,,Ha ha! A good day!,하하! 좋은 날이군!,,,,,,0,0
+101123,,,I have something to say.,할 말이 있소.,,,,,,0,0
+101124,,,An excellent plan.,훌륭한 계획이오.,,,,,,0,0
+101125,,,"No, I don't think that will work.","아니, 그건 안 될 것 같소.",,,,,,0,0
+101126,,,Do you wish to die now? Because I can certainly arrange that.,지금 죽고 싶소? 그렇다면 얼마든지 주선해 주겠소.,,,,,,0,0
+101127,,,You have died in the Hells and are now permanently dead.,지옥에서 죽어 영원히 죽었습니다.,,,,,,0,0
+101129,,,"You suddenly feel weaker, as your weapon starts taking away a part of your life force.","갑자기 기운이 빠지면서, 무기가 생명력 일부를 빨아들이기 시작합니다.",,,,,,0,0
+101130,,,We shall meet again!,다시 만나게 될 거다!,,,,,,0,0
+101131,,,Sabal has teleported away.,사발이 순간이동으로 사라졌습니다.,,,,,,0,0
+101132,,,"You pull the chain, but nothing happens at this time.","사슬을 당겼지만, 지금은 아무 일도 일어나지 않습니다.",,,,,,0,0
+101134,,,You were defeated in the temple of Talona and are now permanently dead. You must load a savegame to continue.,탈로나 신전에서 패배하여 영구적으로 사망했습니다. 계속하려면 저장된 게임을 불러와야 합니다.,,,,,,0,0
+103811,,,"Born of mortal and immortal, the half-celestial is a mysterious being.","필멸자와 불멸자 사이에서 태어난 혼혈천족은 신비로운 존재입니다.",,,,,,0,0
+103812,,,Half dragon creatures are always more formidable than their fellows and their appearance betrays their draconic heritage.,혼혈용 생명체는 언제나 동료보다 더 강력하며 외모에서 용의 혈통이 드러납니다.,,,,,,0,0
+103813,,,Demons and devils sometimes bring their offspring along to the Material Plane and loose them upon the world...,악마와 마귀는 때때로 자식을 물질계로 데려와 세상에 풀어놓습니다...,,,,,,0,0
+103814,,,"The barely visible, incorporeal form of a creature moves with the wind...","거의 보이지 않는, 비실체의 존재가 바람과 함께 움직입니다...",,,,,,0,0
+103815,,,"It is said that Sir Jasper, a paladin and one of the most faithful servants of Torm, was given this helm by a mysterious kobold stranger when he was about to embark on a quest to kill a powerful red dragon. Unfortunately it turned out that poor Sir Jasper had been misinformed about the dragon's color and the helm's true nature, that, while it indeed would have aided him against a red dragon, made him vulnerable to the powerful breath weapon of the white dragon Tymofarrar.","톰의 가장 충실한 종복 중 하나인 성기사 재스퍼 경이 강력한 적룡을 처치하는 임무를 떠나려 할 때, 수수께끼의 코볼트 나그네에게서 이 투구를 받았다고 합니다. 불행히도 가련한 재스퍼 경은 용의 색깔과 투구의 진정한 본질에 대해 잘못 전해 들었습니다. 이 투구는 적룡 상대로는 도움이 되었겠지만, 백룡 티모파라르의 강력한 브레스 웨폰에는 오히려 취약하게 만들었습니다.",,,,,,0,0
+103816,,,This is a robe. ,이것은 로브입니다.,,,,,,0,0
+103876,,,"Crafted from the skin of a shocker lizard, the Shocking Whip is capable of unleashing a burst of electrical energy when it strikes, causing heavy damage and potentially stunning the target for a short period of time.","충격 도마뱀의 가죽으로 만든 충격 채찍은 명중 시 전기 에너지 폭발을 방출하여 큰 피해를 입히고 대상을 잠시 기절시킬 수 있습니다.",,,,,,0,0
+103878,,,"Crafted from the skin of a shocker lizard, the Shocking Whip is capable of unleasing a burst of electrical energy when hitting, causing heavy damage and potentially stunning the target for a short period of time. ","충격 도마뱀의 가죽으로 만든 충격 채찍은 명중 시 전기 에너지 폭발을 방출하여 큰 피해를 입히고 대상을 잠시 기절시킬 수 있습니다.",,,,,,0,0
+103881,,,"Only the most skilled of all drow weaponsmiths know how to forge these deadly weapons. It is rumored that one must venture into the frozen wastelands of Cania to obtain the necessary components to forge such a powerful weapon, but it is completely unknow what those components may be.","모든 드로우 무기장인 중 가장 숙련된 자만이 이 치명적인 무기 제작법을 알고 있습니다. 이토록 강력한 무기를 단조하는 데 필요한 재료를 구하려면 카니아의 얼어붙은 황무지로 들어가야 한다는 소문이 있지만, 그 재료가 무엇인지는 전혀 알려지지 않았습니다.",,,,,,0,0
+104013,,,This key will unlock the door leading out of the Hall of Sleeping Kings.,이 열쇠는 잠자는 왕들의 전당에서 나가는 문을 엽니다.,,,,,,0,0
+104025,,,"You've been approached by Nathyrra, a drow who claims to be an agent for a mysterious group of rebels opposing the dark elves attacking Waterdeep. According to Nathyrra, the armies invading Waterdeep are being controlled by a powerful drow House Mother known only as the Valsharess. She also claims the Valsharess has captured Halaster and is holding him prisoner.
+
+If Nathyrra is telling the truth, you may have a new ally in your quest to save Waterdeep. But if she's lying, trusting her could be deadly...","워터딥을 공격하는 다크 엘프들에 대항하는 신비로운 반란군 조직의 요원이라고 주장하는 드로우 나시라가 접근해 왔습니다. 나시라에 따르면 워터딥을 침공하는 군대는 발샤레스라고만 알려진 강력한 드로우 가문의 대모가 지휘하고 있습니다. 또한 그녀는 발샤레스가 할라스터를 붙잡아 가뒀다고 합니다.
+
+나시라가 진실을 말하고 있다면 워터딥을 구하는 여정에 새로운 동맹이 생길 수 있습니다. 하지만 거짓말이라면 그녀를 믿는 것은 치명적일 수 있습니다...",,,,,,0,0
+104026,,,Daelan has reluctantly agreed to forgive you for your previous attacks on his honor. The fact that you saved his life likely played a significant part in his decision.,데란이 마지못해 당신이 예전에 그의 명예를 훼손한 것을 용서하기로 했습니다. 당신이 그의 목숨을 구해 준 것이 결정에 큰 영향을 미쳤을 겁니다.,,,,,,0,0
+104027,,,"The artifact has been yours since you found it -- or perhaps, it found you -- in the Plane of Shadows.
+
+The Relic of the Reaper will teleport you to a tiny nexus dimension ruled over by an enigmatic being you know only as the 'Reaper'. The Relic allows you to use it to bind a location to one of the doors in the Reaper's realm, allowing you instant transportation there. The Reaper will also snatch you to his realm on the instant of your death. Both of these uses, the binding and the saving, cost the use of a Rogue Stone. More information can be gained from the Reaper, himself... though your strange servant has never exactly been forthcoming on the relic's true nature or even his own.","이 유물은 그림자 차원에서 발견한 이후 -- 어쩌면 유물이 당신을 찾았을지도 -- 계속 당신의 것이었습니다.
+
+사신의 유물은 '사신'이라고만 알려진 수수께끼의 존재가 지배하는 작은 연결 차원으로 순간이동시킵니다. 이 유물을 사용해 장소를 사신의 영역에 있는 문들 중 하나에 결속하여 즉시 이동할 수 있습니다. 사신은 또한 죽는 순간 당신을 자신의 영역으로 데려갑니다. 결속과 구원 둘 다 도적의 돌을 사용합니다. 더 많은 정보는 사신 본인에게 얻을 수 있습니다... 하지만 이 이상한 하인은 유물의 진정한 본질이나 자신에 대해서도 솔직한 적이 없습니다.",,,,,,0,0
+104028,,,"You have raised Sharwyn back to life, and she has decided to return to the Yawning Portal, rather than remain in the dungeons of Undermountain alone.","샤윈을 되살렸으며, 그녀는 언더마운틴 던전에 혼자 남기보다 하품하는 차원문으로 돌아가기로 했습니다.",,,,,,0,0
+104029,,,"Even though you saved her from the grave, Sharwyn doesn't seem too fond of you. She's likely returned to the Yawning Portal, though it's doubtful she'll have anything nice to say to you there.","무덤에서 구해줬지만 샤윈은 당신을 별로 좋아하지 않는 것 같습니다. 아마 하품하는 차원문으로 돌아갔겠지만, 거기서 좋은 말을 해줄 것 같진 않습니다.",,,,,,0,0
+104030,,,Sharwyn has refused to accept your apology for insulting her. She made it quite clear that she has no desire to forgive or forget.,샤윈은 모욕한 것에 대한 사과를 받아들이기를 거부했습니다. 용서하거나 잊고 싶은 마음이 전혀 없다고 분명히 밝혔습니다.,,,,,,0,0
+104031,,,Sharwyn has reluctantly agreed to forgive you for your previous harsh words. The fact that you saved her life likely played a significant part in her decision.,샤윈이 마지못해 당신의 예전 거친 말에 대해 용서하기로 했습니다. 당신이 그녀의 목숨을 구해 준 것이 결정에 큰 영향을 미쳤을 겁니다.,,,,,,0,0
+104032,,,"You've decided to kill Sharwyn, even though you just rescued her from a similar state. Once you're done with her, however, she'll probably stay dead.","방금 비슷한 상태에서 구해줬는데도 샤윈을 죽이기로 결정했습니다. 하지만 이번엔 아마 영영 죽은 채로 있겠죠.",,,,,,0,0
+104033,,,"You have raised Tomi back to life, and the rogue has scampered back to the Yawning Portal rather than trying to survive in Undermountain on his own.","토미를 되살렸고, 이 도적은 언더마운틴에서 혼자 생존하려 하기보다 하품하는 차원문으로 얼른 돌아갔습니다.",,,,,,0,0
+104034,,,"Even though you saved him from the grave, the halfling doesn't seem to fond of you. He's likely returned to the Yawning Portal, though it's doubtful he'll have anything nice to say to you there.","무덤에서 구해줬지만 이 하플링은 당신을 별로 좋아하지 않는 것 같습니다. 아마 하품하는 차원문으로 돌아갔겠지만, 거기서 좋은 말을 해줄 것 같진 않습니다.",,,,,,0,0
+104035,,,Tomi has refused to accept your apology for insulting him. He made it quite clear that he has no desire to forgive or forget.,토미는 모욕한 것에 대한 사과를 받아들이기를 거부했습니다. 용서하거나 잊고 싶은 마음이 전혀 없다고 분명히 밝혔습니다.,,,,,,0,0
+104036,,,Tomi has reluctantly agreed to forgive you for your previous harsh words. The fact that you saved his life likely played a significant part in his decision.,토미가 마지못해 당신의 예전 거친 말에 대해 용서하기로 했습니다. 당신이 그의 목숨을 구해 준 것이 결정에 큰 영향을 미쳤을 겁니다.,,,,,,0,0
+104037,,,"You've decided to kill Tomi, even though you just rescued him from a similar state. Once you're done with him, however, he'll probably stay dead.","방금 비슷한 상태에서 구해줬는데도 토미를 죽이기로 결정했습니다. 하지만 이번엔 아마 영영 죽은 채로 있겠죠.",,,,,,0,0
+104041,,,Isle of the Maker: Lower Ruins,제작자의 섬: 하층 유적,,,,,,0,0
+104042,,,Isle of the Maker: The Maker's Sanctum,제작자의 섬: 제작자의 성소,,,,,,0,0
+104043,,,Isle of the Maker: Upper Ruins,제작자의 섬: 상층 유적,,,,,,0,0
+104060,,,Peaceful Clearing,평화로운 공터,,,,,,0,0
+104073,,,Isle of the Maker,제작자의 섬,,,,,,0,0
+105762,,,"""I guess I could answer a few questions for you. Can't see any harm in it. Besides, it's not like the Maker's golems here on the island will tell you anything."" She smiles briefly at her own joke.","""몇 가지 질문에 대답해 줄 수는 있어. 해될 것도 없고. 게다가 여기 섬의 제작자 골렘들이 뭘 말해줄 것도 아니잖아."" 그녀는 자기 농담에 잠깐 미소를 짓습니다.",,,,,,0,0
+105763,,,"""Well, the island was named after the ancient duergar mage who built his stronghold here centuries ago. They say the Maker came here so he could work in peace while perfecting his golems.""","""음, 섬 이름은 수백 년 전 여기에 요새를 지은 고대 듀에르가 마법사의 이름을 딴 거야. 제작자가 골렘을 완성하면서 평화롭게 작업하려고 여기로 왔다고들 해.""",,,,,,0,0
+105764,,,"""There must be some truth to these stories. There's some ruins to the north that could have been the Maker's laboratory, though all that's left is the dungeon. And there's the golems, of course.""","""이 이야기들에는 사실이 있을 거야. 북쪽에 제작자의 연구실이었을 수도 있는 유적이 있는데, 지금은 던전만 남았어. 물론 골렘들도 있고.""",,,,,,0,0
+105765,,,"""The dungeon at the north end of the island is crawling with golems. At least, the first floor of it is. We don't go any deeper. We figure they're guardians left over from the Maker. ""","""섬 북쪽 던전은 골렘들로 가득해. 최소한 1층은 그래. 그보다 깊이는 안 들어가. 제작자가 남긴 수호자들인 것 같거든.""",,,,,,0,0
+105766,,,"""They must have been built to protect against thieves and scavengers."" She gives you a rueful look. ""They do a pretty good job, too. We've lost more than a few duergar during our expeditions.""","""도둑과 약탈자들을 막으려고 만든 것 같아."" 그녀가 씁쓸한 표정을 짓습니다. ""일도 꽤 잘 해. 원정 중에 듀에르가를 여럿 잃었거든.""",,,,,,0,0
+105768,,,"""We've tried to kill the scavenger, but it's got a number of magical defenses. Every time we attack it, it teleports away to safety. That damn thing makes our job a lot tougher.""","""그 약탈자를 죽이려고 했는데 마법 방어가 여러 개 있더라. 공격할 때마다 안전한 곳으로 순간이동해 버려. 그 빌어먹을 놈 때문에 일이 훨씬 힘들어.""",,,,,,0,0
+105769,,,"""Everything I know about the Maker comes from legends and myths. They say he was a powerful duergar sorcerer who isolated himself on this island to work on his research.""","""제작자에 대해 내가 아는 건 전부 전설과 신화에서 나온 거야. 연구를 위해 이 섬에 자신을 고립시킨 강력한 듀에르가 마법사였다고 해.""",,,,,,0,0
+105770,,,"""His specialty was crafting golems. According to the legends, he found a way to imbue his constructs with intelligence and free will. But the golems we've run into seem pretty standard to me."" ","""그의 전문은 골렘 제작이었어. 전설에 따르면 피조물에게 지능과 자유의지를 불어넣는 방법을 찾았다고 해. 하지만 우리가 마주친 골렘들은 딱히 그래 보이지 않던데.""",,,,,,0,0
+105771,,,"""Nobody really knows; he disappeared five centuries ago. Most people think he was killed off by his own creations: intelligent golems with a will of their own.""","""아무도 정확히 몰라. 5백 년 전에 사라졌거든. 대부분은 자기 피조물에게 죽임당했다고 생각해. 자기 의지를 가진 지능형 골렘들한테.""",,,,,,0,0
+105772,,,"""I don't know if I really believe that, but it makes a good story. The only golems we've run across in the dungeon don't seem all that smart to me. Damn tough to kill, though.""","""그걸 정말 믿는지는 모르겠지만, 좋은 이야기거든. 던전에서 만난 골렘들은 그렇게 똑똑해 보이지 않았어. 죽이긴 존나 힘들지만.""",,,,,,0,0
+105775,,,"""If this is a joke, you picked the wrong group to play games with. We're not looking for a fight, but we're well armed and we will defend ourselves.""","""장난이라면 잘못 걸렸어. 싸움을 찾는 건 아니지만, 무장은 잘 돼 있고 자신을 지킬 거야.""",,,,,,0,0
+105776,,,"""You should've picked an easier target! Attack!""","""만만한 상대를 골랐어야지! 공격!""",,,,,,0,0
+105779,,,"""Come and go as you please, surfacer. You don't answer to us.""","""마음대로 오가라, 지상인. 우리한테 보고할 필요 없어.""",,,,,,0,0
+105781,,,"""I hear she's been attacking the surface... I guess that's why you're looking to stop her. But you won't find any help against her here. If the drow don't bother us, we don't bother them.""","""지상을 공격하고 있다고 들었어... 그래서 막으려는 거겠지. 하지만 여기서 도움은 못 얻을 거야. 드로우가 우릴 건드리지 않으면 우리도 안 건드려.""",,,,,,0,0
+105782,,,"<StartCheck>Failure</Start> Dahanna shakes her head slowly. ""I don't want trouble with you, surfacer. But you bullying us won't make us join you. Our minds are set; you can't change them.""","<StartCheck>실패</Start> 다한나가 천천히 고개를 젓습니다. ""너와 문제를 만들고 싶지 않아, 지상인. 하지만 윽박지른다고 우리가 네 편에 서진 않아. 이미 마음을 정했어. 바꿀 수 없어.""",,,,,,0,0
+105783,,,"<StartCheck>Failure</Start> Dahanna shrugs. ""Maybe. But the Valsharess isn't the first drow we've seen rise to power. Most of them get toppled long before they ever turn their attention to us.""","<StartCheck>실패</Start> 다한나가 어깨를 으쓱합니다. ""그럴 수도 있지. 하지만 권력을 잡는 드로우를 본 게 처음이 아니야. 대개는 우리한테 관심을 돌리기도 전에 끌어내려지거든.""",,,,,,0,0
+105784,,,"""We're treasure hunters. Centuries ago, this island was home to a powerful duergar wizard known as the Maker, or so the stories go. The Maker's long gone, but he left a few things behind."" ","""우린 보물 사냥꾼이야. 수백 년 전에는 제작자라 불리는 강력한 듀에르가 마법사가 이 섬에 살았다고 해. 제작자는 오래전에 사라졌지만 몇 가지를 남겼거든.""",,,,,,0,0
+105785,,,"""We come out here to salvage rare metal and pieces of golems from the ruins of the Maker's tower. You'd be surprised what the right buyer will pay for an arm made of pure adamantine.""","""우린 제작자의 탑 폐허에서 희귀 금속과 골렘 부품을 건지러 와. 순수 아다만틴으로 된 팔 한 짝에 적당한 구매자가 얼마를 주는지 알면 놀랄 거야.""",,,,,,0,0
+105787,,,"""As usual, the duergar are scavengers, living off the scraps of others.""","""역시나 듀에르가는 약탈자야. 남의 찌꺼기로 먹고살지.""",,,,,,0,0
+105788,,,"""Better watch your tongue, drow! This is duergar territory. Your arrogance might have cost you more than you're willing to pay.""","""말 조심해, 드로우! 여긴 듀에르가 영역이야. 그 오만함이 감당 못 할 대가를 부를 수도 있어.""",,,,,,0,0
+105790,,,"<StartAction>Failure</Start> Dahanna smiles. ""You're <race> lies don't fool me. You were in there far too long to come out empty handed. Now, give us what's rightfully ours.""","<StartAction>실패</Start> 다한나가 미소를 짓습니다. ""<race>다운 거짓말로는 날 못 속여. 거기서 그렇게 오래 있던 주제에 빈손일 리가 없지. 자, 우리 몫을 내놔.""",,,,,,0,0
+105791,,,"<StartAction>Success</Start> Dahanna cocks her head to the side, considering your words. ""You seem sincere. I can't say for sure whether you're lying or not,"" she finally admits. ","<StartAction>성공</Start> 다한나가 고개를 기울이며 네 말을 고려합니다. ""진지해 보여. 거짓말인지 아닌지 확실히는 못하겠어."" 마침내 그녀가 인정합니다.",,,,,,0,0
+105793,,,"<StartAction>Failure</Start> ""We've held our own against the Maker's golems. I think we can manage against a <race> surfacer like you. We'll fight for what is rightfully ours.""","<StartAction>실패</Start> ""우린 제작자의 골렘들 상대로도 버텼어. 너 같은 <race> 지상인 정도는 감당할 수 있을 거야. 우리 정당한 몫을 위해 싸우겠어.""",,,,,,0,0
+105794,,,"<StartAction>Success</Start> Dahanna studies you closely, then seems to come to a decision. ""You're probably right, surfacer. We're not willing to throw our lives away.""","<StartAction>성공</Start> 다한나가 널 유심히 살피더니 결정을 내린 듯합니다. ""아마 네 말이 맞을 거야, 지상인. 목숨을 버릴 생각은 없거든.""",,,,,,0,0
+105795,,,"""You've gone deeper into the Maker's dungeon than we ever did, and you've come back to tell the tale. We'd be foolish to go up against you, even as desperate as we are.""","""넌 우리보다 제작자의 던전 더 깊이 들어갔다가 살아 돌아왔어. 우리가 아무리 절박해도 너한테 덤비는 건 바보짓이야.""",,,,,,0,0
+105796,,,"<StartAction>Failure</Start> ""We've been working this island for twenty years, and we've lost our fair share of duergar. We've paid our dues... you owe us something!""","<StartAction>실패</Start> ""우린 이 섬에서 20년을 일했고 많은 듀에르가를 잃었어. 대가를 치렀다고... 네가 뭔가 빚진 거야!""",,,,,,0,0
+105797,,,"<StartAction>Success</Start> ""Maybe... maybe you're right, surfacer. We aren't thieves, we earn our living honestly."" There is some angry grumbling from the soldiers, but Dahanna cuts them off with a single gesture.","<StartAction>성공</Start> ""어쩌면... 네 말이 맞을지도, 지상인. 우린 도둑이 아니야, 정직하게 벌어먹고 살아."" 병사들이 성난 투덜거림을 하지만, 다한나가 손짓 하나로 잠재웁니다.",,,,,,0,0
+105801,,,"""Our expedition here is over now, surfacer. We're heading back to our homes and our families.""","""여기서의 원정은 이제 끝이야, 지상인. 집과 가족에게로 돌아갈 거야.""",,,,,,0,0
+105802,,,"""I can't honestly say whether we will come back to this island again. In any case, we wish you luck, surfacer. Remember: the Underdark is a dangerous place.""","""이 섬에 다시 올지는 솔직히 모르겠어. 어쨌든 행운을 빌어, 지상인. 기억해, 언더다크는 위험한 곳이야.""",,,,,,0,0
+105804,,,"<StartAction>Failure</Start> Dahanna considers your counter offer carefully, calculating the chances of her group against you. Finally she shakes her head.","<StartAction>실패</Start> 다한나가 네 역제안을 신중하게 고려하며, 자기 무리가 너를 상대할 승산을 따집니다. 마침내 그녀는 고개를 젓습니다.",,,,,,0,0
+105805,,,"""One thousand gold won't go very far, split between all of us. I think we've earned the right to at least 10,000, considering you're poaching our claim here.""","""금화 천 개로는 우리 모두 나누면 얼마 안 돼. 네가 우리 권리를 침해하는 걸 감안하면 최소 만 개는 받을 자격이 있어.""",,,,,,0,0
+105807,,,"<StartAction>Success</Start> Dahanna considers your counter offer carefully, calculating the chances of her group against you. Finally, she nods in acceptance. ","<StartAction>성공</Start> 다한나가 네 역제안을 신중하게 고려하며, 자기 무리가 너를 상대할 승산을 따집니다. 마침내 그녀는 수락하며 고개를 끄덕입니다.",,,,,,0,0
+105809,,,"""A polite thief is still a thief. Being courteous doesn't make this right.""","""공손한 도둑도 도둑이야. 예의 바르다고 이게 올바른 건 아니지.""",,,,,,0,0
+105810,,,"""Well, at least you is polite... for a thief.""","""뭐, 도둑치곤 최소한 예의는 있네...""",,,,,,0,0
+105811,,,"""Well, at least you're being courteous while you rob us. That's more than I expected from your kind.""","""뭐, 최소한 우릴 털면서 예의는 갖추네. 네 종족한테서 기대한 것보다 낫네.""",,,,,,0,0
+105814,,,"""Nothing personal? That's funny. When a pack of armed thugs points their weapons at me, I tend to take it *very* personally.""","""악의는 없다고? 웃기네. 무장한 깡패 무리가 날 겨누면 난 *아주* 개인적으로 받아들이거든.""",,,,,,0,0
+105815,,,"""Look, Boss! Them duergar is coming to give us a welcome back surprise party... uh, wait. Deekin not thinks this a party after all. Too bad. Deekin wants cake.""","""봐요, 대장! 듀에르가들이 깜짝 환영 파티 하러 오는... 어, 잠깐. 파티는 아닌 것 같아요. 아쉽어요. 디킨 케이크 먹고 싶었는데.""",,,,,,0,0
+105816,,,"""I want to ask you some questions.""","""몇 가지 물어볼 게 있어.""",,,,,,0,0
+105817,,,"""Tell me more about the island.""","""섬에 대해 더 말해 줘.""",,,,,,0,0
+105818,,,"""Tell me about the golems.""","""골렘에 대해 말해 줘.""",,,,,,0,0
+105819,,,"""I would've thought you'd cleared all the golems out by now.""","""이쯤 되면 골렘을 다 치웠을 줄 알았는데.""",,,,,,0,0
+105820,,,"""Tell me about the Maker.""","""제작자에 대해 말해 줘.""",,,,,,0,0
+105821,,,"""What happened to him?""","""그한테 무슨 일이 있었어?""",,,,,,0,0
+105822,,,"""Friend or foe? Uh... I guess I'll pick foe!""","""친구냐 적이냐고? 어... 적으로 하지!""",,,,,,0,0
+105823,,,"""It's no joke. I just want to slaughter you all. I'm funny that way.""","""농담 아니야. 그냥 다 죽이고 싶어. 난 그런 사람이거든.""",,,,,,0,0
+105824,,,"""Calm down. I'm not looking for a fight, either.""","""진정해. 나도 싸우러 온 게 아니야.""",,,,,,0,0
+105825,,,"""My name and business are my own.""","""이름과 목적은 내 알 바야.""",,,,,,0,0
+105826,,,"""My name is <FullName>. I don't mean any harm.""","""내 이름은 <FullName>. 해코지할 생각 없어.""",,,,,,0,0
+105827,,,"""I'll be going now.""","""이제 갈게.""",,,,,,0,0
+105828,,,"""Time for this to get bloody. Die, you Underdark excuse for a dwarf!""","""피 볼 시간이군. 죽어라, 언더다크 드워프 꼴통!""",,,,,,0,0
+105829,,,"""I'm looking for allies to help me against the Valsharess.""","""발샤레스에 맞설 동맹을 찾고 있어.""",,,,,,0,0
+105830,,,"<StartCheck>Persuade: Intimidate</Start> ""You're either with me or against me. Think about it.""","<StartCheck>설득: 위협</Start> ""내 편이든 적이든 둘 중 하나야. 잘 생각해.""",,,,,,0,0
+105831,,,"""I gave you a chance. Now you'll pay the price!"" <StartAction>Attack.</Start>","""기회를 줬었어. 이제 대가를 치러!"" <StartAction>공격합니다.</Start>",,,,,,0,0
+105832,,,"""Fine. I want to ask you something else then.""","""좋아. 그럼 다른 걸 물어볼게.""",,,,,,0,0
+105833,,,"<StartCheck>Persuade</Start> ""Eventually the Valsharess will turn her army against the duergar, too.""","<StartCheck>설득</Start> ""결국 발샤레스가 듀에르가한테도 군대를 돌릴 거야.""",,,,,,0,0
+105834,,,"""What are you doing here?""","""여기서 뭐 해?""",,,,,,0,0
+105835,,,"""I have some other questions.""","""다른 질문이 있어.""",,,,,,0,0
+105836,,,"""Relax. We'll just be going now.""","""진정해. 그냥 갈게.""",,,,,,0,0
+105837,,,"""Settle down. We just want to ask you some questions.""","""진정해. 그냥 몇 가지 물어보려고.""",,,,,,0,0
+105838,,,"""Nobody threatens me! Death to the duergar!"" <StartAction>Attack.</Start>","""날 협박하는 건 누구도 못 해! 듀에르가에게 죽음을!"" <StartAction>공격합니다.</Start>",,,,,,0,0
+105839,,,"""Is this some kind of shake down?""","""이거 일종의 갈취야?""",,,,,,0,0
+105840,,,"""Your island? What are you talking about?""","""네 섬이라고? 무슨 소리야?""",,,,,,0,0
+105841,,,"""I think I see where this is going...""","""어디로 흘러가는지 알겠네...""",,,,,,0,0
+105842,,,"""Maybe we could work out a deal.""","""거래할 수 있을 것 같은데.""",,,,,,0,0
+105843,,,"<StartAction>Persuade:Bluff</Start> ""I didn't find anything worthwhile. You've picked this place clean.""","<StartAction>설득: 허세</Start> ""쓸 만한 건 못 찾았어. 여기 깨끗이 털렸더라.""",,,,,,0,0
+105844,,,"<StartAction>Persuade: Intimidate</Start> ""Careful now. This may be more than you can handle.""","<StartAction>설득: 위협</Start> ""조심해. 감당 못 할 수도 있어.""",,,,,,0,0
+105845,,,"<StartAction>Persuade</Start> ""You have no right to my stuff. I did all the work!""","<StartAction>설득</Start> ""내 물건에 대한 권리는 없어. 일은 다 내가 했다고!""",,,,,,0,0
+105846,,,"""Apology *not* accepted! You'll pay for this with blood!""","""사과 *안* 받아! 피로 대가를 치를 거야!""",,,,,,0,0
+105847,,,"""Sounds like times are tough. Here's a thousand gold to help you out.""","""힘든 시기인 것 같네. 여기 금화 천 개, 도움이 되길.""",,,,,,0,0
+105848,,,"""That's okay. There's no hard feelings.""","""괜찮아. 악감정 없어.""",,,,,,0,0
+105849,,,"""Maybe it's time you moved on to somewhere else.""","""다른 곳으로 떠날 때가 된 것 같아.""",,,,,,0,0
+105850,,,"<StartAction>Persuade</Start> ""I'll give you a thousand gold... no more.""","<StartAction>설득</Start> ""금화 천 개 줄게... 더는 안 돼.""",,,,,,0,0
+107640,,,"""I just hope that Zesyyr shows us more loyalty than she showed her own mother.""","""제시르가 친어머니에게 보인 것보다 우리에게 더 충성하길 바랄 뿐이야.""",,,,,,0,0
+107796,,,The pallid flesh of this humanoid is inscribed with dark tattoos marking him as a worshipper of an undead cult.,이 인간형의 창백한 살에는 언데드 숭배 집단의 신자임을 나타내는 어두운 문신이 새겨져 있습니다.,,,,,,0,0
+107798,,,"Clad in armor made of bone, these humanoids are neither man nor beast, and are trapped between the world of the living and the dead.","뼈로 만든 갑옷을 입은 이 인간형들은 인간도 짐승도 아니며, 산 자와 죽은 자의 세계 사이에 갇혀 있습니다.",,,,,,0,0
+107803,,,"This duergar is older than most, and it is clear his days of battle are long behind him.","이 듀에르가는 대부분보다 늙었으며, 전투의 시절이 오래전에 끝났음이 분명합니다.",,,,,,0,0
+107805,,,"Smaller than other metal constructs, silver golems are often underestimated in battle. Created by magically cooling molten silver, these golems have the ability to shoot blasts of frost and ice at their enemies.","다른 금속 피조물보다 작은 은 골렘은 전투에서 종종 과소평가됩니다. 녹은 은을 마법으로 냉각시켜 만든 이 골렘들은 적에게 냉기와 얼음 폭발을 쏠 수 있습니다.",,,,,,0,0
+107807,,,"Though not as physically imposing as other metal constructs, the bronze golem is still a formidable opponent. Forged from molten metal, these golems radiate warmth and heat and are able to shoot blasts of fire at their enemies.","다른 금속 피조물만큼 신체적으로 위압적이진 않지만, 청동 골렘은 여전히 강력한 적입니다. 녹은 금속으로 단조된 이 골렘들은 온기와 열을 발산하며 적에게 화염 폭발을 쏠 수 있습니다.",,,,,,0,0
+107809,,,"This astral deva has the form of a lithe and beautiful female, with the noticeable addition of feathered wings. She also appears to be quite young... for a celestial being.","이 아스트랄 데바는 날렵하고 아름다운 여성의 모습을 하고 있으며, 눈에 띄는 깃털 날개가 있습니다. 천상의 존재치고는 꽤 어려 보이기도 합니다.",,,,,,0,0
+107813,,,Humans are the most widespread and dominant race on Faerun.,인간은 페이룬에서 가장 널리 퍼지고 지배적인 종족입니다.,,,,,,0,0
+107832,,,There is something unsettling about this cloaked and hooded figure.,"외투를 두르고 두건을 쓴 이 인물에게는 불안하게 만드는 무언가가 있습니다.",,,,,,0,0
+107838,,,"Striking in her beauty and terrifying in her cruelty, the Valsharess is remarkable even among the drow.","그녀의 아름다움은 눈부시고 그녀의 잔혹함은 공포스럽습니다. 드로우 사이에서도 발샤레스는 남다릅니다.",,,,,,0,0
+107847,,,"This young drow wears the dress of nobility, and her eyes possess the hunger and ambition of youth.","이 젊은 드로우는 귀족의 복장을 입고 있으며, 그녀의 눈에는 젊음의 갈망과 야망이 담겨 있습니다.",,,,,,0,0
+107851,,,"This drow carries himself with pride, but lacks the cruel arrogance normally seen in his kind. His features hint at patience and understanding, as well as a quiet self-confidence.","이 드로우는 자부심을 가지고 행동하지만, 보통 그 종족에게서 보이는 잔인한 오만함은 없습니다. 그의 이목구비에서 인내와 이해, 그리고 조용한 자신감이 엿보입니다.",,,,,,0,0
+107853,,,"Though still long and lean, there is an obvious strength in the muscled limbs of this drow smith.","여전히 길고 마른 편이지만, 이 드로우 대장장이의 근육질 팔다리에는 분명한 힘이 있습니다.",,,,,,0,0
+107863,,,There is something strangely compelling about this man.,이 남자에게는 이상하게 끌리는 무언가가 있습니다.,,,,,,0,0
+107865,,,There is something strangely compelling about this woman.,이 여자에게는 이상하게 끌리는 무언가가 있습니다.,,,,,,0,0
+107869,,,One look into this duergar's mad eyes leaves little doubt as to the state of his twisted and deranged mind.,"이 듀에르가의 미친 눈을 한 번만 보면 그의 뒤틀리고 미쳐버린 정신 상태에 의심의 여지가 없습니다.",,,,,,0,0
+107876,,,This drow's eyes burn with passion and fire... and the desire for freedom.,이 드로우의 눈은 열정과 불꽃으로 타오릅니다... 그리고 자유에 대한 갈망으로.,,,,,,0,0
+107878,,,"Judging by the blank stare and empty eyes, this poor soul's mind is long gone.","멍한 눈과 공허한 눈동자로 보아, 이 불쌍한 영혼의 정신은 오래전에 사라졌습니다.",,,,,,0,0
+107884,,,"There is a weariness in this gnome's features, as if he carries a heavy burden he cannot bear.","이 노움의 이목구비에는 피로감이 있습니다, 마치 감당할 수 없는 무거운 짐을 지고 있는 것처럼.",,,,,,0,0
+107886,,,"The bones of the dracolich Vix'thra lie inanimate at last. Even so, you can't help but shudder as you gaze upon the remains of the fearsome beast.","드라코리치 빅스트라의 뼈가 마침내 움직이지 않고 놓여 있습니다. 그럼에도 불구하고, 이 두려운 짐승의 유해를 바라보면 몸서리치지 않을 수 없습니다.",,,,,,0,0
+107888,,,The pallid flesh of this humanoid female is inscribed with dark tattoos marking her as a worshipper of an undead cult.,이 여성 인간형의 창백한 살에는 언데드 숭배 집단의 신자임을 나타내는 어두운 문신이 새겨져 있습니다.,,,,,,0,0
+107889,,,This creature is nothing but an incorporeal cloud of sentient mist.,이 생명체는 지각 있는 안개로 이루어진 비실체의 구름에 불과합니다.,,,,,,0,0
+107891,,,The flesh of this hooded figure bears tattoos identifying him as a worshipper of an undead cult.,이 두건 쓴 인물의 살에는 언데드 숭배 집단의 신자임을 나타내는 문신이 있습니다.,,,,,,0,0
+107893,,,This woman is clad only in tattered rags.,이 여자는 너덜너덜한 누더기만 걸치고 있습니다.,,,,,,0,0
+107899,,,This is obviously the spirit of a long dead lizardman.,이것은 분명 오래전에 죽은 도마뱀인간의 영혼입니다.,,,,,,0,0
+107900,,,Beholder tyrants are powerful enough to command subservience from large groups of their kin.,주시자 폭군은 같은 종족 대규모 집단에게 복종을 요구할 만큼 강력합니다.,,,,,,0,0
+107902,,,"Unlike the other slaves here, this kobold still has his tongue.","여기 다른 노예들과 달리, 이 코볼트는 아직 혀가 있습니다.",,,,,,0,0
+107904,,,"Slaves of the beholders have had their tongues removed to both protect the secrets of the owners, as well as, to make any thoughts of revolt more difficult to communicate with other slaves.","주시자의 노예들은 주인의 비밀을 보호하고, 반란에 대한 생각을 다른 노예들과 소통하기 어렵게 만들기 위해 혀를 뽑혔습니다.",,,,,,0,0
+107909,,,This winged elf wears the robes of a wizard.,이 날개 달린 엘프는 마법사의 로브를 입고 있습니다.,,,,,,0,0
+107911,,,This winged elf wears the clothes of royalty.,이 날개 달린 엘프는 왕족의 복장을 입고 있습니다.,,,,,,0,0
+107918,,,This winged elf is stunted in height and wears the garb of a court jester.,이 날개 달린 엘프는 키가 작고 궁정 광대의 복장을 입고 있습니다.,,,,,,0,0
+107920,,,This winged elf appears to be some type of guard or soldier.,이 날개 달린 엘프는 경비병이나 병사 같습니다.,,,,,,0,0
+107922,,,"A Prince of Hell, Mephistopheles resembles a large, muscular man with the horns and hooves of a goat, and a writhing, serpentine tail.","지옥의 군주 메피스토펠레스는 염소의 뿔과 발굽, 그리고 꿈틀거리는 뱀 같은 꼬리를 가진 크고 근육질인 남자를 닮았습니다.",,,,,,0,0
+107925,,,This kobold's tongue has been removed; a common practice among beholders to make their slaves less likely to band together in revolt.,이 코볼트는 혀가 잘렸습니다. 주시자들이 노예들이 반란을 위해 뭉치지 못하게 하려고 흔히 쓰는 방법입니다.,,,,,,0,0
+107928,,,"Despite the horns and tail that mark his demonic heritage, this tiefling would be considered handsome by many. However, the fierce intensity of his cold, hard eyes hints at a savage fury barely held in check.","악마적 혈통을 나타내는 뿔과 꼬리에도 불구하고, 이 티플링은 많은 이들에게 잘생겼다고 여겨질 것입니다. 하지만 차갑고 굳은 눈의 강렬함은 간신히 억제된 야만적인 분노를 암시합니다.",,,,,,0,0
+107929,,,"There is no denying this drow's obvious beauty, but there is something dangerous about her as well. Her eyes dark eyes burn with terrible secrets lurking below their surface.","이 드로우의 분명한 아름다움은 부정할 수 없지만, 그녀에게는 위험한 무언가도 있습니다. 그녀의 어두운 눈은 그 표면 아래 숨어 있는 끔찍한 비밀로 불타오릅니다.",,,,,,0,0
+107933,,,This small pearl has some mysterious symbols engraved on its surface.,이 작은 진주 표면에는 신비로운 문자가 새겨져 있습니다.,,,,,,0,0
+107935,,,There are many words from numerous languages precisely carved across the surface of this pearl.,이 진주 표면에는 수많은 언어의 단어들이 정밀하게 새겨져 있습니다.,,,,,,0,0
+107937,,,This wooden child's top was created by a mysterious machine in the Underdark. It can be spun rapidly to summon forth a powerful ally.,이 나무로 된 어린이용 팽이는 언더다크의 신비로운 기계가 만들었습니다. 빠르게 돌리면 강력한 아군을 소환할 수 있습니다.,,,,,,0,0
+107939,,,"You found this strange stone in the Vix'thrite temple in Drearing's Deep. Your not quite sure what it is, however, or what its significance might be.","음울한자의 협곡에 있는 빅스트라 신전에서 이 이상한 돌을 발견했습니다. 하지만 이것이 무엇인지, 어떤 의미가 있는지 확실히 모르겠습니다.",,,,,,0,0
+107940,,,Darkness swims within this glossy pearl. You found it in the Vix'thrite temple in Drearing's Deep and suspect the priests there use it for some ceremonial purpose.,"이 윤기나는 진주 안에는 어둠이 헤엄치고 있습니다. 음울한자의 협곡의 빅스트라 신전에서 발견했으며, 그곳 사제들이 어떤 의식 목적으로 사용한다고 추측됩니다.",,,,,,0,0
+107942,,,"This book is badly burnt, its charred pages illegible. It is worth less than nothing.","이 책은 심하게 불에 탔고, 그을린 페이지는 읽을 수 없습니다. 아무 가치가 없습니다.",,,,,,0,0
+107949,,,"The orb hisses and sparks, its energies fully charged.","구슬이 쉬익거리며 스파크를 내뿜고, 에너지가 완전히 충전되어 있습니다.",,,,,,0,0
+107951,,,"When placed on the ground, this item will generate a magical call to all golems within range, drawing them towards the attractor.
+
+It is particularly useful for luring golems into deadly traps.","이 아이템을 땅에 놓으면 범위 내 모든 골렘에게 마법 호출을 보내 유인장치로 끌어당깁니다.
+
+골렘을 치명적인 함정으로 유인하는 데 특히 유용합니다.",,,,,,0,0
+107953,,,This large seal has a picture of a golem etched on the front.,이 큰 인장 앞면에는 골렘 그림이 새겨져 있습니다.,,,,,,0,0
+107956,,,"The fearsome twin of its partner, ""Strife,"" the sandalwood grip of this finely crafted kukri has been stained and darkened by the sweat and blood of countless Shadow Masters over the centuries. There was a time when ownership of the pair inferred the right of leadership over the fabled Guild of Night but, over time, duplicates surfaced, splintering the Guild into countless secret societies, some of which still exist today.","짝인 ""분쟁""의 무시무시한 쌍둥이로, 이 정교하게 만들어진 쿠크리의 백단나무 손잡이는 수세기에 걸쳐 수많은 그림자 달인들의 땀과 피로 얼룩지고 검게 물들었습니다. 한때 이 한 쌍을 소유하면 전설적인 밤의 조합 지도권이 주어졌지만, 시간이 지나며 복제품이 나타나 조합은 수많은 비밀 결사로 분열되었고, 일부는 오늘날까지 존재합니다.",,,,,,0,0
+107958,,,"This is Valen's flail, its dual spiked heads carved from a black bone-like material that is extremely cold to the touch. The weapon was with Valen throughout the many years that he spent in the Abyss fighting the Blood Wars... it specializes in dealing death to devils and other outsiders, but is still very effective against other opponents. Even if Valen was to be given another weapon, he would still not relinquish this one.","이것은 발렌의 도리깨로, 이중 가시 머리는 손에 닿으면 극도로 차가운 검은 뼈 같은 재료로 조각되었습니다. 이 무기는 발렌이 어비스에서 피의 전쟁을 치르며 보낸 수년 동안 함께했습니다... 마귀와 다른 이계인을 처치하는 데 특화되어 있지만, 다른 적에게도 여전히 매우 효과적입니다. 발렌이 다른 무기를 받더라도 이것만은 포기하지 않을 것입니다.",,,,,,0,0
+107959,,,Valen's Breastplate,발렌의 흉갑,,,,,,0,0
+107960,,,"This suit of mithril armor was made specifically for Valen, crafted by the rebel drow of Lith My'athar and enchanted to allow him brief periods of enhanced speed. It is a symbol of Valen's ability to keep the rebels alive even as the Valsharess hounded them to the ends of the Underdark, and even should he receive better armor he will not part with it.","이 미스릴 갑옷은 발렌을 위해 특별히 제작되었으며, 리스 마이아사의 반란 드로우가 만들고 잠시 동안 속도를 높이는 마법을 부여했습니다. 이것은 발샤레스가 그들을 언더다크 끝까지 추적하는 동안에도 반란군을 살려낸 발렌의 능력의 상징이며, 더 좋은 갑옷을 받더라도 이것을 버리지 않을 것입니다.",,,,,,0,0
+107967,,,"These boots are based on the design for dragon slippers, but fortified with the skin of a prismatic dragon. The garish colors offend the sensitivities of others though, so care should be made in choosing appropriate times and places to wear these boots.","이 장화는 용 슬리퍼 디자인을 기반으로 하지만 프리즘 용의 가죽으로 보강되었습니다. 하지만 야한 색상이 다른 이들의 감각을 거슬리게 하므로 이 장화를 신을 적절한 시간과 장소를 신중히 선택해야 합니다.",,,,,,0,0
+107969,,,"The key feels heavy in your hand, as if the skull that marks it is made of lead.","열쇠가 손에서 무겁게 느껴집니다, 마치 거기 표시된 해골이 납으로 만들어진 것처럼.",,,,,,0,0
+107972,,,"When constructing golems, it is important not to forget the importance of adding enhancements through enchantments. The easiest way to accomplish this is to include spell conduits on your golem creation machine. These conduits can then be filled with the appropriate spells.
+
+It is important to remember that the effects of spells can be altered during the creation process, often producing an unexpected result when they are passed through the spell conduit.
+
+For example:
+1. Greater Spell Mantle will improve a golem's resistance to magic.
+2. Bigby's Crushing Hand increases a golem's strength.
+3. Greater Sanctuary provides more protection against physical attacks.
+4. Time Stop grants the golem improved regenaration.
+5. Premonition results in improved damage reduction.
+6. Mass Haste provides a permanent haste effect.
+7. True Seeing provides a permanent True Seeing effect.
+8. Chain Lightning causes a lightning bolt to be released whenever the golem is hit by an enemy.
+9. Mordenkainen's Disjuntion gives the golem the ability to Dispel Magic each time it hits an opponent.
+
+By placing these spells in the respective conduits, a golem's attributes and abilities can be customized to the creators exact specifications.
+
+Alsigard the Maker","골렘을 제작할 때, 마법 부여를 통해 강화를 추가하는 것의 중요성을 잊지 말아야 합니다. 이를 가장 쉽게 달성하는 방법은 골렘 제작 기계에 주문 도관을 포함시키는 것입니다. 이 도관에 적절한 주문을 채울 수 있습니다.
+
+주문의 효과는 제작 과정에서 변경될 수 있으며, 주문 도관을 통과할 때 종종 예상치 못한 결과를 생성한다는 점을 기억하는 것이 중요합니다.
+
+예를 들어:
+1. 상급 주문 장막은 골렘의 마법 저항력을 높입니다.
+2. 비그비의 분쇄 손은 골렘의 힘을 증가시킵니다.
+3. 상급 성역은 물리 공격에 대한 보호를 더 제공합니다.
+4. 시간 정지는 골렘에게 우수한 재생력을 부여합니다.
+5. 예지는 피해 감소를 향상시킵니다.
+6. 대규모 가속은 영구적인 가속 효과를 제공합니다.
+7. 진실 보기는 영구적인 진실 보기 효과를 제공합니다.
+8. 연쇄 번개는 골렘이 적에게 맞을 때마다 번개를 방출하게 합니다.
+9. 모르덴카이넨의 분리는 골렘이 적을 칠 때마다 마법 해제 능력을 부여합니다.
+
+이 주문들을 각 도관에 배치함으로써, 골렘의 속성과 능력을 창조자의 정확한 사양에 맞게 맞춤화할 수 있습니다.
+
+제작자 알시가르드",,,,,,0,0
+107975,,,This is Nathyrra's cloak. She has enchanted it with tremendous protective magic -- helping her hide in the shadows and defending her from physical attacks.,이것은 나시라의 망토입니다. 그녀는 엄청난 보호 마법을 부여했습니다 -- 그림자에 숨는 것을 돕고 물리 공격으로부터 방어합니다.,,,,,,0,0
+107976,,,Nullifier Rod,무력화 단장,,,,,,0,0
+107977,,,"It's difficult to determine the purpose of this rod, though one end of it is flattened, exposing various copper nodes. It's probably meant to be inserted into some larger structure.","이 막대의 목적을 파악하기 어렵지만, 한쪽 끝이 납작해져 다양한 구리 노드가 노출되어 있습니다. 아마 더 큰 구조물에 삽입되도록 만들어진 것 같습니다.",,,,,,0,0
+107981,,,The blade of this scythe had been honed to an edge keen enough to sever an opponent in two with a single blow.,이 낫의 칼날은 한 번의 일격으로 적을 둘로 베어버릴 만큼 날카롭게 벼려졌습니다.,,,,,,0,0
+107984,,,"The delicate work on this signet ring for House Maevir must have been done by a master craftsman. The pattern seems to twist and turn in on itself, giving the illusion that the gold is alive and moving. You almost expect the ring to begin crawling off your hand, like a metallic spider.","마에비르 가문 인장 반지의 섬세한 세공은 틀림없이 대장인의 손에서 나왔을 것입니다. 무늬가 뒤틀리고 접히며 마치 금이 살아 움직이는 듯한 착각을 불러일으킵니다. 금속 거미처럼 반지가 손에서 기어 내려갈 것만 같습니다.",,,,,,0,0
+107987,,,Seer's robe,선견자의 로브,,,,,,0,0
+107992,,,This key will unlock the illithid slave pens.,이 열쇠는 일리시드 노예 우리를 열 수 있습니다.,,,,,,0,0
+107995,,,Helm of Shielding,차폐의 투구,,,,,,0,0
+107996,,,"This helm seems to close around your neck when donned, creating a firm seal between you and the outside.","이 투구는 착용하면 목 주위를 감싸며 당신과 외부 사이에 견고한 봉인을 만드는 듯합니다.",,,,,,0,0
+107997,,,"Commonly worn by slavers who deal with the illithid, the Helm of Shielding protects the user against mental telepathy and the other psionic powers of the mind flayers.
+
+Without the helm's protection the slave trade would be impossible, as the illithid are prone to attack any vulnerable non-illithid they speak with.","일리시드와 거래하는 노예상들이 흔히 착용하는 차폐의 투구는 정신 텔레파시와 마인드 플레이어의 다른 초능력으로부터 사용자를 보호합니다.
+
+이 투구의 보호가 없다면 노예 거래는 불가능할 것입니다. 일리시드는 대화하는 무방비한 비(非)일리시드를 공격하는 경향이 있기 때문입니다.",,,,,,0,0
+108001,,,"This vile staff was wielded by Armand, the fearsome High Priest of Vix'thra who ruled over the free-village of Drearing's Deep in the Underdark. The swirling vortex at the staff's tip is said to be a god's-eye view of the infinite layers of the Abyss.","이 사악한 지팡이는 언더다크의 자유 마을 음울한자의 협곡을 지배했던 빅스트라의 무시무시한 대사제 아르망이 휘둘렀습니다. 지팡이 끝의 소용돌이치는 와류는 심연의 무한한 층들을 신의 시선으로 바라본 것이라고 합니다.",,,,,,0,0
+108003,,,"An eerie purple crystal is attached to this otherwise indistinctive amulet. Your hand grows cold and clawlike as it clutches the glowing crystal shard. In its purple light, your skin looks pale and gray, almost skeletal. Its power fascinates you but a part of you can't help but question what it might be asking of you in return.","특별할 것 없는 이 부적에 섬뜩한 보라색 수정이 달려 있습니다. 빛나는 수정 파편을 쥐자 손이 차갑고 발톱처럼 변합니다. 보라빛 속에서 피부는 창백하고 회색으로, 거의 해골처럼 보입니다. 그 힘에 매료되지만, 한편으로는 대가로 무엇을 요구할지 의문을 품지 않을 수 없습니다.",,,,,,0,0
+108005,,,Lavoera's Wrath,라보에라의 분노,,,,,,0,0
+108006,,,"This mace, pale as alabaster, shines with a holy light. Encased in the weapon's cut-glass head is the image of a young and smiling angel. Written in gold filigree down the shaft are the words:
+
+""Bestowed upon the deva, Lavoera, in recognition of the vital mission that lies before her.""","설화석고처럼 창백한 이 철퇴는 신성한 빛으로 빛납니다. 무기의 커팅 유리 머리 안에는 젊고 미소 짓는 천사의 모습이 담겨 있습니다. 자루에는 금 세공으로 다음과 같이 새겨져 있습니다:
+
+""라보에라 데바에게, 그녀 앞에 놓인 중대한 사명을 인정하여 수여함.""",,,,,,0,0
+108007,,,Tome of the Vix'thrite Elders,빅스트라 장로들의 책,,,,,,0,0
+108008,,,"This book appears to be written in human blood, its ornate text apparently a mixture of the Common Tongue and Old Draconic. Trying to make sense of it gives you a headache.","이 책은 인간의 피로 쓰인 것 같으며, 화려한 문체는 공용어와 고대 드래곤어가 섞인 것으로 보입니다. 해독하려 하면 두통이 옵니다.",,,,,,0,0
+108009,,,"""...On the eve of Darkentide, 1034 DR, did Vix'thra at last attain His true form. Shadow are His wings no more but fearsome bone, His power made greater by our faith and labors. We created our god and made Him eternal by our faith. He shall be undying, as we are. Now and forever shall we serve His power...""","""...1034 DR 어둠의 조류 전야, 빅스트라께서 마침내 진정한 형태를 얻으셨다. 그의 날개는 더 이상 그림자가 아니라 무시무시한 뼈이며, 우리의 신앙과 노력으로 그의 힘은 더욱 강해졌다. 우리는 우리의 신을 창조했고 우리의 신앙으로 그를 영원하게 만들었다. 그는 우리처럼 불멸할 것이다. 이제 그리고 영원히 우리는 그의 힘을 섬기리라...""",,,,,,0,0
+108013,,,Letter from the Valsharess,발샤레스의 편지,,,,,,0,0
+108014,,,"""...As wise and powerful as you are, Vix'thra'na'arxterys, your lack of progress on the matters we have agreed to angers me. You promised me an army of undead, to the order of 200 a day. What I have seen from you thus far has been half that. Your foolish Elders sing the praises of their exceptional craftsmanship and might. While this is true, it does not forgive the shortfall. I am sending some of my slaves with this letter to oversee the process. Satisfy me and your elders may have their blood and you their bones. Exceed my expectations and I will give you their weight in gold as well. Disappoint me, however, and I will destroy even the memory of your pathetic little cult. The choice is yours...""","""...현명하고 강력한 빅스트라나아르크테리스여, 우리가 합의한 사안에서의 진전 부족이 나를 분노케 한다. 하루 200구 규모의 언데드 군대를 약속했건만, 지금까지 본 것은 그 절반에 불과하다. 네 어리석은 장로들은 자신들의 뛰어난 솜씨와 힘을 자랑하지. 사실이지만, 부족분을 용서할 순 없다. 이 편지와 함께 노예 몇을 보내 공정을 감독하게 할 것이다. 만족시키면 장로들에게 피를, 너에게 뼈를 주겠다. 기대를 초과하면 그 무게만큼 금도 주겠다. 하지만 실망시키면 네 한심한 교단의 기억마저 파괴하겠다. 선택은 네 몫이다...""",,,,,,0,0
+108019,,,"With their black shafts and blood-red tips, these crossbow bolts are as gruesome as they are powerful. The oily black feathers that help them stay their course are said to be those of graveyard crows.","검은 화살대와 핏빛 촉을 가진 이 쇠뇌 볼트는 강력한 만큼 섬뜩합니다. 방향을 유지하는 기름진 검은 깃털은 묘지 까마귀의 것이라고 합니다.",,,,,,0,0
+108021,,,"A relatively simple device in concept, the Rod of Fire is rather nefarious in its execution. Countless careless wizards have incinerated themselves over the years while trying to explore the rod's more unconventional uses. If you intend to wield it, you had best do so with great caution.","개념적으로는 단순한 장치지만, 화염 막대는 실행 면에서 꽤 악명 높습니다. 수많은 부주의한 마법사들이 막대의 비전통적 용도를 탐구하다가 스스로를 불태웠습니다. 사용하려면 극히 조심하는 게 좋습니다.",,,,,,0,0
+108024,,,"Wielded by the fabled Black Lotus Assassins of the far-off Jade Empire, the blades of these sturdy weapon are fashioned from countless layers of thin, many-folded steel. With each folding, the blade is cooled in liquid poison until its every cut brings weakness.","먼 옥제국의 전설적인 검은 연꽃 암살단이 사용한 이 튼튼한 무기의 칼날은 수없이 접힌 얇은 강철층으로 만들어졌습니다. 매번 접을 때마다 칼날을 액체 독에 담가 식혀, 모든 베임이 허약함을 가져옵니다.",,,,,,0,0
+108025,,,Vix'thrite Tome,빅스트라 교단의 책,,,,,,0,0
+108026,,,"Though written in the Common Tongue, you find the ornate script near impossible to read. To make matters worse, the faded ink has been thumbed bare in places.","공용어로 쓰여 있지만, 화려한 글씨체가 거의 읽기 불가능합니다. 설상가상으로 바랜 잉크가 군데군데 손때에 닳아 있습니다.",,,,,,0,0
+108027,,,"""...the Priesthood of Vix'thra shall make its home above, both in the world and of the world, that it might lure more believers to the divine light. But below shall dwell the Elders, those who serve Vix'thra for all eternity, neither in the world nor of it, for they shall be undying. To them shall sacrifice be made in blood. To Vix'thra shall it be made in bone...""","""...빅스트라의 사제단은 세상 속에서 세상과 함께하며 위쪽에 거처를 정하리니, 더 많은 신자들을 신성한 빛으로 유인하기 위함이라. 하지만 아래에는 장로들이 거하리니, 영원토록 빅스트라를 섬기는 자들로, 세상 속에도 세상 밖에도 있지 않으리니, 불멸할 것이기 때문이라. 그들에게는 피로 제물을 바칠지어다. 빅스트라에게는 뼈로 제물을 바칠지어다...""",,,,,,0,0
+108029,,,"Jagged splinters protrude from this shattered piece of wood. It's well-weighted, however, and you suspect you could use it as a crude weapon if you had to.","이 부서진 나무 조각에서 들쭉날쭉한 파편이 튀어나와 있습니다. 하지만 무게 균형이 좋아서 필요하다면 조잡한 무기로 쓸 수 있을 것 같습니다.",,,,,,0,0
+108031,,,"Extracted from the veins of a celestial deva through nefarious means, this lifeblood holds great power.","사악한 방법으로 천상의 데바의 혈관에서 추출한 이 생명의 피는 거대한 힘을 품고 있습니다.",,,,,,0,0
+108033,,,You gained this key from one of the cultist monks beneath the Vix'thrite temple in Drearing's Deep. The metal it is fashioned from has a bloody hue.,음울한자의 협곡에 있는 빅스트라 신전 아래의 교단 수도사 중 하나에게서 얻은 열쇠입니다. 만들어진 금속이 핏빛 색조를 띱니다.,,,,,,0,0
+108034,,,Lexicon Arcana,비전 사전,,,,,,0,0
+108035,,,"This appears to be some kind of a dictionary for ancient arcane languages:
+
+""I have decided to use the Unuraakil language for the special-purpose golems. I'll just have to make sure that they remind me of their numbers, as I will need them for their maintenance. For now, I would probably need only the following words:
+
+Omon = Zero
+Arthas = One
+Kinthas = Two
+Ivon = Three
+Thesti = Four
+Sinth = Five
+Kali = Six
+Laz = Seven
+Urvil = Eight
+Zand = Nine""","이것은 일종의 고대 비전 언어 사전인 것 같습니다:
+
+""특수 목적 골렘에 우누라아킬 언어를 사용하기로 결정했다. 유지보수에 필요하니 그들이 자신의 번호를 알려주도록 해야겠다. 당장은 다음 단어들만 필요할 것 같다:
+
+오몬 = 영
+아르사스 = 일
+킨사스 = 이
+이본 = 삼
+테스티 = 사
+신스 = 오
+칼리 = 육
+라즈 = 칠
+어빌 = 팔
+잔드 = 구""",,,,,,0,0
+108036,,,Ferron's Properties,페론의 속성,,,,,,0,0
+108038,,,"Uligon Yarbided, a svirfneblin smith, is rumored to have formed this magnificent suit of armor from molten magma. Though many have sought to emulate its design, its creation uses a secret technique known only to Uligon himself.","스버프네블린 대장장이 울리곤 야르비디드가 녹은 용암으로 이 장엄한 갑옷을 만들었다는 소문이 있습니다. 많은 이들이 그 디자인을 모방하려 했지만, 제작에는 울리곤만 아는 비밀 기술이 사용됩니다.",,,,,,0,0
+108041,,,This is a piece of a very large golem.,이것은 매우 큰 골렘의 조각입니다.,,,,,,0,0
+108050,,,"These appear to be notes detailing the Maker's efforts to create sentient golems.
+
+""Despite my best efforts to give birth to a perfect being, all I have managed to create are intelligent golems.
+
+Gifted with self awareness, they are unable to make use of what I have given them. They drift without purpose or direction, they have no concept of accomplishment, art or culture.""","이것은 제작자가 자아를 가진 골렘을 만들려는 노력을 상세히 기술한 메모인 것 같습니다.
+
+""완벽한 존재를 탄생시키려 최선을 다했지만, 내가 만든 것은 지능 있는 골렘뿐이다.
+
+자아 인식은 부여받았으나, 내가 준 것을 활용하지 못한다. 목적도 방향도 없이 표류하며, 성취, 예술, 문화의 개념이 없다.""",,,,,,0,0
+108051,,,"These appear to be notes detailing the Maker's efforts to create an entire society of sentient golems.
+
+""I am growing more frustrated with my golem children. They seem incapable of those things that make a living creature truly alive.
+
+Though I have tried to create a society for them, they continue to exist only as isolated individuals. They seem incapable of forming associations and friendships, they only know servant and master.
+
+Perhaps it is my own presence that stunts their growth. Maybe if I leave them to develop their own society, they can overcome the limitations of their own nature.""","이것은 제작자가 자아를 가진 골렘들로 이루어진 사회 전체를 만들려는 노력을 상세히 기술한 메모인 것 같습니다.
+
+""골렘 아이들에게 점점 좌절감을 느낀다. 살아있는 생명체를 진정으로 살아있게 만드는 것들을 할 수 없는 것 같다.
+
+그들을 위해 사회를 만들려 했지만, 계속 고립된 개인으로만 존재한다. 결사와 우정을 형성할 능력이 없고, 하인과 주인만 안다.
+
+어쩌면 내 존재가 그들의 성장을 방해하는지도 모른다. 그들만의 사회를 발전시키도록 내버려두면, 자신의 본성의 한계를 극복할 수 있을지도.""",,,,,,0,0
+108052,,,"These appear to be notes detailing the Maker's mounting frustration in his efforts to create a truly sentient creature.
+
+""I am beginning to wonder if a golem can ever be anything more than lifeless materials given animation and form.
+
+Despite all I have given my children - intelligence, self-awareness - they are stunted. They cannot learn or grow, they seem as immutable and fixed as the stone, steel and clay from which they were born.""","이것은 진정한 자아를 가진 생명체를 만들려는 노력에서 제작자의 점점 커지는 좌절감을 상세히 기술한 메모인 것 같습니다.
+
+""골렘이 생명 없는 물질에 움직임과 형태를 부여한 것 이상이 될 수 있는지 의문이 들기 시작한다.
+
+내 아이들에게 모든 것 - 지능, 자아 인식 - 을 주었지만, 그들은 발육이 멈춰있다. 배우거나 성장할 수 없고, 태어난 돌, 강철, 점토처럼 변하지 않고 고정되어 있다.""",,,,,,0,0
+108053,,,"These appear to be notes detailing the Maker's efforts to create sentient golems.
+
+""I have given my creations the divine spark, the awareness and free will of a sentient being. Yet even with this, they are somehow... flawed.
+
+It is as if they do not know how to exist without a master. They need to be given a purpose in life - they seem incapable of discovering a purpose of their own.""","이것은 제작자가 자아를 가진 골렘을 만들려는 노력을 상세히 기술한 메모인 것 같습니다.
+
+""내 피조물들에게 신성한 불꽃, 자아를 가진 존재의 인식과 자유 의지를 주었다. 그런데도 어쩐지... 결함이 있다.
+
+마치 주인 없이 존재하는 법을 모르는 것 같다. 삶의 목적을 부여받아야 하며 - 스스로 목적을 발견하는 것은 불가능해 보인다.""",,,,,,0,0
+108055,,,"This appears to be a magical activation key, probably to unlock Alsigard's golem creation machine.","이것은 마법 활성화 열쇠로, 아마도 알시가르드의 골렘 제조 기계를 해제하는 데 사용되는 것 같습니다.",,,,,,0,0
+108057,,,"This hammer was forged for the express purpose of destroying golems and other constructs.
+
+It was given to Merkil Thunderfist, a famous gnomish adventurer. Armed with this fantastical hammer, Merkil descended into the depths of the Maker's dungeon, but was never seen again.","이 망치는 골렘과 다른 구조물을 파괴할 목적으로 제작되었습니다.
+
+유명한 노움 모험가 메킬 썬더피스트에게 주어졌습니다. 이 환상적인 망치로 무장한 메킬은 제작자의 던전 깊숙이 내려갔지만, 다시는 보이지 않았습니다.",,,,,,0,0
+108059,,,"This helmet grants the user protection against all forms of mental domination and mind affecting spells.
+
+It was last seen in the possession of Merkil Thunderfist, a famous gnomish adventurer who never returned from his expedition to the Isle of the Maker.","이 투구는 사용자에게 모든 형태의 정신 지배와 정신에 영향을 미치는 주문에 대한 보호를 부여합니다.
+
+마지막으로 유명한 노움 모험가 메킬 썬더피스트가 소유하고 있었는데, 그는 제작자의 섬 원정에서 돌아오지 못했습니다.",,,,,,0,0
+108061,,,"This suit of armor was created for Merkil Thunderfist, the legendary svirfneblin hero. To prevent it from falling into the hands of the drow or other potential enemies, the suit was crafted so that only one of svirfneblin stature could wear it.
+
+The armor was lost in the dungeons of Alsigard the Maker, along with Merkil himself.","이 갑옷은 전설적인 스버프네블린 영웅 메킬 썬더피스트를 위해 제작되었습니다. 드로우나 다른 잠재적 적들의 손에 넘어가지 않도록 스버프네블린 체격의 자만 입을 수 있게 만들어졌습니다.
+
+이 갑옷은 메킬 자신과 함께 제작자 알시가르드의 던전에서 실종되었습니다.",,,,,,0,0
+108065,,,"The Power Source glows with radiant energy and pulses with a slow, steady beat as if it had a life of its own. It is quite likely that this artifact is closely tied to the golems of this level.
+
+Despite the tremendous energy contained within, the Power Source itself is surprisingly fragile. If shattered it will unleash all of its energy in a single, apocalyptic explosion.","동력원은 찬란한 에너지로 빛나며 마치 자체적인 생명이 있는 것처럼 느리고 꾸준한 박동을 합니다. 이 유물은 이 층의 골렘들과 밀접하게 연관되어 있을 가능성이 높습니다.
+
+내부에 엄청난 에너지가 담겨 있음에도 불구하고 동력원 자체는 놀랍도록 취약합니다. 파괴되면 모든 에너지를 단 한 번의 종말론적 폭발로 방출할 것입니다.",,,,,,0,0
+108067,,,"This helm was rumored to have been forged in molten fires of magma far beneath the earth by Uligon Yarbided, a deep gnome smith famed for his armor and weapons.","이 투구는 갑옷과 무기로 유명한 딥 노움 대장장이 울리곤 야르비디드가 땅 깊숙한 곳의 녹은 용암 불에서 제작했다는 소문이 있습니다.",,,,,,0,0
+108069,,,"Any golem targeted by this item will be slowed for 1d6+2 rounds.
+
+Each use depletes a single charge from the item.","이 아이템의 대상이 된 골렘은 1d6+2 라운드 동안 감속됩니다.
+
+사용할 때마다 아이템의 충전이 하나씩 소모됩니다.",,,,,,0,0
+108071,,,"This powder has obvious magical properties, though you would likely need an alchemist's equipment to extract it.","이 가루는 명백한 마법 속성을 지녔지만, 추출하려면 연금술사의 장비가 필요할 것입니다.",,,,,,0,0
+108075,,,"This crystal has obvious magical properties, though you would likely need an alchemist's equipment to extract it.","이 수정은 명백한 마법 속성을 지녔지만, 추출하려면 연금술사의 장비가 필요할 것입니다.",,,,,,0,0
+108077,,,"This rod has obvious magical properties, though you would likely need an alchemist's equipment to extract it.","이 막대는 명백한 마법 속성을 지녔지만, 추출하려면 연금술사의 장비가 필요할 것입니다.",,,,,,0,0
+108079,,,"This statue has obvious magical properties, though you would likely need an alchemist's equipment to extract it.","이 조각상은 명백한 마법 속성을 지녔지만, 추출하려면 연금술사의 장비가 필요할 것입니다.",,,,,,0,0
+108081,,,"When used against a construct, this item will send out a devastating ray that will damage the golem for 3d10+30 damage, as well as knocking it to the ground for 1d4 rounds.
+
+Each use of the item depletes a single charge.","구조물에 사용하면 이 아이템은 파괴적인 광선을 발사하여 골렘에게 3d10+30의 피해를 주고 1d4 라운드 동안 바닥에 쓰러뜨립니다.
+
+사용할 때마다 충전이 하나씩 소모됩니다.",,,,,,0,0
+108082,,,Ferron's Head,페론의 머리,,,,,,0,0
+108083,,,This is the head of the golem Ferron.,이것은 골렘 페론의 머리입니다.,,,,,,0,0
+108085,,,"This amulet is a necessary component of constructing any golem. When combined with the proper pieces, it will ensure the construct remains subservient to the will of the master.","이 부적은 모든 골렘을 제작하는 데 필요한 부품입니다. 적절한 부품과 결합하면 구조물이 주인의 의지에 복종하도록 보장합니다.",,,,,,0,0
+108086,,,"This amulet establishes a special connection between the owner of a shield guardian and the golem itself. While the amulet is worn, the golem would be extremely protective of its master, reflecting blows and magical attacks.
+Also, the power of the amulet is capable of teleporting the golem to its master, even if they are on different planes of existence.","이 부적은 방패 수호자의 소유자와 골렘 자체 사이에 특별한 연결을 확립합니다. 부적을 착용하는 동안 골렘은 주인을 극도로 보호하며 타격과 마법 공격을 반사합니다.
+또한 부적의 힘은 서로 다른 존재의 차원에 있더라도 골렘을 주인에게 텔레포트시킬 수 있습니다.",,,,,,0,0
+108088,,,Anduvir,안두비르,,,,,,0,0
+108089,,,"Forged within the heavenly fires of an electrical storm, the hilt of this blade pulses with barely contained energy, and constant bursts of lightning arc along the twin blades of this powerful sword.","전기 폭풍의 천상의 불꽃 속에서 제련된 이 칼의 손잡이는 간신히 억제된 에너지로 맥동하며, 이 강력한 검의 쌍검날을 따라 번개가 끊임없이 튕겨 나갑니다.",,,,,,0,0
+108095,,,"This magical orb of power was taken from the obelisk that created the dead-magic area below the beholder caves. Considering the fact that it powered the obelisk, this orb might be used to create dead-magic zones.","이 마법적 힘의 구체는 주시자 동굴 아래의 마법 무효 지역을 만든 오벨리스크에서 가져온 것입니다. 오벨리스크에 동력을 공급했다는 점을 고려하면, 이 구체는 마법 무효 지대를 만드는 데 사용될 수 있습니다.",,,,,,0,0
+108097,,,"Strange and ancient writings are inscribed on this stone slab. Over the scribing are many remarks written in common with a bold and clear black ink. It seems as if the remarks translate the ancient text:
+ ""The great obelisk has been activated and all magic has been negated within our compound. Hopefully, this would stop the onslaught of this powerful magical enemy as they won't be able to cast their destructive spells upon us nor use their magical artifacts and weapons. Even with the obelisk deactivated and destroyed, we could still use the core as a weapon against them. Activating the core while being carried by a living creature would trigger a burst of magic negating force that would negate the enemy's ability to channel magical energy long enough for our warriors to bring them down.""","이상하고 고대의 글자가 이 석판에 새겨져 있습니다. 글 위에 굵고 선명한 검은 잉크로 공용어로 쓴 많은 주석이 있습니다. 주석이 고대 문자를 번역한 것 같습니다:
+ ""거대한 오벨리스크가 활성화되어 우리 구역 내의 모든 마법이 무효화되었다. 이것이 강력한 마법적 적의 맹공을 막아주길 바란다. 그들은 파괴적인 주문을 우리에게 사용하거나 마법 유물과 무기를 쓸 수 없을 것이다. 오벨리스크가 비활성화되고 파괴되더라도, 핵을 그들에 대한 무기로 사용할 수 있다. 살아있는 생명체가 핵을 지닌 채 활성화하면 마법 무효화 힘의 폭발이 일어나 적들이 마법 에너지를 발휘할 능력을 충분히 오래 무효화하여 전사들이 그들을 쓰러뜨릴 수 있다.""",,,,,,0,0
+108099,,,"This magical compass will help direct you to the item it is keyed to: in this case, a shard of broken glass.
+
+When activated, the compass will flash periodically. The closer you are to the desired item, the faster it will flash.","이 마법 나침반은 설정된 물건으로 안내해 줍니다: 이 경우, 깨진 유리 조각입니다.
+
+활성화하면 나침반이 주기적으로 깜박입니다. 원하는 물건에 가까워질수록 더 빨리 깜박입니다.",,,,,,0,0
+108102,,,"Also known as ""The Shattered Mirror"", the surface of this looking glass is scarred with a criss-crossing network of cracks, and it has obviously been broken and pieced together many times.
+
+Peering into the glass reveals a distorted image that seems to shift and change the longer one stares at it. While it is clear the image is not a reflection of the person looking in, the exact details of the scene within the mirror are difficult to fathom.
+","""산산조각 난 거울""이라고도 불리는 이 거울의 표면에는 교차하는 금이 흉터처럼 나 있으며, 분명히 여러 번 깨지고 다시 맞춰진 것입니다.
+
+거울을 들여다보면 오래 바라볼수록 변하고 이동하는 것처럼 보이는 왜곡된 이미지가 드러납니다. 이미지가 보는 사람의 반영이 아닌 것은 분명하지만, 거울 안 장면의 정확한 세부 사항은 파악하기 어렵습니다.
+",,,,,,0,0
+108110,,,"This appears to be a piece of broken glass, as if from a mirror. Although you can't be certain, it seems as if the images in the surface are twisted and warped in strange and bizarre ways.
+
+Perhaps this shard has come from a mirror with magical properties","이것은 거울에서 나온 듯한 깨진 유리 조각으로 보입니다. 확신할 수는 없지만, 표면의 이미지가 이상하고 기묘하게 뒤틀리고 왜곡된 것 같습니다.
+
+아마 이 파편은 마법 속성을 가진 거울에서 나온 것 같습니다.",,,,,,0,0
+108114,,,"This potion grants the user complete protection from the petrifying gaze of a medusa, though the effects are temporary.","이 물약은 메두사의 석화 시선으로부터 완전한 보호를 부여하지만, 효과는 일시적입니다.",,,,,,0,0
+108115,,,Talona's Antidote,탈로나의 해독제,,,,,,0,0
+108116,,,The magic of this powerful talisman is the only known cure for the dreaded affliction known as Talona's Fever.,이 강력한 부적의 마법은 탈로나의 열병으로 알려진 무서운 질병에 대해 알려진 유일한 치료법입니다.,,,,,,0,0
+108119,,,Will of Lloth,로스의 의지,,,,,,0,0
+108121,,,"Though frayed and old from years of neglect, this hempen rope is quite long, at least.","수년간 방치되어 닳고 오래됐지만, 이 삼베 밧줄은 적어도 꽤 깁니다.",,,,,,0,0
+108123,,,"This appears to be a manual devoted to the creation and maintenance of golems.
+
+""The golems you create are like your children, but like all children they must be disciplined from time to time. There are several items a mage would be wise to consider to help maintain control over his or her creations.
+
+A Mithral Statue combined with two parts of blue powder will yield a Golem Crasher.
+Combining Golden Rod with one part blue powder and one part yellow will give a Golem Binder.
+To create a Golem Attractor, take a Magical Crystal and combine it with one part blue powder and one part red powder.
+
+These three items will allow you to maintain control of your golems, and prevent them from ever turning against you.
+
+Alsigard the Maker""","이것은 골렘의 제작과 유지보수에 관한 안내서인 것 같습니다.
+
+""당신이 만드는 골렘은 당신의 자녀와 같지만, 모든 자녀처럼 때때로 훈련시켜야 합니다. 마법사가 피조물에 대한 통제를 유지하기 위해 고려해야 할 몇 가지 아이템이 있습니다.
+
+미스랄 조각상을 파란 가루 두 부분과 결합하면 골렘 분쇄기가 됩니다.
+황금 막대를 파란 가루 한 부분과 노란 가루 한 부분과 결합하면 골렘 속박기가 됩니다.
+골렘 유인기를 만들려면 마법 수정을 파란 가루 한 부분과 빨간 가루 한 부분과 결합하세요.
+
+이 세 가지 아이템으로 골렘을 통제하고 반항하는 것을 막을 수 있습니다.
+
+제작자 알시가르드""",,,,,,0,0
+108125,,,Dark mists seem to swirl just below the surface of this otherwise unremarkable stone.,평범해 보이는 이 돌의 표면 바로 아래에서 어두운 안개가 소용돌이치는 것 같습니다.,,,,,,0,0
+108127,,,"The grey-bladed twin of its partner, ""Hatred,"" the witchwood grip of this finely crafted kukri has been stained and darkened by the sweat and blood of countless Shadow Masters over the centuries. There was a time when ownership of the pair inferred the right of leadership over the fabled Guild of Night but, over time, duplicates surfaced, splintering the Guild into countless secret societies, some of which still exist today.","짝인 ""증오""와 회색 칼날을 공유하는 이 정교한 쿠크리의 마녀나무 손잡이는 수세기에 걸쳐 수많은 그림자 대가들의 땀과 피로 얼룩지고 검어졌습니다. 한때 이 쌍을 소유하는 것이 전설적인 밤의 조합에 대한 지도권을 의미했지만, 시간이 지나면서 복제품들이 등장하여 조합은 수많은 비밀 결사로 분열되었고, 그중 일부는 오늘날에도 존재합니다.",,,,,,0,0
+108129,,,"This work appears to detail the Maker's efforts to create a single, perfect golem.
+Most of the volume describes failed experiments, interspersed with ramblings that demonstrate Alsigard's downward spiral into complete insanity.
+
+However, the final passage reveals an important breakthrough:
+
+""It is all clear to me now. I must construct my greatest success from my previous failures.
+
+First, I must gather 6 pieces from destroyed golems: 2 legs, 2 arms, a torso and the head.
+Then, I can unlock the golem construction machine by targeting it with the Activator. Once open, I can then place the pieces inside, along with the controlling amulet.
+This will activate the spell conduits so that I can cast my enchantments on them, giving my creation powers and abilities far beyond any other golem, as described in my previous work 'Magics of Golem Enhancements'.
+
+When the process is complete, I can then retrieve the controlling amulet and use it to summon my perfect being.
+
+The enchantments and powerful arcane spells needed for this delicate process could only be channeled by the most powerful wielders of arcane sorcery. However, I trust that even my apprentices would be able to follow these instructions"".","이 저작은 제작자가 하나의 완벽한 골렘을 만들려는 노력을 상세히 기술한 것 같습니다.
+대부분은 실패한 실험을 설명하며, 알시가르드가 완전한 광기로 빠져드는 것을 보여주는 횡설수설이 산재해 있습니다.
+
+그러나 마지막 구절에서 중요한 돌파구가 드러납니다:
+
+""이제 모든 것이 명확해졌다. 이전의 실패들로부터 가장 위대한 성공을 만들어야 한다.
+
+먼저, 파괴된 골렘에서 6개의 조각을 모아야 한다: 다리 2개, 팔 2개, 몸통, 그리고 머리.
+그 다음, 활성화기로 골렘 제조 기계를 겨냥하여 해제할 수 있다. 열리면 조각들과 함께 제어 부적을 안에 넣는다.
+이렇게 하면 주문 도관이 활성화되어 마법을 시전할 수 있고, 내 이전 저작 '골렘 강화의 마법'에 설명된 대로 다른 어떤 골렘보다 훨씬 뛰어난 힘과 능력을 피조물에 부여할 수 있다.
+
+과정이 완료되면 제어 부적을 회수하여 완벽한 존재를 소환하는 데 사용할 수 있다.
+
+이 섬세한 과정에 필요한 마법과 강력한 비전 주문은 가장 강력한 비전 마법 사용자만이 다룰 수 있다. 하지만 내 견습생들도 이 지침을 따를 수 있으리라 믿는다"".",,,,,,0,0
+108131,,,Assanti,아산티,,,,,,0,0
+108132,,,"Assanti was once a demon worshipped by the kuo-toa, until the tribe that worshipped him was slaughtered and the demon was captured by a powerful drow wizard. The demon is said to reside in this weapon, which was made for the wizard's pet, a drider named Harahasha. When the wizard's clan was destroyed by a rival family, the weapon was lost in an earthquake that engulfed the wizard's home.","아산티는 한때 쿠오토아가 숭배하던 악마였는데, 그를 숭배하던 부족이 학살당하고 악마가 강력한 드로우 마법사에게 포획되었습니다. 악마는 마법사의 애완동물인 하라하샤라는 드라이더를 위해 만들어진 이 무기에 깃들어 있다고 합니다. 마법사의 가문이 경쟁 가문에 의해 파괴되었을 때, 무기는 마법사의 집을 삼킨 지진에서 분실되었습니다.",,,,,,0,0
+108134,,,"The fabric of this robe is woven from thin strips of a mysterious material that is capable of storing magical spells. A caster need only cast a defensive spell upon the robe. The robe will then store the spell so that it may be cast at a later time, instantly. This robe is capable of storing three spells.
+
+Among the ever treacherous drow, these garments are popular as gifts to allies and underlings, as they are magically bound with their creators in such a way that betrayal will result in the garment becoming cursed. ","이 로브의 직물은 마법 주문을 저장할 수 있는 신비한 물질의 얇은 띠로 짜여져 있습니다. 시전자는 로브에 방어 주문을 시전하기만 하면 됩니다. 그러면 로브가 주문을 저장하여 나중에 즉시 시전할 수 있습니다. 이 로브는 세 개의 주문을 저장할 수 있습니다.
+
+항상 배신이 난무하는 드로우들 사이에서 이 의복은 동맹과 부하에게 선물로 인기가 있는데, 제작자와 마법적으로 묶여 있어 배신하면 의복이 저주받기 때문입니다. ",,,,,,0,0

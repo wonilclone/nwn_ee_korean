@@ -1,0 +1,40 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19749,Dialog,AAMBTOWN,"Hello, you must be one of the new city guard. I wish you luck.",안녕하세요. 새로 온 시 경비대시군요. 행운을 빕니다.,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19750,Dialog,AAMBTOWN,The Wailing Death has claimed so many lives. Why do people like Meldanen have to make things worse?,울부짖는 죽음 역병으로 너무 많은 목숨이 사라졌습니다. 멜다넨 같은 자들은 왜 일을 더 악화시키는 걸까요?,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19751,Dialog,AAMBTOWN,Stay away from me! You look like the sort that might carry the plague. ,가까이 오지 마세요! 당신은 역병을 옮길 것처럼 보이는군요.,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19752,Dialog,AAMBTOWN,Degenerate! Show some modesty and dress yourself! This isn't Calimshan!,타락자 같으니! 좀 겸손을 보이고 옷을 입으시오! 여긴 칼림샨이 아니오!,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19753,Dialog,AAMBTOWN,Why are you naked? The plague must be affecting your mind! Get your filth out of the Blacklake!,왜 벌거벗고 있죠? 역병이 당신 정신까지 갉아먹은 건가? 그 더러운 몸뚱아리를 검은호수에서 치우시오!,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19754,Dialog,AAMBTOWN,A naked plague victim! How did you get past our barricades? Don't touch me.,벌거벗은 역병 환자라니! 어떻게 우리의 방벽을 뚫고 들어온 거죠? 다가오지 마!,M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19755,Dialog,AAMBTOWN,Such wounds! Did plague victims attack you? I had thought our barricades would keep them at bay.,이런 상처라니! 역병 환자들에게 습격당했나요? 방벽이 놈들을 막아줄 줄 알았는데...,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19756,Dialog,AAMBTOWN,You're bleeding! I bet that Meldanen had something to do with your trouble.,피를 흘리잖아요! 분명 멜다넨과 연관된 문제일 겁니다.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19757,Dialog,AAMBTOWN,You look absolutely wretched! Did you clash with Meldanen's guards?,형편없는 꼴이군요! 멜다넨의 경비들과 싸운 겁니까?,M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19758,Dialog,AAMBTOWN,Don't brandish your weapon at me. There's enough to fear in this place with the plague and Meldanen.,무기를 나에게 겨누지 마시오. 역병과 멜다넨만으로도 두려움이 충분하오.,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19759,Dialog,AAMBTOWN,"Keep your weapon down, lest Meldanen and his guards think you a threat.",무기를 내리시오. 멜다넨과 그의 경비들이 당신을 위협으로 볼 수도 있소.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19760,Dialog,AAMBTOWN,A proper member of society does not wander about with their weapon drawn.,사회의 올바른 구성원은 무기를 뽑은 채 배회하지 않소.,M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19761,Dialog,AAMBTOWN,You're a holy <man/woman>! Can you explain why the gods allow the privileged of Blacklake to be enslaved by fear of the plague? I thought not.,당신은 성스러운 분이군요! 그런데 왜 신들이 검은호수의 귀족들을 역병의 두려움에 굴복하게 두는지 설명할 수 있소? ...아무래도 안되겠지요.,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19762,Dialog,AAMBTOWN,"I regret that the Blacklake must shut out the plagues and weak, but what choice do we have? Your gods do nothing.","검은호수가 역병자와 약자를 차단해야 한다니 유감이지만, 선택지가 없지 않소? 당신 신들은 아무것도 하지 않소.",M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19763,Dialog,AAMBTOWN,The gods have left the Blacklake to fend for itself. Why else would someone like Meldanen be allowed to threaten people so?,신들은 검은호수를 내버려둔 거요. 아니면 어찌 멜다넨 같은 자가 사람들을 저렇게 위협하도록 내버려 두겠소?,M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19764,Dialog,AAMBTOWN,"Best keep your magics to yourself around here, <sir/madam>. Everyone is on edge because of Meldanen.","여기서는 마법을 아껴 두는 게 좋을 거요, 선생님. 멜다넨 때문에 모두 신경이 곤두서 있소.",M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19765,Dialog,AAMBTOWN,I think the plague is a result of the poor classes we allowed into the district. The barricades were long overdue.,나는 역병이 가난한 계층을 이 지구에 들여보낸 탓이라고 생각하오. 방벽은 진작 세워졌어야 했소.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19766,Dialog,AAMBTOWN,"You magical folk can't do anything about the plague either, can you?",당신 같은 마법사들도 이 역병은 막지 못하는 거 아니오?,M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19767,Dialog,AAMBTOWN,"Well, nice to see another of <race> descent in these parts. Keep low. The locals are quick to accuse outsiders of contributing to the plague.",이런 곳에서 같은 종족을 보니 반갑구려. 몸을 낮추시오. 현지인들은 외부인이 역병을 옮긴다고 쉽게 몰아세우오.,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19768,Dialog,AAMBTOWN,"It's nice to see not everyone <race> has been taken by the plague. Careful around Meldanen's place. He's was nasty enough before, but now... ",같은 종족 모두가 역병에 당한 건 아니구려. 멜다넨의 집 근처는 조심하시오. 예전에도 악독했지만 지금은...,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19769,Dialog,AAMBTOWN,"Be wary of the humans in this district, my friend. They are quick to judge. Be extra wary of that Meldanen fellow.","이 지구의 인간들을 조심하시오, 친구여. 그들은 성급히 판단하오. 특히 멜다넨이라는 자는 더욱 경계하시오.",M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19770,Dialog,AAMBTOWN,"Hello, miss. Forgive my forward manner, but you are the very model of feminine beauty.","아가씨, 안녕하세요. 무례했다면 미안하지만, 당신은 여성미의 전형이로군요.",M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19771,Dialog,AAMBTOWN,Always a pleasure to bump into a pretty lass like yourself.,이렇게 예쁜 아가씨를 마주치니 언제나 즐겁군요.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19772,Dialog,AAMBTOWN,"You certainly bring a different flavor to the district, my lady. A treat for the eyes in this dark time.","당신은 이 지구에 다른 빛깔을 가져왔군요, 아가씨. 이런 어두운 시기에 눈이 즐겁소.",M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19773,Dialog,AAMBTOWN,"My, my. Hello there, handsome.","오, 이런. 잘생긴 분이시군요.",M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19774,Dialog,AAMBTOWN,You've the right good manners of a gentleman. Not like that Meldanen cad.,참 신사다운 예법을 지녔군요. 멜다넨 같은 건달과는 다르게 말이오.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19775,Dialog,AAMBTOWN,"You're a handsome one. Just don't catch the plague, or your looks won't last long. ",잘생긴 분이군요. 다만 역병에 걸리진 마시오. 그렇지 않으면 그 외모도 오래 못 갈 테니.,M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19776,Dialog,AAMBTOWN,"A word of advice. If you get the Wailing Death, you won't last long in this district. We'll put you behind the barricades.",충고 하나 하지. 울부짖는 죽음 역병에 걸리면 이 지구에서 오래 못 버틸 거요. 방벽 뒤로 보내 버릴 테니까.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19777,Dialog,AAMBTOWN,"How do you do, my <lord/lady> guard? I trust everything is well at the barricades, and that no plagued sods will make it through?","어떻게 지내십니까, 모험가님 경비대? 방벽이 잘 유지되고 있길, 그리고 역병 환자들이 뚫고 들어오지 않길 바랍니다.",M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19778,Dialog,AAMBTOWN,You'll have to pardon me. The plague has taken my desire for conversation.,용서하시오. 역병 탓에 대화할 마음이 사라졌소.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19779,Dialog,AAMBTOWN,I hope a plague cure is found soon. The barricades can't keep everyone out.,곧 역병의 치료제가 발견되길 바랍니다. 방벽만으론 모두 막을 수 없소.,M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19780,Dialog,AAMBTOWN,Don't touch me! You're ugly enough to be one of the plague-stricken. Why didn't the barricades keep you out?,손대지 마시오! 당신 꼴은 역병 환자 같구려. 방벽이 왜 당신을 막지 못한 거요?,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19781,Dialog,AAMBTOWN,"Stand away from me. You could be one of Meldanen's thugs, or even a plague victim! ",물러나시오. 당신은 멜다넨의 건달이거나 역병 환자일지도 모르오!,M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19782,Dialog,AAMBTOWN,Hmph! Barbarians like you probably brought some strange mountain disease down upon us. Why were you allowed past our barricades?,흥! 당신 같은 야만인들이 이상한 산병을 우리에게 퍼뜨렸겠지. 방벽을 어떻게 통과한 거요?,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19783,Dialog,AAMBTOWN,A barbarian! I thought the barricades would have kept your kind out of our district. This is probably Meldanen's doing.,야만인이라니! 방벽이 당신 같은 무리들을 막아줄 줄 알았는데. 아마도 멜다넨 짓일 거요.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19784,Dialog,AAMBTOWN,"You don't belong among the nobles of Blacklake. What are you, another of Meldanen's thugs?","당신 같은 자는 검은호수의 귀족들 사이에 설 자리가 없소. 뭐요, 멜다넨의 건달이 또 하나 늘어난 건가?",M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0
+19785,Dialog,AAMBTOWN,"Well, wonderful. More <race> rabble. Plague carriers, I bet. We should hire more men for the barricades, or hire some away from Meldanen. What does he need so many for?",훌륭하군. 또 다른 <race> 천민들이군. 역병을 옮기는 놈들임에 틀림없어. 방벽을 지킬 사람을 더 고용하거나 멜다넨에게서 빼와야 하오. 멜다넨이 그렇게 많은 인력이 왜 필요하겠소?,M1Q3AAMBTOWN,nw_d1_ctr01,,,,0,0
+19786,Dialog,AAMBTOWN,I have better things to do than chat with any old <race> n'er-do-well that wanders by. You're probably up to dirty business with that Meldanen.,나는 이런 종족 건달과 수다 떠느라 시간 낭비할 여유가 없소. 아마 멜다넨과 더러운 거래를 하고 있겠지.,M1Q3AAMBTOWN,nw_d1_ctr02,,,,0,0
+19787,Dialog,AAMBTOWN,"For all we know, it was <race> trickery that started this whole plague business. We should put you behind the barricades as well.","우리가 알기로는, 이 역병 사건도 전부 종족의 속임수에서 시작됐을 거요. 그러니 당신도 방벽 뒤에 가둬야 하오.",M1Q3AAMBTOWN,nw_d1_ctr03,,,,0,0

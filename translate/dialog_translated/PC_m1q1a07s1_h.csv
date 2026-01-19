@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+18063,PC,Player Character,Goodbye for now.,그럼 이만.,m1q1a07s1_h,,[지능 보통],,,0,0
+18064,PC,Player Character,What is your job? Do you fight?,무슨 일을 하세요? 싸움에도 나서시나요?,m1q1a07s1_h,,[지능 보통],,,0,0
+18065,PC,Player Character,I will fight for my first medal.,첫 메달을 위해 싸우겠습니다.,m1q1a07s1_h,,m1s4cs019,,,0,0
+18066,PC,Player Character,I'm ready to try for the next medal round.,다음 회전 메달에 도전할 준비가 됐습니다.,m1q1a07s1_h,,m1s4cs017,,,0,0
+18067,PC,Player Character,Me fight for first medal!,나 첫 메달 위해 싸움!,m1q1a07s1_h,,m1s4cs020,,,0,0
+18068,PC,Player Character,What you do? You fight?,너 뭐 해? 싸움 하냐?,m1q1a07s1_h,,[지능 낮음],,,0,0
+18069,PC,Player Character,"Me leave for now, okay?","나 이만 간다, 응?",m1q1a07s1_h,,[지능 낮음],,,0,0
+18070,PC,Player Character [M1Q1A07],What are the rules?,규칙이 뭐야?,m1q1a07s1_h,m1q1a07s1_hslg01,[지능 보통],[M1Q1A07],,0,0
+18071,PC,Player Character [M1Q1A07],What rules is for fight?,싸움 규칙은 뭐야?,m1q1a07s1_h,m1q1a07s1_hslg01,[지능 낮음],[M1Q1A07],,0,0
+18072,PC,Player Character,Me ready to try for next medal up thing!,나 다음 메달 거 도전 준비 됐어!,m1q1a07s1_h,,m1s4cs018,,,0,0
+18073,PC,Player Character,Why is he unbeatable?,왜 그를 아무도 못 이기죠?,m1q1a07s1_h,,[지능 보통],,,0,0
+18074,PC,Player Character,Why he so tough?,왜 그놈 그렇게 쎄?,m1q1a07s1_h,,[지능 낮음],,,0,0
+18075,PC,Player Character,"You will keep the battle fair, won't you?",이번 싸움 공정하게 진행해 주실 거죠?,m1q1a07s1_h,,[지능 보통],,,0,0
+18076,PC,Player Character,"You keeps it fair though, right?","공정하게 할 거지, 맞지?",m1q1a07s1_h,,[지능 낮음],,,0,0
+18077,PC,Player Character,Bring him on!,들여보내요!,m1q1a07s1_h,m1s4enterarena04,,,,0,0
+18078,PC,Player Character,<StartCheck>[Persuade]</Start> It should be fair. You know that.,<StartCheck>[설득]</Start> 공정해야 합니다. 그건 알고 계시잖아요.,m1q1a07s1_h,,[지능 보통],,,0,0
+18079,PC,Player Character,<StartCheck>[Persuade]</Start> You should make it fair. That only right.,<StartCheck>[설득]</Start> 공정하게 해야 해. 그게 맞는 거야.,m1q1a07s1_h,,[지능 낮음],,,0,0
+18080,PC,Player Character,Do we let him give humans a bad name?,인간의 평판을 더럽히게 그냥 둘 겁니까?,m1q1a07s1_h,m1s4bkelislg01,m1s4bkeliclg01,,,0,0
+18081,PC,Player Character,We not let hims give humans shame.,우린 그놈이 인간 망신 시키게 안 둬.,m1q1a07s1_h,m1s4bkelislg01,m1s4bkeliclg02,,,0,0
+18082,PC,Player Character,I can pay you. 400 gold will get you away.,돈을 드리죠. 금화 400이면 자리를 비켜 주시겠습니까?,m1q1a07s1_h,m1s4bkelislg02,m1s4bkeliclg05,,,0,0
+18083,PC,Player Character,Me pay you 400 gold so you free to leave.,나 금화 400 줄게. 그럼 너 떠나도 돼.,m1q1a07s1_h,m1s4bkelislg02,m1s4bkeliclg06,,,0,0
+18084,PC,Player Character,You've already been paid to keep it fair.,공정하게 하라고 이미 대가를 받으셨잖아요.,m1q1a07s1_h,,m1s4bkeliclg07,,,0,0
+18085,PC,Player Character,You already paid to make fair fight.,공정하게 싸우라구 이미 돈 받았잖아.,m1q1a07s1_h,,m1s4bkeliclg08,,,0,0
+18086,PC,Player Character,He is still giving humans a bad name.,그는 여전히 인간의 평판을 더럽히고 있어요.,m1q1a07s1_h,,m1s4bkeliclg03,,,0,0
+18087,PC,Player Character,He still shame humans.,그놈 아직도 인간 망신이야.,m1q1a07s1_h,,m1s4bkeliclg04,,,0,0
+62652,PC,Player Character,"Me needs healing, okay?","나 치유 필요해, 알았지?",m1q1a07s1_h,,[지능 낮음],,,0,0
+62653,PC,Player Character,I ask that you heal me.,치유를 부탁드립니다.,m1q1a07s1_h,,[지능 보통],,,0,0

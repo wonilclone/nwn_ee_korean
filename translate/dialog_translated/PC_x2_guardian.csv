@@ -1,0 +1,143 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+107337,PC,Player Character,Leave the spell slots as they are.,주문 슬롯을 그대로 둡니다.,x2_guardian,,,,,0,0
+107338,PC,Player Character,Slot 3 (current stored spell: <StartAction><CUSTOM4203></Start>),슬롯 3 (현재 저장된 주문: <StartAction><CUSTOM4203></Start>),x2_guardian,x2_at_guard3,,,,0,0
+107339,PC,Player Character,Slot 2 (current stored spell: <StartAction><CUSTOM4202></Start>),슬롯 2 (현재 저장된 주문: <StartAction><CUSTOM4202></Start>),x2_guardian,x2_at_guard2,,,,0,0
+107340,PC,Player Character,Slot 1 (current stored spell: <StartAction><CUSTOM4201></Start>),슬롯 1 (현재 저장된 주문: <StartAction><CUSTOM4201></Start>),x2_guardian,x2_at_guard1,,,,0,0
+107341,PC,Player Character,Go back and select another spell slot.,돌아가서 다른 주문 슬롯을 선택합니다.,x2_guardian,,,,,0,0
+107342,PC,Player Character,Level 4,4레벨,x2_guardian,,,,,0,0
+107343,PC,Player Character,Wall of Fire,불의 장벽,x2_guardian,x2_at_guard414,x2_d2_s_wall_of_,,,0,0
+107344,PC,Player Character,Phantasmal Killer,몽환적인 살인자,x2_guardian,x2_at_guard413,x2_d2_s_phantasm,,,0,0
+107345,PC,Player Character,Minor Globe of Invulnerability,하급 무적의 구체,x2_guardian,x2_at_guard412,x2_d2_s_minor_gl,,,0,0
+107346,PC,Player Character,Lesser Spell Breach,하급 주문 돌파,x2_guardian,x2_at_guard411,x2_d2_s_lessersb,,,0,0
+107347,PC,Player Character,Isaac's Lesser Missile Storm,아이작의 하급 마법화살 폭풍,x2_guardian,x2_at_guard410,x2_d2_s_isaacs_l,,,0,0
+107348,PC,Player Character,Improved Invisibility,우수한 투명화,x2_guardian,x2_at_guard409,x2_d2_s_improved,,,0,0
+107349,PC,Player Character,Ice Storm,얼음 폭풍,x2_guardian,x2_at_guard408,x2_d2_s_ice_stor,,,0,0
+107350,PC,Player Character,Fear,공포,x2_guardian,x2_at_guard407,x2_d2_s_fear,,,0,0
+107351,PC,Player Character,Evard's Black Tentacles,에바드의 검은 촉수,x2_guardian,x2_at_guard406,x2_d2_s_evards_b,,,0,0
+107352,PC,Player Character,Enervation,쇠약,x2_guardian,x2_at_guard405,x2_d2_s_enervati,,,0,0
+107353,PC,Player Character,Elemental Shield,원소 방패,x2_guardian,x2_at_guard404,x2_d2_s_eleshiel,,,0,0
+107354,PC,Player Character,Contagion,역병,x2_guardian,x2_at_guard403,x2_d2_s_contagio,,,0,0
+107355,PC,Player Character,Confusion,혼란,x2_guardian,x2_at_guard402,x2_d2_s_confusio,,,0,0
+107356,PC,Player Character,Bestow Curse,저주 부여,x2_guardian,x2_at_guard401,x2_d2_s_bestow_c,,,0,0
+107357,PC,Player Character,Level 3,3레벨,x2_guardian,,,,,0,0
+107358,PC,Player Character,Vampiric Touch,흡혈귀의 손길,x2_guardian,x2_at_guard313,x2_d2_s_vampiric,,,0,0
+107359,PC,Player Character,Stinking Cloud,악취 구름,x2_guardian,x2_at_guard312,x2_d2_s_stinking,,,0,0
+107360,PC,Player Character,Slow,둔화,x2_guardian,x2_at_guard311,x2_d2_s_slow,,,0,0
+107361,PC,Player Character,Scintillating Sphere,반짝이는 구체,x2_guardian,x2_at_guard310,x2_d2_s_scintill,,,0,0
+107362,PC,Player Character,Protection From Elements,원소로부터 보호,x2_guardian,x2_at_guard309,x2_d2_s_protecti,,,0,0
+107363,PC,Player Character,Mestil's Acid Breath,메스틸의 산성 숨결,x2_guardian,x2_at_guard309,x2_d2_s_mestils_,,,0,0
+107364,PC,Player Character,Lightning Bolt,번개 화살,x2_guardian,x2_at_guard308,x2_d2_s_lightnin,,,0,0
+107365,PC,Player Character,Invisibility Sphere,투명화 구체,x2_guardian,x2_at_guard307,x0_d2_hasinvissp,,,0,0
+107366,PC,Player Character,Hold Person,사람 포박,x2_guardian,x2_at_guard307,x2_d2_s_hold_per,,,0,0
+107367,PC,Player Character,Haste,가속,x2_guardian,x2_at_guard306,x2_d2_s_haste,,,0,0
+107368,PC,Player Character,Gust of Wind,돌풍,x2_guardian,x2_at_guard305,x2_d2_s_gust_of_,,,0,0
+107369,PC,Player Character,Flame Arrow,불꽃 화살,x2_guardian,x2_at_guard304,x2_d2_s_flame_ar,,,0,0
+107370,PC,Player Character,Fireball,화염구,x2_guardian,x2_at_guard303,x2_d2_s_fireball,,,0,0
+107371,PC,Player Character,Displacement,변위,x2_guardian,x2_at_guard302,x2_d2_s_displace,,,0,0
+107372,PC,Player Character,Dispel Magic,주문해제,x2_guardian,x2_at_guard301,x2_d2_s_dispel_m,,,0,0
+107373,PC,Player Character,Level 2,2레벨,x2_guardian,,,,,0,0
+107374,PC,Player Character,Web,거미줄,x2_guardian,x2_at_guard217,x2_d2_s_web,,,0,0
+107375,PC,Player Character,Tasha's Hideous Laughter,타샤의 끔찍한 웃음,x2_guardian,x2_at_guard216,x2_d2_s_tashas_h,,,0,0
+107376,PC,Player Character,See Invisibility,투명체 보기,x2_guardian,x2_at_guard215,x2_d2_s_see_invi,,,0,0
+107377,PC,Player Character,Resist Elements,원소 저항,x2_guardian,x2_at_guard214,x2_d2_s_resist_e,,,0,0
+107378,PC,Player Character,Melf's Acid Arrow,멜프의 산성 화살,x2_guardian,x2_at_guard213,x2_d2_s_melfs_ac,,,0,0
+107379,PC,Player Character,Lesser Dispel,하급 주문해제,x2_guardian,x2_at_guard212,x2_d2_s_lesser_d,,,0,0
+107380,PC,Player Character,Invisibility,투명화,x2_guardian,x2_at_guard211,x0_d2_hasinvis,,,0,0
+107381,PC,Player Character,Ghoul Touch,구울의 손길,x2_guardian,x2_at_guard210,x2_d2_s_ghoul_to,,,0,0
+107382,PC,Player Character,Gedlee's Electric Loop,게들리의 전기 올가미,x2_guardian,x2_at_guard209,x2_d2_s_gedlees_,,,0,0
+107383,PC,Player Character,Endurance,지구력,x2_guardian,x2_at_guard208,x2_d2_s_enduranc,,,0,0
+107384,PC,Player Character,Death Armor,죽음의 갑옷,x2_guardian,x2_at_guard207,x2_d2_s_deat_arm,,,0,0
+107385,PC,Player Character,Darkness,암흑,x2_guardian,x2_at_guard206,x2_d2_s_darkness,,,0,0
+107386,PC,Player Character,Combust,연소,x2_guardian,x2_at_guard205,x2_d2_s_combust,,,0,0
+107387,PC,Player Character,Cat's Grace,고양이의 우아함,x2_guardian,x2_at_guard204,x2_d2_s_cats_gra,,,0,0
+107388,PC,Player Character,Bull's Strength,황소의 근력,x2_guardian,x2_at_guard203,x2_d2_s_bulls_st,,,0,0
+107389,PC,Player Character,Blindness/Deafness,실명/청각 상실,x2_guardian,x2_at_guard202,x2_d2_s_blindnes,,,0,0
+107390,PC,Player Character,Balagarn's Iron Horn,발러가른의 철 뿔피리,x2_guardian,x2_at_guard201,x2_d2_s_balagarn,,,0,0
+107391,PC,Player Character,Level 1,1레벨,x2_guardian,,,,,0,0
+107392,PC,Player Character,Go back and choose a different spell level.,돌아가서 다른 주문 레벨을 선택합니다.,x2_guardian,,,,,0,0
+107393,PC,Player Character,True Strike,완벽한 일격,x2_guardian,x2_at_guard115,x2_d2_s_true_str,,,0,0
+107394,PC,Player Character,Sleep,수면,x2_guardian,x2_at_guard114,x2_d2_s_sleep,,,0,0
+107395,PC,Player Character,Shield,방패,x2_guardian,x2_at_guard113,x2_d2_s_shield,,,0,0
+107396,PC,Player Character,Scare,공포 유발,x2_guardian,x2_at_guard112,x2_d2_s_scare,,,0,0
+107397,PC,Player Character,Ray of Enfeeblement,약화 광선,x2_guardian,x2_at_guard111,x2_d2_s_ray_of_e,,,0,0
+107398,PC,Player Character,Negative Energy Ray,부정적 에너지 광선,x2_guardian,x2_at_guard110,x2_d2_s_negative,,,0,0
+107399,PC,Player Character,Magic Missile,마법 화살,x2_guardian,x2_at_guard101,x2_d2_s_magic_mi,,,0,0
+107400,PC,Player Character,Mage Armor,마법사 갑옷,x2_guardian,x2_at_guard109,x2_d2_s_mage_arm,,,0,0
+107401,PC,Player Character,Ironguts,무쇠근성,x2_guardian,x2_at_guard108,x2_d2_s_ironguts,,,0,0
+107402,PC,Player Character,Ice Dagger,얼음 단검,x2_guardian,x2_at_guard107,x2_d2_s_ice_dagg,,,0,0
+107403,PC,Player Character,Horizikaul's Boom,호라이지칼의 쾅,x2_guardian,x2_at_guard106,x2_d2_s_horizika,,,0,0
+107404,PC,Player Character,Grease,기름,x2_guardian,x2_at_guard105,x2_d2_s_grease,,,0,0
+107405,PC,Player Character,Expeditious Retreat,신속한 후퇴,x2_guardian,x2_at_guard104,x2_d2_s_expediti,,,0,0
+107406,PC,Player Character,Color Spray,색채 분사,x2_guardian,x2_at_guard103,x2_d2_s_color_sp,,,0,0
+107407,PC,Player Character,Burning Hands,불타는 손,x2_guardian,x2_at_guard102,x2_d2_s_burning_,,,0,0
+109721,PC,Player Character,Leave the spell slots as they are.,주문 슬롯을 그대로 둡니다.,x2_guardian,,,,,0,0
+109722,PC,Player Character,Slot 3 (current stored spell: <StartAction><CUSTOM4203></Start>),슬롯 3 (현재 저장된 주문: <StartAction><CUSTOM4203></Start>),x2_guardian,x2_at_guard3,,,,0,0
+109723,PC,Player Character,Slot 2 (current stored spell: <StartAction><CUSTOM4202></Start>),슬롯 2 (현재 저장된 주문: <StartAction><CUSTOM4202></Start>),x2_guardian,x2_at_guard2,,,,0,0
+109724,PC,Player Character,Slot 1 (current stored spell: <StartAction><CUSTOM4201></Start>),슬롯 1 (현재 저장된 주문: <StartAction><CUSTOM4201></Start>),x2_guardian,x2_at_guard1,,,,0,0
+109725,PC,Player Character,Go back and select another spell slot.,돌아가서 다른 주문 슬롯을 선택합니다.,x2_guardian,,,,,0,0
+109726,PC,Player Character,Level 4,4레벨,x2_guardian,,,,,0,0
+109727,PC,Player Character,Wall of Fire,불의 장벽,x2_guardian,x2_at_guard414,x2_d2_s_wall_of_,,,0,0
+109728,PC,Player Character,Phantasmal Killer,몽환적인 살인자,x2_guardian,x2_at_guard413,x2_d2_s_phantasm,,,0,0
+109729,PC,Player Character,Minor Globe of Invulnerability,하급 무적의 구체,x2_guardian,x2_at_guard412,x2_d2_s_minor_gl,,,0,0
+109730,PC,Player Character,Lesser Spell Breach,하급 주문 돌파,x2_guardian,x2_at_guard411,x2_d2_s_lessersb,,,0,0
+109731,PC,Player Character,Isaac's Lesser Missile Storm,아이작의 하급 마법화살 폭풍,x2_guardian,x2_at_guard410,x2_d2_s_isaacs_l,,,0,0
+109732,PC,Player Character,Improved Invisibility,우수한 투명화,x2_guardian,x2_at_guard409,x2_d2_s_improved,,,0,0
+109733,PC,Player Character,Ice Storm,얼음 폭풍,x2_guardian,x2_at_guard408,x2_d2_s_ice_stor,,,0,0
+109734,PC,Player Character,Fear,공포,x2_guardian,x2_at_guard407,x2_d2_s_fear,,,0,0
+109735,PC,Player Character,Evard's Black Tentacles,에바드의 검은 촉수,x2_guardian,x2_at_guard406,x2_d2_s_evards_b,,,0,0
+109736,PC,Player Character,Enervation,쇠약,x2_guardian,x2_at_guard405,x2_d2_s_enervati,,,0,0
+109737,PC,Player Character,Elemental Shield,원소 방패,x2_guardian,x2_at_guard404,x2_d2_s_eleshiel,,,0,0
+109738,PC,Player Character,Contagion,역병,x2_guardian,x2_at_guard403,x2_d2_s_contagio,,,0,0
+109739,PC,Player Character,Confusion,혼란,x2_guardian,x2_at_guard402,x2_d2_s_confusio,,,0,0
+109740,PC,Player Character,Bestow Curse,저주 부여,x2_guardian,x2_at_guard401,x2_d2_s_bestow_c,,,0,0
+109741,PC,Player Character,Level 3,3레벨,x2_guardian,,,,,0,0
+109742,PC,Player Character,Vampiric Touch,흡혈귀의 손길,x2_guardian,x2_at_guard313,x2_d2_s_vampiric,,,0,0
+109743,PC,Player Character,Stinking Cloud,악취 구름,x2_guardian,x2_at_guard312,x2_d2_s_stinking,,,0,0
+109744,PC,Player Character,Slow,둔화,x2_guardian,x2_at_guard311,x2_d2_s_slow,,,0,0
+109745,PC,Player Character,Scintillating Sphere,반짝이는 구체,x2_guardian,x2_at_guard310,x2_d2_s_scintill,,,0,0
+109746,PC,Player Character,Protection From Elements,원소로부터 보호,x2_guardian,x2_at_guard309,x2_d2_s_protecti,,,0,0
+109747,PC,Player Character,Mestil's Acid Breath,메스틸의 산성 숨결,x2_guardian,x2_at_guard309,x2_d2_s_mestils_,,,0,0
+109748,PC,Player Character,Lightning Bolt,번개 화살,x2_guardian,x2_at_guard308,x2_d2_s_lightnin,,,0,0
+109749,PC,Player Character,Invisibility Sphere,투명화 구체,x2_guardian,x2_at_guard307,x0_d2_hasinvissp,,,0,0
+109750,PC,Player Character,Hold Person,사람 포박,x2_guardian,x2_at_guard307,x2_d2_s_hold_per,,,0,0
+109751,PC,Player Character,Haste,가속,x2_guardian,x2_at_guard306,x2_d2_s_haste,,,0,0
+109752,PC,Player Character,Gust of Wind,돌풍,x2_guardian,x2_at_guard305,x2_d2_s_gust_of_,,,0,0
+109753,PC,Player Character,Flame Arrow,불꽃 화살,x2_guardian,x2_at_guard304,x2_d2_s_flame_ar,,,0,0
+109754,PC,Player Character,Fireball,화염구,x2_guardian,x2_at_guard303,x2_d2_s_fireball,,,0,0
+109755,PC,Player Character,Displacement,변위,x2_guardian,x2_at_guard302,x2_d2_s_displace,,,0,0
+109756,PC,Player Character,Dispel Magic,주문해제,x2_guardian,x2_at_guard301,x2_d2_s_dispel_m,,,0,0
+109757,PC,Player Character,Level 2,2레벨,x2_guardian,,,,,0,0
+109758,PC,Player Character,Web,거미줄,x2_guardian,x2_at_guard217,x2_d2_s_web,,,0,0
+109759,PC,Player Character,Tasha's Hideous Laughter,타샤의 끔찍한 웃음,x2_guardian,x2_at_guard216,x2_d2_s_tashas_h,,,0,0
+109760,PC,Player Character,See Invisibility,투명체 보기,x2_guardian,x2_at_guard215,x2_d2_s_see_invi,,,0,0
+109761,PC,Player Character,Resist Elements,원소 저항,x2_guardian,x2_at_guard214,x2_d2_s_resist_e,,,0,0
+109762,PC,Player Character,Melf's Acid Arrow,멜프의 산성 화살,x2_guardian,x2_at_guard213,x2_d2_s_melfs_ac,,,0,0
+109763,PC,Player Character,Lesser Dispel,하급 주문해제,x2_guardian,x2_at_guard212,x2_d2_s_lesser_d,,,0,0
+109764,PC,Player Character,Invisibility,투명화,x2_guardian,x2_at_guard211,x0_d2_hasinvis,,,0,0
+109765,PC,Player Character,Ghoul Touch,구울의 손길,x2_guardian,x2_at_guard210,x2_d2_s_ghoul_to,,,0,0
+109766,PC,Player Character,Gedlee's Electric Loop,게들리의 전기 올가미,x2_guardian,x2_at_guard209,x2_d2_s_gedlees_,,,0,0
+109767,PC,Player Character,Endurance,지구력,x2_guardian,x2_at_guard208,x2_d2_s_enduranc,,,0,0
+109768,PC,Player Character,Death Armor,죽음의 갑옷,x2_guardian,x2_at_guard207,x2_d2_s_deat_arm,,,0,0
+109769,PC,Player Character,Darkness,암흑,x2_guardian,x2_at_guard206,x2_d2_s_darkness,,,0,0
+109770,PC,Player Character,Combust,연소,x2_guardian,x2_at_guard205,x2_d2_s_combust,,,0,0
+109771,PC,Player Character,Cat's Grace,고양이의 우아함,x2_guardian,x2_at_guard204,x2_d2_s_cats_gra,,,0,0
+109772,PC,Player Character,Bull's Strength,황소의 근력,x2_guardian,x2_at_guard203,x2_d2_s_bulls_st,,,0,0
+109773,PC,Player Character,Blindness/Deafness,실명/청각 상실,x2_guardian,x2_at_guard202,x2_d2_s_blindnes,,,0,0
+109774,PC,Player Character,Balagarn's Iron Horn,발러가른의 철 뿔피리,x2_guardian,x2_at_guard201,x2_d2_s_balagarn,,,0,0
+109775,PC,Player Character,Level 1,1레벨,x2_guardian,,,,,0,0
+109776,PC,Player Character,Go back and choose a different spell level.,돌아가서 다른 주문 레벨을 선택합니다.,x2_guardian,,,,,0,0
+109777,PC,Player Character,True Strike,완벽한 일격,x2_guardian,x2_at_guard115,x2_d2_s_true_str,,,0,0
+109778,PC,Player Character,Sleep,수면,x2_guardian,x2_at_guard114,x2_d2_s_sleep,,,0,0
+109779,PC,Player Character,Shield,방패,x2_guardian,x2_at_guard113,x2_d2_s_shield,,,0,0
+109780,PC,Player Character,Scare,공포 유발,x2_guardian,x2_at_guard112,x2_d2_s_scare,,,0,0
+109781,PC,Player Character,Ray of Enfeeblement,약화 광선,x2_guardian,x2_at_guard111,x2_d2_s_ray_of_e,,,0,0
+109782,PC,Player Character,Negative Energy Ray,부정적 에너지 광선,x2_guardian,x2_at_guard110,x2_d2_s_negative,,,0,0
+109783,PC,Player Character,Magic Missile,마법 화살,x2_guardian,x2_at_guard101,x2_d2_s_magic_mi,,,0,0
+109784,PC,Player Character,Mage Armor,마법사 갑옷,x2_guardian,x2_at_guard109,x2_d2_s_mage_arm,,,0,0
+109785,PC,Player Character,Ironguts,무쇠근성,x2_guardian,x2_at_guard108,x2_d2_s_ironguts,,,0,0
+109786,PC,Player Character,Ice Dagger,얼음 단검,x2_guardian,x2_at_guard107,x2_d2_s_ice_dagg,,,0,0
+109787,PC,Player Character,Horizikaul's Boom,호라이지칼의 쾅,x2_guardian,x2_at_guard106,x2_d2_s_horizika,,,0,0
+109788,PC,Player Character,Grease,기름,x2_guardian,x2_at_guard105,x2_d2_s_grease,,,0,0
+109789,PC,Player Character,Expeditious Retreat,신속한 후퇴,x2_guardian,x2_at_guard104,x2_d2_s_expediti,,,0,0
+109790,PC,Player Character,Color Spray,색채 분사,x2_guardian,x2_at_guard103,x2_d2_s_color_sp,,,0,0
+109791,PC,Player Character,Burning Hands,불타는 손,x2_guardian,x2_at_guard102,x2_d2_s_burning_,,,0,0

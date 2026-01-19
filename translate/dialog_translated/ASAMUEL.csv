@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+20850,Dialog,ASAMUEL,"What's this? Am I finally to be rescued, or are you another of the wizard's servants?","이게 뭐지? 드디어 구출되는 건가요, 아니면 당신도 그 마법사의 하수인인가요?",M1Q3ASAMUEL,,,,,0,0
+20851,Dialog,ASAMUEL,"You... you aren't another of the wizard's servants, are you? Is this another of his tricks?",당신... 당신도 그 마법사의 하수인은 아니겠죠? 이것도 놈의 속임수는 아니고?,M1Q3ASAMUEL,,,,,0,0
+20852,Dialog,ASAMUEL,"Don't... don't hurt me! Please! I haven't tried to escape the wizard's damned prison, I haven't!","제발... 다치게 하지 마! 부탁입니다! 전 그 빌어먹을 마법사의 감옥에서 도망치려 한 적 없어요, 정말이에요!",M1Q3ASAMUEL,,,,,0,0
+20853,Dialog,ASAMUEL,"I am. My name is Samuel... an inspector for the city guard, until that mad wizard took me prisoner.",맞아요. 제 이름은 사무엘... 그 미친 마법사가 날 잡아 가두기 전까지는 도시 경비대의 감찰관이었습니다.,M1Q3ASAMUEL,,,,,0,0
+20854,Dialog,ASAMUEL,"I am unarmed and no threat to you, I'm sure. My name is Samuel... an inspector from the city guard... and a prisoner of the wizard, unfortunately.",전 무장도 안 했고 당신에게 위협이 되지 않아요. 제 이름은 사무엘... 도시 경비대의 감찰관이고... 안타깝게도 지금은 그 마법사의 포로입니다.,M1Q3ASAMUEL,,,,,0,0
+20855,Dialog,ASAMUEL,That's a relief. My name is Samuel... an inspector for the city guard. I was beginning to think no one would ever free me.,다행이군요. 제 이름은 사무엘... 도시 경비대 감찰관입니다. 이젠 아무도 날 구하러 오지 않을 거라고 생각하기 시작했었죠.,M1Q3ASAMUEL,,,,,0,0
+20856,Dialog,ASAMUEL,You mean... I can just go? Just like that?,그 말은... 그냥 가도 된다는 건가요? 정말로?,M1Q3ASAMUEL,,,,,0,0
+20857,Dialog,ASAMUEL,"Of course. I'll tell you whatever I know, though it probably isn't much.","물론이죠. 아는 건 전부 말해 드리죠, 많지는 않겠지만.",M1Q3ASAMUEL,,,,,0,0
+20858,Dialog,ASAMUEL,"I've no reason to lie to you. I've no weapons... I'm completely at your mercy, in fact. If you would release me, I'm sure my captain would even reward you.",당신에게 거짓말할 이유가 없어요. 난 무기도 없고... 사실상 완전히 당신 손에 달렸으니까. 날 풀어 준다면 우리 대장도 분명 보상할 겁니다.,M1Q3ASAMUEL,,,,,0,0
+20859,Dialog,ASAMUEL,I've no money of my own... but my captain might reward you. Otherwise all I can offer you is some information about this place.,돈은 없지만... 우리 대장이 보상할지도 몰라요. 아니면 이곳에 대한 정보 정도가 전부에요.,M1Q3ASAMUEL,,,,,0,0
+20860,Dialog,ASAMUEL,"Yes... yes, I believe I could. I'd try to, at least.","그래... 그래요, 할 수 있을 것 같아요. 적어도 노력은 해볼게요.",M1Q3ASAMUEL,,,,,0,0
+20861,Dialog,ASAMUEL,Lying? About what? Oh... about being a prisoner.,거짓말? 뭘 두고? 아... 포로라는 걸?,M1Q3ASAMUEL,,,,,0,0
+20862,Dialog,ASAMUEL,"Ahhhh!! Help me, someone!",아아악!! 누구 없어요! 도와줘요!,M1Q3ASAMUEL,nw_d1_attonend,,,,0,0
+20863,Dialog,ASAMUEL,"Thank you, <sir/madam>. I'm sure I can find my way out of here. I only wish I could take revenge on that damnable wizard!","고맙습니다, 선생님. 여기서 나가는 길은 찾아낼 수 있을 거예요. 저 빌어먹을 마법사에게 복수만 할 수 있다면 좋을 텐데!",M1Q3ASAMUEL,m1q3a00samu05,,,,0,0
+20864,Dialog,ASAMUEL,"That's not necessary, <sir/madam>, though I appreciate the offer. I would only slow you down, I'm sure.","그럴 필요는 없습니다, 선생님. 마음만 받죠. 전 아마 발목만 잡을 거예요.",M1Q3ASAMUEL,,,,,0,0
+20865,Dialog,ASAMUEL,"*Sigh* I was just poking around the estate, actually, looking into some rumors I'd heard of Meldanen acting even more strangely than usual.",(한숨) 사실은 저택을 좀 살피고 있었어요. 멜다넨이 평소보다 더 수상쩍게 굴었다는 소문을 확인하러요.,M1Q3ASAMUEL,,,,,0,0
+20866,Dialog,ASAMUEL,"I don't remember much. The west wing, here, seems to be used mainly for Meldanen's experiments and storage. I think he lives below.","많이 기억나진 않아요. 이 서쪽 구역은 주로 멜다넨의 실험과 보관에 쓰이는 것 같았고, 녀석은 아래층에 사는 것 같더군요.",M1Q3ASAMUEL,,,,,0,0
+20867,Dialog,ASAMUEL,"I don't know. Meldanen wouldn't ordinarily do this... lots of other things, perhaps, but not take a guard hostage. I don't know what he's up to.",모르겠어요. 멜다넨이 평소라면 이러진 않을 텐데... 딴 짓은 해도 경비를 인질로 잡지는 않거든요. 무슨 꿍꿍인지 모르겠네요.,M1Q3ASAMUEL,,,,,0,0
+20868,Dialog,ASAMUEL,"I think the way to the lower floor is at the end of the hall, through a room on the right. That's where Meldanen went, at any rate.",아래층으로 가는 길은 복도 끝 오른쪽 방을 지나서인 것 같아요. 어쨌든 멜다넨이 그쪽으로 갔거든요.,M1Q3ASAMUEL,,,,,0,0
+20869,Dialog,ASAMUEL,"Once you leave this place, seek out Captain Thurin. I'm sure he will want to thank you for finding me. Fare you well!",여길 나가면 투린 대장을 찾아가 주세요. 절 찾아준 것에 대해 분명 고마워할 겁니다. 행운을 빕니다!,M1Q3ASAMUEL,m1q3a00samu05,,,,0,0
+20870,Dialog,ASAMUEL,"I didn't find anything, but it appears I was correct. Meldanen captured me and ranted on about how I was trying to steal something from him.","아무것도 못 찾았지만, 제 추측은 맞았던 모양이에요. 멜다넨이 절 붙잡아서는 제가 뭘 훔치려 했다고 떠들어댔죠.",M1Q3ASAMUEL,,,,,0,0
+20871,Dialog,ASAMUEL,I've no idea what he was talking about... but he seemed convinced that I was up to no good and wouldn't let me go.,무슨 소린지 모르겠지만... 전 뭔가 꾸미고 있다고 확신했는지 놓아주질 않더군요.,M1Q3ASAMUEL,,,,,0,0
+20872,Dialog,ASAMUEL,"He did? It's good to know he didn't abandon me... I was almost afraid that, well... nevermind. Thank you for coming to release me.","그랬나요? 절 버리지 않았다는 걸 알게 되어 다행이네요... 전 거의, 음... 됐습니다. 구하러 와 줘서 고마워요.",M1Q3ASAMUEL,,,,,0,0
+20873,Dialog,ASAMUEL,Help me! Get me out of here!,도와줘요! 여기서 꺼내 주세요!,M1Q3ASAMUEL,,,,,0,0
+62815,Dialog,ASAMUEL,"Very little. I have been imprisoned and Meldanen refused to explain much of anything. He lived somewhere below, but I heard some sort of commotion... is he still a threat?","아는 건 거의 없어요. 감금되어 있었고 멜다넨은 아무 것도 설명하지 않았거든요. 녀석은 아래 어딘가에 살았지만, 어떤 소란이 들렸어요... 아직 위험합니까?",M1Q3ASAMUEL,,,,,0,0
+62816,Dialog,ASAMUEL,"Of course, that may all be old news to you. I heard some sort of commotion? Is Meldanen still a threat?","물론, 당신에겐 다 지난 소식일지도 모르죠. 소란이 있었다고 들었는데, 멜다넨은 아직 위험한가요?",M1Q3ASAMUEL,,,,,0,0

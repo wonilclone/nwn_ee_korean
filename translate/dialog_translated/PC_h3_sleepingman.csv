@@ -1,0 +1,273 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+98327,PC,Player Character,"<StartCheck>[Lie]</Start> ""I have no idea. It was as if she came out of nowhere.""","<StartCheck>[거짓말]</Start> ""전혀 모르겠어. 갑자기 나타난 것 같았어.""",h3_sleepingman,,,,,0,0
+98328,PC,Player Character,"<StartCheck>[Lie]</Start> ""A she-devil, bent on my destruction.""","<StartCheck>[거짓말]</Start> ""여자 마귀야. 날 파괴하려는.""",h3_sleepingman,,,,,0,0
+98329,PC,Player Character,"<StartCheck>[Lie]</Start> ""A vengeful spirit, I'm afraid.""","<StartCheck>[거짓말]</Start> ""복수하는 영혼인 것 같아.""",h3_sleepingman,,,,,0,0
+98330,PC,Player Character,"""It was a woman of the Githzerai.""","""기스제라이 여성이었어.""",h3_sleepingman,,,,,0,0
+98331,PC,Player Character,"<StartCheck>[Lie]</Start> ""Just a jealous lover, nothing more.""","<StartCheck>[거짓말]</Start> ""그냥 질투하는 연인이야. 그 이상은 아니야.""",h3_sleepingman,,h3c_sman_male,,,0,0
+98332,PC,Player Character,"""That was the sensei. She runs the temple here.""","""저 분은 사부님이야. 여기 사원을 운영해.""",h3_sleepingman,,,,,0,0
+98333,PC,Player Character,"<StartCheck>[Lie]</Start> ""The Gates of Cania? No, they lie far to the south.""","<StartCheck>[거짓말]</Start> ""카니아의 문? 아니, 저 멀리 남쪽에 있어.""",h3_sleepingman,,,,,0,0
+98334,PC,Player Character,"""You are in the City of Lost Souls, at the foot of Cania's gates.""","""여긴 잃어버린 영혼들의 도시야, 카니아의 문 바로 앞이지.""",h3_sleepingman,,,,,0,0
+98335,PC,Player Character,"<StartCheck>[Lie]</Start> ""She worshipped Tyr, the god of goodly justice.""","<StartCheck>[거짓말]</Start> ""티르를 숭배했어, 선한 정의의 신이지.""",h3_sleepingman,,,,,0,0
+98336,PC,Player Character,"<StartCheck>[Lie]</Start> ""She worshipped the devil Mephistopheles.""","<StartCheck>[거짓말]</Start> ""마귀 메피스토펠레스를 숭배했어.""",h3_sleepingman,,,,,0,0
+98337,PC,Player Character,"""She worshipped some being called the Sleeping Man.""","""잠자는 자라고 불리는 존재를 숭배했어.""",h3_sleepingman,,,,,0,0
+98338,PC,Player Character,"""It was you she worshipped.""","""당신을 숭배한 거예요.""",h3_sleepingman,,,,,0,0
+98339,PC,Player Character,"""I'm not sure.""","""확실하지 않아.""",h3_sleepingman,,,,,0,0
+98340,PC,Player Character,"""I needed to get that woman's attention.""","""저 여자의 주의를 끌어야 했어.""",h3_sleepingman,,h3c_sman_senjump,,,0,0
+98341,PC,Player Character,"""I have run out of options and need your help.""","""선택의 여지가 없어서 당신의 도움이 필요해.""",h3_sleepingman,,,,,0,0
+98342,PC,Player Character,"""I needed to wake you.""","""당신을 깨워야 했어.""",h3_sleepingman,,,,,0,0
+98343,PC,Player Character,"""No, she isn't, but I have some requests to make of you.""","""아니, 그게 아니라 당신에게 부탁할 게 있어.""",h3_sleepingman,,,,,0,0
+98344,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
+98345,PC,Player Character,"""I must stop Mephistopheles.""","""메피스토펠레스를 막아야 해.""",h3_sleepingman,,,,,0,0
+98346,PC,Player Character,"""I wish to return home to the world of Toril.""","""토릴 세계의 고향으로 돌아가고 싶어.""",h3_sleepingman,,,,,0,0
+98347,PC,Player Character,"""Do you know the Reaper's True Name?""","""사신의 진명을 알아?""",h3_sleepingman,,h2c_reaper_name,,,0,0
+98348,PC,Player Character,"""Yes, she is...""","""그래, 그녀가...""",h3_sleepingman,,,,,0,0
+98349,PC,Player Character,"""Sorry, I have misspoken. I did not mean to cause alarm.""","""미안, 잘못 말했어. 놀라게 할 의도는 아니었어.""",h3_sleepingman,,,,,0,0
+98350,PC,Player Character,"""She is right here, the Lady Aribeth.""","""바로 여기 있어, 아리베스 경이.""",h3_sleepingman,,h3c_sman_aribeth,,,0,0
+98351,PC,Player Character,"""It is I. I am your true love.""","""나야. 내가 당신의 진정한 사랑이야.""",h3_sleepingman,,h3c_sman_female,,,0,0
+98352,PC,Player Character,"""She is there, that corpse upon the floor.""","""저기 있어, 바닥에 있는 저 시체.""",h3_sleepingman,,h3c_sman_senjump,,,0,0
+98353,PC,Player Character,"""What proof do you require to know your love?""","""당신의 사랑을 알기 위해 무슨 증거가 필요해?""",h3_sleepingman,,h3c_sman_proof,,,0,0
+98354,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+98355,PC,Player Character,"""How do I find this Knower of Names?""","""이 이름의 현자를 어떻게 찾아?""",h3_sleepingman,,,,,0,0
+98356,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+98357,PC,Player Character,"""Then tell me of this ring.""","""그럼 이 반지에 대해 말해 줘.""",h3_sleepingman,,,,,0,0
+98358,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+98359,PC,Player Character,"""All right, show me the ring.""","""좋아, 반지를 보여 줘.""",h3_sleepingman,,,,,0,0
+98360,PC,Player Character,"""How can it operate by virtue of hope?""","""어떻게 희망의 힘으로 작동해?""",h3_sleepingman,,,,,0,0
+98362,PC,Player Character,"""Modrons? Mechanus? What are you talking about?""","""모드론? 메카누스? 무슨 말이야?""",h3_sleepingman,,,,,0,0
+98363,PC,Player Character,"""What do you mean it's a puzzle ring?""","""수수께끼 반지라니 무슨 뜻이야?""",h3_sleepingman,,,,,0,0
+98364,PC,Player Character,"""Why will she only answer one question?""","""왜 단 한 가지 질문에만 답해?""",h3_sleepingman,,,,,0,0
+98365,PC,Player Character,"""Who's this Knower of Places?""","""공간의 현자는 누구야?""",h3_sleepingman,,,,,0,0
+98366,PC,Player Character,"""What's in it for me?""","""내게 무슨 이득이 있는데?""",h3_sleepingman,,,,,0,0
+98367,PC,Player Character,"""Yeah, well, it's not enough...""","""그래, 뭐, 충분하지 않아...""",h3_sleepingman,,,,,0,0
+98368,PC,Player Character,"""Not interested...""","""관심 없어...""",h3_sleepingman,,,,,0,0
+98369,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+98370,PC,Player Character,"""I must stop Mephistopheles.""","""메피스토펠레스를 막아야 해.""",h3_sleepingman,,,,,0,0
+98371,PC,Player Character,"""I wish to return home to the world of Toril.""","""토릴 세계의 고향으로 돌아가고 싶어.""",h3_sleepingman,,,,,0,0
+98372,PC,Player Character,"""Do you know the Reaper's True Name?""","""사신의 진명을 알아?""",h3_sleepingman,,h2c_reaper_name,,,0,0
+98373,PC,Player Character,"""What proof can she offer you?""","""그녀가 무슨 증거를 제시할 수 있어?""",h3_sleepingman,,h3c_sman_proof,,,0,0
+98374,PC,Player Character,"""Why is she banished?""","""왜 추방당했어?""",h3_sleepingman,,,,,0,0
+98375,PC,Player Character,"""What sort of creature has a name like that?""","""어떤 생명체가 그런 이름을 가져?""",h3_sleepingman,,,,,0,0
+98376,PC,Player Character,"""Why were you unable to complete your quest?""","""왜 탐구를 완수하지 못했어?""",h3_sleepingman,,,,,0,0
+98377,PC,Player Character,"""Your one true love?""","""당신의 유일한 진정한 사랑?""",h3_sleepingman,,,,,0,0
+98378,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h3_sleepingman,,,,,0,0
+98379,PC,Player Character,<StartAction>Wake the Sleeping Man.</Start>,<StartAction>잠자는 자를 깨웁니다.</Start>,h3_sleepingman,,,,,0,0
+98380,PC,Player Character,<StartAction>Cut him with a knife.</Start>,<StartAction>칼로 그를 벱니다.</Start>,h3_sleepingman,,,,,0,0
+98381,PC,Player Character,<StartAction>Shout in his ear.</Start>,<StartAction>그의 귀에 소리칩니다.</Start>,h3_sleepingman,,,,,0,0
+98382,PC,Player Character,<StartAction>Sound the Trumpet of Pandemonium.</Start>,<StartAction>복마전의 나팔을 붑니다.</Start>,h3_sleepingman,,h3c_sman_trumpet,,,0,0
+98383,PC,Player Character,<StartAction>Place the sensei's amulet about your neck.</Start>,<StartAction>사부의 호신부를 목에 겁니다.</Start>,h3_sleepingman,h3a_sman_equipam,h3c_sman_amulinv,,,0,0
+98384,PC,Player Character,<StartCheck>[Wisdom]</Start> <StartAction>Focus your thoughts upon the crystal amulet.</Start>,<StartCheck>[지혜]</Start> <StartAction>수정 호신부에 생각을 집중합니다.</Start>,h3_sleepingman,,h3c_sman_amulequ,,,0,0
+98385,PC,Player Character,<StartAction>Move forward through the mist.</Start>,<StartAction>안개를 뚫고 앞으로 나아갑니다.</Start>,h3_sleepingman,h3a_sman_dream1,,,,0,0
+98386,PC,Player Character,<StartAction>Focus on the woman in white.</Start>,<StartAction>하얀 옷을 입은 여성에게 집중합니다.</Start>,h3_sleepingman,h3a_sman_dream2,,,,0,0
+98387,PC,Player Character,<StartAction>Focus on the woman's tear.</Start>,<StartAction>여성의 눈물에 집중합니다.</Start>,h3_sleepingman,h3a_sman_dream3,,,,0,0
+98388,PC,Player Character,<StartAction>Open the door in the ice.</Start>,<StartAction>얼음 속 문을 엽니다.</Start>,h3_sleepingman,h3a_sman_dream4,,,,0,0
+98389,PC,Player Character,<StartAction>Focus on the question that he asks.</Start>,<StartAction>그가 묻는 질문에 집중합니다.</Start>,h3_sleepingman,h3a_sman_dream5,,,,0,0
+98390,PC,Player Character,<StartAction>Focus on the ring.</Start>,<StartAction>반지에 집중합니다.</Start>,h3_sleepingman,h3a_sman_dream6,,,,0,0
+98391,PC,Player Character,<StartAction>Push further into the Sleeping Man's dreams.</Start>,<StartAction>잠자는 자의 꿈 속으로 더 깊이 들어갑니다.</Start>,h3_sleepingman,,,,,0,0
+98392,PC,Player Character,<StartAction>Focus on the City of Lost Souls.</Start>,<StartAction>잃어버린 영혼들의 도시에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98393,PC,Player Character,<StartAction>Focus on the Knower's answer.</Start>,<StartAction>현자의 답에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98394,PC,Player Character,<StartAction>Focus on the Sleeping Man's many questions.</Start>,<StartAction>잠자는 자의 많은 질문들에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98395,PC,Player Character,<StartAction>Focus on the voice.</Start>,<StartAction>목소리에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98396,PC,Player Character,<StartAction>Focus on the room.</Start>,<StartAction>방에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98397,PC,Player Character,<StartAction>Focus on the purple haze.</Start>,<StartAction>보라색 안개에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98398,PC,Player Character,<StartAction>Focus on the Sleeping Man.</Start>,<StartAction>잠자는 자에게 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98399,PC,Player Character,<StartAction>Re-focus on the shattered tear.</Start>,<StartAction>부서진 눈물에 다시 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98400,PC,Player Character,<StartAction>Focus on the Reaper's True Name.</Start>,<StartAction>사신의 진명에 집중합니다.</Start>,h3_sleepingman,,h2c_reaper_name,,,0,0
+98401,PC,Player Character,<StartAction>Focus on the notion of banishment.</Start>,<StartAction>추방이라는 개념에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98402,PC,Player Character,<StartAction>Focus on the idea of a Knower of Names.</Start>,<StartAction>이름의 현자라는 개념에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98403,PC,Player Character,<StartAction>Focus on the rebel generals.</Start>,<StartAction>반란 장군들에게 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98404,PC,Player Character,<StartAction>Focus on Mephistopheles.</Start>,<StartAction>메피스토펠레스에게 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98405,PC,Player Character,<StartAction>Focus on the concept of the Baron.</Start>,<StartAction>남작이라는 개념에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98406,PC,Player Character,<StartAction>Focus on those crying out.</Start>,<StartAction>외치는 자들에게 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98407,PC,Player Character,<StartAction>Focus on the name Baron Molikroth.</Start>,<StartAction>모릭크로스 남작이라는 이름에 집중합니다.</Start>,h3_sleepingman,,,,,0,0
+98408,PC,Player Character,<StartAction>Try to determine the dream's context.</Start>,<StartAction>꿈의 맥락을 파악하려 합니다.</Start>,h3_sleepingman,,,,,0,0
+98409,PC,Player Character,<StartAction>Examine the Sleeping Man.</Start>,<StartAction>잠자는 자를 살펴봅니다.</Start>,h3_sleepingman,,,,,0,0
+98410,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h3_sleepingman,,,,,0,0
+98411,PC,Player Character,<StartAction>Cut him with a knife.</Start>,<StartAction>칼로 그를 벱니다.</Start>,h3_sleepingman,,,,,0,0
+98412,PC,Player Character,<StartAction>Shout in his ear.</Start>,<StartAction>그의 귀에 소리칩니다.</Start>,h3_sleepingman,,,,,0,0
+98413,PC,Player Character,<StartAction>Sound the Trumpet of Pandemonium.</Start>,<StartAction>복마전의 나팔을 붑니다.</Start>,h3_sleepingman,,h3c_sman_trumpet,,,0,0
+98414,PC,Player Character,<StartAction>Whisper the name of his one true love into his ear.</Start>,<StartAction>그의 유일한 진정한 사랑의 이름을 귀에 속삭입니다.</Start>,h3_sleepingman,,h3c_sman_love_1,,,0,0
+98415,PC,Player Character,<StartAction>Whisper his True Name into his ear.</Start>,<StartAction>그의 진명을 귀에 속삭입니다.</Start>,h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+98416,PC,Player Character,<StartAction>Back to your previous options.</Start>,<StartAction>이전 선택지로 돌아갑니다.</Start>,h3_sleepingman,,,,,0,0
+98417,PC,Player Character,"""Awaken.""","""깨어나.""",h3_sleepingman,h3a_sman_namewak,,,,0,0
+98418,PC,Player Character,<StartAction>Attack her.</Start>,<StartAction>그녀를 공격합니다.</Start>,h3_sleepingman,hx_slp_slpatk3,,,,0,0
+98419,PC,Player Character,"""Stay your fury, Sensei, and let me explain!""","""분노를 멈춰, 사부님, 설명할게!""",h3_sleepingman,,,,,0,0
+98420,PC,Player Character,"""Fa'arethia the Misguided!""","""잘못 인도된 파아레시아!""",h3_sleepingman,a_truename,hx_slp_sen_true,,,0,0
+98421,PC,Player Character,"""Attack me, you fool! What are you waiting for?""","""날 공격해, 바보야! 뭘 기다려?""",h3_sleepingman,hx_slp_slpatk3,c_evilact,,,0,0
+98422,PC,Player Character,"""If you wish to fight, fight your precious Sleeping Man!""","""싸우고 싶으면, 소중한 잠자는 자랑 싸워!""",h3_sleepingman,,c_evilact,,,0,0
+98423,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,hx_slp_slpatk,,,,0,0
+98424,PC,Player Character,<StartAction>Attack him.</Start>,<StartAction>그를 공격합니다.</Start>,h3_sleepingman,hx_slp_slpatk,,,,0,0
+98425,PC,Player Character,"""Fight her, Celesfa'ar the Patient! You have no choice!""","""그녀와 싸워, 인내하는 셀레스파르! 선택의 여지가 없어!""",h3_sleepingman,hx_slp_slpatk2,h3c_sman_named,,,0,0
+98426,PC,Player Character,"""Then suffer her blows in silence, fool!""","""그럼 침묵 속에 그녀의 타격을 받아, 바보야!""",h3_sleepingman,hx_slp_slpatk,,,,0,0
+98427,PC,Player Character,"""Stay and be quiet. It will all become clear.""","""가만히 있고 조용히 해. 모든 게 분명해질 거야.""",h3_sleepingman,,,,,0,0
+98441,PC,Player Character,"""Begone from here!""","""여기서 꺼져!""",h3_sleepingman,,,,,0,0
+98443,PC,Player Character,"""No one important.""","""중요한 사람은 아냐.""",h3_sleepingman,,,,,0,0
+98444,PC,Player Character,"""That was your one true love.""","""저게 당신의 유일한 진정한 사랑이었어.""",h3_sleepingman,,h3c_sman_trusens,,,0,0
+98445,PC,Player Character,"""Abandon the quest for your one true love...""","""당신의 유일한 진정한 사랑을 찾는 탐구를 포기해...""",h3_sleepingman,h3a_sman_nameaba,,,,0,0
+98446,PC,Player Character,"""I have learned the name of your one true love.""","""당신의 유일한 진정한 사랑의 이름을 알았어.""",h3_sleepingman,,h3c_sman_love_1,,,0,0
+98447,PC,Player Character,<StartAction>Back to your previous options.</Start>,<StartAction>이전 선택지로 돌아갑니다.</Start>,h3_sleepingman,,,,,0,0
+98448,PC,Player Character,"""It is Zyramethia the Young, the deva known as Lavoera.""","""젊은 지라메시아, 라보에라로 알려진 데바야.""",h3_sleepingman,,h3c_sman_trudeva,,,0,0
+98449,PC,Player Character,"""It is Phyreshi the Knower, the one known as the Knower of Names.""","""현자 피레시, 이름의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_truname,,,0,0
+98450,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Phyreshi the Knower, the one known as the Knower of Names.""","<StartAction>[거짓말]</Start> ""현자 피레시, 이름의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_liename,,,0,0
+98451,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+98452,PC,Player Character,"""It is Cordemylia the Knower, the one known as the Knower of Places.""","""현자 코르데밀리아, 공간의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_truplac,,,0,0
+98453,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Cordemylia the Knower, the one known as the Knower of Places.""","<StartAction>[거짓말]</Start> ""현자 코르데밀리아, 공간의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_lieplac,,,0,0
+98454,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+98455,PC,Player Character,"""It is Qeyifalia the Skyseeker, the drow known as Nathyrra.""","""하늘을 찾는 케이팔리아, 나시라로 알려진 드로우야.""",h3_sleepingman,,h3c_sman_trunath,,,0,0
+98456,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Qeyifalia the Skyseeker, the drow known as Nathyrra.""","<StartAction>[거짓말]</Start> ""하늘을 찾는 케이팔리아, 나시라로 알려진 드로우야.""",h3_sleepingman,,h3c_sman_lienath,,,0,0
+98457,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+98458,PC,Player Character,"""It is Fa'arethia the Misguided, the githzerai known as the Sensei Dharvana.""","""잘못 인도된 파아레시아, 다르바나 사부로 알려진 기스제라이야.""",h3_sleepingman,,h3c_sman_trusens,,,0,0
+98459,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Fa'arethia the Misguided, the githzerai known as the Sensei Dharvana.""","<StartAction>[거짓말]</Start> ""잘못 인도된 파아레시아, 다르바나 사부로 알려진 기스제라이야.""",h3_sleepingman,,h3c_sman_liesens,,,0,0
+98460,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+98461,PC,Player Character,"""It is Va'ardalia the Twinsouled, the spirit known as Lady Aribeth.""","""두영혼의 바아르달리아, 아리베스 경으로 알려진 영혼이야.""",h3_sleepingman,,h3c_sman_truari,,,0,0
+98462,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Va'ardalia the Twinsouled, the spirit known as Lady Aribeth.""","<StartAction>[거짓말]</Start> ""두영혼의 바아르달리아, 아리베스 경으로 알려진 영혼이야.""",h3_sleepingman,,h3c_sman_lieari,,,0,0
+98463,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+98464,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔인한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
+98465,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔인한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
+98466,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추구자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
+98467,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추구자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
+98468,PC,Player Character,"""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcne,,,0,0
+98469,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcne,,,0,0
+98470,PC,Player Character,"""It is I, Neuthroxus the Fair, the one known as <FullName>.""","""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcnn,,,0,0
+98471,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Neuthroxus the Fair, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcnn,,,0,0
+98472,PC,Player Character,"""It is I, Ebela'ar the Kind, the one known as <FullName>.""","""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcng,,,0,0
+98473,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ebela'ar the Kind, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcng,,,0,0
+98474,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어두운 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
+98475,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어두운 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
+98476,PC,Player Character,"""It is I, Lysisius the Firm, the one known as <FullName>.""","""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcln,,,0,0
+98477,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Lysisius the Firm, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcln,,,0,0
+98478,PC,Player Character,"""It is I, Donita'ar the Blessed, the one known as <FullName>.""","""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupclg,,,0,0
+98479,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Donita'ar the Blessed, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepclg,,,0,0
+98480,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
+98481,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
+98482,PC,Player Character,<StartAction>Slap him.</Start>,<StartAction>그를 때립니다.</Start>,h3_sleepingman,h3a_sman_nolove,,,,0,0
+98483,PC,Player Character,"""I'm sorry, let's start over.""","""미안해, 다시 시작하자.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98484,PC,Player Character,"""It was nothing. I am simply on edge, that is all.""","""아무것도 아냐. 그냥 긴장했을 뿐이야.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98485,PC,Player Character,"""Your very existence displeases me.""","""네 존재 자체가 불쾌해.""",h3_sleepingman,,,,,0,0
+98486,PC,Player Character,"""You presume too much, planetar.""","""지나친 추정이야, 플레네타.""",h3_sleepingman,,,,,0,0
+98487,PC,Player Character,<StartAction>Break away.</Start>,<StartAction>떨어집니다.</Start>,h3_sleepingman,,,,,0,0
+98488,PC,Player Character,"""You smell bad.""","""냄새가 나.""",h3_sleepingman,h3a_sman_nolove,,,,0,0
+98489,PC,Player Character,"""I was teasing. If you love me, you'll need to learn how to laugh.""","""장난이었어. 날 사랑한다면, 웃는 법을 배워야 할 거야.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98490,PC,Player Character,"""Good. Bathe yourself at once and then we can talk.""","""좋아. 당장 씻어, 그럼 얘기할 수 있어.""",h3_sleepingman,,,,,0,0
+98491,PC,Player Character,"""I'm counting... One... Two...""","""세고 있어... 하나... 둘...""",h3_sleepingman,,,,,0,0
+98492,PC,Player Character,"""You won't... You'd best say your goodbyes now.""","""못 할 거야... 지금 작별 인사를 하는 게 좋을 거야.""",h3_sleepingman,,,,,0,0
+98493,PC,Player Character,"""I will meet you in paradise, where you belong.""","""낙원에서 만날게, 당신이 속한 곳에서.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98494,PC,Player Character,"""I'll be in the city of Waterdeep in my homeworld of Toril.""","""내 고향 세계 토릴의 워터딥 시에 있을 거야.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98495,PC,Player Character,"""I'll wait for you right here, by the Gates of Cania.""","""여기 카니아의 문 옆에서 기다릴게.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98496,PC,Player Character,"""I'm not interested in your excuses. This relationship is over!""","""변명엔 관심 없어. 이 관계는 끝났어!""",h3_sleepingman,,,,,0,0
+98497,PC,Player Character,"""I have to go.""","""가야 해.""",h3_sleepingman,,,,,0,0
+98498,PC,Player Character,"""I'm sorry but that's none of your business.""","""미안하지만 당신 일이 아냐.""",h3_sleepingman,,,,,0,0
+98499,PC,Player Character,"""I'm not coming back... You'd best say your goodbyes now.""","""다시 안 올 거야... 지금 작별 인사를 하는 게 좋을 거야.""",h3_sleepingman,h3a_sman_nolove,,,,0,0
+98500,PC,Player Character,"""I will see you in paradise, where you belong.""","""낙원에서 볼 거야, 당신이 속한 곳에서.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98501,PC,Player Character,"""Come find me in the city of Waterdeep in my homeworld of Toril.""","""내 고향 세계 토릴의 워터딥 시로 날 찾아와.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98502,PC,Player Character,"""I will return to you here, by the Gates of Cania.""","""여기 카니아의 문 옆으로 당신에게 돌아올게.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98503,PC,Player Character,"""I'm just not ready for this, all right?""","""이럴 준비가 안 됐어, 알겠어?""",h3_sleepingman,h3a_sman_nolove,,,,0,0
+98504,PC,Player Character,"""Evil is afoot in my home world of Toril.""","""내 고향 세계 토릴에 악이 도사리고 있어.""",h3_sleepingman,,,,,0,0
+98505,PC,Player Character,"""No, you'd just be in the way.""","""아니, 방해만 될 거야.""",h3_sleepingman,,,,,0,0
+98506,PC,Player Character,"""No, it is something I must do alone.""","""아니, 혼자 해야 할 일이야.""",h3_sleepingman,,,,,0,0
+98507,PC,Player Character,"""You won't... You'd best say your goodbyes now.""","""못 할 거야... 지금 작별 인사를 하는 게 좋을 거야.""",h3_sleepingman,h3a_sman_nolove,,,,0,0
+98508,PC,Player Character,"""Let us meet in paradise, where you belong.""","""낙원에서 만나자, 당신이 속한 곳에서.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98509,PC,Player Character,"""In the city of Waterdeep.""","""워터딥 시에서.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98510,PC,Player Character,"""I will return to you here, by the Gates of Cania.""","""여기 카니아의 문 옆으로 당신에게 돌아올게.""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98511,PC,Player Character,"""You would help me?""","""날 도와줄 거야?""",h3_sleepingman,h3a_sman_kiss,,,,0,0
+98512,PC,Player Character,<StartAction>Kiss him back.</Start>,<StartAction>그에게 키스합니다.</Start>,h3_sleepingman,h3a_sman_kiss,,,,0,0
+109425,PC,Player Character,"""I don't know. Look for yourself.""","""모르겠어. 직접 봐.""",h3_sleepingman,,,,,0,0
+109426,PC,Player Character,"""I already have the ring of which you speak.""","""네가 말하는 반지는 이미 가지고 있어.""",h3_sleepingman,,h3c_sman_ring,,,0,0
+109427,PC,Player Character,"""I already have the ring of which you speak.""","""네가 말하는 반지는 이미 가지고 있어.""",h3_sleepingman,,h3c_sman_ring,,,0,0
+109428,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
+109429,PC,Player Character,"""I am here to kill you.""","""널 죽이러 왔어.""",h3_sleepingman,hx_slp_flag_atk,,,,0,0
+109430,PC,Player Character,"""I am here to thank you.""","""고마워하러 왔어.""",h3_sleepingman,,,,,0,0
+109431,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+109432,PC,Player Character,"""You've been an unwitting participant in my plans for domination!""","""지배 계획에 무심코 참여한 거야!""",h3_sleepingman,,,,,0,0
+109433,PC,Player Character,"""You helped me find the Reaper's True Name.""","""사신의 진명을 찾는 걸 도와줬어.""",h3_sleepingman,,,,,0,0
+109434,PC,Player Character,"""You have taught me something about myself.""","""나 자신에 대해 뭔가를 가르쳐줬어.""",h3_sleepingman,,,,,0,0
+109435,PC,Player Character,"""You have formed the basis of a whole religion.""","""종교 전체의 기반을 형성했어.""",h3_sleepingman,,,,,0,0
+109436,PC,Player Character,"""You have been a force of good in the Hells' own depths.""","""지옥의 깊은 곳에서 선의 힘이었어.""",h3_sleepingman,,,,,0,0
+109437,PC,Player Character,"""I have learned the name of your one true love.""","""당신의 유일한 진정한 사랑의 이름을 알았어.""",h3_sleepingman,,h3c_sman_love_1,,,0,0
+109438,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
+109439,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+109440,PC,Player Character,"""It is Zyramethia the Young, the deva known as Lavoera.""","""젊은 지라메시아, 라보에라로 알려진 데바야.""",h3_sleepingman,,h3c_sman_trudeva,,,0,0
+109441,PC,Player Character,"""It is Phyreshi the Knower, the one known as the Knower of Names.""","""현자 피레시, 이름의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_truname,,,0,0
+109442,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Phyreshi the Knower, the one known as the Knower of Names.""","<StartAction>[거짓말]</Start> ""현자 피레시, 이름의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_liename,,,0,0
+109443,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
+109444,PC,Player Character,"""Celesfa'ar the Patient...""","""인내하는 셀레스파르...""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+109445,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+109446,PC,Player Character,"""Yes, she was his lover.""","""그래, 그의 연인이었어.""",h3_sleepingman,,,,,0,0
+109447,PC,Player Character,"""Then you had best go free her.""","""그럼 가서 그녀를 풀어줘.""",h3_sleepingman,,,,,0,0
+109448,PC,Player Character,"""She promised to make the journey here but has yet to arrive.""","""여기로 오겠다고 약속했지만 아직 도착하지 않았어.""",h3_sleepingman,,hx_slp_command,,,0,0
+109449,PC,Player Character,"""I have freed her. If she loves you, she will find you here.""","""그녀를 풀어줬어. 당신을 사랑한다면, 여기서 찾을 거야.""",h3_sleepingman,,,,,0,0
+109450,PC,Player Character,"""It is Cordemylia the Knower, the one known as the Knower of Places.""","""현자 코르데밀리아, 공간의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_truplac,,,0,0
+109451,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Cordemylia the Knower, the one known as the Knower of Places.""","<StartAction>[거짓말]</Start> ""현자 코르데밀리아, 공간의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_lieplac,,,0,0
+109452,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
+109453,PC,Player Character,"""Celesfa'ar the Patient...""","""인내하는 셀레스파르...""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+109454,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+109455,PC,Player Character,"""Go to her. She will be happy to know the truth.""","""그녀에게 가. 진실을 알면 기뻐할 거야.""",h3_sleepingman,,,,,0,0
+109456,PC,Player Character,"""I don't know. She's fled her hiding place.""","""모르겠어. 은신처를 떠났어.""",h3_sleepingman,,hx_slp_plcchk,,,0,0
+109457,PC,Player Character,"""I believe she has gone mad for want of you.""","""당신을 그리워하며 미쳐버린 것 같아.""",h3_sleepingman,,,,,0,0
+109458,PC,Player Character,"""She pines for you greatly.""","""당신을 몹시 그리워해.""",h3_sleepingman,,,,,0,0
+109459,PC,Player Character,"""It is Qeyifalia the Skyseeker, the drow known as Nathyrra.""","""하늘탐구자 퀴팔리아, 나시라로 알려진 드로우야.""",h3_sleepingman,,h3c_sman_trunath,,,0,0
+109460,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Qeyifalia the Skyseeker, the drow known as Nathyrra.""","<StartAction>[거짓말]</Start> ""하늘탐구자 퀴팔리아, 나시라로 알려진 드로우야.""",h3_sleepingman,,h3c_sman_lienath,,,0,0
+109461,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
+109462,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
+109463,PC,Player Character,"""Celesfa'ar the Patient...""","""인내하는 셀레스파르...""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+109464,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+109465,PC,Player Character,"""Enough to know that you will be happy together.""","""함께 행복할 거라는 걸 알면 충분해.""",h3_sleepingman,,,,,0,0
+109466,PC,Player Character,"""She is dead.""","""죽었어.""",h3_sleepingman,,hx_slp_natdead,,,0,0
+109467,PC,Player Character,"""I have brought her to you. She is right here.""","""그녀를 데려왔어. 바로 여기 있어.""",h3_sleepingman,,hx_slp_natroom_y,,,0,0
+109468,PC,Player Character,"""She is a good soul, though haunted by her past.""","""과거에 시달리지만 선한 영혼이야.""",h3_sleepingman,,,,,0,0
+109469,PC,Player Character,"""The drow have a long, evil history in my homeworld...""","""내 고향 세계에서 드로우는 길고 사악한 역사를 가지고 있어...""",h3_sleepingman,,,,,0,0
+109470,PC,Player Character,"""It is Fa'arethia the Misguided, the githzerai known as the Sensei Dharvana.""","""잘못 인도된 파아레시아, 다르바나 사부로 알려진 기스제라이야.""",h3_sleepingman,,h3c_sman_trusens,,,0,0
+109471,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Fa'arethia the Misguided, the githzerai known as the Sensei Dharvana.""","<StartAction>[거짓말]</Start> ""잘못 인도된 파아레시아, 다르바나 사부로 알려진 기스제라이야.""",h3_sleepingman,,h3c_sman_liesens,,,0,0
+109472,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
+109473,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
+109474,PC,Player Character,"""Celesfa'ar the Patient...""","""인내하는 셀레스파르...""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+109475,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+109476,PC,Player Character,"""Enough to know that you will be happy together.""","""함께 행복할 거라는 걸 알면 충분해.""",h3_sleepingman,,,,,0,0
+109477,PC,Player Character,"""She was here for some time but has left.""","""한동안 여기 있었지만 떠났어.""",h3_sleepingman,,hx_slp_sendead2,,,0,0
+109478,PC,Player Character,"""I have brought her to you. She is right here.""","""그녀를 데려왔어. 바로 여기 있어.""",h3_sleepingman,,hx_slp_ariroo_y2,,,0,0
+109479,PC,Player Character,"""I saw her corpse in the other room.""","""다른 방에서 그녀의 시체를 봤어.""",h3_sleepingman,,h3c_sman_nojump,,,0,0
+109480,PC,Player Character,"""That is her corpse over there.""","""저기 저게 그녀의 시체야.""",h3_sleepingman,,h3c_sman_senjump,,,0,0
+109481,PC,Player Character,"""She built this temple that stands around you.""","""당신 주변에 서 있는 이 사원을 지었어.""",h3_sleepingman,,,,,0,0
+109482,PC,Player Character,"""It is Va'ardalia the Twinsouled, the spirit known as Lady Aribeth.""","""두영혼의 바아달리아, 아리베스 경으로 알려진 영혼이야.""",h3_sleepingman,,h3c_sman_truari,,,0,0
+109483,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Va'ardalia the Twinsouled, the spirit known as Lady Aribeth.""","<StartAction>[거짓말]</Start> ""두영혼의 바아달리아, 아리베스 경으로 알려진 영혼이야.""",h3_sleepingman,,h3c_sman_lieari,,,0,0
+109484,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
+109485,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
+109486,PC,Player Character,"""Celesfa'ar the Patient...""","""인내하는 셀레스파르...""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+109487,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+109488,PC,Player Character,"""Enough to know that you will be happy together.""","""함께 행복할 거라는 걸 알면 충분해.""",h3_sleepingman,,,,,0,0
+109489,PC,Player Character,"""She is dead.""","""죽었어.""",h3_sleepingman,,hx_slp_aridead,,,0,0
+109490,PC,Player Character,"""I have brought her to you. She is right here.""","""그녀를 데려왔어. 바로 여기 있어.""",h3_sleepingman,,hx_slp_ariroom_y,,,0,0
+109491,PC,Player Character,"""She has become one of the Lost, frozen into Cania's ice.""","""카니아의 얼음에 얼어붙어 잃어버린 자들 중 하나가 되었어.""",h3_sleepingman,,hx_slp_arifrozen,,,0,0
+109492,PC,Player Character,"""In life, it is said she brought great evil upon my homeworld.""","""살아생전에 내 고향 세계에 큰 악을 가져왔다고 해.""",h3_sleepingman,,,,,0,0
+109493,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔인한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
+109494,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔인한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
+109495,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추구자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
+109496,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추구자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
+109497,PC,Player Character,"""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcne,,,0,0
+109498,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcne,,,0,0
+109499,PC,Player Character,"""It is I, Neuthroxus the Fair, the one known as <FullName>.""","""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcnn,,,0,0
+109500,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Neuthroxus the Fair, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcnn,,,0,0
+109501,PC,Player Character,"""It is I, Ebela'ar the Kind, the one known as <FullName>.""","""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcng,,,0,0
+109502,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ebela'ar the Kind, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcng,,,0,0
+109503,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어두운 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
+109504,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어두운 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
+109505,PC,Player Character,"""It is I, Lysisius the Firm, the one known as <FullName>.""","""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcln,,,0,0
+109506,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Lysisius the Firm, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcln,,,0,0
+109507,PC,Player Character,"""It is I, Donita'ar the Blessed, the one known as <FullName>.""","""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupclg,,,0,0
+109508,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Donita'ar the Blessed, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepclg,,,0,0
+109509,PC,Player Character,<StartAction>Attack!</Start>,<StartAction>공격합니다!</Start>,h3_sleepingman,hx_temp_sleepatk,h3c_sman_named,,,0,0
+109510,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
+109511,PC,Player Character,"""Celesfa'ar the Patient...""","""인내하는 셀레스파르...""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
+109512,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
+109513,PC,Player Character,"""Fight me.""","""날 상대해.""",h3_sleepingman,hx_slp_flag_atk,c_evilact,,,0,0
+109514,PC,Player Character,"""Leave this place and never return.""","""이곳을 떠나 다시는 돌아오지 마.""",h3_sleepingman,h3a_sman_namelea,,,,0,0
+109515,PC,Player Character,"""Abandon the quest for your one true love...""","""당신의 유일한 진정한 사랑을 찾는 탐구를 포기해...""",h3_sleepingman,h3a_sman_nameaba,,,,0,0
+109516,PC,Player Character,"<StartCheck>[Lie]</Start> ""I have no idea. It was as if she came out of nowhere.""","<StartCheck>[거짓말]</Start> ""전혀 모르겠어. 갑자기 나타난 것 같았어.""",h3_sleepingman,,,,,0,0
+109517,PC,Player Character,"<StartCheck>[Lie]</Start> ""A she-devil, bent on my destruction.""","<StartCheck>[거짓말]</Start> ""여자 마귀야. 날 파괴하려는.""",h3_sleepingman,,,,,0,0
+109518,PC,Player Character,"<StartCheck>[Lie]</Start> ""A vengeful spirit, I'm afraid.""","<StartCheck>[거짓말]</Start> ""복수하는 영혼인 것 같아.""",h3_sleepingman,,,,,0,0
+109519,PC,Player Character,"<StartCheck>[Lie]</Start> ""Just a jealous lover, nothing more.""","<StartCheck>[거짓말]</Start> ""그냥 질투하는 연인이야. 그 이상은 아니야.""",h3_sleepingman,,,,,0,0
+109520,PC,Player Character,"""It was a woman of the Githzerai.""","""기스제라이 여성이었어.""",h3_sleepingman,,,,,0,0
+109521,PC,Player Character,"""That was the sensei. She runs the temple here.""","""저 분은 사부님이야. 여기 사원을 운영해.""",h3_sleepingman,,,,,0,0
+109522,PC,Player Character,"""It is I, Murdus the Wild, the one known as <FullName>.""","""나야, 야생의 머두스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccn,,,0,0
+109523,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Murdus the Wild, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 야생의 머두스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccn,,,0,0
+110443,PC,Player Character,"""Did I say yes? I meant no.""","""그렇다고 했어? 아니라는 뜻이었어.""",h3_sleepingman,,,,,0,0
+110444,PC,Player Character,"""I saw her corpse in the other room.""","""다른 방에서 그녀의 시체를 봤어.""",h3_sleepingman,,h3c_sman_nojump,,,0,0

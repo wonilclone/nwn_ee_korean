@@ -1,0 +1,34 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+87402,PC,Player Character,"""What are you doing here?""","""여기서 뭐 하는 거야?""",hx_smith_conv,x2_smithgoldx,,,,0,0
+87403,PC,Player Character,"""I want to upgrade a weapon.""","""무기 업그레이드를 하고 싶어.""",hx_smith_conv,,x2_smithforgez,,,0,0
+87404,PC,Player Character,"""Goodbye.""","""안녕.""",hx_smith_conv,,,,,0,0
+87405,PC,Player Character,"""What kind of things do you sell here?""","""여기서 어떤 물건들을 파는지?""",hx_smith_conv,,x2_smithgold,,,0,0
+87406,PC,Player Character,"""Let me see your inventory.""","""인벤토리를 보여줘.""",hx_smith_conv,x2_am_store,,,,0,0
+87407,PC,Player Character,"""I'm trying to save you all! Can't you give me a deal?""","""난 너희 모두를 구하려고 하는데! 좀 깎아줄 수 없어?""",hx_smith_conv,,,,,0,0
+87408,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",hx_smith_conv,,,,,0,0
+87409,PC,Player Character,"""How do I get a weapon upgraded?""","""무기 업그레이드는 어떻게 하는 거야?""",hx_smith_conv,,,,,0,0
+87410,PC,Player Character,"""Do you know anything about the Valsharess?""","""발샤레스에 대해 아는 거 있어?""",hx_smith_conv,,,,,0,0
+87411,PC,Player Character,"""What can you tell me about this camp?""","""이 진영에 대해 뭘 알려줄 수 있어?""",hx_smith_conv,,,,,0,0
+87412,PC,Player Character,"""I want to ask you something else.""","""다른 걸 물어보고 싶어.""",hx_smith_conv,,,,,0,0
+87413,PC,Player Character,"""So you're a follower of Eilistraee?""","""그럼 넌 에일리스트레이의 신도야?""",hx_smith_conv,,,,,0,0
+87414,PC,Player Character,"""Tell me more about yourself.""","""네 자신에 대해 더 얘기해 줘.""",hx_smith_conv,,,,,0,0
+87415,PC,Player Character,"""You can upgrade weapons?""","""무기 업그레이드를 할 수 있어?""",hx_smith_conv,,x2_smithforge,,,0,0
+87416,PC,Player Character,"""How does this work?""","""어떻게 작동하는 거야?""",hx_smith_conv,,,,,0,0
+87417,PC,Player Character,"""I want to upgrade my <CUSTOM9809>.""","""내 <CUSTOM9809>을 업그레이드하고 싶어.""",hx_smith_conv,x2_act_ws_setup,x2_con_ws_israng,,,0,0
+87418,PC,Player Character,<StartAction>[Add Unlimited Ammunition +5.  Costs <CUSTOM9614> gp]</Start>,<StartAction>[무한 탄약 +5 추가. 비용 금화 <CUSTOM9614>개]</Start>,hx_smith_conv,x2_act_ws_stunl3,,,,0,0
+87419,PC,Player Character,<StartAction>[Add Mighty +10. Costs <CUSTOM9613> gp]</Start>,<StartAction>[강력함 +10 추가. 비용 금화 <CUSTOM9613>개]</Start>,hx_smith_conv,x2_act_ws_stmigt,,,,0,0
+87420,PC,Player Character,<StartAction>[Add Mighty +5. Costs <CUSTOM9612> gp]</Start>,<StartAction>[강력함 +5 추가. 비용 금화 <CUSTOM9612>개]</Start>,hx_smith_conv,x2_act_ws_stmig5,,,,0,0
+87421,PC,Player Character,<StartAction>[Add Attack Bonus +1. Costs <CUSTOM9611> gp. Maximum attack bonus is +10]</Start>,<StartAction>[공격 보너스 +1 추가. 비용 금화 <CUSTOM9611>개. 최대 공격 보너스는 +10]</Start>,hx_smith_conv,x2_act_ws_stattk,,,,0,0
+87422,PC,Player Character,"""I want to upgrade my <CUSTOM9809>.""","""내 <CUSTOM9809>을 업그레이드하고 싶어.""",hx_smith_conv,x2_act_ws_setup,x2_con_ws_ismele,,,0,0
+87423,PC,Player Character,"""I've changed my mind.""","""마음이 바뀌었어.""",hx_smith_conv,,,,,0,0
+87424,PC,Player Character,<StartAction>[Make the weapon regenerate my health (2 hit-points per round). Costs <CUSTOM9716> gp]</Start>,<StartAction>[무기가 내 체력을 재생하도록 만들기 (라운드당 2 HP). 비용 금화 <CUSTOM9716>개]</Start>,hx_smith_conv,x2_act_ws_strege,,,,0,0
+87425,PC,Player Character,<StartAction>[Make the weapon give me resistance against magic (+20 SR). Costs <CUSTOM9715> gp]</Start>,<StartAction>[무기가 마법 저항력을 부여하도록 만들기 (+20 SR). 비용 금화 <CUSTOM9715>개]</Start>,hx_smith_conv,x2_act_ws_stspel,,,,0,0
+87426,PC,Player Character,<StartAction>[Make the weapon grant me True Seeing. Costs <CUSTOM9714> gp]</Start>,<StartAction>[무기가 진실시 능력을 부여하도록 만들기. 비용 금화 <CUSTOM9714>개]</Start>,hx_smith_conv,x2_act_ws_sttrue,,,,0,0
+87427,PC,Player Character,<StartAction>[Make the weapon keen. Costs <CUSTOM9713> gp]</Start>,<StartAction>[무기를 예리하게 만들기. 비용 금화 <CUSTOM9713>개]</Start>,hx_smith_conv,x2_act_ws_stkeen,,,,0,0
+87428,PC,Player Character,<StartAction>[Make the weapon permanently haste me. Costs <CUSTOM9712> gp]</Start>,<StartAction>[무기가 영구적으로 신속화 효과 부여. 비용 금화 <CUSTOM9712>개]</Start>,hx_smith_conv,x2_act_ws_sthast,,,,0,0
+87429,PC,Player Character,<StartAction>[Add Electrical damage +2d6. Costs <CUSTOM9711> gp]</Start>,<StartAction>[전기 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>,hx_smith_conv,x2_act_ws_stelec,,,,0,0
+87430,PC,Player Character,<StartAction>[Add Fire damage +2d6. Costs <CUSTOM9711> gp]</Start>,<StartAction>[화염 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>,hx_smith_conv,x2_act_ws_stfire,,,,0,0
+87431,PC,Player Character,<StartAction>[Add Cold damage +2d6. Costs <CUSTOM9711> gp]</Start>,<StartAction>[냉기 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>,hx_smith_conv,x2_act_ws_stice,,,,0,0
+87432,PC,Player Character,<StartAction>[Add Acid damage +2d6. Costs <CUSTOM9711> gp]</Start>,<StartAction>[산성 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>,hx_smith_conv,x2_act_ws_stacid,,,,0,0
+87433,PC,Player Character,<StartAction>[Add Enhancement Bonus +1. Costs <CUSTOM9717> gp. Maximum enhancement Bonus is +10]</Start>,<StartAction>[강화 보너스 +1 추가. 비용 금화 <CUSTOM9717>개. 최대 강화 보너스는 +10]</Start>,hx_smith_conv,x2_act_ws_stenha,,,,0,0
+87434,PC,Player Character,"""Since I'm trying to save you all, couldn't you give me a deal?""","""우리 모두를 구하려는 건데, 좀 깎아줄 수 없어?""",hx_smith_conv,x2_smithgoldx,x2_smithgold,,,0,0

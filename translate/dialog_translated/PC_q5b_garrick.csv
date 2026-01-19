@@ -1,0 +1,62 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+82530,PC,Player Character,"I am sorry, I have nothing to heal you with.","미안해요, 치료해 줄 게 없어요.",q5b_garrick,,,,,0,0
+82531,PC,Player Character,I can help. <StartHighlight>[Lay hands on him.]</Start>,도와줄 수 있어요. <StartHighlight>[안수 치유를 한다.]</Start>,q5b_garrick,q5b_at_garrick5,q1_chk_layhands,,,0,0
+82532,PC,Player Character,I can heal you. <StartHighlight>[Cast a healing spell on him.]</Start>,치료해 줄 수 있어요. <StartHighlight>[치유 주문을 건다.]</Start>,q5b_garrick,q5b_at_garrick4,q1_chk_curespell,,,0,0
+82533,PC,Player Character,"Here, drink this. <StartHighlight>[Use a healing potion on him.]</Start>","자, 이거 마셔요. <StartHighlight>[치유 물약을 사용한다.]</Start>",q5b_garrick,q5b_at_garrick3,q1_chk_hpotion,,,0,0
+82534,PC,Player Character,"Here, let me try this. <StartAction>[Use a healing kit.]</Start>","자, 이걸 써 볼게요. <StartAction>[치료용 키트를 사용한다.]</Start>",q5b_garrick,q5b_at_garrick2,q5b_sc_garrick1,,,0,0
+82535,PC,Player Character,Drogan never said you would be this hard to find. I'm <FirstName>.,드로건 스승님은 당신 찾기가 이렇게 어려울 거라곤 안 하셨는데. 전 <FirstName>이에요.,q5b_garrick,,,,,0,0
+82536,PC,Player Character,My name is <FullName>. Drogan sent me to get your help.,제 이름은 <FullName>이에요. 드로건 스승님이 당신 도움을 받으라고 보내셨어요.,q5b_garrick,,,,,0,0
+82537,PC,Player Character,"I am <FirstName>. My teacher, Drogan, sent me to find you.","전 <FirstName>이에요. 제 스승 드로건이 당신을 찾으라고 보내셨어요.",q5b_garrick,,,,,0,0
+82538,PC,Player Character,You better tell me what you are doing here first.,먼저 여기서 뭘 하고 있는지 말해 줘요.,q5b_garrick,,,,,0,0
+82539,PC,Player Character,What is this? <StartHighlight>[Show him the crystal.]</Start>,이게 뭐예요? <StartHighlight>[수정을 보여준다.]</Start>,q5b_garrick,,,,,0,0
+82540,PC,Player Character,What happened to you? Why were you so hurt?,무슨 일이 있었던 거예요? 왜 이렇게 다쳤어요?,q5b_garrick,,,,,0,0
+82541,PC,Player Character,I need you to tell me about this crystal.,이 수정에 대해 말해 줘요.,q5b_garrick,,,,,0,0
+82542,PC,Player Character,"What ever, just hurry up.","뭐든 좋으니, 빨리 해요.",q5b_garrick,,,,,0,0
+82543,PC,Player Character,"If it means you might start making sense, then do it.",그래야 말이 좀 되겠다 싶으면 해요.,q5b_garrick,,,,,0,0
+82544,PC,Player Character,Please do.,그렇게 해 주세요.,q5b_garrick,,,,,0,0
+82545,PC,Player Character,"No, go ahead.","아뇨, 계속하세요.",q5b_garrick,,,,,0,0
+82546,PC,Player Character,What else do you know about it?,더 아는 거 없어요?,q5b_garrick,,,,,0,0
+82547,PC,Player Character,How do you damage one?,어떻게 손상시키죠?,q5b_garrick,,,,,0,0
+82548,PC,Player Character,How do you know this?,그걸 어떻게 알아요?,q5b_garrick,,,,,0,0
+82549,PC,Player Character,Hurry up and get to the part where this makes sense.,빨리 알아들을 수 있게 말해 줘요.,q5b_garrick,,,,,0,0
+82550,PC,Player Character,Go on.,계속해요.,q5b_garrick,,,,,0,0
+82551,PC,Player Character,I think I have seen this cloaked figure before. But go on.,"그 망토 쓴 자, 전에 본 것 같아요. 근데 계속해요.",q5b_garrick,,,,,0,0
+82552,PC,Player Character,Did you get to see the cloaked figure's face?,망토 쓴 자 얼굴은 봤어요?,q5b_garrick,,,,,0,0
+82553,PC,Player Character,Did the cloaked figure come through the portal?,망토 쓴 자가 차원문으로 온 거예요?,q5b_garrick,,,,,0,0
+82554,PC,Player Character,"So she is gone, but the portal remains?","그녀는 갔는데 차원문은 남아있다고요?",q5b_garrick,,,,,0,0
+82555,PC,Player Character,So she went through the portal?,그녀가 차원문으로 갔다고요?,q5b_garrick,,,,,0,0
+82556,PC,Player Character,Where is the excavation?,발굴 현장이 어디예요?,q5b_garrick,,,,,0,0
+82557,PC,Player Character,"You keep the mythallar, while I go hunt this cloaked figure.","당신은 미살라를 지키고 있어요. 전 망토 쓴 자를 쫓을게요.",q5b_garrick,,,,,0,0
+82558,PC,Player Character,You said the mythallar could be used as a weapon?,미살라가 무기로 쓰일 수 있다고 했죠?,q5b_garrick,,,,,0,0
+82559,PC,Player Character,I guess I need to get this mythallar away from here.,미살라를 여기서 옮겨야겠네요.,q5b_garrick,,,,,0,0
+82560,PC,Player Character,What would you suggest I do?,제가 어떻게 하면 좋겠어요?,q5b_garrick,,,,,0,0
+82561,PC,Player Character,I won't do it.,안 할 거예요.,q5b_garrick,,,,,0,0
+82562,PC,Player Character,I suppose there is little choice.,별 수 없는 것 같네요.,q5b_garrick,,,,,0,0
+82563,PC,Player Character,I can't face her alone.,혼자선 못 상대해요.,q5b_garrick,,,,,0,0
+82564,PC,Player Character,Will you come with me?,같이 가 줄래요?,q5b_garrick,,,,,0,0
+82565,PC,Player Character,I guess I should get going.,이제 가 볼게요.,q5b_garrick,,,,,0,0
+82566,PC,Player Character,I want to speak with Master Drogan.,드로건 스승님과 이야기하고 싶어요.,q5b_garrick,,,,,0,0
+82567,PC,Player Character,Why don't I just wait and speak to Drogan.,그냥 기다렸다가 드로건 스승님과 이야기하면 안 될까요.,q5b_garrick,,,,,0,0
+82568,PC,Player Character,I have some questions.,물어볼 게 있어요.,q5b_garrick,,,,,0,0
+82569,PC,Player Character,That's all my questions.,물어볼 건 다 물어봤어요.,q5b_garrick,,,,,0,0
+82570,PC,Player Character,How do you know Drogan?,드로건 스승님을 어떻게 아세요?,q5b_garrick,,,,,0,0
+82571,PC,Player Character,Go on.,계속해요.,q5b_garrick,,,,,0,0
+82572,PC,Player Character,Boring.,지루해요.,q5b_garrick,,,,,0,0
+82573,PC,Player Character,Interesting.,흥미롭네요.,q5b_garrick,,,,,0,0
+82574,PC,Player Character,How do I activate the portal?,차원문을 어떻게 활성화해요?,q5b_garrick,,,,,0,0
+82575,PC,Player Character,Where is the portal room?,차원문은 어디 있어요?,q5b_garrick,,,,,0,0
+82576,PC,Player Character,Where is the excavation?,발굴 현장이 어디예요?,q5b_garrick,,,,,0,0
+82577,PC,Player Character,Who are you?,당신은 누구예요?,q5b_garrick,,,,,0,0
+82578,PC,Player Character,Goodbye.,안녕히 계세요.,q5b_garrick,,q5b_sc_garrick2,,,0,0
+82579,PC,Player Character,I have some questions.,물어볼 게 있어요.,q5b_garrick,,,,,0,0
+82580,PC,Player Character,That's all my questions.,물어볼 건 다 물어봤어요.,q5b_garrick,,,,,0,0
+82581,PC,Player Character,How do you know Drogan?,드로건 스승님을 어떻게 아세요?,q5b_garrick,,,,,0,0
+82582,PC,Player Character,Go on.,계속해요.,q5b_garrick,,,,,0,0
+82583,PC,Player Character,Boring.,지루해요.,q5b_garrick,,,,,0,0
+82584,PC,Player Character,Interesting.,흥미롭네요.,q5b_garrick,,,,,0,0
+82585,PC,Player Character,How do I activate the portal?,차원문을 어떻게 활성화해요?,q5b_garrick,,,,,0,0
+82586,PC,Player Character,Where is the portal room?,차원문은 어디 있어요?,q5b_garrick,,,,,0,0
+82587,PC,Player Character,Where is the excavation?,발굴 현장이 어디예요?,q5b_garrick,,,,,0,0
+82588,PC,Player Character,How goes the spell?,주문은 잘 되어가요?,q5b_garrick,,,,,0,0
+82589,PC,Player Character,Could you summarize what I am supposed to do?,제가 뭘 해야 하는지 요약해 줄래요?,q5b_garrick,,,,,0,0
+82590,PC,Player Character,I want you to tell me everything again.,전부 다시 말해 줘요.,q5b_garrick,,,,,0,0

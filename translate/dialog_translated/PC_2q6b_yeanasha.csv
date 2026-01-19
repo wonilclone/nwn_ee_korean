@@ -1,0 +1,66 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+41986,PC,Player Character,Could I ask you some questions?,몇 가지 물어봐도 될까?,2q6b_yeanasha,,[지능 보통],,,0,0
+41987,PC,Player Character,Me want ask questions.,나 질문 하고 싶어.,2q6b_yeanasha,,[지능 낮음],,,0,0
+41988,PC,Player Character,Goodbye.,안녕.,2q6b_yeanasha,,,,,0,0
+41989,PC,Player Character,"Why are you here, exactly?",정확히 왜 여기 있는 거야?,2q6b_yeanasha,,[지능 보통],,,0,0
+41990,PC,Player Character,Why you here?,왜 여기 있어?,2q6b_yeanasha,,[지능 낮음],,,0,0
+41991,PC,Player Character,What do you know about the tower?,탑에 대해 뭘 알아?,2q6b_yeanasha,,[지능 보통],,,0,0
+41992,PC,Player Character,What you know 'bout wizard tower?,마법사 탑 뭐 알아?,2q6b_yeanasha,,[지능 낮음],,,0,0
+41993,PC,Player Character,How do I get around this place?,여기서 어떻게 돌아다녀?,2q6b_yeanasha,,[지능 보통],,,0,0
+41994,PC,Player Character,How me gets around here?,여기 어떻게 돌아다녀?,2q6b_yeanasha,,[지능 낮음],,,0,0
+41995,PC,Player Character,Who are you?,넌 누구야?,2q6b_yeanasha,,[지능 보통],,,0,0
+41996,PC,Player Character,Who you?,너 누구?,2q6b_yeanasha,,[지능 낮음],,,0,0
+41997,PC,Player Character,What do you mean?,무슨 말이야?,2q6b_yeanasha,,[지능 보통],,,0,0
+41998,PC,Player Character,What you mean?,무슨 뜻이야?,2q6b_yeanasha,,[지능 낮음],,,0,0
+41999,PC,Player Character,"<StartCheck>[Persuade]</Start> There is no harm in talking, is there?","<StartCheck>[설득]</Start> 그냥 얘기하는 건 문제없잖아, 안 그래?",2q6b_yeanasha,,[지능 보통],,,0,0
+42000,PC,Player Character,<StartCheck>[Persuade]</Start> There no harms in just talk.,<StartCheck>[설득]</Start> 그냥 말하는 거 해 안 돼.,2q6b_yeanasha,,[지능 낮음],,,0,0
+42001,PC,Player Character,<StartCheck>[Flirt]</Start> I'm only interested because you're a beautiful woman... ,<StartCheck>[유혹]</Start> 네가 아름다운 여자라서 관심 가는 거야...,2q6b_yeanasha,,nw_d2_flirti_n,,,0,0
+42002,PC,Player Character,<StartCheck>[Flirt]</Start> Me only talks because you is so beautiful... ,<StartCheck>[유혹]</Start> 나 말하는 건 네가 너무 예뻐서...,2q6b_yeanasha,,nw_d2_flirti_l,,,0,0
+42003,PC,Player Character,You'll answer my questions or you'll get hurt.,내 질문에 대답해. 안 그러면 다쳐.,2q6b_yeanasha,,[지능 보통],,,0,0
+42004,PC,Player Character,"You answer questions or me hurt you, got it?","질문 대답해 안 그러면 때려, 알았어?",2q6b_yeanasha,,[지능 낮음],,,0,0
+42005,PC,Player Character,Forget I asked.,내가 물어본 거 잊어.,2q6b_yeanasha,,[지능 보통],,,0,0
+42006,PC,Player Character,"Forget me asks, then.","그럼 나 물어본 거 잊어.",2q6b_yeanasha,,[지능 낮음],,,0,0
+42007,PC,Player Character,What did you mean about the wizards?,마법사들에 대해 무슨 말이야?,2q6b_yeanasha,,[지능 보통],,,0,0
+42008,PC,Player Character,What you mean 'bout wizards?,마법사들 무슨 뜻이야?,2q6b_yeanasha,,[지능 낮음],,,0,0
+42009,PC,Player Character,I think you're gorgeous.,넌 정말 아름다워.,2q6b_yeanasha,,[지능 보통],,,0,0
+42010,PC,Player Character,Me think you very beautiful.,나 네가 엄청 예쁘다고 생각해.,2q6b_yeanasha,,[지능 낮음],,,0,0
+42011,PC,Player Character,I'm just being friendly... ,그냥 친하게 지내려는 거야...,2q6b_yeanasha,,[지능 보통],,,0,0
+42012,PC,Player Character,Me just be friendly... ,나 그냥 친하게 지내려고...,2q6b_yeanasha,,[지능 낮음],,,0,0
+42013,PC,Player Character,Don't make me laugh. You smell like a rotting bear carcass.,웃기지 마. 넌 썩은 곰 시체 냄새가 나.,2q6b_yeanasha,,[지능 보통],,,0,0
+42014,PC,Player Character,"Hah! You smells like bear dung. Looks likes it, too.","하! 너 곰똥 냄새 나. 보기도 그렇고.",2q6b_yeanasha,,[지능 낮음],,,0,0
+42015,PC,Player Character,Forget I said anything.,내가 한 말 잊어.,2q6b_yeanasha,,[지능 보통],,,0,0
+42016,PC,Player Character,Forget me says anything.,나 말한 거 잊어.,2q6b_yeanasha,,[지능 낮음],,,0,0
+42017,PC,Player Character,Tell me about the Arcane Brotherhood.,비전 결사단에 대해 말해봐.,2q6b_yeanasha,,[지능 보통],,,0,0
+42018,PC,Player Character,"What has happened here, as of late?",최근에 여기서 무슨 일이 있었어?,2q6b_yeanasha,,[지능 보통],,,0,0
+42019,PC,Player Character,Tell me 'bout the wizards.,마법사들 얘기해 봐.,2q6b_yeanasha,,[지능 낮음],,,0,0
+42020,PC,Player Character,What happen in tower? What wizards do?,탑에서 무슨 일 있었어? 마법사들 뭐 해?,2q6b_yeanasha,,[지능 낮음],,,0,0
+42021,PC,Player Character,Tell me about this Maugrim.,이 모그림에 대해 말해봐.,2q6b_yeanasha,,2q6_yeanasha01,,,0,0
+42022,PC,Player Character,Tell me 'bout Maugrim.,모그림 얘기해 봐.,2q6b_yeanasha,,2q6_yeanasha02,,,0,0
+42023,PC,Player Character,The new Archmage Arcane? What happened to the old one?,새 비전 대마법사? 전임은 어떻게 됐어?,2q6b_yeanasha,,[지능 보통],,,0,0
+42024,PC,Player Character,New wizard leader? What happen to old one?,새 마법사 우두머리? 옛날 놈 어떻게 됐어?,2q6b_yeanasha,,[지능 낮음],,,0,0
+42025,PC,Player Character,"What does he want, do you know?",그가 뭘 원하는지 알아?,2q6b_yeanasha,,[지능 보통],,,0,0
+42026,PC,Player Character,What he wants? You know?,그가 뭘 원해? 너 알아?,2q6b_yeanasha,,[지능 낮음],,,0,0
+42027,PC,Player Character,New leader?,새 지도자?,2q6b_yeanasha,,,,,0,0
+42028,PC,Player Character,Let me ask you something else.,다른 거 물어볼게.,2q6b_yeanasha,,[지능 보통],,,0,0
+42029,PC,Player Character,Me ask something else.,나 다른 거 물어볼게.,2q6b_yeanasha,,[지능 낮음],,,0,0
+42030,PC,Player Character,What is this army for?,이 군대는 뭘 위한 거야?,2q6b_yeanasha,,[지능 보통],,,0,0
+42031,PC,Player Character,What army for?,군대 뭐 하려고?,2q6b_yeanasha,,[지능 낮음],,,0,0
+42032,PC,Player Character,You think your people will agree?,네 종족이 동의할 거 같아?,2q6b_yeanasha,,[지능 보통],,,0,0
+42033,PC,Player Character,You thinks you people say yes?,네 종족 그러겠다고 할까?,2q6b_yeanasha,,[지능 낮음],,,0,0
+42034,PC,Player Character,Aribeth?!,아리베스?!,2q6b_yeanasha,,,,,0,0
+60035,PC,Player Character,"You hears 'bout cult here, maybe?",너 여기 사교 알아?,2q6b_yeanasha,,[지능 낮음],,,0,0
+60036,PC,Player Character,Have you heard anything of a cult here?,여기 사교에 대해 뭐 들었어?,2q6b_yeanasha,,[지능 보통],,,0,0
+60037,PC,Player Character,What fight you speaks 'bout?,무슨 싸움 말하는 거야?,2q6b_yeanasha,,[지능 낮음],,,0,0
+60038,PC,Player Character,What fighting is that?,그게 무슨 싸움이야?,2q6b_yeanasha,,[지능 보통],,,0,0
+60039,PC,Player Character,Why you gots big golem here?,왜 여기 큰 골렘 있어?,2q6b_yeanasha,,[지능 낮음],,,0,0
+60040,PC,Player Character,Why is there a golem in your room?,네 방에 왜 골렘이 있어?,2q6b_yeanasha,,[지능 보통],,,0,0
+60041,PC,Player Character,You knows 'bout somebody named Maugrim?,모그림이란 놈 알아?,2q6b_yeanasha,,2q6_yeanasha02,,,0,0
+60042,PC,Player Character,Have you heard of one named Maugrim?,모그림이란 사람 들어봤어?,2q6b_yeanasha,,2q6_yeanasha01,,,0,0
+60043,PC,Player Character,You trust traitor woman to leads army?,배신자 여자가 군대 이끄는 거 믿어?,2q6b_yeanasha,,[지능 낮음],,,0,0
+60044,PC,Player Character,You trust a traitor to lead an army?,배신자가 군대를 이끄는 걸 믿어?,2q6b_yeanasha,,[지능 보통],,,0,0
+60045,PC,Player Character,How you knows 'bout Aribeth? It true?,아리베스 어떻게 알아? 사실이야?,2q6b_yeanasha,,[지능 낮음],,,0,0
+60046,PC,Player Character,How do you know that about Aribeth? Is it true?,아리베스에 대해 어떻게 알아? 사실이야?,2q6b_yeanasha,,[지능 보통],,,0,0
+60047,PC,Player Character,What promise he makes you?,그가 뭘 약속했어?,2q6b_yeanasha,,[지능 낮음],,,0,0
+60048,PC,Player Character,What promise has he made you?,그가 무슨 약속을 했어?,2q6b_yeanasha,,[지능 보통],,,0,0
+60049,PC,Player Character,Me ambassador of Mulhorand.,나 멀호란드 사절.,2q6b_yeanasha,,[지능 낮음],,,0,0
+60050,PC,Player Character,I am the ambassador from Mulhorand.,난 멀호란드에서 온 사절이야.,2q6b_yeanasha,,[지능 보통],,,0,0

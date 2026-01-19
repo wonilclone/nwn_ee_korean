@@ -1,0 +1,281 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+77561,PC,Player Character,"No, stay here for now.","아니, 지금은 여기 있어.",xp1_hen_dor,,,,,0,0
+77562,PC,Player Character,"Yes, come with me.","그래, 나와 함께 가.",xp1_hen_dor,,,,,0,0
+77563,PC,Player Character,Just wait here a while longer.,조금 더 여기서 기다려.,xp1_hen_dor,,,,,0,0
+77564,PC,Player Character,"Yes, come with me.","그래, 나와 함께 가.",xp1_hen_dor,,,,,0,0
+77565,PC,Player Character,"No, never mind.","아니, 됐어.",xp1_hen_dor,,,,,0,0
+77566,PC,Player Character,"Yes, come with me.","그래, 나와 함께 가.",xp1_hen_dor,,,,,0,0
+77567,PC,Player Character,Never mind.,됐어.,xp1_hen_dor,,,,,0,0
+77568,PC,Player Character,I think we need to part ways.,우리는 헤어져야 할 것 같아.,xp1_hen_dor,,,,,0,0
+77569,PC,Player Character,"All right, stay with me, then.","좋아, 그럼 나와 함께 있어.",xp1_hen_dor,,,,,0,0
+77570,PC,Player Character,Just stay here for the moment.,당분간 여기 있어.,xp1_hen_dor,,,,,0,0
+77571,PC,Player Character,"Yes, you should go for now.","그래, 지금은 가는 게 좋겠어.",xp1_hen_dor,,x0_d2_ischapt1,,,0,0
+77572,PC,Player Character,I'd like you to level up.,레벨을 올렸으면 해.,xp1_hen_dor,,x0_d2_hen_canlvl,,,0,0
+77573,PC,Player Character,I want to change your tactics.,전술을 바꾸고 싶어.,xp1_hen_dor,,,,,0,0
+77574,PC,Player Character,I don't want to change anything else right now.,지금은 다른 건 바꾸고 싶지 않아.,xp1_hen_dor,,,,,0,0
+77575,PC,Player Character,I want to move faster and not bother with stealth or searching.,더 빠르게 이동하고 은신이나 탐색은 신경 쓰지 마.,xp1_hen_dor,x0_d1_hen_nomode,x0_d2_hen_inmode,,,0,0
+77576,PC,Player Character,I need you to be stealthy right now.,지금은 은신해야 해.,xp1_hen_dor,x0_d1_hen_stlth,x0_d2_hen_stltn,,,0,0
+77577,PC,Player Character [Companion Settings],Don't help me if I fail to open a locked door or chest.,잠긴 문이나 상자를 여는 데 실패해도 도와주지 마.,xp1_hen_dor,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+77578,PC,Player Character [Companion Settings],Help me if I fail to open a locked door or chest.,잠긴 문이나 상자를 여는 데 실패하면 도와줘.,xp1_hen_dor,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+77579,PC,Player Character,I want to change the distance you stay away from me.,나와의 거리를 바꾸고 싶어.,xp1_hen_dor,,,,,0,0
+77580,PC,Player Character [Follow: Far],Stay a long distance away from me.,나에게서 먼 거리를 유지해.,xp1_hen_dor,nw_ch_dist_18,,[Follow: Far],,0,0
+77581,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,xp1_hen_dor,nw_ch_dist_12,,[Follow: Medium],,0,0
+77582,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,xp1_hen_dor,nw_ch_dist_6,,[Follow: Close],,0,0
+77583,PC,Player Character,Go ahead and attack as soon as you see enemies.,적을 보는 즉시 공격해.,xp1_hen_dor,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+77584,PC,Player Character,Defend me and don't attack until I do.,나를 방어하고 내가 공격할 때까지 공격하지 마.,xp1_hen_dor,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+77585,PC,Player Character,I want to adjust your equipment.,장비를 조정하고 싶어.,xp1_hen_dor,,,,,0,0
+77586,PC,Player Character,Can you identify my equipment?,내 장비를 감정해 줄 수 있어?,xp1_hen_dor,,x1_hen_canid,,,0,0
+77587,PC,Player Character,I need you to cast a spell.,주문을 시전해 줘.,xp1_hen_dor,,x1_d2_dornacler,,,0,0
+77588,PC,Player Character,Never mind.,됐어.,xp1_hen_dor,,,,,0,0
+77589,PC,Player Character,"No, that's it.","아니, 그게 다야.",xp1_hen_dor,,,,,0,0
+77590,PC,Player Character,Virtue.,덕성.,xp1_hen_dor,x0_d1_castvirtue,x0_d2_hasvirtue,,,0,0
+77591,PC,Player Character,Ultravision.,초시야.,xp1_hen_dor,x0_d1_castultra,x0_d2_hasultra,,,0,0
+77592,PC,Player Character,True Seeing.,진실의 시야.,xp1_hen_dor,x0_d1_casttruese,x0_d2_hastruesee,,,0,0
+77593,PC,Player Character,Summon Creature IX.,생명체 소환 9.,xp1_hen_dor,x0_d1_castsumm9,x0_d2_hassumm9,,,0,0
+77594,PC,Player Character,Summon Creature VIII.,생명체 소환 8.,xp1_hen_dor,x0_d1_castsumm8,x0_d2_hassumm8,,,0,0
+77595,PC,Player Character,Summon Creature VII.,생명체 소환 7.,xp1_hen_dor,x0_d1_castsumm7,x0_d2_hassumm7,,,0,0
+77596,PC,Player Character,Summon Creature VI.,생명체 소환 6.,xp1_hen_dor,x0_d1_castsumm6,x0_d2_hassumm6,,,0,0
+77597,PC,Player Character,Summon Creature V.,생명체 소환 5.,xp1_hen_dor,x0_d1_castsumm5,x0_d2_hassumm5,,,0,0
+77598,PC,Player Character,Summon Creature IV.,생명체 소환 4.,xp1_hen_dor,x0_d1_castsumm4,x0_d2_hassumm4,,,0,0
+77599,PC,Player Character,Summon Creature III.,생명체 소환 3.,xp1_hen_dor,x0_d1_castsumm3,x0_d2_hassumm3,,,0,0
+77600,PC,Player Character,Summon Creature II.,생명체 소환 2.,xp1_hen_dor,x0_d1_castsumm2,x0_d2_hassumm2,,,0,0
+77601,PC,Player Character,Summon Creature I.,생명체 소환 1.,xp1_hen_dor,x0_d1_castsumm1,x0_d2_hassumm1,,,0,0
+77602,PC,Player Character,Spell Resistance.,주문 저항.,xp1_hen_dor,x0_d1_castsplres,x0_d2_hasspelres,,,0,0
+77603,PC,Player Character,Shield of Faith.,믿음의 방패.,xp1_hen_dor,x0_d1_castshdfth,x0_d2_hasshldfth,,,0,0
+77604,PC,Player Character,See Invisibility.,투명체 보기.,xp1_hen_dor,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+77605,PC,Player Character,Restoration.,회복.,xp1_hen_dor,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
+77606,PC,Player Character,Resistance.,저항.,xp1_hen_dor,x0_d1_castresist,x0_d2_hasresist,,,0,0
+77607,PC,Player Character,Resist Elements.,원소 저항.,xp1_hen_dor,x0_d1_castresele,x0_d2_hasreselem,,,0,0
+77608,PC,Player Character,Remove Fear.,공포 해제.,xp1_hen_dor,x0_d1_castremfr,x0_d2_hasremfear,,,0,0
+77609,PC,Player Character,Remove Disease.,질병 치료.,xp1_hen_dor,x0_d1_castremdis,x0_d2_hasremdis,,,0,0
+77610,PC,Player Character,Remove Curse.,저주 해제.,xp1_hen_dor,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
+77611,PC,Player Character,Remove Blindness/Deafness.,실명/청각 상실 해제.,xp1_hen_dor,x0_d1_castrembdf,x0_d2_hasrembldf,,,0,0
+77612,PC,Player Character,Protection From Elements.,원소로부터 보호.,xp1_hen_dor,x0_d1_castprelem,x0_d2_hasprelem,,,0,0
+77613,PC,Player Character,Planar Ally.,차원의 협력자.,xp1_hen_dor,x0_d1_castplally,x0_d2_hasplanall,,,0,0
+77614,PC,Player Character,Owl's Wisdom.,올빼미의 지혜.,xp1_hen_dor,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
+77615,PC,Player Character,Neutralize Poison.,독 중화.,xp1_hen_dor,x0_d1_castneupoi,x0_d2_hasneutpoi,,,0,0
+77616,PC,Player Character,Negative Energy Protection.,부정적 에너지 보호.,xp1_hen_dor,x0_d1_castngenpr,x0_d2_hasnegenpr,,,0,0
+77617,PC,Player Character,Mass Haste.,대규모 가속.,xp1_hen_dor,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
+77618,PC,Player Character,Mage Armor.,마법학자 갑옷.,xp1_hen_dor,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
+77619,PC,Player Character,Light.,빛.,xp1_hen_dor,x0_d1_castlight,x0_d2_haslight,,,0,0
+77620,PC,Player Character,Lesser Restoration.,하급 회복.,xp1_hen_dor,x0_d1_castlsrest,x0_d2_haslesrest,,,0,0
+77621,PC,Player Character,Invisibility Sphere.,투명화 구체.,xp1_hen_dor,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
+77622,PC,Player Character,Invisibility,투명화,xp1_hen_dor,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
+77623,PC,Player Character,Improved Invisibility.,우수한 투명화.,xp1_hen_dor,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
+77624,PC,Player Character,Haste.,가속.,xp1_hen_dor,x0_d1_casthaste,x0_d2_hashaste,,,0,0
+77625,PC,Player Character,Greater Restoration.,상급 회복.,xp1_hen_dor,x0_d1_castgrrest,x0_d2_hasgrrest,,,0,0
+77626,PC,Player Character,Ghostly Visage.,유령의 형상.,xp1_hen_dor,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
+77627,PC,Player Character,Freedom of Movement.,자유 이동.,xp1_hen_dor,x0_d1_castfremov,x0_d2_hasfreemov,,,0,0
+77628,PC,Player Character,Fox's Cunning,여우의 교활함,xp1_hen_dor,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
+77629,PC,Player Character,Find Traps.,함정 찾기.,xp1_hen_dor,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
+77630,PC,Player Character,Greater Sanctuary.,상급 성역.,xp1_hen_dor,x0_d1_castether,x0_d2_hasether,,,0,0
+77631,PC,Player Character,Ethereal Visage.,에테르 형상.,xp1_hen_dor,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
+77632,PC,Player Character,Entropic Shield.,혼돈의 보호막.,xp1_hen_dor,x0_d1_castentshd,x0_d2_hasentshld,,,0,0
+77633,PC,Player Character,Energy Buffer.,에너지 완충기.,xp1_hen_dor,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+77634,PC,Player Character,"No, I've changed my mind.","아니, 마음을 바꿨어.",xp1_hen_dor,,,,,0,0
+77635,PC,Player Character,"Yes, go ahead.","그래, 해.",xp1_hen_dor,x0_d1_targetself,,,,0,0
+77636,PC,Player Character,Endure Elements.,원소 인내.,xp1_hen_dor,x0_d1_castendele,x0_d2_hasendelem,,,0,0
+77637,PC,Player Character,Endurance.,지구력.,xp1_hen_dor,x0_d1_castendur,x0_d2_hasendur,,,0,0
+77638,PC,Player Character,Eagle's Splendour.,독수리의 위엄.,xp1_hen_dor,x0_d1_casteagles,x0_d2_haseagles,,,0,0
+77639,PC,Player Character,Divine Favor.,신의 은총.,xp1_hen_dor,x0_d1_castdivfav,x0_d2_hasdivfav,,,0,0
+77640,PC,Player Character,Death Ward.,죽음 방비.,xp1_hen_dor,x0_d1_castdthwrd,x0_d2_hasdthward,,,0,0
+77641,PC,Player Character,Create Undead.,언데드 생성.,xp1_hen_dor,x0_d1_castcrund,x0_d2_hascreund,,,0,0
+77642,PC,Player Character,Create Greater Undead.,상급 언데드 생성.,xp1_hen_dor,x0_d1_castcrgrun,x0_d2_hascrgrund,,,0,0
+77643,PC,Player Character,Continual Flame.,계속되는 불꽃.,xp1_hen_dor,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+77644,PC,Player Character,Clarity.,정화.,xp1_hen_dor,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
+77645,PC,Player Character,Cat's Grace.,고양이의 우아함.,xp1_hen_dor,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
+77646,PC,Player Character,Bull's Strength.,황소의 근력.,xp1_hen_dor,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
+77647,PC,Player Character,I've changed my mind.,마음을 바꿨어.,xp1_hen_dor,,,,,0,0
+77648,PC,Player Character,Cast it on my animal companion.,내 동물 동료에게 시전해.,xp1_hen_dor,x0_d1_targetcomp,x0_d2_hascompan,,,0,0
+77649,PC,Player Character,Cast it on my familiar.,내 사역마에게 시전해.,xp1_hen_dor,x0_d1_targetfam,x0_d2_hasfamil,,,0,0
+77650,PC,Player Character,Cast it on me.,내게 시전해.,xp1_hen_dor,x0_d1_targetme,,,,0,0
+77651,PC,Player Character,Cast it on yourself.,네게 시전해.,xp1_hen_dor,x0_d1_targetself,,,,0,0
+77652,PC,Player Character,Bless.,축복.,xp1_hen_dor,x0_d1_castbless,x0_d2_hasbless,,,0,0
+77653,PC,Player Character,Animate Dead.,죽은 자 조종.,xp1_hen_dor,x0_d1_castandead,x0_d2_hasandead,,,0,0
+77654,PC,Player Character,Aid.,원조.,xp1_hen_dor,x0_d1_castaid,x0_d2_hasaid,,,0,0
+77655,PC,Player Character,What was it you wanted to say earlier?,아까 하고 싶었던 말이 뭐였어?,xp1_hen_dor,,x0_d2_hen_interp,,,0,0
+77656,PC,Player Character,Let's stop and talk for a moment.,잠깐 멈춰서 얘기하자.,xp1_hen_dor,,,,,0,0
+77657,PC,Player Character,I think that's enough talking for now.,지금은 대화는 이 정도면 충분한 것 같아.,xp1_hen_dor,,,,,0,0
+77658,PC,Player Character,How are you right now?,지금 어때?,xp1_hen_dor,,,,,0,0
+77659,PC,Player Character,I want to discuss your training.,네 훈련에 대해 얘기하고 싶어.,xp1_hen_dor,,,,,0,0
+77660,PC,Player Character,<StartAction>[Dorna will gain levels as both a cleric and a rogue.]</Start> Split your training between cleric and rogue. ,<StartAction>[도르나는 성직자와 도적으로 레벨을 올립니다.]</Start> 성직자와 도적 사이에 훈련을 나눠.,xp1_hen_dor,,,,,0,0
+77661,PC,Player Character,"<StartAction>[Dorna will gain levels as both a cleric and a rogue.]</Start> That's fine, continue as you are. ","<StartAction>[도르나는 성직자와 도적으로 레벨을 올립니다.]</Start> 괜찮아, 그대로 계속해.",xp1_hen_dor,,,,,0,0
+77662,PC,Player Character,<StartAction>[Dorna will only gain levels as a rogue.]</Start> Concentrate on rogue training only. ,<StartAction>[도르나는 도적으로만 레벨을 올립니다.]</Start> 도적 훈련에만 집중해.,xp1_hen_dor,,,,,0,0
+77663,PC,Player Character,<StartAction>[Dorna will only gain levels as a cleric.]</Start> I want to you concentrate on your cleric training only. ,<StartAction>[도르나는 성직자로만 레벨을 올립니다.]</Start> 성직자 훈련에만 집중했으면 해.,xp1_hen_dor,,,,,0,0
+77664,PC,Player Character,Where is your ring? The one Drogan gave us?,네 반지는 어디 있어? 드로건이 우리에게 준 거 말이야?,xp1_hen_dor,,x0_d2_ischapt1,,,0,0
+77665,PC,Player Character,And where do you keep it?,그리고 어디에 보관하고 있어?,xp1_hen_dor,,,,,0,0
+77666,PC,Player Character,There's no need to be suspicious of me.,날 의심할 필요는 없어.,xp1_hen_dor,,,,,0,0
+77667,PC,Player Character,You look troubled. Not that the situation doesn't call for it.,걱정스러워 보여. 상황이 그렇긴 하지.,xp1_hen_dor,x0_d1_dornstory,x0_d2_dornstory7,,,0,0
+77668,PC,Player Character,I don't care. There's far bigger things to worry about.,신경 안 써. 걱정할 일이 훨씬 더 많아.,xp1_hen_dor,,,,,0,0
+77669,PC,Player Character,I figured you would offer eventually.,언젠가는 말할 거라고 생각했어.,xp1_hen_dor,,,,,0,0
+77670,PC,Player Character,It wasn't my business to press the subject.,그건 내가 따질 일이 아니었어.,xp1_hen_dor,,,,,0,0
+77671,PC,Player Character,Then get on with what you need to say.,그럼 할 말을 해.,xp1_hen_dor,,,,,0,0
+77672,PC,Player Character,I have tried to see your side of things.,네 입장을 이해하려고 노력했어.,xp1_hen_dor,,,,,0,0
+77673,PC,Player Character,Seems like pointless dramatics to me. You're good at that.,나한테는 쓸데없는 감정 과잉으로 보여. 넌 그거 잘하지.,xp1_hen_dor,,,,,0,0
+77674,PC,Player Character,"A small change, but if it makes you happy, go ahead. ","작은 변화지만, 네가 행복하다면 해.",xp1_hen_dor,,,,,0,0
+77675,PC,Player Character,It sounds fine. I'm glad you found peace with it.,괜찮게 들려. 마음의 평화를 찾았다니 기뻐.,xp1_hen_dor,,,,,0,0
+77676,PC,Player Character,Do you regret the way you left your home?,고향을 떠난 방식을 후회해?,xp1_hen_dor,x0_d1_dornstory,x0_d2_dornstory6,,,0,0
+77677,PC,Player Character,"Ah, you just want too much.","아, 넌 그냥 너무 많은 걸 원해.",xp1_hen_dor,,,,,0,0
+77678,PC,Player Character,It is too bad you couldn't find what you wanted there.,거기서 네가 원하는 걸 찾지 못한 건 안타까워.,xp1_hen_dor,,,,,0,0
+77679,PC,Player Character,We are flighty? We outlive you.,우리가 변덕스럽다고? 우리는 너보다 오래 살아.,xp1_hen_dor,,xp1_pciself,,,0,0
+77680,PC,Player Character,I wouldn't go too far. We are who we are.,너무 그러지 마. 우리는 우리일 뿐이야.,xp1_hen_dor,,xp1_pcisdwarf,,,0,0
+77681,PC,Player Character,I don't think I can answer that for you.,그건 내가 대답할 수 없을 것 같아.,xp1_hen_dor,,,,,0,0
+77682,PC,Player Character,"Ask yourself, you're the one that ran away.","네 자신에게 물어봐, 도망친 건 너잖아.",xp1_hen_dor,,,,,0,0
+77683,PC,Player Character,You left for your own well being. No harm in that.,네 안녕을 위해 떠났어. 잘못된 건 아냐.,xp1_hen_dor,,,,,0,0
+77684,PC,Player Character,You paid the price for rocking the boat.,문제를 일으킨 대가를 치른 거야.,xp1_hen_dor,,,,,0,0
+77685,PC,Player Character,They were the worse offenders.,그들이 더 나쁜 가해자였어.,xp1_hen_dor,,,,,0,0
+77686,PC,Player Character,You were deciding what to say about your sister.,네 동생에 대해 무슨 말을 할지 고민하고 있었지.,xp1_hen_dor,x0_d1_dornstory,x0_d2_dornstory5,,,0,0
+77687,PC,Player Character,I'd starve too rather than come crawling back.,나라도 다시 기어들어가느니 굶주릴 거야.,xp1_hen_dor,,,,,0,0
+77688,PC,Player Character,And she was too proud to ask for help?,그리고 도움을 청하기엔 너무 자존심이 셌어?,xp1_hen_dor,,,,,0,0
+77689,PC,Player Character,How much did they get away with?,얼마나 빼돌렸어?,xp1_hen_dor,,,,,0,0
+77690,PC,Player Character,Who got hurt?,누가 다쳤어?,xp1_hen_dor,,,,,0,0
+77691,PC,Player Character,How long before they were caught?,얼마나 지나서 잡혔어?,xp1_hen_dor,,,,,0,0
+77692,PC,Player Character,What happened to your sister?,네 동생에게 무슨 일이 있었어?,xp1_hen_dor,,,,,0,0
+77693,PC,Player Character,So who was responsible for this?,그래서 누가 책임이 있었어?,xp1_hen_dor,,,,,0,0
+77694,PC,Player Character,Hardly a victory for the clan.,일족의 승리라고 하긴 어렵네.,xp1_hen_dor,,,,,0,0
+77695,PC,Player Character,She got what she deserved.,마땅한 대가를 받은 거야.,xp1_hen_dor,,,,,0,0
+77696,PC,Player Character,You just ran away like a coward?,그냥 겁쟁이처럼 도망쳤어?,xp1_hen_dor,,,,,0,0
+77697,PC,Player Character,There was nothing else you could do?,달리 할 수 있는 게 없었어?,xp1_hen_dor,,,,,0,0
+77698,PC,Player Character,You were saying that your sister became an adventurer.,네 동생이 모험가가 됐다고 했지.,xp1_hen_dor,x0_d1_dornstory,x0_d2_dornstory4,,,0,0
+77699,PC,Player Character,You're dodging the question.,질문을 피하고 있어.,xp1_hen_dor,,,,,0,0
+77700,PC,Player Character,I wanted adventure.,모험을 원했어.,xp1_hen_dor,,,,,0,0
+77701,PC,Player Character,"Nowhere else to go, really.","사실, 갈 곳이 없었어.",xp1_hen_dor,,,,,0,0
+77702,PC,Player Character,You're too needy. Always wanting more.,넌 너무 욕심이 많아. 항상 더 원하지.,xp1_hen_dor,,,,,0,0
+77703,PC,Player Character,Was what you wanted all that bad?,네가 원한 게 그렇게 나빴어?,xp1_hen_dor,,,,,0,0
+77704,PC,Player Character,Maybe if you finished your story I would understand better.,네 이야기를 끝까지 들으면 더 잘 이해할 수 있을 것 같아.,xp1_hen_dor,,,,,0,0
+77705,PC,Player Character,You were about to tell me about your sister.,네 동생에 대해 말하려던 참이었지.,xp1_hen_dor,x0_d1_dornstory,x0_d2_dornstory3,,,0,0
+77706,PC,Player Character,What was her name?,그녀의 이름이 뭐였어?,xp1_hen_dor,,,,,0,0
+77707,PC,Player Character,I'm listening.,듣고 있어.,xp1_hen_dor,,,,,0,0
+77708,PC,Player Character,Get to the point.,본론으로 들어가.,xp1_hen_dor,,,,,0,0
+77709,PC,Player Character,This is little different than you training with Drogan.,이건 네가 드로건과 훈련한 것과 별로 다르지 않아.,xp1_hen_dor,,,,,0,0
+77710,PC,Player Character,So she was kicked out. So what?,그래서 쫓겨났어. 그래서?,xp1_hen_dor,,,,,0,0
+77711,PC,Player Character,I assume there is more to it than that?,그것보다 더 있다고 생각하는데?,xp1_hen_dor,,,,,0,0
+77712,PC,Player Character,You wouldn't have said anything if you didn't want to talk.,말하고 싶지 않았으면 아무 말도 안 했겠지.,xp1_hen_dor,,,,,0,0
+77713,PC,Player Character,"If that's all you want to say, that's your choice.","그게 하고 싶은 말의 전부라면, 네 선택이야.",xp1_hen_dor,,,,,0,0
+77714,PC,Player Character,You said you gave up your name. Why?,이름을 포기했다고 했지. 왜?,xp1_hen_dor,x0_d1_dornstory,x0_d2_dornstory2,,,0,0
+77715,PC,Player Character,"Some piddling overblown disagreement, probably.",아마도 보잘것없고 과장된 불화였겠지.,xp1_hen_dor,,,,,0,0
+77716,PC,Player Character,What happened to cause you to do this?,이런 일을 하게 된 원인이 뭐였어?,xp1_hen_dor,,,,,0,0
+77717,PC,Player Character,I understand your anger at not being accepted.,받아들여지지 않은 것에 대한 네 분노를 이해해.,xp1_hen_dor,,,,,0,0
+77718,PC,Player Character,Is that it? They lost; why let their opinion bother you?,그게 다야? 그들이 졌잖아. 왜 그들의 의견에 신경 써?,xp1_hen_dor,,,,,0,0
+77719,PC,Player Character,Bah! A waste of my time.,흥! 시간 낭비야.,xp1_hen_dor,,,,,0,0
+77720,PC,Player Character,If that is what you want.,그게 네가 원하는 거라면.,xp1_hen_dor,,,,,0,0
+77721,PC,Player Character,Take your time. I'm only mildly interested anyway.,천천히 해. 어차피 관심도 별로 없어.,xp1_hen_dor,,,,,0,0
+77722,PC,Player Character,Tell me about yourself. What led you to Drogan?,네 자신에 대해 말해 줘. 드로건에게 온 계기는 뭐야?,xp1_hen_dor,x0_d1_dornstory,x0_d2_dornstory1,,,0,0
+77723,PC,Player Character,So the spoiled little dwarf was looking for adventure. How novel.,응석받이 꼬마 드워프가 모험을 찾고 있었네. 참 새롭다.,xp1_hen_dor,,,,,0,0
+77724,PC,Player Character,"Bored with the traditional life, hmm?",전통적인 삶이 지루했어?,xp1_hen_dor,,,,,0,0
+77725,PC,Player Character,You left your clan? A dwarf wouldn't do that.,일족을 떠났다고? 드워프는 그러지 않아.,xp1_hen_dor,,xp1_pcisdwarf,,,0,0
+77726,PC,Player Character,"Ran away from your oppressive parents, hmm?",억압적인 부모님에게서 도망쳤어?,xp1_hen_dor,,,,,0,0
+77727,PC,Player Character,So you simply left? ,그래서 그냥 떠났어?,xp1_hen_dor,,,,,0,0
+77728,PC,Player Character,Sounds like you're a criminal on the run.,도망자 범죄자처럼 들리는데.,xp1_hen_dor,,,,,0,0
+77729,PC,Player Character,Still sounds like a token gesture.,여전히 형식적인 제스처처럼 들려.,xp1_hen_dor,,,,,0,0
+77730,PC,Player Character,What happened that made you feel this way?,이렇게 느끼게 된 일이 뭐였어?,xp1_hen_dor,,,,,0,0
+77731,PC,Player Character,No dwarf willfully gives up her name.,드워프는 자발적으로 이름을 포기하지 않아.,xp1_hen_dor,,xp1_pcisdwarf,,,0,0
+77732,PC,Player Character,"No, not just yet.","아니, 아직은.",xp1_hen_dor,,,,,0,0
+77733,PC,Player Character,"Yes, come with me.","그래, 나와 함께 가.",xp1_hen_dor,x0_d1_hen_rejoin,,,,0,0
+77734,PC,Player Character,"It's a slave collar. A ""gift"" from the Asabi that rescued us.","노예 목걸이야. 우리를 구해준 아사비가 준 ""선물""이지.",xp1_hen_dor,,,,,0,0
+77735,PC,Player Character,Quit whining. We need to figure out what to do.,징징대지 마. 뭘 해야 할지 알아내야 해.,xp1_hen_dor,,,,,0,0
+77736,PC,Player Character,"I do too, but his training will help us in his place.","나도 그래, 하지만 그의 훈련이 그를 대신해 우리를 도울 거야.",xp1_hen_dor,,,,,0,0
+77737,PC,Player Character,We have to think of ourselves!,우리 자신을 생각해야 해!,xp1_hen_dor,,,,,0,0
+77738,PC,Player Character,You'd think you'd be a bit more grateful I restored you to flesh.,널 살로 되돌려줬는데 좀 더 고마워해야 하는 거 아냐.,xp1_hen_dor,,,,,0,0
+77739,PC,Player Character,If that's all you can offer maybe you should just stay here.,그게 네가 할 수 있는 전부라면 그냥 여기 있어.,xp1_hen_dor,,,,,0,0
+77740,PC,Player Character,"It's overwhelming, but what else can we do? We go on.","압도적이지만, 달리 뭘 할 수 있겠어? 계속 가는 거지.",xp1_hen_dor,,,,,0,0
+77741,PC,Player Character,I want you to stay here for now.,지금은 여기 있어 줬으면 해.,xp1_hen_dor,,,,,0,0
+77742,PC,Player Character,Come with me. We need to get moving.,나와 함께 가. 움직여야 해.,xp1_hen_dor,,,,,0,0
+77743,PC,Player Character,Can you be useful if you are sightseeing like a fool?,바보처럼 구경이나 하면서 도움이 될 수 있겠어?,xp1_hen_dor,,,,,0,0
+77744,PC,Player Character,"Come on, then. Let's go.","그럼, 가자.",xp1_hen_dor,,,,,0,0
+77745,PC,Player Character,You have an interest in history?,역사에 관심이 있어?,xp1_hen_dor,,,,,0,0
+77746,PC,Player Character,It's good to see you.,널 봐서 반가워.,xp1_hen_dor,,,,,0,0
+77747,PC,Player Character,I want to look around on my own for a bit.,잠깐 혼자 둘러보고 싶어.,xp1_hen_dor,,,,,0,0
+77748,PC,Player Character,"Yes, I think that would be wise.","그래, 그게 현명할 것 같아.",xp1_hen_dor,,,,,0,0
+77749,PC,Player Character,Drogan said I should take someone. Sounds like baggage to me.,드로건이 누군가를 데려가라고 했어. 나한테는 짐처럼 들리는데.,xp1_hen_dor,,,,,0,0
+77750,PC,Player Character,Bringing an extra pair of hands would be a good idea.,여분의 손이 더 있으면 좋을 것 같아.,xp1_hen_dor,,,,,0,0
+77751,PC,Player Character,I'm not sure... perhaps I should check with Xanos.,확실하지 않은데... 자노스에게 확인해야 할 것 같아.,xp1_hen_dor,,,,,0,0
+77752,PC,Player Character,I think that would be a good idea.,그게 좋은 생각일 것 같아.,xp1_hen_dor,x0_d1_hen_hired,,,,0,0
+77753,PC,Player Character,Not now Dorna! I'll let you know when I want to talk.,지금은 안 돼 도르나! 얘기하고 싶을 때 알려줄게.,xp1_hen_dor,,,,,0,0
+77754,PC,Player Character,"I'm sorry, this isn't a good time. Can it wait?","미안해, 지금은 좋은 때가 아냐. 기다릴 수 있어?",xp1_hen_dor,,,,,0,0
+77755,PC,Player Character,I suppose I have the time right now. What is it?,지금 시간이 있는 것 같네. 뭔데?,xp1_hen_dor,x0_d1_hen_inter0,,,,0,0
+77756,PC,Player Character,Keep your opinion to yourself.,네 의견은 네가 가져.,xp1_hen_dor,,,,,0,0
+77757,PC,Player Character,Your tone says you don't like him.,네 어조를 들으니 그를 좋아하지 않는 것 같은데.,xp1_hen_dor,,,,,0,0
+77758,PC,Player Character,You know it from one overheard conversation?,우연히 들은 대화 하나로 알았어?,xp1_hen_dor,,,,,0,0
+77759,PC,Player Character,Is he a dwarf as well?,그도 드워프야?,xp1_hen_dor,,,,,0,0
+77760,PC,Player Character,Duergar? Explain what that is.,듀에가르? 그게 뭔지 설명해 줘.,xp1_hen_dor,,,,,0,0
+77761,PC,Player Character,Do you have any evidence that he has done something wrong?,그가 뭔가 잘못했다는 증거가 있어?,xp1_hen_dor,,,,,0,0
+77762,PC,Player Character,You surpise me with your intolerance.,네 편협함이 놀라워.,xp1_hen_dor,,,,,0,0
+77763,PC,Player Character,Warning noted. I'll be extra careful.,경고 알겠어. 특히 조심할게.,xp1_hen_dor,,,,,0,0
+77764,PC,Player Character,"If Drogan knew him, he can't be all bad.","드로건이 그를 알았다면, 완전히 나쁠 순 없어.",xp1_hen_dor,,,,,0,0
+77765,PC,Player Character,Pointless speculation. Let's just do what we have to.,쓸데없는 추측이야. 그냥 해야 할 일을 하자.,xp1_hen_dor,,,,,0,0
+77766,PC,Player Character,Wishing doesn't help. We have to take what we need.,바라기만 해서는 안 돼. 필요한 걸 가져가야 해.,xp1_hen_dor,,,,,0,0
+77767,PC,Player Character,As do I. We'll proceed carefully.,나도 그래. 조심스럽게 진행할게.,xp1_hen_dor,,,,,0,0
+77768,PC,Player Character,Leave if you want. My task is clear.,가고 싶으면 가. 내 임무는 분명해.,xp1_hen_dor,,,,,0,0
+77769,PC,Player Character,Don't bother worrying. Just follow my lead.,걱정하지 마. 그냥 내 뒤를 따라와.,xp1_hen_dor,,,,,0,0
+77770,PC,Player Character,"Your caution will serve us well, I think.",네 신중함이 우리에게 도움이 될 거야.,xp1_hen_dor,,,,,0,0
+77771,PC,Player Character,Bah. I'll use him like anyone else.,흥. 다른 사람들처럼 그를 이용할 거야.,xp1_hen_dor,,,,,0,0
+77772,PC,Player Character,You aren't curious at all? He seemed sincere.,전혀 궁금하지 않아? 진심인 것 같던데.,xp1_hen_dor,,,,,0,0
+77773,PC,Player Character,"I agree, but what choice do we have for now?","동의해, 하지만 지금 우리에게 무슨 선택이 있겠어?",xp1_hen_dor,,,,,0,0
+77774,PC,Player Character,Is that fear in your voice?,네 목소리에 두려움이 있는 거야?,xp1_hen_dor,,,,,0,0
+77775,PC,Player Character,I'm more worried how the dragon got his information.,용이 어떻게 정보를 얻었는지가 더 걱정돼.,xp1_hen_dor,,,,,0,0
+77776,PC,Player Character,Have you had any experience with dragons?,용과 경험이 있어?,xp1_hen_dor,,,,,0,0
+77777,PC,Player Character,That's the spirit. We'll strip the place bare.,그거야. 이곳을 완전히 털어버릴 거야.,xp1_hen_dor,,,,,0,0
+77778,PC,Player Character,We're not here to loot. Keep focused.,우리는 약탈하러 온 게 아냐. 집중해.,xp1_hen_dor,,,,,0,0
+77779,PC,Player Character,You have no trouble looting the dead?,죽은 자를 약탈하는 데 거리낌이 없어?,xp1_hen_dor,,,,,0,0
+77780,PC,Player Character,Do you harbor some kind of grudge against elves?,엘프에게 무슨 원한이 있어?,xp1_hen_dor,,,,,0,0
+77781,PC,Player Character,You'll make any excuse to cover your greed!,탐욕을 감추려고 무슨 핑계든 대는구나!,xp1_hen_dor,,,,,0,0
+77782,PC,Player Character,"And if you happen to profit, all the better.",그리고 이득을 보게 되면 더 좋고.,xp1_hen_dor,,,,,0,0
+77783,PC,Player Character,You make too many assumptions. I'll be watching you.,추측을 너무 많이 하네. 지켜볼게.,xp1_hen_dor,,,,,0,0
+77784,PC,Player Character,What's that got to do with it?,그게 이것과 무슨 상관이야?,xp1_hen_dor,,,,,0,0
+77785,PC,Player Character,Thank you for the insight. Be quiet now.,통찰 고마워. 이제 조용히 해.,xp1_hen_dor,,,,,0,0
+77786,PC,Player Character,And we missed it. Just like at Drogan's.,그리고 우리는 놓쳤어. 드로건의 집에서처럼.,xp1_hen_dor,,,,,0,0
+77787,PC,Player Character,I'd have fought hard too.,나도 열심히 싸웠을 거야.,xp1_hen_dor,,,,,0,0
+77788,PC,Player Character,They should have fought harder. Weaklings.,더 열심히 싸웠어야지. 약골들.,xp1_hen_dor,,,,,0,0
+77789,PC,Player Character,Maybe there's a few kobolds left we can help mop-up.,우리가 청소를 도울 수 있는 코볼트 몇 마리가 남아있을 거야.,xp1_hen_dor,,,,,0,0
+77790,PC,Player Character,Just like at the school. I'll make these kobolds pay.,학교에서처럼. 이 코볼트들에게 대가를 치르게 할 거야.,xp1_hen_dor,,,,,0,0
+77791,PC,Player Character,I like the way you think.,네 생각 방식이 마음에 들어.,xp1_hen_dor,,,,,0,0
+77792,PC,Player Character,"You're not just in this for the gold, are you?",금화 때문만은 아니지?,xp1_hen_dor,,,,,0,0
+77793,PC,Player Character,Suck it up and keep moving. Whining won't help.,참고 계속 가. 징징대도 소용없어.,xp1_hen_dor,,,,,0,0
+77794,PC,Player Character,He'll be fine. We'll make sure of it.,괜찮을 거야. 우리가 확실히 할게.,xp1_hen_dor,,,,,0,0
+77795,PC,Player Character,I don't know if he'll survive. There's a lot to do.,살아남을지 모르겠어. 할 일이 많아.,xp1_hen_dor,,,,,0,0
+77796,PC,Player Character,"And if we make a little gold along the way, all the better.",그리고 가는 길에 금화를 좀 벌면 더 좋고.,xp1_hen_dor,,,,,0,0
+77797,PC,Player Character,I also want to see these artifacts he kept hidden.,그가 숨겨둔 유물들도 보고 싶어.,xp1_hen_dor,,,,,0,0
+77798,PC,Player Character,That's all I care about. We'll help him.,그게 내가 신경 쓰는 전부야. 그를 도울 거야.,xp1_hen_dor,,,,,0,0
+77799,PC,Player Character,"I guess so. It's a strange feeling, isn't it?",그런 것 같아. 이상한 느낌이지?,xp1_hen_dor,,,,,0,0
+77800,PC,Player Character,Yes. Our purpose is clear.,그래. 우리의 목적은 분명해.,xp1_hen_dor,,,,,0,0
+77801,PC,Player Character,"What, are you going to whine about that too?","뭐, 그것에 대해서도 징징댈 거야?",xp1_hen_dor,,,,,0,0
+77802,PC,Player Character,I can't walk away from it. Not now.,거기서 떠날 수 없어. 지금은.,xp1_hen_dor,,,,,0,0
+77803,PC,Player Character,"If it was easy, we wouldn't need heroes.",쉬웠다면 영웅이 필요 없었겠지.,xp1_hen_dor,,,,,0,0
+77804,PC,Player Character,"If you have a problem with saving everyone, take a walk.","모두를 구하는 게 문제라면, 나가.",xp1_hen_dor,,,,,0,0
+77805,PC,Player Character,"Yes, yes, we've both grown. Could we get on with it?","그래, 그래, 우리 둘 다 성장했어. 이제 진행할까?",xp1_hen_dor,,,,,0,0
+77806,PC,Player Character,I don't think anyone planned for this.,아무도 이걸 계획하지 않았을 거야.,xp1_hen_dor,,,,,0,0
+77807,PC,Player Character,Like I have a choice.,내게 선택이 있는 것처럼.,xp1_hen_dor,,,,,0,0
+77808,PC,Player Character,I am.,그래.,xp1_hen_dor,,,,,0,0
+77809,PC,Player Character,He was a wise man. Could he have known?,현명한 분이었어. 알고 계셨을까?,xp1_hen_dor,,,,,0,0
+77810,PC,Player Character,"Get to the point, Dorna.","본론으로 들어가, 도르나.",xp1_hen_dor,,,,,0,0
+77811,PC,Player Character,"Considering where we are, I'd believe anything.","우리가 어디 있는지 생각하면, 뭐든 믿을 수 있어.",xp1_hen_dor,,,,,0,0
+77812,PC,Player Character,"I can feel it, too. It's not like an earthquake.",나도 느껴. 지진 같은 게 아냐.,xp1_hen_dor,,xp1_pcisdwarf,,,0,0
+77813,PC,Player Character,Move on. We're still in danger.,계속 가. 아직 위험해.,xp1_hen_dor,,,,,0,0
+77814,PC,Player Character,It was his time.,그의 때가 온 거야.,xp1_hen_dor,,,,,0,0
+77815,PC,Player Character,Well you don't have to yell at me about it.,그렇다고 나한테 소리칠 필요는 없잖아.,xp1_hen_dor,,,,,0,0
+77816,PC,Player Character,Drogan would not want us to despair.,드로건은 우리가 절망하길 원하지 않았을 거야.,xp1_hen_dor,,,,,0,0
+77817,PC,Player Character,He gave us a chance. We need to use it as best we can.,그는 우리에게 기회를 줬어. 최선을 다해 사용해야 해.,xp1_hen_dor,,,,,0,0
+77818,PC,Player Character,"Look, you're going to have to move on.","있잖아, 이제 앞으로 나아가야 해.",xp1_hen_dor,,,,,0,0
+77819,PC,Player Character,Our skill saved him once. He knew we were worthy.,우리의 실력이 그를 한 번 구했어. 그는 우리가 가치 있다는 걸 알았어.,xp1_hen_dor,,,,,0,0
+77820,PC,Player Character,You don't have any answers as a cleric?,성직자로서 답이 없어?,xp1_hen_dor,,,,,0,0
+77821,PC,Player Character,Just so long as you move on. We have to go.,그냥 앞으로 나아가. 가야 해.,xp1_hen_dor,,,,,0,0
+77822,PC,Player Character,Honor him while *you* live. That's all anyone can do.,*네*가 살아 있는 동안 그를 기려. 누구나 할 수 있는 건 그게 전부야.,xp1_hen_dor,,,,,0,0
+77823,PC,Player Character,Are you finished yet?,이제 끝났어?,xp1_hen_dor,,,,,0,0
+77824,PC,Player Character,Let's go. We can't delay any longer.,가자. 더 이상 지체할 수 없어.,xp1_hen_dor,,,,,0,0
+77825,PC,Player Character,Amen.,아멘.,xp1_hen_dor,,,,,0,0
+77826,PC,Player Character,I won't let it fall into the wrong hands.,잘못된 손에 넘어가게 두지 않을 거야.,xp1_hen_dor,,,,,0,0
+77827,PC,Player Character,There's got to be a way to use this to our benefit.,이걸 우리에게 유리하게 사용할 방법이 있을 거야.,xp1_hen_dor,,,,,0,0
+77828,PC,Player Character,Or just two.,아니면 둘이서.,xp1_hen_dor,,,,,0,0
+77829,PC,Player Character,Where's the fun in knowing all the answers?,모든 답을 아는 게 무슨 재미야?,xp1_hen_dor,,,,,0,0
+77830,PC,Player Character,Is your greed turning to fear?,네 탐욕이 두려움으로 변하고 있어?,xp1_hen_dor,,,,,0,0
+77831,PC,Player Character,Do you think his trust is misplaced?,그의 신뢰가 잘못 놓인 것 같아?,xp1_hen_dor,,,,,0,0
+77832,PC,Player Character,We'll do okay. Drogan knows it. ,잘 할 거야. 드로건이 알아.,xp1_hen_dor,,,,,0,0
+77833,PC,Player Character,"What, we look almost professional.","뭐, 거의 전문가처럼 보이는데.",xp1_hen_dor,,,,,0,0
+77834,PC,Player Character,"Yes, wasting time. Let's go.","그래, 시간 낭비야. 가자.",xp1_hen_dor,,,,,0,0
+77835,PC,Player Character,"It's strange, but I like it.","이상하지만, 마음에 들어.",xp1_hen_dor,,,,,0,0
+77836,PC,Player Character,Step up and prove yourself or go home.,나서서 증명하든지 집에 가든지.,xp1_hen_dor,,,,,0,0
+77837,PC,Player Character,So am I. Stay here for now.,나도 그래. 지금은 여기 있어.,xp1_hen_dor,x0_d1_hen_fired,,,,0,0
+77838,PC,Player Character,"No apology needed, but stay here a while to recover.","사과는 필요 없어, 하지만 회복하려면 여기 좀 있어.",xp1_hen_dor,x0_d1_hen_fired,,,,0,0
+77839,PC,Player Character,Be more careful or it'll happen again. Let's go.,"더 조심해, 아니면 또 일어날 거야. 가자.",xp1_hen_dor,x0_d1_hen_rejoin,,,,0,0
+77840,PC,Player Character,"No, I apologize for letting you fall. Welcome back.","아니, 널 넘어뜨린 건 미안해. 다시 돌아온 걸 환영해.",xp1_hen_dor,x0_d1_hen_rejoin,,,,0,0

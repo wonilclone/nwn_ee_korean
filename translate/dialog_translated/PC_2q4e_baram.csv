@@ -1,0 +1,117 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+28971,PC,Player Character,What kind of reward?,무슨 보상인데?,2q4e_baram,,[지능 보통],,,0,0
+28972,PC,Player Character,What reward you mean?,어떤 보상 말하는 거야?,2q4e_baram,,[지능 낮음],,,0,0
+28973,PC,Player Character,"Kurth made me the same offer, actually.","사실 커스가 똑같은 제안을 했어.",2q4e_baram,,2q4_baram01,,,0,0
+28974,PC,Player Character,"Kurth gaves same offer, too.","커스도 똑같은 제안했어.",2q4e_baram,,2q4_baram02,,,0,0
+28975,PC,Player Character,"Kurth is already dead, actually.","사실 커스는 이미 죽었어.",2q4e_baram,,2q4_baram03,,,0,0
+28976,PC,Player Character,"Kurth dead, already.","커스 이미 죽었어.",2q4e_baram,,2q4_baram04,,,0,0
+28977,PC,Player Character,Hah! I've no interest in working for you.,하! 당신 밑에서 일할 생각은 없어.,2q4e_baram,,[지능 보통],,,0,0
+28978,PC,Player Character,Me haves no interest in working for you.,나 너 밑에서 일하는 거 흥미 없어.,2q4e_baram,,[지능 낮음],,,0,0
+28979,PC,Player Character,"I want to ask you some questions, first.","먼저 몇 가지 물어보고 싶은데.",2q4e_baram,,[지능 보통],,,0,0
+28980,PC,Player Character,"Me wants to ask questions, first.","나 먼저 질문 있어.",2q4e_baram,,[지능 낮음],,,0,0
+28981,PC,Player Character,What about Londa's children? Do you have them?,론다의 아이들은 어떻게 된 거야? 당신이 데리고 있어?,2q4e_baram,,2q4_baram05,,,0,0
+28982,PC,Player Character,You haves Londa's kids?,너 론다 애들 가지고 있어?,2q4e_baram,,2q4_baram06,,,0,0
+28983,PC,Player Character,"<StartCheck>[Persuade]</Start> Perhaps. I want more gold, however.","<StartCheck>[설득]</Start> 아마도. 하지만 돈을 더 줘야 해.",2q4e_baram,2q4_perslim,2q4_perslimn,,,0,0
+28984,PC,Player Character,<StartCheck>[Persuade]</Start> Maybe. Me wants more gold.,"<StartCheck>[설득]</Start> 글쎄, 나 돈 더 줘야 해.",2q4e_baram,2q4_perslim,2q4_persliml,,,0,0
+28985,PC,Player Character,I'm interested.,관심 있어.,2q4e_baram,,[지능 보통],,,0,0
+28986,PC,Player Character,Me interested.,나 관심 있어.,2q4e_baram,,[지능 낮음],,,0,0
+28987,PC,Player Character,I want them released.,그들을 풀어줬으면 해.,2q4e_baram,,[지능 보통],,,0,0
+28988,PC,Player Character,Me wants them released.,나 그들 풀어주길 바라지.,2q4e_baram,,[지능 낮음],,,0,0
+28989,PC,Player Character,"I just wanted to know that, that's all.","그냥 그게 알고 싶었을 뿐이야.",2q4e_baram,,[지능 보통],,,0,0
+28990,PC,Player Character,"Me just wants to know, is all.","나 그냥 알고 싶었어.",2q4e_baram,,[지능 낮음],,,0,0
+28991,PC,Player Character,No thanks.,사양할게.,2q4e_baram,,[지능 보통],,,0,0
+28992,PC,Player Character,Nope. Thanks.,아니. 고맙지만.,2q4e_baram,,[지능 낮음],,,0,0
+28993,PC,Player Character,"I want Londa's children released, as well.","론다의 아이들도 풀어줘야 해.",2q4e_baram,,2q4_baram10,,,0,0
+28994,PC,Player Character,"Me wants Londa's kids released, too.","나 론다 애들도 풀어줬으면 해.",2q4e_baram,,2q4_baram11,,,0,0
+28995,PC,Player Character,"I want to get into the Host Tower, as well.","중심탑에도 들어갈 수 있어야 해.",2q4e_baram,,2q4_kurth12,,,0,0
+28996,PC,Player Character,"Me wants to get into wizard tower, too.","나 마법사 탑도 들어가고 싶어.",2q4e_baram,,2q4_kurth13,,,0,0
+28997,PC,Player Character,<StartCheck>[Persuade]</Start> I was hoping you could make me a better offer.,<StartCheck>[설득]</Start> 더 나은 제안을 해줬으면 하는데.,2q4e_baram,,[지능 보통],,,0,0
+28998,PC,Player Character,"<StartCheck>[Persuade]</Start> You makes me better offer, maybe?","<StartCheck>[설득]</Start> 너 더 좋은 제안해주면 안 돼?",2q4e_baram,,[지능 낮음],,,0,0
+28999,PC,Player Character,I want to ask you some questions.,몇 가지 물어보고 싶은데.,2q4e_baram,,[지능 보통],,,0,0
+29000,PC,Player Character,Me want to ask you questions.,나 너한테 질문 있어.,2q4e_baram,,[지능 낮음],,,0,0
+29001,PC,Player Character,I suppose I'll have to kill you.,당신을 죽여야 할 것 같군.,2q4e_baram,,[지능 보통],,,0,0
+29002,PC,Player Character,"Me have to kill you, me guessing.","나 너 죽여야 할 거 같아.",2q4e_baram,,[지능 낮음],,,0,0
+29003,PC,Player Character,Nothing at all.,아무것도 안 할 거야.,2q4e_baram,,[지능 보통],,,0,0
+29004,PC,Player Character,Me does nothing.,나 아무것도 안 해.,2q4e_baram,,[지능 낮음],,,0,0
+29005,PC,Player Character,1000 gold pieces.,금화 1000개.,2q4e_baram,,2q4_baram16,,,0,0
+29006,PC,Player Character,1250 gold pieces.,금화 1250개.,2q4e_baram,,2q4_baram17,,,0,0
+29007,PC,Player Character,<StartCheck>[Persuade]</Start> 1500 gold pieces.,<StartCheck>[설득]</Start> 금화 1500개.,2q4e_baram,,,,,0,0
+29008,PC,Player Character,Forget it. I'm not interested.,됐어. 관심 없어.,2q4e_baram,,[지능 보통],,,0,0
+29009,PC,Player Character,You forgets it. Me not interested.,그만해. 나 관심 없어.,2q4e_baram,,[지능 낮음],,,0,0
+29010,PC,Player Character,"I want to get into the Host Tower, as well.","중심탑에도 들어갈 수 있어야 해.",2q4e_baram,,2q4_kurth12,,,0,0
+29011,PC,Player Character,"Me wants to get into wizard tower, as well.","나 마법사 탑도 들어가고 싶어.",2q4e_baram,,2q4_kurth13,,,0,0
+29012,PC,Player Character,What about Londa's children? Do you have them?,론다의 아이들은 어떻게 돼? 당신이 데리고 있어?,2q4e_baram,,2q4_kurth05,,,0,0
+29013,PC,Player Character,What about Londa's kids? You haves them?,론다 애들은? 너 가지고 있어?,2q4e_baram,,2q4_kurth06,,,0,0
+29014,PC,Player Character,"I want Londa's children released, as well.","론다의 아이들도 풀어줘야 해.",2q4e_baram,,2q4_kurth10,,,0,0
+29015,PC,Player Character,"Me wants Londa's kids released, too.","나 론다 애들도 풀어줬으면 해.",2q4e_baram,,2q4_kurth11,,,0,0
+29016,PC,Player Character,I want them released.,그들을 풀어줬으면 해.,2q4e_baram,,[지능 보통],,,0,0
+29017,PC,Player Character,Me wants them released.,나 그들 풀어주길 바라지.,2q4e_baram,,[지능 낮음],,,0,0
+29018,PC,Player Character,"I just wanted to know that, that's all.","그냥 그게 알고 싶었을 뿐이야.",2q4e_baram,,[지능 보통],,,0,0
+29019,PC,Player Character,"Me just wants to know, is all.","나 그냥 알고 싶었어.",2q4e_baram,,[지능 낮음],,,0,0
+29020,PC,Player Character,I have some questions.,몇 가지 질문이 있는데.,2q4e_baram,,[지능 보통],,,0,0
+29021,PC,Player Character,Me has questions.,나 질문 있어.,2q4e_baram,,[지능 낮음],,,0,0
+29022,PC,Player Character,"I want to get into the Host Tower, as well.","중심탑에도 들어갈 수 있어야 해.",2q4e_baram,,2q4_kurth12,,,0,0
+29023,PC,Player Character,"Me wants to get into wizard tower, too.","나 마법사 탑도 들어가고 싶어.",2q4e_baram,,2q4_kurth13,,,0,0
+29024,PC,Player Character,What about Londa's children? Do you have them?,론다의 아이들은 어떻게 된 거야? 당신이 데리고 있어?,2q4e_baram,,2q4_baram05,,,0,0
+29025,PC,Player Character,What about Londa's kids? You haves them?,론다 애들은? 너 가지고 있어?,2q4e_baram,,2q4_baram06,,,0,0
+29026,PC,Player Character,"I want Londa's children released, as well.","론다의 아이들도 풀어줘야 해.",2q4e_baram,,2q4_baram10,,,0,0
+29027,PC,Player Character,Me wants Londa's kids released.,나 론다 애들 풀어줬으면 해.,2q4e_baram,,2q4_baram11,,,0,0
+29028,PC,Player Character,I've changed my mind.,마음이 바뀌었어.,2q4e_baram,,[지능 보통],,,0,0
+29029,PC,Player Character,"Me change mind, not work for you.","나 마음 바꿨어, 너 위해 안 일해.",2q4e_baram,,[지능 낮음],,,0,0
+29030,PC,Player Character,I'll go now.,이제 갈게.,2q4e_baram,,[지능 보통],,,0,0
+29031,PC,Player Character,Me go now.,나 이제 가.,2q4e_baram,,[지능 낮음],,,0,0
+29032,PC,Player Character,I want them released.,그들을 풀어줬으면 해.,2q4e_baram,,[지능 보통],,,0,0
+29033,PC,Player Character,Me wants them released.,나 그들 풀어주길 바라지.,2q4e_baram,,[지능 낮음],,,0,0
+29034,PC,Player Character,"I just wanted to know, that's all.","그냥 알고 싶었을 뿐이야.",2q4e_baram,,[지능 보통],,,0,0
+29035,PC,Player Character,"Me just wants to know, is all.","나 그냥 알고 싶었어.",2q4e_baram,,[지능 낮음],,,0,0
+29036,PC,Player Character,What do you hope to get out of all this?,이 모든 걸로 뭘 얻으려는 거야?,2q4e_baram,,[지능 보통],,,0,0
+29037,PC,Player Character,What you thinks you gets if you win?,너 이기면 뭘 얻는다고 생각해?,2q4e_baram,,[지능 낮음],,,0,0
+29038,PC,Player Character,Do you know what's going on in the Host Tower?,중심탑에서 무슨 일이 벌어지고 있는지 알아?,2q4e_baram,,2q4_kurth12,,,0,0
+29039,PC,Player Character,You know what going on in wizard tower?,너 마법사 탑에서 무슨 일 나는지 알아?,2q4e_baram,,2q4_kurth13,,,0,0
+29040,PC,Player Character,Where do I find Kurth?,커스는 어디서 찾을 수 있어?,2q4e_baram,,[지능 보통],,,0,0
+29041,PC,Player Character,Where me finds Kurth?,나 커스 어디서 찾아?,2q4e_baram,,[지능 낮음],,,0,0
+29042,PC,Player Character,What do you know about Kurth's defenses?,커스의 방어 태세에 대해 뭘 알고 있어?,2q4e_baram,,[지능 보통],,,0,0
+29043,PC,Player Character,What you knows 'bout Kurth defenses?,너 커스 방어에 대해 뭘 알아?,2q4e_baram,,[지능 낮음],,,0,0
+29044,PC,Player Character,I want to talk about something else.,다른 얘기를 하고 싶은데.,2q4e_baram,,[지능 보통],,,0,0
+29045,PC,Player Character,Me wants to talk 'bout something else.,나 다른 거 얘기하고 싶어.,2q4e_baram,,[지능 낮음],,,0,0
+29046,PC,Player Character,Why would Luskan need a war leader?,러스칸에 왜 전쟁 지도자가 필요한 거야?,2q4e_baram,,[지능 보통],,,0,0
+29047,PC,Player Character,Why Luskan needs war leader?,러스칸 왜 전쟁 지도자 필요해?,2q4e_baram,,[지능 낮음],,,0,0
+29048,PC,Player Character,"Not yet, no.","아직 아니야.",2q4e_baram,,[지능 보통],,,0,0
+29049,PC,Player Character,"No news yet, no.","소식 없어, 아직.",2q4e_baram,,[지능 낮음],,,0,0
+29050,PC,Player Character,I do. Kurth is dead.,그래. 커스는 죽었어.,2q4e_baram,,2q4_baram03,,,0,0
+29051,PC,Player Character,"Yup. Kurth dead, now.","응. 커스 죽었어.",2q4e_baram,,2q4_baram04,,,0,0
+29052,PC,Player Character,"Actually, Kurth made me a very good counter-offer...","사실 커스가 아주 좋은 역제안을 했거든...",2q4e_baram,,2q4_baram25,,,0,0
+29053,PC,Player Character,Uh-huh. Kurth gaves me good counter-offer...,어. 커스가 좋은 역제안했어...,2q4e_baram,,2q4_baram26,,,0,0
+29054,PC,Player Character,Just to let you know why I'm going to kill you.,내가 왜 당신을 죽이려는지 알려주려고.,2q4e_baram,,[지능 보통],,,0,0
+29055,PC,Player Character,Just so you knows why me killing you.,나 왜 너 죽이는지 알려 주려고.,2q4e_baram,,[지능 낮음],,,0,0
+29056,PC,Player Character,<StartCheck>[Persuade]</Start> I thought maybe you'd sweeten your offer... ,<StartCheck>[설득]</Start> 제안을 좀 더 달콤하게 해주지 않을까 해서...,2q4e_baram,,[지능 보통],,,0,0
+29057,PC,Player Character,<StartCheck>[Persuade]</Start> Me thinking you could makes better offer... ,<StartCheck>[설득]</Start> 나 네가 더 좋은 제안할 수도 있을까 해서...,2q4e_baram,,[지능 낮음],,,0,0
+29058,PC,Player Character,1500 gold pieces.,금화 1500개.,2q4e_baram,,2q4_baram30,,,0,0
+29059,PC,Player Character,2000 gold pieces.,금화 2000개.,2q4e_baram,,2q4_baram31,,,0,0
+29060,PC,Player Character,<StartCheck>[Persuade]</Start> 2500 gold pieces.,<StartCheck>[설득]</Start> 금화 2500개.,2q4e_baram,,,,,0,0
+29061,PC,Player Character,It doesn't matter. I'm going to kill you anyway.,상관없어. 어차피 당신을 죽일 거니까.,2q4e_baram,,[지능 보통],,,0,0
+29062,PC,Player Character,It not matter. Me kill you anyway.,중요 안 해. 어차피 죽일 거야.,2q4e_baram,,[지능 낮음],,,0,0
+29063,PC,Player Character,"Yes, I have his head here.","그래, 여기 그의 머리가 있어.",2q4e_baram,,2q4_baram34,,,0,0
+29064,PC,Player Character,Me has head here.,나 여기 머리 가지고 있어.,2q4e_baram,,2q4_baram35,,,0,0
+29065,PC,Player Character,"Err... no, I don't.","어... 아니, 없어.",2q4e_baram,,[지능 보통],,,0,0
+29066,PC,Player Character,"Uhhh... no, me not haves head.","으... 아니, 나 머리 없어.",2q4e_baram,,[지능 낮음],,,0,0
+29067,PC,Player Character,What about Londa's children?,론다의 아이들은 어떻게 돼?,2q4e_baram,,2q4_baram37,,,0,0
+29068,PC,Player Character,What 'bout Londa's kids?,론다 애들은?,2q4e_baram,,2q4_baram38,,,0,0
+29069,PC,Player Character,"I want Londa's children released, as well.","론다의 아이들도 풀어줘야 해.",2q4e_baram,,2q4_baram10,,,0,0
+29070,PC,Player Character,"Me wants Londa's kids released, too.","나 론다 애들도 풀어줬으면 해.",2q4e_baram,,2q4_baram10,,,0,0
+29071,PC,Player Character,What of Londa's children? Do you have them?,론다의 아이들은? 당신이 데리고 있어?,2q4e_baram,,2q4_baram05,,,0,0
+29072,PC,Player Character,What of Londa's kids? You haves them?,론다 애들은? 너 가지고 있어?,2q4e_baram,,2q4_baram06,,,0,0
+29073,PC,Player Character,"<StartCheck>[Persuade]</Start> I think I deserve a larger reward, don't you?","<StartCheck>[설득]</Start> 더 큰 보상을 받을 자격이 있다고 생각하는데, 안 그래?",2q4e_baram,,[지능 보통],,,0,0
+29074,PC,Player Character,<StartCheck>[Persuade]</Start> Me thinks me deserves bigger reward.,<StartCheck>[설득]</Start> 나 더 큰 보상 받을 자격 있다고 생각해.,2q4e_baram,,[지능 낮음],,,0,0
+29075,PC,Player Character,That's it? We're done?,그게 다야? 끝난 거야?,2q4e_baram,,[지능 보통],,,0,0
+29076,PC,Player Character,That it? We all done?,그게 다야? 우리 다 끝?,2q4e_baram,,[지능 낮음],,,0,0
+29077,PC,Player Character,"Good. Time to kill you, now.","좋아. 이제 당신을 죽일 시간이야.",2q4e_baram,,[지능 보통],,,0,0
+29078,PC,Player Character,"Is good. You dies, now.","좋아. 이제 너 죽어.",2q4e_baram,,[지능 낮음],,,0,0
+29079,PC,Player Character,Fine. But this isn't over.,좋아. 하지만 이건 끝난 게 아냐.,2q4e_baram,,[지능 보통],,,0,0
+29080,PC,Player Character,This not over!,이거 안 끝났어!,2q4e_baram,,[지능 낮음],,,0,0
+29081,PC,Player Character,"I killed one High Captain, Baram... I can just as easily kill another.","대선장 하나를 죽였어, 바람... 또 하나 죽이는 것도 어렵지 않아.",2q4e_baram,,[지능 보통],,,0,0
+29082,PC,Player Character,Me kills one High Captain... easy to kills two.,나 대선장 하나 죽였어... 둘 죽이는 것도 쉬워.,2q4e_baram,,[지능 낮음],,,0,0
+29083,PC,Player Character,What do I care? I have other plans.,내가 왜 신경 써? 다른 계획이 있거든.,2q4e_baram,,[지능 보통],,,0,0
+29084,PC,Player Character,Me not care. Gots other stuff to do.,나 신경 안 써. 할 거 다른 거 있어.,2q4e_baram,,[지능 낮음],,,0,0
+29085,PC,Player Character,That's horrible! You'll never get away with this!,끔찍해! 절대 무사하지 못할 거야!,2q4e_baram,,[지능 보통],,,0,0
+29086,PC,Player Character,That horrid! You nots get away with it!,끔찍해! 너 못 빠져나가!,2q4e_baram,,[지능 낮음],,,0,0

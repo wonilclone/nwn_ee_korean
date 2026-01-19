@@ -1,0 +1,50 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+22324,Dialog,INFO,"Well met, friend. Fine night in the inn, eh. Right busy, it is.","반갑소, 친구. 선술집에서 좋은 밤이군. 꽤 바쁘네.",M1Q4D05INFO,,,,,0,0
+22325,Dialog,INFO,Good on you. See you around.,잘 가시오. 또 보자고.,M1Q4D05INFO,,,,,0,0
+22326,Dialog,INFO,All right then. Farewell.,그럼 됐소. 안녕히.,M1Q4D05INFO,,,,,0,0
+22327,Dialog,INFO,Good riddance to bad rubbish.,쓰레기가 알아서 사라지니 좋군.,M1Q4D05INFO,,,,,0,0
+22328,Dialog,INFO,Can you understand my answers? You seem a bit slow.,내 대답을 이해할 수 있소? 좀 느린 것 같은데.,M1Q4D05INFO,,,,,0,0
+22329,Dialog,INFO,"I've the time, sure enough. What do you want to know?","시간은 있소. 뭘 알고 싶소?",M1Q4D05INFO,,,,,0,0
+22330,Dialog,INFO,"Eh, if you make it quick.","에, 빨리만 하면.",M1Q4D05INFO,,,,,0,0
+22331,Dialog,INFO,"Bah, make it quick and get lost.","쳇, 빨리하고 꺼져.",M1Q4D05INFO,,,,,0,0
+22332,Dialog,INFO,"Well, just look around you. Bloodsailors looking all rough, some auction thing taking too long, and damned if I have seen any Bloodsailor brass here all night.","글쎄, 주변을 둘러보시오. 핏빛 항해자들이 험악해 보이고, 경매인지 뭔지가 너무 오래 걸리고, 밤새 핏빛 항해자 간부를 한 명도 못 봤소.",M1Q4D05INFO,,,,,0,0
+22333,Dialog,INFO,"Their business ain't my concern, especially their infighting... I really shouldn't say any more. I don't swim well, especially in a sack filled with rocks.","그들 일은 내 관심사가 아니오, 특히 내분은... 더 말해선 안 되겠소. 난 수영을 잘 못하거든, 특히 돌이 가득 찬 자루에서는.",M1Q4D05INFO,,,,,0,0
+22334,Dialog,INFO,"Nobody seems to know what was going to happen here. Vengaul Bloodsail himself was organizing it, but he's late. It may be cancelled.","여기서 뭐가 일어날지 아는 사람이 없는 것 같소. 벵골 블러드세일 본인이 주관하는 건데, 늦고 있소. 취소될지도 모르오.",M1Q4D05INFO,,,,,0,0
+22335,Dialog,INFO,"Well, concentrate hard and maybe you'll remember what I say.","글쎄, 열심히 집중하면 내 말을 기억할 수 있을지도.",M1Q4D05INFO,,,,,0,0
+22336,Dialog,INFO,<StartCheck>[Success]</Start> I suppose you're right. They are probably too busy to worry about me telling tales anyway.,<StartCheck>[성공]</Start> 당신 말이 맞는 것 같소. 어차피 그들은 내가 이야기하는 걸 걱정할 만큼 한가하지 않을 거요.,M1Q4D05INFO,,,,,0,0
+22337,Dialog,INFO,"<StartCheck>[Failure]</Start> Sorry, but I'm just not getting involved. Callik wants to challenge Vengaul, that's his business, not mine and not yours.","<StartCheck>[실패]</Start> 미안하지만, 끼어들고 싶지 않소. 칼릭이 벵골에게 도전하고 싶다면, 그건 그 사람 일이지, 내 일도 당신 일도 아니오.",M1Q4D05INFO,,,,,0,0
+22338,Dialog,INFO,"What do you want? Come on now, I've got time if you're quick.","뭘 원하시오? 자, 빨리만 하면 시간 있소.",M1Q4D05INFO,,,,,0,0
+22339,Dialog,INFO,"Go on, why are you bothering me? I've no interest in you.","가시오, 왜 귀찮게 하는 거요? 당신한테 관심 없소.",M1Q4D05INFO,,,,,0,0
+22340,Dialog,INFO,"No, and I don't care to. I ain't even thinking about it. Of course, I guess I showed up here... well, we're all here for strange reasons.","아니, 알고 싶지도 않소. 생각도 안 하고 있소. 물론, 나도 여기 왔긴 했지만... 뭐, 다들 이상한 이유로 여기 온 거겠지.",M1Q4D05INFO,,,,,0,0
+22341,Dialog,INFO,"Ain't much anywhere now. Plague shut most things down. I suppose you can ask, but there ain't much I can tell you.","지금은 어디든 별거 없소. 역병 때문에 대부분 문 닫았소. 물어볼 수야 있겠지만, 말해줄 게 별로 없소.",M1Q4D05INFO,,,,,0,0
+22342,Dialog,INFO,Will my answers help? You sound like you would get lost a lot.,내 대답이 도움이 될까? 자주 길을 잃을 것 같은데.,M1Q4D05INFO,,,,,0,0
+22343,Dialog,INFO,"The Golden Apple? A fine little tavern. Not much happens there, though. The Seedy Tavern is where you want to be for action.","황금 사과? 괜찮은 작은 선술집이오. 하지만 거기선 별일 없소. 뭔가 있길 원하면 허름한 선술집이 맞소.",M1Q4D05INFO,,,,,0,0
+22344,Dialog,INFO,"Eh, it's the only place that's doing any business now. Lots of this and that, though most of the black market stuff there ends up here. ","에, 지금 영업하는 유일한 곳이오. 이것저것 많은데, 거기 암시장 물건 대부분은 결국 여기로 오지.",M1Q4D05INFO,,,,,0,0
+22345,Dialog,INFO,"Eh, you'll be stuck shopping here or the Twenty in a Quiver. Most other places are gone because of the plague.","에, 여기 아니면 '스무발 화살통'에서 쇼핑할 수밖에 없을 거요. 다른 곳 대부분은 역병 때문에 없어졌소.",M1Q4D05INFO,,,,,0,0
+22346,Dialog,INFO,"This place? This is where everything happens. It's where they usually set up the black market, but things are a little strange right now.","여기요? 모든 일이 벌어지는 곳이오. 보통 암시장이 열리는 곳인데, 지금은 좀 이상하오.",M1Q4D05INFO,,,,,0,0
+22347,Dialog,INFO,"There's still the Golden Apple and the Twenty in a Quiver. A couple other places, I guess. I just stay here at the Seedy, myself.","아직 황금 사과랑 '스무발 화살통'가 있소. 다른 곳도 몇 군데 있을 거요. 난 그냥 여기 허름한 선술집에 있소.",M1Q4D05INFO,,,,,0,0
+22348,Dialog,INFO,All right. Where did you want to ask about?,알겠소. 어디에 대해 물어보고 싶소?,M1Q4D05INFO,,,,,0,0
+22349,Dialog,INFO,The Golden Apple is in the northwest of the district if you are interested. That puts it southwest of here.,황금 사과는 관심 있으면 지구 북서쪽에 있소. 여기서 남서쪽이겠군.,M1Q4D05INFO,,,,,0,0
+22350,Dialog,INFO,"It's a little southeast of the Seedy Tavern here. Kinda middle northeast of the district, I guess.","여기 허름한 선술집에서 약간 남동쪽이오. 지구의 중간 북동쪽쯤 되려나.",M1Q4D05INFO,,,,,0,0
+22351,Dialog,INFO,You'll have to go to the City Core if you are looking for things like temples and mage towers.,신전이나 마법사 탑 같은 걸 찾으면 도시 중심부로 가야 하오.,M1Q4D05INFO,,,,,0,0
+22352,Dialog,INFO,"Well, I suppose there's not really any harm in me talking with you. I can just lay low a while if I get myself in trouble.","글쎄, 당신과 얘기해도 해될 건 없을 것 같소. 문제가 생기면 잠시 숨어 있으면 되지.",M1Q4D05INFO,,,,,0,0
+22353,Dialog,INFO,"Ugh... no thank you, madam, I really am not interested in... discussing this with you. If Callik wants to challenge Vengaul, that's his business.","으... 괜찮습니다, 아가씨, 정말 이것에 대해... 얘기하고 싶지 않소. 칼릭이 벵골에게 도전하고 싶다면, 그건 그 사람 일이오.",M1Q4D05INFO,,,,,0,0
+22354,Dialog,INFO,I suppose I could say a few things. I'll just lay low for a while after so I don't get in trouble.,몇 가지 말할 수 있을 것 같소. 나중에 문제 안 생기게 잠시 숨어 있으면 되지.,M1Q4D05INFO,,,,,0,0
+22355,Dialog,INFO,"You are a pretty one, aren't you. Not the brightest star in the sky, but still a sparkler. I'll talk with you a while.","꽤 예쁘군, 그렇지. 하늘에서 가장 밝은 별은 아니지만, 그래도 반짝이는군. 잠깐 얘기하지.",M1Q4D05INFO,,,,,0,0
+22356,Dialog,INFO,"The Bloodsailors weren't always a rough group to deal with, but things have changed. Callik isn't letting Vengaul's decisions go unchallenged anymore.","핏빛 항해자가 항상 다루기 힘든 집단은 아니었소, 하지만 상황이 바뀌었소. 칼릭이 더 이상 벵골의 결정을 그냥 넘기지 않고 있소.",M1Q4D05INFO,,,,,0,0
+22357,Dialog,INFO,"I heard that there was a plague cure for sale. Rumors were all over, and I think some people were afraid the guards would hear.","역병 치료제가 팔린다고 들었소. 소문이 퍼졌고, 경비병들이 들을까 봐 무서워하는 사람들도 있었소.",M1Q4D05INFO,,,,,0,0
+22358,Dialog,INFO,I don't know how they didn't. It was like Vengaul wanted them to know. He's flashy. A risk taker. Some of his men don't like it.,어떻게 안 들었는지 모르겠소. 벵골이 알리고 싶어한 것 같았소. 과시하기 좋아하거든. 위험을 감수하는 자요. 부하들 중 일부는 그게 마음에 안 들어하오.,M1Q4D05INFO,,,,,0,0
+22359,Dialog,INFO,All of his plans usually involve getting as much notice as possible. He's more concerned with image than profit. That doesn't please some of his men.,그의 계획은 보통 최대한 주목받는 걸 포함하오. 이익보다 이미지에 더 신경 쓰거든. 그게 부하들 일부를 불쾌하게 하오.,M1Q4D05INFO,,,,,0,0
+22360,Dialog,INFO,"Ah, the well-loved leader and founder of the Bloodsailors. Well, not so well-loved these days, I hear. See, he likes to show off.","아, 핏빛 항해자의 사랑받는 지도자이자 창립자요. 글쎄, 요즘은 그리 사랑받지 못한다고 들었소. 보시오, 과시하기 좋아하거든.",M1Q4D05INFO,,,,,0,0
+22361,Dialog,INFO,"I hear he's been getting some trouble from his officers. They want to be a little more rough, and a lot less flashy.","부하 간부들한테 좀 문제가 생겼다고 들었소. 그들은 좀 더 거칠고, 훨씬 덜 화려하길 원하오.",M1Q4D05INFO,,,,,0,0
+22362,Dialog,INFO,"Callik... well, Callik is not a nice man. He's much more concerned with gold than he is with any show of bravado or style.","칼릭은... 글쎄, 칼릭은 좋은 사람이 아니오. 허세나 스타일보다 금화에 훨씬 더 관심이 많소.",M1Q4D05INFO,,,,,0,0
+22363,Dialog,INFO,"He's very efficient getting gold out of his victims, but he's a hard man to work for. If not for Vengaul, he'd be even worse.","피해자들에게서 금화를 뽑아내는 데 아주 효율적이지만, 모시기 힘든 사람이오. 벵골이 아니었으면 더 심했을 거요.",M1Q4D05INFO,,,,,0,0
+22364,Dialog,INFO,"Some of the Bloodsailors prefer working for him, and I think it's getting to the point where he's going to challenge Vengaul.","핏빛 항해자 중 일부는 그 밑에서 일하는 걸 선호하고, 벵골에게 도전할 지경에 이른 것 같소.",M1Q4D05INFO,,,,,0,0
+22365,Dialog,INFO,"Oh, the Vengaul I know likes confrontation. He wouldn't run from a fight. I think whatever was supposed to happen up here has been changed.","오, 내가 아는 벵골은 대결을 좋아하오. 싸움에서 도망치지 않을 거요. 여기서 일어나기로 한 일이 바뀐 것 같소.",M1Q4D05INFO,,,,,0,0
+22366,Dialog,INFO,"Ain't my business, like I said, but I saw some of Callik's boys going downstairs, and now the basement is locked up tight.","말했듯이 내 일이 아니지만, 칼릭 부하들이 아래층으로 가는 걸 봤고, 지금 지하실은 꽁꽁 잠겨 있소.",M1Q4D05INFO,,,,,0,0
+22367,Dialog,INFO, Something is going on... I just don't know what.,뭔가 벌어지고 있소... 뭔지 모르겠지만.,M1Q4D05INFO,,,,,0,0
+22368,Dialog,INFO,Callik is pretty powerful right now. A lot of the Bloodsailors wouldn't mind making a little more profit instead of playing for show.,칼릭은 지금 꽤 강력하오. 핏빛 항해자 상당수가 쇼하는 대신 좀 더 이익을 내는 것에 반대하지 않을 거요.,M1Q4D05INFO,,,,,0,0
+22369,Dialog,INFO,"In fact, Callik has taken over running the black market. He's one of the few guys I've seen with a key to get downstairs.","사실, 칼릭이 암시장 운영을 맡았소. 아래층으로 내려가는 열쇠를 가진 몇 안 되는 사람 중 하나요.",M1Q4D05INFO,,,,,0,0
+22370,Dialog,INFO,I thought he'd be here. Not like him to sit in his house while something is happening. He'd really like to embarrass Vengaul.,그가 여기 있을 줄 알았소. 뭔가 벌어지는데 집에 앉아 있을 사람이 아니거든. 벵골을 망신 주고 싶어할 거요.,M1Q4D05INFO,,,,,0,0
+22371,Dialog,INFO,"Hmm? I think it was in the far northeast corner of the district. I wouldn't go poking around there, though. Not unless you want trouble.","흠? 지구의 북동쪽 끝 구석에 있었던 것 같소. 하지만 거기 기웃거리진 않겠소. 문제 원하지 않는 한.",M1Q4D05INFO,,,,,0,0
+66906,Dialog,INFO,"Ah, I got no reason to talk. No more auction, no more fighting. Nothing happening now, so you might as well leave me be.","아, 말할 이유가 없소. 경매도 없고, 싸움도 없고. 지금은 아무 일도 없으니, 날 내버려두시오.",M1Q4D05INFO,,,,,0,0

@@ -1,0 +1,83 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+76474,PC,Player Character,Done.,완료.,x0_skill_ctrap,,,,,0,0
+76475,PC,Player Character,Make an acid trap.,산성 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_e,x0_skctrap_con_d,,,0,0
+76476,PC,Player Character,Make a sonic trap.,음파 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_d,x0_skctrap_con_c,,,0,0
+76477,PC,Player Character,Make a negative trap.,음에너지 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_c,x0_skctrap_con_b,,,0,0
+76478,PC,Player Character,Make a frost trap.,냉기 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_b,x0_skctrap_con_a,,,0,0
+76479,PC,Player Character,Make a gas trap.,가스 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_a,x0_skctrap_con_9,,,0,0
+76480,PC,Player Character,Make a holy trap.,신성 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_9,x0_skctrap_con_8,,,0,0
+76481,PC,Player Character,Make a spike trap.,가시 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_8,x0_skctrap_con_7,,,0,0
+76482,PC,Player Character,Make a tangle trap.,얽힘 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_7,x0_skctrap_con_6,,,0,0
+76483,PC,Player Character,Make an electrical trap.,전기 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_6,x0_skctrap_con_5,,,0,0
+76484,PC,Player Character,Make a fire trap.,화염 함정 만들기.,x0_skill_ctrap,x0_skctrap_act_1,x0_skctrap_con_1,,,0,0
+76485,PC,Player Character,Leave.,나가기.,x0_skill_ctrap,,,,,0,0
+76486,PC,Player Character,Make a deadly trap (DC = <CUSTOM2004>).,치명적인 함정 만들기 (DC = <CUSTOM2004>).,x0_skill_ctrap,x0_skctrap_act_5,x0_skctrap_con_4,,,0,0
+76487,PC,Player Character,Make a strong trap (DC = <CUSTOM2003>).,강력한 함정 만들기 (DC = <CUSTOM2003>).,x0_skill_ctrap,x0_skctrap_act_4,x0_skctrap_con_3,,,0,0
+76488,PC,Player Character,Make an average trap (DC = <CUSTOM2002>).,보통 함정 만들기 (DC = <CUSTOM2002>).,x0_skill_ctrap,x0_skctrap_act_3,x0_skctrap_con_2,,,0,0
+76489,PC,Player Character,Make a minor trap (DC = <CUSTOM2001>).,약한 함정 만들기 (DC = <CUSTOM2001>).,x0_skill_ctrap,x0_skctrap_act_2,,,,0,0
+76490,PC,Player Character,<StartAction>Examine Craft Trap book of details.</Start>,<StartAction>함정 제작 상세 책 살펴보기.</Start>,x0_skill_ctrap,,,,,0,0
+76491,PC,Player Character,ACID TRAP: Acid flask.,산성 함정: 산성 플라스크.,x0_skill_ctrap,,,,,0,0
+76492,PC,Player Character,SONIC TRAP: Thunderstone.,음파 함정: 천둥석.,x0_skill_ctrap,,,,,0,0
+76493,PC,Player Character,NEGATIVE TRAP: Skeleton's knuckles.,음에너지 함정: 해골의 손가락뼈.,x0_skill_ctrap,,,,,0,0
+76494,PC,Player Character,FROST TRAP: Coldstone.,냉기 함정: 냉기석.,x0_skill_ctrap,,,,,0,0
+76495,PC,Player Character,GAS TRAP: Choking powder.,가스 함정: 질식 가루.,x0_skill_ctrap,,,,,0,0
+76496,PC,Player Character,HOLY TRAP: Holy water.,신성 함정: 성수.,x0_skill_ctrap,,,,,0,0
+76497,PC,Player Character,SPIKE TRAP: Caltrops,가시 함정: 마름쇠,x0_skill_ctrap,,,,,0,0
+76498,PC,Player Character,TANGLE TRAP: Tanglefoot Bag.,얽힘 함정: 발엉킴 자루.,x0_skill_ctrap,,,,,0,0
+76499,PC,Player Character,ELECTRICAL TRAP: Quartz Crystal.,전기 함정: 석영 수정.,x0_skill_ctrap,,,,,0,0
+76500,PC,Player Character,FIRE TRAP: Alchemist's Fire,화염 함정: 연금술사의 불,x0_skill_ctrap,,,,,0,0
+86917,PC,Player Character,<StartAction>Craft Trap:</Start> Create Trap Kit ,<StartAction>함정 제작:</Start> 함정 도구 만들기 ,x0_skill_ctrap,x2_im_savecamera,,,,0,0
+86918,PC,Player Character,<StartAction>Craft Weapon:</Start> Change weapon appearance.,<StartAction>무기 제작:</Start> 무기 외형 변경.,x0_skill_ctrap,x2_im_start_w,x2_im_can_cw,,,0,0
+86919,PC,Player Character,<StartCheck>Abort</Start>,<StartCheck>취소</Start>,x0_skill_ctrap,x2_im_cancel,,,,0,0
+86920,PC,Player Character,<StartAction>Modify Weapon Appearance.</Start>,<StartAction>무기 외형 수정.</Start>,x0_skill_ctrap,x2_im_getcostdc,x2_im_can_cw,,,0,0
+86921,PC,Player Character,<StartCheck>Make the changes</Start>,<StartCheck>변경 적용</Start>,x0_skill_ctrap,,x2_im_getchanged,,,0,0
+86922,PC,Player Character,<StartAction>Abort crafting</Start>,<StartAction>제작 취소</Start>,x0_skill_ctrap,x2_im_cancel,,,,0,0
+86923,PC,Player Character,"<StartAction>No, do further modification</Start>","<StartAction>아니요, 추가 수정하기</Start>",x0_skill_ctrap,,,,,0,0
+86924,PC,Player Character,"<StartAction>Yes, start crafting</Start>","<StartAction>네, 제작 시작</Start>",x0_skill_ctrap,x2_im_finished,,,,0,0
+86925,PC,Player Character,<StartAction>Change Bottom</Start>,<StartAction>하단 변경</Start>,x0_skill_ctrap,x2_im_setwbottom,,,,0,0
+86926,PC,Player Character,<StartAction>Change Middle</Start>,<StartAction>중단 변경</Start>,x0_skill_ctrap,x2_im_setwmiddle,,,,0,0
+86927,PC,Player Character,<StartAction>Change Top</Start>,<StartAction>상단 변경</Start>,x0_skill_ctrap,x2_im_setwtop,,,,0,0
+86928,PC,Player Character,<StartAction>Back</Start>,<StartAction>뒤로</Start>,x0_skill_ctrap,x2_im_getcostdc,,,,0,0
+86929,PC,Player Character,<StartAction>Show previous style</Start>,<StartAction>이전 스타일 보기</Start>,x0_skill_ctrap,x2_im_prevpart,,,,0,0
+86930,PC,Player Character,<StartAction>Show next style</Start>,<StartAction>다음 스타일 보기</Start>,x0_skill_ctrap,x2_im_nextpart,,,,0,0
+86931,PC,Player Character,"<StartAction>Craft Armor:</Start> Add, modify or remove a robe","<StartAction>갑옷 제작:</Start> 로브 추가, 수정 또는 제거",x0_skill_ctrap,x2_im_start_ar,x2_im_can_ca,,,0,0
+86932,PC,Player Character,<StartCheck>Make the changes.</Start>,<StartCheck>변경 적용.</Start>,x0_skill_ctrap,x2_im_finished,x2_im_getchanged,,,0,0
+86933,PC,Player Character,Remove current robe from armor.,갑옷에서 현재 로브 제거.,x0_skill_ctrap,x2_im_setrobe_0,x2_im_hasrobe,,,0,0
+86934,PC,Player Character,"Add a ""wizard's robe"".","""마법사 로브"" 추가.",x0_skill_ctrap,x2_im_setrobe_4,,,,0,0
+86935,PC,Player Character,"Add a ""sleeveless wizard's robe"".","""민소매 마법사 로브"" 추가.",x0_skill_ctrap,x2_im_setrobe_3,,,,0,0
+86936,PC,Player Character,"Add a  ""formal robe"".","""정장 로브"" 추가.",x0_skill_ctrap,x2_im_setrobe_2,,,,0,0
+86937,PC,Player Character,"Add a ""casual robe"".","""평상복 로브"" 추가.",x0_skill_ctrap,x2_im_setrobe_1,,,,0,0
+86938,PC,Player Character,<StartAction>Craft Armor:</Start> Change armor appearance,<StartAction>갑옷 제작:</Start> 갑옷 외형 변경,x0_skill_ctrap,x2_im_start_a,x2_im_can_ca,,,0,0
+86939,PC,Player Character,<StartCheck>Abort</Start>,<StartCheck>취소</Start>,x0_skill_ctrap,x2_im_cancel,,,,0,0
+86940,PC,Player Character,<StartAction>Modify armor appearance.</Start>,<StartAction>갑옷 외형 수정.</Start>,x0_skill_ctrap,x2_im_getcostdc,x2_im_can_ca,,,0,0
+86941,PC,Player Character,<StartCheck>Make the changes</Start>,<StartCheck>변경 적용</Start>,x0_skill_ctrap,,x2_im_getchanged,,,0,0
+86942,PC,Player Character,<StartAction>Abort crafting</Start>,<StartAction>제작 취소</Start>,x0_skill_ctrap,x2_im_cancel,,,,0,0
+86943,PC,Player Character,"<StartAction>No, do further modification</Start>","<StartAction>아니요, 추가 수정하기</Start>",x0_skill_ctrap,,,,,0,0
+86944,PC,Player Character,"<StartAction>Yes, start crafting</Start>","<StartAction>네, 제작 시작</Start>",x0_skill_ctrap,x2_im_finished,,,,0,0
+86945,PC,Player Character,<StartAction>Change Legs</Start>,<StartAction>다리 변경</Start>,x0_skill_ctrap,,x2_im_nothasrobe,,,0,0
+86946,PC,Player Character,Back,뒤로,x0_skill_ctrap,x2_im_getcostdc,,,,0,0
+86947,PC,Player Character,Right Foot,오른발,x0_skill_ctrap,x2_im_setfoot_r,,,,0,0
+86948,PC,Player Character,Left Foot,왼발,x0_skill_ctrap,x2_im_setfoot_l,,,,0,0
+86949,PC,Player Character,Right Shin,오른 정강이,x0_skill_ctrap,x2_im_setshin_r,,,,0,0
+86950,PC,Player Character,Left Shin,왼 정강이,x0_skill_ctrap,x2_im_setshin_l,,,,0,0
+86951,PC,Player Character,Right Thigh,오른 허벅지,x0_skill_ctrap,x2_im_setthigh_r,,,,0,0
+86952,PC,Player Character,Left Thigh,왼 허벅지,x0_skill_ctrap,x2_im_setthigh_l,,,,0,0
+86953,PC,Player Character,<StartAction>Change Pelvis</Start>,<StartAction>골반 변경</Start>,x0_skill_ctrap,x2_im_setpelvis,x2_im_nothasrobe,,,0,0
+86954,PC,Player Character,<StartAction>Change Belt</Start>,<StartAction>허리띠 변경</Start>,x0_skill_ctrap,x2_im_setbelt,x2_im_nothasrobe,,,0,0
+86955,PC,Player Character,<StartAction>Change Torso</Start>,<StartAction>몸통 변경</Start>,x0_skill_ctrap,x2_im_settorso,x2_im_nothasrobe,,,0,0
+86956,PC,Player Character,<StartAction>Change Arms</Start>,<StartAction>팔 변경</Start>,x0_skill_ctrap,,,,,0,0
+86957,PC,Player Character,Back,뒤로,x0_skill_ctrap,x2_im_getcostdc,,,,0,0
+86958,PC,Player Character,Right Glove,오른 장갑,x0_skill_ctrap,x2_im_setglove_r,,,,0,0
+86959,PC,Player Character,Left Glove,왼 장갑,x0_skill_ctrap,x2_im_setglove_l,,,,0,0
+86960,PC,Player Character,Right ForeArm,오른 팔뚝,x0_skill_ctrap,x2_im_setfarm_r,,,,0,0
+86961,PC,Player Character,Left ForeArm,왼 팔뚝,x0_skill_ctrap,x2_im_setfarm_l,,,,0,0
+86962,PC,Player Character,Right Biceps,오른 이두근,x0_skill_ctrap,x2_im_setbicep_r,,,,0,0
+86963,PC,Player Character,Left Biceps,왼 이두근,x0_skill_ctrap,x2_im_setbicep_l,,,,0,0
+86964,PC,Player Character,Right Shoulder,오른 어깨,x0_skill_ctrap,x2_im_setshldr_r,,,,0,0
+86965,PC,Player Character,Left Shoulder,왼 어깨,x0_skill_ctrap,x2_im_setshldr_l,,,,0,0
+86966,PC,Player Character,<StartAction>Change Neck</Start>,<StartAction>목 변경</Start>,x0_skill_ctrap,x2_im_setneck,,,,0,0
+86967,PC,Player Character,<StartAction>Back</Start>,<StartAction>뒤로</Start>,x0_skill_ctrap,x2_im_getcostdc,,,,0,0
+86968,PC,Player Character,<StartAction>Show previous style</Start>,<StartAction>이전 스타일 보기</Start>,x0_skill_ctrap,x2_im_prevpart,,,,0,0
+86969,PC,Player Character,<StartAction>Show next style</Start>,<StartAction>다음 스타일 보기</Start>,x0_skill_ctrap,x2_im_nextpart,,,,0,0
+101033,PC,Player Character,<StartAction>Craft Weapon:</Start> <StartCheck>Not Possible</Start> -  No weapon equipped or weapon can not be modified at this time,<StartAction>무기 제작:</Start> <StartCheck>불가능</Start> - 무기를 장비하지 않았거나 현재 수정할 수 없습니다,x0_skill_ctrap,,x2_im_can_n_cw,,,0,0
+101034,PC,Player Character,<StartAction>Craft Armor:</Start> <StartCheck>Not Possible</Start> -  No armor equipped or armor can not be modified at this time,<StartAction>갑옷 제작:</Start> <StartCheck>불가능</Start> - 갑옷을 장비하지 않았거나 현재 수정할 수 없습니다,x0_skill_ctrap,,x2_im_can_n_ca,,,0,0

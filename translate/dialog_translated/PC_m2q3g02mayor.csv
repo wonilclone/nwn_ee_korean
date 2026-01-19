@@ -1,0 +1,39 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36636,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶은데요.,m2q3g02mayor,,[지능 보통],,,0,0
+36637,PC,Player Character,Me want some informations.,나 정보 원해.,m2q3g02mayor,,[지능 낮음],,,0,0
+36638,PC,Player Character,Goodbye.,안녕히 계세요.,m2q3g02mayor,,,,,0,0
+36639,PC,Player Character,I hunt a cult that prolonged the Neverwinter plague.,저는 네버윈터 역병을 연장시킨 사교를 추적하고 있습니다.,m2q3g02mayor,,[지능 보통],,,0,0
+36640,PC,Player Character,Tell me about your town.,당신 마을에 대해 말해주세요.,m2q3g02mayor,,[지능 보통],,,0,0
+36641,PC,Player Character,Have you heard of any trouble around here?,이 근처에서 무슨 문제 들으셨나요?,m2q3g02mayor,,[지능 보통],,,0,0
+36642,PC,Player Character,Me looks for plague-cult. They hurt Neverwinter.,나 역병 사교 찾아. 걔들 네버윈터 해쳤어.,m2q3g02mayor,,[지능 낮음],,,0,0
+36643,PC,Player Character,You tells me abouts Charwood.,그을린숲 얘기해줘.,m2q3g02mayor,,[지능 낮음],,,0,0
+36644,PC,Player Character,Maybe you hear about odd stuff or rumors?,이상한 거나 소문 들었어?,m2q3g02mayor,,[지능 낮음],,,0,0
+36645,PC,Player Character [M2Q3C],I want to go over some things you said before.,전에 말씀하신 것들 다시 짚어보고 싶은데요.,m2q3g02mayor,,m2q3cstalkedmen,[M2Q3C],,0,0
+36646,PC,Player Character [M2Q3C],Me wants go over things you say before.,나 전에 말한 거 다시 물어봐.,m2q3g02mayor,,m2q3cstalkedmel,[M2Q3C],,0,0
+36647,PC,Player Character [M2Q3M],"<StartCheck>[Insight]</Start> Mayor, it's not morning. The darkness clings to this place.","<StartCheck>[통찰]</Start> 시장님, 지금은 아침이 아닙니다. 어둠이 이곳에 드리워져 있어요.",m2q3g02mayor,,m2q3mayor01,[M2Q3M],,0,0
+36648,PC,Player Character,That isn't right. Do you even know the season?,그건 옳지 않습니다. 지금이 무슨 계절인지는 아시나요?,m2q3g02mayor,,[지능 보통],,,0,0
+36649,PC,Player Character,"Mayor, if there is a threat, perhaps I can help?","시장님, 위협이 있다면 제가 도와드릴 수 있을지도 모르겠네요.",m2q3g02mayor,,[지능 보통],,,0,0
+36650,PC,Player Character,Jhareg? Who's that?,자렉? 그게 누구죠?,m2q3g02mayor,,[지능 보통],,,0,0
+36651,PC,Player Character,What stories?,무슨 이야기요?,m2q3g02mayor,,[지능 보통],,,0,0
+36652,PC,Player Character,You sound nervous. Are your lords fair?,불안해 보이시는군요. 영주님들은 공정하신가요?,m2q3g02mayor,,[지능 보통],,,0,0
+36653,PC,Player Character,You scared. They be fair guys?,겁먹었어. 그 사람들 괜찮아?,m2q3g02mayor,,[지능 낮음],,,0,0
+36654,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, there's no harm in talking to me.","<StartCheck>[설득]</Start> 이봐요, 저한테 얘기해도 아무런 해가 없어요.",m2q3g02mayor,,[지능 보통],,,0,0
+36655,PC,Player Character,<StartCheck>[Persuade]</Start> You tell me. There no problem with me.,<StartCheck>[설득]</Start> 말해. 나한테 문제 없어.,m2q3g02mayor,,[지능 낮음],,,0,0
+36656,PC,Player Character,Speak! Or you'll have more immediate things to fear!!,말하시오! 아니면 더 당장 두려워할 일이 생길 겁니다!!,m2q3g02mayor,,[지능 보통],,,0,0
+36657,PC,Player Character,Me get mad if you not keep talking!,말 안 하면 나 화내!,m2q3g02mayor,,[지능 낮음],,,0,0
+36658,PC,Player Character [M2Q3C],"You can tell me. Can't you, handsome?","말씀해 주세요. 그러시죠, 멋진 분?",m2q3g02mayor,,m2q3csgenfn,[M2Q3C],,0,0
+36659,PC,Player Character [M2Q3C],"You tell me, good looking. Me your friend.","말해, 잘생긴 사람. 나 친구야.",m2q3g02mayor,,m2q3csgenfl,[M2Q3C],,0,0
+36660,PC,Player Character,I will discover what happened to your children.,당신 아이들에게 무슨 일이 있었는지 알아내겠습니다.,m2q3g02mayor,,[지능 보통],,,0,0
+36661,PC,Player Character,Me find out what happen to kids.,나 아이들 무슨 일 있었는지 찾아낼 거야.,m2q3g02mayor,,[지능 낮음],,,0,0
+36662,PC,Player Character,Is the castle dangerous? I will likely check it out.,성이 위험한가요? 아마 가서 확인해볼 것 같은데요.,m2q3g02mayor,,[지능 보통],,,0,0
+36663,PC,Player Character,Me search castle probably. It safe?,나 성 찾아갈 거야. 안전해?,m2q3g02mayor,,[지능 낮음],,,0,0
+36664,PC,Player Character,Nothing to do with me. Goodbye.,제가 상관할 일이 아니네요. 안녕히 계세요.,m2q3g02mayor,,[지능 보통],,,0,0
+36665,PC,Player Character,Nothing me care about. G'bye.,나 상관없어. 안녕.,m2q3g02mayor,,[지능 낮음],,,0,0
+36666,PC,Player Character,I want to ask some different questions.,다른 질문을 하고 싶습니다.,m2q3g02mayor,,[지능 보통],,,0,0
+36667,PC,Player Character,Me ask different stuff.,나 다른 거 물어봐.,m2q3g02mayor,,[지능 낮음],,,0,0
+36668,PC,Player Character,Why don't you remember anything?,왜 아무것도 기억 못 하시는 거죠?,m2q3g02mayor,,[지능 보통],,,0,0
+36669,PC,Player Character,Why you not remember stuff?,왜 아무것도 기억 못 해?,m2q3g02mayor,,[지능 낮음],,,0,0
+36670,PC,Player Character,That not be right. You even know da season?,그거 이상해. 지금 무슨 계절인지 알아?,m2q3g02mayor,,[지능 낮음],,,0,0
+36671,PC,Player Character,"If there be threat, maybe me can help?",위협 있으면 나 도와줄 수 있어?,m2q3g02mayor,,[지능 낮음],,,0,0
+36672,PC,Player Character,Jar-Egg? Who that be?,자-렉? 그거 누구야?,m2q3g02mayor,,[지능 낮음],,,0,0
+36673,PC,Player Character,"Uh, what stories?","어, 무슨 이야기?",m2q3g02mayor,,[지능 낮음],,,0,0

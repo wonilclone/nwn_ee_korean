@@ -1,0 +1,614 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+88316,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_dee,,,,,0,0
+88317,PC,Player Character,"""I think we need to part ways.""","""이제 헤어질 때가 된 것 같아.""",xp2_hen_dee,,x2_d2_inreaper,,,0,0
+88318,PC,Player Character,"""Alright, fine. Stay with me, then.""","""알았어, 좋아. 그럼 나와 함께 있어.""",xp2_hen_dee,,,,,0,0
+88319,PC,Player Character,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",xp2_hen_dee,,,,,0,0
+88320,PC,Player Character,"""Go on. Maybe we'll meet later.""","""가. 나중에 다시 만날 수도 있겠지.""",xp2_hen_dee,,,,,0,0
+88321,PC,Player Character,"""I want to change your tactics.""","""전술을 바꾸고 싶어.""",xp2_hen_dee,,,,,0,0
+88322,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",xp2_hen_dee,,,,,0,0
+88323,PC,Player Character,"""I don't want you to cast any spells until I say otherwise.""","""내가 달리 말하기 전까지는 주문을 사용하지 마.""",xp2_hen_dee,x2_ch_spell_off,x2_ch_yes_spells,,,0,0
+88324,PC,Player Character,"""I want you to go ahead and cast spells on your own.""","""앞으로 주문은 네 판단대로 사용해.""",xp2_hen_dee,x2_ch_spell_on,x2_ch_no_spells,,,0,0
+88325,PC,Player Character,"""Do not try to use dispel magic spells to remove disabling effects from party members.""","""파티원의 무력화 효과를 제거하는 데 주문 해제 마법을 사용하지 마.""",xp2_hen_dee,x2_d1_unsetdisp,x2_d1_usedispel,,,0,0
+88326,PC,Player Character,"""Use dispel magic spells to remove disabling effects from party members.""","""파티원의 무력화 효과를 제거하는 데 주문 해제 마법을 사용해.""",xp2_hen_dee,x2_d1_setdispel,x2_d1_nodispel,,,0,0
+88327,PC,Player Character,"""I want you to leave any traps that you see alone for now.""","""당분간 보이는 함정은 그냥 두고 가.""",xp2_hen_dee,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+88328,PC,Player Character,"""I want you to disarm any traps that you see.""","""보이는 함정은 모두 해제해.""",xp2_hen_dee,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+88329,PC,Player Character,"""Don't try to be stealthy anymore.""","""더 이상 은신하려고 하지 마.""",xp2_hen_dee,x2_d1_stealth3,x2_d1_instealth,,,0,0
+88330,PC,Player Character,"""Stay stealthy, but only until the next fight.""","""은신 상태를 유지해. 단, 다음 전투 전까지만.""",xp2_hen_dee,x2_d1_stealth2,,,,0,0
+88331,PC,Player Character,"""Try to remain stealthy all the time.""","""항상 은신 상태를 유지하도록 해.""",xp2_hen_dee,x2_d1_stealth1,,,,0,0
+88332,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""자물쇠나 상자를 여는 데 실패해도 도와주지 마.""",xp2_hen_dee,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+88333,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""자물쇠나 상자를 여는 데 실패하면 도와줘.""",xp2_hen_dee,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+88334,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와의 거리를 조정하고 싶어.""",xp2_hen_dee,,,,,0,0
+88335,PC,Player Character [Follow: Far],Stay a long distance away.,먼 거리를 유지해.,xp2_hen_dee,nw_ch_dist_18,,[Follow: Far],,0,0
+88336,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,xp2_hen_dee,nw_ch_dist_12,,[Follow: Medium],,0,0
+88337,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,xp2_hen_dee,nw_ch_dist_6,,[Follow: Close],,0,0
+88338,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 보는 즉시 공격해.""",xp2_hen_dee,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+88339,PC,Player Character,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격하기 전까지는 공격하지 마.""",xp2_hen_dee,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+88340,PC,Player Character,"""I want to adjust your equipment.""","""장비를 조정하고 싶어.""",xp2_hen_dee,,,,,0,0
+88341,PC,Player Character,"""Can you identify my equipment?""","""내 장비를 감정해줄 수 있어?""",xp2_hen_dee,,x1_hen_canid,,,0,0
+88342,PC,Player Character,"""I want you to use your bard song now.""","""지금 음유시인의 노래를 사용해줘.""",xp2_hen_dee,,x0_d2_hassong,,,0,0
+88343,PC,Player Character,"""I need you to cast a group of buffing spells.""","""버프 주문을 여러 개 걸어줘.""",xp2_hen_dee,x2_d1_setgroup,,,,0,0
+88344,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_dee,,,,,0,0
+88345,PC,Player Character,"""Cast all the buffing spells you have.""","""가진 버프 주문을 모두 걸어줘.""",xp2_hen_dee,x2_d1_castbuff3,,,,0,0
+88346,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""지속 시간이 긴 버프 주문을 모두 걸어줘.""",xp2_hen_dee,x2_d1_castbuff2,,,,0,0
+88347,PC,Player Character,"""Cast all the short duration buffing spells.""","""지속 시간이 짧은 버프 주문을 모두 걸어줘.""",xp2_hen_dee,x2_d1_castbuff1,,,,0,0
+88348,PC,Player Character,"""I need you to cast a spell.""","""주문 하나를 걸어줘.""",xp2_hen_dee,,,,,0,0
+88349,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_dee,,,,,0,0
+88350,PC,Player Character,"""Wounding Whispers.""","""상처 입히는 속삭임.""",xp2_hen_dee,x2_d1_castwound,x2_d2_haswound,,,0,0
+88351,PC,Player Character,"""Ultravision.""","""초시야.""",xp2_hen_dee,x0_d1_castultra,x0_d2_hasultra,,,0,0
+88352,PC,Player Character,"""True Seeing.""","""진실의 시야.""",xp2_hen_dee,x0_d1_casttruese,x0_d2_hastruesee,,,0,0
+88353,PC,Player Character,"""Summon Creature IX.""","""생명체 소환 9.""",xp2_hen_dee,x0_d1_castsumm9,x0_d2_hassumm9,,,0,0
+88354,PC,Player Character,"""Summon Creature VIII.""","""생명체 소환 8.""",xp2_hen_dee,x0_d1_castsumm8,x0_d2_hassumm8,,,0,0
+88355,PC,Player Character,"""Summon Creature VII.""","""생명체 소환 7.""",xp2_hen_dee,x0_d1_castsumm7,x0_d2_hassumm7,,,0,0
+88356,PC,Player Character,"""Summon Creature VI.""","""생명체 소환 6.""",xp2_hen_dee,x0_d1_castsumm6,x0_d2_hassumm6,,,0,0
+88357,PC,Player Character,"""Summon Creature V.""","""생명체 소환 5.""",xp2_hen_dee,x0_d1_castsumm5,x0_d2_hassumm5,,,0,0
+88358,PC,Player Character,"""Summon Creature IV.""","""생명체 소환 4.""",xp2_hen_dee,x0_d1_castsumm4,x0_d2_hassumm4,,,0,0
+88359,PC,Player Character,"""Summon Creature III.""","""생명체 소환 3.""",xp2_hen_dee,x0_d1_castsumm3,x0_d2_hassumm3,,,0,0
+88360,PC,Player Character,"""Summon Creature II.""","""생명체 소환 2.""",xp2_hen_dee,x0_d1_castsumm2,x0_d2_hassumm2,,,0,0
+88361,PC,Player Character,"""Summon Creature I.""","""생명체 소환 1.""",xp2_hen_dee,x0_d1_castsumm1,x0_d2_hassumm1,,,0,0
+88362,PC,Player Character,"""Stoneskin.""","""돌 피부.""",xp2_hen_dee,x0_d1_caststonsk,x0_d2_hasstskin,,,0,0
+88363,PC,Player Character,"""Spell Resistance.""","""주문 저항.""",xp2_hen_dee,x0_d1_castspresi,x0_d2_hasspelres,,,0,0
+88364,PC,Player Character,"""Spell Mantle.""","""주문 망토.""",xp2_hen_dee,x0_d1_castspmant,x0_d2_hasspman,,,0,0
+88365,PC,Player Character,"""Shield of Faith.""","""신앙의 방패.""",xp2_hen_dee,x0_d1_castshfait,x0_d2_hasshldfth,,,0,0
+88366,PC,Player Character,"""Shield.""","""방패.""",xp2_hen_dee,x0_d1_castshield,x0_d2_hasshield,,,0,0
+88367,PC,Player Character,"""Shadow Shield.""","""그림자 방패.""",xp2_hen_dee,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
+88368,PC,Player Character,"""See Invisibility.""","""투명체 보기.""",xp2_hen_dee,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+88369,PC,Player Character,"""Sanctuary.""","""성역.""",xp2_hen_dee,x0_d1_castsanct,x0_d2_hassanc,,,0,0
+88370,PC,Player Character,"""Restoration.""","""회복.""",xp2_hen_dee,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
+88371,PC,Player Character,"""Resistance.""","""저항.""",xp2_hen_dee,x0_d1_castresist,x0_d2_hasresist,,,0,0
+88372,PC,Player Character,"""Resist Elements.""","""원소 저항.""",xp2_hen_dee,x0_d1_castresele,x0_d2_hasreselem,,,0,0
+88373,PC,Player Character,"""Remove Paralysis.""","""마비 해제.""",xp2_hen_dee,x0_d1_castrempar,x0_d2_hasrempara,,,0,0
+88374,PC,Player Character,"""Remove Fear.""","""공포 해제.""",xp2_hen_dee,x0_d1_castrfear,x0_d2_hasremfear,,,0,0
+88375,PC,Player Character,"""Remove Disease.""","""질병 해제.""",xp2_hen_dee,x0_d1_castrdisea,x0_d2_hasremdis,,,0,0
+88376,PC,Player Character,"""Remove Curse.""","""저주 해제.""",xp2_hen_dee,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
+88377,PC,Player Character,"""Remove Blindness/Deafness.""","""실명/청각 상실 해제.""",xp2_hen_dee,x0_d1_castrembdf,x0_d2_hasrembldf,,,0,0
+88378,PC,Player Character,"""Regenerate.""","""재생.""",xp2_hen_dee,x0_d1_castregen,x0_d2_hasregen,,,0,0
+88379,PC,Player Character,"""Protection From Spells.""","""주문으로부터 보호.""",xp2_hen_dee,x0_d1_castprspel,x0_d2_hasprspell,,,0,0
+88380,PC,Player Character,"""Protection From Elements.""","""원소로부터 보호.""",xp2_hen_dee,x0_d1_castprelem,x0_d2_hasprelem,,,0,0
+88381,PC,Player Character,"""Premonition.""","""예감.""",xp2_hen_dee,x0_d1_castpremon,x0_d2_haspremon,,,0,0
+88382,PC,Player Character,"""Prayer.""","""기도.""",xp2_hen_dee,x0_d1_castprayer,x0_d2_hasprayer,,,0,0
+88383,PC,Player Character,"""Owl's Wisdom.""","""올빼미의 지혜.""",xp2_hen_dee,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
+88384,PC,Player Character,"""Neutralize poison.""","""독 중화.""",xp2_hen_dee,x0_d1_castnpoiso,x0_d2_hasneutpoi,,,0,0
+88385,PC,Player Character,"""Monstrous Regeneration.""","""괴물같은 재생.""",xp2_hen_dee,x0_d1_castmregen,x0_d2_hasmrege,,,0,0
+88386,PC,Player Character,"""Minor Globe of Invulnerability.""","""하급 무적의 구체.""",xp2_hen_dee,x0_d1_castmglobe,x2_d2_hasmglobe,,,0,0
+88387,PC,Player Character,"""Mind Blank.""","""정신 비우기.""",xp2_hen_dee,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+88388,PC,Player Character,"""Mass Haste.""","""대규모 가속.""",xp2_hen_dee,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
+88389,PC,Player Character,"""Magical Vestment.""","""마법 의복.""",xp2_hen_dee,x0_d1_castmvest,x0_d2_hasmagvest,,,0,0
+88390,PC,Player Character,"""Mage Armor.""","""마법학자 갑옷.""",xp2_hen_dee,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
+88391,PC,Player Character,"""Light.""","""빛.""",xp2_hen_dee,x0_d1_castlight,x0_d2_haslight,,,0,0
+88392,PC,Player Character,"""Lesser Spell Mantle.""","""하급 주문 방호막.""",xp2_hen_dee,x0_d1_castlspman,x0_d2_haslesspm,,,0,0
+88393,PC,Player Character,"""Lesser Restoration.""","""하급 회복.""",xp2_hen_dee,x0_d1_castlresto,x0_d2_haslesrest,,,0,0
+88394,PC,Player Character,"""Lesser Mind Blank""","""하급 정신 비우기.""",xp2_hen_dee,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+88395,PC,Player Character,"""Lesser Dispel.""","""하급 주문 해제.""",xp2_hen_dee,x0_d1_castldispe,x0_d2_hasldispel,,,0,0
+88396,PC,Player Character,"""Knock.""","""문 두드리기.""",xp2_hen_dee,x0_d1_castknock,x0_d2_hasknock,,,0,0
+88397,PC,Player Character,"""Invisibility Sphere.""","""투명화 구체.""",xp2_hen_dee,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
+88398,PC,Player Character,"""Invisibility""","""투명화.""",xp2_hen_dee,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
+88399,PC,Player Character,"""Improved Invisibility.""","""우수한 투명화.""",xp2_hen_dee,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
+88400,PC,Player Character,"""Haste.""","""가속.""",xp2_hen_dee,x0_d1_casthaste,x0_d2_hashaste,,,0,0
+88401,PC,Player Character,"""Greater Stoneskin.""","""상급 돌 피부.""",xp2_hen_dee,x0_d1_castgrston,x0_d2_hasgrstone,,,0,0
+88402,PC,Player Character,"""Greater Spell Mantle.""","""상급 주문 방호막.""",xp2_hen_dee,x0_d1_castgspman,x2_d2_hasgspman,,,0,0
+88403,PC,Player Character,"""Greater Sanctuary.""","""상급 성역.""",xp2_hen_dee,x0_d1_castgsanc,x2_d2_hasethenss,,,0,0
+88404,PC,Player Character,"""Greater Restoration.""","""상급 회복.""",xp2_hen_dee,x0_d1_castgresto,x0_d2_hasgrrest,,,0,0
+88405,PC,Player Character,"""Greater Magic Weapon.""","""상급 마법 무기.""",xp2_hen_dee,x2_d1_castgrmagw,x2_d2_hasgmagw,,,0,0
+88406,PC,Player Character,"""Greater Dispelling.""","""상급 주문 해제.""",xp2_hen_dee,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
+88407,PC,Player Character,"""Globe of Invulnerability.""","""무적의 구체.""",xp2_hen_dee,x0_d1_castglobe,x2_d2_hasglobe,,,0,0
+88408,PC,Player Character,"""Ghostly Visage.""","""유령의 형상.""",xp2_hen_dee,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
+88409,PC,Player Character,"""Freedom of Movement.""","""자유 이동.""",xp2_hen_dee,x0_d1_castfreedo,x0_d2_hasfreemov,,,0,0
+88410,PC,Player Character,"""Fox's Cunning""","""여우의 교활함.""",xp2_hen_dee,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
+88411,PC,Player Character,"""Find Traps.""","""함정 찾기.""",xp2_hen_dee,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
+88412,PC,Player Character,"""Ethereal Visage.""","""에테르 형상.""",xp2_hen_dee,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
+88413,PC,Player Character,"""Entropic Shield.""","""혼돈의 보호막.""",xp2_hen_dee,x0_d1_castentsh,x2_d2_hasntropic,,,0,0
+88414,PC,Player Character,"""Energy Buffer.""","""에너지 완충기.""",xp2_hen_dee,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+88415,PC,Player Character,"""No, I've changed my mind.""","""아니, 마음이 바뀌었어.""",xp2_hen_dee,,,,,0,0
+88416,PC,Player Character,"""Yes, go ahead.""","""그래, 해줘.""",xp2_hen_dee,x0_d1_targetself,,,,0,0
+88417,PC,Player Character,"""Endure Elements.""","""원소 인내.""",xp2_hen_dee,x0_d1_castendele,x0_d2_hasendelem,,,0,0
+88418,PC,Player Character,"""Endurance.""","""지구력.""",xp2_hen_dee,x0_d1_castendur,x0_d2_hasendur,,,0,0
+88419,PC,Player Character,"""Elemental Shield.""","""원소 보호막.""",xp2_hen_dee,x0_d1_castelesh,x2_d2_haselemsh,,,0,0
+88420,PC,Player Character,"""Eagle's Splendour.""","""독수리의 위엄.""",xp2_hen_dee,x0_d1_casteagles,x0_d2_haseagles,,,0,0
+88421,PC,Player Character,"""Divine Power.""","""신성한 권능.""",xp2_hen_dee,x0_d1_castdivpow,x0_d2_hasdivpow,,,0,0
+88422,PC,Player Character,"""Dispel Magic.""","""주문해제.""",xp2_hen_dee,x0_d1_castdismag,x0_d2_hasdispelm,,,0,0
+88423,PC,Player Character,"""Death Ward.""","""죽음 방비.""",xp2_hen_dee,x0_d1_castdward,x0_d2_hasdthward,,,0,0
+88424,PC,Player Character,"""Death Armor.""","""죽음의 갑옷.""",xp2_hen_dee,x0_d1_castdarmor,x0_d2_hasdarmor,,,0,0
+88425,PC,Player Character,"""Create Undead.""","""언데드 생성.""",xp2_hen_dee,x0_d1_castcrund,x0_d2_hascreund,,,0,0
+88426,PC,Player Character,"""Continual Flame.""","""계속되는 불꽃.""",xp2_hen_dee,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+88427,PC,Player Character,"""Clarity.""","""맑은 정신.""",xp2_hen_dee,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
+88428,PC,Player Character,"""Cat's Grace.""","""고양이의 우아함.""",xp2_hen_dee,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
+88429,PC,Player Character,"""Bull's Strength.""","""황소의 근력.""",xp2_hen_dee,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
+88430,PC,Player Character,"""I've changed my mind.""","""마음이 바뀌었어.""",xp2_hen_dee,,,,,0,0
+88431,PC,Player Character,"""Cast on all the party members.""","""파티원 모두에게 걸어줘.""",xp2_hen_dee,x0_d1_targetall,x2_d1_targetall,,,0,0
+88432,PC,Player Character,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen9,x2_d1_hashench9,,,0,0
+88433,PC,Player Character,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen8,x2_d1_hashench8,,,0,0
+88434,PC,Player Character,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen7,x2_d1_hashench7,,,0,0
+88435,PC,Player Character,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen6,x2_d1_hashench6,,,0,0
+88436,PC,Player Character,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen5,x2_d1_hashench5,,,0,0
+88437,PC,Player Character,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen4,x2_d1_hashench4,,,0,0
+88438,PC,Player Character,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen3,x2_d1_hashench3,,,0,0
+88439,PC,Player Character,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen2,x2_d1_hashench2,,,0,0
+88440,PC,Player Character,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 걸어줘.""",xp2_hen_dee,x2_d1_targethen1,x2_d1_hashench1,,,0,0
+88441,PC,Player Character,"""Cast it on my animal companion.""","""내 동물 동료에게 걸어줘.""",xp2_hen_dee,x0_d1_targetcomp,x0_d2_hascompan,,,0,0
+88442,PC,Player Character,"""Cast it on my familiar.""","""내 사역마에게 걸어줘.""",xp2_hen_dee,x0_d1_targetfam,x0_d2_hasfamil,,,0,0
+88443,PC,Player Character,"""Cast it on me.""","""나한테 걸어줘.""",xp2_hen_dee,x0_d1_targetme,,,,0,0
+88444,PC,Player Character,"""Cast it on yourself.""","""네 자신에게 걸어.""",xp2_hen_dee,x0_d1_targetself,,,,0,0
+88445,PC,Player Character,"""Bless.""","""축복.""",xp2_hen_dee,x0_d1_castbless,x0_d2_hasbless,,,0,0
+88446,PC,Player Character,"""Animate Dead.""","""시체 조종.""",xp2_hen_dee,x0_d1_castandead,x0_d2_hasandead,,,0,0
+88447,PC,Player Character,"""Aid.""","""지원.""",xp2_hen_dee,x0_d1_castaid,x0_d2_hasaid,,,0,0
+88448,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 뭐라고 하려던 거였어?""",xp2_hen_dee,,x0_d2_hen_interp,,,0,0
+88449,PC,Player Character,"""Let's stop and talk for a moment.""","""잠깐 멈춰서 얘기 좀 하자.""",xp2_hen_dee,,,,,0,0
+88450,PC,Player Character,"""We're done chatting.""","""대화 끝났어.""",xp2_hen_dee,,,,,0,0
+88451,PC,Player Character,"""No, nothing else.""","""아니, 없어.""",xp2_hen_dee,,,,,0,0
+88452,PC,Player Character,"""I'm just wondering how everything is going with you.""","""그냥 네 상황이 어떤지 궁금해서.""",xp2_hen_dee,,,,,0,0
+88453,PC,Player Character,"""I wish to discuss your training.""","""네 훈련에 대해 이야기하고 싶어.""",xp2_hen_dee,,,,,0,0
+88454,PC,Player Character,"""I want you to do whatever you like, Deekin.""","""네가 하고 싶은 대로 해, 디킨.""",xp2_hen_dee,,,,,0,0
+88455,PC,Player Character,"""Continue with what you're doing now.""","""지금 하고 있는 걸 계속해.""",xp2_hen_dee,,,,,0,0
+88456,PC,Player Character,"""Concentrate on becoming a dragon disciple.""","""용의 계승자가 되는 데 집중해.""",xp2_hen_dee,,,,,0,0
+88457,PC,Player Character,"""I want you to focus on being a bard.""","""음유시인에 집중했으면 좋겠어.""",xp2_hen_dee,,,,,0,0
+88458,PC,Player Character,"""I'm wondering... what do you plan to do once this adventure is done?""","""궁금한데... 이 모험이 끝나면 뭘 할 계획이야?""",xp2_hen_dee,,x2_hen_deestory4,,,0,0
+88459,PC,Player Character,"""Yes, after that.""","""그래, 그 다음에.""",xp2_hen_dee,,,,,0,0
+88460,PC,Player Character,"""Yes, yes, after the book.""","""그래, 그래. 책 다음에.""",xp2_hen_dee,,,,,0,0
+88461,PC,Player Character,"""You damn well better get a better price.""","""더 좋은 가격을 받는 게 좋을 거야.""",xp2_hen_dee,,,,,0,0
+88462,PC,Player Character,"""You think you will?""","""그럴 수 있을 것 같아?""",xp2_hen_dee,,,,,0,0
+88463,PC,Player Character,"""Why would you go back there?""","""왜 그곳으로 돌아가려는 거야?""",xp2_hen_dee,,,,,0,0
+88464,PC,Player Character,"""Don't you want to stay with me?""","""나와 함께 있고 싶지 않아?""",xp2_hen_dee,,,,,0,0
+88465,PC,Player Character,"""That seems like a very odd thing to do.""","""매우 이상한 일인 것 같은데.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88466,PC,Player Character,"""You want your tribe to live in civilized lands? Why?""","""부족을 문명화된 땅에서 살게 하고 싶다고? 왜?""",xp2_hen_dee,,,,,0,0
+88467,PC,Player Character,"""Whatever works for you. Just keep the crazy to yourself.""","""네게 맞는 걸 해. 미친 짓은 혼자 해.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88468,PC,Player Character,"""Well... let's concentrate on finishing this adventure, first.""","""음... 일단 이 모험을 끝내는 데 집중하자.""",xp2_hen_dee,,,,,0,0
+88469,PC,Player Character,"""If there's anything I can do to help...""","""내가 도울 수 있는 게 있다면...""",xp2_hen_dee,,,,,0,0
+88470,PC,Player Character,"""I think that's a noble goal.""","""고귀한 목표라고 생각해.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88471,PC,Player Character,"""Do you think you can really make them change?""","""정말 그들을 변화시킬 수 있을 것 같아?""",xp2_hen_dee,,,,,0,0
+88472,PC,Player Character,"""How about a good tale?""","""좋은 이야기 하나 어때?""",xp2_hen_dee,,x2_hen_deestory3,,,0,0
+88473,PC,Player Character,"""Are you saying we're doomed?""","""우리가 망했다는 거야?""",xp2_hen_dee,,,,,0,0
+88474,PC,Player Character,"""You did? When was this?""","""그랬어? 언제였는데?""",xp2_hen_dee,,,,,0,0
+88475,PC,Player Character,"""Why didn't you normally do that?""","""왜 평소에는 그렇게 하지 않았어?""",xp2_hen_dee,,,,,0,0
+88476,PC,Player Character,"""Sounds like you got lucky.""","""운이 좋았던 것 같네.""",xp2_hen_dee,,,,,0,0
+88477,PC,Player Character,"""What happened next?""","""그 다음엔 무슨 일이 있었어?""",xp2_hen_dee,,,,,0,0
+88478,PC,Player Character,"""And you ended up leaving?""","""그래서 결국 떠났어?""",xp2_hen_dee,,,,,0,0
+88479,PC,Player Character,"""I'm flattered, Deekin.""","""영광인데, 디킨.""",xp2_hen_dee,,,,,0,0
+88480,PC,Player Character,"""Yeah, yeah, yeah. Let's move on.""","""그래, 그래, 그래. 이제 가자.""",xp2_hen_dee,,,,,0,0
+88481,PC,Player Character,"""You missed me? Awww, Deekin...""","""날 그리워했다고? 어머, 디킨...""",xp2_hen_dee,,,,,0,0
+88482,PC,Player Character,"""You couldn't protect her?""","""그녀를 보호할 수 없었어?""",xp2_hen_dee,,,,,0,0
+88483,PC,Player Character,"""I'm so sorry, Deekin. That's horrible.""","""정말 미안해, 디킨. 끔찍하구나.""",xp2_hen_dee,,,,,0,0
+88484,PC,Player Character,"""What was she doing outside?""","""그녀는 밖에서 뭘 하고 있었어?""",xp2_hen_dee,,,,,0,0
+88485,PC,Player Character,"""This isn't like the time you met a dragon, is it?""","""용을 만났을 때처럼 그런 건 아니지?""",xp2_hen_dee,,,,,0,0
+88486,PC,Player Character,"""Go ahead, then.""","""그럼 말해봐.""",xp2_hen_dee,,,,,0,0
+88487,PC,Player Character,"""You forgot your lute?""","""류트를 잊어버렸어?""",xp2_hen_dee,,,,,0,0
+88488,PC,Player Character,"""A drow elf? In Waterdeep? Are you sure?""","""드로우 엘프? 워터딥에서? 확실해?""",xp2_hen_dee,,,,,0,0
+88489,PC,Player Character,"""Sounds like a drow all right.""","""드로우가 맞는 것 같네.""",xp2_hen_dee,,,,,0,0
+88490,PC,Player Character,"""I've heard that scream.""","""그 비명 들어본 적 있어.""",xp2_hen_dee,,,,,0,0
+88491,PC,Player Character,"""He let you go?""","""널 보내줬어?""",xp2_hen_dee,,,,,0,0
+88492,PC,Player Character,"""Did he tell you his name?""","""이름을 말해줬어?""",xp2_hen_dee,,,,,0,0
+88493,PC,Player Character,"""Drippits? That doesn't sound like much of a drow name.""","""드립핏? 드로우 이름 같지 않은데.""",xp2_hen_dee,,,,,0,0
+88494,PC,Player Character,"""Really? What kind of dragon?""","""정말? 무슨 용이었어?""",xp2_hen_dee,,,,,0,0
+88495,PC,Player Character,"""Inside Waterdeep?""","""워터딥 안쪽?""",xp2_hen_dee,,,,,0,0
+88496,PC,Player Character,"""How do you know that?""","""어떻게 알아?""",xp2_hen_dee,,,,,0,0
+88497,PC,Player Character,"""He went to Hilltop to eat pie?""","""힐탑에 파이 먹으러 갔다고?""",xp2_hen_dee,,,,,0,0
+88498,PC,Player Character,"""What about the Gold dragon? What did he want?""","""황금룡은? 뭘 원했어?""",xp2_hen_dee,,,,,0,0
+88499,PC,Player Character,"""So that's your story about meeting another dragon?""","""그게 또 다른 용을 만난 이야기야?""",xp2_hen_dee,,,,,0,0
+88500,PC,Player Character,"""Err... I can't help but notice that you've grown wings...""","""어... 날개가 생긴 것 같은데...""",xp2_hen_dee,,x2_hen_ddisclvl2,,,0,0
+88501,PC,Player Character,"""Can you fly with them?""","""그걸로 날 수 있어?""",xp2_hen_dee,,,,,0,0
+88502,PC,Player Character,"""A kobold with wings. How interesting.""","""날개 달린 코볼트라니. 흥미롭네.""",xp2_hen_dee,,,,,0,0
+88503,PC,Player Character,"""You were hoping for something different?""","""다른 걸 기대했어?""",xp2_hen_dee,,,,,0,0
+88504,PC,Player Character,"""You don't like it?""","""마음에 안 들어?""",xp2_hen_dee,,,,,0,0
+88505,PC,Player Character,"""*That's* your complaint?""","""*그게* 불만이야?""",xp2_hen_dee,,,,,0,0
+88506,PC,Player Character,"""Be thankful for what you have.""","""가진 것에 감사해.""",xp2_hen_dee,,,,,0,0
+88507,PC,Player Character,"""But red is much cooler than white.""","""하지만 빨강이 하양보다 훨씬 멋있잖아.""",xp2_hen_dee,,,,,0,0
+88508,PC,Player Character,"""You seem a bit different from when I first met you.""","""처음 만났을 때와 좀 달라진 것 같은데.""",xp2_hen_dee,,x2_hen_ddisclvl1,,,0,0
+88509,PC,Player Character,"""Strange how?""","""어떻게 이상해?""",xp2_hen_dee,,,,,0,0
+88510,PC,Player Character,"""You damn well better not mean it, kobold.""","""진심이 아니길 바라, 코볼트.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88511,PC,Player Character,"""Just make sure you control these urges, Deekin.""","""이런 충동을 잘 통제해, 디킨.""",xp2_hen_dee,,,,,0,0
+88512,PC,Player Character,"""Errr... yeah...""","""어... 그래...""",xp2_hen_dee,,,,,0,0
+88513,PC,Player Character,"""If it makes you stronger, I'm all for it.""","""더 강해진다면 난 찬성이야.""",xp2_hen_dee,,,,,0,0
+88514,PC,Player Character,"""I'm glad you're enjoying your progress.""","""네 발전을 즐기고 있다니 다행이네.""",xp2_hen_dee,,,,,0,0
+88515,PC,Player Character,"""The boss wouldn't want that, either.""","""대장도 그걸 원하지 않을 거야.""",xp2_hen_dee,,,,,0,0
+88516,PC,Player Character,"""Talk to me about what?""","""뭐에 대해 얘기하고 싶은데?""",xp2_hen_dee,,,,,0,0
+88517,PC,Player Character,"""You could certainly afford to be stronger...""","""확실히 더 강해질 수 있을 거야...""",xp2_hen_dee,,,,,0,0
+88518,PC,Player Character,"""It does seem a *bit* strange.""","""*좀* 이상하긴 하네.""",xp2_hen_dee,,,,,0,0
+88519,PC,Player Character,"""Not really. Where do you think it could lead?""","""그렇게까진. 어디로 이어질 것 같아?""",xp2_hen_dee,,,,,0,0
+88520,PC,Player Character,"""Go ahead and become a dragon disciple, if you can.""","""할 수 있다면 용의 계승자가 되어봐.""",xp2_hen_dee,,,,,0,0
+88521,PC,Player Character,"""I could really use a bard, actually.""","""사실 음유시인이 필요하긴 해.""",xp2_hen_dee,,,,,0,0
+88522,PC,Player Character,"""I can't tell you what to do, Deekin.""","""네가 뭘 해야 할지 내가 말해줄 수는 없어, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88523,PC,Player Character,"""What happened to you after we parted ways last time?""","""지난번에 헤어진 후에 무슨 일이 있었어?""",xp2_hen_dee,,x2_hen_deestory2,,,0,0
+88524,PC,Player Character,"""Why didn't you get very far?""","""왜 멀리 가지 못했어?""",xp2_hen_dee,,,,,0,0
+88525,PC,Player Character,"""You could have come looking for me, you know.""","""나를 찾아올 수도 있었잖아.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88526,PC,Player Character,"""I had a copy of your book, actually.""","""사실 네 책 한 권 가지고 있었어.""",xp2_hen_dee,,,,,0,0
+88527,PC,Player Character,"""How much coin are we talking about?""","""얼마나 받은 건데?""",xp2_hen_dee,,,,,0,0
+88528,PC,Player Character,"""Some of that should have been mine.""","""그 중 일부는 내 것이어야 했어.""",xp2_hen_dee,,,,,0,0
+88529,PC,Player Character,"""You should have demanded more.""","""더 요구했어야지.""",xp2_hen_dee,,,,,0,0
+88530,PC,Player Character,"""Hmph. If you weren't such an idiot, that wouldn't have happened.""","""흥. 네가 바보가 아니었다면 그런 일은 일어나지 않았을 거야.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88531,PC,Player Character,"""You let them walk all over you?""","""그냥 당하고만 있었다고?""",xp2_hen_dee,,,,,0,0
+88532,PC,Player Character,"""What were you expecting? You're a kobold.""","""뭘 기대했어? 넌 코볼트잖아.""",xp2_hen_dee,,,,,0,0
+88533,PC,Player Character,"""I don't know what to say. That's horrible.""","""뭐라 말해야 할지 모르겠네. 끔찍하구나.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88534,PC,Player Character,"""Alright, whatever. Let's just move on, shall we?""","""좋아, 됐어. 그냥 넘어가자.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88535,PC,Player Character,"""I have complete faith in you, Deekin.""","""난 널 완전히 믿어, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88536,PC,Player Character,"""Well, good luck with that.""","""음, 그럼 행운을 빌어.""",xp2_hen_dee,,,,,0,0
+88537,PC,Player Character,"""I think you're charming enough, Deekin.""","""난 네가 충분히 매력적이라고 생각해, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88538,PC,Player Character,"""So you're going to give up?""","""그래서 포기할 거야?""",xp2_hen_dee,,,,,0,0
+88539,PC,Player Character,"""So why didn't you kick some butt? You're no weakling.""","""그럼 왜 혼쭐을 내주지 않았어? 넌 약하지 않잖아.""",xp2_hen_dee,,,,,0,0
+88540,PC,Player Character,"""Do *you* think you're weak?""","""*너* 스스로 약하다고 생각해?""",xp2_hen_dee,,,,,0,0
+88541,PC,Player Character,"""'Little Deekin' fights by my side against powerful monsters.""","""'꼬마 디킨'은 내 곁에서 강력한 괴물들과 싸우고 있잖아.""",xp2_hen_dee,,,,,0,0
+88542,PC,Player Character,"""You're a powerful bard by any standard, Deekin.""","""넌 어떤 기준으로든 강력한 음유시인이야, 디킨.""",xp2_hen_dee,,,,,0,0
+88543,PC,Player Character,"""It sounds like you had a difficult time.""","""힘든 시간을 보낸 것 같구나.""",xp2_hen_dee,,,,,0,0
+88544,PC,Player Character,"""That's it? I remember the book being quite successful.""","""그게 다야? 책이 꽤 성공적이었던 걸로 기억하는데.""",xp2_hen_dee,,,,,0,0
+88545,PC,Player Character,"""That's not so bad.""","""그렇게 나쁘진 않네.""",xp2_hen_dee,,,,,0,0
+88546,PC,Player Character,"""Do you know anything about Halaster?""","""할라스터에 대해 아는 게 있어?""",xp2_hen_dee,,x2_hen_deestory1,,,0,0
+88547,PC,Player Character,"""I'll ask you about it later, perhaps.""","""나중에 물어볼게.""",xp2_hen_dee,,,,,0,0
+88548,PC,Player Character,"""Tell me what you know about him, then.""","""그럼 네가 아는 걸 말해줘.""",xp2_hen_dee,,,,,0,0
+88549,PC,Player Character,"""Go on.""","""계속해.""",xp2_hen_dee,,,,,0,0
+88550,PC,Player Character,"""What happened since then? Do you know?""","""그 이후로 무슨 일이 있었는지 알아?""",xp2_hen_dee,,,,,0,0
+88551,PC,Player Character,"""How was Waterdeep able to grow over top of Undermountain?""","""워터딥은 어떻게 언더마운틴 위에 세워질 수 있었어?""",xp2_hen_dee,,,,,0,0
+88552,PC,Player Character,"""So all these monsters were originally in Undermountain?""","""그럼 이 모든 괴물들이 원래 언더마운틴에 있었던 거야?""",xp2_hen_dee,,,,,0,0
+88553,PC,Player Character,"""Undermountain doesn't look like a dwarven mine, though.""","""하지만 언더마운틴은 드워프 광산처럼 보이지 않던데.""",xp2_hen_dee,,,,,0,0
+88554,PC,Player Character,"""What had happened to all the dwarves?""","""드워프들한테는 무슨 일이 있었어?""",xp2_hen_dee,,,,,0,0
+88555,PC,Player Character,"""Why did he disappear into the mines?""","""왜 광산 안으로 사라진 거야?""",xp2_hen_dee,,,,,0,0
+88556,PC,Player Character,"""Just how long ago was this, anyway?""","""대체 얼마나 오래전 일이야?""",xp2_hen_dee,,,,,0,0
+88557,PC,Player Character,"""There's a tower? Is it still in Waterdeep?""","""탑이 있어? 아직도 워터딥에 있어?""",xp2_hen_dee,,,,,0,0
+88558,PC,Player Character,"""Are his apprentices still alive?""","""그의 제자들은 아직 살아있어?""",xp2_hen_dee,,,,,0,0
+88559,PC,Player Character,"""Well, I hope you learned a lesson.""","""음, 교훈을 얻었기를 바라지.""",xp2_hen_dee,,,,,0,0
+88560,PC,Player Character,"""Good enough. You're forgiven... for now.""","""충분해. 용서해줄게... 일단은.""",xp2_hen_dee,,,,,0,0
+88561,PC,Player Character,"""Forget it! I'm through with you!""","""잊어버려! 이제 너랑 끝이야!""",xp2_hen_dee,,,,,0,0
+88562,PC,Player Character,"""Not good enough!"" <StartAction>[Reprimand him some more.]</Start>","""충분하지 않아!"" <StartAction>[더 꾸짖는다.]</Start>",xp2_hen_dee,,,,,0,0
+88563,PC,Player Character,"""No, not yet. Stay here.""","""아니, 아직. 여기 있어.""",xp2_hen_dee,,,,,0,0
+88564,PC,Player Character,"""Yes, come along.""","""그래, 같이 가.""",xp2_hen_dee,,,,,0,0
+88565,PC,Player Character,"""Not right now, Deekin.""","""지금은 안 돼, 디킨.""",xp2_hen_dee,x0_d1_hen_inter0,,,,0,0
+88566,PC,Player Character,"""Yes, Deekin?""","""그래, 디킨?""",xp2_hen_dee,x0_d1_hen_inter0,,,,0,0
+88567,PC,Player Character,"""We're not friends, kobold. Keep it straight.""","""우린 친구 사이가 아니야, 코볼트. 착각하지 마.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88568,PC,Player Character,"""Really? I think of you as more of a henchman.""","""그래? 난 널 부하 정도로 생각하는데.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88569,PC,Player Character,"""Awww... that's very sweet of you to say, Deekin.""","""오... 그렇게 말해주니 정말 고맙구나, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88570,PC,Player Character,"""Great. Let's move on.""","""좋아. 이제 가자.""",xp2_hen_dee,,,,,0,0
+88571,PC,Player Character,"""You've earned your place beside me, Deekin.""","""넌 내 곁에 있을 자격을 얻었어, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88572,PC,Player Character,"""Who else is going to write my tale?""","""그럼 누가 내 이야기를 써주겠어?""",xp2_hen_dee,,,,,0,0
+88573,PC,Player Character,"""Of course. You've been very amusing.""","""물론이지. 넌 아주 재미있었어.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88574,PC,Player Character,"""You do know how powerful you are now, right?""","""네가 지금 얼마나 강한지 알고 있지?""",xp2_hen_dee,,,,,0,0
+88575,PC,Player Character,"""I think of you as a great friend, too.""","""나도 널 훌륭한 친구라고 생각해.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88576,PC,Player Character,"""No, go ahead... what did you want to say?""","""아니, 괜찮아... 뭐라고 하고 싶었어?""",xp2_hen_dee,,,,,0,0
+88577,PC,Player Character,"<StartCheck>[Persuade]</Start> ""It's okay, Deekin. You can tell me.""","<StartCheck>[설득]</Start> ""괜찮아, 디킨. 말해도 돼.""",xp2_hen_dee,,,,,0,0
+88578,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Come on, Deekin. Talk to me.""","<StartCheck>[설득]</Start> ""어서, 디킨. 얘기해봐.""",xp2_hen_dee,,,,,0,0
+88579,PC,Player Character,"""Oh. Errr... sure, go ahead...""","""오. 어... 그래, 말해봐...""",xp2_hen_dee,,,,,0,0
+88580,PC,Player Character,"""Alright then.""","""그렇다면 좋아.""",xp2_hen_dee,,,,,0,0
+88581,PC,Player Character,"""You must have some ideas of your own.""","""너도 나름의 생각이 있겠지.""",xp2_hen_dee,,,,,0,0
+88582,PC,Player Character,"""Why are you asking me?""","""왜 나한테 묻는 거야?""",xp2_hen_dee,,,,,0,0
+88583,PC,Player Character,"""No, I really don't care.""","""아니, 진짜 관심 없어.""",xp2_hen_dee,,,,,0,0
+88584,PC,Player Character,"""Won't your publisher just change the name on you again?""","""출판사가 또 이름을 바꾸지 않을까?""",xp2_hen_dee,,,,,0,0
+88585,PC,Player Character,"""How about 'the Adventures of <FullName>'?""","""'<FullName>의 모험'은 어때?""",xp2_hen_dee,,,,,0,0
+88586,PC,Player Character,"""Call it anything but 'Hordes of the Underdark'.""","""'언더다크의 군단'만 아니면 뭐든지 괜찮아.""",xp2_hen_dee,,,,,0,0
+88587,PC,Player Character,"""Call it 'Hordes of the Underdark', then.""","""그럼 '언더다크의 군단'이라고 불러.""",xp2_hen_dee,,,,,0,0
+88588,PC,Player Character,"""Finished.""","""끝났어.""",xp2_hen_dee,,,,,0,0
+88589,PC,Player Character,"""Yes?""","""그래?""",xp2_hen_dee,,,,,0,0
+88590,PC,Player Character,"""I really don't care about that.""","""난 그거 정말 관심 없어.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88591,PC,Player Character,"""You can't describe me yourself?""","""네가 직접 묘사할 수 없어?""",xp2_hen_dee,,,,,0,0
+88592,PC,Player Character,"""You think I'm vain?""","""내가 허영심 많다고 생각해?""",xp2_hen_dee,,,,,0,0
+88593,PC,Player Character,"""You think I'm sensitive?""","""내가 예민하다고 생각해?""",xp2_hen_dee,,,,,0,0
+88594,PC,Player Character,"""I really wish you wouldn't put me in your book.""","""정말 네 책에 날 넣지 않았으면 좋겠어.""",xp2_hen_dee,,,,,0,0
+88595,PC,Player Character,"""Write what you want, and leave me be.""","""네가 원하는 대로 써. 그리고 날 좀 내버려둬.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88596,PC,Player Character,"""How are you describing me now?""","""지금 날 어떻게 묘사하고 있어?""",xp2_hen_dee,,,,,0,0
+88597,PC,Player Character,"""Describe me however you think best, Deekin.""","""네가 최선이라고 생각하는 대로 묘사해, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88598,PC,Player Character,"""More along that vein would work, I think.""","""그런 식으로 더 쓰면 될 것 같아.""",xp2_hen_dee,,,,,0,0
+88599,PC,Player Character,"""You don't need to compliment me. Just tell the truth.""","""날 칭찬할 필요 없어. 그냥 사실대로 말해.""",xp2_hen_dee,,,,,0,0
+88600,PC,Player Character,"""That sounds fine to me.""","""그거 괜찮은데.""",xp2_hen_dee,,,,,0,0
+88601,PC,Player Character,"""Of course I remember Tymofarrar. Last I heard he was still as blase as ever.""","""물론 티모파라르를 기억해. 마지막으로 들었을 땐 여전히 무덤덤하더라.""",xp2_hen_dee,,,,,0,0
+88602,PC,Player Character,"""Not that I recall.""","""기억나지 않아.""",xp2_hen_dee,,,,,0,0
+88603,PC,Player Character,"""He talked about you with affection... sort of...""","""그가 애정을 담아 너에 대해 말했어... 어느 정도는...""",xp2_hen_dee,,,,,0,0
+88604,PC,Player Character,"""Why do you want to know?""","""왜 알고 싶은데?""",xp2_hen_dee,,,,,0,0
+88605,PC,Player Character,"""No, but it would be nice if you did.""","""아니, 하지만 네가 그렇다면 좋겠어.""",xp2_hen_dee,,,,,0,0
+88606,PC,Player Character,"""He said you have dragon blood? Was he joking?""","""네게 용의 피가 흐른다고 했던데? 농담이었어?""",xp2_hen_dee,,,,,0,0
+88607,PC,Player Character,"""Maybe the potential is there. You never know.""","""잠재력은 있을지도 몰라. 알 수 없는 거지.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88608,PC,Player Character,"""Yes, I've noticed.""","""그래, 알아챘어.""",xp2_hen_dee,,,,,0,0
+88609,PC,Player Character,"""I really don't remember.""","""정말 기억나지 않아.""",xp2_hen_dee,,,,,0,0
+88610,PC,Player Character,"""I'm sorry Deekin. He never did.""","""미안해 디킨. 그는 그런 적 없어.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88611,PC,Player Character,"""No, he didn't, so get over it already.""","""아니, 안 그랬어. 이제 그만 넘어가.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88612,PC,Player Character,"""That was a long time ago, Deekin.""","""오래전 일이야, 디킨.""",xp2_hen_dee,,,,,0,0
+88613,PC,Player Character,"""Are you wondering about something specific?""","""뭔가 구체적으로 궁금한 게 있어?""",xp2_hen_dee,,,,,0,0
+88614,PC,Player Character,"""Tymofarrar? Of course. I remember killing him, too.""","""티모파라르? 물론이지. 그를 죽인 것도 기억해.""",xp2_hen_dee,,,,,0,0
+88615,PC,Player Character,"""Err... the white dragon? Not really... it's been a long time.""","""어... 백룡? 잘 모르겠어... 오래됐거든.""",xp2_hen_dee,,,,,0,0
+88616,PC,Player Character,"""You don't like Waterdeep?""","""워터딥이 마음에 안 들어?""",xp2_hen_dee,,,,,0,0
+88617,PC,Player Character,"""And?""","""그래서?""",xp2_hen_dee,,,,,0,0
+88618,PC,Player Character,"""Big deal. Keep the sob story to yourself.""","""별일도 아닌 걸 가지고. 신파라면 혼자 간직해.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88619,PC,Player Character,"""You're complaining because they were rude?""","""무례하게 굴었다고 불평하는 거야?""",xp2_hen_dee,,,,,0,0
+88620,PC,Player Character,"""Life isn't like that, little fella.""","""인생이 그렇게 녹록한 게 아니야, 꼬마야.""",xp2_hen_dee,,,,,0,0
+88621,PC,Player Character,"""I'm sorry things didn't work out, Deekin.""","""일이 잘 안 풀려서 미안해, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88622,PC,Player Character,"""I don't treat you nice.""","""난 널 좋게 대하지 않아.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88623,PC,Player Character,"""And that's the saddest thing I've heard all day.""","""그게 오늘 들은 것 중 가장 슬픈 얘기네.""",xp2_hen_dee,,,,,0,0
+88624,PC,Player Character,"""You blackmailed me, you little creep.""","""넌 날 협박했잖아, 이 작은 녀석.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88625,PC,Player Character,"""I suppose I did.""","""그랬던 것 같아.""",xp2_hen_dee,,,,,0,0
+88626,PC,Player Character,"""Good idea.""","""좋은 생각이야.""",xp2_hen_dee,,,,,0,0
+88627,PC,Player Character,"""I think that probably would have happened anywhere.""","""아마 어디서든 그랬을 거야.""",xp2_hen_dee,,,,,0,0
+88628,PC,Player Character,"""What were you expecting, Deekin? You're a kobold.""","""뭘 기대했어, 디킨? 넌 코볼트잖아.""",xp2_hen_dee,,,,,0,0
+88629,PC,Player Character,"""No, not that much.""","""아니, 그 정도는 아니야.""",xp2_hen_dee,,,,,0,0
+88630,PC,Player Character,"""A fair amount, yes.""","""꽤 많이, 그래.""",xp2_hen_dee,,,,,0,0
+88631,PC,Player Character,"""Not now, Deekin.""","""지금은 안 돼, 디킨.""",xp2_hen_dee,,,,,0,0
+88632,PC,Player Character,"""Ask away.""","""물어봐.""",xp2_hen_dee,,,,,0,0
+88638,PC,Player Character,"""You lived in caves and you never saw a drow?""","""동굴에 살면서 드로우를 한 번도 못 봤어?""",xp2_hen_dee,,,,,0,0
+88639,PC,Player Character,"""Extra tasty? Really?""","""특별히 맛있다고? 정말?""",xp2_hen_dee,,,,,0,0
+88640,PC,Player Character,"""Ugh... I didn't need to know that...""","""으... 그건 알 필요 없었는데...""",xp2_hen_dee,,,,,0,0
+88641,PC,Player Character,"""Quite a bit. I am an elf, after all.""","""꽤 많이. 나도 어쨌든 엘프니까.""",xp2_hen_dee,,xp1_pciself,,,0,0
+88642,PC,Player Character,"""You do know that a drow is a type of elf, right?""","""드로우가 엘프의 일종이라는 건 알지?""",xp2_hen_dee,,,,,0,0
+88643,PC,Player Character,"""I really don't care.""","""정말 관심 없어.""",xp2_hen_dee,,,,,0,0
+88644,PC,Player Character,"""Enough. This is a dumb topic.""","""그만해. 멍청한 주제야.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88645,PC,Player Character,"""Not on your life.""","""절대 안 돼.""",xp2_hen_dee,,,,,0,0
+88646,PC,Player Character,"""Yes. Change it to Deekin Diesalot.""","""그래. 디킨 다이살롯으로 바꿔.""",xp2_hen_dee,,,,,0,0
+88647,PC,Player Character,"""You want to change your name?""","""이름을 바꾸고 싶어?""",xp2_hen_dee,,,,,0,0
+88648,PC,Player Character,"""That's the dumbest idea I've ever heard.""","""내가 들어본 것 중 가장 멍청한 생각이야.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88649,PC,Player Character,"""That's a good idea. Change your name.""","""좋은 생각이야. 이름을 바꿔.""",xp2_hen_dee,,,,,0,0
+88650,PC,Player Character,"""Think about it. I'm sure you'll come up with something.""","""생각해봐. 뭔가 떠오를 거야.""",xp2_hen_dee,,,,,0,0
+88651,PC,Player Character,"""Err... <FirstName> the kobold?""","""어... 코볼트 <FirstName>?""",xp2_hen_dee,,,,,0,0
+88652,PC,Player Character,"""Donald? Sounds great.""","""도널드? 좋은데.""",xp2_hen_dee,,,,,0,0
+88653,PC,Player Character,"""No. Don't do that, Deekin. Please.""","""안 돼. 그러지 마, 디킨. 제발.""",xp2_hen_dee,,,,,0,0
+88654,PC,Player Character,"""What kind of name is that?""","""그게 무슨 이름이야?""",xp2_hen_dee,,,,,0,0
+88655,PC,Player Character,"""Don't you have any favorite names, Deekin?""","""좋아하는 이름 없어, 디킨?""",xp2_hen_dee,,,,,0,0
+88656,PC,Player Character,"""Maybe something a little less cute?""","""좀 덜 귀여운 걸로?""",xp2_hen_dee,,,,,0,0
+88657,PC,Player Character,"""Yes, macho. Like 'the Deekinator'.""","""그래, 남성적인 거. '디키네이터' 같은 거.""",xp2_hen_dee,,,,,0,0
+88658,PC,Player Character,"""I think Deekin is a fine name.""","""디킨은 좋은 이름이라고 생각해.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88659,PC,Player Character,"""What's wrong with your current name?""","""지금 이름이 뭐가 문제야?""",xp2_hen_dee,,,,,0,0
+88660,PC,Player Character,"""A chicken did write the book.""","""겁쟁이가 책을 썼지.""",xp2_hen_dee,,,,,0,0
+88661,PC,Player Character,"""Who? Oh... my mentor. No, not at all.""","""누구? 아... 내 스승. 아니, 전혀.""",xp2_hen_dee,,,,,0,0
+88662,PC,Player Character,"""Are you joking? He was an old fool, no more.""","""농담이야? 그냥 늙은 바보였어, 그 이상 아니야.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88663,PC,Player Character,"""Drogan sacrificed himself nobly. I will always cherish his memory.""","""드로건은 고결하게 희생했어. 항상 그의 기억을 소중히 할 거야.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88664,PC,Player Character,"""My old mentor? Perhaps a little, sometimes.""","""내 옛 스승? 아마도 조금, 가끔.""",xp2_hen_dee,,,,,0,0
+88665,PC,Player Character,"""That's nice. Let's move on.""","""좋네. 이제 가자.""",xp2_hen_dee,,,,,0,0
+88666,PC,Player Character,"""But you have a whole life of adventure now. Isn't that what you wanted?""","""하지만 이제 모험으로 가득한 삶을 살잖아. 네가 원했던 거 아니야?""",xp2_hen_dee,,,,,0,0
+88667,PC,Player Character,"""But Tymofarrar treated you terribly.""","""하지만 티모파라르는 널 끔찍하게 대했잖아.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88668,PC,Player Character,"""Have you never been back?""","""한 번도 돌아간 적 없어?""",xp2_hen_dee,,,,,0,0
+88669,PC,Player Character,"""That's a stupid question.""","""멍청한 질문이네.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88670,PC,Player Character,"""Undoubtedly not.""","""의심할 여지 없이 아니야.""",xp2_hen_dee,,,,,0,0
+88671,PC,Player Character,"""I hope so.""","""그러길 바라지.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88672,PC,Player Character,"""I couldn't care less.""","""전혀 관심 없어.""",xp2_hen_dee,,,,,0,0
+88673,PC,Player Character,"""You want treasure, do you?""","""보물을 원하는 거야?""",xp2_hen_dee,,,,,0,0
+88674,PC,Player Character,"""If you want something we find, let me know.""","""우리가 찾은 것 중 원하는 게 있으면 말해.""",xp2_hen_dee,,,,,0,0
+88675,PC,Player Character,"""You'll get what I give you, no more.""","""내가 주는 것만 받아, 그 이상은 없어.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88676,PC,Player Character,"""What? You don't trust me to give you a fair share?""","""뭐? 내가 공정하게 나눠줄 거라고 믿지 못해?""",xp2_hen_dee,,,,,0,0
+88677,PC,Player Character,"""Fine, fine. Call dibs.""","""좋아, 좋아. 먼저 찜해.""",xp2_hen_dee,,,,,0,0
+88678,PC,Player Character,"""Dibs? No I don't think that would work.""","""먼저 찜하기? 아니, 그건 안 될 것 같은데.""",xp2_hen_dee,,,,,0,0
+88679,PC,Player Character,"""You're my scribe and sometimes you're handy... at best.""","""넌 내 서기이고 가끔 쓸모 있어... 기껏해야.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88680,PC,Player Character,"""You already are an adventurer, Deekin.""","""넌 이미 모험가야, 디킨.""",xp2_hen_dee,,,,,0,0
+88681,PC,Player Character,"""We are friends, Deekin. That's better than being an adventurer.""","""우린 친구야, 디킨. 모험가보다 더 좋은 거지.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88682,PC,Player Character,"""You are a *kobold*, Deekin.""","""넌 *코볼트*야, 디킨.""",xp2_hen_dee,,,,,0,0
+88683,PC,Player Character,"""Looks that way, yes.""","""그런 것 같아, 그래.""",xp2_hen_dee,,,,,0,0
+88684,PC,Player Character,"""I guess there's no escaping that.""","""피할 수 없는 것 같아.""",xp2_hen_dee,,,,,0,0
+88685,PC,Player Character,"""Right. Just remember to write it all down.""","""그래. 다 기록하는 걸 잊지 마.""",xp2_hen_dee,,,,,0,0
+88686,PC,Player Character,"""We're a team, Deekin, remember?""","""우린 팀이야, 디킨. 기억하지?""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88687,PC,Player Character,"""Thanks, Deekin.""","""고마워, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88688,PC,Player Character,"""The Reaper has always referred to it as his realm, nothing else.""","""사신은 항상 자신의 영역이라고만 말했어.""",xp2_hen_dee,,,,,0,0
+88689,PC,Player Character,"""Keep your questions to yourself, kobold.""","""질문은 네 안에만 담아둬, 코볼트.""",xp2_hen_dee,,,,,0,0
+88690,PC,Player Character,"""Why are you so interested?""","""왜 그렇게 관심 있어?""",xp2_hen_dee,,,,,0,0
+88691,PC,Player Character,"""I don't know what the Reaper is, Deekin. A demon, perhaps? He just is.""","""사신이 뭔지 모르겠어, 디킨. 악마일까? 그냥 존재하는 거지.""",xp2_hen_dee,,,,,0,0
+88692,PC,Player Character,"""That's right.""","""맞아.""",xp2_hen_dee,,,,,0,0
+88693,PC,Player Character,"""Enough questions, Deekin.""","""질문은 그만, 디킨.""",xp2_hen_dee,,,,,0,0
+88694,PC,Player Character,"""I have to pay his price, first, but basically yes.""","""먼저 대가를 치러야 하지만, 기본적으로 그래.""",xp2_hen_dee,,,,,0,0
+88695,PC,Player Character,"""Er... usually. There's some explanation to how this works, but I don't know much about it.""","""어... 보통은. 어떻게 작동하는지 설명이 있긴 한데, 잘 모르겠어.""",xp2_hen_dee,,[지능 낮음],,,0,0
+88696,PC,Player Character,"""This place is a nexus, or so the Reaper says. I'm not sure I understand it all.""","""사신 말로는 이곳이 경계 영역이래. 다 이해하는 건 아니야.""",xp2_hen_dee,,[지능 중간],,,0,0
+88697,PC,Player Character,"""The Reaper says his realm is a nexus. It connects to many places, but not all.""","""사신이 자신의 영역은 경계 영역이라고 해. 많은 곳과 연결되지만 전부는 아니야.""",xp2_hen_dee,,[지능 높음],,,0,0
+88698,PC,Player Character,"""Why don't you ask him yourself?""","""직접 물어보지 그래?""",xp2_hen_dee,,,,,0,0
+88699,PC,Player Character,"""Silence, kobold. I'm not in the mood.""","""조용히 해, 코볼트. 기분 안 좋아.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88700,PC,Player Character,"""Unless you can think of some way out of here, shut it.""","""여기서 나갈 방법을 생각해낼 게 아니면 닥쳐.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88701,PC,Player Character,"""Is there anything about this place you can tell me?""","""이곳에 대해 말해줄 게 있어?""",xp2_hen_dee,,,,,0,0
+88702,PC,Player Character,"""Seems a bit... cold to be one of the Hells, doesn't it?""","""지옥 중 하나치고는 좀... 춥지 않아?""",xp2_hen_dee,,,,,0,0
+88703,PC,Player Character,"""What was your first clue?""","""첫 번째 단서가 뭐였어?""",xp2_hen_dee,,,,,0,0
+88704,PC,Player Character,"""I know all I need to.""","""알아야 할 건 다 알아.""",xp2_hen_dee,,,,,0,0
+88705,PC,Player Character,"""Tell me what you know, then.""","""그럼 아는 걸 말해봐.""",xp2_hen_dee,,,,,0,0
+88706,PC,Player Character,"""Alright, enough chatter about legends.""","""좋아, 전설 얘기는 그만.""",xp2_hen_dee,,,,,0,0
+88707,PC,Player Character,"""Well, let's keep going and see for ourselves, shall we?""","""음, 계속 가서 직접 보자.""",xp2_hen_dee,,,,,0,0
+88708,PC,Player Character,"""There's no way to know this is the place you're talking about, Deekin.""","""네가 말하는 그곳이 여기인지 알 방법이 없어, 디킨.""",xp2_hen_dee,,,,,0,0
+88709,PC,Player Character,"""Anything else interesting about the tale you recall?""","""그 이야기에서 기억나는 다른 흥미로운 게 있어?""",xp2_hen_dee,,,,,0,0
+88710,PC,Player Character,"""Do you know why the city vanished?""","""도시가 사라진 이유를 알아?""",xp2_hen_dee,,,,,0,0
+88711,PC,Player Character,"""Why send the city here?""","""왜 도시를 여기로 보냈어?""",xp2_hen_dee,,,,,0,0
+88712,PC,Player Character,"""Worried they'll steal your book, eh?""","""네 책을 훔칠까 봐 걱정돼?""",xp2_hen_dee,,,,,0,0
+88713,PC,Player Character,"""Don't worry. I'm sure there's nothing in there for them to get excited about.""","""걱정 마. 거기에 그들이 흥분할 만한 건 없을 거야.""",xp2_hen_dee,,,,,0,0
+88714,PC,Player Character,"""I think your thoughts may be a bit beyond their comprehension, Deekin.""","""네 생각은 그들이 이해하기엔 좀 어려울 것 같아, 디킨.""",xp2_hen_dee,,,,,0,0
+88715,PC,Player Character,"""Not if they're lucky.""","""운이 좋으면 몰라.""",xp2_hen_dee,,,,,0,0
+88716,PC,Player Character,"""Silence, kobold!""","""조용히 해, 코볼트!""",xp2_hen_dee,,,,,0,0
+88717,PC,Player Character,"""Don't worry, Deekin. I'll protect you.""","""걱정 마, 디킨. 내가 보호할게.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88718,PC,Player Character,"""Why? What's wrong?""","""왜? 무슨 일이야?""",xp2_hen_dee,,,,,0,0
+88719,PC,Player Character,"""You always say that, Deekin.""","""항상 그런 말 하잖아, 디킨.""",xp2_hen_dee,,,,,0,0
+88720,PC,Player Character,"""How should I know?""","""내가 어떻게 알아?""",xp2_hen_dee,,,,,0,0
+88721,PC,Player Character,"""Why don't we ask them?""","""직접 물어보는 게 어때?""",xp2_hen_dee,,,,,0,0
+88722,PC,Player Character,"""Or they're slaves of some kind.""","""아니면 어떤 종류의 노예일 수도 있어.""",xp2_hen_dee,,,,,0,0
+88723,PC,Player Character,"""They are probably slaves or servants, Deekin.""","""아마 노예나 하인일 거야, 디킨.""",xp2_hen_dee,,,,,0,0
+88724,PC,Player Character,"""Let's find out.""","""알아보자.""",xp2_hen_dee,,,,,0,0
+88725,PC,Player Character,"""Enough with all these questions! It's time to act.""","""질문은 그만! 이제 행동할 시간이야.""",xp2_hen_dee,,,,,0,0
+88726,PC,Player Character,"""Something we haven't seen yet, perhaps.""","""아직 보지 못한 뭔가일 수도 있지.""",xp2_hen_dee,,,,,0,0
+88727,PC,Player Character,"""That's a stupid question.""","""멍청한 질문이네.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88728,PC,Player Character,"""They might keep slaves to work on it, too.""","""노예들을 부려서 일하게 할 수도 있어.""",xp2_hen_dee,,,,,0,0
+88729,PC,Player Character,"""They could always have one more if you keep blathering.""","""네가 계속 떠들면 하나 더 생기겠지.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88730,PC,Player Character,"""No, I'm sure they just eat the kobolds.""","""아니, 분명히 코볼트를 잡아먹을 거야.""",xp2_hen_dee,,,,,0,0
+88731,PC,Player Character,"""Why not? We've seen plenty of surface races down here.""","""왜 안 돼? 여기서 지상 종족들을 많이 봤잖아.""",xp2_hen_dee,,,,,0,0
+88732,PC,Player Character,"""Sounds like a reasonable idea.""","""합리적인 생각이네.""",xp2_hen_dee,,,,,0,0
+88733,PC,Player Character,"""Keep up that silliness and *you'll* disappear.""","""계속 바보짓을 하면 *네가* 사라질 거야.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88734,PC,Player Character,"""Don't care for your publisher, I see?""","""출판사가 마음에 안 드는 모양이지?""",xp2_hen_dee,,,,,0,0
+88735,PC,Player Character,"""I guess we can all be glad you don't actually have one, then.""","""그럼 네가 실제로는 없다는 게 다행이네.""",xp2_hen_dee,,,,,0,0
+88736,PC,Player Character,"""Can you tell anything about them?""","""그것들에 대해 뭔가 알 수 있어?""",xp2_hen_dee,,,,,0,0
+88737,PC,Player Character,"""We may find evidence of them if we look around.""","""주변을 둘러보면 증거를 찾을 수 있을 거야.""",xp2_hen_dee,,,,,0,0
+88738,PC,Player Character,"""Just pull yourself together.""","""정신 차려.""",xp2_hen_dee,,,,,0,0
+88739,PC,Player Character,"""How would a dead magic zone come to be, you think?""","""마법 무효 지대는 어떻게 생긴 거라고 생각해?""",xp2_hen_dee,,,,,0,0
+88740,PC,Player Character,"""It shouldn't be that much of a problem. We'll be fine.""","""그렇게 큰 문제는 아닐 거야. 괜찮을 거야.""",xp2_hen_dee,,,,,0,0
+88741,PC,Player Character,"""That may very well be.""","""그럴 수도 있겠네.""",xp2_hen_dee,,,,,0,0
+88742,PC,Player Character,"""So I hear.""","""나도 들었어.""",xp2_hen_dee,,,,,0,0
+88743,PC,Player Character,"""What makes you ask that?""","""왜 그렇게 물어?""",xp2_hen_dee,,,,,0,0
+88744,PC,Player Character,"""Why not? Anything is possible.""","""왜 안 돼? 뭐든 가능하지.""",xp2_hen_dee,,,,,0,0
+88745,PC,Player Character,"""I truly doubt it.""","""정말 의심스러워.""",xp2_hen_dee,,,,,0,0
+88746,PC,Player Character,"""I don't know. Perhaps.""","""모르겠어. 아마도.""",xp2_hen_dee,,,,,0,0
+88747,PC,Player Character,"""I agree. That would be a terrible existence.""","""동의해. 끔찍한 존재가 될 거야.""",xp2_hen_dee,,,,,0,0
+88748,PC,Player Character,"""I really doubt that's how it is.""","""그게 그렇진 않을 것 같은데.""",xp2_hen_dee,,,,,0,0
+88749,PC,Player Character,"""You were stone, yourself. You tell me.""","""넌 돌이었잖아. 네가 말해봐.""",xp2_hen_dee,,,,,0,0
+88750,PC,Player Character,"""I don't want to talk about that.""","""그 얘기는 하고 싶지 않아.""",xp2_hen_dee,,,,,0,0
+88751,PC,Player Character,"""I didn't feel anything when I was stone.""","""돌이었을 때 아무것도 느끼지 못했어.""",xp2_hen_dee,,,,,0,0
+88752,PC,Player Character,"""Don't be so stupid.""","""그렇게 멍청하게 굴지 마.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88753,PC,Player Character,"""I truly doubt it, Deekin.""","""정말 의심스러워, 디킨.""",xp2_hen_dee,,,,,0,0
+88754,PC,Player Character,"""Maybe. If we meet one, maybe we can ask it.""","""아마도. 하나 만나면 물어볼 수 있을 거야.""",xp2_hen_dee,,,,,0,0
+88755,PC,Player Character,"""If a golem thinks as much as you, we should be very frightened.""","""골렘이 너만큼 생각한다면 정말 무서울 텐데.""",xp2_hen_dee,,,,,0,0
+88756,PC,Player Character,"""It's a good thing you're not a golem, then.""","""그럼 네가 골렘이 아닌 게 다행이네.""",xp2_hen_dee,,,,,0,0
+88757,PC,Player Character,"""We don't know for sure, Deekin. They might be happy, too.""","""확실히 모르잖아, 디킨. 행복할 수도 있어.""",xp2_hen_dee,,,,,0,0
+88758,PC,Player Character,"""But...?""","""하지만...?""",xp2_hen_dee,,,,,0,0
+88759,PC,Player Character,"""I really don't want to hear about it, Deekin.""","""정말 그 얘기 듣고 싶지 않아, 디킨.""",xp2_hen_dee,,,,,0,0
+88760,PC,Player Character,"""You're not afraid of water, are you?""","""물이 무섭진 않지?""",xp2_hen_dee,,,,,0,0
+88761,PC,Player Character,"""I suppose you're right. I hadn't thought of it like that.""","""네 말이 맞는 것 같아. 그렇게 생각해본 적 없었어.""",xp2_hen_dee,,,,,0,0
+88762,PC,Player Character,"""And so? What's wrong with that?""","""그래서? 그게 뭐가 문제야?""",xp2_hen_dee,,,,,0,0
+88763,PC,Player Character,"""Enough, Deekin. I don't need to hear more of this prattle.""","""그만해, 디킨. 이런 잡담은 더 듣고 싶지 않아.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88764,PC,Player Character,"""There's just as much water below the ground as above it, Deekin.""","""땅 밑에도 땅 위만큼 물이 많아, 디킨.""",xp2_hen_dee,,[지능 높음],,,0,0
+88765,PC,Player Character,"""I know lots of things, Deekin. I'm smart.""","""난 많은 걸 알아, 디킨. 난 똑똑하거든.""",xp2_hen_dee,,,,,0,0
+88766,PC,Player Character,"""I, uh, don't think it works quite like that...""","""어, 그렇게 되는 건 아닌 것 같은데...""",xp2_hen_dee,,[지능 중간],,,0,0
+88767,PC,Player Character,"""I've never been on a ship, either.""","""나도 배를 타본 적이 없어.""",xp2_hen_dee,,,,,0,0
+88768,PC,Player Character,"""Since when is an adventure supposed to be safe?""","""모험이 언제부터 안전해야 했어?""",xp2_hen_dee,,,,,0,0
+88769,PC,Player Character,"""Don't be such a coward. It's perfectly safe.""","""그렇게 겁쟁이처럼 굴지 마. 완벽하게 안전해.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88770,PC,Player Character,"""Well, it's not safe, really.""","""음, 사실 안전하진 않아.""",xp2_hen_dee,,,,,0,0
+88771,PC,Player Character,"""You got me. I haven't a clue.""","""모르겠어. 전혀 감이 안 와.""",xp2_hen_dee,,[지능 낮음],,,0,0
+88772,PC,Player Character,"""You're not going to get all scared now, are you?""","""지금 무서워하려는 건 아니지?""",xp2_hen_dee,,,,,0,0
+88773,PC,Player Character,"""So we are. Do you know a way out of here that they didn't mention?""","""그렇지. 그들이 말하지 않은 다른 출구를 알아?""",xp2_hen_dee,,,,,0,0
+88774,PC,Player Character,"""I know. I'm not very happy about that, either.""","""알아. 나도 그게 별로 마음에 안 들어.""",xp2_hen_dee,,,,,0,0
+88775,PC,Player Character,"""Just figured that out, did you?""","""이제야 알아챈 거야?""",xp2_hen_dee,,,,,0,0
+88776,PC,Player Character,"""Great. Wonderful. Let's move on, shall we?""","""좋아. 훌륭해. 이제 가자.""",xp2_hen_dee,,,,,0,0
+88777,PC,Player Character,"""Well, I'm glad to know someone's keeping things in perspective.""","""음, 누군가는 관점을 유지하고 있다니 다행이네.""",xp2_hen_dee,,,,,0,0
+88778,PC,Player Character,"""Is that all you're concerned about? Your book?""","""그게 네가 걱정하는 전부야? 네 책?""",xp2_hen_dee,,,,,0,0
+88779,PC,Player Character,"""And maybe I'll see some actual coin from *this* book...?""","""그리고 아마 *이* 책에서는 실제로 돈을 좀 볼 수 있을지도...?""",xp2_hen_dee,,,,,0,0
+88780,PC,Player Character,"""You mean you're not scared to be in the Underdark at all?""","""언더다크에 있는 게 전혀 무섭지 않다는 거야?""",xp2_hen_dee,,,,,0,0
+88781,PC,Player Character,"""I should kill you now, rodent.""","""지금 당장 죽여버릴까, 쥐새끼.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88782,PC,Player Character,"""I suppose you're right.""","""네 말이 맞는 것 같아.""",xp2_hen_dee,,,,,0,0
+88783,PC,Player Character,"""Cool? We're going to be in constant danger?""","""멋있다고? 우리가 계속 위험에 처할 텐데?""",xp2_hen_dee,,,,,0,0
+88784,PC,Player Character,"""Sometimes I just don't understand you at all, Deekin.""","""가끔은 널 정말 이해할 수가 없어, 디킨.""",xp2_hen_dee,,,,,0,0
+88785,PC,Player Character,"""And where does that doorway go? Do you know?""","""그 문은 어디로 가는 거야? 알아?""",xp2_hen_dee,,,,,0,0
+88786,PC,Player Character,"""That seems rather obvious, don't you think?""","""꽤 명백한 것 같은데, 안 그래?""",xp2_hen_dee,,,,,0,0
+88787,PC,Player Character,"""And what makes you say that?""","""그렇게 말하는 이유가 뭐야?""",xp2_hen_dee,,,,,0,0
+88788,PC,Player Character,"""Alright, let's get moving.""","""좋아, 이제 가자.""",xp2_hen_dee,,,,,0,0
+88789,PC,Player Character,"""Typical. More puzzle-work.""","""전형적이네. 또 퍼즐이야.""",xp2_hen_dee,,,,,0,0
+88790,PC,Player Character,"""How much deeper does this dungeon go, anyway?""","""이 던전이 대체 얼마나 더 깊은 거야?""",xp2_hen_dee,,,,,0,0
+88791,PC,Player Character,"""And where are these chains held?""","""그리고 이 사슬들은 어디에 묶여 있어?""",xp2_hen_dee,,,,,0,0
+88792,PC,Player Character,"""Quiet, Deekin. Stay on watch.""","""조용히 해, 디킨. 경계를 늦추지 마.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88793,PC,Player Character,"""Thanks for the travelogue. Let's continue.""","""여행기 고마워. 계속 가자.""",xp2_hen_dee,,,,,0,0
+88794,PC,Player Character,"""Is it very dangerous?""","""아주 위험해?""",xp2_hen_dee,,,,,0,0
+88795,PC,Player Character,"""Sleeping Kings?""","""잠든 왕들?""",xp2_hen_dee,,,,,0,0
+88796,PC,Player Character,"""Let's move on, then.""","""그럼 계속 가자.""",xp2_hen_dee,,,,,0,0
+88797,PC,Player Character,"""Alright, Deekin, thanks for the tip.""","""알았어, 디킨. 조언 고마워.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88798,PC,Player Character,"""They sleep? Or they're dead?""","""자는 거야? 아니면 죽은 거야?""",xp2_hen_dee,,,,,0,0
+88799,PC,Player Character,"""They could have great treasure, then, is what you're saying.""","""그럼 엄청난 보물이 있을 수도 있다는 거네.""",xp2_hen_dee,,,,,0,0
+88800,PC,Player Character,"""Be silent. I've no need of your anecdotes.""","""조용히 해. 네 일화는 필요 없어.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88801,PC,Player Character,"""Yes, well, I'm sure we'll find out more soon enough.""","""그래, 곧 더 알게 될 거야.""",xp2_hen_dee,,,,,0,0
+88802,PC,Player Character,"""What do you know about it?""","""그것에 대해 뭘 알아?""",xp2_hen_dee,,,,,0,0
+88803,PC,Player Character,"""Thanks for the help, Deekin.""","""도와줘서 고마워, 디킨.""",xp2_hen_dee,x2_hen_deeklike,,,,0,0
+88804,PC,Player Character,"""Alright. Let's move on.""","""좋아. 이제 가자.""",xp2_hen_dee,,,,,0,0
+88805,PC,Player Character,"""What if I don't look in the mirrors?""","""거울을 보지 않으면 어떻게 돼?""",xp2_hen_dee,,,,,0,0
+88806,PC,Player Character,"""Can the mirrors be broken?""","""거울을 깨뜨릴 수 있어?""",xp2_hen_dee,,,,,0,0
+88807,PC,Player Character,"""Copies you?""","""복제한다고?""",xp2_hen_dee,,,,,0,0
+88808,PC,Player Character,"""Pulls you in?""","""빨아들인다고?""",xp2_hen_dee,,,,,0,0
+88809,PC,Player Character,"""Yes, of course. And?""","""그래, 물론이지. 그래서?""",xp2_hen_dee,,,,,0,0
+88810,PC,Player Character,<StartAction>[Glare at him.]</Start>,<StartAction>[그를 노려본다.]</Start>,xp2_hen_dee,,,,,0,0
+88811,PC,Player Character,"""So I've heard, Deekin.""","""그렇게 들었어, 디킨.""",xp2_hen_dee,,,,,0,0
+88812,PC,Player Character,"""I can still get back up to the inn, can't I?""","""여관으로 돌아갈 수는 있지?""",xp2_hen_dee,,,,,0,0
+88813,PC,Player Character,"""Then that's all I need to know.""","""그럼 그게 내가 알아야 할 전부네.""",xp2_hen_dee,,,,,0,0
+88814,PC,Player Character,"""Do you know a lot about Undermountain, Deekin?""","""언더마운틴에 대해 많이 알아, 디킨?""",xp2_hen_dee,,,,,0,0
+88815,PC,Player Character,"""You're saying the Relic of the Reaper won't work?""","""사신의 유물이 작동하지 않을 거라는 거야?""",xp2_hen_dee,,,,,0,0
+88816,PC,Player Character,"""Why do you say that?""","""왜 그렇게 말해?""",xp2_hen_dee,,,,,0,0
+88817,PC,Player Character,"""Thanks for the tip.""","""조언 고마워.""",xp2_hen_dee,,,,,0,0
+88818,PC,Player Character,"""Whatever.""","""뭐든.""",xp2_hen_dee,,,,,0,0
+88819,PC,Player Character,"""Just make sure you tell me if you see anything else you recognize.""","""다른 걸 알아보면 꼭 말해줘.""",xp2_hen_dee,,,,,0,0
+88820,PC,Player Character,"""Yes, back to the adventure.""","""그래, 모험으로 돌아가자.""",xp2_hen_dee,,,,,0,0
+88821,PC,Player Character,"""Well, I'll be careful.""","""음, 조심할게.""",xp2_hen_dee,,,,,0,0
+88822,PC,Player Character,"""You know a lot about Undermountain, do you?""","""언더마운틴에 대해 많이 아는구나?""",xp2_hen_dee,,,,,0,0
+88823,PC,Player Character,"""Be watchful, then, and stay on guard.""","""그럼 조심하고 경계를 늦추지 마.""",xp2_hen_dee,,,,,0,0
+88824,PC,Player Character,"""We'll be careful, Deekin, don't worry.""","""조심할게, 디킨. 걱정 마.""",xp2_hen_dee,,,,,0,0
+88825,PC,Player Character,"""You've nothing to fear while you're with me.""","""나와 함께 있는 동안은 두려워할 게 없어.""",xp2_hen_dee,,,,,0,0
+88826,PC,Player Character,"""Things have obviously changed in Undermountain since those books were written, Deekin.""","""책이 쓰인 이후로 언더마운틴에 많은 변화가 있었던 게 분명해, 디킨.""",xp2_hen_dee,,,,,0,0
+88827,PC,Player Character,"""Maybe this Halaster isn't here anymore.""","""아마 이 할라스터는 더 이상 여기 없을지도 몰라.""",xp2_hen_dee,,,,,0,0
+88828,PC,Player Character,"""It means my patience with you is less than it normally is, kobold.""","""평소보다 네게 대한 인내심이 줄어들었다는 뜻이야, 코볼트.""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88829,PC,Player Character,"""It means we're in a very dangerous place.""","""우리가 아주 위험한 장소에 있다는 뜻이야.""",xp2_hen_dee,,,,,0,0
+88830,PC,Player Character,"""No, what does that mean?""","""아니, 그게 무슨 뜻이야?""",xp2_hen_dee,,,,,0,0
+88831,PC,Player Character,"""Of course I knew that, you stupid kobold!""","""당연히 알고 있었지, 이 멍청한 코볼트야!""",xp2_hen_dee,x2_hen_deekhate,,,,0,0
+88832,PC,Player Character,"""You're kidding. I had no idea.""","""농담이지. 전혀 몰랐어.""",xp2_hen_dee,,,,,0,0
+88833,PC,Player Character,<StartAction>[Glare at him.]</Start>,<StartAction>[그를 노려본다.]</Start>,xp2_hen_dee,,,,,0,0
+88834,PC,Player Character,"<StartAction>[Sigh.]</Start> ""Yes, of course I knew where we were going, Deekin.""","<StartAction>[한숨.]</Start> ""그래, 물론 어디로 가는지 알고 있었어, 디킨.""",xp2_hen_dee,,,,,0,0
+88835,PC,Player Character,"""None whatsoever. I thought we were going to Rashaman to run naked in the fields.""","""전혀 몰랐지. 라셰맨에 가서 벌판을 벗고 뛰어다니는 줄 알았어.""",xp2_hen_dee,,,,,0,0
+88836,PC,Player Character,"""That and eat kobold stew as a delicacy.""","""그리고 코볼트 스튜를 진미로 먹는다고.""",xp2_hen_dee,,,,,0,0
+88837,PC,Player Character,"""Never mind. I don't want to discuss it.""","""신경 쓰지 마. 논의하고 싶지 않아.""",xp2_hen_dee,,,,,0,0
+88838,PC,Player Character,"""You came with me. Expect to die.""","""넌 나와 함께 왔어. 죽을 각오해.""",xp2_hen_dee,,,,,0,0
+88839,PC,Player Character,"""Right. Let's go.""","""좋아. 가자.""",xp2_hen_dee,,,,,0,0
+88840,PC,Player Character,"""No. Just stay here, for now.""","""아니. 일단 여기 있어.""",xp2_hen_dee,x0_d1_hen_fired,,,,0,0
+88841,PC,Player Character,"""Maybe you shouldn't go running off all the time.""","""항상 뛰어다니지 말아야 할 것 같아.""",xp2_hen_dee,,,,,0,0
+88842,PC,Player Character,"""You're a tiny kobold and a bard. What were you expecting?""","""넌 작은 코볼트이자 음유시인이야. 뭘 기대했어?""",xp2_hen_dee,,,,,0,0
+88843,PC,Player Character,"""You keep dying. That's the real problem.""","""계속 죽는 게 진짜 문제야.""",xp2_hen_dee,,,,,0,0
+88844,PC,Player Character,"""Don't worry about it, Deekin. You're doing fine.""","""걱정 마, 디킨. 잘하고 있어.""",xp2_hen_dee,,,,,0,0
+88845,PC,Player Character,"""He did ask a question, Linu.""","""질문을 했잖아, 리누.""",xp2_hen_dee,,,,,0,0
+88846,PC,Player Character,"""Don't be so hard on her, Deekin. She does her best.""","""그렇게 심하게 대하지 마, 디킨. 최선을 다하고 있어.""",xp2_hen_dee,,,,,0,0
+88847,PC,Player Character,"""That hurt like hell, you know. Vicious assault with a frying pan.""","""엄청 아팠어, 알지? 프라이팬으로 잔인하게 공격당했다고.""",xp2_hen_dee,,,,,0,0
+101675,PC,Player Character,<StartCheck>[Reprimand Deekin.]</Start>,<StartCheck>[디킨을 꾸짖는다.]</Start>,xp2_hen_dee,,,,,0,0
+101676,PC,Player Character,"""Thanks for the update.""","""알려줘서 고마워.""",xp2_hen_dee,,,,,0,0
+101677,PC,Player Character,"""Of course it's true. Never trust a drow.""","""당연히 사실이지. 드로우는 절대 믿으면 안 돼.""",xp2_hen_dee,,,,,0,0
+101678,PC,Player Character,"""They are just like the shadows they inhabit. Dark and twisted.""","""그들이 사는 그림자처럼 어둡고 뒤틀려 있어.""",xp2_hen_dee,,,,,0,0
+101679,PC,Player Character,"""Well... perhaps not all of them. But most of them.""","""음... 전부는 아닐지도. 하지만 대부분이 그래.""",xp2_hen_dee,,,,,0,0
+101680,PC,Player Character,"""If there are a few who aren't evil, they're rare exceptions.""","""악하지 않은 자가 있다면, 아주 드문 예외야.""",xp2_hen_dee,,,,,0,0
+101681,PC,Player Character,"""What do you mean?""","""무슨 뜻이야?""",xp2_hen_dee,,,,,0,0
+101682,PC,Player Character,"""Their entire race is evil. There's no getting away from it.""","""종족 전체가 악해. 피할 수 없어.""",xp2_hen_dee,,,,,0,0
+101683,PC,Player Character,"""That's true, I suppose.""","""그게 사실인 것 같아.""",xp2_hen_dee,,,,,0,0
+101684,PC,Player Character,"""You're an exception, that's all.""","""넌 예외야, 그게 전부야.""",xp2_hen_dee,,,,,0,0
+101685,PC,Player Character,"""Not everyone can be perfect.""","""모두가 완벽할 순 없어.""",xp2_hen_dee,,,,,0,0
+101686,PC,Player Character,"""Are we still talking about the drow?""","""아직도 드로우 얘기하는 거야?""",xp2_hen_dee,,,,,0,0
+101687,PC,Player Character,"""That sounds like a stupid idea.""","""멍청한 생각 같은데.""",xp2_hen_dee,,,,,0,0
+101688,PC,Player Character,"""I wouldn't get your hopes up, Deekin.""","""기대는 하지 않는 게 좋을 거야, 디킨.""",xp2_hen_dee,,,,,0,0
+101689,PC,Player Character,"""You want to show them how to be good, Deekin?""","""그들에게 선해지는 법을 가르쳐주고 싶은 거야, 디킨?""",xp2_hen_dee,,,,,0,0
+101690,PC,Player Character,"""Oh, enough crying! Let's get moving!""","""아, 그만 징징대! 이제 가자!""",xp2_hen_dee,,,,,0,0
+101691,PC,Player Character,"""You don't need anyone. You have to learn that.""","""누구도 필요 없어. 그걸 배워야 해.""",xp2_hen_dee,,,,,0,0
+101692,PC,Player Character,"""I think there might be other good kobolds out there, who knows?""","""밖에 착한 코볼트가 더 있을지도 몰라, 누가 알겠어?""",xp2_hen_dee,,,,,0,0
+101693,PC,Player Character,"""I understand. I guess you're right, in a way.""","""이해해. 어떤 면에서는 네 말이 맞는 것 같아.""",xp2_hen_dee,,,,,0,0
+101694,PC,Player Character,"""You've got me, don't you?""","""날 가졌잖아, 안 그래?""",xp2_hen_dee,,,,,0,0
+101695,PC,Player Character,"""I don't really know, Deekin.""","""잘 모르겠어, 디킨.""",xp2_hen_dee,,,,,0,0
+101696,PC,Player Character,"""Possibly. They say that the famous Drizzt Do'Urden is a good drow.""","""아마도. 유명한 드리즈트 두어덴이 선한 드로우라고들 하더라.""",xp2_hen_dee,,,,,0,0
+101697,PC,Player Character,"""Probably not.""","""아마 아닐 거야.""",xp2_hen_dee,,,,,0,0
+101698,PC,Player Character,"""The Seer is good, isn't she?""","""선견자는 선하잖아?""",xp2_hen_dee,,x0_d2_ischapt2,,,0,0
+101699,PC,Player Character,"""There are some good drow, yes, but most are evil.""","""선한 드로우도 있어, 그래. 하지만 대부분은 악해.""",xp2_hen_dee,,,,,0,0
+101700,PC,Player Character,"""Let's go.""","""가자.""",xp2_hen_dee,,,,,0,0
+101701,PC,Player Character,"<StartAction>[Nathyrra]</Start> ""Qeyifalia the Skyseeker...""","<StartAction>[나시라]</Start> ""하늘탐구자 퀴팔리아...""",xp2_hen_dee,a_true_nath,hx_nat_nameonce,,,0,0
+101702,PC,Player Character,"""Nothing right now.""","""지금은 없어.""",xp2_hen_dee,,,,,0,0
+101703,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 내게 바쳐라!""",xp2_hen_dee,,c_evilact,,,0,0
+101704,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다면 안 돼.""",xp2_hen_dee,,,,,0,0
+101705,PC,Player Character,"""Yes, I am sure.""","""그래, 확실해.""",xp2_hen_dee,,,,,0,0
+101706,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 널 묶어두겠어!""",xp2_hen_dee,h2a_nath_namerom,c_false,,,0,0
+101707,PC,Player Character,"""Your anger is nothing to me. I own you, body and soul.""","""네 분노는 내게 아무것도 아니야. 난 네 육체와 영혼을 소유해.""",xp2_hen_dee,,,,,0,0
+101708,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화내는 모습이 너무 섹시해. 키스해줘!""",xp2_hen_dee,,,,,0,0
+101709,PC,Player Character,"""Forgive yourself for your past crimes.""","""과거의 죄를 스스로 용서해.""",xp2_hen_dee,h2a_nath_namefor,,,,0,0
+101710,PC,Player Character,"""I won't do anything to harm you, Nathyrra.""","""널 해칠 일은 하지 않을게, 나시라.""",xp2_hen_dee,,,,,0,0
+101711,PC,Player Character,"<StartAction>[Aribeth]</Start> ""Va'ardalia the Twinsouled...""","<StartAction>[아리베스]</Start> ""두영혼의 바아달리아...""",xp2_hen_dee,a_true_ari,hx_ari_nameonce,,,0,0
+101712,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_dee,,,,,0,0
+101713,PC,Player Character,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 대해 죄책감을 느끼지 마.""",xp2_hen_dee,,,,,0,0
+101714,PC,Player Character,"""You are right. I will not ask that of you.""","""네 말이 맞아. 그걸 요구하지 않을게.""",xp2_hen_dee,,,,,0,0
+101715,PC,Player Character,"""Don't you see? This is your atonement... It's all right...""","""모르겠어? 이게 네 속죄야... 괜찮아...""",xp2_hen_dee,,,,,0,0
+101716,PC,Player Character,"""I just don't want to see you suffer so.""","""그저 네가 그렇게 고통받는 걸 보고 싶지 않아.""",xp2_hen_dee,,,,,0,0
+101717,PC,Player Character,"""Yes, Aribeth. Dead and cold...""","""그래, 아리베스. 죽고 차갑게...""",xp2_hen_dee,,,,,0,0
+101718,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 내게 바쳐라!""",xp2_hen_dee,,c_evilact,,,0,0
+101719,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다면 안 돼.""",xp2_hen_dee,,,,,0,0
+101720,PC,Player Character,"""Yes, I am sure.""","""그래, 확실해.""",xp2_hen_dee,,,,,0,0
+101721,PC,Player Character,"""I command you to pursue evil, not good.""","""선이 아닌 악을 추구하라고 명령해.""",xp2_hen_dee,hx_ari_change_e,c_evilact,,,0,0
+101722,PC,Player Character,"""I command you to love me...""","""날 사랑하라고 명령해...""",xp2_hen_dee,h2a_ari_nameroma,c_false,,,0,0
+101723,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_dee,,,,,0,0
+101724,PC,Player Character,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 대해 죄책감을 느끼지 마.""",xp2_hen_dee,,,,,0,0
+101725,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 내게 바쳐라!""",xp2_hen_dee,,c_evilact,,,0,0
+101726,PC,Player Character,"""If it means losing you, then no...""","""널 잃는다면 안 돼...""",xp2_hen_dee,,,,,0,0
+101727,PC,Player Character,"""Yes, I am sure.""","""그래, 확실해.""",xp2_hen_dee,,,,,0,0
+101728,PC,Player Character,"""I command you to pursue good, not evil.""","""악이 아닌 선을 추구하라고 명령해.""",xp2_hen_dee,hx_ari_change_g,,,,0,0
+101729,PC,Player Character,"""I command you to love me!""","""날 사랑하라고 명령해!""",xp2_hen_dee,h2a_ari_nameroma,c_false,,,0,0
+101730,PC,Player Character,"""That is all, Aribeth.""","""그게 전부야, 아리베스.""",xp2_hen_dee,,,,,0,0
+101731,PC,Player Character,"<StartAction>[Valen]</Start> ""Oeskathine the Demonwrestler...""","<StartAction>[발렌]</Start> ""악마씨름꾼 오에스카틴...""",xp2_hen_dee,a_true_valen,hx_val_nameonce,,,0,0
+101732,PC,Player Character,"""Nothing right now.""","""지금은 없어.""",xp2_hen_dee,,,,,0,0
+101733,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 내게 바쳐라!""",xp2_hen_dee,,c_evilact,,,0,0
+101734,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 널 묶어두겠어!""",xp2_hen_dee,,c_false,,,0,0
+101735,PC,Player Character,"""I hereby free you from your infernal taint.""","""이로써 너를 지옥의 오염에서 해방시킨다.""",xp2_hen_dee,h2a_val_namefor,h2a_val_namefor1,,,0,0
+101736,PC,Player Character,"""You're welcome.""","""천만에.""",xp2_hen_dee,,,,,0,0
+101737,PC,Player Character,"""Glad you like it. Now give me your soul.""","""마음에 들어서 다행이야. 이제 영혼을 내놓아.""",xp2_hen_dee,,c_evilact,,,0,0
+101738,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다면 안 돼.""",xp2_hen_dee,,,,,0,0
+101739,PC,Player Character,"""Sorry, my love, but this is it for us.""","""미안해, 내 사랑. 하지만 우리는 여기까지야.""",xp2_hen_dee,,x2_valromancex,,,0,0
+101740,PC,Player Character,"""Yes, I am.""","""그래, 확실해.""",xp2_hen_dee,,,,,0,0
+101741,PC,Player Character,"""Good. Now, in repayment, you are to become my lover forever.""","""좋아. 이제 보답으로, 넌 영원히 내 연인이 되는 거야.""",xp2_hen_dee,,c_false,,,0,0
+101742,PC,Player Character,"""Well... perhaps not.""","""음... 아닐지도.""",xp2_hen_dee,,,,,0,0
+101743,PC,Player Character,"""You heard me.""","""내 말 들었잖아.""",xp2_hen_dee,h2a_val_namerom,,,,0,0
+101744,PC,Player Character,"""We're done. For now.""","""끝났어. 일단은.""",xp2_hen_dee,,,,,0,0
+101745,PC,Player Character,"""You don't frighten me. I own you, body and soul.""","""날 겁주지 못해. 난 네 육체와 영혼을 소유해.""",xp2_hen_dee,,,,,0,0
+101746,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화내는 모습이 너무 섹시해. 키스해줘!""",xp2_hen_dee,,,,,0,0
+101747,PC,Player Character,"""So there's hope for us after all?""","""그럼 우리에게 아직 희망이 있는 거야?""",xp2_hen_dee,,x2_valromancex,,,0,0
+101748,PC,Player Character,"""Does it really feel that different?""","""정말 그렇게 다르게 느껴져?""",xp2_hen_dee,,,,,0,0
+101749,PC,Player Character,"""I'm glad. You certainly earned it.""","""다행이야. 확실히 자격이 있어.""",xp2_hen_dee,,,,,0,0
+101750,PC,Player Character,"<StartAction>[Deekin]</Start> ""Ixthyria the Scalesinger...""","<StartAction>[디킨]</Start> ""비늘소리꾼 익시리아...""",xp2_hen_dee,a_true_deekin,hx_dek_nameonce,,,0,0
+101751,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",xp2_hen_dee,,,,,0,0
+101752,PC,Player Character,"""Believe in yourself, Deekin.""","""스스로를 믿어, 디킨.""",xp2_hen_dee,h2a_deek_namebel,,,,0,0
+101753,PC,Player Character,"""You're kind, you're talented, you're funny. You don't need me anymore. If I die, you'll be all right.""","""넌 친절하고, 재능 있고, 재미있어. 더 이상 날 필요로 하지 않아. 내가 죽어도 괜찮을 거야.""",xp2_hen_dee,,,,,0,0
+101754,PC,Player Character,"""Not if I can help it. Come, we have an adventure to finish.""","""내가 도울 수 있다면 그렇지 않아. 가자, 끝내야 할 모험이 있잖아.""",xp2_hen_dee,,,,,0,0
+101755,PC,Player Character,"""Surrender your soul to me, little one!"" ","""네 영혼을 내게 바쳐라, 작은 것아!""",xp2_hen_dee,,c_evilact,,,0,0
+101756,PC,Player Character,"""If it means losing you, then no.""","""그게 널 잃는 거라면, 안 돼.""",xp2_hen_dee,,,,,0,0
+101757,PC,Player Character,"""Yes, I am sure.""","""그래, 확실해.""",xp2_hen_dee,,,,,0,0
+101758,PC,Player Character,"""What now?""","""이제 뭐야?""",xp2_hen_dee,,,,,0,0
+101759,PC,Player Character,"""Not right now.""","""지금은 아니야.""",xp2_hen_dee,,,,,0,0
+101760,PC,Player Character,"""That sounds like a good idea.""","""좋은 생각인 것 같은데.""",xp2_hen_dee,,,,,0,0

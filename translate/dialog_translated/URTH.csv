@@ -1,0 +1,25 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+31923,Dialog,URTH,"Why have you come here? My parents told you to leave, didn't they? Did they also tell you how horrible this is? Can't you just leave me alone?","왜 왔어? 부모님이 나가라고 했잖아? 이게 얼마나 끔찍한지도 말씀하셨고? 그냥 날 좀 내버려 둘 수 없어?",M2Q1A10URTH,nw_d1_j_surr01,,,,0,0
+31924,Dialog,URTH,"Now that this ordeal is over, I think I need a vacation. A long one. Farewell and thank you!","이제 시련이 끝났으니 휴가가 필요할 것 같아. 긴 휴가. 잘 가, 그리고 고마워!",M2Q1A10URTH,,,,,0,0
+31925,Dialog,URTH,"Death can be no worse than the fate I am living. Kill me, if you must, but do not be surprised when I fight back!","죽음이 지금 사는 것보다 나쁠 순 없어. 꼭 그래야 한다면 죽여. 하지만 내가 맞서 싸워도 놀라지 마!",M2Q1A10URTH,m2q1attackurth,,,,0,0
+31926,Dialog,URTH,Why not just kill me outright? Why ask me to do it myself?,왜 그냥 날 죽이지 않고? 왜 스스로 하라고 하는 거야?,M2Q1A10URTH,,,,,0,0
+31927,Dialog,URTH,"My name is Urth, and I've been infected with lycanthropy. That's why I'm hiding here, so no one has to see - this.","내 이름은 어스야. 야수인간병에 감염됐어. 그래서 여기 숨어 있는 거야. 아무도 안 봐도 되게... 이걸.",M2Q1A10URTH,,,,,0,0
+31928,Dialog,URTH,"<StartCheck>[Success]</Start> Cures? To be honest, I'd rather die with hope than without. Give me your charm.","<StartCheck>[성공]</Start> 치료법? 솔직히 희망 없이 죽는 것보단 희망을 품고 죽고 싶어. 부적을 줘.",M2Q1A10URTH,m2q1werecurexp,,,,0,0
+31929,Dialog,URTH,"<StartCheck>[Failure]</Start> Look, just leave me alone, will you!?","<StartCheck>[실패]</Start> 이봐, 그냥 날 좀 내버려 둬!",M2Q1A10URTH,,,,,0,0
+31930,Dialog,URTH,"Though I always thought that I'd rather die fighting, I'm tired of fighting. Fine, give me your charm, and I shall die with hope.","항상 싸우다 죽는 게 낫다고 생각했지만, 이젠 싸움에 지쳤어. 좋아, 부적을 줘. 희망을 품고 죽겠어.",M2Q1A10URTH,m2q1werecurexp,,,,0,0
+31931,Dialog,URTH,Have you come for my ring? You're too late. Someone else has it. I gave it away already.,내 반지 때문에 온 거야? 늦었어. 다른 사람이 갖고 있어. 이미 줘버렸거든.,M2Q1A10URTH,nw_d1_j_surr01,,,,0,0
+31932,Dialog,URTH,"I gave it to some adventurer. I was told that people would stop bothering me this way. My death could be faked, and then no one would care about me anymore.","어떤 모험가에게 줬어. 이렇게 하면 사람들이 날 괴롭히지 않을 거래. 내 죽음을 꾸며서, 그럼 아무도 날 신경 쓰지 않겠지.",M2Q1A10URTH,,,,,0,0
+31933,Dialog,URTH,"It - It worked, I can feel it. Thank you so much. Here, take my ring and bring it to Neurik so he knows I'm all right!","됐... 됐어, 느껴져. 정말 고마워. 자, 내 반지를 가져가서 뉴릭에게 전해 줘. 내가 무사하다고!",M2Q1A10URTH,m2q1a02urthring2,,,,0,0
+31934,Dialog,URTH,"You'll tell everyone that I'm dead? Maybe then people would leave me alone, stop looking for me or making fun of me. My parents could have a normal life.","사람들에게 내가 죽었다고 말해줄 거야? 그럼 날 내버려 둘지도 몰라. 날 찾거나 놀리는 것도 멈출 거고. 부모님도 평범한 삶을 살 수 있겠지.",M2Q1A10URTH,,,,,0,0
+31935,Dialog,URTH,"Fine, here it is. You should probably give it to Neurik. Tell him that I'm dead. Maybe this can all go away.","좋아, 여기 있어. 뉴릭에게 주는 게 나을 거야. 내가 죽었다고 전해줘. 이 모든 게 사라질지도 몰라.",M2Q1A10URTH,m2q1a02urthring2,,,,0,0
+31936,Dialog,URTH,Where else would I go? I'm surprised my parents even let me come back... ,어디 갈 데가 있겠어? 부모님이 다시 돌아오게 해주신 것만도 놀라워...,M2Q1A10URTH,,,,,0,0
+31937,Dialog,URTH,"Sir Karathis lost in battle to the werewolf, and, as a werewolf he hunted us down. He couldn't help it. I don't blame him.","카라디스 경이 늑대인간과의 전투에서 졌고, 늑대인간이 되어 우릴 사냥했어. 어쩔 수 없었던 거야. 그를 탓하지 않아.",M2Q1A10URTH,,,,,0,0
+31938,Dialog,URTH,"Sir Karathis rounded up myself, Geth, Bran and Ander to help him hunt a werewolf. I was very excited for the adventure, and eager to join.","카라디스 경이 나와 게스, 브랜, 앤더를 모아 늑대인간을 사냥하는 걸 돕게 했어. 모험에 정말 들떠서 열심히 참여했지.",M2Q1A10URTH,,,,,0,0
+31939,Dialog,URTH,"Bran? I don't know... I know he was poisoned like me, and became a werewolf. But other than that?","브랜? 모르겠어... 나처럼 독에 당해서 늑대인간이 된 건 알아. 그런데 그 외엔?",M2Q1A10URTH,,,,,0,0
+31940,Dialog,URTH,"Ander may have escaped, he may not have. I never saw him again.","앤더는 탈출했을 수도, 못 했을 수도 있어. 다시 보지 못했거든.",M2Q1A10URTH,,,,,0,0
+31941,Dialog,URTH,"Geth? I didn't see where he went, but if I were to guess, we used to play just outside Luskan, by the Green Griffon Inn.","게스? 어디 갔는지 못 봤는데, 짐작하자면 우리가 러스칸 바로 밖, 푸른 그리핀 여관 근처에서 놀곤 했어.",M2Q1A10URTH,,,,,0,0
+31942,Dialog,URTH,"I don't even care about Karathis. I don't blame him, either. But I have no interest in that matter. I just feel - numb, about it.","카라디스 같은 건 신경도 안 써. 그를 탓하지도 않아. 하지만 그 일에 관심 없어. 그냥 - 무감각해.",M2Q1A10URTH,,,,,0,0
+31943,Dialog,URTH,Don't hurt me anymore! The wolf spirit is gone!,더 이상 다치게 하지 마! 늑대 영혼은 사라졌어!,M2Q1A10URTH,,,,,0,0
+31944,Dialog,URTH,Grrr - Please! - Grrrrr - Can't control... Myself!,그르르 - 제발! - 그르르르 - 통제가... 안 돼!,M2Q1A10URTH,m2attack,,,,0,0
+31945,Dialog,URTH,I need to go.,가야 해.,M2Q1A10URTH,m2q1urth002,,,,0,0
+31946,Dialog,URTH,What did you want to talk about?,무슨 얘기를 하고 싶었어?,M2Q1A10URTH,,,,,0,0

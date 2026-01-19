@@ -1,0 +1,47 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+20806,PC,Player Character,Are you a prisoner here?,너 여기 갇힌 거야?,m1q3asamuel,,[지능 보통],,,0,0
+20807,PC,Player Character,Stand back! I'll have no tricks out of you!,물러서! 네 수작은 통하지 않아!,m1q3asamuel,,[지능 보통],,,0,0
+20808,PC,Player Character,"I'm certainly no servant of the wizard, no.",난 확실히 마법사의 부하가 아니야.,m1q3asamuel,,[지능 보통],,,0,0
+20809,PC,Player Character,You kept in prison?,너 감옥에 갇혀?,m1q3asamuel,,[지능 낮음],,,0,0
+20810,PC,Player Character,Stand back! No tricks!!,물러서! 수작 부리지 마!!,m1q3asamuel,,[지능 낮음],,,0,0
+20811,PC,Player Character,Me no servant of wizard.,나 마법사 하인 아니야.,m1q3asamuel,,[지능 낮음],,,0,0
+20812,PC,Player Character [M1Q3A00],"How do I know you're actually a prisoner, that this isn't some ruse?",네가 정말 죄수라는 걸 어떻게 알아? 이게 속임수가 아니라고?,m1q3asamuel,,m1q3a00samu03,[M1Q3A00],,0,0
+20813,PC,Player Character,"I'd appreciate some information, first.",먼저 정보 좀 알고 싶은데.,m1q3asamuel,,[지능 보통],,,0,0
+20814,PC,Player Character,What reward would I get for letting you go?,널 풀어주면 무슨 보상을 받는데?,m1q3asamuel,,[지능 보통],,,0,0
+20815,PC,Player Character,Would you be able to find your way out on your own?,혼자 나갈 수 있어?,m1q3asamuel,,[지능 보통],,,0,0
+20816,PC,Player Character,I'm not here to rescue you. Get out of my way.,난 널 구하러 온 게 아냐. 비켜.,m1q3asamuel,,[지능 보통],,,0,0
+20817,PC,Player Character [M1Q3A00],How I know you not lying?,너 거짓말 안 하는 거 어떻게 알아?,m1q3asamuel,,m1q3a00samu04,[M1Q3A00],,0,0
+20818,PC,Player Character,"Me have questions, first.",먼저 나 질문 있어.,m1q3asamuel,,[지능 낮음],,,0,0
+20819,PC,Player Character,Is there reward for letting you go?,너 풀어주면 보상 있어?,m1q3asamuel,,[지능 낮음],,,0,0
+20820,PC,Player Character,You find way out on own?,너 혼자 길 찾을 수 있어?,m1q3asamuel,,[지능 낮음],,,0,0
+20821,PC,Player Character,Me no rescuer. Get lost.,나 구하러 온 거 아냐. 꺼져.,m1q3asamuel,,[지능 낮음],,,0,0
+20822,PC,Player Character,I never said that. Killing you would be more fun! Ha ha ha!!,그런 말 안 했어. 널 죽이는 게 더 재밌을 것 같은데! 하 하 하!!,m1q3asamuel,nw_d1_small_evil,[지능 보통],,,0,0
+20823,PC,Player Character,"Just like that. Go, I said.",그럼 됐다. 가라고 했다.,m1q3asamuel,,[지능 보통],,,0,0
+20824,PC,Player Character,I don't know. Is there anything in it for me for helping you?,모르겠군. 도와주면 내게 돌아올 게 있나?,m1q3asamuel,,[지능 보통],,,0,0
+20825,PC,Player Character,Me never say that! Hurting you gonna be fun! HA ha Ha!!,나 그런 말 안 했어! 너 괴롭히면 재밌어! 하하하!!,m1q3asamuel,nw_d1_small_evil,[지능 낮음],,,0,0
+20826,PC,Player Character,"Why not? Go, I says.",왜 안 돼? 가라 했지.,m1q3asamuel,,[지능 낮음],,,0,0
+20827,PC,Player Character,Don't know. What in it for me?,몰라. 나한테 뭐 좋은 거 있어?,m1q3asamuel,,[지능 낮음],,,0,0
+20828,PC,Player Character,I don't trust you. Time to die!,널 믿을 수 없어. 죽을 시간이야!,m1q3asamuel,,[지능 보통],,,0,0
+20829,PC,Player Character,No believe! Die! Die!!,안 믿어! 죽어! 죽어!!,m1q3asamuel,,[지능 낮음],,,0,0
+20830,PC,Player Character,"Yes, I could use some information.","그래, 정보가 좀 필요하군.",m1q3asamuel,,[지능 보통],,,0,0
+20831,PC,Player Character,You're of no use to me. Get lost.,넌 쓸모없어. 꺼져.,m1q3asamuel,,[지능 보통],,,0,0
+20832,PC,Player Character,"Yes, tell me. That good.","응, 말해. 그거 좋다.",m1q3asamuel,,[지능 낮음],,,0,0
+20833,PC,Player Character,"You no use to me, then. Go.",그럼 너 쓸모 없어. 가.,m1q3asamuel,,[지능 낮음],,,0,0
+20834,PC,Player Character,Then go. The way behind me is clear.,그럼 가. 내 뒤쪽 길은 확보해 뒀어.,m1q3asamuel,,[지능 보통],,,0,0
+20835,PC,Player Character,Perhaps you should accompany me. It would be safer that way.,나와 함께 가는 게 좋겠다. 그게 더 안전해.,m1q3asamuel,nw_d1_small_good,[지능 보통],,,0,0
+20836,PC,Player Character,Then go. Way behind is clear.,그럼 가. 뒤쪽 길 비었어.,m1q3asamuel,,[지능 낮음],,,0,0
+20837,PC,Player Character,"No, you come with me. Safer.","아니, 너 나랑 같이 가. 더 안전해.",m1q3asamuel,nw_d1_small_good,[지능 낮음],,,0,0
+20838,PC,Player Character,Just how did you end up prisoner here?,어쩌다 여기서 죄수가 된 거지?,m1q3asamuel,,[지능 보통],,,0,0
+20839,PC,Player Character,What do you know about this place?,이 장소에 대해 뭘 알아?,m1q3asamuel,,[지능 보통],,,0,0
+20840,PC,Player Character,All right. I'm done with you now.,좋아. 이제 너와는 끝이다.,m1q3asamuel,,[지능 보통],,,0,0
+20841,PC,Player Character,How you end up in prison?,너 어떻게 감옥 오게 됐어?,m1q3asamuel,,[지능 낮음],,,0,0
+20842,PC,Player Character,What you know of this place?,여기 대해 뭐 알아?,m1q3asamuel,,[지능 낮음],,,0,0
+20843,PC,Player Character,Me done with you.,나 너랑 끝.,m1q3asamuel,,[지능 낮음],,,0,0
+20844,PC,Player Character,But why would he keep you prisoner? A member of city guard?,하지만 그가 왜 널 가뒀지? 너는 도시 경비대원인데?,m1q3asamuel,,[지능 보통],,,0,0
+20845,PC,Player Character,Do you know where Meldanen could be found?,멜다넨이 어디에 있는지 아나?,m1q3asamuel,,[지능 보통],,,0,0
+20846,PC,Player Character,Why he keep you? You city guard.,왜 너 가뒀어? 너 도시 경비대잖아.,m1q3asamuel,,[지능 낮음],,,0,0
+20847,PC,Player Character,Me look for Meldanen.,나 멜다넨 찾는 중.,m1q3asamuel,,[지능 낮음],,,0,0
+20848,PC,Player Character [M1Q3A00],You're Samuel? Captain Thurin sent me to look for you.,너 사무엘이야? 투린 대장이 너 찾으라고 보냈어.,m1q3asamuel,,m1q3a00samu01,[M1Q3A00],,0,0
+20849,PC,Player Character [M1Q3A00],You Samuel? Captain Thurin sends me.,너 사무엘? 투린 대장이 나 보냈어.,m1q3asamuel,,m1q3a00samu02,[M1Q3A00],,0,0
+57106,PC,Player Character,Meldanen done with. Yous can go nows.,멜다넨 끝났어. 이제 나가.,m1q3asamuel,,[지능 낮음],,,0,0
+57107,PC,Player Character,Meldanen has been taken care of. You can get out of here now.,멜다넨은 처리됐어. 이제 여기서 나갈 수 있어.,m1q3asamuel,,[지능 보통],,,0,0

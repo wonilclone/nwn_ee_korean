@@ -1,0 +1,44 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+21074,Dialog,GATEGUA,"Sorry, <sir/madam>. Nobody is allowed into the residence. Very strict orders, you understand.","죄송합니다, <sir/madam>. 아무도 저택에 들어갈 수 없습니다. 아주 엄격한 명령이에요, 이해하시죠.",M1Q3GATEGUA,,,,,0,0
+21075,Dialog,GATEGUA,"Yes, move along, <sir/madam>.","네, 가던 길 가세요, <sir/madam>.",M1Q3GATEGUA,,,,,0,0
+21076,Dialog,GATEGUA,On your way.,가던 길 가시죠.,M1Q3GATEGUA,,,,,0,0
+21077,Dialog,GATEGUA,Get moving before I help you along!,내가 도와주기 전에 어서 꺼져!,M1Q3GATEGUA,,,,,0,0
+21078,Dialog,GATEGUA,"Sorry, <sir/madam>, but I can't let you in. My employer likes his privacy.","죄송합니다, <sir/madam>, 하지만 들여보내 드릴 수 없어요. 고용주께서 사생활을 중시하시거든요.",M1Q3GATEGUA,,,,,0,0
+21079,Dialog,GATEGUA,"Go on, get out of here, you! You certainly won't be allowed in here.","이봐, 여기서 꺼져! 절대 여기 들어올 수 없어.",M1Q3GATEGUA,,,,,0,0
+21080,Dialog,GATEGUA,"This is none other than the home of the noble Meldanen, one of the greatest sorcerers in the city!","이곳은 다름아닌 도시 최고의 요술사 중 한 명인 귀족 멜다넨 나리의 저택이오!",M1Q3GATEGUA,,,,,0,0
+21081,Dialog,GATEGUA,"The man enjoys his privacy, as well, so you'll do well to just keep on walking. You don't bother him, he won't bother you, heh.","그분은 사생활도 중시하시니, 그냥 가던 길 가는 게 좋을 거요. 당신이 귀찮게 하지 않으면, 그분도 귀찮게 안 하실 거야, 헤.",M1Q3GATEGUA,,,,,0,0
+21082,Dialog,GATEGUA,"I don't care if you're Lord Bloody Nasher, himself, and neither would Lord Meldanen. You're not getting in.","나셰르 영주 본인이라 해도 상관없고, 멜다넨 나리도 마찬가지일 거요. 들어갈 수 없어.",M1Q3GATEGUA,,,,,0,0
+21083,Dialog,GATEGUA,"Oh yeah? How about you just slink back to the castle and I'll forget you said that, little <man/woman>.","오 그래? 그냥 성으로 슬금슬금 돌아가면 네가 한 말은 잊어줄게, 꼬마 <man/woman> 양반.",M1Q3GATEGUA,,,,,0,0
+21084,Dialog,GATEGUA,"Oh? Who wants to know? The town simpleton, is it?","오? 누가 알고 싶다는 거야? 동네 바보인가?",M1Q3GATEGUA,,,,,0,0
+21085,Dialog,GATEGUA,You think you can put a question together? Ha ha!,질문이라도 할 수 있을 것 같아? 하하!,M1Q3GATEGUA,,,,,0,0
+21086,Dialog,GATEGUA,"Oh, fine, fine. Go ahead and ask what you like.","아, 알았어, 알았어. 뭐든 물어봐.",M1Q3GATEGUA,,,,,0,0
+21087,Dialog,GATEGUA,Don't take all day. My time is valuable.,하루 종일 걸리게 하지 마. 내 시간은 소중하거든.,M1Q3GATEGUA,,,,,0,0
+21088,Dialog,GATEGUA,"Hah! Like I'm afraid of some <race> rabble. That'll be the day. Just move along, little <boy/girl>, ha ha!","하! <race> 천것한테 겁먹을 것 같아? 그런 날은 안 와. 그냥 꺼져, 꼬마 <boy/girl>, 하하!",M1Q3GATEGUA,,,,,0,0
+21089,Dialog,GATEGUA,What?! Attack the fool!!,뭐?! 저 바보를 공격해!!,M1Q3GATEGUA,m1q3gateguaslg01,,,,0,0
+21090,Dialog,GATEGUA,"Hmmm, yes, that would do nicely. Don't really care what happens to the rich fool, personally.","흠, 그래, 그거 좋겠군. 개인적으로 저 부자 바보한테 무슨 일이 생기든 상관없거든.",M1Q3GATEGUA,,,,,0,0
+21091,Dialog,GATEGUA,"Go on in, then. I'll pretend I didn't see anything.","그럼 들어가. 난 아무것도 못 본 걸로 할게.",M1Q3GATEGUA,m1q3gateguaslg02,,,,0,0
+21092,Dialog,GATEGUA,"<StartCheck>[Success]</Start> Hmph. Well, I... ah, that is... I suppose one shouldn't (cough!) impede the city guard. No, <sir/madam>.","<StartCheck>[성공]</Start> 흥. 그러니까, 난... 아, 그게... 시 경비대를 (콜록!) 방해하면 안 되겠지. 네, <sir/madam>.",M1Q3GATEGUA,,,,,0,0
+21093,Dialog,GATEGUA,"<StartCheck>[Failure]</Start> Hah! I'm sorry, but... are you trying to *intimidate* me? Ha ha ha ha!! Oh, that's rich.","<StartCheck>[실패]</Start> 하! 미안한데... 나를 *협박*하려는 거야? 하하하하!! 와, 가관이네.",M1Q3GATEGUA,,,,,0,0
+21094,Dialog,GATEGUA,<StartCheck>[Failure]</Start> Lady Aribeth has far more important things to worry about than my lecherous employer. At least I hope she does. Nobody gets in. Get lost.,<StartCheck>[실패]</Start> 아리베스 경은 우리 음탕한 고용주보다 훨씬 더 중요한 일에 신경 쓰실 거야. 적어도 그러셨으면 좋겠어. 아무도 못 들어가. 꺼져.,M1Q3GATEGUA,,,,,0,0
+21095,Dialog,GATEGUA,"No. He doesn't meet with anyone. And before you ask, he doesn't have visitors... period. Now go.","아니. 그분은 아무도 안 만나셔. 물어보기 전에 말하자면, 방문객도 없어... 끝. 이제 가.",M1Q3GATEGUA,,,,,0,0
+21096,Dialog,GATEGUA,You think a smart guy like him would want to meet with a moron like you? You think you'd have something to discuss? Hah!,그분처럼 똑똑한 사람이 너 같은 바보를 만나고 싶어할 것 같아? 논의할 게 있을 것 같아? 하!,M1Q3GATEGUA,,,,,0,0
+21097,Dialog,GATEGUA,"(sigh) If that's all you're wondering about, you may as well forget it. Lord Meldanen sees no one except a select few friends.","(한숨) 그게 궁금한 거라면, 그냥 잊어버려. 멜다넨 나리는 극소수의 친구 외에는 아무도 안 만나셔.",M1Q3GATEGUA,,,,,0,0
+21098,Dialog,GATEGUA,And they don't even come through the front gate. So that makes my job very easy. I don't let anyone in... period.,그리고 그들도 정문으로 오지 않아. 그래서 내 일이 아주 쉬워. 난 아무도 안 들여보내... 끝.,M1Q3GATEGUA,,,,,0,0
+21099,Dialog,GATEGUA,"Lord Meldanen lives here, of course. He's one of them sorcerer types, so some strangeness is expected. Lots of it, actually.","멜다넨 나리가 여기 사셔, 물론. 요술사 부류라서 좀 이상한 건 당연하지. 사실 엄청 이상해.",M1Q3GATEGUA,,,,,0,0
+21100,Dialog,GATEGUA,"But that's okay. We don't go inside the mansion... well, except for that dunce, Grommin... so the strangeness can just stay in there for all we care.","하지만 괜찮아. 우리는 저택 안에 안 들어가거든... 뭐, 그 멍청이 그롬민 빼고... 그러니까 이상한 건 안에 있든 말든 우린 상관없지.",M1Q3GATEGUA,,,,,0,0
+21101,Dialog,GATEGUA,"Beyond that, it's nothing you need concern yourself about. Local folks are just superstitious, that's all.","그 외에는 네가 신경 쓸 일이 아니야. 동네 사람들이 미신을 믿을 뿐이야, 그게 다야.",M1Q3GATEGUA,,,,,0,0
+21102,Dialog,GATEGUA,"Lord Meldanen has lots of strange creatures. It's sort of his hobby, or something. You'd have to be more specific.","멜다넨 나리는 이상한 생명체를 많이 가지고 계셔. 취미 같은 거지, 뭐. 더 구체적으로 말해야 해.",M1Q3GATEGUA,,,,,0,0
+21103,Dialog,GATEGUA,W-what do you mean? There's no plague in Blacklake!,뭐-무슨 소리야? 검은호수에는 역병이 없어!,M1Q3GATEGUA,,,,,0,0
+21104,Dialog,GATEGUA,"Well, no, no creatures that I can think of. Though there is that... uh, but I shouldn't really mention that. Nevermind.","글쎄, 아니, 생각나는 생명체는 없어. 근데 그... 어, 하지만 그건 말하면 안 돼. 아무것도 아니야.",M1Q3GATEGUA,,,,,0,0
+21105,Dialog,GATEGUA,"I don't care how many times you ask me. You can't bully me around, that's for sure.","몇 번을 물어봐도 상관없어. 날 협박할 순 없어, 확실히.",M1Q3GATEGUA,,,,,0,0
+21106,Dialog,GATEGUA,"<StartCheck>[Success]</Start> No, not dangerous. I wouldn't even call her a creature, really. She's quite pretty... just, I don't know... odd.","<StartCheck>[성공]</Start> 아니, 위험하진 않아. 사실 그녀를 생명체라고 부르기도 뭐해. 꽤 예쁘거든... 그냥, 모르겠어... 이상해.",M1Q3GATEGUA,,,,,0,0
+21107,Dialog,GATEGUA,"No idea what Lord Meldanen might want with her... heh, besides the obvious. I guess even a sorcerer gets lonely, eh?","멜다넨 나리가 그녀를 왜 원하시는지 모르겠어... 헤, 뻔한 거 말고. 요술사도 외로운가 봐, 응?",M1Q3GATEGUA,,,,,0,0
+21108,Dialog,GATEGUA,<StartCheck>[Failure]</Start> Never you mind. I ain't discussing Lord Meldanen's business.,<StartCheck>[실패]</Start> 신경 끄라고. 멜다넨 나리의 일은 논하지 않아.,M1Q3GATEGUA,,,,,0,0
+21109,Dialog,GATEGUA,"I don't know. I think so. We haven't seen her leave, that's for sure.","모르겠어. 그런 것 같아. 그녀가 나가는 건 못 봤어, 확실히.",M1Q3GATEGUA,,,,,0,0
+21110,Dialog,GATEGUA,"Uh... er, yes, of course... ","어... 에, 그래, 물론...",M1Q3GATEGUA,,,,,0,0
+21111,Dialog,GATEGUA,"<StartCheck>[Success]</Start> It... it's that sorcerer's magics, ain't it? I just knew it! He's gone an' given us the plague!!","<StartCheck>[성공]</Start> 그... 그 요술사의 마법이지, 그렇지? 알았다니까! 그가 우리한테 역병을 퍼뜨린 거야!!",M1Q3GATEGUA,,,,,0,0
+21112,Dialog,GATEGUA,"I ain't going to stand around to die! I'm getting out of here!! Run, ruuuunnnn!!","여기서 죽으려고 서있을 순 없어! 난 여기서 나갈 거야!! 도망쳐, 도망쳐어어!!",M1Q3GATEGUA,m1q3a00gateg10,,,,0,0
+21113,Dialog,GATEGUA,"<StartCheck>[Failure]</Start> I don't believe a word of it. What do you take me for, a fool? You're not getting in.","<StartCheck>[실패]</Start> 한마디도 안 믿어. 날 뭘로 보는 거야, 바보? 못 들어가.",M1Q3GATEGUA,,,,,0,0
+21114,Dialog,GATEGUA,Go on in. Isn't that what you wanted?,들어가. 그게 원하던 거 아니야?,M1Q3GATEGUA,,,,,0,0
+21115,Dialog,GATEGUA,Aiiieee!! Get away from me!!,으아아!! 나한테서 떨어져!!,M1Q3GATEGUA,,,,,0,0
+21116,Dialog,GATEGUA,"<StartCheck>[Success]</Start> L-look, I don't want any trouble from her Ladyship. This just isn't worth the risk. I have to work in this city. I'll allow you to enter.","<StartCheck>[성공]</Start> 이-이봐, 난 아리베스 경한테 문제가 생기는 건 싫어. 이건 위험을 감수할 가치가 없어. 난 이 도시에서 일해야 한다고. 들어가도 좋아.",M1Q3GATEGUA,m1q3gateguaslg02,,,,0,0

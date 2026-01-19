@@ -1,0 +1,58 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+79022,PC,Player Character,Goodbye.,안녕.,ashtara,,,,,0,0
+79023,PC,Player Character,There are other things we must discuss.,다른 얘기할 게 있어.,ashtara,,,,,0,0
+79024,PC,Player Character,Enough questions. I grow weary of them.,질문은 그만. 지겨워지네.,ashtara,,,,,0,0
+79025,PC,Player Character,How is it that you speak the Common tongue?,어떻게 공용어를 하는 거지?,ashtara,,,,,0,0
+79026,PC,Player Character,"Fine, but I still have other questions.","좋아, 하지만 다른 질문이 더 있어.",ashtara,,,,,0,0
+79027,PC,Player Character,The mythal? What is that?,미살? 그게 뭔데?,ashtara,,,,,0,0
+79028,PC,Player Character,Do you seek the power of this mythal?,미살의 힘을 원하는 거야?,ashtara,,,,,0,0
+79029,PC,Player Character,Then I don't have much time.,그럼 시간이 별로 없군.,ashtara,,,,,0,0
+79030,PC,Player Character,And if it falls into the wrong hands?,잘못된 자의 손에 들어가면?,ashtara,,,,,0,0
+79031,PC,Player Character,I'm not speaking in Asabi.,난 아사비어로 말하는 게 아니야.,ashtara,,,,,0,0
+79032,PC,Player Character,What brought you here to Undrentide?,왜 언드렌타이드까지 온 거야?,ashtara,,,,,0,0
+79033,PC,Player Character,What did you do then?,그래서 어떻게 했어?,ashtara,,,,,0,0
+79034,PC,Player Character,"If slaves are your trade, who were you planning to sell me to?","노예가 네 장사라면, 날 누구한테 팔 생각이었어?",ashtara,,,,,0,0
+79035,PC,Player Character,Who are these Asabi you speak of?,네가 말하는 아사비가 누구야?,ashtara,,,,,0,0
+79036,PC,Player Character,"Where are you from, Ashtara?","어디서 온 거야, 아슈타라?",ashtara,,,,,0,0
+79037,PC,Player Character,I need your help. Heurodis must be stopped.,도움이 필요해. 헤우로디스를 막아야 해.,ashtara,,,,,0,0
+79038,PC,Player Character,Never mind. You are of no use to me.,됐어. 넌 쓸모없군.,ashtara,,,,,0,0
+79039,PC,Player Character,"She is a madwoman, a vile murderess who I have tracked here.","그녀는 미친 여자야. 여기까지 추적해 온 사악한 살인자지.",ashtara,,,,,0,0
+79040,PC,Player Character,She intends to raise Undrentide from the sands.,언드렌타이드를 모래에서 끌어올릴 생각이야.,ashtara,,,,,0,0
+79041,PC,Player Character,"She is an evil medusa, crazed with power.","그녀는 사악한 메두사야. 권력에 미쳤지.",ashtara,,,,,0,0
+79042,PC,Player Character,<StartCheck>[Insight]</Start> She is beautiful. You should look upon her face sometime.,<StartCheck>[통찰]</Start> 그녀는 아름다워. 언젠가 얼굴을 봐봐.,ashtara,,nw_d2_wis_intn,,,0,0
+79043,PC,Player Character,What task did you want me to perform again?,내가 할 일이 뭐라고 했지?,ashtara,,c_ashtara_2_n,,,0,0
+79044,PC,Player Character,I had expected a little more gratitude for my efforts...,노력에 대해 좀 더 감사할 줄 알았는데...,ashtara,,c_ashtara_3_n,,,0,0
+79045,PC,Player Character,How do you know whether I've accomplished the task or not?,내가 임무를 완수했는지 어떻게 알아?,ashtara,,,,,0,0
+79046,PC,Player Character,I need supplies.,보급품이 필요해.,ashtara,a_ashtara_store,,,,0,0
+79047,PC,Player Character,"Very well. If I am your slave, what do you command of me?","좋아. 내가 네 노예라면, 뭘 명령할 건데?",ashtara,,,,,0,0
+79048,PC,Player Character,"Very well, master. The treasures of Undrentide shall be yours.","알겠습니다, 주인님. 언드렌타이드의 보물은 당신 것이 될 겁니다.",ashtara,,,,,0,0
+79049,PC,Player Character,That's all? You want me to fetch your trinkets and baubles?,그게 다야? 장신구나 가져오라고?,ashtara,,,,,0,0
+79050,PC,Player Character,I am not a raider of tombs!,난 무덤 약탈자가 아니야!,ashtara,,,,,0,0
+79051,PC,Player Character,"Ten guardians? Fine, I shall destroy them as you ask.","수호자 열 명? 좋아, 요청대로 파괴해 주지.",ashtara,,,,,0,0
+79052,PC,Player Character,"Very well, but I'm going to need supplies.","좋아, 하지만 보급품이 필요해.",ashtara,,,,,0,0
+79053,PC,Player Character,Goodbye.,안녕.,ashtara,,,,,0,0
+79054,PC,Player Character,<StartAction>View Store.</Start>,<StartAction>상점 보기.</Start>,ashtara,a_ashtara_store,,,,0,0
+79055,PC,Player Character,And if I succeed in that?,그걸 성공하면?,ashtara,,,,,0,0
+79056,PC,Player Character,How is it that you speak the Common tongue?,어떻게 공용어를 하는 거지?,ashtara,,,,,0,0
+79057,PC,Player Character,"Fine, but I still have other questions.","좋아, 하지만 다른 질문이 더 있어.",ashtara,,,,,0,0
+79058,PC,Player Character,The mythal? What is that?,미살? 그게 뭔데?,ashtara,,,,,0,0
+79059,PC,Player Character,Do you seek the power of this mythal?,미살의 힘을 원하는 거야?,ashtara,,,,,0,0
+79060,PC,Player Character,Then I don't have much time.,그럼 시간이 별로 없군.,ashtara,,,,,0,0
+79061,PC,Player Character,And if it falls into the wrong hands?,잘못된 자의 손에 들어가면?,ashtara,,,,,0,0
+79062,PC,Player Character,I'm not speaking in Asabi.,난 아사비어로 말하는 게 아니야.,ashtara,,,,,0,0
+79063,PC,Player Character,I am no man's slave...,난 아무의 노예도 아니야...,ashtara,,,,,0,0
+79064,PC,Player Character,"I have other questions for you, Ashtara.","다른 질문이 있어, 아슈타라.",ashtara,,,,,0,0
+79065,PC,Player Character,What brought you here to Undrentide?,왜 언드렌타이드까지 온 거야?,ashtara,,,,,0,0
+79066,PC,Player Character,What did you do then?,그래서 어떻게 했어?,ashtara,,,,,0,0
+79067,PC,Player Character,"If slaves are your trade, who were you planning to sell me to?","노예가 네 장사라면, 날 누구한테 팔 생각이었어?",ashtara,,,,,0,0
+79068,PC,Player Character,Who are these Asabi you speak of?,네가 말하는 아사비가 누구야?,ashtara,,,,,0,0
+79069,PC,Player Character,"Where are you from, Ashtara?","어디서 온 거야, 아슈타라?",ashtara,,,,,0,0
+79070,PC,Player Character,I should kill you for your mockery!,조롱한 대가로 죽여버릴 거야!,ashtara,,,,,0,0
+79071,PC,Player Character,I need your help. Heurodis must be stopped.,도움이 필요해. 헤우로디스를 막아야 해.,ashtara,,,,,0,0
+79072,PC,Player Character,Never mind. You are of no use to me.,됐어. 넌 쓸모없군.,ashtara,,,,,0,0
+79073,PC,Player Character,"She is a madwoman, a vile murderess who I have tracked here.","그녀는 미친 여자야. 여기까지 추적해 온 사악한 살인자지.",ashtara,,,,,0,0
+79074,PC,Player Character,She intends to raise Undrentide from the sands.,언드렌타이드를 모래에서 끌어올릴 생각이야.,ashtara,,,,,0,0
+79075,PC,Player Character,"She is an evil medusa, crazed with power.","그녀는 사악한 메두사야. 권력에 미쳤지.",ashtara,,,,,0,0
+79076,PC,Player Character,<StartCheck>[Insight]</Start> She is beautiful. You should look upon her face sometime.,<StartCheck>[통찰]</Start> 그녀는 아름다워. 언젠가 얼굴을 봐봐.,ashtara,,nw_d2_wis_intn,,,0,0
+79077,PC,Player Character,What need do I have of you?,널 왜 필요로 하지?,ashtara,,,,,0,0
+79078,PC,Player Character,"Death to you and all your kin, slave master!","너와 네 동족 모두에게 죽음을, 노예상!",ashtara,a_ashtara_collar,,,,0,0

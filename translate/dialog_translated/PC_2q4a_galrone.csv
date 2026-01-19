@@ -1,0 +1,67 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+26974,PC,Player Character,Could I ask you some questions?,몇 가지 물어봐도 될까?,2q4a_galrone,,[지능 보통],,,0,0
+26975,PC,Player Character,Me want ask questions.,나 질문할래.,2q4a_galrone,,[지능 낮음],,,0,0
+26976,PC,Player Character,Goodbye.,그럼 이만.,2q4a_galrone,,,,,0,0
+26977,PC,Player Character,Do you know anything about cults in the area?,이 근처 사교에 대해 아는 게 있나?,2q4a_galrone,,[지능 보통],,,0,0
+26978,PC,Player Character,"You knows about cults, maybe?","사교 알아, 혹시?",2q4a_galrone,,[지능 낮음],,,0,0
+26979,PC,Player Character,What's going on in Luskan?,러스칸에 무슨 일이 벌어지고 있지?,2q4a_galrone,,[지능 보통],,,0,0
+26980,PC,Player Character,What go on in city?,도시에서 무슨 일 있어?,2q4a_galrone,,[지능 낮음],,,0,0
+26981,PC,Player Character,Can I ask you some directions?,길을 좀 물어봐도 될까?,2q4a_galrone,,[지능 보통],,,0,0
+26982,PC,Player Character,Me need directions.,나 길 필요해.,2q4a_galrone,,[지능 낮음],,,0,0
+26983,PC,Player Character,Where is the nearest inn?,가장 가까운 여관은 어디지?,2q4a_galrone,,[지능 보통],,,0,0
+26984,PC,Player Character,Where is the nearest temple?,가장 가까운 사원은 어디지?,2q4a_galrone,,[지능 보통],,,0,0
+26985,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비를 살 곳이 있나?,2q4a_galrone,,[지능 보통],,,0,0
+26986,PC,Player Character,Me look for place to sleep.,잘 곳 찾아.,2q4a_galrone,,[지능 낮음],,,0,0
+26987,PC,Player Character,Me look for temple.,사원 찾아.,2q4a_galrone,,[지능 낮음],,,0,0
+26988,PC,Player Character,Me need place to buy stuff.,물건 살 데 필요해.,2q4a_galrone,,[지능 낮음],,,0,0
+26989,PC,Player Character,"Actually, I'd rather ask you about something else.",사실은 다른 걸 묻고 싶어.,2q4a_galrone,,[지능 보통],,,0,0
+26990,PC,Player Character,"No, me have other question.","아니, 나 다른 질문 있어.",2q4a_galrone,,[지능 낮음],,,0,0
+26991,PC,Player Character,Who are you?,넌 누구지?,2q4a_galrone,,[지능 보통],,,0,0
+26992,PC,Player Character,Who be you?,너 누구야?,2q4a_galrone,,[지능 낮음],,,0,0
+26993,PC,Player Character,I want to speak to you about Yvette's baby.,이베트의 아기에 대해 이야기하고 싶다.,2q4a_galrone,,nw_d2_j_fetch02,,,0,0
+26994,PC,Player Character,Me want talk 'bout Yvette's baby.,나 이베트 아기 얘기 하고 싶어.,2q4a_galrone,,nw_d2_j_fetch03,,,0,0
+26995,PC,Player Character,Be reasonable. Maybe we could work out some kind of deal.,좀 이성적으로 굴지. 어떻게 거래를 해볼까?,2q4a_galrone,,[지능 보통],,,0,0
+26996,PC,Player Character,"How'd you like me to pry the child from your cold, dead hands?",차가운 네 시체 손에서 아이를 비틀어 빼내면 어떨까?,2q4a_galrone,nw_d1_small_evil,[지능 보통],,,0,0
+26997,PC,Player Character,Fine. Keep it. I want to ask you about something else anyway.,좋아. 가지고 있어. 어차피 다른 걸 물어볼 게 있어.,2q4a_galrone,,[지능 보통],,,0,0
+26998,PC,Player Character,"We make deal, maybe?","우리 거래해, 응?",2q4a_galrone,,[지능 낮음],,,0,0
+26999,PC,Player Character,You give baby or me just kill you and takes it from you.,아기 내놔. 아니면 널 죽이고 뺏는다.,2q4a_galrone,nw_d1_small_evil,[지능 낮음],,,0,0
+27000,PC,Player Character,Fine. Me no want it. Me want ask 'bout something else.,좋아. 그건 안 원해. 다른 거 물어볼래.,2q4a_galrone,,[지능 낮음],,,0,0
+27001,PC,Player Character,1000 gp... deal.,금화 1000개... 좋아.,2q4a_galrone,nw_d1_j_fetch10,nw_d2_j_fetch15,,,0,0
+27002,PC,Player Character,<StartCheck>[Persuade]</Start> I won't give you more than 250 gp.,<StartCheck>[설득]</Start> 금화 250개 이상은 안 줘.,2q4a_galrone,,nw_d2_j_fetch16,,,0,0
+27003,PC,Player Character,That's it. Hand over the child... now.,그만 됐다. 아이를 넘겨라... 지금.,2q4a_galrone,nw_d1_small_evil,[지능 보통],,,0,0
+27004,PC,Player Character,<StartCheck>[Persuade]</Start> That too much. Me give 250 gp.,<StartCheck>[설득]</Start> 그거 너무 많아. 나 금화 250개 줄게.,2q4a_galrone,,nw_d2_j_fetch17,,,0,0
+27005,PC,Player Character,That it! You hands over baby... now!,됐다! 아기 내놔... 지금!,2q4a_galrone,nw_d1_small_evil,[지능 낮음],,,0,0
+27006,PC,Player Character,<StartCheck>[Insight]</Start> Take the 250 gp. The next person who comes for the baby might not be so generous.,<StartCheck>[통찰]</Start> 금화 250이라도 챙기는게 좋을 걸. 다음에 아기를 찾으러 오는 녀석은 이렇게 후하지 않을 테니까.,2q4a_galrone,,nw_d2_j_fetch18,,,0,0
+27007,PC,Player Character,Fine. 400 gp... deal.,좋아. 금화 400개... 거래 성사야.,2q4a_galrone,nw_d1_j_fetch12,nw_d2_j_fetch19,,,0,0
+27008,PC,Player Character,250 gp? Deal.,금화 250개? 좋아.,2q4a_galrone,nw_d1_j_fetch11,nw_d2_j_fetch20,,,0,0
+27009,PC,Player Character,I'm done haggling. Time to kill you!,흥정은 끝이다. 이제 죽여 주마!,2q4a_galrone,nw_d1_small_evil,[지능 보통],,,0,0
+27010,PC,Player Character,Me not argue no more. Now me kill you!!,더는 말싸움 안 해. 이제 너 죽인다!!,2q4a_galrone,nw_d1_small_evil,[지능 낮음],,,0,0
+27011,PC,Player Character,I'm not going to 'buy' the child from you!,아이를 너한테서 '사'지는 않겠다!,2q4a_galrone,,[지능 보통],,,0,0
+27012,PC,Player Character,Me not 'buy' baby from you!,아기 너한테서 '안 사'!,2q4a_galrone,,[지능 낮음],,,0,0
+27013,PC,Player Character,I can't afford to spend that much on this.,그 정도 돈을 쓸 형편이 안 된다.,2q4a_galrone,,[지능 보통],,,0,0
+27014,PC,Player Character,Me not afford that much for this.,이거에 그렇게 못 써.,2q4a_galrone,,[지능 낮음],,,0,0
+27015,PC,Player Character,I'm not buying the child for that much!,그 가격에 아이를 살 수는 없어!,2q4a_galrone,,[지능 보통],,,0,0
+27016,PC,Player Character,Me no spend so much for baby!,아기한테 그렇게 많이 안 써!,2q4a_galrone,,[지능 낮음],,,0,0
+27017,PC,Player Character,<StartCheck>[Persuade]</Start> Calm down. I don't mean you any harm.,<StartCheck>[설득]</Start> 진정해. 해칠 생각은 없어.,2q4a_galrone,,[지능 보통],,,0,0
+27018,PC,Player Character,Get out of my way! I'll take whatever I want!,비켜! 내가 원하면 다 가져간다!,2q4a_galrone,,[지능 보통],,,0,0
+27019,PC,Player Character,I was just leaving.,난 이제 가려던 참이야.,2q4a_galrone,,[지능 보통],,,0,0
+27020,PC,Player Character,<StartCheck>[Persuade]</Start> You be calm. Me means no harm.,<StartCheck>[설득]</Start> 진정해. 나 해칠 생각 없어.,2q4a_galrone,,[지능 낮음],,,0,0
+27021,PC,Player Character,You get out of way! Me take what I wants!!,비켜! 나 원하는 건 다 가져가!!,2q4a_galrone,,[지능 낮음],,,0,0
+27022,PC,Player Character,Me was just going.,나 그냥 가던 중이었어.,2q4a_galrone,,[지능 낮음],,,0,0
+27023,PC,Player Character,I'm here to talk to you about Yvette's baby.,이베트의 아기에 관해 이야기하러 왔다.,2q4a_galrone,,nw_d2_j_fetch02,,,0,0
+27024,PC,Player Character,Me here to talks 'bout Yvette's baby.,나 이베트 아기 얘기하러 왔어.,2q4a_galrone,,nw_d2_j_fetch03,,,0,0
+27025,PC,Player Character,Yvette doesn't intend to raise the child in the brothel.,이베트는 사창가에서 아이를 키울 생각이 없어.,2q4a_galrone,,[지능 보통],,,0,0
+27026,PC,Player Character,But she not wants to raise baby in brothel.,근데 그녀는 사창가에서 아기 키우기 싫어해.,2q4a_galrone,,[지능 낮음],,,0,0
+27027,PC,Player Character,"Let's not argue over this, sir. Hand over the child... now.",이 문제로 말다툼하지 말자고. 아이를 넘겨... 지금 당장.,2q4a_galrone,,[지능 보통],,,0,0
+27028,PC,Player Character,Me not going to argue. You gives me baby... now.,나 말싸움 안 해. 아기 줘... 지금.,2q4a_galrone,,[지능 낮음],,,0,0
+27029,PC,Player Character,<StartCheck>[Persuade]</Start> I can take the child from you. I would rather you gave her to me.,<StartCheck>[설득]</Start> 내 힘으로 얼마든지 아이를 데려올 수 있어. 하지만 네가 스스로 넘겨주는 게 나을걸.,2q4a_galrone,,[지능 보통],,,0,0
+27030,PC,Player Character,<StartCheck>[Persuade]</Start> Me can takes baby from you. Me prefer you gives her to me.,<StartCheck>[설득]</Start> 나도 힘으로 아기 뺏을 수 있어. 근데 네가 주는 게 좋아.,2q4a_galrone,,[지능 낮음],,,0,0
+27031,PC,Player Character,"I would have to kill you, I suppose.","결국 널 죽여야 하겠군, 아마도.",2q4a_galrone,nw_d1_small_evil,[지능 보통],,,0,0
+27032,PC,Player Character,"Me woulds kill you, me guesses.",아마 널 죽여야겠지.,2q4a_galrone,nw_d1_small_evil,[지능 낮음],,,0,0
+27033,PC,Player Character,"Fine. Let's try to work out a deal, shall we?",좋아. 거래를 한번 성사시켜 보자고?,2q4a_galrone,,[지능 보통],,,0,0
+27034,PC,Player Character,"Fine. We makes deal, okay?","좋아. 우리 거래해, 응?",2q4a_galrone,,[지능 낮음],,,0,0
+27035,PC,Player Character,"All right, then. Now you die. <StartAction>[Attack]</Start>","좋아, 그렇다면-이제 죽어라. <StartAction>[공격]</Start>",2q4a_galrone,nw_d1_small_evil,[지능 보통],,,0,0
+27036,PC,Player Character,"Okays, then. You die now. <StartAction>[Attack]</Start>","좋아, 그럼. 너 지금 죽어. <StartAction>[공격]</Start>",2q4a_galrone,nw_d1_small_evil,[지능 낮음],,,0,0
+27037,PC,Player Character,*Sigh* Then you leave me little choice. <StartAction>[Attack]</Start>,*한숨* 그렇다면 선택의 여지가 없군. <StartAction>[공격]</Start>,2q4a_galrone,,[지능 보통],,,0,0
+27038,PC,Player Character,*Sigh* You leaves me no choice. <StartAction>[Attack]</Start>,*한숨* 선택지 없게 만들었네. <StartAction>[공격]</Start>,2q4a_galrone,,[지능 낮음],,,0,0
+27039,PC,Player Character,What wizards?,어떤 마법사들?,2q4a_galrone,,,,,0,0

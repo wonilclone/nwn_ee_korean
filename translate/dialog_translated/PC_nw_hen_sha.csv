@@ -1,0 +1,491 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+55682,PC,Player Character,I think we need to change your tactics.,네 전술을 바꿔야 할 것 같아.,nw_hen_sha,,[지능 보통],,,0,0
+55683,PC,Player Character,I think I'll do better off on my own.,혼자가 더 나을 것 같아.,nw_hen_sha,,[지능 보통],,,0,0
+55684,PC,Player Character,We need to change the distance you stay away from me.,나와의 거리를 바꿔야겠어.,nw_hen_sha,,,,,0,0
+55685,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,nw_hen_sha,nw_ch_dist_6,,[Follow: Close],,0,0
+55686,PC,Player Character [Follow: Medium],Medium distance.,중간 거리.,nw_hen_sha,nw_ch_dist_12,,[Follow: Medium],,0,0
+55687,PC,Player Character [Follow: Far],Far distance.,먼 거리.,nw_hen_sha,nw_ch_dist_18,,[Follow: Far],,0,0
+55688,PC,Player Character,Nevermind.,아무것도 아니야.,nw_hen_sha,,,,,0,0
+55693,PC,Player Character,Could we change how quickly you decide to heal me?,날 치유하는 시점을 바꿀 수 있을까?,nw_hen_sha,,nw_ch_heal_0,,,0,0
+55694,PC,Player Character [Healing: 75% HP],Heal me if I become somewhat injured (below 75% of total hit points).,좀 다치면 치유해 줘 (전체 생명력의 75% 미만).,nw_hen_sha,nw_ch_heal_75,[지능 보통],[Healing: 75% HP],,0,0
+55695,PC,Player Character [Healing: 50% HP],Heal me if I become wounded (below 50% of total hit points).,부상을 입으면 치유해 줘 (전체 생명력의 50% 미만).,nw_hen_sha,nw_ch_heal_50,[지능 보통],[Healing: 50% HP],,0,0
+55696,PC,Player Character [Healing: 25% HP],Heal me if I become seriously wounded (below 25% of total hit points).,심각하게 다치면 치유해 줘 (전체 생명력의 25% 미만).,nw_hen_sha,nw_ch_heal_25,[지능 보통],[Healing: 25% HP],,0,0
+55697,PC,Player Character [Companion Settings],Could you not search all the time?,항상 탐색하지 않아도 돼.,nw_hen_sha,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+55698,PC,Player Character [Companion Settings],Could you please search when we move around?,이동할 때 탐색해 줘.,nw_hen_sha,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+55699,PC,Player Character [Companion Settings],Could you use more stealth when we travel?,이동할 때 은신해 줘.,nw_hen_sha,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+55700,PC,Player Character [Companion Settings],Could you stop being so stealthy all the time?,이제 은신하지 않아도 돼.,nw_hen_sha,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+55701,PC,Player Character [Companion Settings],If I fail to open a locked door or chest please come to my aid.,잠긴 문이나 상자를 여는 데 실패하면 도와줘.,nw_hen_sha,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+55702,PC,Player Character [Companion Settings],If I fail to open a locked door or chest do not assist me.,잠긴 문이나 상자를 여는 데 실패하면 날 돕지 마.,nw_hen_sha,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+55703,PC,Player Character,I don't want to change anything else right now.,지금은 다른 걸 바꾸고 싶지 않아.,nw_hen_sha,,,,,0,0
+55704,PC,Player Character → Daelan Red Tiger (Barbarian),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 100.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 100 줄게.,nw_hen_sha,,nw_d2_henchmen03,→ Daelan Red Tiger (Barbarian),,0,0
+55705,PC,Player Character,We need change way you do stuff.,우리 네가 하는 방식 바꿔야 해.,nw_hen_sha,,[지능 낮음],,,0,0
+55706,PC,Player Character,Me no want you here no more.,나 이제 너 여기 원하지 않아.,nw_hen_sha,,[지능 낮음],,,0,0
+55707,PC,Player Character → Grimgnaw (Monk),<StartCheck>[Persuade]</Start> That seem high. Me give 100 only.,<StartCheck>[설득]</Start> 높아 보여. 나 100만 줄게.,nw_hen_sha,,nw_d2_henchmen04,→ Grimgnaw (Monk),,0,0
+55708,PC,Player Character → Tomi Undergallows (Rogue),"Here's your 150 gold. Welcome aboard, Sharwyn.","여기 금화 150개 있어. 환영해, 샤윈.",nw_hen_sha,nw_d1_henchmen01,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+55709,PC,Player Character → Linu La'neral (Cleric),"Here be you 150 gold. Now you be me slave, Sharwyn.","여기 너의 금화 150개. 이제 너 나의 노예야, 샤윈.",nw_hen_sha,nw_d1_henchmen01,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+55710,PC,Player Character,I'll be going now.,이제 갈게.,nw_hen_sha,,[지능 보통],,,0,0
+55711,PC,Player Character,Me go now.,나 이제 가.,nw_hen_sha,,[지능 낮음],,,0,0
+55712,PC,Player Character → Boddyknock Glinckle (Sorcerer),125? Deal.,125? 좋아.,nw_hen_sha,nw_d1_henchmen03,nw_d2_henchmen05,→ Boddyknock Glinckle (Sorcerer),,0,0
+55713,PC,Player Character → Sharwyn (Bard),"Here's your 200 gold. Welcome aboard, Sharwyn.","여기 금화 200개 있어. 환영해, 샤윈.",nw_hen_sha,nw_d1_henchmen04,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+55714,PC,Player Character → Tomi Undergallows (Rogue),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 150.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 150 줄게.,nw_hen_sha,,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+55715,PC,Player Character,"Here be 200 gold. Now you be me slave, Sharwyn.","여기 금화 200개. 이제 너 나의 노예야, 샤윈.",nw_hen_sha,nw_d1_henchmen04,nw_d2_henchmen08,,,0,0
+55716,PC,Player Character → Linu La'neral (Cleric),<StartCheck>[Persuade]</Start> That seem high. Me give 150 only.,<StartCheck>[설득]</Start> 높아 보여. 나 150만 줄게.,nw_hen_sha,,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+55717,PC,Player Character,"Here's your 250 gold. Welcome aboard, Sharwyn.","여기 금화 250개 있어. 환영해, 샤윈.",nw_hen_sha,nw_d1_henchmen06,nw_d2_henchmen09,,,0,0
+55718,PC,Player Character → Sharwyn (Bard),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 200.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 200 줄게.,nw_hen_sha,,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+55719,PC,Player Character,"Here be 250 gold. Now you be me slave, Sharwyn.","여기 금화 250개. 이제 너 나의 노예야, 샤윈.",nw_hen_sha,nw_d1_henchmen06,nw_d2_henchmen11,,,0,0
+55720,PC,Player Character,<StartCheck>[Persuade]</Start> That seem high. Me give 200 only.,<StartCheck>[설득]</Start> 높아 보여. 나 200만 줄게.,nw_hen_sha,,nw_d2_henchmen08,,,0,0
+55721,PC,Player Character,175? Deal.,175? 좋아.,nw_hen_sha,nw_d1_henchmen05,nw_d2_henchmen07,,,0,0
+55722,PC,Player Character,225? Deal.,225? 좋아.,nw_hen_sha,nw_d1_henchmen07,nw_d2_henchmen10,,,0,0
+55723,PC,Player Character,You change how far away you stay.,네가 얼마나 멀리 떨어져 있는지 바꿔.,nw_hen_sha,,,,,0,0
+55725,PC,Player Character,You need change how you heal me.,네가 날 치유하는 방법 바꿔야 해.,nw_hen_sha,,nw_ch_heal_0,,,0,0
+55726,PC,Player Character [Companion Settings],You not search all time no more.,너 더 이상 항상 탐색하지 마.,nw_hen_sha,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+55727,PC,Player Character [Companion Settings],You search all time when we move.,우리 움직일 때 너 항상 탐색해.,nw_hen_sha,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+55728,PC,Player Character [Companion Settings],You stop sneaking so quiet now.,너 이제 그렇게 조용히 잠행하는 거 그만해.,nw_hen_sha,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+55729,PC,Player Character [Companion Settings],You start sneak quiet now.,너 이제 조용히 잠행 시작해.,nw_hen_sha,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+55730,PC,Player Character [Companion Settings],If me fail on locked door or chest you help me.,내가 잠긴 문이나 상자 실패하면 너 나 도와.,nw_hen_sha,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+55731,PC,Player Character [Companion Settings],If me fail on locked door or chest you not help me.,내가 잠긴 문이나 상자 실패하면 너 나 돕지 마.,nw_hen_sha,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+55732,PC,Player Character,Me not want change anything else now.,나 지금 다른 거 바꾸고 싶지 않아.,nw_hen_sha,,,,,0,0
+55736,PC,Player Character [Healing: 75% HP],You heal if me sort of hurt (below 75% of total hit points).,내가 좀 다치면 너 치유해 (전체 생명력의 75% 미만).,nw_hen_sha,nw_ch_heal_75,[지능 낮음],[Healing: 75% HP],,0,0
+55737,PC,Player Character [Healing: 50% HP],You heal if me wounded (below 50% of total hit points).,내가 부상당하면 너 치유해 (전체 생명력의 50% 미만).,nw_hen_sha,nw_ch_heal_50,[지능 낮음],[Healing: 50% HP],,0,0
+55738,PC,Player Character [Healing: 25% HP],You heal if me hurt real bad (below 25% of total hit points).,내가 정말 심하게 다치면 너 치유해 (전체 생명력의 25% 미만).,nw_hen_sha,nw_ch_heal_25,[지능 낮음],[Healing: 25% HP],,0,0
+55739,PC,Player Character,Yes. Go.,그래. 가.,nw_hen_sha,,,,,0,0
+55740,PC,Player Character,No. Stay.,아니. 있어.,nw_hen_sha,,,,,0,0
+55741,PC,Player Character,I don't have that kind of gold to spend on a henchman.,부하한테 쓸 그런 금화가 없어.,nw_hen_sha,,[지능 보통],,,0,0
+55742,PC,Player Character,Me not got that much gold for spend on you.,나 너한테 쓸 그렇게 많은 금화 없어.,nw_hen_sha,,[지능 낮음],,,0,0
+55743,PC,Player Character,Who are you?,누구세요?,nw_hen_sha,,[지능 보통],,,0,0
+55744,PC,Player Character,I don't feel like talking right now. Goodbye.,지금 얘기하고 싶지 않아. 안녕.,nw_hen_sha,,[지능 보통],,,0,0
+55745,PC,Player Character,What do you know about the Blacklake district?,검은호수 구역에 대해 뭘 알아?,nw_hen_sha,,[지능 보통],,,0,0
+55746,PC,Player Character,I'm looking for someone to help me in my mission. ,임무를 도와줄 사람을 찾고 있어.,nw_hen_sha,,[지능 보통],,,0,0
+55747,PC,Player Character,I work for Lady Aribeth. I have been instructed to find several missing creatures that might be used to find a plague cure. ,아리베스 경을 위해 일하고 있어. 역병 치료제를 찾는 데 사용될 수 있는 여러 실종된 생명체를 찾으라는 지시를 받았어.,nw_hen_sha,,[지능 보통],,,0,0
+55748,PC,Player Character,I work for Lady Aribeth. My mission is confidential. ,아리베스 경을 위해 일하고 있어. 내 임무는 기밀이야.,nw_hen_sha,,[지능 보통],,,0,0
+55749,PC,Player Character,Anything else you can tell me about Blacklake?,검은호수에 대해 다른 걸 말해줄 수 있어?,nw_hen_sha,,[지능 보통],,,0,0
+55750,PC,Player Character,"Actually, I'm looking for some help to assist me on my mission. ","사실, 임무를 도와줄 사람을 찾고 있어.",nw_hen_sha,,[지능 보통],,,0,0
+55751,PC,Player Character,No thanks. Goodbye. ,아니 괜찮아. 안녕.,nw_hen_sha,,[지능 보통],,,0,0
+55752,PC,Player Character,I want to ask you some questions. ,질문 좀 하고 싶어.,nw_hen_sha,,[지능 보통],,,0,0
+55753,PC,Player Character,"Well, I wasn't acting alone.","음, 혼자 행동한 건 아니었어.",nw_hen_sha,,[지능 보통],,,0,0
+55754,PC,Player Character,"Yes, that would be me. ","그래, 그게 나야.",nw_hen_sha,,[지능 보통],,,0,0
+55755,PC,Player Character,Who you be?,너 누구야?,nw_hen_sha,,[지능 낮음],,,0,0
+55756,PC,Player Character,Me not wanna talk. Goodbye. ,나 얘기하고 싶지 않아. 안녕.,nw_hen_sha,,[지능 낮음],,,0,0
+55757,PC,Player Character,What you knows about Blacklake place?,너 검은호수 장소에 대해 뭐 알아?,nw_hen_sha,,[지능 낮음],,,0,0
+55758,PC,Player Character,Me looks for someone to help on mission.,나 임무 도와줄 사람 찾아.,nw_hen_sha,,[지능 낮음],,,0,0
+55759,PC,Player Character,You hear 'bout other stuff happening in Blacklake?,너 검은호수에서 일어나는 다른 일 들었어?,nw_hen_sha,,[지능 낮음],,,0,0
+55760,PC,Player Character,Me looking for help in me mission.,나 나의 임무 도와줄 사람 찾고 있어.,nw_hen_sha,,[지능 낮음],,,0,0
+55761,PC,Player Character,Me go now.,나 이제 가.,nw_hen_sha,,[지능 낮음],,,0,0
+55762,PC,Player Character,Me work for lady Aribeth. Me looking for creatures. They are important. They cure plague. ,나 아리베스 부인 위해 일해. 나 생명체들 찾고 있어. 중요해. 역병 치료해.,nw_hen_sha,,[지능 낮음],,,0,0
+55763,PC,Player Character,Me working for lady Aribeth. Can't tell you me mission. It secret. ,나 아리베스 부인 위해 일해. 나의 임무 말 못 해. 비밀이야.,nw_hen_sha,,[지능 낮음],,,0,0
+55764,PC,Player Character,Me want to ask questions.,나 질문하고 싶어.,nw_hen_sha,,[지능 낮음],,,0,0
+55765,PC,Player Character,Me have lots of help!,나 도움 많이 있어!,nw_hen_sha,,[지능 낮음],,,0,0
+55766,PC,Player Character,Me greatest one there is! Me save city!,나 최고야! 나 도시 구해!,nw_hen_sha,,[지능 낮음],,,0,0
+55767,PC,Player Character,So you're working for Aribeth?,그럼 아리베스를 위해 일하고 있어?,nw_hen_sha,,[지능 보통],,,0,0
+55768,PC,Player Character,Goodbye.,안녕.,nw_hen_sha,,,,,0,0
+55769,PC,Player Character,You work for Aribeth?,너 아리베스 위해 일해?,nw_hen_sha,,[지능 낮음],,,0,0
+55770,PC,Player Character,"If you're so interested in fame, why are you standing around here?","명성에 그렇게 관심이 있다면, 왜 여기 서 있어?",nw_hen_sha,,[지능 보통],,,0,0
+55771,PC,Player Character,"If you want fame, why you stand around here?","너 명성 원하면, 왜 너 여기 서 있어?",nw_hen_sha,,[지능 낮음],,,0,0
+55772,PC,Player Character,I wouldn't mind an extra hand. You're in. ,추가 인력은 나쁘지 않아. 들어와.,nw_hen_sha,,[지능 보통],,,0,0
+55773,PC,Player Character,"Sorry, but I'm not interested. Goodbye.","미안하지만, 관심 없어. 안녕.",nw_hen_sha,,[지능 보통],,,0,0
+55774,PC,Player Character,Me need another man. You in. ,나 다른 사람 필요해. 너 들어와.,nw_hen_sha,,[지능 낮음],,,0,0
+55775,PC,Player Character,"Sorry, me not interested. ","미안해, 나 관심 없어.",nw_hen_sha,,[지능 낮음],,,0,0
+55776,PC,Player Character,Have you heard any rumors about the cult since you've come here?,여기 온 이후로 사교에 대한 소문 들었어?,nw_hen_sha,,[지능 보통],,,0,0
+55777,PC,Player Character,You hear any stuff about cult? Me looking for clues. ,너 사교에 대해 뭐 들었어? 나 단서 찾고 있어.,nw_hen_sha,,[지능 낮음],,,0,0
+55778,PC,Player Character,Monsters?,괴물?,nw_hen_sha,,,,,0,0
+55779,PC,Player Character,So are you going to look into it some more?,그래서 더 조사해볼 거야?,nw_hen_sha,,[지능 보통],,,0,0
+55780,PC,Player Character,So why are you standing around here? Shouldn't you be out scouring the north for this cult?,그럼 왜 여기 서 있어? 이 사교를 찾아 북쪽을 뒤져야 하는 거 아니야?,nw_hen_sha,,[지능 보통],,,0,0
+55781,PC,Player Character,You gonna try to find out more stuff about the cult and Luskan?,너 사교랑 러스칸에 대해 더 많은 것 알아낼 거야?,nw_hen_sha,,[지능 낮음],,,0,0
+55782,PC,Player Character,Why you stand around here? You supposed to be looking for cult.,왜 너 여기 서 있어? 너 사교 찾아야 하는 거 아니야.,nw_hen_sha,,[지능 낮음],,,0,0
+55783,PC,Player Character,I'd like you to level up. You'd be more useful to me with a little training. ,레벨업했으면 좋겠어. 약간의 훈련으로 더 유용해질 거야.,nw_hen_sha,,nw_ch_check_38,,,0,0
+55784,PC,Player Character,Me want you to level up. You be better with training. ,나 네가 레벨업하길 원해. 훈련하면 나아질 거야.,nw_hen_sha,,nw_ch_check_39,,,0,0
+55785,PC,Player Character,I just want to talk for a while. ,잠깐 얘기하고 싶어.,nw_hen_sha,,nw_ch_check_43,,,0,0
+55786,PC,Player Character,Me just wanna talk. ,나 그냥 얘기하고 싶어.,nw_hen_sha,,nw_ch_check_44,,,0,0
+55787,PC,Player Character,I'd like to know more about you. ,너에 대해 더 알고 싶어.,nw_hen_sha,,nw_ch_check_1,,,0,0
+55788,PC,Player Character,I want you to continue your story from before.,전에 하던 이야기를 계속해줬으면 해.,nw_hen_sha,,nw_ch_check_3,,,0,0
+55789,PC,Player Character,Nevermind.,신경 쓰지 마.,nw_hen_sha,,,,,0,0
+55790,PC,Player Character,Me wanna know you better. Me think that important. ,나 너 더 잘 알고 싶어. 나 그게 중요하다고 생각해.,nw_hen_sha,,nw_ch_check_2,,,0,0
+55791,PC,Player Character,Me want you continue you story from before. ,나 네가 전에 하던 이야기 계속하길 원해.,nw_hen_sha,,nw_ch_check_4,,,0,0
+55792,PC,Player Character,I cannot idly stand by while people suffer and die.,사람들이 고통받고 죽어가는 걸 가만히 보고만 있을 순 없어.,nw_hen_sha,,[지능 보통],,,0,0
+55793,PC,Player Character,In times of darkness great heroes must do great deeds. It is how legends are forged.,어둠의 시대에 위대한 영웅들은 위대한 업적을 이뤄야 해. 그게 전설이 만들어지는 방식이야.,nw_hen_sha,,[지능 보통],,,0,0
+55794,PC,Player Character,Aribeth has promised me gold and riches if I can help her in this.,아리베스가 이 일을 도우면 금화와 부를 약속했어.,nw_hen_sha,,[지능 보통],,,0,0
+55795,PC,Player Character,"Absolutely, Sharwyn. Stick with me and you'll be famous.","물론이지, 샤윈. 나랑 있으면 유명해질 거야.",nw_hen_sha,,[지능 보통],,,0,0
+55796,PC,Player Character,Forget about that. We have more important matters to attend to.,그건 잊어. 더 중요한 일이 있어.,nw_hen_sha,,[지능 보통],,,0,0
+55797,PC,Player Character,"You not worry, Sharwyn. You stick with me, you be famous!","걱정 마, 샤윈. 너 나랑 있으면, 너 유명해질 거야!",nw_hen_sha,,[지능 낮음],,,0,0
+55798,PC,Player Character,You not think 'bout that no more. We has lots to do.,너 더 이상 그거 생각하지 마. 우리 할 일 많아.,nw_hen_sha,,[지능 낮음],,,0,0
+55799,PC,Player Character,If we're to be companions I'd like to know a little more about you.,우리가 동료가 될 거라면 너에 대해 좀 더 알고 싶어.,nw_hen_sha,,nw_ch_check_10,,,0,0
+55800,PC,Player Character,"I'd like you to continue your story from before, Sharwyn.","전에 하던 이야기를 계속해줬으면 해, 샤윈.",nw_hen_sha,,nw_ch_check_12,,,0,0
+55801,PC,Player Character,"If we be travel together, me want know more 'bout you.","우리 함께 여행하면, 나 너에 대해 더 알고 싶어.",nw_hen_sha,,nw_ch_check_11,,,0,0
+55802,PC,Player Character,Me want you keep talking 'bout story you start before.,나 네가 전에 시작한 이야기 계속 말하길 원해.,nw_hen_sha,,nw_ch_check_13,,,0,0
+55803,PC,Player Character,"How about telling me a tale, Sharwyn? You are a bard, after all.","이야기 하나 들려줄래, 샤윈? 어쨌든 넌 음유시인이잖아.",nw_hen_sha,,nw_ch_check_19,,,0,0
+55804,PC,Player Character,I'd like you to continue your story from before.,전에 하던 이야기를 계속해줬으면 해.,nw_hen_sha,,nw_ch_check_21,,,0,0
+55805,PC,Player Character,"You tells me good story, Sharwyn? You is bard, after all.","너 나한테 좋은 이야기 해줘, 샤윈? 너 음유시인이야, 어쨌든.",nw_hen_sha,,nw_ch_check_20,,,0,0
+55806,PC,Player Character,Me want you to continue you story from before.,나 너 전에 하던 이야기 계속하길 원해.,nw_hen_sha,,nw_ch_check_22,,,0,0
+55807,PC,Player Character,"You again? What, are you following me around?","또 너야? 뭐, 날 따라다니는 거야?",nw_hen_sha,,[지능 보통],,,0,0
+55808,PC,Player Character,"I'm surprised to see you here, Sharwyn.","여기서 보니 놀랍네, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+55809,PC,Player Character,So you were conscripted into service by Aribeth?,그럼 아리베스한테 징집당한 거야?,nw_hen_sha,,[지능 보통],,,0,0
+55810,PC,Player Character,How much would it cost to hire your services?,네 서비스를 고용하는 데 얼마나 들어?,nw_hen_sha,,[지능 보통],,,0,0
+55811,PC,Player Character,Goodbye.,안녕.,nw_hen_sha,,,,,0,0
+55812,PC,Player Character [Companion Settings],I could use someone by my side.,곁에 누군가 있으면 좋겠어.,nw_hen_sha,nw_ch_check50,[지능 보통],[Companion Settings],,0,0
+55813,PC,Player Character,Do you have any information on the cult behind the Wailing Death?,울부짖는 죽음 뒤의 사교에 대한 정보 있어?,nw_hen_sha,,[지능 보통],,,0,0
+55814,PC,Player Character,I don't need anything right now.,지금은 아무것도 필요 없어.,nw_hen_sha,,[지능 보통],,,0,0
+55815,PC,Player Character,I did my duty. ,의무를 다했어.,nw_hen_sha,,[지능 보통],,,0,0
+55816,PC,Player Character,"I know, I'm great. What can I say?","알아, 나 대단하지. 뭐라고 말할까?",nw_hen_sha,,[지능 보통],,,0,0
+55817,PC,Player Character,Me do duty. ,나 의무 다했어.,nw_hen_sha,,[지능 낮음],,,0,0
+55818,PC,Player Character,Me am so great! Me am so great!,나 정말 대단해! 나 정말 대단해!,nw_hen_sha,,[지능 낮음],,,0,0
+55819,PC,Player Character,So you're working for Aarin Gend?,그럼 아린 겐드를 위해 일하고 있어?,nw_hen_sha,,[지능 보통],,,0,0
+55820,PC,Player Character,You work for Aarin Gend? Me work for Aarin too!,너 아린 겐드 위해 일해? 나도 아린 위해 일해!,nw_hen_sha,,[지능 낮음],,,0,0
+55821,PC,Player Character,Goodbye. ,안녕.,nw_hen_sha,,,,,0,0
+55822,PC,Player Character,Have you heard any rumors as to where the Words could be?,언령이 어디 있을지에 대한 소문 들었어?,nw_hen_sha,,[지능 보통],,,0,0
+55823,PC,Player Character,Why are you standing around here? Shouldn't you be looking for these Words? ,왜 여기 서 있어? 이 언령들을 찾아야 하는 거 아니야?,nw_hen_sha,,[지능 보통],,,0,0
+55824,PC,Player Character,You heard any rumors about where Words be? Me want to find them. ,너 언령이 어디 있는지에 대한 소문 들었어? 나 그것들 찾고 싶어.,nw_hen_sha,,[지능 낮음],,,0,0
+55825,PC,Player Character,Why you stand here? You should look for Words. ,왜 너 여기 서 있어? 너 언령 찾아야 해.,nw_hen_sha,,[지능 낮음],,,0,0
+55826,PC,Player Character [Companion Settings],I could use some help in my search for the Words.,언령 탐색에 도움이 필요해.,nw_hen_sha,nw_ch_check50,[지능 보통],[Companion Settings],,0,0
+55827,PC,Player Character,"Sorry, I'm not interested. ","미안하지만, 관심 없어.",nw_hen_sha,,[지능 보통],,,0,0
+55828,PC,Player Character [Companion Settings],Me could use you in me search for Power Words.,나 권능의 언령 찾는 데 너 필요해.,nw_hen_sha,nw_ch_check50,[지능 낮음],[Companion Settings],,0,0
+55829,PC,Player Character,Me not like you. ,나 너 싫어.,nw_hen_sha,,[지능 낮음],,,0,0
+55830,PC,Player Character,"It is good to see you again, Sharwyn.","다시 보니 좋네, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+55831,PC,Player Character,I'm getting sick of seeing you every time I turn around!,돌아설 때마다 너를 보는 게 지겨워지고 있어!,nw_hen_sha,,[지능 보통],,,0,0
+55832,PC,Player Character,"Do you know anything about the Words of Power, Sharwyn?","권능의 언령에 대해 뭔가 알아, 샤윈?",nw_hen_sha,,[지능 보통],,,0,0
+55833,PC,Player Character [Companion Settings],"I would be honored to have you join up with me again, Sharwyn.","다시 함께하면 영광이야, 샤윈.",nw_hen_sha,nw_ch_check50,[지능 보통],[Companion Settings],,0,0
+55834,PC,Player Character,I don't need any help right now.,지금은 도움이 필요 없어.,nw_hen_sha,,[지능 보통],,,0,0
+55835,PC,Player Character [Companion Settings],Yes. ,그래.,nw_hen_sha,nw_ch_check50,,[Companion Settings],,0,0
+55836,PC,Player Character,"No, not now. ","아니, 지금은 아니야.",nw_hen_sha,,,,,0,0
+55837,PC,Player Character [Companion Settings],Yes.,그래.,nw_hen_sha,nw_ch_check50,,[Companion Settings],,0,0
+55838,PC,Player Character,No. ,아니.,nw_hen_sha,,,,,0,0
+55839,PC,Player Character,And just what skills do you have?,그래서 무슨 기술을 가지고 있는데?,nw_hen_sha,,[지능 보통],,,0,0
+55840,PC,Player Character,And if I don't seek adventure and excitement?,그리고 내가 모험과 흥분을 추구하지 않는다면?,nw_hen_sha,,[지능 보통],,,0,0
+55841,PC,Player Character,What skills you has?,너 무슨 기술 있어?,nw_hen_sha,,[지능 낮음],,,0,0
+55842,PC,Player Character,And if me not seeks adventure and excitement?,그리고 나 모험이랑 흥분 추구하지 않으면?,nw_hen_sha,,[지능 낮음],,,0,0
+55843,PC,Player Character,You left behind a life of riches?,부유한 삶을 뒤로 하고 떠났어?,nw_hen_sha,,[지능 보통],,,0,0
+55844,PC,Player Character,You leaves behind riches?,너 부 뒤로 하고 떠났어?,nw_hen_sha,,[지능 낮음],,,0,0
+55845,PC,Player Character,"You're a local girl, are you?",넌 이곳 출신이구나?,nw_hen_sha,,[지능 보통],,,0,0
+55846,PC,Player Character,"You local girl, huh?",너 이곳 출신 소녀야?,nw_hen_sha,,[지능 낮음],,,0,0
+55847,PC,Player Character,Me see lots people die. Me not like it. Me want help them.,나 많은 사람들 죽는 거 봤어. 나 좋아하지 않아. 나 그들 돕고 싶어.,nw_hen_sha,,[지능 낮음],,,0,0
+55848,PC,Player Character,Neverwinter need hero to save it. If me save Neverwinter then me be hero.,네버윈터 구할 영웅 필요해. 나 네버윈터 구하면 나 영웅이야.,nw_hen_sha,,[지능 낮음],,,0,0
+55849,PC,Player Character,Me get lots gold if me help Neverwinter!,나 네버윈터 도우면 금화 많이 받아!,nw_hen_sha,,[지능 낮음],,,0,0
+55850,PC,Player Character,Oblivion? What are you talking about?,망각? 무슨 얘기하는 거야?,nw_hen_sha,,[지능 보통],,,0,0
+55851,PC,Player Character,Oblivion? What you talks about?,망각? 너 무슨 얘기해?,nw_hen_sha,,[지능 낮음],,,0,0
+55852,PC,Player Character,No need to be so melodramatic about it.,그렇게 과장할 필요 없어.,nw_hen_sha,,[지능 보통],,,0,0
+55853,PC,Player Character,You not needs be so whiney about it.,너 그거에 대해 그렇게 징징댈 필요 없어.,nw_hen_sha,,[지능 낮음],,,0,0
+55854,PC,Player Character,Do you have any advice you can give me about my mission?,내 임무에 대해 줄 수 있는 조언이 있어?,nw_hen_sha,,[지능 보통],,,0,0
+55855,PC,Player Character,You got any tip you give me 'bout this mission?,너 이 임무에 대해 나한테 줄 조언 있어?,nw_hen_sha,,[지능 낮음],,,0,0
+55856,PC,Player Character,Tell me about the Blacklake district.,검은호수 구역에 대해 말해줘.,nw_hen_sha,,[지능 보통],,,0,0
+55857,PC,Player Character,Tell me 'bout Blacklake district.,검은호수 구역에 대해 말해줘.,nw_hen_sha,,[지능 낮음],,,0,0
+55858,PC,Player Character,Anything else?,다른 건?,nw_hen_sha,,,,,0,0
+55859,PC,Player Character,I think that's enough talking for now.,지금은 충분히 얘기한 것 같아.,nw_hen_sha,,[지능 보통],,,0,0
+55860,PC,Player Character,Me not want talk no more.,나 더 이상 얘기하고 싶지 않아.,nw_hen_sha,,[지능 낮음],,,0,0
+55861,PC,Player Character,"Me not think me see you here, Sharwyn.","나 여기서 너 볼 거라고 생각 안 했어, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+55862,PC,Player Character,You again? Is you following me like some stupid puppy?,또 너야? 너 바보 강아지처럼 나 따라다니는 거야?,nw_hen_sha,,[지능 낮음],,,0,0
+55863,PC,Player Character,Aribeth force you to come serve here?,아리베스가 너 여기서 봉사하라고 강제했어?,nw_hen_sha,,[지능 낮음],,,0,0
+55864,PC,Player Character,How much it cost for you work for me again?,다시 나 위해 일하는 데 얼마나 들어?,nw_hen_sha,,[지능 낮음],,,0,0
+55865,PC,Player Character,You know stuff 'bout that cult that spread plague?,너 역병 퍼뜨린 사교에 대해 뭐 알아?,nw_hen_sha,,[지능 낮음],,,0,0
+55866,PC,Player Character [Companion Settings],Me need someone like you for help me.,나 나 도와줄 너 같은 사람 필요해.,nw_hen_sha,nw_ch_check50,[지능 낮음],[Companion Settings],,0,0
+55867,PC,Player Character,Me not need nothing right now.,나 지금 아무것도 필요 없어.,nw_hen_sha,,[지능 낮음],,,0,0
+55868,PC,Player Character,Monsters?,괴물?,nw_hen_sha,,,,,0,0
+55869,PC,Player Character,Where?,어디?,nw_hen_sha,,,,,0,0
+55870,PC,Player Character,"Me glad for see you again, Sharwyn.","너 다시 봐서 기뻐, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+55871,PC,Player Character,Me sick of you! Everywhere me go you be there!,나 너 지겨워! 내가 어디 가든 너 거기 있어!,nw_hen_sha,,[지능 낮음],,,0,0
+55872,PC,Player Character,"You know stuff 'bout Words of Power, Sharwyn?","너 권능의 언령에 대해 뭐 알아, 샤윈?",nw_hen_sha,,[지능 낮음],,,0,0
+55873,PC,Player Character [Companion Settings],"Me be happy if you join me 'gain, Sharwyn.","너 다시 나랑 함께하면 나 행복해, 샤윈.",nw_hen_sha,nw_ch_check50,[지능 낮음],[Companion Settings],,0,0
+55874,PC,Player Character,Me not need no help right now.,나 지금 도움 필요 없어.,nw_hen_sha,,[지능 낮음],,,0,0
+55875,PC,Player Character,Where?,어디?,nw_hen_sha,,,,,0,0
+55876,PC,Player Character,And if I said I was looking for work?,그리고 내가 일자리를 찾고 있다고 말한다면?,nw_hen_sha,,[지능 보통],,,0,0
+55877,PC,Player Character,And if me say me looks for work?,그리고 나 일자리 찾는다고 말하면?,nw_hen_sha,,[지능 낮음],,,0,0
+55878,PC,Player Character,I might be looking for a henchman.,부하를 찾고 있을지도 몰라.,nw_hen_sha,,[지능 보통],,,0,0
+55879,PC,Player Character,Maybe me looks for henchman.,아마 나 부하 찾아.,nw_hen_sha,,[지능 낮음],,,0,0
+55880,PC,Player Character,My name is <FirstName>. Pleased to meet you.,내 이름은 <FirstName>이야. 만나서 반가워.,nw_hen_sha,,[지능 보통],,,0,0
+55881,PC,Player Character,Who are you that you interrogate possible employers?,가능한 고용주를 심문하는 너는 누구야?,nw_hen_sha,,[지능 보통],,,0,0
+55882,PC,Player Character,"I never said I would hire *you*, did I?",내가 *너*를 고용하겠다고 말한 적 없잖아?,nw_hen_sha,,[지능 보통],,,0,0
+55883,PC,Player Character,Me called <FirstName>. Is nice to meet you.,나 <FirstName>이라고 불려. 너 만나서 좋아.,nw_hen_sha,,[지능 낮음],,,0,0
+55884,PC,Player Character,Who you that you questions me like that?,그렇게 나한테 질문하는 너 누구야?,nw_hen_sha,,[지능 낮음],,,0,0
+55885,PC,Player Character,Me not say me hires *you*.,나 *너* 고용한다고 말 안 했어.,nw_hen_sha,,[지능 낮음],,,0,0
+55886,PC,Player Character,"Why not tell me who you are, first?",먼저 네가 누군지 말해주지 그래?,nw_hen_sha,,[지능 보통],,,0,0
+55887,PC,Player Character,"You tells me who you is, first.",너 먼저 너 누구인지 말해줘.,nw_hen_sha,,[지능 낮음],,,0,0
+55888,PC,Player Character,My business is my own.,내 일은 내 거야.,nw_hen_sha,,[지능 보통],,,0,0
+55889,PC,Player Character,What me doing no concern you.,나 뭐 하는지 너랑 상관없어.,nw_hen_sha,,[지능 낮음],,,0,0
+55890,PC,Player Character,You seem pretty sure of yourself.,꽤 자신감 있어 보이네.,nw_hen_sha,,[지능 보통],,,0,0
+55891,PC,Player Character,"You sure of youself, huh?",너 자신감 있어?,nw_hen_sha,,[지능 낮음],,,0,0
+55892,PC,Player Character,You're right... you do seem arrogant.,네 말이 맞아... 오만해 보이네.,nw_hen_sha,,[지능 보통],,,0,0
+55893,PC,Player Character,You is right. You arrogant.,너 맞아. 너 오만해.,nw_hen_sha,,[지능 낮음],,,0,0
+55894,PC,Player Character,I think such confidence is admirable.,그런 자신감은 훌륭하다고 생각해.,nw_hen_sha,,[지능 보통],,,0,0
+55895,PC,Player Character,Me thinks is good you so sure.,나 생각해 너 그렇게 확신하는 거 좋아.,nw_hen_sha,,[지능 낮음],,,0,0
+55896,PC,Player Character,It is my duty to assist. There is nothing more to be said.,돕는 것이 내 의무야. 더 말할 것 없어.,nw_hen_sha,,[지능 보통],,,0,0
+55897,PC,Player Character,Me has duty to help. Need not say more.,나 도울 의무 있어. 더 말할 필요 없어.,nw_hen_sha,,[지능 낮음],,,0,0
+55898,PC,Player Character,Why do you want to know? I asked first.,왜 알고 싶어? 내가 먼저 물었잖아.,nw_hen_sha,,[지능 보통],,,0,0
+55899,PC,Player Character,Why you wants to know? Me ask first.,왜 너 알고 싶어? 나 먼저 물었어.,nw_hen_sha,,[지능 낮음],,,0,0
+55900,PC,Player Character,"Who knows what might happen, Sharwyn?","무슨 일이 일어날지 누가 알아, 샤윈?",nw_hen_sha,,[지능 보통],,,0,0
+55901,PC,Player Character,"Nobody know what happen, Sharwyn.","아무도 무슨 일 일어날지 몰라, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+55902,PC,Player Character,"I doubt it, if that's all you seek.",그게 네가 추구하는 전부라면 의심스러운데.,nw_hen_sha,,[지능 보통],,,0,0
+55903,PC,Player Character,"Me doubts it, if that all you seeks.","나 의심스러워, 그게 너 추구하는 전부면.",nw_hen_sha,,[지능 낮음],,,0,0
+55904,PC,Player Character,I agree.,동의해.,nw_hen_sha,,[지능 보통],,,0,0
+55905,PC,Player Character,Me agrees.,나 동의해.,nw_hen_sha,,[지능 낮음],,,0,0
+55906,PC,Player Character,Tell me now.,지금 말해줘.,nw_hen_sha,,[지능 보통],,,0,0
+55907,PC,Player Character,"Sure, another time.","그래, 다음에.",nw_hen_sha,,[지능 보통],,,0,0
+55908,PC,Player Character,"I don't want to hear your stories, I'm sure.","네 이야기 듣고 싶지 않아, 확실해.",nw_hen_sha,,[지능 보통],,,0,0
+55909,PC,Player Character,You tells me now.,너 지금 나한테 말해.,nw_hen_sha,,[지능 낮음],,,0,0
+55910,PC,Player Character,"Okays, some other time.","좋아, 다음에.",nw_hen_sha,,[지능 낮음],,,0,0
+55911,PC,Player Character,"Me not want to hear you stories, me sure.","나 너의 이야기 듣고 싶지 않아, 나 확실해.",nw_hen_sha,,[지능 낮음],,,0,0
+55912,PC,Player Character,"Yes, it does actually.","그래, 실제로 그래.",nw_hen_sha,,[지능 보통],,,0,0
+55913,PC,Player Character,"Yeah, it do!","그래, 그래!",nw_hen_sha,,[지능 낮음],,,0,0
+55914,PC,Player Character,Why would she do that?,왜 그녀가 그랬을까?,nw_hen_sha,,[지능 보통],,,0,0
+55915,PC,Player Character,You don't sound as if you approve.,찬성하는 것처럼 들리지 않네.,nw_hen_sha,,[지능 보통],,,0,0
+55916,PC,Player Character,"She had sense, obviously.",그녀는 분명 현명했어.,nw_hen_sha,,[지능 보통],,,0,0
+55917,PC,Player Character,Why she do that?,왜 그녀가 그랬어?,nw_hen_sha,,[지능 낮음],,,0,0
+55918,PC,Player Character,You no sound like you approves.,너 찬성하는 것처럼 들리지 않아.,nw_hen_sha,,[지능 낮음],,,0,0
+55919,PC,Player Character,"She have sense, me thinking.","그녀 현명해, 나 생각해.",nw_hen_sha,,[지능 낮음],,,0,0
+55920,PC,Player Character,What about you? Were you saddened by his death?,너는 어때? 그의 죽음에 슬펐어?,nw_hen_sha,,[지능 보통],,,0,0
+55921,PC,Player Character,She sounds like a terrible woman.,끔찍한 여자처럼 들리네.,nw_hen_sha,,[지능 보통],,,0,0
+55922,PC,Player Character,So she returned to her magic?,그래서 그녀는 마법으로 돌아갔어?,nw_hen_sha,,[지능 보통],,,0,0
+55923,PC,Player Character,What about you? You not be sad when he die?,너는 어때? 너 그가 죽었을 때 슬프지 않았어?,nw_hen_sha,,[지능 낮음],,,0,0
+55924,PC,Player Character,She sound like bad woman.,그녀 나쁜 여자처럼 들려.,nw_hen_sha,,[지능 낮음],,,0,0
+55925,PC,Player Character,So she goes back to magic?,그래서 그녀 마법으로 돌아갔어?,nw_hen_sha,,[지능 낮음],,,0,0
+55926,PC,Player Character,Did you?,너는?,nw_hen_sha,,,,,0,0
+55927,PC,Player Character,You must have felt foolish.,바보 같았을 거야.,nw_hen_sha,,[지능 보통],,,0,0
+55928,PC,Player Character,I take it your mother wasn't happy about that?,네 어머니는 그것에 대해 행복하지 않았겠네?,nw_hen_sha,,[지능 보통],,,0,0
+55929,PC,Player Character,"Who was this man, then?",그럼 이 남자는 누구였어?,nw_hen_sha,,[지능 보통],,,0,0
+55930,PC,Player Character,"You must feels like fool, huh?",너 바보 같았을 거야?,nw_hen_sha,,[지능 낮음],,,0,0
+55931,PC,Player Character,I guess you mother not happy?,나 생각엔 너의 어머니 행복하지 않았어?,nw_hen_sha,,[지능 낮음],,,0,0
+55932,PC,Player Character,"Who this guy, then?",그럼 이 남자 누구야?,nw_hen_sha,,[지능 낮음],,,0,0
+55933,PC,Player Character,That was selfish of you.,그건 이기적이었어.,nw_hen_sha,,[지능 보통],,,0,0
+55934,PC,Player Character,Love can do that.,사랑이 그럴 수 있지.,nw_hen_sha,,[지능 보통],,,0,0
+55935,PC,Player Character,So what happened?,그래서 무슨 일이 있었어?,nw_hen_sha,,[지능 보통],,,0,0
+55936,PC,Player Character,That be selfish of you.,그거 너 이기적이었어.,nw_hen_sha,,[지능 낮음],,,0,0
+55937,PC,Player Character,"Love do that, me thinking.","사랑이 그래, 나 생각해.",nw_hen_sha,,[지능 낮음],,,0,0
+55938,PC,Player Character,So what happen?,그래서 무슨 일 있었어?,nw_hen_sha,,[지능 낮음],,,0,0
+55939,PC,Player Character,This couldn't have gone on long.,이게 오래 갈 수는 없었겠네.,nw_hen_sha,,[지능 보통],,,0,0
+55940,PC,Player Character,Why didn't you simply make a decision?,왜 그냥 결정을 내리지 않았어?,nw_hen_sha,,[지능 보통],,,0,0
+55941,PC,Player Character,People act like idiots when they're in love.,사람들은 사랑에 빠지면 바보처럼 행동해.,nw_hen_sha,,[지능 보통],,,0,0
+55942,PC,Player Character,"The not goes on for long, me thinking.","그거 오래 안 갔을 거야, 나 생각해.",nw_hen_sha,,[지능 낮음],,,0,0
+55943,PC,Player Character,Why you not makes decision?,왜 너 결정 안 했어?,nw_hen_sha,,[지능 낮음],,,0,0
+55944,PC,Player Character,Peoples be dumb when they is in love.,사람들 사랑에 빠지면 바보야.,nw_hen_sha,,[지능 낮음],,,0,0
+55945,PC,Player Character,So did she have Dannen killed?,그래서 그녀가 다넨을 죽게 했어?,nw_hen_sha,,[지능 보통],,,0,0
+55946,PC,Player Character,So you killed her?,그래서 네가 그녀를 죽였어?,nw_hen_sha,,[지능 보통],,,0,0
+55947,PC,Player Character,"An unpleasant scene, I would bet.",불쾌한 장면이었겠네.,nw_hen_sha,,[지능 보통],,,0,0
+55948,PC,Player Character,"So she gets Dannen killed, huh?",그래서 그녀가 다넨 죽게 했어?,nw_hen_sha,,[지능 낮음],,,0,0
+55949,PC,Player Character,So you kills mother?,그래서 너 어머니 죽였어?,nw_hen_sha,,[지능 낮음],,,0,0
+55950,PC,Player Character,"Not good scene, me thinking.","좋지 않은 장면, 나 생각해.",nw_hen_sha,,[지능 낮음],,,0,0
+55951,PC,Player Character,You chose Dannen?,다넨을 선택했어?,nw_hen_sha,,[지능 보통],,,0,0
+55952,PC,Player Character,You chose Lord Farthingdon?,파딩던 영주을 선택했어?,nw_hen_sha,,[지능 보통],,,0,0
+55953,PC,Player Character,You chooses bard?,너 음유시인 선택했어?,nw_hen_sha,,[지능 낮음],,,0,0
+55954,PC,Player Character,You chooses Lord whatshisname?,너 그 뭐시기 경 선택했어?,nw_hen_sha,,[지능 낮음],,,0,0
+55955,PC,Player Character,What did you do then?,그래서 뭘 했어?,nw_hen_sha,,[지능 보통],,,0,0
+55956,PC,Player Character,How could you do that to your mother?,어떻게 어머니한테 그럴 수 있어?,nw_hen_sha,,[지능 보통],,,0,0
+55957,PC,Player Character,You did the only thing you could.,할 수 있는 유일한 일을 했어.,nw_hen_sha,,[지능 보통],,,0,0
+55958,PC,Player Character,What you do then?,그래서 너 뭐 했어?,nw_hen_sha,,[지능 낮음],,,0,0
+55959,PC,Player Character,How you does that to mother?,어떻게 너 어머니한테 그래?,nw_hen_sha,,[지능 낮음],,,0,0
+55960,PC,Player Character,You does only thing you could.,너 할 수 있는 유일한 일 했어.,nw_hen_sha,,[지능 낮음],,,0,0
+55961,PC,Player Character,She still lives?,그녀 아직 살아있어?,nw_hen_sha,,[지능 보통],,,0,0
+55962,PC,Player Character,Mother be alive?,어머니 살아있어?,nw_hen_sha,,[지능 낮음],,,0,0
+55963,PC,Player Character,Why would you even want her healed?,왜 그녀가 치유되길 원하는 거야?,nw_hen_sha,,[지능 보통],,,0,0
+55964,PC,Player Character,Is there nothing that can be done?,할 수 있는 게 아무것도 없어?,nw_hen_sha,,[지능 보통],,,0,0
+55965,PC,Player Character,Perhaps I could help her.,아마 내가 그녀를 도울 수 있을 거야.,nw_hen_sha,,[지능 보통],,,0,0
+55966,PC,Player Character,Why you even wants her healed?,왜 너 그녀가 치유되길 원해?,nw_hen_sha,,[지능 낮음],,,0,0
+55967,PC,Player Character,Nothing be done?,아무것도 할 수 없어?,nw_hen_sha,,[지능 낮음],,,0,0
+55968,PC,Player Character,Maybe me could helps.,아마 나 도울 수 있어.,nw_hen_sha,,[지능 낮음],,,0,0
+55969,PC,Player Character,Is this the potion you're talking about?,이게 네가 말하는 물약이야?,nw_hen_sha,,nw_ch_check_8,,,0,0
+55970,PC,Player Character,Perhaps we shall find it on our travels.,아마 여행 중에 찾을 수 있을 거야.,nw_hen_sha,,[지능 보통],,,0,0
+55971,PC,Player Character,Just don't let your search interfere with my mission.,네 탐색이 내 임무를 방해하지만 않으면 돼.,nw_hen_sha,,[지능 보통],,,0,0
+55972,PC,Player Character,Me has potion. This be potion you needs?,나 물약 있어. 이게 너 필요한 물약이야?,nw_hen_sha,,nw_ch_check_9,,,0,0
+55973,PC,Player Character,Maybe we finds it later.,아마 우리 나중에 찾을 거야.,nw_hen_sha,,[지능 낮음],,,0,0
+55974,PC,Player Character,You not lets search get in way of mission.,너 탐색이 임무 방해하게 하지 마.,nw_hen_sha,,[지능 낮음],,,0,0
+55975,PC,Player Character,"Thank you, Sharwyn.","고마워, 샤윈.",nw_hen_sha,,,,,0,0
+55976,PC,Player Character,That's it? Some cheap belt?,그게 다야? 싸구려 허리띠?,nw_hen_sha,,,,,0,0
+55977,PC,Player Character,"Yes, tell me about that.","그래, 그것에 대해 말해줘.",nw_hen_sha,,[지능 보통],,,0,0
+55978,PC,Player Character,Haven't you got anything more interesting?,더 흥미로운 거 없어?,nw_hen_sha,,[지능 보통],,,0,0
+55979,PC,Player Character,How about telling me how you became so beautiful?,어떻게 그렇게 아름다워졌는지 말해줄래?,nw_hen_sha,,nw_d2_flirti_n,,,0,0
+55980,PC,Player Character,Maybe some other time.,다음에.,nw_hen_sha,,[지능 보통],,,0,0
+55981,PC,Player Character,"Okays, you tell me about that.","좋아, 너 그것에 대해 말해줘.",nw_hen_sha,,[지능 낮음],,,0,0
+55982,PC,Player Character,You gots no better stories?,너 더 나은 이야기 없어?,nw_hen_sha,,[지능 낮음],,,0,0
+55983,PC,Player Character,Maybe you tells me how you gets so pretty?,아마 너 어떻게 그렇게 예뻐졌는지 말해줘?,nw_hen_sha,,nw_d2_flirti_l,,,0,0
+55984,PC,Player Character,Maybe later.,아마 나중에.,nw_hen_sha,,[지능 낮음],,,0,0
+55985,PC,Player Character,I could pay you.,돈 줄 수 있어.,nw_hen_sha,,[지능 보통],,,0,0
+55986,PC,Player Character,"Fine, tell me your story, then.","좋아, 그럼 이야기 해줘.",nw_hen_sha,,[지능 보통],,,0,0
+55987,PC,Player Character,Me could pays you.,나 너한테 돈 줄 수 있어.,nw_hen_sha,,[지능 낮음],,,0,0
+55988,PC,Player Character,"Okay, tells your story, then.","좋아, 그럼 너의 이야기 해줘.",nw_hen_sha,,[지능 낮음],,,0,0
+55989,PC,Player Character,What's so clumsy about it?,뭐가 그렇게 서툰 거야?,nw_hen_sha,,[지능 보통],,,0,0
+55990,PC,Player Character,"I like more than just how you look, Sharwyn.","네 외모 이상을 좋아해, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+55991,PC,Player Character,I don't mean to offend you.,기분 상하게 하려는 건 아니야.,nw_hen_sha,,[지능 보통],,,0,0
+55992,PC,Player Character,What be so clumsy about it?,뭐가 그렇게 서툴러?,nw_hen_sha,,[지능 낮음],,,0,0
+55993,PC,Player Character,"Me likes more than just way you looks, Sharwyn.","나 너 보이는 방식 이상을 좋아해, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+55994,PC,Player Character,Me not wants to offend you.,나 너 기분 상하게 하고 싶지 않아.,nw_hen_sha,,[지능 낮음],,,0,0
+55995,PC,Player Character,So why aren't you with him now?,그럼 왜 지금 그와 함께 있지 않아?,nw_hen_sha,,[지능 보통],,,0,0
+55996,PC,Player Character,Gah. You didn't tell me this was some awful love story.,이런. 이게 끔찍한 사랑 이야기라고 말 안 했잖아.,nw_hen_sha,,[지능 보통],,,0,0
+55997,PC,Player Character,It couldn't have all been so idyllic.,전부 그렇게 목가적이지는 않았을 거야.,nw_hen_sha,,[지능 보통],,,0,0
+55998,PC,Player Character,So why is you not with him now?,그럼 왜 너 지금 그랑 함께 있지 않아?,nw_hen_sha,,[지능 낮음],,,0,0
+55999,PC,Player Character,Bah! You not tells me this be mushy love story.,뭐야! 너 이거 감상적인 사랑 이야기라고 말 안 했어.,nw_hen_sha,,[지능 낮음],,,0,0
+56000,PC,Player Character,"It not be all perfect, me thinking.","전부 완벽하지 않았을 거야, 나 생각해.",nw_hen_sha,,[지능 낮음],,,0,0
+56001,PC,Player Character,This was bad news?,이게 나쁜 소식이었어?,nw_hen_sha,,[지능 보통],,,0,0
+56002,PC,Player Character,This be bad news?,이거 나쁜 소식이야?,nw_hen_sha,,[지능 낮음],,,0,0
+56003,PC,Player Character,"No, tell me the rest now.","아니, 지금 나머지 말해줘.",nw_hen_sha,,[지능 보통],,,0,0
+56004,PC,Player Character,I'll hold you to that promise.,그 약속 지키게 할 거야.,nw_hen_sha,,[지능 보통],,,0,0
+56005,PC,Player Character,Why would I want to hear about your sad breakup with Dannen?,왜 다넨과의 슬픈 이별에 대해 듣고 싶겠어?,nw_hen_sha,,[지능 보통],,,0,0
+56006,PC,Player Character,"No, you tells me more now.","아니, 너 지금 더 말해줘.",nw_hen_sha,,[지능 낮음],,,0,0
+56007,PC,Player Character,Me holds you to that promise.,나 너 그 약속 지키게 할 거야.,nw_hen_sha,,[지능 낮음],,,0,0
+56008,PC,Player Character,Why me want to hear 'bout your sad breakup with bard?,왜 나 음유시인과의 슬픈 이별에 대해 듣고 싶어?,nw_hen_sha,,[지능 낮음],,,0,0
+56009,PC,Player Character,"What went wrong, then?",그럼 뭐가 잘못됐어?,nw_hen_sha,,[지능 보통],,,0,0
+56010,PC,Player Character,"Athkatla is a dangerous place, I hear.",아스카틀라는 위험한 곳이라고 들었어.,nw_hen_sha,,[지능 보통],,,0,0
+56011,PC,Player Character,How did this Lord and Lady even know of you?,이 영주와 부인이 어떻게 너를 알았어?,nw_hen_sha,,[지능 보통],,,0,0
+56012,PC,Player Character,What go wrong?,뭐가 잘못됐어?,nw_hen_sha,,[지능 낮음],,,0,0
+56013,PC,Player Character,"Athkatla is bad place, me hears.","아스카틀라 나쁜 곳이야, 나 들었어.",nw_hen_sha,,[지능 낮음],,,0,0
+56014,PC,Player Character,"How Lord and Lady hear 'bout you, even?",어떻게 경이랑 부인이 너에 대해 들었어?,nw_hen_sha,,[지능 낮음],,,0,0
+56015,PC,Player Character,"Uh-oh, that does sound bad... ","어머, 그건 나쁘게 들리네...",nw_hen_sha,,[지능 보통],,,0,0
+56016,PC,Player Character,Did you ask why they invited you?,왜 그들이 너를 초대했는지 물어봤어?,nw_hen_sha,,[지능 보통],,,0,0
+56017,PC,Player Character,"You're not exactly a hobgoblin, Sharwyn.","넌 정확히 홉고블린은 아니잖아, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+56018,PC,Player Character,Uh-oh... that sound bad.,어머... 그거 나쁘게 들려.,nw_hen_sha,,[지능 낮음],,,0,0
+56019,PC,Player Character,You ask why they invites you?,너 왜 그들이 너 초대했는지 물어봤어?,nw_hen_sha,,[지능 낮음],,,0,0
+56020,PC,Player Character,"You no hobgoblin, Sharwyn.","너 홉고블린 아니야, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+56021,PC,Player Character,Oldest story in the book.,가장 오래된 이야기지.,nw_hen_sha,,[지능 보통],,,0,0
+56022,PC,Player Character,"He left you for the Lady, then?",그럼 그가 부인을 위해 너를 떠났어?,nw_hen_sha,,[지능 보통],,,0,0
+56023,PC,Player Character,Why did you stand for it?,왜 참았어?,nw_hen_sha,,[지능 보통],,,0,0
+56024,PC,Player Character,Is oldest story in book.,책에서 가장 오래된 이야기야.,nw_hen_sha,,[지능 낮음],,,0,0
+56025,PC,Player Character,"He leaves you for Lady, huh?",그가 너 부인 위해 떠났어?,nw_hen_sha,,[지능 낮음],,,0,0
+56026,PC,Player Character,Why you stands for it?,왜 너 참았어?,nw_hen_sha,,[지능 낮음],,,0,0
+56027,PC,Player Character,Why didn't you leave him?,왜 그를 떠나지 않았어?,nw_hen_sha,,[지능 보통],,,0,0
+56028,PC,Player Character,Were they having an affair?,그들이 바람을 피운 거야?,nw_hen_sha,,[지능 보통],,,0,0
+56029,PC,Player Character,You should have challenged her!,그녀에게 도전했어야지!,nw_hen_sha,,[지능 보통],,,0,0
+56030,PC,Player Character,Why you not leaves him?,왜 너 그를 떠나지 않았어?,nw_hen_sha,,[지능 낮음],,,0,0
+56031,PC,Player Character,"They haves affair, maybe?","그들이 바람 피웠어, 아마도?",nw_hen_sha,,[지능 낮음],,,0,0
+56032,PC,Player Character,You shoulds challenge her!,너 그녀한테 도전했어야 해!,nw_hen_sha,,[지능 낮음],,,0,0
+56033,PC,Player Character,What did you do?,뭘 했어?,nw_hen_sha,,[지능 보통],,,0,0
+56034,PC,Player Character,What you do?,너 뭐 했어?,nw_hen_sha,,[지능 낮음],,,0,0
+56035,PC,Player Character,"I would have killed him, if I were you.",내가 너였다면 그를 죽였을 거야.,nw_hen_sha,,[지능 보통],,,0,0
+56036,PC,Player Character,You should have left.,떠났어야지.,nw_hen_sha,,[지능 보통],,,0,0
+56037,PC,Player Character,Why did they bother to keep it secret from you?,왜 그들은 굳이 너한테 비밀로 했을까?,nw_hen_sha,,[지능 보통],,,0,0
+56038,PC,Player Character,"Me would have killed him, if me was you.",나 너였으면 그를 죽였을 거야.,nw_hen_sha,,[지능 낮음],,,0,0
+56039,PC,Player Character,You shoulds have left.,너 떠났어야 해.,nw_hen_sha,,[지능 낮음],,,0,0
+56040,PC,Player Character,"Why they keeps it secret from you, even?",왜 그들이 너한테 비밀로 했어?,nw_hen_sha,,[지능 낮음],,,0,0
+56041,PC,Player Character,"That's horrible, Sharwyn.","끔찍하네, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+56042,PC,Player Character,You should have taken revenge. I would have.,복수했어야지. 나였으면 그랬을 거야.,nw_hen_sha,,[지능 보통],,,0,0
+56043,PC,Player Character,So he cheated on you. Why be so dramatic?,그래서 그가 바람을 피웠어. 왜 그렇게 과장해?,nw_hen_sha,,[지능 보통],,,0,0
+56044,PC,Player Character,"I would never treat you like that, Sharwyn.","난 절대 너를 그렇게 대하지 않을 거야, 샤윈.",nw_hen_sha,,nw_d2_flirti_n,,,0,0
+56045,PC,Player Character,"That be very terrible, Sharwyn.","그거 정말 끔찍해, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+56046,PC,Player Character,You shoulds have taken revenge. Me woulds have.,너 복수했어야 해. 나였으면 그랬을 거야.,nw_hen_sha,,[지능 낮음],,,0,0
+56047,PC,Player Character,So he cheats on you. Why cries about it?,그래서 그가 바람 피웠어. 왜 그거에 대해 울어?,nw_hen_sha,,[지능 낮음],,,0,0
+56048,PC,Player Character,"Me woulds never treat you so bad, Sharwyn.","나 절대 너를 그렇게 나쁘게 대하지 않을 거야, 샤윈.",nw_hen_sha,,nw_d2_flirti_l,,,0,0
+56049,PC,Player Character,Are you sure Dannen is still with her?,다넨이 아직도 그녀와 함께 있다고 확신해?,nw_hen_sha,,[지능 보통],,,0,0
+56050,PC,Player Character,"Would you take him back, now that you know?",이제 알았는데 그를 다시 받아들일 거야?,nw_hen_sha,,[지능 보통],,,0,0
+56051,PC,Player Character,What will that prove?,그게 뭘 증명하는데?,nw_hen_sha,,[지능 보통],,,0,0
+56052,PC,Player Character,You sure Dannen still be with her?,너 다넨이 아직도 그녀랑 함께 있다고 확신해?,nw_hen_sha,,[지능 낮음],,,0,0
+56053,PC,Player Character,"Would you takes him back, now that you knows?",너 이제 알았는데 그를 다시 받아들일 거야?,nw_hen_sha,,[지능 낮음],,,0,0
+56054,PC,Player Character,"What will it proves, you think?","그게 뭘 증명할 거야, 너 생각해?",nw_hen_sha,,[지능 낮음],,,0,0
+56055,PC,Player Character,"I believe I have a lock of nymph's hair, here.",여기 님프의 머리카락이 있는 것 같은데.,nw_hen_sha,,nw_ch_check_17,,,0,0
+56056,PC,Player Character,"We'll find you some nymph's hair, Sharwyn.","님프의 머리카락을 찾아줄게, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+56057,PC,Player Character,Just don't get preoccupied with it.,그것에만 집착하지는 마.,nw_hen_sha,,[지능 보통],,,0,0
+56058,PC,Player Character,Are you sure revenge will be so satisfying?,복수가 그렇게 만족스러울 거라고 확신해?,nw_hen_sha,,[지능 보통],,,0,0
+56059,PC,Player Character,"Me thinks me has nymph hair, here.","나 생각엔 나 님프 머리카락 있어, 여기.",nw_hen_sha,,nw_ch_check_18,,,0,0
+56060,PC,Player Character,"We finds you some nymph hair, Sharwyn.","우리 너한테 님프 머리카락 찾아줄 거야, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+56061,PC,Player Character,You just not thinks about it too much.,너 그냥 그거에 대해 너무 많이 생각하지 마.,nw_hen_sha,,[지능 낮음],,,0,0
+56062,PC,Player Character,You sure revenge be so good?,너 복수가 그렇게 좋을 거라고 확신해?,nw_hen_sha,,[지능 낮음],,,0,0
+56063,PC,Player Character,"Perhaps you should just let it be, then.",그럼 그냥 내버려두는 게 나을지도.,nw_hen_sha,,[지능 보통],,,0,0
+56064,PC,Player Character,"Dannen should be free from the spell, at least, no?",최소한 다넨은 주문에서 자유로워져야 하지 않아?,nw_hen_sha,,[지능 보통],,,0,0
+56065,PC,Player Character,Lady Onaris hurt you. She deserves to be revealed for what she is.,오나리스 부인이 너를 다치게 했어. 그녀의 정체가 드러나야 마땅해.,nw_hen_sha,,[지능 보통],,,0,0
+56066,PC,Player Character,"You don't need Dannen anymore, I guess.",이제 다넨은 필요 없는 것 같은데.,nw_hen_sha,,[지능 보통],,,0,0
+56067,PC,Player Character,"Maybe you shoulds let it be, then.",아마 너 그냥 내버려두는 게 나을 거야.,nw_hen_sha,,[지능 낮음],,,0,0
+56068,PC,Player Character,"Dannen shoulds be free from spell, no?",다넨 주문에서 자유로워져야 하지 않아?,nw_hen_sha,,[지능 낮음],,,0,0
+56069,PC,Player Character,"Lady hurt you. She deserve to be turns into fat, ugly woman.",부인이 너 다치게 했어. 그녀 뚱뚱하고 못생긴 여자로 변해야 마땅해.,nw_hen_sha,,[지능 낮음],,,0,0
+56070,PC,Player Character,"You not needs Dannen no more, me guesses.","너 더 이상 다넨 필요 없어, 나 생각해.",nw_hen_sha,,[지능 낮음],,,0,0
+56071,PC,Player Character,Because I asked you nicely?,내가 정중하게 부탁했으니까?,nw_hen_sha,,[지능 보통],,,0,0
+56072,PC,Player Character,"Because I told you to and you work for me, that's why.","내가 시켰고 넌 나를 위해 일하니까, 그래서야.",nw_hen_sha,,[지능 보통],,,0,0
+56073,PC,Player Character,"I suppose I could pay you, if you like.",원한다면 돈을 줄 수도 있어.,nw_hen_sha,,[지능 보통],,,0,0
+56074,PC,Player Character,Because I love listening to your lovely voice?,네 사랑스러운 목소리를 듣는 걸 좋아하니까?,nw_hen_sha,,nw_d2_flirti_n,,,0,0
+56075,PC,Player Character,Because me asks you nice?,나 너한테 정중하게 부탁했으니까?,nw_hen_sha,,[지능 낮음],,,0,0
+56076,PC,Player Character,Because me says so and you works for me.,나 그렇게 말했고 너 나를 위해 일하니까.,nw_hen_sha,,[지능 낮음],,,0,0
+56077,PC,Player Character,"Me guesses me coulds pay you, if you wants.","나 생각엔 나 너한테 돈 줄 수 있어, 네가 원하면.",nw_hen_sha,,[지능 낮음],,,0,0
+56078,PC,Player Character,Because me love to listen to you lovely voice?,나 너의 사랑스러운 목소리 듣는 거 좋아하니까?,nw_hen_sha,,nw_d2_flirti_l,,,0,0
+56079,PC,Player Character,I can do that.,그럴 수 있어.,nw_hen_sha,,[지능 보통],,,0,0
+56080,PC,Player Character,"Oh, get on with it already.","오, 이제 시작해.",nw_hen_sha,,[지능 보통],,,0,0
+56081,PC,Player Character,"Bah! Forget it, then.",에이! 그럼 잊어.,nw_hen_sha,,[지능 보통],,,0,0
+56082,PC,Player Character,Me can do that.,나 그럴 수 있어.,nw_hen_sha,,[지능 낮음],,,0,0
+56083,PC,Player Character,"Oh, you gets on with it!","오, 너 이제 시작해!",nw_hen_sha,,[지능 낮음],,,0,0
+56084,PC,Player Character,"Bah! You forgets it, then.",에이! 너 그럼 잊어.,nw_hen_sha,,[지능 낮음],,,0,0
+56085,PC,Player Character,I think I know that one.,그거 아는 것 같은데.,nw_hen_sha,,[지능 보통],,,0,0
+56086,PC,Player Character,Me thinks me knows that one.,나 생각엔 나 그거 알아.,nw_hen_sha,,[지능 낮음],,,0,0
+56087,PC,Player Character,That's not very funny.,그건 별로 웃기지 않아.,nw_hen_sha,,[지능 보통],,,0,0
+56088,PC,Player Character,I've heard the ending.,결말을 들었어.,nw_hen_sha,,[지능 보통],,,0,0
+56089,PC,Player Character,"Don't even go there, Sharwyn.","그쪽으로 가지도 마, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+56090,PC,Player Character,That not be very funny.,그거 별로 웃기지 않아.,nw_hen_sha,,[지능 낮음],,,0,0
+56091,PC,Player Character,Me knows how it ends already.,나 이미 어떻게 끝나는지 알아.,nw_hen_sha,,[지능 낮음],,,0,0
+56092,PC,Player Character,"You not goes there, Sharwyn!","너 그쪽으로 가지 마, 샤윈!",nw_hen_sha,,[지능 낮음],,,0,0
+56093,PC,Player Character,How about something original?,뭔가 독창적인 걸로 하는 게 어때?,nw_hen_sha,,[지능 보통],,,0,0
+56094,PC,Player Character,Maybe you tells something original?,아마 너 뭔가 독창적인 거 말해줘?,nw_hen_sha,,[지능 낮음],,,0,0
+56095,PC,Player Character,"Love? Oh, ick.","사랑? 오, 지겨워.",nw_hen_sha,,[지능 보통],,,0,0
+56096,PC,Player Character,This had better be good.,이거 좋은 게 나을 거야.,nw_hen_sha,,[지능 보통],,,0,0
+56097,PC,Player Character,Sounds promising.,유망하게 들리네.,nw_hen_sha,,[지능 보통],,,0,0
+56098,PC,Player Character,Love? Bah!,사랑? 에이!,nw_hen_sha,,[지능 낮음],,,0,0
+56099,PC,Player Character,This better be good.,이거 좋은 게 나아.,nw_hen_sha,,[지능 낮음],,,0,0
+56100,PC,Player Character,It sound promising.,유망하게 들려.,nw_hen_sha,,[지능 낮음],,,0,0
+56101,PC,Player Character,"""Three Who Are One?""","""하나인 셋?""",nw_hen_sha,,,,,0,0
+56102,PC,Player Character,"Oh, come on! Tell me now!","오, 제발! 지금 말해줘!",nw_hen_sha,,[지능 보통],,,0,0
+56103,PC,Player Character,"All right, let's go.","좋아, 가자.",nw_hen_sha,,[지능 보통],,,0,0
+56104,PC,Player Character,I only asked a question.,질문만 했을 뿐이야.,nw_hen_sha,,[지능 보통],,,0,0
+56105,PC,Player Character,"Oh, come on! You tells me now!","오, 제발! 너 지금 말해줘!",nw_hen_sha,,[지능 낮음],,,0,0
+56106,PC,Player Character,"Okays, we go.","좋아, 우리 가.",nw_hen_sha,,[지능 낮음],,,0,0
+56107,PC,Player Character,Me only ask question.,나 질문만 했어.,nw_hen_sha,,[지능 낮음],,,0,0
+56108,PC,Player Character,That is a beautiful story... ,아름다운 이야기네...,nw_hen_sha,,[지능 보통],,,0,0
+56109,PC,Player Character,What? She killed him? That is utter crap.,뭐? 그녀가 그를 죽였어? 완전 쓰레기 같은 이야기네.,nw_hen_sha,,[지능 보통],,,0,0
+56110,PC,Player Character,Do you believe that about love?,사랑에 대해 그렇게 믿어?,nw_hen_sha,,[지능 보통],,,0,0
+56111,PC,Player Character,That be beautiful story... ,그거 아름다운 이야기야...,nw_hen_sha,,[지능 낮음],,,0,0
+56112,PC,Player Character,What? She kill him? It be bad story!,뭐? 그녀가 그를 죽였어? 나쁜 이야기야!,nw_hen_sha,,[지능 낮음],,,0,0
+56113,PC,Player Character,You believes that about love?,너 사랑에 대해 그렇게 믿어?,nw_hen_sha,,[지능 낮음],,,0,0
+56114,PC,Player Character,"Why did you tell me that story, by the way?","그건 그렇고, 왜 나한테 그 이야기를 했어?",nw_hen_sha,,[지능 보통],,,0,0
+56115,PC,Player Character,"You don't think it's true, do you?",진짜라고 생각하지 않지?,nw_hen_sha,,[지능 보통],,,0,0
+56116,PC,Player Character,Why you tells me that story?,왜 너 나한테 그 이야기 했어?,nw_hen_sha,,[지능 낮음],,,0,0
+56117,PC,Player Character,"You not thinks it be true, huh?",너 그게 진짜라고 생각하지 않아?,nw_hen_sha,,[지능 낮음],,,0,0
+56118,PC,Player Character,What about you?,너는 어때?,nw_hen_sha,,nw_d2_flirti_n,,,0,0
+56119,PC,Player Character,What about this? Is this the song you're talking about?,이건 어때? 이게 네가 말하는 노래야?,nw_hen_sha,,nw_ch_check_26,,,0,0
+56120,PC,Player Character,"It's probably just a myth, Sharwyn.","아마 그냥 신화일 거야, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+56121,PC,Player Character,Maybe we'll find it. Who knows?,아마 찾을 수도 있어. 누가 알아?,nw_hen_sha,,[지능 보통],,,0,0
+56122,PC,Player Character,"What this? This song you wants, maybe?","이거 뭐야? 이게 너 원하는 노래야, 아마?",nw_hen_sha,,nw_ch_check_27,,,0,0
+56123,PC,Player Character,"It just big story, me thinks.","그냥 큰 이야기야, 나 생각해.",nw_hen_sha,,[지능 낮음],,,0,0
+56124,PC,Player Character,Maybe we finds it. Who knows?,아마 우리 찾을 거야. 누가 알아?,nw_hen_sha,,[지능 낮음],,,0,0
+56125,PC,Player Character,What are you going to do with it?,그걸로 뭘 할 거야?,nw_hen_sha,,[지능 보통],,,0,0
+56126,PC,Player Character,"Sometimes even fairy tales are true, I guess.",때로는 동화도 사실인 것 같아.,nw_hen_sha,,[지능 보통],,,0,0
+56127,PC,Player Character,"It's just a song, Sharwyn.","그냥 노래야, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+56128,PC,Player Character,What you goings to do with it?,너 그걸로 뭐 할 거야?,nw_hen_sha,,[지능 낮음],,,0,0
+56129,PC,Player Character,"Sometimes even fairy stories be true, me guesses.","때로는 동화도 사실이야, 나 생각해.",nw_hen_sha,,[지능 낮음],,,0,0
+56130,PC,Player Character,"It just be a song, Sharwyn.","그냥 노래야, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+56131,PC,Player Character,"Your friendship is repayment enough, Sharwyn.","네 우정으로 충분해, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+56132,PC,Player Character,Sounds like I'm getting the short end of the deal.,내가 손해 보는 거래 같은데.,nw_hen_sha,,[지능 보통],,,0,0
+56133,PC,Player Character,"You're not going anywhere, are you?",어디 가는 거 아니지?,nw_hen_sha,,[지능 보통],,,0,0
+56134,PC,Player Character,I was hoping for something more than friendship... ,우정 이상을 바랐는데...,nw_hen_sha,,nw_d2_flirti_n,,,0,0
+56135,PC,Player Character,"You be friend is good repayment, Sharwyn.","너 친구 되는 거 좋은 보답이야, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+56136,PC,Player Character,"Me thinking me gets ripped off, here.",나 생각엔 나 여기서 바가지 쓰는 거야.,nw_hen_sha,,[지능 낮음],,,0,0
+56137,PC,Player Character,"You not goes somewhere, is you?",너 어디 가는 거 아니지?,nw_hen_sha,,[지능 낮음],,,0,0
+56138,PC,Player Character,Monsters?,괴물?,nw_hen_sha,,,,,0,0
+56139,PC,Player Character,What contest is this?,이게 무슨 대회야?,nw_hen_sha,,[지능 보통],,,0,0
+56140,PC,Player Character,What contest you talks of?,너 무슨 대회 얘기해?,nw_hen_sha,,[지능 낮음],,,0,0
+56141,PC,Player Character,Anything else?,다른 건?,nw_hen_sha,,,,,0,0
+56142,PC,Player Character,Do you know any more about it?,그것에 대해 더 아는 게 있어?,nw_hen_sha,,[지능 보통],,,0,0
+56143,PC,Player Character,You knows more about it?,너 그것에 대해 더 알아?,nw_hen_sha,,[지능 낮음],,,0,0
+62535,PC,Player Character [Companion Settings],"In fight you use melee weapon, not range weapon.","싸울 때 너 근접 무기 써, 원거리 무기 아니야.",nw_hen_sha,nw_ch_gomelee,nw_ch_comrange,[Companion Settings],,0,0
+62536,PC,Player Character [Companion Settings],"In fight you use range weapons, not melee weapon.","싸울 때 너 원거리 무기 써, 근접 무기 아니야.",nw_hen_sha,nw_ch_goranged,nw_ch_commelee,[Companion Settings],,0,0
+62537,PC,Player Character [Companion Settings],"In battle, use your melee weapons instead of your ranged weapons.",전투에서 원거리 무기 대신 근접 무기 써.,nw_hen_sha,nw_ch_gomelee,nw_ch_comrange,[Companion Settings],,0,0
+62538,PC,Player Character [Companion Settings],"In battle, use your ranged weapons instead of your melee weapons.",전투에서 근접 무기 대신 원거리 무기 써.,nw_hen_sha,nw_ch_goranged,nw_ch_commelee,[Companion Settings],,0,0
+64047,PC,Player Character,Only that me brings your loud mouth along.,나 너의 시끄러운 입 데리고 온 것뿐이야.,nw_hen_sha,,[지능 낮음],,,0,0
+64048,PC,Player Character,Me regret we not kissed. That counts?,나 우리 키스 안 한 거 후회해. 그거 세?,nw_hen_sha,,nw_d2_flirti_l,,,0,0
+64049,PC,Player Character,No. Me has no regrets.,아니. 나 후회 없어.,nw_hen_sha,,[지능 낮음],,,0,0
+64050,PC,Player Character,"A few, maybes.","몇 개, 아마.",nw_hen_sha,,[지능 낮음],,,0,0
+64051,PC,Player Character,Only that I brought your loud mouth along.,네 시끄러운 입을 데리고 온 것뿐이야.,nw_hen_sha,,[지능 보통],,,0,0
+64052,PC,Player Character,I regret we've never kissed. Does that count?,우리가 한 번도 키스하지 않은 게 후회돼. 그게 세?,nw_hen_sha,,nw_d2_flirti_n,,,0,0
+64053,PC,Player Character,No. No regrets.,아니. 후회 없어.,nw_hen_sha,,[지능 보통],,,0,0
+64054,PC,Player Character,"A few, perhaps.","몇 개, 아마도.",nw_hen_sha,,[지능 보통],,,0,0
+64055,PC,Player Character,"Me not only hero, Sharwyn.","나 유일한 영웅 아니야, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+64056,PC,Player Character,Me like being hero. Is good.,나 영웅 되는 거 좋아. 좋아.,nw_hen_sha,,[지능 낮음],,,0,0
+64057,PC,Player Character,You not be such big fool. Me does this because coin is good.,너 그렇게 큰 바보 되지 마. 나 돈이 좋아서 하는 거야.,nw_hen_sha,,[지능 낮음],,,0,0
+64058,PC,Player Character,Me doing this because it be right... not to be hero.,나 옳은 일이라서 하는 거야... 영웅 되려는 거 아니야.,nw_hen_sha,,[지능 낮음],,,0,0
+64059,PC,Player Character,"I won't be the only hero, Sharwyn.","내가 유일한 영웅은 아닐 거야, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0
+64060,PC,Player Character,"Nothing wrong with being a hero, I suppose.",영웅이 되는 게 나쁠 건 없지.,nw_hen_sha,,[지능 보통],,,0,0
+64061,PC,Player Character,Don't be a fool. I do this because the money is good.,바보 같은 소리 마. 돈이 좋아서 하는 거야.,nw_hen_sha,,[지능 보통],,,0,0
+64062,PC,Player Character,"I'm doing this because it's right, not to be a hero.","옳은 일이라서 하는 거지, 영웅이 되려는 게 아니야.",nw_hen_sha,,[지능 보통],,,0,0
+64063,PC,Player Character,Bah. Is all foolish business.,에이. 전부 바보 같은 일이야.,nw_hen_sha,,[지능 낮음],,,0,0
+64064,PC,Player Character,Hmph. They writes what they likes. Me want royalties.,흥. 그들 쓰고 싶은 거 써. 나 인세 원해.,nw_hen_sha,,[지능 낮음],,,0,0
+64065,PC,Player Character,Me not be any legend...,나 전설 아니야...,nw_hen_sha,,[지능 낮음],,,0,0
+64066,PC,Player Character,Me be happy if things be normal after this.,나 이거 끝나고 일이 정상으로 돌아가면 행복할 거야.,nw_hen_sha,,[지능 낮음],,,0,0
+64067,PC,Player Character,Bah. It's a foolish business.,에이. 바보 같은 일이야.,nw_hen_sha,,[지능 보통],,,0,0
+64068,PC,Player Character,"They can write what they like, so long as I get the royalties.",인세만 받으면 쓰고 싶은 거 써도 돼.,nw_hen_sha,,[지능 보통],,,0,0
+64069,PC,Player Character,I don't think I'm a legend...,내가 전설이라고 생각하지 않아...,nw_hen_sha,,[지능 보통],,,0,0
+64070,PC,Player Character,I'll just be happy if things go back to normal after this.,이게 끝나고 일이 정상으로 돌아가면 그냥 행복할 거야.,nw_hen_sha,,[지능 보통],,,0,0
+64071,PC,Player Character,"You gets ahead of things, no?",너 일을 앞질러 가는 거 아니야?,nw_hen_sha,,[지능 낮음],,,0,0
+64072,PC,Player Character,Ha! You is on own after this.,하! 너 이거 끝나면 혼자야.,nw_hen_sha,,[지능 낮음],,,0,0
+64073,PC,Player Character,Who know what happens?,무슨 일이 일어날지 누가 알아?,nw_hen_sha,,[지능 낮음],,,0,0
+64074,PC,Player Character,"Me too, Sharwyn.","나도, 샤윈.",nw_hen_sha,,[지능 낮음],,,0,0
+64075,PC,Player Character,Aren't you being a bit premature?,좀 성급한 거 아니야?,nw_hen_sha,,[지능 보통],,,0,0
+64076,PC,Player Character,Ha! You're on your own after this.,하! 이거 끝나면 혼자야.,nw_hen_sha,,[지능 보통],,,0,0
+64077,PC,Player Character,Who knows what will happen?,무슨 일이 일어날지 누가 알아?,nw_hen_sha,,[지능 보통],,,0,0
+64078,PC,Player Character,"So would I, Sharwyn.","나도 그래, 샤윈.",nw_hen_sha,,[지능 보통],,,0,0

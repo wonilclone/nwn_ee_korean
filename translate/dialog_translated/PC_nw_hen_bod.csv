@@ -1,0 +1,394 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+53326,PC,Player Character,<StartCheck>[Persuade]</Start> What if me give 200 but me promise we see lots of stuff you never seen before?,<StartCheck>[설득]</Start> 나 200 주는데 우리 너 전에 본 적 없는 것들 많이 볼 거라고 약속하면?,nw_hen_bod,,nw_d2_henchmen08,,,0,0
+53327,PC,Player Character,Here be 250 gold. Now you be me slave.,여기 금화 250개. 이제 너 나의 노예야.,nw_hen_bod,nw_d1_henchmen06,nw_d2_henchmen11,,,0,0
+53328,PC,Player Character → Sharwyn (Bard),<StartCheck>[Persuade]</Start> How about 200 and the promise you'll experience wonders you've never seen before?,<StartCheck>[설득]</Start> 200이랑 전에 본 적 없는 경이로움을 경험할 거라는 약속은 어때?,nw_hen_bod,,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+53329,PC,Player Character,225? Deal.,225? 좋아.,nw_hen_bod,nw_d1_henchmen07,nw_d2_henchmen10,,,0,0
+53330,PC,Player Character,"I could use a good sorcerer. Here's your 250 gold. Welcome aboard, Boddyknock.","좋은 요술사가 필요해. 여기 금화 250개 있어. 환영해, 바디노크.",nw_hen_bod,nw_d1_henchmen06,nw_d2_henchmen09,,,0,0
+53331,PC,Player Character → Linu La'neral (Cleric),<StartCheck>[Persuade]</Start> What if me give 150 but me promise we see lots of stuff you never seen before?,<StartCheck>[설득]</Start> 나 150 주는데 우리 너 전에 본 적 없는 것들 많이 볼 거라고 약속하면?,nw_hen_bod,,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+53332,PC,Player Character,Here be 200 gold. Now you be me slave.,여기 금화 200개. 이제 너 나의 노예야.,nw_hen_bod,nw_d1_henchmen04,nw_d2_henchmen08,,,0,0
+53333,PC,Player Character → Tomi Undergallows (Rogue),<StartCheck>[Persuade]</Start> How about 150 and the promise you'll experience wonders you've never seen before?,<StartCheck>[설득]</Start> 150이랑 전에 본 적 없는 경이로움을 경험할 거라는 약속은 어때?,nw_hen_bod,,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+53334,PC,Player Character,175? Deal.,175? 좋아.,nw_hen_bod,nw_d1_henchmen05,nw_d2_henchmen07,,,0,0
+53335,PC,Player Character → Sharwyn (Bard),"I could use a sorcerer by my side. Here's your 200 gold. Welcome aboard, Boddyknock.","곁에 요술사가 있으면 좋겠어. 여기 금화 200개 있어. 환영해, 바디노크.",nw_hen_bod,nw_d1_henchmen04,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+53336,PC,Player Character,Me go now.,나 이제 가.,nw_hen_bod,,[지능 낮음],,,0,0
+53337,PC,Player Character,Me not got that much gold for spend on you.,나 너한테 쓸 그렇게 많은 금화 없어.,nw_hen_bod,,[지능 낮음],,,0,0
+53338,PC,Player Character → Grimgnaw (Monk),<StartCheck>[Persuade]</Start> What if me give 100 but me promise we do lots and lots of killing?,<StartCheck>[설득]</Start> 나 100 주는데 우리 죽이는 거 엄청 많이 할 거라고 약속하면?,nw_hen_bod,,nw_d2_henchmen04,→ Grimgnaw (Monk),,0,0
+53339,PC,Player Character → Linu La'neral (Cleric),Here be you 150 gold. Now you be me slave.,여기 너의 금화 150개. 이제 너 나의 노예야.,nw_hen_bod,nw_d1_henchmen01,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+53340,PC,Player Character,I'll be going now.,이제 갈게.,nw_hen_bod,,[지능 보통],,,0,0
+53341,PC,Player Character,I don't have that kind of gold to spend on a henchman.,부하한테 쓸 그런 금화가 없어.,nw_hen_bod,,[지능 보통],,,0,0
+53342,PC,Player Character → Daelan Red Tiger (Barbarian),<StartCheck>[Persuade]</Start> How about 100 and the promise you'll experience wonders you've never seen before?,<StartCheck>[설득]</Start> 100이랑 전에 본 적 없는 경이로움을 경험할 거라는 약속은 어때?,nw_hen_bod,,nw_d2_henchmen03,→ Daelan Red Tiger (Barbarian),,0,0
+53343,PC,Player Character → Boddyknock Glinckle (Sorcerer),125? Deal.,125? 좋아.,nw_hen_bod,nw_d1_henchmen03,nw_d2_henchmen05,→ Boddyknock Glinckle (Sorcerer),,0,0
+53344,PC,Player Character → Tomi Undergallows (Rogue),"I could use a sorcerer at my side. Here's your 150 gold. Welcome aboard, Boddyknock.","곁에 요술사가 있으면 좋겠어. 여기 금화 150개 있어. 환영해, 바디노크.",nw_hen_bod,nw_d1_henchmen01,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+53345,PC,Player Character,No. ,아니.,nw_hen_bod,,,,,0,0
+53346,PC,Player Character [Companion Settings],Yes.,그래.,nw_hen_bod,nw_ch_check45,,[Companion Settings],,0,0
+53347,PC,Player Character,"No, not now. ","아니, 지금은 아니야.",nw_hen_bod,,,,,0,0
+53348,PC,Player Character [Companion Settings],Yes. ,그래.,nw_hen_bod,nw_ch_check45,,[Companion Settings],,0,0
+53349,PC,Player Character,"Who you be, again?","너 누구야, 다시?",nw_hen_bod,,[지능 낮음],,,0,0
+53350,PC,Player Character,Who are you again?,다시 말하지만 누구야?,nw_hen_bod,,[지능 보통],,,0,0
+53351,PC,Player Character,"Yes, me be <FullName>. How you know me?","그래, 나 <FullName>이야. 어떻게 나 알아?",nw_hen_bod,,[지능 낮음],,,0,0
+53352,PC,Player Character,"Yes, I am <FullName>. How did you know?","그래, 나 <FullName>이야. 어떻게 알았어?",nw_hen_bod,,[지능 보통],,,0,0
+53353,PC,Player Character,Me am so great! Me am so great!,나 정말 대단해! 나 정말 대단해!,nw_hen_bod,,[지능 낮음],,,0,0
+53354,PC,Player Character,Me do duty. ,나 의무 다했어.,nw_hen_bod,,[지능 낮음],,,0,0
+53355,PC,Player Character,I guess fame is the price I pay for being a living legend.,명성이 살아있는 전설이 되는 대가인 것 같아.,nw_hen_bod,,[지능 보통],,,0,0
+53356,PC,Player Character,I did my duty. ,의무를 다했어.,nw_hen_bod,,[지능 보통],,,0,0
+53357,PC,Player Character,Goodbye. ,안녕.,nw_hen_bod,,,,,0,0
+53358,PC,Player Character,You work for Aarin Gend? Me work for Aarin too!,너 아린 겐드 위해 일해? 나도 아린 위해 일해!,nw_hen_bod,,[지능 낮음],,,0,0
+53359,PC,Player Character,So you're working for Aarin Gend?,그럼 아린 겐드를 위해 일하고 있어?,nw_hen_bod,,[지능 보통],,,0,0
+53360,PC,Player Character,Why you stand here? You should look for Words. ,왜 너 여기 서 있어? 너 언령 찾아야 해.,nw_hen_bod,,[지능 낮음],,,0,0
+53361,PC,Player Character,You heard any rumors about where Words be? Me want to find them. ,너 언령이 어디 있는지에 대한 소문 들었어? 나 그것들 찾고 싶어.,nw_hen_bod,,[지능 낮음],,,0,0
+53362,PC,Player Character,Why are you standing around here? Shouldn't you be looking for these Words? ,왜 여기 서 있어? 이 언령들을 찾아야 하는 거 아니야?,nw_hen_bod,,[지능 보통],,,0,0
+53363,PC,Player Character,Me not need you help. ,나 너의 도움 필요 없어.,nw_hen_bod,,[지능 낮음],,,0,0
+53364,PC,Player Character [Companion Settings],Me could use magic shooting guy by me side. Come on.,나 옆에 마법 쏘는 사람 있으면 좋겠어. 가자.,nw_hen_bod,nw_ch_check45,[지능 낮음],[Companion Settings],,0,0
+53365,PC,Player Character,"Sorry, I'm not interested. ","미안하지만, 관심 없어.",nw_hen_bod,,[지능 보통],,,0,0
+53366,PC,Player Character [Companion Settings],I could use a good sorcerer at my side. Come on.,곁에 좋은 요술사가 있으면 좋겠어. 가자.,nw_hen_bod,nw_ch_check45,[지능 보통],[Companion Settings],,0,0
+53367,PC,Player Character,Have you heard any rumors as to where the Words could be?,언령이 어디 있을지에 대한 소문 들었어?,nw_hen_bod,,[지능 보통],,,0,0
+53368,PC,Player Character,You tell me what them reports say.,너 그 보고서들이 뭐라고 하는지 말해줘.,nw_hen_bod,,[지능 낮음],,,0,0
+53369,PC,Player Character,Giants?,거인?,nw_hen_bod,,,,,0,0
+53370,PC,Player Character,Anything else?,다른 건?,nw_hen_bod,,,,,0,0
+53371,PC,Player Character,Tell me about these reports.,이 보고서들에 대해 말해줘.,nw_hen_bod,,[지능 보통],,,0,0
+53372,PC,Player Character,Me sick of you! Me need get someone to cast spell to make annoying runt go away!,나 너 지겨워! 나 누군가한테 성가신 꼬맹이 사라지게 하는 주문 시전하게 해야 해!,nw_hen_bod,,[지능 낮음],,,0,0
+53373,PC,Player Character,"Me glad for see you again, Boddyknock.","너 다시 봐서 기뻐, 바디노크.",nw_hen_bod,,[지능 낮음],,,0,0
+53374,PC,Player Character,"You again? Am I going to have to get someone to cast ""dispel annoying little runt"" to get rid of you?","또 너야? 너를 없애려면 누군가한테 ""성가신 꼬맹이 해제"" 주문을 시전하게 해야 하나?",nw_hen_bod,,[지능 보통],,,0,0
+53375,PC,Player Character,"It is good to see you again, Boddyknock.","다시 보니 좋네, 바디노크.",nw_hen_bod,,[지능 보통],,,0,0
+53376,PC,Player Character,"Sorry, me not need no help right now.","미안해, 나 지금 도움 필요 없어.",nw_hen_bod,,[지능 낮음],,,0,0
+53377,PC,Player Character [Companion Settings],"We should be join up again, gnome.","우리 다시 합류해야 해, 노움.",nw_hen_bod,nw_ch_check45,[지능 낮음],[Companion Settings],,0,0
+53378,PC,Player Character,You know stuff 'bout Words of Power?,너 권능의 언령에 대해 뭐 알아?,nw_hen_bod,,[지능 낮음],,,0,0
+53379,PC,Player Character,Sorry but I don't need any help right now.,미안하지만 지금은 도움이 필요 없어.,nw_hen_bod,,[지능 보통],,,0,0
+53380,PC,Player Character [Companion Settings],"We should join up again, Boddyknock.","다시 합류해야겠어, 바디노크.",nw_hen_bod,nw_ch_check45,[지능 보통],[Companion Settings],,0,0
+53381,PC,Player Character,"Do you know anything about the Words of Power, Boddyknock.","권능의 언령에 대해 뭔가 알아, 바디노크?",nw_hen_bod,,[지능 보통],,,0,0
+53382,PC,Player Character,You say 'bout these accounts.,너 이 기록들에 대해 말해.,nw_hen_bod,,[지능 낮음],,,0,0
+53383,PC,Player Character,Tell me about these accounts.,이 기록들에 대해 말해줘.,nw_hen_bod,,[지능 보통],,,0,0
+53384,PC,Player Character,Giants?,거인?,nw_hen_bod,,,,,0,0
+53385,PC,Player Character,Anything else?,다른 건?,nw_hen_bod,,,,,0,0
+53386,PC,Player Character,"No, that not me. You must be think of someone else.","아니, 그거 나 아니야. 너 다른 사람 생각하는 거야.",nw_hen_bod,,[지능 낮음],,,0,0
+53387,PC,Player Character,"Yes, me be <FullName>. How you know me?","그래, 나 <FullName>이야. 어떻게 나 알아?",nw_hen_bod,,[지능 낮음],,,0,0
+53388,PC,Player Character,"No, I think you have me confused with someone else.","아니, 다른 사람과 혼동한 것 같은데.",nw_hen_bod,,[지능 보통],,,0,0
+53389,PC,Player Character,"Yes, I am <FullName>. How did you know?","그래, 나 <FullName>이야. 어떻게 알았어?",nw_hen_bod,,[지능 보통],,,0,0
+53390,PC,Player Character,Me greatest one there is! Me save city!,나 최고야! 나 도시 구해!,nw_hen_bod,,[지능 낮음],,,0,0
+53391,PC,Player Character,Me have lots of help! Aribeth and... Aribeth... and... nevermind.,나 도움 많이 있어! 아리베스랑... 아리베스... 그리고... 신경 쓰지 마.,nw_hen_bod,,[지능 낮음],,,0,0
+53392,PC,Player Character,Everybody recognizes me now. I guess that's the price I pay for being a living legend.,이제 모두가 나를 알아봐. 살아있는 전설이 되는 대가인 것 같아.,nw_hen_bod,,[지능 보통],,,0,0
+53393,PC,Player Character,"Well, I wasn't acting alone. Aribeth and the other city guard did as much as I. ","음, 혼자 행동한 건 아니었어. 아리베스와 다른 도시 경비대도 나만큼 했어.",nw_hen_bod,,[지능 보통],,,0,0
+53394,PC,Player Character,Goodbye.,안녕.,nw_hen_bod,,,,,0,0
+53395,PC,Player Character,You work for Aribeth? Me work for Aribeth too! ,너 아리베스 위해 일해? 나도 아리베스 위해 일해!,nw_hen_bod,,[지능 낮음],,,0,0
+53396,PC,Player Character,"(Sluuurp) Oops, me sorry. So how you get hired by Aribeth?","(쪼롭) 이런, 미안해. 그래서 어떻게 아리베스한테 고용됐어?",nw_hen_bod,,,,,0,0
+53397,PC,Player Character,So you're working for Aribeth?,그럼 아리베스를 위해 일하고 있어?,nw_hen_bod,,[지능 보통],,,0,0
+53398,PC,Player Character,You hear any stuff about cult? Me looking for clues. ,너 사교에 대해 뭐 들었어? 나 단서 찾고 있어.,nw_hen_bod,,[지능 낮음],,,0,0
+53399,PC,Player Character,Have you heard any rumors about the cult since you've come here?,여기 온 이후로 사교에 대한 소문 들었어?,nw_hen_bod,,[지능 보통],,,0,0
+53400,PC,Player Character,But you got have some idea where we start looking.,하지만 너 우리가 어디서 찾기 시작할지 좀 알고 있어야 해.,nw_hen_bod,,[지능 낮음],,,0,0
+53401,PC,Player Character,But you must have an opinion of where to start looking. ,하지만 어디서 찾기 시작할지에 대한 의견은 있어야지.,nw_hen_bod,,[지능 보통],,,0,0
+53402,PC,Player Character,You guess. Sometimes you just got to play a hunch.,너 추측해. 때로는 직감대로 해야 해.,nw_hen_bod,,[지능 낮음],,,0,0
+53403,PC,Player Character,"So guess, Boddyknock. Sometimes you've just got to play a hunch.","그럼 추측해봐, 바디노크. 때로는 직감대로 해야 해.",nw_hen_bod,,[지능 보통],,,0,0
+53404,PC,Player Character,Why there?,왜 거기?,nw_hen_bod,,,,,0,0
+53405,PC,Player Character,You gonna look more into Neverwinter Wood?,너 네버윈터 숲 더 조사할 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53406,PC,Player Character,So are you going to investigate the woods?,그래서 숲을 조사할 거야?,nw_hen_bod,,[지능 보통],,,0,0
+53407,PC,Player Character,"Sorry, me not interested. ","미안해, 나 관심 없어.",nw_hen_bod,,[지능 낮음],,,0,0
+53408,PC,Player Character,"Me need magic casting guy, gnome.","나 마법 시전하는 사람 필요해, 노움.",nw_hen_bod,,[지능 낮음],,,0,0
+53409,PC,Player Character,"Sorry, but I'm not interested. Goodbye.","미안하지만, 관심 없어. 안녕.",nw_hen_bod,,[지능 보통],,,0,0
+53410,PC,Player Character,"I could use a sorcerer by my side, Boddyknock.","곁에 요술사가 있으면 좋겠어, 바디노크.",nw_hen_bod,,[지능 보통],,,0,0
+53411,PC,Player Character,That be guess? You sure got lots of good reasons.,그게 추측이야? 너 확실히 좋은 이유 많이 있네.,nw_hen_bod,,[지능 낮음],,,0,0
+53412,PC,Player Character,You seem to have some solid reasons... for a guess.,추측치고는 꽤 확실한 이유가 있는 것 같은데.,nw_hen_bod,,[지능 보통],,,0,0
+53413,PC,Player Character,You again? Is you follow me? Me never been stalked by gnome before.,또 너야? 너 나 따라다니는 거야? 나 노움한테 스토킹당해본 적 없어.,nw_hen_bod,,[지능 낮음],,,0,0
+53414,PC,Player Character,"What you be doing here, Boddyknock?","여기서 뭐 하는 거야, 바디노크?",nw_hen_bod,,[지능 낮음],,,0,0
+53415,PC,Player Character,You again? Are you following me? I've never been stalked by a gnome before.,또 너야? 날 따라다니는 거야? 노움한테 스토킹당해본 적이 없는데.,nw_hen_bod,,[지능 보통],,,0,0
+53416,PC,Player Character,"What are you doing here, Boddyknock?","여기서 뭐 하고 있어, 바디노크?",nw_hen_bod,,[지능 보통],,,0,0
+53417,PC,Player Character,Goodbye.,안녕.,nw_hen_bod,,,,,0,0
+53418,PC,Player Character,How much it cost for you work for me again?,다시 나 위해 일하는 데 얼마나 들어?,nw_hen_bod,,[지능 낮음],,,0,0
+53419,PC,Player Character,Aribeth force you to come serve here?,아리베스가 너 여기서 봉사하라고 강제했어?,nw_hen_bod,,[지능 낮음],,,0,0
+53420,PC,Player Character,How much would it cost to hire your services?,네 서비스를 고용하는 데 얼마나 들어?,nw_hen_bod,,[지능 보통],,,0,0
+53421,PC,Player Character,So you were conscripted into service by Aribeth?,그럼 아리베스한테 징집당한 거야?,nw_hen_bod,,[지능 보통],,,0,0
+53422,PC,Player Character,Me not need nothing right now.,나 지금 아무것도 필요 없어.,nw_hen_bod,,[지능 낮음],,,0,0
+53423,PC,Player Character,I don't need anything right now.,지금은 아무것도 필요 없어.,nw_hen_bod,,[지능 보통],,,0,0
+53424,PC,Player Character,Me want to ask questions 'bout Neverwinter.,나 네버윈터에 대해 질문하고 싶어.,nw_hen_bod,,[지능 낮음],,,0,0
+53425,PC,Player Character,Who you be again?,너 다시 누구야?,nw_hen_bod,,[지능 낮음],,,0,0
+53426,PC,Player Character,I want to ask you some questions about Neverwinter.,네버윈터에 대해 질문 좀 하고 싶어.,nw_hen_bod,,[지능 보통],,,0,0
+53427,PC,Player Character,Who are you again?,다시 말하지만 누구야?,nw_hen_bod,,[지능 보통],,,0,0
+53428,PC,Player Character,Me not wanna talk. Goodbye. ,나 얘기하고 싶지 않아. 안녕.,nw_hen_bod,,[지능 낮음],,,0,0
+53429,PC,Player Character,"You right, me am adventurer. Me am <FullName>. Who you be?","네 말이 맞아, 나 모험가야. 나 <FullName>이야. 너 누구야?",nw_hen_bod,,[지능 낮음],,,0,0
+53430,PC,Player Character,I don't feel like talking right now. Goodbye.,지금 얘기하고 싶지 않아. 안녕.,nw_hen_bod,,[지능 보통],,,0,0
+53431,PC,Player Character,"You're right, I am an adventurer. My name is <FullName>. Who are you?","네 말이 맞아, 나 모험가야. 내 이름은 <FullName>이야. 넌 누구야?",nw_hen_bod,,[지능 보통],,,0,0
+53432,PC,Player Character,What you doing in Neverwinter?,너 네버윈터에서 뭐 하는 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53433,PC,Player Character,Me thought Lantan not like magic people.,나 생각엔 란탄이 마법 사용자들 싫어하는 줄 알았어.,nw_hen_bod,,[지능 낮음],,,0,0
+53434,PC,Player Character,Lantan? Ain't that be the island where them crazy inventions and stuff come from?,란탄? 그거 그 미친 발명품들이랑 그런 거 나오는 섬 아니야?,nw_hen_bod,,[지능 낮음],,,0,0
+53435,PC,Player Character,What are you doing in Neverwinter?,네버윈터에서 뭐 하고 있어?,nw_hen_bod,,[지능 보통],,,0,0
+53436,PC,Player Character,Why you pick Beggar's Nest?,왜 너 거지 소굴 선택했어?,nw_hen_bod,,[지능 낮음],,,0,0
+53437,PC,Player Character,Why the Beggar's Nest?,왜 거지 소굴이야?,nw_hen_bod,,[지능 보통],,,0,0
+53438,PC,Player Character,Me looking for mercenary to help on mission.,나 임무 도와줄 용병 찾고 있어.,nw_hen_bod,,[지능 낮음],,,0,0
+53439,PC,Player Character,I'm looking for a good mercenary to help me in my mission. ,임무를 도와줄 좋은 용병을 찾고 있어.,nw_hen_bod,,[지능 보통],,,0,0
+53440,PC,Player Character,Me work for lady Aribeth. Me looking for creatures. They be important. They cure plague. ,나 아리베스 경 위해 일해. 나 생명체들 찾고 있어. 중요해. 역병 치료해.,nw_hen_bod,,[지능 낮음],,,0,0
+53441,PC,Player Character,Me work for Aribeth. Me mission be big secret.,나 아리베스 위해 일해. 나의 임무 큰 비밀이야.,nw_hen_bod,,[지능 낮음],,,0,0
+53442,PC,Player Character,I work for Lady Aribeth. I have been instructed to find several missing creatures that might be used to find a plague cure.,아리베스 경을 위해 일하고 있어. 역병 치료제를 찾는 데 사용될 수 있는 여러 실종된 생명체를 찾으라는 지시를 받았어.,nw_hen_bod,,[지능 보통],,,0,0
+53443,PC,Player Character,I work for Lady Aribeth. My mission is confidential.,아리베스 경을 위해 일하고 있어. 내 임무는 기밀이야.,nw_hen_bod,,[지능 보통],,,0,0
+53444,PC,Player Character,What happen? Why you stop you investigating?,무슨 일 있었어? 왜 너 조사 그만뒀어?,nw_hen_bod,,[지능 낮음],,,0,0
+53445,PC,Player Character,Why did you stop your investigations?,왜 조사를 그만뒀어?,nw_hen_bod,,[지능 보통],,,0,0
+53446,PC,Player Character,Me go now.,나 이제 가.,nw_hen_bod,,[지능 낮음],,,0,0
+53447,PC,Player Character,Me looking for help in me mission.,나 나의 임무 도와줄 사람 찾고 있어.,nw_hen_bod,,[지능 낮음],,,0,0
+53448,PC,Player Character,I'll be going now. Goodbye. ,이제 갈게. 안녕.,nw_hen_bod,,[지능 보통],,,0,0
+53449,PC,Player Character,"Actually, I'm looking for some hired help to assist me on my mission. ","사실, 임무를 도와줄 고용된 도움이 필요해.",nw_hen_bod,,[지능 보통],,,0,0
+53450,PC,Player Character,A sorcerer? I thought Lantan looked down on magic.,요술사? 란탄이 마법을 멸시한다고 생각했는데.,nw_hen_bod,,[지능 보통],,,0,0
+53451,PC,Player Character,Lantan? Isn't that the place where all those crazy inventions come from?,란탄? 그 미친 발명품들이 다 나오는 곳 아니야?,nw_hen_bod,,[지능 보통],,,0,0
+53452,PC,Player Character,Nevermind.,신경 쓰지 마.,nw_hen_bod,,,,,0,0
+53453,PC,Player Character,Me want you to level up. You be better with training. ,나 네가 레벨업하길 원해. 훈련하면 나아질 거야.,nw_hen_bod,,nw_ch_check_39,,,0,0
+53454,PC,Player Character,I'd like you to level up. You'd be more useful to me with a little training. ,레벨업했으면 좋겠어. 약간의 훈련으로 더 유용해질 거야.,nw_hen_bod,,nw_ch_check_38,,,0,0
+53455,PC,Player Character,"Me no want you here no more, Boddyknock. You go now.","나 이제 너 여기 원하지 않아, 바디노크. 너 이제 가.",nw_hen_bod,,[지능 낮음],,,0,0
+53456,PC,Player Character,We need change way you do stuff.,우리 네가 하는 방식 바꿔야 해.,nw_hen_bod,,[지능 낮음],,,0,0
+53457,PC,Player Character,Me not want change anything else now.,나 지금 다른 거 바꾸고 싶지 않아.,nw_hen_bod,,,,,0,0
+53458,PC,Player Character [Companion Settings],If me fail on locked door or chest you not help me.,내가 잠긴 문이나 상자 실패하면 너 나 돕지 마.,nw_hen_bod,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+53459,PC,Player Character [Companion Settings],If me fail on locked door or chest you help me.,내가 잠긴 문이나 상자 실패하면 너 나 도와.,nw_hen_bod,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+53460,PC,Player Character [Companion Settings],You start sneak quiet now.,너 이제 조용히 잠행 시작해.,nw_hen_bod,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+53461,PC,Player Character [Companion Settings],You stop sneaking so quiet now.,너 이제 그렇게 조용히 잠행하는 거 그만해.,nw_hen_bod,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+53462,PC,Player Character [Companion Settings],You search all time when we move.,우리 움직일 때 너 항상 탐색해.,nw_hen_bod,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+53463,PC,Player Character [Companion Settings],You not search all time no more.,너 더 이상 항상 탐색하지 마.,nw_hen_bod,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+53464,PC,Player Character,You need change how you heal me.,네가 날 치유하는 방법 바꿔야 해.,nw_hen_bod,,nw_ch_heal_0,,,0,0
+53466,PC,Player Character,You change how far away you stay.,네가 얼마나 멀리 떨어져 있는지 바꿔.,nw_hen_bod,,,,,0,0
+53467,PC,Player Character,"I think we need to part ways now, Boddyknock.","이제 헤어져야 할 것 같아, 바디노크.",nw_hen_bod,,[지능 보통],,,0,0
+53468,PC,Player Character,No. Stay.,아니. 있어.,nw_hen_bod,,,,,0,0
+53469,PC,Player Character,Yes. Go.,그래. 가.,nw_hen_bod,,,,,0,0
+53470,PC,Player Character,I think we need to change your tactics.,전술을 바꿔야 할 것 같아.,nw_hen_bod,,[지능 보통],,,0,0
+53471,PC,Player Character,I don't want to change anything else right now.,지금은 다른 걸 바꾸고 싶지 않아.,nw_hen_bod,,,,,0,0
+53472,PC,Player Character [Companion Settings],If I fail to open a locked door or chest do not assist me.,잠긴 문이나 상자를 여는 데 실패하면 날 돕지 마.,nw_hen_bod,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+53473,PC,Player Character [Companion Settings],If I fail to open a locked door or chest please come to my aid.,잠긴 문이나 상자를 여는 데 실패하면 도와줘.,nw_hen_bod,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+53474,PC,Player Character [Companion Settings],Could you stop being so stealthy all the time?,항상 그렇게 은밀하게 다니는 거 그만둘 수 있어?,nw_hen_bod,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+53475,PC,Player Character [Companion Settings],Could you use more stealth when we travel?,우리가 여행할 때 더 은밀하게 다닐 수 있어?,nw_hen_bod,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+53476,PC,Player Character [Companion Settings],Could you please search when we move around?,우리가 돌아다닐 때 탐색해줄 수 있어?,nw_hen_bod,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+53477,PC,Player Character [Companion Settings],Could you not search all the time?,항상 탐색하지 않을 수 있어?,nw_hen_bod,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+53478,PC,Player Character,Could we change how quickly you decide to heal me.,날 치유하기로 결정하는 속도를 바꿀 수 있을까?,nw_hen_bod,,nw_ch_heal_0,,,0,0
+53479,PC,Player Character [Healing: 25% HP],You heal if me hurt real bad (below 25% of total hit points).,내가 정말 심하게 다치면 너 치유해 (전체 생명력의 25% 미만).,nw_hen_bod,nw_ch_heal_25,[지능 낮음],[Healing: 25% HP],,0,0
+53480,PC,Player Character [Healing: 50% HP],You heal if me wounded (below 50% of total hit points).,내가 부상당하면 너 치유해 (전체 생명력의 50% 미만).,nw_hen_bod,nw_ch_heal_50,[지능 낮음],[Healing: 50% HP],,0,0
+53481,PC,Player Character [Healing: 75% HP],You heal if me sort of hurt (below 75% of total hit points).,내가 좀 다치면 너 치유해 (전체 생명력의 75% 미만).,nw_hen_bod,nw_ch_heal_75,[지능 낮음],[Healing: 75% HP],,0,0
+53482,PC,Player Character [Healing: 25% HP],Heal me if I become seriously wounded (below 25% of total hit points).,심각하게 부상당하면 치유해줘 (전체 생명력의 25% 미만).,nw_hen_bod,nw_ch_heal_25,[지능 보통],[Healing: 25% HP],,0,0
+53483,PC,Player Character [Healing: 50% HP],Heal me if I become wounded (below 50% of total hit points).,부상당하면 치유해줘 (전체 생명력의 50% 미만).,nw_hen_bod,nw_ch_heal_50,[지능 보통],[Healing: 50% HP],,0,0
+53484,PC,Player Character [Healing: 75% HP],Heal me if I become somewhat injured (below 75% of total hit points).,약간 부상당하면 치유해줘 (전체 생명력의 75% 미만).,nw_hen_bod,nw_ch_heal_75,[지능 보통],[Healing: 75% HP],,0,0
+53492,PC,Player Character,We need to change the distance you stay away from me.,나로부터 떨어져 있는 거리를 바꿔야 해.,nw_hen_bod,,,,,0,0
+53493,PC,Player Character [Follow: Far],Far distance.,먼 거리.,nw_hen_bod,nw_ch_dist_18,,[Follow: Far],,0,0
+53494,PC,Player Character [Follow: Medium],Medium distance.,중간 거리.,nw_hen_bod,nw_ch_dist_12,,[Follow: Medium],,0,0
+53495,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,nw_hen_bod,nw_ch_dist_6,,[Follow: Close],,0,0
+53496,PC,Player Character,Me just wanna talk. ,나 그냥 얘기하고 싶어.,nw_hen_bod,,nw_ch_check_44,,,0,0
+53497,PC,Player Character,I just want to talk for a while. ,잠깐 얘기하고 싶어.,nw_hen_bod,,nw_ch_check_43,,,0,0
+53498,PC,Player Character,Nevermind.,신경 쓰지 마.,nw_hen_bod,,,,,0,0
+53499,PC,Player Character,You got any hint or tip you give me 'bout this mission?,너 이 임무에 대해 나한테 줄 힌트나 조언 있어?,nw_hen_bod,,[지능 낮음],,,0,0
+53500,PC,Player Character,You tell me 'bout them accounts.,너 그 기록들에 대해 말해줘.,nw_hen_bod,,[지능 낮음],,,0,0
+53501,PC,Player Character,Tell me about these accounts.,이 기록들에 대해 말해줘.,nw_hen_bod,,[지능 보통],,,0,0
+53502,PC,Player Character,Giants?,거인?,nw_hen_bod,,[지능 보통],,,0,0
+53503,PC,Player Character,Anything else?,다른 건?,nw_hen_bod,,,,,0,0
+53504,PC,Player Character,"You guess, Boddyknock. Sometime you just need go with a hunch.","너 추측해, 바디노크. 때로는 직감대로 가야 해.",nw_hen_bod,,[지능 낮음],,,0,0
+53505,PC,Player Character,"So guess, Boddyknock. Sometimes you just need to go with a hunch.","그럼 추측해봐, 바디노크. 때로는 직감대로 가야 해.",nw_hen_bod,,[지능 보통],,,0,0
+53506,PC,Player Character,Why there?,왜 거기?,nw_hen_bod,,,,,0,0
+53507,PC,Player Character,"Not bad, for a guess.",추측치고는 나쁘지 않네.,nw_hen_bod,,,,,0,0
+53508,PC,Player Character,What you theory be?,너의 이론이 뭐야?,nw_hen_bod,,[지능 낮음],,,0,0
+53509,PC,Player Character,Tell me your theory.,네 이론을 말해줘.,nw_hen_bod,,[지능 보통],,,0,0
+53510,PC,Player Character,Why you want see Beggar Nest?,왜 너 거지 소굴 보고 싶어?,nw_hen_bod,,[지능 낮음],,,0,0
+53511,PC,Player Character,Why are you so interested in the Beggar's Nest?,왜 거지 소굴에 그렇게 관심이 있어?,nw_hen_bod,,[지능 보통],,,0,0
+53512,PC,Player Character,Me not want talk no more.,나 더 이상 얘기하고 싶지 않아.,nw_hen_bod,,[지능 낮음],,,0,0
+53513,PC,Player Character,I think that's enough talking for now.,지금은 충분히 얘기한 것 같아.,nw_hen_bod,,[지능 보통],,,0,0
+53514,PC,Player Character,Did you ever go there youself?,너 직접 거기 가본 적 있어?,nw_hen_bod,,[지능 보통],,,0,0
+53515,PC,Player Character,Did you ever investigate the Beggar's Nest on your own?,너 혼자 거지 소굴을 조사한 적 있어?,nw_hen_bod,,[지능 낮음],,,0,0
+53516,PC,Player Character,Do you have any advice or suggestions you can give me about my mission?,내 임무에 대해 줄 수 있는 조언이나 제안이 있어?,nw_hen_bod,,[지능 보통],,,0,0
+53517,PC,Player Character,Me want you to continue you story from before.,나 너 전에 하던 이야기 계속하길 원해.,nw_hen_bod,,nw_ch_check_22,,,0,0
+53518,PC,Player Character,Me want to know what you think about Aribeth betraying everyone. How you feel 'bout that?,나 아리베스가 모두를 배신한 것에 대해 네가 어떻게 생각하는지 알고 싶어. 그거에 대해 어떻게 느껴?,nw_hen_bod,,nw_ch_check_20,,,0,0
+53519,PC,Player Character,I want you to continue with what you were telling me before.,전에 말하던 걸 계속해줬으면 해.,nw_hen_bod,,nw_ch_check_21,,,0,0
+53520,PC,Player Character,You quest better not get in way of stuff you do for me!,너의 퀘스트가 나 위해 하는 일 방해하지 않는 게 좋을 거야!,nw_hen_bod,,[지능 낮음],,,0,0
+53521,PC,Player Character,You not worry Boddyknock. Me help you find piece of dragon skin.,걱정 마 바디노크. 나 너 용 비늘 조각 찾는 거 도와줄게.,nw_hen_bod,,[지능 낮음],,,0,0
+53522,PC,Player Character,Me got bit of dragon skin here. This be what you need?,나 여기 용 비늘 조금 있어. 이게 너 필요한 거야?,nw_hen_bod,,nw_ch_check_27,,,0,0
+53523,PC,Player Character,This quest better not interfere with your duty to me!,이 퀘스트가 나한테 대한 네 의무를 방해하지 않는 게 좋을 거야!,nw_hen_bod,,[지능 보통],,,0,0
+53524,PC,Player Character,"Don't worry, Boddyknock. We'll find you a dragon scale somewhere.","걱정 마, 바디노크. 어디선가 용 비늘을 찾아줄게.",nw_hen_bod,,[지능 보통],,,0,0
+53525,PC,Player Character,I have a dragon scale here. Will this do?,여기 용 비늘이 있어. 이걸로 될까?,nw_hen_bod,,nw_ch_check_26,,,0,0
+53526,PC,Player Character,Why me think you rip me off here?,왜 나 생각엔 너 여기서 나한테 바가지 씌우는 거 같아?,nw_hen_bod,,[지능 낮음],,,0,0
+53527,PC,Player Character,Me thank you for this.,나 이거 고마워.,nw_hen_bod,,[지능 낮음],,,0,0
+53528,PC,Player Character,I feel like I'm getting screwed in this deal.,이 거래에서 바가지 쓰는 것 같은데.,nw_hen_bod,,[지능 보통],,,0,0
+53529,PC,Player Character,"I thank you for this reward, Boddyknock","이 보상 고마워, 바디노크.",nw_hen_bod,,[지능 보통],,,0,0
+53530,PC,Player Character,"What you do now, Boddyknock?","이제 뭐 할 거야, 바디노크?",nw_hen_bod,,[지능 낮음],,,0,0
+53531,PC,Player Character,"What are you going to do now, Boddyknock?","이제 뭘 할 거야, 바디노크?",nw_hen_bod,,[지능 보통],,,0,0
+53532,PC,Player Character,So you gonna desert me now?,그래서 이제 나를 버릴 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53533,PC,Player Character,So you're deserting me now?,그래서 이제 나를 버려?,nw_hen_bod,,[지능 보통],,,0,0
+53534,PC,Player Character,"Me gonna miss you, Boddyknock.","너 그리울 거야, 바디노크.",nw_hen_bod,,[지능 낮음],,,0,0
+53535,PC,Player Character,"I'm going to miss you, Boddyknock.","그리울 거야, 바디노크.",nw_hen_bod,,[지능 보통],,,0,0
+53536,PC,Player Character,Me not got time for help you with holy pilgrim stuff! Me got to find Power Words!,나 신성한 순례 일 도와줄 시간 없어! 나 권능의 언령 찾아야 해!,nw_hen_bod,,[지능 낮음],,,0,0
+53537,PC,Player Character,I don't have time to help you with any holy pilgrammage! I have to find the Words of Power.,신성한 순례 같은 거 도와줄 시간 없어! 권능의 언령을 찾아야 해.,nw_hen_bod,,[지능 보통],,,0,0
+53538,PC,Player Character,What task?,무슨 임무?,nw_hen_bod,,,,,0,0
+53539,PC,Player Character,You got to bring back a dragon? That not gonna be easy.,너 용을 데려와야 해? 그거 쉽지 않을 거야.,nw_hen_bod,,[지능 낮음],,,0,0
+53540,PC,Player Character,You have to bring back a dragon? That won't be easy.,용을 데려와야 해? 쉽지 않을 거야.,nw_hen_bod,,[지능 보통],,,0,0
+53541,PC,Player Character,How we gonna kill dragon with no spell and no magic weapon?,주문도 없고 마법 무기도 없이 어떻게 우리 용을 죽일 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53542,PC,Player Character,So we need to kill a dragon without using any spells or magical weapons?,그러니까 주문이나 마법 무기를 사용하지 않고 용을 죽여야 해?,nw_hen_bod,,[지능 보통],,,0,0
+53543,PC,Player Character,You want me for find dragon skin for you?,너 나한테 용 비늘 찾아달라는 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53544,PC,Player Character,So you want me to find this scale for you?,그래서 나한테 이 비늘을 찾아달라는 거야?,nw_hen_bod,,[지능 보통],,,0,0
+53545,PC,Player Character,You not be thinking 'bout running off to look for scale! You be working for me!,너 비늘 찾으러 도망가는 거 생각하지 마! 너 나 위해 일하고 있어!,nw_hen_bod,,[지능 낮음],,,0,0
+53546,PC,Player Character,"You better not be thinking about going in search of a dragon cave. You still work for me, remember?","용 동굴을 찾으러 가는 거 생각하지 않는 게 좋을 거야. 아직 나 위해 일하고 있잖아, 기억해?",nw_hen_bod,,[지능 보통],,,0,0
+53547,PC,Player Character,So is you gonna leave now and go look for dragon cave?,그래서 너 이제 떠나서 용 동굴 찾으러 갈 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53548,PC,Player Character,So I guess you're off to search for some dragon caves.,그래서 용 동굴을 찾으러 떠나는 거겠네.,nw_hen_bod,,[지능 보통],,,0,0
+53549,PC,Player Character,Me not ask you if me not want to hear it.,나 듣고 싶지 않으면 너한테 묻지 않았어.,nw_hen_bod,,[지능 낮음],,,0,0
+53550,PC,Player Character,I wouldn't have asked if I didn't want to hear the tale.,이야기를 듣고 싶지 않았다면 묻지 않았을 거야.,nw_hen_bod,,[지능 보통],,,0,0
+53551,PC,Player Character,Go on.,계속해.,nw_hen_bod,,,,,0,0
+53552,PC,Player Character,Smokepowder?,화약?,nw_hen_bod,,[지능 낮음],,,0,0
+53553,PC,Player Character,Smokepowder?,화약?,nw_hen_bod,,[지능 보통],,,0,0
+53554,PC,Player Character,What you mean? You got stuff that make even more big boom than smokepowder?,무슨 뜻이야? 너 화약보다 더 큰 폭발 만드는 거 있어?,nw_hen_bod,,[지능 낮음],,,0,0
+53555,PC,Player Character,What you mean? Him give you some other gift?,무슨 뜻이야? 그가 너한테 다른 선물 줬어?,nw_hen_bod,,[지능 낮음],,,0,0
+53556,PC,Player Character,But Lantan still be secret mystery island.,하지만 란탄은 여전히 비밀 신비의 섬이야.,nw_hen_bod,,[지능 낮음],,,0,0
+53557,PC,Player Character,But Lantan is still a very closed and mysterious society.,하지만 란탄은 여전히 매우 폐쇄적이고 신비로운 사회야.,nw_hen_bod,,[지능 보통],,,0,0
+53558,PC,Player Character,What guidance them priests give you?,그 사제들이 너한테 무슨 인도를 해줬어?,nw_hen_bod,,[지능 낮음],,,0,0
+53559,PC,Player Character,What kind of divine guidance did you receive?,어떤 종류의 신성한 인도를 받았어?,nw_hen_bod,,[지능 보통],,,0,0
+53560,PC,Player Character,You not good liar.,너 거짓말 잘 못 해.,nw_hen_bod,,[지능 낮음],,,0,0
+53561,PC,Player Character,You're not a very good liar.,너 거짓말을 잘 못 하네.,nw_hen_bod,,[지능 보통],,,0,0
+53562,PC,Player Character,"You be keeping secret from me, gnome!","너 나한테 비밀 숨기고 있어, 노움!",nw_hen_bod,,[지능 낮음],,,0,0
+53563,PC,Player Character,"Boddyknock, are you keeping secrets from me?","바디노크, 나한테 비밀 숨기고 있어?",nw_hen_bod,,[지능 보통],,,0,0
+53564,PC,Player Character,Really? You mean you have something more powerful than smokepowder?,정말? 화약보다 더 강력한 게 있다는 거야?,nw_hen_bod,,[지능 보통],,,0,0
+53565,PC,Player Character,What do you mean? What other gift did he give you?,무슨 뜻이야? 그가 다른 무슨 선물을 줬어?,nw_hen_bod,,[지능 보통],,,0,0
+53566,PC,Player Character,I wouldn't mind knowing your thoughts on Aribeth's betrayal. How do you feel about it?,아리베스의 배신에 대한 네 생각을 알고 싶어. 어떻게 생각해?,nw_hen_bod,,nw_ch_check_19,,,0,0
+53567,PC,Player Character,You be telling me that in you country people never make mistakes?,너 네 나라에서는 사람들이 절대 실수 안 한다고 말하는 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53568,PC,Player Character,In-te-grate? What you mean by that?,통합? 그게 무슨 뜻이야?,nw_hen_bod,,[지능 낮음],,,0,0
+53569,PC,Player Character,Integrate? What are you talking about?,통합? 무슨 얘기하는 거야?,nw_hen_bod,,[지능 보통],,,0,0
+53570,PC,Player Character,What you talking 'bout? You saying Lantan gonna invade?,무슨 얘기해? 란탄이 침략할 거라고 말하는 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53571,PC,Player Character,What are you talking about? Some kind of invasion?,무슨 얘기하는 거야? 뭔가 침략?,nw_hen_bod,,[지능 보통],,,0,0
+53572,PC,Player Character,Why you country want change things so much now?,왜 너의 나라가 지금 그렇게 많이 바꾸고 싶어?,nw_hen_bod,,[지능 낮음],,,0,0
+53573,PC,Player Character,Why the sudden change in ideology?,왜 갑자기 이념을 바꾸는 거야?,nw_hen_bod,,[지능 보통],,,0,0
+53574,PC,Player Character,"Me heard 'bout this. It be in Time of Troubles, right?",나 이거에 대해 들었어. 역경의 시대 때 있던 일이지?,nw_hen_bod,,[지능 낮음],,,0,0
+53575,PC,Player Character,God not be mortal. What you be talking 'bout?,신은 필멸자 아니야. 무슨 얘기해?,nw_hen_bod,,[지능 낮음],,,0,0
+53576,PC,Player Character,"You're referring to the Time of Troubles, aren't you?",역경의 시대를 말하는 거지?,nw_hen_bod,,[지능 보통],,,0,0
+53577,PC,Player Character,Gods in mortal form? What are you talking about?,필멸자 형태의 신들? 무슨 얘기하는 거야?,nw_hen_bod,,[지능 보통],,,0,0
+53578,PC,Player Character,Are you saying the people of Lantan never make poor decisions?,란탄 사람들은 절대 잘못된 결정을 안 한다는 거야?,nw_hen_bod,,[지능 보통],,,0,0
+53579,PC,Player Character,The law say Fenthick need be killed. The law is the law. We got to follow it no matter what.,법이 펜딕을 죽여야 한다고 해. 법은 법이야. 우리 무슨 일이 있어도 따라야 해.,nw_hen_bod,,[지능 낮음],,,0,0
+53580,PC,Player Character,Fenthick did stuff that made people get mad. That make people do stupid things.,펜딕이 사람들 화나게 하는 일 했어. 그게 사람들이 바보 같은 짓 하게 만들어.,nw_hen_bod,,[지능 낮음],,,0,0
+53581,PC,Player Character,By the letter of the law Fenthick's actions were deserving of execution. The law has to be obeyed.,법의 문자상으로 펜딕의 행동은 처형받아 마땅했어. 법은 지켜져야 해.,nw_hen_bod,,[지능 보통],,,0,0
+53582,PC,Player Character,"Sometimes people let their emotions rule their actions, and we do foolish things.","때로는 사람들이 감정에 행동을 맡기고, 우린 어리석은 일을 해.",nw_hen_bod,,[지능 보통],,,0,0
+53583,PC,Player Character,Me want you keep talking 'bout story you start before.,나 네가 전에 시작한 이야기 계속 말하길 원해.,nw_hen_bod,,nw_ch_check_13,,,0,0
+53584,PC,Player Character,"If we be travel together, me want know more 'bout you.","우리 함께 여행하면, 나 너에 대해 더 알고 싶어.",nw_hen_bod,,nw_ch_check_11,,,0,0
+53585,PC,Player Character,"I'd like you to continue your story from before, Boddyknock.","전에 하던 이야기를 계속해줬으면 해, 바디노크.",nw_hen_bod,,nw_ch_check_12,,,0,0
+53586,PC,Player Character,You better not let you search get in way of work for me!,너의 탐색이 나 위한 일 방해하지 않는 게 좋을 거야!,nw_hen_bod,,[지능 낮음],,,0,0
+53587,PC,Player Character,You not worry. We find stuff you need.,걱정 마. 우리 너 필요한 거 찾을 거야.,nw_hen_bod,,[지능 낮음],,,0,0
+53588,PC,Player Character,Me got weird seeds here. This be what you need?,나 여기 이상한 씨앗들 있어. 이게 너 필요한 거야?,nw_hen_bod,,nw_ch_check_18,,,0,0
+53589,PC,Player Character,Just don't let this get in the way of your other duties.,다른 임무를 방해하지만 않으면 돼.,nw_hen_bod,,[지능 보통],,,0,0
+53590,PC,Player Character,"Don't worry, I'm sure we'll find the seeds you're looking for.","걱정 마, 네가 찾는 씨앗들을 찾을 거야.",nw_hen_bod,,[지능 보통],,,0,0
+53591,PC,Player Character,I have some strange seeds here. Are these what you're looking for?,여기 이상한 씨앗들이 있어. 이게 네가 찾는 거야?,nw_hen_bod,,nw_ch_check_17,,,0,0
+53592,PC,Player Character,What good that do me? Me not buy stuff with thanks and friendship!,그게 나한테 무슨 소용이야? 나 감사랑 우정으로 물건 못 사!,nw_hen_bod,,[지능 낮음],,,0,0
+53593,PC,Player Character,You not need give me reward. You thanks be reward enough.,너 나한테 보상 줄 필요 없어. 너의 감사가 충분한 보상이야.,nw_hen_bod,,[지능 낮음],,,0,0
+53594,PC,Player Character,Great. That and a couple coppers will get me a mug of warm ale.,좋아. 그거랑 구리 몇 개면 따뜻한 에일 한 잔 살 수 있겠네.,nw_hen_bod,,[지능 보통],,,0,0
+53595,PC,Player Character,"The reward you offer is greater than you know, Boddyknock.","네가 제공하는 보상은 네가 아는 것보다 큰 거야, 바디노크.",nw_hen_bod,,[지능 보통],,,0,0
+53596,PC,Player Character,This be between you and you daddy. Me not want get in the middle.,이건 너랑 너의 아빠 사이 일이야. 나 중간에 끼고 싶지 않아.,nw_hen_bod,,[지능 낮음],,,0,0
+53597,PC,Player Character,This is between you and your father. I don't think I want to get involved.,이건 너와 네 아버지 사이 일이야. 관여하고 싶지 않은데.,nw_hen_bod,,[지능 보통],,,0,0
+53598,PC,Player Character,What you need me do?,너 나한테 뭐 하길 원해?,nw_hen_bod,,[지능 낮음],,,0,0
+53599,PC,Player Character,What do you want me to do?,뭘 하길 원해?,nw_hen_bod,,[지능 보통],,,0,0
+53600,PC,Player Character,So why you not just buy him one?,그럼 왜 너 그냥 그한테 하나 사주지 않아?,nw_hen_bod,,[지능 낮음],,,0,0
+53601,PC,Player Character,So why don't you get him one of these prism blossoms?,그럼 왜 그한테 이 무지갯빛 꽃 중 하나를 사주지 않아?,nw_hen_bod,,[지능 보통],,,0,0
+53602,PC,Player Character,What happened?,무슨 일 있었어?,nw_hen_bod,,,,,0,0
+53603,PC,Player Character,"Me know what happen. You destroy him garden, right?",나 무슨 일 있었는지 알아. 너 그의 정원 파괴했지?,nw_hen_bod,,[지능 낮음],,,0,0
+53604,PC,Player Character,Let me guess. You destroyed his garden?,짐작해보자. 그의 정원을 파괴했어?,nw_hen_bod,,[지능 보통],,,0,0
+53605,PC,Player Character,Sometimes gardens get weeds. That not you fault.,때로는 정원에 잡초 생겨. 그거 너의 잘못 아니야.,nw_hen_bod,,[지능 낮음],,,0,0
+53606,PC,Player Character,"Gardens get weeds sometimes, Boddyknock - it's hardly your fault.","정원에 가끔 잡초가 생기지, 바디노크 - 네 잘못이라고 할 수 없어.",nw_hen_bod,,[지능 보통],,,0,0
+53607,PC,Player Character,Rot weed? Me not heard of that before.,썩은 잡초? 나 그거에 대해 들어본 적 없어.,nw_hen_bod,,[지능 낮음],,,0,0
+53608,PC,Player Character,Rot weed? I've never heard of it.,썩은 잡초? 들어본 적 없는데.,nw_hen_bod,,[지능 보통],,,0,0
+53609,PC,Player Character,What did you do?,뭘 했어?,nw_hen_bod,,,,,0,0
+53610,PC,Player Character,Me not think it that smart for you use magic just to clean you garden.,나 생각엔 정원 청소하려고 마법 쓰는 거 그렇게 현명하지 않아.,nw_hen_bod,,[지능 낮음],,,0,0
+53611,PC,Player Character,What happen? Did something bad happen?,무슨 일 있었어? 나쁜 일 있었어?,nw_hen_bod,,[지능 낮음],,,0,0
+53612,PC,Player Character,That probably wasn't the smartest thing to do. Magic shouldn't be trifled with.,그건 아마 가장 현명한 일은 아니었을 거야. 마법은 가지고 놀 게 아니야.,nw_hen_bod,,[지능 보통],,,0,0
+53613,PC,Player Character,"But something went wrong, didn't it?",하지만 뭔가 잘못됐지?,nw_hen_bod,,[지능 보통],,,0,0
+53614,PC,Player Character,You make plant go boom. That be neat to see.,너 식물 폭발하게 만들었어. 보기 멋있었을 거야.,nw_hen_bod,,[지능 낮음],,,0,0
+53615,PC,Player Character,Exploding vegetation. I wish I could have been there.,폭발하는 식물. 그 자리에 있었으면 좋았을 텐데.,nw_hen_bod,,[지능 보통],,,0,0
+53616,PC,Player Character,Was you hurt?,너 다쳤어?,nw_hen_bod,,[지능 낮음],,,0,0
+53617,PC,Player Character,Were you hurt?,다쳤어?,nw_hen_bod,,[지능 보통],,,0,0
+53618,PC,Player Character,"You daddy ask you to watch him garden, and you burn down house? That funny story!","너의 아빠가 정원 지켜달라고 했는데, 너 집 불태웠어? 웃긴 이야기야!",nw_hen_bod,nw_d1_small_evil,[지능 낮음],,,0,0
+53619,PC,Player Character,You not start fire on purpose. You daddy can't be mad just 'cause of accident.,너 일부러 불 낸 거 아니야. 너의 아빠 그냥 사고였다고 화낼 수 없어.,nw_hen_bod,,[지능 낮음],,,0,0
+53620,PC,Player Character,You make three homes burn down and you wreck you daddy's garden? That awful!,너 집 세 채 불태우고 너의 아빠 정원 망쳤어? 끔찍해!,nw_hen_bod,,[지능 낮음],,,0,0
+53621,PC,Player Character,"You're supposed to look after a garden, and instead you torch three houses into ash? That's hilarious!","정원을 돌봐야 했는데, 대신 집 세 채를 재로 만들었다고? 웃기네!",nw_hen_bod,nw_d1_small_evil,[지능 보통],,,0,0
+53622,PC,Player Character,"It was an accident, Boddyknock. You were only trying to help.","사고였어, 바디노크. 도우려고 한 거잖아.",nw_hen_bod,,[지능 보통],,,0,0
+53623,PC,Player Character,You burned down three homes and destroyed your father's garden? That's horrible!,집 세 채를 불태우고 아버지의 정원을 파괴했어? 끔찍하네!,nw_hen_bod,,[지능 보통],,,0,0
+53624,PC,Player Character,Like what?,뭐 같은 거?,nw_hen_bod,,,,,0,0
+53625,PC,Player Character,If we're going to be traveling together I'd like to know a little more about you.,함께 여행할 거라면 너에 대해 좀 더 알고 싶어.,nw_hen_bod,,nw_ch_check_10,,,0,0
+53626,PC,Player Character,Did you family not like what you become?,너의 가족이 너 된 것 싫어했어?,nw_hen_bod,,[지능 낮음],,,0,0
+53627,PC,Player Character,Did your family disapprove of your career choice?,가족이 네 직업 선택을 반대했어?,nw_hen_bod,,[지능 보통],,,0,0
+53628,PC,Player Character,Why there not be so many magic type guys where you come from?,왜 너 나온 곳에는 마법 사용하는 사람들 많지 않아?,nw_hen_bod,,[지능 낮음],,,0,0
+53629,PC,Player Character,Why are sorcerers so uncommon in Lantan?,왜 란탄에는 요술사들이 드물어?,nw_hen_bod,,[지능 보통],,,0,0
+53630,PC,Player Character,You father want you to be some gardener?,너의 아버지가 너 정원사 되길 원했어?,nw_hen_bod,,[지능 낮음],,,0,0
+53631,PC,Player Character,Me not blame you. Plants be real boring.,나 너 비난 안 해. 식물 정말 지루해.,nw_hen_bod,,[지능 낮음],,,0,0
+53632,PC,Player Character,Was you father a druid?,너의 아버지 드루이드였어?,nw_hen_bod,,[지능 낮음],,,0,0
+53633,PC,Player Character,Your father wanted you to become a gardener?,네 아버지가 정원사가 되길 원했어?,nw_hen_bod,,[지능 보통],,,0,0
+53634,PC,Player Character,You father grow plants. Big deal. Me no care 'bout plants.,너의 아버지 식물 키워. 대단하네. 나 식물에 대해 신경 안 써.,nw_hen_bod,,[지능 낮음],,,0,0
+53635,PC,Player Character,"Blah, blah, blah - who cares? We're talking about a bunch of stupid plants!",이래라저래라 - 누가 신경 써? 바보 같은 식물들 얘기하고 있잖아!,nw_hen_bod,,[지능 보통],,,0,0
+53636,PC,Player Character,Him sound like a great man.,그 정말 훌륭한 사람처럼 들려.,nw_hen_bod,,[지능 낮음],,,0,0
+53637,PC,Player Character,He sounds like a great man.,훌륭한 사람처럼 들리네.,nw_hen_bod,,[지능 보통],,,0,0
+53638,PC,Player Character,What do you mean?,무슨 뜻이야?,nw_hen_bod,,,,,0,0
+53639,PC,Player Character,I don't blame you. Plants are boring.,비난 안 해. 식물은 지루하지.,nw_hen_bod,,[지능 보통],,,0,0
+53640,PC,Player Character,You sound like tree-man druid.,너 나무-사람 드루이드처럼 들려.,nw_hen_bod,,[지능 낮음],,,0,0
+53641,PC,Player Character,You sound like a druid.,드루이드처럼 들리네.,nw_hen_bod,,[지능 보통],,,0,0
+53642,PC,Player Character,What was he - a druid?,그는 뭐였어 - 드루이드?,nw_hen_bod,,[지능 보통],,,0,0
+53643,PC,Player Character,Me want you continue you story from before. ,나 너 전에 하던 이야기 계속하길 원해.,nw_hen_bod,,nw_ch_check_4,,,0,0
+53644,PC,Player Character,Me wanna know you better. Me think that important. ,나 너 더 잘 알고 싶어. 나 그게 중요하다고 생각해.,nw_hen_bod,,nw_ch_check_2,,,0,0
+53645,PC,Player Character,I want you to continue your story from before.,전에 하던 이야기를 계속해줬으면 해.,nw_hen_bod,,nw_ch_check_3,,,0,0
+53646,PC,Player Character,You not let you search get in way of stuff you do for me!,너 너의 탐색이 나 위해 하는 일 방해하게 하지 마!,nw_hen_bod,,[지능 낮음],,,0,0
+53647,PC,Player Character,If me find it me let you know.,내가 찾으면 너한테 알려줄게.,nw_hen_bod,,[지능 낮음],,,0,0
+53648,PC,Player Character,Me got recipe for bread here. This be what you need?,나 여기 빵 조리법 있어. 이게 너 필요한 거야?,nw_hen_bod,,nw_ch_check_9,,,0,0
+53649,PC,Player Character,This better not interfere with the work you're doing for me!,이게 나 위해 하는 일을 방해하지 않는 게 좋을 거야!,nw_hen_bod,,[지능 보통],,,0,0
+53650,PC,Player Character,"Don't worry, Boddyknock. We'll find that recipe for you.","걱정 마, 바디노크. 그 조리법을 찾아줄게.",nw_hen_bod,,[지능 보통],,,0,0
+53651,PC,Player Character,I happen to have a recipe for leaven bread right here.,여기 발효 빵 조리법이 있어.,nw_hen_bod,,nw_ch_check_8,,,0,0
+53652,PC,Player Character,That's it? A cheap ring?,그게 다야? 싸구려 반지?,nw_hen_bod,,,,,0,0
+53653,PC,Player Character,"Thank you, Boddyknock.","고마워, 바디노크.",nw_hen_bod,,,,,0,0
+53654,PC,Player Character,Bread?,빵?,nw_hen_bod,,,,,0,0
+53655,PC,Player Character,But you not find nobody for give you the recipe yet.,하지만 너 아직 조리법 줄 사람 못 찾았어.,nw_hen_bod,,[지능 낮음],,,0,0
+53656,PC,Player Character,But you haven't found anyone to give you the recipe yet.,하지만 아직 조리법을 줄 사람을 못 찾았잖아.,nw_hen_bod,,[지능 보통],,,0,0
+53657,PC,Player Character,What you mean?,무슨 뜻이야?,nw_hen_bod,,[지능 낮음],,,0,0
+53658,PC,Player Character,What do you mean by that?,그게 무슨 뜻이야?,nw_hen_bod,,[지능 보통],,,0,0
+53659,PC,Player Character,"Me bet you got in lots of trouble messin' with that stuff, right?",나 생각엔 너 그거 가지고 놀다가 엄청 곤란해졌을 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53660,PC,Player Character,That must be real tempting for a 'prentice like you.,너 같은 견습생한테 정말 유혹적이었을 거야.,nw_hen_bod,,[지능 낮음],,,0,0
+53661,PC,Player Character,You must have gotten into all kinds of trouble fiddling around with all those magical items.,그 마법 아이템들을 가지고 놀다가 온갖 종류의 곤란에 빠졌을 거야.,nw_hen_bod,,[지능 보통],,,0,0
+53662,PC,Player Character,But all that magic stuff lyin' around must have tempt you sometimes.,하지만 주변에 널려 있는 그 마법 물건들이 때로는 너 유혹했을 거야.,nw_hen_bod,,[지능 낮음],,,0,0
+53663,PC,Player Character,But surely you were tempted by all that magic lying around.,하지만 분명 주변에 널려 있는 그 마법에 유혹당했겠지.,nw_hen_bod,,[지능 보통],,,0,0
+53664,PC,Player Character,That it? You just clean up?,그게 다야? 너 그냥 청소했어?,nw_hen_bod,,[지능 낮음],,,0,0
+53665,PC,Player Character,That's it? You cleaned up?,그게 다야? 청소했다고?,nw_hen_bod,,[지능 보통],,,0,0
+53666,PC,Player Character,Me not believe you had all that magic there and you not even try to use it! What kind of magic guy is you? Ain't you curious?,나 믿을 수 없어 너 거기 그 마법 다 있었는데 쓰려고 시도조차 안 했다니! 너 무슨 마법사야? 궁금하지도 않았어?,nw_hen_bod,,[지능 낮음],,,0,0
+53667,PC,Player Character,You had all that magic at your fingertips and you didn't even try to use any of it? What kind of sorcerer are you? Weren't you even curious?,손끝에 그 모든 마법이 있었는데 하나도 쓰려고 시도조차 안 했어? 무슨 요술사야? 궁금하지도 않았어?,nw_hen_bod,,[지능 보통],,,0,0
+53668,PC,Player Character,"Me guess that makes sense, now that you explain it.",나 생각엔 네가 설명하니까 이해가 돼.,nw_hen_bod,,[지능 낮음],,,0,0
+53669,PC,Player Character,"Logic and reason is okay, but sometimes they be boring.","논리와 이성은 괜찮은데, 때로는 지루해.",nw_hen_bod,,[지능 낮음],,,0,0
+53670,PC,Player Character,That not good attitude for adventurer.,그거 모험가한테 좋은 태도 아니야.,nw_hen_bod,,[지능 낮음],,,0,0
+53671,PC,Player Character,"I guess your actions make sense, now that you've explained them.",네가 설명하니까 네 행동이 이해가 돼.,nw_hen_bod,,[지능 보통],,,0,0
+53672,PC,Player Character,"Logic and reason are fine, but they can be mighty boring.","논리와 이성은 괜찮은데, 엄청 지루할 수 있어.",nw_hen_bod,,[지능 보통],,,0,0
+53673,PC,Player Character,That's hardly an adventursome attitude.,그건 모험가다운 태도가 아니네.,nw_hen_bod,,[지능 보통],,,0,0
+53674,PC,Player Character,What you mean by 'other things'? There be some other reason you come to city?,'다른 것들'이 무슨 뜻이야? 도시에 온 다른 이유 있어?,nw_hen_bod,,[지능 낮음],,,0,0
+53675,PC,Player Character,Among other things? What do you mean - is there another reason you came to Neverwinter?,다른 것들 중에? 무슨 뜻이야 - 네버윈터에 온 다른 이유가 있어?,nw_hen_bod,,[지능 보통],,,0,0
+53676,PC,Player Character,"Okay, but you not let you problem get in way of you work for me!","좋아, 하지만 너 너의 문제가 나 위한 일 방해하게 하지 마!",nw_hen_bod,,[지능 낮음],,,0,0
+53677,PC,Player Character,"It okay, gnome. You can tell me you secret and maybe me can help you.","괜찮아, 노움. 너 나한테 비밀 말해도 돼 그리고 아마 나 너 도울 수 있어.",nw_hen_bod,,[지능 낮음],,,0,0
+53678,PC,Player Character,Fine - just don't let it distract you from the job at hand!,좋아 - 그냥 당면한 일에서 주의를 빼앗기지 마!,nw_hen_bod,,[지능 보통],,,0,0
+53679,PC,Player Character,"You can tell me, Boddyknock. Maybe it's something I can help you with.","말해도 돼, 바디노크. 아마 내가 도울 수 있는 일일 거야.",nw_hen_bod,,[지능 보통],,,0,0
+53680,PC,Player Character,You must have found that quite a temptation.,꽤 유혹적이었을 거야.,nw_hen_bod,,[지능 보통],,,0,0
+53681,PC,Player Character,"If you're going to be my henchman, I'd like to know more about you. ","내 부하가 될 거라면, 너에 대해 더 알고 싶어.",nw_hen_bod,,nw_ch_check_1,,,0,0
+53682,PC,Player Character,Me get lots gold if me help Neverwinter!,나 네버윈터 도우면 금화 많이 받아!,nw_hen_bod,,[지능 낮음],,,0,0
+53683,PC,Player Character,If me save Neverwinter then me be big hero.,나 네버윈터 구하면 나 큰 영웅이야.,nw_hen_bod,,[지능 낮음],,,0,0
+53684,PC,Player Character,Me see lots people die. Me not like it. Me want help them.,나 많은 사람들 죽는 거 봤어. 나 좋아하지 않아. 나 그들 돕고 싶어.,nw_hen_bod,,[지능 낮음],,,0,0
+53685,PC,Player Character,Aribeth has promised me gold and riches if I can help her in this.,아리베스가 이 일을 도우면 금화와 부를 약속했어.,nw_hen_bod,,[지능 보통],,,0,0
+53686,PC,Player Character,I seek to forge a legend that will last for ever.,영원히 지속될 전설을 만들고자 해.,nw_hen_bod,,[지능 보통],,,0,0
+53687,PC,Player Character,Your mentor?,네 스승?,nw_hen_bod,,,,,0,0
+53688,PC,Player Character,"Me surprised him take you in, since you be a gnome and him be a human.","나 놀라워 그가 너를 받아들인 게, 너 노움이고 그 인간인데.",nw_hen_bod,,[지능 낮음],,,0,0
+53689,PC,Player Character,Him take you in?,그가 너를 받아들였어?,nw_hen_bod,,[지능 낮음],,,0,0
+53690,PC,Player Character,I'm surprised he would have accepted a gnome for training.,그가 노움을 훈련시키기 위해 받아들였다니 놀랍네.,nw_hen_bod,,[지능 보통],,,0,0
+53691,PC,Player Character,And he took you in?,그래서 그가 너를 받아들였어?,nw_hen_bod,,[지능 보통],,,0,0
+53692,PC,Player Character,Why you not just kill lizard?,왜 너 그냥 도마뱀 죽이지 않았어?,nw_hen_bod,,[지능 낮음],,,0,0
+53693,PC,Player Character,Me guess Prophyro not like guests.,나 생각엔 프로피로가 손님 좋아하지 않나봐.,nw_hen_bod,,[지능 낮음],,,0,0
+53694,PC,Player Character,What you do next?,그 다음에 뭐 했어?,nw_hen_bod,,[지능 낮음],,,0,0
+53695,PC,Player Character,You should have killed it!,죽였어야지!,nw_hen_bod,,[지능 보통],,,0,0
+53696,PC,Player Character,I guess Prophyro didn't like guests.,프로피로가 손님을 좋아하지 않았나봐.,nw_hen_bod,,[지능 보통],,,0,0
+53697,PC,Player Character,What did you do then?,그래서 뭘 했어?,nw_hen_bod,,[지능 보통],,,0,0
+53698,PC,Player Character,Illusion? How you figure that out?,환영? 어떻게 너 그거 알아냈어?,nw_hen_bod,,[지능 낮음],,,0,0
+53699,PC,Player Character,An illusion? How did you figure that out?,환영? 어떻게 알아냈어?,nw_hen_bod,,[지능 보통],,,0,0
+53700,PC,Player Character,You story boring. We gonna continue mission soon?,너의 이야기 지루해. 우리 곧 임무 계속할 거야?,nw_hen_bod,,[지능 낮음],,,0,0
+53701,PC,Player Character,What it like being him apprentice?,그의 견습생 되는 거 어땠어?,nw_hen_bod,,[지능 낮음],,,0,0
+53702,PC,Player Character,Great story. Think we can continue with our mission now?,좋은 이야기야. 이제 임무를 계속할 수 있을 것 같아?,nw_hen_bod,,[지능 보통],,,0,0
+53703,PC,Player Character,What was it like as his apprentice?,그의 견습생으로 있는 게 어땠어?,nw_hen_bod,,[지능 보통],,,0,0
+53704,PC,Player Character,I have seen too much death and suffering from the plague to stand idly by.,역병으로 인한 죽음과 고통을 너무 많이 봐서 가만히 보고만 있을 순 없어.,nw_hen_bod,,[지능 보통],,,0,0
+62505,PC,Player Character [Companion Settings],You not use range weapons no more. Use melee weapon.,너 더 이상 원거리 무기 쓰지 마. 근접 무기 써.,nw_hen_bod,nw_ch_gomelee,nw_ch_comrange,[Companion Settings],,0,0
+62506,PC,Player Character [Companion Settings],You not use melee weapon no more. You use range weapons.,너 더 이상 근접 무기 쓰지 마. 너 원거리 무기 써.,nw_hen_bod,nw_ch_goranged,nw_ch_commelee,[Companion Settings],,0,0
+62507,PC,Player Character [Companion Settings],Stop using your ranged and missile weapons in combat and only use melee weapons.,전투에서 원거리 무기 사용을 멈추고 근접 무기만 써.,nw_hen_bod,nw_ch_gomelee,nw_ch_comrange,[Companion Settings],,0,0
+62508,PC,Player Character [Companion Settings],Stop using your melee weapons in battle and only use your ranged weapons.,전투에서 근접 무기 사용을 멈추고 원거리 무기만 써.,nw_hen_bod,nw_ch_goranged,nw_ch_commelee,[Companion Settings],,0,0
+63864,PC,Player Character,"Me too busy for this now, gnome boy!","나 지금 이거 할 시간 너무 바빠, 노움 꼬맹이!",nw_hen_bod,,[지능 낮음],,,0,0
+63865,PC,Player Character,"Not now, Boddyknock! I'm kind of busy here!","지금은 안 돼, 바디노크! 여기서 좀 바빠!",nw_hen_bod,,[지능 보통],,,0,0
+63866,PC,Player Character,Me not want to hear it. We got big fight ahead.,나 듣고 싶지 않아. 우리 앞에 큰 전투 있어.,nw_hen_bod,,[지능 낮음],,,0,0
+63867,PC,Player Character,"Good, keep quiet. We've got business to take care of!","좋아, 조용히 해. 처리할 일이 있어!",nw_hen_bod,,[지능 보통],,,0,0
+63868,PC,Player Character,Me sorry. You tell me what you got to say.,미안해. 너 나한테 할 말 해.,nw_hen_bod,,[지능 낮음],,,0,0
+63869,PC,Player Character,I'm sorry. Please go on.,미안해. 계속해.,nw_hen_bod,,[지능 보통],,,0,0
+63870,PC,Player Character,"What you want, little gnome friend?","뭘 원해, 작은 노움 친구?",nw_hen_bod,,[지능 낮음],,,0,0
+63871,PC,Player Character,"Yes, Boddyknock - what is it?","그래, 바디노크 - 뭐야?",nw_hen_bod,,[지능 보통],,,0,0
+63872,PC,Player Character,"What you point, gnome?","요점이 뭐야, 노움?",nw_hen_bod,,[지능 낮음],,,0,0
+63873,PC,Player Character,"Get to the point, Boddyknock.","요점을 말해, 바디노크.",nw_hen_bod,,[지능 보통],,,0,0
+63874,PC,Player Character,"Enough talk, gnome! Morag not be dead yet! We still got work to do!","충분히 얘기했어, 노움! 모라그 아직 안 죽었어! 우리 아직 할 일 있어!",nw_hen_bod,,[지능 낮음],,,0,0
+63875,PC,Player Character,"Save it, gnome. Our work here isn't done.","그만해, 노움. 여기서 일 끝나지 않았어.",nw_hen_bod,,[지능 보통],,,0,0
+63876,PC,Player Character,"Thanks. That mean a lot to me, Boddyknock.","고마워. 그거 나한테 큰 의미야, 바디노크.",nw_hen_bod,,[지능 낮음],,,0,0
+63877,PC,Player Character,"Thank you, Boddyknock. That means a lot to me.","고마워, 바디노크. 큰 의미야.",nw_hen_bod,,[지능 보통],,,0,0
+63878,PC,Player Character,"*Sigh* Me big hero now, so me guess lots of people gonna be in awe when me come around.","*한숨* 나 이제 큰 영웅이야, 그러니까 나 생각엔 많은 사람들이 내가 오면 경외감 가질 거야.",nw_hen_bod,,[지능 낮음],,,0,0
+63879,PC,Player Character,*Sigh* I guess people holding me in awe is the burden of being a hero.,*한숨* 사람들이 날 경외하는 게 영웅이 되는 짐인 것 같아.,nw_hen_bod,,[지능 보통],,,0,0
+63880,PC,Player Character,"Me not do it alone. You help me lots, Daelan.","나 혼자 안 했어. 너 나 많이 도왔어, 데란.",nw_hen_bod,,[지능 낮음],,,0,0
+63881,PC,Player Character,I didn't do it alone. You have been a valuable ally throughout my adventures.,혼자 한 게 아니야. 내 모험 내내 귀중한 동료였어.,nw_hen_bod,,[지능 보통],,,0,0

@@ -1,0 +1,84 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+82716,PC,Player Character,Goodbye.,안녕히 계세요.,q5b_priest,,,,,0,0
+82717,PC,Player Character,I would like to ask you some questions.,몇 가지 물어보고 싶은데요.,q5b_priest,,,,,0,0
+82718,PC,Player Character,That is all my questions.,물을 건 다 물었습니다.,q5b_priest,,,,,0,0
+82719,PC,Player Character,"So this camp is a trading post, too?",그러면 이 야영지는 교역소이기도 한 건가요?,q5b_priest,,,,,0,0
+82720,PC,Player Character,Tell me about Musharak.,무샤락에 대해 말해주세요.,q5b_priest,,q5a_knowmushar1,,,0,0
+82721,PC,Player Character,I want to ask something else.,다른 걸 물어보고 싶습니다.,q5b_priest,,,,,0,0
+82722,PC,Player Character,Musharak said he would like to sell your wine.,무샤락이 당신들의 포도주를 팔고 싶다고 했어요.,q5b_priest,,q5a_knowmushar2,,,0,0
+82723,PC,Player Character,Is there no way you'll change your mind?,마음을 바꿀 방법이 없을까요?,q5b_priest,,q5b_knowmushar5,,,0,0
+82724,PC,Player Character,<StartCheck>[Persuade]</Start> Surely we could come to some kind of arrangement...,<StartCheck>[설득]</Start> 분명 어떤 합의에 도달할 수 있을 텐데요...,q5b_priest,,q5b_knowmushar5,,,0,0
+82725,PC,Player Character,<StartCheck>[Intimidate]</Start> Either start providing him the wine or people are going to get hurt. Got it?,<StartCheck>[위협]</Start> 포도주를 공급하든지 사람들이 다치든지 둘 중 하나요. 알겠소?,q5b_priest,,q5b_knowmushar5,,,0,0
+82726,PC,Player Character,Musharak has agreed to convert to the worship of Ao.,무샤락이 에이오를 숭배하기로 개종하겠다고 했습니다.,q5b_priest,,q5b_knowmushar4,,,0,0
+82727,PC,Player Character,"Not at all. He gave me his idol, but I don't have it on me.","전혀요. 그가 우상을 줬는데, 지금 갖고 있지 않아요.",q5b_priest,,q5b_pchasnoidol,,,0,0
+82728,PC,Player Character,Not at all. He gave me this idol... he said he doesn't need it anymore.,전혀요. 그가 이 우상을 줬습니다... 더 이상 필요 없다고요.,q5b_priest,,q5b_pchasidol,,,0,0
+82729,PC,Player Character,Musharak has agreed to share his profits with the temple.,무샤락이 수익을 사원과 나누기로 했습니다.,q5b_priest,,q5a_knowmushar3,,,0,0
+82730,PC,Player Character,I said you get his profits. That has nothing to do with the wine.,수익을 받는다고 했지 포도주랑은 상관없어요.,q5b_priest,,q5a_knowmushar6,,,0,0
+82731,PC,Player Character,"Only if you're agreeable. The profits are yours, regardless.","동의하신다면요. 수익은 어쨌든 당신 것입니다.",q5b_priest,,q5a_knowmushar6,,,0,0
+82732,PC,Player Character,"No, I convinced him that he owed you his profits anyway.","아니요, 어쨌든 수익을 드려야 한다고 그를 설득했습니다.",q5b_priest,,q5a_knowmushar6,,,0,0
+82733,PC,Player Character,Musharak is no fool. I'm assuming neither are you.,무샤락은 바보가 아닙니다. 당신도 아니라고 생각하고요.,q5b_priest,,q5a_knowmushar5,,,0,0
+82734,PC,Player Character,Doesn't that seem sensible?,합리적이지 않나요?,q5b_priest,,q5a_knowmushar5,,,0,0
+82735,PC,Player Character,That would increase both your profits and his.,그러면 당신과 그 양쪽의 수익이 늘어날 텐데요.,q5b_priest,,q5a_knowmushar5,,,0,0
+82736,PC,Player Character,You speak of him as if you don't like him.,그를 좋아하지 않는 것처럼 말씀하시네요.,q5b_priest,,,,,0,0
+82737,PC,Player Character,Perhaps I could speak to him.,제가 그와 얘기해 볼까요.,q5b_priest,,,,,0,0
+82738,PC,Player Character,"But his presence benefits you, right?",하지만 그가 있어서 이득이 되잖아요?,q5b_priest,,,,,0,0
+82739,PC,Player Character,So why put up with him?,그런데 왜 그를 참아주는 거죠?,q5b_priest,,,,,0,0
+82740,PC,Player Character,Why can you no longer trade water?,왜 더 이상 물을 거래할 수 없는 건가요?,q5b_priest,,,,,0,0
+82741,PC,Player Character,Does he give you part of the profits?,수익의 일부를 주나요?,q5b_priest,,,,,0,0
+82742,PC,Player Character,That's very generous of you.,정말 관대하시군요.,q5b_priest,,,,,0,0
+82743,PC,Player Character,Sounds like a good deal for him.,그에게 좋은 거래인 것 같네요.,q5b_priest,,,,,0,0
+82744,PC,Player Character,"If he uses your water and your camp, you should benefit.",당신의 물과 야영지를 쓴다면 당신도 이득을 봐야죠.,q5b_priest,,,,,0,0
+82745,PC,Player Character,I could get rid of him for you.,제가 그를 없애드릴까요.,q5b_priest,,,,,0,0
+82746,PC,Player Character,Tell me about Jasmeena.,자즈미나에 대해 말해주세요.,q5b_priest,,q5a_knowjasm1,,,0,0
+82747,PC,Player Character,You use wine in your rituals?,의식에 포도주를 쓰시나요?,q5b_priest,,,,,0,0
+82748,PC,Player Character,Could we talk about Garrick?,가릭에 대해 얘기할 수 있을까요?,q5b_priest,,,,,0,0
+82749,PC,Player Character,I have other questions.,다른 질문이 있습니다.,q5b_priest,,,,,0,0
+82750,PC,Player Character,I want to know more about this Valley of Winds.,바람의 계곡에 대해 더 알고 싶습니다.,q5b_priest,,q5a_knowvalley2,,,0,0
+82751,PC,Player Character,Have you seen any of the other explorers?,다른 탐험가들을 보셨나요?,q5b_priest,,,,,0,0
+82752,PC,Player Character,Aren't you worried about a threat of danger?,위험의 위협이 걱정되지 않나요?,q5b_priest,,,,,0,0
+82753,PC,Player Character,What happened to Garrick? Do you know?,가릭에게 무슨 일이 있었나요? 아세요?,q5b_priest,,,,,0,0
+82754,PC,Player Character,What could they have found?,무엇을 발견했을 수 있을까요?,q5b_priest,,,,,0,0
+82755,PC,Player Character,I want to talk about this wine of yours.,당신들의 포도주에 대해 얘기하고 싶습니다.,q5b_priest,,q5a_knowwine1,,,0,0
+82756,PC,Player Character,Never mind.,됐어요.,q5b_priest,,,,,0,0
+82757,PC,Player Character,<StartCheck>[Intimidate]</Start> Hand over a bottle of it. Right now.,<StartCheck>[위협]</Start> 한 병 내놔. 지금 당장.,q5b_priest,xp1_didnotgdti,con_mushy_17,,,0,0
+82758,PC,Player Character,My apologies. I didn't mean to come across so strongly.,죄송합니다. 그렇게 강하게 나오려던 건 아니에요.,q5b_priest,,,,,0,0
+82759,PC,Player Character,<StartCheck>[Intimidate]</Start> Either hand some over or I start killing your followers. Your choice.,<StartCheck>[위협]</Start> 내놓든지 신도들을 죽이기 시작하든지. 선택해.,q5b_priest,x0_d1_didevilmed,,,,0,0
+82760,PC,Player Character,How could I get ahold of some wine?,포도주를 좀 구할 수 있을까요?,q5b_priest,,,,,0,0
+82761,PC,Player Character,So there's no changing your mind?,마음을 바꿀 방법이 없나요?,q5b_priest,,,,,0,0
+82762,PC,Player Character,That seems like an odd edict for a religion dedicated to apathy.,무관심에 헌신하는 종교치고는 이상한 교리 같군요.,q5b_priest,,[지능 높음],,,0,0
+82763,PC,Player Character,<StartCheck>[Persuade]</Start> I could offer you a very handsome price...,<StartCheck>[설득]</Start> 아주 후한 값을 제안할 수 있는데요...,q5b_priest,,,,,0,0
+82764,PC,Player Character,How is your wine made?,포도주는 어떻게 만드나요?,q5b_priest,,,,,0,0
+82765,PC,Player Character,That's all I need to know.,알아야 할 건 그게 다입니다.,q5b_priest,,,,,0,0
+82766,PC,Player Character,Who are you?,당신은 누구신가요?,q5b_priest,,q5a_priest1,,,0,0
+82767,PC,Player Character,Tell me about Ao.,에이오에 대해 말해주세요.,q5b_priest,,q5b_pcnotgod,,,0,0
+82768,PC,Player Character,I have some other things I want to know about.,알고 싶은 다른 것들이 있습니다.,q5b_priest,,,,,0,0
+82769,PC,Player Character,How does one become a follower of Ao?,어떻게 에이오의 신도가 되나요?,q5b_priest,,,,,0,0
+82770,PC,Player Character,Can I try this test?,이 시험을 해볼 수 있을까요?,q5b_priest,,,,,0,0
+82771,PC,Player Character,Pain.,고통.,q5b_priest,,,,,0,0
+82772,PC,Player Character,Entropy.,엔트로피.,q5b_priest,,,,,0,0
+82773,PC,Player Character,Struggle.,투쟁.,q5b_priest,,,,,0,0
+82774,PC,Player Character,Death.,죽음.,q5b_priest,,,,,0,0
+82775,PC,Player Character,Thought.,사유.,q5b_priest,,,,,0,0
+82776,PC,Player Character,Life.,삶.,q5b_priest,,,,,0,0
+82777,PC,Player Character,Who do you think I am?,제가 누구라고 생각하세요?,q5b_priest,,,,,0,0
+82778,PC,Player Character,What is wrong with you?,뭐가 문제예요?,q5b_priest,,,,,0,0
+82779,PC,Player Character,What are you talking about?,무슨 말씀이세요?,q5b_priest,,,,,0,0
+82780,PC,Player Character,"Yes, you have found me out. I am Ao!","그래, 들켰군. 내가 에이오다!",q5b_priest,,,,,0,0
+82781,PC,Player Character,"What do you think, High Priest?","어떻게 생각하세요, 대사제님?",q5b_priest,,,,,0,0
+82782,PC,Player Character,Why do you think I am Ao?,왜 제가 에이오라고 생각하세요?,q5b_priest,,,,,0,0
+82783,PC,Player Character,I am not Ao!,나는 에이오가 아닙니다!,q5b_priest,,,,,0,0
+82784,PC,Player Character,"Fine then, I am Ao!","좋아요, 내가 에이오입니다!",q5b_priest,,,,,0,0
+82785,PC,Player Character,"You're welcome. Now, I need gifts.","천만에요. 자, 선물이 필요합니다.",q5b_priest,,,,,0,0
+82786,PC,Player Character,Get away from me.,저리 가세요.,q5b_priest,,,,,0,0
+82787,PC,Player Character,Bring me gifts!,선물을 가져오세요!,q5b_priest,,,,,0,0
+82788,PC,Player Character,<StartAction>[Throw a rock at Rifkin to drive him away.]</Start>,<StartAction>[리프킨에게 돌을 던져 쫓아낸다.]</Start>,q5b_priest,,,,,0,0
+82789,PC,Player Character,"Look, everyone just leave me alone!","이봐요, 다들 그냥 날 내버려 둬요!",q5b_priest,,,,,0,0
+82790,PC,Player Character,I didn't start anything!,난 아무것도 시작 안 했어요!,q5b_priest,,,,,0,0
+82791,PC,Player Character,Me? How did I start this?,저요? 제가 어떻게 이걸 시작했다는 거죠?,q5b_priest,,,,,0,0
+82792,PC,Player Character,"I don't care, just go away.","상관없어요, 그냥 저리 가세요.",q5b_priest,,,,,0,0
+82793,PC,Player Character,Why do you worship Ao?,왜 에이오를 숭배하나요?,q5b_priest,,,,,0,0
+82794,PC,Player Character,What benefit is there to worshipping Ao?,에이오를 숭배하면 어떤 이점이 있나요?,q5b_priest,,,,,0,0
+82795,PC,Player Character,Who is Ao?,에이오는 누구인가요?,q5b_priest,,,,,0,0
+82796,PC,Player Character,Why come out here then?,그럼 왜 여기까지 나온 건가요?,q5b_priest,,,,,0,0
+82797,PC,Player Character,What do you mean?,무슨 말씀이세요?,q5b_priest,,,,,0,0
+82798,PC,Player Character,What foolishness?,무슨 어리석음이요?,q5b_priest,,,,,0,0

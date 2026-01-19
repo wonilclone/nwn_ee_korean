@@ -1,0 +1,33 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+82178,PC,Player Character,"Not soon enough, in my opinion.",내 생각엔 아직도 늦었어.,q5_torias,,,,,0,0
+82179,PC,Player Character,A good friend? Who are you kidding?,좋은 친구? 누구 놀리는 거야?,q5_torias,,,,,0,0
+82180,PC,Player Character,Spit it out.,어서 말해 봐.,q5_torias,,,,,0,0
+82181,PC,Player Character,That I would get you some of this wine?,그 와인 좀 구해 달라는 거?,q5_torias,,,,,0,0
+82182,PC,Player Character,I'll see what I can do.,뭐 해볼게.,q5_torias,,,,,0,0
+82183,PC,Player Character,I should go.,이제 갈게.,q5_torias,,,,,0,0
+82184,PC,Player Character,I'd like to see what you have for sale.,뭘 파는지 좀 보자.,q5_torias,,q1_torias_shop01,,,0,0
+82185,PC,Player Character,"Forget it. I have better things to do than ""hooking you up"".",됐어. 너한테 '술 구해다 주는' 것보다 할 일이 많아.,q5_torias,,,,,0,0
+82186,PC,Player Character,"<StartAction>[Sigh.]</Start> Fine, fine. I'll look into it.","<StartAction>[한숨을 쉰다.]</Start> 알았어, 알았어. 알아볼게.",q5_torias,,,,,0,0
+82187,PC,Player Character,What's in it for me if I get this wine for you?,그 와인 구해 주면 나한테 뭐가 좋은데?,q5_torias,,,,,0,0
+82188,PC,Player Character,And just how would I get you this wine?,그 와인을 어떻게 구한다는 거야?,q5_torias,,,,,0,0
+82189,PC,Player Character,"Maybe it's time you slowed down on the drinking, Torias.","술 좀 줄일 때 된 것 같은데, 토리아스.",q5_torias,,,,,0,0
+82190,PC,Player Character,"Fine, fine. Drink away... what do I care?","좋아, 좋아. 실컷 마셔... 내가 알 바 아니지.",q5_torias,,,,,0,0
+82191,PC,Player Character,"<StartCheck>[Persuade]</Start> I'm concerned about you, Torias, that's all.","<StartCheck>[설득]</Start> 그냥 걱정돼서 그래, 토리아스.",q5_torias,x0_d1_didgoodmed,,,,0,0
+82192,PC,Player Character,"No, not really.","아니, 별로.",q5_torias,,,,,0,0
+82193,PC,Player Character,"Yes, I am.","응, 그래.",q5_torias,,,,,0,0
+82194,PC,Player Character,Congratulations.,축하해.,q5_torias,,,,,0,0
+82195,PC,Player Character,I'll believe it when I see it.,직접 봐야 믿지.,q5_torias,,,,,0,0
+82196,PC,Player Character,Sounds great.,좋은데.,q5_torias,,,,,0,0
+82197,PC,Player Character,What makes you think we're friends?,우리가 친구라고 생각하는 이유가 뭔데?,q5_torias,,,,,0,0
+82198,PC,Player Character,"Of course, I'll do whatever I can.","당연하지, 뭐든 도와줄게.",q5_torias,,,,,0,0
+82199,PC,Player Character,"What do you want, Torias?","뭘 원하는데, 토리아스?",q5_torias,,,,,0,0
+82200,PC,Player Character,Out with it.,빨리 말해.,q5_torias,,,,,0,0
+82201,PC,Player Character,"I guess I will, at that.",그럴 것 같네.,q5_torias,,,,,0,0
+82202,PC,Player Character,We might meet each other again.,또 볼 수도 있겠지.,q5_torias,,,,,0,0
+82203,PC,Player Character,What's the problem?,무슨 문제야?,q5_torias,,,,,0,0
+82204,PC,Player Character,I said no and I meant it.,안 된다고 했잖아.,q5_torias,,,,,0,0
+82205,PC,Player Character,Not really.,"아니, 별로.",q5_torias,,,,,0,0
+82206,PC,Player Character,"No, not yet.","아니, 아직.",q5_torias,,,,,0,0
+82207,PC,Player Character,"No, and I don't intend on looking, either.","아니, 찾을 생각도 없어.",q5_torias,,,,,0,0
+82208,PC,Player Character,"I have a bottle right here, in fact.",마침 여기 한 병 있는데.,q5_torias,,q5a_hasbottle,,,0,0
+82209,PC,Player Character,Sure. Hit me.,그래. 말해 봐.,q5_torias,,,,,0,0

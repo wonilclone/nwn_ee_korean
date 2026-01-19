@@ -1,0 +1,76 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36255,PC,Player Character,What's your name?,"이름이 뭐지?",m2q3e_pete,,[지능 보통],,,0,0
+36256,PC,Player Character,Can I ask you some questions?,"몇 가지 물어봐도 되겠나?",m2q3e_pete,,[지능 보통],,,0,0
+36257,PC,Player Character,I need some directions.,"길 좀 알려줘.",m2q3e_pete,,[지능 보통],,,0,0
+36258,PC,Player Character,"Uh, what your name?","어, 이름 뭐야?",m2q3e_pete,,[지능 낮음],,,0,0
+36259,PC,Player Character,"Me have questions, okay?","나 물어볼 거 있어, 알았지?",m2q3e_pete,,[지능 낮음],,,0,0
+36260,PC,Player Character,Me lost. This be big place.,"나 길 잃었어. 여기 진짜 커.",m2q3e_pete,,[지능 낮음],,,0,0
+36261,PC,Player Character,Goodbye.,"잘 있어.",m2q3e_pete,,,,,0,0
+36262,PC,Player Character,"Hi, I'm <FirstName>.","안녕, 난 <FirstName>이야.",m2q3e_pete,,[지능 보통],,,0,0
+36263,PC,Player Character,You may call me <FullName>.,"<FullName>이라고 부르면 돼.",m2q3e_pete,,[지능 보통],,,0,0
+36264,PC,Player Character,"Sorry, I generally don't give out my name.","미안, 원래 이름은 안 알려줘.",m2q3e_pete,,[매력 중간/지능 중간],,,0,0
+36265,PC,Player Character,"Forget it, I'm not telling you who I am.","됐어, 내가 누군지 안 알려줄 거야.",m2q3e_pete,,[매력 낮음/지능 중간],,,0,0
+36266,PC,Player Character,"Uh, me is <FirstName>, yuh?","어, 나는 <FirstName>, 응?",m2q3e_pete,,[지능 낮음],,,0,0
+36267,PC,Player Character,"Me called <FullName>, yuh? Me happy to meet you.","나는 <FullName>, 응? 만나서 반가워.",m2q3e_pete,,[지능 낮음],,,0,0
+36268,PC,Player Character,"Sorry, me no like saying name. Too many letters.","미안, 나 이름 말하기 싫어. 글자 너무 많아.",m2q3e_pete,,[매력 중간/지능 낮음],,,0,0
+36269,PC,Player Character,Hmph. Me no tell you nothing.,"흥. 나 아무것도 안 알려줘.",m2q3e_pete,,[매력 낮음/지능 낮음],,,0,0
+36270,PC,Player Character,What kind of trouble?,"무슨 문제인데?",m2q3e_pete,,[지능 보통],,,0,0
+36271,PC,Player Character,What troubles you tell of?,"무슨 문제 말하는 거야?",m2q3e_pete,,[지능 낮음],,,0,0
+36272,PC,Player Character,Where can I find these wolves?,"그 늑대들은 어디서 찾을 수 있어?",m2q3e_pete,,[지능 보통],,,0,0
+36273,PC,Player Character,That doesn't seem like a whole lot of money.,"돈이 그리 많은 것 같진 않은데.",m2q3e_pete,,[지능 보통],,,0,0
+36274,PC,Player Character,<StartCheck>[Persuade]</Start> Maybe if I you gave a bit of an advance... ,"<StartCheck>[설득]</Start> 선금을 좀 주면...",m2q3e_pete,,[지능 보통],,,0,0
+36275,PC,Player Character,What kind of threat do these wolves pose?,"그 늑대들이 어떤 위협이 되는 거지?",m2q3e_pete,,[지능 보통],,,0,0
+36276,PC,Player Character,"Sure, that sounds like something I could do.","알았어, 내가 할 수 있을 것 같아.",m2q3e_pete,,[지능 보통],,,0,0
+36277,PC,Player Character,"Sorry, it doesn't sound like high adventure... ","미안, 별로 대단한 모험 같진 않은데...",m2q3e_pete,,[지능 보통],,,0,0
+36278,PC,Player Character,"Uh, how me find dese wolfies?","어, 나 그 늑대들 어떻게 찾아?",m2q3e_pete,,[지능 낮음],,,0,0
+36279,PC,Player Character,"Uh, that don't sound like heap load of money....","어, 그거 돈 많은 것 같지 않아...",m2q3e_pete,,[지능 낮음],,,0,0
+36280,PC,Player Character,"<StartCheck>[Persuade]</Start> Maybe you give me gold first, yuh?","<StartCheck>[설득]</Start> 금화 먼저 주면, 응?",m2q3e_pete,,[지능 낮음],,,0,0
+36281,PC,Player Character,There be other dangers?,"다른 위험도 있어?",m2q3e_pete,,[지능 낮음],,,0,0
+36282,PC,Player Character,"Yuh, me do it.","응, 나 할게.",m2q3e_pete,,[지능 낮음],,,0,0
+36283,PC,Player Character,"Uh, me rather not do that... ","어, 나 그거 안 하고 싶어...",m2q3e_pete,,[지능 낮음],,,0,0
+36284,PC,Player Character,What was it that you had wanted me to do?,"내가 뭘 해주길 바랬었지?",m2q3e_pete,,[지능 보통],,,0,0
+36285,PC,Player Character,"Actually, I have Silverback's head right here.","사실, 은빛등의 머리를 여기 갖고 있어.",m2q3e_pete,,nw_d2_j_genohedn,,,0,0
+36286,PC,Player Character,I've changed my mind. I'll look into your troubles.,"마음이 바뀌었어. 그 문제를 해결해 줄게.",m2q3e_pete,,[지능 보통],,,0,0
+36287,PC,Player Character,"Sorry, it still doesn't sound like my game. ","미안, 여전히 내 취향은 아닌 것 같아.",m2q3e_pete,,[지능 보통],,,0,0
+36288,PC,Player Character,"Uh, what you want again?","어, 뭘 원한다고 했지?",m2q3e_pete,,[지능 낮음],,,0,0
+36289,PC,Player Character,Me have wolfie head right here.,"나 늑대 머리 여기 있어.",m2q3e_pete,,nw_d2_j_genohedl,,,0,0
+36290,PC,Player Character,"Me want to help with trouble now, okay?","나 이제 문제 도와주고 싶어, 알았지?",m2q3e_pete,,[지능 낮음],,,0,0
+36291,PC,Player Character,Me still no interested in yer troubles.,"나 아직도 네 문제 관심 없어.",m2q3e_pete,,[지능 낮음],,,0,0
+36292,PC,Player Character,"That'll do, Pete. That'll do.","됐어, 피트. 됐어.",m2q3e_pete,,[지능 보통],,,0,0
+36293,PC,Player Character,<StartCheck>[Persuade]</Start> I think I've earned a higher reward than that.,"<StartCheck>[설득]</Start> 그것보다 더 높은 보상을 받을 자격이 있다고 생각해.",m2q3e_pete,,[지능 보통],,,0,0
+36294,PC,Player Character,"More money, fool, or I'll have your head, too! ","돈 더 내놔, 바보야, 아니면 네 머리도 가져갈 거야!",m2q3e_pete,nw_d1_small_evil,[지능 보통],,,0,0
+36295,PC,Player Character,"Yuh, that be all right.","응, 그거면 됐어.",m2q3e_pete,,[지능 낮음],,,0,0
+36296,PC,Player Character,"<StartCheck>[Persuade]</Start> Me have hard time. You give more money, yuh?","<StartCheck>[설득]</Start> 나 힘들었어. 돈 더 줘, 응?",m2q3e_pete,,[지능 낮음],,,0,0
+36297,PC,Player Character,You give more gold or me start taking more heads!,"금화 더 줘 아니면 나 머리 더 가져갈 거야!",m2q3e_pete,nw_d1_small_evil,[지능 낮음],,,0,0
+36298,PC,Player Character,No reward necessary. The joy of the hunt was reward enough.,"보상은 필요 없어. 사냥의 즐거움만으로 충분해.",m2q3e_pete,nw_d1_small_good,[지능 보통],,,0,0
+36299,PC,Player Character,Me no need money. Me have enough fun chasing wolfies.,"나 돈 필요 없어. 늑대 쫓는 거 재밌었어.",m2q3e_pete,nw_d1_small_good,[지능 낮음],,,0,0
+36300,PC,Player Character [M2Q5C],Where do I find these wolves again?,"그 늑대들 어디서 찾는다고 했지?",m2q3e_pete,,m2q5cs_pete001,[M2Q5C],,0,0
+36301,PC,Player Character [M2Q5C],I'll be back after I find the wolf.,"늑대를 찾고 돌아올게.",m2q3e_pete,,m2q5cs_pete001,[M2Q5C],,0,0
+36302,PC,Player Character,No. It still seems like too much trouble.,"아니. 여전히 너무 번거로워 보여.",m2q3e_pete,,[지능 보통],,,0,0
+36303,PC,Player Character [M2Q5C],Where me find these wolfies?,"나 그 늑대들 어디서 찾아?",m2q3e_pete,,m2q5cs_pete002,[M2Q5C],,0,0
+36304,PC,Player Character [M2Q5C],"Me find you big bad wolf soon, yuh?","나 곧 큰 나쁜 늑대 찾아올게, 응?",m2q3e_pete,,m2q5cs_pete002,[M2Q5C],,0,0
+36305,PC,Player Character,No. That trouble be too much... trouble.,"아니. 그 문제는 너무... 문제야.",m2q3e_pete,,[지능 낮음],,,0,0
+36306,PC,Player Character,Mind if I ask you a few more questions?,"몇 가지 더 물어봐도 될까?",m2q3e_pete,,[지능 보통],,,0,0
+36307,PC,Player Character,"Me ask questions, yuh?","나 질문해도 돼, 응?",m2q3e_pete,,[지능 낮음],,,0,0
+36308,PC,Player Character,I'd like to ask you a few questions.,"몇 가지 물어보고 싶은데.",m2q3e_pete,,[지능 낮음],,,0,0
+36309,PC,Player Character,"Me ask you questions, yuh?","나 너한테 질문해, 응?",m2q3e_pete,,[지능 보통],,,0,0
+36310,PC,Player Character [M2Q3E],Well I didn't kill Silverback but I did speak with her... ,"은빛등을 죽이진 않았지만 대화는 했어...",m2q3e_pete,,m2q3e_petec1,[M2Q3E],,0,0
+36311,PC,Player Character [M2Q3E],"Well... Me no kill wolfie but me speak with her, yuh?","음... 나 늑대 안 죽였어 근데 얘기했어, 응?",m2q3e_pete,,m2q3e_petec2,[M2Q3E],,0,0
+36312,PC,Player Character,<StartCheck>[Persuade]</Start> She gave me her word. She'll stick to it.,"<StartCheck>[설득]</Start> 그녀가 약속했어. 지킬 거야.",m2q3e_pete,,[지능 보통],,,0,0
+36313,PC,Player Character,"<StartCheck>[Persuade]</Start> She give me her word, yuh? She stick to it.","<StartCheck>[설득]</Start> 그녀가 약속했어, 응? 지킬 거야.",m2q3e_pete,,[지능 낮음],,,0,0
+36314,PC,Player Character,"Fine, I'll get you her head... ","좋아, 그녀의 머리를 가져다 줄게...",m2q3e_pete,,[지능 보통],,,0,0
+36315,PC,Player Character,"*Sigh* Okay, me get you her head, then.","(한숨) 알았어, 나 그녀 머리 가져다 줄게.",m2q3e_pete,,[지능 낮음],,,0,0
+36316,PC,Player Character,"Find someone else, then, because I'm not killing her... ","그럼 다른 사람 찾아, 난 그녀를 죽이지 않을 거니까...",m2q3e_pete,,[지능 보통],,,0,0
+36317,PC,Player Character,"Find some other <lad/lass>. Me not kill her, okay?","다른 사람 찾아. 나 그녀 안 죽여, 알았지?",m2q3e_pete,,[지능 낮음],,,0,0
+36318,PC,Player Character,"Regardless, I have a few questions.","어쨌든, 몇 가지 질문이 있어.",m2q3e_pete,,[지능 보통],,,0,0
+36319,PC,Player Character,"Okay, but me still have questions, yuh?","알았어, 근데 나 아직 질문 있어, 응?",m2q3e_pete,,[지능 낮음],,,0,0
+36320,PC,Player Character,"More money, fool, or I'll take your head instead of the wolf's!","돈 더 내놔, 바보야, 아니면 늑대 대신 네 머리를 가져갈 거야!",m2q3e_pete,nw_d1_small_evil,[지능 보통],,,0,0
+36321,PC,Player Character,No reward necessary. That I helped both you and Silverback is enough for me.,"보상은 필요 없어. 너와 은빛등 둘 다 도운 것만으로 충분해.",m2q3e_pete,nw_d1_small_good,[지능 보통],,,0,0
+36322,PC,Player Character,You give more gold or me take your head instead!,"금화 더 줘 아니면 네 머리 가져갈 거야!",m2q3e_pete,nw_d1_small_evil,[지능 낮음],,,0,0
+36323,PC,Player Character,Me no need money. Me just glad you an' Silverback be friends now.,"나 돈 필요 없어. 나 그냥 너랑 은빛등이 친구 된 거 기뻐.",m2q3e_pete,nw_d1_small_good,[지능 낮음],,,0,0
+36324,PC,Player Character,I have some questions about your troubles.,"네 문제에 대해 몇 가지 물어볼 게 있어.",m2q3e_pete,,[지능 보통],,,0,0
+36325,PC,Player Character,Me have questions 'bout the troubles you having.,"나 네가 겪는 문제에 대해 질문 있어.",m2q3e_pete,,[지능 낮음],,,0,0
+36326,PC,Player Character,"All right, that's enough information to make a decision on.","알았어, 결정하기에 충분한 정보야.",m2q3e_pete,,[지능 보통],,,0,0
+36327,PC,Player Character,"You talk enough, yuh? Me decide now.","말 충분히 했어, 응? 나 이제 결정할게.",m2q3e_pete,,[지능 낮음],,,0,0
+36328,PC,Player Character,How many cattle do you have?,"소가 몇 마리나 있어?",m2q3e_pete,,[지능 보통],,,0,0
+36329,PC,Player Character,"Uh, how many moo-cows you got?","어, 소 몇 마리 있어?",m2q3e_pete,,[지능 낮음],,,0,0

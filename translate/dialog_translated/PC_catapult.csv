@@ -1,0 +1,39 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+95565,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,catapult,,,,,0,0
+95566,PC,Player Character,<StartAction>Turn the catapult counter-clockwise.</Start>,<StartAction>투석기를 반시계 방향으로 돌립니다.</Start>,catapult,hx_cat_c_clock,,,,0,0
+95567,PC,Player Character,<StartAction>Turn the catapult clockwise.</Start>,<StartAction>투석기를 시계 방향으로 돌립니다.</Start>,catapult,hx_cat_clock,,,,0,0
+95568,PC,Player Character,<StartAction>Fire the catapult.</Start>,<StartAction>투석기를 발사합니다.</Start>,catapult,hx_cata_fire,,,,0,0
+104179,PC,Player Character,Leave the catapult.,투석기에서 떠납니다.,catapult,,,,,0,0
+104180,PC,Player Character,Move the catapult.,투석기를 이동시킨다.,catapult,,con_never,,,0,0
+104181,PC,Player Character,Backwards.,뒤로.,catapult,cat_move_back,,,,0,0
+104182,PC,Player Character,Forwards.,앞으로.,catapult,cat_move_for,,,,0,0
+104183,PC,Player Character,Adjust Range.,거리 조정.,catapult,,,,,0,0
+104184,PC,Player Character,-1 meters.,-1미터.,catapult,cat_range_-1,,,,0,0
+104185,PC,Player Character,-2 meters.,-2미터.,catapult,cat_range_-2,,,,0,0
+104186,PC,Player Character,-5 meters.,-5미터.,catapult,cat_range_-5,,,,0,0
+104187,PC,Player Character,-10 meters.,-10미터.,catapult,cat_range_-10,,,,0,0
+104188,PC,Player Character,+10 meters.,+10미터.,catapult,cat_range_+10,,,,0,0
+104189,PC,Player Character,+5 meters.,+5미터.,catapult,cat_range_+5,,,,0,0
+104190,PC,Player Character,+2 meters.,+2미터.,catapult,cat_range_+2,,,,0,0
+104191,PC,Player Character,+1 meter.,+1미터.,catapult,cat_range_+1,,,,0,0
+104192,PC,Player Character,Adjust Direction.,방향 조정.,catapult,,,,,0,0
+104193,PC,Player Character,Cancel.,취소.,catapult,,,,,0,0
+104194,PC,Player Character,Counter-Clockwise.,반시계 방향.,catapult,,,,,0,0
+104195,PC,Player Character,180*,180도,catapult,cat_count_180,,,,0,0
+104196,PC,Player Character,135*,135도,catapult,cat_count_135,,,,0,0
+104197,PC,Player Character,90*,90도,catapult,cat_count_90,,,,0,0
+104198,PC,Player Character,45*,45도,catapult,cat_count_45,,,,0,0
+104199,PC,Player Character,20*,20도,catapult,cat_count_20,,,,0,0
+104200,PC,Player Character,10*,10도,catapult,cat_count_10,,,,0,0
+104201,PC,Player Character,5*,5도,catapult,cat_count_5,,,,0,0
+104202,PC,Player Character,1*,1도,catapult,cat_count_1,,,,0,0
+104203,PC,Player Character,Clockwise.,시계 방향.,catapult,,,,,0,0
+104204,PC,Player Character,180*,180도,catapult,cat_clock_180,,,,0,0
+104205,PC,Player Character,135*,135도,catapult,cat_clock_135,,,,0,0
+104206,PC,Player Character,90*,90도,catapult,cat_clock_90,,,,0,0
+104207,PC,Player Character,45*,45도,catapult,cat_clock_45,,,,0,0
+104208,PC,Player Character,20*,20도,catapult,cat_clock_20,,,,0,0
+104209,PC,Player Character,10*,10도,catapult,cat_clock_10,,,,0,0
+104210,PC,Player Character,5*,5도,catapult,cat_clock_5,,,,0,0
+104211,PC,Player Character,1*,1도,catapult,cat_clock_1,,,,0,0
+104212,PC,Player Character,Fire the catapult.,투석기를 발사한다.,catapult,cat_fire!!!,,,,0,0

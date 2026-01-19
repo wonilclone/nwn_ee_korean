@@ -1,0 +1,67 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+42260,PC,Player Character,Grovelling won't save your worthless hide! Die!,빌어봤자 그 하찮은 목숨 못 구해! 죽어!,2q6c_rimardo,,[지능 보통],,,0,0
+42261,PC,Player Character,"Answer my questions, then.","그럼 내 질문에 대답해.",2q6c_rimardo,,[지능 보통],,,0,0
+42262,PC,Player Character,Me still kill you! You die now!,나 여전히 죽일 거야! 이제 죽어!,2q6c_rimardo,,[지능 낮음],,,0,0
+42263,PC,Player Character,"You answer me question me let you live, maybe.",질문에 대답하면 살려줄지도.,2q6c_rimardo,,[지능 낮음],,,0,0
+42264,PC,Player Character,Where is Maugrim?,모그림은 어디 있어?,2q6c_rimardo,,[지능 보통],,,0,0
+42265,PC,Player Character,Where be Maugrim?,모그림 어디 있어?,2q6c_rimardo,,[지능 낮음],,,0,0
+42266,PC,Player Character,What does this cult want? Why are they doing all this?,사교가 원하는 게 뭐야? 왜 이런 짓을 하는 거지?,2q6c_rimardo,,[지능 보통],,,0,0
+42267,PC,Player Character,What cult want? Why they do this?,사교 뭐 원해? 왜 이래?,2q6c_rimardo,,[지능 낮음],,,0,0
+42268,PC,Player Character,Tell me what you know.,아는 거 다 말해.,2q6c_rimardo,,[지능 보통],,,0,0
+42269,PC,Player Character,"You talk, now.",말해. 지금.,2q6c_rimardo,,[지능 낮음],,,0,0
+42270,PC,Player Character,"Fine, I want to ask you something else.","좋아, 다른 걸 물어볼게.",2q6c_rimardo,,[지능 보통],,,0,0
+42271,PC,Player Character,"Okay, me want ask other stuff.","알았어, 다른 거 물어볼래.",2q6c_rimardo,,[지능 낮음],,,0,0
+42272,PC,Player Character,<StartCheck>[Persuade]</Start> Your life is in my hands. You had best tell me all you know.,<StartCheck>[설득]</Start> 네 목숨은 내 손에 달렸어. 아는 거 다 말하는 게 좋을 거야.,2q6c_rimardo,,[지능 보통],,,0,0
+42273,PC,Player Character,<StartCheck>[Persuade]</Start> You life in me hands. You no keep secret...,<StartCheck>[설득]</Start> 네 목숨 내 손에 있어. 비밀 숨기지 마...,2q6c_rimardo,,[지능 낮음],,,0,0
+42274,PC,Player Character,Either you start talking or I start removing your fingers!,말하든지 손가락을 하나씩 자르든지!,2q6c_rimardo,nw_d1_small_evil,[지능 보통],,,0,0
+42275,PC,Player Character,You talk or me hack off you fingers!,말해 안 그러면 손가락 잘라!,2q6c_rimardo,nw_d1_small_evil,[지능 낮음],,,0,0
+42276,PC,Player Character,<StartCheck>[Insight]</Start> You needn't fear reprisal from Maugrim. I intend to kill him.,<StartCheck>[통찰]</Start> 모그림의 보복은 걱정 안 해도 돼. 그를 죽일 생각이니까.,2q6c_rimardo,,nw_d2_wis_intn,,,0,0
+42281,PC,Player Character,I want more information on the cult.,사교에 대해 더 알고 싶어.,2q6c_rimardo,,[지능 보통],,,0,0
+42283,PC,Player Character,Me wants to know more 'bout cult.,나 사교 더 알고 싶어.,2q6c_rimardo,,[지능 낮음],,,0,0
+42285,PC,Player Character,"Go on... run, and don't come back.","가... 도망쳐. 다시는 돌아오지 마.",2q6c_rimardo,nw_d1_small_good,[지능 보통],,,0,0
+42286,PC,Player Character,"Go, wizard. You run and not comes back!","가, 마법사. 도망쳐. 다시 오지 마!",2q6c_rimardo,nw_d1_small_good,[지능 낮음],,,0,0
+42287,PC,Player Character,"Give me everything of worth you have, wizard.","가진 것 중 값어치 있는 건 다 내놔, 마법사.",2q6c_rimardo,,2q4_rimardo01,,,0,0
+42288,PC,Player Character,"You gives me all good stuff you has, wizard.","좋은 거 다 내놔, 마법사.",2q6c_rimardo,,2q4_rimardo02,,,0,0
+42289,PC,Player Character,"I have questions I want answered, first.",먼저 물어볼 게 있어.,2q6c_rimardo,,[지능 보통],,,0,0
+42290,PC,Player Character,"Me has questions, first.","먼저, 질문 있어.",2q6c_rimardo,,[지능 낮음],,,0,0
+42291,PC,Player Character,"I do not trust you, wizard.","널 믿을 수 없어, 마법사.",2q6c_rimardo,,[지능 보통],,,0,0
+42292,PC,Player Character,"Me not trusts you, wizard.","너 못 믿어, 마법사.",2q6c_rimardo,,[지능 낮음],,,0,0
+42293,PC,Player Character,You'd lie and more to save your skin. Forget it!,살려고 뭔 짓이든 하겠지. 됐어!,2q6c_rimardo,nw_d1_small_evil,[지능 보통],,,0,0
+42294,PC,Player Character,You lies! No deal!!,거짓말쟁이! 안 돼!!,2q6c_rimardo,nw_d1_small_evil,[지능 낮음],,,0,0
+42295,PC,Player Character,Tell me who you are.,네가 누군지 말해.,2q6c_rimardo,,[지능 보통],,,0,0
+42296,PC,Player Character,Tell me who you is.,너 누군지 말해.,2q6c_rimardo,,[지능 낮음],,,0,0
+42297,PC,Player Character,I don't have any more questions.,더 이상 질문 없어.,2q6c_rimardo,,[지능 보통],,,0,0
+42298,PC,Player Character,Me has no more questions.,나 질문 더 없어.,2q6c_rimardo,,[지능 낮음],,,0,0
+42299,PC,Player Character,"And what are you doing here now, then?","그럼 지금 여기서 뭘 하고 있는 거야?",2q6c_rimardo,,[지능 보통],,,0,0
+42300,PC,Player Character,Who is this Arklem?,아클렘이 누구야?,2q6c_rimardo,,[지능 보통],,,0,0
+42301,PC,Player Character,Who was Arklem overthrown by?,아클렘을 누가 몰아냈어?,2q6c_rimardo,,[지능 보통],,,0,0
+42302,PC,Player Character,What you do here now?,지금 여기서 뭐 해?,2q6c_rimardo,,[지능 낮음],,,0,0
+42303,PC,Player Character,Who Arklem?,아클렘 누구?,2q6c_rimardo,,[지능 낮음],,,0,0
+42304,PC,Player Character,Who Arklem overthrown by?,아클렘 누가 쫓아냈어?,2q6c_rimardo,,[지능 낮음],,,0,0
+42305,PC,Player Character,I want to know something else.,다른 게 궁금해.,2q6c_rimardo,,[지능 보통],,,0,0
+42306,PC,Player Character,Me wants to know something else.,나 다른 거 궁금해.,2q6c_rimardo,,[지능 낮음],,,0,0
+42307,PC,Player Character,Tell me more about Maugrim.,모그림에 대해 더 말해.,2q6c_rimardo,,[지능 보통],,,0,0
+42308,PC,Player Character,Why would he need an army?,왜 군대가 필요한 거지?,2q6c_rimardo,,[지능 보통],,,0,0
+42309,PC,Player Character,Tell me more 'bout Maugrim.,모그림 더 말해.,2q6c_rimardo,,[지능 낮음],,,0,0
+42310,PC,Player Character,Why he needs army?,왜 군대 필요해?,2q6c_rimardo,,[지능 낮음],,,0,0
+42311,PC,Player Character,Just how did the cult manage to take over?,사교가 어떻게 장악한 거야?,2q6c_rimardo,,[지능 보통],,,0,0
+42312,PC,Player Character,Just how cult takes tower over?,사교 어떻게 탑 차지했어?,2q6c_rimardo,,[지능 낮음],,,0,0
+42313,PC,Player Character,Who are his supporters?,지지자가 누구야?,2q6c_rimardo,,[지능 보통],,,0,0
+42314,PC,Player Character,Who he gots with him?,누가 같이 있어?,2q6c_rimardo,,[지능 낮음],,,0,0
+42315,PC,Player Character,Why would he need an army?,왜 군대가 필요한 거지?,2q6c_rimardo,,[지능 보통],,,0,0
+42316,PC,Player Character,Why he needs army?,왜 군대 필요해?,2q6c_rimardo,,[지능 낮음],,,0,0
+42317,PC,Player Character,Are you telling me everything you know?,아는 거 다 말하고 있는 거야?,2q6c_rimardo,,2q6_rimardo03,,,0,0
+42318,PC,Player Character,You tells me all you knows?,아는 거 다 말했어?,2q6c_rimardo,,2q6_rimardo04,,,0,0
+42319,PC,Player Character,You are lying. You know more than you're saying.,거짓말하고 있어. 말한 것보다 더 알잖아.,2q6c_rimardo,,2q6_rimardo01,,,0,0
+42320,PC,Player Character,You lies. You knows more than you says.,거짓말해. 더 알잖아.,2q6c_rimardo,,2q6_rimardo02,,,0,0
+42321,PC,Player Character,I knew it! You are lying to me! Time to die!!,그럴 줄 알았어! 거짓말이었구나! 이제 죽어!!,2q6c_rimardo,,[지능 보통],,,0,0
+42322,PC,Player Character,Me knows! You lies still!! You die now!!,알았어! 아직도 거짓말!! 이제 죽어!!,2q6c_rimardo,,[지능 낮음],,,0,0
+42323,PC,Player Character,<StartCheck>[Persuade]</Start> Are you sure you don't want to tell me more?,<StartCheck>[설득]</Start> 정말로 더 말하고 싶지 않은 거야?,2q6c_rimardo,,[지능 보통],,,0,0
+42324,PC,Player Character,<StartCheck>[Persuade]</Start> You is sure you not wants to say more?,<StartCheck>[설득]</Start> 진짜 더 말하기 싫어?,2q6c_rimardo,,[지능 낮음],,,0,0
+42325,PC,Player Character,I despise people who lie to me. I would have to hurt them.,나한테 거짓말하는 놈은 싫어. 혼내줘야겠어.,2q6c_rimardo,nw_d1_small_evil,[지능 보통],,,0,0
+42326,PC,Player Character,"Me hates liars. Me hurts liars, you knows.","나 거짓말쟁이 싫어. 아프게 해, 알지?",2q6c_rimardo,nw_d1_small_evil,[지능 낮음],,,0,0
+42327,PC,Player Character,Fine. Then I guess I'll have to kill you.,좋아. 그럼 죽여야겠군.,2q6c_rimardo,,[지능 보통],,,0,0
+42328,PC,Player Character,"Okay. Me just kills you, then.","알았어. 그냥 죽일게.",2q6c_rimardo,,[지능 낮음],,,0,0
+42329,PC,Player Character,Aribeth?,아리베스?,2q6c_rimardo,,,,,0,0
+60061,PC,Player Character,When Maugrim comes here?,모그림 언제 왔어?,2q6c_rimardo,,[지능 낮음],,,0,0
+60062,PC,Player Character,When did Maugrim arrive?,모그림은 언제 도착했어?,2q6c_rimardo,,[지능 보통],,,0,0

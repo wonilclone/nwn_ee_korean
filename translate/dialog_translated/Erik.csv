@@ -1,0 +1,72 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36011,Creature,Erik,"Hey, who do you think you are barging into a man's room like that! The door was locked for a reason... ","이봐, 남의 방에 이렇게 난입하다니 대체 누구라고 생각하는 거야! 이유가 있어서 문을 잠근 거라고...",M2Q3E_ERIK,nw_d1_j_fetch01,,,,0,0
+36012,Creature,Erik,"Ah, the charming lock-breaker. To what do I owe the pleasure of a return visit?","아, 자물쇠 따는 솜씨 좋은 사람이군. 다시 찾아와 준 이유가 뭐지?",M2Q3E_ERIK,,,,,0,0
+36013,Creature,Erik,"Back so soon, are you lock-breaker? I hope you're not here just to mock me and pull on heartstrings.","벌써 돌아왔어, 자물쇠꾼 양반? 날 놀리고 동정심이나 자아내려고 온 건 아니겠지.",M2Q3E_ERIK,,,,,0,0
+36014,Creature,Erik,"How goes the search? Have you recovered the brooch, or is there something else I can do for you?","일은 어떻게 됐어? 브로치를 찾았어, 아니면 다른 일로 온 거야?",M2Q3E_ERIK,,,,,0,0
+36015,Creature,Erik,*Sigh* Women... And that's all I have to say on the matter... ,*한숨* 여자들이란... 더 할 말이 없어...,M2Q3E_ERIK,,,,,0,0
+36016,Creature,Erik,"It's been good talking to you, <sir/madam>. ",당신과 이야기 나눠서 좋았어요.,M2Q3E_ERIK,,,,,0,0
+36017,Creature,Erik,I guess I'll see you around.,나중에 또 만나겠지.,M2Q3E_ERIK,,,,,0,0
+36018,Creature,Erik,"I'm Erik, Ingo's son. Now, that's as polite as I'm going to be until you tell me why you broke into my room?","난 에릭이야, 잉고의 아들. 자, 이 정도는 예의를 갖춰줄게. 하지만 내 방에 침입한 이유를 말하기 전까지만이야.",M2Q3E_ERIK,,,,,0,0
+36019,Creature,Erik,"We don't hear much out here. I saw a suspicious-looking fellow take the road to Charwood a week back or so, though. Maybe he was one.",이 외진 곳에선 소식이 잘 안 들려. 하지만 일주일 전쯤에 수상한 놈이 그을린숲으로 가는 길을 택하는 걸 봤어. 아마 그런 자였을 거야.,M2Q3E_ERIK,,,,,0,0
+36020,Creature,Erik,"I can't really tell you much else. I'm sorry, but I've got other things on my mind right now. Is there anything else you need?","더 말해줄 건 별로 없어. 미안하지만, 지금 머릿속이 복잡해서. 다른 필요한 거라도 있어?",M2Q3E_ERIK,,,,,0,0
+36021,Creature,Erik,"I know much of the area around here, so I suppose I could help out. Where exactly do you need directions to?","이 근처 지역은 잘 알고 있으니, 도와줄 수는 있을 것 같아. 정확히 어디로 가는 길을 알려드릴까?",M2Q3E_ERIK,,,,,0,0
+36022,Creature,Erik,"The west road? That takes you by the tower of that wizard fellow, Wanev, and eventually on to Port Llast.","서쪽 길? 그쪽으로 가면 마법사 와네브의 탑이 나오고, 그 너머로 가면 라스트 항구가 나와.",M2Q3E_ERIK,,,,,0,0
+36023,Creature,Erik,Anywhere else you need to get to?,다른 곳도 알고 싶어?,M2Q3E_ERIK,,,,,0,0
+36024,Creature,Erik,"Into the woods, that one. Pa says it's haunted and he'd know. Apparently there used to be a village named Charwood in there but I've never seen it... ","숲 속으로 말이지. 아버지가 그곳엔 유령이 나온다고 하셨어. 분명 알고 계실 거야. 옛날에 그을린숲이라는 마을이 거기 있었다는데, 난 본 적이 없어...",M2Q3E_ERIK,,,,,0,0
+36025,Creature,Erik,"Ain't much between here and Port Llast, I'm afraid. We only go in at harvest season. Me, pa, and the O'Deel's are pretty much on our own. The O'deels live just down the road.","여기서 라스트 항구 사이엔 별로 없어. 우린 추수철에만 그쪽에 가거든. 나랑 아버지, 그리고 오딜네 식구들이 여기서 거의 자급자족해. 오딜네는 길 아래쪽에 살아.",M2Q3E_ERIK,,,,,0,0
+36026,Creature,Erik,"I suppose I have the time for a few questions. Try to make it quick, though.",질문 몇 가지 정도는 시간 낼 수 있을 것 같아. 빨리 끝내줘.,M2Q3E_ERIK,,,,,0,0
+36027,Creature,Erik,No surprise there. I imagine someone like you gets lost a fair bit... ,놀랍지도 않네. 당신 같은 사람은 자주 길을 잃을 것 같거든...,M2Q3E_ERIK,,,,,0,0
+36028,Creature,Erik,You? You can't be serious... ,당신이? 농담하는 거 아니지...,M2Q3E_ERIK,,,,,0,0
+36029,Creature,Erik,Hmph. I could sure use a favor right now and maybe you're a <man/woman> who can help. Interested in the details?,"흠. 지금 부탁 하나가 있는데, 당신이 도와줄 수 있을 것 같아. 자세한 얘기 들어볼래?",M2Q3E_ERIK,nw_d1_j_fetch02,,,,0,0
+36030,Creature,Erik,"Your words are a little muddled, but I think I understood you. You want the details, right?","말이 좀 횡설수설이긴 한데, 무슨 뜻인지는 알겠어. 자세한 얘기를 듣고 싶다는 거지?",M2Q3E_ERIK,,,,,0,0
+36031,Creature,Erik,"My pa might have told that I've been feeling a little down, lately. Well he doesn't even know the half of it. Sure, I'm a little heartbroken but... ","아버지가 말씀하셨을지도 모르겠는데, 요즘 기분이 안 좋아. 아버지도 절반도 모르실 거야. 물론 가슴이 좀 아픈 건 맞지만...",M2Q3E_ERIK,nw_d1_j_fetch02,,,,0,0
+36032,Creature,Erik,It's all me pa has left to remind him of my ma... Of all the things to show Constance! *Sigh* I ought to have stuck with wildflowers... ,그건 아버지가 어머니를 추억하시려고 남겨두신 유일한 물건이야... 하필이면 그걸 콘스탄스에게 보여줬다니! *한숨* 야생화나 꺾어다 줄걸...,M2Q3E_ERIK,,,,,0,0
+36033,Creature,Erik,"She wanted to see me ma's brooch, so I brought it over for her. Now the witch won't give it back!",어머니의 브로치를 보고 싶다길래 가져다줬지. 그런데 그 마녀가 돌려주질 않는 거야!,M2Q3E_ERIK,,,,,0,0
+36034,Creature,Erik,"So do you think you could get the brooch? I'll reward whoever brings it to me as well as I can, I promise.","그래서 말인데, 브로치를 찾아올 수 있을 것 같아? 가져다주는 사람한테 최선을 다해서 보답할게. 약속해.",M2Q3E_ERIK,,,,,0,0
+36035,Creature,Erik,You don't know Constance. I don't know if anyone does. It's not money she's after. She just wants to see me beg. Well I won't do it!,콘스탄스를 모르니까 그러는 거야. 누가 알기나 하려나. 그녀가 바라는 건 돈이 아니야. 그냥 내가 빌는 모습을 보고 싶어 하는 거라고. 절대 그러지 않을 거야!,M2Q3E_ERIK,,,,,0,0
+36036,Creature,Erik,"See, she has to learn that people's hearts aren't just toys to be played with... Please? I'll reward you for the brooch, I promise.","있잖아, 그녀는 사람 마음을 가지고 노는 장난감이 아니라는 걸 배워야 해... 제발? 브로치 가져다주면 보답할게. 약속해.",M2Q3E_ERIK,,,,,0,0
+36037,Creature,Erik,"Her hair's the color of cornsilk, her laugh's like the waterfall, her eyes are as blue as the sky... Her heart, though, it's sprung like a bear trap!","머리카락은 옥수수 수염 색깔이고, 웃음소리는 폭포수 같고, 눈동자는 하늘처럼 파래... 하지만 마음은 곰 덫처럼 잔인해!",M2Q3E_ERIK,,,,,0,0
+36038,Creature,Erik,"And thanks to a fool like me, she now has me ma's brooch!!! I'll reward whoever brings it back to me, I swear.","그리고 나 같은 바보 덕분에, 그녀가 지금 어머니의 브로치를 가지고 있어!!! 가져다주는 사람한테 보답할게. 맹세해.",M2Q3E_ERIK,,,,,0,0
+36039,Creature,Erik,"Will you? She's farmer O'Deel's daughter, the one who keeps cattle up by the waterfalls... ","그럴래? 농부 오딜의 딸인데, 폭포 근처에서 소를 키우는 사람이야...",M2Q3E_ERIK,nw_d1_j_fetch03,,,,0,0
+36040,Creature,Erik,"Do whatever it takes to get me ma's brooch back, short of laying a finger on her... *Sigh* Look at me, I still worry for her, even now... ",어떤 방법을 써서든 어머니의 브로치를 되찾아줘. 그녀한테 손가락 하나 대는 건 빼고... *한숨* 날 봐. 지금도 그녀가 걱정되는 거야...,M2Q3E_ERIK,,,,,0,0
+36041,Creature,Erik,Return to me with the brooch and you shall have your reward.,브로치를 가지고 돌아오면 보답을 할게.,M2Q3E_ERIK,,,,,0,0
+36042,Creature,Erik,"Don't worry, you'll get your reward when I get the brooch. You be good on your word, I'll be good on mine.","걱정 마. 브로치를 받으면 보답을 줄 테니까. 당신이 약속을 지키면, 나도 내 약속을 지킬게.",M2Q3E_ERIK,,,,,0,0
+36043,Creature,Erik,"So do I, so do I. But go ahead, ask what you will. I'll do my best to answer.","나도 그래, 나도. 그래도 괜찮아, 궁금한 거 물어봐. 최선을 다해 답해줄게.",M2Q3E_ERIK,,,,,0,0
+36044,Creature,Erik,It's all me pa has left to remind him of me ma... Of all the things to show Constance! *Sigh* I should have stuck with wildflowers... ,그건 아버지가 어머니를 추억하시려고 남겨두신 유일한 물건이야... 하필이면 그걸 콘스탄스에게 보여줬다니! *한숨* 야생화나 꺾어다 줄걸...,M2Q3E_ERIK,,,,,0,0
+36045,Creature,Erik,Anything else before you get that brooch?,브로치를 찾으러 가기 전에 다른 거라도 있어?,M2Q3E_ERIK,,,,,0,0
+36046,Creature,Erik,"She's farmer O'Deel's daughter, the one who keeps cattle up by the waterfalls... Remember, don't hurt her. I just need that brooch back. ","농부 오딜의 딸인데, 폭포 근처에서 소를 키우는 사람이야... 명심해, 그녀한테 해를 끼치진 마. 그냥 브로치만 되찾아오면 돼.",M2Q3E_ERIK,,,,,0,0
+36047,Creature,Erik,"Her hair's the color of cornsilk, her laugh like the waterfall... And her eyes, they're as blue as the sky!","머리카락은 옥수수 수염 색깔이고, 웃음소리는 폭포수 같아... 그리고 눈동자는 하늘처럼 파래!",M2Q3E_ERIK,,,,,0,0
+36048,Creature,Erik,"Well, I don't know that it matters but her pa's been having trouble with wolves, lately. Maybe you can get on his good side if you take care of that.","글쎄, 상관있을지는 모르겠지만 그녀 아버지가 요즘 늑대 때문에 곤란을 겪고 있어. 그 문제를 해결해주면 그쪽에서 호감을 살 수 있을 거야.",M2Q3E_ERIK,,,,,0,0
+36049,Creature,Erik,"I already gave you a job, remember? Get me ma's brooch back from Constance, remember? Sorry, but that's the only job I had to give.","이미 일거리를 하나 줬잖아, 기억 안 나? 콘스탄스한테서 어머니의 브로치를 되찾아오라고 했지, 기억 안 나? 미안하지만, 그게 내가 줄 수 있는 유일한 일이야.",M2Q3E_ERIK,,,,,0,0
+36050,Creature,Erik,Is there anything else you need?,다른 필요한 거라도 있어?,M2Q3E_ERIK,,,,,0,0
+36051,Creature,Erik,I don't believe it! I misjudged you. I thought you were nothing but a slack-jawed city-fool!,믿을 수가 없네! 내가 당신을 잘못 봤어. 그냥 멍청한 도시 바보인 줄 알았는데!,M2Q3E_ERIK,,,,,0,0
+36052,Creature,Erik,"How did you ever manage to convince her!? Actually, nevermind... I probably don't want to know.","대체 어떻게 그녀를 설득한 거야!? 아니, 됐어... 아마 알고 싶지 않을 거야.",M2Q3E_ERIK,,,,,0,0
+36053,Creature,Erik,"Yes, of course. The reward. Here you go: 500 gold pieces in exchange for me ma's old brooch.","그래, 맞아. 보답 말이지. 여기 있어. 어머니의 낡은 브로치 대가로 500금화야.",M2Q3E_ERIK,m2q3e_erika2,,,,0,0
+36054,Creature,Erik,"I must admit, I didn't really like you when we first met but you've proven to be a fine friend. Here you go, 400 gold pieces. ","솔직히 말하면, 처음 만났을 때는 별로였는데 당신은 훌륭한 친구로 증명됐어. 여기 있어, 400금화야.",M2Q3E_ERIK,m2q3e_erika3,,,,0,0
+36055,Creature,Erik,"You've been a good friend to a poor soul down on his luck. Here you go, 650 gold pieces in exchange for the brooch.","불운한 가엾은 영혼에게 좋은 친구가 되어줬어. 여기 있어, 브로치 대가로 650금화야.",M2Q3E_ERIK,m2q3e_erika1,,,,0,0
+36056,Creature,Erik,"<StartCheck>[Success]</Start> I suppose you did earn a little something extra. Very well, here's another 100 gold.","<StartCheck>[성공]</Start> 좀 더 받아도 될 것 같긴 해. 좋아, 여기 100금화 더 줄게.",M2Q3E_ERIK,nw_d1_j_fetch07,,,,0,0
+36057,Creature,Erik,But now I must take my leave. Me pa was getting worried I'd never run those errands for him... ,이제 가봐야겠어. 아버지가 내가 심부름을 안 갈까 봐 걱정하고 계실 거야...,M2Q3E_ERIK,,,,,0,0
+36058,Creature,Erik,"N-now just settle down, there's no need to get upset. No need for unpleasantness. Here, I've got another 100 gold, but that's it. Just take it, it's yours.","자, 진정해. 화낼 필요 없어. 불쾌하게 굴 필요도 없고. 여기, 100금화 더 있어. 그게 전부야. 가져가, 당신 거야.",M2Q3E_ERIK,nw_d1_j_fetch07,,,,0,0
+36059,Creature,Erik,"<StartCheck>[Failure]</Start> Well I'd rather not think about what lengths she made you go to, all right? I think I've been more than fair with my reward.","<StartCheck>[실패]</Start> 글쎄, 그녀가 당신한테 무슨 짓을 시켰는지는 생각하고 싶지 않아, 알겠어? 내 보답이 충분히 공정했다고 생각해.",M2Q3E_ERIK,,,,,0,0
+36060,Creature,Erik,"I suppose it would be cruel of me not to show more gratitude to kin like you. Very well, here's another 100 gold for your troubles.","당신처럼 친절한 사람한테 더 감사를 표하지 않으면 무정하겠지. 좋아, 여기 수고비로 100금화 더 줄게.",M2Q3E_ERIK,nw_d1_j_fetch07,,,,0,0
+36061,Creature,Erik,"It's money I've made off my own plot of land. I was saving it to marry Constance someday but that would be a foolish venture, I'm afraid.","내 땅을 경작해서 번 돈이야. 언젠가 콘스탄스와 결혼하려고 모았었는데, 바보 같은 생각이었던 것 같아.",M2Q3E_ERIK,,,,,0,0
+36062,Creature,Erik,Still needing more directions?,아직도 길 안내가 더 필요해?,M2Q3E_ERIK,,,,,0,0
+36063,Creature,Erik,"Aw, he's all full of hot air. I've seen him at the inn in Port Llast, trying to chat up the women.","아, 그 사람은 허풍쟁이야. 라스트 항구의 여관에서 여자들한테 작업 거는 거 봤거든.",M2Q3E_ERIK,,,,,0,0
+36064,Creature,Erik,I'll bet he's never done an honest day of hard work in his life.,평생 제대로 된 힘든 일은 한 번도 안 해봤을걸.,M2Q3E_ERIK,,,,,0,0
+36065,Creature,Erik,"It's that tease, Constance O'Deel - she knows she has me wrapped around her little finger, so all she does is toy with me. Oh, I'm such a fool... ","그 요부, 콘스탄스 오딜 말이야 - 날 손바닥 위에 올려놓고 논다는 걸 알면서도, 그냥 날 가지고 놀기만 해. 아, 나 정말 바보야...",M2Q3E_ERIK,,,,,0,0
+36066,Creature,Erik,"Forget my stupid heart, if I don't get that brooch back, pa will have my hide instead!",내 멍청한 마음 따윈 잊어버려. 브로치를 되찾지 못하면 아버지한테 혼쭐이 날 거야!,M2Q3E_ERIK,,,,,0,0
+36067,Creature,Erik,"If she were still alive, she probably would have given the brooch to Constance long ago. But ma's not still alive, see? That's the problem... ","어머니가 살아 계셨다면, 아마 진작에 콘스탄스한테 브로치를 주셨겠지. 하지만 어머니는 안 계시잖아, 알겠어? 그게 문제라고...",M2Q3E_ERIK,,,,,0,0
+36068,Creature,Erik,"I feel like I don't know anything anymore. Go ahead, try to buy it from her, maybe it will work. *Sigh* Women are way too complicated... ",이제 아무것도 모르겠어. 가서 그녀한테 돈 주고 사보든지 해봐. 효과가 있을지도 몰라. *한숨* 여자들은 너무 복잡해...,M2Q3E_ERIK,,,,,0,0
+36069,Creature,Erik,"*Sigh* She'd be all over someone like you... Oh, very well. You're sure you're just trying to get the brooch back, right?","*한숨* 당신 같은 사람한테는 넘어갈 거야... 아, 알았어. 정말 그냥 브로치만 되찾으려는 거 맞지?",M2Q3E_ERIK,,,,,0,0
+36070,Creature,Erik,"Hey, if it gets me the brooch and maybe teaches her a lesson or two, who am I to argue. You're sure this is just to get the brooch, though, right?","그래, 브로치를 되찾고 그녀한테 교훈도 줄 수 있다면, 내가 뭐라 하겠어. 정말 그냥 브로치만 찾으려는 거 맞지?",M2Q3E_ERIK,,,,,0,0
+36071,Creature,Erik,"Uh... I really don't think you're her type. Look, all I want is that brooch, let's not get carried away.","어... 난 당신이 그녀 타입은 아닌 것 같은데. 이봐, 난 그냥 브로치만 원해. 너무 나가지 말자고.",M2Q3E_ERIK,,,,,0,0
+40969,Creature,Erik,Erik,에릭,M2Q3E_ERIK,,,,,0,0
+64772,Creature,Erik,"Threats? Great, just what I need. You must be one of those adventurer types.","협박? 좋아, 딱 필요했어. 당신 그런 모험가 부류 중 하나구만.",M2Q3E_ERIK,,,,,0,0
+64773,Creature,Erik,An adventurer are ya? Well go explore somewhere else will ya?,모험가라고? 그럼 다른 데 가서 탐험하는 게 어때?,M2Q3E_ERIK,,,,,0,0
+64774,Creature,Erik,I should have known dad sent ya. He's always worried about me.,아버지가 보낸 줄 알았어야 했는데. 항상 날 걱정하시거든.,M2Q3E_ERIK,,,,,0,0
+64775,Creature,Erik,"Whatever your reason for being here, you can turn around and leave, unless you have something important you want.","여기 온 이유가 뭐든 간에, 돌아서서 나가도 돼. 중요한 일이 없다면 말이야.",M2Q3E_ERIK,,,,,0,0
+64776,Creature,Erik,"What? Oh, sure, I suppose I could do that. I'll pay ya, if you can do it.","뭐라고? 아, 그래. 할 수 있을 것 같아. 해주면 돈 줄게.",M2Q3E_ERIK,,,,,0,0
+64777,Creature,Erik,Hmm... an interesting situation. I've never had a woman break into my room before.,흠... 재미있는 상황이네. 지금까지 여자가 내 방에 침입한 적은 없었거든.,M2Q3E_ERIK,,,,,0,0
+64778,Creature,Erik,"I... um... er... oh, nothing. I can't do anything right now.","난... 어... 음... 아, 아무것도 아니야. 지금 당장은 할 수 있는 게 없어.",M2Q3E_ERIK,,,,,0,0
+64779,Creature,Erik,It's none of your business. What do you want from me?,당신이 상관할 바 아니잖아. 나한테 뭘 원하는데?,M2Q3E_ERIK,,,,,0,0
+64780,Creature,Erik,"Well, that hardly comes as a surprise. Nobody wants me!","뭐, 놀랍지도 않네. 아무도 날 원하지 않아!",M2Q3E_ERIK,,,,,0,0

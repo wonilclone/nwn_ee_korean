@@ -1,0 +1,59 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+27367,Dialog,LONDA,"Please leave me alone, <sir/madam>. I do not wish to speak and I have nothing left to steal, I assure you.","제발 저 좀 내버려 두세요, <sir/madam>. 말하고 싶지 않고 훔칠 것도 남은 게 없어요, 장담해요.",2Q4A_LONDA,,,,vs_nwncomf4_055,0,0
+27368,Dialog,LONDA,"Please forgive me, my <lord/lady>, but I am in no mood to speak. I am sure others here will accomodate you.","용서해 주세요, <lord/lady>, 하지만 말할 기분이 아니에요. 여기 다른 분들이 응대해 드릴 거예요.",2Q4A_LONDA,,,,vs_nwncomf4_053,0,0
+27369,Dialog,LONDA,"I beg you to leave me be, my <lord/lady>. I have nothing to say and nothing left to steal, I assure you.","제발 저 좀 내버려 두세요, <lord/lady>. 할 말도 없고 훔칠 것도 남은 게 없어요, 장담해요.",2Q4A_LONDA,,,,vs_nwncomf4_054,0,0
+27370,Dialog,LONDA,You have my sincere thanks. I only wish to be left to my grief.,진심으로 감사해요. 그저 슬픔에 빠져 있고 싶을 뿐이에요.,2Q4A_LONDA,,,,,0,0
+27371,Dialog,LONDA,"Did you not hear me? I wish to be left alone, <sir/madam>. Please respect that.","제 말 못 들으셨어요? 혼자 있고 싶다고요, <sir/madam>. 존중해 주세요.",2Q4A_LONDA,,,,,0,0
+27372,Dialog,LONDA,"I am... or, rather, I was... the Countess Londa Whitesnow. That means nothing anymore. Now I am merely... Londa.","저는... 아니, 저였던 사람은... 론다 화이트스노우 백작부인이에요. 이제 그건 아무 의미 없어요. 지금 저는 그저... 론다일 뿐이에요.",2Q4A_LONDA,,,,,0,0
+27373,Dialog,LONDA,"(sigh) I see you intend to be persistent. Very well. You wish to know what is wrong? I shall tell you... though my story is not a unique one, here.","(한숨) 끈질기게 구실 셈이군요. 좋아요. 뭐가 문제인지 알고 싶으세요? 말씀드릴게요... 여기서는 흔한 이야기지만.",2Q4A_LONDA,,,,,0,0
+27374,Dialog,LONDA,"That... that is not what I meant at all. In fact, it is quite the opposite. I was once Countess Londa Whitesnow... but now I am... merely Londa.","그... 그런 뜻이 전혀 아니에요. 사실 정반대예요. 저는 한때 론다 화이트스노우 백작부인이었지만... 지금은... 그저 론다일 뿐이에요.",2Q4A_LONDA,,,,,0,0
+27375,Dialog,LONDA,I am grateful. I only wish to be left to my misery.,감사해요. 그저 비참함에 빠져 있고 싶을 뿐이에요.,2Q4A_LONDA,,,,,0,0
+27376,Dialog,LONDA,"You know nothing of me, and obviously you would not understand if you did. Indeed, I have no gold for myself or anyone else any longer. Now begone, and leave me to my misery.","당신은 저에 대해 아무것도 몰라요. 안다 해도 이해하지 못할 거예요. 사실 저 자신이나 다른 누구를 위한 금화도 더 이상 없어요. 이제 가시고 저를 비참함에 내버려 두세요.",2Q4A_LONDA,,,,,0,0
+27377,Dialog,LONDA,"The title is nothing. I would have gladly given it up, and all the wealth that went with it, to still have my family. They are all that gave the others meaning.","작위는 아무것도 아니에요. 가족만 있다면 기꺼이 포기했을 거예요. 그에 따르는 모든 부와 함께요. 가족이야말로 다른 모든 것에 의미를 주는 존재였어요.",2Q4A_LONDA,,,,,0,0
+27378,Dialog,LONDA,"That evil man, High Captain Baram, invaded our home with his soldiers. He desired all our wealth... to pay for his army and his war, no doubt.","그 악한 사람, 대선장 바람이 병사들과 함께 우리 집을 침략했어요. 우리의 모든 재산을 탐냈죠... 틀림없이 군대와 전쟁 비용을 대려고요.",2Q4A_LONDA,,,,,0,0
+27379,Dialog,LONDA,"My husband objected, naturally. Without even a thought, Baram... he... cut my husband down. Murdered him.","남편이 당연히 반대했어요. 생각도 없이, 바람은... 그가... 남편을 베어버렸어요. 살해했어요.",2Q4A_LONDA,,,,,0,0
+27380,Dialog,LONDA,"I still remember his laughter as he took my children... all nine of them... and turned me out of my home. Once he was done with it, he burned it to the ground.","그가 제 아이들을... 아홉 명 모두를... 데려가면서 웃던 게 아직도 기억나요. 저를 집에서 쫓아낸 후 다 끝나자 집을 불태워버렸어요.",2Q4A_LONDA,,,,,0,0
+27381,Dialog,LONDA,"Now my husband is dead, and that fiend holds my children. I know nothing of their fate and have nothing left and nowhere to turn. That is my tale, <sir/madam>.","이제 남편은 죽었고 그 악마가 제 아이들을 잡고 있어요. 아이들의 운명에 대해 아무것도 모르고 남은 것도 없고 기댈 곳도 없어요. 그게 제 이야기예요, <sir/madam>.",2Q4A_LONDA,2q4_londa02,,,,0,0
+27382,Dialog,LONDA,"Aye, it is very sad. I would do anything to have my children back, but Baram will not even see me... and no one can help.","네, 정말 슬퍼요. 아이들을 되찾기 위해서라면 뭐든 할 텐데, 바람은 저를 만나주지도 않아요... 그리고 아무도 도와줄 수 없어요.",2Q4A_LONDA,,,,,0,0
+27383,Dialog,LONDA,"You speak crudely, but it is true enough. I would do anything to have my children back... but Baram will not even see me, and no one can help.","거칠게 말씀하시지만 충분히 사실이에요. 아이들을 되찾기 위해서라면 뭐든 할 텐데... 바람은 저를 만나주지도 않고 아무도 도와줄 수 없어요.",2Q4A_LONDA,,,,,0,0
+27384,Dialog,LONDA,"Forgive me, but that fact currently pales compared to all I have lost. Please... leave me to my misery.","용서하세요, 하지만 그 사실은 제가 잃은 모든 것에 비하면 아무것도 아니에요. 제발... 저를 비참함에 내버려 두세요.",2Q4A_LONDA,,,,,0,0
+27385,Dialog,LONDA,"Aye... life is 'tough' for everyone in Luskan, and we should all just bear through it, is that what you mean? Just... leave me be, <sir/madam>.","네... 러스칸에서는 모두에게 삶이 '힘들다', 그러니 다들 그냥 견뎌야 한다, 그런 뜻인가요? 그냥... 저 좀 내버려 두세요, <sir/madam>.",2Q4A_LONDA,,,,,0,0
+27386,Dialog,LONDA,"Could you? I would give anything to have my children saved from that fiend, or to at least... at least know that they are all right!","그러실 수 있어요? 아이들을 그 악마에게서 구해주신다면 뭐든 드릴게요. 아니면 적어도... 적어도 아이들이 괜찮다는 것만 알 수 있다면!",2Q4A_LONDA,,,,,0,0
+27387,Dialog,LONDA,"I could reward you. I have no coin here, but... my husband had some saved. I know where it is, and I could tell you. It would be enough, I think.","보상해 드릴 수 있어요. 여기는 돈이 없지만... 남편이 모아둔 게 있어요. 어디 있는지 알고 말씀드릴 수 있어요. 충분할 거라 생각해요.",2Q4A_LONDA,,,,,0,0
+27388,Dialog,LONDA,"I am no fool. If that is all there is that will get someone to find my children, then I will never give it up beforehand.","저는 바보가 아니에요. 그게 누군가에게 아이들을 찾게 할 유일한 것이라면 절대 미리 포기하지 않을 거예요.",2Q4A_LONDA,,,,,0,0
+27389,Dialog,LONDA,I... I see. Then leave me alone.,저... 알겠어요. 그럼 저 좀 내버려 두세요.,2Q4A_LONDA,,,,,0,0
+27390,Dialog,LONDA,"I am glad to hear it. Have you any questions for me, then?","그 말을 들으니 기뻐요. 그럼 저한테 질문 있으세요?",2Q4A_LONDA,2q4_londa01,,,,0,0
+27391,Dialog,LONDA,You have given me a glimmer of hope. I... I wish you the best of luck.,희망의 불씨를 주셨어요. 저... 행운을 빌어요.,2Q4A_LONDA,,,,,0,0
+27392,Dialog,LONDA,His men once had a base in the slums... but that was burnt down more than a month ago as the war in the streets went on.,"그의 부하들이 한때 빈민가에 기지를 두었는데... 거리 전쟁이 계속되면서 한 달도 더 전에 불타버렸어요.",2Q4A_LONDA,,,,,0,0
+27393,Dialog,LONDA,"Where he has gone since, I... simply do not know. Some people say he lives in the sewers, now, but I truly hope not.","그 후로 어디로 갔는지 저는... 정말 모르겠어요. 어떤 사람들은 이제 하수구에 산다고 하는데, 정말 아니었으면 좋겠어요.",2Q4A_LONDA,,,,,0,0
+27394,Dialog,LONDA,"No. I have heard no news, and Baram will tell me nothing. He is the only one who would know where they are.","아니요. 아무 소식도 못 들었고 바람은 아무것도 말해주지 않아요. 아이들이 어디 있는지 아는 건 그뿐이에요.",2Q4A_LONDA,,,,,0,0
+27395,Dialog,LONDA,I... wish I knew. Perhaps he has some sinister purpose in mind for them... I do not even want to imagine it. I am hoping he has already sent them somewhere or released them and I simply do not know where they are.,"저도... 알았으면 좋겠어요. 어쩌면 아이들에게 무슨 사악한 목적이 있는지도... 상상조차 하고 싶지 않아요. 이미 어딘가로 보냈거나 풀어줬는데 제가 어디 있는지 모르는 거였으면 좋겠어요.",2Q4A_LONDA,,,,,0,0
+27396,Dialog,LONDA,"Aye. The other High Captains who he has fought with these long weeks. Only Kurth remains... but no one is sure where he is. Kurth would want Baram dead, it is certain.","네. 몇 주 동안 싸워온 다른 대선장들이요. 커스만 남았는데... 어디 있는지 아무도 확실히 몰라요. 커스가 바람을 죽이고 싶어한다는 건 확실해요.",2Q4A_LONDA,,,,,0,0
+27397,Dialog,LONDA,"You have heard my sorry tale, <sir/madam>. Is that not enough?","제 불쌍한 이야기를 들으셨잖아요, <sir/madam>. 그것만으로 부족해요?",2Q4A_LONDA,,,,vs_nwncomf4_052,0,0
+27398,Dialog,LONDA,You... return. Have you found my children? Are they safe?,"당신이... 돌아왔군요. 아이들을 찾으셨어요? 안전해요?",2Q4A_LONDA,,,,vs_nwncomf4_051,0,0
+27399,Dialog,LONDA,"I had gotten my hopes up, seeing you. Please find them! I cannot bear not knowing where they are!","당신을 보고 희망을 가졌었어요. 제발 찾아주세요! 어디 있는지 모르는 게 견딜 수가 없어요!",2Q4A_LONDA,,,,,0,0
+27400,Dialog,LONDA,But you are in no hurry. I... I see. I suppose I can expect nothing more from you.,"하지만 서두르지 않으시는군요. 저... 알겠어요. 당신에게 더 이상 기대할 게 없나 봐요.",2Q4A_LONDA,,,,,0,0
+27401,Dialog,LONDA,"That is a great relief... though until I see my children in person, I have my doubts as to whether the fiend is telling the truth.","큰 안도가 되네요... 하지만 아이들을 직접 볼 때까지는 그 악마가 진실을 말하는지 의심이 가요.",2Q4A_LONDA,,,,,0,0
+27402,Dialog,LONDA,Is there any way my children can be rescued? Do you know?,"아이들을 구출할 방법이 있나요? 아세요?",2Q4A_LONDA,,,,,0,0
+27403,Dialog,LONDA,"When you find out more, please tell me. If they are truly safe, I cannot bear to be apart from them! You must rescue them, I beg you!","더 알게 되시면 말씀해 주세요. 정말 안전하다면 떨어져 있는 게 견딜 수 없어요! 구출해 주셔야 해요, 부탁드려요!",2Q4A_LONDA,,,,,0,0
+27404,Dialog,LONDA,Nor do I blame you. I certainly could not ask you to do such a thing. But... surely there must be some way to free them!,탓하지 않아요. 분명 그런 일을 부탁할 수는 없죠. 하지만... 분명 아이들을 풀어줄 방법이 있을 거예요!,2Q4A_LONDA,,,,,0,0
+27405,Dialog,LONDA,"Can you not... sneak into his base, or wherever Baram is? Break the door down, I don't know... just find them, I beg you!","그의 기지든 바람이 어디 있든... 몰래 들어갈 수 없어요? 문을 부수든, 모르겠어요... 그냥 찾아주세요, 부탁드려요!",2Q4A_LONDA,,,,,0,0
+27406,Dialog,LONDA,"You have? I... dare not ask what it is. Whatever you do, free my children and I will be forever grateful. If they are well, I must see them!","그래요? 저는... 감히 뭔지 묻지 못하겠어요. 무엇을 하시든 아이들을 풀어주시면 영원히 감사할 거예요. 아이들이 괜찮다면 꼭 봐야 해요!",2Q4A_LONDA,,,,,0,0
+27407,Dialog,LONDA,"No! No-ooo! Please, my <lord/lady>... do something! I cannot come this close and not find them! Please find my babies!","안 돼요! 안 돼요! 제발, <lord/lady>... 뭐라도 해주세요! 이렇게 가까이 와서 못 찾을 수는 없어요! 제발 제 아이들을 찾아주세요!",2Q4A_LONDA,,,,,0,0
+27408,Dialog,LONDA,They... ate them?,"아이들을... 잡아먹었다고요?",2Q4A_LONDA,,,,,0,0
+27409,Dialog,LONDA,"D-dead? No... no, I don't believe it... ","죽... 죽었다고요? 아니... 아니, 믿을 수 없어요...",2Q4A_LONDA,,,,,0,0
+27410,Dialog,LONDA,"Fine? I... but why not? Bring me to them, then! I must see them!","괜찮다고요? 저는... 하지만 왜 안 되죠? 그럼 데려가 주세요! 봐야 해요!",2Q4A_LONDA,,,,,0,0
+27411,Dialog,LONDA,He... sent them to orphanages? Outside the city?,"그가... 아이들을 고아원에 보냈다고요? 도시 밖으로?",2Q4A_LONDA,,,,,0,0
+27412,Dialog,LONDA,"No. I refuse to believe it. I won't! You have no proof, none, that what you're saying is true!","아니요. 믿지 않을 거예요. 안 믿어요! 당신 말이 사실이라는 증거가, 아무것도 없잖아요!",2Q4A_LONDA,,,,,0,0
+27413,Dialog,LONDA,"Bring me something... anything... that proves what you say and I'll... I'll believe it. Please, my <lord/lady>... I'm begging you!","뭐라도... 아무거라도... 당신 말을 증명하는 걸 가져다주시면... 믿을게요. 제발, <lord/lady>... 부탁드려요!",2Q4A_LONDA,,,,,0,0
+27414,Dialog,LONDA,"But you have... little Tomlen's bear. That's his, without a doubt.","하지만 당신이 가진 건... 어린 톰렌의 곰인형이에요. 틀림없이 그 아이 거예요.",2Q4A_LONDA,,,,,0,0
+27415,Dialog,LONDA,So... what you're saying is... true.,"그러면... 당신 말이... 사실이군요.",2Q4A_LONDA,,,,,0,0
+27416,Dialog,LONDA,And I... shall... wait here. Yes.,"그리고 저는... 여기서... 기다릴게요. 네.",2Q4A_LONDA,,,,,0,0
+27417,Dialog,LONDA,No. You won't get it. I want the proof!,안 돼요. 안 드릴 거예요. 증거를 원해요!,2Q4A_LONDA,,,,,0,0
+27418,Dialog,LONDA,Ah. I... forgive me for... doubting you... ,아. 저는... 의심해서... 용서해 주세요...,2Q4A_LONDA,2q4_londa21,,,,0,0
+27419,Dialog,LONDA,"You wretch! You evil, pathetic <man/woman>! You want my husband's coin, do you?! Is that all you desire?! Then here... take the key to his vault!","이 악당! 사악하고 한심한 <man/woman>! 남편의 돈을 원하는 거죠?! 그게 원하는 전부예요?! 그럼 여기... 금고 열쇠나 가져가요!",2Q4A_LONDA,2q4_londa20,,,,0,0
+27420,Dialog,LONDA,"Excuse me, <sir/madam>. I must... I must go.","실례해요, <sir/madam>. 저는... 가야 해요.",2Q4A_LONDA,2q4_londa19,,,,0,0
+27421,Dialog,LONDA,Now I... I must... go. I... excuse me... ,"이제 저는... 가야... 해요. 저... 실례해요...",2Q4A_LONDA,2q4_londa19,,,,0,0
+27422,Dialog,LONDA,Th-thank you for... telling me... the truth. Here is the key to my husband's vault. It is in the sewers... in a long passage north of the water.,"사... 사실을... 말해줘서... 감사해요. 여기 남편 금고 열쇠예요. 하수구에 있어요... 물 북쪽의 긴 통로에.",2Q4A_LONDA,,,,,0,0
+27423,Dialog,LONDA,"Now I must... I must go. I... please, excuse me... ","이제 저는... 가야 해요. 저... 제발, 실례해요...",2Q4A_LONDA,2q4_londa19,,,,0,0
+27424,Dialog,LONDA,I must go. Please... let me go.,가야 해요. 제발... 보내주세요.,2Q4A_LONDA,2q4_londa19,,,vs_nwncomf4_050,0,0

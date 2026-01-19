@@ -1,0 +1,24 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+82295,PC,Player Character,I should go.,이제 가야겠어.,q5a_jasmeena,,,,,0,0
+82296,PC,Player Character,I would like to ask you some questions.,질문 좀 하고 싶어.,q5a_jasmeena,,,,,0,0
+82297,PC,Player Character,Musharak wants to sell this wine of yours.,무샤락이 당신네 포도주를 팔고 싶어 해.,q5a_jasmeena,,q5a_knowmushar2,,,0,0
+82298,PC,Player Character,"Perhaps I'll talk to the minister, then.",그럼 목사한테 얘기해 볼게.,q5a_jasmeena,,,,,0,0
+82299,PC,Player Character,"<StartCheck>[Intimidate]</Start> If you don't want to see these Aoists hurt, you'll do as Musharak wishes.","<StartCheck>[위협]</Start> 에이오 신도들이 다치는 걸 보고 싶지 않으면, 무샤락이 원하는 대로 해.",q5a_jasmeena,,,,,0,0
+82300,PC,Player Character,<StartCheck>[Persuade]</Start> Is there nothing that could change your mind?,<StartCheck>[설득]</Start> 마음을 바꿀 수 있는 방법은 없어?,q5a_jasmeena,q5a_triedpers2,q5a_triedpers,,,0,0
+82301,PC,Player Character,"I'll talk to Musharak, then.",그럼 무샤락한테 얘기해 볼게.,q5a_jasmeena,,,,,0,0
+82302,PC,Player Character,And how am I supposed to convince Musharak to do such a thing?,무샤락을 그렇게 설득하려면 어떻게 해야 하는데?,q5a_jasmeena,,,,,0,0
+82303,PC,Player Character,"And what would the Aoists think of such an arrangement, I wonder?","그런 합의를 에이오 신도들은 어떻게 생각할까, 궁금한데?",q5a_jasmeena,,,,,0,0
+82304,PC,Player Character,But you're the one who grows the wine.,하지만 포도주를 재배하는 건 당신이잖아.,q5a_jasmeena,,,,,0,0
+82305,PC,Player Character,Tell me about this Valley of Winds.,바람의 계곡에 대해 말해줘.,q5a_jasmeena,,q5a_knowvalley2,,,0,0
+82306,PC,Player Character,Why do you say that?,왜 그렇게 말해?,q5a_jasmeena,,,,,0,0
+82307,PC,Player Character,How do I reach this valley?,그 골짜기에 어떻게 가?,q5a_jasmeena,,,,,0,0
+82308,PC,Player Character,So this is where the famous Aoist wine is grown?,여기가 유명한 에이오 신도 포도주가 재배되는 곳이야?,q5a_jasmeena,,,,,0,0
+82309,PC,Player Character,Is there any way I could get some of this wine?,이 포도주를 얻을 방법이 있어?,q5a_jasmeena,,,,,0,0
+82310,PC,Player Character,What is a Bedine doing here amongst these worshippers?,베다인이 여기 신도들 사이에서 뭘 하고 있는 거야?,q5a_jasmeena,,,,,0,0
+82311,PC,Player Character,Who are you?,넌 누구야?,q5a_jasmeena,,q5a_talkjasm,,,0,0
+82312,PC,Player Character,So you're a druid?,그럼 넌 드루이드야?,q5a_jasmeena,,,,,0,0
+82313,PC,Player Character,I bet you say that to everyone.,누구한테나 그렇게 말하겠지.,q5a_jasmeena,,,,,0,0
+82314,PC,Player Character,That's not hard to figure out. This place is hardly a destination.,알아내기 어렵지 않아. 여긴 목적지라 하기엔 애매하니까.,q5a_jasmeena,,,,,0,0
+82315,PC,Player Character,How do you know anything about me?,날 어떻게 알고 있어?,q5a_jasmeena,,,,,0,0
+82316,PC,Player Character,What wizard is this?,무슨 마법사?,q5a_jasmeena,,,,,0,0
+82317,PC,Player Character,Musharak has agreed to supply the Bedine... in exchange for wine.,무샤락이 베다인에게 보급하는 데 동의했어... 포도주와 교환으로.,q5a_jasmeena,,q5a_jasmdeal1,,,0,0

@@ -1,0 +1,31 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+23215,PC,Player Character,"You're better off dead, you freak!","죽는 게 나아, 괴물 같으니!",m1q5a12siri,,[지능 보통],,,0,0
+23216,PC,Player Character,I'll leave you alone then. Goodbye!,그럼 혼자 있어. 그럼 이만!,m1q5a12siri,,[지능 보통],,,0,0
+23217,PC,Player Character,You just have to get to a safe place. Do you know one?,안전한 곳으로 가기만 하면 돼. 어디 아는 곳 있어?,m1q5a12siri,,[지능 보통],,,0,0
+23218,PC,Player Character,It's okay. Follow me and we'll go someplace safe.,"괜찮아. 날 따라와, 안전한 곳으로 가자.",m1q5a12siri,,[지능 보통],,,0,0
+23219,PC,Player Character,"<StartCheck>[Persuade]</Start>> Settle down now, I don't mean you any harm.",<StartCheck>[설득]</Start>> 진정해. 해칠 생각은 없어.,m1q5a12siri,,[지능 보통],,,0,0
+23220,PC,Player Character,Just stay here where you won't hurt yourself!,여기 가만히 있어! 다치지 않게!,m1q5a12siri,,[지능 보통],,,0,0
+23221,PC,Player Character,"Okay, you runs to Helmite sanctu-thingy.","좋아, 너 헬름의 성소-뭐시기 로 달려.",m1q5a12siri,,[지능 낮음],,,0,0
+23222,PC,Player Character,"Look, do you know a safe place to go?","그러니까, 갈 만한 안전한 곳을 아나?",m1q5a12siri,,[지능 보통],,,0,0
+23223,PC,Player Character,"Look, just follow me and you'll be fine, all right?","있지, 그냥 날 따라오면 괜찮을 거야. 알겠지?",m1q5a12siri,,[지능 보통],,,0,0
+23224,PC,Player Character,You'll be fine. Just stay here out of trouble.,넌 괜찮을 거야. 문제 생기지 않게 여기 가만히 있어.,m1q5a12siri,,[지능 보통],,,0,0
+23225,PC,Player Character,"You just stays here, so you not get hurt.",너 그냥 여기 있어. 그러면 안 다쳐.,m1q5a12siri,,[지능 낮음],,,0,0
+23226,PC,Player Character,<StartCheck>[Persuade]</Start> You settle now. Me not hurt you. Honest.,<StartCheck>[설득]</Start> 이제 진정해. 나 너 안 해쳐. 진짜야.,m1q5a12siri,,[지능 낮음],,,0,0
+23227,PC,Player Character,You know about zombies at all?,너 좀비에 대해 뭐 알아?,m1q5a12siri,,[지능 낮음],,,0,0
+23228,PC,Player Character [M1Q5A12],Shhh... relax. I'm <Race> just like you. Trust me.,쉿... 진정해. 나도 너처럼 <Race>야. 믿어.,m1q5a12siri,,m1q5a12siriclg1,[M1Q5A12],,0,0
+23229,PC,Player Character [M1Q5A12],"Be still. I'm <race>, like you. Not undead.",가만있어. 나도 너처럼 <race>야. 언데드 아니야.,m1q5a12siri,,m1q5a12siriclg3,[M1Q5A12],,0,0
+23230,PC,Player Character [M1Q5A12],"Shut up, you! No way for <race> folk to act!",닥쳐! <race> 족속이 그렇게 행동하는 게 아냐!,m1q5a12siri,,m1q5a12siriclg6,[M1Q5A12],,0,0
+23231,PC,Player Character [M1Q5A12],"Me <race> kind, like you. Be quiet.",나 너처럼 <race> 족속이야. 조용히 해.,m1q5a12siri,,m1q5a12siriclg4,[M1Q5A12],,0,0
+23232,PC,Player Character [M1Q5A12],Shut up! That's not the <race> way to act!,닥쳐! 그건 <race>답지 못한 짓이야!,m1q5a12siri,,m1q5a12siriclg5,[M1Q5A12],,0,0
+23233,PC,Player Character,You know safe place to run?,도망갈 안전한 데 알아?,m1q5a12siri,,[지능 낮음],,,0,0
+23234,PC,Player Character,Follow and me lead you to safe place.,따라와. 나 안전한 데로 데려가.,m1q5a12siri,,[지능 낮음],,,0,0
+23235,PC,Player Character,You runs to Shining Serpent then.,빛나는 구렁이로 뛰어가.,m1q5a12siri,,[지능 낮음],,,0,0
+23236,PC,Player Character,"You stay here away from trouble, okay?","너 여기 있어. 문제 안 생기게, 알지?",m1q5a12siri,,[지능 낮음],,,0,0
+23237,PC,Player Character,Do you know anything about the zombies?,좀비들에 대해 아는 게 있나?,m1q5a12siri,,[지능 보통],,,0,0
+23238,PC,Player Character,You knows a safe place for you to go?,너 갈 안전한 데 아나?,m1q5a12siri,,[지능 낮음],,,0,0
+23239,PC,Player Character,"Okay, just go to the Shining Serpent.","좋아, 빛나는 구렁이로 가.",m1q5a12siri,,[지능 보통],,,0,0
+23240,PC,Player Character,You're okay. Just get to the Helmite Sanctuary.,넌 괜찮아. 헬름의 성소로 가기만 해.,m1q5a12siri,,[지능 보통],,,0,0
+23241,PC,Player Character,Me leave then. Bye.,나 그럼 갈게. 안녕.,m1q5a12siri,,[지능 낮음],,,0,0
+23242,PC,Player Character,Me just kill you! Too loud!,나 그냥 너 죽여! 너무 시끄러워!,m1q5a12siri,,[지능 낮음],,,0,0
+23243,PC,Player Character [M1Q5A12],You okay. Me <race> kind just like yous.,괜찮아. 나 너처럼 <race> 족속이야.,m1q5a12siri,,m1q5a12siriclg2,[M1Q5A12],,0,0
+23244,PC,Player Character,"Just follows me and you be okay, yuh?","그냥 날 따라와. 그럼 괜찮아, 응?",m1q5a12siri,,[지능 낮음],,,0,0

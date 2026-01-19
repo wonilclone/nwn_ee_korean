@@ -1,0 +1,68 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+76507,PC,Player Character,<StartAction>[Do nothing.]</Start>,<StartAction>[아무것도 하지 않습니다.]</Start>,x1_harper,,,,,0,0
+76508,PC,Player Character,<StartAction>[Create Cat's Grace potion.]</Start>,<StartAction>[고양이의 우아함 물약을 만듭니다.]</Start>,x1_harper,,,,,0,0
+76509,PC,Player Character,Do not create potion.,물약을 만들지 않습니다.,x1_harper,,,,,0,0
+76510,PC,Player Character,<StartAction>[Create Potion of Cat's Grace.]</Start>,<StartAction>[고양이의 우아함 물약을 만듭니다.]</Start>,x1_harper,,,,,0,0
+76511,PC,Player Character,<StartAction>[Create Eagle's Splendor potion.]</Start>,<StartAction>[독수리의 위엄 물약을 만듭니다.]</Start>,x1_harper,,,,,0,0
+76512,PC,Player Character,Do not create potion.,물약을 만들지 않습니다.,x1_harper,,,,,0,0
+76513,PC,Player Character,<StartAction>[Create Potion of Eagle's Splendor.]</Start>,<StartAction>[독수리의 위엄 물약을 만듭니다.]</Start>,x1_harper,,,,,0,0
+86972,PC,Player Character,"No, I wish to go somewhere else.","아니오, 다른 곳으로 가고 싶습니다.",x2_con_hod_ddoor,x2_act_ddoor_des,,,,0,0
+86973,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,x2_con_hod_ddoor,x2_act_ddoor_jp,,,,0,0
+86975,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,x2_con_hod_door0,hod_close_door,,,,0,0
+86976,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,x2_con_hod_door0,x0_portal_a0jump,,,,0,0
+86979,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,x2_con_hod_door1,hod_close_door,,,,0,0
+86980,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,x2_con_hod_door1,x0_portal_a1jump,,,,0,0
+86983,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,x2_con_hod_door2,hod_close_door,,,,0,0
+86984,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,x2_con_hod_door2,x0_portal_a2jump,,,,0,0
+86987,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,x2_con_hod_door3,hod_close_door,,,,0,0
+86988,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,x2_con_hod_door3,x0_portal_a3jump,,,,0,0
+86991,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,x2_con_hod_door4,hod_close_door,,,,0,0
+86992,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,x2_con_hod_door4,x0_portal_a4jump,,,,0,0
+86995,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,x2_con_hod_door5,hod_close_door,,,,0,0
+86996,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,x2_con_hod_door5,x0_portal_a5jump,x0_portal_a5exis,,,0,0
+86999,PC,Player Character,No - I wish to go somewhere else.,아니오 - 다른 곳으로 가고 싶습니다.,x2_con_hod_ldoor,act_ddoor_destry,,,,0,0
+87000,PC,Player Character,<StartAction>[Teleport]</Start> Yes.,<StartAction>[순간이동]</Start> 예.,x2_con_hod_ldoor,act_ldoor_jump,,,,0,0
+87310,PC,Player Character,<StartAction>Craft <CUSTOM13224></Start> DC: <CUSTOM14224> Gold: <CUSTOM14324>,<StartAction><CUSTOM13224> 제작</Start> 난이도: <CUSTOM14224> 금화: <CUSTOM14324>,x2_p_craftskills,,x2_ci_getitem5,,,0,0
+87311,PC,Player Character,<StartAction>Yes</Start>,<StartAction>예</Start>,x2_p_craftskills,x2_ci_craftitem5,x2_ci_gotgold_5,,,0,0
+87312,PC,Player Character,<StartAction>Craft <CUSTOM13223></Start> DC: <CUSTOM14223> Gold: <CUSTOM14323>,<StartAction><CUSTOM13223> 제작</Start> 난이도: <CUSTOM14223> 금화: <CUSTOM14323>,x2_p_craftskills,,x2_ci_getitem4,,,0,0
+87313,PC,Player Character,<StartAction>Yes</Start>,<StartAction>예</Start>,x2_p_craftskills,x2_ci_craftitem4,x2_ci_gotgold_4,,,0,0
+87314,PC,Player Character,<StartAction>Craft <CUSTOM13222></Start> DC: <CUSTOM14222> Gold: <CUSTOM14322>,<StartAction><CUSTOM13222> 제작</Start> 난이도: <CUSTOM14222> 금화: <CUSTOM14322>,x2_p_craftskills,,x2_ci_getitem3,,,0,0
+87315,PC,Player Character,<StartAction>Yes</Start>,<StartAction>예</Start>,x2_p_craftskills,x2_ci_craftitem3,x2_ci_gotgold_3,,,0,0
+87316,PC,Player Character,<StartAction>Craft <CUSTOM13221></Start> DC: <CUSTOM14221> Gold: <CUSTOM14321>,<StartAction><CUSTOM13221> 제작</Start> 난이도: <CUSTOM14221> 금화: <CUSTOM14321>,x2_p_craftskills,,x2_ci_getitem2,,,0,0
+87317,PC,Player Character,<StartAction>Yes</Start>,<StartAction>예</Start>,x2_p_craftskills,x2_ci_craftitem2,x2_ci_gotgold_2,,,0,0
+87318,PC,Player Character,<StartAction>Craft <CUSTOM13220></Start> DC: <CUSTOM14220> Gold: <CUSTOM14320>,<StartAction><CUSTOM13220> 제작</Start> 난이도: <CUSTOM14220> 금화: <CUSTOM14320>,x2_p_craftskills,,x2_ci_getitem1,,,0,0
+87319,PC,Player Character,<StartAction>Yes</Start>,<StartAction>예</Start>,x2_p_craftskills,x2_ci_craftitem1,x2_ci_gotgold_1,,,0,0
+87320,PC,Player Character,<StartAction>Read the Book of Crafting</Start>,<StartAction>제작 서적을 읽습니다.</Start>,x2_p_craftskills,,,,,0,0
+87321,PC,Player Character,<StartAction>Exit</Start>,<StartAction>나가기</Start>,x2_p_craftskills,,,,,0,0
+87436,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,x2l_feedback,,,,,0,0
+87437,PC,Player Character,<StartAction>Reach your hand into the icy pool.</Start>,<StartAction>얼음 웅덩이에 손을 뻗습니다.</Start>,x2l_feedback,nw_all_feedbacki,,,,0,0
+94812,PC,Player Character,Do nothing.,아무것도 하지 않습니다.,x2_powderkeg,,,,,0,0
+94813,PC,Player Character,Ignite the wick.,심지에 불을 붙입니다.,x2_powderkeg,x2_pkeg_ignite,,,,0,0
+94814,PC,Player Character,Pick up the keg of Alchemist's Fire.,연금술사의 불 통을 집어듭니다.,x2_powderkeg,x2_pkeg_take,,,,0,0
+107409,PC,Player Character,Leave the keg alone.,통을 그대로 둡니다.,x2_powderkeg,,,,,0,0
+107410,PC,Player Character,Ignite the wick.,심지에 불을 붙입니다.,x2_powderkeg,x2_pkeg_ignite,,,,0,0
+107411,PC,Player Character,Pick up the keg of Alchemist's Fire.,연금술사의 불 통을 집어듭니다.,x2_powderkeg,x2_pkeg_take,,,,0,0
+107772,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",xp2_valen,,,,,0,0
+107773,PC,Player Character,"""You mentioned something about a Boatman earlier.""","""아까 뱃사공에 대해 언급했는데.""",xp2_valen,,q2_valjournal1+,,,0,0
+107774,PC,Player Character,"""Maybe he's some type of ghost or spirit.""","""어쩌면 유령이나 영혼 같은 존재일지도.""",xp2_valen,,,,,0,0
+107775,PC,Player Character,"""Maybe he's a spy for the Valsharess.""","""어쩌면 발샤레스의 첩자일지도.""",xp2_valen,,,,,0,0
+107776,PC,Player Character,"""Where can I find this Boatman?""","""뱃사공은 어디서 찾을 수 있어?""",xp2_valen,,,,,0,0
+107777,PC,Player Character,"""Will you join me?""","""나와 함께 할래?""",xp2_valen,,,,,0,0
+107778,PC,Player Character,"""I want to know more about you.""","""너에 대해 더 알고 싶어.""",xp2_valen,,,,,0,0
+107779,PC,Player Character,"""I get the feeling you don't like me.""","""네가 날 안 좋아하는 것 같은데.""",xp2_valen,,,,,0,0
+107780,PC,Player Character,"""Do you have any information that might help against the Valsharess?""","""발샤레스에 대항하는 데 도움이 될 정보가 있어?""",xp2_valen,,,,,0,0
+107781,PC,Player Character,"""You said you could help me against the Valsharess.""","""발샤레스에 대항하는 데 도와줄 수 있다고 했잖아.""",xp2_valen,,q2_valjournal0,,,0,0
+107782,PC,Player Character,"""And how am I supposed to prove myself?""","""내가 어떻게 증명해야 하는데?""",xp2_valen,,,,,0,0
+107783,PC,Player Character,"""Tell me about these islands.""","""이 섬들에 대해 말해줘.""",xp2_valen,,,,,0,0
+107784,PC,Player Character,"""Tell me about this Cavallas.""","""카발라스에 대해 말해줘.""",xp2_valen,,q2_valjournal1x,,,0,0
+107785,PC,Player Character,"""Islands? There are islands here?""","""섬들? 여기 섬들이 있어?""",xp2_valen,,,,,0,0
+107786,PC,Player Character,"""I don't like your attitude, tiefling!""","""네 태도가 마음에 안 드는데, 티플링!""",xp2_valen,,,,,0,0
+107787,PC,Player Character,"""What if I don't want to prove myself to you?""","""네게 증명하고 싶지 않으면 어쩔 건데?""",xp2_valen,,,,,0,0
+107788,PC,Player Character,"""We're all on the same side here.""","""우린 모두 같은 편이야.""",xp2_valen,,,,,0,0
+109708,PC,Player Character,"""I know you. You're Grimgnaw, that dwarven monk from Neverwinter!""","""알아요. 당신은 그림노, 네버윈터에서 온 드워프 수도사죠!""",x2_grimgnaw,,,,,0,0
+109709,PC,Player Character,"""Who are you? How do you know who I am?""","""당신은 누구죠? 제가 누군지 어떻게 알아요?""",x2_grimgnaw,,,,,0,0
+109710,PC,Player Character,"""Time to die, dwarf!"" <StartAction>Attack</Start>","""죽을 시간이야, 드워프!"" <StartAction>공격</Start>",x2_grimgnaw,,,,,0,0
+109711,PC,Player Character,"""I won't bow before anyone.""","""난 누구에게도 무릎 꿇지 않아.""",x2_grimgnaw,,,,,0,0
+109712,PC,Player Character,"""I will swear allegiance to you, Grimgnaw.""","""당신에게 충성을 맹세하겠습니다, 그림노.""",x2_grimgnaw,,,,,0,0
+109713,PC,Player Character,"""I think I would like to rule this Hell... You will swear allegiance to me!""","""이 지옥을 내가 지배하고 싶군... 당신이 내게 충성을 맹세해!""",x2_grimgnaw,,,,,0,0
+109714,PC,Player Character,"""I don't care what you do here, I'm just looking for a way out.""","""당신이 여기서 뭘 하든 관심 없어요. 그냥 나갈 길을 찾고 있을 뿐이에요.""",x2_grimgnaw,,,,,0,0

@@ -1,0 +1,50 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+44101,PC,Player Character,What kinds of things do you sell?,어떤 종류의 물건을 파시나요?,m3q01a09riba,,[지능 보통],,,0,0
+44102,PC,Player Character,What type stuff you sell?,무슨 물건 팔아?,m3q01a09riba,,[지능 낮음],,,0,0
+44103,PC,Player Character,I'd like to take a look at your inventory.,물품 목록을 보고 싶습니다.,m3q01a09riba,,[지능 보통],,,0,0
+44104,PC,Player Character,Me want buy stuff.,나 물건 사고 싶어.,m3q01a09riba,,[지능 낮음],,,0,0
+44105,PC,Player Character,Can I ask you some questions?,질문 좀 해도 될까요?,m3q01a09riba,,[지능 보통],,,0,0
+44106,PC,Player Character,Me want ask questions.,나 질문 하고 싶어.,m3q01a09riba,,[지능 낮음],,,0,0
+44107,PC,Player Character,I'll be going now.,이제 가볼게요.,m3q01a09riba,,[지능 보통],,,0,0
+44108,PC,Player Character,Me go now.,나 가.,m3q01a09riba,,[지능 낮음],,,0,0
+44109,PC,Player Character,"What do you mean, the newest branch?",가장 새로운 지점이라는 게 무슨 말씀이죠?,m3q01a09riba,,[지능 보통],,,0,0
+44110,PC,Player Character,"What you mean, new branch?",새로운 지점 무슨 말이야?,m3q01a09riba,,[지능 낮음],,,0,0
+44111,PC,Player Character,I'm searching for the Words of Power.,권능의 언령을 찾고 있습니다.,m3q01a09riba,,[지능 보통],,,0,0
+44112,PC,Player Character,Me looking for Power Words.,나 권능의 언령 찾고 있어.,m3q01a09riba,,[지능 낮음],,,0,0
+44113,PC,Player Character,What do you mean by that?,무슨 말씀이신가요?,m3q01a09riba,,[지능 보통],,,0,0
+44114,PC,Player Character,What you mean?,무슨 말이야?,m3q01a09riba,,[지능 낮음],,,0,0
+44115,PC,Player Character,Maybe I could help you.,제가 도와드릴 수 있을 것 같습니다.,m3q01a09riba,,[지능 보통],,,0,0
+44116,PC,Player Character,Maybe me could help you.,나 도와줄 수 있어.,m3q01a09riba,,[지능 낮음],,,0,0
+44117,PC,Player Character,What's the job?,무슨 일인가요?,m3q01a09riba,,[지능 보통],,,0,0
+44118,PC,Player Character,What's it pay?,보수가 얼마죠?,m3q01a09riba,,[지능 보통],,,0,0
+44119,PC,Player Character,What job be?,무슨 일이야?,m3q01a09riba,,[지능 낮음],,,0,0
+44120,PC,Player Character,What job pay?,돈 얼마 줘?,m3q01a09riba,,[지능 낮음],,,0,0
+44121,PC,Player Character,I'm not interested.,관심 없습니다.,m3q01a09riba,,[지능 보통],,,0,0
+44122,PC,Player Character,Me not interested.,나 관심 없어.,m3q01a09riba,,[지능 낮음],,,0,0
+44123,PC,Player Character,Why do you want it?,왜 그걸 원하시나요?,m3q01a09riba,,[지능 보통],,,0,0
+44124,PC,Player Character,Why you want it?,왜 그거 원해?,m3q01a09riba,,[지능 낮음],,,0,0
+44125,PC,Player Character,And you think the Star Sapphire is still in her tomb?,별 사파이어가 아직 그녀의 무덤에 있다고 생각하시나요?,m3q01a09riba,,[지능 보통],,,0,0
+44126,PC,Player Character,You think Star Sapphire still be in her tomb?,별 사파이어 아직 무덤에 있다고 생각해?,m3q01a09riba,,[지능 낮음],,,0,0
+44127,PC,Player Character,<StartCheck>[Insight]</Start> This sounds dangerous. Dead mages often become liches.,<StartCheck>[통찰]</Start> 위험하게 들리는데요. 죽은 마법사는 종종 리치가 되거든요.,m3q01a09riba,,nw_d2_wis_intn,,,0,0
+44128,PC,Player Character,I don't know if I'd feel right plundering her final resting place.,그녀의 마지막 안식처를 약탈하는 게 옳은 일인지 모르겠네요.,m3q01a09riba,,[지능 보통],,,0,0
+44129,PC,Player Character,Me not feel right robbing dead girl's grave.,나 죽은 여자 무덤 도둑질하는 거 기분 안 좋아.,m3q01a09riba,,[지능 낮음],,,0,0
+44130,PC,Player Character,"<StartCheck>[Persuade]</Start> I'll need some money up front for this job. Expenses, you know.",<StartCheck>[설득]</Start> 이 일에 대해 선금이 필요합니다. 경비 있잖아요.,m3q01a09riba,,[지능 보통],,,0,0
+44131,PC,Player Character,<StartCheck>[Persuade]</Start> Me gonna need money up front. For buy stuff and other costs.,<StartCheck>[설득]</Start> 나 선금 필요해. 물건 사고 다른 비용 쓰려고.,m3q01a09riba,,[지능 낮음],,,0,0
+44132,PC,Player Character,"Okay, I'll do it.","좋아요, 하겠습니다.",m3q01a09riba,,[지능 보통],,,0,0
+44133,PC,Player Character,"Okay, me do it.","좋아, 나 할게.",m3q01a09riba,,[지능 낮음],,,0,0
+44134,PC,Player Character [M3Q01A09],Okay.,좋아요.,m3q01a09riba,m3q01a09ribaadv1,,[M3Q01A09],,0,0
+44135,PC,Player Character,Tell me about the Star Sapphire again.,별 사파이어에 대해 다시 말해주세요.,m3q01a09riba,,[지능 보통],,,0,0
+44136,PC,Player Character,"You tell me 'bout Star Sapphire again, kay?","별 사파이어 다시 얘기해줘, 응?",m3q01a09riba,,[지능 낮음],,,0,0
+44137,PC,Player Character,I'm interested in that job you mentioned earlier.,전에 말씀하신 일에 관심이 있습니다.,m3q01a09riba,,[지능 보통],,,0,0
+44138,PC,Player Character,Me want know more 'bout that job you mention earlier.,나 전에 말한 일 더 알고 싶어.,m3q01a09riba,,[지능 낮음],,,0,0
+44139,PC,Player Character [M3Q01A09],I want to ask about the job you mentioned earlier.,전에 말씀하신 일에 대해 물어보고 싶습니다.,m3q01a09riba,,m3q01a09ribasck3,[M3Q01A09],,0,0
+44140,PC,Player Character [M3Q01A09],Me want ask 'bout job you mentioned earlier.,나 전에 말한 일 물어보고 싶어.,m3q01a09riba,,m3q01a09ribasck4,[M3Q01A09],,0,0
+44141,PC,Player Character [M3Q01A09],I have the Star Sapphire right here.,별 사파이어가 바로 여기 있습니다.,m3q01a09riba,,m3q01a09ribastar,[M3Q01A09],,0,0
+44142,PC,Player Character [M3Q01A09],Me got Star Sapphire here.,나 별 사파이어 여기 있어.,m3q01a09riba,,m3q01a09ribasta2,[M3Q01A09],,0,0
+44143,PC,Player Character,"Thank you, Husher.","감사합니다, 허셔.",m3q01a09riba,,[지능 보통],,,0,0
+44144,PC,Player Character,"Me thank you, Husher.","나 고마워, 허셔.",m3q01a09riba,,[지능 낮음],,,0,0
+44145,PC,Player Character,"<StartCheck>[Persuade]</Start> I went through a lot of trouble to get this gem for you, Husher. A *lot* of trouble.","<StartCheck>[설득]</Start> 이 보석을 구하느라 정말 많은 고생을 했습니다, 허셔. 정말 많은 고생을요.",m3q01a09riba,,[지능 보통],,,0,0
+44146,PC,Player Character,<StartCheck>[Persuade]</Start> This be hard work for get gem. Me think maybe you give more gold.,<StartCheck>[설득]</Start> 보석 구하는 거 힘든 일이었어. 나 금화 더 줬으면 좋겠어.,m3q01a09riba,,[지능 낮음],,,0,0
+44147,PC,Player Character,"Dig a little deeper, Clay, or I'll rip out your guts and strangle you with your own intestines!","좀 더 깊이 파봐, 클레이, 안 그러면 네 내장을 끄집어내서 네 창자로 목을 조를 테니까!",m3q01a09riba,nw_d1_mid_evil,[지능 보통],,,0,0
+44148,PC,Player Character,You give more gold or me rip off your head and drink brain from skull.,금화 더 내놔 아니면 머리 뜯어서 두개골에서 뇌 마셔버려.,m3q01a09riba,nw_d1_mid_evil,[지능 낮음],,,0,0
+44149,PC,Player Character,Okay.,알겠습니다.,m3q01a09riba,,,,,0,0

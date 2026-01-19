@@ -1,0 +1,43 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36172,PC,Player Character,Could I ask you some questions?,몇 가지 질문 좀 해도 될까요?,m2q3e_mary,,[지능 보통],,,0,0
+36173,PC,Player Character,Uh... Me ask questions?,어... 나 질문 해도 되?,m2q3e_mary,,[지능 낮음],,,0,0
+36174,PC,Player Character,Goodbye.,안녕히 계세요.,m2q3e_mary,,,,,0,0
+36175,PC,Player Character,"Yes, the wolves. What can you tell me about them?","그래요, 늑대들 말입니다. 그것들에 대해 뭘 알려주실 수 있나요?",m2q3e_mary,,[지능 보통],,,0,0
+36176,PC,Player Character,Actually I'm hunting down a cult... ,사실 저는 사교를 추적하고 있는데요...,m2q3e_mary,,[매력 중간/지능 중간],,,0,0
+36177,PC,Player Character,How many of you live here?,여기엔 몇 명이 살고 있나요?,m2q3e_mary,,[매력 높음/지능 중간],,,0,0
+36178,PC,Player Character,Anything interesting going on in these parts?,이 근처에서 흥미로운 일이 일어나고 있나요?,m2q3e_mary,,[지능 보통],,,0,0
+36179,PC,Player Character,"Yuh, da wolves. What you know of them?","그래, 늑대들. 그거 뭐 알아?",m2q3e_mary,,[지능 낮음],,,0,0
+36180,PC,Player Character,"Uh, me be huntin' down a cult... ","어, 나 사교 쫓고 있어...",m2q3e_mary,,[매력 중간/지능 낮음],,,0,0
+36181,PC,Player Character,This be small house. How many live here?,이 작은 집. 몇 명 살아?,m2q3e_mary,,[매력 높음/지능 낮음],,,0,0
+36182,PC,Player Character,You know odd things about here?,여기 이상한 거 알아?,m2q3e_mary,,[지능 낮음],,,0,0
+36183,PC,Player Character,Maybe I can help. Know anything else about it?,제가 도와드릴 수 있을지도 모르겠네요. 그것에 대해 더 아는 게 있나요?,m2q3e_mary,,[지능 보통],,,0,0
+36184,PC,Player Character,<StartCheck>[Insight]</Start> Cattle cost money. How bad are the finances?,<StartCheck>[통찰]</Start> 소는 돈이 드는데. 재정 상황이 얼마나 나쁩니까?,m2q3e_mary,,nw_d2_wis_intn,,,0,0
+36185,PC,Player Character,"Maybe me help, yuh? You talk more 'bout it.","나 도와줄 수 있어, 응? 그거 더 얘기해.",m2q3e_mary,,[지능 낮음],,,0,0
+36186,PC,Player Character,"Tell me about the wolves, then.",그럼 늑대들에 대해 얘기해 주세요.,m2q3e_mary,,[지능 보통],,,0,0
+36187,PC,Player Character,"I'd be interested in work, if you know of anything.",일거리가 있다면 관심 있는데요.,m2q3e_mary,,[지능 보통],,,0,0
+36188,PC,Player Character,"Are there any other places you think I should stop by, here?",여기서 제가 들러봐야 할 다른 곳이 있을까요?,m2q3e_mary,,[매력 중간/지능 중간],,,0,0
+36189,PC,Player Character,"Yuh, tell me story 'bout Peter and da Wolf!","그래, 피터와 늑대 이야기 해줘!",m2q3e_mary,,[지능 낮음],,,0,0
+36190,PC,Player Character,Me want work.,나 일 하고 싶어.,m2q3e_mary,,[지능 낮음],,,0,0
+36191,PC,Player Character,There be other places to go here?,여기 다른 곳 있어?,m2q3e_mary,,[매력 중간/지능 낮음],,,0,0
+36192,PC,Player Character,How is Constance?,콘스탄스는 어떠세요?,m2q3e_mary,,[지능 보통],,,0,0
+36193,PC,Player Character,How Constance be?,콘스탄스 어때?,m2q3e_mary,,[지능 낮음],,,0,0
+36194,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 이봐요, 말해줘도 아무런 해가 없을 텐데요.",m2q3e_mary,,[지능 보통],,,0,0
+36195,PC,Player Character,<StartCheck>[Persuade]</Start> Tell me. Will hurt nobody.,<StartCheck>[설득]</Start> 말해. 아무도 안 다쳐.,m2q3e_mary,,[지능 낮음],,,0,0
+36196,PC,Player Character,I'm curious about some recent events... ,최근 사건들에 대해 궁금한 게 있는데요...,m2q3e_mary,,[지능 보통],,,0,0
+36197,PC,Player Character,"There be stuff happening lately, yuh?","최근에 일 있었어, 응?",m2q3e_mary,,[지능 낮음],,,0,0
+36198,PC,Player Character,I want to ask you something else.,다른 걸 물어보고 싶은데요.,m2q3e_mary,,[지능 보통],,,0,0
+36199,PC,Player Character,Me have other question.,나 다른 질문 있어.,m2q3e_mary,,[지능 낮음],,,0,0
+36200,PC,Player Character,Can I ask you some directions?,길 좀 물어봐도 될까요?,m2q3e_mary,,[지능 보통],,,0,0
+36201,PC,Player Character,"Uh, me lost. You give directions, yuh?","어, 나 길 잃었어. 길 알려줘, 응?",m2q3e_mary,,[지능 낮음],,,0,0
+36202,PC,Player Character,Where does the west road lead?,서쪽 길은 어디로 가나요?,m2q3e_mary,,[지능 보통],,,0,0
+36203,PC,Player Character,Where does the east road lead?,동쪽 길은 어디로 가나요?,m2q3e_mary,,[지능 보통],,,0,0
+36204,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비 살 수 있는 곳이 있나요?,m2q3e_mary,,[지능 보통],,,0,0
+36205,PC,Player Character,Where that west road go?,저 서쪽 길 어디 가?,m2q3e_mary,,[지능 낮음],,,0,0
+36206,PC,Player Character,Where that east road go?,저 동쪽 길 어디 가?,m2q3e_mary,,[지능 낮음],,,0,0
+36207,PC,Player Character,Me need place to buy stuff.,나 물건 살 곳 필요해.,m2q3e_mary,,[지능 낮음],,,0,0
+36208,PC,Player Character,"Actually, I'd rather ask you about something else.",사실 다른 걸 물어보고 싶은데요.,m2q3e_mary,,[지능 보통],,,0,0
+36209,PC,Player Character,Me have other question.,나 다른 질문 있어.,m2q3e_mary,,[지능 낮음],,,0,0
+36210,PC,Player Character,I need some more directions.,길을 좀 더 물어봐야겠어요.,m2q3e_mary,,[지능 보통],,,0,0
+36211,PC,Player Character,Me need more directions.,나 길 더 필요해.,m2q3e_mary,,[지능 낮음],,,0,0
+36212,PC,Player Character,"Yes, I still have questions... ","네, 아직 질문이 있는데요...",m2q3e_mary,,[지능 보통],,,0,0
+36213,PC,Player Character,"Yuh, me still got questions... ","응, 나 아직 질문 있어...",m2q3e_mary,,[지능 낮음],,,0,0

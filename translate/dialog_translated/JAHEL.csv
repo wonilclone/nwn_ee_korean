@@ -1,0 +1,57 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+29414,Dialog,JAHEL,"Oh, I didn't see you there. You startled me.","어머, 거기 계신 줄 몰랐어요. 깜짝 놀랐잖아요.",M2Q1000JAHEL,nw_d1_heartoff,,,vs_nfanatf1_062,0,0
+29415,Dialog,JAHEL,I bid you farewell my <lord/lady>.,안녕히 가세요.,M2Q1000JAHEL,,,,,0,0
+29416,Dialog,JAHEL,Good <quarterday> to you.,좋은 <quarterday> 되세요.,M2Q1000JAHEL,,,,,0,0
+29417,Dialog,JAHEL,As you wish.,알겠어요.,M2Q1000JAHEL,,,,,0,0
+29418,Dialog,JAHEL,"Oh, you are so sweet. My name is Jaheel. And what do they call a handsome <lad/lass> such as yourself?","어머, 정말 친절하시네요. 제 이름은 자힐이에요. 이렇게 멋진 분의 이름은 뭔가요?",M2Q1000JAHEL,,,,,0,0
+29419,Dialog,JAHEL,"Thank you for your concern, <sir/madam>. My name is Jaheel. What is your name?","걱정해 주셔서 감사해요. 제 이름은 자힐이에요. 이름이 어떻게 되세요?",M2Q1000JAHEL,,,,,0,0
+29420,Dialog,JAHEL,You seem like a very lonely person. My name is Jaheel. What is your name?,외로워 보이시네요. 제 이름은 자힐이에요. 이름이 어떻게 되세요?,M2Q1000JAHEL,,,,,0,0
+29421,Dialog,JAHEL,"A fitting name for one as fascinating as you, <FirstName>. (sigh) I only wish my mind could dwell on more pleasant conversation. Is there something I can help you with?","<FirstName>이라니, 매력적인 분에게 어울리는 이름이네요. (한숨) 더 즐거운 대화에 집중할 수 있다면 좋을 텐데. 도와드릴 일이 있으세요?",M2Q1000JAHEL,,,,,0,0
+29422,Dialog,JAHEL,Thank you <FirstName>. I only wish I could give you all of my attention. My mind is focused on darker thoughts. What can I do for you?,"고마워요, <FirstName>. 온전히 신경 쓸 수 있다면 좋을 텐데. 마음이 어두운 생각에 빠져 있어서요. 뭘 도와드릴까요?",M2Q1000JAHEL,,,,,0,0
+29423,Dialog,JAHEL,"A man of mystery. While I love an intrigue, today is just too bleak a moment in my life to give you proper attention. Can I help you?","수수께끼 같은 분이시네요. 흥미로운 건 좋아하지만, 오늘은 인생에서 너무 암울한 순간이라 제대로 신경을 못 쓰겠어요. 도와드릴 일이 있으세요?",M2Q1000JAHEL,,,,,0,0
+29424,Dialog,JAHEL,I could think of nothing more pleasant than to while away a day chatting with you... if only it was not such a terrible day.,당신과 하루 종일 수다 떠는 것보다 즐거운 일은 없을 텐데... 이렇게 끔찍한 날만 아니었다면요.,M2Q1000JAHEL,,,,,0,0
+29425,Dialog,JAHEL,"I guess I could, although my mind is occupied with worry about this terrible day.","그럴 수 있을 것 같아요, 하지만 이 끔찍한 날 걱정에 마음이 꽉 차 있어요.",M2Q1000JAHEL,,,,,0,0
+29426,Dialog,JAHEL,"On this dark day I'm not sure I can answer any questions coherently, but I will try.","이렇게 암울한 날 질문에 제대로 대답할 수 있을지 모르겠지만, 해볼게요.",M2Q1000JAHEL,,,,,0,0
+29427,Dialog,JAHEL,"I wish I could help you, kind <man/woman>, but my mind is overwrought and it is very difficult for me to focus on anything other than my own troubles.","도와드리고 싶지만, 마음이 너무 지쳐서 제 문제 말고는 아무것도 집중할 수가 없어요.",M2Q1000JAHEL,,,,,0,0
+29428,Dialog,JAHEL,"Oh dear. When I saw you, I thought maybe this is the <man/woman> to save me from this terrbile day! I am so distraught, I couldn't possibly think clearly enough to give you directions.","어머. 당신을 봤을 때, 이 끔찍한 날에서 구해줄 분이라고 생각했어요! 너무 혼란스러워서 길 안내도 제대로 할 수 없을 것 같아요.",M2Q1000JAHEL,,,,,0,0
+29429,Dialog,JAHEL,It is so horrible. I was supposed to bring my little brother Neva into town to buy him a birthday present for his tenth birthday. He was so excited he kept running ahead of me.,너무 끔찍해요. 열 번째 생일 선물을 사주려고 남동생 네바를 마을에 데려오는 중이었어요. 너무 신나서 계속 제 앞으로 달려갔거든요.,M2Q1000JAHEL,,,,,0,0
+29430,Dialog,JAHEL,"Oh my, but you are a brave, powerful adventurer aren't you! If you want a job, maybe you could help me?","어머, 용감하고 강한 모험가시네요! 일거리를 원하시면, 저를 도와주실 수 있을까요?",M2Q1000JAHEL,,,,,0,0
+29431,Dialog,JAHEL,"My poor, blunt, slightly dense friend, I guess I could tell you.","불쌍하고, 무뚝뚝하고, 약간 둔한 친구, 말해드릴 수 있을 것 같아요.",M2Q1000JAHEL,,,,,0,0
+29432,Dialog,JAHEL,"I imagine it is because he had his birthday money in his purse. He had 10 gold pieces to spend for his birthday. That is a lot, so the bandits probably figured he was from a wealthy home and they want to ransom him.","아마 지갑에 생일 돈이 있어서 그런 것 같아요. 생일에 쓰려고 금화 10개가 있었거든요. 많은 돈이니까 산적들이 부잣집 아이라고 생각하고 몸값을 받으려는 거겠죠.",M2Q1000JAHEL,,,,,0,0
+29433,Dialog,JAHEL,"Yes. I quietly followed them to some standing stones in the hills just outside of Charwood. I thought for sure they would catch me, but I was lucky.","네. 조용히 그을린숲 바로 바깥 언덕의 표석까지 따라갔어요. 분명 잡힐 줄 알았는데, 운이 좋았어요.",M2Q1000JAHEL,,,,,0,0
+29434,Dialog,JAHEL,"I have 300 gold, which I would reward anyone who could save my baby brother.","금화 300개가 있어요. 제 동생을 구해주시는 분께 드릴게요.",M2Q1000JAHEL,,,,,0,0
+29435,Dialog,JAHEL,"Oh, my poor brother. (sigh) I did think that maybe you would prove to be my hero. I guess I will have to find one who truly has a brave spirit.","아, 불쌍한 동생. (한숨) 당신이 내 영웅이 될 줄 알았는데. 진정으로 용감한 정신을 가진 분을 찾아야겠네요.",M2Q1000JAHEL,,,,,0,0
+29436,Dialog,JAHEL,Go away if you will not even try.,시도조차 안 하실 거면 가세요.,M2Q1000JAHEL,m2q6jaheel004,,,,0,0
+29437,Dialog,JAHEL,"My hero! Thank you so much for being brave. I must admit, that if you are able to rescue my baby brother, there are rewards besides gold that I would be willing to discuss.","내 영웅! 용감해 주셔서 정말 감사해요. 솔직히, 제 동생을 구해주시면 금 말고도 드릴 보상이 있어요.",M2Q1000JAHEL,,,,,0,0
+29438,Dialog,JAHEL,"I know Neva is being held at a bandit camp near some standing stones just outside of Charwood, but I have no idea how many people are holding him or what exactly to expect.","네바가 그을린숲 바로 바깥 표석 근처 산적 캠프에 잡혀 있는 건 알지만, 몇 명이 지키고 있는지나 정확히 어떤 상황인지는 몰라요.",M2Q1000JAHEL,nw_d1_j_resc02,,,,0,0
+29440,Dialog,JAHEL,Please hurry. Bring him back to me safely.,서둘러 주세요. 무사히 데려와 주세요.,M2Q1000JAHEL,,,,,0,0
+29441,Dialog,JAHEL,"Well met, <CUSTOM1001>. Have you had any progress? Have you found Neva yet?","반가워요, <CUSTOM1001>. 진전이 있으세요? 네바를 찾았나요?",M2Q1000JAHEL,nw_d1_heartoff,,,vs_nfanatf1_063,0,0
+29442,Dialog,JAHEL,"Hello, are you with <CUSTOM1001>?","안녕하세요, <CUSTOM1001>과 함께 오셨나요?",M2Q1000JAHEL,nw_d1_heartoff,,,vs_nfanatf1_065,0,0
+29443,Dialog,JAHEL,"Thank you so much, my bravest. I shall pray for your swift and safe return.","정말 감사해요, 용감한 분. 빠르고 안전하게 돌아오시길 기도할게요.",M2Q1000JAHEL,m2q6jaheel004,,,,0,0
+29444,Dialog,JAHEL,Bless you brave one. I shall pray for your swift and safe return.,용감한 분께 축복을. 빠르고 안전하게 돌아오시길 기도할게요.,M2Q1000JAHEL,m2q6jaheel004,,,,0,0
+29445,Dialog,JAHEL,<StartCheck>[Success]</Start> Obviously I have hired the right <man/woman> for the job. You should be well prepared with 100 gold to assist you.,<StartCheck>[성공]</Start> 확실히 적임자를 고용했네요. 도움이 되시라고 금화 100개를 드릴게요.,M2Q1000JAHEL,m2q6jaheel005,,,,0,0
+29446,Dialog,JAHEL,<StartCheck>[Failure]</Start> How mercenary of you! I will give you the reward I have promised when you return with my brother. Now go be a hero!,<StartCheck>[실패]</Start> 정말 용병 같으시네요! 동생을 데려오시면 약속한 보상을 드릴게요. 이제 가서 영웅이 되세요!,M2Q1000JAHEL,m2q6jaheel004,,,,0,0
+29447,Dialog,JAHEL,"I can't believe how commanding you are. I hope we can discuss that later, but for now I will give you 100 gold.","정말 당당하시네요. 나중에 그 얘기를 더 할 수 있으면 좋겠어요. 일단 금화 100개를 드릴게요.",M2Q1000JAHEL,m2q6jaheel005,,,,0,0
+29448,Dialog,JAHEL,"Please find him quickly. I enjoy speaking with you, but I could be much friendlier if I wasn't so worried about Neva.","빨리 찾아주세요. 당신과 얘기하는 건 즐겁지만, 네바 걱정만 아니면 훨씬 더 친근하게 대할 수 있을 텐데요.",M2Q1000JAHEL,,,,,0,0
+29449,Dialog,JAHEL,"Neva might be dead soon! Please hurry, if only so that you can claim your reward.","네바가 곧 죽을지도 몰라요! 보상이라도 받으시려면 서둘러 주세요.",M2Q1000JAHEL,,,,,0,0
+29450,Dialog,JAHEL,I notice you don't have the ring that I gave you. I certainly hope you didn't lose it... Neva might fear to join you if he thinks it is a trap.,"제가 드린 반지가 없네요. 잃어버리지 않으셨길 바라요... 네바가 함정이라고 생각하면 따라오지 않을 수도 있어요.",M2Q1000JAHEL,,,,,0,0
+29451,Dialog,JAHEL,I am glad you still have the ring I gave you. Be brave my hero!,제가 드린 반지를 아직 갖고 계시네요. 용감하게 다녀오세요!,M2Q1000JAHEL,,,,,0,0
+29452,Dialog,JAHEL,It is in the hills just outside of Charwood. If you search carefully you should find it.,그을린숲 바로 바깥 언덕에 있어요. 꼼꼼히 찾으시면 발견하실 거예요.,M2Q1000JAHEL,,,,,0,0
+29453,Dialog,JAHEL,I see that <CUSTOM1001> has turned Neva's ring over to you. Are you the hero helping me now? What can I help you with?,"<CUSTOM1001>이 네바의 반지를 넘겨주셨군요. 지금 저를 돕는 영웅이 되신 건가요? 뭘 도와드릴까요?",M2Q1000JAHEL,,,,,0,0
+29454,Dialog,JAHEL,I guess my brother could use all the help he can get. How can I assist you?,동생에게 도움은 많을수록 좋겠죠. 어떻게 도와드릴까요?,M2Q1000JAHEL,,,,,0,0
+29455,Dialog,JAHEL,He is at a bandit camp near some standing stones in the hills just outside of Charwood.,그을린숲 바로 바깥 언덕의 표석 근처 산적 캠프에 있어요.,M2Q1000JAHEL,,,,,0,0
+29456,Dialog,JAHEL,Please be quick my hero. I will pray for you.,서둘러 주세요. 기도할게요.,M2Q1000JAHEL,,,,,0,0
+29457,Dialog,JAHEL,"But Neva could be dead soon. I hope you will hurry, if only to claim your reward.","하지만 네바가 곧 죽을지도 몰라요. 보상이라도 받으시려면 서둘러 주세요.",M2Q1000JAHEL,,,,,0,0
+29458,Dialog,JAHEL,"I'm sorry, but I really must be leaving. Excuse me.","죄송하지만, 정말 가봐야 해요. 실례할게요.",M2Q1000JAHEL,,,,vs_nfanatf1_060,0,0
+29459,Dialog,JAHEL,I'm sorry. I just thought you might have been asked to help me.,죄송해요. 저를 도와달라는 부탁을 받으신 줄 알았어요.,M2Q1000JAHEL,,,,,0,0
+29460,Dialog,JAHEL,I guess more help is better than less. ,도움은 많을수록 좋겠죠.,M2Q1000JAHEL,,,,,0,0
+29461,Dialog,JAHEL,"Thank you so much for offering, kind <man/woman>, but <CUSTOM1001> has already agreed to help me. ","제안해 주셔서 감사하지만, <CUSTOM1001>이 이미 도와주기로 하셨어요.",M2Q1000JAHEL,,,,,0,0
+29462,Dialog,JAHEL,"Of course if you were the one to rescue Neva, then you would be the one to claim the reward. I would also like to add that gold is not the only reward I might offer a brave man like you.","물론 네바를 구하시는 분이 보상을 받으실 거예요. 그리고 당신처럼 용감한 분께 드릴 보상은 금만이 아니에요.",M2Q1000JAHEL,nw_d1_j_resc18,,,,0,0
+29463,Dialog,JAHEL,"I must go now. Please hurry, my brother's life is dear to me.","이제 가봐야 해요. 서둘러 주세요, 동생의 생명은 제게 소중해요.",M2Q1000JAHEL,m2escapearea,,,,0,0
+29464,Dialog,JAHEL,You are back so soon? Have you found my little brother?,벌써 돌아오셨어요? 제 동생을 찾았나요?,M2Q1000JAHEL,nw_d1_heartoff,,,vs_nfanatf1_064,0,0
+29465,Dialog,JAHEL,I have no desire to speak with you. Leave me.,당신과 얘기하고 싶지 않아요. 저리 가세요.,M2Q1000JAHEL,,,,vs_nfanatf1_061,0,0
+29466,Dialog,JAHEL,"He ran over a hill, when all of a sudden I heard him scream. I ran as fast as I could to the top of the hill, but as I got close, I could hear men's voices. ","언덕을 넘어 달려갔는데, 갑자기 비명 소리가 들렸어요. 최대한 빨리 언덕 꼭대기로 달려갔는데, 가까이 가니까 남자들 목소리가 들렸어요.",M2Q1000JAHEL,,,,,0,0
+29467,Dialog,JAHEL,"I dropped to the ground and peeked over the crest of the hill. Neva was surrounded by a group of thugs. They picked him up and carried him off, laughing to themselves.","땅에 엎드려서 언덕 꼭대기를 넘겨다봤어요. 네바가 깡패들에게 둘러싸여 있었어요. 그들은 네바를 들어 올려 웃으면서 데려갔어요.",M2Q1000JAHEL,,,,,0,0
+29468,Dialog,JAHEL,I simply don't know who to turn to. The guards are busy with their own troubles and I need someone who can rescue him quickly.,누구한테 도움을 청해야 할지 모르겠어요. 경비병들은 자기 일로 바쁘고 빨리 구해줄 수 있는 분이 필요해요.,M2Q1000JAHEL,,,,,0,0
+58656,Dialog,JAHEL,Now please go save my Neva!,이제 가서 제 네바를 구해주세요!,M2Q1000JAHEL,,,,,0,0
+58657,Dialog,JAHEL,Now please go save my Neva!,이제 가서 제 네바를 구해주세요!,M2Q1000JAHEL,,,,,0,0

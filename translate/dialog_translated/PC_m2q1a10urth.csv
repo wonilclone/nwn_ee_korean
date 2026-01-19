@@ -1,0 +1,31 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+31893,PC,Player Character,Who are you?,너 누구야?,m2q1a10urth,,[지능 보통],,,0,0
+31894,PC,Player Character,I'm here to kill you. That's the only way.,널 죽이러 왔어. 그것만이 방법이야.,m2q1a10urth,,[지능 보통],,,0,0
+31895,PC,Player Character [M2Q1S],I have some silver charms. Will you use one?,은 부적들을 가지고 있어. 하나 쓸래?,m2q1a10urth,,m2q1scurth3n,[M2Q1S],,0,0
+31896,PC,Player Character,"Me musts know who you be, yuh?","나 너 누군지 알아야 해, 알지?",m2q1a10urth,,[지능 낮음],,,0,0
+31897,PC,Player Character,"Me gots to kill you. No offense, huh?","나 너 죽여야 해. 기분 나쁘게 생각 말고, 응?",m2q1a10urth,,[지능 낮음],,,0,0
+31898,PC,Player Character [M2Q1S],"Me gots silver charms. Fix you up, all good!","나 은 부적들 가지고 있어. 너 고쳐줄게, 다 좋아질 거야!",m2q1a10urth,,m2q1scurth3l,[M2Q1S],,0,0
+31899,PC,Player Character,<StartCheck>[Persuade]</Start> These are cures. They'll restore you.,<StartCheck>[설득]</Start> 이건 치료제야. 너를 회복시킬 거야.,m2q1a10urth,,[지능 보통],,,0,0
+31900,PC,Player Character,I'm here to kill you or cure you. You pick which I do.,널 죽이거나 치료하러 왔어. 네가 골라.,m2q1a10urth,,[지능 보통],,,0,0
+31901,PC,Player Character,Prepare yourself for death then.,그럼 죽을 준비해.,m2q1a10urth,,[지능 보통],,,0,0
+31902,PC,Player Character,"<StartCheck>[Persuade]</Start> You want get fixed, yuh? Take this.","<StartCheck>[설득]</Start> 너 고쳐지고 싶지, 응? 이거 받아.",m2q1a10urth,,[지능 낮음],,,0,0
+31903,PC,Player Character,"Me kill or cure you. You picks, yuh?","나 너 죽이거나 치료해. 너 고르는 거야, 알지?",m2q1a10urth,,[지능 낮음],,,0,0
+31904,PC,Player Character,"Me kill you, stop this plague, yuh.","나 너 죽여서 이 역병 멈춰, 알지.",m2q1a10urth,,[지능 낮음],,,0,0
+31905,PC,Player Character,Who you gives ring to?,너 누구한테 반지 줬어?,m2q1a10urth,,[지능 낮음],,,0,0
+31906,PC,Player Character,You gave your ring away? To whom?,반지를 넘겼다고? 누구한테?,m2q1a10urth,,[지능 보통],,,0,0
+31907,PC,Player Character,How did you ever become a werewolf?,도대체 어떻게 늑대인간이 됐어?,m2q1a10urth,,[지능 보통],,,0,0
+31908,PC,Player Character [M2Q1A03],"<StartCheck>[Insight]</Start> I've been sent to end the werewolf menace. If you give me your ring, I will leave and no one will come searching for you in the future.","<StartCheck>[통찰]</Start> 늑대인간 위협을 끝내러 파견됐어. 반지를 주면, 떠날게. 그러면 앞으로 아무도 널 찾지 않을 거야.",m2q1a10urth,,m2q1a03alhlr_p7a,[M2Q1A03],,0,0
+31909,PC,Player Character,I'll go find help for you. Just stay here.,도움을 찾아올게. 여기 있어.,m2q1a10urth,,[지능 보통],,,0,0
+31910,PC,Player Character,"Me gets help, yuh? You stays here!","나 도움 받아올게, 알지? 너 여기 있어!",m2q1a10urth,,[지능 낮음],,,0,0
+31911,PC,Player Character,"Uh, wha' happen to you?","어, 너한테 무슨 일 있었어?",m2q1a10urth,,[지능 낮음],,,0,0
+31912,PC,Player Character,Just give me your ring.,그냥 반지 줘.,m2q1a10urth,,[지능 보통],,,0,0
+31913,PC,Player Character,What happened to Bran?,브랜에게 무슨 일이 있었어?,m2q1a10urth,,[지능 보통],,,0,0
+31914,PC,Player Character,Did Ander survive? Where is he now?,앤더는 살아남았어? 지금 어디 있어?,m2q1a10urth,,[지능 보통],,,0,0
+31915,PC,Player Character,Is Geth all right? Do you know where I could find him?,게스는 괜찮아? 어디서 찾을 수 있는지 알아?,m2q1a10urth,,[지능 보통],,,0,0
+31916,PC,Player Character,Where is Sir Karathis now?,카라디스 경은 지금 어디 있어?,m2q1a10urth,,[지능 보통],,,0,0
+31917,PC,Player Character,"What happens to Bran, yuh?","브랜한테 무슨 일 있었어, 응?",m2q1a10urth,,[지능 낮음],,,0,0
+31918,PC,Player Character,Where Ander went? He okay?,앤더 어디 갔어? 괜찮아?,m2q1a10urth,,[지능 낮음],,,0,0
+31919,PC,Player Character,Is Geth still alive? Can you help me find him?,게스 아직 살아 있어? 찾는 거 도와줄 수 있어?,m2q1a10urth,,[지능 낮음],,,0,0
+31920,PC,Player Character,Where Sir Karathis be?,카라디스 경 어디 있어?,m2q1a10urth,,[지능 낮음],,,0,0
+31921,PC,Player Character,Let us speak of something else.,다른 얘기 하자.,m2q1a10urth,,[지능 보통],,,0,0
+31922,PC,Player Character,We talk 'bout something else.,우리 다른 얘기 해.,m2q1a10urth,,[지능 낮음],,,0,0

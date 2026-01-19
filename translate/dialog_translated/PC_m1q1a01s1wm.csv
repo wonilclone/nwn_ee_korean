@@ -1,0 +1,33 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+16917,PC,Player Character,I want to ask you some questions.,몇 가지 여쭙고 싶습니다.,m1q1a01s1wm,,[지능 보통],,,0,0
+16918,PC,Player Character,Me want some questions from yous,질문 좀 할래.,m1q1a01s1wm,,[지능 낮음],,,0,0
+16919,PC,Player Character,Goodbye.,그럼 이만.,m1q1a01s1wm,,,,,0,0
+16920,PC,Player Character,What do you know of the plague?,역병에 대해 무엇을 아십니까?,m1q1a01s1wm,,[지능 보통],,,0,0
+16921,PC,Player Character,"<StartCheck>[Persuade]</Start> If there is something odd here, you should tell me.",<StartCheck>[설득]</Start> 여기에 이상한 일이 있다면 말씀해 주셔야 합니다.,m1q1a01s1wm,,[지능 보통],,,0,0
+16922,PC,Player Character,You know anything about the bad plague?,역병에 대해 뭐 알아?,m1q1a01s1wm,,[지능 낮음],,,0,0
+16923,PC,Player Character,"<StartCheck>[Persuade]</Start> If something odd here, you tell me, okay?","<StartCheck>[설득]</Start> 이상한 게 있으면 말해 줘, 응?",m1q1a01s1wm,,[지능 낮음],,,0,0
+16924,PC,Player Character,What do you know about attempts at a cure?,치료법을 찾으려는 시도에 대해 무엇을 아십니까?,m1q1a01s1wm,,[지능 보통],,,0,0
+16925,PC,Player Character,You know about cure attempts maybe?,치료 시도에 대해 알아?,m1q1a01s1wm,,[지능 낮음],,,0,0
+16926,PC,Player Character,I want to ask something else.,다른 걸 여쭙겠습니다.,m1q1a01s1wm,,[지능 보통],,,0,0
+16927,PC,Player Character,Me ask something else.,다른 거 물어볼래.,m1q1a01s1wm,,[지능 낮음],,,0,0
+16928,PC,Player Character,"Come now, fair lass, are you keeping secrets from me?","자, 고운 아가씨, 나한테 비밀 숨기는 건가요?",m1q1a01s1wm,,mcsgendermintn,,,0,0
+16929,PC,Player Character,"You pretty. You tell me if you hide stuff, nice lady.","예쁜 아가씨, 뭐 숨기는 거 있지?",m1q1a01s1wm,,mcsgendermintl,,,0,0
+16930,PC,Player Character [M1Q1A01],Something's wrong here. What is it?! Tell me or die!,여기 뭔가 잘못됐어. 뭔데?! 말하지 않으면 죽여!,m1q1a01s1wm,m1q1a01s1wmslg02,[지능 보통],[M1Q1A01],,0,0
+16931,PC,Player Character [M1Q1A01],Something not right? You tell me! Tell me or die!,뭔가 이상한데? 말해! 안 말하면 죽여!,m1q1a01s1wm,m1q1a01s1wmslg02,[지능 낮음],[M1Q1A01],,0,0
+16932,PC,Player Character,Are you telling me everything?!,다 말한 거 맞습니까?!,m1q1a01s1wm,,[지능 보통],,,0,0
+16933,PC,Player Character,That all you have to say? Well?!,그게 다야? 어?!,m1q1a01s1wm,,[지능 낮음],,,0,0
+16934,PC,Player Character,What kind of sounds?,어떤 소리였죠?,m1q1a01s1wm,,[지능 보통],,,0,0
+16935,PC,Player Character,What sounds? What there?,무슨 소리? 뭐가 있는데?,m1q1a01s1wm,,[지능 낮음],,,0,0
+16936,PC,Player Character,"I'm going to go look, all right?","제가 가서 확인해 보겠습니다, 괜찮겠죠?",m1q1a01s1wm,,[지능 보통],,,0,0
+16937,PC,Player Character,Me go look and you not stop me!,나 가서 볼 거야. 말리지 마!,m1q1a01s1wm,,[지능 낮음],,,0,0
+16938,PC,Player Character,Me gots to check it out.,가서 확인해야 해.,m1q1a01s1wm,,[지능 낮음],,,0,0
+16939,PC,Player Character,I'm going to go look. Stay out of my way.,가서 확인해 보겠습니다. 길을 비켜 주십시오.,m1q1a01s1wm,,[지능 보통],,,0,0
+16940,PC,Player Character,Do you know of anything odd? Any rumors?,이상한 일이나 소문을 아십니까?,m1q1a01s1wm,,[지능 보통],,,0,0
+16941,PC,Player Character,You hear anything odd ever? Maybe rumor stuff?,이상한 거 들은 적 있어? 소문 같은 거?,m1q1a01s1wm,,[지능 낮음],,,0,0
+16942,PC,Player Character,You seem agitated. Are you all right?,"불안해 보이는데, 괜찮습니까?",m1q1a01s1wm,,[지능 보통],,,0,0
+16943,PC,Player Character,You okay? You get all shakey.,떨고 있네. 괜찮아?,m1q1a01s1wm,,[지능 낮음],,,0,0
+16944,PC,Player Character,<StartCheck>[Insight]</Start> You seem agitated. Is there something hidden here?,<StartCheck>[통찰]</Start> 불안해 보입니다. 이곳에 숨겨 둔 게 있습니까?,m1q1a01s1wm,,nw_d2_wis_intn,,,0,0
+16945,PC,Player Character,Go over this secret again for me.,"그 비밀 얘기, 한 번만 더 들려 주십시오.",m1q1a01s1wm,,[지능 보통],,,0,0
+16946,PC,Player Character,"You say about secret again for me, okay?","그 비밀 다시 말해 줘, 응?",m1q1a01s1wm,,[지능 낮음],,,0,0
+16947,PC,Player Character [M1Q1A01],Tell me about what is going on here! Say or die!,여기서 무슨 일이 일어나고 있는지 말해! 안 말하면 죽여!,m1q1a01s1wm,m1q1a01s1wmslg02,[지능 보통],[M1Q1A01],,0,0
+16948,PC,Player Character [M1Q1A01],You say what is happening here! Do it or die!,여기서 무슨 일 났는지 말해! 안 하면 죽여!,m1q1a01s1wm,m1q1a01s1wmslg02,[지능 낮음],[M1Q1A01],,0,0

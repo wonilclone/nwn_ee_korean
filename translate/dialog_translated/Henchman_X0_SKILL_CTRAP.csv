@@ -1,0 +1,49 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+76461,Henchman,Henchman_X0_SKILL_CTRAP,If you have the appropriate material components you may use your Craft Trap skill to build a trap.,"적절한 재료가 있으면 함정 제작 기술을 사용하여 함정을 만들 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+76462,Henchman,Henchman_X0_SKILL_CTRAP,"Choose how lethal the trap will be. The more lethal the trap, the more difficult it is to construct. Minor traps require one component, average traps three, strong traps five, and deadly traps require seven components.","함정의 치명도를 선택하세요. 치명적일수록 제작하기 어렵습니다. 약한 함정은 재료 1개, 보통 함정은 3개, 강한 함정은 5개, 치명적 함정은 7개가 필요합니다.",X0_SKILL_CTRAP,,,,,0,0
+76463,Henchman,Henchman_X0_SKILL_CTRAP,The following list specifies the materials required to construct certain trap types.,"다음 목록은 특정 함정 유형을 만드는 데 필요한 재료를 명시합니다.",X0_SKILL_CTRAP,,,,,0,0
+76464,Henchman,Henchman_X0_SKILL_CTRAP,"A flask of acid is normally used for hurling, but these can also be purchased to make acid traps.","산 플라스크는 보통 투척용이지만, 산 함정을 만드는 데에도 구매할 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+76465,Henchman,Henchman_X0_SKILL_CTRAP,Thunderstone can be bought in many stores.,"천둥석은 많은 상점에서 살 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+76466,Henchman,Henchman_X0_SKILL_CTRAP,Skeletons are a good source of these.,"해골은 이것들의 좋은 공급원입니다.",X0_SKILL_CTRAP,,,,,0,0
+76467,Henchman,Henchman_X0_SKILL_CTRAP,"Coldstone is often hard to find, as it is usually horded by cold loving creatures.","냉기석은 보통 추위를 좋아하는 생명체들이 모아두기 때문에 찾기 어렵습니다.",X0_SKILL_CTRAP,,,,,0,0
+76468,Henchman,Henchman_X0_SKILL_CTRAP,Choking powder is available in black market stores.,"질식 가루는 암시장 상점에서 구할 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+76469,Henchman,Henchman_X0_SKILL_CTRAP,Holy water can often be purchased from temple stores.,"성수는 종종 신전 상점에서 살 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+76470,Henchman,Henchman_X0_SKILL_CTRAP,Caltrops are often sold in black market stores.,"쇠못은 종종 암시장 상점에서 팝니다.",X0_SKILL_CTRAP,,,,,0,0
+76471,Henchman,Henchman_X0_SKILL_CTRAP,You can buy Tanglefoot Bags in many stores.,"발엉킴 자루는 많은 상점에서 살 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+76472,Henchman,Henchman_X0_SKILL_CTRAP,This rare mineral can usually only be found by adventuring. Wizards often have chunks of quartz on hand for certain rituals.,"이 희귀한 광물은 보통 모험을 통해서만 찾을 수 있습니다. 마법사들은 특정 의식을 위해 석영 덩어리를 갖고 있는 경우가 많습니다.",X0_SKILL_CTRAP,,,,,0,0
+76473,Henchman,Henchman_X0_SKILL_CTRAP,You can buy Alchemist's fire in stores.,"연금술사의 불은 상점에서 살 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+86902,Henchman,Henchman_X0_SKILL_CTRAP,Craft Skills Menu,"제작 기술 메뉴",X0_SKILL_CTRAP,,,,,0,0
+86903,Henchman,Henchman_X0_SKILL_CTRAP,You can use your craft weapon skill to modify the appearance of the weapon you have equipped in your right hand.,"무기 제작 기술을 사용하여 오른손에 장비한 무기의 외형을 수정할 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+86904,Henchman,Henchman_X0_SKILL_CTRAP,"Select weapon part to modify. Complex changes are more difficult and expensive.
+Current Cost: <StartAction><CUSTOM14420></Start> GP
+DC: <StartAction><CUSTOM14421></Start>","수정할 무기 부위를 선택하세요. 복잡한 변경은 더 어렵고 비쌉니다.
+현재 비용: <StartAction><CUSTOM14420></Start> 금화
+난이도: <StartAction><CUSTOM14421></Start>",X0_SKILL_CTRAP,,,,,0,0
+86905,Henchman,Henchman_X0_SKILL_CTRAP,You do not possess the required <StartAction><CUSTOM14420></Start> GP to modify this weapon.,"이 무기를 수정하는 데 필요한 <StartAction><CUSTOM14420></Start> 금화가 없습니다.",X0_SKILL_CTRAP,,,,,0,0
+86906,Henchman,Henchman_X0_SKILL_CTRAP,"It will cost you <StartAction><CUSTOM14420></Start> GP to modify this weapon.
+DC: <StartAction><CUSTOM14421></Start>","이 무기를 수정하는 데 <StartAction><CUSTOM14420></Start> 금화가 듭니다.
+난이도: <StartAction><CUSTOM14421></Start>",X0_SKILL_CTRAP,,,,,0,0
+86907,Henchman,Henchman_X0_SKILL_CTRAP,"Currently viewing: <StartAction><CUSTOM12220></Start>
+Current Cost: <StartAction><CUSTOM14420></Start> GP
+DC: <StartAction><CUSTOM14421></Start>","현재 보기: <StartAction><CUSTOM12220></Start>
+현재 비용: <StartAction><CUSTOM14420></Start> 금화
+난이도: <StartAction><CUSTOM14421></Start>",X0_SKILL_CTRAP,,,,,0,0
+86908,Henchman,Henchman_X0_SKILL_CTRAP,You can use your craft armor skill to add or remove a robe from your armor.,"갑옷 제작 기술을 사용하여 갑옷에 로브를 추가하거나 제거할 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+86909,Henchman,Henchman_X0_SKILL_CTRAP,You can use your craft armor skill to change the current appearance of your armor.,"갑옷 제작 기술을 사용하여 갑옷의 현재 외형을 변경할 수 있습니다.",X0_SKILL_CTRAP,,,,,0,0
+86910,Henchman,Henchman_X0_SKILL_CTRAP,"Select armor part to modify. Complex changes are more difficult and expensive.
+Current Cost: <StartAction><CUSTOM14420></Start> GP
+DC: <StartAction><CUSTOM14421></Start>","수정할 갑옷 부위를 선택하세요. 복잡한 변경은 더 어렵고 비쌉니다.
+현재 비용: <StartAction><CUSTOM14420></Start> 금화
+난이도: <StartAction><CUSTOM14421></Start>",X0_SKILL_CTRAP,,,,,0,0
+86911,Henchman,Henchman_X0_SKILL_CTRAP,You do not possess the required <StartAction><CUSTOM14420></Start> GP to modify this armor.,"이 갑옷을 수정하는 데 필요한 <StartAction><CUSTOM14420></Start> 금화가 없습니다.",X0_SKILL_CTRAP,,,,,0,0
+86912,Henchman,Henchman_X0_SKILL_CTRAP,"It will cost you <StartAction><CUSTOM14420></Start> GP to modify this armor.
+DC: <StartAction><CUSTOM14421></Start>","이 갑옷을 수정하는 데 <StartAction><CUSTOM14420></Start> 금화가 듭니다.
+난이도: <StartAction><CUSTOM14421></Start>",X0_SKILL_CTRAP,,,,,0,0
+86913,Henchman,Henchman_X0_SKILL_CTRAP,Select part to modify,"수정할 부위 선택",X0_SKILL_CTRAP,,,,,0,0
+86914,Henchman,Henchman_X0_SKILL_CTRAP,Which part,"어느 부위",X0_SKILL_CTRAP,,,,,0,0
+86915,Henchman,Henchman_X0_SKILL_CTRAP,"Currently viewing: <StartAction><CUSTOM12220></Start>
+Current Cost: <StartAction><CUSTOM14420></Start> GP
+DC: <StartAction><CUSTOM14421></Start>","현재 보기: <StartAction><CUSTOM12220></Start>
+현재 비용: <StartAction><CUSTOM14420></Start> 금화
+난이도: <StartAction><CUSTOM14421></Start>",X0_SKILL_CTRAP,,,,,0,0
+86916,Henchman,Henchman_X0_SKILL_CTRAP,You can not use your craft skills at this time.,"지금은 제작 기술을 사용할 수 없습니다.",X0_SKILL_CTRAP,,,,,0,0

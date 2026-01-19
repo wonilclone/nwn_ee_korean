@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+89906,Dialog,AT_PURFBIN,"""What is it ya want me to do?""","""그래, 날 시켜서 뭘 하라고?""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89907,Dialog,AT_PURFBIN,"""Really? Well... if you're sure...""","""정말? 음... 그렇다면야...""",AT_PURFBIN|TOMI,,,,,0,0
+89908,Dialog,AT_PURFBIN,"""Sure enough, I'll do my best.""","""좋아, 최선을 다해볼게.""",AT_PURFBIN|TOMI,,,,,0,0
+89909,Dialog,AT_PURFBIN,"""Stop the creepin' and start the runnin'. I hears ya.""","""몰래 기어 다니긴 그만두고 이제 뛰라고? 알겠어.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89910,Dialog,AT_PURFBIN,"""Right! Stealthy it is!""","""좋아! 은밀하게 가는 거지!""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89911,Dialog,AT_PURFBIN,"""Then what do ya have me around for?"" He shrugs. ""Suit yerself.""","""그럼 날 데리고 다니는 이유가 뭐야?"" 그는 어깨를 으쓱합니다. ""좋을 대로 해.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89912,Dialog,AT_PURFBIN,"""Aye, it's only natural you'll need my help wi' that stuff.""","""응, 그런 건 당연히 내 도움이 필요하지.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89913,Dialog,AT_PURFBIN,"""An' just how far does ya want me to stand away?""","""그래서 얼마나 떨어져 있으라구?""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89914,Dialog,AT_PURFBIN,"He shrugs. ""Fair enough, I guess.""","그는 어깨를 으쓱한다. ""좋아, 뭐.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89915,Dialog,AT_PURFBIN,"""Just run right in there? Alrighty!""","""그냥 달려 들어가라고? 좋아!""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89916,Dialog,AT_PURFBIN,"He nods. ""I'll try me best.""","그는 고개를 끄덕입니다. ""최선을 다해볼게.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89917,Dialog,AT_PURFBIN,"""Well, alright. But don't get bloody grabby or anythin'.""","""좋아, 알았어. 근데 피투성이 손으로 막 더듬거리는 건 금지야.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89922,Dialog,AT_PURFBIN,"""It's all jus' peachy. Couldn't be better. Well... I could be fabulously wealthy and surrounded by a harem o' buxom halfling lasses... but I don't expect you ta provide that anytime quick, ha ha ha!""","""다 완전 끝내줘. 더할 나위 없지. 뭐... 내가 엄청 부자에 글래머한 하플링 아가씨들 하렘에 둘러싸여 있으면 더 좋겠지만... 그건 당장은 안 되겠지, 하하하!""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89923,Dialog,AT_PURFBIN,"""Anything else special ye want t' discuss?""","""다른 특별한 얘기 있어?""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89924,Dialog,AT_PURFBIN,"""Bit o' gas."" His eyes go wide and suddenly he lets out a giant belch. ""Aw, there we go. Never mind.""","""가스가 좀..."" 그의 눈이 휘둥그레지더니, 갑자기 요란하게 트림을 내뿜습니다. ""아, 됐다. 신경 꺼.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89925,Dialog,AT_PURFBIN,"""Why're ye botherin' yerself with me? Get on, you.""","""왜 나한테 신경을 써? 가서 할 일이나 해.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89926,Dialog,AT_PURFBIN,"""Fine, fine. Just composin' me memoirs in me head, is all.""","""알았어, 알았어. 그냥 머릿속으로 내 회고록을 쓰는 중이었거든.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89927,Dialog,AT_PURFBIN,"""Not too bad. I'm thinkin' of joinin' a circus, maybe, when I get back to civilized life. What do ya think of that?""","""나쁘진 않아. 문명이 있는 곳으로 돌아가면 서커스에 들어가볼까 생각 중인데, 어때?""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89928,Dialog,AT_PURFBIN,"""I could use a larger share of the bloody loot, if you're offerin'. Heh.""","""피 묻은 전리품에서 내 몫 좀 더 챙겨줘도 좋고. 헤헷.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89929,Dialog,AT_PURFBIN,"""Think I got a boil on me arse, but otherwise than that, everything's dandy.""","""엉덩이에 종기가 하나 난 것 같긴 한데, 그거 말곤 완전 멀쩡해.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89930,Dialog,AT_PURFBIN,"""It'd be fine an' well enough. Could ya tell me if it's just real dark... or am I actually blinded? I'm a bit concerned, ya know.""","""괜찮을 거야, 아마. 근데 여기가 정말 어두운 건지... 내가 진짜 눈이 먼 건지 말해 줄래? 살짝 걱정돼서.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89931,Dialog,AT_PURFBIN,"""Pfeh, don't worry about me none. Just a few scratches, nothin' more.""","""프흣, 난 걱정 마. 그냥 긁힌 상처 몇 개야.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89932,Dialog,AT_PURFBIN,"""Just got a bit messed up back there, heh. Nothin' ta see here.""","""아까 좀 엉망이 되긴 했지, 헤. 볼 것까지는 없어.""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89933,Dialog,AT_PURFBIN,"""Just... got a few scratches an' such. Nothin' to worry about."" He winces and attempts to hold in the severe bleeding of his abdomen with a free arm.","""그냥... 몇 군데 긁혔을 뿐이야, 별거 아냐."" 그는 얼굴을 찡그리며 빈 팔로 배에서 솟는 심한 피를 틀어막으려 합니다.",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89934,Dialog,AT_PURFBIN,"""Oy! It's all fine an' dandy, except for the liquid fire I got runnin' through me veins. I expect that'll... work itself out...""","""어이! 완전 멀쩡해-내 혈관을 타고 흐르는 불덩이만 빼면 말이지. 그건... 알아서 해결되겠지...""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0
+89935,Dialog,AT_PURFBIN,"""Not too bad, except for these weird splotches on me skin an' such. Ya suppose that's a bad thing?""","""피부에 이상한 반점이 좀 생긴 것만 빼면 나쁘지 않아. 이거... 안 좋은 건가?""",AT_PURFBIN|AT_RAEGEN|TOMI,,,,,0,0

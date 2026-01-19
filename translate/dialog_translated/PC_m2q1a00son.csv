@@ -1,0 +1,48 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30129,PC,Player Character,Could I ask you some questions?,질문 몇 가지 해도 될까요?,m2q1a00son,,[지능 보통],,,0,0
+30130,PC,Player Character,Me want ask questions.,나 질문 하고 싶어.,m2q1a00son,,[지능 낮음],,,0,0
+30131,PC,Player Character,Goodbye.,안녕.,m2q1a00son,,,,,0,0
+30132,PC,Player Character,I need information about Port Llast.,라스트 항구에 대한 정보가 필요해요.,m2q1a00son,,[지능 보통],,,0,0
+30133,PC,Player Character [M2Q1A],Urth? Who's that?,어스요? 그게 누구죠?,m2q1a00son,,m2q1atfarmson1a,[M2Q1A],,0,0
+30134,PC,Player Character,Do you know anything about the surrounding region?,주변 지역에 대해 아는 거 있어요?,m2q1a00son,,[지능 보통],,,0,0
+30135,PC,Player Character,What you know of Port Llast?,너 라스트 항구 뭐 알아?,m2q1a00son,,[지능 낮음],,,0,0
+30136,PC,Player Character [M2Q1A],What you mean Urth? Who that?,너 어스 무슨 뜻이야? 그게 누구야?,m2q1a00son,,m2q1atfarmson1b,[M2Q1A],,0,0
+30137,PC,Player Character,What you know happen outside Port Llast?,너 라스트 항구 밖에서 무슨 일 일어나는지 알아?,m2q1a00son,,[지능 낮음],,,0,0
+30138,PC,Player Character,"<StartCheck>[Insight]</Start> Is there anyone else that could help me? A local, maybe?",<StartCheck>[통찰]</Start> 나를 도와줄 수 있는 다른 사람이 있나요? 지역 주민이라든지?,m2q1a00son,,templ_ing8wig13,,,0,0
+30139,PC,Player Character,<StartCheck>[Persuade]</Start> It's okay to tell me. I want to help.,<StartCheck>[설득]</Start> 말해도 괜찮아요. 나 돕고 싶어요.,m2q1a00son,,[지능 보통],,,0,0
+30140,PC,Player Character,<StartCheck>[Insight]</Start> Who are the Eisenfeldts? Where do they live?,<StartCheck>[통찰]</Start> 아이젠펠트 씨들이 누구죠? 어디 사세요?,m2q1a00son,,templ_ing8wig13,,,0,0
+30141,PC,Player Character,"<StartCheck>[Persuade]</Start> You trusts me, yes? Me help.","<StartCheck>[설득]</Start> 너 나 믿어, 그렇지? 나 도와줄게.",m2q1a00son,,[지능 낮음],,,0,0
+30142,PC,Player Character,I just need some directions.,길 안내만 필요해요.,m2q1a00son,,[지능 보통],,,0,0
+30143,PC,Player Character,"Me need help with directions? You can, yes?","나 길 안내 도움 필요해? 너 할 수 있지, 응?",m2q1a00son,,[지능 낮음],,,0,0
+30144,PC,Player Character,Is there an inn nearby?,근처에 여관이 있나요?,m2q1a00son,,[지능 보통],,,0,0
+30145,PC,Player Character,Is there a temple in town?,마을에 사원이 있나요?,m2q1a00son,,[지능 보통],,,0,0
+30146,PC,Player Character,I need to buy some equipment.,장비를 좀 사야 하는데요.,m2q1a00son,,[지능 보통],,,0,0
+30147,PC,Player Character,Are there any rangers or druids within town?,마을에 순찰자나 드루이드가 있나요?,m2q1a00son,,nw_d2_naturi_n,,,0,0
+30148,PC,Player Character,"Me tired. Me wants sleep, yuh?","나 피곤해. 나 자고 싶어, 응?",m2q1a00son,,[지능 낮음],,,0,0
+30149,PC,Player Character,"Me look for holy place. Me needs temple, yuh?","나 신성한 곳 찾아. 나 사원 필요해, 응?",m2q1a00son,,[지능 낮음],,,0,0
+30150,PC,Player Character,Me needs new stuff to buy.,나 새 물건 사야 해.,m2q1a00son,,[지능 낮음],,,0,0
+30151,PC,Player Character,Where me hire people - help me fight?,나 사람들 고용하는 곳 어디야 - 나 싸우는 거 도와줄?,m2q1a00son,,[지능 낮음],,,0,0
+30152,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 걸 물어보고 싶어요.",m2q1a00son,,[지능 보통],,,0,0
+30153,PC,Player Character,Me asks something else. Okay?,나 다른 거 물어봐. 괜찮지?,m2q1a00son,,[지능 낮음],,,0,0
+30154,PC,Player Character,"Yes, I am an adventurer.","네, 저는 모험가예요.",m2q1a00son,,[지능 보통],,,0,0
+30155,PC,Player Character,Me yes - is adventurer <man/woman>.,나 응 - 모험가 <man/woman>야.,m2q1a00son,,[지능 낮음],,,0,0
+30156,PC,Player Character,I need to hire some adventurers.,나 모험가들 고용해야 해.,m2q1a00son,,[지능 낮음],,,0,0
+30157,PC,Player Character,Me wonders if Port Llast got rangers or druids?,나 라스트 항구에 순찰자나 드루이드 있는지 궁금해.,m2q1a00son,,nw_d2_naturi_l,,,0,0
+30158,PC,Player Character,Tell me about Ander.,앤더에 대해 말해 주세요.,m2q1a00son,,[지능 보통],,,0,0
+30159,PC,Player Character,Who Ander be?,앤더가 누구야?,m2q1a00son,,[지능 낮음],,,0,0
+30160,PC,Player Character,There are werewolves in Port Llast?,라스트 항구에 늑대인간들이 있어요?,m2q1a00son,,[지능 보통],,,0,0
+30161,PC,Player Character,You gots werewolfs at Port Llast?,너 라스트 항구에 늑대인간 있어?,m2q1a00son,,[지능 낮음],,,0,0
+30162,PC,Player Character,Do you know anything about this knight?,그 기사에 대해 아는 거 있어요?,m2q1a00son,,[지능 보통],,,0,0
+30163,PC,Player Character,Who knight be? You know?,기사 누구야? 너 알아?,m2q1a00son,,[지능 낮음],,,0,0
+30164,PC,Player Character,You shouldn't get so excited about adventuring. It's a rough life.,모험에 그렇게 들뜨면 안 돼요. 힘든 삶이에요.,m2q1a00son,,[지능 보통],,,0,0
+30165,PC,Player Character,You want being adventurer? Too rough for anyone. Bad stuff.,너 모험가 되고 싶어? 누구한테나 너무 힘들어. 나쁜 일이야.,m2q1a00son,,[지능 낮음],,,0,0
+30166,PC,Player Character,Who? Me? I'm no adventurer.,누구요? 저요? 저는 모험가가 아니에요.,m2q1a00son,,[지능 보통],,,0,0
+30167,PC,Player Character,"Me not adventurer - no how, no way!",나 모험가 아니야 - 절대 아니야!,m2q1a00son,,[지능 낮음],,,0,0
+30168,PC,Player Character,Does your pop not like adventurers?,네 아버지가 모험가를 좋아하지 않으세요?,m2q1a00son,,[지능 보통],,,0,0
+30169,PC,Player Character,What pop got against me adventuring people?,아빠가 나 같은 모험가한테 뭐가 불만이야?,m2q1a00son,,[지능 낮음],,,0,0
+30170,PC,Player Character,Let me ask something else.,다른 걸 물어볼게요.,m2q1a00son,,[지능 보통],,,0,0
+30171,PC,Player Character,Me gots other question.,나 다른 질문 있어.,m2q1a00son,,[지능 낮음],,,0,0
+30172,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Whiny"" Shaldrissa? Who's that?","<StartCheck>[설득]</Start> ""징징대는"" 샬드리사요? 그게 누구죠?",m2q1a00son,,[지능 보통],,,0,0
+30173,PC,Player Character,"<StartCheck>[Persuade]</Start> What you says ""whiny"" Shaldrissa? Who she?","<StartCheck>[설득]</Start> ""징징대는"" 샬드리사 누구야? 그녀가 누구야?",m2q1a00son,,[지능 낮음],,,0,0
+30174,PC,Player Character,Where might I find Ander?,앤더를 어디서 찾을 수 있을까요?,m2q1a00son,,[지능 보통],,,0,0
+30175,PC,Player Character,Me maybe talk to Ander?,나 앤더한테 얘기할 수 있을까?,m2q1a00son,,[지능 낮음],,,0,0

@@ -1,0 +1,21 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70596,PC,Player Character,Goodbye.,잘 가.,q1ggilford,,,,,0,0
+70597,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶어.,q1ggilford,,,,,0,0
+70598,PC,Player Character,Never mind.,아무것도 아니야.,q1ggilford,,,,,0,0
+70599,PC,Player Character,Tell me about Ilmater.,일메이터에 대해 말해줘.,q1ggilford,,,,,0,0
+70600,PC,Player Character,<StartCheck>[Persuade - lie]</Start> So the new Kobold Defense Tax is going to hurt you then.,<StartCheck>[설득 - 거짓말]</Start> 그럼 새로운 코볼트 방어세가 부담이 되겠군.,q1ggilford,,con_gilford_1,,,0,0
+70601,PC,Player Character,Could I make a donation?,기부를 할 수 있을까?,q1ggilford,,,,,0,0
+70602,PC,Player Character,Never mind.,아무것도 아니야.,q1ggilford,,,,,0,0
+70603,PC,Player Character,100 gold.,금화 100개.,q1ggilford,act_gilford_4,con_gilford_6,,,0,0
+70604,PC,Player Character,10 gold.,금화 10개.,q1ggilford,act_gilford_5,con_gilford_5,,,0,0
+70605,PC,Player Character,1 gold.,금화 1개.,q1ggilford,act_gilford_6,con_gilford_4,,,0,0
+70606,PC,Player Character,You sure complain a great deal.,불평이 정말 많군.,q1ggilford,,,,,0,0
+70607,PC,Player Character,Why are you so drained?,왜 그렇게 기력이 없어?,q1ggilford,,,,,0,0
+70608,PC,Player Character,Do you know where the kobolds went?,코볼트들이 어디로 갔는지 알아?,q1ggilford,,,,,0,0
+70609,PC,Player Character,That's all my questions.,질문은 다 했어.,q1ggilford,,,,,0,0
+70610,PC,Player Character,I need healing.,치유가 필요해.,q1ggilford,,xp1_needheal_n,,,0,0
+70611,PC,Player Character,Never mind.,아무것도 아니야.,q1ggilford,,,,,0,0
+70612,PC,Player Character,A small fee? 20 gold is no small fee!,적은 비용? 금화 20개가 적은 비용이라고!,q1ggilford,,,,,0,0
+70613,PC,Player Character,I don't have that much.,그만큼은 없어.,q1ggilford,,,,,0,0
+70614,PC,Player Character,"Alright, I will pay.","알았어, 낼게.",q1ggilford,act_gilford_3,con_gilford_3,,,0,0
+70615,PC,Player Character,Could I see what items you have for sale?,어떤 물건들이 있는지 볼 수 있어?,q1ggilford,x1_openstore,,,,0,0

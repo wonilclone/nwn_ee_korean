@@ -1,0 +1,38 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+29811,PC,Player Character,"A dead man, maybe... ",죽은 사람일지도...,m2q1a00farmr,nw_d1_small_evil,[지능 보통],,,0,0
+29812,PC,Player Character,"A dead man, maybe... ",죽은 사람일지도...,m2q1a00farmr,nw_d1_mid_evil,[지능 보통],,,0,0
+29813,PC,Player Character,"<StartCheck>[Persuade]</Start> If it's something I can help with, though... ",<StartCheck>[설득]</Start> 내가 도울 수 있는 일이라면...,m2q1a00farmr,,[지능 보통],,,0,0
+29814,PC,Player Character,Could I ask you a few questions?,질문 몇 가지 해도 될까요?,m2q1a00farmr,,[지능 보통],,,0,0
+29815,PC,Player Character,Nevermind.,신경 쓰지 마세요.,m2q1a00farmr,,[지능 보통],,,0,0
+29816,PC,Player Character,"Step aside, peasant. I've got business.","비켜, 농부. 나 할 일이 있어.",m2q1a00farmr,,[지능 보통],,,0,0
+29817,PC,Player Character,"Me got questions, yuh?","나 질문 있어, 알았지?",m2q1a00farmr,,[지능 낮음],,,0,0
+29818,PC,Player Character,Nuthin'. It's okay.,아무것도 아니야. 괜찮아.,m2q1a00farmr,,[지능 낮음],,,0,0
+29819,PC,Player Character,Grrr. You in me way... ,으르렁. 너 내 길 막고 있어...,m2q1a00farmr,,[지능 낮음],,,0,0
+29820,PC,Player Character,Does Port Llast have a ranger or druid I could speak with?,라스트 항구에 순찰자나 드루이드가 있나요? 대화하고 싶은데요.,m2q1a00farmr,,nw_d2_naturi_l,,,0,0
+29821,PC,Player Character,Where can I find an inn?,여관은 어디에 있어요?,m2q1a00farmr,,[매력 중간/지능 중간],,,0,0
+29822,PC,Player Character,Where can I hire on some adventurers?,모험가들을 어디서 고용할 수 있어요?,m2q1a00farmr,,[매력 중간/지능 중간],,,0,0
+29823,PC,Player Character,Is there any place that sells magical and regular supplies?,마법 물품이나 일반 물자를 파는 곳이 있나요?,m2q1a00farmr,,nw_d2_arcani_n,,,0,0
+29824,PC,Player Character,Know where I can find a temple?,사원은 어디서 찾을 수 있어요?,m2q1a00farmr,,[지능 보통],,,0,0
+29825,PC,Player Character,Have any news about the surrounding region?,주변 지역에 대한 소식 있어요?,m2q1a00farmr,,[매력 높음/지능 중간],,,0,0
+29826,PC,Player Character,<StartCheck>[Insight]</Start> Any interesting characters in town?,<StartCheck>[통찰]</Start> 마을에 흥미로운 사람들이 있나요?,m2q1a00farmr,,nw_d2_wis_intn,,,0,0
+29827,PC,Player Character,"<StartCheck>[Persuade]</Start> Not the Wailing, huh?",<StartCheck>[설득]</Start> 울부짖는 죽음 역병은 아니죠?,m2q1a00farmr,,[지능 보통],,,0,0
+29828,PC,Player Character,Me tree-friend. Der other tree-friends here? Rangers and Druids?,나 자연의 친구야. 여기 다른 자연의 친구 있어? 순찰자랑 드루이드?,m2q1a00farmr,,nw_d2_naturi_l,,,0,0
+29829,PC,Player Character,Me want place to sleep and drink.,나 자고 술 마실 곳 원해.,m2q1a00farmr,,[매력 중간/지능 낮음],,,0,0
+29830,PC,Player Character,Me want helpers for adventurin'.,나 모험할 때 도와줄 사람들 원해.,m2q1a00farmr,,[매력 중간/지능 낮음],,,0,0
+29831,PC,Player Character,Me want magic stuff and supplies.,나 마법 물건이랑 물자 원해.,m2q1a00farmr,,nw_d2_arcani_l,,,0,0
+29832,PC,Player Character,Me want healer temple.,나 치료사 사원 원해.,m2q1a00farmr,,[지능 낮음],,,0,0
+29833,PC,Player Character,What happenin' outside town?,마을 밖에서 무슨 일 일어나고 있어?,m2q1a00farmr,,[매력 높음/지능 낮음],,,0,0
+29834,PC,Player Character,"Okay. Me go now, den.",좋아. 나 이제 가.,m2q1a00farmr,,[지능 낮음],,,0,0
+29835,PC,Player Character,<StartCheck>[Persuade]</Start> Yuh? No Wailin'?,<StartCheck>[설득]</Start> 응? 울부짖는 죽음 역병 아니야?,m2q1a00farmr,,[지능 낮음],,,0,0
+29836,PC,Player Character,"Not dead man, no.","죽은 사람 아니야, 아니.",m2q1a00farmr,nw_d1_small_evil,[지능 낮음],,,0,0
+29837,PC,Player Character,"<StartCheck>[Persuade]</Start> That's okay. Me here to help, yuh?","<StartCheck>[설득]</Start> 괜찮아. 나 도우러 여기 왔어, 알았지?",m2q1a00farmr,,[지능 낮음],,,0,0
+29838,PC,Player Character,"Not dead man, no.","죽은 사람 아니야, 아니.",m2q1a00farmr,nw_d1_mid_evil,[지능 낮음],,,0,0
+29839,PC,Player Character,"Thanks, that's everything.","고마워요, 그게 다예요.",m2q1a00farmr,,[지능 보통],,,0,0
+29840,PC,Player Character,Where is the inn that this Alhelor and Mr. Craulnober are staying at?,알헬러와 크롤노버 씨가 묵고 있는 여관이 어디에 있죠?,m2q1a00farmr,,[지능 보통],,,0,0
+29841,PC,Player Character,Where inn they stay at is?,그들이 묵고 있는 여관 어디야?,m2q1a00farmr,,[지능 낮음],,,0,0
+29842,PC,Player Character,I need directions.,길 안내가 필요해요.,m2q1a00farmr,,[지능 보통],,,0,0
+29843,PC,Player Character,Me want directions.,나 길 안내 원해.,m2q1a00farmr,,[지능 낮음],,,0,0
+29844,PC,Player Character,I'm looking for some people.,찾는 사람들이 있어요.,m2q1a00farmr,,[지능 보통],,,0,0
+29845,PC,Player Character,Me want find certain peoples.,나 특정 사람들 찾고 싶어.,m2q1a00farmr,,[지능 낮음],,,0,0
+29846,PC,Player Character,I have other questions.,다른 질문이 있어요.,m2q1a00farmr,,[지능 보통],,,0,0
+29847,PC,Player Character,Me gots other questions.,나 다른 질문 있어.,m2q1a00farmr,,[지능 낮음],,,0,0

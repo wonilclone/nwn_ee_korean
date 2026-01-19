@@ -1,0 +1,65 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+69235,PC,Player Character,Someone decided to throw a party?,누가 파티라도 열기로 했어?,q1_haniah,,,,,0,0
+69236,PC,Player Character,Do you usually have to put up with that?,원래 저런 걸 참고 사나?,q1_haniah,,,,,0,0
+69237,PC,Player Character,Is he drunk? ,저 사람 취한 거야?,q1_haniah,,,,,0,0
+69238,PC,Player Character,What's the matter with him?,저 사람 왜 저래?,q1_haniah,,,,,0,0
+69239,PC,Player Character,No. The school was nearly destroyed and Drogan lies near death. ,아니. 학교가 거의 파괴됐고 드로건 스승님은 죽기 직전이야.,q1_haniah,,,,,0,0
+69240,PC,Player Character,"There was nothing I couldn't handle, but Drogan was poisoned. ",내가 못 처리할 건 없었는데 드로건 스승님이 독에 당했어.,q1_haniah,,,,,0,0
+69241,PC,Player Character,We were attacked by the kobolds and Master Drogan has been poisoned.,코볼트들한테 습격당했고 드로건 스승님이 독에 중독됐어.,q1_haniah,,,,,0,0
+69242,PC,Player Character,"If I can help Drogan, then maybe he could help you.",내가 드로건 스승님을 도울 수 있다면 스승님이 당신을 도울 수 있을지도.,q1_haniah,,,,,0,0
+69243,PC,Player Character,I have problems of my own to worry about.,나도 내 걱정하기 바빠.,q1_haniah,,,,,0,0
+69244,PC,Player Character,That is all. Goodbye.,그게 다야. 안녕.,q1_haniah,,,,,0,0
+69245,PC,Player Character,I could use a little encouragement.,격려 좀 해줄 수 없어?,q1_haniah,,nw_d2_male,,,0,0
+69246,PC,Player Character,I need some herbs to help Drogan.,드로건 스승님을 돕기 위해 약초가 필요해.,q1_haniah,,con_haniah8,,,0,0
+69247,PC,Player Character,I met a man called Szaren.,자렌이라는 사람을 만났어.,q1_haniah,,con_verant_1,,,0,0
+69248,PC,Player Character,It is foolish of you to drive him away.,그를 쫓아내다니 어리석은 짓이야.,q1_haniah,act_haniah1,,,,0,0
+69249,PC,Player Character,I think you should let him stay. ,그를 머물게 해야 할 것 같아.,q1_haniah,,,,,0,0
+69250,PC,Player Character,He was hoping you would reconsider his proposition.,당신이 그의 제안을 다시 생각해 주길 바라더라.,q1_haniah,,,,,0,0
+69251,PC,Player Character,I didn't know the Red Wizards are evil.,붉은 마법사단이 사악한 줄 몰랐어.,q1_haniah,,,,,0,0
+69252,PC,Player Character,"I have spoken to Szaren in length, and I think he should stay.",자렌과 길게 얘기해 봤는데 그가 머물러야 할 것 같아.,q1_haniah,,con_haniah16,,,0,0
+69253,PC,Player Character,"I shall go speak to him some more, so that I can make an informed decision.",좀 더 얘기해 보고 판단할게.,q1_haniah,,,,,0,0
+69254,PC,Player Character,"<StartCheck>[Persuade - Intimidate]</Start> If you don't let the wizard stay, the mayor might have an accident.","<StartCheck>[설득 - 위협]</Start> 그 마법사를 안 머물게 하면 시장한테 사고가 생길 수도 있어.",q1_haniah,act_haniah1,,,,0,0
+69255,PC,Player Character,"<StartAction>[Persuade - Intimidate]</Start> Listen Haniah, you let Szaren stay or Veraunt dies!","<StartAction>[설득 - 위협]</Start> 들어 하니아, 자렌을 머물게 해. 안 그러면 베라운트가 죽어!",q1_haniah,act_haniah7,,,,0,0
+69256,PC,Player Character,<StartAction>[Leave]</Start>,<StartAction>[떠난다]</Start>,q1_haniah,,,,,0,0
+69257,PC,Player Character,"Sorry, I only meant that in jest.",미안 그냥 농담이었어.,q1_haniah,,,,,0,0
+69258,PC,Player Character,<StartAction>[Cast Charm]</Start>  Szaren is an ally and should remain here in Hilltop.,<StartAction>[매혹 시전]</Start> 자렌은 아군이야. 힐탑에 머물러야 해.,q1_haniah,act_haniah8,xp1_checkcharm,,,0,0
+69259,PC,Player Character,He may stay...,그가 머물러도 돼...,q1_haniah,,,,,0,0
+69260,PC,Player Character,<StartCheck>[Persuade]</Start> Szaren only wishes to bring us prosperity. ,<StartCheck>[설득]</Start> 자렌은 우리에게 번영을 가져다주고 싶을 뿐이야.,q1_haniah,,,,,0,0
+69261,PC,Player Character,<StartCheck>[Persuade]</Start> Hilltop would be better defended from attacks if the Red Wizards were here.,<StartCheck>[설득]</Start> 붉은 마법사단이 여기 있으면 힐탑이 공격에 더 잘 방어될 거야.,q1_haniah,,,,,0,0
+69262,PC,Player Character,"You are making a big mistake, Haniah.",큰 실수하는 거야 하니아.,q1_haniah,act_verant_3,,,,0,0
+69263,PC,Player Character,I will tell him of your decision. ,당신 결정을 그에게 전할게.,q1_haniah,act_verant_3,,,,0,0
+69264,PC,Player Character,I shall make him leave a swiftly as possible.,최대한 빨리 그를 떠나게 할게.,q1_haniah,act_verant_3,,,,0,0
+69265,PC,Player Character,About Piper...,파이퍼 얘긴데...,q1_haniah,,con_haniah11,,,0,0
+69266,PC,Player Character,"Fine, tell me about your problems. ",좋아 무슨 문제가 있는지 말해 봐.,q1_haniah,,con_haniah10,,,0,0
+69267,PC,Player Character,"I am here to help you, Haniah.",도와주러 왔어 하니아.,q1_haniah,act_haniah3,,,,0,0
+69268,PC,Player Character,What are these problems you are having?,무슨 문제가 있는 건데?,q1_haniah,,,,,0,0
+69269,PC,Player Character,Does he make a lot of these predictions?,저런 예언을 많이 해?,q1_haniah,,,,,0,0
+69270,PC,Player Character,This is your problem? A fool of a doomsayer?,이게 문제야? 바보 같은 종말론자가?,q1_haniah,,,,,0,0
+69271,PC,Player Character,"Let me guess, Hol was killed by the kobolds.",맞춰 볼게. 홀은 코볼트한테 죽었지?,q1_haniah,,,,,0,0
+69272,PC,Player Character,I have no time to deal with a lunatic.,미치광이 상대할 시간 없어.,q1_haniah,,,,,0,0
+69273,PC,Player Character,What if he really is a prophet?,진짜 예언자면 어쩔 건데?,q1_haniah,,,,,0,0
+69274,PC,Player Character,What would you pay me to solve this problem for you?,이 문제를 해결하면 뭘 줄 건데?,q1_haniah,,,,,0,0
+69275,PC,Player Character,Perhaps we could meet somewhere private to discuss... payment.,어딘가 둘만 있는 데서 만나서... 보상에 대해 얘기해 볼까?,q1_haniah,xp1_didnotgdsm,nw_d2_male,,,0,0
+69276,PC,Player Character,You are being too vague. Name a sum or forget my help. ,너무 애매하네. 금액을 말하든가 도움은 잊어.,q1_haniah,xp1_didnotgdsm,,,,0,0
+69277,PC,Player Character,"I do nothing for kindness, Haniah. Speak to me with gold.",친절은 공짜가 아니야 하니아. 금화로 말해.,q1_haniah,xp1_didnotgdsm,,,,0,0
+69278,PC,Player Character,I guess I can help you.,도와줄 수 있을 것 같아.,q1_haniah,act_haniah4,,,,0,0
+69279,PC,Player Character,I will speak to Piper for you.,파이퍼한테 얘기해 볼게.,q1_haniah,act_haniah3,,,,0,0
+69280,PC,Player Character,That's all. Goodbye.,그게 다야. 안녕.,q1_haniah,,,,,0,0
+69281,PC,Player Character,I could use a little encouragement.,격려 좀 해줄 수 없어?,q1_haniah,,nw_d2_male,,,0,0
+69282,PC,Player Character,I need some herbs to help Drogan.,드로건 스승님을 돕기 위해 약초가 필요해.,q1_haniah,,con_haniah8,,,0,0
+69283,PC,Player Character,I have spoken to Szaren again.,자렌과 다시 얘기했어.,q1_haniah,,con_verant_8,,,0,0
+69284,PC,Player Character,I met a man called Szaren.,자렌이라는 사람을 만났어.,q1_haniah,,con_verant_1,,,0,0
+69285,PC,Player Character,It is foolish of you to drive him away.,그를 쫓아내다니 어리석은 짓이야.,q1_haniah,act_haniah1,,,,0,0
+69286,PC,Player Character,I think you should let him stay. ,그를 머물게 해야 할 것 같아.,q1_haniah,,,,,0,0
+69287,PC,Player Character,He was hoping you would reconsider his proposition.,당신이 그의 제안을 다시 생각해 주길 바라더라.,q1_haniah,,,,,0,0
+69288,PC,Player Character,Tell me about your problems. ,무슨 문제가 있는지 말해 봐.,q1_haniah,,con_haniah10,,,0,0
+69289,PC,Player Character,"Not yet, but I'm working on it.",아직 아니지만 노력 중이야.,q1_haniah,,,,,0,0
+69290,PC,Player Character,How is everything going?,상황이 어때?,q1_haniah,,,,,0,0
+69291,PC,Player Character,I will go see about Piper. ,파이퍼한테 가볼게.,q1_haniah,,,,,0,0
+69292,PC,Player Character,Piper is no longer a problem.,파이퍼는 더 이상 문제 아니야.,q1_haniah,,con_verant_2,,,0,0
+69293,PC,Player Character,Goodbye.,안녕.,q1_haniah,,,,,0,0
+69294,PC,Player Character,"No, I don't think so.",아니 그렇게 생각 안 해.,q1_haniah,,,,,0,0
+69295,PC,Player Character,I just wanted you to know that Drogan is well.,드로건 스승님이 괜찮다는 걸 알려주려고 왔어.,q1_haniah,,xp1_droganwell,,,0,0
+69296,PC,Player Character,I met a man called Szaren.,자렌이라는 사람을 만났어.,q1_haniah,,con_verant_1,,,0,0
+69297,PC,Player Character,"Fine, I will tell him to leave.",알았어 떠나라고 전할게.,q1_haniah,,,,,0,0
+69298,PC,Player Character,Fine. Goodbye.,알았어. 안녕.,q1_haniah,,,,,0,0

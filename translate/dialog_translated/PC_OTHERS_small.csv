@@ -1,0 +1,118 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+27657,PC,Player Character,I am in need of healing.,치유가 필요해.,2q4a_luskpriest,,[지능 보통],,,0,0
+27658,PC,Player Character,Do you have any healing or clerical supplies that you could sell?,팔 수 있는 치유나 성직자 용품이 있어?,2q4a_luskpriest,,[지능 보통],,,0,0
+27659,PC,Player Character,Could I ask you some questions?,질문 좀 해도 될까?,2q4a_luskpriest,,[지능 보통],,,0,0
+27660,PC,Player Character,Me need healing.,나 치유 필요해.,2q4a_luskpriest,,[지능 낮음],,,0,0
+27661,PC,Player Character,You have supplies and stuff to sell?,너 용품 팔아?,2q4a_luskpriest,,[지능 낮음],,,0,0
+27662,PC,Player Character,Me have questions.,나 질문 있어.,2q4a_luskpriest,,[지능 낮음],,,0,0
+27663,PC,Player Character,Goodbye.,안녕.,2q4a_luskpriest,,,,,0,0
+27665,PC,Player Character,Tell me about what's going on in Luskan.,러스칸에서 무슨 일이 벌어지고 있는지 말해줘.,2q4a_luskpriest,,[지능 보통],,,0,0
+27666,PC,Player Character,What has happened here?,여기 무슨 일이 있었어?,2q4a_luskpriest,,[지능 보통],,,0,0
+27667,PC,Player Character,What happen here?,여기 무슨 일 있었어?,2q4a_luskpriest,,[지능 낮음],,,0,0
+27668,PC,Player Character,Tell me what goes on in city.,도시에서 무슨 일 벌어지는지 말해줘.,2q4a_luskpriest,,[지능 낮음],,,0,0
+27670,PC,Player Character,What is all the fighting about?,싸움은 다 뭐 때문이야?,2q4a_luskpriest,,[지능 보통],,,0,0
+27671,PC,Player Character,Do you know of any cults active in the city?,도시에서 활동 중인 사교 조직에 대해 아는 게 있어?,2q4a_luskpriest,,[지능 보통],,,0,0
+27672,PC,Player Character,Is there no one who can stop all the fighting?,싸움을 멈출 수 있는 사람은 아무도 없어?,2q4a_luskpriest,,[지능 보통],,,0,0
+27673,PC,Player Character,What fighting all over?,싸움 왜 다 벌어져?,2q4a_luskpriest,,[지능 낮음],,,0,0
+27674,PC,Player Character,"You knows about cults here, maybe?",너 여기 사교 알아?,2q4a_luskpriest,,[지능 낮음],,,0,0
+27675,PC,Player Character,"Nobody can stops fighting, huh?",아무도 싸움 못 멈춰?,2q4a_luskpriest,,[지능 낮음],,,0,0
+27676,PC,Player Character,Why do you think that is?,왜 그렇다고 생각해?,2q4a_luskpriest,,[지능 보통],,,0,0
+27677,PC,Player Character,Why you thinks that is?,너 왜 그렇다고 생각해?,2q4a_luskpriest,,[지능 낮음],,,0,0
+27708,PC,Player Character,What do you sell here?,여기서 뭘 파는데?,2q4a_lusksmith,,[지능 보통],,,0,0
+27709,PC,Player Character,What sells you?,너 뭐 팔아?,2q4a_lusksmith,,[지능 낮음],,,0,0
+27710,PC,Player Character,Can I see what you have?,가진 거 보여줄 수 있어?,2q4a_lusksmith,,[지능 보통],,,0,0
+27711,PC,Player Character,Me sees what you has?,너 가진 거 볼 수 있어?,2q4a_lusksmith,,[지능 낮음],,,0,0
+27712,PC,Player Character,Can I ask you questions?,질문 좀 해도 돼?,2q4a_lusksmith,,[지능 보통],,,0,0
+27713,PC,Player Character,Me wants to ask questions.,나 질문하고 싶어.,2q4a_lusksmith,,[지능 낮음],,,0,0
+27714,PC,Player Character,Goodbye.,안녕.,2q4a_lusksmith,,,,,0,0
+27760,PC,Player Character,Where does the bridge go?,다리는 어디로 가?,2q4a_towergrd,,[지능 보통],,,0,0
+27761,PC,Player Character,Where bridge go?,다리 어디 가?,2q4a_towergrd,,[지능 낮음],,,0,0
+27762,PC,Player Character,What kind of authorization do you need?,어떤 종류의 허가가 필요해?,2q4a_towergrd,,[지능 보통],,,0,0
+27763,PC,Player Character,Uhh... what I needs to cross?,어... 건너려면 뭐 필요해?,2q4a_towergrd,,[지능 낮음],,,0,0
+27764,PC,Player Character,I'll cross the bridge if I like.,원하면 다리를 건널 거야.,2q4a_towergrd,,[지능 보통],,,0,0
+27765,PC,Player Character,Me crosses if me wants to!,나 원하면 건널 거야!,2q4a_towergrd,,[지능 낮음],,,0,0
+27766,PC,Player Character,I have a pass right here. I am an ambassador from Mulhorand.,여기 통행증 있어. 난 멀호란드의 대사야.,2q4a_towergrd,,2q4_towergrd01,,,0,0
+27767,PC,Player Character,Me has pass. Me is ambassador of Mulhorand.,나 통행증 있어. 나 멀호란드 대사야.,2q4a_towergrd,,2q4_towergrd02,,,0,0
+27768,PC,Player Character,"Fine, I'll go.","좋아, 갈게.",2q4a_towergrd,,[지능 보통],,,0,0
+27769,PC,Player Character,"Okay, me going.","알았어, 나 간다.",2q4a_towergrd,,[지능 낮음],,,0,0
+27770,PC,Player Character,Arcane Brotherhood?,비전 결사단?,2q4a_towergrd,,,,,0,0
+27771,PC,Player Character,Surely there must be some other way across?,분명 건널 수 있는 다른 방법이 있을 텐데?,2q4a_towergrd,,[지능 보통],,,0,0
+27772,PC,Player Character,There must be other way to goes there.,거기 갈 다른 방법 있을 거야.,2q4a_towergrd,,[지능 낮음],,,0,0
+27773,PC,Player Character,How do you get such a thing?,그걸 어떻게 얻어?,2q4a_towergrd,,[지능 보통],,,0,0
+27774,PC,Player Character,How you gets that?,그거 어떻게 얻어?,2q4a_towergrd,,[지능 낮음],,,0,0
+27997,PC,Player Character,Neither.,둘 다 아니야.,2q4c_brothgrd,,[지능 보통],,,0,0
+27998,PC,Player Character,Kurth.,커스.,2q4c_brothgrd,,,,,0,0
+27999,PC,Player Character,Baram.,바람.,2q4c_brothgrd,,,,,0,0
+28000,PC,Player Character,None of your business.,네가 알 바 아니야.,2q4c_brothgrd,,[지능 보통],,,0,0
+28001,PC,Player Character,Uhh... nobodies.,어... 아무도 아니야.,2q4c_brothgrd,,[지능 낮음],,,0,0
+28002,PC,Player Character,Is no business of you.,너 상관할 일 아냐.,2q4c_brothgrd,,[지능 낮음],,,0,0
+28003,PC,Player Character,Who are they?,그들이 누구야?,2q4c_brothgrd,,[지능 보통],,,0,0
+28004,PC,Player Character,Who them?,그들 누구야?,2q4c_brothgrd,,[지능 낮음],,,0,0
+28272,PC,Player Character,I have been told that you dislike Baram and Kurth.,바람과 커스를 싫어한다고 들었어.,2q4c_givekey,,,,,0,0
+28273,PC,Player Character,I'll take Baram's.,바람의 것을 가져갈게.,2q4c_givekey,2q4_givebaramkey,,,,0,0
+28274,PC,Player Character,I'll take Kurth's.,커스의 것을 가져갈게.,2q4c_givekey,2q4_givekurthkey,,,,0,0
+41842,PC,Player Character,What children? What are you talking about?,무슨 아이들? 무슨 소리야?,2q4e_nanny,,2q4_nanny04,,,0,0
+41843,PC,Player Character,Children? You mean Londa's children?,아이들? 론다의 아이들 말이야?,2q4e_nanny,,2q4_nanny01,,,0,0
+41844,PC,Player Character,What children? What you talks 'bout?,무슨 애들? 무슨 말이야?,2q4e_nanny,,2q4_nanny03,,,0,0
+41845,PC,Player Character,Children? You means Londa's kids?,애들? 론다 애들 말이야?,2q4e_nanny,,2q4_nanny02,,,0,0
+65426,PC,Player Character,You stands back! Me bets they do somethings to you!,너 뒤로 물러나! 아마 너한테 뭔가 한 거야!,2q4e_nanny,,[지능 낮음],,,0,0
+65427,PC,Player Character,Who you? How this happens?,너 누구야? 어떻게 된 거야?,2q4e_nanny,,[지능 낮음],,,0,0
+65428,PC,Player Character,You be calm. Me frees you from cocoon.,진정해. 나 너 고치에서 풀어줄게.,2q4e_nanny,,[지능 낮음],,,0,0
+65429,PC,Player Character,Stand back! I can just imagine what's been done to you!,뒤로 물러나! 네게 무슨 짓을 했을지 상상도 가는군!,2q4e_nanny,,[지능 보통],,,0,0
+65430,PC,Player Character,Who are you? How did this happen?,누구야? 어떻게 이렇게 된 거야?,2q4e_nanny,,[지능 보통],,,0,0
+65431,PC,Player Character,Calm down. I freed you from this cocoon.,진정해. 이 고치에서 풀어줬어.,2q4e_nanny,,[지능 보통],,,0,0
+65432,PC,Player Character,You makes it out okay?,빠져나갈 수 있겠어?,2q4e_nanny,,2q4_nanny03,,,0,0
+65433,PC,Player Character,You wants me to take you to Londa?,론다에게 데려다줬으면 해?,2q4e_nanny,,2q4_nanny02,,,0,0
+65434,PC,Player Character,Me has better things to do.,나 할 일 많아.,2q4e_nanny,,[지능 낮음],,,0,0
+65435,PC,Player Character,Me tries.,나 해볼게.,2q4e_nanny,,[지능 낮음],,,0,0
+65436,PC,Player Character,Can you make it out of here?,여기서 빠져나갈 수 있어?,2q4e_nanny,,2q4_nanny04,,,0,0
+65437,PC,Player Character,Do you wish me to take you back to Londa?,론다에게 데려다 드릴까요?,2q4e_nanny,,2q4_nanny01,,,0,0
+65438,PC,Player Character,Forget it. I have other things to do.,됐어. 다른 할 일이 있어.,2q4e_nanny,,[지능 보통],,,0,0
+65439,PC,Player Character,I shall try.,해볼게.,2q4e_nanny,,[지능 보통],,,0,0
+42528,PC,Player Character,1st Floor.,1층.,2q6_portal,2q6_portjmp_01,2q6_portalchk_01,,,0,0
+42529,PC,Player Character,2nd Floor.,2층.,2q6_portal,2q6_portjmp_02,2q6_portalchk_02,,,0,0
+42530,PC,Player Character,3rd Floor.,3층.,2q6_portal,2q6_portjmp_03,2q6_portalchk_03,,,0,0
+42531,PC,Player Character,4th Floor.,4층.,2q6_portal,2q6_portjmp_04,2q6_portalchk_04,,,0,0
+42532,PC,Player Character,5th Floor.,5층.,2q6_portal,2q6_portjmp_05,2q6_portalchk_05,,,0,0
+42533,PC,Player Character,6th Floor.,6층.,2q6_portal,2q6_portjmp_06,2q6_portalchk_06,,,0,0
+42534,PC,Player Character,7th Floor.,7층.,2q6_portal,2q6_portjmp_07,2q6_portalchk_07,,,0,0
+42535,PC,Player Character,8th Floor.,8층.,2q6_portal,2q6_portjmp_08,2q6_portalchk_08,,,0,0
+42537,PC,Player Character,Pinnacle.,정점.,2q6_portal,2q6_portjmp_10,2q6_portalchk_10,,,0,0
+42677,PC,Player Character,Who are you?,너 누구야?,3q12guard,,[지능 보통],,,0,0
+42678,PC,Player Character,Uthgardt?,우스가르트?,3q12guard,,,,,0,0
+42679,PC,Player Character,Is there anything else up there?,위에 다른 것도 있어?,3q12guard,,[지능 보통],,,0,0
+42680,PC,Player Character,I'll be going now.,이제 갈게.,3q12guard,,[지능 보통],,,0,0
+42681,PC,Player Character,Who you be?,너 누구야?,3q12guard,,[지능 낮음],,,0,0
+42682,PC,Player Character,What else be up there?,위에 뭐 더 있어?,3q12guard,,[지능 낮음],,,0,0
+42683,PC,Player Character,Me go now.,나 이제 가.,3q12guard,,[지능 낮음],,,0,0
+42684,PC,Player Character,Beorunna's Well?,베오룬나의 우물?,3q12guard,,,,,0,0
+60348,PC,Player Character,"Me be <FullName>, hero of Neverwinter. You need give me gold so me can buy stuff.",나는 네버윈터의 영웅 <FullName>이야. 나 물건 사려면 금화 줘야 해.,3q12guard,,[지능 낮음],,,0,0
+60349,PC,Player Character,"I'm <FullName>, hero of Neverwinter. You have to give me gold so I can buy some equipment.",저는 네버윈터의 영웅 <FullName>입니다. 장비를 사려면 금화를 주셔야 해요.,3q12guard,,[지능 보통],,,0,0
+60350,PC,Player Character,"Okay, you just forget me say anything about this.","좋아, 그냥 내가 한 말 다 잊어.",3q12guard,,[지능 낮음],,,0,0
+60351,PC,Player Character,"Okay, forget I mentioned anything.","좋아요, 제가 말한 거 다 잊어주세요.",3q12guard,,[지능 보통],,,0,0
+60352,PC,Player Character,You give me 50 gold or me gonna get you demoted!,"금화 50개 줘, 안 그러면 강등시킬 거야!",3q12guard,,[지능 낮음],,,0,0
+60353,PC,Player Character,Hand over 50 gold or I'll have you demoted!,"금화 50개 내놔, 안 그러면 강등시킬 거야!",3q12guard,,[지능 보통],,,0,0
+60073,PC,Player Character,<StartAction>Leave the brazier alone.</Start>,<StartAction>화로를 그냥 둡니다.</Start>,2q6d_portal,,,,,0,0
+60074,PC,Player Character,<StartAction>Put an imp's eye in the flames.</Start>,<StartAction>임프의 눈을 불꽃에 넣습니다.</Start>,2q6d_portal,,2q6d_imp_eye,,,0,0
+60075,PC,Player Character,<StartAction>Put a quasit's eye in the flames.</Start>,<StartAction>쿼시트의 눈을 불꽃에 넣습니다.</Start>,2q6d_portal,,2q6d_quas_eye,,,0,0
+60076,PC,Player Character,<StartAction>Put a piece of rubble in the flames.</Start>,<StartAction>잔해 조각을 불꽃에 넣습니다.</Start>,2q6d_portal,,,,,0,0
+60077,PC,Player Character,<StartCheck>[Lore]</Start><StartAction> Examine the brazier more closely.</Start>,<StartCheck>[전승지식]</Start><StartAction> 화로를 더 자세히 조사합니다.</Start>,2q6d_portal,,,,,0,0
+60092,PC,Player Character,<StartAction>Leave the chamber alone.</Start>,<StartAction>방을 그냥 둡니다.</Start>,2q6e_chamber,,,,,0,0
+60093,PC,Player Character,<StartAction>Destroy the chamber.</Start>,<StartAction>방을 파괴합니다.</Start>,2q6e_chamber,,,,,0,0
+60094,PC,Player Character,<StartAction>Put the Golem Replication Rod into a depression.</Start>,<StartAction>골렘 복제 단장을 홈에 넣습니다.</Start>,2q6e_chamber,2q6e_takereplic,2q6e_hasrod2,,,0,0
+60095,PC,Player Character,<StartAction>Put the Golem Control Rod into a depression.</Start>,<StartAction>골렘 제어 단장을 홈에 넣습니다.</Start>,2q6e_chamber,2q6e_takecontrol,2q6e_hasrod1,,,0,0
+60096,PC,Player Character,<StartAction>Examine the depressions.</Start>,<StartAction>홈을 조사합니다.</Start>,2q6e_chamber,,,,,0,0
+60121,PC,Player Character,Do not enter the portal at this time.,지금은 차원문에 들어가지 않습니다.,2q6p_pinnacle,,,,,0,0
+60122,PC,Player Character,Enter the portal,차원문에 들어간다,2q6p_pinnacle,2q6k_endmodule,,,,0,0
+65405,PC,Player Character,<StartAction>Leave the portal alone.</Start>,<StartAction>차원문을 그냥 둡니다.</Start>,2q4d_portal,,,,,0,0
+65406,PC,Player Character,<StartAction>Put the glowing sphere in the portal.</Start>,<StartAction>빛나는 구체를 차원문에 넣습니다.</Start>,2q4d_portal,,2q4d_portal02,,,0,0
+65407,PC,Player Character,<StartAction>Put the smooth token in the portal.</Start>,<StartAction>매끈한 동전을 차원문에 넣습니다.</Start>,2q4d_portal,,2q4d_portal01,,,0,0
+65408,PC,Player Character,<StartAction>Put a random object in the portal.</Start>,<StartAction>무작위 물건을 차원문에 넣습니다.</Start>,2q4d_portal,,,,,0,0
+65409,PC,Player Character,<StartCheck>[Lore]</Start><StartAction> Examine the portal more closely.</Start>,<StartCheck>[전승지식]</Start><StartAction> 차원문을 더 자세히 조사합니다.</Start>,2q4d_portal,,,,,0,0
+68215,PC,Player Character,Goodbye.,안녕.,2q4_magestore,,,,,0,0
+68216,PC,Player Character,Who these Red Wizard guys?,붉은 마법사 그 사람들 누구야?,2q4_magestore,,[지능 낮음],,,0,0
+68217,PC,Player Character,Who are the Red Wizards?,붉은 마법사단이 누구야?,2q4_magestore,,[지능 보통],,,0,0
+68218,PC,Player Character,This you enclave? It pretty pathetic.,이게 너희 엔클레이브야? 꽤 한심한데.,2q4_magestore,,[지능 낮음],,,0,0
+68219,PC,Player Character,"So this is your enclave? Impressive. No, really.",그래서 이게 너희 엔클레이브야? 인상적인데. 진심이야.,2q4_magestore,,[지능 보통],,,0,0
+68220,PC,Player Character,Me want see you stuff.,나 너 물건을 보고 싶어.,2q4_magestore,,[지능 낮음],,,0,0
+68221,PC,Player Character,Let me see what you have.,가진 거 보여줘.,2q4_magestore,,[지능 보통],,,0,0

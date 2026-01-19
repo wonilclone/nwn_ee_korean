@@ -1,0 +1,21 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+69521,PC,Player Character,"Is there something you need help with, sir?",무슨 도움이 필요하신가요?,q1bguard,,,,,0,0
+69522,PC,Player Character,I'm more trouble than you can handle!,난 네가 감당할 수 있는 것보다 더 위험한 존재야!,q1bguard,,,,,0,0
+69523,PC,Player Character,"I could not care less what you think of me, fool.","네가 날 어떻게 생각하든 관심 없어, 멍청아.",q1bguard,,,,,0,0
+69524,PC,Player Character,I'm on important business.,중요한 일이 있어.,q1bguard,,,,,0,0
+69525,PC,Player Character,And why would I be any trouble?,내가 왜 문제가 된다는 거야?,q1bguard,,,,,0,0
+69526,PC,Player Character,Who cares? I have other things to worry about.,누가 신경 써? 걱정할 일이 많아서.,q1bguard,,,,,0,0
+69527,PC,Player Character,I've got to go.,가야 해.,q1bguard,,,,,0,0
+69528,PC,Player Character,I need to find the herbalist.,약초상을 찾아야 해.,q1bguard,,xp1_droganheal03,,,0,0
+69529,PC,Player Character,I need some equipment. Can you help me out?,장비가 필요해. 도와줄 수 있어?,q1bguard,,,,,0,0
+69530,PC,Player Character,There are still some kobolds in Hilltop. Will you help with them?,힐탑에 아직 코볼트가 남아 있어. 도와줄래?,q1bguard,,,,,0,0
+69531,PC,Player Character,Reinforcements from Silverymoon?,실버리문에서 증원군이?,q1bguard,,,,,0,0
+69532,PC,Player Character,Do you know where the surviving kobolds went?,살아남은 코볼트들이 어디로 갔는지 알아?,q1bguard,,,,,0,0
+69533,PC,Player Character,I wanted to report that I found Mara... dead. Just outside Hilltop.,마라를 찾았다는 걸 보고하려고... 죽은 채로. 힐탑 바로 밖에서.,q1bguard,x0_d1_didlawtny,q1b_foundmara,,,0,0
+69534,PC,Player Character,I thought you should know... the kobolds killed everyone in the tavern.,알아야 할 것 같아서... 코볼트들이 주점에 있던 모두를 죽였어.,q1bguard,,q1b_lieguard01,,,0,0
+69535,PC,Player Character,Is there anything in Hilltop I can do to help out?,힐탑에서 도울 일이 있어?,q1bguard,,,,,0,0
+69536,PC,Player Character,"He was alive, last time I saw him.",마지막으로 봤을 때 살아 있었어.,q1bguard,,,,,0,0
+69537,PC,Player Character,He's not good. He was poisoned by kobolds.,안 좋아. 코볼트의 독에 당했어.,q1bguard,,,,,0,0
+69538,PC,Player Character,"He was poisoned by kobolds, actually. I need to get some herbs for him.",사실 코볼트의 독에 당했어. 약초를 구해야 해.,q1bguard,,xp1_droganheal03,,,0,0
+69539,PC,Player Character,"He was poisoned, but he's recovering now at the school.",코볼트의 독에 당했지만 지금은 학교에서 회복 중이야.,q1bguard,,xp1_droganheal04,,,0,0
+69540,PC,Player Character,"We could have used your help when the kobolds attacked, you know.",코볼트가 공격했을 때 네 도움이 있었으면 좋았을 텐데.,q1bguard,,,,,0,0

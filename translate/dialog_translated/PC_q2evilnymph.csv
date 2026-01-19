@@ -1,0 +1,44 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+94642,PC,Player Character,"""What are you talking about?""","""무슨 소리야?""",q2evilnymph,,,,,0,0
+94643,PC,Player Character,"""I truly do not know what you are talking about.""","""정말 무슨 말인지 모르겠어.""",q2evilnymph,,,,,0,0
+94644,PC,Player Character,"""You wish to die? So be it."" ","""죽고 싶어? 그렇게 해줄게.""",q2evilnymph,,,,,0,0
+94645,PC,Player Character,"""I think we can negotiate on your fate, actually.""","""사실, 네 운명에 대해 얘기해 볼 수 있을 것 같아.""",q2evilnymph,,,,,0,0
+94646,PC,Player Character,"""Tell me about this ogre you keep mentioning.""","""계속 말하는 그 오우거에 대해 말해봐.""",q2evilnymph,,,,,0,0
+94647,PC,Player Character,"""I have some questions""","""질문이 좀 있어.""",q2evilnymph,,,,,0,0
+94648,PC,Player Character,"""If you are referring to the ogre mage, I have already defeated him.""","""오우거 마법사를 말하는 거라면, 이미 처치했어.""",q2evilnymph,,q2bogre0,,,0,0
+94649,PC,Player Character,"""Enough. Time for you to die.""","""됐어. 죽을 시간이야.""",q2evilnymph,,,,,0,0
+94650,PC,Player Character,"""Back off! I'll have no tricks out of you, fairy!""","""물러서! 요정, 네 속임수는 안 통해!""",q2evilnymph,,,,,0,0
+94651,PC,Player Character,"""What am I to do with you, I wonder?""","""널 어떻게 해야 할까?""",q2evilnymph,,,,,0,0
+94652,PC,Player Character,"""Now that's the kind of proposal I like!""","""이런 제안이라면 마음에 드는군!""",q2evilnymph,,,,,0,0
+94653,PC,Player Character,"""And allow you to use your fairy magic on me? Not a chance.""","""요정 마법을 내게 쓰게 놔두라고? 절대 안 돼.""",q2evilnymph,,[지능 높음],,,0,0
+94654,PC,Player Character,"""Not interested.""","""관심 없어.""",q2evilnymph,,,,,0,0
+94655,PC,Player Character,"""I don't want anything from you.""","""네게 바라는 건 없어.""",q2evilnymph,,,,,0,0
+94656,PC,Player Character,"""What can you offer me?""","""뭘 줄 수 있는데?""",q2evilnymph,,,,,0,0
+94657,PC,Player Character,"""Just go. I don't want to see you again.""","""그냥 가. 다시 보고 싶지 않아.""",q2evilnymph,,,,,0,0
+94658,PC,Player Character,"""I don't trust you. I cannot allow you to live.""","""널 믿을 수 없어. 살려둘 순 없어.""",q2evilnymph,,,,,0,0
+94659,PC,Player Character,"""Never mind that. I have questions.""","""그건 됐고. 질문이 있어.""",q2evilnymph,,,,,0,0
+94660,PC,Player Character,"""I'll ask the questions here, if you don't mind.""","""질문은 내가 할게, 괜찮다면.""",q2evilnymph,,,,,0,0
+94661,PC,Player Character,"""I'm done with questioning you.""","""질문은 끝났어.""",q2evilnymph,,,,,0,0
+94662,PC,Player Character,"""Tell me about this ogre you keep mentioning.""","""계속 말하는 그 오우거에 대해 말해봐.""",q2evilnymph,,,,,0,0
+94663,PC,Player Character,"""I want to ask you something else.""","""다른 걸 물어볼게.""",q2evilnymph,,,,,0,0
+94664,PC,Player Character,"""Where do I find this ogre mage?""","""오우거 마법사는 어디서 찾아?""",q2evilnymph,,,,,0,0
+94665,PC,Player Character,"""Why did you attack me?""","""왜 날 공격했어?""",q2evilnymph,,,,,0,0
+94666,PC,Player Character,"""You and this ogre mage fight to rule this level?""","""너와 오우거 마법사가 이 층을 지배하려고 싸우는 거야?""",q2evilnymph,,,,,0,0
+94667,PC,Player Character,"""Halaster is gone?""","""할라스터가 사라졌다고?""",q2evilnymph,,,,,0,0
+94668,PC,Player Character,"""The drow came?""","""드로우가 왔다고?""",q2evilnymph,,,,,0,0
+94669,PC,Player Character,"""What can you tell me about Undermountain?""","""언더마운틴에 대해 뭘 알려줄 수 있어?""",q2evilnymph,,,,,0,0
+94670,PC,Player Character,"""How do I get to the deeper levels of Undermountain?""","""언더마운틴의 더 깊은 층으로는 어떻게 가?""",q2evilnymph,,,,,0,0
+94671,PC,Player Character,"""What can you tell me about this level?""","""이 층에 대해 뭘 알려줄 수 있어?""",q2evilnymph,,,,,0,0
+94672,PC,Player Character,"""Who are you and what are you doing here?""","""넌 누구고 여기서 뭘 하는 거야?""",q2evilnymph,,,,,0,0
+94673,PC,Player Character,"""Aren't you a little big to be a fairy?""","""요정치고 좀 큰 거 아니야?""",q2evilnymph,,,,,0,0
+94674,PC,Player Character,"""Quit your pathetic whining!""","""한심하게 징징거리지 마!""",q2evilnymph,,,,,0,0
+94675,PC,Player Character,"""Serves you right for trying to trick a wizard.""","""마법사를 속이려다 당한 거야.""",q2evilnymph,,,,,0,0
+94676,PC,Player Character,"""You're not hideous. You're very beautiful.""","""넌 흉측하지 않아. 아주 아름다워.""",q2evilnymph,,,,,0,0
+94677,PC,Player Character,"""You can't leave Undermountain?""","""언더마운틴을 떠날 수 없다고?""",q2evilnymph,,,,,0,0
+94678,PC,Player Character,"""The ogre is defeated.""","""오우거는 처치했어.""",q2evilnymph,,q2bogre0,,,0,0
+94679,PC,Player Character,"""He's alive, but his forces are mostly defeated.""","""살아 있긴 하지만, 부대는 거의 전멸했어.""",q2evilnymph,,q2bogre20,,,0,0
+94680,PC,Player Character,"""The ogre is quite dead, I assure you.""","""오우거는 확실히 죽었어, 장담해.""",q2evilnymph,,q2bogre20,,,0,0
+94681,PC,Player Character,"""Forget it. I have no use for you.""","""됐어. 넌 쓸모없어.""",q2evilnymph,,,,,0,0
+94682,PC,Player Character,"""I want some questions answered.""","""질문에 대답해줘.""",q2evilnymph,,,,,0,0
+94683,PC,Player Character,"""I'm willing to talk about it.""","""얘기해 볼 의향은 있어.""",q2evilnymph,,,,,0,0
+94684,PC,Player Character,"""Why should the ogre's fate matter to you?""","""오우거의 운명이 왜 네게 중요해?""",q2evilnymph,,,,,0,0

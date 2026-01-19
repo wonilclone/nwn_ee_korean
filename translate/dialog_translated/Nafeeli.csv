@@ -1,0 +1,45 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72471,Creature,Nafeeli,"Umm... you not going to hurts us, is you? We just little kobolds, we just wants to flee nasty gnolls...","음... 우리 안 다치게 할 거지? 우리 그냥 작은 코볼트야, 그냥 못된 놀에게서 도망치고 싶어...",Q3_NAFEELI,q3_at_kobolds_pl,,,,0,0
+72472,Creature,Nafeeli,"Aiiieee! Stop, stop! We is defenseless! You not hurts defenseless kobolds, we begs you!!","아이이이! 그만, 그만! 우리 무방비야! 무방비 코볼트 다치게 하지 마, 제발!!",Q3_NAFEELI,,,,,0,0
+72473,Creature,Nafeeli,Aiiieee!! Run! It be crazy <race> killer!! RUUUNNN!!,아이이이!! 도망쳐! 미친 <race> 살인마야!! 도망가아아!!,Q3_NAFEELI,,,,,0,0
+72474,Creature,Nafeeli,Umm... we helps you fight gnolls?,음... 우리 놀이랑 싸우는 거 도와?,Q3_NAFEELI,,,,,0,0
+72475,Creature,Nafeeli,"You is merciful <race> person, you is. Nafeeli be very grateful! All of you follows me... we run to freedom! Run run!!","너 자비로운 <race>야, 맞아. 나펠리 정말 고마워! 다들 따라와... 자유를 향해 도망쳐! 도망도망!!",Q3_NAFEELI,,,,,0,0
+72476,Creature,Nafeeli,Me answers anything! What you wants to know?,나 뭐든 대답해! 뭐 알고 싶어?,Q3_NAFEELI,,,,,0,0
+72477,Creature,Nafeeli,Then... we be frees to go? We not wants to be gnoll dinner... please lets us go!,그럼... 우리 가도 돼? 놀 저녁밥 되기 싫어... 제발 보내줘!,Q3_NAFEELI,,,,,0,0
+72478,Creature,Nafeeli,"Ummm... we know how to fights little bit, sure. But we not gots weapons. Why you asks?","으음... 우리 싸우는 법 조금 알아, 맞아. 근데 무기 없어. 왜 물어?",Q3_NAFEELI,,,,,0,0
+72479,Creature,Nafeeli,You makes Nafeeli very nervous.,너 나펠리 아주 초조하게 만들어.,Q3_NAFEELI,,,,,0,0
+72480,Creature,Nafeeli,We helps you... fight gnolls? That not goes well first time we tries it...,우리 도와... 놀이랑 싸우는 거? 처음 시도했을 때 잘 안 됐는데...,Q3_NAFEELI,,,,,0,0
+72481,Creature,Nafeeli,"<StartCheck>[Success]</Start> Ummm... we fights them? That sounds like good deal, sure. Heh.","<StartCheck>[성공]</Start> 으음... 우리 그들과 싸워? 좋은 거래 같아, 맞아. 헤.",Q3_NAFEELI,,,,,0,0
+72482,Creature,Nafeeli,"There be door just down passage that go to gnoll chieftain room. Once you starts fight, we runs over and helps you fight chieftain!  We does that you lets us live?","통로 바로 아래에 놀 족장 방으로 가는 문 있어. 네가 싸움 시작하면 우리 달려가서 족장이랑 싸우는 거 도와! 그러면 우리 살려줘?",Q3_NAFEELI,,,,,0,0
+72483,Creature,Nafeeli,"Okays. We starts to look around for weapons and stuff. If you opens door to chieftain room, we comes running when you starts big fight.","알았어. 우리 무기랑 이것저것 찾아보기 시작해. 족장 방 문 열면 네가 큰 싸움 시작할 때 달려갈게.",Q3_NAFEELI,,,,,0,0
+72484,Creature,Nafeeli,"Ummm... just so you knows, me thinks that door only open from chieftain side. But me be sure you figures out way, somehow.","으음... 알아두라고 하는데, 그 문 족장 쪽에서만 열리는 것 같아. 근데 어떻게든 방법 알아낼 거라고 믿어.",Q3_NAFEELI,,,,,0,0
+72485,Creature,Nafeeli,"Until you start fight with chieftain, we waits! You goes with good luck!","네가 족장이랑 싸움 시작할 때까지 우리 기다려! 행운을 빌어!",Q3_NAFEELI,,,,,0,0
+72486,Creature,Nafeeli,We sneaks around. There gots to be something around here. We be fine.,우리 몰래 돌아다녀. 여기 어딘가에 뭔가 있을 거야. 우리 괜찮아.,Q3_NAFEELI,,,,,0,0
+72487,Creature,Nafeeli,"<StartCheck>[Success]</Start> We makes amends? Oh... okay. We makes amends, sure. That is, ummm, great idea...","<StartCheck>[성공]</Start> 우리 보상해? 오... 알았어. 우리 보상해, 맞아. 그거 으음 좋은 생각...",Q3_NAFEELI,,,,,0,0
+72488,Creature,Nafeeli,"<StartCheck>[Failure]</Start> Is you crazy?! We not fights gnolls! We not even gots weapons! What we fights with, teeth?","<StartCheck>[실패]</Start> 너 미쳤어?! 우리 놀이랑 안 싸워! 무기도 없어! 뭘로 싸워, 이빨?",Q3_NAFEELI,,,,,0,0
+72489,Creature,Nafeeli,"<StartCheck>[Success]</Start> Helps you fight gnolls. Okay! We helps you! We fights good, we will!","<StartCheck>[성공]</Start> 놀이랑 싸우는 거 도와. 알았어! 우리 도와! 우리 잘 싸울 거야!",Q3_NAFEELI,,,,,0,0
+72490,Creature,Nafeeli,Is name that gnolls say sometimes. They say that J'Nah wants all items of power. Maybe is chieftain?,놀이 가끔 말하는 이름이야. 즈나가 힘의 물건 전부 원한대. 아마 족장?,Q3_NAFEELI,q3_knowjnah02,,,,0,0
+72491,Creature,Nafeeli,They big and hairy and they gots bad breath?,걔들 크고 털 많고 입 냄새 지독해?,Q3_NAFEELI,,,,,0,0
+72492,Creature,Nafeeli,"Ummm... nothing. We kobolds never fights with gnolls before. We not knows why they comes and attacks us, honest!","으음... 아무것도. 우리 코볼트 놀이랑 전에 싸운 적 없어. 왜 와서 공격하는지 몰라, 진심!",Q3_NAFEELI,,,,,0,0
+72493,Creature,Nafeeli,"Umm... we heads home after raid on human village and gnolls attack. Lots of kobolds dies or runs, but we gets captured. They going to eats us for sure!","음... 인간 마을 습격하고 집으로 가는데 놀이 공격했어. 코볼트 많이 죽거나 도망갔는데 우린 잡혔어. 걔들 분명 우릴 먹을 거야!",Q3_NAFEELI,q3_kobold01,,,,0,0
+72494,Creature,Nafeeli,"Umm... yes? You, ummm... you not lives in human village, do you?","음... 그래? 너, 으음... 인간 마을에 안 살지?",Q3_NAFEELI,,,,,0,0
+72495,Creature,Nafeeli,"Me not know. Master gives Urko magic knife to hurts dwarf with, he says it got special poison. But Urko flee battle with gnolls... he not here.","나 몰라. 주인님이 우르코에게 드워프 다치게 할 마법 칼 줬어, 특수한 독 있다고 했어. 근데 우르코 놀이랑 전투에서 도망갔어... 여기 없어.",Q3_NAFEELI,,,,,0,0
+72496,Creature,Nafeeli,We only gots one item when gnolls takes us prisoner... big dragon tooth. But gnolls takes it away long time ago.,놀이 우리 포로로 잡았을 때 물건 하나만 있었어... 큰 용 이빨. 근데 놀이 오래전에 빼앗아 갔어.,Q3_NAFEELI,,,,,0,0
+72497,Creature,Nafeeli,"We not knows what happens to rest of items. Other kobolds flee with them, maybe, or maybe gnolls gots them all.","나머지 물건들 어떻게 됐는지 몰라. 다른 코볼트들이 들고 도망갔을 수도, 아니면 놀이 다 가져갔을 수도.",Q3_NAFEELI,,,,,0,0
+72498,Creature,Nafeeli,Master sends us to steal items of power from dwarf... Master tells us we have to go quickly! He not tells us why.,주인님이 드워프한테서 힘의 물건 훔치라고 보냈어... 빨리 가야 한다고 했어! 왜인지는 안 말해줬어.,Q3_NAFEELI,,,,,0,0
+72499,Creature,Nafeeli,"So we goes to human village. Some kobolds go to steals items, and rest of us... we do big raid. Umm... it seem like good idea at the time...","그래서 인간 마을에 갔어. 코볼트 몇몇은 물건 훔치러 가고 나머지는... 큰 습격했어. 음... 그때는 좋은 생각 같았어...",Q3_NAFEELI,,,,,0,0
+72500,Creature,Nafeeli,"You hears of Master? Yes, Master is great dragon Tymofarrar! He want items of power and he wants them yesterday. Is big mystery to us.","주인님 들어봤어? 그래, 주인님은 위대한 용 티모파라르야! 힘의 물건들 원하는데 어제 당장 원해. 우리한테도 큰 수수께끼야.",Q3_NAFEELI,,,,,0,0
+72501,Creature,Nafeeli,Oh... you is human. Of course you lives in human village. Ummm... we is sorry?,오... 너 인간이구나. 당연히 인간 마을에 살지. 으음... 미안?,Q3_NAFEELI,,,,,0,0
+72502,Creature,Nafeeli,"Oh, no, we not tries anything. We... we not even gots weapons! How we tries something?","오, 아니, 우리 아무것도 안 해. 우리... 무기도 없어! 뭘 어떻게 해?",Q3_NAFEELI,,,,,0,0
+72503,Creature,Nafeeli,"You... you not with gnolls, is you? Quick... you frees us! You lets us go please!!","너... 놀이랑 같이 아니지? 빨리... 풀어줘! 제발 보내줘!!",Q3_NAFEELI,,,,,0,0
+72504,Creature,Nafeeli,You is big <race> meanie!,너 큰 <race> 못된 놈!,Q3_NAFEELI,,,,,0,0
+72505,Creature,Nafeeli,"You lets us out? Oh, thank you great Kurtulmak for sending us this... this... <race> savior-type person...","풀어준다고? 오, 위대한 쿠르툴막에게 감사... 이... 이 <race> 구원자 같은 사람 보내줘서...",Q3_NAFEELI,,,,,0,0
+72506,Creature,Nafeeli,Because you is nice and merciful <race> person?,왜냐면 너 착하고 자비로운 <race>라서?,Q3_NAFEELI,,,,,0,0
+72507,Creature,Nafeeli,"Oh, just lets us out! Me is begging you!!","오, 그냥 내보내줘! 제발!!",Q3_NAFEELI,,,,,0,0
+72508,Creature,Nafeeli,Me answers all questions when you lets us out! Just lets us out!! We not wants to be stew for hairy gnolls!,나가게 해주면 질문 다 대답해! 그냥 내보내줘!! 털 많은 놀 스튜 되기 싫어!,Q3_NAFEELI,,,,,0,0
+72509,Creature,Nafeeli,"We waits here and looks for weapons. If door to chieftain room be open, we come running after you starts fight! Fight fight fight!!","여기서 기다리면서 무기 찾아. 족장 방 문 열려 있으면 네가 싸움 시작하면 달려갈게! 싸워싸워싸워!!",Q3_NAFEELI,,,,,0,0
+72645,Creature,Nafeeli,"Yip! No, this be the one who saves us! <Him/Her> be powerful, yip! We no get <him/her> angry, chief!","킁! 아니, 이분이 우릴 구해준 분이야! <Him/Her> 강해, 킁! <him/her> 화나게 하면 안 돼, 족장!",Q5_NAFEELI,,,,,0,0
+72650,Creature,Nafeeli,"Yip, yip, me too, yip! We not wants mess with <him/her>!","킁킁, 나도, 킁! <him/her>이랑 엮이기 싫어!",Q5_NAFEELI,,,,,0,0
+72653,Creature,Nafeeli,"Yip, me too, this must be true friend of kobolds!","킁, 나도, 이분 코볼트의 진정한 친구야!",Q5_NAFEELI,,,,,0,0
+72677,Creature,Nafeeli,"That no break rock, yip!","그거 바위 안 깨져, 킁!",Q5_NAFEELI,,,,,0,0
+74984,Creature,Nafeeli,Nafeeli,나펠리,Q3_NAFEELI|Q5_NAFEELI,,,,,0,0

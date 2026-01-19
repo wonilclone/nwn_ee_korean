@@ -1,0 +1,22 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+23158,PC,Player Character,"Go ahead, though I doubt it shall do any good.",해 보시지. 별 소용은 없을 것 같지만.,m1q5a09hlmt,,[지능 보통],,,0,0
+23159,PC,Player Character,Farewell for now.,그럼 당분간 안녕.,m1q5a09hlmt,,[지능 보통],,,0,0
+23160,PC,Player Character,Have your blessings had an effect on the progress of the plague?,당신들의 축복이 역병의 진행에 효과가 있었나?,m1q5a09hlmt,,[지능 보통],,,0,0
+23161,PC,Player Character,Where is the Great Graveyard?,거대 묘지는 어디지?,m1q5a09hlmt,,[지능 보통],,,0,0
+23162,PC,Player Character,Will people be safe if I bring them here?,사람들을 여기로 데려오면 안전하겠나?,m1q5a09hlmt,,m1q5_intn_pa,,,0,0
+23163,PC,Player Character,<StartCheck>[Insight]</Start> Is this the only haven? People could fortify elsewhere.,<StartCheck>[통찰]</Start> 여기가 유일한 피난처인가? 다른 곳도 방비할 수 있을 텐데.,m1q5a09hlmt,,nw_d2_wis_intn,,,0,0
+23164,PC,Player Character,Do you know who is creating the zombies?,좀비를 만들어내는 자가 누군지 아나?,m1q5a09hlmt,,m1q5_intn_pa,,,0,0
+23165,PC,Player Character,"I welcome the offer, thank you.",제안을 고맙게 받지. 고마워.,m1q5a09hlmt,,[지능 보통],,,0,0
+23166,PC,Player Character,"You will forgive me if I do not indulge, thank you.",실례하지만 사양하겠어. 양해해 줘. 고마워.,m1q5a09hlmt,,[지능 보통],,,0,0
+23167,PC,Player Character,I am not interested in your hollow blessings.,그 비어 있는 축복에는 관심 없어.,m1q5a09hlmt,,[지능 보통],,,0,0
+23168,PC,Player Character,No thanks. No blessing wanted.,"아니, 됐어. 축복은 필요 없어.",m1q5a09hlmt,,[지능 낮음],,,0,0
+23169,PC,Player Character,Give me blessing if you want. Probably do nothing.,축복 줄 거면 줘. 아마 아무 소용 없어.,m1q5a09hlmt,,[지능 낮음],,,0,0
+23170,PC,Player Character,No want. Take a hike.,싫어. 저리 가.,m1q5a09hlmt,,[지능 낮음],,,0,0
+23171,PC,Player Character,Sure. Give me blessing. Thanks much.,좋아. 축복 줘. 고맙다.,m1q5a09hlmt,,[지능 낮음],,,0,0
+23172,PC,Player Character,Bye now.,이만 가.,m1q5a09hlmt,,[지능 낮음],,,0,0
+23173,PC,Player Character,Blessings slow plague down yet?,축복이 역병 늦췄어?,m1q5a09hlmt,,[지능 낮음],,,0,0
+23174,PC,Player Character,People be safe if me bring here?,나 여기로 데려오면 사람 안전해?,m1q5a09hlmt,,m1q5_intl_pa,,,0,0
+23175,PC,Player Character,"Uh, you know who make plague zombies?","어, 역병 좀비 만든 놈 알아?",m1q5a09hlmt,,m1q5_intl_pa,,,0,0
+23176,PC,Player Character,Where am this Great Graveyard thingy?,그 거대 묘지라는 거 어디야?,m1q5a09hlmt,,[지능 낮음],,,0,0
+23177,PC,Player Character,Can you offer basic temple services?,기본적인 사원 서비스를 제공할 수 있나?,m1q5a09hlmt,m1_openstore_tpl,[지능 보통],,,0,0
+23178,PC,Player Character,Maybe you gots store of basic temple stuff?,사원 기본 물건 파는 가게 있나?,m1q5a09hlmt,m1_openstore_tpl,[지능 낮음],,,0,0

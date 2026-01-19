@@ -1,0 +1,571 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+2976,Creature,Black Cormyrian Cobra,Malar Panther,말라의 표범,BURAKBEAST|BW_METHIM,,,,,0,0
+12447,Creature,Black Cormyrian Cobra,Dire Badger,흉포한 오소리,BURAKBEAST|M2Q2EWELCARFTPET,,,,,0,0
+111368,Creature,Black Cormyrian Cobra,Black Cormyrian Cobra,검은 코어미어 코브라,BURAKBEAST,,,,,0,0
+111372,Creature,Black Cormyrian Cobra,Great Cobra,거대 코브라,BURAKBEAST,,,,,0,0
+3058,Creature,Beholder,Beholder,주시자,CUT107_BEHOLDER1|CUT52_BEHOLDER|CUT5BEHOLDER|ELVENTREEBEHOLDER|ELVENTREEZHENTARIMBEHOLDER|GORLAXTHEMANYEYED|HX_BEHLD_CRYSTAL|Q2A_BAT2_BEH1|Q2D8SPAWN1|Q5_BEHOLDER|Q5_BEHOLDER_BODY|Q5_BEHOLDER_CORPSE|X2_BEHOLDER001,,,,,0,0
+12367,Creature,Bandit,Bandit,산적,CR_TM_SYLARGANG0,,,,,0,0
+12371,Creature,Bandit Mage,Bandit Mage,산적 마법학자,BW_BANDIT005,,,,,0,0
+12373,Creature,Bandit Chief,Bandit Chief,산적 두목,BW_BANDITBOSS,,,,,0,0
+12374,Creature,Bartender,Bartender,바텐더,M1S04CBARTENDER,,,,,0,0
+12376,Creature,Bat,Bat,박쥐,DB_MRBARNABUS|M2BAT|M3_BATS|M4_BATS|X2_BAT,,,,,0,0
+12378,Creature,Battle Horror,Battle Horror,싸우는 공포,2Q6_BATTLEHORROR|NW_BATHORROR|NW_BOSS,,,,,0,0
+12380,Creature,Battle Devourer,Battle Devourer,전투 포식귀,2Q6_BATTDEVOUR,,,,,0,0
+12382,Creature,Black Bear,Black Bear,검은 곰,BERNE|M2BLACKBEAR|M2Q02CWYVBEAR|M2Q2A_BLBEAR|Q1BLACKBEARMEAN|Q1FOOTBEAR_1|Q2EBEAR,,,,,0,0
+12384,Creature,Brown Bear,Brown Bear,불곰,M1S5ABEAR|M2Q2A_BRBEAR|M2Q2CTERARIBEAR|Q1BROWNBEARMEAN|Q1FOOTBEAR2,,,,,0,0
+12393,Creature,Beggar,Beggar,거지,AC_DAVEY|BW_SLAVE002|BW_SLAVE01|BW_SLAVE02|BW_SLAVE03|GREEDYBEGGAR,,,,,0,0
+12397,Creature,Boar,Boar,멧돼지,M2Q2E_BOAR|M3_BOAR,,,,,0,0
+12411,Creature,Bugbear Archer,Bugbear,버그베어,M2Q05CBBEARPA|M2Q05CBBEARTOR|M2Q05CBUGBEARVIC,,,,,0,0
+40730,Creature,Bugbear Archer,Bugbear Archer,버그베어 궁수,2Q4_K_BUGBEAR|M2Q05CBBEARPA,,,,,0,0
+12412,Creature,Bugbear Hero,Bugbear Hero,버그베어 영웅,M2Q05CBUGBEAR2|M2Q05CBUGBEAR3|NW_BUGCHIEFA,,,,,0,0
+12413,Creature,Bugbear Hero,Bugbear Shaman,버그베어 주술사,M2Q05CBUGBEAR2,,,,,0,0
+12443,Creature,Balor,Balor,발러,KAZZTEMMET|M2Q3IFIRE|Q2E_EVIL1|Q6_BALOR|TEMPLEBALOR|VOONLARBALOR,,,,,0,0
+12570,Creature,Bone Golem,Bone Golem,뼈 골렘,CUT101_UNDEAD3|M2Q06CWIZGOLEM04|NW_GOLBONE|Q2A_BAT1_UNDEAD4|Q2A_BAT2_BONEGOL|Q3C_GOLEMSERVANT|Q3D_GOLEM|Q3_BONE_GOLEM,,,,,0,0
+12618,Creature,Bloodsailor,Bloodsailor,핏빛 항해자,TM_CR_SYLARASSOC|VERISCREW,,,,,0,0
+24576,Creature,Bloodsailor,Bloodsailor,핏빛 항해자,M1Q04CBLOODSAIL|M1Q2_BLOODSAIL|M1Q4BLOODFTR1|M1Q4BLOODROG1|M1Q4BLOODWIZ1|M1Q4BLOODWIZ2|M1Q5BLOODROG2,,,,,0,0
+12634,Creature,Boy,Boy,소년,M2Q03CBOY|NW_TAG_CHILD|Q1BBOY,,,,,0,0
+12706,Creature,Blue Slaad,Blue Slaad,푸른 슬라드,TM_CR_ART_SLAADB,,,,,0,0
+16592,Dialog,BEGG2,"Thank you <sir/madam>, but I ain't interested in any charity you might be giving. I just don't have the interest in easin' yer noble guilt today.","고맙습니다, 모험가님. 하지만 베푸실 자선엔 관심 없어요. 오늘은 그 고결한 죄책감을 덜어드릴 기분이 아니거든요.",M1Q1A01BEGG2,,,,,0,0
+16593,Dialog,BEGG2,"Yeah, just leave me here. I've nowhere else to go.","그래요, 그냥 절 여기 두세요. 갈 데가 없어요.",M1Q1A01BEGG2,,,,,0,0
+16595,Dialog,BEGG2,"No, please, I don't want to think about this anymore than I have to.","아니요, 제발요. 더 이상은 생각하고 싶지 않아요.",M1Q1A01BEGG2,,,,,0,0
+16598,Dialog,BEGG2,"What do you want? I'm no guard, I can't help you. All I can do is wait for the plague to get me, and I can't even do that from my own bed.","뭘 원하시는 거죠? 전 경비도 아니라서 도와드릴 수 없어요. 할 수 있는 건 역병이 절 데려가길 기다리는 일뿐인데, 그마저도 제 침대에서조차 못 하고 있어요.",M1Q1A01BEGG2,,,,,0,0
+16599,Dialog,BEGG2,Please don't hurt me. Haven't I suffered enough? I have nothing left. Not even a place of my own to lay down and die.,제발 해치지 말아 주세요. 이만큼 고생했으면 됐잖아요? 전 가진 게 하나도 없어요. 누워 죽을 제 자리조차 없다고요.,M1Q1A01BEGG2,,,,,0,0
+16600,Dialog,BEGG2,"The zombies are all gone? I don't know what to say. I am so happy to be able to go home... I mean, it's just the Beggar's Nest... but it's all I've got left.",좀비가 다 사라졌다고요? 뭐라 말해야 할지 모르겠네요. 집에 갈 수 있게 돼서 정말 기뻐요... 거지 소굴일 뿐이지만... 그게 제가 가진 전부거든요.,M1Q1A01BEGG2,,,,,0,0
+16601,Dialog,BEGG2,I just want to go home to the Beggar's Nest. That's all.,그냥 거지 소굴로 집에 가고 싶을 뿐이에요. 그게 다예요.,M1Q1A01BEGG2,,,,,0,0
+16602,Dialog,BEGG2,I had almost given up hope. I can't believe it.,희망을 거의 포기했었는데... 믿기지가 않네요.,M1Q1A01BEGG2,,,,,0,0
+56868,Dialog,BEGG2,"I don't suppose you'd feel any better yourself if you'd lost your home, let alone been chased out by zombies. It's just the Beggar's Nest, I know, but it's better than sitting here smelling the corpses burn.","집을 잃어본 적도 없고, 좀비한테 쫓겨난 적도 없다면, 제 기분을 이해 못 하시겠죠. 거지 소굴일 뿐이라는 건 알아요. 그래도 여기 앉아 시체 타는 냄새 맡고 있는 것보단 낫죠.",M1Q1A01BEGG2,,,,,0,0
+56869,Dialog,BEGG2,"Why would you help me? I'm just a lowly peasant from the Beggar's Nest. Half the city is probably happy to see the place overrun, even if it was by zombies.","왜 절 도와주시죠? 전 거지 소굴 출신의 하찮은 촌뜨기일 뿐이에요. 도시 절반쯤은, 좀비에게 점령당했더라도, 그곳이 망한 걸 내심 기뻐했을걸요.",M1Q1A01BEGG2,,,,,0,0
+56870,Dialog,BEGG2,Just leave me. please.,"그냥 절 내버려 두세요, 제발.",M1Q1A01BEGG2,,,,,0,0
+21410,Dialog,BLOODSAIL,"I've had enough of tourists. Get lost, or every pirate in a Bloodsailor uniform will kick your tail back to the Beggar's Nest.","관광객은 질렸다. 꺼져라, 아니면 핏빛 항해자 제복 입은 해적들이 네 놈 엉덩이를 거지 소굴로 걷어차 줄 거다.",M1Q4A01BLOODSAIL,,,,vs_nbloodm1_051,0,0
+21411,Dialog,BLOODSAIL,"I'll warn you once. We are not wandering thugs or underfed bandits. You want a Bloodsailor in battle, you'd better be ready.",한 번만 경고한다. 우린 떠돌이 깡패나 굶주린 산적이 아니다. 핏빛 항해자랑 싸우고 싶으면 각오해라.,M1Q4A01BLOODSAIL,,,,,0,0
+21412,Dialog,BLOODSAIL,"What are you doing bothering me, then? Turn yourself around and walk the other way.",그럼 왜 귀찮게 구는 거지? 뒤돌아서 다른 데로 꺼져.,M1Q4A01BLOODSAIL,m1q4bsailorlc10,,,vs_nbloodm1_050,0,0
+21413,Dialog,BLOODSAIL,Nothing that would concern you. How about you just move along. You wouldn't want to accidentally end up dead.,네 알 바 아니다. 그냥 지나가. 괜히 죽고 싶진 않겠지.,M1Q4A01BLOODSAIL,,,,,0,0
+21414,Dialog,BLOODSAIL,"You can't. Simple as that. A Bloodsailor gets his uniform when he joins, and only gives it up when he dies.","안 돼. 이유는 간단해. 핏빛 항해자는 들어올 때 제복을 받고, 죽을 때만 반납한다.",M1Q4A01BLOODSAIL,,,,,0,0
+21415,Dialog,BLOODSAIL,"HAHA! The guards know better than to wander the docks! No, nobody's gonna help you if you keep pushing me.",하하! 경비 놈들도 항만엔 얼씬 안 해! 계속 들이대 봐라. 널 도와줄 놈은 없다.,M1Q4A01BLOODSAIL,,,,,0,0
+21416,Dialog,BLOODSAIL,"This isn't a social club, and we don't take just any old fool. Now get lost, before you make me angry.","여긴 사교 클럽이 아니다. 아무 천치나 받지도 않아. 이제 꺼져라, 열 받기 전에.",M1Q4A01BLOODSAIL,,,,,0,0
+21417,Dialog,BLOODSAIL,"This is Bloodsailor territory, at least for a day or two more. Come near the ship and you'll be killed. Simple enough?","여긴 핏빛 항해자 구역이다, 적어도 하루이틀은 더. 배 근처로 오면 죽는다. 알겠냐?",M1Q4A01BLOODSAIL,m1q4abloodslg01,,,,0,0
+21418,Dialog,BLOODSAIL,Then die like a dog!,그럼 개처럼 죽어라!,M1Q4A01BLOODSAIL,m1q4hostileconv,,,,0,0
+22489,Dialog,BATTLE,"At them! Yes, that's the spirit!","저놈들을 쳐라! 그래, 바로 그 기세다!",M1Q4F22BATTLE,,,,vs_fvengaum_055,0,0
+22490,Dialog,BATTLE,Vengaul Bloodsail has got your back! Arrows away!,벵골 블러드세일이 네 뒤를 지키고 있다! 화살을 날려라!,M1Q4F22BATTLE,,,,vs_fvengaum_056,0,0
+22491,Dialog,BATTLE,Let nothing stop you! Callik is a whelp of a man!,아무것도 널 막지 못하게 하라! 칼릭은 애송이에 불과하다!,M1Q4F22BATTLE,,,,vs_fvengaum_057,0,0
+22492,Dialog,BATTLE,"Yes, fight with all your skill!","그래, 가진 기량을 모두 쏟아 싸워라!",M1Q4F22BATTLE,,,,vs_fvengaum_058,0,0
+25522,Dialog,BATTLE,"Quickly, you must defeat the invaders!","서둘러라, 침입자들을 반드시 격파해야 한다!",M1Q6A01BATTLE,,,,,0,0
+25523,Dialog,BATTLE,I will attempt to hold the portal open. It's up to you to stop these madmen!,내가 차원문을 붙잡아 열어 두겠다. 이 미치광이들을 막는 건 너에게 달렸다!,M1Q6A01BATTLE,,,,,0,0
+22495,Dialog,BOAT,Take the boat downstream?,배를 타고 하류로 내려가시겠습니까?,M1Q4F22BOAT,,,,,0,0
+24184,Dialog,BGOLEM,Earth came first.,대지가 먼저였다.,M1S3BGOLEM,,,,,0,0
+24185,Dialog,BGOLEM,Earth was followed by Water.,대지 다음은 물이었다.,M1S3BGOLEM,,,,,0,0
+24186,Dialog,BGOLEM,Next came Air.,그 다음은 공기였다.,M1S3BGOLEM,,,,,0,0
+24188,Dialog,BGOLEM,Fire is the end. Fire is my end.,끝은 불이다. 나의 끝도 불이다.,M1S3BGOLEM,,,,,0,0
+24234,Dialog,BCONGRATS,Good fight. You won your first badge.,잘 싸웠어. 첫 번째 휘장을 땄구나.,M1S4BCONGRATS,,,,,0,0
+24235,Dialog,BCONGRATS,"Wow, your second badge. I bet you're going to go all the way.","와, 두 번째 휘장이네. 끝까지 갈 것 같은데.",M1S4BCONGRATS,,,,,0,0
+24236,Dialog,BCONGRATS,You did it! You got the third badge. Claudus is going down!,해냈군! 세 번째 휘장을 얻었어. 클로더스는 끝장이야!,M1S4BCONGRATS,,,,,0,0
+24237,Dialog,BCONGRATS,I've never seen such a fight! I even got hit with the blood spray! I'm never going to wash again.,이런 싸움은 처음 봤어! 피가 튀어서 맞았다고! 다시는 안 씻을래.,M1S4BCONGRATS,,,,,0,0
+24238,Dialog,BCONGRATS,I love a good fight.,난 멋진 싸움이 좋더라.,M1S4BCONGRATS,,,,,0,0
+63121,Dialog,BCONGRATS,"Tough loss, that one. Fashi is good. You did your best... though I couldn't tell from looking.",아까운 패배였어. 파시는 강해. 넌 최선을 다했어... 겉보기엔 잘 모르겠더라만.,M1S4BCONGRATS,,,,,0,0
+63122,Dialog,BCONGRATS,"Tough break. Better luck next time. My gold will be on Agar, of course, but good luck anyway.","운이 없었네. 다음엔 잘해. 난 금화는 물론 아가르 쪽에 걸겠지만, 그래도 행운을 빌어.",M1S4BCONGRATS,,,,,0,0
+63123,Dialog,BCONGRATS,Should have seen that coming. Nobody beats Claudus.,그럴 줄 알았지. 클로더스를 이기는 놈은 없어.,M1S4BCONGRATS,,,,,0,0
+24239,Dialog,BCOORD,"A new contestant. Come talk to me, I'm the coordinator.",새 참가자군. 이리 와서 말해. 내가 진행 담당이야.,M1S4BCOORD,,,,,0,0
+24243,Dialog,BSCROLL,Before you stands a mighty tree.,당신 앞에 거대한 나무가 서 있습니다.,M1S5BSCROLL,,,,,0,0
+24253,Creature,Belarian,"Get away from me, you may be diseased.",저리 가! 전염병 옮았을지 모르잖아.,TALK_M1Q1NEWNOBLEMALE,,,,,0,0
+25214,Creature,Belarian,Belarian,벨라리안,TALK_M1Q1NEWNOBLEMALE,,,,,0,0
+24532,Creature,Bertrand,Bertrand,베르트랑,BERTRAND,,,,,0,0
+24673,Creature,Blacklake Gate Guard,Blacklake Gate Guard,검은호수 성문 경비병,M1Q3BLACKGATEGU,,,,,0,0
+24709,Creature,Briley,Briley,브릴리,M1S1ABRILEY|M1S1BRILEY,,,,,0,0
+26330,Creature,Bregan,Bregan,브레간,M1Q6E01FARMER,,,,,0,0
+27989,Dialog,BELA_GREET,Welcome to my little home. Have a drink!,내 작은 집에 온 걸 환영해. 한 잔 해!,2Q4C_BELA_GREET,,,,,0,0
+27990,Dialog,BELA_SASS,"Now, now, boys... let's all pretend to be gentlemen.","자자, 신사분들... 다들 신사인 척이라도 해요.",2Q4C_BELA_SASS,,,,,0,0
+27991,Dialog,BELA_SASS,"Keep it down, boys.","조용히들 해요, 여러분.",2Q4C_BELA_SASS,,,,,0,0
+27992,Dialog,BELA_SASS,"Don't make me spank you, fellas. I like to keep things civilized.",말 안 들으면 회초리 맛 보게 할 거예요. 난 점잖게 가는 걸 좋아하거든.,2Q4C_BELA_SASS,,,,,0,0
+27993,Dialog,BELA_SASS,"Let's keep things friendly, boys, or you're gonna have to leave.","친하게 지내자고요,들. 안 그러면 내보내야 해요.",2Q4C_BELA_SASS,,,,,0,0
+27994,Dialog,BELA_SASS,"Shouting won't get you upstairs any faster, fellas. Have another drink.","고함친다고 위층이 더 빨리 열리진 않아, 여러분. 한 잔 더 해요.",2Q4C_BELA_SASS,,,,,0,0
+27995,Dialog,BELA_SASS,"I'm keeping an eye on you. No funny business... not yet, anyway.",지켜보고 있어요. 요상한 짓은 금지... 아직은요.,2Q4C_BELA_SASS,,,,,0,0
+27996,Dialog,BELA_SASS,"Leave the carrying on and hollering for the bedroom, fellas!","저런 난리와 고함은 침실에서나 하세요, 여러분!",2Q4C_BELA_SASS,,,,,0,0
+28005,Dialog,BROTHGRD,"Ho there, <sir/madam>. You with High Captain Kurth or High Captain Baram?","어이, 거기, 모험가 양반. 대선장 커스 쪽이야, 대선장 바람 쪽이야?",2Q4C_BROTHGRD,,,,,0,0
+28006,Dialog,BROTHGRD,"Good enough. If you have any problems, you talk to Miss Bela, got it?",좋아. 문제가 생기면 벨라한테 말해. 알겠지?,2Q4C_BROTHGRD,,,,,0,0
+28007,Dialog,BROTHGRD,"Fine. Just keep in mind that there's plenty of Baram's men here, too. I'll have no trouble here, I'm warning you.",좋아. 여기엔 바람 쪽 놈들도 잔뜩 있다는 것만 기억해. 여기서 소란은 용납 안 해-경고다.,2Q4C_BROTHGRD,,,,,0,0
+28008,Dialog,BROTHGRD,"You got a problem with that, you speak to Miss Bela. Otherwise you can do what you like.",그게 마음에 안 들면 벨라에게 말해. 아니면 멋대로 해.,2Q4C_BROTHGRD,,,,,0,0
+28009,Dialog,BROTHGRD,"Fine. Just keep in mind that there's plenty of Kurth's men here, too. I'll have no trouble here, I'm warning you.",좋아. 여기엔 커스 쪽 놈들도 잔뜩 있다는 것만 기억해. 여기서 소란은 용납 안 해-경고다.,2Q4C_BROTHGRD,,,,,0,0
+28010,Dialog,BROTHGRD,"Fine. There's lots of both factions here, though... this is neutral ground, on the order of the High Captains themselves, so I'll have no trouble.","좋아. 하지만 여기엔 양쪽 패거리 모두가 잔뜩 있어... 대선장들 지시로 여긴 중립지라서, 소란은 용납 안 해.",2Q4C_BROTHGRD,,,,,0,0
+28011,Dialog,BROTHGRD,"You got a problem with that, you speak to Miss Bela. You don't, and we won't have a problem. Got it?",그게 마음에 안 들면 벨라에게 말해. 아니라면 우리 사이에 문제 없겠지. 알겠나?,2Q4C_BROTHGRD,,,,,0,0
+28012,Dialog,BROTHGRD,"Greetings to you, <sir/madam>. Miss Bela bids you welcome to her home. Might you be with High Captain Kurth or High Captain Baram?","어서 와, 모험가님. 벨라의 집에 오신 걸 환영해. 대선장 커스 편이야, 아니면 대선장 바람 편이야?",2Q4C_BROTHGRD,,,,,0,0
+28013,Dialog,BROTHGRD,"Who do you take me for, a fool? Look... both factions are here, so I'll have no trouble from you. This is neutral ground.",내가 바보로 보여? 봐라... 여기엔 양쪽이 다 있어. 그러니 소란은 용납 안 해. 여긴 중립지야.,2Q4C_BROTHGRD,,,,,0,0
+28014,Dialog,BROTHGRD,"You, there... you better not be here to cause trouble. You with High Captain Kurth or High Captain Baram?","거기 당신... 말썽 부리러 온 게 아니길 바라지. 대선장 커스 쪽이야, 대선장 바람 쪽이야?",2Q4C_BROTHGRD,,,,,0,0
+29288,Dialog,BELARAND,"You, keep it down over there... you here.","거기, 조용히 하고... 너는 이리 와.",2Q4_BELARAND,,,,,0,0
+29293,Creature,Black Knives Footpad,Came out of nowhere!,갑자기 튀어나왔어!,2Q4_LONDAKILL02,2q4_moveplot1,,,,0,0
+40731,Creature,Black Knives Footpad,Black Knives Footpad,검은 단도단 노상강도,2Q4_LONDAKILL02,,,,,0,0
+29294,Creature,Black Knives Killer,"Stupid wench, what is she doing flying at us like that?","멍청한 계집이, 왜 저딴 식으로 날아드는 거야?",2Q4_LONDAKILLER,2q4_moveplot1,,,,0,0
+40732,Creature,Black Knives Killer,Black Knives Killer,검은 단도단 암살자,2Q4_LONDAKILLER,,,,,0,0
+29336,Dialog,BARAMSIGN,High Captain Baram's Estate,대선장 바람의 영지,M2Q04BARAMSIGN,,,,,0,0
+29338,Creature,Bugbear Scout,Intruders! Intruders!,침입자다! 침입자다!,M2Q05CBBEARSCOUT,,,,,0,0
+40794,Creature,Bugbear Scout,Bugbear Scout,버그베어 정찰병,M2Q05CBBEARSCOUT,,,,,0,0
+29339,Creature,Bugbear,"Heh, heh. This gonna hurt!","헤, 헤. 이거 아플 거다!",M2Q05CBBEARTOR,m2q5bbeartor003,,,,0,0
+29340,Creature,Bugbear,You not supposed to be here! Die!,너 여기 오면 안 돼! 죽어라!,M2Q05CBBEARTOR,,,,,0,0
+100151,Creature,Bugbear,Bugbear,버그베어,Q4A_BUGBEAR_1|Q4A_BUGBEAR_2,,,,,0,0
+29732,Dialog,BOY,We're playing werewolves!,우리 늑대인간 놀이하는 중이야!,M2Q1A00BOY,,,,,0,0
+29733,Dialog,BOY,Aaaah! It's Karathis the werewolf!,으아아! 늑대인간 카라디스다!,M2Q1A00BOY,,,,,0,0
+29734,Dialog,BOY,My brother says there are criminals and werewolves about but I bet you could give them a whupping.,"우리 형이 그러는데, 근처에 범죄자랑 늑대인간들이 돌아다닌대. 하지만 당신이라면 혼쭐낼 수 있을 걸!",M2Q1A00BOY,,,,,0,0
+64524,Dialog,BOY,Daddy says Luskan's gonna invade us again.,아빠가 러스칸이 또 침공할 거라고 했어.,M2Q1A00BOY,,,,,0,0
+64525,Dialog,BOY,Are you from Neverwinter? Do you have the plague?,당신 네버윈터에서 왔어? 혹시 역병 걸렸어?,M2Q1A00BOY,,,,,0,0
+64526,Dialog,BOY,Have you seen the Lady Aribeth? Isn't she pretty?,아리베스 경을 본 적 있어? 정말 예쁘지?,M2Q1A00BOY,,,,,0,0
+64527,Dialog,BOY,"I can't talk to strangers, <mister/missus>.",낯선 사람이랑은 말하면 안 돼.,M2Q1A00BOY,,,,,0,0
+64528,Dialog,BOY,Who are you?,당신 누구야?,M2Q1A00BOY,,,,,0,0
+32303,Dialog,BDOCK,"Mmmm, you looks good. You should date Flarg.","음, 너 보기 좋다. 플라그랑 데이트해야 해.",M2Q1BDOCK,,,,,0,0
+32304,Dialog,BDOCK,"Who's that? Is you my brother? Uh, guess not.",저건 누구지? 너 내 형제야? 어... 아닌가.,M2Q1BDOCK,,,,,0,0
+32305,Dialog,BDOCK,Urrgh. Me back hurts much.,으으. 허리 많이 아프다.,M2Q1BDOCK,,,,,0,0
+32306,Dialog,BDOCK,Flarg do this. Flarg do that. Why Flarg do all work?,플라그 이거 해. 플라그 저거 해. 왜 플라그가 일 다 해?,M2Q1BDOCK,,,,,0,0
+32307,Dialog,BDOCK,Flarg's pay sucks. Want more copper.,플라그 월급 형편없어. 구리닢 더 원해.,M2Q1BDOCK,,,,,0,0
+32308,Dialog,BDOCK,Whip Flarg? Someday Flarg whip them all.,플라그를 채찍질해? 언젠가 플라그가 다 채찍질할 거다.,M2Q1BDOCK,,,,,0,0
+32309,Dialog,BDOCK,You no call Flarg stupid!,플라그 바보라고 부르지 마!,M2Q1BDOCK,,,,,0,0
+32310,Dialog,BDOCK,Lift and pull. Pull and lift. Flarg gettin' tired!,들고 당겨. 당기고 들어. 플라그 피곤해져!,M2Q1BDOCK,,,,,0,0
+32311,Dialog,BDOCK,Flarg gots blisters on his blisters! Me need vacation!,플라그 물집 위에 또 물집 생겼어! 휴가 필요해!,M2Q1BDOCK,,,,,0,0
+32312,Dialog,BDOCK,Flarg no understand why me got lousy job.,플라그 이해 못해. 왜 나한테 이런 형편없는 일인지.,M2Q1BDOCK,,,,,0,0
+32434,Dialog,BSAIL,"Oh, in the name of Umberlee, put some clothes on <man/woman>!","아, 움버리의 이름으로, 옷 좀 입어!",M2Q1BSAIL,,,,,0,0
+32435,Dialog,BSAIL,Now that's the kinda thing that makes a man pay attention to a pretty thing like you.,"이렇게 남자 눈길을 확 끄는 법이지, 너처럼 예쁘다면 말이야.",M2Q1BSAIL,,,,,0,0
+32436,Dialog,BSAIL,You look like you've been digested by a dragon and came out the other end! Find a healer <boy/girl>.,"용한테 소화돼서 반대편으로 나온 꼴이네! 치유사한테 가, 꼬마.",M2Q1BSAIL,,,,,0,0
+32437,Dialog,BSAIL,Did you get caught between the dock and a ship? You're bleeding all over the place.,부두랑 배 사이에 끼었나? 피가 여기저기서 철철 흐르잖아.,M2Q1BSAIL,,,,,0,0
+32438,Dialog,BSAIL,"Hey <lad/lass>, are ya lost or something?","이봐, 꼬마, 길이라도 잃었냐?",M2Q1BSAIL,,,,,0,0
+32439,Dialog,BSAIL,Oh how I wish I was out on the briney blue ocean again.,"아, 또다시 짜고 푸른 바다 위에 나가면 좋겠구만.",M2Q1BSAIL,,,,,0,0
+32440,Dialog,BSAIL,I hate being in port. The smell of townsfolk makes me sick.,항구에 붙박혀 있는 건 딱 질색이야. 육지 사람들 냄새만 맡아도 속이 울렁거려.,M2Q1BSAIL,,,,,0,0
+32441,Dialog,BSAIL,Nothing like the smell of fish guts and the gentle slap of waves against the dock to make one feel at home.,생선 내장 냄새랑 부두를 두드리는 잔물결 소리만큼 집 같다 느끼게 하는 게 없지.,M2Q1BSAIL,,,,,0,0
+32442,Dialog,BSAIL,"I would love to chat, but I don't have the time to explain everything to ya.","수다 떨고 싶긴 한데, 일일이 다 설명할 시간은 없어.",M2Q1BSAIL,,,,,0,0
+32443,Dialog,BSAIL,Might be a bit of a storm rollin' in off the ocean tonight.,오늘 밤엔 바다 쪽에서 비바람이 좀 불어올지도 몰라.,M2Q1BSAIL,,,,,0,0
+32444,Dialog,BSAIL,I miss the roll and pitch of the gentle waves. Back to sea for me.,잔잔한 파도에 흔들리는 그 맛이 그립다니까. 난 다시 바다로 가야 해.,M2Q1BSAIL,,,,,0,0
+32445,Dialog,BSAIL,Hope I can get a pint or two of ale while I'm in port.,항구에 있는 동안 에일 한두 잔은 마실 수 있으면 좋겠네.,M2Q1BSAIL,,,,,0,0
+64593,Dialog,BSAIL,"You're one of them folks from Neverwinter, aren't ya?",너 네버윈터에서 온 사람 맞지?,M2Q1BSAIL,,,,,0,0
+64594,Dialog,BSAIL,"I can't believe Luskan's port has been closed up. No entry, they says. That was one of our major stops!",러스칸 항구가 폐쇄됐다니 믿기지가 않네. '입항 금지'라나. 거긴 우리 주요 기항지 중 하나였다고!,M2Q1BSAIL,,,,,0,0
+64595,Dialog,BSAIL,Wonder if they'll be opening the Luskan port soon.,러스칸 항구가 곧 다시 열릴까 모르겠네.,M2Q1BSAIL,,,,,0,0
+64596,Dialog,BSAIL,Hope you're not itching for a ride on the ship. We barely got room for the cargo an' crew.,배에 태워 달라고 조르지만은 마. 화물이랑 선원 태우기도 빠듯해.,M2Q1BSAIL,,,,,0,0
+64597,Dialog,BSAIL,I wonder if them soldiers will ever catch that cult? I hate to think they'd get away with it.,군인들이 그 사교 놈들을 잡을 수는 있는 걸까? 놈들이 빠져나간다 생각만 해도 기분이 나빠.,M2Q1BSAIL,,,,,0,0
+64598,Dialog,BSAIL,"Supplies to Neverwinter - supplies to Neverwinter, back and forth; we'll never match their needs for years.","네버윈터로 물자를, 또 네버윈터로 물자를-왔다 갔다 해도, 몇 년은 그 수요를 따라잡지 못할 거야.",M2Q1BSAIL,,,,,0,0
+64599,Dialog,BSAIL,"I heard them talking about werewolves in the bar. I'd better not see 'em, or I'll never make port here again.","술집에서 늑대인간 얘기를 하더라. 내가 걔네를 보게 되는 날엔, 다시는 여기 기항 안 할 거다.",M2Q1BSAIL,,,,,0,0
+32472,Creature,Barax,Many innocent people died because of the plague. The cult must pay!,그 역병 때문에 수많은 무고한 사람이 죽었어. 그 사교는 반드시 대가를 치러야 해!,M2Q1EADVEN2,,,,,0,0
+32473,Creature,Barax,I hope that you find this cult and kill them all!,그 사교를 찾아내서 모조리 없애 버려!,M2Q1EADVEN2,,,,,0,0
+32474,Creature,Barax,"At last, a true hero to help us punish these cultists! They'll wish they never met you, <FullName>!",마침내 이 사교도들을 벌하는 데 우리를 도와 줄 진짜 영웅이 나타났군! 놈들은 <FullName>을(를) 만난 걸 평생 후회할 거야!,M2Q1EADVEN2,,,,,0,0
+32475,Creature,Barax,I had friends who died to the Wailing and I intend to kill any cultists I find... slowly.,난 울부짖는 죽음 역병으로 친구들을 잃었어. 눈에 띄는 사교도는 누구든... 천천히 죽여 줄 거야.,M2Q1EADVEN2,,,,,0,0
+32476,Creature,Barax,The cultists will rue the day they messed with Neverwinter!,사교도들은 네버윈터를 건드린 그 날을 뼈저리게 후회하게 될 거다!,M2Q1EADVEN2,,,,,0,0
+32477,Creature,Barax,"After so much pain and suffering in Neverwinter, I am consumed with thoughts of revenge. The cult will be destroyed!","네버윈터가 이토록 고통을 겪은 뒤라, 난 복수밖에 생각이 안 나. 그 사교는 반드시 박살날 거야!",M2Q1EADVEN2,,,,,0,0
+40881,Creature,Barax,Barax,바락스,M2Q1EADVEN2,,,,,0,0
+35631,Dialog,BRUBTLK,"This wall fell to fractures and temperature changes years ago, but ages too late for the corpse trapped behind it.","이 벽은 수년 전 균열과 온도 변화로 무너졌지만, 그 뒤에 갇힌 시신에게는 너무 늦은 일이었습니다.",M2Q3BRUBTLK,,,,,0,0
+37182,Creature,Belial Lord of Fire,"Some of my finest work, might I add. Even now, the Dark Lords ride into battle with the name of Belial, Lord of Fire, on their lips!","내 최고의 작품 중 몇 가지지, 덧붙이자면. 지금 이 순간에도 암흑의 군주들이 전장으로 달려들며 불의 군주 벨리알의 이름을 외치고 있다!",M2Q3I_BELIAL,,,,,0,0
+37187,Creature,Belial Lord of Fire,"Does Lathander have sudden need of my services, Lady Guardian?","라샌더가 내 도움이 갑자기 필요해졌나, 수호자 나리?",M2Q3I_BELIAL,,,,,0,0
+37188,Creature,Belial Lord of Fire,"<He/She> may very well find me guilty, m'lady, but punishing me shall be quite another matter. You hold no power over me, Guardian... ","<He/She>가 틀림없이 날 유죄라 단정할 순 있겠지, 수호자 나리. 하지만 날 처벌하는 일은 전혀 다른 문제야. 너흰 날 어찌할 권한이 없어, 수호자여...",M2Q3I_BELIAL,,,,,0,0
+37190,Creature,Belial Lord of Fire,"Ha! Your Judge is a fool, Guardian! The court is closed, then, the case resolved. By Lathander's own decree, we are free to go... Even me! ","하! 네 재판관은 머저리다, 수호자! 그럼 법정은 폐정, 사건은 종결. 라샌더의 칙명으로 우리 모두 자유롭게 가는 거다... 나조차도!",M2Q3I_BELIAL,,,,,0,0
+37194,Creature,Belial Lord of Fire,No! And be trapped in this place forever!? It cannot be!,안 돼! 그럼 이곳에 영원히 갇히라는 거냐!? 있을 수 없어!,M2Q3I_BELIAL,,,,,0,0
+40924,Creature,Belial Lord of Fire,Belial,벨리알,M2Q3I_BELIAL,,,,,0,0
+40925,Creature,Belial Lord of Fire,Lord of Fire,불의 군주,M2Q3I_BELIAL,,,,,0,0
+37581,Dialog,BLACKSTORE,Watch yer back 'round here <lad/lass>. There's lots o' folks liable to stick a knife in it.,"여기선 뒤조심해, 꼬마야. 등에 칼 꽂을 인간들이 널렸으니까.",M3BLACKSTORE,,,,,0,0
+68273,Dialog,BLACKSTORE,You look like the kind o' person who knows how to live in the shadows.,그림자 속에서 사는 법을 아는 얼굴이네.,M3BLACKSTORE,,,,,0,0
+68274,Dialog,BLACKSTORE,Sorry <mister/missus>. My mistake. Won't bother ya no more then.,"미안해, 형씨. 내 실수였어. 더는 성가시게 안 할게.",M3BLACKSTORE,,,,,0,0
+68275,Dialog,BLACKSTORE,It's just my business to notice these sorts of things. Ya might be in need of some helpful items.,원래 이런 걸 눈여겨보는 게 내 일이거든. 도움이 될 만한 물건이 필요할지도 모르겠네.,M3BLACKSTORE,,,,,0,0
+68276,Dialog,BLACKSTORE,"In that case, I'm yer go-to gal! I've got the goods to make yer life easier.",그렇다면 내가 딱 맞는 사람이야! 네 삶을 훨씬 수월하게 해 줄 물건이 있지.,M3BLACKSTORE,,,,,0,0
+68277,Dialog,BLACKSTORE,"Y'ever need something, ya just come here. I'll take care o' ya.",뭐가 필요하거든 여기로 와. 내가 알아서 챙겨 줄게.,M3BLACKSTORE,,,,,0,0
+68278,Dialog,BLACKSTORE,"Well, I'll tell ya what I can.","좋아, 아는 만큼은 말해 주지.",M3BLACKSTORE,,,,,0,0
+68279,Dialog,BLACKSTORE,"What do I look like, a bleedin' map or somethin'? I've got customers waitin' on some special goods, so are ya gonna place an order or not?","내가 피 묻은 지도라도 되는 줄 알아? 특상품 기다리는 손님들이 있어. 주문할 건가, 말 건가?",M3BLACKSTORE,,,,,0,0
+68280,Dialog,BLACKSTORE,It's a mighty fine time fer folk like us. This war has been good for me.,우리 같은 사람들에겐 참 좋은 때지. 이번 전쟁은 내게 꽤 득이 됐거든.,M3BLACKSTORE,,,,,0,0
+68281,Dialog,BLACKSTORE,"With the fighting between Luskan and Neverwinter escalating, the goods I deal with are becoming rarer...and I can more readily set my price, if you get my meaning.","러스칸이랑 네버윈터가 더 세게 붙을수록 내가 다루는 물건은 더 희귀해져... 그리고 가격은 내 마음대로 매기기 쉬워지지, 무슨 뜻인지 알지?",M3BLACKSTORE,,,,,0,0
+68282,Dialog,BLACKSTORE,Just step o'er here into the shadows and I'll show ya.,이쪽 그늘로 와봐. 보여 줄게.,M3BLACKSTORE,nw_d1_shopevil3,,,,0,0
+37723,Dialog,BRIDGE,To the Port Llast Mines.,라스트 항구 광산으로.,M2Q5A_BRIDGE,,,,,0,0
+37724,Dialog,BRIDGE,"The Port Llast Mine has been closed for many years, its vein of ore long since extinguished.",라스트 항구 광산은 광맥이 오래전에 다 말라 오랫동안 폐쇄된 상태였다.,M2Q5A_BRIDGE,,,,,0,0
+37728,Dialog,BUGKING,We kills you good for the Master!!,우린 주인님 위해 너 제대로 죽여버려!!,M2Q5BUGKING,,,,,0,0
+40685,Creature,Bane Gaurdian,Bane Gaurdian,베인 수호자,2Q4A_BANEGAURDIAN,,,,,0,0
+40687,Creature,Brothel Guard Dog,Brothel Guard Dog,매음굴 경비견,2Q4A_BROTHGRDDOG,,,,,0,0
+40691,Creature,Black Knives Customer,Black Knives Customer,검은 단도단 손님,2Q4C_CUSTOMER,,,,,0,0
+40696,Creature,Bloody Hand Customer,Bloody Hand Customer,피묻은 손 손님,2Q4C_KURTH_MEN,,,,,0,0
+40705,Creature,Bloody Hand Mercenary,Bloody Hand Mercenary,피묻은 손 용병,2Q4D_KURTHMERC|2Q4_MH_KURTHMERC,,,,,0,0
+40716,Creature,Black Knives Archer,Black Knives Archer,검은 단도단 궁수,2Q4_BARAMARCHER,,,,,0,0
+40717,Creature,Black Knives Infiltrator,Black Knives Infiltrator,검은 단도단 잠입자,2Q4_BARAMASS,,,,,0,0
+40719,Creature,Black Knives Sniper,Black Knives Sniper,검은 단도단 저격수,2Q4_B_ARCHER02,,,,,0,0
+40725,Creature,Black Knives Rogue,Black Knives Rogue,검은 단도단 도적,2Q4_HM_WERERAT,,,,,0,0
+40735,Creature,Bloody Hand Assassin,Bloody Hand Assassin,피묻은 손 암살자,2Q4_KURTHASS,,,,,0,0
+40774,Creature,Bela,Bela,벨라,2Q4_BELA,,,,,0,0
+40792,Creature,Baram's Merenary,Baram's Merenary,바람의 용병,M2Q04CWEREMERCS,,,,,0,0
+40793,Creature,Bugbear Beastmaster,Bugbear Beastmaster,버그베어 야수조련사,M2Q05CBBEARBEAST,,,,,0,0
+40795,Creature,Bugbear Warrior,Bugbear Warrior,버그베어 투사,M2Q05CBUGBEAR|M2Q05COGREBBEAR,,,,,0,0
+40796,Creature,Bugbear Chief,Bugbear Chief,버그베어 족장,M2Q05CBUGBEARKNG,,,,,0,0
+40843,Creature,Ballard,Ballard,발라드,M2Q1CBALL,,,,,0,0
+40844,Creature,Bran,Bran,브랜,M2Q1CBRAN,,,,,0,0
+40933,Creature,Benleran,Benleran,벤레란,M2Q6CBENL,,,,,0,0
+42546,Creature,Blaskar Lauthlon,Blaskar,블라스카,2Q6_BLASKAR,,,,,0,0
+42547,Creature,Blaskar Lauthlon,Lauthlon,라우슬론,2Q6_BLASKAR,,,,,0,0
+46961,Creature,Bret,Bret,브렛,BRET3Q21,,,,,0,0
+46991,Creature,Blue Dragon,Black Dragon,흑룡,M3Q04H_DRAGON,,,,,0,0
+47052,Creature,Blue Dragon,Blue Dragon,청룡,M3Q04H_DRAGON,,,,,0,0
+46992,Creature,Barun Silverblade,Barun,바룬,M3Q1A08SILV,,,,,0,0
+46993,Creature,Barun Silverblade,Silverblade,실버블레이드,M3Q1A08SILV,,,,,0,0
+47041,Creature,Bandit Acher,Bandit Acher,산적 궁수,M3Q3_ORC_ACHER,,,,,0,0
+50310,Dialog,BRUN,You need got speak to Ketta. She be one in charge here.,너 케타한테 가 말해. 여기 책임자 걔야.,M0Q01A08BRUN,,,,,0,0
+50311,Dialog,BRUN,You talk at Ketta? She short but she nice. She give Bruno extra food at supper. Sometime she give me cake and stuff. What you want? ,너 케타랑 얘기했어? 키 작지만 착해. 저녁에 브루노한테 밥 더 줘. 가끔 케이크 같은 것도 줘. 너 뭐 원해?,M0Q01A08BRUN,,,,,0,0
+50312,Dialog,BRUN,You not talk at Bruno no more! You gonna graduate. You need go to south assembly hall for meet Aribeth. She be pretty.,이제 브루노랑 말 안 해! 너 곧 졸업해. 아리베스 만나러 남쪽 집회장 가야 해. 예뻐.,M0Q01A08BRUN,,,,,0,0
+50313,Dialog,BRUN,Bruno wave bye-bye now.,브루노 이제 안녕.,M0Q01A08BRUN,,,,,0,0
+50314,Dialog,BRUN,"No, no, no. Ketta tell me not give to nobody. Bruno, she say, you keep key safe. Me get extra dessert tonight if me keep key safe for Ketta.","안 돼, 안 돼, 안 돼. 케타가 아무한테도 주지 말라 했어. 브루노, 그녀가 말했지, 열쇠 잘 지켜. 내가 열쇠 잘 지키면 오늘 밤 디저트 더 준대.",M0Q01A08BRUN,,,,,0,0
+50315,Dialog,BRUN,Deal? What you mean deal?,"거래? 무슨 뜻이야, 거래?",M0Q01A08BRUN,,,,,0,0
+50316,Dialog,BRUN,"<StartCheck>[Success]</Start> Ketta say that? For true? Okay, here be key - me go on break now.","<StartCheck>[성공]</Start> 케타가 그렇게 말했어? 진짜? 좋아, 여기 열쇠-나 이제 쉬러 간다.",M0Q01A08BRUN,m0q01a08brunelc1,,,,0,0
+50317,Dialog,BRUN,<StartCheck>[Failure]</Start> Me not believe you! You not got enough Persuade skill to trick Bruno like that! Ketta give me extra dessert if me keep key safe!,<StartCheck>[실패]</Start> 난 너 못 믿어! 그런 말로 브루노 속이려면 설득 기술 더 있어야 해! 내가 열쇠 잘 지키면 케타가 디저트 더 준다!,M0Q01A08BRUN,,,,,0,0
+50318,Dialog,BRUN,"<StartCheck>[Success]</Start> Bruno like dessert. Okay, you got deal! Here be key! Me be going now. Me see you again at supper when you give Bruno you dessert.","<StartCheck>[성공]</Start> 브루노 디저트 좋아해. 좋아, 거래야! 여기 열쇠! 나 간다. 저녁에 네 디저트 브루노 줄 때 다시 보자.",M0Q01A08BRUN,m0q01a08brunelc1,,,,0,0
+50319,Dialog,BRUN,"<StartCheck>[Failure]</Start> Me not like you deal! Me no give you key! You not real good at persuading, am you? You need more skill or people no listen to you. You go away now.","<StartCheck>[실패]</Start> 그 거래 맘에 안 들어! 열쇠 안 줘! 너 설득 잘 못하지, 응? 실력 더 필요해, 아니면 사람들 말 안 들어. 이제 가.",M0Q01A08BRUN,,,,,0,0
+50320,Dialog,BRUN,What you want? You here to get key from Bruno? Me got it safe right here... what? Key gone! Where be Bruno key? Someone take me key!,뭐 원해? 브루노한테 열쇠 받으러 왔어? 여기 안전하게 가지고 있... 뭐? 열쇠 없어! 브루노 열쇠 어디 갔지? 누가 내 열쇠 가져갔다!,M0Q01A08BRUN,,,,,0,0
+50321,Dialog,BRUN,This not good. Ketta not be happy with me. Bruno better go now or Ketta maybe yell at him.,"이거 안 좋아. 케타가 브루노한테 화낼 거야. 브루노 이제 가는 게 좋아, 아니면 케타가 소리칠지도 몰라.",M0Q01A08BRUN,,,,,0,0
+50322,Dialog,BRUN,Help! We be attacked! You gots protect Waterdeep creatures!,도와줘! 우리 공격받아! 워터딥 생명체들 보호해야 해!,M0Q01A08BRUN,,,,,0,0
+50898,Dialog,BSIGN_CBT,Combat Training. Instructor: Herban,전투 훈련. 교관: 허반,M1Q0BSIGN_CBT,,,,,0,0
+50899,Dialog,BSIGN_CRK,Divine Magic Training. Instructor: Elynwyd,신성 마법 훈련. 교관: 엘린위드,M1Q0BSIGN_CRK,,,,,0,0
+50900,Dialog,BSIGN_MGC,Arcane Magic Training. Instructor: Jaroo,비전 마법 훈련. 교관: 자루,M1Q0BSIGN_MGC,,,,,0,0
+50901,Dialog,BSIGN_ROG,Rogue Skill Training. Instructor: Ketta,도적 기술 훈련. 교관: 케타,M1Q0BSIGN_ROG,,,,,0,0
+50961,Creature,Bruno,Bruno,브루노,M1Q0ASTUDENT,,,,,0,0
+50979,Creature,Berna,Berna,베르나,M1Q0BBERNA,,,,,0,0
+56562,Creature,Balor Lord,Balor Lord,발러 군주,HX_BALOR_LORD|HX_CUTX_DEMON|M3Q2F_BALOR|NW_DEMON,,,,,0,0
+57374,Creature,Bethany,Bethany,베서니,M1Q1APUSH,,,,,0,0
+57902,Creature,Bim,Bim,빔,M1Q0ABIMBODY,,,,,0,0
+58651,Dialog,BEARBOSS,*RROOAARR*,쿠와아아악,M2BEARBOSS,,,,,0,0
+58991,Creature,Blacksmith,"Greetings, <race>. I be Haljal's smith. If ye need some arms or armor and cannot find what ye like in Haljal's regular stock, I may be able to help ye.","반갑소, <race>. 난 할잘의 대장장이요. 무기나 갑옷이 필요하고 할잘의 가게 진열품 중에 마음에 드는 게 없다면, 내가 좀 도와줄 수도 있소.",M2Q1DSMITH,,,,,0,0
+58992,Creature,Blacksmith,Haljal Throndor be the owner of this shop and me boss. The man by the counter. Do ye want arms or not? Haven't got all day.,"이 가게 주인 겸 내 상관은 할잘 스론도르요. 저기 계산대에 있는 양반이지. 무기를 살 건가, 말 건가? 내게도 시간은 한정이오.",M2Q1DSMITH,,,,,0,0
+58993,Creature,Blacksmith,As ye wish.,좋을 대로 하시오.,M2Q1DSMITH,nw_d1_shopsmit2,,,,0,0
+59431,Creature,Blacksmith,Blacksmith,대장장이,M2Q1DSMITH,,,,,0,0
+94928,Creature,Blacksmith,Blacksmith,대장장이,TOWNBLACKSMITH,,,,,0,0
+58997,Dialog,BATRLCHF,<Race>! Die!,<Race>! 죽어라!,M2Q2BATRLCHF,,,,,0,0
+58998,Dialog,BCBOSS,Me eat your eyes!,"나, 네 눈 먹어!",M2Q2BCBOSS,,,,,0,0
+59919,Dialog,BARAM02,The gulls will be picking at your corpse by morning.,아침이면 갈매기들이 네 시체를 쪼아 먹고 있겠지.,2Q4_BARAM02,,,,,0,0
+59920,Dialog,BLASKAR,"An intruder? Do you have any idea who I am, fool?! I am Overwizard Blaskar Lauthlon, and you shall regret our meeting!","침입자라고? 네가 지금 누구와 마주했는지 알기나 하느냐, 우매한 것! 나는 상급마법사 블라스카 라우슬론이다. 오늘의 만남을 필히 후회하게 해 주마!",2Q4_BLASKAR,,,,,0,0
+60060,Dialog,BAD_SUMMON,By the gods! What have I summoned!,신들이시여! 내가 뭘 소환한 거지!,2Q6C_BAD_SUMMON,,,,,0,0
+60125,Dialog,BATTLEDEVOUR,I will feed on your pain and fear.,네 고통과 공포를 먹어 치우겠다.,2Q6_BATTLEDEVOUR,,,,,0,0
+60235,Creature,Bloody Hand Archer,Bloody Hand Archer,피묻은 손 궁수,2Q4_MH_KURTHARCH,,,,,0,0
+60880,Dialog,BOSS,"You will never take the snow globe, insignificant mortal!","하찮은 필멸자여, 그 스노 글로브는 절대로 못 가져간다!",M3Q3B_BOSS,,,,,0,0
+62612,Dialog,BEGG1,"I don't want any trouble, but I guess what I want doesn't really matter. It's not like there's anything I can do...","분란 만들긴 싫어요, 그런데 제 바람이 뭐가 중요하겠어요. 제가 할 수 있는 일도 없는데...",M1Q1A01BEGG1,,,,,0,0
+62613,Dialog,BEGG1,"Can I help you? No, what am I thinking... I can't even help myself. I can't even huddle in my own home... ","제가 도와드릴까요? 아니, 무슨 소릴... 제 코도 못 풀어요. 제 집에서 웅크릴 수도 없는데...",M1Q1A01BEGG1,,,,,0,0
+62614,Dialog,BEGG1,"Hell, your <Lord/Lady>ship. Can you help? I don't know if I should dare to ask... probably not. I'm not worth the time of someone like you.","젠장, 모험가님. 도와주실 수 있나요? 감히 부탁드려도 될지 모르겠네요... 아마도 아니겠죠. 저 같은 놈에게 시간을 쓸 분이 아니시니까요.",M1Q1A01BEGG1,,,,,0,0
+62615,Dialog,BEGG1,"Can't go home to the Beggar's Nest because of zombies, can't get out of the city because of the quarantine... what's a guy supposed to do? Just choke on stink of the corpse-fires, I guess.","좀비 때문에 거지 소굴로 돌아갈 수도 없고, 격리 때문에 도시를 나갈 수도 없고... 사람은 어쩌란 거죠? 시체 화장터 악취에 질식하며 버티라는 건가요.",M1Q1A01BEGG1,,,,,0,0
+62616,Dialog,BEGG1,"Farewell, then. I'll just stay here... nowhere else to go...",그럼 안녕히 가세요. 전 여기 있을게요... 갈 곳도 없으니까요...,M1Q1A01BEGG1,,,,,0,0
+62617,Dialog,BEGG1,I don't know how you could. I don't know anyone that can take on an army of zombies by themselves. The Beggar's Nest is completely overrun... my home is overrun...,어떻게 하실 수 있겠는지 모르겠어요. 혼자서 좀비 군대를 상대할 수 있는 사람은 못 봤거든요. 거지 소굴은 완전히 점령당했어요... 제 집도 점령당했고요...,M1Q1A01BEGG1,,,,,0,0
+62618,Dialog,BEGG1,"I-I'm sorry, I don't mean to be rude, but if you think I've had any time to think about any of this, then you just aren't very bright.","미, 미안해요. 무례하려던 건 아닌데, 제가 이런 걸 곰곰이 생각할 시간이 있었다고 믿으신다면... 그건 좀 생각이 짧으신 거예요.",M1Q1A01BEGG1,,,,,0,0
+62619,Dialog,BEGG1,"No, please, I don't want to think about this anymore than I have to.","아니요, 제발요. 더 이상은 생각하고 싶지 않아요.",M1Q1A01BEGG1,,,,,0,0
+62620,Dialog,BEGG1,"It's over? I mean, the plague is still going, sure, but at least I can go home. The zombies in the Beggar's Nest were just a nightmare I didn't need. Thank you.","끝난 건가요? 물론 역병이 아직 돌지만, 적어도 집에는 갈 수 있겠네요. 거지 소굴의 좀비는 정말 필요 없던 악몽이었어요. 고맙습니다.",M1Q1A01BEGG1,,,,,0,0
+62621,Dialog,BEGG1,"I just want to go home, that's all.","그냥 집에 가고 싶을 뿐이에요, 그게 다예요.",M1Q1A01BEGG1,,,,,0,0
+62622,Dialog,BEGG1,I never thought I'd be happy to be going back to the Beggar's Nest.,거지 소굴로 돌아가게 돼서 기쁘다고 느낄 줄은 몰랐어요.,M1Q1A01BEGG1,,,,,0,0
+62699,Dialog,BBOSS,At last I can unleash my magic again. Feel my power!,마침내 다시 내 마법을 풀어놓을 수 있겠군. 내 힘을 느껴라!,M1Q2BBOSS,,,,,0,0
+62818,Dialog,BGUEST,Meldanen is that you? No! You're an intruder!,멜다넨인가? 아니! 침입자다!,M1Q3BGUEST,,,,,0,0
+62819,Dialog,BOSSAPPRE,My master will reward me well for your head!,네 머리를 가져가면 내 주인께서 크게 보상해 주실 거다!,M1Q3BOSSAPPRE,,,,,0,0
+62821,Dialog,BOSSTHUG,Who disturbs Loxar! You going to pay!,록사를 방해하는 게 누구지! 값을 치르게 해주지!,M1Q3BOSSTHUG,,,,,0,0
+62912,Dialog,BLOODBOSS,"You'll be shark-bait, chum!",상어밥으로 던져 주마!,M1Q4BLOODBOSS,,,,,0,0
+63138,Creature,Bloodsailor Lieutenant,Bloodsailor Lieutenant,핏빛 항해자 부관,M1Q4BOSSBLOOD3,,,,,0,0
+64266,Creature,Bloodsailor Commander,Bloodsailor Commander,핏빛 항해자 사령관,M1Q4BLOODSAIL,,,,,0,0
+64521,Dialog,BODAKBOSS,Death awaits thee!,죽음이 너를 기다린다!,M2BODAKBOSS,,,,,0,0
+65209,Creature,Bugbear Prisoner,Bugbear Prisoner,버그베어 포로,M2Q05CBUGBEARPRI,,,,,0,0
+65331,Dialog,BONEDEAD,These stones vibrate with energy. They seem to be powering something,이 돌들이 에너지로 떨립니다. 무언가에 동력을 공급하는 것 같습니다.,2Q4_BONEDEAD,,,,,0,0
+69417,Dialog,BATTLECORPSE,"Surveying the carnage, you discern that the gnolls and kobolds fought each other here. The battle is long over, however, and who the victors were and where they went is a mystery.","난장판이 된 전장을 훑어보니, 이곳에서 놀과 코볼트가 서로 싸웠던 듯합니다. 다만 전투는 오래전에 끝났고, 누가 승리했는지 어디로 갔는지는 여전히 미궁입니다.",Q1BATTLECORPSE,,,,,0,0
+69418,Dialog,BATTLECORPSE,"By examining the bodies, it seems obvious to you that the kobolds and gnolls fought each other here... although who attacked whom and why are a mystery. You are fairly sure that the gnolls won the battle.",시신들을 살펴보니 이곳에서 코볼트와 놀들이 서로 싸웠음이 분명합니다. 다만 누가 누구를 왜 먼저 공격했는지는 알 수 없습니다. 전투에서는 놀들이 승리했으리라 꽤 확신할 수 있습니다.,Q1BATTLECORPSE,,,,,0,0
+69419,Dialog,BATTLECORPSE,"By examining the bodies in the area and the tracks nearby, it is obvious to you that the kobolds were ambushed by a group of gnolls as they passed. You suspect that the gnolls were victorious, though it seems equally likely that many of the kobolds fled during the melee.","주변의 시신들과 발자국을 조사해 보니, 지나가던 코볼트들이 놀 무리에게 매복을 당한 것이 분명합니다. 놀들이 승리했으리라 추정되지만, 난전 중에 많은 코볼트가 달아났을 가능성도 커 보입니다.",Q1BATTLECORPSE,,,,,0,0
+69420,Dialog,BCHICKEN,"The chicken seems very indignant and excitable, but even you are uncertain as to what she's trying to say exactly.","닭은 무척 분개하고 들떠 보이지만, 정작 무엇을 말하려는지 당신조차 정확히는 알 수 없습니다.",Q1BCHICKEN,,,,,0,0
+69421,Dialog,BCHICKEN,The chicken tells you a lame joke about crossing some road and then clucks endlessly in laughter.,"닭은 길을 건넌다는 시시한 농담을 들려주고는, 꼬꼬댁거리며 한없이 웃습니다.",Q1BCHICKEN,,,,,0,0
+69422,Dialog,BCHICKEN,The chicken excitedly asks you to tell the dogs to stay away from their pens. It thinks the dogs are very frightening with their big teeth.,"닭은 신이 나서, 개들에게 닭장 근처에 얼씬도 하지 말라고 전해 달라고 합니다. 커다란 이빨을 가진 개들이 너무 무섭다고 여기는 듯합니다.",Q1BCHICKEN,,,,,0,0
+69423,Dialog,BCHICKEN,The chicken whispers to you in conspiratorial tones that it believes the human farmer may indeed be... an axe-murderer!,"닭은 음모를 꾸미듯 낮게 속삭이며, 인간 농부가 사실은... 도끼 살인마일지도 모른다고 말합니다!",Q1BCHICKEN,,,,,0,0
+69424,Dialog,BCHICKEN,"The chicken clucks in outrage, explaining to you its belief that the humans have been systematically stealing her unborn children.","닭은 분개하여 꼬꼬댁거리며, 인간들이 자신의 아직 태어나지 않은 아이들을 체계적으로 훔쳐 간다고 믿는다고 설명합니다.",Q1BCHICKEN,,,,,0,0
+69425,Dialog,BCHICKEN,The chicken launches into a story about how it had been very much startled by a stick the previous day.,닭은 어제 막대기 하나에 얼마나 깜짝 놀랐는지에 대한 이야기를 장황하게 늘어놓습니다.,Q1BCHICKEN,,,,,0,0
+69426,Dialog,BCHICKEN,The chicken tells you in hushed clucks that one of its brood-sisters swallowed an odd stone and then coughed it up in the water trough just this morning.,"닭은 속삭이는 듯한 소리로, 오늘 아침 자기 자매 중 한 마리가 이상한 돌을 삼켰다가 물통에 토해 냈다고 전합니다.",Q1BCHICKEN,q1b_chick02,,,,0,0
+69427,Dialog,BCHILDF,<FirstName> is a nice name. Are you going to be famous some day? Like Elminster the Sage?,<FirstName> 예쁜 이름이네요. 언젠가 유명해질 건가요? 현자 엘민스터처럼요?,Q1BCHILDF,,,,,0,0
+69428,Dialog,BCHILDF,My daddy says he could beat you in a fight any day. Is that true?,우리 아빠는 언제든 당신을 싸움에서 이길 수 있대요. 진짜예요?,Q1BCHILDF,,,,,0,0
+69429,Dialog,BCHILDF,Do you have lots of money? Daddy says adventurers get lots of money.,돈 많아요? 아빠가 모험가는 돈 많이 번다고 했어요.,Q1BCHILDF,,,,,0,0
+69430,Dialog,BCHILDF,"I want to be a <race> adventurer someday, just like you! Um... I think...","저도 언젠가 <race> 모험가가 되고 싶어요, 당신처럼요! 음... 그런 것 같아요...",Q1BCHILDF,,,,,0,0
+69431,Dialog,BCHILDF,Is Master Drogan really a dwarf? I think he's really hairy.,드로건 스승님은 정말 드워프예요? 털이 엄청 많은 것 같아요.,Q1BCHILDF,,,,,0,0
+69432,Dialog,BCHILDF,"Do you have to learn a lot at that school? Like, um... numbers and stuff?",그 학교에서 배울 게 많아요? 음... 숫자 같은 거요?,Q1BCHILDF,,,,,0,0
+69433,Dialog,BCHILDF,I know you! You're <FirstName>!,알아요! 당신은 <FirstName> 맞죠!,Q1BCHILDF,,,,,0,0
+69434,Dialog,BCHILDM,Kobolds are scary. Are you going to kill some?,코볼트 무서워요. 몇 마리 잡으러 가는 거예요?,Q1BCHILDM,,,,,0,0
+69435,Dialog,BCHILDM,What's a kobold? My sister says I look like one when I get mad.,코볼트가 뭐예요? 누나는 내가 화나면 코볼트처럼 생겼대요.,Q1BCHILDM,,,,,0,0
+69436,Dialog,BCHILDM,"Oooo... can you cast any spells? My mother says she saw Drogan cast one, once.",우와... 주문 쓸 줄 알아요? 우리 엄마가 드로건이 예전에 주문 쓰는 걸 봤다고 했어요.,Q1BCHILDM,,,,,0,0
+69437,Dialog,BCHILDM,Have you ever been on a real adventure? Are you on one now?,진짜 모험 떠나 본 적 있어요? 지금도 모험 중이에요?,Q1BCHILDM,,,,,0,0
+69438,Dialog,BCHILDM,My mother says that adventurers just get themselves killed a lot. Is that true?,"엄마는 모험가들은 맨날 죽을 뻔한다고 하던데, 진짜예요?",Q1BCHILDM,,,,,0,0
+69439,Dialog,BCHILDM,"I saw that Drogan once, you know. He's really short.",저 드로건을 한 번 본 적 있어요. 정말 키가 작더라고요.,Q1BCHILDM,,,,,0,0
+69440,Dialog,BCHILDM,"You're <FirstName>, aren't you? I want to be an adventurer someday just like you!",<FirstName> 맞죠? 저도 언젠가 당신처럼 모험가가 되고 싶어요!,Q1BCHILDM,,,,,0,0
+69441,Dialog,BCOW,The cow stares at you with disinterested cow eyes.,소가 무심한 눈빛으로 당신을 응시합니다.,Q1BCOW,,,,,0,0
+69442,Dialog,BCOW,"The cow looks at you with vague disinterest, sending empathetic messages of discomfort in the cold and an interest in finding hay.","소가 다소 무심한 눈빛으로 당신을 바라보며, 추위가 불편하다는 감정과 건초를 찾고 싶어 한다는 마음이 전해집니다.",Q1BCOW,,,,,0,0
+69443,Dialog,BDEER,"The deer stares at you alertly, ready to bolt should you approach it further.",사슴이 잔뜩 경계하며 당신을 응시합니다. 더 다가가면 곧장 달아날 태세입니다.,Q1BDEER,,,,,0,0
+69444,Dialog,BDEER,"The deer appears skittish and suspects you are a vicious kobold, ready to eat it. It has little interest in communicating with you.","사슴은 몹시 겁을 먹은 듯하며, 당신을 자신을 잡아먹으려는 사나운 코볼트로 의심하는 듯합니다. 당신과 소통하는 데에는 별 관심이 없어 보입니다.",Q1BDEER,,,,,0,0
+69445,Dialog,BDOG,"The dog bares its teeth and growls, obviously alarmed by your approach.",개가 이를 드러내고 으르렁거립니다. 당신이 다가가자 분명 경계하는 모습입니다.,Q1BDOG,,,,,0,0
+69446,Dialog,BDOG,The dog wags its tail with obvious uncertainty and shies away from you.,개가 불확실하게 꼬리를 흔들다가 당신을 피해 물러섭니다.,Q1BDOG,,,,,0,0
+69447,Dialog,BDOG,The dog looks at you curiously. It seems friendly enough.,개가 호기심 가득한 눈으로 당신을 봅니다. 제법 우호적으로 보입니다.,Q1BDOG,,,,,0,0
+69448,Dialog,BDOG,"The dog responds gladly to your approach, excitedly wagging its tail and accepting your touch.","개가 당신에게 기쁘게 다가오며 신나게 꼬리를 흔들고, 당신의 손길을 반깁니다.",Q1BDOG,,,,,0,0
+69449,Dialog,BDOG,"At your command, the dog happily bounds off to return to its normal routine.",당신의 지시에 개가 기쁘게 껑충거리며 제 일상으로 돌아갑니다.,Q1BDOG,,,,,0,0
+69450,Dialog,BDOG,"The dog is overjoyed at the information, ecstatic that he will finally be able to impress Bethsheva enough to become her mate.","개는 그 소식에 크게 기뻐하며, 드디어 베스셰바에게 짝으로 인정받을 만큼 감명 줄 수 있게 됐다며 들떠 합니다.",Q1BDOG,,,,,0,0
+69451,Dialog,BDOG,The thoughts he sends to you are of thanks as he quickly runs off towards the herbalist's home.,"그가 보내는 생각에는 감사가 담겨 있고, 개는 약초상 집 쪽으로 재빨리 달려갑니다.",Q1BDOG,,,,,0,0
+69452,Dialog,BDOG,The dog has difficulty understanding what you might find useful... though it happily informs you that the Bubbling Cauldron is a wonderful place to beg for food. Or it was: now it smells rank of kobolds.,"개는 당신이 유용하다고 여길 만한 것이 무엇인지 잘 이해하지 못합니다... 다만 ""부글거리는 가마솥""은 먹을 것을 구걸하기에 멋진 곳이었다고 즐겁게 알려 줍니다. 지금은 코볼트 냄새가 지독합니다.",Q1BDOG,,,,,0,0
+69453,Dialog,BDOG,"Beyond that, the dog states only that Bethsheva might know something interesting. The dog's thoughts indicate that it finds Bethsheva most interesting.","그 밖에는, 베스셰바가 뭔가 재미있는 걸 알지도 모른다고만 말합니다. 개의 생각에는 베스셰바를 가장 흥미롭게 여긴다는 기색이 담겨 있습니다.",Q1BDOG,,,,,0,0
+69454,Dialog,BDOG,"The dog responds happily that Bethsheva is a wonderfully smart and beautiful wolf-bitch that resides with the human druid, Farghan.","개는 베스셰바가 아주 똑똑하고 아름다운 암늑대로, 인간 드루이드 파르간과 함께 산다고 즐겁게 알려 줍니다.",Q1BDOG,,,,,0,0
+69455,Dialog,BDOG,"The word amongst the dogs in town is that Bethsheva buried something valuable in the village, but none of them can find it.","마을 개들 사이의 말로는, 베스셰바가 마을 어딘가에 값진 것을 묻어 두었다는데 아무도 못 찾았다고 합니다.",Q1BDOG,q1b_bethshev01,,,,0,0
+69456,Dialog,BDOG,The dog thinks that is most clever of the she-bitch and wishes he could mate with her.,"그 암컷이 정말 영리하다고 생각하며, 자신도 그녀와 짝이 되었으면 한다고 합니다.",Q1BDOG,,,,,0,0
+69457,Dialog,BDOG,He believes that another dog has recently mated with Bethsheva and shoots jealous thoughts in that lucky dog's general direction.,"최근 다른 개가 베스셰바와 짝을 이뤘다고 믿으며, 그 행운의 개 쪽으로 질투 어린 생각을 보냅니다.",Q1BDOG,,,,,0,0
+69458,Dialog,BDOG,The dog responds to your empathic communication with images from its mind. It dislikes the smell of the kobolds and hid from the cruel creatures when they passed.,"공감으로 말을 건네자, 개는 마음속 영상으로 답합니다. 코볼트 냄새를 싫어했고, 그 잔혹한 것들이 지나갈 때 숨었다고 합니다.",Q1BDOG,,,,,0,0
+69459,Dialog,BDOG,"The dog believes that the kobolds ran south along the path, heading for the place where the human wall opens up.","개는 코볼트들이 길을 따라 남쪽으로 달려, 인간들의 벽이 열려 있는 곳을 향했다고 여깁니다.",Q1BDOG,,,,,0,0
+69460,Dialog,BDOG,You fish into your pack for a few strips of dried meat. The dog gulps them down happily and wags its tail in thanks.,"가방에서 말린 고기를 조금 꺼내 주니, 개가 기쁘게 꿀꺽 삼키고 꼬리를 흔들며 고마움을 표시합니다.",Q1BDOG,,,,,0,0
+69467,Dialog,BGATEGUARD,"We have to guard the gate until the reinforcements come. Damn kobolds broke it down somehow. Anyway... if you're going out there, be careful.",증원군이 올 때까지 성문을 지켜야 해. 젠장할 코볼트들이 어쩌다 부숴 버렸거든. 아무튼... 밖으로 나갈 거라면 조심해.,Q1BGATEGUARD,,,,,0,0
+69468,Dialog,BGATEGUARD,"I wouldn't suggest you leave town just yet, <FirstName>. It's dangerous out there. Your choice.","지금은 마을을 떠나지 않는 게 좋겠어, <FirstName>. 밖은 위험하거든. 뭐, 선택은 네 몫이지만.",Q1BGATEGUARD,,,,,0,0
+69469,Dialog,BGATEGUARD,"Greetings, <FirstName>. Err... you're not thinking of heading beyond the wall, are you? With all them kobolds out there?","반갑다, <FirstName>. 어... 성벽 밖으로 나가려고 생각 중은 아니겠지? 코볼트들이 들끓는 와중에?",Q1BGATEGUARD,xp1_gategrd02,,,,0,0
+69470,Dialog,BGATEGUARD,"Right. Because you adventurer-types are so much more superior than us regular folk. Ahhh, do what you like.","그래, 그렇겠지. 모험가 나리들은 우리 서민들보다 훨씬 우월하실테니까. 하아... 마음대로 해.",Q1BGATEGUARD,,,,,0,0
+69471,Dialog,BGATEGUARD,Fine. Go get yourself killed. It's all the same to me.,좋아. 가서 죽든 말든. 나랑 무슨 상관이겠어.,Q1BGATEGUARD,,,,,0,0
+69472,Dialog,BGATEGUARD,"You think so, do you? Yeah... maybe you're right. You're Drogan's apprentice and all that, after all.",그렇게 생각하나 보지? 그래... 어쩌면 맞을지도. 어쨌든 넌 드로건의 제자잖아.,Q1BGATEGUARD,,,,,0,0
+69473,Dialog,BGATEGUARD,"Gone from Hilltop, yes, but who knows what they're up to out there? Kobolds are usually cowards, but these ones... they could be up to anything.","힐탑에서 사라진 건 맞지. 하지만 밖에서 무슨 짓을 하는지는 아무도 몰라. 코볼트는 보통 겁쟁이지만, 이번 놈들은... 뭐든지 할 수 있어.",Q1BGATEGUARD,,,,,0,0
+69474,Dialog,BGATEGUARD,"You're going to go looking for them? Well, that's a switch.","놈들을 찾아 나선다고? 오, 그건 좀 의외네.",Q1BGATEGUARD,,,,,0,0
+69475,Dialog,BGATEGUARD,"At any rate, if you're going out there, be careful. There's no telling what you'll encounter on the road this time of year.",어쨌든 밖으로 나갈 거라면 조심해. 이맘때 길에서는 무슨 일을 겪을지 장담 못 해.,Q1BGATEGUARD,,,,,0,0
+69476,Dialog,BGATEGUARD,"At any rate, you might want to think twice before you leave Hilltop. I would suggest you get some decent equipment and maybe a little experience first.","어쨌든 힐탑을 떠나기 전에 한 번 더 생각해 보라고. 제대로 된 장비부터 갖추고, 경험도 조금 쌓는 게 좋겠어.",Q1BGATEGUARD,,,,,0,0
+69477,Dialog,BGATEGUARD,I'm told there's probably some folks in town who could use some help. We can't do anything until the reinforcements from Blumberg get here... maybe you could?,마을 안에도 도움이 필요한 사람들이 있다고 들었어. 블럼버그에서 증원병이 오기 전까진 우린 손이 묶여있거든... 네가 대신 도울 수도 있겠지?,Q1BGATEGUARD,,,,,0,0
+69478,Dialog,BGATEGUARD,"It's just a suggestion, anyhow. I won't stop you from leaving, if that's what you're intent on.",그냥 한마디 해 본 거야. 그래도 떠나겠다면 막진 않겠어.,Q1BGATEGUARD,,,,,0,0
+69541,Dialog,BHALFLING,You should talk to Katriana if you have any questions.,궁금한 게 있으면 카트리아나에게 물어보세요.,Q1BHALFLING,,,,,0,0
+69542,Dialog,BHALFLING,Thank you for healing me.,치유해 줘서 고마워요.,Q1BHALFLING,,,,,0,0
+69543,Dialog,BHILLTRACKS1,"You notice some humanoid tracks beneath the cliff, but are unable to determine what creature made them or any information about them.","절벽 아래에서 인간형의 발자국이 몇 개 눈에 띄지만, 어떤 존재의 것인지나 다른 정보는 알아낼 수 없습니다.",Q1BHILLTRACKS1,,,,,0,0
+69544,Dialog,BHILLTRACKS1,A large group of humanoids seem to have come down the cliff face and headed south out of town.,많은 수의 인간형 생명체들이 절벽을 내려와 마을 남쪽으로 향한 듯합니다.,Q1BHILLTRACKS1,,,,,0,0
+69545,Dialog,BHILLTRACKS1,"These appear to be kobold tracks. A large group of them, at least 30, seem to have come down the cliff face and headed south out of town.",코볼트의 발자국으로 보입니다. 최소 서른은 되는 무리가 절벽을 내려와 마을 남쪽으로 향한 듯합니다.,Q1BHILLTRACKS1,,,,,0,0
+69642,Dialog,BOX,The ox stares at you with disinterested ox eyes.,황소가 무심한 눈으로 당신을 응시합니다.,Q1BOX,,,,,0,0
+69643,Dialog,BOX,"The ox looks at you with vague disinterest, sending empathetic messages of discomfort in the cold and an interest in finding hay.","황소가 시큰둥한 표정으로 당신을 바라보며, 춥다는 불편함과 건초를 찾고 싶다는 마음을 공감으로 전해옵니다.",Q1BOX,,,,,0,0
+69644,Dialog,BRAT,"The rat watches you warily, concerned only with its gnawing hunger as it shivers from the cold.","쥐가 경계하며 당신을 지켜보고, 추위에 떨면서도 오직 갉아먹을 것만 신경 씁니다.",Q1BRAT,,,,,0,0
+69857,Dialog,BTRACKSBARN,You are unable to determine what creature made these tracks or any information about them.,"어떤 생명체가 남긴 발자국인지, 그 밖의 정보도 알아낼 수 없습니다.",Q1BTRACKSBARN,,,,,0,0
+69858,Dialog,BTRACKSBARN,"These appear to be kobold tracks. Several of them seem to have gone into the barn, but not come out.","코볼트의 발자국으로 보입니다. 몇몇은 헛간 안으로 들어간 듯하지만, 나온 흔적은 보이지 않습니다.",Q1BTRACKSBARN,,,,,0,0
+69859,Dialog,BTRACKSBARN,"These appear to be kobold tracks. Two of them seem to have gone into the barn, but not come out.","코볼트의 발자국으로 보입니다. 두 녀석이 헛간 안으로 들어간 듯하지만, 나온 흔적은 보이지 않습니다.",Q1BTRACKSBARN,,,,,0,0
+71638,Dialog,BACKGROUND,"<StartAction>[There is an old inscription on this pillar. The language is unfamiliar, but further study could possibly reveal its nature.]</Start>","<StartAction>[이 기둥에는 오래된 비문이 있습니다. 익숙지 않은 언어이지만, 더 연구하면 정체를 밝혀낼 수도 있겠습니다.]</Start>",Q2_BACKGROUND,,,,,0,0
+71639,Dialog,BACKGROUND,"<StartCheck>[Success]</Start> <StartAction>[The inscriptions appear to be in the elven tongue, describing the history of the fallen city, Ascalhorn.]</Start>","<StartCheck>[성공]</Start> <StartAction>[비문은 엘프어로 보이며, 몰락한 도시 아스칼혼의 역사를 서술하고 있습니다.]</Start>",Q2_BACKGROUND,,,,,0,0
+71640,Dialog,BACKGROUND,"<StartCheck>[Failure]</Start> <StartAction>[Though you discern that the writing is some form of story or history for a city called ""Ascalhorn"", you cannot make out the details.]</Start>","<StartCheck>[실패]</Start> <StartAction>['아스칼혼'이라 불리는 도시의 이야기나 역사라는 점까지는 알아내지만, 자세한 내용은 해독하지 못하겠습니다.]</Start>",Q2_BACKGROUND,,,,,0,0
+71641,Dialog,BACKGROUND,"<StartCheck>[Success]</Start> <StartAction>[The inscriptions appear to be in the elven tongue, describing the history of the fallen city, Ascalhorn.]</Start>","<StartCheck>[성공]</Start> <StartAction>[비문은 엘프어로 보이며, 몰락한 도시 아스칼혼의 역사를 서술하고 있습니다.]</Start>",Q2_BACKGROUND,,,,,0,0
+71642,Dialog,BACKGROUND,"<StartAction>[The words inscribed on this pillar are in the elven tongue, describing the history of the fallen city, Ascalhorn.]</Start>","<StartAction>[이 기둥에 새겨진 글은 엘프어로, 몰락한 도시 아스칼혼의 역사를 설명하고 있습니다.]</Start>",Q2_BACKGROUND,,,,,0,0
+71643,Dialog,BACKGROUND,"""All together, come and mourn,
+For our fair city, Ascalhorn.""","""모두 함께, 와서 애도하라,
+우리의 고운 도시, 아스칼혼을 위해.""",Q2_BACKGROUND,,,,,0,0
+71644,Dialog,BACKGROUND,"""Like a crowning jewel was Ascalhorn, for proud Earlan, her beauty borne.
+Yet even at the height of power, when we ascended like a tower,
+And other lands most jealous grew, still we sought to prove us true,
+For mastery over ancient force.""","""아스칼혼은 마치 왕관의 보석 같았네, 긍지 높은 얼란에게, 그 빼어난 아름다움으로.
+권세의 꼭대기에 올라, 우리가 탑처럼 솟구칠 때에도,
+다른 나라가 질투로 물들었어도, 우리는 스스로를 증명하려 했네,
+고대의 힘을 제어하려고.""",Q2_BACKGROUND,,,,,0,0
+71645,Dialog,BACKGROUND,"""We looked at the growing race of man, and fear of weakness through us ran,
+Reaching down to Shadow's heart, for greater forces than our art,
+But like reaching out to touch the sun, we were burned, our strength undone,
+And evil through our city did course.""","""우리는 자라나는 인간의 종족을 보았고, 약해질까 두려움이 우리를 스쳤네,
+그림자의 심장까지 손을 뻗어, 우리 예술을 넘는 힘을 구했지.
+그러나 태양을 만지려 손을 뻗듯, 우리는 불타 힘을 잃었고,
+악이 우리 도시를 휩쓸었네.""",Q2_BACKGROUND,,,,,0,0
+71646,Dialog,BACKGROUND,"""So, for the evil that we had become, it was up to us to make undone,
+We tore it down and slew our kin, and in blood and death repaid our sin,
+We are the traitors and the faithful, and in death we lay here shameful,
+Forever shall our souls feel this remorse.""","""그래서, 우리가 되어 버린 그 악을 되돌리기 위해,
+우리는 그것을 무너뜨리고 동족을 베었네, 피와 죽음으로 죄를 갚았지.
+우리는 배신자이자 신실한 자, 이곳에 수치 속에 누워 있으리니,
+영원히 우리의 영혼은 이 후회를 느끼리.""",Q2_BACKGROUND,,,,,0,0
+71647,Dialog,BACKGROUND,"""May those who come upon our sleeping, do not waste your time in weeping,
+For evil done and good repaid, we hope our lives a balance made,
+And do not harshly judge us now; we gave our all, best we knew how;
+But all together, come and mourn, for our fair city, Ascalhorn.""","""이 잠든 우리를 만난 이들이여, 울음으로 시간을 낭비하지 말라.
+저지른 악과 갚은 선으로, 우리의 삶이 균형을 이루길 바랄 뿐.
+지금 우리를 심하게 꾸짖지 말라; 우리는 최선을 다했노라;
+그러나 모두 함께, 와서 애도하라, 우리의 고운 도시, 아스칼혼을 위해.""",Q2_BACKGROUND,,,,,0,0
+71653,Dialog,BATS,Squeak... Squeak...,찍찍... 찍찍...,Q2_BATS,,,,,0,0
+71654,Dialog,BATS,"As your mind brushes against theirs, you discover the bat's love for the crypt as a home, and their anger at a recent intrusion of small, scaly lizard-like creatures.","당신의 정신이 그들의 의식에 스치자, 박쥐들이 납골당을 보금자리로 사랑한다는 것과, 최근 비늘 달린 작은 도마뱀 같은 존재들이 침입한 데 대한 분노가 느껴집니다.",Q2_BATS,,,,,0,0
+71655,Dialog,BATS,You also get a sense of revulsion from an image of something that stalks the bats. Things with great hunger and nimble legs.,박쥐들을 뒤쫓는 무엇인가의 형상에서도 혐오감이 전해집니다. 굶주림이 극심하고 다리가 날렵한 것들입니다.,Q2_BATS,,,,,0,0
+71656,Dialog,BATS,The bats seem to marvel at your presence near their minds; then they lose interest and begin to hunt for insects again.,"박쥐들은 당신의 존재가 그들의 의식 가까이에 다가온 것을 신기해하는 듯하다가, 곧 흥미를 잃고 다시 벌레 사냥을 시작합니다.",Q2_BATS,,,,,0,0
+71657,Dialog,BATS,The strange squeaking of the bats increases as they nimbly dive and catch the crumbs out of the air.,"박쥐들이 재빠르게 급강하해 허공의 부스러기 조각을 낚아채자, 기묘한 찍찍 소리가 더욱 커집니다.",Q2_BATS,,,,,0,0
+71658,Dialog,BATS,"You suddenly feel the presence of a very old bat, one that has lived well beyond the years of a normal rodent. Its mind comes to you clearer than the other bats'.",문득 매우 늙은 박쥐의 존재가 느껴집니다. 보통 설치류의 수명을 훌쩍 넘겨 산 개체입니다. 그 정신은 다른 박쥐들보다 훨씬 또렷하게 다가옵니다.,Q2_BATS,,,,,0,0
+71659,Dialog,BATS,"You see a door at the bottom of the steps and beyond the door you feel a powerful presence of benevolence and duty. The old bat then leaves your mind, but with a clear feeling of friendship.","계단 아래의 문이 보이고, 그 너머에서는 자애와 책무의 강력한 기운이 느껴집니다. 이어 늙은 박쥐는 우정 어린 감정을 분명히 남긴 채 당신의 마음에서 물러납니다.",Q2_BATS,,,,,0,0
+71660,Dialog,BATS,"You see great bloated creatures on eight legs, slipping through the darkness. It quickly becomes obvious that giant spiders have made a nest in the lower levels.","어둠 속을 헤치며 미끈하게 지나가는, 여덟 다리의 커다랗고 부풀어 오른 존재들이 보입니다. 곧 하층에 거대한 거미들이 둥지를 틀었음이 분명해집니다.",Q2_BATS,,,,,0,0
+71661,Dialog,BATS,"You see a large number of kobolds entering the crypts and descending to the lower level, where the bats seldom venture. They obviously fear something else down there.",숱한 코볼트들이 납골당으로 들어가 박쥐들이 좀처럼 내려가지 않는 하층으로 내려가는 모습이 보입니다. 저 아래에 있는 다른 무엇인가를 분명 두려워하는 듯 합니다.,Q2_BATS,,,,,0,0
+71666,Dialog,BLOODNOTE,<StartAction>[It appears that someone failed the test and wrote a short note in their own blood.]</Start>,<StartAction>[누군가 시험에 실패하고 자기 피로 짧은 쪽지를 써 놓은 듯합니다.]</Start>,Q2_BLOODNOTE,,,,,0,0
+71667,Dialog,BLOODNOTE,"""Damnable elves! Death awaits on path. Should have walked on the oth..."" <StartAction>[Apparently he died before he could finish.]</Start>","""빌어먹을 엘프들! 이 길엔 죽음이 기다린다. 다른 길로 갔어야 했..."" <StartAction>[끝맺기 전에 죽은 것 같습니다.]</Start>",Q2_BLOODNOTE,,,,,0,0
+72056,Dialog,BLACKBEAR,The bear turns to regard you with its fierce eyes and growls low in its throat. This beast has obviously been beaten and starved to turn it into a killer.,곰이 사나운 눈빛으로 당신을 돌아보며 낮게 으르렁거립니다. 이 짐승을 살인 기계로 만들기 위해 두들겨 패고 굶긴 게 분명합니다.,Q3_BLACKBEAR,,,,c_bear_atk3,0,0
+72057,Dialog,BLACKBEAR,The bear stares at you suspiciously. It's thoughts are full of pain and hunger... obviously the gnolls have conditioned it to become a killer.,곰이 당신을 의심스럽게 응시합니다. 그 생각은 고통과 굶주림으로 가득합니다... 놀들이 살인자로 길들인 게 분명합니다.,Q3_BLACKBEAR,,,,,0,0
+72058,Dialog,BLACKBEAR,"The bear turns its pain-filled thoughts elsewhere for now, wondering faintly if you too will beat it if it acts wrongly.","곰은 고통으로 가득한 생각을 잠시 다른 데로 돌리며, 잘못 행동하면 당신도 자신을 때릴지 희미하게 걱정합니다.",Q3_BLACKBEAR,,,,,0,0
+72059,Dialog,BLACKBEAR,"Since you have control over the bear for the moment, you quickly distract it and then kill it. Its thoughts of shock and hate fade away as it dies.","당분간 곰을 통제할 수 있으므로, 재빨리 주의를 돌린 뒤 죽입니다. 죽어 가면서 충격과 증오의 생각이 서서히 사라집니다.",Q3_BLACKBEAR,,,,,0,0
+72060,Dialog,BLACKBEAR,The images the bear sends you are a mixture of hatred and pain. It knows little of the gnolls beyond the torture they have inflicted on the beast.,곰이 전달하는 영상은 증오와 고통이 뒤섞여 있습니다. 놀들에 대해 아는 것이라곤 자신에게 가한 고문뿐입니다.,Q3_BLACKBEAR,,,,,0,0
+72061,Dialog,BLACKBEAR,"You gather some scraps to feed to the bear, and it all but flies into a rage as it chews down the meat quickly. Obviously it half-expects you to take its meal away.","곰에게 먹이로 줄 부스러기를 모아 주니, 곰은 거의 발작하듯 고기를 허겁지겁 씹어 삼킵니다. 당신이 먹이를 빼앗을 거라 예상하는 듯합니다.",Q3_BLACKBEAR,,,,,0,0
+72062,Dialog,BLACKBEAR,"Rather than making the bear more agreeable, feeding it seems to make it more suspicious. From the images in its mind, it seems the gnolls only fed it before combat.","먹이를 준다고 해서 곰이 순해지지는 않습니다. 오히려 경계가 더 심해집니다. 머릿속 영상으로 보아, 놀들은 전투 직전에만 먹이를 주었던 듯합니다.",Q3_BLACKBEAR,,,,,0,0
+72063,Dialog,BLACKBEAR,"You attempt to pat the bear's fur and speak to it calmly, but it flinches away from you as if expecting to be beaten.","곰의 털을 쓰다듬으며 차분히 달래 보지만, 곰은 금세 움찔하며 물러납니다. 또 맞을 것처럼 두려워하는 모습입니다.",Q3_BLACKBEAR,,,,,0,0
+72064,Dialog,BLACKBEAR,"Even though the bear knows instinctively that you are a friend, the gnolls have all but ruined the bear's mind. Inside its hate-filled mind, the bear wishes it was dead.","곰은 본능적으로 당신이 친구임을 알아보지만, 놀들이 곰의 정신을 거의 망가뜨렸습니다. 증오로 가득 찬 그 마음속에서, 곰은 차라리 죽고 싶어 합니다.",Q3_BLACKBEAR,,,,,0,0
+72065,Dialog,BLACKBEAR,"Whispering a prayer to the gods of nature, you call it near and suddenly give it a quick and merciful death. Its last, fleeting thoughts are of gratitude.","자연의 신들에게 속삭이며 기도한 뒤 곰을 가까이 부르고, 재빨리 자비로운 죽음을 내려 줍니다. 마지막 스쳐 가는 생각은 감사입니다.",Q3_BLACKBEAR,,,,,0,0
+74925,Creature,Bethsheva,Bethsheva,베스셰바,Q1CBETHSHEVA,,,,,0,0
+74946,Creature,Blumberg Refugee,Blumberg Refugee,블럼버그 피난민,Q1GBLUMREF1|Q1GBLUMREF2|Q1GBLUMREF3|Q1GBLUMREF4,,,,,0,0
+79555,Creature,Beholder Tyrant,Beholder Tyrant,주시자 폭군,NW_BEETLEBOSS,,,,,0,0
+84538,Creature,Beholder Tyrant,Beholder Tyrant,주시자 폭군,Q5_HIVEMOTHER,,,,,0,0
+79557,Creature,Bombardier Beetle,Bombardier Beetle,포격수 딱정벌레,NW_BTLBOMB,,,,,0,0
+79579,Creature,Brittle Bone Golem,Brittle Bone Golem,전투 뼈 골렘,NW_GOLBONE,,,,,0,0
+80363,Dialog,BOULDER,"This boulder is large enough that it might be climbable to reach the hole above. Doing so will be tricky, however, and there is a possibility of injury.","이 바위는 위의 구멍까지 올라갈 만큼 충분히 큽니다. 다만 올라가기는 까다롭고, 다칠 가능성도 있습니다.",Q1_BOULDER,,,,,0,0
+81214,Dialog,BOULDER,"You could possibly climb this rock face to reach the ruins above, though there is likely the chance of injury should you fall.",이 바위면을 타고 올라가 위의 폐허로 갈 수 있을지도 모르겠습니다. 다만 떨어지면 다칠 가능성이 큽니다.,Q2C_BOULDER,,,,,0,0
+81980,Dialog,BOULDER,"It appears this rock face could be ascended into the ruins above, though not without some risk of injury from falling.",이 바위면은 위쪽 폐허로 오를 수 있을 것처럼 보입니다. 하지만 떨어질 위험이 있어 다칠 수도 있습니다.,Q3C_BOULDER,,,,,0,0
+106439,Dialog,BOULDER,Climbing this boulder would lead you back into the beholder caves.,이 바위를 타고 오르면 주시자 동굴로 되돌아가시게 됩니다.,Q5C_BOULDER,,,,,0,0
+81199,Dialog,BEDINE,"Go in peace, stranger. If you have business, I suggest you speak to Ali.","평안히 가십시오, 나그네여. 볼 일이 있으시다면 알리에게 가 보시길 권합니다.",Q2A_BEDINE,,,,,0,0
+81200,Dialog,BEDINE,"I greet you, stranger. It is too bad that you have come to our oasis at such an inopportune time.","환영합니다, 나그네여. 하필 좋지 못한 때에 우리 오아시스에 오셨군요.",Q2A_BEDINE,,,,,0,0
+81201,Dialog,BEDINE,"We will die soon, and the desert shall take us... and then the evil lord shall escape his tomb at last. These are dark days, indeed.","우리는 곧 죽고, 사막이 우리를 삼킬 것입니다... 그러면 사악한 군주가 마침내 무덤에서 풀려나리다. 참으로 암울한 때입니다.",Q2A_BEDINE,,,,,0,0
+81202,Dialog,BEDINE,"I am afraid I possess no supplies to sell you, stranger.","미안하지만 드릴 물자는 없습니다, 나그네여.",Q2A_BEDINE,,,,,0,0
+81203,Dialog,BEDINE,"You must speak to Ali, stranger. He will know what to do.","알리와 이야기하셔야 합니다, 나그네여. 그가 무엇을 해야 할지 알 것입니다.",Q2A_BEDINE,,,,,0,0
+81204,Dialog,BEDINE,"You are the one out of prophesy! Salaam, <FullName>. Your name will remain on our tongues and on the tongues of our children for generations.","그대가 바로 예언의 인물이군요! 살람, <FullName>. 그대의 이름은 우리와 우리 아이들의 입에 세대에 걸쳐 오르내릴 것입니다.",Q2A_BEDINE,,,,,0,0
+81244,Dialog,BANE_STATUE,"<StartAction>[This massive statue looms above you, as if about to strike you at any moment. Two exceptionally large rubies seem to be the statue's eyes.]</Start>","<StartAction>[거대한 조각상이 당신 위로 드리워져, 당장이라도 내려칠 듯합니다. 유난히 큰 두 개의 루비가 조각상의 눈처럼 보입니다.]</Start>",Q2E_BANE_STATUE,,,,,0,0
+83025,Creature,Bedine Warrior,Bedine Warrior,베다인 투사,Q2A_BEDINE2,,,,,0,0
+86792,Dialog,BK_SCOUT,Aaahhh!!,아아악!!,BK_SCOUT,,,,vs_nx2intlm_55,0,0
+86793,Dialog,BK_SCOUT,All you followers of Eilistraee are doomed!,"에일리스트레이의 추종자들아, 너희는 모두 끝장이다!",BK_SCOUT,,,,vs_nx2intlm_56,0,0
+86794,Dialog,BK_SCOUT,The armies of the Valsharess will crush you all!,발샤레스의 군대가 너희 전부를 짓밟을 것이다!,BK_SCOUT,,,,vs_nx2intlm_57,0,0
+86795,Dialog,BK_SCOUT,Soon you will feel... wait. What's that sound?,곧 느끼게 될 거다... 잠깐. 저 소리는 뭐지?,BK_SCOUT,,,,vs_nx2intlm_58,0,0
+86796,Dialog,BK_SCOUT,Nau!! Elghinn! Nau!,나우!! 엘긴! 나우!,BK_SCOUT,,,,vs_nx2intlm_59,0,0
+90374,Creature,Beholder Mage,Beholder Mage,주시자 마법학자,CUT107_BEHOLDER2|MALIK|Q2A_BAT2_BEH2|Q5_BEHOLDERMAGE,,,,,0,0
+90432,Creature,Bebilith,Bebilith,베빌리스,HX_HELL_BEBI,,,,,0,0
+91406,Dialog,BK_LEVELUP,"Since before the founding of the city of Waterdeep, an infamous dungeon known as Undermountain has existed beneath it. While full of many dangers, Undermountain has never threatened the city... until now.","워터딥이 세워지기 전부터, 그 아래에는 악명 높은 던전 '언더마운틴'이 존재해 왔습니다. 온갖 위험으로 가득했지만, 언더마운틴이 도시를 위협한 적은 없었습니다... 지금까지는 없었습니다.",BK_LEVELUP,,,,,0,0
+91407,Dialog,BK_LEVELUP,"For reasons unknown, Waterdeep is now suddenly under siege from forces originating within Undermountain. A call has gone out for heroes to deal with this mysterious threat, and it is to this call that you have responded.","어떤 이유에서인지 알 수 없지만, 이제 워터딥은 언더마운틴에서 비롯된 세력에게 갑작스레 포위당했습니다. 이 수수께끼 같은 위협에 맞설 영웅들을 모집하는 부름이 내려졌고, 당신은 그 부름에 응했습니다.",BK_LEVELUP,,,,,0,0
+91408,Dialog,BK_LEVELUP,"Upon your arrival in Waterdeep late in the night, you were ushered to the Yawning Portal, an inn which holds access to Undermountain itself. Here you and other adventurers are to meet with the proprietor, Durnan, to organize yourselves for what is to come.","늦은 밤 워터딥에 도착하자, 당신은 언더마운틴으로 통하는 입구가 있는 '하품하는 차원문' 여관으로 안내받았습니다. 이곳에서 당신과 다른 모험가들은 여관주인인 더난을 만나 앞으로 닥칠 일에 대비하기로 되어 있습니다.",BK_LEVELUP,,,,,0,0
+91409,Dialog,BK_LEVELUP,"However, you have a choice to make before you sleep for the night. You have enough experience to become a 15th level character. You may choose to let your package -- chosen when you first created your character -- level you up, or you can level yourself up manually.","하지만 잠자리에 들기 전에 선택해야 할 일이 있습니다. 당신은 이제 15레벨이 될 만큼의 경험을 쌓았습니다. 캐릭터를 처음 만들 때 선택했던 패키지에 따라 자동으로 레벨업을 맡기거나, 직접 수동으로 레벨업할 수 있습니다.",BK_LEVELUP,bk_levelup15,,,,0,0
+91410,Dialog,BK_LEVELUP,Very well. Rest... and when you awake your adventure shall begin...,좋습니다. 쉬십시오... 그리고 눈을 뜨면 모험이 시작될 것입니다...,BK_LEVELUP,act_q2aprologue1,,,,0,0
+91411,Dialog,BK_LEVELUP,Very well. Rest... and when you awake your adventure shall begin...,좋습니다. 쉬십시오... 그리고 눈을 뜨면 모험이 시작될 것입니다...,BK_LEVELUP,act_q2aprologue1,,,,0,0
+91630,Dialog,BARCADEGUARD,"""These barricades have been erected to contain the invaders.  I'm sorry, but no one may pass until the Lords of Waterdeep give permission.""","""이 방벽은 침입자를 저지하기 위해 설치되었습니다. 죄송하지만 워터딥의 영주들이 허가하기 전까지는 누구도 통과할 수 없습니다.""",PRE_BARCADEGUARD,,,,,0,0
+91631,Dialog,BARCADEGUARD,"""If you see one of the enemy, know that there are more about. They travel in groups, and usually have a spellcaster with them.""","""적 하나를 보면, 주변에 더 있다는 뜻입니다. 놈들은 무리를 지어 다니고, 보통은 주문 시전자가 함께 있습니다.""",PRE_BARCADEGUARD,,,,,0,0
+91632,Dialog,BARCADEGUARD,"""Sometimes I can hear the enemy moving through the shadows. We've been told to hold these barricades, otherwise I would attack the villains myself.""","""때때로 그림자 속을 움직이는 적들의 소리가 들립니다. 우리는 이 방벽을 사수하라는 명을 받았습니다. 아니었으면 제가 직접 악당들을 치웠을 겁니다.""",PRE_BARCADEGUARD,,,,,0,0
+91633,Dialog,BARCADEGUARD,"""Do not attempt to cross the barricades, citizen. We must contain the invaders, by order of the Lords of Waterdeep.""","""방벽을 넘으려 하지 마십시오, 시민. 워터딥의 영주들의 명으로 우리는 침입자들을 봉쇄해야 합니다.""",PRE_BARCADEGUARD,,,,,0,0
+91634,Dialog,BARCADEGUARD,"""Be wary, citizen. There are things moving around out here more dangerous than your typical cutpurse.""","""조심하십시오, 시민. 여기엔 흔한 소매치기 따위보다 훨씬 위험한 것들이 돌아다닙니다.""",PRE_BARCADEGUARD,,,,,0,0
+91635,Dialog,BARCADEGUARD,"""These barricades have been erected to contain the invaders.  I'm sorry, but no one may pass until the Lords of Waterdeep give permission.""","""이 방벽은 침입자를 저지하기 위해 설치되었습니다. 죄송하지만 워터딥의 영주들이 허가하기 전까지는 누구도 통과할 수 없습니다.""",PRE_BARCADEGUARD,,,,,0,0
+92693,Dialog,BROTHELPATRON,"""They will rue the day they attacked us and forced our brothels to close, those evil fiends!""","""저 악마 같은 것들! 우리를 습격해서 사창가를 문 닫게 만든 그날을 뼈저리게 후회하게 될 거야!""",Q1BROTHELPATRON,,,,,0,0
+92694,Dialog,BROTHELPATRON,"""I am... very... tired..."" <StartAction>[Yawn.]</Start>","""나... 아주... 피곤해..."" <StartAction>[하품]</Start>",Q1BROTHELPATRON,,,,,0,0
+92695,Dialog,BROTHELPATRON,"""Why close a perfectly good brothel during a war? It seems to me that a little encouragement is what our soldiers need!""","""전쟁 중이라고 왜 멀쩡한 사창가를 닫는 거지? 내가 보기엔 우리 병사들에게 필요한 건 약간의 격려라고!""",Q1BROTHELPATRON,,,,,0,0
+92696,Dialog,BROTHELPATRON,"""There will be more killings soon; mark my words! This war is far from over.""","""곧 더 많은 살인이 벌어질 거야-내 말 기억해! 이 전쟁은 아직 끝나려면 멀었어.""",Q1BROTHELPATRON,,,,,0,0
+92697,Dialog,BROTHELPATRON,"""I should go home, but I am afraid to. What if more of those dark creatures are hiding in there?""","""집에 가야 하긴 하는데, 무서워. 그 어둠의 생명체들이 더 숨어 있으면 어떡하지?""",Q1BROTHELPATRON,,,,,0,0
+92698,Dialog,BROTHELPATRON,"""I miss Lacey. She left the city after the first attack. She was such a pretty woman.""","""레이시가 그리워. 첫 공격 이후로 도시를 떠났거든. 참 예쁜 여인이었지.""",Q1BROTHELPATRON,,,,,0,0
+92787,Creature,Bone Golem Guardian,"""Hey you! Don't touch that!""","""야, 거기! 그거 건드리지 마!""",Q2ABONEGOLEM,act_q2aalchtab2,,,,0,0
+92799,Creature,Bone Golem Guardian,"A dark, overpowering voice erupts from the mouth of this foul monster.",사납고 압도적인 목소리가 이 추악한 괴물의 입에서 폭발하듯 터져 나옵니다.,Q2ABONEGOLEM,,,,,0,0
+92800,Creature,Bone Golem Guardian,"""Touch not the items of Sobrey the Sage, lest thy life, nae, thy very soul be imperiled.""","""현자 소브리의 물건에 손대지 마. 그렇지 않으면 네 목숨, 아니, 네 영혼까지도 위태로울거야.""",Q2ABONEGOLEM,,,,,0,0
+94876,Creature,Bone Golem Guardian,Bone Golem Guardian,뼈 골렘 수호자,Q2ABONEGOLEM,,,,,0,0
+94069,Dialog,BATTLE01,"""Fight them all!""","""전부 상대해라!""",Q2B_BATTLE01,,,,,0,0
+94070,Dialog,BATTLE01,"""You will never win!""","""너희가 이길 일은 없다!""",Q2B_BATTLE01,,,,,0,0
+94071,Dialog,BATTLE01,"""Back! This realm belongs to us!""","""물러서라! 이 영역은 우리 것이다!""",Q2B_BATTLE01,,,,,0,0
+94072,Dialog,BATTLE01,"""Attack! Attack!""","""공격! 공격!""",Q2B_BATTLE01,,,,,0,0
+94073,Dialog,BATTLE01,"""The fairy queen rules!""","""요정 여왕께서 다스리신다!""",Q2B_BATTLE01,,,,,0,0
+94074,Dialog,BATTLE01,"""The level is ours!""","""이 층은 우리 차지다!""",Q2B_BATTLE01,,,,,0,0
+94075,Dialog,BATTLE01,"""Fight! Kill them all!""","""싸워라! 모조리 죽여라!""",Q2B_BATTLE01,,,,,0,0
+94076,Dialog,BATTLE01,"""For the sorceress!""","""요술사님을 위하여!""",Q2B_BATTLE01,,,,,0,0
+94077,Dialog,BATTLE02,"""Might makes right! Fight fight fight!!""","""힘이 곧 정의다! 싸워라 싸워라 싸워라!!""",Q2B_BATTLE02,,,,,0,0
+94078,Dialog,BATTLE02,"""We will have victory!""","""우리는 승리할 것이다!""",Q2B_BATTLE02,,,,,0,0
+94079,Dialog,BATTLE02,"""This level is ours!""","""이 층은 우리 차지다!""",Q2B_BATTLE02,,,,,0,0
+94080,Dialog,BATTLE02,"""Kill! Destroy!""","""죽여라! 부숴라!""",Q2B_BATTLE02,,,,,0,0
+94081,Dialog,BATTLE02,"""The high mage rules us all!""","""대마법사께서 우리 모두를 다스리신다!""",Q2B_BATTLE02,,,,,0,0
+94082,Dialog,BATTLE02,"""Rahhr! We rule this place!""","""크르르! 이곳은 우리 지배하에 있다!""",Q2B_BATTLE02,,,,,0,0
+94083,Dialog,BATTLE02,"""Crush their bones!""","""뼈를 으깨 버려라!""",Q2B_BATTLE02,,,,,0,0
+94084,Dialog,BATTLE02,"""For the ogre!""","""오우거를 위하여!""",Q2B_BATTLE02,,,,,0,0
+94092,Dialog,BDROWDIALOG,You hear drow talking to each other in the next room. They have found one of the chains and are preparing to search for the others...,옆방에서 드로우들이 서로 대화하는 소리가 들립니다. 사슬 하나를 찾았고 나머지를 찾으러 나설 준비를 하는 모양입니다...,Q2BDROWDIALOG,,,,,0,0
+94093,Dialog,BGARG,The statue appears to have locked in place.,석상이 제자리에서 잠긴 듯합니다.,Q2BGARG,,,,,0,0
+94094,Dialog,BGARG,"This large, heavy statue looks like it has been built on rollers.  Perhaps it could be rotated.",크고 무거운 이 조각상은 굴림대 위에 세운 것처럼 보입니다. 어쩌면 회전시킬 수 있겠습니다.,Q2BGARG,,,,,0,0
+94095,Dialog,BGARG,<StartCheck>[Failure]</Start>,<StartCheck>[실패]</Start>,Q2BGARG,,,,,0,0
+94096,Dialog,BGARG,<StartCheck>[Success]</Start>,<StartCheck>[성공]</Start>,Q2BGARG,q2b_spin_anticlk,,,,0,0
+94097,Dialog,BGARG,<StartCheck>[Failure]</Start>,<StartCheck>[실패]</Start>,Q2BGARG,,,,,0,0
+94098,Dialog,BGARG,<StartCheck>[Success]</Start>,<StartCheck>[성공]</Start>,Q2BGARG,q2b_spin_clck,,,,0,0
+94102,Dialog,BLEVER,A large lever sits on the floor before you.  It does not currently function because it seems to be missing a control rod of some kind.  What do you wish to do?,커다란 레버가 바닥에 놓여 있습니다. 어떤 종류의 제어 단장이 빠진 듯하여 현재는 작동하지 않습니다. 무엇을 하시겠습니까?,Q2BLEVER,,,,,0,0
+94103,Dialog,BLEVER,A large lever sits on the floor before you.  It currently holds a Yellow control rod of some kind.  What do you wish to do?,커다란 레버가 바닥에 놓여 있습니다. 현재 노란색 제어 단장이 꽂혀 있습니다. 무엇을 하시겠습니까?,Q2BLEVER,,,,,0,0
+94104,Dialog,BLEVER,A large lever sits on the floor before you.  It currently holds a White control rod of some kind.  What do you wish to do?,커다란 레버가 바닥에 놓여 있습니다. 현재 하얀색 제어 단장이 꽂혀 있습니다. 무엇을 하시겠습니까?,Q2BLEVER,,,,,0,0
+94105,Dialog,BLEVER,A large lever sits on the floor before you.  It currently holds a Red control rod of some kind.  What do you wish to do?,커다란 레버가 바닥에 놓여 있습니다. 현재 빨간색 제어 단장이 꽂혀 있습니다. 무엇을 하시겠습니까?,Q2BLEVER,,,,,0,0
+94106,Dialog,BLEVER,A large lever sits on the floor before you.  It currently holds a Green control rod of some kind.  What do you wish to do?,커다란 레버가 바닥에 놓여 있습니다. 현재 초록색 제어 단장이 꽂혀 있습니다. 무엇을 하시겠습니까?,Q2BLEVER,,,,,0,0
+94107,Dialog,BLEVER,A large lever sits on the floor before you.  It currently holds a Blue control rod of some kind.  What do you wish to do?,커다란 레버가 바닥에 놓여 있습니다. 현재 파란색 제어 단장이 꽂혀 있습니다. 무엇을 하시겠습니까?,Q2BLEVER,,,,,0,0
+94117,Dialog,BMIRROR,"You see your reflection in the mirror, but on the ground near your reflection's feet are many tantalizing objects, almost real enough to touch.","거울에 비친 당신의 모습이 보이지만, 그 발치에는 거의 손에 잡힐 듯한 유혹적인 물건들이 잔뜩 보입니다.",Q2BMIRROR,,,,,0,0
+94118,Dialog,BMIRROR1,"Your reflection in the mirror seems to have a forlorn look in its eyes, but when you look again, it is gone.","거울 속 당신의 표정이 잠시 애잔해 보였지만, 다시 보니 사라졌습니다.",Q2BMIRROR1,,,,,0,0
+94119,Dialog,BMIRROR1,"You see your reflection in the mirror, but on the ground near your reflection's feet are many tantalizing objects, almost real enough to touch.  For an instant, you thought you saw a strange gleam in your reflection's eyes.","거울에 비친 당신의 모습이 보이지만, 그 발치에는 거의 손에 잡힐 듯한 유혹적인 물건들이 잔뜩 보입니다. 잠깐, 당신은 거울 속 눈빛에 이상한 광채가 스친 것 같다고 느꼈습니다.",Q2BMIRROR1,act_q2bmirror_3,,,,0,0
+94120,Dialog,BPORTAL,This is an entrance portal that Halaster uses to trap creatures in Undermountain.,여기는 할라스터가 언더마운틴에서 생명체들을 가두는 데 쓰는 차원문 입구입니다.,Q2BPORTAL,,,,,0,0
+94121,Dialog,BSKELKING,Before you is seated the remains of a great king of man.,당신 앞에는 위대한 인간 왕의 유해가 앉은 채로 있습니다.,Q2BSKELKING,,,,,0,0
+94122,Dialog,BTRACKS1,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS1,,,,,0,0
+94123,Dialog,BTRACKS1,Tracks of four humanoids pass through this corridor.  From the markings you would guess that they passed fairly recently and at great pace.,"인간형 네 명의 발자국이 이 복도를 지나갑니다. 흔적으로 보아 비교적 최근에, 매우 빠른 속도로 지나간 듯합니다.",Q2BTRACKS1,,,,,0,0
+94124,Dialog,BTRACKS1,"You recognize these tracks as belonging to the four adventurers from the Yawning Portal - Linu, Sharwyn, Tomi and Daelan.  They seemed to be moving at a run as the passed through this corridor very recently.","이 발자국이 하품하는 차원문 출신의 네 모험가-리누, 샤윈, 토미, 데란-의 것임을 알아봅니다. 아주 최근에 이 복도를 전속력으로 달려 지나간 듯합니다.",Q2BTRACKS1,,,,,0,0
+94125,Dialog,BTRACKS_D1,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS_D1,,,,,0,0
+94126,Dialog,BTRACKS_D1,A large humanoid seems to have run off in this direction in pursuit of a larger group of creatures.,거대한 인간형 하나가 더 큰 무리의 존재들을 쫓아 이 방향으로 달려간 듯합니다.,Q2BTRACKS_D1,,,,,0,0
+94127,Dialog,BTRACKS_D1,"You recognize these tracks as belonging to Daelan Red Tiger.  He seems to have been pursuing a group of humanoids in this direction, and from the spacing between his footprints, he seemed to be showing no regard for his own personal safety.","이 발자국이 붉은 호랑이 데란의 것임을 알아봅니다. 이 방향으로 인간형 무리를 추적한 듯하며, 발자국 간격으로 보아 자신의 안전을 전혀 고려하지 않은 것 같습니다.",Q2BTRACKS_D1,,,,,0,0
+94128,Dialog,BTRACKS_D2,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS_D2,,,,,0,0
+94129,Dialog,BTRACKS_D2,A large humanoid seems to have passed in this direction recently.  These tracks seem familiar to you somehow.,최근에 거대한 인간형 하나가 이 방향으로 지나간 듯합니다. 이 발자국은 어딘가 익숙해 보입니다.,Q2BTRACKS_D2,,,,,0,0
+94130,Dialog,BTRACKS_D2,You recognize these tracks as belonging to Daelan Red Tiger.  He seems to have passed through this area fairly recently.,이 발자국이 붉은 호랑이 데란의 것임을 알아봅니다. 비교적 최근에 이 지역을 지나간 듯합니다.,Q2BTRACKS_D2,,,,,0,0
+94131,Dialog,BTRACKS_LT,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS_LT,,,,,0,0
+94132,Dialog,BTRACKS_LT,"A large humanoid seems to have passed in this direction recently.  It was pursued by two other humanoids, but they were driven off by a larger group of creatures - you are 90% sure they were Drow.","최근에 거대한 인간형 하나가 이 방향으로 지나간 듯합니다. 뒤이어 다른 인간형 둘이 추적했으나, 더 큰 무리의 존재들에게 밀려났습니다-그들이 드로우였다고 90% 확신합니다.",Q2BTRACKS_LT,,,,,0,0
+94133,Dialog,BTRACKS_LT,"You recognize these tracks as belonging to Linu and Tomi.  They seemed to have started in pursuit of a large humanoid, probably Daelan, and then doubled back, pursued by what look like several Drow.","이 발자국이 리누와 토미의 것임을 알아봅니다. 그들은 아마 데란일 거대한 인간형을 뒤쫓기 시작했다가, 드로우로 보이는 몇 명에게 쫓겨 되돌아간 듯합니다.",Q2BTRACKS_LT,,,,,0,0
+94134,Dialog,BTRACKS_LT1,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS_LT1,,,,,0,0
+94135,Dialog,BTRACKS_LT1,"A pair of humanoids moved through this area recently.  They seemed to be moving cautiously, checking the area as they go.",최근에 인간형 두 명이 이 구역을 지나간 듯합니다. 이동하며 주위를 살피는 등 조심스럽게 움직였던 것 같습니다.,Q2BTRACKS_LT1,,,,,0,0
+94136,Dialog,BTRACKS_LT1,"You recognize these tracks as belonging to Linu and Tomi.  They seemed to have passed through this area fairly recently, moving slowly and cautiously.","이 발자국이 리누와 토미의 것임을 알아봅니다. 비교적 최근에 이곳을 지나갔고, 느리고 조심스레 움직였던 것 같습니다.",Q2BTRACKS_LT1,,,,,0,0
+94137,Dialog,BTRACKS_LT2,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS_LT2,,,,,0,0
+94138,Dialog,BTRACKS_LT2,"A pair of humanoids moved through this area recently.  Their tracks lead around the portal in front of you, but not away.","최근에 인간형 두 명이 이 구역을 지나간 듯합니다. 발자국은 당신 앞의 관문 주위를 한 바퀴 돌지만, 멀어지지는 않습니다.",Q2BTRACKS_LT2,,,,,0,0
+94139,Dialog,BTRACKS_LT2,"You recognize these tracks as belonging to Linu and Tomi.  The tracks move cautiously around the portal that is in front of you, but do not lead away.  They must have entered it and gone who knows where.",이 발자국이 리누와 토미의 것임을 알아봅니다. 발자국은 당신 앞의 관문 주변을 조심스레 돌다가 멀어지지 않습니다. 아마 관문으로 들어가 어디론가 사라진 모양입니다.,Q2BTRACKS_LT2,,,,,0,0
+94140,Dialog,BTRACKS_LT3,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS_LT3,,,,,0,0
+94141,Dialog,BTRACKS_LT3,A pair of humanoids moved through this area recently.  Their tracks lead down the stairs that beckon just in front of you.,최근에 인간형 두 명이 이곳을 지나간 듯합니다. 발자국은 바로 앞에서 손짓하듯 내려가는 계단으로 이어집니다.,Q2BTRACKS_LT3,,,,,0,0
+94142,Dialog,BTRACKS_LT3,"You recognize these tracks as belonging to Linu and Tomi.  They must have got past the colored pillars as well, as their tracks lead to the stairs in front of you that lead down.","이 발자국이 리누와 토미의 것임을 알아봅니다. 발자국이 당신 앞의 하강 계단으로 이어지는 걸 보니, 그들도 색색의 기둥을 통과해 내려간 게 틀림없습니다.",Q2BTRACKS_LT3,,,,,0,0
+94143,Dialog,BTRACKS_LT4,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS_LT4,,,,,0,0
+94144,Dialog,BTRACKS_LT4,A pair of humanoids moved through this area recently.  They seemed to have slowed almost to a stop at this point and spent some time cautiously looking around.,"최근에 인간형 두 명이 이 구역을 지나간 듯합니다. 여기서는 거의 멈춰 설 정도로 속도를 늦추고, 한동안 조심스럽게 주위를 살핀 흔적입니다.",Q2BTRACKS_LT4,,,,,0,0
+94145,Dialog,BTRACKS_LT4,You recognize these tracks as belonging to Linu and Tomi.  They seemed to have stopped short at this point and taken great care with something directly in front of them.  The smaller one seems to have spent a bit of time checking something at floor level.,"이 발자국이 리누와 토미의 것임을 알아봅니다. 이 지점에서 걸음을 멈추고, 바로 앞의 무언가를 극도로 조심해 다뤘던 듯합니다. 키가 더 작은 쪽은 바닥 쪽 무언가를 한동안 살펴본 것 같습니다.",Q2BTRACKS_LT4,,,,,0,0
+94146,Dialog,BTRACKS_LT5,Humanoid tracks are scattered about the ground in this area.,이 지역 지면 곳곳에 인간형 발자국이 흩어져 있습니다.,Q2BTRACKS_LT5,,,,,0,0
+94147,Dialog,BTRACKS_LT5,"A pair of humanoids moved through this area recently.  They seemed to be moving cautiously, checking the area as they go.",최근에 인간형 두 명이 이 구역을 지나간 듯합니다. 이동하며 주위를 살피는 등 조심스럽게 움직였던 것 같습니다.,Q2BTRACKS_LT5,,,,,0,0
+94148,Dialog,BTRACKS_LT5,"You recognize these tracks as belonging to Linu and Tomi.  They seemed to have passed through this area fairly recently, moving slowly and cautiously.","이 발자국이 리누와 토미의 것임을 알아봅니다. 비교적 최근에 이곳을 지나갔고, 느리고 조심스레 움직였던 것 같습니다.",Q2BTRACKS_LT5,,,,,0,0
+94149,Dialog,BTRAPCHEST,The chests in front of you radiate with illusionary magic.,당신 앞의 상자들에서 환영 마법의 기운이 뿜어져 나옵니다.,Q2BTRAPCHEST,,,,,0,0
+94844,Creature,Berger,Berger,베르거,CUT39_ASSISTANT,,,,,0,0
+99050,Dialog,BOX_CONV,"A wall of ancient crates blocks your path, bound in some strange, unknown metal. Magic swirls around the barricade, making it clear that it is not as casual as it appears.","고대의 상자들이 벽처럼 길을 막고 있으며, 정체 모를 금속으로 결박되어 있습니다. 마법이 장벽을 휘감고 있어 겉보기와 달리 결코 만만치 않다는 걸 알 수 있습니다.",Q4A_BOX_CONV,,,,,0,0
+99051,Dialog,BOX_CONV,"There seems to be a small break in the magic, however, and some enterprising rats have managed to exploit the barrier's weakness and chew a hole through to the other side.","하지만 마법에 작은 틈이 있는 듯하고, 영리한 쥐들이 그 약점을 파고들어 반대편으로 통하는 구멍을 파내었습니다.",Q4A_BOX_CONV,,,,,0,0
+99052,Dialog,BOX_CONV,Something glints in the darkness beyond. Gold? Rat's eyes? A hidden foe? The gloom makes it too hard to tell.,저 너머 어둠 속에서 무언가가 반짝입니다. 금일까요? 쥐의 눈일까요? 숨어 있는 적일까요? 어둠이 짙어 정확히 알아보기 어렵습니다.,Q4A_BOX_CONV,,,,,0,0
+99053,Dialog,BOX_CONV,"Flying doesn't seem like an option anymore, as you are definitely too large to fit through the hole in your current form.",지금은 날아서 지나가는 건 불가능해 보입니다. 지금 모습으로는 그 구멍을 통과하기엔 너무 큽니다.,Q4A_BOX_CONV,,,,,0,0
+100152,Creature,Bugbear Chieftan,Bugbear Chieftan,버그베어 족장,Q4A_BUGBEAR_3,,,,,0,0
+100153,Creature,Bugbear Shaman,Bugbear Shaman,버그베어 주술사,Q4A_BUGBEAR_4,,,,,0,0
+100156,Creature,Bessy,Bessy,베시,Q4A_BESSY_OX,,,,,0,0
+104087,Dialog,BAT1_BETRAYCONV,"""The Valsharess said we would have an ally amongst the rebel ranks.""","""발샤레스께서 반군 진영 안에 우리 동맹이 있을 거라 하셨다.""",BAT1_BETRAYCONV,act_q2evilpath_1,,,,0,0
+104088,Dialog,BAT1_BETRAYCONV,"""Feel free to join us in our slaughter as we crush this rebellion once and for all.""","""이 반란을 영영 뭉개 버릴 테니, 도륙에 동참해도 좋다.""",BAT1_BETRAYCONV,,,,,0,0
+104089,Dialog,BAT1ARTILLERY,"You must speak with the squad leader, my <lord/lady>.","분대장과 상의하셔야 합니다, 모험가님.",BAT1ARTILLERY,,,,,0,0
+104090,Dialog,BAT1ARTILLERY,"""Yes, my <lord/lady>? Do you have any orders for us?""","""예, 모험가님? 지시가 있으십니까?""",BAT1ARTILLERY,,,,,0,0
+104091,Dialog,BAT1ARTILLERY,"""Yes, my <lord/lady>. We will do as you command.""","""예, 모험가님. 명령대로 하겠습니다.""",BAT1ARTILLERY,,,,,0,0
+104096,Dialog,BAT1CLERIC,"You must speak with the squad leader, my <lord/lady>.","분대장과 상의하셔야 합니다, 모험가님.",BAT1CLERIC,,,,as_cv_eulpipe1,0,0
+104097,Dialog,BAT1CLERIC,"""Yes, my <lord/lady>?","예, 모험가님?",BAT1CLERIC,,,,,0,0
+104098,Dialog,BAT1CLERIC,"""Of course, my <lord/lady>.""","""물론입니다, 모험가님.""",BAT1CLERIC,,,,,0,0
+104105,Dialog,BAT1SWORD,"You must speak with the squad leader, my <lord/lady>.","분대장과 상의하셔야 합니다, 모험가님.",BAT1SWORD,,,,,0,0
+104106,Dialog,BAT1SWORD,"""What are your orders, my <lord/lady>?""","""지시가 무엇입니까, 모험가님?""",BAT1SWORD,,,,,0,0
+104107,Dialog,BAT1SWORD,"""Right away, my <lord/lady>.""","""즉시 실행하겠습니다, 모험가님.""",BAT1SWORD,,,,,0,0
+104116,Dialog,BAT2SWORD,"You must speak with the squad leader, sir.","분대장과 상의하셔야 합니다, 선생님.",BAT2SWORD,,,,,0,0
+104117,Dialog,BAT2SWORD,"""Yes, my <lord/lady>?""","""예, 모험가님?""",BAT2SWORD,,,,,0,0
+104118,Dialog,BAT2SWORD,"""As you command, my <lord/lady>.""","""명령대로 하겠습니다, 모험가님.""",BAT2SWORD,,,,,0,0
+104119,Dialog,BAT2SWORD,This soldier is busy.,이 병사는 바쁩니다.,BAT2SWORD,,,,,0,0
+104125,Dialog,BK_BIG_HOLE,"Water whistles through this hole. By the loud echo you are hearing, it is emptying into a large cavern. You might be able to hold your breath long enough to pass through.","물이 이 구멍을 휘파람 소리를 내며 흘러갑니다. 크게 울려오는 메아리로 보아, 물은 거대한 동굴로 빠져나가는 듯합니다. 숨을 충분히 참으면 통과할 수도 있겠습니다.",BK_BIG_HOLE,,,,,0,0
+104128,Dialog,BK_SHADOW,There appears to be a bridge woven of shadow-strand here. It is not safe to walk upon it.,여기에는 그림자 실로 엮인 다리가 있는 듯합니다. 그 위를 걷는 것은 안전하지 않습니다.,BK_SHADOW,,,,,0,0
+104129,Dialog,BK_SHAKER_WARN,The ground rumbles here and foul vapors emanate from the sinkholes. You should be careful of where you step...,"이곳에서는 땅이 울리고, 구덩이들에서 역한 기체가 뿜어져 나옵니다. 발을 디딜 곳을 조심하셔야 합니다.",BK_SHAKER_WARN,,,,,0,0
+104130,Dialog,BK_SIM,"This is a control panel of some sort. A very elaborate engraving of a chasm-spanning bridge is etched into its surface. Dried blood and other fleshy bits covers the panel. There are eight small buttons and one larger button on the panel. There is also a small slot, just big enough for a small spherical object.","이것은 일종의 제어판입니다. 표면에는 협곡을 가로지르는 다리의 매우 정교한 조각이 새겨져 있습니다. 말라붙은 피와 다른 살점이 패널을 뒤덮고 있습니다. 패널에는 작은 버튼이 여덟 개, 더 큰 버튼이 하나 있으며, 작은 구형 물체가 겨우 들어갈 만큼의 작은 구멍도 있습니다.",BK_SIM,bk_sim_init,,,,0,0
+104131,Dialog,BK_SIM,"The text explains how this machine was installed by Illithids to provide a measure of protection for a colony of Beholders living across the chasm. By properly manipulating the machine, the user can make the shadow bridge that spans the chasm materialize. The Beholders only give instructions on how to use this machine to slave merchants and others of use to them.",설명문에는 이 장치를 협곡 건너편에 사는 주시자 식민지를 보호하기 위한 수단으로 일리시드가 설치했다고 적혀 있습니다. 장치를 올바르게 조작하면 협곡을 가로지르는 그림자 다리를 실체화할 수 있습니다. 주시자들은 이 기계를 쓰는 방법을 노예상과 자신들에게 쓸모 있는 자들에게만 알려 줍니다.,BK_SIM,,,,,0,0
+104132,Dialog,BK_SIM,None of the squiggles and symbols make any sense to you.,휘갈겨 쓴 글자와 기호들은 당신에게 전혀 이해가 되지 않습니다.,BK_SIM,,,,,0,0
+104133,Dialog,BK_SIM,You carefully place Tynan into the machine. Two new buttons slide out of the panel. One shows the image of a spider and the other shows a shrunken humanoid.,"당신은 타이난을 조심스럽게 기계에 넣습니다. 패널에서 새 버튼 두 개가 미끄러져 나옵니다. 하나에는 거미 그림이, 다른 하나에는 작아진 인간형 생명체의 그림이 보입니다.",BK_SIM,bk_act_taketynan,,,,0,0
+104134,Dialog,BK_SIM,Tynan giggles and disappears. A small spinning top appears in your hand.,타이난이 킥킥 웃더니 사라집니다. 당신의 손에는 작은 팽이가 하나 나타납니다.,BK_SIM,bk_sim_maketop,,,,0,0
+104135,Dialog,BK_SIM,"<CUSTOM5487>
+<CUSTOM5488>
+<CUSTOM5489>
+<CUSTOM5490>
+<CUSTOM5491>
+<CUSTOM5492>
+
+ You stare blankly at the panel. You have no idea how anyone could understand what this means. You pop the pearl back out in frustration.","<CUSTOM5487>
+<CUSTOM5488>
+<CUSTOM5489>
+<CUSTOM5490>
+<CUSTOM5491>
+<CUSTOM5492>
+
+당신은 멍하니 패널만 바라봅니다. 이게 무슨 뜻인지 전혀 알 수 없습니다. 답답함에 못 이겨 진주를 다시 빼냅니다.",BK_SIM,,,,,0,0
+104136,Dialog,BK_SIM,"You hear a voice whisper in your mind. ""Which tongue?""","머릿속에서 속삭이는 목소리가 들립니다. ""어느 언어로?""",BK_SIM,bk_act_takepearl,,,,0,0
+104137,Dialog,BK_SIM,<StartCheck>Failure</Start> You cannot figure out what the button names mean.,<StartCheck>실패</Start> 버튼 이름이 무엇을 뜻하는지 알아낼 수 없습니다.,BK_SIM,,,,,0,0
+104138,Dialog,BK_SIM,<StartCheck>Success</Start> You realize that the buttons on the panel are labeled in a dialect of Beholder that you are familiar with.,<StartCheck>성공</Start> 패널의 버튼들이 당신이 익숙한 주시자 방언으로 표기되어 있음을 깨닫습니다.,BK_SIM,bk_sim_transtrue,,,,0,0
+104139,Dialog,BK_SIM,"<CUSTOM5487>
+<CUSTOM5488>
+<CUSTOM5489>
+<CUSTOM5490>
+<CUSTOM5491>
+<CUSTOM5492>
+
+There is also a large, glowing button near the bottom of the panel.
+","<CUSTOM5487>
+<CUSTOM5488>
+<CUSTOM5489>
+<CUSTOM5490>
+<CUSTOM5491>
+<CUSTOM5492>
+
+패널 하단 근처에는 크고 빛나는 버튼이 하나 더 있습니다.",BK_SIM,,,,,0,0
+104140,Dialog,BK_SIM,The panel changes.,패널이 변합니다.,BK_SIM,,,,,0,0
+104141,Dialog,BK_SIM,The bridge has appeared. There is little more to do with this device.,다리가 나타났습니다. 이 장치로 더 할 일은 거의 없습니다.,BK_SIM,,,,,0,0
+104746,Dialog,BAMBIENT,Matron Myrune should never have opposed the Valsharess. Look what it got us!,"발샤레스에 대항하다니, 미룬 대모께선 그러지 말았어야 했어. 이 꼴이 됐잖아!",Q2BAMBIENT,,,,,0,0
+104747,Dialog,BAMBIENT,Zesyyr is quite young for a Matron. But she can't do any worse than her mother did.,제시르는 대모치고 꽤 어리지만... 어머니만큼 못할 리는 없지.,Q2BAMBIENT,,,,,0,0
+104748,Dialog,BAMBIENT,House Maeviir deserves better than this: stuck in a camp with a bunch of Eilistraee refugees!,마에비르 가문이 이런 대접을 받아야 하다니-에일리스트레이 난민 떼랑 한 진영에 갇히다니!,Q2BAMBIENT,,,,,0,0
+104749,Dialog,BAMBIENT,The Seer thinks you're some kind of savior... so go stop the Valsharess already.,선견자는 네가 무슨 구원자쯤 된다고 생각해... 그러니 어서 가서 발샤레스를 막아.,Q2BAMBIENT,,,,,0,0
+104750,Dialog,BAMBIENTGOOD,"House Maeviir spits on us, but those hypocrites want us to stick around for the fighting!","마에비르 가문 것들은 우릴 깔보면서도, 정작 싸움할 때는 곁에 있으래! 위선자들 같으니!",Q2BAMBIENTGOOD,,,,,0,0
+104751,Dialog,BAMBIENTGOOD,I hope the new Matron of House Maeviir has more respect for us than the last one.,마에비르 가문의 새 대모는 지난번보다 우리를 더 존중해 주길 바라지.,Q2BAMBIENTGOOD,,,,,0,0
+104752,Dialog,BAMBIENTGOOD,May Eilistraee give you strength and wisdom in these troubled times.,에일리스트레이께서 이 역경의 시대에 그대에게 힘과 지혜를 내리시길.,Q2BAMBIENTGOOD,,,,,0,0
+104753,Dialog,BAMBIENTGOOD,The Seer believes you can defeat the Valsharess... as do I. Good luck.,선견자는 네가 발샤레스를 물리칠 수 있다고 믿어... 나도 그래. 행운을 빌지.,Q2BAMBIENTGOOD,,,,,0,0
+105294,Dialog,BAT,The bats here seem unusually large.,이곳의 박쥐들은 유난히 큽니다.,Q3_BAT,,,,,0,0
+105295,Dialog,BAT,"The bat flits and flaps about you, trying to determine if you are one of its blood brothers.",박쥐가 당신 주위를 파닥이며 당신이 자기와 피를 나눈 동족인지 알아보려 합니다.,Q3_BAT,,,,,0,0
+105315,Dialog,BONES,"A pile of over-sized bones lurk in the shadowed gloom. Pale and white, it seems that whatever meat once clung to them has long since been picked clean.","과하게 큰 뼈 무더기가 어둑한 그늘 속에 도사리고 있습니다. 창백하고 하얗게, 한때 붙어 있던 살점은 오래전에 다 뜯겨 나간 듯합니다.",Q3C_BONES,,,,,0,0
+107806,Creature,Bronze Golem,Bronze Golem,황동 골렘,Q4C_BRONZEGOLEM,,,,,0,0
+107823,Creature,Battle Golem,Battle Golem,전투 골렘,Q2A_BAT_FLESHGOL|Q2A_BAT_SILVGOL,,,,,0,0
+107829,Creature,Balor Baron,Balor Baron,발러 남작,Q2ABAT1_OUT3,,,,,0,0
+107840,Creature,Battle Herald,Battle Herald,전투 전령,Q2AHERALD,,,,,0,0
+107858,Creature,Blue Thrall,Blue Thrall,푸른 노예,Q2D2BLUEGLAD1|Q2D2BLUEGLAD2,,,,,0,0
+107894,Creature,Breather,Breather,브레더,Q3B_STATUE1,,,,,0,0
+109797,Creature,Balpheron,Balpheron,벨페론,BALPHERON,,,,,0,0
+110635,Creature,Bulette,Bulette,불레트,TM_CR_BULETTE01,,,,,0,0

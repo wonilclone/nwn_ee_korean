@@ -1,0 +1,84 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+3820,Creature,J'Nah,J'Nah,즈나,Q3_JNAH,,,,,0,0
+22010,Dialog,JEROL,"More business! I am certainly busy this day, even with the streets so dangerous.",손님이 더 오다니! 거리가 이렇게 위험한데도 오늘 정말 바쁘군.,M1Q4B08JEROL,,,,,0,0
+22011,Dialog,JEROL,"Welcome to my humble store. Before we continue, I draw your attention to my guards, and my many warning devices.",초라한 제 가게에 오신 걸 환영합니다. 본론에 들어가기 전에 경비원들과 여러 경보 장치들에 주의를 기울여 주시길.,M1Q4B08JEROL,nw_d1_talktime,,,,0,0
+22012,Dialog,JEROL,"I hold nothing against those that make their living as thieves, but I will not be a target. I need to make a living too.",도둑질로 먹고사는 자들을 나쁘게 보지는 않지만 제가 표적이 될 생각은 없습니다. 저도 먹고살아야 하니까요.,M1Q4B08JEROL,,,,,0,0
+22013,Dialog,JEROL,"I have the standard selection of gear. I have other things as well, but they are probably not of interest to you. You are a guard, aren't you?",기본적인 장비들은 갖추고 있습니다. 다른 물건들도 있긴 한데 당신 관심사는 아닐 겁니다. 경비원이시죠?,M1Q4B08JEROL,,,,,0,0
+22014,Dialog,JEROL,<StartCheck>[Success]</Start> The majority of my special stock is in the market facilities of Seedy Tavern... if you have the right coins to pay. Smugglers' Coins.,<StartCheck>[성공]</Start> 특별 재고 대부분은 시디 선술집의 시장 시설에 있습니다... 맞는 주화만 있다면요. 밀수꾼의 주화 말입니다.,M1Q4B08JEROL,,,,,0,0
+22015,Dialog,JEROL,"I happen to have a small supply. 150 gold per coin. Steep, I know, but if you need them, you'll pay.",마침 조금 갖고 있습니다. 주화 하나에 금화 150개예요. 비싼 건 알지만 필요하시면 내실 겁니다.,M1Q4B08JEROL,,,,,0,0
+22016,Dialog,JEROL,"They are in short supply, but... perhaps you will do me a favor some day, hmm? I shall tell you a possibility.",물량이 부족하긴 한데... 언젠가 저한테 호의를 베풀어 주실 수도 있겠죠? 한 가지 방법을 알려드리죠.,M1Q4B08JEROL,,,,,0,0
+22017,Dialog,JEROL,"Gilda at the Golden Apple. I get the occasional coin from her. She does not know what they are, bless her.",황금 사과의 길다요. 가끔 그녀한테서 주화를 받습니다. 그녀는 그게 뭔지도 모르죠. 순진하기도 해라.,M1Q4B08JEROL,,,,,0,0
+22018,Dialog,JEROL,"There you might get one... or two... My price will not lower, but I will help you this way. Good luck.",거기서 하나... 아니면 둘... 구할 수 있을 겁니다. 가격은 안 내리지만 이렇게라도 도와드리죠. 행운을 빕니다.,M1Q4B08JEROL,,,,,0,0
+22019,Dialog,JEROL,A pleasure doing business. Do come back again.,거래해서 즐거웠습니다. 또 오세요.,M1Q4B08JEROL,,,,,0,0
+22020,Dialog,JEROL,But I am out of these special items. I have no more. I am sorry.,하지만 이 특별 물품은 다 떨어졌습니다. 더 이상 없어요. 죄송합니다.,M1Q4B08JEROL,,,,,0,0
+22021,Dialog,JEROL,<StartCheck>[Failure]</Start> I really don't think you'd be interested. Guards like you don't usually enter the Seedy Tavern as customers. Your type usually kicks in the door and raises hell.,<StartCheck>[실패]</Start> 정말 관심 없으실 것 같은데요. 당신 같은 경비원들은 보통 시디 선술집에 손님으로 안 들어가죠. 당신 부류는 보통 문을 걷어차고 들어가서 난리를 치잖아요.,M1Q4B08JEROL,,,,,0,0
+22022,Dialog,JEROL,"The building is no secret. It's in the center of the northern edge of this district. Anything in there, however, is no business of yours.",건물은 비밀이 아닙니다. 이 구역 북쪽 가장자리 중앙에 있어요. 하지만 거기서 일어나는 일은 당신 알 바 아니죠.,M1Q4B08JEROL,,,,,0,0
+22083,Creature,Jalek,"There a problem with this person, Christov? You want I should set them straight?",이 사람한테 무슨 문제라도 있나 크리스토프? 내가 혼내줄까?,M1Q04CJALEK,,,,,0,0
+24620,Creature,Jalek,Jalek,잘렉,M1Q04CJALEK,,,,,0,0
+24565,Creature,Jared,Jared,자레드,JARED,,,,,0,0
+24621,Creature,Jerol,Jerol,제롤,M1Q04CJEROL,,,,,0,0
+24688,Creature,Jace,Jace,제이스,M1Q4AJACE,,,,,0,0
+24695,Creature,Jemanie,Jemanie,제마니,M1Q5A14JEMANIE,,,,,0,0
+25915,Dialog,JOHNNY,"Can't I just work alone? Like a normal day? No death, no cult, no Desther... ",그냥 혼자 일할 수는 없는 건가? 평범한 날처럼? 죽음도 없고 사이비도 없고 데스터도 없이...,M1Q6F02JOHNNY,,,,,0,0
+25916,Dialog,JOHNNY,"Don't kill me! I'll do what you say, just don't kill me!",죽이지 마요! 시키는 대로 할게요. 제발 죽이지만 마요!,M1Q6F02JOHNNY,m1q6f02johnslg01,,,,0,0
+25917,Dialog,JOHNNY,"I'm... I'm Johnny. Me and dad, we run the Hold storehouse. But... Some cult took over a few weeks ago. People of the Eye?",저... 저는 조니예요. 아버지랑 저는 요새 창고를 운영했어요. 근데... 몇 주 전에 어떤 사이비가 점령했어요. 눈의 사도들이라고?,M1Q6F02JOHNNY,,,,,0,0
+25918,Dialog,JOHNNY,"They killed lots of Helmites, but left us alive to work... and now the boss, Desther? He's raising their dead bodies! Everywhere!",헬름의 사제들을 많이 죽였는데 저희는 일하라고 살려뒀어요... 그리고 이제 두목인 데스터가? 시체들을 되살리고 있어요! 어디서나!,M1Q6F02JOHNNY,,,,,0,0
+25919,Dialog,JOHNNY,Now dad is dead and there's zombies and stuff... I just want to work... I just wanna sort the nails... ,이제 아버지도 죽고 좀비들이랑 그런 것들이... 그냥 일하고 싶어요... 그냥 못이나 정리하고 싶다고...,M1Q6F02JOHNNY,,,,,0,0
+25920,Dialog,JOHNNY,Yeah... yeah... I'll just... organize the shelves... or something... ,네... 네... 그냥... 선반이나 정리할게요... 뭐 그런 거...,M1Q6F02JOHNNY,,,,,0,0
+25921,Dialog,JOHNNY,"Simple business... okay, I can do that... but, it's gotta be fair or I'll get in trouble... if this blows over, anyway.",간단한 거래... 좋아요. 그건 할 수 있어요... 근데 공정해야 해요. 안 그러면 곤란해져요... 이게 다 지나가면 말이죠.,M1Q6F02JOHNNY,,,,,0,0
+25922,Dialog,JOHNNY,"They... they were here as spies, I think. Then one day they just killed almost all the brothers. Except Dumal.",그들은... 첩자로 여기 있었던 것 같아요. 그러더니 어느 날 갑자기 형제들을 거의 다 죽였어요. 듀말 빼고요.,M1Q6F02JOHNNY,,,,,0,0
+25923,Dialog,JOHNNY,"I don't know who they are. They worship something called the ""Old Ones?"" Must be some northern cult, maybe.","그들이 누군지는 몰라요. ""고대의 존재들""인가 뭔가를 숭배하더라고요? 북쪽 사이비인가 봐요.",M1Q6F02JOHNNY,,,,,0,0
+25924,Dialog,JOHNNY,"I don't know! He marches in saying something about being cast aside, saying he isn't getting any more help, and now he's raising the dead.",모르겠어요! 버림받았다느니 더 이상 도움을 못 받는다느니 하면서 쳐들어오더니 이제 죽은 자들을 되살리고 있어요.,M1Q6F02JOHNNY,,,,,0,0
+25925,Dialog,JOHNNY,I heard him yelling while I hid. He said he wouldn't be abandoned. Said he had plans to prove himself.,숨어있는데 그가 소리 지르는 게 들렸어요. 버려지지 않겠다고요. 자신을 증명할 계획이 있다고요.,M1Q6F02JOHNNY,,,,,0,0
+64412,Dialog,JOHNNY,I don't wanna die... I don't. When's this nightmare gonna end?,죽기 싫어요... 정말요. 이 악몽이 언제 끝나는 거예요?,M1Q6F02JOHNNY,,,,,0,0
+64413,Dialog,JOHNNY,"Dumal? He used to be in charge, or at least close to it. I'm sorry, I really didn't know a lot about how the Hold was run. Dad kept up on all that.",듀말요? 책임자였거나 적어도 그에 가까웠어요. 죄송해요. 요새가 어떻게 운영되는지 잘 몰랐어요. 아버지가 그런 건 다 알았거든요.,M1Q6F02JOHNNY,,,,,0,0
+64414,Dialog,JOHNNY,"He was nice, though. He might still be alive somewhere. I think he was kept alive so they could know how to act. Not sure, though.",그래도 좋은 분이었어요. 어딘가에 아직 살아있을지도 몰라요. 어떻게 행동해야 하는지 알아내려고 살려둔 것 같은데 확실하진 않아요.,M1Q6F02JOHNNY,,,,,0,0
+26328,Creature,Judge Oleff Uskar,Judge Oleff,올레프 판사,M1Q6A01OLEF,,,,,0,0
+57708,Creature,Judge Oleff Uskar,Uskar,우스카르,M1Q6A01OLEF|M1S1OLEFF,,,,,0,0
+26332,Creature,Jinkies,Jinkies,징키즈,M1Q6F1FANATIC,,,,,0,0
+26333,Creature,Johnny,Johnny,조니,M1Q6F2JOHNNY,,,,,0,0
+27270,Dialog,JADALEGRD,"Lady Jadale is the mistress of the house. If you have business, please speak to her.",자데일 부인께서 이 저택의 여주인이십니다. 용건이 있으시면 그분께 말씀하세요.,2Q4A_JADALEGRD,,,,,0,0
+28278,Dialog,JARRI,"Boy, it sure is too bad about Yvette upstairs.",아 참. 위층의 이베트에게 일어난 일 정말 안됐어요.,2Q4C_JARRI,,,,,0,0
+38890,Dialog,JAROO,"So... *this* is the latest group of entrants, is it? Very well. My name is Jaroo - Master of the Games. Allow me to explain how this will work:",그래서... *이분들이* 최신 참가자들인가요? 좋습니다. 제 이름은 자루 - 게임의 관리자입니다. 어떻게 진행되는지 설명해 드리죠:,M2Q5M07JAROO,,,,vs_nneverxm_050,0,0
+38891,Dialog,JAROO,It shall cost you 500 gold pieces to be teleported into the dungeon. You'll appear in one of five alcoves located in the southern end.,던전으로 순간이동하려면 금화 500개가 듭니다. 남쪽 끝에 있는 다섯 개의 벽감 중 하나에 나타나게 됩니다.,M2Q5M07JAROO,,,,vs_nneverxm_054,0,0
+38892,Dialog,JAROO,"If you wish to return, simply use the platform that you appeared on, or any other platform. But it'll cost you 500 gold pieces to be teleported back.",돌아오고 싶으시면 나타난 발판이나 다른 발판을 사용하시면 됩니다. 하지만 다시 순간이동하려면 금화 500개가 듭니다.,M2Q5M07JAROO,,,,vs_nneverxm_055,0,0
+38893,Dialog,JAROO,"Neither I nor Mutamin are responsible for your deaths or the deaths of your companions. If you enter, it is your risk to take.",저나 무타민은 당신이나 동료들의 죽음에 책임지지 않습니다. 들어가시면 그건 당신이 감수하는 위험입니다.,M2Q5M07JAROO,,,,vs_nneverxm_056,0,0
+38894,Dialog,JAROO,"Now, then, should anyone wish to enter, approach me with your gold and I'll teleport you within.",자. 이제 들어가고 싶은 분은 금화를 들고 제게 오시면 안으로 순간이동시켜 드리겠습니다.,M2Q5M07JAROO,,,,vs_nneverxm_057,0,0
+38895,Dialog,JAROO,"Yes, my <lord/lady>? Are you ready to enter the dungeon?","네, <lord/lady>? 던전에 들어갈 준비가 되셨나요?",M2Q5M07JAROO,,,,vs_nneverxm_051,0,0
+38896,Dialog,JAROO,"As you desire. I shall remain here, should you change your mind.",뜻대로 하십시오. 마음이 바뀌시면 여기 있겠습니다.,M2Q5M07JAROO,,,,,0,0
+38897,Dialog,JAROO,"Excellent. Prepare yourself, my <lord/lady>! And let the contest begin!!","훌륭합니다. 준비하세요, <lord/lady>! 그리고 경기 시작!!",M2Q5M07JAROO,,,,,0,0
+38898,Dialog,JAROO,It is. Each entry is added to the total that will be given to the winner who makes it through the dungeon.,맞습니다. 각 참가비는 던전을 통과한 우승자에게 주어질 총액에 더해집니다.,M2Q5M07JAROO,,,,,0,0
+38899,Dialog,JAROO,"Since you have an equal chance of succeeding, I'm afraid it wouldn't be fair to offer a discount. So are you ready for the competition?",성공할 기회가 동등하니까 할인해 드리기엔 공정하지 않을 것 같네요. 그래서 경기할 준비 되셨나요?,M2Q5M07JAROO,,,,,0,0
+38900,Dialog,JAROO,You've won the competition. Congratulations! Speak to Mutamin to collect your reward!,경기에서 이기셨습니다. 축하합니다! 무타민에게 말씀하셔서 보상을 받으세요!,M2Q5M07JAROO,,,,vs_nneverxm_052,0,0
+38901,Dialog,JAROO,"The competition has been won. Come back another time, when the dungeon has been re-worked for the sequel!",경기는 끝났습니다. 다음 시즌을 위해 던전이 재정비되면 다시 오세요!,M2Q5M07JAROO,,,,vs_nneverxm_053,0,0
+38902,Dialog,JAROO,"I'm sorry, but all contestants must pay the 500 gold. Each entry is added to the total that's given to the one who survives the dungeon.",죄송하지만 모든 참가자는 금화 500개를 내야 합니다. 각 참가비는 던전에서 살아남은 자에게 주어질 총액에 더해집니다.,M2Q5M07JAROO,,,,,0,0
+40728,Creature,Jadale Family Guard,Jadale Family Guard,자데일 가문 경비원,2Q4_JADALEGRD,,,,,0,0
+40751,Creature,Jax,Jax,잭스,JAX,,,,,0,0
+40813,Creature,Jaroo,Jaroo,자루,M1Q0BJAROO|M2Q05CJAROO,,,,,0,0
+40944,Creature,Jaheel,Jaheel,자힐,M2Q6CJAHEEL|M2Q6CJAHEEL2,,,,,0,0
+47048,Creature,Jevon,Jevon,제본,MQ3JUROR2,,,,,0,0
+49040,Creature,Jail Guard,"Just hold on there, <sir/madam>. This here's the prison, and it's for the prisoners, see? You better be speaking to me if you want to be speaking to them.","잠깐만요, <sir/madam>. 여기는 감옥이고 죄수들을 위한 곳이에요. 알겠어요? 그들과 얘기하고 싶으면 저한테 먼저 말하셔야 합니다.",M4Q1A04JAILGUARD,,,,,0,0
+49041,Creature,Jail Guard,"Oh, you must be that <man/woman> Nasher sent down, right? Go on in, <sir/madam>.","아, 나셰르님이 보내신 <man/woman>시군요? 들어가세요, <sir/madam>.",M4Q1A04JAILGUARD,m4q1a04jail_open,,,,0,0
+49098,Creature,Jail Guard,Jail Guard,감옥 경비원,M4Q1A04JAILGUARD,,,,,0,0
+61220,Creature,Jail Guard,"You're the one Nasher sent to check on the prisoner, ain't you? Go on in.",나셰르님이 죄수를 확인하라고 보내신 분이죠? 들어가세요.,M4Q1A04JAILGUARD,m4q1a04jail_open,,,,0,0
+61221,Creature,Jail Guard,"Now don't be gettin' all upset now! I'm just doin' me job! You can't just waltz in here and... oh, wait a minute!",화내지 마세요! 전 그냥 제 일을 하는 거라고요! 그냥 불쑥 들어올 순... 아 잠깐만요!,M4Q1A04JAILGUARD,,,,,0,0
+61222,Creature,Jail Guard,"You're that <man/woman> Nasher sent to check on the prisoner, ain't you? Go on in.",나셰르님이 죄수를 확인하라고 보내신 <man/woman>시죠? 들어가세요.,M4Q1A04JAILGUARD,m4q1a04jail_open,,,,0,0
+57371,Creature,Jerome,Jerome,제롬,M1Q1ADOCKMALE,,,,,0,0
+71264,Dialog,JTRACKS,"The dust on the ground has been disturbed heavily by small tracks... kobolds, without a doubt.",땅의 먼지가 작은 발자국들에 의해 심하게 헝클어져 있습니다... 의심할 여지 없이 코볼트입니다.,Q1JTRACKS,,,,,0,0
+71265,Dialog,JTRACKS,"These appear to be kobold tracks. You cannot determine how many of them, but they seem to have gone into the cellar.",코볼트 발자국으로 보입니다. 몇 마리인지는 알 수 없지만 지하실로 들어간 것 같습니다.,Q1JTRACKS,,,,,0,0
+71266,Dialog,JTRACKS,"These appear to be kobold tracks. Three of them seem to have gone into the cellar, but not come back out.",코볼트 발자국으로 보입니다. 세 마리가 지하실로 들어갔지만 나오지는 않은 것 같습니다.,Q1JTRACKS,,,,,0,0
+73150,Dialog,JUMPER,Rrufff! You should talk to the Master Jumper.,르르프! 점프 대장에게 얘기해야 해요.,Q5_JUMPER,,,,,0,0
+73705,Dialog,JUMPLEVER,"It is likely that this mechanism is here to help lift the boulder, but it seems to be missing the part to make the machine operational.",이 장치는 바위를 들어 올리는 데 쓰이는 것 같지만 기계를 작동시키는 부품이 없는 것 같습니다.,Q5JUMPLEVER,,,,,0,0
+73706,Dialog,JUMPLEVER,"As you place the rod in the slot, you hear a loud rumbling as the machine comes to life.",단장을 홈에 끼우자 기계가 작동하며 우르렁 거리는 소리가 크게 들립니다.,Q5JUMPLEVER,q5_jumplever2,,,as_cv_ropepully2,0,0
+78817,Dialog,JUMPLEVER,The machine has been fixed and has been used to raise the boulder blocking the passage leading to Tymofarrar.,기계가 수리되어 티모파라르로 향하는 통로를 막고 있던 바위를 들어 올리는 데 사용되었습니다.,Q5JUMPLEVER,,,,,0,0
+79307,Creature,Jendra Gallendt,"My beloved Sir William says it was by your hand that he was knighted. For that, I shall always thank you. Without my noble knight, I fear this tale might have ended in greater tragedy.","사랑하는 윌리엄 경께서 당신 덕분에 기사가 되셨다고 하셨어요. 그것에 대해 영원히 감사드릴게요. 제 고귀한 기사 없이는 이 이야기가 더 큰 비극으로 끝났을 거예요.",JENDRA,,,,,0,0
+79502,Creature,Jendra Gallendt,"My beloved Sir William says it was by your hand that he was knighted. For that, I shall always thank you. His rescue was most gallant, especially since I thought it was a kindly beggar youth I loved.","사랑하는 윌리엄 경께서 당신 덕분에 기사가 되셨다고 하셨어요. 그것에 대해 영원히 감사드릴게요. 그의 구출은 정말 용감했어요. 특히 제가 사랑한 게 친절한 거지 청년이라고 생각했으니까요.",JENDRAALIVE,,,,,0,0
+79506,Creature,Jendra Gallendt,William? What is it that <he/she> asks of you?,윌리엄? <he/she>가 뭘 부탁하시는 거예요?,JENDRAALIVE,,,,,0,0
+79586,Creature,Jendra Gallendt,Jendra,젠드라,JENDRA|JENDRAALIVE,,,,,0,0
+79587,Creature,Jendra Gallendt,Gallendt,갈렌트,JENDRA|JENDRAALIVE,,,,,0,0
+79308,Dialog,JENDRACORPSE,"<StartAction>Sadly, it appears that you have arrived too late and that the fears of Jendra's lover, William, were well-founded. This pretty young maiden has been sacrificed in some sort of unholy ritual from which she can never return.</Start>","<StartAction>슬프게도 너무 늦게 도착한 것 같습니다. 젠드라의 연인 윌리엄의 두려움은 근거가 있었습니다. 이 아름다운 젊은 처녀는 결코 돌아올 수 없는 사악한 의식에 제물로 바쳐졌습니다.</Start>",JENDRACORPSE,,,,,0,0
+92180,Dialog,JOINGUARD,"""Be careful... there could be an enemy around every corner!""","""조심하세요... 모퉁이마다 적이 있을 수 있어요!""",PRE_JOINGUARD,,,,,0,0
+92181,Dialog,JOINGUARD,"""Greetings citizen. There are enemies about, so you should probably head back indoors.""","""안녕하세요 시민분. 적들이 주변에 있으니 실내로 돌아가시는 게 좋겠습니다.""",PRE_JOINGUARD,nw_d1_talklevel,,,,0,0
+92182,Dialog,JOINGUARD,"He shrugs. ""You have been warned. Use caution, citizen.""","그가 어깨를 으쓱합니다. ""경고는 했습니다. 조심하세요, 시민분.""",PRE_JOINGUARD,q2a1_nofollow,,,,0,0
+92183,Dialog,JOINGUARD,"""<FullName>? I'm sorry, my <lord/lady>. I didn't recognize you. Uh... carry on then, I guess.""","""<FullName>님? 죄송합니다, <lord/lady>. 못 알아뵀네요. 어... 그럼 계속하세요.""",PRE_JOINGUARD,,,,,0,0
+94840,Creature,Jyslin,Jyslin,지슬린,CUT1DROW_PRIEST,,,,,0,0

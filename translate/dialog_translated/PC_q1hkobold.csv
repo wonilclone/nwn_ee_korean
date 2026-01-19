@@ -1,0 +1,22 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70927,PC,Player Character,"Give me the baby and I promise you a quick, painless death. ","아기를 내놔, 그럼 빠르고 고통 없는 죽음을 약속하지.",q1hkobold,,,,,0,0
+70928,PC,Player Character,"If you kill the child, I will have to kill you. ",아이를 죽이면 널 죽여야 해.,q1hkobold,,,,,0,0
+70929,PC,Player Character,Just give me the baby and I will let you go. ,"아기만 내놔, 그럼 보내줄게.",q1hkobold,,,,,0,0
+70930,PC,Player Character,"The babe looks upset, I will play a song to calm it.","아기가 불안해 보이네, 진정시킬 노래를 불러줄게.",q1hkobold,,xp1_pcisbard,,,0,0
+70931,PC,Player Character,<StartAction>[Fascinate kobold then steal the baby.]</Start>,<StartAction>[코볼트를 매혹시킨 후 아기를 훔친다.]</Start>,q1hkobold,act_q1hkobold_11,,,,0,0
+70932,PC,Player Character,<StartAction>[Cast Charm Spell]</Start> You will give the baby to me.,<StartAction>[매혹 주문을 시전한다.]</Start> 넌 아기를 나한테 줄 거야.,q1hkobold,act_q1hkobold_12,xp1_checkcharm,,,0,0
+70933,PC,Player Character,You will leave peacefully.,넌 평화롭게 떠날 거야.,q1hkobold,,,,,0,0
+70934,PC,Player Character,"<StartAction>[Persuade]</Start> Give me the baby or die, now!","<StartAction>[설득한다.]</Start> 아기 내놔, 안 그러면 죽어!",q1hkobold,,,,,0,0
+70935,PC,Player Character,I would rather just kill you and take the baby. ,그냥 널 죽이고 아기를 빼앗는 게 낫겠어.,q1hkobold,,,,,0,0
+70936,PC,Player Character,Ok... here you...<StartAction>[Snatch the baby from the kobold]</Start>,알았어... 여기...<StartAction>[코볼트에게서 아기를 낚아챈다.]</Start>,q1hkobold,act_q1hkobold_4,con_q1hkobold_1,,,0,0
+70937,PC,Player Character,I will kill you first. ,먼저 널 죽일 거야.,q1hkobold,,,,,0,0
+70938,PC,Player Character,Just give me the baby! ,그냥 아기 내놔!,q1hkobold,,,,,0,0
+70939,PC,Player Character,"Oops, sorry bout that, I slipped..","이런, 미안, 실수했어..",q1hkobold,,,,,0,0
+70940,PC,Player Character,I'll go get one.,가서 하나 가져올게.,q1hkobold,q1h_endcon_kob,,,,0,0
+70941,PC,Player Character,Here's a nice shiny gem. Now give me that child!,여기 멋진 보석이야. 이제 아이 내놔!,q1hkobold,act_q1h1kobold_1,x1_chk_gems,,,0,0
+70942,PC,Player Character,"Kill it now, while we have it cornered!","지금 죽여, 구석에 몰았을 때!",q1hkobold,,,,,0,0
+70943,PC,Player Character,I have a better idea. <StartAction>[Snatch the baby from the kobold.]</Start> ,더 좋은 생각이 있어. <StartAction>[코볼트에게서 아기를 낚아챈다.]</Start>,q1hkobold,,,,,0,0
+70944,PC,Player Character,"<StartCheck>[Persuade - Lie]</Start> No, I don't have any gems.","<StartCheck>[설득 - 거짓말]</Start> 아니, 보석 없어.",q1hkobold,,,,,0,0
+70945,PC,Player Character,"Fine. Take the gem, but give us the child.","좋아. 보석 가져가, 하지만 아이는 내놔.",q1hkobold,,,,,0,0
+70946,PC,Player Character,"Yes, I have one, but I don't trust the kobold.","응, 있어, 하지만 코볼트를 믿을 수 없어.",q1hkobold,,,,,0,0
+70947,PC,Player Character,"Yes, I have one. Here, take it and give the child back. ","응, 있어. 여기, 가져가고 아이 돌려줘.",q1hkobold,,,,,0,0

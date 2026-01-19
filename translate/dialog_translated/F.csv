@@ -1,0 +1,38 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17960,Dialog,F,"You got a Third Round Medal! I bet you might even be able to take Claudus! Maybe... <StartAction>(hushed)</Start> if he didn't have an ""in"" with the healer... ","3라운드 메달이네! 클로더스도 이길 수 있을지도! 아마... <StartAction>(작게)</Start> 그놈이 치료사랑 짜고 치는 게 아니라면...",M1Q1A07S1F1,,,,,0,0
+17961,Dialog,F,"You know, you are pretty tough if you got past Fashi for that Second Round Medal. Maybe you'll actually take Agar. Maybe.","파시를 이기고 2라운드 메달을 땄으면 꽤 센 거야. 아가르도 이길 수 있을지도. 아마.",M1Q1A07S1F1,,,,,0,0
+17962,Dialog,F,"Okay, so maybe you could get past me, but there's no way you'll beat Fashi. Can't be done. No sir.","좋아, 나는 이길 수 있을지 몰라, 근데 파시는 절대 못 이겨. 불가능해. 절대.",M1Q1A07S1F1,,,,,0,0
+17963,Dialog,F,"Bah! I got no time for newcomers. You want respect, you step up to the Pit.","체! 신참한테 쓸 시간 없어. 존경받고 싶으면 피트에 올라.",M1Q1A07S1F1,,,,,0,0
+17964,Dialog,F,I never thought I'd see it happen. I'm gonna miss this place.,"이런 날이 올 줄은 몰랐네. 이곳이 그리워지겠어.",M1Q1A07S1F2,,,,,0,0
+17965,Dialog,F,Impressive medal. Claudus might even have to submit to you. That would be good. <StartAction>(hushed)</Start> I suspect he fights with an unfair advantage.,"인상적인 메달이군. 클로더스도 당신에게 무릎 꿇어야 할지도. 좋은 일이야. <StartAction>(작게)</Start> 그가 불공정한 이점으로 싸운다고 생각해.",M1Q1A07S1F2,,,,,0,0
+17966,Dialog,F,"The medal in your possession proves you can best me, but I would prepare for a wholly different battle with Agar.","그 메달은 나를 이길 수 있다는 증거지만, 아가르와는 완전히 다른 싸움을 준비해야 할 거야.",M1Q1A07S1F2,,,,,0,0
+17967,Dialog,F,You have surpassed the level that Hrusk was fighting at. Very good. We shall have to see if you can best me.,"흐루스크가 싸우던 수준을 넘어섰군. 아주 좋아. 나를 이길 수 있는지 봐야겠어.",M1Q1A07S1F2,,,,,0,0
+17968,Dialog,F,Welcome to the Gauntlet. I look forward to seeing you present yourself in the Pit.,"시련장에 온 걸 환영해. 피트에서 실력을 보여주길 기대하지.",M1Q1A07S1F2,,,,,0,0
+17969,Dialog,F,"Me knew it could be done, but me not smart enough to do it. BAH! Me go back to real battles!","나 할 수 있는 거 알았어, 근데 나 그럴 만큼 똑똑하지 않아. 바! 나 진짜 싸움으로 돌아가!",M1Q1A07S1F3,,,,,0,0
+17970,Dialog,F,"You past Third Round me! You fight good! Bet you try Claudus now! Careful, he not fight fair. Don't know how, but he not fair.","너 3라운드 통과했어 나! 너 잘 싸워! 이제 클로더스 도전할 거지! 조심해, 걔 공정하게 안 싸워. 어떻게인지 몰라, 근데 공정 안 해.",M1Q1A07S1F3,,,,,0,0
+17971,Dialog,F,"Hah! So you passed that Fashi smallkin? Bah! Me step on him too, one time. You prove you tough to ME next!","하! 그 파시 꼬맹이 이겼어? 바! 나도 한번 밟은 적 있어. 다음엔 나한테 세다는 거 증명해!",M1Q1A07S1F3,,,,,0,0
+17972,Dialog,F,"Heh, Hrusk too weak. You prove nothing beating him. Maybe Fashi test you, but he small too! Ha! Like watching children!","헤, 흐루스크 너무 약해. 걔 이겨봤자 증명 안 돼. 파시가 시험해 줄지도, 근데 걔도 작아! 하! 애들 싸움 같아!",M1Q1A07S1F3,,,,,0,0
+17973,Dialog,F,More meat for Pit? Good! Me tired of what here!,"피트에 고기 더? 좋아! 나 여기 있는 거 지겨워!",M1Q1A07S1F3,,,,,0,0
+17994,Dialog,F,"It's you! It's <FullName>! I love you! I mean, I love your fighting! You took Fashi! Hell, you took Agar! ","당신이야! <FullName>이야! 사랑해! 아, 당신 싸움을 사랑한다고! 파시를 이겼어! 아가르도!",M1Q1A07S1G1F,,,,,0,0
+17995,Dialog,F,Hey there! You are doing pretty good! You got a good medal on you!,"안녕! 잘하고 있네! 좋은 메달 갖고 있어!",M1Q1A07S1G1F,,,,,0,0
+17996,Dialog,F,What? Why would I talk to you? You've got no medals. Feh!,"뭐? 왜 너랑 얘기해? 메달도 없잖아. 체!",M1Q1A07S1G1F,,,,,0,0
+17997,Dialog,F,Sure. See you. Good luck! You're great!,"그래. 또 봐. 행운을 빌어! 대단해!",M1Q1A07S1G1F,,,,,0,0
+17998,Dialog,F,"That's right, goodbye. As if I've got time for no-medals like you. Beat it.","그래, 잘 가. 너처럼 메달도 없는 놈한테 쓸 시간이 있겠어. 꺼져.",M1Q1A07S1G1F,,,,,0,0
+17999,Dialog,F,A newcomer wants to know about the fighters? HA! Like it matters! You'd have to beat the mighty Hrusk and his pet before you're even ranked!,"신참이 전사들에 대해 알고 싶어? 하! 중요하기나 해! 랭크에 들려면 먼저 위대한 흐루스크와 그의 펫을 이겨야 해!",M1Q1A07S1G1F,,,,,0,0
+18000,Dialog,F,"Hrusk has that flaming axe, you know? Burn the hair right off you, it would. Even the short stuff!","흐루스크는 불타는 도끼를 갖고 있어, 알아? 털을 싹 태워버릴 거야. 짧은 것까지도!",M1Q1A07S1G1F,,,,,0,0
+18001,Dialog,F,Go away. I'm done talking to your worthless butt.,"저리 가. 너 같은 쓸모없는 놈하고는 대화 끝이야.",M1Q1A07S1G1F,,,,,0,0
+18002,Dialog,F,"I can't believe I'm talking to you. I mean, sure, maybe you used to be a no-medals, but look at you now! WOW!","너랑 얘기하다니 믿을 수 없어. 그러니까, 물론 예전엔 메달 없었겠지만, 지금 좀 봐! 와!",M1Q1A07S1G1F,,,,,0,0
+18003,Dialog,F,Thanks! <He/She> said thanks! To me! Everyone see that?! Damn right!,"고맙다고! <He/She>가 고맙다고 했어! 나한테! 다들 봤어?! 당연하지!",M1Q1A07S1G1F,,,,,0,0
+18004,Dialog,F,I can't believe it! <CUSTOM710> is just the best! The BEST! That was great!,"믿을 수 없어! <CUSTOM710>은 최고야! 최고! 대단했어!",M1Q1A07S1G1F,,,,,0,0
+18005,Dialog,F,"Hmph... wins a few medals and gets all tight... but WOW, that <FullName> can fight! Did you see <him/her> brush me off? ME!","흥... 메달 몇 개 따고 잘난 척하네... 근데 와, 그 <FullName> 진짜 잘 싸워! <him/her>가 날 무시하는 거 봤어? 나를!",M1Q1A07S1G1F,,,,,0,0
+18006,Dialog,F,"Claudus? He's just great! It's like... I don't know! It's like he's almost invulnerable! Some people complain that he's so good, but they just can't compete.","클로더스? 그냥 대단해! 뭐랄까... 모르겠어! 거의 무적인 것 같아! 어떤 사람들은 그가 너무 잘한다고 불평하지만, 그냥 경쟁이 안 되는 거야.",M1Q1A07S1G1F,,,,,0,0
+18007,Dialog,F,"I mean, everything is fair, right? And he doesn't use any magic weapons or anything. Just anmial companions like everyone else. He just seems like a super fighter!","모든 게 공정하잖아, 그치? 마법 무기 같은 거 안 써. 다른 사람들처럼 그냥 동물 동료만. 그냥 최강의 싸움꾼처럼 보여!",M1Q1A07S1G1F,,,,,0,0
+18008,Dialog,F,"Agar is the Third Round Medal fight. He's real tough. He's got a pet, like everyone else, and he's got something nasty too.","아가르는 3라운드 메달 상대야. 정말 세. 다른 사람들처럼 펫도 있고, 치사한 것도 갖고 있어.",M1Q1A07S1G1F,,,,,0,0
+18009,Dialog,F,"Fashi is the Second Round Medal fight. He looks small but boy, he can sure take it. It's amazing, it is.","파시는 2라운드 메달 상대야. 작아 보이지만 야, 진짜 잘 버텨. 놀랍다니까.",M1Q1A07S1G1F,,,,,0,0
+18010,Dialog,F,"Oh, sure. I mean, each guy has a specialty and a pet, but that's all known before a fight begins, if you ask around.","아, 물론. 그러니까, 각자 특기와 펫이 있는데, 물어보면 싸움 전에 다 알 수 있어.",M1Q1A07S1G1F,,,,,0,0
+18011,Dialog,F,"Except for Claudus. He's got no special thing, and his pets are normal like everyone elses, but he seems super-tough anyway. He's just that good.","클로더스 빼고. 특별한 게 없고 펫도 다른 사람들처럼 평범한데, 어쨌든 엄청 세 보여. 그냥 그렇게 잘해.",M1Q1A07S1G1F,,,,,0,0
+18012,Dialog,F,"His weapon poisons. People complained at first, but they got used to it. He's just tough anyway, so he's proved his worth.","그의 무기는 독을 써. 처음엔 불평했지만 익숙해졌어. 어쨌든 세니까 실력을 증명한 거야.",M1Q1A07S1G1F,,,,,0,0
+18013,Dialog,F,You just can't cut him or poke him. He's so focussed. He bruises though. I noticed that. He's not invulnerable.,"그를 베거나 찌를 수가 없어. 너무 집중해. 멍은 들더라. 그건 봤어. 무적은 아니야.",M1Q1A07S1G1F,,,,,0,0
+18014,Dialog,F,"Don't worry about that. You won't get to him. The others are plenty tough, but Claudus is just plain scary.","그건 걱정 마. 거기까지 못 갈 테니. 다른 놈들도 충분히 센데, 클로더스는 그냥 무섭거든.",M1Q1A07S1G1F,,,,,0,0
+19401,Dialog,F,"Don't bother bein' pleasant. Just gimme the secret handshake and you're in, all right?","친절하게 굴 필요 없어. 비밀 악수만 하면 들어갈 수 있어, 알겠지?",M1Q2A_M1Q2F,,,,,0,0
+19402,Dialog,F,"Guess you're one of them Bloodsailors, all right. Go on in and find Seldana. She'll give you the dirt on the Gaoler's plans.","핏빛 항해자 맞구만. 들어가서 셀다나를 찾아. 그녀가 간수장 계획의 내막을 알려줄 거야.",M1Q2A_M1Q2F,m1q2_vasco2,,,,0,0

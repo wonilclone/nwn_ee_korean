@@ -1,0 +1,39 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+29971,PC,Player Character,Who are you?,누구세요?,m2q1a00mung,,[지능 보통],,,0,0
+29972,PC,Player Character,What's the discussion about here?,여기서 무슨 논쟁을 하는 거죠?,m2q1a00mung,,[지능 보통],,,0,0
+29973,PC,Player Character,Who you be?,너 누구야?,m2q1a00mung,,[지능 낮음],,,0,0
+29974,PC,Player Character,Why you not make nice-talk with other guy?,너 왜 저 사람이랑 좋게 얘기 안 해?,m2q1a00mung,,[지능 낮음],,,0,0
+29975,PC,Player Character,Goodbye.,안녕.,m2q1a00mung,,,,,0,0
+29976,PC,Player Character,Let me go talk to the dock master.,부두 관리인한테 가서 얘기해 볼게요.,m2q1a00mung,,[지능 보통],,,0,0
+29977,PC,Player Character,"That's it. You're going to Neverwinter, or I'm doing some damage.","그래, 됐어. 네버윈터로 갈 거야, 아니면 내가 좀 다치게 할 거야.",m2q1a00mung,,[지능 보통],,,0,0
+29978,PC,Player Character [M2Q1C],"I spoke with the dock-master, and I want you to change your mind.","부두 관리인과 얘기했는데, 마음을 바꿨으면 해요.",m2q1a00mung,,m2q1csmung001,[M2Q1C],,0,0
+29979,PC,Player Character,Me goes and talks with dock-master.,나 가서 부두 관리인이랑 얘기할래.,m2q1a00mung,,[지능 낮음],,,0,0
+29980,PC,Player Character,"Me hurts you bad, if you no go Neverwinter!","나 너 심하게 다치게 해, 네버윈터 안 가면!",m2q1a00mung,,[지능 낮음],,,0,0
+29981,PC,Player Character [M2Q1C],Me spoke with dock-master. Me wants change you mind.,나 부두 관리인이랑 얘기했어. 나 너 마음 바꾸게 하고 싶어.,m2q1a00mung,,m2q1csmung002,[M2Q1C],,0,0
+29982,PC,Player Character,Nevermind. I'll talk to him again.,신경 쓰지 마세요. 그 사람한테 다시 말해 볼게요.,m2q1a00mung,,[지능 보통],,,0,0
+29983,PC,Player Character,<StartCheck>[Insight]</Start> What if I pay you to cover your costs?,<StartCheck>[통찰]</Start> 비용을 충당할 수 있게 내가 돈을 지불하면 어때요?,m2q1a00mung,,[지능 보통],,,0,0
+29984,PC,Player Character,Tell me the truth. I want details.,진실을 말해 봐. 자세히 알고 싶어.,m2q1a00mung,,[지능 보통],,,0,0
+29985,PC,Player Character,"Me wants hearing whole story. True stuff, yeah?","나 전부 듣고 싶어. 진실 얘기해, 응?",m2q1a00mung,,[지능 낮음],,,0,0
+29986,PC,Player Character,I don't really care. Goodbye.,별로 관심 없어요. 안녕히 계세요.,m2q1a00mung,,[지능 보통],,,0,0
+29987,PC,Player Character,(yawn) Was you speakings? Me leaving. Bye.,(하품) 너 말하고 있었어? 나 가. 안녕.,m2q1a00mung,,[지능 낮음],,,0,0
+29988,PC,Player Character,But I know it is. I'm *from* Neverwinter.,하지만 나는 알아요. 나 네버윈터 출신이에요.,m2q1a00mung,,[지능 보통],,,0,0
+29989,PC,Player Character,Me talks to dock-master again.,나 부두 관리인이랑 다시 얘기해.,m2q1a00mung,,[지능 낮음],,,0,0
+29990,PC,Player Character,<StartCheck>[Persuade]</Start> Me wonders if you think of starving peoples. Starves so you get rich.,<StartCheck>[설득]</Start> 너 부자 되려고 사람들 굶주리게 만드는 거 생각해 봤어?,m2q1a00mung,,[지능 낮음],,,0,0
+29991,PC,Player Character,Me from Neverwinter. It's okay. Me fixed plague.,나 네버윈터에서 왔어. 괜찮아. 나 역병 고쳤어.,m2q1a00mung,,[지능 낮음],,,0,0
+29992,PC,Player Character,"Actually, let me go talk to the dock-master.","사실, 부두 관리인한테 가서 얘기해 볼게요.",m2q1a00mung,,[지능 보통],,,0,0
+29993,PC,Player Character,"Me talks with dock-master, again.",나 부두 관리인이랑 다시 얘기할래.,m2q1a00mung,,[지능 낮음],,,0,0
+29994,PC,Player Character [M2Q1M],300 gold. Take it or leave it.,금화 300개. 받든지 말든지.,m2q1a00mung,m2q1mung300gp,[지능 보통],[M2Q1M],,0,0
+29995,PC,Player Character [M2Q1M],"Me offers 300 gold. You take, yeah?","나 금화 300개 제안해. 너 받을 거지, 응?",m2q1a00mung,m2q1mung300gp,[지능 낮음],[M2Q1M],,0,0
+29996,PC,Player Character [M2Q1M],"<StartCheck>[Persuade]</Start> 50 gold should cover the costs, yes?",<StartCheck>[설득]</Start> 금화 50개면 비용을 충당할 수 있죠?,m2q1a00mung,m2q1mung50gp,m2pchas50gpn,[M2Q1M],,0,0
+29997,PC,Player Character [M2Q1M],"<StartCheck>[Persuade]</Start> 100 gold will make you go Neverwinter, yeah?","<StartCheck>[설득]</Start> 금화 100개면 네버윈터로 가게 만들 수 있지, 응?",m2q1a00mung,m2q1mung100gp,[지능 낮음],[M2Q1M],,0,0
+29998,PC,Player Character [M2Q1M],<StartCheck>[Persuade]</Start> 100 gold... will that get you to Neverwinter?,<StartCheck>[설득]</Start> 금화 100개... 그럼 네버윈터로 갈 거야?,m2q1a00mung,m2q1mung100gp,[지능 보통],[M2Q1M],,0,0
+29999,PC,Player Character [M2Q1M],<StartCheck>[Persuade]</Start> Me gives you 50 gold to take to Neverwinter.,"<StartCheck>[설득]</Start> 나 금화 50개 줄게, 네버윈터로 가.",m2q1a00mung,m2q1mung50gp,m2pchas50gpl,[M2Q1M],,0,0
+30000,PC,Player Character,Thank you.,고마워요.,m2q1a00mung,,[지능 보통],,,0,0
+30001,PC,Player Character,Me says thank you.,나 고맙다고 말해.,m2q1a00mung,,[지능 낮음],,,0,0
+30002,PC,Player Character,<StartCheck>[Persuade]</Start> Come on... I helped you out more than that.,<StartCheck>[설득]</Start> 이봐요... 나 그것보다 더 도와줬잖아요.,m2q1a00mung,,[지능 보통],,,0,0
+30003,PC,Player Character,"<StartCheck>[Persuade]</Start> Me says you can do better. More money, yuh?","<StartCheck>[설득]</Start> 나 너 더 잘해줄 수 있다고 생각해. 돈 더, 응?",m2q1a00mung,,[지능 낮음],,,0,0
+30004,PC,Player Character,I didn't help you for chump-change. Do you want to get hurt?,이런 푼돈 받으려고 도와준 게 아니에요. 다치고 싶어요?,m2q1a00mung,,[지능 보통],,,0,0
+30005,PC,Player Character,You make me mad. I needs more gold!,너 나 화나게 만들어. 나 금화 더 필요해!,m2q1a00mung,,[지능 낮음],,,0,0
+30006,PC,Player Character,Goodbye.,안녕.,m2q1a00mung,,,,,0,0
+30007,PC,Player Character,<StartCheck>[Persuade]</Start> And when all of those Neverwintans starve so you can get some extra gold... ,<StartCheck>[설득]</Start> 네가 금화 좀 더 벌려고 네버윈터 사람들을 모두 굶주리게 만들 때...,m2q1a00mung,,[지능 보통],,,0,0
+30008,PC,Player Character,Me guesses me can't makes you budge?,나 너 설득 못 하는 것 같지?,m2q1a00mung,,[지능 낮음],,,0,0

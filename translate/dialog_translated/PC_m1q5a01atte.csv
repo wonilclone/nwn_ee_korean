@@ -1,0 +1,30 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+22545,PC,Player Character,Is Lord Nasher well?,나셰르 영주님은 괜찮으신가?,m1q5a01atte,,[지능 보통],,,0,0
+22546,PC,Player Character,What needs to be done?,무엇을 하면 되지?,m1q5a01atte,,[지능 보통],,,0,0
+22547,PC,Player Character,Farewell for now.,그럼 당분간 안녕.,m1q5a01atte,,[지능 보통],,,0,0
+22548,PC,Player Character,Spare me your lies. He is either deathly ill or dead.,헛소리는 집어치워. 그는 위독하든가 이미 죽었겠지.,m1q5a01atte,,[지능 보통],,,0,0
+22549,PC,Player Character,I suppose I am still restricted from entering the castle?,아직도 성에는 못 들어가는 건가?,m1q5a01atte,,[지능 보통],,,0,0
+22550,PC,Player Character,Tell Lord Nasher that I wish him a speedy recovery.,나셰르 영주님께 쾌유를 빈다고 전해 줘.,m1q5a01atte,,[지능 보통],,,0,0
+22551,PC,Player Character [M1Q5A01],I have another Waterdhavian creature. Do you want it?,워터딥의 생명체가 하나 더 있어. 원해?,m1q5a01atte,,m1q5a01atteclg9,[M1Q5A01],,0,0
+22552,PC,Player Character,Nasher has shown no interest in me. He remains hidden.,나셰르 영주님은 내게 아무 관심도 보이지 않았어. 여전히 모습을 숨기고 계시지.,m1q5a01atte,,[지능 보통],,,0,0
+22553,PC,Player Character,"Farewell, then.",그럼 안녕.,m1q5a01atte,,[지능 보통],,,0,0
+22554,PC,Player Character,Perhaps I could speak with Lord Nasher?,나셰르 영주님을 뵐 수 있을까?,m1q5a01atte,,[지능 보통],,,0,0
+22555,PC,Player Character,<StartCheck>[Insight]</Start> Is Lord Nasher not well?,<StartCheck>[통찰]</Start> 나셰르 영주님이 편찮으신가?,m1q5a01atte,,nw_d2_wis_intn,,,0,0
+22556,PC,Player Character [M1Q5A01],I found a Waterdhavian creature. Where should I take this?,워터딥의 생명체를 찾았어. 이걸 어디로 가져가야 해?,m1q5a01atte,,m1q5a01atteclg9,[M1Q5A01],,0,0
+22557,PC,Player Character,Can you tell me anything about the plague?,역병에 대해 들을 수 있을까?,m1q5a01atte,,[지능 보통],,,0,0
+22558,PC,Player Character,Does he fear the plague so much?,그가 그 역병을 그렇게 두려워하나?,m1q5a01atte,,[지능 보통],,,0,0
+22559,PC,Player Character,I have just joined his service under Aribeth.,방금 아리베스 휘하에서 그의 명을 받들게 되었어.,m1q5a01atte,,[지능 보통],,,0,0
+22560,PC,Player Character,Me serve! Lemme in!,나 일해! 들여보내!,m1q5a01atte,,[지능 낮음],,,0,0
+22561,PC,Player Character,Scaredy-cat. Worry 'bout plague like baby.,겁쟁이. 아기처럼 역병 무서워해.,m1q5a01atte,,[지능 낮음],,,0,0
+22562,PC,Player Character,Me need ask about sick. ,나 역병 물어봐야 해.,m1q5a01atte,,[지능 낮음],,,0,0
+22563,PC,Player Character [M1Q5A01],Me find thingy! Water-whosian animal! Where does me take it?,나 거 찾았어! 워터-뭐시기 동물! 어디로 가져가?,m1q5a01atte,,m1q5a01atteclga,[M1Q5A01],,0,0
+22564,PC,Player Character [M1Q5A01],Me gots another Water-whosian animal! You want?,나 워터-뭐시기 동물 또 가져왔어! 너 원해?,m1q5a01atte,,m1q5a01atteclga,[M1Q5A01],,0,0
+22565,PC,Player Character,Me speak with Big Nasher?,나 큰 나셰르랑 말해?,m1q5a01atte,,[지능 낮음],,,0,0
+22566,PC,Player Character,Bah! Nasher no-show!,쳇! 나셰르 안 나와!,m1q5a01atte,,[지능 낮음],,,0,0
+22567,PC,Player Character,I go bye bye thens.,나 이제 간다.,m1q5a01atte,,[지능 낮음],,,0,0
+22568,PC,Player Character,Give him wishes to gets better.,그 사람 빨리 나으라고 전해.,m1q5a01atte,,[지능 낮음],,,0,0
+22569,PC,Player Character,Now let me enter big castle?,이제 큰 성 들어가도 돼?,m1q5a01atte,,[지능 낮음],,,0,0
+22570,PC,Player Character,He probably dead. You big liar.,아마 죽었어. 너 큰 거짓말쟁이야.,m1q5a01atte,,[지능 낮음],,,0,0
+22571,PC,Player Character,What left to do?,뭐가 남았지?,m1q5a01atte,,[지능 낮음],,,0,0
+22572,PC,Player Character,Nasher still sick or better?,나셰르 아직 아파? 나았어?,m1q5a01atte,,[지능 낮음],,,0,0
+22573,PC,Player Character,I goodbye now.,나 이만.,m1q5a01atte,,[지능 낮음],,,0,0

@@ -1,0 +1,54 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+28892,PC,Player Character,Are you a prisoner here?,여기 수감된 건가?,2q4d_prisoner,,[지능 보통],,,0,0
+28893,PC,Player Character,Stand back! I'll have no tricks out of you!,물러서! 잔꾀는 부리지 마!,2q4d_prisoner,,[지능 보통],,,0,0
+28894,PC,Player Character,Calm down. I'm certainly not with Kurth.,진정해. 난 커스 편이 아니야.,2q4d_prisoner,,[지능 보통],,,0,0
+28895,PC,Player Character,You kept in prison?,감옥에 있는 거야?,2q4d_prisoner,,[지능 낮음],,,0,0
+28896,PC,Player Character,Stand back! No tricks!!,물러서! 꼼수 안 돼!!,2q4d_prisoner,,[지능 낮음],,,0,0
+28897,PC,Player Character,Me not with Kurth. You calm down now.,나 커스 편 아니야. 진정해.,2q4d_prisoner,,[지능 낮음],,,0,0
+28898,PC,Player Character,Of course I'm not here to punish you.,물론 널 벌주러 온 게 아니야.,2q4d_prisoner,,[지능 보통],,,0,0
+28899,PC,Player Character,"Me not here to punish, no.","벌 주러 온 거 아니야, 아니야.",2q4d_prisoner,,[지능 낮음],,,0,0
+28900,PC,Player Character,"How do I know you're actually a prisoner, that this isn't some ruse?","네가 진짜 수감자인지, 이게 함정이 아닌지 어떻게 알아?",2q4d_prisoner,,[지능 보통],,,0,0
+28901,PC,Player Character,"I'd appreciate some information, first.",먼저 정보를 좀 알려줘.,2q4d_prisoner,,[지능 보통],,,0,0
+28902,PC,Player Character,What reward would I get for letting you go?,널 놔주면 뭘 받을 수 있는데?,2q4d_prisoner,,[지능 보통],,,0,0
+28903,PC,Player Character,Would you be able to find your way out on your own?,혼자서 나갈 수 있겠어?,2q4d_prisoner,,[지능 보통],,,0,0
+28904,PC,Player Character,I'm not here to rescue you. Get out of my way.,널 구하러 온 게 아니야. 비켜.,2q4d_prisoner,,[지능 보통],,,0,0
+28905,PC,Player Character,How I knows you not lying?,거짓말 아닌 거 어떻게 알아?,2q4d_prisoner,,[지능 낮음],,,0,0
+28906,PC,Player Character,"Me have questions, first.",먼저 물어볼 거 있어.,2q4d_prisoner,,[지능 낮음],,,0,0
+28907,PC,Player Character,Is there reward for letting you go?,놔주면 보상 있어?,2q4d_prisoner,,[지능 낮음],,,0,0
+28908,PC,Player Character,You find way out on own?,혼자 나갈 수 있어?,2q4d_prisoner,,[지능 낮음],,,0,0
+28909,PC,Player Character,Me no rescuer. Get lost.,나 구조대 아니야. 꺼져.,2q4d_prisoner,,[지능 낮음],,,0,0
+28910,PC,Player Character,I never said that. Killing is fun! Ha ha ha!!,그런 말 안 했는데. 죽이는 건 재밌거든! 하하하!!,2q4d_prisoner,nw_d1_small_evil,[지능 보통],,,0,0
+28911,PC,Player Character,"Why would I hurt you? Go, I said.",왜 널 해치겠어? 가라니까.,2q4d_prisoner,,[지능 보통],,,0,0
+28912,PC,Player Character,I don't know. Is there anything in it for me for helping you?,글쎄. 널 도와주면 내게 뭐가 있는데?,2q4d_prisoner,,[지능 보통],,,0,0
+28913,PC,Player Character,Never say that! Hurting fun! HA ha Ha!!,그런 말 안 해! 아프게 하는 거 재밌어! 하하하!!,2q4d_prisoner,nw_d1_small_evil,[지능 낮음],,,0,0
+28914,PC,Player Character,"Why me hurt you? Go, I say.",왜 널 아프게 해? 가라고.,2q4d_prisoner,,[지능 낮음],,,0,0
+28915,PC,Player Character,Don't know. What in it for me?,몰라. 나한테 뭐 있어?,2q4d_prisoner,,[지능 낮음],,,0,0
+28916,PC,Player Character,I don't trust you. Time to die!,널 못 믿겠어. 죽을 시간이야!,2q4d_prisoner,,[지능 보통],,,0,0
+28917,PC,Player Character,No believe! Die! Die!!,못 믿어! 죽어! 죽어!!,2q4d_prisoner,,[지능 낮음],,,0,0
+28918,PC,Player Character,"Yes, I could use some information.","그래, 정보가 필요해.",2q4d_prisoner,,[지능 보통],,,0,0
+28919,PC,Player Character,You're of no use to me. Get lost.,넌 쓸모없어. 꺼져.,2q4d_prisoner,,[지능 보통],,,0,0
+28920,PC,Player Character,"Yes, tell me. That good.","응, 말해. 그거 좋아.",2q4d_prisoner,,[지능 낮음],,,0,0
+28921,PC,Player Character,"You no use to me, then. Go.","그럼 넌 쓸모없어. 가.",2q4d_prisoner,,[지능 낮음],,,0,0
+28922,PC,Player Character,Then flee to safety. The way behind me is clear.,그럼 안전한 곳으로 도망쳐. 내 뒤로 가는 길은 깨끗해.,2q4d_prisoner,,[지능 보통],,,0,0
+28923,PC,Player Character,Perhaps you should accompany me. It would be safer that way.,나랑 같이 가는 게 좋겠어. 그게 더 안전할 거야.,2q4d_prisoner,nw_d1_small_good,[지능 보통],,,0,0
+28924,PC,Player Character,Then run. Way behind is clear.,그럼 뛰어. 뒤에 길 깨끗해.,2q4d_prisoner,,[지능 낮음],,,0,0
+28925,PC,Player Character,"No, you come with me. Safer.","아니, 나랑 같이 가. 더 안전해.",2q4d_prisoner,nw_d1_small_good,[지능 낮음],,,0,0
+28926,PC,Player Character,Just how did you end up prisoner here?,어쩌다 여기 갇히게 된 거야?,2q4d_prisoner,,[지능 보통],,,0,0
+28927,PC,Player Character,What do you know about this place?,이곳에 대해 뭘 알아?,2q4d_prisoner,,[지능 보통],,,0,0
+28928,PC,Player Character,Tell me what you know about Kurth.,커스에 대해 아는 거 말해봐.,2q4d_prisoner,,[지능 보통],,,0,0
+28929,PC,Player Character,All right. I'm done with you now.,알았어. 이제 됐어.,2q4d_prisoner,,[지능 보통],,,0,0
+28930,PC,Player Character,How you end up in prison?,어떻게 감옥에 갇힌 거야?,2q4d_prisoner,,[지능 낮음],,,0,0
+28931,PC,Player Character,What you know of this place?,여기 뭐 알아?,2q4d_prisoner,,[지능 낮음],,,0,0
+28932,PC,Player Character,What you know of Kurth?,커스 뭐 알아?,2q4d_prisoner,,[지능 낮음],,,0,0
+28933,PC,Player Character,Me done with you.,나 이제 됐어.,2q4d_prisoner,,[지능 낮음],,,0,0
+28934,PC,Player Character,But why wouldn't he just kill you?,근데 왜 그냥 안 죽였어?,2q4d_prisoner,,[지능 보통],,,0,0
+28935,PC,Player Character,<StartCheck>[Insight]</Start> Do you have any clue as to what might have caused his madness?,<StartCheck>[통찰]</Start> 그가 미친 원인에 대해 짐작 가는 게 있어?,2q4d_prisoner,,nw_d2_wis_intn,,,0,0
+28936,PC,Player Character,Do you know where Kurth is?,커스가 어디 있는지 알아?,2q4d_prisoner,,[지능 보통],,,0,0
+28938,PC,Player Character,What sorts of allies does Kurth have?,커스한테 어떤 부하들이 있어?,2q4d_prisoner,,[지능 보통],,,0,0
+28939,PC,Player Character,Are there any other prisoners?,다른 수감자들도 있어?,2q4d_prisoner,,[지능 보통],,,0,0
+28940,PC,Player Character,Why they keep you alive?,왜 널 살려뒀어?,2q4d_prisoner,,[지능 낮음],,,0,0
+28941,PC,Player Character,Me look for Kurth.,나 커스 찾아.,2q4d_prisoner,,[지능 낮음],,,0,0
+28942,PC,Player Character,What kind of friends Kurth have?,커스 친구 어떤 거 있어?,2q4d_prisoner,,[지능 낮음],,,0,0
+28943,PC,Player Character,You see other prisoners?,다른 수감자 봤어?,2q4d_prisoner,,[지능 낮음],,,0,0
+65422,PC,Player Character,What you knows about portal?,차원문 뭐 알아?,2q4d_prisoner,,[지능 낮음],,,0,0
+65423,PC,Player Character,Tell me what you know about this portal.,이 차원문에 대해 아는 거 말해봐.,2q4d_prisoner,,[지능 보통],,,0,0

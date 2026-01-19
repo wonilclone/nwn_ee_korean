@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+106929,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q6_queen,,,,,0,0
+106930,PC,Player Character,"""I'm just here to kill you!""","""그냥 널 죽이러 왔어!""",q6_queen,,,,,0,0
+106931,PC,Player Character,"""We'll see about that!"" <StartAction>Attack her.</Start>","""""두고 보자!"""" <StartAction>그녀를 공격한다.</Start>",q6_queen,,,,,0,0
+106932,PC,Player Character,"""Invulnerable? What are you talking about?""","""무적? 무슨 얘기야?""",q6_queen,,,,,0,0
+106933,PC,Player Character,"""I'm looking for pieces of a broken mirror.""","""부서진 거울 조각들을 찾고 있어.""",q6_queen,,q6_mirror10,,,0,0
+106934,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q6_queen,,,,,0,0
+106935,PC,Player Character,"""Who are you?""","""넌 누구야?""",q6_queen,,,,,0,0
+106936,PC,Player Character,"""I think I'll just kill you now.""","""그냥 지금 죽이는 게 나을 것 같은데.""",q6_queen,,,,,0,0
+106937,PC,Player Character,"""What do you mean, you're invulnerable?""","""무적이라는 게 무슨 뜻이야?""",q6_queen,,,,,0,0
+106938,PC,Player Character,"""There's something strange going on here.""","""뭔가 이상한 일이 벌어지고 있어.""",q6_queen,,,,,0,0
+106939,PC,Player Character,"""The drow came to see you?""","""드로우가 널 보러 왔어?""",q6_queen,,,,,0,0
+106940,PC,Player Character,"""Mirror? What mirror?""","""거울? 무슨 거울?""",q6_queen,,,,,0,0
+106941,PC,Player Character,"""I'm looking for allies to join me against the Valsharess.""","""발샤레스에 맞서 싸울 동맹을 찾고 있어.""",q6_queen,,,,,0,0
+106942,PC,Player Character,"""Why would a Queen want to live in a cave?""","""여왕이 왜 동굴에서 살고 싶어 하는데?""",q6_queen,,,,,0,0
+106943,PC,Player Character,"""Isn't a Queen's duty to lead her people?""","""백성을 이끄는 게 여왕의 의무 아니야?""",q6_queen,,,,,0,0
+106944,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q6_queen,,,,,0,0
+106945,PC,Player Character,"""Tell me about that mirror you mentioned.""","""네가 말한 거울에 대해 말해줘.""",q6_queen,,q6_shaori20,,,0,0
+106946,PC,Player Character,"""Where is the mirror now?""","""거울이 지금 어디 있어?""",q6_queen,,,,,0,0
+106947,PC,Player Character,"""Maybe if we fix the mirror we can save your town.""","""거울을 고치면 네 마을을 구할 수 있을지도 몰라.""",q6_queen,,,,,0,0
+106948,PC,Player Character,"""You gave it away? To who?""","""그걸 넘겼다고? 누구한테?""",q6_queen,,,,,0,0
+106949,PC,Player Character,"""Why would you give it away?""","""왜 그걸 넘긴 거야?""",q6_queen,,,,,0,0
+106950,PC,Player Character,"""Seems like you're trying to stir up trouble between me and this drow.""","""나랑 그 드로우 사이를 이간질하려는 것 같은데.""",q6_queen,,,,,0,0
+106951,PC,Player Character,"""Do you know where I can find any of the other pieces?""","""다른 조각들이 어디 있는지 알아?""",q6_queen,,,,,0,0
+106952,PC,Player Character,"""Is there anything I can do to help?""","""내가 도와줄 수 있는 게 있어?""",q6_queen,,,,,0,0
+106953,PC,Player Character,"""I've decided I'm going to kill you.""","""널 죽이기로 결심했어.""",q6_queen,,,,,0,0
+106954,PC,Player Character,"""Can I ask you something else?""","""다른 걸 물어봐도 돼?""",q6_queen,,,,,0,0
+106955,PC,Player Character,"""How can you turn your back on your people like this?""","""어떻게 백성들을 이렇게 외면할 수 있어?""",q6_queen,,,,,0,0

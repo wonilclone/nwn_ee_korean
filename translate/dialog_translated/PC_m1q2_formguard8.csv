@@ -1,0 +1,28 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19468,PC,Player Character,"What are you, prisoner or guard?","너 뭐야, 죄수냐 간수냐?",m1q2_formguard8,,[지능 보통],,,0,0
+19469,PC,Player Character,Stand back! How do I know I can trust you?,물러서! 널 믿을 수 있다는 걸 내가 어떻게 알아?,m1q2_formguard8,,[지능 보통],,,0,0
+19470,PC,Player Character,"Relax - I set you free, didn't I?",진정해-내가 풀어줬잖아?,m1q2_formguard8,,[지능 보통],,,0,0
+19471,PC,Player Character,"What you be, huh? Pris'ner or guard guy?","너 뭐야, 응? 죄수야, 간수 놈이야?",m1q2_formguard8,,[지능 낮음],,,0,0
+19472,PC,Player Character,"You stay back! How me trust you, huh?","뒤로 물러서! 나 너 어떻게 믿냐, 응?",m1q2_formguard8,,[지능 낮음],,,0,0
+19473,PC,Player Character,Huh? Me no cap-tor - me set you free!,어? 나 잡아 가둔 놈 아냐-내가 풀어줬지!,m1q2_formguard8,,[지능 낮음],,,0,0
+19474,PC,Player Character,Then I could use some information.,그럼 정보가 좀 필요해.,m1q2_formguard8,,[지능 보통],,,0,0
+19475,PC,Player Character,How did you end up in that cell in the first place?,처음에 어떻게 그 감방에 갇히게 된 거지?,m1q2_formguard8,,[지능 보통],,,0,0
+19476,PC,Player Character,What's the layout of this floor?,이 층 구조가 어떻게 되어 있지?,m1q2_formguard8,,[지능 보통],,,0,0
+19477,PC,Player Character,What do you know about the prisoners?,죄수들에 대해 뭘 알고 있지?,m1q2_formguard8,,[지능 보통],,,0,0
+19478,PC,Player Character,How you get 'prisoned anyway?,너 어떻게 잡혀 있었던 거야?,m1q2_formguard8,,[지능 낮음],,,0,0
+19479,PC,Player Character,Think you can make your way out of here alone?,혼자서 여기서 빠져나갈 수 있겠어?,m1q2_formguard8,,[지능 보통],,,0,0
+19480,PC,Player Character,Any suggestions as to what we do now?,이제 어떻게 해야 할지 조언 있나?,m1q2_formguard8,,[지능 보통],,,0,0
+19481,PC,Player Character,"Okay, enough questions.","좋아, 질문은 여기까지.",m1q2_formguard8,,[지능 보통],,,0,0
+19482,PC,Player Character,How dis place laid out?,여기 구조 어때?,m1q2_formguard8,,[지능 낮음],,,0,0
+19483,PC,Player Character,What you know 'bout pris'ners?,죄수들에 대해 뭐 알아?,m1q2_formguard8,,[지능 낮음],,,0,0
+19484,PC,Player Character,What we do now?,이제 뭐 하지?,m1q2_formguard8,,[지능 낮음],,,0,0
+19485,PC,Player Character,"Okay, questions all done.","좋아, 질문 끝.",m1q2_formguard8,,[지능 낮음],,,0,0
+19486,PC,Player Character,Hmm. Me have questions.,흠. 나 질문 있어.,m1q2_formguard8,,[지능 낮음],,,0,0
+19487,PC,Player Character,You okay runnin' for door alone?,혼자서 문까지 갈 수 있겠어?,m1q2_formguard8,,[지능 낮음],,,0,0
+19488,PC,Player Character,And the Head Gaoler?,그럼 간수장은?,m1q2_formguard8,,[지능 보통],,,0,0
+19489,PC,Player Character,<StartCheck>[Insight]</Start> The Pits? What's that?,<StartCheck>[통찰]</Start> 나락? 그게 뭐지?,m1q2_formguard8,,nw_d2_wis_intn,,,0,0
+19490,PC,Player Character,And da Head Guy?,그럼 간수장 놈은?,m1q2_formguard8,,[지능 낮음],,,0,0
+19491,PC,Player Character,<StartCheck>[Insight]</Start> Did the Head Gaoler keep a logbook at all?,<StartCheck>[통찰]</Start> 간수장이 장부를 비치했나?,m1q2_formguard8,,nw_d2_wis_intn,,,0,0
+19492,PC,Player Character,"Okay, get out of here, then. I've cleared the way for you.","좋아, 그럼 여기서 나가. 길은 내가 닦아 놨어.",m1q2_formguard8,,[지능 보통],,,0,0
+19493,PC,Player Character,"Okay, you go now den. Me already clear path for you.","좋아, 이제 가. 내가 길 이미 치워놨어.",m1q2_formguard8,,[지능 낮음],,,0,0
+19494,PC,Player Character,I could use some information before you go.,가기 전에 정보가 좀 필요해.,m1q2_formguard8,,[지능 보통],,,0,0

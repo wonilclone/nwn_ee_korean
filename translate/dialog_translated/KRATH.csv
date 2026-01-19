@@ -1,0 +1,26 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30416,Dialog,KRATH,"You have come to put down the dread Sir Karathis, have you?","공포의 카라시스 경을 쓰러뜨리러 왔군요, 그렇죠?",M2Q1A02KRATH,nw_d1_j_surr01,,,vs_npaladm1_053,0,0
+30417,Dialog,KRATH,"Now, if you'll excuse me, I must return to my order and seek penance for taking on the shape of my enemy. Read my journal well and act upon it.","이제 실례하겠습니다. 기사단으로 돌아가 적의 형상을 취한 것에 대한 속죄를 해야 합니다. 제 일지를 잘 읽고 행동하세요.",M2Q1A02KRATH,,,,,0,0
+30418,Dialog,KRATH,"If you come here out of honor, then let us fight with honor, for that I have not lost... ","명예를 위해 왔다면 명예롭게 싸웁시다. 그것만은 잃지 않았으니...",M2Q1A02KRATH,nw_d1_attonend02,,,,0,0
+30419,Dialog,KRATH,You come to me with silver? Do you not remember that I was a werewolf hunter? That silver would be poison to me now.,은을 들고 오다니? 내가 늑대인간 사냥꾼이었다는 걸 잊었소? 그 은은 이제 내게 독이오.,M2Q1A02KRATH,,,,,0,0
+30420,Dialog,KRATH,What do you want?!,무엇을 원하는 거요?!,M2Q1A02KRATH,,,,,0,0
+30421,Dialog,KRATH,"<StartCheck>[Success]</Start> Justice, you say? If it slays the wicked and cures the righteous, then I shall gladly use this charm. I know my heart! ","<StartCheck>[성공]</Start> 정의라고요? 사악한 자를 처단하고 의로운 자를 치유한다면 기꺼이 이 부적을 쓰겠소. 내 마음은 알고 있소!",M2Q1A02KRATH,m2q1werecurexp,,,,0,0
+30422,Dialog,KRATH,<StartCheck>[Failure]</Start> Don't mock me with your lies... ,<StartCheck>[실패]</Start> 거짓말로 나를 조롱하지 마시오...,M2Q1A02KRATH,,,,,0,0
+30423,Dialog,KRATH,"Then I shall use your filthy charm. I am a servant of my god, however, and it is by his hand that I shall make miracles of your base attempts!","그렇다면 당신의 더러운 부적을 쓰겠소. 하지만 나는 신의 종복이고 신의 손으로 당신의 비천한 시도를 기적으로 만들겠소!",M2Q1A02KRATH,m2q1werecurexp,,,,0,0
+30424,Dialog,KRATH,"<StartCheck>[Success]</Start> Holy-charmed silver, is it? If it slays the wicked and cures the righteous, than I shall use this charm. I know my heart!","<StartCheck>[성공]</Start> 신성하게 축복받은 은이라고요? 사악한 자를 처단하고 의로운 자를 치유한다면 이 부적을 쓰겠소. 내 마음은 알고 있소!",M2Q1A02KRATH,m2q1werecurexp,,,,0,0
+30425,Dialog,KRATH,Either kill me or cure me. It's the only way you'll ever know.,날 죽이든지 치료하든지. 그게 당신이 알 수 있는 유일한 방법이오.,M2Q1A02KRATH,,,,,0,0
+30426,Dialog,KRATH,With what? An army or a cure?,무엇으로? 군대로? 아니면 치료제로?,M2Q1A02KRATH,,,,,0,0
+30427,Dialog,KRATH,"There, that should be proof enough of my innocence. Take this journal I have penned and give it to Neurik. It tells the truth of what has happened.","자, 이제 내 무죄의 증거는 충분할 거요. 내가 쓴 이 일지를 가져가서 뉴릭에게 주시오. 무슨 일이 있었는지 진실이 적혀 있소.",M2Q1A02KRATH,,,,,0,0
+30428,Dialog,KRATH,"A deceiver made me what I am today! I may look like the Black Wolf, but I shan't become like him! Take your offers elsewhere.","사기꾼이 날 이렇게 만들었소! 검은 늑대처럼 보일지 몰라도 그처럼 되지는 않겠소! 제안은 다른 데 가서 하시오.",M2Q1A02KRATH,,,,,0,0
+30429,Dialog,KRATH,And would you believe me when I told the truth? Don't mark me for a fool.,진실을 말하면 믿겠소? 날 바보로 보지 마시오.,M2Q1A02KRATH,,,,,0,0
+30430,Dialog,KRATH,"<StartCheck>[Success]</Start> Hmm... well, not to judge, but I do find that fairly believable coming from you. Fine, I will recount the sad tale.","<StartCheck>[성공]</Start> 흠... 뭐, 판단하려는 건 아니지만 당신에게서 나온 말이라면 꽤 믿을 만하오. 좋소. 슬픈 이야기를 들려주겠소.",M2Q1A02KRATH,,,,,0,0
+30431,Dialog,KRATH,"<StartCheck>[Failure]</Start> As believable as that sounds coming from you, I'll ask you to excuse me from your mockeries.","<StartCheck>[실패]</Start> 당신에게서 나온 말이라 믿을 만하게 들리지만 당신의 조롱은 사양하겠소.",M2Q1A02KRATH,,,,,0,0
+30432,Dialog,KRATH,"<StartCheck>[Success]</Start> Though my mind rebels, my heart knows the better - you are being... sincere. Aren't you? Fine. I will recount the sad tale.","<StartCheck>[성공]</Start> 내 마음이 거부하지만 내 심장은 더 잘 아오 - 당신은... 진심이군요. 그렇죠? 좋소. 슬픈 이야기를 들려주겠소.",M2Q1A02KRATH,,,,,0,0
+30433,Dialog,KRATH,"<StartCheck>[Failure]</Start> As believable as that sounds coming from you, I'll ask you to excuse me from your mockeries.","<StartCheck>[실패]</Start> 당신에게서 나온 말이라 믿을 만하게 들리지만 당신의 조롱은 사양하겠소.",M2Q1A02KRATH,,,,,0,0
+30434,Dialog,KRATH,"I have been hunting werewolves for most of my adventuring career, and was in fact knighted for this duty I have placed upon myself.","모험가 생활 대부분을 늑대인간 사냥을 했고 사실 스스로에게 부여한 이 의무로 기사 작위를 받았소.",M2Q1A02KRATH,,,,,0,0
+30435,Dialog,KRATH,"But I was to face my greatest challenge with the Black Wolf. I brought four young men of Port Llast - Urth, Bran, Geth, and Ander - to help me.","하지만 검은 늑대와 맞서는 것이 최대 도전이었소. 라스트 항구의 젊은이 넷 - 어스, 브랜, 게스, 앤더를 데려와 도움을 받았소.",M2Q1A02KRATH,,,,,0,0
+30436,Dialog,KRATH,"But with tragic irony, I was afflicted with lycanthropy, and I cursed them to the same in turn, all save the youngest, Ander. It has been a dark day ever since.","하지만 비극적인 아이러니로 나는 늑대인간병에 걸렸고 차례로 그들도 똑같이 저주했소. 가장 어린 앤더만 빼고. 그 이후로 줄곧 어두운 날이었소.",M2Q1A02KRATH,,,,,0,0
+30437,Dialog,KRATH,"I believe that I do, but I would keep that secret as my own - perhaps I might use it as a key to restore my humanity.","알고 있다고 생각하지만 그건 내 비밀로 하겠소 - 아마도 인간성을 회복하는 열쇠로 쓸 수 있을 테니.",M2Q1A02KRATH,,,,,0,0
+30438,Dialog,KRATH,I have regained control. You need no longer attack me!,통제력을 되찾았소. 더는 공격하지 않아도 되오!,M2Q1A02KRATH,,,,vs_npaladm1_052,0,0
+30439,Dialog,KRATH,Grrr - Please! - Grrrrr - Can't control... Myself!,으르렁 - 제발! - 그르르르 - 통제할 수... 없어!,M2Q1A02KRATH,,,,vs_npaladm1_051,0,0
+30440,Dialog,KRATH,I have no time to talk right now.,지금은 얘기할 시간이 없소.,M2Q1A02KRATH,,,,vs_npaladm1_050,0,0

@@ -1,0 +1,38 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72116,PC,Player Character,"You're free to go, certainly.","물론이지, 자유야.",q3_blumberg,,,,,0,0
+72117,PC,Player Character,<StartAction>[Lie]</Start> Hilltop is in ruins. You don't want to go there.,<StartAction>[거짓말]</Start> 힐탑은 폐허야. 거기 가고 싶지 않을 거야.,q3_blumberg,x0_d1_didevilsml,,,,0,0
+72118,PC,Player Character,"I don't really care where you go, just go.","어디 가든 상관없어, 그냥 가.",q3_blumberg,,,,,0,0
+72119,PC,Player Character,That's a good idea. Go to Hilltop... you'll be safe there.,좋은 생각이야. 힐탑으로 가... 거기선 안전할 거야.,q3_blumberg,,,,,0,0
+72120,PC,Player Character,My name is unimportant.,내 이름은 중요하지 않아.,q3_blumberg,,,,,0,0
+72121,PC,Player Character,Give thanks to the gods and that will be enough recognition for me.,신들께 감사하면 돼. 그것만으로 충분해.,q3_blumberg,,,,,0,0
+72122,PC,Player Character,My name is <FirstName>.,내 이름은 <FirstName>이야.,q3_blumberg,,,,,0,0
+72123,PC,Player Character,My name is <FirstName>. And here... 100 gold to help you rebuild your lives.,내 이름은 <FirstName>이야. 그리고 이거... 새 삶을 시작하는 데 보태 쓰라고 금화 100개야.,q3_blumberg,x0_d1_didgoodsml,q3_has100gp,,,0,0
+72124,PC,Player Character,"Hilltop is safe. In fact, I'll take you there myself.","힐탑은 안전해. 사실, 내가 직접 데려다 줄게.",q3_blumberg,x0_d1_didgoodtny,,,,0,0
+72125,PC,Player Character,"Actually, I think I'm in need of some target practice.","사실, 과녁 연습이 좀 필요할 것 같은데.",q3_blumberg,x0_d1_dideviltny,,,,0,0
+72126,PC,Player Character,And what will you give me to let you go?,놓아주는 대가로 뭘 줄 건데?,q3_blumberg,,,,,0,0
+72127,PC,Player Character,I apologize. The way is clear... you're free to leave.,미안해. 길이 열렸어... 자유야.,q3_blumberg,,,,,0,0
+72128,PC,Player Character,"Go, then. I could not care less, really.","그럼 가. 솔직히 관심 없어.",q3_blumberg,,,,,0,0
+72129,PC,Player Character,Sounds to me like you need to be put out of your misery.,내가 보기엔 고통에서 해방시켜 줘야 할 것 같은데.,q3_blumberg,x0_d1_dideviltny,,,,0,0
+72130,PC,Player Character,Are you really that certain?,정말 그렇게 확신해?,q3_blumberg,xp1_didnotgdti,,,,0,0
+72131,PC,Player Character,First tell me who you are and how you got here.,"먼저 네가 누군지, 어떻게 여기 왔는지 말해 봐.",q3_blumberg,,,,,0,0
+72132,PC,Player Character,"Forget it. Rot here, for all I care.","됐어. 여기서 썩어, 난 상관없으니까.",q3_blumberg,xp1_didnotgdti,,,,0,0
+72133,PC,Player Character,Of course... you're free to go.,물론이지... 자유야.,q3_blumberg,xp1_didnotevlsm,,,,0,0
+72134,PC,Player Character,"I've driven the gnolls from the cave, that's true.","동굴에서 놀들을 쫓아냈어, 맞아.",q3_blumberg,,,,,0,0
+72135,PC,Player Character,Wait... who are you people? What are you doing here?,잠깐... 너희 누구야? 여기서 뭐 하는 거야?,q3_blumberg,,,,,0,0
+72136,PC,Player Character,"Don't back-talk me, slave, or suffer the consequences!","말대꾸하지 마, 노예 주제에, 안 그러면 대가를 치를 거야!",q3_blumberg,xp1_didnotgdti,,,,0,0
+72137,PC,Player Character,And so what if I did? What are you going to do about it?,그래서 내가 그랬다면? 뭘 어쩔 건데?,q3_blumberg,xp1_didnotgdti,,,,0,0
+72138,PC,Player Character,"I've arranged for peaceful passage through these caves, no more.","이 동굴을 평화롭게 통과할 수 있게 해뒀어, 그게 다야.",q3_blumberg,,q3_sc_slave10,,,0,0
+72139,PC,Player Character,"I'd have to deal with the guards, first...","먼저 경비병들을 처리해야 할 텐데...",q3_blumberg,,q3_sc_slave12,,,0,0
+72140,PC,Player Character,There are no guards here... you should be able to flee safely.,여기 경비병 없어... 안전하게 도망칠 수 있을 거야.,q3_blumberg,,q3_sc_slave11,,,0,0
+72141,PC,Player Character,"I will try to speak to the chieftain, then.","그럼 족장한테 말해 볼게.",q3_blumberg,,,,,0,0
+72142,PC,Player Character,"No, you're right... I can't do that. You'll have to stay here.","아니, 네 말이 맞아... 그럴 수 없어. 여기 있어야겠어.",q3_blumberg,xp1_didnotgdti,,,,0,0
+72143,PC,Player Character,"Yes, I am. You should go now, quickly!","맞아. 이제 빨리 가!",q3_blumberg,x0_d1_didgoodsml,,,,0,0
+72144,PC,Player Character,Sorry... I'm not willing to make the gnolls angry.,미안하지만... 놀들을 화나게 할 생각은 없어.,q3_blumberg,xp1_didnotgdti,,,,0,0
+72145,PC,Player Character,I will speak to the chieftain about this.,족장한테 이 얘기 해볼게.,q3_blumberg,,,,,0,0
+72146,PC,Player Character,Perhaps... if you make it worth my while.,글쎄... 보상이 있다면 모를까.,q3_blumberg,,,,,0,0
+72147,PC,Player Character,"Fine, fine. I will speak to the chieftain.","알았어, 알았어. 족장한테 말해 볼게.",q3_blumberg,,,,,0,0
+72148,PC,Player Character,"I've taken control of the gnolls, but I didn't make you slaves.","놀들을 장악했지만, 너희를 노예로 만든 건 아냐.",q3_blumberg,,q3_sc_slave9,,,0,0
+72149,PC,Player Character,"I suppose I could, at that. Very well... you're free to go.","그럴 수 있을 것 같네. 좋아... 자유야.",q3_blumberg,xp1_didnotevlsm,,,,0,0
+72150,PC,Player Character,You're free to go. The way is clear.,자유야. 길이 열렸어.,q3_blumberg,,,,,0,0
+72151,PC,Player Character,"What do I care? Come or go, as you wish.","내가 뭔 상관이야? 가든 말든, 알아서 해.",q3_blumberg,,,,,0,0
+72152,PC,Player Character,"Not yet, but be patient.","아직 아니야, 하지만 기다려.",q3_blumberg,,,,,0,0

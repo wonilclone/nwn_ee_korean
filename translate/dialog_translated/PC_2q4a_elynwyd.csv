@@ -1,0 +1,101 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+26757,PC,Player Character,"Might I ask your name, friend?","이름을 물어봐도 될까, 친구?",2q4a_elynwyd,,[매력 높음/지능 중간],,,0,0
+26758,PC,Player Character,May I ask you some questions?,몇 가지 질문해도 될까?,2q4a_elynwyd,,[매력 높음/지능 중간],,,0,0
+26759,PC,Player Character,Who are you?,넌 누구지?,2q4a_elynwyd,,[매력 중간/지능 보통],,,0,0
+26760,PC,Player Character,I would ask a question of you.,질문 하나 해도 될까?,2q4a_elynwyd,,[매력 중간/지능 보통],,,0,0
+26761,PC,Player Character,Tell me who you are.,누군지 말해.,2q4a_elynwyd,,[매력 낮음/지능 중간],,,0,0
+26762,PC,Player Character,"Yeah, whatever. I have a question.","그래, 뭐든. 질문 있어.",2q4a_elynwyd,,[매력 낮음/지능 중간],,,0,0
+26763,PC,Player Character,Who you?,너 누구?,2q4a_elynwyd,,[지능 낮음],,,0,0
+26764,PC,Player Character,Me have questions.,나 질문 있어.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26765,PC,Player Character,Goodbye.,그럼 이만.,2q4a_elynwyd,,,,,0,0
+26766,PC,Player Character,I am called <FirstName>.,난 <FirstName>라고 해.,2q4a_elynwyd,,[지능 보통],,,0,0
+26767,PC,Player Character,My name is <FullName>. Pleased to meet you.,내 이름은 <FullName>야. 만나서 반가워.,2q4a_elynwyd,,[지능 보통],,,0,0
+26768,PC,Player Character,You don't need to know who I am.,넌 내가 누군지 알 필요 없어.,2q4a_elynwyd,,[지능 보통],,,0,0
+26769,PC,Player Character,Me is <FirstName>.,나 <FirstName>.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26770,PC,Player Character,Me called <FullName>. Is nice to meet you.,나 <FullName>. 만나서 반가워.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26771,PC,Player Character,You no need know me.,너 내 이름 알 필요 없어.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26772,PC,Player Character,What's so terrible about today?,오늘 뭐가 그렇게 끔찍한 거지?,2q4a_elynwyd,,[지능 보통],,,0,0
+26773,PC,Player Character,Do you know of any work around here?,근처에 일거리가 있을까?,2q4a_elynwyd,,[지능 보통],,,0,0
+26774,PC,Player Character,Can you tell me what's going on in Luskan?,러스칸에서 무슨 일이 벌어지고 있는지 말해 줄래?,2q4a_elynwyd,,[지능 보통],,,0,0
+26775,PC,Player Character,I need some directions.,길을 좀 알려줄래?,2q4a_elynwyd,,[지능 보통],,,0,0
+26776,PC,Player Character,You tells me what go on in Luskan?,러스칸에 뭐 일 나? 말해줘?,2q4a_elynwyd,,[지능 낮음],,,0,0
+26777,PC,Player Character,Me looks for work.,나 일 찾아.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26778,PC,Player Character,Me needs directions.,나 길 필요해.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26779,PC,Player Character,What bad about today?,오늘 뭐가 나빠?,2q4a_elynwyd,,[지능 낮음],,,0,0
+26780,PC,Player Character,Perhaps you could tell me who you are?,혹시 누군지 말해 줄 수 있나?,2q4a_elynwyd,,[지능 보통],,,0,0
+26781,PC,Player Character,Who you?,너 누구?,2q4a_elynwyd,,[지능 낮음],,,0,0
+26782,PC,Player Character,What do you mean?,무슨 뜻이야?,2q4a_elynwyd,,[지능 보통],,,0,0
+26783,PC,Player Character,Why is Kurth holding her captive?,커스는 왜 그녀를 가둬 둔 거지?,2q4a_elynwyd,,[지능 보통],,,0,0
+26784,PC,Player Character,Where is she being held? Do you know?,어디에 붙잡혀 있는지 알아?,2q4a_elynwyd,,[지능 보통],,,0,0
+26785,PC,Player Character,What would the reward be if I rescued her?,내가 구해 오면 보상은 뭐지?,2q4a_elynwyd,,[지능 보통],,,0,0
+26786,PC,Player Character,I could rescue her for you.,내가 대신 구해줄 수도 있어.,2q4a_elynwyd,,[지능 보통],,,0,0
+26787,PC,Player Character,"Sorry, but I'm not interested.",미안하지만 관심 없어.,2q4a_elynwyd,,[지능 보통],,,0,0
+26788,PC,Player Character,Why sister captive?,왜 네 누이 갇혀?,2q4a_elynwyd,,[지능 낮음],,,0,0
+26789,PC,Player Character,You knows where she held?,어디 갇혔는지 알아?,2q4a_elynwyd,,[지능 낮음],,,0,0
+26790,PC,Player Character,"What reward for rescue, maybe?",구해주면 보상 뭐 있어?,2q4a_elynwyd,,[지능 낮음],,,0,0
+26791,PC,Player Character,Me could rescues her.,나 그녀 구해줄 수 있어.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26792,PC,Player Character,Nope. Me have no interest. Too busy.,아니. 관심 없어. 너무 바빠.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26793,PC,Player Character,<StartCheck>[Persuade]</Start> I'm sure I can get your sister back safely.,<StartCheck>[설득]</Start> 네 여동생을 안전하게 데려올 수 있어.,2q4a_elynwyd,,[지능 보통],,,0,0
+26794,PC,Player Character,"Fine, if you don't want my help, so be it.","좋아, 내 도움이 필요 없다면 그러라지.",2q4a_elynwyd,,[지능 보통],,,0,0
+26795,PC,Player Character,"<StartCheck>[Persuade]</Start> Me get sister back safe, no problem.","<StartCheck>[설득]</Start> 나 누이 안전하게 데려와, 문제 없어.",2q4a_elynwyd,,[지능 낮음],,,0,0
+26796,PC,Player Character,"Fine, me go then.","좋아, 그럼 난 간다.",2q4a_elynwyd,,[지능 낮음],,,0,0
+26797,PC,Player Character,<StartCheck>[Persuade]</Start> All right... but don't you think some coin up front might be suitable for my trouble?,<StartCheck>[설득]</Start> 좋아... 하지만 수고비로 선금 좀 주는 게 맞지 않겠어?,2q4a_elynwyd,,[지능 보통],,,0,0
+26798,PC,Player Character,Fine. But I want some coin now. Cough it up before I search your corpse.,좋아. 하지만 지금 당장 돈을 내. 안 그러면 시체에서 뒤져 가질 테니까.,2q4a_elynwyd,nw_d1_small_evil,[지능 보통],,,0,0
+26799,PC,Player Character,I'll do what I can.,할 수 있는 만큼 해 보지.,2q4a_elynwyd,,[지능 보통],,,0,0
+26800,PC,Player Character,"Evaine will be returned safe and sound, I promise.",에바인을 무사히 돌려보내겠다고 약속할게.,2q4a_elynwyd,,[지능 보통],,,0,0
+26801,PC,Player Character,"<StartCheck>[Persuade]</Start> Me think some coin now be good idea, no?","<StartCheck>[설득]</Start> 나 생각해 지금 돈 좀 주는 게 좋아, 안 그래?",2q4a_elynwyd,,[지능 낮음],,,0,0
+26802,PC,Player Character,"You give me coin now. And me means now, or else me get angry.",지금 돈 줘. 지금이야. 아니면 나 화낸다.,2q4a_elynwyd,nw_d1_small_evil,[지능 낮음],,,0,0
+26803,PC,Player Character,Me do that.,나 그거 할게.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26804,PC,Player Character,"Evaine come back safe, me promise.","에바인 안전하게 돌아와, 약속.",2q4a_elynwyd,,[지능 낮음],,,0,0
+26805,PC,Player Character,Tell me again how to find her?,다시 그녀를 어떻게 찾는지 말해 줄래?,2q4a_elynwyd,,2q4_elynwyd07,,,0,0
+26806,PC,Player Character,"I found Evaine in Kurth's fortress, but she isn't with me at the moment.","커스의 요새에서 에바인을 찾았지만, 지금은 내 곁에 없어.",2q4a_elynwyd,,2q4_elynwyd09,,,0,0
+26807,PC,Player Character,"I am so sorry, but... I'm afraid that Evaine died while I was freeing her... ",정말 미안하지만... 구하는 도중에 에바인이 죽었어...,2q4a_elynwyd,,2q4_elynwyd11,,,0,0
+26808,PC,Player Character,"Yes, I've word. She's dead. Them's the breaks.","그래, 소식이 있어. 그녀는 죽었어. 어쩔 수 없었지.",2q4a_elynwyd,,2q4_elynwyd11,,,0,0
+26809,PC,Player Character,"Not yet, but I'm working on it.","아직은 아니지만, 진행 중이야.",2q4a_elynwyd,,[지능 보통],,,0,0
+26810,PC,Player Character,"Yeah, yeah, I'll get around to it eventually.","알았어, 알았어. 언젠가는 하게 될 거야.",2q4a_elynwyd,,[지능 보통],,,0,0
+26811,PC,Player Character,Say where sister is again? Me forget.,누이 어디라 했지? 나 까먹었어.,2q4a_elynwyd,,2q4_elynwyd08,,,0,0
+26812,PC,Player Character,Me find sister in Kurth's fortress... but she not here right now.,나 커스 요새에서 누이 찾았어... 근데 지금 여기 없어.,2q4a_elynwyd,,2q4_elynwyd10,,,0,0
+26813,PC,Player Character,Me so sorry... but she die when me try free her... ,나 정말 미안... 근데 나 구하려다 그녀 죽었어...,2q4a_elynwyd,,2q4_elynwyd12,,,0,0
+26814,PC,Player Character,"Me free sister, but she die on way. (belch!) Oh well.","나 누이 풀어줬는데, 오는 길에 죽었어. (꺽!) 뭐, 어쩔 수.",2q4a_elynwyd,,2q4_elynwyd12,,,0,0
+26815,PC,Player Character,"No, but me working on it.","아니, 근데 나 하고 있어.",2q4a_elynwyd,,[지능 낮음],,,0,0
+26816,PC,Player Character,"Me get around to it sometime, maybe.","언젠가 할 거야, 아마.",2q4a_elynwyd,,[지능 낮음],,,0,0
+26817,PC,Player Character,"<StartCheck>[Persuade]</Start> Are you sure you can't? This is your sister, after all.",<StartCheck>[설득]</Start> 정말 못 하는 거야? 네 여동생인데.,2q4a_elynwyd,,[지능 보통],,,0,0
+26818,PC,Player Character,"Cough up some more gold, or I kill your sister now.","금화 더 내놔, 아니면 네 여동생 지금 죽여.",2q4a_elynwyd,nw_d1_small_evil,[지능 보통],,,0,0
+26819,PC,Player Character,That will be fine.,그거면 충분해.,2q4a_elynwyd,,[지능 보통],,,0,0
+26820,PC,Player Character,There's no need for the reward. You've lost enough.,보상은 필요 없어. 넌 이미 충분히 잃었으니까.,2q4a_elynwyd,nw_d1_small_good,[지능 보통],,,0,0
+26821,PC,Player Character,"<StartCheck>[Persuade]</Start> Me thinks you could try. Sister important, no?","<StartCheck>[설득]</Start> 나 너 할 수 있다고 생각해. 여동생 중요하잖아, 안 그래?",2q4a_elynwyd,,[지능 낮음],,,0,0
+26822,PC,Player Character,No good. You gives more or me kills sister now.,"안 돼. 돈 더 줘, 아니면 지금 누이 죽여.",2q4a_elynwyd,nw_d1_small_evil,[지능 낮음],,,0,0
+26823,PC,Player Character,This is okay.,이거면 돼.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26824,PC,Player Character,"No, me no need gold. You loses enough.","아니, 나 금 필요 없어. 너 이미 많이 잃었어.",2q4a_elynwyd,nw_d1_small_good,[지능 낮음],,,0,0
+26825,PC,Player Character,"Sorry, no, I'm not with <CUSTOM1071>.",미안하지만 난 <CUSTOM1071> 소속이 아니야.,2q4a_elynwyd,,[지능 보통],,,0,0
+26826,PC,Player Character,"Yes, I'm with <CUSTOM1071>.","그래, 난 <CUSTOM1071> 쪽이야.",2q4a_elynwyd,,[지능 보통],,,0,0
+26827,PC,Player Character,"Me not with <CUSTOM1071>, nope.","나 <CUSTOM1071> 아니야, 응.",2q4a_elynwyd,,[지능 낮음],,,0,0
+26828,PC,Player Character,Yep - me with <CUSTOM1071>.,응-나 <CUSTOM1071> 쪽이야.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26829,PC,Player Character,"Maybe I could help, if you tell me what you're talking about.",무슨 얘기인지만 말해 준다면 도울 수도 있어.,2q4a_elynwyd,,[지능 보통],,,0,0
+26830,PC,Player Character,"Me could help, if you say what me need do.","나 도울 수 있어, 나 뭐 해야 하는지 말해 주면.",2q4a_elynwyd,,[지능 낮음],,,0,0
+26831,PC,Player Character,I've spoken to Kurth. He still has her and claims she is alive.,커스와 얘기했어. 아직 그녀를 데리고 있고 살아있다고 주장하더라.,2q4a_elynwyd,,2q4_elynwyd13,,,0,0
+26832,PC,Player Character,Me talks to Kurth. He say he gots her and she okay.,나 커스랑 말했어. 그가 그녀 잡고 있고 괜찮다 했어.,2q4a_elynwyd,,2q4_elynwyd14,,,0,0
+26833,PC,Player Character,I did what Kurth demanded... but he reneged on our deal.,난 커스가 요구한 대로 했는데... 놈이 약속을 저버렸어.,2q4a_elynwyd,,2q4_elynwyd15,,,0,0
+26834,PC,Player Character,Me do what Kurth want... but he still no let her go.,나 커스가 원하는 거 했어... 근데 아직도 그녀 안 놓아줘.,2q4a_elynwyd,,2q4_elynwyd16,,,0,0
+26835,PC,Player Character,She suffered plenty at Kurth's hands... and he has paid for it with his life.,그녀는 커스의 손에 많은 고통을 겪었어... 그리고 그는 그 대가로 목숨을 잃었어.,2q4a_elynwyd,,2q4_elynwyd18,,,0,0
+26836,PC,Player Character,"She did not suffer, no... but Kurth is dead for what he did.",그녀는 고통받지 않았어... 하지만 커스는 자기가 한 짓 때문에 죽었어.,2q4a_elynwyd,,2q4_elynwyd18,,,0,0
+26837,PC,Player Character,"She suffered, yes. Kurth remains alive, however.",그녀는 고통받았어. 하지만 커스는 아직 살아 있어.,2q4a_elynwyd,,2q4_elynwyd18,,,0,0
+26838,PC,Player Character,"She did not suffer, no, and Kurth is not dead.","그녀가 고통받진 않았고, 커스도 죽지 않았어.",2q4a_elynwyd,,2q4_elynwyd18,,,0,0
+26839,PC,Player Character,"Sister suffer, yeah... but Kurth be very dead for it.","누이 고생했어, 응... 근데 커스 아주 죽었어.",2q4a_elynwyd,,2q4_elynwyd20,,,0,0
+26840,PC,Player Character,Sister not suffer. Kurth be dead anyways.,누이 안 고생했어. 그래도 커스는 죽었어.,2q4a_elynwyd,,2q4_elynwyd20,,,0,0
+26841,PC,Player Character,"Sister suffer, yeah. Kurth no dead, though.",누이 고생했어. 근데 커스는 안 죽었어.,2q4a_elynwyd,,2q4_elynwyd20,,,0,0
+26842,PC,Player Character,Sister no suffer. Me kills Kurth anyways.,누이 안 고생했어. 그래도 나 커스 죽였어.,2q4a_elynwyd,,2q4_elynwyd20,,,0,0
+26843,PC,Player Character,I don't think you want to know.,알고 싶지 않을 거야.,2q4a_elynwyd,,[지능 보통],,,0,0
+26844,PC,Player Character,Me not think you wants to know.,나 생각해 너 알고 싶지 않아.,2q4a_elynwyd,,[지능 낮음],,,0,0
+26845,PC,Player Character,"She died screaming like a stuck pig, heh heh.","꼬챙이에 찔린 돼지처럼 비명 지르며 죽었지, 헤헤.",2q4a_elynwyd,nw_d1_mid_evil,[지능 보통],,,0,0
+26846,PC,Player Character,She die screaming like stuck pig! Ha ha!,그녀 돼지처럼 소리 지르다 죽었어! 하하!,2q4a_elynwyd,nw_d1_mid_evil,[지능 낮음],,,0,0
+26847,PC,Player Character,Kurth has agreed to release Evaine if I do something for him.,커스가 부탁을 들어주면 에바인을 풀어 주겠다고 했어.,2q4a_elynwyd,,2q4_elynwyd22,,,0,0
+26848,PC,Player Character,"Kurth wanted me to kill Baram, but I refused.","커스는 바람을 죽이라 했지만, 난 거절했어.",2q4a_elynwyd,,2q4_elynwyd23,,,0,0
+26849,PC,Player Character,Kurth say he give Evaine if me does something for him.,나 그 사람 부탁 들어주면 커스가 에바인 준다 했어.,2q4a_elynwyd,,2q4_elynwyd24,,,0,0
+26850,PC,Player Character,"Kurth want me to kill Baram, but me say no.","커스가 바람 죽이라 했는데, 나 아니라고 했어.",2q4a_elynwyd,,2q4_elynwyd25,,,0,0
+26851,PC,Player Character,"I'll try, Elynwyd.","노력해볼게, 엘린위드.",2q4a_elynwyd,,[지능 보통],,,0,0
+26852,PC,Player Character,"Me try to, yeah.","나 해 볼게, 응.",2q4a_elynwyd,,[지능 낮음],,,0,0
+26853,PC,Player Character,I don't think so.,그럴 생각은 없어.,2q4a_elynwyd,,[지능 보통],,,0,0
+26854,PC,Player Character,Me no think so.,나 그렇게 생각 안 해.,2q4a_elynwyd,,[지능 낮음],,,0,0
+68224,PC,Player Character,Me gots news for you.... sister be dead.,나 너한테 소식 있어.... 여동생 죽었어.,2q4a_elynwyd,,2q4_elynwyd12,,,0,0
+68225,PC,Player Character,"Actually, I have news for you... Evaine is dead.","사실, 소식이 있어... 에바인이 죽었어.",2q4a_elynwyd,,2q4_elynwyd11,,,0,0

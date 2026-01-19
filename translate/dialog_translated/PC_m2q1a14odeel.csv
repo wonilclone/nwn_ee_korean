@@ -1,0 +1,37 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+31947,PC,Player Character [M2Q1A14],That's why I'm here: I've seeds that need planting.,그래서 여기 왔어요: 심어야 할 씨앗들이 있어요.,m2q1a14odeel,,m2q1a14odeelglc2,[M2Q1A14],,0,0
+31948,PC,Player Character,I need to go now.,이제 가야겠어요.,m2q1a14odeel,,[지능 보통],,,0,0
+31949,PC,Player Character [M2Q1A14],"Me have seeds to plant, yuh?","나 씨앗 심으러 왔어, 응?",m2q1a14odeel,,m2q1a14odeelglc3,[M2Q1A14],,0,0
+31950,PC,Player Character,"Yuh, me go now.","응, 나 이제 가.",m2q1a14odeel,,[지능 낮음],,,0,0
+31951,PC,Player Character,How about if I give you some extra gold then?,그럼 추가로 금화를 좀 드리면 어때요?,m2q1a14odeel,,[지능 보통],,,0,0
+31952,PC,Player Character,<StartCheck>[Persuade]</Start> What if the druids helped tend your farm?,<StartCheck>[설득]</Start> 드루이드들이 농장을 돌보는 걸 도와주면 어때요?,m2q1a14odeel,,[지능 보통],,,0,0
+31953,PC,Player Character,This tree is getting planted even if its roots have to feed on your corpse.,이 나무는 당신 시체를 뿌리의 양분으로 삼아서라도 심어질 거예요.,m2q1a14odeel,nw_d1_mid_evil,[지능 보통],,,0,0
+31954,PC,Player Character,What if me gives you extra gold?,나 추가로 금화 주면 어때?,m2q1a14odeel,,[지능 낮음],,,0,0
+31955,PC,Player Character,<StartCheck>[Persuade]</Start> Me gets druids to help you care farm?,<StartCheck>[설득]</Start> 나 드루이드들 데려와서 농장 돌보는 거 도와줄게?,m2q1a14odeel,,[지능 낮음],,,0,0
+31956,PC,Player Character,"Me plant tree, even if over your dead body, yuh?","나 나무 심을 거야, 너 죽은 시체 위에라도, 응?",m2q1a14odeel,nw_d1_mid_evil,[지능 낮음],,,0,0
+31957,PC,Player Character,"Fair enough, just thought I'd ask.","충분히 공정해요, 그냥 물어봐야 할 것 같아서요.",m2q1a14odeel,,[지능 보통],,,0,0
+31958,PC,Player Character,"Sorry, me just askin'... ","미안해, 나 그냥 물어본 거야...",m2q1a14odeel,,[지능 낮음],,,0,0
+31959,PC,Player Character,"Here, 300 gold, then. That's six good years.","여기, 금화 300개. 6년 농사에 충분하죠.",m2q1a14odeel,,,,,0,0
+31960,PC,Player Character,<StartCheck>[Persuade]</Start> How does 200 gold sound?,<StartCheck>[설득]</Start> 금화 200개는 어떨까요?,m2q1a14odeel,,,,,0,0
+31961,PC,Player Character,"Sorry, I don't think I have enough gold right now.","미안해요, 지금은 금화가 충분하지 않은 것 같아요.",m2q1a14odeel,,[지능 보통],,,0,0
+31962,PC,Player Character,"<StartCheck>[Persuade]</Start> Uh, 200 gold good?",<StartCheck>[설득]</Start> 어... 금화 200개 괜찮아?,m2q1a14odeel,,,,,0,0
+31963,PC,Player Character,"Here, 300 gold. That like... um... two years worth?","여기, 금화 300개. 그거... 음... 2년 농사 가치 되지?",m2q1a14odeel,,,,,0,0
+31964,PC,Player Character,"Uh, me no have enough gold right now.",어... 나 지금 금화 충분히 없어.,m2q1a14odeel,,[지능 낮음],,,0,0
+31965,PC,Player Character,Who are you?,당신은 누구예요?,m2q1a14odeel,,[지능 보통],,,0,0
+31966,PC,Player Character,Who you be?,너 누구야?,m2q1a14odeel,,[지능 낮음],,,0,0
+31967,PC,Player Character,What do you do here?,여기서 뭐 하세요?,m2q1a14odeel,,[지능 보통],,,0,0
+31968,PC,Player Character,What you does here?,너 여기서 뭐 해?,m2q1a14odeel,,[지능 낮음],,,0,0
+31969,PC,Player Character [M2Q1A14],I was sent here by Archdruid Aawill.,대드루이드 아윌이 저를 여기 보냈어요.,m2q1a14odeel,,m2q1a14odeelglc2,[M2Q1A14],,0,0
+31970,PC,Player Character [M2Q1A14],Me gets sent here by Archdruid Aawill.,나 대드루이드 아윌한테서 보내졌어.,m2q1a14odeel,,m2q1a14odeelglc3,[M2Q1A14],,0,0
+31971,PC,Player Character,"This isn't your land, though.",하지만 이건 당신 땅이 아니잖아요.,m2q1a14odeel,,[지능 보통],,,0,0
+31972,PC,Player Character,What kind of work do you have to do?,어떤 종류의 일을 하세요?,m2q1a14odeel,,[지능 보통],,,0,0
+31973,PC,Player Character,Me wonders what you got doing?,너 무슨 일 하는 거야?,m2q1a14odeel,,[지능 낮음],,,0,0
+31974,PC,Player Character,Me doesn't thinking this you land.,나 이거 너 땅 아니라고 생각해.,m2q1a14odeel,,[지능 낮음],,,0,0
+31975,PC,Player Character,Where does your property end?,당신 땅은 어디서 끝나요?,m2q1a14odeel,,[지능 보통],,,0,0
+31976,PC,Player Character,Where you property ended at?,너 땅 어디서 끝나?,m2q1a14odeel,,[지능 낮음],,,0,0
+31977,PC,Player Character,I'm sorry. I didn't know.,미안해요. 몰랐어요.,m2q1a14odeel,,[지능 보통],,,0,0
+31978,PC,Player Character,"Me never knowed that, no.",나 그거 몰랐어.,m2q1a14odeel,,[지능 낮음],,,0,0
+31979,PC,Player Character,"I'm sorry, but there's some worry that the forest is suffering.","미안해요, 하지만 숲이 고통받고 있다는 걱정이 있어요.",m2q1a14odeel,,[지능 보통],,,0,0
+31980,PC,Player Character,Me sorry. Me just hear others worry about forest.,나 미안해. 나 다른 사람들 숲 걱정한다고 들었어.,m2q1a14odeel,,[지능 낮음],,,0,0
+31981,PC,Player Character,"Listen buddy, I'm planting these seeds to protect the forest.","들어봐요, 친구, 나는 숲을 보호하기 위해 이 씨앗들을 심는 거예요.",m2q1a14odeel,,[지능 보통],,,0,0
+31982,PC,Player Character,Me sent protecting forest. Me needs planting seeds!,나 숲 보호하라고 보내졌어. 나 씨앗 심어야 돼!,m2q1a14odeel,,[지능 보통],,,0,0

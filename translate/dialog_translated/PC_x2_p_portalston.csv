@@ -1,0 +1,21 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+87331,PC,Player Character,<StartAction>[Delete binding.]</Start>,<StartAction>[결속을 삭제한다.]</Start>,x2_p_portalston,,x0_portal_ancchk,,,0,0
+87332,PC,Player Character,<StartAction>[Put Relic back in backpack.]</Start>,<StartAction>[유물을 다시 배낭에 넣는다.]</Start>,x2_p_portalston,,,,,0,0
+87333,PC,Player Character,<StartAction>[Delete binding five - located in <CUSTOM1005>] </Start>,<StartAction>[결속 5번 삭제 - <CUSTOM1005>에 위치] </Start>,x2_p_portalston,x0_portal_a5gone,x0_portal_a5exis,,,0,0
+87334,PC,Player Character,<StartAction>[Delete binding four - located in <CUSTOM1004>] </Start>,<StartAction>[결속 4번 삭제 - <CUSTOM1004>에 위치] </Start>,x2_p_portalston,x0_portal_a4gone,x0_portal_a4exis,,,0,0
+87335,PC,Player Character,<StartAction>[Delete binding three - located in <CUSTOM1003>] </Start>,<StartAction>[결속 3번 삭제 - <CUSTOM1003>에 위치] </Start>,x2_p_portalston,x0_portal_a3gone,x0_portal_a3exis,,,0,0
+87336,PC,Player Character,<StartAction>[Delete binding two - located in <CUSTOM1002>] </Start>,<StartAction>[결속 2번 삭제 - <CUSTOM1002>에 위치] </Start>,x2_p_portalston,x0_portal_a2gone,x0_portal_a2exis,,,0,0
+87337,PC,Player Character,<StartAction>[Delete binding one - located in <CUSTOM1001>] </Start>,<StartAction>[결속 1번 삭제 - <CUSTOM1001>에 위치] </Start>,x2_p_portalston,x0_portal_a1gone,x0_portal_a1exis,,,0,0
+87338,PC,Player Character,<StartAction>[Jump to Leader.]</Start>,<StartAction>[리더에게 이동한다.]</Start>,x2_p_portalston,nw_all_feedbackg,nw_all_feedbackf,,,0,0
+87339,PC,Player Character,<StartAction>[Jump to binding.]</Start>,<StartAction>[결속 위치로 이동한다.]</Start>,x2_p_portalston,,,,,0,0
+87340,PC,Player Character,<StartAction>[Put Relic back in backpack.]</Start>,<StartAction>[유물을 다시 배낭에 넣는다.]</Start>,x2_p_portalston,,,,,0,0
+87341,PC,Player Character,<StartAction>Teleport back to Gatehouse.</Start>,<StartAction>문지기의 처소로 순간이동합니다.</Start>,x2_p_portalston,x0_portal_h_jump,,,,0,0
+87342,PC,Player Character,<StartAction>[Place binding.]</Start>,<StartAction>[결속을 배치한다.]</Start>,x2_p_portalston,,x0_portal_morean,,,0,0
+87343,PC,Player Character,<StartAction>[Put Relic back in backpack.]</Start>,<StartAction>[유물을 다시 배낭에 넣는다.]</Start>,x2_p_portalston,,,,,0,0
+87344,PC,Player Character,<StartAction>[Try something else.]</Start>,<StartAction>[다른 걸 시도한다.]</Start>,x2_p_portalston,,,,,0,0
+87345,PC,Player Character,<StartAction>[Place binding five.]</Start>,<StartAction>[결속 5번을 배치한다.]</Start>,x2_p_portalston,x0_portal_a5make,x0_portal_a5nope,,,0,0
+87346,PC,Player Character,<StartAction>[Place binding four.]</Start>,<StartAction>[결속 4번을 배치한다.]</Start>,x2_p_portalston,x0_portal_a4make,x0_portal_a4nope,,,0,0
+87347,PC,Player Character,<StartAction>[Place binding three.]</Start>,<StartAction>[결속 3번을 배치한다.]</Start>,x2_p_portalston,x0_portal_a3make,x0_portal_a3nope,,,0,0
+87348,PC,Player Character,<StartAction>[Place binding two.]</Start>,<StartAction>[결속 2번을 배치한다.]</Start>,x2_p_portalston,x0_portal_a2make,x0_portal_a2nope,,,0,0
+87349,PC,Player Character,<StartAction>[Place binding one.]</Start>,<StartAction>[결속 1번을 배치한다.]</Start>,x2_p_portalston,x0_portal_a1make,x0_portal_a1nope,,,0,0
+87350,PC,Player Character,<StartAction>[Read description]</Start>,<StartAction>[설명을 읽습니다.]</Start>,x2_p_portalston,,,,,0,0

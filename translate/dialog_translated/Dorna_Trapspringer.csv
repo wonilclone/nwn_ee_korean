@@ -1,0 +1,211 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+69327,Creature,Dorna Trapspringer,"Sarcasm, Mischa? I'm surprised at you.","빈정거리는거야, 미샤? 너답지 않은데.",X0_HEN_DOR,,,,,0,0
+69333,Creature,Dorna Trapspringer,"I agree. I suspect you wouldn't say those things if Master Drogan were conscious, now, would you?","동의해. 드로건 스승님이 의식이 있었다면 그런 말은 안 했겠지, 그렇지?",X0_HEN_DOR,,,,,0,0
+69335,Creature,Dorna Trapspringer,"Don't worry so much, Mischa. <FirstName> may not be correct... there may be hope for Master Drogan, yet.","너무 걱정하지 마, 미샤. <FirstName>가 틀렸을 수도 있어... 아직 드로건 스승님께 희망이 있을지 몰라.",X0_HEN_DOR,,,,,0,0
+69337,Creature,Dorna Trapspringer,"I... don't know. 'Plan for the worst and hope for the best.' Wise words of Drogan, himself.",나... 잘 모르겠어. '최악을 대비하고 최선을 바라라.' 드로건 스승님 본인이 하신 지혜로운 말씀이야.,X0_HEN_DOR,,,,,0,0
+69343,Creature,Dorna Trapspringer,"Don't worry so much, Mischa. You're needed here... just as we're needed to find those artifacts and stop whoever's behind all this.","너무 걱정하지 마, 미샤. 넌 여기서 필요해... 우리가 유물을 찾아서 이 일을 꾸민 자를 막아야 하는 것처럼.",X0_HEN_DOR,,,,,0,0
+69350,Creature,Dorna Trapspringer,Now why didn't I say that?,"아, 그러게 왜 내가 그 말을 먼저 못 했지?",X0_HEN_DOR,,,,,0,0
+69356,Creature,Dorna Trapspringer,"I'm sure we'll do everything we can to help Drogan, Mischa.","우린 드로건을 돕기 위해 가능한 건 다 할 거야, 미샤.",X0_HEN_DOR,,,,,0,0
+69940,Creature,Dorna Trapspringer,"It will be alright, <FirstName>. I'll wait here and watch for your lead.","괜찮을 거야, <FirstName>. 난 여기서 기다리면서 네 지시를 기다릴게.",X0_HEN_DOR,,,,,0,0
+70008,Creature,Dorna Trapspringer,Have you tried negotiating with them at all?,그들과 협상은 해 보았어?,X0_HEN_DOR,,,,,0,0
+70011,Creature,Dorna Trapspringer,"I don't see why you don't just go in there and kill them. You outnumber them, don't you?",그냥 들어가서 끝내 버리면 안 되는 이유를 모르겠네. 우리 쪽이 수적으로 우세하지 않아?,X0_HEN_DOR,,,,,0,0
+70805,Creature,Dorna Trapspringer,"<StartAction>[Gasp!]</Start> Drogan had better never find out you have this vicious streak, <FirstName>. As a harper, he would have to stop you.","<StartAction>[헉!]</Start> 네 안에 이런 잔혹함이 있는 걸 드로건 스승님이 알면 안 되겠어, <FirstName>. 하퍼인 그분이라면 널 막아야 하니까.",X0_HEN_DOR,,,,,0,0
+71386,Creature,Dorna Trapspringer,"I remember seeing you with Drogan one night, about six months ago. You were discussing planting and harvesting, which seemed an odd topic for someone like Drogan.",여섯 달 전쯤 어느 밤에 네가 드로건 스승님과 함께 있는 걸 본 기억이 있어. 씨뿌리기랑 수확 얘기를 하더군. 드로건 스승님답지 않은 주제로 보였지.,X0_HEN_DOR,,,,,0,0
+71474,Creature,Dorna Trapspringer,"I cannot let you terrorize this child, a kin of mine, any more. Let her go.",더는 내 동족인 이 아이를 겁주게 둘 수 없어. 놓아 줘.,X0_HEN_DOR,,,,,0,0
+72707,Creature,Dorna Trapspringer,"A kobold with taste, how unusual.","취향 있는 코볼트라니, 드문 일이네.",X0_HEN_DOR,,,,,0,0
+73490,Creature,Dorna Trapspringer,"You act aged and superior, dragon, but I can see your true age. Do not think that all who are small are also short of wit.","네가 늙고 우월한 척하긴 하지만, 용, 진짜 나이는 보여. 키가 작다고 모두 머리도 작은 줄 알진 마.",X0_HEN_DOR,,,,,0,0
+73492,Creature,Dorna Trapspringer,"Mock me if you wish, dragon. I am not frightened of you.","비웃고 싶다면 마음대로 해, 용. 난 너가 두렵지 않아.",X0_HEN_DOR,,,,,0,0
+74032,Creature,Dorna Trapspringer,No gold at all? <StartAction>[Sigh]</Start> The reward is in the deed. The reward is in the deed. I must remember that.,"보상으로 금화가 전혀 없다고? <StartAction>[하아]</Start> 보상은 행위 그 자체에 있다. 그래, 보상은 행위 그 자체에... 기억해 두자.",X0_HEN_DOR,,,,,0,0
+74252,Creature,Dorna Trapspringer,"Perhaps you slept through too many of master Drogan's lessons, <FirstName>, but the answer is twenty.","드로건 스승님의 수업을 너무 많이 졸았나 보네, <FirstName>. 정답은 스무 명이야.",X0_HEN_DOR,act_riisirid2,,,,0,0
+74270,Creature,Dorna Trapspringer,"I am almost certain that the answer must be six. Yes, only six wizards are using the island.","정답은 여섯이라고 거의 확신해. 그래, 그 섬을 쓰는 마법사는 여섯뿐이야.",X0_HEN_DOR,,,,,0,0
+74280,Creature,Dorna Trapspringer,"Ha! That is a famous old riddle, where I come from. A good rogue should always have a quick mind and a quicker tongue. 'I will be hanged,"" would baffle the executioner.",하! 내 고향에선 유명한 옛 수수께끼지. 좋은 도적이라면 머리는 빨라야 하고 혀는 더 빨라야 해. '나는 교수형을 당할 것이다'라고 답하면 형리가 헷갈리거든.,X0_HEN_DOR,,,,,0,0
+74313,Creature,Dorna Trapspringer,"And try not to answer in riddles, little pest. Your mind is like a young puppy, chasing its tail in circles with no idea what it would do if it caught up and took a bite.","그리고 수수께끼로 받아치지 말아, 꼬맹이 귀찮이. 네 머리는 어린 강아지 같아서, 꼬리를 물려고 빙빙 돌기만 하지 물고 나서 뭘 할지는 전혀 모르거든.",X0_HEN_DOR,,,,,0,0
+74455,Creature,Dorna Trapspringer,"Get over yourself already, Xanos. <FirstName> will pick whomever <he/she> picks... and it will probably be someone <he/she> can stand.","좀 그만 우쭐거려, 자노스. <FirstName>는 <he/she>가 고르고 싶은 사람을 고를 거야... 그리고 아마 <he/she>가 견딜 수 있는 사람이겠지.",X0_HEN_DOR,,,,,0,0
+74470,Creature,Dorna Trapspringer,Powerful magics? Are you talking about the few little spells you can fire off before you run screaming like a naked halfling?,강력한 마법? 벌거벗은 하플링처럼 비명 지르며 도망치기 전에 몇 발 쏘는 그 쬐끄만 주문들 말이야?,X0_HEN_DOR,,,,,0,0
+74472,Creature,Dorna Trapspringer,"I see. Well maybe you'll introduce me to him, sometime.",그래. 언젠가 그분을 나에게도 소개해 주겠지.,X0_HEN_DOR,,,,,0,0
+74473,Creature,Dorna Trapspringer,"I'll go with you, <FirstName>. Our skills will complement each other... and besides, I expect you'll need some muscle to back you up.","같이 가줄게, <FirstName>. 우리 기술은 서로 보완이 될 거야... 게다가 네 등 뒤를 받쳐 줄 힘도 필요할 테고.",X0_HEN_DOR,,,,,0,0
+74475,Creature,Dorna Trapspringer,Better that than a big half-orc with an oversized ego.,자만심만 큰 덩치 하프오크랑 가는 것보단 낫지.,X0_HEN_DOR,,,,,0,0
+74495,Creature,Dorna Trapspringer,"Rude or not, I'd like an answer, as well. You have remarkable timing, my lady.","무례하든 말든, 나도 답을 듣고 싶은데. 때맞춤이 대단하군요, 숙녀분.",X0_HEN_DOR,,,,,0,0
+74503,Creature,Dorna Trapspringer,What do you mean it's your responsibility?,그게 네 책임이라는 게 무슨 뜻이야?,X0_HEN_DOR,,,,,0,0
+74509,Creature,Dorna Trapspringer,Master Drogan!,드로건 스승님!,X0_HEN_DOR,act_q1aayala_6,,,vs_nx0dornf_052,0,0
+74605,Creature,Dorna Trapspringer,You know about them? He gave a ring to each of us.,그걸 알고 있었어? 우리 각자에게 반지를 하나씩 주셨지.,X0_HEN_DOR,,,,,0,0
+74609,Creature,Dorna Trapspringer,"You needn't get so excited about them, Xanos. They're just rings.","그것 때문에 흥분할 건 없어, 자노스. 그냥 반지일 뿐이야.",X0_HEN_DOR,,,,,0,0
+75017,Creature,Dorna Trapspringer,Dorna,함정사냥꾼,X0_HEN_DOR,,,,,0,0
+75018,Creature,Dorna Trapspringer,Trapspringer,도르나,X0_HEN_DOR,,,,,0,0
+78638,Creature,Dorna Trapspringer,There is an image that will take me years to wash from my mind. Disgusting.,머릿속에서 몇 년은 지워지지 않을 장면이네. 역겹군.,X0_HEN_DOR,,,,,0,0
+78640,Creature,Dorna Trapspringer,"They have a bad reputation, but this one does raise some interesting prospects. It's not as if the village couldn't use a little more tax revenue.","평판은 나쁘지만, 이건 꽤 흥미로운 가능성을 열어 주네. 마을이 세수 좀 늘린다고 손해 볼 것도 없고.",X0_HEN_DOR,,,,,0,0
+78643,Creature,Dorna Trapspringer,Discount?! Now there is a word I like to hear!,할인?! 그건 내가 듣고 싶어 하던 말이지!,X0_HEN_DOR,,,,,0,0
+78645,Creature,Dorna Trapspringer,I always knew Veraunt was a fool. This could help Hilltop grow into a powerful center for trade. ,베라운트가 바보라는 건 늘 알고 있었지. 이건 힐탑이 강력한 무역 중심지로 성장하는 데 도움이 될 거야.,X0_HEN_DOR,,,,,0,0
+78654,Creature,Dorna Trapspringer,"You're a bit of a cheeky halfling, aren't you?","넌 제법 건방진 하플링이구나, 그렇지?",X0_HEN_DOR,,,,,0,0
+78656,Creature,Dorna Trapspringer,Sorry. I make it a policy never to date men whom I could crush accidentally.,미안. 난 실수로라도 으깨버릴 수 있는 남자와는 데이트하지 않는 주의거든.,X0_HEN_DOR,,,,,0,0
+78658,Creature,Dorna Trapspringer,Flatterer. You say that now. But enough... we've business to speak of.,아첨은 그만. 지금은 그렇게 말하겠지. 됐고... 본론으로 들어가자.,X0_HEN_DOR,,,,,0,0
+78666,Creature,Dorna Trapspringer,All of them. Trust me.,전부. 날 믿어.,X0_HEN_DOR,,,,,0,0
+78668,Creature,Dorna Trapspringer,Mmm. Just wait... he gets more suave as the day progresses.,흠. 좀만 기다려... 시간 지나면 지날수록 더 점잖은 척할 테니까.,X0_HEN_DOR,,,,,0,0
+78671,Creature,Dorna Trapspringer,A deal is a deal. I can respect that.,약속은 약속이지. 그건 인정해.,X0_HEN_DOR,,,,,0,0
+78674,Creature,Dorna Trapspringer,"Ah, well. It was a nice try, <FirstName>.","뭐, 그래. 시도는 좋았어, <FirstName>.",X0_HEN_DOR,,,,,0,0
+78675,Creature,Dorna Trapspringer,Hmm. You wield that hammer like a dwarf. It's no wonder they ran off.,흠. 그 망치를 드워프처럼 휘두르네. 저들이 달아난 것도 무리가 아니야.,X0_HEN_DOR,,,,,0,0
+78680,Creature,Dorna Trapspringer,"You are a rather strange woman, Fiona. I guess that's why I always enjoyed your company.","넌 참 특이한 여자야, 피오나. 그래서 네랑 있으면 늘 즐거웠나 보지.",X0_HEN_DOR,,,,,0,0
+78682,Creature,Dorna Trapspringer,You knew... oh... sorry.,알고 있었구나... 아... 미안.,X0_HEN_DOR,,,,,0,0
+78685,Creature,Dorna Trapspringer,"Actually, I would have to agree with Fiona here, I would never pay so much for Xanos. I might pay that much to see him locked in a cell, however. Hmmmm...",사실 이번엔 피오나 말에 동의해야겠어. 자노스에게 그렇게 많은 돈을 쓸 일은 없지. 다만 그 돈을 주고 그가 감방에 갇힌 걸 볼 수 있다면... 흠...,X0_HEN_DOR,,,,,0,0
+78687,Creature,Dorna Trapspringer,"This is pointless, <FirstName>. Why do you bother? Gah.","소용없어, <FirstName>. 왜 애쓰는 거야? 휴.",X0_HEN_DOR,,,,,0,0
+78689,Creature,Dorna Trapspringer,"Your mother escaped from slavery, then?",그럼 네 어머니는 노예 신분에서 도망친 거야?,X0_HEN_DOR,,,,,0,0
+78695,Creature,Dorna Trapspringer,"I've heard tell of Ascalhorn. That's an ancient place, long ago destroyed. I knew it was in this region, but I had no idea it was near here.","아스칼혼 이야기는 들어봤어. 오래전에 멸망한 고대의 장소지. 이 지역이라는 건 알았지만, 이렇게 가까운 줄은 몰랐네.",X0_HEN_DOR,,,,,0,0
+78697,Creature,Dorna Trapspringer,"Perhaps so, but now we've two trails to follow instead of just one. Ah, well.","그럴지도. 하지만 이제 한 갈래 대신 두 갈래 길을 추적해야 하네. 뭐, 어쩔 수 없지.",X0_HEN_DOR,,,,,0,0
+78699,Creature,Dorna Trapspringer,No doubt. That could not have gone well for the kobolds. Gnolls are large and fearsome creatures.,틀림없어. 코볼트들에게 좋은 일이었을 리 없지. 놀은 크고 무시무시한 족속이니까.,X0_HEN_DOR,,,,,0,0
+78701,Creature,Dorna Trapspringer,"So Ascalhorn was near here. That's an old tale even by elven standards, <FirstName>.","그럼 아스칼혼이 이 근처였군. 엘프 기준으로도 오래된 전설이야, <FirstName>.",X0_HEN_DOR,,,,,0,0
+78702,Creature,Dorna Trapspringer,"Very smooth, <FirstName>. Nicely played.","매우 능숙했어, <FirstName>. 멋지게 처리했네.",X0_HEN_DOR,,,,,0,0
+78704,Creature,Dorna Trapspringer,"I am a dwarf too, giant. I am as big as I will ever get.","나도 드워프야, 거인. 난 지금이 내 최대 크기지.",X0_HEN_DOR,,,,,0,0
+78706,Creature,Dorna Trapspringer,Alright... shutting up now.,알았어... 이제 입 다물게.,X0_HEN_DOR,,,,,0,0
+78708,Creature,Dorna Trapspringer,"He is... really big. Let's play this carefully, <FirstName>.","저 녀석... 정말 크다. 조심해서 상대하자, <FirstName>.",X0_HEN_DOR,,,,,0,0
+78710,Creature,Dorna Trapspringer,"In other words, you got lazy and complacent, so now you are suffering for not spending more time helping the suffering. I love irony.","다시 말해 네가 게으르고 안일해져서, 고통받는 이들을 돕는 데 시간을 덜 쓴 대가를 지금 치르고 있다는 소리네. 아이러니야.",X0_HEN_DOR,,,,,0,0
+78712,Creature,Dorna Trapspringer,Last month this prophet told me that my future was carved in stone and even a hard heart could not prepare me. Let us not linger near him long.,지난달 그 예언자가 내 미래는 돌에 새겨졌고 아무리 단단한 마음으로도 대비할 수 없다고 하더군. 그 곁에 너무 오래 머물진 말자.,X0_HEN_DOR,,,,,0,0
+78714,Creature,Dorna Trapspringer,Impure thoughts? That's not what the tavern gossip says.,불경한 생각? 술집의 소문엔 그렇지 않던데.,X0_HEN_DOR,,,,,0,0
+78717,Creature,Dorna Trapspringer,They left by the gate? It somehow seems wrong that they would savage the town and then leave politely by the front door.,"성문으로 떠났다고? 마을을 유린해 놓고는 정문으로 공손히 나간다니, 뭔가 앞뒤가 안 맞는데.",X0_HEN_DOR,,,,,0,0
+78718,Creature,Dorna Trapspringer,"<FirstName> is full of all kinds of bravado, never worry.","<FirstName>는 배짱으로 가득하니까, 걱정은 붙들어 매.",X0_HEN_DOR,,,,,0,0
+78720,Creature,Dorna Trapspringer,"Hmm. Are you a true fortune-teller, then? Or a fake? Because if you're a fake I'll be quite disappointed.",흠. 그럼 진짜 점쟁이인가? 아님 가짜? 가짜라면 꽤 실망할 텐데.,X0_HEN_DOR,,,,,0,0
+78722,Creature,Dorna Trapspringer,That's what they all say. I hate that.,다들 그렇게 말하지. 정말 질려.,X0_HEN_DOR,,,,,0,0
+78729,Creature,Dorna Trapspringer,Better that than trying to kill you.,널 죽이려 드는 것보단 그게 낫지.,X0_HEN_DOR,,,,,0,0
+78733,Creature,Dorna Trapspringer,I've heard mention of this caravan. Master Drogan said these halflings come through here on a regular basis and have for many years.,이 캐러밴에 대한 얘긴 들었어. 드로건 스승님이 말하시길 이 하플링들은 수년째 정기적으로 여기로 지나간다고 했지.,X0_HEN_DOR,,,,,0,0
+78734,Creature,Dorna Trapspringer,"I wonder if there's a reward in it for us? What do you think, <FirstName>?","우리에게 보상이 있을까? 넌 어떻게 생각해, <FirstName>?",X0_HEN_DOR,,,,,0,0
+78737,Creature,Dorna Trapspringer,"That is a lot of gold, but should we really do this, <FirstName>?","금화가 참 많긴 한데, 정말 이걸 해야 할까, <FirstName>?",X0_HEN_DOR,,,,,0,0
+78738,Creature,Dorna Trapspringer,"I only ask because we might have need of the powers of the hand later. It is a large sum of money though, so I don't blame you if you do sell it.","나중에 그 손의 힘이 필요할지도 몰라서 묻는 거야. 물론 돈이 큰 건 사실이니, 팔아도 널 탓하진 않을게.",X0_HEN_DOR,,,,,0,0
+78745,Creature,Dorna Trapspringer,That was a great sacrifice. I well know how one comes to the point where a principle is more important than loyalty.,대단한 희생이었어. 원칙이 충성보다 더 중요해지는 순간이 있다는 걸 잘 알지.,X0_HEN_DOR,,,,,0,0
+78747,Creature,Dorna Trapspringer,Giant spiders? There had better be a great reward for fighting them.,거대 거미? 상대해야 한다면 그만한 보상이 있어야겠지.,X0_HEN_DOR,,,,,0,0
+78752,Creature,Dorna Trapspringer,<StartAction>[Whispers to you.]</Start> Choose your words carefully and we could walk out of here without a fight.,<StartAction>[작게 속삭임]</Start> 말을 잘 골라. 싸움 없이 여기서 나갈 수도 있어.,X0_HEN_DOR,,,,,0,0
+78753,Creature,Dorna Trapspringer,"Their eyes gleam with intelligence, but their mouths prove the eyes wrong.","눈빛은 총명해 보이지만, 입을 열면 그 눈이 틀렸다는 걸 증명하네.",X0_HEN_DOR,,,,,0,0
+78757,Creature,Dorna Trapspringer,"No... no, I can't let you do this, <FirstName>. Hilltop is fine, all of you... go there and they will surely give you safe haven. <FirstName> is... mistaken.","안 돼... 안 돼, 이렇게 둘 수 없어, <FirstName>. 힐탑은 괜찮아, 다들... 거기에 가면 분명히 피난처를 줄 거야. <FirstName>... 잘못 생각하고 있어.",X0_HEN_DOR,,,,,0,0
+78762,Creature,Dorna Trapspringer,So these are the last survivors of Blumberg. How very sad.,저들이 블럼버그의 마지막 생존자들이군. 정말 안쓰럽네.,X0_HEN_DOR,,,,,0,0
+78764,Creature,Dorna Trapspringer,"Oh, come now, <FirstName>. Surely we can let these poor people free, at least.","아, 그러지 말자, <FirstName>. 적어도 이 불쌍한 사람들은 풀어 주자.",X0_HEN_DOR,,,,,0,0
+78765,Creature,Dorna Trapspringer,"Well, that's new, at least. I wonder if we can negotiate with him?","오, 그건 또 새로운데. 그와 협상할 수 있을까?",X0_HEN_DOR,,,,,0,0
+78769,Creature,Dorna Trapspringer,"Oh, let's kill him, <FirstName>. Please.","아, 저 자를 베어 버리자, <FirstName>. 제발.",X0_HEN_DOR,,,,,0,0
+78771,Creature,Dorna Trapspringer,This J'Nah... she is a gnoll? That doesn't sound like a very gnoll-ish name.,그 즈나...가 놀이라고? 놀치고는 이름이 별로 놀답지 않은데.,X0_HEN_DOR,,,,,0,0
+78772,Creature,Dorna Trapspringer,There are ruins beneath these caves? How interesting. Perhaps this J'Nah came here for the ruins and these gnolls were just incidental to her plan?,"이 동굴 아래에 폐허가 있다고? 흥미로운데. 아마 즈나는 그 유적 때문에 온 거고, 이 놀들은 그녀의 계획에 곁다리였을지도?",X0_HEN_DOR,,,,,0,0
+78775,Creature,Dorna Trapspringer,"Smells like an elf but isn't one? A drow, perhaps? One would think even a gnoll could recognize a drow, however. How odd.",엘프 냄새가 나는데 엘프가 아니다? 드로우일까? 그래도 놀이라도 드로우는 알아볼 텐데. 이상하네.,X0_HEN_DOR,,,,,0,0
+78776,Creature,Dorna Trapspringer,So this J'Nah has one of the artifacts for certain. That is good to know.,그럼 즈나가 유물 하나를 갖고 있는 건 확실하군. 알아 둬야지.,X0_HEN_DOR,,,,,0,0
+78778,Creature,Dorna Trapspringer,I hope you didn't actually think you were fooling anyone.,정말로 속일 수 있을 거라 생각한 건 아니겠지.,X0_HEN_DOR,,,,,0,0
+78780,Creature,Dorna Trapspringer,"But we're not the gnolls, obviously. Why lie to us?",하지만 우린 놀들이 아니잖아. 왜 우리에게 거짓말을 하지?,X0_HEN_DOR,,,,,0,0
+78782,Creature,Dorna Trapspringer,You thought we were with the gnolls? Now that's just rich.,우리가 놀 편이라고 생각했다고? 웃기는 소리네.,X0_HEN_DOR,,,,,0,0
+78784,Creature,Dorna Trapspringer,"So... you want them to help us fight the chieftain, <FirstName>? And that's supposed to be helpful? Well, I suppose we'll see.","그러니까... 족장을 상대하는 데 저들을 돕게 하자는 거야, <FirstName>? 그게 도움이 될까? 뭐, 두고 보지.",X0_HEN_DOR,,,,,0,0
+78787,Creature,Dorna Trapspringer,<StartAction>[Snicker]</Start> Now there's an interesting proposal!,<StartAction>[피식]</Start> 제법 흥미로운 제안이네!,X0_HEN_DOR,,,,,0,0
+78790,Creature,Dorna Trapspringer,"Now we are fighting dragons? What do you think you are getting me into, <FirstName>? Of course, if we can survive... just think of the rewards.","이젠 용과 싸우자는 거야? 나를 어디까지 끌고 가려는 거야, <FirstName>? 물론 살아남는다면... 보상은 상상해 봐.",X0_HEN_DOR,,,,,0,0
+78791,Creature,Dorna Trapspringer,"<StartAction>[Whispers to you.]</Start> Ah, <FirstName>, I have a bad feeling about this. Watch her eyes; she has the fire of a demon burning in them, indeed.","<StartAction>[작게 속삭임]</Start> 아, <FirstName>, 느낌이 안 좋아. 저 여자의 눈을 봐. 악마의 불길이 타고 있어, 정말로.",X0_HEN_DOR,,,,,0,0
+78793,Creature,Dorna Trapspringer,Now this is a sight I just have to see. We have got to help this little fellow. ,이건 꼭 봐야겠는걸. 저 작은 친구를 도와줘야 해.,X0_HEN_DOR,,,,,0,0
+78795,Creature,Dorna Trapspringer,This is going to be good!,재밌어지겠는데!,X0_HEN_DOR,,,,,0,0
+78797,Creature,Dorna Trapspringer,"That's rather noble of you, <FirstName>. If this creature keeps its word, Hilltop could be safe for a very long time.","꽤 고상하네, <FirstName>. 저 괴물이 약속을 지킨다면 힐탑은 아주 오랫동안 안전하겠지.",X0_HEN_DOR,,,,,0,0
+78800,Creature,Dorna Trapspringer,"Bargaining with a dragon, <FirstName>? Your call.","용과 흥정이라고, <FirstName>? 네 판단에 맡길게.",X0_HEN_DOR,,,,,0,0
+78805,Creature,Dorna Trapspringer,"A rather interesting justification for your betrayal, dragon. Not that I object. Indeed, it's only too bad the two of you haven't killed each other already.","배신의 변명치고는 꽤 흥미롭군, 용. 뭐, 내가 반대하는 건 아니야. 차라리 너희 둘이 벌써 서로를 죽였으면 더 좋았겠지만.",X0_HEN_DOR,,,,,0,0
+78807,Creature,Dorna Trapspringer,"<He/She> is not my <master/mistress>, dragon. We are comrades, and I'll speak as often as I wish.","<He/She>는 내 주인이 아니야, 용. 우리는 동지야, 그리고 난 하고 싶은 만큼 말할 거야.",X0_HEN_DOR,,,,,0,0
+78813,Creature,Dorna Trapspringer,"Not much has changed, as far as I can see.",내가 보기엔 별로 달라진 게 없네.,X0_HEN_DOR,,,,,0,0
+78815,Creature,Dorna Trapspringer,"If you wish. I refuse to be intimidated by you, lizard.",원한다면. 하지만 난 너 따위 도마뱀에게 겁먹지 않아.,X0_HEN_DOR,,,,,0,0
+78819,Creature,Dorna Trapspringer,"He's got you there, <FirstName>.","거기선 네가 할 말 없지, <FirstName>.",X0_HEN_DOR,,,,,0,0
+78820,Creature,Dorna Trapspringer,That's probably an understatement.,아마도 그건 좋게 말한 편일 거야.,X0_HEN_DOR,,,,,0,0
+78822,Creature,Dorna Trapspringer,At least until you get there.,적어도 네가 거기 도착하기 전까진.,X0_HEN_DOR,,,,,0,0
+78825,Creature,Dorna Trapspringer,That conjures a really strange image. I don't know why.,정말 이상한 그림이 떠오르네. 왜인지 모르겠지만.,X0_HEN_DOR,,,,,0,0
+78827,Creature,Dorna Trapspringer,"Hey! Standing right here. We don't need his help, you know.",야! 나 여기 서 있거든. 우리에겐 저자의 도움이 필요 없어.,X0_HEN_DOR,,,,,0,0
+78829,Creature,Dorna Trapspringer,"Damn. I was hoping that would be a quick way out for us, here.",제길. 여기서 빠져나갈 쉬운 길이길 바랐는데.,X0_HEN_DOR,,,,,0,0
+78831,Creature,Dorna Trapspringer,"Well, you have to give him credit where it's due. He's not as dumb as most kobolds.",그래도 인정할 건 인정하자. 대부분의 코볼트만큼 멍청하진 않네.,X0_HEN_DOR,,,,,0,0
+78833,Creature,Dorna Trapspringer,"I think the little reptile is actually blackmailing us, <FirstName>.","저 작은 파충류가 우리를 사실상 협박하는 것 같은데, <FirstName>.",X0_HEN_DOR,,,,,0,0
+78834,Creature,Dorna Trapspringer,You broke the statue? Is that even possible? Will you give it to us?,네가 그 조각상을 부쉈다고? 그게 가능하기나 해? 우리에게 줄 거야?,X0_HEN_DOR,,,,,0,0
+78838,Creature,Dorna Trapspringer,"Well, he has a point there. I've always thought kobolds were more dog-like, myself. All that yapping and so forth.","뭐, 그 말엔 일리가 있지. 난 늘 코볼트가 개 쪽에 가깝다고 생각했거든. 그 끊임없는 짖어댐 같은 거 말이야.",X0_HEN_DOR,,,,,0,0
+78840,Creature,Dorna Trapspringer,Dragons are greedy. I would still like to know how he even found out about them.,용은 탐욕스러워. 그런데 그가 그런 걸 어떻게 알았는지는 아직도 의문이야.,X0_HEN_DOR,,,,,0,0
+78841,Creature,Dorna Trapspringer,"I'm not so certain your master would listen as <FirstName> tells him a two-day lullaby, that's for sure.",네 주인이 <FirstName>가 이틀짜리 자장가를 불러도 들어줄지는 잘 모르겠네.,X0_HEN_DOR,,,,,0,0
+78844,Creature,Dorna Trapspringer,So you are some kind of jester kobold? How interesting. That doesn't explain why you're here.,그럼 넌 광대 같은 코볼트라는 거야? 흥미롭네. 그렇다고 네가 여기 있는 이유가 설명되진 않지만.,X0_HEN_DOR,,,,,0,0
+78846,Creature,Dorna Trapspringer,By the gods! It's... a kobold. And it apparently wants to talk to us.,신들이시여! 이건... 코볼트잖아. 게다가 우리와 대화하길 원하나 봐.,X0_HEN_DOR,,,,,0,0
+78848,Creature,Dorna Trapspringer,"And you didn't give the gnolls any help here, I suppose?","그리고 여기서는 놀들을 안 도와줬다는 거지, 그렇지?",X0_HEN_DOR,,,,,0,0
+78850,Creature,Dorna Trapspringer,"If it was the only way to keep you quiet, even I might be willing to give it a try.","너 입 다물게 하는 유일한 방법이라면, 나도 시도해 볼 용의가 있어.",X0_HEN_DOR,,,,,0,0
+78856,Creature,Dorna Trapspringer,"A hermit in the middle of nowhere, selling powerful magic items? This seems more than a little strange.",아무데도 아닌 곳의 은자가 강력한 마법 물건을 판다고? 수상쩍은데도 한참 수상해.,X0_HEN_DOR,,,,,0,0
+78859,Creature,Dorna Trapspringer,"Well, I suppose that might be true.","글쎄, 그럴 수도 있겠지.",X0_HEN_DOR,,,,,0,0
+78903,Creature,Dorna Trapspringer,"We have found ourselves an ally, it would seem. A wise choice, <FirstName>.","아군을 하나 얻은 셈이야. 현명한 선택이야, <FirstName>.",X0_HEN_DOR,,,,,0,0
+78917,Creature,Dorna Trapspringer,"If I ever free myself from this collar, I shall make no small effort in hunting you down and staking you out in the middle of the desert.","이 목고리에서 언젠가 벗어나면, 널 찾아 사막 한가운데 말뚝에 묶어 놓는 데 꽤나 공을 들이겠어.",X0_HEN_DOR,,,,,0,0
+78939,Creature,Dorna Trapspringer,"Take a handful of sand and squeeze it tightly and you shall see what comes to tyrants in the desert. When you relax your fist to view what you hold, there will be nothing left but a speck of dust.","모래 한 줌을 움켜쥐어 봐. 사막에서 폭군이 겪을 일이 무엇인지 알게 될 거야. 손을 펴고 네가 쥔 걸 보려 하면, 남는 건 티끌 한 점뿐일 테니까.",X0_HEN_DOR,,,,,0,0
+78950,Creature,Dorna Trapspringer,We will need no more assistance than access to supplies. This time she shall not take us by surprise.,보급품에 접근만 할 수 있으면 더는 도움이 필요 없어. 이번엔 그녀에게 기습당하지 않을 거야.,X0_HEN_DOR,,,,,0,0
+78974,Creature,Dorna Trapspringer,And do these plans include me?,그 계획에 나도 포함돼?,X0_HEN_DOR,,,,,0,0
+78976,Creature,Dorna Trapspringer,Not all dwarves are miners! That would be like me saying that all lizards lay around in the sun all day.,모든 드워프가 광부는 아니거든! 그건 마치 모든 도마뱀이 하루 종일 햇볕 아래 빈둥거린다고 말하는 거랑 같아.,X0_HEN_DOR,,,,,0,0
+78999,Creature,Dorna Trapspringer,"Take a handful of sand and squeeze it tightly and you shall see what comes to tyrants in the desert. When you relax your fist to view what you hold, there will be nothing left but a speck of dust.","모래 한 줌을 움켜쥐어 봐. 사막에서 폭군이 겪을 일이 무엇인지 알게 될 거야. 손을 펴고 네가 쥔 걸 보려 하면, 남는 건 티끌 한 점뿐일 테니까.",X0_HEN_DOR,,,,,0,0
+79012,Creature,Dorna Trapspringer,We will need no more assistance than access to supplies. This time she shall not take us by surprise.,보급품에 접근만 할 수 있으면 더는 도움이 필요 없어. 이번엔 그녀에게 기습당하지 않을 거야.,X0_HEN_DOR,,,,,0,0
+79148,Creature,Dorna Trapspringer,"I say we kill the medusa, grab as much loot as we can and get out of this city before we are killed!",난 메두사를 죽이고 챙길 수 있는 전리품을 최대한 챙겨서 우리가 죽기 전에 이 도시를 떠나자고 본다!,X0_HEN_DOR,,,,,0,0
+79170,Creature,Dorna Trapspringer,"If you need to be able to get into a room quickly, you don't keep the keys spread across a city. That seems awfully foolish for such a powerful society.",급히 방에 들어가야 한다면 열쇠를 도시 전역에 뿔뿔이 흩어 놓진 않지. 그렇게 강력한 사회가 그리 어리석을 리가 없어.,X0_HEN_DOR,,,,,0,0
+79172,Creature,Dorna Trapspringer,"Well, that would make getting around a lot easier. Just imagine the things you could steal if you could just sneak in, then teleport out once you had the goods. You are saying they could do things like that?","그렇다면 이동은 훨씬 쉬워지겠네. 조용히 잠입해서 물건만 손에 넣으면 바로 순간이동으로 빠져나올 수 있다면, 훔칠 수 있는 게 얼마나 많겠어. 그런 짓을 할 수 있었다는 얘기야?",X0_HEN_DOR,,,,,0,0
+79180,Creature,Dorna Trapspringer,You mean that snaky bitch?,그 뱀 같은 여자 말이지?,X0_HEN_DOR,,,,,0,0
+79186,Creature,Dorna Trapspringer,"We know plenty about schools, it is where we have just spent a good portion of our lives.",학교에 관해선 잘 알아. 우리도 막 그곳에서 꽤 긴 시간을 보냈거든.,X0_HEN_DOR,,,,,0,0
+79188,Creature,Dorna Trapspringer,You don't have to be sarcastic and rude.,그렇게 빈정대고 무례할 필요는 없어.,X0_HEN_DOR,,,,,0,0
+79197,Creature,Dorna Trapspringer,"You mean that snaky bitch, Heurodis?","그 뱀 같은 여자, 헤우로디스 말이지?",X0_HEN_DOR,,,,,0,0
+79199,Creature,Dorna Trapspringer,How would you like me to cut off your tail?,내가 네 꼬리를 잘라내면 기분이 어떨까?,X0_HEN_DOR,,,,,0,0
+79208,Creature,Dorna Trapspringer,I'll bet that hurt.,저건 꽤 아팠겠지.,X0_HEN_DOR,,,,,0,0
+79275,Creature,Dorna Trapspringer,Can you see me holding your severed head in my hand?,내 손에 네 잘린 머리를 들고 있는 모습이 보이니?,X0_HEN_DOR,,,,,0,0
+79292,Creature,Dorna Trapspringer,Can you see me holding your severed head in my hand?,내 손에 네 잘린 머리를 들고 있는 모습이 보이니?,X0_HEN_DOR,,,,,0,0
+79323,Creature,Dorna Trapspringer,That explains much.,그렇다면 여러모로 설명이 되네.,X0_HEN_DOR,,,,,0,0
+79354,Creature,Dorna Trapspringer,"You are only as helpless as you allow yourself to be. Even trapped in stone, I never gave up!",무력함은 네가 허락하는 만큼만이야. 돌로 갇혀 있으면서도 난 포기하지 않았어!,X0_HEN_DOR,,,,,0,0
+79432,Creature,Dorna Trapspringer,That would make it difficult to steal. I don't think I like that idea so much.,그러면 훔치기 어렵겠군. 그 생각은 별로 마음에 안 들어.,X0_HEN_DOR,,,,,0,0
+79452,Creature,Dorna Trapspringer,"Then all we need to do is creep up there, surprise her and hack off her snaky head.","그럼 우리가 할 일은 몰래 올라가서 기습하고, 뱀 머리통을 베어 오는 것뿐이네.",X0_HEN_DOR,,,,,0,0
+80389,Creature,Dorna Trapspringer,"They say that the Anauroch is nothing more than the corpse of the Empire buried under the sand of time. There have been great wonders unearthed here, <FirstName>, trust me.","아나우록은 시간의 모래 아래 묻힌 제국의 시체일 뿐이라고들 하지. 여기서도 위대한 유물들이 파묻혀 나왔어, <FirstName>. 날 믿어.",X0_HEN_DOR,,,,,0,0
+80400,Creature,Dorna Trapspringer,"I've read of those. It's said that the Netherese took the tops from whole mountains and made them fly, and it was on those that the cities were built.","그건 읽은 적 있어. 네더릴인들이 산의 꼭대기째로 들어 올려 날게 만들고, 그 위에 도시를 세웠다고들 하지.",X0_HEN_DOR,,,,,0,0
+80410,Creature,Dorna Trapspringer,"Hmmm. I wonder if that has anything to do with the tower statue. That's where the crystal was, after all.",흠. 그게 탑 조각상과 관련이 있을까? 어쨌든 수정이 거기 있었잖아.,X0_HEN_DOR,,,,,0,0
+80416,Creature,Dorna Trapspringer,"I'm almost hesitant to ask... but is it possible for others to get a reading, as well?",물어보기 좀 망설여지는데... 다른 사람들도 점을 볼 수 있어?,X0_HEN_DOR,,,,,0,0
+80418,Creature,Dorna Trapspringer,Why would you say that? Is there something you already know about my future?,왜 그렇게 말하지? 내 미래에 대해 뭔가 알고 있는 거야?,X0_HEN_DOR,,,,,0,0
+80420,Creature,Dorna Trapspringer,"Actually, come to think of it, I'd rather not know. If there's sadness to come, I don't want to stand around wondering what I could do to stop it. Thank you anyhow.","가만히 생각해 보니, 차라리 모르는 게 낫겠어. 슬픈 일이 올 거라면, 그걸 막으려고 서성이고 싶진 않아. 어쨌든 고마워.",X0_HEN_DOR,,,,,0,0
+80531,Creature,Dorna Trapspringer,Just exchanging trade secrets. Nothing more than that.,그냥 서로 비법을 주고받았을 뿐이야. 그 이상도 이하도 아니지.,X0_HEN_DOR,,,,,0,0
+80533,Creature,Dorna Trapspringer,"I did have to threaten to break all of his fingers once. He's been a perfect gentleman ever since, I assure you.","한 번은 손가락을 모조리 분질러 버리겠다고 협박해야 했지. 그 뒤로는 완벽한 신사더라, 장담해.",X0_HEN_DOR,,,,,0,0
+80563,Creature,Dorna Trapspringer,You mean like chasing after poisonous creatures into their own lair in the middle of an unfamiliar desert?,낯선 사막 한가운데서 독성 생명체들의 소굴을 쫓아가는 짓... 그런 걸 말하는 건가?,X0_HEN_DOR,,,,,0,0
+80596,Creature,Dorna Trapspringer,"Master Drogan said he knew this man Garrick, so we'll have to trust that he knows best.",드로건 스승님이 그 가릭을 안다고 하셨지. 스승님 말이라면 믿어야 해.,X0_HEN_DOR,,,,,0,0
+80649,Creature,Dorna Trapspringer,"When did I become invisible? <FirstName> wasn't the only one there, you know.",내가 언제 투명 인간이 됐지? <FirstName>만 거기 있었던 게 아니거든.,X0_HEN_DOR,,,,,0,0
+80746,Creature,Dorna Trapspringer,"You're too kind, Torias.","너무 친절하네, 토리아스.",X0_HEN_DOR,,,,,0,0
+80748,Creature,Dorna Trapspringer,I take it back.,취소할게.,X0_HEN_DOR,,,,,0,0
+80793,Creature,Dorna Trapspringer,Then it is fortunate we came when we did. You are a lucky man.,우리가 제때 와서 다행이군. 운이 좋았어.,X0_HEN_DOR,,,,,0,0
+80802,Creature,Dorna Trapspringer,"I don't mind lifting a few coins now and then from those who can spare it, but <FirstName>... really, isn't this beneath you?","넉넉한 이들한테서 동전 좀 슬쩍하는 건 괜찮지만, <FirstName>... 정말, 이건 네 체면에 안 맞지 않아?",X0_HEN_DOR,,,,,0,0
+80809,Creature,Dorna Trapspringer,"It appears they worship Talona, the goddess of poison. I can't imagine her methods of sacrifice are exactly... pleasant.",저들은 독의 여신 탈로나를 섬기는 것 같아. 제의 방식이... 유쾌할 리는 없겠지.,X0_HEN_DOR,,,,,0,0
+80852,Creature,Dorna Trapspringer,"I promise, if you continue to make rude comments about me, you will find out just how much worse a dwarf can be.","나에 대해 무례한 소리를 계속하면, 드워프가 얼마나 더 무서워질 수 있는지 보여 주지.",X0_HEN_DOR,,,,,0,0
+80873,Creature,Dorna Trapspringer,You wouldn't believe the number of blows <FirstName> takes to the head every day. Really it is a wonder <he/she> can remember not to drool most of the time.,"<FirstName>(이)가 하루에도 머리를 몇 대나 맞는지 믿을수 있겠어? 대단하지, 대부분의 시간에 침 안 흘리고 버티는 게.",X0_HEN_DOR,,,,,0,0
+80890,Creature,Dorna Trapspringer,That is a poor excuse for being tightfisted. Surely you could just... lend us some magical artifacts?,쪼잔한 변명은 그만하지. 차라리... 마법 아이템을 몇 개 빌려 줄 순 없나?,X0_HEN_DOR,,,,,0,0
+80907,Creature,Dorna Trapspringer,It doesn't seem that difficult to predict that others might become upset when your beasts of burden empty their bladders in their water hole.,"짐수레 짐승들이 너희 물웅덩이에 오줌을 싸면, 다른 이들이 화낼 거란 예측은 그리 어렵지 않지.",X0_HEN_DOR,,,,,0,0
+80950,Creature,Dorna Trapspringer,"Hey, Torias, I think I found a bottle of wine!","이봐, 토리아스. 와인 한 병 찾은 것 같은데!",X0_HEN_DOR,,,,,0,0
+80952,Creature,Dorna Trapspringer,"Oh dear, I was wrong. It's just a dried-out, useless halfling sot.","세상에, 착각이었네. 그냥 말라빠진 하플링 주정뱅이였어.",X0_HEN_DOR,,,,,0,0
+80958,Creature,Dorna Trapspringer,"Torias, you aren't terribly funny when you are sober.","토리아스, 맨정신일 때 너, 별로 웃기지 않아.",X0_HEN_DOR,,,,,0,0
+81016,Creature,Dorna Trapspringer,"A weapon against the undead? I bet Katriana would pay handsomely for it! If you do not find it useful, <FirstName>, perhaps we should...","언데드에 맞서는 무기라고? 카트리아나는 분명히 큰돈을 줄걸! 네게 쓸모 없다면, <FirstName>, 우리...",X0_HEN_DOR,,,,,0,0
+81019,Creature,Dorna Trapspringer,Now we get to the crux of the situation... what do we get besides water?,이제 문제의 핵심으로 가자... 물 말고 우린 뭘 받지?,X0_HEN_DOR,,,,,0,0
+81041,Creature,Dorna Trapspringer,"A weapon against the undead? I bet Katriana would pay handsomely for it! If you do not find it useful, <FirstName>, perhaps we should...","언데드에 맞서는 무기라고? 카트리아나는 분명히 큰돈을 줄걸! 네게 쓸모 없다면, <FirstName>, 우리...",X0_HEN_DOR,,,,,0,0
+81069,Creature,Dorna Trapspringer,"Many creatures have the ability to nullify the powers of a rogue, yet this doesn't stop me from doing what I know I must.","많은 존재들이 도적의 장점을 무력화할 수 있지만, 그래도 난 해야 할 일을 해.",X0_HEN_DOR,,,,,0,0
+81090,Creature,Dorna Trapspringer,An undead priest? Then this is a creature that cannot be turned!,언데드 사제? 그럼 '퇴치'가 통하지 않는 괴물이군!,X0_HEN_DOR,,,,,0,0
+81098,Creature,Dorna Trapspringer,Powerful creatures usually collect powerful items. This could be a good opportunity for us.,강한 존재는 대개 강한 물건을 모으지. 우리에겐 좋은 기회일 수도 있어.,X0_HEN_DOR,,,,,0,0
+81125,Creature,Dorna Trapspringer,"This is hardly a difficult choice, <FirstName>. Let us destroy the rod and collect the reward. We can always use more healing.","어렵게 생각할 필요 없어, <FirstName>. 지팡이를 파괴하고 보상을 받자. 치유 물자가 많을수록 좋으니까.",X0_HEN_DOR,,,,,0,0
+81131,Creature,Dorna Trapspringer,"It was our pleasure. There was much looting of the evil temple, I am proud to say!","기꺼이 한 일이야. 사악한 신전에서 털어 올 것도 많았고, 자랑스럽다니까!",X0_HEN_DOR,,,,,0,0
+81286,Creature,Dorna Trapspringer,There are... certain individuals I have held in contempt. I do not think there is such a great difference between the two.,경멸해 온 사람들이... 몇 있지. 둘 사이에 그리 큰 차이가 있다고는 생각하지 않아.,X0_HEN_DOR,,,,,0,0
+81297,Creature,Dorna Trapspringer,"Most people who serve others and then betray them, are soon betrayed themselves. You should have learned that lesson already Kel Garas.","남을 섬기다 배신한 자는, 곧 자신도 배신당해. 벌써 배웠어야지, 켈 가라스.",X0_HEN_DOR,,,,,0,0
+81299,Creature,Dorna Trapspringer,I am not <his/her> servant!,난 하인이 아니야!,X0_HEN_DOR,,,,,0,0
+81310,Creature,Dorna Trapspringer,But what will this creature trade for his eternal soul? That is what I am wondering.,그런데 저것이 영혼을 대가로 무엇을 내놓겠지? 그게 궁금하군.,X0_HEN_DOR,,,,,0,0
+81340,Creature,Dorna Trapspringer,"Like the ultimate thief, I would say. Still, this gives me an uneasy feeling. Please choose carefully.","궁극의 도둑 짓 같네, 한마디로. 그래도 영 찜찜해. 제발 신중히 선택해.",X0_HEN_DOR,,,,,0,0
+81361,Creature,Dorna Trapspringer,There lies the difference between us. I would never have hurt Master Drogan.,그게 우리와의 차이야. 난 드로건 스승님을 다치게 하진 않았을 거야.,X0_HEN_DOR,,,,,0,0
+81369,Creature,Dorna Trapspringer,I do not see the profit in ruling over the dead. Of what use is an empty world?,죽은 것들을 지배해서 무슨 이익이 있지? 텅 빈 세상이 무슨 소용이야?,X0_HEN_DOR,,,,,0,0
+81546,Creature,Dorna Trapspringer,Sort of like a little protection scheme you have then?,일종의 보호비 장사를 하는 셈인가 보군?,X0_HEN_DOR,,,,,0,0
+81548,Creature,Dorna Trapspringer,And who are you going to say you are protecting them from?,그럼 누구로부터 보호해 준다는 명목으로 걷을 건데?,X0_HEN_DOR,,,,,0,0
+81579,Creature,Dorna Trapspringer,"He has a good point, <FirstName>. There is no real reason to get angry at him for having good business sense.","일리가 있어, <FirstName>. 장사 수완 있다고 화낼 일은 아니지.",X0_HEN_DOR,,,,,0,0
+81595,Creature,Dorna Trapspringer,"Now that has a certain ring to it, doesn't it. A scrounger... well, conjours up images anyways.","어감이 있네, 그 말. '스캐빈저'... 뭐, 그림은 그려지잖아.",X0_HEN_DOR,,,,,0,0
+81599,Creature,Dorna Trapspringer,"I do not care for your sense of humor, hobgoblin. Control your tongue or I shall be forced to remove it.","네 유머는 마음에 안 드는군, 홉고블린. 혀를 제어해. 아니면 내가 떼어 내 줄 테니.",X0_HEN_DOR,,,,,0,0
+81601,Creature,Dorna Trapspringer,"Hmph, and I should be mollified by that? I am not so easy.","흥, 그걸로 내가 달랠 거라 생각해? 난 그렇게 만만하지 않아.",X0_HEN_DOR,,,,,0,0
+81846,Creature,Dorna Trapspringer,I know that the males and females cannot be even in number. I am pretty sure that there are more males than females.,수컷과 암컷 수가 같을 수는 없어. 아마 수컷이 더 많을 거라 확신해.,X0_HEN_DOR,,,,,0,0
+81854,Creature,Dorna Trapspringer,The answer is fire. Drinking would not kill the others.,정답은 불이야. 마시는 걸로는 다른 놈들이 죽지 않지.,X0_HEN_DOR,,,,,0,0
+82007,Creature,Dorna Trapspringer,An army of these creatures for our own use. That ought to help us fight these bloody slaadi.,"이 괴물들로 군대를 꾸릴 수 있다면, 피비린내 나는 슬라아드 상대에 큰 도움이 되겠군.",X0_HEN_DOR,,,,,0,0
+82015,Creature,Dorna Trapspringer,"She says she likes me, so she has included me. What a strange feeling, to have someone in your mind, stealing your thoughts.",나를 마음에 든다고 하면서 끼워 넣었대. 누군가가 내 머릿속에 들어와 생각을 훔쳐 가는 느낌... 정말 기묘하네.,X0_HEN_DOR,,,,,0,0
+82037,Creature,Dorna Trapspringer,"I am. And you shall pay for what you have done this day, foul witch!","그래. 그리고 오늘 네 짓의 대가를 치르게 될 거다, 더러운 마녀!",X0_HEN_DOR,,,,,0,0
+82095,Creature,Dorna Trapspringer,I am eager to leave this caravan behind. Let's just call it even and part ways.,난 이 캐러밴에서 하루라도 빨리 벗어나고 싶어. 빚은 여기서 끝내고 각자 길을 가자.,X0_HEN_DOR,,,,,0,0
+82097,Creature,Dorna Trapspringer,"You know about... I mean, I have no idea what you are talking about.","너 그걸... 아니, 무슨 말인지 전혀 모르겠는데.",X0_HEN_DOR,,,,,0,0
+82103,Creature,Dorna Trapspringer,"Thank you, Katriana. Though I am pleased to be leaving now, I would not have cared to make this journey without your assistance.","고마워, 카트리아나. 어차피 떠나게 되어 기쁘지만, 네 도움이 없었다면 이 길을 가고 싶진 않았을 거야.",X0_HEN_DOR,,,,,0,0
+82105,Creature,Dorna Trapspringer,"My only complaint... next time, please hire someone other than a kobold to do the cooking. Last night was...",딱 하나 불만... 다음엔 요리는 코볼트 말고 다른 걸 시켜 줘. 어젯밤은 정말...,X0_HEN_DOR,,,,,0,0
+82137,Creature,Dorna Trapspringer,"Oh, good grief, <FirstName>. Are you joking? Don't we have better things to do?","아, 제발, <FirstName>. 농담이야? 우리 지금 할 일이 산더미잖아.",X0_HEN_DOR,,,,,0,0
+82154,Creature,Dorna Trapspringer,"Yes, how selfish of them to expect their beliefs be upheld within their own camp. Hmph.","그래, 자기들 진영에선 자기들 신념을 지키라고 기대하는 게 얼마나 이기적인가. 흠.",X0_HEN_DOR,,,,,0,0
+82273,Creature,Dorna Trapspringer,Why do they call it the Valley of Winds? Any particular reason?,왜 '바람의 계곡'이라고 부르는 거지? 특별한 이유라도?,X0_HEN_DOR,,,,,0,0
+82275,Creature,Dorna Trapspringer,Now don't I feel like the smartest dwarf around? <StartAction>[Sigh.]</Start> Go on.,이제 내가 세상에서 제일 똑똑한 드워프라도 된 기분이네? <StartAction>[한숨]</Start> 계속해.,X0_HEN_DOR,,,,,0,0
+82496,Creature,Dorna Trapspringer,"Think of all that treasure just... sitting there, waiting for someone to help themselves to it!",그 모든 보물들이... 그냥 앉아서 누군가 가져가 주길 기다리고 있다고 생각해 봐!,X0_HEN_DOR,,,,,0,0
+82499,Creature,Dorna Trapspringer,It is a wonder that Deekin didn't break it and destroy us all. Thank Vergadain for small favors.,디킨이 그걸 안 부숴서 우리 전부를 날려 버리지 않은 게 신기할 지경이야. 사소한 은총이라도 베풀어 준 베르가데인께 감사를.,X0_HEN_DOR,,,,,0,0
+82502,Creature,Dorna Trapspringer,Apparently this one has not recovered mentally from his injuries. We might have to let him rest a while longer.,이 친구는 아직 머리가 덜 돌아온 것 같네. 좀 더 쉬게 두자.,X0_HEN_DOR,,,,,0,0
+82605,Creature,Dorna Trapspringer,"Share his profits? Ha, ha, ha... eh... well what kind of reaction do you expect from the hobgoblin?",수익을 나누자고? 하하하... 에... 그럼 홉고블린이 뭐라고 반응하길 기대했어?,X0_HEN_DOR,,,,,0,0
+82633,Creature,Dorna Trapspringer,"Yes, for a hobgoblin he actually seems quite likeable. I never thought to hear such words coming from my mouth.","그래, 홉고블린치곤 꽤 괜찮아 보이네. 이런 말을 내가 하게 될 줄은 몰랐지만.",X0_HEN_DOR,,,,,0,0
+82696,Creature,Dorna Trapspringer,Now this has the potential to be a very profitable discovery. <StartAction>[Wink]</Start> All hail mighty Ao!,이건 정말 수지 맞는 발견이 될 소지가 있어. <StartAction>[윙크]</Start> 위대하신 에이오 만세!,X0_HEN_DOR,,,,,0,0
+82702,Creature,Dorna Trapspringer,"If he is of no use to you, it is only the greatest folly to worship him. It is like paying a merchant not to sell you his wares.","네게 아무 쓸모도 없는데도 그를 숭배한다면, 그보다 어리석은 짓도 없지. 물건 안 팔 거라면서 상인에게 돈을 바치는 격이야.",X0_HEN_DOR,,,,,0,0
+82834,Creature,Dorna Trapspringer,"Interesting advice, <FirstName>, if a bit cruel.","흥미로운 조언이야, <FirstName>. 약간 가혹하긴 하지만.",X0_HEN_DOR,,,,,0,0
+82847,Creature,Dorna Trapspringer,"Ah. A crisis of faith, I see. Really you'd have to wonder why more of these Aoists aren't going through something similar.",믿음의 위기라는 거군. 사실 이런 일을 겪는 에이오 신봉자들이 더 많지 않은 게 이상할 정도지.,X0_HEN_DOR,,,,,0,0
+82917,Creature,Dorna Trapspringer,We're going to follow her? But isn't that dangerous? Shouldn't we get more allies?,우리가 그녀를 따라간다고? 위험하지 않아? 동료를 더 모아야 하는 거 아니야?,X0_HEN_DOR,,,,,0,0
+82919,Creature,Dorna Trapspringer,True. I... of course I will help you both. Whatever the cost.,맞아. 나... 물론 너희 둘을 도울게. 어떤 대가가 들더라도.,X0_HEN_DOR,,,,,0,0
+82940,Creature,Dorna Trapspringer,"You're a sight for sore eyes, Master Drogan. I'm glad to see you hale and hearty.","보고 싶었습니다, 드로건 스승님. 건강해 보이셔서 다행이에요.",X0_HEN_DOR,,,,,0,0
+82952,Creature,Dorna Trapspringer,You... you will die? But...,당신이... 죽는다구요? 하지만...,X0_HEN_DOR,,,,vs_nx0dornf_065,0,0
+82953,Creature,Dorna Trapspringer,"You have the honor of the stones, Master Drogan. F-farewell.","당신은 '돌의 명예'를 지니신 분입니다, 드로건 스승님. 그, 그럼 안녕히.",X0_HEN_DOR,,,,vs_nx0dornf_066,0,0

@@ -1,0 +1,46 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+106377,PC,Player Character,"""Why would I free kobolds? You can die along with your masters.""","""왜 내가 코볼트를 풀어주겠어? 네 주인들과 함께 죽어.""",q5_attiz,,,,,0,0
+106378,PC,Player Character,"""Forget it. Time to die."" <StartAction>[Attack him.]</Start>","""됐어. 죽을 시간이야."" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106379,PC,Player Character,"""Yes, I'm here to kill the beholders. You're one of their slaves, I take it?""","""그래, 주시자들을 죽이러 왔어. 넌 그들의 노예 중 하나겠지?""",q5_attiz,,,,,0,0
+106380,PC,Player Character,"""Good. Then you won't mind if I kill you."" <StartAction>[Attack him.]</Start>","""좋아. 그럼 널 죽여도 상관없겠지."" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106381,PC,Player Character,"""I've other questions you can answer.""","""네가 대답할 수 있는 다른 질문들이 있어.""",q5_attiz,,q5_attiz07,,,0,0
+106382,PC,Player Character,"""Then don't worry about it.""","""그럼 걱정하지 마.""",q5_attiz,,,,,0,0
+106383,PC,Player Character,"""Just for you to die."" <StartAction>[Attack him.]</Start>","""그냥 네가 죽는 거야."" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106384,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I'll spare you if you answer. We can get along, here.""","<StartCheck>[설득]</Start> ""대답하면 살려줄게. 여기서 잘 지낼 수 있어.""",q5_attiz,,q5_attiz03,,,0,0
+106385,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""You'll answer my questions or suffer the consequences.""","<StartCheck>[위협]</Start> ""내 질문에 대답하든지 대가를 치르든지 해.""",q5_attiz,,,,,0,0
+106386,PC,Player Character,"""That's all the questions I have.""","""질문은 그게 다야.""",q5_attiz,,,,,0,0
+106387,PC,Player Character,"""What's the easiest way to kill these beholders?""","""이 주시자들을 죽이는 가장 쉬운 방법이 뭐야?""",q5_attiz,,,,,0,0
+106388,PC,Player Character,"""There are more slaves like yourself?""","""너처럼 노예가 더 있어?""",q5_attiz,,,,,0,0
+106389,PC,Player Character,"""Would you fight for your freedom?""","""자유를 위해 싸울 거야?""",q5_attiz,,,,,0,0
+106390,PC,Player Character,"""Then you're of no use to me."" <StartAction>[Attack him.]</Start>","""그럼 넌 내게 쓸모없어."" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106391,PC,Player Character,"""Tell me what you know about these tunnels.""","""이 땅굴에 대해 아는 걸 말해봐.""",q5_attiz,,,,,0,0
+106392,PC,Player Character,"""What are you doing here?""","""여기서 뭐 하는 거야?""",q5_attiz,,,,,0,0
+106393,PC,Player Character,"""What ruins are you talking about?""","""무슨 유적을 말하는 거야?""",q5_attiz,,q5_attiz_ruin1,,,0,0
+106394,PC,Player Character,"""What was so special about the stone you brought them?""","""네가 가져다준 돌이 뭐가 그렇게 특별해?""",q5_attiz,,,,,0,0
+106395,PC,Player Character,"""Tell me what you know about these beholders.""","""이 주시자들에 대해 아는 걸 말해봐.""",q5_attiz,,,,,0,0
+106396,PC,Player Character,"""Fine. Time for you to die."" <StartAction>[Attack him.]</Start>","""좋아. 네가 죽을 시간이야."" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106397,PC,Player Character,"""Drow emissary?""","""드로우 사절?""",q5_attiz,,,,,0,0
+106398,PC,Player Character,"""Tell me about this Beholder Tyrant.""","""이 주시자 폭군에 대해 말해봐.""",q5_attiz,,,,,0,0
+106399,PC,Player Character,"<StartCheck>[Bluff]</Start> ""I'm not here to kill anyone. I'm an emissary to the beholders.""","<StartCheck>[허세]</Start> ""난 아무도 죽이러 온 게 아니야. 주시자들에게 온 사절이야.""",q5_attiz,,,,,0,0
+106400,PC,Player Character,"""I'm not going to bother with you further. Time to go.""","""더 이상 너한테 신경 안 쓸 거야. 갈 시간이야.""",q5_attiz,,,,,0,0
+106401,PC,Player Character,"""Should have ran while you had the chance, fool."" <StartAction>[Attack him.]</Start>","""기회가 있을 때 도망쳤어야지, 바보야."" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106402,PC,Player Character,"""Hands off. I'm not doing kobolds any favors.""","""손 떼. 코볼트한테 호의 베풀 생각 없어.""",q5_attiz,,,,,0,0
+106403,PC,Player Character,"""I'll free your friends if I can.""","""가능하면 네 친구들을 풀어줄게.""",q5_attiz,,,,,0,0
+106404,PC,Player Character,"""I'll kill whatever gets in my way. Period.""","""방해되는 건 뭐든 죽일 거야. 끝.""",q5_attiz,,,,,0,0
+106405,PC,Player Character,"""Too smart for your own good, creature. Time to die!"" <StartAction>[Attack him.]</Start>","""지나치게 똑똑하구나, 녀석. 죽을 시간이야!"" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106406,PC,Player Character,"""So you're not going to warn the beholders I'm here?""","""그러면 주시자들에게 내가 여기 있다고 알리지 않을 거야?""",q5_attiz,,,,,0,0
+106407,PC,Player Character,"""Then I'll leave you be.""","""그럼 그냥 내버려둘게.""",q5_attiz,,,,,0,0
+106408,PC,Player Character,"""Not good enough. I can't trust you."" <StartAction>[Attack him.]</Start>","""충분하지 않아. 널 믿을 수 없어."" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106409,PC,Player Character,"""Then maybe you'll answer some of my questions.""","""그럼 내 질문 몇 개에 대답해줄래?""",q5_attiz,,,,,0,0
+106410,PC,Player Character,"""Then tell me what you know about these beholders.""","""그럼 이 주시자들에 대해 아는 걸 말해봐.""",q5_attiz,,,,,0,0
+106411,PC,Player Character,"""You talk too much, kobold. Time to die."" <StartAction>[Attack him.]</Start>","""넌 말이 너무 많아, 코볼트. 죽을 시간이야."" <StartAction>[그를 공격한다.]</Start>",q5_attiz,,,,,0,0
+106412,PC,Player Character,"""Yes, that's correct. I should be going now.""","""그래, 맞아. 이제 가야겠어.""",q5_attiz,,,,,0,0
+106413,PC,Player Character,"""What is the Beholder Tyrant?""","""주시자 폭군이 뭐야?""",q5_attiz,,,,,0,0
+106414,PC,Player Character,"""Who is this drow emissary you mentioned?""","""네가 말한 드로우 사절이 누구야?""",q5_attiz,,,,,0,0
+106415,PC,Player Character,"""I have some questions for you.""","""질문이 좀 있어.""",q5_attiz,,q5_attiz07,,,0,0
+106416,PC,Player Character,"""I'd like to talk to you, first. Do you have a name?""","""먼저 얘기 좀 하고 싶어. 이름이 있어?""",q5_attiz,,q5_attiz_intro2,,,0,0
+106417,PC,Player Character,"""I should be going, now.""","""이제 가야겠어.""",q5_attiz,,,,,0,0
+106418,PC,Player Character,"""Wait... slow down. Who are you?""","""잠깐... 천천히. 넌 누구야?""",q5_attiz,,,,,0,0
+106419,PC,Player Character,"""I haven't cut your tongue out yet... but that could change.""","""아직 네 혀를 자르지 않았는데... 바뀔 수도 있어.""",q5_attiz,,,,,0,0
+106420,PC,Player Character,"""I wouldn't cut out your tongue... even though I hate your singing.""","""네 혀를 자르진 않을 거야... 네 노래가 싫긴 해도.""",q5_attiz,,,,,0,0
+106421,PC,Player Character,"""Of course not. Then you couldn't sing for us.""","""당연히 안 하지. 그러면 우리한테 노래를 못 해주잖아.""",q5_attiz,,,,,0,0

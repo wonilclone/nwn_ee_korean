@@ -1,0 +1,24 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+104437,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2acavallas,,,,,0,0
+104438,PC,Player Character,"""Die, you freak!""","""죽어라, 괴물!""",q2acavallas,,,,,0,0
+104439,PC,Player Character,"""Can I ask you some questions?""","""질문 좀 해도 돼?""",q2acavallas,,,,,0,0
+104440,PC,Player Character,"""I need help against the Valsharess.""","""발샤레스에 맞서는 데 도움이 필요해.""",q2acavallas,,,,,0,0
+104441,PC,Player Character,"""What are you?""","""넌 뭐야?""",q2acavallas,,,,,0,0
+104442,PC,Player Character,"""I want to ask you something else.""","""다른 걸 물어보고 싶어.""",q2acavallas,,,,,0,0
+104443,PC,Player Character,"""Are you a drow? A duergar? Something else?""","""넌 드로우야? 듀에르가? 아니면 다른 건가?""",q2acavallas,,,,,0,0
+104444,PC,Player Character,"""Tell me about these islands.""","""이 섬들에 대해 말해줘.""",q2acavallas,,,,,0,0
+104445,PC,Player Character,"""Tell me about this strange town.""","""이 이상한 마을에 대해 말해줘.""",q2acavallas,,,,,0,0
+104446,PC,Player Character,"""Tell me about the Isle of the Maker.""","""제작자의 섬에 대해 말해줘.""",q2acavallas,,,,,0,0
+104447,PC,Player Character,"""Tell me about the Isle of the Maker.""","""제작자의 섬에 대해 말해줘.""",q2acavallas,,,,,0,0
+104448,PC,Player Character,"""Tell me about this strange town.""","""이 이상한 마을에 대해 말해줘.""",q2acavallas,,,,,0,0
+104449,PC,Player Character,"""I want to ask you something else.""","""다른 걸 물어보고 싶어.""",q2acavallas,,,,,0,0
+104450,PC,Player Character,"""Tell me about this strange town.""","""이 이상한 마을에 대해 말해줘.""",q2acavallas,,,,,0,0
+104451,PC,Player Character,"""Tell me about the Isle of the Maker.""","""제작자의 섬에 대해 말해줘.""",q2acavallas,,,,,0,0
+104452,PC,Player Character,"""I need passage across the river.""","""강을 건너야 해.""",q2acavallas,,,,,0,0
+104453,PC,Player Character,"""Take me to the Isle of the Maker.""","""제작자의 섬으로 데려다줘.""",q2acavallas,act_cav_jumpisle,con_cavalas_2,,,0,0
+104454,PC,Player Character,"""Take me to the island with the strange town.""","""이상한 마을이 있는 섬으로 데려다줘.""",q2acavallas,act_cav_jumpmir,con_cavalas_3,,,0,0
+104455,PC,Player Character,"""Take me back to the Seer's camp.""","""선견자의 야영지로 다시 데려다줘.""",q2acavallas,act_q2acaval_1,con_cavalas_1,,,0,0
+104456,PC,Player Character,"""Valen said you could help me against the Valsharess.""","""발렌이 발샤레스에 맞서는 데 네가 도와줄 수 있다고 했어.""",q2acavallas,,q2_valjournal1x,,,0,0
+104457,PC,Player Character,"""You've been waiting for me?""","""날 기다리고 있었다고?""",q2acavallas,,,,,0,0
+104458,PC,Player Character,"""I don't trust you.""","""널 믿을 수 없어.""",q2acavallas,,,,,0,0
+104459,PC,Player Character,"""Why are you helping me?""","""왜 날 도와주는 거야?""",q2acavallas,,,,,0,0

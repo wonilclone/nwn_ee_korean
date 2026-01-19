@@ -1,0 +1,23 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+38532,PC,Player Character,And who might you be?,당신은 누구시죠?,m2q5l01dydd,,[지능 보통],,,0,0
+38533,PC,Player Character [M2Q5C],What competition? What are you talking about?,무슨 대회요? 무슨 얘기예요?,m2q5l01dydd,,m2q5cspccontest0,[M2Q5C],,0,0
+38534,PC,Player Character [M2Q5C],"<StartCheck>[Persuade]</Start> Oh yeah, I know all about the competition.","<StartCheck>[설득]</Start> 아, 맞아. 대회에 대해 다 알아요.",m2q5l01dydd,,m2q5cspccontest0,[M2Q5C],,0,0
+38535,PC,Player Character [M2Q5C],"No, I'm not here for any competition.","아니요, 대회 때문에 온 게 아니에요.",m2q5l01dydd,,m2q5cspccontest,[M2Q5C],,0,0
+38536,PC,Player Character [M2Q5C],"Yes, I'm going into the competition.","네, 대회에 참가하려고요.",m2q5l01dydd,,m2q5cspccontest,[M2Q5C],,0,0
+38537,PC,Player Character,I'll be going.,이제 갈게요.,m2q5l01dydd,,[지능 보통],,,0,0
+38538,PC,Player Character,And have you won yet?,벌써 우승했어요?,m2q5l01dydd,,[지능 보통],,,0,0
+38539,PC,Player Character,"<StartCheck>[Persuade]</Start> Oh, I know about *that.* I was just hoping for pointers.","<StartCheck>[설득]</Start> 아, *그건* 알아요. 그냥 조언 좀 구하는 거였어요.",m2q5l01dydd,,[지능 보통],,,0,0
+38540,PC,Player Character,How about 100 gold to loosen your tongue?,혀 좀 풀어드릴 금화 100개 드릴까요?,m2q5l01dydd,,[지능 보통],,,0,0
+38541,PC,Player Character,And who is me? Huh? Who is you?,나는 누구야? 응? 너는 누구야?,m2q5l01dydd,,[지능 낮음],,,0,0
+38542,PC,Player Character [M2Q5C],Me not know what competition you mean.,나 무슨 대회 말하는지 몰라.,m2q5l01dydd,,m2q5cpcontestlow,[M2Q5C],,0,0
+38543,PC,Player Character [M2Q5C],<StartCheck>[Persuade]</Start> Ha. Me know competition is.,<StartCheck>[설득]</Start> 하. 나 대회가 뭔지 알아.,m2q5l01dydd,,m2q5cpcontestlow,[M2Q5C],,0,0
+38544,PC,Player Character [M2Q5C],"No, I'm not here for any competition.","아니, 나 대회 때문에 온 거 아니야.",m2q5l01dydd,,m2q5cspccontlow,[M2Q5C],,0,0
+38545,PC,Player Character [M2Q5C],Yes. Me is here to *win* competition.,응. 나 여기 대회 *우승하러* 왔어.,m2q5l01dydd,,m2q5cspccontlow,[M2Q5C],,0,0
+38546,PC,Player Character,Me say time to leave.,나 이제 갈 시간이야.,m2q5l01dydd,,[지능 낮음],,,0,0
+38547,PC,Player Character,So this is Mutamin's secret? I'll ask *him!*,그래서 이게 무타민의 비밀이야? *그한테* 물어봐야겠네!,m2q5l01dydd,,[지능 보통],,,0,0
+38548,PC,Player Character,Mutamin gots secret? Me ask Mutamin!,무타민 비밀 있어? 나 무타민한테 물어봐야지!,m2q5l01dydd,,[지능 낮음],,,0,0
+38549,PC,Player Character,"But you not win yet, right?","근데 넌 아직 우승 못 했지, 맞지?",m2q5l01dydd,,[지능 낮음],,,0,0
+38550,PC,Player Character,Ha! I just tricked you! I didn't know!,하! 방금 속였어! 난 몰랐다고!,m2q5l01dydd,,[지능 보통],,,0,0
+38551,PC,Player Character,Me tricked you! Me not so dumb! Haha!,나 너 속였어! 나 그렇게 멍청하지 않아! 하하!,m2q5l01dydd,,[지능 낮음],,,0,0
+38552,PC,Player Character,<StartCheck>[Persuade]</Start> Me know *that* already. Me ask for pointers.,<StartCheck>[설득]</Start> 나 *그건* 이미 알아. 나 조언 물어보는 거야.,m2q5l01dydd,,[지능 낮음],,,0,0
+38553,PC,Player Character,Me gots money! Gives you 100 gold?,나 돈 있어! 금화 100개 줄까?,m2q5l01dydd,,[지능 낮음],,,0,0

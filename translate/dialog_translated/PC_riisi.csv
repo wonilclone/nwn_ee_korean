@@ -1,0 +1,82 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+74349,PC,Player Character,Goodbye.,안녕.,riisi,,,,,0,0
+74350,PC,Player Character,"What happened here, Riisi?","여기서 무슨 일이 있었어, 리시?",riisi,,,,,0,0
+74351,PC,Player Character,"So, Master Drogan's annoying familiar, Riisi, survived.","그래, 드로건 스승님의 짜증나는 사역마 리시가 살아남았군.",riisi,,,,,0,0
+74352,PC,Player Character,"Hello Riisi, how are you?","안녕 리시, 어떻게 지내?",riisi,,,,,0,0
+74353,PC,Player Character,Drogan was wounded and will likely die.,드로건 스승님이 부상당하셨고 아마 돌아가실 거야.,riisi,,,,,0,0
+74354,PC,Player Character,<StartCheck>[Persuade - Lie]</Start> Master Drogan is fine. ,<StartCheck>[설득 - 거짓말]</Start> 드로건 스승님은 괜찮으셔.,riisi,x0_d1_didchaotny,,,,0,0
+74355,PC,Player Character,Master Drogan was poisoned by the kobolds.,드로건 스승님이 코볼트들한테 독에 당하셨어.,riisi,,,,,0,0
+74356,PC,Player Character,I want to ask you some questions.,몇 가지 물어보고 싶은 게 있어.,riisi,,,,,0,0
+74357,PC,Player Character,I have no more questions.,더 이상 질문 없어.,riisi,,,,,0,0
+74358,PC,Player Character,What is in the laboratory?,연구실에 뭐가 있어?,riisi,,,,,0,0
+74359,PC,Player Character,I don't care about your items.,네 물건들에는 관심 없어.,riisi,,,,,0,0
+74360,PC,Player Character,I will take the items to Drogan.,그 물건들은 내가 드로건 스승님께 가져다드릴게.,riisi,,,,,0,0
+74361,PC,Player Character,<StartCheck>[Persuade]</Start> Give the items to me.,<StartCheck>[설득]</Start> 그 물건들을 내게 줘.,riisi,,,,,0,0
+74362,PC,Player Character,Give me the items or I'll strangle you.,물건들을 넘겨. 안 그러면 목을 졸라버릴 거야.,riisi,x0_d1_dideviltny,,,,0,0
+74363,PC,Player Character,"Fine, ask me your riddles, stupid faerie dragon. ","좋아, 수수께끼를 내봐, 멍청한 요정 용아.",riisi,act_riisi_disap,,,,0,0
+74364,PC,Player Character,I hate riddles.,난 수수께끼 싫어.,riisi,,,,,0,0
+74365,PC,Player Character,"Alright, ask me your riddles then. ","좋아, 그럼 수수께끼를 내봐.",riisi,,,,,0,0
+74366,PC,Player Character,Ask me your riddles.,수수께끼를 내봐.,riisi,,,,,0,0
+74367,PC,Player Character,25,25,riisi,,[지능 낮음],,,0,0
+74368,PC,Player Character,20,20,riisi,act_q1a3ris_2,,,,0,0
+74369,PC,Player Character,19,19,riisi,,,,,0,0
+74370,PC,Player Character,15,15,riisi,,[지능 낮음],,,0,0
+74371,PC,Player Character,10,10,riisi,,,,,0,0
+74372,PC,Player Character,9,9,riisi,,,,,0,0
+74373,PC,Player Character,"You help me, or your life ends now!","날 도와. 안 그러면 지금 당장 목숨이 끝나!",riisi,nw_d1_small_evil,,,,0,0
+74374,PC,Player Character,"If you give me what I want, then yes. ","내가 원하는 걸 주면 그래.",riisi,,,,,0,0
+74375,PC,Player Character,"I don't want to hurt you, but you must take this seriously, Riisi. ","널 해치고 싶지 않지만, 이건 진지하게 받아들여야 해, 리시.",riisi,nw_d1_small_good,,,,0,0
+74376,PC,Player Character,"Yes, just get on with it. ","응, 그냥 빨리 해.",riisi,,,,,0,0
+74377,PC,Player Character,"No, please, wait! Master Drogan desperately needs our help!","아니, 제발 기다려! 드로건 스승님께 우리 도움이 절실해!",riisi,,,,,0,0
+74378,PC,Player Character,"<StartCheck>[Persuade]</Start> Riisi, you are just too smart for me. Please give me another chance.","<StartCheck>[설득]</Start> 리시, 넌 나한테 너무 똑똑해. 제발 한 번 더 기회를 줘.",riisi,,,,,0,0
+74379,PC,Player Character,I don't know. ,모르겠어.,riisi,,,,,0,0
+74380,PC,Player Character,I am guilty.,나는 유죄야.,riisi,,,,,0,0
+74381,PC,Player Character,I am innocent.,나는 무죄야.,riisi,,,,,0,0
+74382,PC,Player Character,I will be hanged.,나는 교수형을 당할 거야.,riisi,act_riisirid7,,,,0,0
+74383,PC,Player Character,Just get on with it. ,그냥 빨리 해.,riisi,,,,,0,0
+74384,PC,Player Character,Yes.,응.,riisi,,,,,0,0
+74385,PC,Player Character,Sixteen. ,16.,riisi,,,,,0,0
+74386,PC,Player Character,Twelve. ,12.,riisi,,[지능 낮음],,,0,0
+74387,PC,Player Character,Ten. ,10.,riisi,,[지능 낮음],,,0,0
+74388,PC,Player Character,Eight. ,8.,riisi,,,,,0,0
+74389,PC,Player Character,Six.,6.,riisi,act_q1a3ris_1,,,,0,0
+74390,PC,Player Character,Four. ,4.,riisi,,,,,0,0
+74391,PC,Player Character,I will be drowned.,나는 익사당할 거야.,riisi,,,,,0,0
+74392,PC,Player Character,"If you ask me one more riddle, I'll end your irritating little life!","수수께끼 하나만 더 내면, 네 짜증나는 작은 목숨을 끝내버릴 거야!",riisi,nw_d1_small_evil,,,,0,0
+74393,PC,Player Character,"<StartCheck>[Persuade]</Start> This isn't going well. Riisi, could you please just trust me?","<StartCheck>[설득]</Start> 이거 잘 안 되고 있어. 리시, 그냥 날 믿어줄 수 없어?",riisi,,,,,0,0
+74394,PC,Player Character,"I love riddles. Please, continue.","난 수수께끼를 좋아해. 제발 계속해.",riisi,,,,,0,0
+74395,PC,Player Character,"Yes, I will try it. ","응, 해볼게.",riisi,,,,,0,0
+74396,PC,Player Character,A little dirt disrupted Drogan's protective magic?  ,약간의 흙이 드로건 스승님의 보호 마법을 방해했다고?,riisi,,,,,0,0
+74397,PC,Player Character,What did that do?,그게 무슨 영향을 미쳤는데?,riisi,,,,,0,0
+74398,PC,Player Character,That is what I asked you in the first place! ,그게 내가 처음에 물어본 거잖아!,riisi,,,,,0,0
+74399,PC,Player Character,"Yes, please tell me. ","응, 말해줘.",riisi,,,,,0,0
+74400,PC,Player Character,How do I get into the laboratory?,연구실에 어떻게 들어가?,riisi,,,,,0,0
+74401,PC,Player Character,"You let me in, or I will wring your leathery little neck!","날 들여보내, 안 그러면 네 가죽 같은 작은 목을 비틀어버릴 거야!",riisi,x0_d1_didcetny,,,,0,0
+74402,PC,Player Character,<StartCheck>[Persuade]</Start> Surely you can trust me to go in.,<StartCheck>[설득]</Start> 내가 들어가도 될 정도로 날 믿을 수 있잖아.,riisi,,,,,0,0
+74403,PC,Player Character,"I think you are confused, fair creature. ","네가 착각하는 것 같은데, 아름다운 생명체야.",riisi,,,,,0,0
+74404,PC,Player Character,"Stupid fairie dragon, who are you calling a kobold? ","멍청한 요정 용아, 누구더러 코볼트래?",riisi,,,,,0,0
+74405,PC,Player Character,What are you talking about?,무슨 말을 하는 거야?,riisi,,,,,0,0
+74406,PC,Player Character,A little dirt disrupted Drogan's protective magic?  ,약간의 흙이 드로건 스승님의 보호 마법을 방해했다고?,riisi,,,,,0,0
+74407,PC,Player Character,What did that do?,그게 무슨 영향을 미쳤는데?,riisi,,,,,0,0
+74408,PC,Player Character,Why can't I go in? ,왜 내가 들어갈 수 없는 거야?,riisi,,,,,0,0
+74409,PC,Player Character,Can you tell me exactly what the kobolds did?,코볼트들이 정확히 뭘 했는지 말해줄 수 있어?,riisi,,,,,0,0
+74410,PC,Player Character,"And in this dream, is there a knight in shining armor, who speaks poetry to you? ","그리고 그 꿈에는, 네게 시를 읊어주는 빛나는 갑옷의 기사가 있어?",riisi,,nw_d2_female,,,0,0
+74411,PC,Player Character,Do your dreams have naked nymphs and dryads too?,네 꿈에는 벌거벗은 님프랑 드라이어드도 나와?,riisi,,nw_d2_male,,,0,0
+74412,PC,Player Character,"No, I don't have stupid dreams like that. Now, get on with it.","아니, 난 그런 멍청한 꿈 안 꿔. 이제 본론으로 가.",riisi,,,,,0,0
+74413,PC,Player Character,Get to the story. ,본론으로 가.,riisi,,,,,0,0
+74414,PC,Player Character,"Yes, but please get to what happened.","응, 근데 무슨 일이 있었는지 말해줘.",riisi,,,,,0,0
+74415,PC,Player Character,A little dirt disrupted Drogan's protective magic? ,약간의 흙이 드로건 스승님의 보호 마법을 방해했다고?,riisi,,,,,0,0
+74416,PC,Player Character,What did that do?,그게 무슨 영향을 미쳤는데?,riisi,,,,,0,0
+74417,PC,Player Character,What did you do when the kobolds crossed the barrier?,코볼트들이 결계를 넘었을 때 넌 뭘 했어?,riisi,,,,,0,0
+74418,PC,Player Character,"Dorna is right. Do you have a single, useful thing to say, Riisi? ","도르나 말이 맞아. 리시, 유용한 말 하나라도 있어?",riisi,,,,,0,0
+74419,PC,Player Character,"Dorna, Riisi is trying to be helpful, leave her alone.","도르나, 리시는 도우려고 하는 거야, 그냥 내버려 둬.",riisi,,,,,0,0
+74420,PC,Player Character,"Alright, that will be enough out of both of you. ","알았어, 둘 다 그만.",riisi,,,,,0,0
+74421,PC,Player Character,"Xanos is right. Do you have a single, useful thing to say, Riisi?","자노스 말이 맞아. 리시, 유용한 말 하나라도 있어?",riisi,,,,,0,0
+74422,PC,Player Character,"Xanos, Riisi is trying to be helpful, leave her alone.","자노스, 리시는 도우려고 하는 거야, 그냥 내버려 둬.",riisi,,,,,0,0
+74423,PC,Player Character,"Alright, that will be enough out of both of you. ","알았어, 둘 다 그만.",riisi,,,,,0,0
+74424,PC,Player Character,I hate riddles.,난 수수께끼 싫어.,riisi,,,,,0,0
+74425,PC,Player Character,Kobolds are fun to kill. I wonder if faerie dragons are fun to kill too?,코볼트는 죽이면 재밌지. 요정 용도 죽이면 재밌을까?,riisi,,[지능 보통],,,0,0
+74426,PC,Player Character,Tell me your riddle.,수수께끼를 내봐.,riisi,,con_riisirid3,,,0,0
+74427,PC,Player Character,I don't know.,모르겠어.,riisi,,,,,0,0
+74428,PC,Player Character,No. ,아니.,riisi,,,,,0,0
+74429,PC,Player Character,Yes.,응.,riisi,,,,,0,0

@@ -1,0 +1,55 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+23429,PC,Player Character,Farewell.,그럼 이만요.,m1q5b01harb,,[지능 보통],,,0,0
+23430,PC,Player Character,Anything new you know?,새로 알게 된 거 있어?,m1q5b01harb,,[지능 낮음],,,0,0
+23431,PC,Player Character,<StartCheck>[Insight]</Start> Is the creature justified? Neverwinter would've used it in a spell.,<StartCheck>[통찰]</Start> 그 생명체가 확인된 건가요? 네버윈터라면 주문에 사용했을 텐데요.,m1q5b01harb,,nw_d2_wis_intn,,,0,0
+23432,PC,Player Character [M1Q5B01],Me want talk about reward.,나 보상 얘기하고 싶어.,m1q5b01harb,,m1q5b01harbclgo,[M1Q5B01],,0,0
+23433,PC,Player Character,Go over the basic run down of the area.,지역에 대한 기본적인 상황을 설명해 주세요.,m1q5b01harb,,[지능 보통],,,0,0
+23434,PC,Player Character [M1Q5B01],A Waterdhavian creature was in another district. Think there's one here?,워터딥의 생명체가 다른 지구에 있었어요. 여기도 있을 것 같나요?,m1q5b01harb,,m1q5b01harbclgc,[M1Q5B01],,0,0
+23435,PC,Player Character,Are there any safe locations in the district?,지구 내에 안전한 장소가 있나요?,m1q5b01harb,,[지능 보통],,,0,0
+23436,PC,Player Character,Is there an identifiable enemy behind this?,배후에 확인된 적이 있나요?,m1q5b01harb,,[지능 보통],,,0,0
+23437,PC,Player Character,If I find out anything I'll let you know.,뭐든 알아내면 알려 드릴게요.,m1q5b01harb,,[지능 보통],,,0,0
+23438,PC,Player Character,<StartCheck>[Insight]</Start> Are the undead linked to the plague? When did this start?,<StartCheck>[통찰]</Start> 언데드가 역병과 관련 있나요? 이게 언제 시작된 거죠?,m1q5b01harb,,nw_d2_wis_intn,,,0,0
+23439,PC,Player Character,You know a bossman behind the dead?,죽은 놈들 뒤에 대장이 있는 거 알아?,m1q5b01harb,,[지능 낮음],,,0,0
+23440,PC,Player Character,There safe places in this district?,이 지구에 안전한 데 있어?,m1q5b01harb,,[지능 낮음],,,0,0
+23441,PC,Player Character [M1Q5B01],Water-whosian creature found in other district. One here maybe?,물-뭐시기 생명체 다른 지구에서 발견됐어. 여기도 있어?,m1q5b01harb,,m1q5b01harbclgg,[M1Q5B01],,0,0
+23442,PC,Player Character,Me see what me find.,나 가서 뭐 있나 봐.,m1q5b01harb,,[지능 낮음],,,0,0
+23443,PC,Player Character,You go over simple stuff about area.,너 이 지역 간단한 거 설명해.,m1q5b01harb,,[지능 낮음],,,0,0
+23444,PC,Player Character,Me go now.,나 간다.,m1q5b01harb,,[지능 낮음],,,0,0
+23445,PC,Player Character,Have you had any updates? Any new information?,새로운 소식 있나요? 새로 알게 된 정보는요?,m1q5b01harb,,[지능 보통],,,0,0
+23446,PC,Player Character [M1Q5B01],Tell me about the Sword Coast Boys.,검 해안의 패거리에 대해 말해 주세요.,m1q5b01harb,,m1q5b01harbclg8,[M1Q5B01],,0,0
+23447,PC,Player Character [M1Q5B01],You tell about local Cult thingy.,너 여기 사교 얘기 해줘.,m1q5b01harb,,m1q5b01harbclgi,[M1Q5B01],,0,0
+23448,PC,Player Character [M1Q5B01],Tell me about this local Cult.,이 지역 사교에 대해 말해 주세요.,m1q5b01harb,,m1q5b01harbclg9,[M1Q5B01],,0,0
+23449,PC,Player Character [M1Q5B01],You tell about Sword Coast Boys.,너 검 해안의 패거리 얘기 해줘.,m1q5b01harb,,m1q5b01harbclgh,[M1Q5B01],,0,0
+23450,PC,Player Character,Me tough and scary. You give more!,나 세고 무서워. 더 줘!,m1q5b01harb,,[지능 낮음],,,0,0
+23451,PC,Player Character,"I'm very dangerous, and worth more than that.","전 아주 위험한 사람이고, 그것보다 더 가치가 있어요.",m1q5b01harb,,[지능 보통],,,0,0
+23452,PC,Player Character [M1Q5B01],Am I to be rewarded for my efforts? ,제 노력에 대한 보상이 있을까요?,m1q5b01harb,,m1q5b01harbclgl,[M1Q5B01],,0,0
+23453,PC,Player Character [M1Q5B01],Me get reward for doing stuff?,나 일한 거 보상 받아?,m1q5b01harb,,m1q5b01harbclgm,[M1Q5B01],,0,0
+23454,PC,Player Character [M1Q5B01],I found the Waterdhavian Yuan-Ti creature. It raised the zombies.,워터딥의 유안티 생명체를 찾았어요. 그게 좀비를 일으켰어요.,m1q5b01harb,,m1q5b01harbclg06,[M1Q5B01],,0,0
+23455,PC,Player Character [M1Q5B01],Me find Water-daisy creature. Snake Lady. It caused dead problems.,나 물-데이지 생명체 찾았어. 뱀 여자. 놈이 죽은 것들 문제 일으켰어.,m1q5b01harb,,m1q5b01harbclg07,[M1Q5B01],,0,0
+23456,PC,Player Character [M1Q5B01],Reward time. Cough something up or I get nasty.,보상 받을 시간이에요. 뭐라도 내놓든지 아니면 가만 안 둘 거예요.,m1q5b01harb,,m1q5b01harbclgl,[M1Q5B01],,0,0
+23457,PC,Player Character [M1Q5B01],Me break faces if no get reward now!,나 지금 보상 안 주면 얼굴 박살 낼 거야!,m1q5b01harb,,m1q5b01harbclgm,[M1Q5B01],,0,0
+23458,PC,Player Character,Farewell.,안녕히 계세요.,m1q5b01harb,,[지능 보통],,,0,0
+23459,PC,Player Character,Bye bye.,안녕.,m1q5b01harb,,[지능 낮음],,,0,0
+23460,PC,Player Character,Thanks. Farewell.,고마워요. 안녕히 계세요.,m1q5b01harb,,[지능 보통],,,0,0
+23461,PC,Player Character,Me thank you. Bye bye.,나 고마워. 안녕.,m1q5b01harb,,[지능 낮음],,,0,0
+23462,PC,Player Character,<StartCheck>[Persuade]</Start> Come now. Don't I deserve more than that?,"<StartCheck>[설득]</Start> 자, 이봐요. 그것보다는 더 받아야 하는 거 아니에요?",m1q5b01harb,,[지능 보통],,,0,0
+23463,PC,Player Character,"<StartCheck>[Persuade]</Start> Me deserve more. You think so, right?",<StartCheck>[설득]</Start> 나 더 받을 자격 있어. 그치?,m1q5b01harb,,[지능 낮음],,,0,0
+23464,PC,Player Character [M1Q5B01],I wanted to discuss the reward?,보상에 대해 얘기하고 싶었는데요?,m1q5b01harb,,m1q5b01harbclgn,[M1Q5B01],,0,0
+23465,PC,Player Character,<FullName> is my name. I'm helping Aribeth.,제 이름은 <FullName>예요. 아리베스를 돕고 있어요.,m1q5b01harb,,[지능 보통],,,0,0
+23466,PC,Player Character,Me <FullName>. Me help Aribeth.,나 <FullName>. 나 아리베스 도와.,m1q5b01harb,,[지능 낮음],,,0,0
+23467,PC,Player Character,What is my name to you? Why should I tell you?,제 이름이 당신한테 무슨 의미죠? 왜 말해야 하는데요?,m1q5b01harb,,[지능 보통],,,0,0
+23468,PC,Player Character,Why you care what name me gots? Why me tell you?,내 이름이 왜 궁금해? 왜 말해야 해?,m1q5b01harb,,[지능 낮음],,,0,0
+23469,PC,Player Character,I've no time to speak right now. Farewell.,지금 얘기할 시간 없어요. 안녕히 계세요.,m1q5b01harb,,[지능 보통],,,0,0
+23470,PC,Player Character,Me gots no time for you. Bye bye.,나 너랑 시간 없어. 안녕.,m1q5b01harb,,[지능 낮음],,,0,0
+23471,PC,Player Character [M1Q5B01],Do you know anything about the Waterdhavian creatures?,워터딥의 생명체들에 대해 아는 거 있나요?,m1q5b01harb,,m1q5b01harbclg04,[M1Q5B01],,0,0
+23472,PC,Player Character [M1Q5B01],You know anything about Water-whosian creature things?,너 물-뭐시기 생명체들 뭐 알아?,m1q5b01harb,,m1q5b01harbclg05,[M1Q5B01],,0,0
+23473,PC,Player Character [M1Q5B01],I killed the creature that caused the undead.,언데드를 일으킨 생명체를 죽였어요.,m1q5b01harb,,m1q5b01harbclg08,[M1Q5B01],,0,0
+23474,PC,Player Character [M1Q5B01],Me kill creature that caused undead.,나 언데드 일으킨 생명체 죽였어.,m1q5b01harb,,m1q5b01harbclg09,[M1Q5B01],,0,0
+23475,PC,Player Character,Back to my other questions.,다른 질문으로 돌아갈게요.,m1q5b01harb,,[지능 보통],,,0,0
+23476,PC,Player Character,"Back to other questions, okay?","다른 질문으로 돌아가자, 응?",m1q5b01harb,,[지능 낮음],,,0,0
+23477,PC,Player Character,What rumors you hear?,소문 뭐 들었어?,m1q5b01harb,,[지능 낮음],,,0,0
+23478,PC,Player Character,What rumors have you heard?,무슨 소문 들으셨나요?,m1q5b01harb,,[지능 보통],,,0,0
+63015,PC,Player Character,Who you?,너 누구?,m1q5b01harb,,[지능 낮음],,,0,0
+63016,PC,Player Character,Who are you?,누구세요?,m1q5b01harb,,[지능 보통],,,0,0
+63017,PC,Player Character,Who you be?,너 누구야?,m1q5b01harb,,[지능 낮음],,,0,0
+63018,PC,Player Character,Who are you? What is your role here?,누구세요? 여기서 맡은 역할은 뭐예요?,m1q5b01harb,,[지능 보통],,,0,0

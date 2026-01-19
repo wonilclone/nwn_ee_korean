@@ -1,0 +1,37 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+92858,PC,Player Character,"""Quiet. I'm the one who asks the questions here!""","조용히 해. 여기서 질문하는 건 나야!",q2adaelan,,,,,0,0
+92859,PC,Player Character,"""You were dead. I just raised you. Can you remember anything?""","넌 죽어 있었어. 내가 방금 되살렸지. 뭔가 기억나는 거 있어?",q2adaelan,,,,,0,0
+92860,PC,Player Character,"""I'm <FirstName>. I saw you in the tavern with Durnan.""","난 <FirstName>이야. 선술집에서 더난과 있는 걸 봤어.",q2adaelan,,q2a_daelan04,,,0,0
+92861,PC,Player Character,"""You don't remember me? I spoke to your group at the tavern.""","날 기억 못해? 선술집에서 네 일행이랑 이야기했잖아.",q2adaelan,,q2a_daelan03,,,0,0
+92862,PC,Player Character,"""You don't remember me? We spoke at the tavern.""","날 기억 못해? 선술집에서 이야기했잖아.",q2adaelan,,q2a_daelan02,,,0,0
+92863,PC,Player Character,"""I'll be going now.""","이만 가볼게.",q2adaelan,,,,,0,0
+92864,PC,Player Character,"""How about you join me?""","나랑 같이 가는 게 어때?",q2adaelan,,,,,0,0
+92865,PC,Player Character,"""That's a good point. I guess I don't need you.""","일리 있네. 네가 필요 없는 것 같아.",q2adaelan,,,,,0,0
+92866,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I could still use your help, regardless.""","<StartCheck>[설득]</Start> 그래도 네 도움이 필요해.",q2adaelan,,,,,0,0
+92867,PC,Player Character,"""I raise you from the dead and now you won't even join up with me?""","내가 되살려줬는데 나랑 합류도 안 할 거야?",q2adaelan,,,,,0,0
+92868,PC,Player Character,"""What are you going to do now?""","이제 뭘 할 거야?",q2adaelan,,,,,0,0
+92869,PC,Player Character,"""That's probably for the best.""","그게 최선일 거야.",q2adaelan,,,,,0,0
+92870,PC,Player Character,"""I'm bored with you. I think I'll just kill you now.""","지루해졌어. 이제 그냥 죽여버릴까 봐.",q2adaelan,,,,,0,0
+92871,PC,Player Character,"""Sorry. Bad joke. Go on - you're free to go.""","미안. 농담이 심했어. 가, 자유야.",q2adaelan,,,,,0,0
+92872,PC,Player Character,"""I just want the satisfaction of killing you myself."" <StartAction>[Kill him.]</Start>","직접 죽이는 만족감을 느끼고 싶을 뿐이야. <StartAction>[그를 죽인다.]</Start>",q2adaelan,nw_d1_mid_evil,,,,0,0
+92873,PC,Player Character,"""This is all the thanks I get for bringing you back to life?""","되살려 준 것에 대한 감사가 고작 이거야?",q2adaelan,,,,,0,0
+92874,PC,Player Character,"""I guess you're right. I don't need a reward.""","네 말이 맞는 것 같아. 보상은 필요 없어.",q2adaelan,,,,,0,0
+92875,PC,Player Character,"""Fine. I feel the need to kill you again, I think.""","좋아. 다시 한번 널 죽이고 싶어졌어.",q2adaelan,,,,,0,0
+92876,PC,Player Character,"""Why don't you come with me, instead?""","대신 나랑 같이 가는 게 어때?",q2adaelan,,,,,0,0
+92877,PC,Player Character,"""Is there anything you can tell me about this area?""","이 지역에 대해 알려줄 거 있어?",q2adaelan,,,,,0,0
+92878,PC,Player Character,"""At war? What do you mean?""","전쟁 중이라고? 무슨 말이야?",q2adaelan,,,,,0,0
+92879,PC,Player Character,"""Do you know anything about all these mirrors?""","이 거울들에 대해 아는 거 있어?",q2adaelan,,,,,0,0
+92880,PC,Player Character,"""That's not really surprising.""","별로 놀랍지 않네.",q2adaelan,,,,,0,0
+92881,PC,Player Character,"""Do you know where your companions are?""","네 동료들이 어디 있는지 알아?",q2adaelan,,q2a_daelennocomp,,,0,0
+92882,PC,Player Character,"""Tell me what happened to you, exactly.""","무슨 일이 있었는지 정확히 말해 봐.",q2adaelan,,,,,0,0
+92883,PC,Player Character,"""How did you get killed?""","어떻게 죽은 거야?",q2adaelan,,,,,0,0
+92884,PC,Player Character,"""If I knew how pathetic you were, I wouldn't have bothered raising you.""","네가 얼마나 한심한지 알았으면 되살리는 수고를 안 했을 거야.",q2adaelan,,,,,0,0
+92885,PC,Player Character,"""I'm sorry. I didn't mean that.""","미안. 그런 뜻이 아니었어.",q2adaelan,,,,,0,0
+92886,PC,Player Character,"""I don't have time for you, half-breed. Scurry back to the inn before you get killed again.""","잡종, 너한테 쓸 시간 없어. 또 죽기 전에 여관으로 꺼져.",q2adaelan,,,,,0,0
+92887,PC,Player Character,"""As well as can be expected.""","그럭저럭 괜찮아.",q2adaelan,,,,,0,0
+92888,PC,Player Character,"""I could use some help. Maybe you could join up with me?""","도움이 필요해. 나랑 합류하는 게 어때?",q2adaelan,,,,,0,0
+92889,PC,Player Character,"""Save it. I can't waste my time talking to half-breeds.""","닥쳐. 잡종이랑 이야기하며 시간 낭비할 순 없어.",q2adaelan,,,,,0,0
+92890,PC,Player Character,"""Something you couldn't do.""","네가 못 했던 일이지.",q2adaelan,,,,,0,0
+92891,PC,Player Character,"""Do you have a problem with me?""","나한테 불만 있어?",q2adaelan,,,,,0,0
+92892,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I just wanted to apologize for the way I acted before.""","<StartCheck>[설득]</Start> 전에 내 행동에 대해 사과하고 싶었어.",q2adaelan,,,,,0,0
+92893,PC,Player Character,"""I should go.""","이만 가볼게.",q2adaelan,,,,,0,0

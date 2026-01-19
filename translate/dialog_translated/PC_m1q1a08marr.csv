@@ -1,0 +1,69 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+18185,PC,Player Character,What exactly is it you do here?,여기서 정확히 무슨 일을 하시죠?,m1q1a08marr,,[지능 보통],,,0,0
+18186,PC,Player Character,I want you to make an item for me.,아이템 하나 제작해 주세요.,m1q1a08marr,,[지능 보통],,,0,0
+18187,PC,Player Character,Here is your <CUSTOM777> gold. ,여기 <CUSTOM777> 금화요.,m1q1a08marr,,nw_d2_nafford1,,,0,0
+18188,PC,Player Character,I cannot afford this item.,이 물건을 살 형편이 안 됩니다.,m1q1a08marr,,,,,0,0
+18189,PC,Player Character,I'm interested in axes and armor.,도끼랑 갑옷에 관심 있어요.,m1q1a08marr,,[지능 보통],,,0,0
+18190,PC,Player Character,I'm interested in blunt and crushing weapons.,둔기와 타격 무기에 관심 있어요.,m1q1a08marr,,[지능 보통],,,0,0
+18191,PC,Player Character,I'm interested in magical swords.,마법 검에 관심 있어요.,m1q1a08marr,,[지능 보통],,,0,0
+18192,PC,Player Character,I'm interested in some of the less common weapons.,드문 무기들에도 관심 있어요.,m1q1a08marr,,[지능 보통],,,0,0
+18193,PC,Player Character,"Nevermind, I don't want you to make the item.","됐습니다, 그 아이템은 제작하지 않겠습니다.",m1q1a08marr,,,,,0,0
+18194,PC,Player Character,Me get it. Here be <CUSTOM777> gold. You work now.,나 구했어. 여기 <CUSTOM777> 금화. 이제 일해.,m1q1a08marr,,nw_d2_nafford1,,,0,0
+18195,PC,Player Character,Me not got enough gold.,나 금화 충분치 않아.,m1q1a08marr,,,,,0,0
+18196,PC,Player Character,Me not want item now.,나 지금 아이템 안 원해.,m1q1a08marr,,,,,0,0
+18197,PC,Player Character,What kinds of things would 'component' items be?,그 '재료' 아이템은 어떤 것들이죠?,m1q1a08marr,,[지능 보통],,,0,0
+18198,PC,Player Character,Me want axes and armor.,나 도끼랑 갑옷 원해.,m1q1a08marr,,[지능 낮음],,,0,0
+18199,PC,Player Character,Me want blunt and smashing weapons.,나 둔기랑 때리는 무기 원해.,m1q1a08marr,,[지능 낮음],,,0,0
+18200,PC,Player Character,Me want magic sword.,나 마법 검 원해.,m1q1a08marr,,[지능 낮음],,,0,0
+18201,PC,Player Character,Me want rare weapon.,나 드문 무기 원해.,m1q1a08marr,,[지능 낮음],,,0,0
+18202,PC,Player Character,What you mean 'component'?,그 '재료'가 무슨 뜻이야?,m1q1a08marr,,[지능 낮음],,,0,0
+18203,PC,Player Character,I'm not interested right now.,지금은 관심 없어요.,m1q1a08marr,,[지능 보통],,,0,0
+18204,PC,Player Character,No bother. Me not want do this now.,됐어. 나 지금 이거 안 할래.,m1q1a08marr,,[지능 낮음],,,0,0
+18205,PC,Player Character,"Can I ask you some questions, Marrok?","마록, 몇 가지 여쭤봐도 될까요?",m1q1a08marr,,[지능 보통],,,0,0
+18206,PC,Player Character,I'll be going now.,이만 가보겠습니다.,m1q1a08marr,,[지능 보통],,,0,0
+18207,PC,Player Character,"What you do here, dwarf man?","여기서 뭐 해, 드워프?",m1q1a08marr,,[지능 낮음],,,0,0
+18208,PC,Player Character,Me want you make magic stuff!,나 마법 물건 만들어줘!,m1q1a08marr,,[지능 낮음],,,0,0
+18209,PC,Player Character,Me want ask questions.,나 질문 있어.,m1q1a08marr,,[지능 낮음],,,0,0
+18210,PC,Player Character,Me go now.,나 간다.,m1q1a08marr,,[지능 낮음],,,0,0
+18211,PC,Player Character,Chromatic Breastplate: Requires a diamond and a suit of magical armor of total AC:6.,색채의 가슴판갑: 다이아몬드와 총 AC:6의 마법 갑옷 한 벌이 필요.,m1q1a08marr,,nw_d2_itempak_01,,,0,0
+18212,PC,Player Character,Scales of Truth: Requires special holy water and a suit of magical armor of total AC:5.,진실의 비늘: 특별한 성수와 총 AC:5의 마법 갑옷 한 벌이 필요.,m1q1a08marr,,nw_d2_itempak_02,,,0,0
+18213,PC,Player Character,Whitebone Armor: Requires gargoyle skull and a suit of magic armor of total AC:3.,하얀뼈 갑옷: 가고일 두개골과 총 AC:3의 마법 갑옷 한 벌이 필요.,m1q1a08marr,,nw_d2_itempak_03,,,0,0
+18214,PC,Player Character,Sentinel: Requires adamantite and a magic battleaxe.,파수병: 아다만틴과 마법 전투도끼가 필요.,m1q1a08marr,,nw_d2_itempak_04,,,0,0
+18215,PC,Player Character,Double Axe of the Tall Kin: Requires adamantite and a magic double axe.,큰 족속의 쌍날도끼: 아다만틴과 마법 쌍날도끼가 필요.,m1q1a08marr,,nw_d2_itempak_07,,,0,0
+18216,PC,Player Character,Stonefire Great Axe: Requires adamantite and a magic great axe.,돌화염 대도끼: 아다만틴과 마법 대도끼가 필요.,m1q1a08marr,,nw_d2_itempak_08,,,0,0
+18217,PC,Player Character,Ice Reaver Hand Axe: Requires dragon blood and a magic hand axe.,얼음 약탈자 손도끼: 용의 피와 마법 손도끼가 필요.,m1q1a08marr,,nw_d2_itempak_11,,,0,0
+18218,PC,Player Character,I'm not interested in any of these items. ,이 물건들엔 관심 없어요.,m1q1a08marr,,[지능 보통],,,0,0
+18219,PC,Player Character,Me no want these items.,나 이거들 안 원해.,m1q1a08marr,,[지능 낮음],,,0,0
+18220,PC,Player Character,Gladiator Club: Requires ironwood and a magic club.,검투사의 곤봉: 경질 목재와 마법 곤봉이 필요.,m1q1a08marr,,nw_d2_itempak_05,,,0,0
+18221,PC,Player Character,Ironwood Mace: Requires ironwood and a magic dire mace.,경질 목재 철퇴: 경질 목재와 마법 철퇴가 필요.,m1q1a08marr,,nw_d2_itempak_06,,,0,0
+18222,PC,Player Character,Reaver Heavy Flail: Requires dragon blood and a magic heavy flail.,약탈자 중도리깨: 용의 피와 마법 중도리깨가 필요.,m1q1a08marr,,nw_d2_itempak_12,,,0,0
+18223,PC,Player Character,Storm Light Hammer: Requires a diamond and a magic light hammer.,폭풍 경량 망치: 다이아몬드와 마법 경량 망치가 필요.,m1q1a08marr,,nw_d2_itempak_15,,,0,0
+18224,PC,Player Character,Foundation Light Flail: Requires ironwood and a magic light flail.,토대 경도리깨: 경질 목재와 마법 경도리깨가 필요.,m1q1a08marr,,nw_d2_itempak_16,,,0,0
+18225,PC,Player Character,Mace of Disruption: Requires special holy water and a magic mace.,붕괴의 철퇴: 특별한 성수와 마법 철퇴가 필요.,m1q1a08marr,,nw_d2_itempak_17,,,0,0
+18226,PC,Player Character,Drone Morning Star: Requires fairy dust and a magic morning star.,수벌 가시철퇴: 요정의 가루와 마법 가시철퇴가 필요.,m1q1a08marr,,nw_d2_itempak_18,,,0,0
+18227,PC,Player Character,Rune Hammer: Requires adamantite and a magic war hammer.,룬 망치: 아다만틴과 마법 전쟁망치가 필요.,m1q1a08marr,,nw_d2_itempak_26,,,0,0
+18228,PC,Player Character,Harbinger Kin Greatsword: Requires adamantite and a magic greatsword.,선구자 일족 대검: 아다만틴과 마법 대검이 필요.,m1q1a08marr,,nw_d2_itempak_09,,,0,0
+18229,PC,Player Character,Sword Saint Katana: Requires adamantite and a magic katana.,검성의 카타나: 아다만틴과 마법 카타나가 필요.,m1q1a08marr,,nw_d2_itempak_13,,,0,0
+18230,PC,Player Character,Astral Blade Longsword: Requires a diamond and a magic longsword.,영적 칼날 장검: 다이아몬드와 마법 장검이 필요.,m1q1a08marr,,nw_d2_itempak_14,,,0,0
+18231,PC,Player Character,Desert Wind Scimitar: Requires adamantite and a magic scimitar.,사막바람 시미터: 아다만틴과 마법 시미터가 필요.,m1q1a08marr,,nw_d2_itempak_20,,,0,0
+18232,PC,Player Character,Feyduster Short Sword: Requires Fairy Dust and a magic short sword.,요정털이 단검: 요정의 가루와 마법 단검이 필요.,m1q1a08marr,,nw_d2_itempak_22,,,0,0
+18233,PC,Player Character,Uthgardt Ceremonial Two-Bladed Sword: Requires ironwood and a magic two-bladed sword.,우스가르트 의식용 쌍날검: 경질 목재와 마법 쌍날검이 필요.,m1q1a08marr,,nw_d2_itempak_25,,,0,0
+18234,PC,Player Character,Namarra Rapier: Requires dragon blood and a magic rapier.,나마라 세검: 용의 피와 마법 세검이 필요.,m1q1a08marr,,nw_d2_itempak_19,,,0,0
+18235,PC,Player Character,Ravager Halberd: Requires dragon blood and a magic halberd.,파괴자 미늘창: 용의 피와 마법 미늘창이 필요.,m1q1a08marr,,nw_d2_itempak_10,,,0,0
+18236,PC,Player Character,Sword Saint Katana: Requires adamantite and a magic katana.,검성의 카타나: 아다만틴과 마법 카타나가 필요.,m1q1a08marr,,nw_d2_itempak_13,,,0,0
+18237,PC,Player Character,Namarra Rapier: Requires dragon blood and a magic rapier.,나마라 세검: 용의 피와 마법 세검이 필요.,m1q1a08marr,,nw_d2_itempak_19,,,0,0
+18238,PC,Player Character,Desert Wind Scimitar: Requires adamantite and a magic scimitar.,사막바람 시미터: 아다만틴과 마법 시미터가 필요.,m1q1a08marr,,nw_d2_itempak_20,,,0,0
+18239,PC,Player Character,Sea Reaver Scythe: Requires adamantite and a magic scythe.,바다 약탈자 대낫: 아다만틴과 마법 대낫이 필요.,m1q1a08marr,,nw_d2_itempak_21,,,0,0
+18240,PC,Player Character,Fey Spear: Requires fairy dust and a magic spear.,요정 창: 요정의 가루와 마법 창이 필요.,m1q1a08marr,,nw_d2_itempak_23,,,0,0
+18241,PC,Player Character,Golden Sickle: Requires special holy water and a magic sickle.,황금 낫: 특별한 성수와 마법 낫이 필요.,m1q1a08marr,,nw_d2_itempak_24,,,0,0
+18242,PC,Player Character,Uthgardt Ceremonial Two-Bladed Sword: Requires ironwood and a magic two-bladed sword.,우스가르트 의식용 쌍날검: 경질 목재와 마법 쌍날검이 필요.,m1q1a08marr,,nw_d2_itempak_25,,,0,0
+18243,PC,Player Character,Do you have examples? Give me some idea of what you need.,예시가 있나요? 어떤 게 필요한지 감을 잡게 해 주세요.,m1q1a08marr,,[지능 보통],,,0,0
+18244,PC,Player Character,"You got examples, maybe? Give a clue what you need.",예시 있어? 뭐 필요한지 힌트 줘.,m1q1a08marr,,[지능 낮음],,,0,0
+18245,PC,Player Character,Where can I get some of these components?,이런 재료들은 어디서 구하죠?,m1q1a08marr,,[지능 보통],,,0,0
+18246,PC,Player Character,Where me get component stuff like that?,그런 재료 같은 건 어디서 구해?,m1q1a08marr,,[지능 낮음],,,0,0
+18247,PC,Player Character,Is the item guaranteed to be powerful?,만드는 물건이 강력한게 보장되나요?,m1q1a08marr,,[지능 보통],,,0,0
+18248,PC,Player Character,You always get better item back?,항상 더 좋은 아이템 나오나?,m1q1a08marr,,[지능 낮음],,,0,0
+18249,PC,Player Character,"Okay, back to my questions about what you can make.","좋아요, 만들 수 있는 것들 질문으로 돌아가죠.",m1q1a08marr,,[지능 보통],,,0,0
+18250,PC,Player Character,"Back to questions about stuff you make, okay?","네가 만드는 거 질문으로 다시, 응?",m1q1a08marr,,[지능 낮음],,,0,0
+18263,PC,Player Character,Back to my questions about components,재료에 관한 질문으로 돌아가죠.,m1q1a08marr,,[지능 보통],,,0,0
+18264,PC,Player Character,"Back to stuff about components, okay?","재료 얘기로 다시, 응?",m1q1a08marr,,[지능 낮음],,,0,0

@@ -1,0 +1,43 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+38773,Dialog,NOBL01,"The price I've had to pay to come to this... this place... is simply appalling! You are in the same boat I expect, yes?","이런... 이런 곳에 오기 위해 지불해야 했던 비용이 정말 끔찍하군요! 당신도 마찬가지일 거라 생각하는데, 그렇죠?",M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38774,Dialog,NOBL01,"Yes? I'm afraid that I'm only here for one purpose, <sir/madam>... and general revelry is not one of them.","네? 유감이지만 저는 한 가지 목적만을 위해 여기 있는 겁니다, <sir/madam>... 일반적인 유흥을 위해서가 아니에요.",M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38775,Dialog,NOBL01,"Do be off, before I foist a manservant upon you. I am only here until the gates are re-opened, you see.",저리 가시죠. 하인을 불러서 당신을 쫓아내게 하기 전에요. 저는 성문이 다시 열릴 때까지만 여기 있을 겁니다.,M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38776,Dialog,NOBL01,I won't discuss anything with someone who's not even properly dressed!,제대로 옷도 안 입은 사람과는 얘기하지 않겠습니다!,M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38777,Dialog,NOBL01,"You certainly cannot run about without clothes on, <sir/madam>!","옷도 안 입고 돌아다니시면 안 되죠, <sir/madam>!",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38778,Dialog,NOBL01,"Err... forgot to put on your clothing to<day/night>, did you?","어... 오늘 <day/night>에 옷 입는 걸 잊으셨나요?",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38779,Dialog,NOBL01,You can't run about bleeding all over the place! It's not decent.,피를 여기저기 흘리며 돌아다니시면 안 됩니다! 예의에 어긋나요.,M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38780,Dialog,NOBL01,"Gods have mercy! Those are quite the wounds you have, <sir/madam>.","신이시여! 상처가 상당히 심하시군요, <sir/madam>.",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38781,Dialog,NOBL01,Have you been in some manner of... of combat? You appear quite hurt.,무슨... 전투라도 하셨나요? 꽤 다치신 것 같은데요.,M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38782,Dialog,NOBL01,Oh... it's another of these slow ones.,아... 또 머리 나쁜 작자로군.,M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38783,Dialog,NOBL01,"Excuse me, but I've no wish to talk with slow-witted peasants.","실례지만, 머리 나쁜 농부들과 대화할 생각은 없습니다.",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38784,Dialog,NOBL01,(sigh) I don't suppose someone with your intelligence would actually have something useful to ask.,(한숨) 당신 정도 지능으로는 쓸모 있는 질문을 할 수 있을 것 같지 않군요.,M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38785,Dialog,NOBL01,Must you brandish that thing about? Can't you put it away?,그거 휘두르고 다녀야겠어요? 집어넣을 수 없나요?,M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38786,Dialog,NOBL01,I really must ask you to stop waving that thing about!,그거 좀 그만 휘두르시라고 정말 부탁드려야겠네요!,M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38787,Dialog,NOBL01,Please put your weapon away. It's practically indecent.,무기를 집어넣으세요. 거의 무례한 수준입니다.,M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38788,Dialog,NOBL01,Oh? A holy <man/woman>? Here?,오? 성직<man/woman>가? 여기서요?,M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38789,Dialog,NOBL01,I didn't think they had many holy folk coming to the Green Griffon.,푸른 그리핀 여관에 성직자가 많이 오는 줄은 몰랐는데요.,M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38790,Dialog,NOBL01,"You must be on your way to Luskan, yes? The people there need all the spiritual advice they can get.","러스칸으로 가는 길이시죠? 그곳 사람들은 받을 수 있는 영적 조언은 뭐든 필요하거든요.",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38791,Dialog,NOBL01,"Another magic-user, I see. Hmph.","또 마법사로군요. 흥.",M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38792,Dialog,NOBL01,I must say I've never trusted you magical folk much.,솔직히 말하면 마법 쓰는 분들은 별로 신뢰한 적이 없습니다.,M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38793,Dialog,NOBL01,Are you on your way to Luskan? I hear there's quite a number of you magic folk at the Host Tower in the city.,러스칸으로 가시는 건가요? 그 도시의 중심탑에 당신 같은 마법사들이 꽤 많다고 들었는데요.,M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38794,Dialog,NOBL01,A fellow of the <race> people? How wonderful!,<race> 동족이시군요? 정말 반갑습니다!,M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38795,Dialog,NOBL01,"After meeting one brutish human after another, it's quite pleasant to meet someone from the <race> lands!","야만적인 인간들을 계속 만나다가 <race> 땅에서 온 분을 만나니 정말 기쁘군요!",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38796,Dialog,NOBL01,"The humans around these parts haven't a clue how to treat <race> kind, you know.","이 지역 인간들은 <race> 종족을 어떻게 대해야 하는지 전혀 모르거든요.",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38797,Dialog,NOBL01,"You're a fine looking specimen of womanhood, I must say... care to join me?","정말 훌륭한 여성의 표본이시군요... 저와 함께하시겠어요?",M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38798,Dialog,NOBL01,"I am a wealthy man. You could do so well to spend time with me, m'lady.","저는 부유한 사람입니다. 저와 시간을 보내시면 좋을 텐데요, 아가씨.",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38799,Dialog,NOBL01,"Ah, such a fair picture of beauty! Come, sit with me, lass!","아, 정말 아름다운 분이시군요! 자, 저와 함께 앉으시죠, 아가씨!",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38800,Dialog,NOBL01,"What a darling man you seem! Do sit with me, sir.","정말 매력적인 분이시네요! 저와 함께 앉으세요, 나리.",M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38801,Dialog,NOBL01,"I am a woman of taste and distinction. Perhaps you'll do me the favor of visiting my room tonight, sir?","저는 품위 있고 안목 있는 여자입니다. 오늘 밤 제 방을 방문해 주시겠어요, 나리?",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38802,Dialog,NOBL01,"Hmmm... ignore my husband, wherever he is... I'd rather talk to a man like you.","음... 남편은 어디 있든 신경 쓰지 마세요... 당신 같은 분과 얘기하는 게 더 좋거든요.",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38803,Dialog,NOBL01,"A pleasure to meet you, my <lord/lady>. Have you come out from Luskan, as well?","만나서 반갑습니다, <lord/lady>. 당신도 러스칸에서 오셨나요?",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38804,Dialog,NOBL01,"(sigh) What one has to do for one's entertainment... Personally, I can't wait to be back in Luskan when the gates are opened.","(한숨) 오락을 위해 해야 하는 일이란... 솔직히, 성문이 열리면 빨리 러스칸으로 돌아가고 싶어요.",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38805,Dialog,NOBL01,"You are a frequent visitor to this inn, then? This is my first time.","이 여관에 자주 오시나요? 저는 처음이에요.",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38806,Dialog,NOBL01,I cannot wait until the Luskan gates are re-opened. I'm rather eager to be off.,러스칸 성문이 다시 열리기를 기다릴 수가 없어요. 빨리 떠나고 싶거든요.,M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38807,Dialog,NOBL01,"Oh, do leave me be. I'm not accustomed to being approached by your kind.","아, 좀 가 주세요. 당신 같은 부류에게 말 걸리는 건 익숙하지 않아요.",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38808,Dialog,NOBL01,"More lower-class travellers cluttering up this dingy inn, I see.","이 초라한 여관에 하류층 여행자가 또 들어오는군요.",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38809,Dialog,NOBL01,Ugh... a smelly barbarian. Of all the luck... ,"으... 냄새나는 야만인이라니. 운도 지지리 없군...",M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38810,Dialog,NOBL01,"Excuse me, but I'd rather not chat with you smelly, uncivilized barbarian types.","실례지만, 당신 같은 냄새나고 미개한 야만인들과는 대화하고 싶지 않습니다.",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38811,Dialog,NOBL01,"I'm a noble<man/woman>, not a barbarian like yourself.","저는 귀족이지, 당신 같은 야만인이 아닙니다.",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0
+38812,Dialog,NOBL01,"What's this? More <race> rabble? Are you one of the local servants, then?","이게 뭐죠? <race> 천민이 또 있네? 당신 여기 하인인가요?",M2Q5L01NOBL01,nw_d1_ctr01,,,,0,0
+38813,Dialog,NOBL01,"You there! <Race> commoner, you must be one of the servers. Go fetch me a drink, <lad/lass>.","거기 당신! <Race> 평민, 당신 급사 중 하나겠지. 가서 술 좀 가져와, <lad/lass>.",M2Q5L01NOBL01,nw_d1_ctr02,,,,0,0
+38814,Dialog,NOBL01,"I don't have time to be chatted up by just any old <race> beggar, excuse me.","아무 <race> 거지한테나 말 걸릴 시간은 없습니다, 실례.",M2Q5L01NOBL01,nw_d1_ctr03,,,,0,0

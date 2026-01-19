@@ -1,0 +1,83 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+33317,PC,Player Character,Sounds bad. What's your name?,안됐군요. 이름이 뭡니까?,m2q2arevat,,[매력 높음/지능 중간],,,0,0
+33318,PC,Player Character,"There, there, fellow. It'll be all right. May I ask you some questions?","괜찮아요, 친구. 다 잘될 거예요. 몇 가지 물어봐도 될까요?",m2q2arevat,,[매력 높음/지능 중간],,,0,0
+33319,PC,Player Character,Don't you think you're a little old to be crying like that? What's your name?,그렇게 울기엔 좀 나이가 있지 않아? 이름이 뭐야?,m2q2arevat,,[매력 중간/지능 보통],,,0,0
+33320,PC,Player Character,"Uh, don't worry, maybe I can help. Why don't you answer some questions for me first?","어, 걱정 마, 내가 도와줄 수 있을지도 몰라. 먼저 몇 가지 질문에 대답해 줄래?",m2q2arevat,,[매력 중간/지능 보통],,,0,0
+33321,PC,Player Character,Oh quit your blubbering and tell me who you are.,아 그만 울고 누군지 말해.,m2q2arevat,,[매력 낮음/지능 중간],,,0,0
+33322,PC,Player Character,"Yeah, whatever. I have a question.","그래, 뭐든. 질문 있어.",m2q2arevat,,[매력 낮음/지능 중간],,,0,0
+33323,PC,Player Character,You so sad. Who you?,너 많이 슬퍼. 누구야?,m2q2arevat,,[지능 낮음],,,0,0
+33324,PC,Player Character,Me have questions.,나 질문 있어.,m2q2arevat,,[지능 낮음],,,0,0
+33325,PC,Player Character,Goodbye.,안녕.,m2q2arevat,,,,,0,0
+33326,PC,Player Character,Call me <FirstName>.,<FirstName>라고 불러.,m2q2arevat,,[지능 보통],,,0,0
+33327,PC,Player Character,"My name is <FullName>. Pleased to meet you, Revat.","내 이름은 <FullName>이야. 만나서 반가워, 레바트.",m2q2arevat,,[지능 보통],,,0,0
+33328,PC,Player Character,I'm not sure I want to tell you my name right now.,지금 당장 이름을 말하고 싶지는 않아.,m2q2arevat,,[지능 보통],,,0,0
+33329,PC,Player Character,Me is <FirstName>.,나 <FirstName>야.,m2q2arevat,,[지능 낮음],,,0,0
+33330,PC,Player Character,Me called <FullName>. Is nice to meet you.,나 <FullName>야. 만나서 반가워.,m2q2arevat,,[지능 낮음],,,0,0
+33331,PC,Player Character,Me not want tell.,나 말하기 싫어.,m2q2arevat,,[지능 낮음],,,0,0
+33332,PC,Player Character,What's so terrible about today?,오늘 뭐가 그렇게 끔찍한 거야?,m2q2arevat,,[지능 보통],,,0,0
+33333,PC,Player Character,What bad about today?,오늘 뭐가 나빠?,m2q2arevat,,[지능 낮음],,,0,0
+33334,PC,Player Character,Why don't you start by telling me who you are?,먼저 누군지 말해주는 게 어때?,m2q2arevat,,[지능 보통],,,0,0
+33335,PC,Player Character,Who you?,너 누구?,m2q2arevat,,[지능 낮음],,,0,0
+33336,PC,Player Character,Don't you think the trolls would have eaten your mom?,트롤들이 네 엄마를 먹어버렸을 거라고 생각 안 해?,m2q2arevat,,[지능 보통],,,0,0
+33337,PC,Player Character,Where would they be keeping your mom?,네 엄마를 어디에 가둬뒀을까?,m2q2arevat,,[지능 보통],,,0,0
+33338,PC,Player Character,What would you pay to get your mom back?,엄마를 되찾으면 뭘 줄 건데?,m2q2arevat,,[지능 보통],,,0,0
+33339,PC,Player Character,"Don't worry, I'll save her for you.","걱정 마, 내가 구해줄게.",m2q2arevat,,[지능 보통],,,0,0
+33340,PC,Player Character,"I wish I could help, but I'm busy right now.","도와주고 싶지만 지금 바빠.",m2q2arevat,,[지능 보통],,,0,0
+33341,PC,Player Character,You Momma be eaten maybe?,너 엄마 먹혔을지도?,m2q2arevat,,[지능 낮음],,,0,0
+33342,PC,Player Character,You know where she being held?,어디 잡혀있는지 알아?,m2q2arevat,,[지능 낮음],,,0,0
+33343,PC,Player Character,You pay for rescue maybe?,구해주면 돈 줄 거야?,m2q2arevat,,[지능 낮음],,,0,0
+33344,PC,Player Character,Me help you. Me save the mom.,나 도와줄게. 나 엄마 구해.,m2q2arevat,,[지능 낮음],,,0,0
+33345,PC,Player Character,Nope. Me too busy.,싫어. 나 너무 바빠.,m2q2arevat,,[지능 낮음],,,0,0
+33346,PC,Player Character,"<StartCheck>[Persuade]</Start> All right, but I think I might need some money now, to help me rescue your mom.","<StartCheck>[설득]</Start> 좋아, 근데 엄마를 구하려면 지금 돈이 좀 필요할 것 같아.",m2q2arevat,,[지능 보통],,,0,0
+33347,PC,Player Character,"Fine. But you better pay me some up front, or maybe Momma won't come back ever!","좋아. 근데 선불로 좀 줘, 안 그러면 엄마가 영영 못 돌아올 수도 있어!",m2q2arevat,nw_d1_small_evil,[지능 보통],,,0,0
+33348,PC,Player Character,I'll do what I can.,할 수 있는 건 해볼게.,m2q2arevat,,[지능 보통],,,0,0
+33349,PC,Player Character,"Momma will be returned safe and sound, I promise.","엄마를 무사히 데려올게, 약속해.",m2q2arevat,,[지능 보통],,,0,0
+33350,PC,Player Character,<StartCheck>[Persuade]</Start> Me need some coin now to help save Momma.,<StartCheck>[설득]</Start> 나 엄마 구하려면 지금 돈 좀 필요해.,m2q2arevat,,[지능 낮음],,,0,0
+33351,PC,Player Character,Me want coin now. You give gold or Momma not get back maybe!,나 지금 돈 줘. 금화 안 주면 엄마 못 돌아올지도!,m2q2arevat,nw_d1_small_evil,[지능 낮음],,,0,0
+33352,PC,Player Character,Me do that.,나 그렇게 할게.,m2q2arevat,,[지능 낮음],,,0,0
+33353,PC,Player Character,You Momma come back safe soon. Me promise!,너 엄마 곧 무사히 돌아와. 나 약속!,m2q2arevat,,[지능 낮음],,,0,0
+33354,PC,Player Character,Tell me again where I can find her?,어디서 찾을 수 있는지 다시 말해줄래?,m2q2arevat,,nw_d2_j_resc05,,,0,0
+33355,PC,Player Character,I will keep looking for her.,계속 찾아볼게.,m2q2arevat,,nw_d2_j_resc06,,,0,0
+33356,PC,Player Character,"I'm so sorry my good man, but your Momma died while I was trying to save her from the trolls.","정말 미안해, 친구. 트롤들한테서 구하려다가 네 엄마가 돌아가셨어.",m2q2arevat,,nw_d2_j_resc07,,,0,0
+33357,PC,Player Character,"I did, but she was killed. Them's the breaks.","구했어, 근데 죽었어. 어쩔 수 없었어.",m2q2arevat,,nw_d2_j_resc07,,,0,0
+33358,PC,Player Character,"Not yet, but I'm working on it.","아직, 근데 노력 중이야.",m2q2arevat,,[지능 보통],,,0,0
+33359,PC,Player Character,"Yeah, yeah, I'll get around to it eventually.","그래 그래, 언젠가는 할 거야.",m2q2arevat,,[지능 보통],,,0,0
+33360,PC,Player Character,Say where she is again? Me forget.,어디 있다고 했지? 나 까먹었어.,m2q2arevat,,nw_d2_j_resc08,,,0,0
+33361,PC,Player Character,Me keep looking for you Momma.,나 계속 너 엄마 찾을게.,m2q2arevat,,nw_d2_j_resc09,,,0,0
+33362,PC,Player Character,Me so sorry... but she die when me freeing her... ,나 너무 미안... 근데 구할 때 죽었어...,m2q2arevat,,nw_d2_j_resc10,,,0,0
+33363,PC,Player Character,"Me free her, but she die on way. (belch!) Oh well.","나 풀어줬어, 근데 오다가 죽었어. (꺼억!) 뭐 어쩔 수 없지.",m2q2arevat,,nw_d2_j_resc10,,,0,0
+33364,PC,Player Character,"No, but me working on it.","아니, 근데 나 노력 중.",m2q2arevat,,[지능 낮음],,,0,0
+33365,PC,Player Character,"Me get around to it sometime, maybe.","나 언젠가 할 거야, 아마.",m2q2arevat,,[지능 낮음],,,0,0
+33366,PC,Player Character,Tell me where she can be found.,어디서 찾을 수 있는지 말해줘.,m2q2arevat,,nw_d2_j_resc05,,,0,0
+33367,PC,Player Character,You tell me where she be.,어디 있는지 말해.,m2q2arevat,,nw_d2_j_resc08,,,0,0
+33368,PC,Player Character,"Not yet, but I'm working on it.","아직, 근데 노력 중이야.",m2q2arevat,,[지능 보통],,,0,0
+33369,PC,Player Character,"Yeah, yeah, I'll get around to it eventually.","그래 그래, 언젠가는 할 거야.",m2q2arevat,,[지능 보통],,,0,0
+33370,PC,Player Character,"No, but me working on it.","아니, 근데 나 노력 중.",m2q2arevat,,[지능 낮음],,,0,0
+33371,PC,Player Character,"Me get around to it sometime, maybe.","나 언젠가 할 거야, 아마.",m2q2arevat,,[지능 낮음],,,0,0
+33372,PC,Player Character,<StartCheck>[Persuade]</Start> Do you think your Momma is only worth 300 gp?,<StartCheck>[설득]</Start> 네 엄마가 금화 300개밖에 가치가 없다고 생각해?,m2q2arevat,,[지능 보통],,,0,0
+33373,PC,Player Character,"I hate to call you stupid, but I think we agreed on more than that.","바보라고 부르긴 싫지만, 우리 그것보다 더 주기로 했잖아.",m2q2arevat,nw_d1_small_evil,[지능 보통],,,0,0
+33374,PC,Player Character,Thank you. That will be fine.,고마워. 그거면 됐어.,m2q2arevat,,[지능 보통],,,0,0
+33375,PC,Player Character,"No, there's no need for the reward. I was happy to do it.","아니, 보상은 필요 없어. 당연한 일이야.",m2q2arevat,nw_d1_small_good,[지능 보통],,,0,0
+33376,PC,Player Character,"<StartCheck>[Persuade]</Start> Me thinks you could try. You love you Momma, right?","<StartCheck>[설득]</Start> 나 생각에 너 더 줄 수 있어. 너 엄마 사랑하지, 맞지?",m2q2arevat,,[지능 낮음],,,0,0
+33377,PC,Player Character,"What, you stupid? Not what we said. You said me get more. ","뭐, 너 바보야? 우리 그렇게 말 안 했어. 너 더 준다고 했어.",m2q2arevat,nw_d1_small_evil,[지능 낮음],,,0,0
+33378,PC,Player Character,This is okay.,이거 괜찮아.,m2q2arevat,,[지능 낮음],,,0,0
+33379,PC,Player Character,"No, me no need reward. Me happy to help.","아니, 나 보상 필요 없어. 나 기꺼이 도와.",m2q2arevat,nw_d1_small_good,[지능 낮음],,,0,0
+33380,PC,Player Character,"Sorry, you've made a mistake. I'm not with <CUSTOM2401>.","미안, 착각한 것 같아. 난 <CUSTOM2401> 소속 아니야.",m2q2arevat,,[지능 보통],,,0,0
+33381,PC,Player Character,"Yes, I'm with <CUSTOM2401>.","응, 나 <CUSTOM2401> 소속이야.",m2q2arevat,,[지능 보통],,,0,0
+33382,PC,Player Character,Me not with <CUSTOM2401>.,나 <CUSTOM2401> 아니야.,m2q2arevat,,[지능 낮음],,,0,0
+33383,PC,Player Character,"Yep, me with <CUSTOM2401>.","응, 나 <CUSTOM2401>이야.",m2q2arevat,,[지능 낮음],,,0,0
+33384,PC,Player Character,"Maybe I could help, if you tell me what you're talking about.","무슨 말인지 알려주면 내가 도와줄 수 있을지도.",m2q2arevat,,[지능 보통],,,0,0
+33385,PC,Player Character,"Me could help, if you say what me need do.","뭐 해야 하는지 말하면 나 도울 수 있어.",m2q2arevat,,[지능 낮음],,,0,0
+33386,PC,Player Character,Why? What went wrong?,왜? 무슨 일이 있었어?,m2q2arevat,,[지능 보통],,,0,0
+33387,PC,Player Character,Like that should surprise me?,그게 놀랄 일이야?,m2q2arevat,,[지능 보통],,,0,0
+33388,PC,Player Character,What go wrong?,뭐가 잘못됐어?,m2q2arevat,,[지능 낮음],,,0,0
+33389,PC,Player Character,You screw up badder than me.,너 나보다 더 망쳤네.,m2q2arevat,,[지능 낮음],,,0,0
+33390,PC,Player Character,The trolls that Jax told me about.,잭스가 말한 트롤들이구나.,m2q2arevat,,[지능 보통],,,0,0
+33391,PC,Player Character,"And so like a great warrior, you ran away.","그래서 대단한 전사답게 도망친 거야.",m2q2arevat,,[지능 보통],,,0,0
+33392,PC,Player Character,Trolls be nasty.,트롤 나쁜 놈들이야.,m2q2arevat,,[지능 낮음],,,0,0
+33393,PC,Player Character,"So like coward, you run away?","그래서 겁쟁이처럼 도망친 거야?",m2q2arevat,,[지능 낮음],,,0,0
+33394,PC,Player Character,I have decided I will save your mother.,네 엄마를 구하기로 했어.,m2q2arevat,,[지능 보통],,,0,0
+33395,PC,Player Character,Nevermind.,됐어.,m2q2arevat,,,,,0,0
+33396,PC,Player Character,Me decide me save the Momma.,나 엄마 구하기로 했어.,m2q2arevat,,[지능 낮음],,,0,0
+33397,PC,Player Character,Could you tell me what happened again?,무슨 일이 있었는지 다시 말해줄래?,m2q2arevat,,[지능 보통],,,0,0
+33398,PC,Player Character,You tell me you story 'gain.,너 이야기 다시 해줘.,m2q2arevat,,[지능 낮음],,,0,0

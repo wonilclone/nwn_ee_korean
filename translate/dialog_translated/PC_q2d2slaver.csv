@@ -1,0 +1,31 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+104926,PC,Player Character,"""I'm not ready to bid yet.""","""아직 입찰할 준비가 안 됐어.""",q2d2slaver,,,,,0,0
+104927,PC,Player Character,"""You disgust me! You must die for your crimes!""","""역겨워! 네 죄에 대한 대가로 죽어야 해!""",q2d2slaver,q2d2_allhostile,,,,0,0
+104928,PC,Player Character,"""Let's start the bidding.""","""입찰을 시작하지.""",q2d2slaver,,,,,0,0
+104929,PC,Player Character,"""I'll give you 1200 gold.""","""금화 1200을 주겠어.""",q2d2slaver,,,,,0,0
+104930,PC,Player Character,"""Too rich for me. He can have her.""","""내겐 너무 비싸. 그가 가져.""",q2d2slaver,act_q2d2slaver_1,,,,0,0
+104931,PC,Player Character,"""I'll give you 3000!""","""금화 3000을 주겠어!""",q2d2slaver,,,,,0,0
+104932,PC,Player Character,"""I'll give you 2500.""","""금화 2500을 주겠어.""",q2d2slaver,,,,,0,0
+104933,PC,Player Character,"<StartAction>Intimidate</Start> ""3000 - and you'd be smart not to outbid me again!""","<StartAction>위협한다.</Start> ""금화 3000이야 - 다시는 나보다 높게 부르지 않는 게 현명할 거야!""",q2d2slaver,,,,,0,0
+104934,PC,Player Character,""5000 for the girl.""""""","""그 여자에게 금화 5000.""",q2d2slaver,,,,,0,0
+104935,PC,Player Character,"""Here's the 5000 gold.""","""여기 금화 5000이야.""",q2d2slaver,q2_take5000gold,q2_has5000gold,,,0,0
+104936,PC,Player Character,"""Here's the 3000 gold.""","""여기 금화 3000이야.""",q2d2slaver,q2_take3000gold,q2_has3000gold,,,0,0
+104937,PC,Player Character,"""I'll go to 3000.""","""금화 3000까지 가겠어.""",q2d2slaver,,,,,0,0
+104938,PC,Player Character,"""4000.""","""금화 4000.""",q2d2slaver,,,,,0,0
+104939,PC,Player Character,"""I don't have that much gold on me.""","""내게 그만큼의 금화가 없어.""",q2d2slaver,,,,,0,0
+104940,PC,Player Character,"""I changed my mind. I don't want her.""","""마음이 바뀌었어. 그녀는 원치 않아.""",q2d2slaver,,,,,0,0
+104941,PC,Player Character,"""Here's the 4000 gold.""","""여기 금화 4000이야.""",q2d2slaver,q2_take4000gold,q2_has4000gold,,,0,0
+104942,PC,Player Character,"""I'll give you 1000 gold.""","""금화 1000을 주겠어.""",q2d2slaver,,,,,0,0
+104943,PC,Player Character,<StartAction>Stay silent</Start>,<StartAction>침묵을 지킵니다.</Start>,q2d2slaver,,,,,0,0
+104944,PC,Player Character,<StartAction>Offer 1300 gold.</Start>,<StartAction>금화 1300을 제안합니다.</Start>,q2d2slaver,,,,,0,0
+104945,PC,Player Character,<StartAction>Stay silent</Start>,<StartAction>침묵을 지킵니다.</Start>,q2d2slaver,,,,,0,0
+104946,PC,Player Character,"""I'll give you 1500 for her.""","""그녀에게 금화 1500을 주겠어.""",q2d2slaver,,,,,0,0
+104947,PC,Player Character,"<StartAction>Bluff</Start> ""The thrall is obviously simple-minded. I'll only offer 1300.""","<StartAction>허세를 부립니다.</Start> ""그 노예는 명백히 정신이 모자라. 금화 1300만 주겠어.""",q2d2slaver,,,,,0,0
+104948,PC,Player Character,"<StartAction>Persuade</Start> ""1500 is too high for a sickly human female. I'll go 1300.""","<StartAction>설득합니다.</Start> ""금화 1500은 병약한 인간 여자치곤 너무 높아. 금화 1300이면 돼.""",q2d2slaver,,,,,0,0
+104949,PC,Player Character,""Here's the 1300 gold.""""""","""여기 금화 1300이야.""",q2d2slaver,q2_take1300gold,q2_has1300gold,,,0,0
+104950,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2d2slaver,,,,,0,0
+104951,PC,Player Character,"""Thralls serve a master! I'm no thrall!""","""노예는 주인을 섬겨! 난 노예가 아니야!""",q2d2slaver,,,,,0,0
+104952,PC,Player Character,"""Are you saying you're too good to answer my questions?""","""내 질문에 답하기엔 네가 너무 대단하다는 거야?""",q2d2slaver,,,,,0,0
+104953,PC,Player Character,"""Die, you arrogant, tentacle-faced freak!""","""죽어라, 오만한 촉수 얼굴 괴물아!""",q2d2slaver,act_q2d2slaver_1,,,,0,0
+104954,PC,Player Character,"""The pits?""","""구덩이?""",q2d2slaver,,,,,0,0
+104955,PC,Player Character,"""Tell me about this thrall.""","""이 노예에 대해 말해줘.""",q2d2slaver,,,,,0,0

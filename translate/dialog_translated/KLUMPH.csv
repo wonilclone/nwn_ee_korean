@@ -1,0 +1,72 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72666,Dialog,KLUMPH,"Yip, me will, so long as it no mean me gets eaten by Big Master.","킁, 나 그러지, 큰 주인한테 잡아먹히지만 않으면.",Q5_KLUMPH,,,,,0,0
+72667,Dialog,KLUMPH,"Yip! You means me should do what you wants, then let Big Master eats me? Grr, you throw me back in prison instead, be longer life, yip!","킁! 네 말대로 했다가 큰 주인한테 잡아먹히라고? 그르르, 차라리 다시 감옥에 넣어, 더 오래 살 수 있어, 킁!",Q5_KLUMPH,,,,,0,0
+72671,Dialog,KLUMPH,"Yip, this not fair! Send me back to prison, better there than dead, yip!","킁, 이거 불공평해! 나 다시 감옥에 보내줘, 죽는 것보단 거기가 나아, 킁!",Q5_KLUMPH,,,,,0,0
+72672,Dialog,KLUMPH,"<StartCheck>[Failure]</Start> That be it, yip! Me not stay here no more!","<StartCheck>[실패]</Start> 그거면 됐어, 킁! 나 여기 더 안 있어!",Q5_KLUMPH,,,,,0,0
+72680,Dialog,KLUMPH,"<StartCheck>[Success]</Start> Yip, maybe him can, but no go all the time?","<StartCheck>[성공]</Start> 킁, 어쩌면 가능하지, 근데 맨날은 아니고?",Q5_KLUMPH,,,,,0,0
+72681,Dialog,KLUMPH,"Yip, if Chief barge in on Big Master lots, Big Master kills me.","킁, 족장이 큰 주인한테 자주 들이닥치면, 큰 주인이 나 죽여.",Q5_KLUMPH,,,,,0,0
+72683,Dialog,KLUMPH,"Maybe that not such a bad thing, yip!","어쩌면 그거 나쁜 거 아닐지도, 킁!",Q5_KLUMPH,,,,,0,0
+72685,Dialog,KLUMPH,"Yip, me sorry Chief.","킁, 나 미안해 족장.",Q5_KLUMPH,,,,,0,0
+72688,Dialog,KLUMPH,"Grr, how often you thinks me should let you goes in? What you thinks, arbitrator, yip?","그르르, 얼마나 자주 들여보내야 한다고 생각해? 중재자 생각은 어때, 킁?",Q5_KLUMPH,,,,,0,0
+72690,Dialog,KLUMPH,"Me could agree to that, yip, long as Chief promise him no tries to get Big Master to make him Master Jumper, yip!","나 그거 동의해, 킁, 족장이 큰 주인한테 자기를 뜀박장으로 만들어달라고 안 하면, 킁!",Q5_KLUMPH,,,,,0,0
+72692,Dialog,KLUMPH,"Yip, wait! Does me no get part of deal?","킁, 잠깐! 나는 거래에서 뭐 안 받아?",Q5_KLUMPH,,,,,0,0
+72694,Dialog,KLUMPH,"Me meet you at big rock then, yip!","그럼 큰 바위에서 보자, 킁!",Q5_KLUMPH,act_q5arzig_3,,,,0,0
+72695,Dialog,KLUMPH,Me wants horses!,나 말 원해!,Q5_KLUMPH,,,,,0,0
+72697,Dialog,KLUMPH,"Yip, them so tasty! Grr, then me wants Dwarven war axe.","킁, 그거 너무 맛있어! 그르르, 그럼 나 드워프 전투 도끼 원해.",Q5_KLUMPH,,,,,0,0
+72699,Dialog,KLUMPH,"Them no be so pretty as dwarves make, yip. Fine, then me wants cloaks and robes. Then me looks like real sorcerer. Grr, it gets cold in me cave and me no has wife to keep me warm.","드워프가 만드는 것만큼 예쁘진 않아, 입. 좋아, 그럼 나 망토랑 로브 원해. 그러면 진짜 마법사처럼 보여. 그르르, 내 동굴 추운데 따뜻하게 해줄 아내도 없어.",Q5_KLUMPH,,,,,0,0
+72703,Dialog,KLUMPH,"Yip, me always likes you sister, yip!","킁, 나 네 누이 항상 좋아했어, 킁!",Q5_KLUMPH,,,,,0,0
+72705,Dialog,KLUMPH,"That be good deal. You be good arbitrator, yip!","좋은 거래야. 넌 좋은 중재자야, 킁!",Q5_KLUMPH,,,,,0,0
+72708,Dialog,KLUMPH,"Ack, yip! That get me killed for sure! Me not stay here no more, yip!","악, 킁! 그러면 확실히 죽어! 나 여기 더 안 있어, 킁!",Q5_KLUMPH,act_q5arzig_2,,,,0,0
+72710,Dialog,KLUMPH,"Yip! Alright, maybe we works together on this. What you wants, Chief?","킁! 좋아, 어쩌면 우리 이거 같이 해. 뭘 원해, 족장?",Q5_KLUMPH,,,,,0,0
+72711,Dialog,KLUMPH,"Yip! Me die either way! That no be fair, grr. Me only helps if this be fair! What you wants, Chief?","킁! 어차피 나 죽어! 그거 불공평해, 그르르. 나 공정하면만 도와! 뭘 원해, 족장?",Q5_KLUMPH,,,,,0,0
+73152,Dialog,KLUMPH,"Yip, yip, what you do in here? You no be kobold? Them makes you prisoner like Master Jumper, yip?","킁, 킁, 여기서 뭐 해? 너 코볼트 아니지? 뜀박장처럼 포로 된 거야, 킁?",Q5_KLUMPH,,,,,0,0
+73153,Dialog,KLUMPH,"This be bad place to explore. Yip, this be prison. You no find good things in here, yip, yip! 'Cept you found Master Jumper, and that be good thing, yip!","여긴 탐험하기 나쁜 곳이야. 킁, 여긴 감옥이야. 여기서 좋은 거 못 찾아, 킁, 킁! 근데 뜀박장 찾았으니까, 그건 좋은 거야, 킁!",Q5_KLUMPH,,,,,0,0
+73154,Dialog,KLUMPH,"Yip, yip! I be Master Jumper. Me tells kobolds when them can go in and see Big Master. Him no likes many visitors, 'specially from kobolds.","킁, 킁! 나 뜀박장이야. 코볼트들한테 언제 큰 주인 보러 갈 수 있는지 말해줘. 큰 주인 손님 많은 거 싫어해, 특히 코볼트.",Q5_KLUMPH,,,,,0,0
+73155,Dialog,KLUMPH,"If Master Jumper lets lots of kobolds go in, then Big Master eats Master Jumper and finds new one. Me no wants to be eaten, so me tells chief no.","뜀박장이 코볼트 많이 들여보내면, 큰 주인이 뜀박장 잡아먹고 새로운 거 찾아. 나 잡아먹히기 싫어서, 족장한테 안 된다고 해.",Q5_KLUMPH,,,,,0,0
+73156,Dialog,KLUMPH,"Yip, that be why Big Master puts a big rock in front of him cave, well... yip, and to protects him. Yip, yip, that be funny, like Big Master need to be protected, yip!","킁, 그래서 큰 주인이 동굴 앞에 큰 바위 놨어, 음... 킁, 그리고 자기 보호하려고. 킁, 킁, 웃기지, 큰 주인이 보호가 필요하다니, 킁!",Q5_KLUMPH,,,,,0,0
+73157,Dialog,KLUMPH,"Yip! That what me trying to tell you. There no be way in, unless me no be prisoner no more. Yip, 'less you gets me Rod of Ruler from chief, then all other kobolds follows me.","킁! 그게 내가 말하려는 거야. 들어갈 방법 없어, 내가 포로 아니게 되지 않으면. 킁, 족장한테서 지배자의 단장 가져와주면, 다른 코볼트들 나 따라.",Q5_KLUMPH,q5_setpltsham1,,,,0,0
+73158,Dialog,KLUMPH,"If them follows me, yip, then me can lifts the rock for you! If me not have rod, then them be too scared of chief to listen me, yip.","저들이 나 따르면, 킁, 바위 올려줄 수 있어! 단장 없으면, 저들 족장 무서워서 내 말 안 들어, 입.",Q5_KLUMPH,,,,,0,0
+73159,Dialog,KLUMPH,"Yip, grr, same reason chief can no use it. Kobolds not follow him, them not follow you, them follow Master Jumper. Yip, Big Master tells them so. Them just be scared now of chief.","킁, 그르르, 족장이 못 쓰는 이유랑 같아. 코볼트들 족장 안 따라, 너도 안 따라, 뜀박장 따라. 킁, 큰 주인이 그렇게 말했어. 저들 지금 족장 무서워할 뿐이야.",Q5_KLUMPH,,,,,0,0
+73160,Dialog,KLUMPH,"Grr, this not so hard as you be making it! Rod of Ruler means me be in charge, without rod, them other kobolds not know me for sure in charge, yip!","그르르, 네가 생각하는 것처럼 어렵지 않아! 지배자의 단장 있으면 내가 책임자야, 단장 없으면, 다른 코볼트들 내가 확실히 책임자인지 몰라, 킁!",Q5_KLUMPH,,,,,0,0
+73161,Dialog,KLUMPH,"But them knows chief not supposed to have rod, so them not follow him either, them just hide. Yip, if me comes to big rock and has rod, them will listen to me. That be only way.","근데 저들 족장이 단장 갖고 있으면 안 되는 거 알아, 그래서 족장도 안 따라, 그냥 숨어. 킁, 내가 큰 바위로 가서 단장 들고 있으면, 저들 내 말 들어. 그게 유일한 방법이야.",Q5_KLUMPH,,,,,0,0
+73162,Dialog,KLUMPH,"<StartAction>[Sigh]</Start> Yip, that would be nice. Them would have come and frees me. Yip, that be too much risk for them. All them knows is jumping, not thinking of such things.","<StartAction>[한숨]</Start> 킁, 그러면 좋겠지. 저들이 와서 풀어줬을 텐데. 킁, 저들한테는 너무 위험해. 저들이 아는 건 뛰는 거뿐이야, 그런 거 생각 안 해.",Q5_KLUMPH,,,,,0,0
+73163,Dialog,KLUMPH,"And chief no try to kill you? Yip? Guess there be first time for everything, yip.","그리고 족장이 널 죽이려고 안 했어? 킁? 뭐든 처음은 있는 법이지, 입.",Q5_KLUMPH,,,,,0,0
+73164,Dialog,KLUMPH,"You must still get rod from chief, and him no likes me, cause me gots power over him. Yip! Maybe if you talks nice to him, him will let me have rod back? It not likely, but maybe you tries?","아직 족장한테서 단장 가져와야 해, 족장 나 안 좋아해, 내가 저한테 권력 있으니까. 킁! 어쩌면 잘 말하면, 단장 돌려줄지도? 가능성은 낮지만, 시도해볼래?",Q5_KLUMPH,,,,,0,0
+73165,Dialog,KLUMPH,"Grr, yip, yip, no, no, me wants to help you. Without me you can no gets rock lifted! You needs me, yip!","그르르, 킁, 킁, 아냐, 아냐, 나 너 돕고 싶어. 나 없으면 바위 못 올려! 내가 필요해, 킁!",Q5_KLUMPH,,,,,0,0
+73166,Dialog,KLUMPH,"Yip, that probably be best idea, yip. Him no be good chief no how, yip!","킁, 아마 그게 최고의 방법이야, 입. 어차피 좋은 족장 아니야, 킁!",Q5_KLUMPH,,,,,0,0
+73167,Dialog,KLUMPH,"Yip, me has me doubts, but maybe you is smarter than you looks, yip! Good luck.","킁, 나 의심 좀 있어, 근데 어쩌면 너 보이는 것보다 똑똑해, 킁! 행운을 빌어.",Q5_KLUMPH,,,,,0,0
+73168,Dialog,KLUMPH,"Yip! That be good. Give me rod and then me will tell jumpers to lift big rock, yip!","킁! 잘됐다. 단장 줘, 그러면 뛰는 놈들한테 큰 바위 올리라고 할게, 킁!",Q5_KLUMPH,,,,,0,0
+73169,Dialog,KLUMPH,"Should be near where chief was, yip!","족장 있던 데 근처에 있을 거야, 킁!",Q5_KLUMPH,,,,,0,0
+73170,Dialog,KLUMPH,"Grr, yip, yip, no, no, me wants to help you. Without me you can no gets rock lifted! You needs me, yip!","그르르, 킁, 킁, 아냐, 아냐, 나 너 돕고 싶어. 나 없으면 바위 못 올려! 내가 필요해, 킁!",Q5_KLUMPH,,,,,0,0
+73171,Dialog,KLUMPH,"Yip! Me no give up without fight, grrr!","킁! 나 싸우지 않고 안 포기해, 그르르!",Q5_KLUMPH,nw_d1_attonend02,,,,0,0
+73172,Dialog,KLUMPH,"Yip, grr, same reason chief can no use it. Kobolds not follow him, them not follow you, them follow Master Jumper. Yip, Big Master tells them so. Them just be scared now of chief.","킁, 그르르, 족장이 못 쓰는 이유랑 같아. 코볼트들 족장 안 따라, 너도 안 따라, 뜀박장 따라. 킁, 큰 주인이 그렇게 말했어. 저들 지금 족장 무서워할 뿐이야.",Q5_KLUMPH,,,,,0,0
+73173,Dialog,KLUMPH,"Grr, this not so hard as you be making it! Rod of Ruler means me be in charge, without rod, them other kobolds not know me for sure in charge, yip!","그르르, 네가 생각하는 것처럼 어렵지 않아! 지배자의 단장 있으면 내가 책임자야, 단장 없으면, 다른 코볼트들 내가 확실히 책임자인지 몰라, 킁!",Q5_KLUMPH,,,,,0,0
+73174,Dialog,KLUMPH,"But them knows chief not supposed to have rod, so them not follow him either, them just hide. Yip, if me comes to big rock and has rod, them will listen to me. That be only way.","근데 저들 족장이 단장 갖고 있으면 안 되는 거 알아, 그래서 족장도 안 따라, 그냥 숨어. 킁, 내가 큰 바위로 가서 단장 들고 있으면, 저들 내 말 들어. 그게 유일한 방법이야.",Q5_KLUMPH,,,,,0,0
+73175,Dialog,KLUMPH,"<StartAction>[Sigh]</Start> Yip, that would be nice. Them would have come and frees me. Yip, that be too much risk for them. All them knows is jumping, not thinking of such things.","<StartAction>[한숨]</Start> 킁, 그러면 좋겠지. 저들이 와서 풀어줬을 텐데. 킁, 저들한테는 너무 위험해. 저들이 아는 건 뛰는 거뿐이야, 그런 거 생각 안 해.",Q5_KLUMPH,,,,,0,0
+73176,Dialog,KLUMPH,"Yip! You has the rod! Hows you gets it from chief? Yip, no, me not really wants to know that. Maybe we get newer, smarter chief, yip!","킁! 단장 있네! 어떻게 족장한테서 뺏었어? 킁, 아냐, 알고 싶지 않아. 어쩌면 더 새롭고 똑똑한 족장 생길지도, 킁!",Q5_KLUMPH,,,,,0,0
+73177,Dialog,KLUMPH,"Now me helps you. Me meets you at big rock, yip!","이제 너 도와줄게. 큰 바위에서 보자, 킁!",Q5_KLUMPH,,,,,0,0
+73178,Dialog,KLUMPH,"Yip! Stupid, mean kobold chief be just in cave to south. If you kills him, yip, then maybe me be chief and Master Jumper, yip! That be good idea, yip!","킁! 멍청하고 못된 코볼트 족장은 남쪽 동굴에 있어. 그 놈 죽이면, 킁, 어쩌면 내가 족장이랑 뜀박장 될지도, 킁! 좋은 생각이야, 킁!",Q5_KLUMPH,,,,,0,0
+73179,Dialog,KLUMPH,"Yip! That be good to think, but Chief will no like you and will no give up rod, yip!","킁! 그렇게 생각하면 좋지, 근데 족장 너 안 좋아하고 단장 안 줄 거야, 킁!",Q5_KLUMPH,,,,,0,0
+73180,Dialog,KLUMPH,"Yip! That because Master Jumper be smart kobold, yip! That be why Big Master picks me.","킁! 뜀박장이 똑똑한 코볼트라서 그래, 킁! 그래서 큰 주인이 나 뽑았어.",Q5_KLUMPH,,,,,0,0
+73181,Dialog,KLUMPH,"Yip? Why you no want kill him? Him wants to kill you, most likely, yip! Besides, him cannot give up rod, or no one will listen to chief no more, yip! Yes, me think chief will die, yip!","킁? 왜 안 죽이려고? 그 놈 널 죽이려 할 거야, 아마도, 킁! 게다가 단장 포기 못 해, 안 그러면 아무도 족장 말 안 들어, 킁! 그래, 족장 죽을 거야, 킁!",Q5_KLUMPH,,,,,0,0
+73182,Dialog,KLUMPH,"Big Master put big rock in front of cave and have big thing that lift it, yip, but years ago, one kobold broke machine and so it not work.","큰 주인이 동굴 앞에 큰 바위 놓고 올리는 큰 장치도 있었어, 킁, 근데 몇 년 전에 코볼트 하나가 기계 부숴서 안 돼.",Q5_KLUMPH,,,,,0,0
+73183,Dialog,KLUMPH,"Yip, now we gots to get kobolds to jump on platform and make lifting thing work. We try using rocks once, but them too heavy and hard to get out, yip. ","킁, 이제 코볼트들 발판 위에서 뛰게 해서 올리는 장치 작동시켜야 해. 한 번 바위 써봤는데, 너무 무겁고 빼기 어려워, 입.",Q5_KLUMPH,,,,,0,0
+73184,Dialog,KLUMPH,"Kobolds be easy to get out of platform when Big Master's visits over, yip! So I tell kobolds jumps and them jumps. It fun to watch, yip! But chief take all fun away. Now Master not get no visitors.","큰 주인 방문 끝나면 발판에서 코볼트 빼기 쉬워, 킁! 그래서 코볼트들한테 뛰라고 하면 뛰어. 보는 거 재밌어, 킁! 근데 족장이 재미 다 뺏어갔어. 이제 큰 주인 손님 없어.",Q5_KLUMPH,,,,,0,0
+73185,Dialog,KLUMPH,"You be careful of chief, yip! Him be sneaky!","족장 조심해, 킁! 교활해!",Q5_KLUMPH,,,,,0,0
+73186,Dialog,KLUMPH,"Grr, yip, me be Master Jumper and me tell chief he no can go in and see the Big Master. Yip! Him gots so mad, him throws me in here.","그르르, 킁, 나 뜀박장인데 족장한테 큰 주인 보러 못 간다고 했어. 킁! 너무 화나서 나 여기 던졌어.",Q5_KLUMPH,,,,,0,0
+73187,Dialog,KLUMPH,"Yip! That be Big Master, yip! You know him name, that be good sign. Maybe you be a visitor for him, yip?","킁! 그게 큰 주인이야, 킁! 이름 알아, 좋은 징조야. 어쩌면 네가 손님인가, 킁?",Q5_KLUMPH,,,,,0,0
+73188,Dialog,KLUMPH,"Where you army be, yip? Master is big, scary dragon! You no think you attacks him by youself, yip? Oh, ho, yip, me think Big Master would likes you, least him likes how you taste me bets.","네 군대는 어딨어, 킁? 큰 주인은 크고 무서운 용이야! 혼자 공격할 생각 아니지, 킁? 오, 호, 킁, 큰 주인이 널 좋아할 것 같아, 최소한 네 맛은 좋아할 거야.",Q5_KLUMPH,,,,,0,0
+73189,Dialog,KLUMPH,"Yip, me would likes to lets you go in. You is the kind of visitor Big Master would likes to see, but now me is no in charge, yip!","킁, 나 널 들여보내고 싶어. 넌 큰 주인이 보고 싶어할 종류의 손님이야, 근데 지금 나 책임자 아니야, 킁!",Q5_KLUMPH,,,,,0,0
+73190,Dialog,KLUMPH,"There no be way in, unless me no be prisoner no more. Yip, 'less you gets me Rod of Ruler from chief, then all other kobolds follows me.","들어갈 방법 없어, 내가 포로 아니게 되지 않으면. 킁, 족장한테서 지배자의 단장 가져와주면, 다른 코볼트들 나 따라.",Q5_KLUMPH,,,,,0,0
+73191,Dialog,KLUMPH,"Yip, yip, yip! You are back. You brings me the rod?","킁, 킁, 킁! 돌아왔네. 단장 가져왔어?",Q5_KLUMPH,,,,,0,0
+73192,Dialog,KLUMPH,"You best hurrys, yip!","빨리 해, 킁!",Q5_KLUMPH,,,,,0,0
+73193,Dialog,KLUMPH,"Me try to answer you questions, yip. Me hopes them not be too hard.","나 네 질문에 답하려고 해, 입. 너무 어렵지 않으면 좋겠어.",Q5_KLUMPH,,,,,0,0
+73194,Dialog,KLUMPH,"Oh, yip, me name be Klumph, Master Jumper Klumph. Yip, what you name be?","오, 킁, 내 이름은 클룸프야, 뜀박장 클룸프. 킁, 네 이름은 뭐야?",Q5_KLUMPH,,,,,0,0
+73195,Dialog,KLUMPH,"<StartCheck>[Failure]</Start> Yip, you makes fun of Klumph's name. That not be nice. Klumph named after kobold hero. You gots any other stupid questions?","<StartCheck>[실패]</Start> 킁, 클룸프 이름 놀려. 그거 안 좋아. 클룸프는 코볼트 영웅 이름 딴 거야. 다른 바보 같은 질문 있어?",Q5_KLUMPH,,,,,0,0
+73196,Dialog,KLUMPH,"<StartCheck>[Success]</Start> Yip! That be very odd. Me never know <race> <male/female>s uses kobold hero names. You gots any other questions, Klumph?","<StartCheck>[성공]</Start> 킁! 그거 되게 이상해. <race> <male/female>이 코볼트 영웅 이름 쓰는 거 처음 알았어. 다른 질문 있어, 클룸프?",Q5_KLUMPH,,,,,0,0
+73197,Dialog,KLUMPH,"Yip! That not be nice, but fine. Me no care much, yip! You gots other stupid questions?","킁! 그거 안 좋지만, 됐어. 나 별로 신경 안 써, 킁! 다른 바보 같은 질문 있어?",Q5_KLUMPH,,,,,0,0
+73198,Dialog,KLUMPH,"Yip!, That be nice name. You gots other questions, <FirstName>?","킁! 좋은 이름이네. 다른 질문 있어, <FirstName>?",Q5_KLUMPH,,,,,0,0
+73199,Dialog,KLUMPH,"Yip, good, you makes it. You ready for jumping, yip?","킁, 좋아, 도착했네. 뛰기 준비됐어, 킁?",Q5_KLUMPH,,,,,0,0
+73200,Dialog,KLUMPH,"Alright, we will waits for you, yip!","좋아, 기다릴게, 킁!",Q5_KLUMPH,,,,,0,0
+73201,Dialog,KLUMPH,Jumpers!!! Every kobold gets ready! GO!!!,뛰는 놈들!!! 모든 코볼트 준비! 가!!!,Q5_KLUMPH,q5_jumping,,,,0,0
+73202,Dialog,KLUMPH,"Good luck with Big Master! You be careful, him mights be hungry. Oh, yip, and you watches out for ice kobolds. Them be different tribe and them be tough!","큰 주인한테 행운을 빌어! 조심해, 배고플지도 몰라. 오, 킁, 그리고 얼음 코볼트 조심해. 다른 부족이고 강해!",Q5_KLUMPH,,,,,0,0

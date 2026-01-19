@@ -1,0 +1,54 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+34058,PC,Player Character,What do you mean?,무슨 뜻이야?,m2q2ehenna,,[지능 보통],,,0,0
+34059,PC,Player Character,Sure. My name is <FirstName>. May I ask you some questions?,"물론. 내 이름은 <FirstName>이야. 몇 가지 질문해도 돼?",m2q2ehenna,,[지능 보통],,,0,0
+34060,PC,Player Character,Only if it leads to a city. I can't stand nature.,도시로 가는 길이면 좋겠어. 자연은 질색이야.,m2q2ehenna,,[지능 보통],,,0,0
+34061,PC,Player Character,What you mean?,무슨 뜻이야?,m2q2ehenna,,[지능 낮음],,,0,0
+34062,PC,Player Character,"Okay. Me be <FirstName>. Me ask you questions, maybe?","알았어. 나 <FirstName>이야. 질문해도 돼?",m2q2ehenna,,[지능 낮음],,,0,0
+34063,PC,Player Character,No. Me no like trees and beasts and stuff.,싫어. 나 나무랑 짐승이랑 그런 거 싫어.,m2q2ehenna,,[지능 낮음],,,0,0
+34064,PC,Player Character,"All right then, guide me by answering some questions.","좋아, 그럼 질문에 대답해서 나를 안내해줘.",m2q2ehenna,,[지능 보통],,,0,0
+34065,PC,Player Character,<StartCheck>[Insight]</Start> What kind of people have guided you in the past?,<StartCheck>[통찰]</Start> 과거에 어떤 사람들을 안내했어?,m2q2ehenna,,nw_d2_wis_intn,,,0,0
+34066,PC,Player Character,I don't see why that would be a duty.,그게 왜 의무인지 모르겠는데.,m2q2ehenna,,[지능 보통],,,0,0
+34067,PC,Player Character,You guide by give me answers to questions.,질문에 대답해서 안내해줘.,m2q2ehenna,,[지능 낮음],,,0,0
+34068,PC,Player Character,Why that be you duty?,왜 그게 네 의무야?,m2q2ehenna,,[지능 낮음],,,0,0
+34069,PC,Player Character,What is happening around here?,여기서 무슨 일이 일어나고 있어?,m2q2ehenna,,m2q2_hurtspiritn,,,0,0
+34070,PC,Player Character,What do you do around here?,여기서 뭘 하는 거야?,m2q2ehenna,,[지능 보통],,,0,0
+34071,PC,Player Character,Who is in charge here?,여기 책임자가 누구야?,m2q2ehenna,,[지능 보통],,,0,0
+34072,PC,Player Character,What going on here?,여기서 무슨 일 있어?,m2q2ehenna,,m2q2_hurtspiritl,,,0,0
+34073,PC,Player Character,What you do here?,여기서 뭐 해?,m2q2ehenna,,[지능 낮음],,,0,0
+34074,PC,Player Character,Who be boss here?,여기 대장 누구야?,m2q2ehenna,,[지능 낮음],,,0,0
+34075,PC,Player Character,What kind of rumors?,무슨 소문인데?,m2q2ehenna,,[지능 보통],,,0,0
+34076,PC,Player Character,What be rumors?,소문이 뭐야?,m2q2ehenna,,[지능 낮음],,,0,0
+34077,PC,Player Character,Thank you. Goodbye.,고마워. 안녕.,m2q2ehenna,,,,,0,0
+34078,PC,Player Character,Nothing. Goodbye.,됐어. 안녕.,m2q2ehenna,,,,,0,0
+34079,PC,Player Character,What do you mean defender?,수호자가 무슨 뜻이야?,m2q2ehenna,,[지능 보통],,,0,0
+34080,PC,Player Character,So can I challenge you?,그럼 도전해도 돼?,m2q2ehenna,,[지능 보통],,,0,0
+34081,PC,Player Character,What that mean defender?,수호자가 뭐야?,m2q2ehenna,,[지능 낮음],,,0,0
+34082,PC,Player Character,Let me ask you another question.,다른 질문 하나 할게.,m2q2ehenna,,[지능 보통],,,0,0
+34083,PC,Player Character,Me have other question.,다른 질문 있어.,m2q2ehenna,,[지능 낮음],,,0,0
+34084,PC,Player Character,Nevermind. Goodbye.,됐어. 안녕.,m2q2ehenna,,,,,0,0
+34085,PC,Player Character,Can me challenge you?,나 도전해도 돼?,m2q2ehenna,,[지능 낮음],,,0,0
+34086,PC,Player Character,Why are you suddenly so uptight? I was just trying to be polite.,왜 갑자기 그렇게 긴장해? 그냥 예의 바르게 대하려고 했을 뿐인데.,m2q2ehenna,,m2q2_hurtspiritn,,,0,0
+34087,PC,Player Character,Fine. Maybe you could answer some other questions.,알았어. 다른 질문에 대답해줄래?,m2q2ehenna,,[지능 보통],,,0,0
+34088,PC,Player Character,Is that what you meant by guiding me down the right path? Telling me to mind my own business?,올바른 길로 안내한다는 게 그거야? 내 일이나 신경 쓰라고?,m2q2ehenna,,m2q2_hurtspiritn,,,0,0
+34089,PC,Player Character,Whatever. Goodbye.,됐어. 안녕.,m2q2ehenna,,,,,0,0
+34090,PC,Player Character,Why you get mad? Me just be friendly.,왜 화나? 나 그냥 친하게 지내려고 한 거야.,m2q2ehenna,,m2q2_hurtspiritl,,,0,0
+34091,PC,Player Character,Fine. Then you answer other questions.,알았어. 그럼 다른 질문에 대답해.,m2q2ehenna,,[지능 낮음],,,0,0
+34092,PC,Player Character,That how you guide me? Tell me no ask questions?,그게 안내하는 거야? 질문하지 말라고?,m2q2ehenna,,m2q2_hurtspiritl,,,0,0
+34093,PC,Player Character,What sort of counselor?,어떤 조언자인데?,m2q2ehenna,,[지능 보통],,,0,0
+34094,PC,Player Character,What you do to counsel?,조언 어떻게 해?,m2q2ehenna,,[지능 낮음],,,0,0
+34095,PC,Player Character,"<StartCheck>[Persuade]</Start> I understand, but sometimes it helps to share your pain.","<StartCheck>[설득]</Start> 이해해, 하지만 가끔은 아픔을 나누는 게 도움이 돼.",m2q2ehenna,,[지능 보통],,,0,0
+34096,PC,Player Character,That's okay. Why don't you just answer a different question?,괜찮아. 다른 질문에 대답해줄래?,m2q2ehenna,,[지능 보통],,,0,0
+34097,PC,Player Character,You tell me story.,이야기해줘.,m2q2ehenna,,[지능 낮음],,,0,0
+34098,PC,Player Character,You answer me other questions.,다른 질문에 대답해줘.,m2q2ehenna,,[지능 낮음],,,0,0
+34099,PC,Player Character,No. Goodbye.,싫어. 안녕.,m2q2ehenna,,,,,0,0
+34100,PC,Player Character,That's terrible. What did you do?,끔찍하네. 어떻게 했어?,m2q2ehenna,,[지능 보통],,,0,0
+34101,PC,Player Character,"That happens a lot, especially to foolish people.","자주 있는 일이야, 특히 어리석은 사람들한테.",m2q2ehenna,,[지능 보통],,,0,0
+34102,PC,Player Character,That be sad. What you do next?,슬프다. 다음에 뭐 했어?,m2q2ehenna,,[지능 낮음],,,0,0
+34103,PC,Player Character,That happens lots. You be foolish with gold.,그런 일 많아. 금화 다루는 데 어리석었어.,m2q2ehenna,,[지능 낮음],,,0,0
+34104,PC,Player Character,"What do you mean, the Spirit?",정령이라니 무슨 뜻이야?,m2q2ehenna,,[지능 보통],,,0,0
+34105,PC,Player Character,Maybe you could answer some other questions now?,이제 다른 질문에 대답해줄래?,m2q2ehenna,,[지능 보통],,,0,0
+34106,PC,Player Character,What you mean Spirit?,정령이 뭐야?,m2q2ehenna,,[지능 낮음],,,0,0
+34107,PC,Player Character,You answer other questions now?,이제 다른 질문에 대답해줘?,m2q2ehenna,,[지능 낮음],,,0,0
+34108,PC,Player Character,Thank you for telling me your story. Take care and farewell.,이야기해줘서 고마워. 잘 지내. 안녕.,m2q2ehenna,,[지능 보통],,,0,0
+34109,PC,Player Character,Thank you tell me story. You be well. Bye bye.,이야기 들려줘서 고마워. 잘 지내. 안녕.,m2q2ehenna,,[지능 낮음],,,0,0
+34110,PC,Player Character,Okay. Goodbye.,알았어. 안녕.,m2q2ehenna,,,,,0,0

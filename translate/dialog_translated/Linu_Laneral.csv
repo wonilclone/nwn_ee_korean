@@ -1,0 +1,57 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12611,Creature,Linu La'neral,Linu,리누,HX_FEND_LINU|X2_HEN_LINU,,,,,0,0
+12612,Creature,Linu La'neral,La'neral,라네랄,HX_FEND_LINU|NW_HEN_LIN|X2_HEN_LINU,,,,,0,0
+87588,Creature,Linu La'neral,"""Oh, I'm sorry, dear. I don't mean to do it, but I tend to stumble on this uneven ground. You know how clumsy I can be... it's a wonder I haven't broken my leg on this trip.""","""아, 미안해요. 일부러 그런 게 아닌데, 이렇게 울퉁불퉁한 바닥에선 자꾸 발이 꼬여서요. 제가 얼마나 서투른지 알잖아요... 이번 여행에서 다리가 안 부러진 게 신기할 정도예요.""",X2_HEN_LINU,,,,,0,0
+87590,Creature,Linu La'neral,"Linu shrugs. ""Yes, I do have a bit of luck when it comes to that sort of thing. Still, I wish I wasn't so clumsy. Sometimes I wish I could be graceful, like so many other women.""","리누가 어깨를 으쓱합니다. ""네, 그런 면에선 운이 좋긴 하죠. 그래도 이렇게 서투르지 않았으면 좋겠어요. 가끔은 다른 여자들처럼 우아했으면 하고 바라게 되거든요.""",X2_HEN_LINU,,,,,0,0
+87592,Creature,Linu La'neral,"""Hmmm... I never thought of it that way before. Thank you, Daelen. It's time I realize these clumsy feet of mine are really a blessing!""","""흠... 그렇게는 생각해 본 적이 없네요. 고마워요, 데란. 이 서투른 발이 사실은 축복이라는 걸 깨달아야 할 때가 됐나 봐요!""",X2_HEN_LINU,,,,,0,0
+87594,Creature,Linu La'neral,"Linu smiles. ""Of course, dear. I'll just walk a little farther behind you from now on.""","리누가 미소 짓습니다. ""물론이죠. 앞으로는 좀 더 뒤에서 걸을게요.""",X2_HEN_LINU,,,,,0,0
+88275,Creature,Linu La'neral,"""Oh? Ha ha ha! You can call me Linu, Deekin. It's quite alright.""","""어머? 하하하! 그냥 리누라고 불러도 돼요, 디킨. 괜찮아요.""",X2_HEN_LINU,,,,,0,0
+88277,Creature,Linu La'neral,"""Suit yourself, dear. Do I get the honor of hearing your poem?""","""마음대로 해요. 그래서 당신 시를 들을 영광을 얻을 수 있는 건가요?""",X2_HEN_LINU,,,,,0,0
+88280,Creature,Linu La'neral,"""Err... and this is complimentary?""","""어... 그게 칭찬인 건가요?""",X2_HEN_LINU,,,,,0,0
+88282,Creature,Linu La'neral,"""I see. Err... thank you. Perhaps I'll... walk closer to <FirstName>. Excuse me.""","""그렇군요. 어... 고마워요. 저는... <FirstName> 가까이에서 걸을게요. 실례할게요.""",X2_HEN_LINU,,,,,0,0
+88284,Creature,Linu La'neral,"""My, aren't you the sweetest thing? You can ask me whatever you like, dear.""","""어머, 정말 귀엽군요! 뭐든 물어봐도 돼요.""",X2_HEN_LINU,,,,,0,0
+88286,Creature,Linu La'neral,"""Well, I... I wouldn't say I was *clumsy*, exactly...""","""글쎄요, 저는... 딱히 *서투르다*고 하긴 그런데...""",X2_HEN_LINU,,,,,0,0
+88288,Creature,Linu La'neral,"""Yes, well... I did apologize for that...""","""네, 뭐... 그건 사과했잖아요...""",X2_HEN_LINU,,,,,0,0
+88289,Creature,Linu La'neral,"Linu sighs, not entirely pleased. ""I... let's just say that everyone has their area of speciality, alright?""","리누가 썩 기분 좋지 않은 듯 한숨을 쉽니다. ""저는... 그냥 누구에게나 잘하는 분야가 있다고 해 둬요, 네?""",X2_HEN_LINU,,,,,0,0
+88291,Creature,Linu La'neral,"""How about you go back to singing that lovely doom song again, my little friend? That was so much more entertaining.""","""그 멋진 파멸의 노래나 다시 불러 보는 게 어때요, 꼬마 친구? 그게 훨씬 재미있었거든요.""",X2_HEN_LINU,,,,,0,0
+88294,Creature,Linu La'neral,"Linu glares at you with a mixture of mortification and exasperation. ""I *said* I was sorry! The pan was so wedged in there...""","리누가 창피함과 짜증이 뒤섞인 표정으로 당신을 노려봅니다. ""사과한다고 *했잖아요*! 그 냄비가 너무 꽉 끼어 있어서...""",X2_HEN_LINU,,,,,0,0
+89418,Creature,Linu La'neral,"""Oh."" Linu looks away, a bit sad. ""The island where the elven nations have moved to.""","""아."" 리누가 조금 슬픈 표정으로 고개를 돌립니다. ""엘프 국가들이 이주한 섬이에요.""",X2_HEN_LINU,,,,,0,0
+89420,Creature,Linu La'neral,"""No, of course not."" Linu looks directly at Sharwyn and shakes her head. ""And no, I have never been there, much as I might have liked to.""","""아뇨, 당연히 아니에요."" 리누가 샤윈을 똑바로 바라보며 고개를 젓습니다. ""그리고 아뇨, 가고 싶었지만 한 번도 가본 적 없어요.""",X2_HEN_LINU,,,,,0,0
+89422,Creature,Linu La'neral,"For a long moment, Linu struggles to find the words to speak. Finally she sighs and shrugs. ""I sank the boat.""","한동안 리누가 뭐라고 말해야 할지 고민합니다. 결국 한숨을 쉬며 어깨를 으쓱합니다. ""배를 침몰시켰거든요.""",X2_HEN_LINU,,,,,0,0
+89424,Creature,Linu La'neral,"Linu nods, not looking happy. ""It was all a terrible accident! How was I to know the ship was to be carrying lamp oil to the island?""","리누가 기분 좋지 않은 표정으로 고개를 끄덕입니다. ""전부 끔찍한 사고였어요! 그 배가 섬으로 등유를 운반하는 줄 어떻게 알았겠어요?""",X2_HEN_LINU,,,,,0,0
+89426,Creature,Linu La'neral,"""Oh,"" Linu waves her hand irritably, ""a cat had stolen my purse. Which had a mouse in it, I admit, but I was saving the poor creature. And then I tripped the steward, who had a torch... but only by accident, as the cat had scratched me and I'd jumped back...""","""아,"" 리누가 짜증스럽게 손을 흔듭니다, ""고양이가 제 지갑을 훔쳐 갔어요. 인정하지만 지갑 안에 생쥐가 있긴 했어요, 불쌍한 녀석을 구해주려고 한 건데. 그러다 횃불을 들고 있던 승무원을 넘어뜨렸는데... 일부러 그런 게 아니라, 고양이가 저를 할퀴어서 뒤로 물러났거든요...""",X2_HEN_LINU,,,,,0,0
+89427,Creature,Linu La'neral,"""Now you're just laughing at me. I'm not saying any more.""","""지금 저한테 웃는 거죠. 더 이상 말 안 할 거예요.""",X2_HEN_LINU,,,,,0,0
+89430,Creature,Linu La'neral,"Linu looks at Sharwyn suspiciously. ""What are you talking about? There is nothing wrong with treating others kindly.""","리누가 샤윈을 의심스럽게 바라봅니다. ""무슨 소리예요? 다른 사람에게 친절하게 대하는 게 뭐가 잘못됐다는 거예요.""",X2_HEN_LINU,,,,,0,0
+89432,Creature,Linu La'neral,"""I asked him to stop and leave me alone. What else was I supposed to do?""","""그만하고 저를 내버려 두라고 했어요. 그 외에 뭘 어떻게 해야 했는데요?""",X2_HEN_LINU,,,,,0,0
+89434,Creature,Linu La'neral,"Linu chuckles, embarrassed. ""I can't even think of what I would say! No, I could never do that.""","리누가 쑥스럽게 웃습니다. ""뭐라고 해야 할지 생각도 안 나요! 아뇨, 그런 건 절대 못 해요.""",X2_HEN_LINU,,,,,0,0
+89436,Creature,Linu La'neral,"""But... what if I like the gentleman and I don't want to drive him away?""","""하지만... 그 남자가 마음에 들어서 쫓아내고 싶지 않으면 어쩌죠?""",X2_HEN_LINU,,,,,0,0
+90132,Creature,Linu La'neral,"""You're a thief. I hate thieves. I'm not listening to you.""","""당신은 도둑이에요. 전 도둑이 싫어요. 당신 말 안 들을 거예요.""",X2_HEN_LINU,,,,,0,0
+90134,Creature,Linu La'neral,"She looks away from him. ""I'm still not listening. I won't let your insults and jibes get to me.""","그녀가 그에게서 고개를 돌립니다. ""여전히 안 들을 거예요. 당신 모욕과 비꼼에 휘둘리지 않을 거라고요.""",X2_HEN_LINU,,,,,0,0
+90136,Creature,Linu La'neral,"""R-really? You... you mean that?"" Linu's smiles in disbelief, her eyes tearing.","""정-정말요? 진... 진심이에요?"" 리누가 믿을 수 없다는 듯 미소 지으며 눈물이 글썽입니다.",X2_HEN_LINU,,,,,0,0
+90138,Creature,Linu La'neral,"Linu sighs and glares at Tomi. ""I hate you, you little fiend.""","리누가 한숨을 쉬며 토미를 노려봅니다. ""당신이 싫어요, 이 꼬마 악당.""",X2_HEN_LINU,,,,,0,0
+90141,Creature,Linu La'neral,"""Oh, that's terrible, dear! Where does it hurt? Maybe I can help.""","""어머, 이런! 어디가 아픈 거예요? 제가 도와줄 수 있을지도 몰라요.""",X2_HEN_LINU,,,,,0,0
+90143,Creature,Linu La'neral,"""I think I do, yes.""","""네, 알 것 같아요.""",X2_HEN_LINU,,,,,0,0
+90145,Creature,Linu La'neral,"""AND I SAY I HATE THIEVES!!"" Linu suddenly grabs Tomi's earlobe and pinches it hard. ""Rotten scoundrels, all of you! And especially you!!""","""도둑이 싫다고 했잖아요!!"" 리누가 갑자기 토미의 귓불을 잡고 세게 꼬집습니다. ""썩어빠진 악당들, 전부 다! 특히 당신!!""",X2_HEN_LINU,,,,,0,0
+90147,Creature,Linu La'neral,"""You think I would forget that YOU were the one that stole my holy chalice? The one that forced me to travel all the way to Neverwinter in the first place?""","""내 성배를 훔친 게 바로 당신이라는 걸 잊을 것 같아요? 애초에 네버윈터까지 오게 만든 장본인이잖아요?""",X2_HEN_LINU,,,,,0,0
+90149,Creature,Linu La'neral,"""Yes. THAT.""","""네. 바로 그거요.""",X2_HEN_LINU,,,,,0,0
+90151,Creature,Linu La'neral,"""Just pray I'm never in a position to decide whether or not you need to be raised.""","""당신을 살려야 할지 말지 제가 결정하는 상황이 오지 않길 기도해요.""",X2_HEN_LINU,,,,,0,0
+92842,Creature,Linu La'neral,"""Daelan, it's me - Linu. Do you know where you are?""","""데란, 나야, 리누. 여기가 어딘지 알아?""",X2_HEN_LINU,,,,,0,0
+93829,Creature,Linu La'neral,"""Umm... not exactly, dear. It's a bit of a long story, however...""","""음... 정확히는 아니에요. 얘기가 좀 긴데...""",X2_HEN_LINU,,,,,0,0
+94474,Creature,Linu La'neral,"""You're sending <FirstName> down into the Underdark? <He/She>'ll have need of my healing. You better send me, too.""","""<FirstName>을 언더다크로 보내시는 건가요? 제 치유가 필요할 거예요. 저도 같이 보내시는 게 좋겠어요.""",X2_HEN_LINU,,,,,0,0
+94493,Creature,Linu La'neral,"""If you're sending Deekin along with <FullName>, you better send me, too. My healing skills could be useful down in the Underdark.""","""디킨을 <FullName>과 함께 보내실 거면, 저도 보내시는 게 좋겠어요. 언더다크에서 제 치유 능력이 유용할 테니까요.""",X2_HEN_LINU,,,,,0,0
+103892,Creature,Linu La'neral,"""That's what happens in a war, dear. People suffer.""","""전쟁이란 그런 거예요. 사람들이 고통받는 거죠.""",X2_HEN_LINU,,,,,0,0
+103896,Creature,Linu La'neral,"""That's very brave of you, dear. You should be commended for making your stock available."" ","""정말 용감하시네요. 물자를 내놓으시다니 칭찬받아 마땅해요.""",X2_HEN_LINU,,,,,0,0
+103901,Creature,Linu La'neral,"Linu gives you a long, hard stare. ""Was that really necessary? Making an old man cry?""","리누가 당신을 길고 날카롭게 바라봅니다. ""꼭 그래야 했어요? 노인을 울리다니?""",X2_HEN_LINU,,,,,0,0
+103904,Creature,Linu La'neral,"Linu leans in close to you and whispers, ""That was nice of you, dear. Everyone needs to feel useful.""","리누가 당신에게 가까이 다가와 속삭입니다. ""잘했어요. 누구나 쓸모 있다고 느끼고 싶어하니까요.""",X2_HEN_LINU,,,,,0,0
+103914,Creature,Linu La'neral,"""He certainly seems eager. Maybe he really could be useful, Durnan.""","""확실히 열의가 있어 보이네요. 정말 도움이 될 수도 있겠어요, 더난.""",X2_HEN_LINU,,,,,0,0
+103919,Creature,Linu La'neral,"Linu laughs. ""That'll teach you to play with other people's toys, dear.""","리누가 웃습니다. ""남의 물건 가지고 놀면 어떻게 되는지 알겠죠.""",X2_HEN_LINU,,,,,0,0
+103929,Creature,Linu La'neral,"""She does have a point, dear.""","""저 말도 일리가 있어요.""",X2_HEN_LINU,,,,,0,0
+103931,Creature,Linu La'neral,"""That's not really what I'd call a fair fight, dear. Of course, nobody said the drow fight fair, either.""","""그건 정정당당한 싸움이라고 할 순 없죠. 물론, 드로우가 정정당당하게 싸운다고 한 적도 없지만요.""",X2_HEN_LINU,,,,,0,0
+103937,Creature,Linu La'neral,"""Be careful with this one. She may be a rebel, but she's still a drow!""","""이 사람 조심해요. 반역자일지 몰라도, 여전히 드로우니까요!""",X2_HEN_LINU,,,,,0,0
+103948,Creature,Linu La'neral,"Linu shakes her head sadly. ""They threw their lives away protecting a creature of pure evil.""","리누가 슬프게 고개를 젓습니다. ""순수한 악의 존재를 지키려고 목숨을 버렸군요.""",X2_HEN_LINU,,,,,0,0
+103969,Creature,Linu La'neral,"""Fighting and killing is what monsters do best. Halaster really shouldn't have expected them to do otherwise.""","""싸우고 죽이는 게 괴물들이 가장 잘하는 일이죠. 할라스터가 다른 걸 기대했다면 그게 잘못이에요.""",X2_HEN_LINU,,,,,0,0
+103976,Creature,Linu La'neral,"""You poor dear. It's a shame Halaster didn't give you more in the way of mental capabilities.""","""불쌍해라. 할라스터가 정신적인 능력을 좀 더 줬어야 했는데.""",X2_HEN_LINU,,,,,0,0
+103982,Creature,Linu La'neral,"""I'm sorry, dear, but you don't really have a father. You're a golem.""","""미안하지만, 아버지가 있는 게 아니에요. 당신은 골렘이니까요.""",X2_HEN_LINU,,,,,0,0
+103995,Creature,Linu La'neral,"""I'm sure you've made the right choice, dear. We can handle a few drow; in fact, I'm looking forward to defeating them.""","""올바른 선택을 하신 거예요. 드로우 몇 명쯤이야 처리할 수 있어요. 사실, 그들을 물리치는 게 기대되기도 해요.""",X2_HEN_LINU,,,,,0,0
+104001,Creature,Linu La'neral,"""If you're certain, dear, then I guess we'll try it your way.""","""확신한다면, 당신 방식대로 해 볼게요.""",X2_HEN_LINU,,,,,0,0
+104004,Creature,Linu La'neral,"""I don't know about this, dear. I'm sure this... creature... means well, but I think we might not be suited to traveling through their tunnels.""","""이건 잘 모르겠어요. 이... 생명체가 좋은 의도겠지만, 우리가 저들의 땅굴을 지나가기엔 맞지 않을 것 같아요.""",X2_HEN_LINU,,,,,0,0

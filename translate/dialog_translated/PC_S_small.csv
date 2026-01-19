@@ -1,0 +1,20 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+79400,PC,Player Character,<StartAction>View Store.</Start>,<StartAction>상점을 봅니다.</Start>,shadowservant,a_shadserv_store,,,,0,0
+79401,PC,Player Character,Leave me be.,날 그냥 내버려 둬.,shadowservant,,,,,0,0
+79402,PC,Player Character,"Die, creature of shadow!","죽어라, 그림자 생명체야!",shadowservant,,,,,0,0
+79403,PC,Player Character,Very well. Fight!,좋아. 싸우자!,shadowservant,a_shadservattack,,,,0,0
+79404,PC,Player Character,My estate?,내 영지?,shadowservant,,,,,0,0
+79405,PC,Player Character,Who are you?,넌 누구야?,shadowservant,,,,,0,0
+79406,PC,Player Character,Then how can you serve me?,그럼 어떻게 날 섬길 수 있어?,shadowservant,,,,,0,0
+79407,PC,Player Character,Fine. I shall see these shadow wares.,좋아. 그림자 상품들을 보자.,shadowservant,a_shadserv_store,,,,0,0
+79408,PC,Player Character,What do you mean <Lord/Lady> of this estate?,이 영지의 영주라는 게 무슨 뜻이야?,shadowservant,,,,,0,0
+79409,PC,Player Character,Are the Shadovar always so quick to accept a new <Master/Mistress>?,섀도바는 늘 그렇게 빨리 새 주인을 받아들여?,shadowservant,,,,,0,0
+79410,PC,Player Character,You can pass through walls?,벽을 통과할 수 있어?,shadowservant,,,,,0,0
+79411,PC,Player Character,My name is <FullName>.,내 이름은 <FullName>이야.,shadowservant,,,,,0,0
+107303,PC,Player Character,"""Carry on.""",계속해.,siegedeva,,,,,0,0
+107304,PC,Player Character,"""Please return to the city core and protect the Seer.""",도시 중앙으로 돌아가서 선견자를 지켜줘.,siegedeva,act_q2aord_spec6,,,,0,0
+107305,PC,Player Character,"""I need you to guard the right inner tower.""",우측 내부 탑을 지켜줘.,siegedeva,act_q2aord_spec5,,,,0,0
+107306,PC,Player Character,"""I need you to guard the right outer tower.""",우측 외곽 탑을 지켜줘.,siegedeva,act_q2aord_spec4,,,,0,0
+107307,PC,Player Character,"""I need you to guard the left inner tower.""",좌측 내부 탑을 지켜줘.,siegedeva,act_q2aord_spec3,,,,0,0
+107308,PC,Player Character,"""I need you to guard the left outer tower.""",좌측 외곽 탑을 지켜줘.,siegedeva,act_q2aord_spec2,,,,0,0
+107309,PC,Player Character,"""I need you to guard the courtyard.""",안뜰을 지켜줘.,siegedeva,act_q2aord_spec1,,,,0,0

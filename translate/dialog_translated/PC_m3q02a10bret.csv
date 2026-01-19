@@ -1,0 +1,34 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+44531,PC,Player Character,"If I'm going to save your wife and daughter, I want a reward up front.",아내와 딸을 구하려면 선금을 받아야겠습니다.,m3q02a10bret,,[지능 보통],,,0,0
+44532,PC,Player Character,Why do you hate Damas so much?,다마스를 왜 그렇게 싫어하시나요?,m3q02a10bret,,[지능 보통],,,0,0
+44533,PC,Player Character,The Uthgardt are allied with Luskan. That isn't the Commander's fault.,우스가르트는 러스칸과 동맹입니다. 그건 사령관의 잘못이 아니에요.,m3q02a10bret,,[지능 보통],,,0,0
+44534,PC,Player Character,Maybe I could speak to Damas on your behalf.,제가 다마스에게 당신을 위해 말씀드려볼 수 있을 것 같습니다.,m3q02a10bret,,[지능 보통],,,0,0
+44535,PC,Player Character,I'll be going now.,이제 가볼게요.,m3q02a10bret,,[지능 보통],,,0,0
+44536,PC,Player Character [M3Q02A10],Is there anything I can do to help?,도와드릴 수 있는 일이 있나요?,m3q02a10bret,,m3q02a10bretsck1,[M3Q02A10],,0,0
+44537,PC,Player Character,Don't you think it's dangerous to bring your family here? The Fort is the first place an enemy will attack.,가족을 여기 데려오는 건 위험하지 않나요? 요새는 적이 가장 먼저 공격할 곳인데요.,m3q02a10bret,,[지능 보통],,,0,0
+44538,PC,Player Character,He's just doing his job as Commander.,그는 사령관으로서 자기 일을 하고 있을 뿐입니다.,m3q02a10bret,,[지능 보통],,,0,0
+44539,PC,Player Character,<StartCheck>[Insight]</Start> Maybe Damas is trying to exterminate the Uthgardt so he can claim their land and bring in more settlers.,<StartCheck>[통찰]</Start> 어쩌면 다마스가 우스가르트를 전멸시켜서 그들의 땅을 차지하고 더 많은 정착민을 데려오려는 것일 수도 있습니다.,m3q02a10bret,,nw_d2_wis_intn,,,0,0
+44540,PC,Player Character,I'll do it.,하겠습니다.,m3q02a10bret,,[지능 보통],,,0,0
+44541,PC,Player Character,What's in this for me?,제게 뭐가 돌아오죠?,m3q02a10bret,,[지능 보통],,,0,0
+44542,PC,Player Character,"Sorry, I've got more important things to do.",죄송하지만 더 중요한 일이 있어서요.,m3q02a10bret,,[지능 보통],,,0,0
+44543,PC,Player Character,Why you hate Damas?,너 왜 다마스 싫어해?,m3q02a10bret,,[지능 낮음],,,0,0
+44544,PC,Player Character,Uthgardt and Luskan be friends. War not Damas' fault.,우스가르트랑 러스칸 친구야. 전쟁 다마스 잘못 아니야.,m3q02a10bret,,[지능 낮음],,,0,0
+44545,PC,Player Character,You want me speak at Damas?,나 다마스한테 너 위해 말해줄까?,m3q02a10bret,,[지능 낮음],,,0,0
+44546,PC,Player Character,Me go now.,나 가.,m3q02a10bret,,[지능 낮음],,,0,0
+44547,PC,Player Character [M3Q02A10],Me want help. What me do?,나 돕고 싶어. 나 뭐 해야 돼?,m3q02a10bret,,m3q02a10bretsck3,[M3Q02A10],,0,0
+44548,PC,Player Character,Fort not safe for family. In war army attack fort first!,요새 가족한테 안전 안 해! 전쟁 나면 군대가 요새 먼저 공격해!,m3q02a10bret,,[지능 낮음],,,0,0
+44549,PC,Player Character,Me do it!,나 할게!,m3q02a10bret,,[지능 낮음],,,0,0
+44550,PC,Player Character,What me get?,나 뭐 받아?,m3q02a10bret,,[지능 낮음],,,0,0
+44551,PC,Player Character,Me got other stuff to do.,나 다른 일 있어.,m3q02a10bret,,[지능 낮음],,,0,0
+44552,PC,Player Character,You pay now or me no do!,지금 돈 내놔 아니면 나 안 해!,m3q02a10bret,,[지능 낮음],,,0,0
+44553,PC,Player Character,Damas be boss. Him just do job.,다마스 대장이야. 그냥 일 하는 거야.,m3q02a10bret,,[지능 낮음],,,0,0
+44554,PC,Player Character,"I thank you for this, Bret. I wish you and your family the very best.","감사합니다, 브렛. 당신과 가족 모두에게 최고의 행운이 있기를 바랍니다.",m3q02a10bret,,[지능 보통],,,0,0
+44555,PC,Player Character,That's it? I saved your family for a stupid bracelet?,그게 다예요? 가족을 구해줬는데 고작 팔찌 하나요?,m3q02a10bret,,[지능 보통],,,0,0
+44556,PC,Player Character,You welcome. Me hope you and wifey and baby be happy.,천만에. 너랑 부인이랑 아기 행복하길 바래.,m3q02a10bret,,[지능 낮음],,,0,0
+44557,PC,Player Character,You give stupid bracelet? Me want more!,팔찌 하나만 줘? 나 더 원해!,m3q02a10bret,,[지능 낮음],,,0,0
+60581,PC,Player Character,Me looking for Power Words. You know where they be?,나 권능의 언령 찾고 있어. 너 어디 있는지 알아?,m3q02a10bret,,[지능 낮음],,,0,0
+60582,PC,Player Character,"You wouldn't happen to know anything about some ancient artifacts known as the Words of Power, would you?",권능의 언령이라는 고대 유물에 대해 아시는 게 있으신가요?,m3q02a10bret,,[지능 보통],,,0,0
+68336,PC,Player Character,You not worry. Me get you wifey and girl back here safe.,걱정 마. 나 부인이랑 딸 안전하게 여기 데려올게.,m3q02a10bret,,[지능 낮음],,,0,0
+68337,PC,Player Character,Don't worry - I'll bring them back safely.,걱정 마세요 - 안전하게 데려올게요.,m3q02a10bret,,[지능 보통],,,0,0
+68338,PC,Player Character,Where can me find you family?,가족 어디서 찾아?,m3q02a10bret,,[지능 낮음],,,0,0
+68339,PC,Player Character,"Where can I find your family, again?",가족이 어디 있다고 하셨죠?,m3q02a10bret,,[지능 보통],,,0,0

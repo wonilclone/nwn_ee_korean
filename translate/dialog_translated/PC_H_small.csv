@@ -1,0 +1,112 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+79268,PC,Player Character,Leave.,떠난다.,helltreatise,,,,,0,0
+79269,PC,Player Character,Rewrite the central argument.,핵심 논지를 다시 쓴다.,helltreatise,a_tome_rewrite,c_pen_and_ink,,,0,0
+79270,PC,Player Character,Read the treatise.,논고를 읽는다.,helltreatise,a_helltreatise,,,,0,0
+79279,PC,Player Character,Enough talk.,이제 그만.,heurodis,,,,,0,0
+79280,PC,Player Character,Let us work together to conquer the world. It should be large enough for two to share.,함께 세계를 정복하자. 둘이 나누기엔 충분히 클 거야.,heurodis,,,,,0,0
+79281,PC,Player Character,Your evil ends here and now!,네 악은 여기서 끝이야!,heurodis,,,,,0,0
+79282,PC,Player Character,I have heard enough. It is time for you to die.,이제 충분히 들었어. 네가 죽을 시간이야.,heurodis,,,,,0,0
+79283,PC,Player Character,"I came to kill you, not to banter.","널 죽이러 왔지, 잡담하러 온 게 아니야.",heurodis,,,,,0,0
+79284,PC,Player Character,The mythal will destroy you. Let it go...,미살라가 널 파괴할 거야. 그냥 놔둬...,heurodis,,,,,0,0
+79285,PC,Player Character,You have lost your gaze that turns men to stone?,사람을 돌로 만드는 시선을 잃어버렸어?,heurodis,,,,,0,0
+79286,PC,Player Character,You are mad! Return this city to the sands where it belongs!,넌 미쳤어! 이 도시를 원래 있던 모래 속으로 돌려보내!,heurodis,,,,,0,0
+79287,PC,Player Character,"What does the mythal let you see, Heurodis?","미살라가 무엇을 보게 해주지, 헤우로디스?",heurodis,,,,,0,0
+79296,PC,Player Character,Enough talk.,이제 그만.,heurodis2,,,,,0,0
+79297,PC,Player Character,Let us work together to conquer the world. It should be large enough for two to share.,함께 세계를 정복하자. 둘이 나누기엔 충분히 클 거야.,heurodis2,,,,,0,0
+79298,PC,Player Character,Your evil ends here and now!,네 악은 여기서 끝이야!,heurodis2,,,,,0,0
+79299,PC,Player Character,I have heard enough. It is time for you to die.,이제 충분히 들었어. 네가 죽을 시간이야.,heurodis2,,,,,0,0
+79300,PC,Player Character,"I came to kill you, not to banter.","널 죽이러 왔지, 잡담하러 온 게 아니야.",heurodis2,,,,,0,0
+79301,PC,Player Character,The mythal will destroy you. Let it go...,미살라가 널 파괴할 거야. 그냥 놔둬...,heurodis2,,,,,0,0
+79302,PC,Player Character,You have lost your gaze that turns men to stone?,사람을 돌로 만드는 시선을 잃어버렸어?,heurodis2,,,,,0,0
+79303,PC,Player Character,You are mad! Return this city to the sands where it belongs!,넌 미쳤어! 이 도시를 원래 있던 모래 속으로 돌려보내!,heurodis2,,,,,0,0
+79304,PC,Player Character,"What does the mythal let you see, Heurodis?","미살라가 무엇을 보게 해주지, 헤우로디스?",heurodis2,,,,,0,0
+95631,PC,Player Character,The end.,끝.,h10_narrator,hx_the_end,h10c_end_nolaugh,,,0,0
+95632,PC,Player Character,The end.,끝.,h10_narrator,hx_the_end,,,,0,0
+95656,PC,Player Character,"""Goodbye.""","""안녕.""",h2_devil_generic,,,,,0,0
+95657,PC,Player Character,"<StartAction>[Attack]</Start> ""Die, foul beast!""","<StartAction>[공격]</Start> ""죽어라, 더러운 짐승아!""",h2_devil_generic,,,,,0,0
+95658,PC,Player Character,"""Ha ha... ha...? Er, I was only kidding...""","""하하... 하...? 어, 그냥 농담이었어...""",h2_devil_generic,,,,,0,0
+95659,PC,Player Character,"""I don't have to answer to you! Bring it on!""","""네게 대답할 필요 없어! 덤벼!""",h2_devil_generic,,,,,0,0
+95660,PC,Player Character,"""Because I feel like it!""","""그냥 그러고 싶어서!""",h2_devil_generic,,,,,0,0
+95661,PC,Player Character,"""Because you're evil!""","""넌 악하니까!""",h2_devil_generic,,,,,0,0
+95662,PC,Player Character,"""Because you're a demon!""","""넌 악마니까!""",h2_devil_generic,,,,,0,0
+95663,PC,Player Character,"""Because you're a devil!""","""넌 마귀니까!""",h2_devil_generic,,,,,0,0
+95664,PC,Player Character,<StartAction>[Attack]</Start>,<StartAction>[공격]</Start>,h2_devil_generic,nw_d1_attonend02,,,,0,0
+95665,PC,Player Character,"""Could you tell me where I might find a warm drink?""","""따뜻한 음료를 어디서 구할 수 있어?""",h2_devil_generic,,,,,0,0
+95666,PC,Player Character,"""Are there any stores around here?""","""이 근처에 상점 있어?""",h2_devil_generic,,,,,0,0
+95667,PC,Player Character,"""I'm looking for Quarry Grinder 5.""","""채석장 분쇄기 5를 찾고 있어.""",h2_devil_generic,,h2c_lazy_notalk,,,0,0
+95668,PC,Player Character,"""Where can I learn the Reaper's True Name?""","""사신의 진명은 어디서 배울 수 있어?""",h2_devil_generic,,h2c_reaper_name,,,0,0
+95669,PC,Player Character,"""The gith sensei? Who's that?""","""기스 사부? 그게 누구야?""",h2_devil_generic,,,,,0,0
+95671,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_devil_generic,,h2c_devil_5fold,,,0,0
+95678,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h2_devil_grinder,,,,,0,0
+95679,PC,Player Character,<StartCheck>[Intelligence]</Start> <StartAction>Repair the gear assembly.</Start>,<StartCheck>[지능]</Start> <StartAction>기어 조립부를 수리합니다.</Start>,h2_devil_grinder,h2a_grind_repatt,h2c_grind_repatt,,,0,0
+97196,PC,Player Character,"""Goodbye.""","""안녕.""",h2_pilg_berries,,,,,0,0
+97197,PC,Player Character,"""Do you know the Reaper's True Name?""","""사신의 진명을 알아?""",h2_pilg_berries,,h2c_reaper_name,,,0,0
+97198,PC,Player Character,"""I need to return home to the world of Toril.""","""토릴 세계의 고향으로 돌아가야 해.""",h2_pilg_berries,,,,,0,0
+97199,PC,Player Character,"""That's a defeatist attitude...""","""그건 패배주의적인 태도야...""",h2_pilg_berries,,,,,0,0
+97200,PC,Player Character,"""That winged chap in the tavern... You know him?""","""주점에 있던 날개 달린 녀석... 알아?""",h2_pilg_berries,,h2c_pilg_arden,,,0,0
+97201,PC,Player Character,"""How did he plan to wake the Sleeping Man?""","""잠자는 자를 어떻게 깨울 계획이었어?""",h2_pilg_berries,,,,,0,0
+97202,PC,Player Character,"""What are you picking?""","""뭘 따고 있어?""",h2_pilg_berries,,,,,0,0
+97203,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아갈게.""",h2_pilg_berries,,,,,0,0
+97204,PC,Player Character,"""Where can I find these Velox Berries?""","""벨록스 열매는 어디서 찾을 수 있어?""",h2_pilg_berries,,,,,0,0
+97205,PC,Player Character,"""How do these berries work?""","""이 열매는 어떻게 작동해?""",h2_pilg_berries,,,,,0,0
+97206,PC,Player Character,"""Why do you need to start a fire?""","""왜 불을 피워야 해?""",h2_pilg_berries,,,,,0,0
+97207,PC,Player Character,"""Mage-fire doesn't work?""","""마법사의 불은 안 돼?""",h2_pilg_berries,,,,,0,0
+97208,PC,Player Character,"""Flint and tinder doesn't work?""","""부싯돌과 부싯깃은 안 돼?""",h2_pilg_berries,,,,,0,0
+97209,PC,Player Character,"""I seek answers to the Five-Fold Mysteries.""","""오중 수수께끼에 대한 답을 찾고 있어.""",h2_pilg_berries,,h2c_pilg_5fold,,,0,0
+97210,PC,Player Character,"""What do you mean?""","""무슨 뜻이야?""",h2_pilg_berries,,,,,0,0
+97211,PC,Player Character,"""Romantic?""","""낭만적이라고?""",h2_pilg_berries,,,,,0,0
+98109,PC,Player Character,"""Goodbye.""","""안녕.""",h2_tavernkeeper,,,,,0,0
+98110,PC,Player Character,"""Have you got anything to chase off the cold?""","""추위를 쫓을 만한 게 있어?""",h2_tavernkeeper,,,,,0,0
+98112,PC,Player Character,<StartAction>Hand over 5 Velox Berries.</Start>,<StartAction>벨록스 열매 5개를 건넵니다.</Start>,h2_tavernkeeper,hx_velox_b_use5,hx_velox_b_chk5,,,0,0
+98113,PC,Player Character,"""Do you know the Reaper's True Name?""","""사신의 진명을 알아?""",h2_tavernkeeper,,h2c_reaper_name,,,0,0
+98114,PC,Player Character,"""I need to return home to the world of Toril.""","""토릴의 세계로 돌아가야 해.""",h2_tavernkeeper,,,,,0,0
+98115,PC,Player Character,"""Tell me about your patrons.""","""단골손님들에 대해 말해줘.""",h2_tavernkeeper,,,,,0,0
+98116,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_tavernkeeper,,h2c_tav_5fold,,,0,0
+98117,PC,Player Character,"<StartAction>[View Store]</Start> ""What have you got?""","<StartAction>[상점을 본다]</Start> ""뭐 있어?""",h2_tavernkeeper,h2a_tav_store,,,,0,0
+109145,PC,Player Character,"""Back to my other questions.""","""다른 질문들로 돌아가자.""",h2_tavernkeeper,,,,,0,0
+109146,PC,Player Character,"""Maybe later.""","""나중에.""",h2_tavernkeeper,,,,,0,0
+109147,PC,Player Character,"""How strong is it?""","""얼마나 강해?""",h2_tavernkeeper,,,,,0,0
+109148,PC,Player Character,"""Velox Berries? What are those?""","""벨록스 열매? 그게 뭐야?""",h2_tavernkeeper,,,,,0,0
+98814,PC,Player Character,"""Don't worry about me. Just tell me where I can help.""",걱정 마세요. 어디서 도울 수 있는지만 말해 주세요.,h9_durnan,,,,,0,0
+98815,PC,Player Character,"""It's a long story. Is your family safe?""",긴 이야기예요. 가족은 안전해요?,h9_durnan,,,,,0,0
+98816,PC,Player Character,"""I had some unfinished business with Mephistopheles.""",메피스토펠레스와 미처 끝내지 못한 일이 있었어요.,h9_durnan,,,,,0,0
+98817,PC,Player Character,"""I was dead...""",전 죽었었어요...,h9_durnan,,,,,0,0
+98818,PC,Player Character,"""I've been to the Hells and back, Durnan...""","""지옥에 갔다 왔어요, 더난...""",h9_durnan,,,,,0,0
+98819,PC,Player Character,"""I know, Durnan... I'm scared too...""","""알아요, 더난... 저도 무서워요...""",h9_durnan,,,,,0,0
+98820,PC,Player Character,"""Have you no spine? He is but a devil. Destroy him!""",기개가 없는 거예요? 놈은 그냥 마귀일 뿐이에요. 쓰러뜨려요!,h9_durnan,,,,,0,0
+98821,PC,Player Character,"""Just keep everyone safe. I'll handle Mephistopheles.""",모두를 안전하게 지켜 주세요. 메피스토펠레스는 제가 상대할게요.,h9_durnan,,,,,0,0
+109573,PC,Player Character,"""Where's the 100,000 gold you promised me?""","""약속한 금화 10만개는 어디 있어요?""",h9_durnan,,,,,0,0
+98926,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,hx_cata_conv,,,,,0,0
+98927,PC,Player Character,<StartAction>Throw the catapult across the lava.</Start>,<StartAction>투석기를 용암 너머로 던집니다.</Start>,hx_cata_conv,hx_cut100_throw,hx_giant_ck_cnv,,,0,0
+98931,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,hx_crystal1_conv,,,,,0,0
+98932,PC,Player Character,<StartAction>Peer into the crystal.</Start>,<StartAction>수정을 들여다봅니다.</Start>,hx_crystal1_conv,hx_cyrstal_start,,,,0,0
+98950,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,hx_fire_conv,hx_pcfire_reset,,,,0,0
+98951,PC,Player Character,<StartAction>Use twenty Velox Berries to ignite a raging fire.</Start>,<StartAction>벨록스 열매 20개를 사용하여 격렬한 불을 피웁니다.</Start>,hx_fire_conv,hx_velox_b_use20,hx_velox_b_chk20,,,0,0
+98952,PC,Player Character,<StartAction>Use three Velox Berries to ignite a large fire.</Start>,<StartAction>벨록스 열매 3개를 사용하여 큰 불을 피웁니다.</Start>,hx_fire_conv,hx_velox_b_use3,hx_velox_b_chk3,,,0,0
+98953,PC,Player Character,<StartAction>Wait a while before resting.</Start>,<StartAction>휴식하기 전에 잠시 기다립니다.</Start>,hx_fire_conv,,hx_test_rest2,,,0,0
+98954,PC,Player Character,<StartAction>Use two Velox Berries to ignite a medium fire.</Start>,<StartAction>벨록스 열매 2개를 사용하여 중간 불을 피웁니다.</Start>,hx_fire_conv,hx_velox_b_use2,hx_velox_b_chk2,,,0,0
+98955,PC,Player Character,<StartAction>Wait a while before resting.</Start>,<StartAction>휴식하기 전에 잠시 기다립니다.</Start>,hx_fire_conv,,hx_test_rest2,,,0,0
+98956,PC,Player Character,<StartAction>Use one Velox Berry to ignite a small fire.</Start>,<StartAction>벨록스 열매 1개를 사용하여 작은 불을 피웁니다.</Start>,hx_fire_conv,hx_velox_b_use1,hx_velox_b_chk1,,,0,0
+98957,PC,Player Character,<StartAction>Break camp.</Start>,<StartAction>야영지를 정리합니다.</Start>,hx_fire_conv,hx_berry_rest2,,,,0,0
+98958,PC,Player Character,<StartAction>Wait a while before resting.</Start>,<StartAction>휴식하기 전에 잠시 기다립니다.</Start>,hx_fire_conv,,hx_test_rest2,,,0,0
+98959,PC,Player Character,<StartAction>Rest.</Start>,<StartAction>휴식합니다.</Start>,hx_fire_conv,hx_berry_rest,hx_test_rest,,,0,0
+98960,PC,Player Character,<StartAction>Light a fire with flint and tinder.</Start>,<StartAction>부싯돌과 부싯깃으로 불을 피웁니다.</Start>,hx_fire_conv,,,,,0,0
+98984,PC,Player Character,<StartAction>Put the pieces of the ring away.</Start>,<StartAction>반지 조각들을 치웁니다.</Start>,hx_ring_conv,,,,,0,0
+98985,PC,Player Character,<StartAction>Start with the one marked 'L'.</Start>,<StartAction>'L' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
+98986,PC,Player Character,<StartAction>Start with the one marked 'H'.</Start>,<StartAction>'H' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
+98987,PC,Player Character,<StartAction>Attach the piece marked 'L'.</Start>,<StartAction>'L' 표시된 조각을 붙입니다.</Start>,hx_ring_conv,,,,,0,0
+98988,PC,Player Character,<StartAction>Attach the piece marked 'F'.</Start>,<StartAction>'F' 표시된 조각을 붙입니다.</Start>,hx_ring_conv,,,,,0,0
+98989,PC,Player Character,<StartAction>Take the ring apart and put it away.</Start>,<StartAction>반지를 분해해서 치웁니다.</Start>,hx_ring_conv,,,,,0,0
+98990,PC,Player Character,"<StartAction>Add the final piece, marked 'L'.</Start>","<StartAction>'L' 표시된 마지막 조각을 추가합니다.</Start>",hx_ring_conv,,,,,0,0
+98991,PC,Player Character,<StartAction>Start with the one marked 'F'.</Start>,<StartAction>'F' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
+99042,PC,Player Character,<StartAction>Bare your neck to its jaws.</Start>,<StartAction>목을 늑대의 턱 앞에 내밉니다.</Start>,hx_wntrwolf_conv,,,,,0,0
+99043,PC,Player Character,<StartAction>Attack the alpha wolf.</Start>,<StartAction>우두머리 늑대를 공격합니다.</Start>,hx_wntrwolf_conv,hx_wolf_attack,,,,0,0
+99044,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,hx_wntrwolf_conv,,,,,0,0
+99045,PC,Player Character,<StartAction>Let it sniff.</Start>,<StartAction>냄새 맡게 둡니다.</Start>,hx_wntrwolf_conv,,,,,0,0
+99046,PC,Player Character,<StartAction>Attack it.</Start>,<StartAction>공격합니다.</Start>,hx_wntrwolf_conv,hx_wolf_attack,,,,0,0
+109133,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h2_sense_tome,,,,,0,0
+109134,PC,Player Character,<StartAction>Read one of the entries.</Start>,<StartAction>항목 중 하나를 읽습니다.</Start>,h2_sense_tome,,,,,0,0
+109135,PC,Player Character,<StartAction>Read further.</Start>,<StartAction>계속 읽습니다.</Start>,h2_sense_tome,,,,,0,0
+109136,PC,Player Character,<StartAction>Read further.</Start>,<StartAction>계속 읽습니다.</Start>,h2_sense_tome,,,,,0,0
+109137,PC,Player Character,<StartAction>Read further.</Start>,<StartAction>계속 읽습니다.</Start>,h2_sense_tome,,,,,0,0
+109138,PC,Player Character,<StartAction>Read further.</Start>,<StartAction>계속 읽습니다.</Start>,h2_sense_tome,,,,,0,0

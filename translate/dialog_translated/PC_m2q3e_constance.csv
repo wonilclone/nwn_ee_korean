@@ -1,0 +1,99 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+35755,PC,Player Character,Could I ask you some questions?,몇 가지 물어봐도 될까요?,m2q3e_constance,,[지능 보통],,,0,0
+35756,PC,Player Character,"Me ask questions, yuh?","나 질문해도 돼, 응?",m2q3e_constance,,[지능 낮음],,,0,0
+35757,PC,Player Character,Goodbye.,안녕히 계세요.,m2q3e_constance,,,,,0,0
+35758,PC,Player Character,Do you know anything about the cult that spread plague in Neverwinter?,네버윈터에 역병을 퍼뜨린 사교도에 대해 아는 거 있어요?,m2q3e_constance,,[지능 보통],,,0,0
+35759,PC,Player Character,Have you ever been to Charwood?,그을린숲에 가본 적 있나요?,m2q3e_constance,,[매력 중간/지능 보통],,,0,0
+35760,PC,Player Character,I saw a cave up past those waterfalls. Do you know anything about it?,폭포 너머에 동굴이 보이던데요. 거기에 대해 아는 게 있나요?,m2q3e_constance,,[매력 높음/지능 중간],,,0,0
+35761,PC,Player Character,Anything interesting going on in these parts?,이 근처에서 흥미로운 일 있어요?,m2q3e_constance,,[지능 보통],,,0,0
+35762,PC,Player Character,You know stuff 'bout that plague cult in Neverwinter?,너 네버윈터 역병 사교도에 대해 뭐 알아?,m2q3e_constance,,[지능 낮음],,,0,0
+35763,PC,Player Character,Uh... you ever been to Charwood?,어... 너 그을린숲 가본 적 있어?,m2q3e_constance,,[매력 중간/지능 낮음],,,0,0
+35764,PC,Player Character,Me see cave past them waterfalls. What be in dere?,나 폭포 너머 동굴 봤어. 거기 뭐 있어?,m2q3e_constance,,[매력 높음/지능 낮음],,,0,0
+35765,PC,Player Character,You know odd things about this area?,너 이 지역 이상한 것들 알아?,m2q3e_constance,,[지능 낮음],,,0,0
+35766,PC,Player Character,You're sure you don't know anything else about the cult?,사교도에 대해 정말 아는 게 더 없어요?,m2q3e_constance,,[지능 보통],,,0,0
+35767,PC,Player Character,<StartCheck>[Insight]</Start> Is there anyone who might know more?,<StartCheck>[통찰]</Start> 더 알 만한 사람이 있을까요?,m2q3e_constance,,nw_d2_wis_intn,,,0,0
+35768,PC,Player Character,You sure you not know more 'bout da cult?,너 진짜 사교도에 대해 더 몰라?,m2q3e_constance,,[지능 낮음],,,0,0
+35769,PC,Player Character,What sorts of adventures?,어떤 종류의 모험이요?,m2q3e_constance,,[지능 보통],,,0,0
+35770,PC,Player Character,"I'd be interested in work, if you know of anything.",일거리가 있다면 관심 있는데요.,m2q3e_constance,,[지능 보통],,,0,0
+35771,PC,Player Character,Are there any places of interest around here that I should visit?,이 근처에 제가 방문할 만한 관심 갈 만한 곳이 있나요?,m2q3e_constance,,[매력 중간/지능 중간],,,0,0
+35772,PC,Player Character,Adventures? What adventures you speak of?,모험? 무슨 모험 말하는 거야?,m2q3e_constance,,[지능 낮음],,,0,0
+35773,PC,Player Character,Me want work.,나 일 원해.,m2q3e_constance,,[지능 낮음],,,0,0
+35774,PC,Player Character,You know good places to go 'round here?,너 이 근처 갈 만한 좋은 곳 알아?,m2q3e_constance,,[매력 중간/지능 낮음],,,0,0
+35775,PC,Player Character,Is there anything else you can tell me about Charwood?,그을린숲에 대해 더 알려줄 수 있는 게 있나요?,m2q3e_constance,,[지능 보통],,,0,0
+35776,PC,Player Character,<StartCheck>[Insight]</Start> Do you know of anyone who might have been there?,<StartCheck>[통찰]</Start> 거기 가본 사람을 아시나요?,m2q3e_constance,,nw_d2_wis_intn,,,0,0
+35777,PC,Player Character,Tell more. Me want to know more 'bout Charwood?,더 말해. 나 그을린숲에 대해 더 알고 싶어.,m2q3e_constance,,[지능 낮음],,,0,0
+35778,PC,Player Character,Wolves? Are they a threat?,늑대요? 위협적인가요?,m2q3e_constance,,[지능 보통],,,0,0
+35779,PC,Player Character,Wolfies? They be threat to you?,늑대? 그게 너한테 위협이야?,m2q3e_constance,,[지능 낮음],,,0,0
+35780,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 자, 말해줘도 해가 되진 않을 거예요.",m2q3e_constance,,[지능 보통],,,0,0
+35781,PC,Player Character,<StartCheck>[Persuade]</Start> You tell me. It hurt nobody.,<StartCheck>[설득]</Start> 너 말해. 아무도 안 다쳐.,m2q3e_constance,,[지능 낮음],,,0,0
+35782,PC,Player Character,I'm investigating some recent events you might be aware of.,최근 사건을 조사하고 있는데 혹시 알고 계실지도 모르겠네요.,m2q3e_constance,,[지능 보통],,,0,0
+35783,PC,Player Character,Me hear of stuff going on. Maybe you know more?,나 무슨 일 일어나는지 들었어. 너 더 알아?,m2q3e_constance,,[지능 낮음],,,0,0
+35784,PC,Player Character,I want to ask you something else.,다른 걸 물어보고 싶어요.,m2q3e_constance,,[지능 보통],,,0,0
+35785,PC,Player Character,Me have other question.,나 다른 질문 있어.,m2q3e_constance,,[지능 낮음],,,0,0
+35786,PC,Player Character,Can I ask you some directions?,길 좀 물어봐도 될까요?,m2q3e_constance,,[지능 보통],,,0,0
+35787,PC,Player Character,Farmlands stretch on for long time. Me need directions.,농장 땅이 길게 뻗어 있네. 나 길 알려줘.,m2q3e_constance,,[지능 낮음],,,0,0
+35788,PC,Player Character,Where does the west road lead?,서쪽 길은 어디로 가나요?,m2q3e_constance,,[지능 보통],,,0,0
+35789,PC,Player Character,Where does the east road lead?,동쪽 길은 어디로 가나요?,m2q3e_constance,,[지능 보통],,,0,0
+35790,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비를 살 수 있는 곳이 있나요?,m2q3e_constance,,[지능 보통],,,0,0
+35791,PC,Player Character,Where da west road go?,서쪽 길 어디로 가?,m2q3e_constance,,[지능 낮음],,,0,0
+35792,PC,Player Character,Where da east road go?,동쪽 길 어디로 가?,m2q3e_constance,,[지능 낮음],,,0,0
+35793,PC,Player Character,Me need place to buy stuff.,나 물건 살 곳 필요해.,m2q3e_constance,,[지능 낮음],,,0,0
+35794,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 것에 대해 물어보고 싶은데요.",m2q3e_constance,,[지능 보통],,,0,0
+35795,PC,Player Character,"No, me have other question.","아니, 나 다른 질문 있어.",m2q3e_constance,,[지능 낮음],,,0,0
+35796,PC,Player Character,Who are you?,누구세요?,m2q3e_constance,,[지능 보통],,,0,0
+35797,PC,Player Character,Who you be?,너 누구야?,m2q3e_constance,,[지능 낮음],,,0,0
+35798,PC,Player Character,I want to speak with you about Erik's brooch.,에릭의 브로치에 대해 얘기하고 싶어요.,m2q3e_constance,,nw_d2_j_fetch02,,,0,0
+35799,PC,Player Character,"We talk 'bout that brooch of Erik's, 'kay?","우리 에릭 브로치 얘기하자, 알았지?",m2q3e_constance,,nw_d2_j_fetch03,,,0,0
+35800,PC,Player Character,"Come on, darling, you can tell me, can't you?","자, 자기야, 나한테 말해줄 수 있잖아, 그렇지?",m2q3e_constance,,nw_d2_flirti_n,,,0,0
+35801,PC,Player Character,"You purty when you pout. Come, you tell Mister <FirstName>, yuh?","너 삐친 모습 예뻐. 자, <FirstName> 아저씨한테 말해줘, 응?",m2q3e_constance,,nw_d2_flirti_l,,,0,0
+35802,PC,Player Character,Be reasonable. It's all he has left to remind him of his ma... ,이성적으로 생각해 봐요. 그게 그분 어머니를 추억할 수 있는 유일한 물건이라고...,m2q3e_constance,,[지능 보통],,,0,0
+35803,PC,Player Character,"How'd you like me to pry it from your cold, dead hands?",차갑고 죽은 손에서 그걸 뺏어내야 할 것 같네?,m2q3e_constance,nw_d1_small_evil,[지능 보통],,,0,0
+35804,PC,Player Character,"Slow down, I need to ask you about something else.","잠깐만, 다른 것에 대해 물어봐야 해요.",m2q3e_constance,,[지능 보통],,,0,0
+35805,PC,Player Character,"But it be all that remind him of his ma, yuh?","근데 그게 어머니 추억할 수 있는 유일한 거야, 응?",m2q3e_constance,,[지능 낮음],,,0,0
+35806,PC,Player Character,"You give it or me just kill you an' bring him your corpse, yuh?","너 그거 주든가 아니면 나 그냥 너 죽이고 시체 가져갈까, 응?",m2q3e_constance,nw_d1_small_evil,[지능 낮음],,,0,0
+35807,PC,Player Character,Slow down. Me ask 'bout something else.,잠깐만. 나 다른 거 물어봐야 해.,m2q3e_constance,,[지능 낮음],,,0,0
+35808,PC,Player Character,"1,000 gold? Deal.","금화 1,000개요? 좋아요.",m2q3e_constance,nw_d1_j_fetch10,nw_d2_j_fetch15,,,0,0
+35809,PC,Player Character,"<StartCheck>[Persuade]</Start> It's a simple peasant's brooch, worth 250 gold pieces at most!",<StartCheck>[설득]</Start> 그냥 농부의 브로치예요. 기껏해야 금화 250개 가치밖에 안 해요!,m2q3e_constance,,nw_d2_j_fetch16,,,0,0
+35810,PC,Player Character,Hand the brooch over or I'll gut you like a fish!,"브로치 내놔, 안 그러면 생선처럼 배를 가를 거야!",m2q3e_constance,nw_d1_small_evil,[지능 보통],,,0,0
+35811,PC,Player Character,<StartCheck>[Persuade]</Start> That too much for peasant's doodad. Me give 250 gp.,<StartCheck>[설득]</Start> 농부 장신구치고 너무 비싸. 나 금화 250개 줘.,m2q3e_constance,,nw_d2_j_fetch17,,,0,0
+35812,PC,Player Character,"You give brooch or me slit stomachs, yuh?!","너 브로치 주든가 아니면 나 배 가를 거야, 응?!",m2q3e_constance,nw_d1_small_evil,[지능 낮음],,,0,0
+35813,PC,Player Character,<StartCheck>[Insight]</Start> Take the 250 gold. The next fool Erik sends might not be so happy to negotiate.,<StartCheck>[통찰]</Start> 금화 250개 받아요. 에릭이 다음에 보낼 바보는 협상할 기분이 아닐 수도 있어요.,m2q3e_constance,,nw_d2_j_fetch18,,,0,0
+35814,PC,Player Character,400 gold? Deal.,금화 400개요? 좋아요.,m2q3e_constance,nw_d1_j_fetch12,nw_d2_j_fetch19,,,0,0
+35815,PC,Player Character,250 gp? Deal.,금화 250개요? 좋아요.,m2q3e_constance,nw_d1_j_fetch11,nw_d2_j_fetch20,,,0,0
+35816,PC,Player Character,I'm done haggling. Time to kill you and take it for free!,흥정은 끝났어요. 이제 당신을 죽이고 공짜로 가져갈 시간이네요!,m2q3e_constance,nw_d1_high_evil,[지능 보통],,,0,0
+35817,PC,Player Character,Me not argue no more. Now me kill you!!,나 더 이상 안 싸워. 이제 나 너 죽여!!,m2q3e_constance,nw_d1_high_evil,[지능 낮음],,,0,0
+35818,PC,Player Character,I can't afford to spend that much gold on this.,그렇게 많은 금화를 이거에 쓸 여유가 없어요.,m2q3e_constance,,[지능 보통],,,0,0
+35819,PC,Player Character,Me not got that much gold for spend on this.,나 이거에 쓸 금화 그렇게 많이 없어.,m2q3e_constance,,[지능 낮음],,,0,0
+35820,PC,Player Character,I can't afford to spend that much on this.,이거에 그렇게 많이 쓸 여유가 없어요.,m2q3e_constance,,[지능 보통],,,0,0
+35821,PC,Player Character,Me not afford that much for this.,나 이거에 그렇게 많이 쓸 여유 없어.,m2q3e_constance,,[지능 낮음],,,0,0
+35822,PC,Player Character,I don't have 400 gold to spend on this.,이거에 쓸 금화 400개가 없어요.,m2q3e_constance,,[지능 보통],,,0,0
+35823,PC,Player Character,Me no got 400 gold to spend on this.,나 이거에 쓸 금화 400개 없어.,m2q3e_constance,,[지능 낮음],,,0,0
+35824,PC,Player Character,I don't believe you! Hand over the brooch... now!,안 믿어요! 브로치 내놔요... 지금 당장!,m2q3e_constance,,[지능 보통],,,0,0
+35825,PC,Player Character,"Hey, if you don't have the item, I want my money back!","이봐요, 물건이 없다면 내 돈 돌려줘요!",m2q3e_constance,,[지능 보통],,,0,0
+35826,PC,Player Character,What do you mean you've been robbed?,도둑 맞았다니 무슨 말이에요?,m2q3e_constance,,[지능 보통],,,0,0
+35827,PC,Player Character,Really? I guess I'll be going then.,정말이요? 그럼 이제 갈게요.,m2q3e_constance,,[지능 보통],,,0,0
+35828,PC,Player Character,Me no believe you! You give item now!,나 안 믿어! 너 물건 지금 줘!,m2q3e_constance,,[지능 낮음],,,0,0
+35829,PC,Player Character,"Hey, you no give item. Me want me money back!","이봐, 너 물건 안 줘. 나 돈 돌려받고 싶어!",m2q3e_constance,,[지능 낮음],,,0,0
+35830,PC,Player Character,What you mean you be robbed?,도둑 맞았다는 게 무슨 말이야?,m2q3e_constance,,[지능 낮음],,,0,0
+35831,PC,Player Character,"Yuh? Me guess me go now, den.",응? 나 생각해 나 이제 가야겠어.,m2q3e_constance,,[지능 낮음],,,0,0
+35832,PC,Player Character,That's not fair!,불공평해요!,m2q3e_constance,,[지능 보통],,,0,0
+35833,PC,Player Character,Give my money back or I'll slit your throat!,"내 돈 돌려줘, 안 그러면 목을 그어버릴 거야!",m2q3e_constance,,[지능 보통],,,0,0
+35834,PC,Player Character,"Fine, keep the money.","좋아요, 돈 가지세요.",m2q3e_constance,,[지능 보통],,,0,0
+35835,PC,Player Character,That not fair!,그거 불공평해!,m2q3e_constance,,[지능 낮음],,,0,0
+35836,PC,Player Character,"You give me money back, or me kill you!","너 돈 돌려줘, 아니면 나 너 죽여!",m2q3e_constance,,[지능 낮음],,,0,0
+35837,PC,Player Character,"Fine, you keep money.","좋아, 너 돈 가져.",m2q3e_constance,,[지능 낮음],,,0,0
+35838,PC,Player Character,Maybe I can buy it off you... ,사드릴 수도 있는데...,m2q3e_constance,,[지능 보통],,,0,0
+35839,PC,Player Character,<StartCheck>[Persuade]</Start> He loves you Constance. Don't betray that.,"<StartCheck>[설득]</Start> 그 사람이 당신을 사랑해요, 콘스탄스. 그 마음을 배신하지 마세요.",m2q3e_constance,,[지능 보통],,,0,0
+35840,PC,Player Character,"For but a peasant's brooch, you'll have my undying love.",농부의 브로치와 바꿀 수 있다면 내 영원한 사랑을 드릴게요.,m2q3e_constance,,nw_d2_flirti_n,,,0,0
+35841,PC,Player Character,"Uh, well maybe me buy it off you, then.","어, 그럼 내가 사도 될 것 같은데.",m2q3e_constance,,[지능 낮음],,,0,0
+35842,PC,Player Character,<StartCheck>[Persuade]</Start> But he love you Constance. Be good to him.,<StartCheck>[설득]</Start> 근데 그 사람 너 사랑해 콘스탄스. 잘 대해줘.,m2q3e_constance,,[지능 낮음],,,0,0
+35843,PC,Player Character,"Gimme da li'l brooch an' you have my heart, li'l lady... ","작은 브로치 주면 내 마음 가져, 아가씨...",m2q3e_constance,,nw_d2_flirti_l,,,0,0
+35844,PC,Player Character,Money? That's all this means to you?,돈이요? 이게 당신한테는 그게 전부예요?,m2q3e_constance,,[지능 보통],,,0,0
+35845,PC,Player Character,Money? That be all this mean to you?,돈? 그게 너한테 전부야?,m2q3e_constance,,[지능 낮음],,,0,0
+35846,PC,Player Character,"All right, tell me a little about Erik.","좋아요, 에릭에 대해 좀 말해줘요.",m2q3e_constance,,[지능 보통],,,0,0
+35847,PC,Player Character,Uh... tell me 'bout Erik.,어... 에릭에 대해 말해줘.,m2q3e_constance,,[지능 낮음],,,0,0
+35848,PC,Player Character,Why is the herd so important?,가축 떼가 왜 그렇게 중요한가요?,m2q3e_constance,,[지능 보통],,,0,0
+35849,PC,Player Character,Why this 'erd be so important?,이 가축 떼가 왜 그렇게 중요해?,m2q3e_constance,,[지능 낮음],,,0,0
+35850,PC,Player Character,Why is the herd so important?,가축 떼가 왜 그렇게 중요한가요?,m2q3e_constance,,[지능 보통],,,0,0
+35851,PC,Player Character,Why this 'erd be so important?,이 가축 떼가 왜 그렇게 중요해?,m2q3e_constance,,[지능 낮음],,,0,0
+35852,PC,Player Character,Why so much money?,왜 그렇게 많은 돈이에요?,m2q3e_constance,,,,,0,0

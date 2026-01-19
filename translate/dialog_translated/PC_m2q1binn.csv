@@ -1,0 +1,75 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+32313,PC,Player Character,What do you charge for a room?,"방값은 얼마야?",m2q1binn,,[지능 보통],,,0,0
+32314,PC,Player Character,What pay for room?,"방 얼마야?",m2q1binn,,[지능 낮음],,,0,0
+32315,PC,Player Character,May I ask you some questions?,"몇 가지 물어봐도 될까?",m2q1binn,,[지능 보통],,,0,0
+32316,PC,Player Character,Me questions ask you?,"나 질문해도 돼?",m2q1binn,,[지능 낮음],,,0,0
+32317,PC,Player Character,Goodbye.,"잘 있어.",m2q1binn,,,,,0,0
+32318,PC,Player Character,That'll do.,"그 정도면 됐어.",m2q1binn,nw_d1_j_innkeep1,nw_d2_j_innkeep1,,,0,0
+32319,PC,Player Character,You no make fun or arms get ripped off!,"놀리면 팔 뽑아버려!",m2q1binn,,,,,0,0
+32320,PC,Player Character,Save stupid jokes and tell what me pay.,"바보 같은 농담 집어치우고 얼마 내야 하는지 말해.",m2q1binn,,,,,0,0
+32321,PC,Player Character,Has there been anything odd going on around here?,"이 주변에서 이상한 일이 있었어?",m2q1binn,,[지능 보통],,,0,0
+32322,PC,Player Character,Do you know where I might find some work in town?,"마을에서 일자리를 어디서 구할 수 있는지 알아?",m2q1binn,,[지능 보통],,,0,0
+32323,PC,Player Character,Perhaps you could give me some directions?,"길 좀 알려줄 수 있어?",m2q1binn,,[지능 보통],,,0,0
+32324,PC,Player Character,Where me get job?,"나 일 어디서 구해?",m2q1binn,,[지능 낮음],,,0,0
+32325,PC,Player Character,Bad stuff happen 'round here?,"여기 주변 나쁜 일 있었어?",m2q1binn,,[지능 낮음],,,0,0
+32326,PC,Player Character,Nevermind.,"됐어.",m2q1binn,,,,,0,0
+32327,PC,Player Character,What do you know about the plague?,"역병에 대해 뭘 알아?",m2q1binn,,,,,0,0
+32328,PC,Player Character,"But the plague is over, why dwell on the past?","하지만 역병은 끝났잖아, 왜 과거에 매달리는 거야?",m2q1binn,,,,,0,0
+32329,PC,Player Character,Werewolves? Where did you hear about werewolves?,"늑대인간? 늑대인간 얘기는 어디서 들었어?",m2q1binn,,[지능 보통],,,0,0
+32330,PC,Player Character,"Well, that doesn't interest me. Can I ask you some other questions?","글쎄, 그건 관심 없어. 다른 질문해도 돼?",m2q1binn,,,,,0,0
+32331,PC,Player Character,Nature? What do you mean?,"자연? 무슨 뜻이야?",m2q1binn,,,,,0,0
+32332,PC,Player Character,What a wonderful little theory. Why don't we get back to something a little more interesting?,"참 훌륭한 이론이네. 좀 더 재밌는 얘기로 돌아가지 않을래?",m2q1binn,,,,,0,0
+32333,PC,Player Character,"Well, I suppose I will go talk to Ander then. Goodbye.","그럼 앤더랑 얘기하러 가야겠다. 잘 있어.",m2q1binn,,,,,0,0
+32334,PC,Player Character,<StartCheck>[Insight]</Start> Is there anyone else I should talk to about the werewolves?,"<StartCheck>[직관]</Start> 늑대인간에 대해 얘기해야 할 다른 사람이 있어?",m2q1binn,,nw_d2_wis_intn,,,0,0
+32335,PC,Player Character,"Maybe I should talk to him, but first could you answer another question?","그 사람과 얘기해야 할 것 같긴 한데, 먼저 다른 질문 하나 대답해줄래?",m2q1binn,,,,,0,0
+32336,PC,Player Character,"<StartCheck>[Persuade]</Start> What? You can tell me. I won't repeat anything, I swear.","<StartCheck>[설득]</Start> 뭔데? 말해봐. 아무에게도 안 말할게, 맹세해.",m2q1binn,,,,,0,0
+32337,PC,Player Character,I guess I'll go talk to them.,"그 사람들한테 가서 얘기해야겠다.",m2q1binn,,,,,0,0
+32338,PC,Player Character,I suspect you are overly paranoid. I'd better talk to Alhelor now.,"너무 편집증적인 것 같아. 이제 알헬러랑 얘기해봐야겠다.",m2q1binn,,,,,0,0
+32339,PC,Player Character,That's interesting. Maybe I could ask you a few more questions?,"흥미롭네. 몇 가지 더 물어봐도 될까?",m2q1binn,,,,,0,0
+32340,PC,Player Character,Whatever. Maybe you could answer a few more questions though?,"뭐든. 몇 가지 더 대답해줄 수 있어?",m2q1binn,,,,,0,0
+32341,PC,Player Character,Where can I find some supplies?,"물자는 어디서 구할 수 있어?",m2q1binn,,,,,0,0
+32342,PC,Player Character,This place is called Port Llast. I assume that means there are docks around here somewhere.,"여긴 라스트 항구라고 불리잖아. 그럼 어딘가에 부두가 있겠지.",m2q1binn,,,,,0,0
+32343,PC,Player Character,What do you mean by that?,"그게 무슨 뜻이야?",m2q1binn,,[지능 보통],,,0,0
+32344,PC,Player Character,All right. I have a few more questions for you.,"알았어. 몇 가지 더 질문이 있어.",m2q1binn,,[지능 보통],,,0,0
+32345,PC,Player Character,Goodbye.,"잘 있어.",m2q1binn,,,,,0,0
+32346,PC,Player Character,I don't suppose so. Could you answer another question?,"그런 것 같진 않아. 다른 질문에 대답해줄래?",m2q1binn,,[지능 보통],,,0,0
+32347,PC,Player Character,"Okay, maybe you could answer another question?","알았어, 다른 질문에 대답해줄래?",m2q1binn,,,,,0,0
+32348,PC,Player Character,Okay. Goodbye.,"알았어. 잘 있어.",m2q1binn,,,,,0,0
+32349,PC,Player Character,"All right, I will do that. Goodbye.","알았어, 그렇게 할게. 잘 있어.",m2q1binn,,,,,0,0
+32350,PC,Player Character,"Okay, but first I would like to ask you another question.","알았어, 하지만 먼저 다른 질문 하나 할게.",m2q1binn,,,,,0,0
+32351,PC,Player Character,I will do that. Goodbye.,"그렇게 할게. 잘 있어.",m2q1binn,,[지능 보통],,,0,0
+32352,PC,Player Character,"I might, but first I have another question.","그럴 수도 있는데, 먼저 다른 질문이 있어.",m2q1binn,,[지능 보통],,,0,0
+32353,PC,Player Character,That sounds good. See you later.,"좋아. 나중에 봐.",m2q1binn,,,,,0,0
+32354,PC,Player Character,"Maybe, but first another question.","그럴 수도, 근데 먼저 다른 질문.",m2q1binn,,,,,0,0
+32355,PC,Player Character,Where werewolf?,"늑대인간 어디 있어?",m2q1binn,,[지능 낮음],,,0,0
+32356,PC,Player Character,Crazy trees?,"미친 나무?",m2q1binn,,,,,0,0
+32357,PC,Player Character,<StartCheck>[Insight]</Start> Who else knows werewolf?,"<StartCheck>[직관]</Start> 늑대인간 누가 또 알아?",m2q1binn,,nw_d2_wis_intn,,,0,0
+32358,PC,Player Character,"Okay, me go talk Ander now.","알았어, 나 이제 앤더한테 가서 얘기해.",m2q1binn,,,,,0,0
+32359,PC,Player Character,Me want more questions.,"나 질문 더 할래.",m2q1binn,,,,,0,0
+32360,PC,Player Character,<StartCheck>[Persuade]</Start> What me no nevermind?,"<StartCheck>[설득]</Start> 나 신경 안 써도 되는 거 뭐야?",m2q1binn,,,,,0,0
+32361,PC,Player Character,Me be okay. Me be tough customer. Bye.,"나 괜찮아. 나 강해. 잘 있어.",m2q1binn,,,,,0,0
+32362,PC,Player Character,Me no worry. Me have more questions.,"나 걱정 안 해. 질문 더 있어.",m2q1binn,,,,,0,0
+32363,PC,Player Character,Me done here. Bye.,"나 여기 끝났어. 잘 있어.",m2q1binn,,,,,0,0
+32364,PC,Player Character,Me want more questions.,"나 질문 더 할래.",m2q1binn,,,,,0,0
+32365,PC,Player Character,Ballard. A duck?,"발라드. 음악 얘기야?",m2q1binn,,,,,0,0
+32366,PC,Player Character,"Okay, but first you answer more questions.","알았어, 근데 먼저 질문 더 대답해.",m2q1binn,,,,,0,0
+32367,PC,Player Character,"Okay, me go find Ballard.","알았어, 나 발라드 찾으러 가.",m2q1binn,,,,,0,0
+32368,PC,Player Character,"Oh, okay. Now you answer another question.","아, 알았어. 이제 다른 질문 대답해.",m2q1binn,,,,,0,0
+32369,PC,Player Character,You help me find places?,"나 장소 찾는 거 도와줘?",m2q1binn,,[지능 낮음],,,0,0
+32370,PC,Player Character,That's all I need thank you.,"그걸로 됐어, 고마워.",m2q1binn,,[지능 보통],,,0,0
+32371,PC,Player Character,Could you answer another question?,"다른 질문에 대답해줄 수 있어?",m2q1binn,,[지능 보통],,,0,0
+32372,PC,Player Character,Where me get good stuff?,"나 좋은 물건 어디서 구해?",m2q1binn,,,,,0,0
+32373,PC,Player Character,Why this place called Port Llast? You have docks here?,"왜 여기 라스트 항구라고 불러? 여기 부두 있어?",m2q1binn,,,,,0,0
+32374,PC,Player Character,"Okay, me go.","알았어, 나 가.",m2q1binn,,[지능 낮음],,,0,0
+32375,PC,Player Character,Now you answer more questions.,"이제 질문 더 대답해.",m2q1binn,,[지능 낮음],,,0,0
+32376,PC,Player Character,Why not be safe?,"왜 안전 안 해?",m2q1binn,,[지능 낮음],,,0,0
+32377,PC,Player Character,Me have more questions.,"나 질문 더 있어.",m2q1binn,,[지능 낮음],,,0,0
+32378,PC,Player Character,Me not scared of werewolf! Now answer new question.,"나 늑대인간 안 무서워! 이제 새 질문 대답해.",m2q1binn,,[지능 낮음],,,0,0
+58983,PC,Player Character,"Maybe, but me want ask 'nother question. ","그럴 수도, 근데 나 다른 질문 할래.",m2q1binn,,[지능 낮음],,,0,0
+58984,PC,Player Character,Me do that. Bye bye. ,"나 그렇게 할게. 잘 가.",m2q1binn,,[지능 낮음],,,0,0
+64581,PC,Player Character [M2Q1B],<StartCheck>[Lie]</Start> Me need get money for new tax from you.,"<StartCheck>[거짓말]</Start> 나 너한테 새 세금 받으러 왔어.",m2q1binn,,m2q1binntax2,[M2Q1B],,0,0
+64582,PC,Player Character [M2Q1B],<StartCheck>[Lie]</Start> I'm here to collect the new tavern tax.,"<StartCheck>[거짓말]</Start> 새 술집 세금 걷으러 왔어.",m2q1binn,,m2q1binntax1,[M2Q1B],,0,0
+64583,PC,Player Character,"<StartAction>[Lie]</Start> You pay, or me close you place down. Aribeth and Nasher say so.","<StartAction>[거짓말]</Start> 돈 내, 아니면 가게 문 닫아. 아리베스랑 나셰르가 그랬어.",m2q1binn,,[지능 낮음],,,0,0
+64584,PC,Player Character,Ha! Me fool you good.,"하! 나 너 잘 속였어.",m2q1binn,,[지능 낮음],,,0,0
+64585,PC,Player Character,"<StartAction>[Lie]</Start> You'll pay, or this tavern will be shut down on the orders of Lady Aribeth and Lord Nasher.","<StartAction>[거짓말]</Start> 돈 내, 아니면 아리베스 여사와 나셰르 영주의 명으로 이 술집을 폐쇄할 거야.",m2q1binn,,[지능 보통],,,0,0
+64586,PC,Player Character,"Calm down man, it was only a joke.","진정해, 농담이었어.",m2q1binn,,[지능 보통],,,0,0

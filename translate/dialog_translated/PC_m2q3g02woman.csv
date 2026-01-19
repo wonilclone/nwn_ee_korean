@@ -1,0 +1,39 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+36729,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶은데요.,m2q3g02woman,,[지능 보통],,,0,0
+36730,PC,Player Character,Me want some informations.,나 정보 원해.,m2q3g02woman,,[지능 낮음],,,0,0
+36731,PC,Player Character,Goodbye.,안녕히 계세요.,m2q3g02woman,,,,,0,0
+36732,PC,Player Character,Charwood out in nowhere. Who keep it safe?,그을린숲 아무것도 없는 곳에 있어. 누가 안전 지켜?,m2q3g02woman,,[지능 낮음],,,0,0
+36733,PC,Player Character,I'm hunting for a cult that promoted plague in Neverwinter.,저는 네버윈터에 역병을 퍼뜨린 사교를 추적하고 있습니다.,m2q3g02woman,,[지능 보통],,,0,0
+36734,PC,Player Character,Tell me about Charwood.,그을린숲에 대해 말해주세요.,m2q3g02woman,,[지능 보통],,,0,0
+36735,PC,Player Character,Have you heard of any trouble around here?,이 근처에서 무슨 문제 들으셨나요?,m2q3g02woman,,[지능 보통],,,0,0
+36736,PC,Player Character,Me looks for plague-cult. They hurt Neverwinter.,나 역병 사교 찾아. 걔들 네버윈터 해쳤어.,m2q3g02woman,,[지능 낮음],,,0,0
+36737,PC,Player Character,Tell stuff abouts Charwood.,그을린숲 얘기해줘.,m2q3g02woman,,[지능 낮음],,,0,0
+36738,PC,Player Character,Maybe you hear about odd stuff or rumors?,이상한 거나 소문 들었어?,m2q3g02woman,,[지능 낮음],,,0,0
+36739,PC,Player Character,I want to ask something else.,다른 걸 물어보고 싶어요.,m2q3g02woman,,[지능 보통],,,0,0
+36740,PC,Player Character,Me ask different questions.,나 다른 질문 물어봐.,m2q3g02woman,,[지능 낮음],,,0,0
+36741,PC,Player Character,Charwood seems pretty isolated. Who protects you?,그을린숲은 꽤 외딴 것 같은데. 누가 당신들을 보호하나요?,m2q3g02woman,,[지능 보통],,,0,0
+36742,PC,Player Character,Do you have shops? Merchants?,상점이 있나요? 상인은요?,m2q3g02woman,,[지능 보통],,,0,0
+36743,PC,Player Character,You gots equipments?,장비 있어?,m2q3g02woman,,[지능 낮음],,,0,0
+36744,PC,Player Character [M2Q3C],I've spoken to you before. Don't you remember?,전에 말씀드렸었는데요. 기억 안 나세요?,m2q3g02woman,,m2q3cstalkedmen,[M2Q3C],,0,0
+36745,PC,Player Character [M2Q3C],But you seen me before. You not remember?,전에 나 봤잖아. 기억 안 나?,m2q3g02woman,,m2q3cstalkedmel,[M2Q3C],,0,0
+36746,PC,Player Character,<StartCheck>[Insight]</Start> New? Port Llast is well established.,<StartCheck>[통찰]</Start> 새로 만들어졌다고요? 라스트 항구는 이미 잘 자리 잡았는데요.,m2q3g02woman,,nw_d2_wis_intn,,,0,0
+36747,PC,Player Character,Where are your guards? Perhaps they know?,경비병들은 어디 있나요? 그들이 알지도 모르겠네요.,m2q3g02woman,,[지능 보통],,,0,0
+36748,PC,Player Character,You gots guards? Maybe they knows?,경비병 있어? 걔들 알까?,m2q3g02woman,,[지능 낮음],,,0,0
+36749,PC,Player Character,Who are the important people in town?,마을에서 중요한 사람들은 누구인가요?,m2q3g02woman,,[지능 보통],,,0,0
+36750,PC,Player Character,Who important around here?,여기 중요한 사람 누구야?,m2q3g02woman,,[지능 낮음],,,0,0
+36751,PC,Player Character,<StartCheck>[Insight]</Start> Are you afraid of that other Jhareg?,<StartCheck>[통찰]</Start> 다른 자렉을 두려워하시나요?,m2q3g02woman,,nw_d2_wis_intn,,,0,0
+36752,PC,Player Character,Who Quint?,퀸트 누구야?,m2q3g02woman,,[지능 낮음],,,0,0
+36753,PC,Player Character,Who is Quint?,퀸트는 누구죠?,m2q3g02woman,,[지능 보통],,,0,0
+36754,PC,Player Character,I want to ask something else about Charwood.,그을린숲에 대해 다른 걸 물어보고 싶어요.,m2q3g02woman,,[지능 보통],,,0,0
+36755,PC,Player Character,Me ask something else about town.,나 마을 다른 거 물어봐.,m2q3g02woman,,[지능 낮음],,,0,0
+36756,PC,Player Character,Why don't you remember?,왜 기억 못 하시는 거죠?,m2q3g02woman,,[지능 보통],,,0,0
+36757,PC,Player Character,Why you not remember stuff?,왜 기억 못 해?,m2q3g02woman,,[지능 낮음],,,0,0
+36758,PC,Player Character,<StartCheck>[Insight]</Start> The Hall of Justice is a very old building.,<StartCheck>[통찰]</Start> 정의의 전당은 아주 오래된 건물인데요.,m2q3g02woman,,nw_d2_wis_intn,,,0,0
+36759,PC,Player Character,Where can I find the Mayor?,시장을 어디서 찾을 수 있나요?,m2q3g02woman,,[지능 보통],,,0,0
+36760,PC,Player Character,Where me find Mister Mayor?,시장 어디서 찾아?,m2q3g02woman,,[지능 낮음],,,0,0
+36761,PC,Player Character,Do the Jharegs have a castle?,자렉 가문에 성이 있나요?,m2q3g02woman,,[지능 보통],,,0,0
+36762,PC,Player Character,"Them Jar-Eggs, they have castle?","자-렉 사람들, 성 있어?",m2q3g02woman,,[지능 낮음],,,0,0
+36763,PC,Player Character,What does the guard protect you from?,경비병이 당신들을 무엇으로부터 지키나요?,m2q3g02woman,,[지능 보통],,,0,0
+36764,PC,Player Character,What da guard protect you from?,경비병 뭐로부터 지켜?,m2q3g02woman,,[지능 낮음],,,0,0
+59224,PC,Player Character,Me want know 'bout dem peoples. ,나 사람들 알고 싶어.,m2q3g02woman,,[지능 낮음],,,0,0
+59225,PC,Player Character,Tell me about the different people around here.,이 근처 여러 사람들에 대해 말해주세요.,m2q3g02woman,,[지능 보통],,,0,0

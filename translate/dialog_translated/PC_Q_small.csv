@@ -1,0 +1,1074 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+69305,PC,Player Character,<StartAction>Leave the lab alone.</Start>,<StartAction>실험실을 내버려둡니다.</Start>,q1a_focuslab,,,,,0,0
+69306,PC,Player Character,<StartAction>Create focus crystals.</Start>,<StartAction>초첨 수정을 만듭니다.</Start>,q1a_focuslab,,,,,0,0
+69307,PC,Player Character,<StartAction>Search the lab.</Start>,<StartAction>실험실을 수색합니다.</Start>,q1a_focuslab,,con_q1a2table_1,,,0,0
+69308,PC,Player Character,<StartAction>How do I create a focus crystal?</Start>,<StartAction>초첨 수정을 어떻게 만들지?</Start>,q1a_focuslab,,,,,0,0
+69360,PC,Player Character,What do I care? Stop bothering me.,내가 왜 신경 써야 해? 귀찮게 하지 마.,q1amischa,,,,,0,0
+69361,PC,Player Character,"I just want out of here, that's all.",난 그냥 여기서 나가고 싶을 뿐이야.,q1amischa,,,,,0,0
+69362,PC,Player Character,"I'll say whatever I like, girl.","내가 하고 싶은 말 하는 거야, 아가씨.",q1amischa,,,,,0,0
+69363,PC,Player Character,I suppose you're right.,네 말이 맞는 것 같아.,q1amischa,,,,,0,0
+69364,PC,Player Character,Probably not. It looks pretty grim.,아마 아닐 거야. 상황이 꽤 안 좋아 보여.,q1amischa,,,,,0,0
+69365,PC,Player Character,Ayala says he just needs some herbs and he'll recover.,아얄라가 약초만 있으면 회복할 거라고 했어.,q1amischa,,xp1_droganheal03,,,0,0
+69366,PC,Player Character,"Knock it off, both of you.","그만해, 둘 다.",q1amischa,,,,,0,0
+69367,PC,Player Character,Take her along? As what? Monster bait?,데려가? 뭘로? 괴물 미끼로?,q1amischa,,,,,0,0
+69368,PC,Player Character,"Leave her alone, Xanos.","그녀를 내버려 둬, 자노스.",q1amischa,,,,,0,0
+69369,PC,Player Character,He should be fine. Don't worry about it.,괜찮을 거야. 걱정하지 마.,q1amischa,,,,,0,0
+69461,PC,Player Character,<StartAction>Send the dog on its way.</Start>,<StartAction>개를 보냅니다.</Start>,q1bdog,,,,,0,0
+69462,PC,Player Character,<StartAction>Tell the dog where Bethsheva buried the item.</Start>,<StartAction>베스셰바가 물건을 묻은 곳을 알려줍니다.</Start>,q1bdog,,q1b_dog_bonus,,,0,0
+69463,PC,Player Character,<StartAction>Ask the dog for any useful information it might have.</Start>,<StartAction>유용한 정보가 있는지 개에게 물어봅니다.</Start>,q1bdog,,,,,0,0
+69464,PC,Player Character,<StartAction>Ask the dog about Bethsheva.</Start>,<StartAction>베스셰바에 대해 물어봅니다.</Start>,q1bdog,,,,,0,0
+69465,PC,Player Character,<StartAction>Ask the dog for information on the kobolds' passing.</Start>,<StartAction>코볼트가 지나간 것에 대한 정보를 물어봅니다.</Start>,q1bdog,,,,,0,0
+69466,PC,Player Character,<StartAction>Give the dog a snack.</Start>,<StartAction>개에게 간식을 줍니다.</Start>,q1bdog,,,,,0,0
+69479,PC,Player Character,"Mind your own business, cretin.","네 일이나 신경 써, 멍청아.",q1bgateguard,,,,,0,0
+69480,PC,Player Character,I can handle myself.,혼자 처리할 수 있어.,q1bgateguard,,,,,0,0
+69481,PC,Player Character,Aren't the kobolds long gone?,코볼트들은 진작에 떠나지 않았어?,q1bgateguard,,,,,0,0
+69482,PC,Player Character,I have no choice. I need to find those kobolds.,선택의 여지가 없어. 코볼트들을 찾아야 해.,q1bgateguard,,,,,0,0
+69880,PC,Player Character,I'll be on my way.,이제 갈게.,q1cook,,,,,0,0
+69881,PC,Player Character,Do you have anything to eat around here?,여기 먹을 게 있어?,q1cook,,,,,0,0
+69882,PC,Player Character,"Actually, I came here looking for Helmthorn berries. Do you still have some?",사실 투구가시 열매를 찾으러 왔어. 아직 가지고 있어?,q1cook,,xp1_berryneed,,,0,0
+69883,PC,Player Character,You're welcome.,천만에.,q1cook,,,,,0,0
+69884,PC,Player Character,It was nothing more than my duty.,내 의무였을 뿐이야.,q1cook,,,,,0,0
+69885,PC,Player Character,So... just how grateful are you?,그래서... 정확히 얼마나 감사한 거야?,q1cook,,,,,0,0
+69886,PC,Player Character,"It took a lot of effort to rescue you, that's why.",널 구출하는 데 노력이 많이 들었거든.,q1cook,,,,,0,0
+69887,PC,Player Character,I'm hungry. Are my efforts worth a good meal?,"배고픈데, 내 노력이 좋은 식사 대접 받을 가치는 있지?",q1cook,,,,,0,0
+69888,PC,Player Character,Would the fair damsel deign to reward her rescuer with a simple kiss?,아름다운 아가씨가 구출자에게 간단한 키스로 보답해줄까?,q1cook,,nw_d2_flfemale,,,0,0
+69889,PC,Player Character,You're a pretty girl. Surely I don't have to spell it out for you.,넌 예쁜 아가씨잖아. 확실히 설명할 필요는 없겠지.,q1cook,,nw_d2_male,,,0,0
+69890,PC,Player Character,"I want a reward, of course. You must have some coin on you.",당연히 보상을 원하지. 돈이 좀 있잖아.,q1cook,,,,,0,0
+69891,PC,Player Character,"No. Keep them, then.",아니. 그럼 가져.,q1cook,,,,,0,0
+69892,PC,Player Character,They'll have to do. Hand them over.,그거라도 있으니 다행이네. 넘겨.,q1cook,x0_d1_dideviltny,,,,0,0
+69893,PC,Player Character,I can think of another way for a pretty girl like you to reward me...,널 같은 예쁜 아가씨가 나한테 보답할 다른 방법이 떠오르는데...,q1cook,x0_d1_dideviltny,nw_d2_male,,,0,0
+69894,PC,Player Character,I actually need some Helmthorn berries. The herbalist said you might have some.,사실 투구가시 열매가 좀 필요해. 약초상이 네가 가지고 있을 거라고 했어.,q1cook,,xp1_berryneed,,,0,0
+78669,PC,Player Character,Xanos!,자노스!,q1cook,,,,,0,0
+78670,PC,Player Character,Hey!,이봐!,q1cook,,,,,0,0
+70103,PC,Player Character,Thanks for the information.,정보 고마워.,q1doldman,,,,,0,0
+70104,PC,Player Character,"I suppose with everyone so distracted, robbing you will be easy.","모두가 정신없으니까, 널 털기 쉬울 것 같네.",q1doldman,x0_d1_didchaotny,,,,0,0
+70105,PC,Player Character,"Yes, I am. Ha ha! Funny, isn't it?","그래, 맞아. 하하! 웃기지 않아?",q1doldman,,,,,0,0
+70106,PC,Player Character,Not at all. I could use a few extra coins.,전혀. 동전 몇 닢은 벌 수 있을 것 같은데.,q1doldman,x0_d1_didchaosml,,,,0,0
+70107,PC,Player Character,"Oh, forget it. You probably don't have anything worth taking.","아, 됐어. 넌 아마 뺏을 만한 것도 없을 거야.",q1doldman,,,,,0,0
+70108,PC,Player Character,"What's going on here, anyhow?",여기서 무슨 일이 있는 거야?,q1doldman,,,,,0,0
+70109,PC,Player Character,"The whole town's been attacked, it seems.",마을 전체가 공격당한 것 같아.,q1doldman,,,,,0,0
+70110,PC,Player Character,Do you know anything else about kobolds?,코볼트에 대해 다른 걸 알아?,q1doldman,,,,,0,0
+70111,PC,Player Character,Why do you think the kobolds attacked?,코볼트가 왜 공격했다고 생각해?,q1doldman,,,,,0,0
+70112,PC,Player Character,Youngster? I'm probably older than you are.,젊은이? 난 아마 너보다 나이가 많을걸.,q1doldman,,xp1_oldrace,,,0,0
+70427,PC,Player Character,<StartAction>[Send your mind out to touch the bear's mind.]</Start>,<StartAction>[마음을 뻗어 곰의 마음에 닿습니다.]</Start>,q1footbear,,con_q1footbear_1,,,0,0
+70428,PC,Player Character,"<StartAction>[Coup-de-grace]</Start> I will put you out of your misery, bear.  It's for the best.","<StartAction>[급소 공격]</Start> 곰아, 고통에서 해방시켜 줄게. 이게 최선이야.",q1footbear,,,,,0,0
+70429,PC,Player Character,<StartAction>[Examine the bear]</Start>,<StartAction>[곰을 조사합니다]</Start>,q1footbear,,,,,0,0
+70430,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q1footbear,,,,,0,0
+70431,PC,Player Character,<StartAction>[Remove the arrow and cleanse the wound.]</Start>,<StartAction>[화살을 빼고 상처를 치료합니다.]</Start>,q1footbear,,,,,0,0
+70443,PC,Player Character,<StartAction>[Send your mind out to touch the bear's mind.]</Start>,<StartAction>[마음을 뻗어 곰의 마음에 닿습니다.]</Start>,q1footbear1,,x1_chk_animempth,,,0,0
+70444,PC,Player Character,Goodbye bear.,"안녕, 곰아.",q1footbear1,,,,,0,0
+70445,PC,Player Character,Have you seen any kobolds?,코볼트 본 적 있어?,q1footbear1,,,,,0,0
+70446,PC,Player Character,Do I know you?,너 아는 사이야?,q1footbear1,,,,,0,0
+70552,PC,Player Character,"Hello, wolf.","안녕, 늑대야.",q1footwolf,,,,,0,0
+70792,PC,Player Character,<StartAction>Bid the wolf farewell.</Start>,<StartAction>늑대에게 작별을 고합니다.</Start>,q1hbethsheva,,,,,0,0
+70793,PC,Player Character,<StartAction>Ask her about the secret she buried.</Start>,<StartAction>그녀가 묻은 비밀에 대해 물어봅니다.</Start>,q1hbethsheva,,q1b_bethshev02,,,0,0
+70794,PC,Player Character,<StartCheck>[Persuade]</Start> <StartAction>Ask where she buried this item.</Start>,<StartCheck>[설득]</Start> <StartAction>물건을 어디 묻었는지 물어봅니다.</Start>,q1hbethsheva,,,,,0,0
+70795,PC,Player Character,<StartAction>Thank her for the information.</Start>,<StartAction>정보에 감사합니다.</Start>,q1hbethsheva,,,,,0,0
+70796,PC,Player Character,<StartAction>Ask her what item she buried.</Start>,<StartAction>어떤 물건을 묻었는지 물어봅니다.</Start>,q1hbethsheva,,,,,0,0
+70797,PC,Player Character,<StartAction>Ask the wolf for any useful information it might have.</Start>,<StartAction>유용한 정보가 있는지 늑대에게 물어봅니다.</Start>,q1hbethsheva,,,,,0,0
+70798,PC,Player Character,<StartAction>Ask her if you can help find her a mate.</Start>,<StartAction>짝을 찾는 걸 도와줄 수 있는지 물어봅니다.</Start>,q1hbethsheva,,,,,0,0
+70799,PC,Player Character,<StartAction>Ask the wolf for information on the kobolds' passing.</Start>,<StartAction>코볼트가 지나간 것에 대한 정보를 물어봅니다.</Start>,q1hbethsheva,,,,,0,0
+70800,PC,Player Character,<StartAction>Give the wolf a snack.</Start>,<StartAction>늑대에게 간식을 줍니다.</Start>,q1hbethsheva,,,,,0,0
+70827,PC,Player Character,"Be quiet, I don't know if there are more kobolds around here. ",조용히 해. 여기 코볼트가 더 있을지 모르겠어.,q1hblake,,,,,0,0
+70828,PC,Player Character,At least you are alive. ,적어도 살아는 있군.,q1hblake,,,,,0,0
+70829,PC,Player Character,Are you ok?,괜찮아?,q1hblake,,,,,0,0
+70830,PC,Player Character,<StartAction>[Coup de gras]</Start> Widows are much easier to manipulate. See you in hell.,<StartAction>[치명타]</Start> 과부가 조종하기 훨씬 쉽지. 지옥에서 보자고.,q1hblake,,,,,0,0
+70831,PC,Player Character,<StartCheck>[Heal]</Start> Hold still; let me treat you with this healing kit.,<StartCheck>[치료]</Start> 가만히 있어. 이 치료 도구로 치료해 줄게.,q1hblake,,q1_chk_hkit1,,,0,0
+70832,PC,Player Character,<StartAction>[Lay on Hands]</Start> Hold still; let me treat you.,<StartAction>[안수 치유]</Start> 가만히 있어. 치료해 줄게.,q1hblake,act_q1hblake_4,q1_chk_layhands,,,0,0
+70833,PC,Player Character,"<StartAction>[Use a spell or ability to Cure Adam.]</Start> Hold still, let me treat you.",<StartAction>[아담을 치료할 주문이나 능력을 사용한다.]</Start> 가만히 있어. 치료해 줄게.,q1hblake,act_q1hblake_3,q1_chk_healing,,,0,0
+70834,PC,Player Character,Take this healing potion; you look like you need it more than I.,이 치유 물약을 받아. 나보다 네가 더 필요해 보이니까.,q1hblake,act_q1hblake_10,q1_chk_hpotion,,,0,0
+70835,PC,Player Character,"Yes, let's go.","그래, 가자.",q1hblake,,,,,0,0
+70836,PC,Player Character,I'll see what I can do...,뭘 할 수 있을지 보지...,q1hblake,,,,,0,0
+70837,PC,Player Character,I am so terribly sorry.,정말 유감이야.,q1hblake,,con_q1bnora_6,,,0,0
+70838,PC,Player Character,Here is your child...,여기 아이가 있어...,q1hblake,,con_q1hblake_3,,,0,0
+70839,PC,Player Character,"The kobold will release your child in exchange for a gem, do you have any?",코볼트가 보석과 교환하면 아이를 풀어준대. 보석 있어?,q1hblake,,con_q1hblake_2,,,0,0
+70840,PC,Player Character,"No, I think I will keep the child.","아니, 아이는 내가 가질 거야.",q1hblake,,,,,0,0
+70841,PC,Player Character,I think I will keep him.,내가 가질 것 같은데.,q1hblake,,,,,0,0
+70842,PC,Player Character,"No, he is mine now.","아니, 이제 내 거야.",q1hblake,,,,,0,0
+70843,PC,Player Character,Fine. Take your babe. He sure smells awful anyways.,좋아. 네 아기 가져가. 냄새도 지독하고.,q1hblake,,,,,0,0
+70844,PC,Player Character,I want to take him to his mother.,어머니에게 데려다 주고 싶어.,q1hblake,,,,,0,0
+70845,PC,Player Character,"Alright, I will do that.","알았어, 그렇게 할게.",q1hblake,act_q1hkobold_7,,,,0,0
+70992,PC,Player Character,"Yes, goodbye.","그래, 잘 가.",q1houseguy,,,,,0,0
+70993,PC,Player Character,"No, you might want to continue cowering in here for a while.","아니, 여기서 좀 더 웅크리고 있는 게 좋을 거야.",q1houseguy,,,,,0,0
+70994,PC,Player Character,Goodbye.,잘 가.,q1houseguy,,,,,0,0
+70995,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶어.,q1houseguy,,,,,0,0
+70996,PC,Player Character,That's all my questions.,질문은 다 했어.,q1houseguy,,,,,0,0
+70997,PC,Player Character,"Sorry, can I fix the door or pay you for the damage?","미안해, 문을 고치거나 손해를 배상할게.",q1houseguy,,,,,0,0
+70998,PC,Player Character,"Besides the attack, what has happened recently?","공격 말고, 최근에 무슨 일이 있었어?",q1houseguy,,,,,0,0
+70999,PC,Player Character,Tell me about the halflings.,하플링들에 대해 말해줘.,q1houseguy,,,,,0,0
+71000,PC,Player Character,<StartCheck>[Persuade - Lie]</Start>So have you heard about the new Kobold Defense Tax?,<StartCheck>[설득 - 거짓말]</Start>새로운 코볼트 방어세에 대해 들었어?,q1houseguy,act_q1houseguy2,con_q1houseguy1,,,0,0
+71001,PC,Player Character,I need directions.,길을 알려줘.,q1houseguy,,,,,0,0
+71002,PC,Player Character,Maybe I don't need directions after all.,길 안내는 필요 없을 것 같네.,q1houseguy,,,,,0,0
+71003,PC,Player Character,Where is the blacksmith?,대장간은 어디야?,q1houseguy,,,,,0,0
+71004,PC,Player Character,Where is the herbalist?,약초상은 어디야?,q1houseguy,,,,,0,0
+71005,PC,Player Character,Where is the local tavern?,마을 주점은 어디야?,q1houseguy,,,,,0,0
+71006,PC,Player Character,Where would I find the mayor?,촌장은 어디서 찾을 수 있어?,q1houseguy,,,,,0,0
+71007,PC,Player Character,I don't need any more directions. ,더 이상 길 안내는 필요 없어.,q1houseguy,,,,,0,0
+71008,PC,Player Character,"<StartCheck>[Persuade - Intimidate]</Start> Not for you, unless I see some gold!","<StartCheck>[설득 - 위협]</Start> 네겐 아니지, 금화를 보지 않는 한!",q1houseguy,act_q1houseguy1,con_q1houseguy1,,,0,0
+71009,PC,Player Character,Why didn't you come out and help drive off the attack?,왜 나와서 공격을 막는 걸 도와주지 않았어?,q1houseguy,,,,,0,0
+71010,PC,Player Character,Goodbye.,잘 가.,q1houseguy,,,,,0,0
+71277,PC,Player Character,"Hello, wolf.","안녕, 늑대야.",q1netherwolf,,,,,0,0
+71293,PC,Player Character,"Hello, rat. Where did you come from?","안녕, 쥐야. 어디서 온 거야?",q1rumgutrat,,x1_chk_animempth,,,0,0
+71296,PC,Player Character,<StartAction>[Crawl into the darkness.]</Start>,<StartAction>[어둠 속으로 기어들어간다.]</Start>,q1rumgutsecret,act_rumgutesc_1,,,,0,0
+71297,PC,Player Character,<StartAction>[Do nothing...]</Start>,<StartAction>[아무것도 하지 않는다...]</Start>,q1rumgutsecret,,,,,0,0
+71298,PC,Player Character,<StartAction>[Grab Becka and crawl into the darkness to see where it leads...]</Start>,<StartAction>[베카를 잡고 어둠 속으로 기어들어가 어디로 이어지는지 본다...]</Start>,q1rumgutsecret,act_rumgutescape,,,,0,0
+71301,PC,Player Character,<StartAction>[Do nothing...]</Start>,<StartAction>[아무것도 하지 않습니다...]</Start>,q1rumsecretout,,,,,0,0
+71302,PC,Player Character,<StartAction>[Crawl back into the cave...]</Start>,<StartAction>[동굴로 다시 기어들어갑니다...]</Start>,q1rumsecretout,act_rumgutgoin,,,,0,0
+71323,PC,Player Character,You have the wrong person. Goodbye.,잘못 찾았어. 안녕.,q1ruralfarm,,,,,0,0
+71324,PC,Player Character,"And I would have won that fight, if your friends hadn't interfered.",네 친구들이 끼어들지만 않았어도 내가 그 싸움에서 이겼을 거야.,q1ruralfarm,,,,,0,0
+71325,PC,Player Character,You insulted my teacher! Drogan's powers deserve your respect.,넌 내 스승을 모욕했어! 드로건의 능력은 존중받아 마땅해.,q1ruralfarm,,nw_d2_arcane,,,0,0
+71326,PC,Player Character,You and your friends were bragging about your cruelty to animals. It was the least you deserved.,너랑 네 친구들은 동물을 학대한 걸 자랑했어. 그 정도 대가는 당연하지.,q1ruralfarm,,xp1_pcisdruid,,,0,0
+71327,PC,Player Character,You insulted my god in public! What else was I supposed to do?,공개적으로 내 신을 모욕했잖아! 달리 어떻게 하길 원했어?,q1ruralfarm,,xp1_pciscleric,,,0,0
+71328,PC,Player Character,You are the one that made fun of my music! I ought to teach you a lesson in manners.,내 음악을 비웃은 건 너잖아! 예의를 가르쳐 줘야겠어.,q1ruralfarm,,xp1_pcisbard,,,0,0
+71329,PC,Player Character,"That's right, you cowardly dog! I bested you then and could take you again!","맞아, 이 겁쟁이 개 같은 놈아! 그때도 이겼고 지금도 이길 수 있어!",q1ruralfarm,,nw_d2_warrior,,,0,0
+71330,PC,Player Character,He's right. It was all good spirited humor. ,그가 맞아. 다 선의의 유머였어.,q1ruralfarm,,,,,0,0
+71331,PC,Player Character,No. I have never been so insulted.,아니야. 그렇게 모욕당한 적이 없어.,q1ruralfarm,,,,,0,0
+71332,PC,Player Character,"<StartCheck>[Persuade]</Start> No, this brute is a violent, evil man. You should get rid of him.","<StartCheck>[설득]</Start> 아니야, 이 짐승은 폭력적이고 사악한 놈이야. 쫓아내야 해.",q1ruralfarm,x0_d1_didlawtny,,,,0,0
+71333,PC,Player Character,I suppose you could call it that.,그렇게 볼 수도 있겠지.,q1ruralfarm,,,,,0,0
+71334,PC,Player Character,"No, you have mistaken me. I am one of Drogan's pupils.","아니야, 날 잘못 알았어. 난 드로건의 제자 중 한 명이야.",q1ruralfarm,,,,,0,0
+71547,PC,Player Character,<StartAction>[Walk away.]</Start>,<StartAction>[떠난다.]</Start>,q1shadowhart,,,,,0,0
+71548,PC,Player Character,"Run Shadow Hart, hunters are near.","도망가, 그림자 숫사슴. 사냥꾼들이 가까이 있어.",q1shadowhart,,con_shadowhart_1,,,0,0
+71549,PC,Player Character,Be calm. I am a friend.,진정해. 난 친구야.,q1shadowhart,,x1_chk_animempth,,,0,0
+71550,PC,Player Character,May I ask you some questions?,질문 좀 해도 될까?,q1shadowhart,,,,,0,0
+71551,PC,Player Character,That's all the questions I have.,질문은 이게 다야.,q1shadowhart,,,,,0,0
+71552,PC,Player Character,Goodbye.,안녕.,q1shadowhart,,,,,0,0
+71553,PC,Player Character,Have you seen any kobolds?,코볼트를 본 적 있어?,q1shadowhart,,,,,0,0
+71554,PC,Player Character,What are you?,너는 뭐야?,q1shadowhart,,,,,0,0
+71555,PC,Player Character,Where do you come from?,어디서 왔어?,q1shadowhart,,,,,0,0
+71556,PC,Player Character,What was this tree?,이 나무는 뭐였어?,q1shadowhart,,,,,0,0
+71557,PC,Player Character,"<StartAction>[Calmly approach the stag, and touch its forehead.]</Start>",<StartAction>[조용히 수사슴에게 다가가 이마를 만진다.]</Start>,q1shadowhart,,,,,0,0
+71558,PC,Player Character,"<StartAction>[Calmly approach the stag, then attack it.]</Start>",<StartAction>[조용히 수사슴에게 다가간 뒤 공격한다.]</Start>,q1shadowhart,,,,,0,0
+71559,PC,Player Character,"You are being hunted, Shadow Hart. You must flee these lands.","너는 사냥당하고 있어, 그림자 숫사슴. 이 땅에서 도망쳐야 해.",q1shadowhart,,con_shadowhart_1,,,0,0
+71648,PC,Player Character,<StartAction>[Leave the pillar alone.]</Start>,<StartAction>[기둥을 내버려둡니다.]</Start>,q2_background,,,,,0,0
+71649,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[문자 해독]</Start> <StartAction>[룬 문자를 해독합니다.]</Start>,q2_background,,q2_decipher,,,0,0
+71650,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 해독합니다.]</Start>,q2_background,,,,,0,0
+71651,PC,Player Character,<StartAction>[Leave the pillar alone.]</Start>,<StartAction>[기둥을 내버려둡니다.]</Start>,q2_background,,,,,0,0
+71652,PC,Player Character,<StartAction>[Read the history.]</Start>,<StartAction>[역사를 읽습니다.]</Start>,q2_background,,,,,0,0
+71662,PC,Player Character,Thank you. Goodbye.,고마워. 잘 가.,q2_bats,,,,,0,0
+71663,PC,Player Character,<StartAction>[Throw a few crumbs of food to the bats.]</Start>,<StartAction>[박쥐들에게 음식 부스러기를 던져줍니다.]</Start>,q2_bats,,,,,0,0
+71664,PC,Player Character,<StartAction>[Focus on the hunters.]</Start>,<StartAction>[사냥꾼들에게 집중합니다.]</Start>,q2_bats,,,,,0,0
+71665,PC,Player Character,<StartAction>[Focus on the kobolds.]</Start>,<StartAction>[코볼트들에게 집중합니다.]</Start>,q2_bats,,,,,0,0
+71681,PC,Player Character,"What disturbs your rest, spirit? ","무엇이 네 안식을 방해하는 거야, 영혼이여?",q2_isande,,,,,0,0
+71682,PC,Player Character,What is gone?,무엇이 사라진 거야?,q2_isande,,,,,0,0
+71683,PC,Player Character,Who are you?,넌 누구야?,q2_isande,,,,,0,0
+71684,PC,Player Character,Goodbye.,안녕.,q2_isande,,,,,0,0
+71685,PC,Player Character,May I ask you some questions?,질문 좀 해도 될까?,q2_isande,,,,,0,0
+71686,PC,Player Character,What was stolen from you?,무엇을 도난당한 거야?,q2_isande,,,,,0,0
+71687,PC,Player Character,I have too much to do already. Sorry. ,이미 할 일이 너무 많아. 미안해.,q2_isande,,,,,0,0
+71688,PC,Player Character,What does the sword look like?,그 검은 어떻게 생겼어?,q2_isande,,,,,0,0
+71689,PC,Player Character,Who stole your sword?,누가 네 검을 훔쳐갔어?,q2_isande,,,,,0,0
+71690,PC,Player Character,Do you want me to find it?,내가 찾아줄까?,q2_isande,,,,,0,0
+71691,PC,Player Character,I will be going then.,그럼 이제 갈게.,q2_isande,,,,,0,0
+71692,PC,Player Character,Not yet.,아직 아니야.,q2_isande,,,,,0,0
+71693,PC,Player Character,"Is this your sword, spirit?","이게 네 검이야, 영혼이여?",q2_isande,,con_q2isande_sw1,,,0,0
+71717,PC,Player Character,"Open the door now, or I'll break it down and kill you all.","당장 문 열어, 안 그러면 부수고 들어가서 다 죽일 거야.",q2_kob_ser,,,,,0,0
+71718,PC,Player Character,Who is in charge in there?,거기 누가 책임자야?,q2_kob_ser,,,,,0,0
+71719,PC,Player Character,I am <FullName> and I would speak with your leader. ,나는 <FullName>이고 네 지도자와 얘기하고 싶어.,q2_kob_ser,,,,,0,0
+71720,PC,Player Character,I am not a gnoll. I am <FirstName> and I just want to talk.,나는 놀이 아니야. <FirstName>이고 그냥 얘기하고 싶을 뿐이야.,q2_kob_ser,,,,,0,0
+71721,PC,Player Character,"Skeletons do not talk, stupid kobold!","해골은 말 안 해, 멍청한 코볼트야!",q2_kob_ser,,[지능 보통],,,0,0
+71722,PC,Player Character,<StartCheck>[Persuade]</Start> Just open the door and you will see that I am no enemy.,"<StartCheck>[설득]</Start> 그냥 문 열어, 내가 적이 아니란 걸 알 거야.",q2_kob_ser,,,,,0,0
+71723,PC,Player Character,I am not a skeleton.,나는 해골이 아니야.,q2_kob_ser,,,,,0,0
+71724,PC,Player Character,How stupid are you? Just open the damn door!,너 얼마나 멍청한 거야? 그냥 문 열어!,q2_kob_ser,,,,,0,0
+71725,PC,Player Character,"If I was a talking spider, I would web the door and wait for you to come out for food.","내가 말하는 거미였으면, 문에 거미줄 치고 너희가 먹을 것 찾으러 나올 때까지 기다렸겠지.",q2_kob_ser,,[지능 보통],,,0,0
+71726,PC,Player Character,I am not a spider either. I am not here to kill you.,나는 거미도 아니야. 너희를 죽이러 온 게 아니라고.,q2_kob_ser,,,,,0,0
+71858,PC,Player Character,<StartAction>Leave the statue alone.</Start>,<StartAction>조각상을 내버려둡니다.</Start>,q2_shrine,,,,,0,0
+71859,PC,Player Character,<StartAction>Spit on the statue.</Start>,<StartAction>조각상에 침을 뱉습니다.</Start>,q2_shrine,q2_at_shrn_spit,,,,0,0
+71860,PC,Player Character,<StartAction>Pretend to pray faithfully.</Start>,<StartAction>신실하게 기도하는 척합니다.</Start>,q2_shrine,q2_at_shrn_prfth,,,,0,0
+71861,PC,Player Character,<StartAction>Pray faithfully.</Start>,<StartAction>신실하게 기도합니다.</Start>,q2_shrine,q2_at_shrn_fth,,,,0,0
+80938,PC,Player Character,<StartAction>Leave the altar alone.</Start>,<StartAction>제단을 내버려둡니다.</Start>,q2_shrine,,,,,0,0
+80939,PC,Player Character,<StartAction>Spit on the altar.</Start>,<StartAction>제단에 침을 뱉습니다.</Start>,q2_shrine,q2_at_shrn_spit,,,,0,0
+80940,PC,Player Character,<StartAction>Pretend to pray faithfully.</Start>,<StartAction>신실하게 기도하는 척합니다.</Start>,q2_shrine,q2_at_shrn_prfth,,,,0,0
+80941,PC,Player Character,<StartAction>Pray faithfully.</Start>,<StartAction>신실하게 기도합니다.</Start>,q2_shrine,q2_at_shrn_fth,,,,0,0
+71865,PC,Player Character,<StartAction>Leave it alone.</Start>,<StartAction>내버려둡니다.</Start>,q2_spider_sacs,,,,,0,0
+71866,PC,Player Character,<StartAction>Crush the egg sacs.</Start>,<StartAction>알 주머니를 부숩니다.</Start>,q2_spider_sacs,q2_at_crash_eggs,,,,0,0
+72066,PC,Player Character,<StartAction>Leave the bear alone.</Start>,<StartAction>곰을 내버려둡니다.</Start>,q3_blackbear,,,,,0,0
+72067,PC,Player Character,<StartAction>Surprise the bear and kill it.</Start>,<StartAction>곰을 기습해서 죽입니다.</Start>,q3_blackbear,x0_d1_dideviltny,,,,0,0
+72068,PC,Player Character,<StartAction>Ask the bear about the gnoll caves.</Start>,<StartAction>놀 동굴에 대해 곰에게 물어봅니다.</Start>,q3_blackbear,,,,,0,0
+72069,PC,Player Character,<StartAction>Give the bear some food.</Start>,<StartAction>곰에게 먹이를 줍니다.</Start>,q3_blackbear,,,,,0,0
+72070,PC,Player Character,<StartAction>Attempt to soothe the creature.</Start>,<StartAction>생명체를 달래봅니다.</Start>,q3_blackbear,,,,,0,0
+72071,PC,Player Character,<StartAction>Put the poor creature out of its misery.</Start>,<StartAction>불쌍한 생명체를 고통에서 해방시킵니다.</Start>,q3_blackbear,x0_d1_didgoodsml,,,,0,0
+72462,PC,Player Character,<StartAction>[Do nothing.]</Start>,<StartAction>[아무것도 하지 않습니다.]</Start>,q3_gong,,,,,0,0
+72463,PC,Player Character,<StartAction>[Ring the gong.]</Start>,<StartAction>[징을 칩니다.]</Start>,q3_gong,q3_at_gong,,,,0,0
+72465,PC,Player Character,<StartAction>Do nothing.</Start>,<StartAction>아무것도 하지 않습니다.</Start>,q3_hole,,,,,0,0
+72466,PC,Player Character,<StartAction>Climb down the rope.</Start>,<StartAction>밧줄을 타고 내려갑니다.</Start>,q3_hole,q3_at_hole_down,,,,0,0
+72558,PC,Player Character,<StartAction>Do nothing.</Start>,<StartAction>아무것도 하지 않습니다.</Start>,q3_rope,,,,,0,0
+72559,PC,Player Character,<StartAction>Climb the rope.</Start>,<StartAction>밧줄을 오릅니다.</Start>,q3_rope,q3_at_chain_up,,,,0,0
+72583,PC,Player Character,<StartAction>[Leave the platform alone.]</Start>,<StartAction>[제단을 그냥 놔둔다.]</Start>,q3b_token_pool,,,,,0,0
+72584,PC,Player Character,<StartAction>[Throw another token into the pool.]</Start>,<StartAction>[연못에 동전을 하나 더 던진다.]</Start>,q3b_token_pool,,q3_secondtoken,,,0,0
+72585,PC,Player Character,<StartAction>[Throw a token into the pool.]</Start>,<StartAction>[연못에 동전을 던진다.]</Start>,q3b_token_pool,,q3_firsttoken,,,0,0
+72586,PC,Player Character,<StartAction>[Examine the symbols more closely.]</Start>,<StartAction>[문양을 더 자세히 살펴본다.]</Start>,q3b_token_pool,,,,,0,0
+72587,PC,Player Character,<StartAction>[Leave the symbols for now.]</Start>,<StartAction>[일단 문양을 놔둔다.]</Start>,q3b_token_pool,,,,,0,0
+72588,PC,Player Character,<StartAction>[Press the whirlwind symbol.]</Start>,<StartAction>[회오리바람 문양을 누른다.]</Start>,q3b_token_pool,,,,,0,0
+72589,PC,Player Character,<StartAction>[Press the stone symbol.]</Start>,<StartAction>[돌 문양을 누른다.]</Start>,q3b_token_pool,,,,,0,0
+72590,PC,Player Character,<StartAction>[Press the raindrop symbol.]</Start>,<StartAction>[빗방울 문양을 누른다.]</Start>,q3b_token_pool,,,,,0,0
+72591,PC,Player Character,<StartAction>[Press the flame symbol.]</Start>,<StartAction>[불꽃 문양을 누른다.]</Start>,q3b_token_pool,,,,,0,0
+72592,PC,Player Character,<StartAction>[Press the 4-symbol carving.]</Start>,<StartAction>[4개 문양 조각을 누른다.]</Start>,q3b_token_pool,,,,,0,0
+72593,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Try to decipher the runes.]</Start>,<StartCheck>[문자 해독]</Start> <StartAction>[룬을 해독해 본다.]</Start>,q3b_token_pool,,q3_deciphercheck,,,0,0
+72594,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Try to decipher the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬을 해독해 본다.]</Start>,q3b_token_pool,,q3_lorecheck,,,0,0
+72607,PC,Player Character,<StartAction>Leave the creature alone.</Start>,<StartAction>생명체를 내버려 둡니다.</Start>,q3c_azath,,,,,0,0
+72608,PC,Player Character,<StartAction>Attack the creature.</Start>,<StartAction>생명체를 공격합니다.</Start>,q3c_azath,,,,,0,0
+72609,PC,Player Character,What do you need magic for?,마법은 왜 필요해?,q3c_azath,,,,,0,0
+72610,PC,Player Character,Is there some other way to pay?,다른 방법으로 지불할 수는 없어?,q3c_azath,,,,,0,0
+72611,PC,Player Character,<StartAction>[Show the creature your potions.]</Start>,<StartAction>[생명체에게 물약을 보여준다.]</Start>,q3c_azath,,con_q7azith_1,,,0,0
+72612,PC,Player Character,<StartCheck>[Persuade]</Start> Could you not allow me to give you something later?,<StartCheck>[설득]</Start> 나중에 뭔가 줘도 안 될까?,q3c_azath,,[지능 높음],,,0,0
+72613,PC,Player Character,"Would you accept a song, instead?",대신 노래를 불러주면 안 돼?,q3c_azath,,q3c_sc_bard,,,0,0
+72614,PC,Player Character,<StartAction>[Play a song.]</Start>,<StartAction>[노래를 연주한다.]</Start>,q3c_azath,q3c_bard_play,,,,0,0
+72615,PC,Player Character,I am not casting a spell on you!,너한테 주문 거는 게 아니라고!,q3c_azath,,q3c_spell_caster,,,0,0
+72616,PC,Player Character,You want me to cast a spell on you?,내가 너한테 주문을 걸어주길 원해?,q3c_azath,,q3c_spell_caster,,,0,0
+72629,PC,Player Character,<StartAction>Leave the creature alone.</Start>,<StartAction>생명체를 내버려 둡니다.</Start>,q3c_azith,,,,,0,0
+72630,PC,Player Character,<StartAction>Attack the creature.</Start>,<StartAction>생명체를 공격합니다.</Start>,q3c_azith,,,,,0,0
+72631,PC,Player Character,What do you need magic for?,마법은 왜 필요해?,q3c_azith,,,,,0,0
+72632,PC,Player Character,Is there some other way to pay?,다른 방법으로 지불할 수는 없어?,q3c_azith,,,,,0,0
+72633,PC,Player Character,<StartAction>[Show the creature your potions.]</Start>,<StartAction>[생명체에게 물약을 보여준다.]</Start>,q3c_azith,,con_q7azith_1,,,0,0
+72634,PC,Player Character,<StartCheck>[Persuade]</Start> Could you not allow me to give you something later?,<StartCheck>[설득]</Start> 나중에 뭔가 줘도 안 될까?,q3c_azith,,[지능 높음],,,0,0
+72635,PC,Player Character,"Would you accept a song, instead?",대신 노래를 불러주면 안 돼?,q3c_azith,,q3c_sc_bard,,,0,0
+72636,PC,Player Character,<StartAction>[Play a song.]</Start>,<StartAction>[노래를 연주한다.]</Start>,q3c_azith,q3c_bard_play,,,,0,0
+72637,PC,Player Character,I am not casting a spell on you!,너한테 주문 거는 게 아니라고!,q3c_azith,,q3c_spell_caster,,,0,0
+72638,PC,Player Character,You want me to cast a spell on you?,내가 너한테 주문을 걸어주길 원해?,q3c_azith,,q3c_spell_caster,,,0,0
+73707,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q5jumplever,,,,,0,0
+73708,PC,Player Character,Place the Rod of Ruler in the slot.,홈에 지배자의 단장을 넣는다.,q5jumplever,act_q5levermac_1,con_q5levermac_1,,,0,0
+73717,PC,Player Character,Hello ox.,"안녕, 소야.",q5oxen,,nw_d2_nature,,,0,0
+73720,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q5tymoentrance,,,,,0,0
+73721,PC,Player Character,Insert the stone key into the keyhole.,돌 열쇠를 열쇠구멍에 넣는다.,q5tymoentrance,act_q5tymoent_1,con_q5tymnoex_1,,,0,0
+73722,PC,Player Character,Turn the key.,열쇠를 돌린다.,q5tymoentrance,act_q5tymoent_1,,,,0,0
+73725,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q5tymoexit,,,,,0,0
+73726,PC,Player Character,Insert the stone key into the keyhole.,돌 열쇠를 열쇠구멍에 넣는다.,q5tymoexit,act_q5tymoex_1,con_q5tymnoex_1,,,0,0
+73727,PC,Player Character,Turn the key.,열쇠를 돌린다.,q5tymoexit,act_q5tymoex_1,,,,0,0
+74042,PC,Player Character,<StartAction>[Coup de grace]</Start> You will be much easier to rob once you're dead.,<StartAction>[결정타]</Start> 죽으면 털기 훨씬 쉬울 텐데.,q6_dyingman,,,,,0,0
+74043,PC,Player Character,<StartCheck>[Heal]</Start> Hold still; let me treat you with this healing kit.,<StartCheck>[치료]</Start> 가만히 있어. 치료용 키트로 치료해 줄게.,q6_dyingman,,q1_chk_hkit1,,,0,0
+74044,PC,Player Character,<StartAction>[Lay on Hands]</Start> Hold still; let me treat you.,<StartAction>[안수 치유]</Start> 가만히 있어. 치료해 줄게.,q6_dyingman,act_q6man_4,q1_chk_layhands,,,0,0
+74045,PC,Player Character,<StartAction>[Use a spell or ability to cure him.]</Start> Let me heal you.,<StartAction>[주문이나 능력으로 치료한다.]</Start> 치료해 줄게.,q6_dyingman,act_q6man_3,q1_chk_healing,,,0,0
+74046,PC,Player Character,Is it really that good?,정말 그렇게 좋아?,q6_dyingman,,,,,0,0
+74047,PC,Player Character,Who attacked you?,누가 공격했어?,q6_dyingman,,,,,0,0
+74048,PC,Player Character,I like your attitude! ,네 태도 마음에 드는데!,q6_dyingman,,,,,0,0
+74049,PC,Player Character,You were just dying. Do you really want to face that again? ,방금 죽어가고 있었잖아. 정말 다시 그걸 겪고 싶어?,q6_dyingman,,,,,0,0
+74050,PC,Player Character,Aren't you a little old for this? ,이 일 하기엔 좀 늙지 않았어?,q6_dyingman,,,,,0,0
+74051,PC,Player Character,We? I don't think so.,우리? 난 아닌 것 같은데.,q6_dyingman,,,,,0,0
+74052,PC,Player Character,"Here, drink this potion.","자, 이 물약 마셔.",q6_dyingman,act_q6man_1,q1_chk_hpotion,,,0,0
+74053,PC,Player Character,What happened here?,여기서 무슨 일이 있었어?,q6_dyingman,,,,,0,0
+74056,PC,Player Character,Well - I just saw a  bunch of merchants had been killed on their way here.,음 - 상인 무리가 여기 오는 길에 살해당했어.,q7captain,,,,,0,0
+74057,PC,Player Character,Maybe not,아마 아닐 거야,q7captain,,,,,0,0
+74058,PC,Player Character,Maybe,아마 그럴 거야,q7captain,,,,,0,0
+80364,PC,Player Character,<StartAction>Leave the boulder alone.</Start>,<StartAction>바위를 내버려둡니다.</Start>,q1_boulder,,,,,0,0
+80365,PC,Player Character,<StartCheck>[Dexterity]</Start> <StartAction>Climb the boulder.</Start>,<StartCheck>[민첩]</Start> <StartAction>바위를 오릅니다.</Start>,q1_boulder,q1_at_boulder1,,,,0,0
+80511,PC,Player Character,<StartAction>Leave the hole alone.</Start>,<StartAction>구멍을 내버려둡니다.</Start>,q1_hole,,,,,0,0
+80512,PC,Player Character,<StartCheck>[Dexterity]</Start> Climb down into the hole.</Start>,<StartCheck>[민첩]</Start> <StartAction>구멍으로 내려갑니다.</Start>,q1_hole,q1_at_hole1,,,,0,0
+80776,PC,Player Character,If you wish. It doesn't bother me.,원한다면. 난 상관없어.,q1_torias,,,,,0,0
+80777,PC,Player Character,"Don't you think you should stay sharp, just in case?",만약을 위해 정신 바짝 차려야 하지 않을까?,q1_torias,,,,,0,0
+80778,PC,Player Character,Drink? Is that all you can think about?,술? 그것밖에 생각 안 나?,q1_torias,,,,,0,0
+80779,PC,Player Character,I should go.,이제 가야겠어.,q1_torias,,,,,0,0
+80780,PC,Player Character,Do you have any advice for me?,나한테 해줄 조언 있어?,q1_torias,,,,,0,0
+80781,PC,Player Character,Do you know anything about these stingers?,이 스팅어들에 대해 뭘 알아?,q1_torias,,,,,0,0
+80782,PC,Player Character,How would you like to join me to look for the guide?,안내인을 찾으러 나랑 같이 갈래?,q1_torias,,q1_toriasjoin01,,,0,0
+80783,PC,Player Character,"Just what do you do around here, anyway?",여기서 대체 뭐 하는 거야?,q1_torias,,q1_torias_shop02,,,0,0
+80784,PC,Player Character,And just where do you get your goods?,물건은 어디서 구하는 거야?,q1_torias,,,,,0,0
+80785,PC,Player Character,I'd like to see what you have for sale.,파는 물건 좀 보고 싶어.,q1_torias,,q1_torias_shop01,,,0,0
+80786,PC,Player Character,"I'll join you, if you don't mind.",괜찮다면 나도 한잔할게.,q1_torias,,,,,0,0
+80787,PC,Player Character,Perhaps you're right.,네 말이 맞는 것 같아.,q1_torias,,,,,0,0
+80815,PC,Player Character,No need. I'm just happy you're unharmed.,필요 없어. 무사해서 다행이야.,q1_zidan2,x0_d1_didgoodsml,,,,0,0
+80816,PC,Player Character,"Gold sounds fine, or something better if you have it.","금화면 좋아, 더 좋은 게 있으면 그것도 괜찮고.",q1_zidan2,,,,,0,0
+80817,PC,Player Character,Then forget it. It's not worth my time.,그럼 관둬. 내 시간 낭비야.,q1_zidan2,,,,,0,0
+80818,PC,Player Character,"Cough up something better or I kill you here, fool!","더 나은 걸 내놔, 안 그러면 여기서 죽일 거야, 멍청이!",q1_zidan2,x0_d1_dideviltny,,,,0,0
+80819,PC,Player Character,"Oh, never mind. This isn't worth my time.","아, 됐어. 내 시간 낭비야.",q1_zidan2,,,,,0,0
+80820,PC,Player Character,Keep it. The gold will have to do.,가져. 금화로 만족할게.,q1_zidan2,xp1_didnotgdti,,,,0,0
+80821,PC,Player Character,That should suffice.,그 정도면 충분해.,q1_zidan2,xp1_didnotgdsm,,,,0,0
+80822,PC,Player Character,I will take it anyway.,어쨌든 가져갈 거야.,q1_zidan2,xp1_didnotgdti,,,,0,0
+80823,PC,Player Character,I wouldn't have bothered if you weren't needed to guide the caravan.,네가 캐러밴을 안내해야 하는 게 아니었으면 이렇게까지 안 했어.,q1_zidan2,,,,,0,0
+80824,PC,Player Character,Never mind.,됐어.,q1_zidan2,,,,,0,0
+80825,PC,Player Character,Stay here for a moment.,여기서 잠깐 기다려.,q1_zidan2,,q1_zidan05,,,0,0
+80826,PC,Player Character,Come with me now.,지금 나랑 같이 와.,q1_zidan2,,q1_zidan04,,,0,0
+80917,PC,Player Character,Not yet.,아직.,q2_katriana,,,,,0,0
+80918,PC,Player Character,What was I supposed to do again?,내가 뭘 해야 했더라?,q2_katriana,,,,,0,0
+80919,PC,Player Character,Goodbye.,잘 가.,q2_katriana,,,,,0,0
+80920,PC,Player Character,There is a problem.,문제가 있어.,q2_katriana,,q2a_sc_ali2,,,0,0
+80921,PC,Player Character,<StartHighlight>[Tell her about Kel Garas.]</Start>,<StartHighlight>[켈 가라스에 대해 말한다.]</Start>,q2_katriana,q2_at_kat1,,,,0,0
+80922,PC,Player Character,I will be going. ,이제 갈게.,q2_katriana,,,,,0,0
+80923,PC,Player Character,I would like to make a purchase. ,물건을 사고 싶어.,q2_katriana,,,,,0,0
+80924,PC,Player Character,<StartCheck>[Persuade - Intimidate]</Start> Your life is on the line here too. Refuse to help me and death might come swifter than you expect.,<StartCheck>[설득 - 위협]</Start> 네 목숨도 걸려 있어. 날 돕기를 거부하면 죽음이 예상보다 빨리 올 수도 있어.,q2_katriana,,con_q2kat_1,,,0,0
+80925,PC,Player Character,<StartCheck>[Persuade]</Start> Don't you think I should have free access to anything that could help us?,<StartCheck>[설득]</Start> 우리를 도울 수 있는 건 뭐든 무료로 쓸 수 있게 해줘야 하지 않아?,q2_katriana,,con_q2kat_1,,,0,0
+80926,PC,Player Character,"Should you not allow me full, free access to your wares, then?",그럼 네 물건들을 완전히 무료로 쓸 수 있게 해줘야 하는 거 아니야?,q2_katriana,,,,,0,0
+80927,PC,Player Character,We can use the water.,물을 쓸 수 있어.,q2_katriana,,q2_sc_kat4,,,0,0
+80928,PC,Player Character,I have some things to do.,할 일이 좀 있어.,q2_katriana,,,,,0,0
+80929,PC,Player Character,I'm ready to go now.,이제 갈 준비됐어.,q2_katriana,,,,,0,0
+80930,PC,Player Character,Get your own water.,네가 직접 물 가져와.,q2_katriana,,,,,0,0
+80931,PC,Player Character,What kind of problems did you have with them?,어떤 문제들이 있었는데?,q2_katriana,,,,,0,0
+80932,PC,Player Character,I will try.,해볼게.,q2_katriana,,,,,0,0
+80933,PC,Player Character,I will be going.,이제 갈게.,q2_katriana,,,,,0,0
+80934,PC,Player Character,I would like to make a purchase.,물건을 사고 싶어.,q2_katriana,,,,,0,0
+80935,PC,Player Character,"Yes, let's go.","그래, 가자.",q2_katriana,,,,,0,0
+80966,PC,Player Character,I should go.,가봐야겠어.,q2_torias,,,,,0,0
+80967,PC,Player Character,Why don't you come with me?,나랑 같이 가지 그래?,q2_torias,,,,,0,0
+80968,PC,Player Character,What do you know about the Bedine?,베다인에 대해 뭘 알아?,q2_torias,,,,,0,0
+80969,PC,Player Character,How do you kill a mummy?,미라는 어떻게 죽여?,q2_torias,,q2_sc_torias1,,,0,0
+80970,PC,Player Character,Do you have any advice for me?,조언 좀 해줄래?,q2_torias,,,,,0,0
+80971,PC,Player Character,I'd like to see what you have for sale.,뭘 파는지 보고 싶어.,q2_torias,,q1_torias_shop01,,,0,0
+80987,PC,Player Character,Good bye.,안녕.,q2_zidan,,,,,0,0
+80988,PC,Player Character,What are you talking about?,무슨 말을 하는 거야?,q2_zidan,,,,,0,0
+80989,PC,Player Character,Why aren't you doing it? You're the guide.,왜 네가 안 해? 넌 안내인이잖아.,q2_zidan,,,,,0,0
+80990,PC,Player Character,What do you mean?,무슨 뜻이야?,q2_zidan,,,,,0,0
+80991,PC,Player Character,Do you know why they stay here?,왜 여기 머무는지 알아?,q2_zidan,,,,,0,0
+80992,PC,Player Character,Why would they curse all other Bedine?,왜 다른 베다인을 저주하는 거야?,q2_zidan,,,,,0,0
+80993,PC,Player Character,What happens if you try to enter the oasis?,오아시스에 들어가려고 하면 어떻게 돼?,q2_zidan,,,,,0,0
+80994,PC,Player Character,Goodbye.,안녕.,q2_zidan,,,,,0,0
+80995,PC,Player Character,We have permission to use the water.,물을 사용할 허가를 받았어.,q2_zidan,,q2_sc_kat4,,,0,0
+80996,PC,Player Character,The Bedine have mostly been slaughtered. <StartAction>[Tell him about the undead.]</Start>,베다인은 거의 학살당했어. <StartAction>[언데드에 대해 말해준다.]</Start>,q2_zidan,,q2a_sc_ali2,,,0,0
+80997,PC,Player Character,I want to ask you some questions.,질문 좀 하고 싶어.,q2_zidan,,,,,0,0
+80998,PC,Player Character,Why not?,왜 안 돼?,q2_zidan,,,,,0,0
+81213,PC,Player Character,<StartAction>[Communicate with the beast.]</Start>,<StartAction>[짐승과 교감한다.]</Start>,q2a_ox,,nw_d2_nature,,,0,0
+81215,PC,Player Character,<StartAction>Leave the boulder alone.</Start>,<StartAction>바위를 내버려둡니다.</Start>,q2c_boulder,,,,,0,0
+81216,PC,Player Character,<StartCheck>[Dexterity]</Start> <StartAction>Attempt to climb the boulder.</Start>,<StartCheck>[민첩]</Start> <StartAction>바위를 오릅니다.</Start>,q2c_boulder,q1_at_boulder2,,,,0,0
+81222,PC,Player Character,<StartAction>[Leave the tombstone alone.]</Start>,<StartAction>[묘비를 그대로 둔다.]</Start>,q2d_headstone1,,,,,0,0
+81223,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q2d_headstone1,,q2_decipher,,,0,0
+81224,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q2d_headstone1,,,,,0,0
+81234,PC,Player Character,<StartAction>[Leave the pillar alone.]</Start>,<StartAction>[기둥을 그대로 둔다.]</Start>,q2d_pillar1,,,,,0,0
+81235,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q2d_pillar1,,q2_decipher,,,0,0
+81236,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q2d_pillar1,,,,,0,0
+81241,PC,Player Character,<StartAction>[Leave the pillar alone.]</Start>,<StartAction>[기둥을 그대로 둔다.]</Start>,q2d_pillar2,,,,,0,0
+81242,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q2d_pillar2,,q2_decipher,,,0,0
+81243,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q2d_pillar2,,,,,0,0
+81245,PC,Player Character,<StartAction>Step away.</Start>,<StartAction>물러납니다.</Start>,q2e_bane_statue,,,,,0,0
+81246,PC,Player Character,<StartAction>Climb the statue and grab the rubies.</Start>,<StartAction>조각상을 올라가 루비를 잡습니다.</Start>,q2e_bane_statue,q2e_at_statue1,,,,0,0
+81490,PC,Player Character,<StartAction>[Leave the obelisk alone.]</Start>,<StartAction>[오벨리스크를 그대로 둔다.]</Start>,q3_mach_pillar,,,,,0,0
+81491,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,q2_decipher,,,0,0
+81492,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,,,,0,0
+81493,PC,Player Character,<StartAction>[Leave the obelisk alone.]</Start>,<StartAction>[오벨리스크를 그대로 둔다.]</Start>,q3_mach_pillar,,,,,0,0
+81494,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,q2_decipher,,,0,0
+81495,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,,,,0,0
+81496,PC,Player Character,<StartAction>[Leave the obelisk alone.]</Start>,<StartAction>[오벨리스크를 그대로 둔다.]</Start>,q3_mach_pillar,,,,,0,0
+81497,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,q2_decipher,,,0,0
+81498,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,,,,0,0
+81499,PC,Player Character,<StartAction>[Leave the obelisk alone.]</Start>,<StartAction>[오벨리스크를 그대로 둔다.]</Start>,q3_mach_pillar,,,,,0,0
+81500,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,q2_decipher,,,0,0
+81501,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,,,,0,0
+81502,PC,Player Character,<StartAction>[Leave the obelisk alone.]</Start>,<StartAction>[오벨리스크를 그대로 둔다.]</Start>,q3_mach_pillar,,,,,0,0
+81503,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,q2_decipher,,,0,0
+81504,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,,,,0,0
+81505,PC,Player Character,<StartAction>[Leave the obelisk alone.]</Start>,<StartAction>[오벨리스크를 그대로 둔다.]</Start>,q3_mach_pillar,,,,,0,0
+81506,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[해독]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,q2_decipher,,,0,0
+81507,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 번역하려 시도한다.]</Start>,q3_mach_pillar,,,,,0,0
+81765,PC,Player Character,Goodbye.,잘 가.,q3_shieldgaurd,,,,,0,0
+81766,PC,Player Character,What do you guard?,뭘 지키는 거야?,q3_shieldgaurd,,,,,0,0
+81767,PC,Player Character,Tell me where the treasure is.,보물이 어디 있는지 말해.,q3_shieldgaurd,,,,,0,0
+81768,PC,Player Character,Gold or magic items.,금화나 마법 아이템.,q3_shieldgaurd,,,,,0,0
+81769,PC,Player Character,Something valuable.,가치 있는 무언가.,q3_shieldgaurd,,,,,0,0
+81770,PC,Player Character,Help me fight the other intruders.,다른 침입자들과 싸우는 걸 도와줘.,q3_shieldgaurd,,,,,0,0
+81771,PC,Player Character,What are you?,넌 뭐야?,q3_shieldgaurd,,,,,0,0
+81772,PC,Player Character,Who made you?,누가 널 만들었어?,q3_shieldgaurd,,,,,0,0
+81773,PC,Player Character,You are not doing a very good job.,별로 잘하고 있는 것 같지 않은데.,q3_shieldgaurd,,,,,0,0
+81774,PC,Player Character,You mean the skeleton?,해골 말하는 거야?,q3_shieldgaurd,,,,,0,0
+81775,PC,Player Character,Let's talk about something else.,다른 얘기를 해보자.,q3_shieldgaurd,,,,,0,0
+81776,PC,Player Character,<StartCheck>[Insight]</Start> Your master summoned me to gather his belongings.,<StartCheck>[통찰]</Start> 네 주인이 그의 소지품을 가져오라고 날 소환했어.,q3_shieldgaurd,,nw_d2_wis_intn,,,0,0
+81777,PC,Player Character,<StartCheck>[Persuade]</Start> The master is in a hurry and wants me to take something off his body.,<StartCheck>[설득]</Start> 주인이 서두르고 있어서 몸에서 뭔가를 가져가길 원하셔.,q3_shieldgaurd,,,,,0,0
+81778,PC,Player Character,Can I touch your master?,네 주인을 만져도 돼?,q3_shieldgaurd,,,,,0,0
+81779,PC,Player Character,Silent meditation!?! There's no flesh on his body.,침묵의 명상이라고!?! 몸에 살도 없잖아.,q3_shieldgaurd,,,,,0,0
+81780,PC,Player Character,Wisdom doesn't enter into it. He's dead I tell you.,지혜고 뭐고 없어. 그는 죽었다니까.,q3_shieldgaurd,,,,,0,0
+81781,PC,Player Character,Your master is dead.,네 주인은 죽었어.,q3_shieldgaurd,,,,,0,0
+81797,PC,Player Character,"Alright, fine. Keep the rock.",알았어. 돌 가져.,q3b_rat,,,,,0,0
+81798,PC,Player Character,<StartAction>[Hold out a piece of quartz.]</Start> Let us exchange shiny rocks.,<StartAction>[석영 조각을 냅니다.]</Start> 반짝이는 돌을 바꾸자.,q3b_rat,,q3b_sc_rat1,,,0,0
+81799,PC,Player Character,"Give me the diamond, rat!","다이아몬드 내놔, 쥐야!",q3b_rat,,,,,0,0
+81800,PC,Player Character,<StartCheck>[Persuade - Intimidate]</Start> Give me the diamond or I crush your skull!,"<StartCheck>[설득 - 위협]</Start> 다이아몬드 내놔, 안 그럼 네 머리통 부셔버린다!",q3b_rat,,,,,0,0
+81801,PC,Player Character,<StartCheck>[Persuade]</Start> Please give me the rock. I need it.,<StartCheck>[설득]</Start> 돌 좀 줘. 필요해.,q3b_rat,,,,,0,0
+81806,PC,Player Character,<StartAction>[Leave the pillar alone.]</Start>,<StartAction>[기둥을 내버려둡니다.]</Start>,q3b_spell_pillar,,,,,0,0
+81807,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[문자 해독]</Start> <StartAction>[룬 문자를 해독합니다.]</Start>,q3b_spell_pillar,,q2_decipher,,,0,0
+81808,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 해독합니다.]</Start>,q3b_spell_pillar,,,,,0,0
+81815,PC,Player Character,<StartAction>[Leave the pillar alone.]</Start>,<StartAction>[기둥을 내버려둡니다.]</Start>,q3b_spellstaff,,,,,0,0
+81816,PC,Player Character,<StartCheck>[Decipher Script]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[문자 해독]</Start> <StartAction>[룬 문자를 해독합니다.]</Start>,q3b_spellstaff,,q3b_decipher,,,0,0
+81817,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>[Attempt to translate the runes.]</Start>,<StartCheck>[전승지식]</Start> <StartAction>[룬 문자를 해독합니다.]</Start>,q3b_spellstaff,,,,,0,0
+81963,PC,Player Character,<StartAction>Leave the urn.</Start>,<StartAction>단지를 놔둡니다.</Start>,q3b_urn,,,,,0,0
+81964,PC,Player Character,<StartAction>Take the fairy dust from the urn.</Start>,<StartAction>단지에서 요정의 가루를 꺼냅니다.</Start>,q3b_urn,q3b_at_urn10,q3b_sc_urn6,,,0,0
+81965,PC,Player Character,<StartAction>Take the slaad tongue from the urn (Number of tongues in the urn: <CUSTOM33004>).</Start>,<StartAction>단지에서 슬라드 혀를 꺼냅니다 (단지 안의 혀 개수: <CUSTOM33004>).</Start>,q3b_urn,q3b_at_urn9,q3b_sc_urn7a,,,0,0
+81966,PC,Player Character,<StartAction>Take the slaad tongue from the urn (Number of tongues in the urn: <CUSTOM30004>).</Start>,<StartAction>단지에서 슬라드 혀를 꺼냅니다 (단지 안의 혀 개수: <CUSTOM30004>).</Start>,q3b_urn,q3b_at_urn9,q3b_sc_urn7,,,0,0
+81967,PC,Player Character,<StartAction>Take the dragon's blood  from the urn.</Start>,<StartAction>단지에서 용의 피를 꺼냅니다.</Start>,q3b_urn,q3b_at_urn8,q3b_sc_urn8,,,0,0
+81968,PC,Player Character,<StartAction>Take the belladonna root from the urn (Number of roots in the urn: <CUSTOM33002>).</Start>,<StartAction>단지에서 벨라도나 뿌리를 꺼냅니다 (단지 안의 뿌리 개수: <CUSTOM33002>).</Start>,q3b_urn,q3b_at_urn7,q3b_sc_urn9a,,,0,0
+81969,PC,Player Character,<StartAction>Take the belladonna root from the urn (Number of roots in the urn: <CUSTOM30002>).</Start>,<StartAction>단지에서 벨라도나 뿌리를 꺼냅니다 (단지 안의 뿌리 개수: <CUSTOM30002>).</Start>,q3b_urn,q3b_at_urn7,q3b_sc_urn9,,,0,0
+81970,PC,Player Character,<StartAction>Take the ruby from the urn (Number of rubies in the urn: <CUSTOM33001>).</Start>,<StartAction>단지에서 루비를 꺼냅니다 (단지 안의 루비 개수: <CUSTOM33001>).</Start>,q3b_urn,q3b_at_urn6,q3b_sc_urn10a,,,0,0
+81971,PC,Player Character,<StartAction>Take the ruby from the urn (Number of rubies in the urn: <CUSTOM30001>).</Start>,<StartAction>단지에서 루비를 꺼냅니다 (단지 안의 루비 개수: <CUSTOM30001>).</Start>,q3b_urn,q3b_at_urn6,q3b_sc_urn10,,,0,0
+81972,PC,Player Character,<StartAction>Place some fairy dust inside the urn.</Start>,<StartAction>단지 안에 요정의 가루를 넣습니다.</Start>,q3b_urn,q3b_at_urn5,q3b_sc_urn5,,,0,0
+81973,PC,Player Character,<StartAction>Place a slaad tongue inside the urn.</Start>,<StartAction>단지 안에 슬라드 혀를 넣습니다.</Start>,q3b_urn,q3b_at_urn4,q3b_sc_urn4,,,0,0
+81974,PC,Player Character,<StartAction>Place a slaad tongue inside the urn.</Start>,<StartAction>단지 안에 슬라드 혀를 넣습니다.</Start>,q3b_urn,q3b_at_urn4,q3b_sc_urn4a,,,0,0
+81975,PC,Player Character,<StartAction>Place some dragon's blood inside the urn.</Start>,<StartAction>단지 안에 용의 피를 넣습니다.</Start>,q3b_urn,q3b_at_urn3,q3b_sc_urn3,,,0,0
+81976,PC,Player Character,<StartAction>Place a belladonna root inside the urn.</Start>,<StartAction>단지 안에 벨라도나 뿌리를 넣습니다.</Start>,q3b_urn,q3b_at_urn2,q3b_sc_urn2,,,0,0
+81977,PC,Player Character,<StartAction>Place a belladonna root inside the urn.</Start>,<StartAction>단지 안에 벨라도나 뿌리를 넣습니다.</Start>,q3b_urn,q3b_at_urn2,q3b_sc_urn2a,,,0,0
+81978,PC,Player Character,<StartAction>Place a ruby inside the urn.</Start>,<StartAction>단지 안에 루비를 넣습니다.</Start>,q3b_urn,q3b_at_urn1,q3b_sc_urn1,,,0,0
+81979,PC,Player Character,<StartAction>Place a ruby inside the urn.</Start>,<StartAction>단지 안에 루비를 넣습니다.</Start>,q3b_urn,q3b_at_urn1,q3b_sc_urn1a,,,0,0
+81981,PC,Player Character,<StartAction>Step away.</Start>,<StartAction>물러납니다.</Start>,q3c_boulder,,,,,0,0
+81982,PC,Player Character,<StartCheck>[Dexterity]</Start> <StartAction>Climb the boulder.</Start>,<StartCheck>[민첩]</Start> <StartAction>바위를 오릅니다.</Start>,q3c_boulder,q1_at_boulder2,,,,0,0
+82017,PC,Player Character,I am not interested in your offer. I am here to kill you.,제안은 관심 없어. 죽이러 왔어.,q3c_queen,,,,,0,0
+82018,PC,Player Character,What do you offer?,뭘 제안하는데?,q3c_queen,,,,,0,0
+82019,PC,Player Character,How often will you help me?,얼마나 자주 도와줄 건데?,q3c_queen,,,,,0,0
+82020,PC,Player Character,How do I use this crystal?,이 수정은 어떻게 쓰는 거야?,q3c_queen,,,,,0,0
+82021,PC,Player Character,I agree. Let's work together.,좋아. 같이 일하자.,q3c_queen,,,,,0,0
+82022,PC,Player Character,"Quiet, Deekin.","조용히 해, 디킨.",q3c_queen,,,,,0,0
+82023,PC,Player Character,How do you speak to my mind?,어떻게 내 마음에 말하는 거야?,q3c_queen,,,,,0,0
+82024,PC,Player Character,Greetings. My name is <FirstName>. ,안녕. 난 <FirstName>야.,q3c_queen,,,,,0,0
+82047,PC,Player Character,Let me guess... you're Heurodis?,맞춰볼게... 넌 헤우로디스?,q4a_heurodis,,,,,0,0
+82048,PC,Player Character,You were waiting for me?,날 기다리고 있었어?,q4a_heurodis,,,,,0,0
+82049,PC,Player Character,"Never mind my name, witch! I am going to kill you!","이름 따윈 상관없어, 마녀! 죽여주마!",q4a_heurodis,,,,,0,0
+82050,PC,Player Character,"Forget Drogan. My name is <FirstName>, and I have a proposal for you.","드로건은 잊어. 내 이름은 <FirstName>이고, 제안이 있어.",q4a_heurodis,,,,,0,0
+82051,PC,Player Character,"I am <FirstName>, and I am here to stop you.","난 <FirstName>이고, 널 막으러 왔어.",q4a_heurodis,,,,,0,0
+82118,PC,Player Character,I guess I'll be going. ,이만 가볼게.,q5_katriana,,,,,0,0
+82119,PC,Player Character,Can I ask you some questions?,몇 가지 물어봐도 돼?,q5_katriana,,,,,0,0
+82120,PC,Player Character,How do I recognize Garrick?,게릭은 어떻게 알아볼 수 있어?,q5_katriana,,q5a_nottalkgar,,,0,0
+82121,PC,Player Character,What can you tell me about these Ao worshippers?,에이오 숭배자들에 대해 뭘 알려줄 수 있어?,q5_katriana,,,,,0,0
+82122,PC,Player Character,Can I see your goods?,물건 좀 볼 수 있어?,q5_katriana,,,,,0,0
+82123,PC,Player Character,Don't I get paid for helping your caravan get here? ,네 캐러밴 여기까지 오는 거 도와줬으면 보수를 받아야 하는 거 아냐?,q5_katriana,,,,,0,0
+82328,PC,Player Character,<StartAction>Bid the leopard farewell.</Start>,<StartAction>표범에게 작별을 고합니다.</Start>,q5a_leopard,,,,,0,0
+82329,PC,Player Character,<StartAction>Ask the leopard for any useful information it might have.</Start>,<StartAction>표범에게 유용한 정보가 있는지 물어봅니다.</Start>,q5a_leopard,,,,,0,0
+82330,PC,Player Character,<StartAction>Ask the leopard for information about his mistress.</Start>,<StartAction>표범에게 주인에 대한 정보를 물어봅니다.</Start>,q5a_leopard,,,,,0,0
+82331,PC,Player Character,<StartAction>Give the leopard a snack.</Start>,<StartAction>표범에게 간식을 줍니다.</Start>,q5a_leopard,,,,,0,0
+82343,PC,Player Character,Goodbye.,안녕.,q5a_rifkin,,,,,0,0
+82344,PC,Player Character,<StartHighlight>[Cast Charm]</Start> You will give me your gift.,<StartHighlight>[매혹 시전]</Start> 네 선물을 내게 줘.,q5a_rifkin,q5a_at_castcharm,q5a_sc_hascharm,,,0,0
+82345,PC,Player Character,<StartHighlight>[Cast a healing spell.]</Start>,<StartHighlight>[치유 주문을 시전합니다.]</Start>,q5a_rifkin,q5b_at_healspell,q1_chk_curespell,,,0,0
+82346,PC,Player Character,<StartHighlight>[Use a healing potion.]</Start> This should make it all better. It contains some of my holy blood.,<StartHighlight>[치유 물약을 사용합니다.]</Start> 이걸로 나아질 거야. 내 성스러운 피가 담겨 있어.,q5a_rifkin,q5b_healpot,q1_chk_hpotion,,,0,0
+82347,PC,Player Character,<StartHighlight>[Use a healing kit.]</Start> This should make it all better. My holy powers are bound into these bandages.,<StartHighlight>[치유 도구를 사용합니다.]</Start> 이걸로 나아질 거야. 내 성스러운 힘이 이 붕대에 깃들어 있어.,q5a_rifkin,q5b_at_healkit,q5b_sc_garrick1,,,0,0
+82348,PC,Player Character,<StartCheck>[Persuade - Intimidate]</Start> Give me your gift or I shall smite you with my holy wrath.,"<StartCheck>[설득 - 위협]</Start> 선물 내놔, 안 그럼 내 성스러운 분노로 응징하겠어.",q5a_rifkin,x0_d1_didchaotny,,,,0,0
+82349,PC,Player Character,I am not Ao! And you should not wound yourself anymore.,난 에이오가 아냐! 그만 자해해.,q5a_rifkin,x0_d1_didlgtny,,,,0,0
+82361,PC,Player Character,Goodbye.,안녕.,q5a_talissica,,,,,0,0
+82362,PC,Player Character,<StartHighlight>[Cast Charm]</Start> You will give me your gift.,<StartHighlight>[매혹 시전]</Start> 네 선물을 내게 줘.,q5a_talissica,q5a_at_castcharm,q5a_sc_hascharm,,,0,0
+82363,PC,Player Character,<StartHighlight>[Cast a spectacular divine spell.]</Start>,<StartHighlight>[화려한 신성 주문을 시전합니다.]</Start>,q5a_talissica,q5a_at_cast2,nw_d2_divine,,,0,0
+82364,PC,Player Character,<StartHighlight>[Cast a spectacular arcane spell.]</Start>,<StartHighlight>[화려한 비전 주문을 시전합니다.]</Start>,q5a_talissica,q5a_at_cast,q5_sc_arcane,,,0,0
+82365,PC,Player Character,<StartCheck>[Persuade - Intimidate]</Start> Give me your gift or I shall smite you with my holy wrath.,"<StartCheck>[설득 - 위협]</Start> 선물 내놔, 안 그럼 내 성스러운 분노로 응징하겠어.",q5a_talissica,x0_d1_didchaotny,,,,0,0
+82366,PC,Player Character,I am not Ao!,난 에이오가 아냐!,q5a_talissica,x0_d1_didlawtny,,,,0,0
+82380,PC,Player Character,Goodbye.,안녕.,q5a_telnix,,,,,0,0
+82381,PC,Player Character,Two gifts is better than one. Goodbye.,선물 두 개가 하나보다 낫지. 안녕.,q5a_telnix,,,,,0,0
+82382,PC,Player Character,"Since you show true understanding of my apathy, I will take your gift.","네 무관심에 대한 진정한 이해를 보여주니, 네 선물을 받아주지.",q5a_telnix,,,,,0,0
+82383,PC,Player Character,I will listen to them first.,먼저 그들 얘기부터 들을게.,q5a_telnix,,,,,0,0
+82384,PC,Player Character,What is your gift?,네 선물이 뭔데?,q5a_telnix,,,,,0,0
+82806,PC,Player Character,<StartAction>[Leave the wine alone.]</Start>,<StartAction>[술을 그냥 둡니다.]</Start>,q5b_table,,,,,0,0
+82807,PC,Player Character,"<StartAction>[Take the bottle, since no-one who cares can see you.]</Start>",<StartAction>[아무도 신경 쓰지 않으니 병을 가져갑니다.]</Start>,q5b_table,,q5b_swipewine3,,,0,0
+82808,PC,Player Character,<StartCheck>[Dexterity]</Start> <StartAction>[Swipe the bottle when no-one is looking.]</Start>,<StartCheck>[민첩]</Start> <StartAction>[아무도 안 볼 때 병을 훔칩니다.]</Start>,q5b_table,,q5b_swipewine2,,,0,0
+82809,PC,Player Character,<StartCheck>[Pick Pocket]</Start> <StartAction>[Swipe the bottle when no-one is looking.]</Start>,<StartCheck>[소매치기]</Start> <StartAction>[아무도 안 볼 때 병을 훔칩니다.]</Start>,q5b_table,,q5b_swipewine1,,,0,0
+82810,PC,Player Character,<StartAction>[Sample some of the wine.]</Start>,<StartAction>[술을 시음합니다.]</Start>,q5b_table,,,,,0,0
+84447,PC,Player Character,"We will break him in time. Once we learn all the secrets of Undermountain, the Valsharess's army will march through its halls and descend upon Waterdeep like -","시간이 지나면 그를 굴복시킬 거다. 언더마운틴의 모든 비밀을 알아내면, 발샤레스의 군대가 그 홀을 행진해서 워터딥을 덮칠 거야-",q2d_cut2,q2d_at_hm2,,,vs_nx2drprf_54,0,0
+84448,PC,Player Character,"Then go over there and search the area, fool! Do I need to tell you everything?","그럼 거기 가서 수색해, 멍청아! 뭐든 다 일일이 말해줘야 하냐?",q2d_cut2,q2d_at_hm3,,,vs_nx2drprf_55,0,0
+84449,PC,Player Character,"If the portal is opened, more drow will come through. I don't want that; I can barely stand you.",차원문이 열리면 드로우가 더 나올 테지. 난 그거 원하지 않지. 너 하나도 견디기 힘들거든.,q2d_cut1,,,,vs_nx2halam_58,0,0
+84450,PC,Player Character,The last thing I need is another dark elf. I'll just keep my secret all to myself.,다크 엘프가 더 오는건 딱 질색이야. 내 비밀은 그냥 나 혼만 딱 알고 있을거야.,q2d_cut1,,,,vs_nx2halam_59,0,0
+92692,PC,Player Character,"""Hello dog.""","""안녕, 개야.""",q1_nymphdog,,con_q2brat_chk1,,,0,0
+92716,PC,Player Character,"""Hello chicken.""","""안녕, 닭아.""",q2a1_chicken,,con_q2brat_chk1,,,0,0
+92724,PC,Player Character,"""I hope you don't expect me to help you.""",내가 널 도와줄 거라고 기대하진 마.,q2a1encguard1,,,,,0,0
+92725,PC,Player Character,"""I don't need reinforcements. I'm going on ahead.""",원군 필요 없어. 먼저 간다.,q2a1encguard1,,,,,0,0
+92736,PC,Player Character,"""We were attacked by creatures from the Underdark.""",우리 언더다크에서 온 괴물들한테 습격당했어.,q2a1warningguard,,,,,0,0
+92737,PC,Player Character,"""I can take care of myself.""",나 혼자 처리할 수 있어.,q2a1warningguard,,,,,0,0
+92738,PC,Player Character,"""Don't you recognize me? I'm <FullName>!""",나 몰라봐? 난 <FullName>이야!,q2a1warningguard,,,,,0,0
+92741,PC,Player Character,"""Sounds dangerous."" <StartAction>[Put the telescope down.]</Start>",위험해 보이네. <StartAction>[망원경을 내려놓습니다.]</Start>,q2a2telescope,,,,,0,0
+92742,PC,Player Character,<StartAction>[Look into the telescope.]</Start>,<StartAction>[망원경을 들여다봅니다.]</Start>,q2a2telescope,q2a2_use_telesc,,,,0,0
+92764,PC,Player Character,"""I'd like to buy some crafting material.""","""제작 재료를 사고 싶어.""",q2a3blacksmith,,q2_smith_havesho,,,0,0
+92765,PC,Player Character,"""I have to go.""","""이제 가야겠어.""",q2a3blacksmith,,,,,0,0
+92766,PC,Player Character,"""Can I ask you some questions?""","""질문 좀 해도 될까?""",q2a3blacksmith,,,,,0,0
+92768,PC,Player Character,"""What are you doing?""","""뭐 하는 거야?""",q2a3blacksmith,,,,,0,0
+92769,PC,Player Character,"""Could you teach me to make weapons and armor?""","""무기랑 갑옷 만드는 법을 가르쳐 줄 수 있어?""",q2a3blacksmith,,,,,0,0
+92771,PC,Player Character,"""I just want to change the way my equipment looks.""","""장비 외형만 바꾸고 싶어.""",q2a3blacksmith,,,,,0,0
+92772,PC,Player Character,"""Do you know how to make magical items?""","""마법 아이템 만드는 법 알아?""",q2a3blacksmith,,,,,0,0
+92773,PC,Player Character,"""How do I create armor?""","""갑옷은 어떻게 만들어?""",q2a3blacksmith,,,,,0,0
+92774,PC,Player Character,"""How do I make a weapon?""","""무기는 어떻게 만들어?""",q2a3blacksmith,,,,,0,0
+92775,PC,Player Character,"""How do I find materials to make into weapons or armor?""","""무기나 갑옷을 만들 재료는 어디서 구해?""",q2a3blacksmith,,,,,0,0
+92776,PC,Player Character,"""I want to buy some crafting material.""","""제작 재료를 좀 사고 싶어.""",q2a3blacksmith,,,,,0,0
+92777,PC,Player Character,"""The Guard?""","""경비대?""",q2a3blacksmith,,,,,0,0
+92791,PC,Player Character,Leave it alone.,내버려둔다.,q2aalchtab,,,,,0,0
+92792,PC,Player Character,<StartCheck>[Pick Pocket]</Start>,<StartCheck>[소매치기]</Start>,q2aalchtab,,,,,0,0
+92901,PC,Player Character,"""Hello dog.""","""안녕, 개야.""",q2adoggy,,con_q2brat_chk1,,,0,0
+93154,PC,Player Character,No.,아니.,q2ainnwell,,,,,0,0
+93155,PC,Player Character,Yes.,응.,q2ainnwell,act_movetouml1,,,as_cv_crank1,0,0
+93370,PC,Player Character,<StartAction>[Leave the pedestal alone.]</Start>,<StartAction>[받침대를 그냥 둡니다.]</Start>,q2amagicped,,,,,0,0
+93371,PC,Player Character,"""Why not?""",왜 안 돼?,q2amagicped,,,,,0,0
+93372,PC,Player Character,<StartAction>[Ignore Sobrey and put a gold piece on the pedestal.]</Start>,<StartAction>[소브레이를 무시하고 받침대에 금화를 올려놓습니다.]</Start>,q2amagicped,,,,,0,0
+93373,PC,Player Character,<StartAction>[Leave the pedestal alone.]</Start>,<StartAction>[받침대를 그냥 둡니다.]</Start>,q2amagicped,,,,,0,0
+93374,PC,Player Character,"""Tell me about this curse.""",저주에 대해 말해줘.,q2amagicped,,,,,0,0
+93375,PC,Player Character,"""And this dirt is from there?""",이 흙이 거기서 온 거야?,q2amagicped,,,,,0,0
+93376,PC,Player Character,"""Go on.""",계속해.,q2amagicped,,,,,0,0
+93377,PC,Player Character,"""The pedestal has a sense of humor?""",받침대에 유머 감각이 있다고?,q2amagicped,,,,,0,0
+93906,PC,Player Character,"""You know who I am?""","""내가 누군지 알아?""",q2awhite,,,,,0,0
+93908,PC,Player Character,"""I don't have time for this. Durnan said you had something for me.""","""이럴 시간 없어. 더난이 네가 뭔가 갖고 있다고 했는데.""",q2awhite,,q2awhiterod0,,,0,0
+93910,PC,Player Character,"""What kind of god do you follow?""","""어떤 신을 믿어?""",q2awhite,,,,,0,0
+93911,PC,Player Character,I'll be going now.,이제 갈게.,q2awhite,,,,,0,0
+93912,PC,Player Character,"""Let me see what items you have.""","""어떤 물건들이 있는지 보자.""",q2awhite,,,,,0,0
+93913,PC,Player Character,"""What is it?""","""그게 뭔데?""",q2awhite,,,,,0,0
+93914,PC,Player Character,"""If they're stupid enough to rush off, then they got what they deserved.""","""멍청하게 달려 나갔으면 그럴 만해.""",q2awhite,,,,,0,0
+93915,PC,Player Character,"""Do you have anything else I could use?""","""쓸 만한 다른 거 있어?""",q2awhite,,,,,0,0
+93916,PC,Player Character,"""If I come across their bodies, I'll be sure to try and help them.""","""시신을 발견하면 도와주려고 할게.""",q2awhite,,,,,0,0
+93919,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2awhite,,,,,0,0
+93920,PC,Player Character,"""Do you know anything about these attacks?""","""이 공격들에 대해 아는 게 있어?""",q2awhite,,,,,0,0
+93921,PC,Player Character,"""What do you know about Undermountain?""","""언더마운틴에 대해 뭘 알아?""",q2awhite,,,,,0,0
+93922,PC,Player Character,"""What do you mean by that?""","""무슨 뜻이야?""",q2awhite,,,,,0,0
+93923,PC,Player Character,"""He's a foolish man to pass up an opportunity like that.""","""그런 기회를 놓치다니 바보 같은 남자네.""",q2awhite,,nw_d2_flirt,,,0,0
+93924,PC,Player Character,"""Isn't he a little old for you?""","""너한테는 좀 나이 많은 거 아니야?""",q2awhite,,,,,0,0
+93925,PC,Player Character,"""Tell me about your faith.""","""네 신앙에 대해 말해줘.""",q2awhite,,,,,0,0
+93926,PC,Player Character,"""Maybe we could *honor* your god together.""","""같이 네 신을 *경배*할 수도 있는데.""",q2awhite,,nw_d2_flirt,,,0,0
+93927,PC,Player Character,"""I need healing.""","""치유가 필요해.""",q2awhite,,,,,0,0
+93928,PC,Player Character,"""Durnan said you have something for me.""","""더난이 네가 뭔가 갖고 있다고 했어.""",q2awhite,,q2awhiterod0,,,0,0
+93935,PC,Player Character,Leave the display.,진열대를 그냥 둔다.,q2awrack,,,,,0,0
+93936,PC,Player Character,<StartCheck>[Pick Pocket]</Start>,<StartCheck>[소매치기]</Start>,q2awrack,,,,,0,0
+93982,PC,Player Character,No.,아니.,q2b01rope,,,,,0,0
+93983,PC,Player Character,Yes.,응.,q2b01rope,act_movetowell,,,,0,0
+93995,PC,Player Character,Leave the rat.,쥐를 그냥 둔다.,q2b02rat,,,,,0,0
+93996,PC,Player Character,Feed the rat some seeds.,쥐에게 씨앗을 먹인다.,q2b02rat,,con_q2b02rat1,,,0,0
+93997,PC,Player Character,Attack the rat.,쥐를 공격한다.,q2b02rat,,,,,0,0
+93998,PC,Player Character,"""Me will follow you."" ",나 너 따라갈 거야.,q2b02rat,,[지능 낮음],,,0,0
+93999,PC,Player Character,"""I will follow you.""",따라갈게.,q2b02rat,,[지능 보통],,,0,0
+94000,PC,Player Character,Focus on the images of the glittering objects.,반짝이는 물건의 이미지에 집중한다.,q2b02rat,,,,,0,0
+94001,PC,Player Character,Focus on the images of death and decay.,죽음과 부패의 이미지에 집중한다.,q2b02rat,,,,,0,0
+94099,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q2bgarg,,,,,0,0
+94100,PC,Player Character,<StartAction>[Rotate statue counter clockwise. (Strength check)]</Start>,<StartAction>[조각상을 반시계 방향으로 돌립니다. (근력 체크)]</Start>,q2bgarg,act_q2bgarg_str,act_q2bgarg_chk4,,,0,0
+94101,PC,Player Character,<StartAction>[Rotate statue clockwise. (Strength check)]</Start>,<StartAction>[조각상을 시계 방향으로 돌립니다. (근력 체크)]</Start>,q2bgarg,act_q2bgarg_str,act_q2bgarg_chk4,,,0,0
+94108,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q2blever,,,,,0,0
+94109,PC,Player Character,<StartAction>[Insert a Yellow Rod]</Start>,<StartAction>[노란 단장을 삽입합니다.]</Start>,q2blever,act_q2blever_5,con_q2blever_5,,,0,0
+94110,PC,Player Character,<StartAction>[Insert a White Rod]</Start>,<StartAction>[하얀 단장을 삽입합니다.]</Start>,q2blever,act_q2blever_4,con_q2blever_4,,,0,0
+94111,PC,Player Character,<StartAction>[Insert a Red Rod]</Start>,<StartAction>[빨간 단장을 삽입합니다.]</Start>,q2blever,act_q2blever_3,con_q2blever_3,,,0,0
+94112,PC,Player Character,<StartAction>[Insert a Green Rod]</Start>,<StartAction>[초록 단장을 삽입합니다.]</Start>,q2blever,act_q2blever_2,con_q2blever_2,,,0,0
+94113,PC,Player Character,<StartAction>[Insert a Blue Rod]</Start>,<StartAction>[파란 단장을 삽입합니다.]</Start>,q2blever,act_q2blever_1,con_q2blever_1,,,0,0
+94114,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q2blever,,,,,0,0
+94115,PC,Player Character,<StartAction>[Remove the control rod.]</Start>,<StartAction>[제어 단장을 제거합니다.]</Start>,q2blever,act_q2blever_6,,,,0,0
+94116,PC,Player Character,<StartAction>[Pull the lever.]</Start>,<StartAction>[레버를 당깁니다.]</Start>,q2blever,act_q2blever_7,,,,0,0
+94153,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q2c2pedastal,,,,,0,0
+94154,PC,Player Character,Attach the yellow chain.,노란 사슬을 연결한다.,q2c2pedastal,con_q2c2_yechain,q2c2_chk_yechain,,,0,0
+94155,PC,Player Character,Attach the red chain.,빨간 사슬을 연결한다.,q2c2pedastal,con_q2c2_rechain,q2c2_chk_rechain,,,0,0
+94156,PC,Player Character,Attach the purple chain.,보라 사슬을 연결한다.,q2c2pedastal,con_q2c2_puchain,q2c2_chk_puchain,,,0,0
+94157,PC,Player Character,Attach the green chain.,초록 사슬을 연결한다.,q2c2pedastal,con_q2c2_grchain,q2c2_chk_grchain,,,0,0
+94300,PC,Player Character,<StartAction>[Do nothing.]</Start>,<StartAction>[아무것도 하지 않습니다.]</Start>,q2crakportal,,,,,0,0
+94301,PC,Player Character,<StartAction>[Insert the Activation Stone into the slot.]</Start>,<StartAction>[슬롯에 활성화 석을 삽입합니다.]</Start>,q2crakportal,q2c_makeportal,con_q2crak_1,,,0,0
+94311,PC,Player Character,Bring her back to life.,그녀를 되살린다.,q2craksarcoph,act_linusarc_1,con_linusarc_1,,,0,0
+94312,PC,Player Character,Close the lid and let her rest in peace.,뚜껑을 닫고 평화롭게 잠들게 한다.,q2craksarcoph,,,,,0,0
+94313,PC,Player Character,Ignore Linu and open the sarcophagus.,리누를 무시하고 석관을 연다.,q2craksarcoph,,,,,0,0
+94314,PC,Player Character,"""Sorry... I'll leave it alone.""",미안... 그냥 둘게.,q2craksarcoph,,,,,0,0
+94315,PC,Player Character,"""Don't you want to destroy this evil?""",이 악을 파괴하고 싶지 않아?,q2craksarcoph,,,,,0,0
+94316,PC,Player Character,"""Don't worry - I can handle whatever's inside here!""",걱정 마. 안에 뭐가 있든 처리할 수 있어!,q2craksarcoph,,,,,0,0
+94431,PC,Player Character,Leave the rat alone.,쥐를 그냥 둔다.,q2crat,,,,,0,0
+94432,PC,Player Character,Focus on the less pleasant creatures.,덜 유쾌한 생명체에 집중한다.,q2crat,,,,,0,0
+94433,PC,Player Character,Focus on the dead bodies.,시체들에 집중한다.,q2crat,,,,,0,0
+94434,PC,Player Character,Focus on the dark figures.,어두운 형체들에 집중한다.,q2crat,,,,,0,0
+94522,PC,Player Character,<StartCheck>[Leave the portal]</Start>,<StartCheck>[차원문을 그냥 둡니다.]</Start>,q2d_portal,,,,,0,0
+94523,PC,Player Character,<StartCheck>[Set Trap DC: 25]</Start> Try to channel the portal's energy towards living beings.,<StartCheck>[함정 설치 난이도: 25]</Start> <StartAction>차원문의 에너지를 생명체 쪽으로 유도해봅니다.</Start>,q2d_portal,q2d_at_portal2,,,,0,0
+94546,PC,Player Character,"""I don't have time for this. Just go.""","""이럴 시간 없어. 그냥 가.""",q2dformqueen,,,,,0,0
+94547,PC,Player Character,"""Time to squash some bugs. Bye-bye, freak!""","""벌레나 잡을 시간이네. 잘 가, 괴물아!""",q2dformqueen,,,,,0,0
+94548,PC,Player Character,"""You speak common?""","""공용어를 할 줄 알아?""",q2dformqueen,,,,,0,0
+94549,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2dformqueen,,,,,0,0
+94550,PC,Player Character,"""Is there some kind of reward for freeing you?""","""널 풀어주면 보상 같은 게 있어?""",q2dformqueen,,,,,0,0
+94551,PC,Player Character,"""Yes, I'm <race>. What are you?""","""그래, 난 <race>야. 넌 뭐야?""",q2dformqueen,,,,,0,0
+94552,PC,Player Character,"""Forget it! I don't trust you.""","""관둬! 널 믿을 수 없어.""",q2dformqueen,,,,,0,0
+94553,PC,Player Character,"""Repay me? How?""","""보답을 해? 어떻게?""",q2dformqueen,,,,,0,0
+94554,PC,Player Character,"""But I want to fight the drow!""","""하지만 난 드로우와 싸우고 싶다고!""",q2dformqueen,,,,,0,0
+94555,PC,Player Character,"""I accept your offer.""","""제안을 받아들이지.""",q2dformqueen,,,,,0,0
+94565,PC,Player Character,Leave the rat alone.,쥐를 그냥 둔다.,q2drat,,,,,0,0
+94566,PC,Player Character,Focus on the hidden passages.,숨겨진 통로에 집중한다.,q2drat,,,,,0,0
+94567,PC,Player Character,Focus on the insects.,벌레들에 집중한다.,q2drat,,,,,0,0
+94569,PC,Player Character,<StartAction>[Do nothing.]</Start>,<StartAction>[아무것도 하지 않습니다.]</Start>,q2drocks,,,,,0,0
+94570,PC,Player Character,<StartAction>[Enter the passage.]</Start>,<StartAction>[통로로 들어갑니다.]</Start>,q2drocks,act_q2drocks_1,,,,0,0
+94578,PC,Player Character,No,아니.,q2e_con_joincon,,,,,0,0
+94579,PC,Player Character,Yes.,응.,q2e_con_joincon,x0_portal_h_jump,,,,0,0
+94582,PC,Player Character,Do nothing.,아무것도 하지 않는다.,q2ealtar,,,,,0,0
+94583,PC,Player Character,<StartAction>[Stick your hand into the vortex.]</Start>,<StartAction>[소용돌이에 손을 넣습니다.]</Start>,q2ealtar,act_q2ealtar,,,as_na_steamlong1,0,0
+94588,PC,Player Character,Please send a request my party members to join me here.,파티원들도 여기로 합류시켜 줘.,q2ereaper,act_q2ereaper_pt,con_q2ereaper_3,,,0,0
+94589,PC,Player Character,"No, I want to stick around here awhile.","아니, 여기 좀 더 있을래.",q2ereaper,,,,,0,0
+94590,PC,Player Character,I would like to jump to the PC Hero.,PC 영웅한테 순간이동하고 싶어.,q2ereaper,,con_q2ereaper_2,,,0,0
+94591,PC,Player Character,"Yes, please teleport me back to where I last died.","응, 내가 마지막으로 죽었던 곳으로 순간이동시켜 줘.",q2ereaper,,con_q2ereaper_1,,,0,0
+94593,PC,Player Character,<StartAction>[Leave the table alone and walk away.]</Start>,<StartAction>[탁자를 그냥 두고 떠납니다.]</Start>,q2etable,,,,,0,0
+94594,PC,Player Character,<StartCheck>[Spellcraft]</Start><StartAction> [Mix some ingredients together and see what happens.]</Start>,<StartCheck>[주문숙련]</Start> <StartAction>[재료들을 섞어서 무슨 일이 일어나는지 봅니다.]</Start>,q2etable,act_use_q2etable,,,,0,0
+94686,PC,Player Character,<StartAction>[Place the Ancient Oak Branch in the Vine Covered Basin.]</Start>,<StartAction>[덩굴로 덮인 분지에 고대 떡갈나무 가지를 놓습니다.]</Start>,q2evinebasin,act_q2eusebasin,con_q2evine_chk2,,,0,0
+94687,PC,Player Character,<StartAction>[Nothing you do seems to affect the basin at the moment.]</Start>,<StartAction>[지금은 분지에 뭘 해도 아무 일도 일어나지 않는 것 같습니다.]</Start>,q2evinebasin,,con_q2evine_chk1,,,0,0
+94697,PC,Player Character,"""Hello rat!""","""안녕, 쥐야!""",q2rat,,con_q2brat_chk1,,,0,0
+99054,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q4a_box_conv,,,,,0,0
+99055,PC,Player Character,<StartAction>Peek through the hole.</Start>,<StartAction>구멍으로 들여다봅니다.</Start>,q4a_box_conv,,,,,0,0
+99056,PC,Player Character,<StartAction>Fly through the hole.</Start>,<StartAction>구멍을 통해 날아갑니다.</Start>,q4a_box_conv,q4a_hole_jump,q4a_fairy_check,,,0,0
+99061,PC,Player Character,<StartAction>Press the switch.</Start>,<StartAction>스위치를 누릅니다.</Start>,q4a_gong_stat,q4a_gong_statue,,,,0,0
+99062,PC,Player Character,<StartAction>Place the other ear into the remaining hole.</Start>,<StartAction>남은 구멍에 다른 귀를 넣습니다.</Start>,q4a_gong_stat,q4a_ear3,q4a_hasear_1,,,0,0
+99063,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q4a_gong_stat,,,,,0,0
+99064,PC,Player Character,<StartAction>Place both ears into the holes.</Start>,<StartAction>두 귀를 모두 구멍에 넣습니다.</Start>,q4a_gong_stat,q4a_ear2,q4a_hasear_2,,,0,0
+99065,PC,Player Character,<StartAction>Place an ear into one of the holes.</Start>,<StartAction>한 귀를 구멍 중 하나에 넣습니다.</Start>,q4a_gong_stat,q4a_ear1,q4a_hasear_1,,,0,0
+99070,PC,Player Character,<StartAction>Put the amulet away.</Start>,<StartAction>호신부를 치웁니다.</Start>,q4a_morph_conv,,,,,0,0
+99071,PC,Player Character,<StartAction>Shift into Wolf form.</Start>,<StartAction>늑대 형태로 변신합니다.</Start>,q4a_morph_conv,q4a_poly_wolf,hx_wolf_chk2,,,0,0
+99072,PC,Player Character,<StartAction>Catch the light along the crystal's length.</Start>,<StartAction>수정의 길이 방향으로 빛을 받습니다.</Start>,q4a_morph_conv,q4a_poly_wolf2,hx_wolf_chk,,,0,0
+99073,PC,Player Character,<StartAction>Shift into Earth Elemental form.</Start>,<StartAction>대지의 원소 정령 형태로 변신합니다.</Start>,q4a_morph_conv,q4a_poly_gnt,hx_giant_chk2,,,0,0
+99074,PC,Player Character,<StartAction>Catch the light along the crystal's width.</Start>,<StartAction>수정의 폭 방향으로 빛을 받습니다.</Start>,q4a_morph_conv,q4a_poly_gnt2,hx_giant_chk,,,0,0
+99075,PC,Player Character,<StartAction>Shift into Pixie form.</Start>,<StartAction>픽시 형태로 변신합니다.</Start>,q4a_morph_conv,q4a_poly_pix,hx_pix_chk2,,,0,0
+99076,PC,Player Character,<StartAction>Catch the light along the crystal's height.</Start>,<StartAction>수정의 높이 방향으로 빛을 받습니다.</Start>,q4a_morph_conv,q4a_poly_pix2,hx_pix_chk,,,0,0
+99077,PC,Player Character,<StartAction>Put the amulet away.</Start>,<StartAction>호신부를 치웁니다.</Start>,q4a_morph_conv,,,,,0,0
+99078,PC,Player Character,<StartAction>Catch the light along the crystal's length.</Start>,<StartAction>수정의 길이 방향으로 빛을 받습니다.</Start>,q4a_morph_conv,q4a_poly_wolf2,,,,0,0
+99079,PC,Player Character,<StartAction>Catch the light along the crystal's width.</Start>,<StartAction>수정의 폭 방향으로 빛을 받습니다.</Start>,q4a_morph_conv,q4a_poly_gnt2,,,,0,0
+99080,PC,Player Character,<StartAction>Catch the light along the crystal's height.</Start>,<StartAction>수정의 높이 방향으로 빛을 받습니다.</Start>,q4a_morph_conv,q4a_poly_pix2,,,,0,0
+99088,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q4a_rat1_conv,,,,,0,0
+99089,PC,Player Character,<StartAction>Feed the rat some seeds.</Start>,<StartAction>쥐에게 씨앗을 먹입니다.</Start>,q4a_rat1_conv,,q4a_rat_chk2,,,0,0
+99090,PC,Player Character,<StartAction>Attack the rat.</Start>,<StartAction>쥐를 공격합니다.</Start>,q4a_rat1_conv,,,,,0,0
+99091,PC,Player Character,<StartAction>Focus on the images of the glittering objects.</Start>,<StartAction>반짝이는 물건의 이미지에 집중합니다.</Start>,q4a_rat1_conv,,,,,0,0
+99092,PC,Player Character,<StartAction>Focus on the images of death and decay.</Start>,<StartAction>죽음과 부패의 이미지에 집중합니다.</Start>,q4a_rat1_conv,,,,,0,0
+104230,PC,Player Character,"""The followers of Eilistraee know how to fight, and they'll prove it right now!""",에일리스트레이 신도들은 싸울 줄 알아. 지금 당장 증명해줄 거야!,q2a3barfight,act_q2a3fight_2,,,,0,0
+104231,PC,Player Character,"""Yeah. Get rid of these pacifists before they fail us in battle.""",그래. 전투에서 쓸모없어지기 전에 이 평화주의자들부터 제거해.,q2a3barfight,act_q2a3fight_2,,,,0,0
+104232,PC,Player Character,"""This stupid in-fighting only makes our defeat more likely.""",이런 멍청한 내분은 우리 패배만 더 확실하게 만들 뿐이야.,q2a3barfight,act_q2a3fight_1,,,,0,0
+104233,PC,Player Character,"""You don't have many allies... you better learn to treat them better.""",동료가 많지도 않은데... 좀 더 잘 대해주는 법을 배워야 할걸.,q2a3barfight,,,,,0,0
+104263,PC,Player Character,<StartAction>Ignore him.</Start>,<StartAction>무시합니다.</Start>,q2a3svirfdrink,nw_d1_small_evil,,,,0,0
+104264,PC,Player Character,"""Hey, what's going on here?""","야, 무슨 일이야?",q2a3svirfdrink,,,,,0,0
+104265,PC,Player Character,"""Come on, svirf... drink up. I want to see a new record!""","어이, 스버프... 마셔. 신기록 세는 거 보고 싶어!",q2a3svirfdrink,nw_d1_small_evil,,,,0,0
+104266,PC,Player Character,"<StartAction>Intimidate</Start> ""I won't let this svirf drink himself to death!""",<StartAction>위협</Start> 이 스버프가 술 마시다 죽게 내버려둘 수 없어!,q2a3svirfdrink,,,,,0,0
+104267,PC,Player Character,"<StartAction>Persuade</Start> ""That's enough. No sense wasting good ale on a servant.""",<StartAction>설득합니다.</Start> 그만해. 좋은 술을 하인한테 낭비할 필요 없어.,q2a3svirfdrink,,,,,0,0
+104268,PC,Player Character,"""Leave that svirfneblin alone!""",그 스버프네블린 좀 내버려둬!,q2a3svirfdrink,,,,,0,0
+104300,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2a_imloth,,,,,0,0
+104301,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2a_imloth,,,,,0,0
+104302,PC,Player Character,"""Tell me about yourself.""","""네 자신에 대해 말해줘.""",q2a_imloth,,,,,0,0
+104303,PC,Player Character,"""Can you tell me about the army of the Valsharess?""","""발샤레스의 군대에 대해 말해줄 수 있어?""",q2a_imloth,,,,,0,0
+104304,PC,Player Character,"""Tell me about the undead.""","""언데드에 대해 말해줘.""",q2a_imloth,,,,,0,0
+104305,PC,Player Character,"""Your attacks failed?""","""공격이 실패했다고?""",q2a_imloth,,,,,0,0
+104306,PC,Player Character,"""Vampires aren't easy to kill.""","""흡혈귀는 쉽게 죽지 않아.""",q2a_imloth,,,,,0,0
+104307,PC,Player Character,"""Tell me about the illithid.""","""일리시드에 대해 말해줘.""",q2a_imloth,,,,,0,0
+104308,PC,Player Character,"""Can't we just kill them before they join her?""","""그들이 합류하기 전에 그냥 죽이면 안 돼?""",q2a_imloth,,,,,0,0
+104309,PC,Player Character,"""Elder Brains?""","""엘더 브레인?""",q2a_imloth,,,,,0,0
+104310,PC,Player Character,"""Any advice on fighting the illithid?""","""일리시드와 싸우는 데 조언 좀 해줄래?""",q2a_imloth,,,,,0,0
+104311,PC,Player Character,"""I could go negotiate with the Zorvak'Mur Elder Brain.""","""조르박무르 엘더 브레인과 협상하러 갈 수 있어.""",q2a_imloth,,,,,0,0
+104312,PC,Player Character,"""Tell me about the beholders.""","""주시자들에 대해 말해줘.""",q2a_imloth,,,,,0,0
+104313,PC,Player Character,"""Any advice for fighting a beholder?""","""주시자와 싸우는 데 조언 좀 해줄래?""",q2a_imloth,,,,,0,0
+104314,PC,Player Character,"""I'm looking for allies against the Valsharess.""","""발샤레스에 대항할 동맹을 찾고 있어.""",q2a_imloth,,,,,0,0
+104315,PC,Player Character,"""Monsters? What do you mean?""","""괴물들? 무슨 뜻이야?""",q2a_imloth,,,,,0,0
+104316,PC,Player Character,"""You're training your troops pretty hard.""","""군대를 꽤 혹독하게 훈련시키는군.""",q2a_imloth,,,,,0,0
+104342,PC,Player Character,"""I'll be going now.""",이만 갈게.,q2abartender,,,,,0,0
+104343,PC,Player Character,"""I'd like to ask you some questions.""",몇 가지 물어보고 싶어.,q2abartender,,,,,0,0
+104344,PC,Player Character,"""I'd like a drink.""",술 한 잔 하고 싶어.,q2abartender,,,,,0,0
+104345,PC,Player Character,"""You don't like the Seer's followers?""",선견자 신도들이 마음에 안 들어?,q2abartender,,,,,0,0
+104346,PC,Player Character,"""Tell me about the Valsharess.""",발샤레스에 대해 알려줘.,q2abartender,,,,,0,0
+104347,PC,Player Character,"""Sure, I'll have a drink.""","좋아, 한 잔 할게.",q2abartender,,,,,0,0
+104348,PC,Player Character,"""I'll have another drink.""",한 잔 더 할게.,q2abartender,,,,,0,0
+104385,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2abrizafae,,,,,0,0
+104386,PC,Player Character,"""Can I ask you some questions?""","""질문 좀 해도 될까?""",q2abrizafae,,,,,0,0
+104387,PC,Player Character,"""What can you tell me about this camp?""","""이 야영지에 대해 뭘 말해줄 수 있어?""",q2abrizafae,,,,,0,0
+104388,PC,Player Character,"""You're a bitter, bitter woman.""","""넌 정말 쓰디쓴 사람이구나.""",q2abrizafae,,,,,0,0
+104389,PC,Player Character,"""I want to ask you something else.""","""다른 걸 물어보고 싶어.""",q2abrizafae,,,,,0,0
+104390,PC,Player Character,"""Good to see you're making the most of this time.""","""이 시간을 최대한 활용하고 있는 모습이 보기 좋네.""",q2abrizafae,,,,,0,0
+104391,PC,Player Character,"""If you do anything to betray this camp...""","""이 야영지를 배신하는 짓을 한다면...""",q2abrizafae,,,,,0,0
+104392,PC,Player Character,"""That's horrible!""","""끔찍하군!""",q2abrizafae,,,,,0,0
+104393,PC,Player Character,"""What do you know about the Valsharess?""","""발샤레스에 대해 뭘 알아?""",q2abrizafae,,,,,0,0
+104394,PC,Player Character,"""Tell me about the Seer.""","""선견자에 대해 말해줘.""",q2abrizafae,,,,,0,0
+104395,PC,Player Character,"""Tell me about House Maeviir.""","""마에비르 가문에 대해 말해줘.""",q2abrizafae,,,,,0,0
+104396,PC,Player Character,"""Her daughter?""","""그녀의 딸?""",q2abrizafae,,,,,0,0
+104397,PC,Player Character,"""What happened to House Deani?""","""데아니 가문에 무슨 일이 있었어?""",q2abrizafae,,,,,0,0
+104398,PC,Player Character,"""They took you in, and now you revel in their destruction?""","""그들이 널 받아줬는데, 이제 그들의 파멸을 즐기는 거야?""",q2abrizafae,,,,,0,0
+104399,PC,Player Character,"""I *will* defeat the Valsharess!""","""나는 *반드시* 발샤레스를 무찌를 거야!""",q2abrizafae,,,,,0,0
+104400,PC,Player Character,"""I don't like your tone, drow!""","""네 태도가 마음에 안 드는데, 드로우!""",q2abrizafae,,,,,0,0
+104401,PC,Player Character,"""Who are you?""","""넌 누구야?""",q2abrizafae,,,,,0,0
+104402,PC,Player Character,"""What did you just call me?""","""방금 뭐라고 불렀어?""",q2abrizafae,,,,,0,0
+104495,PC,Player Character,"""Can you open the gates for me?""","""문을 열어줄 수 있어?""",q2agateseargent,,q2a_opengate,,,0,0
+104496,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2agateseargent,,,,,0,0
+104497,PC,Player Character,"""You said there's undead out there?""","""밖에 언데드가 있다고 했어?""",q2agateseargent,,,,,0,0
+104498,PC,Player Character,"""What do you know about the illithid?""","""일리시드에 대해 뭘 알아?""",q2agateseargent,,,,,0,0
+104499,PC,Player Character,"""Tell me about the illithid mind powers.""","""일리시드의 정신 능력에 대해 말해줘.""",q2agateseargent,,,,,0,0
+104500,PC,Player Character,"""Tell me about the beholders.""","""주시자에 대해 말해줘.""",q2agateseargent,,,,,0,0
+104501,PC,Player Character,"""I can look after myself. Open the gate.""","""난 스스로를 돌볼 수 있어. 문을 열어.""",q2agateseargent,,,,,0,0
+104502,PC,Player Character,"""I'll be careful. Please open the gate.""","""조심할게. 문 열어줘.""",q2agateseargent,,,,,0,0
+104503,PC,Player Character,"""Why are you so worried about protecting this gate?""","""왜 이 문을 지키는 데 그렇게 신경 써?""",q2agateseargent,,,,,0,0
+104504,PC,Player Character,"""Surprises? What do you mean?""","""놀라운 일? 무슨 뜻이야?""",q2agateseargent,,,,,0,0
+104529,PC,Player Character,"""Goodbye.""","""안녕.""",q2agulhrys,,,,,0,0
+104530,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2agulhrys,,,,,0,0
+104531,PC,Player Character,"""Do you know anything about the Valsharess?""","""발샤레스에 대해 뭘 알아?""",q2agulhrys,,,,,0,0
+104532,PC,Player Character,"""Tell me about House Maeviir.""","""마에비르 가문에 대해 말해줘.""",q2agulhrys,,,,,0,0
+104533,PC,Player Character,"""What do you know about the Seer?""","""선견자에 대해 뭘 알아?""",q2agulhrys,,,,,0,0
+104534,PC,Player Character,"""Do you have any advice for stopping the Valsharess?""","""발샤레스를 막을 조언 좀 해줄 수 있어?""",q2agulhrys,,,,,0,0
+104535,PC,Player Character,"""Why is a High Wizard out here hawking his wares?""","""대마법사가 왜 여기서 물건을 팔고 있어?""",q2agulhrys,,,,,0,0
+104536,PC,Player Character,"""I want to ask you something else.""","""다른 걸 물어보고 싶어.""",q2agulhrys,,,,,0,0
+104537,PC,Player Character,"""Escape? You'd abandon everyone here?""","""도망쳐? 여기 모두를 버리겠다고?""",q2agulhrys,,,,,0,0
+104538,PC,Player Character,"""You make a good point.""","""네 말이 일리 있네.""",q2agulhrys,,,,,0,0
+104539,PC,Player Character,"""You're a deceitful, backstabbing coward!""","""넌 교활하고 배신하는 겁쟁이야!""",q2agulhrys,,,,,0,0
+104540,PC,Player Character,"""Let me see your inventory.""","""소지품 좀 보자.""",q2agulhrys,x2_am_store,,,,0,0
+104541,PC,Player Character,"""I'm trying to save you all - can't you just give me the items?""","""모두를 구하려고 하는데, 그냥 아이템 줄 수는 없어?""",q2agulhrys,,,,,0,0
+104560,PC,Player Character,"""Goodbye.""","""안녕.""",q2ahouseguard,,,,,0,0
+104561,PC,Player Character,"""Who's Matron Myrune?""","""미룬 대모가 누구야?""",q2ahouseguard,,,,,0,0
+104562,PC,Player Character,"""What is this building?""","""이 건물은 뭐야?""",q2ahouseguard,,,,,0,0
+104563,PC,Player Character,"""Zesyyr said to show you this ring.""","""제시르가 이 반지를 보여주라고 했어.""",q2ahouseguard,,con_q2amaehouse1,,,0,0
+104564,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2ahouseguard,,,,,0,0
+104565,PC,Player Character,"""Can I speak to Matron Zesyyr?""","""대모 제시르와 얘기할 수 있어?""",q2ahouseguard,,,,,0,0
+104566,PC,Player Character,"""She wouldn't even be Matron if it wasn't for me!""","""내가 없었으면 그녀는 대모도 못 됐을 거야!""",q2ahouseguard,,,,,0,0
+104567,PC,Player Character,"""But I'm on her side!""","""하지만 난 그녀 편이라고!""",q2ahouseguard,,,,,0,0
+104568,PC,Player Character,"""Can I speak to Matron Myrune?""","""미룬 대모와 얘기할 수 있어?""",q2ahouseguard,,,,,0,0
+104569,PC,Player Character,"""I'm the one who warned her about Zesyyr!""","""제시르에 대해 경고한 건 나라고!""",q2ahouseguard,,,,,0,0
+104570,PC,Player Character,"""But I'm on her side!""","""하지만 난 그녀 편이라고!""",q2ahouseguard,,,,,0,0
+104579,PC,Player Character,"""Not yet - I am still organizing our defensive strategies.""",아직이야. 아직 방어 전략을 짜고 있어.,q2aimloth,,,,,0,0
+104580,PC,Player Character,"""Yes - I believe we are ready for their onslaught now.""","응, 이제 공격에 대비됐어.",q2aimloth,act_q2aherald_12,,,,0,0
+104581,PC,Player Character,"""Where are the troops now?""",병력은 지금 어디 있어?,q2aimloth,,,,,0,0
+104582,PC,Player Character,"""How do I direct the troops?""",병력은 어떻게 지휘해?,q2aimloth,,,,,0,0
+104583,PC,Player Character,"""I don't need you to tell me how to run this battle!""",전투를 어떻게 치를지 네가 말해 줄 필요 없어!,q2aimloth,,,,,0,0
+104584,PC,Player Character,"""Any idea of the enemy's strategy?"" ",적의 전략은 아는 게 있어?,q2aimloth,,,,,0,0
+104611,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2amaeseargent,,,,,0,0
+104612,PC,Player Character,"""What do you know about the Valsharess?""","""발샤레스에 대해 뭘 알아?""",q2amaeseargent,,,,,0,0
+104613,PC,Player Character,"""Tell me about House Maeviir.""","""마에비르 가문에 대해 말해줘.""",q2amaeseargent,,,,,0,0
+104614,PC,Player Character,"""What do you have against the followers of Eilistraee?""","""에일리스트레이 추종자들에게 뭐가 불만이야?""",q2amaeseargent,,,,,0,0
+104615,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2amaeseargent,,,,,0,0
+104616,PC,Player Character,"""I don't like your tone!""","""네 말투가 마음에 안 드는데!""",q2amaeseargent,,,,,0,0
+104617,PC,Player Character,"""I'm not a follower of Eilistraee.""","""난 에일리스트레이 추종자가 아니야.""",q2amaeseargent,,,,,0,0
+104618,PC,Player Character,"""I'll tell her what a fine job you are doing.""","""네가 얼마나 훌륭하게 일하는지 그녀에게 말해주지.""",q2amaeseargent,,,,,0,0
+104619,PC,Player Character,"""Maybe you'd get better results if you weren't so hard on them.""","""그들에게 그렇게 가혹하게 굴지 않으면 더 나은 결과를 얻을 수 있을 거야.""",q2amaeseargent,,,,,0,0
+104620,PC,Player Character,"""These troops are pathetic! What kind of training are you giving them?""","""이 병사들은 형편없어! 대체 무슨 훈련을 시키는 거야?""",q2amaeseargent,,,,,0,0
+104621,PC,Player Character,"""Good! Glad to hear it.""","""좋아! 그 말 듣기 좋네.""",q2amaeseargent,,,,,0,0
+104645,PC,Player Character,"""I came to warn you. Zesyyr wants the Matron dead.""","""경고하러 왔어. 제시르가 대모를 죽이려고 해.""",q2amaeviir,,,,,0,0
+104646,PC,Player Character,"""Can't she? She wanted me to kill you.""","""못 할 게 뭐야? 그녀가 날 보내서 당신을 죽이라고 했어.""",q2amaeviir,,,,,0,0
+104647,PC,Player Character,"""I've decided Zesyyr should rule!"" <StartAction>Attack the Matron.</Start>",제시르가 다스려야 한다고 생각해! <StartAction>대모를 공격한다.</Start>,q2amaeviir,q2a_zesyyrrulex,,,,0,0
+104648,PC,Player Character,"""She gave me her ring to get me past the guards.""","""그녀가 경비를 지나가라고 반지를 줬어.""",q2amaeviir,,,,,0,0
+104649,PC,Player Character,"""I'm just glad I could help.""","""도울 수 있어서 기뻐.""",q2amaeviir,,,,,0,0
+104650,PC,Player Character,"<StartAction>Intimidate</Start> ""Come up with something more, or I'll finish the job Zesyyr sent me to do!"" ","<StartAction>위협</Start> ""더 줄 게 없으면, 제시르가 시킨 일을 끝내버리겠어!""",q2amaeviir,,,,,0,0
+104651,PC,Player Character,"<StartAction>Persuade</Start> ""I think I deserve a little more than that.""","<StartAction>설득</Start> ""그것보단 좀 더 받아야 하지 않을까.""",q2amaeviir,,,,,0,0
+104652,PC,Player Character,"""Stay out of this, Deekin.""","""이 일에 끼어들지 마, 디킨.""",q2amaeviir,,,,,0,0
+104653,PC,Player Character,"""That's right.""","""그래, 맞아.""",q2amaeviir,,,,,0,0
+104654,PC,Player Character,"""Zesyyr sent me to kill you!"" <StartAction>Attack the Matron.</Start>",제시르가 날 보내서 널 죽이라고 했어! <StartAction>대모를 공격한다.</Start>,q2amaeviir,q2a_zesyyrrulex,,,,0,0
+104655,PC,Player Character,"""My name is <FullName>. I work for the Seer.""","""내 이름은 <FullName>이야. 선견자를 위해 일하지.""",q2amaeviir,,,,,0,0
+104739,PC,Player Character,"""I'm just glad I could help.""",도울 수 있어서 기뻐.,q2azesyyrcut,,,,,0,0
+104740,PC,Player Character,"""I want more.""",더 줘야지.,q2azesyyrcut,,,,,0,0
+104741,PC,Player Character,"<StartAction>Bluff</Start> ""I'll tell people your mother escaped. Then they won't support you.""",<StartAction>허세</Start> 네 어미가 탈출했다고 소문 낼 거야. 그럼 아무도 널 지지 안 할걸.,q2azesyyrcut,,,,,0,0
+104742,PC,Player Character,"<StartAction>Intimidate</Start> ""Pay up, or you'll suffer the same fate as your mother!""","<StartAction>위협</Start> 돈 내, 안 그럼 네 어미랑 똑같은 운명 맞을 거야!",q2azesyyrcut,,,,,0,0
+104743,PC,Player Character,"<StartAction>Persuade</Start> ""Now you know how useful I can be.""",<StartAction>설득</Start> 내가 얼마나 쓸모 있는지 이제 알았지?,q2azesyyrcut,,,,,0,0
+104770,PC,Player Character,"""I have to go.""",가봐야겠어.,q2d2artuur,,,,,0,0
+104771,PC,Player Character,"""Who are you?""",넌 누구야?,q2d2artuur,,,,,0,0
+104772,PC,Player Character,"""Let me see what you have for sale.""",뭘 파는지 보자.,q2d2artuur,x1_openstore,,,,0,0
+104773,PC,Player Character,"""Can I ask you some questions?""",몇 가지 물어봐도 돼?,q2d2artuur,,,,,0,0
+104774,PC,Player Character,"""Do you know anything about a drow called the Valsharess?""",발샤레스라는 드로우에 대해 아는 거 있어?,q2d2artuur,,,,,0,0
+104775,PC,Player Character,"""Why did Zorvak'Mur open to outsiders?""",조르박무르는 왜 외부인에게 문을 열었어?,q2d2artuur,,,,,0,0
+104776,PC,Player Character,"""Where can I buy a thrall?""",노예는 어디서 사?,q2d2artuur,,,,,0,0
+104777,PC,Player Character,"""Why will you trade with me when the others won't?""",다른 이들은 안 그러는데 넌 왜 나랑 거래해?,q2d2artuur,,,,,0,0
+104778,PC,Player Character,"""I need to speak to the Elder Brain.""",엘더 브레인과 얘기해야 해.,q2d2artuur,,,,,0,0
+104792,PC,Player Character,"""Goodbye.""",안녕.,q2d2hallguard,,,,,0,0
+104793,PC,Player Character,"""I must speak with the Elder Brain.""",엘더 브레인과 얘기해야 해.,q2d2hallguard,,,,,0,0
+104794,PC,Player Character,"""Forget it. I'll come back later.""",됐어. 나중에 다시 올게.,q2d2hallguard,,,,,0,0
+104795,PC,Player Character,"""I've come to speak about the Valsharess.""",발샤레스에 대해 얘기하러 왔어.,q2d2hallguard,,,,,0,0
+104796,PC,Player Character,"""I'll come back later.""",나중에 다시 올게.,q2d2hallguard,,,,,0,0
+104797,PC,Player Character,"""I'm not removing my helm.""",투구 안 벗어.,q2d2hallguard,,,,,0,0
+104798,PC,Player Character,"""You can't keep me out if you're dead!"" <StartAction>Attack the illithid.</Start>",죽으면 못 막지! <StartAction>일리시드를 공격합니다.</Start>,q2d2hallguard,q2d2_allhostile,,,,0,0
+104799,PC,Player Character,"""Very well, here's my helm.""","알았어, 여기 투구.",q2d2hallguard,act_q2d2hallgd_1,,,,0,0
+104840,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2d2pitboss,,,,,0,0
+104841,PC,Player Character,"""Can I join the fighting pits?""","""투기장에 참가할 수 있어?""",q2d2pitboss,,,,,0,0
+104842,PC,Player Character,"""I want to bet on an upcoming fight.""","""다음 시합에 내기를 걸고 싶어.""",q2d2pitboss,act_q2d2pit_1,,,,0,0
+104843,PC,Player Character,"""I think I'll pass.""","""됐어.""",q2d2pitboss,,,,,0,0
+104844,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2d2pitboss,,,,,0,0
+104845,PC,Player Character,"""I want my thrall released from the pits.""","""내 노예를 투기장에서 풀어줘.""",q2d2pitboss,,con_q2d2pitboss1,,,0,0
+104846,PC,Player Character,"""I'm not interested in a wager.""","""내기는 관심 없어.""",q2d2pitboss,act_q2d2pit_1,,,,0,0
+104847,PC,Player Character,"""No, I don't want to bet.""","""아니, 내기 안 할래.""",q2d2pitboss,,,,,0,0
+104848,PC,Player Character,"""I might be interested in a wager.""","""내기에 관심 있을지도.""",q2d2pitboss,act_q2d2pit_1,,,,0,0
+104849,PC,Player Character,"""I've decided I don't want to place a wager.""","""내기 안 하기로 했어.""",q2d2pitboss,act_q2d2pit_5,,,,0,0
+104850,PC,Player Character,"""I will bet 500 on <CUSTOM546>'s thrall.""","""<CUSTOM546>의 노예에게 금화 500개 걸게.""",q2d2pitboss,act_q2d2pit_3,con_q2d2pit_4,,,0,0
+104851,PC,Player Character,"""I will bet 500 on <CUSTOM544>'s thrall.""","""<CUSTOM544>의 노예에게 금화 500개 걸게.""",q2d2pitboss,act_q2d2pit_2,con_q2d2pit_4,,,0,0
+104852,PC,Player Character,"""Forget it. Just throw her in there.""","""됐어. 그냥 저 안에 던져 넣어.""",q2d2pitboss,,,,,0,0
+104853,PC,Player Character,"""I'll bet 500 on my thrall.""","""내 노예에게 금화 500개 걸게.""",q2d2pitboss,act_q2d2pit_2,con_q2d2pit_4,,,0,0
+104854,PC,Player Character,"""Fine. Here's 100 gold. Give her some equipment.""","""좋아. 여기 금화 100개야. 장비 좀 줘.""",q2d2pitboss,q2d_pit_equip,q2d_has100gold,,,0,0
+104855,PC,Player Character,"""Quiet, thrall! I'm the master here, remember?""","""조용히 해, 노예! 여기선 내가 주인이야, 알겠어?""",q2d2pitboss,,,,,0,0
+104856,PC,Player Character,"""How much is the equipment?""","""장비가 얼마야?""",q2d2pitboss,,,,,0,0
+104857,PC,Player Character,"""Here's 100 gold. Give her the equipment.""","""여기 금화 100개야. 장비 줘.""",q2d2pitboss,q2d_pit_equip,q2d_has100gold,,,0,0
+104875,PC,Player Character,"""Shut up, thrall. You will learn respect!""","닥쳐, 노예. 예의를 배워야겠어!",q2d2slavegirl,nw_d1_mid_evil,,,,0,0
+104876,PC,Player Character,"""I bet I can make some money off you in the pits.""",투기장에 넣으면 돈 벌 수 있을 것 같은데.,q2d2slavegirl,,,,,0,0
+104877,PC,Player Character,"""Take her away to the pits.""",얘를 투기장으로 데려가.,q2d2slavegirl,,,,,0,0
+104878,PC,Player Character,"""I'm going to give you your freedom.""",자유를 줄게.,q2d2slavegirl,,,,,0,0
+104879,PC,Player Character,"""You have to deliver a message to one of my allies, thrall.""","내 동료 중 한 명에게 전갈을 전해야 해, 노예.",q2d2slavegirl,,,,,0,0
+104880,PC,Player Character,"<StartAction>Lie</Start> ""Yes. If you disobey me you'll suffer a horrible, painful death.""",<StartAction>거짓말</Start> 그래. 명령 어기면 끔찍하고 고통스러운 죽음을 맞을 거야.,q2d2slavegirl,,,,,0,0
+104881,PC,Player Character,<StartAction>Give her a fake message and directions to find the Seer.</Start>,<StartAction>가짜 전갈을 주고 선견자를 찾는 길을 알려줍니다.</Start>,q2d2slavegirl,nw_d1_high_good,,,,0,0
+104882,PC,Player Character,"""Would you rather be a thrall to the illithid?""",일리시드의 노예가 되고 싶어?,q2d2slavegirl,,,,,0,0
+104968,PC,Player Character,Leave the door alone.,문을 그냥 둔다.,q2d4door1,,,,,0,0
+104969,PC,Player Character,<StartAction>[Use Open Lock Skill]</Start> Forget the patterns and try to open the lock.,<StartAction>[자물쇠 따기 기술 사용]</Start> <StartAction>패턴 무시하고 자물쇠를 따봅니다.</Start>,q2d4door1,act_q2d4door_4,con_q2d4door_2,,,0,0
+104970,PC,Player Character,<StartAction>[Use Intelligence]</Start> Attempt to focus on the patterns.,<StartAction>[지능 사용]</Start> <StartAction>패턴에 집중해봅니다.</Start>,q2d4door1,,,,,0,0
+104971,PC,Player Character,<StartAction>[Make an Intelligence Check]</Start>,<StartAction>[지능 체크]</Start>,q2d4door1,act_q2d4door_3,,,,0,0
+104972,PC,Player Character,Try to form the image of the number 19.,숫자 19의 이미지를 만들어본다.,q2d4door1,act_q2d4door_2,,,,0,0
+104973,PC,Player Character,Try to form the image of the number 17.,숫자 17의 이미지를 만들어본다.,q2d4door1,act_q2d4door_2,,,,0,0
+104974,PC,Player Character,Try to form the image of the number 15.,숫자 15의 이미지를 만들어본다.,q2d4door1,act_q2d4door_2,,,,0,0
+104975,PC,Player Character,Try to form an image of the number 11.,숫자 11의 이미지를 만들어본다.,q2d4door1,act_q2d4door_2,,,,0,0
+104984,PC,Player Character,Leave the door alone.,문을 그냥 둔다.,q2d4door2,,,,,0,0
+104985,PC,Player Character,<StartAction>[Use Open Lock Skill]</Start> Forget the patterns and try to open the lock.,<StartAction>[자물쇠 따기 기술 사용]</Start> <StartAction>패턴 무시하고 자물쇠를 따봅니다.</Start>,q2d4door2,act_q2d4door_4,con_q2d4door_2,,,0,0
+104986,PC,Player Character,<StartAction>[Use Intelligence]</Start> Attempt to focus on the patterns.,<StartAction>[지능 사용]</Start> <StartAction>패턴에 집중해봅니다.</Start>,q2d4door2,,,,,0,0
+104987,PC,Player Character,<StartAction>[Make an Intelligence Check]</Start>,<StartAction>[지능 체크]</Start>,q2d4door2,act_q2d4door_3,,,,0,0
+104988,PC,Player Character,Try to form the image of the number 108.,숫자 108의 이미지를 만들어본다.,q2d4door2,act_q2d4door_2,,,,0,0
+104989,PC,Player Character,Try to form the image of the number 98.,숫자 98의 이미지를 만들어본다.,q2d4door2,act_q2d4door_2,,,,0,0
+104990,PC,Player Character,Try to form the image of the number 96.,숫자 96의 이미지를 만들어본다.,q2d4door2,act_q2d4door_2,,,,0,0
+104991,PC,Player Character,Try to form an image of the number 49.,숫자 49의 이미지를 만들어본다.,q2d4door2,act_q2d4door_2,,,,0,0
+105000,PC,Player Character,Leave the door alone.,문을 그냥 둔다.,q2d4door3,,,,,0,0
+105001,PC,Player Character,<StartAction>[Use Open Lock Skill]</Start> Forget the patterns and try to open the lock.,<StartAction>[자물쇠 따기 기술 사용]</Start> <StartAction>패턴 무시하고 자물쇠를 따봅니다.</Start>,q2d4door3,act_q2d4door_4,con_q2d4door_2,,,0,0
+105002,PC,Player Character,<StartAction>[Use Intelligence]</Start> Attempt to focus on the patterns.,<StartAction>[지능 사용]</Start> <StartAction>패턴에 집중해봅니다.</Start>,q2d4door3,,,,,0,0
+105003,PC,Player Character,<StartAction>[Make an Intelligence Check]</Start>,<StartAction>[지능 체크]</Start>,q2d4door3,act_q2d4door_3,,,,0,0
+105004,PC,Player Character,Try to form the image of the number 21.,숫자 21의 이미지를 만들어본다.,q2d4door3,act_q2d4door_2,,,,0,0
+105005,PC,Player Character,Try to form the image of the number 36.,숫자 36의 이미지를 만들어본다.,q2d4door3,act_q2d4door_2,,,,0,0
+105006,PC,Player Character,Try to form an image of the number 30.,숫자 30의 이미지를 만들어본다.,q2d4door3,act_q2d4door_2,,,,0,0
+105007,PC,Player Character,Try to form the image of the number 34.,숫자 34의 이미지를 만들어본다.,q2d4door3,act_q2d4door_2,,,,0,0
+105016,PC,Player Character,Leave the door alone.,문을 그냥 둔다.,q2d4door4,,,,,0,0
+105017,PC,Player Character,<StartAction>[Use Open Lock Skill]</Start> Forget the patterns and try to open the lock.,<StartAction>[자물쇠 따기 기술 사용]</Start> <StartAction>패턴 무시하고 자물쇠를 따봅니다.</Start>,q2d4door4,act_q2d4door_4,con_q2d4door_2,,,0,0
+105018,PC,Player Character,<StartAction>[Use Intelligence]</Start> Attempt to focus on the patterns.,<StartAction>[지능 사용]</Start> <StartAction>패턴에 집중해봅니다.</Start>,q2d4door4,,,,,0,0
+105019,PC,Player Character,<StartAction>[Make an Intelligence Check]</Start>,<StartAction>[지능 체크]</Start>,q2d4door4,act_q2d4door_3,,,,0,0
+105020,PC,Player Character,Try to form the image of the number 4.,숫자 4의 이미지를 만들어본다.,q2d4door4,act_q2d4door_2,,,,0,0
+105021,PC,Player Character,Try to form the image of the number 3.,숫자 3의 이미지를 만들어본다.,q2d4door4,act_q2d4door_2,,,,0,0
+105022,PC,Player Character,Try to form the image of the number 2.,숫자 2의 이미지를 만들어본다.,q2d4door4,act_q2d4door_2,,,,0,0
+105023,PC,Player Character,Try to form an image of the number 1.,숫자 1의 이미지를 만들어본다.,q2d4door4,act_q2d4door_2,,,,0,0
+105053,PC,Player Character,"""Who are you? What is this place?""","""넌 누구야? 여기는 어디야?""",q2d5warden,,,,,0,0
+105054,PC,Player Character,"""You're not a thrall. Why do you serve the illithid?""","""넌 노예가 아니잖아. 왜 일리시드를 섬겨?""",q2d5warden,,,,,0,0
+105055,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2d5warden,,,,,0,0
+105056,PC,Player Character,"""I go where I want, when I want.""","""원하는 곳에 원하는 때 가는 거야.""",q2d5warden,,,,,0,0
+105057,PC,Player Character,"""Sorry. I'll be going now.""","""미안해. 이제 갈게.""",q2d5warden,,,,,0,0
+105058,PC,Player Character,"""No duergar lackey is going to push me around!""","""듀에르가 개 따위가 날 밀어붙일 순 없어!""",q2d5warden,,,,,0,0
+105059,PC,Player Character,"""I want to see the thrall I sent to the pits.""","""구덩이로 보낸 노예를 보고 싶어.""",q2d5warden,,con_q2dwarden_1,,,0,0
+105060,PC,Player Character,"'I think you need to die now.""",이제 죽을 시간이야.,q2d5warden,,,,,0,0
+105061,PC,Player Character,"""The pits?""","""구덩이?""",q2d5warden,,,,,0,0
+105062,PC,Player Character,"""Preparers? What do you mean?",가공사들? 무슨 뜻이야?,q2d5warden,,,,,0,0
+105063,PC,Player Character,"""That's horrible! How can you serve such monsters!""","""끔찍해! 어떻게 그런 괴물들을 섬길 수 있어!""",q2d5warden,,,,,0,0
+105064,PC,Player Character,"""Sounds like you've got a good set up here.""","""여기 좋은 자리 잡았네.""",q2d5warden,,,,,0,0
+105065,PC,Player Character,"""You're a monster!""","""넌 괴물이야!""",q2d5warden,,,,,0,0
+105084,PC,Player Character,"""I'll be going now.""",이만 가볼게.,q2d6duergar1,,,,,0,0
+105085,PC,Player Character,"""I want to ask you some questions.""",몇 가지 물어보고 싶어.,q2d6duergar1,,,,,0,0
+105086,PC,Player Character,"""I don't see any illithid in here.""",여긴 일리시드가 안 보이는데.,q2d6duergar1,,,,,0,0
+105087,PC,Player Character,"""Actually, I'm trying to get access to the Elder Brain.""",사실 엘더 브레인에게 접근하려고 해.,q2d6duergar1,,q2d_brainalive,,,0,0
+105088,PC,Player Character,"""I'm interested in buying a thrall.""",노예를 사고 싶어.,q2d6duergar1,,,,,0,0
+105089,PC,Player Character,"""Tell me about the fighting pits.""",투기장에 대해 알려줘.,q2d6duergar1,,,,,0,0
+105090,PC,Player Character,"""Where could I buy some thralls?""",노예는 어디서 살 수 있어?,q2d6duergar1,,,,,0,0
+105104,PC,Player Character,"""Actually, I think I'll be going.""","아, 이만 갈게.",q2d6golem,,,,,0,0
+105105,PC,Player Character,"""Give me a drink.""",술 한 잔 줘.,q2d6golem,,,,,0,0
+105106,PC,Player Character,"""Umm, no thanks.""","아, 사양할게.",q2d6golem,,,,,0,0
+105107,PC,Player Character,<StartAction>[Have a drink from the mug]</Start>,<StartAction>[잔에서 술을 마십니다.]</Start>,q2d6golem,act_q2d6golem_2,,,,0,0
+105108,PC,Player Character,"""I want to ask you something else.""",다른 것 좀 물어볼게.,q2d6golem,,,,,0,0
+105109,PC,Player Character,"""What is this place?""",여기가 어디야?,q2d6golem,,,,,0,0
+105110,PC,Player Character,"""Who are you?""",넌 누구야?,q2d6golem,,,,,0,0
+105124,PC,Player Character,"""I'll be going now.""",이만 가볼게.,q2d6lizard1,,,,,0,0
+105125,PC,Player Character,"""I want to ask you some questions.""",몇 가지 물어보고 싶어.,q2d6lizard1,,,,,0,0
+105126,PC,Player Character,"""I don't see any illithid in here.""",여긴 일리시드가 안 보이는데.,q2d6lizard1,,,,,0,0
+105127,PC,Player Character,"""Actually, I'm trying to get access to the Elder Brain.""",사실 엘더 브레인에게 접근하려고 해.,q2d6lizard1,,q2d_brainalive,,,0,0
+105128,PC,Player Character,"""I'm interested in buying a thrall.""",노예를 사고 싶어.,q2d6lizard1,,,,,0,0
+105129,PC,Player Character,"""Tell me about the fighting pits.""",투기장에 대해 알려줘.,q2d6lizard1,,,,,0,0
+105130,PC,Player Character,"""Yes. I'm here to buy some thralls.""",응. 노예 사러 왔어.,q2d6lizard1,,,,,0,0
+105138,PC,Player Character,"""What is this? Some kind of trick!""",이게 뭐야? 속임수야!,q2d8greeter,,,,,0,0
+105139,PC,Player Character,"""What's going on here? Who are you?""",무슨 일이야? 넌 누구야?,q2d8greeter,,,,,0,0
+105140,PC,Player Character,"""A dream? What are you talking about?""",꿈? 무슨 소리야?,q2d8greeter,,,,,0,0
+105141,PC,Player Character,<StartAction>[Attempt to disbelieve your surroundings.]</Start>,<StartAction>[주변 환경이 환영임을 깨닫습니다.]</Start>,q2d8greeter,,,,,0,0
+105142,PC,Player Character,<StartAction>[Go with your charming host.]</Start>,<StartAction>[매력적인 주인과 함께 갑니다.]</Start>,q2d8greeter,,,,,0,0
+105237,PC,Player Character,"""Die, you tentacle-faced freak!""","죽어라, 촉수 달린 괴물!",q2dgatekeeper,q2d1_illithidatk,,,,0,0
+105238,PC,Player Character,"""I've come to purchase thralls from your auctions."" ",경매에서 노예를 사러 왔어.,q2dgatekeeper,,,,,0,0
+105239,PC,Player Character,"""I guess if that's the only way in..."" <StartAction>Remove your helm.</Start>",그게 유일한 방법이라면... <StartAction>투구를 벗습니다.</Start>,q2dgatekeeper,,,,,0,0
+105240,PC,Player Character,"<StartAction>Intimidate</Start> ""I'm here to buy thralls. Step aside, or I'll see you are added to the next auction.""","<StartAction>위협</Start> 노예 사러 왔어. 비켜, 안 그럼 다음 경매에 네가 올라가게 해주지.",q2dgatekeeper,,,,,0,0
+105241,PC,Player Character,"""I am here to buy thralls, not become one. The helm stays on.""",노예를 사러 온 거지 노예가 되러 온 게 아냐. 투구는 안 벗어.,q2dgatekeeper,,,,,0,0
+105269,PC,Player Character,"""Quiet! I don't answer to thralls.""","""조용히 해! 난 노예들한테 대답 안 해.""",q2dslaveleader,,,,,0,0
+105270,PC,Player Character,"""The warden is dead. I killed him myself.""","""감시관은 죽었어. 내가 직접 죽였지.""",q2dslaveleader,,,,,0,0
+105271,PC,Player Character,"""I don't serve anyone - but I kill everyone!"" <StartAction>Attack the thralls.</Start>","""난 누구도 섬기지 않아 - 하지만 모두를 죽이지!"""""" <StartAction>노예들을 공격한다.</Start>""",q2dslaveleader,act_q2dslaveld_1,,,,0,0
+105272,PC,Player Character,"""I'm here to free you.""","""널 해방시키러 왔어.""",q2dslaveleader,,,,,0,0
+105273,PC,Player Character,"""Hold on - I have some questions for you.""","""잠깐 - 질문 좀 할게.""",q2dslaveleader,,,,,0,0
+105274,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2dslaveleader,,,,,0,0
+105275,PC,Player Character,"""Battle on, Argosus.""","""싸워, 아르고수스.""",q2dslaveleader,,,,,0,0
+105276,PC,Player Character,"""It doesn't matter. Go fight for your freedom.""","""상관없어. 가서 자유를 위해 싸워.""",q2dslaveleader,,,,,0,0
+105277,PC,Player Character,"""That's right. I can't let you go yet.""","""그래. 아직 보낼 수 없어.""",q2dslaveleader,,,,,0,0
+105278,PC,Player Character,"""Wait! If you escape now the whole city will go hostile.""","""기다려! 지금 탈출하면 도시 전체가 적대적으로 변할 거야.""",q2dslaveleader,,,,,0,0
+105279,PC,Player Character,"""Just wait a bit. Just until I get to the Elder Brain.""","""조금만 기다려. 내가 엘더 브레인에 도착할 때까지만.""",q2dslaveleader,,,,,0,0
+105280,PC,Player Character,"""You're right. Go now, before it's too late. Hurry.""","""네 말이 맞아. 지금 가, 너무 늦기 전에. 서둘러.""",q2dslaveleader,,,,,0,0
+105281,PC,Player Character,"<StartAction>Intimidate</Start> ""Either give me some time, or I'll kill you all now!""","<StartAction>위협</Start> ""시간을 줘, 아니면 지금 당장 다 죽일 거야!""",q2dslaveleader,,,,,0,0
+105282,PC,Player Character,"<StartAction>Bluff</Start> ""I'm going to poison the Elder Brain, crippling all the illithid.""","<StartAction>허세</Start> ""엘더 브레인을 독살해서 일리시드를 전부 무력화시킬 거야.""""""",q2dslaveleader,,,,,0,0
+105283,PC,Player Character,"<StartAction>Persuade</Start> ""Consider it payback for me freeing you.""","<StartAction>설득</Start> ""널 해방시켜 준 것에 대한 보답이라고 생각해.""""""",q2dslaveleader,,,,,0,0
+105284,PC,Player Character,"""You're annoying me. Time to die."" <StartAction>Attack the thralls.</Start>","""짜증나게 하는군. 죽을 시간이야."""""" <StartAction>노예들을 공격한다.</Start>""",q2dslaveleader,act_q2dslaveld_1,,,,0,0
+105285,PC,Player Character,"""You're free. Go now, before the illithid discover you've escaped.""","""이제 자유야. 일리시드가 탈출한 걸 발견하기 전에 가.""",q2dslaveleader,,,,,0,0
+105286,PC,Player Character,"""I have some questions for you.""","""질문 좀 할게.""",q2dslaveleader,,,,,0,0
+105288,PC,Player Character,"""You disgust me, slaver! You deserve death!"" <StartAction>Attack the duergar.</Start>",역겨운 노예상! 죽어 마땅해! <StartAction>듀에르가를 공격합니다.</Start>,q2firstslaver,,,,,0,0
+105289,PC,Player Character,"""Thanks for the tip.""",조언 고마워.,q2firstslaver,,,,,0,0
+105290,PC,Player Character,"""You're mistaken - I'm no slaver!""",착각이야. 난 노예상이 아냐!,q2firstslaver,,,,,0,0
+105291,PC,Player Character,"""Nobody threatens me!"" <StartAction>Attack the duergar.</Start>",날 협박하는 건 누구도 못 해! <StartAction>듀에르가를 공격합니다.</Start>,q2firstslaver,,,,,0,0
+105292,PC,Player Character,"""If you attack me, you're all dead!""",날 공격하면 다 죽어!,q2firstslaver,,,,,0,0
+105293,PC,Player Character,"""Where can I get one of those helms?""",그 투구는 어디서 구해?,q2firstslaver,,,,,0,0
+105301,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q3a_gong,,,,,0,0
+105302,PC,Player Character,<StartAction>Ring the gong.</Start>,<StartAction>징을 칩니다.</Start>,q3a_gong,q3a_at_gong1,,,,0,0
+105303,PC,Player Character,<StartCheck>[Lore]</Start> <StartAction>Decipher the symbols.</Start>,<StartCheck>[전승지식]</Start> <StartAction>상징을 해독합니다.</Start>,q3a_gong,,,,,0,0
+105307,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q3b_altar,,,,,0,0
+105308,PC,Player Character,<StartAction>Place a black pearl upon the altar.</Start>,<StartAction>제단에 검은 진주를 올려놓습니다.</Start>,q3b_altar,,q3b_sc_altar1,,,0,0
+105311,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q3b_pit,,,,,0,0
+105312,PC,Player Character,<StartAction>Fasten the rope and use it to climb down the pit.</Start>,<StartAction>밧줄을 묶고 구덩이로 내려갑니다.</Start>,q3b_pit,q3b_at_pit1,q3b_sc_pit2,,,0,0
+105313,PC,Player Character,<StartAction>Throw a stone into the pit.</Start>,<StartAction>구덩이에 돌을 던집니다.</Start>,q3b_pit,,q3b_sc_pit1,,,0,0
+105314,PC,Player Character,<StartAction>Climb down the rope.</Start>,<StartAction>밧줄을 타고 내려갑니다.</Start>,q3b_pit,q3b_at_pit3,q3b_sc_pit3,,,0,0
+105316,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q3c_bones,,,,,0,0
+105317,PC,Player Character,<StartAction>Empty the deva's blood onto the bones.</Start>,<StartAction>뼈에 데바의 피를 쏟습니다.</Start>,q3c_bones,q3c_at_bones1,q3c_sc_bones1,,,0,0
+105326,PC,Player Character,<StartAction>Attack the corpse.</Start>,<StartAction>시체를 공격합니다.</Start>,q3c_coffin,,,,,0,0
+105327,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q3c_coffin,,,,,0,0
+105328,PC,Player Character,<StartAction>Drive a piece of wood through the creature's heart.</Start>,<StartAction>생명체의 심장에 나무 조각을 박습니다.</Start>,q3c_coffin,q3c_at_coffin1,q3c_sc_coffin1,,,0,0
+105330,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,q3c_machine,,,,,0,0
+105331,PC,Player Character,<StartAction>Grab the crystal.</Start>,<StartAction>수정을 잡습니다.</Start>,q3c_machine,q3c_at_machine2,,,,0,0
+105332,PC,Player Character,<StartAction>Pull the lever.</Start>,<StartAction>레버를 당깁니다.</Start>,q3c_machine,q3c_at_machine1,,,,0,0
+105333,PC,Player Character,<StartAction>Place the Nullifier Rod inside the slot.</Start>,<StartAction>슬롯에 무력화 단장을 넣습니다.</Start>,q3c_machine,q3c_at_machine3,q3c_sc_machine1,,,0,0
+105355,PC,Player Character,"""Goodbye.""","""안녕.""",q3pit_cultelder,,,,,0,0
+105356,PC,Player Character,"""Who are you?""","""넌 누구야?""",q3pit_cultelder,,,,,0,0
+105357,PC,Player Character,"""I serve no will but my own.""","""난 내 자신의 뜻만을 따를 뿐이야.""",q3pit_cultelder,,,,,0,0
+105358,PC,Player Character,"""I volunteered.""","""자원했어.""",q3pit_cultelder,,,,,0,0
+105359,PC,Player Character,"""Yes, I was chosen.""","""그래, 선택받았어.""",q3pit_cultelder,,,,,0,0
+105360,PC,Player Character,"""Keep your comments to yourself, creep.""","""네 의견은 네가 알아서 간직해, 이상한 놈아.""",q3pit_cultelder,,,,,0,0
+105361,PC,Player Character,"""What does Vix'thra desire?""","""빅스트라는 뭘 원해?""",q3pit_cultelder,,,,,0,0
+105362,PC,Player Character,"""I am here to serve.""","""섬기러 왔어.""",q3pit_cultelder,,,,,0,0
+105363,PC,Player Character,"""Sorry, I don't intend to part with them.""","""미안하지만, 그걸 넘겨줄 생각은 없어.""",q3pit_cultelder,,,,,0,0
+105364,PC,Player Character,"""If it is Vix'thra's wish, they are his.""","""빅스트라가 원한다면, 그의 것이지.""",q3pit_cultelder,,,,,0,0
+105365,PC,Player Character,"""Why is he so interested in bones?""","""왜 그렇게 뼈에 관심이 많아?""",q3pit_cultelder,,,,,0,0
+105487,PC,Player Character,<StartAction>[Attack the High Priest.]</Start>,<StartAction>[대사제를 공격합니다.]</Start>,q3vil_cut_armand,q3a_at_armand6,,,,0,0
+105488,PC,Player Character,<StartAction>[Remain silent.]</Start>,<StartAction>[가만히 있습니다.]</Start>,q3vil_cut_armand,,,,,0,0
+105489,PC,Player Character,"""I will.""",그러지.,q3vil_cut_armand,,,,,0,0
+105657,PC,Player Character,"""Goodbye.""","""잘 가.""",q3vil_merchant,,,,,0,0
+105658,PC,Player Character,"""You're scared of the priests, aren't you.""","""사제들이 무섭지?""",q3vil_merchant,,q3c_rumor_priest,,,0,0
+105659,PC,Player Character,"""How does a Ceremony get called?""","""의식은 어떻게 열리는 거야?""",q3vil_merchant,,q3c_rumor_lotter,,,0,0
+105660,PC,Player Character,"""This town has some odd folk, doesn't it...""","""이 마을엔 좀 이상한 사람들이 있네...""",q3vil_merchant,,q3c_vixarmlive,,,0,0
+105661,PC,Player Character,"""Now, about my other questions...""","""이제 다른 질문들에 대해...""",q3vil_merchant,,,,,0,0
+105662,PC,Player Character,"""Is there anyone else around here?""","""여기 다른 사람도 있어?""",q3vil_merchant,,,,,0,0
+105663,PC,Player Character,"""Vix'thra?""","""빅스트라?""",q3vil_merchant,,,,,0,0
+105664,PC,Player Character,"""What kind of bone creatures did the drow have?""","""드로우가 가지고 있던 뼈 생명체들은 어떤 거였어?""",q3vil_merchant,,,,,0,0
+105665,PC,Player Character,"""Tell me about the slave masters.""","""노예 감독자들에 대해 말해줘.""",q3vil_merchant,,,,,0,0
+105666,PC,Player Character,"""This town's built of former slaves, then?""","""이 마을은 전 노예들이 세운 거야?""",q3vil_merchant,,,,,0,0
+105667,PC,Player Character,"""What can you tell me about the priests?""","""사제들에 대해 뭘 말해줄 수 있어?""",q3vil_merchant,,,,,0,0
+105668,PC,Player Character,"""Do they have any enemies? Friends?""","""적들이 있어? 친구들은?""",q3vil_merchant,,,,,0,0
+105669,PC,Player Character,"""Who are you?""","""넌 누구야?""",q3vil_merchant,,,,,0,0
+105670,PC,Player Character,"""The people here are scared of names?""","""여기 사람들은 이름을 두려워해?""",q3vil_merchant,,,,,0,0
+105671,PC,Player Character,"""You're not very good at... marketing, are you...""","""넌 장사에 그다지 소질이... 없는 것 같네...""",q3vil_merchant,,,,,0,0
+105672,PC,Player Character,<StartAction>[View Store.]</Start>,<StartAction>[상점 보기.]</Start>,q3vil_merchant,q3a_at_merchant1,,,,0,0
+105687,PC,Player Character,"""Goodbye.""","""안녕.""",q3vil_templguard,,,,,0,0
+105688,PC,Player Character,<StartCheck>[Dexterity]</Start> <StartAction>[Snap the priest's neck.]</Start>,<StartCheck>[민첩]</Start> <StartAction>[사제의 목을 부러뜨린다.]</Start>,q3vil_templguard,,q3c_false,,,0,0
+105689,PC,Player Character,"""Why are the villagers afraid of you?""","""마을 사람들이 왜 너희를 두려워해?""",q3vil_templguard,,q3c_rumor_priest,,,0,0
+105690,PC,Player Character,"""How does a Ceremony get called?""","""의식은 어떻게 요청해?""",q3vil_templguard,,q3c_rumor_lotter,,,0,0
+105691,PC,Player Character,"""I wish to enter the temple.""","""신전에 들어가고 싶어.""",q3vil_templguard,,,,,0,0
+105692,PC,Player Character,"""Back to my other questions...""","""다른 질문들로 돌아가자...""",q3vil_templguard,,,,,0,0
+105693,PC,Player Character,"""If I cannot enter, how may I worship Vix'thra?""","""들어갈 수 없다면, 빅스트라를 어떻게 숭배해?""",q3vil_templguard,,,,,0,0
+105694,PC,Player Character,"""I wish to speak with your leader.""","""너희 지도자와 얘기하고 싶어.""",q3vil_templguard,,,,,0,0
+105695,PC,Player Character,"""Do you not offer any services?""","""아무 서비스도 제공하지 않아?""",q3vil_templguard,,,,,0,0
+105696,PC,Player Character,"""Vix'thra?""","""빅스트라?""",q3vil_templguard,,,,,0,0
+105697,PC,Player Character,<StartAction>[View Store.]</Start>,<StartAction>[상점을 본다.]</Start>,q3vil_templguard,q3a_at_guard1,q3c_temple_store,,,0,0
+105871,PC,Player Character,"""That's all for now.""",이제 됐어.,q4b_merchant,,,,,0,0
+105872,PC,Player Character,"""Let me look at your supplies.""",물건 좀 보자.,q4b_merchant,,,,,0,0
+105873,PC,Player Character,"""I want to ask you some questions.""",몇 가지 물어보고 싶어.,q4b_merchant,,,,,0,0
+105874,PC,Player Character,"""Do you know anything about a drow matron called the Valsharess?""",발샤레스라는 드로우 대모에 대해 아는 거 있어?,q4b_merchant,,,,,0,0
+105875,PC,Player Character,"""What can you tell me about this island?""",이 섬에 대해 뭘 알려줄 수 있어?,q4b_merchant,,,,,0,0
+105876,PC,Player Character,"""Why are all you duergar here?""",왜 듀에르가들이 다 여기 있어?,q4b_merchant,,,,,0,0
+105877,PC,Player Character,"""Golems?""",골렘?,q4b_merchant,,,,,0,0
+105882,PC,Player Character,<StartAction>Leave the rat alone.</Start>,<StartAction>쥐를 그냥 둡니다.</Start>,q4b_rat,,,,,0,0
+105883,PC,Player Character,<StartAction>Look deeper into the rat's mind.</Start>,<StartAction>쥐의 마음 깊은 곳을 들여다봅니다.</Start>,q4b_rat,,,,,0,0
+105884,PC,Player Character,<StartAction>Convince the rat to show you the hidden secrets.</Start>,<StartAction>쥐에게 숨겨진 비밀을 보여달라고 설득합니다.</Start>,q4b_rat,,,,,0,0
+106012,PC,Player Character,Aghaaz has no claim over any of us! Why do you follow him?,아가즈는 우리 누구에게도 권한이 없어! 왜 따르는 거야?,q4c_cutscene1,,,,vs_nx2golgm_59,0,0
+106013,PC,Player Character,The Maker is dead! Aghaaz rules only for Aghaaz. We will never bow down to him!,제작자는 죽었어! 아가즈는 자기 자신만을 위해 지배해. 우린 절대 복종 안 해!,q4c_cutscene1,,,,vs_nx2golgm_60,0,0
+106219,PC,Player Character,"""Sorry, I'll be going now.""","미안, 이만 갈게.",q4c_powerdoor,,,,,0,0
+106220,PC,Player Character,"""Step aside, if you know what's good for you.""",똑바로 생각한다면 비켜.,q4c_powerdoor,,,,,0,0
+106221,PC,Player Character,"<StartAction>Persuade: Bluff</Start> ""Aghaaz said it's okay for me to go in.""",<StartAction>설득: 허세</Start> 아가즈가 들어가도 된다고 했어.,q4c_powerdoor,,,,,0,0
+106222,PC,Player Character,"""You can't stop me if you're dead!"" <StartAction>Attack the golem.</Start>",죽으면 못 막지! <StartAction>골렘을 공격합니다.</Start>,q4c_powerdoor,q4d_golems_attac,,,,0,0
+106224,PC,Player Character,<StartAction>Leave it.</Start>,<StartAction>그냥 둡니다.</Start>,q4c_psource,,,,,0,0
+106225,PC,Player Character,<StartAction>Take the power source.</Start>,<StartAction>동력원을 가져갑니다.</Start>,q4c_psource,q4c_at_psource1,,,,0,0
+106231,PC,Player Character,<StartAction>Leave the rat alone.</Start>,<StartAction>쥐를 그냥 둡니다.</Start>,q4c_rat,,,,,0,0
+106232,PC,Player Character,<StartAction>Look deeper into the rat's mind.</Start>,<StartAction>쥐의 마음 깊은 곳을 들여다봅니다.</Start>,q4c_rat,,,,,0,0
+106233,PC,Player Character,<StartAction>Convince the rat to move the lever.</Start>,<StartAction>쥐에게 레버를 움직이라고 설득합니다.</Start>,q4c_rat,,,,,0,0
+106238,PC,Player Character,"""Sorry - no peace. But I'll turn you into pieces!"" <StartAction>Attack</Start>","미안한데, 평화는 없어. 대신 조각조각 내줄게! <StartAction>공격합니다.</Start>",q4c_scoutaghaaz,q4c_at_agscout2,,,,0,0
+106239,PC,Player Character,"""What are you talking about?""",무슨 소리야?,q4c_scoutaghaaz,,,,,0,0
+106240,PC,Player Character,"""Okay, take me to Aghaaz.""","좋아, 아가즈에게 데려가.",q4c_scoutaghaaz,q4c_at_agscout1,,,,0,0
+106241,PC,Player Character,"""How do I know this isn't a trick?""",속임수가 아닌지 어떻게 알아?,q4c_scoutaghaaz,,,,,0,0
+106246,PC,Player Character,"""I don't parlay with golems - I smash them!"" <StartAction>Attack</Start>",골렘이랑 협상 안 해. 부숴버릴 뿐이지! <StartAction>공격합니다.</Start>,q4c_scoutferron,q4c_at_agscout2,,,,0,0
+106247,PC,Player Character,"""A peace? What are you talking about?""",평화? 무슨 소리야?,q4c_scoutferron,,,,,0,0
+106248,PC,Player Character,"""Okay, take me to this Ferron.""","좋아, 이 페론에게 데려가.",q4c_scoutferron,q4c_at_fescout1,,,,0,0
+106249,PC,Player Character,"""How do I know this isn't a trick?""",속임수가 아닌지 어떻게 알아?,q4c_scoutferron,,,,,0,0
+106266,PC,Player Character,<StartAction>Leave it alone.</Start>,<StartAction>그냥 놔둡니다.</Start>,q4d_conduit,,,,,0,0
+106267,PC,Player Character,<StartAction>Cast a spell on the conduit.</Start>,<StartAction>도관에 주문을 시전합니다.</Start>,q4d_conduit,,,,,0,0
+106268,PC,Player Character,<StartAction>Cast Mordenkainen's Disjunction.</Start>,<StartAction>모덴카이넨의 분열을 시전합니다.</Start>,q4d_conduit,,q4_d2_s_mord_dis,,,0,0
+106269,PC,Player Character,<StartAction>Cast Chain Lightning.</Start>,<StartAction>연쇄 번개를 시전합니다.</Start>,q4d_conduit,,q4_d2_s_chain_li,,,0,0
+106270,PC,Player Character,<StartAction>Cast True Seeing.</Start>,<StartAction>진실의 시야를 시전합니다.</Start>,q4d_conduit,,q4_d2_s_true_see,,,0,0
+106271,PC,Player Character,<StartAction>Cast Mass Haste.</Start>,<StartAction>대규모 가속을 시전합니다.</Start>,q4d_conduit,,q4_d2_s_mass_has,,,0,0
+106272,PC,Player Character,<StartAction>Cast Premonition.</Start>,<StartAction>예감을 시전합니다.</Start>,q4d_conduit,,q4_d2_s_premonit,,,0,0
+106273,PC,Player Character,<StartAction>Cast Time Stop.</Start>,<StartAction>시간 정지를 시전합니다.</Start>,q4d_conduit,,q4_d2_s_time_sto,,,0,0
+106274,PC,Player Character,<StartAction>Cast Greater Sanctuary.</Start>,<StartAction>상급 성역을 시전합니다.</Start>,q4d_conduit,,q4_d2_s_ethereal,,,0,0
+106275,PC,Player Character,<StartAction>Cast Bigby's Crushing Hand.</Start>,<StartAction>빅비의 분쇄하는 손을 시전합니다.</Start>,q4d_conduit,,q4_d2_s_bigbys_c,,,0,0
+106276,PC,Player Character,<StartAction>Cast Greater Spell Mantle.</Start>,<StartAction>상급 주문 방호막을 시전합니다.</Start>,q4d_conduit,,q4_d2_s_spell_ma,,,0,0
+106283,PC,Player Character,"""I answer to no one!""",난 누구 밑에도 있지 않아!,q4d_keeper,,,,,0,0
+106284,PC,Player Character,"""Step aside, foul creature!""","비켜, 더러운 괴물!",q4d_keeper,,,,,0,0
+106285,PC,Player Character,"""I... I don't know the word.""",나... 난 암호를 몰라.,q4d_keeper,,,,,0,0
+106286,PC,Player Character,"""I know the word of passage: dragisla.""",통행 암호를 알아. 드르가시알이야.,q4d_keeper,,q4d_sc_keeper1,,,0,0
+106310,PC,Player Character,"""Die, foul creature!""","""죽어라, 괴물아!""",q4d_maker,,,,,0,0
+106311,PC,Player Character,"""Are you the Maker?""","""넌 제작자야?""",q4d_maker,,,,,0,0
+106312,PC,Player Character,"""I'm going to destroy you!""","""널 파괴하겠어!""",q4d_maker,,,,,0,0
+106313,PC,Player Character,"""Your children? You mean the golems?""","""네 자식들? 골렘들을 말하는 거야?""",q4d_maker,,,,,0,0
+106314,PC,Player Character,"""What are you talking about?""","""무슨 얘기를 하는 거야?""",q4d_maker,,,,,0,0
+106315,PC,Player Character,"""I have to go.""","""이제 가봐야 해.""",q4d_maker,,,,,0,0
+106316,PC,Player Character,"""I couldn't care less about this.""","""이런 건 전혀 관심 없어.""",q4d_maker,,,,,0,0
+106317,PC,Player Character,"""Maybe the problem was you.""","""문제는 네가 아니었을까.""",q4d_maker,,,,,0,0
+106318,PC,Player Character,"""How so?""","""어떻게?""",q4d_maker,,,,,0,0
+106319,PC,Player Character,"""And have you found perfection yet?""","""그래서 아직 완벽함을 찾았어?""",q4d_maker,,,,,0,0
+106320,PC,Player Character,"""You abandoned the golems to become a demi-lich?""","""골렘들을 버리고 데미리치가 된 거야?""",q4d_maker,,,,,0,0
+106321,PC,Player Character,"""You're obviously insane.""","""넌 명백히 미쳤어.""",q4d_maker,,,,,0,0
+106322,PC,Player Character,"""What happens when you finish this perfect golem?""","""완벽한 골렘을 완성하면 무슨 일이 일어나는데?""",q4d_maker,,,,,0,0
+106323,PC,Player Character,"""What still has to be done?""","""아직 뭘 해야 해?""",q4d_maker,,,,,0,0
+106324,PC,Player Character,"""But your golems have evolved since you came down here.""","""하지만 네가 여기 온 이후 골렘들은 진화했어.""",q4d_maker,,,,,0,0
+106325,PC,Player Character,"""My name is <FullName>.""","""내 이름은 <FullName>이야.""",q4d_maker,,,,,0,0
+106429,PC,Player Character,"<StartAction>[Attack]</Start> ""Time to die, drow!""","<StartAction>[공격]</Start> 죽을 시간이야, 드로우!",q5a_eldath,,,,,0,0
+106430,PC,Player Character,"""I believe you have mistaken me for someone else.""",날 다른 사람으로 착각한 것 같은데.,q5a_eldath,,,,,0,0
+106431,PC,Player Character,"""How do you know so much about me?""",어떻게 날 그렇게 잘 알아?,q5a_eldath,,,,,0,0
+106432,PC,Player Character,"""Who are you?""",넌 누구야?,q5a_eldath,,,,,0,0
+106433,PC,Player Character,"<StartCheck>[Bluff]</Start> ""I am not who you are looking for...""",<StartCheck>[허세]</Start> 네가 찾는 사람이 아냐...,q5a_eldath,,,,,0,0
+106434,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I am sure we can come into some kind of an agreement...""",<StartCheck>[설득]</Start> 뭔가 합의점을 찾을 수 있을 것 같은데...,q5a_eldath,,,,,0,0
+106435,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Return to the hole in the ground you came from if you wish to live, drow!""","<StartCheck>[위협]</Start> 살고 싶으면 네가 나온 구멍으로 돌아가, 드로우!",q5a_eldath,,,,,0,0
+106437,PC,Player Character,<StartAction>Step away.</Start>,<StartAction>물러납니다.</Start>,q5b_hole,,,,,0,0
+106438,PC,Player Character,<StartAction>Go down the hole.</Start>,<StartAction>구멍으로 내려갑니다.</Start>,q5b_hole,q5b_at_hole1,,,,0,0
+106440,PC,Player Character,<StartAction>Step away</Start>,<StartAction>물러납니다.</Start>,q5c_boulder,,,,,0,0
+106441,PC,Player Character,<StartAction>Climb the boulder.</Start>,<StartAction>바위를 오릅니다.</Start>,q5c_boulder,q5c_at_boulder1,,,,0,0
+106443,PC,Player Character,<StartAction>Pray to your deity for help</Start>,<StartAction>신에게 도움을 기도합니다.</Start>,q5c_dead_magic,q5c_at_magic1,q5c_sc_magic,,,0,0
+106447,PC,Player Character,<StartAction>[Randomly touch a few of the symbols]</Start>,<StartAction>[무작위로 상징 몇 개를 만집니다.]</Start>,q5c_device,q5c_at_device8,,,,0,0
+106448,PC,Player Character,<StartCheck>[Lore]</Start> Try to decipher the meaning of the symbols.,<StartCheck>[전승지식]</Start> <StartAction>상징의 의미를 해독해봅니다.</Start>,q5c_device,q5c_at_device2,,,,0,0
+106449,PC,Player Character,<StartCheck>[Spellcraft]</Start> Try to decipher the meaning of the symbols.,<StartCheck>[주문숙련]</Start> <StartAction>상징의 의미를 해독해봅니다.</Start>,q5c_device,q5c_at_device1,,,,0,0
+106450,PC,Player Character,<StartAction>[Leave the device.]</Start>,<StartAction>[장치를 그냥 둡니다.]</Start>,q5c_device,,,,,0,0
+106451,PC,Player Character,<StartAction>[Touch the symbols in the order of the Stone Skin spell]</Start>,<StartAction>[돌 피부 주문 순서대로 상징을 만집니다.]</Start>,q5c_device,q5c_at_device7,,,,0,0
+106452,PC,Player Character,<StartAction>[Touch the symbols in the order of the Sound Burst spell]</Start>,<StartAction>[음파 폭발 주문 순서대로 상징을 만집니다.]</Start>,q5c_device,q5c_at_device6,,,,0,0
+106453,PC,Player Character,<StartAction>[Touch the symbols in the order of the Knock spell]</Start>,<StartAction>[열쇠 주문 순서대로 상징을 만집니다.]</Start>,q5c_device,q5c_at_device5,,,,0,0
+106454,PC,Player Character,<StartAction>[Touch the symbols in the order of the Healing Circle spell]</Start>,<StartAction>[치유의 원 주문 순서대로 상징을 만집니다.]</Start>,q5c_device,q5c_at_device4,,,,0,0
+106455,PC,Player Character,<StartAction>[Touch the symbols in the order of the Lightning Bolt spell]</Start>,<StartAction>[전격 주문 순서대로 상징을 만집니다.]</Start>,q5c_device,q5c_at_device3,,,,0,0
+106486,PC,Player Character,"""Sorry. I only fight to the death!"" <StartAction>Attack the apprentice.</Start>",미안해. 난 죽을 때까지만 싸워! <StartAction>견습생을 공격한다.</Start>,q6_apprentice,nw_d1_attonend02,,,,0,0
+106487,PC,Player Character,"""Don't worry. I don't kill those who surrender to me.""","""걱정 마. 항복한 자는 죽이지 않아.""",q6_apprentice,,,,,0,0
+106488,PC,Player Character,"""I've given it some thought, and I've decided you have to die!"" <StartAction>Attack the apprentice.</Start>","생각해 봤는데, 네가 죽어야겠어! <StartAction>견습생을 공격한다.</Start>",q6_apprentice,nw_d1_attonend02,,,,0,0
+106489,PC,Player Character,"""So what happens now?""","""이제 어떻게 되는 거야?""",q6_apprentice,,,,,0,0
+106490,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q6_apprentice,,,,,0,0
+106491,PC,Player Character,"""You better come up with a better reward if you want to live!""","""살고 싶으면 더 나은 보상을 내놔!""",q6_apprentice,,,,,0,0
+106492,PC,Player Character,"""I'll let you live if you answer some questions.""","""질문에 답하면 살려줄게.""",q6_apprentice,,,,,0,0
+106493,PC,Player Character,"""Not yours? What do you mean?""","""네 것이 아니라고? 무슨 뜻이야?""",q6_apprentice,,,,,0,0
+106494,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q6_apprentice,,,,,0,0
+106495,PC,Player Character,"""How did a town of winged elves end up in the Underdark?""","""날개달린 엘프 마을이 어떻게 언더다크에 있게 된 거야?""",q6_apprentice,,,,,0,0
+106496,PC,Player Character,"""What can you tell me about the castle?""","""성에 대해 뭘 말해줄 수 있어?""",q6_apprentice,,,,,0,0
+106497,PC,Player Character,"""How did you get that mirror shard you gave me?""","""내게 준 거울 파편은 어떻게 구한 거야?""",q6_apprentice,,,,,0,0
+106498,PC,Player Character,"""Who are you?""","""넌 누구야?""",q6_apprentice,,,,,0,0
+106499,PC,Player Character,"""Give me one reason I should let you live.""","""살려줄 이유를 하나 말해봐.""",q6_apprentice,,,,,0,0
+106976,PC,Player Character,"""I'll be going now.""",이만 가볼게.,q6_queen2,,,,,0,0
+106977,PC,Player Character,"""You said your invulnerability is gone? Time to die!"" <StartAction>Attack the Queen.</Start>",무적이 사라졌다고? 죽을 시간이야! <StartAction>여왕을 공격합니다.</Start>,q6_queen2,q6_attackqueen,,,,0,0
+106978,PC,Player Character,"""So is there some reward for helping you?""",도와준 것에 대한 보상 같은 건 없어?,q6_queen2,,,,,0,0
+106979,PC,Player Character,"""You thought wrong. I want more.""",착각이야. 더 줘야지.,q6_queen2,,,,,0,0
+106980,PC,Player Character,"""What about the fool? What happens to him now?""",바보는 어떻게 돼? 이제 어떻게 되는 거야?,q6_queen2,,,,,0,0
+106981,PC,Player Character,"""I suppose you're right.""",당신 말이 맞는 것 같네요.,q6_queen2,,,,,0,0
+106982,PC,Player Character,"""That's it? You're just going to leave him like that?""",그게 다야? 그냥 저 상태로 놔둘 거야?,q6_queen2,,,,,0,0
+106983,PC,Player Character,"""It was a pleasure to help you, my lady.""","도와드릴 수 있어서 영광이었습니다, 여왕님.",q6_queen2,,,,,0,0
+107159,PC,Player Character,"""Your apprentice is dead.""","""네 견습생은 죽었어.""",q6_wizard,,q6_apprendead,,,0,0
+107160,PC,Player Character,"""Your apprentice gave me the shard from the magic mirror.""","""네 견습생이 마법 거울의 파편을 줬어.""",q6_wizard,,q6_wiz_shard,,,0,0
+107161,PC,Player Character,"""Goodbye.""","""안녕.""",q6_wizard,,,,,0,0
+107162,PC,Player Character,"""Out of my way, old man!""","""비켜, 노인네!""",q6_wizard,,,,,0,0
+107163,PC,Player Character,"""Can I ask you some questions?""","""질문 좀 해도 될까?""",q6_wizard,,,,,0,0
+107164,PC,Player Character,"""I've got no further use for you. Time to die."" <StartAction>Attack.</Start>",너한테 더 이상 쓸모가 없어. 죽을 시간이야. <StartAction>공격한다.</Start>,q6_wizard,q6_at_wizard1,,,,0,0
+107165,PC,Player Character,"""What can you tell me about the tower?""","""탑에 대해 뭘 말해줄 수 있어?""",q6_wizard,,,,,0,0
+107166,PC,Player Character,"""Tell me about your apprentice.""","""네 견습생에 대해 말해줘.""",q6_wizard,,,,,0,0
+107167,PC,Player Character,"""Does your apprentice still have this mirror shard?""","""네 견습생이 아직 이 거울 파편을 갖고 있어?""",q6_wizard,,q6_wiz_shard,,,0,0
+107168,PC,Player Character,"""Why did you give up on magic?""","""왜 마법을 포기한 거야?""",q6_wizard,,,,,0,0
+107169,PC,Player Character,"""I'm looking for pieces of a broken mirror.""","""부서진 거울 조각을 찾고 있어.""",q6_wizard,,q6_mirror10,,,0,0
+107170,PC,Player Character,"""I'm <FullName>. Pleased to meet you.""","""나는 <FullName>이야. 만나서 반가워.""",q6_wizard,,,,,0,0
+107171,PC,Player Character,"""Why? What's wrong with the tower?""","""왜? 탑에 무슨 문제라도 있어?""",q6_wizard,,,,,0,0
+107172,PC,Player Character,"""Former archmage? What do you mean by that?""","""전직 대마법사? 무슨 뜻이야?""",q6_wizard,,,,,0,0
+107173,PC,Player Character,"""How can you just throw away your entire life's work?""","""어떻게 평생의 업적을 그냥 버릴 수 있어?""",q6_wizard,,,,,0,0
+107178,PC,Player Character,"""I thought you were bound to do her bidding?""",여왕의 명령에 복종해야 하는 거 아니야?,q7_cut_meph1b,,,,,0,0
+107179,PC,Player Character,"""An extension of yourself...?""",자신의 연장이라고...?,q7_cut_meph1b,,,,,0,0
+107180,PC,Player Character,"""You mean... the Relic of the Reaper?""",그러니까... 사신의 유물?,q7_cut_meph1b,,,,,0,0
+107181,PC,Player Character,"""There is no way you could have planned this!""",이걸 계획했을 리 없어!,q7_cut_meph1b,,,,,0,0
+107182,PC,Player Character,"""Then I must send you back to the hell from which you came.""",그럼 네가 나온 지옥으로 돌려보내야겠군.,q7_cut_meph1b,,,,,0,0
+107183,PC,Player Character,"""But we are still allies, correct?""",그래도 우린 여전히 동맹이지?,q7_cut_meph1b,,q7_sc_betray01,,,0,0
+107184,PC,Player Character,"""So what does that mean now?""",그럼 이제 어떻게 되는 건데?,q7_cut_meph1b,,,,,0,0
+107185,PC,Player Character,"""You have advice for me, I suppose?""","""조언이 있는 것 같은데?""",q7_cut_meph3a,,,,,0,0
+107186,PC,Player Character,"""If you have something to say, be quick!""","""할 말이 있으면 빨리 해!""",q7_cut_meph3a,,,,,0,0
+107187,PC,Player Character,"""What do you mean?""","""무슨 뜻이야?""",q7_cut_meph3a,,,,,0,0
+107188,PC,Player Character,"""I don't know... you might be right...""","""모르겠어... 네 말이 맞을지도...""",q7_cut_meph3a,,,,,0,0
+107189,PC,Player Character,"""Very well. You have yourself a deal.""","""좋아. 거래하지.""",q7_cut_meph3a,,,,,0,0
+107190,PC,Player Character,"""I don't know. I'd have to think about it.""","""모르겠어. 생각해 봐야겠어.""",q7_cut_meph3a,,,,,0,0
+107191,PC,Player Character,"""I'm not listening to anything you have to say, devil!""","""네 말은 듣지 않을 거야, 마귀!""",q7_cut_meph3a,,,,,0,0
+107192,PC,Player Character,"""Forget it. I don't trust you any more than her.""","""관둬. 그녀보다 널 더 믿을 수 없어.""",q7_cut_meph3a,,,,,0,0
+107193,PC,Player Character,"""Doesn't she have you bound? How is it that you have a choice in this?""","""그녀가 너를 묶어두지 않았어? 어떻게 선택권이 있는 거야?""",q7_cut_meph3a,,,,,0,0
+107194,PC,Player Character,"""I will believe the Valsharess until she gives me reason not to.""","""발샤레스를 믿지 못할 이유가 생기기 전까지는 믿을 거야.""",q7_cut_meph3a,,,,,0,0
+107195,PC,Player Character,"""You think I will listen to a devil's lies? Hah!""","""마귀의 거짓말을 들을 것 같아? 웃기지!""",q7_cut_meph3a,,,,,0,0
+107196,PC,Player Character,"""I'm not so easy to double-cross.""","""나를 배신하긴 쉽지 않아.""",q7_cut_meph3a,,,,,0,0
+107197,PC,Player Character,"""Not if I betray her, first.""","""내가 먼저 배신하면 안 되지.""",q7_cut_meph3a,,,,,0,0
+107268,PC,Player Character,"""You wish to discuss an alliance again?""",다시 동맹에 대해 논의하고 싶은 거야?,q7_cut_val3,,,,,0,0
+107269,PC,Player Character,"""The rebels are winning, drow. Your time is done.""","반군이 이기고 있어, 드로우. 네 시대는 끝났어.",q7_cut_val3,,,,,0,0
+107270,PC,Player Character,"""You are a fool to bring me close enough to kill you.""",날 죽일 수 있을 만큼 가까이 오다니 바보로군.,q7_cut_val3,,,,,0,0
+107271,PC,Player Character,"""Where am I?! How did I get here?!""",여기가 어디야?! 어떻게 여기 온 거야?!,q7_cut_val3,,,,,0,0
+107272,PC,Player Character,"""What do you want from me?""",내게 뭘 원해?,q7_cut_val3,,,,,0,0
+107273,PC,Player Character,"""It is not too late for us to negotiate.""",협상하기엔 아직 늦지 않았어.,q7_cut_val3,,,,,0,0
+107274,PC,Player Character,"""You're the fool now. Time for you to die.""",이제 바보는 너야. 죽을 시간이야.,q7_cut_val3,,,,,0,0
+107275,PC,Player Character,"""You cannot take me prisoner!""",날 포로로 잡을 순 없어!,q7_cut_val3,,,,,0,0
+107276,PC,Player Character,"""You owe me, Valsharess. I kept my side of the bargain.""","빚을 갚아야지, 발샤레스. 내 몫은 다 했어.",q7_cut_val4a,,,,,0,0
+107277,PC,Player Character,"""And what's to stop me from killing you now?""",지금 당장 널 죽이지 못할 이유가 뭐야?,q7_cut_val4a,,,,,0,0
+107278,PC,Player Character,"""And who is this devil you have here?""",여기 있는 이 마귀는 누구야?,q7_cut_val4a,,,,,0,0
+107279,PC,Player Character,"""I am more interested in the power and wealth you offered.""",난 네가 제안한 힘과 부에 더 관심 있어.,q7_cut_val4a,,,,,0,0
+107280,PC,Player Character,"""Is that what I am to be, as well? A hound on a leash?""",나도 그렇게 될 거야? 줄에 묶인 사냥개처럼?,q7_cut_val4a,,,,,0,0
+107281,PC,Player Character,"""And how did you bind such a powerful being?""",그렇게 강력한 존재를 어떻게 묶어둔 거야?,q7_cut_val4a,,,,,0,0
+107282,PC,Player Character,"""So I see. What do you propose we do now?""",그렇군. 이제 어떻게 할 거야?,q7_cut_val4a,,,,,0,0
+107283,PC,Player Character,"""Why did you really bring me here?""",왜 진짜로 날 여기 불렀어?,q7_cut_val4a,,,,,0,0
+107284,PC,Player Character,"""Nothing at all. Just a friendly chat.""",아무것도 아냐. 그냥 친근한 대화지.,q7_cut_val6a,,,,,0,0
+107285,PC,Player Character,"""I don't like the tone of your voice.""",네 목소리 톤이 마음에 안 드는데.,q7_cut_val6a,,q7_sc_betray02,,,0,0
+107286,PC,Player Character,"""Your archdevil is trying to betray you, that's what's happening.""",네 대마귀가 널 배신하려는 거야.,q7_cut_val6a,,q7_sc_betray02,,,0,0
+107287,PC,Player Character,"""Wait! This isn't what it looks like...!""",잠깐! 이건 보이는 게 아냐...!,q7_cut_val6a,,q7_sc_betray02,,,0,0
+107288,PC,Player Character,"""We've decided we don't need you, drow.""","우린 네가 필요 없다고 결정했어, 드로우.",q7_cut_val6a,,q7_sc_betray01,,,0,0
+107289,PC,Player Character,"""It just seems you don't command your archdevil like you thought.""",네 대마귀를 생각만큼 통제하지 못하는 것 같은데.,q7_cut_val6a,,q7_sc_betray01,,,0,0
+107290,PC,Player Character,"""Wouldn't you like to know?""",알고 싶지?,q7_cut_val6a,,q7_sc_betray01,,,0,0

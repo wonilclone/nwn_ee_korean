@@ -1,0 +1,23 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17927,Dialog,BT,Greetings. Got a particular need this fine day?,안녕하세요. 오늘 특별히 찾으시는 게 있나요?,M1Q1A07S1BT,,,,,0,0
+17928,Dialog,BT,"Another time, friend.","다음에 봅시다, 친구.",M1Q1A07S1BT,,,,,0,0
+17929,Dialog,BT,"Nothing that needs to be said out in the open. Nope, nothing at all.","공개적으로 할 얘기는 없어. 응, 전혀.",M1Q1A07S1BT,,,,,0,0
+17930,Dialog,BT,"Well met, Boss. What can I do for you?","만나서 반갑습니다, 대장. 무엇을 도와드릴까요?",M1Q1A07S1BT,,,,,0,0
+17931,Dialog,BT,Shh. Don't say it so loud. Here's a key. Go on down when you want. It's the door in the center of the south wall. There are stairs leading down to the basement.,"쉿. 크게 말하지 마요. 여기 열쇠요. 내려가고 싶을 때 내려가요. 남쪽 벽 중앙에 있는 문이고, 지하로 내려가는 계단이 있습니다.",M1Q1A07S1BT,m2s4barkeepgive,,,,0,0
+17932,Dialog,BT,"You've already got a key. Go on down to the Gauntlet, if you want. It's the door in the center of the south wall. There are stairs down to the basement.","이미 열쇠가 있잖아요. 원하면 시련장으로 내려가요. 남쪽 벽 중앙에 있는 문이고, 지하로 내려가는 계단이 있어요.",M1Q1A07S1BT,,,,,0,0
+17933,Dialog,BT,"There haven't been many customers since the Gauntlet shut down, but the plague is the real cause of how slow it's been here. Business is literally dying off.","시련장이 폐쇄된 뒤로 손님이 줄었지만, 여기가 이렇게 한산한 진짜 이유는 역병이에요. 말 그대로 장사가 망해가고 있거든요.",M1Q1A07S1BT,m1s4abtendslg01,,,,0,0
+17934,Dialog,BT,"Sorry, <FirstName>, but it hasn't been long enough to work the books out. Gotta wait a week between payments.","미안해요, <FirstName>. 아직 장부 정리할 시간이 안 됐어요. 지급은 일주일 간격으로 해야 합니다.",M1Q1A07S1BT,,,,,0,0
+17935,Dialog,BT,Here's what was made. 50 gold. Like I said... not a lot.,이번주 수익입니다. 금화 50개. 말했잖아요... 많지는 않다고.,M1Q1A07S1BT,m1s4abtendslg02,,,,0,0
+17936,Dialog,BT,"<StartCheck>[Success]</Start> Look, if you really want in on what happens here, you'll have to get a pass from a mercenary in the Trade of Blades. Then we'll talk.","<StartCheck>[성공]</Start> 듣죠, 여기 일에 진짜 끼고 싶다면 용병의 거래소의 용병에게서 통행증을 받아와요. 그다음에 얘기합시다.",M1Q1A07S1BT,,,,,0,0
+17937,Dialog,BT,"<StartCheck>[Failure]</Start> No, I don't think so. It's nothing that concerns you.","<StartCheck>[실패]</Start> 아니, 안 될 것 같군요. 당신과는 상관없는 일이에요.",M1Q1A07S1BT,,,,,0,0
+17938,Dialog,BT,"Hmm, maybe you'd fit right in, but it doesn't matter. Not unless you get a pass from a mercenary in the Trade of Blades. Then we'll talk.","흠, 당신이면 어울릴지도 모르겠지만 소용없어요. 용병의 거래소의 용병에게서 통행증을 받아오지 않으면 말이죠. 그다음에 얘기합시다.",M1Q1A07S1BT,,,,,0,0
+17939,Dialog,BT,"If you don't know, I doubt you'll be back. It's the mercenary guild in the northwest of the City Core. That's all I'm saying.",그걸 모른다면 다시 올 일도 없겠죠. 도시 중심부 북서쪽에 있는 '용병의 거래소'예요. 더는 말 못합니다.,M1Q1A07S1BT,,,,,0,0
+17940,Dialog,BT,"Hey there. Not much happening here now that we've got a new owner. Still a good bar, though.","어이, 안녕. 새 주인이 온 뒤로는 별로 일어나는 일이 없죠. 그래도 여긴 여전히 괜찮은 술집이에요.",M1Q1A07S1BT,,,,,0,0
+17941,Dialog,BT,It's a contest open to people who believe there is nothing more basic than defending yourself against someone meaning to do you harm.,남이 해치려 들 때 스스로를 지키는 게 가장 기본이라 믿는 사람들에게 열린 대회죠.,M1Q1A07S1BT,,,,,0,0
+17942,Dialog,BT,"Look, it ain't exactly safe for people to get in a pit and slug it out. We've had accidents... a couple people lost limbs... ","봐요, 투기장에 들어가 실컷 주먹질하는 게 안전하진 않아요. 사고도 있었고... 두어 명은 팔다리를 잃었죠...",M1Q1A07S1BT,,,,,0,0
+17943,Dialog,BT,"You win, you get a rank and a few cheers. You lose, you get dusted off and try again. It's about knowing your worth in a fight.",이기면 등급이 오르고 환호를 좀 받죠. 지면 먼지나 털고 다시 도전하는 거예요. 싸움에서 자신의 값을 아는 자리니까.,M1Q1A07S1BT,,,,,0,0
+17944,Dialog,BT,"The city guards think it's a bloodsport, but it's not. It's about honor in battle, but they don't understand. The guards just see what they want to.","도시 경비대는 그걸 피의 스포츠라고 보지만, 아니에요. 전투의 명예에 관한 겁니다. 하지만 걔들은 이해 못 하죠. 보고 싶은 것만 보는 법이니까.",M1Q1A07S1BT,,,,,0,0
+17945,Dialog,BT,"Look, if you want to try, that's up to you. just don't blab about it, and don't complain if you lose. People don't like that.","해보고 싶다면 당신 마음이죠. 다만 떠벌리고 다니지 말고, 져도 투덜대지 마요. 사람들 싫어합니다.",M1Q1A07S1BT,,,,,0,0
+17946,Dialog,BT,"Well, the last owner, Claudus, he set things up so he didn't have to do a thing. He was always busy with this or that.","음, 전 주인 클로더스는 손 하나 까딱 안 해도 되게 판을 짜 놨거든요. 늘 이거저거 바쁘다면서요.",M1Q1A07S1BT,,,,,0,0
+17947,Dialog,BT,"Anyway, all you need to do is come in every week or so and I'll give you the profits that we've made. You won't get rich, but it's better than nothing.","어쨌든 당신은 일주일에 한 번쯤 들러서 벌어들인 이익금을 받아 가면 됩니다. 부자가 되진 못해도, 없는 것보단 낫죠.",M1Q1A07S1BT,,,,,0,0
+17948,Dialog,BT,"Besides, I can tell you'd rather be out adventuring and such. You look like the type. It sounds dangerous to me, but I bet there's good coin in it.","게다가 보니 모험이나 그런 쪽을 더 좋아하는 타입 같네요. 위험해 보이긴 해도, 돈은 제법 되겠죠.",M1Q1A07S1BT,,,,,0,0

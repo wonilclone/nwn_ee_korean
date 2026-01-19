@@ -1,0 +1,33 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+16821,PC,Player Character,I have a letter from Oleff. He sent me.,올레프의 편지를 가져왔습니다. 그분이 저를 보냈습니다.,m1q1a01s1br,m1s1abrilslg01,[지능 보통],,,0,0
+16822,PC,Player Character,Me have Oleff letter. He sent me heres?,올레프 편지 가져왔어. 그분이 날 보냈어.,m1q1a01s1br,m1s1abrilslg01,[지능 낮음],,,0,0
+16823,PC,Player Character,Goodbye.,그럼 이만.,m1q1a01s1br,,,,,0,0
+16824,PC,Player Character,<StartCheck>[Persuade]</Start> Yous can tell me. It be okay.,<StartCheck>[설득]</Start> 말해도 돼. 괜찮아.,m1q1a01s1br,,[지능 낮음],,,0,0
+16825,PC,Player Character,What do you know of the plague?,역병에 대해 무엇을 아십니까?,m1q1a01s1br,,[매력 중간/지능 중간],,,0,0
+16826,PC,Player Character,What can you tell me about these tombs?,이 무덤들에 대해 무엇을 알려 주실 수 있습니까?,m1q1a01s1br,,[지능 보통],,,0,0
+16827,PC,Player Character,Have you heard of anything odd? Any rumors?,이상한 일이나 소문을 들으셨습니까?,m1q1a01s1br,,[매력 높음/지능 중간],,,0,0
+16828,PC,Player Character,You know anything about the bad plague?,역병에 대해 뭐 알아?,m1q1a01s1br,,[매력 중간/지능 낮음],,,0,0
+16829,PC,Player Character,What you can tell me about tombs?,무덤들에 대해 뭐 알려 줄래?,m1q1a01s1br,,[지능 낮음],,,0,0
+16830,PC,Player Character,Maybe you hear about odd stuff or rumors?,이상한 일이나 소문 들은 거 있어?,m1q1a01s1br,,[매력 높음/지능 낮음],,,0,0
+16831,PC,Player Character,You know about cure attempts maybe?,치료 시도에 대해 알아?,m1q1a01s1br,,[지능 낮음],,,0,0
+16832,PC,Player Character,What do you know about attempts at a cure?,치료법을 찾으려는 시도에 대해 무엇을 아십니까?,m1q1a01s1br,,[지능 보통],,,0,0
+16833,PC,Player Character,What is this place?,여긴 어떤 곳이죠?,m1q1a01s1br,,[지능 보통],,,0,0
+16834,PC,Player Character,What this place?,여기 뭐 하는 곳이야?,m1q1a01s1br,,[지능 낮음],,,0,0
+16835,PC,Player Character,Who is Oleff?,올레프는 누구입니까?,m1q1a01s1br,,[지능 보통],,,0,0
+16836,PC,Player Character,Who Oleff?,올레프 누구야?,m1q1a01s1br,,[지능 낮음],,,0,0
+16837,PC,Player Character,Farewell.,안녕히 계십시오.,m1q1a01s1br,,[지능 보통],,,0,0
+16838,PC,Player Character,Bye bye.,잘 있어.,m1q1a01s1br,,[지능 낮음],,,0,0
+16839,PC,Player Character,What have you learned from this tomb?,이 무덤에서 무엇을 알아내셨습니까?,m1q1a01s1br,,[지능 보통],,,0,0
+16840,PC,Player Character,What you learn from this tomb?,이 무덤에서 뭐 알아냈어?,m1q1a01s1br,,[지능 낮음],,,0,0
+16841,PC,Player Character,Where are the other tombs located?,다른 무덤들은 어디에 있습니까?,m1q1a01s1br,,[지능 보통],,,0,0
+16842,PC,Player Character,Where other tombs located?,다른 무덤은 어디 있어?,m1q1a01s1br,,[지능 낮음],,,0,0
+16843,PC,Player Character,Did you find any artifacts in here?,여기서 유물은 찾으셨습니까?,m1q1a01s1br,,[지능 보통],,,0,0
+16844,PC,Player Character,You finds artifact stuffs in here?,여기서 유물 같은 거 찾았어?,m1q1a01s1br,,[지능 낮음],,,0,0
+16845,PC,Player Character,I have other questions.,다른 질문이 있습니다.,m1q1a01s1br,,[지능 보통],,,0,0
+16846,PC,Player Character,Me gots other questions and stuff.,다른 것도 물어볼 게 있어.,m1q1a01s1br,,[지능 낮음],,,0,0
+16847,PC,Player Character,<StartCheck>[Persuade]</Start> You can tell me. Come on.,<StartCheck>[설득]</Start> 말씀해 주시죠. 부탁드립니다.,m1q1a01s1br,,[지능 보통],,,0,0
+16848,PC,Player Character,We share the calling of cleric. You can tell me.,우리 둘 다 성직자잖습니까. 말씀해 주시죠.,m1q1a01s1br,,nw_bk_divn,,,0,0
+16849,PC,Player Character,We's both kinda cleric. Yous can tell me.,우리 둘 다 성직자잖아. 말해 줘.,m1q1a01s1br,,nw_bk_divl,,,0,0
+16850,PC,Player Character,"What a good looker like yous got to hide, hmm?",그렇게 아름다우신 분이 뭘 숨기고 계시길래요?,m1q1a01s1br,,mcsgenfintlchrh,,,0,0
+16851,PC,Player Character,A handsome man like you needs to keep secrets?,그렇게 잘생기신 분이 굳이 비밀을 지켜야 합니까?,m1q1a01s1br,,mcsgenfintnchrh,,,0,0
+16852,PC,Player Character,<StartCheck>[Insight]</Start> Did this contribute to their deaths from the plague?,<StartCheck>[통찰]</Start> 이것이 역병으로 인한 그들의 죽음에 한몫한 겁니까?,m1q1a01s1br,,nw_d2_wis_intn,,,0,0

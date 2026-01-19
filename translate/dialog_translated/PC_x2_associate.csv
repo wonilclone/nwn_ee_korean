@@ -1,0 +1,273 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+101297,PC,Player Character,"""That's all.""","""이게 다야.""",x2_associate,,,,,0,0
+101298,PC,Player Character,"""I want to change your tactics.""","""전술을 바꾸고 싶어.""",x2_associate,,,,,0,0
+101299,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",x2_associate,,,,,0,0
+101300,PC,Player Character,"""I don't want you to cast any spells until I say otherwise.""","""내가 말할 때까지 주문을 쓰지 마.""",x2_associate,x2_ch_spell_off,x2_ch_yes_spells,,,0,0
+101301,PC,Player Character,"""I want you to go ahead and cast spells on your own.""","""알아서 주문을 써도 돼.""",x2_associate,x2_ch_spell_on,x2_ch_no_spells,,,0,0
+101302,PC,Player Character,"""I want you to leave any traps that you see alone for now.""","""보이는 함정은 일단 그냥 놔둬.""",x2_associate,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+101303,PC,Player Character,"""I want you to disarm any traps that you see.""","""보이는 함정은 해제해.""",x2_associate,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+101304,PC,Player Character,"""Don't try to be stealthy anymore.""","""더 이상 은신하려 하지 마.""",x2_associate,x2_d1_stealth3,x2_d1_instealth,,,0,0
+101305,PC,Player Character,"""Stay stealthy, but only until the next fight.""","""은신해 있어, 하지만 다음 전투까지만.""",x2_associate,x2_d1_stealth2,,,,0,0
+101306,PC,Player Character,"""Try to remain stealthy all the time.""","""항상 은신 상태를 유지해.""",x2_associate,x2_d1_stealth1,,,,0,0
+101307,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 열지 못해도 도와주지 마.""",x2_associate,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+101308,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 열지 못하면 도와줘.""",x2_associate,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+101309,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와 떨어져 있는 거리를 바꾸고 싶어.""",x2_associate,,,,,0,0
+101310,PC,Player Character [Follow: Far],Stay a long distance away.,멀리 떨어져 있어.,x2_associate,nw_ch_dist_18,,[Follow: Far],,0,0
+101311,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,x2_associate,nw_ch_dist_12,,[Follow: Medium],,0,0
+101312,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,x2_associate,nw_ch_dist_6,,[Follow: Close],,0,0
+101313,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 보는 즉시 공격해도 돼.""",x2_associate,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+101314,PC,Player Character,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격할 때까지 공격하지 마.""",x2_associate,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+101315,PC,Player Character,"""I need you to cast a group of buffing spells.""","""강화 주문들을 몇 개 써줘.""",x2_associate,x2_d1_setgroup,,,,0,0
+101316,PC,Player Character,"""Never mind.""","""됐어.""",x2_associate,,,,,0,0
+101317,PC,Player Character,"""Cast all the buffing spells you have.""","""가진 강화 주문을 전부 써.""",x2_associate,x2_d1_castbuff3,,,,0,0
+101318,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""오래 지속되는 강화 주문을 전부 써.""",x2_associate,x2_d1_castbuff2,,,,0,0
+101319,PC,Player Character,"""Cast all the short duration buffing spells.""","""짧게 지속되는 강화 주문을 전부 써.""",x2_associate,x2_d1_castbuff1,,,,0,0
+101320,PC,Player Character,"""Cast on all the party members.""","""파티원 전원에게 써.""",x2_associate,x0_d1_targetall,x2_d1_targetall,,,0,0
+101321,PC,Player Character,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 써.""",x2_associate,x2_d1_targethen9,x2_d1_hashench9,,,0,0
+101322,PC,Player Character,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 써.""",x2_associate,x2_d1_targethen8,x2_d1_hashench8,,,0,0
+101323,PC,Player Character,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 써.""",x2_associate,x2_d1_targethen7,x2_d1_hashench7,,,0,0
+101324,PC,Player Character,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 써.""",x2_associate,x2_d1_targethen6,x2_d1_hashench6,,,0,0
+101325,PC,Player Character,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 써.""",x2_associate,x2_d1_targethen5,x2_d1_hashench5,,,0,0
+101326,PC,Player Character,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 써.""",x2_associate,x2_d1_targethen4,x2_d1_hashench4,,,0,0
+101327,PC,Player Character,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 써.""",x2_associate,x2_d1_targethen3,x2_d1_hashench3,,,0,0
+101328,PC,Player Character,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 써.""",x2_associate,x2_d1_targethen2,x2_d1_hashench2,,,0,0
+101329,PC,Player Character,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 써.""",x2_associate,x2_d1_targethen1,x2_d1_hashench1,,,0,0
+101330,PC,Player Character,"""Cast it on me.""","""나한테 써.""",x2_associate,x0_d1_targetme,,,,0,0
+101331,PC,Player Character,"""Cast it on yourself.""","""너한테 써.""",x2_associate,x0_d1_targetself,,,,0,0
+101332,PC,Player Character,"""I need you to cast a spell.""","""주문을 써줘.""",x2_associate,,,,,0,0
+101333,PC,Player Character,"""Never mind.""","""됐어.""",x2_associate,,,,,0,0
+101334,PC,Player Character,Ultravision.,초시야.,x2_associate,x0_d1_castultra,x0_d2_hasultra,,,0,0
+101335,PC,Player Character,True Seeing.,진실의 시야.,x2_associate,x0_d1_casttruese,x0_d2_hastruesee,,,0,0
+101336,PC,Player Character,Summon Creature IX.,생명체 소환 9.,x2_associate,x0_d1_castsumm9,x0_d2_hassumm9,,,0,0
+101337,PC,Player Character,Summon Creature VIII.,생명체 소환 8.,x2_associate,x0_d1_castsumm8,x0_d2_hassumm8,,,0,0
+101338,PC,Player Character,Summon Creature VII.,생명체 소환 7.,x2_associate,x0_d1_castsumm7,x0_d2_hassumm7,,,0,0
+101339,PC,Player Character,Summon Creature VI.,생명체 소환 6.,x2_associate,x0_d1_castsumm6,x0_d2_hassumm6,,,0,0
+101340,PC,Player Character,Summon Creature V.,생명체 소환 5.,x2_associate,x0_d1_castsumm5,x0_d2_hassumm5,,,0,0
+101341,PC,Player Character,Summon Creature IV.,생명체 소환 4.,x2_associate,x0_d1_castsumm4,x0_d2_hassumm4,,,0,0
+101342,PC,Player Character,Summon Creature III.,생명체 소환 3.,x2_associate,x0_d1_castsumm3,x0_d2_hassumm3,,,0,0
+101343,PC,Player Character,Summon Creature II.,생명체 소환 2.,x2_associate,x0_d1_castsumm2,x0_d2_hassumm2,,,0,0
+101344,PC,Player Character,Summon Creature I.,생명체 소환 1.,x2_associate,x0_d1_castsumm1,x0_d2_hassumm1,,,0,0
+101345,PC,Player Character,Stoneskin.,돌 피부.,x2_associate,x0_d1_caststonsk,x0_d2_hasstskin,,,0,0
+101346,PC,Player Character,Spell Resistance.,주문 저항.,x2_associate,x0_d1_castspresi,x0_d2_hasspelres,,,0,0
+101347,PC,Player Character,Spell Mantle.,주문 망토.,x2_associate,x0_d1_castspmant,x0_d2_hasspman,,,0,0
+101348,PC,Player Character,Shield of Faith.,믿음의 방패.,x2_associate,x0_d1_castshfait,x0_d2_hasshldfth,,,0,0
+101349,PC,Player Character,Shield.,방패.,x2_associate,x0_d1_castshield,x0_d2_hasshield,,,0,0
+101350,PC,Player Character,Shadow Shield.,그림자 방패.,x2_associate,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
+101351,PC,Player Character,See Invisibility.,투명체 보기.,x2_associate,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+101352,PC,Player Character,Sanctuary.,성역.,x2_associate,x0_d1_castsanct,x0_d2_hassanc,,,0,0
+101353,PC,Player Character,Restoration.,회복.,x2_associate,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
+101354,PC,Player Character,Resistance.,저항.,x2_associate,x0_d1_castresist,x0_d2_hasresist,,,0,0
+101355,PC,Player Character,Resist Elements.,원소 저항.,x2_associate,x0_d1_castresele,x0_d2_hasreselem,,,0,0
+101356,PC,Player Character,Remove Paralysis.,마비 해제.,x2_associate,x0_d1_castrempar,x0_d2_hasrempara,,,0,0
+101357,PC,Player Character,Remove Fear.,공포 해제.,x2_associate,x0_d1_castrfear,x0_d2_hasremfear,,,0,0
+101358,PC,Player Character,Remove Disease.,질병 해제.,x2_associate,x0_d1_castrdisea,x0_d2_hasremdis,,,0,0
+101359,PC,Player Character,Remove Curse.,저주 해제.,x2_associate,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
+101360,PC,Player Character,Remove Blindness/Deafness.,시각/청각 상실 제거.,x2_associate,x0_d1_castrembdf,x0_d2_hasrembldf,,,0,0
+101361,PC,Player Character,Regenerate.,재생.,x2_associate,x0_d1_castregen,x0_d2_hasregen,,,0,0
+101362,PC,Player Character,Protection From Spells.,주문으로부터 보호.,x2_associate,x0_d1_castprspel,x0_d2_hasprspell,,,0,0
+101363,PC,Player Character,Protection From Elements.,원소로부터 보호.,x2_associate,x0_d1_castprelem,x0_d2_hasprelem,,,0,0
+101364,PC,Player Character,Premonition.,예감.,x2_associate,x0_d1_castpremon,x0_d2_haspremon,,,0,0
+101365,PC,Player Character,Prayer.,기도.,x2_associate,x0_d1_castprayer,x0_d2_hasprayer,,,0,0
+101366,PC,Player Character,Owl's Wisdom.,올빼미의 지혜.,x2_associate,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
+101367,PC,Player Character,Neutralize poison.,독 중화.,x2_associate,x0_d1_castnpoiso,x0_d2_hasneutpoi,,,0,0
+101368,PC,Player Character,Monstrous Regeneration.,괴물같은 재생.,x2_associate,x0_d1_castmregen,x0_d2_hasmrege,,,0,0
+101369,PC,Player Character,Minor Globe of Invulnerability.,하급 무적의 구체.,x2_associate,x0_d1_castmglobe,x2_d2_hasmglobe,,,0,0
+101370,PC,Player Character,Mind Blank.,정신 방패.,x2_associate,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+101371,PC,Player Character,Mass Haste.,집단 가속.,x2_associate,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
+101372,PC,Player Character,Magical Vestment.,마법 의복.,x2_associate,x0_d1_castmvest,x0_d2_hasmagvest,,,0,0
+101373,PC,Player Character,Mage Armor.,마법학자 갑옷.,x2_associate,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
+101374,PC,Player Character,Light.,빛.,x2_associate,x0_d1_castlight,x0_d2_haslight,,,0,0
+101375,PC,Player Character,Lesser Spell Mantle.,하급 주문 망토.,x2_associate,x0_d1_castlspman,x0_d2_haslesspm,,,0,0
+101376,PC,Player Character,Lesser Restoration.,하급 회복.,x2_associate,x0_d1_castlresto,x0_d2_haslesrest,,,0,0
+101377,PC,Player Character,Lesser Mind Blank,하급 정신 방패,x2_associate,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+101378,PC,Player Character,Lesser Dispel.,하급 주문해제.,x2_associate,x0_d1_castldispe,x0_d2_hasldispel,,,0,0
+101379,PC,Player Character,Knock.,두드리기.,x2_associate,x0_d1_castknock,x0_d2_hasknock,,,0,0
+101380,PC,Player Character,Invisibility Sphere.,투명화 구체.,x2_associate,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
+101381,PC,Player Character,Invisibility,투명화,x2_associate,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
+101382,PC,Player Character,Improved Invisibility.,우수한 투명화.,x2_associate,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
+101383,PC,Player Character,Haste.,가속.,x2_associate,x0_d1_casthaste,x0_d2_hashaste,,,0,0
+101384,PC,Player Character,Greater Stoneskin.,상급 돌 피부.,x2_associate,x0_d1_castgrston,x0_d2_hasgrstone,,,0,0
+101385,PC,Player Character,Greater Spell Mantle.,상급 주문 망토.,x2_associate,x0_d1_castgspman,x2_d2_hasgspman,,,0,0
+101386,PC,Player Character,Greater Sanctuary.,상급 성역.,x2_associate,x0_d1_castgsanc,x2_d2_hasethenss,,,0,0
+101387,PC,Player Character,Greater Restoration.,상급 회복.,x2_associate,x0_d1_castgresto,x0_d2_hasgrrest,,,0,0
+101388,PC,Player Character,Greater Dispelling.,상급 해제.,x2_associate,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
+101389,PC,Player Character,Globe of Invulnerability.,무적의 구체.,x2_associate,x0_d1_castglobe,x2_d2_hasglobe,,,0,0
+101390,PC,Player Character,Ghostly Visage.,유령의 형상.,x2_associate,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
+101391,PC,Player Character,Freedom of Movement.,이동 자유.,x2_associate,x0_d1_castfreedo,x0_d2_hasfreemov,,,0,0
+101392,PC,Player Character,Fox's Cunning,여우의 교활함,x2_associate,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
+101393,PC,Player Character,Find Traps.,함정 발견.,x2_associate,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
+101394,PC,Player Character,Ethereal Visage.,에테르 형상.,x2_associate,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
+101395,PC,Player Character,Entropic Shield.,혼돈의 보호막.,x2_associate,x0_d1_castentsh,x2_d2_hasntropic,,,0,0
+101396,PC,Player Character,Energy Buffer.,에너지 완충기.,x2_associate,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+101397,PC,Player Character,"""No, I've changed my mind.""","""아니, 마음이 바뀌었어.""",x2_associate,,,,,0,0
+101398,PC,Player Character,"""Yes, go ahead.""","""그래, 해.""",x2_associate,x0_d1_targetself,,,,0,0
+101399,PC,Player Character,Endure Elements.,원소 인내.,x2_associate,x0_d1_castendele,x0_d2_hasendelem,,,0,0
+101400,PC,Player Character,Endurance.,지구력.,x2_associate,x0_d1_castendur,x0_d2_hasendur,,,0,0
+101401,PC,Player Character,Elemental Shield.,원소 방패.,x2_associate,x0_d1_castelesh,x2_d2_haselemsh,,,0,0
+101402,PC,Player Character,Eagle's Splendor.,독수리의 위엄.,x2_associate,x0_d1_casteagles,x0_d2_haseagles,,,0,0
+101403,PC,Player Character,Divine Power.,신성한 힘.,x2_associate,x0_d1_castdivpow,x0_d2_hasdivpow,,,0,0
+101404,PC,Player Character,Dispel Magic.,주문해제.,x2_associate,x0_d1_castdismag,x0_d2_hasdispelm,,,0,0
+101405,PC,Player Character,Death Ward.,죽음 방어.,x2_associate,x0_d1_castdward,x0_d2_hasdthward,,,0,0
+101406,PC,Player Character,Death Armor.,죽음의 갑옷.,x2_associate,x0_d1_castdarmor,x0_d2_hasdarmor,,,0,0
+101407,PC,Player Character,Create Undead.,언데드 생성.,x2_associate,x0_d1_castcrund,x0_d2_hascreund,,,0,0
+101408,PC,Player Character,Continual Flame.,계속되는 불꽃.,x2_associate,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+101409,PC,Player Character,Clarity.,명확함.,x2_associate,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
+101410,PC,Player Character,Cat's Grace.,고양이의 우아함.,x2_associate,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
+101411,PC,Player Character,Bull's Strength.,황소의 근력.,x2_associate,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
+101412,PC,Player Character,"""Cast on all the party members.""","""파티원 전원에게 써.""",x2_associate,x0_d1_targetall,x2_d1_targetall,,,0,0
+101413,PC,Player Character,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 써.""",x2_associate,x2_d1_targethen9,x2_d1_hashench9,,,0,0
+101414,PC,Player Character,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 써.""",x2_associate,x2_d1_targethen8,x2_d1_hashench8,,,0,0
+101415,PC,Player Character,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 써.""",x2_associate,x2_d1_targethen7,x2_d1_hashench7,,,0,0
+101416,PC,Player Character,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 써.""",x2_associate,x2_d1_targethen6,x2_d1_hashench6,,,0,0
+101417,PC,Player Character,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 써.""",x2_associate,x2_d1_targethen5,x2_d1_hashench5,,,0,0
+101418,PC,Player Character,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 써.""",x2_associate,x2_d1_targethen4,x2_d1_hashench4,,,0,0
+101419,PC,Player Character,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 써.""",x2_associate,x2_d1_targethen3,x2_d1_hashench3,,,0,0
+101420,PC,Player Character,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 써.""",x2_associate,x2_d1_targethen2,x2_d1_hashench2,,,0,0
+101421,PC,Player Character,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 써.""",x2_associate,x2_d1_targethen1,x2_d1_hashench1,,,0,0
+101422,PC,Player Character,"""Cast it on me.""","""나한테 써.""",x2_associate,x0_d1_targetme,,,,0,0
+101423,PC,Player Character,"""Cast it on yourself.""","""너한테 써.""",x2_associate,x0_d1_targetself,,,,0,0
+101424,PC,Player Character,Bless.,축복.,x2_associate,x0_d1_castbless,x0_d2_hasbless,,,0,0
+101425,PC,Player Character,Animate Dead.,시체 활성화.,x2_associate,x0_d1_castandead,x0_d2_hasandead,,,0,0
+101426,PC,Player Character,Aid.,지원.,x2_associate,x0_d1_castaid,x0_d2_hasaid,,,0,0
+101427,PC,Player Character,<StartAction>Pet your companion.</Start>,<StartAction>동료를 쓰다듬습니다.</Start>,x2_associate,,,,,0,0
+101428,PC,Player Character,<StartAction>Play with your companion.</Start>,<StartAction>동료와 놉니다.</Start>,x2_associate,,,,,0,0
+101429,PC,Player Character,<StartAction>Scold your companion.</Start>,<StartAction>동료를 꾸짖습니다.</Start>,x2_associate,nw_s0_heal,,,,0,0
+101430,PC,Player Character,<StartAction>Feed your companion.</Start>,<StartAction>동료에게 먹이를 줍니다.</Start>,x2_associate,,,,,0,0
+101431,PC,Player Character,"""That's all.""","""이게 다야.""",x2_associate,,,,,0,0
+101432,PC,Player Character,"""What do you think of what's happening?""","""무슨 일이 일어나고 있는지 어떻게 생각해?""",x2_associate,,,,,0,0
+101433,PC,Player Character,"""At ease, mephit.""","""편히 있어, 메피트.""",x2_associate,,,,,0,0
+101434,PC,Player Character,"""Stop calling me sir.""","""나한테 '각하'라고 부르지 마.""",x2_associate,,,,,0,0
+101435,PC,Player Character,"""You don't have to call me sir.""","""나한테 '각하'라고 안 불러도 돼.""",x2_associate,,,,,0,0
+101436,PC,Player Character,<StartAction>Play with the familiar.</Start>,<StartAction>사역마와 놉니다.</Start>,x2_associate,,,,,0,0
+101437,PC,Player Character,<StartAction>Scold the familiar.</Start>,<StartAction>사역마를 꾸짖습니다.</Start>,x2_associate,nw_s0_heal,,,,0,0
+101438,PC,Player Character,<StartAction>Feed the familiar.</Start>,<StartAction>사역마에게 먹이를 줍니다.</Start>,x2_associate,,,,,0,0
+101439,PC,Player Character,"""I want to change your tactics.""","""전술을 바꾸고 싶어.""",x2_associate,,,,,0,0
+101440,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",x2_associate,,,,,0,0
+101441,PC,Player Character,"""I don't want you to cast any spells until I say otherwise.""","""내가 말할 때까지 주문을 쓰지 마.""",x2_associate,x2_ch_spell_off,x2_ch_yes_spells,,,0,0
+101442,PC,Player Character,"""I want you to go ahead and cast spells on your own.""","""알아서 주문을 써도 돼.""",x2_associate,x2_ch_spell_on,x2_ch_no_spells,,,0,0
+101443,PC,Player Character,"""I want you to leave any traps that you see alone for now.""","""보이는 함정은 일단 그냥 놔둬.""",x2_associate,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+101444,PC,Player Character,"""I want you to disarm any traps that you see.""","""보이는 함정은 해제해.""",x2_associate,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+101445,PC,Player Character,"""Don't try to be stealthy anymore.""","""더 이상 은신하려 하지 마.""",x2_associate,x2_d1_stealth3,x2_d1_instealth,,,0,0
+101446,PC,Player Character,"""Stay stealthy, but only until the next fight.""","""은신해 있어, 하지만 다음 전투까지만.""",x2_associate,x2_d1_stealth2,,,,0,0
+101447,PC,Player Character,"""Try to remain stealthy all the time.""","""항상 은신 상태를 유지해.""",x2_associate,x2_d1_stealth1,,,,0,0
+101448,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 열지 못해도 도와주지 마.""",x2_associate,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+101449,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 열지 못하면 도와줘.""",x2_associate,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+101450,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와 떨어져 있는 거리를 바꾸고 싶어.""",x2_associate,,,,,0,0
+101451,PC,Player Character [Follow: Far],Stay a long distance away.,멀리 떨어져 있어.,x2_associate,nw_ch_dist_18,,[Follow: Far],,0,0
+101452,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,x2_associate,nw_ch_dist_12,,[Follow: Medium],,0,0
+101453,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,x2_associate,nw_ch_dist_6,,[Follow: Close],,0,0
+101454,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 보는 즉시 공격해도 돼.""",x2_associate,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+101455,PC,Player Character,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격할 때까지 공격하지 마.""",x2_associate,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+101456,PC,Player Character,"""I need you to cast a group of buffing spells.""","""강화 주문들을 몇 개 써줘.""",x2_associate,x2_d1_setgroup,,,,0,0
+101457,PC,Player Character,"""Never mind.""","""됐어.""",x2_associate,,,,,0,0
+101458,PC,Player Character,"""Cast all the buffing spells you have.""","""가진 강화 주문을 전부 써.""",x2_associate,x2_d1_castbuff3,,,,0,0
+101459,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""오래 지속되는 강화 주문을 전부 써.""",x2_associate,x2_d1_castbuff2,,,,0,0
+101460,PC,Player Character,"""Cast all the short duration buffing spells.""","""짧게 지속되는 강화 주문을 전부 써.""",x2_associate,x2_d1_castbuff1,,,,0,0
+101461,PC,Player Character,"""Cast on all the party members.""","""파티원 전원에게 써.""",x2_associate,x0_d1_targetall,x2_d1_targetall,,,0,0
+101462,PC,Player Character,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 써.""",x2_associate,x2_d1_targethen9,x2_d1_hashench9,,,0,0
+101463,PC,Player Character,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 써.""",x2_associate,x2_d1_targethen8,x2_d1_hashench8,,,0,0
+101464,PC,Player Character,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 써.""",x2_associate,x2_d1_targethen7,x2_d1_hashench7,,,0,0
+101465,PC,Player Character,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 써.""",x2_associate,x2_d1_targethen6,x2_d1_hashench6,,,0,0
+101466,PC,Player Character,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 써.""",x2_associate,x2_d1_targethen5,x2_d1_hashench5,,,0,0
+101467,PC,Player Character,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 써.""",x2_associate,x2_d1_targethen4,x2_d1_hashench4,,,0,0
+101468,PC,Player Character,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 써.""",x2_associate,x2_d1_targethen3,x2_d1_hashench3,,,0,0
+101469,PC,Player Character,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 써.""",x2_associate,x2_d1_targethen2,x2_d1_hashench2,,,0,0
+101470,PC,Player Character,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 써.""",x2_associate,x2_d1_targethen1,x2_d1_hashench1,,,0,0
+101471,PC,Player Character,"""Cast it on me.""","""나한테 써.""",x2_associate,x0_d1_targetme,,,,0,0
+101472,PC,Player Character,"""Cast it on yourself.""","""너한테 써.""",x2_associate,x0_d1_targetself,,,,0,0
+101473,PC,Player Character,"""I need you to cast a spell.""","""주문을 써줘.""",x2_associate,,,,,0,0
+101474,PC,Player Character,"""Never mind.""","""됐어.""",x2_associate,,,,,0,0
+101475,PC,Player Character,Ultravision.,초시야.,x2_associate,x0_d1_castultra,x0_d2_hasultra,,,0,0
+101476,PC,Player Character,True Seeing.,진실의 시야.,x2_associate,x0_d1_casttruese,x0_d2_hastruesee,,,0,0
+101477,PC,Player Character,Summon Creature IX.,생명체 소환 9.,x2_associate,x0_d1_castsumm9,x0_d2_hassumm9,,,0,0
+101478,PC,Player Character,Summon Creature VIII.,생명체 소환 8.,x2_associate,x0_d1_castsumm8,x0_d2_hassumm8,,,0,0
+101479,PC,Player Character,Summon Creature VII.,생명체 소환 7.,x2_associate,x0_d1_castsumm7,x0_d2_hassumm7,,,0,0
+101480,PC,Player Character,Summon Creature VI.,생명체 소환 6.,x2_associate,x0_d1_castsumm6,x0_d2_hassumm6,,,0,0
+101481,PC,Player Character,Summon Creature V.,생명체 소환 5.,x2_associate,x0_d1_castsumm5,x0_d2_hassumm5,,,0,0
+101482,PC,Player Character,Summon Creature IV.,생명체 소환 4.,x2_associate,x0_d1_castsumm4,x0_d2_hassumm4,,,0,0
+101483,PC,Player Character,Summon Creature III.,생명체 소환 3.,x2_associate,x0_d1_castsumm3,x0_d2_hassumm3,,,0,0
+101484,PC,Player Character,Summon Creature II.,생명체 소환 2.,x2_associate,x0_d1_castsumm2,x0_d2_hassumm2,,,0,0
+101485,PC,Player Character,Summon Creature I.,생명체 소환 1.,x2_associate,x0_d1_castsumm1,x0_d2_hassumm1,,,0,0
+101486,PC,Player Character,Stoneskin.,돌 피부.,x2_associate,x0_d1_caststonsk,x0_d2_hasstskin,,,0,0
+101487,PC,Player Character,Spell Resistance.,주문 저항.,x2_associate,x0_d1_castspresi,x0_d2_hasspelres,,,0,0
+101488,PC,Player Character,Spell Mantle.,주문 망토.,x2_associate,x0_d1_castspmant,x0_d2_hasspman,,,0,0
+101489,PC,Player Character,Shield of Faith.,믿음의 방패.,x2_associate,x0_d1_castshfait,x0_d2_hasshldfth,,,0,0
+101490,PC,Player Character,Shield.,방패.,x2_associate,x0_d1_castshield,x0_d2_hasshield,,,0,0
+101491,PC,Player Character,Shadow Shield.,그림자 방패.,x2_associate,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
+101492,PC,Player Character,See Invisibility.,투명체 보기.,x2_associate,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+101493,PC,Player Character,Sanctuary.,성역.,x2_associate,x0_d1_castsanct,x0_d2_hassanc,,,0,0
+101494,PC,Player Character,Restoration.,회복.,x2_associate,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
+101495,PC,Player Character,Resistance.,저항.,x2_associate,x0_d1_castresist,x0_d2_hasresist,,,0,0
+101496,PC,Player Character,Resist Elements.,원소 저항.,x2_associate,x0_d1_castresele,x0_d2_hasreselem,,,0,0
+101497,PC,Player Character,Remove Paralysis.,마비 해제.,x2_associate,x0_d1_castrempar,x0_d2_hasrempara,,,0,0
+101498,PC,Player Character,Remove Fear.,공포 해제.,x2_associate,x0_d1_castrfear,x0_d2_hasremfear,,,0,0
+101499,PC,Player Character,Remove Disease.,질병 해제.,x2_associate,x0_d1_castrdisea,x0_d2_hasremdis,,,0,0
+101500,PC,Player Character,Remove Curse.,저주 해제.,x2_associate,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
+101501,PC,Player Character,Remove Blindness/Deafness.,시각/청각 상실 제거.,x2_associate,x0_d1_castrembdf,x0_d2_hasrembldf,,,0,0
+101502,PC,Player Character,Regenerate.,재생.,x2_associate,x0_d1_castregen,x0_d2_hasregen,,,0,0
+101503,PC,Player Character,Protection From Spells.,주문으로부터 보호.,x2_associate,x0_d1_castprspel,x0_d2_hasprspell,,,0,0
+101504,PC,Player Character,Protection From Elements.,원소로부터 보호.,x2_associate,x0_d1_castprelem,x0_d2_hasprelem,,,0,0
+101505,PC,Player Character,Premonition.,예감.,x2_associate,x0_d1_castpremon,x0_d2_haspremon,,,0,0
+101506,PC,Player Character,Prayer.,기도.,x2_associate,x0_d1_castprayer,x0_d2_hasprayer,,,0,0
+101507,PC,Player Character,Owl's Wisdom.,올빼미의 지혜.,x2_associate,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
+101508,PC,Player Character,Neutralize poison.,독 중화.,x2_associate,x0_d1_castnpoiso,x0_d2_hasneutpoi,,,0,0
+101509,PC,Player Character,Monstrous Regeneration.,괴물같은 재생.,x2_associate,x0_d1_castmregen,x0_d2_hasmrege,,,0,0
+101510,PC,Player Character,Minor Globe of Invulnerability.,하급 무적의 구체.,x2_associate,x0_d1_castmglobe,x2_d2_hasmglobe,,,0,0
+101511,PC,Player Character,Mind Blank.,정신 방패.,x2_associate,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+101512,PC,Player Character,Mass Haste.,집단 가속.,x2_associate,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
+101513,PC,Player Character,Magical Vestment.,마법 의복.,x2_associate,x0_d1_castmvest,x0_d2_hasmagvest,,,0,0
+101514,PC,Player Character,Mage Armor.,마법학자 갑옷.,x2_associate,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
+101515,PC,Player Character,Light.,빛.,x2_associate,x0_d1_castlight,x0_d2_haslight,,,0,0
+101516,PC,Player Character,Lesser Spell Mantle.,하급 주문 망토.,x2_associate,x0_d1_castlspman,x0_d2_haslesspm,,,0,0
+101517,PC,Player Character,Lesser Restoration.,하급 회복.,x2_associate,x0_d1_castlresto,x0_d2_haslesrest,,,0,0
+101518,PC,Player Character,Lesser Mind Blank,하급 정신 방패,x2_associate,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+101519,PC,Player Character,Lesser Dispel.,하급 주문해제.,x2_associate,x0_d1_castldispe,x0_d2_hasldispel,,,0,0
+101520,PC,Player Character,Knock.,두드리기.,x2_associate,x0_d1_castknock,x0_d2_hasknock,,,0,0
+101521,PC,Player Character,Invisibility Sphere.,투명화 구체.,x2_associate,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
+101522,PC,Player Character,Invisibility,투명화,x2_associate,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
+101523,PC,Player Character,Improved Invisibility.,우수한 투명화.,x2_associate,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
+101524,PC,Player Character,Haste.,가속.,x2_associate,x0_d1_casthaste,x0_d2_hashaste,,,0,0
+101525,PC,Player Character,Greater Stoneskin.,상급 돌 피부.,x2_associate,x0_d1_castgrston,x0_d2_hasgrstone,,,0,0
+101526,PC,Player Character,Greater Spell Mantle.,상급 주문 망토.,x2_associate,x0_d1_castgspman,x2_d2_hasgspman,,,0,0
+101527,PC,Player Character,Greater Sanctuary.,상급 성역.,x2_associate,x0_d1_castgsanc,x2_d2_hasethenss,,,0,0
+101528,PC,Player Character,Greater Restoration.,상급 회복.,x2_associate,x0_d1_castgresto,x0_d2_hasgrrest,,,0,0
+101529,PC,Player Character,Greater Dispelling.,상급 해제.,x2_associate,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
+101530,PC,Player Character,Globe of Invulnerability.,무적의 구체.,x2_associate,x0_d1_castglobe,x2_d2_hasglobe,,,0,0
+101531,PC,Player Character,Ghostly Visage.,유령의 형상.,x2_associate,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
+101532,PC,Player Character,Freedom of Movement.,이동 자유.,x2_associate,x0_d1_castfreedo,x0_d2_hasfreemov,,,0,0
+101533,PC,Player Character,Fox's Cunning,여우의 교활함,x2_associate,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
+101534,PC,Player Character,Find Traps.,함정 발견.,x2_associate,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
+101535,PC,Player Character,Ethereal Visage.,에테르 형상.,x2_associate,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
+101536,PC,Player Character,Entropic Shield.,혼돈의 보호막.,x2_associate,x0_d1_castentsh,x2_d2_hasntropic,,,0,0
+101537,PC,Player Character,Energy Buffer.,에너지 완충기.,x2_associate,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+101538,PC,Player Character,"""No, I've changed my mind.""","""아니, 마음이 바뀌었어.""",x2_associate,,,,,0,0
+101539,PC,Player Character,"""Yes, go ahead.""","""그래, 해.""",x2_associate,x0_d1_targetself,,,,0,0
+101540,PC,Player Character,Endure Elements.,원소 인내.,x2_associate,x0_d1_castendele,x0_d2_hasendelem,,,0,0
+101541,PC,Player Character,Endurance.,지구력.,x2_associate,x0_d1_castendur,x0_d2_hasendur,,,0,0
+101542,PC,Player Character,Elemental Shield.,원소 방패.,x2_associate,x0_d1_castelesh,x2_d2_haselemsh,,,0,0
+101543,PC,Player Character,Eagle's Splendor.,독수리의 위엄.,x2_associate,x0_d1_casteagles,x0_d2_haseagles,,,0,0
+101544,PC,Player Character,Divine Power.,신성한 힘.,x2_associate,x0_d1_castdivpow,x0_d2_hasdivpow,,,0,0
+101545,PC,Player Character,Dispel Magic.,주문해제.,x2_associate,x0_d1_castdismag,x0_d2_hasdispelm,,,0,0
+101546,PC,Player Character,Death Ward.,죽음 방어.,x2_associate,x0_d1_castdward,x0_d2_hasdthward,,,0,0
+101547,PC,Player Character,Death Armor.,죽음의 갑옷.,x2_associate,x0_d1_castdarmor,x0_d2_hasdarmor,,,0,0
+101548,PC,Player Character,Create Undead.,언데드 생성.,x2_associate,x0_d1_castcrund,x0_d2_hascreund,,,0,0
+101549,PC,Player Character,Continual Flame.,계속되는 불꽃.,x2_associate,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+101550,PC,Player Character,Clarity.,명확함.,x2_associate,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
+101551,PC,Player Character,Cat's Grace.,고양이의 우아함.,x2_associate,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
+101552,PC,Player Character,Bull's Strength.,황소의 근력.,x2_associate,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
+101553,PC,Player Character,"""Cast on all the party members.""","""파티원 전원에게 써.""",x2_associate,x0_d1_targetall,x2_d1_targetall,,,0,0
+101554,PC,Player Character,"""Cast it on <CUSTOM77109>.""","""<CUSTOM77109>에게 써.""",x2_associate,x2_d1_targethen9,x2_d1_hashench9,,,0,0
+101555,PC,Player Character,"""Cast it on <CUSTOM77108>.""","""<CUSTOM77108>에게 써.""",x2_associate,x2_d1_targethen8,x2_d1_hashench8,,,0,0
+101556,PC,Player Character,"""Cast it on <CUSTOM77107>.""","""<CUSTOM77107>에게 써.""",x2_associate,x2_d1_targethen7,x2_d1_hashench7,,,0,0
+101557,PC,Player Character,"""Cast it on <CUSTOM77106>.""","""<CUSTOM77106>에게 써.""",x2_associate,x2_d1_targethen6,x2_d1_hashench6,,,0,0
+101558,PC,Player Character,"""Cast it on <CUSTOM77105>.""","""<CUSTOM77105>에게 써.""",x2_associate,x2_d1_targethen5,x2_d1_hashench5,,,0,0
+101559,PC,Player Character,"""Cast it on <CUSTOM77104>.""","""<CUSTOM77104>에게 써.""",x2_associate,x2_d1_targethen4,x2_d1_hashench4,,,0,0
+101560,PC,Player Character,"""Cast it on <CUSTOM77103>.""","""<CUSTOM77103>에게 써.""",x2_associate,x2_d1_targethen3,x2_d1_hashench3,,,0,0
+101561,PC,Player Character,"""Cast it on <CUSTOM77102>.""","""<CUSTOM77102>에게 써.""",x2_associate,x2_d1_targethen2,x2_d1_hashench2,,,0,0
+101562,PC,Player Character,"""Cast it on <CUSTOM77101>.""","""<CUSTOM77101>에게 써.""",x2_associate,x2_d1_targethen1,x2_d1_hashench1,,,0,0
+101563,PC,Player Character,"""Cast it on me.""","""나한테 써.""",x2_associate,x0_d1_targetme,,,,0,0
+101564,PC,Player Character,"""Cast it on yourself.""","""너한테 써.""",x2_associate,x0_d1_targetself,,,,0,0
+101565,PC,Player Character,Bless.,축복.,x2_associate,x0_d1_castbless,x0_d2_hasbless,,,0,0
+101566,PC,Player Character,Animate Dead.,시체 활성화.,x2_associate,x0_d1_castandead,x0_d2_hasandead,,,0,0
+101567,PC,Player Character,Aid.,지원.,x2_associate,x0_d1_castaid,x0_d2_hasaid,,,0,0
+101568,PC,Player Character,<StartAction>Ask how to possess the familiar.</Start>,<StartAction>사역마를 조종하는 방법을 묻습니다.</Start>,x2_associate,,,,,0,0

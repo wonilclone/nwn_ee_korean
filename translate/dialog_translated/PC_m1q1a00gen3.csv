@@ -1,0 +1,37 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+15983,PC,Player Character,I need to ask a few questions.,질문 몇 가지 해도 될까요?,m1q1a00gen3,,[지능 보통],,,0,0
+15984,PC,Player Character,"You can answer questions, yuh?","너 질문 답해 줄 수 있어, 응?",m1q1a00gen3,,[지능 낮음],,,0,0
+15985,PC,Player Character,Goodbye.,그럼 이만.,m1q1a00gen3,,,,,0,0
+15986,PC,Player Character,Me want to know about different city areas.,나 도시 다른 구역들 알고 싶어.,m1q1a00gen3,,[지능 낮음],,,0,0
+15987,PC,Player Character,What do you know of the plague?,역병에 대해 뭘 아시나요?,m1q1a00gen3,,[지능 보통],,,0,0
+15988,PC,Player Character,I need infomation about places in Neverwinter.,네버윈터의 장소들에 대한 정보가 필요합니다.,m1q1a00gen3,,[지능 보통],,,0,0
+15989,PC,Player Character,Have you heard of anything odd? Any rumors?,뭔가 이상한 거 들은 적 있으세요? 소문 같은 거요?,m1q1a00gen3,,[지능 보통],,,0,0
+15990,PC,Player Character,You know anything about the bad plague?,"나쁜 역병, 뭐 아는 거 있어?",m1q1a00gen3,,[지능 낮음],,,0,0
+15991,PC,Player Character,Me wants information about places in Neverwinter.,나 네버윈터 곳곳 정보 원해.,m1q1a00gen3,,[지능 낮음],,,0,0
+15992,PC,Player Character,Maybe you hear about odd stuff or rumors?,혹시 이상한 거나 소문 들었어?,m1q1a00gen3,,[지능 낮음],,,0,0
+15993,PC,Player Character,What do you know about attempts at a cure?,치료약 시도에 대해 뭘 아시나요?,m1q1a00gen3,,[지능 보통],,,0,0
+15994,PC,Player Character,You know about cure attempts maybe?,"치료법 시도, 아는 거 있나?",m1q1a00gen3,,[지능 낮음],,,0,0
+15995,PC,Player Character,<StartCheck>[Insight]</Start> You sound like you don't particularly like Aribeth.,<StartCheck>[통찰]</Start> 아리베스가 별로 마음에 안 드시는 것 같은데요.,m1q1a00gen3,,nw_d2_wis_intn,,,0,0
+15996,PC,Player Character,I want to ask something else.,다른 걸 물어보고 싶은데요.,m1q1a00gen3,,[지능 보통],,,0,0
+15997,PC,Player Character,Me ask different questions.,나 다른 질문 할래.,m1q1a00gen3,,[지능 낮음],,,0,0
+15998,PC,Player Character,We both <race> kind. What happening there?,우리 둘 다 <race>끼리야. 거기 무슨 일 있어?,m1q1a00gen3,,nw_d2_racesmi_l,,,0,0
+15999,PC,Player Character,"Come on, we're both <race> kind. What's going on?",같은 <race> 동족이잖아요. 무슨 일이에요?,m1q1a00gen3,,nw_d2_racedifi_n,,,0,0
+16000,PC,Player Character,What are the different areas of the city?,도시의 다른 구역들은 어떤 곳들인가요?,m1q1a00gen3,,[지능 보통],,,0,0
+16001,PC,Player Character,Tell me about the Beggar's Nest.,거지 소굴에 대해 말해주세요.,m1q1a00gen3,,[지능 보통],,,0,0
+16002,PC,Player Character,Tell me about the Docks district.,항만 지구에 대해 알려주세요.,m1q1a00gen3,,[지능 보통],,,0,0
+16003,PC,Player Character,Tell me about the Blacklake district.,검은호수 지구에 대해 알려주세요.,m1q1a00gen3,,[지능 보통],,,0,0
+16004,PC,Player Character,Tell me about the Peninsula district.,반도에 대해 말해 주세요.,m1q1a00gen3,,[지능 보통],,,0,0
+16005,PC,Player Character,Where can I get equipment? ,장비는 어디서 구할 수 있나요?,m1q1a00gen3,,[지능 보통],,,0,0
+16006,PC,Player Character,Where me get equipment?,나 장비 어디서 구해?,m1q1a00gen3,,[지능 낮음],,,0,0
+16007,PC,Player Character,Tell me about the City Core.,도시 중심부에 대해 말해주세요.,m1q1a00gen3,,[지능 보통],,,0,0
+16008,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, there must be more.","<StartCheck>[설득]</Start> 더 있을 텐데요.",m1q1a00gen3,,[지능 보통],,,0,0
+16009,PC,Player Character,<StartCheck>[Persuade]</Start> You not saying everything.,<StartCheck>[설득]</Start> 다 말 안 했지.,m1q1a00gen3,,[지능 낮음],,,0,0
+16010,PC,Player Character,You tells about City Core.,너 도시 중심부 얘기해.,m1q1a00gen3,,[지능 낮음],,,0,0
+16011,PC,Player Character,You tells about Beggar's Nest.,너 거지 소굴 얘기해.,m1q1a00gen3,,[지능 낮음],,,0,0
+16012,PC,Player Character,You tells about Docks district.,너 항만 지구 얘기해.,m1q1a00gen3,,[지능 낮음],,,0,0
+16013,PC,Player Character,You tells about Blacklake.,너 검은호수 얘기해.,m1q1a00gen3,,[지능 낮음],,,0,0
+16014,PC,Player Character,You tells about Peninsula.,너 반도 얘기해.,m1q1a00gen3,,[지능 낮음],,,0,0
+16015,PC,Player Character,I need to ask about the other districts.,다른 구역들에 대해 물어봐야겠어요.,m1q1a00gen3,,[지능 보통],,,0,0
+16016,PC,Player Character,Me ask about other city places.,나 다른 도시 데 얘기 물어봐?,m1q1a00gen3,,[지능 낮음],,,0,0
+16017,PC,Player Character,What were you told about the Waterdhavian creatues?,워터딥 생물들에 대해 뭐라고 들으셨나요?,m1q1a00gen3,,[지능 보통],,,0,0
+16018,PC,Player Character,What you told about Water-doozian things?,워터딥 생명체들에 대해 뭐 들었어?,m1q1a00gen3,,[지능 낮음],,,0,0

@@ -1,0 +1,84 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+74059,Dialog,DHERMIT,"You cannot leave until you have paid me. Here, this will help keep you honest.","여긴 네가 값을 치르기 전엔 못 나가. 자, 이걸로 양심 좀 챙기시지.",Q7DHERMIT,,,,,0,0
+74060,Dialog,DHERMIT,You had better have the gold to pay to use that. It is one hundred gold for each charge.,그걸 쓰려면 금화 준비해 와. 충전 한 번에 금화 100이야.,Q7DHERMIT,,,,,0,0
+74061,Dialog,DHERMIT,"What is it that brings you to the home of a humble child of the Lady's peace? On second thought, forget that I asked. It is none of my business, so long as you bring no evil to my home.","무슨 일로 여신의 평화 아래 사는 이 겸손한 자의 집까지 왔지? ...아니, 됐다. 내 집에 악만 끌어들이지 마. 네 사정은 내 알 바 아니니까.",Q7DHERMIT,act_q7hermit_1,,,,0,0
+74062,Dialog,DHERMIT,"Listen <lad/lass>.  I like it nice and quiet, so if you are being hounded by gnolls, hunted by assassins, or chased by Cyric himself, I do *not* want to hear about it.","잘 들어. 난 조용한 게 좋아. 놀한테 쫓기든, 암살자에게 사냥당하든, 시어릭 본인에게 쫓기든, 그런 얘기 듣고 싶지 않아.",Q7DHERMIT,,,,,0,0
+74063,Dialog,DHERMIT,"I want nothing to do with your problems. I do not want to even know your name. I would like your gold though, so you can buy some of my magical goods, or I can teleport you somewhere.","네 문제엔 관여하고 싶지 않아. 네 이름조차 알고 싶지 않다. 다만 네 금화는 좋지. 내 마법 물건을 사거나, 내가 너를 어딘가로 보내 줄 수도 있고.",Q7DHERMIT,,,,,0,0
+74064,Dialog,DHERMIT,"Yes, go on; get out of here. And do not touch my recharging box, unless you have gold to pay for it.","그래, 얼른 나가. 금화 낼 생각 없으면 내 충전 상자에 손대지도 마.",Q7DHERMIT,,,,,0,0
+74065,Dialog,DHERMIT,Good. Goodbye.,좋다. 안녕히 가.,Q7DHERMIT,,,,,0,0
+74066,Dialog,DHERMIT,One hundred gold for each charge.,충전 한 번에 금화 100이다.,Q7DHERMIT,,,,,0,0
+74067,Dialog,DHERMIT,"You put in magic items that need more charges, and they are recharged. ","충전이 필요한 마법 아이템을 넣으면, 충전이 돼.",Q7DHERMIT,,,,,0,0
+74068,Dialog,DHERMIT,"No! Ugh, what an evil thing! Hmm, it does seem to have some power though. I'll tell you what, I'll take it off your hands for 500 gold. But don't even think about asking for more.","안 돼! 젠장, 끔찍한 물건이군! ...흠, 힘은 좀 있는 것 같기도 하고. 좋아, 금화 500에 내가 떠맡아 주지. 더 달란 소리는 꿈에도 하지 마.",Q7DHERMIT,,,,,0,0
+74069,Dialog,DHERMIT,"Right, you keep the cursed thing. Not my problem. Anything else?",좋을 대로 해. 그 저주받은 물건은 네가 들고 있어. 내 문제가 아니니까. 다른 볼일 있나?,Q7DHERMIT,,,,,0,0
+74070,Dialog,DHERMIT,"Right, I don't even know if I can sell this. Not in Silverymoon, the elf woman would kill me. Anything else?","그래, 이걸 팔 수나 있을지 모르겠군. 실버리문에선 못 팔아. 그 엘프 여자가 날 가만두지 않을 테니까. 다른 볼일은?",Q7DHERMIT,act_hermit_3,,,,0,0
+74071,Dialog,DHERMIT,That thing? It's broken! Do I look that stupid to you? Try your tricks somewhere else. Now do you have a serious proposition?,그거? 박살 났잖아! 내가 그렇게 멍청해 보이냐? 속임수는 다른 데 가서 써. 진지한 거래 할 거냐?,Q7DHERMIT,,,,,0,0
+74072,Dialog,DHERMIT,"Well, that looks interesting. I guess I could offer you 500 gold for it. It's not really worth much, unless you happen to know someone who can craft it into a useful item.","흠, 흥미롭긴 하군. 금화 500은 줄 수 있어. 누군가 이걸 쓸모 있게 가공할 줄 모르면 가치가 크진 않으니까.",Q7DHERMIT,,,,,0,0
+74073,Dialog,DHERMIT,"Right, forgotten already. Anything else?","좋아, 벌써 잊어버렸다. 다른 볼일은?",Q7DHERMIT,,,,,0,0
+74074,Dialog,DHERMIT,"<StartCheck>[Failed]</Start> No, it's not. 500 gold, that's it.",<StartCheck>[실패]</Start> 안 돼. 500이 끝이야.,Q7DHERMIT,,,,,0,0
+74075,Dialog,DHERMIT,"<StartCheck>[Successful]</Start> Fine then, 700 gold is the best I can offer.","<StartCheck>[성공]</Start> 좋아, 그럼 금화 700이 내가 줄 수 있는 최고가다.",Q7DHERMIT,,,,,0,0
+74076,Dialog,DHERMIT,"Right you are. Here's your gold. Now, what would you like?",좋다. 여기 네 금화다. 이제 뭘 원하지?,Q7DHERMIT,act_storeszaren7,,,,0,0
+74077,Dialog,DHERMIT,"Right you are. Here's your gold. Now, what would you like?",좋다. 여기 네 금화다. 이제 뭘 원하지?,Q7DHERMIT,act_storeszaren6,,,,0,0
+74078,Dialog,DHERMIT,"I suppose I might be interested. 700 gold, take it or leave it.","흥미롭군. 살 마음이 좀 드는데. 금화 700, 살 거면 사고 말 거면 말아.",Q7DHERMIT,,,,,0,0
+74079,Dialog,DHERMIT,Have it your way. What else do you want?,네 뜻대로 해. 또 뭘 원하지?,Q7DHERMIT,,,,,0,0
+74080,Dialog,DHERMIT,"<StartCheck>[Failed]</Start> Not a chance. I told you 500 gold, not a copper more!",<StartCheck>[실패]</Start> 말도 안 돼. 500이라 했잖아. 구리 한 닢도 더는 없어!,Q7DHERMIT,,,,,0,0
+74081,Dialog,DHERMIT,"<StartCheck>[Successful]</Start> Fine, fine, I'll just have to charge more to the next fool. 1000 gold, final offer.","<StartCheck>[성공]</Start> 좋아, 좋아. 다음 바보한테서 더 받아 메우면 되겠지. 금화 1000, 최종가다.",Q7DHERMIT,,,,,0,0
+74082,Dialog,DHERMIT,"Good. Hopefully some fool will wander buy here and I can sell it. Otherwise I'll have to take it to Silverymoon, I guess. Anything else?",좋다. 이 근처로 어슬렁대는 바보가 나타나면 팔아 치우지. 아니면 실버리문까지 들고 가야겠군. 다른 볼일은?,Q7DHERMIT,act_storeszaren3,,,,0,0
+74083,Dialog,DHERMIT,"Good. Hopefully some fool will wander buy here and I can sell it. Otherwise I'll have to take it to Silverymoon, I guess. Anything else?",좋다. 이 근처로 어슬렁대는 바보가 나타나면 팔아 치우지. 아니면 실버리문까지 들고 가야겠군. 다른 볼일은?,Q7DHERMIT,act_hermit_2,,,,0,0
+74084,Dialog,DHERMIT,"Well, now that does look like a valid specimen. And it just happens that I know this great, giant of a man who collects odd creatures. Works with some wizards, taking care of their beasts.","오, 이건 제대로 된 표본이군. 때마침 괴상한 생명체들을 모으는 건장한 사내 하나를 알고 있다. 몇몇 마법사들과 일하며 그들의 괴수들을 돌봐 주지.",Q7DHERMIT,,,,,0,0
+74085,Dialog,DHERMIT,"I suppose I could give you 700 gold for it. Don't even bother asking for more, you won't get it from me. What do you say?",금화 700은 줄 수 있겠어. 더 달란 소리는 하지 마. 나한테선 못 받아. 어때?,Q7DHERMIT,,,,,0,0
+74086,Dialog,DHERMIT,Fine then. What else do you want?,"좋다, 그럼. 또 뭘 원하지?",Q7DHERMIT,,,,,0,0
+74087,Dialog,DHERMIT,"Good enough. Here is your gold, and I will take the egg. Anything else?","충분하군. 여기 금화고, 그 알은 내가 가져가겠다. 다른 볼일은?",Q7DHERMIT,act_storeszaren1,,,,0,0
+74088,Dialog,DHERMIT,You are the one who came in here without an invitation. I would suggest that you might be the one with an attitude problem.,초대도 없이 들어온 건 네가 아닌가. 태도가 문제라면 네 쪽이겠지.,Q7DHERMIT,,,,,0,0
+74089,Dialog,DHERMIT,"I hate questions. Questions want answers, and answers are almost always wrong in one way or another.","난 질문이 싫다. 질문엔 답을 요구하고, 답이란 건 어떤 식으로든 대개 틀리기 마련이거든.",Q7DHERMIT,,,,,0,0
+74090,Dialog,DHERMIT,"Do you want to buy something, or are you on your way?","뭘 살 건가, 아니면 이제 갈 건가?",Q7DHERMIT,,,,,0,0
+74091,Dialog,DHERMIT,"Mystra, the goddess of magic. You might have heard of her. Anything else?","미스트라, 마법의 여신. 들어봤겠지. 또?",Q7DHERMIT,,,,,0,0
+74092,Dialog,DHERMIT,"I did have a young halfling in here about ten or more years ago with a magical ruby pendant, but I was not buying. I am not sure he was selling either. He just kept playing with it.","열 해 남짓 전쯤에, 젊은 하플링 하나가 마법 루비 펜던트를 들고 왔었지. 하지만 난 사지 않았어. 그도 팔 생각은 없어 보였고. 내내 만지작거리기만 하더군.",Q7DHERMIT,,,,,0,0
+74093,Dialog,DHERMIT,"He said he was headed up to Icewind Dale, though I never asked him. Have no idea if the item was stolen or what became of it though, and I do not want to know either. ","아이스윈드 데일로 올라간다더군. 내가 묻진 않았지만. 훔친 건지, 그 뒤로 어떻게 됐는지도 모르고, 알고 싶지도 않아.",Q7DHERMIT,,,,,0,0
+74095,Dialog,DHERMIT,I have a few. Just take a look at my inventory. I might have something you have always wanted. ,몇 가지 있지. 내 재고를 살펴봐. 예전부터 원하던 게 있을지도 모르니.,Q7DHERMIT,,,,,0,0
+74096,Dialog,DHERMIT,"I also have the magic recharging box, an invention of my own design. You will have to pay to use it though.","내가 설계한 발명품, 마법 충전 상자도 있다. 다만 쓰려면 돈을 내야 해.",Q7DHERMIT,,,,,0,0
+74097,Dialog,DHERMIT,"Of course you do. I am beginning to think we are just going to stand here for the rest of our natural lives, asking and answering questions.","그래, 또 질문이군. 이러다 우린 자연수명이 다할 때까지 서서 질문하고 대답만 하게 생겼어.",Q7DHERMIT,,,,,0,0
+74098,Dialog,DHERMIT,"Of course I know about them, but they have never managed to find my home, so I do not bother them. Give them no reason to look for me, and they will stay away, or so I believe.","물론 알고 있지. 하지만 녀석들은 아직 내 집을 찾지 못했어. 내가 먼저 건드리지도 않고. 찾을 이유를 주지 않으면, 놈들도 내버려 둘 거라고 믿어.",Q7DHERMIT,,,,,0,0
+74099,Dialog,DHERMIT,"They have been a little more restless since that elf, or whatever she is came into the forest. I did not like the looks of her, I tell you. I am pretty confident of my abilities, but testing them against her?","그 엘프인지 뭔지 하는 게 숲에 들어온 뒤로 놈들이 좀 뒤숭숭해졌어. 생긴 것부터 마음에 안 들었지. 내 솜씨엔 제법 자신 있지만, 굳이 그녀 상대로 시험해 볼 생각은 없어.",Q7DHERMIT,,,,,0,0
+74100,Dialog,DHERMIT,"Not a chance. There is something about her that just is not right. She looks like an elf, but that is about where the similarity ends.","절대 못 해. 뭔가 심상치가 않아. 겉모습만 엘프일 뿐, 닮은 점은 그게 전부야.",Q7DHERMIT,,,,,0,0
+74101,Dialog,DHERMIT,"I heard one of the gnolls tell her something; it sounded like he was commenting on her jaw or he wanted something to gnaw, but you know how hard it is to understand anything a gnoll says.","놀 하나가 그 여자한테 뭐라고 하더군. 턱이니 씹는 얘기니 하는 소리 같았는데, 놀 말은 알아듣기가 원래 어렵지 않나.",Q7DHERMIT,,,,,0,0
+74102,Dialog,DHERMIT,"First of all their teeth are too big. Now, if I was creating the world, I would have given them huge claws and retractable teeth, but the gods never really seem to ask my advice.","일단 이빨이 지나치게 커. 세상을 내가 만들었으면 놈들에겐 큰 발톱에 접히는 이빨을 줬을 텐데, 신들이 내 조언을 묻는 법이 있나.",Q7DHERMIT,,,,,0,0
+74103,Dialog,DHERMIT,"You see? That is exactly what I mean about questions. I could tell you my name, sure, but would I be telling the truth? You would have no idea.",봤지? 그래서 내가 질문을 싫어해. 내 이름을 말할 순 있지. 다만 그게 진실인지 아닌지 넌 알 길이 없어.,Q7DHERMIT,,,,,0,0
+74104,Dialog,DHERMIT,"On the other hand, maybe I could tell you my name, and think I am telling the truth, but maybe I am wrong. Maybe I just think that's my name, but in reality, my mother called me something else entirely.","또는 내가 진실이라 믿고 이름을 말하더라도 틀릴 수 있지. 내가 이름이라 믿는 게 실은 아니고, 어머니는 전혀 다른 이름으로 불렀을지도 모르는 일이고.",Q7DHERMIT,,,,,0,0
+74105,Dialog,DHERMIT,So how about we avoid any personal questions so that I can avoid accidentally lying to you? Hmm?,"그러니 사적인 질문은 접자. 그래야 내가 실수로 거짓말할 일도 없지, 응?",Q7DHERMIT,,,,,0,0
+74106,Dialog,DHERMIT,<StartCheck>[Failure]</Start> You dare to threaten me in my own home? I do not fear you.,<StartCheck>[실패]</Start> 내 집에서 감히 날 협박해? 널 두려워할 줄 아나.,Q7DHERMIT,,,,,0,0
+74107,Dialog,DHERMIT,"Well... hmph... I should say so. Now, ask me something more relevant to your life, buy one of my magic items, or leave.","흠... 그래, 그렇게 해라. 이제 네 신세에 좀 더 관련 있는 걸 묻든가, 마법 물건을 사든가, 아니면 나가.",Q7DHERMIT,,,,,0,0
+74108,Dialog,DHERMIT,"<StartCheck>[Success]</Start> If it will stop your incessant questioning, then fine. My name is <FirstName>.",<StartCheck>[성공]</Start> 그 지긋지긋한 심문을 끝낼 수 있다면 좋지. 내 이름은 <FirstName>다.,Q7DHERMIT,,,,,0,0
+74109,Dialog,DHERMIT,"<StartCheck>[Failure]</Start> That is it! No more questions. You can buy something from me, but if you will not respect my privacy, then I will simply ignore your questions.","<StartCheck>[실패]</Start> 됐다! 질문은 그만. 살 거 있으면 사고, 내 사생활을 존중하지 않겠다면 네 질문은 무시하마.",Q7DHERMIT,act_hermit_1,,,,0,0
+74110,Dialog,DHERMIT,"<StartCheck>[Success]</Start> If it will stop your incessant questioning, then fine. My name is <FirstName>.",<StartCheck>[성공]</Start> 그 지긋지긋한 심문을 끝낼 수 있다면 좋지. 내 이름은 <FirstName>다.,Q7DHERMIT,,,,,0,0
+74111,Dialog,DHERMIT,How do you know I have the same name as you? Perhaps <FirstName> is not really your name. Maybe you are lying to me.,내 이름이 너와 같다는 걸 네가 어떻게 알아? 어쩌면 <FirstName>(이)가 네 진짜 이름이 아닐 수도 있지. 네가 날 속이는 걸지도 모르고.,Q7DHERMIT,,,,,0,0
+74112,Dialog,DHERMIT,"But let us say for a minute that I had actually traveled to the small, unpleasant village of Hilltop to speak with an old acquaintance. ","그건 그렇고, 내가 옛 지인을 만나러 힐탑이라는 작고 불쾌한 촌락까지 다녀왔다고 치자.",Q7DHERMIT,,,,,0,0
+74113,Dialog,DHERMIT,"I might have heard the name, <FirstName>, and liked it so much that I adopted it as my own. The point being, I do not wish to tell you my name, so quit asking!","거기서 <FirstName>(이)라는 이름을 듣고 마음에 들어 내 이름으로 삼았을 수도 있어. 요점은 하나야. 내 이름을 밝힐 생각이 없으니, 그만 물어!",Q7DHERMIT,,,,,0,0
+74114,Dialog,DHERMIT,"Sure, why not? It is a nice name. Do you have a problem with it?","그래, 왜 안 되지? 좋은 이름이니까. 불만 있나?",Q7DHERMIT,,,,,0,0
+74115,Dialog,DHERMIT,"I told you right up front that there was a good chance that I might lie about such a question. It is not my fault you did not listen. Besides, that might be my real name.",애초에 그런 질문엔 거짓말할 확률이 높다고 말했잖아. 안 들은 건 네 잘못이지. 게다가 그게 내 진짜 이름일 수도 있고.,Q7DHERMIT,,,,,0,0
+74116,Dialog,DHERMIT,"Good, now what else did you want to know?",좋아. 그럼 또 뭘 알고 싶지?,Q7DHERMIT,,,,,0,0
+74117,Dialog,DHERMIT,Good. I will try to answer any question that does not infringe on my privacy.,좋아. 내 사생활을 침해하지 않는 선에서만 답해 주지.,Q7DHERMIT,,,,,0,0
+74118,Dialog,DHERMIT,"If that is what passes for humor in the outer world, then I am glad to have chosen to ignore it. I can ignore you too if you would like. ",바깥세상 유머가 그 모양이면 무시하고 사는 내가 다행이군. 원하면 너도 무시해 줄 수 있다.,Q7DHERMIT,,,,,0,0
+74119,Dialog,DHERMIT,"However, I would rather you either made a purchase and left, or just left. I will answer no more of your questions.","하지만 내 바람은 간단해. 뭐라도 사고 가든가, 아니면 그냥 가. 질문엔 더 이상 답하지 않아.",Q7DHERMIT,act_hermit_1,,,,0,0
+74120,Dialog,DHERMIT,"Yes, go on; get out of here. And do not touch my recharging box, unless you have gold to pay for it.","그래, 가. 그리고 금화 없으면 내 충전 상자엔 손대지 마.",Q7DHERMIT,,,,,0,0
+74121,Dialog,DHERMIT,Good.,좋아.,Q7DHERMIT,,,,,0,0
+74122,Dialog,DHERMIT,One hundred gold for each charge.,충전 한 번에 금화 100.,Q7DHERMIT,,,,,0,0
+74123,Dialog,DHERMIT,"You put in magic items that need more charges, and they are recharged. And then you pay me.",충전이 필요한 마법 물건을 넣으면 충전된다. 그리고 나한테 돈을 내.,Q7DHERMIT,,,,,0,0
+74124,Dialog,DHERMIT,"I charge 500 gold each time, and you can only go to a place you have been before.",전송은 한 번에 금화 500. 가 본 곳으로만 보내 준다.,Q7DHERMIT,,,,,0,0
+74125,Dialog,DHERMIT,Very well. I'll just take the gold and off you go.,좋다. 금화를 받겠다. 곧바로 보내 주지.,Q7DHERMIT,,,,,0,0
+74126,Dialog,DHERMIT,Very well. I'll just take the gold and off you go.,좋다. 금화를 받겠다. 곧바로 보내 주지.,Q7DHERMIT,,,,,0,0
+74127,Dialog,DHERMIT,Very well. I'll just take the gold and off you go.,좋다. 금화를 받겠다. 곧바로 보내 주지.,Q7DHERMIT,,,,,0,0
+74128,Dialog,DHERMIT,Very well. I'll just take the gold and off you go.,좋다. 금화를 받겠다. 곧바로 보내 주지.,Q7DHERMIT,,,,,0,0
+74129,Dialog,DHERMIT,What kind of confidence game are you trying to run here? You don't have that kind of gold!,사기라도 칠 셈이냐? 그만한 금화가 없잖아!,Q7DHERMIT,,,,,0,0
+74130,Dialog,DHERMIT,Very well. I'll just take the gold and off you go.,좋다. 금화를 받겠다. 곧바로 보내 주지.,Q7DHERMIT,,,,,0,0
+74131,Dialog,DHERMIT,"That sounds like a meddling type of question. There is nothing wrong with me, I just do not like strangers, and <lad/lass>, you are stranger than most.","괜히 참견질 같군. 난 아무 문제 없어. 다만 남을 안 좋아할 뿐. 그리고 <lad/lass>, 넌 보통보다 더 낯설어.",Q7DHERMIT,,,,,0,0
+74132,Dialog,DHERMIT,"Because it seemed like an appropriate insult at the moment. Now, are you going to buy something, or did you just come to chatter inanely. ","그 순간 딱 맞는 모욕 같아서 그랬지. 자, 살 건가? 아니면 헛소리하러 온 건가.",Q7DHERMIT,,,,,0,0
+74133,Dialog,DHERMIT,You again?  What do you want this time <lad/lass>?,"또 너냐? 이번엔 뭘 원하지, <lad/lass>?",Q7DHERMIT,,,,,0,0
+74134,Dialog,DHERMIT,"If you buy enough, maybe I won't have to go into Silverymoon this year. That would be nice.",충분히 사 주면 올해는 실버리문에 안 나가도 되겠군. 그거 참 좋겠다.,Q7DHERMIT,,,,,0,0
+74135,Dialog,DHERMIT,"You owe me <CUSTOM501> gold, for using my machine.",내 장치를 썼으니 금화 <CUSTOM501>개를 나한테 빚졌다.,Q7DHERMIT,,,,,0,0
+74136,Dialog,DHERMIT,"Trying to leave without paying me, huh? Well, you owe me <CUSTOM501> gold, so pay up!",값도 안 치르고 나가려는 거냐? 내게 금화 <CUSTOM501>개의 빚이 있어. 당장 내놔!,Q7DHERMIT,,,,,0,0
+74137,Dialog,DHERMIT,Have a look then.,그럼 살펴봐.,Q7DHERMIT,,,,,0,0
+74138,Dialog,DHERMIT,"Then you will just have to sell me some items, and then pay me what you owe.","그럼 내게 물건을 좀 팔아서, 빚부터 갚아.",Q7DHERMIT,,,,,0,0
+74139,Dialog,DHERMIT,Anything else then?,"그럼, 또 다른 건?",Q7DHERMIT,,,,,0,0
+78855,Dialog,DHERMIT,"It did seem rather powerful. I probably should have bought it, but for some reason I can't remember I decided against it.  Hmmm, seems strange to me now.","꽤 강력해 보이긴 했지. 사 뒀어야 했을지도. 그런데 어째선지-이유는 기억나지 않지만-그만두기로 했었다. 흠, 지금 생각하면 좀 이상하군.",Q7DHERMIT,,,,,0,0
+78857,Dialog,DHERMIT,Not so much more strange than a dwarf with sticky fingers traveling with a <race> <class>. ,손이 가벼운 드워프가 <race> <class>와 함께 다니는 것만큼 이상하진 않지.,Q7DHERMIT,,,,,0,0
+78858,Dialog,DHERMIT,Not so much more strange than a dwarf with sticky fingers traveling with an <race> <class>. ,손이 가벼운 드워프가 <race> <class>와 함께 다니는 것만큼 이상하진 않지.,Q7DHERMIT,,,,,0,0

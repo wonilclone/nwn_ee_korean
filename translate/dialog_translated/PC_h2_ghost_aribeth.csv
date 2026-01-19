@@ -1,0 +1,460 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+96356,PC,Player Character,"""No, that's it.""","""아니, 그게 다야.""",h2_ghost_aribeth,,,,,0,0
+96357,PC,Player Character,"""I think we need to part ways.""","""우리는 헤어져야 할 것 같아.""",h2_ghost_aribeth,,,,,0,0
+96358,PC,Player Character,"""All right, fine. Stay with me, then.""","""알았어, 좋아. 그럼 나와 함께 있어.""",h2_ghost_aribeth,,,,,0,0
+96359,PC,Player Character,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",h2_ghost_aribeth,,,,,0,0
+96360,PC,Player Character,"""Leave me. Now.""","""떠나. 지금.""",h2_ghost_aribeth,,x0_d2_ischapt1,,,0,0
+96361,PC,Player Character,"""I want to change your tactics.""","""전술을 바꾸고 싶어.""",h2_ghost_aribeth,,,,,0,0
+96362,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",h2_ghost_aribeth,,,,,0,0
+96363,PC,Player Character,"""I don't want you to cast any spells until I say otherwise.""","""내가 허락할 때까지 주문을 사용하지 마.""",h2_ghost_aribeth,x2_ch_spell_off,x2_ch_yes_spells,,,0,0
+96364,PC,Player Character,"""I want you to go ahead and cast spells on your own.""","""알아서 주문을 사용해.""",h2_ghost_aribeth,x2_ch_spell_on,x2_ch_no_spells,,,0,0
+96365,PC,Player Character,"""Do not try to use dispel magic spells to remove disabling effects from party members.""","""동료들의 무력화 효과를 제거하기 위해 주문해제를 사용하지 마.""",h2_ghost_aribeth,x2_d1_unsetdisp,x2_d1_usedispel,,,0,0
+96366,PC,Player Character,"""Use dispel magic spells to remove disabling effects from party members.""","""동료들의 무력화 효과를 제거하기 위해 주문해제를 사용해.""",h2_ghost_aribeth,x2_d1_setdispel,x2_d1_nodispel,,,0,0
+96367,PC,Player Character,"""I want you to leave any traps you see alone for now.""","""당분간 발견한 함정은 그냥 놔둬.""",h2_ghost_aribeth,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+96368,PC,Player Character,"""I want you to disarm any traps that you see.""","""발견한 함정은 모두 해제해.""",h2_ghost_aribeth,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+96369,PC,Player Character,"""Don't try to be stealthy anymore.""","""더 이상 은신하려 하지 마.""",h2_ghost_aribeth,x2_d1_stealth3,x2_d1_instealth,,,0,0
+96370,PC,Player Character,"""Stay stealthy, but only until the next fight.""","""은신해, 하지만 다음 전투 때까지만.""",h2_ghost_aribeth,x2_d1_stealth2,,,,0,0
+96371,PC,Player Character,"""I need you to be stealthy right now.""","""지금 은신이 필요해.""",h2_ghost_aribeth,x0_d1_hen_stlth,x0_d2_hen_stltn,,,0,0
+96372,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 돕지 마.""",h2_ghost_aribeth,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+96373,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 도와줘.""",h2_ghost_aribeth,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+96374,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와의 거리를 조정하고 싶어.""",h2_ghost_aribeth,,,,,0,0
+96375,PC,Player Character [Follow: Far],"""Stay a long distance away from me.""","""먼 거리를 유지해.""",h2_ghost_aribeth,nw_ch_dist_18,,[Follow: Far],,0,0
+96376,PC,Player Character [Follow: Medium],"""Keep a medium distance.""","""중간 거리를 유지해.""",h2_ghost_aribeth,nw_ch_dist_12,,[Follow: Medium],,0,0
+96377,PC,Player Character [Follow: Close],"""Stay close.""","""가까이 있어.""",h2_ghost_aribeth,nw_ch_dist_6,,[Follow: Close],,0,0
+96378,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 발견하면 바로 공격해.""",h2_ghost_aribeth,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+96379,PC,Player Character,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격할 때까지 기다려.""",h2_ghost_aribeth,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+96380,PC,Player Character,"""I want to adjust your equipment.""","""장비를 조정하고 싶어.""",h2_ghost_aribeth,,,,,0,0
+96382,PC,Player Character,"""I want you to use one of your special abilities.""","""특수 능력 중 하나를 사용해줘.""",h2_ghost_aribeth,,,,,0,0
+96383,PC,Player Character,"""Divine Shield.""","""신성한 방패.""",h2_ghost_aribeth,,x2_d1_dshield,,,0,0
+96384,PC,Player Character,"""Divine Might.""","""신성한 권능.""",h2_ghost_aribeth,,x2_d1_dmight,,,0,0
+96385,PC,Player Character,"""Lay on Hands.""","""안수 치유.""",h2_ghost_aribeth,x2_d2_layonhands,x2_d2_haslayon,,,0,0
+96460,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 하려던 말이 뭐였어?""",h2_ghost_aribeth,,x0_d2_hen_interp,,,0,0
+96461,PC,Player Character,"""Let's stop and talk for a moment.""","""잠깐 멈춰서 얘기하자.""",h2_ghost_aribeth,,,,,0,0
+96462,PC,Player Character,"""All right, enough of this discussion.""","""알았어, 이 정도면 충분해.""",h2_ghost_aribeth,,,,,0,0
+96463,PC,Player Character,"""How are you feeling?""","""기분이 어때?""",h2_ghost_aribeth,,,,,0,0
+96464,PC,Player Character,"""What are you going to do when all this is over?""","""이 모든 게 끝나면 뭘 할 거야?""",h2_ghost_aribeth,,,,,0,0
+96465,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96466,PC,Player Character,"""A sound plan. I'm impressed, Aribeth.""","""좋은 계획이네. 감탄했어, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96467,PC,Player Character,"""No, I won't allow it.""","""아니, 허락하지 않을 거야.""",h2_ghost_aribeth,,,,,0,0
+96468,PC,Player Character,"""Assuming you can leave Cania...""","""카니아를 떠날 수 있다고 가정하면...""",h2_ghost_aribeth,,,,,0,0
+96469,PC,Player Character,"""To what end?""","""무슨 목적으로?""",h2_ghost_aribeth,,,,,0,0
+96470,PC,Player Character,"""Why did you almost become one of the Lost?""","""왜 거의 잃어버린 자가 될 뻔했어?""",h2_ghost_aribeth,,,,,0,0
+96471,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96472,PC,Player Character,"""The Hells can pose no threat to any of us.""","""지옥은 우리 중 누구에게도 위협이 될 수 없어.""",h2_ghost_aribeth,,,,,0,0
+96473,PC,Player Character,"""You're welcome, Aribeth. I'm happy to have helped.""","""천만에, 아리베스. 도울 수 있어서 기뻐.""",h2_ghost_aribeth,,,,,0,0
+96474,PC,Player Character,"""Hmph. I should have known to leave things be...""","""흠. 그냥 내버려뒀어야 했는데...""",h2_ghost_aribeth,,,,,0,0
+96475,PC,Player Character,"""What is it like to be a spirit?""","""영혼이 된다는 게 어때?""",h2_ghost_aribeth,,,,,0,0
+96476,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96477,PC,Player Character,"""Much as I expected, then.""","""내가 예상한 대로네.""",h2_ghost_aribeth,,,,,0,0
+96478,PC,Player Character,"""It must be horrible for you!""","""정말 끔찍하겠어!""",h2_ghost_aribeth,,,,,0,0
+96479,PC,Player Character,"""It could be worse...""","""더 나쁠 수도 있었겠지...""",h2_ghost_aribeth,,,,,0,0
+96480,PC,Player Character,"""What exactly happened in Neverwinter, anyway?""","""네버윈터에서 정확히 무슨 일이 있었어?""",h2_ghost_aribeth,,,,,0,0
+96481,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96482,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96483,PC,Player Character,"""How did you die? How did you end up here?""","""어떻게 죽었어? 어떻게 여기 오게 됐어?""",h2_ghost_aribeth,,,,,0,0
+96484,PC,Player Character,"""But they defeated you. They turned you back...""","""하지만 그들이 너를 물리쳤잖아. 되돌려놨잖아...""",h2_ghost_aribeth,,,,,0,0
+96485,PC,Player Character,"""Why would you do such a thing?""","""왜 그런 일을 했어?""",h2_ghost_aribeth,,,,,0,0
+96486,PC,Player Character,"""Whose army did you lead?""","""누구의 군대를 이끌었어?""",h2_ghost_aribeth,,,,,0,0
+96487,PC,Player Character,"""But who did you serve?""","""하지만 누구를 섬겼어?""",h2_ghost_aribeth,,,,,0,0
+96488,PC,Player Character,"""But before that. There was a time you called the city home.""","""하지만 그 전에. 그 도시를 고향이라고 부르던 때가 있었잖아.""",h2_ghost_aribeth,,,,,0,0
+96489,PC,Player Character,"""Why would you wish to be ignorant?""","""왜 모르는 게 낫다고 생각해?""",h2_ghost_aribeth,,,,,0,0
+96491,PC,Player Character,"""I think we need to part ways.""","""우리는 헤어져야 할 것 같아.""",h2_ghost_aribeth,,,,,0,0
+96492,PC,Player Character,"""All right, fine. Stay with me, then.""","""알았어, 좋아. 그럼 나와 함께 있어.""",h2_ghost_aribeth,,,,,0,0
+96493,PC,Player Character,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",h2_ghost_aribeth,,,,,0,0
+96494,PC,Player Character,"""Leave me. Now.""","""떠나. 지금.""",h2_ghost_aribeth,,x0_d2_ischapt1,,,0,0
+96495,PC,Player Character,"""I want to change your tactics.""","""전술을 바꾸고 싶어.""",h2_ghost_aribeth,,,,,0,0
+96496,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",h2_ghost_aribeth,,,,,0,0
+96497,PC,Player Character,"""I don't want you to cast any spells until I say otherwise.""","""내가 허락할 때까지 주문을 사용하지 마.""",h2_ghost_aribeth,x2_ch_spell_off,x2_ch_yes_spells,,,0,0
+96498,PC,Player Character,"""I want you to go ahead and cast spells on your own.""","""알아서 주문을 사용해.""",h2_ghost_aribeth,x2_ch_spell_on,x2_ch_no_spells,,,0,0
+96499,PC,Player Character,"""Do not try to use dispel magic spells to remove disabling effects from party members.""","""동료들의 무력화 효과를 제거하기 위해 주문해제를 사용하지 마.""",h2_ghost_aribeth,x2_d1_unsetdisp,x2_d1_usedispel,,,0,0
+96500,PC,Player Character,"""Use dispel magic spells to remove disabling effects from party members.""","""동료들의 무력화 효과를 제거하기 위해 주문해제를 사용해.""",h2_ghost_aribeth,x2_d1_setdispel,x2_d1_nodispel,,,0,0
+96501,PC,Player Character,"""Do not disarm traps that you see.""","""발견한 함정을 해제하지 마.""",h2_ghost_aribeth,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+96502,PC,Player Character,"""Disarm any traps that you see.""","""발견한 함정은 모두 해제해.""",h2_ghost_aribeth,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+96503,PC,Player Character,"""Don't try to be stealthy anymore.""","""더 이상 은신하려 하지 마.""",h2_ghost_aribeth,x2_d1_stealth3,x2_d1_instealth,,,0,0
+96504,PC,Player Character,"""Stay stealthy, but only until the next fight.""","""은신해, 하지만 다음 전투 때까지만.""",h2_ghost_aribeth,x2_d1_stealth2,,,,0,0
+96505,PC,Player Character,"""I need you to be stealthy right now.""","""지금 은신이 필요해.""",h2_ghost_aribeth,x0_d1_hen_stlth,x0_d2_hen_stltn,,,0,0
+96506,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 돕지 마.""",h2_ghost_aribeth,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+96507,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""잠긴 문이나 상자를 여는 데 실패하면 도와줘.""",h2_ghost_aribeth,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+96508,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와의 거리를 조정하고 싶어.""",h2_ghost_aribeth,,,,,0,0
+96509,PC,Player Character [Follow: Far],"""Stay a long distance away from me.""","""먼 거리를 유지해.""",h2_ghost_aribeth,nw_ch_dist_18,,[Follow: Far],,0,0
+96510,PC,Player Character [Follow: Medium],"""Keep a medium distance.""","""중간 거리를 유지해.""",h2_ghost_aribeth,nw_ch_dist_12,,[Follow: Medium],,0,0
+96511,PC,Player Character [Follow: Close],"""Stay close.""","""가까이 있어.""",h2_ghost_aribeth,nw_ch_dist_6,,[Follow: Close],,0,0
+96512,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 발견하면 바로 공격해.""",h2_ghost_aribeth,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+96513,PC,Player Character,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격할 때까지 기다려.""",h2_ghost_aribeth,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+96514,PC,Player Character,"""I want to adjust your equipment.""","""장비를 조정하고 싶어.""",h2_ghost_aribeth,,,,,0,0
+96588,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 하려던 말이 뭐였어?""",h2_ghost_aribeth,,x0_d2_hen_interp,,,0,0
+96589,PC,Player Character,"""Let's stop and talk for a moment.""","""잠깐 멈춰서 얘기하자.""",h2_ghost_aribeth,,,,,0,0
+96590,PC,Player Character,"""All right, enough of this discussion.""","""알았어, 이 정도면 충분해.""",h2_ghost_aribeth,,,,,0,0
+96591,PC,Player Character,"""How are you feeling?""","""기분이 어때?""",h2_ghost_aribeth,,,,,0,0
+96592,PC,Player Character,"""What are you going to do when all this is over?""","""이 모든 게 끝나면 뭘 할 거야?""",h2_ghost_aribeth,,,,,0,0
+96593,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96594,PC,Player Character,"""A sound plan. I'm impressed.""","""좋은 계획이네. 감탄했어.""",h2_ghost_aribeth,,,,,0,0
+96595,PC,Player Character,"""No, I'll never let you.""","""아니, 절대 허락하지 않을 거야.""",h2_ghost_aribeth,,,,,0,0
+96596,PC,Player Character,"""Assuming you can leave Cania...""","""카니아를 떠날 수 있다고 가정하면...""",h2_ghost_aribeth,,,,,0,0
+96597,PC,Player Character,"""To what end?""","""무슨 목적으로?""",h2_ghost_aribeth,,,,,0,0
+96598,PC,Player Character,"""Why did you almost become one of the Lost?""","""왜 거의 잃어버린 자가 될 뻔했어?""",h2_ghost_aribeth,,,,,0,0
+96599,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96600,PC,Player Character,"""I'm glad I could help.""","""도울 수 있어서 기뻐.""",h2_ghost_aribeth,,,,,0,0
+96601,PC,Player Character,"""You're welcome.""","""천만에.""",h2_ghost_aribeth,,,,,0,0
+96602,PC,Player Character,"""What have I done?""","""내가 무슨 짓을 한 거야?""",h2_ghost_aribeth,,,,,0,0
+96603,PC,Player Character,"""What is it like to be a spirit?""","""영혼이 된다는 게 어때?""",h2_ghost_aribeth,,,,,0,0
+96604,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96605,PC,Player Character,"""I think you're mad.""","""미쳤구나.""",h2_ghost_aribeth,,,,,0,0
+96606,PC,Player Character,"""That's disgusting!""","""역겨워!""",h2_ghost_aribeth,,,,,0,0
+96607,PC,Player Character,"""Sounds pleasant...""","""좋아 보이는데...""",h2_ghost_aribeth,,,,,0,0
+96608,PC,Player Character,"""What exactly happened in Neverwinter, anyway?""","""네버윈터에서 정확히 무슨 일이 있었어?""",h2_ghost_aribeth,,,,,0,0
+96609,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96610,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96611,PC,Player Character,"""How did you die? How did you end up here?""","""어떻게 죽었어? 어떻게 여기 오게 됐어?""",h2_ghost_aribeth,,,,,0,0
+96612,PC,Player Character,"""Yet they defeated you...""","""하지만 그들이 너를 물리쳤잖아...""",h2_ghost_aribeth,,,,,0,0
+96613,PC,Player Character,"""But why? What drove you to such an end?""","""하지만 왜? 무엇이 그런 결말로 이끌었어?""",h2_ghost_aribeth,,,,,0,0
+96614,PC,Player Character,"""You didn't love Fenthick?""","""펜딕을 사랑하지 않았어?""",h2_ghost_aribeth,,,,,0,0
+96615,PC,Player Character,"""Whose army did you lead?""","""누구의 군대를 이끌었어?""",h2_ghost_aribeth,,,,,0,0
+96616,PC,Player Character,"""But before that. You lived there, didn't you?""","""하지만 그 전에. 거기서 살았잖아, 그렇지?""",h2_ghost_aribeth,,,,,0,0
+96617,PC,Player Character,"""What hypocrisy?""","""무슨 위선?""",h2_ghost_aribeth,,,,,0,0
+96618,PC,Player Character,"""Not right now, Aribeth. Stay warm.""","""지금은 아니야, 아리베스. 따뜻하게 있어.""",h2_ghost_aribeth,,,,,0,0
+96619,PC,Player Character,"""Yes, I'd like you to travel with me again.""","""그래, 다시 함께 여행하면 좋겠어.""",h2_ghost_aribeth,,,,,0,0
+96620,PC,Player Character,"""Not really. I just wanted to rub your nose in it a little.""","""별로. 그냥 좀 상기시켜주고 싶었어.""",h2_ghost_aribeth,,,,,0,0
+96621,PC,Player Character,"""Come along but keep your comments to yourself.""","""함께 와, 하지만 의견은 네가 간직해.""",h2_ghost_aribeth,,,,,0,0
+96622,PC,Player Character,"""Sorry, not now. We'll talk about it later.""","""미안, 지금은 안 돼. 나중에 얘기하자.""",h2_ghost_aribeth,x0_d1_hen_inter0,,,,0,0
+96623,PC,Player Character,"""Yes, Aribeth?""","""그래, 아리베스?""",h2_ghost_aribeth,x0_d1_hen_inter0,,,,0,0
+96624,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96625,PC,Player Character,"""Well I have no time to hear your religious lectures.""","""뭐, 네 종교 설교를 들을 시간이 없어.""",h2_ghost_aribeth,,,,,0,0
+96626,PC,Player Character,"""You're the expert. Explain to me the nature of the Hells...""","""넌 전문가잖아. 지옥의 본질을 설명해줘...""",h2_ghost_aribeth,,,,,0,0
+96627,PC,Player Character,"""Do you take issue with your punishment?""","""네 처벌에 문제가 있어?""",h2_ghost_aribeth,,,,,0,0
+96628,PC,Player Character,"""The Hells are a little colder than I expected, that's for sure.""","""지옥이 예상보다 좀 춥네, 확실히.""",h2_ghost_aribeth,,,,,0,0
+96629,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96630,PC,Player Character,"""Why ice and lava? It doesn't make sense.""","""왜 얼음과 용암? 말이 안 돼.""",h2_ghost_aribeth,,,,,0,0
+96631,PC,Player Character,"""Mephistopheles is coming back, isn't he?""","""메피스토펠레스가 돌아오고 있지, 그렇지?""",h2_ghost_aribeth,,,,,0,0
+96632,PC,Player Character,"""Why would he just abandon this place?""","""왜 이곳을 그냥 버렸을까?""",h2_ghost_aribeth,,,,,0,0
+96633,PC,Player Character,"""Temple training?""","""사원 훈련?""",h2_ghost_aribeth,,,,,0,0
+96634,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96635,PC,Player Character,"""Keep them to yourself. I have no time to hear them.""","""네가 간직해. 들을 시간이 없어.""",h2_ghost_aribeth,,,,,0,0
+96636,PC,Player Character,"""Forget Neverwinter! It was nothing but a city of fools.""","""네버윈터는 잊어! 바보들의 도시일 뿐이야.""",h2_ghost_aribeth,,,,,0,0
+96637,PC,Player Character,"""What memories?""","""무슨 기억?""",h2_ghost_aribeth,,,,,0,0
+96638,PC,Player Character,"""Not happy memories, I assume?""","""행복한 기억은 아니겠지?""",h2_ghost_aribeth,,,,,0,0
+96639,PC,Player Character,"""Why would Lord Nasher have been scared?""","""나셰르 영주는 왜 두려워했을까?""",h2_ghost_aribeth,,,,,0,0
+96640,PC,Player Character,"""Tell me of their deaths.""","""그들의 죽음에 대해 말해줘.""",h2_ghost_aribeth,,,,,0,0
+96641,PC,Player Character,"""Tell me of Fenthick and Desther.""","""펜딕과 데스터에 대해 말해줘.""",h2_ghost_aribeth,,,,,0,0
+96642,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96643,PC,Player Character,"""That's a responsibility I'll shoulder, then.""","""그럼 그 책임은 내가 질게.""",h2_ghost_aribeth,,,,,0,0
+96644,PC,Player Character,"""Don't worry. All we want is the Gatekeeper's.""","""걱정 마. 우리가 원하는 건 문지기의 것뿐이야.""",h2_ghost_aribeth,,,,,0,0
+96645,PC,Player Character,"""If that's what it takes to do good in the world.""","""세상에 선을 행하는 데 필요하다면.""",h2_ghost_aribeth,,,,,0,0
+96646,PC,Player Character,"""Hold on, we need to free her first.""","""잠깐, 먼저 그녀를 풀어줘야 해.""",h2_ghost_aribeth,,,,,0,0
+96647,PC,Player Character,"""Stop lecturing me, all right? I can handle it!""","""설교 그만해, 알았어? 감당할 수 있어!""",h2_ghost_aribeth,,,,,0,0
+96648,PC,Player Character,"""What's the matter? Scared I might learn yours?""","""무슨 일이야? 내가 네 걸 알까 봐 겁나?""",h2_ghost_aribeth,,,,,0,0
+96649,PC,Player Character,"""I'll keep it in mind.""","""명심할게.""",h2_ghost_aribeth,,,,,0,0
+96650,PC,Player Character,"""You give sound advice, Aribeth. I will heed it well.""","""좋은 조언이야, 아리베스. 잘 새겨들을게.""",h2_ghost_aribeth,,,,,0,0
+96651,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96652,PC,Player Character,"""Where do you recognize it from?""","""어디서 봤어?""",h2_ghost_aribeth,,,,,0,0
+96653,PC,Player Character,"""Innocent?""","""순결?""",h2_ghost_aribeth,,,,,0,0
+96654,PC,Player Character,"""You thought you loved him.""","""그를 사랑한다고 생각했구나.""",h2_ghost_aribeth,,,,,0,0
+96655,PC,Player Character,"""You were young.""","""어렸잖아.""",h2_ghost_aribeth,,,,,0,0
+96656,PC,Player Character,"""But you've never been here before.""","""하지만 여기 온 적 없잖아.""",h2_ghost_aribeth,,,,,0,0
+96657,PC,Player Character,"""Where do you recognize the tree from?""","""그 나무를 어디서 봤어?""",h2_ghost_aribeth,,,,,0,0
+96658,PC,Player Character,"""I think we've found the Knower of Places, then.""","""그럼 우리가 공간의 현자를 찾은 것 같네.""",h2_ghost_aribeth,,,,,0,0
+96659,PC,Player Character,"""Don't get your hopes up.""","""기대하지 마.""",h2_ghost_aribeth,,,,,0,0
+96660,PC,Player Character,"""It's just any old tree.""","""그냥 평범한 나무일 뿐이야.""",h2_ghost_aribeth,,,,,0,0
+96661,PC,Player Character,"""What tree?""","""무슨 나무?""",h2_ghost_aribeth,,,,,0,0
+96662,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96663,PC,Player Character,"""Yes, I'm plotting a painful demise for the little beast...""","""그래, 그 작은 짐승에게 고통스러운 최후를 계획 중이야...""",h2_ghost_aribeth,,,,,0,0
+96664,PC,Player Character,"""And I couldn't help see the look of interest on yours...""","""그리고 네 얼굴에 보이는 관심을 보지 않을 수 없었어...""",h2_ghost_aribeth,,,,,0,0
+96665,PC,Player Character,"""You'd be shocked too. It's rather cold down here.""","""너도 놀랄 거야. 여기 꽤 춥거든.""",h2_ghost_aribeth,,,,,0,0
+96666,PC,Player Character,"""Keep you hands to yourself, ghost. I'm not interested.""","""손 치워, 유령. 관심 없어.""",h2_ghost_aribeth,,,,,0,0
+96667,PC,Player Character,"""Hey now, I thought you were supposed to be good!""","""이봐, 넌 선해야 하는 거 아니야!""",h2_ghost_aribeth,,,,,0,0
+96668,PC,Player Character,"""Mind your own business... And stop laughing.""","""네 일이나 신경 써... 그리고 웃지 마.""",h2_ghost_aribeth,,,,,0,0
+96669,PC,Player Character,"""Well keep your hands to yourself. I'm not interested.""","""뭐, 손은 치워. 관심 없어.""",h2_ghost_aribeth,,,,,0,0
+96670,PC,Player Character,"""Are you flirting with me?""","""나한테 작업 거는 거야?""",h2_ghost_aribeth,,,,,0,0
+96671,PC,Player Character,"""Expectations? I thought you were supposed to be good!""","""기대? 넌 선해야 하는 거 아니야!""",h2_ghost_aribeth,,,,,0,0
+96672,PC,Player Character,"""Well I'm not interested, all right?""","""뭐, 관심 없어, 알았어?""",h2_ghost_aribeth,,,,,0,0
+96673,PC,Player Character,"""A surprise but not an unwelcome one.""","""놀랍지만 나쁘지 않네.""",h2_ghost_aribeth,hx_ari_romce_ad1,,,,0,0
+96674,PC,Player Character,"""Love?""","""사랑?""",h2_ghost_aribeth,,,,,0,0
+96675,PC,Player Character,"""I... I just don't think I'm ready for it, Aribeth.""","""난... 아직 준비가 안 된 것 같아, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96676,PC,Player Character,"""When it comes to dead girls? Yes. Definitely frightening.""","""죽은 여자라면? 그래. 확실히 무서워.""",h2_ghost_aribeth,,,,,0,0
+96677,PC,Player Character,"""Frightening? Terrifying is more like it!""","""무서워? 끔찍하다는 게 더 정확해!""",h2_ghost_aribeth,,,,,0,0
+96678,PC,Player Character,"""No, I think I like it...""","""아니, 마음에 드는 것 같은데...""",h2_ghost_aribeth,hx_ari_romce_ad1,,,,0,0
+96679,PC,Player Character,"""Whoa, slow down. Marry?""","""워, 천천히. 결혼?""",h2_ghost_aribeth,,,,,0,0
+96680,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96681,PC,Player Character,"""All I feel is the weight of dust and time.""","""느껴지는 건 먼지와 시간의 무게뿐이야.""",h2_ghost_aribeth,,,,,0,0
+96682,PC,Player Character,"""It serves you right, you traitor...""","""자업자득이야, 배신자...""",h2_ghost_aribeth,,,,,0,0
+96683,PC,Player Character,"""Good, I'm glad I'm not the only one.""","""좋아, 나만 그런 게 아니라서 다행이야.""",h2_ghost_aribeth,,,,,0,0
+96684,PC,Player Character,"""I'm sorry, I didn't mean to be so harsh.""","""미안, 그렇게 가혹하게 할 생각은 아니었어.""",h2_ghost_aribeth,,,,,0,0
+96685,PC,Player Character,"""Yes, I can. There's a happiness here.""","""그래, 느껴져. 여기 행복이 있어.""",h2_ghost_aribeth,,,,,0,0
+96686,PC,Player Character,"""All right, let's get down to business.""","""알았어, 본론으로 들어가자.""",h2_ghost_aribeth,,,,,0,0
+96687,PC,Player Character,"""It's good to see you happy.""","""행복해 보여서 좋네.""",h2_ghost_aribeth,,,,,0,0
+96688,PC,Player Character,"""That's how you are, too, isn't it?""","""너도 그렇지, 그렇지?""",h2_ghost_aribeth,,,,,0,0
+96689,PC,Player Character,"""It's all in your head. Now stop your prancing around.""","""네 상상일 뿐이야. 이제 껑충거리는 거 그만해.""",h2_ghost_aribeth,,,,,0,0
+96690,PC,Player Character,"""I just want to go home, Aribeth.""","""그냥 집에 가고 싶어, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96691,PC,Player Character,"""Fine, I can feel it! But you can't make me like it...""","""좋아, 느껴져! 하지만 좋아하게 만들 순 없어...""",h2_ghost_aribeth,,,,,0,0
+96692,PC,Player Character,"""Hope just gets you killed.""","""희망은 그저 죽음을 부를 뿐이야.""",h2_ghost_aribeth,,,,,0,0
+96693,PC,Player Character,"""Being trapped in the Nine Hells put a damper on things...""","""구층 지옥에 갇혀 있으니 기분이 다운되네...""",h2_ghost_aribeth,,,,,0,0
+96694,PC,Player Character,"""Let's just drop it, all right? We've got work to do.""","""그냥 그만하자, 알았어? 할 일이 있어.""",h2_ghost_aribeth,,,,,0,0
+96695,PC,Player Character,"""You're right, I need to loosen up a little.""","""네 말이 맞아, 좀 긴장을 풀어야겠어.""",h2_ghost_aribeth,,,,,0,0
+96696,PC,Player Character,"""I'm not interested in a lecture on virtues, Aribeth.""","""덕목에 대한 설교엔 관심 없어, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96697,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96698,PC,Player Character,"""Through that portal is vengeance, nothing more.""","""저 차원문 너머엔 복수뿐, 그 이상 없어.""",h2_ghost_aribeth,,,,,0,0
+96699,PC,Player Character,"""True, I must face Mephistopheles with no evil in my heart.""","""맞아, 마음속에 악의 없이 메피스토펠레스와 맞서야 해.""",h2_ghost_aribeth,,,,,0,0
+96700,PC,Player Character,"""Hope, then. It doesn't matter. Just follow.""","""희망이면 희망이지. 상관없어. 그냥 따라와.""",h2_ghost_aribeth,,,,,0,0
+96701,PC,Player Character,"""To each their own. For me, it is vengeance.""","""각자의 몫이지. 내겐 복수야.""",h2_ghost_aribeth,,,,,0,0
+96702,PC,Player Character,"""It's all right. I'm going with you.""","""괜찮아. 함께 갈게.""",h2_ghost_aribeth,,,,,0,0
+96703,PC,Player Character,"""We all have devils on our back, Aribeth.""","""우리 모두 등에 마귀를 지고 있어, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96704,PC,Player Character,"""Let's go.""","""가자.""",h2_ghost_aribeth,,,,,0,0
+96705,PC,Player Character,"<StartAction>[Aribeth]</Start> ""Va'ardalia the Twinsouled...""","<StartAction>[아리베스]</Start> ""두영혼의 바아달리아...""",h2_ghost_aribeth,a_truename,hx_ari_nameonce,,,0,0
+96706,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",h2_ghost_aribeth,,,,,0,0
+96707,PC,Player Character,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 대해 죄책감을 느끼지 마.""",h2_ghost_aribeth,,,,,0,0
+96708,PC,Player Character,"""You are right. I will not ask that of you.""","""네 말이 맞아. 그걸 요구하지 않을게.""",h2_ghost_aribeth,,,,,0,0
+96709,PC,Player Character,"""Don't you see? This is your atonement... It's all right...""","""모르겠어? 이게 네 속죄야... 괜찮아...""",h2_ghost_aribeth,,,,,0,0
+96710,PC,Player Character,"""I just don't want to see you suffer so.""","""그저 네가 그렇게 고통받는 걸 보고 싶지 않을 뿐이야.""",h2_ghost_aribeth,,,,,0,0
+96711,PC,Player Character,"""Yes, Aribeth. Dead and cold...""","""그래, 아리베스. 죽고 차갑게...""",h2_ghost_aribeth,,,,,0,0
+96712,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",h2_ghost_aribeth,,c_evilact,,,0,0
+96713,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",h2_ghost_aribeth,,,,,0,0
+96714,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",h2_ghost_aribeth,,,,,0,0
+96716,PC,Player Character,"""I command you to pursue evil, not good.""","""선이 아닌 악을 추구하라고 명령한다.""",h2_ghost_aribeth,hx_ari_change_e,c_evilact,,,0,0
+96717,PC,Player Character,"""I command you to love me...""","""날 사랑하라고 명령한다...""",h2_ghost_aribeth,h2a_ari_nameroma,c_false,,,0,0
+96718,PC,Player Character,"""That is all, Aribeth.""","""그게 다야, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96719,PC,Player Character,"""That portal is the future, not the past.""","""저 차원문은 미래지, 과거가 아니야.""",h2_ghost_aribeth,,,,,0,0
+96720,PC,Player Character,"""I'll be there. There, on the other side.""","""거기 있을게. 거기, 반대편에.""",h2_ghost_aribeth,,,,,0,0
+96721,PC,Player Character,"""But you are loved.""","""하지만 넌 사랑받고 있어.""",h2_ghost_aribeth,,,,,0,0
+96722,PC,Player Character,"""It's never too late, Aribeth.""","""결코 늦지 않았어, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96723,PC,Player Character,"""Do you want me to?""","""내가 그러길 원해?""",h2_ghost_aribeth,,,,,0,0
+96724,PC,Player Character,"""No, Aribeth. I never did.""","""아니, 아리베스. 한 번도 없었어.""",h2_ghost_aribeth,,,,,0,0
+96725,PC,Player Character,"""Well, we've had our fun but I wouldn't call it love...""","""뭐, 재미는 있었지만 사랑이라고 부르진 않겠어...""",h2_ghost_aribeth,,,,,0,0
+96726,PC,Player Character,"""Against my better judgment, I'm afraid I do.""","""내 판단과는 다르지만, 그런 것 같아.""",h2_ghost_aribeth,hx_ari_romce_ad2,,,,0,0
+96727,PC,Player Character,"""Yes, I do. With all my heart.""","""그래, 그래. 진심으로.""",h2_ghost_aribeth,hx_ari_romce_ad2,,,,0,0
+96728,PC,Player Character,"""You are my one true love.""","""넌 내 하나뿐인 진정한 사랑이야.""",h2_ghost_aribeth,hx_ari_romce_ad2,hx_ari_is_love,,,0,0
+96729,PC,Player Character,"""Save it for later, ghost.""","""나중에 해, 유령.""",h2_ghost_aribeth,x0_d1_hen_inter0,,,,0,0
+96730,PC,Player Character,"""Spit it out, Aribeth...""","""말해봐, 아리베스...""",h2_ghost_aribeth,x0_d1_hen_inter0,,,,0,0
+96731,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96732,PC,Player Character,"""Well I have no time to hear your maddened prattling.""","""뭐, 네 미친 헛소리를 들을 시간이 없어.""",h2_ghost_aribeth,,,,,0,0
+96733,PC,Player Character,"""As you seem an expert, what is the nature of the Hells, then?""","""넌 전문가인 것 같으니, 지옥의 본질이 뭐야?""",h2_ghost_aribeth,,,,,0,0
+96734,PC,Player Character,"""Do you take issue with your punishment?""","""네 처벌에 문제가 있어?""",h2_ghost_aribeth,,,,,0,0
+96735,PC,Player Character,"""How do you like it?""","""마음에 들어?""",h2_ghost_aribeth,,,,,0,0
+96736,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96737,PC,Player Character,"""Warmer I can understand but blacker?""","""더 따뜻하다는 건 이해하는데 더 검다고?""",h2_ghost_aribeth,,,,,0,0
+96738,PC,Player Character,"""Planning a coup?""","""쿠데타 계획 중이야?""",h2_ghost_aribeth,,,,,0,0
+96739,PC,Player Character,"""Why would he just abandon this place?""","""왜 이곳을 그냥 버렸을까?""",h2_ghost_aribeth,,,,,0,0
+96740,PC,Player Character,"""Given the choice?""","""선택권이 주어졌어?""",h2_ghost_aribeth,,,,,0,0
+96741,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96742,PC,Player Character,"""Then keep them to yourself.""","""그럼 네가 간직해.""",h2_ghost_aribeth,,,,,0,0
+96743,PC,Player Character,"""Forget Neverwinter! It was nothing but a city of fools.""","""네버윈터는 잊어! 바보들의 도시일 뿐이야.""",h2_ghost_aribeth,,,,,0,0
+96744,PC,Player Character,"""What memories?""","""무슨 기억?""",h2_ghost_aribeth,,,,,0,0
+96745,PC,Player Character,"""I would think that would make you happy.""","""그게 널 행복하게 할 줄 알았는데.""",h2_ghost_aribeth,,,,,0,0
+96746,PC,Player Character,"""Why would Lord Nasher have been scared?""","""왜 나셰르 영주가 두려워했을까?""",h2_ghost_aribeth,,,,,0,0
+96747,PC,Player Character,"""Tell me of their deaths.""","""그들의 죽음에 대해 말해줘.""",h2_ghost_aribeth,,,,,0,0
+96748,PC,Player Character,"""Tell me of Fenthick and Desther.""","""펜딕과 데스터에 대해 말해줘.""",h2_ghost_aribeth,,,,,0,0
+96749,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96750,PC,Player Character,"""I like the way you think, Aribeth...""","""네 생각이 마음에 드는데, 아리베스...""",h2_ghost_aribeth,,,,,0,0
+96751,PC,Player Character,"""Why bother? Mephistopheles already beat them once.""","""왜 굳이? 메피스토펠레스가 이미 한 번 이겼잖아.""",h2_ghost_aribeth,,,,,0,0
+96752,PC,Player Character,"""I don't think they're interested...""","""관심 없을 것 같은데...""",h2_ghost_aribeth,,,,,0,0
+96753,PC,Player Character,"""Too risky. Traitors can't be trusted...""","""너무 위험해. 배신자들은 믿을 수 없어...""",h2_ghost_aribeth,,,,,0,0
+96754,PC,Player Character,"""Read into it what you wish, dead one.""","""원하는 대로 해석해, 죽은 자.""",h2_ghost_aribeth,,,,,0,0
+96755,PC,Player Character,"""I'm sorry. I didn't mean it that way, Aribeth.""","""미안해. 그런 뜻이 아니었어, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96756,PC,Player Character,"""That's precisely what I'm implying. I have my eye on you...""","""정확히 그 뜻이야. 지켜보고 있어...""",h2_ghost_aribeth,,,,,0,0
+96757,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96758,PC,Player Character,"""Where do you recognize it from?""","""어디서 봤어?""",h2_ghost_aribeth,,,,,0,0
+96759,PC,Player Character,"""Burned it down?""","""불태웠어?""",h2_ghost_aribeth,,,,,0,0
+96760,PC,Player Character,"""You thought you loved him.""","""그를 사랑한다고 생각했구나.""",h2_ghost_aribeth,,,,,0,0
+96761,PC,Player Character,"""You were young.""","""어렸잖아.""",h2_ghost_aribeth,,,,,0,0
+96762,PC,Player Character,"""But you've never been here before.""","""하지만 여기 온 적 없잖아.""",h2_ghost_aribeth,,,,,0,0
+96763,PC,Player Character,"""Where do you recognize the tree from?""","""그 나무를 어디서 봤어?""",h2_ghost_aribeth,,,,,0,0
+96764,PC,Player Character,"""I think we've found the Knower of Places, then.""","""그럼 우리가 공간의 현자를 찾은 것 같네.""",h2_ghost_aribeth,,,,,0,0
+96765,PC,Player Character,"""Don't get your hopes up. We have work to do.""","""기대하지 마. 할 일이 있어.""",h2_ghost_aribeth,,,,,0,0
+96766,PC,Player Character,"""It's just any old tree.""","""그냥 평범한 나무일 뿐이야.""",h2_ghost_aribeth,,,,,0,0
+96767,PC,Player Character,"""What tree?""","""무슨 나무?""",h2_ghost_aribeth,,,,,0,0
+96768,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96769,PC,Player Character,"""Actually, I think I'll stay like this. It's quite freeing, really.""","""사실, 이대로 있을 것 같아. 꽤 자유로워, 정말.""",h2_ghost_aribeth,,hx_pc_naked_chk,,,0,0
+96770,PC,Player Character,"""Well go savor it somewhere else.""","""뭐, 다른 데 가서 음미해.""",h2_ghost_aribeth,,,,,0,0
+96771,PC,Player Character,"""That's not all you're savoring...'",음미하는 게 그것만이 아니잖아...,h2_ghost_aribeth,,,,,0,0
+96772,PC,Player Character,"""If you tell a soul, I'll gouge your eyes out...""","""누구한테라도 말하면, 눈알을 파낼 거야...""",h2_ghost_aribeth,,,,,0,0
+96773,PC,Player Character,"""Fine. Take the money and keep your mouth shut.""","""좋아. 돈 받고 입 다물어.""",h2_ghost_aribeth,hx_pc70000_take,hx_pc70000_chk,,,0,0
+96774,PC,Player Character,"""Your life?""","""네 목숨?""",h2_ghost_aribeth,,,,,0,0
+96775,PC,Player Character,"""You hideous little blackmailer!""","""이 추잡한 협박범!""",h2_ghost_aribeth,,,,,0,0
+96776,PC,Player Character,"""Hands off, harlot. I'm not interested in your baited lures.""","""손 치워, 창녀. 네 미끼엔 관심 없어.""",h2_ghost_aribeth,,,,,0,0
+96777,PC,Player Character,"""Tit for tat, my dear. Now it's your turn.""","""눈에는 눈, 이제 네 차례야.""",h2_ghost_aribeth,,,,,0,0
+96778,PC,Player Character,"""If I would have known you'd be so interested...""","""네가 그렇게 관심 있을 줄 알았다면...""",h2_ghost_aribeth,,,,,0,0
+96779,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96780,PC,Player Character,"""Deal with it, princess...""","""받아들여, 공주님...""",h2_ghost_aribeth,,,,,0,0
+96781,PC,Player Character,"""What's making you so uncomfortable?""","""뭐가 그렇게 불편해?""",h2_ghost_aribeth,,,,,0,0
+96782,PC,Player Character,"""I don't like it here, either, but we need his help.""","""나도 여기 싫지만, 그의 도움이 필요해.""",h2_ghost_aribeth,,,,,0,0
+96783,PC,Player Character,"""Nonsense. He's fast asleep.""","""헛소리. 깊이 잠들어 있어.""",h2_ghost_aribeth,,,,,0,0
+96784,PC,Player Character,"""Then what's the whole story?""","""그럼 전체 이야기가 뭐야?""",h2_ghost_aribeth,,,,,0,0
+96785,PC,Player Character,"""Let's go.""","""가자.""",h2_ghost_aribeth,,,,,0,0
+96786,PC,Player Character,"""Through that portal is vengeance, nothing more.""","""저 차원문 너머엔 복수뿐, 그 이상 없어.""",h2_ghost_aribeth,,,,,0,0
+96787,PC,Player Character,"""It's all right. I'm going with you.""","""괜찮아. 함께 갈게.""",h2_ghost_aribeth,,,,,0,0
+96788,PC,Player Character,"""We all have devils on our back, Aribeth.""","""우리 모두 등에 마귀를 지고 있어, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96789,PC,Player Character,"""Let's go.""","""가자.""",h2_ghost_aribeth,,,,,0,0
+96790,PC,Player Character,"<StartAction>[Aribeth]</Start> ""Va'ardalia the Twinsouled...""","<StartAction>[아리베스]</Start> ""두영혼의 바아달리아...""",h2_ghost_aribeth,a_true_ari,hx_ari_nameonce,,,0,0
+96791,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",h2_ghost_aribeth,,,,,0,0
+96792,PC,Player Character,"""Feel no guilt regarding what transpired in Neverwinter.""","""네버윈터에서 일어난 일에 대해 죄책감을 느끼지 마.""",h2_ghost_aribeth,,,,,0,0
+96793,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",h2_ghost_aribeth,,c_evilact,,,0,0
+96794,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",h2_ghost_aribeth,,,,,0,0
+96795,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",h2_ghost_aribeth,,,,,0,0
+96797,PC,Player Character,"""I command you to pursue good, not evil.""","""악이 아닌 선을 추구하라고 명령한다.""",h2_ghost_aribeth,hx_ari_change_g,,,,0,0
+96798,PC,Player Character,"""I command you to love me!""","""날 사랑하라고 명령한다!""",h2_ghost_aribeth,h2a_ari_nameroma,c_false,,,0,0
+96799,PC,Player Character,"""That is all, Aribeth.""","""그게 다야, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96800,PC,Player Character,"""What does it matter?""","""무슨 상관이야?""",h2_ghost_aribeth,,,,,0,0
+96801,PC,Player Character,"""Do you want me to?""","""내가 그러길 원해?""",h2_ghost_aribeth,,,,,0,0
+96802,PC,Player Character,"""What are you about to do?""","""뭘 하려고?""",h2_ghost_aribeth,,,,,0,0
+96803,PC,Player Character,"""Then no, Aribeth. I never did...""","""그럼 아니, 아리베스. 한 번도...""",h2_ghost_aribeth,,,,,0,0
+96804,PC,Player Character,"""Then yes, against my better judgment, I'm afraid I do.""","""그럼 그래, 내 판단과는 다르지만, 그런 것 같아.""",h2_ghost_aribeth,hx_ari_romce_ad2,,,,0,0
+96805,PC,Player Character,"""Then yes, with all the blackness of my heart...""","""그럼 그래, 내 마음의 모든 어둠으로...""",h2_ghost_aribeth,hx_ari_romce_ad2,,,,0,0
+96806,PC,Player Character,"""Then yes, you are my one true love.""","""그럼 그래, 넌 내 하나뿐인 진정한 사랑이야.""",h2_ghost_aribeth,hx_ari_romce_ad2,hx_ari_love,,,0,0
+96807,PC,Player Character,"""No, Aribeth. I never did...""","""아니, 아리베스. 한 번도 없었어...""",h2_ghost_aribeth,,,,,0,0
+96808,PC,Player Character,"""Well, we've had our fun but I wouldn't call it love...""","""뭐, 재미는 있었지만 사랑이라고 부르진 않겠어...""",h2_ghost_aribeth,,,,,0,0
+96809,PC,Player Character,"""Against my better judgment, I'm afraid I do.""","""내 판단과는 다르지만, 그런 것 같아.""",h2_ghost_aribeth,hx_ari_romce_ad2,,,,0,0
+96810,PC,Player Character,"""Yes, with all the blackness of my heart...""","""그래, 내 마음의 모든 어둠으로...""",h2_ghost_aribeth,hx_ari_romce_ad2,,,,0,0
+96811,PC,Player Character,"""You are my one true love.""","""넌 내 하나뿐인 진정한 사랑이야.""",h2_ghost_aribeth,hx_ari_romce_ad2,hx_ari_love,,,0,0
+96812,PC,Player Character,"""Come, gentle spirit. Let us finish what we started.""","""가자, 온화한 영혼이여. 우리가 시작한 것을 끝내자.""",h2_ghost_aribeth,,,,,0,0
+96813,PC,Player Character,"""Rest here awhile. I will travel without you.""","""여기서 잠시 쉬어. 너 없이 갈게.""",h2_ghost_aribeth,x0_d1_hen_fired,,,,0,0
+96814,PC,Player Character,"""Come, fell spirit. Let us finish what we started.""","""가자, 타락한 영혼이여. 우리가 시작한 것을 끝내자.""",h2_ghost_aribeth,,,,,0,0
+96815,PC,Player Character,"""Do what you will. I have no further use for you.""","""하고 싶은 대로 해. 더 이상 쓸모없어.""",h2_ghost_aribeth,x0_d1_hen_fired,,,,0,0
+96816,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+96817,PC,Player Character,"""I understand you challenged Mephistopheles.""","""메피스토펠레스에게 도전했다고 들었어.""",h2_ghost_aribeth,,h2c_ari_conmeph,,,0,0
+96818,PC,Player Character,"""How did Mephistopheles respond?""","""메피스토펠레스가 어떻게 반응했어?""",h2_ghost_aribeth,,,,,0,0
+96819,PC,Player Character,"""Why is whether or not you loved him so important?""","""그를 사랑했는지 아닌지가 왜 그렇게 중요해?""",h2_ghost_aribeth,,,,,0,0
+96820,PC,Player Character,"""Once you've embraced evil, there's no turning back.""","""일단 악을 받아들이면, 되돌아갈 수 없어.""",h2_ghost_aribeth,,,,,0,0
+96821,PC,Player Character,"""Fine. Tyr chose you as his paladin, then. Do you doubt his wisdom?""","""좋아. 티르가 널 성기사로 선택했잖아. 그의 지혜를 의심해?""",h2_ghost_aribeth,,,,,0,0
+96822,PC,Player Character,"""Then pursue it now with all the blackness of your heart!""","""그럼 이제 네 마음의 모든 어둠으로 추구해!""",h2_ghost_aribeth,,,,,0,0
+96823,PC,Player Character,"""You're in the Nine Hells. It's a bit late to doubt your true nature.""","""구층 지옥에 있잖아. 네 본성을 의심하기엔 좀 늦었어.""",h2_ghost_aribeth,,,,,0,0
+96824,PC,Player Character,"""You were very good at being evil, Aribeth.""","""악한 존재로 정말 뛰어났어, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+96825,PC,Player Character,"""Don't you wish to be powerful? To have your vengeance?""","""강력해지고 싶지 않아? 복수하고 싶지 않아?""",h2_ghost_aribeth,,,,,0,0
+96826,PC,Player Character,"""Tyr chose you as his paladin. Do you doubt his wisdom?""","""티르가 널 성기사로 선택했어. 그의 지혜를 의심해?""",h2_ghost_aribeth,,,,,0,0
+96827,PC,Player Character,"""Fine. Once you've embraced evil, there's no turning back.""","""좋아. 일단 악을 받아들이면, 되돌아갈 수 없어.""",h2_ghost_aribeth,,,,,0,0
+96828,PC,Player Character,"""You acted out of a sense of justice.""","""정의감에서 행동한 거야.""",h2_ghost_aribeth,,,,,0,0
+96829,PC,Player Character,"""Let Tyr decide if he will take you.""","""티르가 널 받아들일지 결정하게 해.""",h2_ghost_aribeth,,,,,0,0
+96830,PC,Player Character,"""You did not act alone.""","""혼자 행동한 게 아니잖아.""",h2_ghost_aribeth,,,,,0,0
+96831,PC,Player Character,"""Then be righteous, here in the depths of Baator.""","""그럼 정의로워, 여기 베이아터의 깊은 곳에서.""",h2_ghost_aribeth,,,,,0,0
+96832,PC,Player Character,"""Then it is Tyr's mistake, not yours.""","""그럼 티르의 실수지, 네 실수가 아니야.""",h2_ghost_aribeth,,,,,0,0
+96833,PC,Player Character,"""If not for love, why did you do it?""","""사랑 때문이 아니라면, 왜 그랬어?""",h2_ghost_aribeth,,,,,0,0
+96834,PC,Player Character,"""Mephistopheles wants you to feel that way.""","""메피스토펠레스가 네가 그렇게 느끼길 원하는 거야.""",h2_ghost_aribeth,,,,,0,0
+96835,PC,Player Character,"""You were to marry. How could you not love him?""","""결혼하려고 했잖아. 어떻게 그를 사랑하지 않을 수 있어?""",h2_ghost_aribeth,,,,,0,0
+96836,PC,Player Character,"""Mephistopheles is just toying with your emotions.""","""메피스토펠레스가 그냥 네 감정을 갖고 노는 거야.""",h2_ghost_aribeth,,,,,0,0
+96837,PC,Player Character,"""I live by my own laws as well.""","""나도 내 법에 따라 살아.""",h2_ghost_aribeth,,,,,0,0
+96838,PC,Player Character,"""But what of morality, of good and evil?""","""하지만 도덕성은? 선과 악은?""",h2_ghost_aribeth,,,,,0,0
+96839,PC,Player Character,"""I think I know you from somewhere.""","""어디선가 안 것 같아.""",h2_ghost_aribeth,,,,,0,0
+96840,PC,Player Character,"""Why do you try to forget them?""","""왜 잊으려고 해?""",h2_ghost_aribeth,,,,,0,0
+96841,PC,Player Character,"""I won't let that happen.""","""그렇게 되게 하지 않을 거야.""",h2_ghost_aribeth,,,,,0,0
+96842,PC,Player Character,"""Fine, what do I care?""","""좋아, 내가 무슨 상관이야?""",h2_ghost_aribeth,,,,,0,0
+96843,PC,Player Character,"""I understand.""","""이해해.""",h2_ghost_aribeth,,,,,0,0
+96844,PC,Player Character,"""You don't want that.""","""그걸 원하지 않잖아.""",h2_ghost_aribeth,,,,,0,0
+96845,PC,Player Character,"""Why did you attack me?""","""왜 날 공격했어?""",h2_ghost_aribeth,,,,,0,0
+96846,PC,Player Character,"""I thought I knew you from somewhere.""","""어디선가 안 것 같았어.""",h2_ghost_aribeth,,,,,0,0
+96847,PC,Player Character,"""I had questions I wanted to ask you.""","""물어보고 싶은 질문이 있었어.""",h2_ghost_aribeth,,,,,0,0
+96848,PC,Player Character,"""I believed you were making a mistake.""","""실수하고 있다고 생각했어.""",h2_ghost_aribeth,,,,,0,0
+96849,PC,Player Character,"""I wanted to torture you.""","""널 고문하고 싶었어.""",h2_ghost_aribeth,,,,,0,0
+96850,PC,Player Character,"""I needed your help.""","""네 도움이 필요했어.""",h2_ghost_aribeth,,,,,0,0
+96851,PC,Player Character,"""I felt sorry for you.""","""안쓰러웠어.""",h2_ghost_aribeth,,,,,0,0
+96852,PC,Player Character,"""You were cold so I warmed you.""","""추워 보여서 따뜻하게 해줬어.""",h2_ghost_aribeth,,,,,0,0
+96853,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_ghost_aribeth,,h2c_ari_5fold,,,0,0
+96854,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0
+96855,PC,Player Character,"""Do you know the answer or don't you?""","""답을 알아 말아?""",h2_ghost_aribeth,,,,,0,0
+96856,PC,Player Character,"""Please, m'Lady, you must help.""","""제발, 부인, 도와주셔야 해요.""",h2_ghost_aribeth,,,,,0,0
+96857,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Then tell me the answer.""","<StartCheck>[설득]</Start> ""그럼 답을 알려줘.""",h2_ghost_aribeth,,,,,0,0
+96858,PC,Player Character,"""How have the gods spited you?""","""신들이 어떻게 널 괴롭혔어?""",h2_ghost_aribeth,,,,,0,0
+96859,PC,Player Character,"""Who was this man you loved?""","""사랑했던 남자가 누구야?""",h2_ghost_aribeth,,,,,0,0
+96860,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h2_ghost_aribeth,,,,,0,0
+96861,PC,Player Character,<StartAction>Use three Velox Berries to ignite a large fire.</Start>,<StartAction>벨록스 열매 세 개를 사용해 큰 불을 지핍니다.</Start>,h2_ghost_aribeth,h2a_ari_3berry,h2c_ari_3berry,,,0,0
+96862,PC,Player Character,<StartAction>Use two Velox Berries to ignite a medium fire.</Start>,<StartAction>벨록스 열매 두 개를 사용해 중간 불을 지핍니다.</Start>,h2_ghost_aribeth,h2a_ari_2berry,h2c_ari_2berry,,,0,0
+96863,PC,Player Character,<StartAction>Use one Velox Berry to ignite a small fire.</Start>,<StartAction>벨록스 열매 한 개를 사용해 작은 불을 지핍니다.</Start>,h2_ghost_aribeth,h2a_ari_1berry,h2c_ari_1berry,,,0,0
+96864,PC,Player Character,<StartAction>Light a fire with flint and tinder.</Start>,<StartAction>부싯돌과 부싯깃으로 불을 지핍니다.</Start>,h2_ghost_aribeth,,,,,0,0
+108871,PC,Player Character,"""Actually, I'd rather not have you tagging along.""","""사실, 함께 다니지 않았으면 좋겠어.""",h2_ghost_aribeth,,,,,0,0
+108872,PC,Player Character,"""Not at all. Please join me.""","""전혀 아니야. 함께해줘.""",h2_ghost_aribeth,,,,,0,0
+108873,PC,Player Character,"""And give half the spoils to you? Think again.""","""그리고 전리품 절반을 너한테 줘? 다시 생각해봐.""",h2_ghost_aribeth,,,,,0,0
+108874,PC,Player Character,"""Yes, join with me in the cause of evil.""","""그래, 악의 대의를 위해 함께해.""",h2_ghost_aribeth,,,,,0,0
+108875,PC,Player Character,"""Perhaps another time, Aribeth.""","""다음에, 아리베스.""",h2_ghost_aribeth,,,,,0,0
+108876,PC,Player Character,"""It would be an honor to have you.""","""함께하면 영광이야.""",h2_ghost_aribeth,,,,,0,0
+108877,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_ghost_aribeth,,h2c_ari_5fold,,,0,0
+108878,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_ghost_aribeth,,h2c_ari_5fold,,,0,0
+108879,PC,Player Character,"<StartAction>[Deekin]</Start> ""Ixthyria the Scalesinger...""","<StartAction>[디킨]</Start> ""비늘소리꾼 익시리아...""",h2_ghost_aribeth,a_true_deekin,hx_dek_nameonce,,,0,0
+108880,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",h2_ghost_aribeth,,,,,0,0
+108881,PC,Player Character,"""Believe in yourself, Deekin.""","""자신을 믿어, 디킨.""",h2_ghost_aribeth,h2a_deek_namebel,,,,0,0
+108882,PC,Player Character,"""You're kind, you're talented, you're funny. You don't need me anymore. If I die, you'll be all right.""","""넌 친절하고, 재능 있고, 재미있어. 더 이상 날 필요로 하지 않아. 내가 죽어도, 넌 괜찮을 거야.""",h2_ghost_aribeth,,,,,0,0
+108883,PC,Player Character,"""Not if I can help it. Come, we have an adventure to finish.""","""내가 도울 수 있다면 그렇지 않아. 와, 끝내야 할 모험이 있어.""",h2_ghost_aribeth,,,,,0,0
+108884,PC,Player Character,"""Surrender your soul to me, little one!"" ","""네 영혼을 나에게 바쳐라, 꼬마야!""",h2_ghost_aribeth,,c_evilact,,,0,0
+108885,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",h2_ghost_aribeth,,,,,0,0
+108886,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",h2_ghost_aribeth,,,,,0,0
+108887,PC,Player Character,"<StartAction>[Valen]</Start> ""Oeskathine the Demonwrestler...""","<StartAction>[발렌]</Start> ""악마씨름꾼 오에스카틴...""",h2_ghost_aribeth,a_true_valen,hx_val_nameonce,,,0,0
+108888,PC,Player Character,"""Nothing right now.""","""지금은 아무것도.""",h2_ghost_aribeth,,,,,0,0
+108889,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",h2_ghost_aribeth,,c_evilact,,,0,0
+108890,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 너를 묶는다!""",h2_ghost_aribeth,,c_false,,,0,0
+108891,PC,Player Character,"""I hereby free you from your infernal taint.""","""이로써 너를 지옥의 오염에서 해방한다.""",h2_ghost_aribeth,h2a_val_namefor,h2a_val_namefor1,,,0,0
+108892,PC,Player Character,"""You're welcome.""","""천만에.""",h2_ghost_aribeth,,,,,0,0
+108893,PC,Player Character,"""Glad you like it. Now give me your soul.""","""마음에 들어서 다행이야. 이제 네 영혼을 내게 줘.""",h2_ghost_aribeth,,c_evilact,,,0,0
+108894,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",h2_ghost_aribeth,,,,,0,0
+108895,PC,Player Character,"""Sorry, my love, but this is it for us.""","""미안해, 내 사랑, 하지만 우리는 여기까지야.""",h2_ghost_aribeth,,x2_valromancex,,,0,0
+108896,PC,Player Character,"""Yes, I am.""","""그래, 그래.""",h2_ghost_aribeth,,,,,0,0
+108897,PC,Player Character,"""Good. Now, in repayment, you are to become my lover forever.""","""좋아. 이제, 보답으로, 넌 영원히 내 연인이 되는 거야.""",h2_ghost_aribeth,,c_false,,,0,0
+108898,PC,Player Character,"""Well... perhaps not.""","""뭐... 아닐 수도.""",h2_ghost_aribeth,,,,,0,0
+108899,PC,Player Character,"""You heard me.""","""들었잖아.""",h2_ghost_aribeth,h2a_val_namerom,,,,0,0
+108900,PC,Player Character,"""We're done. For now.""","""끝났어. 일단은.""",h2_ghost_aribeth,,,,,0,0
+108901,PC,Player Character,"""You don't frighten me. I own you, body and soul.""","""날 겁주지 못해. 널 소유하고 있어, 몸과 영혼을.""",h2_ghost_aribeth,,,,,0,0
+108902,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화났을 때 정말 섹시해. 키스해줘!""",h2_ghost_aribeth,,,,,0,0
+108903,PC,Player Character,"""So there's hope for us after all?""","""그러면 우리에게 결국 희망이 있는 거야?""",h2_ghost_aribeth,,x2_valromancex,,,0,0
+108904,PC,Player Character,"""Does it really feel that different?""","""정말 그렇게 다르게 느껴져?""",h2_ghost_aribeth,,,,,0,0
+108905,PC,Player Character,"""I'm glad. You certainly earned it.""","""다행이야. 분명히 그럴 자격이 있어.""",h2_ghost_aribeth,,,,,0,0
+108906,PC,Player Character,"<StartAction>[Nathyrra]</Start> ""Qeyifalia the Skyseeker...""","<StartAction>[나시라]</Start> ""하늘탐구자 퀴팔리아...""",h2_ghost_aribeth,a_true_nath,hx_nat_nameonce,,,0,0
+108907,PC,Player Character,"""Nothing right now.""","""지금은 아무것도.""",h2_ghost_aribeth,,,,,0,0
+108908,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",h2_ghost_aribeth,,c_evilact,,,0,0
+108909,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",h2_ghost_aribeth,,,,,0,0
+108910,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",h2_ghost_aribeth,,,,,0,0
+108911,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 너를 묶는다!""",h2_ghost_aribeth,h2a_nath_namerom,c_false,,,0,0
+108912,PC,Player Character,"""Your anger is nothing to me. I own you, body and soul.""","""네 분노는 내게 아무것도 아니야. 널 소유하고 있어, 몸과 영혼을.""",h2_ghost_aribeth,,,,,0,0
+108913,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화났을 때 정말 섹시해. 키스해줘!""",h2_ghost_aribeth,,,,,0,0
+108914,PC,Player Character,"""Forgive yourself for your past crimes.""","""과거의 죄를 용서해.""",h2_ghost_aribeth,h2a_nath_namefor,,,,0,0
+108915,PC,Player Character,"""I won't do anything to harm you, Nathyrra.""","""너에게 해가 되는 건 하지 않을게, 나시라.""",h2_ghost_aribeth,,,,,0,0
+108916,PC,Player Character,"""I don't know anymore, Nathyrra. I don't know...""","""더 이상 모르겠어, 나시라. 모르겠어...""",h2_ghost_aribeth,,,,,0,0
+108917,PC,Player Character,"""Well... Yes, actually... A plaything's a fair description.""","""뭐... 그래, 사실... 노리개라는 표현이 적절해.""",h2_ghost_aribeth,,,,,0,0
+108918,PC,Player Character,"""No, you I always loved, Nathyrra...""","""아니, 널 항상 사랑했어, 나시라...""",h2_ghost_aribeth,,,,,0,0
+108919,PC,Player Character,"""Why must you two always fight? Fine, I love neither of you!""","""왜 너희 둘은 항상 싸워야 해? 좋아, 둘 다 사랑하지 않아!""",h2_ghost_aribeth,hx_ari_nath_0,,,,0,0
+108920,PC,Player Character,"""Leave us be, Nathyrra. Aribeth is my love, not you.""","""우릴 내버려둬, 나시라. 아리베스가 내 사랑이지, 너가 아니야.""",h2_ghost_aribeth,hx_ari2_nath0,,,,0,0
+108921,PC,Player Character,"""I'm sorry, Aribeth, but Nathyrra's right. I loved her first and best.""","""미안해, 아리베스, 하지만 나시라가 맞아. 그녀를 먼저 그리고 가장 사랑했어.""",h2_ghost_aribeth,hx_ari0_nath2,,,,0,0
+108922,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I have love enough for the both of you.""","<StartCheck>[설득]</Start> ""둘 다를 위한 사랑이 충분히 있어.""",h2_ghost_aribeth,,,,,0,0
+108923,PC,Player Character,"<StartAction>[Deekin]</Start> ""Ixthyria the Scalesinger...""","<StartAction>[디킨]</Start> ""비늘소리꾼 익시리아...""",h2_ghost_aribeth,a_true_deekin,hx_dek_nameonce,,,0,0
+108924,PC,Player Character,"""Nothing. Never mind...""","""아무것도. 신경 쓰지 마...""",h2_ghost_aribeth,,,,,0,0
+108925,PC,Player Character,"""Believe in yourself, Deekin.""","""자신을 믿어, 디킨.""",h2_ghost_aribeth,,,,,0,0
+108926,PC,Player Character,"""You're kind, you're talented, you're funny. You don't need me anymore. If I die, you'll be all right.""","""넌 친절하고, 재능 있고, 재미있어. 더 이상 날 필요로 하지 않아. 내가 죽어도, 넌 괜찮을 거야.""",h2_ghost_aribeth,,,,,0,0
+108927,PC,Player Character,"""Not if I can help it. Come, we have an adventure to finish.""","""내가 도울 수 있다면 그렇지 않아. 와, 끝내야 할 모험이 있어.""",h2_ghost_aribeth,,,,,0,0
+108928,PC,Player Character,"""Surrender your soul to me, little one!"" ","""네 영혼을 나에게 바쳐라, 꼬마야!""",h2_ghost_aribeth,,c_evilact,,,0,0
+108929,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",h2_ghost_aribeth,,,,,0,0
+108930,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",h2_ghost_aribeth,,,,,0,0
+108931,PC,Player Character,"<StartAction>[Valen]</Start> ""Oeskathine the Demonwrestler...""","<StartAction>[발렌]</Start> ""악마씨름꾼 오에스카틴...""",h2_ghost_aribeth,a_true_valen,hx_val_nameonce,,,0,0
+108932,PC,Player Character,"""Nothing right now.""","""지금은 아무것도.""",h2_ghost_aribeth,,,,,0,0
+108933,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",h2_ghost_aribeth,,c_evilact,,,0,0
+108934,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 너를 묶는다!""",h2_ghost_aribeth,,c_false,,,0,0
+108935,PC,Player Character,"""I hereby free you from your infernal taint.""","""이로써 너를 지옥의 오염에서 해방한다.""",h2_ghost_aribeth,h2a_val_namefor,h2a_val_namefor1,,,0,0
+108936,PC,Player Character,"""You're welcome.""","""천만에.""",h2_ghost_aribeth,,,,,0,0
+108937,PC,Player Character,"""Glad you like it. Now give me your soul.""","""마음에 들어서 다행이야. 이제 네 영혼을 내게 줘.""",h2_ghost_aribeth,,c_evilact,,,0,0
+108938,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",h2_ghost_aribeth,,,,,0,0
+108939,PC,Player Character,"""Sorry, my love, but this is it for us.""","""미안해, 내 사랑, 하지만 우리는 여기까지야.""",h2_ghost_aribeth,,x2_valromancex,,,0,0
+108940,PC,Player Character,"""Yes, I am.""","""그래, 그래.""",h2_ghost_aribeth,,,,,0,0
+108941,PC,Player Character,"""Good. Now, in repayment, you are to become my lover forever.""","""좋아. 이제, 보답으로, 넌 영원히 내 연인이 되는 거야.""",h2_ghost_aribeth,,c_false,,,0,0
+108942,PC,Player Character,"""Well... perhaps not.""","""뭐... 아닐 수도.""",h2_ghost_aribeth,,,,,0,0
+108943,PC,Player Character,"""You heard me.""","""들었잖아.""",h2_ghost_aribeth,h2a_val_namerom,,,,0,0
+108944,PC,Player Character,"""We're done. For now.""","""끝났어. 일단은.""",h2_ghost_aribeth,,,,,0,0
+108945,PC,Player Character,"""You don't frighten me. I own you, body and soul.""","""날 겁주지 못해. 널 소유하고 있어, 몸과 영혼을.""",h2_ghost_aribeth,,,,,0,0
+108946,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화났을 때 정말 섹시해. 키스해줘!""",h2_ghost_aribeth,,,,,0,0
+108947,PC,Player Character,"""So there's hope for us after all?""","""그러면 우리에게 결국 희망이 있는 거야?""",h2_ghost_aribeth,,x2_valromancex,,,0,0
+108948,PC,Player Character,"""Does it really feel that different?""","""정말 그렇게 다르게 느껴져?""",h2_ghost_aribeth,,,,,0,0
+108949,PC,Player Character,"""I'm glad. You certainly earned it.""","""다행이야. 분명히 그럴 자격이 있어.""",h2_ghost_aribeth,,,,,0,0
+108950,PC,Player Character,"<StartAction>[Nathyrra]</Start> ""Qeyifalia the Skyseeker...""","<StartAction>[나시라]</Start> ""하늘탐구자 퀴팔리아...""",h2_ghost_aribeth,a_true_nath,hx_nat_nameonce,,,0,0
+108951,PC,Player Character,"""Nothing right now.""","""지금은 아무것도.""",h2_ghost_aribeth,,,,,0,0
+108952,PC,Player Character,"""Surrender your soul to me!""","""네 영혼을 나에게 바쳐라!""",h2_ghost_aribeth,,c_evilact,,,0,0
+108953,PC,Player Character,"""If it means losing you, then no.""","""널 잃는다는 뜻이라면, 안 돼.""",h2_ghost_aribeth,,,,,0,0
+108954,PC,Player Character,"""Yes, I am sure.""","""그래, 확신해.""",h2_ghost_aribeth,,,,,0,0
+108955,PC,Player Character,"""I bind you to me as my lover forever!""","""영원히 내 연인으로 너를 묶는다!""",h2_ghost_aribeth,h2a_nath_namerom,c_false,,,0,0
+108956,PC,Player Character,"""Your anger is nothing to me. I own you, body and soul.""","""네 분노는 내게 아무것도 아니야. 널 소유하고 있어, 몸과 영혼을.""",h2_ghost_aribeth,,,,,0,0
+108957,PC,Player Character,"""You're so sexy when you're mad. Give me a kiss!""","""화났을 때 정말 섹시해. 키스해줘!""",h2_ghost_aribeth,,,,,0,0
+108958,PC,Player Character,"""Forgive yourself for your past crimes.""","""과거의 죄를 용서해.""",h2_ghost_aribeth,h2a_nath_namefor,,,,0,0
+108959,PC,Player Character,"""I won't do anything to harm you, Nathyrra.""","""너에게 해가 되는 건 하지 않을게, 나시라.""",h2_ghost_aribeth,,,,,0,0
+108960,PC,Player Character,"""I don't know anymore, Nathyrra. I don't know...""","""더 이상 모르겠어, 나시라. 모르겠어...""",h2_ghost_aribeth,,,,,0,0
+108961,PC,Player Character,"""Well... Yes, actually... A plaything's a fair description.""","""뭐... 그래, 사실... 노리개라는 표현이 적절해.""",h2_ghost_aribeth,,,,,0,0
+108962,PC,Player Character,"""No, you I always loved, Nathyrra...""","""아니, 널 항상 사랑했어, 나시라...""",h2_ghost_aribeth,,,,,0,0
+108963,PC,Player Character,"""Why must you two always fight? Fine, I love neither of you!""","""왜 너희 둘은 항상 싸워야 해? 좋아, 둘 다 사랑하지 않아!""",h2_ghost_aribeth,hx_ari_nath_0,,,,0,0
+108964,PC,Player Character,"""Leave us be, Nathyrra. Aribeth is my love, not you.""","""우릴 내버려둬, 나시라. 아리베스가 내 사랑이지, 너가 아니야.""",h2_ghost_aribeth,hx_ari2_nath0,,,,0,0
+108965,PC,Player Character,"""I'm sorry, Aribeth, but Nathyrra's right. I loved her first and best.""","""미안해, 아리베스, 하지만 나시라가 맞아. 그녀를 먼저 그리고 가장 사랑했어.""",h2_ghost_aribeth,hx_ari0_nath2,,,,0,0
+108966,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I have love enough for the both of you.""","<StartCheck>[설득]</Start> ""둘 다를 위한 사랑이 충분히 있어.""",h2_ghost_aribeth,,,,,0,0
+108967,PC,Player Character,"""In doing this, you are only serving Mephistopheles.""","""이렇게 함으로써, 넌 단지 메피스토펠레스를 섬기는 거야.""",h2_ghost_aribeth,,,,,0,0
+110437,PC,Player Character,"""I want you to use one of your special abilities.""","""특수 능력 중 하나를 사용해줘.""",h2_ghost_aribeth,,,,,0,0
+110438,PC,Player Character,"""No, that's it.""","""아니, 그게 다야.""",h2_ghost_aribeth,,,,,0,0
+110439,PC,Player Character,"""Goodbye.""","""안녕.""",h2_ghost_aribeth,,,,,0,0
+110440,PC,Player Character,"""Back to my previous questions.""","""이전 질문으로 돌아가자.""",h2_ghost_aribeth,,,,,0,0

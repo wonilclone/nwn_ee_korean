@@ -1,0 +1,42 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+91585,PC,Player Character,"""Is that how you greet all your customers?"" ","""모든 손님들에게 그렇게 인사하세요?""",pre_argali,,,,,0,0
+91586,PC,Player Character,"""No protections could stop me, if I wanted to rob you.""","""내가 당신을 털려고 한다면, 어떤 보호장치도 날 막지 못할 텐데요.""",pre_argali,,,,,0,0
+91587,PC,Player Character,"""I'm not some petty thug. I'm <FullName>.""","""전 그저 그런 깡패가 아닙니다. 저는 <FullName>이에요.""",pre_argali,,,,,0,0
+91588,PC,Player Character,"""Goodbye."" ","""안녕히 계세요.""",pre_argali,,,,,0,0
+91589,PC,Player Character,"""May I ask you some questions?""","""질문 좀 해도 될까요?""",pre_argali,,,,,0,0
+91590,PC,Player Character,"""Tell me about yourself.""","""당신에 대해 말해주세요.""",pre_argali,,,,,0,0
+91591,PC,Player Character,"""How did your father lose his position?""","""아버지는 어떻게 지위를 잃게 됐나요?""",pre_argali,,,,,0,0
+91592,PC,Player Character,"""I have other questions.""","""다른 질문이 있습니다.""",pre_argali,,,,,0,0
+91593,PC,Player Character,"""Obviously your father was a trusting fool. Good thing you learned better."" ","""분명히 당신 아버지는 믿음직한 바보였군요. 당신이 더 잘 배워서 다행이네요.""",pre_argali,,,,,0,0
+91594,PC,Player Character,"""That's a bitter lesson.""","""쓰라린 교훈이네요.""",pre_argali,,,,,0,0
+91595,PC,Player Character,"""Tell me about the attacks.""","""습격에 대해 말해주세요.""",pre_argali,,,,,0,0
+91596,PC,Player Character,"""I was told to ask about your special items.""","""특별한 물건에 대해 물어보라고 들었는데요.""",pre_argali,,q2aargaliispec,,,0,0
+91597,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""You seem like a nice person, Argali. I'd hate to see you get hurt."" ","<StartCheck>[위협]</Start> ""좋은 사람 같아 보이는데, 아갈리. 다치는 건 보고 싶지 않네요.",pre_argali,,,,,0,0
+91598,PC,Player Character,"<StartCheck>[Persuade]</Start> ""You can tell others that the great hero <FullName> always shops here.""","<StartCheck>[설득]</Start> ""위대한 영웅 <FullName>이 항상 여기서 물건을 산다고 다른 사람들에게 말해도 돼요.",pre_argali,,,,,0,0
+91599,PC,Player Character,"""Fine. Keep your secrets.""","""좋아요. 비밀을 지키세요.""",pre_argali,,,,,0,0
+91600,PC,Player Character,"<StartCheck>[Bluff]</Start> ""I have heard rumors about some shady deals you've made. If that got out, it could hurt business."" ","<StartCheck>[허세]</Start> ""당신이 수상한 거래를 했다는 소문을 들었어요. 그게 퍼지면 장사에 나쁠 텐데요.",pre_argali,,,,,0,0
+91601,PC,Player Character,"<StartCheck>[Insight]</Start> ""How about I tell my adventuring friends how good your store is?""","<StartCheck>[통찰]</Start> ""제 모험가 친구들에게 당신 가게가 얼마나 좋은지 말해주면 어떨까요?",pre_argali,,nw_d2_wis_intn,,,0,0
+91602,PC,Player Character,"""Just a cloak? That's it?"" ","""망토 하나뿐이라고요? 그게 다예요?""",pre_argali,,,,,0,0
+91603,PC,Player Character,"""What is it?""","""그게 뭔가요?""",pre_argali,,,,,0,0
+91604,PC,Player Character,"""I'm not interested.""","""관심 없어요.""",pre_argali,,,,,0,0
+91605,PC,Player Character,"""How much do you want for it?""","""얼마를 원하세요?""",pre_argali,,,,,0,0
+91606,PC,Player Character,"""That's too much. I won't pay it."" ","""너무 비싸요. 안 낼 거예요.""",pre_argali,,,,,0,0
+91607,PC,Player Character,"""I don't have that much.""","""그렇게 많이는 없어요.""",pre_argali,,,,,0,0
+91608,PC,Player Character,"""Deal.""","""좋아요.""",pre_argali,,con_q2aarg7,,,0,0
+91609,PC,Player Character,"""I'm not sure. What do you sell here?""","""잘 모르겠네요. 여기서 뭘 파세요?""",pre_argali,,q2aargaliinv,,,0,0
+91610,PC,Player Character,"""I thought a war would be good for your business.""","""전쟁이 장사에 도움이 될 것 같은데요.""",pre_argali,,,,,0,0
+91611,PC,Player Character,"""You should welcome a war. It will boost your profits.""","""전쟁을 환영해야 하는 거 아닌가요. 수익이 늘어날 텐데요.""",pre_argali,,,,,0,0
+91612,PC,Player Character,"""You make it sound noble, but how do you know they aren't evil?""","""고상하게 들리지만, 그들이 악하지 않다는 걸 어떻게 알죠?""",pre_argali,,,,,0,0
+91613,PC,Player Character,"""That is a noble philosophy.""","""고귀한 철학이네요.""",pre_argali,,,,,0,0
+91614,PC,Player Character,"""Nothing right now.""","""지금은 없어요.""",pre_argali,,,,,0,0
+91615,PC,Player Character,"""Let me see your inventory.""","""인벤토리를 보여주세요.""",pre_argali,,,,,0,0
+91616,PC,Player Character,"""Wait a minute - are you talking about yourself in the third person?""","""잠깐만요 - 3인칭으로 말하는 건가요?""",pre_argali,q2aargalitalkx,q2aargalitalk,,,0,0
+91617,PC,Player Character,"""I think I'll be going.""","""이제 가볼게요.""",pre_argali,,,,,0,0
+91618,PC,Player Character,"""Well <FullName> doesn't like stuck up merchants, so <FullName> will go away.""","""<FullName>은 건방진 상인을 좋아하지 않으니, <FullName>은 가겠습니다.""",pre_argali,,,,,0,0
+91619,PC,Player Character,"""You're an idiot. I'm leaving now.""","""당신 바보네요. 이제 가겠습니다.""",pre_argali,,,,,0,0
+91620,PC,Player Character,"""I guess you have a point.""","""일리가 있네요.""",pre_argali,,,,,0,0
+91621,PC,Player Character,"""Okay, have it your way... Argali.""","""좋아요, 당신 뜻대로... 아갈리.""",pre_argali,,,,,0,0
+91622,PC,Player Character,"""You certainly are full of yourself.""","""자신감이 대단하네요.""",pre_argali,,,,,0,0
+91623,PC,Player Character,"""I've changed my mind. Goodbye.""","""생각이 바뀌었습니다. 안녕히 계세요.""",pre_argali,,,,,0,0
+91624,PC,Player Character,"""I want to buy that cloak you mentioned before."" ","""전에 말했던 그 망토를 사고 싶어요.""",pre_argali,,con_q2aarg5,,,0,0
+91625,PC,Player Character,"""Tell me about that cloak you mentioned before.""","""전에 말했던 그 망토에 대해 말해주세요.""",pre_argali,,con_q2aarg5,,,0,0

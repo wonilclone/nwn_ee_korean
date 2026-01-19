@@ -1,0 +1,36 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+18477,Dialog,COOK,Callers for the master don't arrive like this! Your finery is betrayed! Are you bandit?!,주인님을 찾는 손님이 이 꼴로 오진 않아! 번지르르한 차림도 들통났어! 산적이지?!,M1Q1E03COOK,,,,,0,0
+18478,Dialog,COOK,I'm waiting for an answer. What are you doing in my kitchen! Probably a bandit!,대답해. 내 주방에서 뭐 하는 거야! 분명 산적이겠지!,M1Q1E03COOK,,,,,0,0
+18479,Dialog,COOK,Vermin in my kitchen. What mangey dog choked you up? Hmm? Bandit! Thief!,"내 주방에 해충이 들었군. 어느 벼룩투성이 개구멍에서 기어나왔냐, 응? 산적! 도둑놈!",M1Q1E03COOK,,,,,0,0
+18480,Dialog,COOK,"What are you doing in my kitchen?! Speak up, or I call the guards!",내 주방에서 뭐 하는 거야?! 당장 말 안 하면 경비를 부를 거야!,M1Q1E03COOK,,,,,0,0
+18481,Dialog,COOK,"Save your words. You'll get nothing from me. If you are looking for Master Hodge, he's already gone. You'd think the bugger knew someone was coming.",말을 아껴. 난 줄 게 없으니까. 호지를 찾는 거라면 이미 떠났어. 누가 올 줄 알았던 모양이더군.,M1Q1E03COOK,,,,,0,0
+18482,Dialog,COOK,"He's taken his master keys with him. I couldn't help you if I wanted, which I don't. I don't get involved in the affairs of Master Hodge. I don't need the grief.",주 열쇠들도 다 챙겨 갔어. 그럴 마음도 없지만 도와주고 싶어도 못 도와. 난 호지 일에 끼지 않아. 골치 아픈 건 질색이거든.,M1Q1E03COOK,,,,,0,0
+18483,Dialog,COOK,"If you share a relationship with him, I don't know which of you is worse off. Now get! My muffins are burning!",네가 그 자와 한통속이라면 누가 더 한심한지 모르겠네. 얼른 나가! 머핀이 타겠어!,M1Q1E03COOK,,,,,0,0
+18484,Dialog,COOK,"Oh no, you aren't going to try those excuses on me. I gave a warning once, and now I'm through! GUARDS!","아니, 그런 변명은 안 통해. 한 번은 경고했지, 이제 끝이야! 경비들아!",M1Q1E03COOK,,,,,0,0
+69860,Dialog,COOK,"Is there something I can do for you, <FirstName>?","무엇을 일 도와드릴까요, <FirstName>?",Q1COOK,,,,,0,0
+69861,Dialog,COOK,Then I wish you well.,그럼 안녕히 가세요.,Q1COOK,,,,,0,0
+69862,Dialog,COOK,"With the kitchen in such a mess, no, I'm afraid not. You'll have to come back after the tavern re-opens if you want something.",주방이 이 꼴이라 지금은 못 해 드려요. 뭔가 필요하면 선술집이 다시 열고 난 뒤에 다시 오세요.,Q1COOK,,,,,0,0
+69863,Dialog,COOK,Thank you so much for rescuing me! It's very fortunate you came along... I was certain those little beasts were going to kill me!,살려줘서 정말 고마워요! 마침 지나가 주셔서 다행이에요... 저 꼬마 괴물들이 절 죽일 줄 알았거든요!,Q1COOK,,,,,0,0
+69864,Dialog,COOK,"I might. If the kobolds didn't get into them, there's probably some in the pot on the stove. Help yourself.","어쩌면요. 코볼트들이 못 건드렸다면, 난로 위 냄비에 아직 조금 남아 있을 거예요. 마음껏 드세요.",Q1COOK,,,,,0,0
+69865,Dialog,COOK,That's very noble of you. I'm sure Drogan would be very proud.,정말 훌륭하시네요. 드로건도 분명 자랑스러워하실 거예요.,Q1COOK,,,,,0,0
+69866,Dialog,COOK,"Err... very grateful, of course. Why do you ask?",어... 물론 정말 감사하죠. 그런데 왜 물으세요?,Q1COOK,,,,,0,0
+69867,Dialog,COOK,"I do wish I could do more than merely thank you, <FirstName>. You were the only one who could save me, and for that I'll always be grateful.","고맙다는 말만으로는 부족한데요, <FirstName>. 절 구해 줄 수 있는 건 당신뿐이었어요. 평생 잊지 않겠어요.",Q1COOK,,,,,0,0
+69868,Dialog,COOK,Ha ha! I'd gladly cook you up the best meal you've ever eaten if my kitchen weren't a total wreck.,하하! 주방만 엉망이 아니었다면 당신 인생 최고의 식사를 대접했을 텐데요.,Q1COOK,,,,,0,0
+69869,Dialog,COOK,Tell you what. Come back here once we've had a chance to re-open the tavern and I'll do just that. You won't be sorry!,이렇게 하죠. 선술집 문을 다시 열게 되면 다시 오세요. 정말로 멋진 걸 대접할게요. 후회하지 않으실 거예요!,Q1COOK,,,,,0,0
+69870,Dialog,COOK,"Ha ha! Do you say that to all the girls you rescue, or just me?","하하! 구해 준 여자들한테 다 그렇게 말하나요, 아니면 저한테만요?",Q1COOK,,,,,0,0
+69871,Dialog,COOK,"I have a whole kitchen to start cleaning here, <FirstName>. Maybe come back some other time and, ah... I'll see what I can arrange.","여기 주방을 통째로 치워야 하거든요, <FirstName>. 나중에 다시 오시면, 음... 뭐가 될지 한 번 생각해 볼게요.",Q1COOK,,,,,0,0
+69872,Dialog,COOK,You know... I always had a fantasy about a brave adventurer sweeping me off my feet one day. This isn't it.,있죠... 언젠가 용감한 모험가가 절 휙 안아 올려 주는 상상을 하곤 했어요. 근데 지금 이건 아니에요.,Q1COOK,,,,,0,0
+69873,Dialog,COOK,"Now then. If you manage to get your head out of the gutter long enough, please take it outside. I've got a kitchen to clean.","그러니, 잠시만 그 상상은 접고 밖으로 나가 주세요. 전 주방을 치워야 해요.",Q1COOK,,,,,0,0
+69874,Dialog,COOK,"I... have a few coins, but that's all. I'm not wealthy by any means. Surely you don't have need of them!",전... 동전이 조금 있긴 하지만 그게 전부예요. 부자도 아니고요. 설마 그걸까지 필요하진 않겠죠!,Q1COOK,,,,,0,0
+69875,Dialog,COOK,"Thank you. I do wish I could give you the reward you deserve, <FirstName>. I will always be grateful, I hope you know that.","고마워요. 당신이 마땅히 받아야 할 보상을 드릴 수 있으면 좋겠는데, <FirstName>. 제 감사한 마음만은 꼭 알아 주세요.",Q1COOK,,,,,0,0
+69876,Dialog,COOK,"Alright, then, take them. I'll have to work twice as hard now to open the tavern back up, so please excuse me.","알겠어요, 그럼 가져가세요. 전 선술집을 다시 열려면 두 배로 일해야 하니까, 이만 실례할게요.",Q1COOK,act_q1_give10gp,,,,0,0
+69877,Dialog,COOK,"Oh. Well, if you put it that way, here... take the coins. Now please leave, as I've got an entire kitchen to clean up.","아... 그렇게까지 말한다면, 여기... 동전울 가져가요. 전 주방을 통째로 치워야 하니 이젠 좀 나가 주세요.",Q1COOK,act_q1_give10gp,,,,0,0
+69878,Dialog,COOK,"Please, help us! Get those kobolds out of here! Somebody has to do something!","제발, 도와줘요! 저 코볼트들을 몰아내 주세요! 누가 뭐라도 해주세요!",Q1COOK,,,,,0,0
+69879,Dialog,COOK,"Please, help me! They... they're going to kill me for certain!","제발, 살려줘요! 놈들이... 분명 절 죽일 거예요!",Q1COOK,,,,,0,0
+91642,Dialog,COOK,"The cook swats at a fly that buzzes around a pot of soup. ""How am I supposed to work in such conditions?""","요리사가 수프 냄비 주변을 윙윙대는 파리를 찰싹 내쫓습니다. ""이딴 환경에서 어떻게 일하라는 거야?""",PRE_COOK,,,,,0,0
+91643,Dialog,COOK,"The cook waves a wooden spoon in your face. ""If you are the one who is filching biscuits, you had better stop!""","요리사가 나무숟가락을 당신의 코앞에서 흔듭니다. ""비스킷을 훔쳐 먹는 게 당신이라면, 당장 그만둬!""",PRE_COOK,,,,,0,0
+91644,Dialog,COOK,"The cook samples a dish and then spits on the floor. ""This is horrible! There is far too much garlic in here. What are we trying to do, keep away vampires?""","요리사가 요리를 맛보더니 바닥에 퉤 뱉습니다. ""형편없어! 마늘이 너무 많잖아. 지금 뭐 하는거야, 흡혈귀 쫓아내려는거야?""",PRE_COOK,,,,,0,0
+91645,Dialog,COOK,"The cook looks at you and throws his hands in the air. ""The food is not prepared yet! Go away!""","요리사가 당신을 보며 두 손을 번쩍 들었습니다. ""아직 준비 안 됐어! 가버려!""",PRE_COOK,,,,,0,0
+91646,Dialog,COOK,"The cook, a man with a greasy apron and a long, thin mustache growls at his kitchen helpers and moves quickly from one dish to another.","기름때 묻은 앞치마에 길고 가느다란 콧수염을 한 요리사가 부엌 도우미들을 으르렁거리며 몰아치고, 한 음식에서 다른 음식으로 재빨리 움직입니다.",PRE_COOK,,,,,0,0
+91647,Dialog,COOK,"He sees you and yells, ""Get out of my kitchen. You're in the way!""","그는 당신을 보자 소리칩니다. ""내 주방에서 나가! 방해돼!""",PRE_COOK,,,,,0,0
+91648,Dialog,COOK,"""We're under attack! They must have come up from the Well in the basement!""","""우릴 습격했어! 분명 지하실 우물에서 올라온 거야!""",PRE_COOK,,,,,0,0

@@ -1,0 +1,54 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+22112,PC,Player Character,I'll pass. I'm not looking for trouble.,사양할게. 괜히 분란 일으킬 생각은 없어.,m1q4d03jalek,,[지능 보통],,,0,0
+22113,PC,Player Character,I'm just looking for information. I'll gladly pay.,난 정보만 찾는 거야. 기꺼이 대가를 치르지.,m1q4d03jalek,,[지능 보통],,,0,0
+22114,PC,Player Character,"I'll match you drink for drink, no problem!",잔 대 잔으로 맞춰 주지! 문제없어!,m1q4d03jalek,,[지능 보통],,,0,0
+22115,PC,Player Character,"Ehh, I've changed my mind.","읏, 마음이 바뀌었네.",m1q4d03jalek,,[지능 보통],,,0,0
+22116,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Bottoms up!,<StartCheck>[체질]</Start> 원샷!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22117,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Bring it on!,<StartCheck>[체질]</Start> 덤벼!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22118,PC,Player Character,Me match you drinking! No problem! ,나도 술 맞춰 마실래! 문제 없어!,m1q4d03jalek,,[지능 낮음],,,0,0
+22119,PC,Player Character,Me just want information. Me pay.,난 정보만 원해. 돈 낼게.,m1q4d03jalek,,[지능 낮음],,,0,0
+22120,PC,Player Character,Me don't want troubles. ,나 문제 원하지 않아.,m1q4d03jalek,,[지능 낮음],,,0,0
+22121,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Bottom up and stuff!,<StartCheck>[체질]</Start> 원샷하자!,m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22122,PC,Player Character,Me change mind.,나 마음 바뀌었어.,m1q4d03jalek,,[지능 낮음],,,0,0
+22123,PC,Player Character,What is going on in here?,여긴 무슨 일이지?,m1q4d03jalek,,[지능 보통],,,0,0
+22124,PC,Player Character,What happening in here?,여기 무슨 일 나?,m1q4d03jalek,,[지능 낮음],,,0,0
+22125,PC,Player Character,Where Vengaul be?,벵골 어디 있어?,m1q4d03jalek,,[지능 낮음],,,0,0
+22126,PC,Player Character,Thanks for your oh so important approval.,"그렇게 중요하신 허락, 참 고맙군.",m1q4d03jalek,,[지능 보통],,,0,0
+22127,PC,Player Character,Vengaul? Where would he be?,벵골? 그가 어디에 있을까?,m1q4d03jalek,,[지능 보통],,,0,0
+22128,PC,Player Character,Who is Callik?,칼릭은 누구지?,m1q4d03jalek,,[지능 보통],,,0,0
+22129,PC,Player Character,Who Callik?,칼릭 누구야?,m1q4d03jalek,,[지능 낮음],,,0,0
+22130,PC,Player Character,<StartCheck>[Lie]</Start> Not long. I replaced a plague victim.,<StartCheck>[거짓말]</Start> 오래 안 됐어. 역병 희생자 대신 들어왔지.,m1q4d03jalek,,[지능 보통],,,0,0
+22131,PC,Player Character,<StartCheck>[Lie]</Start> Not long. Me replace plague-dead guy.,<StartCheck>[거짓말]</Start> 오래 안 됐어. 나 역병으로 죽은 사람 대신 왔어.,m1q4d03jalek,,[지능 낮음],,,0,0
+22132,PC,Player Character,I'm just looking for information. That's all.,난 정보만 찾고 있어. 그게 전부야.,m1q4d03jalek,,[지능 보통],,,0,0
+22133,PC,Player Character,Me just wants information.,나 정보만 원해.,m1q4d03jalek,,[지능 낮음],,,0,0
+22134,PC,Player Character,I'm no Bloodsailor. I'm acting as a city guard.,나는 핏빛 항해자가 아니야. 지금은 도시 경비대 소속으로 일하고 있어.,m1q4d03jalek,,[지능 보통],,,0,0
+22135,PC,Player Character,Me not Bloodsailor. Me here as city guard.,나 핏빛 항해자 아냐. 나 여기 도시 경비대로 왔어.,m1q4d03jalek,,[지능 낮음],,,0,0
+22136,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Let's go! You me!,<StartCheck>[체질]</Start> 가자! 너 나!,m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22137,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> No problem at all!,<StartCheck>[체질]</Start> 문제없어!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22138,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> This easy. Let's go!,<StartCheck>[체질]</Start> 쉬워. 가자!,m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22139,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Cheers!,<StartCheck>[체질]</Start> 건배!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22140,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Cheers!,<StartCheck>[체질]</Start> 건배!,m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22141,PC,Player Character,"Thanks. Maybe I'll just sit down for a bit, now.",고마워. 이제 잠깐 앉아 있어야겠군.,m1q4d03jalek,,[지능 보통],,,0,0
+22142,PC,Player Character,Urp. Thanks. Maybe me sit for a bit now.,꺽. 고마워. 나도 잠깐 앉아 있을게.,m1q4d03jalek,,[지능 낮음],,,0,0
+22143,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> You and me! Let's do it!,<StartCheck>[체질]</Start> 너 나! 하자!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22144,PC,Player Character [M1Q4D03],"<StartCheck>[Constitution]</Start> That right! You and me, drink it back!","<StartCheck>[체질]</Start> 맞아! 너 나, 들이켜!",m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22145,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> I am just fine! Swig it back!,<StartCheck>[체질]</Start> 난 괜찮아! 쭉 들이켜!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22146,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Me just fine! Swig it!,<StartCheck>[체질]</Start> 나 괜찮아! 들이켜!,m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22147,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> You're not stopping are you? Swig it!,<StartCheck>[체질]</Start> 멈추는 거 아니지? 들이켜!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22148,PC,Player Character [M1Q4D03],"<StartCheck>[Constitution]</Start> No stop yet, you! Swig it!",<StartCheck>[체질]</Start> 너 멈추지 마! 들이켜!,m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22149,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Bah! Nothing but water! Tip it back!,<StartCheck>[체질]</Start> 치! 물이나 다름없네! 쭉 들이켜!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22150,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> It's watery! Tip it good!,<StartCheck>[체질]</Start> 물이야! 쭉 들이켜!,m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22151,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Through the lips and over the gums!,<StartCheck>[체질]</Start> 입술 지나 잇몸 넘어!,m1q4d03jalek,m1q4d03jalkdrink,[지능 보통],[M1Q4D03],,0,0
+22152,PC,Player Character [M1Q4D03],<StartCheck>[Constitution]</Start> Chug-a-lugg-a! Whooo!,<StartCheck>[체질]</Start> 쭉쭉! 우~!,m1q4d03jalek,m1q4d03jalkdrink,[지능 낮음],[M1Q4D03],,0,0
+22153,PC,Player Character,What is in Scurrd?,스커드에 뭐가 있어?,m1q4d03jalek,,[지능 보통],,,0,0
+22154,PC,Player Character,What in Scurrd?,스커드에 뭐 있어?,m1q4d03jalek,,[지능 낮음],,,0,0
+22155,PC,Player Character,I had some questions.,몇 가지 물을 게 있어.,m1q4d03jalek,,[지능 보통],,,0,0
+22156,PC,Player Character,Me gots questions.,나 질문 있어.,m1q4d03jalek,,[지능 낮음],,,0,0
+22157,PC,Player Character,Your approval mean so much.,"네 허락, 정말 대단하네.",m1q4d03jalek,,[지능 낮음],,,0,0
+22158,PC,Player Character,Goodbye.,그럼 이만.,m1q4d03jalek,,,,,0,0
+22159,PC,Player Character,Who is Christov?,크리스토프가 누구야?,m1q4d03jalek,,[지능 보통],,,0,0
+22160,PC,Player Character,Who Christov?,크리스토프 누구야?,m1q4d03jalek,,[지능 낮음],,,0,0
+22161,PC,Player Character,Why are you here? What do you do?,여긴 왜 있지? 무슨 일을 하지?,m1q4d03jalek,,[지능 보통],,,0,0
+22162,PC,Player Character,Why you here? What do you do?,너 왜 여기 있어? 무슨 일 해?,m1q4d03jalek,,[지능 낮음],,,0,0
+22163,PC,Player Character,Back to my other questions.,다른 질문으로 돌아가자.,m1q4d03jalek,,[지능 보통],,,0,0
+22164,PC,Player Character,"Back to other questions, okay?","다른 질문으로 돌아가자, 응?",m1q4d03jalek,,[지능 낮음],,,0,0

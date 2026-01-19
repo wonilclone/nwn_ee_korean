@@ -1,0 +1,601 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+12416,Creature,Chicken,Chicken,닭,M2_CHICKEN|Q2A1_CHICKEN|Q2BNYMPH_T2,,,,,0,0
+92709,Creature,Chicken,"""Cluck, cluck, cluck!""","""꼬꼬꼬!""",Q2A1_CHICKEN,,,,,0,0
+92710,Creature,Chicken,"The chicken wishes it could be your companion; riding on your shoulder as you go off into battle, and pecking out the eyes of your foes. It always dreamed of becoming a chicken-of-war.","그 닭은 당신의 동료가 되기를 바랍니다. 전장으로 나아갈 때 당신의 어깨에 올라타 적들의 눈을 쪼아 뽑는, 전투의 닭이 되는 꿈을 늘 꾸어 왔습니다.",Q2A1_CHICKEN,,,,,0,0
+92711,Creature,Chicken,"The chicken eyes you warily, wondering if your appetite was sated by the fairies. No amount of discussion on your part can convince the chicken that you didn't eat the fairy corpses.",그 닭은 경계하는 눈빛으로 당신을 바라봅니다. 당신이 요정들로 배를 채웠는지 궁금해하죠. 당신이 요정의 시체를 먹지 않았다고 아무리 설명해도 닭은 믿지 않습니다.,Q2A1_CHICKEN,,,,,0,0
+92712,Creature,Chicken,"The chicken eyes you warily, then decides you are a little large for a meal.","그 닭은 경계하면서 당신을 훑어보더니, 먹기에는 좀 크다고 판단합니다.",Q2A1_CHICKEN,,,,,0,0
+92713,Creature,Chicken,"The chicken wonders who will feed it, now that the fairies are all gone.","요정들이 모두 사라진 지금, 누가 자신에게 먹이를 줄지 닭은 궁금해합니다.",Q2A1_CHICKEN,,,,,0,0
+92714,Creature,Chicken,"The chicken is rather unimpressed with Undermountain, having expected something a little less... dark.",그 닭은 언더마운틴이 그다지 마음에 들지 않습니다. 좀 덜... 어두운 곳일 거라 기대했거든요.,Q2A1_CHICKEN,,,,,0,0
+92715,Creature,Chicken,"The chicken patiently explains to you how it tried to eat one of the fairies, thinking it was a bug. It was quite distraught when the fairy gave it a swift kick in the head.",그 닭은 벌레인 줄 알고 요정 하나를 먹으려다 어떻게 됐는지 차분히 설명합니다. 요정이 닭의 머리를 냅다 걷어차자 꽤나 공황에 빠졌다고 하네요.,Q2A1_CHICKEN,,,,,0,0
+12422,Creature,"Commoner, Female","Commoner, Female",평민 여성,AC_INN_MAID|AC_PARTYGUEST,,,,,0,0
+12423,Creature,"Commoner, Male","Commoner, Male",평민 남성,AC_ARM|AC_ARM2|AC_CALLAWAY|AC_DRAGONFODDER1|AC_DRAGONFODDER2|AC_DRAGONFODDER3|AC_FISHSELLER|AC_FRUITSELLER|AC_HEAD|AC_HEAD2|AC_LEG|AC_MORIS|AC_QUINTESSA|AC_TORSO|AC_VEGSELLER,,,,,0,0
+12428,Creature,Cow,Cow,소,BARNCOW|DB_COW01|DB_DEADCOW|DEADCOW|M2_COW,,,,,0,0
+12431,Creature,Celestial Avenger,Celestial Avenger,천족 복수자,Q2E_GOOD1,,,,,0,0
+12433,Creature,Cult Member,Cult Member,사교도,M3_CULTIST,,,,,0,0
+12436,Creature,Curst Rogue,Curst Rogue,저주받은 도적,2Q4E_CURSTROGUE,,,,,0,0
+12572,Creature,Clay Golem,Clay Golem,진흙 골렘,Q4B_CLAY_GOLEM,,,,,0,0
+17949,Dialog,CL,Damn you! Damn you all! Fine! You won! So what! Proves nothing! I was Champion for months! Everyone knows that! Everyone knows... ,젠장할! 다들 망할 것들! 좋아! 네가 이겼어! 그래서 뭐! 아무 증명도 안 돼! 난 지난 몇 달이나 우승자였다고! 다들 알잖아! 다들... 알잖아...,M1Q1A07S1CL,,,,vs_fclaudum_050,0,0
+17950,Dialog,CL,"That's it for you! You got past Agar, but it stops here. No one beats Claudus. Just ask! No one beats me! This place is mine!","여기서 끝이다! 아가르는 넘겼겠지만, 여기까지야. 클로더스를 이기는 놈은 없어. 물어봐! 날 이길 자는 없다! 이곳은 내 거야!",M1Q1A07S1CL,,,,vs_fclaudum_052,0,0
+17951,Dialog,CL,"You... beat Fashi, hmm? I suppose you think you are tough?! Well, don't get cocky. Agar will put you in your place.","파시를... 이겼다고, 흠? 그래서 네가 꽤 강하다고 생각하나?! 까불지 마. 아가르가 제자리를 찾아 줄 거다.",M1Q1A07S1CL,,,,vs_fclaudum_053,0,0
+17952,Dialog,CL,"You beat Hrusk, eh? Not surprising. He's been here weeks and hasn't got out of round one. He's ruled it, but he hasn't gotten past it.","흐루스크를 이겼다, 그래? 놀랍지도 않지. 몇 주째 여기 있으면서 1라운드도 못 넘긴 놈이거든. 줄창 1라운드만 주물거렀지, 그 이상은 못 갔어.",M1Q1A07S1CL,,,,vs_fclaudum_054,0,0
+17953,Dialog,CL,"New blood? Good! Remember, you fight one round at a time and get a medal for each victory. It's for glory alone. There's no prize.","신참이 왔나? 좋아! 기억해라, 한 번에 한 라운드씩 싸우고 이길 때마다 메달을 받는다. 영광뿐이다. 상금은 없어.",M1Q1A07S1CL,,,,vs_fclaudum_055,0,0
+17954,Dialog,CL,"Take the place. Go on, you are the owner now, but I've told my friends to leave. The Gauntlet goes with me! BAH!","가지라구. 그래, 이제 네가 주인이야. 하지만 친구들한텐 다 나가라고 해 놨어. 시련장도 이제 끝이야! 칫!",M1Q1A07S1CL,m1s4givebar,,,,0,0
+17955,Dialog,CL,Beaten? Proves nothing! Where are they?! I want to talk to the piece of garbage that beat me!,졌다고? 아무 의미도 없어! 어디 있어?! 날 이긴 그 쓰레기랑 만나야겠어!,M1Q1A07S1CL,,,,vs_fclaudum_051,0,0
+17956,Dialog,CL,"Oh course, if you beat all three rounds, you get to fight me. Then maybe you win the whole damn bar! Trust me, that will never happen.",물론 세 라운드를 전부 이기면 날 상대할 자격이 생기지. 그러면 이 빌어먹을 술집을 통째로 가져갈 수도 있을 거야! 근데 그럴 일은 없어.,M1Q1A07S1CL,,,,,0,0
+17957,Dialog,CL,"He'd never beat me, but then, no one can. That's why I put the bar up as a reward. People stopped trying.",그도 날 못 이겨. 애초에 아무도 못 이기니까. 그래서 술집을 보상으로 걸었지. 그러자 다들 시도조차 안 하더군.,M1Q1A07S1CL,,,,,0,0
+17958,Dialog,CL,"And if he doesn't, I will. Nobody beats me. If you think you'll walk out of here with MY bar, you are mistaken!",그가 못 하면 내가 한다. 아무도 날 못 이겨. 내 술집을 들고 여길 나갈 생각이라면 큰 착각이야!,M1Q1A07S1CL,,,,,0,0
+18405,Dialog,CULTIST1,Please... my death will serve no purpose. Allow me to live...,제발... 날 죽여 봐야 소용없다. 살려 달라...,M1Q1CULTIST1,nw_d1_j_surr01,,,,0,0
+18406,Dialog,CULTIST1,"You will get nothing from me. Come kill me, then! I will die for a greater cause than you can know!",내게선 아무것도 못 얻는다. 그럼 와서 죽여라! 네가 아는 것보다 더 위대한 대의를 위해 죽을 테니!,M1Q1CULTIST1,nw_d1_attonend02,,,,0,0
+18407,Dialog,CULTIST1,"There is nothing I can tell you. I am sworn to my cause. I would plead for my life, but I will only come back if released.",말해 줄 건 없다. 나는 내 사명을 맹세했다. 목숨을 구걸해 봐야 풀려나면 다시 돌아올 뿐이다.,M1Q1CULTIST1,,,,,0,0
+18408,Dialog,CULTIST1,I can fight no more... I am beaten...,더는 싸울 수 없다... 졌다...,M1Q1CULTIST1,,,,,0,0
+18409,Dialog,CULTIST1,"Your mercy is admirable... but it will not endear me to you. I am sworn to the inevitable. Neverwinter will fall to plague, and what comes after... you cannot know.","네 자비는 가상하지만... 그걸로 내가 너에게 마음을 주진 않습니다. 나는 필연에 맹세했다. 네버윈터는 역병에 무너질 것이고, 그 다음에 올 일은... 네가 알 수 없다.",M1Q1CULTIST1,nw_d2_leaverun,,,,0,0
+18410,Dialog,CULTIST1,I can make no good argument for why you should spare me. I can't tell you what you want to know. I will not risk endangering what must come!,날 살려야 할 이유를 댈 수 없다. 네가 알고 싶은 것도 말할 수 없다. 반드시 올 것을 위험에 빠뜨리진 않겠다!,M1Q1CULTIST1,,,,,0,0
+18411,Dialog,CULTIST1,Your hands? The lives of all the plague-dead trickle though your hands second by second. Do not think you control anything by threatening my little life. I am nothing compared to what comes!,네 손? 역병으로 죽은 모든 이들의 삶이 매 순간 네 손가락 사이로 흘러내린다. 내 보잘것없는 목숨을 위협한다고 해서 네가 무언가를 통제한다고 착각하지 마라. 나는 다가올 것에 비하면 아무것도 아니다!,M1Q1CULTIST1,,,,,0,0
+18414,Dialog,CULTIST1,That is not for you to know. I cannot tell you - you would not understand what must be done.,그건 네가 알 일이 아니다. 말해 줄 수 없다-무엇이 행해져야 하는지 너는 이해하지 못할 테니까.,M1Q1CULTIST1,,,,,0,0
+18415,Dialog,CULTIST1,You know nothing! My cause is beyond you! My payment is to stand strong while the rest of you fall to plague!,너는 아무것도 모른다! 나의 대의는 네 따위가 넘볼 바가 아니다! 나의 보상은 너희가 역병에 쓰러질 때 굳건히 서 있는 것이다!,M1Q1CULTIST1,,,,,0,0
+85678,Dialog,CULTIST1,"""Yes, Master Sodalis.""","""예, 소달리스님.""",Q3A_CULTIST1,,,,vs_nx2daelm_58,0,0
+18416,Dialog,CULTIST2,Kill the enemy!,적을 처치하라!,M1Q1CULTIST2,nw_d1_attonend02,,,,0,0
+18417,Dialog,CULTIST2,We cannot fail in our task!,우리 임무는 실패할 수 없다!,M1Q1CULTIST2,,,,,0,0
+18438,Dialog,CULTIST3,You are stronger than I expected... a pity you will not survive. I'm certain the master would've preferred that you serve him.,생각보다 강하군... 안타깝게도 살아남진 못할 거다. 주인님께서는 네가 그를 섬기길 더 바랐을 텐데 말이지.,M1Q1CULTIST3,nw_d1_j_surr01,,,,0,0
+18439,Dialog,CULTIST3,"Kill me if you must, but you cannot stop what comes! The People of the Eye serve the inevitable! You will wish you had never existed!","필요하다면 날 죽여라, 하지만 다가올 것을 막을 순 없다! 눈동자 교단은 필연을 섬긴다! 너는 태어나지 않았기를 바라게 될 것이다!",M1Q1CULTIST3,nw_d1_attonend02,,,,0,0
+18440,Dialog,CULTIST3,"My life has already been given to another. Even if I die, I have already served a greater destiny than you can even comprehend.","내 삶은 이미 다른 이에게 바쳐졌다. 내가 죽더라도, 너의 상상조차 못 할 더 위대한 운명에 이미 봉사했다.",M1Q1CULTIST3,,,,,0,0
+18441,Dialog,CULTIST3,Stay your wrath... this battle is lost to me... I yield.,분노를 거둬라... 이 싸움은 내 패배다... 항복한다.,M1Q1CULTIST3,,,,,0,0
+18442,Dialog,CULTIST3,"As you wish, my <lord/lady>... but I'm sure the Wailing shall have its way with you long before my Master ever needs to intervene.",명하시는 대로... 하지만 울부짖는 죽음 역병이 주인님께서 나서실 필요도 없을 만큼 일찍 너를 집어삼킬 것이다.,M1Q1CULTIST3,nw_d2_leaverun,,,,0,0
+18443,Dialog,CULTIST3,"Ah, but you already have. The only reason you cannot see him is that he does not try to hide.","아, 하지만 너는 이미 그를 보았다. 네가 그를 보지 못하는 유일한 이유는 그가 숨기려 들지 않기 때문이다.",M1Q1CULTIST3,,,,,0,0
+18444,Dialog,CULTIST3,"You are a fool. The plague points to a great and glorious future, and we have ensured that it did what it must! Your actions only ensure a more painful death for yourself!",바보로군. 그 역병은 위대하고 영광스러운 미래를 가리킨다. 그리고 우리는 그것이 해야 할 일을 하도록 보장했다! 네 행동은 그저 네 자신의 더 고통스러운 죽음만 보장할 뿐이다!,M1Q1CULTIST3,,,,,0,0
+18446,Dialog,CULTIST3,My life is far from meaningless. I serve a cause that is far greater than anything you can fathom. I walk strong among the plague-ridden knowing you can do nothing to stop it.,"내 삶은 결코 무의미하지 않다. 너의 이해를 넘어서는 위대한 대의를 섬긴다. 너희가 그것을 막을 수 없다는 걸 알기에, 역병으로 물든 자들 사이에서도 나는 굳건히 걷는다.",M1Q1CULTIST3,,,,,0,0
+18447,Dialog,CULTIST3,"His name is not for me to reveal. Perhaps once the Wailing has run its course, he shall spell it out in corpses down the avenues.","그의 이름을 밝히는 건 내 몫이 아니다. 아마 울부짖는 죽음 역병이 끝나면, 그는 대로를 시체로 장식해 그 이름을 적어 보이시겠지.",M1Q1CULTIST3,,,,,0,0
+18448,Dialog,CULTIST3,"There is little I can do to stay your wrath, but it doesn't matter. My death will mean nothing to you, and less to the inevitable will of my masters.","네 분노를 멈추게 할 수 있는 건 거의 없지만, 상관없다. 내 죽음은 너에게 아무 의미도 없고, 주인님들의 필연적인 의지에는 그보다도 못한 의미다.",M1Q1CULTIST3,,,,,0,0
+18449,Dialog,CULTIST3,"We walk ahead of the plague. It is the tool of far greater masters than you can comprehend. It will take you. You will rot and fall away, and in the end your death will be a blessing.","우리는 역병 앞에서 걷는다. 그것은 네가 이해할 수 없는 더 위대한 주인들의 도구다. 그것이 너를 데려갈 것이다. 너는 썩어 무너질 것이며, 결국 죽음이 축복이 되리라.",M1Q1CULTIST3,,,,,0,0
+18450,Dialog,CULTIST3,You will be stopped. You will take no more steps toward a cure. My master has declared that there shall be no salvation for this wretched city. It will wither and die...,너는 저지당할 것이다. 치료제에 다가가는 더 이상의 발걸음은 없다. 내 주인님께서는 이 비참한 도시에 구원이 없다고 선언하셨다. 이 도시는 시들어 죽을 것이다...,M1Q1CULTIST3,,,,,0,0
+18451,Dialog,CULTIST3,"You are an annoyance to the master, but he knows all that you do... all the steps you make. You will be shrugged aside in the end.","너는 주인님께 성가신 존재일 뿐이지만, 그분은 네가 하는 모든 것... 네가 내딛는 모든 발걸음을 알고 계신다. 결국 너는 가볍게 치워질 것이다.",M1Q1CULTIST3,,,,,0,0
+22485,Creature,Callik,"What is this, Vengaul? More of your old guard? Loyalists?","이게 뭐지, 벵골? 네 옛 경호원인가? 충성파들?",M1Q04CCALLIK,m1q4f21callslg01,,,vs_nthugxm1_051,0,0
+22487,Creature,Callik,I don't care who they are! Your foolish rule is over tonight!,녀석들이 누구든 상관없다! 네놈의 어리석은 통치는 오늘 밤 끝난다!,M1Q04CCALLIK,,,,vs_nthugxm1_052,0,0
+24613,Creature,Callik,Callik,칼릭,M1Q04CCALLIK,,,,,0,0
+22488,Dialog,CALLIK,Who the devil are you?,도대체 이 빌어먹을 놈은 누구야?,M1Q4F21CALLIK,,,,vs_nthugxm1_050,0,0
+22787,Dialog,CLHN,"They say there's cause for celebration, that the undead are back to their dirt-naps, so to speak. Good on you if you saved the day.",축하할 일이라더군요. 언데드가 다시 흙 속 낮잠으로 돌아갔다고나 할까. 당신이 해결했다면 잘하셨어요.,M1Q5A02CLHN,,,,,0,0
+22788,Dialog,CLHN,"I am here to serve, though I can't offer much. The greatest tragedy is the interruption of my beer supply.","뭐라도 드리죠, 많진 않지만. 가장 큰 비극은 맥주 공급이 끊긴 거라니까요.",M1Q5A02CLHN,,,,,0,0
+22789,Dialog,CLHN,"Need a drink? Times is tough, and a body could use a little lubrication to keep it movin'.",한 잔 할래요? 힘든 시절엔 몸도 움직이려면 기름칠이 좀 필요하죠.,M1Q5A02CLHN,c_gpc_talktimes,,,,0,0
+22790,Dialog,CLHN,"I don't blame you. Been crazy around these parts. First the plague, then this. We'll all be walking the Warrens before we're through.","그럴 만도 하죠. 요즘 여기, 미쳐 돌아가거든요. 역병에, 이번 일까지. 이러다 다들 저주받은 사육장을 걷게 될지도 몰라요.",M1Q5A02CLHN,,,,,0,0
+22791,Dialog,CLHN,Good luck. We live through this and we'll tie one on. Then we'll tie another one to that and watch them twirl.,"행운을 빌게요. 이 난리만 넘기면 실컷 마십시다. 잔을 한 번 걸고, 또 하나 더 걸고, 빙빙 도는 것 좀 보게요.",M1Q5A02CLHN,,,,,0,0
+22792,Dialog,CLHN,"Harben Ashensmith is here, and the celebrated undead hunter, Drake. He won my ""Eat the Most Pickled Eggs"" jamboree, two years running.","하벤 아센스미스도 와 있고, 유명한 언데드 사냥꾼 드레이크도 있어요. 제 '절임 달걀 최다 먹기' 잼버리에서 2연패한 사람이죠.",M1Q5A02CLHN,,,,,0,0
+22793,Dialog,CLHN," He'll deny it, won't even let you ask, but just you think about that when he's being ""oh so serious.""","본인은 부정할 거고, 물어보는 것조차 싫어하겠지만, 그 양반이 '엄청 진지한 척'할 때 그 이야기를 한번 떠올려 봐요.",M1Q5A02CLHN,,,,,0,0
+22794,Dialog,CLHN,"Oh, Desther's Helmites are in the district somewhere too. Set up a sanctuary, I think.","아, 데스터 쪽 헬름 신도들도 어딘가에 와 있어요. 성소 같은 걸 차렸던가 그럴 겁니다.",M1Q5A02CLHN,,,,,0,0
+22795,Dialog,CLHN,"Sorry. Local superstition. ""The Warrens of the Damned, burrowing deep beneath the dead to the very doormat of the Hells.""","미안해요. 동네 미신이죠. '저주받은 사육장, 죽은 자들 아래 깊숙이 파고들어 지옥 문턱까지 이어진다.'",M1Q5A02CLHN,,,,,0,0
+22796,Dialog,CLHN,It's about the crypts beneath the Great Graveyard. People imagine the worst because they are out of sight. It's nothing.,거대 묘지 아래 납골당 이야기예요. 사람들은 안 보이면 최악을 상상하거든요. 별거 아닙니다.,M1Q5A02CLHN,,,,,0,0
+22797,Dialog,CLHN,"The dying. Seriously, they don't seem concentrated anywhere, and people that die of plague seem to rise from where they fall.","죽어 가는 사람들이요. 농담이 아니라, 특정 지역에 몰린 것도 아니고, 역병으로 쓰러진 사람들은 쓰러진 자리에서 바로 일어나는 것 같아요.",M1Q5A02CLHN,,,,,0,0
+22798,Dialog,CLHN,"There's more near the Great Graveyard in the north. I mean, go figure, the place is full of the dead.","북쪽 거대 묘지 근처에 더 많아요. 생각해 보면 당연하죠, 죽은 이들이 가득한 곳이니까.",M1Q5A02CLHN,,,,,0,0
+22799,Dialog,CLHN,"Keep safe. The more warm bodies we have, the better.",몸조심해요. 살아 있는 사람이 많을수록 좋은 법이죠.,M1Q5A02CLHN,,,,,0,0
+22800,Dialog,CLHN,Ohhh-kay. Watch your head out there. Sounds like it's been hit a few times.,오-케이. 밖에선 머리 조심하세요. 몇 번 맞은 듯한 소리를 하시네.,M1Q5A02CLHN,,,,,0,0
+22801,Dialog,CLHN,"Sorry, my slow-witted friend. Local superstition about the Warrens of the Damned that lead to the Hells or some such.","미안해요, 우리 둔한 친구. 지옥으로 이어진다는 저주받은 사육장, 동네 미신같은 말이에요.",M1Q5A02CLHN,,,,,0,0
+23769,Dialog,CMNY,There are outsiders present! The incantation is soiled!,외부인이 끼어들었다! 주술이 더럽혀졌다!,M1Q5D02CMNY,m1q5d02cmnyslg01,,,,0,0
+23770,Dialog,CMNY,The magic is tainted! Gulnan's servant will not be fully controlled!,마법이 오염됐다! 굴난의 하수인을 완전히 제어하지 못할 것이다!,M1Q5D02CMNY,m1q5d02cmnyslg01,,,,0,0
+23771,Dialog,CMNY,Abandon the Spell! The outsiders taint it.,주문을 중지해라! 외부인들이 오염시키고 있다.,M1Q5D02CMNY,m1q5d02cmnyslg01,,,,0,0
+23772,Dialog,CMNY,"Ooooh, this isn't good.","오오, 이거 안 좋군.",M1Q5D02CMNY,m1q5d02cmnyslg01,,,,0,0
+23922,Dialog,CSHELF,"There is something strange about this bookshelf. There might be an opening behind it, but the shelf resists any physical attempt to move it.","이 책장은 어딘가 수상합니다. 뒤에 통로가 있는 듯하지만, 움직이려 해도 꿈쩍하지 않습니다.",M1S1CSHELF,,,,,0,0
+23970,Dialog,CLOSEDSIGN,Moonstone Mask closed. Direct all complaints to <CUSTOM625>.,월장석 가면 여관 영업 중단. 모든 민원은 <CUSTOM625>에게 제출하십시오.,M1S2CLOSEDSIGN,,,,,0,0
+24189,Dialog,CPORTAL,This portal will not work for you.,이 차원문은 당신에겐 작동하지 않습니다.,M1S3CPORTAL,,,,,0,0
+24190,Dialog,CPORTAL,Someone is already taking the test. You must wait.,누군가 이미 시험을 치르는 중이다. 기다려야 한다.,M1S3CPORTAL,,,,,0,0
+24536,Creature,Creature_COMMONER,Master Johns,집사 존스,COMMONER,,,,,0,0
+24537,Creature,Creature_COMMONER,Ms. Dulcimae,둘시마에 부인,COMMONER,,,,,0,0
+24538,Creature,Callahan,Callahan,칼라한,CALLAHAN,,,,,0,0
+24548,Creature,Cultist,Cultist,사교도,2Q6_CULTIST|CULTF1|CULTF2|CULTFD1|CULTFD2|CULTM1|CULTM2|CULTMD1|CULTMD2|M1Q5CULTWIZ2|M1Q5DCULTWIZ1,,,,,0,0
+24572,Creature,Captain Aedoric,Captain Aedoric,에이도릭 대위,M4Q01B15CAPT,,,,,0,0
+48521,Creature,Captain Aedoric,The Luskan's came on us so fast. We didn't stand a chance. I never even had time to order a retreat.,러스칸 놈들이 너무 빨리 들이닥쳤다. 우린 상대가 안 됐어. 퇴각 명령을 내릴 시간조차 없었지.,M4Q01B15CAPT,,,,,0,0
+48522,Creature,Captain Aedoric,It's only a matter of time until they find us here. They'll probably kill me last - that's what they do. They make the captain watch all his men die first.,놈들이 우릴 여기서 찾는 건 시간문제다. 아마 난 맨 마지막에 죽이겠지-놈들이 늘 그러거든. 대장이 부하들이 하나둘 죽는 걸 먼저 보게 만듭니다.,M4Q01B15CAPT,,,,,0,0
+48523,Creature,Captain Aedoric,"Come here to die with the rest of us, have you? You're welcome to stay and await the gruesome end, if you want.",여기 와서 우리랑 같이 죽을 참이냐? 원하면 남아서 끔찍한 최후를 기다려도 상관없다.,M4Q01B15CAPT,,,,,0,0
+48525,Creature,Captain Aedoric,"We're just a company of Neverwinter soldiers, a few survivors - though we won't be alive much longer, I fear.","우린 네버윈터 병사들 한 중대, 살아남은 몇 명일 뿐이야-하지만 오래 버티진 못할 거다.",M4Q01B15CAPT,,,,,0,0
+48526,Creature,Captain Aedoric,"Back out into the street? That's suicide. Of course the Luskan's will kill us all anyway, so what does it matter?","밖으로 나가자고? 그건 자살행위지. 어차피 러스칸 놈들이 우릴 전부 죽일 텐데, 뭐가 다르겠나?",M4Q01B15CAPT,,,,,0,0
+48527,Creature,Captain Aedoric,I'm just a realist. My troops are bloody and beaten and the streets are crawling with Luskan soldiers. We're outmanned ten to one at least.,"난 그냥 현실을 말하는 거다. 내 병사들은 피투성이에 얻어터졌고, 거리는 러스칸 병사들로 들끓는다. 병력도 최소 십 대 일이야.",M4Q01B15CAPT,,,,,0,0
+48528,Creature,Captain Aedoric,"Even if we could make it back to the City Core alive, what's the point? Any help we expect to get from the Lords' Alliance will never get here in time. The whole city is doomed.",설령 살아서 도시 중심부까지 돌아간다 해도 무슨 의미가 있지? 영주 연합이 보낼 지원군은 제때 오지 못할 거다. 도시 전체가 끝장났어.,M4Q01B15CAPT,,,,,0,0
+48529,Creature,Captain Aedoric,"There's no way we can win this war. What, do you plan to lead a handful of soldiers against an army?","이 전쟁에서 우리가 이길 방법은 없어. 뭐, 군대 상대로 병사 몇을 데리고 돌격이라도 하겠다는 거야?",M4Q01B15CAPT,,,,,0,0
+48534,Creature,Captain Aedoric,"I know you. You're <FullName>, the hero who saved us from the Wailing Death. HA! Lot of good that did. Death by plague or death by war - doesn't make much difference, does it?","당신을 알아보겠군. 당신은 <FullName>, 울부짖는 죽음 역병에서 우릴 구한 영웅이지. 하! 별 소용이 있었나? 역병으로 죽나 전쟁으로 죽나-무슨 차이가 있어?",M4Q01B15CAPT,,,,,0,0
+24614,Creature,Chef,Chef,요리사,M1Q04CCHEF,,,,,0,0
+24633,Creature,Callik's Guard,Callik's Guard,칼릭의 경비,M1Q04CTHUG02,,,,,0,0
+24642,Creature,Captain Bunovard,Captain Bunovard,부노바드 대위,M1Q1A01ASSISTANT,,,,,0,0
+24647,Creature,Citizen,Citizen,시민,M1Q1ADWFCITIZEN|M1Q1AELFCITIZEN|M1Q1AGNMCITIZEN|M1Q1AHALFCITIZEN|M1Q1AHUMCITIZEN|M1Q5VICTIM,,,,,0,0
+24738,Creature,Citizen,Citizen,시민,M1_COMMONFEM,,,,,0,0
+94870,Creature,Citizen,Citizen,시민,Q2A1_COMMONER1|Q2A1_COMMONER2|Q2A1_COMMONER3,,,,,0,0
+24703,Creature,Claudus,Claudus,클로더스,M1S04CCLAUDUS|M1S04CCLAUDUS02,,,,,0,0
+24719,Creature,Courtesan,Courtesan,고급 창부,M1S2BELFCOURTESAN|M1S2BHUMCOURTESAN,,,,,0,0
+28271,Creature,Courtesan,I am a female courtesan.,난 고급 창부에요.,2Q4C_FEMALECOURT,,,,,0,0
+40693,Creature,Courtesan,Courtesan,고급 창부,2Q4C_FEMALECOURT,,,,,0,0
+24721,Creature,Cook,Cook,요리사,M1S2COOK|M3Q4_D14_COOK,,,,,0,0
+46955,Creature,Cook,Yeg. More guts 'n stuff for the stew!,엑. 스튜에 넣을 내장거리랑 잡동사니가 또 생겼네!,M3Q4_D14_COOK,,,,,0,0
+92801,Creature,Cook,"""I sure am tired of all these bloody interruptions.""","""이 지독한 방해 때문에 정말 질렸어.""",Q2ACOOK,,,,,0,0
+92802,Creature,Cook,"""How can I concentrate on my cooking with all of that infernal noise outside.""","""바깥에서 저 지독한 소리가 계속 나는데 어떻게 요리에 집중하라는 거야.""",Q2ACOOK,q2a_talk_cook6,,,,0,0
+92803,Creature,Cook,"""What to make for dessert tonight, hmmmm...""","""오늘 디저트는 뭘 만들지, 으으음...""",Q2ACOOK,q2a_talk_cook5,,,,0,0
+92804,Creature,Cook,"""I knew I should have written down that recipe for Huevos Underrancheros.""","""역시 후에대장 언더랜체로스 레시피는 적어 둘 걸 그랬어.""",Q2ACOOK,q2a_talk_cook4,,,,0,0
+92805,Creature,Cook,"""Was that one pinch of Utrech's powder or two...""","""우트레크의 가루가 한 꼬집이었나, 두 꼬집이었나...""",Q2ACOOK,q2a_talk_cook3,,,,0,0
+92806,Creature,Cook,"""I don't understand why my souffle won't rise!""","""왜 내 수플레가 안 부풀지, 도무지 모르겠네!""",Q2ACOOK,q2a_talk_cook2,,,,0,0
+92807,Creature,Cook,"""Get out of my kitchen!""","""내 주방에서 나가!""",Q2ACOOK,q2a_talk_cook1,,,,0,0
+95388,Creature,Cook,Cook,요리사,HX_CRYSTAL3_VIC4|Q2ACOOK,,,,,0,0
+24750,Creature,Customer,Customer,손님,M1_PATRON|M2Q05CCUSTOMER|NWGENCUSTOMER01,,,,,0,0
+40737,Creature,Customer,Customer,손님,2Q4_F_CUSTOMER|2Q4_M_CUSTOMER,,,,,0,0
+25294,Creature,Christov,Christov,크리스토프,M1Q04CCRISTOV,,,,,0,0
+26672,Dialog,CHCUST,Momma says we gotta stay here for a while. Daddy was killed by the soldiers.,엄마가 우린 한동안 여기 있어야 한대. 아빠는 군인들한테 죽었어.,2Q4A_CHCUST,nw_d1_ctr01,,,,0,0
+26673,Dialog,CHCUST,"You seem nice, <mister/misssus>. Can I be like you when I grow up?",좋은 사람 같은데. 나도 크면 그렇게 될 수 있을까?,2Q4A_CHCUST,nw_d1_ctr02,,,,0,0
+26674,Dialog,CHCUST,They burned our house down. Now we live in an inn.,우리 집을 불태워 버렸어. 이제 우린 여관에서 살아.,2Q4A_CHCUST,nw_d1_ctr03,,,,0,0
+26675,Dialog,CHCUST,There's monsters in the streets. I seen 'em.,거리엔 괴물들이 있어. 내가 봤어.,2Q4A_CHCUST,nw_d1_ctr01,,,,0,0
+26676,Dialog,CHCUST,"My sister is missing, now. Momma says that she may be gone forever.",이젠 내 동생이 사라졌어. 엄마는 영영 못 돌아올 수도 있대.,2Q4A_CHCUST,nw_d1_ctr02,,,,0,0
+26677,Dialog,CHCUST,Them captains are tryin' to take over the city. I don't know why.,그 대장들이 도시를 차지하려고 해. 왜인지는 몰라.,2Q4A_CHCUST,nw_d1_ctr03,,,,0,0
+26678,Dialog,CHCUST,"I don't like you, <mister/missus>. Go away!",난 너 싫어. 저리 가!,2Q4A_CHCUST,nw_d1_ctr01,,,,0,0
+26679,Dialog,CHCUST,"You leave me alone, or I'm gonna tell my mommy!","나 좀 내버려 둬, 안 그러면 엄마한테 이를 거야!",2Q4A_CHCUST,nw_d1_ctr02,,,,0,0
+26680,Dialog,CHCUST,"We don't have nowheres to live any more. I watched my house burn down, I did.","우린 이제 살 데가 하나도 없어. 우리 집 타는 걸 내가 봤어, 정말이야.",2Q4A_CHCUST,nw_d1_ctr03,,,,0,0
+28015,Dialog,CANTY,Erb sure has gotten himself into a pickle upstairs.,어브가 위층에서 제대로 곤경에 빠졌네.,2Q4C_CANTY,,,,,0,0
+28086,Dialog,CRTINROOM,"Ye'll have to wait yer turn, honey. Out ye go.","차례를 기다려야 해요, 허니. 나가 주세요.",2Q4C_CRTINROOM,2q4_playnice,,,,0,0
+28087,Dialog,CRTINROOM,"Did I ask ye to come into me room? No, I didn't. Please leave.",제가 방에 들어오라 했나요? 아니죠. 나가 주세요.,2Q4C_CRTINROOM,2q4_playmad,,,,0,0
+28088,Dialog,CRTINROOM,"What are ye doin', coming in here?! Get out! Out!!",여긴 왜 들어와요?! 나가요! 어서!!,2Q4C_CRTINROOM,2q4_playmad,,,,0,0
+28109,Dialog,CUSTINROOM,Get outta here!,나가!,2Q4C_CUSTINROOM,2q4_playmad,,,,0,0
+28110,Dialog,CUSTINROOM,Hey! This is my time! Get yer own!,이봐! 지금은 내 차례야! 차례를 지켜!,2Q4C_CUSTINROOM,2q4_playmad,,,,0,0
+28111,Dialog,CUSTINROOM,Can't a man be left in peace? Get your own lass!,좀 조용히 놔둘 순 없나? 네 아가씨나 찾아가!,2Q4C_CUSTINROOM,2q4_playmad,,,,0,0
+29289,Dialog,CHILDINTER,Help! Mommy!! Where's my mommy?!,도와줘! 엄마!! 우리 엄마 어디 있어?!,2Q4_CHILDINTER,,,,,0,0
+29328,Dialog,CRACKANVILSIGN,The Cracked Anvil,금간 모루,M2CRACKANVILSIGN,,,,,0,0
+30101,Creature,Captain Mung,"Hey pal - business is business. I do you a favor and you do one right back for me, all right? And this has nothing to do with risk.","이봐, 친구-거래는 거래야. 내가 너한테 한 번 베풀면 너도 바로 한 번 갚아 줘. 알겠지? 위험이니 뭐니 하는 문제는 아냐.",M2Q01CMUNG,,,,,0,0
+30102,Creature,Captain Mung,"Besides, if I started doing things out of the kindness of my heart, I wouldn't be in business now would I? I do as I -","게다가, 선행을 베풀면서 일할 거였으면 내가 지금까지 장사를 했겠어? 난 내 뜻대로-",M2Q01CMUNG,,,,,0,0
+30104,Creature,Captain Mung,"Well, if the difference is between a wealthy shipment to Waterdeep, and a trip into that plague-ridden town - count me out.","워터딥으로 가는 알짜 화물과, 역병이 든 그 동네로 가는 길 중에 고르라면-난 못 간다.",M2Q01CMUNG,,,,,0,0
+30106,Creature,Captain Mung,I don't trust what people say about a plague that can kill you. I'm staying away. I'm not bringing that shipment to Neverwinter.,사람들 말은 못 믿겠어. 사람 잡는 역병이라잖아. 난 멀찍이 떨어져 있을 거다. 그 화물은 네버윈터로 안 보낸다.,M2Q01CMUNG,,,,,0,0
+40753,Creature,Captain Mung,Captain Mung,먼그 선장,M2Q01CMUNG,,,,,0,0
+32300,Dialog,CROSSROAD,North to Green Griffon Inn,북쪽은 푸른 그리핀 여관,M2Q1A_CROSSROAD,,,,,0,0
+32301,Dialog,CROSSROAD,East to Neverwinter Wood,동쪽은 네버윈터 숲,M2Q1A_CROSSROAD,,,,,0,0
+32302,Dialog,CROSSROAD,South to Charwood,남쪽은 그을린숲,M2Q1A_CROSSROAD,,,,,0,0
+37725,Dialog,CROSSROAD,East: Neverwinter Wood. South: Port Llast. North: Green Griffon Inn and Luskan.,동쪽: 네버윈터 숲. 남쪽: 라스트 항구. 북쪽: 푸른 그리핀 여관과 러스칸,M2Q5A_CROSSROAD,,,,,0,0
+33621,Dialog,CC_GOLEMSPK,Qarth suclasa turth?,카르스 쑤클라사 투르스?,M2Q2CC_GOLEMSPK,,,,,0,0
+33622,Dialog,CC_GOLEMSPK,I am the guardian of the first seal. None may pass.,나는 첫 번째 봉인의 수호자다. 아무도 지나갈 수 없다.,M2Q2CC_GOLEMSPK,,,,,0,0
+33623,Dialog,CC_GOLEMSPK,You may not pass.,지날 수 없다.,M2Q2CC_GOLEMSPK,,,,,0,0
+33624,Dialog,CC_GOLEMSPK,You speak like the masters. You may pass.,주인들처럼 말하는군. 통과를 허락한다.,M2Q2CC_GOLEMSPK,m2q2cc_givekey,,,,0,0
+33625,Dialog,CC_GOLEMSPK,You may pass.,지나가도 좋다.,M2Q2CC_GOLEMSPK,m2q2cc_givekey,,,,0,0
+33626,Dialog,CC_GOLEMSPK,I am done with you.,너와는 끝이다.,M2Q2CC_GOLEMSPK,,,,,0,0
+33627,Dialog,CC_GOLEMSPK,It is the portal that stands behind me. Only the masters may pass through.,내 뒤에 서 있는 것이 관문이다. 주인들만 통과할 수 있다.,M2Q2CC_GOLEMSPK,,,,,0,0
+33628,Dialog,CC_GOLEMSPK,None may pass.,아무도 지나갈 수 없다.,M2Q2CC_GOLEMSPK,,,,,0,0
+33629,Dialog,CC_GOLEMSPK,You do not speak the Masters' tongue. You are one of the slave races. You may not pass.,너는 주인들의 언어를 구사하지 못한다. 너는 노예 종족이다. 통과할 수 없다.,M2Q2CC_GOLEMSPK,,,,,0,0
+33630,Dialog,CC_GOLEMSPK,<StartCheck>[Failure]</Start> You do not possess the creator's ring. Slaves who have been sent by the creators always have the ring of Gax.,<StartCheck>[실패]</Start> 너는 창조자의 반지를 지니지 않았다. 창조자가 보낸 노예는 언제나 각스의 반지를 갖고 있다.,M2Q2CC_GOLEMSPK,m2q2cc_pltstrt,,,,0,0
+33631,Dialog,CC_GOLEMSPK,"I will answer no more questions, slave.","더 이상 답하지 않겠다, 노예여.",M2Q2CC_GOLEMSPK,,,,,0,0
+33646,Dialog,CD_GOLEMSPK,Qarth suclasa turth?,카르스 쑤클라사 투르스?,M2Q2CD_GOLEMSPK,,,,,0,0
+33647,Dialog,CD_GOLEMSPK,I am the guardian of the second seal. None may pass. You must speak the password in the Masters' tongue.,나는 두 번째 봉인의 수호자다. 아무도 지나갈 수 없다. 주인들의 언어로 암호를 말해야 한다.,M2Q2CD_GOLEMSPK,m2q2cd_pltstrt,,,,0,0
+33648,Dialog,CD_GOLEMSPK,None may pass. You must speak the password in the Masters' tongue.,아무도 지나갈 수 없다. 주인들의 언어로 암호를 말해야 한다.,M2Q2CD_GOLEMSPK,,,,,0,0
+33650,Dialog,CD_GOLEMSPK,"You may not pass, slave. You must speak the password in the Masters' tongue.","노예여, 통과할 수 없다. 주인들의 언어로 암호를 말해야 한다.",M2Q2CD_GOLEMSPK,,,,,0,0
+33651,Dialog,CD_GOLEMSPK,You speak the Masters' tongue. You may pass.,주인들의 언어를 구사하는군. 통과를 허락한다.,M2Q2CD_GOLEMSPK,m2q2cd_givekey,,,,0,0
+33653,Dialog,CD_GOLEMSPK,I am done with you.,너와는 끝이다.,M2Q2CD_GOLEMSPK,,,,,0,0
+33654,Dialog,CD_GOLEMSPK,You do not speak the Masters' tongue. You may not pass.,주인들의 언어를 구사하지 못한다. 통과할 수 없다.,M2Q2CD_GOLEMSPK,,,,,0,0
+33655,Dialog,CD_GOLEMSPK,<StartCheck>[Failure]</Start> You do not speak the Masters' password. You may not pass.,<StartCheck>[실패]</Start> 주인들의 암호를 말하지 못했다. 통과할 수 없다.,M2Q2CD_GOLEMSPK,,,,,0,0
+33656,Dialog,CD_GOLEMSPK,"I will answer no more questions, slave.","더 이상 답하지 않겠다, 노예여.",M2Q2CD_GOLEMSPK,,,,,0,0
+33657,Dialog,CE_GOLEMSPK,"Two seals have been passed. I shall guard the third with my life. Die, intruder!","두 개의 봉인이 이미 돌파됐다. 나는 목숨을 걸고 세 번째를 지키리라. 죽어라, 침입자!",M2Q2CE_GOLEMSPK,m2q2ce_attack,,,,0,0
+33658,Dialog,CE_LIZ1,Impertinent slave!,버릇없는 노예놈!,M2Q2CE_LIZ1,,,,,0,0
+33659,Dialog,CE_LIZ2,Vassa intruders! Vassa!,바사 침입자다! 바사!,M2Q2CE_LIZ2,,,,,0,0
+33660,Dialog,CE_LIZ3,You dare disturb us!,감히 우릴 방해하다니!,M2Q2CE_LIZ3,,,,,0,0
+35754,Dialog,CHICKEN,"Bwok, bwok-bwok... ","꼬꼬, 꼬꼬꼬...",M2Q3E_CHICKEN,,,,,0,0
+35939,Dialog,COW,...Mooo... ,...음머...,M2Q3E_COW,,,,,0,0
+36421,Dialog,CHILD,Don't let him take me! I don't want to go to the party! Mommy!,그 사람이 날 데려가지 못하게 해 줘! 파티 가기 싫어! 엄마!,M2Q3G02CHILD,,,,,0,0
+36424,Dialog,CHILD,Have you come to take me to the party?,날 파티에 데려가러 온 거야?,M2Q3G02CHILD,,,,,0,0
+36468,Dialog,CULT2,Gone! All gone! Like it was never there! And it wasn't! AHAHAHAH!!!,"사라졌어! 전부 사라졌어! 애초에 있지도 않았던 것처럼! 아니, 원래 없었지! 아하하하!!!",M2Q3G02CULT2,,,,,0,0
+36469,Dialog,CULT2,"Gone! Where did it go!? They'll never believe me! They'll come from Luskan to see what killed us, and there is nothing!!! AHAHAHAHA!!!!!!","사라졌어! 어디로 간 거지!? 아무도 날 믿지 않겠지! 러스칸에서 우리를 죽인 게 뭔지 보러 올 텐데, 아무것도 없어!!! 아하하하하!!!!!!",M2Q3G02CULT2,,,,,0,0
+36831,Dialog,CULTAUD,"He seems quite mad, don't he? You'd best avoid him.","저 사람, 꽤 미친 것 같지? 상종하지 않는 게 좋겠어.",M2Q3G_CULTAUD,,,,,0,0
+36832,Dialog,CULTAUD,"Who knows who the fellow is but he seems a wee bit barmy, wouldn't you say?",누군지는 모르겠지만 좀 정신이 나간 것 같지 않아?,M2Q3G_CULTAUD,,,,,0,0
+36850,Creature,Castle Guard,"My good <sir/madam>, I urge you not to disturb the Lords Jhareg... They need their rest, you know... ","선생님, 간곡히 부탁드립니다. 자렉 경을 방해하지 마시죠... 휴식이 필요하십니다...",M2Q3G_GUARD,,,,,0,0
+36851,Creature,Castle Guard,"Why... Why Mayor Mobley hired me... I get my first payment tomorrow: fifty coin... at sunrise, he said... tomorrow... ",왜... 왜 모블리 시장이 날 고용하셨지... 첫 월급은 내일 받아... 금화 50개... 해 뜰 때라 하셨어... 내일...,M2Q3G_GUARD,,,,,0,0
+36852,Creature,Castle Guard,I... I'm not from here... I was an adventurer. I come from somewhere far away... That's funny. I don't remember where... Isn't that funny?,저... 저는 이곳 사람이 아닙니다... 원래 모험가였죠. 아주 먼 데서 왔습니다... 웃기네요. 어디서 왔는지 기억이 안 나요... 웃기지 않습니까?,M2Q3G_GUARD,,,,,0,0
+36853,Creature,Castle Guard,"You're a stranger to these parts, aren't you... Either way, I'd advise you not to disturb the Lords Jhareg... They need their rest, you know... ","당신은 이곳엔 처음이지요... 아무튼, 자렉 경을 방해하지 마시길 권합니다... 휴식이 필요하십니다...",M2Q3G_GUARD,,,,,0,0
+36854,Creature,Castle Guard,"Aye, I know the look of you. You're one of them traveling stroytellers, aren't you... Well the Lords Jhareg don't want any. They need their rest... ","그래, 당신 꼴을 보니 알겠구먼. 떠돌이 이야기꾼 중 하나지? 하지만 자렉 경께서는 원치 않으셔. 휴식이 필요하시거든...",M2Q3G_GUARD,,,,,0,0
+36855,Creature,Castle Guard,"Why, May Mobley hired me just the other day... didn't he? Time seems to... just stretch on... here... ","왜, 모블리 시장이 엊그제 날 고용하셨지... 그렇지 않았나? 여긴... 시간이라는 게... 그냥 늘어지는 것 같아...",M2Q3G_GUARD,,,,,0,0
+36856,Creature,Castle Guard,"I... I don't know... Mayor Mobley told me it was important... Let nothing in or out, he said... Let nothing... in... or out... ","저... 저도 모르겠습니다... 모블리 시장이 중요하다고 했어요... 아무도 들이지도, 내보내지도 말라고... 아무도... 들이지... 말고...",M2Q3G_GUARD,,,,,0,0
+36857,Creature,Castle Guard,"Thinking straight? No, everything's perfectly... perfectly clear... normal... forever... ","정신이 멀쩡하냐고요? 아니요, 모든 게 완벽하게... 완벽하게 명료해요... 정상이에요... 영원히...",M2Q3G_GUARD,,,,,0,0
+36858,Creature,Castle Guard,"What? Sorry, I got... I got carried away there... What were you saying?","뭐라고요? 미안하오, 방금... 잠깐 넋을 놓았네... 뭐라 하셨지?",M2Q3G_GUARD,,,,,0,0
+36859,Creature,Castle Guard,"It seems so old, like it's been here forever... This entire town feels old... We all just go about our business... ","여긴 참 오래된 느낌이 들어요, 마치 영원히 있었던 것처럼... 마을 전체가 늙어 보이고... 우린 그저 각자 할 일을 하죠...",M2Q3G_GUARD,,,,,0,0
+36860,Creature,Castle Guard,"There are two of them, Karlat and Quint, brothers... I've never seen Karlat but Quint wanders around the town sometimes, asking about the children... ","둘이 있어요, 칼랏과 퀸트, 형제라네요... 칼랏은 본 적 없지만 퀸트는 가끔 마을을 돌아다니며 아이들에 대해 묻고 다녀요...",M2Q3G_GUARD,,,,,0,0
+36861,Creature,Castle Guard,"That's funny... He's never come through the gate, I'm... I'm sure of it... and I've never seen any children here at all... Isn't that funny?","이상하죠... 문으로 들어오는 걸 본 적이 없어요, 난... 난 확신합니다... 그리고 아이들은 여기서 한 번도 본 적이 없고요... 이상하지 않나요?",M2Q3G_GUARD,,,,,0,0
+36862,Creature,Castle Guard,I found him in the town hall and I didn't ever see him leave... He's... He's probably still... in there... ,그를 마을 회관에서 봤고 떠나는 걸 본 적이 없어요... 그는... 그는 아마 아직도... 그 안에...,M2Q3G_GUARD,,,,,0,0
+36863,Creature,Castle Guard,"But Mayor Mobley said... He said... What did he say again? Maybe... Maybe he told me to open the gate for you... Yes, that must be what he said... ","하지만 모블리 시장이... 그러셨지... 뭐라고 하셨더라? 어쩌면... 어쩌면 당신한테 문을 열어 주라고... 그래, 아마 그 말씀이었을 거야...",M2Q3G_GUARD,,,,,0,0
+36864,Creature,Castle Guard,"That's funny. The lock seems so rusted... Isn't that funny? Mayor Mobley would want me to oil that... Yes, I'll just... go get some oil... ","이상하네. 자물쇠가 아주 녹슨 것 같아... 이상하지 않아? 모블리 시장이라면 기름칠하라 하셨을 텐데... 그래, 내가... 기름 좀 가져오지...",M2Q3G_GUARD,,,,,0,0
+36865,Creature,Castle Guard,I'm... I'm just looking for some oil for the gate... What was I looking for again?,난... 난 그저 문에 바를 기름을 찾고 있었어... 내가 뭘 찾고 있었더라?,M2Q3G_GUARD,,,,,0,0
+40923,Creature,Castle Guard,Castle Guard,성의 경비병,M2Q3G_GUARD,,,,,0,0
+59227,Creature,Castle Guard,Mayor Mobley hasn't told me to let anyone through. You'd better speak to him in his office at the center of town.,모블리 시장이 아무도 들여보내지 말라 했습니다. 마을 중심에 있는 그의 집무실로 가서 직접 얘기하시는 게 좋겠습니다.,M2Q3G_GUARD,,,,,0,0
+37832,Dialog,CGOBLIN,"Me no kills you now, <race> friend. Talk to chief.","나 지금 너 안 죽여, <race> 친구. 족장하고 말해.",M2Q5CGOBLIN,,,,,0,0
+40026,Dialog,CHARWOOD,To Charwood.,그을린숲로,M2_CHARWOOD,,,,,0,0
+59221,Dialog,CHARWOOD,Forest of Charwood,그을린숲,M2Q3E_CHARWOOD,,,,,0,0
+59222,Dialog,CHARWOOD,Someone has scratched the word 'BEWARE' into the sign.,표지판에 누군가 '조심하라'라는 단어를 새겨 놓았습니다.,M2Q3E_CHARWOOD,,,,,0,0
+59228,Dialog,CHARWOOD,To South road and Port Llast,남쪽 길과 라스트 항구로.,M2Q3K_CHARWOOD,,,,,0,0
+40596,Creature,Cockatrice,Cockatrice,코카트리스,Q2B_FQ_CHICK,,,,,0,0
+40684,Creature,Colmarr,Colmarr,콜마르,2Q4A02_COLMARR,,,,,0,0
+40720,Creature,Child Refugee,Child Refugee,피난민 아이,2Q4_CHILD_MALE|NW_TAG_CHILD,,,,,0,0
+40783,Creature,Child Refugee,Child,아이,NW_TAG_CHILD,,,,,0,0
+59427,Creature,Child Refugee,TAG! You're it!,술래! 이제 네가 술래야!,NW_TAG_CHILD,,,,,0,0
+59428,Creature,Child Refugee,"Uh... I can't talk to you right now, <mister/missus>.",어... 지금은 말 못 해요.,NW_TAG_CHILD,,,,,0,0
+65182,Creature,Child Refugee,Are you a werewolf?,너 늑대인간이야?,NW_TAG_CHILD,,,,,0,0
+65183,Creature,Child Refugee,You're kinda scary. Leave me alone!,좀 무서워. 저리 가!,NW_TAG_CHILD,,,,,0,0
+65184,Creature,Child Refugee,Daddy said you're the hero of Neverwinter. You don't look like no hero!,"아빠가 너를 네버윈터의 영웅이라고 했는데, 하나도 그렇게 안 보여!",NW_TAG_CHILD,,,,,0,0
+65185,Creature,Child Refugee,Are you an adventurer? That must be neat!,모험가야? 진짜 멋지다!,NW_TAG_CHILD,,,,,0,0
+65186,Creature,Child Refugee,My friend said you're not really <race>!,내 친구가 넌 진짜 <race>가 아니래!,NW_TAG_CHILD,,,,,0,0
+65187,Creature,Child Refugee,Mommy says you're the hero of Neverwinter. I want to be a hero!,엄마가 너를 네버윈터의 영웅이라던데. 나도 영웅이 되고 싶어!,NW_TAG_CHILD,,,,,0,0
+65188,Creature,Child Refugee,I know somebody who has a crush on you. (giggle!),너 좋아하는 사람 누군지 알아. (히히!),NW_TAG_CHILD,,,,,0,0
+65189,Creature,Child Refugee,"You're the hero of Neverwinter, aren't you? You are! You are!",네버윈터의 영웅 맞지? 맞지! 맞지!,NW_TAG_CHILD,,,,,0,0
+65190,Creature,Child Refugee,Wow! I want to be just like you someday!,와! 나도 언젠가 너처럼 되고 싶어!,NW_TAG_CHILD,,,,,0,0
+65191,Creature,Child Refugee,I'm not supposed to talk to strangers.,낯선 사람이랑 말하면 안 돼.,NW_TAG_CHILD,,,,,0,0
+65192,Creature,Child Refugee,Are you here to kill that werewolf?,그 늑대인간 잡으러 온 거야?,NW_TAG_CHILD,,,,,0,0
+65193,Creature,Child Refugee,"Is there going to be a big war, <mister/missus>?",큰 전쟁 나는 거야?,NW_TAG_CHILD,,,,,0,0
+65194,Creature,Child Refugee,Do you know Lady Aribeth? Is she really an elf?,아리베스 경 알아? 정말 엘프야?,NW_TAG_CHILD,,,,,0,0
+40798,Creature,Caretaker,Caretaker,관리인,M2Q05CCARETAKER,,,,,0,0
+40888,Creature,Crypt Gargoyle,Crypt Gargoyle,납골당 가고일,M2Q2CC_GARGSTAT,,,,,0,0
+40895,Creature,Creator Sorceror,Creator Sorceror,창조자 요술사,M2Q2CE_LIZWIZ,,,,,0,0
+42539,Creature,Captain Islund,Captain Islund,이슬룬드 대위,2Q6A_GATECAPT,,,,,0,0
+46219,Creature,Catapult Commander,Fire!,발사!,M3Q2A05_PULTCOM,,,,,0,0
+47002,Creature,Catapult Commander,Catapult Commander,투석기 지휘관,M3Q2A05_PULTCOM|M3Q2A05_PULTCOM2|M3Q2A05_PULTCOM3|M3Q2A05_PULTCOM4|M3Q2A05_PULTCOM5|M3Q2A05_PULTCOM6|M4_COMMANDER1|M4_COMMANDER2|M4_COMMANDER3,,,,,0,0
+46221,Creature,Chaplain,The face of Helm still gazes fondly upon us. Hope has not yet faded.,헬름의 성스러운 얼굴이 여전히 우리를 따뜻하게 굽어보고 있습니다. 희망은 아직 사라지지 않았습니다.,M3Q2AHEALER,,,,,0,0
+47008,Creature,Chaplain,Chaplain,성직자,M3Q2AHEALER,,,,,0,0
+46237,Dialog,CATAPULT,The siege weapon cannot be harmed while its commander is still alive.,지휘관이 살아 있는 동안에는 이 공성 무기는 피해를 입지 않습니다.,M3Q2A_CATAPULT,,,,,0,0
+46238,Dialog,CATAPULT,"Without the protection of its crew, the siege weapon is easily destroyed.",승무원의 보호가 없으면 이 공성 무기는 손쉽게 파괴됩니다.,M3Q2A_CATAPULT,m3q2a05_die,,,,0,0
+65832,Dialog,CATAPULT,"Without the protection of its commander, the catapult is easily destroyed.",지휘관의 보호가 없으면 이 투석기는 손쉽게 파괴됩니다.,M4_CATAPULT,m4_catapult_dies,,,,0,0
+65833,Dialog,CATAPULT,The catapult cannot be harmed while its commander is still alive.,지휘관이 살아 있는 동안에는 이 투석기는 피해를 입지 않습니다.,M4_CATAPULT,,,,,0,0
+95563,Dialog,CATAPULT,One of the support timbers splintered when you threw the catapult over the river but it still appears to be workable.,"투석기를 강 너머로 던질 때 지지하던 목재 하나가 쪼개졌지만, 여전히 쓸 수 있는 상태로 보입니다.",CATAPULT,hx_cata_start_f,,,,0,0
+95564,Dialog,CATAPULT,"Some infernal magic shields the catapult, temporarily preventing you from using it.",어떤 지옥의 마법이 투석기를 감싸 일시적으로 사용을 막고 있습니다.,CATAPULT,,,,,0,0
+104170,Dialog,CATAPULT,This catapult is currently set to a range of <CUSTOM500> meters.,이 투석기는 현재 사정거리가 <CUSTOM500>미터로 설정되어 있습니다.,CATAPULT,cat_defaultrange,,,,0,0
+104171,Dialog,CATAPULT,In which direction?,어느 방향으로?,CATAPULT,,,,,0,0
+104172,Dialog,CATAPULT,By how many meters (10 meters = 1 tile)?,몇 미터로 조정합니까(10미터 = 타일 1칸)?,CATAPULT,,,,,0,0
+104173,Dialog,CATAPULT,You are now at your minimum range of 3 meters.,이제 최소 사정거리인 3미터입니다.,CATAPULT,cat_min_range_a,,,,0,0
+104174,Dialog,CATAPULT,You are now at your maximum range of 70 meters.,이제 최대 사정거리인 70미터입니다.,CATAPULT,cat_max_range_a,,,,0,0
+104175,Dialog,CATAPULT,In which direction?,어느 방향으로?,CATAPULT,,,,,0,0
+104176,Dialog,CATAPULT,By how many degrees?,몇 도로?,CATAPULT,,,,,0,0
+104177,Dialog,CATAPULT,By how many degrees?,몇 도로?,CATAPULT,,,,,0,0
+104178,Dialog,CATAPULT,This catapult is currently reloading. It will be usable again shortly.,이 투석기는 현재 재장전 중입니다. 곧 다시 사용할 수 있습니다.,CATAPULT,cat_owner_debug,,,,0,0
+108649,Dialog,CATAPULT,The rugged contraption settles into its new position.,투박한 장치가 새 위치에 자리를 잡습니다.,CATAPULT,hx_cata_start_f,,,,0,0
+46960,Creature,Charlotte,Charlotte,샬롯,BRETSWIFE3Q21,,,,,0,0
+46962,Creature,CREATURE001,CREATURE001,CREATURE001,CREATURE001,,,,,0,0
+46963,Creature,Commander Damas,Commander Damas,다마스 사령관,DAMAS3Q21,,,,,0,0
+48364,Creature,Captain Aethelred,The Luskans came on us so fast. We didn't stand a chance. I never even had time to order a retreat.,러스칸 놈들이 너무 빨리 들이닥쳤다. 우린 상대가 안 됐어. 퇴각 명령을 내릴 시간조차 없었지.,M4Q01B02CAPT,,,,,0,0
+48365,Creature,Captain Aethelred,It's only a matter of time until they find us here. They'll probably kill me last... that's what they do. They make the captain watch all his men die first.,놈들이 우릴 여기서 찾는 건 시간문제다. 아마 난 맨 마지막에 죽일 거야... 놈들은 늘 그러거든. 대장이 부하들이 하나둘 죽는 걸 먼저 보게 만듭니다.,M4Q01B02CAPT,,,,,0,0
+48366,Creature,Captain Aethelred,"Come here to die with the rest of us, have you? You're welcome to stay and await the gruesome end, if you want.",여기 와서 우리랑 같이 죽을 참이냐? 원하면 남아서 끔찍한 최후를 기다려도 상관없다.,M4Q01B02CAPT,,,,,0,0
+48368,Creature,Captain Aethelred,"We're just a company of Neverwinter soldiers, a few survivors. Though I fear we won't be alive much longer.","우린 네버윈터 병사들 한 중대, 살아남은 몇 명일 뿐이다. 오래 살 것 같진 않지만.",M4Q01B02CAPT,,,,,0,0
+48369,Creature,Captain Aethelred,"Back out into the street? That's suicide. The Luskans will kill us all anyway, mind you, so what does it matter?","밖으로 나가자고? 그건 자살행위야. 어차피 러스칸 놈들이 우릴 전부 죽일 거니까, 뭐가 다르겠어?",M4Q01B02CAPT,,,,,0,0
+48370,Creature,Captain Aethelred,I'm just a realist. My troops are bloody and beaten and the streets are crawling with Luskan soldiers. We're outmanned ten to one at least.,"난 그냥 현실을 말하는 거다. 내 병사들은 피투성이에 얻어터졌고, 거리는 러스칸 병사들로 들끓는다. 병력도 최소 십 대 일이야.",M4Q01B02CAPT,,,,,0,0
+48371,Creature,Captain Aethelred,"Even if we could make it back to the City Core alive, what's the point? Any help we expect to get from the Lords' Alliance will never get here in time. The whole city is doomed.",설령 살아서 도시 중심부까지 돌아간다 해도 무슨 의미가 있지? 영주 연합이 보낼 지원군은 제때 오지 못할 거다. 도시 전체가 끝장났어.,M4Q01B02CAPT,,,,,0,0
+48372,Creature,Captain Aethelred,"There's no way we can win this war. What, do you plan to lead a handful of soldiers against an army?","이 전쟁에서 우리가 이길 방법은 없어. 뭐, 군대 상대로 병사 몇을 데리고 돌격이라도 하겠다는 거야?",M4Q01B02CAPT,,,,,0,0
+48377,Creature,Captain Aethelred,"I know you. You're the hero who saved us from the Wailing Death. Ha! Lot of good that did. Death by plague or death by war... doesn't make much difference, does it?",당신을 알아보겠군. 울부짖는 죽음 역병에서 우릴 구한 영웅이지. 하! 별 소용이 있었나? 역병으로 죽나 전쟁으로 죽나... 무슨 차이가 있어?,M4Q01B02CAPT,,,,,0,0
+61278,Creature,Captain Aethelred,Captain Aethelred,에셀레드 대위,M4Q01B02CAPT,,,,,0,0
+48866,Creature,Cletus,Huh? What? Oh - you startled me. I was rather engrossed in these manuscripts Master Ford has me looking over. Fascinating reading. ,응? 뭐지? 아-깜짝 놀랐군요. 포드 박사님이 검토하라 주신 원고에 푹 빠져 있었거든요. 정말 흥미롭습니다.,M4Q01C03ASST,,,,,0,0
+48867,Creature,Cletus,"Finally, I can return to these manuscripts. They're far more interesting than you, I must say.","이제야 다시 문서로 돌아갈 수 있겠네요. 솔직히 말해, 당신보다 훨씬 흥미롭습니다.",M4Q01C03ASST,,,,,0,0
+48868,Creature,Cletus,"These documents date from the time of the Creator Race, if you can believe that! Hopefully they'll give us some insight into the Source Stone we unearthed. ","이 문서들은 창조종족 시대의 것이라더군요, 믿기지 않겠지만! 우리가 발굴한 근원석을 이해하는 데 단서를 줄 겁니다.",M4Q01C03ASST,,,,,0,0
+48869,Creature,Cletus,"Yes, well - you'll have to speak to Master Ford about that. Now, is there something else or can I get back to my parchments and tomes?","그건 그렇고-그 일은 포드 박사님께 여쭙죠. 자, 다른 볼일이 없으면 저는 제 양피지와 서적들로 돌아가도 되겠습니까?",M4Q01C03ASST,,,,,0,0
+48870,Creature,Cletus,"(sigh) Master Ford always harps upon the value of sharing our knowledge with others, so I suppose I should answer your questions.",(한숨) 포드 박사님은 늘 지식을 나누라고 하시죠. 그러니 질문에 답해야겠군요.,M4Q01C03ASST,,,,,0,0
+48871,Creature,Cletus,"Goodness - you are a thick one, aren't you?","세상에-상당히 둔하시군요, 그렇지요?",M4Q01C03ASST,,,,,0,0
+48872,Creature,Cletus,"I am Cletus, if you must know. Master Ford's most promising student. He even told me so himself.","굳이 알아야겠다면, 나는 클리터스. 포드 박사님의 가장 유망한 제자죠. 본인께서도 그렇게 말씀하셨습니다.",M4Q01C03ASST,,,,,0,0
+48873,Creature,Cletus,Master Ford is only the most famous archeologist in all of Neverwinter! He's spent the better part of fifty years unearthing items of great historical significance!,포드 박사님은 네버윈터 최고의 고고학자입니다! 무려 지난 오십 년을 쏟아 역사적으로 중대한 유물을 발굴해 오셨죠!,M4Q01C03ASST,,,,,0,0
+48874,Creature,Cletus,"But he's never unearthed anything like this before. I'm honored he chose me to help him uncover the secrets of the Source Stone! That's him, over there by the door.","하지만 이런 건 처음이었습니다. 근원석의 비밀을 푸는 일을 돕도록 저를 택해 주시다니 영광이죠! 저기, 문 옆에 계신 분이 박사님입니다.",M4Q01C03ASST,,,,,0,0
+48875,Creature,Cletus,The stone contains immense power and radiates a widespread but gentle warmth throughout the whole city. That's the reason it's never winter in Neverwinter.,"그 돌은 엄청난 힘을 품고, 도시 전체에 은은한 온기를 퍼뜨립니다. 네버윈터에 정말 겨울이 오지 않는 이유가 그것이죠.",M4Q01C03ASST,,,,,0,0
+48876,Creature,Cletus,Other than this we *know* very little. But Master Ford has several interesting theories. You should speak to him about them.,그밖에는 아는 것이 거의 없습니다. 다만 포드 박사님께 흥미로운 가설이 여럿 있으니 직접 여쭤보세요.,M4Q01C03ASST,,,,,0,0
+48877,Creature,Cletus,I shouldn't expect someone like you has ever heard of him. He's an academic. Do you know what that word means? A-ca-dem-ic?,당신 같은 분이 그분을 들어 봤으리라 기대하진 않습니다. 학자거든요. 그게 무슨 뜻인진 아시나요? 학.자.,M4Q01C03ASST,,,,,0,0
+48878,Creature,Cletus,"They're with the Source Stone, of course. Master Ford feels their power is the key to unlocking the secrets within. Perhaps you should speak to him about this. ",당연히 근원석과 함께 있죠. 박사님은 그 힘이 비밀을 여는 열쇠라고 보십니다. 이건 그분께 물어보시죠.,M4Q01C03ASST,,,,,0,0
+49093,Creature,Cletus,Cletus,클레투스,M4Q01C03ASST,,,,,0,0
+50902,Dialog,CTARGET,*Thunk*,*쿵*,M1Q0CTARGET,,,,,0,0
+50981,Creature,Combat Dummy,Combat Dummy,훈련용 허수아비,M1Q0BDUMMY,,,,,0,0
+57177,Dialog,CBOAT,You look like you belong down here. It will be nice to have a new best friend. The sewers get lonely. Aqueducts! I meant Aqueducts!,여긴 당신이 있을 법한 곳같이 보이는군요. 새 절친이 생기면 좋죠. 하수도는 외롭거든요. 아니 수로! 수로 말이야!,M1Q4CBOAT,,,,,0,0
+57178,Dialog,CBOAT,There are more people in the sewers than there is sewage these days. Er... not that these are the sewers. No sir! Aqueducts! Pure and clean!,요즘은 하수도에 물보다 사람이 더 많다니까. 에... 여기가 하수도라는 뜻은 아니고요. 아닙니다! 수로예요! 맑고 깨끗하죠!,M1Q4CBOAT,,,,,0,0
+57179,Dialog,CBOAT,"Well, hello your Majesty! I sure as shucks don't see personry of your distinction down here much. Come to inspect the sewers... Aqueducts! I meant Aqueducts!","오, 나리를 이렇게 뵙다니! 이런 고귀하신 분을 여기서 볼 일은 많지 않죠. 하수도 점검 오셨습니까... 아니 수로! 수로 말입니다!",M1Q4CBOAT,,,,,0,0
+57180,Dialog,CBOAT,Please pardon my confusion. I'm still getting the hang of this new beautification program the city council put in place. The finer points of it seem to be giving things pretty names. ,혼란을 드려 죄송합니다. 시의회가 새 미관 개선 사업을 시작해서 아직 적응 중이라서요. 요점은 뭐든 그럴싸한 이름을 붙이라는 겁니다.,M1Q4CBOAT,m1_tlkinc,,,,0,0
+57181,Dialog,CBOAT,"You know: sewers become aqueducts, waste becomes surplus resource, and my cushy job at the castle becomes tour-guide to the FREAKIN' SEWERS! BUT I'M NOT BITTER!","그러니까 말이죠: 하수도는 수로가 되고, 쓰레기는 잉여 자원이 되고, 성에서 편하게 일하던 저는 빌어먹을 하수도-아니, 수로-안내원으로 바뀌고! 근데 저, 하나도 안 억울합니다!",M1Q4CBOAT,,,,,0,0
+57182,Dialog,CBOAT,"You sure you won't stick around? I found some hors d'oeuvres. I think they're little wieners. Uh... okay, bye then.","정말 안 머무실 거예요? 전채요리 같은 것도 좀 찾았는데. 소시지 같더라고요. 어... 알겠어요, 잘 가요.",M1Q4CBOAT,,,,,0,0
+57183,Dialog,CBOAT,"Well, I can't leave my post here. An emergency might arise and my special expertise might be needed. IT COULD HAPPEN!",여길 떠날 수는 없어요. 비상사태가 생기면 제 특별한 전문 지식이 필요할지도 모르거든요. 그럴 수도 있어요!,M1Q4CBOAT,,,,,0,0
+57184,Dialog,CBOAT,"I can send you down on your own. It ain't dangerous. Leastwise, I don't think so. Just say the word and you're good to go.","내가 아래로 보내 줄 수 있어요. 위험하진 않아요. 뭐, 아마 그럴 테죠. 한마디만 하면 바로 출발입니다.",M1Q4CBOAT,,,,,0,0
+57185,Dialog,CBOAT,"Yes <sir/madam>, merrily merrily! Here you go.","예, 나리, 즐겁게! 자, 여기요.",M1Q4CBOAT,,,,,0,0
+57186,Dialog,CBOAT,"Well, they join up with the older sewers a ways down. There used to be some old storerooms back in there, but they ain't been used by the city for years and years.","저 아래로 내려가면 옛 하수도와 이어집니다. 예전엔 창고 몇 칸이 있었는데, 수년간 도시에서 사용하지 않았죠.",M1Q4CBOAT,,,,,0,0
+57187,Dialog,CBOAT,"As the districts expanded, access to those old areas got built over. Not a lot of people know the layout of those old tunnels. I hear voices down there on occasion, though.",지구가 확장되면서 그 오래된 지구들로 들어가는 길이 메워졌습니다. 그 오래된 땅굴의 구조를 아는 사람은 많지 않아요. 가끔 아래에서 목소리가 들리긴 합니다만.,M1Q4CBOAT,,,,,0,0
+57188,Dialog,CBOAT,"Well now, actually there were a couple groups that I saw heading downstream. I thought it was a bit odd, but they didn't bother me.","글쎄요, 사실은 하류로 내려가는 무리 둘을 봤어요. 좀 이상하긴 했지만, 절 건드리진 않았습니다.",M1Q4CBOAT,,,,,0,0
+57189,Dialog,CBOAT,"The first was just one man on his own. Older gent, and dressed in quite the finery. He looked like he knew where he was going.",첫 번째는 혼자였죠. 연배 지긋한 신사에 차림도 꽤 근사했어요. 어디로 가는지 아는 눈치였고요.,M1Q4CBOAT,,,,,0,0
+57190,Dialog,CBOAT,"After him was a rough lot, and they looked like they had blood on their minds. Seemed a bit unsure where they were going, though.","그 뒤로는 거친 패거리였는데, 눈에 핏발을 세웠더군요. 다만 어디로 가는지는 좀 헤매는 듯했어요.",M1Q4CBOAT,,,,,0,0
+57191,Dialog,CBOAT,You're back again? Some people just can't get enough of the sewers. Aqueducts! I meant Aqueducts! Nothing sewer-ish about it! No <sir/madam>!,"또 왔어요? 어떤 사람들은 하수도를 정말 좋아하더라니까요. 수로! 수로라고 했죠! 하수도 같은 건 전혀 아닙니다! 아니죠, 나리!",M1Q4CBOAT,,,,,0,0
+57192,Dialog,CBOAT,"Boat's all ready, by and by. Shining and new. Ready for anything... (sigh) Ohhh, I've wasted my life.","보트 준비 끝! 번쩍번쩍 새것처럼요. 뭐든 준비 완료... (한숨) 아아, 내 인생을 다 허비했네.",M1Q4CBOAT,,,,,0,0
+57193,Dialog,CBOAT,I guess things will be getting back to normal. Just me and the sewers. Aqueducts! I meant to say Aqueducts! Pure and clean! Yes indeed!,"이제 곧 예전처럼 돌아가겠죠. 나하고 하수도만-아니, 수로만 남겠지요. 수로! 수로라고요! 맑고 깨끗한! 그렇고말고요!",M1Q4CBOAT,,,,,0,0
+57397,Creature,Charon,Charon,카론,M1Q4CCHARON,,,,,0,0
+57867,Dialog,CMAGE,Where are the damn creatures!,빌어먹을 그 생명체들은 어디 있지!,M1Q0CMAGE,,,,,0,0
+57868,Dialog,CMAGE,Don't let any of them live!,놈들 한 놈도 살려두지 마라!,M1Q0CMAGE,,,,,0,0
+57869,Dialog,CMAGE,"Kill Aribeth, she's the most dangerous!","아리베스 경을 죽여라, 그녀가 가장 위험하다!",M1Q0CMAGE,,,,,0,0
+57870,Dialog,CMAGE,We must find the Waterdhavian creatures!,워터딥의 생명체를 반드시 찾아야 한다!,M1Q0CMAGE,,,,,0,0
+57919,Creature,Crag Cat,Crag Cat,바위 고양이,M1S4EBEAST,,,,,0,0
+60097,Dialog,CHAMBER,"This chamber has been formed of marble and complex crystals within its core, containing two depressions along its edge. It practically crackles with dormant magical energy.",이 장치는 중심부가 대리석과 복잡한 결정으로 형성되어 있으며 가장자리를 따라 두 개의 오목한 홈이 있습니다. 잠든 마법 에너지가 파직거리는 듯합니다.,2Q6E_CHAMBER,,,,,0,0
+60098,Dialog,CHAMBER,You turn away from the strange structure.,당신은 이 기묘한 구조물에서 몸을 돌립니다.,2Q6E_CHAMBER,,,,,0,0
+60099,Dialog,CHAMBER,"You attempt to strike the chamber, but your blow slides harmlessly off an invisible barrier next to its surface.","장치를 내려치려 했지만, 겉면 바로 옆의 보이지 않는 장벽에 막혀 아무런 상처도 내지 못합니다.",2Q6E_CHAMBER,,,,,0,0
+60100,Dialog,CHAMBER,"The second rod slides into place beside the first, stopping with a faint click. Both rods begin to shine brilliantly, the chamber leaping to life...","두 번째 봉이 첫 번째 봉 옆으로 미끄러져 들어가 '딸깍' 하는 소리와 함께 멈춥니다. 두 봉이 눈부시게 빛나며, 장치가 생기를 되찾습니다...",2Q6E_CHAMBER,2q6e_creategolem,,,,0,0
+60101,Dialog,CHAMBER,"The rod slides easily into place, stopping with a faint click. It begins to glow slightly and the chamber hums... though it does nothing as of yet.",봉 하나가 부드럽게 제자리에 들어가 '딸깍' 하고 멈춥니다. 희미하게 빛을 내기 시작하고 장치에서 윙- 하는 소리가 납니다... 아직은 아무 일도 일어나지 않습니다.,2Q6E_CHAMBER,,,,,0,0
+60102,Dialog,CHAMBER,"The second rod slides into place beside the first, stopping with a faint click. Both rods begin to shine brilliantly, the chamber leaping to life...","두 번째 봉이 첫 번째 봉 옆으로 미끄러져 들어가 '딸깍' 하는 소리와 함께 멈춥니다. 두 봉이 눈부시게 빛나며, 장치가 생기를 되찾습니다...",2Q6E_CHAMBER,2q6e_creategolem,,,,0,0
+60103,Dialog,CHAMBER,"The rod slides easily into place, stopping with a faint click. It begins to glow slightly and the chamber hums... though it does nothing as of yet.",봉 하나가 부드럽게 제자리에 들어가 '딸깍' 하고 멈춥니다. 희미하게 빛을 내기 시작하고 장치에서 윙- 하는 소리가 납니다... 아직은 아무 일도 일어나지 않습니다.,2Q6E_CHAMBER,,,,,0,0
+60104,Dialog,CHAMBER,"One of the depressions has been filled with a small rod. The chamber hums with activity, appearing to await something else.","오목한 홈 중 하나에 작은 봉을 넣었습니다. 장치가 작동음을 내며, 다른 무엇인가를 기다리는 듯합니다.",2Q6E_CHAMBER,,,,,0,0
+60105,Dialog,CHAMBER,"The two depressions are long and slender, very likely receptacles awaiting something to be placed within them.","두 개의 홈은 길고 가늘며, 무언가를 끼워 넣기를 기다리는 수용부로 보입니다.",2Q6E_CHAMBER,,,,,0,0
+60106,Dialog,CHAMBER,"This chamber is smoking every so slightly. Both rods in its depressions are blackened, burnt-out husks. Whatever magic fueled this chamber appears to have spent itself.",장치에서 아주 약하게 연기가 피어오릅니다. 홈에 꽂혔던 두 봉은 그을려 타버린 껍데기뿐입니다. 이 장치를 구동하던 마법은 이미 소진된 듯합니다.,2Q6E_CHAMBER,,,,,0,0
+60232,Creature,Cutlass Guard,Cutlass Guard,커틀러스 경비병,2Q4_INNGAURD,,,,,0,0
+60925,Creature,Commoner Dylan,Dylan,딜런,M3Q1A11_COMMON,,,,,0,0
+60926,Creature,Commoner Alekos,Alekos,알레코스,M3Q1A11_COMMONB,,,,,0,0
+61308,Creature,Chani Waynolt,Waynolt,웨이놀트,M4_MOON_COMMONF2,,,,,0,0
+61309,Creature,Chani Waynolt,Chani,차니,M4_MOON_COMMONF2,,,,,0,0
+63027,Dialog,CBOSSBOY,Uhhnnn! Gulnan make us strong! Strong to kill!,우읏! 굴난이 우리를 강하게 한다! 죽일수 있도록 강하게!,M1Q5CBOSSBOY,,,,,0,0
+63038,Dialog,CLOSEDFEM,The Mask is closed. I lost my only job. How am I going to survive?,월장석 가면 여관이 문을 닫았어. 내 유일한 일자리도 잃었지. 이젠 어떻게 살아가?,M1S2_CLOSEDFEM,,,,,0,0
+63039,Dialog,CLOSEDMALE,I can't believe the Moonstone Mask is closed.,월장석 가면 여관이 문을 닫다니 믿을 수가 없군.,M1S2_CLOSEDMALE,,,,,0,0
+63134,Creature,Cendran,Cendran,센드란,M1Q3ICENDRAN,,,,,0,0
+64600,Dialog,CHILDREN,Wanna race?,달리기 시합할래?,M2Q1CHILDREN,,,,,0,0
+64601,Dialog,CHILDREN,You're funny!,너 웃기다!,M2Q1CHILDREN,,,,,0,0
+64602,Dialog,CHILDREN,Want to play plague? I'll die this time.,역병 놀이할래? 이번엔 내가 죽을게.,M2Q1CHILDREN,,,,,0,0
+64603,Dialog,CHILDREN,Go away!,저리 가!,M2Q1CHILDREN,,,,,0,0
+64604,Dialog,CHILDREN,I'm not allowed outside of town.,마을 밖엔 못 나가.,M2Q1CHILDREN,,,,,0,0
+64605,Dialog,CHILDREN,My brother says there are criminals and werewolves about.,형이 도둑이랑 늑대인간이 돌아다닌대.,M2Q1CHILDREN,,,,,0,0
+64606,Dialog,CHILDREN,You want to play werewolf?,늑대인간 놀이할래?,M2Q1CHILDREN,,,,,0,0
+64607,Dialog,CHILDREN,Hee hee!,히히!,M2Q1CHILDREN,,,,,0,0
+64608,Dialog,CHILDREN,That was fun!,재미있었다!,M2Q1CHILDREN,,,,,0,0
+64609,Dialog,CHILDREN,I'm beat. Let's play again tomorrow.,피곤해. 내일 또 놀자.,M2Q1CHILDREN,,,,,0,0
+64610,Dialog,CHILDREN,The werewolf's gonna come getcha!,늑대인간이 너 잡으러 온다!,M2Q1CHILDREN,,,,,0,0
+64611,Dialog,CHILDREN,I'm hungry.,배고파.,M2Q1CHILDREN,,,,,0,0
+64612,Dialog,CHILDREN,I'm bored.,심심해.,M2Q1CHILDREN,,,,,0,0
+64613,Dialog,CHILDREN,I'm Karathis the Werewolf! Rooaar!,난 늑대인간 카라디스다! 으르렁!,M2Q1CHILDREN,,,,,0,0
+64756,Dialog,CROSSROADS,West: Port Llast. East: South Farms and Charwood. North: Neverwinter Wood.,서쪽: 라스트 항구. 동쪽: 남쪽 농장과 그을린숲. 북쪽: 네버윈터 숲,M2Q3A_CROSSROADS,,,,,0,0
+65638,Dialog,CULTPATROL1,Kill every single one of Aarin's lackeys. Kill them all!,아린의 꼬봉들을 한 놈도 남김없이 죽여라. 전부 다!,M3_CULTPATROL1,,,,,0,0
+65639,Dialog,CULTPATROL1,Over there! Kill them and search their packs for the Words of Power!,저기다! 놈들을 죽이고 짐을 뒤져 권능의 언령을 찾아라!,M3_CULTPATROL1,,,,,0,0
+65640,Dialog,CULTPATROL1,None shall stop the Return! Death to the infidels!,그 누구도 귀환을 막을 수 없다! 이교도들에게 죽음을!,M3_CULTPATROL1,,,,,0,0
+65641,Dialog,CULTPATROL1,Death to all who oppose the Old Ones!,태고의 존재들에 맞서는 자는 모조리 죽여라!,M3_CULTPATROL1,,,,,0,0
+65642,Dialog,CULTPATROL1,More of Gend's puppies! 100 gold for each head ye bring me!,겐드의 강아지들이 또 있군! 머리 하나 가져오면 금화 100개다!,M3_CULTPATROL1,,,,,0,0
+65738,Creature,Cultist Archer,Cultist Archer,사교도 궁수,M3_CULTARCHER,,,,,0,0
+65739,Creature,Cult Leader,Cult Leader,사교 지도자,M3_CULTLEAD|M3_CULTLEAD2|M3_CULTLEAD3,,,,,0,0
+68416,Dialog,CLERIC1,Rise Morag's fallen! Kill your slayer in Her name!,"모라그의 쓰러진 자들이여, 일어나라! 그녀의 이름으로 너희를 쓰러뜨린 자를 죽여라!",M4Q1D07_CLERIC1,m4q1da_attonend,,,,0,0
+68417,Dialog,CLERIC1,"Die, slave! How dare you invade Morag's Inner Sanctum!","죽어라, 노예놈! 감히 모라그의 지성소를 침범하다니!",M4Q1D07_CLERIC1,m4q1da_attonend,,,,0,0
+68430,Creature,Corrupted Copper Dragon,Corrupted Copper Dragon,오염된 황동룡,M4SOURCEDRAG1,,,,,0,0
+68431,Creature,Corrupted Silver Dragon,Corrupted Silver Dragon,오염된 은 용,M4SOURCEDRAG2,,,,,0,0
+69299,Dialog,CHEST,There are several magical wards on this chest which you cannot seem to penetrate.,"이 상자에는 여러 겹의 마법 봉인이 걸려 있어, 당신의 힘으로는 뚫을 수 없을 듯합니다.",Q1A2CHEST,,,,,0,0
+91636,Dialog,CHEST,"You open the chest that currently houses your possessions, some of them powerful objects in their own right gained after years of adventuring since leaving your home of Hilltop long ago.","오래전 고향 힐탑을 떠난 뒤 수년간의 모험 끝에 손에 넣은 강력한 물건들까지, 당신의 소지품을 보관해 둔 상자를 엽니다.",PRE_CHEST,,,,,0,0
+91637,Dialog,CHEST,"The most powerful of all your possessions, however, is the only one you can never store. The Relic of the Reaper, an artifact that bonded itself to you during a time you spent in the Plane of Shadows, remains in your hand as always.","하지만 당신의 소지품 가운데 가장 강력한 것은, 결코 보관할 수 없는 유일한 물건입니다. 그림자 차원에서 머무는 동안 당신과 결속된 유물, '사신의 유물'은 언제나처럼 당신의 손에 남아 있습니다.",PRE_CHEST,,,,,0,0
+91638,Dialog,CHEST,You know little of the stone beyond its power to transport you through the planes... an ability that allowed you to escape the Plane of Shadow originally and since has allowed you to cheat death on more than one occasion.,"그 돌에 대해 아는 것은 차원을 넘어 이동시킨다는 힘뿐입니다... 처음엔 그 힘으로 그림자 차원에서 빠져나왔고, 그 뒤로도 여러 차례 죽음을 피해 올 수 있었지요.",PRE_CHEST,,,,,0,0
+91639,Dialog,CHEST,"You rub the stone absently, feeling the familiar pulsing of its magic beneath your touch, before considering what other equipment you need for the moment.",당신은 무심코 돌을 문지르며 손끝 아래에서 익숙한 마법의 맥동을 느낍니다. 그리고 지금 필요한 다른 장비가 무엇인지 곰곰이 생각합니다.,PRE_CHEST,act_q2achest_1,,,,0,0
+72639,Dialog,CTRACKS,"The dust on the ground has been disturbed heavily by tracks... humanoid, without a doubt.",바닥의 먼지가 발자국에 크게 흐트러져 있습니다... 의심할 여지 없이 인간형의 흔적입니다.,Q3CTRACKS,,,,,0,0
+72640,Dialog,CTRACKS,"There are several humanoid tracks scuffed into the disturbed dust, here. This area has been heavily searched, and quite recently, it appears.","흐트러진 먼지 위에 여러 인간형의 발자국이 스쳐 지나가 있습니다. 이 지역은 상당히 샅샅이, 그리고 꽤 최근에 수색된 듯합니다.",Q3CTRACKS,,,,,0,0
+72641,Dialog,CTRACKS,"There are several humanoid tracks scuffed into the disturbed dust, here. This area has been heavily searched, and quite recently, it appears.","흐트러진 먼지 위에 여러 인간형의 발자국이 스쳐 지나가 있습니다. 이 지역은 상당히 샅샅이, 그리고 꽤 최근에 수색된 듯합니다.",Q3CTRACKS,,,,,0,0
+74974,Creature,Chief Gishnak,Chief Gishnak,족장 기쉬낙,Q3_CHIEF_GISHNAK,,,,,0,0
+74995,Creature,Chief Arzig,Chief Arzig,족장 아르지그,Q5_KOBOLD_CHIEFTAIN,,,,,0,0
+79101,Dialog,CATCHINGTHEWIND,Fresh ink still glistens on the ancient vellum.,갓 적은 잉크가 오래된 양피지 위에서 아직 반짝입니다.,CATCHINGTHEWIND,,,,,0,0
+79539,Dialog,CH2_FEEDBACK,This door seems to be controlled by some hidden mechanism.  You will have to find its controls before it will open.,이 문은 어딘가 숨겨진 장치로 제어되는 듯합니다. 열려면 먼저 조작 장치를 찾아야 합니다.,X1_CH2_FEEDBACK,,,,,0,0
+79540,Dialog,CH2_FEEDBACK,"Despite all your efforts, this doorway remains sealed behind some unknown sort of magical barrier.",아무리 애써도 이 문은 알 수 없는 형태의 마법 장벽에 막혀 여전히 봉인된 상태입니다.,X1_CH2_FEEDBACK,,,,,0,0
+79541,Dialog,CH2_FEEDBACK,A force field bars your way. Perhaps you need to possess some type of object or key before it will work. ,앞길을 힘장이 가로막습니다. 작동시키려면 어떤 물건이나 열쇠가 필요할지도 모릅니다.,X1_CH2_FEEDBACK,,,,,0,0
+80328,Dialog,CON_TRACKS1,It appears that some creatures have passed through this area recently. The nature and number of these intruders is unclear.,최근 이 지역을 무언가가 지나간 듯합니다. 침입자들의 정체와 수는 분명하지 않습니다.,CON_TRACKS1,,,,,0,0
+80329,Dialog,CON_TRACKS1,A small group of humans has passed through this area very recently. The tracks are faint and it is difficult to determine where they lead.,아주 최근에 소수의 인간 무리가 이곳을 지나간 듯합니다. 자취가 희미해 어디로 이어지는지 알아내기 어렵습니다.,CON_TRACKS1,,,,,0,0
+80330,Dialog,CON_TRACKS1,"A group of five to ten humans has recently passed through this area. It appears that they did not go through the bridge to the west, but went on the north where their tracks disappear.","최근 다섯에서 열 명가량의 인간 무리가 이 일대를 지나갔습니다. 서쪽의 다리를 건너지 않고 북쪽으로 향한 듯하며, 그곳에서 흔적이 사라집니다.",CON_TRACKS1,,,,,0,0
+80331,Dialog,CON_TRACKS2,The stinger tracks are abundant in this area.,이 구역에는 스팅어의 흔적이 다수 보입니다.,CON_TRACKS2,,,,,0,0
+80332,Dialog,CON_TRACKS2,There are several scuff marks amongst the stinger tracks here. ,이곳 스팅어 자취 사이사이에 여러 긁힌 흔적이 섞여 있습니다.,CON_TRACKS2,,,,,0,0
+80333,Dialog,CON_TRACKS2,The tracks in this direction are very scuffed and possibly indicate that the stingers were dragging a burden. This is likely the way Zidan was carried off.,"이 방향의 흔적은 심하게 끌린 자국을 남기고 있어, 스팅어들이 무언가 짐을 질질 끌고 간 것으로 보입니다. 지단이 끌려간 길일 가능성이 큽니다.",CON_TRACKS2,,,,,0,0
+80334,Dialog,CON_TRACKS3,"There are ghostly footprints in the dust, but they disappear quickly.",먼지 위에 희미한 발자국이 보이지만 곧 사라집니다.,CON_TRACKS3,,,,,0,0
+80335,Dialog,CON_TRACKS3,Ghostly footprints in the dust seem to indicate the passage of several humanoid creatures through this area.,먼지 위의 희미한 발자국은 여러 인간형 존재들이 이곳을 지나간 흔적으로 보입니다.,CON_TRACKS3,,,,,0,0
+80336,Dialog,CON_TRACKS3,Ghostly footprints in the dust seem to indicate the passage of five humanoid creatures to the north.,먼지 위의 희미한 발자국은 다섯 명의 인간형 존재가 북쪽으로 향한 흔적으로 보입니다.,CON_TRACKS3,,,,,0,0
+80337,Dialog,CON_TRACKS4,Some tracks and spots of blood indicate someone wounded either came from the north or was headed north. ,"발자국과 혈흔 몇 점으로 보아, 부상자가 북쪽에서 왔거나 북쪽으로 향한 듯합니다.",CON_TRACKS4,,,,,0,0
+80338,Dialog,CON_TRACKS4,Some tracks and spots of blood indicate someone wounded came from the north. ,"발자국과 혈흔 몇 점으로 보아, 부상자가 북쪽에서 온 듯합니다.",CON_TRACKS4,,,,,0,0
+80339,Dialog,CON_TRACKS4,"Footprints, handprints and a few drops of blood indicate that someone, probably a humanoid, was wounded and stumbled towards the Ao encampment from the North.","발자국과 손자국, 그리고 약간의 혈흔으로 미루어 보아 누군가(아마 인간형)가 부상을 입고 북쪽에서 에이오 야영지 쪽으로 비틀거리며 이동한 듯합니다.",CON_TRACKS4,,,,,0,0
+84444,Dialog,CUT1,"The Valsharess is tired of sending raiding parties through one at a time, old man. Open the main portal to the Underdark!","발샤레스께서는 한 번에 습격대를 하나씩 보내는 데 지치셨다, 영감탱이. 언더다크로 통하는 주 차원문을 열어라!",Q2D_CUT1,,,,vs_nx2drprf_51,0,0
+84445,Dialog,CUT1,The Valsharess's army is ready to move against Waterdeep! Tell me how to open the main portal!,발샤레스님의 군대가 워터딥을 향해 진군할 준비를 마쳤다! 주 차원문을 여는 법을 말해!,Q2D_CUT1,,,,vs_nx2drprf_52,0,0
+84446,Dialog,CUT1,"No! No more rhymes, you senile old fool! Time to teach you the penalty for defying the drow!","그만! 운율 놀음은 그만둬라, 정신 나간 늙은 바보야! 드로우를 거스른 대가를 가르쳐 줄 시간이다!",Q2D_CUT1,q2d_at_hm1,,,vs_nx2drprf_53,0,0
+84451,Dialog,CUT2,"This is a waste of time, mistress. This human is too mad to reveal any useful information.","시간 낭비입니다, 여주인님. 이 인간은 너무 미쳐서 쓸 만한 정보를 털어놓지 않을 겁니다.",Q2D_CUT2,,,,vs_nx2drmgm_62,0,0
+85679,Dialog,CUT_ARMAND,"""Strip this one and bring it to my chambers. Vix'thra grows impatient with us and we must sacrifice a victim to the pit with no delay.""","""저것의 옷을 벗겨 내 방으로 끌고 와라. 빅스트라께서 우리에게 인내를 잃으셨다. 지체 없이 구덩이에 제물을 바쳐야 한다.""",Q3VIL_CUT_ARMAND,q3a_at_armand3,,,vs_nx2armam_50,0,0
+85680,Dialog,CUT_ARMAND,"""The gong has sounded. A Ceremony has been called for.""","""징이 울렸다. 의식을 거행한다.""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_51,0,0
+85681,Dialog,CUT_ARMAND,"""Vix'thra turns his ancient gaze upon us.""","""빅스트라께서 그 오랜 눈길을 우리에게 돌리신다.""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_52,0,0
+85682,Dialog,CUT_ARMAND,"""Mighty is the will of Vix'thra and great is his hunger.""","""위대하신 빅스트라의 의지는 굳건하며, 그 굶주림은 실로 크도다.""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_53,0,0
+85683,Dialog,CUT_ARMAND,"""Vix'thra, Sage Protector, our Safeguard against all peril...""","""빅스트라여, 현자이자 수호자시여, 모든 위험으로부터 우리를 지키시는 방패여...""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_54,0,0
+85684,Dialog,CUT_ARMAND,"""To thee we offer one of our own!""","""그대께 우리 중 하나를 바칩니다!""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_55,0,0
+85685,Dialog,CUT_ARMAND,"""Are there any here who wish to serve the will of Vix'thra?""","""여기 빅스트라의 뜻을 섬기고자 하는 자가 있느냐?""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_56,0,0
+85686,Dialog,CUT_ARMAND,"""Vix'thra approves of his servant. Priests!""","""빅스트라께서 그 종을 흡족히 여기신다. 사제들아!""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_57,0,0
+85687,Dialog,CUT_ARMAND,"""If none shall volunteer then there must be a Choosing.""","""아무도 자원하지 않겠다면 '선정'을 행하겠다.""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_58,0,0
+85688,Dialog,CUT_ARMAND,"""Vix'thra, show us your will!""","""빅스트라여, 그 뜻을 보여 주소서!""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_59,0,0
+85689,Dialog,CUT_ARMAND,"""Vix'thra has chosen his servant. Seize her!""","""빅스트라께서 그 종을 택하셨다. 그녀를 붙잡아라!""",Q3VIL_CUT_ARMAND,,,,vs_nx2armam_60,0,0
+85693,Dialog,CUT_ARMAND,"""You have made it this far, have you?""","""여기까지 기어왔나 보군.""",Q3C_CUT_ARMAND,,,,vs_nx2armam_64,0,0
+85694,Dialog,CUT_ARMAND,"""You have no idea how foolish you are. You will have no chance against Vix'thra, the sacred one.""","""네 어리석음을 스스로도 모르는구나. 성스러운 존재 빅스트라를 상대로 네게 승산은 없다.""",Q3C_CUT_ARMAND,,,,vs_nx2armam_65,0,0
+85695,Dialog,CUT_ARMAND,"""Soon all the realms will worship him and his priesthood shall rule all the lands! Your soul will be Vix'thra's for all eternity!""","""머지않아 모든 세계가 그를 숭배하고, 그의 사제단이 온 땅을 다스리게 되리라! 너의 영혼은 영원히 빅스트라의 것이 될 것이다!""",Q3C_CUT_ARMAND,q3c_at_armand1,,,vs_nx2armam_66,0,0
+105486,Dialog,CUT_ARMAND,HIGH PRIEST Sodalis (ceremony CUTSCENE).,대사제 소달리스 (의식 컷씬).,Q3VIL_CUT_ARMAND,,,,,0,0
+86240,Dialog,CUT_VAL0A,"It seems your... information... is proving worthwhile after all, dread Mephistopheles.","네... 정보가... 결국 쓸모가 있는 듯하군, 두려운 메피스토펠레스여.",Q7_CUT_VAL0A,,,,vs_nx2matrf_70,0,0
+86241,Dialog,CUT_VAL0A,"The one you warned me of is reported to be within the Underdark now, working alongside the ragtag rebels who yet dare to oppose me.","네가 경고한 자가 지금 언더다크에 들어와, 아직도 감히 나를 거스르는 오합지졸 반역자들과 함께 움직이고 있다고 한다.",Q7_CUT_VAL0A,,,,vs_nx2matrf_71,0,0
+86242,Dialog,CUT_VAL0A,"You shall call me Valsharess! I have summoned and bound you, Mephistopheles, and you will bend to my will as you must!","날 발샤레스라 불러라! 내가 너를 소환해 속박했다, 메피스토펠레스, 그리고 넌 반드시 내 뜻에 굴복하게 될 것이다!",Q7_CUT_VAL0A,q7_at_cut702_1,,,vs_nx2matrf_72,0,0
+86243,Dialog,CUT_VAL0A,I desire to know how this surfacer arrived in the Underdark so quickly. I desire to know exactly where this surfacer is.,그 지상인이 어찌 그리도 빨리 언더다크에 들어왔는지 알고 싶다. 그 지상인이 지금 정확히 어디에 있는지도 알고 싶다.,Q7_CUT_VAL0A,q7_at_cut702_3,,,vs_nx2matrf_73,0,0
+86244,Dialog,CUT_VAL0A,And most of all I desire this surfacer dead!,그리고 무엇보다 그 지상인의 죽음을 원한다!,Q7_CUT_VAL0A,q7_at_cut702_4,,,vs_nx2matrf_74,0,0
+86245,Dialog,CUT_VAL0A,"Beyond *your* power, Mephistopheles? I would like to know how that is!","네 능력을 벗어났다고, 메피스토펠레스? 어째서인지 듣고 싶군!",Q7_CUT_VAL0A,q7_at_cut702_3,,,vs_nx2matrf_75,0,0
+86246,Dialog,CUT_VAL0A,"Continue to search for the surfacer. I *will* find him. And when I do, both he and every last one of those wretched rebels will pay!","그 지상인을 계속 찾아라. 나는 반드시 그를 찾아낼 것이다. 그리고 찾는다면, 그도 그 비열한 반란자 족속까지 모조리 대가를 치르게 하겠다!",Q7_CUT_VAL0A,q7_at_cut702_6,,,vs_nx2matrf_76,0,0
+86247,Dialog,CUT_VAL0A,"Continue to search for the surfacer. I *will* find her. And when I do, both she and every last one of those wretched rebels will pay!","그 지상인을 계속 찾아라. 나는 반드시 그녀를 찾아낼 것이다. 그리고 찾는다면, 그녀도 그 비열한 반란자 족속까지 모조리 대가를 치르게 하겠다!",Q7_CUT_VAL0A,q7_at_cut702_6,,,vs_nx2matrf_77,0,0
+86248,Dialog,CUT_VAL0B,"Our surfacer has grown to be a considerable problem. Why is it that you have not done as I have commanded, Mephistopheles? Why does the surfacer yet live?","그 지상인이 꽤나 큰 문제로 자랐다. 왜 내 명을 따르지 않았느냐, 메피스토펠레스? 왜 아직도 그 지상인이 살아 있지?",Q7_CUT_VAL0B,,,,vs_nx2matrf_78,0,0
+86249,Dialog,CUT_VAL0B,"No, I will not believe it! I will not have it!! I have bound you, foul devil, and you will do as I say!!","아니, 믿지 않겠다! 용납하지 않겠다!! 내가 너를 속박했다, 더러운 마귀야, 그리고 넌 내 말대로 하게 될 것이다!!",Q7_CUT_VAL0B,q7_at_cut703_1,,,vs_nx2matrf_79,0,0
+86250,Dialog,CUT_VAL0B,"So you say. If you are attempting to elude me, Mephistopheles, I will discover it. You are mine to command.","그게 네 말이로군. 나를 피하려 든다면, 메피스토펠레스, 내가 밝혀낼 것이다. 넌 내 명을 받들 존재다.",Q7_CUT_VAL0B,q7_at_cut703_3,,,vs_nx2matrf_80,0,0
+86251,Dialog,CUT_VAL0B,"This surfacer has proven elusive, too difficult to eliminate. Perhaps there is... something to what you say. Perhaps there is more here than meets the eye.","그 지상인은 잡히지 않고, 제거하기도 너무 어렵다. 어쩌면... 네 말에도 일리가 있을지 모르지. 아마 겉보기 이상의 무엇이 있는 게다.",Q7_CUT_VAL0B,q7_at_cut703_4,,,vs_nx2matrf_81,0,0
+86252,Dialog,CUT_VAL0B,You. Male! Send for my commanders. I desire their presence now!,"너, 수컷! 내 지휘관들을 부르라. 지금 당장 그들이 필요하다!",Q7_CUT_VAL0B,q7_at_cut703_5,,,vs_nx2matrf_82,0,0
+86253,Dialog,CUT_VAL0B,"I will gather all my remaining forces, if I must. The rebels must be dealt with, and the surfacer... will hide from me no longer.","필요하다면 남은 병력을 모조리 소집하겠다. 반역자들은 반드시 처리하고, 그 지상인은... 더는 내 눈을 피해 숨지 못할 것이다.",Q7_CUT_VAL0B,q7_at_cut703_6,,,vs_nx2matrf_83,0,0
+86254,Dialog,CUT_VAL1,"It seems our surfacer friend is with the rebel forces still, and has drawn near the fortress. Good. Use your power, dread Mephistopheles... bring the fool to me.","지상인 친구는 여전히 반군과 함께하며 요새 가까이까지 왔군. 좋아. 힘을 써라, 두려운 메피스토펠레스여... 저 바보를 내 앞으로 끌고 오라.",Q7_CUT_VAL1,,,,vs_nx2matrf_84,0,0
+86255,Dialog,CUT_VAL1A,"It appears my new ally is victorious. Excellent! Bring the surfacer to me, Mephistopheles. I would like an audience.","내 새로운 동맹이 승리를 거둔 모양이군. 훌륭해! 그 지상인을 내게 데려오라, 메피스토펠레스. 대면하고 싶다.",Q7_CUT_VAL1A,,,,vs_nx2matrf_85,0,0
+86256,Dialog,CUT_VAL2,"I will end this threat to me now, once and for all. I shall prove you wrong, devil... no one stands in my path!","이제 내게 닥친 위협을 단번에 끝내겠다. 네가 틀렸음을 증명해 주지, 마귀야... 내 앞을 가로막을 자는 없다!",Q7_CUT_VAL2,,,,vs_nx2matrf_86,0,0
+86257,Dialog,CUT_VAL2A,"There is much for us to do yet, but with the surfacer at our side... all becomes possible!","할 일은 아직 많지만, 지상인이 우리 곁에 있다면... 모든 것이 가능해진다!",Q7_CUT_VAL2A,,,,vs_nx2matrf_87,0,0
+86258,Dialog,CUT_VAL3,"""So we meet again, foolish one. This time in the flesh.""","""다시 만났구나, 어리석은 것. 이번엔 직접 몸으로 말이다.""",Q7_CUT_VAL3,,,,vs_nx2matrf_88,0,0
+86639,Dialog,CUT_VAL3,"""You are within my fortress, of course, brought here by the power of the archdevil bound to my service. You are now my guest... and my prisoner.""","""여긴 내 요새다, 당연하지. 내 명에 묶인 대마귀의 힘으로 네가 이곳에 끌려온 거다. 넌 이제 나의 손님... 그리고 죄수다.""",Q7_CUT_VAL3,,,,vs_nx2matrf_103,0,0
+86640,Dialog,CUT_VAL3,"""But I already have. If you do not believe me, then come... approach me if you dare.""","""벌써 그렇게 했다. 믿기지 않는다면 와라... 감히 내게 다가와 보아라.""",Q7_CUT_VAL3,,,,vs_nx2matrf_104,0,0
+86641,Dialog,CUT_VAL3,"""Such bluster! What a pathetic female you make. Like a lowly male you are not even aware of your true situation.""","""허세만 요란하군! 한심한 여자 꼴이야. 하찮은 수컷처럼 네 처지도 모르는군.""",Q7_CUT_VAL3,,,,vs_nx2matrf_105,0,0
+86642,Dialog,CUT_VAL3,"""Such bluster! What a glorious male you are! You should have taken my offer when you had the chance. We would have been magnificent together!""","""허세가 대단하군! 참으로 빛나는 수컷이다! 기회가 있을 때 내 제안을 받아들였어야지. 우리 둘은 함께라면 장관이었을 텐데!""",Q7_CUT_VAL3,,,,vs_nx2matrf_106,0,0
+86643,Dialog,CUT_VAL3,"""By all means, then. Come... kill me if you dare.""","""좋다, 그럼. 와라... 감히 날 죽여 보아라.""",Q7_CUT_VAL3,,,,vs_nx2matrf_107,0,0
+86644,Dialog,CUT_VAL3,"""I am afraid that it is. You are in no position to negotiate, here. If you do not believe me, then come... approach me if you dare.""","""안타깝지만 그렇다. 이곳에서 협상할 처지는 네가 아니다. 믿기지 않는다면 와라... 감히 다가와 보아라.""",Q7_CUT_VAL3,,,,vs_nx2matrf_108,0,0
+86645,Dialog,CUT_VAL3,"""What do I want? Ha-ha ha ha! I want you within my power. I want to make you suffer before Mephistopheles destroys the rebels. I want to see the Seer weep as she is the last to be crushed!""","""내가 뭘 원하냐고? 하하하하! 네가 내 권세 아래 들어오길 원한다. 메피스토펠레스가 반란분자들을 쓸어버리기 전에, 먼저 네게 고통을 안겨 주고 싶다. 마지막으로 짓밟히며 우는 선견자의 꼴도 보고 싶고!""",Q7_CUT_VAL3,,,,vs_nx2matrf_109,0,0
+86646,Dialog,CUT_VAL3,"""And you are indeed within my power, surfacer. If you do not believe me, then come... approach me if you dare.""","""그리고 너는 실제로 내 권세 아래에 있다, 지상인. 믿기지 않는다면 와라... 감히 다가와 보아라.""",Q7_CUT_VAL3,,,,vs_nx2matrf_110,0,0
+86647,Dialog,CUT_VAL3,"""Am I? Perhaps so, though you are certainly in no position to kill me or anyone for that matter. You are now my guest... and my prisoner.""","""내가 그렇다고? 어쩌면 그럴지도. 하지만 넌 누구든, 특히 나를 죽일 처지가 전혀 아니다. 넌 지금 나의 손님... 그리고 죄수다.""",Q7_CUT_VAL3,,,,vs_nx2matrf_111,0,0
+86648,Dialog,CUT_VAL3,"""Oh? I suppose it might seem that way, to you. Before I unleashed Mephistopheles upon those pitiful rebels I wanted to deal with you, first... my guest and my prisoner.""","""오? 네 눈에는 그렇게 보이겠지. 그 보잘것없는 반역자들에게 메피스토펠레스를 풀어놓기 전에, 먼저 너부터 정리하고 싶었을 뿐... 나의 손님이자 죄수여.""",Q7_CUT_VAL3,,,,vs_nx2matrf_112,0,0
+86649,Dialog,CUT_VAL3,"""An alliance? Certainly not. You had your opportunity and you threw it away. No, fool, now you live only at my sufferance: my guest and my prisoner.""","""동맹? 결코 아니다. 기회는 있었고, 네가 스스로 내던졌지. 이제, 멍청아, 너는 내가 묵인하는 한에서만 살아 있다-나의 손님이자 죄수로.""",Q7_CUT_VAL3,,,,vs_nx2matrf_113,0,0
+86259,Dialog,CUT_VAL3A,"Vendui', my ally! I apologize to bring you here without warning, but I could not wait another moment for this meeting. Come, let us celebrate our victory!","'벤두이', 나의 동맹이여! 예고도 없이 널 데려와 미안하지만, 이 만남을 더는 미룰 수가 없었다. 자, 우리의 승리를 축하하자!",Q7_CUT_VAL3A,,,,vs_nx2matrf_89,0,0
+86260,Dialog,CUT_VAL4,"Ha-ha ha ha! Do you see? The archdevil Mephistopheles has caged you with his power... a power that is mine to command, for I have caged him. He is my hound on a leash, and with him I shall become a goddess!","하하하하! 보이느냐? 대마귀 메피스토펠레스가 그의 힘으로 너를 가둬 두었다... 나는 그를 가두었고, 그 힘은 내 명에 따른다. 그는 목줄 매인 내 사냥개다, 그리고 그와 함께라면 나는 여신이 되리라!",Q7_CUT_VAL4,,,,vs_nx2matrf_90,0,0
+86261,Dialog,CUT_VAL4A,"""Welcome to my fortress. It is good to meet finally face to face.""","""내 요새에 온 걸 환영한다. 마침내 얼굴을 맞대고 만나게 되어 기쁘다.""",Q7_CUT_VAL4A,,,,vs_nx2matrf_91,0,0
+86262,Dialog,CUT_VAL4A,"""Allow me to introduce the dread archdevil Mephistopheles to you. Come, Mephistopheles... give my ally a proper greeting, I command it.""","""두려운 대마귀 메피스토펠레스를 소개하지. 오라, 메피스토펠레스... 내 동맹에게 합당한 인사를 하도록, 명한다.""",Q7_CUT_VAL4A,,,,vs_nx2matrf_92,0,0
+86263,Dialog,CUT_VAL4A,"""I have done the impossible, you see. I have bound this fool devil to me as my servant. Like a hound on a leash, all of his hell-spawned power is mine to command. With your power added to his and mine, we are unstoppable!""","""보다시피 나는 불가능을 해냈다. 이 어리석은 마귀를 내 하인으로 속박했다. 목줄 매인 사냥개처럼, 그의 지옥이 낳은 모든 힘이 내 명에 따른다. 네 힘까지 더해진다면, 우릴 막을 자는 없다!""",Q7_CUT_VAL4A,,,,vs_nx2matrf_93,0,0
+86264,Dialog,CUT_VAL4A,"""We have much to discuss about our future, you and I. Follow me, then, and we shall do so in private.""","""너와 나, 우리의 미래에 관해 논할 것이 많다. 따라오라. 사적으로 이야기하자.""",Q7_CUT_VAL4A,,,,vs_nx2matrf_94,0,0
+86650,Dialog,CUT_VAL4A,"""Ha-ha ha! You are wise to be suspicious of me, surfacer. This one time, however, I mean exactly what I say. I am in the mood to celebrate.""","""하하하! 내가 의심스러울 만도 하지, 지상인. 하지만 이번만큼은 말 그대로다. 지금은 축하할 기분이거든.""",Q7_CUT_VAL4A,,,,vs_nx2matrf_114,0,0
+86651,Dialog,CUT_VAL4A,"""Impatient, are we? I see I will have to keep a close eye on you, indeed. This shall be an... interesting alliance.""","""성급하군, 그렇지? 너를 정말 잘 지켜봐야겠어. 이 동맹은... 흥미진진하겠군.""",Q7_CUT_VAL4A,,,,vs_nx2matrf_115,0,0
+86652,Dialog,CUT_VAL4A,"""That is my secret to keep, dear ally. Do you believe I would consider handing over the control of my pet to anyone, even to you? Certainly not!""","""그건 내 비밀로 남겨야지, 소중한 동맹이여. 내 애완물을 다루는 권한을 누구에게, 너에게조차 넘길 거라 생각하나? 결코 아니다!""",Q7_CUT_VAL4A,,,,vs_nx2matrf_116,0,0
+86653,Dialog,CUT_VAL4A,"""Ha-ha ha ha! It would be a... challenge... to try to tame you, surfacer. I think not, however. I have tamed this fool devil, and that is enough for anyone.""","""하하하하! 너를 길들이는 건... 꽤 도전이 되겠지, 지상인. 하지만 그럴 생각은 없다. 이 어리석은 마귀를 길들였으면 누구에게도 충분하니까.""",Q7_CUT_VAL4A,,,,vs_nx2matrf_117,0,0
+86654,Dialog,CUT_VAL4A,"""Now what kind of talk is that from my best ally, hmmm? I see I will have to keep a close eye on you, indeed. If you wish to know what keeps me safe, however, then I will tell you.""","""내 최고의 동맹이 그럴 말이나 하나, 흠? 너를 정말 잘 지켜봐야겠군. 그래도 내가 어떻게 안전을 보장받는지 알고 싶다면, 알려 주지.""",Q7_CUT_VAL4A,,,,vs_nx2matrf_118,0,0
+86655,Dialog,CUT_VAL4A,"""Indeed. We have all the time in the world to discuss such matters, ally. For the moment, I am in the mood to celebrate.""","""그래. 그런 문제는 천천히 실컷 논의할 수 있다, 동맹이여. 지금은 축하할 시간이다.""",Q7_CUT_VAL4A,,,,vs_nx2matrf_119,0,0
+86265,Dialog,CUT_VAL5,"Mephistopheles! I command you to show this fool surfacer what true pain is! Bring the wretched creature a slow and agonizing death... I wish to watch, and enjoy.",메피스토펠레스! 저 어리석은 지상인에게 진정한 고통이 무엇인지 보여 줘라! 더디고 처절한 죽음을 선사하라... 지켜보며 즐기고 싶다.,Q7_CUT_VAL5,,,,vs_nx2matrf_95,0,0
+86266,Dialog,CUT_VAL6,What?! What... what are you doing?! I command you to stop at once!!,뭐?! 뭐... 뭐 하는 짓이냐?! 당장 멈추라고 명한다!!,Q7_CUT_VAL6,,,,vs_nx2matrf_96,0,0
+86267,Dialog,CUT_VAL6A,"""Hold! Why are you two conversing? What are you trying to do, surfacer? Speak! I demand to know at once!!""","""멈춰! 너희 둘이 왜 대화를 나누지? 뭘 하려는 거냐, 지상인? 말해라! 당장 말해라!!""",Q7_CUT_VAL6A,,,,vs_nx2matrf_97,0,0
+86268,Dialog,CUT_VAL6A,"""Do you think me a fool?! You seek to usurp my control, steal my power! Jal khaless zhah waela! All trust is foolish! I shall not make that mistake again!""","""나를 바보로 아느냐?! 내 지배권을 가로채고, 내 힘을 훔치려 드는군! 잘 카레스 즈하 왈라! 모든 신뢰는 어리석다! 다시는 그런 실수를 하지 않겠다!""",Q7_CUT_VAL6A,,,,vs_nx2matrf_98,0,0
+86269,Dialog,CUT_VAL6A,"""Mephistopheles is bound to me, cretin! He cannot betray me... not as you can. Jal khaless zhah waela! All trust is foolish! I shall not make that mistake again!""","""메피스토펠레스는 내게 속박되어 있다, 우둔한 것아! 그는 나를 배신할 수 없다... 너처럼은 말이다. 잘 카레스 즈하 왈라! 모든 신뢰는 어리석다! 다시는 그런 실수를 하지 않겠다!""",Q7_CUT_VAL6A,,,,vs_nx2matrf_99,0,0
+86270,Dialog,CUT_VAL6A,"""And I should have known better than to trust a lowly surfacer. Jal khaless zhah waela! All trust is foolish! I shall not make that mistake again!""","""하찮은 지상인을 믿다니, 내가 어리석었지. 잘 카레스 즈하 왈라! 모든 신뢰는 어리석다! 다시는 그런 실수를 하지 않겠다!""",Q7_CUT_VAL6A,,,,vs_nx2matrf_100,0,0
+86271,Dialog,CUT_VAL6A,"""Mephistopheles! I command you... destroy this surfacer! My Red Sisters, slay this fool now!!""","""메피스토펠레스! 명한다... 저 지상인을 박살내라! 나의 붉은 자매단이여, 그 멍청이를 당장 베어라!!""",Q7_CUT_VAL6A,,,,vs_nx2matrf_101,0,0
+86272,Dialog,CUT_VAL7,"How dare you oppose my will! You are mine to command! I have bound you, you *cannot* disobey!!","감히 내 의지를 거스르다니! 넌 내 명을 받드는 자다! 내가 너를 속박했으니, 감히 거역할 수 없다!!",Q7_CUT_VAL7,,,,vs_nx2matrf_102,0,0
+86273,Dialog,CUT102SEER,The situation is grim.  How long do you believe we have?,상황이 암담하군요. 우리에게 시간이 얼마나 남았다고 보이나요?,CUT102SEER,,,,vs_nx2seerf_50,0,0
+86274,Dialog,CUT102SEER2,"Do you not recognize one of our own? Nathyrra, you have returned.","우리 편을 알아보지 못합니까? 나시라, 돌아왔군요.",CUT102SEER2,,,,vs_nx2seerf_51,0,0
+86275,Dialog,CUT102SEER2,"And you. But I see you have returned with another... someone very important, indeed.",그리고 당신도. 그런데 다른 이와 함께 돌아왔군요... 정말로 중대한 인물입니다.,CUT102SEER2,,,,vs_nx2seerf_52,0,0
+86307,Dialog,CUT_SEER,"The battle goes well, my friend. With your help, we have been victorious thus far. It is not over yet, however.","전황은 순조롭습니다, 친구여. 당신의 도움으로 지금까지 승리를 거두었습니다. 그러나 아직 끝난 것은 아닙니다.",Q7_CUT_SEER,,,,vs_nx2seerf_84,0,0
+86308,Dialog,CUT_SEER,The Valsharess's fortress lies ahead. We must find a way to storm it if we are to end her tyranny once and for all!,앞에 발샤레스의 요새가 있습니다. 그녀의 폭정을 끝내려면 쳐들어갈 방도를 찾아야 합니다!,Q7_CUT_SEER,,,,vs_nx2seerf_85,0,0
+86309,Dialog,CUT_SEER2,"Gone? No, this cannot be!","사라졌다고? 아니, 이럴 수가!",Q7_CUT_SEER2,,,,vs_nx2seerf_86,0,0
+86684,Dialog,CUT_MEPH1,"As you desire, great Valsharess.","분부대로, 위대한 발샤레스여.",Q7_CUT_MEPH1,,,,vs_nx2mephm_50,0,0
+86686,Dialog,CUT_MEPH1B,"""Indeed I was. But there are rules and even older rules that I must obey, all of which supercede the bindings the fool drow placed me under. Not that she knew of this.""","""그래, 그랬지. 하지만 내가 따라야 할 규칙이 있고, 그보다 더 오래된 규칙들도 있다. 그 모든 것은 그 어리석은 드로우가 내게 씌운 속박보다 우선한다. 물론 그녀는 몰랐겠지만.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_52,0,0
+86687,Dialog,CUT_MEPH1B,"""She may have summoned me, but to command me to slay one who is an extension of myself... that was beyond her power. A pity.""","""그녀가 날 소환했을지는 몰라도, 내 분신을 죽이라고 명하는 일까지는... 그녀의 권한 밖이었지. 유감스럽군.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_53,0,0
+86688,Dialog,CUT_MEPH1B,"""That would be *you*, mortal. Ever since you found my relic within the Plane of Shadow, you have been bound to me as it has been bound to you. A most fortuitous event, in my eyes.""","""그게 바로 너다, 필멸자여. 네가 그림자의 차원에서 내 유물을 손에 넣은 순간부터, 그 유물이 네게 묶였듯 너도 내게 묶였다. 나에겐 대단히 다행스러운 일이었지.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_54,0,0
+86689,Dialog,CUT_MEPH1B,"""Is that what you call it? The relic is a piece of my own flesh, meant for the leader of my priesthood on this plane... but obviously it was destined to be found by you, instead.""","""그걸 그렇게 부르나? 그 '유물'은 내 살점 한 조각이다. 원래는 이 차원의 내 사제단의 우두머리를 위한 것이었지... 하지만 분명 그것은 너에게 발견될 운명이었던 모양이다.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_55,0,0
+86690,Dialog,CUT_MEPH1B,"""Through it, I called you here, confident that your power could challenge even that of the Valsharess... and I was correct. I am always pleased when a gamble turns out well.""","""그것을 통해 내가 너를 이곳으로 불러냈다. 네 힘이라면 발샤레스조차 맞설 수 있으리라 확신했거든... 그리고 내 판단은 옳았다. 내 도박이 잘 풀리면 언제나 기쁘지.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_56,0,0
+86691,Dialog,CUT_MEPH1B,"""I am free. A great lord of the devils able to roam amongst the mortals and bring suffering to them as I wish, with not a one who possesses the power to stop me!""","""나는 자유다. 이제 마귀들의 대군주가 되어 필멸자들 사이를 마음껏 거닐며 내 뜻대로 고통을 안겨 주리라! 나를 막을 힘을 가진 자는 단 한 명도 없다!""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_57,0,0
+86692,Dialog,CUT_MEPH1B,"""I would begin with you, dear mortal, but since we are bound so closely that would not be prudent. Instead I will send you someplace you may not interfere. And the relic... that I relieve you of now.""","""처음은 너로 하고 싶었지만, 필멸자여, 우리가 너무나 긴밀히 묶여 있다보니 현명한 일이 아니겠지. 대신 네가 방해할 수 없는 곳으로 보내 주마. 그리고 그 유물은... 지금 네게서 거두어 가겠다.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_58,0,0
+86693,Dialog,CUT_MEPH1B,"""I wish you well in the Hells, mortal. You have proven... most useful.""","""지옥에서 행운을 빌지, 필멸자여. 너는... 실로 요긴했다.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_59,0,0
+86694,Dialog,CUT_MEPH1B,"""Alas, I have other plans.""","""안타깝게도, 다른 계획이 있다.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_60,0,0
+86695,Dialog,CUT_MEPH1B,"""You think to battle me? My dear mortal, no... did you not listen to a thing I said? We are bound, you and I. You could no more slay me than I could you.""","""나와 싸울 셈인가? 착각하지 마라, 필멸자여. 방금 한 말이 귀에 안 들어갔느냐? 너와 나는 서로 묶여 있다. 내가 널 못 죽이듯, 너도 날 죽일 수 없다.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_61,0,0
+86696,Dialog,CUT_MEPH1B,"""Planned to get summoned and bound by a lowly drow? No, of course not. Think of yourself as an unexpected resource I had available to me... and I used you to free myself from this wretched slavery.""","""하찮은 드로우에게 소환되고 속박될 계획이었냐고? 물론 아니다. 너 자신을 내게 굴러든 뜻밖의 자원이라 생각해라... 그리고 나는 너를 이용해 이 비루한 노예 상태에서 벗어났다.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_62,0,0
+107177,Dialog,CUT_MEPH1B,"""And so she is dead. You have done well, mortal.""","""그래서 그녀는 죽었다. 잘했다, 필멸자여.""",Q7_CUT_MEPH1B,,,,vs_nx2mephm_51,0,0
+86697,Dialog,CUT_MEPH2,"I shall *not* do as you desire, great Valsharess. Instead... instead I shall slay your precious Red Sisters.","나는 네 뜻대로 하지는 않겠다, 위대한 발샤레스여. 대신... 네 소중한 붉은 자매단을 베어 넘기겠다.",Q7_CUT_MEPH2,,,,vs_nx2mephm_63,0,0
+86698,Dialog,CUT_MEPH2A,"A moment, mortal. I would speak with you.","잠시, 필멸자여. 너와 대화를 나누고 싶다.",Q7_CUT_MEPH2A,,,,vs_nx2mephm_64,0,0
+86699,Dialog,CUT_MEPH3,"You are a foolish mortal, drow, like any other. You know not the powers you tamper with! Now pay the price!",너도 다른 드로우와 다를 바 없는 어리석은 필멸자다. 네가 건드리는 힘이 무엇인지도 모르지! 이제 대가를 치러라!,Q7_CUT_MEPH3,,,,vs_nx2mephm_65,0,0
+86700,Dialog,CUT_MEPH3A,"""Tell me, mortal... is this the true path you choose to follow?""","""말해 봐라, 필멸자여... 네가 따르기로 택한 길이 진정 이것이냐?""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_66,0,0
+86701,Dialog,CUT_MEPH3A,"""You intend to stand by the Valsharess, do you? You believe a jealous drow will share all that she has with you, another female?""","""발샤레스 편에 서겠다고? 질투심 많은 드로우가 너 같은 또 다른 여자를 상대로 가진 모든 것을 나눠 줄 거라 믿느냐?""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_67,0,0
+86702,Dialog,CUT_MEPH3A,"""You intend to stand by the Valsharess, do you? You believe a jealous drow thinks herself an equal to a lowly surfacer male?""","""발샤레스 편에 서겠다고? 질투심 많은 드로우가 하찮은 지상인 남자를 자신과 동등하게 여길 거라 믿느냐?""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_68,0,0
+86703,Dialog,CUT_MEPH3A,"""You may be useful to her for the moment, mortal, but when the time comes she will betray you. Surely you know this.""","""지금은 네가 그녀에게 쓸모가 있을지 몰라도, 때가 오면 그녀는 너를 배신할 것이다. 그 사실을 모를 리 없지.""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_69,0,0
+86704,Dialog,CUT_MEPH3A,"""Ha ha-ha! I do like your thinking, mortal. A most delightful mind you possess. Surely the rest of what I have to say will not surprise you.""","""하하하! 네 사고방식, 마음에 드는군, 필멸자여. 참으로 흡족한 머리를 가졌구나. 그렇다면 내 다음 말도 놀랍지 않겠지.""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_70,0,0
+86705,Dialog,CUT_MEPH3A,"""Indeed you are not. Look at what this drow has already reached for and tell me she would not still make the attempt, regardless of the risk.""","""과연 바보가 아니지. 저 드로우가 이미 무엇을 탐냈는지 보아라. 위험을 무릅쓰고서라도 그녀가 시도하지 않으리라 말할 수 있겠느냐?""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_71,0,0
+86706,Dialog,CUT_MEPH3A,"""And why not? You have already listened to hers, now listen to mine. Decide for yourself which of us makes the most sense and has the most to gain.""","""왜 안 되겠느냐? 너는 이미 그녀의 말을 들었다. 이제 내 말을 들어라. 우리 중 누가 더 이치에 맞고 더 얻을 것이 많은지 스스로 판단하라.""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_72,0,0
+86707,Dialog,CUT_MEPH3A,"""Why do that? Ask yourself honestly if the drow has given you any reason to believe her at all? Are you truly so gullible?""","""왜 그러겠느냐? 그 드로우가 믿을 만한 근거를 너에게 단 한 번이라도 주었는지 솔직히 자문해 보아라. 네가 정말 그렇게도 쉽게 속는 자냐?""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_73,0,0
+86708,Dialog,CUT_MEPH3A,"""She fears you, mortal. She has seen the future and knows that you could destroy her. Do you think her pride would allow you to exist one moment longer than you needed to?""","""그녀는 너를 두려워한다, 필멸자여. 그녀는 미래를 보았고, 네가 그녀를 파멸시킬 수 있음을 안다. 그녀의 자존심이 네가 필요 이상으로 한 순간이라도 살아 있게 내버려 둘 것 같으냐?""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_74,0,0
+86709,Dialog,CUT_MEPH3A,"""Yours is the destiny to possess true power. You need share nothing with the drow. Take it! Take it for yourself! I would gladly serve one who is truly worthy!""","""참된 힘을 가질 운명은 너의 것이다. 드로우와 나눌 필요 없다. 쟁취하라! 네 자신을 위해 가져라! 나는 진정 가치 있는 자를 기꺼이 섬기겠다!""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_75,0,0
+86710,Dialog,CUT_MEPH3A,"""Ha ha-ha! The difference between what the drow knows and what she thinks she knows is vast, mortal. Do not make the same mistake as she. What do you say to my offer?""","""하하하! 드로우가 아는 것과 안다고 믿는 것 사이엔 심연 같은 차이가 있다, 필멸자여. 그녀와 같은 실수를 되풀이하지 마라. 내 제안을 어찌 하겠느냐?""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_76,0,0
+86711,Dialog,CUT_MEPH3A,"""Then you are a fool, mortal, for what comes next is inevitable.""","""그렇다면 너는 바보구나, 필멸자여. 이제 닥칠 일은 필연이다.""",Q7_CUT_MEPH3A,,,,vs_nx2mephm_77,0,0
+86712,Dialog,CUT_MEPH3A,"""You are... most wise, mortal.""","""너는... 참으로 현명하구나, 필멸자여.""",Q7_CUT_MEPH3A,q7_at_betray01,,,vs_nx2mephm_78,0,0
+91414,Dialog,CON_HOD_DDOOR,This door was not created for you. You cannot use it.,이 문은 당신을 위해 만들어지지 않았습니다. 사용할 수 없습니다.,CON_HOD_DDOOR,act_ddoor_destry,,,,0,0
+91415,Dialog,CON_HOD_DDOOR,This door will lead you to where you last died.  Do you wish to use it?,이 문은 당신이 마지막으로 죽었던 곳으로 이어집니다. 사용하시겠습니까?,CON_HOD_DDOOR,,,,,0,0
+91418,Dialog,CON_HOD_DOOR0,This door will lead you to <CUSTOM4900>.  Do you wish to use it?,이 문은 <CUSTOM4900>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR0,,,,,0,0
+91421,Dialog,CON_HOD_DOOR1,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR1,,,,,0,0
+91422,Dialog,CON_HOD_DOOR1,This door will lead you to <CUSTOM4901>.  Do you wish to use it?,이 문은 <CUSTOM4901>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR1,,,,,0,0
+91425,Dialog,CON_HOD_DOOR2,This door will lead you to <CUSTOM4902>.  Do you wish to use it?,이 문은 <CUSTOM4902>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR2,,,,,0,0
+91426,Dialog,CON_HOD_DOOR2,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR2,,,,,0,0
+91429,Dialog,CON_HOD_DOOR3,This door will lead you to <CUSTOM4903>.  Do you wish to use it?,이 문은 <CUSTOM4903>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR3,,,,,0,0
+91430,Dialog,CON_HOD_DOOR3,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR3,,,,,0,0
+91433,Dialog,CON_HOD_DOOR4,This door will lead you to <CUSTOM4904>.  Do you wish to use it?,이 문은 <CUSTOM4904>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR4,,,,,0,0
+91434,Dialog,CON_HOD_DOOR4,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR4,,,,,0,0
+91437,Dialog,CON_HOD_DOOR5,This door will lead you to <CUSTOM4905>.  Do you wish to use it?,이 문은 <CUSTOM4905>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR5,,,,,0,0
+91438,Dialog,CON_HOD_DOOR5,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR5,,,,,0,0
+91441,Dialog,CON_HOD_LDOOR,This door was not created for you - BEGONE!,이 문은 당신을 위해 만들어지지 않았습니다-물러가라!,CON_HOD_LDOOR,act_ddoor_destry,,,,0,0
+91442,Dialog,CON_HOD_LDOOR,This door will lead you to the PC Hero.  Do you wish to use it?,이 문은 PC 영웅에게로 이어집니다. 사용하시겠습니까?,CON_HOD_LDOOR,,,,,0,0
+91445,Dialog,CUT1GLIM,"""I thought... I thought I was capable of handling anything, even the terrors of Undermountain. But it turns out I'm no match for the drow.""","""나는... 나는 뭐든 해낼 수 있다고 생각했어, 언더마운틴의 공포조차도. 하지만 드로우 앞에선 한참 모자라더군.""",CUT1GLIM,,,,,0,0
+91446,Dialog,CUT1GLIM,"""Maybe a hero of your stature can survive in Halaster's dungeon, <FirstName>. But I've learned my lesson. I'm staying right here in the inn. I'm not going anywhere near Undermountain.""","""아마 너 정도의 영웅이라면 할라스터의 던전에서도 살아남겠지, <FirstName>. 하지만 난 정신을 차렸어. 난 이 여관에 그대로 있을 거야. 언더마운틴 근처엔 가지도 않을 거야.""",CUT1GLIM,,,,,0,0
+91447,Dialog,CUT1LAFONTAINE,Dark days stalk this city. I feel as if someone is walking across my grave.,어둠이 이 도시를 따라다니는군. 마치 누군가가 내 무덤 위를 밟고 지나는 기분이야.,CUT1LAFONTAINE,,,,,0,0
+91448,Dialog,CUT1LAFONTAINE,"I wish I could tell the drow about the love of my goddess, but I fear their evil minds would not accept the faith.","드로우에게 내 여신의 사랑을 전하고 싶지만, 그 사악한 마음으론 신앙을 받아들이지 못할까 두렵다.",CUT1LAFONTAINE,,,,,0,0
+91449,Dialog,CUT1LAFONTAINE,May peace find this city soon. So many lives are wasted in war.,평화가 이 도시에 어서 찾아오길. 전쟁은 참으로 많은 생명을 앗아가니까.,CUT1LAFONTAINE,,,,,0,0
+91450,Dialog,CUT1LAFONTAINE,"So much death in this city, it is a shame I wasn't here to help.","이 도시의 죽음이 이토록 많다니, 내가 돕기 위해 여기 있지 못했다는 게 안타깝다.",CUT1LAFONTAINE,,,,,0,0
+91451,Dialog,CUT1LAFONTAINE,"I don't mind the waiting so much, but I look forward to practicing the healing arts when I have the chance.","기다림 자체는 그리 괴롭지 않지만, 기회가 오면 치유술을 펼쳐 볼 날을 손꼽아 기다린다.",CUT1LAFONTAINE,,,,,0,0
+91452,Dialog,CUT1LAFONTAINE,I long to spread the teachings of my goddess in the Underdark.,언더다크에 내 여신의 가르침을 전파하고 싶다.,CUT1LAFONTAINE,,,,,0,0
+91453,Dialog,CUT1LAFONTAINE,"""I came here to prove myself in Undermountain, but those drow made short work of me. If not for that priestess I would still be nothing but a corpse.""","""나는 내 자신을 언더마운틴에서 증명하러 왔지만, 그 드로우들이 나를 순식간에 쓰러뜨렸지. 그 여사제가 아니었으면 난 아직도 시체였을 거야.""",CUT1LAFONTAINE,,,,,0,0
+91454,Dialog,CUT1LAFONTAINE,"""Maybe... maybe it's time for me to give up my adventuring ways and settle down. At the very least, I won't be using that well of Durnan's to go into Undermountain.""","""어쩌면... 어쩌면 이제 모험을 접고 정착할 때가 된 건가. 최소한, 더난의 우물을 타고 언더마운틴에 들어갈 일은 없을 거야.""",CUT1LAFONTAINE,,,,,0,0
+91455,Dialog,CUT1PAPPILON,Don't bother me.  No one's getting in to the well room till Durnan says its ok.,건드리지 마. 더난이 허락하기 전엔 아무도 우물 방에 못 들어가.,CUT1PAPPILON,,,,,0,0
+91640,Dialog,COMMONER01,"""You're the one that Master Durnan's waiting for, aren't you? Thank heavens! Now everyone can get started!""","""더난이 기다리던 자가 당신이지? 신이시여 감사합니다! 이제야 시작할 수 있겠어!""",PRE_COMMONER01,,,,,0,0
+91641,Dialog,COMMONER01,"""They say that Master Durnan is waiting for some famous adventurer who arrived last night. I wonder who that is.""","""더난이 어젯밤 도착한 유명한 모험가를 기다린다던데, 누굴까?""",PRE_COMMONER01,,,,,0,0
+92717,Dialog,CITIZEN,Don't you know better than to interrupt an angry mob?,성난 군중을 방해하지 않는 게 좋다는 걸 몰라?,Q2A1CITIZEN,,,,,0,0
+92718,Dialog,CLOSEDDOOR,The Empty Keg Tavern is closed because of the troubles in Waterdeep.,바닥난 술통 선술집은 워터딥 사태로 문을 닫았습니다.,Q2A1CLOSEDDOOR,,,,,0,0
+94163,Dialog,CAMAGICLEVER,You sense a discharge of magical energies.,마력의 방출이 감지됩니다.,Q2CAMAGICLEVER,,,,,0,0
+94164,Dialog,CAMAGICLEVER,You sense a discharge of magical energies.,마력의 방출이 감지됩니다.,Q2CAMAGICLEVER,,,,,0,0
+94215,Dialog,CDOORLEVER,You here the sound of a door being unlocked somewhere...,어딘가에서 문이 잠금 해제되는 소리가 들립니다...,Q2CDOORLEVER,,,,,0,0
+94216,Dialog,CDROWCOM,You...you are the one from the prophecy...my mistress must be informed.,너... 너는 예언에 나온 그 자... 여주인께 반드시 알려야 한다.,Q2CDROWCOM,,,,,0,0
+94217,Dialog,CDROWCOM,"How did you get in here? No matter, I shall make short work of you!","여기엔 어떻게 들어왔지? 상관없다, 금방 끝내 주마!",Q2CDROWCOM,,,,,0,0
+94218,Dialog,CRAKAMBIENT1,You should speak to Shareesh. He is our leader here.,샤리쉬와 이야기해 보세요. 여기서 우릴 이끄는 사람이에요.,Q2CRAKAMBIENT1,act_q2crndtlkres,,,,0,0
+94219,Dialog,CRAKAMBIENT1,Shareesh says the portal can lead us to freedom. But without the activation stone we have no way to use it!,샤리쉬 말로는 차원문만 작동시키면 자유롭게 갈 수 있대요. 하지만 활성화석이 없으면 쓸 수가 없어요!,Q2CRAKAMBIENT1,act_q2crndtlkinc,,,,0,0
+94220,Dialog,CRAKAMBIENT1,The Rakshasa you killed were our captors... and our protectors. Now we are defenseless. We must escape this place before the Drow discover us.,당신이 쓰러뜨린 락샤사는 우릴 잡아두던 자들이었고... 동시에 우릴 지켜 주던 자들이기도 했어요. 이젠 우린 무방비예요. 드로우가 눈치채기 전에 여길 떠나야 해요.,Q2CRAKAMBIENT1,act_q2crndtlkinc,,,,0,0
+94221,Dialog,CRAKAMBIENT1,Shareesh says the Drow have invaded Undermountain. He thinks they may have captured Halaster himself!,"샤리쉬는 드로우가 언더마운틴을 침공했고, 어쩌면 할라스터까지 사로잡았을지 모른다고 해요!",Q2CRAKAMBIENT1,act_q2crndtlkinc,,,,0,0
+94222,Dialog,CRAKAMBIENT1,"Halaster's magic kept the peace in Undermountain, but since he disappeared, the creatures here have turned against each other.","할라스터의 마법이 언더마운틴의 균형을 지탱했는데, 그가 사라진 뒤로 여긴 서로를 물어뜯기 시작했어요.",Q2CRAKAMBIENT1,act_q2crndtlkinc,,,,0,0
+94223,Dialog,CRAKAMBIENT2,"I don't agree with a lot of things Shareesh says, but he's the one in charge. Nobody listens to what I have to say.","샤리쉬 말이 다 마음에 드는 건 아니지만, 그래도 책임자는 그 사람이죠. 누가 내 말은 들어 주기나 하나요.",Q2CRAKAMBIENT2,act_q2crndtlkres,,,,0,0
+94224,Dialog,CRAKAMBIENT2,Everyone says the portal will lead us to freedom... but how do we know it isn't a trap?,다들 그 차원문은 자유로 향할 거래요... 하지만 그게 함정이 아니라는 보장이 있나요?,Q2CRAKAMBIENT2,act_q2crndtlkinc,,,,0,0
+94225,Dialog,CRAKAMBIENT2,"When Halaster was running things down here, we knew there was no escape for us. But at least we didn't have to fear for our lives!",할라스터가 다스릴 땐 우린 도망칠 수 없다는 걸 알았죠. 그래도 적어도 목숨은 덜 위태로웠어요!,Q2CRAKAMBIENT2,act_q2crndtlkinc,,,,0,0
+94226,Dialog,CRAKAMBIENT2,"Most of the others are glad Halaster is gone, but I don't know. Is it better to be a slave to a wizard, or captured by the Drow?","대부분은 할라스터가 사라져서 좋다는데, 전 잘 모르겠어요. 마법사의 노예가 나아요, 아니면 드로우한테 잡히는 게 나아요?",Q2CRAKAMBIENT2,act_q2crndtlkinc,,,,0,0
+94227,Dialog,CRAKAMBIENT2,"The creatures in Undermountain used to get along fine, but now that Halaster isn't here to keep them in line...",예전엔 언더마운틴의 괴물들이 그럭저럭 잘 지냈는데... 할라스터가 없으니 다들 제멋대로예요.,Q2CRAKAMBIENT2,act_q2crndtlkinc,,,,0,0
+94228,Dialog,CRAKAMBIENT3,You should speak to Shareesh in the other room. He's our leader.,저방에 있는 샤리쉬와 말해 봐요. 우리 우두머리예요.,Q2CRAKAMBIENT3,act_q2crndtlkres,,,,0,0
+94229,Dialog,CRAKAMBIENT3,Shareesh says the portal in the other room can get us out of here. I hope he's right.,"샤리쉬가 말하길, 저방의 차원문으로 여기서 나갈 수 있대요. 제발 그 말이 맞았으면 좋겠어요.",Q2CRAKAMBIENT3,act_q2crndtlkinc,,,,0,0
+94230,Dialog,CRAKAMBIENT3,"Stay away from that sarcophagus over there. I don't know what's inside, but I don't want to find out.",저기 석관엔 가까이 가지 마요. 안에 뭐가 있는지 모르겠지만 알고 싶지도 않아요.,Q2CRAKAMBIENT3,act_q2crndtlkinc,,,,0,0
+94231,Dialog,CRAKAMBIENT3,"The Drow never used to come through Undermountain. But now that Halaster's gone, I guess there's nothing left to stop them.","예전엔 드로우가 언더마운틴으로 잘 안 왔는데, 할라스터가 없으니 막을 게 없잖아요.",Q2CRAKAMBIENT3,act_q2crndtlkinc,,,,0,0
+94232,Dialog,CRAKAMBIENT3,That cleric of Lathander says she'll stay here and protect us until we escape this place. If we ever escape this place.,라샌더의 성직자 말로는 우리가 탈출할 때까지 여기 남아서 지켜 준대요. ...우리가 정말 떠날 수만 있다면요.,Q2CRAKAMBIENT3,act_q2crndtlkinc,,,,0,0
+94233,Dialog,CRAKAMBIENT4,"You should speak to our leader, Shareesh. He's in the other room.",우리 우두머리는 저방에 있는 샤리쉬예요. 가서 얘기해 보세요.,Q2CRAKAMBIENT4,act_q2crndtlkres,,,,0,0
+94234,Dialog,CRAKAMBIENT4,Shareesh thinks that portal in the other room can take us right to Waterdeep... if we get the activation stone.,샤리쉬는 저방의 차원문으로 워터딥까지 바로 갈 수 있다고 해요... 활성화석만 손에 넣으면요.,Q2CRAKAMBIENT4,act_q2crndtlkinc,,,,0,0
+94235,Dialog,CRAKAMBIENT4,"It's a good thing that cleric, Brit, promised to watch over us. We need all the help we can get.",다행히 성직자 브릿이 우릴 지켜 주겠다고 약속했죠. 우린 지금 뭐든 도움이 필요하니까요.,Q2CRAKAMBIENT4,act_q2crndtlkinc,,,,0,0
+94236,Dialog,CRAKAMBIENT4,"Shareesh always said we'd be free one day. Now that Halaster is gone, I'm starting to believe him.","샤리쉬는 언젠가 우린 자유로워질 거라고 늘 말했어요. 할라스터가 사라진 지금, 그 말이 조금은 믿어지기 시작하네요.",Q2CRAKAMBIENT4,act_q2crndtlkinc,,,,0,0
+94237,Dialog,CRAKAMBIENT4,"Stay away from that sarcophagus, if you know what's good for you. I get a bad feeling just looking at it.",저 석관은 건드리지 마요. 보기만 해도 기분이 안 좋아져요.,Q2CRAKAMBIENT4,act_q2crndtlkinc,,,,0,0
+94296,Dialog,CBRITFAK,"""What... what are you talking about? Did you hit your head on something?""","""뭐... 뭐라는 거야? 머리라도 다친 거야?""",Q2CBRITFAK,,,,,0,0
+94298,Dialog,CBRITFAK,"""Very clever, halfling. But it's too late to save your friend now... and too late to save yourself!""","""아주 영리하군, 하플링. 하지만 네 친구를 구하기엔 이미 늦었고... 너 자신을 구하기에도 늦었지!""",Q2CBRITFAK,,,,,0,0
+94299,Dialog,CRAKPORTAL,This strange looking rock seems to have a slot cut into its smooth surface.  ,이 낯선 모양의 바위는 매끈한 표면에 슬롯이 파여 있는 듯합니다.,Q2CRAKPORTAL,,,,,0,0
+94302,Dialog,CRAKSARCOPH,"The sarcophagus before you is empty, but still reeks of decay.","눈앞의 석관은 비어 있지만, 여전히 부패한 악취가 풍깁니다.",Q2CRAKSARCOPH,,,,,0,0
+94303,Dialog,CRAKSARCOPH,"The sarcophagus before you has been hastily stuffed with the mangled body of Linu, the priestess of Sehanine Moonbow.",눈앞의 석관에는 세하닌 문보우의 여사제 리누의 만신창이가 된 시신이 서둘러 욱여넣어져 있습니다.,Q2CRAKSARCOPH,act_q2rakplot_3,,,,0,0
+94304,Dialog,CRAKSARCOPH,"Before you can do anything with this sarcophagus, Linu calls out a stern warning:","이 석관에 손대려는 순간, 리누가 단호하게 경고합니다:",Q2CRAKSARCOPH,,,,,0,0
+94306,Dialog,CRAKSARCOPH,"Inside you see the mangled body of Linu, the priestess of Sehanine Moonbow. You realize something is very wrong here. ",석관 안에는 세하닌 문보우의 여사제 리누의 만신창이가 된 시신이 보인다. 이곳에서 무언가 크게 잘못되었음을 깨닫습니다.,Q2CRAKSARCOPH,act_q2rakplot_3,,,,0,0
+94343,Dialog,CDJINN,"The djinni bottle at your side begins to shake and rumble. Suddenly, the stopper pops free and a billow of dark smoke rushes forth, materializing into the djinni himself. ","당신 곁의 지니 병이 흔들리며 우르릉거립니다. 갑자기 마개가 '펑' 하고 튀어 오르며 어두운 연기가 치솟아 올라, 지니 본인이 형상을 이룹니다.",Q2CDJINN,,,,,0,0
+94344,Dialog,CDJINN,"""Forgive the intrusion, but I don't think you want to give the activation stone to these... hmm, what are you pretending to be this time, Shareesh?""","""무례를 용서해라. 하지만 그 활성화석을 이 자들에게 줄 생각은 아니겠지... 흠, 이번엔 또 뭘로 가장한 거냐, 샤리쉬?""",Q2CDJINN,,,,,0,0
+94346,Dialog,CDJINN,"""I never liked you very much, Shareesh. I'll go, but first I think this mortal needs to see you in your true form!""","""난 네가 예전부터 못마땅했지, 샤리쉬. 가 주긴 하겠다만, 그 전에 이 필멸자가 네 진짜 모습을 봐야겠군!""",Q2CDJINN,,,,,0,0
+94348,Dialog,CDJINN,"""I'd be more worried about what this mortal is going to do to you, Shareesh. I'll be back inside my bottle if anyone needs me.""","""난 오히려 이 필멸자가 네게 뭘 할지가 더 걱정인데, 샤리쉬. 누가 필요로하기 전까진 병 안으로 돌아가 있도록 하지.""",Q2CDJINN,act_q2crak_3,,,,0,0
+94435,Dialog,CSEALEDPSG,Some kind of obstruction on the other side is blocking this door. It cannot be opened from this side.,반대편의 무언가가 이 문을 막고 있습니다. 이쪽에서는 열 수 없습니다.,Q2CSEALEDPSG,,,,,0,0
+94436,Dialog,CTRACKS_DROW,Humanoid tracks are scattered about the ground in this area.,이 지역 바닥에는 인간형의 발자국이 흩어져 있습니다.,Q2CTRACKS_DROW,,,,,0,0
+94437,Dialog,CTRACKS_DROW,A large group of drow and duergar recently passed through this area.,최근 이곳을 드로우와 듀에르가의 대규모 무리가 지나갔습니다.,Q2CTRACKS_DROW,,,,,0,0
+94438,Dialog,CTRACKS_DROW,Large amounts of drow and duergar tracks are scattered throughout the area.  They look as if they were engaged in battle with a group of goblinoid creatures. ,드로우와 듀에르가의 발자국이 널리 흩어져 있습니다. 고블린계 괴물 무리와 교전한 흔적으로 보입니다.,Q2CTRACKS_DROW,,,,,0,0
+94439,Dialog,CTRACKS_GOBLIN,Humanoid tracks are scattered about the ground in this area.,이 지역 바닥에는 인간형 생명체의 발자국이 흩어져 있습니다.,Q2CTRACKS_GOBLIN,,,,,0,0
+94440,Dialog,CTRACKS_GOBLIN,A large group of small humanoids has recently passed through.,소형 인간형 개체들의 대규모 무리가 최근 이곳을 지나갔습니다.,Q2CTRACKS_GOBLIN,,,,,0,0
+94441,Dialog,CTRACKS_GOBLIN,A large group of goblin tracks are scattered throughout the area.  ,고블린 발자국이 이 일대에 대거 흩어져 있습니다.,Q2CTRACKS_GOBLIN,,,,,0,0
+94442,Dialog,CTRACKS_HOB,Humanoid tracks are scattered about the ground in this area.,이 지역 바닥에는 인간형 생명체의 발자국이 흩어져 있습니다.,Q2CTRACKS_HOB,,,,,0,0
+94443,Dialog,CTRACKS_HOB,A large group of goblinoid creatures were driven away by an even larger group of humanoids.  Blood and the remains of battle can be seen littering the floor surrounding these tracks.,고블린형 생명체들의 커다란 무리가 더 큰 규모의 인간형 무리에 의해 밀려난 듯합니다. 발자국 주변 바닥엔 피와 전투의 잔해가 어지럽게 흩어져 있습니다.,Q2CTRACKS_HOB,,,,,0,0
+94444,Dialog,CTRACKS_HOB,A large group of hobgoblin tracks are scattered throughout the area.  Some of them seem to have been wounded and trying to flee from some other creatures - It looks as if they were attacked by a large group of Drow and Duergar.  ,홉고블린의 발자국이 이 일대에 대거 흩어져 있습니다. 일부는 부상을 당한 채 다른 존재에게서 달아난 흔적입니다-드로우와 듀에르가의 대규모 집단에게 기습당한 것으로 보입니다.,Q2CTRACKS_HOB,,,,,0,0
+94445,Dialog,CTRACKS_LINU,Humanoid tracks are scattered about the ground in this area.,이 지역 바닥에는 인간형의 발자국이 흩어져 있습니다.,Q2CTRACKS_LINU,,,,,0,0
+94446,Dialog,CTRACKS_LINU,A humanoid and a large group of creatures recently fought in this area.,이곳에서는 최근 인간형 생명체 한 명과 다수의 괴물이 전투를 벌인 흔적이 보입니다.,Q2CTRACKS_LINU,,,,,0,0
+94447,Dialog,CTRACKS_LINU,These human prints look like they came from Linu.  She seems to have been involved in a violent struggle with numerous large humanoids - with paws?,이 인간의 발자국은 리누의 것으로 보입니다. 그녀는 발톱이 달린 거대한 인간형 다수와 격렬한 몸싸움을 벌였던 듯합니다.,Q2CTRACKS_LINU,,,,,0,0
+94448,Dialog,CTRACKS_RAK1,Humanoid tracks are scattered about the ground in this area.,이 지역 바닥에는 인간형 생명체의 발자국이 흩어져 있습니다.,Q2CTRACKS_RAK1,,,,,0,0
+94449,Dialog,CTRACKS_RAK1,A large humanoid has passed by here recently,최근 거대한 인간형 하나가 이곳을 지나갔습니다.,Q2CTRACKS_RAK1,,,,,0,0
+94450,Dialog,CTRACKS_RAK1,These paw prints look like Rakshasa tracks.  But what would they be doing here?,이 발자국은 락샤사의 흔적으로 보입니다. 하지만 그들이 여기서 무엇을 하고 있는 걸까요?,Q2CTRACKS_RAK1,,,,,0,0
+94451,Dialog,CTRACKS_RAK2,Humanoid tracks are scattered about the ground in this area.,이 지역 바닥에는 인간형 생명체의 발자국이 흩어져 있습니다.,Q2CTRACKS_RAK2,,,,,0,0
+94452,Dialog,CTRACKS_RAK2,A group of barefooted humans has passed over this area recently.,맨발의 인간들 무리가 최근 이곳을 지나갔습니다.,Q2CTRACKS_RAK2,,,,,0,0
+94453,Dialog,CTRACKS_RAK2,These human prints look like they were left by barefooted individuals.  But something seems slightly off about them.  You can't quite put your finger on it.,이 인간 발자국들은 맨발로 남긴 흔적처럼 보입니다. 하지만 어딘가 미묘하게 이상합니다. 정확히 무엇인지는 짚기 어렵습니다.,Q2CTRACKS_RAK2,,,,,0,0
+94577,Dialog,CON_JOINCON,You have been requested to join the Hero PC in the Realm of the Reaper.  Do you wish to go?,사신의 영역에서 주인공(PC)과 합류하라는 요청을 받았습니다. 가시겠습니까?,Q2E_CON_JOINCON,,,,,0,0
+94849,Creature,Cyphus Ordinae,Cyphus,사이퍼스,CYPHUS,,,,,0,0
+94850,Creature,Cyphus Ordinae,Ordinae,오르디네,CYPHUS,,,,,0,0
+94969,Creature,Crazed Orc,Crazed Orc,미친 오크,X2_Q2ORC2,,,,,0,0
+95569,Dialog,CON_HOD_HOMEDOOR,"This door will lead you home to Waterdeep, in the world of Toril. Do you wish to use it?",이 문은 토릴 세계의 워터딥에 있는 당신의 집으로 이어집니다. 사용하시겠습니까?,CON_HOD_HOMEDOOR,,,,,0,0
+98925,Dialog,CATA_CONV,"Though this catapult bears its fair share of scorch marks and battle scars, it still appears functional. If only it was over by the Knower of Names' icy prison where it could be put to better use...","이 투석기는 군데군데 그을음과 전투의 상흔을 지녔지만, 여전히 작동 가능한 것으로 보입니다. 이름의 현자의 얼음 감옥 근처에만 있었다면 더 요긴하게 쓸 수 있을 텐데요...",HX_CATA_CONV,,,,,0,0
+110452,Dialog,CATA_CONV,"The battle still rages on the far bank. If you have plans for this catapult, they will have to wait.",강 건너편에서는 아직도 전투가 벌어지고 있습니다. 이 투석기를 쓸 계획이 있다면 잠시 기다려야 합니다.,HX_CATA_CONV,,,,,0,0
+98928,Dialog,CORPSE_FLAV,"Frost clings to the disemboweled corpse. The man's eyes never closed in death and you can trace his stare to the empty prison of one of the Rebel Generals. With the Blood War on his doorstep, you doubt he would have made it far.","서리가 창자가 드러난 시신에 들러붙어 있습니다. 남자는 죽어서도 눈을 감지 못했고, 그 시선은 반군 장군 중 하나의 빈 감옥을 향하고 있습니다. 문앞까지 밀려든 피의 전쟁 속에서라면, 그도 멀리 가긴 틀렸을 겁니다.",HX_CORPSE_FLAV,,,,,0,0
+98929,Dialog,CRYSTAL1_CONV,"An ice crystal protrudes from the glacial floor, dark figures swirling in their depths.","빙하 바닥에 얼음 수정이 솟아나 있으며, 그 깊은 곳에서 어두운 형상들이 소용돌이칩니다.",HX_CRYSTAL1_CONV,,,,,0,0
+98930,Dialog,CRYSTAL1_CONV,"The crystal has grown dim and dark, its bond with Mephistopheles now severed.","수정은 희미하고 어둡게 변했으며, 이제 메피스토펠레스와의 연결이 끊어졌습니다.",HX_CRYSTAL1_CONV,,,,,0,0
+104213,Dialog,CUT108SEER2,What's going on here? What happened?,무슨 일이야? 무슨 일이 있었지?,CUT108SEER2,,,,,0,0
+104624,Creature,Captain Tebimar,"""I'm not sure Matron Mother.  Allow me to find out for you."" The captain turns to you.","""잘 모르겠습니다, 대모님. 제가 알아보겠습니다."" 대장이 당신을 향해 몸을 돌립니다.",Q2AMAECAPT,,,,,0,0
+104625,Creature,Captain Tebimar,"""Who are you?  How did a <race> <male/female> like you get past the guards outside?""","""넌 누구지? 바깥 경비를 어떻게 뚫고 들어왔지, <race> <male/female> 주제에?""",Q2AMAECAPT,,,,,0,0
+104626,Creature,Captain Tebimar,"""Zesyyr has been exiled. She can plot all she wants, but she can't get at the Matron Mother here inside the tower.""","""제시르는 추방됐다. 음모를 꾸미든 말든 상관없지만, 이 탑 안의 대모님께는 손댈 수 없어.""",Q2AMAECAPT,,,,,0,0
+104627,Creature,Captain Tebimar,"Tebimar gives the Matron a worried glance. ""It appears your daughter is more ambitious than you thought. Maybe it has become too dangerous to let her live.""","테비마르는 대모를 걱정스런 눈길로 봅니다. ""따님이 생각보다 더 야심찬 모양입니다. 어쩌면 이제는 살려 두기엔 너무 위험해졌는지도 모르겠습니다.""",Q2AMAECAPT,,,,,0,0
+104629,Creature,Captain Tebimar,"Tebimar nods. ""Yes, it all makes sense now. The guards outside must be working with Zesyyr.""","테비마르는 고개를 끄덕입니다. ""네, 이제 모든 게 들어맞습니다. 바깥 경비들이 제시르와 한패였던 게 틀림없습니다.""",Q2AMAECAPT,,,,,0,0
+104639,Creature,Captain Tebimar,"Tebimar grits his teeth, but hands over his weapon. ""Of course, Matron.""","테비마르는 이를 악물다가도 무기를 건넵니다. ""물론입니다, 대모님.""",Q2AMAECAPT,q2a_tebimarsword,,,,0,0
+104644,Creature,Captain Tebimar,"Tebimar frowns. ""<FullName>, the Seer's great savior. I've heard of you. But what business do you have here in the House Maeviir tower? How did you get past the guards?""","테비마르는 얼굴을 찌푸립니다. ""<FullName>, 선견자의 위대한 구원자. 당신 얘기는 들었다. 하지만 무슨 일로 마에비르 가문 탑에 왔지? 경비는 또 어떻게 뚫었고?""",Q2AMAECAPT,,,,,0,0
+107842,Creature,Captain Tebimar,Captain Tebimar,테비마르 대장,Q2AMAECAPT,,,,,0,0
+105318,Dialog,COFFIN,You peer inside the coffin but find only dust.,관 안을 들여다보지만 먼지만 있을 뿐입니다.,Q3C_COFFIN,,,,,0,0
+105319,Dialog,COFFIN,"A pale-skinned corpse lies within the coffin, lacerated with bloodless wounds. As you watch, you are horrified to see the wounds quickly closing themselves, leaving not even a scar behind.","관 속에는 창백한 시신이 누워 있으며, 피 한 방울 없는 상처들로 갈가리 찢겨 있습니다. 지켜보는 사이 그 상처들이 순식간에 아물어 흔적조차 남기지 않는 광경에 소스라치게 놀랍니다.",Q3C_COFFIN,,,,,0,0
+105320,Dialog,COFFIN,You manage to cause some damage to the corpse but the wound continues to close quickly. You will have to find another way to destroy the creature inside.,시신에 약간의 손상을 입히는 데 성공하지만 상처는 여전히 빠르게 아뭅니다. 안의 존재를 파괴하려면 다른 방법을 찾아야 합니다.,Q3C_COFFIN,,,,,0,0
+105325,Dialog,COFFIN,You find a rusty key beneath the body.,시신 아래에서 녹슨 열쇠를 발견합니다.,Q3C_COFFIN,q3c_at_coffin2,,,,0,0
+106010,Dialog,CUTSCENE1,"Ferron's rebellion will fail. Bow down to Aghaaz now, or be destroyed!","페론의 반란은 실패할 것이다. 지금 당장 아가즈에게 굴복해라, 아니면 멸망하리라!",Q4C_CUTSCENE1,,,,vs_nx2golbm_59,0,0
+106011,Dialog,CUTSCENE1,Aghaaz was appointed by the Maker. He must rule until the Maker returns.,아가즈는 제작자께서 임명하셨다. 제작자가 돌아올 때까지 그가 다스려야 한다.,Q4C_CUTSCENE1,,,,vs_nx2golbm_60,0,0
+106250,Dialog,CONDUIT,"This spell conduit appears to be nothing more than a simple pillar, etched with strange markings. Obviously, it has not been activated yet.",이 주문 관문은 기묘한 문양이 새겨진 단순한 기둥처럼 보입니다. 분명 아직 활성화되지 않았습니다.,Q4D_CONDUIT,,,,,0,0
+106251,Dialog,CONDUIT,"Placing all the necessary elements onto the main table of the golem construction machine will likely trigger the conduit, making it receptive to your spells.",골렘 제작 장치의 주 작업대에 필요한 요소를 모두 올려두면 관문이 반응하여 당신의 주문을 수용할 준비가 될 것입니다.,Q4D_CONDUIT,,,,,0,0
+106252,Dialog,CONDUIT,"This spell conduit is now active. It pulses with magical energy, ready to store a spell that will be transferred to the soon to be created golem.","이 주문 관문이 활성화되었습니다. 마력이 맥동하며, 곧 만들어질 골렘에 전송할 주문을 저장할 준비가 되어 있습니다.",Q4D_CONDUIT,,,,,0,0
+106253,Dialog,CONDUIT,You choose to leave the conduit alone for now. The golem machine will not become fully active until all four conduits have spells stored in them.,당신은 일단 관문을 건드리지 않기로 합니다. 네 개 관문 모두에 주문이 저장되기 전까지 골렘 장치는 완전히 가동되지 않습니다.,Q4D_CONDUIT,,,,,0,0
+106254,Dialog,CONDUIT,Which spell do you want to cast?,어느 주문을 시전하시겠습니까?,Q4D_CONDUIT,,,,,0,0
+106255,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit10,,,,0,0
+106256,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit9,,,,0,0
+106257,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit8,,,,0,0
+106258,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit7,,,,0,0
+106259,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit6,,,,0,0
+106260,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit5,,,,0,0
+106261,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit4,,,,0,0
+106262,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit3,,,,0,0
+106263,Dialog,CONDUIT,"The conduit absorbs your spell, storing it so that it can be transferred into the golem.","관문이 당신의 주문을 흡수하여, 골렘으로 전송할 수 있도록 저장합니다.",Q4D_CONDUIT,q4d_at_conduit2,,,,0,0
+106264,Dialog,CONDUIT,"Though active, this spell conduit already contains the stored magical energy from an enchantment.","이 주문 관문은 활성화되어 있지만, 이미 한 차례 부여된 마력이 저장되어 있습니다.",Q4D_CONDUIT,,,,,0,0
+106265,Dialog,CONDUIT,"Once all four conduits are filled, the stored spell will be transferred into the creature within the golem creation machine.","네 개 관문이 모두 채워지면, 저장된 주문이 골렘 제작 장치 안의 존재에게 전송됩니다.",Q4D_CONDUIT,,,,,0,0
+107795,Creature,Cult Monk,Cult Monk,사교 수도사,Q3_CULTMONK,,,,,0,0
+107797,Creature,Cult Knight,Cult Knight,샤교 기사,Q3_CULTKNIGHT,,,,,0,0
+107850,Creature,Commander Imloth,Commander Imloth,임로스 사령관,Q2AREBIMLOTH,,,,,0,0
+107862,Creature,Charming Young Man,Charming Young Man,매력적인 청년,Q2D8MAN,,,,,0,0
+107864,Creature,Charming Young Woman,Charming Young Woman,매력적인 젊은 여성,Q2D8WOMAN,,,,,0,0
+107883,Creature,Cordigan the Rock Gnome,Cordigan the Rock Gnome,바위노움 코디건,HX_FEND_GNOME|Q3_CORDIGAN,,,,,0,0
+107887,Creature,Cult Elder Monk,Cult Elder Monk,사교 장로 수도사,Q3_CULTELDERMONK,,,,,0,0
+109803,Creature,Crimson,Crimson ,크림슨,CRIMSON,,,,,0,0

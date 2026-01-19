@@ -1,0 +1,30 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+38592,Dialog,GAM,Yes? Something I can do for you?,"네? 도와드릴 일이라도?",M2Q5L01GAM,m2q5cstalkgam1,,,,0,0
+38593,Dialog,GAM,Fair enough.,"알았소.",M2Q5L01GAM,,,,,0,0
+38594,Dialog,GAM,"Maybe. The name's Gam and I'm here for the competition, and that should be enough for anyone.","글쎄요. 내 이름은 갬이고 대회 참가하러 왔소. 누구든 그 정도면 충분하지 않소?",M2Q5L01GAM,,,,,0,0
+38595,Dialog,GAM,"My name's Gam, and I'm here for the competition. That should be enough for just about anyone.","내 이름은 갬이고 대회 참가하러 왔소. 누구든 그 정도면 충분하지 않겠소.",M2Q5L01GAM,,,,,0,0
+38596,Dialog,GAM,"It's not something I'm free to discuss. As I understand it, it isn't quite legal in these parts.","자유롭게 말할 수 있는 게 아니오. 알기로 이쪽에선 합법이 아니라서.",M2Q5L01GAM,,,,,0,0
+38597,Dialog,GAM,"That's your choice. Me, I intend to take that reward. Anyone with that much money to place as a wager deserves to lose it.","그건 당신 선택이오. 난 상금을 탈 생각이오. 그 정도 돈을 판돈으로 걸 수 있는 사람은 잃어도 싸지.",M2Q5L01GAM,,,,,0,0
+38598,Dialog,GAM,"Is that so? I guess you and I will be running into each other below, then. Good luck to you.","그렇소? 그럼 아래서 마주치겠군. 행운을 비오.",M2Q5L01GAM,,,,,0,0
+38599,Dialog,GAM,I'm not interested in your money. Try your coin elsewhere and you'll likely find freer lips than mine.,"당신 돈엔 관심 없소. 다른 데 가서 써보시오. 나보다 입 가벼운 사람을 찾을 수 있을 거요.",M2Q5L01GAM,,,,,0,0
+38600,Dialog,GAM,"<StartCheck>[Success]</Start> Hmmm. Well, it does look like something that you'd do, anyway. I suppose there's no harm in it.","<StartCheck>[성공]</Start> 흠. 뭐, 당신이 할 법한 일 같긴 하오. 말해도 해될 건 없겠지.",M2Q5L01GAM,m2q5pccontest10,,,,0,0
+38601,Dialog,GAM,"<StartCheck>[Failure]</Start> You won't hear about it from me, friend, as I said. Try someone else.","<StartCheck>[실패]</Start> 내게서 들을 수 없소, 친구. 말했듯이. 다른 사람에게 물어보시오.",M2Q5L01GAM,,,,,0,0
+38602,Dialog,GAM,"No? I find that surprising. Doesn't truly matter to me, though.","아니라고? 놀랍군. 뭐, 나한테는 상관없지만.",M2Q5L01GAM,,,,,0,0
+38603,Dialog,GAM,"Mutamin, the owner of this place, is a retired adventurer himself. Quite wealthy, or so I hear.","이곳 주인 무타민은 은퇴한 모험가라오. 꽤 부자라고 들었소.",M2Q5L01GAM,,,,,0,0
+38604,Dialog,GAM,Wealthy enough that he's set up a contest. There's a dungeon below this place full of traps and monsters... first one through wins the prize.,"부자라서 대회를 열었소. 이 아래에 함정과 괴물 가득한 던전이 있는데... 먼저 통과하는 사람이 상금을 받소.",M2Q5L01GAM,,,,,0,0
+38605,Dialog,GAM,"But don't ask me about it. Talk to Mutamin, if you're interested.","하지만 나한테 묻지 마시오. 관심 있으면 무타민에게 말하시오.",M2Q5L01GAM,,,,,0,0
+38606,Dialog,GAM,"Just minding my own business, friend.","그냥 내 일이나 하는 거요, 친구.",M2Q5L01GAM,,,,,0,0
+38607,Dialog,GAM,May the best man win.,"최고가 이기길.",M2Q5L01GAM,,,,,0,0
+38608,Dialog,GAM,"If... if you could spare some healing, friend, I will tell you what I know of the danger ahead. It... very nearly killed me.","만약... 치료를 좀 해줄 수 있다면, 친구, 앞에 있는 위험에 대해 알려주겠소. 거의... 죽을 뻔했소.",M2Q5L01GAM,,,,,0,0
+65126,Dialog,GAM,"I... am most grateful for your aid, my friend. I was almost certain that I was about to die here in this dungeon.","도움... 정말 감사하오, 친구. 이 던전에서 죽을 줄 알았소.",M2Q5L01GAM,,,,,0,0
+65127,Dialog,GAM,"I was ambushed by invisible creatures in the next room. They are quite powerful. I thought I was skilled enough to battle them anyway, but I was wrong.","다음 방에서 투명한 생명체들한테 습격당했소. 상당히 강력하더군. 싸울 수 있을 줄 알았는데, 틀렸소.",M2Q5L01GAM,,,,,0,0
+65128,Dialog,GAM,"During the battle, one of them came too close to that pillar of light and it... it exploded. I was too injured to take advantage of that knowledge... but you are not.","전투 중에 그중 하나가 저 빛 기둥에 너무 가까이 갔는데... 폭발했소. 난 너무 다쳐서 써먹지 못했지만... 당신은 가능하오.",M2Q5L01GAM,,,,,0,0
+65129,Dialog,GAM,"Now I intend to find my way out of here. Thank you again, friend. I wish you luck.","이제 여기서 나가는 길을 찾을 생각이오. 다시 한번 감사하오, 친구. 행운을 비오.",M2Q5L01GAM,,,,,0,0
+65130,Dialog,GAM,"Please... do not leave me here to die, friend! I beg you!","제발... 날 여기서 죽게 두지 마시오, 친구! 부탁이오!",M2Q5L01GAM,,,,,0,0
+65131,Dialog,GAM,You are a cruel <man/woman>. Pray you do not meet the same fate as I.,"당신은 잔인한 <man/woman>이오. 나와 같은 운명을 맞지 않길 비시오.",M2Q5L01GAM,,,,,0,0
+65132,Dialog,GAM,No! I will not let it end like this!,"안 돼! 이렇게 끝나게 두지 않겠소!",M2Q5L01GAM,nw_d1_attonend02,,,,0,0
+65133,Dialog,GAM,"P-please hurry. I... do not wish to die in this place, friend.","제... 제발 서둘러주시오. 이곳에서... 죽고 싶지 않소, 친구.",M2Q5L01GAM,,,,,0,0
+65134,Dialog,GAM,I care nothing for this contest any longer. I just want to get out of here alive. Mutamin can keep his blasted coin.,"더는 대회 따윈 관심 없소. 그냥 살아서 나가고 싶소. 무타민은 그 빌어먹을 돈이나 가지라지.",M2Q5L01GAM,,,,,0,0
+65135,Dialog,GAM,"I will gladly tell you of the creature... and how I believe it can be defeated. If I am healed. Please... I will not last, otherwise.","기꺼이 그 생명체에 대해 말해주겠소... 어떻게 물리치는지도. 치료해주신다면. 제발... 그러지 않으면 버티지 못하겠소.",M2Q5L01GAM,,,,,0,0
+65136,Dialog,GAM,Help me.,"도와주시오.",M2Q5L01GAM,,,,,0,0
+65137,Dialog,GAM,Thank you.,"고맙소.",M2Q5L01GAM,,,,,0,0

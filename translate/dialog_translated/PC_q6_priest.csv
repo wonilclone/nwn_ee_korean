@@ -1,0 +1,37 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+106859,PC,Player Character,"""Whatever you did to me, you better undo right now!""","나한테 뭘 했는지 모르겠지만, 당장 원래대로 돌려놔!",q6_priest,,,,,0,0
+106860,PC,Player Character,"""Who are you? What are you talking about?""","넌 누구야? 무슨 말을 하는 거지?",q6_priest,,,,,0,0
+106861,PC,Player Character,"""Maybe I'll just kill you, instead.""","차라리 널 죽여버릴까.",q6_priest,,,,,0,0
+106862,PC,Player Character,"""I'd rather just kill you!"" <StartAction>Attack the priest</Start>","그냥 널 죽이는 게 낫겠어! <StartAction>사제를 공격한다</Start>",q6_priest,q6e_at_cleric1,,,,0,0
+106863,PC,Player Character,"""Tell me about this challenge.""","이 시련에 대해 말해 봐.",q6_priest,,,,,0,0
+106864,PC,Player Character,"""Forget it. I'm not taking part in any challenge!""","됐어. 난 어떤 시련에도 참가 안 해!",q6_priest,,,,,0,0
+106865,PC,Player Character,"""How do I prove myself worthy?""","어떻게 자격을 증명하지?",q6_priest,,,,,0,0
+106866,PC,Player Character,"""And if I win the challenge you'll heal me?""","그리고 내가 시련에서 이기면 날 치료해 줄 거야?",q6_priest,,,,,0,0
+106867,PC,Player Character,"""This is just a sadistic game to you, isn't it?""","이건 그냥 가학적인 게임이지, 그렇지?",q6_priest,,,,,0,0
+106868,PC,Player Character,"""I'm not going to fight for your amusement!""","네 재미를 위해 싸우진 않을 거야!",q6_priest,,,,,0,0
+106869,PC,Player Character,"""I accept your challenge.""","네 시련을 받아들이지.",q6_priest,,,,,0,0
+106870,PC,Player Character,"""Don't worry about me. You just remember to live up to your end of the bargain.""","난 걱정 마. 네 쪽 약속만 잘 지켜.",q6_priest,,,,,0,0
+106871,PC,Player Character,"""If I find out you've betrayed me...""","네가 날 배신한 게 밝혀지면...",q6_priest,,,,,0,0
+106872,PC,Player Character,"""I'll go as far as I need to. Start the next stage!""","필요한 만큼 갈 거야. 다음 단계를 시작해!",q6_priest,,,,,0,0
+106873,PC,Player Character,"""This is all just a game, isn't it? I can't really win, can I?""","이건 다 게임일 뿐이지, 그렇지? 내가 진짜 이길 순 없는 거지?",q6_priest,,,,,0,0
+106874,PC,Player Character,"""How many stages are there?""","단계가 몇 개야?",q6_priest,,,,,0,0
+106875,PC,Player Character,"""I'm ready to go to the next stage of the challenge.""","시련의 다음 단계로 갈 준비가 됐어.",q6_priest,,,,,0,0
+106876,PC,Player Character,"""This wasn't part of the deal!""","이건 거래에 없던 내용이야!",q6_priest,,,,,0,0
+106877,PC,Player Character,"""Each stage? You never said anything about multiple stages!""","단계마다? 여러 단계가 있다는 말은 안 했잖아!",q6_priest,,,,,0,0
+106878,PC,Player Character,"""Are you trying to change our deal?""","우리 거래를 바꾸려는 거야?",q6_priest,,,,,0,0
+106879,PC,Player Character,"""What do you mean?""","무슨 말이야?",q6_priest,,,,,0,0
+106880,PC,Player Character,"""I should kill you for that!""","그 말 때문에 널 죽여야겠어!",q6_priest,,,,,0,0
+106881,PC,Player Character,"""This isn't fair! That mirror shard was mine!""","이건 공정하지 않아! 그 거울 파편은 내 거였어!",q6_priest,,,,,0,0
+106882,PC,Player Character,"""Let's continue with the trial.""","시련을 계속하자.",q6_priest,,,,,0,0
+106883,PC,Player Character,"""I'll be going now.""","이만 가볼게.",q6_priest,,,,,0,0
+106884,PC,Player Character,"""I've decided to kill you."" <StartAction>Attack the priest.</Start>","널 죽이기로 했어. <StartAction>사제를 공격한다.</Start>",q6_priest,q6e_at_cleric1,,,,0,0
+106885,PC,Player Character,"""I want to ask you some questions.""","몇 가지 질문하고 싶어.",q6_priest,,,,,0,0
+106886,PC,Player Character,"""I'm looking for allies to help me against the Valsharess.""","발샤레스에 맞서 도와줄 동맹을 찾고 있어.",q6_priest,,,,,0,0
+106887,PC,Player Character,"""What can you tell me about that drow, Sabal?""","그 드로우, 사발에 대해 알려줄 게 있어?",q6_priest,,q6e_sc_cleric11,,,0,0
+106888,PC,Player Character,"""Where did you get that mirror shard you had?""","네가 갖고 있던 거울 파편은 어디서 구한 거야?",q6_priest,,,,,0,0
+106889,PC,Player Character,"""What can you tell me about this town?""","이 마을에 대해 알려줄 게 있어?",q6_priest,,,,,0,0
+106890,PC,Player Character,"""How did you come to serve Talona?""","어떻게 탈로나를 섬기게 됐어?",q6_priest,,,,,0,0
+106891,PC,Player Character,"""Don't you think that's kind of odd?""","그게 좀 이상하다고 생각 안 해?",q6_priest,,,,,0,0
+106892,PC,Player Character,"""I want to ask you something else.""","다른 거 물어볼게.",q6_priest,,,,,0,0
+106893,PC,Player Character,"""You're one to talk, Nathyrra. You switched the god you worship!""","네가 할 소리가 아니지, 나시라. 넌 섬기는 신을 바꿨잖아!",q6_priest,,,,,0,0
+106894,PC,Player Character,"""She's right. Your loyalty shouldn't be so fickle.""","그녀 말이 맞아. 충성심이 그렇게 변덕스러우면 안 되지.",q6_priest,,,,,0,0

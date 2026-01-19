@@ -1,0 +1,40 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+19403,PC,Player Character,<StartCheck>[Insight]</Start> The bottom level? How many levels are there?,<StartCheck>[통찰]</Start> 맨 아래층? 층이 몇 개나 돼?,m1q2_emernik,,nw_d2_wis_intn,,,0,0
+19404,PC,Player Character,Why was the Head Gaoler torturing you?,왜 간수장이 당신을 고문하고 있었죠?,m1q2_emernik,,[지능 보통],,,0,0
+19405,PC,Player Character,Who's helping him?,그를 돕는 건 누구죠?,m1q2_emernik,,[지능 보통],,,0,0
+19406,PC,Player Character,Torture? How come?,고문? 왜?,m1q2_emernik,,[지능 낮음],,,0,0
+19407,PC,Player Character,What's the Head Gaoler up to?,간수장이 무슨 짓을 꾸미는 거지?,m1q2_emernik,,[지능 보통],,,0,0
+19408,PC,Player Character,What do you know about this floor of the prison?,감옥 이 층에 대해 뭘 알고 있지?,m1q2_emernik,,[지능 보통],,,0,0
+19409,PC,Player Character,I need you to follow me.,나를 따라와.,m1q2_emernik,,_false,,,0,0
+19410,PC,Player Character,"All right, wait here.","알겠습니다, 여기서 기다리세요.",m1q2_emernik,,[지능 보통],,,0,0
+19411,PC,Player Character,What da Head Guy up to?,우두머리가 뭐 하는 거야?,m1q2_emernik,,[지능 낮음],,,0,0
+19412,PC,Player Character,What you know 'bout dis floor of prison?,감옥 이 층에 대해 뭐 알아?,m1q2_emernik,,[지능 낮음],,,0,0
+19413,PC,Player Character,"All right, you come wit' me.","좋아, 너 나랑 같이 가.",m1q2_emernik,,_false,,,0,0
+19414,PC,Player Character,"You wait here, yuh?","너 여기서 기다려, 응?",m1q2_emernik,,[지능 낮음],,,0,0
+19415,PC,Player Character,"Okay, enough questions about the Head Gaoler.","좋아, 간수장 얘기는 여기까지만 하자.",m1q2_emernik,,[지능 보통],,,0,0
+19416,PC,Player Character,"Okay, no more questions 'bout Head Guy, yuh?","좋아, 간수장 얘긴 더 안 물어, 응?",m1q2_emernik,,[지능 낮음],,,0,0
+19417,PC,Player Character,Who help him?,누가 그놈 도와?,m1q2_emernik,,[지능 낮음],,,0,0
+19418,PC,Player Character,The Pits? What are those?,나락? 그게 뭐지?,m1q2_emernik,,[지능 보통],,,0,0
+19419,PC,Player Character,Are the doors locked or unlocked?,문들은 잠겨 있어? 아니면 열려 있어?,m1q2_emernik,,[지능 보통],,,0,0
+19420,PC,Player Character,Where are the former prisoners holed up?,탈주한 죄수들은 어디에 숨어 있어?,m1q2_emernik,,[지능 보통],,,0,0
+19421,PC,Player Character,I need supplies. Are there any storerooms?,물자가 필요합니다. 창고가 어디 있습니까?,m1q2_emernik,,[지능 보통],,,0,0
+19422,PC,Player Character,"Da Pits? Ooo, what dey be?",나락? 그게 뭐야?,m1q2_emernik,,[지능 낮음],,,0,0
+19423,PC,Player Character,Da doors - dey locked or unlocked?,문-잠겼어? 열렸어?,m1q2_emernik,,[지능 낮음],,,0,0
+19424,PC,Player Character,Da prisoners - where dey hidin'?,죄수들-어디 숨었어?,m1q2_emernik,,[지능 낮음],,,0,0
+19425,PC,Player Character,Hmph. Der storerooms 'round here?,흠. 여기 창고 있어?,m1q2_emernik,,[지능 낮음],,,0,0
+19426,PC,Player Character,"Yeah, I am... Get back to your cell or face the consequences.","그래, 그렇다... 당장 감방으로 돌아가, 안 그러면 대가를 치르게 될 거다.",m1q2_emernik,nw_d1_small_evil,[지능 보통],,,0,0
+19427,PC,Player Character,"No, I had to fight my way through them to get here.","아니, 여기 오려면 놈들을 뚫고 와야 했어.",m1q2_emernik,,[지능 보통],,,0,0
+19428,PC,Player Character,... Why do you ask?,...왜 묻는 거지?,m1q2_emernik,,[지능 보통],,,0,0
+19429,PC,Player Character,"Yeah, me prisoner. You get back to cell before you get hurts!","그래, 나 죄수. 너 다치기 전에 감방으로 돌아가!",m1q2_emernik,nw_d1_small_evil,[지능 낮음],,,0,0
+19430,PC,Player Character,"Me? No, me club dem on way here.","나? 아니, 오는 길에 다 패버렸지.",m1q2_emernik,,[지능 낮음],,,0,0
+19431,PC,Player Character,Uh... Is dis a trick question?,어... 이거 함정 질문이야?,m1q2_emernik,,[지능 낮음],,,0,0
+19432,PC,Player Character,"Who are you, anyways?",근데 너는 누구지?,m1q2_emernik,,[지능 보통],,,0,0
+19433,PC,Player Character,How come you're not in your cell?,왜 감방에 안 있지?,m1q2_emernik,,[지능 보통],,,0,0
+19434,PC,Player Character,Think you could answer some questions for me?,내 질문 몇 가지에 답해 줄 수 있겠나?,m1q2_emernik,,[지능 보통],,,0,0
+19435,PC,Player Character,"All right, get out of here then.","좋아, 그럼 여기서 꺼져.",m1q2_emernik,,[지능 보통],,,0,0
+19436,PC,Player Character,"Who you be, huh?","너 누구야, 응?",m1q2_emernik,,[지능 낮음],,,0,0
+19437,PC,Player Character,You not in cell. How come?,너 감방에 없네. 왜?,m1q2_emernik,,[지능 낮음],,,0,0
+19438,PC,Player Character,"Uh, me have questions. You got time?","어, 나 질문 있어. 시간 있어?",m1q2_emernik,,[지능 낮음],,,0,0
+19439,PC,Player Character,"Okay den, get out of here.","좋아, 그럼 꺼져.",m1q2_emernik,,[지능 낮음],,,0,0
+19440,PC,Player Character,That's all I need to know about the prison.,감옥에 관해 알아야 할 건 다 알았다.,m1q2_emernik,,[지능 보통],,,0,0
+19441,PC,Player Character,That all me need to know 'bout prison.,감옥 얘긴 이걸로 됐어.,m1q2_emernik,,[지능 낮음],,,0,0

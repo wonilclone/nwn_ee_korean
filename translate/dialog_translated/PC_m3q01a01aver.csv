@@ -1,0 +1,24 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+43105,PC,Player Character,You've got a serious attitude problem.,태도에 문제가 심각하네.,m3q01a01aver,,[지능 보통],,,0,0
+43106,PC,Player Character [M3Q01A01],I'm here to talk about Rolgan's trial.,롤간의 재판에 대해 얘기하러 왔어.,m3q01a01aver,,m3q01a01aversgk1,[M3Q01A01],,0,0
+43107,PC,Player Character,I'll be going now.,이제 갈게.,m3q01a01aver,,[지능 보통],,,0,0
+43108,PC,Player Character,Me no like you talk!,나 네 말 싫어!,m3q01a01aver,,[지능 낮음],,,0,0
+43109,PC,Player Character,Me go now.,나 이제 가.,m3q01a01aver,,[지능 낮음],,,0,0
+43110,PC,Player Character,I'd rather mate with a dead ogre.,차라리 죽은 오우거랑 짝짓기하는 게 낫겠어.,m3q01a01aver,,[지능 보통],,,0,0
+43111,PC,Player Character,"Forget it, you're not my type.","관두지, 넌 내 타입이 아니야.",m3q01a01aver,,[지능 보통],,,0,0
+43112,PC,Player Character,Sure. I'm always ready for some good lovin'!,좋아. 언제든 환영이지!,m3q01a01aver,,[지능 보통],,,0,0
+43113,PC,Player Character,I'd better just go now.,이제 가는 게 좋겠어.,m3q01a01aver,,[지능 보통],,,0,0
+43114,PC,Player Character,You ugly. Me no like.,너 못생겼어. 나 싫어.,m3q01a01aver,,[지능 낮음],,,0,0
+43115,PC,Player Character,Me want sex now!,나 지금 섹스 하고 싶어!,m3q01a01aver,,[지능 낮음],,,0,0
+43116,PC,Player Character,Me go now.,나 이제 가.,m3q01a01aver,,[지능 낮음],,,0,0
+43117,PC,Player Character,Very enlightened attitude you have there.,참 계몽된 태도네.,m3q01a01aver,,,,,0,0
+43118,PC,Player Character,What are your feelings about this case?,이 사건에 대해 어떻게 생각해?,m3q01a01aver,,,,,0,0
+43119,PC,Player Character,Sounds like you figure he's already guilty.,벌써 유죄라고 판단한 것 같은데.,m3q01a01aver,,,,,0,0
+43120,PC,Player Character,"You're a disgusting, vile man.",넌 역겹고 비열한 인간이야.,m3q01a01aver,,,,,0,0
+43121,PC,Player Character,Is there anyway I can guarantee you find Rolgan not guilty?,롤간을 무죄로 만들 방법이 있을까?,m3q01a01aver,,,,,0,0
+43122,PC,Player Character [M3Q101A06],<StartCheck>[Persuade]</Start> Here's 100 gold pieces to make sure Rolgan is acquitted.,<StartCheck>[설득]</Start> 롤간이 무죄 판결 받게 하려고 금화 100개 줄게.,m3q01a01aver,m3q101a06ltgp100,m3q101a06lgp100,[M3Q101A06],,0,0
+43123,PC,Player Character [M3Q101A06],<StartCheck>[Persuade]</Start> Here's 300 gold pieces to make sure Rolgan is acquitted.,<StartCheck>[설득]</Start> 롤간이 무죄 판결 받게 하려고 금화 300개 줄게.,m3q01a01aver,m3q101a06ltgp300,m3q101a06lgp300,[M3Q101A06],,0,0
+43124,PC,Player Character,"Forget it, I don't trust you. I'll be going now.","관두지, 널 못 믿겠어. 이제 갈게.",m3q01a01aver,,,,,0,0
+65645,PC,Player Character,"What a horrible thing to say! You're a vile, disgusting man!",끔찍한 말이네! 넌 비열하고 역겨운 인간이야!,m3q01a01aver,,,,,0,0
+65646,PC,Player Character,I'd never defend a horrible man like you!,너 같은 끔찍한 인간을 변호할 생각 없어!,m3q01a01aver,,,,,0,0
+65647,PC,Player Character,Rolgan was no murderer. He was only defending himself!,롤간은 살인자가 아니야. 그냥 자기방어였어!,m3q01a01aver,,,,,0,0

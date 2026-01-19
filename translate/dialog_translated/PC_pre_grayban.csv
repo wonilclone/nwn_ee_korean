@@ -1,0 +1,25 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+92144,PC,Player Character,"""Goodbye.""","""안녕.""",pre_grayban,,,,,0,0
+92145,PC,Player Character,"""What happened to your arm?""","""팔은 어떻게 된 거야?""",pre_grayban,,con_q2agrayban1,,,0,0
+92146,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Tell me what happened or maybe you'll lose that other arm.""","<StartCheck>[위협]</Start> """"말 안 하면 다른 팔도 잃게 될지 몰라.""""",pre_grayban,,,,,0,0
+92147,PC,Player Character,"<StartCheck>[Bluff]</Start> ""I heard some customers say you lost it because you're a coward.""","<StartCheck>[허세]</Start> """"손님들이 겁쟁이라서 잃었다고 말하던데.""""",pre_grayban,,,,,0,0
+92148,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I'd like to be your friend. Please tell me.""","<StartCheck>[설득]</Start> """"친구가 되고 싶어. 말해줘.""""",pre_grayban,,,,,0,0
+92149,PC,Player Character,"""I don't need your life story. Hurry up.""","""인생사는 필요 없어. 빨리 해.""",pre_grayban,,,,,0,0
+92150,PC,Player Character,"""What girl is that?""","""무슨 소녀 얘기야?""",pre_grayban,,,,,0,0
+92151,PC,Player Character,"""That still doesn't tell me how you lost your arm.""","""그래도 팔을 어떻게 잃었는지는 안 말해줬잖아.""",pre_grayban,,,,,0,0
+92152,PC,Player Character,"""Go on.""","""계속해.""",pre_grayban,,,,,0,0
+92153,PC,Player Character,"""At least you survived.""","""적어도 살아남았잖아.""",pre_grayban,,,,,0,0
+92154,PC,Player Character,"""So how did you end up working here?""","""그래서 어떻게 여기서 일하게 됐어?""",pre_grayban,,,,,0,0
+92155,PC,Player Character,"""I thought I wasn't allowed."" ","""출입이 안 된다고 생각했는데.""",pre_grayban,,,,,0,0
+92156,PC,Player Character,"""Yes, please.""","""그래, 부탁해.""",pre_grayban,,,,,0,0
+92157,PC,Player Character,"""I'm allowed to leave.""","""나갈 수 있어.""",pre_grayban,,,,,0,0
+92158,PC,Player Character,"""I will pay you to let me out.""","""나가게 해주면 돈 줄게.""",pre_grayban,,,,,0,0
+92159,PC,Player Character,"""No way.""","""싫어.""",pre_grayban,,,,,0,0
+92160,PC,Player Character,"""It is a deal.""","""거래 성사.""",pre_grayban,,pre_thesta_chk1,,,0,0
+92161,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""You let me out, or I'll tell Durnan you forgot his instructions.""","<StartCheck>[위협]</Start> """"날 내보내 줘, 아니면 더난한테 네가 지시를 잊어버렸다고 말할 거야.""""",pre_grayban,,,,,0,0
+92162,PC,Player Character,"<StartCheck>[Bluff]</Start> ""You must have forgotten. Don't worry, I won't tell anybody you forgot.""","<StartCheck>[허세]</Start> """"잊어버린 것 같은데. 걱정 마, 아무한테도 안 말할게.""""",pre_grayban,,,,,0,0
+92163,PC,Player Character,"""I'm <FullName>. Durnan said you'd let me out.""","""난 <FullName>이야. 더난이 나가게 해주라고 했어.""",pre_grayban,,,,,0,0
+92164,PC,Player Character,I found this shield with your name on it.,네 이름이 새겨진 방패를 발견했어.,pre_grayban,,con_q2aypguard6,,,0,0
+92165,PC,Player Character,"""Here, take this 50 gold and get your arm back.""","""자, 이 금화 50개 받고 팔 되찾아.""",pre_grayban,nw_d1_mid_good,con_q2aypguard3,,,0,0
+92166,PC,Player Character,"""No, you keep your gold. You need it.""","""아니, 금화는 네가 가져. 너한테 필요해.""",pre_grayban,nw_d1_small_good,,,,0,0
+92167,PC,Player Character,"""I'll be taking the gold.""","""금화는 내가 가져갈게.""",pre_grayban,nw_d1_small_evil,,,,0,0

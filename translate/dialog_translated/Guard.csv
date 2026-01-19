@@ -1,0 +1,26 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+22543,Creature,Guard,I'm keeping my eye on you.,눈여겨보고 있겠다.,M1Q4NGUARD,,,,,0,0
+24568,Creature,Guard,Guard,경비병,M1GENHUMANGUARG,,,,,0,0
+24570,Creature,Guard,Guard,경비병,M1GEN_HUMGUARD|M1Q04CGUARD01|M1Q04CGUARD02|M1Q4NGUARD|M2Q05CGRIFFONGUA|M2Q05CGUARD,,,,,0,0
+24656,Creature,Guard,Guard,경비병,3Q12GUARD|M1Q1NEWGUARD|M2Q1CDARKTGUARD,,,,,0,0
+42685,Creature,Guard,"You going up to the top of the plateau to see Beorunna's Well? If you are, just watch your step. I wouldn't trust those Uthgardt savages as far as I could throw them.","고원 꼭대기에 있는 베오룬나의 우물을 보러 가는 건가? 그렇다면 조심해. 저 우스가르트 야만족들은 멀리 내던지는 것만큼도 믿지 않거든.",3Q12GUARD,m3_stopinit,,,,0,0
+42686,Creature,Guard,"Yeah, you know: Beorunna's Well. It ain't much to look at, but I guess some people figure it's a big deal, what with the historical significance and all.","그래, 알잖아. 베오룬나의 우물 말이야. 볼 것 많진 않지만, 뭐 어떤 사람들은 대단한 거라고 생각하더군. 역사적 의미가 있다고 그러고.",3Q12GUARD,,,,,0,0
+42687,Creature,Guard,"Beorunna was some Uthgardt hero, or so they say. The legendary Father of their people or some such nonsense. They say he built that well at the top of this plateau.","베오룬나가 우스가르트의 영웅이라더군. 그들 백성의 전설적인 아버지니 뭐니 하는 헛소리. 이 고원 꼭대기에 우물을 만들었다고 하더라고.",3Q12GUARD,,,,,0,0
+42688,Creature,Guard,"See you around then. Like I said, watch yourself among them Uthgardt. Allies or not, I don't trust those savages!","그럼 나중에 보자고. 말했듯이 우스가르트 사이에선 조심해. 동맹이든 아니든 저 야만족들은 안 믿어!",3Q12GUARD,,,,,0,0
+42689,Creature,Guard,The Lords' Alliance figured it might be a good idea to post a guard here at the base of the plateau to warn people. Past this point you're entering the heathen camps. ,"영주 연합이 고원 기슭에 경비병을 배치해 사람들에게 경고하는 게 좋겠다고 했어. 이 지점을 넘어서면 이교도 야영지에 들어가는 거야.",3Q12GUARD,,,,,0,0
+42690,Creature,Guard,"You can go on up if you want, but watch your step with those savages. We don't want any trouble with those Uthgardt camped around Beorunna's Well.","원하면 올라가도 돼. 하지만 저 야만족들 사이에선 조심해. 베오룬나의 우물 주변에 진 친 저 우스가르트들과 문제 만들고 싶지 않거든.",3Q12GUARD,,,,,0,0
+42691,Creature,Guard,"I don't believe in the legend myself, but the plateau is a holy site to them damn Uthgardt. Guess that's why they built their camp up there.","나야 전설 따윈 안 믿지만 고원은 저 빌어먹을 우스가르트들한테 성지거든. 그래서 저 위에 진을 쳤나 보지.",3Q12GUARD,,,,,0,0
+42692,Creature,Guard,"Yeah, one of the Uthgardt tribes has joined the Lords' Alliance. The Black Lions, I think. I don't really trust them heathens, but I guess we need all the help we can get.","그래, 우스가르트 부족 중 하나가 영주 연합에 합류했어. 검은사자였나. 저 이교도들을 진짜로 믿진 않지만 뭐 받을 수 있는 도움은 다 받아야겠지.",3Q12GUARD,,,,,0,0
+42693,Creature,Guard,They've gone and set up their camp on top of this plateau. Seems they figure they've got a claim to the land around Beorunna's Well.,고원 꼭대기에 진을 쳤더라고. 베오룬나의 우물 주변 땅에 대한 권리가 있다고 생각하나 봐.,3Q12GUARD,,,,,0,0
+42694,Creature,Guard,"Well, there's a druid grove up there. I think it's run by a man named Yusam. You know them druids... Nature this and nature that.","뭐, 저 위에 드루이드 숲이 있어. 유삼이라는 사람이 운영하는 것 같은데. 드루이드들 알잖아... 자연이 어쩌고저쩌고.",3Q12GUARD,,,,,0,0
+42695,Creature,Guard,I guess that's why he'd rather stay up there beside Beorunna's Well with them primitive Uthgardt instead of down here with us civilized folk. ,그래서 저 아래 우리 문명인들이 아니라 저 위 베오룬나의 우물 옆에 저 원시적인 우스가르트들과 있으려나 봐.,3Q12GUARD,,,,,0,0
+42696,Creature,Guard,Come here and talk to me.,이리 와서 나랑 얘기해.,3Q12GUARD,m3q1map_gwave,,,,0,0
+60354,Creature,Guard,"What is this, a joke? You can't be serious - I'm just a soldier! You've probably got fifty times the amount of gold I've got.","뭐야, 농담이야? 진심은 아니겠지 - 난 그냥 병사라고! 당신은 내가 가진 것보다 오십 배는 많을 거야.",3Q12GUARD,,,,,0,0
+60355,Creature,Guard,"Besides, I'm saving my wages so I can send them back to Neverwinter to my dear old ma. She's getting on in years and I want to look after her.","게다가 네버윈터에 있는 우리 어머니께 보내려고 월급을 모으고 있어. 연세가 많으셔서 보살펴드리고 싶거든.",3Q12GUARD,,,,,0,0
+60356,Creature,Guard,"No problem - it's like it never happened. So you going up to Beorunna's Well now? It's worth a look, even with those Uthgardt milling about.","문제없어 - 없던 일로 하지. 그래서 이제 베오룬나의 우물로 올라가는 거야? 저 우스가르트들이 어슬렁거려도 볼 만해.",3Q12GUARD,,,,,0,0
+60357,Creature,Guard,Just... just hold on a minute. Here's your gold - I can't afford to get demoted! Not with ma counting on me to support her.,"잠깐... 잠깐만. 여기 금화야 - 강등당할 여유가 없어! 어머니가 날 믿고 계신데.",3Q12GUARD,nw_d1_evil_50,,,,0,0
+60358,Creature,Guard,Some hero you are! You're nothing but a bully!,대단한 영웅이네! 그냥 깡패일 뿐이잖아!,3Q12GUARD,,,,,0,0
+60359,Creature,Guard,"Besides, someone already came by and threatened to demote me if I didn't give them all my gold. I'm flat broke.","게다가 이미 누가 와서 금화를 다 내놓지 않으면 강등시키겠다고 협박했어. 완전 거덜났다고.",3Q12GUARD,,,,,0,0
+60360,Creature,Guard,Looks like you'll have to find someone else to extort; this sheep's already been fleeced!,다른 사람한테 가서 갈취해야겠네. 이 양은 이미 털렸거든!,3Q12GUARD,,,,,0,0
+60361,Creature,Guard,Now what do you want? I already gave you your gold - I can't afford anything else.,이제 뭘 원하는 거야? 이미 금화 줬잖아 - 더는 줄 게 없어.,3Q12GUARD,,,,,0,0
+60362,Creature,Guard,Just go away and leave me alone.,그냥 가서 날 좀 내버려둬.,3Q12GUARD,,,,,0,0

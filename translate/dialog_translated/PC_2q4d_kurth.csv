@@ -1,0 +1,121 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+28676,PC,Player Character,"What would the reward be, exactly?",정확히 보상이 뭔데?,2q4d_kurth,,[지능 보통],,,0,0
+28677,PC,Player Character,What kind reward you mean?,무슨 보상 말하는 거야?,2q4d_kurth,,[지능 낮음],,,0,0
+28678,PC,Player Character,Baram already made me the same offer.,바람이 이미 같은 제안을 했어.,2q4d_kurth,,2q4_kurth01,,,0,0
+28679,PC,Player Character,Baram made same offer.,바람 같은 제안 했어.,2q4d_kurth,,2q4_kurth02,,,0,0
+28680,PC,Player Character,"Baram is already dead, actually.","사실 바람은 이미 죽었어.",2q4d_kurth,,2q4_kurth03,,,0,0
+28681,PC,Player Character,"Baram dead, already.",바람 이미 죽었어.,2q4d_kurth,,2q4_kurth04,,,0,0
+28682,PC,Player Character,I would never work for you!,널 위해서는 절대 일 안 해!,2q4d_kurth,,[지능 보통],,,0,0
+28683,PC,Player Character,Me never works for you!,나 절대 너 위해 안 일해!,2q4d_kurth,,[지능 낮음],,,0,0
+28684,PC,Player Character,"I have some questions, first.","먼저 몇 가지 질문이 있어.",2q4d_kurth,,[지능 보통],,,0,0
+28685,PC,Player Character,"Me has questions, first.","나 먼저 질문 있어.",2q4d_kurth,,[지능 낮음],,,0,0
+28686,PC,Player Character,"What about Elynwyd's sister, Evaine? Do you have her?","엘린위드의 동생 에바인은? 네가 가지고 있어?",2q4d_kurth,,2q4_kurth05,,,0,0
+28687,PC,Player Character,"What about elf's sister, Evaine? You haves her?",엘프 동생 에바인은? 너 가지고 있어?,2q4d_kurth,,2q4_kurth06,,,0,0
+28688,PC,Player Character,"<StartCheck>[Persuade]</Start> Perhaps. I want more gold, however.","<StartCheck>[설득]</Start> 아마. 하지만 금화를 더 원해.",2q4d_kurth,2q4_perslim2,2q4_perslimn2,,,0,0
+28689,PC,Player Character,<StartCheck>[Persuade]</Start> Maybe. Me wants more gold.,<StartCheck>[설득]</Start> 아마. 나 금화 더 원해.,2q4d_kurth,2q4_perslim2,2q4_persliml2,,,0,0
+28690,PC,Player Character,"Aye, I'm interested.","그래, 관심 있어.",2q4d_kurth,,[지능 보통],,,0,0
+28691,PC,Player Character,"Yeah, me interested.","그래, 나 관심 있어.",2q4d_kurth,,[지능 낮음],,,0,0
+28692,PC,Player Character,I want her released.,그녀를 풀어줘.,2q4d_kurth,,[지능 보통],,,0,0
+28693,PC,Player Character,Me wants her released.,나 그녀 풀어주길 원해.,2q4d_kurth,,[지능 낮음],,,0,0
+28694,PC,Player Character,"She doesn't, actually.","사실 그녀는 그렇지 않아.",2q4d_kurth,,[지능 보통],,,0,0
+28695,PC,Player Character,She not interest me at all.,그녀 나한테 전혀 흥미 없어.,2q4d_kurth,,[지능 낮음],,,0,0
+28696,PC,Player Character,"I just wanted to know that, that's all.","그냥 알고 싶었을 뿐이야, 그게 다야.",2q4d_kurth,,[지능 보통],,,0,0
+28697,PC,Player Character,"Me just wants to know, is all.","나 그냥 알고 싶었어, 그게 다야.",2q4d_kurth,,[지능 낮음],,,0,0
+28698,PC,Player Character,Not interested.,관심 없어.,2q4d_kurth,,[지능 보통],,,0,0
+28699,PC,Player Character,"Me not haves interest, no.","나 흥미 없어, 아니.",2q4d_kurth,,[지능 낮음],,,0,0
+28700,PC,Player Character,"I want Evaine released, as well.","에바인도 풀어주길 원해.",2q4d_kurth,,2q4_kurth10,,,0,0
+28701,PC,Player Character,"Me wants Evaine released, too.",나 에바인도 풀어주길 원해.,2q4d_kurth,,2q4_kurth11,,,0,0
+28702,PC,Player Character,I want to get into the Host Tower.,중심탑에 들어가고 싶어.,2q4d_kurth,,2q4_kurth12,,,0,0
+28703,PC,Player Character,Me wants to get into wizard tower.,나 마법사 탑 들어가고 싶어.,2q4d_kurth,,2q4_kurth13,,,0,0
+28704,PC,Player Character,<StartCheck>[Persuade]</Start> How about you make me a better offer?,<StartCheck>[설득]</Start> 더 나은 제안을 해보는 게 어때?,2q4d_kurth,,[지능 보통],,,0,0
+28705,PC,Player Character,"<StartCheck>[Persuade]</Start> You makes me better offer, maybe?","<StartCheck>[설득]</Start> 너 나한테 더 나은 제안 해, 어때?",2q4d_kurth,,[지능 낮음],,,0,0
+28706,PC,Player Character,I want to ask you some questions.,몇 가지 물어보고 싶어.,2q4d_kurth,,[지능 보통],,,0,0
+28707,PC,Player Character,Me want to ask you questions.,나 너한테 질문하고 싶어.,2q4d_kurth,,[지능 낮음],,,0,0
+28708,PC,Player Character,I suppose I'll have to kill you.,널 죽여야 할 것 같아.,2q4d_kurth,,[지능 보통],,,0,0
+28709,PC,Player Character,"Me have to kill you, me guessing.","내가 너 죽여야 할 것 같아, 나 생각에.",2q4d_kurth,,[지능 낮음],,,0,0
+28710,PC,Player Character,Nothing at all.,아무것도 안 해.,2q4d_kurth,,[지능 보통],,,0,0
+28711,PC,Player Character,Me does nothing.,나 아무것도 안 해.,2q4d_kurth,,[지능 낮음],,,0,0
+28712,PC,Player Character,1000 gold pieces.,금화 1000개.,2q4d_kurth,,2q4_kurth16,,,0,0
+28713,PC,Player Character,1250 gold pieces.,금화 1250개.,2q4d_kurth,,2q4_kurth17,,,0,0
+28714,PC,Player Character,<StartCheck>[Persuade]</Start> 1500 gold pieces.,<StartCheck>[설득]</Start> 금화 1500개.,2q4d_kurth,,,,,0,0
+28715,PC,Player Character,Forget it. I'm not interested.,됐어. 관심 없어.,2q4d_kurth,,[지능 보통],,,0,0
+28716,PC,Player Character,You forgets it. Me not interested.,그냥 잊어. 나 관심 없어.,2q4d_kurth,,[지능 낮음],,,0,0
+28717,PC,Player Character,I want to get into the Host Tower.,중심탑에 들어가고 싶어.,2q4d_kurth,,2q4_kurth12,,,0,0
+28718,PC,Player Character,Me wants to get into wizard tower.,나 마법사 탑 들어가고 싶어.,2q4d_kurth,,2q4_kurth13,,,0,0
+28719,PC,Player Character,"What about Elynwyd's sister, Evaine? Do you have her?","엘린위드의 동생 에바인은? 네가 가지고 있어?",2q4d_kurth,,2q4_kurth05,,,0,0
+28720,PC,Player Character,"What about elf's sister, Evaine? You haves her?",엘프 동생 에바인은? 너 가지고 있어?,2q4d_kurth,,2q4_kurth06,,,0,0
+28721,PC,Player Character,"I want Evaine released, as well.","에바인도 풀어주길 원해.",2q4d_kurth,,2q4_kurth10,,,0,0
+28722,PC,Player Character,"Me wants Evaine released, too.",나 에바인도 풀어주길 원해.,2q4d_kurth,,2q4_kurth11,,,0,0
+28723,PC,Player Character,I want her released.,그녀를 풀어줘.,2q4d_kurth,,[지능 보통],,,0,0
+28724,PC,Player Character,Me wants her released.,나 그녀 풀어주길 원해.,2q4d_kurth,,[지능 낮음],,,0,0
+28725,PC,Player Character,"She doesn't, actually.","사실 그녀는 그렇지 않아.",2q4d_kurth,,[지능 보통],,,0,0
+28726,PC,Player Character,She not interest me at all.,그녀 나한테 전혀 흥미 없어.,2q4d_kurth,,[지능 낮음],,,0,0
+28727,PC,Player Character,"I just wanted to know that, that's all.","그냥 알고 싶었을 뿐이야, 그게 다야.",2q4d_kurth,,[지능 보통],,,0,0
+28728,PC,Player Character,"Me just wants to know, is all.","나 그냥 알고 싶었어, 그게 다야.",2q4d_kurth,,[지능 낮음],,,0,0
+28729,PC,Player Character,I have some questions.,몇 가지 질문이 있어.,2q4d_kurth,,[지능 보통],,,0,0
+28730,PC,Player Character,Me has questions.,나 질문 있어.,2q4d_kurth,,[지능 낮음],,,0,0
+28731,PC,Player Character,I want to get into the Host Tower.,중심탑에 들어가고 싶어.,2q4d_kurth,,2q4_kurth12,,,0,0
+28732,PC,Player Character,Me wants to get into wizard tower.,나 마법사 탑 들어가고 싶어.,2q4d_kurth,,2q4_kurth13,,,0,0
+28733,PC,Player Character,"What about Elynwyd's sister, Evaine? Do you have her?","엘린위드의 동생 에바인은? 네가 가지고 있어?",2q4d_kurth,,2q4_kurth05,,,0,0
+28734,PC,Player Character,"What about elf's sister, Evaine? You haves her?",엘프 동생 에바인은? 너 가지고 있어?,2q4d_kurth,,2q4_kurth06,,,0,0
+28735,PC,Player Character,"I want Elynwyd's sister released, as well.","엘린위드의 동생도 풀어주길 원해.",2q4d_kurth,,2q4_kurth10,,,0,0
+28736,PC,Player Character,"Me wants elf's sister, Evaine, released.","나 엘프 동생, 에바인 풀어주길 원해.",2q4d_kurth,,2q4_kurth11,,,0,0
+28737,PC,Player Character,I've changed my mind.,마음을 바꿨어.,2q4d_kurth,,[지능 보통],,,0,0
+28738,PC,Player Character,"Me change mind, not work for you.","나 마음 바꿨어, 너 위해 안 일해.",2q4d_kurth,,[지능 낮음],,,0,0
+28739,PC,Player Character,I'll go now.,이제 갈게.,2q4d_kurth,,[지능 보통],,,0,0
+28740,PC,Player Character,Me go now.,나 지금 가.,2q4d_kurth,,[지능 낮음],,,0,0
+28741,PC,Player Character,I want her released.,그녀를 풀어줘.,2q4d_kurth,,[지능 보통],,,0,0
+28742,PC,Player Character,Me wants her released.,나 그녀 풀어주길 원해.,2q4d_kurth,,[지능 낮음],,,0,0
+28743,PC,Player Character,"She doesn't, actually.","사실 그녀는 그렇지 않아.",2q4d_kurth,,[지능 보통],,,0,0
+28744,PC,Player Character,She not interest me at all.,그녀 나한테 전혀 흥미 없어.,2q4d_kurth,,[지능 낮음],,,0,0
+28745,PC,Player Character,"I just wanted to know that, that's all.","그냥 알고 싶었을 뿐이야, 그게 다야.",2q4d_kurth,,[지능 보통],,,0,0
+28746,PC,Player Character,"Me just wants to know, is all.","나 그냥 알고 싶었어, 그게 다야.",2q4d_kurth,,[지능 낮음],,,0,0
+28747,PC,Player Character,What do you hope to get out of all this?,이 모든 걸로 뭘 얻으려고 하는 거야?,2q4d_kurth,,[지능 보통],,,0,0
+28748,PC,Player Character,What you thinks you gets if you win?,네가 이기면 뭘 얻을 거라고 생각해?,2q4d_kurth,,[지능 낮음],,,0,0
+28749,PC,Player Character,Do you know what's going on in the Host Tower?,중심탑에서 무슨 일이 일어나는지 알아?,2q4d_kurth,,2q4_kurth12,,,0,0
+28750,PC,Player Character,You know what going on in wizard tower?,너 마법사 탑에서 무슨 일 있는지 알아?,2q4d_kurth,,2q4_kurth13,,,0,0
+28751,PC,Player Character,Where do I find Baram?,바람은 어디서 찾을 수 있어?,2q4d_kurth,,[지능 보통],,,0,0
+28752,PC,Player Character,Where me finds Baram?,나 바람 어디서 찾아?,2q4d_kurth,,[지능 낮음],,,0,0
+28753,PC,Player Character,What do you know about Baram's defenses?,바람의 방어에 대해 뭘 알아?,2q4d_kurth,,[지능 보통],,,0,0
+28754,PC,Player Character,What you knows 'bout Baram defenses?,너 바람 방어 뭐 알아?,2q4d_kurth,,[지능 낮음],,,0,0
+28755,PC,Player Character,I want to talk about something else.,다른 얘기를 하고 싶어.,2q4d_kurth,,[지능 보통],,,0,0
+28756,PC,Player Character,Me wants to talk 'bout something else.,나 다른 거 얘기하고 싶어.,2q4d_kurth,,[지능 낮음],,,0,0
+28757,PC,Player Character,Why would Luskan need a war leader?,러스칸에 왜 전쟁 지도자가 필요해?,2q4d_kurth,,[지능 보통],,,0,0
+28758,PC,Player Character,Why Luskan needs war leader?,왜 러스칸 전쟁 지도자 필요해?,2q4d_kurth,,[지능 낮음],,,0,0
+28759,PC,Player Character,"Not yet, no.","아직은 아니야, 아니.",2q4d_kurth,,[지능 보통],,,0,0
+28760,PC,Player Character,"No news yet, no.","아직 소식 없어, 아니.",2q4d_kurth,,[지능 낮음],,,0,0
+28761,PC,Player Character,I do. Baram is dead.,그래. 바람은 죽었어.,2q4d_kurth,,2q4_kurth03,,,0,0
+28762,PC,Player Character,"Yup. Baram dead, now.","응. 바람 이제 죽었어.",2q4d_kurth,,2q4_kurth04,,,0,0
+28763,PC,Player Character,"Actually, Baram made me a very good counter-offer... ","사실 바람이 아주 좋은 역제안을 했어... ",2q4d_kurth,,2q4_kurth25,,,0,0
+28764,PC,Player Character,Uh-huh. Baram gaves me good counter-offer... ,어. 바람 나한테 좋은 역제안 했어... ,2q4d_kurth,,2q4_kurth26,,,0,0
+28765,PC,Player Character,Just to let you know why I'm going to kill you.,내가 왜 널 죽일 건지 알려주려고.,2q4d_kurth,,[지능 보통],,,0,0
+28766,PC,Player Character,Just so you knows why me killing you.,그냥 왜 내가 너 죽이는지 알라고.,2q4d_kurth,,[지능 낮음],,,0,0
+28767,PC,Player Character,<StartCheck>[Persuade]</Start> I thought maybe you'd sweeten your offer... ,<StartCheck>[설득]</Start> 네가 제안을 더 달콤하게 만들까 해서... ,2q4d_kurth,,[지능 보통],,,0,0
+28768,PC,Player Character,<StartCheck>[Persuade]</Start> Me thinking you could makes better offer... ,<StartCheck>[설득]</Start> 나 네가 더 나은 제안 할 수 있을 거라 생각해... ,2q4d_kurth,,[지능 낮음],,,0,0
+28769,PC,Player Character,1500 gold pieces.,금화 1500개.,2q4d_kurth,,2q4_kurth30,,,0,0
+28770,PC,Player Character,2000 gold pieces.,금화 2000개.,2q4d_kurth,,2q4_kurth31,,,0,0
+28771,PC,Player Character,<StartCheck>[Persuade]</Start> 2500 gold pieces.,<StartCheck>[설득]</Start> 금화 2500개.,2q4d_kurth,,,,,0,0
+28772,PC,Player Character,It doesn't matter. I'm going to kill you anyway.,상관없어. 어차피 널 죽일 거야.,2q4d_kurth,,[지능 보통],,,0,0
+28773,PC,Player Character,It not matter. Me kill you anyway.,상관없어. 나 어차피 너 죽여.,2q4d_kurth,,[지능 낮음],,,0,0
+28774,PC,Player Character,"Yes, I have his head here.","그래, 여기 그의 머리가 있어.",2q4d_kurth,,2q4_kurth34,,,0,0
+28775,PC,Player Character,Me has head here.,나 여기 머리 있어.,2q4d_kurth,,2q4_kurth35,,,0,0
+28776,PC,Player Character,"Err... no, I don't.","어... 아니, 없어.",2q4d_kurth,,[지능 보통],,,0,0
+28777,PC,Player Character,"Uhhh... no, me not haves head.","으... 아니, 나 머리 없어.",2q4d_kurth,,[지능 낮음],,,0,0
+28778,PC,Player Character,What about Evaine?,에바인은 어때?,2q4d_kurth,,2q4_kurth37,,,0,0
+28779,PC,Player Character,"What of elf girl, Evaine?","엘프 소녀 에바인은 어때?",2q4d_kurth,,2q4_kurth38,,,0,0
+28780,PC,Player Character,"I want Evaine released, as well.","에바인도 풀어주길 원해.",2q4d_kurth,,2q4_kurth10,,,0,0
+28781,PC,Player Character,"Me wants Evaine released, too.",나 에바인도 풀어주길 원해.,2q4d_kurth,,2q4_kurth10,,,0,0
+28782,PC,Player Character,"What of Elynwyd's sister, Evaine? Do you have her?","엘린위드의 동생 에바인은? 네가 데리고 있어?",2q4d_kurth,,2q4_kurth05,,,0,0
+28783,PC,Player Character,"What of elf's sister, Evaine? You haves her?",엘프 동생 에바인은? 너 가지고 있어?,2q4d_kurth,,2q4_kurth06,,,0,0
+28784,PC,Player Character,"<StartCheck>[Persuade]</Start> I think I deserve a larger reward, don't you?","<StartCheck>[설득]</Start> 더 큰 보상을 받을 자격이 있다고 생각하는데, 안 그래?",2q4d_kurth,,[지능 보통],,,0,0
+28785,PC,Player Character,<StartCheck>[Persuade]</Start> Me thinks me deserved bigger reward.,<StartCheck>[설득]</Start> 나 더 큰 보상 받을 자격 있다고 생각해.,2q4d_kurth,,[지능 낮음],,,0,0
+28786,PC,Player Character,That's it? We're done?,이게 다야? 끝난 거야?,2q4d_kurth,,[지능 보통],,,0,0
+28787,PC,Player Character,That it? We all done?,그게 다야? 우리 다 끝났어?,2q4d_kurth,,[지능 낮음],,,0,0
+28788,PC,Player Character,"Good. Time to kill you, now.","좋아. 이제 널 죽일 시간이야.",2q4d_kurth,,[지능 보통],,,0,0
+28789,PC,Player Character,"Is good. You dies, now.","좋아. 너 이제 죽어.",2q4d_kurth,,[지능 낮음],,,0,0
+28790,PC,Player Character,Fine. But this isn't over.,좋아. 하지만 이건 끝나지 않았어.,2q4d_kurth,,[지능 보통],,,0,0
+28791,PC,Player Character,This not over!,이거 안 끝났어!,2q4d_kurth,,[지능 낮음],,,0,0
+28792,PC,Player Character,"I killed one High Captain, Kurth... I can just as easily kill another.","대선장은 이미 한 명 죽여봤어, 커스... 더 죽이는 것도 어려운 일이 아냐.",2q4d_kurth,,[지능 보통],,,0,0
+28793,PC,Player Character,Me kills one High Captain... easy to kills two.,나 대선장 한 명 죽였어... 두 명 죽이기 쉬워.,2q4d_kurth,,[지능 낮음],,,0,0
+28794,PC,Player Character,What do I care? I have other plans.,내가 왜 신경 써? 다른 계획이 있어.,2q4d_kurth,,[지능 보통],,,0,0
+28795,PC,Player Character,Me not care. Gots other stuff to do.,나 신경 안 써. 다른 거 할 거 있어.,2q4d_kurth,,[지능 낮음],,,0,0

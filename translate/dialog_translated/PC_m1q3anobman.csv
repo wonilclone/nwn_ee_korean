@@ -1,0 +1,53 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+62705,PC,Player Character,"Me is going, now.",나 이제 가.,m1q3anobman,,[지능 낮음],,,0,0
+62706,PC,Player Character,I was just leaving.,이만 가볼게요.,m1q3anobman,,[지능 보통],,,0,0
+62707,PC,Player Character,You get out of way! Me goes where me wants!!,너 비켜! 나 가고 싶은 데 가!!,m1q3anobman,,[지능 낮음],,,0,0
+62708,PC,Player Character,Get out of my way! I'll go where I please!,비키세요! 가고 싶은 데 갈 거니까!,m1q3anobman,,[지능 보통],,,0,0
+62709,PC,Player Character,Maybe me gonna do that! You gives gold or you die!,그래 그럴까! 금화 내놔 안 그러면 죽어!,m1q3anobman,m1q1_evil_set,[지능 낮음],,,0,0
+62710,PC,Player Character,Perhaps I will! Give me all your gold or die!,그래 그럴까! 금화 다 내놔요 안 그러면 죽어!,m1q3anobman,m1q1_evil_set,[지능 보통],,,0,0
+62711,PC,Player Character,<StartCheck>[Persuade]</Start> Me city guard. Mean no harm.,<StartCheck>[설득]</Start> 나 도시 경비병. 해치려는 거 아냐.,m1q3anobman,,[지능 낮음],,,0,0
+62712,PC,Player Character,"<StartCheck>[Persuade]</Start> I'm with the city guard, I don't mean any harm.","<StartCheck>[설득]</Start> 도시 경비대 소속이에요, 해칠 생각 없어요.",m1q3anobman,,[지능 보통],,,0,0
+62713,PC,Player Character,Goodbye.,안녕히 계세요.,m1q3anobman,,,,,0,0
+62714,PC,Player Character,Me want ask questions.,나 질문하고 싶어.,m1q3anobman,,[지능 낮음],,,0,0
+62715,PC,Player Character,Could I ask you some questions?,질문 좀 해도 될까요?,m1q3anobman,,[지능 보통],,,0,0
+62716,PC,Player Character,"Me collects gold to protect nobles. See, nobles die in they own homes all the time.","나 귀족 보호하려고 금화 모아. 있잖아, 귀족들 집에서 맨날 죽어.",m1q3anobman,,[지능 낮음],,,0,0
+62717,PC,Player Character,I'm collecting gold to protect nobles. Many are killed in their own homes everyday.,귀족 보호를 위해 금화를 모으고 있어요. 매일 자기 집에서 죽는 사람이 많거든요.,m1q3anobman,,[지능 보통],,,0,0
+62718,PC,Player Character,Me just leave nows. Sorry to bothers.,나 이제 가. 귀찮게 해서 미안.,m1q3anobman,,[지능 낮음],,,0,0
+62719,PC,Player Character,I'll just leave. Sorry to bother you.,이만 갈게요. 귀찮게 해서 죄송해요.,m1q3anobman,,[지능 보통],,,0,0
+62720,PC,Player Character,Maybe me just go back to other questions.,나 다른 질문으로 돌아갈까.,m1q3anobman,,[지능 낮음],,,0,0
+62721,PC,Player Character,Perhaps I should just go back to my other questions.,다른 질문으로 돌아가야겠네요.,m1q3anobman,,[지능 보통],,,0,0
+62722,PC,Player Character,"Hypotemi... hippo...uh, yes! Unless you donate, you could die! AT ANY SECOND!","가상으... 가정...어, 맞아! 기부 안 하면 죽을 수 있어! 당장이라도!",m1q3anobman,m1q1_evil_set,[지능 낮음],,,0,0
+62723,PC,Player Character,"Hypothetically? Yes. Unless you ""donate,"" you could die. Maybe even RIGHT NOW! Or NOW!","가정적으로요? 네. ""기부""하지 않으면 죽을 수도 있어요. 바로 지금이라도! 아니면 지금!",m1q3anobman,m1q1_evil_set,[지능 보통],,,0,0
+62724,PC,Player Character,Me need directions.,나 길 물어볼 거야.,m1q3anobman,,[지능 낮음],,,0,0
+62725,PC,Player Character,Can I ask you some directions?,길 좀 물어봐도 될까요?,m1q3anobman,,[지능 보통],,,0,0
+62726,PC,Player Character,"No, me have other question.","아니, 나 다른 질문 있어.",m1q3anobman,,[지능 낮음],,,0,0
+62727,PC,Player Character,"Actually, I'd rather ask you about something else.","사실, 다른 걸 물어보고 싶은데요.",m1q3anobman,,[지능 보통],,,0,0
+62728,PC,Player Character,Me need place to buy stuff. Is there one here somewheres?,나 물건 살 데 필요해. 이 근처에 있어?,m1q3anobman,,[지능 낮음],,,0,0
+62729,PC,Player Character,Is there a place to buy equipment nearby?,근처에 장비 살 곳이 있나요?,m1q3anobman,,[지능 보통],,,0,0
+62730,PC,Player Character,Me look for temple.,나 신전 찾아.,m1q3anobman,,[지능 낮음],,,0,0
+62731,PC,Player Character,Where is the nearest temple?,가장 가까운 신전이 어디예요?,m1q3anobman,,[지능 보통],,,0,0
+62732,PC,Player Character,Me look for place to sleep.,나 잘 데 찾아.,m1q3anobman,,[지능 낮음],,,0,0
+62733,PC,Player Character,Where is the nearest inn?,가장 가까운 여관이 어디예요?,m1q3anobman,,[지능 보통],,,0,0
+62734,PC,Player Character,You know 'bout any weird stuff here in Blacklake place?,이 검은호수에서 이상한 일 알아?,m1q3anobman,,[지능 낮음],,,0,0
+62735,PC,Player Character,Do you know of anything interesting going on in Blacklake?,검은호수에서 무슨 흥미로운 일이 있나요?,m1q3anobman,,[지능 보통],,,0,0
+62736,PC,Player Character,Places in Blacklake I should go to?,검은호수에서 가볼 데 있어?,m1q3anobman,,[지능 낮음],,,0,0
+62737,PC,Player Character,Any places in Blacklake you think I should visit?,검은호수에서 가볼 만한 곳이 있나요?,m1q3anobman,,[지능 보통],,,0,0
+62738,PC,Player Character,Me want work.,나 일하고 싶어.,m1q3anobman,,[지능 낮음],,,0,0
+62739,PC,Player Character,"I'd be interested in work, if you know of anything.","일거리가 있다면 관심 있는데요, 혹시 아시는 거 있어요?",m1q3anobman,,[지능 보통],,,0,0
+62740,PC,Player Character,Any weird stuff at all?,이상한 거 아무거나?,m1q3anobman,,[지능 낮음],,,0,0
+62741,PC,Player Character,Anything peculiar that you can think of?,생각나는 이상한 거라도 있나요?,m1q3anobman,,[지능 보통],,,0,0
+62742,PC,Player Character [M1Q3N],"Ooooo, come on handsome guy, talks about it.","우우우, 잘생긴 양반, 말해봐.",m1q3anobman,,m1q3nobleclg05,[M1Q3N],,0,0
+62743,PC,Player Character [M1Q3N],"Are you sure you couldn't say, handsome?","정말 말해줄 수 없나요, 미남씨?",m1q3anobman,,m1q3nobleclg04,[M1Q3N],,0,0
+62744,PC,Player Character,<StartCheck>[Persuade]</Start> Tell me. Will hurt nobody.,<StartCheck>[설득]</Start> 말해봐. 아무도 안 다쳐.,m1q3anobman,,[지능 낮음],,,0,0
+62745,PC,Player Character,"<StartCheck>[Persuade]</Start> Come now, telling me won't do any harm.","<StartCheck>[설득]</Start> 에이, 말해줘도 아무 해 없잖아요.",m1q3anobman,,[지능 보통],,,0,0
+62746,PC,Player Character,Me look into plague. Maybe you help?,나 역병 조사해. 도와줄 수 있어?,m1q3anobman,,[지능 낮음],,,0,0
+62747,PC,Player Character,I'm investigating the plague. Perhaps you can help me?,역병을 조사하고 있어요. 도와주실 수 있나요?,m1q3anobman,,[지능 보통],,,0,0
+62748,PC,Player Character,Me have other question.,나 다른 질문 있어.,m1q3anobman,,[지능 낮음],,,0,0
+62749,PC,Player Character,I want to ask you something else.,다른 걸 물어보고 싶은데요.,m1q3anobman,,[지능 보통],,,0,0
+62750,PC,Player Character,"You hear plague rumors, maybe?",역병 소문 들었어?,m1q3anobman,,templ_chg10inl9,,,0,0
+62751,PC,Player Character,Have you heard any rumors concerning the plague?,역병에 관한 소문 들으신 거 있어요?,m1q3anobman,,templ_chg10ing8,,,0,0
+62752,PC,Player Character,You know 'bout strange creatures around?,이상한 괴물 알아?,m1q3anobman,,[지능 낮음],,,0,0
+62753,PC,Player Character,Are you aware of any strange creatures in the area?,이 지역에 이상한 생명체가 있나요?,m1q3anobman,,[지능 보통],,,0,0
+62754,PC,Player Character,Nothing weird about zoo?,동물원에서 이상한 거 없어?,m1q3anobman,,[지능 낮음],,,0,0
+62755,PC,Player Character,"So there's been nothing odd about the zoo, then?","그럼, 동물원에선 별다른 이상이 없었나요?",m1q3anobman,,[지능 보통],,,0,0
+62756,PC,Player Character,"<StartCheck>[Insight]</Start> Is it possible that some creatures might have gained access to the zoo, somehow?","<StartCheck>[통찰]</Start> 혹시 어떤 생명체가 동물원에 침입했을 가능성은 없나요?",m1q3anobman,,nw_d2_wis_intn,,,0,0

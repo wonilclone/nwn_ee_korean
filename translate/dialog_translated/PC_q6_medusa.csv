@@ -1,0 +1,41 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+106684,PC,Player Character,"""I want to talk to you about your mirror shard.""","""당신이 가진 거울 조각 얘기를 하고 싶어요.""",q6_medusa,,q6_medusa10-,,,0,0
+106685,PC,Player Character,"""I'm ready to play your riddle game for the mirror.""","""거울을 걸고 수수께끼 게임을 할 준비가 됐어요.""",q6_medusa,,q6_medusa10,,,0,0
+106686,PC,Player Character,"""Let's begin.""","""시작하죠.""",q6_medusa,,,,,0,0
+106687,PC,Player Character,"""Fire.""","""불이요.""",q6_medusa,,,,,0,0
+106688,PC,Player Character,"""A lantern.""","""등불이요.""",q6_medusa,,,,,0,0
+106689,PC,Player Character,"""Mud.""","""진흙이요.""",q6_medusa,,,,,0,0
+106690,PC,Player Character,"""I'll change my answer to fire.""","""답을 불로 바꿀게요.""",q6_medusa,,,,,0,0
+106691,PC,Player Character,"I'll change my answer to a lantern.""","""답을 등불로 바꿀게요.""",q6_medusa,,,,,0,0
+106692,PC,Player Character,"""I'll change my answer to a torch.""","""답을 횃불로 바꿀게요.""",q6_medusa,,,,,0,0
+106693,PC,Player Character,"""I'll change my answer to the sun.""","""답을 태양으로 바꿀게요.""",q6_medusa,,,,,0,0
+106694,PC,Player Character,"""I'm pretty sure mud is the answer she's looking for.""","""분명 그녀가 원하는 답은 진흙일 거야.""",q6_medusa,,,,,0,0
+106695,PC,Player Character,"""A torch.""","""횃불이요.""",q6_medusa,,,,,0,0
+106696,PC,Player Character,"""The sun.""","""태양이요.""",q6_medusa,,,,,0,0
+106697,PC,Player Character,"""Let me try another riddle.""","""다른 수수께끼로 해볼게요.""",q6_medusa,,,,,0,0
+106698,PC,Player Character,"""Mud? That makes no sense! It isn't bright or burning!""","""진흙이요? 말도 안 돼! 밝지도 타지도 않잖아!""",q6_medusa,,,,,0,0
+106699,PC,Player Character,"""The ocean.""","""바다요.""",q6_medusa,,,,,0,0
+106700,PC,Player Character,"""Lava.""","""용암이요.""",q6_medusa,,,,,0,0
+106701,PC,Player Character,"""The sky.""","""하늘이요.""",q6_medusa,,,,,0,0
+106702,PC,Player Character,"""But lava isn't blue!""","""하지만 용암은 파랗지 않아요!""",q6_medusa,,,,,0,0
+106703,PC,Player Character,"""Sunshine.""","""햇빛이요.""",q6_medusa,,,,,0,0
+106704,PC,Player Character,"""Death.""","""죽음이요.""",q6_medusa,,,,,0,0
+106705,PC,Player Character,"""Night.""","""밤이요.""",q6_medusa,,,,,0,0
+106706,PC,Player Character,"""Enough stupid games. I'll just kill you and take the shard!""","""멍청한 게임은 이제 그만. 그냥 죽이고 조각을 가져갈게!""",q6_medusa,nw_d1_mid_evil,,,,0,0
+106707,PC,Player Character,"""Let me try one more time.""","""한 번만 더 해볼게요.""",q6_medusa,,,,,0,0
+106708,PC,Player Character,"""But you cheated! None of those riddles make sense!""","""하지만 속였잖아요! 수수께끼가 전부 말이 안 돼!""",q6_medusa,,,,,0,0
+106709,PC,Player Character,"""I'll be going now.""","""이만 가볼게요.""",q6_medusa,,,,,0,0
+106710,PC,Player Character,"""You must die, foul creature!""","""죽어야 해, 이 추악한 괴물!""",q6_medusa,,,,,0,0
+106711,PC,Player Character,"""I can't let a monster like you live."" <StartAction>Attack the medusa.</Start>","""너 같은 괴물을 살려둘 순 없어."" <StartAction>메두사를 공격한다.</Start>",q6_medusa,nw_d1_mid_evil,,,,0,0
+106712,PC,Player Character,"""Is there anything I can do to help?""","""도울 일이 있나요?""",q6_medusa,,,,,0,0
+106713,PC,Player Character,"""Maybe you should give the mirror shard to me.""","""거울 조각을 나한테 주는 게 어때요.""",q6_medusa,,,,,0,0
+106714,PC,Player Character,"""This is stupid. I don't have time for this.""","""바보같네. 이런 거 할 시간 없어.""",q6_medusa,,,,,0,0
+106715,PC,Player Character,"<StartAction>Intimidate</Start> ""Give me the mirror, or I'll end your miserable existence!""","<StartAction>[위협]</Start> ""거울 내놔, 안 그러면 네 비참한 목숨 끝장내 주지!""",q6_medusa,,,,,0,0
+106716,PC,Player Character,"<StartAction>Persuade</Start> ""You don't need a constant reminder of what you've become. You should really give the mirror up.""","<StartAction>[설득]</Start> ""자신이 뭐가 됐는지 계속 상기할 필요 없잖아. 정말 거울은 포기해야 해.""",q6_medusa,,,,,0,0
+106717,PC,Player Character,"""A game? What kind of game?""","""게임이요? 어떤 게임인데요?""",q6_medusa,,q6_medusa10-,,,0,0
+106718,PC,Player Character,"""Riddles? Please, anything but that. I HATE riddles!""","""수수께끼요? 제발, 그것만은 안 돼요. 수수께끼 진짜 싫단 말이에요!""",q6_medusa,,,,,0,0
+106719,PC,Player Character,"""And if I lose?""","""지면 어떻게 되는데요?""",q6_medusa,,,,,0,0
+106720,PC,Player Character,"""I want to ask you some questions.""","""몇 가지 물어보고 싶어요.""",q6_medusa,,,,,0,0
+106721,PC,Player Character,"""Why are you burning the books?""","""왜 책을 태우고 있어요?""",q6_medusa,,,,,0,0
+106722,PC,Player Character,"""How did a medusa end up as a librarian?""","""메두사가 어쩌다 사서가 됐어요?""",q6_medusa,,q6_talklevel0,,,0,0
+106723,PC,Player Character,"""I'm looking for pieces of a broken mirror.""","""깨진 거울 조각을 찾고 있어요.""",q6_medusa,,q6_mirror10,,,0,0

@@ -1,0 +1,22 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+106611,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q6_guard,,,,,0,0
+106612,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q6_guard,,,,,0,0
+106613,PC,Player Character,"""Can you tell me about this town?""","""이 마을에 대해 말해줄 수 있어?""",q6_guard,,,,,0,0
+106614,PC,Player Character,"""How did all you winged elves end up down here?""","""날개 달린 엘프들이 어떻게 여기까지 오게 됐어?""",q6_guard,,,,,0,0
+106615,PC,Player Character,"""Tell me about yourself.""","""네 얘기를 들려줘.""",q6_guard,,,,,0,0
+106616,PC,Player Character,"""Tell me about your wife.""","""네 아내에 대해 말해줘.""",q6_guard,,,,,0,0
+106617,PC,Player Character,"""Speaking to a medusa? That's a neat trick.""","""메두사와 대화해? 대단한 재주네.""",q6_guard,,,,,0,0
+106618,PC,Player Character,"""You spoke to her? How?""","""그녀와 말했다고? 어떻게?""",q6_guard,,,,,0,0
+106619,PC,Player Character,"""I spoke with your wife.""","""네 아내와 얘기했어.""",q6_guard,,q6_medusatalk10,,,0,0
+106620,PC,Player Character,"""Don't worry. Things will get better, someday.""","""걱정 마. 언젠가는 나아질 거야.""",q6_guard,,,,,0,0
+106621,PC,Player Character,"""What's so bad about your wife?""","""네 아내가 뭐가 그렇게 나빠?""",q6_guard,,q6_medusatalk0,,,0,0
+106622,PC,Player Character,"""Your wife is a medusa?""","""네 아내가 메두사라고?""",q6_guard,,,,,0,0
+106623,PC,Player Character,"""Your wife is dead.""","""네 아내는 죽었어.""",q6_guard,,q6_medusadead,,,0,0
+106624,PC,Player Character,"""You're better off without that snake-haired freak.""","""그 뱀머리 괴물 없는 게 더 나아.""",q6_guard,,,,,0,0
+106625,PC,Player Character,"""Hey, I'm glad she's dead. In fact, I'd kill her again if I got the chance.""","""어이, 그녀가 죽어서 기뻐. 사실 기회만 있으면 다시 죽이고 싶어.""",q6_guard,nw_d1_small_evil,,,,0,0
+106626,PC,Player Character,"""I'm sorry. This must be painful for you.""","""미안해. 힘들겠다.""",q6_guard,,,,,0,0
+106627,PC,Player Character,"""I go where I want, when I want!""","""난 내가 원할 때 원하는 곳에 가!""",q6_guard,,,,,0,0
+106628,PC,Player Character,"""Who are you?""","""넌 누구야?""",q6_guard,,,,,0,0
+106629,PC,Player Character,"""That doesn't make any sense.""","""말이 안 되는데.""",q6_guard,,,,,0,0
+106630,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q6_guard,,,,,0,0
+106631,PC,Player Character,"""I'm going in there, one way or another.""","""어떻게든 거기 들어갈 거야.""",q6_guard,,,,,0,0

@@ -1,0 +1,70 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+44886,PC,Player Character,Who are you?,누구지?,m3q02allsapp,,[지능 보통],,,0,0
+44887,PC,Player Character,Time stream? What in Faerun are you talking about?,시간의 흐름? 대체 무슨 소리야?,m3q02allsapp,,[지능 보통],,,0,0
+44888,PC,Player Character,What are you doing here?,여기서 뭘 하는 거야?,m3q02allsapp,,[지능 보통],,,0,0
+44889,PC,Player Character,I'll be going now.,이만 가볼게.,m3q02allsapp,,[지능 보통],,,0,0
+44890,PC,Player Character,A wild mage. No wonder you're talking crazy.,야생 마법학자라. 헛소리하는 것도 당연하지.,m3q02allsapp,,[지능 보통],,,0,0
+44891,PC,Player Character,"Time stream, temporal reference... What are you talking about?","시간의 흐름, 시간적 기준점... 무슨 말이야?",m3q02allsapp,,[지능 보통],,,0,0
+44892,PC,Player Character,Are you completely insane?,완전히 미친 거야?,m3q02allsapp,,[지능 보통],,,0,0
+44893,PC,Player Character,Could you just get to the point please?,본론만 말해줄래?,m3q02allsapp,,[지능 보통],,,0,0
+44894,PC,Player Character,I can't take anymore of this. I'm out of here.,더는 못 듣겠어. 나 갈게.,m3q02allsapp,,[지능 보통],,,0,0
+44895,PC,Player Character,Time travel. Right... ,시간 여행이라. 그래...,m3q02allsapp,,,,,0,0
+44896,PC,Player Character,Time sink?,시간 함몰?,m3q02allsapp,,,,,0,0
+44897,PC,Player Character,I don't really have time for this.,이럴 시간 없는데.,m3q02allsapp,,[지능 보통],,,0,0
+44898,PC,Player Character,Do you know anything about this Creator Race?,창조자 종족에 대해 아는 거 있어?,m3q02allsapp,,[지능 보통],,,0,0
+44899,PC,Player Character,Are the sun dials still working?,해시계는 아직 작동해?,m3q02allsapp,,[지능 보통],,,0,0
+44900,PC,Player Character,I'm searching for a Word of Power.,권능의 언령을 찾고 있어.,m3q02allsapp,,[지능 보통],,,0,0
+44901,PC,Player Character,Guardian golems?,수호 골렘?,m3q02allsapp,,[지능 보통],,,0,0
+44902,PC,Player Character,Will you help me?,도와줄 거야?,m3q02allsapp,,[지능 보통],,,0,0
+44903,PC,Player Character,What's the task?,무슨 일인데?,m3q02allsapp,,[지능 보통],,,0,0
+44904,PC,Player Character,"Forget it, I'm not your lackey!","됐어, 난 네 하인이 아니야!",m3q02allsapp,,[지능 보통],,,0,0
+44906,PC,Player Character,"Okay, I'll do it.","좋아, 할게.",m3q02allsapp,,[지능 보통],,,0,0
+44907,PC,Player Character,What's in this for me?,내가 얻는 건 뭐야?,m3q02allsapp,,[지능 보통],,,0,0
+44908,PC,Player Character,Why don't you do this yourself?,왜 직접 안 해?,m3q02allsapp,,[지능 보통],,,0,0
+44909,PC,Player Character,Tell me about these guardian golems.,수호 골렘에 대해 말해줘.,m3q02allsapp,,[지능 보통],,,0,0
+44910,PC,Player Character,So the Word of Power is inside the ruins?,그럼 권능의 언령이 유적 안에 있다는 거야?,m3q02allsapp,,[지능 보통],,,0,0
+44911,PC,Player Character,How do I use the sun dial?,해시계는 어떻게 써?,m3q02allsapp,,[지능 보통],,,0,0
+44912,PC,Player Character,Do you know anything about the Creator Race?,창조자 종족에 대해 아는 게 있어?,m3q02allsapp,,[지능 보통],,,0,0
+44913,PC,Player Character,I have some questions for you.,몇 가지 물어볼 게 있어.,m3q02allsapp,,[지능 보통],,,0,0
+44914,PC,Player Character,Anything else?,또 있어?,m3q02allsapp,,[지능 보통],,,0,0
+44915,PC,Player Character,"Okay, I think I got it. Anything else?","알았어, 이해했어. 또 있어?",m3q02allsapp,,[지능 보통],,,0,0
+44916,PC,Player Character,"<StartCheck>[Insight]</Start> If I can't bring anything back from the past I can't bring back the Word of Power from the vault, can I?","<StartCheck>[통찰]</Start> 과거에서 아무것도 가져올 수 없다면, 금고에서 권능의 언령도 가져올 수 없는 거잖아?",m3q02allsapp,,nw_d2_wis_intn,,,0,0
+44917,PC,Player Character,Let's recap what you told me last time.,지난번에 한 얘기 다시 정리해줘.,m3q02allsapp,,[지능 보통],,,0,0
+44918,PC,Player Character,Sounds simple.,간단하네.,m3q02allsapp,,,,,0,0
+44919,PC,Player Character [M3Q2A],What about my reward?,내 보상은?,m3q02allsapp,,m3q2allsappsck1,[M3Q2A],,0,0
+44920,PC,Player Character,"Thank you, Sapphira. You are most generous.","고마워, 사피라. 정말 후하군.",m3q02allsapp,,[지능 보통],,,0,0
+44921,PC,Player Character,"<StartCheck>[Persuade]</Start> I give you a tree that was ten thousand years in the making, and all you give me is a handful of gems?","<StartCheck>[설득]</Start> 만 년에 걸쳐 자란 나무를 줬는데, 겨우 보석 몇 개야?",m3q02allsapp,,[지능 보통],,,0,0
+44922,PC,Player Character,You better cough up something else or you'll end up dead at the foot of this tree!,다른 거 내놔. 안 그러면 이 나무 밑에서 죽을 줄 알아!,m3q02allsapp,,[지능 보통],,,0,0
+44923,PC,Player Character,Tell again what you tell before.,전에 한 말 다시 해.,m3q02allsapp,,[지능 낮음],,,0,0
+44924,PC,Player Character,Who you be?,너 누구?,m3q02allsapp,,[지능 낮음],,,0,0
+44925,PC,Player Character,What be time stream?,시간 흐름이 뭐?,m3q02allsapp,,[지능 낮음],,,0,0
+44926,PC,Player Character,What you do here?,여기서 뭐 해?,m3q02allsapp,,[지능 낮음],,,0,0
+44927,PC,Player Character,Me look for Power Word.,나 힘 말 찾아.,m3q02allsapp,,[지능 낮음],,,0,0
+44928,PC,Player Character,Me go now.,나 이제 가.,m3q02allsapp,,[지능 낮음],,,0,0
+44929,PC,Player Character [M3Q2H],Me want reward.,나 상 원해.,m3q02allsapp,,m3q2h_saprwdchkl,[M3Q2H],,0,0
+44930,PC,Player Character,Me thank you.,나 고마워.,m3q02allsapp,,[지능 낮음],,,0,0
+44931,PC,Player Character,"<StartCheck>[Persuade]</Start> Me want more! Me give big old tree. Old, old, old tree!","<StartCheck>[설득]</Start> 나 더 원해! 나 큰 오래된 나무 줬어. 오래오래오래된 나무!",m3q02allsapp,,[지능 낮음],,,0,0
+44932,PC,Player Character,Give more or me stomp you!,더 줘 안 그러면 밟아!,m3q02allsapp,,[지능 낮음],,,0,0
+44933,PC,Player Character,Wild mage? No wonder you crazy!,야생 마법학자? 미친 것도 당연!,m3q02allsapp,,[지능 낮음],,,0,0
+44934,PC,Player Character,Time stream? Temp... 'ral revnance? Me no get it.,시간 흐름? 시... 간적 기준? 나 모르겠어.,m3q02allsapp,,[지능 낮음],,,0,0
+44935,PC,Player Character,Me not want listen no more. Me go now.,나 더 듣기 싫어. 나 간다.,m3q02allsapp,,[지능 낮음],,,0,0
+44936,PC,Player Character,"You be crazy, me think.",너 미쳤어 내 생각에.,m3q02allsapp,,[지능 낮음],,,0,0
+44937,PC,Player Character,You boring. Hurry up.,너 지루해. 빨리 해.,m3q02allsapp,,[지능 낮음],,,0,0
+44938,PC,Player Character,Me not got time for this.,나 이럴 시간 없어.,m3q02allsapp,,[지능 낮음],,,0,0
+44939,PC,Player Character,What you know 'bout Creator Race?,창조자 종족 뭐 알아?,m3q02allsapp,,[지능 낮음],,,0,0
+44940,PC,Player Character,Is sun dials still working?,해시계 아직 돌아가?,m3q02allsapp,,[지능 낮음],,,0,0
+44942,PC,Player Character,What be task?,일이 뭔데?,m3q02allsapp,,[지능 낮음],,,0,0
+44943,PC,Player Character,You not boss of me! Me no do this!,너 내 보스 아냐! 나 안 해!,m3q02allsapp,,[지능 낮음],,,0,0
+44944,PC,Player Character,Me do it!,나 할게!,m3q02allsapp,,[지능 낮음],,,0,0
+44945,PC,Player Character,What me get if me do this?,나 이거 하면 뭐 받아?,m3q02allsapp,,[지능 낮음],,,0,0
+44946,PC,Player Character,Why you no do this yourself?,왜 직접 안 해?,m3q02allsapp,,[지능 낮음],,,0,0
+44947,PC,Player Character,Tell me 'bout golems.,골렘 얘기 해.,m3q02allsapp,,[지능 낮음],,,0,0
+44948,PC,Player Character,Power Word be inside crumbly buildings?,힘 말이 무너진 건물 안에 있어?,m3q02allsapp,,[지능 낮음],,,0,0
+44949,PC,Player Character,What you know 'bout Creator Race?,창조자 종족 뭐 알아?,m3q02allsapp,,[지능 낮음],,,0,0
+44950,PC,Player Character,How me use sun dial?,해시계 어떻게 써?,m3q02allsapp,,[지능 낮음],,,0,0
+44951,PC,Player Character,You need tell more at me?,나한테 더 말해야 해?,m3q02allsapp,,[지능 낮음],,,0,0
+44952,PC,Player Character,"Okay, me get it.","알았어, 나 이해했어.",m3q02allsapp,,[지능 낮음],,,0,0
+44953,PC,Player Character,Golems?,골렘?,m3q02allsapp,,[지능 낮음],,,0,0
+44954,PC,Player Character,You be help me?,나 도와줄 거야?,m3q02allsapp,,[지능 낮음],,,0,0
+60628,PC,Player Character,Me got some questions.,나 질문 있어.,m3q02allsapp,,[지능 낮음],,,0,0
+68349,PC,Player Character,Golems?,골렘?,m3q02allsapp,,,,,0,0

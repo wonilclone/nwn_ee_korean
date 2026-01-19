@@ -1,0 +1,50 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+71215,PC,Player Character,I should go.,가봐야겠어요.,q1ikatriana,,,,,0,0
+71216,PC,Player Character,Who are you?,누구시죠?,q1ikatriana,,,,,0,0
+71217,PC,Player Character,My name isn't important.,제 이름은 중요하지 않아요.,q1ikatriana,,,,,0,0
+71218,PC,Player Character,Just call me <FirstName>.,"그냥 <FirstName>이라고 불러요.",q1ikatriana,,,,,0,0
+71219,PC,Player Character,"My name is <FullName>, apprentice to Master Drogan.","제 이름은 <FullName>이에요. 드로건 스승님의 제자죠.",q1ikatriana,,,,,0,0
+71220,PC,Player Character,Mind if I ask you some questions?,몇 가지 질문해도 될까요?,q1ikatriana,,,,,0,0
+71221,PC,Player Character,You said you lead this caravan?,이 캐러밴을 이끈다고 하셨죠?,q1ikatriana,,,,,0,0
+71222,PC,Player Character,So what kind of caravan is this?,그래서 이게 어떤 종류의 캐러밴이죠?,q1ikatriana,,,,,0,0
+71223,PC,Player Character,So you must be pretty wealthy...,그럼 꽤 부유하시겠네요...,q1ikatriana,,,,,0,0
+71224,PC,Player Character,Isn't all that traveling dangerous?,그렇게 여행하는 게 위험하지 않나요?,q1ikatriana,,,,,0,0
+71225,PC,Player Character,Where are you off to next?,다음에는 어디로 가시나요?,q1ikatriana,,,,,0,0
+71226,PC,Player Character,Would it be possible to join you on the trip?,여행에 합류할 수 있을까요?,q1ikatriana,,,,,0,0
+71227,PC,Player Character,Do you have anything to sell?,팔 물건이 있나요?,q1ikatriana,,,,,0,0
+71228,PC,Player Character,Have you seen any kobolds pass by lately?,최근에 코볼트들이 지나가는 걸 봤나요?,q1ikatriana,,,,,0,0
+71229,PC,Player Character,What happened here?,여기서 무슨 일이 있었나요?,q1ikatriana,,q1i_nottoldcards,,,0,0
+71230,PC,Player Character,Maybe I could be of help to you in getting them back?,되찾는 걸 도와드릴 수 있을지도 몰라요.,q1ikatriana,,,,,0,0
+71231,PC,Player Character,I have some other questions.,다른 질문이 있어요.,q1ikatriana,,,,,0,0
+71232,PC,Player Character,"These aren't the cards you're looking for, are they?","혹시 찾으시는 카드가 이건 아니죠, 그렇죠?",q1ikatriana,,con_katriana_2,,,0,0
+71233,PC,Player Character,Does anyone know where those kobolds went?,그 코볼트들이 어디로 갔는지 아는 사람 있나요?,q1ikatriana,,,,,0,0
+71234,PC,Player Character,What's so important about some cards?,카드 몇 장이 뭐가 그렇게 중요하죠?,q1ikatriana,,,,,0,0
+71235,PC,Player Character,Who is this Daschnaya?,다슈냐가 누구죠?,q1ikatriana,,,,,0,0
+71236,PC,Player Character,You mean these cards?,이 카드 말인가요?,q1ikatriana,,con_katriana_2,,,0,0
+71237,PC,Player Character,I was just hoping I might be of service to such a pretty halfling lass.,이렇게 예쁜 하플링 아가씨를 도와드릴 수 있기를 바랐을 뿐이에요.,q1ikatriana,,nw_d2_male,,,0,0
+71238,PC,Player Character,Are these cards yours?,이 카드들이 당신 거예요?,q1ikatriana,,con_katriana_2,,,0,0
+71239,PC,Player Character,I'll go find her now.,지금 그녀를 찾아갈게요.,q1ikatriana,,,,,0,0
+71240,PC,Player Character,What do you mean by 'reading'?,'읽기'가 무슨 뜻이죠?,q1ikatriana,,,,,0,0
+71241,PC,Player Character,I don't believe in any of that.,그런 건 믿지 않아요.,q1ikatriana,,,,,0,0
+71242,PC,Player Character,And she didn't tell you about the kobold attack?,그러면 그녀가 코볼트 습격에 대해서는 말 안 했나요?,q1ikatriana,,,,,0,0
+71243,PC,Player Character,Maybe she should have foreseen she'd lose her cards.,카드를 잃어버릴 거라는 것도 예견했어야 하는 거 아니에요?,q1ikatriana,,,,,0,0
+71244,PC,Player Character,I was expecting a reward.,보상을 기대했는데요.,q1ikatriana,,,,,0,0
+71245,PC,Player Character,Where is this wagon of hers?,그녀의 마차가 어디 있죠?,q1ikatriana,,,,,0,0
+71246,PC,Player Character,Why not see a cleric? A few healing spells and they'd be fine.,성직자를 왜 안 보죠? 치유 주문 몇 개면 괜찮아질 텐데.,q1ikatriana,,,,,0,0
+71247,PC,Player Character,"I can help heal your men, if you like.",원하시면 부하들을 치료해 드릴 수 있어요.,q1ikatriana,,q1i_pcishealer,,,0,0
+71248,PC,Player Character,As you wish.,원하시는 대로요.,q1ikatriana,,,,,0,0
+71249,PC,Player Character,That seems like a stubborn attitude.,고집스러운 태도 같은데요.,q1ikatriana,,,,,0,0
+71250,PC,Player Character,"If you'd rather your men died, that's up to you.","부하들이 죽는 게 낫다면, 그건 당신 선택이에요.",q1ikatriana,,,,,0,0
+71251,PC,Player Character,"Really, it's no trouble. You don't need to repay me.","정말로, 문제없어요. 갚을 필요 없어요.",q1ikatriana,,,,,0,0
+71252,PC,Player Character,Your mates? All these men are your husbands?,동료요? 이 남자들이 전부 남편이에요?,q1ikatriana,,,,,0,0
+71253,PC,Player Character,Who said I was looking for them?,누가 그들을 찾고 있다고 했죠?,q1ikatriana,,,,,0,0
+71254,PC,Player Character,"No, I haven't found them.","아니요, 못 찾았어요.",q1ikatriana,,,,,0,0
+71255,PC,Player Character,Are these the cards you're looking for?,찾으시는 카드가 이건가요?,q1ikatriana,,con_katriana_2,,,0,0
+71256,PC,Player Character,You're indebted to me whether you like it or not!,싫든 좋든 당신은 저한테 빚진 거예요!,q1ikatriana,,,,,0,0
+71257,PC,Player Character,Well excuse me for offering a hand.,도움을 주겠다는데 실례가 됐군요.,q1ikatriana,,,,,0,0
+71258,PC,Player Character,I didn't ask you for anything... I was just trying to help.,아무것도 요구한 적 없어요... 그냥 도와주려고 한 거예요.,q1ikatriana,,,,,0,0
+71259,PC,Player Character,"I could heal them, too, if you like.","원하시면 그들도 치료해 드릴 수 있어요.",q1ikatriana,,,,,0,0
+71260,PC,Player Character,Who are you?,누구시죠?,q1ikatriana,,q1i_katfirst,,,0,0
+71261,PC,Player Character,Not just yet.,아직은요.,q1ikatriana,,,,,0,0
+71262,PC,Player Character,"Yes, I'm ready to go now.","네, 지금 갈 준비됐어요.",q1ikatriana,,,,,0,0
+71263,PC,Player Character,Wait... are these cards yours?,잠깐... 이 카드들이 당신 거예요?,q1ikatriana,,con_katriana_2,,,0,0

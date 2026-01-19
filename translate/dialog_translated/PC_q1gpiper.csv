@@ -1,0 +1,44 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70708,PC,Player Character,Right. Goodbye.,알겠어. 잘 가.,q1gpiper,,,,,0,0
+70709,PC,Player Character,I could use a good laugh. Tell me about this 'god'. ,좀 웃기는 얘기가 듣고 싶어. 그 '신'에 대해 말해줘.,q1gpiper,,,,,0,0
+70710,PC,Player Character,Tell me more about this new god.,이 새로운 신에 대해 더 말해줘.,q1gpiper,,,,,0,0
+70711,PC,Player Character,Maybe I should collect the gold for the new god.,내가 그 새로운 신을 위해 금을 모아야 할까.,q1gpiper,,,,,0,0
+70712,PC,Player Character,You are going to cause more panic with such stories.,그런 이야기는 공포만 더 퍼뜨릴 뿐이야.,q1gpiper,,,,,0,0
+70713,PC,Player Character,You should not spread such blasphemy.,그런 신성모독을 퍼뜨리면 안 돼.,q1gpiper,,,,,0,0
+70714,PC,Player Character,Did one of the kobolds hit you in the head?,코볼트 중 하나가 머리를 때렸어?,q1gpiper,act_q1bpiper_8,,,,0,0
+70715,PC,Player Character,"What are you trying to do, old man?","뭘 하려는 거야, 영감?",q1gpiper,,,,,0,0
+70716,PC,Player Character,"I need to speak to you in private, on behalf of the mayor.",시장님을 대신해서 따로 이야기해야 해.,q1gpiper,,con_piper_1,,,0,0
+70717,PC,Player Character,I want nothing more to do with you.,당신과 더 이상 상관하기 싫어.,q1gpiper,,,,,0,0
+70718,PC,Player Character,You can leave Hilltop or the next god you see will be in hell!,힐탑을 떠나거나 다음에 볼 신은 지옥에서 보게 될 거야!,q1gpiper,,,,,0,0
+70719,PC,Player Character,Leave or die.,떠나거나 죽거나.,q1gpiper,,,,,0,0
+70720,PC,Player Character,<StartCheck>[Persuade]</Start> I think you have done all you can for Hilltop. Others need to be warned.,<StartCheck>[설득]</Start> 힐탑을 위해 할 수 있는 건 다 한 것 같아. 다른 사람들도 경고받아야 해.,q1gpiper,,con_piper_7,,,0,0
+70721,PC,Player Character,"So many people live in Waterdeep, surely some of them are worthy of saving.","워터딥에 사람이 정말 많잖아, 분명 구원받을 가치가 있는 사람도 있을 거야.",q1gpiper,,,,,0,0
+70722,PC,Player Character,Neverwinter always has troubles. Perhaps they need your wisdom.,네버윈터는 늘 문제가 있어. 아마 당신의 지혜가 필요할 거야.,q1gpiper,,,,,0,0
+70723,PC,Player Character,Silverymoon is not so far away. I hear they believe almost anything there.,실버리문은 그렇게 멀지 않아. 거기선 뭐든 믿는다던데.,q1gpiper,,,,,0,0
+70724,PC,Player Character,<StartCheck>[Persuade]</Start> The gods will provide for one as righteous as you.,<StartCheck>[설득]</Start> 신들이 당신처럼 의로운 사람은 돌봐주실 거야.,q1gpiper,,,,,0,0
+70725,PC,Player Character,"I will give you ten gold, which should help you on your way.","금화 10개를 줄게, 여행에 도움이 될 거야.",q1gpiper,act_q1bpiper_4,con_piper_3,,,0,0
+70726,PC,Player Character,I think you have been confused by the kobold attack.,코볼트 습격 때문에 혼란스러워진 것 같아.,q1gpiper,,,,,0,0
+70727,PC,Player Character,Hol died because he was in the wrong place at the wrong time. It was coincidence.,홀은 때와 장소가 안 좋았을 뿐이야. 우연이었어.,q1gpiper,,,,,0,0
+70728,PC,Player Character,How can you people believe such nonsense?,어떻게 그런 헛소리를 믿을 수 있어?,q1gpiper,,,,,0,0
+70729,PC,Player Character,Why would a god of good defile a corpse in such a way?,선한 신이 왜 그런 식으로 시체를 모독하겠어?,q1gpiper,,,,,0,0
+70730,PC,Player Character,"Maybe you killed him, Piper!","어쩌면 당신이 죽인 거 아니야, 파이퍼!",q1gpiper,,,,,0,0
+70731,PC,Player Character,You must stop this foolishness now.,지금 당장 이 어리석은 짓을 멈춰야 해.,q1gpiper,,,,,0,0
+70732,PC,Player Character,Did any of the other corpses have such wounds? ,다른 시체들에도 그런 상처가 있었어?,q1gpiper,,,,,0,0
+70733,PC,Player Character,That is strange. Did any of the other corpses have such wounds?,이상하네. 다른 시체들에도 그런 상처가 있었어?,q1gpiper,,,,,0,0
+70734,PC,Player Character,"You killed him, Piper, so I shall kill you!","당신이 그를 죽였어, 파이퍼, 그러니 내가 당신을 죽이겠어!",q1gpiper,,,,,0,0
+70735,PC,Player Character,"Tell us what truly happened, old man! ","정말 무슨 일이 있었는지 말해, 영감!",q1gpiper,,,,,0,0
+70736,PC,Player Character,"You killed him, didn't you? ","당신이 그를 죽였지?",q1gpiper,,,,,0,0
+70737,PC,Player Character,"Did you have anything to do with his death, Piper? ","그의 죽음과 관련이 있어, 파이퍼?",q1gpiper,,,,,0,0
+70738,PC,Player Character,You have made many predictions in the past that weren't true.,예전에도 틀린 예언 많이 했잖아.,q1gpiper,,,,,0,0
+70739,PC,Player Character,What it needs is another corpse; maybe yours!,필요한 건 시체 하나 더야; 어쩌면 당신 거일지도!,q1gpiper,,,,,0,0
+70740,PC,Player Character,"There is need for you in this village, but you go about it all wrong.","이 마을에 당신이 필요하긴 한데, 접근법이 완전히 잘못됐어.",q1gpiper,,,,,0,0
+70741,PC,Player Character,"What if I helped you, so you could protect the town?","내가 도와주면, 마을을 지킬 수 있을까?",q1gpiper,,,,,0,0
+70742,PC,Player Character,If I get your sword back will you stop ranting about this new god?,검을 되찾아주면 이 새로운 신에 대한 헛소리를 멈출 거야?,q1gpiper,,,,,0,0
+70743,PC,Player Character,It was luck and that is all. You were bound to get one right eventually.,그냥 운이었을 뿐이야. 언젠가 하나쯤은 맞히게 돼 있었어.,q1gpiper,,,,,0,0
+70744,PC,Player Character,Perhaps we should try something else?,다른 방법을 시도해 볼까?,q1gpiper,,,,,0,0
+70745,PC,Player Character,Don't you think the local priest would know if there was a new god?,새로운 신이 있다면 지역 사제가 알 거라고 생각하지 않아?,q1gpiper,,,,,0,0
+70746,PC,Player Character,Maybe I can explain a different way. ,다른 방식으로 설명해 볼게.,q1gpiper,,,,,0,0
+70747,PC,Player Character,"The kobolds were thieves, sent to steal artifacts from Drogan's school.","코볼트들은 도둑이었어, 드로건의 학교에서 유물을 훔치려고 보내진 거야.",q1gpiper,,,,,0,0
+70748,PC,Player Character,"Well, this is getting us nowhere.","뭐, 이래봤자 소용없겠네.",q1gpiper,,,,,0,0
+70749,PC,Player Character,Goodbye.,잘 가.,q1gpiper,,,,,0,0
+70750,PC,Player Character,I have your sword.,당신 검을 갖고 왔어.,q1gpiper,,con_q1bpiper_1,,,0,0

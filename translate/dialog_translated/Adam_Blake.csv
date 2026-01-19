@@ -1,0 +1,32 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+70801,Creature,Adam Blake,"Your powers have saved me, <FirstName>.","네 힘이 날 살렸어, <FirstName>.",Q1HBLAKE,,,,,0,0
+70802,Creature,Adam Blake,Oh... uh... help me. I feel so weak...,어... 제발... 도와줘. 너무 힘들어...,Q1HBLAKE,,,,,0,0
+70803,Creature,Adam Blake,"Thank god you've come, <FirstName>.  Please...Tynan is upstairs and I saw a kobold go up there too.","오, 신께 감사드려... <FirstName>. 부탁이야... 타이난은 위층에 있어. 코볼트가 올라가는 걸 봤어.",Q1HBLAKE,act_q1hblake_11,,,,0,0
+70804,Creature,Adam Blake,Aaarrrgghhh!,으아아악!,Q1HBLAKE,act_q1hblake_6,,,,0,0
+70807,Creature,Adam Blake,"Ohh, the pain!","아앗, 아파!",Q1HBLAKE,act_q1hblake_5,,,,0,0
+70808,Creature,Adam Blake,Your powers have saved me...,당신의 힘이... 나를 살렸습니다...,Q1HBLAKE,,,,,0,0
+70809,Creature,Adam Blake,"Ohhh, thank you, that's much better.",아아... 고맙습니다. 훨씬 나아졌네요.,Q1HBLAKE,,,,,0,0
+70810,Creature,Adam Blake,<StartAction>[He drinks the potion.]</Start>,<StartAction>[그가 물약을 마십니다.]</Start>,Q1HBLAKE,act_q1hblake_1,,,,0,0
+70811,Creature,Adam Blake,"Thank you, <FirstName>, that feels much better.  We should hurry, if we are to save Tynan.","고맙습니다, <FirstName>. 이제 정말 한결 낫습니다. 타이난을 구하려면 서둘러야 합니다.",Q1HBLAKE,act_q1hblake_7,,,,0,0
+70812,Creature,Adam Blake,Quickly... please!,빨리요... 제발!,Q1HBLAKE,,,,,0,0
+70813,Creature,Adam Blake,Hello <FirstName>. Is... is Tynan alive still? Did you... kill the kobold?,"안녕하세요, <FirstName>. 저... 저 타이난은 아직 살아 있나요? 혹시... 코볼트를 처치하셨나요?",Q1HBLAKE,,,,,0,0
+70814,Creature,Adam Blake,"<StartAction>[sob]</Start> Poor Tynan, butchered before he even had a chance to live. And sweet Nora, how will she recover from this?",<StartAction>[훌쩍]</Start> 불쌍한 타이난... 세상 구경도 못 하고 참혹하게 살해당했어요. 착한 노라는... 이 일을 어떻게 견딜까요?,Q1HBLAKE,,,,,0,0
+70815,Creature,Adam Blake,I... I do not know how to tell her. I... I must go upstairs and wrap Tynan's little corpse. I do not want Nora to see him like this.,저... 뭐라고 말해야 할지 모르겠어요. 위층에 올라가서... 타이난의 작은 시신을 수습해야겠어요. 노라가 이런 모습을 보게 하고 싶지 않아요.,Q1HBLAKE,,,,,0,0
+70816,Creature,Adam Blake,I... cannot hold him. I am too... weak. Please... please take him out to Nora... and tell her... I... I loved her.,저는... 안아 들 수가 없어요. 너무... 힘이 없어서요. 제발... 아이를 노라에게 데려다 주시고... 전해 주세요... 제가... 그 사람을 사랑했다고.,Q1HBLAKE,act_q1blake_1,,,,0,0
+70817,Creature,Adam Blake,"Yes, I was collecting our valuables downstairs when I was attacked.  Here, take this.","네, 아래층에서 귀중품을 모으고 있을 때 습격을 받았습니다. 이걸... 가져가세요.",Q1HBLAKE,act_q1hblake_8,,,,0,0
+70818,Creature,Adam Blake,We need to hurry if we are to stand a chance.,우리가 살아남으려면 서둘러야 합니다.,Q1HBLAKE,,,,,0,0
+70819,Creature,Adam Blake,Thank you for rescuing my child. I will stay here and take care of him. Would you please go and tell my wife?,아이를 구해 주셔서 감사합니다. 저는 여기 남아 아이를 돌보겠습니다. 제 아내에게 가서 알려 주시겠어요?,Q1HBLAKE,,,,,0,0
+70820,Creature,Adam Blake,But... but why would you do that? I can take care of Tynan.,그... 그런데 왜 그러시죠? 타이난은 제가 돌볼 수 있어요.,Q1HBLAKE,,,,,0,0
+70821,Creature,Adam Blake,"I cannot let you do that, <FirstName>. I have heard rumors that you have a dark nature, and I cannot let you take my child. Now give him back or I will have to kill you.","그건 안 됩니다, <FirstName>. 당신에게 어두운 성향이 있다는 소문을 들었어요. 제 아이를 데려가게 둘 수 없어요. 당장 아이를 돌려주세요. 그렇지 않으면... 싸워야 합니다.",Q1HBLAKE,,,,,0,0
+70822,Creature,Adam Blake,"Then die, foul fiend!","그렇다면 죽어라, 사악한 괴물아!",Q1HBLAKE,nw_d1_attonend02,,,,0,0
+70823,Creature,Adam Blake,Thank you. Now please go tell my wife her son and husband are safe.,고맙습니다. 이제 제 아내에게-아들과 남편이 무사하다고-꼭 전해 주세요.,Q1HBLAKE,act_q1hblake_9,,,,0,0
+70824,Creature,Adam Blake,I would feel more comfortable if you just give my baby back. I do not want him taken outside right now. Not when there might be more kobolds on the loose.,아이를 그냥 돌려주시는 게 마음이 놓입니다. 아직 밖으로 데려가고 싶지 않아요. 어디에 코볼트가 더 있을지 모르니까요.,Q1HBLAKE,,,,,0,0
+70825,Creature,Adam Blake,Thank you. You are a kind soul.,정말 감사합니다. 당신은 참... 따뜻한 분이네요.,Q1HBLAKE,act_q1hblake_9,,,,0,0
+70826,Creature,Adam Blake,"Thank you for all that you have done for us, <FirstName>. I am very grateful.","우리를 위해 애써 주셔서 고맙습니다, <FirstName>. 진심으로 감사드립니다.",Q1HBLAKE,,,,,0,0
+70917,Creature,Adam Blake,"Someone stole the gem I had. Do you have one, <FirstName>? I swear I will pay you back, someday.","누군가 제 보석을 훔쳐 갔어요. <FirstName>, 혹시 가지고 계신가요? 언젠가 꼭 갚겠습니다. 맹세해요.",Q1HBLAKE,,,,,0,0
+70919,Creature,Adam Blake,"<StartCheck>[Failure]</Start> <FirstName>, I saw you take it, but I did not want to say anything, because I needed your help!","<StartCheck>[실패]</Start> <FirstName>, 당신이 가져가는 걸 봤습니다. 하지만 도움이 필요해서... 차마 말하지 못했어요!",Q1HBLAKE,,,,,0,0
+70920,Creature,Adam Blake,"<StartCheck>[Success]</Start> Then I fear my child is doomed. Kobold, would you allow my friend here to go and look for a gem?","<StartCheck>[성공]</Start> 그렇다면 제 아이는 끝장입니다. 코볼트여, 여기 제 친구가 보석을 구하러 가도록 허락해 주겠나?",Q1HBLAKE,,,,,0,0
+70922,Creature,Adam Blake,"We have no choice, <FirstName>. Please, just trade it to the kobold for my child!","다른 선택이 없어요, <FirstName>. 제발 그 보석을 코볼트에게 주고 아이를 되찾아 주세요!",Q1HBLAKE,,,,,0,0
+70923,Creature,Adam Blake,"I have a gem. If I give it to you, do you promise to give my son back?",제게 보석이 있어요. 이걸 드리면... 제 아들을 돌려주겠다고 약속하겠습니까?,Q1HBLAKE,,,,,0,0
+70925,Creature,Adam Blake,"There, now give my son back.","좋아, 이제 약속대로 제 아들을 돌려주세요.",Q1HBLAKE,,,,,0,0
+74950,Creature,Adam Blake,Adam,아담,Q1HBLAKE,,,,,0,0

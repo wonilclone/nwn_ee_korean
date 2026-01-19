@@ -1,0 +1,46 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+30673,PC,Player Character,"Why all this deceit, ""Black Wolf?"" What was in it for you?","왜 이런 속임수를 쓰는 거요, ""검은 늑대""? 뭘 얻으려고 하는 거죠?",m2q1a03alhlr,,[지능 보통],,,0,0
+30674,PC,Player Character,"Trickery! Prepare to die, Black Wolf!","속임수였군! 죽을 준비해라, 검은 늑대!",m2q1a03alhlr,,[지능 보통],,,0,0
+30675,PC,Player Character [M2Q1A],"Care to barter for your life, betrayer?","목숨을 두고 협상하고 싶소, 배신자?",m2q1a03alhlr,,m2q1alhlrdealn,[M2Q1A],,0,0
+30676,PC,Player Character,"<StartCheck>[Insight]</Start> If you're the Black Wolf, why did you run that store?","<StartCheck>[통찰]</Start> 당신이 검은 늑대라면, 왜 그 가게를 운영한 거죠?",m2q1a03alhlr,,nw_d2_wis_intn,,,0,0
+30677,PC,Player Character,Black Wolf is big liar! How come?,검은 늑대는 큰 거짓말쟁이! 왜 그래?,m2q1a03alhlr,,[매력 중간/지능 낮음],,,0,0
+30678,PC,Player Character [M2Q1A],"Me no kill you. We make deal, yuh?","나 너 안 죽여. 우리 거래해, 응?",m2q1a03alhlr,,m2q1alhlrdeall,[M2Q1A],,0,0
+30679,PC,Player Character,"You die now, Black Wolf!","너 이제 죽어, 검은 늑대!",m2q1a03alhlr,,[지능 낮음],,,0,0
+30680,PC,Player Character,That sounds fair.,공정하게 들리네요.,m2q1a03alhlr,nw_d1_high_evil,[지능 보통],,,0,0
+30681,PC,Player Character,"Sorry, I'm not interested.","미안하지만, 관심 없어요.",m2q1a03alhlr,,[지능 보통],,,0,0
+30682,PC,Player Character,"Yuh, that sound good.","그래, 괜찮게 들려.",m2q1a03alhlr,nw_d1_high_evil,[지능 낮음],,,0,0
+30683,PC,Player Character,"Ha! Me change mind, wolfy... ","하! 나 마음 바꿨어, 늑대야...",m2q1a03alhlr,,[지능 낮음],,,0,0
+30684,PC,Player Character,Can I buy some anti-lycanthropic goods from you?,대 야수인간 물품을 좀 살 수 있을까요?,m2q1a03alhlr,,[지능 보통],,,0,0
+30685,PC,Player Character,Me wants buying some anti - um... anti... goods.,나 대... 음... 대... 물건 사고 싶어.,m2q1a03alhlr,,[지능 낮음],,,0,0
+30686,PC,Player Character,I would like to ask you a few questions.,질문 좀 하고 싶어요.,m2q1a03alhlr,,[지능 보통],,,0,0
+30687,PC,Player Character,"Me wants ask some stuff, yeah.",나 질문 하고 싶어.,m2q1a03alhlr,,[지능 낮음],,,0,0
+30688,PC,Player Character,Anti-lycanthropic goods? Is that what you sell here?,대 야수인간 물품이요? 그게 여기서 파는 거예요?,m2q1a03alhlr,,[지능 보통],,,0,0
+30689,PC,Player Character,What means you an-ti-ly-can... um... ? You sell that?,무슨 뜻이야 대-야-수-인-간... 음... ? 너 그거 팔아?,m2q1a03alhlr,,[지능 낮음],,,0,0
+30690,PC,Player Character,Goodbye.,안녕.,m2q1a03alhlr,,,,,0,0
+30691,PC,Player Character,Why are you so dedicated to eradicating werewolves?,왜 그렇게 늑대인간을 근절하는 데 전념하는 거죠?,m2q1a03alhlr,,[지능 보통],,,0,0
+30692,PC,Player Character,Why you want all werewolves slain?,너 왜 늑대인간 다 죽이고 싶어해?,m2q1a03alhlr,,[지능 낮음],,,0,0
+30693,PC,Player Character,<StartCheck>[Insight]</Start> But why would you focus on werewolves alone?,<StartCheck>[통찰]</Start> 그런데 왜 늑대인간만 집중하는 거죠?,m2q1a03alhlr,,nw_d2_wis_intn,,,0,0
+30694,PC,Player Character [M2Q1A03],<StartCheck>[Persuade]</Start> I'd know if your goods worked well with a free sample.,<StartCheck>[설득]</Start> 무료 샘플이 있으면 물품이 잘 작동하는지 알 텐데요.,m2q1a03alhlr,m2q1a03alhlrslc1,m2q1a03alhlrglc1,[M2Q1A03],,0,0
+30695,PC,Player Character [M2Q1A03],"<StartCheck>[Persuade]</Start> Me gets one free, see if goods is okay?",<StartCheck>[설득]</Start> 나 하나 공짜로 받아서 물건 괜찮은지 봐볼게?,m2q1a03alhlr,m2q1a03alhlrslc1,m2q1a03alhlrglc2,[M2Q1A03],,0,0
+30696,PC,Player Character,Have you any jobs that I might perform?,제가 할 수 있는 일이 있나요?,m2q1a03alhlr,,[지능 보통],,,0,0
+30697,PC,Player Character,Me wonders if you can hire me for stuff.,나 일 하고 싶어. 너 나한테 일 줄 수 있어?,m2q1a03alhlr,,[지능 낮음],,,0,0
+30698,PC,Player Character,Perhaps you could help me with directions.,길 좀 알려주실 수 있을 것 같은데요.,m2q1a03alhlr,,[지능 보통],,,0,0
+30699,PC,Player Character,Me is needing for directions to place.,나 길 물어보고 싶어.,m2q1a03alhlr,,[지능 낮음],,,0,0
+30700,PC,Player Character,Do you know of any rumors in town?,마을에 무슨 소문 들은 거 있어요?,m2q1a03alhlr,,[지능 보통],,,0,0
+30701,PC,Player Character,You listens for rumors? ,너 소문 들었어?,m2q1a03alhlr,,[지능 낮음],,,0,0
+30702,PC,Player Character,Can I ask about that expedition? About Sir Karathis?,그 원정대에 대해 물어봐도 될까요? 카라디스 경에 대해서요?,m2q1a03alhlr,,[지능 보통],,,0,0
+30703,PC,Player Character,Me wants knowing about Ander and werewolf and Sir Karathis.,나 앤더랑 늑대인간이랑 카라디스 경에 대해 알고 싶어.,m2q1a03alhlr,,[지능 낮음],,,0,0
+30704,PC,Player Character [M2Q1A03],Neurik sent me here to get some equipment.,뉴릭이 저를 여기 보내서 장비 좀 얻으라고 했어요.,m2q1a03alhlr,,m2q1a03alhlrsc1,[M2Q1A03],,0,0
+30705,PC,Player Character [M2Q1A03],Me comes from Neurik to get wolfies.,나 뉴릭한테서 와서 늑대 물건 받으러 왔어.,m2q1a03alhlr,,m2q1a03alhlrsc2,[M2Q1A03],,0,0
+30706,PC,Player Character,Let me ask about something different.,다른 걸 물어볼게요.,m2q1a03alhlr,,[지능 보통],,,0,0
+30707,PC,Player Character,Me wants asking different thing.,나 다른 거 물어보고 싶어.,m2q1a03alhlr,,[지능 낮음],,,0,0
+30708,PC,Player Character,Can you remind me of this?,이거 다시 알려주실 수 있어요?,m2q1a03alhlr,,[지능 보통],,,0,0
+30709,PC,Player Character,Me needs remembering again.,나 다시 기억하고 싶어.,m2q1a03alhlr,,[지능 낮음],,,0,0
+30710,PC,Player Character,Tell me what you know of this Black Wolf.,이 검은 늑대에 대해 아는 걸 말해 주세요.,m2q1a03alhlr,,[지능 보통],,,0,0
+30711,PC,Player Character,What you knows about Blacks Wolf?,너 검은 늑대 뭐 알아?,m2q1a03alhlr,,[지능 낮음],,,0,0
+58691,PC,Player Character,"Yeah, show me what you gots.","그래, 뭐 있는지 보여줘.",m2q1a03alhlr,,[지능 낮음],,,0,0
+58692,PC,Player Character,"Yes, show me what you have.","네, 뭐가 있는지 보여주세요.",m2q1a03alhlr,,[지능 보통],,,0,0
+58693,PC,Player Character,Me wants know mores about encounter.,나 조우에 대해 더 알고 싶어.,m2q1a03alhlr,,[지능 낮음],,,0,0
+58694,PC,Player Character,I'd like to hear more about this encounter.,그 조우에 대해 더 듣고 싶어요.,m2q1a03alhlr,,[지능 보통],,,0,0
+58695,PC,Player Character,"How is you part of story, huh?",너 이 이야기에 어떻게 관련돼 있어?,m2q1a03alhlr,,[지능 낮음],,,0,0
+58696,PC,Player Character,How are you involved in all this?,당신은 이 모든 일에 어떻게 연루된 거죠?,m2q1a03alhlr,,[지능 보통],,,0,0

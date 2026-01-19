@@ -1,0 +1,21 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+3103,Creature,Rat,Rat,쥐,AC_SMALLRAT|EREMUTHRAT|NW_CREATURE_000|NW_RAT001|NW_RAT002|Q1RUMGUTRAT|Q2A1_RAT|Q2CRAT|Q2DRAT,,,,,0,0
+71289,Creature,Rat,The rat quivers in fear at your approach.,쥐가 당신의 접근에 두려움으로 떨고 있습니다.,Q1RUMGUTRAT,,,,,0,0
+71290,Creature,Rat,"The rat appears to be shocked at your presence in its mind. You feel the quiet, safe darkness of the passage which the rat calls home.",쥐는 당신이 자신의 정신 속에 있다는 것에 충격을 받은 것 같습니다. 쥐가 집이라 부르는 통로의 조용하고 안전한 어둠이 느껴집니다.,Q1RUMGUTRAT,,,,,0,0
+71291,Creature,Rat,"Although the passage is quite large, the rat has lived there many years and feels quite comfortable. The rat worries that you are here to steal food from the giant as well.","통로가 꽤 넓지만, 쥐는 그곳에서 여러 해 동안 살았고 아주 편안하게 느끼고 있습니다. 쥐는 당신이 거인의 먹이를 훔치러 온 게 아닐까 걱정하고 있습니다.",Q1RUMGUTRAT,,,,,0,0
+71292,Creature,Rat,"Finally, he scurries off in the never-ending quest for food.","마침내, 쥐는 끝없는 먹이 탐색을 위해 종종걸음으로 사라집니다.",Q1RUMGUTRAT,act_rumrat_1,,,,0,0
+94423,Creature,Rat,squeak... squeak...,찍찍... 찍찍...,Q2CRAT,,,,,0,0
+94424,Creature,Rat,"Instead of scampering away at your approach, this rat stands its ground and regards you with a brazen courage. It is obviously well fed.","당신의 접근에 도망가는 대신, 이 쥐는 자리를 지키며 뻔뻔한 용기로 당신을 바라봅니다. 확실히 잘 먹고 지낸 것 같습니다.",Q2CRAT,,,,,0,0
+94425,Creature,Rat,"Images of dark figures and dead bodies flash through your mind, along with faint memories of other creatures the rat finds far less pleasant.","어두운 인물들과 시체들의 이미지가 정신 속을 스쳐가고, 쥐가 훨씬 더 불쾌하게 여기는 다른 생명체들에 대한 희미한 기억이 함께 떠오릅니다.",Q2CRAT,,,,,0,0
+94426,Creature,Rat,The rat returns to scavenging for food.,쥐가 먹이를 찾아 뒤지러 돌아갑니다.,Q2CRAT,,,,,0,0
+94427,Creature,Rat,"You sense an instinctual panic in the rat. You see whiskers, a tail, a swiftly striking cat's paw. Before the image vanishes, you get a final glimpse of the feline hunters walking upright.","쥐의 본능적인 공포가 느껴집니다. 수염, 꼬리, 재빠르게 내려치는 고양이 발톱이 보입니다. 이미지가 사라지기 전, 직립보행하는 고양이과 사냥꾼들의 모습이 마지막으로 스쳐 지나갑니다.",Q2CRAT,,,,,0,0
+94428,Creature,Rat,"You see an image of a hobgoblin corpse swarmed by eager rats, each pushing and shoving to get their share before the bones are picked clean.",홉고블린 시체 위로 열심히 모여드는 쥐들의 이미지가 보입니다. 뼈가 깨끗이 발라지기 전에 자신의 몫을 얻으려고 서로 밀치고 떠밉니다.,Q2CRAT,,,,,0,0
+94429,Creature,Rat,"Your mind seizes on the image of a drow war party moving through the dungeon, slaughtering all they come across as the rats watch from the shadows.",드로우 전투 부대가 지하 감옥을 지나가며 눈에 띄는 모든 것을 학살하는 이미지에 정신이 사로잡힙니다. 쥐들은 그림자 속에서 지켜보고 있습니다.,Q2CRAT,,,,,0,0
+94430,Creature,Rat,"You see the drow move on, leaving a pile of mutilated bodies in their wake. The rat rushes forward with its brethren to feast on the remains.","드로우들이 떠나가고, 난도질된 시체 더미를 남긴 것이 보입니다. 쥐가 동료들과 함께 달려가 잔해를 먹어치웁니다.",Q2CRAT,,,,,0,0
+94558,Creature,Rat,squeak... squeak...,찍찍... 찍찍...,Q2DRAT,,,,,0,0
+94559,Creature,Rat,"The rat scuttles back and forth in front of you, obviously wary.",쥐가 당신 앞에서 이리저리 종종걸음으로 움직이며 확실히 경계하고 있습니다.,Q2DRAT,,,,,0,0
+94560,Creature,Rat,Images of enourmous insects prowling the corridors meld with images of flight and escape through hidden passages.,복도를 배회하는 거대한 벌레들의 이미지가 숨겨진 통로를 통한 도주와 탈출의 이미지와 뒤섞입니다.,Q2DRAT,,,,,0,0
+94561,Creature,Rat,The rat scurries off.,쥐가 급히 달려갑니다.,Q2DRAT,,,,,0,0
+94562,Creature,Rat,You see an image of the rat fleeing from a large drow army marching across a bridge. The rat scampers away down a narrow passage to the north of the bridge until it comes to an apparent dead end.,다리를 건너가는 대규모 드로우 군대로부터 도망가는 쥐의 이미지가 보입니다. 쥐는 다리 북쪽의 좁은 통로를 따라 종종걸음으로 달려가 막다른 곳에 이릅니다.,Q2DRAT,,,,,0,0
+94563,Creature,Rat,"The rat sniffs at the stone wall before it for a brief second, then darts through a small crack in an otherwise hidden door.","쥐가 잠시 앞의 돌벽을 킁킁거리다가, 숨겨진 문의 작은 틈새를 통해 쏜살같이 빠져나갑니다.",Q2DRAT,,,,,0,0
+94564,Creature,Rat,You see an enormous colony of ant-like creatures located somewhere to the west of here.,여기서 서쪽 어딘가에 개미 같은 생명체들의 거대한 군락이 있는 것이 보입니다.,Q2DRAT,,,,,0,0

@@ -1,0 +1,22 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+64125,PC,Player Character,Bye then.,그럼 안녕.,m1q1a05s1m1,,[지능 낮음],,,0,0
+64126,PC,Player Character,Farewell.,잘 있어.,m1q1a05s1m1,,[지능 보통],,,0,0
+64127,PC,Player Character,Me ask you some stuff?,나 질문 좀 해도 돼?,m1q1a05s1m1,,[지능 낮음],,,0,0
+64128,PC,Player Character,Can I ask you some questions?,질문 좀 해도 돼?,m1q1a05s1m1,,[지능 보통],,,0,0
+64129,PC,Player Character,"Yeah, yous too busy scaring animals and kids.","그래, 너 동물들이랑 애들 겁주는 데 바빠.",m1q1a05s1m1,,[지능 낮음],,,0,0
+64130,PC,Player Character,"Yes, I see. Too busy scaring the animals and your children.",그렇군. 동물들이랑 네 자식들 겁주느라 바쁘겠네.,m1q1a05s1m1,,[지능 보통],,,0,0
+64131,PC,Player Character,"No, no, me think you right. Kids should know they is better than beasts.","아니, 아니, 나 네 말이 맞다고 생각해. 애들이 짐승보다 낫다는 걸 알아야 해.",m1q1a05s1m1,,[지능 낮음],,,0,0
+64132,PC,Player Character,"No, You misunderstand. I approve. The children should know where they stand.","아니, 오해했어. 찬성이야. 아이들이 자기 위치를 알아야지.",m1q1a05s1m1,,[지능 보통],,,0,0
+64133,PC,Player Character,You said it. Me leave now.,네 말이 맞아. 나 이제 가.,m1q1a05s1m1,,[지능 낮음],,,0,0
+64134,PC,Player Character,Well said. Sorry to have bothered you.,잘 말했어. 방해해서 미안해.,m1q1a05s1m1,,[지능 보통],,,0,0
+64135,PC,Player Character,"Oh yeah, and yelling at animals in stinky cages is best way to show that.","그래, 그리고 악취 나는 우리 안의 동물들한테 소리 지르는 게 그걸 보여주는 최고의 방법이지.",m1q1a05s1m1,,[지능 낮음],,,0,0
+64136,PC,Player Character,Of course. And taunting the animals while they huddle in cages is the perfect way to show that.,물론이지. 그리고 우리 안에 웅크린 동물들을 조롱하는 게 그걸 보여주는 완벽한 방법이겠지.,m1q1a05s1m1,,[지능 보통],,,0,0
+64137,PC,Player Character,"Yeah, no hurt. But yous let them rot in there because you better than them.","그래, 고통은 안 줘. 하지만 너희보다 못하다고 거기 썩게 내버려두지.",m1q1a05s1m1,,[지능 낮음],,,0,0
+64138,PC,Player Character,"Oh, no pain, of course. Just let them rot in there as a symbol of your superiority.","아, 고통은 없지. 그냥 네 우월함의 상징으로 거기 썩게 내버려두는 거지.",m1q1a05s1m1,,[지능 보통],,,0,0
+64139,PC,Player Character,Me sorry. Bye.,나 미안해. 안녕.,m1q1a05s1m1,,[지능 낮음],,,0,0
+64140,PC,Player Character,Forgive my jest. Farewell.,농담 용서해줘. 잘 있어.,m1q1a05s1m1,,[지능 보통],,,0,0
+64141,PC,Player Character,I know. Yous do a good job of looking like a jerk by youself.,알아. 너 혼자서도 멍청이처럼 보이는 걸 잘하고 있어.,m1q1a05s1m1,,[지능 낮음],,,0,0
+64142,PC,Player Character,I know you don't. You make enough of an ass of yourself alone.,알아. 혼자서도 충분히 멍청이 노릇을 잘하고 있어.,m1q1a05s1m1,,[지능 보통],,,0,0
+64143,PC,Player Character,"Bah, me not waste time with yous.","쳇, 나 너랑 시간 낭비 안 해.",m1q1a05s1m1,,[지능 낮음],,,0,0
+64144,PC,Player Character,Don't worry. I won't waste my time on you.,걱정 마. 너한테 시간 낭비 안 할 거야.,m1q1a05s1m1,,[지능 보통],,,0,0
+64145,PC,Player Character,<StartCheck>[Insight]</Start> I would guess you are afraid of the plague. At least here you still think you have control.,<StartCheck>[통찰]</Start> 역병이 두렵겠지. 적어도 여기서는 아직 통제할 수 있다고 생각하니까.,m1q1a05s1m1,,nw_d2_wis_intn,,,0,0

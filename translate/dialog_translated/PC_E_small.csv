@@ -1,0 +1,10 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+79256,PC,Player Character,Leave.,떠납니다.,emptytome,,,,,0,0
+79257,PC,Player Character,Write a story to catch the Wise Wind.,지혜의 바람을 잡을 이야기를 씁니다.,emptytome,,c_pen_ink_winds,,,0,0
+79258,PC,Player Character,"""In a darkened wood...""",어두운 숲 속에서...,emptytome,a_catch_forest,,,,0,0
+79259,PC,Player Character,"""Beside a calm oasis...""",고요한 오아시스 곁에서...,emptytome,a_catch_desert,,,,0,0
+79260,PC,Player Character,"""Amidst a raging blizzard...""",맹렬한 눈보라 속에서...,emptytome,a_catch_winter,,,,0,0
+79261,PC,Player Character,"<StartCheck>[Insight]</Start> ""Where treasure lay buried along a storm-lashed coast...""",<StartCheck>[통찰]</Start> 폭풍에 휩싸인 해안에 보물이 묻힌 곳에서...,emptytome,a_catch_pirates,nw_d2_wis_intn,,,0,0
+79262,PC,Player Character,Leave.,떠납니다.,emptytome,a_catching_replc,,,,0,0
+79263,PC,Player Character,Read the story that you've written.,당신이 쓴 이야기를 읽습니다.,emptytome,a_catching_read,,,,0,0
+79264,PC,Player Character,Write a story.,이야기를 씁니다.,emptytome,,c_pen_ink_nowind,,,0,0

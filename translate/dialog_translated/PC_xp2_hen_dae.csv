@@ -1,0 +1,99 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+87596,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_dae,,,,,0,0
+87597,PC,Player Character,"""I think we need to part ways.""","""우린 헤어져야 할 것 같아.""",xp2_hen_dae,,x2_d2_inreaper,,,0,0
+87598,PC,Player Character,"""I've changed my mind. Stay with me.""","""생각이 바뀌었어. 같이 가자.""",xp2_hen_dae,,,,,0,0
+87599,PC,Player Character,"""Wait here until I return.""","""내가 돌아올 때까지 여기서 기다려.""",xp2_hen_dae,,,,,0,0
+87600,PC,Player Character,"""I'm sure. Go back to Durnan's inn.""","""확실해. 더난의 여관으로 돌아가.""",xp2_hen_dae,,,,,0,0
+87601,PC,Player Character,"""I want to change your tactics.""","""네 전술을 바꾸고 싶어.""",xp2_hen_dae,,,,,0,0
+87602,PC,Player Character,"""I don't want to change anything else right now.""","""지금은 다른 건 바꾸고 싶지 않아.""",xp2_hen_dae,,,,,0,0
+87603,PC,Player Character,"""I want you to leave any traps that you see alone for now.""","""일단은 함정을 보더라도 그냥 놔둬.""",xp2_hen_dae,x2_ch_trap_off,x2_ch_yes_traps,,,0,0
+87604,PC,Player Character,"""I want you to disarm any traps that you see.""","""함정을 발견하면 해제해 줘.""",xp2_hen_dae,x2_ch_trap_on,x2_ch_no_traps,,,0,0
+87605,PC,Player Character,"""Don't try to be stealthy anymore.""","""더 이상 은신하지 마.""",xp2_hen_dae,x2_d1_stealth3,x2_d1_instealth,,,0,0
+87606,PC,Player Character,"""Stay stealthy, but only until the next fight.""","""은신 상태를 유지하되, 다음 전투까지만.""",xp2_hen_dae,x2_d1_stealth2,,,,0,0
+87607,PC,Player Character,"""Try to remain stealthy all the time.""","""항상 은신 상태를 유지하도록 해.""",xp2_hen_dae,x2_d1_stealth1,,,,0,0
+87608,PC,Player Character [Companion Settings],"""Don't help me if I fail to open a locked door or chest.""","""내가 잠긴 문이나 상자를 열지 못해도 도와주지 마.""",xp2_hen_dae,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+87609,PC,Player Character [Companion Settings],"""Help me if I fail to open a locked door or chest.""","""내가 잠긴 문이나 상자를 열지 못하면 도와줘.""",xp2_hen_dae,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+87610,PC,Player Character,"""I want to change the distance you stay away from me.""","""나와의 거리를 조절하고 싶어.""",xp2_hen_dae,,,,,0,0
+87611,PC,Player Character [Follow: Far],Stay a long distance away.,멀리 떨어져 있어.,xp2_hen_dae,nw_ch_dist_18,,[Follow: Far],,0,0
+87612,PC,Player Character [Follow: Medium],Keep a medium distance.,중간 거리를 유지해.,xp2_hen_dae,nw_ch_dist_12,,[Follow: Medium],,0,0
+87613,PC,Player Character [Follow: Close],Stay close.,가까이 붙어 있어.,xp2_hen_dae,nw_ch_dist_6,,[Follow: Close],,0,0
+87614,PC,Player Character,"""Go ahead and attack as soon as you see enemies.""","""적을 보는 즉시 공격해.""",xp2_hen_dae,x0_d1_hen_attck,x0_d2_hen_defnd,,,0,0
+87615,PC,Player Character,"""Defend me and don't attack until I do.""","""나를 지키되 내가 공격하기 전까지는 공격하지 마.""",xp2_hen_dae,x0_d1_hen_defnd,x0_d2_hen_attck,,,0,0
+87616,PC,Player Character,"""I want to adjust your equipment.""","""네 장비를 조정하고 싶어.""",xp2_hen_dae,,,,,0,0
+87617,PC,Player Character,"""I need you to use your barbarian rage.""","""야만전사의 분노를 사용해 줘.""",xp2_hen_dae,,x0_d2_hasrage,,,0,0
+87618,PC,Player Character,"""On second thought, don't bother.""","""다시 생각해 보니 그럴 필요 없어.""",xp2_hen_dae,,,,,0,0
+87619,PC,Player Character,"""I'm sure. Do it now.""","""확실해. 지금 당장 해.""",xp2_hen_dae,x0_d1_userage,,,,0,0
+87620,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 하려던 얘기가 뭐였어?""",xp2_hen_dae,,x0_d2_hen_interp,,,0,0
+87621,PC,Player Character,"""Let's stop and talk for a moment.""","""잠깐 멈춰서 얘기 좀 하자.""",xp2_hen_dae,,,,,0,0
+87622,PC,Player Character,"""That's enough chatting.""","""이제 잡담은 그만하자.""",xp2_hen_dae,,,,,0,0
+87623,PC,Player Character,"""No, nothing else.""","""아니, 다른 건 없어.""",xp2_hen_dae,,,,,0,0
+87624,PC,Player Character,"""I'm just wondering how everything is going with you.""","""요즘 어떻게 지내는지 궁금해서.""",xp2_hen_dae,,,,,0,0
+87625,PC,Player Character,"""What do you plan to do after all this is done?""","""이 모든 게 끝나면 뭘 할 생각이야?""",xp2_hen_dae,,x2_hen_daestory3,,,0,0
+87626,PC,Player Character,"""A month after that you'll want to leave again.""","""한 달 뒤엔 또 떠나고 싶어질 거야.""",xp2_hen_dae,,,,,0,0
+87627,PC,Player Character,"""Finally ready to settle down?""","""드디어 정착할 준비가 됐어?""",xp2_hen_dae,,,,,0,0
+87628,PC,Player Character,"""What did you do after you left Neverwinter?""","""네버윈터를 떠난 후엔 뭘 했어?""",xp2_hen_dae,,x2_hen_daestory2,,,0,0
+87629,PC,Player Character,"""Do I look like I care about this?""","""이 얘기에 관심 있어 보여?""",xp2_hen_dae,,,,,0,0
+87630,PC,Player Character,"""What happened next?""","""그다음엔 어떻게 됐어?""",xp2_hen_dae,,,,,0,0
+87631,PC,Player Character,"""So you were finally accepted?""","""그래서 결국 받아들여진 거야?""",xp2_hen_dae,,,,,0,0
+87632,PC,Player Character,"""Where did you go?""","""어디로 갔었어?""",xp2_hen_dae,,,,,0,0
+87633,PC,Player Character,"""Nothing more than a strange coincidence.""","""이상한 우연의 일치에 불과해.""",xp2_hen_dae,,,,,0,0
+87634,PC,Player Character,"""Sounds like fate to me.""","""운명처럼 들리는데.""",xp2_hen_dae,,,,,0,0
+87635,PC,Player Character,"""Sounds like you were running away.""","""도망치고 있었던 것 같은데.""",xp2_hen_dae,,,,,0,0
+87636,PC,Player Character,"""You said you came from Neverwinter?""","""네버윈터 출신이라고 했지?""",xp2_hen_dae,,x2_hen_daestory1,,,0,0
+87637,PC,Player Character,"""That's funny. I don't remember hearing anything about you helping to save Neverwinter.""","""재밌네. 네가 네버윈터를 구하는 걸 도왔다는 얘기는 못 들어봤는데.""",xp2_hen_dae,,,,,0,0
+87638,PC,Player Character,"""I remember hearing about you. You're quite famous.""","""너에 대해 들어봤어. 꽤 유명하더라.""",xp2_hen_dae,,,,,0,0
+87639,PC,Player Character,"""You must have been very popular in Neverwinter after that.""","""그 후에 네버윈터에서 엄청 인기가 많았겠네.""",xp2_hen_dae,,,,,0,0
+87640,PC,Player Character,"""I really don't care about this.""","""솔직히 이 얘기는 별로 관심 없어.""",xp2_hen_dae,,,,,0,0
+87641,PC,Player Character,"""Why not?""","""왜 안 됐는데?""",xp2_hen_dae,,,,,0,0
+87642,PC,Player Character,"""What do you mean?""","""무슨 뜻이야?""",xp2_hen_dae,,,,,0,0
+87643,PC,Player Character,"""You're talking about Lady Aribeth, aren't you?""","""아리베스 경 얘기를 하는 거지?""",xp2_hen_dae,,,,,0,0
+87644,PC,Player Character,"""Where did you go after that?""","""그 후엔 어디로 갔어?""",xp2_hen_dae,,,,,0,0
+87645,PC,Player Character,"""That's a pretty bleak account of what happened.""","""꽤 암울한 설명이네.""",xp2_hen_dae,,,,,0,0
+87646,PC,Player Character,"""No, not yet. Stay here.""","""아니, 아직 아냐. 여기 있어.""",xp2_hen_dae,,,,,0,0
+87647,PC,Player Character,"""Yes, come along.""","""그래, 같이 가자.""",xp2_hen_dae,,,,,0,0
+87648,PC,Player Character,"""Not right now.""","""지금은 아냐.""",xp2_hen_dae,x0_d1_hen_inter0,,,,0,0
+87649,PC,Player Character,"""What is it?""","""뭔데?""",xp2_hen_dae,x0_d1_hen_inter0,,,,0,0
+87650,PC,Player Character,"""I don't have time for this.""","""이럴 시간 없어.""",xp2_hen_dae,,,,,0,0
+87651,PC,Player Character,"""Is there some point here?""","""요점이 뭔데?""",xp2_hen_dae,,,,,0,0
+87652,PC,Player Character,"""Yes, it's a truly dangerous place.""","""그래, 정말 위험한 곳이지.""",xp2_hen_dae,,,,,0,0
+87653,PC,Player Character,"""It's about the challenge. Testing yourself, testing your limits.""","""도전에 관한 거야. 자신을 시험하고, 한계를 시험하는 거지.""",xp2_hen_dae,,,,,0,0
+87654,PC,Player Character,"""Greed. There's a lot of treasure down here.""","""탐욕이야. 여기엔 보물이 엄청 많거든.""",xp2_hen_dae,,,,,0,0
+87655,PC,Player Character,"""Fame. It's a place for heroes to prove themselves.""","""명성이야. 영웅들이 자신을 증명할 장소지.""",xp2_hen_dae,,,,,0,0
+87656,PC,Player Character,"""Maybe it has something to do with Halaster's magic.""","""할라스터의 마법과 관련이 있을지도 몰라.""",xp2_hen_dae,,,,,0,0
+87657,PC,Player Character,"""This is crazy. Undermountain is famous on its own merits.""","""이건 말도 안 돼. 언더마운틴은 그 자체로 유명하잖아.""",xp2_hen_dae,,,,,0,0
+87658,PC,Player Character,"""I hadn't thought of that before.""","""전에는 그렇게 생각해 본 적이 없었네.""",xp2_hen_dae,,,,,0,0
+87659,PC,Player Character,"""No spell is that powerful.""","""그렇게 강력한 주문은 없어.""",xp2_hen_dae,,,,,0,0
+87660,PC,Player Character,"""What do you mean?""","""무슨 뜻이야?""",xp2_hen_dae,,,,,0,0
+87661,PC,Player Character,"""We're down here.""","""우린 여기 있잖아.""",xp2_hen_dae,,,,,0,0
+87662,PC,Player Character,"""We don't have time for this.""","""이럴 시간 없어.""",xp2_hen_dae,,,,,0,0
+87663,PC,Player Character,"""Fine - out with, half-orc.""","""좋아, 말해 봐, 하프오크.""",xp2_hen_dae,,,,,0,0
+87664,PC,Player Character,"""What? Is something wrong?""","""뭐? 무슨 문제라도 있어?""",xp2_hen_dae,,,,,0,0
+87665,PC,Player Character,"""Are you quitting on me, you big baby?""","""겁쟁이처럼 포기할 거야?""",xp2_hen_dae,,,,,0,0
+87666,PC,Player Character,"""Don't worry, the mountain won't collapse on us.""","""걱정 마, 산이 무너지진 않을 거야.""",xp2_hen_dae,,,,,0,0
+87667,PC,Player Character,"""Maybe you should go back to the surface.""","""지상으로 돌아가는 게 나을 것 같은데.""",xp2_hen_dae,,,,,0,0
+87668,PC,Player Character,"""Don't worry, Daelen. Everything will be fine.""","""걱정 마, 데란. 괜찮을 거야.""",xp2_hen_dae,,,,,0,0
+87669,PC,Player Character,"""You're claustrophobic!""","""폐쇄공포증이 있구나!""",xp2_hen_dae,,,,,0,0
+87670,PC,Player Character,"""That seems rather obvious, don't you think?""","""당연한 거 아냐?""",xp2_hen_dae,,,,,0,0
+87671,PC,Player Character,"""Why would he need a fail safe?""","""왜 안전장치가 필요했을까?""",xp2_hen_dae,,,,,0,0
+87672,PC,Player Character,"""Let's just move on.""","""계속 가자.""",xp2_hen_dae,,,,,0,0
+87673,PC,Player Character,"""Any idea how we get this door open?""","""이 문을 어떻게 여는지 알아?""",xp2_hen_dae,,,,,0,0
+87674,PC,Player Character,"""I think I can handle this without your little tale.""","""네 얘기 없이도 해결할 수 있을 것 같은데.""",xp2_hen_dae,,,,,0,0
+87675,PC,Player Character,"""Stand guard? What do you mean?""","""경비를 선다고? 무슨 뜻이야?""",xp2_hen_dae,,,,,0,0
+87676,PC,Player Character,"""And you think these skeletons are from that tribe?""","""이 해골들이 그 부족 출신이라고 생각해?""",xp2_hen_dae,,,,,0,0
+87677,PC,Player Character,"""You didn't really tell me anything I didn't already know.""","""내가 이미 알고 있던 거 말고는 별로 새로운 얘기가 없었는데.""",xp2_hen_dae,,,,,0,0
+87678,PC,Player Character,"""Thanks for the warning. Let's move on.""","""경고해 줘서 고마워. 계속 가자.""",xp2_hen_dae,,,,,0,0
+87679,PC,Player Character,"""So you think these skeletons will come to life?""","""그래서 이 해골들이 살아날 거라고 생각하는 거야?""",xp2_hen_dae,,,,,0,0
+87680,PC,Player Character,"""Never mind. I don't want to discuss it.""","""신경 쓰지 마. 그 얘기는 하고 싶지 않아.""",xp2_hen_dae,,,,,0,0
+87681,PC,Player Character,"""You keep dying. That's not very helpful.""","""계속 죽잖아. 별로 도움이 안 되는데.""",xp2_hen_dae,,,,,0,0
+87682,PC,Player Character,"""You're in the front of every battle. What do you expect?""","""모든 전투의 선두에 서 있잖아. 뭘 기대했어?""",xp2_hen_dae,,,,,0,0
+87683,PC,Player Character,"""Undermountain is a dangerous place. Death isn't unexpected.""","""언더마운틴은 위험한 곳이야. 죽음은 예상 밖의 일이 아니지.""",xp2_hen_dae,,,,,0,0
+87684,PC,Player Character,"""Just stay here, for now.""","""일단은 여기 있어.""",xp2_hen_dae,x0_d1_hen_fired,,,,0,0
+87685,PC,Player Character,"""I want you to join me again.""","""다시 함께하고 싶어.""",xp2_hen_dae,,,,,0,0
+87686,PC,Player Character,"""Don't worry about it.""","""걱정 마.""",xp2_hen_dae,,,,,0,0
+87687,PC,Player Character,"""You were the one staring. Get yourself out of this mess.""","""쳐다본 건 너잖아. 네가 알아서 빠져나와.""",xp2_hen_dae,,,,,0,0
+87688,PC,Player Character,"""Forget about her, Daelen. She's out of your league.""","""그녀는 잊어, 데란. 네 수준이 아냐.""",xp2_hen_dae,,,,,0,0
+87689,PC,Player Character,"""What's the problem? I think you make a nice couple.""","""뭐가 문제야? 잘 어울리는 것 같은데.""",xp2_hen_dae,,,,,0,0
+87690,PC,Player Character,"""Sharwyn, stop picking on Daelen.""","""샤윈, 데란 괴롭히지 마.""",xp2_hen_dae,,,,,0,0
+87691,PC,Player Character,"""Maybe this isn't the best time for a song, Deekin.""","""디킨, 지금은 노래할 때가 아닌 것 같은데.""",xp2_hen_dae,,,,,0,0
+87692,PC,Player Character,"""That's true. Why don't you sing for us now, Deekin?""","""맞는 말이야. 디킨, 지금 노래 한 곡 불러줄래?""",xp2_hen_dae,,,,,0,0
+87693,PC,Player Character,"""I do not!""","""아니야!""",xp2_hen_dae,,,,,0,0

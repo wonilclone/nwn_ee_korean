@@ -1,0 +1,57 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+17001,PC,Player Character,"Hello, I am <FullName>. Could I ask some questions?","안녕하세요, 저는 <FullName>입니다. 몇 가지 여쭤봐도 될까요?",m1q1a05nyat,,[매력 중간/지능 중간],,,0,0
+17002,PC,Player Character,I'm <FullName>. I have some questions.,난 <FullName>. 몇 가지 물어볼 게 있어요.,m1q1a05nyat,,[매력 낮음/지능 중간],,,0,0
+17003,PC,Player Character,I'm <FullName>. Just shut up and answer my questions.,난 <FullName>. 입 닥치고 내 질문에나 답해요.,m1q1a05nyat,,[지능 보통],,,0,0
+17004,PC,Player Character,Me <FullName>. Maybe me ask you some things?,나 <FullName>. 몇 가지 물어봐도 되나?,m1q1a05nyat,,[지능 낮음],,,0,0
+17005,PC,Player Character,"Me <FullName>. You just shuts up and answer questions, okay?","나 <FullName>. 입 다물고 질문에 답해, 알겠지?",m1q1a05nyat,,[지능 낮음],,,0,0
+17006,PC,Player Character,"Farewell, then.",그럼 이만.,m1q1a05nyat,,[지능 보통],,,0,0
+17007,PC,Player Character,Bye bye.,잘 있어.,m1q1a05nyat,,[지능 낮음],,,0,0
+17008,PC,Player Character,What is your position here?,여기서 직책이 무엇입니까?,m1q1a05nyat,,[지능 보통],,,0,0
+17009,PC,Player Character,What your job here?,여기서 뭐 하는 사람이야?,m1q1a05nyat,,[지능 낮음],,,0,0
+17010,PC,Player Character,Is there a place for nature in the heart of this city?,이 도시 한복판에도 자연이 설 자리가 있습니까?,m1q1a05nyat,,[지능 보통],,,0,0
+17011,PC,Player Character,Nature in the city? Wha?,도시에 자연? 뭐?,m1q1a05nyat,,[지능 낮음],,,0,0
+17012,PC,Player Character,<StartCheck>[Insight]</Start> Why are you so sure this plague is not natural?,<StartCheck>[통찰]</Start> 왜 이 역병이 자연스러운 현상이 아니라고 확신하죠?,m1q1a05nyat,,nw_d2_wis_intn,,,0,0
+17013,PC,Player Character,Me needs stuff to buy. What you gots?,물건 사야 돼. 뭐 팔아?,m1q1a05nyat,m1_openstore_nat,[지능 낮음],,,0,0
+17014,PC,Player Character,I require supplies. What can you offer?,보급품이 필요합니다. 무엇을 주실 수 있죠?,m1q1a05nyat,m1_openstore_nat,[지능 보통],,,0,0
+17015,PC,Player Character,<StartCheck>[Persuade]</Start> Maybe me can still help?,<StartCheck>[설득]</Start> 아직도 내가 도울 수 있을지도?,m1q1a05nyat,,[지능 낮음],,,0,0
+17016,PC,Player Character,<StartCheck>[Persuade]</Start> I might still be able to help.,<StartCheck>[설득]</Start> 혹시 도움이 될 수 있을지도 모르겠습니다.,m1q1a05nyat,,[지능 보통],,,0,0
+17017,PC,Player Character,It can't be new. Not during the plague.,"역병이 도는 지금, 새로 생긴 일은 아니겠군요.",m1q1a05nyat,,[매력 중간/지능 중간],,,0,0
+17018,PC,Player Character,Can't be new. Not during plague-sick.,새로 생긴 건 아니겠네. 역병 도는 판에.,m1q1a05nyat,,[매력 중간/지능 낮음],,,0,0
+17019,PC,Player Character,This zoo seems small next to the plague.,역병에 비하면 동물원은 사소한 문제 같은데요.,m1q1a05nyat,,[지능 보통],,,0,0
+17020,PC,Player Character,So animals are in a zoo. So what?,동물원에 동물 가둬놨다고... 그래서?,m1q1a05nyat,,[지능 낮음],,,0,0
+17021,PC,Player Character [M1Q1A05],I will help you free these animals.,동물들을 풀어주는 걸 돕겠습니다.,m1q1a05nyat,m1q1a05nyatslg10,m1q1a05nyatclg09,[M1Q1A05],,0,0
+17022,PC,Player Character [M1Q1A05],This bad! Me free animals! ,나쁘다! 나 동물 풀어줄 거야!,m1q1a05nyat,m1q1a05nyatslg10,m1q1a05nyatclg10,[M1Q1A05],,0,0
+17023,PC,Player Character [M1Q1A05],I have no interest in helping.,도울 생각 없습니다.,m1q1a05nyat,m1q1a05nyatslg10,m1q1a05nyatclg09,[M1Q1A05],,0,0
+17024,PC,Player Character [M1Q1A05],Me no want to bother with this.,나 이거 귀찮아.,m1q1a05nyat,m1q1a05nyatslg10,m1q1a05nyatclg10,[M1Q1A05],,0,0
+17025,PC,Player Character,What do you know of this hunter?,그 사냥꾼에 대해 뭘 알고 계십니까?,m1q1a05nyat,,[지능 보통],,,0,0
+17026,PC,Player Character,Who this hunter guy?,그 사냥꾼 놈 누구야?,m1q1a05nyat,,[지능 낮음],,,0,0
+17027,PC,Player Character,No! Me demands more!,안 돼! 더 줘!,m1q1a05nyat,m1q0_nyatar_evil,[지능 낮음],,,0,0
+17028,PC,Player Character [M1Q1A05],Me not care about this.,나 이거 신경 안 써.,m1q1a05nyat,m1q1a05nyatslg10,m1q1a05nyatclg12,[M1Q1A05],,0,0
+17029,PC,Player Character [M1Q1A05],Go over what is needed again.,필요한 게 뭔지 다시 설명해 줘.,m1q1a05nyat,,m1q1a05nyatclg35,[M1Q1A05],,0,0
+17030,PC,Player Character [M1Q1A05],"You repeat stuff about this job, okay?","이 일에 대해 다시 말해줘, 응?",m1q1a05nyat,,m1q1a05nyatclg36,[M1Q1A05],,0,0
+17031,PC,Player Character,Go over the task with me. Perhaps I will help too.,할 일을 다시 설명해 주십시오. 저도 도울 수 있을지 모르니까요.,m1q1a05nyat,,[지능 보통],,,0,0
+17032,PC,Player Character,You tell me stuff too. Maybe me help.,내용 알려줘. 나 도울 수도 있어.,m1q1a05nyat,,[지능 낮음],,,0,0
+17033,PC,Player Character [M1Q1A05],There some stuff done about animals! ,동물들 일 좀 했어!,m1q1a05nyat,,m1q1a05nyatclg23,[M1Q1A05],,0,0
+17034,PC,Player Character [M1Q1A05],There has been progress in freeing the animals.,동물들을 풀어주는 데 진전이 있었습니다.,m1q1a05nyat,,m1q1a05nyatclg22,[M1Q1A05],,0,0
+17035,PC,Player Character [M1Q1A05],I will help.,돕겠습니다.,m1q1a05nyat,m1q1a05nyatslg10,m1q1a05nyatclg11,[M1Q1A05],,0,0
+17036,PC,Player Character [M1Q1A05],Me help!,나 도와!,m1q1a05nyat,m1q1a05nyatslg10,m1q1a05nyatclg12,[M1Q1A05],,0,0
+17037,PC,Player Character [M1Q1A05],I have no interest in this.,관심 없습니다.,m1q1a05nyat,m1q1a05nyatslg10,m1q1a05nyatclg11,[M1Q1A05],,0,0
+17038,PC,Player Character,<StartCheck>[Persuade]</Start> You must agree that I am worth more.,<StartCheck>[설득]</Start> 제가 더 받을 만하다는 거 인정하시죠.,m1q1a05nyat,,[지능 보통],,,0,0
+17039,PC,Player Character,<StartCheck>[Persuade]</Start> You knows me worth more than that.,<StartCheck>[설득]</Start> 나 그거보다 더 받을 만한 거 알잖아.,m1q1a05nyat,,[지능 낮음],,,0,0
+17040,PC,Player Character,I demand more! Deny me and you will suffer!,더 내라! 거절하면 대가를 치르게 될 것이다!,m1q1a05nyat,,[지능 보통],,,0,0
+17041,PC,Player Character,"Me wants more, or me hurt you bad!","더 줘, 아니면 혼쭐 낼 거야!",m1q1a05nyat,,[지능 낮음],,,0,0
+17042,PC,Player Character,That is sufficient. Thank you.,그 정도면 충분합니다. 고맙습니다.,m1q1a05nyat,,[지능 보통],,,0,0
+17043,PC,Player Character,That really good. Thanks for the stuff.,그거면 됐어. 고마워.,m1q1a05nyat,,[지능 낮음],,,0,0
+17044,PC,Player Character,That will not do! I demand more!,그건 곤란해! 더 내놔!,m1q1a05nyat,m1q0_nyatar_evil,[지능 보통],,,0,0
+17045,PC,Player Character,Farewell,그럼 이만.,m1q1a05nyat,,[지능 보통],,,0,0
+17046,PC,Player Character,Bye bye,잘 있어.,m1q1a05nyat,,[지능 낮음],,,0,0
+17047,PC,Player Character,What is the purpose of the zoo?,이 동물원의 목적은 무엇입니까?,m1q1a05nyat,,[지능 보통],,,0,0
+17048,PC,Player Character,Why they cage animals?,왜 동물을 가둬?,m1q1a05nyat,,[지능 낮음],,,0,0
+17049,PC,Player Character,I need the key.,열쇠가 필요합니다.,m1q1a05nyat,,[지능 보통],,,0,0
+17050,PC,Player Character,Me need key.,나 열쇠 필요해.,m1q1a05nyat,,[지능 낮음],,,0,0
+17051,PC,Player Character,I need the scroll.,두루마리가 필요합니다.,m1q1a05nyat,,[지능 보통],,,0,0
+17052,PC,Player Character,Me need scroll.,나 두루마리 필요해.,m1q1a05nyat,,[지능 낮음],,,0,0
+17053,PC,Player Character,Nothing more. Goodbye.,더는 없습니다. 이만.,m1q1a05nyat,,,,,0,0
+17054,PC,Player Character [M1Q1A05],Perhaps more for a <brother/sister> druid?,동료 드루이드에게는 좀 더 줘야 하지 않을까?,m1q1a05nyat,,m1q1a05nyatclg06,[M1Q1A05],,0,0
+17055,PC,Player Character [M1Q1A05],What animals? Is there something you need help with?,무슨 동물이요? 도움이 필요한 일이 있습니까?,m1q1a05nyat,,m1q1a05nyatclg33,[M1Q1A05],,0,0
+17056,PC,Player Character [M1Q1A05],What animals? Maybe you need help or something?,무슨 동물? 도움 필요해?,m1q1a05nyat,,m1q1a05nyatclg34,[M1Q1A05],,0,0

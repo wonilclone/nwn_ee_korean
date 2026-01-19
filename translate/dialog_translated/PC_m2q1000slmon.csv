@@ -1,0 +1,68 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+29469,PC,Player Character,"<StartCheck>[Insight]</Start> Who's ""they?""","<StartCheck>[통찰]</Start> ""그들""이 누군데?",m2q1000slmon,,nw_d2_wis_intn,,,0,0
+29470,PC,Player Character,Don't waste my time.,시간 낭비하지 마.,m2q1000slmon,,[지능 보통],,,0,0
+29471,PC,Player Character,"What do you wish, exactly?",정확히 뭘 원하는 거야?,m2q1000slmon,,[지능 보통],,,0,0
+29472,PC,Player Character,I don't know about 'hero...','영웅'이라고 하기엔...,m2q1000slmon,,[매력 중간/지능 중간],,,0,0
+29473,PC,Player Character,What you wants?,뭐 원해?,m2q1000slmon,,[지능 낮음],,,0,0
+29474,PC,Player Character,Me no big hero...,나 큰 영웅 아냐...,m2q1000slmon,,[매력 중간/지능 낮음],,,0,0
+29475,PC,Player Character,Outta me way!,비켜!,m2q1000slmon,,[지능 낮음],,,0,0
+29476,PC,Player Character,That's very nice of you... thank you.,정말 친절하군... 고마워.,m2q1000slmon,,[지능 보통],,,0,0
+29477,PC,Player Character,"No, keep it. I don't need it.","아니, 가져. 필요 없어.",m2q1000slmon,,[지능 보통],,,0,0
+29478,PC,Player Character,It very nice of you. Me thanks you.,너 정말 친절해. 고마워.,m2q1000slmon,,[지능 낮음],,,0,0
+29479,PC,Player Character,You keep ring. Me not needs it.,반지 가져. 나 필요 없어.,m2q1000slmon,,[지능 낮음],,,0,0
+29480,PC,Player Character,Very well. Thank you.,좋아. 고마워.,m2q1000slmon,,[지능 보통],,,0,0
+29481,PC,Player Character,Can't you take no for an answer?,싫다는데 왜 이래?,m2q1000slmon,,[지능 보통],,,0,0
+29482,PC,Player Character,Okay. Me thanks you.,알았어. 고마워.,m2q1000slmon,,[지능 낮음],,,0,0
+29483,PC,Player Character,Back off - me say no.,물러서 - 나 싫다고 했어.,m2q1000slmon,,[지능 낮음],,,0,0
+29484,PC,Player Character,Give me one good reason not to look into the cult... ,사교를 조사하지 말아야 할 이유가 뭔데...,m2q1000slmon,,[지능 보통],,,0,0
+29485,PC,Player Character,"Who says I'm looking into cult business, anyway?",내가 사교를 조사하고 있다고 누가 그래?,m2q1000slmon,,[지능 보통],,,0,0
+29486,PC,Player Character,I think you'd better mind your own business... ,네 일이나 신경 쓰는 게 좋겠어...,m2q1000slmon,,[지능 보통],,,0,0
+29487,PC,Player Character,Are you part of the cult? What do you know about them?!,너 사교 소속이야? 그들에 대해 뭘 알아?!,m2q1000slmon,,[지능 보통],,,0,0
+29488,PC,Player Character,"Yuh? Gimme a reason not to look into cult, den... ",응? 사교 조사하지 말 이유 뭐야...,m2q1000slmon,,[지능 낮음],,,0,0
+29489,PC,Player Character,"Uh, me no int'rested in cult bus'ness, yuh?","어, 나 사교 일에 관심 없어, 응?",m2q1000slmon,,[지능 낮음],,,0,0
+29490,PC,Player Character,"Me think you better mind yer own bus'ness, yuh?","네 일이나 신경 쓰는 게 좋을걸, 응?",m2q1000slmon,,[지능 낮음],,,0,0
+29491,PC,Player Character,Thanks for the advice. I'll keep it in mind... ,충고 고마워. 명심할게...,m2q1000slmon,,[지능 보통],,,0,0
+29492,PC,Player Character,"Yuh, thanks for advice. Me keep it in mind... ","응, 충고 고마워. 기억할게...",m2q1000slmon,,[지능 낮음],,,0,0
+29493,PC,Player Character,I am <FirstName>. Why do you ask?,난 <FirstName>이야. 왜 물어?,m2q1000slmon,,[지능 보통],,,0,0
+29494,PC,Player Character,Me <FirstName>. Why you want knowing?,나 <FirstName>. 왜 알고 싶어?,m2q1000slmon,,[지능 낮음],,,0,0
+29495,PC,Player Character,Is there a point to this?,요점이 뭔데?,m2q1000slmon,,[지능 보통],,,0,0
+29496,PC,Player Character,"There be point to this, maybes?",이거 요점 있어?,m2q1000slmon,,[지능 낮음],,,0,0
+29497,PC,Player Character,"Yes, that's me.","응, 그게 나야.",m2q1000slmon,,[지능 보통],,,0,0
+29498,PC,Player Character,"Yeah, that me.","응, 그거 나.",m2q1000slmon,,[지능 낮음],,,0,0
+29499,PC,Player Character,"Just what is it you want, exactly?",정확히 뭘 원하는 건데?,m2q1000slmon,,[지능 보통],,,0,0
+29500,PC,Player Character,Just what you wants?!,뭘 원하는 거야?!,m2q1000slmon,,[지능 낮음],,,0,0
+29501,PC,Player Character,"So far as I know, there is only one <FullName>.","내가 알기론 <FullName>은 나밖에 없어.",m2q1000slmon,,[지능 보통],,,0,0
+29502,PC,Player Character,Me thinks me is only <FullName>.,나 생각에 <FullName>은 나뿐.,m2q1000slmon,,[지능 낮음],,,0,0
+29503,PC,Player Character,"I've told you who I am. Now, stop with these questions.","내가 누군지 말했잖아. 이제 질문 그만해.",m2q1000slmon,,[지능 보통],,,0,0
+29504,PC,Player Character,Me says name already. You stop ask question so much.,나 이름 이미 말했어. 질문 그만해.,m2q1000slmon,,[지능 낮음],,,0,0
+29505,PC,Player Character,"It was a group effort, but yes, I was involved.","여럿이 함께한 거지만, 그래, 나도 참여했어.",m2q1000slmon,,[지능 보통],,,0,0
+29506,PC,Player Character,"Me not is only person, but yeah, me helps save day.","나만 한 거 아니지만, 응, 나도 도왔어.",m2q1000slmon,,[지능 낮음],,,0,0
+29507,PC,Player Character,Why does it feel like you're prying into my personal matters?,왜 내 개인적인 일을 캐묻는 것 같지?,m2q1000slmon,,[지능 보통],,,0,0
+29508,PC,Player Character,Me wonders why you thinks this is your business.,왜 이게 네 일이라 생각해?,m2q1000slmon,,[지능 낮음],,,0,0
+29509,PC,Player Character,That's what I've heard. I don't know many details.,그렇게 들었어. 자세한 건 몰라.,m2q1000slmon,,[지능 보통],,,0,0
+29510,PC,Player Character,"Me not know all story, but me hears that, yes.","나 다 모르지만, 그렇게 들었어, 응.",m2q1000slmon,,[지능 낮음],,,0,0
+29511,PC,Player Character,"Look, is there a point to all of these questions?","이봐, 이 질문들에 요점이 있어?",m2q1000slmon,,[지능 보통],,,0,0
+29512,PC,Player Character,Me wonders where this going. So many question.,이게 어디로 가는 거야. 질문 너무 많아.,m2q1000slmon,,[지능 낮음],,,0,0
+29513,PC,Player Character,"Yes, Aribeth de Tylmarande. I am working for her.","응, 아리베스 드 틸마란데. 그녀를 위해 일하고 있어.",m2q1000slmon,,[지능 보통],,,0,0
+29514,PC,Player Character,Me works for Aribeth. She is nice paladin lady.,나 아리베스 위해 일해. 착한 성기사 아가씨야.,m2q1000slmon,,[지능 낮음],,,0,0
+29515,PC,Player Character,I don't feel comfortable answering a question like that.,그런 질문에 대답하긴 좀 그래.,m2q1000slmon,,[지능 보통],,,0,0
+29516,PC,Player Character,Me doesn't like that question. Me not answers.,나 그 질문 싫어. 대답 안 해.,m2q1000slmon,,[지능 낮음],,,0,0
+29517,PC,Player Character,"This seems to be an excessive amount of questions, doesn't it?",질문이 좀 과하게 많은 거 아냐?,m2q1000slmon,,[지능 보통],,,0,0
+29518,PC,Player Character,Why me gets asked this many question? You write book?,왜 이렇게 질문 많아? 책 쓰는 거야?,m2q1000slmon,,[지능 낮음],,,0,0
+29519,PC,Player Character,"I'm sorry, but you've asked entirely too many questions. I cannot answer further.","미안하지만 질문이 너무 많아. 더는 대답 못 해.",m2q1000slmon,,[지능 보통],,,0,0
+29520,PC,Player Character,Me can't answer this many question!,나 이렇게 많은 질문 대답 못 해!,m2q1000slmon,,[지능 낮음],,,0,0
+58662,PC,Player Character,You part of cult? What you knows 'bout them?!,너 사교 소속이야? 그들 뭐 알아?!,m2q1000slmon,,[지능 낮음],,,0,0
+58663,PC,Player Character,"Who you calls plain, huh?",누구 보고 평범하다고?,m2q1000slmon,,[지능 낮음],,,0,0
+58664,PC,Player Character,Who are you calling plain-looking?,누구 보고 평범하게 생겼다는 거야?,m2q1000slmon,,[지능 보통],,,0,0
+58665,PC,Player Character,"<StartCheck>[Persuade]</Start> If you so grateful, why you not gives better stuff?","<StartCheck>[설득]</Start> 그렇게 고마우면 왜 더 좋은 거 안 줘?",m2q1000slmon,,[지능 낮음],,,0,0
+58666,PC,Player Character,"<StartCheck>[Persuade]</Start> If you're so grateful, why don't you give me something more?","<StartCheck>[설득]</Start> 그렇게 고맙다면 좀 더 주는 게 어때?",m2q1000slmon,,[지능 보통],,,0,0
+58667,PC,Player Character,"Okays, fine. It gets good price, maybe.","알았어, 좋아. 비싸게 팔릴지도.",m2q1000slmon,,[지능 낮음],,,0,0
+58668,PC,Player Character,"Fine, fine. I suppose it will fetch a good price.","좋아, 좋아. 비싸게 팔리겠지.",m2q1000slmon,,[지능 보통],,,0,0
+58669,PC,Player Character,What this about?,이게 뭔데?,m2q1000slmon,,[지능 낮음],,,0,0
+58670,PC,Player Character,What is this about?,이게 무슨 일이야?,m2q1000slmon,,[지능 보통],,,0,0
+58671,PC,Player Character,Why you wants know that?,왜 그거 알고 싶어?,m2q1000slmon,,[지능 낮음],,,0,0
+58672,PC,Player Character,Why do you want to know this?,왜 이걸 알고 싶은 거야?,m2q1000slmon,,[지능 보통],,,0,0
+58673,PC,Player Character,Who you calls ugly?!,누구 보고 못생겼다고?!,m2q1000slmon,,[지능 낮음],,,0,0
+58674,PC,Player Character,Who are you calling ugly?,누구 보고 못생겼다는 거야?,m2q1000slmon,,[지능 보통],,,0,0
+58675,PC,Player Character,Why you wants somebody describes me?,왜 누가 나 설명해야 해?,m2q1000slmon,,[지능 낮음],,,0,0
+58676,PC,Player Character,Why would you need my description?,왜 내 인상착의가 필요해?,m2q1000slmon,,[지능 보통],,,0,0

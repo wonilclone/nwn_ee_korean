@@ -1,0 +1,27 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+94269,PC,Player Character,"""I'm sick of you, Linu. Time to die!""","""이제 넌 지겹다, 리누. 죽을 시간이야!""",q2crakbrit,nw_d1_high_evil,,,,0,0
+94270,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2crakbrit,,,,,0,0
+94271,PC,Player Character,"<StartCheck>[Intelligence]</Start> ""Something doesn't feel right here.""","<StartCheck>[지능]</Start> ""뭔가 이상한데.""",q2crakbrit,,[지능 높음],,,0,0
+94272,PC,Player Character,"<StartCheck>[Intelligence]</Start> ""No... that's not it. There's something strange about you being here.""","<StartCheck>[지능]</Start> ""아니... 그게 아니야. 네가 여기 있는 게 이상해.""",q2crakbrit,,,,,0,0
+94273,PC,Player Character,""But how did you get past the Rakshasa guards without killing them?""""""","""그런데 락샤사 경비들을 죽이지 않고 어떻게 지나왔어?""",q2crakbrit,,,,,0,0
+94274,PC,Player Character,"""I guess you're right.""","""네 말이 맞는 것 같네.""",q2crakbrit,,,,,0,0
+94275,PC,Player Character,"""Do you know anything about the sarcophagus in this room?""","""이 방에 있는 석관에 대해 뭘 알아?""",q2crakbrit,,,,,0,0
+94276,PC,Player Character,"""Shouldn't we try to destroy this evil?""","""이 사악한 것을 파괴하려 하지 않아도 돼?""",q2crakbrit,,,,,0,0
+94277,PC,Player Character,"""Have you learned anything while you were down here?""","""여기 있는 동안 뭘 알아냈어?""",q2crakbrit,,,,,0,0
+94278,PC,Player Character,"""What are you doing here?""","""여기서 뭘 하고 있어?""",q2crakbrit,,,,,0,0
+94279,PC,Player Character,"""Is there anything I can do to help?""","""도와줄 일이 있어?""",q2crakbrit,,,,,0,0
+94280,PC,Player Character,"<StartCheck>[Intelligence]</Start> ""Something's not right. How did you get past the Rakshasa guards without killing them?""","<StartCheck>[지능]</Start> ""뭔가 이상해. 락샤사 경비들을 어떻게 죽이지 않고 지나왔어?""",q2crakbrit,,[지능 높음],,,0,0
+94281,PC,Player Character,""I ran into Tomi Undergallows. He wanted me to check up on you.""""""","""토미 언더갤로우를 만났어. 네 안부를 확인해보라고 하더라.""",q2crakbrit,,con_q2rakadvent1,,,0,0
+94282,PC,Player Character,"""A liar? So why don't you tell me the truth, then.""","""거짓말쟁이라고? 그럼 진실을 말해 봐.""",q2crakbrit,,,,,0,0
+94283,PC,Player Character,"""Wait a minute... how *did* you get past those Rakshasa guards out front?""","""잠깐... 어떻게 앞에 있던 락샤사 경비들을 *지나왔어*?""",q2crakbrit,act_q2rakchanged,,,,0,0
+94284,PC,Player Character,"""I have the activation stone for the portal.""","""차원문 활성화석을 가지고 있어.""",q2crakbrit,,con_q2crak_1,,,0,0
+94285,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2crakbrit,,,,,0,0
+94286,PC,Player Character,"""I've been waiting for a chance to kill you, Linu!""","""널 죽일 기회를 기다리고 있었어, 리누!""",q2crakbrit,nw_d1_high_evil,,,,0,0
+94287,PC,Player Character,"""Don't you recognize me, Linu? It's <FullName>.""","""날 못 알아보겠어, 리누? <FullName>야.""",q2crakbrit,,,,,0,0
+94288,PC,Player Character,"""Why should I help them?""","""왜 내가 그들을 도와줘야 해?""",q2crakbrit,,,,,0,0
+94289,PC,Player Character,"""You're right. What can I do to help them?""","""네 말이 맞아. 그들을 어떻게 도와주지?""",q2crakbrit,,,,,0,0
+94290,PC,Player Character,"""What can I do to help them?""","""그들을 어떻게 도와주지?""",q2crakbrit,,,,,0,0
+94291,PC,Player Character,"""Forget it. I don't have time to help a bunch of worthless slaves!""","""됐어. 쓸모없는 노예들을 도울 시간 없어!""",q2crakbrit,,,,,0,0
+94292,PC,Player Character,"""Don't worry - I'll find that activation stone!""","""걱정 마-활성화석을 찾을게!""",q2crakbrit,,,,,0,0
+94293,PC,Player Character,Why can't you find the activation stone for them?,"""왜 네가 활성화석을 찾아줄 수 없어?""""""",q2crakbrit,,,,,0,0
+94294,PC,Player Character,"""What are you doing here?""","""여기서 뭘 하고 있어?""",q2crakbrit,,,,,0,0

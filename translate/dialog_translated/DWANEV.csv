@@ -1,0 +1,49 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+35706,Dialog,DWANEV,"How in the name of the gods did you get in here?! Prepare to be destroyed, utterly!","신이시여, 어떻게 여기로 들어온 거지?! 완전히 박살날 각오를 하는게 좋을거다!",M2Q3DWANEV,,,,vs_nwizarm3_050,0,0
+35707,Dialog,DWANEV,"Perhaps I was too rash in attacking you. Please, accept my apology.",내가 너무 성급하게 덤벼들었군. 부디 사과를 받아 주게.,M2Q3DWANEV,m2q3wanev004,,,vs_nwizarm3_052,0,0
+35708,Dialog,DWANEV,Then I shall blast you into dust!,그렇다면 너를 먼지로 만들어 주겠다!,M2Q3DWANEV,m2q3wanev009,,,,0,0
+35709,Dialog,DWANEV,What questions do you have?,무슨 질문이 있지?,M2Q3DWANEV,,,,,0,0
+35710,Dialog,DWANEV,Please! Attack no more! I am defeated!,그만! 더는 공격하지 마! 내가 졌다!,M2Q3DWANEV,,,,vs_nwizarm3_051,0,0
+35711,Dialog,DWANEV,I appreciate not being killed. Take this wardstone and my servants shall leave you be. ,목숨을 살려 준 데 감사하지. 이 경계석을 가져가라. 그러면 내 하인들이 널 건드리지 않을게야.,M2Q3DWANEV,m2q3wanev003,,,,0,0
+35712,Dialog,DWANEV,"So the Serpent still seeks an easy way home. Well, he shall have to become used to disappointment. He cannot have the gem.","그 독사 녀석은 여전히 손쉬운 방법을 찾는군. 뭐, 실망하는 법도 익혀야겠지. 그 보석은 가질 수 없다.",M2Q3DWANEV,,,,,0,0
+35713,Dialog,DWANEV,"You don't understand! I have lost the gem and am quite unable to retrieve it, despite my powers. You would be wise to forget about this job and leave now.","모르는군! 난 그 보석을 잃어버렸고, 내 힘으로도 도저히 되찾을 수가 없어. 그 일은 잊고 지금 떠나는 게 현명할 거다.",M2Q3DWANEV,,,,,0,0
+35714,Dialog,DWANEV,"<StartCheck>[Success]</Start> Well, if you wish to get yourself killed, why should I care?","<StartCheck>[성공]</Start> 그래, 죽고 싶다면 내 알 바 아니지?",M2Q3DWANEV,,,,,0,0
+35715,Dialog,DWANEV,"<StartCheck>[Failure]</Start> In good conscience, I cannot! For your own good, <sir/madam>, do not press the issue!","<StartCheck>[실패]</Start> 양심상 그렇게는 못 ! 당신을 위해서도, 선생님, 더는 우기지 말게!",M2Q3DWANEV,,,,,0,0
+35716,Dialog,DWANEV,"(sigh) I've been defeated by a common houseburglar? Fine, take my gold you barbaric leech!","(한숨) 하찮은 빈집털이한테 당한거였나? 좋아, 금화나 가져가, 이 야만적인 거머리 같으니!",M2Q3DWANEV,m2q3wanev001,,,,0,0
+35717,Dialog,DWANEV,Will you not even leave me enough to feed myself?! Take it and begone!,먹고살 만큼도 남겨 두지 않겠다는 거야?! 가지고 꺼져!,M2Q3DWANEV,m2q3wanev002,,,,0,0
+35718,Dialog,DWANEV,There is no more gold. I shall be henceforth known as 'Wanev the Idiot Pauper' by those bastards in the Gibbering Twelve! My reputation is ruined!,금화는 더 없어. 이제부터 그 지껄이는 열두 놈들이 날 '바보 거지 와네브'라고 부르겠지! 내 명성은 끝장이야!,M2Q3DWANEV,,,,,0,0
+35719,Dialog,DWANEV,"Stop, please! If you are so vey desperate take this and begone!","그만, 제발! 그렇게까지 절박하다면 이걸 가져가고 꺼져라!",M2Q3DWANEV,m2q3wanev002,,,,0,0
+35720,Dialog,DWANEV,"I am Wanev, a man well-versed in the magical arts and of no small renown. I am somewhat displeased at being defeated by you. My idiot friends will have many a jest at my expense.","나는 와네브, 마법에 정통하고 그리 적지 않은 명성을 지닌 자야. 자네에게 패해 기분이 썩 좋지는 않군. 내 멍청한 친구들이 두고두고 놀려 먹겠지.",M2Q3DWANEV,,,,,0,0
+35721,Dialog,DWANEV,I should like to counter that with a question of my own. Why are you in my home?,나도 한 가지 되묻고 싶군. 왜 내 집에 들어와 있지?,M2Q3DWANEV,,,,,0,0
+35722,Dialog,DWANEV,I had heard that Elaith intended to take this gem and prior to receiving that information I had taken little interest in the bauble. I wondered why he intended to steal it.,엘레이스가 이 보석을 노린다는 소문을 들었다. 그 전까지는 이 장신구에 별 관심이 없었지. 왜 그가 훔치려 하는지 궁금해졌거든.,M2Q3DWANEV,,,,,0,0
+35723,Dialog,DWANEV,"To be honest, I am not a patient man. I had better things to do than search through my library trying to match the description of the gem to one of the artifacts in the books.","솔직히, 난 성격이 급하지. 도서관을 뒤져 보석의 설명에 맞는 유물을 책에서 찾느라 시간을 낭비할 여유가 없었어.",M2Q3DWANEV,,,,,0,0
+35724,Dialog,DWANEV,"So, I thought it wise to summon an imp or some sort of lesser demon and make him do the legwork. There was, uh, a bit of a setback.","그래서 임프나 하급 악마 따위를 소환해 발품을 대신 시키는 게 현명하다고 생각했어. 다만, 어... 약간의 차질이 있었다.",M2Q3DWANEV,,,,,0,0
+35725,Dialog,DWANEV,I was somewhat less than careful with the preparations and the little fiend escaped the summoning circle. Let this be a lesson about casting when drunk.,준비가 다소 허술했던 탓에 그 꼬마 악마가 소환진을 빠져나갔어. 취중 시전이 어떤 결과를 부르는지 교훈 삼도록.,M2Q3DWANEV,,,,,0,0
+35726,Dialog,DWANEV,The wretch expanded the portal and began to bring forth his demonic minions. I sealed off the area as fast as I could and sobered up.,그 자식이 차원문을 넓혀 자기 부하 악마들을 불러들이기 시작했지. 최대한 빨리 그 구역을 봉인하고 나서야 냉정을 되찾았다.,M2Q3DWANEV,,,,,0,0
+35727,Dialog,DWANEV,"In my haste, I left the gem in a storage chest and subsequent forays into my summoning chamber have met with ill luck. I shall truly miss Pooky. He was a loving familiar.","서두르다 보니 보석을 보관함에 두고 나왔고, 그 뒤로 소환실에 들어가 보려 할 때마다 운이 따르지 않았지. '푸키'가 정말 그립군. 애정 많은 사역마였거든.",M2Q3DWANEV,,,,,0,0
+35728,Dialog,DWANEV,"So you see, the area is quite full of demonic adversaries and the gem lies within, most likely stolen by that spiteful imp!","보는 바와 같이, 그 구역은 악마 놈들로 가득하고 보석은 그 안에 있어-아마 그 얄미운 임프가 훔쳐 갔겠지!",M2Q3DWANEV,m2q3wanev005,,,,0,0
+35729,Dialog,DWANEV,The door behind me shall teleport you there though I keep it well locked for safety's sake.,내 뒤의 문이 자네를 그곳으로 순간이동시킬 거다. 안전을 위해 단단히 잠가 두었지만.,M2Q3DWANEV,,,,,0,0
+35730,Dialog,DWANEV,"Take the key and know this: if you should be able to close the demon portal, I would be most grateful. The gem is yours regardless. What say you?",이 열쇠를 가져가게. 그리고 명심해: 네가 악마의 차원문을 닫을 수 있다면 크게 감사하겠네. 보석은 어차피 네 것이야. 어때?,M2Q3DWANEV,m2q3wanev006,,,,0,0
+35731,Dialog,DWANEV,I'm sure I can dig up some magical equipment of no small worth while you try to set things right.,"네가 사태를 수습하는 동안, 제법 값어치 있는 마법 장비를 좀 찾아낼 수 있을 거야.",M2Q3DWANEV,,,,,0,0
+35732,Dialog,DWANEV,You need only kill the imp that I originally summoned and place his cursed little heart in the summoning brazier. That should take care of the portal. His name is Gulgash.,처음에 내가 소환했던 임프만 처치해 그 저주받은 작은 심장을 소환 화로에 넣으면 돼. 이름은 굴가시다.,M2Q3DWANEV,,,,,0,0
+35733,Dialog,DWANEV,Please return to me when you have closed the portal for I shall try to find a suitable reward in the meantime.,차원문을 닫았으면 내게 돌아오게. 그동안 어울리는 보상을 찾아 보지.,M2Q3DWANEV,,,,,0,0
+35734,Dialog,DWANEV,"Very well. If you change your mind, I would be grateful.",좋아. 마음이 바뀌면 고맙겠군.,M2Q3DWANEV,,,,,0,0
+35735,Dialog,DWANEV,I'd love to but I have nothing with me. I'm sure I can find something by the time you've completed the task.,"나도 그러고 싶지만, 지금은 가진 게 없네. 네가 임무를 마칠 때쯤엔 뭔가 찾아 보지.",M2Q3DWANEV,,,,,0,0
+35736,Dialog,DWANEV,"Hello, again. Have you managed to kill the imp and close the portal?",또 보는군. 임프를 처치하고 차원문을 닫았나?,M2Q3DWANEV,,,,vs_nwizarm3_055,0,0
+35737,Dialog,DWANEV,Greetings. Have you changed your mind about attempting to close the portal?,안녕하오. 차원문을 닫아 보겠다는 생각이 바뀌었나?,M2Q3DWANEV,,,,vs_nwizarm3_054,0,0
+35738,Dialog,DWANEV,"Hmm, yes. The hallway that leads from the first large area you'll find yourself in leads to my treasure chamber. This is, in fact, where I had stored the gem. ","흠, 그렇지. 처음 들어가게 될 큰 구역에서 이어지는 복도가 내 보물실로 통한다. 실은 그곳에 보석을 보관해 두었지.",M2Q3DWANEV,,,,,0,0
+35739,Dialog,DWANEV,"Halfway down the hallway is a defence lever. When pulled, it lets off a rather nasty spell in the treasure chamber. This should weaken any demonic beings that might have made their way there.",복도 중간쯤에 방어용 레버가 있다. 당기면 보물실에 꽤 고약한 주문이 발동해. 거기까지 들어간 악마들을 약화시키는 데 도움이 될 거야.,M2Q3DWANEV,,,,,0,0
+35740,Dialog,DWANEV,What do you want now? Don't be rash and attack me again.,이번엔 뭘 원하지? 성급하게 덤벼들진 마.,M2Q3DWANEV,,,,vs_nwizarm3_053,0,0
+35741,Dialog,DWANEV,Indeed. I made a mistake when summoning that imp and he opened up a demonic portal in my summoning chambers.,그래. 그 임프를 소환할 때 실수해서 소환실에 악마 차원문이 열리고 말았지.,M2Q3DWANEV,,,,,0,0
+35742,Dialog,DWANEV,Please return when you have closed the portal. The door to the summoning chamber is behind me.,차원문을 닫았으면 돌아오게. 소환실로 가는 문은 내 뒤에 있다.,M2Q3DWANEV,,,,,0,0
+35743,Dialog,DWANEV,You need only kill the imp that I originally summoned and place his cursed little heart in the summoning brazier. That should take care of the portal. His name is Gulgash.,처음에 내가 소환했던 임프만 처치해 그 저주받은 작은 심장을 소환 화로에 넣으면 돼. 이름은 굴가시다.,M2Q3DWANEV,,,,,0,0
+35744,Dialog,DWANEV,"Ah, excellent. Here is a reward for your troubles. A bruised ego and the loss of a couple of magic items are a small price to pay for having my summoning chamber back. ","아, 훌륭해. 수고에 대한 보상이다. 자존심에 상처 좀 입고 마법 아이템 두어 개 잃은 건, 소환실을 되찾는 대가로 치면 작은 대가지.",M2Q3DWANEV,m2q3wanreward,,,,0,0
+35745,Dialog,DWANEV,"Well, I have some work to do so we shall most likely not meet again. I could set up a teleport portal to help you get out of here, if you'd like.","자, 아직 할 일이 있어서 아마 다시 볼 일은 없겠군. 원한다면 여기서 나가도록 차원문을 열어 줄 수 있다.",M2Q3DWANEV,,,,,0,0
+35746,Dialog,DWANEV,"Why not, my friend! Here is some extra coin!","왜 안 되겠나, 친구! 금화를 조금 더 주지!",M2Q3DWANEV,m2q3wanev007,,,,0,0
+35747,Dialog,DWANEV,<StartCheck>[Success]</Start> Hmm. You have saved me a great deal of trouble! Here is some extra coin!,<StartCheck>[성공]</Start> 흠. 수고를 크게 덜어 줬군! 금화를 조금 더 주지!,M2Q3DWANEV,m2q3wanev007,,,,0,0
+35748,Dialog,DWANEV,<StartCheck>[Failure]</Start> The reward I've given you is quite valuable and quite sufficient.,"<StartCheck>[실패]</Start> 방금 준 보상은 꽤 값지고, 충분하다.",M2Q3DWANEV,,,,,0,0
+35749,Dialog,DWANEV,"Calmly, friend. There is no reason for violence. Take my last coins, then!","진정하게, 친구. 폭력은 필요 없어. 그럼 내 마지막 금화를 가져가!",M2Q3DWANEV,m2q3wanev007,,,,0,0
+35750,Dialog,DWANEV,Goodbye.,잘 가라.,M2Q3DWANEV,,,,,0,0
+35751,Dialog,DWANEV,No need to get nasty. I'll tell you.,흥분할 것 없지. 말해 주지.,M2Q3DWANEV,,,,,0,0
+35752,Dialog,DWANEV,Very well. Goodbye.,좋아. 잘 가라.,M2Q3DWANEV,m2q3wanevtele,,,,0,0
+35753,Dialog,DWANEV,As you wish. Farewell.,원한다면야. 안녕히 가라.,M2Q3DWANEV,m2q3wanev011,,,,0,0

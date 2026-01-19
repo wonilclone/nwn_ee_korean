@@ -1,0 +1,46 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+93600,PC,Player Character,"""Quiet. I'll ask the questions, here.""","""조용히 해. 질문은 내가 할 거야.""",q2asharwyn,,,,,0,0
+93601,PC,Player Character,"""That's not important. You died and I just raised you.""","""그건 중요하지 않아. 넌 죽었고 내가 막 살려냈어.""",q2asharwyn,,,,,0,0
+93602,PC,Player Character,"""The name is <FirstName>. You were in the tavern, weren't you?""","""이름은 <FirstName>이야. 넌 선술집에 있었지?""",q2asharwyn,,q2a_sharwyn04,,,0,0
+93603,PC,Player Character,"""You don't remember me? I spoke to your group at the tavern.""","""날 기억 못해? 선술집에서 네 일행과 얘기했잖아.""",q2asharwyn,,q2a_sharwyn03,,,0,0
+93604,PC,Player Character,"""You don't remember me? We spoke at the tavern.""","""날 기억 못해? 우리 선술집에서 얘기했잖아.""",q2asharwyn,,q2a_sharwyn02,,,0,0
+93605,PC,Player Character,"""How about you join me?""","""나랑 함께하는 건 어때?""",q2asharwyn,,q2a_sharwyn02,,,0,0
+93606,PC,Player Character,"""True enough. Go back to the inn, then.""","""맞는 말이야. 그럼 여관으로 돌아가.""",q2asharwyn,,,,,0,0
+93607,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I could still use your help, regardless.""","<StartCheck>[설득]</Start> ""그래도 네 도움이 필요해.""",q2asharwyn,,,,,0,0
+93608,PC,Player Character,"""I think your assistance would be fair exchange for saving you.""","""널 구해줬으니 도움을 주는 게 공정한 교환이라고 생각해.""",q2asharwyn,,,,,0,0
+93609,PC,Player Character,"""What are you going to do now?""","""이제 뭘 할 거야?""",q2asharwyn,,,,,0,0
+93610,PC,Player Character,"""Go on back to the inn, and fare you well.""","""여관으로 돌아가고, 행운을 빌어.""",q2asharwyn,,,,,0,0
+93611,PC,Player Character,"""You won't be going anywhere, I'm afraid. Time to die... again.""","""어디 갈 생각은 마. 다시 죽을 시간이야.""",q2asharwyn,,,,,0,0
+93612,PC,Player Character,"""Go on, get out of here, then.""","""가, 여기서 나가.""",q2asharwyn,,,,,0,0
+93613,PC,Player Character,"""I raised you, I can put you back."" <StartAction>[Kill her.]</Start>","""내가 살렸으니 다시 죽일 수도 있어."" <StartAction>[그녀를 죽인다.]</Start>",q2asharwyn,,,,,0,0
+93614,PC,Player Character,"""This is all the thanks I get for bringing you back to life?""","""살려줬더니 고마워하는 게 고작 이거야?""",q2asharwyn,,,,,0,0
+93615,PC,Player Character,"""Fine. I feel the need to kill you again, I think.""","""좋아. 다시 죽이고 싶어지는데.""",q2asharwyn,,,,,0,0
+93616,PC,Player Character,"""Just some simple gratitude would be nice.""","""그냥 간단한 감사 인사면 좋겠어.""",q2asharwyn,,,,,0,0
+93617,PC,Player Character,"""Other plans? You mean such as killing you again?""","""다른 계획? 다시 널 죽이는 것 같은?""",q2asharwyn,,,,,0,0
+93618,PC,Player Character,"""No, that's fine. Go back to the inn.""","""아니, 괜찮아. 여관으로 돌아가.""",q2asharwyn,,,,,0,0
+93619,PC,Player Character,"""Well... you *are* rather cute...""","""음... 넌 *확실히* 꽤 귀엽긴 해...""",q2asharwyn,,nw_d2_male,,,0,0
+93620,PC,Player Character,"""Turning me down, eh? Maybe you need to die again.""","""거절하는 거야? 다시 죽어야 할지도.""",q2asharwyn,,,,,0,0
+93621,PC,Player Character,"""Of course I'm not serious! Ha ha ha!""","""당연히 농담이야! 하하하!""",q2asharwyn,,,,,0,0
+93622,PC,Player Character,"""No, I don't mean *here*. Maybe back at the inn?""","""아니, *여기서* 말고. 여관에서는 어때?""",q2asharwyn,,,,,0,0
+93623,PC,Player Character,"""Why not? You should do so well.""","""왜 안 돼? 넌 잘할 텐데.""",q2asharwyn,,,,,0,0
+93624,PC,Player Character,"""Well how about I settle for just a 'thank you' for now?""","""지금은 그냥 '고마워'로 만족할게.""",q2asharwyn,,,,,0,0
+93625,PC,Player Character,"""Fine, have it your way. Run along, then.""","""좋아, 마음대로 해. 그럼 가.""",q2asharwyn,,,,,0,0
+93626,PC,Player Character,"""Ha ha! I'm just kidding! You look so serious!""","""하하! 농담이야! 너 정말 진지하네!""",q2asharwyn,,,,,0,0
+93627,PC,Player Character,"""That's what I want. I don't have time for real romance.""","""그게 내가 원하는 거야. 진짜 로맨스할 시간 없거든.""",q2asharwyn,,,,,0,0
+93628,PC,Player Character,"""I can always return you to that state and leave you for the next adventurer to wander by.""","""언제든 그 상태로 되돌려놓고 다음 모험가한테 맡길 수 있어.""",q2asharwyn,,,,,0,0
+93629,PC,Player Character,"""Why don't you come with me, instead?""","""대신 나랑 같이 가는 건 어때?""",q2asharwyn,,,,,0,0
+93630,PC,Player Character,"""Is there anything you can tell me about this area?""","""이 지역에 대해 알려줄 수 있는 거 있어?""",q2asharwyn,,,,,0,0
+93631,PC,Player Character,"""Do you know where the rest of your group is?""","""나머지 일행이 어디 있는지 알아?""",q2asharwyn,,q2a_sharnocomp,,,0,0
+93632,PC,Player Character,"""What happened to you, exactly?""","""정확히 무슨 일이 있었던 거야?""",q2asharwyn,,,,,0,0
+93633,PC,Player Character,"""An ambush?""","""매복?""",q2asharwyn,,,,,0,0
+93634,PC,Player Character,"""Tell me who you are.""","""네가 누군지 말해봐.""",q2asharwyn,,q2a_sharwyn01,,,0,0
+93635,PC,Player Character,"""I'll be moving on, then.""","""그럼 난 갈게.""",q2asharwyn,,,,,0,0
+93636,PC,Player Character,"""Where are your companions now? Do you know?""","""동료들은 지금 어디 있어? 알아?""",q2asharwyn,,,,,0,0
+93637,PC,Player Character,"""Things are going well enough.""","""일이 꽤 잘 되고 있어.""",q2asharwyn,,,,,0,0
+93638,PC,Player Character,"""I have some items I don't recognize... could you identify them?""","""뭔지 모르는 물건들이 있어... 감정해줄 수 있어?""",q2asharwyn,,,,,0,0
+93639,PC,Player Character,"""I was hoping you'd consider joining me.""","""나랑 함께하는 걸 고려해줬으면 해.""",q2asharwyn,,,,,0,0
+93640,PC,Player Character,"""Take a flying leap off the roof, bard.""","""지붕에서 뛰어내려, 음유시인.""",q2asharwyn,,,,,0,0
+93641,PC,Player Character,"""Seeing how quickly you drop dead, I'm surprised to see you alive, too.""","""그렇게 빨리 죽는 걸 보니, 살아있는 게 나도 놀라워.""",q2asharwyn,,[지능 높음],,,0,0
+93642,PC,Player Character,"""Not happy to see me, I take it?""","""날 보니 반갑지 않은 모양이지?""",q2asharwyn,,,,,0,0
+93643,PC,Player Character,"<StartCheck>[Persuade]</Start> ""I hope you'll accept my apology for the way I acted down there.""","<StartCheck>[설득]</Start> ""저 아래에서 내가 그렇게 행동한 거 사과할게. 받아줬으면 해.""",q2asharwyn,,,,,0,0
+93644,PC,Player Character,"""I should go.""","""난 가야 해.""",q2asharwyn,,,,,0,0

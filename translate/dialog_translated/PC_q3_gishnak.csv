@@ -1,0 +1,102 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72258,PC,Player Character,"I seek your deaths, monsters, and nothing more!","괴물들아, 너희를 죽이러 왔을 뿐이다!",q3_gishnak,,,,,0,0
+72259,PC,Player Character,How is it that you speak my language?,어떻게 내 언어를 하는 거지?,q3_gishnak,,,,,0,0
+72260,PC,Player Character,What I'm looking for is none of your business.,내가 찾는 건 네가 알 바 아니야.,q3_gishnak,,,,,0,0
+72261,PC,Player Character,This is pointless. Time for you to die!,쓸데없는 짓이야. 이제 죽을 시간이다!,q3_gishnak,,,,,0,0
+72262,PC,Player Character,"I'm not telling you anything, beast.","아무것도 말하지 않을 거야, 짐승.",q3_gishnak,,,,,0,0
+72263,PC,Player Character,<StartCheck>[Intimidate]</Start> I can kill you all with ease. I'll ask the questions around here!,<StartCheck>[위협]</Start> 너희 모두 쉽게 죽일 수 있어. 질문은 내가 할 거야!,q3_gishnak,,,,,0,0
+72264,PC,Player Character,I'm looking for some artifacts that were stolen from Hilltop.,힐탑에서 도난당한 유물들을 찾고 있어.,q3_gishnak,,,,,0,0
+72265,PC,Player Character,"So you have the artifacts the kobolds stole, then?","그럼 코볼트들이 훔친 유물을 가지고 있는 거군?",q3_gishnak,,,,,0,0
+72266,PC,Player Character,That's all I need to know. Time to die!,알아야 할 건 다 알았어. 이제 죽을 시간이야!,q3_gishnak,,,,,0,0
+72267,PC,Player Character,I thought you were the chieftain. How could someone command you?,넌 족장 아니었나? 누가 네게 명령한단 말이야?,q3_gishnak,,,,,0,0
+72268,PC,Player Character,Why does J'Nah seek these artifacts?,즈나는 왜 이 유물들을 찾는 거지?,q3_gishnak,,,,,0,0
+72269,PC,Player Character,You don't sound like you care much for this J'Nah.,이 즈나를 별로 신경 쓰지 않는 것 같은데.,q3_gishnak,,,,,0,0
+72270,PC,Player Character,Tell me about this mistress of yours.,네 여주인에 대해 말해 줘.,q3_gishnak,,q3_knowjnah,,,0,0
+72271,PC,Player Character,Who is this J'Nah you speak of?,네가 말하는 즈나는 누구지?,q3_gishnak,,q3_notknowjnah,,,0,0
+72272,PC,Player Character,I demand that you release the prisoners you've taken!,잡아간 포로들을 풀어주길 요구한다!,q3_gishnak,,q3_gotslaves,,,0,0
+72273,PC,Player Character,"Release the prisoners or die, fiend!","포로들을 풀어주든지, 죽든지 해라, 악마 같은 놈!",q3_gishnak,,,,,0,0
+72274,PC,Player Character,I'm searching for the sorceress J'Nah.,요술사 즈나를 찾고 있어.,q3_gishnak,,q3_knowjnah,,,0,0
+72275,PC,Player Character,"Then I'll simply have to get to her through you, won't I?","그럼 너를 거쳐서 그녀에게 가야겠군, 그렇지?",q3_gishnak,,,,,0,0
+72276,PC,Player Character,I think she'll want to see me.,그녀가 날 보고 싶어 할 거야.,q3_gishnak,,,,,0,0
+72277,PC,Player Character,I suppose you're right. She probably doesn't want to see me.,네 말이 맞나 보군. 그녀가 날 보고 싶어 하지 않을 거야.,q3_gishnak,,,,,0,0
+72278,PC,Player Character,I'm here to kill her... and all of you!,그녀를 죽이러 왔어... 너희 모두를!,q3_gishnak,,,,,0,0
+72279,PC,Player Character,<StartCheck>[Persuade]</Start> We're old friends. She just doesn't know I'm here.,<StartCheck>[설득]</Start> 우린 옛 친구야. 그녀가 내가 여기 있는 걸 모를 뿐이지.,q3_gishnak,,,,,0,0
+72280,PC,Player Character,<StartCheck>[Persuade]</Start> I have important information for her.,<StartCheck>[설득]</Start> 그녀에게 중요한 정보가 있어.,q3_gishnak,,[지능 보통],,,0,0
+72281,PC,Player Character,"<StartCheck>[Persuade]</Start> Because I can get her what she wants, that's why.",<StartCheck>[설득]</Start> 그녀가 원하는 걸 가져다 줄 수 있으니까.,q3_gishnak,,q3_knowjnah04,,,0,0
+72282,PC,Player Character,<StartCheck>[Persuade]</Start> Because I can get her the artifacts she's looking for.,<StartCheck>[설득]</Start> 그녀가 찾는 유물들을 가져다 줄 수 있으니까.,q3_gishnak,,q3_knowjnah03,,,0,0
+72283,PC,Player Character,<StartCheck>[Persuade]</Start> That's between me and J'Nah.,<StartCheck>[설득]</Start> 그건 나와 즈나 사이의 일이야.,q3_gishnak,,,,,0,0
+72284,PC,Player Character,I'm tired of this. I'll convince you the hard way.,이제 지쳤어. 힘으로 설득하겠어.,q3_gishnak,,,,,0,0
+72285,PC,Player Character,That's for you to decide.,그건 네가 결정할 일이야.,q3_gishnak,,,,,0,0
+72286,PC,Player Character,<StartCheck>[Persuade]</Start> I could put in a good word with J'Nah for you...,<StartCheck>[설득]</Start> 즈나에게 네 좋은 말을 전해줄 수 있는데...,q3_gishnak,,[지능 높음],,,0,0
+72287,PC,Player Character,"<StartCheck>[Persuade]</Start> You want to stay on J'Nah's good side, don't you?",<StartCheck>[설득]</Start> 즈나의 호의를 유지하고 싶지 않아?,q3_gishnak,,,,,0,0
+72288,PC,Player Character,<StartCheck>[Intimidate]</Start> You'll let me through or I'll kill the rest of you! That's why!,<StartCheck>[위협]</Start> 날 통과시키든지 아니면 너희 나머지를 죽이든지 해! 그래서야!,q3_gishnak,,,,,0,0
+72289,PC,Player Character,I'm not agreeing to this!,이건 동의할 수 없어!,q3_gishnak,,,,,0,0
+72290,PC,Player Character,Very well. I agree to this.,좋아. 동의하지.,q3_gishnak,,,,,0,0
+72291,PC,Player Character,I believe she has some artifacts that were stolen from Hilltop.,힐탑에서 도난당한 유물들을 가지고 있다고 생각해.,q3_gishnak,,,,,0,0
+72292,PC,Player Character,"I've come to kill her, of course.","당연히 그녀를 죽이러 왔지.",q3_gishnak,,,,,0,0
+72293,PC,Player Character,Your hated mistress?,네가 증오하는 여주인?,q3_gishnak,,,,,0,0
+72294,PC,Player Character,And does she know you want to kill her? Because I could always tell her...,그녀가 네가 자신을 죽이고 싶어 하는 걸 알까? 내가 알려줄 수도 있는데...,q3_gishnak,,,,,0,0
+72295,PC,Player Character,I certainly have no intention of helping you monsters!,괴물들을 도울 생각은 절대 없어!,q3_gishnak,,,,,0,0
+72296,PC,Player Character,But I don't intend to kill her. I just want to speak to her.,하지만 그녀를 죽일 생각은 없어. 그냥 얘기하고 싶을 뿐이야.,q3_gishnak,,q3_intendkill02,,,0,0
+72297,PC,Player Character,Are you saying you'd help me fight her?,그녀와 싸우는 걸 도와주겠다는 거야?,q3_gishnak,,,,,0,0
+72298,PC,Player Character,Forget it. I don't need your help.,됐어. 네 도움은 필요 없어.,q3_gishnak,,,,,0,0
+72299,PC,Player Character,"If she doesn't give me what I want, then yes... I will fight her.","그녀가 내가 원하는 걸 주지 않으면, 그래... 싸울 거야.",q3_gishnak,,,,,0,0
+72300,PC,Player Character,"If you help me, I will fight her.","네가 도와준다면, 그녀와 싸울게.",q3_gishnak,,,,,0,0
+72301,PC,Player Character,"I wish passage through these caves, nothing more.","이 동굴을 통과하고 싶을 뿐이야, 그게 전부야.",q3_gishnak,,,,,0,0
+72302,PC,Player Character,Then go. Take your tribe and leave.,그럼 가. 부족을 데리고 떠나.,q3_gishnak,,,,,0,0
+72303,PC,Player Character,"No, you'll do as *I* wish! I'm in command here, gnoll!","아니, 넌 *내*가 원하는 대로 할 거야! 여기선 내가 지휘한다, 놀!",q3_gishnak,,,,,0,0
+72304,PC,Player Character,"I've changed my mind. You must die, gnoll.","마음이 바뀌었어. 넌 죽어야 해, 놀.",q3_gishnak,,,,,0,0
+72305,PC,Player Character,"I have questions I want answered, first.","먼저 대답받고 싶은 질문들이 있어.",q3_gishnak,,,,,0,0
+72306,PC,Player Character,I want you to leave these caves at once. Pray we never cross paths again!,당장 이 동굴을 떠나. 다시는 마주치지 않길 바라!,q3_gishnak,,,,,0,0
+72307,PC,Player Character,"Then I am in charge, now! You will do as I say!","그럼 이제 내가 지휘한다! 내 말대로 해!",q3_gishnak,,,,,0,0
+72308,PC,Player Character,Not good enough! You do *whatever* I say!,충분하지 않아! 내가 말하는 *모든 것*을 해!,q3_gishnak,,,,,0,0
+72309,PC,Player Character,Good. Now answer my questions.,좋아. 이제 내 질문에 답해.,q3_gishnak,,,,,0,0
+72310,PC,Player Character,"No deal! You die now, monster!","안 돼! 이제 죽어, 괴물!",q3_gishnak,,,,,0,0
+72311,PC,Player Character,"Then answer my questions, first.","그럼 먼저 내 질문에 답해.",q3_gishnak,,,,,0,0
+72312,PC,Player Character,I don't have any more questions.,더 이상 질문은 없어.,q3_gishnak,,,,,0,0
+72313,PC,Player Character,"You're going to do whatever I tell you to. I'm in charge, now.","넌 내가 시키는 대로 할 거야. 이제 내가 책임자야.",q3_gishnak,,,,,0,0
+72314,PC,Player Character,I'm finished with you... now you die.,너와는 끝났어... 이제 죽어.,q3_gishnak,,,,,0,0
+72315,PC,Player Character,Tell me about these ruins J'Nah is in.,즈나가 있는 폐허에 대해 말해 줘.,q3_gishnak,,q3_knowruins02,,,0,0
+72316,PC,Player Character,Where do I find this J'nah?,이 즈나는 어디서 찾을 수 있지?,q3_gishnak,,q3_knowruins03,,,0,0
+72317,PC,Player Character,I want to know everything you do about J'Nah.,즈나에 대해 네가 아는 모든 걸 알고 싶어.,q3_gishnak,,q3_knowjnah,,,0,0
+72318,PC,Player Character,Tell me more about this J'Nah.,이 즈나에 대해 더 말해 줘.,q3_gishnak,,q3_notknowjnah,,,0,0
+72319,PC,Player Character,Why does J'Nah seek the artifacts?,즈나는 왜 유물들을 찾는 거지?,q3_gishnak,,q3_knowjnah03,,,0,0
+72320,PC,Player Character,You don't seem to like this J'Nah much.,이 즈나를 별로 좋아하지 않는 것 같은데.,q3_gishnak,,q3_knowhate02,,,0,0
+72321,PC,Player Character,"Even if I wanted to fight her, I wouldn't want your ""help"".","그녀와 싸우고 싶어도, 네 ""도움""은 원하지 않아.",q3_gishnak,,,,,0,0
+72322,PC,Player Character,And does she know you want to kill her? Because I could always tell her...,그녀가 네가 자신을 죽이고 싶어 하는 걸 알까? 내가 알려줄 수도 있는데...,q3_gishnak,,,,,0,0
+72323,PC,Player Character,But I don't know if I even intend to fight her.,하지만 그녀와 싸울 생각인지도 모르겠어.,q3_gishnak,,,,,0,0
+72324,PC,Player Character,Are you saying you'd help me fight her?,그녀와 싸우는 걸 도와주겠다는 거야?,q3_gishnak,,,,,0,0
+72325,PC,Player Character,"Forget it. I don't need your ""help"".","됐어. 네 ""도움""은 필요 없어.",q3_gishnak,,,,,0,0
+72326,PC,Player Character,"If she doesn't give me what I want, then yes... I will fight her.","그녀가 내가 원하는 걸 주지 않으면, 그래... 싸울 거야.",q3_gishnak,,,,,0,0
+72327,PC,Player Character,"If you're willing to fight her, then yes... that's what I want.","네가 그녀와 싸울 의향이 있다면, 그래... 그게 내가 원하는 거야.",q3_gishnak,,,,,0,0
+72328,PC,Player Character,Do you have any of the artifacts stolen from Hilltop?,힐탑에서 도난당한 유물들을 가지고 있나?,q3_gishnak,,,,,0,0
+72329,PC,Player Character,Where are those kobolds now?,그 코볼트들은 지금 어디 있지?,q3_gishnak,,q3_nokobolds,,,0,0
+72330,PC,Player Character,Nothing. I should go.,없어. 이제 가야겠어.,q3_gishnak,,,,,0,0
+72331,PC,Player Character,"I've decided you need to die, creature!","네가 죽어야겠다고 결정했어, 괴물!",q3_gishnak,,,,,0,0
+72332,PC,Player Character,"So you are going to help me when I fight J'Nah, correct?","그럼 즈나와 싸울 때 날 도와주는 거지, 맞지?",q3_gishnak,,q3_sc_gishnak5,,,0,0
+72333,PC,Player Character,You mentioned that you wanted J'Nah gone?,즈나가 사라지길 원한다고 했지?,q3_gishnak,,q3_knowhate03,,,0,0
+72334,PC,Player Character,I demand that you release the prisoners you've taken!,잡아간 포로들을 풀어주길 요구한다!,q3_gishnak,,q3_gotslaves,,,0,0
+72335,PC,Player Character,"Fine, do what you like.","좋아, 하고 싶은 대로 해.",q3_gishnak,,,,,0,0
+72336,PC,Player Character,<StartCheck>[Persuade]</Start> Is there nothing I can offer you in exchange for them?,<StartCheck>[설득]</Start> 그들과 교환할 수 있는 게 아무것도 없을까?,q3_gishnak,,,,,0,0
+72337,PC,Player Character,"Release them or die, fiend!","풀어주든지 죽든지 해라, 악마 같은 놈!",q3_gishnak,,,,,0,0
+72338,PC,Player Character,Slaves?! That's horrible!,노예?! 끔찍하군!,q3_gishnak,,,,,0,0
+72339,PC,Player Character,I have some questions.,몇 가지 질문이 있어.,q3_gishnak,,,,,0,0
+72340,PC,Player Character,Good. Let's keep it that way.,좋아. 계속 그렇게 해.,q3_gishnak,,,,,0,0
+72341,PC,Player Character,I want some gnolls to travel with me.,놀 몇 명이 나와 함께 가길 원해.,q3_gishnak,,,,,0,0
+72342,PC,Player Character,"Fine, have it your way.","좋아, 네 뜻대로 해.",q3_gishnak,,,,,0,0
+72343,PC,Player Character,"I'll go now, then.","그럼 이제 갈게.",q3_gishnak,,,,,0,0
+72344,PC,Player Character,"I think I'll kill you now, fool!","이제 널 죽이겠어, 바보!",q3_gishnak,,,,,0,0
+72345,PC,Player Character,Bah! This is useless! Die!!,흥! 쓸데없어! 죽어!!,q3_gishnak,,,,,0,0
+72346,PC,Player Character,"You will do as I say, gnoll!","내 말대로 할 거야, 놀!",q3_gishnak,,,,,0,0
+72347,PC,Player Character,I thought you agreed to obey me?,나한테 복종하기로 동의한 거 아니었어?,q3_gishnak,,,,,0,0
+72348,PC,Player Character,I want some changes made to the way you do things.,네가 하는 방식에 몇 가지 변화를 원해.,q3_gishnak,,,,,0,0
+72349,PC,Player Character,"So you are going to help me when I fight J'Nah, correct?","그럼 즈나와 싸울 때 날 도와주는 거지, 맞지?",q3_gishnak,,q3_sc_gishnak5,,,0,0
+72350,PC,Player Character,Then perhaps you will release your prisoners.,그럼 아마 포로들을 풀어줄 거야.,q3_gishnak,,q3_gotslaves,,,0,0
+72351,PC,Player Character,Then battle it is!,그럼 싸움이다!,q3_gishnak,,,,,0,0
+72352,PC,Player Character,"No, I don't want that.","아니, 그건 원하지 않아.",q3_gishnak,,,,,0,0
+72353,PC,Player Character,I'll be going now.,이제 갈게.,q3_gishnak,,,,,0,0
+72354,PC,Player Character,"Why be glad? You're next, monster!","왜 기뻐해? 다음은 네 차례야, 괴물!",q3_gishnak,,,,,0,0
+72355,PC,Player Character,Now take your tribe and leave this area. I don't want to see you ever again.,이제 부족을 데리고 이 지역을 떠나. 다시는 보고 싶지 않아.,q3_gishnak,,q3_sc_gishnak4,,,0,0
+72356,PC,Player Character,"<StartCheck>[Intimidate]</Start> I think it's time to give some tribute to your ruler, don't you agree?","<StartCheck>[위협]</Start> 네 지배자에게 공물을 바칠 시간인 것 같은데, 동의하지 않아?",q3_gishnak,,q3_sc_gishnak4,,,0,0
+72357,PC,Player Character,You are very welcome.,천만에.,q3_gishnak,,q3_sc_gishnak3,,,0,0
+72358,PC,Player Character,And I thank you for helping me fight her.,그녀와 싸우는 걸 도와줘서 고마워.,q3_gishnak,,q3_sc_gishnak2,,,0,0

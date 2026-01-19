@@ -1,0 +1,39 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+38572,PC,Player Character,Just wondering who you are.,그냥 당신이 누군지 궁금해서요.,m2q5l01gam,,[지능 보통],,,0,0
+38573,PC,Player Character,You look like an adventurer.,모험가 같아 보이시네요.,m2q5l01gam,,[지능 보통],,,0,0
+38574,PC,Player Character,I'll be going.,가볼게요.,m2q5l01gam,,[지능 보통],,,0,0
+38575,PC,Player Character [M2Q5C],The competition? What's that?,대회요? 그게 뭐죠?,m2q5l01gam,,m2q5cscontest0n,[M2Q5C],,0,0
+38576,PC,Player Character [M2Q5C],"Right, the competition. I don't think I'd want to risk it.","맞아요, 대회. 위험을 감수하고 싶진 않네요.",m2q5l01gam,,m2q5cscontest10n,[M2Q5C],,0,0
+38577,PC,Player Character [M2Q5C],"I intend to enter the competition, myself, actually.",사실 저도 대회에 참가할 생각입니다.,m2q5l01gam,,m2q5cscontest10n,[M2Q5C],,0,0
+38578,PC,Player Character,<StartCheck>[Persuade]</Start> I might be up for a contest. Tell me about it.,<StartCheck>[설득]</Start> 대회에 관심 있을 것 같아요. 말해주세요.,m2q5l01gam,,[지능 보통],,,0,0
+38579,PC,Player Character,How about 100 gold for you to tell me about it?,"금화 100개 줄게요, 그것에 대해 말해주시면.",m2q5l01gam,,[지능 보통],,,0,0
+38580,PC,Player Character,"Ah. Well, I wouldn't be interested in such a thing, then.",아. 그럼 저는 그런 것에 관심 없네요.,m2q5l01gam,,[지능 보통],,,0,0
+38581,PC,Player Character,<StartCheck>[Persuade]</Start> My apologies. It's just something I'd be interested in trying.,<StartCheck>[설득]</Start> 죄송합니다. 그냥 해보고 싶은 것 같아서요.,m2q5l01gam,,[지능 보통],,,0,0
+38582,PC,Player Character,Me just wonders what you name is.,나 그냥 이름 궁금해.,m2q5l01gam,,[지능 낮음],,,0,0
+38583,PC,Player Character,Is you an adventurer like me is?,너도 나처럼 모험가야?,m2q5l01gam,,[지능 낮음],,,0,0
+38584,PC,Player Character,Me go now.,나 가.,m2q5l01gam,,[지능 낮음],,,0,0
+38585,PC,Player Character [M2Q5C],Me not know. What is competition?,나 모르겠어. 대회 뭐야?,m2q5l01gam,,m2q5cscontest0l,[M2Q5C],,0,0
+38586,PC,Player Character [M2Q5C],"Oh, right. Me knows that. Me not doing competition, though.","아, 맞아. 나 알아. 근데 나 대회 안 해.",m2q5l01gam,,m2q5cscontest10l,[M2Q5C],,0,0
+38587,PC,Player Character [M2Q5C],Me is entering competition!,나 대회 참가해!,m2q5l01gam,,m2q5cscontest10l,[M2Q5C],,0,0
+38588,PC,Player Character,"<StartCheck>[Persuade]</Start> Me not know what contest is. You tell me now, okay?","<StartCheck>[설득]</Start> 나 대회 뭔지 몰라. 지금 말해줘, 응?",m2q5l01gam,,[지능 낮음],,,0,0
+38589,PC,Player Character,Me gives 100 gold if you tells me 'bout contest.,"나 금화 100개 줄게, 대회 말해주면.",m2q5l01gam,,[지능 낮음],,,0,0
+38590,PC,Player Character,Me not care about such thing. No big deal is contest.,나 그런 거 관심 없어. 대회 별거 아니야.,m2q5l01gam,,[지능 낮음],,,0,0
+38591,PC,Player Character,<StartCheck>[Persuade]</Start> Me sorry. Me just think competition sound fun!,<StartCheck>[설득]</Start> 미안. 나 그냥 대회 재밌을 것 같아서!,m2q5l01gam,,[지능 낮음],,,0,0
+65108,PC,Player Character,Why me cares?,나 왜 신경 써?,m2q5l01gam,,[지능 낮음],,,0,0
+65109,PC,Player Character,Me see what me can do. You holds on.,나 뭐 할 수 있는지 봐. 기다려.,m2q5l01gam,,[지능 낮음],,,0,0
+65110,PC,Player Character [M2Q5G],"Yes, me can heals you.","응, 나 치료해줄 수 있어.",m2q5l01gam,m2casthealing,m2q5gamhurt02,[M2Q5G],,0,0
+65111,PC,Player Character [M2Q5G],Here... you takes healing potion.,자... 치료 물약 가져.,m2q5l01gam,m2givehealpotion,m2q5gamhurt05,[M2Q5G],,0,0
+65112,PC,Player Character,You wants healing so you be in contest again.,너 치료받아서 다시 대회 하고 싶어.,m2q5l01gam,,[지능 낮음],,,0,0
+65113,PC,Player Character,You be hurt? What hurt you?,너 다쳤어? 뭐가 다치게 했어?,m2q5l01gam,m3casthealing,[지능 낮음],,,0,0
+65114,PC,Player Character,Why should I care?,왜 내가 신경 쓰죠?,m2q5l01gam,,[지능 보통],,,0,0
+65115,PC,Player Character,Tough. Me can handles myself.,힘들어. 나 혼자 잘해.,m2q5l01gam,,[지능 낮음],,,0,0
+65116,PC,Player Character,Maybe me should ends your misery.,나 너 고통 끝내줄까.,m2q5l01gam,,[지능 낮음],,,0,0
+65117,PC,Player Character,Tough. I can handle myself.,힘듭니다. 저 혼자 감당할 수 있어요.,m2q5l01gam,,[지능 보통],,,0,0
+65118,PC,Player Character,Perhaps I should put you out of your misery.,네 고통을 끝내주는 게 낫겠군요.,m2q5l01gam,,[지능 보통],,,0,0
+65119,PC,Player Character,I'll see what I can do. Hold on.,뭘 할 수 있는지 볼게요. 기다리세요.,m2q5l01gam,,[지능 보통],,,0,0
+65120,PC,Player Character [M2Q5G],"Yes, I can heal you.","네, 치료해드릴 수 있습니다.",m2q5l01gam,m2casthealing,m2q5gamhurt01,[M2Q5G],,0,0
+65121,PC,Player Character [M2Q5G],Here... take a healing potion.,자... 치료 물약을 받으세요.,m2q5l01gam,m2givehealpotion,m2q5gamhurt04,[M2Q5G],,0,0
+65122,PC,Player Character,You want me to heal you and put you back in the contest?,날 치료해서 다시 대회에 참가하게 해달라고요?,m2q5l01gam,,[지능 보통],,,0,0
+65123,PC,Player Character,You're injured? What did this to you?,다치셨어요? 무엇이 이렇게 만들었죠?,m2q5l01gam,,[지능 보통],,,0,0
+65124,PC,Player Character,"You forget it. You enters contest, just likes me.","너 잊어. 너 대회 참가했어, 나처럼.",m2q5l01gam,,[지능 낮음],,,0,0
+65125,PC,Player Character,"Forget it. You entered the contest, just like me.",잊으세요. 당신도 나처럼 대회에 참가했잖아요.,m2q5l01gam,,[지능 보통],,,0,0

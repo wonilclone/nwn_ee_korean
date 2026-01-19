@@ -1,0 +1,49 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+72359,Dialog,GLENDIR,"Thank you for releasing me. I thought I was never getting out of there! Now, uh... can you show me where the exit is?","풀어줘서 고마워요. 거기서 절대 못 나올 줄 알았어요! 자, 어... 출구가 어딘지 알려줄 수 있어요?",Q3_GLENDIR,q3_at_glendir2,,,,0,0
+72360,Dialog,GLENDIR,I *really* appreciate this. Thank you very much.,"*정말* 감사해요. 대단히 고마워요.",Q3_GLENDIR,q3_at_follow,,,,0,0
+72361,Dialog,GLENDIR,"Right, well... okay. I'll try looking for the exit, then. Uhhh... good luck!","그래, 음... 좋아요. 그럼 출구를 찾아볼게요. 어... 행운을 빌어요!",Q3_GLENDIR,q3_at_glendir3,,,,0,0
+72362,Dialog,GLENDIR,"What?! You're joking, aren't you? Ahhhhh!!","뭐?! 농담하는 거죠, 그렇죠? 아아아!!",Q3_GLENDIR,nw_d1_attonend02,,,,0,0
+72363,Dialog,GLENDIR,"Oh... well I... uh, that is... you did sort of get that from me under pressure, you know?","아... 그게 제가... 어, 그러니까... 어느 정도 압박 속에서 말한 거잖아요, 알죠?",Q3_GLENDIR,,,,,0,0
+72364,Dialog,GLENDIR,"Wait! Wait wait! I've, uh, I've changed my mind? No? Ahhhhh!!","잠깐! 잠깐 잠깐! 저, 어, 마음이 바뀌었어요? 아니라고요? 아아아!!",Q3_GLENDIR,nw_d1_attonend02,,,,0,0
+72365,Dialog,GLENDIR,"Oh. Well I, uh... look over there! AHHHHH!!!","아. 그게 저는, 어... 저기 봐요! 아아아!!!",Q3_GLENDIR,q3_at_glendir3,,,,0,0
+72366,Dialog,GLENDIR,"That's, uh, kind of what I was hoping you'd think. Would you... still show me where the exit is?","그게, 어, 당신이 그렇게 생각해주길 바랐던 거예요. 그래도... 출구가 어딘지 알려줄 수 있어요?",Q3_GLENDIR,,,,,0,0
+72367,Dialog,GLENDIR,"I... I... well I just... ohhh, damn it anyway!","저... 저... 그냥 저는... 아휴, 됐어요 뭐!",Q3_GLENDIR,,,,,0,0
+72368,Dialog,GLENDIR,"Look, I... I told the gnolls that so they would think I was worth something as a hostage! So they wouldn't eat me! And... I didn't think you would free me, either.","봐요, 저... 저는 놀들에게 그렇게 말해서 제가 인질로 가치가 있다고 생각하게 한 거예요! 그래야 날 안 잡아먹으니까! 그리고... 당신이 날 풀어줄 거라고도 생각 못 했어요.",Q3_GLENDIR,,,,,0,0
+72369,Dialog,GLENDIR,"The truth is... I don't have any money. Everything I had was in Blumberg and now it's gone. My sister is a smith in Hilltop, but she certainly isn't rich.","사실은... 돈이 없어요. 가진 건 전부 블럼버그에 있었는데 이제 다 사라졌어요. 누나가 힐탑에서 대장장이를 하는데, 부자는 분명히 아니에요.",Q3_GLENDIR,q3_knowsmith,,,,0,0
+72370,Dialog,GLENDIR,"You... still want the promissory note? But, uhhh... Fiona won't pay this, I'm sure!","아직도... 약속어음을 원해요? 하지만, 어... 피오나가 이걸 안 갚을 거예요, 분명해요!",Q3_GLENDIR,,,,,0,0
+72371,Dialog,GLENDIR,Okay... uhhh... will you still show me where the exit is?,좋아요... 어... 그래도 출구가 어딘지 알려줄 거예요?,Q3_GLENDIR,,,,,0,0
+72372,Dialog,GLENDIR,"I... I... suppose that's, uh, between you and her, then. Here you go. Will you show me to the exit now?","저... 저... 그건, 어, 당신과 누나 사이의 문제겠네요. 여기요. 이제 출구로 데려다줄 거예요?",Q3_GLENDIR,q3_givenote,,,,0,0
+72373,Dialog,GLENDIR,"It is, I'm afraid. Will you, uh... still show me to the exit?","유감이지만, 그래요. 그래도, 어... 출구로 데려다줄 거예요?",Q3_GLENDIR,,,,,0,0
+72374,Dialog,GLENDIR,"Uhhh... yes, her name is Fiona. But I don't know if she would help me out at all. Does... does this mean you won't show me to the exit now?","어... 네, 누나 이름은 피오나예요. 하지만 도와줄지는 모르겠어요. 이게... 이게 지금 출구로 안 데려다준다는 뜻인가요?",Q3_GLENDIR,,,,,0,0
+72375,Dialog,GLENDIR,Oh... of course. Uhhh... here you go. Now will you take me to the exit?,아... 물론이죠. 어... 여기요. 이제 출구로 데려다줄 거예요?,Q3_GLENDIR,q3_givenote,,,,0,0
+72376,Dialog,GLENDIR,"Ah! You there! I don't know what you're doing here in these caves, I'll just thank my stars you're not a gnoll. My name's Glendir, would you terribly mind letting me out of here?","아! 거기요! 이 동굴에서 뭘 하는지는 모르겠지만, 놀이 아니라서 정말 다행이에요. 제 이름은 글렌디르예요. 여기서 꺼내주시면 안 될까요?",Q3_GLENDIR,q3_talkedglendir,,,,0,0
+72377,Dialog,GLENDIR,What?! You're going to just leave me in here?! I don't believe it!,뭐?! 그냥 여기 놔두고 갈 거예요?! 믿을 수가 없어요!,Q3_GLENDIR,,,,,0,0
+72378,Dialog,GLENDIR,"Excellent. You won't regret it, I assure you!","훌륭해요. 후회 안 하실 거예요, 장담해요!",Q3_GLENDIR,,,,,0,0
+72379,Dialog,GLENDIR,But... can't you do something? You can't just leave me in here! Please!!,하지만... 뭔가 할 수 없어요? 그냥 여기 놔두고 가면 안 돼요! 제발!!,Q3_GLENDIR,,,,,0,0
+72380,Dialog,GLENDIR,"Thank you! Oh, thank you! Please hurry!","고마워요! 아, 고마워요! 서둘러주세요!",Q3_GLENDIR,,,,,0,0
+72381,Dialog,GLENDIR,But... the promissory note! I have it here! Please let me out!!,하지만... 약속어음이요! 여기 있어요! 제발 꺼내주세요!!,Q3_GLENDIR,,,,,0,0
+72382,Dialog,GLENDIR,"I'll have you know that my name is Glendir, eldest son of the Baron of Hilltop! I'm more than certain my father would reward you well for my release!","제 이름은 글렌디르예요. 힐탑 남작의 장남이라고요! 날 풀어주면 아버지가 충분히 보답하실 거예요!",Q3_GLENDIR,,,,,0,0
+72383,Dialog,GLENDIR,"I am Glendir, the eldest son of the Baron of Hilltop, of course! I'm quite valuable... alive, at any rate. If you release me, I'm sure my father would reward you well.","저는 당연히 힐탑 남작의 장남 글렌디르예요! 저는 꽤 가치가 있어요... 살아 있을 때 말이지만. 풀어주시면, 아버지가 충분히 보답하실 거예요.",Q3_GLENDIR,q3_glendir01,,,,0,0
+72384,Dialog,GLENDIR,Wait! Wait! Don't go!,잠깐! 잠깐요! 가지 마세요!,Q3_GLENDIR,,,,,0,0
+72385,Dialog,GLENDIR,"Why, yes. I'm sure my father would shower you with gratitude and gold upon my return! A thousand... no, wait, *two* thousand gold!","아, 네. 제가 돌아가면 아버지가 감사와 금화를 듬뿍 주실 거예요! 천... 아니, 잠깐, *2천* 금화요!",Q3_GLENDIR,,,,,0,0
+72386,Dialog,GLENDIR,I... I can write up a promissory note! That's it! The gnoll chieftain gave me some parchment to write my ransom note with... you could give the note to my father!,저... 저 약속어음을 쓸 수 있어요! 그래요! 놀 족장이 몸값 요구서를 쓰라고 양피지를 줬어요... 그 어음을 아버지께 가져다주면 돼요!,Q3_GLENDIR,,,,,0,0
+72387,Dialog,GLENDIR,So... you'll let me out of here?,그래서... 여기서 꺼내줄 거예요?,Q3_GLENDIR,,,,,0,0
+72388,Dialog,GLENDIR,"Start writing? Oh, of course! I'll start that right now! Thank you!","쓰기 시작하라고요? 아, 물론이죠! 지금 당장 쓸게요! 고마워요!",Q3_GLENDIR,,,,,0,0
+72389,Dialog,GLENDIR,"Uhhh... maybe, but... my father isn't *that* wealthy.","어... 그럴 수도 있지만... 아버지가 *그렇게* 부자는 아니에요.",Q3_GLENDIR,,,,,0,0
+72390,Dialog,GLENDIR,"I... I... well I just... ohhh, damn it anyway!","저... 저... 그냥 저는... 아휴, 됐어요 뭐!",Q3_GLENDIR,,,,,0,0
+72391,Dialog,GLENDIR,"Ahh! No no! No, please, don't do that! I hate pain!","아! 안 돼 안 돼! 제발, 그러지 마세요! 아픈 건 싫어요!",Q3_GLENDIR,,,,,0,0
+72392,Dialog,GLENDIR,"Oh... well I, ah, didn't know you knew that...","아... 그게, 아, 그걸 아셨는지 몰랐어요...",Q3_GLENDIR,,,,,0,0
+72393,Dialog,GLENDIR,"Look, I... I told the gnolls that so they would think I was worth something as a hostage! So they wouldn't eat me! Can you blame me?","봐요, 저... 저는 놀들에게 그렇게 말해서 제가 인질로 가치가 있다고 생각하게 한 거예요! 그래야 날 안 잡아먹으니까! 제가 잘못했나요?",Q3_GLENDIR,q3_glendir02,,,,0,0
+72394,Dialog,GLENDIR,"The truth is... I don't have any money. Everything I had was in Blumberg and now it's gone. My sister is a smith in Hilltop, but she certainly isn't rich.","사실은... 돈이 없어요. 가진 건 전부 블럼버그에 있었는데 이제 다 사라졌어요. 누나가 힐탑에서 대장장이를 하는데, 부자는 분명히 아니에요.",Q3_GLENDIR,q3_knowsmith,,,,0,0
+72395,Dialog,GLENDIR,"No, please! Please! I'll... I'll do anything! Anything!","안 돼요, 제발! 제발! 저... 뭐든지 할게요! 뭐든지요!",Q3_GLENDIR,,,,,0,0
+72396,Dialog,GLENDIR,"It is, it is! Please... won't you let me out of here?","맞아요, 맞아요! 제발... 여기서 꺼내주시겠어요?",Q3_GLENDIR,,,,,0,0
+72397,Dialog,GLENDIR,"Uhhh... yes, her name is Fiona. But I don't know if she would help me out at all. Does... does this mean I have to stay in the cage?","어... 네, 누나 이름은 피오나예요. 하지만 도와줄지는 모르겠어요. 이게... 이게 우리 안에 있어야 한다는 뜻인가요?",Q3_GLENDIR,,,,,0,0
+72398,Dialog,GLENDIR,"Yes! Yes, I swear! Anything!","네! 네, 맹세해요! 뭐든지요!",Q3_GLENDIR,q3_loyalty,,,,0,0
+72399,Dialog,GLENDIR,"No-ooo! Please, please! Don't leave me in here!","안 돼애! 제발, 제발요! 여기 놔두고 가지 마세요!",Q3_GLENDIR,,,,,0,0
+72400,Dialog,GLENDIR,Thank you! Thank you! Please hurry!,고마워요! 고마워요! 서둘러주세요!,Q3_GLENDIR,,,,,0,0
+72401,Dialog,GLENDIR,"You again? Are you going to let me out of here or not? Please, I'm begging you!","또 왔어요? 여기서 꺼내줄 거예요 말 거예요? 제발, 부탁이에요!",Q3_GLENDIR,,,,,0,0
+72402,Dialog,GLENDIR,Uhh... is everything okay?,어... 다 괜찮아요?,Q3_GLENDIR,,,,,0,0
+72403,Dialog,GLENDIR,Lead on.,앞장서세요.,Q3_GLENDIR,q3_at_follow,,,,0,0
+72404,Dialog,GLENDIR,"Alright. Don't go too far, though. These caves are frightening.","알겠어요. 너무 멀리는 가지 마세요. 이 동굴은 무서워요.",Q3_GLENDIR,q3_at_not_follow,,,,0,0
+72405,Dialog,GLENDIR,That looks like the exit there. Thank you for saving me! I don't think I would have made it without you.,저기가 출구 같아요. 구해줘서 고마워요! 당신 없이는 해내지 못했을 거예요.,Q3_GLENDIR,q3_at_glendir1,,,,0,0
+78781,Dialog,GLENDIR,Well... you *could* have been with the gnolls. How was I supposed to know?,글쎄... 당신이 놀 편일 *수도* 있었잖아요. 제가 어떻게 알았겠어요?,Q3_GLENDIR,,,,,0,0

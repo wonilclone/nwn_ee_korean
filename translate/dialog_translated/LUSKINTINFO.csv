@@ -1,0 +1,39 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+27544,Dialog,LUSKINTINFO,Err... hello there. Everything all right?,"어... 안녕하세요. 괜찮으신가요?",2Q4A_LUSKINTINFO,,,,,0,0
+27545,Dialog,LUSKINTINFO,"Aye, be safe!","네, 조심하세요!",2Q4A_LUSKINTINFO,,,,,0,0
+27546,Dialog,LUSKINTINFO,Be careful on those streets. They'll kill you if you're spotted.,"거리에서 조심하세요. 들키면 죽습니다.",2Q4A_LUSKINTINFO,,,,,0,0
+27547,Dialog,LUSKINTINFO,"Aye, go, go!","네, 어서, 어서요!",2Q4A_LUSKINTINFO,,,,,0,0
+27548,Dialog,LUSKINTINFO,"I see. A little on the slow side, are we? No matter, I guess.","그렇군요. 좀 느리신 편인가요? 뭐, 상관없겠지만.",2Q4A_LUSKINTINFO,,,,,0,0
+27549,Dialog,LUSKINTINFO,Questions? What do you want to know?,"질문요? 뭘 알고 싶으신데요?",2Q4A_LUSKINTINFO,,,,,0,0
+27550,Dialog,LUSKINTINFO,I... suppose so.,"저... 그런 것 같아요.",2Q4A_LUSKINTINFO,,,,,0,0
+27551,Dialog,LUSKINTINFO,Err... aye. I can... answer a question.,"어... 네. 질문에... 답할 수는 있어요.",2Q4A_LUSKINTINFO,,,,,0,0
+27552,Dialog,LUSKINTINFO,Back again? Did you... need something?,"또 오셨어요? 뭔가... 필요하신 거예요?",2Q4A_LUSKINTINFO,,,,,0,0
+27553,Dialog,LUSKINTINFO,Uh... what... what do you want?,"어... 뭘... 원하시는 거예요?",2Q4A_LUSKINTINFO,,,,,0,0
+27554,Dialog,LUSKINTINFO,"I... uh, sure... ","저... 어, 네...",2Q4A_LUSKINTINFO,,,,,0,0
+27555,Dialog,LUSKINTINFO,Oh! You... you don't want to stay here! P-please! There's... there's the Cutlass Inn. It's to the left of the main gate... they says it's still open.,"아! 당신은... 여기 있으면 안 돼요! 제, 제발요! 저기... 커틀러스 여관이 있어요. 정문 왼쪽에... 아직 영업 중이래요.",2Q4A_LUSKINTINFO,,,,,0,0
+27556,Dialog,LUSKINTINFO,"There weren't many. Tyr has a temple, on the west side...","많지 않았어요. 티르 신전이 있어요, 서쪽에...",2Q4A_LUSKINTINFO,,,,,0,0
+27557,Dialog,LUSKINTINFO,"Most of the stores are gone, or empty. I don't know.","대부분의 가게가 없어졌거나 비어 있어요. 모르겠어요.",2Q4A_LUSKINTINFO,,,,,0,0
+27558,Dialog,LUSKINTINFO,"Uhh... there's Miss Bela's. That's a brothel, if you're... well... if you want to know. It's across from the gate. Not sure what else you'd want to see... ","어... 벨라 아가씨네가 있어요. 거긴 창관이에요, 혹시... 뭐... 알고 싶으시다면요. 정문 건너편에 있어요. 다른 뭘 보고 싶으실지는 모르겠지만...",2Q4A_LUSKINTINFO,,,,,0,0
+27559,Dialog,LUSKINTINFO,Did... you want something else?,"다른... 원하시는 게 있으세요?",2Q4A_LUSKINTINFO,,,,,0,0
+27560,Dialog,LUSKINTINFO,Ahhh! Not again! Leave me alone!!,"으악! 또야! 날 내버려 둬요!!",2Q4A_LUSKINTINFO,nw_d1_j_inter06,,,,0,0
+27561,Dialog,LUSKINTINFO,Don't hurt me! Please don't hurt me!!,"때리지 마요! 제발 때리지 마요!!",2Q4A_LUSKINTINFO,nw_d1_j_inter07,,,,0,0
+27562,Dialog,LUSKINTINFO,"Someone help me! Please, for the love of the gods!!","누가 도와줘요! 제발, 신이시여!!",2Q4A_LUSKINTINFO,nw_d2_j_inter08,,,,0,0
+27563,Dialog,LUSKINTINFO,"Please! You... you don't look like them soldiers... you won't hurt me, will you?","제발요! 당신은... 그 군인들처럼 안 생겼어요... 저 안 때리시죠?",2Q4A_LUSKINTINFO,,,,,0,0
+27564,Dialog,LUSKINTINFO,Ahhh! Don't... don't hurt me! Haven't we had enough?!,"으악! 때리지... 때리지 마요! 이만하면 됐잖아요?!",2Q4A_LUSKINTINFO,,,,,0,0
+27565,Dialog,LUSKINTINFO,Aiiieee!! Don't kill me! I don't want to die!!,"아이고!! 죽이지 마요! 죽기 싫어요!!",2Q4A_LUSKINTINFO,,,,,0,0
+27566,Dialog,LUSKINTINFO,"<StartCheck>[Success]</Start> I... suppose you don't seem the bad sort. You just startled me so! With all the soldiers rampaging around, I assumed...","<StartCheck>[성공]</Start> 저... 나쁜 사람은 아닌 것 같네요. 너무 놀라서요! 군인들이 날뛰고 있으니까, 당연히...",2Q4A_LUSKINTINFO,nw_d2_j_inter12,,,,0,0
+27567,Dialog,LUSKINTINFO,"<StartCheck>[Failure]</Start> I don't believe you! You're just like the other soldiers, you are!! Here to rob me or kill me!!","<StartCheck>[실패]</Start> 못 믿겠어요! 당신도 다른 군인들이랑 똑같아요!! 날 털거나 죽이러 온 거잖아요!!",2Q4A_LUSKINTINFO,,,,,0,0
+27568,Dialog,LUSKINTINFO,"Aahhh! Robber!! Get away, get away!!","으악! 도둑이야!! 저리 가, 저리 가요!!",2Q4A_LUSKINTINFO,nw_d2_j_inter14,,,,0,0
+27569,Dialog,LUSKINTINFO,"Thank Ilmater! Just go, go!!","일메이터께 감사드려요! 어서 가요, 가!!",2Q4A_LUSKINTINFO,,,,,0,0
+27570,Dialog,LUSKINTINFO,Well... what did you want from me? Why are you here?,"그럼... 저한테 뭘 원하시는 거예요? 왜 여기 오신 거예요?",2Q4A_LUSKINTINFO,,,,,0,0
+27571,Dialog,LUSKINTINFO,"I... I know. It's just that the soldiers have been rampaging through the streets for weeks, now... ","저... 알아요. 그냥 군인들이 몇 주째 거리를 휩쓸고 있어서...",2Q4A_LUSKINTINFO,,,,,0,0
+27572,Dialog,LUSKINTINFO,"They take whatever they like. If they think you can fight, they force you to join one of the High Captains' armies... or they kill you.","원하는 건 다 빼앗아요. 싸울 수 있다고 생각하면 대선장 군대에 강제로 끌고 가고... 아니면 죽여요.",2Q4A_LUSKINTINFO,,,,,0,0
+27573,Dialog,LUSKINTINFO,And... and the gods forbid that they think you're working for one of the other High Captains... ,"그리고... 만약 다른 대선장 밑에서 일한다고 생각하면... 끔찍해요...",2Q4A_LUSKINTINFO,,,,,0,0
+27574,Dialog,LUSKINTINFO,"N-nobody knows, for sure. Some weeks ago, the High Captains just started... started trying to kill each other.","아, 아무도 확실히 몰라요. 몇 주 전에 대선장들이 갑자기... 서로 죽이려고 하기 시작했어요.",2Q4A_LUSKINTINFO,,,,,0,0
+27575,Dialog,LUSKINTINFO,"Each one of them has their own army, and they've been fighting in the streets night and day. Buildings burned, people slaughtered... everything's falling apart!","각자 군대를 갖고 있고, 밤낮으로 거리에서 싸워요. 건물이 불타고, 사람들이 학살당하고... 모든 게 무너지고 있어요!",2Q4A_LUSKINTINFO,,,,,0,0
+27576,Dialog,LUSKINTINFO,"Worse, now that so many are dead... there's monsters come to the streets. Big rats and walking dead. Some says the High Captains use them for their armies, too.","더 나쁜 건, 죽은 사람이 많아서... 거리에 괴물들이 나타났어요. 큰 쥐랑 걸어 다니는 시체들이요. 대선장들이 군대에 쓴다는 소문도 있어요.",2Q4A_LUSKINTINFO,,,,,0,0
+27577,Dialog,LUSKINTINFO,"I don't... know much about them. There was five of them, and they is all pirate lords, or used t' be. They've gone mad, everyone says.","잘... 몰라요. 다섯 명이 있었고, 전부 해적 영주였어요, 아니면 예전에 그랬거나. 다들 미쳤다고 해요.",2Q4A_LUSKINTINFO,,,,,0,0
+27578,Dialog,LUSKINTINFO,"Maybe each of them wants to control the city, I don't know... but they're killing everyone and they don't care what happens to any of us.","아마 각자 도시를 지배하고 싶은 거겠죠, 모르겠어요... 하지만 모든 사람을 죽이고 있고 우리한테 무슨 일이 생기든 신경 안 써요.",2Q4A_LUSKINTINFO,,,,,0,0
+27579,Dialog,LUSKINTINFO,"N-no... who? Maybe the wizards, I don't know.","아, 아뇨... 누가요? 아마 마법사들, 모르겠어요.",2Q4A_LUSKINTINFO,,,,,0,0
+27580,Dialog,LUSKINTINFO,The wizards of that Arcane Brotherhood. They lives in a big tower on the island at the mouth of the river.,"비전 결사단 마법사들이요. 강 어귀 섬에 있는 큰 탑에 살아요.",2Q4A_LUSKINTINFO,,,,,0,0
+27581,Dialog,LUSKINTINFO,"I don't know any more abouts them, I swear! They... they're just supposed to be real powerful, that's all.","그들에 대해 더 아는 거 없어요, 맹세해요! 그들이... 정말 강력하다는 것만 알아요, 그게 다예요.",2Q4A_LUSKINTINFO,,,,,0,0

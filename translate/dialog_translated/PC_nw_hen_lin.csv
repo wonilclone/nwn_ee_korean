@@ -1,0 +1,510 @@
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+54787,PC,Player Character,<StartCheck>[Persuade]</Start> That seem high. Me give 200 only.,<StartCheck>[설득]</Start> 너무 비싸. 나는 200만 줘.,nw_hen_lin,,nw_d2_henchmen08,,,0,0
+54788,PC,Player Character,"Here be 250 gold. Now me own you, Linu.","여기 250 금화. 이제 넌 내 거야, 리누.",nw_hen_lin,nw_d1_henchmen06,nw_d2_henchmen11,,,0,0
+54789,PC,Player Character → Sharwyn (Bard),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 200.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 200 줄게.,nw_hen_lin,,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+54790,PC,Player Character,225? Deal.,225? 좋아.,nw_hen_lin,nw_d1_henchmen07,nw_d2_henchmen10,,,0,0
+54791,PC,Player Character,"I could use a good healer. Here's your 250 gold. Welcome aboard, Linu.","좋은 치유사가 필요했어. 250 금화 여기 있어. 환영해, 리누.",nw_hen_lin,nw_d1_henchmen06,nw_d2_henchmen09,,,0,0
+54792,PC,Player Character → Linu La'neral (Cleric),<StartCheck>[Persuade]</Start> That seem high. Me give 150 only.,<StartCheck>[설득]</Start> 높아 보여. 나 150만 줄게.,nw_hen_lin,,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+54793,PC,Player Character,"Here be 200 gold. Now me own you, Linu.","여기 200 금화. 이제 넌 내 거야, 리누.",nw_hen_lin,nw_d1_henchmen04,nw_d2_henchmen08,,,0,0
+54794,PC,Player Character → Tomi Undergallows (Rogue),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 150.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 150 줄게.,nw_hen_lin,,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+54795,PC,Player Character,175? Deal.,175? 좋아.,nw_hen_lin,nw_d1_henchmen05,nw_d2_henchmen07,,,0,0
+54796,PC,Player Character → Sharwyn (Bard),"I could use a good healer. Here's your 200 gold. Welcome aboard, Linu.","좋은 치유사가 필요해. 여기 금화 200개 있어. 환영해, 리누.",nw_hen_lin,nw_d1_henchmen04,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+54797,PC,Player Character,Me go now.,나 이제 가.,nw_hen_lin,,[지능 낮음],,,0,0
+54798,PC,Player Character,Me not got that much gold for spend on you.,나 너한테 쓸 그만큼 금화 없어.,nw_hen_lin,,[지능 낮음],,,0,0
+54799,PC,Player Character → Grimgnaw (Monk),<StartCheck>[Persuade]</Start> That seem high. Me give 100 only.,<StartCheck>[설득]</Start> 높아 보여. 나 100만 줄게.,nw_hen_lin,,nw_d2_henchmen04,→ Grimgnaw (Monk),,0,0
+54800,PC,Player Character → Linu La'neral (Cleric),"Here be you 150 gold. Now me own you, Linu.","여기 너의 금화 150개. 이제 나 너 소유해, 리누.",nw_hen_lin,nw_d1_henchmen01,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
+54801,PC,Player Character,I'll be going now.,이제 가봐야겠어.,nw_hen_lin,,[지능 보통],,,0,0
+54802,PC,Player Character,I don't have that kind of gold to spend on a henchman.,부하에게 쓸 그만큼의 금화가 없어.,nw_hen_lin,,[지능 보통],,,0,0
+54803,PC,Player Character → Daelan Red Tiger (Barbarian),<StartCheck>[Persuade]</Start> That seems a little expensive. I'll give you 100.,<StartCheck>[설득]</Start> 좀 비싼 것 같은데. 100 줄게.,nw_hen_lin,,nw_d2_henchmen03,→ Daelan Red Tiger (Barbarian),,0,0
+54804,PC,Player Character → Boddyknock Glinckle (Sorcerer),125? Deal.,125? 좋아.,nw_hen_lin,nw_d1_henchmen03,nw_d2_henchmen05,→ Boddyknock Glinckle (Sorcerer),,0,0
+54805,PC,Player Character → Tomi Undergallows (Rogue),"I need a good healer. Here's your 150 gold. Welcome aboard, Linu.","좋은 치유사가 필요해. 여기 금화 150개 있어. 환영해, 리누.",nw_hen_lin,nw_d1_henchmen01,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+54806,PC,Player Character,No. ,아니.,nw_hen_lin,,,,,0,0
+54807,PC,Player Character [Companion Settings],Yes.,그래.,nw_hen_lin,nw_ch_check49,,[Companion Settings],,0,0
+54808,PC,Player Character,"No, not now. ","아니, 지금은 안 돼.",nw_hen_lin,,,,,0,0
+54809,PC,Player Character [Companion Settings],Yes. ,그래.,nw_hen_lin,nw_ch_check49,,[Companion Settings],,0,0
+54810,PC,Player Character,"Me be the greaterest, er... bestest! Yeah, me be the bestest!","나는 최고의, 어... 가장 좋은! 그래, 나는 가장 좋은!",nw_hen_lin,,[지능 낮음],,,0,0
+54811,PC,Player Character,Why they sing? Me just do duty. ,왜 노래해? 나는 그냥 임무 한 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+54812,PC,Player Character,"Well, I should hope that they finally noticed a true hero.","음, 마침내 진정한 영웅을 알아본 것 같네.",nw_hen_lin,,[지능 보통],,,0,0
+54813,PC,Player Character,There is nothing to sing about. I just did my duty.,노래할 것 없어. 그냥 임무를 수행했을 뿐이야.,nw_hen_lin,,[지능 보통],,,0,0
+54814,PC,Player Character,Goodbye. ,안녕.,nw_hen_lin,,,,,0,0
+54815,PC,Player Character,You work for Aarin Gend? Me work for Aarin too!,너 아린 겐드를 위해 일해? 나도 아린 위해 일해!,nw_hen_lin,,[지능 낮음],,,0,0
+54816,PC,Player Character,So you're working for Aarin Gend?,그럼 아린 겐드를 위해 일하고 있는 거야?,nw_hen_lin,,[지능 보통],,,0,0
+54817,PC,Player Character,Why you stand here? You should look for Words. ,왜 여기 서 있어? 너 권능의 언령 찾아야 해.,nw_hen_lin,,[지능 낮음],,,0,0
+54818,PC,Player Character,You heard any rumors about where Words be? Me want to find them. ,권능의 언령이 어디 있는지 소문 들었어? 나 그거 찾고 싶어.,nw_hen_lin,,[지능 낮음],,,0,0
+54819,PC,Player Character,Why are you standing around here? Shouldn't you be looking for these Words? ,왜 여기 서성이고 있어? 권능의 언령을 찾아야 하는 거 아니야?,nw_hen_lin,,[지능 보통],,,0,0
+54820,PC,Player Character,Me not need you.,나 너 필요 없어.,nw_hen_lin,,[지능 낮음],,,0,0
+54821,PC,Player Character [Companion Settings],Me get hurt lots. Me could use you in me search for Power Words.,나 많이 다쳐. 나 권능의 언령 찾는 거에서 너 필요해.,nw_hen_lin,nw_ch_check49,[지능 낮음],[Companion Settings],,0,0
+54822,PC,Player Character,"Sorry, I'm not interested. ",미안하지만 관심 없어.,nw_hen_lin,,[지능 보통],,,0,0
+54823,PC,Player Character [Companion Settings],I could use a skilled healer in this dangerous search for the Words.,이 위험한 언령 탐색에 숙련된 치유사가 필요해.,nw_hen_lin,nw_ch_check49,[지능 보통],[Companion Settings],,0,0
+54824,PC,Player Character,Have you heard any rumors as to where the Words could be?,권능의 언령이 어디 있을지에 대한 소문 들었어?,nw_hen_lin,,[지능 보통],,,0,0
+54825,PC,Player Character,What about them?,그것들이 어때서?,nw_hen_lin,,,,,0,0
+54826,PC,Player Character,"Me get really tired of you cheery, happy face.",나 너의 쾌활하고 행복한 얼굴 정말 지겨워.,nw_hen_lin,,[지능 낮음],,,0,0
+54827,PC,Player Character,"Me glad for see you again, Linu.","너 다시 만나서 기뻐, 리누.",nw_hen_lin,,[지능 낮음],,,0,0
+54828,PC,Player Character,"I'm getting tired of your silly, smiling face showing up wherever I go.",내가 가는 곳마다 나타나는 네 우스꽝스러운 웃는 얼굴이 지겨워지고 있어.,nw_hen_lin,,[지능 보통],,,0,0
+54829,PC,Player Character,"It is good to see you again, Linu La'neral.","다시 만나서 반가워, 리누 라네랄.",nw_hen_lin,,[지능 보통],,,0,0
+54830,PC,Player Character,Me not need no help right now.,나 지금 도움 필요 없어.,nw_hen_lin,,[지능 낮음],,,0,0
+54831,PC,Player Character,I don't need any help right now.,지금은 도움이 필요 없어.,nw_hen_lin,,[지능 보통],,,0,0
+54832,PC,Player Character [Companion Settings],"Me want you near me 'gain, Linu.","나 너 다시 나 가까이 있길 원해, 리누.",nw_hen_lin,nw_ch_check49,[지능 낮음],[Companion Settings],,0,0
+54833,PC,Player Character [Companion Settings],"I would love to have you travel with me again, Linu.","다시 너와 함께 여행하고 싶어, 리누.",nw_hen_lin,nw_ch_check49,[지능 보통],[Companion Settings],,0,0
+54834,PC,Player Character,"You know stuff 'bout Words of Power, Linu?","너 권능의 언령에 대해 아는 것 있어, 리누?",nw_hen_lin,,[지능 낮음],,,0,0
+54835,PC,Player Character,"Do you know anything about the Words of Power, Linu?","권능의 언령에 대해 아는 게 있어, 리누?",nw_hen_lin,,[지능 보통],,,0,0
+54836,PC,Player Character,What about them?,그것들이 어때서?,nw_hen_lin,,,,,0,0
+54837,PC,Player Character,"You silly, Linu. What happen to other ride?","웃기네, 리누. 다른 탈것은 어떻게 된 거야?",nw_hen_lin,,[지능 낮음],,,0,0
+54838,PC,Player Character,"Oh, Linu. What happened to the first ride?","아, 리누. 첫 번째 탈것은 어떻게 됐어?",nw_hen_lin,,[지능 보통],,,0,0
+54839,PC,Player Character,What you do to it? ,너 그거에 뭘 한 거야?,nw_hen_lin,,[지능 낮음],,,0,0
+54840,PC,Player Character,What did you do to it? ,그거에 뭘 한 거야?,nw_hen_lin,,[지능 보통],,,0,0
+54841,PC,Player Character,Broke? How it broke? ,부서졌어? 어떻게 부서진 거야?,nw_hen_lin,,[지능 낮음],,,0,0
+54842,PC,Player Character,Broke? How did it break?,부서졌다고? 어떻게 부서진 거야?,nw_hen_lin,,[지능 보통],,,0,0
+54843,PC,Player Character,"Me always get good laugh 'round you, Linu. ","나 항상 너 주변에서 재밌어, 리누.",nw_hen_lin,,[지능 낮음],,,0,0
+54844,PC,Player Character,"You never fail to surprise me, Linu.","넌 언제나 날 놀라게 하는구나, 리누.",nw_hen_lin,,[지능 보통],,,0,0
+54845,PC,Player Character,Did them drivers kick you out? ,그 운전사들이 너 내쫓았어?,nw_hen_lin,,[지능 낮음],,,0,0
+54846,PC,Player Character,Did the wagoneers throw you out?,마차꾼들이 널 내쫓았어?,nw_hen_lin,,[지능 보통],,,0,0
+54847,PC,Player Character,There be song 'bout me? I be real hero now!,나에 대한 노래가 있어? 나 이제 진짜 영웅이야!,nw_hen_lin,,[지능 낮음],,,0,0
+54848,PC,Player Character,Bard sing about me? But me not do that much. Others help too.,음유시인이 나에 대해 노래해? 하지만 나 그렇게 많이 한 거 아니야. 다른 사람들도 도왔어.,nw_hen_lin,,[지능 낮음],,,0,0
+54849,PC,Player Character,Bards are singing about me? Excellent.,음유시인들이 나에 대해 노래하고 있다고? 훌륭한데.,nw_hen_lin,,[지능 보통],,,0,0
+54850,PC,Player Character,Goodbye.,안녕.,nw_hen_lin,,,,,0,0
+54851,PC,Player Character,Change you clothes? What happen?,옷 갈아입어? 무슨 일 있었어?,nw_hen_lin,,[지능 낮음],,,0,0
+54852,PC,Player Character,Changing your clothes?,옷 갈아입는 거야?,nw_hen_lin,,[지능 보통],,,0,0
+54853,PC,Player Character,You get mad at her?,너 그녀한테 화났어?,nw_hen_lin,,[지능 낮음],,,0,0
+54854,PC,Player Character,Did you get mad at her? ,그녀한테 화났어?,nw_hen_lin,,[지능 보통],,,0,0
+54855,PC,Player Character,She soak you clothes?,그녀가 네 옷 적셨어?,nw_hen_lin,,[지능 낮음],,,0,0
+54856,PC,Player Character,She soaked your clothes?,그녀가 네 옷을 적셨어?,nw_hen_lin,,[지능 보통],,,0,0
+54857,PC,Player Character,Me see where this going. ,어떻게 되는지 알겠어.,nw_hen_lin,,[지능 낮음],,,0,0
+54858,PC,Player Character,I think I'm getting the picture. ,무슨 상황인지 알 것 같네.,nw_hen_lin,,[지능 보통],,,0,0
+54859,PC,Player Character,That mess you up? ,그게 널 망쳤어?,nw_hen_lin,,[지능 낮음],,,0,0
+54860,PC,Player Character,So that messed you up?,그래서 그게 널 망쳤어?,nw_hen_lin,,[지능 보통],,,0,0
+54861,PC,Player Character,You got bad luck! ,운이 안 좋네!,nw_hen_lin,,[지능 낮음],,,0,0
+54862,PC,Player Character,"Disaster follows you, doesn't it? ","재난이 널 따라다니는구나, 그렇지?",nw_hen_lin,,[지능 보통],,,0,0
+54863,PC,Player Character,You wreck clothes in brawl? ,싸움에서 옷 망쳤어?,nw_hen_lin,,[지능 낮음],,,0,0
+54864,PC,Player Character,And you wrecked your outfit in the brawl?,그리고 싸움에서 옷을 망쳤어?,nw_hen_lin,,[지능 보통],,,0,0
+54865,PC,Player Character,"You tell me you get dirty that way, please. ",제발 그렇게 더러워진 거라고 말해줘.,nw_hen_lin,,[지능 낮음],,,0,0
+54866,PC,Player Character,Please tell me that's how you got dirty. ,그렇게 더러워진 거라고 말해줘.,nw_hen_lin,,[지능 보통],,,0,0
+54867,PC,Player Character,You get dirty cleaning up. ,청소하다가 더러워진 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+54868,PC,Player Character,So you got dirty cleaning up?,청소하다가 더러워진 거야?,nw_hen_lin,,[지능 보통],,,0,0
+54869,PC,Player Character,Me not feel safe 'round you. Me go away now. ,나 너 주변에서 안전하지 않아. 나 이제 가.,nw_hen_lin,,[지능 낮음],,,0,0
+54870,PC,Player Character,I think I'll go somewhere else now. Maybe to a nice safe dragon lair.,다른 곳으로 가는 게 좋겠어. 안전한 용의 둥지 같은 곳으로.,nw_hen_lin,,[지능 보통],,,0,0
+54871,PC,Player Character,Why you not say that first time me ask? ,왜 내가 처음 물었을 때 그렇게 말하지 않았어?,nw_hen_lin,,[지능 낮음],,,0,0
+54872,PC,Player Character,Why didn't you just tell me you slipped in a puddle from the start?,처음부터 웅덩이에 미끄러졌다고 말하지 그랬어?,nw_hen_lin,,[지능 보통],,,0,0
+54873,PC,Player Character,You work for Aribeth? Me work for Aribeth too! ,너 아리베스를 위해 일해? 나도 아리베스 위해 일해!,nw_hen_lin,,[지능 낮음],,,0,0
+54874,PC,Player Character,Of course it be me. What you do to be hired to help?,당연히 나야. 너는 고용되려고 뭘 했어?,nw_hen_lin,,,,,0,0
+54875,PC,Player Character,So you're working for Aribeth?,그럼 아리베스를 위해 일하고 있는 거야?,nw_hen_lin,,[지능 보통],,,0,0
+54876,PC,Player Character,"If you want catch cult, why you stand around here?",사교을 잡고 싶으면 왜 여기 서 있어?,nw_hen_lin,,[지능 낮음],,,0,0
+54877,PC,Player Character,"If you want to bring them to justice, why are you waiting in here?",그들을 정의의 심판에 넘기고 싶다면 왜 여기서 기다리고 있어?,nw_hen_lin,,[지능 보통],,,0,0
+54878,PC,Player Character,"Sorry, me not interested. ","미안, 나 관심 없어.",nw_hen_lin,,[지능 낮음],,,0,0
+54879,PC,Player Character,Me need one who heal me wounds. You come.,나 내 상처 치유할 사람 필요해. 너 와.,nw_hen_lin,,[지능 낮음],,,0,0
+54880,PC,Player Character,"Sorry, but I'm not interested. Goodbye.",미안하지만 관심 없어. 안녕.,nw_hen_lin,,[지능 보통],,,0,0
+54881,PC,Player Character,I often am in need of a skilled healer. Join me.,숙련된 치유사가 자주 필요해. 합류해.,nw_hen_lin,,[지능 보통],,,0,0
+54882,PC,Player Character,You hear any stuff about cult? Me looking for clues. ,사교에 대해 뭐 들은 거 있어? 나 단서 찾고 있어.,nw_hen_lin,,[지능 낮음],,,0,0
+54883,PC,Player Character,Have you heard any rumors about the cult since you've come here?,여기 온 이후로 사교에 대한 소문 들은 거 있어?,nw_hen_lin,,[지능 보통],,,0,0
+54884,PC,Player Character,Neverwinter Wood?,네버윈터 숲?,nw_hen_lin,,,,,0,0
+54885,PC,Player Character,Why you be in here? You supposed to be finding cult.,왜 여기 있어? 너 사교 찾아야 하는 거 아니야.,nw_hen_lin,,[지능 낮음],,,0,0
+54886,PC,Player Character,You gonna go find more about the woods?,숲에 대해 더 알아보러 갈 거야?,nw_hen_lin,,[지능 낮음],,,0,0
+54887,PC,Player Character,Why are you waiting around in here? Should you be investigating the problem?,왜 여기서 기다리고 있어? 문제를 조사해야 하는 거 아니야?,nw_hen_lin,,[지능 보통],,,0,0
+54888,PC,Player Character,Are you planning to travel there?,그곳으로 여행할 계획이야?,nw_hen_lin,,[지능 보통],,,0,0
+54889,PC,Player Character,A bard? But I didn't do that much. Everyone working for Aribeth helped.,음유시인? 하지만 나 그렇게 많이 한 거 아니야. 아리베스를 위해 일하는 모두가 도왔어.,nw_hen_lin,,[지능 보통],,,0,0
+54890,PC,Player Character,We say goodbye. Why you follow me here?,우리 작별했잖아. 왜 여기까지 따라왔어?,nw_hen_lin,,[지능 낮음],,,0,0
+54891,PC,Player Character,"Me surprised me see you here, Linu.","여기서 널 보다니 놀라워, 리누.",nw_hen_lin,,[지능 낮음],,,0,0
+54892,PC,Player Character,I thought we parted ways. Why have you followed me?,우리 헤어졌다고 생각했는데. 왜 따라왔어?,nw_hen_lin,,[지능 보통],,,0,0
+54893,PC,Player Character,"Linu, what a pleasant surprise.","리누, 반가운 놀라움인걸.",nw_hen_lin,,[지능 보통],,,0,0
+54894,PC,Player Character,Me want you join me 'gain. ,나 너 다시 합류하길 원해.,nw_hen_lin,,[지능 낮음],,,0,0
+54895,PC,Player Character,I want you to join me again.,다시 합류했으면 해.,nw_hen_lin,,[지능 보통],,,0,0
+54896,PC,Player Character,Who you be 'gain?,너 누구였더라?,nw_hen_lin,,[지능 낮음],,,0,0
+54897,PC,Player Character,Me want to ask questions.,나 질문하고 싶어.,nw_hen_lin,,[지능 낮음],,,0,0
+54898,PC,Player Character,Who are you again?,누구였더라?,nw_hen_lin,,[지능 보통],,,0,0
+54899,PC,Player Character,I want to ask you some questions. ,몇 가지 질문하고 싶어.,nw_hen_lin,,[지능 보통],,,0,0
+54900,PC,Player Character,Me not wanna talk to you. Goodbye. ,나 너랑 얘기하고 싶지 않아. 안녕.,nw_hen_lin,,[지능 낮음],,,0,0
+54901,PC,Player Character,I'm not in the mood to chat right now. Goodbye.,지금 얘기할 기분이 아니야. 안녕.,nw_hen_lin,,[지능 보통],,,0,0
+54902,PC,Player Character,Who you be?,너 누구야?,nw_hen_lin,,[지능 낮음],,,0,0
+54903,PC,Player Character,Who are you?,누구세요?,nw_hen_lin,,[지능 보통],,,0,0
+54904,PC,Player Character,Go ahead.,어서 해봐.,nw_hen_lin,,,,,0,0
+54905,PC,Player Character,"No, me not. Why you ask?","아니, 나 아니야. 왜 물어?",nw_hen_lin,,[지능 낮음],,,0,0
+54906,PC,Player Character,"No, I'm not. Why do you ask?","아니, 아니에요. 왜 묻죠?",nw_hen_lin,,[지능 보통],,,0,0
+54907,PC,Player Character,You seem to got problem with thief.,너 도적한테 문제 있는 것 같아.,nw_hen_lin,,[지능 낮음],,,0,0
+54908,PC,Player Character,"<StartCheck>[Lie]</Start> No-oooo. Me no be thief, honest.","<StartCheck>[거짓말]</Start> 아니, 나 도적 아니야, 정말이야.",nw_hen_lin,,nw_d2_j_thef02,,,0,0
+54909,PC,Player Character,"That be all me, uh huh.","그게 다 나야, 응.",nw_hen_lin,,nw_d2_j_thef02,,,0,0
+54910,PC,Player Character,"Me not like way you describe it, but yes, me a thief.","네가 말하는 방식은 싫지만, 그래, 나 도적이야.",nw_hen_lin,,nw_d2_j_thef02,,,0,0
+54911,PC,Player Character,Sounds like you have something against thieves.,도적들에게 뭔가 불만이 있는 것 같네.,nw_hen_lin,,[지능 보통],,,0,0
+54912,PC,Player Character,"<StartCheck>[Lie]</Start> Uh, no.","<StartCheck>[거짓말]</Start> 어, 아니.",nw_hen_lin,,nw_d2_j_thef01,,,0,0
+54913,PC,Player Character,"That would pretty much sum me up, yes.","그게 나를 거의 요약하는 거지, 그래.",nw_hen_lin,,nw_d2_j_thef01,,,0,0
+54914,PC,Player Character,"I don't like the rest of the description, but I am a thief, yes.","나머지 설명은 싫지만, 나는 도적이야, 그래.",nw_hen_lin,,nw_d2_j_thef01,,,0,0
+54915,PC,Player Character,She not need them now!,그녀는 이제 그것들 필요 없어!,nw_hen_lin,,[지능 낮음],,,0,0
+54916,PC,Player Character,It's not like she needed them anymore!,어차피 더 이상 필요하지 않았잖아!,nw_hen_lin,,[지능 보통],,,0,0
+54917,PC,Player Character,What kind of thief you run into?,무슨 도적을 만난 거야?,nw_hen_lin,,[지능 낮음],,,0,0
+54918,PC,Player Character,"If it look like worth gold, maybe.","금화 가치가 있어 보이면, 아마도.",nw_hen_lin,,[지능 낮음],,,0,0
+54919,PC,Player Character,My gods woman! What kind of thieves have you run into?,세상에! 무슨 도적들을 만난 거야?,nw_hen_lin,,[지능 보통],,,0,0
+54920,PC,Player Character,"Well, if it looked like it was actually worth something, maybe.","음, 실제로 가치 있어 보이면, 아마도.",nw_hen_lin,,[지능 보통],,,0,0
+54921,PC,Player Character,No.,아니.,nw_hen_lin,,,,,0,0
+54922,PC,Player Character,"No, me want know what happen.","아니, 나 무슨 일 있었는지 알고 싶어.",nw_hen_lin,,[지능 낮음],,,0,0
+54923,PC,Player Character,"No, tell me what happened.","아니, 무슨 일이 있었는지 말해줘.",nw_hen_lin,,[지능 보통],,,0,0
+54924,PC,Player Character,Okay.,알았어.,nw_hen_lin,,,,,0,0
+54925,PC,Player Character,"Why you be in barracks, not with sick people?",왜 병든 사람들이 아니라 병영에 있어?,nw_hen_lin,,[지능 낮음],,,0,0
+54926,PC,Player Character,"Why are you here in the barracks, rather than helping the plague victims?",역병 피해자들을 돕는 대신 여기 병영에 왜 있어?,nw_hen_lin,,[지능 보통],,,0,0
+54927,PC,Player Character,What happen next?,그 다음에 무슨 일 있었어?,nw_hen_lin,,[지능 낮음],,,0,0
+54928,PC,Player Character,Then what happened?,그래서 무슨 일이 있었어?,nw_hen_lin,,[지능 보통],,,0,0
+54929,PC,Player Character,Me not need you trippin' me all the time.,나 네가 계속 걸려 넘어지는 거 필요 없어.,nw_hen_lin,,[지능 낮음],,,0,0
+54930,PC,Player Character,"Just what I need, a cleric that's tripping and knocking things over every few minutes.","정말 필요한 게, 몇 분마다 걸려 넘어지고 물건을 쓰러뜨리는 성직자네.",nw_hen_lin,,[지능 보통],,,0,0
+54931,PC,Player Character,You really be so clumsy?,너 정말 그렇게 서툴러?,nw_hen_lin,,[지능 낮음],,,0,0
+54932,PC,Player Character,Are you really that clumsy?,정말 그렇게 서툴러?,nw_hen_lin,,[지능 보통],,,0,0
+54933,PC,Player Character,That enough. Me not need more danger in life from you. Bye bye.,충분해. 나 너 때문에 더 위험한 거 필요 없어. 안녕.,nw_hen_lin,,[지능 낮음],,,0,0
+54934,PC,Player Character,I've heard enough. You're dangerous to be around. Goodbye and better luck to you.,"충분히 들었어. 네 주변은 위험해. 안녕, 행운을 빌어.",nw_hen_lin,,[지능 보통],,,0,0
+54935,PC,Player Character,Why you be here then?,왜 너 여기 있어?,nw_hen_lin,,[지능 낮음],,,0,0
+54936,PC,Player Character,Then why are you here?,그럼 왜 여기 있어?,nw_hen_lin,,[지능 보통],,,0,0
+54937,PC,Player Character,That be good of you.,잘하는 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+54938,PC,Player Character,That's good of you.,잘하는 거네.,nw_hen_lin,,[지능 보통],,,0,0
+54939,PC,Player Character,That sound like thing that happen to you often.,너한테 자주 일어나는 일 같네.,nw_hen_lin,,[지능 낮음],,,0,0
+54940,PC,Player Character,Sounds typical for your luck.,네 운치고는 전형적인 것 같네.,nw_hen_lin,,[지능 보통],,,0,0
+54941,PC,Player Character,Them attack person who helps sick people?,그들이 병든 사람 돕는 사람을 공격했어?,nw_hen_lin,,[지능 낮음],,,0,0
+54942,PC,Player Character,They attacked you while you were helping plague victims?,역병 피해자들을 돕고 있을 때 공격했다고?,nw_hen_lin,,[지능 보통],,,0,0
+54943,PC,Player Character,Me looking for healer to help on mission.,나 임무 도와줄 치유사 찾고 있어.,nw_hen_lin,,[지능 낮음],,,0,0
+54944,PC,Player Character,I'm looking for a good healer to help me in my mission. ,임무를 도와줄 좋은 치유사를 찾고 있어.,nw_hen_lin,,[지능 보통],,,0,0
+54945,PC,Player Character,Me working for lady Aribeth. Can't tell you me mission. It secret. ,나 아리베스 부인 위해 일해. 임무 말 못 해. 비밀이야.,nw_hen_lin,,[지능 낮음],,,0,0
+54946,PC,Player Character,Me work for lady Aribeth. Me looking for creatures. They are important. They cure plague. ,나 아리베스 부인 위해 일해. 나 생명체들 찾고 있어. 중요해. 역병 치료해.,nw_hen_lin,,[지능 낮음],,,0,0
+54947,PC,Player Character,I work for Lady Aribeth. My mission is confidential. ,아리베스 경을 위해 일하고 있어. 내 임무는 기밀이야.,nw_hen_lin,,[지능 보통],,,0,0
+54948,PC,Player Character,I work for Lady Aribeth. I must find several missing creatures that might be used to find a plague cure. ,아리베스 경을 위해 일하고 있어. 역병 치료제를 찾는 데 사용될 수 있는 여러 실종된 생명체를 찾아야 해.,nw_hen_lin,,[지능 보통],,,0,0
+54949,PC,Player Character,What other stuff you know 'bout Blacklake district?,검은호수 구역에 대해 다른 거 알아?,nw_hen_lin,,[지능 낮음],,,0,0
+54950,PC,Player Character,Do you know anything else about the Blacklake district?,검은호수 구역에 대해 다른 걸 아는 게 있어?,nw_hen_lin,,[지능 보통],,,0,0
+54951,PC,Player Character,Me go now.,나 이제 가.,nw_hen_lin,,[지능 낮음],,,0,0
+54952,PC,Player Character,Me looking for help in me mission.,나 내 임무 도와줄 사람 찾고 있어.,nw_hen_lin,,[지능 낮음],,,0,0
+54953,PC,Player Character,No thanks. Goodbye. ,아니 괜찮아. 안녕.,nw_hen_lin,,[지능 보통],,,0,0
+54954,PC,Player Character,What I need is someone to assist me on a mission.,내가 필요한 건 임무를 도와줄 사람이야.,nw_hen_lin,,[지능 보통],,,0,0
+54955,PC,Player Character,Bad stuff happens.,나쁜 일 일어나.,nw_hen_lin,,[지능 낮음],,,0,0
+54956,PC,Player Character,"Well, that could happen to anyone.","음, 그건 누구에게나 일어날 수 있는 일이야.",nw_hen_lin,,[지능 보통],,,0,0
+54957,PC,Player Character,Who be Sehameme Moonbutt?,세하밈 문벗이 누구야?,nw_hen_lin,,nw_d2_racesnhl,,,0,0
+54958,PC,Player Character,I don't think I've ever heard of Sehanine Moonbow. ,세하닌 문보우에 대해 들어본 적이 없는 것 같아.,nw_hen_lin,,nw_d2_racesnhn,,,0,0
+54959,PC,Player Character,Nevermind.,신경 쓰지 마.,nw_hen_lin,,,,,0,0
+54960,PC,Player Character,Me want you to level up. You be better with training. ,나 네가 레벨업하길 원해. 훈련하면 나아질 거야.,nw_hen_lin,,nw_ch_check_39,,,0,0
+54961,PC,Player Character,I'd like you to level up. You'd be more useful to me with a little training. ,레벨업했으면 좋겠어. 약간의 훈련으로 더 유용해질 거야.,nw_hen_lin,,nw_ch_check_38,,,0,0
+54962,PC,Player Character,Me no want you here no more.,나 이제 너 여기 원하지 않아.,nw_hen_lin,,[지능 낮음],,,0,0
+54963,PC,Player Character,I think I'll do better off on my own.,혼자 하는 게 더 나을 것 같아.,nw_hen_lin,,[지능 보통],,,0,0
+54964,PC,Player Character,No. Stay.,아니. 있어.,nw_hen_lin,,,,,0,0
+54965,PC,Player Character,Yes. Go.,그래. 가.,nw_hen_lin,,,,,0,0
+54966,PC,Player Character,We need change way you do stuff.,우리 네가 하는 방식 바꿔야 해.,nw_hen_lin,,[지능 낮음],,,0,0
+54967,PC,Player Character,Me not want change anything else now.,나 지금 다른 거 바꾸고 싶지 않아.,nw_hen_lin,,,,,0,0
+54968,PC,Player Character [Companion Settings],If me fail on locked door or chest you not help me.,내가 잠긴 문이나 상자 실패하면 너 나 돕지 마.,nw_hen_lin,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+54969,PC,Player Character [Companion Settings],If me fail on locked door or chest you help me.,내가 잠긴 문이나 상자 실패하면 너 나 도와.,nw_hen_lin,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+54970,PC,Player Character [Companion Settings],You start sneak quiet now.,너 이제 조용히 잠행 시작해.,nw_hen_lin,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+54971,PC,Player Character [Companion Settings],You stop sneaking so quiet now.,너 이제 그렇게 조용히 잠행하는 거 그만해.,nw_hen_lin,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+54972,PC,Player Character [Companion Settings],You search all time when we move.,우리 움직일 때 너 항상 탐색해.,nw_hen_lin,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+54973,PC,Player Character [Companion Settings],You not search all time no more.,너 더 이상 항상 탐색하지 마.,nw_hen_lin,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+54974,PC,Player Character,You need change how you heal me.,네가 날 치유하는 방법 바꿔야 해.,nw_hen_lin,,nw_ch_heal_0,,,0,0
+54976,PC,Player Character,You change how far away you stay.,네가 얼마나 멀리 떨어져 있는지 바꿔.,nw_hen_lin,,,,,0,0
+54977,PC,Player Character,I think we need to change your tactics.,전술을 바꿔야 할 것 같아.,nw_hen_lin,,[지능 보통],,,0,0
+54978,PC,Player Character,I don't want to change anything else right now.,지금은 다른 걸 바꾸고 싶지 않아.,nw_hen_lin,,,,,0,0
+54979,PC,Player Character [Companion Settings],If I fail to open a locked door or chest do not assist me.,잠긴 문이나 상자를 여는 데 실패하면 날 돕지 마.,nw_hen_lin,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
+54980,PC,Player Character [Companion Settings],If I fail to open a locked door or chest please come to my aid.,잠긴 문이나 상자를 여는 데 실패하면 도와줘.,nw_hen_lin,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
+54981,PC,Player Character [Companion Settings],Could you stop being so stealthy all the time?,항상 그렇게 은밀하게 다니는 거 그만둘 수 있어?,nw_hen_lin,nw_ch_stlth_off,nw_ch_yes_stlth,[Companion Settings],,0,0
+54982,PC,Player Character [Companion Settings],Could you use more stealth when we travel?,우리가 여행할 때 더 은밀하게 다닐 수 있어?,nw_hen_lin,nw_ch_stlth_on,nw_ch_no_stlth,[Companion Settings],,0,0
+54983,PC,Player Character [Companion Settings],Could you please search when we move around?,우리가 돌아다닐 때 탐색해줄 수 있어?,nw_hen_lin,nw_ch_srch_on,nw_ch_no_srch,[Companion Settings],,0,0
+54984,PC,Player Character [Companion Settings],Could you not search all the time?,항상 탐색하지 않을 수 있어?,nw_hen_lin,nw_ch_srch_off,nw_ch_yes_srch,[Companion Settings],,0,0
+54985,PC,Player Character,Could we change how quickly you decide to heal me?,날 치유하기로 결정하는 속도를 바꿀 수 있을까?,nw_hen_lin,,nw_ch_heal_0,,,0,0
+54986,PC,Player Character [Healing: 25% HP],You heal if me hurt real bad (below 25% of total hit points).,내가 정말 심하게 다치면 너 치유해 (전체 생명력의 25% 미만).,nw_hen_lin,nw_ch_heal_25,[지능 낮음],[Healing: 25% HP],,0,0
+54987,PC,Player Character [Healing: 50% HP],You heal if me wounded (below 50% of total hit points).,내가 부상당하면 너 치유해 (전체 생명력의 50% 미만).,nw_hen_lin,nw_ch_heal_50,[지능 낮음],[Healing: 50% HP],,0,0
+54988,PC,Player Character [Healing: 75% HP],You heal if me sort of hurt (below 75% of total hit points).,내가 좀 다치면 너 치유해 (전체 생명력의 75% 미만).,nw_hen_lin,nw_ch_heal_75,[지능 낮음],[Healing: 75% HP],,0,0
+54989,PC,Player Character [Healing: 25% HP],Heal me if I become seriously wounded (below 25% of total hit points).,심각하게 부상당하면 치유해줘 (전체 생명력의 25% 미만).,nw_hen_lin,nw_ch_heal_25,[지능 보통],[Healing: 25% HP],,0,0
+54990,PC,Player Character [Healing: 50% HP],Heal me if I become wounded (below 50% of total hit points).,부상당하면 치유해줘 (전체 생명력의 50% 미만).,nw_hen_lin,nw_ch_heal_50,[지능 보통],[Healing: 50% HP],,0,0
+54991,PC,Player Character [Healing: 75% HP],Heal me if I become somewhat injured (below 75% of total hit points).,약간 부상당하면 치유해줘 (전체 생명력의 75% 미만).,nw_hen_lin,nw_ch_heal_75,[지능 보통],[Healing: 75% HP],,0,0
+54999,PC,Player Character,We need to change the distance you stay away from me.,나로부터 떨어져 있는 거리를 바꿔야 해.,nw_hen_lin,,,,,0,0
+55000,PC,Player Character [Follow: Far],Far distance.,먼 거리.,nw_hen_lin,nw_ch_dist_18,,[Follow: Far],,0,0
+55001,PC,Player Character [Follow: Medium],Medium distance.,중간 거리.,nw_hen_lin,nw_ch_dist_12,,[Follow: Medium],,0,0
+55002,PC,Player Character [Follow: Close],Stay close.,가까이 있어.,nw_hen_lin,nw_ch_dist_6,,[Follow: Close],,0,0
+55003,PC,Player Character,Me just wanna talk. ,나 그냥 얘기하고 싶어.,nw_hen_lin,,nw_ch_check_44,,,0,0
+55004,PC,Player Character,I just want to talk for a while. ,잠깐 얘기하고 싶어.,nw_hen_lin,,nw_ch_check_43,,,0,0
+55005,PC,Player Character,Nevermind.,신경 쓰지 마.,nw_hen_lin,,,,,0,0
+55006,PC,Player Character,You got any hint or tip you give me 'bout this mission?,이 임무에 대해 내게 줄 힌트나 조언 있어?,nw_hen_lin,,[지능 낮음],,,0,0
+55007,PC,Player Character,What you read?,너 뭐 읽었어?,nw_hen_lin,,[지능 낮음],,,0,0
+55008,PC,Player Character,What have you read?,뭘 읽었어?,nw_hen_lin,,[지능 보통],,,0,0
+55009,PC,Player Character,Magic?,마법?,nw_hen_lin,,,,,0,0
+55010,PC,Player Character,A ranger?,순찰자?,nw_hen_lin,,,,,0,0
+55011,PC,Player Character,Me not want talk no more.,나 더 이상 얘기하고 싶지 않아.,nw_hen_lin,,[지능 낮음],,,0,0
+55012,PC,Player Character,You know other stuff 'bout cult?,그 사교에 대해 다른 거 알아?,nw_hen_lin,,[지능 낮음],,,0,0
+55013,PC,Player Character,That's enough information for now.,지금은 충분한 정보야.,nw_hen_lin,,[지능 보통],,,0,0
+55014,PC,Player Character,Is there anything else you know about the cult?,그 사교에 대해 아는 다른 게 있어?,nw_hen_lin,,[지능 보통],,,0,0
+55015,PC,Player Character,Tell me 'bout Blacklake district.,나한테 검은호수 구역 말해줘.,nw_hen_lin,,[지능 낮음],,,0,0
+55016,PC,Player Character,Tell me about the Blacklake district.,검은호수 구역에 대해 말해줘.,nw_hen_lin,,[지능 보통],,,0,0
+55017,PC,Player Character,Me not want talk no more.,나 더 이상 얘기하고 싶지 않아.,nw_hen_lin,,[지능 낮음],,,0,0
+55018,PC,Player Character,I think that's enough talking for now.,지금은 충분히 얘기한 것 같아.,nw_hen_lin,,[지능 보통],,,0,0
+55019,PC,Player Character,Anything else?,다른 건?,nw_hen_lin,,,,,0,0
+55020,PC,Player Character,Do you have any advice or suggestions you can give me about my mission?,내 임무에 대해 줄 수 있는 조언이나 제안이 있어?,nw_hen_lin,,[지능 보통],,,0,0
+55021,PC,Player Character,Me want you to continue you story from before.,나 네가 전에 하던 이야기 계속하길 원해.,nw_hen_lin,,nw_ch_check_22,,,0,0
+55022,PC,Player Character,I want you to continue your story from before. ,전에 하던 이야기를 계속해줬으면 해.,nw_hen_lin,,nw_ch_check_21,,,0,0
+55023,PC,Player Character,You no let stupid seed get in way of me important quest!,바보 같은 씨앗이 내 중요한 퀘스트 방해하게 하지 마!,nw_hen_lin,,[지능 낮음],,,0,0
+55024,PC,Player Character,You no worry 'bout seed. We find and make goddess happy.,씨앗 걱정하지 마. 우리 찾아서 여신 행복하게 할 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+55025,PC,Player Character,Me found strange seed! This be you seed?,나 이상한 씨앗 찾았어! 이게 네 씨앗이야?,nw_hen_lin,,nw_ch_check_27,,,0,0
+55026,PC,Player Character,No stupid seed had better get in the way of our important quest.,바보 같은 씨앗이 우리의 중요한 퀘스트를 방해하는 게 낫겠어.,nw_hen_lin,,[지능 보통],,,0,0
+55027,PC,Player Character,"Don't worry Linu, we will find the seed, somehow.","걱정 마 리누, 어떻게든 씨앗을 찾을 거야.",nw_hen_lin,,[지능 보통],,,0,0
+55028,PC,Player Character,I have an unusual seed right here. Is this it?,여기 특이한 씨앗이 있어. 이거야?,nw_hen_lin,,nw_ch_check_26,,,0,0
+55029,PC,Player Character,That be it? Not get anything new?,그게 다야? 새로운 거 없어?,nw_hen_lin,,[지능 낮음],,,0,0
+55030,PC,Player Character,"Me thank you for making it be stronger, Linu.","더 강하게 해줘서 고마워, 리누.",nw_hen_lin,,[지능 낮음],,,0,0
+55031,PC,Player Character,That's it? Nothing new?,그게 다야? 새로운 거 없어?,nw_hen_lin,,[지능 보통],,,0,0
+55032,PC,Player Character,"Thank you for unlocking its full power, Linu.","완전한 힘을 깨워줘서 고마워, 리누.",nw_hen_lin,,[지능 보통],,,0,0
+55033,PC,Player Character,"What you do with seed now, Linu?","이제 씨앗 가지고 뭐 할 거야, 리누?",nw_hen_lin,,[지능 낮음],,,0,0
+55034,PC,Player Character,"What will you do with the seed now, Linu?","이제 씨앗으로 뭘 할 거야, 리누?",nw_hen_lin,,[지능 보통],,,0,0
+55035,PC,Player Character,And what 'bout you?,그럼 너는?,nw_hen_lin,,[지능 낮음],,,0,0
+55036,PC,Player Character,What about you?,너는 어때?,nw_hen_lin,,[지능 보통],,,0,0
+55037,PC,Player Character,"I care for you as friend, more than any magic item.","나 너를 친구로 생각해, 어떤 마법 아이템보다도.",nw_hen_lin,,[지능 낮음],,,0,0
+55038,PC,Player Character,Your friendship means more to me than any magical item.,네 우정이 어떤 마법 아이템보다도 소중해.,nw_hen_lin,,[지능 보통],,,0,0
+55039,PC,Player Character,"No, and I really don't care. I think you're moving a little fast for me.","아니, 그리고 정말 관심 없어. 너무 빨리 가는 것 같은데.",nw_hen_lin,,[지능 보통],,,0,0
+55040,PC,Player Character,"No, please tell me.","아니, 말해줘.",nw_hen_lin,,[지능 보통],,,0,0
+55041,PC,Player Character,"Yes, but I don't feel that way about you.","그래, 하지만 나는 너한테 그런 감정 없어.",nw_hen_lin,,[지능 보통],,,0,0
+55042,PC,Player Character,"Yes. You complete me too, dear Linu.","그래. 나도 네가 날 완전하게 만들어, 사랑하는 리누.",nw_hen_lin,,[지능 보통],,,0,0
+55043,PC,Player Character,I would like that very much. ,그거 정말 좋겠는걸.,nw_hen_lin,,,,,0,0
+55044,PC,Player Character,Me change mind. Me no want hear you story. ,마음 바뀌었어. 나 너의 이야기 듣고 싶지 않아.,nw_hen_lin,,[지능 낮음],,,0,0
+55045,PC,Player Character,I've changed my mind. I don't really want to hear this.,마음이 바뀌었어. 이거 정말 듣고 싶지 않아.,nw_hen_lin,,[지능 보통],,,0,0
+55046,PC,Player Character,Tell me what they say.,나한테 그들이 뭐라고 하는지 말해.,nw_hen_lin,,[지능 낮음],,,0,0
+55047,PC,Player Character,Tell me what they said.,그들이 뭐라고 했는지 말해줘.,nw_hen_lin,,[지능 보통],,,0,0
+55048,PC,Player Character,How long she look at tree for? ,얼마나 오래 나무를 봤어?,nw_hen_lin,,[지능 낮음],,,0,0
+55049,PC,Player Character,How long did she stand there looking at the trees?,얼마나 오래 서서 나무들을 봤어?,nw_hen_lin,,[지능 보통],,,0,0
+55050,PC,Player Character,What happen?,무슨 일 있었어?,nw_hen_lin,,[지능 낮음],,,0,0
+55051,PC,Player Character,What happened?,무슨 일이 있었어?,nw_hen_lin,,[지능 보통],,,0,0
+55052,PC,Player Character,"You still be dreaming, maybe? ",아직도 꿈꾸고 있던 거 아니야?,nw_hen_lin,,[지능 낮음],,,0,0
+55053,PC,Player Character,Are you sure you weren't still dreaming?,아직도 꿈꾸고 있던 건 아니야?,nw_hen_lin,,[지능 보통],,,0,0
+55054,PC,Player Character,Floating?,떠 있었다고?,nw_hen_lin,,,,,0,0
+55055,PC,Player Character,<StartCheck>[Insight]</Start> Beauty standing amidst fiery destruction. That's you!,<StartCheck>[통찰]</Start> 불타는 파괴 속에 서 있는 아름다움. 그게 너야!,nw_hen_lin,,nw_d2_wis_intn,,,0,0
+55056,PC,Player Character,That amazing. ,대단한데.,nw_hen_lin,,[지능 낮음],,,0,0
+55057,PC,Player Character,That's amazing. ,놀라운데.,nw_hen_lin,,[지능 보통],,,0,0
+55058,PC,Player Character,"People die all time, why goddess cry over stupid tree. ","사람들은 항상 죽는데, 왜 여신이 바보 같은 나무 때문에 울어.",nw_hen_lin,,[지능 낮음],,,0,0
+55059,PC,Player Character,"People die every day, but this goddess cries over a tree?","사람들은 매일 죽는데, 이 여신은 나무 때문에 우는 거야?",nw_hen_lin,,[지능 보통],,,0,0
+55060,PC,Player Character,Where them go?,그들 어디 갔어?,nw_hen_lin,,[지능 낮음],,,0,0
+55061,PC,Player Character,What happened to them?,그들한테 무슨 일이 있었어?,nw_hen_lin,,[지능 보통],,,0,0
+55062,PC,Player Character,Me could stare at you like that. ,나도 너를 그렇게 바라볼 수 있어.,nw_hen_lin,,nw_d2_flirti_l,,,0,0
+55063,PC,Player Character,The way I could stand and admire your beauty for endless hours.,끝없이 서서 네 아름다움을 감상할 수 있을 것 같아.,nw_hen_lin,,nw_d2_flirti_n,,,0,0
+55064,PC,Player Character,Me want hear it.,나 듣고 싶어.,nw_hen_lin,,[지능 낮음],,,0,0
+55065,PC,Player Character,I want to hear it.,듣고 싶어.,nw_hen_lin,,[지능 보통],,,0,0
+55066,PC,Player Character,You get bored with magic stuff? ,마법 물건 가지고 노는 게 지겨웠어?,nw_hen_lin,,[지능 낮음],,,0,0
+55067,PC,Player Character,You were bored playing with magic items? ,마법 아이템 가지고 노는 게 지겨웠어?,nw_hen_lin,,[지능 보통],,,0,0
+55068,PC,Player Character,Go on.,계속해.,nw_hen_lin,,,,,0,0
+55069,PC,Player Character,Me think anyone else die if them was you. ,나 생각엔 다른 사람이었으면 죽었을 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+55070,PC,Player Character,I don't think anybody else could survive what you have.,네가 겪은 걸 다른 누구도 살아남지 못했을 거야.,nw_hen_lin,,[지능 보통],,,0,0
+55071,PC,Player Character,Cursed.,저주받은 거야.,nw_hen_lin,,,,,0,0
+55072,PC,Player Character,"Both, me think. ","둘 다, 나 생각해.",nw_hen_lin,,[지능 낮음],,,0,0
+55073,PC,Player Character,"Both, I think. ",둘 다인 것 같아.,nw_hen_lin,,[지능 보통],,,0,0
+55074,PC,Player Character,It be blessing. Me like danger and beauty in woman. ,축복이야. 나 여자의 위험과 아름다움 좋아해.,nw_hen_lin,,nw_d2_flirti_l,,,0,0
+55075,PC,Player Character,"I think it's a blessing. You are the most dangerous, yet exciting woman I have ever met.",축복이라고 생각해. 넌 내가 만난 가장 위험하면서도 흥미진진한 여자야.,nw_hen_lin,,nw_d2_flirti_n,,,0,0
+55076,PC,Player Character,"Hey, me not look for true love, me just say nice words to friend.","이봐, 나 진정한 사랑 찾는 거 아니야, 그냥 친구한테 좋은 말 한 거야.",nw_hen_lin,,[지능 낮음],,,0,0
+55077,PC,Player Character,Woah! Deeper relationship? It was just a compliment.,워! 더 깊은 관계? 그냥 칭찬이었어.,nw_hen_lin,,[지능 보통],,,0,0
+55078,PC,Player Character,Then me not want to hear you story no more.,그럼 나 너의 이야기 더 이상 듣고 싶지 않아.,nw_hen_lin,,[지능 낮음],,,0,0
+55079,PC,Player Character,Then I don't want to listen to your whiny stories anymore.,그럼 너의 징징대는 이야기 더 이상 듣고 싶지 않아.,nw_hen_lin,,[지능 보통],,,0,0
+55080,PC,Player Character,Me not care what you think of me. We go now. ,나 네가 나에 대해 어떻게 생각하는지 신경 안 써. 이제 가자.,nw_hen_lin,,,,,0,0
+55081,PC,Player Character,I really don't care what you think. Let's get going.,네가 어떻게 생각하는지 정말 신경 안 써. 가자.,nw_hen_lin,,,,,0,0
+55082,PC,Player Character,"Me just make joke. You tell me you story, please. ",나 그냥 농담한 거야. 너의 이야기 말해줘.,nw_hen_lin,,,,,0,0
+55083,PC,Player Character,"I was just joking, Linu. Calm yourself and continue your story.","농담이었어, 리누. 진정하고 이야기 계속해.",nw_hen_lin,,,,,0,0
+55084,PC,Player Character,You go on with you story then. ,그럼 너의 이야기 계속해.,nw_hen_lin,,[지능 낮음],,,0,0
+55085,PC,Player Character,Then let's continue your story. ,그럼 이야기를 계속하자.,nw_hen_lin,,[지능 보통],,,0,0
+55086,PC,Player Character,So how you live? ,그래서 어떻게 살았어?,nw_hen_lin,,[지능 낮음],,,0,0
+55087,PC,Player Character,So how did you survive?,그래서 어떻게 살아남았어?,nw_hen_lin,,[지능 보통],,,0,0
+55088,PC,Player Character,What you do?,뭘 했어?,nw_hen_lin,,[지능 낮음],,,0,0
+55089,PC,Player Character,What did you see?,뭘 봤어?,nw_hen_lin,,[지능 보통],,,0,0
+55090,PC,Player Character,Who it be? ,그거 누구였어?,nw_hen_lin,,[지능 낮음],,,0,0
+55091,PC,Player Character,Who was it?,누구였어?,nw_hen_lin,,[지능 보통],,,0,0
+55092,PC,Player Character,What voice say to you?,목소리 너한테 뭐라고 했어?,nw_hen_lin,,[지능 낮음],,,0,0
+55093,PC,Player Character,What did the voice say?,목소리가 뭐라고 했어?,nw_hen_lin,,[지능 보통],,,0,0
+55094,PC,Player Character,What she say? ,그녀 뭐라고 했어?,nw_hen_lin,,[지능 낮음],,,0,0
+55095,PC,Player Character,What did she say? ,그녀가 뭐라고 했어?,nw_hen_lin,,[지능 보통],,,0,0
+55096,PC,Player Character,How she make him stop?,그녀 어떻게 그를 멈추게 했어?,nw_hen_lin,,[지능 낮음],,,0,0
+55097,PC,Player Character,How did she stop him?,어떻게 그를 멈추게 했어?,nw_hen_lin,,[지능 보통],,,0,0
+55098,PC,Player Character,Me knew that already. ,나 이미 알았어.,nw_hen_lin,,[지능 낮음],,,0,0
+55099,PC,Player Character,I already figured that out.,이미 알아냈어.,nw_hen_lin,,[지능 보통],,,0,0
+55100,PC,Player Character,No! You saved by goddess. ,아니! 너 여신한테 구원받았어.,nw_hen_lin,,[지능 낮음],,,0,0
+55101,PC,Player Character,"Wait, you were rescued by a goddess?","잠깐, 여신한테 구원받았다고?",nw_hen_lin,,[지능 보통],,,0,0
+55102,PC,Player Character,You need be glad she save you life!,그녀가 네 목숨 구해준 거 기뻐해야 해!,nw_hen_lin,,[지능 낮음],,,0,0
+55103,PC,Player Character,How could you be ungrateful for such a gift?,어떻게 그런 선물에 감사하지 않을 수 있어?,nw_hen_lin,,[지능 보통],,,0,0
+55104,PC,Player Character,A task?,임무?,nw_hen_lin,,,,,0,0
+55105,PC,Player Character,That seem more than lucky to me. ,그건 나한테 운 이상인 것 같아.,nw_hen_lin,,[지능 낮음],,,0,0
+55106,PC,Player Character,That does seem to stretch the limits of luck.,그건 운의 한계를 넘는 것 같은데.,nw_hen_lin,,[지능 보통],,,0,0
+55107,PC,Player Character,"You no blow place up, did you? ",너 그곳 폭파하지 않았지?,nw_hen_lin,,[지능 낮음],,,0,0
+55108,PC,Player Character,"You didn't destroy the place, did you?",그곳을 파괴하지 않았지?,nw_hen_lin,,[지능 보통],,,0,0
+55109,PC,Player Character,That's trouble.,그거 곤란한데.,nw_hen_lin,,[지능 보통],,,0,0
+55110,PC,Player Character,What make you decide to become cleric?,무엇이 성직자가 되기로 결정하게 했어?,nw_hen_lin,,nw_ch_check_20,,,0,0
+55111,PC,Player Character,What made you decide that you should be a cleric?,무엇이 성직자가 되어야 한다고 결정하게 했어?,nw_hen_lin,,nw_ch_check_19,,,0,0
+55112,PC,Player Character,But you no be like them?,하지만 너는 그들 같지 않아?,nw_hen_lin,,[지능 낮음],,,0,0
+55113,PC,Player Character,But you didn't take after them?,하지만 그들을 닮지 않았어?,nw_hen_lin,,[지능 보통],,,0,0
+55114,PC,Player Character,What be this 'potentials'?,이 '잠재력들'이 뭐야?,nw_hen_lin,,[지능 낮음],,,0,0
+55115,PC,Player Character,What are 'potentials'?,'잠재력들'이 뭐야?,nw_hen_lin,,[지능 보통],,,0,0
+55116,PC,Player Character,Them were very wrong. ,그들이 정말 틀렸네.,nw_hen_lin,,[지능 낮음],,,0,0
+55117,PC,Player Character,"Boy, were they wrong. ","세상에, 정말 틀렸네.",nw_hen_lin,,[지능 보통],,,0,0
+55118,PC,Player Character,"Okay, tell more.","좋아, 더 말해.",nw_hen_lin,,[지능 낮음],,,0,0
+55119,PC,Player Character,"Okay, go on.","좋아, 계속해.",nw_hen_lin,,[지능 보통],,,0,0
+55120,PC,Player Character,You be worse then than now. ,그때 너 지금보다 더 심했구나.,nw_hen_lin,,[지능 낮음],,,0,0
+55121,PC,Player Character,I didn't think it was possible for you to be worse than you are now.,지금보다 더 심할 수 있다고는 생각 못 했어.,nw_hen_lin,,[지능 보통],,,0,0
+55122,PC,Player Character,What you mean you move in? ,너 뭐 뜻이야 이사했다는 거?,nw_hen_lin,,[지능 낮음],,,0,0
+55123,PC,Player Character,What do you mean by moved in? ,이사 들어갔다는 게 무슨 뜻이야?,nw_hen_lin,,[지능 보통],,,0,0
+55124,PC,Player Character,"Me kick you out too, if you do such stupid thing. ",나도 그런 바보 같은 짓 하면 너 내쫓을 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+55125,PC,Player Character,"I'd have kicked you out too, how stupid.","나도 널 내쫓았을 거야, 얼마나 멍청해.",nw_hen_lin,,[지능 보통],,,0,0
+55126,PC,Player Character,So he kick you out?,그래서 그가 널 내쫓았어?,nw_hen_lin,,[지능 낮음],,,0,0
+55127,PC,Player Character,So he kicked you out?,그래서 그가 널 내쫓았어?,nw_hen_lin,,[지능 보통],,,0,0
+55128,PC,Player Character,Little trip?,짧은 여행?,nw_hen_lin,,,,,0,0
+55129,PC,Player Character,What fate you talking 'bout?,너 무슨 운명 얘기하는 거야?,nw_hen_lin,,[지능 낮음],,,0,0
+55130,PC,Player Character,What fate would that be?,그게 무슨 운명인데?,nw_hen_lin,,[지능 보통],,,0,0
+55131,PC,Player Character,Me want you keep talking 'bout story you start before.,나 너 전에 시작한 이야기 계속하길 원해.,nw_hen_lin,,nw_ch_check_13,,,0,0
+55132,PC,Player Character,"I'd like you to tell me more of your story, Linu.","네 이야기를 더 들려줬으면 해, 리누.",nw_hen_lin,,nw_ch_check_12,,,0,0
+55133,PC,Player Character,You no let thinking of husband get in way you job!,너 남편 생각이 너 일 방해하게 하지 마!,nw_hen_lin,,[지능 낮음],,,0,0
+55134,PC,Player Character,"No worry, we find book and then we know what happen to you husband.","걱정 마, 우리 책 찾아서 너 남편한테 무슨 일 있었는지 알 거야.",nw_hen_lin,,[지능 낮음],,,0,0
+55135,PC,Player Character,Me find book with you husband's name on it.,나 너 남편 이름 있는 책 찾았어.,nw_hen_lin,,nw_ch_check_18,,,0,0
+55136,PC,Player Character,Just don't let this get in the way of your other duties.,다른 임무를 방해하지만 않으면 돼.,nw_hen_lin,,[지능 보통],,,0,0
+55137,PC,Player Character,"Don't worry, we'll find the journal and discover what happened to your husband.","걱정 마, 일지를 찾아서 네 남편에게 무슨 일이 있었는지 알아낼 거야.",nw_hen_lin,,[지능 보통],,,0,0
+55138,PC,Player Character,I found this journal. It has your husband's name on it.,이 일지를 찾았어. 네 남편 이름이 있어.,nw_hen_lin,,nw_ch_check_17,,,0,0
+55139,PC,Player Character,Quit whining! Him dead long ago; you be over him. ,징징대지 마! 그 오래전에 죽었어; 너 이제 넘어가.,nw_hen_lin,,[지능 낮음],,,0,0
+55140,PC,Player Character,"Quit whining Linu. He's been dead for a long time, get over it. ","징징대지 마 리누. 죽은 지 오래됐어, 이제 넘어가.",nw_hen_lin,,[지능 보통],,,0,0
+55141,PC,Player Character,"You no stop now. You promise you help me, now you do! ","너 지금 그만두지 마. 너 나 돕겠다고 약속했어, 이제 해!",nw_hen_lin,,[지능 낮음],,,0,0
+55142,PC,Player Character,Don't you back out on me now. You made a commitment and you had better fulfill it!,지금 빠져나가려 하지 마. 약속했으니 지켜야 해!,nw_hen_lin,,[지능 보통],,,0,0
+55143,PC,Player Character,"Me no leave you, Linu. You be strong and make Synth proud. ","나 너 떠나지 않아, 리누. 너 강해지고 신스 자랑스럽게 만들어.",nw_hen_lin,,[지능 낮음],,,0,0
+55144,PC,Player Character,"I won't leave you, Linu. You must be strong and go on, as Synth wanted you to. ","널 떠나지 않을게, 리누. 신스가 원했던 대로 강해지고 계속 나아가야 해.",nw_hen_lin,,[지능 보통],,,0,0
+55145,PC,Player Character,"It no you fault, Linu. Me no leave you. ","그거 너 잘못 아니야, 리누. 나 너 떠나지 않아.",nw_hen_lin,,[지능 낮음],,,0,0
+55146,PC,Player Character,"It wasn't your fault, Linu. I'm not going to leave you.","네 잘못이 아니야, 리누. 널 떠나지 않을 거야.",nw_hen_lin,,[지능 보통],,,0,0
+55147,PC,Player Character,That be it?,그게 다야?,nw_hen_lin,,[지능 낮음],,,0,0
+55148,PC,Player Character,That be good reward. Me like pretty pendant.,그거 좋은 보상이야. 나 예쁜 펜던트 좋아해.,nw_hen_lin,,[지능 낮음],,,0,0
+55149,PC,Player Character,"That's it, huh?",그게 다야?,nw_hen_lin,,[지능 보통],,,0,0
+55150,PC,Player Character,"That is a wonderful gift, Linu, thank you.","멋진 선물이야, 리누. 고마워.",nw_hen_lin,,[지능 보통],,,0,0
+55151,PC,Player Character,Temple no could party without you?,신전 너 없이 파티 못 했어?,nw_hen_lin,,[지능 낮음],,,0,0
+55152,PC,Player Character,So? Why couldn't they do it without you?,그래서? 왜 너 없이 못 한 거야?,nw_hen_lin,,[지능 보통],,,0,0
+55153,PC,Player Character,Him no wait for you?,그 너 기다리지 않았어?,nw_hen_lin,,[지능 낮음],,,0,0
+55154,PC,Player Character,He wouldn't wait for you?,널 기다리지 않았어?,nw_hen_lin,,[지능 보통],,,0,0
+55155,PC,Player Character,He keeping stuff like affair from you?,그 불륜 같은 거 너한테 숨기고 있었어?,nw_hen_lin,,[지능 낮음],,,0,0
+55156,PC,Player Character,You figure he was fooling around on you?,바람피우고 있었다고 생각해?,nw_hen_lin,,[지능 보통],,,0,0
+55157,PC,Player Character,Why you wish that?,왜 너 그거 바라?,nw_hen_lin,,[지능 낮음],,,0,0
+55158,PC,Player Character,Why is that?,왜 그래?,nw_hen_lin,,[지능 보통],,,0,0
+55159,PC,Player Character,Ten stories? You parents be rich?,10층? 너 부모 부자였어?,nw_hen_lin,,[지능 낮음],,,0,0
+55160,PC,Player Character,Ten story wall? Your parent's must be rich.,10층 벽? 네 부모님은 부자였나 보네.,nw_hen_lin,,[지능 보통],,,0,0
+55161,PC,Player Character,What happen?,무슨 일 있었어?,nw_hen_lin,,[지능 낮음],,,0,0
+55162,PC,Player Character,What happened?,무슨 일이 있었어?,nw_hen_lin,,[지능 보통],,,0,0
+55163,PC,Player Character,Me be sure never to wake you at night.,나 밤에 절대 너 깨우지 않을게.,nw_hen_lin,,[지능 낮음],,,0,0
+55164,PC,Player Character,Remind me never to try to wake you quietly in the night.,밤에 조용히 깨우려 하지 말라고 일깨워줘.,nw_hen_lin,,[지능 보통],,,0,0
+55165,PC,Player Character,You break his jaw?,너 그의 턱 부러뜨렸어?,nw_hen_lin,,[지능 낮음],,,0,0
+55166,PC,Player Character,You mean you broke his jaw?,턱을 부러뜨렸다고?,nw_hen_lin,,[지능 보통],,,0,0
+55167,PC,Player Character,You just one bad thing after 'nother.,너 그냥 나쁜 일 하나에서 또 다른 거.,nw_hen_lin,,[지능 낮음],,,0,0
+55168,PC,Player Character,"You're just one calamity after another, aren't you?","넌 정말 재앙 덩어리구나, 그렇지?",nw_hen_lin,,[지능 보통],,,0,0
+55169,PC,Player Character,You didn't.,너 안 그랬어.,nw_hen_lin,,[지능 낮음],,,0,0
+55170,PC,Player Character,Tell me you didn't.,그러지 않았다고 말해줘.,nw_hen_lin,,[지능 보통],,,0,0
+55171,PC,Player Character,"He live, I guess.","그 살았어, 내 생각엔.",nw_hen_lin,,[지능 낮음],,,0,0
+55172,PC,Player Character,At least he survived.,적어도 살아남았네.,nw_hen_lin,,[지능 보통],,,0,0
+55173,PC,Player Character,That not burst his head open or stuff?,그거 그의 머리 터뜨리거나 그런 거 아니었어?,nw_hen_lin,,[지능 낮음],,,0,0
+55174,PC,Player Character,And that didn't kill him or turn him into a frog or something?,그래서 죽거나 개구리로 변하거나 한 건 아니었어?,nw_hen_lin,,[지능 보통],,,0,0
+55175,PC,Player Character,Him forgive you?,그 너 용서했어?,nw_hen_lin,,[지능 낮음],,,0,0
+55176,PC,Player Character,Did he forgive you?,널 용서했어?,nw_hen_lin,,[지능 보통],,,0,0
+55177,PC,Player Character,What you mean by that?,그게 무슨 뜻이야?,nw_hen_lin,,[지능 낮음],,,0,0
+55178,PC,Player Character,You mean you... ?,설마 너...?,nw_hen_lin,,[지능 보통],,,0,0
+55179,PC,Player Character,Good move!,잘했어!,nw_hen_lin,,[지능 낮음],,,0,0
+55180,PC,Player Character,"Ha, you bad luck kill him?","하, 너 운 나빠서 그 죽었어?",nw_hen_lin,,[지능 낮음],,,0,0
+55181,PC,Player Character,What? Did you kill him finally?,뭐? 결국 그를 죽였어?,nw_hen_lin,,[지능 보통],,,0,0
+55182,PC,Player Character,Why they not last? What happen?,왜 그들 안 지속됐어? 무슨 일 있었어?,nw_hen_lin,,[지능 낮음],,,0,0
+55183,PC,Player Character,What do you mean? What happened?,무슨 뜻이야? 무슨 일이 있었어?,nw_hen_lin,,[지능 보통],,,0,0
+55184,PC,Player Character,Good for you!,잘됐네!,nw_hen_lin,,[지능 보통],,,0,0
+55185,PC,Player Character,How you like being adventurer?,너 모험가 되는 거 어때?,nw_hen_lin,,nw_ch_check_11,,,0,0
+55186,PC,Player Character,"Tell me, how do you like being an adventurer?","말해봐, 모험가가 되는 게 어때?",nw_hen_lin,,nw_ch_check_10,,,0,0
+55187,PC,Player Character,Who that be?,그거 누구야?,nw_hen_lin,,[지능 낮음],,,0,0
+55188,PC,Player Character,Oh? Who is that?,오? 누구야?,nw_hen_lin,,[지능 보통],,,0,0
+55189,PC,Player Character,YOU catch him for husband? ,너가 그를 남편으로 잡았어?,nw_hen_lin,,[지능 낮음],,,0,0
+55190,PC,Player Character,And YOU managed to hook him?,그리고 너가 그를 낚았다고?,nw_hen_lin,,[지능 보통],,,0,0
+55191,PC,Player Character,You husband.,너 남편.,nw_hen_lin,,[지능 낮음],,,0,0
+55192,PC,Player Character,Your husband.,네 남편.,nw_hen_lin,,[지능 보통],,,0,0
+55193,PC,Player Character,"You think you be pretty smart, huh?","너 꽤 똑똑하다고 생각했어, 응?",nw_hen_lin,,[지능 낮음],,,0,0
+55194,PC,Player Character,"Thought you were pretty smart, huh?","꽤 똑똑하다고 생각했지, 응?",nw_hen_lin,,[지능 보통],,,0,0
+55195,PC,Player Character,It be that bad?,그거 그렇게 나빴어?,nw_hen_lin,,[지능 낮음],,,0,0
+55196,PC,Player Character,Was it really that bad?,정말 그렇게 나빴어?,nw_hen_lin,,[지능 보통],,,0,0
+55197,PC,Player Character,What he do?,그 뭘 했어?,nw_hen_lin,,[지능 낮음],,,0,0
+55198,PC,Player Character,What did he do?,뭘 했어?,nw_hen_lin,,[지능 보통],,,0,0
+55199,PC,Player Character,Me want you continue you story from before. ,나 너 전에 하던 이야기 계속하길 원해.,nw_hen_lin,,nw_ch_check_4,,,0,0
+55200,PC,Player Character,Tell me more about your story.,네 이야기를 더 들려줘.,nw_hen_lin,,nw_ch_check_3,,,0,0
+55201,PC,Player Character,You not let you search get in way of stuff you do for me!,너 너 찾는 거 나 위해 하는 일 방해하게 하지 마!,nw_hen_lin,,[지능 낮음],,,0,0
+55202,PC,Player Character,If me find it me let you know.,나 그거 찾으면 나 너한테 알려줘.,nw_hen_lin,,[지능 낮음],,,0,0
+55203,PC,Player Character,Me found cup! This be cup you talk 'bout?,나 잔 찾았어! 이거 너 말하던 잔이야?,nw_hen_lin,,nw_ch_check_9,,,0,0
+55204,PC,Player Character,"Just don't let your quest get in the way of mine. You work for me, not the other way around.","네 퀘스트가 내 것을 방해하지 않게 해. 넌 나를 위해 일하는 거지, 반대가 아니야.",nw_hen_lin,,[지능 보통],,,0,0
+55205,PC,Player Character,If I find it I'll let you know.,찾으면 알려줄게.,nw_hen_lin,,[지능 보통],,,0,0
+55206,PC,Player Character,Is this the chalice you were talking about?,네가 말하던 성배가 이거야?,nw_hen_lin,,nw_ch_check_8,,,0,0
+55207,PC,Player Character,That's it? A pendant?,그게 다야? 펜던트?,nw_hen_lin,,,,,0,0
+55208,PC,Player Character,"Thank you, Linu.","고마워, 리누.",nw_hen_lin,,,,,0,0
+55209,PC,Player Character,"Why me ever pick you as friend, me just not know.","왜 나 너를 친구로 골랐는지, 나 그냥 몰라.",nw_hen_lin,,[지능 낮음],,,0,0
+55210,PC,Player Character,Why did I ever decide to pick you as a companion?,왜 널 동료로 골랐을까?,nw_hen_lin,,[지능 보통],,,0,0
+55211,PC,Player Character,How you lose it?,어떻게 너 그거 잃어버렸어?,nw_hen_lin,,[지능 낮음],,,0,0
+55212,PC,Player Character,How did you lose it?,어떻게 잃어버렸어?,nw_hen_lin,,[지능 보통],,,0,0
+55213,PC,Player Character,How it possible you lose chalice again?,어떻게 가능해 너 성배 또 잃어버렸어?,nw_hen_lin,,[지능 낮음],,,0,0
+55214,PC,Player Character,How in the name of all that is holy did you lose it again?,도대체 어떻게 또 잃어버렸어?,nw_hen_lin,,[지능 보통],,,0,0
+55215,PC,Player Character,He have bad luck like you.,그 너처럼 운 나빴어.,nw_hen_lin,,[지능 낮음],,,0,0
+55216,PC,Player Character,Sounds like he had just about as much luck as you do.,너만큼 운이 없었던 것 같네.,nw_hen_lin,,[지능 보통],,,0,0
+55217,PC,Player Character,How you know this stuff?,어떻게 너 이런 거 알아?,nw_hen_lin,,[지능 낮음],,,0,0
+55218,PC,Player Character,How did you find all of this out?,어떻게 이 모든 걸 알아냈어?,nw_hen_lin,,[지능 보통],,,0,0
+55219,PC,Player Character,That take real gall!,그거 진짜 뻔뻔해!,nw_hen_lin,,[지능 낮음],,,0,0
+55220,PC,Player Character,That just like a Zhent.,그거 그냥 젠타림 같아.,nw_hen_lin,,[지능 낮음],,,0,0
+55221,PC,Player Character,Me can't believe he did that!,나 그가 그랬다는 거 믿을 수 없어!,nw_hen_lin,,[지능 낮음],,,0,0
+55222,PC,Player Character,Now that takes a lot of gall.,정말 뻔뻔하네.,nw_hen_lin,,[지능 보통],,,0,0
+55223,PC,Player Character,That's a Zhent for you.,젠타림답네.,nw_hen_lin,,[지능 보통],,,0,0
+55224,PC,Player Character,I can't believe he would do that!,그가 그랬다니 믿을 수 없어!,nw_hen_lin,,[지능 보통],,,0,0
+55225,PC,Player Character,Old woman beat you up?,늙은 여자가 너 때렸어?,nw_hen_lin,,[지능 낮음],,,0,0
+55226,PC,Player Character,That terrible.,그거 끔찍해.,nw_hen_lin,,[지능 낮음],,,0,0
+55227,PC,Player Character,You got beat up by an old woman?,늙은 여자한테 맞았다고?,nw_hen_lin,,[지능 보통],,,0,0
+55228,PC,Player Character,That's horrible. ,끔찍하네.,nw_hen_lin,,[지능 보통],,,0,0
+55229,PC,Player Character,Forget cup then. He probably sell it and you never find it 'gain.,잔 잊어버려. 그 아마 팔았어 그리고 너 다시는 못 찾을 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+55230,PC,Player Character,"You no worry Linu, me help you find cup.","너 걱정 마 리누, 나 너 잔 찾는 거 도와줄게.",nw_hen_lin,,[지능 낮음],,,0,0
+55231,PC,Player Character,Better forget about it then. He probably sold it and you'll never find it again.,그럼 잊어버리는 게 나아. 아마 팔았을 거고 다시 못 찾을 거야.,nw_hen_lin,,[지능 보통],,,0,0
+55232,PC,Player Character,"Don't worry Linu, I'll help you find the chalice.","걱정 마 리누, 성작 찾는 거 도와줄게.",nw_hen_lin,,[지능 보통],,,0,0
+55233,PC,Player Character,What about other priests?,다른 사제들은 어때?,nw_hen_lin,,[지능 낮음],,,0,0
+55234,PC,Player Character,You lost a gift from a goddess?,여신한테 받은 선물을 잃어버렸다고?,nw_hen_lin,,[지능 보통],,,0,0
+55235,PC,Player Character,She show you city destroyed if you stay?,너 머물면 도시 파괴되는 거 보여줬어?,nw_hen_lin,,[지능 낮음],,,0,0
+55236,PC,Player Character,What you see in vision?,환영에서 뭐 봤어?,nw_hen_lin,,[지능 낮음],,,0,0
+55237,PC,Player Character,"What, did she tell you to get the hell out of Evereska before you doomed them all?","뭐, 모두를 파멸시키기 전에 에버레스카에서 꺼지라고 했어?",nw_hen_lin,,[지능 보통],,,0,0
+55238,PC,Player Character,What happened in the vision?,환영에서 무슨 일이 있었어?,nw_hen_lin,,[지능 보통],,,0,0
+55239,PC,Player Character,"Me not used to calling other people slow, but... ",나 다른 사람들 느리다고 부르는 거 익숙하지 않은데...,nw_hen_lin,,[지능 낮음],,,0,0
+55240,PC,Player Character,It be good that they be very happy for you.,그들이 너 위해 정말 기뻐하는 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+55241,PC,Player Character,You're just a little clueless aren't you?,너 좀 눈치 없지?,nw_hen_lin,,[지능 보통],,,0,0
+55242,PC,Player Character,"Yes, I'm sure they were very happy... for you.","그래, 정말 기뻤을 거야... 널 위해서 말이야.",nw_hen_lin,,[지능 보통],,,0,0
+55243,PC,Player Character,Good. Me not paying you for you to quest! You here to keep me 'live and stuff!,좋아. 나 너한테 퀘스트하라고 돈 주는 거 아니야! 너 나 살려두려고 여기 있는 거야!,nw_hen_lin,,[지능 낮음],,,0,0
+55244,PC,Player Character,"Good. I'm paying you to keep me alive, not to worry about some stupid quest.",좋아. 나 바보 같은 퀘스트 걱정하라고 돈 주는 게 아니라 날 살려두라고 주는 거야.,nw_hen_lin,,[지능 보통],,,0,0
+55245,PC,Player Character,"Me help you find it, Linu. We be good team.","나 너 찾는 거 도와줄게, 리누. 우리 좋은 팀이야.",nw_hen_lin,,[지능 낮음],,,0,0
+55246,PC,Player Character,"We can find it, Linu, if we work together.","찾을 수 있어, 리누, 우리가 함께 일하면.",nw_hen_lin,,[지능 보통],,,0,0
+55247,PC,Player Character,"Me want help you, Linu.","나 너 돕고 싶어, 리누.",nw_hen_lin,,[지능 낮음],,,0,0
+55248,PC,Player Character,Surely it has not failed. You will find it someday.,분명 실패한 게 아니야. 언젠가 찾을 거야.,nw_hen_lin,,[지능 보통],,,0,0
+55249,PC,Player Character,That be what thief took.,그게 도적이 가져간 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+55250,PC,Player Character,And that is what was stolen?,그리고 그게 도난당한 거야?,nw_hen_lin,,[지능 보통],,,0,0
+55251,PC,Player Character,"Me wanna know 'bout you, if we be working together.","나 너에 대해 알고 싶어, 우리 함께 일하면.",nw_hen_lin,,nw_ch_check_2,,,0,0
+55252,PC,Player Character,"If we're going to be working together, I'd like to know more about you. ","함께 일할 거라면, 너에 대해 더 알고 싶어.",nw_hen_lin,,nw_ch_check_1,,,0,0
+55253,PC,Player Character,What you remember 'bout you home?,너 너의 고향 뭐 기억해?,nw_hen_lin,,[지능 낮음],,,0,0
+55254,PC,Player Character,What you problem with thieves be?,너 도적들이랑 무슨 문제 있어?,nw_hen_lin,,[지능 낮음],,,0,0
+55255,PC,Player Character,Why you leave you home?,왜 너 너의 고향 떠났어?,nw_hen_lin,,[지능 낮음],,,0,0
+55256,PC,Player Character,What are your memories of your home like?,고향에 대한 기억이 어때?,nw_hen_lin,,[지능 보통],,,0,0
+55257,PC,Player Character,Them make fun of humans?,그들이 인간 놀려?,nw_hen_lin,,[지능 낮음],,,0,0
+55258,PC,Player Character,Me would have beat them up for being mean.,나였으면 못되게 굴어서 때렸을 거야.,nw_hen_lin,,[지능 낮음],,,0,0
+55259,PC,Player Character,(Snicker) That be funny... I mean bad.,(킥킥) 그거 웃기네... 내 말은 나빠.,nw_hen_lin,,[지능 낮음],,,0,0
+55260,PC,Player Character,"You have good times too, yes?",너 좋은 시간도 있었지?,nw_hen_lin,,[지능 낮음],,,0,0
+55261,PC,Player Character,"Do elven children really call each other humans, in a bad way?",엘프 아이들이 정말 서로 인간이라고 나쁘게 불러?,nw_hen_lin,,[지능 보통],,,0,0
+55262,PC,Player Character,I'd have beat some sense into them.,나였으면 정신 차리게 때렸을 거야.,nw_hen_lin,,[지능 보통],,,0,0
+55263,PC,Player Character,"(Snicker) That's, um... terrible Linu.","(킥킥) 그건, 음... 끔찍하네 리누.",nw_hen_lin,,[지능 보통],,,0,0
+55264,PC,Player Character,"There were good times too, right?",좋은 시간도 있었지?,nw_hen_lin,,[지능 보통],,,0,0
+55265,PC,Player Character,What happened to make you hate thieves so much?,무슨 일이 있었길래 도적들을 그렇게 싫어해?,nw_hen_lin,,[지능 보통],,,0,0
+55266,PC,Player Character,Why did you leave your homeland?,왜 고향을 떠났어?,nw_hen_lin,,[지능 보통],,,0,0
+55267,PC,Player Character,You no bring bad luck to me! Me got 'nuff problems.,너 나한테 불운 가져오지 마! 나 문제 충분히 있어.,nw_hen_lin,,[지능 낮음],,,0,0
+55268,PC,Player Character,"When me born, me mom dropped me on head. I got some bad luck too.","나 태어날 때, 나의 엄마가 나 머리로 떨어뜨렸어. 나도 불운 좀 있어.",nw_hen_lin,,[지능 낮음],,,0,0
+55269,PC,Player Character,You'd better not bring any bad luck my way.,내 쪽으로 불운 가져오지 않는 게 좋을 거야.,nw_hen_lin,,[지능 보통],,,0,0
+55270,PC,Player Character,"Well, bad luck happens to all of us at one time or other.","음, 불운은 누구에게나 언젠가는 일어나.",nw_hen_lin,,[지능 보통],,,0,0
+55271,PC,Player Character,You be walking trouble. You no bring you troubles to me.,너 걸어다니는 문제야. 너 너의 문제 나한테 가져오지 마.,nw_hen_lin,,[지능 낮음],,,0,0
+55272,PC,Player Character,You really are a piece of work. You better not bring catastrophe down on me.,너 정말 골칫거리야. 나한테 재앙 가져오지 않는 게 좋을 거야.,nw_hen_lin,,[지능 보통],,,0,0
+55273,PC,Player Character,What did thief take?,도적이 뭐 가져갔어?,nw_hen_lin,,[지능 낮음],,,0,0
+55274,PC,Player Character,What did the thief steal?,도적이 뭘 훔쳤어?,nw_hen_lin,,[지능 보통],,,0,0
+55275,PC,Player Character,Fine. You no let you problems get in me way.,좋아. 너 너의 문제가 나의 길 막게 하지 마.,nw_hen_lin,,[지능 낮음],,,0,0
+55276,PC,Player Character,"It okay, Linu. Me want know what you talking about.","괜찮아, 리누. 나 너 무슨 얘기하는지 알고 싶어.",nw_hen_lin,,[지능 낮음],,,0,0
+55277,PC,Player Character,"Fine, just don't let your problems get in my way.","좋아, 네 문제가 내 길을 막지만 않으면 돼.",nw_hen_lin,,[지능 보통],,,0,0
+55278,PC,Player Character,"No, Linu. I want to hear what you had to say.","아니, 리누. 네가 하려던 말 듣고 싶어.",nw_hen_lin,,[지능 보통],,,0,0
+62529,PC,Player Character [Companion Settings],You not use ranged weapons no more. Use melee weapons when you fight.,너 더 이상 원거리 무기 쓰지 마. 싸울 때 근접 무기 써.,nw_hen_lin,nw_ch_gomelee,nw_ch_comrange,[Companion Settings],,0,0
+62530,PC,Player Character [Companion Settings],You not use melee weapon no more. Use ranged weapons and stuff.,너 더 이상 근접 무기 쓰지 마. 원거리 무기 같은 거 써.,nw_hen_lin,nw_ch_goranged,nw_ch_commelee,[Companion Settings],,0,0
+62531,PC,Player Character [Companion Settings],Don't use your ranged weapons anymore. Use your melee weapons in combat.,이제 원거리 무기 쓰지 마. 전투에서 근접 무기 써.,nw_hen_lin,nw_ch_gomelee,nw_ch_comrange,[Companion Settings],,0,0
+62532,PC,Player Character [Companion Settings],Don't use your melee weapons anymore. Use your ranged weapons in combat.,이제 근접 무기 쓰지 마. 전투에서 원거리 무기 써.,nw_hen_lin,nw_ch_goranged,nw_ch_commelee,[Companion Settings],,0,0
+64009,PC,Player Character,"Me too busy, you quiet now, Linu.","나 너무 바빠, 너 이제 조용히 해, 리누.",nw_hen_lin,,[지능 낮음],,,0,0
+64010,PC,Player Character,"I'm too busy right now, Linu.","지금 너무 바빠, 리누.",nw_hen_lin,,[지능 보통],,,0,0
+64011,PC,Player Character,Me gots no time for you whining. We go now. ,나 너 징징거리는 거 들을 시간 없어. 우리 이제 가.,nw_hen_lin,,,,,0,0
+64012,PC,Player Character,I have no time for your chatter. Let's go.,네 수다 들을 시간 없어. 가자.,nw_hen_lin,,,,,0,0
+64013,PC,Player Character,*Sigh* Okay. What you want say? ,*한숨* 알았어. 너 뭐 말하고 싶어?,nw_hen_lin,,,,,0,0
+64014,PC,Player Character,*Sigh* All right. What did you want to say? ,*한숨* 알았어. 뭐 말하고 싶었어?,nw_hen_lin,,,,,0,0
+64015,PC,Player Character,"What you want talk 'bout, Linu?","뭐에 대해 얘기하고 싶어, 리누?",nw_hen_lin,,[지능 낮음],,,0,0
+64016,PC,Player Character,"Yes Linu, what did you want to talk about?","그래 리누, 무엇에 대해 얘기하고 싶었어?",nw_hen_lin,,[지능 보통],,,0,0
+64017,PC,Player Character,"Ya big deal. We go now, right?",그래 대단해. 우리 이제 가지?,nw_hen_lin,,[지능 낮음],,,0,0
+64018,PC,Player Character,"What ever. Let's just get going, okay?","뭐든지. 이제 가자, 알았지?",nw_hen_lin,,[지능 보통],,,0,0
+64019,PC,Player Character,That be part of hero job. Me must make others be strong too.,그게 영웅 일의 일부야. 나 다른 사람들도 강하게 만들어야 해.,nw_hen_lin,,[지능 낮음],,,0,0
+64020,PC,Player Character,That's the job of a hero. We inspire others to greatness.,그게 영웅의 일이야. 우리는 다른 이들에게 위대함을 고취시켜.,nw_hen_lin,,[지능 보통],,,0,0
+64021,PC,Player Character,"You be hero like me, Linu. We be team.","너 나처럼 영웅이야, 리누. 우리 팀이야.",nw_hen_lin,,[지능 낮음],,,0,0
+64022,PC,Player Character,"We have been a team, Linu. You too are a hero.","우리는 팀이었어, 리누. 너도 영웅이야.",nw_hen_lin,,[지능 보통],,,0,0
+64023,PC,Player Character,"Okay, Linu, me get point.","알았어, 리누, 나 요점 알겠어.",nw_hen_lin,,[지능 낮음],,,0,0
+64024,PC,Player Character,"Okay Linu, I get the point.","알았어 리누, 요점 알겠어.",nw_hen_lin,,[지능 보통],,,0,0
+64025,PC,Player Character,'Nuff talk. We go fight now.,충분히 얘기했어. 우리 이제 싸우러 가.,nw_hen_lin,,[지능 낮음],,,0,0
+64026,PC,Player Character,"Enough speeches, we need to get going now.","연설은 충분해, 이제 가야 해.",nw_hen_lin,,[지능 보통],,,0,0
+64027,PC,Player Character,"Thank you, Linu.","고마워, 리누.",nw_hen_lin,,,,,0,0
+64028,PC,Player Character,"Linu, me not see you do clumsy things whole time we be team. Maybe you just be nervous lots?","리누, 나 우리 팀 되고 내내 너 서투른 짓 하는 거 못 봤어. 아마 너 그냥 많이 긴장했던 거 아니야?",nw_hen_lin,,[지능 낮음],,,0,0
+64029,PC,Player Character,"Linu, in all the time we have been together, you have never done any of these clumsy things. Maybe it's just a lack of confidence.","리누, 우리가 함께한 모든 시간 동안, 너는 이런 서투른 짓을 한 적이 없었어. 아마 그냥 자신감 부족일 거야.",nw_hen_lin,,[지능 보통],,,0,0

@@ -1,0 +1,58 @@
+StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+38011,PC,Player Character,*Your* graveyard?,*네* 묘지?,m2q5f07crtkr,,[지능 보통],,,0,0
+38012,PC,Player Character,Who are you?,넌 누구야?,m2q5f07crtkr,,[지능 보통],,,0,0
+38013,PC,Player Character,I'll be going.,이만 갈게.,m2q5f07crtkr,,[지능 보통],,,0,0
+38014,PC,Player Character,"Are there many visitors, then?","그럼, 방문객이 많아?",m2q5f07crtkr,,[지능 보통],,,0,0
+38015,PC,Player Character,"It's a rather small graveyard, isn't it?","꽤 작은 묘지네, 안 그래?",m2q5f07crtkr,,[지능 보통],,,0,0
+38016,PC,Player Character,"Er... you're a loon, you know that?","어... 너 정신 나간 거 알지?",m2q5f07crtkr,,[지능 보통],,,0,0
+38017,PC,Player Character,And just what sorts or secrets are you talking about?,도대체 무슨 비밀을 말하는 거야?,m2q5f07crtkr,,[지능 보통],,,0,0
+38018,PC,Player Character,What's the Arcane Brotherhood?,비전 결사단이 뭔데?,m2q5f07crtkr,,[지능 보통],,,0,0
+38019,PC,Player Character,Oh? And what's interesting about that?,오? 그게 뭐가 흥미로운데?,m2q5f07crtkr,,[지능 보통],,,0,0
+38020,PC,Player Character,Where did they bury him?,그를 어디에 묻었는데?,m2q5f07crtkr,,[지능 보통],,,0,0
+38021,PC,Player Character,So what's so interesting about one of them being buried here?,그래서 그 중 하나가 여기 묻힌 게 뭐가 흥미롭다는 거야?,m2q5f07crtkr,,[지능 보통],,,0,0
+38022,PC,Player Character,So where did they bury this wizard?,그래서 그 마법사를 어디에 묻었는데?,m2q5f07crtkr,,[지능 보통],,,0,0
+38023,PC,Player Character,You haven't gone down there?,거기 내려가 본 적 없어?,m2q5f07crtkr,,[지능 보통],,,0,0
+38024,PC,Player Character,How about you give me that key and I'll go down there?,그 열쇠를 나한테 주면 내가 내려가 볼까?,m2q5f07crtkr,,[지능 보통],,,0,0
+38025,PC,Player Character,"<StartCheck>[Persuade]</Start> I'll give 100 gold, though I'm sure this is a scam.","<StartCheck>[설득]</Start> 금화 100개 줄게, 사기인 거 뻔히 알지만.",m2q5f07crtkr,,[지능 보통],,,0,0
+38026,PC,Player Character,"All right, then, 200 gold it is.","좋아, 그럼 금화 200개다.",m2q5f07crtkr,,m2q2_caretaker01,,,0,0
+38027,PC,Player Character,"How about I take it off your dead body, gnome?","노움, 네 시체에서 빼앗는 건 어때?",m2q5f07crtkr,,[지능 보통],,,0,0
+38028,PC,Player Character,*Your* graveyard? Me not sees you name on it.,*니* 묘지? 니 이름 안 보여.,m2q5f07crtkr,,[지능 낮음],,,0,0
+38029,PC,Player Character,What you do here?,여기서 뭐해?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38030,PC,Player Character,Me will go now.,나 이제 간다.,m2q5f07crtkr,,[지능 낮음],,,0,0
+38031,PC,Player Character,Why this place so small?,왜 여기 이렇게 작아?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38032,PC,Player Character,Oh? You gets visitors?,오? 손님 와?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38033,PC,Player Character,Me say you make no sense!,나 말하는데 니 말 이상해!,m2q5f07crtkr,,[지능 낮음],,,0,0
+38034,PC,Player Character,Mmm... secrets... what kind secret?,음... 비밀... 무슨 비밀?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38035,PC,Player Character,Me not know what is. Arcane Brotherhood?,나 그거 몰라. 비전 결사단?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38036,PC,Player Character,Why that good secret?,왜 그게 좋은 비밀?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38037,PC,Player Character,Where he buried?,그 어디 묻혀?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38038,PC,Player Character,Why big deal one buried in cemetary?,왜 묘지에 하나 묻힌 게 대단해?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38039,PC,Player Character,Wizard buried where?,마법사 어디 묻혀?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38040,PC,Player Character,You not find out yourself?,니가 직접 안 알아봐?,m2q5f07crtkr,,[지능 낮음],,,0,0
+38041,PC,Player Character,Me will takes key and gets stuff.,나 열쇠 받고 물건 가져올게.,m2q5f07crtkr,,[지능 낮음],,,0,0
+38042,PC,Player Character,Me gots 200 gold! You take?,나 금화 200개 있어! 받아?,m2q5f07crtkr,,m2q2_caretaker02,,,0,0
+38043,PC,Player Character,"<StartCheck>[Persuade]</Start> Me give 50 gold, and you be happy!","<StartCheck>[설득]</Start> 나 금화 50개 줄게, 니 기뻐!",m2q5f07crtkr,,[지능 낮음],,,0,0
+38044,PC,Player Character,Me killer! Me *take* key from you.,나 살인자! 나 열쇠 니한테서 *빼앗아*.,m2q5f07crtkr,,[지능 낮음],,,0,0
+38045,PC,Player Character,"<StartCheck>[Persuade]</Start> 50 gold, and you can thank me for that.","<StartCheck>[설득]</Start> 금화 50개, 감사해도 돼.",m2q5f07crtkr,,[지능 보통],,,0,0
+38046,PC,Player Character,<StartCheck>[Persuade]</Start> Me give 100 gold. Me not trust you more.,<StartCheck>[설득]</Start> 나 금화 100개 줄게. 더는 못 믿어.,m2q5f07crtkr,,[지능 낮음],,,0,0
+65073,PC,Player Character,Zombies?!,좀비?!,m2q5f07crtkr,,,,,0,0
+65074,PC,Player Character,That not scares you?,그거 안 무서워?,m2q5f07crtkr,,[지능 낮음],,,0,0
+65075,PC,Player Character,That doesn't frighten you?,그게 안 무섭나?,m2q5f07crtkr,,[지능 보통],,,0,0
+65076,PC,Player Character,What books?,무슨 책?,m2q5f07crtkr,,,,,0,0
+65077,PC,Player Character,"You speaks now, teeny-weeny old gnome...","지금 말해, 찌끄만 늙은 노움...",m2q5f07crtkr,,[지능 낮음],,,0,0
+65078,PC,Player Character,"Out with it, you crotchety gnome...","말해, 이 괴팍한 노움...",m2q5f07crtkr,,[지능 보통],,,0,0
+65079,PC,Player Character,"No, you say 'books'. Me be sure.","아니, 니가 '책들' 말했어. 확실해.",m2q5f07crtkr,,[지능 낮음],,,0,0
+65080,PC,Player Character,"No, you said 'books'. I'm sure of it.","아니, '책들'이라고 했잖아. 확실해.",m2q5f07crtkr,,[지능 보통],,,0,0
+65081,PC,Player Character,Why you not tells someone 'bout this?,왜 다른 사람한테 이거 안 말해?,m2q5f07crtkr,,[지능 낮음],,,0,0
+65082,PC,Player Character,Why haven't you told anyone about this?,왜 아무한테도 이 얘기 안 했어?,m2q5f07crtkr,,[지능 보통],,,0,0
+65083,PC,Player Character,<StartCheck>[Lie]</Start> Me from... uhh... Arcane Brothers. Key belongs to us.,<StartCheck>[거짓말]</Start> 나... 어... 비전 형제들. 열쇠 우리 거.,m2q5f07crtkr,,[지능 낮음],,,0,0
+65084,PC,Player Character,"<StartCheck>[Lie]</Start> I'm from the Arcane Brotherhood, actually. The key belongs to us.","<StartCheck>[거짓말]</Start> 사실 난 비전 결사단에서 왔어. 열쇠는 우리 거야.",m2q5f07crtkr,,[지능 보통],,,0,0
+65085,PC,Player Character,"<StartCheck>[Lie]</Start> Yes, but we don't call it the Arcane Brotherhood anymore...","<StartCheck>[거짓말]</Start> 맞아, 하지만 더 이상 비전 결사단이라고 부르지 않아...",m2q5f07crtkr,,nw_d2_wis_intn,,,0,0
+65086,PC,Player Character,<StartCheck>[Lie]</Start> No.,<StartCheck>[거짓말]</Start> 아니.,m2q5f07crtkr,,,,,0,0
+65087,PC,Player Character,"Yes, I guess I did.","그래, 그랬던 것 같네.",m2q5f07crtkr,,[지능 보통],,,0,0
+65088,PC,Player Character,"Yeah, me did.","응, 나 그랬어.",m2q5f07crtkr,,[지능 낮음],,,0,0
+68124,PC,Player Character,Goodbye.,안녕.,m2q5f07crtkr,,,,,0,0
+68125,PC,Player Character [M2Q5F],What you knows about magic book me finds in tomb?,나 무덤에서 찾은 마법 책 니가 뭐 알아?,m2q5f07crtkr,,m2q5fcrtkr02,[M2Q5F],,0,0
+68126,PC,Player Character [M2Q5F],What do you know about this tome I found in the tomb?,무덤에서 찾은 이 마법서에 대해 뭘 알아?,m2q5f07crtkr,,m2q5fcrtkr01,[M2Q5F],,0,0
+68127,PC,Player Character,What you says about Eltoora?,니가 엘투라 얘기 뭐래?,m2q5f07crtkr,,[지능 낮음],,,0,0
+68128,PC,Player Character,What's this about Eltoora?,엘투라 얘기가 뭔데?,m2q5f07crtkr,,[지능 보통],,,0,0
