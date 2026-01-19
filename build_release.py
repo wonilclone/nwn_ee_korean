@@ -14,15 +14,17 @@ NWN:EE 한글 패치 릴리스 빌드 스크립트
   └── windows/  (예정)
 
 사용법:
-    python3 build_release.py              # 전체 빌드
-    python3 build_release.py --mac        # macOS만 빌드
-    python3 build_release.py --debug      # 검수 모드 TLK 생성
+    python3 build_release.py                # 전체 빌드
+    python3 build_release.py --mac          # macOS만 빌드
+    python3 build_release.py --debug        # 검수 모드 TLK 생성
+    python3 build_release.py --zip v0.1.0   # 빌드 후 zip 생성
 """
 
 import argparse
 import shutil
 import subprocess
 import sys
+import zipfile
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent
@@ -163,7 +165,59 @@ def build_windows(tlk_path: Path):
     return True
 
 
-def print_summary():
+# 릴리스에 포함할 파일 화이트리스트
+RELEASE_FILES = {
+    'mac': [
+        'install.py',
+        'nwn_korean_hook.dylib',
+        'README.md',
+        'override/dialog.tlk',
+        'override/fnt_default.ttf',
+        'override/fnt_default_hr.ttf',
+        'override/fnt_maintext.ttf',
+    ],
+    'windows': [
+        # 추후 추가
+    ],
+}
+
+
+def create_zip(platform: str, version: str | None = None) -> Path | None:
+    """플랫폼별 릴리스 zip 파일 생성 (화이트리스트 기반)"""
+    platform_dir = RELEASE_DIR / platform
+    if not platform_dir.exists():
+        return None
+
+    whitelist = RELEASE_FILES.get(platform, [])
+    if not whitelist:
+        print(f"  [!] {platform}: 화이트리스트가 비어있습니다")
+        return None
+
+    # 버전 태그가 없으면 파일명에서 제외
+    if version:
+        zip_name = f"nwn-ee-korean-{platform}-{version}.zip"
+    else:
+        zip_name = f"nwn-ee-korean-{platform}.zip"
+
+    zip_path = RELEASE_DIR / zip_name
+
+    print(f"\n[{platform}] 압축 중...")
+
+    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zf:
+        for rel_path in whitelist:
+            file_path = platform_dir / rel_path
+            if file_path.exists():
+                arcname = f"{platform}/{rel_path}"
+                zf.write(file_path, arcname)
+                print(f"  + {rel_path}")
+            else:
+                print(f"  [!] 누락: {rel_path}")
+
+    print(f"  [OK] {zip_name} ({zip_path.stat().st_size / 1024 / 1024:.1f} MB)")
+    return zip_path
+
+
+def print_summary(zip_files: list[Path] | None = None):
     """빌드 요약"""
     print()
     print("=" * 50)
@@ -197,6 +251,14 @@ def print_summary():
             print(f"  {'─' * 43}")
             print(f"  {'총합':35s} {total_size / 1024 / 1024:6.2f} MB")
 
+    if zip_files:
+        print()
+        print("=" * 50)
+        print("릴리스 파일")
+        print("=" * 50)
+        for zf in zip_files:
+            print(f"  {zf.name}")
+
 
 def main():
     parser = argparse.ArgumentParser(
@@ -204,9 +266,10 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 예시:
-    python3 build_release.py          # 전체 빌드
-    python3 build_release.py --mac    # macOS만 빌드
-    python3 build_release.py --debug  # 검수 모드
+    python3 build_release.py                # 전체 빌드
+    python3 build_release.py --mac          # macOS만 빌드
+    python3 build_release.py --debug        # 검수 모드
+    python3 build_release.py --zip v0.1.0   # 빌드 후 zip 생성
         """
     )
     parser.add_argument('--mac', action='store_true',
@@ -217,6 +280,8 @@ def main():
                         help='검수 모드 TLK 생성 (텍스트 앞에 [StrRef] 추가)')
     parser.add_argument('--skip-tlk', action='store_true',
                         help='TLK 빌드 건너뛰기')
+    parser.add_argument('--zip', nargs='?', const='', metavar='VERSION',
+                        help='릴리스 zip 파일 생성 (예: --zip v0.1.0)')
 
     args = parser.parse_args()
 
@@ -249,8 +314,31 @@ def main():
         if not build_windows(tlk_path):
             return 1
 
+    # zip 생성
+    zip_files = []
+    if args.zip is not None:
+        print()
+        print("=" * 50)
+        print("릴리스 압축")
+        print("=" * 50)
+
+        version = args.zip if args.zip else None
+        platforms = []
+        if build_all:
+            platforms = ['mac', 'windows']
+        else:
+            if args.mac:
+                platforms.append('mac')
+            if args.windows:
+                platforms.append('windows')
+
+        for platform in platforms:
+            zf = create_zip(platform, version)
+            if zf:
+                zip_files.append(zf)
+
     # 요약
-    print_summary()
+    print_summary(zip_files if zip_files else None)
 
     return 0
 
