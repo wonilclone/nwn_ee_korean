@@ -76,6 +76,18 @@ streamlit run editor.py
 - 영어 원문과 한글 번역 비교
 - 완성형(KS X 1001) 범위 외 한글 표시
 
+## 한글 자막 시네마틱 (선택)
+
+인게임 시네마틱에 한글 자막을 추가한 HD 버전 영상 파일을 별도로 제공합니다.
+
+**다운로드**: [Google Drive](https://drive.google.com/file/d/1XoF4CXkMQ93kP5BniN0K60wS_LBS2uDq/view?usp=sharing)
+
+**설치 방법**:
+1. 압축 파일 다운로드 및 해제
+2. 영상 파일들을 다음 경로에 복사:
+   - macOS: `~/Documents/Neverwinter Nights/movies/`
+   - Windows: `문서\Neverwinter Nights\movies\`
+
 ## 기술 개요
 
 - **인코딩**: CP949 (KS X 1001 완성형 한글 2,350자)
