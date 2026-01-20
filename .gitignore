@@ -45,6 +45,8 @@ nwmain.backup
 
 # Compiled binaries
 *.o
+*.exe
+*.dll
 
 # Temporary files
 *.log

@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+from __future__ import annotations
+
 """
 NWN:EE 한글 패치 릴리스 빌드 스크립트
 
@@ -156,12 +158,84 @@ def build_mac(tlk_path: Path):
 
 
 def build_windows(tlk_path: Path):
-    """Windows 릴리스 빌드 (예정)"""
+    """Windows 릴리스 빌드"""
     print()
     print("=" * 50)
     print("Windows 빌드")
     print("=" * 50)
-    print("  [!] Windows 빌드는 아직 구현되지 않았습니다")
+
+    win_dir = PROJECT_ROOT / "windows"
+    hook_dir = win_dir / "hook"
+    scripts_dir = win_dir / "scripts"
+    win_release_dst = RELEASE_DIR / "windows"
+    override_dst = win_release_dst / "override"
+
+    # 릴리스 디렉토리 생성
+    win_release_dst.mkdir(parents=True, exist_ok=True)
+    override_dst.mkdir(parents=True, exist_ok=True)
+
+    # 1. DLL과 로더 확인/복사
+    print("\n[1/5] DLL 및 로더 확인...")
+
+    dll_src = hook_dir / "nwn_korean_hook.dll"
+    loader_src = hook_dir / "nwn_korean_loader.exe"
+
+    if dll_src.exists():
+        dll_dst = win_release_dst / "nwn_korean_hook.dll"
+        shutil.copy2(dll_src, dll_dst)
+        print(f"  [OK] {dll_dst.name} ({dll_dst.stat().st_size / 1024:.1f} KB)")
+    else:
+        print(f"  [!] DLL을 찾을 수 없습니다: {dll_src}")
+        print("      hook 디렉토리에 빌드된 DLL을 복사해주세요.")
+
+    if loader_src.exists():
+        loader_dst = win_release_dst / "nwn_korean_loader.exe"
+        shutil.copy2(loader_src, loader_dst)
+        print(f"  [OK] {loader_dst.name} ({loader_dst.stat().st_size / 1024:.1f} KB)")
+    else:
+        print(f"  [!] 로더를 찾을 수 없습니다: {loader_src}")
+        print("      hook 디렉토리에 빌드된 로더를 복사해주세요.")
+
+    # 2. TLK 복사 (override 디렉토리)
+    print("\n[2/5] TLK 복사...")
+    tlk_dst = override_dst / "dialog.tlk"
+    shutil.copy2(tlk_path, tlk_dst)
+    print(f"  [OK] override/{tlk_dst.name} ({tlk_dst.stat().st_size / 1024 / 1024:.1f} MB)")
+
+    # 3. install.py 복사
+    print("\n[3/5] 설치 스크립트 복사...")
+    install_src = scripts_dir / "install.py"
+    install_dst = win_release_dst / "install.py"
+    if install_src.exists():
+        shutil.copy2(install_src, install_dst)
+        print(f"  [OK] {install_dst.name}")
+    else:
+        print(f"  [!] install.py를 찾을 수 없습니다: {install_src}")
+
+    # 4. README 복사
+    print("\n[4/5] README 복사...")
+    readme_src = win_dir / "RELEASE_README.md"
+    readme_dst = win_release_dst / "README.md"
+    if readme_src.exists():
+        shutil.copy2(readme_src, readme_dst)
+        print(f"  [OK] {readme_dst.name}")
+    else:
+        print(f"  [!] README를 찾을 수 없습니다: {readme_src}")
+
+    # 5. 폰트 복사 (override 디렉토리)
+    print("\n[5/5] 폰트 복사...")
+    font_src_files = list(FONTS_DIR.glob("*.ttf")) + list(FONTS_DIR.glob("*.otf"))
+    if font_src_files:
+        # 첫 번째 폰트 파일을 NWN 폰트 파일명으로 복사
+        src_font = font_src_files[0]
+        for font_name in NWN_FONT_FILES:
+            font_dst = override_dst / font_name
+            shutil.copy2(src_font, font_dst)
+            print(f"  [OK] override/{font_name} ({font_dst.stat().st_size / 1024 / 1024:.1f} MB)")
+    else:
+        print("  [!] fonts/ 디렉토리에 폰트 파일이 없습니다.")
+        print("      Spoqa Han Sans Neo 등의 폰트를 fonts/에 넣어주세요.")
+
     return True
 
 
@@ -177,7 +251,14 @@ RELEASE_FILES = {
         'override/fnt_maintext.ttf',
     ],
     'windows': [
-        # 추후 추가
+        'install.py',
+        'nwn_korean_hook.dll',
+        'nwn_korean_loader.exe',
+        'README.md',
+        'override/dialog.tlk',
+        'override/fnt_default.ttf',
+        'override/fnt_default_hr.ttf',
+        'override/fnt_maintext.ttf',
     ],
 }
 
