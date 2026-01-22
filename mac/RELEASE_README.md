@@ -4,37 +4,42 @@ Neverwinter Nights: Enhanced Edition macOS용 한글 패치입니다.
 
 ## 지원 환경
 
-- Mac (Apple Silicon: M1, M2, M3, M4 칩)
+- macOS (Apple Silicon: M1, M2, M3, M4 칩)
 - Steam 버전 NWN:EE
 
 Intel Mac은 지원하지 않습니다.
+
+## 지원 범위
+
+| 기능 | 상태 |
+|------|------|
+| 인게임 UI (대화, 저널 등) | ✅ 지원 |
+| 레거시 UI 버튼 텍스트 | ✅ 지원 |
+| Nuklear UI (옵션, 모듈 선택) | ✅ 지원 |
 
 ---
 
 ## 설치 방법
 
-### 1단계: 터미널 열기
+### 1단계: 압축 해제
+
+다운로드한 zip 파일을 원하는 위치에 압축 해제합니다.
+
+### 2단계: 터미널 열기
 
 1. `Cmd + Space`를 눌러 Spotlight 검색 열기
 2. "터미널" 입력 후 Enter
-
-### 2단계: 다운로드 폴더로 이동
-
-터미널에 아래 명령어를 복사하여 붙여넣고 Enter:
-
-```
-cd ~/Downloads/mac
-```
-
-만약 다른 위치에 압축을 풀었다면 해당 경로로 이동하세요.
 
 ### 3단계: 설치 실행
 
 터미널에 아래 명령어를 복사하여 붙여넣고 Enter:
 
 ```
+cd ~/Downloads/mac
 python3 install.py
 ```
+
+만약 다른 위치에 압축을 풀었다면 해당 경로로 이동하세요.
 
 설치가 완료되면 "설치 완료!" 메시지가 표시됩니다.
 
@@ -91,19 +96,40 @@ Steam 버전이 아니거나 기본 경로에 설치되지 않은 경우입니�
 python3 install.py --check
 ```
 
+"패치 적용됨"이 표시되어야 합니다.
+
 ---
 
 ## 포함 파일
 
 ```
 mac/
-├── install.py              # 설치 프로그램
-├── nwn_korean_hook.dylib   # 한글 처리 파일
+├── install.py              # 설치 스크립트
+├── nwn_korean_hook.dylib   # 한글 처리 라이브러리
 ├── README.md               # 이 파일
 └── override/
     ├── dialog.tlk          # 한글 대사 파일
     └── fnt_*.ttf           # 한글 폰트
 ```
+
+---
+
+## 기술 정보
+
+이 패치는 다음과 같은 방식으로 동작합니다:
+
+1. **바이너리 패치**: nwmain에 CP949 한글 디코딩 코드 삽입
+2. **dylib 후킹**: 폰트 베이킹 시 한글 글리프 추가
+3. **리소스 교체**: 한글 TLK 파일 및 폰트 설치
+
+### 적용되는 패치
+
+- Phase 1: GetSymbolCoords/SetSymbolCoords 경계 체크 확장 (255→2613)
+- Phase 2: AurGetTTFTexture 후킹으로 한글 글리프 베이킹 (dylib)
+- Phase 3: TextOut 내 CP949 2바이트 디코더
+- Texture: 4096x4096 텍스처 크기 확장
+- Glyph Padding: 글리프 간 여백 증가 (문자 침범 방지)
+- Nuklear UI: EE UI 한글 글리프 범위 패치
 
 ---
 

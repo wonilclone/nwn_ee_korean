@@ -7,6 +7,18 @@ Neverwinter Nights: Enhanced Edition Windows용 한글 패치입니다.
 - Windows 10/11 64-bit
 - Steam 버전 NWN:EE
 
+## 지원 범위
+
+| 기능 | 상태 |
+|------|------|
+| 인게임 UI (대화, 저널 등) | ✅ 지원 |
+| 레거시 UI 버튼 텍스트 | ⚠️ 좌측으로 치우침 |
+| Nuklear UI (옵션, 모듈 선택) | ❌ 미지원 (Latin-1로 깨짐) |
+
+**알려진 제한 사항**:
+- 옵션 화면, 모듈 선택 화면 등 Nuklear UI에서 한글이 깨져서 표시됩니다
+- 레거시 UI 버튼에서 한글 글리프가 2바이트 너비로 계산되어 텍스트가 좌측으로 치우쳐 보입니다
+
 ---
 
 ## 설치 방법
@@ -17,17 +29,9 @@ Neverwinter Nights: Enhanced Edition Windows용 한글 패치입니다.
 
 ### 2단계: 설치 프로그램 실행
 
-`install.py`를 더블클릭하거나, 명령 프롬프트에서 실행:
+`install.exe`를 더블클릭합니다.
 
-```
-cd 압축해제한폴더\windows
-python install.py
-```
-
-Python이 설치되어 있지 않다면:
-1. [python.org](https://www.python.org/downloads/)에서 Python 3.x 다운로드
-2. 설치 시 "Add Python to PATH" 체크
-3. 다시 install.py 실행
+설치가 완료되면 "설치 완료!" 메시지가 표시됩니다.
 
 ### 3단계: 게임 실행
 
@@ -52,13 +56,13 @@ C:\Program Files (x86)\Steam\steamapps\common\Neverwinter Nights\bin\win32\nwn_k
 
 ## 패치 제거
 
-### 방법 1: 제거 스크립트 사용
+### 방법 1: 제거 프로그램 사용
 
 명령 프롬프트에서:
 
 ```
 cd 압축해제한폴더\windows
-python install.py --uninstall
+install.exe --uninstall
 ```
 
 ### 방법 2: Steam에서 복구
@@ -75,23 +79,19 @@ python install.py --uninstall
 ### "NWN:EE를 찾을 수 없습니다" 오류
 
 Steam 버전이 아니거나 기본 경로에 설치되지 않은 경우입니다.
-
-**해결 방법:**
-1. `install.py` 파일을 메모장으로 열기
-2. 상단의 `NWN_DIR = ` 줄을 찾기
-3. 실제 게임 설치 경로로 수정
+install.exe는 기본 Steam 경로만 지원합니다. 다른 경로에 설치된 경우 수동 설치가 필요합니다.
 
 ### 게임이 크래시됨
 
 1. Steam에서 "게임 파일 무결성 검사" 실행
-2. 패치를 다시 설치: `python install.py`
+2. 패치를 다시 설치: `install.exe` 실행
 
 ### 한글이 깨져 보임
 
-설치 상태 확인:
+명령 프롬프트에서 설치 상태 확인:
 
 ```
-python install.py --check
+install.exe --check
 ```
 
 "패치 적용됨"이 표시되어야 합니다.
@@ -109,7 +109,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Neverwinter Nights\bin\win32\nwn_k
 
 ```
 windows/
-├── install.py              # 설치 프로그램
+├── install.exe             # 설치 프로그램
 ├── nwn_korean_hook.dll     # 한글 처리 DLL
 ├── nwn_korean_loader.exe   # 게임 로더
 ├── README.md               # 이 파일
@@ -135,7 +135,11 @@ windows/
 - Phase 3: TextOut 내 CP949 2바이트 디코더
 - Texture: 4096x4096 텍스처 크기 확장
 - Glyph Padding: 글리프 간 여백 증가 (문자 침범 방지)
-- Nuklear: EE UI 한글 글리프 범위 패치
+
+### 미적용 패치 (향후 지원 예정)
+
+- Nuklear UI: EE UI 한글 글리프 범위 (후킹 포인트 조사 중)
+- 버튼 텍스트 정렬: 한글 글리프 너비 계산 보정 (패치 방법 조사 중)
 
 ---
 

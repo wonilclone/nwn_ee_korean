@@ -8,7 +8,20 @@ Neverwinter Nights: Enhanced Edition 한글화 프로젝트입니다.
 |--------|------|
 | macOS (Apple Silicon) | ✅ 지원 |
 | macOS (Intel) | ❌ 미지원 |
-| Windows | 🚧 예정 |
+| Windows (64-bit) | ⚠️ 부분 지원 |
+
+### 플랫폼별 지원 범위
+
+| 기능 | macOS | Windows |
+|------|-------|---------|
+| 인게임 UI (대화, 저널 등) | ✅ | ✅ |
+| 레거시 UI 버튼 텍스트 정렬 | ✅ | ⚠️ 치우침 |
+| Nuklear UI (옵션, 모듈 선택) | ✅ | ❌ |
+
+**Windows 제한 사항**:
+- Nuklear UI에서 한글이 Latin-1로 깨져서 표시됨 (옵션 화면, 모듈 선택 화면)
+- 레거시 UI 버튼에서 한글 글리프가 2바이트 너비로 계산되어 텍스트가 좌측으로 치우침
+- 후킹 포인트 차이로 인해 macOS와 다른 접근 방식 필요
 
 ## 빠른 시작
 
@@ -24,8 +37,10 @@ python3 build_release.py
 
 ```bash
 python3 build_release.py --mac       # macOS만 빌드
+python3 build_release.py --windows   # Windows만 빌드
 python3 build_release.py --debug     # 검수 모드 (StrRef 표시)
 python3 build_release.py --skip-tlk  # TLK 빌드 건너뛰기
+python3 build_release.py --zip v1.0  # 빌드 후 zip 압축
 ```
 
 ## 프로젝트 구조
@@ -36,7 +51,10 @@ python3 build_release.py --skip-tlk  # TLK 빌드 건너뛰기
 ├── mac/                     # macOS 구현
 │   ├── hook/                # dylib 소스
 │   ├── scripts/             # 설치 스크립트
-│   └── README.md            # 개발 문서
+│   └── docs/                # 기술 문서
+├── windows/                 # Windows 구현
+│   ├── hook/                # DLL/로더 소스
+│   └── scripts/             # 설치 스크립트
 ├── translate/               # 번역 작업
 │   ├── dialog_translated/   # 번역 CSV (수정 대상)
 │   ├── editor.py            # Streamlit 번역 편집기
@@ -49,6 +67,7 @@ python3 build_release.py --skip-tlk  # TLK 빌드 건너뛰기
 
 - Python 3.10+
 - macOS: Xcode Command Line Tools (`xcode-select --install`)
+- Windows: Visual Studio 또는 MinGW (DLL/로더 빌드 시)
 
 ### 폰트
 
@@ -92,7 +111,9 @@ streamlit run editor.py
 
 - **인코딩**: CP949 (KS X 1001 완성형 한글 2,350자)
 - **글리프**: ASCII 256 + 한글 2,350 = 2,606자
-- **패치 방식**: 바이너리 패치 + dylib 후킹
+- **패치 방식**:
+  - macOS: 바이너리 패치 + dylib 후킹
+  - Windows: DLL 인젝션 + 런타임 후킹
 
 ## 저작권
 

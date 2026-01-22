@@ -157,6 +157,94 @@ def build_mac(tlk_path: Path):
     return True
 
 
+def build_windows_hook(hook_dir: Path) -> bool:
+    """Windows DLL 및 로더 빌드 (Windows에서만 실행 가능)"""
+    import platform
+
+    if platform.system() != "Windows":
+        print("  [!] Windows가 아닌 환경에서는 DLL/로더 빌드를 건너뜁니다.")
+        print("      Windows에서 build.bat을 실행하거나 미리 빌드된 파일을 복사하세요.")
+        return False
+
+    # Visual Studio 또는 MinGW로 빌드 시도
+    # Visual Studio (cl) 확인
+    cl_check = subprocess.run(["where", "cl"], capture_output=True)
+    has_vs = cl_check.returncode == 0
+
+    # MinGW (gcc) 확인
+    gcc_check = subprocess.run(["where", "gcc"], capture_output=True)
+    has_gcc = gcc_check.returncode == 0
+
+    if has_vs:
+        print("  Visual Studio 컴파일러 사용")
+
+        # DLL 빌드
+        dll_result = subprocess.run(
+            ["cl", "/LD", "/O2", "/W3", "/nologo",
+             "nwn_korean_hook.c", "/Fe:nwn_korean_hook.dll",
+             "/link", "/DEF:nwn_korean_hook.def"],
+            cwd=hook_dir,
+            capture_output=True,
+            text=True
+        )
+
+        if dll_result.returncode != 0:
+            print(f"  [!] DLL 빌드 실패")
+            print(dll_result.stderr)
+            return False
+
+        # 로더 빌드
+        loader_result = subprocess.run(
+            ["cl", "/O2", "/W3", "/nologo",
+             "nwn_korean_loader.c", "/Fe:nwn_korean_loader.exe"],
+            cwd=hook_dir,
+            capture_output=True,
+            text=True
+        )
+
+        if loader_result.returncode != 0:
+            print(f"  [!] 로더 빌드 실패")
+            print(loader_result.stderr)
+            return False
+
+    elif has_gcc:
+        print("  MinGW GCC 사용")
+
+        # DLL 빌드
+        dll_result = subprocess.run(
+            ["gcc", "-shared", "-O2", "-Wall",
+             "-o", "nwn_korean_hook.dll", "nwn_korean_hook.c", "-lpsapi"],
+            cwd=hook_dir,
+            capture_output=True,
+            text=True
+        )
+
+        if dll_result.returncode != 0:
+            print(f"  [!] DLL 빌드 실패")
+            print(dll_result.stderr)
+            return False
+
+        # 로더 빌드
+        loader_result = subprocess.run(
+            ["gcc", "-O2", "-Wall",
+             "-o", "nwn_korean_loader.exe", "nwn_korean_loader.c"],
+            cwd=hook_dir,
+            capture_output=True,
+            text=True
+        )
+
+        if loader_result.returncode != 0:
+            print(f"  [!] 로더 빌드 실패")
+            print(loader_result.stderr)
+            return False
+    else:
+        print("  [!] Visual Studio 또는 MinGW를 찾을 수 없습니다.")
+        print("      Developer Command Prompt 또는 MinGW 환경에서 실행하세요.")
+        return False
+
+    return True
+
+
 def build_windows(tlk_path: Path):
     """Windows 릴리스 빌드"""
     print()
@@ -174,19 +262,23 @@ def build_windows(tlk_path: Path):
     win_release_dst.mkdir(parents=True, exist_ok=True)
     override_dst.mkdir(parents=True, exist_ok=True)
 
-    # 1. DLL과 로더 확인/복사
-    print("\n[1/5] DLL 및 로더 확인...")
+    # 1. DLL과 로더 빌드
+    print("\n[1/5] DLL 및 로더 빌드...")
 
     dll_src = hook_dir / "nwn_korean_hook.dll"
     loader_src = hook_dir / "nwn_korean_loader.exe"
 
+    # 빌드 시도 (Windows에서만)
+    build_windows_hook(hook_dir)
+
+    # 빌드된 파일 복사
     if dll_src.exists():
         dll_dst = win_release_dst / "nwn_korean_hook.dll"
         shutil.copy2(dll_src, dll_dst)
         print(f"  [OK] {dll_dst.name} ({dll_dst.stat().st_size / 1024:.1f} KB)")
     else:
         print(f"  [!] DLL을 찾을 수 없습니다: {dll_src}")
-        print("      hook 디렉토리에 빌드된 DLL을 복사해주세요.")
+        print("      Windows에서 build.bat을 실행하거나 빌드된 DLL을 복사해주세요.")
 
     if loader_src.exists():
         loader_dst = win_release_dst / "nwn_korean_loader.exe"
@@ -194,7 +286,7 @@ def build_windows(tlk_path: Path):
         print(f"  [OK] {loader_dst.name} ({loader_dst.stat().st_size / 1024:.1f} KB)")
     else:
         print(f"  [!] 로더를 찾을 수 없습니다: {loader_src}")
-        print("      hook 디렉토리에 빌드된 로더를 복사해주세요.")
+        print("      Windows에서 build.bat을 실행하거나 빌드된 로더를 복사해주세요.")
 
     # 2. TLK 복사 (override 디렉토리)
     print("\n[2/5] TLK 복사...")
@@ -202,15 +294,44 @@ def build_windows(tlk_path: Path):
     shutil.copy2(tlk_path, tlk_dst)
     print(f"  [OK] override/{tlk_dst.name} ({tlk_dst.stat().st_size / 1024 / 1024:.1f} MB)")
 
-    # 3. install.py 복사
-    print("\n[3/5] 설치 스크립트 복사...")
-    install_src = scripts_dir / "install.py"
-    install_dst = win_release_dst / "install.py"
-    if install_src.exists():
-        shutil.copy2(install_src, install_dst)
-        print(f"  [OK] {install_dst.name}")
+    # 3. install.exe 빌드 (PyInstaller)
+    print("\n[3/5] 설치 프로그램 빌드...")
+    install_py_src = scripts_dir / "install.py"
+    install_exe_dst = win_release_dst / "install.exe"
+
+    if not install_py_src.exists():
+        print(f"  [!] install.py를 찾을 수 없습니다: {install_py_src}")
     else:
-        print(f"  [!] install.py를 찾을 수 없습니다: {install_src}")
+        # PyInstaller 실행
+        result = subprocess.run(
+            [
+                sys.executable, "-m", "PyInstaller",
+                "--onefile",
+                "--name", "install",
+                "--distpath", str(win_release_dst),
+                "--workpath", str(scripts_dir / "build"),
+                "--specpath", str(scripts_dir),
+                str(install_py_src),
+            ],
+            capture_output=True,
+            text=True
+        )
+
+        if result.returncode != 0:
+            print(f"  [!] PyInstaller 빌드 실패")
+            print(result.stderr)
+            print("      pip install pyinstaller 로 설치 후 다시 시도하세요.")
+        elif install_exe_dst.exists():
+            print(f"  [OK] {install_exe_dst.name} ({install_exe_dst.stat().st_size / 1024 / 1024:.1f} MB)")
+            # 빌드 임시 파일 정리
+            build_dir = scripts_dir / "build"
+            spec_file = scripts_dir / "install.spec"
+            if build_dir.exists():
+                shutil.rmtree(build_dir)
+            if spec_file.exists():
+                spec_file.unlink()
+        else:
+            print(f"  [!] install.exe가 생성되지 않았습니다")
 
     # 4. README 복사
     print("\n[4/5] README 복사...")
@@ -251,7 +372,7 @@ RELEASE_FILES = {
         'override/fnt_maintext.ttf',
     ],
     'windows': [
-        'install.py',
+        'install.exe',
         'nwn_korean_hook.dll',
         'nwn_korean_loader.exe',
         'README.md',
