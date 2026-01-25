@@ -13,12 +13,19 @@ import struct
 import shutil
 import sys
 from pathlib import Path
+from typing import Optional, Tuple, List
 
 # ============================================================================
 # 경로 설정
 # ============================================================================
 
-SCRIPT_DIR = Path(__file__).parent
+# PyInstaller exe에서 실행될 때 실제 exe 위치 찾기
+if getattr(sys, 'frozen', False):
+    # PyInstaller로 빌드된 exe
+    SCRIPT_DIR = Path(sys.executable).parent
+else:
+    # 일반 Python 스크립트
+    SCRIPT_DIR = Path(__file__).parent
 NWN_DIR = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Neverwinter Nights\bin\win32")
 NWN_DOCS = Path.home() / "Documents" / "Neverwinter Nights"
 NWMAIN = NWN_DIR / "nwmain.exe"
@@ -26,14 +33,65 @@ BACKUP_DIR = SCRIPT_DIR / "backup"
 BACKUP = BACKUP_DIR / "nwmain.exe.original"
 
 # ============================================================================
-# 원본 바이너리 해시 (검증용)
+# 원본 바이너리 해시 및 버전별 오프셋
 # ============================================================================
 
 # SHA256 해시 - 테스트된 nwmain.exe 버전들
 KNOWN_HASHES = {
     # Steam Build 8193.35 (2024)
-    "4e1bd743944027ddca7b11b96fa856b1f51e3b7ad0f2747ddfc53b35312be8df": "8193.35 (Steam)",
+    "4e1bd743944027ddca7b11b96fa856b1f51e3b7ad0f2747ddfc53b35312be8df": "8193.35",
+    # Steam Build 8193.36-40 (2025)
+    "3b7cb1252e0edb2ce22d7971f333aade027039ae30a45b4bc64732c3e6bec73a": "8193.36+",
 }
+
+# 버전별 오프셋 테이블 (모든 값은 파일 오프셋)
+# Note: RVA가 아닌 파일 오프셋 사용 (RVA - 0xC00 = file offset for .text section)
+VERSION_OFFSETS = {
+    "8193.35": {
+        # Phase 1: 경계 체크
+        "get_symbol_coords": 0x000eaf20,
+        "set_symbol_coords": 0x000ed39f,
+        # Glyph padding (RVA 0xfb880 -> file offset)
+        "glyph_padding": 0x000fac80,
+        # Texture 4096x4096 (RVA 0xfb7e7, 0x2df54f -> file offset)
+        "texture_hook": 0x000fabe7,
+        "texture_cave": 0x002de94f,
+        # TextOut CP949 decoder (RVA 0x4ca06, 0x966dd3 -> file offset)
+        "textout": 0x0004be06,
+        "textout_next": 0x0004be0b,
+        "textout_cave": 0x009661d3,
+        # Nuklear glyph range (RVA -> file offset, 한글 글리프 로드)
+        "nuklear_glyph_range": [
+            (0xa70fe3, 0xa703e3, "Main font setup"),
+            (0xa82fe8, 0xa823e8, "Secondary font"),
+            (0xa8405c, 0xa8345c, "Font config init"),
+            (0xa840b0, 0xa834b0, "Glyph range getter"),
+        ],
+        "korean_range_rva": 0xe8bd48,
+    },
+    "8193.36+": {
+        # 8193.35와 동일한 파일 오프셋 (apply_korean_patch.py 테스트 결과)
+        "get_symbol_coords": 0x000eaf20,
+        "set_symbol_coords": 0x000ed39f,
+        "glyph_padding": 0x000fac80,
+        "texture_hook": 0x000fabe7,
+        "texture_cave": 0x002de94f,
+        "textout": 0x0004be06,
+        "textout_next": 0x0004be0b,
+        "textout_cave": 0x009661d3,
+        # Nuklear glyph range (RVA -> file offset, 한글 글리프 로드)
+        "nuklear_glyph_range": [
+            (0xa70fe3, 0xa703e3, "Main font setup"),
+            (0xa82fe8, 0xa823e8, "Secondary font"),
+            (0xa8405c, 0xa8345c, "Font config init"),
+            (0xa840b0, 0xa834b0, "Glyph range getter"),
+        ],
+        "korean_range_rva": 0xe8bd48,
+    },
+}
+
+# 현재 사용할 오프셋 (설치 시 버전에 따라 설정됨)
+CURRENT_OFFSETS = None
 
 def calculate_sha256(filepath: Path) -> str:
     """파일의 SHA256 해시 계산"""
@@ -43,18 +101,56 @@ def calculate_sha256(filepath: Path) -> str:
             sha256.update(chunk)
     return sha256.hexdigest()
 
-def verify_binary(filepath: Path) -> tuple[bool, str]:
-    """바이너리 해시 검증. (성공여부, 메시지) 반환"""
+def verify_binary(filepath: Path) -> Tuple[bool, str, Optional[str]]:
+    """바이너리 해시 검증. (성공여부, 메시지, 버전) 반환"""
     if not filepath.exists():
-        return False, "파일이 존재하지 않습니다"
+        return False, "파일이 존재하지 않습니다", None
 
     file_hash = calculate_sha256(filepath)
 
     if file_hash in KNOWN_HASHES:
         version = KNOWN_HASHES[file_hash]
-        return True, f"검증됨: {version}"
+        return True, f"검증됨: {version}", version
     else:
-        return False, f"알 수 없는 버전 (해시: {file_hash[:16]}...)"
+        return False, f"알 수 없는 버전 (해시: {file_hash[:16]}...)", None
+
+
+def set_offsets_for_version(version: str) -> bool:
+    """버전에 맞는 오프셋 설정. 성공 시 True 반환"""
+    global CURRENT_OFFSETS
+    if version in VERSION_OFFSETS:
+        CURRENT_OFFSETS = VERSION_OFFSETS[version]
+        return True
+    return False
+
+
+def get_patches_for_version() -> List[dict]:
+    """현재 버전에 맞는 패치 목록 반환"""
+    if CURRENT_OFFSETS is None:
+        raise RuntimeError("오프셋이 설정되지 않았습니다. set_offsets_for_version()을 먼저 호출하세요.")
+
+    return [
+        # Phase 1: 경계 체크 패치
+        {
+            'name': 'GetSymbolCoords boundary check',
+            'offset': CURRENT_OFFSETS['get_symbol_coords'],
+            'original': bytes([0x81, 0xfa, 0xff, 0x00, 0x00, 0x00]),  # cmp edx, 0xFF
+            'patched': bytes([0x81, 0xfa, 0x35, 0x0a, 0x00, 0x00]),   # cmp edx, 0x0A35 (2613)
+        },
+        {
+            'name': 'SetSymbolCoords boundary check',
+            'offset': CURRENT_OFFSETS['set_symbol_coords'],
+            'original': bytes([0x81, 0xfa, 0xff, 0x00, 0x00, 0x00]),  # cmp edx, 0xFF
+            'patched': bytes([0x81, 0xfa, 0x35, 0x0a, 0x00, 0x00]),   # cmp edx, 0x0A35 (2613)
+        },
+        # Glyph Padding: 3 -> 16 (문자 침범 문제 해결)
+        {
+            'name': 'Glyph padding 3 -> 16',
+            'offset': CURRENT_OFFSETS['glyph_padding'],
+            'original': bytes([0x48, 0xc7, 0x45, 0xbc, 0x03, 0x00, 0x00, 0x00]),
+            'patched': bytes([0x48, 0xc7, 0x45, 0xbc, 0x10, 0x00, 0x00, 0x00]),
+        },
+    ]
 
 # 필요한 파일들
 DLL_NAME = "nwn_korean_hook.dll"
@@ -66,62 +162,8 @@ LOADER_SRC = SCRIPT_DIR / LOADER_NAME
 # 패치 정의
 # ============================================================================
 
-def rva_to_file_offset(data, rva):
-    """RVA를 파일 오프셋으로 변환"""
-    pe_offset = struct.unpack('<I', data[0x3C:0x40])[0]
-    num_sections = struct.unpack('<H', data[pe_offset+6:pe_offset+8])[0]
-    opt_hdr_size = struct.unpack('<H', data[pe_offset+20:pe_offset+22])[0]
-    sec_table = pe_offset + 24 + opt_hdr_size
-    for i in range(num_sections):
-        sec_off = sec_table + i * 40
-        virt_addr = struct.unpack('<I', data[sec_off+12:sec_off+16])[0]
-        virt_size = struct.unpack('<I', data[sec_off+8:sec_off+12])[0]
-        raw_ptr = struct.unpack('<I', data[sec_off+20:sec_off+24])[0]
-        if virt_addr <= rva < virt_addr + virt_size:
-            return raw_ptr + (rva - virt_addr)
-    return None
-
-
-# 패치 목록
-PATCHES = [
-    # Phase 1: 경계 체크 패치
-    {
-        'name': 'GetSymbolCoords boundary check',
-        'rva': 0x000eaf20,
-        'original': bytes([0x81, 0xfa, 0xff, 0x00, 0x00, 0x00]),  # cmp edx, 0xFF
-        'patched': bytes([0x81, 0xfa, 0x35, 0x0a, 0x00, 0x00]),   # cmp edx, 0x0A35 (2613)
-    },
-    {
-        'name': 'SetSymbolCoords boundary check',
-        'rva': 0x000ed39f,
-        'original': bytes([0x81, 0xfa, 0xff, 0x00, 0x00, 0x00]),  # cmp edx, 0xFF
-        'patched': bytes([0x81, 0xfa, 0x35, 0x0a, 0x00, 0x00]),   # cmp edx, 0x0A35 (2613)
-    },
-    # Glyph Padding: 3 -> 16 (문자 침범 문제 해결)
-    {
-        'name': 'Glyph padding 3 -> 16',
-        'rva': 0x000fb880,
-        'original': bytes([0x48, 0xc7, 0x45, 0xbc, 0x03, 0x00, 0x00, 0x00]),
-        'patched': bytes([0x48, 0xc7, 0x45, 0xbc, 0x10, 0x00, 0x00, 0x00]),
-    },
-]
-
-# Texture 4096x4096 패치 (code cave 사용)
-TEXTURE_HOOK_RVA = 0x000fb7e7
-TEXTURE_CAVE_RVA = 0x002df54f
-
-# TextOut CP949 디코더 (code cave 사용)
-TEXTOUT_RVA = 0x0004ca06
-TEXTOUT_NEXT_RVA = 0x0004ca0b
-TEXTOUT_CAVE_RVA = 0x00966dd3
-
-# Nuklear 한글 글리프 범위 패치
-NUKLEAR_PATCHES = [
-    (0xa70fe3, 0xa703e3, "Main font setup"),
-    (0xa82fe8, 0xa823e8, "Secondary font"),
-    (0xa8405c, 0xa8345c, "Font config init"),
-    (0xa840b0, 0xa834b0, "Glyph range getter"),
-]
+# Note: 버전별 오프셋은 VERSION_OFFSETS에서 관리됨
+# Nuklear UI: 글리프 범위 패치는 구현됨 (UTF-8 디코딩은 미구현)
 
 # ============================================================================
 # 패치 생성 함수
@@ -129,16 +171,22 @@ NUKLEAR_PATCHES = [
 
 def generate_texture_patch():
     """4096x4096 텍스처 코드 생성"""
+    if CURRENT_OFFSETS is None:
+        raise RuntimeError("오프셋이 설정되지 않았습니다.")
+
+    texture_hook = CURRENT_OFFSETS['texture_hook']
+    texture_cave = CURRENT_OFFSETS['texture_cave']
+
     code = bytearray()
     code += bytes([0xbe, 0x00, 0x10, 0x00, 0x00])  # mov esi, 0x1000 (4096)
     code += bytes([0xbb, 0x00, 0x10, 0x00, 0x00])  # mov ebx, 0x1000 (4096)
     code += bytes([0x44, 0x8b, 0xeb])              # mov r13d, ebx
     code += bytes([0x44, 0x0f, 0xaf, 0xee])        # imul r13d, esi
 
-    # jmp back
-    jmp_back_rva = TEXTURE_HOOK_RVA + 7
-    jmp_from_rva = TEXTURE_CAVE_RVA + len(code) + 5
-    jmp_rel = jmp_back_rva - jmp_from_rva
+    # jmp back (오프셋 기반 상대 점프 계산)
+    jmp_back_offset = texture_hook + 7
+    jmp_from_offset = texture_cave + len(code) + 5
+    jmp_rel = jmp_back_offset - jmp_from_offset
     code += bytes([0xe9]) + struct.pack('<i', jmp_rel)
 
     return code
@@ -146,6 +194,12 @@ def generate_texture_patch():
 
 def generate_textout_patch():
     """CP949 2-byte lookahead 디코더 생성"""
+    if CURRENT_OFFSETS is None:
+        raise RuntimeError("오프셋이 설정되지 않았습니다.")
+
+    textout_cave = CURRENT_OFFSETS['textout_cave']
+    textout_next = CURRENT_OFFSETS['textout_next']
+
     code = bytearray()
 
     # 1. Original instruction: movzx ebx, byte [r12]
@@ -196,11 +250,11 @@ def generate_textout_patch():
     # 6. Increment edi to skip the trail byte
     code += bytes([0xff, 0xc7])  # inc edi
 
-    # 7. Exit
+    # 7. Exit (오프셋 기반 상대 점프 계산)
     exit_offset = len(code)
-    jmp_from_rva = TEXTOUT_CAVE_RVA + len(code) + 5
-    jmp_to_rva = TEXTOUT_NEXT_RVA
-    jmp_rel = jmp_to_rva - jmp_from_rva
+    jmp_from_offset = textout_cave + len(code) + 5
+    jmp_to_offset = textout_next
+    jmp_rel = jmp_to_offset - jmp_from_offset
     code += bytes([0xe9])
     code += struct.pack('<i', jmp_rel)
 
@@ -211,6 +265,46 @@ def generate_textout_patch():
     code[ja_exit2 + 1] = (exit_offset - (ja_exit2 + 2)) & 0xFF
 
     return code
+
+
+def apply_nuklear_glyph_range_patch(data: bytearray) -> int:
+    """Nuklear UI: 한글 글리프 범위 패치
+
+    Nuklear UI (모듈 선택, 설정 등)에서 한글 글리프를 로드하도록 패치.
+
+    Windows 바이너리에는 두 가지 glyph range가 정의되어 있음:
+    - ASCII only (0x20-0xFF): RVA 0xe8bce0
+    - Korean (0x20-0xFF, 0x3131-0x3163, 0xAC00-0xD79D): RVA 0xe8bd48
+
+    기본적으로 ASCII only range를 사용하는 4개 위치를 Korean range로 변경.
+
+    Returns: 패치 적용된 개수
+    """
+    if CURRENT_OFFSETS is None:
+        raise RuntimeError("오프셋이 설정되지 않았습니다.")
+
+    patches = CURRENT_OFFSETS['nuklear_glyph_range']
+    korean_range_rva = CURRENT_OFFSETS['korean_range_rva']
+    patched_count = 0
+
+    for rva, file_offset, desc in patches:
+        # 원본 바이트 검증 (lea reg, [rip+disp])
+        original = bytes(data[file_offset:file_offset+7])
+
+        # 처음 2바이트는 lea 명령어 prefix (0x48 0x8d)
+        if original[0:2] != bytes([0x48, 0x8d]):
+            print(f"  [!] {desc}: 예상치 못한 opcode, 건너뜀")
+            continue
+
+        # 새 displacement 계산: korean_range_rva - (rva + 7)
+        new_disp = korean_range_rva - (rva + 7)
+        new_bytes = original[0:3] + struct.pack('<i', new_disp)
+
+        data[file_offset:file_offset+7] = new_bytes
+        print(f"  [OK] {desc}")
+        patched_count += 1
+
+    return patched_count
 
 
 # ============================================================================
@@ -242,11 +336,13 @@ def install():
     BACKUP_DIR.mkdir(parents=True, exist_ok=True)
 
     # 백업 및 해시 검증
+    detected_version = None
+
     if BACKUP.exists():
         print(f"기존 백업 발견: {BACKUP.name}")
 
         # 백업 파일 해시 검증
-        is_valid, msg = verify_binary(BACKUP)
+        is_valid, msg, detected_version = verify_binary(BACKUP)
         if is_valid:
             print(f"  -> 백업 검증: {msg}")
             print("  -> 백업에서 원본 복원 후 패치를 적용합니다")
@@ -258,7 +354,7 @@ def install():
             return False
     else:
         print("원본 바이너리 검증 중...")
-        is_valid, msg = verify_binary(NWMAIN)
+        is_valid, msg, detected_version = verify_binary(NWMAIN)
 
         if is_valid:
             print(f"  [OK] {msg}")
@@ -274,6 +370,17 @@ def install():
         shutil.copy(NWMAIN, BACKUP)
         print(f"  -> {BACKUP}")
 
+    # 버전별 오프셋 설정
+    if detected_version:
+        if not set_offsets_for_version(detected_version):
+            print(f"  [!] 오류: 버전 {detected_version}에 대한 오프셋이 정의되지 않았습니다.")
+            return False
+        print(f"  -> 버전 {detected_version} 오프셋 사용")
+    else:
+        # 알 수 없는 버전 - 기본값으로 8193.35 시도
+        print("  -> 알 수 없는 버전, 8193.35 오프셋으로 시도")
+        set_offsets_for_version("8193.35")
+
     # 바이너리 읽기
     print()
     print("바이너리 패치 적용 중...")
@@ -282,8 +389,9 @@ def install():
         data = bytearray(f.read())
 
     # 기본 패치 적용
-    for patch in PATCHES:
-        file_offset = rva_to_file_offset(data, patch['rva'])
+    patches = get_patches_for_version()
+    for patch in patches:
+        file_offset = patch['offset']
         patch_len = len(patch['original'])
         current = bytes(data[file_offset:file_offset+patch_len])
 
@@ -299,44 +407,37 @@ def install():
     print()
     print("텍스처 확장 패치 적용 중...")
 
-    texture_code = generate_texture_patch()
-    cave_offset = rva_to_file_offset(data, TEXTURE_CAVE_RVA)
-    data[cave_offset:cave_offset+len(texture_code)] = texture_code
+    texture_hook = CURRENT_OFFSETS['texture_hook']
+    texture_cave = CURRENT_OFFSETS['texture_cave']
 
-    hook_offset = rva_to_file_offset(data, TEXTURE_HOOK_RVA)
-    jmp_to_cave = TEXTURE_CAVE_RVA - (TEXTURE_HOOK_RVA + 5)
+    texture_code = generate_texture_patch()
+    data[texture_cave:texture_cave+len(texture_code)] = texture_code
+
+    jmp_to_cave = texture_cave - (texture_hook + 5)
     hook_bytes = bytes([0xe9]) + struct.pack('<i', jmp_to_cave) + bytes([0x90, 0x90])
-    data[hook_offset:hook_offset+7] = hook_bytes
+    data[texture_hook:texture_hook+7] = hook_bytes
     print("  [OK] Texture 4096x4096")
 
     # TextOut CP949 디코더
     print()
     print("CP949 디코더 패치 적용 중...")
 
-    textout_code = generate_textout_patch()
-    cave_offset = rva_to_file_offset(data, TEXTOUT_CAVE_RVA)
-    data[cave_offset:cave_offset+len(textout_code)] = textout_code
+    textout_offset = CURRENT_OFFSETS['textout']
+    textout_cave = CURRENT_OFFSETS['textout_cave']
 
-    textout_offset = rva_to_file_offset(data, TEXTOUT_RVA)
-    jmp_to_cave = TEXTOUT_CAVE_RVA - (TEXTOUT_RVA + 5)
+    textout_code = generate_textout_patch()
+    data[textout_cave:textout_cave+len(textout_code)] = textout_code
+
+    jmp_to_cave = textout_cave - (textout_offset + 5)
     jmp_bytes = bytes([0xe9]) + struct.pack('<i', jmp_to_cave)
     data[textout_offset:textout_offset+5] = jmp_bytes
     print("  [OK] CP949 TextOut decoder")
 
-    # Nuklear 한글 글리프 범위 패치
+    # Nuklear UI 글리프 범위 패치
     print()
-    print("Nuklear UI 패치 적용 중...")
-
-    korean_range_rva = 0xe8bd48
-    for rva, file_offset, desc in NUKLEAR_PATCHES:
-        original = data[file_offset:file_offset+7]
-        if original[0:2] == bytes([0x48, 0x8d]):
-            new_disp = korean_range_rva - (rva + 7)
-            new_bytes = original[0:3] + struct.pack('<i', new_disp)
-            data[file_offset:file_offset+7] = new_bytes
-            print(f"  [OK] {desc}")
-        else:
-            print(f"  [!] {desc} - 예상치 못한 opcode")
+    print("Nuklear 글리프 범위 패치 적용 중...")
+    patched = apply_nuklear_glyph_range_patch(data)
+    print(f"  Total: {patched}/4 patches applied")
 
     # 저장
     with open(NWMAIN, 'wb') as f:
@@ -434,6 +535,7 @@ def check():
 
     # 해시 정보
     print("바이너리 정보:")
+    detected_version = None
     file_hash = calculate_sha256(NWMAIN)
     if file_hash in KNOWN_HASHES:
         print(f"  현재: 패치됨 또는 원본 ({KNOWN_HASHES[file_hash]})")
@@ -443,7 +545,8 @@ def check():
     if BACKUP.exists():
         backup_hash = calculate_sha256(BACKUP)
         if backup_hash in KNOWN_HASHES:
-            print(f"  백업: {KNOWN_HASHES[backup_hash]}")
+            detected_version = KNOWN_HASHES[backup_hash]
+            print(f"  백업: {detected_version}")
         else:
             print(f"  백업: 알 수 없음 (해시: {backup_hash[:16]}...)")
     else:
@@ -451,14 +554,22 @@ def check():
 
     print()
 
+    # 버전 감지 및 오프셋 설정
+    if detected_version:
+        set_offsets_for_version(detected_version)
+    else:
+        # 기본 버전 사용
+        set_offsets_for_version("8193.35")
+
     with open(NWMAIN, 'rb') as f:
         data = f.read()
 
     print("바이너리 패치:")
     all_patched = True
 
-    for patch in PATCHES:
-        file_offset = rva_to_file_offset(data, patch['rva'])
+    patches = get_patches_for_version()
+    for patch in patches:
+        file_offset = patch['offset']
         patch_len = len(patch['original'])
         current = data[file_offset:file_offset+patch_len]
 
