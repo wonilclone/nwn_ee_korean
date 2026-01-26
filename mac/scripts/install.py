@@ -20,12 +20,100 @@ from pathlib import Path
 # ============================================================================
 
 SCRIPT_DIR = Path(__file__).parent
-NWN_DIR = Path.home() / "Library/Application Support/Steam/steamapps/common/Neverwinter Nights/bin/macos/nwmain.app/Contents/MacOS"
+
+# 기본 Steam 라이브러리 경로들
+DEFAULT_STEAM_PATHS = [
+    Path.home() / "Library/Application Support/Steam/steamapps/common/Neverwinter Nights",
+    Path("/Applications/Neverwinter Nights.app/Contents/Resources"),  # 직접 설치
+]
+
+# 추가 Steam 라이브러리 경로 검색 (외장 드라이브 등)
+def get_steam_library_paths() -> list[Path]:
+    """Steam 라이브러리 폴더 목록 반환"""
+    paths = list(DEFAULT_STEAM_PATHS)
+
+    # Steam libraryfolders.vdf에서 추가 라이브러리 경로 읽기
+    vdf_path = Path.home() / "Library/Application Support/Steam/steamapps/libraryfolders.vdf"
+    if vdf_path.exists():
+        try:
+            with open(vdf_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            # 간단한 파싱: "path" 줄 찾기
+            import re
+            for match in re.finditer(r'"path"\s+"([^"]+)"', content):
+                lib_path = Path(match.group(1)) / "steamapps/common/Neverwinter Nights"
+                if lib_path not in paths:
+                    paths.append(lib_path)
+        except Exception:
+            pass
+
+    return paths
+
+NWN_DIR = None  # find_nwn_path()에서 설정됨
 NWN_DOCS = Path.home() / "Documents/Neverwinter Nights"
-NWMAIN = NWN_DIR / "nwmain"
-BACKUP = SCRIPT_DIR / "nwmain.backup"
+NWMAIN = None   # find_nwn_path()에서 설정됨
+BACKUP_DIR = SCRIPT_DIR / "backup"
+BACKUP = BACKUP_DIR / "nwmain.backup"
 DYLIB_NAME = "nwn_korean_hook.dylib"
 DYLIB_SRC = SCRIPT_DIR / DYLIB_NAME
+
+
+def find_nwn_path() -> bool:
+    """NWN:EE 설치 경로 찾기. 성공 시 True 반환"""
+    global NWN_DIR, NWMAIN
+
+    # Steam 라이브러리 경로들 확인
+    for base_path in get_steam_library_paths():
+        nwmain_path = base_path / "bin/macos/nwmain.app/Contents/MacOS/nwmain"
+        if nwmain_path.exists():
+            NWN_DIR = nwmain_path.parent
+            NWMAIN = nwmain_path
+            print(f"NWN:EE 발견: {base_path}")
+            return True
+
+    # 기본 경로에서 찾지 못함 - 사용자 입력 요청
+    print("NWN:EE를 기본 경로에서 찾을 수 없습니다.")
+    print()
+    print("Steam에서 NWN:EE 설치 경로를 확인하세요:")
+    print("  Steam → 라이브러리 → NWN:EE 우클릭 → 관리 → 로컬 파일 보기")
+    print()
+
+    while True:
+        user_input = input("NWN:EE 설치 경로를 입력하세요 (취소: q): ").strip()
+
+        if user_input.lower() == 'q':
+            return False
+
+        # 따옴표 제거
+        user_input = user_input.strip('"').strip("'")
+
+        user_path = Path(user_input)
+
+        # 다양한 경로 형식 지원
+        # 1. "Neverwinter Nights" 폴더
+        nwmain_path = user_path / "bin/macos/nwmain.app/Contents/MacOS/nwmain"
+        if nwmain_path.exists():
+            NWN_DIR = nwmain_path.parent
+            NWMAIN = nwmain_path
+            return True
+
+        # 2. nwmain.app 폴더
+        nwmain_path = user_path / "Contents/MacOS/nwmain"
+        if nwmain_path.exists():
+            NWN_DIR = nwmain_path.parent
+            NWMAIN = nwmain_path
+            return True
+
+        # 3. MacOS 폴더 직접 지정
+        nwmain_path = user_path / "nwmain"
+        if nwmain_path.exists():
+            NWN_DIR = user_path
+            NWMAIN = nwmain_path
+            return True
+
+        print(f"  [!] 해당 경로에서 nwmain을 찾을 수 없습니다.")
+        print(f"      확인한 경로: {user_path}")
+        print()
 
 # 지원 바이너리 해시 (SHA256)
 # Steam Build ID: 20277208, Version: 8193.x (r1284)
@@ -379,11 +467,13 @@ def install():
     print("=" * 50)
     print()
 
-    # 검증
-    if not NWMAIN.exists():
-        print(f"오류: NWN:EE를 찾을 수 없습니다")
-        print(f"      경로: {NWMAIN}")
+    # NWN:EE 경로 찾기
+    if not find_nwn_path():
+        print("설치를 취소합니다.")
         return False
+
+    # 백업 디렉토리 생성
+    BACKUP_DIR.mkdir(parents=True, exist_ok=True)
 
     if not DYLIB_SRC.exists():
         print(f"오류: dylib 파일이 없습니다: {DYLIB_SRC}")
@@ -603,6 +693,11 @@ def uninstall():
     print("=" * 50)
     print()
 
+    # NWN:EE 경로 찾기
+    if not find_nwn_path():
+        print("제거를 취소합니다.")
+        return False
+
     if BACKUP.exists():
         print("백업에서 복원 중...")
         shutil.copy(BACKUP, NWMAIN)
@@ -633,8 +728,8 @@ def check():
     print("=" * 50)
     print()
 
-    if not NWMAIN.exists():
-        print("오류: NWN:EE를 찾을 수 없습니다")
+    # NWN:EE 경로 찾기
+    if not find_nwn_path():
         return
 
     # 버전 확인

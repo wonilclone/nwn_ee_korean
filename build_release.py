@@ -29,10 +29,23 @@ import sys
 import zipfile
 from pathlib import Path
 
+try:
+    import tomllib
+except ImportError:
+    import tomli as tomllib  # Python < 3.11
+
 PROJECT_ROOT = Path(__file__).parent
 TRANSLATE_DIR = PROJECT_ROOT / "translate"
 RELEASE_DIR = PROJECT_ROOT / "release"
 FONTS_DIR = PROJECT_ROOT / "fonts"
+
+
+def get_version() -> str:
+    """pyproject.toml에서 버전 읽기"""
+    pyproject = PROJECT_ROOT / "pyproject.toml"
+    with open(pyproject, "rb") as f:
+        data = tomllib.load(f)
+    return data["project"]["version"]
 
 # NWN:EE 폰트 파일명
 NWN_FONT_FILES = [
@@ -295,15 +308,20 @@ def build_windows(tlk_path: Path):
     shutil.copy2(tlk_path, tlk_dst)
     print(f"  [OK] override/{tlk_dst.name} ({tlk_dst.stat().st_size / 1024 / 1024:.1f} MB)")
 
-    # 3. install.exe 빌드 (PyInstaller)
+    # 3. install.exe 빌드 (PyInstaller) + install.py 복사
     print("\n[3/5] 설치 프로그램 빌드...")
     install_py_src = scripts_dir / "install.py"
     install_exe_dst = win_release_dst / "install.exe"
+    install_py_dst = win_release_dst / "install.py"
 
     if not install_py_src.exists():
         print(f"  [!] install.py를 찾을 수 없습니다: {install_py_src}")
     else:
-        # PyInstaller 실행
+        # install.py 복사 (Python 사용자용)
+        shutil.copy2(install_py_src, install_py_dst)
+        print(f"  [OK] {install_py_dst.name}")
+
+        # PyInstaller 실행 (exe 사용자용)
         result = subprocess.run(
             [
                 sys.executable, "-m", "PyInstaller",
@@ -374,6 +392,7 @@ RELEASE_FILES = {
     ],
     'windows': [
         'install.exe',
+        'install.py',
         'nwn_korean_hook.dll',
         'nwn_korean_loader.exe',
         'README.md',
@@ -472,7 +491,7 @@ def main():
     python3 build_release.py                # 전체 빌드
     python3 build_release.py --mac          # macOS만 빌드
     python3 build_release.py --debug        # 검수 모드
-    python3 build_release.py --zip v0.1.0   # 빌드 후 zip 생성
+    python3 build_release.py --zip          # 빌드 후 zip 생성 (pyproject.toml 버전 사용)
         """
     )
     parser.add_argument('--mac', action='store_true',
@@ -483,8 +502,8 @@ def main():
                         help='검수 모드 TLK 생성 (텍스트 앞에 [StrRef] 추가)')
     parser.add_argument('--skip-tlk', action='store_true',
                         help='TLK 빌드 건너뛰기')
-    parser.add_argument('--zip', nargs='?', const='', metavar='VERSION',
-                        help='릴리스 zip 파일 생성 (예: --zip v0.1.0)')
+    parser.add_argument('--zip', action='store_true',
+                        help='릴리스 zip 파일 생성 (pyproject.toml 버전 사용)')
 
     args = parser.parse_args()
 
@@ -519,13 +538,14 @@ def main():
 
     # zip 생성
     zip_files = []
-    if args.zip is not None:
+    if args.zip:
         print()
         print("=" * 50)
         print("릴리스 압축")
         print("=" * 50)
 
-        version = args.zip if args.zip else None
+        version = f"v{get_version()}"
+        print(f"버전: {version}")
         platforms = []
         if build_all:
             platforms = ['mac', 'windows']

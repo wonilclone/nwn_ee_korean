@@ -40,7 +40,7 @@ python3 build_release.py --mac       # macOS만 빌드
 python3 build_release.py --windows   # Windows만 빌드
 python3 build_release.py --debug     # 검수 모드 (StrRef 표시)
 python3 build_release.py --skip-tlk  # TLK 빌드 건너뛰기
-python3 build_release.py --zip v1.0  # 빌드 후 zip 압축
+python3 build_release.py --zip       # 빌드 후 zip 압축 (버전은 pyproject.toml)
 ```
 
 ## 프로젝트 구조

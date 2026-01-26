@@ -26,11 +26,71 @@ if getattr(sys, 'frozen', False):
 else:
     # 일반 Python 스크립트
     SCRIPT_DIR = Path(__file__).parent
-NWN_DIR = Path(r"C:\Program Files (x86)\Steam\steamapps\common\Neverwinter Nights\bin\win32")
+
+# 기본 Steam 경로들
+DEFAULT_STEAM_PATHS = [
+    Path(r"C:\Program Files (x86)\Steam\steamapps\common\Neverwinter Nights"),
+    Path(r"D:\Steam\steamapps\common\Neverwinter Nights"),
+    Path(r"D:\SteamLibrary\steamapps\common\Neverwinter Nights"),
+    Path(r"E:\Steam\steamapps\common\Neverwinter Nights"),
+    Path(r"E:\SteamLibrary\steamapps\common\Neverwinter Nights"),
+]
+
+NWN_DIR = None  # find_nwn_path()에서 설정됨
 NWN_DOCS = Path.home() / "Documents" / "Neverwinter Nights"
-NWMAIN = NWN_DIR / "nwmain.exe"
+NWMAIN = None   # find_nwn_path()에서 설정됨
 BACKUP_DIR = SCRIPT_DIR / "backup"
 BACKUP = BACKUP_DIR / "nwmain.exe.original"
+
+
+def find_nwn_path() -> bool:
+    """NWN:EE 설치 경로 찾기. 성공 시 True 반환"""
+    global NWN_DIR, NWMAIN
+
+    # 기본 경로들 확인
+    for base_path in DEFAULT_STEAM_PATHS:
+        nwmain_path = base_path / "bin" / "win32" / "nwmain.exe"
+        if nwmain_path.exists():
+            NWN_DIR = base_path / "bin" / "win32"
+            NWMAIN = nwmain_path
+            print(f"NWN:EE 발견: {base_path}")
+            return True
+
+    # 기본 경로에서 찾지 못함 - 사용자 입력 요청
+    print("NWN:EE를 기본 경로에서 찾을 수 없습니다.")
+    print()
+    print("Steam 라이브러리에서 NWN:EE 설치 경로를 확인하세요:")
+    print("  Steam → 라이브러리 → NWN:EE 우클릭 → 관리 → 로컬 파일 보기")
+    print()
+
+    while True:
+        user_input = input("NWN:EE 설치 경로를 입력하세요 (취소: q): ").strip()
+
+        if user_input.lower() == 'q':
+            return False
+
+        # 따옴표 제거
+        user_input = user_input.strip('"').strip("'")
+
+        user_path = Path(user_input)
+
+        # bin/win32/nwmain.exe가 있는지 확인
+        nwmain_path = user_path / "bin" / "win32" / "nwmain.exe"
+        if nwmain_path.exists():
+            NWN_DIR = user_path / "bin" / "win32"
+            NWMAIN = nwmain_path
+            return True
+
+        # 사용자가 bin/win32까지 입력한 경우
+        nwmain_path = user_path / "nwmain.exe"
+        if nwmain_path.exists():
+            NWN_DIR = user_path
+            NWMAIN = nwmain_path
+            return True
+
+        print(f"  [!] 해당 경로에서 nwmain.exe를 찾을 수 없습니다.")
+        print(f"      확인한 경로: {user_path}")
+        print()
 
 # ============================================================================
 # 원본 바이너리 해시 및 버전별 오프셋
@@ -318,10 +378,9 @@ def install():
     print("=" * 50)
     print()
 
-    # 파일 검증
-    if not NWMAIN.exists():
-        print(f"오류: NWN:EE를 찾을 수 없습니다")
-        print(f"      경로: {NWMAIN}")
+    # NWN:EE 경로 찾기
+    if not find_nwn_path():
+        print("설치를 취소합니다.")
         return False
 
     if not DLL_SRC.exists():
@@ -496,6 +555,11 @@ def uninstall():
     print("=" * 50)
     print()
 
+    # NWN:EE 경로 찾기
+    if not find_nwn_path():
+        print("제거를 취소합니다.")
+        return False
+
     if BACKUP.exists():
         print("백업에서 복원 중...")
         shutil.copy(BACKUP, NWMAIN)
@@ -529,8 +593,8 @@ def check():
     print("=" * 50)
     print()
 
-    if not NWMAIN.exists():
-        print("오류: NWN:EE를 찾을 수 없습니다")
+    # NWN:EE 경로 찾기
+    if not find_nwn_path():
         return
 
     # 해시 정보
