@@ -88,8 +88,12 @@ def find_nwn_path() -> bool:
             NWMAIN = nwmain_path
             return True
 
+        # 실제 확인한 경로 출력 (디버깅용)
+        check_path1 = user_path / "bin" / "win32" / "nwmain.exe"
+        check_path2 = user_path / "nwmain.exe"
         print(f"  [!] 해당 경로에서 nwmain.exe를 찾을 수 없습니다.")
-        print(f"      확인한 경로: {user_path}")
+        print(f"      확인한 경로 1: {check_path1}")
+        print(f"      확인한 경로 2: {check_path2}")
         print()
 
 # ============================================================================
