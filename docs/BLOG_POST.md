@@ -98,7 +98,13 @@ install.exe --uninstall
 
 ### "NWN:EE를 찾을 수 없습니다" 오류
 
-Steam 기본 경로에 설치되지 않은 경우 발생합니다. 수동 설치가 필요하며, 자세한 내용은 zip 파일 내 README를 참조하세요.
+Steam 기본 경로에 설치되지 않은 경우 발생합니다. v0.1.1부터는 설치 스크립트가 자동으로 경로 입력을 요청합니다.
+
+**경로 확인 방법**: Steam 라이브러리 → NWN:EE 우클릭 → 관리 → 로컬 파일 보기
+
+**입력 예시**:
+- Windows: `D:\SteamLibrary\steamapps\common\Neverwinter Nights`
+- macOS: `/Volumes/외장드라이브/SteamLibrary/steamapps/common/Neverwinter Nights`
 
 ### 게임이 실행되지 않거나 크래시
 
@@ -115,6 +121,10 @@ python3 install.py --check
 # Windows
 install.exe --check
 ```
+
+## 업데이트 (v0.1.1)
+
+Steam 라이브러리를 기본 경로(C 드라이브 또는 내장 디스크)가 아닌 다른 위치에 설치한 경우 패치가 게임을 찾지 못하는 문제를 수정했습니다. 이제 설치 스크립트가 여러 드라이브를 자동으로 탐색하고, 찾지 못할 경우 경로를 직접 입력할 수 있습니다.
 
 ## 소스 코드
 
