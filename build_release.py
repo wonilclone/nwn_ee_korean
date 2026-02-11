@@ -180,80 +180,68 @@ def build_windows_hook(hook_dir: Path) -> bool:
         print("      Windows에서 build.bat을 실행하거나 미리 빌드된 파일을 복사하세요.")
         return False
 
-    # Visual Studio 또는 MinGW로 빌드 시도
-    # Visual Studio (cl) 확인
-    cl_check = subprocess.run(["where", "cl"], capture_output=True)
-    has_vs = cl_check.returncode == 0
+    # MinGW GCC로 빌드 (GCC 전용 문법 사용으로 MSVC 미지원)
+    # gcc를 찾는다: PATH에서 먼저, 없으면 MSYS2 기본 경로
+    gcc_cmd = None
+    msys2_bash = None
 
-    # MinGW (gcc) 확인
-    gcc_check = subprocess.run(["where", "gcc"], capture_output=True)
-    has_gcc = gcc_check.returncode == 0
+    gcc_check = subprocess.run(["where", "gcc"], capture_output=True, text=True)
+    if gcc_check.returncode == 0:
+        gcc_cmd = gcc_check.stdout.strip().splitlines()[0]
+    elif Path("C:/msys64/mingw64/bin/gcc.exe").exists():
+        gcc_cmd = "C:/msys64/mingw64/bin/gcc.exe"
 
-    if has_vs:
-        print("  Visual Studio 컴파일러 사용")
+    if Path("C:/msys64/usr/bin/bash.exe").exists():
+        msys2_bash = "C:/msys64/usr/bin/bash.exe"
 
-        # DLL 빌드
-        dll_result = subprocess.run(
-            ["cl", "/LD", "/O2", "/W3", "/nologo",
-             "nwn_korean_hook.c", "/Fe:nwn_korean_hook.dll",
-             "/link", "/DEF:nwn_korean_hook.def"],
-            cwd=hook_dir,
-            capture_output=True,
-            text=True
+    if gcc_cmd is None:
+        print("  [!] MinGW GCC를 찾을 수 없습니다.")
+        print("      MSYS2 설치 후 mingw-w64-x86_64-gcc를 설치하세요.")
+        print("      (소스에 GCC 전용 문법이 포함되어 있어 MSVC로는 빌드할 수 없습니다)")
+        return False
+
+    print(f"  GCC: {gcc_cmd}")
+
+    def run_gcc(args: list[str], cwd: Path) -> subprocess.CompletedProcess:
+        """gcc 실행. 직접 호출 실패 시 MSYS2 bash를 통해 재시도."""
+        result = subprocess.run(
+            [gcc_cmd] + args, cwd=cwd, capture_output=True, text=True
         )
+        # MSYS2 gcc가 Python subprocess에서 런타임 충돌로 실패할 수 있음
+        # stderr가 비어있고 실패한 경우 MSYS2 bash를 통해 재시도
+        if result.returncode != 0 and not result.stderr.strip() and msys2_bash:
+            cmd_str = " ".join([gcc_cmd.replace("\\", "/")] + args)
+            cwd_str = str(cwd).replace("\\", "/")
+            result = subprocess.run(
+                [msys2_bash, "-lc", f"cd '{cwd_str}' && {cmd_str}"],
+                capture_output=True, text=True
+            )
+        return result
 
-        if dll_result.returncode != 0:
-            print(f"  [!] DLL 빌드 실패")
+    # DLL 빌드
+    dll_result = run_gcc(
+        ["-shared", "-O2", "-Wall",
+         "-o", "nwn_korean_hook.dll", "nwn_korean_hook.c", "-lpsapi"],
+        cwd=hook_dir
+    )
+
+    if dll_result.returncode != 0:
+        print(f"  [!] DLL 빌드 실패")
+        if dll_result.stderr.strip():
             print(dll_result.stderr)
-            return False
+        return False
 
-        # 로더 빌드
-        loader_result = subprocess.run(
-            ["cl", "/O2", "/W3", "/nologo",
-             "nwn_korean_loader.c", "/Fe:nwn_korean_loader.exe"],
-            cwd=hook_dir,
-            capture_output=True,
-            text=True
-        )
+    # 로더 빌드
+    loader_result = run_gcc(
+        ["-O2", "-Wall",
+         "-o", "nwn_korean_loader.exe", "nwn_korean_loader.c"],
+        cwd=hook_dir
+    )
 
-        if loader_result.returncode != 0:
-            print(f"  [!] 로더 빌드 실패")
+    if loader_result.returncode != 0:
+        print(f"  [!] 로더 빌드 실패")
+        if loader_result.stderr.strip():
             print(loader_result.stderr)
-            return False
-
-    elif has_gcc:
-        print("  MinGW GCC 사용")
-
-        # DLL 빌드
-        dll_result = subprocess.run(
-            ["gcc", "-shared", "-O2", "-Wall",
-             "-o", "nwn_korean_hook.dll", "nwn_korean_hook.c", "-lpsapi"],
-            cwd=hook_dir,
-            capture_output=True,
-            text=True
-        )
-
-        if dll_result.returncode != 0:
-            print(f"  [!] DLL 빌드 실패")
-            print(dll_result.stderr)
-            return False
-
-        # 로더 빌드
-        loader_result = subprocess.run(
-            ["gcc", "-O2", "-Wall",
-             "-o", "nwn_korean_loader.exe", "nwn_korean_loader.c"],
-            cwd=hook_dir,
-            capture_output=True,
-            text=True
-        )
-
-        if loader_result.returncode != 0:
-            print(f"  [!] 로더 빌드 실패")
-            print(loader_result.stderr)
-            return False
-    else:
-        print("  [!] Visual Studio 또는 MinGW를 찾을 수 없습니다.")
-        print("      Developer Command Prompt 또는 MinGW 환경에서 실행하세요.")
         return False
 
     return True
@@ -470,7 +458,7 @@ def print_summary(zip_files: list[Path] | None = None):
                         total_size += size
                         print(f"    {item.name:33s} {size / 1024 / 1024:6.2f} MB")
 
-            print(f"  {'─' * 43}")
+            print(f"  {'-' * 43}")
             print(f"  {'총합':35s} {total_size / 1024 / 1024:6.2f} MB")
 
     if zip_files:
@@ -511,9 +499,9 @@ def main():
     build_all = not args.mac and not args.windows
 
     print()
-    print("╔════════════════════════════════════════════════╗")
-    print("║      NWN:EE 한글 패치 릴리스 빌드              ║")
-    print("╚════════════════════════════════════════════════╝")
+    print("=" * 50)
+    print("  NWN:EE 한글 패치 릴리스 빌드")
+    print("=" * 50)
 
     # TLK 빌드
     if args.skip_tlk:

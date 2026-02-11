@@ -21,20 +21,24 @@ windows/
 
 ## 빌드 요구사항
 
-### Visual Studio (권장)
+### MinGW-w64 (필수)
+
+소스에 GCC 전용 문법(`__attribute__((naked))`, `__asm__ volatile`)이 포함되어 있어 **MSVC로는 빌드할 수 없습니다**. MinGW-w64 GCC가 필요합니다.
+
+#### MSYS2 설치
 
 ```batch
-:: Visual Studio Developer Command Prompt에서 실행
-cd windows\hook
+:: 1. MSYS2 설치
+winget install MSYS2.MSYS2
 
-:: DLL 빌드
-cl /LD /O2 nwn_korean_hook.c /Fe:nwn_korean_hook.dll /link psapi.lib
+:: 2. MSYS2 터미널에서 GCC 설치
+pacman -S mingw-w64-x86_64-gcc
 
-:: 로더 빌드
-cl /O2 nwn_korean_loader.c /Fe:nwn_korean_loader.exe
+:: 3. PATH에 추가 (시스템 환경변수 또는 터미널에서)
+set PATH=C:\msys64\mingw64\bin;%PATH%
 ```
 
-### MinGW-w64
+#### 수동 빌드
 
 ```batch
 cd windows\hook
@@ -46,14 +50,12 @@ gcc -shared -O2 -o nwn_korean_hook.dll nwn_korean_hook.c -lpsapi
 gcc -O2 -o nwn_korean_loader.exe nwn_korean_loader.c
 ```
 
-### 자동 빌드 (build.bat)
+#### 자동 빌드 (build.bat)
 
 ```batch
 cd windows\hook
 build.bat
 ```
-
-`build.bat`은 Visual Studio와 MinGW 중 사용 가능한 컴파일러를 자동 감지합니다.
 
 ## 패치 단계
 
@@ -197,7 +199,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Neverwinter Nights\bin\win32\nwn_k
 
 - 대상: nwmain.exe (PE32+ x86-64)
 - 버전: 8193.35+ (Steam Build)
-- 테스트 해시 (SHA256): `4e1bd743944027ddca7b11b96fa856b1f51e3b7ad0f2747ddfc53b35312be8df`
+- 테스트 해시 (SHA256): `3b7cb1252e0edb2ce22d7971f333aade027039ae30a45b4bc64732c3e6bec73a`
 
 ## 알려진 제한사항
 

@@ -37,8 +37,26 @@ DEFAULT_STEAM_PATHS = [
 ]
 
 NWN_DIR = None  # find_nwn_path()에서 설정됨
-NWN_DOCS = Path.home() / "Documents" / "Neverwinter Nights"
 NWMAIN = None   # find_nwn_path()에서 설정됨
+
+
+def _get_documents_path() -> Path:
+    """Windows 실제 '문서' 폴더 경로 반환 (OneDrive 리다이렉트 대응)"""
+    try:
+        import subprocess
+        result = subprocess.run(
+            ["powershell", "-NoProfile", "-c",
+             '[Environment]::GetFolderPath("MyDocuments")'],
+            capture_output=True, text=True, timeout=5
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            return Path(result.stdout.strip())
+    except Exception:
+        pass
+    return Path.home() / "Documents"
+
+
+NWN_DOCS = _get_documents_path() / "Neverwinter Nights"
 BACKUP_DIR = SCRIPT_DIR / "backup"
 BACKUP = BACKUP_DIR / "nwmain.exe.original"
 
@@ -102,47 +120,30 @@ def find_nwn_path() -> bool:
 
 # SHA256 해시 - 테스트된 nwmain.exe 버전들
 KNOWN_HASHES = {
-    # Steam Build 8193.35 (2024)
-    "4e1bd743944027ddca7b11b96fa856b1f51e3b7ad0f2747ddfc53b35312be8df": "8193.35",
-    # Steam Build 8193.36-40 (2025)
+    # Steam Build 8193.36+ (2025)
     "3b7cb1252e0edb2ce22d7971f333aade027039ae30a45b4bc64732c3e6bec73a": "8193.36+",
 }
 
 # 버전별 오프셋 테이블 (모든 값은 파일 오프셋)
 # Note: RVA가 아닌 파일 오프셋 사용 (RVA - 0xC00 = file offset for .text section)
 VERSION_OFFSETS = {
-    "8193.35": {
+    "8193.36+": {
         # Phase 1: 경계 체크
         "get_symbol_coords": 0x000eaf20,
         "set_symbol_coords": 0x000ed39f,
-        # Glyph padding (RVA 0xfb880 -> file offset)
-        "glyph_padding": 0x000fac80,
-        # Texture 4096x4096 (RVA 0xfb7e7, 0x2df54f -> file offset)
-        "texture_hook": 0x000fabe7,
-        "texture_cave": 0x002de94f,
-        # TextOut CP949 decoder (RVA 0x4ca06, 0x966dd3 -> file offset)
-        "textout": 0x0004be06,
-        "textout_next": 0x0004be0b,
-        "textout_cave": 0x009661d3,
-        # Nuklear glyph range (RVA -> file offset, 한글 글리프 로드)
-        "nuklear_glyph_range": [
-            (0xa70fe3, 0xa703e3, "Main font setup"),
-            (0xa82fe8, 0xa823e8, "Secondary font"),
-            (0xa8405c, 0xa8345c, "Font config init"),
-            (0xa840b0, 0xa834b0, "Glyph range getter"),
-        ],
-        "korean_range_rva": 0xe8bd48,
-    },
-    "8193.36+": {
-        # 8193.35와 동일한 파일 오프셋 (apply_korean_patch.py 테스트 결과)
-        "get_symbol_coords": 0x000eaf20,
-        "set_symbol_coords": 0x000ed39f,
         "glyph_padding": 0x000fac80,
         "texture_hook": 0x000fabe7,
         "texture_cave": 0x002de94f,
         "textout": 0x0004be06,
-        "textout_next": 0x0004be0b,
-        "textout_cave": 0x009661d3,
+        "textout_next": 0x0004be0b,       # -> mov edx, ebx (single byte path)
+        "textout_next_korean": 0x0004be0d, # -> lea r9, ... (skip mov edx,ebx for Korean)
+        "textout_cave": 0x01373210,  # .rodata 섹션 끝 여유 공간 (496 bytes)
+        # 섹션별 file_offset → RVA 변환값 (상대 점프 계산용)
+        "text_fo2rva": 0xC00,            # .text: RVA = file_offset + 0xC00
+        "textout_cave_fo2rva": 0x2FB800, # .rodata: RVA = file_offset + 0x2FB800
+        # .rodata PE 섹션 헤더 (code cave 실행 권한)
+        "rodata_vsize_offset": 0x300,
+        "rodata_chars_offset": 0x31C,
         # Nuklear glyph range (RVA -> file offset, 한글 글리프 로드)
         "nuklear_glyph_range": [
             (0xa70fe3, 0xa703e3, "Main font setup"),
@@ -257,12 +258,34 @@ def generate_texture_patch():
 
 
 def generate_textout_patch():
-    """CP949 2-byte lookahead 디코더 생성"""
+    """CP949 2-byte lookahead 디코더 생성
+
+    원본 코드 흐름:
+        0x4CA06: movzx ebx, byte [r12]   ; hook point
+        0x4CA0B: mov   edx, ebx          ; textout_next (edx = glyph for GetSymbolCoords)
+        0x4CA0D: lea   r9, [rbp-0x71]    ; textout_next_korean (skip mov edx,ebx)
+        ...
+        0x4CA19: call  GetSymbolCoords
+        0x4CA1E: cmp   bl, 0x3c          ; '<' 색상코드 체크
+
+    버그 수정 (v2): 한글 글리프 인덱스(256+)의 하위 8비트가 0x3C('<')와
+    일치하면 색상코드 파서로 잘못 진입하여 크래시 발생.
+    한글 경로에서는 edx에 직접 글리프를 넣고 ebx=0으로 설정하여
+    cmp bl, 0x3c를 안전하게 통과시킴.
+    """
     if CURRENT_OFFSETS is None:
         raise RuntimeError("오프셋이 설정되지 않았습니다.")
 
     textout_cave = CURRENT_OFFSETS['textout_cave']
     textout_next = CURRENT_OFFSETS['textout_next']
+    textout_next_korean = CURRENT_OFFSETS['textout_next_korean']
+
+    # 섹션 간 상대 점프를 위한 RVA 변환 (.text ↔ .rodata)
+    text_fo2rva = CURRENT_OFFSETS['text_fo2rva']
+    cave_fo2rva = CURRENT_OFFSETS['textout_cave_fo2rva']
+    cave_rva = textout_cave + cave_fo2rva
+    textout_next_rva = textout_next + text_fo2rva
+    textout_next_korean_rva = textout_next_korean + text_fo2rva
 
     code = bytearray()
 
@@ -308,21 +331,31 @@ def generate_textout_patch():
     # ebx = (lead - 0xB0) * 94 + (trail - 0xA1)
     code += bytes([0x01, 0xcb])  # add ebx, ecx
 
-    # ebx = 256 + result
+    # ebx = 256 + result (glyph index)
     code += bytes([0x81, 0xc3, 0x00, 0x01, 0x00, 0x00])  # add ebx, 256
 
-    # 6. Increment edi to skip the trail byte
+    # 6. Korean path: set edx = glyph, ebx = 0 (safe for cmp bl, 0x3c)
+    code += bytes([0x8b, 0xd3])  # mov edx, ebx (edx = glyph index)
+    code += bytes([0x31, 0xdb])  # xor ebx, ebx (ebx = 0, bl != 0x3c)
+
+    # 7. Increment edi to skip the trail byte
     code += bytes([0xff, 0xc7])  # inc edi
 
-    # 7. Exit (오프셋 기반 상대 점프 계산)
-    exit_offset = len(code)
-    jmp_from_offset = textout_cave + len(code) + 5
-    jmp_to_offset = textout_next
-    jmp_rel = jmp_to_offset - jmp_from_offset
+    # 8. Korean exit: jump past 'mov edx, ebx' to lea r9, ... (RVA 기반)
+    korean_exit_offset = len(code)
+    jmp_from_rva = cave_rva + len(code) + 5
+    jmp_rel = textout_next_korean_rva - jmp_from_rva
     code += bytes([0xe9])
     code += struct.pack('<i', jmp_rel)
 
-    # Patch jump offsets
+    # 9. Single-byte exit: jump to 'mov edx, ebx' (original flow, RVA 기반)
+    exit_offset = len(code)
+    jmp_from_rva = cave_rva + len(code) + 5
+    jmp_rel = textout_next_rva - jmp_from_rva
+    code += bytes([0xe9])
+    code += struct.pack('<i', jmp_rel)
+
+    # Patch conditional jump offsets (all jump to single-byte exit)
     code[jb_exit + 1] = (exit_offset - (jb_exit + 2)) & 0xFF
     code[ja_exit + 1] = (exit_offset - (ja_exit + 2)) & 0xFF
     code[jb_exit2 + 1] = (exit_offset - (jb_exit2 + 2)) & 0xFF
@@ -375,11 +408,20 @@ def apply_nuklear_glyph_range_patch(data: bytearray) -> int:
 # 설치/제거
 # ============================================================================
 
-def install():
-    """한글 패치 설치"""
+def install(skip_patches=None):
+    """한글 패치 설치
+
+    Args:
+        skip_patches: 건너뛸 패치 목록 (예: ['textout', 'nuklear', 'texture', 'padding', 'boundary'])
+    """
+    if skip_patches is None:
+        skip_patches = []
+
     print("=" * 50)
     print("NWN:EE Windows 한글 패치 설치")
     print("=" * 50)
+    if skip_patches:
+        print(f"  [진단 모드] 비활성화: {', '.join(skip_patches)}")
     print()
 
     # NWN:EE 경로 찾기
@@ -440,9 +482,9 @@ def install():
             return False
         print(f"  -> 버전 {detected_version} 오프셋 사용")
     else:
-        # 알 수 없는 버전 - 기본값으로 8193.35 시도
-        print("  -> 알 수 없는 버전, 8193.35 오프셋으로 시도")
-        set_offsets_for_version("8193.35")
+        # 알 수 없는 버전 - 기본값으로 8193.36+ 시도
+        print("  -> 알 수 없는 버전, 8193.36+ 오프셋으로 시도")
+        set_offsets_for_version("8193.36+")
 
     # 바이너리 읽기
     print()
@@ -454,6 +496,15 @@ def install():
     # 기본 패치 적용
     patches = get_patches_for_version()
     for patch in patches:
+        # boundary skip: 경계 패치 건너뛰기
+        if 'boundary' in skip_patches and 'boundary' in patch['name'].lower():
+            print(f"  [SKIP] {patch['name']} (진단: boundary 비활성화)")
+            continue
+        # padding skip
+        if 'padding' in skip_patches and 'padding' in patch['name'].lower():
+            print(f"  [SKIP] {patch['name']} (진단: padding 비활성화)")
+            continue
+
         file_offset = patch['offset']
         patch_len = len(patch['original'])
         current = bytes(data[file_offset:file_offset+patch_len])
@@ -467,40 +518,76 @@ def install():
             print(f"  [!] {patch['name']} - 예상치 못한 값: {current.hex()}")
 
     # Texture 4096x4096 패치
-    print()
-    print("텍스처 확장 패치 적용 중...")
+    if 'texture' in skip_patches:
+        print()
+        print("  [SKIP] Texture 4096x4096 (진단: texture 비활성화)")
+    else:
+        print()
+        print("텍스처 확장 패치 적용 중...")
 
-    texture_hook = CURRENT_OFFSETS['texture_hook']
-    texture_cave = CURRENT_OFFSETS['texture_cave']
+        texture_hook = CURRENT_OFFSETS['texture_hook']
+        texture_cave = CURRENT_OFFSETS['texture_cave']
 
-    texture_code = generate_texture_patch()
-    data[texture_cave:texture_cave+len(texture_code)] = texture_code
+        texture_code = generate_texture_patch()
+        data[texture_cave:texture_cave+len(texture_code)] = texture_code
 
-    jmp_to_cave = texture_cave - (texture_hook + 5)
-    hook_bytes = bytes([0xe9]) + struct.pack('<i', jmp_to_cave) + bytes([0x90, 0x90])
-    data[texture_hook:texture_hook+7] = hook_bytes
-    print("  [OK] Texture 4096x4096")
+        jmp_to_cave = texture_cave - (texture_hook + 5)
+        hook_bytes = bytes([0xe9]) + struct.pack('<i', jmp_to_cave) + bytes([0x90, 0x90])
+        data[texture_hook:texture_hook+7] = hook_bytes
+        print("  [OK] Texture 4096x4096")
 
     # TextOut CP949 디코더
-    print()
-    print("CP949 디코더 패치 적용 중...")
+    if 'textout' in skip_patches:
+        print()
+        print("  [SKIP] CP949 TextOut decoder (진단: textout 비활성화)")
+    else:
+        print()
+        print("CP949 디코더 패치 적용 중...")
 
-    textout_offset = CURRENT_OFFSETS['textout']
-    textout_cave = CURRENT_OFFSETS['textout_cave']
+        textout_offset = CURRENT_OFFSETS['textout']
+        textout_cave = CURRENT_OFFSETS['textout_cave']
+        text_fo2rva = CURRENT_OFFSETS['text_fo2rva']
+        cave_fo2rva = CURRENT_OFFSETS['textout_cave_fo2rva']
 
-    textout_code = generate_textout_patch()
-    data[textout_cave:textout_cave+len(textout_code)] = textout_code
+        # .rodata 섹션 헤더 패치: 실행 권한 추가 (code cave 실행용)
+        rodata_vsize_off = CURRENT_OFFSETS['rodata_vsize_offset']
+        rodata_chars_off = CURRENT_OFFSETS['rodata_chars_offset']
 
-    jmp_to_cave = textout_cave - (textout_offset + 5)
-    jmp_bytes = bytes([0xe9]) + struct.pack('<i', jmp_to_cave)
-    data[textout_offset:textout_offset+5] = jmp_bytes
-    print("  [OK] CP949 TextOut decoder")
+        vsize_val = struct.unpack('<I', data[rodata_vsize_off:rodata_vsize_off+4])[0]
+        if vsize_val == 0x00000A10:
+            data[rodata_vsize_off:rodata_vsize_off+4] = struct.pack('<I', 0x00000C00)
+        elif vsize_val != 0x00000C00:
+            print(f"  [!] .rodata VirtualSize 예상치 못한 값: 0x{vsize_val:08X}")
+
+        chars_val = struct.unpack('<I', data[rodata_chars_off:rodata_chars_off+4])[0]
+        if chars_val == 0x40000040:
+            data[rodata_chars_off:rodata_chars_off+4] = struct.pack('<I', 0x60000060)
+        elif chars_val != 0x60000060:
+            print(f"  [!] .rodata Characteristics 예상치 못한 값: 0x{chars_val:08X}")
+
+        print("  [OK] .rodata 섹션 헤더 (실행 권한 추가)")
+
+        # Code cave 작성 (파일 오프셋)
+        textout_code = generate_textout_patch()
+        data[textout_cave:textout_cave+len(textout_code)] = textout_code
+
+        # Hook: jmp to cave (RVA 기반 상대 점프, .text → .rodata 섹션 간 이동)
+        textout_rva = textout_offset + text_fo2rva
+        cave_rva = textout_cave + cave_fo2rva
+        jmp_to_cave = cave_rva - (textout_rva + 5)
+        jmp_bytes = bytes([0xe9]) + struct.pack('<i', jmp_to_cave)
+        data[textout_offset:textout_offset+5] = jmp_bytes
+        print("  [OK] CP949 TextOut decoder")
 
     # Nuklear UI 글리프 범위 패치
-    print()
-    print("Nuklear 글리프 범위 패치 적용 중...")
-    patched = apply_nuklear_glyph_range_patch(data)
-    print(f"  Total: {patched}/4 patches applied")
+    if 'nuklear' in skip_patches:
+        print()
+        print("  [SKIP] Nuklear glyph range (진단: nuklear 비활성화)")
+    else:
+        print()
+        print("Nuklear 글리프 범위 패치 적용 중...")
+        patched = apply_nuklear_glyph_range_patch(data)
+        print(f"  Total: {patched}/4 patches applied")
 
     # 저장
     with open(NWMAIN, 'wb') as f:
@@ -627,7 +714,7 @@ def check():
         set_offsets_for_version(detected_version)
     else:
         # 기본 버전 사용
-        set_offsets_for_version("8193.35")
+        set_offsets_for_version("8193.36+")
 
     with open(NWMAIN, 'rb') as f:
         data = f.read()
@@ -672,18 +759,41 @@ def check():
 # ============================================================================
 
 def main():
-    if len(sys.argv) > 1:
-        if sys.argv[1] == "--uninstall":
-            uninstall()
-        elif sys.argv[1] == "--check":
-            check()
-        elif sys.argv[1] in ["-h", "--help"]:
-            print(__doc__)
+    args = sys.argv[1:]
+
+    if "--uninstall" in args:
+        uninstall()
+        return
+    if "--check" in args:
+        check()
+        return
+    if "-h" in args or "--help" in args:
+        print(__doc__)
+        print()
+        print("진단 옵션:")
+        print("  --skip textout    CP949 TextOut 디코더 비활성화")
+        print("  --skip nuklear    Nuklear 글리프 범위 패치 비활성화")
+        print("  --skip texture    텍스처 4096 패치 비활성화")
+        print("  --skip padding    글리프 패딩 패치 비활성화")
+        print("  --skip boundary   경계 체크 패치 비활성화")
+        print()
+        print("예: python install.py --skip textout --skip nuklear")
+        return
+
+    # --skip 옵션 파싱
+    skip_patches = []
+    i = 0
+    while i < len(args):
+        if args[i] == "--skip" and i + 1 < len(args):
+            skip_patches.append(args[i + 1])
+            i += 2
         else:
-            print(f"알 수 없는 옵션: {sys.argv[1]}")
-            print("사용법: python install.py [--uninstall|--check]")
-    else:
-        install()
+            print(f"알 수 없는 옵션: {args[i]}")
+            print("사용법: python install.py [--uninstall|--check|--skip <patch>]")
+            return
+            i += 1
+
+    install(skip_patches=skip_patches)
 
 
 if __name__ == "__main__":

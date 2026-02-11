@@ -17,6 +17,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include <string.h>
+#include <malloc.h>
 
 #include "cp949_utils.h"
 
@@ -93,8 +94,6 @@ typedef void (*GetSymbolCoords_fn)(
 
 static HMODULE nwmain_base = NULL;
 static AurGetTTFTexture_fn original_bake = NULL;
-static AurGetTTFTexture_fn original_bake_2 = NULL;
-static AurGetTTFTexture_fn original_bake_3 = NULL;
 static uint32_t* korean_chars = NULL;
 static volatile int bake_hook_active = 0;
 static int log_count = 0;
@@ -730,47 +729,6 @@ void my_AurGetTTFTexture(
               ttf_path ? ttf_path : "NULL", pixel_height, chars_array, count);
     write_log("[Bake] p5=%.1f p6=%.1f p7=%.6f out_data=%p\n", p5, p6, p7, out_data);
 
-    // out_data 구조체 덤프 (처음 64바이트)
-    if (out_data) {
-        unsigned char* data_bytes = (unsigned char*)out_data;
-        write_log("[Bake] out_data dump (first 64 bytes):\n");
-        for (int i = 0; i < 64; i += 16) {
-            write_log("[Bake]   +%02x: %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x\n",
-                i,
-                data_bytes[i+0], data_bytes[i+1], data_bytes[i+2], data_bytes[i+3],
-                data_bytes[i+4], data_bytes[i+5], data_bytes[i+6], data_bytes[i+7],
-                data_bytes[i+8], data_bytes[i+9], data_bytes[i+10], data_bytes[i+11],
-                data_bytes[i+12], data_bytes[i+13], data_bytes[i+14], data_bytes[i+15]);
-        }
-
-        // 처음 몇 개 int/float로도 해석
-        int* data_ints = (int*)out_data;
-        float* data_floats = (float*)out_data;
-        write_log("[Bake] out_data as ints: [0]=%d [1]=%d [2]=%d [3]=%d [4]=%d [5]=%d\n",
-            data_ints[0], data_ints[1], data_ints[2], data_ints[3], data_ints[4], data_ints[5]);
-        write_log("[Bake] out_data as floats: [0]=%.2f [1]=%.2f [2]=%.2f [3]=%.2f\n",
-            data_floats[0], data_floats[1], data_floats[2], data_floats[3]);
-    }
-
-    // 확장 모드 활성화!
-    static int test_mode = 0;  // 1=pass-through, 0=expand
-    static int call_count = 0;
-    call_count++;
-
-    if (test_mode) {
-        // Pass-through 모드: 원본 그대로 호출
-        write_log("[Bake #%d] TEST MODE: Pass-through (count=%d)\n", call_count, count);
-        write_log("[Bake #%d] Calling original_bake at %p\n", call_count, original_bake);
-
-        // 원본 함수 호출
-        write_log("[Bake #%d] Calling with correct signature\n", call_count);
-
-        original_bake(ttf_path, pixel_height, chars_array, count, p5, p6, p7, out_data);
-
-        write_log("[Bake #%d] TEST MODE: Original function called (void return)\n", call_count);
-        return;
-    }
-
     // 256자 베이크 요청 감지 및 확장
     if (count == 256 && chars_array != NULL) {
         write_log("[Bake] MATCH! Expanding 256 -> %d chars\n", TOTAL_GLYPH_COUNT);
@@ -778,35 +736,13 @@ void my_AurGetTTFTexture(
         init_korean_chars((uint32_t*)chars_array);
 
         if (korean_chars) {
-            // 배열 데이터 검증
             write_log("[Bake] Verify: chars[0]=U+%04X chars[255]=U+%04X chars[256]=U+%04X chars[2605]=U+%04X\n",
                       korean_chars[0], korean_chars[255], korean_chars[256], korean_chars[2605]);
 
-            // 참고: glyph padding은 바이너리 패치로 3->16으로 변경됨 (apply_korean_patch.py)
-            // p5 파라미터는 건드리지 않음
-
-            // count를 2606으로 변경하여 호출
+            // 2606자로 직접 베이크 (원본 bake 함수가 내부에서 배열 할당 처리)
+            write_log("[Bake] Baking with %d chars (Korean expanded)...\n", TOTAL_GLYPH_COUNT);
             original_bake(ttf_path, pixel_height, korean_chars, TOTAL_GLYPH_COUNT, p5, p6, p7, out_data);
-            write_log("[Bake] Expanded bake done (void return)\n");
-
-            // 호출 후 out_data 다시 덤프
-            if (out_data) {
-                int* data_ints = (int*)out_data;
-                write_log("[Bake] AFTER bake - out_data as ints: [0]=%d [1]=%d [2]=%d [3]=%d [4]=%d [5]=%d\n",
-                    data_ints[0], data_ints[1], data_ints[2], data_ints[3], data_ints[4], data_ints[5]);
-
-                unsigned char* data_bytes = (unsigned char*)out_data;
-                write_log("[Bake] AFTER bake - first 32 bytes:\n");
-                for (int i = 0; i < 32; i += 16) {
-                    write_log("[Bake]   +%02x: %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x\n",
-                        i,
-                        data_bytes[i+0], data_bytes[i+1], data_bytes[i+2], data_bytes[i+3],
-                        data_bytes[i+4], data_bytes[i+5], data_bytes[i+6], data_bytes[i+7],
-                        data_bytes[i+8], data_bytes[i+9], data_bytes[i+10], data_bytes[i+11],
-                        data_bytes[i+12], data_bytes[i+13], data_bytes[i+14], data_bytes[i+15]);
-                }
-            }
-
+            write_log("[Bake] Done\n");
             return;
         }
     }
