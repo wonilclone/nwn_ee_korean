@@ -8,20 +8,18 @@ Neverwinter Nights: Enhanced Edition 한글화 프로젝트입니다.
 |--------|------|
 | macOS (Apple Silicon) | ✅ 지원 |
 | macOS (Intel) | ❌ 미지원 |
-| Windows (64-bit) | ⚠️ 부분 지원 |
+| Windows (64-bit) | ✅ 지원 |
 
 ### 플랫폼별 지원 범위
 
 | 기능 | macOS | Windows |
 |------|-------|---------|
 | 인게임 UI (대화, 저널 등) | ✅ | ✅ |
-| 레거시 UI 버튼 텍스트 정렬 | ✅ | ⚠️ 치우침 |
+| 레거시 UI 버튼 텍스트 정렬 | ✅ | ✅ |
 | Nuklear UI (옵션, 모듈 선택) | ✅ | ❌ |
 
 **Windows 제한 사항**:
 - Nuklear UI에서 한글이 Latin-1로 깨져서 표시됨 (옵션 화면, 모듈 선택 화면)
-- 레거시 UI 버튼에서 한글 글리프가 2바이트 너비로 계산되어 텍스트가 좌측으로 치우침
-- 후킹 포인트 차이로 인해 macOS와 다른 접근 방식 필요
 
 ## 빠른 시작
 
@@ -48,10 +46,11 @@ python3 build_release.py --zip       # 빌드 후 zip 압축 (버전은 pyprojec
 ```
 ├── build_release.py         # 릴리스 빌드 스크립트
 ├── fonts/                   # 폰트 소스 (별도 다운로드)
+├── docs/                    # 기술 문서
 ├── mac/                     # macOS 구현
 │   ├── hook/                # dylib 소스
 │   ├── scripts/             # 설치 스크립트
-│   └── docs/                # 기술 문서
+│   └── docs/                # macOS 기술 문서
 ├── windows/                 # Windows 구현
 │   ├── hook/                # DLL/로더 소스
 │   └── scripts/             # 설치 스크립트

@@ -96,56 +96,16 @@ Code Cave 사용:
 ### Phase 4: Nuklear UI 지원 - 미구현
 
 > **현재 상태: 미구현** - EE UI(모듈 선택, 설정 화면 등)의 한글은 아직 지원되지 않습니다.
+> 상세 분석: [docs/NUKLEAR_ANALYSIS.md](../docs/NUKLEAR_ANALYSIS.md) 참조
 
-#### 문제 상황
+### Phase 5: CalcWidth CP949 디코더 (바이너리 패치)
 
-TLK 로더가 CP949를 Latin-1으로 해석하여 깨진 텍스트가 표시됩니다:
+`CalculateVisibleStringLengthAndWidth` 함수 내에서 CP949 2바이트를 글리프 인덱스로 변환합니다.
+TextOut과 동일한 CP949 디코딩 로직이지만, 텍스트 **폭 계산** 시점에 적용되어 한글 텍스트의 정렬 및 레이아웃을 보정합니다.
 
-```
-CP949: B0 A1 ("가") → Latin-1: ° ¡ → UTF-8: C2 B0 C2 A1
-```
-
-#### 시도한 접근법 및 실패 원인
-
-**1. DLL 트램폴린 후킹 (실패)**
-
-`nk_draw_text` 함수(RVA `0xa70d90`) 후킹 시도:
-
-```asm
-; 프롤로그 (19바이트)
-mov rax, rsp           ; ← 문제의 원인
-push rbp
-push r12~r15
-lea rbp, [rax-208h]    ; rax 기반 스택 프레임
-```
-
-**실패 원인**: `mov rax, rsp`는 함수 **직접 호출** 시점의 rsp를 기대함.
-트램폴린에서 호출하면 rsp가 달라져서 `lea rbp, [rax-208h]` 계산이 틀어짐.
-
-```
-[NK Handler #1] text=00007FF7C98D6590 len=484  ← 첫 호출만 성공
-[NK Handler #3] text=0000000000000000 len=-922015669  ← 이후 전부 손상
-```
-
-**2. nk_draw_list_add_text 후킹 (복잡)**
-
-RVA `0xa824b0` - 프롤로그는 트램폴린 가능하나, 파라미터가 XMM 레지스터와 스택에 혼합 전달되어 C 함수로 캡처 불가.
-
-#### 검토 중인 대안
-
-| 접근법 | 장점 | 단점 |
-|--------|------|------|
-| MinHook/Detours 라이브러리 | 복잡한 프롤로그 처리 가능 | 외부 의존성 |
-| font->query 함수 포인터 교체 | DLL에서 구현 가능 | font 생성 시점 후킹 필요 |
-| UTF-8 디코딩 루프 바이너리 패치 | 근본적 해결 | 대규모 코드 케이브 필요 |
-
-#### 관련 함수 RVA
-
-| 함수 | RVA | 설명 |
-|------|-----|------|
-| nk_draw_text | `0xa70d90` | 상위 레벨 텍스트 렌더링 |
-| nk_draw_list_add_text | `0xa824b0` | 하위 레벨 글리프 렌더링 |
-| UTF-8 디코딩 루프 | `0xa70500` | codepoint 추출 |
+- Hook point: RVA `0x0004e263` (movzx eax, byte → jmp)
+- Cave location: .rodata 빈 영역 (TextOut cave 직후)
+- 효과: 한글 텍스트 중앙정렬 수정, 인접 글리프 침범 해소
 
 ### 텍스처 확장 (바이너리 패치)
 
@@ -204,13 +164,9 @@ C:\Program Files (x86)\Steam\steamapps\common\Neverwinter Nights\bin\win32\nwn_k
 ## 알려진 제한사항
 
 1. **Nuklear UI 미지원**: EE UI(모듈 선택, 설정 화면)의 한글이 깨져 표시됨
-   - 원인: `mov rax, rsp` 프롤로그 패턴으로 트램폴린 후킹 불가
+   - 원인: MSVC 인라이닝으로 인한 후킹 불가
+   - 상세 분석: [docs/NUKLEAR_ANALYSIS.md](../docs/NUKLEAR_ANALYSIS.md)
    - 게임 내 대화창, 인벤토리 등은 정상 작동
-
-2. **한글 글리프 위치 치우침**: 한글이 왼쪽으로 치우쳐 표시됨
-   - Width 계산 패치 시도 시 대화 화면 진입 시 크래시 발생
-   - GetSymbolCoords의 advance 값이 정규화된 값(0.1~0.9)이라 단순 조정 불가
-   - 글리프 겹침 문제는 glyph padding 16 패치로 해결됨
 
 ## 트러블슈팅
 
