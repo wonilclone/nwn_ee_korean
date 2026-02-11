@@ -2,7 +2,7 @@
  * NWN:EE Windows x64 한글 패치 DLL
  *
  * Phase 2: AurGetTTFTexture 후킹으로 한글 글리프 베이크 (2,606개)
- * Phase 3: GetSymbolCoords 후킹으로 한글 글리프 advance width 조정
+ * Phase 4: Nuklear UI 한글 지원 (미완성 - 비활성화)
  *
  * 빌드 (Visual Studio):
  *   cl /LD /O2 nwn_korean_hook.c /Fe:nwn_korean_hook.dll
@@ -470,13 +470,11 @@ int nk_draw_text_handler(
 __attribute__((naked))
 static void my_nk_draw_text_naked(void) {
     __asm__ volatile (
-        // 중요: 이 함수는 원본 nk_draw_list_add_text를 대체함
-        // 원본 파라미터들을 그대로 유지하면서 로깅 후 trampoline 호출
-        //
-        // Windows x64에서 rcx, rdx, r8, r9는 volatile!
-        // 함수 호출 후 값이 보존되지 않으므로 반드시 저장해야 함
+        // nk_draw_list_add_text를 대체하는 naked 래퍼
+        // 핸들러가 텍스트 변환 후 원본을 직접 호출했으면 return,
+        // 변환 불필요하면 원본 trampoline으로 점프
 
-        // 모든 파라미터 레지스터 저장
+        // 파라미터 레지스터 저장 (volatile 보존)
         "push %%rcx\n"
         "push %%rdx\n"
         "push %%r8\n"
@@ -484,30 +482,39 @@ static void my_nk_draw_text_naked(void) {
         "push %%rax\n"
         "push %%r10\n"
         "push %%r11\n"
-        "sub $0x28, %%rsp\n"        // shadow space (0x20) + 정렬 (0x8)
+        "sub $0x30, %%rsp\n"        // shadow(0x20) + params(0x10) + 16-byte 정렬
 
-        // 스택 오프셋: 7 pushes (0x38) + sub 0x28 = 0x60
-        // 원래 [rsp+0x28] (5th param) -> 현재 [rsp + 0x88]
+        // 스택 정렬 검증:
+        //   Entry: RSP ≡ 8 (mod 16) (caller의 call이 return address push)
+        //   7 pushes (-0x38): RSP ≡ 0 (mod 16)
+        //   sub $0x30 (-0x30): RSP ≡ 0 (mod 16)
+        //   call handler (-8): RSP ≡ 8 (mod 16) ✓ (x64 ABI 준수)
+        //
+        // 스택 오프셋: 7 pushes (0x38) + sub 0x30 = 0x68
+        // 원래 [rsp+0x28] (5th param) -> 현재 [rsp + 0x90]
 
-        // 핸들러 호출을 위한 파라미터 설정
-        // rcx = 원래 rcx (저장된 위치에서 로드)
-        "mov 0x58(%%rsp), %%rcx\n"  // 원래 rcx
-        "mov 0x50(%%rsp), %%rdx\n"  // 원래 rdx
-        "mov 0x48(%%rsp), %%r8\n"   // 원래 r8
-        "mov 0x40(%%rsp), %%r9\n"   // 원래 r9
+        // 핸들러 파라미터 설정
+        "mov 0x60(%%rsp), %%rcx\n"  // 원래 rcx (list)
+        "mov 0x58(%%rsp), %%rdx\n"  // 원래 rdx (font)
+        "mov 0x50(%%rsp), %%r8\n"   // 원래 r8  (&rect)
+        "mov 0x48(%%rsp), %%r9\n"   // 원래 r9  (text)
 
-        // 스택 파라미터 전달 (p5, p6, p7)
-        "mov 0x88(%%rsp), %%rax\n"  // 원래 [rsp+0x28] = 5th param
+        // 스택 파라미터 전달 (p5=len, p6=font_height, p7=fg)
+        "mov 0x90(%%rsp), %%rax\n"
         "mov %%rax, 0x20(%%rsp)\n"
-        "mov 0x90(%%rsp), %%rax\n"  // 원래 [rsp+0x30] = 6th param
+        "mov 0x98(%%rsp), %%rax\n"
         "mov %%rax, 0x28(%%rsp)\n"
-        "mov 0x98(%%rsp), %%rax\n"  // 원래 [rsp+0x38] = 7th param
+        "mov 0xA0(%%rsp), %%rax\n"
         "mov %%rax, 0x30(%%rsp)\n"
 
         "call nk_draw_text_handler\n"
 
-        // 레지스터 복원
-        "add $0x28, %%rsp\n"
+        // 핸들러 반환값 확인: 0=원본 호출 필요, 1=이미 처리됨
+        "test %%eax, %%eax\n"
+        "jnz 1f\n"
+
+        // 변환 없음 - 레지스터 복원 후 trampoline으로 점프
+        "add $0x30, %%rsp\n"
         "pop %%r11\n"
         "pop %%r10\n"
         "pop %%rax\n"
@@ -515,10 +522,19 @@ static void my_nk_draw_text_naked(void) {
         "pop %%r8\n"
         "pop %%rdx\n"
         "pop %%rcx\n"
-
-        // 이제 원본 스택 및 레지스터 상태 완전 복원됨
-        // trampoline으로 점프 (원본 함수 실행)
         "jmp *%0\n"
+
+        "1:\n"
+        // 이미 처리됨 - 레지스터 복원 후 호출자에게 반환
+        "add $0x30, %%rsp\n"
+        "pop %%r11\n"
+        "pop %%r10\n"
+        "pop %%rax\n"
+        "pop %%r9\n"
+        "pop %%r8\n"
+        "pop %%rdx\n"
+        "pop %%rcx\n"
+        "ret\n"
         :
         : "m"(original_nk_draw_text)
         :
@@ -546,97 +562,68 @@ static void my_nk_draw_text_naked(void) {
  */
 
 // nk_draw_text_handler - naked 래퍼에서 호출되는 C 핸들러
-// nk_draw_list_add_text 파라미터 분석용 디버그 모드
 //
-// nk_draw_list_add_text 시그니처 (Nuklear 소스):
-//   void nk_draw_list_add_text(
-//       struct nk_draw_list *list,      // rcx
-//       const struct nk_user_font *font, // rdx
-//       struct nk_rect rect,             // ?? (16바이트 구조체)
-//       const char *text,                // ??
-//       int len,                         // ??
-//       float font_height,               // ??
-//       struct nk_color fg               // ?? (4바이트)
-//   );
+// nk_draw_text 파라미터 추정 (MSVC x64):
+//   rcx = nk_command_buffer*
+//   rdx = hidden ptr to nk_rect (16바이트 struct)
+//   r8  = const char* string
+//   r9d = int length
+//   [rsp+28h] = nk_user_font*
+//   [rsp+30h] = nk_color bg (4바이트)
+//   [rsp+38h] = nk_color fg (4바이트)
 //
-// 파라미터 위치 분석 필요 - 레지스터와 스택 덤프
+// 반환: 0=원본 호출 필요, 1=이미 처리됨 (변환 후 원본 직접 호출)
 int nk_draw_text_handler(
-    uint64_t p1,    // rcx - list
-    uint64_t p2,    // rdx - font
-    uint64_t p3,    // r8
-    uint64_t p4,    // r9
-    uint64_t p5,    // [rsp+28h]
-    uint64_t p6,    // [rsp+30h]
-    uint64_t p7     // [rsp+38h]
+    uint64_t p1,    // rcx - buffer
+    uint64_t p2,    // rdx - &rect
+    uint64_t p3,    // r8  - string
+    uint64_t p4,    // r9  - length
+    uint64_t p5,    // [rsp+28h] - font
+    uint64_t p6,    // [rsp+30h] - bg
+    uint64_t p7     // [rsp+38h] - fg
 ) {
-    InterlockedIncrement(&nk_total_calls);
+    long count = InterlockedIncrement(&nk_total_calls);
 
-    // 디버깅 로그 (처음 몇 번만) - 모든 파라미터 덤프
-    if (nk_debug_log_count < MAX_NK_DEBUG_LOG) {
-        write_log("[NK #%d] rcx=%p rdx=%p r8=%p r9=%p\n",
-                  nk_debug_log_count, (void*)p1, (void*)p2, (void*)p3, (void*)p4);
-        write_log("[NK #%d] stk: p5=%p p6=%p p7=%p\n",
-                  nk_debug_log_count, (void*)p5, (void*)p6, (void*)p7);
+    // 파라미터 덤프 (처음 50번)
+    if (count <= 50) {
+        write_log("[NK #%ld] buf=%p rect=%p str=%p len=%lld font=%p bg=%08x fg=%08x\n",
+                  count, (void*)p1, (void*)p2, (void*)p3, (long long)p4,
+                  (void*)p5, (unsigned int)p6, (unsigned int)p7);
 
-        // p3 (r8)이 포인터인지 확인
-        if (p3 > 0x10000 && !IsBadReadPtr((void*)p3, 64)) {
-            unsigned char* ptr = (unsigned char*)p3;
-            write_log("[NK #%d] r8 as ptr: %02x %02x %02x %02x %02x %02x %02x %02x\n",
-                      nk_debug_log_count, ptr[0], ptr[1], ptr[2], ptr[3],
-                      ptr[4], ptr[5], ptr[6], ptr[7]);
-            // 문자열인지 확인
-            int is_string = 1;
-            for (int i = 0; i < 8; i++) {
-                if (ptr[i] != 0 && (ptr[i] < 0x20 || ptr[i] > 0x7E) && ptr[i] < 0x80) {
-                    // 제어 문자 (비ASCII 제외) - 문자열 아닐 수 있음
+        // r8 (p3)을 텍스트 포인터로 시도 읽기
+        const char* text = (const char*)p3;
+        int len = (int)p4;
+
+        if (text && len > 0 && len < 4096) {
+            // 안전하게 프로빙: IsBadReadPtr로 메모리 접근 가능한지 확인
+            if (!IsBadReadPtr(text, (UINT_PTR)len)) {
+                // 처음 64바이트만 덤프
+                int dump_len = len < 64 ? len : 64;
+                char hex_buf[200];
+                char ascii_buf[68];
+                int hex_pos = 0;
+                for (int i = 0; i < dump_len && hex_pos < 190; i++) {
+                    hex_pos += sprintf(hex_buf + hex_pos, "%02x ", (unsigned char)text[i]);
+                    ascii_buf[i] = (text[i] >= 0x20 && text[i] < 0x7f) ? text[i] : '.';
                 }
+                ascii_buf[dump_len] = '\0';
+                write_log("[NK #%ld] text hex: %s\n", count, hex_buf);
+                write_log("[NK #%ld] text ascii: '%s'\n", count, ascii_buf);
+            } else {
+                write_log("[NK #%ld] text ptr %p not readable (len=%d)\n", count, text, len);
             }
         }
 
-        // p4 (r9)이 포인터인지 확인
-        if (p4 > 0x10000 && !IsBadReadPtr((void*)p4, 64)) {
-            unsigned char* ptr = (unsigned char*)p4;
-            write_log("[NK #%d] r9 as ptr: %02x %02x %02x %02x %02x %02x %02x %02x\n",
-                      nk_debug_log_count, ptr[0], ptr[1], ptr[2], ptr[3],
-                      ptr[4], ptr[5], ptr[6], ptr[7]);
+        // p2 (rdx)를 rect로 시도 읽기 - 4 floats
+        const float* rect = (const float*)p2;
+        if (rect && !IsBadReadPtr(rect, 16)) {
+            write_log("[NK #%ld] rect: x=%.1f y=%.1f w=%.1f h=%.1f\n",
+                      count, rect[0], rect[1], rect[2], rect[3]);
         }
-
-        // p5가 포인터인지 확인 (스택 파라미터 - text일 가능성)
-        if (p5 > 0x10000 && !IsBadReadPtr((void*)p5, 64)) {
-            unsigned char* ptr = (unsigned char*)p5;
-            write_log("[NK #%d] p5 as ptr: %02x %02x %02x %02x %02x %02x %02x %02x\n",
-                      nk_debug_log_count, ptr[0], ptr[1], ptr[2], ptr[3],
-                      ptr[4], ptr[5], ptr[6], ptr[7]);
-            // 문자열 출력 시도 (ASCII 범위만)
-            char preview[32];
-            int j = 0;
-            for (int i = 0; i < 30 && ptr[i] != 0; i++) {
-                if (ptr[i] >= 0x20 && ptr[i] < 0x7F) {
-                    preview[j++] = ptr[i];
-                } else {
-                    preview[j++] = '.';
-                }
-            }
-            preview[j] = 0;
-            if (j > 0) {
-                write_log("[NK #%d] p5 str: \"%s\"\n", nk_debug_log_count, preview);
-            }
-        }
-
-        // p6이 len일 가능성 (작은 정수)
-        if (p6 > 0 && p6 < 10000) {
-            write_log("[NK #%d] p6 as int: %d\n", nk_debug_log_count, (int)p6);
-        }
-
-        nk_debug_log_count++;
     }
 
-    // 원본 함수는 naked 래퍼에서 jmp로 호출됨
-    // 여기서는 로깅만 담당
-    return 1;
+    return 0;  // 항상 passthrough
 }
-
-// 원본 함수 호출은 naked 래퍼(my_nk_draw_text_naked)에서 처리
 
 // ============================================================================
 // nwmain 베이스 주소 찾기
@@ -950,84 +937,87 @@ static DWORD WINAPI bake_hook_thread(LPVOID param) {
 }
 
 // ============================================================================
-// Phase 4: Nuklear 한글 지원 - nk_draw_list_add_text 후킹
+// Phase 4: Nuklear 한글 지원 - nk_draw_text 후킹
 // ============================================================================
 //
-// nk_draw_text는 "mov rax, rsp" 프롤로그 때문에 trampoline 불가.
-// 대신 nk_draw_list_add_text를 후킹 (단순한 프롤로그).
+// nk_draw_text 후보 함수 (RVA 0x952A10)
+// MSVC 인라이닝으로 독립 함수가 아닐 수 있으나, 핵심 증거:
+//   - mov edx, 0x10 (NK_COMMAND_TEXT) + call nk_command_buffer_push
+//   - test rcx, rcx (NULL 체크)
+//   - mov rax, rsp 프롤로그
 //
-// nk_draw_list_add_text 프롤로그:
-//   48 89 5c 24 18     mov [rsp+18h], rbx
-//   48 89 74 24 20     mov [rsp+20h], rsi
-//   41 54              push r12
-//   41 56              push r14
-//   41 57              push r15
-//   48 83 ec 20        sub rsp, 20h
+// 프롤로그 (18바이트, 명령어 경계 정확):
+//   +00: 48 8b c4              mov rax, rsp          (3)
+//   +03: 55                    push rbp               (1)
+//   +04: 57                    push rdi               (1)
+//   +05: 41 54                 push r12               (2)
+//   +07: 41 56                 push r14               (2)
+//   +09: 41 57                 push r15               (2)
+//   +0B: 48 8d a8 b8 fd ff ff  lea rbp, [rax-248h]    (7) = 18바이트 총합
 //
-// 이 프롤로그는 "mov rax, rsp" 패턴이 없어 trampoline 호환됨!
+// trampoline 안전성:
+//   naked wrapper에서 모든 레지스터 복원 후 jmp *trampoline.
+//   이 시점에서 rsp = 원래 함수 진입점과 동일 (caller의 call이 push한 ret addr).
+//   따라서 mov rax, rsp가 올바른 값을 캡처함.
 //
-// Nuklear 소스 시그니처:
-//   void nk_draw_list_add_text(
-//       struct nk_draw_list *list,      -> rcx
-//       const struct nk_user_font *font -> rdx
-//       struct nk_rect rect,            -> xmm2/xmm3 또는 스택 (16바이트)
-//       const char *text,               -> r9 또는 스택
-//       int len,                        -> 스택 [rsp+28h]
-//       float font_height,              -> xmm4 또는 스택
-//       struct nk_color fg              -> 스택 (4바이트)
-//   );
-//
-// 실제 파라미터 분석 필요 - 첫 호출에서 로그 덤프
+// MSVC x64 파라미터 (nk_draw_text 시그니처 가정):
+//   rcx = nk_command_buffer*
+//   rdx = hidden ptr to nk_rect (16바이트 struct → 포인터 전달)
+//   r8  = const char* string
+//   r9d = int length
+//   [rsp+28h] = nk_user_font*
+//   [rsp+30h] = nk_color bg (4바이트)
+//   [rsp+38h] = nk_color fg (4바이트)
 
 static volatile int nk_hook_active = 0;
 
 // 원본 함수 백업
-static uint8_t nk_original_bytes[20];  // 프롤로그 20바이트
+static uint8_t nk_original_bytes[18];  // 프롤로그 18바이트
 
-// RVA: 0xa824b0
-#define NK_DRAW_LIST_ADD_TEXT_RVA  0xa824b0
+// RVA: 0x952A10
+#define NK_DRAW_TEXT_RVA  0x952A10
 
-// 예상 프롤로그 (검증용) - 20바이트
+// 예상 프롤로그 (검증용) - 18바이트
 static const uint8_t NK_EXPECTED_PROLOGUE[] = {
-    0x48, 0x89, 0x5c, 0x24, 0x18,  // mov [rsp+18h], rbx  (5)
-    0x48, 0x89, 0x74, 0x24, 0x20,  // mov [rsp+20h], rsi  (5)
-    0x41, 0x54,                    // push r12            (2)
-    0x41, 0x56,                    // push r14            (2)
-    0x41, 0x57,                    // push r15            (2)
-    0x48, 0x83, 0xec, 0x20         // sub rsp, 20h        (4) = 20바이트 총합
+    0x48, 0x8b, 0xc4,              // mov rax, rsp        (3)
+    0x55,                          // push rbp             (1)
+    0x57,                          // push rdi             (1)
+    0x41, 0x54,                    // push r12             (2)
+    0x41, 0x56,                    // push r14             (2)
+    0x41, 0x57,                    // push r15             (2)
+    0x48, 0x8d, 0xa8, 0xb8, 0xfd, 0xff, 0xff  // lea rbp,[rax-248h] (7) = 18바이트
 };
 
 /**
- * nk_draw_list_add_text 함수 위치 확인
+ * nk_draw_text 후보 함수 위치 확인
  *
  * 바이너리 분석 결과:
- * - RVA: 0xa824b0
- * - 단순한 프롤로그 (mov rax, rsp 없음) - trampoline 호환!
+ * - RVA: 0x952A10
+ * - mov rax, rsp 프롤로그 (18바이트)
+ * - NK_COMMAND_TEXT(0x10) + nk_command_buffer_push 호출 확인
  */
-static void* find_nk_draw_list_add_text_function(void) {
-    void* addr = (void*)((uintptr_t)nwmain_base + NK_DRAW_LIST_ADD_TEXT_RVA);
+static void* find_nk_draw_text_function(void) {
+    void* addr = (void*)((uintptr_t)nwmain_base + NK_DRAW_TEXT_RVA);
     uint8_t* bytes = (uint8_t*)addr;
 
-    write_log("[Phase 4] Checking nk_draw_list_add_text at RVA 0x%x\n", NK_DRAW_LIST_ADD_TEXT_RVA);
-    write_log("[Phase 4] Prologue: %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x\n",
+    write_log("[Phase 4] Checking nk_draw_text at RVA 0x%x\n", NK_DRAW_TEXT_RVA);
+    write_log("[Phase 4] Prologue: %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x %02x\n",
               bytes[0], bytes[1], bytes[2], bytes[3], bytes[4], bytes[5],
               bytes[6], bytes[7], bytes[8], bytes[9], bytes[10], bytes[11],
-              bytes[12], bytes[13], bytes[14], bytes[15], bytes[16], bytes[17],
-              bytes[18], bytes[19]);
+              bytes[12], bytes[13], bytes[14], bytes[15], bytes[16], bytes[17]);
 
-    // 프롤로그 검증
+    // 프롤로그 검증 (18바이트)
     if (memcmp(bytes, NK_EXPECTED_PROLOGUE, sizeof(NK_EXPECTED_PROLOGUE)) == 0) {
         write_log("[Phase 4] Prologue verified - function found!\n");
         return addr;
     }
 
     write_log("[Phase 4] WARNING: Prologue mismatch - binary version may differ\n");
-    write_log("[Phase 4] Expected: 48 89 5c 24 18 48 89 74 24 20 41 54 41 56 41 57 48 83 ec 20\n");
+    write_log("[Phase 4] Expected: 48 8b c4 55 57 41 54 41 56 41 57 48 8d a8 b8 fd ff ff\n");
 
-    // 첫 5바이트 (mov [rsp+18h], rbx)가 일치하면 시도
-    if (bytes[0] == 0x48 && bytes[1] == 0x89 && bytes[2] == 0x5c &&
-        bytes[3] == 0x24 && bytes[4] == 0x18) {
-        write_log("[Phase 4] Partial match - proceeding with caution\n");
+    // 첫 3바이트 (mov rax, rsp)가 일치하면 시도
+    if (bytes[0] == 0x48 && bytes[1] == 0x8b && bytes[2] == 0xc4) {
+        write_log("[Phase 4] Partial match (mov rax, rsp) - proceeding with caution\n");
         return addr;
     }
 
@@ -1035,40 +1025,40 @@ static void* find_nk_draw_list_add_text_function(void) {
 }
 
 /**
- * Nuklear nk_draw_list_add_text 함수 인라인 후킹
+ * Nuklear nk_draw_text 후보 함수 인라인 후킹
  *
- * nk_draw_text는 "mov rax, rsp" 프롤로그 때문에 trampoline 불가.
- * nk_draw_list_add_text는 단순한 프롤로그를 가지므로 trampoline 호환!
+ * 프롤로그 (18바이트):
+ *   +00: 48 8b c4              mov rax, rsp          (3)
+ *   +03: 55                    push rbp               (1)
+ *   +04: 57                    push rdi               (1)
+ *   +05: 41 54                 push r12               (2)
+ *   +07: 41 56                 push r14               (2)
+ *   +09: 41 57                 push r15               (2)
+ *   +0B: 48 8d a8 b8 fd ff ff  lea rbp, [rax-248h]    (7) = 18바이트
  *
- * 프롤로그 (20바이트):
- *   +00: 48 89 5c 24 18     mov [rsp+18h], rbx  (5)
- *   +05: 48 89 74 24 20     mov [rsp+20h], rsi  (5)
- *   +10: 41 54              push r12            (2)
- *   +12: 41 56              push r14            (2)
- *   +14: 41 57              push r15            (2)
- *   +16: 48 83 ec 20        sub rsp, 20h        (4) = 20바이트 총합
+ * Hook: 14바이트 jmp [rip+0] + 4바이트 NOP = 18바이트
  */
 static BOOL install_nuklear_hook(void) {
     if (nk_hook_active) return TRUE;
 
     // 함수 위치 검색
-    void* func_addr = find_nk_draw_list_add_text_function();
+    void* func_addr = find_nk_draw_text_function();
 
     if (!func_addr) {
-        write_log("[Phase 4] Could not find nk_draw_list_add_text function\n");
+        write_log("[Phase 4] Could not find nk_draw_text function\n");
         write_log("[Phase 4] Nuklear Korean support will be limited\n");
         return FALSE;
     }
 
-    write_log("[Phase 4] nk_draw_list_add_text at: %p\n", func_addr);
+    write_log("[Phase 4] nk_draw_text at: %p\n", func_addr);
 
-    // 프롤로그 크기 = 20바이트 (명령어 경계에서 정확히 끊김)
-    #define HOOK_SIZE 20
+    // 프롤로그 크기 = 18바이트 (명령어 경계에서 정확히 끊김)
+    #define HOOK_SIZE 18
 
     // 원본 바이트 백업
     memcpy(nk_original_bytes, func_addr, HOOK_SIZE);
 
-    // 트램폴린 생성 - 원본 프롤로그 실행 후 원래 함수+20으로 점프
+    // 트램폴린 생성 - 원본 프롤로그 실행 후 원래 함수+18으로 점프
     nk_trampoline = VirtualAlloc(NULL, 64, MEM_COMMIT | MEM_RESERVE, PAGE_EXECUTE_READWRITE);
     if (!nk_trampoline) {
         write_log("[Phase 4] ERROR: VirtualAlloc failed for trampoline\n");
@@ -1102,7 +1092,7 @@ static BOOL install_nuklear_hook(void) {
         return FALSE;
     }
 
-    // jmp [rip+0] 형식 (14바이트)
+    // jmp [rip+0] 형식 (14바이트) + 4바이트 NOP = 18바이트
     uint8_t* hook = (uint8_t*)func_addr;
     hook[0] = 0xFF;
     hook[1] = 0x25;
@@ -1112,7 +1102,7 @@ static BOOL install_nuklear_hook(void) {
     hook[5] = 0x00;
     *(uint64_t*)(hook + 6) = (uint64_t)my_nk_draw_text_naked;
 
-    // 나머지 6바이트는 NOP으로 채움 (HOOK_SIZE=20, jmp=14바이트)
+    // 나머지 4바이트는 NOP으로 채움 (HOOK_SIZE=18, jmp=14바이트)
     for (int i = 14; i < HOOK_SIZE; i++) {
         hook[i] = 0x90;  // NOP
     }
@@ -1120,7 +1110,7 @@ static BOOL install_nuklear_hook(void) {
     VirtualProtect(func_addr, HOOK_SIZE, old_protect, &old_protect);
 
     nk_hook_active = 1;
-    write_log("[Phase 4] Nuklear nk_draw_list_add_text hook installed!\n");
+    write_log("[Phase 4] Nuklear nk_draw_text hook installed!\n");
     write_log("[Phase 4] Original: %p -> Hook: %p -> Trampoline: %p\n",
               func_addr, my_nk_draw_text_naked, nk_trampoline);
 
@@ -1160,7 +1150,7 @@ static DWORD WINAPI nuklear_hook_thread(LPVOID param) {
         }
     }
 
-    write_log("[Phase 4 Thread] TIMEOUT - could not hook nk_draw_list_add_text\n");
+    write_log("[Phase 4 Thread] TIMEOUT - could not hook nk_draw_text\n");
     write_log("[Phase 4 Thread] Nuklear UI Korean text may not display correctly\n");
     return 0;
 }
@@ -1181,12 +1171,12 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
         FILE* log = fopen(LOG_FILE, "w");
         if (log) {
             fprintf(log, "=================================================\n");
-            fprintf(log, "NWN:EE Korean Hook DLL (Windows x64) - Phase 2+4\n");
+            fprintf(log, "NWN:EE Korean Hook DLL (Windows x64) - Phase 2\n");
             fprintf(log, "=================================================\n\n");
             fclose(log);
         }
 
-        write_log("[NWN Korean Hook] Initializing (Phase 2: Bake + Phase 4: Nuklear)...\n");
+        write_log("[NWN Korean Hook] Initializing (Phase 2: Bake)...\n");
 
         // nwmain.exe 베이스 주소 찾기
         nwmain_base = find_nwmain_base();
@@ -1210,18 +1200,17 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
         // Windows에서도 동일한 접근이 필요할 수 있음
         write_log("[Hook] GetSymbolCoords hook DISABLED (advance value is normalized, need different approach)\n");
 
-        // Phase 4: Nuklear 한글 지원 - 비활성화
-        // 트램폴린 방식이 mov [rsp+xx], reg 프롤로그와 호환되지 않아 크래시 발생
-        // 대신 바이너리 패치 방식으로 해결 예정 (apply_korean_patch.py에서 처리)
-        write_log("[Phase 4] Nuklear hook DISABLED (trampoline incompatible with prologue)\n");
-        write_log("[Phase 4] Use binary patch for Nuklear Korean support\n");
+        // Phase 4: Nuklear 한글 지원 - 비활성화 (파라미터 매핑 미해결)
+        // 분석 결과: MSVC 인라이닝으로 nk_draw_text가 독립 함수로 존재하지 않음
+        // RVA 0xa824b0 (nk_draw_list_add_text) → freed memory 패턴
+        // RVA 0x952A10 (nk_draw_text 후보) → 파라미터 불일치 (str=NULL, len=nwmain base)
+        // 상세 분석: docs/NUKLEAR_ANALYSIS.md 참조
         // CreateThread(NULL, 0, nuklear_hook_thread, NULL, 0, NULL);
 
         write_log("\n=== Korean Hook Ready ===\n");
         write_log("Glyph range: 0-255 (base) + 256-2605 (Korean)\n");
-        write_log("Mode: Bake hook (Phase 2) only\n");
+        write_log("Mode: Bake (Phase 2)\n");
         write_log("Input encoding: CP949\n");
-        write_log("Note: Nuklear UI requires binary patch for Korean support\n");
         write_log("\n");
     }
     else if (fdwReason == DLL_PROCESS_DETACH) {

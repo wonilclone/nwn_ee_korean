@@ -138,6 +138,13 @@ VERSION_OFFSETS = {
         "textout_next": 0x0004be0b,       # -> mov edx, ebx (single byte path)
         "textout_next_korean": 0x0004be0d, # -> lea r9, ... (skip mov edx,ebx for Korean)
         "textout_cave": 0x01373210,  # .rodata 섹션 끝 여유 공간 (496 bytes)
+        # Phase 5: CalculateVisibleStringLengthAndWidth CP949 디코더
+        # 폭 계산 루프에서 1바이트씩 읽어 advance를 조회하므로
+        # CP949 2바이트 문자가 반으로 쪼개져 폭이 과소 계산됨 → 중앙정렬 깨짐 + 문자 침범
+        "calcwidth": 0x0004b640,           # movsxd rdx, ebx (루프 내 바이트 읽기 시작)
+        "calcwidth_next": 0x0004b649,      # cmp dil, 0x3C (single byte path)
+        "calcwidth_next_korean": 0x0004b717, # lea r9, [rsp+28h] (GetSymbolCoords 파라미터 설정)
+        "calcwidth_cave": 0x01373260,      # .rodata cave (textout cave 직후)
         # 섹션별 file_offset → RVA 변환값 (상대 점프 계산용)
         "text_fo2rva": 0xC00,            # .text: RVA = file_offset + 0xC00
         "textout_cave_fo2rva": 0x2FB800, # .rodata: RVA = file_offset + 0x2FB800
@@ -364,6 +371,103 @@ def generate_textout_patch():
     return code
 
 
+def generate_calcwidth_patch():
+    """CalculateVisibleStringLengthAndWidth CP949 2-byte 디코더 생성
+
+    원본 코드 흐름 (RVA):
+        0x4C240: movsxd rdx, ebx          ; 루프 인덱스 확장
+        0x4C243: add    rdx, r12           ; 문자열 base + index
+        0x4C246: movzx  edi, byte [rdx]    ; ← 1바이트만 읽음 (문제의 원인)
+        0x4C249: cmp    dil, 0x3C          ; '<' 색상코드 체크
+        ...
+        0x4C313: movzx  edx, dil           ; ← 하위 8비트만 GetSymbolCoords에 전달
+        0x4C317: lea    r9, [rsp+28h]      ; GetSymbolCoords 파라미터 설정 시작
+        ...
+        0x4C343: call   GetSymbolCoords
+
+    한글 경로: CP949 디코딩 후 edx에 글리프 인덱스를 직접 넣고
+    movzx edx, dil (8비트 절삭)과 문자 타입 체크를 건너뛰어
+    GetSymbolCoords 파라미터 설정(0x4C317)으로 직행.
+    edi=0으로 설정하여 후속 newline/space 체크 안전 통과.
+    """
+    if CURRENT_OFFSETS is None:
+        raise RuntimeError("오프셋이 설정되지 않았습니다.")
+
+    calcwidth_cave = CURRENT_OFFSETS['calcwidth_cave']
+    calcwidth_next = CURRENT_OFFSETS['calcwidth_next']
+    calcwidth_next_korean = CURRENT_OFFSETS['calcwidth_next_korean']
+
+    # 섹션 간 상대 점프를 위한 RVA 변환
+    text_fo2rva = CURRENT_OFFSETS['text_fo2rva']
+    cave_fo2rva = CURRENT_OFFSETS['textout_cave_fo2rva']  # 같은 .rodata 섹션
+    cave_rva = calcwidth_cave + cave_fo2rva
+    calcwidth_next_rva = calcwidth_next + text_fo2rva
+    calcwidth_next_korean_rva = calcwidth_next_korean + text_fo2rva
+
+    code = bytearray()
+
+    # 1. Replaced instructions
+    code += bytes([0x48, 0x63, 0xd3])              # movsxd rdx, ebx
+    code += bytes([0x49, 0x03, 0xd4])              # add rdx, r12
+    code += bytes([0x0f, 0xb6, 0x3a])              # movzx edi, byte [rdx]
+
+    # 2. Check if lead byte (0xB0-0xC8)
+    code += bytes([0x40, 0x80, 0xff, 0xb0])        # cmp dil, 0xB0
+    jb_exit = len(code)
+    code += bytes([0x72, 0x00])                     # jb .not_korean
+
+    code += bytes([0x40, 0x80, 0xff, 0xc8])        # cmp dil, 0xC8
+    ja_exit = len(code)
+    code += bytes([0x77, 0x00])                     # ja .not_korean
+
+    # 3. Read trail byte
+    code += bytes([0x0f, 0xb6, 0x42, 0x01])        # movzx eax, byte [rdx+1]
+
+    # 4. Check trail byte (0xA1-0xFE)
+    code += bytes([0x3c, 0xa1])                     # cmp al, 0xA1
+    jb_exit2 = len(code)
+    code += bytes([0x72, 0x00])                     # jb .not_korean
+
+    code += bytes([0x3c, 0xfe])                     # cmp al, 0xFE
+    ja_exit2 = len(code)
+    code += bytes([0x77, 0x00])                     # ja .not_korean
+
+    # 5. Compute glyph index: 256 + (lead - 0xB0) * 94 + (trail - 0xA1)
+    code += bytes([0x89, 0xc1])                     # mov ecx, eax (save trail)
+    code += bytes([0x81, 0xef, 0xb0, 0x00, 0x00, 0x00])  # sub edi, 0xB0
+    code += bytes([0x6b, 0xff, 0x5e])               # imul edi, edi, 94
+    code += bytes([0x81, 0xe9, 0xa1, 0x00, 0x00, 0x00])  # sub ecx, 0xA1
+    code += bytes([0x01, 0xcf])                     # add edi, ecx
+    code += bytes([0x81, 0xc7, 0x00, 0x01, 0x00, 0x00])  # add edi, 256
+
+    # 6. Korean path: edx=glyph, rcx=font, edi=0(safe), inc ebx
+    code += bytes([0x8b, 0xd7])                     # mov edx, edi
+    code += bytes([0x48, 0x8b, 0x4d, 0x28])         # mov rcx, [rbp+28h]
+    code += bytes([0x31, 0xff])                     # xor edi, edi
+    code += bytes([0xff, 0xc3])                     # inc ebx
+
+    # 7. Korean exit: jump to lea r9, [rsp+28h] (GetSymbolCoords 파라미터 설정)
+    jmp_from_rva = cave_rva + len(code) + 5
+    jmp_rel = calcwidth_next_korean_rva - jmp_from_rva
+    code += bytes([0xe9])
+    code += struct.pack('<i', jmp_rel)
+
+    # 8. Non-Korean exit: jump back to cmp dil, 0x3C
+    exit_offset = len(code)
+    jmp_from_rva = cave_rva + len(code) + 5
+    jmp_rel = calcwidth_next_rva - jmp_from_rva
+    code += bytes([0xe9])
+    code += struct.pack('<i', jmp_rel)
+
+    # Patch conditional jump offsets
+    code[jb_exit + 1] = (exit_offset - (jb_exit + 2)) & 0xFF
+    code[ja_exit + 1] = (exit_offset - (ja_exit + 2)) & 0xFF
+    code[jb_exit2 + 1] = (exit_offset - (jb_exit2 + 2)) & 0xFF
+    code[ja_exit2 + 1] = (exit_offset - (ja_exit2 + 2)) & 0xFF
+
+    return code
+
+
 def apply_nuklear_glyph_range_patch(data: bytearray) -> int:
     """Nuklear UI: 한글 글리프 범위 패치
 
@@ -536,20 +640,11 @@ def install(skip_patches=None):
         data[texture_hook:texture_hook+7] = hook_bytes
         print("  [OK] Texture 4096x4096")
 
-    # TextOut CP949 디코더
-    if 'textout' in skip_patches:
-        print()
-        print("  [SKIP] CP949 TextOut decoder (진단: textout 비활성화)")
-    else:
-        print()
-        print("CP949 디코더 패치 적용 중...")
+    # .rodata 섹션 헤더 패치 (TextOut/CalcWidth code cave 공통)
+    text_fo2rva = CURRENT_OFFSETS['text_fo2rva']
+    cave_fo2rva = CURRENT_OFFSETS['textout_cave_fo2rva']
 
-        textout_offset = CURRENT_OFFSETS['textout']
-        textout_cave = CURRENT_OFFSETS['textout_cave']
-        text_fo2rva = CURRENT_OFFSETS['text_fo2rva']
-        cave_fo2rva = CURRENT_OFFSETS['textout_cave_fo2rva']
-
-        # .rodata 섹션 헤더 패치: 실행 권한 추가 (code cave 실행용)
+    if 'textout' not in skip_patches or 'calcwidth' not in skip_patches:
         rodata_vsize_off = CURRENT_OFFSETS['rodata_vsize_offset']
         rodata_chars_off = CURRENT_OFFSETS['rodata_chars_offset']
 
@@ -567,6 +662,17 @@ def install(skip_patches=None):
 
         print("  [OK] .rodata 섹션 헤더 (실행 권한 추가)")
 
+    # TextOut CP949 디코더
+    if 'textout' in skip_patches:
+        print()
+        print("  [SKIP] CP949 TextOut decoder (진단: textout 비활성화)")
+    else:
+        print()
+        print("CP949 디코더 패치 적용 중...")
+
+        textout_offset = CURRENT_OFFSETS['textout']
+        textout_cave = CURRENT_OFFSETS['textout_cave']
+
         # Code cave 작성 (파일 오프셋)
         textout_code = generate_textout_patch()
         data[textout_cave:textout_cave+len(textout_code)] = textout_code
@@ -579,15 +685,38 @@ def install(skip_patches=None):
         data[textout_offset:textout_offset+5] = jmp_bytes
         print("  [OK] CP949 TextOut decoder")
 
-    # Nuklear UI 글리프 범위 패치
-    if 'nuklear' in skip_patches:
+    # CalcWidth CP949 디코더 (중앙정렬 + 문자 침범 수정)
+    if 'calcwidth' in skip_patches:
         print()
-        print("  [SKIP] Nuklear glyph range (진단: nuklear 비활성화)")
+        print("  [SKIP] CP949 CalcWidth decoder (진단: calcwidth 비활성화)")
     else:
         print()
-        print("Nuklear 글리프 범위 패치 적용 중...")
-        patched = apply_nuklear_glyph_range_patch(data)
-        print(f"  Total: {patched}/4 patches applied")
+        print("CP949 폭 계산 디코더 패치 적용 중...")
+
+        calcwidth_offset = CURRENT_OFFSETS['calcwidth']
+        calcwidth_cave = CURRENT_OFFSETS['calcwidth_cave']
+
+        # Code cave 작성
+        calcwidth_code = generate_calcwidth_patch()
+        data[calcwidth_cave:calcwidth_cave+len(calcwidth_code)] = calcwidth_code
+
+        # Hook: jmp to cave (RVA 기반 상대 점프)
+        calcwidth_rva = calcwidth_offset + text_fo2rva
+        cw_cave_rva = calcwidth_cave + cave_fo2rva
+        jmp_to_cave = cw_cave_rva - (calcwidth_rva + 5)
+        jmp_bytes = bytes([0xe9]) + struct.pack('<i', jmp_to_cave)
+        # 9바이트 교체: 5바이트 JMP + 4바이트 NOP
+        data[calcwidth_offset:calcwidth_offset+9] = jmp_bytes + bytes([0x90] * 4)
+        print("  [OK] CP949 CalcWidth decoder (중앙정렬 수정)")
+
+    # Nuklear UI 글리프 범위 패치 - 비활성화
+    # Nuklear 텍스트 변환 훅이 미완성이므로 글리프 범위 패치도 비활성화
+    # 상세 분석: docs/NUKLEAR_ANALYSIS.md 참조
+    # if 'nuklear' not in skip_patches:
+    #     print()
+    #     print("Nuklear 글리프 범위 패치 적용 중...")
+    #     patched = apply_nuklear_glyph_range_patch(data)
+    #     print(f"  Total: {patched}/4 patches applied")
 
     # 저장
     with open(NWMAIN, 'wb') as f:
@@ -772,6 +901,7 @@ def main():
         print()
         print("진단 옵션:")
         print("  --skip textout    CP949 TextOut 디코더 비활성화")
+        print("  --skip calcwidth  CP949 폭 계산 디코더 비활성화")
         print("  --skip nuklear    Nuklear 글리프 범위 패치 비활성화")
         print("  --skip texture    텍스처 4096 패치 비활성화")
         print("  --skip padding    글리프 패딩 패치 비활성화")
