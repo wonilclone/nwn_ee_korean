@@ -91,9 +91,9 @@ def validate_records(all_records):
 
     critical_issues = len(empty_text) + len(korean_in_eng)
     if critical_issues == 0:
-        print("\n✓ 심각한 데이터 문제 없음")
+        print("\n[OK] 심각한 데이터 문제 없음")
     else:
-        print(f"\n⚠ 심각한 문제 {critical_issues}개 발견 - 수정 필요")
+        print(f"\n[!] 심각한 문제 {critical_issues}개 발견 - 수정 필요")
 
     return issues
 
@@ -205,7 +205,7 @@ def create_tlk_from_csv(csv_path: Path, tlk_path: Path, debug_mode: bool = False
     converter.write_tlk(tlk_path)
 
     if debug_mode:
-        print(f"\n⚠️  검수 모드로 빌드됨: 모든 텍스트 앞에 [StrRef]가 추가됨")
+        print(f"\n[!] 검수 모드로 빌드됨: 모든 텍스트 앞에 [StrRef]가 추가됨")
 
 
 if __name__ == "__main__":

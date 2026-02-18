@@ -23,6 +23,7 @@ NWN:EE 한글 패치 릴리스 빌드 스크립트
 """
 
 import argparse
+import os
 import shutil
 import subprocess
 import sys
@@ -66,22 +67,35 @@ def build_tlk(debug_mode: bool = False):
     if debug_mode:
         cmd.append("--debug")
 
+    env = os.environ.copy()
+    env['PYTHONIOENCODING'] = 'utf-8'
+
     result = subprocess.run(
         cmd,
         cwd=TRANSLATE_DIR,
         capture_output=True,
         text=True,
-        encoding='utf-8'
+        encoding='utf-8',
+        errors='replace',
+        env=env
     )
 
     if result.returncode != 0:
         print(f"오류: TLK 빌드 실패")
-        print(result.stderr)
+        if result.stderr:
+            for line in result.stderr.split('\n'):
+                try:
+                    print(line)
+                except UnicodeEncodeError:
+                    print(line.encode('ascii', errors='replace').decode('ascii'))
         return None
 
     for line in result.stdout.split('\n'):
         if line.strip():
-            print(f"  {line}")
+            try:
+                print(f"  {line}")
+            except UnicodeEncodeError:
+                print(f"  {line.encode('ascii', errors='replace').decode('ascii')}")
 
     tlk_path = TRANSLATE_DIR / "dialog.tlk"
     if not tlk_path.exists():
