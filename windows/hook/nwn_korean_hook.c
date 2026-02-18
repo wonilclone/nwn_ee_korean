@@ -144,8 +144,6 @@ static CRITICAL_SECTION nk_buffer_cs;
 // 통계
 static volatile LONG nk_total_calls = 0;
 static volatile LONG nk_conversion_count = 0;
-static int nk_debug_log_count = 0;
-#define MAX_NK_DEBUG_LOG 30
 
 // 베이크된 폰트 높이 추적 (nk_user_font 스캔용)
 static volatile float baked_heights[8] = {0};
@@ -194,18 +192,23 @@ static int is_latin1_corrupted_utf8(const char* text, int len) {
 }
 
 /**
- * Latin-1 손상된 UTF-8 → CP949 원본 복원 → UTF-8 한글 변환
+ * Latin-1 손상된 UTF-8 → CP949 원본 복원 → NK 글리프 인덱스 변환
  *
  * 입력: UTF-8 인코딩된 Latin-1 문자열 (원본은 CP949)
- * 출력: UTF-8 인코딩된 한글 문자열
+ * 출력: NK chardata 인덱스를 UTF-8 코드포인트로 인코딩한 문자열
+ *
+ * 엔진의 NK 폰트 lookup은 chardata[codepoint] 직접 인덱싱.
+ * Unicode 코드포인트(U+AC00+)를 사용하면 배열 범위 초과.
+ * 대신 chardata 인덱스(256-2605)를 코드포인트로 사용.
  *
  * 과정:
- * 1. UTF-8 디코딩하여 유니코드 코드포인트 추출
- * 2. 0x80~0xFF 범위 코드포인트는 원래 CP949 바이트
- * 3. 연속된 두 바이트를 CP949로 해석하여 한글 유니코드로 변환
- * 4. UTF-8로 인코딩하여 출력
+ * 1. UTF-8 디코딩하여 Latin-1 바이트 복원 (C2/C3 XX → 0x80-0xFF)
+ * 2. 연속된 두 바이트를 CP949로 해석
+ * 3. KSX1001 순차 인덱스 계산: (high - 0xB0) * 94 + (low - 0xA1)
+ * 4. chardata 인덱스 = 256 + KSX1001 인덱스
+ * 5. chardata 인덱스를 UTF-8 코드포인트로 인코딩
  */
-static int convert_latin1_corrupted_to_utf8(const char* src, int src_len, char* dst, int dst_size) {
+static int convert_latin1_corrupted_to_nk_glyphs(const char* src, int src_len, char* dst, int dst_size) {
     if (!src || !dst || src_len <= 0 || dst_size <= 0) return 0;
 
     int si = 0;  // source index
@@ -224,16 +227,14 @@ static int convert_latin1_corrupted_to_utf8(const char* src, int src_len, char* 
             si++;
         }
         else if ((b & 0xE0) == 0xC0 && si + 1 < src_len) {
-            // UTF-8 2바이트 시퀀스 (C0-DF XX)
+            // UTF-8 2바이트 시퀀스 (C2-DF XX)
             unsigned char b1 = (unsigned char)src[si + 1];
             if ((b1 & 0xC0) == 0x80) {
-                // 유니코드 코드포인트 추출
                 uint16_t cp = ((b & 0x1F) << 6) | (b1 & 0x3F);
                 // Latin-1 범위 (U+0080~U+00FF)는 원래 바이트로 복원
                 if (cp <= 0xFF) {
                     bytes[byte_count++] = (unsigned char)cp;
                 } else {
-                    // 그 외는 원본 유지
                     bytes[byte_count++] = b;
                     bytes[byte_count++] = b1;
                 }
@@ -243,57 +244,49 @@ static int convert_latin1_corrupted_to_utf8(const char* src, int src_len, char* 
                 si++;
             }
         }
-        else if ((b & 0xF0) == 0xE0 && si + 2 < src_len) {
-            // UTF-8 3바이트 시퀀스 - 이미 한글일 수 있음, 그대로 출력
-            unsigned char b1 = (unsigned char)src[si + 1];
-            unsigned char b2 = (unsigned char)src[si + 2];
-            if (di + 3 < dst_size) {
-                dst[di++] = b;
-                dst[di++] = b1;
-                dst[di++] = b2;
-            }
-            si += 3;
-            continue;  // bytes 배열 건너뜀
-        }
         else {
+            // 그 외 (3바이트 UTF-8 등): 바이트 단위로 복사
             bytes[byte_count++] = b;
             si++;
         }
     }
 
-    // bytes 배열을 CP949로 해석하여 UTF-8로 변환
+    // bytes 배열을 CP949로 해석하여 NK 글리프 인덱스로 변환
     int bi = 0;
     while (bi < byte_count && di < dst_size - 3) {
         unsigned char b0 = bytes[bi];
 
         if (b0 < 0x80) {
-            // ASCII
+            // ASCII: chardata[0-127] 직접 대응
             dst[di++] = b0;
             bi++;
         }
         else if (b0 >= 0xB0 && b0 <= 0xC8 && bi + 1 < byte_count) {
-            // CP949 완성형 한글 가능성
             unsigned char b1 = bytes[bi + 1];
 
             if (b1 >= 0xA1 && b1 <= 0xFE) {
-                // CP949 → Unicode 변환
-                uint32_t unicode = cp949_to_unicode(b0, b1);
+                // CP949 → KSX1001 순차 인덱스 → chardata 인덱스
+                int glyph_idx = 256 + (b0 - 0xB0) * 94 + (b1 - 0xA1);
 
-                if (unicode != 0 && unicode >= 0xAC00 && unicode <= 0xD7A3) {
-                    // 유효한 한글: UTF-8로 인코딩
-                    dst[di++] = (char)(0xE0 | ((unicode >> 12) & 0x0F));
-                    dst[di++] = (char)(0x80 | ((unicode >> 6) & 0x3F));
-                    dst[di++] = (char)(0x80 | (unicode & 0x3F));
-                    bi += 2;
-                    continue;
+                // 글리프 인덱스를 UTF-8 코드포인트로 인코딩
+                // 256-2047: 2바이트 UTF-8 (C4 80 ~ DF BF)
+                // 2048-2605: 3바이트 UTF-8 (E0 A0 80 ~ E0 A8 AD)
+                if (glyph_idx < 0x800) {
+                    dst[di++] = (char)(0xC0 | (glyph_idx >> 6));
+                    dst[di++] = (char)(0x80 | (glyph_idx & 0x3F));
+                } else {
+                    dst[di++] = (char)(0xE0 | (glyph_idx >> 12));
+                    dst[di++] = (char)(0x80 | ((glyph_idx >> 6) & 0x3F));
+                    dst[di++] = (char)(0x80 | (glyph_idx & 0x3F));
                 }
+                bi += 2;
+                continue;
             }
             // 변환 실패: 원본 바이트 유지
             dst[di++] = b0;
             bi++;
         }
         else {
-            // 그 외: 그대로 복사
             dst[di++] = b0;
             bi++;
         }
@@ -304,9 +297,9 @@ static int convert_latin1_corrupted_to_utf8(const char* src, int src_len, char* 
 }
 
 /**
- * CP949 문자열을 UTF-8로 직접 변환
+ * CP949 문자열을 NK 글리프 인덱스로 직접 변환
  */
-static int convert_cp949_to_utf8(const char* src, int src_len, char* dst, int dst_size) {
+static int convert_cp949_to_nk_glyphs(const char* src, int src_len, char* dst, int dst_size) {
     if (!src || !dst || src_len <= 0 || dst_size <= 0) return 0;
 
     int si = 0;
@@ -316,22 +309,24 @@ static int convert_cp949_to_utf8(const char* src, int src_len, char* dst, int ds
         unsigned char b0 = (unsigned char)src[si];
 
         if (b0 < 0x80) {
-            // ASCII
             dst[di++] = src[si++];
         }
         else if (b0 >= 0xB0 && b0 <= 0xC8 && si + 1 < src_len) {
             unsigned char b1 = (unsigned char)src[si + 1];
 
             if (b1 >= 0xA1 && b1 <= 0xFE) {
-                uint32_t unicode = cp949_to_unicode(b0, b1);
+                int glyph_idx = 256 + (b0 - 0xB0) * 94 + (b1 - 0xA1);
 
-                if (unicode != 0 && unicode >= 0xAC00 && unicode <= 0xD7A3) {
-                    dst[di++] = (char)(0xE0 | ((unicode >> 12) & 0x0F));
-                    dst[di++] = (char)(0x80 | ((unicode >> 6) & 0x3F));
-                    dst[di++] = (char)(0x80 | (unicode & 0x3F));
-                    si += 2;
-                    continue;
+                if (glyph_idx < 0x800) {
+                    dst[di++] = (char)(0xC0 | (glyph_idx >> 6));
+                    dst[di++] = (char)(0x80 | (glyph_idx & 0x3F));
+                } else {
+                    dst[di++] = (char)(0xE0 | (glyph_idx >> 12));
+                    dst[di++] = (char)(0x80 | ((glyph_idx >> 6) & 0x3F));
+                    dst[di++] = (char)(0x80 | (glyph_idx & 0x3F));
                 }
+                si += 2;
+                continue;
             }
             dst[di++] = src[si++];
         }
@@ -358,11 +353,9 @@ static int nk_process_text(const char* text, int len, char* out_buf, int out_siz
 
     // 비ASCII 바이트 찾기
     int has_non_ascii = 0;
-    int first_non_ascii = -1;
     for (int i = 0; i < len; i++) {
         if ((unsigned char)text[i] >= 0x80) {
             has_non_ascii = 1;
-            first_non_ascii = i;
             break;
         }
     }
@@ -370,31 +363,44 @@ static int nk_process_text(const char* text, int len, char* out_buf, int out_siz
     // 비ASCII가 없으면 변환 불필요
     if (!has_non_ascii) return 0;
 
-    // 디버깅 로그
-    if (nk_debug_log_count < MAX_NK_DEBUG_LOG) {
-        write_log("[NK Debug #%d] len=%d, first_non_ascii=%d, bytes: ",
-                  nk_debug_log_count, len, first_non_ascii);
-        nk_debug_log_count++;
-    }
-
     // Latin-1 손상된 UTF-8 감지 (C2/C3 XX 패턴)
     for (int i = 0; i < len - 1; i++) {
         unsigned char b0 = (unsigned char)text[i];
         unsigned char b1 = (unsigned char)text[i + 1];
         if ((b0 == 0xC2 || b0 == 0xC3) && (b1 >= 0x80 && b1 <= 0xBF)) {
-            InterlockedIncrement(&nk_conversion_count);
-            return convert_latin1_corrupted_to_utf8(text, len, out_buf, out_size);
+            return convert_latin1_corrupted_to_nk_glyphs(text, len, out_buf, out_size);
         }
     }
 
-    // 원본 CP949 감지
+    // 이미 변환된 UTF-8인지 확인 (in-place 변환 후 재호출 방지)
+    // 글리프 인덱스 UTF-8 (C4-DF/E0)은 유효한 UTF-8 시퀀스를 형성
+    // CP949는 유효한 UTF-8이 아님 (bare 0xB0-0xC8 바이트)
+    int valid_utf8 = 1;
+    for (int i = 0; i < len; ) {
+        unsigned char b = (unsigned char)text[i];
+        if (b < 0x80) {
+            i++;
+        } else if ((b & 0xE0) == 0xC0 && i + 1 < len &&
+                   ((unsigned char)text[i + 1] & 0xC0) == 0x80) {
+            i += 2;
+        } else if ((b & 0xF0) == 0xE0 && i + 2 < len &&
+                   ((unsigned char)text[i + 1] & 0xC0) == 0x80 &&
+                   ((unsigned char)text[i + 2] & 0xC0) == 0x80) {
+            i += 3;
+        } else {
+            valid_utf8 = 0;
+            break;
+        }
+    }
+    if (valid_utf8) return 0;  // 이미 변환됨 또는 유효한 UTF-8
+
+    // 원본 CP949 감지 (유효한 UTF-8이 아닌 경우만)
     for (int i = 0; i < len - 1; i++) {
         unsigned char b0 = (unsigned char)text[i];
         if (b0 >= 0xB0 && b0 <= 0xC8) {
             unsigned char b1 = (unsigned char)text[i + 1];
             if (b1 >= 0xA1 && b1 <= 0xFE) {
-                InterlockedIncrement(&nk_conversion_count);
-                return convert_cp949_to_utf8(text, len, out_buf, out_size);
+                return convert_cp949_to_nk_glyphs(text, len, out_buf, out_size);
             }
         }
     }
@@ -1607,45 +1613,53 @@ static float my_nk_width_callback(void* userdata, float height, const char* text
         }
     }
 
-    // 진단 로깅
-    if (nk_width_log_count < MAX_NK_WIDTH_LOG) {
-        if (has_highbyte) {
-            InterlockedIncrement(&nk_width_korean_found);
-            nk_width_log_count++;
-            write_log("[NK Width #%d] h=%.1f len=%d HIGHBYTE: ", nk_width_log_count, height, len);
-            int show = len < 60 ? len : 60;
-            for (int i = 0; i < show; i++)
-                write_log("%02x ", (unsigned char)text[i]);
-            write_log("\n");
-
-            // ASCII 부분 표시
-            char ascii[200];
-            int ap = 0;
-            show = len < 190 ? len : 190;
-            for (int i = 0; i < show; i++)
-                ascii[ap++] = ((unsigned char)text[i] >= 0x20 && (unsigned char)text[i] < 0x7F)
-                    ? text[i] : '.';
-            ascii[ap] = 0;
-            write_log("  ascii: %s\n", ascii);
-        } else if (nk_width_log_count < 20) {
-            // 처음 20개 ASCII 텍스트만 로그
-            nk_width_log_count++;
-            char buf[80];
-            int show = len < 70 ? len : 70;
-            memcpy(buf, text, show);
-            buf[show] = 0;
-            write_log("[NK Width #%d] h=%.1f len=%d ASCII: %s\n",
-                      nk_width_log_count, height, len, buf);
-        }
-    }
-
-    // 변환 시도 (비ASCII 텍스트만)
+    // 변환 시도 + in-place 수정 (비ASCII 텍스트만)
     if (has_highbyte) {
         char local_buf[4096];
         int converted_len = nk_process_text(text, len, local_buf, sizeof(local_buf));
-        if (converted_len > 0) {
+        if (converted_len > 0 && converted_len <= len) {
             InterlockedIncrement(&nk_conversion_count);
-            return original_nk_width_fn(userdata, height, local_buf, converted_len);
+
+            // 진단 로깅 (처음 10개만)
+            if (nk_width_log_count < 10) {
+                nk_width_log_count++;
+                char hex_before[256], hex_after[256];
+                int hb = 0, ha = 0;
+                int show = len < 30 ? len : 30;
+                for (int i = 0; i < show && hb < 250; i++)
+                    hb += sprintf(hex_before + hb, "%02x ", (unsigned char)text[i]);
+                hex_before[hb] = 0;
+                show = converted_len < 30 ? converted_len : 30;
+                for (int i = 0; i < show && ha < 250; i++)
+                    ha += sprintf(hex_after + ha, "%02x ", (unsigned char)local_buf[i]);
+                hex_after[ha] = 0;
+                write_log("[NK Conv #%d] h=%.1f len=%d->%d\n  before: %s\n  after:  %s\n",
+                          nk_width_log_count, height, len, converted_len,
+                          hex_before, hex_after);
+            }
+
+            // In-place 텍스트 수정: 렌더링 단계에서도 변환된 텍스트를 사용하게 됨
+            // Latin-1 corrupted (4바이트/글자) → UTF-8 한글 (3바이트/글자)이므로 항상 짧아짐
+            memcpy((char*)text, local_buf, converted_len);
+            // 나머지를 null로 패딩 (렌더링 시 글리프0 = 빈 글리프)
+            if (converted_len < len) {
+                memset((char*)text + converted_len, 0, len - converted_len);
+            }
+
+            return original_nk_width_fn(userdata, height, text, converted_len);
+        }
+
+        // 변환 실패 시 로그
+        if (nk_width_log_count < 10) {
+            nk_width_log_count++;
+            char hex[256];
+            int hp = 0;
+            int show = len < 30 ? len : 30;
+            for (int i = 0; i < show && hp < 250; i++)
+                hp += sprintf(hex + hp, "%02x ", (unsigned char)text[i]);
+            hex[hp] = 0;
+            write_log("[NK Width #%d] h=%.1f len=%d UNCONVERTED: %s\n",
+                      nk_width_log_count, height, len, hex);
         }
     }
 
@@ -1711,10 +1725,10 @@ static int scan_for_nk_user_font(void) {
                     uint8_t buf[40];
                     if (!safe_read((void*)p, buf, 40)) break;  // 영역 읽기 실패 시 다음 영역
 
-                    // offset 0x08: float height
+                    // offset 0x08: float height (합리적 폰트 높이: 5~50)
                     float h;
                     memcpy(&h, buf + 0x08, sizeof(float));
-                    if (!(h > 0.0f && h < 100.0f)) continue;  // NaN도 걸러짐
+                    if (!(h >= 5.0f && h <= 50.0f)) continue;  // 0, NaN, 극단값 제거
 
                     // offset 0x10: width 함수 포인터
                     uint64_t width_ptr;
@@ -1726,13 +1740,24 @@ static int scan_for_nk_user_font(void) {
                     memcpy(&query_ptr, buf + 0x18, sizeof(uint64_t));
                     if (query_ptr < nw_base || query_ptr >= nw_base + nw_size) continue;
 
-                    // offset 0x20: texture handle (작은 정수여야 함)
+                    // offset 0x20: texture handle (양수 정수여야 함, 0은 미초기화)
                     uint64_t texture;
                     memcpy(&texture, buf + 0x20, sizeof(uint64_t));
-                    if (texture > 1000) continue;
+                    if (texture == 0 || texture > 1000) continue;
 
                     // width와 query가 서로 다른 함수여야 함
                     if (width_ptr == query_ptr) continue;
+
+                    // width 함수 프롤로그 검증: 실제 코드인지 확인
+                    // 유효한 x64 함수 프롤로그 첫 바이트:
+                    //   0x48 (REX.W prefix), 0x40-0x41 (REX), 0x55 (push rbp),
+                    //   0x53 (push rbx), 0x56 (push rsi), 0x57 (push rdi)
+                    uint8_t prologue_byte;
+                    if (!safe_read((void*)width_ptr, &prologue_byte, 1)) continue;
+                    if (!(prologue_byte == 0x48 || prologue_byte == 0x40 ||
+                          prologue_byte == 0x41 || prologue_byte == 0x55 ||
+                          prologue_byte == 0x53 || prologue_byte == 0x56 ||
+                          prologue_byte == 0x57)) continue;
 
                     // 후보 발견!
                     uint64_t userdata;
@@ -1894,24 +1919,22 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
         // nk_draw_text (RVA 0x952A10): NULL string만 수신
         write_log("[Hook] NK Push/DrawText hooks DISABLED (dead ends)\n");
 
-        // Phase 4 - New: nk_user_font->width 콜백 훅
-        // 메모리 스캔으로 nk_user_font 구조체를 찾아 width 함수 포인터 교체
-        write_log("[Hook] Starting NK font scan thread for width callback hook...\n");
-        CreateThread(NULL, 0, nk_font_scan_thread, NULL, 0, NULL);
+        // Phase 4 - NK width 콜백 훅: 비활성화
+        // width 훅으로 텍스트 감지/변환 성공했으나, 렌더링 단계에서
+        // 글리프 lookup 실패 (codepoint → chardata 매핑 불명)
+        // 상세: docs/NUKLEAR_ANALYSIS.md 참조
+        write_log("[Hook] NK width callback hook DISABLED (glyph lookup unsolved)\n");
 
         write_log("\n=== Korean Hook Ready ===\n");
         write_log("Glyph range: 0-255 (base) + 256-2605 (Korean)\n");
-        write_log("Mode: Bake (Phase 2) + NK Width Callback (Phase 4)\n");
+        write_log("Mode: Bake (Phase 2)\n");
         write_log("Input encoding: CP949\n");
         write_log("\n");
     }
     else if (fdwReason == DLL_PROCESS_DETACH) {
         // 통계 로그
         write_log("\n=== Final Statistics ===\n");
-        write_log("[NK Width] Hook active: %d\n", nk_width_hook_active);
-        write_log("[NK Width] Total calls: %ld, Korean found: %ld, Conversions: %ld\n",
-                  nk_width_total_calls, nk_width_korean_found, nk_conversion_count);
-        write_log("[NK Push] TEXT commands: %ld (hook disabled)\n", nk_push_text_count);
+        write_log("[NK] Hooks disabled (glyph lookup unsolved)\n");
 
         // 정리
         if (korean_chars) {

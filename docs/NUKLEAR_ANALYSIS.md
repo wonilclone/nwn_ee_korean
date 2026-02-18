@@ -87,82 +87,84 @@ MSVC의 공격적 인라이닝으로 `nk_draw_text`가 46개 호출자에 모두
 - 짧은 바이트열(< 8바이트)은 대부분 포인터 잔해이므로 제외 필요
 - 유효한 CP949는 `is_valid_korean()` 함수로 엄격 검증 필요
 
-## 다음 단계
+### 시도 4: nk_user_font->width 콜백 훅 (Phase 4)
 
-### 옵션 A: 레지스터 스캔 필터 강화 (현재 인프라 유지)
+**접근법**: 메모리 스캔으로 `nk_user_font` 구조체를 찾아 `width` 함수 포인터를 교체.
+인라인 불가능한 함수 포인터이므로 안정적 후킹 가능.
 
-기존 RVA 0xC10434 훅에서 필터 강화:
-
-```c
-// 기계어 코드 패턴 제외
-static int is_code_pattern(const unsigned char* sp) {
-    if (sp[0] == 0x40 && sp[1] == 0x53) return 1;           // push rbx
-    if (sp[0] == 0x48 && sp[1] == 0x83 && sp[2] == 0xEC) return 1;  // sub rsp, xx
-    if (sp[0] == 0x55 && sp[1] == 0x48 && sp[2] == 0x8B) return 1;  // push rbp; mov rbp, rsp
-    return 0;
-}
-
-// 최소 문자열 길이 8바이트 이상으로 상향
-// nwmain.exe 코드 섹션 주소 범위 제외 (base ~ base + image_size)
+**nk_user_font 구조체 레이아웃 (x64)**:
+```
+offset 0x00: userdata  (8B, nk_handle)
+offset 0x08: height    (4B float + 4B padding)
+offset 0x10: width     (8B, 함수 포인터) ← 훅 대상
+offset 0x18: query     (8B, 함수 포인터)
+offset 0x20: texture   (8B, nk_handle)
 ```
 
-**장점**: 기존 코드 재사용, 빠른 반복
-**단점**: 이 함수가 NK 텍스트 경로에 있지 않다면 아무리 필터링해도 한글을 못 찾음
-**리스크**: 높음 (함수 자체가 NK 무관일 가능성)
+**스캔 필터**:
+- MEM_PRIVATE 힙 메모리만 스캔 (ReadProcessMemory 사용, VirtualQuery 타이밍 문제 회피)
+- height: 5.0-50.0 범위
+- width/query: nwmain.exe 코드 섹션 내 주소
+- texture: 1-1000 범위 정수
+- width 함수 프롤로그: 0x48/0x40/0x41/0x55/0x53/0x56/0x57 첫 바이트
 
-### 옵션 B: 렌더 루프 훅 (새 접근)
+**결과**:
+- 4개 nk_user_font 구조체 발견: h=17.0 x2, h=22.1 x2, 모두 tex=29
+- 원본 width callback: RVA 0xa6ba50
+- 프롤로그: `48 89 5c 24 10 48 89 6c 24 18 48 89 74 24 20 57`
+- NK UI가 표시된 상태에서만 구조체 존재 (lazy init)
+- alt-tab 화면 전환 시 width 콜백이 재호출됨 (NK 리레이아웃 트리거)
 
-Nuklear 커맨드 버퍼를 **소비**하는 렌더 루프에서 NK_COMMAND_TEXT 분기점 찾기.
-이 시점에서 `nk_command_text.string[]`에 텍스트가 완전히 채워져 있음.
-
-찾는 방법:
-1. `nk_draw_list_add_text` (RVA 0xa824b0)에 대한 xref 검색
-2. xref 호출자에서 `cmp` + NK_COMMAND_TEXT(0x10) 분기 확인
-3. 해당 렌더 루프 함수에 훅 설치
-
-```c
-// 렌더 루프 내 NK_COMMAND_TEXT 분기에서:
-struct nk_command_text* t = (struct nk_command_text*)cmd;
-char* text = t->string;   // 완전한 텍스트
-int len = t->length;
-// → 여기서 변환 수행
+**한글 텍스트 감지 성공**:
+```
+c2 bf c3 89 c2 bc c3 87 → "옵션" (Latin-1 corrupted CP949 BF C9 BC C7)
+c2 b0 c3 8b c2 bb c3 b6 → "검색" (Latin-1 corrupted CP949 B0 CB BB F6)
 ```
 
-**장점**: 텍스트가 완전히 채워진 상태로 접근 가능
-**단점**: 렌더 루프 위치 특정 필요, 인라인 여부 미지
+**변환 시도 A: UTF-8 Unicode 코드포인트**
+- CP949 → Unicode (U+AC00-U+D7A3) → UTF-8 인코딩
+- 결과: ???? 표시
+- 원인: 엔진 폰트 lookup이 `chardata[codepoint]` 직접 인덱싱 사용 추정
+  → U+AC00(44032)은 chardata[2606] 범위 초과
 
-### 옵션 C: nk_draw_list_add_text 재시도 (ABI 수정)
+**변환 시도 B: chardata 배열 인덱스**
+- CP949 → KSX1001 순차 인덱스 → chardata_index(256-2605) → UTF-8 인코딩
+- 예: "옵" → index 1706 → UTF-8 DA AA
+- 결과: 여전히 ???? 표시
+- 원인: 엔진이 chars[] 배열 기반 lookup (해시/검색)을 사용하거나,
+  width/query 콜백과 별도의 렌더링 lookup 테이블이 존재
 
-RVA 0xa824b0 함수를 MSVC x64 ABI 기준으로 재분석:
+**핵심 미해결 문제**:
+- width 콜백은 **폭 계산**만 담당, 실제 **렌더링**은 query 콜백 + 별도 경로
+- in-place 텍스트 수정은 성공하지만, 렌더링 단계에서 글리프를 찾지 못함
+- 엔진의 codepoint → chardata index 매핑 방식이 불명
+- query 콜백(RVA 0xa6b9a0)도 동일한 문제를 가질 것으로 추정
 
-```
-nk_draw_list_add_text(list, font, rect, text, len, font_height, fg)
-MSVC x64 ABI:
-  rcx = list (nk_draw_list*)
-  rdx = font (nk_user_font*)
-  r8  = &rect (hidden pointer, nk_rect는 16바이트이므로)
-  r9  = text (const char*)
-  [rsp+0x28] = len (int)
-  [rsp+0x30] = font_height (float)
-  [rsp+0x38] = fg (nk_color)
-```
+## 현재 상태
 
-이전 시도에서 r9=NULL이었던 것은:
-- 실제로 text가 NULL이었을 수 있음 (freed memory 접근 전 NULL 체크?)
-- 호출 빈도 4회가 너무 낮음 → 이 함수가 text 렌더링 경로가 아닐 수 있음
+**NK UI 한글 지원: 비활성화** (릴리즈 빌드에서 제외)
 
-**장점**: 독립 함수로 존재하여 안정적 후킹 가능
-**단점**: 이전에 4회밖에 호출되지 않았음, text가 실제 NULL일 수 있음
+성공한 부분:
+- nk_user_font 구조체 메모리 스캔 및 width 콜백 훅
+- Latin-1 corrupted UTF-8 텍스트 감지 및 디코딩
+- in-place 텍스트 수정 (width 콜백에서 원본 버퍼 직접 수정)
 
-### 옵션 D: 완전히 새로운 접근 (nk_sdl_refresh_config 등)
+미해결:
+- 렌더링 경로에서 한글 글리프 참조 불가 (codepoint → chardata 매핑 문제)
+- nk_draw_text 인라인으로 렌더링 단계 직접 후킹 불가
 
-Mac 버전에서 사용하는 `nk_sdl_refresh_config` 함수의 Windows 등가물을 찾아:
-1. locale 값을 Korean(3)으로 강제 설정
-2. 글리프 범위 갱신 트리거
-3. Nuklear 자체의 UTF-8 렌더링 파이프라인을 활용
+## 향후 접근 방향
 
-**장점**: 텍스트 변환 없이 Nuklear 내부 메커니즘 활용
-**단점**: Windows 바이너리에서 해당 함수 위치 특정 필요, Mac 버전에서 변경해보았으나 Latin-1으로 강제 처리되도록 되어 있었음
+### 옵션 A: query 콜백 훅 + 커스텀 글리프 lookup
+query 콜백(RVA 0xa6b9a0)을 훅하여 한글 codepoint에 대해 직접 stbtt_GetBakedQuad 호출.
+베이크된 chardata 포인터를 저장해야 함.
+
+### 옵션 B: 렌더 루프 훅
+Nuklear 커맨드 버퍼를 소비하는 렌더 루프에서 NK_COMMAND_TEXT 분기점을 찾아
+텍스트 변환 수행.
+
+### 옵션 C: nk_sdl_refresh_config + locale 강제 설정
+엔진 내부 locale을 Korean(3)으로 설정하여 Nuklear 자체의 글리프 범위 갱신 트리거.
 
 ## 기술 참고
 
@@ -191,16 +193,17 @@ struct nk_command_text {
 
 | 주소 | 설명 | 상태 |
 |------|------|------|
-| 0x00c10434 | 범용 함수 (nk_command_buffer_push **아님**) | 훅 설치됨, NK 무관 판명 |
+| 0x00a6ba50 | nk_user_font width callback | 훅 성공, 한글 감지됨, 렌더링 미해결 |
+| 0x00a6b9a0 | nk_user_font query callback | 미시도 |
+| 0x00c10434 | 범용 함수 (nk_command_buffer_push **아님**) | NK 무관 판명 |
 | 0x00a824b0 | nk_draw_list_add_text (추정) | 4회 호출, text=NULL |
 | 0x00952A10 | nk_draw_text 인라인 후보 | 불일치 확인 |
 | 0x000EBB20 | GetSymbolCoords (함수 내부 오프셋) | Phase 3에서 사용 |
 
-### 현재 DLL 훅 인프라
+### DLL 훅 인프라 (비활성화 상태)
 
 | 컴포넌트 | 설명 |
 |----------|------|
-| naked 래퍼 | VirtualAlloc 256바이트, 비휘발 레지스터 저장 + 핸들러 call + 트램폴린 jmp |
-| post-hook 트램폴린 | 58바이트, return-address hijacking (현재 비활성) |
-| 핸들러 | classify_string() + dump_string() + 레지스터/스택 스캔 |
-| 변환 코드 | is_latin1_corrupted_utf8(), convert_latin1_corrupted_to_utf8(), convert_cp949_to_utf8(), nk_process_text() - 구현 완료, 미사용 |
+| nk_user_font 스캐너 | ReadProcessMemory 기반 힙 메모리 스캔, 구조체 패턴 매칭 |
+| width 콜백 훅 | 함수 포인터 교체, in-place 텍스트 수정 |
+| 변환 코드 | convert_latin1_corrupted_to_nk_glyphs(), convert_cp949_to_nk_glyphs(), nk_process_text() |
