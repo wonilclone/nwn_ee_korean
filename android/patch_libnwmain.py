@@ -95,6 +95,33 @@ def _add_w_reg(rd, rn, rm):
     return 0x0B000000 | (rm << 16) | (rn << 5) | rd
 
 
+def _add_x_reg_sxtw(rd, rn, rm):
+    """ADD Xd, Xn, Wm, SXTW (sign-extend word to 64-bit)"""
+    return 0x8B20C000 | (rm << 16) | (rn << 5) | rd
+
+
+def _add_x_reg(rd, rn, rm):
+    """ADD Xd, Xn, Xm"""
+    return 0x8B000000 | (rm << 16) | (rn << 5) | rd
+
+
+def _sub_w_imm(rd, rn, imm12):
+    """SUB Wd, Wn, #imm12"""
+    assert 0 <= imm12 <= 0xFFF
+    return 0x51000000 | (imm12 << 10) | (rn << 5) | rd
+
+
+def _mul_w(rd, rn, rm):
+    """MUL Wd, Wn, Wm (MADD Wd, Wn, Wm, WZR)"""
+    return 0x1B007C00 | (rm << 16) | (rn << 5) | rd
+
+
+def _ldrb_unsigned(rt, rn, imm12):
+    """LDRB Wt, [Xn, #imm12] (unsigned offset)"""
+    assert 0 <= imm12 <= 0xFFF
+    return 0x39400000 | (imm12 << 10) | (rn << 5) | rt
+
+
 def _ldr_w_post(rt, rn, imm9):
     """LDR Wt, [Xn], #imm9 (post-indexed)"""
     return 0xB8400400 | ((imm9 & 0x1FF) << 12) | (rn << 5) | rt
@@ -232,6 +259,20 @@ ZNAM_PLT = 0x15a6fb0               # operator new[](_Znam) PLT entry
 TEXTOUT_MOV_OFFSET = 0x852f5c       # mov w1, w25 위치
 TEXTOUT_RETURN_OFFSET = 0x852f60    # bl GetSymbolCoords (리턴 지점)
 TRAMPOLINE_OFFSET = 0x1417a20       # Code cave 시작, 16바이트 정렬
+
+# ============================================================================
+# Phase 3b: Width/Caret 함수 CP949 디코딩 트램폴린
+# ============================================================================
+
+# CalculateVisibleStringLengthAndWidth: 문자열 폭 계산 (가운데 정렬 등에 필요)
+WIDTH_MOV_OFFSET = 0x8532d8          # mov w1, w24 위치
+WIDTH_RETURN_OFFSET = 0x8532dc       # 다음 명령어 (cmp w24, #0x20)
+WIDTH_TRAMPOLINE_OFFSET = 0x1417ae0  # Phase 2 훅 이후
+
+# UpdateCaret: 커서 위치 계산
+CARET_MOV_OFFSET = 0x853468          # mov w1, w23 위치
+CARET_RETURN_OFFSET = 0x85346c       # 다음 명령어 (str d9, [sp, #0x8])
+CARET_TRAMPOLINE_OFFSET = 0x1417b38  # Width 트램폴린 이후 (84 bytes = 0x54)
 
 
 # ============================================================================
@@ -475,6 +516,182 @@ def generate_trampoline(return_offset: int, trampoline_offset: int) -> bytes:
 
 
 # ============================================================================
+# Phase 3b: Width/Caret 트램폴린 생성
+# ============================================================================
+
+def generate_width_trampoline(trampoline_offset, return_offset):
+    """
+    CalculateVisibleStringLengthAndWidth용 CP949 디코딩 트램폴린
+
+    레지스터 (Width 함수 루프):
+        w24: 현재 바이트 (ldrb 결과)
+        w28: 루프 카운터 (32-bit)
+        x22: 문자열 베이스 포인터
+
+    출력:
+        w1: 글리프 인덱스 (GetSymbolCoords 인자)
+        w28: 한글이면 +1 (2바이트 처리)
+    """
+    code = []
+
+    # [0] mrs x12, nzcv - NZCV 플래그 저장
+    code.append(0xD53B420C)
+
+    # [1] mov w1, w24 - 기본값 (ASCII) - 원본 명령어
+    code.append(0x2A1803E1)
+
+    # [2] cmp w24, #0xB0 - CP949 lead byte 하한
+    code.append(_cmp_w_imm(24, 0xB0))
+
+    exit_idx = 19  # exit label 위치
+    # [3] b.lo exit
+    code.append(encode_bcond(3, (exit_idx - 3) * 4))
+
+    # [4] cmp w24, #0xC8 - CP949 lead byte 상한
+    code.append(_cmp_w_imm(24, 0xC8))
+
+    # [5] b.hi exit
+    code.append(encode_bcond(8, (exit_idx - 5) * 4))
+
+    # [6] add x13, x22, w28, sxtw - 문자열 포인터 재구성
+    code.append(_add_x_reg_sxtw(13, 22, 28))
+
+    # [7] ldrb w13, [x13, #1] - trail byte 읽기
+    code.append(_ldrb_unsigned(13, 13, 1))
+
+    # [8] cmp w13, #0xA1 - trail 하한
+    code.append(_cmp_w_imm(13, 0xA1))
+
+    # [9] b.lo exit
+    code.append(encode_bcond(3, (exit_idx - 9) * 4))
+
+    # [10] cmp w13, #0xFE - trail 상한
+    code.append(_cmp_w_imm(13, 0xFE))
+
+    # [11] b.hi exit
+    code.append(encode_bcond(8, (exit_idx - 11) * 4))
+
+    # glyph_index = 256 + (lead - 0xB0) * 94 + (trail - 0xA1)
+    # [12] sub w14, w24, #0xB0
+    code.append(_sub_w_imm(14, 24, 0xB0))
+
+    # [13] mov w15, #94
+    code.append(_movz_w(15, 94))
+
+    # [14] mul w14, w14, w15
+    code.append(_mul_w(14, 14, 15))
+
+    # [15] sub w13, w13, #0xA1
+    code.append(_sub_w_imm(13, 13, 0xA1))
+
+    # [16] add w14, w14, w13
+    code.append(_add_w_reg(14, 14, 13))
+
+    # [17] add x1, x14, #256
+    code.append(_add_x_imm(1, 14, 256))
+
+    # [18] add w28, w28, #1 (trail byte skip)
+    code.append(_add_w_imm(28, 28, 1))
+
+    # exit:
+    assert len(code) == exit_idx, f"exit_idx mismatch: {len(code)} != {exit_idx}"
+
+    # [19] msr nzcv, x12 - NZCV 복원
+    code.append(0xD51B420C)
+
+    # [20] b return
+    current_offset = trampoline_offset + len(code) * 4
+    code.append(encode_b_int(current_offset, return_offset))
+
+    return _instr_to_bytes(code)
+
+
+def generate_caret_trampoline(trampoline_offset, return_offset):
+    """
+    UpdateCaret용 CP949 디코딩 트램폴린
+
+    레지스터 (Caret 함수 루프):
+        w23: 현재 바이트 (ldrb 결과)
+        x25: 루프 카운터 (64-bit)
+        x21: 문자열 베이스 포인터
+
+    출력:
+        w1: 글리프 인덱스 (GetSymbolCoords 인자)
+        x25: 한글이면 +1 (2바이트 처리)
+    """
+    code = []
+
+    # [0] mrs x12, nzcv
+    code.append(0xD53B420C)
+
+    # [1] mov w1, w23 - 기본값 (ASCII) - 원본 명령어
+    code.append(0x2A1703E1)
+
+    # [2] cmp w23, #0xB0
+    code.append(_cmp_w_imm(23, 0xB0))
+
+    exit_idx = 19
+    # [3] b.lo exit
+    code.append(encode_bcond(3, (exit_idx - 3) * 4))
+
+    # [4] cmp w23, #0xC8
+    code.append(_cmp_w_imm(23, 0xC8))
+
+    # [5] b.hi exit
+    code.append(encode_bcond(8, (exit_idx - 5) * 4))
+
+    # [6] add x13, x21, x25 - 문자열 포인터 재구성
+    code.append(_add_x_reg(13, 21, 25))
+
+    # [7] ldrb w13, [x13, #1] - trail byte 읽기
+    code.append(_ldrb_unsigned(13, 13, 1))
+
+    # [8] cmp w13, #0xA1
+    code.append(_cmp_w_imm(13, 0xA1))
+
+    # [9] b.lo exit
+    code.append(encode_bcond(3, (exit_idx - 9) * 4))
+
+    # [10] cmp w13, #0xFE
+    code.append(_cmp_w_imm(13, 0xFE))
+
+    # [11] b.hi exit
+    code.append(encode_bcond(8, (exit_idx - 11) * 4))
+
+    # glyph_index = 256 + (lead - 0xB0) * 94 + (trail - 0xA1)
+    # [12] sub w14, w23, #0xB0
+    code.append(_sub_w_imm(14, 23, 0xB0))
+
+    # [13] mov w15, #94
+    code.append(_movz_w(15, 94))
+
+    # [14] mul w14, w14, w15
+    code.append(_mul_w(14, 14, 15))
+
+    # [15] sub w13, w13, #0xA1
+    code.append(_sub_w_imm(13, 13, 0xA1))
+
+    # [16] add w14, w14, w13
+    code.append(_add_w_reg(14, 14, 13))
+
+    # [17] add x1, x14, #256
+    code.append(_add_x_imm(1, 14, 256))
+
+    # [18] add x25, x25, #1 (trail byte skip, x25는 64-bit)
+    code.append(_add_x_imm(25, 25, 1))
+
+    # exit:
+    # [19] msr nzcv, x12
+    code.append(0xD51B420C)
+
+    # [20] b return
+    current_offset = trampoline_offset + len(code) * 4
+    code.append(encode_b_int(current_offset, return_offset))
+
+    return _instr_to_bytes(code)
+
+
+# ============================================================================
 # 메인 로직
 # ============================================================================
 
@@ -638,6 +855,65 @@ def apply_patches():
         else:
             print(f"  [!] 예상치 못한 값: {mov_bytes.hex()}")
 
+    # =========================================
+    # Phase 3b: Width/Caret 함수 CP949 트램폴린
+    # =========================================
+    print("\n=== Phase 3b: Width/Caret CP949 트램폴린 ===")
+
+    # --- Width (CalculateVisibleStringLengthAndWidth) ---
+    width_tramp = generate_width_trampoline(
+        trampoline_offset=WIDTH_TRAMPOLINE_OFFSET,
+        return_offset=WIDTH_RETURN_OFFSET,
+    )
+    print(f"  Width trampoline @ 0x{WIDTH_TRAMPOLINE_OFFSET:X}: "
+          f"{len(width_tramp)} bytes ({len(width_tramp) // 4} instrs)")
+
+    width_mov = bytes(data[WIDTH_MOV_OFFSET:WIDTH_MOV_OFFSET + 4])
+    expected_width_mov = bytes.fromhex('e103182a')  # mov w1, w24
+    patch_b_width = encode_b(WIDTH_MOV_OFFSET, WIDTH_TRAMPOLINE_OFFSET)
+
+    if width_mov == expected_width_mov:
+        data[WIDTH_TRAMPOLINE_OFFSET:WIDTH_TRAMPOLINE_OFFSET + len(width_tramp)] = width_tramp
+        data[WIDTH_MOV_OFFSET:WIDTH_MOV_OFFSET + 4] = patch_b_width
+        print(f"  [+] Width: mov w1, w24 → b width_trampoline")
+    elif width_mov == patch_b_width:
+        print(f"  [=] Width: 이미 패치됨")
+        data[WIDTH_TRAMPOLINE_OFFSET:WIDTH_TRAMPOLINE_OFFSET + len(width_tramp)] = width_tramp
+    else:
+        instr = int.from_bytes(width_mov, 'little')
+        if (instr >> 26) == 0b000101:
+            print(f"  [=] Width: 이미 b 명령으로 패치됨, 트램폴린 재삽입")
+            data[WIDTH_TRAMPOLINE_OFFSET:WIDTH_TRAMPOLINE_OFFSET + len(width_tramp)] = width_tramp
+        else:
+            print(f"  [!] Width: 예상치 못한 값 {width_mov.hex()}")
+
+    # --- Caret (UpdateCaret) ---
+    caret_tramp = generate_caret_trampoline(
+        trampoline_offset=CARET_TRAMPOLINE_OFFSET,
+        return_offset=CARET_RETURN_OFFSET,
+    )
+    print(f"  Caret trampoline @ 0x{CARET_TRAMPOLINE_OFFSET:X}: "
+          f"{len(caret_tramp)} bytes ({len(caret_tramp) // 4} instrs)")
+
+    caret_mov = bytes(data[CARET_MOV_OFFSET:CARET_MOV_OFFSET + 4])
+    expected_caret_mov = bytes.fromhex('e103172a')  # mov w1, w23
+    patch_b_caret = encode_b(CARET_MOV_OFFSET, CARET_TRAMPOLINE_OFFSET)
+
+    if caret_mov == expected_caret_mov:
+        data[CARET_TRAMPOLINE_OFFSET:CARET_TRAMPOLINE_OFFSET + len(caret_tramp)] = caret_tramp
+        data[CARET_MOV_OFFSET:CARET_MOV_OFFSET + 4] = patch_b_caret
+        print(f"  [+] Caret: mov w1, w23 → b caret_trampoline")
+    elif caret_mov == patch_b_caret:
+        print(f"  [=] Caret: 이미 패치됨")
+        data[CARET_TRAMPOLINE_OFFSET:CARET_TRAMPOLINE_OFFSET + len(caret_tramp)] = caret_tramp
+    else:
+        instr = int.from_bytes(caret_mov, 'little')
+        if (instr >> 26) == 0b000101:
+            print(f"  [=] Caret: 이미 b 명령으로 패치됨, 트램폴린 재삽입")
+            data[CARET_TRAMPOLINE_OFFSET:CARET_TRAMPOLINE_OFFSET + len(caret_tramp)] = caret_tramp
+        else:
+            print(f"  [!] Caret: 예상치 못한 값 {caret_mov.hex()}")
+
     # 저장
     with open(PATCHED, 'wb') as f:
         f.write(data)
@@ -646,7 +922,8 @@ def apply_patches():
     print(f"[+] 패치 완료: {PATCHED}")
     print(f"    Phase 1: 경계 확장 (256 → {KOREAN_GLYPH_COUNT})")
     print(f"    Phase 2: 폰트 베이킹 (256 → {TOTAL_GLYPH_COUNT} 글리프)")
-    print(f"    Phase 3: CP949 디코더 (inline trampoline)")
+    print(f"    Phase 3: CP949 디코더 (TextOut trampoline)")
+    print(f"    Phase 3b: CP949 디코더 (Width/Caret trampoline)")
     print(f"    Texture: 4096x4096, padding=16")
     print(f"{'=' * 60}")
 
@@ -748,6 +1025,37 @@ def check_status():
         print(f"  Trampoline @ 0x{TRAMPOLINE_OFFSET:X}: empty")
     else:
         print(f"  Trampoline @ 0x{TRAMPOLINE_OFFSET:X}: installed")
+
+    # Phase 3b (Width/Caret)
+    print("\nPhase 3b (Width/Caret):")
+    for name, mov_off, tramp_off, expected_hex in [
+        ("Width", WIDTH_MOV_OFFSET, WIDTH_TRAMPOLINE_OFFSET, 'e103182a'),
+        ("Caret", CARET_MOV_OFFSET, CARET_TRAMPOLINE_OFFSET, 'e103172a'),
+    ]:
+        mov_bytes = data[mov_off:mov_off + 4]
+        expected_mov = bytes.fromhex(expected_hex)
+        patch_b = encode_b(mov_off, tramp_off)
+        if mov_bytes == expected_mov:
+            status = "original"
+        elif mov_bytes == patch_b:
+            status = "patched [OK]"
+        else:
+            instr = int.from_bytes(mov_bytes, 'little')
+            if (instr >> 26) == 0b000101:
+                imm26 = instr & 0x3FFFFFF
+                if imm26 & (1 << 25):
+                    imm26 -= (1 << 26)
+                target_addr = mov_off + imm26 * 4
+                status = f"b 0x{target_addr:X}"
+            else:
+                status = f"unknown ({mov_bytes.hex()})"
+        print(f"  {name} @ 0x{mov_off:X}: {status}")
+
+        tramp_bytes = data[tramp_off:tramp_off + 4]
+        if tramp_bytes == b'\x00\x00\x00\x00':
+            print(f"  {name} trampoline @ 0x{tramp_off:X}: empty")
+        else:
+            print(f"  {name} trampoline @ 0x{tramp_off:X}: installed")
 
 
 def restore():
