@@ -24,7 +24,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 32778,Dialog,YESGAR,"Yesgar not dead yet, puny <race> runt!",예스가르 아직 안 죽었어. 쪼끄만 <race> 새끼!,M2Q1YESGAR,nw_d1_attonend02,,,,0,0
 32779,Dialog,YESGAR,Yesgar will tell you secret about young girl Shaldrissa. Then you let Yesgar live?,예스가르가 어린 계집 샬드리사 비밀 알려줄게. 그러면 예스가르 살려줄 거야?,M2Q1YESGAR,,,,,0,0
 32780,Dialog,YESGAR,Wait! Spare Yesgar's life!,잠깐! 예스가르 목숨 살려줘!,M2Q1YESGAR,,,,vs_fjalekm_058,0,0
-32781,Dialog,YESGAR,You are a kind and merciful <man/woman>! Life is better than ear. Wait... (slice) AH! That smarts.,넌 착하고 자비로운 <man/woman>이야! 목숨이 귀보다 낫지. 잠깐... (썩둑) 아앗! 따가워.,M2Q1YESGAR,m2q5yesgear,,,,0,0
+32781,Dialog,YESGAR,You are a kind and merciful <man/woman>! Life is better than ear. Wait... (slice) AH! That smarts.,넌 착하고 자비로운 <man/woman>야! 목숨이 귀보다 낫지. 잠깐... (썩둑) 아앗! 따가워.,M2Q1YESGAR,m2q5yesgear,,,,0,0
 32782,Dialog,YESGAR,Yesgar meet Shaldrissa when hiding out at Inn in Port Llast. She smitten with Yesgar's manly physique. She manipulate Yesgar into kidnapping her. ,예스가르 라스트 항구 여관에 숨어 있을 때 샬드리사 만났어. 걔가 예스가르 남자다운 몸에 반했어. 걔가 예스가르 꼬드겨서 자기 납치하게 만들었어.,M2Q1YESGAR,,,,,0,0
 32783,Dialog,YESGAR,"Yesgar tell truth! Shaldrissa want me to run away with her! She to blame, not Yesgar! She want money!","예스가르 진실 말해! 샬드리사가 같이 도망치자고 했어! 잘못은 걔 거야, 예스가르 아니야! 걔가 돈 원했어!",M2Q1YESGAR,m2q1yesgar001,,,,0,0
 32784,Dialog,YESGAR,"<StartCheck>[Success]</Start> Okay, don't hurt Yesgar! Me get Shaldrissa drunk. She so drunk she agree to all Yesgar's wants. Heh. She quite a feisty girl. ","<StartCheck>[성공]</Start> 알았어, 예스가르 때리지 마! 내가 샬드리사 취하게 했어. 걔 너무 취해서 예스가르 원하는 거 다 따랐어. 헤헤. 꽤 불같은 계집이야.",M2Q1YESGAR,,,,,0,0
