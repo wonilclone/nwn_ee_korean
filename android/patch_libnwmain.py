@@ -5,6 +5,7 @@ NWN:EE Android (arm64) libnwmain.so 한글 패치 스크립트
 Phase 1: GetSymbolCoords/SetSymbolCoords 경계 확장 (255 → 2613)
 Phase 2: CAuroraTTFTexture::Load 폰트 베이킹 확장 (256 → 2606 글리프)
 Phase 3: TextOut 내 CP949 디코더 (inline trampoline)
+Phase 4: Nuklear UI nk_draw_text CP949/Latin1→UTF-8 변환
 Texture: 텍스처 크기 4096x4096, 글리프 패딩 확장
 
 사용법:
@@ -120,6 +121,175 @@ def _ldrb_unsigned(rt, rn, imm12):
     """LDRB Wt, [Xn, #imm12] (unsigned offset)"""
     assert 0 <= imm12 <= 0xFFF
     return 0x39400000 | (imm12 << 10) | (rn << 5) | rt
+
+
+def _mov_w(rd, rm):
+    """MOV Wd, Wm (ORR Wd, WZR, Wm)"""
+    return 0x2A0003E0 | (rm << 16) | rd
+
+
+def _sub_x_imm(rd, rn, imm12):
+    """SUB Xd, Xn, #imm12"""
+    assert 0 <= imm12 <= 0xFFF
+    return 0xD1000000 | (imm12 << 10) | (rn << 5) | rd
+
+
+def _sub_x_reg(rd, rn, rm):
+    """SUB Xd, Xn, Xm"""
+    return 0xCB000000 | (rm << 16) | (rn << 5) | rd
+
+
+def _add_x_w_uxtw(rd, rn, rm):
+    """ADD Xd, Xn, Wm, UXTW (zero-extend W to X)"""
+    return 0x8B204000 | (rm << 16) | (rn << 5) | rd
+
+
+def _add_x_x_lsl(rd, rn, rm, shift):
+    """ADD Xd, Xn, Xm, LSL #shift"""
+    assert 0 <= shift <= 63
+    return 0x8B000000 | (rm << 16) | (shift << 10) | (rn << 5) | rd
+
+
+def _cmp_x_reg(rn, rm):
+    """CMP Xn, Xm (SUBS XZR, Xn, Xm)"""
+    return 0xEB00001F | (rm << 16) | (rn << 5)
+
+
+def _lsr_w(rd, rn, shift):
+    """LSR Wd, Wn, #shift (UBFM Wd, Wn, #shift, #31)"""
+    assert 0 < shift < 32
+    return 0x53007C00 | (shift << 16) | (rn << 5) | rd
+
+
+def _and_w_0x3F(rd, rn):
+    """AND Wd, Wn, #0x3F (bitmask: N=0, immr=0, imms=5)"""
+    return 0x12001400 | (rn << 5) | rd
+
+
+def _and_w_0xC0(rd, rn):
+    """AND Wd, Wn, #0xC0 (bitmask: N=0, immr=26, imms=1)"""
+    return 0x121A0400 | (rn << 5) | rd
+
+
+def _tbz_w(rt, bit, offset):
+    """TBZ Wt, #bit, label (test bit and branch if zero)"""
+    assert offset % 4 == 0
+    imm14 = (offset // 4) & 0x3FFF
+    return 0x36000000 | (bit << 19) | (imm14 << 5) | rt
+
+
+def _cbz_w(rt, offset):
+    """CBZ Wt, label"""
+    assert offset % 4 == 0
+    imm19 = (offset // 4) & 0x7FFFF
+    return 0x34000000 | (imm19 << 5) | rt
+
+
+def _cbnz_w(rt, offset):
+    """CBNZ Wt, label"""
+    assert offset % 4 == 0
+    imm19 = (offset // 4) & 0x7FFFF
+    return 0x35000000 | (imm19 << 5) | rt
+
+
+def _strb_post(rt, rn, imm9):
+    """STRB Wt, [Xn], #imm9 (post-indexed)"""
+    return 0x38000400 | ((imm9 & 0x1FF) << 12) | (rn << 5) | rt
+
+
+def _strb_unsigned(rt, rn, imm12):
+    """STRB Wt, [Xn, #imm12]"""
+    assert 0 <= imm12 <= 0xFFF
+    return 0x39000000 | (imm12 << 10) | (rn << 5) | rt
+
+
+def _ldrh_unsigned(rt, rn, imm):
+    """LDRH Wt, [Xn, #imm] (unsigned offset, imm in bytes, scaled by 2)"""
+    assert imm % 2 == 0
+    imm12 = imm // 2
+    assert 0 <= imm12 <= 0xFFF
+    return 0x79400000 | (imm12 << 10) | (rn << 5) | rt
+
+
+def _strh_post(rt, rn, imm9):
+    """STRH Wt, [Xn], #imm9 (post-indexed)"""
+    return 0x78000400 | ((imm9 & 0x1FF) << 12) | (rn << 5) | rt
+
+
+def _str_x_unsigned(rt, rn, byte_offset):
+    """STR Xt, [Xn, #offset] (unsigned, scaled by 8)"""
+    assert byte_offset % 8 == 0
+    imm12 = byte_offset // 8
+    assert 0 <= imm12 <= 0xFFF
+    return 0xF9000000 | (imm12 << 10) | (rn << 5) | rt
+
+
+def _str_w_unsigned(rt, rn, byte_offset):
+    """STR Wt, [Xn, #offset] (unsigned, scaled by 4)"""
+    assert byte_offset % 4 == 0
+    imm12 = byte_offset // 4
+    assert 0 <= imm12 <= 0xFFF
+    return 0xB9000000 | (imm12 << 10) | (rn << 5) | rt
+
+
+def _ldr_x_unsigned(rt, rn, byte_offset):
+    """LDR Xt, [Xn, #offset] (unsigned, scaled by 8)"""
+    assert byte_offset % 8 == 0
+    imm12 = byte_offset // 8
+    assert 0 <= imm12 <= 0xFFF
+    return 0xF9400000 | (imm12 << 10) | (rn << 5) | rt
+
+
+def _ldr_w_unsigned(rt, rn, byte_offset):
+    """LDR Wt, [Xn, #offset] (unsigned, scaled by 4)"""
+    assert byte_offset % 4 == 0
+    imm12 = byte_offset // 4
+    assert 0 <= imm12 <= 0xFFF
+    return 0xB9400000 | (imm12 << 10) | (rn << 5) | rt
+
+
+# STP/LDP 64-bit integer registers (signed offset)
+def _stp_x_offset(rt, rt2, rn, byte_offset):
+    """STP Xt, Xt2, [Xn, #offset]"""
+    imm7 = byte_offset // 8
+    assert -64 <= imm7 <= 63
+    return 0xA9000000 | ((imm7 & 0x7F) << 15) | (rt2 << 10) | (rn << 5) | rt
+
+
+def _ldp_x_offset(rt, rt2, rn, byte_offset):
+    """LDP Xt, Xt2, [Xn, #offset]"""
+    imm7 = byte_offset // 8
+    assert -64 <= imm7 <= 63
+    return 0xA9400000 | ((imm7 & 0x7F) << 15) | (rt2 << 10) | (rn << 5) | rt
+
+
+def _stp_x_pre(rt, rt2, rn, byte_offset):
+    """STP Xt, Xt2, [Xn, #offset]! (pre-indexed)"""
+    imm7 = byte_offset // 8
+    assert -64 <= imm7 <= 63
+    return 0xA9800000 | ((imm7 & 0x7F) << 15) | (rt2 << 10) | (rn << 5) | rt
+
+
+def _ldp_x_post(rt, rt2, rn, byte_offset):
+    """LDP Xt, Xt2, [Xn], #offset (post-indexed)"""
+    imm7 = byte_offset // 8
+    assert -64 <= imm7 <= 63
+    return 0xA8C00000 | ((imm7 & 0x7F) << 15) | (rt2 << 10) | (rn << 5) | rt
+
+
+# STP/LDP 64-bit SIMD (D registers, signed offset)
+def _stp_d_offset(rt, rt2, rn, byte_offset):
+    """STP Dt, Dt2, [Xn, #offset]"""
+    imm7 = byte_offset // 8
+    assert -64 <= imm7 <= 63
+    return 0x6D000000 | ((imm7 & 0x7F) << 15) | (rt2 << 10) | (rn << 5) | rt
+
+
+def _ldp_d_offset(rt, rt2, rn, byte_offset):
+    """LDP Dt, Dt2, [Xn, #offset]"""
+    imm7 = byte_offset // 8
+    assert -64 <= imm7 <= 63
+    return 0x6D400000 | ((imm7 & 0x7F) << 15) | (rt2 << 10) | (rn << 5) | rt
 
 
 def _ldr_w_post(rt, rn, imm9):
@@ -273,6 +443,43 @@ WIDTH_TRAMPOLINE_OFFSET = 0x1417ae0  # Phase 2 훅 이후
 CARET_MOV_OFFSET = 0x853468          # mov w1, w23 위치
 CARET_RETURN_OFFSET = 0x85346c       # 다음 명령어 (str d9, [sp, #0x8])
 CARET_TRAMPOLINE_OFFSET = 0x1417b38  # Width 트램폴린 이후 (84 bytes = 0x54)
+
+# ============================================================================
+# Phase 4: Nuklear UI nk_draw_text 훅
+# ============================================================================
+#
+# NK UI 텍스트는 CP949 또는 Latin-1-corrupted UTF-8로 도착.
+# nk_draw_text를 후킹하여 UTF-8로 변환.
+#
+# nk_draw_text 시그니처 (AAPCS64):
+#   x0: cmd_buffer, s0-s3(d0-d3): rect, x1: text, w2: len,
+#   x3: font, w4: bg_color, w5: fg_color
+#
+NK_DRAW_TEXT_OFFSET = 0x121F09C        # nk_draw_text 시작
+NK_DRAW_TEXT_PROLOGUE = 0xD10243FF     # sub sp, sp, #0x90 (원본 첫 명령)
+NK_DRAW_TEXT_RETURN = 0x121F0A0        # nk_draw_text + 4
+NK_HOOK_OFFSET = 0x1417b90             # 코드 케이브 (Caret 트램폴린 이후)
+
+# nk_sdl_refresh_config: 한글 글리프 로드를 위한 폰트 아틀라스 재빌드
+NK_SDL_REFRESH_CONFIG = 0x1240420
+
+# nk_sdl_refresh_config 내부 글리프 범위 선택 패치
+# locale==3(Korean)일 때 사용하는 글리프 범위 테이블:
+#   원본 0x6760F8: {0x0020, 0x00FF, 0x0000} (ASCII만)
+#   수정 0x676154: {0x0020, 0x00FF, 0x3131, 0x3163, 0xAC00, 0xD79D, 0x0000} (한글 포함)
+# 패치: add x26, x26, #0xF8 → add x26, x26, #0x154
+NK_GLYPH_RANGE_OFFSET = 0x12406C4
+NK_GLYPH_RANGE_ORIGINAL = 0x9103E35A  # add x26, x26, #0xF8  (ASCII-only range)
+NK_GLYPH_RANGE_PATCHED = 0x9105535A   # add x26, x26, #0x154 (Korean glyph range)
+
+# Encoding::g_DefaultLocale (.data 섹션)
+# nk_sdl_refresh_config에서 locale==3 체크하여 Korean glyph range 선택
+G_DEFAULT_LOCALE_VA = 0x16A0C10
+G_DEFAULT_LOCALE_FILE = 0x169EC10
+
+# NOTE: .data 고정 버퍼(0x16A63E0)는 런타임에 전역변수와 충돌하여 크래시 유발.
+# UTF-8 변환 버퍼는 스택에 할당 (generate_nk_hook 참조).
+NK_UTF8_BUF_VA = 0x16A63E0            # 미사용 (스택 버퍼로 대체됨, 호환용)
 
 
 # ============================================================================
@@ -692,6 +899,397 @@ def generate_caret_trampoline(trampoline_offset, return_offset):
 
 
 # ============================================================================
+# Phase 4: Nuklear UI nk_draw_text 훅 코드 생성
+# ============================================================================
+
+def generate_nk_hook(hook_base, return_addr, utf8_buf_va, delta_table_va):
+    """
+    nk_draw_text 훅: CP949/Latin-1-corrupted → UTF-8 변환
+
+    nk_draw_text(x0=cmd_buf, d0-d3=rect, x1=text, w2=len, x3=font, w4=bg, w5=fg)
+    - 첫 명령어 (sub sp, sp, #0x90) 를 B hook 으로 교체
+    - 훅에서 텍스트를 스캔하고 비ASCII 발견 시 UTF-8로 변환
+    - 변환된 텍스트로 x1/w2 교체 후 원본 프롤로그 실행 → nk_draw_text+4
+    - 글리프 범위/locale은 바이너리 패치로 설정 (런타임 init 불필요)
+
+    레지스터:
+      callee-saved (BL에서 보존): x19, x20
+      caller-saved temps: x9-x18
+      SP: stack pointer (31)
+
+    스택 프레임 (0x80 bytes):
+      [sp+0x00]: x29, x30
+      [sp+0x10]: x0, x1
+      [sp+0x20]: x2, x3
+      [sp+0x30]: x4, x5
+      [sp+0x40]: d0, d1
+      [sp+0x50]: d2, d3
+      [sp+0x60]: x19, x20
+      [sp+0x70]: (unused padding)
+    """
+    code = []
+    # 라벨 위치를 나중에 패치할 수 있도록 placeholder 사용
+    # 먼저 모든 명령어를 리스트에 추가한 뒤, 라벨 참조를 패치
+
+    # ===== 프롤로그: 스택 버퍼 할당 + 레지스터 저장 =====
+    # 스택 레이아웃:
+    #   [sp+0x00]: x29, x30  (saved regs frame 0x80 bytes)
+    #   [sp+0x10]: x0, x1
+    #   [sp+0x20]: x2, x3
+    #   [sp+0x30]: x4, x5
+    #   [sp+0x40]: d0, d1
+    #   [sp+0x50]: d2, d3
+    #   [sp+0x60]: x19, x20
+    #   [sp+0x80]: UTF-8 변환 버퍼 (0x800 = 2048 bytes)
+    # 총 할당: 0x80 + 0x800 = 0x880
+    code.append(_sub_x_imm(31, 31, 0x800))            # sub sp, sp, #0x800 (버퍼 공간)
+    code.append(_stp_x_pre(29, 30, 31, -0x80))       # stp x29, x30, [sp, #-0x80]!
+    code.append(_stp_x_offset(0, 1, 31, 0x10))       # stp x0, x1, [sp, #0x10]
+    code.append(_stp_x_offset(2, 3, 31, 0x20))       # stp x2, x3, [sp, #0x20]
+    code.append(_stp_x_offset(4, 5, 31, 0x30))       # stp x4, x5, [sp, #0x30]
+    code.append(_stp_d_offset(0, 1, 31, 0x40))       # stp d0, d1, [sp, #0x40]
+    code.append(_stp_d_offset(2, 3, 31, 0x50))       # stp d2, d3, [sp, #0x50]
+    code.append(_stp_x_offset(19, 20, 31, 0x60))     # stp x19, x20, [sp, #0x60]
+
+    # ===== 비ASCII 빠른 스캔 =====
+    # 바이너리 패치로 글리프 범위/locale을 설정하므로 런타임 init 호출 불필요
+    # nk_sdl_refresh_config는 게임 초기화 시 자동 호출됨
+    code.append(_ldr_x_unsigned(9, 31, 0x18))         # ldr x9, [sp, #0x18] (orig x1)
+    code.append(_ldr_w_unsigned(10, 31, 0x20))        # ldr w10, [sp, #0x20] (orig w2)
+    LBL_NO_CONVERT = 'no_convert'
+    code.append((_cbz_w, 10, LBL_NO_CONVERT))         # cbz w10, no_convert
+    # 버퍼 오버플로우 방지: 입력이 1300바이트 초과 시 변환 건너뛰기
+    # (CP949 2byte→UTF-8 3byte = 1.5x 확장, 1300*1.5=1950 < 4096)
+    code.append(_cmp_w_imm(10, 1300))                   # cmp w10, #1300
+    code.append((encode_bcond, 8, LBL_NO_CONVERT))      # b.hi no_convert
+    code.append(_add_x_w_uxtw(11, 9, 10))            # add x11, x9, w10, uxtw (end ptr)
+
+    LBL_SCAN = len(code)
+    code.append(_cmp_x_reg(9, 11))                    # cmp x9, x11
+    code.append((encode_bcond, 2, LBL_NO_CONVERT))    # b.hs no_convert
+    code.append(_ldrb_post(12, 9, 1))                 # ldrb w12, [x9], #1
+    code.append((_tbz_w, 12, 7, LBL_SCAN))            # tbz w12, #7, scan_loop
+    # 비ASCII 바이트 발견 (w12 = 해당 바이트)
+
+    # ===== 버퍼/테이블 주소 로드 =====
+    # 버퍼: 스택 버퍼 사용 (sp + 0x80)
+    code.append(_add_x_imm(19, 31, 0x80))               # add x19, sp, #0x80 (stack buffer)
+
+    idx = len(code)
+    code.append(_adrp(20, hook_base + idx * 4, delta_table_va))
+    code.append(_add_x_imm(20, 20, delta_table_va & 0xFFF))
+
+    # ===== 변환 초기화 =====
+    code.append(_ldr_x_unsigned(9, 31, 0x18))         # ldr x9, [sp, #0x18] (orig x1=text)
+    code.append(_ldr_w_unsigned(11, 31, 0x20))        # ldr w11, [sp, #0x20] (orig w2=len)
+    code.append(_add_x_w_uxtw(11, 9, 11))            # add x11, x9, w11, uxtw (src end)
+    code.append(_mov_x(10, 19))                       # mov x10, x19 (dst ptr = buf)
+
+    # ===== 메인 변환 루프 =====
+    LBL_CONVERT = len(code)
+    code.append(_cmp_x_reg(9, 11))                    # [22] cmp x9, x11
+    LBL_CONVERT_DONE = 'convert_done'
+    code.append((encode_bcond, 2, LBL_CONVERT_DONE))  # [23] b.hs convert_done (placeholder)
+
+    code.append(_ldrb_unsigned(12, 9, 0))             # [24] ldrb w12, [x9]
+
+    # --- ASCII 체크 ---
+    LBL_ASCII = 'ascii'
+    code.append((_tbz_w, 12, 7, LBL_ASCII))           # [25] tbz w12, #7, ascii (placeholder)
+
+    # --- Latin-1 corrupted 체크 (C2/C3 XX) ---
+    LBL_LATIN1 = 'latin1'
+    code.append(_cmp_w_imm(12, 0xC2))                 # [26] cmp w12, #0xC2
+    code.append((encode_bcond, 0, LBL_LATIN1))        # [27] b.eq latin1 (placeholder)
+    code.append(_cmp_w_imm(12, 0xC3))                 # [28] cmp w12, #0xC3
+    code.append((encode_bcond, 0, LBL_LATIN1))        # [29] b.eq latin1 (placeholder)
+
+    # --- 기존 UTF-8 3바이트 (E0-EF) ---
+    LBL_CHECK_CP949 = 'check_cp949'
+    code.append(_cmp_w_imm(12, 0xE0))                 # [30] cmp w12, #0xE0
+    code.append((encode_bcond, 3, LBL_CHECK_CP949))   # [31] b.lo check_cp949 (placeholder)
+    code.append(_cmp_w_imm(12, 0xEF))                 # [32] cmp w12, #0xEF
+    code.append((encode_bcond, 8, LBL_CHECK_CP949))   # [33] b.hi check_cp949 (placeholder)
+
+    # 3바이트 UTF-8: 그대로 복사
+    code.append(_strb_post(12, 10, 1))                # [34] strb w12, [x10], #1
+    code.append(_add_x_imm(9, 9, 1))                  # [35] add x9, x9, #1
+    code.append(_cmp_x_reg(9, 11))                    # [36] cmp x9, x11
+    code.append((encode_bcond, 2, LBL_CONVERT_DONE))  # [37] b.hs convert_done
+    code.append(_ldrb_post(12, 9, 1))                 # [38] ldrb w12, [x9], #1
+    code.append(_strb_post(12, 10, 1))                # [39] strb w12, [x10], #1
+    code.append(_cmp_x_reg(9, 11))                    # [40] cmp x9, x11
+    code.append((encode_bcond, 2, LBL_CONVERT_DONE))  # [41] b.hs convert_done
+    code.append(_ldrb_post(12, 9, 1))                 # [42] ldrb w12, [x9], #1
+    code.append(_strb_post(12, 10, 1))                # [43] strb w12, [x10], #1
+    code.append((encode_b_int, LBL_CONVERT))           # [44] b convert_loop
+
+    # --- raw CP949 체크 (B0-C8 XX) ---
+    LBL_CHECK_CP949_IDX = len(code)
+    LBL_OTHER = 'other_byte'
+    code.append(_cmp_w_imm(12, 0xB0))                 # [45] cmp w12, #0xB0
+    code.append((encode_bcond, 3, LBL_OTHER))          # [46] b.lo other_byte
+    code.append(_cmp_w_imm(12, 0xC8))                 # [47] cmp w12, #0xC8
+    code.append((encode_bcond, 8, LBL_OTHER))          # [48] b.hi other_byte
+    # trail byte 확인
+    code.append(_add_x_imm(13, 9, 1))                 # [49] add x13, x9, #1
+    code.append(_cmp_x_reg(13, 11))                    # [50] cmp x13, x11
+    code.append((encode_bcond, 2, LBL_OTHER))          # [51] b.hs other_byte
+    code.append(_ldrb_unsigned(14, 13, 0))             # [52] ldrb w14, [x13]
+    code.append(_cmp_w_imm(14, 0xA1))                 # [53] cmp w14, #0xA1
+    code.append((encode_bcond, 3, LBL_OTHER))          # [54] b.lo other_byte
+    code.append(_cmp_w_imm(14, 0xFE))                 # [55] cmp w14, #0xFE
+    code.append((encode_bcond, 8, LBL_OTHER))          # [56] b.hi other_byte
+    # 유효한 CP949 쌍: w12=lead, w14=trail
+    code.append(_add_x_imm(9, 9, 2))                  # [57] add x9, x9, #2
+    LBL_CP949_UTF8 = 'cp949_to_utf8'
+    code.append((encode_b_int, LBL_CP949_UTF8))        # [58] b cp949_to_utf8
+
+    # --- Latin-1 디코딩 ---
+    LBL_LATIN1_IDX = len(code)
+    LBL_RE_ENCODE = 're_encode'
+    # C2/C3 다음 continuation byte (80-BF)
+    code.append(_add_x_imm(13, 9, 1))                 # [59] add x13, x9, #1
+    code.append(_cmp_x_reg(13, 11))                    # [60] cmp x13, x11
+    code.append((encode_bcond, 2, LBL_OTHER))          # [61] b.hs other_byte
+    code.append(_ldrb_unsigned(14, 13, 0))             # [62] ldrb w14, [x13]
+    code.append(_and_w_0xC0(15, 14))                   # [63] and w15, w14, #0xC0
+    code.append(_cmp_w_imm(15, 0x80))                  # [64] cmp w15, #0x80
+    code.append((encode_bcond, 1, LBL_OTHER))          # [65] b.ne other_byte
+
+    # 디코딩: C2 XX → w15=XX(0x80-0xBF), C3 XX → w15=XX+0x40(0xC0-0xFF)
+    code.append(_mov_w(15, 14))                        # [66] mov w15, w14
+    code.append(_cmp_w_imm(12, 0xC3))                 # [67] cmp w12, #0xC3
+    LBL_DECODED = 'decoded'
+    code.append((encode_bcond, 1, LBL_DECODED))        # [68] b.ne decoded (C2 case)
+    code.append(_add_w_imm(15, 14, 0x40))             # [69] add w15, w14, #0x40 (C3 case)
+
+    # w15 = 디코딩된 바이트 (0x80-0xFF)
+    LBL_DECODED_IDX = len(code)
+    # CP949 lead인지 확인 (B0-C8)
+    code.append(_cmp_w_imm(15, 0xB0))                 # [70] cmp w15, #0xB0
+    code.append((encode_bcond, 3, LBL_RE_ENCODE))      # [71] b.lo re_encode
+    code.append(_cmp_w_imm(15, 0xC8))                 # [72] cmp w15, #0xC8
+    code.append((encode_bcond, 8, LBL_RE_ENCODE))      # [73] b.hi re_encode
+
+    # CP949 lead 발견. 다음 C2/C3 쌍에서 trail 디코딩
+    code.append(_add_x_imm(13, 9, 2))                 # [74] add x13, x9, #2
+    code.append(_cmp_x_reg(13, 11))                    # [75] cmp x13, x11
+    code.append((encode_bcond, 2, LBL_RE_ENCODE))      # [76] b.hs re_encode
+    code.append(_add_x_imm(16, 9, 3))                 # [77] add x16, x9, #3
+    code.append(_cmp_x_reg(16, 11))                    # [78] cmp x16, x11
+    code.append((encode_bcond, 2, LBL_RE_ENCODE))      # [79] b.hs re_encode
+    code.append(_ldrb_unsigned(16, 13, 0))             # [80] ldrb w16, [x13] (C2/C3?)
+    code.append(_ldrb_unsigned(17, 13, 1))             # [81] ldrb w17, [x13, #1] (cont byte)
+    # continuation 확인
+    code.append(_and_w_0xC0(18, 17))                   # [82] and w18, w17, #0xC0
+    code.append(_cmp_w_imm(18, 0x80))                  # [83] cmp w18, #0x80
+    code.append((encode_bcond, 1, LBL_RE_ENCODE))      # [84] b.ne re_encode
+    # C2/C3 확인 후 디코딩
+    code.append(_cmp_w_imm(16, 0xC2))                 # [85] cmp w16, #0xC2
+    LBL_TRAIL_C2 = 'trail_c2'
+    code.append((encode_bcond, 0, LBL_TRAIL_C2))       # [86] b.eq trail_c2
+    code.append(_cmp_w_imm(16, 0xC3))                 # [87] cmp w16, #0xC3
+    code.append((encode_bcond, 1, LBL_RE_ENCODE))      # [88] b.ne re_encode
+    # C3: trail = w17 + 0x40
+    code.append(_add_w_imm(14, 17, 0x40))             # [89] add w14, w17, #0x40
+    LBL_TRAIL_CHECK = 'trail_check'
+    code.append((encode_b_int, LBL_TRAIL_CHECK))        # [90] b trail_check
+
+    # trail_c2: trail = w17
+    LBL_TRAIL_C2_IDX = len(code)
+    code.append(_mov_w(14, 17))                        # [91] mov w14, w17
+
+    # trail_check: trail 범위 확인 (A1-FE)
+    LBL_TRAIL_CHECK_IDX = len(code)
+    code.append(_cmp_w_imm(14, 0xA1))                 # [92] cmp w14, #0xA1
+    code.append((encode_bcond, 3, LBL_RE_ENCODE))      # [93] b.lo re_encode
+    code.append(_cmp_w_imm(14, 0xFE))                 # [94] cmp w14, #0xFE
+    code.append((encode_bcond, 8, LBL_RE_ENCODE))      # [95] b.hi re_encode
+
+    # Latin-1-corrupted CP949 쌍 확인! w15=lead, w14=trail
+    code.append(_mov_w(12, 15))                        # [96] mov w12, w15 (lead)
+    code.append(_add_x_imm(9, 9, 4))                  # [97] add x9, x9, #4 (4바이트 consumed)
+    code.append((encode_b_int, LBL_CP949_UTF8))        # [98] b cp949_to_utf8
+
+    # --- re_encode: 디코딩 바이트를 UTF-8로 재인코딩 ---
+    LBL_RE_ENCODE_IDX = len(code)
+    # w15 = 디코딩 바이트 (0x80-0xFF)
+    code.append(_cmp_w_imm(15, 0xC0))                 # [99] cmp w15, #0xC0
+    LBL_RE_C3 = 're_c3'
+    code.append((encode_bcond, 2, LBL_RE_C3))          # [100] b.hs re_c3
+    # 0x80-0xBF: UTF-8 = C2 XX
+    code.append(_movz_w(16, 0xC2))                     # [101] mov w16, #0xC2
+    code.append(_strb_post(16, 10, 1))                 # [102] strb w16, [x10], #1
+    code.append(_strb_post(15, 10, 1))                 # [103] strb w15, [x10], #1
+    code.append(_add_x_imm(9, 9, 2))                  # [104] add x9, x9, #2
+    code.append((encode_b_int, LBL_CONVERT))            # [105] b convert_loop
+
+    # re_c3: 0xC0-0xFF: UTF-8 = C3 (XX-0x40)
+    LBL_RE_C3_IDX = len(code)
+    code.append(_movz_w(16, 0xC3))                     # [106] mov w16, #0xC3
+    code.append(_strb_post(16, 10, 1))                 # [107] strb w16, [x10], #1
+    code.append(_sub_w_imm(15, 15, 0x40))              # [108] sub w15, w15, #0x40
+    code.append(_strb_post(15, 10, 1))                 # [109] strb w15, [x10], #1
+    code.append(_add_x_imm(9, 9, 2))                  # [110] add x9, x9, #2
+    code.append((encode_b_int, LBL_CONVERT))            # [111] b convert_loop
+
+    # --- ascii: 그대로 복사 ---
+    LBL_ASCII_IDX = len(code)
+    code.append(_strb_post(12, 10, 1))                 # [112] strb w12, [x10], #1
+    code.append(_add_x_imm(9, 9, 1))                  # [113] add x9, x9, #1
+    code.append((encode_b_int, LBL_CONVERT))            # [114] b convert_loop
+
+    # --- other_byte: 알 수 없는 바이트 그대로 복사 ---
+    LBL_OTHER_IDX = len(code)
+    code.append(_strb_post(12, 10, 1))                 # [115] strb w12, [x10], #1
+    code.append(_add_x_imm(9, 9, 1))                  # [116] add x9, x9, #1
+    code.append((encode_b_int, LBL_CONVERT))            # [117] b convert_loop
+
+    # --- cp949_to_utf8: CP949 쌍 → UTF-8 변환 ---
+    # w12=lead(B0-C8), w14=trail(A1-FE)
+    LBL_CP949_UTF8_IDX = len(code)
+    # index = (lead-0xB0)*94 + (trail-0xA1)
+    code.append(_sub_w_imm(15, 12, 0xB0))             # [118] sub w15, w12, #0xB0
+    code.append(_movz_w(16, 94))                       # [119] mov w16, #94
+    code.append(_mul_w(15, 15, 16))                    # [120] mul w15, w15, w16
+    code.append(_sub_w_imm(16, 14, 0xA1))             # [121] sub w16, w14, #0xA1
+    code.append(_add_w_reg(15, 15, 16))                # [122] add w15, w15, w16 (index)
+
+    # 델타 테이블에서 유니코드 코드포인트 조회
+    # x20 = delta_table, first 2 bytes = base codepoint, then delta bytes
+    code.append(_ldrh_unsigned(16, 20, 0))             # [123] ldrh w16, [x20] (base: 0xAC00)
+    LBL_DELTA_DONE = 'delta_done'
+    code.append((_cbz_w, 15, LBL_DELTA_DONE))          # [124] cbz w15, delta_done (index=0)
+    code.append(_add_x_imm(17, 20, 2))                # [125] add x17, x20, #2 (delta start)
+    code.append(_movz_w(18, 0))                        # [126] mov w18, #0
+
+    LBL_WALK = len(code)
+    code.append(_ldrb_post(13, 17, 1))                 # [127] ldrb w13, [x17], #1
+    code.append(_add_w_reg(16, 16, 13))                # [128] add w16, w16, w13
+    code.append(_add_w_imm(18, 18, 1))                # [129] add w18, w18, #1
+    code.append(_cmp_w_imm(0, 0))                      # [130] placeholder for cmp
+    code.append((encode_bcond, 3, LBL_WALK))            # [131] b.lo walk (placeholder)
+    # [130]을 실제 cmp w18, w15로 교체
+    code[-2] = 'CMP_W18_W15'  # 마커
+
+    # delta_done: w16 = 유니코드 코드포인트
+    LBL_DELTA_DONE_IDX = len(code)
+    # UTF-8 인코딩 (3바이트: 1110xxxx 10xxxxxx 10xxxxxx)
+    code.append(_lsr_w(13, 16, 12))                    # [132] lsr w13, w16, #12
+    code.append(_add_w_imm(13, 13, 0xE0))             # [133] add w13, w13, #0xE0
+    code.append(_strb_post(13, 10, 1))                 # [134] strb w13, [x10], #1
+    code.append(_lsr_w(13, 16, 6))                     # [135] lsr w13, w16, #6
+    code.append(_and_w_0x3F(13, 13))                   # [136] and w13, w13, #0x3F
+    code.append(_add_w_imm(13, 13, 0x80))             # [137] add w13, w13, #0x80
+    code.append(_strb_post(13, 10, 1))                 # [138] strb w13, [x10], #1
+    code.append(_and_w_0x3F(13, 16))                   # [139] and w13, w16, #0x3F
+    code.append(_add_w_imm(13, 13, 0x80))             # [140] add w13, w13, #0x80
+    code.append(_strb_post(13, 10, 1))                 # [141] strb w13, [x10], #1
+    code.append((encode_b_int, LBL_CONVERT))            # [142] b convert_loop
+
+    # ===== convert_done: 변환 완료 =====
+    LBL_CONVERT_DONE_IDX = len(code)
+    code.append(_strb_unsigned(31, 10, 0))             # [143] strb wzr, [x10] (null terminate)
+    code.append(_sub_x_reg(10, 10, 19))                # [144] sub x10, x10, x19 (len = dst - base)
+    # 스택의 x1, w2 덮어쓰기
+    code.append(_str_x_unsigned(19, 31, 0x18))         # [145] str x19, [sp, #0x18] (x1 = buf)
+    code.append(_str_w_unsigned(10, 31, 0x20))         # [146] str w10, [sp, #0x20] (w2 = len)
+
+    # ===== no_convert: 에필로그 =====
+    LBL_NO_CONVERT_IDX = len(code)
+    code.append(_ldp_x_offset(19, 20, 31, 0x60))      # [147] ldp x19, x20, [sp, #0x60]
+    code.append(_ldp_x_offset(0, 1, 31, 0x10))        # [148] ldp x0, x1, [sp, #0x10]
+    code.append(_ldp_x_offset(2, 3, 31, 0x20))        # [149] ldp x2, x3, [sp, #0x20]
+    code.append(_ldp_x_offset(4, 5, 31, 0x30))        # [150] ldp x4, x5, [sp, #0x30]
+    code.append(_ldp_d_offset(0, 1, 31, 0x40))        # [151] ldp d0, d1, [sp, #0x40]
+    code.append(_ldp_d_offset(2, 3, 31, 0x50))        # [152] ldp d2, d3, [sp, #0x50]
+    code.append(_ldp_x_post(29, 30, 31, 0x80))        # ldp x29, x30, [sp], #0x80
+    code.append(_add_x_imm(31, 31, 0x800))             # add sp, sp, #0x800 (버퍼 스택 해제)
+    # 원본 프롤로그 실행
+    code.append(_sub_x_imm(31, 31, 0x90))              # sub sp, sp, #0x90
+    # nk_draw_text+4로 복귀
+    code.append(('B_RETURN',))                          # [155] b nk_draw_text+4
+
+    # ===== 라벨 테이블 구축 =====
+    labels = {
+        LBL_NO_CONVERT: LBL_NO_CONVERT_IDX,
+        LBL_CONVERT_DONE: LBL_CONVERT_DONE_IDX,
+        LBL_ASCII: LBL_ASCII_IDX,
+        LBL_OTHER: LBL_OTHER_IDX,
+        LBL_CHECK_CP949: LBL_CHECK_CP949_IDX,
+        LBL_LATIN1: LBL_LATIN1_IDX,
+        LBL_CP949_UTF8: LBL_CP949_UTF8_IDX,
+        LBL_RE_ENCODE: LBL_RE_ENCODE_IDX,
+        LBL_RE_C3: LBL_RE_C3_IDX,
+        LBL_DECODED: LBL_DECODED_IDX,
+        LBL_TRAIL_C2: LBL_TRAIL_C2_IDX,
+        LBL_TRAIL_CHECK: LBL_TRAIL_CHECK_IDX,
+        LBL_DELTA_DONE: LBL_DELTA_DONE_IDX,
+    }
+
+    # ===== placeholder 해결 (분기 명령 패치) =====
+    resolved = []
+    for i, instr in enumerate(code):
+        if isinstance(instr, int):
+            resolved.append(instr)
+        elif isinstance(instr, tuple):
+            if instr[0] == 'B_RETURN':
+                resolved.append(encode_b_int(hook_base + i * 4, return_addr))
+            elif instr[0] == 'CMP_W18_W15':
+                # CMP Wn, Wm: SUBS WZR, W18, W15
+                resolved.append(0x6B00001F | (15 << 16) | (18 << 5))
+            elif instr[0] is _cbz_w:
+                _, rt, label = instr
+                target = labels[label]
+                offset = (target - i) * 4
+                resolved.append(_cbz_w(rt, offset))
+            elif instr[0] is _cbnz_w:
+                _, rt, label = instr
+                target = labels[label]
+                offset = (target - i) * 4
+                resolved.append(_cbnz_w(rt, offset))
+            elif instr[0] is _tbz_w:
+                _, rt, bit, label_or_idx = instr
+                if isinstance(label_or_idx, str):
+                    target = labels[label_or_idx]
+                else:
+                    target = label_or_idx  # 직접 인덱스
+                offset = (target - i) * 4
+                resolved.append(_tbz_w(rt, bit, offset))
+            elif instr[0] is encode_bcond:
+                _, cond, label = instr
+                if isinstance(label, str):
+                    target = labels[label]
+                else:
+                    target = label
+                offset = (target - i) * 4
+                resolved.append(encode_bcond(cond, offset))
+            elif instr[0] is encode_b_int:
+                _, label = instr
+                if isinstance(label, str):
+                    target = labels[label]
+                else:
+                    target = label
+                from_off = hook_base + i * 4
+                to_off = hook_base + target * 4
+                resolved.append(encode_b_int(from_off, to_off))
+            else:
+                raise ValueError(f"Unknown placeholder at [{i}]: {instr}")
+        elif instr == 'CMP_W18_W15':
+            resolved.append(0x6B00001F | (15 << 16) | (18 << 5))
+        else:
+            raise ValueError(f"Unknown instruction at [{i}]: {instr}")
+
+    total = len(resolved)
+    total_bytes = total * 4
+    print(f"  [+] NK 훅 코드: {total_bytes} bytes ({total} instrs)")
+    assert total_bytes <= 1120, f"NK hook too large: {total_bytes} > 1120 bytes"
+
+    return _instr_to_bytes(resolved)
+
+
+# ============================================================================
 # 메인 로직
 # ============================================================================
 
@@ -914,6 +1512,39 @@ def apply_patches():
         else:
             print(f"  [!] Caret: 예상치 못한 값 {caret_mov.hex()}")
 
+    # =========================================
+    # Phase 4: Nuklear UI nk_draw_text 훅
+    # =========================================
+    print("\n=== Phase 4: Nuklear UI nk_draw_text 훅 ===")
+
+    # 4a: 글리프 범위 패치
+    glyph_range_val = struct.unpack('<I', data[NK_GLYPH_RANGE_OFFSET:NK_GLYPH_RANGE_OFFSET + 4])[0]
+    if glyph_range_val == NK_GLYPH_RANGE_ORIGINAL:
+        data[NK_GLYPH_RANGE_OFFSET:NK_GLYPH_RANGE_OFFSET + 4] = struct.pack('<I', NK_GLYPH_RANGE_PATCHED)
+        print(f"  [+] 글리프 범위: add x26, #0xF8 → add x26, #0x154 (Korean range)")
+    elif glyph_range_val == NK_GLYPH_RANGE_PATCHED:
+        print(f"  [=] 글리프 범위: 이미 패치됨")
+    else:
+        print(f"  [!] 글리프 범위: 예상치 못한 값 0x{glyph_range_val:08X}")
+
+    # 4b: nk_draw_text 훅 (CP949/Latin-1 → UTF-8 변환, 스택 버퍼)
+    nk_hook_code = generate_nk_hook(
+        NK_HOOK_OFFSET,
+        NK_DRAW_TEXT_RETURN,
+        NK_UTF8_BUF_VA,     # 더 이상 사용 안함 (스택 버퍼로 교체됨)
+        DELTA_TABLE_OFFSET   # .text 섹션은 VA == file offset
+    )
+    data[NK_HOOK_OFFSET:NK_HOOK_OFFSET + len(nk_hook_code)] = nk_hook_code
+
+    # B nk_draw_text → hook
+    nk_orig = struct.unpack('<I', data[NK_DRAW_TEXT_OFFSET:NK_DRAW_TEXT_OFFSET + 4])[0]
+    if nk_orig == NK_DRAW_TEXT_PROLOGUE:
+        b_instr = encode_b_int(NK_DRAW_TEXT_OFFSET, NK_HOOK_OFFSET)
+        data[NK_DRAW_TEXT_OFFSET:NK_DRAW_TEXT_OFFSET + 4] = struct.pack('<I', b_instr)
+        print(f"  [+] nk_draw_text: sub sp → B hook")
+    else:
+        print(f"  [!] nk_draw_text 원본 불일치: 0x{nk_orig:08X}")
+
     # 저장
     with open(PATCHED, 'wb') as f:
         f.write(data)
@@ -924,6 +1555,7 @@ def apply_patches():
     print(f"    Phase 2: 폰트 베이킹 (256 → {TOTAL_GLYPH_COUNT} 글리프)")
     print(f"    Phase 3: CP949 디코더 (TextOut trampoline)")
     print(f"    Phase 3b: CP949 디코더 (Width/Caret trampoline)")
+    print(f"    Phase 4: Nuklear UI (글리프 범위 + locale + CP949/Latin1→UTF-8)")
     print(f"    Texture: 4096x4096, padding=16")
     print(f"{'=' * 60}")
 
@@ -1056,6 +1688,51 @@ def check_status():
             print(f"  {name} trampoline @ 0x{tramp_off:X}: empty")
         else:
             print(f"  {name} trampoline @ 0x{tramp_off:X}: installed")
+
+    # Phase 4 (NK draw_text)
+    print("\nPhase 4 (NK draw_text):")
+
+    # 글리프 범위 패치
+    glyph_bytes = data[NK_GLYPH_RANGE_OFFSET:NK_GLYPH_RANGE_OFFSET + 4]
+    original_glyph = NK_GLYPH_RANGE_ORIGINAL.to_bytes(4, 'little')
+    patched_glyph = NK_GLYPH_RANGE_PATCHED.to_bytes(4, 'little')
+    if glyph_bytes == original_glyph:
+        print(f"  NK glyph range @ 0x{NK_GLYPH_RANGE_OFFSET:X}: original (ASCII-only)")
+    elif glyph_bytes == patched_glyph:
+        print(f"  NK glyph range @ 0x{NK_GLYPH_RANGE_OFFSET:X}: patched (Korean) [OK]")
+    else:
+        print(f"  NK glyph range @ 0x{NK_GLYPH_RANGE_OFFSET:X}: unknown ({glyph_bytes.hex()})")
+
+    # locale 확인
+    locale_val = struct.unpack('<I', data[G_DEFAULT_LOCALE_FILE:G_DEFAULT_LOCALE_FILE + 4])[0]
+    print(f"  g_DefaultLocale @ file 0x{G_DEFAULT_LOCALE_FILE:X}: {locale_val} "
+          f"({'Korean' if locale_val == 3 else 'NOT Korean'})")
+
+    nk_bytes = data[NK_DRAW_TEXT_OFFSET:NK_DRAW_TEXT_OFFSET + 4]
+    expected_prologue = NK_DRAW_TEXT_PROLOGUE.to_bytes(4, 'little')
+    patch_b_nk = encode_b(NK_DRAW_TEXT_OFFSET, NK_HOOK_OFFSET)
+
+    if nk_bytes == expected_prologue:
+        status = "original (sub sp, #0x90)"
+    elif nk_bytes == patch_b_nk:
+        status = "patched (b nk_hook) [OK]"
+    else:
+        instr = int.from_bytes(nk_bytes, 'little')
+        if (instr >> 26) == 0b000101:
+            imm26 = instr & 0x3FFFFFF
+            if imm26 & (1 << 25):
+                imm26 -= (1 << 26)
+            target_addr = NK_DRAW_TEXT_OFFSET + imm26 * 4
+            status = f"b 0x{target_addr:X}"
+        else:
+            status = f"unknown ({nk_bytes.hex()})"
+    print(f"  nk_draw_text @ 0x{NK_DRAW_TEXT_OFFSET:X}: {status}")
+
+    nk_hook_bytes = data[NK_HOOK_OFFSET:NK_HOOK_OFFSET + 4]
+    if nk_hook_bytes == b'\x00\x00\x00\x00':
+        print(f"  NK hook @ 0x{NK_HOOK_OFFSET:X}: empty")
+    else:
+        print(f"  NK hook @ 0x{NK_HOOK_OFFSET:X}: installed")
 
 
 def restore():
