@@ -9,14 +9,15 @@ Neverwinter Nights: Enhanced Edition 한글화 프로젝트입니다.
 | macOS (Apple Silicon) | ✅ 지원 |
 | macOS (Intel) | ❌ 미지원 |
 | Windows (64-bit) | ✅ 지원 |
+| Android (arm64) | ✅ 지원 ([상세](android/README.md)) |
 
 ### 플랫폼별 지원 범위
 
-| 기능 | macOS | Windows |
-|------|-------|---------|
-| 인게임 UI (대화, 저널 등) | ✅ | ✅ |
-| 레거시 UI 버튼 텍스트 정렬 | ✅ | ✅ |
-| Nuklear UI (옵션, 모듈 선택) | ✅ | ❌ |
+| 기능 | macOS | Windows | Android |
+|------|-------|---------|---------|
+| 인게임 UI (대화, 저널 등) | ✅ | ✅ | ✅ |
+| 레거시 UI 버튼 텍스트 정렬 | ✅ | ✅ | ✅ |
+| Nuklear UI (옵션, 모듈 선택) | ✅ | ❌ | ✅ |
 
 **Windows 제한 사항**:
 - Nuklear UI에서 한글이 Latin-1로 깨져서 표시됨 (옵션 화면, 모듈 선택 화면)
@@ -54,6 +55,9 @@ python3 build_release.py --zip       # 빌드 후 zip 압축 (버전은 pyprojec
 ├── windows/                 # Windows 구현
 │   ├── hook/                # DLL/로더 소스
 │   └── scripts/             # 설치 스크립트
+├── android/                 # Android 구현
+│   ├── build_patched_apk.py # 올인원 패치 스크립트
+│   └── patch_libnwmain.py   # arm64 바이너리 패치
 ├── translate/               # 번역 작업
 │   ├── dialog_translated/   # 번역 CSV (수정 대상)
 │   ├── editor.py            # Streamlit 번역 편집기
@@ -113,6 +117,7 @@ streamlit run editor.py
 - **패치 방식**:
   - macOS: 바이너리 패치 + dylib 후킹
   - Windows: DLL 인젝션 + 런타임 후킹
+  - Android: libnwmain.so 바이너리 패치 + APK 리패키징
 
 ## 저작권
 
