@@ -17,16 +17,16 @@
 54106,PC,Player Character [Companion Settings],If I fail to open a locked door or chest please come to my aid.,내가 잠긴 문이나 상자를 여는 데 실패하면 도와줘.,nw_hen_gri,nw_ch_lock_on,nw_ch_no_locks,[Companion Settings],,0,0
 54107,PC,Player Character [Companion Settings],If I fail to open a locked door or chest do not assist me.,내가 잠긴 문이나 상자를 여는 데 실패해도 돕지 마.,nw_hen_gri,nw_ch_lock_off,nw_ch_yes_locks,[Companion Settings],,0,0
 54108,PC,Player Character,I don't want to change anything else right now.,지금은 다른 건 바꾸고 싶지 않아.,nw_hen_gri,,,,,0,0
-54109,PC,Player Character → Daelan Red Tiger (Barbarian),<StartCheck>[Persuade]</Start> How about 100 and the promise of lots and lots of killing?,<StartCheck>[설득]</Start> 100에 엄청 많이 죽일 수 있다는 약속를 더하면 어때?,nw_hen_gri,,nw_d2_henchmen03,→ Daelan Red Tiger (Barbarian),,0,0
+54109,PC,Player Character → Daelan Red Tiger (Barbarian),<StartCheck>[Persuade]</Start> How about 100 and the promise of lots and lots of killing?,<StartCheck>[설득]</Start> 100에 엄청 많이 죽일 수 있다는 약속을 더하면 어때?,nw_hen_gri,,nw_d2_henchmen03,→ Daelan Red Tiger (Barbarian),,0,0
 54110,PC,Player Character,We need change way you do stuff.,너 하는 방식 바꿔야 해.,nw_hen_gri,,[지능 낮음],,,0,0
 54111,PC,Player Character,"Me no want you here no more, Grimgnaw. You go now.","나 너 이제 필요 없어, 그림노. 가.",nw_hen_gri,,[지능 낮음],,,0,0
 54112,PC,Player Character → Grimgnaw (Monk),<StartCheck>[Persuade]</Start> What if me give 100 but me promise we do lots and lots of killing?,<StartCheck>[설득]</Start> 나 100 주고 우리 엄청 많이 죽인다고 약속하면 어때?,nw_hen_gri,,nw_d2_henchmen04,→ Grimgnaw (Monk),,0,0
-54113,PC,Player Character → Tomi Undergallows (Rogue),"I could use a monk at my side. Here's your 150 gold. Welcome aboard, Grimgnaw.","수도사이 옆에 있으면 좋겠어. 여기 금화 150개야. 환영해, 그림노.",nw_hen_gri,nw_d1_henchmen01,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
+54113,PC,Player Character → Tomi Undergallows (Rogue),"I could use a monk at my side. Here's your 150 gold. Welcome aboard, Grimgnaw.","수도사가 옆에 있으면 좋겠어. 여기 금화 150개야. 환영해, 그림노.",nw_hen_gri,nw_d1_henchmen01,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
 54114,PC,Player Character → Linu La'neral (Cleric),Here be you 150 gold. Now you be me slave.,여기 네 금화 150개야. 이제 너 내 노예야.,nw_hen_gri,nw_d1_henchmen01,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
 54115,PC,Player Character,I'll be going now.,이제 가볼게.,nw_hen_gri,,[지능 보통],,,0,0
 54116,PC,Player Character,Me go now.,나 이제 가.,nw_hen_gri,,[지능 낮음],,,0,0
 54117,PC,Player Character → Boddyknock Glinckle (Sorcerer),125? Deal.,125? 좋아.,nw_hen_gri,nw_d1_henchmen03,nw_d2_henchmen05,→ Boddyknock Glinckle (Sorcerer),,0,0
-54118,PC,Player Character → Sharwyn (Bard),"I could use a monk by my side. Here's your 200 gold. Welcome aboard, Grimgnaw.","수도사이 옆에 있으면 좋겠어. 여기 금화 200개야. 환영해, 그림노.",nw_hen_gri,nw_d1_henchmen04,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
+54118,PC,Player Character → Sharwyn (Bard),"I could use a monk by my side. Here's your 200 gold. Welcome aboard, Grimgnaw.","수도사가 옆에 있으면 좋겠어. 여기 금화 200개야. 환영해, 그림노.",nw_hen_gri,nw_d1_henchmen04,nw_d2_henchmen06,→ Sharwyn (Bard),,0,0
 54119,PC,Player Character → Tomi Undergallows (Rogue),<StartCheck>[Persuade]</Start> How about 150 and the promise of lots and lots of killing?,<StartCheck>[설득]</Start> 150에 엄청 많이 죽일 수 있다는 약속을 더하면 어때?,nw_hen_gri,,nw_d2_henchmen01,→ Tomi Undergallows (Rogue),,0,0
 54120,PC,Player Character,Here be 200 gold. Now you be me slave.,여기 금화 200. 이제 너 내 노예.,nw_hen_gri,nw_d1_henchmen04,nw_d2_henchmen08,,,0,0
 54121,PC,Player Character → Linu La'neral (Cleric),<StartCheck>[Persuade]</Start> What if me give 150 but me promise we do lots and lots of killing?,<StartCheck>[설득]</Start> 나 150 주고 우리 엄청 많이 죽인다고 약속하면 어때?,nw_hen_gri,,nw_d2_henchmen02,→ Linu La'neral (Cleric),,0,0
@@ -133,7 +133,7 @@
 54226,PC,Player Character,So you were conscripted into service by Aribeth?,그러니까 아리베스가 너를 징집한 거야?,nw_hen_gri,,[지능 보통],,,0,0
 54227,PC,Player Character,How much would it cost to hire your services?,너를 고용하는 데 얼마나 들어?,nw_hen_gri,,[지능 보통],,,0,0
 54228,PC,Player Character,Goodbye.,안녕.,nw_hen_gri,,,,,0,0
-54229,PC,Player Character [Companion Settings],I could use a monk by my side.,수도사이 옆에 있으면 좋겠어.,nw_hen_gri,nw_ch_check48,[지능 보통],[Companion Settings],,0,0
+54229,PC,Player Character [Companion Settings],I could use a monk by my side.,수도사가 옆에 있으면 좋겠어.,nw_hen_gri,nw_ch_check48,[지능 보통],[Companion Settings],,0,0
 54230,PC,Player Character,Do you have any information on the cult behind the Wailing Death?,울부짖는 죽음 배후의 사교에 대해 아는 게 있어?,nw_hen_gri,,[지능 보통],,,0,0
 54231,PC,Player Character,I don't need anything right now.,지금은 필요한 게 없어.,nw_hen_gri,,[지능 보통],,,0,0
 54232,PC,Player Character,I did my duty. ,내 의무를 다했어.,nw_hen_gri,,[지능 보통],,,0,0
@@ -147,7 +147,7 @@
 54240,PC,Player Character,Why are you standing around here? Shouldn't you be looking for these Words? ,왜 여기 서 있는 거야? 권능의 언령을 찾아야 하는 거 아니야?,nw_hen_gri,,[지능 보통],,,0,0
 54241,PC,Player Character,You heard any rumors about where Words be? Me want to find them. ,언령 어디 있는지 소문 들었어? 나 찾고 싶어.,nw_hen_gri,,[지능 낮음],,,0,0
 54242,PC,Player Character,Why you stand here? You should look for Words. ,왜 너 여기 서 있어? 너 언령 찾아야 해.,nw_hen_gri,,[지능 낮음],,,0,0
-54243,PC,Player Character [Companion Settings],I could use a homicidal monk. Come on.,살인적인 수도사이 필요해. 가자.,nw_hen_gri,nw_ch_check48,[지능 보통],[Companion Settings],,0,0
+54243,PC,Player Character [Companion Settings],I could use a homicidal monk. Come on.,살인적인 수도사가 필요해. 가자.,nw_hen_gri,nw_ch_check48,[지능 보통],[Companion Settings],,0,0
 54244,PC,Player Character,"Sorry, I'm not interested. ",미안하지만 관심 없어.,nw_hen_gri,,[지능 보통],,,0,0
 54245,PC,Player Character [Companion Settings],Me could use psycho monk. Come on.,나 싸이코 수도사 필요해. 가자.,nw_hen_gri,nw_ch_check48,[지능 낮음],[Companion Settings],,0,0
 54246,PC,Player Character,Me not like you. ,나 너 싫어.,nw_hen_gri,,[지능 낮음],,,0,0
@@ -160,8 +160,8 @@
 54253,PC,Player Character,"No, not now. ","아니, 지금은 안 돼.",nw_hen_gri,,,,,0,0
 54254,PC,Player Character [Companion Settings],Yes.,좋아.,nw_hen_gri,nw_ch_check48,,[Companion Settings],,0,0
 54255,PC,Player Character,No. ,아니.,nw_hen_gri,,,,,0,0
-54256,PC,Player Character,What's a monk of the Long Death order doing in Neverwinter?,오랜 죽음의 교단 수도사이 네버윈터에서 뭐 하는 거야?,nw_hen_gri,,[지능 보통],,,0,0
-54257,PC,Player Character,What kind of skills does a monk of the Order of the Long Death possess?,오랜 죽음의 교단 수도사은 어떤 기술을 가지고 있어?,nw_hen_gri,,[지능 보통],,,0,0
+54256,PC,Player Character,What's a monk of the Long Death order doing in Neverwinter?,오랜 죽음의 교단 수도사가 네버윈터에서 뭐 하는 거야?,nw_hen_gri,,[지능 보통],,,0,0
+54257,PC,Player Character,What kind of skills does a monk of the Order of the Long Death possess?,오랜 죽음의 교단 수도사는 어떤 기술을 가지고 있어?,nw_hen_gri,,[지능 보통],,,0,0
 54258,PC,Player Character,Why monk of Long Death order be here in Neverwinter?,왜 오랜 죽음 사교 수도사 여기 네버윈터에 있어?,nw_hen_gri,,[지능 낮음],,,0,0
 54259,PC,Player Character,What kind of skill you be say you got?,너 무슨 기술 가졌다고 했어?,nw_hen_gri,,[지능 낮음],,,0,0
 54260,PC,Player Character,"You seem a little bit creepy, Grimgnaw.","좀 섬뜩하네, 그림노.",nw_hen_gri,,[지능 보통],,,0,0

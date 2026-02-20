@@ -249,6 +249,8 @@ class CSVToTLKConverter:
             
         # Convert literal '\n' strings to actual newline characters
         text = text.replace('\\n', '\n')
+        # Remove backslash before double quotes (CSV escape artifact)
+        text = text.replace('\\"', '"')
             
         if self.encoding == 'auto':
             # Check if text contains Korean characters
