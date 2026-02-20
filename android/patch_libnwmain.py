@@ -396,8 +396,8 @@ TEXTURE_PATCHES = [
         'name': 'CAuroraTTFTexture::Load glyph padding',
         'offset': 0xa95564,
         'original': bytes.fromhex('65008052'),  # mov w5, #3
-        'patched': bytes.fromhex('05028052'),    # mov w5, #16
-        'description': 'glyph padding 3 → 16',
+        'patched': bytes.fromhex('05068052'),    # mov w5, #48
+        'description': 'glyph padding 3 → 48',
     },
 ]
 
@@ -1556,7 +1556,7 @@ def apply_patches():
     print(f"    Phase 3: CP949 디코더 (TextOut trampoline)")
     print(f"    Phase 3b: CP949 디코더 (Width/Caret trampoline)")
     print(f"    Phase 4: Nuklear UI (글리프 범위 + locale + CP949/Latin1→UTF-8)")
-    print(f"    Texture: 4096x4096, padding=16")
+    print(f"    Texture: 4096x4096, padding=48")
     print(f"{'=' * 60}")
 
     return True
@@ -1733,7 +1733,6 @@ def check_status():
         print(f"  NK hook @ 0x{NK_HOOK_OFFSET:X}: empty")
     else:
         print(f"  NK hook @ 0x{NK_HOOK_OFFSET:X}: installed")
-
 
 def restore():
     """원본 복원"""
