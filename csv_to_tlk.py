@@ -9,6 +9,7 @@ NWN:EE 한글 패치 호환:
 
 import struct
 import csv
+import re
 import sys
 from pathlib import Path
 from typing import List, Optional, Dict
@@ -187,7 +188,7 @@ class CSVToTLKConverter:
                     text = f"[{strref}]{text}"
 
                 # Encode text to bytes with proper encoding
-                text_bytes = self._encode_text(text)
+                text_bytes = self._encode_text(text, strref)
 
                 # 원본 TLK에서 플래그/사운드 정보 가져오기
                 if strref in self.reference_entries:
@@ -242,15 +243,19 @@ class CSVToTLKConverter:
         if fallback_count > 0:
             print(f"Used {fallback_count} fallback texts from reference TLK")
     
-    def _encode_text(self, text: str) -> bytes:
+    def _encode_text(self, text: str, strref: int = -1) -> bytes:
         """Encode text with proper encoding"""
         if not text:
             return b''  # 빈 텍스트는 빈 바이트열 반환
-            
+
         # Convert literal '\n' strings to actual newline characters
         text = text.replace('\\n', '\n')
         # Remove backslash before double quotes (CSV escape artifact)
         text = text.replace('\\"', '"')
+        # Collapse multiple consecutive double quotes into one
+        text, count = re.subn(r'"{2,}', '"', text)
+        if count > 0:
+            print(f"  StrRef {strref}: collapsed {count} multi-quote sequence(s)")
             
         if self.encoding == 'auto':
             # Check if text contains Korean characters
