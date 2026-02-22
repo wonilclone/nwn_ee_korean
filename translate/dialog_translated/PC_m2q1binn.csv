@@ -71,5 +71,5 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 64582,PC,Player Character [M2Q1B],<StartCheck>[Lie]</Start> I'm here to collect the new tavern tax.,"<StartCheck>[거짓말]</Start> 새 술집 세금 걷으러 왔어.",m2q1binn,,m2q1binntax1,[M2Q1B],,0,0
 64583,PC,Player Character,"<StartAction>[Lie]</Start> You pay, or me close you place down. Aribeth and Nasher say so.","<StartAction>[거짓말]</Start> 돈 내, 아니면 가게 문 닫아. 아리베스랑 나셰르가 그랬어.",m2q1binn,,[지능 낮음],,,0,0
 64584,PC,Player Character,Ha! Me fool you good.,"하! 나 너 잘 속였어.",m2q1binn,,[지능 낮음],,,0,0
-64585,PC,Player Character,"<StartAction>[Lie]</Start> You'll pay, or this tavern will be shut down on the orders of Lady Aribeth and Lord Nasher.","<StartAction>[거짓말]</Start> 돈 내, 아니면 아리베스 여사와 나셰르 영주의 명으로 이 술집을 폐쇄할 거야.",m2q1binn,,[지능 보통],,,0,0
+64585,PC,Player Character,"<StartAction>[Lie]</Start> You'll pay, or this tavern will be shut down on the orders of Lady Aribeth and Lord Nasher.","<StartAction>[거짓말]</Start> 돈 내, 아니면 아리베스 경과 나셰르 영주의 명으로 이 술집을 폐쇄할 거야.",m2q1binn,,[지능 보통],,,0,0
 64586,PC,Player Character,"Calm down man, it was only a joke.","진정해, 농담이었어.",m2q1binn,,[지능 보통],,,0,0
