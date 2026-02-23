@@ -894,19 +894,19 @@
 43460,PC,Player Character [M3Q01A01],I know about the trial. I'm defending Rolgan.,재판에 대해 알아. 난 롤간을 변호하고 있어.,m3q01a01loda,,m3q01a01aversgk1,[M3Q01A01],,0,0
 43461,PC,Player Character,I'll be going now.,이제 갈게.,m3q01a01loda,,[지능 보통],,,0,0
 43462,PC,Player Character,Tell me what happened.,무슨 일이 있었는지 말해봐.,m3q01a01loda,,,,,0,0
-43463,PC,Player Character [M3Q1A01],"Don't get so worked up about this trial. Barkeep, a drink for my friend Lodar, please. I'm buying.","재판에 대해 너무 흥분하지 마. 바텐더, 내 친구 로다르에게 한잔 줘. 내가 살게.",m3q01a01loda,m3q1a01lodabuyet,m3q1a01lodabuyst,[M3Q1A01],,0,0
+43463,PC,Player Character [M3Q1A01],"Don't get so worked up about this trial. Barkeep, a drink for my friend Lodar, please. I'm buying.","재판에 대해 너무 흥분하지 마. 바텐더, 내 친구 로다에게 한잔 줘. 내가 살게.",m3q01a01loda,m3q1a01lodabuyet,m3q1a01lodabuyst,[M3Q1A01],,0,0
 43464,PC,Player Character,"Tell me what you know about the crime, or you might not live long enough to testify!","범죄에 대해 아는 걸 말해, 안 그러면 증언할 때까지 살아있지 못할 수도 있어!",m3q01a01loda,,,,,0,0
 43465,PC,Player Character,Anything else?,다른 건?,m3q01a01loda,,,,,0,0
 43466,PC,Player Character,So you never saw who started the fight?,그럼 누가 싸움을 시작했는지는 못 봤어?,m3q01a01loda,,,,,0,0
 43467,PC,Player Character [M3Q01A01],Maybe it was Griff who started the fight in the first place.,처음에 싸움을 시작한 건 그리프였을지도 몰라.,m3q01a01loda,m3q01a01lodaegb1,,[M3Q01A01],,0,0
-43468,PC,Player Character [M3Q1A01],"How about a refill? Bartender, bring me another drink for Lodar.","리필은 어때? 바텐더, 로다르에게 한잔 더 줘.",m3q01a01loda,,m3q1a01lodabuyst,[M3Q1A01],,0,0
+43468,PC,Player Character [M3Q1A01],"How about a refill? Bartender, bring me another drink for Lodar.","리필은 어때? 바텐더, 로다에게 한잔 더 줘.",m3q01a01loda,,m3q1a01lodabuyst,[M3Q1A01],,0,0
 43469,PC,Player Character,Anything else you can tell me about the trial?,재판에 대해 다른 말해줄 수 있는 게 있어?,m3q01a01loda,,,,,0,0
 43470,PC,Player Character [M3Q01A01],Maybe Griff's to blame for the fight with that Uthgardt.,우스가르트와의 싸움은 그리프 탓일 수도 있어.,m3q01a01loda,m3q01a01lodaegb1,,[M3Q01A01],,0,0
 43471,PC,Player Character,Secrets? What kind of secrets?,비밀? 무슨 비밀?,m3q01a01loda,,,,,0,0
 43472,PC,Player Character,<StartCheck>[Persuade]</Start> If there's something I should know for the trial you should tell me.,<StartCheck>[설득]</Start> 재판을 위해 내가 알아야 할 게 있으면 말해줘야지.,m3q01a01loda,,,,,0,0
 43473,PC,Player Character [M3Q1A01],"<StartCheck>[Persuade]</Start> We're friends, aren't we? Have another drink on me and tell me what you know.",<StartCheck>[설득]</Start> 우린 친구잖아? 내가 한잔 더 사줄 테니 아는 거 말해줘.,m3q01a01loda,m3q1a01lodabuyet,,[M3Q1A01],,0,0
 43475,PC,Player Character,Me go now.,나 간다.,m3q01a01loda,,[지능 낮음],,,0,0
-60490,PC,Player Character [M3Q1A01],"Hey, no hard feelings. Bartender - a drink for my friend Lodar, please. I'm buying.","이봐, 나쁜 감정 없어. 바텐더 - 내 친구 로다르에게 한잔 줘. 내가 살게.",m3q01a01loda,m3q1a01lodabuyet,m3q1a01lodabuyst,[M3Q1A01],,0,0
+60490,PC,Player Character [M3Q1A01],"Hey, no hard feelings. Bartender - a drink for my friend Lodar, please. I'm buying.","이봐, 나쁜 감정 없어. 바텐더 - 내 친구 로다에게 한잔 줘. 내가 살게.",m3q01a01loda,m3q1a01lodabuyet,m3q1a01lodabuyst,[M3Q1A01],,0,0
 43608,PC,Player Character,Who are you?,넌 누구야?,m3q01a01pall,,[지능 보통],,,0,0
 43609,PC,Player Character [M3Q01A01],Neurik sent me. I am representing Rolgan in the upcoming trial.,뉴릭이 보냈어요. 다가오는 재판에서 롤간을 변호하고 있어요.,m3q01a01pall,,m3q01a01aversgk1,[M3Q01A01],,0,0
 43610,PC,Player Character,Can I ask you some questions?,질문 좀 해도 될까?,m3q01a01pall,,[지능 보통],,,0,0
@@ -1352,8 +1352,8 @@
 48830,PC,Player Character,Goodbye.,안녕.,m4q01c03ass2,,,,,0,0
 48831,PC,Player Character,What do you know about the Source Stone?,근원석에 대해 뭘 알아?,m4q01c03ass2,,[지능 보통],,,0,0
 48832,PC,Player Character,What you know 'bout Source Stone?,근원석 뭐 알아?,m4q01c03ass2,,[지능 낮음],,,0,0
-48833,PC,Player Character,Where are the Words of Power?,힘의 언어는 어디 있어?,m4q01c03ass2,,[지능 보통],,,0,0
-48834,PC,Player Character,Where be Power Words?,힘의 언어 어디 있어?,m4q01c03ass2,,[지능 낮음],,,0,0
+48833,PC,Player Character,Where are the Words of Power?,권능의 언령은 어디 있어?,m4q01c03ass2,,[지능 보통],,,0,0
+48834,PC,Player Character,Where be Power Words?,권능의 언령 어디 있어?,m4q01c03ass2,,[지능 낮음],,,0,0
 48835,PC,Player Character,Who are you?,넌 누구야?,m4q01c03ass2,,[지능 보통],,,0,0
 48836,PC,Player Character,Who you be?,너 누구야?,m4q01c03ass2,,[지능 낮음],,,0,0
 48837,PC,Player Character,Who is Master Ford and where can I find him?,포드 박사는 누구고 어디서 찾을 수 있어?,m4q01c03ass2,,[지능 보통],,,0,0
@@ -1365,8 +1365,8 @@
 48857,PC,Player Character,Goodbye.,안녕.,m4q01c03asst,,,,,0,0
 48858,PC,Player Character,What do you know about the Source Stone?,근원석에 대해 뭘 알아?,m4q01c03asst,,[지능 보통],,,0,0
 48859,PC,Player Character,What you know 'bout Source Stone?,근원석 뭐 알아?,m4q01c03asst,,[지능 낮음],,,0,0
-48860,PC,Player Character,Where are the Words of Power?,힘의 언어는 어디 있어?,m4q01c03asst,,[지능 보통],,,0,0
-48861,PC,Player Character,Where be Power Words?,힘의 언어 어디 있어?,m4q01c03asst,,[지능 낮음],,,0,0
+48860,PC,Player Character,Where are the Words of Power?,권능의 언령은 어디 있어?,m4q01c03asst,,[지능 보통],,,0,0
+48861,PC,Player Character,Where be Power Words?,권능의 언령 어디 있어?,m4q01c03asst,,[지능 낮음],,,0,0
 48862,PC,Player Character,Who are you?,넌 누구야?,m4q01c03asst,,[지능 보통],,,0,0
 48863,PC,Player Character,Who you be?,너 누구야?,m4q01c03asst,,[지능 낮음],,,0,0
 48864,PC,Player Character,Who is Master Ford and where can I find him?,포드 박사는 누구고 어디서 찾을 수 있어?,m4q01c03asst,,[지능 보통],,,0,0
