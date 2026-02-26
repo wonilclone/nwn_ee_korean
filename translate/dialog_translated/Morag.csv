@@ -1,5 +1,5 @@
-StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
-26354,Creature,Morag,Morag,모라그,2Q6K_MORAG|M2Q06CMORAG|M3Q02G01MORA|M4Q01D08MORA,,,,,0,0
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+26354,Creature,Morag,Morag,모랙,2Q6K_MORAG|M2Q06CMORAG|M3Q02G01MORA|M4Q01D08MORA,,,,,0,0
 42517,Creature,Morag,"You are welcome in my service, paladin. I have awaited your arrival with great anticipation.","내 휘하에 온 걸 환영한다, 성기사. 네가 오길 크게 기대하며 기다렸다.",2Q6K_MORAG,mpatchcutscene,,,vs_nmoragf_050,0,0
 42524,Creature,Morag,"Remember, Maugrim, that it is of great importance that the other Words of Power be located. You must beware Haedraline, however, as she will ---","기억해라, 모그림, 다른 권능의 언령을 찾는 것이 매우 중요하다. 하지만 하에드랄린을 조심해야 한다, 그녀가---",2Q6K_MORAG,,,,vs_nmoragf_051,0,0
 42525,Creature,Morag,"You have been lax, Maugrim. We have intruders.","해이해졌구나, 모그림. 침입자가 있다.",2Q6K_MORAG,,,,vs_nmoragf_052,0,0
@@ -7,7 +7,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 45093,Creature,Morag,"What manner of slave are you, that does not cast down <his/her> eyes in my presence! (hiss) I could have you flayed for this!","(쉭) 네가 대체 무슨 노예냐, 내 앞에서 눈을 깔지 않다니! 이런 짓 때문에 살가죽을 벗겨버릴 수도 있어!",M3Q02G01MORA,,,,,0,0
 45094,Creature,Morag,Guards! Protect me from this creature!,"경비병! 이 생명체에게서 나를 지켜라!",M3Q02G01MORA,m3q02g01moraesc,,,,0,0
 45095,Creature,Morag,"There is something strange about you, creature. Where is your collar? (hiss) Why is your forehead not branded with the mark of the house you serve?","네게 뭔가 이상한 게 있어, 생명체. 목걸이는 어디 있지? (쉭) 왜 이마에 네가 섬기는 가문의 낙인이 찍혀 있지 않은 거지?",M3Q02G01MORA,,,,,0,0
-45096,Creature,Morag,"Do you not recognize me? I am Morag, First Daughter of the Queen and heir to the throne! (hiss) How dare you approach me?","나를 모르겠느냐? 나는 모라그, 여왕의 첫째 딸이자 왕위 계승자다! (쉭) 감히 어떻게 내게 다가오느냐?",M3Q02G01MORA,,,,,0,0
+45096,Creature,Morag,"Do you not recognize me? I am Morag, First Daughter of the Queen and heir to the throne! (hiss) How dare you approach me?","나를 모르겠느냐? 나는 모랙, 여왕의 첫째 딸이자 왕위 계승자다! (쉭) 감히 어떻게 내게 다가오느냐?",M3Q02G01MORA,,,,,0,0
 45097,Creature,Morag,Your mistress should have removed your tongue for such defiance! (hiss) But wait... ,"네 여주인이 그런 반항에 혀를 잘라버렸어야 해! (쉭) 하지만 잠깐...",M3Q02G01MORA,,,,,0,0
 45098,Creature,Morag,"Your clothes and appearance are unknown to me. (hiss) You are no slave! Who are you, creature?","네 옷차림과 생김새는 내게 낯설다. (쉭) 넌 노예가 아니야! 넌 누구냐, 생명체?",M3Q02G01MORA,,,,,0,0
 45099,Creature,Morag,"Of course, the time sink! (hiss) This is not the world you know, creature. The secrets of the Creator Race are not yours for the taking.","물론이지, 시간의 늪! (쉭) 여기는 네가 아는 세계가 아니야, 생명체. 창조자 종족의 비밀은 네가 가져갈 것이 아니다.",M3Q02G01MORA,,,,,0,0
@@ -28,6 +28,6 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 49032,Creature,Morag,"You are powerful - for a <race> slave. You have slain Maugrim, the prophet who heralded my coming.","<race> 노예치곤 강하구나. 내 도래를 예고한 예언자 모그림을 죽였어.",M4Q01D08MORA,,,,vs_nmoragf_064,0,0
 49033,Creature,Morag,"My priests shield me from harm! Your attacks are useless, slave!","내 사제들이 나를 해로부터 보호한다! 네 공격은 소용없어, 노예!",M4Q01D08MORA,,,,vs_nmoragf_069,0,0
 49034,Creature,Morag,"You have defeated Aribeth, the champion I chose from among the slave races. You have slaughtered many of my warriors and priests.","노예 종족 중에서 내가 선택한 용사 아리베스를 물리쳤구나. 내 전사들과 사제들을 많이 학살했어.",M4Q01D08MORA,,,,vs_nmoragf_065,0,0
-49035,Creature,Morag,"But now you face Morag, Queen of the Old Ones, High Priestess of the Creators! Kneel, slave, and I shall let you live!","하지만 이제 넌 태고의 존재들의 여왕이자 창조자들의 대사제인 모라그와 마주한다! 무릎 꿇어라, 노예, 그러면 살려주지!",M4Q01D08MORA,,,,vs_nmoragf_066,0,0
+49035,Creature,Morag,"But now you face Morag, Queen of the Old Ones, High Priestess of the Creators! Kneel, slave, and I shall let you live!","하지만 이제 넌 태고의 존재들의 여왕이자 창조자들의 대사제인 모랙과 마주한다! 무릎 꿇어라, 노예, 그러면 살려주지!",M4Q01D08MORA,,,,vs_nmoragf_066,0,0
 49036,Creature,Morag,I shall rip away your flesh and feast upon your soul!,"네 살점을 찢어내고 영혼을 탐식해주마!",M4Q01D08MORA,nw_d1_attonend,,,vs_nmoragf_068,0,0
-49037,Creature,Morag,"No - I cannot die! I am Morag, Queen of the Creators! I am immortal! No! NOOO!!!!","안 돼 - 난 죽을 수 없어! 나는 창조자들의 여왕 모라그다! 난 불멸이야! 안 돼! 안 돼애애!!!",M4Q01D08MORA,m4q1d08_moragdie,,,vs_nmoragf_067,0,0
+49037,Creature,Morag,"No - I cannot die! I am Morag, Queen of the Creators! I am immortal! No! NOOO!!!!","안 돼 - 난 죽을 수 없어! 나는 창조자들의 여왕 모랙다! 난 불멸이야! 안 돼! 안 돼애애!!!",M4Q01D08MORA,m4q1d08_moragdie,,,vs_nmoragf_067,0,0

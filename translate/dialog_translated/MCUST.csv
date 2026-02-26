@@ -1,4 +1,4 @@
-StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 27721,Dialog,MCUST,"The High Captains are killin' each other, they are. Don't you be one to get in their way.",대선장들이 서로 죽이고 있다네. 그 사이에 끼어들진 말라고.,2Q4A_MCUST,nw_d1_ctr01,,,,0,0
 27722,Dialog,MCUST,The Bloody Hands came an' burned down my home... took everything I had. May the gods damn them all!,피묻은 손 놈들이 와서 내 집을 불태웠어... 가진 거 다 빼앗겼지. 신들이 그놈들을 저주하길!,2Q4A_MCUST,nw_d1_ctr01,,,,0,0
 27723,Dialog,MCUST,"Don't let anyone hear ye talk about the High Captains. Ye'll wind up dead, ye will.",대선장들 얘기하는 거 아무한테도 들키지 마. 죽을 수도 있어.,2Q4A_MCUST,nw_d1_ctr01,,,,0,0
@@ -33,5 +33,5 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 27752,Dialog,MCUST,"City's closed off, an' somehow ye barbarian types still find yer way in.","도시가 봉쇄됐는데 어떻게든 야만인들은 들어오는구만.",2Q4A_MCUST,nw_d1_ctr02,,,,0,0
 27753,Dialog,MCUST,"Careful, now. Big <man/woman> like yerself will be snatched up by the soldiers in a second.","조심해. 너처럼 덩치 큰 <man/woman>는 금방 병사들한테 붙잡혀.",2Q4A_MCUST,nw_d1_ctr03,,,,0,0
 27754,Dialog,MCUST,"We don't welcome ye <race> folk in Luskan, much.","러스칸에선 <race> 종족을 별로 환영 안 해.",2Q4A_MCUST,nw_d1_ctr01,,,,0,0
-27755,Dialog,MCUST,"Better not go out in the street, you. They kills any <race> kind on sight.","거리에 나가지 마. <race>는 보이는 대로 죽인다고.",2Q4A_MCUST,nw_d1_ctr02,,,,0,0
+27755,Dialog,MCUST,"Better not go out in the street, you. They kills any <race> kind on sight.","거리에 나가지 마. <race>(은)는 보이는 대로 죽인다고.",2Q4A_MCUST,nw_d1_ctr02,,,,0,0
 27756,Dialog,MCUST,I saw one of the Bloody Hand killin' some <race> travelers just yesterday.,어제 피묻은 손 놈 하나가 <race> 여행자들을 죽이는 거 봤어.,2Q4A_MCUST,nw_d1_ctr03,,,,0,0

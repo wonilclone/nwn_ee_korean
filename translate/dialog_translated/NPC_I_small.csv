@@ -1,4 +1,4 @@
-StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 5999,Creature,Imp,Imp,임프,2Q4D_IMP|2Q6_IMP,,,,,0,0
 94965,Creature,Imp,Imp,임프,X2_Q2IMP1,,,,,0,0
 6003,Creature,Ice Mephit,Ice Mephit,얼음 메피트,M2Q2F_IMEPHIT,,,,,0,0
@@ -47,7 +47,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 100133,Creature,Ice Beast,Ice Beast,얼음 야수,HX_ICEELEM,,,,,0,0
 104890,Dialog,ILL_NUR3,"One of your rivals notes: ""You seem quite eager to increase the bidding. You must see something worthwhile in this thrall. I offer 1500.""","경쟁자 중 하나가 말한다: ""입찰에 열을 올리는군. 이 노예한테서 뭔가 보이나 봐. 1500.""",Q2D_ILL_NUR3,,,,,0,0
 104893,Dialog,ILL_NUR3,"The other illithid bidder shakes his head. ""That is too much for me. I drop from the bidding.""","다른 일리시드 입찰자가 고개를 젓는다. ""너무 비싸군. 빠지겠어.""",Q2D_ILL_NUR3,,,,,0,0
-104910,Dialog,ILL_NUR3,"<StartAction>Failure</Start> The other bidders aren't fooled by your act. ""The <race> bidder is trying to trick us. The thrall must be valuable. I offer 1500.""","<StartAction>실패</Start> 다른 입찰자들이 연기에 속지 않는다. ""저 <race>가 속이려 드는군. 노예가 값어치 있는 게 분명해. 1500.""",Q2D_ILL_NUR3,,,,,0,0
+104910,Dialog,ILL_NUR3,"<StartAction>Failure</Start> The other bidders aren't fooled by your act. ""The <race> bidder is trying to trick us. The thrall must be valuable. I offer 1500.""","<StartAction>실패</Start> 다른 입찰자들이 연기에 속지 않는다. ""저 <race>(이)가 속이려 드는군. 노예가 값어치 있는 게 분명해. 1500.""",Q2D_ILL_NUR3,,,,,0,0
 104912,Dialog,ILL_NUR3,"""As do I. I have no wish to purchase a feeble thrall.""","""나도 마찬가지야. 허약한 노예를 살 생각은 없어.""",Q2D_ILL_NUR3,,,,,0,0
 104892,Dialog,ILL_NUR2,"Again, one of your rivals is quick to meet the offer: ""I'll give you 2000.""","다시 경쟁자 중 하나가 재빨리 호응한다: ""2000 내겠어.""",Q2D_ILL_NUR2,,,,,0,0
 104896,Dialog,ILL_NUR2,"Your sudden jump in the bidding seems to have caught your opponent off guard. ""3000? Just like that? You obviously want this thrall more than I do. I withdraw from the bidding.""","갑작스러운 가격 인상에 상대가 당황한 것 같다. ""3000? 그냥 그렇게? 나보다 이 노예를 더 원하는 게 분명하군. 입찰에서 빠지겠어.""",Q2D_ILL_NUR2,,,,,0,0
@@ -58,7 +58,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 104903,Dialog,ILL_NUR2,"The mind flayer debates for a long time before offering up another bid. ""3500 for the female thrall.""","마인드 플레이어가 한참 고민하더니 다시 입찰한다. ""암컷 노예에 3500.""",Q2D_ILL_NUR2,,,,,0,0
 104904,Dialog,ILL_NUR2,"The illithid thinks for a long time before admitting: ""I cannot match that price. She is yours.""","일리시드가 한참 고민하다 인정한다: ""그 가격은 못 맞추겠군. 네 것이다.""",Q2D_ILL_NUR2,,,,,0,0
 104907,Dialog,ILL_NUR2,"One of the nearby illithids - your competitors in the auction - meets the price: ""1000 gold pieces.""","근처 일리시드 중 하나-경매 경쟁자-가 응찰한다: ""금화 1000개.""",Q2D_ILL_NUR2,,,,,0,0
-104911,Dialog,ILL_NUR2,"<StartAction>Success</Start> The other bidders seem to consider your comments carefully. ""This <race> bidder likely knows more about the health of humans than we do. I withdraw.""","<StartAction>성공</Start> 다른 입찰자들이 네 말을 신중히 고려한다. ""저 <race>가 인간 건강에 대해 우리보다 잘 아는 것 같군. 빠지겠어.""",Q2D_ILL_NUR2,,,,,0,0
+104911,Dialog,ILL_NUR2,"<StartAction>Success</Start> The other bidders seem to consider your comments carefully. ""This <race> bidder likely knows more about the health of humans than we do. I withdraw.""","<StartAction>성공</Start> 다른 입찰자들이 네 말을 신중히 고려한다. ""저 <race>(이)가 인간 건강에 대해 우리보다 잘 아는 것 같군. 빠지겠어.""",Q2D_ILL_NUR2,,,,,0,0
 104957,Dialog,ILLMECH,"Mashing more controls at random, you seem to have deactivated the globe.",조작판을 마구 더 누르자 구체가 꺼진 것 같다.,Q2D4_ILLMECH,,,,,0,0
 104958,Dialog,ILLMECH,"Mashing some controls at random, you seem to have activated this strange device.",조작판을 마구 누르자 이상한 장치가 켜진 것 같다.,Q2D4_ILLMECH,,,,,0,0
 107861,Creature,Intellect Ravager,Intellect Ravager,지성 파괴귀,Q2D4BADDOG,,,,,0,0

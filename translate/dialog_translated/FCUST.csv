@@ -1,4 +1,4 @@
-StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
+﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 26941,Dialog,FCUST,There be not much for us t' do except wait... and hope that the fighting stops.,"우리가 할 수 있는 건 기다리는 거밖에 없어요... 싸움이 끝나길 바라면서.",2Q4A_FCUST,nw_d1_ctr01,,,,0,0
 26942,Dialog,FCUST,"Aruph's been kind enough to give us refuge, here. Me, I'd like to just go home.","알루프가 친절하게도 여기 피난처를 제공해줬어요. 전 그냥 집에 가고 싶어요.",2Q4A_FCUST,nw_d1_ctr01,,,,0,0
 26943,Dialog,FCUST,"If the guardsmen capture you, they take ye to the sorcerers and turn ye into... something else.","경비병들한테 잡히면 마법사들한테 끌려가서... 다른 뭔가로 변해 버려요.",2Q4A_FCUST,nw_d1_ctr01,,,,0,0
@@ -29,6 +29,6 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 26968,Dialog,FCUST,"Don't be a fool and go out into the street. An' if ye do, do it quickly.","바보처럼 거리에 나가지 마세요. 나가더라도 빨리 움직여요.",2Q4A_FCUST,nw_d1_ctr03,,,,0,0
 26969,Dialog,FCUST,"Them Captains don't care if they tear the city apart. They'll burn it all down, they will!","대선장들은 도시가 박살나든 말든 상관 안 해요. 다 불태워 버릴 거예요!",2Q4A_FCUST,nw_d1_ctr02,,,,0,0
 26970,Dialog,FCUST,"Get away from me, blast it! I've got enough problems without you botherin' me.","저리 가요, 빌어먹을! 당신한테 신경 쓸 여유 없어요.",2Q4A_FCUST,nw_d1_ctr03,,,,0,0
-26971,Dialog,FCUST,Ach. I can't believe it... a <race> roustabout wanderin' Luskan in broad daylight.,"아이고, 믿을 수가 없네... <race>가 대낮에 러스칸을 활보하다니.",2Q4A_FCUST,nw_d1_ctr01,,,,0,0
-26972,Dialog,FCUST,Careful. Any <race> folk walkin' the streets will be skinned alive by them soldiers.,"조심해요. <race>가 거리에서 걸어 다니면 병사들한테 산 채로 가죽 벗겨질 거예요.",2Q4A_FCUST,nw_d1_ctr02,,,,0,0
+26971,Dialog,FCUST,Ach. I can't believe it... a <race> roustabout wanderin' Luskan in broad daylight.,"아이고, 믿을 수가 없네... <race>(이)가 대낮에 러스칸을 활보하다니.",2Q4A_FCUST,nw_d1_ctr01,,,,0,0
+26972,Dialog,FCUST,Careful. Any <race> folk walkin' the streets will be skinned alive by them soldiers.,"조심해요. <race>(이)가 거리에서 걸어 다니면 병사들한테 산 채로 가죽 벗겨질 거예요.",2Q4A_FCUST,nw_d1_ctr02,,,,0,0
 26973,Dialog,FCUST,It used t' be that we never allowed any <race> types inside the city.,"예전엔 <race> 종류는 도시 안에 절대 안 들였었는데.",2Q4A_FCUST,nw_d1_ctr03,,,,0,0

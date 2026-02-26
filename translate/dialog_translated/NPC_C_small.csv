@@ -205,7 +205,7 @@
 65183,Creature,Child Refugee,You're kinda scary. Leave me alone!,좀 무서워. 저리 가!,NW_TAG_CHILD,,,,,0,0
 65184,Creature,Child Refugee,Daddy said you're the hero of Neverwinter. You don't look like no hero!,"아빠가 너를 네버윈터의 영웅이라고 했는데, 하나도 그렇게 안 보여!",NW_TAG_CHILD,,,,,0,0
 65185,Creature,Child Refugee,Are you an adventurer? That must be neat!,모험가야? 진짜 멋지다!,NW_TAG_CHILD,,,,,0,0
-65186,Creature,Child Refugee,My friend said you're not really <race>!,내 친구가 넌 진짜 <race>가 아니래!,NW_TAG_CHILD,,,,,0,0
+65186,Creature,Child Refugee,My friend said you're not really <race>!,내 친구가 넌 진짜 <race>(이)가 아니래!,NW_TAG_CHILD,,,,,0,0
 65187,Creature,Child Refugee,Mommy says you're the hero of Neverwinter. I want to be a hero!,엄마가 너를 네버윈터의 영웅이라던데. 나도 영웅이 되고 싶어!,NW_TAG_CHILD,,,,,0,0
 65188,Creature,Child Refugee,I know somebody who has a crush on you. (giggle!),너 좋아하는 사람 누군지 알아. (히히!),NW_TAG_CHILD,,,,,0,0
 65189,Creature,Child Refugee,"You're the hero of Neverwinter, aren't you? You are! You are!",네버윈터의 영웅 맞지? 맞지! 맞지!,NW_TAG_CHILD,,,,,0,0
@@ -331,8 +331,8 @@
 65642,Dialog,CULTPATROL1,More of Gend's puppies! 100 gold for each head ye bring me!,겐드의 애완견들이 또 있군! 머리 하나 가져오면 금화 100개다!,M3_CULTPATROL1,,,,,0,0
 65738,Creature,Cultist Archer,Cultist Archer,사교도 궁수,M3_CULTARCHER,,,,,0,0
 65739,Creature,Cult Leader,Cult Leader,사교 지도자,M3_CULTLEAD|M3_CULTLEAD2|M3_CULTLEAD3,,,,,0,0
-68416,Dialog,CLERIC1,Rise Morag's fallen! Kill your slayer in Her name!,"모라그의 쓰러진 자들이여, 일어나라! 그녀의 이름으로 너희를 쓰러뜨린 자를 죽여라!",M4Q1D07_CLERIC1,m4q1da_attonend,,,,0,0
-68417,Dialog,CLERIC1,"Die, slave! How dare you invade Morag's Inner Sanctum!","죽어라, 노예놈! 감히 모라그의 지성소를 침범하다니!",M4Q1D07_CLERIC1,m4q1da_attonend,,,,0,0
+68416,Dialog,CLERIC1,Rise Morag's fallen! Kill your slayer in Her name!,"모랙의 쓰러진 자들이여, 일어나라! 그녀의 이름으로 너희를 쓰러뜨린 자를 죽여라!",M4Q1D07_CLERIC1,m4q1da_attonend,,,,0,0
+68417,Dialog,CLERIC1,"Die, slave! How dare you invade Morag's Inner Sanctum!","죽어라, 노예놈! 감히 모랙의 지성소를 침범하다니!",M4Q1D07_CLERIC1,m4q1da_attonend,,,,0,0
 68430,Creature,Corrupted Copper Dragon,Corrupted Copper Dragon,오염된 황동룡,M4SOURCEDRAG1,,,,,0,0
 68431,Creature,Corrupted Silver Dragon,Corrupted Silver Dragon,오염된 은 용,M4SOURCEDRAG2,,,,,0,0
 69299,Dialog,CHEST,There are several magical wards on this chest which you cannot seem to penetrate.,"이 상자에는 여러 겹의 마법 봉인이 걸려 있어, 당신의 힘으로는 뚫을 수 없을 듯합니다.",Q1A2CHEST,,,,,0,0
