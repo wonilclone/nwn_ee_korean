@@ -1,9 +1,9 @@
 ﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 15256,PC,Player Character,"Yes, please give me Helm's blessing.","네, 헬름의 축복을 주세요.",m1q02allhelm,,[지능 보통],,,0,0
-15257,PC,Player Character,"No thanks, but have you any other services?","괜찮아요, 다른 서비스는 있나요?",m1q02allhelm,,[지능 보통],,,0,0
+15257,PC,Player Character,"No thanks, but have you any other services?","괜찮아요, 다른 도움은 받을 수 있나요?",m1q02allhelm,,[지능 보통],,,0,0
 15258,PC,Player Character,No thanks. Carry on with your work.,괜찮아요. 일하세요.,m1q02allhelm,,[지능 보통],,,0,0
 15259,PC,Player Character,Could you answer some questions for me?,질문 몇 개 해도 될까요?,m1q02allhelm,,[지능 보통],,,0,0
-15260,PC,Player Character,Have you any other services?,다른 서비스가 있나요?,m1q02allhelm,,[지능 보통],,,0,0
+15260,PC,Player Character,Have you any other services?,다른 도움을 받을 수 있나요?,m1q02allhelm,,[지능 보통],,,0,0
 15261,PC,Player Character,"Thank you, that will be all.","고마워요, 됐어요.",m1q02allhelm,,[지능 보통],,,0,0
 15262,PC,Player Character,"<StartCheck>[Insight]</Start> Tell me about Desther, your superior.",<StartCheck>[통찰]</Start> 상급자인 데스터에 대해 말해주세요.,m1q02allhelm,,nw_d2_wis_intn,,,0,0
 15263,PC,Player Character,What does your holy symbol mean?,성물의 의미가 뭔가요?,m1q02allhelm,,[매력 중간/지능 중간],,,0,0
@@ -15,7 +15,7 @@
 15273,PC,Player Character,Me want stuff. You sell any?,나 물건 원해. 파는 거 있어?,m1q02allhelm,,[지능 낮음],,,0,0
 15274,PC,Player Character,Okay. Me go now.,좋아. 나 간다.,m1q02allhelm,,[지능 낮음],,,0,0
 15275,PC,Player Character,Me still want stuff. You sell any?,나 아직도 물건 원해. 파는 거 있어?,m1q02allhelm,,[지능 낮음],,,0,0
-15282,PC,Player Character,What services do you offer?,어떤 서비스를 제공하나요?,m1q02allhelm,,[지능 보통],,,0,0
+15282,PC,Player Character,What services do you offer?,어떤 도움을 받을 수 있나요?,m1q02allhelm,,[지능 보통],,,0,0
 15283,PC,Player Character,What dat necklace all you priesties wear?,너희 신관들 다들 걸고 다니는 그 목걸이는 뭐지?,m1q02allhelm,,[매력 중간/지능 낮음],,,0,0
 15284,PC,Player Character,"Dat Wailing, dat plague stuff - what you know 'bout it?",그 울부짖는 죽음 역병-그거 뭐 알아?,m1q02allhelm,,[지능 낮음],,,0,0
 15285,PC,Player Character,What do you know about the prison riots?,감옥의 폭동에 대해 뭘 알고 있죠?,m1q02allhelm,,[지능 보통],,,0,0

@@ -101,7 +101,7 @@
 28271,Creature,Courtesan,I am a female courtesan.,난 고급 창부에요.,2Q4C_FEMALECOURT,,,,,0,0
 40693,Creature,Courtesan,Courtesan,고급 창부,2Q4C_FEMALECOURT,,,,,0,0
 24721,Creature,Cook,Cook,요리사,M1S2COOK|M3Q4_D14_COOK,,,,,0,0
-46955,Creature,Cook,Yeg. More guts 'n stuff for the stew!,엑. 스튜에 넣을 내장거리랑 잡동사니가 또 생겼네!,M3Q4_D14_COOK,,,,,0,0
+46955,Creature,Cook,Yeg. More guts 'n stuff for the stew!,엑. 고깃국에 넣을 내장거리랑 잡동사니가 또 생겼네!,M3Q4_D14_COOK,,,,,0,0
 92801,Creature,Cook,"""I sure am tired of all these bloody interruptions.""","""이 지독한 방해 때문에 정말 질렸어.""",Q2ACOOK,,,,,0,0
 92802,Creature,Cook,"""How can I concentrate on my cooking with all of that infernal noise outside.""","""바깥에서 저 지독한 소리가 계속 나는데 어떻게 요리에 집중하라는 거야.""",Q2ACOOK,q2a_talk_cook6,,,,0,0
 92803,Creature,Cook,"""What to make for dessert tonight, hmmmm...""","""오늘 디저트는 뭘 만들지, 으으음...""",Q2ACOOK,q2a_talk_cook5,,,,0,0
@@ -223,7 +223,7 @@
 46221,Creature,Chaplain,The face of Helm still gazes fondly upon us. Hope has not yet faded.,헬름의 성스러운 얼굴이 여전히 우리를 따뜻하게 굽어보고 있습니다. 희망은 아직 사라지지 않았습니다.,M3Q2AHEALER,,,,,0,0
 47008,Creature,Chaplain,Chaplain,성직자,M3Q2AHEALER,,,,,0,0
 46237,Dialog,CATAPULT,The siege weapon cannot be harmed while its commander is still alive.,지휘관이 살아 있는 동안에는 이 공성 무기는 피해를 입지 않습니다.,M3Q2A_CATAPULT,,,,,0,0
-46238,Dialog,CATAPULT,"Without the protection of its crew, the siege weapon is easily destroyed.",승무원의 보호가 없으면 이 공성 무기는 손쉽게 파괴됩니다.,M3Q2A_CATAPULT,m3q2a05_die,,,,0,0
+46238,Dialog,CATAPULT,"Without the protection of its crew, the siege weapon is easily destroyed.",운용병의 보호가 없으면 이 공성 무기는 손쉽게 파괴됩니다.,M3Q2A_CATAPULT,m3q2a05_die,,,,0,0
 65832,Dialog,CATAPULT,"Without the protection of its commander, the catapult is easily destroyed.",지휘관의 보호가 없으면 이 투석기는 손쉽게 파괴됩니다.,M4_CATAPULT,m4_catapult_dies,,,,0,0
 65833,Dialog,CATAPULT,The catapult cannot be harmed while its commander is still alive.,지휘관이 살아 있는 동안에는 이 투석기는 피해를 입지 않습니다.,M4_CATAPULT,,,,,0,0
 95563,Dialog,CATAPULT,One of the support timbers splintered when you threw the catapult over the river but it still appears to be workable.,"투석기를 강 너머로 던질 때 지지하던 목재 하나가 쪼개졌지만, 여전히 쓸 수 있는 상태로 보입니다.",CATAPULT,hx_cata_start_f,,,,0,0
@@ -328,7 +328,7 @@
 65639,Dialog,CULTPATROL1,Over there! Kill them and search their packs for the Words of Power!,저기다! 놈들을 죽이고 짐을 뒤져 권능의 언령을 찾아라!,M3_CULTPATROL1,,,,,0,0
 65640,Dialog,CULTPATROL1,None shall stop the Return! Death to the infidels!,그 누구도 귀환을 막을 수 없다! 이교도들에게 죽음을!,M3_CULTPATROL1,,,,,0,0
 65641,Dialog,CULTPATROL1,Death to all who oppose the Old Ones!,태고의 존재들에 맞서는 자는 모조리 죽여라!,M3_CULTPATROL1,,,,,0,0
-65642,Dialog,CULTPATROL1,More of Gend's puppies! 100 gold for each head ye bring me!,겐드의 강아지들이 또 있군! 머리 하나 가져오면 금화 100개다!,M3_CULTPATROL1,,,,,0,0
+65642,Dialog,CULTPATROL1,More of Gend's puppies! 100 gold for each head ye bring me!,겐드의 애완견들이 또 있군! 머리 하나 가져오면 금화 100개다!,M3_CULTPATROL1,,,,,0,0
 65738,Creature,Cultist Archer,Cultist Archer,사교도 궁수,M3_CULTARCHER,,,,,0,0
 65739,Creature,Cult Leader,Cult Leader,사교 지도자,M3_CULTLEAD|M3_CULTLEAD2|M3_CULTLEAD3,,,,,0,0
 68416,Dialog,CLERIC1,Rise Morag's fallen! Kill your slayer in Her name!,"모라그의 쓰러진 자들이여, 일어나라! 그녀의 이름으로 너희를 쓰러뜨린 자를 죽여라!",M4Q1D07_CLERIC1,m4q1da_attonend,,,,0,0

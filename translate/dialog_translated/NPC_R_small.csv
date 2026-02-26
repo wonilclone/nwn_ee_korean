@@ -12,7 +12,7 @@
 12529,Creature,Red Slaad,Fire Elemental,불의 원소 정령,M2Q3IFIRE|M3_FIRE|Q3_FIRE_ELEMENT,,,,,0,0
 12531,Creature,Red Slaad,Elder Fire Elemental,불의 원소 정령 장로,M2Q3IFIRE,,,,,0,0
 12533,Creature,Red Slaad,Huge Fire Elemental,거대 불의 원소 정령,M2Q3IFIRE|M3Q3D_FIREELEM|M3Q3FIREELEM1|M3Q3FIREELEM2|M3Q3FIREELEM3|M3Q3FIREELEM4|NW_BOSS,,,,,0,0
-12558,Creature,Red Slaad,Fire Giant,불의 거인,M2Q3IFIRE|M3Q4D12_FIRE|M3Q4E03_GIANT|M4Q4G05_GIANTP|M4Q4G06_GIANT,,,,,0,0
+12558,Creature,Red Slaad,Fire Giant,화염 거인,M2Q3IFIRE|M3Q4D12_FIRE|M3Q4E03_GIANT|M4Q4G05_GIANTP|M4Q4G06_GIANT,,,,,0,0
 12714,Creature,Red Slaad,Red Slaad,붉은 슬라드,M2Q3IFIRE|NW_SLAADRED|TM_CR_ART_SLAADR,,,,,0,0
 12682,Creature,Rakshasa,Rakshasa,락샤사,DB_VEJONI_TRUE|Q2CGUARDRAK,,,,,0,0
 40707,Creature,Rakshasa,Rakshasa,락샤사,2Q4D_RAKSHASA,,,,,0,0
@@ -66,7 +66,7 @@
 46233,Creature,Ruzon Vond,"I guess this is the last trip for Gonmir. He's dead. One of those barbarians got him with an arrow. I thought he'd make it, but... ",곤미르에게는 이번이 마지막 여행인 것 같아. 죽었어. 그 야만인 중 하나가 화살로 그를 맞혔어. 살 줄 알았는데...,M3Q2AWOUNDED1,,,,,0,0
 46234,Creature,Ruzon Vond,"I'm all right. When I get back to the Well, Neurik will heal me. Gonmir, he's not so lucky.","난 괜찮아. 우물로 돌아가면 뉴릭이 치료해 줄 거야. 곤미르는, 그렇게 운이 좋지 않아.",M3Q2AWOUNDED1,,,,,0,0
 46235,Creature,Ruzon Vond,"Whatever. I'm not waiting around here to die, I'm getting back to the Well.",됐어. 여기서 죽기 위해 기다리지 않을 거야. 우물로 돌아갈 거야.,M3Q2AWOUNDED1,nw_d2_leaverun,,,,0,0
-46236,Creature,Ruzon Vond,"Yeah, Fort Ilkard. It is just down the road. I'd stay clear of it though, if you're not a fighting <man/woman>.","응, 일카드 요새. 길 아래에 있어. 하지만 싸우는 <man/woman>이 아니라면 피하는 게 좋을 거야.",M3Q2AWOUNDED1,,,,,0,0
+46236,Creature,Ruzon Vond,"Yeah, Fort Ilkard. It is just down the road. I'd stay clear of it though, if you're not a fighting <man/woman>.","응, 일카드 요새. 길 아래에 있어. 하지만 싸우는 <man/woman>가 아니라면 피하는 게 좋을 거야.",M3Q2AWOUNDED1,,,,,0,0
 47010,Creature,Ruzon Vond,Ruzon,루존,M3Q2AWOUNDED1,,,,,0,0
 47011,Creature,Ruzon Vond,Vond,본드,M3Q2AWOUNDED1,,,,,0,0
 46257,Dialog,RIDDLECOL,Riddle of Light.,빛의 수수께끼.,M3Q2F20RIDDLECOL,,,,,0,0

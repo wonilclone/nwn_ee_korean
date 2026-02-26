@@ -102,13 +102,13 @@
 105092,Dialog,GOLEM,"""Well, its just a regular rush, now, isn't it.  What can I do for you?""","""글쎄요, 그냥 평범한 분주함이네요, 그렇죠. 무엇을 도와드릴까요?""",Q2D6GOLEM,,,,,0,0
 105093,Dialog,GOLEM,"""Two customers in one day - this is exciting.  What can I get for you?""","""하루에 손님이 둘이라니 - 정말 신나는데요. 무엇을 가져다 드릴까요?""",Q2D6GOLEM,nw_d1_talklevel,,,,0,0
 105094,Dialog,GOLEM,"This golem addresses you in a deep, ponderous voice. ""749 years, 17 days, 3 hours and 14 minutes ago, my creator thought this would be a good place to set up a bar.""","이 골렘이 깊고 무거운 목소리로 당신에게 말합니다. ""749년 17일 3시간 14분 전에, 제 창조자께서 이곳이 술집을 차리기 좋은 장소라고 생각하셨습니다.""",Q2D6GOLEM,,,,,0,0
-105095,Dialog,GOLEM,"""You are the first one ever to ask me for service.""","""당신이 제게 서비스를 요청한 첫 번째 사람입니다.""",Q2D6GOLEM,nw_d1_talklevel,,,,0,0
+105095,Dialog,GOLEM,"""You are the first one ever to ask me for service.""","""당신이 제게 시중을 요청한 첫 번째 사람입니다.""",Q2D6GOLEM,nw_d1_talklevel,,,,0,0
 105096,Dialog,GOLEM,The golem draws a grimy mug full of brownish sludge from the keg and hands it to you.,골렘이 통에서 갈색 찌꺼기로 가득한 더러운 머그잔을 꺼내 당신에게 건넵니다.,Q2D6GOLEM,act_q2d6golem_1,,,al_na_sludggrat1,0,0
 105097,Dialog,GOLEM,"You swear that the golem's expression changed to one of sadness for a second, but when you look again its face has returned to its normal expressionless state.","골렘의 표정이 잠깐 슬픔으로 바뀌었다고 확신하지만, 다시 보니 그 얼굴은 평소의 무표정한 상태로 돌아와 있습니다.",Q2D6GOLEM,,,,,0,0
 105098,Dialog,GOLEM,"""I know nothing beyond the walls of this tavern. I am sorry, but maybe one of the other patrons can give you more information.""","""이 술집 벽 너머의 일은 아무것도 모릅니다. 죄송하지만, 다른 손님들 중 한 명이 더 많은 정보를 줄 수 있을 것입니다.""",Q2D6GOLEM,,,,,0,0
 105099,Dialog,GOLEM,"""This is the Poison Chalice Palace tavern. My tavern, ever since my creator died. Mostly the merchants who visit the illithids come here. I think they feel safer being here together.""","""여긴 포이즌 칼리스 팰리스 술집입니다. 제 창조자가 돌아가신 이후로 제 술집이죠. 대부분 일리시드를 방문하는 상인들이 이곳에 옵니다. 그들은 여기 함께 있는 게 더 안전하다고 느끼는 것 같습니다.""",Q2D6GOLEM,,,,,0,0
 105100,Dialog,GOLEM,"""I am the bartender here. I was built to serve the needs of the customers... but until you I haven't had any.""","""저는 여기 바텐더입니다. 손님들의 필요를 충족시키기 위해 만들어졌죠... 하지만 당신 전까지는 손님이 없었습니다.""",Q2D6GOLEM,,,,,0,0
-105102,Dialog,GOLEM,"""You are the first one ever to ask me for service.""","""당신이 제게 서비스를 요청한 첫 번째 사람입니다.""",Q2D6GOLEM,nw_d1_talklevel,,,,0,0
+105102,Dialog,GOLEM,"""You are the first one ever to ask me for service.""","""당신이 제게 시중을 요청한 첫 번째 사람입니다.""",Q2D6GOLEM,nw_d1_talklevel,,,,0,0
 38105,Creature,Ganon,Destroy the troublemakers! The Return cannot be stopped!,말썽꾼들을 없애라! 귀환은 막을 수 없다!,M2Q5GANON,,,,,0,0
 40749,Creature,Ganon,Ganon,가논,M2Q5GANON,,,,,0,0
 40027,Dialog,GREENGRIFFON,North: Green Griffon Inn and Luskan. South: Port Llast.,북쪽: 푸른 그리핀 여관과 러스칸. 남쪽: 라스트 항구.,M2_GREENGRIFFON,,,,,0,0
@@ -190,9 +190,9 @@
 93938,Creature,Grayban,Me be Grayban. Me usually guard well. But no one can enter now so door be locked.,나는 그레이반이다. 나는 보통 잘 지킨다. 하지만 지금은 아무도 들어갈 수 없어서 문이 잠겼다.,Q2A_BUCK,,,,,0,0
 93939,Creature,Grayban,Yes. Bye.,그래. 잘 가.,Q2A_BUCK,,,,,0,0
 93940,Creature,Grayban,Me not like talk 'bout it.,나는 그것에 대해 말하는 거 안 좋아한다.,Q2A_BUCK,act_q2aypguard1,,,,0,0
-93941,Creature,Grayban,Boss said no one enters. Him told so by wizard guy.,보스가 아무도 들어갈 수 없다고 했다. 마법사 녀석이 그렇게 말했다.,Q2A_BUCK,,,,,0,0
+93941,Creature,Grayban,Boss said no one enters. Him told so by wizard guy.,두목이 아무도 들어갈 수 없다고 했다. 마법사 녀석이 그렇게 말했다.,Q2A_BUCK,,,,,0,0
 93942,Creature,Grayban,Well go to Undermountain. But that closed 'cause of fights.,음 언더마운틴으로 가라. 하지만 거기는 싸움 때문에 닫혔다.,Q2A_BUCK,,,,,0,0
-93943,Creature,Grayban,"Now, no more question. You go. You want in, must talk to boss.",이제 더 이상 질문 없다. 너 가라. 들어가고 싶으면 보스와 얘기해야 한다.,Q2A_BUCK,,,,,0,0
+93943,Creature,Grayban,"Now, no more question. You go. You want in, must talk to boss.",이제 더 이상 질문 없다. 너 가라. 들어가고 싶으면 두목과 얘기해야 한다.,Q2A_BUCK,,,,,0,0
 93944,Creature,Grayban,You no can enter well. You gets Durnan say so first.,너는 우물로 들어갈 수 없다. 먼저 더난이 그러라고 해야 한다.,Q2A_BUCK,con_q2aypguard8,,,,0,0
 93960,Creature,Grayban,"What you want. You gots me money, now leave me alone.",뭘 원하나. 네가 내 돈을 가졌다. 이제 나 좀 내버려 둬.,Q2A_BUCK,,,,,0,0
 94874,Creature,Grayban,Grayban,그레이반,Q2A_BUCK,,,,,0,0
