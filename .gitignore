@@ -46,6 +46,10 @@ nwmain.backup
 # Generated translation files
 /translate/dialog.csv
 
+# Portrait generated files
+/portraits/output/
+/portraits/frames_*/
+
 # Font source directory (download separately due to license)
 /fonts/
 
