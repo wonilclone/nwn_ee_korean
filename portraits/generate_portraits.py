@@ -45,12 +45,12 @@ def crop_to_content_ratio(img: Image.Image) -> Image.Image:
     최종 출력은 1:2 비율이고, 하단 패딩을 제외한 컨텐츠 영역은 1:1.5625 비율."""
     w, h = img.size
     content_ratio = 1 / (2 * (1 - BOTTOM_PADDING_RATIO))  # 컨텐츠 w:h 비율
-    target_w = int(h * content_ratio)
-    target_h = int(w / content_ratio)
+    target_w = round(h * content_ratio)
+    target_h = round(w / content_ratio)
 
-    if w > target_w:
+    if w - target_w > 1:
         img = img.crop((0, 0, target_w, h))
-    elif h > target_h:
+    elif h - target_h > 1:
         img = img.crop((0, 0, w, target_h))
 
     return img
