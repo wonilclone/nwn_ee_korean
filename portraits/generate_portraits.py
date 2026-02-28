@@ -56,6 +56,41 @@ def crop_to_content_ratio(img: Image.Image) -> Image.Image:
     return img
 
 
+def shrink_sources(sources: list[Path], max_height: int) -> None:
+    """소스 이미지를 컨텐츠 비율로 크롭하고 max_height 이하로 리사이즈하여 덮어쓴다."""
+    targets = []
+    for src in sources:
+        if not src.is_file():
+            continue
+        img = Image.open(src)
+        cropped = crop_to_content_ratio(img)
+        needs_crop = cropped.size != img.size
+        needs_resize = cropped.height > max_height
+        if needs_crop or needs_resize:
+            targets.append((src, img.size))
+
+    if not targets:
+        print(f"처리할 소스가 없습니다. (모두 비율 일치, {max_height}px 이하)")
+        return
+
+    print(f"소스 정리: {len(targets)}개 (크롭 + 최대 높이 {max_height}px)")
+    print()
+
+    for src, (ow, oh) in targets:
+        img = Image.open(src).convert("RGB")
+        img = crop_to_content_ratio(img)
+        cw, ch = img.size
+        if ch > max_height:
+            ratio = max_height / ch
+            img = img.resize((round(cw * ratio), max_height), Image.LANCZOS)
+        nw, nh = img.size
+        img.save(src)
+        print(f"  {src.name}: {ow}x{oh} → {nw}x{nh}")
+
+    print()
+    print("완료!")
+
+
 def generate_portrait(src_path: Path, output_dir: Path) -> None:
     """하나의 소스 이미지에서 5개 TGA 포트레이트를 생성한다."""
     name = src_path.stem
@@ -89,6 +124,8 @@ def main():
     parser.add_argument("--source", default=None, help="소스 디렉토리 (기본: portraits/source/)")
     parser.add_argument("--output", default=None, help="출력 디렉토리 (기본: portraits/output/)")
     parser.add_argument("--all", action="store_true", help="이미 존재하는 포트레이트도 재생성")
+    parser.add_argument("--shrink-source", type=int, metavar="MAX_HEIGHT", nargs="?", const=1024,
+                        help="소스 이미지를 MAX_HEIGHT 이하로 리사이즈 (기본: 1024, 포트레이트 생성 안함)")
     parser.add_argument("files", nargs="*", help="특정 파일만 처리 (미지정시 전체)")
     args = parser.parse_args()
 
@@ -100,8 +137,6 @@ def main():
         print(f"Error: 소스 디렉토리를 찾을 수 없습니다: {source_dir}")
         sys.exit(1)
 
-    output_dir.mkdir(parents=True, exist_ok=True)
-
     if args.files:
         sources = [Path(f) for f in args.files]
     else:
@@ -109,6 +144,12 @@ def main():
             f for f in source_dir.iterdir()
             if f.suffix.lower() in SUPPORTED_EXTENSIONS
         )
+
+    if args.shrink_source is not None:
+        shrink_sources(sources, args.shrink_source)
+        return
+
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     if not args.files and not args.all:
         sources = [
