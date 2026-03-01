@@ -30,7 +30,7 @@
 20988,Dialog,ATHURIN,"Would you? I suppose, at this point, I can't be too picky about whom I ask for help. If you could look for Samuel, <sir/madam>, it would be quite a relief.",정말 그럴 텐가? 이쯤 되면 누구에게든 도움을 구해야겠군. 사무엘을 찾아봐 주겠소? 그러면 한시름 덜겠소.,M1Q3ATHURIN,,,,,0,0
 20989,Dialog,ATHURIN,"If you do find him, tell him to return if he can. At the very least, I would like to be certain of his fate.","그를 찾거든, 가능하면 돌아오라 전해 주시오. 적어도 그의 운명만큼은 확실히 알고 싶소.",M1Q3ATHURIN,m1q3a00thurin02,,,,0,0
 20990,Dialog,ATHURIN,"Greetings again, <CUSTOM1005>. Have you had any progress? Have you found Samuel?","다시 만나 반갑소, <CUSTOM1005>. 진전이 있었소? 사무엘을 찾았소?",M1Q3ATHURIN,,,,,0,0
-20991,Dialog,ATHURIN,"Greetings. You must be with <CUSTOM1005>, correct?",안녕하시오. 그대는 <CUSTOM1005>와 함께인 게 맞소?,M1Q3ATHURIN,,,,,0,0
+20991,Dialog,ATHURIN,"Greetings. You must be with <CUSTOM1005>, correct?",안녕하시오. 그대는 <CUSTOM1005>(과)와 함께인 게 맞소?,M1Q3ATHURIN,,,,,0,0
 20992,Dialog,ATHURIN,"Thank you, thank you! Godspeed, my <lord/lady>!","고맙소, 고맙소! 행운을 비오, 모험가님!",M1Q3ATHURIN,,,,,0,0
 20993,Dialog,ATHURIN,"Thank you, <sir/madam>. I can only hope that you find him safe.",고맙소. 부디 무사히 찾아주길 바랄 뿐이오.,M1Q3ATHURIN,,,,,0,0
 20994,Dialog,ATHURIN,"<StartCheck>[Success]</Start> I... suppose that would be expected. I shall simply have to hope that you live up to your word. Here you go, then... and good luck in your search.","<StartCheck>[성공]</Start> ...그럴 법도 하군. 그대가 약속을 지키길 바랄 수밖에 없겠소. 자, 여기요... 수색에 행운을 비오.",M1Q3ATHURIN,nw_d1_gv100gp,,,,0,0
@@ -43,7 +43,7 @@
 21001,Dialog,ATHURIN,"Dead?! Ah, I see how you work. Everything neatly points to Meldanen. How convenient. I'll follow the evidence, but if it turns out you were involved, I'll see you hang.","죽었다고?! 아, 그대가 어떻게 일하는지 알겠군. 모든 것이 말끔히 멜다넨을 가리키게 해 놓다니. 참으로 편리하군. 나는 증거를 따를 것이오. 그러나 그대가 연루된 것으로 드러나면, 교수대로 보내 주겠소.",M1Q3ATHURIN,m1qa00thurinfail,,,,0,0
 21002,Dialog,ATHURIN,"I shall have to see about dealing with the sorcerer, himself, then. Meldanen will not get away with this!",그렇다면 요술사 놈은 내가 직접 처리 방도를 찾아야겠군. 멜다넨이 이 일에서 빠져나가게 두지 않겠소!,M1Q3ATHURIN,m1q3athurslg01,,,,0,0
 21003,Dialog,ATHURIN,"And you appear very upset by it. Hmph. At any rate, it appears that Meldanen is the real culprit, here.",그리고 그대가 그 일로 크게 동요한 듯하군. 흠. 어쨌든 이 일의 진범은 멜다넨인 듯하오.,M1Q3ATHURIN,m1qa00thurinfail,,,,0,0
-21004,Dialog,ATHURIN,"I see that <CUSTOM1005> has given you my ring. Does that mean the task is yours, now? Tell me, then, have you any news of Samuel?","보아하니 <CUSTOM1005>가 내 반지를 그대에게 주었군. 이제 임무가 그대 것이라는 뜻이오? 그렇다면 말해 보시오, 사무엘에 대한 소식이 있소?",M1Q3ATHURIN,,,,,0,0
+21004,Dialog,ATHURIN,"I see that <CUSTOM1005> has given you my ring. Does that mean the task is yours, now? Tell me, then, have you any news of Samuel?","보아하니 <CUSTOM1005>(이)가 내 반지를 그대에게 주었군. 이제 임무가 그대 것이라는 뜻이오? 그렇다면 말해 보시오, 사무엘에 대한 소식이 있소?",M1Q3ATHURIN,,,,,0,0
 21005,Dialog,ATHURIN,"I suppose it's only natural that additional help is needed to find Samuel. Tell me, has there been any progress?","사무엘을 찾으려면 추가 도움이 필요한 것도 당연하겠지. 말해 보시오, 진전이 있었소?",M1Q3ATHURIN,,,,,0,0
 21006,Dialog,ATHURIN,Samuel has already made it back to the barracks. I was quite surprised to hear what had happened to him... I didn't think the sorcerer had the gall in him.,사무엘은 이미 병영으로 돌아왔소. 그에게 무슨 일이 있었는지 듣고 꽤 놀랐지... 그 요술사에게 그런 배포가 있을 줄은 몰랐소.,M1Q3ATHURIN,,,,,0,0
 21007,Dialog,ATHURIN,"Here is the 300 gold pieces reward. It's a bit more than the guard can afford right now, obviously, but you've certainly earned it. Samuel is a close friend, after all.","여기 보상 금화 300이오. 지금 경비대 형편으론 다소 무리겠지만, 그대는 확실히 그 값을 했소. 사무엘은 내게 각별한 벗이기도 하니 말이오.",M1Q3ATHURIN,,,,,0,0

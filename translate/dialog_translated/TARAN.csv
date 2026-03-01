@@ -27,7 +27,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 29646,Dialog,TARAN,Here. This ring will show Neva that I sent you. Please take care of it.,"여기요. 이 반지를 보여주면 네바가 제가 보냈다는 걸 알 거예요. 잘 부탁드려요.",M2Q1000TARAN,,,,,0,0
 29647,Dialog,TARAN,Please hurry. Bring him back to me safely.,서둘러 주세요. 안전하게 데려와 주세요.,M2Q1000TARAN,,,,,0,0
 29648,Dialog,TARAN,"Well met, <CUSTOM1001>. Have you had any progress? Have you found Neva yet?","반갑습니다, <CUSTOM1001>. 진전이 있나요? 네바를 찾으셨나요?",M2Q1000TARAN,nw_d1_heartoff,,,vs_nfanatm1_057,0,0
-29649,Dialog,TARAN,"Hello, are you with <CUSTOM1001>?","안녕하세요, <CUSTOM1001>과 함께 오신 건가요?",M2Q1000TARAN,nw_d1_heartoff,,,vs_nfanatm1_059,0,0
+29649,Dialog,TARAN,"Hello, are you with <CUSTOM1001>?","안녕하세요, <CUSTOM1001>(과)와 함께 오신 건가요?",M2Q1000TARAN,nw_d1_heartoff,,,vs_nfanatm1_059,0,0
 29650,Dialog,TARAN,"Thank you so much, my bravest. I shall pray for your swift and safe return.","정말 감사합니다, 용감한 분. 빨리 무사히 돌아오시길 기도할게요.",M2Q1000TARAN,m2q6jaheel004,,,,0,0
 29651,Dialog,TARAN,Bless you brave one. I shall pray for your swift and safe return.,용감한 분이시군요. 빨리 무사히 돌아오시길 기도할게요.,M2Q1000TARAN,m2q6jaheel004,,,,0,0
 29652,Dialog,TARAN,<StartCheck>[Success]</Start> Obviously I have hired the right <man/woman> for the job. You should be well prepared with 100 gold to assist you.,<StartCheck>[성공]</Start> 확실히 적임자를 고용했네요. 준비를 잘 하실 수 있도록 금화 100개를 드릴게요.,M2Q1000TARAN,m2q6jaheel005,,,,0,0
@@ -38,7 +38,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 29657,Dialog,TARAN,I notice you don't have the ring that I gave you. I certainly hope you didn't lose it... Neva might fear to join you if he thinks it is a trap.,"제가 드린 반지가 없네요. 잃어버리지 않으셨길 바라요... 네바가 함정이라고 생각하면 따라오지 않을 거예요.",M2Q1000TARAN,,,,,0,0
 29658,Dialog,TARAN,I am glad you still have the ring I gave you. Be brave my hero!,제가 드린 반지를 아직 가지고 계시네요. 용감하게 싸워주세요!,M2Q1000TARAN,,,,,0,0
 29659,Dialog,TARAN,It is in the hills just outside of Charwood. If you search carefully you should find it.,그을린숲 바로 바깥 언덕에 있어요. 잘 찾아보시면 발견하실 거예요.,M2Q1000TARAN,,,,,0,0
-29660,Dialog,TARAN,I see that <CUSTOM1001> has turned Neva's ring over to you. Are you the person helping me now? What can I help you with?,"<CUSTOM1001>이 네바의 반지를 넘기셨군요. 이제 당신이 도와주시는 건가요? 무엇을 도와드릴까요?",M2Q1000TARAN,,,,,0,0
+29660,Dialog,TARAN,I see that <CUSTOM1001> has turned Neva's ring over to you. Are you the person helping me now? What can I help you with?,"<CUSTOM1001>(이)가 네바의 반지를 넘기셨군요. 이제 당신이 도와주시는 건가요? 무엇을 도와드릴까요?",M2Q1000TARAN,,,,,0,0
 29661,Dialog,TARAN,I guess my brother could use all the help he can get. How can I assist you?,동생에게 도움이 많으면 많을수록 좋겠죠. 무엇을 도와드릴까요?,M2Q1000TARAN,,,,,0,0
 29662,Dialog,TARAN,He is in a bandit camp near some standing stones in the hills just outside of Charwood.,그을린숲 바로 바깥 언덕의 표석 근처 산적 캠프에 있어요.,M2Q1000TARAN,,,,,0,0
 29663,Dialog,TARAN,Please be quick my hero. I will pray for you.,빨리 부탁드려요. 기도하고 있을게요.,M2Q1000TARAN,,,,,0,0
@@ -46,7 +46,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 29665,Dialog,TARAN,"I'm sorry, but I really must be leaving. Excuse me.","죄송하지만, 정말 가봐야 해요. 실례합니다.",M2Q1000TARAN,,,,vs_nfanatm1_054,0,0
 29666,Dialog,TARAN,I'm sorry. I just thought he must have asked you to help me.,죄송해요. 그분이 저를 도와달라고 부탁하셨나 싶어서요.,M2Q1000TARAN,,,,,0,0
 29667,Dialog,TARAN,I guess more help is better than less. ,도움이 많으면 많을수록 좋겠죠.,M2Q1000TARAN,,,,,0,0
-29668,Dialog,TARAN,"Thank you so much for offering, kind <lord/lady>, but <CUSTOM1001> has already agreed to help me. ","제안해 주셔서 감사하지만, <CUSTOM1001>이 이미 도와주기로 하셨어요.",M2Q1000TARAN,,,,,0,0
+29668,Dialog,TARAN,"Thank you so much for offering, kind <lord/lady>, but <CUSTOM1001> has already agreed to help me. ","제안해 주셔서 감사하지만, <CUSTOM1001>(이)가 이미 도와주기로 하셨어요.",M2Q1000TARAN,,,,,0,0
 29669,Dialog,TARAN,"Of course if you were the one to rescue Neva, then you would be the one to claim the reward. I would also like to add that gold is not the only reward I might offer a brave <man/woman> like you.","물론 당신이 네바를 구해주신다면 보상은 당신이 받으시겠죠. 그리고 당신처럼 용감한 분께는 금화 말고도 다른 보상도 드릴 수 있다는 점도 알아두세요.",M2Q1000TARAN,nw_d1_j_resc18,,,,0,0
 29670,Dialog,TARAN,"You must go now. Please hurry, my brother's life is dear to me.","이제 가셔야 해요. 서둘러 주세요, 동생의 목숨이 소중하니까요.",M2Q1000TARAN,m2escapearea,,,,0,0
 29671,Dialog,TARAN,You are back so soon? Have you found my little brother?,벌써 돌아오셨나요? 동생을 찾으셨나요?,M2Q1000TARAN,nw_d1_heartoff,,,vs_nfanatm1_058,0,0

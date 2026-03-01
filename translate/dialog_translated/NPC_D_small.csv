@@ -267,11 +267,11 @@
 70097,Dialog,DOLDMAN,"Ye got that right. Now run along and bother someone younger, ye little vagrant.","맞는 말이야. 이제 다른 사람이나 귀찮게 하러 가 보시지, 이 부랑자야.",Q1DOLDMAN,,,,,0,0
 70098,Dialog,DOLDMAN,"Kobolds started a fight they couldn't finish. Barricaded themselves in the kitchen, I think, an' got themselves a hostage.","코볼트들이 감당도 못할 싸움을 걸었지. 아마 주방에 틀어박혀, 인질을 하나 잡았을 게다.",Q1DOLDMAN,,,,,0,0
 70099,Dialog,DOLDMAN,"Ye got that right. Can't remember the last time them little kobolds got so brave. They like to steal, usually, but not fight.","맞아, 이렇게 배짱 부리는 꼬마 놈들은 본 적이 없지. 걔네는 보통 훔치기나 좋아하지, 싸우진 않거든.",Q1DOLDMAN,,,,,0,0
-70100,Dialog,DOLDMAN,"Nasty, sneaky buggers. Probably from up in the Nether Mountains, I'd wager. You go out to Blumberg, you'll find good paths that lead up there.","얌체 같고 교활한 것들. 네더 산맥 쪽에서 내려왔을 거라고 본다. 블럼버그로 나가 보면, 그리로 올라가는 괜찮은 길을 찾을 수 있을 게야.",Q1DOLDMAN,,,,,0,0
+70100,Dialog,DOLDMAN,"Nasty, sneaky buggers. Probably from up in the Nether Mountains, I'd wager. You go out to Blumberg, you'll find good paths that lead up there.","얌체 같고 교활한 것들. 네더 산맥 쪽에서 내려왔을 거라고 본다. 블룸버그로 나가 보면, 그리로 올라가는 괜찮은 길을 찾을 수 있을 게야.",Q1DOLDMAN,,,,,0,0
 70101,Dialog,DOLDMAN,"Ye're asking me? Huh. Maybe they got driven out of their caves by somethin' bigger, or maybe they got told to attack. I don't know.","나한테 묻는건가? 으음. 더 큰 무언가에게 쫓겨났거나, 공격하라고 시킨 자가 있던 걸지도 모르지.",Q1DOLDMAN,,,,,0,0
 70102,Dialog,DOLDMAN,"Huh. Maybe so. You <race> folk looks young, an' that's all I have to say about that.",그럴 수도 있지. 자네 <race> 족은 어려 보이더군. 그 말밖에 할 말이 없네.,Q1DOLDMAN,,,,,0,0
 72642,Dialog,DAEMONFEY,Bow to the great mistress!,위대한 여주인님께 숙이시오!,Q3DAEMONFEY,,,,,0,0
-74024,Dialog,DYINGMAN,"A blessed... sight you are, <sir/madam>! I... I am almost done for... but... you must flee... flee from this place. Blumberg is... destroyed.","축복 같은... 모습이군요, 선생님! 전... 이젠 거의 끝장이지만... 어서 도망치세요... 여기서 떠나요. 블럼버그는... 파괴되었습니다.",Q6_DYINGMAN,,,,,0,0
+74024,Dialog,DYINGMAN,"A blessed... sight you are, <sir/madam>! I... I am almost done for... but... you must flee... flee from this place. Blumberg is... destroyed.","축복 같은... 모습이군요, 선생님! 전... 이젠 거의 끝장이지만... 어서 도망치세요... 여기서 떠나요. 블룸버그는... 파괴되었습니다.",Q6_DYINGMAN,,,,,0,0
 74025,Dialog,DYINGMAN,Aaarrrgghhh!,아으으으악!,Q6_DYINGMAN,act_q6man_6,,,,0,0
 74026,Dialog,DYINGMAN,"Oh, the pain!","아, 아파!",Q6_DYINGMAN,act_q6man_5,,,,0,0
 74027,Dialog,DYINGMAN,Your powers have saved me!,당신이 날 살렸어요!,Q6_DYINGMAN,,,,,0,0
@@ -280,7 +280,7 @@
 74030,Dialog,DYINGMAN,"Oh, <sir/madam>, I cannot tell you how wonderful it feels. If I had any worldly possessions left, I would gladly share them all with you.","아, 선생님, 이 느낌이 얼마나 멋진지 말로 다 못 해요. 세상 재산이 남아 있었다면 기꺼이 모두 나눴을 텐데요.",Q6_DYINGMAN,,,,,0,0
 74031,Dialog,DYINGMAN,"Unfortunately the gnolls have stolen or burnt everything. Such is life, to go from the richest man in the village, to the only surviving man.","안타깝게도 놀들이 전부 훔치거나 불태워 버렸죠. 마을의 최고 부자에서 유일한 생존자로 전락하다니, 인생이란 그런가 봅니다.",Q6_DYINGMAN,,,,,0,0
 74034,Dialog,DYINGMAN,"We were attacked by gnolls! They came in and burned the entire village to the ground. Some people were hauled off as slaves, but most were killed.","놀들이 습격했어요! 들이닥쳐 마을을 모조리 불태웠죠. 몇몇은 노예로 끌려가고, 대부분은 살해당했어요.",Q6_DYINGMAN,,,,,0,0
-74035,Dialog,DYINGMAN,"They said they were looking for a kobold, but I never saw any such creature in Blumberg.","코볼트를 찾는다고 하더군요, 하지만 블럼버그에서 그런 생명체는 본 적이 없는데요.",Q6_DYINGMAN,,,,,0,0
+74035,Dialog,DYINGMAN,"They said they were looking for a kobold, but I never saw any such creature in Blumberg.","코볼트를 찾는다고 하더군요, 하지만 블룸버그에서 그런 생명체는 본 적이 없는데요.",Q6_DYINGMAN,,,,,0,0
 74036,Dialog,DYINGMAN,"I think there may be some of the villains left in the village, but now that you are here, I am sure we can take them on!","아직 악당들이 마을에 좀 남아 있을지도 몰라요. 하지만 이제 당신이 왔으니, 우린 분명 놈들을 상대할 수 있을 겁니다!",Q6_DYINGMAN,,,,,0,0
 74037,Dialog,DYINGMAN,"Oh, <sir/madam>, I am ready! Nothing will hold me from taking my revenge! Give me a weapon and armor and I will serve you until...","아, 선생님, 준비됐습니다! 복수를 막을 건 아무것도- 무기를 주시고 갑옷을 주시면 전 당신을 위해-",Q6_DYINGMAN,,,,,0,0
 74038,Dialog,DYINGMAN,What is that noise?,저 소리는 뭐죠?,Q6_DYINGMAN,,,,,0,0

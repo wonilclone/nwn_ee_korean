@@ -9,7 +9,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 72366,Dialog,GLENDIR,"That's, uh, kind of what I was hoping you'd think. Would you... still show me where the exit is?","그게, 어, 당신이 그렇게 생각해주길 바랐던 거예요. 그래도... 출구가 어딘지 알려줄 수 있어요?",Q3_GLENDIR,,,,,0,0
 72367,Dialog,GLENDIR,"I... I... well I just... ohhh, damn it anyway!","저... 저... 그냥 저는... 아휴, 됐어요 뭐!",Q3_GLENDIR,,,,,0,0
 72368,Dialog,GLENDIR,"Look, I... I told the gnolls that so they would think I was worth something as a hostage! So they wouldn't eat me! And... I didn't think you would free me, either.","봐요, 저... 저는 놀들에게 그렇게 말해서 제가 인질로 가치가 있다고 생각하게 한 거예요! 그래야 날 안 잡아먹으니까! 그리고... 당신이 날 풀어줄 거라고도 생각 못 했어요.",Q3_GLENDIR,,,,,0,0
-72369,Dialog,GLENDIR,"The truth is... I don't have any money. Everything I had was in Blumberg and now it's gone. My sister is a smith in Hilltop, but she certainly isn't rich.","사실은... 돈이 없어요. 가진 건 전부 블럼버그에 있었는데 이제 다 사라졌어요. 누나가 힐탑에서 대장장이를 하는데, 부자는 분명히 아니에요.",Q3_GLENDIR,q3_knowsmith,,,,0,0
+72369,Dialog,GLENDIR,"The truth is... I don't have any money. Everything I had was in Blumberg and now it's gone. My sister is a smith in Hilltop, but she certainly isn't rich.","사실은... 돈이 없어요. 가진 건 전부 블룸버그에 있었는데 이제 다 사라졌어요. 누나가 힐탑에서 대장장이를 하는데, 부자는 분명히 아니에요.",Q3_GLENDIR,q3_knowsmith,,,,0,0
 72370,Dialog,GLENDIR,"You... still want the promissory note? But, uhhh... Fiona won't pay this, I'm sure!","아직도... 약속어음을 원해요? 하지만, 어... 피오나가 이걸 안 갚을 거예요, 분명해요!",Q3_GLENDIR,,,,,0,0
 72371,Dialog,GLENDIR,Okay... uhhh... will you still show me where the exit is?,좋아요... 어... 그래도 출구가 어딘지 알려줄 거예요?,Q3_GLENDIR,,,,,0,0
 72372,Dialog,GLENDIR,"I... I... suppose that's, uh, between you and her, then. Here you go. Will you show me to the exit now?","저... 저... 그건, 어, 당신과 누나 사이의 문제겠네요. 여기요. 이제 출구로 데려다줄 거예요?",Q3_GLENDIR,q3_givenote,,,,0,0
@@ -34,7 +34,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 72391,Dialog,GLENDIR,"Ahh! No no! No, please, don't do that! I hate pain!","아! 안 돼 안 돼! 제발, 그러지 마세요! 아픈 건 싫어요!",Q3_GLENDIR,,,,,0,0
 72392,Dialog,GLENDIR,"Oh... well I, ah, didn't know you knew that...","아... 그게, 아, 그걸 아셨는지 몰랐어요...",Q3_GLENDIR,,,,,0,0
 72393,Dialog,GLENDIR,"Look, I... I told the gnolls that so they would think I was worth something as a hostage! So they wouldn't eat me! Can you blame me?","봐요, 저... 저는 놀들에게 그렇게 말해서 제가 인질로 가치가 있다고 생각하게 한 거예요! 그래야 날 안 잡아먹으니까! 제가 잘못했나요?",Q3_GLENDIR,q3_glendir02,,,,0,0
-72394,Dialog,GLENDIR,"The truth is... I don't have any money. Everything I had was in Blumberg and now it's gone. My sister is a smith in Hilltop, but she certainly isn't rich.","사실은... 돈이 없어요. 가진 건 전부 블럼버그에 있었는데 이제 다 사라졌어요. 누나가 힐탑에서 대장장이를 하는데, 부자는 분명히 아니에요.",Q3_GLENDIR,q3_knowsmith,,,,0,0
+72394,Dialog,GLENDIR,"The truth is... I don't have any money. Everything I had was in Blumberg and now it's gone. My sister is a smith in Hilltop, but she certainly isn't rich.","사실은... 돈이 없어요. 가진 건 전부 블룸버그에 있었는데 이제 다 사라졌어요. 누나가 힐탑에서 대장장이를 하는데, 부자는 분명히 아니에요.",Q3_GLENDIR,q3_knowsmith,,,,0,0
 72395,Dialog,GLENDIR,"No, please! Please! I'll... I'll do anything! Anything!","안 돼요, 제발! 제발! 저... 뭐든지 할게요! 뭐든지요!",Q3_GLENDIR,,,,,0,0
 72396,Dialog,GLENDIR,"It is, it is! Please... won't you let me out of here?","맞아요, 맞아요! 제발... 여기서 꺼내주시겠어요?",Q3_GLENDIR,,,,,0,0
 72397,Dialog,GLENDIR,"Uhhh... yes, her name is Fiona. But I don't know if she would help me out at all. Does... does this mean I have to stay in the cage?","어... 네, 누나 이름은 피오나예요. 하지만 도와줄지는 모르겠어요. 이게... 이게 우리 안에 있어야 한다는 뜻인가요?",Q3_GLENDIR,,,,,0,0

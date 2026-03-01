@@ -26,7 +26,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 29438,Dialog,JAHEL,"I know Neva is being held at a bandit camp near some standing stones just outside of Charwood, but I have no idea how many people are holding him or what exactly to expect.","네바가 그을린숲 바로 바깥 표석 근처 산적 캠프에 잡혀 있는 건 알지만, 몇 명이 지키고 있는지나 정확히 어떤 상황인지는 몰라요.",M2Q1000JAHEL,nw_d1_j_resc02,,,,0,0
 29440,Dialog,JAHEL,Please hurry. Bring him back to me safely.,서둘러 주세요. 무사히 데려와 주세요.,M2Q1000JAHEL,,,,,0,0
 29441,Dialog,JAHEL,"Well met, <CUSTOM1001>. Have you had any progress? Have you found Neva yet?","반가워요, <CUSTOM1001>. 진전이 있으세요? 네바를 찾았나요?",M2Q1000JAHEL,nw_d1_heartoff,,,vs_nfanatf1_063,0,0
-29442,Dialog,JAHEL,"Hello, are you with <CUSTOM1001>?","안녕하세요, <CUSTOM1001>과 함께 오셨나요?",M2Q1000JAHEL,nw_d1_heartoff,,,vs_nfanatf1_065,0,0
+29442,Dialog,JAHEL,"Hello, are you with <CUSTOM1001>?","안녕하세요, <CUSTOM1001>(과)와 함께 오셨나요?",M2Q1000JAHEL,nw_d1_heartoff,,,vs_nfanatf1_065,0,0
 29443,Dialog,JAHEL,"Thank you so much, my bravest. I shall pray for your swift and safe return.","정말 감사해요, 용감한 분. 빠르고 안전하게 돌아오시길 기도할게요.",M2Q1000JAHEL,m2q6jaheel004,,,,0,0
 29444,Dialog,JAHEL,Bless you brave one. I shall pray for your swift and safe return.,용감한 분께 축복을. 빠르고 안전하게 돌아오시길 기도할게요.,M2Q1000JAHEL,m2q6jaheel004,,,,0,0
 29445,Dialog,JAHEL,<StartCheck>[Success]</Start> Obviously I have hired the right <man/woman> for the job. You should be well prepared with 100 gold to assist you.,<StartCheck>[성공]</Start> 확실히 적임자를 고용했네요. 도움이 되시라고 금화 100개를 드릴게요.,M2Q1000JAHEL,m2q6jaheel005,,,,0,0
@@ -37,7 +37,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 29450,Dialog,JAHEL,I notice you don't have the ring that I gave you. I certainly hope you didn't lose it... Neva might fear to join you if he thinks it is a trap.,"제가 드린 반지가 없네요. 잃어버리지 않으셨길 바라요... 네바가 함정이라고 생각하면 따라오지 않을 수도 있어요.",M2Q1000JAHEL,,,,,0,0
 29451,Dialog,JAHEL,I am glad you still have the ring I gave you. Be brave my hero!,제가 드린 반지를 아직 갖고 계시네요. 용감하게 다녀오세요!,M2Q1000JAHEL,,,,,0,0
 29452,Dialog,JAHEL,It is in the hills just outside of Charwood. If you search carefully you should find it.,그을린숲 바로 바깥 언덕에 있어요. 꼼꼼히 찾으시면 발견하실 거예요.,M2Q1000JAHEL,,,,,0,0
-29453,Dialog,JAHEL,I see that <CUSTOM1001> has turned Neva's ring over to you. Are you the hero helping me now? What can I help you with?,"<CUSTOM1001>이 네바의 반지를 넘겨주셨군요. 지금 저를 돕는 영웅이 되신 건가요? 뭘 도와드릴까요?",M2Q1000JAHEL,,,,,0,0
+29453,Dialog,JAHEL,I see that <CUSTOM1001> has turned Neva's ring over to you. Are you the hero helping me now? What can I help you with?,"<CUSTOM1001>(이)가 네바의 반지를 넘겨주셨군요. 지금 저를 돕는 영웅이 되신 건가요? 뭘 도와드릴까요?",M2Q1000JAHEL,,,,,0,0
 29454,Dialog,JAHEL,I guess my brother could use all the help he can get. How can I assist you?,동생에게 도움은 많을수록 좋겠죠. 어떻게 도와드릴까요?,M2Q1000JAHEL,,,,,0,0
 29455,Dialog,JAHEL,He is at a bandit camp near some standing stones in the hills just outside of Charwood.,그을린숲 바로 바깥 언덕의 표석 근처 산적 캠프에 있어요.,M2Q1000JAHEL,,,,,0,0
 29456,Dialog,JAHEL,Please be quick my hero. I will pray for you.,서둘러 주세요. 기도할게요.,M2Q1000JAHEL,,,,,0,0
@@ -45,7 +45,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 29458,Dialog,JAHEL,"I'm sorry, but I really must be leaving. Excuse me.","죄송하지만, 정말 가봐야 해요. 실례할게요.",M2Q1000JAHEL,,,,vs_nfanatf1_060,0,0
 29459,Dialog,JAHEL,I'm sorry. I just thought you might have been asked to help me.,죄송해요. 저를 도와달라는 부탁을 받으신 줄 알았어요.,M2Q1000JAHEL,,,,,0,0
 29460,Dialog,JAHEL,I guess more help is better than less. ,도움은 많을수록 좋겠죠.,M2Q1000JAHEL,,,,,0,0
-29461,Dialog,JAHEL,"Thank you so much for offering, kind <man/woman>, but <CUSTOM1001> has already agreed to help me. ","제안해 주셔서 감사하지만, <CUSTOM1001>이 이미 도와주기로 하셨어요.",M2Q1000JAHEL,,,,,0,0
+29461,Dialog,JAHEL,"Thank you so much for offering, kind <man/woman>, but <CUSTOM1001> has already agreed to help me. ","제안해 주셔서 감사하지만, <CUSTOM1001>(이)가 이미 도와주기로 하셨어요.",M2Q1000JAHEL,,,,,0,0
 29462,Dialog,JAHEL,"Of course if you were the one to rescue Neva, then you would be the one to claim the reward. I would also like to add that gold is not the only reward I might offer a brave man like you.","물론 네바를 구하시는 분이 보상을 받으실 거예요. 그리고 당신처럼 용감한 분께 드릴 보상은 금만이 아니에요.",M2Q1000JAHEL,nw_d1_j_resc18,,,,0,0
 29463,Dialog,JAHEL,"I must go now. Please hurry, my brother's life is dear to me.","이제 가봐야 해요. 서둘러 주세요, 동생의 생명은 제게 소중해요.",M2Q1000JAHEL,m2escapearea,,,,0,0
 29464,Dialog,JAHEL,You are back so soon? Have you found my little brother?,벌써 돌아오셨어요? 제 동생을 찾았나요?,M2Q1000JAHEL,nw_d1_heartoff,,,vs_nfanatf1_064,0,0

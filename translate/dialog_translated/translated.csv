@@ -999,15 +999,15 @@ The basic statistics that define your character are divided among six ability sc
 Intelligence determines how well your character learns and reasons. Intelligence is important for wizards because it affects how many spells they can cast, how hard their spells are to resist, and how powerful their spells can be. It is also important for any character who wants to have a strong assortment of skills, however increasing your Intelligence will not grant bonus skill points retroactively. NOTE: Sorcerers do not use Intelligence for any of their spellcasting - Charisma is used instead.
 
 ","주의: 지능이 9보다 낮으면 캐릭터가 제대로 말할 수 없습니다.\n\n지능은 캐릭터의 학습 능력과 사고력을 나타냅니다. 지능은 마법사가 얼마나 강하고(저항하기 어려운) 많은 주문을 사용할 수 있는지를 결정하므로 매우 중요합니다. 그리고 얻을 수 있는 기술 점수에 반영되므로 강력한 기술을 가지려는 모든 캐릭터에게도 중요하지만, 지능이 상승한다고 해서 보너스 기술 점수가 소급 적용되어 부여되지는 않습니다. 참고: 요술사는 주문 시전에 있어서 지능을 활용하지 않습니다 대신 매력을 활용합니다.",,,,,,0,0
-464,,,"Chaotic Evil ""Destroyer""","혼독 악 \""파괴자\""",,,,,,0,0
-465,,,"Chaotic Good ""Rebel""","혼돈 선 \""반역자\""",,,,,,0,0
-466,,,"Chaotic Neutral ""Free Spirit""","혼돈 중립 \""자유로운 영혼\""",,,,,,0,0
-467,,,"Lawful Evil ""Dominator""","질서 악 \""지배자\""",,,,,,0,0
-468,,,"Lawful Good ""Crusader""","질서 선 \""성전사\""",,,,,,0,0
-469,,,"Lawful Neutral ""Judge""","질서 중립 \""심판관\""",,,,,,0,0
-470,,,"Neutral Evil ""Malefactor""","중립 악 \""악한\""",,,,,,0,0
-471,,,"Neutral Good ""Benefactor""","중립 선 \""후원자\""",,,,,,0,0
-472,,,"True Neutral ""Undecided""","완전한 중립 \""결정짓지 않은자\""",,,,,,0,0
+464,,,"Chaotic Evil ""Destroyer""","혼돈 악 ""파괴자""",,,,,,0,0
+465,,,"Chaotic Good ""Rebel""","혼돈 선 ""반역자""",,,,,,0,0
+466,,,"Chaotic Neutral ""Free Spirit""","혼돈 중립 ""자유로운 영혼""",,,,,,0,0
+467,,,"Lawful Evil ""Dominator""","질서 악 ""지배자""",,,,,,0,0
+468,,,"Lawful Good ""Crusader""","질서 선 ""성전사""",,,,,,0,0
+469,,,"Lawful Neutral ""Judge""","질서 중립 ""심판관""",,,,,,0,0
+470,,,"Neutral Evil ""Malefactor""","중립 악 ""악한""",,,,,,0,0
+471,,,"Neutral Good ""Benefactor""","중립 선 ""후원자""",,,,,,0,0
+472,,,"True Neutral ""Undecided""","완전한 중립 ""결정짓지 않은자""",,,,,,0,0
 473,,,Strength Information,근력 정보,,,,,,0,0
 474,,,Dexterity Information,민첩 정보,,,,,,0,0
 475,,,Constitution Information,체질 정보,,,,,,0,0
@@ -16493,7 +16493,7 @@ available at this level.",이 레벨에서 \n구할 수 있는 주문이 더 없
 10468,,,Acquired Item: <CUSTOM0>,획득한 아이템: <CUSTOM0>,,,,,,0,0
 10469,,,Lost Item: <CUSTOM0>,아이템 잃음: <CUSTOM0>,,,,,,0,0
 10470,,,<CUSTOM0> attacks <CUSTOM1> : *<CUSTOM2>* : (<CUSTOM3> <CUSTOM4> <CUSTOM5> = <CUSTOM6><CUSTOM7>),<CUSTOM0>이(가) <CUSTOM1>을(를) 공격: *<CUSTOM2>* : (<CUSTOM3> <CUSTOM4> <CUSTOM5> = <CUSTOM6><CUSTOM7>),,,,,,0,0
-10471,,,<CUSTOM0> attempts <CUSTOM1> on <CUSTOM2> : *<CUSTOM3>* : (<CUSTOM4> <CUSTOM5> <CUSTOM6> = <CUSTOM7><CUSTOM8>),<CUSTOM0>이(가) <CUSTOM2>에게 <CUSTOM1>를 시도: *<CUSTOM3>* : (<CUSTOM4> <CUSTOM5> <CUSTOM6> = <CUSTOM7><CUSTOM8>),,,,,,0,0
+10471,,,<CUSTOM0> attempts <CUSTOM1> on <CUSTOM2> : *<CUSTOM3>* : (<CUSTOM4> <CUSTOM5> <CUSTOM6> = <CUSTOM7><CUSTOM8>),<CUSTOM0>이(가) <CUSTOM2>에게 <CUSTOM1>을(를) 시도: *<CUSTOM3>* : (<CUSTOM4> <CUSTOM5> <CUSTOM6> = <CUSTOM7><CUSTOM8>),,,,,,0,0
 10473,,,<CUSTOM0><CUSTOM1> : <CUSTOM2><CUSTOM3> : *<CUSTOM4>* : (<CUSTOM5> <CUSTOM6> <CUSTOM7> = <CUSTOM8> vs. DC: <CUSTOM9>),<CUSTOM0><CUSTOM1> : <CUSTOM2><CUSTOM3> : *<CUSTOM4>* : (<CUSTOM5> <CUSTOM6> <CUSTOM7> = <CUSTOM8> vs. DC: <CUSTOM9>),,,,,,0,0
 10474,,,<CUSTOM0> killed <CUSTOM1>,<CUSTOM0>이(가) <CUSTOM1>을(를) 죽임,,,,,,0,0
 10475,,,Resize Area,Resize Area,,,,,,0,0
@@ -25251,7 +25251,7 @@ You have been disconnected.",서버 연결 종료.\n당신의 연결이 해제�
 66882,,,Theme Morag,모랙 테마,,,,,,0,0
 66883,,,Generic Castle Interior,일반 성 내부,,,,,,0,0
 66889,,,Ruined Tower,폐허가 된 탑,,,,,,0,0
-66891,,,Invitation failed: <CUSTOM0> is already in a party.,초청 실패: <CUSTOM0>은 이미 파티 안에 있습니다.,,,,,,0,0
+66891,,,Invitation failed: <CUSTOM0> is already in a party.,초청 실패: <CUSTOM0>(은)는 이미 파티 안에 있습니다.,,,,,,0,0
 66893,,,The selected file type is not supported.,선택된 파일 형식은 지원하지 않습니다.,,,,,,0,0
 66894,,,Invalid File Type,무효한 파일 형식,,,,,,0,0
 66895,,,Error: Invalid TileSet,오류 : 무효한 타일셋,,,,,,0,0
@@ -26794,7 +26794,7 @@ Use: Selected (In order to scribe a scroll, the character has to cast the spell 
 69090,,,Hilltop - Fortune Teller's Caravan,힐탑 - 점쟁이의 캐러밴,,,,,,0,0
 69091,,,Hilltop - The Old Farm - Cellar,힐탑 - 오래된 농장 - 지하실,,,,,,0,0
 69092,,,Hilltop - The Old Farm,힐탑 - 오래된 농장,,,,,,0,0
-69093,,,Hilltop - Foothills - Rumgut's Cave,힐탑 - 작은언덕 - 럼거트의 동굴,,,,,,0,0
+69093,,,Hilltop - Foothills - Rumgut's Cave,힐탑 - 작은언덕 - 럼꿀꺽이의 동굴,,,,,,0,0
 69094,,,Nether Mountains,네더 산맥,,,,,,0,0
 69095,,,Nether Mountains - Cave,네더 산맥 - 동굴,,,,,,0,0
 69096,,,Hilltop - Foothills,힐탑 - 작은언덕,,,,,,0,0
@@ -26839,7 +26839,7 @@ Use: Selected (In order to scribe a scroll, the character has to cast the spell 
 75073,,,Room Key,방 열쇠,,,,,,0,0
 75075,,,Idol of the Bear,곰의 우상,,,,,,0,0
 75077,,,Quality Lute,우수한 류트,,,,,,0,0
-75079,,,Fortune Cards,행운카드,,,,,,0,0
+75079,,,Fortune Cards,점술 카드,,,,,,0,0
 75081,,,Hilltop Guard Armor,힐탑 경비병 갑옷,,,,,,0,0
 75082,,,Hilltop Guard Axe,힐탑 경비병 도끼,,,,,,0,0
 75083,,,Hilltop Guard Helmet,힐탑 경비병 투구,,,,,,0,0
@@ -26862,7 +26862,7 @@ Use: Selected (In order to scribe a scroll, the character has to cast the spell 
 75120,,,Instrument of the Inquisition,종교재판의 악기,,,,,,0,0
 75122,,,Practice Sword,연습용 검,,,,,,0,0
 75125,,,Horn of Listening,듣기의 뿔,,,,,,0,0
-75127,,,Rumgut's Key,럼거트의 열쇠,,,,,,0,0
+75127,,,Rumgut's Key,럼꿀꺽이의 열쇠,,,,,,0,0
 75129,,,Hurst's Morningstar,허스트의 가시철퇴,,,,,,0,0
 75130,,,Shadow Helm,그림자 투구,,,,,,0,0
 75132,,,Rod of the Magi,마법사의 단장,,,,,,0,0
@@ -27060,7 +27060,7 @@ A cone of frost and snow shoots forth from the caster's hands, doing 1d6 points 
 75377,,,Kobolds in the Kitchen,부엌 안의 코볼트,,,,,,0,0
 75392,,,Rescue Glendir,글랜디르 구조,,,,,,0,0
 75398,,,Rescue My Family,가족 구조,,,,,,0,0
-75408,,,Rumgut Needs a Wife,럼거트는 부인이 필요해,,,,,,0,0
+75408,,,Rumgut Needs a Wife,럼꿀꺽이는 부인이 필요해,,,,,,0,0
 75417,,,Spiders Infestation,거미 침략,,,,,,0,0
 75429,,,The Dragon's Tooth,용의 이빨,,,,,,0,0
 75434,,,The Elven Test,엘프의 시험,,,,,,0,0
@@ -27265,7 +27265,7 @@ A cone of frost and snow shoots forth from the caster's hands, doing 1d6 points 
 75747,,,Adam Blake,아담 블레이크,,,,,,0,0
 75748,,,Adam Blake's Corpse,아담 블레이크의 시체,,,,,,0,0
 75750,,,Mold Covered Crate,곰팡이 덮인 궤짝,,,,,,0,0
-75752,,,Rumgut,럼거트,,,,,,0,0
+75752,,,Rumgut,럼꿀꺽이,,,,,,0,0
 75754,,,Cave Exit,동굴 출구,,,,,,0,0
 75756,,,Cage Door,우리 문,,,,,,0,0
 75757,,,Wind Gust Chasm,바람 틈 돌풍,,,,,,0,0
@@ -27284,16 +27284,16 @@ A cone of frost and snow shoots forth from the caster's hands, doing 1d6 points 
 75770,,,Owl Hoots,올빼미 울음,,,,,,0,0
 75771,,,Magic Portal Evil,마법 차원문 악,,,,,,0,0
 75772,,,To Hilltop,힐탑으로,,,,,,0,0
-75773,,,To Blumberg,블럼버그로,,,,,,0,0
+75773,,,To Blumberg,블룸버그로,,,,,,0,0
 75774,,,To the High Forest,높은 숲으로,,,,,,0,0
 75775,,,The Hurst Farmhold,허스트 농가,,,,,,0,0
 75776,,,To the Nether Mountains,네더 산맥으로,,,,,,0,0
-75777,,,Tunnel Entrance to Rumgut's Cave,럼거트의 동굴로 가는 땅굴 입구,,,,,,0,0
+75777,,,Tunnel Entrance to Rumgut's Cave,럼꿀꺽이의 동굴로 가는 땅굴 입구,,,,,,0,0
 75778,,,The Elven Crypt,엘프의 납골당,,,,,,0,0
-75779,,,Rumgut's Cave,럼거트의 동굴,,,,,,0,0
-75780,,,Blumberg - Jewel of the North,블럼버그 - 북방의 보석,,,,,,0,0
-75781,,,North - the High Pass : South - Blumberg,북 - 높은 등산로 : 남 - 블럼버그,,,,,,0,0
-75782,,,East - Blumberg : West - Hilltop : South - High Forest,동 - 블럼버그 : 서 - 힐탑 : 남 - 높은 숲,,,,,,0,0
+75779,,,Rumgut's Cave,럼꿀꺽이의 동굴,,,,,,0,0
+75780,,,Blumberg - Jewel of the North,블룸버그 - 북방의 보석,,,,,,0,0
+75781,,,North - the High Pass : South - Blumberg,북 - 높은 등산로 : 남 - 블룸버그,,,,,,0,0
+75782,,,East - Blumberg : West - Hilltop : South - High Forest,동 - 블룸버그 : 서 - 힐탑 : 남 - 높은 숲,,,,,,0,0
 75783,,,Loose Rocks,헐거운 바위,,,,,,0,0
 75785,,,Magic Portal Neutral,마법 차원문 중립,,,,,,0,0
 75786,,,Fire Medium,중간 화염,,,,,,0,0
@@ -27545,7 +27545,7 @@ Weapon Size: Medium
 Feats Required: Simple, Druid, Monk, Rogue, or Wizard","기본 피해량: 1d6\n기본 치명타 위협: x2\n기본 피해 유형: 둔기\n무기 크기: 중형\n재주 필요: 단순 무기, 드루이드, 수도사, 도적, 마법사",,,,,,0,0
 76437,,,Hilltop: one of many small villages that dot the most remote regions of the northern wildlands known as the Silver Marches.,힐탑: 은빛 경계라고 알려진 북부 야생 지대 가장 외진 곳에 위치한 많은 작은 마을 중 하나입니다.,,,,,vs_NARR_XP1_050,0,0
 76454,,,Note,쪽지,,,,,,0,0
-76459,,,East - Blumberg : West - Hilltop :,동 - 블럼버그 : 서 - 힐탑 :,,,,,,0,0
+76459,,,East - Blumberg : West - Hilltop :,동 - 블룸버그 : 서 - 힐탑 :,,,,,,0,0
 78634,,,Snowy Pine Tree,눈덮인 소나무,,,,,,0,0
 78861,,,Goblin Note,고블린 쪽지,,,,,,0,0
 78863,,,Goblin Bones,고블린 뼈,,,,,,0,0
@@ -28478,7 +28478,7 @@ Use: Cast.","초월적 주문: 초월적 수호(Epic spell: epic warding)재주 
 Prerequisite: Harper Scout level 10.
 Specifics: At 10th level, the Harper Scout becomes a master of crafting. His indepth knowledge of the crafting skills and secret harper lore allows the character to craft powerful weapons and armor no other class has access to.
 Use: Automatic (When using the craft skills)",제작의 달인(Master crafter)\n재주 유형: 직업\n선결 조건: 하퍼 정찰자 레벨 10\n세부 사항: 하퍼 정찰자는 10레벨이 되면 제작의 달인이 됩니다. 제작 기술과 비밀의 하퍼의 전승지식에 대한 깊은 지식으로 다른 직업이 접근할수 없는 강력한 무기와 갑옷을 만들 수 있습니다.\n사용: 자동,,,,,,0,0
-83635,,,Scrounger,식객,,,,,,0,0
+83635,,,Scrounger,조달자,,,,,,0,0
 83636,,,"Type of Feat: Class
 Prerequisite: Harper Scout level 6.
 Specifics: The harper scout's crafting skills continue to improve, he/she gets a +2 bonus on all Craft (armor, weapon, trap) checks. This improves by an additional +2 for every 2 levels past 6th.

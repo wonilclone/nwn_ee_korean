@@ -344,7 +344,7 @@
 72640,Dialog,CTRACKS,"There are several humanoid tracks scuffed into the disturbed dust, here. This area has been heavily searched, and quite recently, it appears.","흐트러진 먼지 위에 여러 인간형의 발자국이 스쳐 지나가 있습니다. 이 지역은 상당히 샅샅이, 그리고 꽤 최근에 수색된 듯합니다.",Q3CTRACKS,,,,,0,0
 72641,Dialog,CTRACKS,"There are several humanoid tracks scuffed into the disturbed dust, here. This area has been heavily searched, and quite recently, it appears.","흐트러진 먼지 위에 여러 인간형의 발자국이 스쳐 지나가 있습니다. 이 지역은 상당히 샅샅이, 그리고 꽤 최근에 수색된 듯합니다.",Q3CTRACKS,,,,,0,0
 74974,Creature,Chief Gishnak,Chief Gishnak,족장 기쉬낙,Q3_CHIEF_GISHNAK,,,,,0,0
-74995,Creature,Chief Arzig,Chief Arzig,족장 아르지그,Q5_KOBOLD_CHIEFTAIN,,,,,0,0
+74995,Creature,Chief Arzig,Chief Arzig,족장 아르직,Q5_KOBOLD_CHIEFTAIN,,,,,0,0
 79101,Dialog,CATCHINGTHEWIND,Fresh ink still glistens on the ancient vellum.,갓 적은 잉크가 오래된 양피지 위에서 아직 반짝입니다.,CATCHINGTHEWIND,,,,,0,0
 79539,Dialog,CH2_FEEDBACK,This door seems to be controlled by some hidden mechanism.  You will have to find its controls before it will open.,이 문은 어딘가 숨겨진 장치로 제어되는 듯합니다. 열려면 먼저 조작 장치를 찾아야 합니다.,X1_CH2_FEEDBACK,,,,,0,0
 79540,Dialog,CH2_FEEDBACK,"Despite all your efforts, this doorway remains sealed behind some unknown sort of magical barrier.",아무리 애써도 이 문은 알 수 없는 형태의 마법 장벽에 막혀 여전히 봉인된 상태입니다.,X1_CH2_FEEDBACK,,,,,0,0
@@ -467,16 +467,16 @@
 86712,Dialog,CUT_MEPH3A,"""You are... most wise, mortal.""","""너는... 참으로 현명하구나, 필멸자여.""",Q7_CUT_MEPH3A,q7_at_betray01,,,vs_nx2mephm_78,0,0
 91414,Dialog,CON_HOD_DDOOR,This door was not created for you. You cannot use it.,이 문은 당신을 위해 만들어지지 않았습니다. 사용할 수 없습니다.,CON_HOD_DDOOR,act_ddoor_destry,,,,0,0
 91415,Dialog,CON_HOD_DDOOR,This door will lead you to where you last died.  Do you wish to use it?,이 문은 당신이 마지막으로 죽었던 곳으로 이어집니다. 사용하시겠습니까?,CON_HOD_DDOOR,,,,,0,0
-91418,Dialog,CON_HOD_DOOR0,This door will lead you to <CUSTOM4900>.  Do you wish to use it?,이 문은 <CUSTOM4900>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR0,,,,,0,0
+91418,Dialog,CON_HOD_DOOR0,This door will lead you to <CUSTOM4900>.  Do you wish to use it?,이 문은 <CUSTOM4900>(으)로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR0,,,,,0,0
 91421,Dialog,CON_HOD_DOOR1,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR1,,,,,0,0
-91422,Dialog,CON_HOD_DOOR1,This door will lead you to <CUSTOM4901>.  Do you wish to use it?,이 문은 <CUSTOM4901>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR1,,,,,0,0
-91425,Dialog,CON_HOD_DOOR2,This door will lead you to <CUSTOM4902>.  Do you wish to use it?,이 문은 <CUSTOM4902>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR2,,,,,0,0
+91422,Dialog,CON_HOD_DOOR1,This door will lead you to <CUSTOM4901>.  Do you wish to use it?,이 문은 <CUSTOM4901>(으)로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR1,,,,,0,0
+91425,Dialog,CON_HOD_DOOR2,This door will lead you to <CUSTOM4902>.  Do you wish to use it?,이 문은 <CUSTOM4902>(으)로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR2,,,,,0,0
 91426,Dialog,CON_HOD_DOOR2,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR2,,,,,0,0
-91429,Dialog,CON_HOD_DOOR3,This door will lead you to <CUSTOM4903>.  Do you wish to use it?,이 문은 <CUSTOM4903>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR3,,,,,0,0
+91429,Dialog,CON_HOD_DOOR3,This door will lead you to <CUSTOM4903>.  Do you wish to use it?,이 문은 <CUSTOM4903>(으)로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR3,,,,,0,0
 91430,Dialog,CON_HOD_DOOR3,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR3,,,,,0,0
-91433,Dialog,CON_HOD_DOOR4,This door will lead you to <CUSTOM4904>.  Do you wish to use it?,이 문은 <CUSTOM4904>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR4,,,,,0,0
+91433,Dialog,CON_HOD_DOOR4,This door will lead you to <CUSTOM4904>.  Do you wish to use it?,이 문은 <CUSTOM4904>(으)로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR4,,,,,0,0
 91434,Dialog,CON_HOD_DOOR4,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR4,,,,,0,0
-91437,Dialog,CON_HOD_DOOR5,This door will lead you to <CUSTOM4905>.  Do you wish to use it?,이 문은 <CUSTOM4905>로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR5,,,,,0,0
+91437,Dialog,CON_HOD_DOOR5,This door will lead you to <CUSTOM4905>.  Do you wish to use it?,이 문은 <CUSTOM4905>(으)로 이어집니다. 사용하시겠습니까?,CON_HOD_DOOR5,,,,,0,0
 91438,Dialog,CON_HOD_DOOR5,This door will only lead somewhere if you've placed a binding on the material plane.,물질계에 결속을 해 두었을 때만 이 문은 어딘가로 이어집니다.,CON_HOD_DOOR5,,,,,0,0
 91441,Dialog,CON_HOD_LDOOR,This door was not created for you - BEGONE!,이 문은 당신을 위해 만들어지지 않았습니다-물러가라!,CON_HOD_LDOOR,act_ddoor_destry,,,,0,0
 91442,Dialog,CON_HOD_LDOOR,This door will lead you to the PC Hero.  Do you wish to use it?,이 문은 PC 영웅에게로 이어집니다. 사용하시겠습니까?,CON_HOD_LDOOR,,,,,0,0

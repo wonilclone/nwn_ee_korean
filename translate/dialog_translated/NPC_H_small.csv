@@ -134,14 +134,14 @@
 60250,Creature,High Captain Suljack,High Captain Suljack,대선장 술잭,2Q6K_SULJACK,,,,,0,0
 60259,Creature,Host Tower Guard,Host Tower Guard,중심탑 경비병,HOSTTOWERGUARD,,,,,0,0
 60893,Dialog,HILLGIANT,"Die, puny intruder!","죽어라, 하찮은 침입자!",M3_HILLGIANT,,,,,0,0
-70752,Creature,Haniah Dales,Sir! You are talking to one right now!,나리! 지금 바로 그런 사람과 이야기하고 계십니다!,HANIAH,,,,,0,0
-70754,Creature,Haniah Dales,"I wish you would just go lie down and rest, sir.","그냥 누워서 쉬셨으면 좋겠습니다, 나리.",HANIAH,,,,,0,0
-70756,Creature,Haniah Dales,"Everyone respects you, sir. Well, except when you are in this condition.","모두가 나리를 존경합니다. 음, 이런 상태일 때만 빼고요.",HANIAH,,,,,0,0
-70758,Creature,Haniah Dales,"I think you have had enough, sir.","충분히 하신 것 같습니다, 나리.",HANIAH,,,,,0,0
-70761,Creature,Haniah Dales,"We would rather they just stayed away, sir.","그냥 멀리 있었으면 좋겠습니다, 나리.",HANIAH,,,,,0,0
-70764,Creature,Haniah Dales,"Sir, you are the one who is swaying.","나리, 비틀거리는 건 나리십니다.",HANIAH,,,,,0,0
-70766,Creature,Haniah Dales,"Because you are drunk, sir.","나리께서 취하셨기 때문입니다.",HANIAH,,,,,0,0
-70769,Creature,Haniah Dales,"Thank you, sir. Maybe you should get a little rest?","감사합니다, 나리. 좀 쉬시는 게 어떨까요?",HANIAH,,,,,0,0
+70752,Creature,Haniah Dales,Sir! You are talking to one right now!,시장님! 지금 바로 그런 사람과 이야기하고 계신 거예요!,HANIAH,,,,,0,0
+70754,Creature,Haniah Dales,"I wish you would just go lie down and rest, sir.","그냥 누워서 좀 쉬세요, 시장님.",HANIAH,,,,,0,0
+70756,Creature,Haniah Dales,"Everyone respects you, sir. Well, except when you are in this condition.","모두가 시장님을 존경해요. 음, 이런 상태일 때만 빼고요.",HANIAH,,,,,0,0
+70758,Creature,Haniah Dales,"I think you have had enough, sir.","충분히 드신 것 같아요, 시장님.",HANIAH,,,,,0,0
+70761,Creature,Haniah Dales,"We would rather they just stayed away, sir.","그냥 멀리 있었으면 좋겠어요, 시장님.",HANIAH,,,,,0,0
+70764,Creature,Haniah Dales,"Sir, you are the one who is swaying.","시장님, 비틀거리는 건 시장님이에요.",HANIAH,,,,,0,0
+70766,Creature,Haniah Dales,"Because you are drunk, sir.","시장님이 취하셨으니까요.",HANIAH,,,,,0,0
+70769,Creature,Haniah Dales,"Thank you, sir. Maybe you should get a little rest?","감사해요, 시장님. 좀 쉬시는 게 어때요?",HANIAH,,,,,0,0
 74918,Creature,Haniah Dales,Haniah,하니아,HANIAH,,,,,0,0
 74919,Creature,Haniah Dales,Dales,데일스,HANIAH,,,,,0,0
 70846,Dialog,HBLAKECORPSE,The corpse of Adam Blake lies on the floor of his house.  He has been pierced repeatedly by kobold swords.,아담 블레이크의 시신이 그의 집 바닥에 누워 있습니다. 코볼트들의 칼에 여러 차례 찔린 흔적이 보입니다.,Q1HBLAKECORPSE,,,,,0,0
@@ -235,23 +235,23 @@
 83009,Creature,humanoid_orc001,humanoid_orc001,humanoid_orc001,HUMANOID_ORC001,,,,,0,0
 86970,Henchman,Henchman_X2_CON_HOD_DDOOR,This door was not created for you...,이 문은 당신을 위해 만들어진 것이 아닙니다...,X2_CON_HOD_DDOOR,,,,,0,0
 86971,Henchman,Henchman_X2_CON_HOD_DDOOR,This door will lead you to where you last died. Do you wish to use it?,이 문은 당신이 마지막으로 죽은 곳으로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DDOOR,,,,,0,0
-86974,Henchman,Henchman_X2_CON_HOD_DOOR0,This door will lead you to the <CUSTOM1000>.  Do you wish to use it?,이 문은 <CUSTOM1000>으로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR0,,,,,0,0
+86974,Henchman,Henchman_X2_CON_HOD_DOOR0,This door will lead you to the <CUSTOM1000>.  Do you wish to use it?,이 문은 <CUSTOM1000>(으)로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR0,,,,,0,0
 86977,Henchman,Henchman_X2_CON_HOD_DOOR1,This door will only lead somewhere if you've placed a binding elsewhere in Cania.,이 문은 당신이 카니아의 다른 곳에 결속을 설정한 경우에만 어딘가로 이어집니다.,X2_CON_HOD_DOOR1,,,,,0,0
-86978,Henchman,Henchman_X2_CON_HOD_DOOR1,This door will lead you to the <CUSTOM1001>.  Do you wish to use it?,이 문은 <CUSTOM1001>으로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR1,,,,,0,0
-86981,Henchman,Henchman_X2_CON_HOD_DOOR2,This door will lead you to the <CUSTOM1002>.  Do you wish to use it?,이 문은 <CUSTOM1002>로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR2,,,,,0,0
+86978,Henchman,Henchman_X2_CON_HOD_DOOR1,This door will lead you to the <CUSTOM1001>.  Do you wish to use it?,이 문은 <CUSTOM1001>(으)로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR1,,,,,0,0
+86981,Henchman,Henchman_X2_CON_HOD_DOOR2,This door will lead you to the <CUSTOM1002>.  Do you wish to use it?,이 문은 <CUSTOM1002>(으)로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR2,,,,,0,0
 86982,Henchman,Henchman_X2_CON_HOD_DOOR2,This door will only lead somewhere if you've placed a binding elsewhere in Cania.,이 문은 당신이 카니아의 다른 곳에 결속을 설정한 경우에만 어딘가로 이어집니다.,X2_CON_HOD_DOOR2,,,,,0,0
-86985,Henchman,Henchman_X2_CON_HOD_DOOR3,This door will lead you to the <CUSTOM1003>.  Do you wish to use it?,이 문은 <CUSTOM1003>으로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR3,,,,,0,0
+86985,Henchman,Henchman_X2_CON_HOD_DOOR3,This door will lead you to the <CUSTOM1003>.  Do you wish to use it?,이 문은 <CUSTOM1003>(으)로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR3,,,,,0,0
 86986,Henchman,Henchman_X2_CON_HOD_DOOR3,This door will only lead somewhere if you've placed a binding elsewhere in Cania.,이 문은 당신이 카니아의 다른 곳에 결속을 설정한 경우에만 어딘가로 이어집니다.,X2_CON_HOD_DOOR3,,,,,0,0
-86989,Henchman,Henchman_X2_CON_HOD_DOOR4,This door will lead you to the <CUSTOM1004>.  Do you wish to use it?,이 문은 <CUSTOM1004>로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR4,,,,,0,0
+86989,Henchman,Henchman_X2_CON_HOD_DOOR4,This door will lead you to the <CUSTOM1004>.  Do you wish to use it?,이 문은 <CUSTOM1004>(으)로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR4,,,,,0,0
 86990,Henchman,Henchman_X2_CON_HOD_DOOR4,This door will only lead somewhere if you've placed a binding elsewhere in Cania.,이 문은 당신이 카니아의 다른 곳에 결속을 설정한 경우에만 어딘가로 이어집니다.,X2_CON_HOD_DOOR4,,,,,0,0
-86993,Henchman,Henchman_X2_CON_HOD_DOOR5,This door will lead you to the <CUSTOM1005>.  Do you wish to use it?,이 문은 <CUSTOM1005>로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR5,,,,,0,0
+86993,Henchman,Henchman_X2_CON_HOD_DOOR5,This door will lead you to the <CUSTOM1005>.  Do you wish to use it?,이 문은 <CUSTOM1005>(으)로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_DOOR5,,,,,0,0
 86994,Henchman,Henchman_X2_CON_HOD_DOOR5,This door will only lead somewhere if you've placed a binding elsewhere in Cania.,이 문은 당신이 카니아의 다른 곳에 결속을 설정한 경우에만 어딘가로 이어집니다.,X2_CON_HOD_DOOR5,,,,,0,0
 86997,Henchman,Henchman_X2_CON_HOD_LDOOR,This door was not created for you...,이 문은 당신을 위해 만들어진 것이 아닙니다...,X2_CON_HOD_LDOOR,,,,,0,0
 86998,Henchman,Henchman_X2_CON_HOD_LDOOR,This door will lead you to your party leader. Do you wish to use it?,이 문은 파티 리더에게로 이어집니다. 사용하시겠습니까?,X2_CON_HOD_LDOOR,,,,,0,0
 87294,Henchman,Henchman_X2_P_CRAFTSKILLS,Craft Menu,제작 메뉴,X2_P_CRAFTSKILLS,x2_ci_start,,,,0,0
 87295,Henchman,Henchman_X2_P_CRAFTSKILLS,Do you want to craft <CUSTOM13224> (requires <StartAction><CUSTOM14324></Start> GP)?,<CUSTOM13224>을(를) 제작하시겠습니까? (<StartAction><CUSTOM14324></Start> GP 필요),X2_P_CRAFTSKILLS,,,,,0,0
 87296,Henchman,Henchman_X2_P_CRAFTSKILLS,Do you want to craft <CUSTOM13223> (requires <StartAction><CUSTOM14323></Start> GP)?,<CUSTOM13223>을(를) 제작하시겠습니까? (<StartAction><CUSTOM14323></Start> GP 필요),X2_P_CRAFTSKILLS,,,,,0,0
-87297,Henchman,Henchman_X2_P_CRAFTSKILLS,Do you want to craft <CUSTOM13222> (requires <StartAction><CUSTOM14322></Start> GP)?,<CUSTOM13222>를(를) 제작하시겠습니까? (<StartAction><CUSTOM14322></Start> GP 필요),X2_P_CRAFTSKILLS,,,,,0,0
+87297,Henchman,Henchman_X2_P_CRAFTSKILLS,Do you want to craft <CUSTOM13222> (requires <StartAction><CUSTOM14322></Start> GP)?,<CUSTOM13222>을(를) 제작하시겠습니까? (<StartAction><CUSTOM14322></Start> GP 필요),X2_P_CRAFTSKILLS,,,,,0,0
 87298,Henchman,Henchman_X2_P_CRAFTSKILLS,Do you want to craft <CUSTOM13221> (requires <StartAction><CUSTOM14321></Start> GP)?,<CUSTOM13221>을(를) 제작하시겠습니까? (<StartAction><CUSTOM14321></Start> GP 필요),X2_P_CRAFTSKILLS,,,,,0,0
 87299,Henchman,Henchman_X2_P_CRAFTSKILLS,Do you want to craft <CUSTOM13220> (requires <StartAction><CUSTOM14320></Start> GP)?,<CUSTOM13220>을(를) 제작하시겠습니까? (<StartAction><CUSTOM14320></Start> GP 필요),X2_P_CRAFTSKILLS,,,,,0,0
 87300,Henchman,Henchman_X2_P_CRAFTSKILLS,<StartAction>Success</Start> - You successfully crafted the item!,<StartAction>성공</Start> - 아이템을 성공적으로 제작했습니다!,X2_P_CRAFTSKILLS,,,,,0,0

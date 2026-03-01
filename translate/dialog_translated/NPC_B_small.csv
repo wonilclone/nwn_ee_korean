@@ -304,7 +304,7 @@
 69474,Dialog,BGATEGUARD,"You're going to go looking for them? Well, that's a switch.","놈들을 찾아 나선다고? 오, 그건 좀 의외네.",Q1BGATEGUARD,,,,,0,0
 69475,Dialog,BGATEGUARD,"At any rate, if you're going out there, be careful. There's no telling what you'll encounter on the road this time of year.",어쨌든 밖으로 나갈 거라면 조심해. 이맘때 길에서는 무슨 일을 겪을지 장담 못 해.,Q1BGATEGUARD,,,,,0,0
 69476,Dialog,BGATEGUARD,"At any rate, you might want to think twice before you leave Hilltop. I would suggest you get some decent equipment and maybe a little experience first.","어쨌든 힐탑을 떠나기 전에 한 번 더 생각해 보라고. 제대로 된 장비부터 갖추고, 경험도 조금 쌓는 게 좋겠어.",Q1BGATEGUARD,,,,,0,0
-69477,Dialog,BGATEGUARD,I'm told there's probably some folks in town who could use some help. We can't do anything until the reinforcements from Blumberg get here... maybe you could?,마을 안에도 도움이 필요한 사람들이 있다고 들었어. 블럼버그에서 증원병이 오기 전까진 우린 손이 묶여있거든... 네가 대신 도울 수도 있겠지?,Q1BGATEGUARD,,,,,0,0
+69477,Dialog,BGATEGUARD,I'm told there's probably some folks in town who could use some help. We can't do anything until the reinforcements from Blumberg get here... maybe you could?,마을 안에도 도움이 필요한 사람들이 있다고 들었어. 블룸버그에서 증원병이 오기 전까진 우린 손이 묶여있거든... 네가 대신 도울 수도 있겠지?,Q1BGATEGUARD,,,,,0,0
 69478,Dialog,BGATEGUARD,"It's just a suggestion, anyhow. I won't stop you from leaving, if that's what you're intent on.",그냥 한마디 해 본 거야. 그래도 떠나겠다면 막진 않겠어.,Q1BGATEGUARD,,,,,0,0
 69541,Dialog,BHALFLING,You should talk to Katriana if you have any questions.,궁금한 게 있으면 카트리아나에게 물어보세요.,Q1BHALFLING,,,,,0,0
 69542,Dialog,BHALFLING,Thank you for healing me.,치유해 줘서 고마워요.,Q1BHALFLING,,,,,0,0
@@ -375,7 +375,7 @@ But all together, come and mourn, for our fair city, Ascalhorn.""","""이 잠든
 72064,Dialog,BLACKBEAR,"Even though the bear knows instinctively that you are a friend, the gnolls have all but ruined the bear's mind. Inside its hate-filled mind, the bear wishes it was dead.","곰은 본능적으로 당신이 친구임을 알아보지만, 놀들이 곰의 정신을 거의 망가뜨렸습니다. 증오로 가득 찬 그 마음속에서, 곰은 차라리 죽고 싶어 합니다.",Q3_BLACKBEAR,,,,,0,0
 72065,Dialog,BLACKBEAR,"Whispering a prayer to the gods of nature, you call it near and suddenly give it a quick and merciful death. Its last, fleeting thoughts are of gratitude.","자연의 신들에게 속삭이며 기도한 뒤 곰을 가까이 부르고, 재빨리 자비로운 죽음을 내려 줍니다. 마지막 스쳐 가는 생각은 감사입니다.",Q3_BLACKBEAR,,,,,0,0
 74925,Creature,Bethsheva,Bethsheva,베스셰바,Q1CBETHSHEVA,,,,,0,0
-74946,Creature,Blumberg Refugee,Blumberg Refugee,블럼버그 피난민,Q1GBLUMREF1|Q1GBLUMREF2|Q1GBLUMREF3|Q1GBLUMREF4,,,,,0,0
+74946,Creature,Blumberg Refugee,Blumberg Refugee,블룸버그 피난민,Q1GBLUMREF1|Q1GBLUMREF2|Q1GBLUMREF3|Q1GBLUMREF4,,,,,0,0
 79555,Creature,Beholder Tyrant,Beholder Tyrant,주시자 폭군,NW_BEETLEBOSS,,,,,0,0
 84538,Creature,Beholder Tyrant,Beholder Tyrant,주시자 폭군,Q5_HIVEMOTHER,,,,,0,0
 79557,Creature,Bombardier Beetle,Bombardier Beetle,포격수 딱정벌레,NW_BTLBOMB,,,,,0,0
