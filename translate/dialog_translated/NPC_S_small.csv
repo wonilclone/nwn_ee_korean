@@ -357,7 +357,7 @@
 71855,Dialog,SHRINE,"<StartAction>[While faded and cracked with age, the statue depicts a handsome elven man wielding a glittering sword and wearing an amulet engraved with a crescent moon.]</Start>","<StartAction>[세월로 바래고 금이 갔지만, 조각상은 반짝이는 검을 휘두르고 초승달이 새겨진 호신부를 착용한 잘생긴 엘프 남자를 묘사하고 있습니다.]</Start>",Q2_SHRINE,,,,,0,0
 71856,Dialog,SHRINE,"<StartAction>[The elf appears to gaze down at you with sad, unearthly eyes and you are left with the definite impression that you are watched. An inscription at the statue's base reads:]</Start>","<StartAction>[엘프가 슬프고 초자연적인 눈으로 당신을 내려다보는 것처럼 보이며, 당신은 지켜보고 있다는 확실한 인상을 받습니다. 조각상 기단의 비문은 이렇게 씌어 있습니다:]</Start>",Q2_SHRINE,,,,,0,0
 71857,Dialog,SHRINE,"""I who shall watch over Those Who Rest bid you to cast a prayer in My name: Corellon Larethian, Creator of the Elves and First of the Seldarine.""","""안식하는 이들을 지켜보는 내가 그대에게 내 이름으로 기도를 올리기를 명하노니: 엘프의 창조자이자 셀다린의 첫째인 코렐론 라레시안.""",Q2_SHRINE,,,,,0,0
-80937,Dialog,SHRINE,"<StartHighlight>[This altar seems to suck the very light from the room. From markings, runes and graven images you can tell this is an altar to the dark god Jergal.]</Start>","<StartHighlight>[이 제단은 방의 빛 자체를 빨아들이는 것 같습니다. 표시, 룬, 조각된 형상들로 보아 이것이 어둠의 신 저갈의 제단임을 알 수 있습니다.]</Start>",Q2_SHRINE,,,,,0,0
+80937,Dialog,SHRINE,"<StartHighlight>[This altar seems to suck the very light from the room. From markings, runes and graven images you can tell this is an altar to the dark god Jergal.]</Start>","<StartHighlight>[이 제단은 방의 빛 자체를 빨아들이는 것 같습니다. 표시, 룬, 조각된 형상들로 보아 이것이 어둠의 신 제르갈의 제단임을 알 수 있습니다.]</Start>",Q2_SHRINE,,,,,0,0
 71862,Dialog,SPIDER_SACS,"<StartAction>[A sticky nest of webbing contains several glistening globes that can only be egg sacs... enough, no doubt, to populate the crypt with spiders for generations to come.]</Start>","<StartAction>[끈적한 거미줄 둥지에는 반짝이는 구체 여러 개가 들어 있는데, 틀림없이 알주머니입니다... 지하묘지를 세대에 걸쳐 거미로 채울 만큼 충분한 양입니다.]</Start>",Q2_SPIDER_SACS,,,,,0,0
 71863,Dialog,SPIDER_SACS,They are destroyed with a satisfying explosion of liquids.,액체가 만족스럽게 폭발하며 파괴됩니다.,Q2_SPIDER_SACS,,,,,0,0
 71864,Dialog,SPIDER_SACS,"Although you know it must be done, your love of nature takes all enjoyment from a job well done.","해야 할 일이라는 걸 알지만, 자연에 대한 당신의 사랑이 잘한 일에서 모든 즐거움을 빼앗아 갑니다.",Q2_SPIDER_SACS,,,,,0,0
@@ -416,7 +416,7 @@
 83014,Creature,Stinger Archer,Stinger Archer,스팅어 궁수,Q1_STINGER_ARC|Q1_STINGER_ARC1|Q1_STINGER_ARC2|Q1_STINGER_ARC3|Q1_STINGER_ARC4,,,,,0,0
 83015,Creature,Stinger Officer,Stinger Officer,스팅어 장교,Q1_STINGER_WAR,,,,,0,0
 83028,Creature,Statue of Kel-Garas,Statue of Kel-Garas,켈가라스의 조각상,Q2D_STATUE,,,,,0,0
-83030,Creature,Statue of Jergal,Statue of Jergal,저갈의 조각상,Q2E_STATUE_BANE,,,,,0,0
+83030,Creature,Statue of Jergal,Statue of Jergal,제르갈의 조각상,Q2E_STATUE_BANE,,,,,0,0
 83033,Creature,Stinger High Priest,Stinger High Priest,스팅어 대사제,X0_STINGER_CHIEF,,,,,0,0
 83931,Dialog,SOBREYDOOR,"""Can you not see the sign? We are closed! Please go away until such time as this war is ended and/or the street ban is lifted. Goodbye.""","""표지판이 안 보이십니까? 문 닫았습니다! 이 전쟁이 끝나고 거리 금지령이 해제될 때까지 제발 돌아가 주세요. 안녕히 가십시오.""",PRE_SOBREYDOOR,,,,vs_nx2sobrm_50,0,0
 92418,Dialog,SOBREYDOOR,"As you knock on the door, you hear someone grumbling and shuffling around, then a small window slides open and a pair of eyes glare out at you.","문을 두드리자, 누군가 투덜거리며 뒤척이는 소리가 들리고, 작은 창이 열리며 한 쌍의 눈이 밖을 노려봅니다.",PRE_SOBREYDOOR,,,,,0,0
