@@ -2947,7 +2947,7 @@ Masses of flame (one per caster level) appear and randomly target and hit any ho
 2102,,,Nymph,님프,,,,,,0,0
 2103,,,Ogre A,오우거 A,,,,,,0,0
 2104,,,"Ogre, Chieftain A",오우거 족장 A,,,,,,0,0
-2105,,,"Ogre, Mage A",오우거 마법학자 A,,,,,,0,0
+2105,,,"Ogre, Mage A",오우거 마법사 A,,,,,,0,0
 2106,,,Old One Chieftain,태고의 존재 족장,,,,,,0,0
 2107,,,"Lizardfolk, Warrior A",도마뱀인 투사 A,,,,,,0,0
 2108,,,"Lizardfolk, Warrior B",도마뱀인 투사 B,,,,,,0,0
@@ -7596,13 +7596,13 @@ Special:
 5580,,,Player vs. Player,플레이어 vs. 플레이어,,,,,,0,0
 5581,,,->,->,,,,,,0,0
 5582,,,Edit Player Profile,플레이어 프로필 편집,,,,,,0,0
-5583,,,Dwarven,드워프의,,,,,,0,0
-5584,,,Elven,엘프의,,,,,,0,0
+5583,,,Dwarven,드워프,,,,,,0,0
+5584,,,Elven,엘프,,,,,,0,0
 5585,,,Tremble before my power!,내 힘 앞에서 떨어라!,,,,,,0,0
-5586,,,Half-Elven,하프엘프의,,,,,,0,0
-5588,,,dwarven,드워프의,,,,,,0,0
-5589,,,elven,엘프의,,,,,,0,0
-5590,,,half-elven,하프엘프의,,,,,,0,0
+5586,,,Half-Elven,하프엘프,,,,,,0,0
+5588,,,dwarven,드워프,,,,,,0,0
+5589,,,elven,엘프,,,,,,0,0
+5590,,,half-elven,하프엘프,,,,,,0,0
 5591,,,Game Type,게임 유형,,,,,,0,0
 5592,,,Invalid Max Players Entered.,입력한 최대 플레이어수가 적절하지 않습니다.,,,,,,0,0
 5593,,,<CUSTOM0> Magical,<CUSTOM0> 마법적,,,,,,0,0
@@ -10808,7 +10808,7 @@ The cleric gains access to the following spells at the specified spell level: Ph
 6374,,,Penguin,펭귄,,,,,,0,0
 6376,,,Ogre B,오우거 B,,,,,,0,0
 6377,,,"Ogre, Chieftain B",오우거 족장 B,,,,,,0,0
-6378,,,"Ogre, Mage B",오우거 마법학자 B,,,,,,0,0
+6378,,,"Ogre, Mage B",오우거 마법사 B,,,,,,0,0
 6379,,,Area Map,지역 지도,,,,,,0,0
 6380,,,Buy,구입,,,,,,0,0
 6381,,,Sell,판매,,,,,,0,0
@@ -22238,7 +22238,7 @@ Centered around the caster, this spell rains down holy damage on all within the 
 53098,,,Goblin Shaman,고블린 주술사,,,,,,0,0
 53099,,,Ogre,오우거,,,,,,0,0
 53100,,,Ogre Chieftain,오우거 족장,,,,,,0,0
-53101,,,Ogre Mage,오우거 마법학자,,,,,,0,0
+53101,,,Ogre Mage,오우거 마법사,,,,,,0,0
 53102,,,Orc,오크,,,,,,0,0
 53103,,,Orc Shaman,오크 주술사,,,,,,0,0
 53104,,,Demon,악마,,,,,,0,0
@@ -29695,7 +29695,7 @@ Use: Automatic.","초월적 우월한 무기 집중(Epic superior weapon focus)\
 91079,,,Duergar Studded Leather Armor +4,듀에르가 징박은 가죽 갑옷 +4,,,,,,0,0
 91080,,,Duergar Studded Leather Armor +5,듀에르가 징박은 가죽 갑옷 +5,,,,,,0,0
 91081,,,Duergar Mage Robe,듀에르가 마법학자 로브,,,,,,0,0
-91082,,,Relic of the Reaper,사신의 유물,,,,,,0,0
+91082,,,Relic of the Reaper,수확자의 유물,,,,,,0,0
 91084,,,Rogue Stone,도적의 돌,,,,,,0,0
 91085,,,Stoneeater's Ring,돌먹는자의 반지,,,,,,0,0
 91087,,,Sequencer Robe,저장기 로브,,,,,,0,0
@@ -29943,7 +29943,7 @@ For one, 15th level character.
 91385,,,z_Random Treasure Area,z 랜덤 보물 지역,,,,,,0,0
 91386,,,Waterdeep - Argali's Arms,워터딥 - 아갈리의 무기상,,,,,,0,0
 91387,,,Waterdeep - University District,워터딥 - 대학 지구,,,,,,0,0
-91388,,,Realm of the Reaper,사신의 영역,,,,,,0,0
+91388,,,Realm of the Reaper,수확자의 영역,,,,,,0,0
 91389,,,Waterdeep - Magic Shoppe,워터딥 - 마법 상점,,,,,,0,0
 91390,,,Waterdeep - House,워터딥 - 집,,,,,,0,0
 91391,,,Waterdeep - Shop,워터딥 - 상점,,,,,,0,0
@@ -30115,9 +30115,9 @@ This spell restores a petrified creature to its normal state, restoring life and
 95171,,,Fairy Queen 2,요정 여왕 1,,,,,,0,0
 95172,,,Formian Slaves,포르미안 노예,,,,,,0,0
 95173,,,Harpies/Imps,하피/임프,,,,,,0,0
-95174,,,Ogre Mage 1,오우거 마법학자 1,,,,,,0,0
-95175,,,Ogre Mage Orc Single Darts,오우거 마법학자 오크 단일 표창,,,,,,0,0
-95176,,,Ogre Mage Orcs,오우거 마법학자 오크,,,,,,0,0
+95174,,,Ogre Mage 1,오우거 마법사 1,,,,,,0,0
+95175,,,Ogre Mage Orc Single Darts,오우거 마법사 오크 단일 표창,,,,,,0,0
+95176,,,Ogre Mage Orcs,오우거 마법사 오크,,,,,,0,0
 95177,,,Orc and Ogre,오크와 오우거,,,,,,0,0
 95178,,,Corridor Ambush 1A,복도 매복병 1A,,,,,,0,0
 95179,,,Corridor Ambush 1B,복도 매복병 1B,,,,,,0,0
@@ -30182,7 +30182,7 @@ This spell restores a petrified creature to its normal state, restoring life and
 95246,,,Wall,벽,,,,,,0,0
 95247,,,Player,플레이어,,,,,,0,0
 95248,,,Corpse,시체,,,,,,0,0
-95249,,,Reaper Door,사신의 문,,,,,,0,0
+95249,,,Reaper Door,수확자의 문,,,,,,0,0
 95250,,,Alchemist's Fire,연금술사의 불,,,,,,0,0
 95252,,,Anti Magic Area,반 마법 영역,,,,,,0,0
 95253,,,bk_ogrevsfairy,bk_ ogrevsfairy,,,,,,0,0
@@ -30193,7 +30193,7 @@ This spell restores a petrified creature to its normal state, restoring life and
 95259,,,Special Placeable Trap,특수 놓을수 있는 함정,,,,,,0,0
 95260,,,TamsilTrigger,탐실 트리거,,,,,,0,0
 95261,,,FixItAll,FixItAll,,,,,,0,0
-95262,,,Reaper Door Trigger,사신 문 트리거,,,,,,0,0
+95262,,,Reaper Door Trigger,수확자 문 트리거,,,,,,0,0
 95263,,,Crafting Supplies,제작 용품,,,,,,0,0
 95264,,,Sobrey's Magic Shoppe,소브레이의 마법 상점,,,,,,0,0
 95267,,,beholderspawn,주시자스폰,,,,,,0,0
@@ -30206,7 +30206,7 @@ This spell restores a petrified creature to its normal state, restoring life and
 95305,,,Henchman,추종자,,,,,,0,0
 95309,,,Linu,리누,,,,,,0,0
 95317,,,Old Friends,오랜 친구들,,,,,,0,0
-95330,,,Relic of the Reaper,사신의 유물,,,,,,0,0
+95330,,,Relic of the Reaper,수확자의 유물,,,,,,0,0
 95332,,,Rude Awakenings,예상치 못한 기상,,,,,,0,0
 95336,,,Sharwyn,샤윈,,,,,,0,0
 95340,,,The Armory,무기고,,,,,,0,0
@@ -30262,7 +30262,7 @@ This spell restores a petrified creature to its normal state, restoring life and
 95432,,,Spiders,거미,,,,,,0,0
 95433,,,Stairs To Level 2,2층으로 가는 계단,,,,,,0,0
 95434,,,The Maze,미로,,,,,,0,0
-95435,,,Hall of the Ogre Mage,오우거 마법학자의 회관,,,,,,0,0
+95435,,,Hall of the Ogre Mage,오우거 마법사의 회관,,,,,,0,0
 95436,,,The Vanishing Treasure,사라지는 보물,,,,,,0,0
 95437,,,Spellcraft Check Success,주문숙련 판정 성공,,,,,,0,0
 95439,,,Fairy Bomb Maker,요정 폭탄 제작자,,,,,,0,0
@@ -31560,7 +31560,7 @@ For one, 18th level character.
 110462,,,Zorvak'Mur,조르박무르,,,,,,0,0
 110464,,,Meph Chain,메피스토 사슬,,,,,,0,0
 110465,,,Drearing's Deep,음울한자의 협곡,,,,,,0,0
-110500,,,True Names: Reaper,진명: 사신,,,,,,0,0
+110500,,,True Names: Reaper,진명: 수확자,,,,,,0,0
 110508,,,Deepest Wastes of Cania,카니아의 불모지의 가장 깊은 곳,,,,,,0,0
 110509,,,Beneath the Ice,얼음 아래,,,,,,0,0
 110510,,,Ice-Bound Lair,얼음 속 소굴,,,,,,0,0
@@ -31643,7 +31643,7 @@ For one, 18th level character.
 110608,,,Weathered Ship - Back,Weathered Ship - Back,,,,,,0,0
 110609,,,Weathered Ship - Front,Weathered Ship - Front,,,,,,0,0
 110610,,,Weathered Ship - Middle,Weathered Ship - Middle,,,,,,0,0
-110611,,,darthiir,darthiir,,,,,,0,0
+110611,,,darthiir,다티어,,,,,,0,0
 110612,,,hargluk,hargluk,,,,,,0,0
 110613,,,sakphul,sakphul,,,,,,0,0
 110614,,,yingil,yingil,,,,,,0,0

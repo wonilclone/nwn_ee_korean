@@ -28,7 +28,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 110254,PC,Player Character,"""And who is 'she'?""","""그리고 '그녀'는 누구죠?""",x2_gatekeeper,,,,,0,0
 110255,PC,Player Character,"""So tell me again what I could do to return home?""","""그러면 집으로 돌아가려면 어떻게 해야 하는지 다시 말해주세요.""",x2_gatekeeper,,,,,0,0
 110256,PC,Player Character,"""Hecugoth the Abandoned, I command you to grant me passage home!""","""버림받은 헤쿠고스여, 고향으로 가는 길을 열라 명한다!""",x2_gatekeeper,a_truename,h1c_gate_truname,,,0,0
-110257,PC,Player Character,"""Thank you, Reaper. That will be all.""","""고맙습니다, 사신. 그게 다입니다.""",x2_gatekeeper,,,,,0,0
+110257,PC,Player Character,"""Thank you, Reaper. That will be all.""","""고맙습니다, 수확자. 그게 다입니다.""",x2_gatekeeper,,,,,0,0
 110258,PC,Player Character,"""Allow the Devils to wreak their havoc on the planes.""","""마귀들이 차원계에 혼란을 일으키게 허하라.""",x2_gatekeeper,h1a_gate_devils,h1c_gate_devils,,,0,0
 110259,PC,Player Character,"""Allow the Spirits of the Dead to haunt the Living.""","""죽은 자들의 영혼이 산 자들을 괴롭히게 허하라.""",x2_gatekeeper,h1a_gate_spirits,h1c_gate_spirits,,,0,0
 110260,PC,Player Character,"""Allow the Githzerai Pilgrims to return home.""","""기스제라이 순례자들이 고향으로 돌아가게 허하라.""",x2_gatekeeper,h1a_gate_pilgrim,h1c_gate_pilgrim,,,0,0
@@ -43,7 +43,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 110269,PC,Player Character,"""I should destroy you for betraying me.""","""날 배신한 대가로 널 파괴해야겠군.""",x2_gatekeeper,,,,,0,0
 110270,PC,Player Character,"""I require your assistance. Quickly.""","""당신의 도움이 필요합니다. 빨리요.""",x2_gatekeeper,,,,,0,0
 110271,PC,Player Character,"""So we meet again.""","""다시 만났군요.""",x2_gatekeeper,,,,,0,0
-110272,PC,Player Character,"""It is good to see you again, Reaper.""","""다시 뵈니 반갑습니다, 사신.""",x2_gatekeeper,,,,,0,0
+110272,PC,Player Character,"""It is good to see you again, Reaper.""","""다시 뵈니 반갑습니다, 수확자.""",x2_gatekeeper,,,,,0,0
 110273,PC,Player Character,"""I would like to know more about how the Relic works.""","""유물이 어떻게 작동하는지 더 알고 싶습니다.""",x2_gatekeeper,,,,,0,0
 110274,PC,Player Character,"""How do I return home from here?""","""여기서 어떻게 집으로 돌아가죠?""",x2_gatekeeper,,,,,0,0
 110275,PC,Player Character,"""Why are rogue stones so important?""","""왜 도적의 돌이 그렇게 중요하죠?""",x2_gatekeeper,,,,,0,0

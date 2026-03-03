@@ -34,13 +34,13 @@
 95665,PC,Player Character,"""Could you tell me where I might find a warm drink?""","""따뜻한 음료를 어디서 구할 수 있어?""",h2_devil_generic,,,,,0,0
 95666,PC,Player Character,"""Are there any stores around here?""","""이 근처에 상점 있어?""",h2_devil_generic,,,,,0,0
 95667,PC,Player Character,"""I'm looking for Quarry Grinder 5.""","""채석장 분쇄기 5를 찾고 있어.""",h2_devil_generic,,h2c_lazy_notalk,,,0,0
-95668,PC,Player Character,"""Where can I learn the Reaper's True Name?""","""사신의 진명은 어디서 배울 수 있어?""",h2_devil_generic,,h2c_reaper_name,,,0,0
+95668,PC,Player Character,"""Where can I learn the Reaper's True Name?""","""수확자의 진명은 어디서 배울 수 있어?""",h2_devil_generic,,h2c_reaper_name,,,0,0
 95669,PC,Player Character,"""The gith sensei? Who's that?""","""기스 사부? 그게 누구야?""",h2_devil_generic,,,,,0,0
 95671,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_devil_generic,,h2c_devil_5fold,,,0,0
 95678,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h2_devil_grinder,,,,,0,0
 95679,PC,Player Character,<StartCheck>[Intelligence]</Start> <StartAction>Repair the gear assembly.</Start>,<StartCheck>[지능]</Start> <StartAction>기어 조립부를 수리합니다.</Start>,h2_devil_grinder,h2a_grind_repatt,h2c_grind_repatt,,,0,0
 97196,PC,Player Character,"""Goodbye.""","""안녕.""",h2_pilg_berries,,,,,0,0
-97197,PC,Player Character,"""Do you know the Reaper's True Name?""","""사신의 진명을 알아?""",h2_pilg_berries,,h2c_reaper_name,,,0,0
+97197,PC,Player Character,"""Do you know the Reaper's True Name?""","""수확자의 진명을 알아?""",h2_pilg_berries,,h2c_reaper_name,,,0,0
 97198,PC,Player Character,"""I need to return home to the world of Toril.""","""토릴 세계의 고향으로 돌아가야 해.""",h2_pilg_berries,,,,,0,0
 97199,PC,Player Character,"""That's a defeatist attitude...""","""그건 패배주의적인 태도야...""",h2_pilg_berries,,,,,0,0
 97200,PC,Player Character,"""That winged chap in the tavern... You know him?""","""주점에 있던 날개 달린 녀석... 알아?""",h2_pilg_berries,,h2c_pilg_arden,,,0,0
@@ -58,7 +58,7 @@
 98109,PC,Player Character,"""Goodbye.""","""안녕.""",h2_tavernkeeper,,,,,0,0
 98110,PC,Player Character,"""Have you got anything to chase off the cold?""","""추위를 쫓을 만한 게 있어?""",h2_tavernkeeper,,,,,0,0
 98112,PC,Player Character,<StartAction>Hand over 5 Velox Berries.</Start>,<StartAction>벨록스 열매 5개를 건넵니다.</Start>,h2_tavernkeeper,hx_velox_b_use5,hx_velox_b_chk5,,,0,0
-98113,PC,Player Character,"""Do you know the Reaper's True Name?""","""사신의 진명을 알아?""",h2_tavernkeeper,,h2c_reaper_name,,,0,0
+98113,PC,Player Character,"""Do you know the Reaper's True Name?""","""수확자의 진명을 알아?""",h2_tavernkeeper,,h2c_reaper_name,,,0,0
 98114,PC,Player Character,"""I need to return home to the world of Toril.""","""토릴의 세계로 돌아가야 해.""",h2_tavernkeeper,,,,,0,0
 98115,PC,Player Character,"""Tell me about your patrons.""","""단골손님들에 대해 말해줘.""",h2_tavernkeeper,,,,,0,0
 98116,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_tavernkeeper,,h2c_tav_5fold,,,0,0

@@ -1,6 +1,6 @@
 StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 97365,PC,Player Character,"""Goodbye.""","""안녕.""",h2_pilg_info,h2a_card_gameoff,,,,0,0
-97366,PC,Player Character,"""Do you know the Reaper's True Name?""","""사신의 진명을 알아?""",h2_pilg_info,,h2c_reaper_name,,,0,0
+97366,PC,Player Character,"""Do you know the Reaper's True Name?""","""수확자의 진명을 알아?""",h2_pilg_info,,h2c_reaper_name,,,0,0
 97367,PC,Player Character,"""It's not worth anything.""","""별로 가치 없어.""",h2_pilg_info,,,,,0,0
 97368,PC,Player Character,"""Here, have 10,000 gold.""","""여기, 금화 1만개야.""",h2_pilg_info,h2a_card_10000,h2c_card_10000,,,0,0
 97369,PC,Player Character,"""Here, have 50,000 gold.""","""여기, 금화 5만개야.""",h2_pilg_info,h2a_card_50000,h2c_card_50000,,,0,0

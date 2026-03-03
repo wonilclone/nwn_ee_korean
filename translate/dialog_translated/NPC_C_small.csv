@@ -337,7 +337,7 @@
 68431,Creature,Corrupted Silver Dragon,Corrupted Silver Dragon,타락한 은룡,M4SOURCEDRAG2,,,,,0,0
 69299,Dialog,CHEST,There are several magical wards on this chest which you cannot seem to penetrate.,"이 상자에는 여러 겹의 마법 봉인이 걸려 있어, 당신의 힘으로는 뚫을 수 없을 듯합니다.",Q1A2CHEST,,,,,0,0
 91636,Dialog,CHEST,"You open the chest that currently houses your possessions, some of them powerful objects in their own right gained after years of adventuring since leaving your home of Hilltop long ago.","오래전 고향 힐탑을 떠난 뒤 수년간의 모험 끝에 손에 넣은 강력한 물건들까지, 당신의 소지품을 보관해 둔 상자를 엽니다.",PRE_CHEST,,,,,0,0
-91637,Dialog,CHEST,"The most powerful of all your possessions, however, is the only one you can never store. The Relic of the Reaper, an artifact that bonded itself to you during a time you spent in the Plane of Shadows, remains in your hand as always.","하지만 당신의 소지품 가운데 가장 강력한 것은, 결코 보관할 수 없는 유일한 물건입니다. 그림자 차원에서 머무는 동안 당신과 결속된 유물, '사신의 유물'은 언제나처럼 당신의 손에 남아 있습니다.",PRE_CHEST,,,,,0,0
+91637,Dialog,CHEST,"The most powerful of all your possessions, however, is the only one you can never store. The Relic of the Reaper, an artifact that bonded itself to you during a time you spent in the Plane of Shadows, remains in your hand as always.","하지만 당신의 소지품 가운데 가장 강력한 것은, 결코 보관할 수 없는 유일한 물건입니다. 그림자 차원에서 머무는 동안 당신과 결속된 유물, '수확자의 유물'은 언제나처럼 당신의 손에 남아 있습니다.",PRE_CHEST,,,,,0,0
 91638,Dialog,CHEST,You know little of the stone beyond its power to transport you through the planes... an ability that allowed you to escape the Plane of Shadow originally and since has allowed you to cheat death on more than one occasion.,"그 돌에 대해 아는 것은 차원을 넘어 이동시킨다는 힘뿐입니다... 처음엔 그 힘으로 그림자 차원에서 빠져나왔고, 그 뒤로도 여러 차례 죽음을 피해 올 수 있었지요.",PRE_CHEST,,,,,0,0
 91639,Dialog,CHEST,"You rub the stone absently, feeling the familiar pulsing of its magic beneath your touch, before considering what other equipment you need for the moment.",당신은 무심코 돌을 문지르며 손끝 아래에서 익숙한 마법의 맥동을 느낍니다. 그리고 지금 필요한 다른 장비가 무엇인지 곰곰이 생각합니다.,PRE_CHEST,act_q2achest_1,,,,0,0
 72639,Dialog,CTRACKS,"The dust on the ground has been disturbed heavily by tracks... humanoid, without a doubt.",바닥의 먼지가 발자국에 크게 흐트러져 있습니다... 의심할 여지 없이 인간형의 흔적입니다.,Q3CTRACKS,,,,,0,0
@@ -550,7 +550,7 @@
 94451,Dialog,CTRACKS_RAK2,Humanoid tracks are scattered about the ground in this area.,이 지역 바닥에는 인간형 생명체의 발자국이 흩어져 있습니다.,Q2CTRACKS_RAK2,,,,,0,0
 94452,Dialog,CTRACKS_RAK2,A group of barefooted humans has passed over this area recently.,맨발의 인간들 무리가 최근 이곳을 지나갔습니다.,Q2CTRACKS_RAK2,,,,,0,0
 94453,Dialog,CTRACKS_RAK2,These human prints look like they were left by barefooted individuals.  But something seems slightly off about them.  You can't quite put your finger on it.,이 인간 발자국들은 맨발로 남긴 흔적처럼 보입니다. 하지만 어딘가 미묘하게 이상합니다. 정확히 무엇인지는 짚기 어렵습니다.,Q2CTRACKS_RAK2,,,,,0,0
-94577,Dialog,CON_JOINCON,You have been requested to join the Hero PC in the Realm of the Reaper.  Do you wish to go?,사신의 영역에서 주인공(PC)과 합류하라는 요청을 받았습니다. 가시겠습니까?,Q2E_CON_JOINCON,,,,,0,0
+94577,Dialog,CON_JOINCON,You have been requested to join the Hero PC in the Realm of the Reaper.  Do you wish to go?,수확자의 영역에서 주인공(PC)과 합류하라는 요청을 받았습니다. 가시겠습니까?,Q2E_CON_JOINCON,,,,,0,0
 94849,Creature,Cyphus Ordinae,Cyphus,사이퍼스,CYPHUS,,,,,0,0
 94850,Creature,Cyphus Ordinae,Ordinae,오르디네,CYPHUS,,,,,0,0
 94969,Creature,Crazed Orc,Crazed Orc,미친 오크,X2_Q2ORC2,,,,,0,0
