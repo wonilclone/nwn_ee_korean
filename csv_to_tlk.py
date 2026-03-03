@@ -18,7 +18,7 @@ from typing import List, Optional, Dict
 class CSVToTLKConverter:
     def __init__(self, csv_path: Path, encoding: str = 'auto',
                  reference_tlk: Optional[Path] = None, language_id: int = 0,
-                 debug_mode: bool = False):
+                 debug_mode: bool = False, sound_ref_csv: Optional[Path] = None):
         self.csv_path = csv_path
         self.entries = []
         self.encoding = encoding
@@ -27,6 +27,8 @@ class CSVToTLKConverter:
         self.debug_mode = debug_mode  # 검수 모드: 텍스트 앞에 [StrRef] 추가
         self.reference_entries = {}  # 원본 TLK 엔트리 캐시
         self.reference_texts = {}    # 원본 TLK 텍스트 캐시
+        self.sound_ref_csv = sound_ref_csv
+        self.sound_ref_table = {}    # StrRef → {flags, sound_ref, vol, pitch, sound_length}
         
     def load_csv(self) -> None:
         """Load CSV file and parse entries"""
@@ -132,11 +134,33 @@ class CSVToTLKConverter:
         print(f"  Loaded {len(self.reference_entries)} reference entries")
         print(f"  Loaded {len(self.reference_texts)} reference texts")
 
+    def load_sound_ref_csv(self) -> None:
+        """sound_ref_table.csv에서 flags/sound_length 정보 로드"""
+        if not self.sound_ref_csv or not self.sound_ref_csv.exists():
+            return
+        print(f"Loading sound ref table: {self.sound_ref_csv}")
+        with open(self.sound_ref_csv, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                strref = int(row['StrRef'])
+                self.sound_ref_table[strref] = {
+                    'flags':         int(row['Flags']),
+                    'sound_ref':     row['SoundRef'],
+                    'volume_var':    int(row['VolumeVariance']),
+                    'pitch_var':     int(row['PitchVariance']),
+                    'sound_length':  float(row['SoundLength']),
+                }
+        print(f"  Loaded {len(self.sound_ref_table)} sound ref entries")
+
     def write_tlk(self, output_path: Path) -> None:
         """Write TLK file"""
         # 원본 TLK가 있으면 로드
         if self.reference_tlk:
             self.load_reference_tlk()
+
+        # 사운드 정보 CSV 로드
+        if self.sound_ref_csv:
+            self.load_sound_ref_csv()
 
         # 원본 TLK가 있으면 문자열 개수를 원본과 맞춤
         if self.reference_entries:
@@ -211,6 +235,20 @@ class CSVToTLKConverter:
                     volume_var = entry['volume_variance']
                     pitch_var = entry['pitch_variance']
                     sound_length = 0.0
+
+                # sound_ref_table로 flags/sound 정보 오버라이드
+                # (reference TLK에 사운드 정보가 없는 경우 보정)
+                if strref in self.sound_ref_table:
+                    snd = self.sound_ref_table[strref]
+                    flags = snd['flags']
+                    if text:
+                        flags |= 0x01
+                    else:
+                        flags &= ~0x01
+                    sound_ref = snd['sound_ref']
+                    volume_var = snd['volume_var']
+                    pitch_var  = snd['pitch_var']
+                    sound_length = snd['sound_length']
 
                 # Write entry (40 bytes)
                 f.write(struct.pack('<I', flags))

@@ -194,10 +194,15 @@ def create_tlk_from_csv(csv_path: Path, tlk_path: Path, debug_mode: bool = False
     # 원본 TLK 경로 (NWN:EE 기본 경로)
     reference_tlk = Path("/Users/mac/Library/Application Support/Steam/steamapps/common/Neverwinter Nights/lang/en/data/dialog.tlk")
 
+    # 사운드 정보 CSV (android/dialog.tlk에서 추출한 flags/sound_length 테이블)
+    project_root = Path(__file__).parent.parent
+    sound_ref_csv = project_root / "translate" / "sound_ref_table.csv"
+
     converter = CSVToTLKConverter(
         csv_path,
         encoding='auto',
         reference_tlk=reference_tlk if reference_tlk.exists() else None,
+        sound_ref_csv=sound_ref_csv if sound_ref_csv.exists() else None,
         language_id=0,  # 원본과 동일하게
         debug_mode=debug_mode
     )

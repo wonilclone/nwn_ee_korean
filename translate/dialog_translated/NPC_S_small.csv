@@ -402,7 +402,7 @@
 79611,Creature,Sir William Rey,Rey,레이,SIRWILLIAM|WILLIAM,,,,,0,0
 79613,Creature,Skeletal Archer,Skeletal Archer,해골 궁수,SKELETALARCHER,,,,,0,0
 100159,Creature,Skeletal Archer,Skeletal Archer,해골 궁수,SKELETALARCHER,,,,,0,0
-79614,Creature,Skeletal Devourer,Skeletal Devourer,해골 포식자,NW_SKELDEVOUR,,,,,0,0
+79614,Creature,Skeletal Devourer,Skeletal Devourer,해골 포식귀,NW_SKELDEVOUR,,,,,0,0
 81802,Dialog,SPELL_PILLAR,"<StartAction>[There is an old inscription on this obelisk. The language is unfamiliar, but further study could possibly reveal its nature.]</Start>","<StartAction>[이 오벨리스크에 오래된 비문이 있습니다. 언어는 낯설지만, 더 연구하면 그 본질을 밝힐 수도 있습니다.]</Start>",Q3B_SPELL_PILLAR,,,,,0,0
 81803,Dialog,SPELL_PILLAR,"<StartCheck>[Success]</Start> <StartHighlight>[The inscriptions appear to be in ancient Netherese, implying that this obelisk is some form of focus for magical energies.]</Start>","<StartCheck>[성공]</Start> <StartHighlight>[비문은 고대 네더릴어로 보이며, 이 오벨리스크가 마법 에너지의 초점 역할을 하는 것 같습니다.]</Start>",Q3B_SPELL_PILLAR,,,,,0,0
 81804,Dialog,SPELL_PILLAR,"<StartCheck>[Failure]</Start> <StartHighlight>[Though you discern that the writing is Netherese in origin, you cannot make out the message it conveys.]</Start>","<StartCheck>[실패]</Start> <StartHighlight>[글이 네더릴 기원임을 분별하지만, 전달하는 메시지를 해독할 수 없습니다.]</Start>",Q3B_SPELL_PILLAR,,,,,0,0
