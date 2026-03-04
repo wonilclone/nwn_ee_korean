@@ -442,7 +442,7 @@
 84447,PC,Player Character,"We will break him in time. Once we learn all the secrets of Undermountain, the Valsharess's army will march through its halls and descend upon Waterdeep like -","시간이 지나면 그를 굴복시킬 거다. 언더마운틴의 모든 비밀을 알아내면, 발샤레스의 군대가 그 홀을 행진해서 워터딥을 덮칠 거야-",q2d_cut2,q2d_at_hm2,,,vs_nx2drprf_54,0,0
 84448,PC,Player Character,"Then go over there and search the area, fool! Do I need to tell you everything?","그럼 거기 가서 수색해, 멍청아! 뭐든 다 일일이 말해줘야 하냐?",q2d_cut2,q2d_at_hm3,,,vs_nx2drprf_55,0,0
 84449,PC,Player Character,"If the portal is opened, more drow will come through. I don't want that; I can barely stand you.",차원문이 열리면 드로우가 더 나올 테지. 난 그거 원하지 않지. 너 하나도 견디기 힘들거든.,q2d_cut1,,,,vs_nx2halam_58,0,0
-84450,PC,Player Character,The last thing I need is another dark elf. I'll just keep my secret all to myself.,다크 엘프가 더 오는건 딱 질색이야. 내 비밀은 그냥 나 혼만 딱 알고 있을거야.,q2d_cut1,,,,vs_nx2halam_59,0,0
+84450,PC,Player Character,The last thing I need is another dark elf. I'll just keep my secret all to myself.,다크 엘프가 더 오는건 딱 질색이야. 내 비밀은 그냥 나 혼자만 딱 알고 있을거야.,q2d_cut1,,,,vs_nx2halam_59,0,0
 92692,PC,Player Character,"""Hello dog.""","""안녕, 개야.""",q1_nymphdog,,con_q2brat_chk1,,,0,0
 92716,PC,Player Character,"""Hello chicken.""","""안녕, 닭아.""",q2a1_chicken,,con_q2brat_chk1,,,0,0
 92724,PC,Player Character,"""I hope you don't expect me to help you.""",내가 널 도와줄 거라고 기대하진 마.,q2a1encguard1,,,,,0,0
@@ -648,10 +648,10 @@
 104498,PC,Player Character,"""What do you know about the illithid?""","""일리시드에 대해 뭘 알아?""",q2agateseargent,,,,,0,0
 104499,PC,Player Character,"""Tell me about the illithid mind powers.""","""일리시드의 정신 능력에 대해 말해줘.""",q2agateseargent,,,,,0,0
 104500,PC,Player Character,"""Tell me about the beholders.""","""주시자에 대해 말해줘.""",q2agateseargent,,,,,0,0
-104501,PC,Player Character,"""I can look after myself. Open the gate.""","""난 스스로를 돌볼 수 있어. 문을 열어.""",q2agateseargent,,,,,0,0
+104501,PC,Player Character,"""I can look after myself. Open the gate.""","""내 몸은 내가 알아서 해. 문을 열어.""",q2agateseargent,,,,,0,0
 104502,PC,Player Character,"""I'll be careful. Please open the gate.""","""조심할게. 문 열어줘.""",q2agateseargent,,,,,0,0
 104503,PC,Player Character,"""Why are you so worried about protecting this gate?""","""왜 이 문을 지키는 데 그렇게 신경 써?""",q2agateseargent,,,,,0,0
-104504,PC,Player Character,"""Surprises? What do you mean?""","""놀라운 일? 무슨 뜻이야?""",q2agateseargent,,,,,0,0
+104504,PC,Player Character,"""Surprises? What do you mean?""","""놀란다고? 무슨 뜻이야?""",q2agateseargent,,,,,0,0
 104529,PC,Player Character,"""Goodbye.""","""안녕.""",q2agulhrys,,,,,0,0
 104530,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q2agulhrys,,,,,0,0
 104531,PC,Player Character,"""Do you know anything about the Valsharess?""","""발샤레스에 대해 뭘 알아?""",q2agulhrys,,,,,0,0
@@ -1010,7 +1010,7 @@
 106977,PC,Player Character,"""You said your invulnerability is gone? Time to die!"" <StartAction>Attack the Queen.</Start>",무적이 사라졌다고? 죽을 시간이야! <StartAction>여왕을 공격합니다.</Start>,q6_queen2,q6_attackqueen,,,,0,0
 106978,PC,Player Character,"""So is there some reward for helping you?""",도와준 것에 대한 보상 같은 건 없어?,q6_queen2,,,,,0,0
 106979,PC,Player Character,"""You thought wrong. I want more.""",착각이야. 더 줘야지.,q6_queen2,,,,,0,0
-106980,PC,Player Character,"""What about the fool? What happens to him now?""",바보는 어떻게 돼? 이제 어떻게 되는 거야?,q6_queen2,,,,,0,0
+106980,PC,Player Character,"""What about the fool? What happens to him now?""",광대는 어떻게 돼? 이제 어떻게 되는 거야?,q6_queen2,,,,,0,0
 106981,PC,Player Character,"""I suppose you're right.""",당신 말이 맞는 것 같네요.,q6_queen2,,,,,0,0
 106982,PC,Player Character,"""That's it? You're just going to leave him like that?""",그게 다야? 그냥 저 상태로 놔둘 거야?,q6_queen2,,,,,0,0
 106983,PC,Player Character,"""It was a pleasure to help you, my lady.""","도와드릴 수 있어서 영광이었습니다, 여왕님.",q6_queen2,,,,,0,0
@@ -1051,7 +1051,7 @@
 107197,PC,Player Character,"""Not if I betray her, first.""","""내가 먼저 배신하면 안 되지.""",q7_cut_meph3a,,,,,0,0
 107268,PC,Player Character,"""You wish to discuss an alliance again?""",다시 동맹에 대해 논의하고 싶은 거야?,q7_cut_val3,,,,,0,0
 107269,PC,Player Character,"""The rebels are winning, drow. Your time is done.""","반군이 이기고 있어, 드로우. 네 시대는 끝났어.",q7_cut_val3,,,,,0,0
-107270,PC,Player Character,"""You are a fool to bring me close enough to kill you.""",날 죽일 수 있을 만큼 가까이 오다니 바보로군.,q7_cut_val3,,,,,0,0
+107270,PC,Player Character,"""You are a fool to bring me close enough to kill you.""",널 죽일 수 있을 만큼 가까이 오다니 바보로군.,q7_cut_val3,,,,,0,0
 107271,PC,Player Character,"""Where am I?! How did I get here?!""",여기가 어디야?! 어떻게 여기 온 거야?!,q7_cut_val3,,,,,0,0
 107272,PC,Player Character,"""What do you want from me?""",내게 뭘 원해?,q7_cut_val3,,,,,0,0
 107273,PC,Player Character,"""It is not too late for us to negotiate.""",협상하기엔 아직 늦지 않았어.,q7_cut_val3,,,,,0,0

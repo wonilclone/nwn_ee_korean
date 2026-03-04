@@ -1,13 +1,13 @@
 ﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 2865,Creature,Manticore,Manticore,만티코어,Q1_MANTICORE,,,,,0,0
 3061,Creature,Mephistopheles,"Mephistopheles, Large","메피스토펠레스, 거대",HX_MEPH,,,,,0,0
-86713,Creature,Mephistopheles,"All is as I said it would be, Matron Mother.","제가 말씀드린 대로입니다, 대모님.",Q7_MEPH,,,,vs_nx2mephm_79,0,0
-86714,Creature,Mephistopheles,"Of course, great Valsharess. What is your desire?","물론이옵니다, 위대하신 발샤레스. 무엇을 원하십니까?",Q7_MEPH,q7_at_cut702_2,,,vs_nx2mephm_80,0,0
-86715,Creature,Mephistopheles,"The one you seek is beyond my sight, great Valsharess.","당신이 찾는 자는 제 시야 밖에 있습니다, 위대하신 발샤레스.",Q7_MEPH,q7_at_cut702_2,,,vs_nx2mephm_81,0,0
+86713,Creature,Mephistopheles,"All is as I said it would be, Matron Mother.","제가 말씀드린 대로입니다, 대모시여.",Q7_MEPH,,,,vs_nx2mephm_79,0,0
+86714,Creature,Mephistopheles,"Of course, great Valsharess. What is your desire?","물론이옵니다, 위대하신 발사레스님. 무엇을 원하십니까?",Q7_MEPH,q7_at_cut702_2,,,vs_nx2mephm_80,0,0
+86715,Creature,Mephistopheles,"The one you seek is beyond my sight, great Valsharess.","찾으시는 자는 제 눈이 닿지 않는 곳에 있사옵니다, 위대하신 발사레스님.",Q7_MEPH,q7_at_cut702_2,,,vs_nx2mephm_81,0,0
 86716,Creature,Mephistopheles,"It is as I have already spoken, great Valsharess, I --","이미 말씀드린 바와 같습니다, 위대하신 발샤레스, 저는 --",Q7_MEPH,,,,vs_nx2mephm_82,0,0
-86717,Creature,Mephistopheles,"I cannot do what is beyond my power, great Valsharess.","제 능력 밖의 일은 할 수 없습니다, 위대하신 발샤레스.",Q7_MEPH,q7_at_cut703_2,,,vs_nx2mephm_83,0,0
-86718,Creature,Mephistopheles,"I am, as you say, yours to command.","말씀하신 대로, 저는 당신의 명령에 따릅니다.",Q7_MEPH,q7_at_cut703_2,,,vs_nx2mephm_84,0,0
-86719,Creature,Mephistopheles,"""As you desire, great Valsharess. I greet you, mortal, at the behest of she who has bound me.""","""당신이 원하시는 대로, 위대하신 발샤레스. 필멸자여, 나를 구속한 자의 명령으로 그대를 맞이하노라.""",Q7_MEPH,,,,vs_nx2mephm_85,0,0
+86717,Creature,Mephistopheles,"I cannot do what is beyond my power, great Valsharess.","제 능력 밖의 일은 할 수 없습니다, 위대하신 발사레스님.",Q7_MEPH,q7_at_cut703_2,,,vs_nx2mephm_83,0,0
+86718,Creature,Mephistopheles,"I am, as you say, yours to command.","말씀하신 대로, 저는 명을 받들 뿐이옵니다.",Q7_MEPH,q7_at_cut703_2,,,vs_nx2mephm_84,0,0
+86719,Creature,Mephistopheles,"""As you desire, great Valsharess. I greet you, mortal, at the behest of she who has bound me.""","""당신이 원하시는 대로, 위대하신 발사레스님. 필멸자여, 나를 구속한 자의 명령으로 그대를 맞이하노라.""",Q7_MEPH,,,,vs_nx2mephm_85,0,0
 100137,Creature,Mephistopheles,Mephistopheles,메피스토펠레스,HX_MEPH|HX_MEPH_CRYSTAL|HX_MEPH_CRYSTAL2|HX_MEPH_CRYSTAL3|MEPHSMALL|Q7_MEPH,,,,,0,0
 12639,Creature,Magma Mephit,Magma Mephit,용암 메피트,AC_CREECH|M2Q3IFIRE|M2Q3LIGHTMEPH,,,,,0,0
 12647,Creature,Minogon,Minogon,미노곤,M1S3BMINAGON|M2Q2CD_MINPOR|M2Q2CD_MINPORT|M2Q2C_MINOGON|Q4B_MINO_GOLEM,,,,,0,0
@@ -228,7 +228,7 @@ Mayor of Charwood
 79592,Creature,Medusa Handmaiden,Medusa Handmaiden,메두사 시녀,MEDUSAHANDMAIDEN|X0_MEDUSA,,,,,0,0
 83012,Creature,Master Zaar,Master Zaar,자르 사부,MASTERZAAR,,,,,0,0
 83704,Creature,Mimic,Mimic,흉내쟁이,HX_MIMIC,,,,,0,0
-86720,Dialog,MEPH_TALKER,"""I shall *not* do as you desire, great Valsharess.""","""당신이 원하시는 대로 하지 *않겠습니다*, 위대하신 발샤레스.""",Q7_MEPH_TALKER,,,,vs_nx2mephm_86,0,0
+86720,Dialog,MEPH_TALKER,"""I shall *not* do as you desire, great Valsharess.""","""당신이 원하시는 대로 하지 *않겠습니다*, 위대하신 발사레스님.""",Q7_MEPH_TALKER,,,,vs_nx2mephm_86,0,0
 90402,Creature,Mind Flayer Darkener,Mind Flayer Darkener,마인드 플레이어 암흑술사,CUT106_MF1|Q2A_BAT2_MF1|Q2D_POOLGUARD_|Q2D_WAND_2,,,,,0,0
 90403,Creature,Mind Flayer,Mind Flayer,마인드 플레이어,HX_MIND_CRYSTAL,,,,,0,0
 92514,Creature,Mhaere,"""Don't be foolish, Tamsil! I will not have you getting yourself killed!""","""바보 같은 짓 하지 마, 탐실! 네가 죽게 내버려두지 않을 거야!""",Q2AMHAERE,,,,,0,0

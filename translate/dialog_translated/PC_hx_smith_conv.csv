@@ -22,10 +22,10 @@
 87422,PC,Player Character,"""I want to upgrade my <CUSTOM9809>.""","""내 <CUSTOM9809>(을)를 업그레이드하고 싶어.""",hx_smith_conv,x2_act_ws_setup,x2_con_ws_ismele,,,0,0
 87423,PC,Player Character,"""I've changed my mind.""","""마음이 바뀌었어.""",hx_smith_conv,,,,,0,0
 87424,PC,Player Character,<StartAction>[Make the weapon regenerate my health (2 hit-points per round). Costs <CUSTOM9716> gp]</Start>,<StartAction>[무기가 내 체력을 재생하도록 만들기 (라운드당 2 HP). 비용 금화 <CUSTOM9716>개]</Start>,hx_smith_conv,x2_act_ws_strege,,,,0,0
-87425,PC,Player Character,<StartAction>[Make the weapon give me resistance against magic (+20 SR). Costs <CUSTOM9715> gp]</Start>,<StartAction>[무기가 마법 저항력을 부여하도록 만들기 (+20 SR). 비용 금화 <CUSTOM9715>개]</Start>,hx_smith_conv,x2_act_ws_stspel,,,,0,0
-87426,PC,Player Character,<StartAction>[Make the weapon grant me True Seeing. Costs <CUSTOM9714> gp]</Start>,<StartAction>[무기가 진실시 능력을 부여하도록 만들기. 비용 금화 <CUSTOM9714>개]</Start>,hx_smith_conv,x2_act_ws_sttrue,,,,0,0
+87425,PC,Player Character,<StartAction>[Make the weapon give me resistance against magic (+20 SR). Costs <CUSTOM9715> gp]</Start>,<StartAction>[무기에 마법 저항력을 부여하도록 만들기 (+20 SR). 비용 금화 <CUSTOM9715>개]</Start>,hx_smith_conv,x2_act_ws_stspel,,,,0,0
+87426,PC,Player Character,<StartAction>[Make the weapon grant me True Seeing. Costs <CUSTOM9714> gp]</Start>,<StartAction>[무기에 진실의 시야 능력을 부여하도록 만들기. 비용 금화 <CUSTOM9714>개]</Start>,hx_smith_conv,x2_act_ws_sttrue,,,,0,0
 87427,PC,Player Character,<StartAction>[Make the weapon keen. Costs <CUSTOM9713> gp]</Start>,<StartAction>[무기를 예리하게 만들기. 비용 금화 <CUSTOM9713>개]</Start>,hx_smith_conv,x2_act_ws_stkeen,,,,0,0
-87428,PC,Player Character,<StartAction>[Make the weapon permanently haste me. Costs <CUSTOM9712> gp]</Start>,<StartAction>[무기가 영구적으로 신속화 효과 부여. 비용 금화 <CUSTOM9712>개]</Start>,hx_smith_conv,x2_act_ws_sthast,,,,0,0
+87428,PC,Player Character,<StartAction>[Make the weapon permanently haste me. Costs <CUSTOM9712> gp]</Start>,<StartAction>[무기에 영구적으로 가속 효과 부여. 비용 금화 <CUSTOM9712>개]</Start>,hx_smith_conv,x2_act_ws_sthast,,,,0,0
 87429,PC,Player Character,<StartAction>[Add Electrical damage +2d6. Costs <CUSTOM9711> gp]</Start>,<StartAction>[전기 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>,hx_smith_conv,x2_act_ws_stelec,,,,0,0
 87430,PC,Player Character,<StartAction>[Add Fire damage +2d6. Costs <CUSTOM9711> gp]</Start>,<StartAction>[화염 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>,hx_smith_conv,x2_act_ws_stfire,,,,0,0
 87431,PC,Player Character,<StartAction>[Add Cold damage +2d6. Costs <CUSTOM9711> gp]</Start>,<StartAction>[냉기 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>,hx_smith_conv,x2_act_ws_stice,,,,0,0
