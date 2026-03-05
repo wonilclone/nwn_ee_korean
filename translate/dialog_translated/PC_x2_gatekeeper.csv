@@ -5,9 +5,9 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 110231,PC,Player Character,"""You can't comply? But I command you!""","""따를 수 없다고요? 하지만 명령하는 겁니다!""",x2_gatekeeper,,,,,0,0
 110232,PC,Player Character,"""What? Who says I'm barred from there?""","""뭐라고요? 누가 제가 거기 출입 금지라고 했죠?""",x2_gatekeeper,,,,,0,0
 110233,PC,Player Character,"""So you worked for Mephistopheles all along.""","""그래서 처음부터 메피스토펠레스를 위해 일했군요.""",x2_gatekeeper,,,,,0,0
-110234,PC,Player Character,"""I knew it! You lied to me!""","""알았어! 날 속였군!""",x2_gatekeeper,,,,,0,0
+110234,PC,Player Character,"""I knew it! You lied to me!""","""그럴 줄 알았어! 날 속였군!""",x2_gatekeeper,,,,,0,0
 110235,PC,Player Character,"""His forever? What do you mean?""","""영원히 그의 것? 무슨 말이에요?""",x2_gatekeeper,,,,,0,0
-110236,PC,Player Character,"""But he's not here to command you now.""","""하지만 지금 그가 여기서 당신에게 명령하는 건 아니잖아요.""",x2_gatekeeper,,,,,0,0
+110236,PC,Player Character,"""But he's not here to command you now.""","""하지만 지금은 그가 여기 없잖아요.""",x2_gatekeeper,,,,,0,0
 110237,PC,Player Character,"""What is a True Name?""","""진명이 뭐죠?""",x2_gatekeeper,,,,,0,0
 110238,PC,Player Character,"""So am I stuck here forever?""","""그러면 영원히 여기 갇히는 건가요?""",x2_gatekeeper,,,,,0,0
 110239,PC,Player Character,"""What do you mean he took my place?""","""그가 제 자리를 대신했다니 무슨 말이에요?""",x2_gatekeeper,,,,,0,0
@@ -47,7 +47,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 110273,PC,Player Character,"""I would like to know more about how the Relic works.""","""유물이 어떻게 작동하는지 더 알고 싶습니다.""",x2_gatekeeper,,,,,0,0
 110274,PC,Player Character,"""How do I return home from here?""","""여기서 어떻게 집으로 돌아가죠?""",x2_gatekeeper,,,,,0,0
 110275,PC,Player Character,"""Why are rogue stones so important?""","""왜 도적의 돌이 그렇게 중요하죠?""",x2_gatekeeper,,,,,0,0
-110276,PC,Player Character,"""What do you mean by anchoring?""","""정박이란 무슨 뜻이죠?""",x2_gatekeeper,,,,,0,0
+110276,PC,Player Character,"""What do you mean by anchoring?""","""고정이란 무슨 뜻이죠?""",x2_gatekeeper,,,,,0,0
 110277,PC,Player Character,"""What about the far door, the one covered in mist?""","""저 멀리 안개로 덮인 문은요?""",x2_gatekeeper,,,,,0,0
 110278,PC,Player Character,"""You have to be dead to go through it?""","""그걸 통과하려면 죽어야 하나요?""",x2_gatekeeper,,,,,0,0
 110279,PC,Player Character,"""Where does the central portal go?""","""중앙 차원문은 어디로 가죠?""",x2_gatekeeper,,,,,0,0
@@ -55,7 +55,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 110281,PC,Player Character,"""I've heard enough about the Relic.""","""유물에 대해서는 충분히 들었습니다.""",x2_gatekeeper,,x2_portal_gate_c,,,0,0
 110282,PC,Player Character,"""I must go.""","""가야겠습니다.""",x2_gatekeeper,,,,,0,0
 110283,PC,Player Character,"""Tell me about the Relic again.""","""유물에 대해 다시 말해주세요.""",x2_gatekeeper,,,,,0,0
-110284,PC,Player Character,"""I must go to the leader of my adventuring party.""","""모험단의 리더에게 가야 합니다.""",x2_gatekeeper,,x2_portal_gate_4,,,0,0
+110284,PC,Player Character,"""I must go to the leader of my adventuring party.""","""모험 일행의 지도자에게 가야 합니다.""",x2_gatekeeper,,x2_portal_gate_4,,,0,0
 110285,PC,Player Character,"""I have died and wish to return to where I fell.""","""죽었는데 쓰러진 곳으로 돌아가고 싶습니다.""",x2_gatekeeper,,x2_portal_gate_1,,,0,0
 110286,PC,Player Character,"""But who created the relic? What is it?""","""하지만 누가 유물을 만들었죠? 그게 뭔가요?""",x2_gatekeeper,,,,,0,0
 110287,PC,Player Character,"""That's not an answer.""","""그건 대답이 아닌데요.""",x2_gatekeeper,,,,,0,0
