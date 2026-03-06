@@ -57,7 +57,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 65350,Dialog,YUANTIFAKE,"Nothing can touch us, fool! Prepare for death!","아무것도 우릴 건드리지 못해, 바보야! 죽을 준비나 해!",2Q4_YUANTIFAKE,,,,,0,0
 68356,Creature,Yuan-Ti Mage,Yuan-Ti Mage,유안티 마법사,M3Q4H_YUANMAGE,,,,,0,0
 68357,Creature,Yuan-Ti Warrior,Yuan-Ti Warrior,유안티 투사,M3Q4H_YUANWAR,,,,,0,0
-109792,Dialog,YJ_CUT1,"""Slay the mortal!""","필멸자를 죽여라!",YJ_CUT1,,,,c_devil_bat2,0,0
-109793,Dialog,YJ_CUT2,"""But... but this is <CUSTOM77777>! The devil-slayer of Waterdeep!""","하... 하지만 이자는 <CUSTOM77777>입니다! 워터딥의 마귀 사냥꾼이라고요!",YJ_CUT2,,,,c_behold_slct,0,0
-109794,Dialog,YJ_CUT3,"""Silence! Slay it or I will show you pain beyond belief!""","닥쳐! 죽여라. 안 그러면 상상도 못 할 고통을 보여주마!",YJ_CUT3,,,,c_devil_bat1,0,0
-109795,Dialog,YJ_CUT4,"""Yes... yes great one!""","예... 예, 위대하신 분이시여!",YJ_CUT4,,,,c_behold_bat1,0,0
+109792,Dialog,YJ_CUT1,"""Slay the mortal!""","""필멸자를 죽여라!""",YJ_CUT1,,,,c_devil_bat2,0,0
+109793,Dialog,YJ_CUT2,"""But... but this is <CUSTOM77777>! The devil-slayer of Waterdeep!""","""하... 하지만 이자는 <CUSTOM77777>입니다! 워터딥의 마귀 사냥꾼이라고요!""",YJ_CUT2,,,,c_behold_slct,0,0
+109794,Dialog,YJ_CUT3,"""Silence! Slay it or I will show you pain beyond belief!""","""닥쳐! 죽여라. 안 그러면 상상도 못 할 고통을 보여주마!""",YJ_CUT3,,,,c_devil_bat1,0,0
+109795,Dialog,YJ_CUT4,"""Yes... yes great one!""","""예... 예, 위대하신 분이시여!""",YJ_CUT4,,,,c_behold_bat1,0,0

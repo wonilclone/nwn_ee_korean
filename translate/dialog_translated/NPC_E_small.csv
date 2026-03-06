@@ -171,12 +171,12 @@
 79255,Dialog,EMPTYTOME,You can't think of a story to write. Perhaps you'll have to come back later.,쓸 이야기가 떠오르지 않습니다. 나중에 다시 와야 할 것 같습니다.,EMPTYTOME,,,,,0,0
 84490,Creature,Eyeball,Eyeball,눈알,CUT107_BEHOLDER3|Q2A_BAT2_BEH3,,,,,0,0
 90386,Creature,Erinyes,Erinyes,에리니에스,HX_HELL_ERIN,,,,,0,0
-92719,Dialog,ENCGUARD1,"""We'll just wait here until those reinforcements arrive.""",지원군이 올 때까지 여기서 기다리겠습니다.,Q2A1ENCGUARD1,,,,,0,0
+92719,Dialog,ENCGUARD1,"""We'll just wait here until those reinforcements arrive.""","""지원군이 올 때까지 여기서 기다리겠습니다.""",Q2A1ENCGUARD1,,,,,0,0
 92720,Dialog,ENCGUARD1,"*huff... puff* ""My <Lord/Lady>. There is a small band of the enemy just around the corner. They drove us back.""","*헉... 헉* ""나리. 저 모퉁이에 적의 소규모 무리가 있습니다. 그들이 우리를 쫓아냈습니다.""",Q2A1ENCGUARD1,,,,,0,0
-92721,Dialog,ENCGUARD1,"""We can't handle them by ourselves. We need reinforcements.""",우리끼리는 감당할 수 없습니다. 지원군이 필요합니다.,Q2A1ENCGUARD1,,,,,0,0
-92722,Dialog,ENCGUARD1,"""No, no. Of course not. Uh... we'll just stay here and wait for reinforcements.""","아니, 아닙니다. 물론 아니죠. 어... 그냥 여기 있으면서 지원군을 기다리겠습니다.",Q2A1ENCGUARD1,,,,,0,0
-92723,Dialog,ENCGUARD1,"""Suit yourself. We'll... we'll just wait here for the reinforcements to arrive.""",마음대로 하세요. 우린... 그냥 여기서 지원군이 올 때까지 기다리겠습니다.,Q2A1ENCGUARD1,,,,,0,0
-92726,Dialog,ENCGUARD2,"""We'll, uh... we'll stay here and make sure nothing sneaks up on you from behind.""","우린, 어... 여기 있으면서 뒤에서 기습하는 게 없도록 확인하겠습니다.",Q2A1ENCGUARD2,,,,,0,0
+92721,Dialog,ENCGUARD1,"""We can't handle them by ourselves. We need reinforcements.""","""우리끼리는 감당할 수 없습니다. 지원군이 필요합니다.""",Q2A1ENCGUARD1,,,,,0,0
+92722,Dialog,ENCGUARD1,"""No, no. Of course not. Uh... we'll just stay here and wait for reinforcements.""","""아니, 아닙니다. 물론 아니죠. 어... 그냥 여기 있으면서 지원군을 기다리겠습니다.""",Q2A1ENCGUARD1,,,,,0,0
+92723,Dialog,ENCGUARD1,"""Suit yourself. We'll... we'll just wait here for the reinforcements to arrive.""","""마음대로 하세요. 우린... 그냥 여기서 지원군이 올 때까지 기다리겠습니다.""",Q2A1ENCGUARD1,,,,,0,0
+92726,Dialog,ENCGUARD2,"""We'll, uh... we'll stay here and make sure nothing sneaks up on you from behind.""","""우린, 어... 여기 있으면서 뒤에서 기습하는 게 없도록 확인하겠습니다.""",Q2A1ENCGUARD2,,,,,0,0
 94584,Dialog,EGATES,There does not appear to be any way to open this gate...and the use of force seems to do nothing.,이 문을 열 방법이 없어 보입니다... 그리고 힘을 써도 아무 소용이 없는 것 같습니다.,Q2EGATES,,,,,0,0
 94585,Dialog,EREAPER,The Reaper seems to be some kind of custodian of this strange place.  He looks at you expectantly.,수확자는 이 이상한 장소의 관리인 같습니다. 그가 당신을 기대에 차서 바라봅니다.,Q2EREAPER,,,,,0,0
 94586,Dialog,EREAPER,Behold - this door will take you to your party leader.,보라 - 이 문은 당신을 파티 리더에게 데려갈 것이다.,Q2EREAPER,act_q2ereaper_2,,,,0,0
@@ -187,15 +187,15 @@
 94962,Creature,Evil Fairy,Evil Fairy,사악한 요정,X2_Q2FAIRY1,,,,,0,0
 100094,Creature,Erinyes Quarry Worker,Erinyes Quarry Worker,에리니에스 채석장 노동자,H2_ERINYES,,,,,0,0
 109811,Creature,Erinyes Quarry Worker,Weary Quarry Worker,지친 채석장 노동자,H2_ERINYES|H2_IMP,,,,,0,0
-104220,Dialog,EVILGUARD1,"""Look at these pathetic Eilistraee scum. I have no idea why Matron Myrune has thrown our lot in with them.""",저 한심한 에일리스트레이 쓰레기들 좀 봐. 대모 미룬이 왜 우리를 그들과 함께 던져 넣었는지 모르겠어.,Q2A3EVILGUARD1,act_q2a3fight_3,,,,0,0
-104222,Dialog,EVILGUARD2,"""Listen to those cowards - there's no way an army full of their type will ever stop the Valsharess! I say we teach these worms a lesson!""",저 겁쟁이들 말 좀 들어봐 - 저런 부류로 가득 찬 군대가 발샤레스를 막을 방법은 없어! 저 벌레들한테 교훈을 줘야 해!,Q2A3EVILGUARD2,act_q2a3fight_3,,,,0,0
+104220,Dialog,EVILGUARD1,"""Look at these pathetic Eilistraee scum. I have no idea why Matron Myrune has thrown our lot in with them.""","""저 한심한 에일리스트레이 쓰레기들 좀 봐. 대모 미룬이 왜 우리를 그들과 함께 던져 넣었는지 모르겠어.""",Q2A3EVILGUARD1,act_q2a3fight_3,,,,0,0
+104222,Dialog,EVILGUARD2,"""Listen to those cowards - there's no way an army full of their type will ever stop the Valsharess! I say we teach these worms a lesson!""","""저 겁쟁이들 말 좀 들어봐 - 저런 부류로 가득 찬 군대가 발샤레스를 막을 방법은 없어! 저 벌레들한테 교훈을 줘야 해!""",Q2A3EVILGUARD2,act_q2a3fight_3,,,,0,0
 104229,Dialog,EVILGUARD2,"The drow takes an involuntary step back, then quickly composes himself again. ""Come on, let's go. I've had enough of the Seer's followers for one day.""","드로우가 무의식적으로 한 걸음 물러서다가 재빨리 자신을 추스릅니다. ""가자, 가자고. 오늘은 선견자 추종자들을 충분히 봤어.""",Q2A3EVILGUARD2,,,,,0,0
-104224,Dialog,EVILGUARD3,"""Is that so? Well, surfacer... any advice on how we can win a war when you're stuck with a bunch of pacifists like the followers of Eilistraee on your side?""","그래? 그럼, 지상인... 에일리스트레이 추종자들 같은 평화주의자들과 함께 있으면서 어떻게 전쟁에 이길 수 있는지 조언 좀 해줄래?",Q2A3EVILGUARD3,,,,,0,0
-104225,Dialog,EVILGUARD3,"""Hmph! Another pacifist... just what House Maeviir needed.""",흥! 또 평화주의자라... 메비어 가문에 딱 필요했던 것이군.,Q2A3EVILGUARD3,,,,,0,0
-104234,Dialog,EVILNOBLE,"""Maybe you're not so bad, surfacer. At least you know cowards when you see them.""","어쩌면 넌 그렇게 나쁘지 않을지도 몰라, 지상인. 적어도 겁쟁이를 보면 알아보는군.",Q2A3EVILNOBLE,,,,,0,0
-104235,Dialog,EVILNOBLE,"""I still don't like the idea of having the Seer's pacifists on our side, but maybe with you here we stand half a chance.""","여전히 선견자의 평화주의자들을 우리 편에 두는 건 싫지만, 네가 여기 있으면 반은 이길 가능성이 있을지도 몰라.",Q2A3EVILNOBLE,,,,,0,0
-104236,Dialog,EVILNOBLE,"""You're as bad as the rest of the Seer's pets. How can  you lead an army to victory with such pacifists in tow? Only those able to show strength will survive the coming days.""",넌 선견자의 애완동물들만큼이나 형편없어. 그런 평화주의자들을 데리고 어떻게 군대를 승리로 이끌 수 있겠어? 힘을 보여줄 수 있는 자들만이 다가올 날들에서 살아남을 거야.,Q2A3EVILNOBLE,,,,,0,0
-104237,Dialog,EVILNOBLE,"""I just hope that when the battles start, you show more courage than you did here.""",전투가 시작되면 여기서보다 더 용기를 보여주기를 바랄 뿐이야.,Q2A3EVILNOBLE,,,,,0,0
+104224,Dialog,EVILGUARD3,"""Is that so? Well, surfacer... any advice on how we can win a war when you're stuck with a bunch of pacifists like the followers of Eilistraee on your side?""","""그래? 그럼, 지상인... 에일리스트레이 추종자들 같은 평화주의자들과 함께 있으면서 어떻게 전쟁에 이길 수 있는지 조언 좀 해줄래?""",Q2A3EVILGUARD3,,,,,0,0
+104225,Dialog,EVILGUARD3,"""Hmph! Another pacifist... just what House Maeviir needed.""","""흥! 또 평화주의자라... 메비어 가문에 딱 필요했던 것이군.""",Q2A3EVILGUARD3,,,,,0,0
+104234,Dialog,EVILNOBLE,"""Maybe you're not so bad, surfacer. At least you know cowards when you see them.""","""어쩌면 넌 그렇게 나쁘지 않을지도 몰라, 지상인. 적어도 겁쟁이를 보면 알아보는군.""",Q2A3EVILNOBLE,,,,,0,0
+104235,Dialog,EVILNOBLE,"""I still don't like the idea of having the Seer's pacifists on our side, but maybe with you here we stand half a chance.""","""여전히 선견자의 평화주의자들을 우리 편에 두는 건 싫지만, 네가 여기 있으면 반은 이길 가능성이 있을지도 몰라.""",Q2A3EVILNOBLE,,,,,0,0
+104236,Dialog,EVILNOBLE,"""You're as bad as the rest of the Seer's pets. How can  you lead an army to victory with such pacifists in tow? Only those able to show strength will survive the coming days.""","""넌 선견자의 애완동물들만큼이나 형편없어. 그런 평화주의자들을 데리고 어떻게 군대를 승리로 이끌 수 있겠어? 힘을 보여줄 수 있는 자들만이 다가올 날들에서 살아남을 거야.""",Q2A3EVILNOBLE,,,,,0,0
+104237,Dialog,EVILNOBLE,"""I just hope that when the battles start, you show more courage than you did here.""","""전투가 시작되면 여기서보다 더 용기를 보여주기를 바랄 뿐이야.""",Q2A3EVILNOBLE,,,,,0,0
 105143,Dialog,ENTRYTRACKS,You notice a large group of humanoid tracks in the area - coming and going.,이 지역에서 수많은 인간형 생물의 발자국을 발견합니다 - 오고가는 흔적이 있습니다.,Q2D_ENTRYTRACKS,,,,,0,0
 105144,Dialog,ENTRYTRACKS,"A large group of humanoids seems to have been herded in this direction, escorted by several reptilian creatures.",수많은 인간형 생명체들이 이 방향으로 몰려온 것 같습니다. 여러 파충류 생명체들이 호위했습니다.,Q2D_ENTRYTRACKS,,,,,0,0
 105145,Dialog,ENTRYTRACKS,"A large group of humanoids seems to have been herded in this direction. They're feet were shackled or bound and they were escorted by several lizardmen, judging by the tracks.","수많은 인간형 생물들이 이 방향으로 몰려온 것 같습니다. 발자국을 보니 발이 족쇄에 묶이거나 결박되었고, 여러 리자드맨이 호위했습니다.",Q2D_ENTRYTRACKS,,,,,0,0
@@ -203,7 +203,7 @@
 107877,Creature,Expressionless Duergar,Expressionless Duergar,무표정한 듀에르가,Q2DTHRALL1,,,,,0,0
 106424,Creature,Eldath Ra'sin,"The stern figure of a drow warrior materializes out of the shadows. His grace is that of a panther ready to spring, and he appraises you openly with alien, violet eyes before he speaks.","드로우 전사의 험상궂은 형상이 그림자 속에서 나타납니다. 금방이라도 뛰어오를 표범처럼 우아한 몸놀림으로, 기이한 보라색 눈이 거리낌 없이 당신을 훑어봅니다.",Q5A_ELDATH,,,,,0,0
 106425,Creature,Eldath Ra'sin," ""So. What have we here?"" He smiles broadly, a chilling sight. ""None other than the very one who hampered the attack efforts in Undermountain, it appears.""","""허. 이게 누구야?"" 그가 활짝 웃는데, 오싹한 광경입니다. ""언더마운틴에서 우리의 공세를 저지한 바로 그 자인 것 같군.""",Q5A_ELDATH,,,,,0,0
-106426,Creature,Eldath Ra'sin,"""We have been looking for you for a while, <race> <male/female>, but we certainly did not expect you to fall right into our hands.""","한동안 네놈을 찾고 있었지, <race> 놈. 하지만 제 발로 우리 손에 걸어 들어올 줄은 정말 몰랐군.",Q5A_ELDATH,,,,,0,0
+106426,Creature,Eldath Ra'sin,"""We have been looking for you for a while, <race> <male/female>, but we certainly did not expect you to fall right into our hands.""","""한동안 네놈을 찾고 있었지, <race> 놈. 하지만 제 발로 우리 손에 걸어 들어올 줄은 정말 몰랐군.""",Q5A_ELDATH,,,,,0,0
 106427,Creature,Eldath Ra'sin,"He chuckles lightly. ""I am not here to parley or to listen to your pathetic mumblings, surfacer. I am here to kill you. The Valsharess has had quite enough of you.""","그가 가볍게 웃습니다. ""협상하거나 네 한심한 중얼거림을 들으러 온 게 아니야, 지상인. 널 죽이러 왔지. 발샤레스께서 네놈에게 넌더리를 내셨거든.""",Q5A_ELDATH,,,,,0,0
 106428,Creature,Eldath Ra'sin,"<StartCheck>[Failure]</Start> ""Enough! It is time that you felt the wrath of the Valsharess.""","<StartCheck>[실패]</Start> ""충분해! 이제 발샤레스의 분노를 느낄 시간이야.""",Q5A_ELDATH,,,,,0,0
 108598,Creature,Eldath Ra'sin,Eldath,엘다스,Q5A_ELDATH,,,,,0,0
