@@ -23,7 +23,7 @@
 98348,PC,Player Character,"""Yes, she is...""","""그래, 그녀가...""",h3_sleepingman,,,,,0,0
 98349,PC,Player Character,"""Sorry, I have misspoken. I did not mean to cause alarm.""","""미안, 잘못 말했어. 놀라게 할 의도는 아니었어.""",h3_sleepingman,,,,,0,0
 98350,PC,Player Character,"""She is right here, the Lady Aribeth.""","""바로 여기 있어, 아리베스 경이.""",h3_sleepingman,,h3c_sman_aribeth,,,0,0
-98351,PC,Player Character,"""It is I. I am your true love.""","""나야. 내가 당신의 진정한 사랑이야.""",h3_sleepingman,,h3c_sman_female,,,0,0
+98351,PC,Player Character,"""It is I. I am your true love.""","""나야. 내가 당신의 운명의 사랑이야.""",h3_sleepingman,,h3c_sman_female,,,0,0
 98352,PC,Player Character,"""She is there, that corpse upon the floor.""","""저기 있어, 바닥에 있는 저 시체.""",h3_sleepingman,,h3c_sman_senjump,,,0,0
 98353,PC,Player Character,"""What proof do you require to know your love?""","""당신의 사랑을 알기 위해 무슨 증거가 필요해?""",h3_sleepingman,,h3c_sman_proof,,,0,0
 98354,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
@@ -48,7 +48,7 @@
 98374,PC,Player Character,"""Why is she banished?""","""왜 추방당했어?""",h3_sleepingman,,,,,0,0
 98375,PC,Player Character,"""What sort of creature has a name like that?""","""어떤 생명체가 그런 이름을 가져?""",h3_sleepingman,,,,,0,0
 98376,PC,Player Character,"""Why were you unable to complete your quest?""","""왜 탐구를 완수하지 못했어?""",h3_sleepingman,,,,,0,0
-98377,PC,Player Character,"""Your one true love?""","""당신의 유일한 진정한 사랑?""",h3_sleepingman,,,,,0,0
+98377,PC,Player Character,"""Your one true love?""","""당신의 운명의 사랑?""",h3_sleepingman,,,,,0,0
 98378,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h3_sleepingman,,,,,0,0
 98379,PC,Player Character,<StartAction>Wake the Sleeping Man.</Start>,<StartAction>잠자는 자를 깨웁니다.</Start>,h3_sleepingman,,,,,0,0
 98380,PC,Player Character,<StartAction>Cut him with a knife.</Start>,<StartAction>칼로 그를 벱니다.</Start>,h3_sleepingman,,,,,0,0
@@ -85,7 +85,7 @@
 98411,PC,Player Character,<StartAction>Cut him with a knife.</Start>,<StartAction>칼로 그를 벱니다.</Start>,h3_sleepingman,,,,,0,0
 98412,PC,Player Character,<StartAction>Shout in his ear.</Start>,<StartAction>그의 귀에 소리칩니다.</Start>,h3_sleepingman,,,,,0,0
 98413,PC,Player Character,<StartAction>Sound the Trumpet of Pandemonium.</Start>,<StartAction>복마전의 나팔을 붑니다.</Start>,h3_sleepingman,,h3c_sman_trumpet,,,0,0
-98414,PC,Player Character,<StartAction>Whisper the name of his one true love into his ear.</Start>,<StartAction>그의 유일한 진정한 사랑의 이름을 귀에 속삭입니다.</Start>,h3_sleepingman,,h3c_sman_love_1,,,0,0
+98414,PC,Player Character,<StartAction>Whisper the name of his one true love into his ear.</Start>,<StartAction>그의 운명의 사랑의 이름을 귀에 속삭입니다.</Start>,h3_sleepingman,,h3c_sman_love_1,,,0,0
 98415,PC,Player Character,<StartAction>Whisper his True Name into his ear.</Start>,<StartAction>그의 진명을 귀에 속삭입니다.</Start>,h3_sleepingman,a_truename,h3c_sman_named,,,0,0
 98416,PC,Player Character,<StartAction>Back to your previous options.</Start>,<StartAction>이전 선택지로 돌아갑니다.</Start>,h3_sleepingman,,,,,0,0
 98417,PC,Player Character,"""Awaken.""","""깨어나.""",h3_sleepingman,h3a_sman_namewak,,,,0,0
@@ -101,9 +101,9 @@
 98427,PC,Player Character,"""Stay and be quiet. It will all become clear.""","""가만히 있고 조용히 해. 모든 게 분명해질 거야.""",h3_sleepingman,,,,,0,0
 98441,PC,Player Character,"""Begone from here!""","""여기서 꺼져!""",h3_sleepingman,,,,,0,0
 98443,PC,Player Character,"""No one important.""","""중요한 사람은 아냐.""",h3_sleepingman,,,,,0,0
-98444,PC,Player Character,"""That was your one true love.""","""저게 당신의 유일한 진정한 사랑이었어.""",h3_sleepingman,,h3c_sman_trusens,,,0,0
-98445,PC,Player Character,"""Abandon the quest for your one true love...""","""당신의 유일한 진정한 사랑을 찾는 탐구를 포기해...""",h3_sleepingman,h3a_sman_nameaba,,,,0,0
-98446,PC,Player Character,"""I have learned the name of your one true love.""","""당신의 유일한 진정한 사랑의 이름을 알았어.""",h3_sleepingman,,h3c_sman_love_1,,,0,0
+98444,PC,Player Character,"""That was your one true love.""","""저게 당신의 운명의 사랑이었어.""",h3_sleepingman,,h3c_sman_trusens,,,0,0
+98445,PC,Player Character,"""Abandon the quest for your one true love...""","""당신의 운명의 사랑을 찾는 탐구를 포기해...""",h3_sleepingman,h3a_sman_nameaba,,,,0,0
+98446,PC,Player Character,"""I have learned the name of your one true love.""","""당신의 운명의 사랑의 이름을 알았어.""",h3_sleepingman,,h3c_sman_love_1,,,0,0
 98447,PC,Player Character,<StartAction>Back to your previous options.</Start>,<StartAction>이전 선택지로 돌아갑니다.</Start>,h3_sleepingman,,,,,0,0
 98448,PC,Player Character,"""It is Zyramethia the Young, the deva known as Lavoera.""","""젊은 지라메시아, 라보에라로 알려진 데바야.""",h3_sleepingman,,h3c_sman_trudeva,,,0,0
 98449,PC,Player Character,"""It is Phyreshi the Knower, the one known as the Knower of Names.""","""현자 피레시, 이름의 현자로 알려진 이야.""",h3_sleepingman,,h3c_sman_truname,,,0,0
@@ -121,18 +121,18 @@
 98461,PC,Player Character,"""It is Va'ardalia the Twinsouled, the spirit known as Lady Aribeth.""","""두영혼의 바아르달리아, 아리베스 경으로 알려진 영혼이야.""",h3_sleepingman,,h3c_sman_truari,,,0,0
 98462,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Va'ardalia the Twinsouled, the spirit known as Lady Aribeth.""","<StartAction>[거짓말]</Start> ""두영혼의 바아르달리아, 아리베스 경으로 알려진 영혼이야.""",h3_sleepingman,,h3c_sman_lieari,,,0,0
 98463,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
-98464,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔인한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
-98465,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔인한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
-98466,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추구자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
-98467,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추구자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
+98464,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔혹한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
+98465,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔혹한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
+98466,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추적자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
+98467,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추적자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
 98468,PC,Player Character,"""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcne,,,0,0
 98469,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcne,,,0,0
 98470,PC,Player Character,"""It is I, Neuthroxus the Fair, the one known as <FullName>.""","""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcnn,,,0,0
 98471,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Neuthroxus the Fair, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcnn,,,0,0
 98472,PC,Player Character,"""It is I, Ebela'ar the Kind, the one known as <FullName>.""","""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcng,,,0,0
 98473,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ebela'ar the Kind, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcng,,,0,0
-98474,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어두운 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
-98475,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어두운 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
+98474,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어둠의 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
+98475,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어둠의 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
 98476,PC,Player Character,"""It is I, Lysisius the Firm, the one known as <FullName>.""","""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcln,,,0,0
 98477,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Lysisius the Firm, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcln,,,0,0
 98478,PC,Player Character,"""It is I, Donita'ar the Blessed, the one known as <FullName>.""","""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupclg,,,0,0
@@ -182,7 +182,7 @@
 109434,PC,Player Character,"""You have taught me something about myself.""","""나 자신에 대해 뭔가를 가르쳐줬어.""",h3_sleepingman,,,,,0,0
 109435,PC,Player Character,"""You have formed the basis of a whole religion.""","""종교 전체의 기반을 형성했어.""",h3_sleepingman,,,,,0,0
 109436,PC,Player Character,"""You have been a force of good in the Hells' own depths.""","""지옥의 깊은 곳에서 선의 힘이었어.""",h3_sleepingman,,,,,0,0
-109437,PC,Player Character,"""I have learned the name of your one true love.""","""당신의 유일한 진정한 사랑의 이름을 알았어.""",h3_sleepingman,,h3c_sman_love_1,,,0,0
+109437,PC,Player Character,"""I have learned the name of your one true love.""","""당신의 운명의 사랑의 이름을 알았어.""",h3_sleepingman,,h3c_sman_love_1,,,0,0
 109438,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
 109439,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
 109440,PC,Player Character,"""It is Zyramethia the Young, the deva known as Lavoera.""","""젊은 지라메시아, 라보에라로 알려진 데바야.""",h3_sleepingman,,h3c_sman_trudeva,,,0,0
@@ -238,18 +238,18 @@
 109490,PC,Player Character,"""I have brought her to you. She is right here.""","""그녀를 데려왔어. 바로 여기 있어.""",h3_sleepingman,,hx_slp_ariroom_y,,,0,0
 109491,PC,Player Character,"""She has become one of the Lost, frozen into Cania's ice.""","""카니아의 얼음에 얼어붙어 잃어버린 자들 중 하나가 되었어.""",h3_sleepingman,,hx_slp_arifrozen,,,0,0
 109492,PC,Player Character,"""In life, it is said she brought great evil upon my homeworld.""","""살아생전에 내 고향 세계에 큰 악을 가져왔다고 해.""",h3_sleepingman,,,,,0,0
-109493,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔인한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
-109494,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔인한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
-109495,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추구자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
-109496,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추구자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
+109493,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔혹한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
+109494,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔혹한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
+109495,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추적자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
+109496,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추적자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
 109497,PC,Player Character,"""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcne,,,0,0
 109498,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcne,,,0,0
 109499,PC,Player Character,"""It is I, Neuthroxus the Fair, the one known as <FullName>.""","""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcnn,,,0,0
 109500,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Neuthroxus the Fair, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcnn,,,0,0
 109501,PC,Player Character,"""It is I, Ebela'ar the Kind, the one known as <FullName>.""","""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcng,,,0,0
 109502,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ebela'ar the Kind, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcng,,,0,0
-109503,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어두운 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
-109504,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어두운 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
+109503,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어둠의 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
+109504,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어둠의 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
 109505,PC,Player Character,"""It is I, Lysisius the Firm, the one known as <FullName>.""","""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcln,,,0,0
 109506,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Lysisius the Firm, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcln,,,0,0
 109507,PC,Player Character,"""It is I, Donita'ar the Blessed, the one known as <FullName>.""","""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupclg,,,0,0
@@ -260,7 +260,7 @@
 109512,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h3_sleepingman,,,,,0,0
 109513,PC,Player Character,"""Fight me.""","""날 상대해.""",h3_sleepingman,hx_slp_flag_atk,c_evilact,,,0,0
 109514,PC,Player Character,"""Leave this place and never return.""","""이곳을 떠나 다시는 돌아오지 마.""",h3_sleepingman,h3a_sman_namelea,,,,0,0
-109515,PC,Player Character,"""Abandon the quest for your one true love...""","""당신의 유일한 진정한 사랑을 찾는 탐구를 포기해...""",h3_sleepingman,h3a_sman_nameaba,,,,0,0
+109515,PC,Player Character,"""Abandon the quest for your one true love...""","""당신의 운명의 사랑을 찾는 탐구를 포기해...""",h3_sleepingman,h3a_sman_nameaba,,,,0,0
 109516,PC,Player Character,"<StartCheck>[Lie]</Start> ""I have no idea. It was as if she came out of nowhere.""","<StartCheck>[거짓말]</Start> ""전혀 모르겠어. 갑자기 나타난 것 같았어.""",h3_sleepingman,,,,,0,0
 109517,PC,Player Character,"<StartCheck>[Lie]</Start> ""A she-devil, bent on my destruction.""","<StartCheck>[거짓말]</Start> ""여자 마귀야. 날 파괴하려는.""",h3_sleepingman,,,,,0,0
 109518,PC,Player Character,"<StartCheck>[Lie]</Start> ""A vengeful spirit, I'm afraid.""","<StartCheck>[거짓말]</Start> ""복수하는 영혼인 것 같아.""",h3_sleepingman,,,,,0,0
