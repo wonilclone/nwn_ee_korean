@@ -10,7 +10,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 95757,PC,Player Character,"""Who is Mephistopheles, anyway?""","""메피스토펠레스가 도대체 누구지?""",h2_devil_gruul,,,,,0,0
 95758,PC,Player Character,"""Wait, I want to purchase something.""","""잠깐, 뭔가 사고 싶어.""",h2_devil_gruul,,,,,0,0
 95759,PC,Player Character,<StartAction>[View Store]</Start>,<StartAction>[상점 보기]</Start>,h2_devil_gruul,h2a_gruul_store,,,,0,0
-95760,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 신비를 찾고 있어.""",h2_devil_gruul,,h2c_gruul_5fold,,,0,0
+95760,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 다섯 가지 물음을 찾고 있어.""",h2_devil_gruul,,h2c_gruul_5fold,,,0,0
 95761,PC,Player Character,<StartAction>[Leave.]</Start>,<StartAction>[떠난다.]</Start>,h2_devil_gruul,,,,,0,0
 95762,PC,Player Character,"<StartAction>[Attack]</Start> ""Die, foul beast!""","<StartAction>[공격]</Start> ""죽어라, 더러운 짐승!""",h2_devil_gruul,,,,,0,0
 95763,PC,Player Character,"""Ha ha... ha...? Er, I was only kidding...""","""하하... 하...? 어, 농담이었어...""",h2_devil_gruul,,,,,0,0

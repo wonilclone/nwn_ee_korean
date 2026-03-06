@@ -36,7 +36,7 @@
 95667,PC,Player Character,"""I'm looking for Quarry Grinder 5.""","""채석장 분쇄기 5를 찾고 있어.""",h2_devil_generic,,h2c_lazy_notalk,,,0,0
 95668,PC,Player Character,"""Where can I learn the Reaper's True Name?""","""수확자의 진명은 어디서 배울 수 있어?""",h2_devil_generic,,h2c_reaper_name,,,0,0
 95669,PC,Player Character,"""The gith sensei? Who's that?""","""기스 사부? 그게 누구야?""",h2_devil_generic,,,,,0,0
-95671,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_devil_generic,,h2c_devil_5fold,,,0,0
+95671,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 다섯 가지 물음을 찾고 있어.""",h2_devil_generic,,h2c_devil_5fold,,,0,0
 95678,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,h2_devil_grinder,,,,,0,0
 95679,PC,Player Character,<StartCheck>[Intelligence]</Start> <StartAction>Repair the gear assembly.</Start>,<StartCheck>[지능]</Start> <StartAction>기어 조립부를 수리합니다.</Start>,h2_devil_grinder,h2a_grind_repatt,h2c_grind_repatt,,,0,0
 97196,PC,Player Character,"""Goodbye.""","""안녕.""",h2_pilg_berries,,,,,0,0
@@ -52,7 +52,7 @@
 97206,PC,Player Character,"""Why do you need to start a fire?""","""왜 불을 피워야 해?""",h2_pilg_berries,,,,,0,0
 97207,PC,Player Character,"""Mage-fire doesn't work?""","""마법사의 불은 안 돼?""",h2_pilg_berries,,,,,0,0
 97208,PC,Player Character,"""Flint and tinder doesn't work?""","""부싯돌과 부싯깃은 안 돼?""",h2_pilg_berries,,,,,0,0
-97209,PC,Player Character,"""I seek answers to the Five-Fold Mysteries.""","""오중 수수께끼에 대한 답을 찾고 있어.""",h2_pilg_berries,,h2c_pilg_5fold,,,0,0
+97209,PC,Player Character,"""I seek answers to the Five-Fold Mysteries.""","""다섯 가지 물음에 대한 답을 찾고 있어.""",h2_pilg_berries,,h2c_pilg_5fold,,,0,0
 97210,PC,Player Character,"""What do you mean?""","""무슨 뜻이야?""",h2_pilg_berries,,,,,0,0
 97211,PC,Player Character,"""Romantic?""","""낭만적이라고?""",h2_pilg_berries,,,,,0,0
 98109,PC,Player Character,"""Goodbye.""","""안녕.""",h2_tavernkeeper,,,,,0,0
@@ -61,7 +61,7 @@
 98113,PC,Player Character,"""Do you know the Reaper's True Name?""","""수확자의 진명을 알아?""",h2_tavernkeeper,,h2c_reaper_name,,,0,0
 98114,PC,Player Character,"""I need to return home to the world of Toril.""","""토릴의 세계로 돌아가야 해.""",h2_tavernkeeper,,,,,0,0
 98115,PC,Player Character,"""Tell me about your patrons.""","""단골손님들에 대해 말해줘.""",h2_tavernkeeper,,,,,0,0
-98116,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 오중 수수께끼를 찾고 있어.""",h2_tavernkeeper,,h2c_tav_5fold,,,0,0
+98116,PC,Player Character,"""I seek the Five-Fold Mysteries of the Sleeping Man.""","""잠자는 자의 다섯 가지 물음을 찾고 있어.""",h2_tavernkeeper,,h2c_tav_5fold,,,0,0
 98117,PC,Player Character,"<StartAction>[View Store]</Start> ""What have you got?""","<StartAction>[상점을 본다]</Start> ""뭐 있어?""",h2_tavernkeeper,h2a_tav_store,,,,0,0
 109145,PC,Player Character,"""Back to my other questions.""","""다른 질문들로 돌아가자.""",h2_tavernkeeper,,,,,0,0
 109146,PC,Player Character,"""Maybe later.""","""나중에.""",h2_tavernkeeper,,,,,0,0
