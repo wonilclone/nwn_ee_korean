@@ -11,19 +11,19 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 98877,PC,Player Character,"""I've come to stop you.""","""널 막으러 왔어.""",h9_mephistophele,h9a_meph_stop,,,,0,0
 98878,PC,Player Character,"""All you gave me was an empty husk. Prepare to die.""","""네가 준 건 빈껍데기뿐이었어. 죽을 준비해.""",h9_mephistophele,hx_mephatk_pc,,,,0,0
 98879,PC,Player Character,"""Then replace me. Do your best!""","""그럼 날 대신해 봐. 최선을 다해!""",h9_mephistophele,hx_mephatk_pc,,,,0,0
-98880,PC,Player Character,"""Thra'axfyl the Ambitious, surrender Toril to me!""","""야망의 스라악실, 토릴을 내게 내놓아라!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
+98880,PC,Player Character,"""Thra'axfyl the Ambitious, surrender Toril to me!""","""야망의 트라악스필, 토릴을 내게 내놓아라!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
 98881,PC,Player Character,"""Surrender Cania to its original inhabitants, the Knowers!""","""카니아를 원래 주인인 현자들에게 돌려줘!""",h9_mephistophele,,c_false,,,0,0
 98882,PC,Player Character,"""Repent of your crimes! Become kind-hearted and good!""","""네 죄를 회개해! 착하고 선한 자가 돼!""",h9_mephistophele,,c_false,,,0,0
 98883,PC,Player Character,"""Then fight me, you coward!""","""그럼 싸워, 겁쟁이!""",h9_mephistophele,hx_mephatk_pc,,,,0,0
 98884,PC,Player Character,"""Then I apologize: You bring this death upon yourself.""","""그럼 미안하지만, 네가 자초한 거야.""",h9_mephistophele,hx_mephatk_pc,,,,0,0
-98885,PC,Player Character,"""Thra'axfyl the Ambitious, subordinate yourself to me!""","""야망의 스라악실, 내게 복종해라!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
+98885,PC,Player Character,"""Thra'axfyl the Ambitious, subordinate yourself to me!""","""야망의 트라악스필, 내게 복종해라!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
 98886,PC,Player Character,"""I'll open an inn and make you the chambermaid!""","""여관을 열어서 널 하녀로 쓸 거야!""",h9_mephistophele,,c_false,,,0,0
 98887,PC,Player Character,"""You will serve me as henchman for all my future adventures!""","""앞으로 모든 모험에서 널 부하로 부릴 거야!""",h9_mephistophele,,c_false,,,0,0
 98888,PC,Player Character,"""I will rule the Hells of Baator and you will be my lackey!""","""내가 베이아터의 지옥들을 지배하고 넌 내 하수인이 될 거야!""",h9_mephistophele,,,,,0,0
 98889,PC,Player Character,"""Rule the Hells of Baator with me as equal partner!""","""나와 동등한 동반자로 베이아터의 지옥들을 다스려!""",h9_mephistophele,,,,,0,0
 98890,PC,Player Character,"""You don't know the half of it! Fight me, you coward!""","""넌 반도 모르잖아! 싸워, 겁쟁이!""",h9_mephistophele,hx_mephatk_pc,,,,0,0
 98891,PC,Player Character,"""Then I intend to die trying...""","""그래도 죽을 때까지 해볼 거야...""",h9_mephistophele,hx_mephatk_pc,,,,0,0
-98892,PC,Player Character,"""Thra'axfyl the Ambitious, I command you to stop this carnage!""","""야망의 스라악실, 이 학살을 멈추라고 명령한다!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
+98892,PC,Player Character,"""Thra'axfyl the Ambitious, I command you to stop this carnage!""","""야망의 트라악스필, 이 학살을 멈추라고 명령한다!""",h9_mephistophele,a_truename,h9c_meph_meph2,,,0,0
 98893,PC,Player Character,"""Fight me!""","""덤벼!""",h9_mephistophele,hx_mephatk_pc2,,,,0,0
 98894,PC,Player Character,"""Serve me to the end of your days!""","""평생 나를 섬겨!""",h9_mephistophele,,c_false,,,0,0
 98895,PC,Player Character,"""Return to Cania and remain there forever!""","""카니아로 돌아가서 영원히 거기 있어!""",h9_mephistophele,,,,,0,0
@@ -42,7 +42,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 98916,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""I will make your death more painful than your life ever was!""","<StartCheck>[위협]</Start> ""살면서 겪은 고통 따윈 비교도 안 되게 죽여줄 거야!""",h9_mephistophele,,,,,0,0
 98917,PC,Player Character,"<StartCheck>[Persuade]</Start> ""He lies! Your faith is what you make of it, Aribeth.""","<StartCheck>[설득]</Start> ""거짓말이야! 네 믿음은 네가 만드는 거야, 아리베스.""",h9_mephistophele,,,,,0,0
 98918,PC,Player Character,"""Why are you doing this?""","""왜 이러는 거야?""",h9_mephistophele,,,,,0,0
-98919,PC,Player Character,"""Sorry, the Hells froze over.""","""미안, 지옥이 얼어붙었거든.""",h9_mephistophele,,,,,0,0
+98919,PC,Player Character,"""Sorry, the Hells froze over.""","""미안하지만, 거긴 좀 추워서 나왔어.""",h9_mephistophele,,,,,0,0
 109638,PC,Player Character,"""You can't even make your own decisions! You disgust me. Betray me, then.""","""자기 결정도 못 내리잖아! 꼴도 보기 싫어. 배신하든가.""",h9_mephistophele,h9a_meph_betray4,,,,0,0
 109639,PC,Player Character,"""Betray me if you will but I will miss you, Deekin.""","""배신하고 싶으면 해, 하지만 보고 싶을 거야, 디킨.""",h9_mephistophele,hx_end_deebetray,,,,0,0
 109640,PC,Player Character,"""Ixthyria the Scalesinger, ignore Mephistopheles and remain with me!""","""비늘의 노래꾼 익스시리아, 메피스토펠레스를 무시하고 내 곁에 있어라!""",h9_mephistophele,a_true_deekin,h9c_meph_deek2,,,0,0

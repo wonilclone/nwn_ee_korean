@@ -3,7 +3,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 98705,PC,Player Character,"""There is another name I wish to know.""","""알고 싶은 다른 이름이 있어.""",h7_knower_names,,,,,0,0
 98706,PC,Player Character,"""Back to my other questions.""","""다른 질문으로 돌아가지.""",h7_knower_names,,,,,0,0
 98707,PC,Player Character,"""The Reaper's...""","""수확자의...""",h7_knower_names,,h7c_name_gate_1,,,0,0
-98708,PC,Player Character,"""The Puzzle Ring and the Sensei's Amulet? They may have them.""","""퍼즐 반지와 사부의 호신부? 그들이 가지고 있을지도 몰라.""",h7_knower_names,h7a_name_amulet,,,,0,0
+98708,PC,Player Character,"""The Puzzle Ring and the Sensei's Amulet? They may have them.""","""수수께끼 반지와 사부의 호신부? 여기, 가져.""",h7_knower_names,h7a_name_amulet,,,,0,0
 98709,PC,Player Character,"""Mephistopheles'...""","""메피스토펠레스의...""",h7_knower_names,,h7c_name_meph_1,,,0,0
 98710,PC,Player Character,"""Speak Mephistopheles' True Name, Phyreshi the Knower!""","""메피스토펠레스의 진명을 말하라, 현자 피레시!""",h7_knower_names,a_truename,h7c_name_names_3,,,0,0
 98711,PC,Player Character,"""Yes, here is the 500,000 gold the gods demand.""","""그래, 신들이 요구하는 금화 50만 개가 여기 있어.""",h7_knower_names,h7a_name_500000,h7c_name_500000,,,0,0

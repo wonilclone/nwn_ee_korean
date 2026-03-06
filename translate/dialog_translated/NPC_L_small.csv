@@ -113,7 +113,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 94829,Creature,LaFontaine,LaFontaine,라폰테인,CUT1_LAFONTAINE,,,,,0,0
 97177,Dialog,LOSTNAMES,"A sea of names has been etched into the ice, buried between its countless layers. Many of them are so deep that you can only make out their dim outlines amidst the soft blue light.","수많은 이름의 바다가 얼음에 새겨져 있으며, 끝없는 층 사이에 묻혀 있습니다. 그 중 많은 것들이 너무 깊어서 부드러운 푸른 빛 속에서 희미한 윤곽만 겨우 알아볼 수 있습니다.",H2_LOSTNAMES,,,,,0,0
 100098,Creature,Lazy the Quarry Imp,Lazy the Quarry Imp,게으름뱅이 채석장 임프,H2_LAZYBODY,,,,,0,0
-100128,Creature,Lava Beast,Lava Beast,용암 짐승,HX_FIREELEM,,,,,0,0
+100128,Creature,Lava Beast,Lava Beast,용암 야수,HX_FIREELEM,,,,,0,0
 105111,Dialog,LIZARD1,"This lizard folk looks you up and down, then hisses out: ""A sssurfacer? Odd. Are you a ssslaver, then, up on your sssun-ssscorched world? Or have you come here to watch the pit fightsss?""","이 도마뱀인이 당신을 위아래로 훑어본 뒤 쉿 소리를 내며 말합니다: ""쉿쉿... 지상인? 이상한데. 그럼 당신은 노예상인가, 스스... 태양에 그을린 세계에서? 아니면 투기장 구경하러 왔나?""",Q2D6LIZARD1,nw_d1_talklevel,,,,0,0
 105112,Dialog,LIZARD1,"""Goodbye, sssurfacer.""","""안녕, 쉿... 지상인.""",Q2D6LIZARD1,,,,,0,0
 105113,Dialog,LIZARD1,"His reptilian eyes narrow in suspicion. ""I don't like questionsss. If you plan to trade thrallsss with the illithid, you should learn to keep information to yourself, sssurfacer.""","파충류 눈이 의심스럽게 가늘어집니다. ""질문은 쓰읏... 좋아하지 않아. 일리시드와 노예 거래할 생각이라면, 정보는 자기만 알고 있는 법을 배워야 해, 지상인.""",Q2D6LIZARD1,,,,,0,0
