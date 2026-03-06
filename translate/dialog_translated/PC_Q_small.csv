@@ -695,14 +695,14 @@
 104621,PC,Player Character,"""Good! Glad to hear it.""","""좋아! 그 말 듣기 좋네.""",q2amaeseargent,,,,,0,0
 104645,PC,Player Character,"""I came to warn you. Zesyyr wants the Matron dead.""","""경고하러 왔어. 제시르가 대모를 죽이려고 해.""",q2amaeviir,,,,,0,0
 104646,PC,Player Character,"""Can't she? She wanted me to kill you.""","""못 할 게 뭐야? 그녀가 날 보내서 당신을 죽이라고 했어.""",q2amaeviir,,,,,0,0
-104647,PC,Player Character,"""I've decided Zesyyr should rule!"" <StartAction>Attack the Matron.</Start>",제시르가 다스려야 한다고 생각해! <StartAction>대모를 공격한다.</Start>,q2amaeviir,q2a_zesyyrrulex,,,,0,0
+104647,PC,Player Character,"""I've decided Zesyyr should rule!"" <StartAction>Attack the Matron.</Start>",제시르가 다스려야 한다고 생각해! <StartAction>대모를 공격합니다.</Start>,q2amaeviir,q2a_zesyyrrulex,,,,0,0
 104648,PC,Player Character,"""She gave me her ring to get me past the guards.""","""그녀가 경비를 지나가라고 반지를 줬어.""",q2amaeviir,,,,,0,0
 104649,PC,Player Character,"""I'm just glad I could help.""","""도울 수 있어서 기뻐.""",q2amaeviir,,,,,0,0
 104650,PC,Player Character,"<StartAction>Intimidate</Start> ""Come up with something more, or I'll finish the job Zesyyr sent me to do!"" ","<StartAction>위협</Start> ""더 줄 게 없으면, 제시르가 시킨 일을 끝내버리겠어!""",q2amaeviir,,,,,0,0
 104651,PC,Player Character,"<StartAction>Persuade</Start> ""I think I deserve a little more than that.""","<StartAction>설득</Start> ""그것보단 좀 더 받아야 하지 않을까.""",q2amaeviir,,,,,0,0
 104652,PC,Player Character,"""Stay out of this, Deekin.""","""이 일에 끼어들지 마, 디킨.""",q2amaeviir,,,,,0,0
 104653,PC,Player Character,"""That's right.""","""그래, 맞아.""",q2amaeviir,,,,,0,0
-104654,PC,Player Character,"""Zesyyr sent me to kill you!"" <StartAction>Attack the Matron.</Start>",제시르가 날 보내서 널 죽이라고 했어! <StartAction>대모를 공격한다.</Start>,q2amaeviir,q2a_zesyyrrulex,,,,0,0
+104654,PC,Player Character,"""Zesyyr sent me to kill you!"" <StartAction>Attack the Matron.</Start>",제시르가 날 보내서 널 죽이라고 했어! <StartAction>대모를 공격합니다.</Start>,q2amaeviir,q2a_zesyyrrulex,,,,0,0
 104655,PC,Player Character,"""My name is <FullName>. I work for the Seer.""","""내 이름은 <FullName>이야. 선견자를 위해 일하지.""",q2amaeviir,,,,,0,0
 104739,PC,Player Character,"""I'm just glad I could help.""","""도울 수 있어서 기뻐.""",q2azesyyrcut,,,,,0,0
 104740,PC,Player Character,"""I want more.""","""더 줘야지.""",q2azesyyrcut,,,,,0,0
@@ -830,7 +830,7 @@
 105241,PC,Player Character,"""I am here to buy thralls, not become one. The helm stays on.""","""노예를 사러 온 거지 노예가 되러 온 게 아냐. 투구는 안 벗어.""",q2dgatekeeper,,,,,0,0
 105269,PC,Player Character,"""Quiet! I don't answer to thralls.""","""조용히 해! 난 노예들한테 대답 안 해.""",q2dslaveleader,,,,,0,0
 105270,PC,Player Character,"""The warden is dead. I killed him myself.""","""감시관은 죽었어. 내가 직접 죽였지.""",q2dslaveleader,,,,,0,0
-105271,PC,Player Character,"""I don't serve anyone - but I kill everyone!"" <StartAction>Attack the thralls.</Start>","""난 누구도 섬기지 않아 - 하지만 모두를 죽이지!"" <StartAction>노예들을 공격한다.</Start>",q2dslaveleader,act_q2dslaveld_1,,,,0,0
+105271,PC,Player Character,"""I don't serve anyone - but I kill everyone!"" <StartAction>Attack the thralls.</Start>","""난 누구도 섬기지 않아 - 하지만 모두를 죽이지!"" <StartAction>노예들을 공격합니다.</Start>",q2dslaveleader,act_q2dslaveld_1,,,,0,0
 105272,PC,Player Character,"""I'm here to free you.""","""널 해방시키러 왔어.""",q2dslaveleader,,,,,0,0
 105273,PC,Player Character,"""Hold on - I have some questions for you.""","""잠깐 - 질문 좀 할게.""",q2dslaveleader,,,,,0,0
 105274,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q2dslaveleader,,,,,0,0
@@ -843,7 +843,7 @@
 105281,PC,Player Character,"<StartAction>Intimidate</Start> ""Either give me some time, or I'll kill you all now!""","<StartAction>위협</Start> ""시간을 줘, 아니면 지금 당장 다 죽일 거야!""",q2dslaveleader,,,,,0,0
 105282,PC,Player Character,"<StartAction>Bluff</Start> ""I'm going to poison the Elder Brain, crippling all the illithid.""","<StartAction>허세</Start> ""엘더 브레인을 독살해서 일리시드를 전부 무력화시킬 거야.""""""",q2dslaveleader,,,,,0,0
 105283,PC,Player Character,"<StartAction>Persuade</Start> ""Consider it payback for me freeing you.""","<StartAction>설득</Start> ""널 해방시켜 준 것에 대한 보답이라고 생각해.""",q2dslaveleader,,,,,0,0
-105284,PC,Player Character,"""You're annoying me. Time to die."" <StartAction>Attack the thralls.</Start>","""짜증나게 하는군. 죽을 시간이야."" <StartAction>노예들을 공격한다.</Start>",q2dslaveleader,act_q2dslaveld_1,,,,0,0
+105284,PC,Player Character,"""You're annoying me. Time to die."" <StartAction>Attack the thralls.</Start>","""짜증나게 하는군. 죽을 시간이야."" <StartAction>노예들을 공격합니다.</Start>",q2dslaveleader,act_q2dslaveld_1,,,,0,0
 105285,PC,Player Character,"""You're free. Go now, before the illithid discover you've escaped.""","""이제 자유야. 일리시드가 탈출한 걸 발견하기 전에 가.""",q2dslaveleader,,,,,0,0
 105286,PC,Player Character,"""I have some questions for you.""","""질문 좀 할게.""",q2dslaveleader,,,,,0,0
 105288,PC,Player Character,"""You disgust me, slaver! You deserve death!"" <StartAction>Attack the duergar.</Start>",역겨운 노예상! 죽어 마땅해! <StartAction>듀에르가를 공격합니다.</Start>,q2firstslaver,,,,,0,0
@@ -992,9 +992,9 @@
 106453,PC,Player Character,<StartAction>[Touch the symbols in the order of the Knock spell]</Start>,<StartAction>[열쇠 주문 순서대로 상징을 만집니다.]</Start>,q5c_device,q5c_at_device5,,,,0,0
 106454,PC,Player Character,<StartAction>[Touch the symbols in the order of the Healing Circle spell]</Start>,<StartAction>[치유의 원 주문 순서대로 상징을 만집니다.]</Start>,q5c_device,q5c_at_device4,,,,0,0
 106455,PC,Player Character,<StartAction>[Touch the symbols in the order of the Lightning Bolt spell]</Start>,<StartAction>[전격 주문 순서대로 상징을 만집니다.]</Start>,q5c_device,q5c_at_device3,,,,0,0
-106486,PC,Player Character,"""Sorry. I only fight to the death!"" <StartAction>Attack the apprentice.</Start>",미안해. 난 죽을 때까지만 싸워! <StartAction>견습생을 공격한다.</Start>,q6_apprentice,nw_d1_attonend02,,,,0,0
+106486,PC,Player Character,"""Sorry. I only fight to the death!"" <StartAction>Attack the apprentice.</Start>",미안해. 난 죽을 때까지만 싸워! <StartAction>견습생을 공격합니다.</Start>,q6_apprentice,nw_d1_attonend02,,,,0,0
 106487,PC,Player Character,"""Don't worry. I don't kill those who surrender to me.""","""걱정 마. 항복한 자는 죽이지 않아.""",q6_apprentice,,,,,0,0
-106488,PC,Player Character,"""I've given it some thought, and I've decided you have to die!"" <StartAction>Attack the apprentice.</Start>","생각해 봤는데, 네가 죽어야겠어! <StartAction>견습생을 공격한다.</Start>",q6_apprentice,nw_d1_attonend02,,,,0,0
+106488,PC,Player Character,"""I've given it some thought, and I've decided you have to die!"" <StartAction>Attack the apprentice.</Start>","생각해 봤는데, 네가 죽어야겠어! <StartAction>견습생을 공격합니다.</Start>",q6_apprentice,nw_d1_attonend02,,,,0,0
 106489,PC,Player Character,"""So what happens now?""","""이제 어떻게 되는 거야?""",q6_apprentice,,,,,0,0
 106490,PC,Player Character,"""I'll be going now.""","""이제 갈게.""",q6_apprentice,,,,,0,0
 106491,PC,Player Character,"""You better come up with a better reward if you want to live!""","""살고 싶으면 더 나은 보상을 내놔!""",q6_apprentice,,,,,0,0
@@ -1019,7 +1019,7 @@
 107161,PC,Player Character,"""Goodbye.""","""안녕.""",q6_wizard,,,,,0,0
 107162,PC,Player Character,"""Out of my way, old man!""","""비켜, 노인네!""",q6_wizard,,,,,0,0
 107163,PC,Player Character,"""Can I ask you some questions?""","""질문 좀 해도 될까?""",q6_wizard,,,,,0,0
-107164,PC,Player Character,"""I've got no further use for you. Time to die."" <StartAction>Attack.</Start>",너한테 더 이상 쓸모가 없어. 죽을 시간이야. <StartAction>공격한다.</Start>,q6_wizard,q6_at_wizard1,,,,0,0
+107164,PC,Player Character,"""I've got no further use for you. Time to die."" <StartAction>Attack.</Start>",너한테 더 이상 쓸모가 없어. 죽을 시간이야. <StartAction>공격합니다.</Start>,q6_wizard,q6_at_wizard1,,,,0,0
 107165,PC,Player Character,"""What can you tell me about the tower?""","""탑에 대해 뭘 말해줄 수 있어?""",q6_wizard,,,,,0,0
 107166,PC,Player Character,"""Tell me about your apprentice.""","""네 견습생에 대해 말해줘.""",q6_wizard,,,,,0,0
 107167,PC,Player Character,"""Does your apprentice still have this mirror shard?""","""네 견습생이 아직 이 거울 파편을 갖고 있어?""",q6_wizard,,q6_wiz_shard,,,0,0

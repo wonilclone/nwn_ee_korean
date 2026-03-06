@@ -13,7 +13,7 @@
 95863,PC,Player Character,"""The grinder had better be fixed soon or Gru'ul will be angry.""","""분쇄기를 빨리 고쳐야 할 텐데, 아니면 그루울이 화낼 거야.""",h2_devil_info,,,,,0,0
 95864,PC,Player Character,"""I talked to Gru'ul. He's given you a holiday.""","""그루울과 얘기했어. 그가 너한테 휴일을 줬어.""",h2_devil_info,,h2c_lazy_holiday,,,0,0
 95865,PC,Player Character,<StartAction>Wake the imp.</Start>,<StartAction>임프를 깨웁니다.</Start>,h2_devil_info,h2a_lazy_wake,h2c_lazy_asleep,,,0,0
-95866,PC,Player Character,<StartCheck>[Dexterity]</Start> <StartAction>Dismantle the grinder and free the imp.</Start>,<StartCheck>[민첩성]</Start> <StartAction>분쇄기를 분해하고 임프를 꺼낸다.</Start>,h2_devil_info,h2a_lazy_dis_att,h2c_lazy_dismant,,,0,0
+95866,PC,Player Character,<StartCheck>[Dexterity]</Start> <StartAction>Dismantle the grinder and free the imp.</Start>,<StartCheck>[민첩성]</Start> <StartAction>분쇄기를 분해하고 임프를 꺼냅니다.</Start>,h2_devil_info,h2a_lazy_dis_att,h2c_lazy_dismant,,,0,0
 95867,PC,Player Character,"""Goodbye.""","""안녕.""",h2_devil_info,,,,,0,0
 95868,PC,Player Character,"""How did your hand get stuck in the grinder, anyway?""","""어쨌든, 손이 어떻게 분쇄기에 끼게 된 거야?""",h2_devil_info,,,,,0,0
 95869,PC,Player Character,"""You put your hand in the grinder on purpose?""","""일부러 분쇄기에 손을 넣은 거야?""",h2_devil_info,,,,,0,0

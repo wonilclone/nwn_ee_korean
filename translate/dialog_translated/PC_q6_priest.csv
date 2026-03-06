@@ -2,7 +2,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 106859,PC,Player Character,"""Whatever you did to me, you better undo right now!""","""나한테 뭘 했는지 모르겠지만, 당장 원래대로 돌려놔!""",q6_priest,,,,,0,0
 106860,PC,Player Character,"""Who are you? What are you talking about?""","""넌 누구야? 무슨 말을 하는 거지?""",q6_priest,,,,,0,0
 106861,PC,Player Character,"""Maybe I'll just kill you, instead.""","""차라리 널 죽여버릴까.""",q6_priest,,,,,0,0
-106862,PC,Player Character,"""I'd rather just kill you!"" <StartAction>Attack the priest</Start>","그냥 널 죽이는 게 낫겠어! <StartAction>사제를 공격한다</Start>",q6_priest,q6e_at_cleric1,,,,0,0
+106862,PC,Player Character,"""I'd rather just kill you!"" <StartAction>Attack the priest</Start>","그냥 널 죽이는 게 낫겠어! <StartAction>사제를 공격합니다.</Start>",q6_priest,q6e_at_cleric1,,,,0,0
 106863,PC,Player Character,"""Tell me about this challenge.""","""이 시련에 대해 말해 봐.""",q6_priest,,,,,0,0
 106864,PC,Player Character,"""Forget it. I'm not taking part in any challenge!""","""됐어. 난 어떤 시련에도 참가 안 해!""",q6_priest,,,,,0,0
 106865,PC,Player Character,"""How do I prove myself worthy?""","""어떻게 자격을 증명하지?""",q6_priest,,,,,0,0
@@ -24,7 +24,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 106881,PC,Player Character,"""This isn't fair! That mirror shard was mine!""","""이건 공정하지 않아! 그 거울 파편은 내 거였어!""",q6_priest,,,,,0,0
 106882,PC,Player Character,"""Let's continue with the trial.""","""시련을 계속하자.""",q6_priest,,,,,0,0
 106883,PC,Player Character,"""I'll be going now.""","""이만 가볼게.""",q6_priest,,,,,0,0
-106884,PC,Player Character,"""I've decided to kill you."" <StartAction>Attack the priest.</Start>","널 죽이기로 했어. <StartAction>사제를 공격한다.</Start>",q6_priest,q6e_at_cleric1,,,,0,0
+106884,PC,Player Character,"""I've decided to kill you."" <StartAction>Attack the priest.</Start>","널 죽이기로 했어. <StartAction>사제를 공격합니다.</Start>",q6_priest,q6e_at_cleric1,,,,0,0
 106885,PC,Player Character,"""I want to ask you some questions.""","""몇 가지 질문하고 싶어.""",q6_priest,,,,,0,0
 106886,PC,Player Character,"""I'm looking for allies to help me against the Valsharess.""","""발샤레스에 맞서 도와줄 동맹을 찾고 있어.""",q6_priest,,,,,0,0
 106887,PC,Player Character,"""What can you tell me about that drow, Sabal?""","""그 드로우, 사발에 대해 알려줄 게 있어?""",q6_priest,,q6e_sc_cleric11,,,0,0

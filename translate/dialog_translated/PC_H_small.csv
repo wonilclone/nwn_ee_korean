@@ -92,13 +92,13 @@
 98959,PC,Player Character,<StartAction>Rest.</Start>,<StartAction>휴식합니다.</Start>,hx_fire_conv,hx_berry_rest,hx_test_rest,,,0,0
 98960,PC,Player Character,<StartAction>Light a fire with flint and tinder.</Start>,<StartAction>부싯돌과 부싯깃으로 불을 피웁니다.</Start>,hx_fire_conv,,,,,0,0
 98984,PC,Player Character,<StartAction>Put the pieces of the ring away.</Start>,<StartAction>반지 조각들을 치웁니다.</Start>,hx_ring_conv,,,,,0,0
-98985,PC,Player Character,<StartAction>Start with the one marked 'L'.</Start>,<StartAction>'L' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
-98986,PC,Player Character,<StartAction>Start with the one marked 'H'.</Start>,<StartAction>'H' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
-98987,PC,Player Character,<StartAction>Attach the piece marked 'L'.</Start>,<StartAction>'L' 표시된 조각을 붙입니다.</Start>,hx_ring_conv,,,,,0,0
-98988,PC,Player Character,<StartAction>Attach the piece marked 'F'.</Start>,<StartAction>'F' 표시된 조각을 붙입니다.</Start>,hx_ring_conv,,,,,0,0
+98985,PC,Player Character,<StartAction>Start with the one marked 'L'.</Start>,<StartAction>'사랑' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
+98986,PC,Player Character,<StartAction>Start with the one marked 'H'.</Start>,<StartAction>'희망' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
+98987,PC,Player Character,<StartAction>Attach the piece marked 'L'.</Start>,<StartAction>'사랑' 표시된 조각을 붙입니다.</Start>,hx_ring_conv,,,,,0,0
+98988,PC,Player Character,<StartAction>Attach the piece marked 'F'.</Start>,<StartAction>'신앙' 표시된 조각을 붙입니다.</Start>,hx_ring_conv,,,,,0,0
 98989,PC,Player Character,<StartAction>Take the ring apart and put it away.</Start>,<StartAction>반지를 분해해서 치웁니다.</Start>,hx_ring_conv,,,,,0,0
-98990,PC,Player Character,"<StartAction>Add the final piece, marked 'L'.</Start>","<StartAction>'L' 표시된 마지막 조각을 추가합니다.</Start>",hx_ring_conv,,,,,0,0
-98991,PC,Player Character,<StartAction>Start with the one marked 'F'.</Start>,<StartAction>'F' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
+98990,PC,Player Character,"<StartAction>Add the final piece, marked 'L'.</Start>","<StartAction>'사랑' 표시된 마지막 조각을 추가합니다.</Start>",hx_ring_conv,,,,,0,0
+98991,PC,Player Character,<StartAction>Start with the one marked 'F'.</Start>,<StartAction>'신앙' 표시된 것부터 시작합니다.</Start>,hx_ring_conv,,,,,0,0
 99042,PC,Player Character,<StartAction>Bare your neck to its jaws.</Start>,<StartAction>목을 늑대의 턱 앞에 내밉니다.</Start>,hx_wntrwolf_conv,,,,,0,0
 99043,PC,Player Character,<StartAction>Attack the alpha wolf.</Start>,<StartAction>우두머리 늑대를 공격합니다.</Start>,hx_wntrwolf_conv,hx_wolf_attack,,,,0,0
 99044,PC,Player Character,<StartAction>Leave.</Start>,<StartAction>떠납니다.</Start>,hx_wntrwolf_conv,,,,,0,0

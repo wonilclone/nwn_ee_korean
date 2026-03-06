@@ -14,14 +14,14 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 110378,PC,Player Character,"""Time for this to get bloody. Die, you Underdark excuse for a dwarf!""","""피 볼 시간이야. 죽어라, 언더다크 출신 드워프 나부랭이!""",q4b_dahanna,nw_d1_small_evil,,,,0,0
 110379,PC,Player Character,"""I'm looking for allies to help me against the Valsharess.""","""발샤레스에 맞설 동맹을 찾고 있어.""",q4b_dahanna,,,,,0,0
 110380,PC,Player Character,"<StartCheck>Persuade: Intimidate</Start> ""You're either with me or against me. Think about it.""","<StartCheck>설득: 위협</Start> ""내 편이 아니면 적이야. 잘 생각해.""",q4b_dahanna,,,,,0,0
-110381,PC,Player Character,"""I gave you a chance. Now you'll pay the price!"" <StartAction>Attack.</Start>","""기회를 줬는데. 이제 대가를 치러!"" <StartAction>공격한다.</Start>",q4b_dahanna,nw_d1_small_evil,,,,0,0
+110381,PC,Player Character,"""I gave you a chance. Now you'll pay the price!"" <StartAction>Attack.</Start>","""기회를 줬는데. 이제 대가를 치러!"" <StartAction>공격합니다.</Start>",q4b_dahanna,nw_d1_small_evil,,,,0,0
 110382,PC,Player Character,"""Fine. I want to ask you something else then.""","""좋아. 그럼 다른 걸 물어볼게.""",q4b_dahanna,,,,,0,0
 110383,PC,Player Character,"<StartCheck>Persuade</Start> ""Eventually the Valsharess will turn her army against the duergar, too.""","<StartCheck>설득</Start> ""결국 발샤레스는 듀에르가에게도 군대를 돌릴 거야.""",q4b_dahanna,,,,,0,0
 110384,PC,Player Character,"""What are you doing here?""","""여기서 뭐 하는 거야?""",q4b_dahanna,,,,,0,0
 110385,PC,Player Character,"""I have some other questions.""","""다른 질문이 있어.""",q4b_dahanna,,,,,0,0
 110386,PC,Player Character,"""Relax. We'll just be going now.""","""긴장 풀어. 그냥 갈게.""",q4b_dahanna,,,,,0,0
 110387,PC,Player Character,"""Settle down. We just want to ask you some questions.""","""진정해. 그냥 몇 가지 물어보려는 거야.""",q4b_dahanna,,,,,0,0
-110388,PC,Player Character,"""Nobody threatens me! Death to the duergar!"" <StartAction>Attack.</Start>","""아무도 날 위협하지 못해! 듀에르가에게 죽음을!"" <StartAction>공격한다.</Start>",q4b_dahanna,q4b_dahannaend01,,,,0,0
+110388,PC,Player Character,"""Nobody threatens me! Death to the duergar!"" <StartAction>Attack.</Start>","""아무도 날 위협하지 못해! 듀에르가에게 죽음을!"" <StartAction>공격합니다.</Start>",q4b_dahanna,q4b_dahannaend01,,,,0,0
 110389,PC,Player Character,"""Is this some kind of shake down?""","""이거 협박이야?""",q4b_dahanna,,,,,0,0
 110390,PC,Player Character,"""Your island? What are you talking about?""","""너희 섬이라고? 무슨 소리야?""",q4b_dahanna,,,,,0,0
 110391,PC,Player Character,"""I think I see where this is going...""","""어떻게 될지 알겠네...""",q4b_dahanna,,,,,0,0

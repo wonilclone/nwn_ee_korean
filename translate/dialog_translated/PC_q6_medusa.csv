@@ -26,7 +26,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 106708,PC,Player Character,"""But you cheated! None of those riddles make sense!""","""하지만 속였잖아요! 수수께끼가 전부 말이 안 돼!""",q6_medusa,,,,,0,0
 106709,PC,Player Character,"""I'll be going now.""","""이만 가볼게요.""",q6_medusa,,,,,0,0
 106710,PC,Player Character,"""You must die, foul creature!""","""죽어야 해, 이 추악한 괴물!""",q6_medusa,,,,,0,0
-106711,PC,Player Character,"""I can't let a monster like you live."" <StartAction>Attack the medusa.</Start>","""너 같은 괴물을 살려둘 순 없어."" <StartAction>메두사를 공격한다.</Start>",q6_medusa,nw_d1_mid_evil,,,,0,0
+106711,PC,Player Character,"""I can't let a monster like you live."" <StartAction>Attack the medusa.</Start>","""너 같은 괴물을 살려둘 순 없어."" <StartAction>메두사를 공격합니다.</Start>",q6_medusa,nw_d1_mid_evil,,,,0,0
 106712,PC,Player Character,"""Is there anything I can do to help?""","""도울 일이 있나요?""",q6_medusa,,,,,0,0
 106713,PC,Player Character,"""Maybe you should give the mirror shard to me.""","""거울 조각을 나한테 주는 게 어때요.""",q6_medusa,,,,,0,0
 106714,PC,Player Character,"""This is stupid. I don't have time for this.""","""바보같네. 이런 거 할 시간 없어.""",q6_medusa,,,,,0,0
