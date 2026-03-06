@@ -121,22 +121,22 @@
 98461,PC,Player Character,"""It is Va'ardalia the Twinsouled, the spirit known as Lady Aribeth.""","""두영혼의 바아르달리아, 아리베스 경으로 알려진 영혼이야.""",h3_sleepingman,,h3c_sman_truari,,,0,0
 98462,PC,Player Character,"<StartAction>[Lie]</Start> ""It is Va'ardalia the Twinsouled, the spirit known as Lady Aribeth.""","<StartAction>[거짓말]</Start> ""두영혼의 바아르달리아, 아리베스 경으로 알려진 영혼이야.""",h3_sleepingman,,h3c_sman_lieari,,,0,0
 98463,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
-98464,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔혹한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
-98465,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔혹한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
-98466,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추적자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
-98467,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추적자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
-98468,PC,Player Character,"""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcne,,,0,0
-98469,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcne,,,0,0
-98470,PC,Player Character,"""It is I, Neuthroxus the Fair, the one known as <FullName>.""","""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcnn,,,0,0
-98471,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Neuthroxus the Fair, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcnn,,,0,0
-98472,PC,Player Character,"""It is I, Ebela'ar the Kind, the one known as <FullName>.""","""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcng,,,0,0
-98473,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ebela'ar the Kind, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcng,,,0,0
-98474,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어둠의 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
-98475,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어둠의 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
-98476,PC,Player Character,"""It is I, Lysisius the Firm, the one known as <FullName>.""","""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcln,,,0,0
-98477,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Lysisius the Firm, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcln,,,0,0
-98478,PC,Player Character,"""It is I, Donita'ar the Blessed, the one known as <FullName>.""","""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupclg,,,0,0
-98479,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Donita'ar the Blessed, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepclg,,,0,0
+98464,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔혹한 바엘자덴, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
+98465,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔혹한 바엘자덴, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
+98466,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추적자 카기타르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
+98467,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추적자 카기타르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
+98468,PC,Player Character,"""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","""나야, 이기적인 넬제벤, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcne,,,0,0
+98469,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 이기적인 넬제벤, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcne,,,0,0
+98470,PC,Player Character,"""It is I, Neuthroxus the Fair, the one known as <FullName>.""","""나야, 공정한 네우트록서스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcnn,,,0,0
+98471,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Neuthroxus the Fair, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 공정한 네우트록서스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcnn,,,0,0
+98472,PC,Player Character,"""It is I, Ebela'ar the Kind, the one known as <FullName>.""","""나야, 친절한 에벨라르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcng,,,0,0
+98473,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ebela'ar the Kind, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 친절한 에벨라르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcng,,,0,0
+98474,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어둠의 드레첸, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
+98475,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어둠의 드레첸, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
+98476,PC,Player Character,"""It is I, Lysisius the Firm, the one known as <FullName>.""","""나야, 확고한 리시시우스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcln,,,0,0
+98477,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Lysisius the Firm, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 확고한 리시시우스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcln,,,0,0
+98478,PC,Player Character,"""It is I, Donita'ar the Blessed, the one known as <FullName>.""","""나야, 축복받은 도니타르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupclg,,,0,0
+98479,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Donita'ar the Blessed, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 축복받은 도니타르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepclg,,,0,0
 98480,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
 98481,PC,Player Character,"""Goodbye.""","""안녕.""",h3_sleepingman,,,,,0,0
 98482,PC,Player Character,<StartAction>Slap him.</Start>,<StartAction>그를 때립니다.</Start>,h3_sleepingman,h3a_sman_nolove,,,,0,0
@@ -238,22 +238,22 @@
 109490,PC,Player Character,"""I have brought her to you. She is right here.""","""그녀를 데려왔어. 바로 여기 있어.""",h3_sleepingman,,hx_slp_ariroom_y,,,0,0
 109491,PC,Player Character,"""She has become one of the Lost, frozen into Cania's ice.""","""카니아의 얼음에 얼어붙어 잃어버린 자들 중 하나가 되었어.""",h3_sleepingman,,hx_slp_arifrozen,,,0,0
 109492,PC,Player Character,"""In life, it is said she brought great evil upon my homeworld.""","""살아생전에 내 고향 세계에 큰 악을 가져왔다고 해.""",h3_sleepingman,,,,,0,0
-109493,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔혹한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
-109494,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔혹한 바엘자덴, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
-109495,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추적자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
-109496,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추적자 카기타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
-109497,PC,Player Character,"""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcne,,,0,0
-109498,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 이기적인 넬제벤, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcne,,,0,0
-109499,PC,Player Character,"""It is I, Neuthroxus the Fair, the one known as <FullName>.""","""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcnn,,,0,0
-109500,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Neuthroxus the Fair, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 공정한 네우트록서스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcnn,,,0,0
-109501,PC,Player Character,"""It is I, Ebela'ar the Kind, the one known as <FullName>.""","""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcng,,,0,0
-109502,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ebela'ar the Kind, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 친절한 에벨라르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcng,,,0,0
-109503,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어둠의 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
-109504,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어둠의 드레첸, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
-109505,PC,Player Character,"""It is I, Lysisius the Firm, the one known as <FullName>.""","""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupcln,,,0,0
-109506,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Lysisius the Firm, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 확고한 리시시우스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepcln,,,0,0
-109507,PC,Player Character,"""It is I, Donita'ar the Blessed, the one known as <FullName>.""","""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupclg,,,0,0
-109508,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Donita'ar the Blessed, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 축복받은 도니타르, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepclg,,,0,0
+109493,PC,Player Character,"""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","""나야, 잔혹한 바엘자덴, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcce,,,0,0
+109494,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ba'elzaden the Cruel, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 잔혹한 바엘자덴, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcce,,,0,0
+109495,PC,Player Character,"""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","""나야, 심장추적자 카기타르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupccg,,,0,0
+109496,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Kagita'ar the Heartseeker, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 심장추적자 카기타르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepccg,,,0,0
+109497,PC,Player Character,"""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","""나야, 이기적인 넬제벤, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcne,,,0,0
+109498,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Nel'zeben the Selfish, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 이기적인 넬제벤, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcne,,,0,0
+109499,PC,Player Character,"""It is I, Neuthroxus the Fair, the one known as <FullName>.""","""나야, 공정한 네우트록서스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcnn,,,0,0
+109500,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Neuthroxus the Fair, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 공정한 네우트록서스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcnn,,,0,0
+109501,PC,Player Character,"""It is I, Ebela'ar the Kind, the one known as <FullName>.""","""나야, 친절한 에벨라르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcng,,,0,0
+109502,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Ebela'ar the Kind, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 친절한 에벨라르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcng,,,0,0
+109503,PC,Player Character,"""It is I, Dretchen the Dark, the one known as <FullName>.""","""나야, 어둠의 드레첸, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcle,,,0,0
+109504,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Dretchen the Dark, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 어둠의 드레첸, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcle,,,0,0
+109505,PC,Player Character,"""It is I, Lysisius the Firm, the one known as <FullName>.""","""나야, 확고한 리시시우스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupcln,,,0,0
+109506,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Lysisius the Firm, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 확고한 리시시우스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepcln,,,0,0
+109507,PC,Player Character,"""It is I, Donita'ar the Blessed, the one known as <FullName>.""","""나야, 축복받은 도니타르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupclg,,,0,0
+109508,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Donita'ar the Blessed, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 축복받은 도니타르, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepclg,,,0,0
 109509,PC,Player Character,<StartAction>Attack!</Start>,<StartAction>공격합니다!</Start>,h3_sleepingman,hx_temp_sleepatk,h3c_sman_named,,,0,0
 109510,PC,Player Character,"""Celesfa'ar the Patient, I command you to believe me!""","""인내하는 셀레스파르, 날 믿으라고 명령해!""",h3_sleepingman,h3a_sman_namebel,h3c_sman_named,,,0,0
 109511,PC,Player Character,"""Celesfa'ar the Patient...""","""인내하는 셀레스파르...""",h3_sleepingman,a_truename,h3c_sman_named,,,0,0
@@ -267,7 +267,7 @@
 109519,PC,Player Character,"<StartCheck>[Lie]</Start> ""Just a jealous lover, nothing more.""","<StartCheck>[거짓말]</Start> ""그냥 질투하는 연인이야. 그 이상은 아니야.""",h3_sleepingman,,,,,0,0
 109520,PC,Player Character,"""It was a woman of the Githzerai.""","""기스제라이 여성이었어.""",h3_sleepingman,,,,,0,0
 109521,PC,Player Character,"""That was the sensei. She runs the temple here.""","""저 분은 사부님이야. 여기 사원을 운영해.""",h3_sleepingman,,,,,0,0
-109522,PC,Player Character,"""It is I, Murdus the Wild, the one known as <FullName>.""","""나야, 야생의 머두스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_trupccn,,,0,0
-109523,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Murdus the Wild, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 야생의 머두스, <FullName>으로 알려진.""",h3_sleepingman,,h3c_sman_liepccn,,,0,0
+109522,PC,Player Character,"""It is I, Murdus the Wild, the one known as <FullName>.""","""나야, 야생의 머두스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_trupccn,,,0,0
+109523,PC,Player Character,"<StartAction>[Lie]</Start> ""It is I, Murdus the Wild, the one known as <FullName>.""","<StartAction>[거짓말]</Start> ""나야, 야생의 머두스, <FullName>(으)로 알려진.""",h3_sleepingman,,h3c_sman_liepccn,,,0,0
 110443,PC,Player Character,"""Did I say yes? I meant no.""","""그렇다고 했어? 아니라는 뜻이었어.""",h3_sleepingman,,,,,0,0
 110444,PC,Player Character,"""I saw her corpse in the other room.""","""다른 방에서 그녀의 시체를 봤어.""",h3_sleepingman,,h3c_sman_nojump,,,0,0

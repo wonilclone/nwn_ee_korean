@@ -23,8 +23,8 @@
 89061,PC,Player Character,"""I need you to cast a group of buffing spells.""","""강화 주문 묶음을 시전해 줘.""",xp2_hen_linu,x2_d1_setgroup,,,,0,0
 89062,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_linu,,,,,0,0
 89063,PC,Player Character,"""Cast all the buffing spells you have.""","""가진 강화 주문을 모두 시전해.""",xp2_hen_linu,x2_d1_castbuff3,,,,0,0
-89064,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""오래 지속되는 강화 주문을 모두 시전해.""",xp2_hen_linu,x2_d1_castbuff2,,,,0,0
-89065,PC,Player Character,"""Cast all the short duration buffing spells.""","""짧게 지속되는 강화 주문을 모두 시전해.""",xp2_hen_linu,x2_d1_castbuff1,,,,0,0
+89064,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""지속시간이 긴 강화 주문을 모두 시전해.""",xp2_hen_linu,x2_d1_castbuff2,,,,0,0
+89065,PC,Player Character,"""Cast all the short duration buffing spells.""","""지속시간이 짧은 강화 주문을 모두 시전해.""",xp2_hen_linu,x2_d1_castbuff1,,,,0,0
 89066,PC,Player Character,"""I need you to cast a spell.""","""주문을 시전해 줘.""",xp2_hen_linu,,,,,0,0
 89067,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_linu,,,,,0,0
 89068,PC,Player Character,"""Ultravision.""","""초시야.""",xp2_hen_linu,x0_d1_castultra,x0_d2_hasultra,,,0,0
@@ -121,7 +121,7 @@
 89159,PC,Player Character,"""Cast it on me.""","""나한테 시전해.""",xp2_hen_linu,x0_d1_targetme,,,,0,0
 89160,PC,Player Character,"""Cast it on yourself.""","""너한테 시전해.""",xp2_hen_linu,x0_d1_targetself,,,,0,0
 89161,PC,Player Character,"""Bless.""","""축복.""",xp2_hen_linu,x0_d1_castbless,x0_d2_hasbless,,,0,0
-89162,PC,Player Character,"""Animate Dead.""","""죽음의 부활.""",xp2_hen_linu,x0_d1_castandead,x0_d2_hasandead,,,0,0
+89162,PC,Player Character,"""Animate Dead.""","""시체 조종.""",xp2_hen_linu,x0_d1_castandead,x0_d2_hasandead,,,0,0
 89163,PC,Player Character,"""Aid.""","""지원.""",xp2_hen_linu,x0_d1_castaid,x0_d2_hasaid,,,0,0
 89164,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 뭐라고 하려던 거였어?""",xp2_hen_linu,,x0_d2_hen_interp,,,0,0
 89165,PC,Player Character,"""Let's stop and talk a moment.""","""잠깐 멈춰서 얘기하자.""",xp2_hen_linu,,,,,0,0

@@ -24,8 +24,8 @@
 89479,PC,Player Character,"""I need you to cast a group of buffing spells.""","""강화 주문 묶음을 시전해 줘.""",xp2_hen_shar,x2_d1_setgroup,,,,0,0
 89480,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_shar,,,,,0,0
 89481,PC,Player Character,"""Cast all the buffing spells you have.""","""가진 강화 주문을 모두 시전해.""",xp2_hen_shar,x2_d1_castbuff3,,,,0,0
-89482,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""오래 지속되는 강화 주문을 모두 시전해.""",xp2_hen_shar,x2_d1_castbuff2,,,,0,0
-89483,PC,Player Character,"""Cast all the short duration buffing spells.""","""짧게 지속되는 강화 주문을 모두 시전해.""",xp2_hen_shar,x2_d1_castbuff1,,,,0,0
+89482,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""지속시간이 긴 강화 주문을 모두 시전해.""",xp2_hen_shar,x2_d1_castbuff2,,,,0,0
+89483,PC,Player Character,"""Cast all the short duration buffing spells.""","""지속시간이 짧은 강화 주문을 모두 시전해.""",xp2_hen_shar,x2_d1_castbuff1,,,,0,0
 89484,PC,Player Character,"""I need you to cast a spell.""","""주문을 시전해 줘.""",xp2_hen_shar,,,,,0,0
 89485,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_shar,,,,,0,0
 89486,PC,Player Character,"""Wounding Whispers.""","""상처 입히는 속삭임.""",xp2_hen_shar,x2_d1_castwound,x2_d2_haswound,,,0,0
@@ -124,7 +124,7 @@
 89579,PC,Player Character,"""Cast it on me.""","""나한테 시전해.""",xp2_hen_shar,x0_d1_targetme,,,,0,0
 89580,PC,Player Character,"""Cast it on yourself.""","""너한테 시전해.""",xp2_hen_shar,x0_d1_targetself,,,,0,0
 89581,PC,Player Character,"""Bless.""","""축복.""",xp2_hen_shar,x0_d1_castbless,x0_d2_hasbless,,,0,0
-89582,PC,Player Character,"""Animate Dead.""","""죽음의 부활.""",xp2_hen_shar,x0_d1_castandead,x0_d2_hasandead,,,0,0
+89582,PC,Player Character,"""Animate Dead.""","""시체 조종.""",xp2_hen_shar,x0_d1_castandead,x0_d2_hasandead,,,0,0
 89583,PC,Player Character,"""Aid.""","""지원.""",xp2_hen_shar,x0_d1_castaid,x0_d2_hasaid,,,0,0
 89584,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 뭐라고 하려던 거였어?""",xp2_hen_shar,,x0_d2_hen_interp,,,0,0
 89585,PC,Player Character,"""Let's stop and talk a moment.""","""잠깐 멈춰서 얘기하자.""",xp2_hen_shar,,,,,0,0

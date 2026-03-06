@@ -1,7 +1,7 @@
 StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 107234,PC,Player Character,"""Someone who I'd enjoy killing?""","죽이면 재밌겠다고?",q7_cut_val0c,,,,,0,0
 107235,PC,Player Character,"""Enough with this. Why are you here?""","됐어. 왜 여기 있는 거야?",q7_cut_val0c,,,,,0,0
-107236,PC,Player Character,"""My name is <FirstName>.""","내 이름은 <FirstName>야.",q7_cut_val0c,,,,,0,0
+107236,PC,Player Character,"""My name is <FirstName>.""","내 이름은 <FirstName>(이)야.",q7_cut_val0c,,,,,0,0
 107237,PC,Player Character,"""I might consider such an alliance...""","그런 동맹을 고려해 볼 수도 있겠군...",q7_cut_val0c,,,,,0,0
 107238,PC,Player Character,"""I would rather send you to the Nine Hells!""","차라리 널 구층 지옥으로 보내버리겠어!",q7_cut_val0c,,,,,0,0
 107239,PC,Player Character,"""I am not interested.""","관심 없어.",q7_cut_val0c,,,,,0,0
@@ -28,7 +28,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 107260,PC,Player Character,"""Give me your name first. I understand 'Valsharess' is only a title.""","먼저 네 이름을 알려줘. '발샤레스'는 칭호일 뿐이라고 알고 있어.",q7_cut_val0c,,[지능 높음],,,0,0
 107261,PC,Player Character,"""Good. Now tell me why you are here.""","좋아. 이제 왜 여기 있는지 말해.",q7_cut_val0c,,,,,0,0
 107262,PC,Player Character,"""And you can call me your enemy.""","그리고 날 네 적이라고 불러도 돼.",q7_cut_val0c,,,,,0,0
-107263,PC,Player Character,"""And I am <FullName>.""","그리고 나는 <FullName>야.",q7_cut_val0c,,,,,0,0
+107263,PC,Player Character,"""And I am <FullName>.""","그리고 나는 <FullName>(이)야.",q7_cut_val0c,,,,,0,0
 107264,PC,Player Character,"""One fine looking drow, if I might say so.""","내가 말해도 된다면, 꽤 멋진 드로우인데.",q7_cut_val0c,,nw_d2_male,,,0,0
 107265,PC,Player Character,"""It... it isn't Lolth herself, is it?!""","그... 설마 롤쓰 본인은 아니겠지?!",q7_cut_val0c,,,,,0,0
 107266,PC,Player Character,"""You must be the Valsharess.""","넌 발샤레스겠군.",q7_cut_val0c,,,,,0,0

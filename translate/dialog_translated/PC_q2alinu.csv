@@ -1,7 +1,7 @@
 ﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 93232,PC,Player Character,"""Quiet. I'm the one who asks the questions here!""","""조용히 해. 여기선 내가 질문하는 쪽이야!""",q2alinu,,,,,0,0
 93233,PC,Player Character,"""You were dead. I just raised you. Can you remember anything?""","""너 죽었었어. 내가 되살린 거야. 뭐 기억나는 거 있어?""",q2alinu,,,,,0,0
-93234,PC,Player Character,"""I'm <FirstName>. I saw you in the tavern with Durnan.""","""난 <FirstName>야. 너 더난이랑 주점에 있는 거 봤어.""",q2alinu,,q2a_linu04,,,0,0
+93234,PC,Player Character,"""I'm <FirstName>. I saw you in the tavern with Durnan.""","""난 <FirstName>(이)야. 너 더난이랑 주점에 있는 거 봤어.""",q2alinu,,q2a_linu04,,,0,0
 93235,PC,Player Character,"""You don't remember me? I spoke to your group at the tavern.""","""날 기억 못 해? 주점에서 너희 일행한테 말 걸었잖아.""",q2alinu,,q2a_linu03,,,0,0
 93236,PC,Player Character,"""You don't remember me? We spoke at the tavern.""","""날 기억 못 해? 주점에서 얘기했잖아.""",q2alinu,,q2a_linu02,,,0,0
 93237,PC,Player Character,"""Then what happened?""","""그 다음엔 뭐가 있었어?""",q2alinu,,,,,0,0

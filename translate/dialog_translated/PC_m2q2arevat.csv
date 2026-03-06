@@ -11,8 +11,8 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 33326,PC,Player Character,Call me <FirstName>.,<FirstName>라고 불러.,m2q2arevat,,[지능 보통],,,0,0
 33327,PC,Player Character,"My name is <FullName>. Pleased to meet you, Revat.","내 이름은 <FullName>이야. 만나서 반가워, 레바트.",m2q2arevat,,[지능 보통],,,0,0
 33328,PC,Player Character,I'm not sure I want to tell you my name right now.,지금 당장 이름을 말하고 싶지는 않아.,m2q2arevat,,[지능 보통],,,0,0
-33329,PC,Player Character,Me is <FirstName>.,나 <FirstName>야.,m2q2arevat,,[지능 낮음],,,0,0
-33330,PC,Player Character,Me called <FullName>. Is nice to meet you.,나 <FullName>야. 만나서 반가워.,m2q2arevat,,[지능 낮음],,,0,0
+33329,PC,Player Character,Me is <FirstName>.,나 <FirstName>(이)야.,m2q2arevat,,[지능 낮음],,,0,0
+33330,PC,Player Character,Me called <FullName>. Is nice to meet you.,나 <FullName>(이)야. 만나서 반가워.,m2q2arevat,,[지능 낮음],,,0,0
 33331,PC,Player Character,Me not want tell.,나 말하기 싫어.,m2q2arevat,,[지능 낮음],,,0,0
 33332,PC,Player Character,What's so terrible about today?,오늘 뭐가 그렇게 끔찍한 거야?,m2q2arevat,,[지능 보통],,,0,0
 33333,PC,Player Character,What bad about today?,오늘 뭐가 나빠?,m2q2arevat,,[지능 낮음],,,0,0

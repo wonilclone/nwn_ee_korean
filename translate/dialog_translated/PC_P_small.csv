@@ -20,7 +20,7 @@
 91836,PC,Player Character,"""I don't need a head start.""","""선출발은 필요 없어.""",pre_drezzy,,,,,0,0
 91837,PC,Player Character,"""I'll join you in that feast, friend dwarf.""","""나도 그 잔치에 합류하지, 드워프 친구.""",pre_drezzy,,,,,0,0
 92184,PC,Player Character,"""I can take care of myself.""",난 알아서 잘해.,pre_joinguard,,,,,0,0
-92185,PC,Player Character,"""Don't you recognize me? I'm <FullName>!""",날 못 알아보겠어? 나 <FullName>야!,pre_joinguard,,,,,0,0
+92185,PC,Player Character,"""Don't you recognize me? I'm <FullName>!""",날 못 알아보겠어? 나 <FullName>(이)야!,pre_joinguard,,,,,0,0
 92271,PC,Player Character,"""Don't aggravate me or I just might.""","""날 건드리지 마. 아니면 정말 그럴지도 몰라.""",pre_mhaere,,,,,0,0
 92272,PC,Player Character,"""So I got carried away during the battle. So what?""","""전투 중에 좀 흥분했어. 그래서?""",pre_mhaere,,,,,0,0
 92273,PC,Player Character,"""What do you mean? I didn't do anything.""","""무슨 말이야? 난 아무것도 안 했어.""",pre_mhaere,,,,,0,0
@@ -39,7 +39,7 @@
 92286,PC,Player Character,"""Don't worry about it... I'm alive.""","""걱정하지 마... 난 살아있어.""",pre_mhaere,,,,,0,0
 92287,PC,Player Character,"""There's nothing you could have done.""","""네가 할 수 있는 일은 아무것도 없었어.""",pre_mhaere,,,,,0,0
 92421,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""The name is <FirstName> and you had better open that door up before I get angry!""",<StartCheck>[위협]</Start> 내 이름은 <FirstName>이야. 화내기 전에 문 열어!,pre_sobreydoor,,,,,0,0
-92422,PC,Player Character,"""I am <FullName>. Perhaps you have heard of me?"" ",나는 <FullName>야. 혹시 들어봤어?,pre_sobreydoor,,,,,0,0
+92422,PC,Player Character,"""I am <FullName>. Perhaps you have heard of me?"" ",나는 <FullName>(이)야. 혹시 들어봤어?,pre_sobreydoor,,,,,0,0
 92423,PC,Player Character,"""Pardon me, but my name is <FullName> and I was told you might help me.""","""실례지만, 제 이름은 <FullName>이고 당신이 도와줄 수 있다는 말을 들었어요.""",pre_sobreydoor,,,,,0,0
 92522,PC,Player Character,"""Actually, I'm here see the fair maidens...""","""사실은 아름다운 아가씨들을 보러 왔어...""",pre_tamsil02,,nw_d2_flirt,,,0,0
 92523,PC,Player Character,"""We'll see. It depends on the reward.""","""두고 봐야지. 보상에 달렸어.""",pre_tamsil02,,,,,0,0

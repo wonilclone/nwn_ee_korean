@@ -10,7 +10,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 93852,PC,Player Character,"""Don't you remember who I am? We spoke at the inn.""","""내가 누군지 기억 안 나? 여관에서 얘기했잖아.""",q2atomi,,q2a_tomi02,,,0,0
 93853,PC,Player Character,"""Perhaps dying again would jog your memory.""","""다시 죽으면 기억이 나려나.""",q2atomi,,,,,0,0
 93854,PC,Player Character,"""Are you kidding me?""","""장난해?""",q2atomi,,,,,0,0
-93855,PC,Player Character,"""No, my name is <FirstName>.""","""아니, 내 이름은 <FirstName>야.""",q2atomi,,,,,0,0
+93855,PC,Player Character,"""No, my name is <FirstName>.""","""아니, 내 이름은 <FirstName>(이)야.""",q2atomi,,,,,0,0
 93856,PC,Player Character,"""I should move on.""","""이제 가봐야겠어.""",q2atomi,,,,,0,0
 93857,PC,Player Character,"""What are you going to do, now?""","""이제 어쩔 거야?""",q2atomi,,,,,0,0
 93858,PC,Player Character,"""Don't you wonder what happened to the rest of your group?""","""나머지 일행에게 무슨 일이 일어났는지 궁금하지 않아?""",q2atomi,,q2a_spokeadv01,,,0,0

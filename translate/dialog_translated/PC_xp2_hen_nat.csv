@@ -123,13 +123,13 @@
 102401,PC,Player Character,"""Cast it on me.""","""나에게 시전해.""",xp2_hen_nat,x0_d1_targetme,,,,0,0
 102402,PC,Player Character,"""Cast it on yourself.""","""너 자신에게 시전해.""",xp2_hen_nat,x0_d1_targetself,,,,0,0
 102403,PC,Player Character,"""Bless.""","""축복.""",xp2_hen_nat,x0_d1_castbless,x0_d2_hasbless,,,0,0
-102404,PC,Player Character,"""Animate Dead.""","""언데드 생성.""",xp2_hen_nat,x0_d1_castandead,x0_d2_hasandead,,,0,0
+102404,PC,Player Character,"""Animate Dead.""","""시체 조종.""",xp2_hen_nat,x0_d1_castandead,x0_d2_hasandead,,,0,0
 102405,PC,Player Character,"""Aid.""","""지원.""",xp2_hen_nat,x0_d1_castaid,x0_d2_hasaid,,,0,0
 102406,PC,Player Character,"""I need you to cast a group of buffing spells.""","""강화 주문들을 시전해야겠어.""",xp2_hen_nat,x2_d1_setgroup,,,,0,0
 102407,PC,Player Character,"""Never mind.""","""신경 쓰지 마.""",xp2_hen_nat,,,,,0,0
 102408,PC,Player Character,"""Cast all the buffing spells you have.""","""가진 강화 주문 전부 시전해.""",xp2_hen_nat,x2_d1_castbuff3,,,,0,0
-102409,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""오래 지속되는 강화 주문 전부 시전해.""",xp2_hen_nat,x2_d1_castbuff2,,,,0,0
-102410,PC,Player Character,"""Cast all the short duration buffing spells.""","""짧게 지속되는 강화 주문 전부 시전해.""",xp2_hen_nat,x2_d1_castbuff1,,,,0,0
+102409,PC,Player Character,"""Cast all the buffing spells that last a long time.""","""지속시간이 긴 강화 주문 전부 시전해.""",xp2_hen_nat,x2_d1_castbuff2,,,,0,0
+102410,PC,Player Character,"""Cast all the short duration buffing spells.""","""지속시간이 짧은 강화 주문 전부 시전해.""",xp2_hen_nat,x2_d1_castbuff1,,,,0,0
 102411,PC,Player Character,"""What was it you wanted to say earlier?""","""아까 하려던 말이 뭐였어?""",xp2_hen_nat,,x0_d2_hen_interp,,,0,0
 102412,PC,Player Character,"""Let's stop and talk for a moment.""","""잠깐 멈춰서 얘기하자.""",xp2_hen_nat,,,,,0,0
 102413,PC,Player Character,"""That's all for now.""","""이제 됐어.""",xp2_hen_nat,,,,,0,0
