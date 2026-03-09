@@ -6,7 +6,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 107341,PC,Player Character,Go back and select another spell slot.,돌아가서 다른 주문 슬롯을 선택합니다.,x2_guardian,,,,,0,0
 107342,PC,Player Character,Level 4,4레벨,x2_guardian,,,,,0,0
 107343,PC,Player Character,Wall of Fire,불의 장벽,x2_guardian,x2_at_guard414,x2_d2_s_wall_of_,,,0,0
-107344,PC,Player Character,Phantasmal Killer,몽환적인 살인자,x2_guardian,x2_at_guard413,x2_d2_s_phantasm,,,0,0
+107344,PC,Player Character,Phantasmal Killer,몽환의 살인자,x2_guardian,x2_at_guard413,x2_d2_s_phantasm,,,0,0
 107345,PC,Player Character,Minor Globe of Invulnerability,하급 무적의 구체,x2_guardian,x2_at_guard412,x2_d2_s_minor_gl,,,0,0
 107346,PC,Player Character,Lesser Spell Breach,하급 주문 돌파,x2_guardian,x2_at_guard411,x2_d2_s_lessersb,,,0,0
 107347,PC,Player Character,Isaac's Lesser Missile Storm,아이작의 하급 마법화살 폭풍,x2_guardian,x2_at_guard410,x2_d2_s_isaacs_l,,,0,0
@@ -38,7 +38,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 107373,PC,Player Character,Level 2,2레벨,x2_guardian,,,,,0,0
 107374,PC,Player Character,Web,거미줄,x2_guardian,x2_at_guard217,x2_d2_s_web,,,0,0
 107375,PC,Player Character,Tasha's Hideous Laughter,타샤의 끔찍한 웃음,x2_guardian,x2_at_guard216,x2_d2_s_tashas_h,,,0,0
-107376,PC,Player Character,See Invisibility,투명체 보기,x2_guardian,x2_at_guard215,x2_d2_s_see_invi,,,0,0
+107376,PC,Player Character,See Invisibility,투명 간파,x2_guardian,x2_at_guard215,x2_d2_s_see_invi,,,0,0
 107377,PC,Player Character,Resist Elements,원소 저항,x2_guardian,x2_at_guard214,x2_d2_s_resist_e,,,0,0
 107378,PC,Player Character,Melf's Acid Arrow,멜프의 산성 화살,x2_guardian,x2_at_guard213,x2_d2_s_melfs_ac,,,0,0
 107379,PC,Player Character,Lesser Dispel,하급 주문해제,x2_guardian,x2_at_guard212,x2_d2_s_lesser_d,,,0,0
@@ -60,7 +60,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 107395,PC,Player Character,Shield,방패,x2_guardian,x2_at_guard113,x2_d2_s_shield,,,0,0
 107396,PC,Player Character,Scare,공포 유발,x2_guardian,x2_at_guard112,x2_d2_s_scare,,,0,0
 107397,PC,Player Character,Ray of Enfeeblement,약화 광선,x2_guardian,x2_at_guard111,x2_d2_s_ray_of_e,,,0,0
-107398,PC,Player Character,Negative Energy Ray,부정적 에너지 광선,x2_guardian,x2_at_guard110,x2_d2_s_negative,,,0,0
+107398,PC,Player Character,Negative Energy Ray,음 에너지 광선,x2_guardian,x2_at_guard110,x2_d2_s_negative,,,0,0
 107399,PC,Player Character,Magic Missile,마법 화살,x2_guardian,x2_at_guard101,x2_d2_s_magic_mi,,,0,0
 107400,PC,Player Character,Mage Armor,마법사 갑옷,x2_guardian,x2_at_guard109,x2_d2_s_mage_arm,,,0,0
 107401,PC,Player Character,Ironguts,무쇠근성,x2_guardian,x2_at_guard108,x2_d2_s_ironguts,,,0,0
@@ -77,7 +77,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 109725,PC,Player Character,Go back and select another spell slot.,돌아가서 다른 주문 슬롯을 선택합니다.,x2_guardian,,,,,0,0
 109726,PC,Player Character,Level 4,4레벨,x2_guardian,,,,,0,0
 109727,PC,Player Character,Wall of Fire,불의 장벽,x2_guardian,x2_at_guard414,x2_d2_s_wall_of_,,,0,0
-109728,PC,Player Character,Phantasmal Killer,몽환적인 살인자,x2_guardian,x2_at_guard413,x2_d2_s_phantasm,,,0,0
+109728,PC,Player Character,Phantasmal Killer,몽환의 살인자,x2_guardian,x2_at_guard413,x2_d2_s_phantasm,,,0,0
 109729,PC,Player Character,Minor Globe of Invulnerability,하급 무적의 구체,x2_guardian,x2_at_guard412,x2_d2_s_minor_gl,,,0,0
 109730,PC,Player Character,Lesser Spell Breach,하급 주문 돌파,x2_guardian,x2_at_guard411,x2_d2_s_lessersb,,,0,0
 109731,PC,Player Character,Isaac's Lesser Missile Storm,아이작의 하급 마법화살 폭풍,x2_guardian,x2_at_guard410,x2_d2_s_isaacs_l,,,0,0
@@ -109,7 +109,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 109757,PC,Player Character,Level 2,2레벨,x2_guardian,,,,,0,0
 109758,PC,Player Character,Web,거미줄,x2_guardian,x2_at_guard217,x2_d2_s_web,,,0,0
 109759,PC,Player Character,Tasha's Hideous Laughter,타샤의 끔찍한 웃음,x2_guardian,x2_at_guard216,x2_d2_s_tashas_h,,,0,0
-109760,PC,Player Character,See Invisibility,투명체 보기,x2_guardian,x2_at_guard215,x2_d2_s_see_invi,,,0,0
+109760,PC,Player Character,See Invisibility,투명 간파,x2_guardian,x2_at_guard215,x2_d2_s_see_invi,,,0,0
 109761,PC,Player Character,Resist Elements,원소 저항,x2_guardian,x2_at_guard214,x2_d2_s_resist_e,,,0,0
 109762,PC,Player Character,Melf's Acid Arrow,멜프의 산성 화살,x2_guardian,x2_at_guard213,x2_d2_s_melfs_ac,,,0,0
 109763,PC,Player Character,Lesser Dispel,하급 주문해제,x2_guardian,x2_at_guard212,x2_d2_s_lesser_d,,,0,0
@@ -131,7 +131,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 109779,PC,Player Character,Shield,방패,x2_guardian,x2_at_guard113,x2_d2_s_shield,,,0,0
 109780,PC,Player Character,Scare,공포 유발,x2_guardian,x2_at_guard112,x2_d2_s_scare,,,0,0
 109781,PC,Player Character,Ray of Enfeeblement,약화 광선,x2_guardian,x2_at_guard111,x2_d2_s_ray_of_e,,,0,0
-109782,PC,Player Character,Negative Energy Ray,부정적 에너지 광선,x2_guardian,x2_at_guard110,x2_d2_s_negative,,,0,0
+109782,PC,Player Character,Negative Energy Ray,음 에너지 광선,x2_guardian,x2_at_guard110,x2_d2_s_negative,,,0,0
 109783,PC,Player Character,Magic Missile,마법 화살,x2_guardian,x2_at_guard101,x2_d2_s_magic_mi,,,0,0
 109784,PC,Player Character,Mage Armor,마법사 갑옷,x2_guardian,x2_at_guard109,x2_d2_s_mage_arm,,,0,0
 109785,PC,Player Character,Ironguts,무쇠근성,x2_guardian,x2_at_guard108,x2_d2_s_ironguts,,,0,0

@@ -43,7 +43,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 78332,PC,Player Character,Stoneskin.,돌 피부,xp1_hen_xan,x0_d1_caststonsk,x0_d2_hasstskin,,,0,0
 78333,PC,Player Character,Shield.,보호막,xp1_hen_xan,x0_d1_castshield,x0_d2_hasshield,,,0,0
 78334,PC,Player Character,Shadow Shield.,그림자 보호막,xp1_hen_xan,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
-78335,PC,Player Character,See Invisibility.,투명체 보기,xp1_hen_xan,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+78335,PC,Player Character,See Invisibility.,투명 간파,xp1_hen_xan,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
 78336,PC,Player Character,Resistance.,저항,xp1_hen_xan,x0_d1_castresist,x0_d2_hasresist,,,0,0
 78337,PC,Player Character,Resist Elements.,원소 저항,xp1_hen_xan,x0_d1_castresele,x0_d2_hasreselem,,,0,0
 78338,PC,Player Character,Remove Curse.,저주 해제,xp1_hen_xan,x0_d1_castremcur,x0_d2_hasremcurs,,,0,0
@@ -52,12 +52,12 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 78341,PC,Player Character,Protection From Elements.,원소로부터 보호,xp1_hen_xan,x0_d1_castprelem,x0_d2_hasprelem,,,0,0
 78342,PC,Player Character,Premonition.,예감,xp1_hen_xan,x0_d1_castpremon,x0_d2_haspremon,,,0,0
 78343,PC,Player Character,Owl's Wisdom.,올빼미의 지혜,xp1_hen_xan,x0_d1_castowlwis,x0_d2_hasowlwis,,,0,0
-78344,PC,Player Character,Mind Blank.,정신 비우기,xp1_hen_xan,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+78344,PC,Player Character,Mind Blank.,정신 차단,xp1_hen_xan,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
 78345,PC,Player Character,Mass Haste.,대규모 가속,xp1_hen_xan,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
 78346,PC,Player Character,Mage Armor.,마법학자 갑옷,xp1_hen_xan,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
 78347,PC,Player Character,Light.,빛,xp1_hen_xan,x0_d1_castlight,x0_d2_haslight,,,0,0
-78348,PC,Player Character,Lesser Mind Blank,하급 정신 비우기,xp1_hen_xan,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
-78349,PC,Player Character,Knock.,문 두드리기,xp1_hen_xan,x0_d1_castknock,x0_d2_hasknock,,,0,0
+78348,PC,Player Character,Lesser Mind Blank,하급 정신 차단,xp1_hen_xan,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+78349,PC,Player Character,Knock.,개방,xp1_hen_xan,x0_d1_castknock,x0_d2_hasknock,,,0,0
 78350,PC,Player Character,Invisibility Sphere.,투명화 구체,xp1_hen_xan,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
 78351,PC,Player Character,Invisibility,투명화,xp1_hen_xan,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
 78352,PC,Player Character,Improved Invisibility.,우수한 투명화,xp1_hen_xan,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
@@ -67,14 +67,14 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 78356,PC,Player Character,Fox's Cunning,여우의 교활함,xp1_hen_xan,x0_d1_castfoxcun,x0_d2_hasfoxcun,,,0,0
 78357,PC,Player Character,Find Traps.,함정 찾기,xp1_hen_xan,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
 78358,PC,Player Character,Ethereal Visage.,에테르 형상,xp1_hen_xan,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
-78359,PC,Player Character,Energy Buffer.,원소 완충,xp1_hen_xan,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+78359,PC,Player Character,Energy Buffer.,에너지 감쇄,xp1_hen_xan,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
 78360,PC,Player Character,"No, I've changed my mind.","아니, 마음이 바뀌었어.",xp1_hen_xan,,,,,0,0
 78361,PC,Player Character,"Yes, go ahead.","그래, 해줘.",xp1_hen_xan,x0_d1_targetself,,,,0,0
 78362,PC,Player Character,Endure Elements.,원소 인내,xp1_hen_xan,x0_d1_castendele,x0_d2_hasendelem,,,0,0
 78363,PC,Player Character,Endurance.,지구력,xp1_hen_xan,x0_d1_castendur,x0_d2_hasendur,,,0,0
 78364,PC,Player Character,Eagle's Splendour.,독수리의 위엄,xp1_hen_xan,x0_d1_casteagles,x0_d2_haseagles,,,0,0
 78365,PC,Player Character,Create Undead.,언데드 생성,xp1_hen_xan,x0_d1_castcrund,x0_d2_hascreund,,,0,0
-78366,PC,Player Character,Continual Flame.,계속되는 불꽃,xp1_hen_xan,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+78366,PC,Player Character,Continual Flame.,영속 불꽃,xp1_hen_xan,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
 78367,PC,Player Character,Clarity.,맑은 정신,xp1_hen_xan,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
 78368,PC,Player Character,Cat's Grace.,고양이의 우아함,xp1_hen_xan,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
 78369,PC,Player Character,Bull's Strength.,황소의 근력,xp1_hen_xan,x0_d1_castbullst,x0_d2_hasbulls,,,0,0

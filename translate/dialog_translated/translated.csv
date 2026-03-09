@@ -80,7 +80,7 @@ The caster gains a +1 bonus to attack and weapon damage rolls for every three ca
 56,,,Flare,섬광,,,,,,0,0
 57,,,Shield,방패,,,,,,0,0
 58,,,Entropic Shield,혼돈의 보호막,,,,,,0,0
-59,,,Continual Flame,계속되는 불꽃,,,,,,0,0
+59,,,Continual Flame,영속 불꽃,,,,,,0,0
 60,,,Half-Elf,하프엘프,,,,,,0,0
 61,,,Half-Elves,하프엘프,,,,,,0,0
 62,,,Half-Orc,하프오크,,,,,,0,0
@@ -443,7 +443,7 @@ Special Abilities:
 - Skill Affinity (Search): +2 racial bonus to Search checks.
 - Skill Affinity (Spot): +2 racial bonus to Spot checks.
 - Keen Senses: Elves make active Search checks automatically and with no movement penalties.
-- Low-Light Vision: Allows them to see better than normal in the dark.","엘프들은 시와 노래 그리고 마법적인 예술로 유명하지만, 위험이 닥쳐왔을 때는 무기와 전략으로도 뛰어난 능력을 보여줍니다. 엘프의 수명은 700살 이상이며, 인간의 기준으로는 친구와 적을 만드는 것이 더디고, 잊는 것도 오래 걸립니다. 엘프들은 날씬한 몸매에 키는 1.4미터에서 1.7미터 입니다. 보통 창백한 피부에 어두운 머리색과 짙은 녹색 눈을 지니고 있습니다. 얼굴이나 몸에 털이 없으며, 편안한 복장을 즐기고 믿을 수 없는 우아함을 지니고 있습니다. 다른 종족들 대부분은 그들이 잊을 수 없도록 아름답다고 생각합니다.\n\n엘프 능력치 조정: 민첩 +2, 체질 -2\n선호 직업(마법사): 다중직업으로 인한 경험치 페널티를 계산할 때 엘프의 마법사 직업은 계산에서 제외됩니다.\n\n특수 능력:\n\n- 수면에 면역: 수면 주문과 효과에 면역\n- 부여술에 대한 내성: 정신영향 주문의 내성굴림에 종족 보너스 +2\n- 무기 숙련(엘프): 장검, 세검, 단궁, 장궁\n- 기술 친화(듣기): 듣기 기술에 종족 보너스 +2\n- 기술 친화(탐색): 탐색 기술에 종족 보너스 +2\n- 기술 친화(발견): 발견 기술에 종족 보너스 +2\n- 예리한 감각: 엘프는 언제나 탐지 모드를 발동하고 있으며 탐지 모드의 이동속도 페널티를 받지 않습니다.\n- 저광시야: 암흑속에서 볼 수 있는 능력을 제공합니다.",,,,,,0,0
+- Low-Light Vision: Allows them to see better than normal in the dark.","엘프들은 시와 노래 그리고 마법적인 예술로 유명하지만, 위험이 닥쳐왔을 때는 무기와 전략으로도 뛰어난 능력을 보여줍니다. 엘프의 수명은 700살 이상이며, 인간의 기준으로는 친구와 적을 만드는 것이 더디고, 잊는 것도 오래 걸립니다. 엘프들은 날씬한 몸매에 키는 1.4미터에서 1.7미터 입니다. 보통 창백한 피부에 어두운 머리색과 짙은 녹색 눈을 지니고 있습니다. 얼굴이나 몸에 털이 없으며, 편안한 복장을 즐기고 믿을 수 없는 우아함을 지니고 있습니다. 다른 종족들 대부분은 그들이 잊을 수 없도록 아름답다고 생각합니다.\n\n엘프 능력치 조정: 민첩 +2, 체질 -2\n선호 직업(마법사): 다중직업으로 인한 경험치 페널티를 계산할 때 엘프의 마법사 직업은 계산에서 제외됩니다.\n\n특수 능력:\n\n- 수면에 면역: 수면 주문과 효과에 면역\n- 부여술에 대한 내성: 정신영향 주문의 내성굴림에 종족 보너스 +2\n- 무기 숙달(엘프): 장검, 세검, 단궁, 장궁\n- 기술 친화(듣기): 듣기 기술에 종족 보너스 +2\n- 기술 친화(탐색): 탐색 기술에 종족 보너스 +2\n- 기술 친화(발견): 발견 기술에 종족 보너스 +2\n- 예리한 감각: 엘프는 언제나 탐지 모드를 발동하고 있으며 탐지 모드의 이동속도 페널티를 받지 않습니다.\n- 저광시야: 암흑속에서 볼 수 있는 능력을 제공합니다.",,,,,,0,0
 253,,,"Gnomes are in wide demand as alchemists, inventors, and technicians, though most prefer to remain among their own kind in simple comfort. Gnomes adore animals, gems, and jokes, especially pranks. They love to learn by personal experience, and are always trying new ways to build things. Gnomes stand 3 to 3 1/2 feet tall, with skin that ranges from dark tan to woody brown. Their hair is fair, and their eyes are often some shade of blue. Gnomes generally wear earth tones, but decorate their clothes intricately. Males favor carefully-trimmed beards. Gnomes live 350 to 500 years.
 
 Gnomish Ability Adjustments: +2 Con, -2 Str.
@@ -831,7 +831,7 @@ Use: Automatically applied whenever a character attempts to use or equip an item
 380,,,Transmutation,변환술,,,,,,0,0
 381,,,Select a School of Magic,마법 학파 선택,,,,,,0,0
 382,,,Bombardment,포격,,,,,,0,0
-383,,,Acid Splash,산성 끼얹기,,,,,,0,0
+383,,,Acid Splash,산성 분사,,,,,,0,0
 384,,,Earthquake,지진,,,,,,0,0
 385,,,Sunburst,태양폭발,,,,,,0,0
 386,,,Aura of Glory,영광의 오라,,,,,,0,0
@@ -948,24 +948,24 @@ Required for: Weapon Specialization (fighter only).
 Specifics: A character with this feat is particularly skilled with a specific weapon, gaining a +1 attack bonus with it.
 Use: Automatic. This feat may be selected multiple times, but the effects do not stack. It applies to a new weapon in each case.
 Special: Halflings and gnomes are Small creatures and as such they can never use the following large weapons: dire mace, double-bladed sword, double axe, greataxe, greatsword, halberd, heavy flail, and scythe.","무기 집중(Weapon focus)\n재주 유형: 일반\n선결 조건: 선택 무기 유형에 숙달, 기본 공격 보너스(BAB) +1이상\n다음 재주에 필요: 무기 전문화\n세부 사항: 이 재주가 있으면 특정 무기를 사용하는데 특히 능숙해져 선택한 무기를 사용할 때 +1의 공격 보너스를 얻습니다. 이 재주는 여러번 선택할 수 있지만 그 때마다 새로운 무기를 선택해야 합니다.\n사용: 자동\n하플링과 노움은 작은 생명체이므로 다음의 큰 무기를 사용할 수 없습니다: 철퇴봉, 쌍날검, 쌍날도끼, 대도끼, 대검, 미늘창, 중도리깨, 대낫",,,,,,0,0
-437,,,Weapon Proficiency (exotic),무기 숙련 (이국적),,,,,,0,0
+437,,,Weapon Proficiency (exotic),무기 숙달 (이국적),,,,,,0,0
 438,,,"Type of Feat: General
 Prerequisite: Base attack bonus +1 or higher.
 Specifics: This feat allows effective use of all exotic weapons. The exotic weapons list includes the bastard sword, dire mace, dwarven waraxe, double axe, kama, katana, kukri, scythe, shuriken, whip, and two-bladed sword.
 Normal: A character cannot equip weapons they are not proficient in.
-Use: Automatic.","무기 숙련: 이국적(Weapon proficiency: exotic)\n재주 유형: 일반\n선결 조건: 기본 공격 보너스(BAB) +1이상\n세부 사항: 이 재주가 있으면 모든 이국적인 무기를 사용 가능합니다. 이국적인 무기의 목록은 다음과 같습니다: 잡종검, 철퇴봉, 드워프제 전쟁도끼, 쌍날도끼, 카마, 카타나, 쿠크리, 대낫, 수리검, 채찍, 쌍날검\n사용: 자동",,,,,,0,0
-439,,,Weapon Proficiency (martial),무기 숙련 (군용),,,,,,0,0
+Use: Automatic.","무기 숙달: 이국적(Weapon proficiency: exotic)\n재주 유형: 일반\n선결 조건: 기본 공격 보너스(BAB) +1이상\n세부 사항: 이 재주가 있으면 모든 이국적인 무기를 사용 가능합니다. 이국적인 무기의 목록은 다음과 같습니다: 잡종검, 철퇴봉, 드워프제 전쟁도끼, 쌍날도끼, 카마, 카타나, 쿠크리, 대낫, 수리검, 채찍, 쌍날검\n사용: 자동",,,,,,0,0
+439,,,Weapon Proficiency (martial),무기 숙달 (군용),,,,,,0,0
 440,,,"Type of Feat: General
 Prerequisite: None.
 Specifics: This feat allows effective use of all martial weapons. The martial weapons list includes the battleaxe, greataxe, greatsword, halberd, handaxe, heavy flail, light flail, light hammer, longbow, longsword, rapier, scimitar, short sword, shortbow, throwing axe, trident and warhammer.
 Normal: A character cannot equip weapons they are not proficient in.
-Use: Barbarians, fighters, paladins, and rangers are automatically proficient with all martial weapons. ","무기 숙련: 군용(Weapon proficiency: martial)\n재주 유형: 일반\n선결 조건: 없음\n세부 사항: 이 재주가 있으면 모든 군용 무기를 사용 가능합니다. 군용 무기의 목록은 다음과 같습니다: 전투도끼, 대도끼, 대검, 미늘창, 손도끼, 중도리깨, 경도리깨, 경량 망치, 장궁, 장검, 세검, 시미터, 소검, 단궁, 투척도끼, 삼지창, 전쟁망치\n숙달되지 않은 무기는 장비할 수 없습니다.\n야만전사, 전사, 성기사, 순찰자는 이 재주를 무료로 얻습니다.\n사용: 자동",,,,,,0,0
-441,,,Weapon Proficiency (simple),무기 숙련 (단순),,,,,,0,0
+Use: Barbarians, fighters, paladins, and rangers are automatically proficient with all martial weapons. ","무기 숙달: 군용(Weapon proficiency: martial)\n재주 유형: 일반\n선결 조건: 없음\n세부 사항: 이 재주가 있으면 모든 군용 무기를 사용 가능합니다. 군용 무기의 목록은 다음과 같습니다: 전투도끼, 대도끼, 대검, 미늘창, 손도끼, 중도리깨, 경도리깨, 경량 망치, 장궁, 장검, 세검, 시미터, 소검, 단궁, 투척도끼, 삼지창, 전쟁망치\n숙달되지 않은 무기는 장비할 수 없습니다.\n야만전사, 전사, 성기사, 순찰자는 이 재주를 무료로 얻습니다.\n사용: 자동",,,,,,0,0
+441,,,Weapon Proficiency (simple),무기 숙달 (단순),,,,,,0,0
 442,,,"Type of Feat: General
 Prerequisite: None.
 Specifics: This feat allows effective use of all simple weapons, including the club, dagger, mace, sickle, spear, morningstar, quarterstaff, light and heavy crossbows, dart, and sling.
 Normal: A character cannot equip weapons they are not proficient in.
-Use: All characters except for druids, monks, rogues, and wizards are automatically proficient with all simple weapons. The spell Tenser's Transformation gives a wizard a temporary proficiency with all simple weapons.","무기 숙련: 단순(Weapon proficiency: simple)\n재주 유형: 일반\n선결 조건: 없음\n세부 사항: 이 재주가 있으면 모든 단순 무기를 사용 가능합니다. 단순 무기의 목록은 다음과 같습니다: 곤봉, 단검, 철퇴, 낫, 창, 가시철퇴, 육척봉, 경쇠뇌, 중쇠뇌, 표창, 투석구\n숙달되지 않은 무기는 장비할 수 없습니다.\n드루이드, 수도사, 도적, 마법사를 제외한 모든 직업은 이 재주를 무료로 얻습니다.\n사용: 자동",,,,,,0,0
+Use: All characters except for druids, monks, rogues, and wizards are automatically proficient with all simple weapons. The spell Tenser's Transformation gives a wizard a temporary proficiency with all simple weapons.","무기 숙달: 단순(Weapon proficiency: simple)\n재주 유형: 일반\n선결 조건: 없음\n세부 사항: 이 재주가 있으면 모든 단순 무기를 사용 가능합니다. 단순 무기의 목록은 다음과 같습니다: 곤봉, 단검, 철퇴, 낫, 창, 가시철퇴, 육척봉, 경쇠뇌, 중쇠뇌, 표창, 투석구\n숙달되지 않은 무기는 장비할 수 없습니다.\n드루이드, 수도사, 도적, 마법사를 제외한 모든 직업은 이 재주를 무료로 얻습니다.\n사용: 자동",,,,,,0,0
 443,,,Weapon Specialization,무기 전문화,,,,,,0,0
 444,,,"Type of Feat: Special
 Prerequisite: Must be a fighter, base attack bonus +4, Weapon Focus in the chosen weapon group.
@@ -1118,7 +1118,7 @@ Duration: Permanent
 Additional Counter Spells:
 Save: None
 Spell Resistance: No
-This creates a magical flame that burns as bright as a torch until dispelled. It can be cast on any item that can be equipped to create a permanent source of light.","계속되는 불꽃(Continual flame)\n시전자 레벨: 성직자 3, 마법사/요술사 2\n기본 레벨: 2\n학파: 환영술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일 생명체 또는 아이템\n지속 시간: 영구적\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n횃불처럼 밝게 타오르는 마법적인 불꽃을 만듭니다. 모든 장비가능한 아이템에 시전하면 영구적인 광원이 추가됩니다.",,,,,,0,0
+This creates a magical flame that burns as bright as a torch until dispelled. It can be cast on any item that can be equipped to create a permanent source of light.","영속 불꽃(Continual flame)\n시전자 레벨: 성직자 3, 마법사/요술사 2\n기본 레벨: 2\n학파: 환영술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일 생명체 또는 아이템\n지속 시간: 영구적\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n횃불처럼 밝게 타오르는 마법적인 불꽃을 만듭니다. 모든 장비가능한 아이템에 시전하면 영구적인 광원이 추가됩니다.",,,,,,0,0
 523,,,Possess Familiar,사역마 조종,,,,,,0,0
 524,,,"Type of Feat: General
 Prerequisite: None.
@@ -1321,7 +1321,7 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 718,,,Use Limitation: Terrain Type,사용 제한: 지형 유형,,,,,,0,0
 719,,,Masterwork,장인제작,,,,,,0,0
 720,,,"Level 7,8,9","레벨 7,8,9",,,,,,0,0
-721,,,Mind Blank,정신 비우기,,,,,,0,0
+721,,,Mind Blank,정신 차단,,,,,,0,0
 722,,,No Combat Damage,전투 피해 없음,,,,,,0,0
 723,,,On Hit,명중시 적용,,,,,,0,0
 724,,,Use Limitation: Racial Type,사용 제한: 종족 유형,,,,,,0,0
@@ -1391,7 +1391,7 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 788,,,Death Ward,죽음 방비,,,,,,0,0
 789,,,Delayed Blast Fireball,지연 폭발 화염구,,,,,,0,0
 790,,,Dismissal,퇴거,,,,,,0,0
-791,,,Dispel Magic,주문 해제,,,,,,0,0
+791,,,Dispel Magic,주문해제,,,,,,0,0
 792,,,Divine Power,신성한 권능,,,,,,0,0
 793,,,Dominate Animal,동물 지배,,,,,,0,0
 794,,,Dominate Monster,괴물 지배,,,,,,0,0
@@ -1443,9 +1443,9 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 840,,,Invisibility,투명화,,,,,,0,0
 841,,,Invisibility Purge,투명화 제거,,,,,,0,0
 842,,,Invisibility Sphere,투명화 구체,,,,,,0,0
-843,,,Knock,문 두드리기,,,,,,0,0
+843,,,Knock,개방,,,,,,0,0
 844,,,Lesser Dispel,하급 주문해제,,,,,,0,0
-845,,,Lesser Mind Blank,하급 정신 비우기,,,,,,0,0
+845,,,Lesser Mind Blank,하급 정신 차단,,,,,,0,0
 846,,,Lesser Planar Binding,하급 차원의 결속,,,,,,0,0
 847,,,Lesser Restoration,하급 회복,,,,,,0,0
 848,,,Lesser Spell Breach,하급 주문 돌파,,,,,,0,0
@@ -1467,7 +1467,7 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 864,,,Mass Heal,대규모 완치,,,,,,0,0
 865,,,Melf's Acid Arrow,멜프의 산성 화살,,,,,,0,0
 866,,,Meteor Swarm,운석 폭우,,,,,,0,0
-867,,,Mind Blank,정신 비우기,,,,,,0,0
+867,,,Mind Blank,정신 차단,,,,,,0,0
 868,,,Mind Fog,정신 안개,,,,,,0,0
 869,,,Minor Globe of Invulnerability,하급 무적의 구체,,,,,,0,0
 870,,,Ghostly Visage,유령의 형상,,,,,,0,0
@@ -1475,9 +1475,9 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 872,,,Mordenkainen's Disjunction,모덴카이넨의 분열,,,,,,0,0
 873,,,Mordenkainen's Sword,모덴카이넨의 검,,,,,,0,0
 874,,,Nature's Balance,자연의 균형,,,,,,0,0
-875,,,Negative Energy Protection,부정적 에너지 보호,,,,,,0,0
+875,,,Negative Energy Protection,음 에너지 보호,,,,,,0,0
 876,,,Neutralize Poison,독 중화,,,,,,0,0
-877,,,Phantasmal Killer,몽환적인 살인자,,,,,,0,0
+877,,,Phantasmal Killer,몽환의 살인자,,,,,,0,0
 878,,,Planar Binding,차원의 결속,,,,,,0,0
 879,,,Poison,독,,,,,,0,0
 880,,,Polymorph Self,변신,,,,,,0,0
@@ -1507,8 +1507,8 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 904,,,Sanctuary,성역,,,,,,0,0
 905,,,Scare,겁주기,,,,,,0,0
 906,,,Searing Light,타오르는 빛,,,,,,0,0
-907,,,See Invisibility,투명체 보기,,,,,,0,0
-908,,,Shades,그늘짐,,,,,,0,0
+907,,,See Invisibility,투명 간파,,,,,,0,0
+908,,,Shades,음영,,,,,,0,0
 909,,,Shadow Conjuration,그림자 소환술,,,,,,0,0
 910,,,Shadow Shield,그림자 방패,,,,,,0,0
 911,,,Shapechange,형상변이,,,,,,0,0
@@ -1594,7 +1594,7 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 991,,,Daze,혼미,,,,,,0,0
 992,,,Doom,파멸,,,,,,0,0
 993,,,Fear,공포,,,,,,0,0
-994,,,Knock,문 두드리기,,,,,,0,0
+994,,,Knock,개방,,,,,,0,0
 995,,,Slow,둔화,,,,,,0,0
 996,,,Lesser Dispelling,하급 주문해제,,,,,,0,0
 997,,,Dispel Magic,주문해제,,,,,,0,0
@@ -1884,10 +1884,10 @@ The caster's coloring changes to match the surroundings, gaining a +10 competenc
 1255,,,Invisibility (3),투명화 (3),,,,,,0,0
 1256,,,Invisibility Purge (5),투명화 제거 (5),,,,,,0,0
 1257,,,Invisibility Sphere (5),투명화 구체 (5),,,,,,0,0
-1258,,,Knock (3),문 두드리기 (3),,,,,,0,0
+1258,,,Knock (3),개방 (3),,,,,,0,0
 1259,,,Lesser Dispel (3),하급 주문해제 (3),,,,,,0,0
 1260,,,Lesser Dispel (5),하급 주문해제 (5),,,,,,0,0
-1261,,,Lesser Mind Blank (9),하급 정신 비우기 (9),,,,,,0,0
+1261,,,Lesser Mind Blank (9),하급 정신 차단 (9),,,,,,0,0
 1262,,,Lesser Planar Binding (9),하급 차원의 결속 (9),,,,,,0,0
 1263,,,Lesser Restoration (3),하급 회복 (3),,,,,,0,0
 1264,,,Lesser Spell Breach (7),하급 주문 돌파 (7),,,,,,0,0
@@ -1918,7 +1918,7 @@ The caster's coloring changes to match the surroundings, gaining a +10 competenc
 1289,,,Melf's Acid Arrow (6),멜프의 산성 화살 (6),,,,,,0,0
 1290,,,Melf's Acid Arrow (9),멜프의 산성 화살 (9),,,,,,0,0
 1291,,,Meteor Swarm (17),운석 폭우 (17),,,,,,0,0
-1292,,,Mind Blank (15),정신 비우기 (15),,,,,,0,0
+1292,,,Mind Blank (15),정신 차단 (15),,,,,,0,0
 1293,,,Mind Fog (9),정신 안개 (9),,,,,,0,0
 1294,,,Minor Globe of Invulnerability (7),하급 무적의 구체 (7),,,,,,0,0
 1295,,,Minor Globe of Invulnerability (15),하급 무적의 구체 (15),,,,,,0,0
@@ -1931,11 +1931,11 @@ The caster's coloring changes to match the surroundings, gaining a +10 competenc
 1302,,,Mordenkainen's Sword (13),모덴카이넨의 검 (13),,,,,,0,0
 1303,,,Mordenkainen's Sword (18),모덴카이넨의 검 (18),,,,,,0,0
 1304,,,Nature's Balance (15),자연의 균형 (15),,,,,,0,0
-1305,,,Negative Energy Protection (5),부정적 에너지 보호 (5),,,,,,0,0
-1306,,,Negative Energy Protection (10),부정적 에너지 보호 (10),,,,,,0,0
-1307,,,Negative Energy Protection (15),부정적 에너지 보호 (15),,,,,,0,0
+1305,,,Negative Energy Protection (5),음 에너지 보호 (5),,,,,,0,0
+1306,,,Negative Energy Protection (10),음 에너지 보호 (10),,,,,,0,0
+1307,,,Negative Energy Protection (15),음 에너지 보호 (15),,,,,,0,0
 1308,,,Neutralize Poison (5),독 중화 (5),,,,,,0,0
-1309,,,Phantasmal Killer (7),몽환적인 살인자 (7),,,,,,0,0
+1309,,,Phantasmal Killer (7),몽환의 살인자 (7),,,,,,0,0
 1310,,,Planar Binding (11),차원의 결속 (11),,,,,,0,0
 1311,,,Poison (5),독 (5),,,,,,0,0
 1312,,,Polymorph Self (7),변신 (7),,,,,,0,0
@@ -1973,8 +1973,8 @@ The caster's coloring changes to match the surroundings, gaining a +10 competenc
 1344,,,Sanctuary (2),성역 (2),,,,,,0,0
 1345,,,Scare (2),겁주기 (2),,,,,,0,0
 1346,,,Searing Light (5),타오르는 빛 (5),,,,,,0,0
-1347,,,See Invisibility (3),투명체 보기 (3),,,,,,0,0
-1348,,,Shades (11),그늘짐 (11),,,,,,0,0
+1347,,,See Invisibility (3),투명 간파 (3),,,,,,0,0
+1348,,,Shades (11),음영 (11),,,,,,0,0
 1349,,,Shadow Conjuration (7),그림자 소환술 (7),,,,,,0,0
 1350,,,Shadow Shield (13),그림자 방패 (13),,,,,,0,0
 1351,,,Shapechange (17),형상변이 (17),,,,,,0,0
@@ -2068,7 +2068,7 @@ The caster enters a rage similar to that of a barbarian. The caster gains a +2 b
 1427,,,"Vorpal: This deadly property will instantly slay the target on a successful critical hit. Some creatures, such as oozes and constructs, have no head and are therefore not affected by this property. A vorpal weapon must be a slashing weapon.",보팔: 이 치명적인 속성은 치명타가 발생하면 상대방을 즉시 죽입니다. 구조물이나 부정형같은 머리가 없는 대상은 이 속성의 영향을 받지 않습니다. 보팔 무기는 반드시 베기 형태의 무기여야 합니다.,,,,,,0,0
 1428,,,Wounding: A weapon of wounding inflicts a wound that bleeds for 1 damage per round. Multiple wounds have a cumulative bleeding effect. The bleeding can only be stopped by a successful Heal skill check or cure spell.,상처: 상처 무기에 명중한 대상은 라운드당 1점의 피해를 입히는 출혈이 일어납니다. 여러개의 상처는 누적될 수 있습니다. 출혈 효과는 치료 기술 판정에 성공하거나 치료 주문으로만 제거할 수 있습니다.,,,,,,0,0
 1429,,,"Improved Evasion: This property grants the wielder the effects of the Improved Evasion feat, making him able to avoid damage as well as a high-level rogue.",우수한 회피: 이 속성은 사용자가 우수한 회피 재주를 가진 높은 레벨의 도적과 같이 잘 피할 수 있게 합니다.,,,,,,0,0
-1430,,,"Mind Blank: This property makes the wielder immune to all mind-affecting spells, such as Charm Person and Confusion.",정신 비우기: 이 속성은 대상이 사람 현혹이나 혼란 같은 정신영향 주문의 영향을 받지 않게 합니다.,,,,,,0,0
+1430,,,"Mind Blank: This property makes the wielder immune to all mind-affecting spells, such as Charm Person and Confusion.",정신 차단: 이 속성은 대상이 사람 현혹이나 혼란 같은 정신영향 주문의 영향을 받지 않게 합니다.,,,,,,0,0
 1431,,,"Light: This property causes the item to illuminate an area around itself, like a torch. This light behaves normally in all other ways, but cannot penetrate a Darkness spell.",빛: 이 속성은 아이템이 주변 영역을 횃불처럼 비추게 합니다. 빛은 모든 다른 부분에서는 정상적으로 동작하지만 암흑 주문을 통과하지는 못합니다.,,,,,,0,0
 1432,,,"Racial Limitation: Only members of a specific race (orc or dwarf, for example) may use an item with this property.",종족 제한: 오크 혹은 드워프 같이 특정 종족만이 이 속성을 가진 아이템을 사용할 수 있습니다.,,,,,,0,0
 1433,,,"Tileset Limitation: This property limits the imbued item to a specific tileset (Forest, Crypt, and so on).",타일셋 제한: 이 속성을 가진 아이템은 숲이나 던젼같은 특정 타일셋에서만 동작합니다.,,,,,,0,0
@@ -2161,7 +2161,7 @@ Additional Counter Spells:
 Save: None
 Spell Resistance: Yes
 
-The caster fires a small orb of acid at the target for 1d3 points of acid damage.","산성 끼얹기(Acid splash)\n시전자 레벨: 마법사/요술사 0\n기본 레벨: 0\n학파: 소환술\n주문 기술어: 산성\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 없음\n주문 저항: 가능\n\n시전자가 작은 산성 구체를 발사하여 목표에게 산성 피해를 입힙니다.\n피해량: 1d3점의 산성 피해",,,,,,0,0
+The caster fires a small orb of acid at the target for 1d3 points of acid damage.","산성 분사(Acid splash)\n시전자 레벨: 마법사/요술사 0\n기본 레벨: 0\n학파: 소환술\n주문 기술어: 산성\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 없음\n주문 저항: 가능\n\n시전자가 작은 산성 구체를 발사하여 목표에게 산성 피해를 입힙니다.\n피해량: 1d3점의 산성 피해",,,,,,0,0
 1498,,,Knockdown,때려눕히기,,,,,,0,0
 1499,,,More Spells,더 많은 주문,,,,,,0,0
 1500,,,Mighty,막강한,,,,,,0,0
@@ -2293,7 +2293,7 @@ Additional Counter Spells: Cure Minor Wounds
 Save: Will 1/2
 Spell Resistance: Yes
 
-If the caster succeeds in striking an opponent with a touch attack, the target suffers 1 point of damage. Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","경미한 상처 유발(Inflict minor wounds)\n시전자 레벨: 성직자 0\n기본 레벨: 0\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 경미한 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 부정적 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: 1점의 부정적 에너지 피해",,,,,,0,0
+If the caster succeeds in striking an opponent with a touch attack, the target suffers 1 point of damage. Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","경미한 상처 유발(Inflict minor wounds)\n시전자 레벨: 성직자 0\n기본 레벨: 0\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 경미한 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 음 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: 1점의 음 에너지 피해",,,,,,0,0
 1571,,,"Caster Level(s): Cleric 1
 Innate Level: 1
 School: Necromancy
@@ -2306,7 +2306,7 @@ Additional Counter Spells: Cure Light Wounds
 Save: Will 1/2
 Spell Resistance: Yes
 
-If the caster succeeds in striking an opponent with a touch attack, the target suffers 1d8 points of damage, + 1 point per caster level to a maximum of +5. Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","가벼운 상처 유발(Inflict light wounds)\n시전자 레벨: 성직자 1\n기본 레벨: 1\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 가벼운 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 부정적 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: [1d8 + 시전자 레벨 당 +1(최대 +5)]점의 부정적 에너지 피해",,,,,,0,0
+If the caster succeeds in striking an opponent with a touch attack, the target suffers 1d8 points of damage, + 1 point per caster level to a maximum of +5. Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","가벼운 상처 유발(Inflict light wounds)\n시전자 레벨: 성직자 1\n기본 레벨: 1\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 가벼운 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 음 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: [1d8 + 시전자 레벨 당 +1(최대 +5)]점의 음 에너지 피해",,,,,,0,0
 1572,,,Refresh Rate:,새로고침 빈도:,,,,,,0,0
 1573,,,Giant Spider,거대 거미,,,,,,0,0
 1574,,,"Caster Level(s): Cleric 2
@@ -2321,7 +2321,7 @@ Additional Counter Spells: Cure Moderate Wounds
 Save: Will 1/2
 Spell Resistance: Yes
 
-If the caster succeeds in striking an opponent with a touch attack, the target suffers 2d8 points of damage, + 1 point per caster level (to a maximum of +10). Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","일반 상처 유발(Inflict moderate wounds)\n시전자 레벨: 성직자 2\n기본 레벨: 2\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 일반 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 부정적 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: [2d8 + 시전자 레벨 당 +1(최대 +10)]점의 부정적 에너지 피해",,,,,,0,0
+If the caster succeeds in striking an opponent with a touch attack, the target suffers 2d8 points of damage, + 1 point per caster level (to a maximum of +10). Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","일반 상처 유발(Inflict moderate wounds)\n시전자 레벨: 성직자 2\n기본 레벨: 2\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 일반 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 음 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: [2d8 + 시전자 레벨 당 +1(최대 +10)]점의 음 에너지 피해",,,,,,0,0
 1575,,,"Caster Level(s): Cleric 3
 Innate Level: 3
 School: Necromancy
@@ -2334,7 +2334,7 @@ Additional Counter Spells: Cure Serious Wounds
 Save: Will 1/2
 Spell Resistance: Yes
 
-If the caster succeeds in striking an opponent with a touch attack, the target suffers 3d8 points of damage, + 1 point per caster level (to a maximum of +15). Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","심각한 상처 유발(Inflict serious wounds)\n시전자 레벨: 성직자 3\n기본 레벨: 3\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 심각한 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 부정적 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: [3d8 + 시전자 레벨 당 +1(최대 +15)]점의 부정적 에너지 피해",,,,,,0,0
+If the caster succeeds in striking an opponent with a touch attack, the target suffers 3d8 points of damage, + 1 point per caster level (to a maximum of +15). Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","심각한 상처 유발(Inflict serious wounds)\n시전자 레벨: 성직자 3\n기본 레벨: 3\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 심각한 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 음 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: [3d8 + 시전자 레벨 당 +1(최대 +15)]점의 음 에너지 피해",,,,,,0,0
 1576,,,Panther,흑표범,,,,,,0,0
 1577,,,Boar,멧돼지,,,,,,0,0
 1578,,,Wolf,늑대,,,,,,0,0
@@ -2356,7 +2356,7 @@ Additional Counter Spells: Cure Critical Wounds
 Save: Will 1/2
 Spell Resistance: Yes
 
-If the caster succeeds in striking an opponent with a touch attack, the target suffers 4d8 points of damage, + 1 point per caster level to a maximum of +20. Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","치명적인 상처 유발(Inflict critical wounds)\n시전자 레벨: 성직자 4\n기본 레벨: 4\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 치명적인 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 부정적 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: [4d8 + 시전자 레벨 당 +1(최대 +20)]점의 부정적 에너지 피해",,,,,,0,0
+If the caster succeeds in striking an opponent with a touch attack, the target suffers 4d8 points of damage, + 1 point per caster level to a maximum of +20. Inflict spells have a reverse effect when used on undead, causing the targeted undead to take an amount of healing equal to what the spell normally damages.","치명적인 상처 유발(Inflict critical wounds)\n시전자 레벨: 성직자 4\n기본 레벨: 4\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 치명적인 상처 치료\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 대상은 음 에너지 피해를 입습니다. 상해 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: [4d8 + 시전자 레벨 당 +1(최대 +20)]점의 음 에너지 피해",,,,,,0,0
 1586,,,"Caster Level(s): Bard 1, Wizard / Sorcerer 2
 Innate Level: 2
 School: Transmutation
@@ -2568,17 +2568,17 @@ Barkskin makes a creature's skin as tough as bark. The effect grants a +3 natura
 1770,,,Devastating Critical Hit!,파괴적인 치명타!,,,,,,0,0
 1771,,,Attack Evaded!,공격 회피!,,,,,,0,0
 1772,,,<CUSTOM0> : Epic Dodge : Attack evaded,<CUSTOM0> : 초월적 피하기: 공격을 회피하였습니다.,,,,,,0,0
-1773,,,Quillfire,깃날리기,,,,,,0,0
+1773,,,Quillfire,가시 발사,,,,,,0,0
 1774,,,Owl's Insight,올빼미의 통찰력,,,,,,0,0
 1775,,,True Seeing,진실의 시야,,,,,,0,0
 1776,,,On Monster Hit,괴물 명중시,,,,,,0,0
 1777,,,Turn Resistance,저항 무시,,,,,,0,0
 1778,,,Massive Criticals,대규모 치명타,,,,,,0,0
 1779,,,Freedom of Movement,자유 이동,,,,,,0,0
-1781,,,Weapon Proficiency (druid),무기 숙련 (드루이드),,,,,,0,0
-1782,,,Weapon Proficiency (monk),무기 숙련 (수도사),,,,,,0,0
-1783,,,Weapon Proficiency (rogue),무기 숙련 (도적),,,,,,0,0
-1784,,,Weapon Proficiency (wizard),무기 숙련 (마법사),,,,,,0,0
+1781,,,Weapon Proficiency (druid),무기 숙달 (드루이드),,,,,,0,0
+1782,,,Weapon Proficiency (monk),무기 숙달 (수도사),,,,,,0,0
+1783,,,Weapon Proficiency (rogue),무기 숙달 (도적),,,,,,0,0
+1784,,,Weapon Proficiency (wizard),무기 숙달 (마법사),,,,,,0,0
 1785,,,Improved Critical (dagger),우수한 치명타 (단검),,,,,,0,0
 1786,,,Improved Critical (dart),우수한 치명타 (표창),,,,,,0,0
 1787,,,Improved Critical (heavy crossbow),우수한 치명타 (중쇠뇌),,,,,,0,0
@@ -2620,7 +2620,7 @@ Additional Counter Spells:
 Save: Fortitude Negates (poison only)
 Spell Resistance: No
 
-The caster throws poisonous quills at a target, doing 1d8 points of damage (+1 per 2 levels of the caster - max +5), plus inflicting Scorpion Venom on the target if they fail a Fortitude save.","깃날리기(Quillfire)\n시전자 레벨: 드루이드 3\n기본 레벨: 3\n학파: 변환술\n주문 기술어: 독\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 인내굴림 성공 시 무시(독만 해당)\n주문 저항: 불가\n\n시전자가 독 깃펜을 대상에게 던져 마법 피해를 입히고, 대상이 인내굴림에 실패하면 대상은 대형 전갈 독에 걸립니다.\n피해량: 1d8 + 시전자 레벨 당 +1(최대 +5)점의 마법 피해\n대형 전갈 독: 난이도(DC) 18의 인내굴림 실패 시 근력이 1d6점 낮아 집니다. 1분이 지나면 2차 효과에 대해 다시 인내굴림을 하여 실패 시 근력이 추가로 1d6점 낮아집니다.",,,,,,0,0
+The caster throws poisonous quills at a target, doing 1d8 points of damage (+1 per 2 levels of the caster - max +5), plus inflicting Scorpion Venom on the target if they fail a Fortitude save.","가시 발사(Quillfire)\n시전자 레벨: 드루이드 3\n기본 레벨: 3\n학파: 변환술\n주문 기술어: 독\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 인내굴림 성공 시 무시(독만 해당)\n주문 저항: 불가\n\n시전자가 독 가시를 대상에게 던져 마법 피해를 입히고, 대상이 인내굴림에 실패하면 대상은 대형 전갈 독에 걸립니다.\n피해량: 1d8 + 시전자 레벨 당 +1(최대 +5)점의 마법 피해\n대형 전갈 독: 난이도(DC) 18의 인내굴림 실패 시 근력이 1d6점 낮아 집니다. 1분이 지나면 2차 효과에 대해 다시 인내굴림을 하여 실패 시 근력이 추가로 1d6점 낮아집니다.",,,,,,0,0
 1815,,,Improved Critical (shuriken),우수한 치명타 (수리검),,,,,,0,0
 1816,,,Improved Critical (scythe),우수한 치명타 (대낫),,,,,,0,0
 1817,,,Improved Critical (katana),우수한 치명타 (카타나),,,,,,0,0
@@ -2798,7 +2798,7 @@ Masses of flame (one per caster level) appear and randomly target and hit any ho
 1953,,,Divine Health,신성한 체력,,,,,,0,0
 1954,,,11,11,,,,,,0,0
 1955,,,Sneak Attack (+1d6),기습 공격 (+1d6),,,,,,0,0
-1956,,,Crippling Strike,손상입히는 타격,,,,,,0,0
+1956,,,Crippling Strike,약화 타격,,,,,,0,0
 1957,,,Defensive Roll,방어굴림,,,,,,0,0
 1958,,,Opportunist,기회주의자,,,,,,0,0
 1959,,,Skill Mastery,기술 통달,,,,,,0,0
@@ -3059,7 +3059,7 @@ Masses of flame (one per caster level) appear and randomly target and hit any ho
 2214,,,Level 7,레벨 7,,,,,,0,0
 2215,,,Level 8,레벨 8,,,,,,0,0
 2216,,,Level 9,레벨 9,,,,,,0,0
-2218,,,Weapon Proficiency (Elf),무기 숙련 (엘프),,,,,,0,0
+2218,,,Weapon Proficiency (Elf),무기 숙달 (엘프),,,,,,0,0
 2219,,,Soak 45 damage,45 피해 흡수,,,,,,0,0
 2220,,,Cloak,망토,,,,,,0,0
 2223,,,Normal,보통,,,,,,0,0
@@ -3199,7 +3199,7 @@ Masses of flame (one per caster level) appear and randomly target and hit any ho
 2359,,,48,48,,,,,,0,0
 2360,,,49,49,,,,,,0,0
 2361,,,50,50,,,,,,0,0
-2362,,,Wounding Whispers,상처입히는 속삭임,,,,,,0,0
+2362,,,Wounding Whispers,상처의 속삭임,,,,,,0,0
 2363,,,Amplify,증폭,,,,,,0,0
 2364,,,Greater Sanctuary,상급 성역,,,,,,0,0
 2365,,,Undeath's Eternal Foe,불사의 영원한 적,,,,,,0,0
@@ -3218,7 +3218,7 @@ Additional Counter Spells:
 Save: None
 Spell Resistance: No
 
-The caster is surrounded with whispers that injure any creature that hits the caster for 1d6 + 1 / level points of sonic damage.","상처입히는 속삭임(Wounding whispers):\n시전자 레벨: 음유시인 3\n기본 레벨: 3\n학파: 방호술\n주문 기술어: 소리\n구성: 음성, 동작\n사거리: 개인\n효과 범위 / 대상: 시전자\n지속 시간: 시전자 레벨 당 1라운드\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n\n시전자는 근접공격을 받을때 공격하는 생명체에게 소리피해를 입히는 속삭임에 둘러쌓입니다.\n피해량: [1d6 + 시전자 레벨 당 1]점의 소리 피해",,,,,,0,0
+The caster is surrounded with whispers that injure any creature that hits the caster for 1d6 + 1 / level points of sonic damage.","상처의 속삭임(Wounding whispers):\n시전자 레벨: 음유시인 3\n기본 레벨: 3\n학파: 방호술\n주문 기술어: 소리\n구성: 음성, 동작\n사거리: 개인\n효과 범위 / 대상: 시전자\n지속 시간: 시전자 레벨 당 1라운드\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n\n시전자는 근접공격을 받을때 공격하는 생명체에게 소리피해를 입히는 속삭임에 둘러쌓입니다.\n피해량: [1d6 + 시전자 레벨 당 1]점의 소리 피해",,,,,,0,0
 2370,,,"Caster Level(s): Bard 1
 Innate Level: 1
 School: Transmutation
@@ -5417,7 +5417,7 @@ The caster blows forth a cloud of noxious air. Enemies in the area of effect are
 3812,,,"Elf, Male, Wizard","엘프 남성, 마법사",,,,,,0,0
 3813,,,"Medusa, Handmaid",메두사 시녀,,,,,,0,0
 3814,,,Deekin Scalesinger,비늘소리꾼 디킨,,,,,,0,0
-3815,,,Dorna Trapspringer,도르나 트랩스프링거,,,,,,0,0
+3815,,,Dorna Trapspringer,함정사냥꾼 도르나,,,,,,0,0
 3816,,,Drogan Droganson,드로건 드로건슨,,,,,,0,0
 3817,,,"Elf, Female, Noble","엘프 여성, 귀족",,,,,,0,0
 3818,,,Mischa Waymeet,미샤 웨이밋,,,,,,0,0
@@ -5483,7 +5483,7 @@ Additional Counter Spells:
 Save: Fortitude negates
 Spell Resistance: Yes
 
-You inflict 1d6 points of damage,  +1 per caster level  to the living creature touched and gain an equal amount of hit points. You may not gain more Hit Points than your maximum with the Healing Sting.","치유의 침(Healing sting)시전자 레벨: 드루이드 3\n기본 레벨: 3\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 접촉한 생명체\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n접촉한 살아있는 생명체에 부정적 에너지 피해를 입히고 같은 양만큼 HP를 얻습니다. 치유의 침으로 얻는 HP로는 최대 HP를 넘길 수 없습니다.\n피해량: 1d6 + 시전자 레벨 당 +1점의 부정적 에너지 피해",,,,,,0,0
+You inflict 1d6 points of damage,  +1 per caster level  to the living creature touched and gain an equal amount of hit points. You may not gain more Hit Points than your maximum with the Healing Sting.","치유의 침(Healing sting)시전자 레벨: 드루이드 3\n기본 레벨: 3\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 접촉한 생명체\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n접촉한 살아있는 생명체에 음 에너지 피해를 입히고 같은 양만큼 HP를 얻습니다. 치유의 침으로 얻는 HP로는 최대 HP를 넘길 수 없습니다.\n피해량: 1d6 + 시전자 레벨 당 +1점의 음 에너지 피해",,,,,,0,0
 3850,,,Great Thunderclap,커다란 천둥소리,,,,,,0,0
 3851,,,"Caster Level(s): Wizard / Sorcerer 7
 Innate Level: 7
@@ -6643,7 +6643,7 @@ Use: Automatic.","초월적 주문 집중(Epic spell focus)\n재주 유형: 일�
 4779,,,"Don't just stand there, get some bandages... And try to find all the loose bits!",그냥 거기 서 있지 말고 붕대 좀 챙겨... 그리고 느슨한 부분이 있나 찾아보라구.,,,,,,0,0
 4780,,,Bard Song,음유시인의 노래,,,,,,0,0
 4781,,,Quick To Master,빠른 통달,,,,,,0,0
-4782,,,Slippery Mind,약삭빠른 마음,,,,,,0,0
+4782,,,Slippery Mind,미끈한 정신,,,,,,0,0
 4783,,,Monk AC Bonus,수도사의 방어,,,,,,0,0
 4784,,,Favored Enemy: Dwarves,숙적: 드워프,,,,,,0,0
 4785,,,Favored Enemy: Elves,숙적: 엘프,,,,,,0,0
@@ -6698,7 +6698,7 @@ Use: Automatic.","초월적 주문 집중(Epic spell focus)\n재주 유형: 일�
 4839,,,M-R,M-R,,,,,,0,0
 4840,,,S-Z,S-Z,,,,,,0,0
 4842,,,<DELETED>,<DELETED>,,,,,,0,0
-4843,,,Weapon Proficiency (creature),무기 숙련 (생명체),,,,,,0,0
+4843,,,Weapon Proficiency (creature),무기 숙달 (생명체),,,,,,0,0
 4844,,,Weapon Specialization (creature),무기 전문화 (생명체),,,,,,0,0
 4845,,,Weapon Focus (creature),무기 집중 (생명체),,,,,,0,0
 4846,,,Improved Critical (creature),우수한 치명타 (생명체),,,,,,0,0
@@ -7001,8 +7001,8 @@ Use: Automatic.","초월적 주문 집중(Epic spell focus)\n재주 유형: 일�
 5155,,,Divine,신성,,,,,,0,0
 5156,,,Illusion,환영술,,,,,,0,0
 5157,,,Mind Affecting,정신영향,,,,,,0,0
-5158,,,Negative Energy,부정적 에너지,,,,,,0,0
-5159,,,Positive Energy,긍정적 에너지,,,,,,0,0
+5158,,,Negative Energy,음 에너지,,,,,,0,0
+5159,,,Positive Energy,양 에너지,,,,,,0,0
 5160,,,Challenge Rating,도전 지수(CR),,,,,,0,0
 5161,,,Paralysis,마비,,,,,,0,0
 5162,,,Damage Vulnerability: Random,피해 취약: 임의,,,,,,0,0
@@ -7515,7 +7515,7 @@ Feats Required: Shields",기본 방어도(AC): +3\n갑옷 판정 페널티: -10\
 5507,,,Keen,예리함,,,,,,0,0
 5508,,,Light,빛,,,,,,0,0
 5509,,,Mighty,강력한,,,,,,0,0
-5510,,,Mind Blank,정신 비우기,,,,,,0,0
+5510,,,Mind Blank,정신 차단,,,,,,0,0
 5511,,,No Damage,피해 없음,,,,,,0,0
 5512,,,On Hit:,명중시:,,,,,,0,0
 5513,,,Reduced Saving Throws:,내성굴림 감소:,,,,,,0,0
@@ -7981,14 +7981,14 @@ Prerequisite: Access to the Protection domain.
 Specifics:
 Divine Protection: Available to Clerics of the Protection Domain. The cleric is able to cast an improved form of Sanctuary that sets the save DC at 10 + Chr Modifier + Clerical Level. The effect has a duration of 1 round per caster level + Charisma modifier.
 Bonus Spells: The cleric gains access to the following spells at the specified spell level: Minor Globe of Invulnerability (4), Energy Buffer (5).
-Use: Automatic.",보호 권역(Protection Domain)\n재주 유형: 영역\n선결 조건: 보호 권역 선택\n특이사항:\n신성한 보호: 보호 권역의 성직자는 하루에 한번 난이도(DC)를 다음과 같이 향상시킨 성역 주문을 시전할 수 있습니다. 주문 지속시간은 [시전자 레벨 + 매력 수정치]라운드 입니다.\n난이도(DC): [10 + 매력 수정치 + 성직자 레벨]\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 4: 하급 무적의 구체\n- 레벨 5: 에너지 완충기\n사용: 선택,,,,,,0,0
+Use: Automatic.",보호 권역(Protection Domain)\n재주 유형: 영역\n선결 조건: 보호 권역 선택\n특이사항:\n신성한 보호: 보호 권역의 성직자는 하루에 한번 난이도(DC)를 다음과 같이 향상시킨 성역 주문을 시전할 수 있습니다. 주문 지속시간은 [시전자 레벨 + 매력 수정치]라운드 입니다.\n난이도(DC): [10 + 매력 수정치 + 성직자 레벨]\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 4: 하급 무적의 구체\n- 레벨 5: 에너지 감쇄\n사용: 선택,,,,,,0,0
 5941,,,"This way, please.",이쪽이야.,,,,,,0,0
 5942,,,"Type of Feat: Domain
 Prerequisite: Access to the Death domain.
 Specifics:
 Negative Plane Avatar: Able to summon a shadow that scales according to the cleric's level.
 Bonus Spells: The cleric gains access to the following spells at the specified spell level: Phantasmal Killer (4), Enervation (5).
-Use: Automatic.",죽음 권역(Death Domain)\n재주 유형: 영역\n선결 조건: 죽음 권역 선택\n특이사항:\n부정계의 화신: 하루에 한번 성직자 레벨에 따른 그림자를 소환할 수 있습니다.\n- 레벨 1 ~ 7: 그림자\n- 레벨 8 ~ 10: 그림자 투견\n레벨 11 ~ 14: 그림자 마귀\n레벨 15 이상: 그림자 군주\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 4: 몽환적인 살인자\n- 레벨 5: 쇠약\n사용: 선택,,,,,,0,0
+Use: Automatic.",죽음 권역(Death Domain)\n재주 유형: 영역\n선결 조건: 죽음 권역 선택\n특이사항:\n부정계의 화신: 하루에 한번 성직자 레벨에 따른 그림자를 소환할 수 있습니다.\n- 레벨 1 ~ 7: 그림자\n- 레벨 8 ~ 10: 그림자 투견\n레벨 11 ~ 14: 그림자 마귀\n레벨 15 이상: 그림자 군주\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 4: 몽환의 살인자\n- 레벨 5: 쇠약\n사용: 선택,,,,,,0,0
 5945,,,Strength Domain Powers,근력 권역의 권능,,,,,,0,0
 5947,,,War Domain Powers,전쟁 권역의 권능,,,,,,0,0
 5948,,,Protection Domain Powers,보호 권역의 권능,,,,,,0,0
@@ -8032,19 +8032,19 @@ Prerequisite: Access to the Earth domain.
 Specifics:
 Turn Elementals: Able to turn elementals as if they were undead.
 Bonus Spells: The cleric gains access to the following spells at the specified spell level: Stoneskin (4), Energy Buffer (5)
-Use: Automatic.",대지 권역(Earth Domain)\n재주 유형: 영역\n선결 조건: 대지 권역 선택\n특이사항:\n원소 정령 퇴치: 원소 정령을 언데드처럼 퇴치할 수 있습니다.\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 4: 돌 피부\n- 레벨 5: 에너지 완충기\n사용: 자동,,,,,,0,0
+Use: Automatic.",대지 권역(Earth Domain)\n재주 유형: 영역\n선결 조건: 대지 권역 선택\n특이사항:\n원소 정령 퇴치: 원소 정령을 언데드처럼 퇴치할 수 있습니다.\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 4: 돌 피부\n- 레벨 5: 에너지 감쇄\n사용: 자동,,,,,,0,0
 5971,,,"Type of Feat: Domain
 Prerequisite: Access to the Evil domain.
 Specifics:
 Turn Outsiders: Able to turn outsiders as if they were undead.
 Bonus Spells: The cleric gains access to the following spells at the specified spell level: Negative Energy Ray (1), Negative Energy Burst (3), Enervation (5).
-Use: Automatic.",악 권역(Evil Domain)\n재주 유형: 영역\n선결 조건: 악 권역 선택\n특이사항:\n이계의 존재 퇴치: 이계의 존재를 언데드처럼 퇴치할 수 있습니다.\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 1: 부정적 에너지 광선\n- 레벨 3: 부정적 에너지 폭발\n- 레벨 5: 쇠약\n사용: 자동,,,,,,0,0
+Use: Automatic.",악 권역(Evil Domain)\n재주 유형: 영역\n선결 조건: 악 권역 선택\n특이사항:\n이계의 존재 퇴치: 이계의 존재를 언데드처럼 퇴치할 수 있습니다.\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 1: 음 에너지 광선\n- 레벨 3: 음 에너지 폭발\n- 레벨 5: 쇠약\n사용: 자동,,,,,,0,0
 5972,,,"Type of Feat: Domain
 Prerequisite: Access to the Fire domain.
 Specifics:
 Turn Elementals: Able to turn elementals as if they were undead.
 Bonus Spells: The cleric gains access to the following spells at the specified spell level: Wall of Fire (4), Energy Buffer (5).
-Use: Automatic.",화염 권역(Fire Domain)\n재주 유형: 영역\n선결 조건: 화염 권역 선택\n특이사항:\n원소 정령 퇴치: 원소 정령을 언데드처럼 퇴치할 수 있습니다.\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 4: 불의 장벽\n- 레벨 5: 에너지 완충기\n사용: 자동,,,,,,0,0
+Use: Automatic.",화염 권역(Fire Domain)\n재주 유형: 영역\n선결 조건: 화염 권역 선택\n특이사항:\n원소 정령 퇴치: 원소 정령을 언데드처럼 퇴치할 수 있습니다.\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 4: 불의 장벽\n- 레벨 5: 에너지 감쇄\n사용: 자동,,,,,,0,0
 5973,,,"Type of Feat: Domain
 Prerequisite: Access to the Good domain.
 Specifics:
@@ -8061,12 +8061,12 @@ Use: Automatic.","치유 권역(Healing Domain)\n재주 유형: 영역\n선결 �
 Prerequisite: Access to the Knowledge domain.
 Specifics:
 Bonus Spells: The cleric gains access to the following spells at the specified spell level: Identify (1), Knock (2), Clairvoyance/Clairaudience (3), True Seeing (4), Legend Lore (6).
-Use: Automatic.","지식 권역(Knowledge Domain)\n재주 유형: 영역\n선결 조건: 지식 권역 선택\n특이사항:\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 1: 식별\n- 레벨 2: 문 두드리기\n- 레벨 3: 투시, 투청\n- 레벨 4: 진실의 시야\n- 레벨 6: 전설 전승\n사용: 자동",,,,,,0,0
+Use: Automatic.","지식 권역(Knowledge Domain)\n재주 유형: 영역\n선결 조건: 지식 권역 선택\n특이사항:\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 1: 식별\n- 레벨 2: 개방\n- 레벨 3: 투시, 투청\n- 레벨 4: 진실의 시야\n- 레벨 6: 전설 전승\n사용: 자동",,,,,,0,0
 5976,,,"Type of Feat: Domain
 Prerequisite: Access to the Magic domain.
 Specifics:
 Bonus Spells: The cleric gains access to the following spells at the specified spell level: Mage Armor (1), Melf's Acid Arrow (2), Negative Energy Burst (3), Stoneskin (4), Ice Storm (5).
-Use: Automatic.",마법 권역(Magic Domain)\n재주 유형: 영역\n선결 조건: 마법 권역 선택\n특이사항:\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 1: Mage Armor\n- 레벨 2: 멜프의 산성 화살\n- 레벨 3: 부정적 에너지 폭발\n- 레벨 4: 돌 피부\n- 레벨 5: 얼음 폭풍\n사용: 자동,,,,,,0,0
+Use: Automatic.",마법 권역(Magic Domain)\n재주 유형: 영역\n선결 조건: 마법 권역 선택\n특이사항:\n추가 주문: 성직자는 레벨에 따라 지정된 다음 주문을 얻을 수 있습니다.\n- 레벨 1: Mage Armor\n- 레벨 2: 멜프의 산성 화살\n- 레벨 3: 음 에너지 폭발\n- 레벨 4: 돌 피부\n- 레벨 5: 얼음 폭풍\n사용: 자동,,,,,,0,0
 5977,,,"Type of Feat: Domain
 Prerequisite: Access to the Plant domain.
 Specifics:
@@ -8207,24 +8207,24 @@ Special: none","큰까마귀는 교활한 협잡꾼으로, 재빠르게 적을 �
 Prerequisite: Druid Level 1.
 Specifics: This feat allows the character to use the club, dagger, scimitar, sickle, spear, quarterstaff, dart, and sling.
 Normal: A character cannot equip a weapon he is not proficient in.
-Use: All druids start with this feat and cannot gain weapon proficiency with any other weapons.","무기 숙련: 드루이드(Weapon proficiency: druid)\n재주 유형: 직업\n선결 조건: 드루이드 레벨 1\n세부 사항: 이 재주가 있으면 곤봉, 단검, 시미터, 낫, 창, 육척봉, 표창, 투석구를 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다. 모든 드루이드는 이 재주를 가지고 시작하지만 다른 무기 숙련 재주를 얻을 수 없습니다.\n사용: 자동",,,,,,0,0
+Use: All druids start with this feat and cannot gain weapon proficiency with any other weapons.","무기 숙달: 드루이드(Weapon proficiency: druid)\n재주 유형: 직업\n선결 조건: 드루이드 레벨 1\n세부 사항: 이 재주가 있으면 곤봉, 단검, 시미터, 낫, 창, 육척봉, 표창, 투석구를 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다. 모든 드루이드는 이 재주를 가지고 시작하지만 다른 무기 숙달 재주를 얻을 수 없습니다.\n사용: 자동",,,,,,0,0
 6013,,,"Type of Feat: Special
 Prerequisite: Monk level 1.
 Specifics: This feat allows effective use of club, dagger, handaxe, light crossbow, heavy crossbow, quarterstaff, shuriken, kama, and sling.
 Normal: A character cannot equip a weapon he is not proficient in.
 Use: All monks start with this feat but can gain other weapon proficiencies as well.
-","무기 숙련: 수도사(Weapon proficiency: monk)\n재주 유형: 직업\n선결 조건: 수도사 레벨 1\n세부 사항: 이 재주가 있으면 곤봉, 단검, 손도끼, 경쇠뇌, 중쇠뇌, 육척봉, 수리검, 카마, 투석구를 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다. 모든 수도사는 이 재주를 가지고 시작하며 다른 무기 숙련 재주를 얻을 수 있습니다.\n사용: 자동",,,,,,0,0
+","무기 숙달: 수도사(Weapon proficiency: monk)\n재주 유형: 직업\n선결 조건: 수도사 레벨 1\n세부 사항: 이 재주가 있으면 곤봉, 단검, 손도끼, 경쇠뇌, 중쇠뇌, 육척봉, 수리검, 카마, 투석구를 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다. 모든 수도사는 이 재주를 가지고 시작하며 다른 무기 숙달 재주를 얻을 수 있습니다.\n사용: 자동",,,,,,0,0
 6014,,,"Type of Feat: Special
 Prerequisite: Rogue level 1.
 Specifics: This feat allows the character to use the club, dagger, dart, handaxe, light crossbow, heavy crossbow, quarterstaff, mace, short sword, rapier, shortbow, morningstar, and sling.
 Normal: A character cannot equip a weapon he is not proficient in.
 Use: All rogues start with this feat but can gain other weapon proficiencies as well.
-","무기 숙련: 도적(Weapon proficiency: rogue)\n재주 유형: 직업\n선결 조건: 도적 레벨 1\n세부 사항: 이 재주가 있으면 곤봉, 단검, 표창, 손도끼, 경쇠뇌, 중쇠뇌, 육척봉, 철퇴, 소검, 세검, 단궁, 가시철퇴, 투석구를 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다. 모든 도적은 이 재주를 가지고 시작하며 다른 무기 숙련 재주를 얻을 수 있습니다.\n사용: 자동",,,,,,0,0
+","무기 숙달: 도적(Weapon proficiency: rogue)\n재주 유형: 직업\n선결 조건: 도적 레벨 1\n세부 사항: 이 재주가 있으면 곤봉, 단검, 표창, 손도끼, 경쇠뇌, 중쇠뇌, 육척봉, 철퇴, 소검, 세검, 단궁, 가시철퇴, 투석구를 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다. 모든 도적은 이 재주를 가지고 시작하며 다른 무기 숙달 재주를 얻을 수 있습니다.\n사용: 자동",,,,,,0,0
 6015,,,"Type of Feat: Special
 Prerequisite: Wizard level 1.
 Specifics: This feat allows the character to use the club, dagger, light crossbow, heavy crossbow, and quarterstaff.
 Normal: A character cannot equip a weapon he is not proficient in.
-Use: All wizards start with this feat but can gain other weapon proficiencies as well.","무기 숙련: 마법사(Weapon proficiency: wizard)\n재주 유형: 직업\n선결 조건: 마법사 레벨 1\n세부 사항: 이 재주가 있으면 곤봉, 단검, 경쇠뇌, 중쇠뇌, 육척봉을 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다. 모든 마법사는 이 재주를 가지고 시작하며 다른 무기 숙련 재주를 얻을 수 있습니다.\n사용: 자동",,,,,,0,0
+Use: All wizards start with this feat but can gain other weapon proficiencies as well.","무기 숙달: 마법사(Weapon proficiency: wizard)\n재주 유형: 직업\n선결 조건: 마법사 레벨 1\n세부 사항: 이 재주가 있으면 곤봉, 단검, 경쇠뇌, 중쇠뇌, 육척봉을 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다. 모든 마법사는 이 재주를 가지고 시작하며 다른 무기 숙달 재주를 얻을 수 있습니다.\n사용: 자동",,,,,,0,0
 6016,,,"Type of Feat: Class
 Prerequisite: Barbarian level 1.
 Specifics: This feat gives the barbarian a 10% bonus to movement.",야만전사의 빠른 이동(Barbarian fast movement)재주 유형: 직업\n선결 조건: 야만전사 레벨 1\n세부 사항: 이 재주는 야만전사에게 10%의 이동속도 보너스를 제공합니다.\n사용: 자동,,,,,,0,0
@@ -8323,7 +8323,7 @@ Use: Automatic. Monsters of the construct and undead types are immune to sneak a
 6040,,,"Type of Feat: Class
 Prerequisite: Rogue level 10.
 Specifics: The rogue deals an additional 2 points of ability score Strength damage when they make a successful sneak attack.
-Use: Automatic.",손상입히는 타격(Crippling strike)\n재주 유형: 직업\n선결 조건: 도적 레벨 10\n세부 사항: 도적이 기습공격에 성공하면 추가적으로 근력에 -2점의 능력 점수 피해를 입힙니다.\n사용: 자동,,,,,,0,0
+Use: Automatic.",약화 타격(Crippling strike)\n재주 유형: 직업\n선결 조건: 도적 레벨 10\n세부 사항: 도적이 기습공격에 성공하면 추가적으로 근력에 -2점의 능력 점수 피해를 입힙니다.\n사용: 자동,,,,,,0,0
 6041,,,"Type of Feat: Class
 Prerequisite: Rogue level 10 or shadowdancer level 5.
 Specifics: If the rogue is struck by a potentially lethal blow, they make a Reflex saving throw (DC = damage dealt). If succesful, they take only half damage from the blow.
@@ -8458,7 +8458,7 @@ Use: Automatic.",초인적인 피하기 6(Uncanny dodge V)\n재주 유형: 직�
 Prerequisite: Elf.
 Specifics: This feat allows the character to use the longsword, rapier, longbow, and shortbow.
 Normal: A character cannot equip a weapon he is not proficient in.
-Use: All elves start with this feat but can gain other weapon proficiencies as well.","무기 숙련: 엘프(Weapon proficiency: elf)\n재주 유형: 종족\n선결 조건: 엘프\n세부 사항: 이 재주가 있으면 장검, 세검, 장궁, 단궁을 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다.\n사용: 자동",,,,,,0,0
+Use: All elves start with this feat but can gain other weapon proficiencies as well.","무기 숙달: 엘프(Weapon proficiency: elf)\n재주 유형: 종족\n선결 조건: 엘프\n세부 사항: 이 재주가 있으면 장검, 세검, 장궁, 단궁을 사용 가능합니다. 일반적으로 숙련되지 않은 무기를 장비할 수 없습니다.\n사용: 자동",,,,,,0,0
 6075,,,"Type of Feat: Class
 Prerequisite: Bard.
 Specifics: Bards are able to sing a song that can bolster their allies. Deafened creatures are not affected by the bard's singing. The song affects all allies within 30 feet and lasts for 10 rounds. The higher the bard's final Perform skill and class level, the better the Bard song. All of the bonuses listed are additive.
@@ -8780,7 +8780,7 @@ Additional Counter Spells: Death Ward
 Save: Fortitude Negates
 Spell Resistance: Yes
 
-A wave of negative energy bursts from the target location. A number of enemy creatures equal to 1d4 per caster level must make a Fortitude save or die, beginning with those creatures with the lowest Hit Dice. Creatures with 9 or more Hit Dice are unaffected.","죽음의 원(Circle of death)\n시전자 레벨: 마법사/요술사 6\n기본 레벨: 6\n학파: 강령술\n주문 기술어: 죽음\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 5미터\n지속 시간: 즉시\n추가 역주문: 죽음 방비\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n대상 지역에 부정적 에너지의 파동이 폭발합니다. 시전자 레벨 당 1d4와 같은 수의 적 생명체는 인내굴림 실패 시 사망합니다. 생명점 주사위(HD) 9이상의 생명체는 영향을 받지 않습니다.",,,,,,0,0
+A wave of negative energy bursts from the target location. A number of enemy creatures equal to 1d4 per caster level must make a Fortitude save or die, beginning with those creatures with the lowest Hit Dice. Creatures with 9 or more Hit Dice are unaffected.","죽음의 원(Circle of death)\n시전자 레벨: 마법사/요술사 6\n기본 레벨: 6\n학파: 강령술\n주문 기술어: 죽음\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 5미터\n지속 시간: 즉시\n추가 역주문: 죽음 방비\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n대상 지역에 음 에너지의 파동이 폭발합니다. 시전자 레벨 당 1d4와 같은 수의 적 생명체는 인내굴림 실패 시 사망합니다. 생명점 주사위(HD) 9이상의 생명체는 영향을 받지 않습니다.",,,,,,0,0
 6115,,,"Caster Level(s): Cleric 5
 Innate Level: 5
 School: Necromancy
@@ -8793,7 +8793,7 @@ Additional Counter Spells: Healing Circle
 Save: Fortitude 1/2
 Spell Resistance: Yes
 
-All enemies within the area of effect are struck with negative energy that causes 1d8 points of damage, +1 point per caster level. Negative energy spells have a reverse effect on undead, healing them instead of harming them.","파멸의 원진(Circle of Doom)\n시전자 레벨: 성직자 5\n기본 레벨: 5\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 즉시\n추가 역주문: Healing Circle\n내성굴림: 인내굴림 성공 시 절반\n주문 저항: 가능\n\n효과 범위 내의 모든 적은 부정적 에너지 피해를 입습니다. 부정적 에너지 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: 1d8의 부정적 에너지 피해",,,,,,0,0
+All enemies within the area of effect are struck with negative energy that causes 1d8 points of damage, +1 point per caster level. Negative energy spells have a reverse effect on undead, healing them instead of harming them.","파멸의 원진(Circle of Doom)\n시전자 레벨: 성직자 5\n기본 레벨: 5\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 즉시\n추가 역주문: Healing Circle\n내성굴림: 인내굴림 성공 시 절반\n주문 저항: 가능\n\n효과 범위 내의 모든 적은 음 에너지 피해를 입습니다. 음 에너지 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다. 합니다.\n피해량: 1d8의 음 에너지 피해",,,,,,0,0
 6116,,,"Caster Level(s): Bard 3, Wizard / Sorcerer 3
 Innate Level: 3
 School: Divination
@@ -9278,7 +9278,7 @@ Additional Counter Spells:
 Save: Fortitude Partial
 Spell Resistance: Yes
 
-The target creature must make a Fortitude save or die. If they succeed, they still take 3d6 points of damage, +1 point per caster level.","죽음의 손가락(Finger of death)\n시전자 레벨: 드루이드 8, 마법사/요술사 7\n기본 레벨: 7\n학파: 강령술\n주문 기술어: 죽음\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 인내굴림 성공 시 일부만\n주문 저항: 가능\n\n대상 생명체는 인내굴림을 하여 실패하면 사망합니다. 인내굴림에 성공하더라도 부정적 에너지 피해를 받습니다.\n피해량: [3d6 + 시전자 레벨 당 +1]점의 부정적 에너지 피해",,,,,,0,0
+The target creature must make a Fortitude save or die. If they succeed, they still take 3d6 points of damage, +1 point per caster level.","죽음의 손가락(Finger of death)\n시전자 레벨: 드루이드 8, 마법사/요술사 7\n기본 레벨: 7\n학파: 강령술\n주문 기술어: 죽음\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 인내굴림 성공 시 일부만\n주문 저항: 가능\n\n대상 생명체는 인내굴림을 하여 실패하면 사망합니다. 인내굴림에 성공하더라도 음 에너지 피해를 받습니다.\n피해량: [3d6 + 시전자 레벨 당 +1]점의 음 에너지 피해",,,,,,0,0
 6154,,,"Caster Level(s): Cleric 8, Druid 7
 Innate Level: 7
 School: Evocation
@@ -9530,7 +9530,7 @@ Additional Counter Spells: Heal
 Save: None
 Spell Resistance: Yes
 
-If the caster makes a successful melee touch attack, Harm uses negative energy to reduce the target creature to 1d4 Hit Points. This spell has a reverse effect on undead, healing the targeted undead to full health instead of harming it.","위해(Harm)\n시전자 레벨: 성직자 6, 드루이드 7\n기본 레벨: 6\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 완치\n내성굴림: 없음\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 부정적 에너지를 사용해 대상 생명체의 HP를 1d4점으로 줄입니다. 이 주문은 언데드에게는 역효과로 대상 언데드에 피해 대신 완전한 HP로 치유 합니다.",,,,,,0,0
+If the caster makes a successful melee touch attack, Harm uses negative energy to reduce the target creature to 1d4 Hit Points. This spell has a reverse effect on undead, healing the targeted undead to full health instead of harming it.","위해(Harm)\n시전자 레벨: 성직자 6, 드루이드 7\n기본 레벨: 6\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 완치\n내성굴림: 없음\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공 시 음 에너지를 사용해 대상 생명체의 HP를 1d4점으로 줄입니다. 이 주문은 언데드에게는 역효과로 대상 언데드에 피해 대신 완전한 HP로 치유 합니다.",,,,,,0,0
 6175,,,"Caster Level(s): Bard 3, Wizard / Sorcerer 3
 Innate Level: 3
 School: Transmutation
@@ -9675,7 +9675,7 @@ Additional Counter Spells: See Invisibility
 Save: Harmless
 Spell Resistance: No
 
-The target creature becomes invisible and impossible to detect using normal vision. Any attack or spellcasting action taken by the invisible creature will immediately cancel the invisibility.","투명화(Invisibility)\n시전자 레벨: 음유시인 2, 마법사/요술사 2\n기본 레벨: 2\n학파: 환영술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문: 투명체 보기\n내성굴림: 무해함\n주문 저항: 불가\n\n대상 생명체가 투명해져 일반 시야로는 찾을 수 없습니다. 공격이나 주문시전을 하면 그 순간 투명 효과는 사라집니다.",,,,,,0,0
+The target creature becomes invisible and impossible to detect using normal vision. Any attack or spellcasting action taken by the invisible creature will immediately cancel the invisibility.","투명화(Invisibility)\n시전자 레벨: 음유시인 2, 마법사/요술사 2\n기본 레벨: 2\n학파: 환영술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문: 투명 간파\n내성굴림: 무해함\n주문 저항: 불가\n\n대상 생명체가 투명해져 일반 시야로는 찾을 수 없습니다. 공격이나 주문시전을 하면 그 순간 투명 효과는 사라집니다.",,,,,,0,0
 6188,,,"Caster Level(s): Cleric 3, Ranger 3
 Innate Level: 3
 School: Evocation
@@ -9714,7 +9714,7 @@ Additional Counter Spells:
 Save: None
 Spell Resistance: No
 
-This spell will unlock doors and containers sealed by conventional locks in a 150ft radius around the caster. Exceptionally complex locking mechanisms or magically sealed doors and containers are beyond the abilities of this spell.",문 두드리기(Knock)\n시전자 레벨: 마법사/요술사 2\n기본 레벨: 2\n학파: 변환술\n주문 기술어:\n구성: 음성\n사거리: 개인\n효과 범위 / 대상: 반경 10미터\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n\n이 주문은 시전자 주변 45미터 반경 내의 일반적인 잠금장치로 잠겨있는 문과 상자를 모두 잠금해제 합니다. 매우 복잡한 잠금장치나 마법적으로 봉인된 문과 상자는 열리지 않습니다.,,,,,,0,0
+This spell will unlock doors and containers sealed by conventional locks in a 150ft radius around the caster. Exceptionally complex locking mechanisms or magically sealed doors and containers are beyond the abilities of this spell.",개방(Knock)\n시전자 레벨: 마법사/요술사 2\n기본 레벨: 2\n학파: 변환술\n주문 기술어:\n구성: 음성\n사거리: 개인\n효과 범위 / 대상: 반경 10미터\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n\n이 주문은 시전자 주변 45미터 반경 내의 일반적인 잠금장치로 잠겨있는 문과 상자를 모두 잠금해제 합니다. 매우 복잡한 잠금장치나 마법적으로 봉인된 문과 상자는 열리지 않습니다.,,,,,,0,0
 6191,,,"Caster Level(s): Bard 1, Cleric 2, Druid 2, Wizard / Sorcerer 2
 Innate Level: 1
 School: Abjuration
@@ -9740,7 +9740,7 @@ Additional Counter Spells: Confusion
 Save: Harmless
 Spell Resistance: No
 
-This spell renders the target creature immune to mind-affecting spells and spell-like effects, and removes all negative effects caused by such spells.","하급 정신 비우기(Lesser mind blank)\n시전자 레벨: 마법사/요술사 5\n기본 레벨: 5\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문: 혼란\n내성굴림: 무해함\n주문 저항: 불가\n\n대상 생명체는 정신영향 주문과 주문유사 효과에 면역되며 이러한 주문의 모든 부정적 효과가 제거됩니다.",,,,,,0,0
+This spell renders the target creature immune to mind-affecting spells and spell-like effects, and removes all negative effects caused by such spells.","하급 정신 차단(Lesser mind blank)\n시전자 레벨: 마법사/요술사 5\n기본 레벨: 5\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문: 혼란\n내성굴림: 무해함\n주문 저항: 불가\n\n대상 생명체는 정신영향 주문과 주문유사 효과에 면역되며 이러한 주문의 모든 부정적 효과가 제거됩니다.",,,,,,0,0
 6193,,,"Caster Level(s): Wizard / Sorcerer 5
 Innate Level: 5
 School: Conjuration
@@ -9946,7 +9946,7 @@ Additional Counter Spells: Mass Charm
 Save: Harmless
 Spell Resistance: No
 
-This spell renders all allies within the area of effect immune to mind-affecting spells and effects. All negative mind-affecting effects are also removed from the target creatures.","정신 비우기(Mind blank)\n시전자 레벨: 마법사/요술사 8\n기본 레벨: 8\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문: 대규모 현혹\n내성굴림: 무해함\n주문 저항: 불가\n\n효과 범위 내의 모든 아군은 정신영향 주문과 주문유사 효과에 면역되며 이러한 주문의 모든 부정적 효과가 제거됩니다.",,,,,,0,0
+This spell renders all allies within the area of effect immune to mind-affecting spells and effects. All negative mind-affecting effects are also removed from the target creatures.","정신 차단(Mind blank)\n시전자 레벨: 마법사/요술사 8\n기본 레벨: 8\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문: 대규모 현혹\n내성굴림: 무해함\n주문 저항: 불가\n\n효과 범위 내의 모든 아군은 정신영향 주문과 주문유사 효과에 면역되며 이러한 주문의 모든 부정적 효과가 제거됩니다.",,,,,,0,0
 6215,,,"Caster Level(s): Bard 5, Wizard / Sorcerer 5
 Innate Level: 5
 School: Enchantment
@@ -10040,7 +10040,7 @@ Additional Counter Spells:
 Save: Harmless
 Spell Resistance: No
 
-The target creature is rendered immune to all negative energy attacks, including supernatural ability damage and level drains.","부정적 에너지 보호(Negative Energy Protection)\n시전자 레벨: 성직자 3\n기본 레벨: 3\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n대상 생명체가 모든 부정적 에너지 공격으로부터 면역이 됩니다. 이는 초자연적 능력 점수 피해나 레벨 배출도 포함됩니다.",,,,,,0,0
+The target creature is rendered immune to all negative energy attacks, including supernatural ability damage and level drains.","음 에너지 보호(Negative Energy Protection)\n시전자 레벨: 성직자 3\n기본 레벨: 3\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n대상 생명체가 모든 음 에너지 공격으로부터 면역이 됩니다. 이는 초자연적 능력 점수 피해나 레벨 배출도 포함됩니다.",,,,,,0,0
 6223,,,"Caster Level(s): Bard 4, Cleric 4, Druid 3, Paladin 4, Ranger 3
 Innate Level: 3
 School: Conjuration
@@ -10350,7 +10350,7 @@ Additional Counter Spells:
 Save: Harmless
 Spell Resistance: No
 
-The target creature is able to see all invisible creatures within his line of sight.","투명체 보기(See invisibility)\n시전자 레벨: 음유시인 2, 마법사/요술사 2\n기본 레벨: 2\n학파: 예지술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n대상 생명체는 시선내의 모든 투명한 생명체를 볼 수 있습니다.",,,,,,0,0
+The target creature is able to see all invisible creatures within his line of sight.","투명 간파(See invisibility)\n시전자 레벨: 음유시인 2, 마법사/요술사 2\n기본 레벨: 2\n학파: 예지술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n대상 생명체는 시선내의 모든 투명한 생명체를 볼 수 있습니다.",,,,,,0,0
 6251,,,"Caster Level(s): Wizard / Sorcerer 6
 Innate Level: 6
 School: Illusion
@@ -10363,7 +10363,7 @@ Additional Counter Spells:
 Save: Special
 Spell Resistance: Yes
 
-The caster conjures a shadow variant of one of the following spells: Cone of Cold, Fireball, Stoneskin, Wall of Fire, or Summon Shadow.","그늘짐(Shades)\n시전자 레벨: 마법사/요술사 6\n기본 레벨: 6\n학파: 환영술\n주문 기술어:\n구성: 음성, 동작\n사거리: 특별\n효과 범위 / 대상: 특별\n지속 시간: 특별\n추가 역주문:\n내성굴림: 특별\n주문 저항: 가능\n\n시전자는 다음 주문 중 하나의 그림자 변형을 만들어냅니다.\n주문 목록: 냉기의 원뿔, 화염구, 돌 피부, 불의 장벽, 그림자 소환",,,,,,0,0
+The caster conjures a shadow variant of one of the following spells: Cone of Cold, Fireball, Stoneskin, Wall of Fire, or Summon Shadow.","음영(Shades)\n시전자 레벨: 마법사/요술사 6\n기본 레벨: 6\n학파: 환영술\n주문 기술어:\n구성: 음성, 동작\n사거리: 특별\n효과 범위 / 대상: 특별\n지속 시간: 특별\n추가 역주문:\n내성굴림: 특별\n주문 저항: 가능\n\n시전자는 다음 주문 중 하나의 그림자 변형을 만들어냅니다.\n주문 목록: 냉기의 원뿔, 화염구, 돌 피부, 불의 장벽, 그림자 소환",,,,,,0,0
 6252,,,"Caster Level(s): Wizard / Sorcerer 4
 Innate Level: 4
 School: Illusion
@@ -10394,7 +10394,7 @@ The caster is shrouded in a cloak of shadow that protects them with the followin
 10 / +3 Damage reduction
 Immunity to instant death effects
 Immunity to Necromancy spells
-Immunity to Negative Engergy Damage","그림자 방패(Shadow shield)\n시전자 레벨: 마법사/요술사 7\n기본 레벨: 7\n학파: 환영술\n주문 기술어:\n구성: 음성, 동작\n사거리: 개인\n효과 범위 / 대상: 시전자\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n시전자는 다음과 같은 효과로 보호되는 그림자의 망토로 둘러쌓입니다.\n- 방어도(AC)에 +5점의 천연갑옷 보너스\n- 10/+3의 피해 감소\n- 즉사 효과에 면역\n- 강령술 주문에 면역\n- 부정적 에너지 피해에 면역",,,,,,0,0
+Immunity to Negative Engergy Damage","그림자 방패(Shadow shield)\n시전자 레벨: 마법사/요술사 7\n기본 레벨: 7\n학파: 환영술\n주문 기술어:\n구성: 음성, 동작\n사거리: 개인\n효과 범위 / 대상: 시전자\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n시전자는 다음과 같은 효과로 보호되는 그림자의 망토로 둘러쌓입니다.\n- 방어도(AC)에 +5점의 천연갑옷 보너스\n- 10/+3의 피해 감소\n- 즉사 효과에 면역\n- 강령술 주문에 면역\n- 음 에너지 피해에 면역",,,,,,0,0
 6254,,,"Caster Level(s): Druid 9, Wizard / Sorcerer 9
 Innate Level: 9
 School: Transmutation
@@ -10434,7 +10434,7 @@ Additional Counter Spells: Death Ward
 Save: Fortitude Negates
 Spell Resistance: Yes
 
-The target must make a Fortitude save or die. Even if the saving throw is successful, the target takes 3d6 points of negative energy damage, +1 point per caster level.","생체 살해(Slay living)\n시전자 레벨: 성직자 5, 드루이드 5\n기본 레벨: 5\n학파: 강령술\n주문 기술어: 죽음, 부정\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 죽음 방비\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공하면 대상은 인내굴림을 해야합니다. 내성굴림에 실패하면 사망하고 성공하더라도 부정적 에너지 피해를 받습니다.\n피해량: [3d6 + 시전자 레벨 당 +1]점의 부정적 에너지 피해",,,,,,0,0
+The target must make a Fortitude save or die. Even if the saving throw is successful, the target takes 3d6 points of negative energy damage, +1 point per caster level.","생체 살해(Slay living)\n시전자 레벨: 성직자 5, 드루이드 5\n기본 레벨: 5\n학파: 강령술\n주문 기술어: 죽음, 부정\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 죽음 방비\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n시전자가 접촉 공격에 성공하면 대상은 인내굴림을 해야합니다. 내성굴림에 실패하면 사망하고 성공하더라도 음 에너지 피해를 받습니다.\n피해량: [3d6 + 시전자 레벨 당 +1]점의 음 에너지 피해",,,,,,0,0
 6258,,,"Caster Level(s): Bard 1, Druid 1, Ranger 2, Wizard / Sorcerer 1
 Innate Level: 1
 School: Enchantment
@@ -10605,7 +10605,7 @@ Additional Counter Spells:
 Save: Harmless
 Spell Resistance: Yes
 
-When this spell is cast, the caster chooses to be protected from either good or evil. He receives a +4 deflection bonus to Armor Class, immunity to mind-affecting spells and spell-like abilities used by creatures of the chosen alignment, and spell resistance 25 against spells cast by creatures of the chosen alignment. Creatures of the chosen alignment also take 6 + 1d8 damage each time they successfully strike the Cleric.","가치관 대항 오라(Aura versus alignment)\n시전자 레벨: 성직자 8\n기본 레벨: 8\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 개인\n효과 범위 / 대상: 시전자\n지속 시간: 시전자 레벨 당 1라운드\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가능\n\n시전자는 선 또는 악으로부터 보호받는 것을 선택하여 주문을 시전합니다. 시전자는 방어도(AC)에 +4점의 굴절 보너스와 25점의 주문저항을 얻고, 선택한 가치관의 생명체가 사용하는 정신영향 주문 및 주문유사 능력에 면역됩니다. 또한 시전자에 대한 공격이 성공할 때마다 공격자에게 선택한 가치관에 따라 신성 또는 부정적 에너지 피해를 줍니다.\n피해량: [6 + 1d8]점의 피해(악에서 보호받는 경우는 신성 피해, 선에서 보호받는 경우는 부정적 에너지 피해)",,,,,,0,0
+When this spell is cast, the caster chooses to be protected from either good or evil. He receives a +4 deflection bonus to Armor Class, immunity to mind-affecting spells and spell-like abilities used by creatures of the chosen alignment, and spell resistance 25 against spells cast by creatures of the chosen alignment. Creatures of the chosen alignment also take 6 + 1d8 damage each time they successfully strike the Cleric.","가치관 대항 오라(Aura versus alignment)\n시전자 레벨: 성직자 8\n기본 레벨: 8\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 개인\n효과 범위 / 대상: 시전자\n지속 시간: 시전자 레벨 당 1라운드\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가능\n\n시전자는 선 또는 악으로부터 보호받는 것을 선택하여 주문을 시전합니다. 시전자는 방어도(AC)에 +4점의 굴절 보너스와 25점의 주문저항을 얻고, 선택한 가치관의 생명체가 사용하는 정신영향 주문 및 주문유사 능력에 면역됩니다. 또한 시전자에 대한 공격이 성공할 때마다 공격자에게 선택한 가치관에 따라 신성 또는 음 에너지 피해를 줍니다.\n피해량: [6 + 1d8]점의 피해(악에서 보호받는 경우는 신성 피해, 선에서 보호받는 경우는 음 에너지 피해)",,,,,,0,0
 6273,,,Racial Bonus,종족 보너스,,,,,,0,0
 6274,,,Ability Modifier,능력 수정치,,,,,,0,0
 6275,,,Final Ability Score,최종 능력 점수,,,,,,0,0
@@ -10634,19 +10634,19 @@ Clerics of the Earth domain command power over creatures of the Elemental Planes
 Domain Special Ability and Bonus Spells
 Turn Elementals: Able to turn elementals as if they were undead.
 The cleric gains access to the following spells at the specified spell level: Stoneskin (4), Energy Buffer (5).
-","대지 권역\n대지 영역을 가진 성직자는 원소계 생명체에게 명령하는 힘과 근접과 에너지 피해로부터 보호하는 주문을 얻습니다.\n영역 특수 능력과 추가 주문\n원소 정령 퇴치: 원소 정령을 언데드와 같이 퇴치할 수 있습니다.\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 돌 피부 (4), 에너지 완충기 (5)\n",,,,,,0,0
+","대지 권역\n대지 영역을 가진 성직자는 원소계 생명체에게 명령하는 힘과 근접과 에너지 피해로부터 보호하는 주문을 얻습니다.\n영역 특수 능력과 추가 주문\n원소 정령 퇴치: 원소 정령을 언데드와 같이 퇴치할 수 있습니다.\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 돌 피부 (4), 에너지 감쇄 (5)\n",,,,,,0,0
 6281,,,"Evil Domain
 Clerics who take the Evil domain command power over outsiders and are granted spells that manipulate negative energy.
 Domain Special Ability and Bonus Spells
 Turn Outsiders: Able to turn outsiders as if they were undead.
 The cleric gains access to the following spells at the specified spell level: Negative Energy Ray (1), Negative Energy Burst (3), Enervation (5).
-","악 권역\n악 권역을 가진 성직자는 이계의 존재에게 명령하는 힘과 부정적 에너지를 다루는 주문을 얻습니다.\n영역 특수 능력과 추가 주문\n이계의 존재 퇴치: 이계의 존재를 언데드와 같이 퇴치할 수 있습니다.\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 부정적 에너지 광선 (1), 부정적 에너지 폭발 (3), 쇠약 (5)\n",,,,,,0,0
+","악 권역\n악 권역을 가진 성직자는 이계의 존재에게 명령하는 힘과 음 에너지를 다루는 주문을 얻습니다.\n영역 특수 능력과 추가 주문\n이계의 존재 퇴치: 이계의 존재를 언데드와 같이 퇴치할 수 있습니다.\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 음 에너지 광선 (1), 음 에너지 폭발 (3), 쇠약 (5)\n",,,,,,0,0
 6282,,,"Fire Domain
 Clerics who take the Fire domain command power over creatures of the Elemental Planes and are granted spells that summon and protect against fire.
 Domain Special Ability and Bonus Spells
 Turn Elementals: Able to turn elementals as if they were undead.
 The cleric gains access to the following spells at the specified spell level: Wall of Fire (4), Energy Buffer (5).
-","화염 권역\n화염 권역을 가진 성직자는 원소계 생명체에게 명령하는 힘과 화염에 대항해 보호하거나 소환하는 주문을 얻습니다.\n영역 특수 능력과 추가 주문\n원소 정령 퇴치: 원소 정령을 언데드와 같이 퇴치할 수 있습니다.\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 불의 장벽 (4), 에너지 완충기 (5)\n",,,,,,0,0
+","화염 권역\n화염 권역을 가진 성직자는 원소계 생명체에게 명령하는 힘과 화염에 대항해 보호하거나 소환하는 주문을 얻습니다.\n영역 특수 능력과 추가 주문\n원소 정령 퇴치: 원소 정령을 언데드와 같이 퇴치할 수 있습니다.\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 불의 장벽 (4), 에너지 감쇄 (5)\n",,,,,,0,0
 6283,,,"Good Domain
 Clerics who take the Good domain command power over outsiders and are granted spells that protect themselves and others.
 Turn Outsider: Able to turn outsiders as if they were undead.
@@ -10663,11 +10663,11 @@ Clerics who take the Knowledge domain gain access to an improved list of bonus s
 Bonus Spells
 The cleric gains access to the following spells at the specified spell level: Identify (1), Knock (2), Clairvoyance/Clairaudience (3), True Seeing (4), Legend Lore (6).
 
-","지식 권역\n지식 권역을 가진 성직자는 우수한 추가 주문 목록을 얻습니다.\n추가 주문\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 식별 (1), 문 두드리기 (2), 투청/투시 (3), 진실의 시야 (4), 전설 전승 (6)\n\n",,,,,,0,0
+","지식 권역\n지식 권역을 가진 성직자는 우수한 추가 주문 목록을 얻습니다.\n추가 주문\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 식별 (1), 개방 (2), 투청/투시 (3), 진실의 시야 (4), 전설 전승 (6)\n\n",,,,,,0,0
 6286,,,"Magic Domain
 Clerics who take the Magic domain gain access to an improved list of bonus spells.
 Bonus Spells
-The cleric gains access to the following spells at the specified spell level: Mage Armor (1), Melf's Acid Arrow (2), Negative Energy Burst (3), Stoneskin (4), Ice Storm (5).","마법 권역\마법 권역을 가진 성직자는 우수한 추가 주문 목록을 얻습니다.\n추가 주문\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 마법학자 갑옷 (1), 멜프의 산성 화살 (2), 부정적 에너지 폭발 (3), 돌 피부 (4), 얼음 폭풍 (5)",,,,,,0,0
+The cleric gains access to the following spells at the specified spell level: Mage Armor (1), Melf's Acid Arrow (2), Negative Energy Burst (3), Stoneskin (4), Ice Storm (5).","마법 권역\마법 권역을 가진 성직자는 우수한 추가 주문 목록을 얻습니다.\n추가 주문\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 마법학자 갑옷 (1), 멜프의 산성 화살 (2), 음 에너지 폭발 (3), 돌 피부 (4), 얼음 폭풍 (5)",,,,,,0,0
 6287,,,"Plant Domain
 Clerics who take the Plant domain are able to repel and destroy vermin and have spells that call upon the power of nature to protect and destroy.
 Domain Special Ability and Bonus Spells
@@ -10721,20 +10721,20 @@ Clerics who take the Protection domain are able to shield themselves from harm u
 Domain Special Ability and Bonus Spells
 Divine Protection: The cleric is able to cast an improved form of Sanctuary that sets the save DC at 10 + Chr Modifier + Clerical Level. The effect has a duration of 1 round per caster level + the cleric's Charisma modifier.
 The cleric gains access to the following spells at the specified spell level: Minor Globe of Invulnerability (4), Energy Buffer (5).
-","보호 권역\n보호 권역을 가진 성직자는 특별한 능력과 주문을 사용하여 해를 입지 않도록 스스로를 보호할 수 있습니다.\n영역 특수 능력과 추가 주문\n신성한 보호: 보호 권역의 성직자는 하루에 한번 난이도(DC)를 다음과 같이 향상시킨 성역 주문을 시전할 수 있습니다. 주문 지속시간은 [시전자 레벨 + 매력 수정치]라운드 입니다.\n난이도(DC): [10 + 매력 수정치 + 성직자 레벨]\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 하급 무적의 구체 (4), 에너지 완충기 (5)\n",,,,,,0,0
+","보호 권역\n보호 권역을 가진 성직자는 특별한 능력과 주문을 사용하여 해를 입지 않도록 스스로를 보호할 수 있습니다.\n영역 특수 능력과 추가 주문\n신성한 보호: 보호 권역의 성직자는 하루에 한번 난이도(DC)를 다음과 같이 향상시킨 성역 주문을 시전할 수 있습니다. 주문 지속시간은 [시전자 레벨 + 매력 수정치]라운드 입니다.\n난이도(DC): [10 + 매력 수정치 + 성직자 레벨]\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 하급 무적의 구체 (4), 에너지 감쇄 (5)\n",,,,,,0,0
 6296,,,"Death Domain
 Clerics who take the Death domain can summon an enhanced shadow and gains spells related to death and dying.
 Domain Special Ability and Bonus Spells
 Negative Plane Avatar: The cleric is able to summon a shadow that gains in power as the cleric advances.
 The cleric gains access to the following spells at the specified spell level: Phantasmal Killer (4), Enervation (5).
 
-","죽음 권역\n죽음 권역을 가진 성직자는 우수한 그림자를 소환할 수 있고 죽음과 관련된 주문을 얻습니다.\n영역 특수 능력과 추가 주문\n부정계의 화신: 하루에 한번 성직자 레벨에 따른 그림자를 소환할 수 있습니다.\n- 레벨 1 ~ 7: 그림자\n- 레벨 8 ~ 10: 그림자 투견\n레벨 11 ~ 14: 그림자 마귀\n레벨 15 이상: 그림자 군주\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 몽환적인 살인자 (4), 쇠약 (5)\n\n",,,,,,0,0
+","죽음 권역\n죽음 권역을 가진 성직자는 우수한 그림자를 소환할 수 있고 죽음과 관련된 주문을 얻습니다.\n영역 특수 능력과 추가 주문\n부정계의 화신: 하루에 한번 성직자 레벨에 따른 그림자를 소환할 수 있습니다.\n- 레벨 1 ~ 7: 그림자\n- 레벨 8 ~ 10: 그림자 투견\n레벨 11 ~ 14: 그림자 마귀\n레벨 15 이상: 그림자 군주\n성직자는 명시된 레벨에서 다음 주문을 사용할 수 있습니다: 몽환의 살인자 (4), 쇠약 (5)\n\n",,,,,,0,0
 6297,,,Go To Break,Go To Break,,,,,,0,0
 6298,,,Trust in Mystra and bring them down!,미스트라를 믿고 저들을 쓰러뜨려라!,,,,,,0,0
-6299,,,"Shades, Cone of Cold","그늘짐, 냉기의 원뿔",,,,,,0,0
-6300,,,"Shades, Fireball","그늘짐, 화염구",,,,,,0,0
-6301,,,"Shades, Stoneskin","그늘짐, 돌 피부",,,,,,0,0
-6302,,,"Shades, Wall of Fire","그늘짐, 불의 장벽",,,,,,0,0
+6299,,,"Shades, Cone of Cold","음영, 냉기의 원뿔",,,,,,0,0
+6300,,,"Shades, Fireball","음영, 화염구",,,,,,0,0
+6301,,,"Shades, Stoneskin","음영, 돌 피부",,,,,,0,0
+6302,,,"Shades, Wall of Fire","음영, 불의 장벽",,,,,,0,0
 6303,,,"Shadow Conjuration, Summon Shadow","그림자 소환술, 그림자 소환",,,,,,0,0
 6304,,,"Shadow Conjuration, Darkness","그림자 소환술, 암흑",,,,,,0,0
 6305,,,"Shadow Conjuration, Invisibility","그림자 소환술, 투명화",,,,,,0,0
@@ -10767,9 +10767,9 @@ The cleric gains access to the following spells at the specified spell level: Ph
 6332,,,Destruction,파괴,,,,,,0,0
 6333,,,Horrid Wilting,끔찍한 고사,,,,,,0,0
 6334,,,Ice Storm,얼음 폭풍,,,,,,0,0
-6335,,,Energy Buffer,에너지 완충기,,,,,,0,0
-6336,,,Negative Energy Burst,부정적 에너지 폭발,,,,,,0,0
-6337,,,Negative Energy Ray,부정적 에너지 광선,,,,,,0,0
+6335,,,Energy Buffer,에너지 감쇄,,,,,,0,0
+6336,,,Negative Energy Burst,음 에너지 폭발,,,,,,0,0
+6337,,,Negative Energy Ray,음 에너지 광선,,,,,,0,0
 6338,,,Aura of Vitality,활력의 오라,,,,,,0,0
 6339,,,War Cry,전장의 함성,,,,,,0,0
 6340,,,Regenerate,재생,,,,,,0,0
@@ -10784,16 +10784,16 @@ The cleric gains access to the following spells at the specified spell level: Ph
 6349,,,Horrid Wilting (15),끔찍한 고사 (15),,,,,,0,0
 6350,,,Horrid Wilting (20),끔찍한 고사 (20),,,,,,0,0
 6351,,,Ice Storm (9),얼음 폭풍 (9),,,,,,0,0
-6352,,,Energy Buffer (11),에너지 완충기 (11),,,,,,0,0
-6353,,,Energy Buffer (15),에너지 완충기 (15),,,,,,0,0
-6354,,,Energy Buffer (20),에너지 완충기 (20),,,,,,0,0
-6355,,,Negative Energy Burst (5),부정적 에너지 폭발 (5),,,,,,0,0
-6356,,,Negative Energy Burst (10),부정적 에너지 폭발 (10),,,,,,0,0
-6357,,,Negative Energy Ray (1),부정적 에너지 광선 (1),,,,,,0,0
-6358,,,Negative Energy Ray (3),부정적 에너지 광선 (3),,,,,,0,0
-6359,,,Negative Energy Ray (5),부정적 에너지 광선 (5),,,,,,0,0
-6360,,,Negative Energy Ray (7),부정적 에너지 광선 (7),,,,,,0,0
-6361,,,Negative Energy Ray (9),부정적 에너지 광선 (9),,,,,,0,0
+6352,,,Energy Buffer (11),에너지 감쇄 (11),,,,,,0,0
+6353,,,Energy Buffer (15),에너지 감쇄 (15),,,,,,0,0
+6354,,,Energy Buffer (20),에너지 감쇄 (20),,,,,,0,0
+6355,,,Negative Energy Burst (5),음 에너지 폭발 (5),,,,,,0,0
+6356,,,Negative Energy Burst (10),음 에너지 폭발 (10),,,,,,0,0
+6357,,,Negative Energy Ray (1),음 에너지 광선 (1),,,,,,0,0
+6358,,,Negative Energy Ray (3),음 에너지 광선 (3),,,,,,0,0
+6359,,,Negative Energy Ray (5),음 에너지 광선 (5),,,,,,0,0
+6360,,,Negative Energy Ray (7),음 에너지 광선 (7),,,,,,0,0
+6361,,,Negative Energy Ray (9),음 에너지 광선 (9),,,,,,0,0
 6362,,,Aura of Vitality (13),활력의 오라 (13),,,,,,0,0
 6363,,,War Cry (7),전장의 함성,,,,,,0,0
 6364,,,Regenerate (13),재생 (13),,,,,,0,0
@@ -10959,7 +10959,7 @@ Additional Counter Spells: True Seeing
 Save: Will and Fortitude
 Spell Resistance: Yes
 
-The caster conjures an image of utmost horror to strike down a single creature. The target may attempt a Will save to disbelieve the spell, avoiding all ill effects. Failing that, the target then makes a Fortitude save to avoid instant death. A successful save still inflicts 3d6 points of damage.","몽환적인 살인자(Phantasmal killer)\n시전자 레벨: 마법사/요술사 4\n기본 레벨: 4\n학파: 환영술\n주문 기술어: 공포, 정신영향\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 진실의 시야\n내성굴림: 의지굴림, 인내굴림\n주문 저항: 가능\n\n시전자는 단일 생명체에게 극도로 공포스러운 모습을 떠올리게 합니다. 대상이 의지굴림에 성공하면 주문을 믿지 않아 모든 악영향을 피할 수 있습니다. 실패하면 대상은 인내굴림을 하여 실패하면 즉시 사망합니다. 인내굴림에 성공한 경우에도 마법 피해를 받습니다.\n피해량: 3d6점의 마법 피해",,,,,,0,0
+The caster conjures an image of utmost horror to strike down a single creature. The target may attempt a Will save to disbelieve the spell, avoiding all ill effects. Failing that, the target then makes a Fortitude save to avoid instant death. A successful save still inflicts 3d6 points of damage.","몽환의 살인자(Phantasmal killer)\n시전자 레벨: 마법사/요술사 4\n기본 레벨: 4\n학파: 환영술\n주문 기술어: 공포, 정신영향\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 진실의 시야\n내성굴림: 의지굴림, 인내굴림\n주문 저항: 가능\n\n시전자는 단일 생명체에게 극도로 공포스러운 모습을 떠올리게 합니다. 대상이 의지굴림에 성공하면 주문을 믿지 않아 모든 악영향을 피할 수 있습니다. 실패하면 대상은 인내굴림을 하여 실패하면 즉시 사망합니다. 인내굴림에 성공한 경우에도 마법 피해를 받습니다.\n피해량: 3d6점의 마법 피해",,,,,,0,0
 6501,,,"Caster Level(s): Wizard / Sorcerer 6
 Innate Level: 6
 School: Conjuration
@@ -11124,7 +11124,7 @@ This spell opens a portal to the Elemental Plane of Shadow and draws forth a sha
 Level < 8: Greater shadow
 Level = 8 to 10: Shadow mastiff
 Level = 11 to 14: Shadow lord
-Level > 14: Shadow demon","그림자 소환(Summon shadow)\n기본 레벨: 4\n학파: 소환술\n주문 기술어:\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 지점\n지속 시간: 시전자 레벨 당 1시간\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n\n이 주문은 그림자 원소계와의 차원문을 열어 성실하고 충성스러운 종복인 그림자를 소환합니다. 환영술사는 이 주문을 그늘짐, 그림자 소환술, 상급 그림자 소환술 주문으로 사용할 수 있습니다. 소환되는 그림자의 종류는 시전자 레벨을 따릅니다.\n레벨 1 ~ 7: 그림자\n레벨 8 ~ 10: 그림자 투견\n레벨 11 ~ 14: 그림자 마귀\n레벨 15 이상: 그림자 군주",,,,,,0,0
+Level > 14: Shadow demon","그림자 소환(Summon shadow)\n기본 레벨: 4\n학파: 소환술\n주문 기술어:\n구성: 음성, 동작\n사거리: 8미터\n효과 범위 / 대상: 지점\n지속 시간: 시전자 레벨 당 1시간\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n\n이 주문은 그림자 원소계와의 차원문을 열어 성실하고 충성스러운 종복인 그림자를 소환합니다. 환영술사는 이 주문을 음영, 그림자 소환술, 상급 그림자 소환술 주문으로 사용할 수 있습니다. 소환되는 그림자의 종류는 시전자 레벨을 따릅니다.\n레벨 1 ~ 7: 그림자\n레벨 8 ~ 10: 그림자 투견\n레벨 11 ~ 14: 그림자 마귀\n레벨 15 이상: 그림자 군주",,,,,,0,0
 6515,,,"Caster Level(s): Cleric 8, Druid 8
 Innate Level: 8
 School: Evocation
@@ -11189,7 +11189,7 @@ Additional Counter Spells: Negative Energy Protection
 Save: None
 Spell Resistance: Yes
 
-The target creature takes 1d6 points of damage for every 2 caster levels (maximum 10d6). This damage is then applied to the caster's hit points as a temporary bonus. You can't gain more temporary hit points than what is required to kill the target (target's current hit points +10).","흡혈귀의 손길(Vampiric touch)\n시전자 레벨: 마법사/요술사 3\n기본 레벨: 3\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 부정적 에너지 보호\n내성굴림: 없음\n주문 저항: 가능\n\n대상이 살아있는 생명체인 경우 접촉 공격에 성공하면 대상 생명체는 부정적 에너지 피해를 입습니다. 시전자는 피해량 만큼 임시 HP를 얻습니다. 대상을 죽이는데 필요한 피해량(대상의 현재 HP + 10) 보다 많은 양의 임시 HP를 얻을 수 없습니다.",,,,,,0,0
+The target creature takes 1d6 points of damage for every 2 caster levels (maximum 10d6). This damage is then applied to the caster's hit points as a temporary bonus. You can't gain more temporary hit points than what is required to kill the target (target's current hit points +10).","흡혈귀의 손길(Vampiric touch)\n시전자 레벨: 마법사/요술사 3\n기본 레벨: 3\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문: 음 에너지 보호\n내성굴림: 없음\n주문 저항: 가능\n\n대상이 살아있는 생명체인 경우 접촉 공격에 성공하면 대상 생명체는 음 에너지 피해를 입습니다. 시전자는 피해량 만큼 임시 HP를 얻습니다. 대상을 죽이는데 필요한 피해량(대상의 현재 HP + 10) 보다 많은 양의 임시 HP를 얻을 수 없습니다.",,,,,,0,0
 6520,,,"Caster Level(s): Cleric 0, Druid 0, Paladin 1
 Innate Level: 0
 School: Transmutation
@@ -11397,7 +11397,7 @@ Additional Counter Spells:
 Save: Harmless
 Spell Resistance: No
 
-The caster gains damage resistance 40/- against all elemental forms of damage. The spell ends after absorbing 60 points of damage from any single elemental type.","에너지 완충기(Energy buffer)\n시전자 레벨: 음유시인 6, 드루이드 6, 요술사 / 마법사 5\n기본 레벨: 5\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 개인\n효과 범위 / 대상: 시전자\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n시전자는 원소 공격에 대해 40/-의 피해저항을 얻습니다. 이 주문은 단일 원소에 대해 60점의 피해를 흡수하면 끝나게 됩니다.",,,,,,0,0
+The caster gains damage resistance 40/- against all elemental forms of damage. The spell ends after absorbing 60 points of damage from any single elemental type.","에너지 감쇄(Energy buffer)\n시전자 레벨: 음유시인 6, 드루이드 6, 요술사 / 마법사 5\n기본 레벨: 5\n학파: 방호술\n주문 기술어:\n구성: 음성, 동작\n사거리: 개인\n효과 범위 / 대상: 시전자\n지속 시간: 시전자 레벨 당 1턴\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n시전자는 원소 공격에 대해 40/-의 피해저항을 얻습니다. 이 주문은 단일 원소에 대해 60점의 피해를 흡수하면 끝나게 됩니다.",,,,,,0,0
 6536,,,"Caster Level(s): Wizard / Sorcerer 3
 Innate Level: 3
 School: Necromancy
@@ -11410,7 +11410,7 @@ Additional Counter Spells: Negative Energy Protection
 Save: Will 1/2
 Spell Resistance: Yes
 
-All creatures caught in the area of effect take 1d8 points of negative energy damage, +1 per caster level, to a maximum of +20. All creatures caught in the area also lose 1 point of strength per 4 caster levels. Negative energy spells have a reverse effect on undead, healing instead of harming them.","부정적 에너지 폭발(Negative energy burst)\n시전자 레벨: 마법사/요술사 3\n기본 레벨: 3\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 즉시\n추가 역주문: 부정적 에너지 보호\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n효과 영역 내의 모든 생명체는 부정적 에너지 피해를 받고 시전자 4레벨 당 1점의 근력을 잃습니다. 부정적 에너지 주문은 언데드에게는 역효과로 피해대신 치유 합니다.\n피해량: [1d8 + 시전자 레벨 당 +1(최대 +20)]점의 부정적 에너지 피해",,,,,,0,0
+All creatures caught in the area of effect take 1d8 points of negative energy damage, +1 per caster level, to a maximum of +20. All creatures caught in the area also lose 1 point of strength per 4 caster levels. Negative energy spells have a reverse effect on undead, healing instead of harming them.","음 에너지 폭발(Negative energy burst)\n시전자 레벨: 마법사/요술사 3\n기본 레벨: 3\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 즉시\n추가 역주문: 음 에너지 보호\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n효과 영역 내의 모든 생명체는 음 에너지 피해를 받고 시전자 4레벨 당 1점의 근력을 잃습니다. 음 에너지 주문은 언데드에게는 역효과로 피해대신 치유 합니다.\n피해량: [1d8 + 시전자 레벨 당 +1(최대 +20)]점의 음 에너지 피해",,,,,,0,0
 6537,,,"Caster Level(s): Cleric 2, Wizard / Sorcerer 1
 Innate Level: 1
 School: Necromancy
@@ -11423,7 +11423,7 @@ Additional Counter Spells:
 Save: Will 1/2
 Spell Resistance: Yes
 
-A ray of negative energy slams into the target creature, doing 1d6 points of damage. After level 1, the spell does an additional 1d6 points of damage for every 2 caster levels, to a maximum of 5d6 at level 9. Negative energy spells have a reverse effect on undead, healing instead of harming them.","부정적 에너지 광선(Negative Energy Ray)\n시전자 레벨: 성직자 2, 마법사/요술사 1\n기본 레벨: 1\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n부정적 에너지 광선이 대상 생명체를 부딛혀 피해를 입힙니다. 부정적 에너지 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다.\n피해량: [1d6 + 1레벨 이후 시전자 2레벨 당 +1d6(최대 +4d6)]점의 부정적 에너지 피해",,,,,,0,0
+A ray of negative energy slams into the target creature, doing 1d6 points of damage. After level 1, the spell does an additional 1d6 points of damage for every 2 caster levels, to a maximum of 5d6 at level 9. Negative energy spells have a reverse effect on undead, healing instead of harming them.","음 에너지 광선(Negative Energy Ray)\n시전자 레벨: 성직자 2, 마법사/요술사 1\n기본 레벨: 1\n학파: 강령술\n주문 기술어: 부정\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 의지굴림 성공 시 절반\n주문 저항: 가능\n\n음 에너지 광선이 대상 생명체를 부딛혀 피해를 입힙니다. 음 에너지 주문은 언데드에게는 역효과로 피해대신 피해량 만큼 치유를 합니다.\n피해량: [1d6 + 1레벨 이후 시전자 2레벨 당 +1d6(최대 +4d6)]점의 음 에너지 피해",,,,,,0,0
 6538,,,"Caster Level(s): Druid 7
 Innate Level: 7
 School: Transmutation
@@ -11529,7 +11529,7 @@ Direct Damage: Bolt of Acid, Bolt of Cold, Bolt of Fire, Bolt of Lightning, Bolt
 Mind-Affecting: Bolt of Charm, Bolt of Confusion, Bolt of Domination, Bolt of Stunning, Bolt of Dazing.
 Negative Energy: Bolt of Death, Bolt of Level Drain, Bolt of Charisma, Bolt of Constitution damage, Bolt of Dexterity damage, Bolt of Strength damage, Bolt of Wisdom damage, or Bolt of Intelligence damage.
 Movement Impeding: Bolt of Slowness, Bolt of Webbing, Bolt of Paralysis.
-Miscellaneous: Bolt of Disease, Bolt of Poison, Salt Mephit Breath (1d4 Damage, -2 to Attack, -4 to Armor Class for 3 rounds), Steam Mephit Breath (1d4 Damage, -2 Attack and -4 to Armor Class for 3 rounds).","난이도(DC), 해당되는 경우: 10 + 2 생명점 주사위(HD) 당 1\n지속 시간, 해당되는 경우: 2 생명점 주사위(HD) 당 1 라운드\n피해, 해당되는 경우: 1d2 생명점 주사위(HD) 당 6\n\n쇠뇌화살은 피해를 입히거나 단일 대상 생명체에 부정적인 영향을 줍니다. 쇠뇌화살은 매혹, 지배, 능력 피해, 마비, 독, 둔화, 휘감기와 같은 더 특수한 효과를 주거나 피해를 입힐 수 있습니다. 게임에서 사용할 수 있는 쇠뇌화살 유형은 다음과 같습니다:\n\n직접 피해: 산성의 쇠뇌화살, 냉기의 쇠뇌화살, 화염의 쇠뇌화살, 번개의 쇠뇌화살, 파편의 쇠뇌화살\n정신영향: 매혹의 쇠뇌화살, 혼란의 쇠뇌화살, 지배의 쇠뇌화살, 기절의 쇠뇌화살, 혼미의 쇠뇌화살\n부정적 에너지: 죽음의 쇠뇌화살, 레벨 배출의 쇠뇌화살, 매력 피해의 쇠뇌화살, 체질 피해의 쇠뇌화살, 민첩 피해의 쇠뇌화살, 근력 피해의 쇠뇌화살, 지혜 피해의 쇠뇌화살, 지능 피해의 쇠뇌화살\n이동 방해: 둔화의 쇠뇌화살, 거미줄의 쇠뇌화살, 마비의 쇠뇌화살\n기타: 질병의 쇠뇌화살, 독의 쇠뇌화살, 메피트 숨결 소금 (1d4 산성 피해, -2 명중굴림, 3라운드 간 -2 방어도(AC)), 메피트 숨결 증기 (1d4 화염 피해, -2 명중굴림, 3라운드 간 -4 방어도(AC)).",,,,,,0,0
+Miscellaneous: Bolt of Disease, Bolt of Poison, Salt Mephit Breath (1d4 Damage, -2 to Attack, -4 to Armor Class for 3 rounds), Steam Mephit Breath (1d4 Damage, -2 Attack and -4 to Armor Class for 3 rounds).","난이도(DC), 해당되는 경우: 10 + 2 생명점 주사위(HD) 당 1\n지속 시간, 해당되는 경우: 2 생명점 주사위(HD) 당 1 라운드\n피해, 해당되는 경우: 1d2 생명점 주사위(HD) 당 6\n\n쇠뇌화살은 피해를 입히거나 단일 대상 생명체에 부정적인 영향을 줍니다. 쇠뇌화살은 매혹, 지배, 능력 피해, 마비, 독, 둔화, 휘감기와 같은 더 특수한 효과를 주거나 피해를 입힐 수 있습니다. 게임에서 사용할 수 있는 쇠뇌화살 유형은 다음과 같습니다:\n\n직접 피해: 산성의 쇠뇌화살, 냉기의 쇠뇌화살, 화염의 쇠뇌화살, 번개의 쇠뇌화살, 파편의 쇠뇌화살\n정신영향: 매혹의 쇠뇌화살, 혼란의 쇠뇌화살, 지배의 쇠뇌화살, 기절의 쇠뇌화살, 혼미의 쇠뇌화살\n음 에너지: 죽음의 쇠뇌화살, 레벨 배출의 쇠뇌화살, 매력 피해의 쇠뇌화살, 체질 피해의 쇠뇌화살, 민첩 피해의 쇠뇌화살, 근력 피해의 쇠뇌화살, 지혜 피해의 쇠뇌화살, 지능 피해의 쇠뇌화살\n이동 방해: 둔화의 쇠뇌화살, 거미줄의 쇠뇌화살, 마비의 쇠뇌화살\n기타: 질병의 쇠뇌화살, 독의 쇠뇌화살, 메피트 숨결 소금 (1d4 산성 피해, -2 명중굴림, 3라운드 간 -2 방어도(AC)), 메피트 숨결 증기 (1d4 화염 피해, -2 명중굴림, 3라운드 간 -4 방어도(AC)).",,,,,,0,0
 6547,,,"Difficulty Class, where applicable: 10 +1 for every 2 HD.
 Damage, where applicable: 2d6 for every 3 HD.
 
@@ -11575,7 +11575,7 @@ Mind-Affecting: Charm, Confusion, Daze, Dominate, Fear, Stun.
 Negative Energy: Doom, Death, Destroy Law, Destroy Good.
 Positive Energy: Destroy Evil, Destroy Chaos.
 Movement Impeding: Paralysis.
-Miscellaneous: Krenshar Fear Gaze (DC 12, 3 round duration).","난이도(DC), 해당되는 경우: 10 + 2 생명점 주사위(HD) 당 1\n피해: 없음\n지속 시간, 해당되는 경우: 1 라운드 + 3 생명점 주사위(HD) 당 1\n\n응시 공격은 원뿔 모양의 효과 영역을 가지며 대상에게 직접 피해를 입히지 않습니다. 게임에서 사용할 수 있는 응시 공격 유형은 다음과 같습니다:\n\n정신영향: 매혹, 혼란, 혼미, 지배, 공포, 기절\n부정적 에너지: 파멸, 죽음, 질서 파괴, 선 파괴\n긍정적 에너지: 악 파괴, 혼돈 파괴\n이동 방해: 마비\n기타: 크렌샤의 공포 응시 (난이도(DC) 12, 3라운드 동안)",,,,,,0,0
+Miscellaneous: Krenshar Fear Gaze (DC 12, 3 round duration).","난이도(DC), 해당되는 경우: 10 + 2 생명점 주사위(HD) 당 1\n피해: 없음\n지속 시간, 해당되는 경우: 1 라운드 + 3 생명점 주사위(HD) 당 1\n\n응시 공격은 원뿔 모양의 효과 영역을 가지며 대상에게 직접 피해를 입히지 않습니다. 게임에서 사용할 수 있는 응시 공격 유형은 다음과 같습니다:\n\n정신영향: 매혹, 혼란, 혼미, 지배, 공포, 기절\n음 에너지: 파멸, 죽음, 질서 파괴, 선 파괴\n양 에너지: 악 파괴, 혼돈 파괴\n이동 방해: 마비\n기타: 크렌샤의 공포 응시 (난이도(DC) 12, 3라운드 동안)",,,,,,0,0
 6551,,,"Difficulty Class, where applicable: 10 + 1 for every 4 HD.
 Damage, where applicable: 1d6 + 1d6 for every 4 HD.
 Duration, where applicable: 1 round + 1 for every 4 HD.
@@ -11586,7 +11586,7 @@ Direct Damage: Sonic.
 Mind-Affecting: Confuse, Daze, Fear, Stun.
 Negative Energy: Doom, Death.
 Movement Impeding: Paralysis.
-Miscellaneous: Trumpet Archon Blast (Difficulty Class of 19, Paralysis for 1d4 Rounds).","난이도(DC), 해당되는 경우: 10 + 4 생명점 주사위(HD) 당 1\n피해, 해당되는 경우: 1d6 + 1d4 생명점 주사위(HD) 당 6\n지속 시간, 해당되는 경우: 1라운드 + 4 생명점 주사위(HD) 당 1\n\n울부짖음은 모두 소리 기반 공격으로, 괴물은 목소리로 대상을 해칠 수 있습니다. 울부짖음의 효과 영역은 반경 9미터입니다. 울부짖음 공격은 효과의 범위가 넓지만 저항하기 쉽고 다른 공격 형태만큼 오래 지속되지는 않습니다. 게임에서 사용할 수 있는 울부짖음 공격 유형은 다음과 같습니다:\n\n직접 피해: 소리\n정신영향: 혼란, 혼미, 공포, 기절\n부정적 에너지: 파멸, 죽음\n이동 방해: 마비\n기타: 나팔 집정관 폭발 (난이도(DC) 19, 1d4라운드 간 마비)",,,,,,0,0
+Miscellaneous: Trumpet Archon Blast (Difficulty Class of 19, Paralysis for 1d4 Rounds).","난이도(DC), 해당되는 경우: 10 + 4 생명점 주사위(HD) 당 1\n피해, 해당되는 경우: 1d6 + 1d4 생명점 주사위(HD) 당 6\n지속 시간, 해당되는 경우: 1라운드 + 4 생명점 주사위(HD) 당 1\n\n울부짖음은 모두 소리 기반 공격으로, 괴물은 목소리로 대상을 해칠 수 있습니다. 울부짖음의 효과 영역은 반경 9미터입니다. 울부짖음 공격은 효과의 범위가 넓지만 저항하기 쉽고 다른 공격 형태만큼 오래 지속되지는 않습니다. 게임에서 사용할 수 있는 울부짖음 공격 유형은 다음과 같습니다:\n\n직접 피해: 소리\n정신영향: 혼란, 혼미, 공포, 기절\n음 에너지: 파멸, 죽음\n이동 방해: 마비\n기타: 나팔 집정관 폭발 (난이도(DC) 19, 1d4라운드 간 마비)",,,,,,0,0
 6552,,,"Difficulty Class, where applicable: 10 + 1 for every HD.
 Damage, where applicable: 1d6 per HD.
 Duration, where applicable: 1 round per HD.
@@ -11596,7 +11596,7 @@ Pulse attacks are the most dangerous form of creature attack. A Pulse is a devas
 Direct Damage: Drowning Wave, Fire, Lightning, Cold.
 Negative Energy: Negative Energy Damage, Death, Level Drain, Ability Drain: Charisma, Ability Drain: Constitution, Ability Drain: Intelligence, Ability Drain: Dexterity or Ability Drain: Wisdom.
 Positive Energy: Holy Light.
-Miscellaneous: Whirlwind, Disease, Vrock Spores, Poison, Bolster Undead (grants all undead in the area of effect a +2 to their Turn Resistance).","난이도(DC), 해당되는 경우: 10 + 생명점 주사위(HD) 당 1\n피해, 해당되는 경우: 생명점 주사위(HD) 당 1d6\n지속 시간, 해당되는 경우: 생명점 주사위(HD) 당 1\n\n파동 공격은 생명체의 공격 형태 중 가장 위험합입니다. 파동은 아군과 적을 가리지 않고 3미터 반경 이내의 모든 생명체에게 영향을 미치는 파괴적인 에너지 물결입니다. 게임에서 사용할 수 있는 파동 유형은 다음과 같습니다:\n\n직접 피해: 익사의 물결, 화염, 번개, 냉기\n부정적 에너지: 부정적 에너지 피해, 죽음, 레벨 배출, 능력 배출: 매력, 능력 배출: 체질, 능력 배출: 지능, 능력 배출: 민첩, 능력 배출: 지혜\n긍정적 에너지: 신성한 빛\n기타: 회오리, 질병, 브록 포자, 독, 언데드를 북돋는 (효과 범위 내의 모든 언데드에게 +2의 퇴치 저항을 제공)",,,,,,0,0
+Miscellaneous: Whirlwind, Disease, Vrock Spores, Poison, Bolster Undead (grants all undead in the area of effect a +2 to their Turn Resistance).","난이도(DC), 해당되는 경우: 10 + 생명점 주사위(HD) 당 1\n피해, 해당되는 경우: 생명점 주사위(HD) 당 1d6\n지속 시간, 해당되는 경우: 생명점 주사위(HD) 당 1\n\n파동 공격은 생명체의 공격 형태 중 가장 위험합입니다. 파동은 아군과 적을 가리지 않고 3미터 반경 이내의 모든 생명체에게 영향을 미치는 파괴적인 에너지 물결입니다. 게임에서 사용할 수 있는 파동 유형은 다음과 같습니다:\n\n직접 피해: 익사의 물결, 화염, 번개, 냉기\n음 에너지: 음 에너지 피해, 죽음, 레벨 배출, 능력 배출: 매력, 능력 배출: 체질, 능력 배출: 지능, 능력 배출: 민첩, 능력 배출: 지혜\n양 에너지: 신성한 빛\n기타: 회오리, 질병, 브록 포자, 독, 언데드를 북돋는 (효과 범위 내의 모든 언데드에게 +2의 퇴치 저항을 제공)",,,,,,0,0
 6553,,,"Lesser Body Adjustment (heals self for 1d8 + 1 for every caster level, to a maximum of +5)","하급 신체 조정([1d8 + 시전자 레벨 당 1, 최대 5] 만큼 자가 치유)",,,,,,0,0
 6554,,,"Summoning abilities allow creatures to enlist the aid of extraplanar allies at will. The following types of Summons are available in the game:
 
@@ -11664,7 +11664,7 @@ Summon Slaadi: A percentage chance of summoning a red slaad or green slaad accor
 6615,,,Create,생성,,,,,,0,0
 6616,,,Split,분리,,,,,,0,0
 6617,,,Frost,서리,,,,,,0,0
-6618,,,Acid Splash,산성 끼얹기,,,,,,0,0
+6618,,,Acid Splash,산성 분사,,,,,,0,0
 6619,,,Sonic,소리,,,,,,0,0
 6620,,,Negative,부정적,,,,,,0,0
 6621,,,Please enter a name for this save game.,저장할 게임의 이름을 입력하세요.,,,,,,0,0
@@ -11951,10 +11951,10 @@ The target creature gains damage resistance 10/- against all elemental forms of 
 6883,,,"Sonic Trap, Average",일반 소리 함정,,,,,,0,0
 6884,,,"Sonic Trap, Strong",강력한 소리 함정,,,,,,0,0
 6885,,,"Sonic Trap, Deadly",살인적인 소리 함정,,,,,,0,0
-6886,,,"Acid Splash Trap, Minor",약한 산성 끼얹기 함정,,,,,,0,0
-6887,,,"Acid Splash Trap, Average",일반 산성 끼얹기 함정,,,,,,0,0
-6888,,,"Acid Splash Trap, Strong",강력한 산성 끼얹기 함정,,,,,,0,0
-6889,,,"Acid Splash Trap, Deadly",살인적인 산성 끼얹기 함정,,,,,,0,0
+6886,,,"Acid Splash Trap, Minor",약한 산성 분사 함정,,,,,,0,0
+6887,,,"Acid Splash Trap, Average",일반 산성 분사 함정,,,,,,0,0
+6888,,,"Acid Splash Trap, Strong",강력한 산성 분사 함정,,,,,,0,0
+6889,,,"Acid Splash Trap, Deadly",살인적인 산성 분사 함정,,,,,,0,0
 6890,,,Ambient,주위의,,,,,,0,0
 6891,,,Positional,위치,,,,,,0,0
 6892,,,Random Positional,임의의 위치,,,,,,0,0
@@ -13475,7 +13475,7 @@ A tile may have up to 2 source lights. An example of a source light would be tor
 8078,,,Polymorphed,변신함,,,,,,0,0
 8079,,,Sanctuary,성역,,,,,,0,0
 8080,,,True Seeing,진실의 시야,,,,,,0,0
-8081,,,See Invisibility,투명체 보기,,,,,,0,0
+8081,,,See Invisibility,투명 간파,,,,,,0,0
 8082,,,Time Stop,시간 정지,,,,,,0,0
 8083,,,Blind,실명,,,,,,0,0
 8084,,,Spell Level Absorption,주문 레벨 흡수,,,,,,0,0
@@ -13518,7 +13518,7 @@ You can add HAK files to the list of options in the dropdown list by downloading
 8108,,,Pay attention!,주목!,,,,,,0,0
 8109,,,Everyone gather around me.,모두 내 주위에 모여.,,,,,,0,0
 8110,,,"Stand aside, peasant.","저리 비켜, 멍청아.",,,,,,0,0
-8111,,,This mechanical device doesn't merit the energy of a knock spell. One of you deal with it.,이 기계 장치는 문 두드리기 주문을 쓸 만한 가치가 없어. 당신 중 하나가 처리하면 돼.,,,,,,0,0
+8111,,,This mechanical device doesn't merit the energy of a knock spell. One of you deal with it.,이 기계 장치는 개방 주문을 쓸 만한 가치가 없어. 당신 중 하나가 처리하면 돼.,,,,,,0,0
 8112,,,"Don't just stand there, look around more carefully.",그냥 서 있지 말고 자세히 좀 둘러봐봐.,,,,,,0,0
 8113,,,"Do I have to waste an invisibility spell, or do you think you can manage to stay hidden?","내가 투명화 주문을 낭비해야 할까, 아니면 당신이 그냥 숨는게 좋을까?",,,,,,0,0
 8114,,,Electricity,전기,,,,,,0,0
@@ -13688,7 +13688,7 @@ Are you sure you want to continue?","저장하지 않으시면, 현재의 게임
 8245,,,"Look over here, quickly!","여기 좀 봐, 빨리!",,,,,,0,0
 8246,,,All of us should come together at once.,우리 모두 하나로 모여야 해.,,,,,,0,0
 8247,,,"Please move over, won't you?",좀 비켜주지 않을래?,,,,,,0,0
-8248,,,"Hmm, this won't open. Does anyone have a knock spell?","흠, 이거 안 열리는군. 혹시 문 두드리기 주문이 있는 사람 없어?",,,,,,0,0
+8248,,,"Hmm, this won't open. Does anyone have a knock spell?","흠, 이거 안 열리는군. 혹시 개방 주문이 있는 사람 없어?",,,,,,0,0
 8249,,,"I don't see anything around, but maybe you might!","주변엔 아무것도 안 보이지만, 어쩌면 뭔가 있을지도 몰라!",,,,,,0,0
 8250,,,"Even though this seems to call for stealth, I think we should charge ahead!","이게 잠행을 요구하는 것 같아도, 내 생각엔 우리가 앞으로 돌격해야 될 것 같아!",,,,,,0,0
 8251,,,Of course I can do that!,당연히 할 수 있지!,,,,,,0,0
@@ -14252,7 +14252,7 @@ Use: Cast.","초월적 주문: 초월적 마법학자 갑옷(Epic spell: epic ma
 Prerequisites: 21st level, the ability to cast 9th level spells and 25 ranks in spellcraft.
 Specifics: The caster deals 35d6 energy damage to a single target.
 Save: Fortitude for half damage.
-Use: Cast.","초월적 주문: 상급 붕괴(Epic spell: greater ruin)\n재주 유형: 초월적 주문\n선결 조건: 레벨 21, 9레벨 주문 시전 능력, 주문숙련 등급 25\n세부 사항: 시전자는 하루에 한번 단일 대상에게 35d6점의 긍정적 에너지 피해를 입히는 상급 붕괴 주문을 사용할 수 있습니다.\n사용: 시전",,,,,,0,0
+Use: Cast.","초월적 주문: 상급 붕괴(Epic spell: greater ruin)\n재주 유형: 초월적 주문\n선결 조건: 레벨 21, 9레벨 주문 시전 능력, 주문숙련 등급 25\n세부 사항: 시전자는 하루에 한번 단일 대상에게 35d6점의 양 에너지 피해를 입히는 상급 붕괴 주문을 사용할 수 있습니다.\n사용: 시전",,,,,,0,0
 8679,,,Enchant Arrow I,화살 강화 1,,,,,,0,0
 8680,,,"Type of Feat: Class
 Prerequisite: Arcane Archer.
@@ -15074,13 +15074,13 @@ These packages do not give any special abilities to your character; they simply 
 9093,,,Flare (1),섬광 (1),,,,,,0,0
 9094,,,Shield (5),방패 (5),,,,,,0,0
 9095,,,Entropic Shield (5),혼돈의 보호막 (5),,,,,,0,0
-9096,,,Continual Flame (7),계속되는 불꽃 (7),,,,,,0,0
+9096,,,Continual Flame (7),영속 불꽃 (7),,,,,,0,0
 9097,,,One With The Land (7),대지와 하나됨 (7),,,,,,0,0
 9098,,,Camouflage (5),위장 (5),,,,,,0,0
 9099,,,Blood Frenzy (7),피의 광란 (7),,,,,,0,0
 9100,,,Bombardment (20),포격 (20),,,,,,0,0
-9101,,,Acid Splash (1),산성 끼얹기 (1),,,,,,0,0
-9102,,,Quillfire (8),깃날리기 (8),,,,,,0,0
+9101,,,Acid Splash (1),산성 분사 (1),,,,,,0,0
+9102,,,Quillfire (8),가시 발사 (8),,,,,,0,0
 9103,,,Earthquake (20),지진 (20),,,,,,0,0
 9104,,,Sunburst (20),태양폭발 (20),,,,,,0,0
 9105,,,Aura Of Glory (7),영광의 오라 (7),,,,,,0,0
@@ -15095,7 +15095,7 @@ These packages do not give any special abilities to your character; they simply 
 9114,,,Owl's Insight (15),올빼미의 통찰력 (15),,,,,,0,0
 9115,,,Electric Jolt (1),전기 충격 (1),,,,,,0,0
 9116,,,Firebrand (15),낙인 (15),,,,,,0,0
-9117,,,Wounding Whispers (9),상처입히는 속삭임 (9),,,,,,0,0
+9117,,,Wounding Whispers (9),상처의 속삭임 (9),,,,,,0,0
 9118,,,Amplify (5),증폭 (5),,,,,,0,0
 9119,,,Greater Sanctuary (18),상급 성역 (18),,,,,,0,0
 9120,,,Undeaths Eternal Foe (20),불사의 영원한 적 (20),,,,,,0,0
@@ -16137,7 +16137,7 @@ If you wish to keep your changes, you will have to do one of the following:
 10118,,,Pay attention!,주목!,,,,,,0,0
 10119,,,Everyone gather around me.,모두 내 주위에 모여.,,,,,,0,0
 10120,,,"Stand aside, peasant.","저리 비켜, 멍청아.",,,,,,0,0
-10121,,,This mechanical device doesn't merit the energy of a knock spell. One of you deal with it.,이 기계 장치는 문 두드리기 주문을 쓸 만한 가치가 없어. 당신 중 하나가 처리하면 돼.,,,,,,0,0
+10121,,,This mechanical device doesn't merit the energy of a knock spell. One of you deal with it.,이 기계 장치는 개방 주문을 쓸 만한 가치가 없어. 당신 중 하나가 처리하면 돼.,,,,,,0,0
 10122,,,"Don't just stand there, look around more carefully.",그냥 서 있지 말고 자세히 좀 둘러봐봐.,,,,,,0,0
 10123,,,"Do I have to waste an invisibility spell, or do you think you can manage to stay hidden?","내가 투명화 주문을 낭비해야 할까, 아니면 당신이 그냥 숨는게 좋을까?",,,,,,0,0
 10124,,,Of course I can do that!,당연히 할 수 있지!,,,,,,0,0
@@ -16178,7 +16178,7 @@ If you wish to keep your changes, you will have to do one of the following:
 10159,,,"Look over here, quickly!","여기 좀 봐, 빨리!",,,,,,0,0
 10160,,,All of us should come together at once.,우리 모두 하나로 모여야 해.,,,,,,0,0
 10161,,,"Please move over, won't you?",좀 비켜주지 않을래?,,,,,,0,0
-10162,,,"Hmm, this won't open. Does anyone have a knock spell?","흠, 이거 안 열리는군. 혹시 문 두드리기 주문이 있는 사람 없어?",,,,,,0,0
+10162,,,"Hmm, this won't open. Does anyone have a knock spell?","흠, 이거 안 열리는군. 혹시 개방 주문이 있는 사람 없어?",,,,,,0,0
 10163,,,"I don't see anything around, but maybe you might!","주변엔 아무것도 안 보이지만, 어쩌면 뭔가 있을지도 몰라!",,,,,,0,0
 10164,,,"Even though this seems to call for stealth, I think we should charge ahead!","이게 잠행을 요구하는 것 같아도, 내 생각엔 우리가 앞으로 돌격해야 될 것 같아!",,,,,,0,0
 10165,,,Of course I can do that!,당연히 할 수 있지!,,,,,,0,0
@@ -16486,8 +16486,8 @@ available at this level.",이 레벨에서 \n구할 수 있는 주문이 더 없
 10460,,,<CUSTOM0> Divine,<CUSTOM0> 신성,,,,,,0,0
 10461,,,<CUSTOM0> Electrical,<CUSTOM0> 전기,,,,,,0,0
 10462,,,<CUSTOM0> Fire,<CUSTOM0> 화염,,,,,,0,0
-10463,,,<CUSTOM0> Negative Energy,<CUSTOM0> 부정적 에너지,,,,,,0,0
-10464,,,<CUSTOM0> Positive Energy,<CUSTOM0> 긍정적 에너지,,,,,,0,0
+10463,,,<CUSTOM0> Negative Energy,<CUSTOM0> 음 에너지,,,,,,0,0
+10464,,,<CUSTOM0> Positive Energy,<CUSTOM0> 양 에너지,,,,,,0,0
 10465,,,<CUSTOM0> Sonic,<CUSTOM0> 소리,,,,,,0,0
 10466,,,<CUSTOM0> damages <CUSTOM1>: <CUSTOM2>,<CUSTOM0>이(가) <CUSTOM1>에게 피해를 입혔습니다: <CUSTOM2>,,,,,,0,0
 10468,,,Acquired Item: <CUSTOM0>,획득한 아이템: <CUSTOM0>,,,,,,0,0
@@ -18047,7 +18047,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13427,,,Potion of Bless,축복의 물약,,,,,,0,0
 13428,,,"With their ability to smooth the complexion, gloss the hair, and brighten the eyes, these potions find regular use among the nobility. But it shall make anyone more comely.","안색은 부드럽게 만들고, 머리칼은 윤기나게 만들며, 눈을 반짝이게 만드는 능력으로 인해, 이 물약은 귀족들이 자주 사용합니다. 하지만 누구라도 더 아름답게 만들 겁니다.",,,,,,0,0
 13429,,,Potion of Eagle's Splendor,독수리의 위엄 물약,,,,,,0,0
-13430,,,"This potion restores life force drained by creatures that channel negative energy. The murky liquid glows when brought near a living being, but the ingredients are impossible to discern.","이 물약을 사용하면 부정적 에너지를 연결하는 생명체에 의해 배출당한 생명력을 회복합니다. 이 탁한 액체는 살아 있는 것에 가까워지면 빛을 내지만, 재료를 분간하기란 불가능합니다.",,,,,,0,0
+13430,,,"This potion restores life force drained by creatures that channel negative energy. The murky liquid glows when brought near a living being, but the ingredients are impossible to discern.","이 물약을 사용하면 음 에너지를 연결하는 생명체에 의해 배출당한 생명력을 회복합니다. 이 탁한 액체는 살아 있는 것에 가까워지면 빛을 내지만, 재료를 분간하기란 불가능합니다.",,,,,,0,0
 13431,,,Potion of Lesser Restoration,하급 회복의 물약,,,,,,0,0
 13432,,,"This potion is a wonderful restorative, healing damage and curing most ill effects as though by a Heal spell. The flask is light, and only the tightly corked seal suggests there is liquid within.",이 물약은 완치 주문과 같이 놀라운 회복력으로 피해를 치료하며 대부분의 유해한 효과를 치유하는 효과가 있습니다. 유리병은 가벼워서 꽉 밀폐된 코르크 마개만이 안에 액체가 있다는 것을 암시하고 있습니다.,,,,,,0,0
 13433,,,Potion of Heal,완치의 물약,,,,,,0,0
@@ -18172,7 +18172,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13551,,,Melf's Acid Arrow,멜프의 산성 화살,,,,,,0,0
 13552,,,Summon Creature II,생명체 소환 2,,,,,,0,0
 13553,,,Web,거미줄,,,,,,0,0
-13554,,,See Invisibility,투명체 보기,,,,,,0,0
+13554,,,See Invisibility,투명 간파,,,,,,0,0
 13555,,,Darkness,암흑,,,,,,0,0
 13556,,,Invisibility,투명화,,,,,,0,0
 13557,,,Ghostly Visage,유령의 형상,,,,,,0,0
@@ -18183,7 +18183,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13562,,,Cat's Grace,고양이의 우아함,,,,,,0,0
 13563,,,Darkvision,암시야,,,,,,0,0
 13564,,,Endurance,지구력,,,,,,0,0
-13565,,,Knock,문 두드리기,,,,,,0,0
+13565,,,Knock,개방,,,,,,0,0
 13566,,,Clarity,맑은 정신,,,,,,0,0
 13567,,,Lesser Dispel,하급 주문해제,,,,,,0,0
 13568,,,Dispel Magic,주문해제,,,,,,0,0
@@ -18208,7 +18208,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13587,,,Confusion,혼란,,,,,,0,0
 13588,,,Wall of Fire,불의 장벽,,,,,,0,0
 13589,,,Improved Invisibility,우수한 투명화,,,,,,0,0
-13590,,,Phantasmal Killer,몽환적인 살인자,,,,,,0,0
+13590,,,Phantasmal Killer,몽환의 살인자,,,,,,0,0
 13591,,,Shadow Conjuration,그림자 소환술,,,,,,0,0
 13592,,,Contagion,역병,,,,,,0,0
 13593,,,Enervation,쇠약,,,,,,0,0
@@ -18227,7 +18227,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13606,,,Greater Shadow Conjuration,상급 그림자 소환술,,,,,,0,0
 13607,,,Animate Dead,시체 조종,,,,,,0,0
 13608,,,Summon Creature V,생명체 소환 5,,,,,,0,0
-13609,,,Lesser Mind Blank,하급 정신 비우기,,,,,,0,0
+13609,,,Lesser Mind Blank,하급 정신 차단,,,,,,0,0
 13610,,,Lesser Planar Binding,하급 차원의 결속,,,,,,0,0
 13611,,,Lesser Spell Mantle,하급 주문 망토,,,,,,0,0
 13612,,,Globe of Invulnerability,무적의 구체,,,,,,0,0
@@ -18238,7 +18238,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13617,,,True Seeing,진실의 시야,,,,,,0,0
 13618,,,Chain Lightning,연쇄 번개,,,,,,0,0
 13619,,,Ethereal Visage,에테르 형상,,,,,,0,0
-13620,,,Shades,그늘짐,,,,,,0,0
+13620,,,Shades,음영,,,,,,0,0
 13621,,,Circle of Death,죽음의 원진,,,,,,0,0
 13622,,,Mass Haste,대규모 가속,,,,,,0,0
 13623,,,Greater Spell Breach,상급 주문 돌파,,,,,,0,0
@@ -18251,7 +18251,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13630,,,Prismatic Spray,무지갯빛 분사,,,,,,0,0
 13631,,,Control Undead,언데드 지배,,,,,,0,0
 13632,,,Finger of Death,죽음의 손가락,,,,,,0,0
-13633,,,Mind Blank,정신 비우기,,,,,,0,0
+13633,,,Mind Blank,정신 차단,,,,,,0,0
 13634,,,Protection from Spells,주문으로부터 보호,,,,,,0,0
 13635,,,Greater Planar Binding,상급 차원의 결속,,,,,,0,0
 13636,,,Incendiary Cloud,방화의 구름,,,,,,0,0
@@ -18317,10 +18317,10 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13696,,,Average Frost Trap Kit,일반 서리 함정 도구,,,,,,0,0
 13697,,,Strong Frost Trap Kit,강력한 서리 함정 도구,,,,,,0,0
 13698,,,Deadly Frost Trap Kit,살인적인 서리 함정 도구,,,,,,0,0
-13699,,,Minor Acid Splash Trap Kit,약한 산성 끼얹기 함정 도구,,,,,,0,0
-13700,,,Average Acid Splash Trap Kit,일반 산성 끼얹기 함정 도구,,,,,,0,0
-13701,,,Strong Acid Splash Trap Kit,강력한 산성 끼얹기 함정 도구,,,,,,0,0
-13702,,,Deadly Acid Splash Trap Kit,살인적인 산성 끼얹기 함정 도구,,,,,,0,0
+13699,,,Minor Acid Splash Trap Kit,약한 산성 분사 함정 도구,,,,,,0,0
+13700,,,Average Acid Splash Trap Kit,일반 산성 분사 함정 도구,,,,,,0,0
+13701,,,Strong Acid Splash Trap Kit,강력한 산성 분사 함정 도구,,,,,,0,0
+13702,,,Deadly Acid Splash Trap Kit,살인적인 산성 분사 함정 도구,,,,,,0,0
 13703,,,Minor Sonic Trap Kit,약한 소리 함정 도구,,,,,,0,0
 13704,,,Average Sonic Trap Kit,일반 소리 함정 도구,,,,,,0,0
 13705,,,Strong Sonic Trap Kit,강력한 소리 함정 도구,,,,,,0,0
@@ -18816,7 +18816,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 14191,,,"Those who create items of this type are not quick to let their names be known, as they are often accused of cruelty or treacherous behavior. As useful as Wands of Paralyzation are, they are forever linked to tales of strong warriors rendered helpless and forced to endure gods know what, and that never sits well with a tavern crowd.","이런 종류의 아이템을 만드는 제작자는 종종 잔인하거나 믿지 못할 행동으로 비난을 받기 때문에 이름이 빨리 알려지진 않습니다. 마비의 마법봉이 유용한 만큼, 강한 투사들이 알수없이 무기력해졌다는 이야기가 있으면 언제나 이 마법봉과 연관되어 있습니다. 그리고 그건 절대 술집의 군중들이 나눌만한 얘기도 아니죠.",,,,,,0,0
 14192,,,Wand of Paralyzation,마비의 마법봉,,,,,,0,0
 14193,,,"The design of the average Wand of Frost owes much to the once mighty legions under Auril the Frostmaiden and, to a lesser extent, some of the more obscure elemental lords. Few producing them today are among those faithful however, and, for the most part, base their work on the arcane rather than the divine.",일반적인 서리의 마법봉의 설계는 서리처녀 아우릴의 지배하에 있는 한때는 강력했던 군단들과 정도는 약하지만 그보단 덜 알려진 원소 군주들 덕분입니다. 하지만 오늘날 이것들을 제작하는 신도들은 거의 없으며 대부분 신성 마법보다는 비전 마법에 기반을 두고 있습니다.,,,,,,0,0
-14194,,,Wand of Negative Energy,부정적 에너지의 마법봉,,,,,,0,0
+14194,,,Wand of Negative Energy,음 에너지의 마법봉,,,,,,0,0
 14195,,,"Wands of Lightning are highly unstable, at least in the early stages of their construction. Many an inexperienced caster has found his laboratory the site of a sudden squall or charged fog, having failed to speak the proper incantations in just the right manner. It is said that elder wizards have allowed tomes with faulty rituals to be circulated, hoping to indirectly teach some humility.",번개의 마법봉은 적어도 제작한 초기에는 매우 불안정합니다. 경험이 없는 많은 시전자들은 적절한 주문을 제대로 외우지 못했기 때문에 자신의 연구실이 갑작스런 돌풍이나 격앙된 안개로 가득차기 일쑤 입니다. 나이 많은 마법사들은 저들이 간접적으로라도 겸손함을 배우기를 바라며 불완전한 의식을 담은 책을 유통시켰습니다.,,,,,,0,0
 14196,,,Wand of Lightning,번개의 마법봉,,,,,,0,0
 14197,,,"The powers of a Wand of Summoning owes much to the ancient spells crafted by followers of forgotten beast totems, though the modern example can hardly be called a divinely-inspired tool. Sorcerers and wizards take inspiration from many places, and the resulting mix of incantations often bears little resemblance to their original form.","소환의 마법봉의 능력은 잊혀진 야수의 상징을 추종하는 자들이 만든 고대의 주문 덕분이지만, 오늘날의 물건은 신으로부터 영감을 받은 도구라고 부르긴 어렵습니다. 마법사와 요술사들은 많은 곳에서 영감을 얻습니다. 그리고 그 결과로 생기는 혼합된 주술은 종종 원래의 것과 많이 다릅니다.",,,,,,0,0
@@ -19389,7 +19389,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 14759,,,New Generic,새 일반,,,,,,0,0
 14760,,,New Area Transition,뉴 에이리어 트랜지션,,,,,,0,0
 14761,,,New Trap,새 함정,,,,,,0,0
-14762,,,Average Acid Splash Trap,일반 산성 끼얹기 함정,,,,,,0,0
+14762,,,Average Acid Splash Trap,일반 산성 분사 함정,,,,,,0,0
 14763,,,Average Blob of Acid Trap,일반 산성 함정,,,,,,0,0
 14764,,,Average Electrical Trap,일반 전기 함정,,,,,,0,0
 14765,,,Average Fire Trap,일반 화염 함정,,,,,,0,0
@@ -19400,7 +19400,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 14770,,,Average Sonic Trap,일반 소리 함정,,,,,,0,0
 14771,,,Average Spike Trap,일반 가시못 함정,,,,,,0,0
 14772,,,Average Tangle Trap,일반 덩굴 함정,,,,,,0,0
-14773,,,Deadly Acid Splash Trap,살인적인 산성 끼얹기 함정,,,,,,0,0
+14773,,,Deadly Acid Splash Trap,살인적인 산성 분사 함정,,,,,,0,0
 14774,,,Deadly Blob of Acid Trap,살인적인 산성 함정,,,,,,0,0
 14775,,,Deadly Electrical Trap,살인적인 전기 함정,,,,,,0,0
 14776,,,Deadly Fire Trap,살인적인 화염 함정,,,,,,0,0
@@ -19411,7 +19411,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 14781,,,Deadly Sonic Trap,살인적인 소리 함정,,,,,,0,0
 14782,,,Deadly Spike Trap,살인적인 가시못 함정,,,,,,0,0
 14783,,,Deadly Tangle Trap,살인적인 덩굴 함정,,,,,,0,0
-14784,,,Minor Acid Splash Trap,약한 산성 끼얹기 함정,,,,,,0,0
+14784,,,Minor Acid Splash Trap,약한 산성 분사 함정,,,,,,0,0
 14785,,,Minor Blob of Acid Trap,약한 산성 함정,,,,,,0,0
 14786,,,Minor Electrical Trap,약한 전기 함정,,,,,,0,0
 14787,,,Minor Fire Trap,약한 화염 함정,,,,,,0,0
@@ -19422,7 +19422,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 14792,,,Minor Sonic Trap,약한 소리 함정,,,,,,0,0
 14793,,,Minor Spike Trap,약한 가시못 함정,,,,,,0,0
 14794,,,Minor Tangle Trap,약한 덩굴 함정,,,,,,0,0
-14795,,,Strong Acid Splash Trap,강력한 산성 끼얹기 함정,,,,,,0,0
+14795,,,Strong Acid Splash Trap,강력한 산성 분사 함정,,,,,,0,0
 14796,,,Strong Blob of Acid Trap,강력한 산성 함정,,,,,,0,0
 14797,,,Strong Electrical Trap,강력한 전기 함정,,,,,,0,0
 14798,,,Strong Fire Trap,강력한 화염 함정,,,,,,0,0
@@ -20603,7 +20603,7 @@ Spell Resistance: No
 
 Centered around the caster, this spell rains down holy damage on all within the area of effect, including the caster. Each target will take between 30 and 100 damage.",전투의 물결(Tide of battle)\n시전자 레벨: 마법사/요술사 9\n기본 레벨: 9\n학파: 변환술\n주문 기술어: 신성\n구성: 음성\n사거리: 개인\n효과 범위 / 대상: 반경 10미터\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 없음\n주문 저항: 불가\n\n시전자를 중심으로 시전자를 포함한 효과 범위 내의 모두에게 신성 피해를 입힙니다.\n피해량: 30 ~ 100점의 신성 피해,,,,,,0,0
 40186,,,"Projectile Trap, Acid Fog","투사체 함정, 산성 안개",,,,,,0,0
-40187,,,"Projectile Trap, Acid Splash","투사체 함정, 산성 끼얹기",,,,,,0,0
+40187,,,"Projectile Trap, Acid Splash","투사체 함정, 산성 분사",,,,,,0,0
 40188,,,"Projectile Trap, Arrow","투사체 함정, 화살",,,,,,0,0
 40190,,,"Projectile Trap, Balagarn's Iron Horn","투사체 함정, 발러가른의 철 뿔피리",,,,,,0,0
 40191,,,"Projectile Trap, Blade Barrier","투사체 함정, 칼날 방벽",,,,,,0,0
@@ -20640,9 +20640,9 @@ Centered around the caster, this spell rains down holy damage on all within the 
 40246,,,"Projectile Trap, Magic Missile","투사체 함정, 마법 화살",,,,,,0,0
 40247,,,"Projectile Trap, Melf's Acid Arrow","투사체 함정, 멜프의 산성 화살",,,,,,0,0
 40248,,,"Projectile Trap, Mind Fog","투사체 함정, 정신 안개",,,,,,0,0
-40249,,,"Projectile Trap, Negative Energy Burst","투사체 함정, 부정적 에너지 폭발",,,,,,0,0
-40250,,,"Projectile Trap, Negative Energy Ray","투사체 함정, 부정적 에너지 광선",,,,,,0,0
-40251,,,"Projectile Trap, Quillfire","투사체 함정, 깃날리기",,,,,,0,0
+40249,,,"Projectile Trap, Negative Energy Burst","투사체 함정, 음 에너지 폭발",,,,,,0,0
+40250,,,"Projectile Trap, Negative Energy Ray","투사체 함정, 음 에너지 광선",,,,,,0,0
+40251,,,"Projectile Trap, Quillfire","투사체 함정, 가시 발사",,,,,,0,0
 40252,,,"Projectile Trap, Ray of Enfeeblement","투사체 함정, 약화 광선",,,,,,0,0
 40253,,,"Projectile Trap, Ray of Frost","투사체 함정, 서리 광선",,,,,,0,0
 40254,,,"Projectile Trap, Searing Light","투사체 함정, 타오르는 빛",,,,,,0,0
@@ -22437,7 +22437,7 @@ Your server-side character has been saved.",서버를 종료할 준비를 하고
 57368,,,"This elf returns your gaze intently. He is almost out of place amidst the city backdrop, his manner suggesting a very personal connection to nature.","이 엘프는 당신의 시선에 흥미롭게 반응합니다. 그는 도시 환경과는 어울리지 않아 보이는데, 태도를 볼때 자연과 매우 사적으로 이어져 있음을 암시하고 있습니다.",,,,,,0,0
 57375,,,"Lady Aribeth is the epitome of grace and concentration, although she is obviously preoccupied with worry for those suffering from the plague.","아리베스 경이야 말로 우아함과 집중의 본보기지만, 전염병으로 고통받는 사람들에 대한 걱정에 사로잡혀 있는 것이 분명합니다.",,,,,,0,0
 57376,,,"This man looks serious and composed, his armor impeccably maintained. He obviously regards his duties as being of the utmost importance.","갑옷을 흠잡을 데 없이 잘 차려입은, 이 남자는 진지하고 침착해 보입니다. 그는 분명 자신의 의무를 가장 중요하게 여기고 있습니다.",,,,,,0,0
-57377,,,"Fenthick looks concerned for those suffering, obviously willing to do anything if it would help the situation. His face looks weary, but hopeful.","펜딕은 고통받는 사람들을 걱정하는 것으로 보이며, 상황에 도움이 된다면 무엇이든 기꺼이 할 것입니다. 그의 얼굴은 피곤해 보이지만 희망을 품고 있습입니다.",,,,,,0,0
+57377,,,"Fenthick looks concerned for those suffering, obviously willing to do anything if it would help the situation. His face looks weary, but hopeful.","펜딕은 고통받는 사람들을 걱정하는 것으로 보이며, 상황에 도움이 된다면 무엇이든 기꺼이 할 것입니다. 그의 얼굴은 피곤해 보이지만 희망을 품고 있습니다.",,,,,,0,0
 57378,,,This elf has been run off her feet caring for the endless number of plague victims that pass though here. She looks very tired.,이 엘프는 이곳을 지나는 수많은 전염병 피해자들을 돌보느라 발에 땀이 나도록 바쁩니다. 그녀는 매우 피곤해 보입니다.,,,,,,0,0
 57379,,,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone living in the shadow of plague.","네버윈터의 일반인이자, 단순한 옷차림을 한 이 사람은 어찌할 바를 모르는 모습으로 전염병의 그림자 속에 살고 있습니다.",,,,,,0,0
 57380,,,"Elves are possessed of extraordinary beauty and grace, but the misery of the Wailing has given this woman a deeply sad expression.","엘프들은 남다른 아름다움과 우아함을 지니고 있지만, 울부짖는 역병의 비참함이 이 여성에게 깊은 슬픔을 안겨주었습니다.",,,,,,0,0
@@ -23040,8 +23040,8 @@ These chimes can be used extensively, but will eventually crack and become usele
 58305,,,Divine Damage,신성 피해,,,,,,0,0
 58306,,,Electrical Damage,전기 피해,,,,,,0,0
 58308,,,Fire Damage,화염 피해,,,,,,0,0
-58309,,,Negative Energy Damage,부정적 에너지 피해,,,,,,0,0
-58310,,,Positive Energy Damage,긍정적 에너지 피해,,,,,,0,0
+58309,,,Negative Energy Damage,음 에너지 피해,,,,,,0,0
+58310,,,Positive Energy Damage,양 에너지 피해,,,,,,0,0
 58311,,,Sonic Damage,소리 피해,,,,,,0,0
 58312,,,Critical:,치명타:,,,,,,0,0
 58313,,,Damage: ,피해:,,,,,,0,0
@@ -23125,12 +23125,12 @@ These chimes can be used extensively, but will eventually crack and become usele
 58555,,,"Less than a day's travel southeast of Neverwinter is Helm's Hold, a fortified monastery dedicated to the God of Guardians. It was founded around the middle 1340s DR (Dale Reckoning) by Dumal Erard, a retired member of the Company of Crazed Venturers of Waterdeep. It has grown to a watchful community of over 700 faithful. The people here grow their own crops, herd their own cattle, dig deep wells for their own water, and patrol the area with vigilance. They will give shelter to any travelers beset or weakened by brigands or monsters.","네버윈터 남동쪽으로 하루를 채 여행하지 않아도 수호자들의 신인 헬름을 위해 요새화한 수도원인 헬름의 요새를 만날 수 있다. DR 1340년대 중반 워터딥의 발광하는 무역상 회사에서 은퇴한 듀말 에라드가 설립한 헬름의 요새는 700명 이상의 충실한 감시자 공동체로 성장하였다. 이곳 사람들은 농작물을 직접 재배하며, 소떼를 몰고, 물을 얻기 위해 우물을 깊게 파고, 조심하며 지역을 순찰한다. 요새는 산적이나 괴물에게 시달리거나 쇠약해진 여행자들에게 쉴 곳을 제공할 것이다.",,,,,,0,0
 58556,,,Stink Beetle Properties,악취 딱정벌레 속성,,,,,,0,0
 58557,,,Zombie Properties,좀비 속성,,,,,,0,0
-58579,,,Negative Energy Ray,부정적 에너지 광선,,,,,,0,0
+58579,,,Negative Energy Ray,음 에너지 광선,,,,,,0,0
 58580,,,Ultravision,초시야,,,,,,0,0
 58581,,,Eagle's Splendor,독수리의 위엄,,,,,,0,0
 58582,,,Fox's Cunning,여우의 교활함,,,,,,0,0
 58583,,,Owl's Wisdom,올빼미의 지혜,,,,,,0,0
-58584,,,Negative Energy Burst,부정적 에너지 폭발,,,,,,0,0
+58584,,,Negative Energy Burst,음 에너지 폭발,,,,,,0,0
 58585,,,"Caster Level(s): Bard 3, Wizard / Sorcerer 4
 Innate Level: 3
 School: Necromancy
@@ -26703,9 +26703,9 @@ Use: Selected (In order to scribe a scroll, the character has to cast the spell 
 68999,,,"Projectile Trap Trigger, Gust of Wind (Average)","투사체 함정 트리거, 돌풍 (일반)",,,,,,0,0
 69000,,,"Projectile Trap Trigger, Hold Person (Average)","투사체 함정 트리거, 사람 포박 (일반)",,,,,,0,0
 69001,,,"Projectile Trap Trigger, Magic Missile (Average)","투사체 함정 트리거, 마법 화살 (일반)",,,,,,0,0
-69002,,,"Projectile Trap Trigger, Negative Energy Burst (Average)","투사체 함정 트리거, 부정적 에너지 폭발 (일반)",,,,,,0,0
-69003,,,"Projectile Trap Trigger, Negative Energy Ray (Average)","투사체 함정 트리거, 부정적 에너지 광선 (일반)",,,,,,0,0
-69004,,,"Projectile Trap Trigger, Quillfire (Average)","투사체 함정 트리거, 깃날리기 (일반)",,,,,,0,0
+69002,,,"Projectile Trap Trigger, Negative Energy Burst (Average)","투사체 함정 트리거, 음 에너지 폭발 (일반)",,,,,,0,0
+69003,,,"Projectile Trap Trigger, Negative Energy Ray (Average)","투사체 함정 트리거, 음 에너지 광선 (일반)",,,,,,0,0
+69004,,,"Projectile Trap Trigger, Quillfire (Average)","투사체 함정 트리거, 가시 발사 (일반)",,,,,,0,0
 69005,,,"Projectile Trap Trigger, Ray of Enfeeblement (Average)","투사체 함정 트리거, 약화 광선 (일반)",,,,,,0,0
 69006,,,"Projectile Trap Trigger, Shuriken (Average)","투사체 함정 트리거, 수리검 (일반)",,,,,,0,0
 69007,,,"Projectile Trap Trigger, Sleep (Average)","투사체 함정 트리거, 수면 (일반)",,,,,,0,0
@@ -26731,7 +26731,7 @@ Use: Selected (In order to scribe a scroll, the character has to cast the spell 
 69027,,,"Projectile Trap Trigger, Hold Person (Fatal)","투사체 함정 트리거, 사람 포박 (치명적)",,,,,,0,0
 69028,,,"Projectile Trap Trigger, Isaac's Greater Missile Storm (Fatal)","투사체 함정 트리거, 아이작의 상급 마법화살 폭풍 (치명적)",,,,,,0,0
 69029,,,"Projectile Trap Trigger, Mind Fog (Fatal)","투사체 함정 트리거, 정신 안개 (치명적)",,,,,,0,0
-69030,,,"Projectile Trap Trigger, Negative Energy Burst (Fatal)","투사체 함정 트리거, 부정적 에너지 폭발 (치명적)",,,,,,0,0
+69030,,,"Projectile Trap Trigger, Negative Energy Burst (Fatal)","투사체 함정 트리거, 음 에너지 폭발 (치명적)",,,,,,0,0
 69031,,,"Projectile Trap Trigger, Sunburst (Fatal)","투사체 함정 트리거, 태양폭발 (치명적)",,,,,,0,0
 69032,,,"Projectile Trap Trigger, Shuriken (Fatal)","투사체 함정 트리거, 수리검 (치명적)",,,,,,0,0
 69033,,,"Projectile Trap Trigger, Wall of Fire (Fatal)","투사체 함정 트리거, 불의 장벽 (치명적)",,,,,,0,0
@@ -26747,7 +26747,7 @@ Use: Selected (In order to scribe a scroll, the character has to cast the spell 
 69043,,,"Projectile Trap Trigger, Melf's Acid Arrow (Strong)","투사체 함정 트리거, 멜프의 산성 화살 (강한)",,,,,,0,0
 69044,,,"Projectile Trap Trigger, Searing Light (Strong)","투사체 함정 트리거, 타오르는 빛 (강한)",,,,,,0,0
 69045,,,"Projectile Trap Trigger, Shuriken (Strong)","투사체 함정 트리거, 수리검 (강한)",,,,,,0,0
-69046,,,"Projectile Trap Trigger, Acid Splash (Weak)","투사체 함정 트리거, 산성 끼얹기 (약한)",,,,,,0,0
+69046,,,"Projectile Trap Trigger, Acid Splash (Weak)","투사체 함정 트리거, 산성 분사 (약한)",,,,,,0,0
 69047,,,"Projectile Trap Trigger, Arrow (Weak)","투사체 함정 트리거, 화살 (약한)",,,,,,0,0
 69048,,,"Projectile Trap Trigger, Balagarn's Iron Horn (Weak)","투사체 함정 트리거, 발러가른의 철 뿔피리 (약한)",,,,,,0,0
 69049,,,"Projectile Trap Trigger, Bolt (Weak)","투사체 함정 트리거, 쇠뇌화살 (약한)",,,,,,0,0
@@ -27227,21 +27227,21 @@ A cone of frost and snow shoots forth from the caster's hands, doing 1d6 points 
 75696,,,Hilltop Midtown Gate,힐탑 중심가 대문,,,,,,0,0
 75699,,,Caravan Park,캐러밴 공원,,,,,,0,0
 75701,,,Exit,출구,,,,,,0,0
-75703,,,Acid Splash,산성 끼얹기,,,,,,0,0
+75703,,,Acid Splash,산성 분사,,,,,,0,0
 75704,,,Amplify,증폭,,,,,,0,0
 75705,,,Balagarn's Iron Horn,발러가른의 철 뿔피리,,,,,,0,0
-75706,,,Continual Flame,계속되는 불꽃,,,,,,0,0
+75706,,,Continual Flame,영속 불꽃,,,,,,0,0
 75707,,,Electric Jolt,전기 충격,,,,,,0,0
 75708,,,Flare,섬광,,,,,,0,0
 75709,,,Tasha's Hideous Laughter,타샤의 끔찍한 웃음,,,,,,0,0
 75710,,,True Strike,완벽한 일격,,,,,,0,0
-75711,,,Wounding Whispers,상처입히는 속삭임,,,,,,0,0
+75711,,,Wounding Whispers,상처의 속삭임,,,,,,0,0
 75712,,,Blood Frenzy,피의 광란,,,,,,0,0
 75713,,,Camouflage,위장,,,,,,0,0
 75714,,,Greater Magic Fang,상급 마법 송곳니,,,,,,0,0
 75715,,,Magic Fang,마법 송곳니,,,,,,0,0
 75716,,,One with the Land,대지와 하나됨,,,,,,0,0
-75717,,,Quillfire,깃날리기,,,,,,0,0
+75717,,,Quillfire,가시 발사,,,,,,0,0
 75718,,,Spike Growth,가시 성장,,,,,,0,0
 75719,,,Herbalist Trigger,약초상 트리거,,,,,,0,0
 75721,,,Kobold,코볼트,,,,,,0,0
@@ -28466,7 +28466,7 @@ Use: Cast.","초월적 주문: 초월적 수호(Epic spell: epic warding)재주 
 83618,,,Greater Magic Weapon (10),상급 마법 무기 (10),,,,,,0,0
 83619,,,Greater Magic Weapon (15),상급 마법 무기 (15),,,,,,0,0
 83622,,,Activate Item (Long Range),아이템 사용 (원거리),,,,,,0,0
-83624,,,"Dragonbreath, Negative Energy ","용의숨결, 부정적 에너지",,,,,,0,0
+83624,,,"Dragonbreath, Negative Energy ","용의숨결, 음 에너지",,,,,,0,0
 83625,,,Spell Special Abilities,주문 특수 능력,,,,,,0,0
 83626,,,2x2 Room,2x2 방,,,,,,0,0
 83627,,,Room 1x2,방 1x2,,,,,,0,0
@@ -31067,7 +31067,7 @@ For one, 18th level character.
 108015,,,Cultist's Gloves,사교도의 장갑,,,,,,0,0
 108016,,,Elder Cultist's Gloves,사교도 장로의 장갑,,,,,,0,0
 108017,,,Cultist's Outfit,사교도의 의상,,,,,,0,0
-108018,,,Bolt of Negative Energy,부정적 에너지의 쇠뇌화살,,,,,,0,0
+108018,,,Bolt of Negative Energy,음 에너지의 쇠뇌화살,,,,,,0,0
 108020,,,Rod of Fire,화염의 단장,,,,,,0,0
 108022,,,Shadow Master Properties,그림자 달인 속성,,,,,,0,0
 108023,,,Blade of Shadows,그림자의 칼날,,,,,,0,0

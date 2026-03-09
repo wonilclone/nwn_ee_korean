@@ -44,7 +44,7 @@
 102322,PC,Player Character,"""Shield of Faith.""","""믿음의 방패.""",xp2_hen_nat,x0_d1_castshfait,x0_d2_hasshldfth,,,0,0
 102323,PC,Player Character,"""Shield.""","""방패.""",xp2_hen_nat,x0_d1_castshield,x0_d2_hasshield,,,0,0
 102324,PC,Player Character,"""Shadow Shield.""","""그림자 방패.""",xp2_hen_nat,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
-102325,PC,Player Character,"""See Invisibility.""","""투명체 보기.""",xp2_hen_nat,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+102325,PC,Player Character,"""See Invisibility.""","""투명 간파.""",xp2_hen_nat,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
 102326,PC,Player Character,"""Sanctuary.""","""성역.""",xp2_hen_nat,x0_d1_castsanct,x0_d2_hassanc,,,0,0
 102327,PC,Player Character,"""Restoration.""","""회복.""",xp2_hen_nat,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
 102328,PC,Player Character,"""Resistance.""","""저항.""",xp2_hen_nat,x0_d1_castresist,x0_d2_hasresist,,,0,0
@@ -73,7 +73,7 @@
 102351,PC,Player Character,"""Lesser Restoration.""","""하급 회복.""",xp2_hen_nat,x0_d1_castlresto,x0_d2_haslesrest,,,0,0
 102352,PC,Player Character,"""Lesser Mind Blank""","""하급 정신 차단.""",xp2_hen_nat,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
 102353,PC,Player Character,"""Lesser Dispel.""","""하급 주문해제.""",xp2_hen_nat,x0_d1_castldispe,x0_d2_hasldispel,,,0,0
-102354,PC,Player Character,"""Knock.""","""문 두드리기.""",xp2_hen_nat,x0_d1_castknock,x0_d2_hasknock,,,0,0
+102354,PC,Player Character,"""Knock.""","""개방.""",xp2_hen_nat,x0_d1_castknock,x0_d2_hasknock,,,0,0
 102355,PC,Player Character,"""Invisibility Sphere.""","""투명화 구체.""",xp2_hen_nat,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
 102356,PC,Player Character,"""Invisibility.""","""투명화.""",xp2_hen_nat,x0_d1_castinvis,x0_d2_hasinvis,,,0,0
 102357,PC,Player Character,"""Improved Invisibility.""","""우수한 투명화.""",xp2_hen_nat,x0_d1_castimpinv,x0_d2_hasimpinv,,,0,0
@@ -90,7 +90,7 @@
 102368,PC,Player Character,"""Find Traps.""","""함정 찾기.""",xp2_hen_nat,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
 102369,PC,Player Character,"""Ethereal Visage.""","""에테르 형상.""",xp2_hen_nat,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
 102370,PC,Player Character,"""Entropic Shield.""","""혼돈의 보호막.""",xp2_hen_nat,x0_d1_castentsh,x2_d2_hasntropic,,,0,0
-102371,PC,Player Character,"""Energy Buffer.""","""에너지 완충기.""",xp2_hen_nat,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+102371,PC,Player Character,"""Energy Buffer.""","""에너지 감쇄.""",xp2_hen_nat,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
 102372,PC,Player Character,"""No, I've changed my mind.""","""아니, 마음이 바뀌었어.""",xp2_hen_nat,,,,,0,0
 102373,PC,Player Character,"""Yes, go ahead.""","""그래, 계속해.""",xp2_hen_nat,x0_d1_targetself,,,,0,0
 102374,PC,Player Character,"""Endure Elements.""","""원소 인내.""",xp2_hen_nat,x0_d1_castendele,x0_d2_hasendelem,,,0,0
@@ -103,7 +103,7 @@
 102381,PC,Player Character,"""Death Ward.""","""죽음 방비.""",xp2_hen_nat,x0_d1_castdward,x0_d2_hasdthward,,,0,0
 102382,PC,Player Character,"""Death Armor.""","""죽음의 갑옷.""",xp2_hen_nat,x0_d1_castdarmor,x0_d2_hasdarmor,,,0,0
 102383,PC,Player Character,"""Create Undead.""","""언데드 생성.""",xp2_hen_nat,x0_d1_castcrund,x0_d2_hascreund,,,0,0
-102384,PC,Player Character,"""Continual Flame.""","""계속되는 불꽃.""",xp2_hen_nat,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+102384,PC,Player Character,"""Continual Flame.""","""영속 불꽃.""",xp2_hen_nat,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
 102385,PC,Player Character,"""Clarity.""","""맑은 정신.""",xp2_hen_nat,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
 102386,PC,Player Character,"""Cat's Grace.""","""고양이의 우아함.""",xp2_hen_nat,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
 102387,PC,Player Character,"""Bull's Strength.""","""황소의 근력.""",xp2_hen_nat,x0_d1_castbullst,x0_d2_hasbulls,,,0,0

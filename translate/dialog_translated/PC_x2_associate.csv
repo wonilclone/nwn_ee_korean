@@ -53,7 +53,7 @@
 101348,PC,Player Character,Shield of Faith.,믿음의 방패.,x2_associate,x0_d1_castshfait,x0_d2_hasshldfth,,,0,0
 101349,PC,Player Character,Shield.,방패.,x2_associate,x0_d1_castshield,x0_d2_hasshield,,,0,0
 101350,PC,Player Character,Shadow Shield.,그림자 방패.,x2_associate,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
-101351,PC,Player Character,See Invisibility.,투명체 보기.,x2_associate,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+101351,PC,Player Character,See Invisibility.,투명 간파.,x2_associate,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
 101352,PC,Player Character,Sanctuary.,성역.,x2_associate,x0_d1_castsanct,x0_d2_hassanc,,,0,0
 101353,PC,Player Character,Restoration.,회복.,x2_associate,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
 101354,PC,Player Character,Resistance.,저항.,x2_associate,x0_d1_castresist,x0_d2_hasresist,,,0,0
@@ -72,14 +72,14 @@
 101367,PC,Player Character,Neutralize poison.,독 중화.,x2_associate,x0_d1_castnpoiso,x0_d2_hasneutpoi,,,0,0
 101368,PC,Player Character,Monstrous Regeneration.,괴물같은 재생.,x2_associate,x0_d1_castmregen,x0_d2_hasmrege,,,0,0
 101369,PC,Player Character,Minor Globe of Invulnerability.,하급 무적의 구체.,x2_associate,x0_d1_castmglobe,x2_d2_hasmglobe,,,0,0
-101370,PC,Player Character,Mind Blank.,정신 비우기.,x2_associate,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+101370,PC,Player Character,Mind Blank.,정신 차단.,x2_associate,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
 101371,PC,Player Character,Mass Haste.,집단 가속.,x2_associate,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
 101372,PC,Player Character,Magical Vestment.,마법 의복.,x2_associate,x0_d1_castmvest,x0_d2_hasmagvest,,,0,0
 101373,PC,Player Character,Mage Armor.,마법학자 갑옷.,x2_associate,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
 101374,PC,Player Character,Light.,빛.,x2_associate,x0_d1_castlight,x0_d2_haslight,,,0,0
 101375,PC,Player Character,Lesser Spell Mantle.,하급 주문 망토.,x2_associate,x0_d1_castlspman,x0_d2_haslesspm,,,0,0
 101376,PC,Player Character,Lesser Restoration.,하급 회복.,x2_associate,x0_d1_castlresto,x0_d2_haslesrest,,,0,0
-101377,PC,Player Character,Lesser Mind Blank,하급 정신 비우기,x2_associate,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+101377,PC,Player Character,Lesser Mind Blank,하급 정신 차단,x2_associate,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
 101378,PC,Player Character,Lesser Dispel.,하급 주문해제.,x2_associate,x0_d1_castldispe,x0_d2_hasldispel,,,0,0
 101379,PC,Player Character,Knock.,두드리기.,x2_associate,x0_d1_castknock,x0_d2_hasknock,,,0,0
 101380,PC,Player Character,Invisibility Sphere.,투명화 구체.,x2_associate,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
@@ -90,7 +90,7 @@
 101385,PC,Player Character,Greater Spell Mantle.,상급 주문 망토.,x2_associate,x0_d1_castgspman,x2_d2_hasgspman,,,0,0
 101386,PC,Player Character,Greater Sanctuary.,상급 성역.,x2_associate,x0_d1_castgsanc,x2_d2_hasethenss,,,0,0
 101387,PC,Player Character,Greater Restoration.,상급 회복.,x2_associate,x0_d1_castgresto,x0_d2_hasgrrest,,,0,0
-101388,PC,Player Character,Greater Dispelling.,상급 해제.,x2_associate,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
+101388,PC,Player Character,Greater Dispelling.,상급 주문해제.,x2_associate,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
 101389,PC,Player Character,Globe of Invulnerability.,무적의 구체.,x2_associate,x0_d1_castglobe,x2_d2_hasglobe,,,0,0
 101390,PC,Player Character,Ghostly Visage.,유령의 형상.,x2_associate,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
 101391,PC,Player Character,Freedom of Movement.,자유 이동.,x2_associate,x0_d1_castfreedo,x0_d2_hasfreemov,,,0,0
@@ -98,7 +98,7 @@
 101393,PC,Player Character,Find Traps.,함정 발견.,x2_associate,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
 101394,PC,Player Character,Ethereal Visage.,에테르 형상.,x2_associate,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
 101395,PC,Player Character,Entropic Shield.,혼돈의 보호막.,x2_associate,x0_d1_castentsh,x2_d2_hasntropic,,,0,0
-101396,PC,Player Character,Energy Buffer.,에너지 완충기.,x2_associate,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+101396,PC,Player Character,Energy Buffer.,에너지 감쇄.,x2_associate,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
 101397,PC,Player Character,"""No, I've changed my mind.""","""아니, 마음이 바뀌었어.""",x2_associate,,,,,0,0
 101398,PC,Player Character,"""Yes, go ahead.""","""그래, 해.""",x2_associate,x0_d1_targetself,,,,0,0
 101399,PC,Player Character,Endure Elements.,원소 인내.,x2_associate,x0_d1_castendele,x0_d2_hasendelem,,,0,0
@@ -110,7 +110,7 @@
 101405,PC,Player Character,Death Ward.,죽음 방비.,x2_associate,x0_d1_castdward,x0_d2_hasdthward,,,0,0
 101406,PC,Player Character,Death Armor.,죽음의 갑옷.,x2_associate,x0_d1_castdarmor,x0_d2_hasdarmor,,,0,0
 101407,PC,Player Character,Create Undead.,언데드 생성.,x2_associate,x0_d1_castcrund,x0_d2_hascreund,,,0,0
-101408,PC,Player Character,Continual Flame.,계속되는 불꽃.,x2_associate,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+101408,PC,Player Character,Continual Flame.,영속 불꽃.,x2_associate,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
 101409,PC,Player Character,Clarity.,맑은 정신.,x2_associate,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
 101410,PC,Player Character,Cat's Grace.,고양이의 우아함.,x2_associate,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
 101411,PC,Player Character,Bull's Strength.,황소의 근력.,x2_associate,x0_d1_castbullst,x0_d2_hasbulls,,,0,0
@@ -194,7 +194,7 @@
 101489,PC,Player Character,Shield of Faith.,믿음의 방패.,x2_associate,x0_d1_castshfait,x0_d2_hasshldfth,,,0,0
 101490,PC,Player Character,Shield.,방패.,x2_associate,x0_d1_castshield,x0_d2_hasshield,,,0,0
 101491,PC,Player Character,Shadow Shield.,그림자 방패.,x2_associate,x0_d1_castshadsh,x0_d2_hasshdshld,,,0,0
-101492,PC,Player Character,See Invisibility.,투명체 보기.,x2_associate,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
+101492,PC,Player Character,See Invisibility.,투명 간파.,x2_associate,x0_d1_castseeinv,x0_d2_hasseeinv,,,0,0
 101493,PC,Player Character,Sanctuary.,성역.,x2_associate,x0_d1_castsanct,x0_d2_hassanc,,,0,0
 101494,PC,Player Character,Restoration.,회복.,x2_associate,x0_d1_castrestor,x0_d2_hasrestor,,,0,0
 101495,PC,Player Character,Resistance.,저항.,x2_associate,x0_d1_castresist,x0_d2_hasresist,,,0,0
@@ -213,14 +213,14 @@
 101508,PC,Player Character,Neutralize poison.,독 중화.,x2_associate,x0_d1_castnpoiso,x0_d2_hasneutpoi,,,0,0
 101509,PC,Player Character,Monstrous Regeneration.,괴물같은 재생.,x2_associate,x0_d1_castmregen,x0_d2_hasmrege,,,0,0
 101510,PC,Player Character,Minor Globe of Invulnerability.,하급 무적의 구체.,x2_associate,x0_d1_castmglobe,x2_d2_hasmglobe,,,0,0
-101511,PC,Player Character,Mind Blank.,정신 비우기.,x2_associate,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
+101511,PC,Player Character,Mind Blank.,정신 차단.,x2_associate,x0_d1_castmindbl,x0_d2_hasmindbl,,,0,0
 101512,PC,Player Character,Mass Haste.,집단 가속.,x2_associate,x0_d1_castmhaste,x0_d2_hasmhaste,,,0,0
 101513,PC,Player Character,Magical Vestment.,마법 의복.,x2_associate,x0_d1_castmvest,x0_d2_hasmagvest,,,0,0
 101514,PC,Player Character,Mage Armor.,마법학자 갑옷.,x2_associate,x0_d1_castmagear,x0_d2_hasmagearm,,,0,0
 101515,PC,Player Character,Light.,빛.,x2_associate,x0_d1_castlight,x0_d2_haslight,,,0,0
 101516,PC,Player Character,Lesser Spell Mantle.,하급 주문 망토.,x2_associate,x0_d1_castlspman,x0_d2_haslesspm,,,0,0
 101517,PC,Player Character,Lesser Restoration.,하급 회복.,x2_associate,x0_d1_castlresto,x0_d2_haslesrest,,,0,0
-101518,PC,Player Character,Lesser Mind Blank,하급 정신 비우기,x2_associate,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
+101518,PC,Player Character,Lesser Mind Blank,하급 정신 차단,x2_associate,x0_d1_castlmindb,x0_d2_haslmindbl,,,0,0
 101519,PC,Player Character,Lesser Dispel.,하급 주문해제.,x2_associate,x0_d1_castldispe,x0_d2_hasldispel,,,0,0
 101520,PC,Player Character,Knock.,두드리기.,x2_associate,x0_d1_castknock,x0_d2_hasknock,,,0,0
 101521,PC,Player Character,Invisibility Sphere.,투명화 구체.,x2_associate,x0_d1_castinvsph,x0_d2_hasinvissp,,,0,0
@@ -231,7 +231,7 @@
 101526,PC,Player Character,Greater Spell Mantle.,상급 주문 망토.,x2_associate,x0_d1_castgspman,x2_d2_hasgspman,,,0,0
 101527,PC,Player Character,Greater Sanctuary.,상급 성역.,x2_associate,x0_d1_castgsanc,x2_d2_hasethenss,,,0,0
 101528,PC,Player Character,Greater Restoration.,상급 회복.,x2_associate,x0_d1_castgresto,x0_d2_hasgrrest,,,0,0
-101529,PC,Player Character,Greater Dispelling.,상급 해제.,x2_associate,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
+101529,PC,Player Character,Greater Dispelling.,상급 주문해제.,x2_associate,x0_d1_castgdispe,x0_d2_hasdgispel,,,0,0
 101530,PC,Player Character,Globe of Invulnerability.,무적의 구체.,x2_associate,x0_d1_castglobe,x2_d2_hasglobe,,,0,0
 101531,PC,Player Character,Ghostly Visage.,유령의 형상.,x2_associate,x0_d1_castghovis,x0_d2_hasghostv,,,0,0
 101532,PC,Player Character,Freedom of Movement.,자유 이동.,x2_associate,x0_d1_castfreedo,x0_d2_hasfreemov,,,0,0
@@ -239,7 +239,7 @@
 101534,PC,Player Character,Find Traps.,함정 발견.,x2_associate,x0_d1_castfindtr,x0_d2_hasfindtr,,,0,0
 101535,PC,Player Character,Ethereal Visage.,에테르 형상.,x2_associate,x0_d1_castethvis,x0_d2_hasetherv,,,0,0
 101536,PC,Player Character,Entropic Shield.,혼돈의 보호막.,x2_associate,x0_d1_castentsh,x2_d2_hasntropic,,,0,0
-101537,PC,Player Character,Energy Buffer.,에너지 완충기.,x2_associate,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
+101537,PC,Player Character,Energy Buffer.,에너지 감쇄.,x2_associate,x0_d1_castenbuff,x0_d2_hasenergyb,,,0,0
 101538,PC,Player Character,"""No, I've changed my mind.""","""아니, 마음이 바뀌었어.""",x2_associate,,,,,0,0
 101539,PC,Player Character,"""Yes, go ahead.""","""그래, 해.""",x2_associate,x0_d1_targetself,,,,0,0
 101540,PC,Player Character,Endure Elements.,원소 인내.,x2_associate,x0_d1_castendele,x0_d2_hasendelem,,,0,0
@@ -251,7 +251,7 @@
 101546,PC,Player Character,Death Ward.,죽음 방비.,x2_associate,x0_d1_castdward,x0_d2_hasdthward,,,0,0
 101547,PC,Player Character,Death Armor.,죽음의 갑옷.,x2_associate,x0_d1_castdarmor,x0_d2_hasdarmor,,,0,0
 101548,PC,Player Character,Create Undead.,언데드 생성.,x2_associate,x0_d1_castcrund,x0_d2_hascreund,,,0,0
-101549,PC,Player Character,Continual Flame.,계속되는 불꽃.,x2_associate,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
+101549,PC,Player Character,Continual Flame.,영속 불꽃.,x2_associate,x0_d1_castcontfl,x0_d2_hascontfl,,,0,0
 101550,PC,Player Character,Clarity.,맑은 정신.,x2_associate,x0_d1_castclarit,x0_d2_hasclarity,,,0,0
 101551,PC,Player Character,Cat's Grace.,고양이의 우아함.,x2_associate,x0_d1_castcatgr,x0_d2_hascatsg,,,0,0
 101552,PC,Player Character,Bull's Strength.,황소의 근력.,x2_associate,x0_d1_castbullst,x0_d2_hasbulls,,,0,0

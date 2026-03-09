@@ -1097,7 +1097,7 @@ Blinding Speed, Crippling Strike, Defensive Roll, Epic Skill Focus, Epic Dodge, 
  기습 공격: 초월적 도적이 홀수 레벨에 도달할 때마다 1d6씩 증가합니다.
 
 초월적 도적 보너스 재주 목록:
-눈부신 속도, 손상입히는 타격, 방어굴림, 초월적 기술 집중, 초월적 피하기, 초월적 평판, 우수한 회피, 우수한 기습 공격, 기회주의자, 자가 은폐, 기술 통달, 약삭빠른 정신, 우월한 주도권.",,,,,,0,0
+눈부신 속도, 약화 타격, 방어굴림, 초월적 기술 집중, 초월적 피하기, 초월적 평판, 우수한 회피, 우수한 기습 공격, 기회주의자, 자가 은폐, 기술 통달, 약삭빠른 정신, 우월한 주도권.",,,,,,0,0
 83537,,,"You have become a near mythic being -- the epic sorcerer. But still the need for ever greater power never ceases.
 
 Hit Die: d4
@@ -1383,7 +1383,7 @@ If you do not want this to happen, you must edit the module using a copy of the 
 83620,,,* Invalid Target - This spell must be cast on a quarterstaff *,* 유효하지 않은 대상 - 이 주문은 쿼터스태프에 시전해야 합니다 *,,,,,,0,0
 83621,,,* Invalid Target - This spell must be cast on a slashing weapon *,* 유효하지 않은 대상 - 이 주문은 참격 무기에 시전해야 합니다 *,,,,,,0,0
 83623,,,* Failure! - wands can not hold spells higher than level 4 *,* 실패! - 지팡이에는 4레벨 이상의 주문을 담을 수 없습니다 *,,,,,,0,0
-83631,,,<CUSTOM0> breathes negative energy.,<CUSTOM0>이(가) 부정적 에너지를 내뿜습니다.,,,,,,0,0
+83631,,,<CUSTOM0> breathes negative energy.,<CUSTOM0>이(가) 음 에너지를 내뿜습니다.,,,,,,0,0
 83632,,,"A skilled creafter can create basic crafting component  from various materials. These materials can be combined with small crafting components to create a variety of weapons, armor or cloth. Please consult the manual to get more information on crafting materials and components.
 
 
@@ -1545,7 +1545,7 @@ to craft a magical wand.","뼈 조각으로 조각된 이 지팡이에는 마법
 ","이 금속 밴드는 갑옷과 무기 제작의 부품으로 사용됩니다.
 ",,,,,,0,0
 83782,,,"Several pieces of a metal chain, that can be used as components for crafting various types of weapons and armor.","다양한 종류의 무기와 갑옷을 제작하는 부품으로 사용할 수 있는 금속 사슬 조각들입니다.",,,,,,0,0
-83786,,,Cast Continual Flame on an equipped item and it will glow brightly forever.,장착한 아이템에 계속되는 불꽃을 시전하면 영원히 밝게 빛납니다.,,,,,,0,0
+83786,,,Cast Continual Flame on an equipped item and it will glow brightly forever.,장착한 아이템에 영속 불꽃을 시전하면 영원히 밝게 빛납니다.,,,,,,0,0
 83787,,,"A metal orb, useful to a skilled crafter as a headpiece component for weapons such as maces.","철퇴와 같은 무기의 머리 부품으로 숙련된 제작자에게 유용한 금속 구체입니다.",,,,,,0,0
 83789,,,A collection of iron rings a skilled crafter could combine with other basic crafting components to create different types of armor.,숙련된 제작자가 다른 기본 제작 부품과 결합하여 다양한 종류의 갑옷을 만들 수 있는 철 고리 모음입니다.,,,,,,0,0
 83791,,,"A set of metal spikes, useful for crafting certain types of armor.","특정 종류의 갑옷 제작에 유용한 금속 가시 세트입니다.",,,,,,0,0
