@@ -17,13 +17,13 @@
 16632,PC,Player Character,<StartCheck>[Persuade]</Start> I might still be able to help.,<StartCheck>[설득]</Start> 혹시 도움이 될 수 있을지도 모릅니다.,m1q1a01olef,,[지능 보통],,,0,0
 16633,PC,Player Character,The plague undoubtedly complicated things.,역병 때문에 일이 틀어진 건 분명하군요.,m1q1a01olef,,[지능 보통],,,0,0
 16634,PC,Player Character,Plague probably loused things up good.,역병이 다 망쳐 놨겠지.,m1q1a01olef,,[지능 낮음],,,0,0
-16635,PC,Player Character,Your efforts were likely wasted when the plague hit.,역병이 덮치며 당신들의 노력이 물거품이 되었겠군요.,m1q1a01olef,,[지능 보통],,,0,0
+16635,PC,Player Character,Your efforts were likely wasted when the plague hit.,역병이 덮치면서 그간의 노력이 물거품이 되었겠군요.,m1q1a01olef,,[지능 보통],,,0,0
 16636,PC,Player Character,All you did probably useless when plague happen.,역병 나고 나선 네가 한 거 다 소용없었겠지.,m1q1a01olef,,[지능 낮음],,,0,0
 16637,PC,Player Character,"A waste of time, even before the plague hit.",역병이 오기 전부터 애초에 시간 낭비였던 거죠.,m1q1a01olef,,[지능 보통],,,0,0
 16638,PC,Player Character,"Bah! Diggin' is stupid, even before plague hit.",쳇! 파헤치는 건 애초에 바보짓이야.,m1q1a01olef,,[지능 낮음],,,0,0
 16639,PC,Player Character [M1Q1A01],I will help you find these tombs.,이 무덤들을 찾는 걸 도울게요.,m1q1a01olef,,m1q1a01olefclgl1,[M1Q1A01],,0,0
 16640,PC,Player Character [M1Q1A01],Me help find tombs and dead guys.,나 무덤이랑 죽은 사람들 찾는 거 도와줄게.,m1q1a01olef,,m1q1a01olefclgl2,[M1Q1A01],,0,0
-16641,PC,Player Character [M1Q1A01],I have no interest in helping.,돕는 건 관심 없어.,m1q1a01olef,,m1q1a01olefclgl1,[M1Q1A01],,0,0
+16641,PC,Player Character [M1Q1A01],I have no interest in helping.,돕는 데 관심 없어.,m1q1a01olef,,m1q1a01olefclgl1,[M1Q1A01],,0,0
 16642,PC,Player Character [M1Q1A01],Me no want to bother with this.,나 이거 귀찮아서 관심 없어.,m1q1a01olef,,m1q1a01olefclgl2,[M1Q1A01],,0,0
 16643,PC,Player Character,What do you know about Halueth Never?,할루스 네버에 대해 무엇을 아십니까?,m1q1a01olef,,[지능 보통],,,0,0
 16644,PC,Player Character,Who this Halueth Never guy?,그 할루스 네버가 누군데?,m1q1a01olef,,[지능 낮음],,,0,0
@@ -52,7 +52,7 @@
 16667,PC,Player Character [M1Q1A01],<StartAction>Describe the recovery of Halueth Never's rusted armor.</Start>,<StartAction>할루스 네버의 녹슨 갑옷 회수에 대해 설명합니다.</Start>,m1q1a01olef,m1q1a01olefend07,m1q1a01olefclg21,[M1Q1A01],,0,0
 16668,PC,Player Character,Nevermind.,아니다.,m1q1a01olef,,,,,0,0
 16669,PC,Player Character [M1Q1A01],<StartAction>Describe the recovery of the ancient Holy Symbol of Tyr.</Start>,<StartAction>티르의 고대 성물 회수에 대해 설명합니다.</Start>,m1q1a01olef,m1q1a01olefend08,m1q1a01olefclg22,[M1Q1A01],,0,0
-16670,PC,Player Character,<StartCheck>[Persuade]</Start> You must agree that I am worth more.,<StartCheck>[설득]</Start> 제 값어치가 더 하다는 데 동의하시겠죠.,m1q1a01olef,,[지능 보통],,,0,0
+16670,PC,Player Character,<StartCheck>[Persuade]</Start> You must agree that I am worth more.,<StartCheck>[설득]</Start> 제가 그보다 더 값어치 있다는 건 인정하시겠죠.,m1q1a01olef,,[지능 보통],,,0,0
 16671,PC,Player Character,<StartCheck>[Persuade]</Start> You knows me worth more than that.,<StartCheck>[설득]</Start> 나 그보다 값어치 더 있는 거 알잖아.,m1q1a01olef,,[지능 낮음],,,0,0
 16672,PC,Player Character,"I demand more, lest you need a tomb of your own!","더 내놓으시오, 안 그러면 당신도 묘자리를 쓰게 될 겁니다!",m1q1a01olef,,[지능 보통],,,0,0
 16673,PC,Player Character,"Me wants more, or me put you in tomb like Never!","더 줘, 아니면 너도 네버처럼 무덤에 넣어 버릴 거야!",m1q1a01olef,,[지능 낮음],,,0,0
@@ -67,7 +67,7 @@
 16682,PC,Player Character,Bye bye,잘 있어.,m1q1a01olef,,[지능 낮음],,,0,0
 16683,PC,Player Character [M1Q1A01],I have a letter from Ophala for you.,오팔라가 당신한테 보내는 편지가 있어요.,m1q1a01olef,,m1q1a01olefclg07,[M1Q1A01],,0,0
 16684,PC,Player Character [M1Q1A01],Me gots letter from Ophala for yous.,나 오팔라가 너한테 보내는 편지 있어.,m1q1a01olef,,m1q1a01olefclg08,[M1Q1A01],,0,0
-16685,PC,Player Character [M1Q1A01],Why do you consort with a sinful operation?,왜 죄악스러운 사업에 협력하는 거죠?,m1q1a01olef,,m1q1a01olefclg31,[M1Q1A01],,0,0
+16685,PC,Player Character [M1Q1A01],Why do you consort with a sinful operation?,왜 죄악스러운 곳과 결탁하는 거죠?,m1q1a01olef,,m1q1a01olefclg31,[M1Q1A01],,0,0
 16686,PC,Player Character [M1Q1A01],Me thought you good. Why you work with dirty people?,나 너 선하다고 생각했어. 왜 더러운 사람들이랑 일해?,m1q1a01olef,,m1q1a01olefclg32,[M1Q1A01],,0,0
 16689,PC,Player Character,Gold. I want gold to keep quiet about you.,금화요. 당신 일을 입 다물려면 금화가 필요합니다.,m1q1a01olef,,[지능 보통],,,0,0
 16690,PC,Player Character,Me wants gold to shut up. Heh.,입 다물어 줄게. 금화나 내놔. 헤헷.,m1q1a01olef,,[지능 낮음],,,0,0

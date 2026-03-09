@@ -1,7 +1,7 @@
 StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 24496,Dialog,NWGENCUSTOMER,Thank you.,고마워요.,NWGENCUSTOMER,,,,,0,0
-24497,Dialog,NWGENCUSTOMER,"Barmaid, over here?","여급, 이쪽이요?",NWGENCUSTOMER,nw_tav_custwait,,,,0,0
-24499,Dialog,NWGENCUSTOMER,Barmaid.,여급.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
+24497,Dialog,NWGENCUSTOMER,"Barmaid, over here?","아가씨, 이쪽이요?",NWGENCUSTOMER,nw_tav_custwait,,,,0,0
+24499,Dialog,NWGENCUSTOMER,Barmaid.,아가씨.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
 24501,Dialog,NWGENCUSTOMER,Another ale.,맥주 한 잔 더.,NWGENCUSTOMER,,,,,0,0
 24503,Dialog,NWGENCUSTOMER,Get meesh another drink! I'm thirshty!,나한테 술 한 잔 더 갖다줘! 목말라!,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
 24505,Dialog,NWGENCUSTOMER,Eh? Not polite to interrupt someone's drinkin'. What can I do for you?,응? 술 마시는 사람 방해하는 건 예의가 아닌데. 뭘 도와줄까?,NWGENCUSTOMER,,,,vs_ngnbarm2_050,0,0
@@ -21,16 +21,16 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 24519,Dialog,NWGENCUSTOMER,Like what? I ain't seen nothing but the inside of a bottle for days now. You should really go bug somebody that matters.,뭘? 며칠째 술병 안쪽밖에 본 게 없어. 중요한 사람이나 가서 귀찮게 해.,NWGENCUSTOMER,,,,,0,0
 24520,Dialog,NWGENCUSTOMER,Whatever. What do you want to know?,아무래도 좋아. 뭘 알고 싶은데?,NWGENCUSTOMER,,,,,0,0
 24521,Dialog,NWGENCUSTOMER,"What? You bother me just to blow me off? Take a walk, little <boy/girl>, you ain't making friends here.","뭐? 그냥 무시하려고 귀찮게 한 거야? 저리 가, 꼬마야. 여기서 친구 못 사귀어.",NWGENCUSTOMER,,,,,0,0
-24522,Dialog,NWGENCUSTOMER,"I tell you, if he weren't off on some mission somewhere he'd be cutting a swath through this plague. Couldn't do worse than these fool clerics and creatures.","말해 두는데, 어디선가 임무 중이 아니었다면 이 역병을 휩쓸어버렸을 거야. 이 멍청한 성직자들과 생명체들보다 못할 리가 없지.",NWGENCUSTOMER,,,,,0,0
-24523,Dialog,NWGENCUSTOMER,"Don't waste your time. If you're at all important to Neverwinter you'll meet him eventually. Trust me, you won't find him if he doesn't want to be found.","시간 낭비하지 마. 네버윈터에 조금이라도 중요한 사람이면 언젠간 만나게 될 거야. 믿어, 그 사람이 찾아지길 원치 않으면 못 찾아.",NWGENCUSTOMER,,,,,0,0
+24522,Dialog,NWGENCUSTOMER,"I tell you, if he weren't off on some mission somewhere he'd be cutting a swath through this plague. Couldn't do worse than these fool clerics and creatures.","말해 두는데, 어디선가 임무 중이 아니었다면 이 역병을 휩쓸어버렸을 거야. 이 멍청한 성직자들이나 생명체들보단 나았을 거야.",NWGENCUSTOMER,,,,,0,0
+24523,Dialog,NWGENCUSTOMER,"Don't waste your time. If you're at all important to Neverwinter you'll meet him eventually. Trust me, you won't find him if he doesn't want to be found.","시간 낭비하지 마. 네버윈터에 조금이라도 중요한 사람이면 언젠간 만나게 될 거야. 믿어, 그 사람이 숨으면 아무도 못 찾아.",NWGENCUSTOMER,,,,,0,0
 24524,Dialog,NWGENCUSTOMER,Ain't seen nothing but empty words from anyone. The plague just keeps going.,누구한테서도 빈말밖에 못 들었어. 역병은 계속되고 있을 뿐이지.,NWGENCUSTOMER,,,,,0,0
 24525,Dialog,NWGENCUSTOMER,"Nothing's happened with that yet, so it's probably just as much of a lie as what the Helmites are spilling. I don't know nothing more.","아직 아무 일도 안 생겼으니, 헬름 신도들이 떠드는 거처럼 그것도 거짓말일 거야. 더 아는 건 없어.",NWGENCUSTOMER,,,,,0,0
 24526,Dialog,NWGENCUSTOMER,"Oh, I remember now. I heard about how to cure the plague and gain fabulous riches in the process. Yep, I heard how to solve everyone's problems.","아, 이제 생각났다. 역병을 치료하고 그 과정에서 엄청난 부를 얻는 법을 들었어. 그래, 모두의 문제를 해결하는 법을 들었다고.",NWGENCUSTOMER,,,,,0,0
 24527,Dialog,NWGENCUSTOMER,"Then I sat in this tavern and waited for some jerk to come ask me about it, so I could tell them and let them get all the glory.","그러곤 이 술집에 앉아서 어떤 바보가 와서 물어보길 기다렸지. 그래서 말해주고 그들이 영광을 다 가져가게 하려고.",NWGENCUSTOMER,,,,,0,0
-24528,Dialog,NWGENCUSTOMER,"Is that what you want, a solution for everything? Well, how about this: stop pestering losers in bars and go do something that matters!","그게 원하는 거야? 모든 것에 대한 해결책? 그럼 이건 어때: 술집에서 패배자들 귀찮게 하지 말고 중요한 일이나 해!",NWGENCUSTOMER,,,,,0,0
+24528,Dialog,NWGENCUSTOMER,"Is that what you want, a solution for everything? Well, how about this: stop pestering losers in bars and go do something that matters!","그게 원하는 거야? 만능 해결책? 그럼 이건 어때: 술집에서 한심한 놈들 귀찮게 하지 말고 중요한 일이나 해!",NWGENCUSTOMER,,,,,0,0
 40220,Dialog,NWGENCUSTOMER,Thank you.,고마워요.,NWGENCUSTOMER,,,,,0,0
-40221,Dialog,NWGENCUSTOMER,Barmaid.,여급.,NWGENCUSTOMER,nw_tav_custwait,,,,0,0
-40223,Dialog,NWGENCUSTOMER,Barmaid.,여급.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
+40221,Dialog,NWGENCUSTOMER,Barmaid.,아가씨.,NWGENCUSTOMER,nw_tav_custwait,,,,0,0
+40223,Dialog,NWGENCUSTOMER,Barmaid.,아가씨.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
 40225,Dialog,NWGENCUSTOMER,Another ale.,맥주 한 잔 더.,NWGENCUSTOMER,,,,,0,0
 40227,Dialog,NWGENCUSTOMER,Get me another drink!,술 한 잔 더 줘!,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0
 40229,Dialog,NWGENCUSTOMER,Hold up there.,잠깐만요.,NWGENCUSTOMER,nw_tav_cust_lc10,,,,0,0

@@ -236,11 +236,11 @@ The caster gains a +1 bonus to attack and weapon damage rolls for every three ca
 213,,,Improved Two-Weapon Fighting,우수한 쌍수 전투술,,,,,,0,0
 214,,,Improved Unarmed Strike,우수한 맨손 타격,,,,,,0,0
 215,,,Point Blank Shot,직사,,,,,,0,0
-216,,,Quicken Spell,신속 주문,,,,,,0,0
+216,,,Quicken Spell,주문 신속화,,,,,,0,0
 217,,,Shield Proficiency,방패 숙달,,,,,,0,0
-218,,,Silent Spell,무음 주문,,,,,,0,0
+218,,,Silent Spell,주문 무음화,,,,,,0,0
 219,,,Spell Penetration,주문 침투,,,,,,0,0
-220,,,Still Spell,부동 주문,,,,,,0,0
+220,,,Still Spell,주문 부동화,,,,,,0,0
 221,,,Two-Weapon Fighting,쌍수 전투술,,,,,,0,0
 222,,,"Type of Feat: General
 Prerequisite: Dex 15+.
@@ -305,12 +305,12 @@ Use: Automatic.",직사(Point blank shot)\n재주 유형: 일반\n선결 조건:
 234,,,"Type of Feat: Metamagic
 Prerequisite: Ability to cast 4th-level spells.
 Specifics: Quickened spells can be cast instantaneously, making them invulnerable to counterspells or interruption. A quickened spell is cast as a free action, and another action can be attempted within the same round, including the casting of another spell. Only one quickened spell can be cast per round.
-Use: Quickened spells occupy spell slots four levels higher than normal.",신속 주문(Quicken spell)\n재주 유형: 마법변형\n선결 조건: 4레벨 주문 시전 능력\n다음 재주에 필요: 자동적인 신속 주문\n세부 사항: 신속 주문은 즉시 시전할 수 있지만 역주문이나 방해에 취약할 수 있습니다. 신속 주문은 자유 행동으로 시전하므로 같은 라운드에 다른 주문 시전과 같은 일반 행동을 할 수 있습니다. 대신 신속 주문은 라운드 당 1번만 사용 가능합니다.\n사용: 신속 주문은 주문의 기본 레벨보다 4레벨 위의 주문 슬롯을 사용합니다.,,,,,,0,0
+Use: Quickened spells occupy spell slots four levels higher than normal.",주문 신속화(Quicken spell)\n재주 유형: 마법변형\n선결 조건: 4레벨 주문 시전 능력\n다음 재주에 필요: 자동 주문 신속화\n세부 사항: 주문 신속화는 즉시 시전할 수 있지만 역주문이나 방해에 취약할 수 있습니다. 주문 신속화는 자유 행동으로 시전하므로 같은 라운드에 다른 주문 시전과 같은 일반 행동을 할 수 있습니다. 대신 주문 신속화는 라운드 당 1번만 사용 가능합니다.\n사용: 주문 신속화는 주문의 기본 레벨보다 4레벨 위의 주문 슬롯을 사용합니다.,,,,,,0,0
 235,,,"The OnDisturbed Event occurs when the object has been disturbed in some fashion, such as when its inventory is modified by another object.",OnDisturbed 이벤트는 오브젝트가 어떤 방식으로든 방해를 받을 때 발생합니다.,,,,,,0,0
 236,,,"Type of Feat: Metamagic
 Prerequisite: Ability to cast 1st-level spells.
 Specifics: Silent spells are cast without a verbal component.
-Use: A silenced spell occupies a spell slot one level higher than normal. ",무음 주문(Slient spell)재주 유형: 마법변형\n선결 조건: 1레벨 주문 시전 능력\n다음 재주에 필요: 자동적인 무음 주문\n세부 사항: 무음 주문은 주문을 음성 구성없이 사용합니다.\n사용: 무음 주문은 주문의 기본 레벨보다 1레벨 위의 주문 슬롯을 사용합니다.,,,,,,0,0
+Use: A silenced spell occupies a spell slot one level higher than normal. ",주문 무음화(Slient spell)재주 유형: 마법변형\n선결 조건: 1레벨 주문 시전 능력\n다음 재주에 필요: 자동 주문 무음화\n세부 사항: 주문 무음화는 주문을 음성 구성없이 사용합니다.\n사용: 주문 무음화는 주문의 기본 레벨보다 1레벨 위의 주문 슬롯을 사용합니다.,,,,,,0,0
 237,,,"Type of Feat: General
 Prerequisite: Ability to cast 1st-level spells.
 Required for: Greater Spell Penetration.
@@ -320,7 +320,7 @@ Use: Automatic.",주문 침투(Spell penetration)\n재주 유형: 일반\n선결
 Prerequisite: Ability to cast 1st-level spells.
 Specifics: Still spells are cast without a somatic component. Any penalties incurred from casting in armor do not apply to a spell prepared with this feat.
 Use: A stilled spell occupies a spell slot one level higher than normal.
-",부동 주문(Still spell)\n재주 유형: 마법변형\n선결 조건: 1레벨 주문 시전 능력\n다음 재주에 필요: 자동적인 부동 주문\n세부 사항: 부동 주문은 주문을 동작 구성없이 사용합니다. 이 재주를 통해 준비한 주문은 갑옷을 입고 시전할때 발생하는 모든 페널티를 받지 않습니다.\n사용: 부동 주문은 주문의 기본 레벨보다 1레벨 위의 주문 슬롯을 사용합니다.,,,,,,0,0
+",주문 부동화(Still spell)\n재주 유형: 마법변형\n선결 조건: 1레벨 주문 시전 능력\n다음 재주에 필요: 자동 주문 부동화\n세부 사항: 주문 부동화는 주문을 동작 구성없이 사용합니다. 이 재주를 통해 준비한 주문은 갑옷을 입고 시전할때 발생하는 모든 페널티를 받지 않습니다.\n사용: 주문 부동화는 주문의 기본 레벨보다 1레벨 위의 주문 슬롯을 사용합니다.,,,,,,0,0
 239,,,"Type of Feat: General
 Prerequisite: None.
 Required For: Improved Two-Weapon Fighting.
@@ -555,13 +555,13 @@ Required for: Great Cleave.
 Specifics: If the character kills an opponent, he gets a free attack against any opponent who is within melee weapon range.
 Use: Automatic.
 Special: Monks receive this feat at 1st level.","가르기(Cleave)\n재주 유형: 일반\n선결 조건: 근력 13이상, 강한 공격\n다음 재주에 필요: 대단한 가르기\n세부 사항: 적을 죽인 경우 근접 무기의 공격 범위 내에 있는 하나의 다른 적에 대한 자유 공격을 얻습니다. 한 라운드에 한번만 발동합니다. 수도사는 1레벨에 이 재주를 무료로 얻습니다.\n사용: 자동",,,,,,0,0
-293,,,Extend Spell,연장된 주문,,,,,,0,0
+293,,,Extend Spell,주문 연장,,,,,,0,0
 294,,,"Type of Feat: Metamagic
 Prerequisite: Ability to cast 1st-level spells.
 Specifics: Extended spells have their duration doubled, lasting twice as long as normal.
 Use: An extended spell occupies a spell slot one level higher than normal.
 Note: Spells with a duration of instantaneous or permanent are not affected.
-",연장된 주문(Extend spell)\n재주 유형: 마법변형\n선결 조건: 1레벨 주문 시전 능력\n세부 사항: 연장된 주문은 일반적일 때 보다 두배로 길게 지속됩니다.\n사용: 연장된 주문은 주문의 기본 레벨보다 1레벨 위의 주문 슬롯을 사용합니다. 지속 시간이 즉시거나 영구적인 경우에는 효과가 없습니다.,,,,,,0,0
+",주문 연장(Extend spell)\n재주 유형: 마법변형\n선결 조건: 1레벨 주문 시전 능력\n세부 사항: 주문 연장은 일반적일 때 보다 두배로 길게 지속됩니다.\n사용: 주문 연장은 주문의 기본 레벨보다 1레벨 위의 주문 슬롯을 사용합니다. 지속 시간이 즉시거나 영구적인 경우에는 효과가 없습니다.,,,,,,0,0
 295,,,Extra Turning,추가 퇴치,,,,,,0,0
 296,,,Combat Casting,전투 시전,,,,,,0,0
 297,,,"Type of Feat: General
@@ -884,11 +884,11 @@ Prerequisite: None.
 Specifics: The character's reflexes are faster than normal, granting him a +2 bonus to all Reflex saving throws.
 Use: Automatic.
 ",번개같은 반사(Lightning reflexes)\n재주 유형: 일반\n선결 조건: 없음\n세부 사항: 반사신경이 더욱 빨라져 모든 반사굴림에 +2의 보너스를 얻습니다.\n사용: 자동\n,,,,,,0,0
-413,,,Maximize Spell,극대화된 주문,,,,,,0,0
+413,,,Maximize Spell,주문 극대화,,,,,,0,0
 414,,,"Type of Feat: Metamagic
 Prerequisite: Ability to cast 3rd-level spells.
 Specifics: Maximized spells apply all variable numeric effects - including damage, number of targets, and so on - at their maximum values.
-Use: A maximized spell occupies a spell slot three levels higher than normal. Saving throws and opposed rolls, such as those made when Dispel Magic is cast, are not affected.","극대화된 주문(Maximize spell)\n재주 유형: 마법변형\n선결 조건: 3레벨 주문 시전 능력\n세부 사항: 극대화된 주문은 모든 수치화된 피해, 대상의 수와 같은 주문 효과가 최대값이 됩니다.\n사용: 극대화된 주문은 주문의 기본 레벨보다 3레벨 위의 주문 슬롯을 사용합니다. 내성굴림과 주문해제 시전과 같은 상황의 난이도 굴림에는 효과가 없습니다.",,,,,,0,0
+Use: A maximized spell occupies a spell slot three levels higher than normal. Saving throws and opposed rolls, such as those made when Dispel Magic is cast, are not affected.","주문 극대화(Maximize spell)\n재주 유형: 마법변형\n선결 조건: 3레벨 주문 시전 능력\n세부 사항: 주문 극대화는 모든 수치화된 피해, 대상의 수와 같은 주문 효과가 최대값이 됩니다.\n사용: 주문 극대화는 주문의 기본 레벨보다 3레벨 위의 주문 슬롯을 사용합니다. 내성굴림과 주문해제 시전과 같은 상황의 난이도 굴림에는 효과가 없습니다.",,,,,,0,0
 415,,,Mobility,기동성,,,,,,0,0
 416,,,"Type of Feat: General
 Prerequisite: Dex 13+, Dodge.
@@ -911,7 +911,7 @@ Use: Selected.","속사(Rapid shot)\n재주 유형: 일반\n선결 조건: 민�
 Prerequisite: Base Attack Bonus +1, Called Shot.
 Required for: Stunning Fist.
 Specifics: A character with this feat is able to make a special stun attack in melee. He makes an attack roll with a -4 penalty, and if the hit successfully deals damage the defender must make a Discipline check with a DC equal to the attacker's attack roll. If the defender fails, he or she is dazed for 12 seconds.
-Use: Selected.","후려치기(Sap)\n재주 유형: 일반\n선결 조건: 기본 공격 보너스(BAB) +1이상, 지정 공격, 주문시전자 레벨 100\n세부 사항: 이 재주를 사용하면 근거리에서 특별한 기절 공격을 할 수 있습니다. -4의 페널티를 받는 명중굴림을 굴려 명중하고 피해를 성공적으로 입히는 경우, 대상은 공격자의 명중굴림을 난이도(DC)로 단련 기술 판정을 합니다. 기술 판정에 실패하면 12초 동안 몽롱함 상태에 빠집니다.\n사용: 선택",,,,,,0,0
+Use: Selected.","후려치기(Sap)\n재주 유형: 일반\n선결 조건: 기본 공격 보너스(BAB) +1이상, 지정 공격, 주문시전자 레벨 100\n세부 사항: 이 재주를 사용하면 근거리에서 특별한 기절 공격을 할 수 있습니다. -4의 페널티를 받는 명중굴림을 굴려 명중하고 피해를 성공적으로 입히는 경우, 대상은 공격자의 명중굴림을 난이도(DC)로 단련 기술 판정을 합니다. 기술 판정에 실패하면 12초 동안 혼미 상태에 빠집니다.\n사용: 선택",,,,,,0,0
 423,,,Skill Focus,기술 집중,,,,,,0,0
 424,,,"Type of Feat: General
 Prerequisite: Able to use the skill.
@@ -1387,7 +1387,7 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 784,,,Cure Moderate Wounds,일반 상처 치료,,,,,,0,0
 785,,,Cure Serious Wounds,심각한 상처 치료,,,,,,0,0
 786,,,Darkness,암흑,,,,,,0,0
-787,,,Daze,몽롱함,,,,,,0,0
+787,,,Daze,혼미,,,,,,0,0
 788,,,Death Ward,죽음 방비,,,,,,0,0
 789,,,Delayed Blast Fireball,지연 폭발 화염구,,,,,,0,0
 790,,,Dismissal,퇴거,,,,,,0,0
@@ -1591,7 +1591,7 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 988,,,Hold,포박,,,,,,0,0
 989,,,Confusion,혼란,,,,,,0,0
 990,,,Dominate,지배,,,,,,0,0
-991,,,Daze,몽롱함,,,,,,0,0
+991,,,Daze,혼미,,,,,,0,0
 992,,,Doom,파멸,,,,,,0,0
 993,,,Fear,공포,,,,,,0,0
 994,,,Knock,문 두드리기,,,,,,0,0
@@ -1806,7 +1806,7 @@ The caster's coloring changes to match the surroundings, gaining a +10 competenc
 1177,,,Cure Serious Wounds (10),심각한 상처 치료 (10),,,,,,0,0
 1178,,,Cure Serious Wounds (15),심각한 상처 치료 (15),,,,,,0,0
 1179,,,Darkness (3),암흑 (3),,,,,,0,0
-1180,,,Daze (1),몽롱함 (1),,,,,,0,0
+1180,,,Daze (1),혼미 (1),,,,,,0,0
 1181,,,Death Ward (7),죽음 방비 (7),,,,,,0,0
 1182,,,Delayed Blast Fireball (13),지연 폭발 화염구 (13),,,,,,0,0
 1183,,,Delayed Blast Fireball (15),지연 폭발 화염구 (15),,,,,,0,0
@@ -3069,17 +3069,17 @@ Masses of flame (one per caster level) appear and randomly target and hit any ho
 2227,,,Attack Bonus,공격 보너스,,,,,,0,0
 2228,,,Blinded,실명,,,,,,0,0
 2229,,,Deafened,청각 상실,,,,,,0,0
-2230,,,Charmed,현혹됨,,,,,,0,0
+2230,,,Charmed,현혹,,,,,,0,0
 2231,,,Damage Mod,피해 수정,,,,,,0,0
 2232,,,Damage Immunity,피해 면역,,,,,,0,0
 2233,,,Damage Reduction,피해 감소,,,,,,0,0
 2234,,,Damage Resistance,피해 저항,,,,,,0,0
-2235,,,Dazed,몽롱함,,,,,,0,0
-2236,,,Dominated,지배당함,,,,,,0,0
-2237,,,Entangled,휘감김,,,,,,0,0
+2235,,,Dazed,혼미,,,,,,0,0
+2236,,,Dominated,지배,,,,,,0,0
+2237,,,Entangled,휘감기,,,,,,0,0
 2238,,,Fear,공포,,,,,,0,0
 2239,,,AC Mod,방어도(AC) 수정,,,,,,0,0
-2240,,,Paralyzed,마비됨,,,,,,0,0
+2240,,,Paralyzed,마비,,,,,,0,0
 2241,,,Saving Throws,내성굴림,,,,,,0,0
 2242,,,Sleep,수면,,,,,,0,0
 2243,,,SR,주문 저항,,,,,,0,0
@@ -3772,7 +3772,7 @@ Additional Counter Spells:
 Save: None
 Spell Resistance: Yes
 
-A giant hand appears and attempts to bull rush one target. The hand gains a +14 bonus on the Strength check. A target that is bull rushed is knocked down and is dazed for the duration of the spell.","빅비의 강력한 손(Bigby's forceful hand)\n시전자 레벨: 마법사/요술사 6\n기본 레벨: 6\n학파: 방출술\n주문 기술어:\n구성: 음성, 동작\n사거리: 40미터\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1라운드\n추가 역주문:\n내성굴림: 없음\n주문 저항: 가능\n\n거대한 손이 나타나 단일 대상을 향해 돌진을 시도합니다. 대상이 난이도(DC) 판정에 실패하면 돌진에 성공합니다. 돌진에 받힌 대상은 주문 지속 시간 동안 때려눕혀짐과 몽롱함 상태가 됩니다.\n난이도(DC): [1d20 + 대상의 근력 수정치 + 대상의 크기 수정치] 대 [1d20 + 14]",,,,,,0,0
+A giant hand appears and attempts to bull rush one target. The hand gains a +14 bonus on the Strength check. A target that is bull rushed is knocked down and is dazed for the duration of the spell.","빅비의 강력한 손(Bigby's forceful hand)\n시전자 레벨: 마법사/요술사 6\n기본 레벨: 6\n학파: 방출술\n주문 기술어:\n구성: 음성, 동작\n사거리: 40미터\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 1라운드\n추가 역주문:\n내성굴림: 없음\n주문 저항: 가능\n\n거대한 손이 나타나 단일 대상을 향해 돌진을 시도합니다. 대상이 난이도(DC) 판정에 실패하면 돌진에 성공합니다. 돌진에 받힌 대상은 주문 지속 시간 동안 때려눕혀짐과 혼미 상태가 됩니다.\n난이도(DC): [1d20 + 대상의 근력 수정치 + 대상의 크기 수정치] 대 [1d20 + 14]",,,,,,0,0
 2690,,,"Caster Level(s): Wizard / Sorcerer 7
 Innate Level: 7
 School: Evocation
@@ -4199,7 +4199,7 @@ A module name may not contain any of the following characters:
 Please switch focus to the debugger in
 order to continue.",스크립트 디버거가 수행 중입니다. 계속 진행하기 위하여 포커스를 디버거에 맞추어 주십시오.,,,,,,0,0
 2936,,,Hide in Plain Sight,보는 앞에서 숨기,,,,,,0,0
-2937,,,Shadow Daze,그림자 몽롱함,,,,,,0,0
+2937,,,Shadow Daze,환영 혼미,,,,,,0,0
 2938,,,Summon Shadow,그림자 소환,,,,,,0,0
 2939,,,Shadow Evade,그림자 회피,,,,,,0,0
 2940,,,"Type of Feat: Class
@@ -4209,7 +4209,7 @@ Use: Automatic.",보는 앞에서 숨기(Hide in plain sight)\n재주 유형: �
 2941,,,"Type of Feat: Class
 Prerequisite: Shadowdancer 3.
 Specifics: Once per day the shadowdancer may inflict an illusory daze upon a target. This daze lasts for 5 rounds.
-Use: Selected.",그림자 몽롱함(Shadow daze)\n재주 유형: 직업\n선결 조건: 그림자춤꾼 레벨 3\n세부 사항: 하루에 한번 그림자춤꾼은 환영으로 대상을 몽롱하게 할수 있습니다. 몽롱함은 5라운드간 지속됩니다.\n난이도(DC): [10 + 민첩 수정치 + 그림자춤꾼 레벨]\n사용: 선택,,,,,,0,0
+Use: Selected.",환영 혼미(Shadow daze)\n재주 유형: 직업\n선결 조건: 그림자춤꾼 레벨 3\n세부 사항: 하루에 한번 그림자춤꾼은 환영으로 대상을 혼미하게 할수 있습니다. 혼미는 5라운드간 지속됩니다.\n난이도(DC): [10 + 민첩 수정치 + 그림자춤꾼 레벨]\n사용: 선택,,,,,,0,0
 2942,,,"Type of Feat: Class
 Prerequisite: Shadowdancer level 3.
 Specifics: Once per day the shadowdancer can summon in a shadow. This shadow is extremely difficult to turn and becomes more powerful as the shadowdancer gains levels.
@@ -4248,7 +4248,7 @@ Level
 7: Slippery Mind - Failed Will saving throw gets automatic reroll.
 10: Improved Evasion - Failed reflex saving throws result in only half damage.
   Uncanny Dodge 3 - +2 reflex saving throws.
-","(상위 직업)\n그림자춤꾼은 빛과 어둠의 경계에서 활동합니다. 이 날렵한 속임수의 예술가는 완전한 신뢰와는 거리가 멀지만, 불가사의한 매력이 있습니다. 그들은 능력을 몰래 침투하고 다른사람을 속이는데 사용합니다. 음유시인과 도적은 가장 흔한 그림자춤꾼입니다.\n\n요구사항:\n- 기술: 숨기 10등급, 조용히 이동 8등급, 재주넘기 5등급\n- 재주: 피하기, 기동성\n\n일반 능력:\n- 생명점 주사위(HD): d8\n- 숙달: 단순 무기, 경장\n- 기술 점수: 6 + 지능 수정치\n\n레벨\n1: 보는 앞에서 숨기 - 누가 보고있는 동안에도 숨기 기술을 사용할 수 있습니다.\n2: 회피 - 반사굴림에 성공하면 절반의 피해를 입는 경우, 반사굴림에 성공하면 피해를 입지 않게 됩니다.\n 암시야 - 어둠속에서 볼 수 있는 능력을 얻습니다.\n 초인적인 피하기 1 - 보이지 않는 적을 상대할때나 무방비 상태에서도 방어도(AC)에 민첩 보너스를 받을 수 있습니다.\n3: 그림자 몽롱함 - 환영으로 대상을 멍하게 할수 있습니다.\n4: 그림자 회피 - 하루에 세번 5라운드 간 은폐, 피해 감소, 방어도(AC)에 보너스를 받습니다. 레벨이 오를수록 받는 보너스가 상승합니다.\n5: 방어굴림 - 죽음을 피해 반사굴림을 굴립니다.\n 초인적인 피하기 2 - 함정을 피하는 내성굴림에 +1점의 반사굴림 보너스를 받습니다.\n7: 약삭빠른 정신 - 정신영향 주문에 대항한 의지굴림에 실패한 경우 자동적으로 다시 한번 의지굴림을 합니다.\n10: 우수한 회피 - 반사굴림에 실패해도 절반의 피해만 입습니다.\n 초인적인 피하기 3 - 함정을 피하는 내성굴림에 +2점의 반사굴림 보너스를 받습니다.",,,,,,0,0
+","(상위 직업)\n그림자춤꾼은 빛과 어둠의 경계에서 활동합니다. 이 날렵한 속임수의 예술가는 완전한 신뢰와는 거리가 멀지만, 불가사의한 매력이 있습니다. 그들은 능력을 몰래 침투하고 다른사람을 속이는데 사용합니다. 음유시인과 도적은 가장 흔한 그림자춤꾼입니다.\n\n요구사항:\n- 기술: 숨기 10등급, 조용히 이동 8등급, 재주넘기 5등급\n- 재주: 피하기, 기동성\n\n일반 능력:\n- 생명점 주사위(HD): d8\n- 숙달: 단순 무기, 경장\n- 기술 점수: 6 + 지능 수정치\n\n레벨\n1: 보는 앞에서 숨기 - 누가 보고있는 동안에도 숨기 기술을 사용할 수 있습니다.\n2: 회피 - 반사굴림에 성공하면 절반의 피해를 입는 경우, 반사굴림에 성공하면 피해를 입지 않게 됩니다.\n 암시야 - 어둠속에서 볼 수 있는 능력을 얻습니다.\n 초인적인 피하기 1 - 보이지 않는 적을 상대할때나 무방비 상태에서도 방어도(AC)에 민첩 보너스를 받을 수 있습니다.\n3: 환영 혼미 - 환영으로 대상을 혼미하게 할수 있습니다.\n4: 그림자 회피 - 하루에 세번 5라운드 간 은폐, 피해 감소, 방어도(AC)에 보너스를 받습니다. 레벨이 오를수록 받는 보너스가 상승합니다.\n5: 방어굴림 - 죽음을 피해 반사굴림을 굴립니다.\n 초인적인 피하기 2 - 함정을 피하는 내성굴림에 +1점의 반사굴림 보너스를 받습니다.\n7: 약삭빠른 정신 - 정신영향 주문에 대항한 의지굴림에 실패한 경우 자동적으로 다시 한번 의지굴림을 합니다.\n10: 우수한 회피 - 반사굴림에 실패해도 절반의 피해만 입습니다.\n 초인적인 피하기 3 - 함정을 피하는 내성굴림에 +2점의 반사굴림 보너스를 받습니다.",,,,,,0,0
 2948,,,Deneir's Eye,데니어의 눈,,,,,,0,0
 2949,,,Tymora's Smile,티모라의 미소,,,,,,0,0
 2950,,,Lliira's Heart,리어라의 마음,,,,,,0,0
@@ -6552,7 +6552,7 @@ Use: Automatic.","초월적 주문 집중(Epic spell focus)\n재주 유형: 일�
 4686,,,Colossal Spider Venom,매우 거대한 거미 독,,,,,,0,0
 4687,,,Phase Spider Venom,위상 거미 독,,,,,,0,0
 4688,,,Wraith Spider Venom,망령 거미 독,,,,,,0,0
-4689,,,Blinding Sickness,눈멈 병,,,,,,0,0
+4689,,,Blinding Sickness,실명병,,,,,,0,0
 4690,,,Cackle Fever,웃음 열병,,,,,,0,0
 4691,,,Demon Fever,악마의 열병,,,,,,0,0
 4692,,,Devil Chills,마귀의 오한,,,,,,0,0
@@ -7086,7 +7086,7 @@ Favorites",즐겨찾기 제거,,,,,,0,0
 5243,,,"Bolt, Charm",현혹의 쇠뇌화살,,,,,,0,0
 5244,,,"Bolt, Cold",냉기의 쇠뇌화살,,,,,,0,0
 5245,,,"Bolt, Confuse",혼란의 쇠뇌화살,,,,,,0,0
-5246,,,"Bolt, Daze",몽롱함의 쇠뇌화살,,,,,,0,0
+5246,,,"Bolt, Daze",혼미의 쇠뇌화살,,,,,,0,0
 5247,,,"Bolt, Death",죽음의 쇠뇌화살,,,,,,0,0
 5248,,,"Bolt, Disease",질병의 쇠뇌화살,,,,,,0,0
 5249,,,"Bolt, Dominate",지배의 쇠뇌화살,,,,,,0,0
@@ -7123,7 +7123,7 @@ Favorites",즐겨찾기 제거,,,,,,0,0
 5280,,,"Ferocity, Greater",상급 흉포함,,,,,,0,0
 5281,,,"Gaze, Charm",매혹의 응시,,,,,,0,0
 5282,,,"Gaze, Confusion",혼란의 응시,,,,,,0,0
-5283,,,"Gaze, Daze",몽롱함의 응시,,,,,,0,0
+5283,,,"Gaze, Daze",혼미의 응시,,,,,,0,0
 5284,,,"Gaze, Death",죽음의 응시,,,,,,0,0
 5285,,,"Gaze, Destroy Chaos",혼돈 파괴의 응시,,,,,,0,0
 5286,,,"Gaze, Destroy Evil",악 파괴의 응시,,,,,,0,0
@@ -7137,7 +7137,7 @@ Favorites",즐겨찾기 제거,,,,,,0,0
 5294,,,Iron Golem Poison Gas,철 골렘 독 기체,,,,,,0,0
 5295,,,Hell Hound Fire Breath,지옥 사냥개 화염 숨결,,,,,,0,0
 5296,,,"Howl, Confusion",혼란의 울부짖음,,,,,,0,0
-5297,,,"Howl, Daze",몽롱함의 울부짖음,,,,,,0,0
+5297,,,"Howl, Daze",혼미의 울부짖음,,,,,,0,0
 5298,,,"Howl, Death",죽음의 울부짖음,,,,,,0,0
 5299,,,"Howl, Doom",파멸의 울부짖음,,,,,,0,0
 5300,,,"Howl, Fear",공포의 울부짖음,,,,,,0,0
@@ -8819,7 +8819,7 @@ Additional Counter Spells: Charm Person
 Save: No
 Spell Resistance: No
 
-This spell removes the effects of Daze, Sleep, Confusion, Stun, and Charm, and protects against all mind-affecting effects until it expires. For every effect removed by the spell, the target creature sustains 1 point of damage.","맑은 정신(Clarity)\n시전자 레벨: 음유시인 2, 성직자 3, 마법사/요술사 3\n기본 레벨: 2\n학파: 강령술\n주문 기술어: 정신영향\n구성: 동작\n사거리: 20미터\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 5라운드 + 1라운드\n추가 역주문: 사람 현혹\n내성굴림: 없음\n주문 저항: 불가\n\n이 주문은 대상의 몽롱함, 수면, 혼란, 기절, 현혹 효과를 제거하고 지속시간동안 모든 정신영향 효과 주문으로부터 보호합니다. 하나의 효과를 제거할 때마다 대상은 1점의 피해를 입습니다.",,,,,,0,0
+This spell removes the effects of Daze, Sleep, Confusion, Stun, and Charm, and protects against all mind-affecting effects until it expires. For every effect removed by the spell, the target creature sustains 1 point of damage.","맑은 정신(Clarity)\n시전자 레벨: 음유시인 2, 성직자 3, 마법사/요술사 3\n기본 레벨: 2\n학파: 강령술\n주문 기술어: 정신영향\n구성: 동작\n사거리: 20미터\n효과 범위 / 대상: 단일\n지속 시간: 시전자 레벨 당 5라운드 + 1라운드\n추가 역주문: 사람 현혹\n내성굴림: 없음\n주문 저항: 불가\n\n이 주문은 대상의 혼미, 수면, 혼란, 기절, 현혹 효과를 제거하고 지속시간동안 모든 정신영향 효과 주문으로부터 보호합니다. 하나의 효과를 제거할 때마다 대상은 1점의 피해를 입습니다.",,,,,,0,0
 6118,,,Could you be so good as to open this?,이것 좀 열어 주시겠어요?,,,,,,0,0
 6119,,,"Caster Level(s): Wizard / Sorcerer 5
 Innate Level: 5
@@ -8891,7 +8891,7 @@ Counter Spells: Remove Disease
 Save: Fortitude Negates
 Spell Resistance: Yes
 
-The target creature is struck down with one of the following debilitating diseases, randomly chosen: Blinding Sickness, Cackle Fever, Mind Fire, Red Ache, Shakes, or Slimy Doom.","역병(Contagion)\n시전자 레벨: 성직자 3, 드루이드 3, 마법사/요술사 4\n기본 레벨: 3\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n역주문: 질병 해제\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n대상 생명체는 다음중 임의의 하나의 질병에 걸리게 됩니다.\n질병: 눈멈병, 웃음 열병, 마음불, 붉은 통증, 경련, 끈적한 파멸, 오물 열병",,,,,,0,0
+The target creature is struck down with one of the following debilitating diseases, randomly chosen: Blinding Sickness, Cackle Fever, Mind Fire, Red Ache, Shakes, or Slimy Doom.","역병(Contagion)\n시전자 레벨: 성직자 3, 드루이드 3, 마법사/요술사 4\n기본 레벨: 3\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n역주문: 질병 해제\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n대상 생명체는 다음중 임의의 하나의 질병에 걸리게 됩니다.\n질병: 실명병, 웃음 열병, 마음불, 붉은 통증, 경련, 끈적한 파멸, 오물 열병",,,,,,0,0
 6124,,,"Caster Level(s): Cleric 6, Wizard / Sorcerer 7
 Innate Level: 7
 School: Necromancy
@@ -9029,7 +9029,7 @@ Additional Counter Spells: Clarity
 Save: Will Negates
 Spell Resistance: Yes
 
-If the target humanoid creature has 5 Hit Dice or less, they are dazed for 2 rounds.","몽롱함(Daze)시전자 레벨: 음유시인 0, 마법사/요술사 0\n기본 레벨: 0\n학파: 부여술\n주문 기술어: 정신영향\n구성: 음성, 동작\n사거리: 40미터\n효과 범위 / 대상: 단일\n지속 시간: 2라운드\n추가 역주문: 맑은 정신\n내성굴림: 의지굴림 성공 시 무시\n주문 저항: 가능\n\n대상 인간형 생명체의 생명점 주사위(HD)가 5이하인 경우 2라운드간 몽롱함 상태가 됩니다.",,,,,,0,0
+If the target humanoid creature has 5 Hit Dice or less, they are dazed for 2 rounds.","혼미(Daze)시전자 레벨: 음유시인 0, 마법사/요술사 0\n기본 레벨: 0\n학파: 부여술\n주문 기술어: 정신영향\n구성: 음성, 동작\n사거리: 40미터\n효과 범위 / 대상: 단일\n지속 시간: 2라운드\n추가 역주문: 맑은 정신\n내성굴림: 의지굴림 성공 시 무시\n주문 저항: 가능\n\n대상 인간형 생명체의 생명점 주사위(HD)가 5이하인 경우 2라운드간 혼미 상태가 됩니다.",,,,,,0,0
 6134,,,"Account does not exist. Enter correct
  user name or create a new account.",계정이 존재하지 않습니다. 정확한\n사용자명을 입력하거나 새 계정을 만드십시오.,,,,,,0,0
 6135,,,"Caster Level(s): Cleric 4, Druid 5, Paladin 4
@@ -9451,7 +9451,7 @@ Additional Counter Spells:
 Save: Harmless
 Spell Resistance: No
 
-Greater Restoration removes most temporary and all permanent negative effects from the target character, incuding level drain. It does not remove negative mental effects or the effects of reduced movement speed. It also heals the target creature to full Hit Points.","상급 회복(Greater Restoration)\n시전자 레벨: 성직자 7\n기본 레벨: 7\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n모든 마법적, 임시적, 초자연적인 능력 점수, 방어도(AC), 명중굴림, 피해굴림, 주문저항, 내성굴림, 기술, 피해 면역에 대한 페널티 효과를 제거합니다. 또한 눈멈, 청각 상실, 마비, 레벨 배출을 제거하며, 추가로 저주 및 질병, 독, 둔화와 부정적인 정신 효과(매혹, 혼란, 몽롱함, 지배됨, 공포, 기절) 제거 및 HP를 대상 생명체의 최대치로 회복합니다. 이동 속도 감소 효과는 제거하지 못합니다.",,,,,,0,0
+Greater Restoration removes most temporary and all permanent negative effects from the target character, incuding level drain. It does not remove negative mental effects or the effects of reduced movement speed. It also heals the target creature to full Hit Points.","상급 회복(Greater Restoration)\n시전자 레벨: 성직자 7\n기본 레벨: 7\n학파: 강령술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n모든 마법적, 임시적, 초자연적인 능력 점수, 방어도(AC), 명중굴림, 피해굴림, 주문저항, 내성굴림, 기술, 피해 면역에 대한 페널티 효과를 제거합니다. 또한 실명, 청각 상실, 마비, 레벨 배출을 제거하며, 추가로 저주 및 질병, 독, 둔화와 부정적인 정신 효과(매혹, 혼란, 혼미, 지배, 공포, 기절) 제거 및 HP를 대상 생명체의 최대치로 회복합니다. 이동 속도 감소 효과는 제거하지 못합니다.",,,,,,0,0
 6168,,,"Caster Level(s): Wizard / Sorcerer 5
 Innate Level: 5
 School: Illusion
@@ -9517,7 +9517,7 @@ Additional Counter Spells:
 Save: Will Partial
 Spell Resistance: Yes
 
-The caster smites a group of enemies with divine light for 1d8 points of damage for every two caster levels, to a maximum of 5d8.  Enemies that make a Will save take half damage and avoid being dazed for 1 to 6 rounds.","신의 망치(Hammer of the gods)\n시전자 레벨: 성직자 4\n기본 레벨: 4\n학파: 방출술\n주문 기술어: 신성\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 의지굴림 성공 시 일부만\n주문 저항: 가능\n\n시전자가 효과 범위 내의 적을 신성한 빛으로 내리쳐 신성 피해를 받고 1d6 라운드간 몽롱함 상태가 됩니다. 의지굴림에 성공한 적은 받는 피해가 절반으로 줄고 몽롱함 상태가 되지 않습니다.\n피해량: 시전자 2레벨 당 1d8(최대 5d8)점의 신성 피해",,,,,,0,0
+The caster smites a group of enemies with divine light for 1d8 points of damage for every two caster levels, to a maximum of 5d8.  Enemies that make a Will save take half damage and avoid being dazed for 1 to 6 rounds.","신의 망치(Hammer of the gods)\n시전자 레벨: 성직자 4\n기본 레벨: 4\n학파: 방출술\n주문 기술어: 신성\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 의지굴림 성공 시 일부만\n주문 저항: 가능\n\n시전자가 효과 범위 내의 적을 신성한 빛으로 내리쳐 신성 피해를 받고 1d6 라운드간 혼미 상태가 됩니다. 의지굴림에 성공한 적은 받는 피해가 절반으로 줄고 혼미 상태가 되지 않습니다.\n피해량: 시전자 2레벨 당 1d8(최대 5d8)점의 신성 피해",,,,,,0,0
 6174,,,"Caster Level(s): Cleric 6, Druid 7
 Innate Level: 6
 School: Necromancy
@@ -10295,7 +10295,7 @@ Additional Counter Spells:
 Save: Harmless
 Spell Resistance: No
 
-Removes all magical, extraordinary and supernatural effects that apply a penalty to ability scores, Armor Class, attack and damage rolls, spell resistance, saving throws and damage immunity. This spell also removes all level drain, blindness and deafness effects. Will not remove the effects of a curse or a disease.","회복(Restoration)\n시전자 레벨: 성직자 4\n기본 레벨: 4\n학파: 소환술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n모든 마법적, 임시적, 초자연적인 능력 점수, 방어도(AC), 명중굴림, 피해굴림, 주문저항, 내성굴림, 기술, 피해 면역에 대한 페널티 효과를 제거합니다. 또한 눈멈, 청각 상실, 마비, 레벨 배출을 제거합니다. 저주나 질병 효과는 제거할 수 없지만, 질병으로 받은 초자연적인 능력 점수 피해는 제거합니다.",,,,,,0,0
+Removes all magical, extraordinary and supernatural effects that apply a penalty to ability scores, Armor Class, attack and damage rolls, spell resistance, saving throws and damage immunity. This spell also removes all level drain, blindness and deafness effects. Will not remove the effects of a curse or a disease.","회복(Restoration)\n시전자 레벨: 성직자 4\n기본 레벨: 4\n학파: 소환술\n주문 기술어:\n구성: 음성, 동작\n사거리: 접촉\n효과 범위 / 대상: 단일\n지속 시간: 즉시\n추가 역주문:\n내성굴림: 무해함\n주문 저항: 불가\n\n모든 마법적, 임시적, 초자연적인 능력 점수, 방어도(AC), 명중굴림, 피해굴림, 주문저항, 내성굴림, 기술, 피해 면역에 대한 페널티 효과를 제거합니다. 또한 실명, 청각 상실, 마비, 레벨 배출을 제거합니다. 저주나 질병 효과는 제거할 수 없지만, 질병으로 받은 초자연적인 능력 점수 피해는 제거합니다.",,,,,,0,0
 6247,,,"Caster Level(s): Cleric 7
 Innate Level: 7
 School: Conjuration
@@ -10513,7 +10513,7 @@ Additional Counter Spells:
 Save: Fortitude Negates
 Spell Resistance: Yes
 
-All creatures caught within the area of effect are dazed. These effects last as long as they remain within the cloud and for 1 round after they leave.","악취 구름(Stinking cloud)\n시전자 레벨: 마법사/요술사 3\n기본 레벨: 3\n학파: 소환술\n주문 기술어:\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 시전자 레벨 당 1라운드\n추가 역주문:\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n효과 영역 내의 모든 생명체는 몽롱함 상태가 됩니다. 이 효과는 구름 밖으로 떠난 뒤에도 1라운드간 지속됩니다.",,,,,,0,0
+All creatures caught within the area of effect are dazed. These effects last as long as they remain within the cloud and for 1 round after they leave.","악취 구름(Stinking cloud)\n시전자 레벨: 마법사/요술사 3\n기본 레벨: 3\n학파: 소환술\n주문 기술어:\n구성: 음성, 동작\n사거리: 20미터\n효과 범위 / 대상: 반경 6.67미터\n지속 시간: 시전자 레벨 당 1라운드\n추가 역주문:\n내성굴림: 인내굴림 성공 시 무시\n주문 저항: 가능\n\n효과 영역 내의 모든 생명체는 혼미 상태가 됩니다. 이 효과는 구름 밖으로 떠난 뒤에도 1라운드간 지속됩니다.",,,,,,0,0
 6265,,,"Caster Level(s): Druid 4, Wizard / Sorcerer 4
 Innate Level: 4
 School: Abjuration
@@ -11529,7 +11529,7 @@ Direct Damage: Bolt of Acid, Bolt of Cold, Bolt of Fire, Bolt of Lightning, Bolt
 Mind-Affecting: Bolt of Charm, Bolt of Confusion, Bolt of Domination, Bolt of Stunning, Bolt of Dazing.
 Negative Energy: Bolt of Death, Bolt of Level Drain, Bolt of Charisma, Bolt of Constitution damage, Bolt of Dexterity damage, Bolt of Strength damage, Bolt of Wisdom damage, or Bolt of Intelligence damage.
 Movement Impeding: Bolt of Slowness, Bolt of Webbing, Bolt of Paralysis.
-Miscellaneous: Bolt of Disease, Bolt of Poison, Salt Mephit Breath (1d4 Damage, -2 to Attack, -4 to Armor Class for 3 rounds), Steam Mephit Breath (1d4 Damage, -2 Attack and -4 to Armor Class for 3 rounds).","난이도(DC), 해당되는 경우: 10 + 2 생명점 주사위(HD) 당 1\n지속 시간, 해당되는 경우: 2 생명점 주사위(HD) 당 1 라운드\n피해, 해당되는 경우: 1d2 생명점 주사위(HD) 당 6\n\n쇠뇌화살은 피해를 입히거나 단일 대상 생명체에 부정적인 영향을 줍니다. 쇠뇌화살은 매혹, 지배, 능력 피해, 마비, 독, 둔화, 휘감기와 같은 더 특수한 효과를 주거나 피해를 입힐 수 있습니다. 게임에서 사용할 수 있는 쇠뇌화살 유형은 다음과 같습니다:\n\n직접 피해: 산성의 쇠뇌화살, 냉기의 쇠뇌화살, 화염의 쇠뇌화살, 번개의 쇠뇌화살, 파편의 쇠뇌화살\n정신영향: 매혹의 쇠뇌화살, 혼란의 쇠뇌화살, 지배의 쇠뇌화살, 기절의 쇠뇌화살, 몽롱함의 쇠뇌화살\n부정적 에너지: 죽음의 쇠뇌화살, 레벨 배출의 쇠뇌화살, 매력 피해의 쇠뇌화살, 체질 피해의 쇠뇌화살, 민첩 피해의 쇠뇌화살, 근력 피해의 쇠뇌화살, 지혜 피해의 쇠뇌화살, 지능 피해의 쇠뇌화살\n이동 방해: 둔화의 쇠뇌화살, 거미줄의 쇠뇌화살, 마비의 쇠뇌화살\n기타: 질병의 쇠뇌화살, 독의 쇠뇌화살, 메피트 숨결 소금 (1d4 산성 피해, -2 명중굴림, 3라운드 간 -2 방어도(AC)), 메피트 숨결 증기 (1d4 화염 피해, -2 명중굴림, 3라운드 간 -4 방어도(AC)).",,,,,,0,0
+Miscellaneous: Bolt of Disease, Bolt of Poison, Salt Mephit Breath (1d4 Damage, -2 to Attack, -4 to Armor Class for 3 rounds), Steam Mephit Breath (1d4 Damage, -2 Attack and -4 to Armor Class for 3 rounds).","난이도(DC), 해당되는 경우: 10 + 2 생명점 주사위(HD) 당 1\n지속 시간, 해당되는 경우: 2 생명점 주사위(HD) 당 1 라운드\n피해, 해당되는 경우: 1d2 생명점 주사위(HD) 당 6\n\n쇠뇌화살은 피해를 입히거나 단일 대상 생명체에 부정적인 영향을 줍니다. 쇠뇌화살은 매혹, 지배, 능력 피해, 마비, 독, 둔화, 휘감기와 같은 더 특수한 효과를 주거나 피해를 입힐 수 있습니다. 게임에서 사용할 수 있는 쇠뇌화살 유형은 다음과 같습니다:\n\n직접 피해: 산성의 쇠뇌화살, 냉기의 쇠뇌화살, 화염의 쇠뇌화살, 번개의 쇠뇌화살, 파편의 쇠뇌화살\n정신영향: 매혹의 쇠뇌화살, 혼란의 쇠뇌화살, 지배의 쇠뇌화살, 기절의 쇠뇌화살, 혼미의 쇠뇌화살\n부정적 에너지: 죽음의 쇠뇌화살, 레벨 배출의 쇠뇌화살, 매력 피해의 쇠뇌화살, 체질 피해의 쇠뇌화살, 민첩 피해의 쇠뇌화살, 근력 피해의 쇠뇌화살, 지혜 피해의 쇠뇌화살, 지능 피해의 쇠뇌화살\n이동 방해: 둔화의 쇠뇌화살, 거미줄의 쇠뇌화살, 마비의 쇠뇌화살\n기타: 질병의 쇠뇌화살, 독의 쇠뇌화살, 메피트 숨결 소금 (1d4 산성 피해, -2 명중굴림, 3라운드 간 -2 방어도(AC)), 메피트 숨결 증기 (1d4 화염 피해, -2 명중굴림, 3라운드 간 -4 방어도(AC)).",,,,,,0,0
 6547,,,"Difficulty Class, where applicable: 10 +1 for every 2 HD.
 Damage, where applicable: 2d6 for every 3 HD.
 
@@ -11575,7 +11575,7 @@ Mind-Affecting: Charm, Confusion, Daze, Dominate, Fear, Stun.
 Negative Energy: Doom, Death, Destroy Law, Destroy Good.
 Positive Energy: Destroy Evil, Destroy Chaos.
 Movement Impeding: Paralysis.
-Miscellaneous: Krenshar Fear Gaze (DC 12, 3 round duration).","난이도(DC), 해당되는 경우: 10 + 2 생명점 주사위(HD) 당 1\n피해: 없음\n지속 시간, 해당되는 경우: 1 라운드 + 3 생명점 주사위(HD) 당 1\n\n응시 공격은 원뿔 모양의 효과 영역을 가지며 대상에게 직접 피해를 입히지 않습니다. 게임에서 사용할 수 있는 응시 공격 유형은 다음과 같습니다:\n\n정신영향: 매혹, 혼란, 몽롱함, 지배, 공포, 기절\n부정적 에너지: 파멸, 죽음, 질서 파괴, 선 파괴\n긍정적 에너지: 악 파괴, 혼돈 파괴\n이동 방해: 마비\n기타: 크렌샤의 공포 응시 (난이도(DC) 12, 3라운드 동안)",,,,,,0,0
+Miscellaneous: Krenshar Fear Gaze (DC 12, 3 round duration).","난이도(DC), 해당되는 경우: 10 + 2 생명점 주사위(HD) 당 1\n피해: 없음\n지속 시간, 해당되는 경우: 1 라운드 + 3 생명점 주사위(HD) 당 1\n\n응시 공격은 원뿔 모양의 효과 영역을 가지며 대상에게 직접 피해를 입히지 않습니다. 게임에서 사용할 수 있는 응시 공격 유형은 다음과 같습니다:\n\n정신영향: 매혹, 혼란, 혼미, 지배, 공포, 기절\n부정적 에너지: 파멸, 죽음, 질서 파괴, 선 파괴\n긍정적 에너지: 악 파괴, 혼돈 파괴\n이동 방해: 마비\n기타: 크렌샤의 공포 응시 (난이도(DC) 12, 3라운드 동안)",,,,,,0,0
 6551,,,"Difficulty Class, where applicable: 10 + 1 for every 4 HD.
 Damage, where applicable: 1d6 + 1d6 for every 4 HD.
 Duration, where applicable: 1 round + 1 for every 4 HD.
@@ -11586,7 +11586,7 @@ Direct Damage: Sonic.
 Mind-Affecting: Confuse, Daze, Fear, Stun.
 Negative Energy: Doom, Death.
 Movement Impeding: Paralysis.
-Miscellaneous: Trumpet Archon Blast (Difficulty Class of 19, Paralysis for 1d4 Rounds).","난이도(DC), 해당되는 경우: 10 + 4 생명점 주사위(HD) 당 1\n피해, 해당되는 경우: 1d6 + 1d4 생명점 주사위(HD) 당 6\n지속 시간, 해당되는 경우: 1라운드 + 4 생명점 주사위(HD) 당 1\n\n울부짖음은 모두 소리 기반 공격으로, 괴물은 목소리로 대상을 해칠 수 있습니다. 울부짖음의 효과 영역은 반경 9미터입니다. 울부짖음 공격은 효과의 범위가 넓지만 저항하기 쉽고 다른 공격 형태만큼 오래 지속되지는 않습니다. 게임에서 사용할 수 있는 울부짖음 공격 유형은 다음과 같습니다:\n\n직접 피해: 소리\n정신영향: 혼란, 몽롱함, 공포, 기절\n부정적 에너지: 파멸, 죽음\n이동 방해: 마비\n기타: 나팔 집정관 폭발 (난이도(DC) 19, 1d4라운드 간 마비)",,,,,,0,0
+Miscellaneous: Trumpet Archon Blast (Difficulty Class of 19, Paralysis for 1d4 Rounds).","난이도(DC), 해당되는 경우: 10 + 4 생명점 주사위(HD) 당 1\n피해, 해당되는 경우: 1d6 + 1d4 생명점 주사위(HD) 당 6\n지속 시간, 해당되는 경우: 1라운드 + 4 생명점 주사위(HD) 당 1\n\n울부짖음은 모두 소리 기반 공격으로, 괴물은 목소리로 대상을 해칠 수 있습니다. 울부짖음의 효과 영역은 반경 9미터입니다. 울부짖음 공격은 효과의 범위가 넓지만 저항하기 쉽고 다른 공격 형태만큼 오래 지속되지는 않습니다. 게임에서 사용할 수 있는 울부짖음 공격 유형은 다음과 같습니다:\n\n직접 피해: 소리\n정신영향: 혼란, 혼미, 공포, 기절\n부정적 에너지: 파멸, 죽음\n이동 방해: 마비\n기타: 나팔 집정관 폭발 (난이도(DC) 19, 1d4라운드 간 마비)",,,,,,0,0
 6552,,,"Difficulty Class, where applicable: 10 + 1 for every HD.
 Damage, where applicable: 1d6 per HD.
 Duration, where applicable: 1 round per HD.
@@ -13426,28 +13426,28 @@ A tile may have up to 2 source lights. An example of a source light would be tor
 8029,,,Regenerating,재생,,,,,,0,0
 8030,,,Damage Reduction,피해 감소,,,,,,0,0
 8031,,,Temporary Hit Points,임시 HP,,,,,,0,0
-8032,,,Entangled,휘감김,,,,,,0,0
+8032,,,Entangled,휘감기,,,,,,0,0
 8033,,,Invulnerable,무적,,,,,,0,0
 8034,,,Deaf,청각 상실,,,,,,0,0
-8035,,,Fatigued,피로함,,,,,,0,0
+8035,,,Fatigued,피로,,,,,,0,0
 8036,,,Immunity,면역,,,,,,0,0
-8037,,,Blind,눈멈,,,,,,0,0
+8037,,,Blind,실명,,,,,,0,0
 8038,,,Enemy Attack Bonus,적 공격 보너스,,,,,,0,0
-8039,,,Charmed,현혹됨,,,,,,0,0
-8040,,,Confused,혼란함,,,,,,0,0
-8041,,,Frightened,겁먹음,,,,,,0,0
-8042,,,Dominated,지배됨,,,,,,0,0
-8043,,,Paralyzed,마비됨,,,,,,0,0
-8044,,,Dazed,몽롱함,,,,,,0,0
-8045,,,Stunned,기절함,,,,,,0,0
-8046,,,Asleep,잠듦,,,,,,0,0
-8047,,,Poisoned,중독됨,,,,,,0,0
-8048,,,Diseased,질병에 걸림,,,,,,0,0
-8049,,,Cursed,저주받음,,,,,,0,0
-8050,,,Silenced,침묵당함,,,,,,0,0
-8051,,,Turned,퇴치됨,,,,,,0,0
-8052,,,Hasted,가속됨,,,,,,0,0
-8053,,,Slowed,둔화됨,,,,,,0,0
+8039,,,Charmed,현혹,,,,,,0,0
+8040,,,Confused,혼란,,,,,,0,0
+8041,,,Frightened,공포,,,,,,0,0
+8042,,,Dominated,지배,,,,,,0,0
+8043,,,Paralyzed,마비,,,,,,0,0
+8044,,,Dazed,혼미,,,,,,0,0
+8045,,,Stunned,기절,,,,,,0,0
+8046,,,Asleep,수면,,,,,,0,0
+8047,,,Poisoned,중독,,,,,,0,0
+8048,,,Diseased,질병,,,,,,0,0
+8049,,,Cursed,저주,,,,,,0,0
+8050,,,Silenced,침묵,,,,,,0,0
+8051,,,Turned,퇴치,,,,,,0,0
+8052,,,Hasted,가속,,,,,,0,0
+8053,,,Slowed,둔화,,,,,,0,0
 8054,,,Ability Increased,능력 상승,,,,,,0,0
 8055,,,Ability Decreased,능력 하락,,,,,,0,0
 8056,,,Attack Increased,공격 증가,,,,,,0,0
@@ -13477,7 +13477,7 @@ A tile may have up to 2 source lights. An example of a source light would be tor
 8080,,,True Seeing,진실의 시야,,,,,,0,0
 8081,,,See Invisibility,투명체 보기,,,,,,0,0
 8082,,,Time Stop,시간 정지,,,,,,0,0
-8083,,,Blind,눈멈,,,,,,0,0
+8083,,,Blind,실명,,,,,,0,0
 8084,,,Spell Level Absorption,주문 레벨 흡수,,,,,,0,0
 8085,,,Dispel Magic Best,마법해제 최상,,,,,,0,0
 8086,,,"Oh, for heavens' sake, follow me.","오, 제발 날 따라와.",,,,,,0,0
@@ -14150,7 +14150,7 @@ Specifics: The character avoids the first attack each round.
 Use: Automatic.","초월적 피하기(Epic dodge)\n재주 유형: 일반\n선결 조건: 레벨 21, 민첩 25이상, 재주넘기 등급 30, 우수한 회피, 방어굴림\n세부 사항: 매 라운드 첫 번째 공격을 피합니다.\n사용: 자동",,,,,,0,0
 8640,,,Talking to [Plot Giver] before killing Villain,악인을 죽이기 전에 [Plot Giver]와 대화를 나누는 중,,,,,,0,0
 8641,,,Return to me after you have killed the [Villain]. Good luck!,[Villain]을 죽인 다음에 저에게 오세요. 행운을 빕니다!,,,,,,0,0
-8642,,,Automatic Quicken Spell I,자동적인 신속 주문 1,,,,,,0,0
+8642,,,Automatic Quicken Spell I,자동 주문 신속화 1,,,,,,0,0
 8643,,,"Type of Feat: Spell
 Prerequisite: 21st level, Quicken Spell, Spellcraft 30, ability to cast 9th level spells.
 Specifics: This feat allows the character to cast spells with a moment of thought.
@@ -14158,10 +14158,10 @@ This feat may be taken multiple times:
 Automatic Quicken Spell I: Quicken any level 0 - 3 spells
 Automatic Quicken Spell II: Quicken any level 4 - 6 spells
 Automatic Quicken Spell III: Quicken any level 7 - 9 spells
-Use: Automatic.","자동적인 신속 주문(Automatic quicken spell)\n재주 유형: 마법변형\n선결 조건: 레벨 21, 신속 주문, 주문숙련 등급 30, 9레벨 주문 시전 능력\n세부 사항: 이 재주는 자동적으로 주문을 생각하자 마자 주문을 시전할 수 있도록 합니다. 이 재주는 여러번 선택 가능합니다.\n자동적인 신속 주문 1: 모든 0 ~ 3레벨 주문을 신속 주문으로 시전\n자동적인 신속 주문 2: 모든 4 ~ 6레벨 주문을 신속 주문으로 시전\n자동적인 신속 주문 3: 모든 7 ~ 9레벨 주문을 신속 주문으로 시전\n사용: 자동",,,,,,0,0
-8644,,,Automatic Quicken Spell II,자동적인 신속 주문 2,,,,,,0,0
-8645,,,Automatic Quicken Spell III,자동적인 신속 주문 3,,,,,,0,0
-8646,,,Automatic Silent Spell I,자동적인 무음 주문 1,,,,,,0,0
+Use: Automatic.","자동 주문 신속화(Automatic quicken spell)\n재주 유형: 마법변형\n선결 조건: 레벨 21, 주문 신속화, 주문숙련 등급 30, 9레벨 주문 시전 능력\n세부 사항: 이 재주는 자동적으로 주문을 생각하자 마자 주문을 시전할 수 있도록 합니다. 이 재주는 여러번 선택 가능합니다.\n자동 주문 신속화 1: 모든 0 ~ 3레벨 주문을 주문 신속화으로 시전\n자동 주문 신속화 2: 모든 4 ~ 6레벨 주문을 주문 신속화으로 시전\n자동 주문 신속화 3: 모든 7 ~ 9레벨 주문을 주문 신속화으로 시전\n사용: 자동",,,,,,0,0
+8644,,,Automatic Quicken Spell II,자동 주문 신속화 2,,,,,,0,0
+8645,,,Automatic Quicken Spell III,자동 주문 신속화 3,,,,,,0,0
+8646,,,Automatic Silent Spell I,자동 주문 무음화 1,,,,,,0,0
 8647,,,"Type of Feat: Spell
 Prerequisite: 21st level, Silent Spell, Spellcraft 24, ability to cast 9th level spells.
 Specifics: This feat allows the character to cast all spells of a given level range without the caster making any sound. This is especially useful if the caster has been silenced.
@@ -14169,10 +14169,10 @@ This feat may be taken multiple times:
 Automatic Silent Spell I:   Cast any level 0 - 3 spell as silent spell
 Automatic Silent Spell II:  Cast any level 4 - 6 spell as silent spell
 Automatic Silent Spell III: Cast any level 7 - 9 spell as silent spell
-Use: Automatic.","자동적인 무음 주문(Automatic silent spell)\n재주 유형: 마법변형\n선결 조건: 레벨 21, 무음 주문, 주문숙련 등급 24, 9레벨 주문 시전 능력\n세부 사항: 이 재주는 자동적으로 주문을 소리내지 않고 시전할 수 있도록 합니다. 이 재주는 여러번 선택 가능합니다.\n자동적인 무음 주문 1: 모든 0 ~ 3레벨 주문을 무음 주문으로 시전\n자동적인 무음 주문 2: 모든 4 ~ 6레벨 주문을 무음 주문으로 시전\n자동적인 무음 주문 3: 모든 7 ~ 9레벨 주문을 무음 주문으로 시전\n사용: 자동",,,,,,0,0
-8648,,,Automatic Silent Spell II,자동적인 무음 주문 2,,,,,,0,0
-8649,,,Automatic Silent Spell III,자동적인 무음 주문 3,,,,,,0,0
-8650,,,Automatic Still Spell I,자동적인 부동 주문 1,,,,,,0,0
+Use: Automatic.","자동 주문 무음화(Automatic silent spell)\n재주 유형: 마법변형\n선결 조건: 레벨 21, 주문 무음화, 주문숙련 등급 24, 9레벨 주문 시전 능력\n세부 사항: 이 재주는 자동적으로 주문을 소리내지 않고 시전할 수 있도록 합니다. 이 재주는 여러번 선택 가능합니다.\n자동 주문 무음화 1: 모든 0 ~ 3레벨 주문을 주문 무음화으로 시전\n자동 주문 무음화 2: 모든 4 ~ 6레벨 주문을 주문 무음화으로 시전\n자동 주문 무음화 3: 모든 7 ~ 9레벨 주문을 주문 무음화으로 시전\n사용: 자동",,,,,,0,0
+8648,,,Automatic Silent Spell II,자동 주문 무음화 2,,,,,,0,0
+8649,,,Automatic Silent Spell III,자동 주문 무음화 3,,,,,,0,0
+8650,,,Automatic Still Spell I,자동 주문 부동화 1,,,,,,0,0
 8651,,,"Type of Feat: Spell
 Prerequisite: 21st level, Still Spell, Spellcraft 27, ability to cast 9th level spells.
 Specifics: This feat allows the character to cast all spells of a given level range as still spells automatically. These spells may be cast while wearing armor.
@@ -14180,9 +14180,9 @@ This feat may be taken multiple times:
 Automatic Still Spell I:   Cast any level 0 - 3 spell as still spell
 Automatic Still Spell II:  Cast any level 4 - 6 spell as still spell
 Automatic Still Spell III: Cast any level 7 - 9 spell as still spell
-Use: Automatic.","자동적인 부동 주문(Automatic still spell)\n재주 유형: 마법변형\n선결 조건: 레벨 21, 부동 주문, 주문숙련 등급 27, 9레벨 주문 시전 능력\n세부 사항: 이 재주는 자동적으로 주문을 움직이지 않고 시전할 수 있도록 합니다. 이 재주는 여러번 선택 가능합니다.\n자동적인 부동 주문 1: 모든 0 ~ 3레벨 주문을 부동 주문으로 시전\n자동적인 부동 주문 2: 모든 4 ~ 6레벨 주문을 부동 주문으로 시전\n자동적인 부동 주문 3: 모든 7 ~ 9레벨 주문을 부동 주문으로 시전\n사용: 자동",,,,,,0,0
-8652,,,Automatic Still Spell II,자동적인 부동 주문 2,,,,,,0,0
-8653,,,Automatic Still Spell III,자동적인 부동 주문 3,,,,,,0,0
+Use: Automatic.","자동 주문 부동화(Automatic still spell)\n재주 유형: 마법변형\n선결 조건: 레벨 21, 주문 부동화, 주문숙련 등급 27, 9레벨 주문 시전 능력\n세부 사항: 이 재주는 자동적으로 주문을 움직이지 않고 시전할 수 있도록 합니다. 이 재주는 여러번 선택 가능합니다.\n자동 주문 부동화 1: 모든 0 ~ 3레벨 주문을 주문 부동화으로 시전\n자동 주문 부동화 2: 모든 4 ~ 6레벨 주문을 주문 부동화으로 시전\n자동 주문 부동화 3: 모든 7 ~ 9레벨 주문을 주문 부동화으로 시전\n사용: 자동",,,,,,0,0
+8652,,,Automatic Still Spell II,자동 주문 부동화 2,,,,,,0,0
+8653,,,Automatic Still Spell III,자동 주문 부동화 3,,,,,,0,0
 8654,,,Whirlwind Attack,회오리 공격,,,,,,0,0
 8655,,,"Type of Feat: General
 Prerequisite: Intelligence 13+, Expertise, Dexterity 13+, Dodge, Mobility, Spring Attack, Base Attack of +4.
@@ -15155,7 +15155,7 @@ Special:
  5: Improved Invisibility 1x
  10: Bolt, Confuse 2x
  15: Improved Invisibility 2x
- 20: Bolt, Confuse 3x and Improved Invisibility 3x","요정 용은 장난과 그럴듯한 농담을 좋아하는 작은 용입니다. 하지만 장난기 많은 성격 때문에 이들을 과소평가하면 안 됩니다. 주인의 레벨이 5레벨 오를때 마다, 요정 용은 우수한 투명화 및 몽롱함의 숨결 무기를 얻습니다.\n\n기술: 숨기, 조용히 이동\n재주: 경계태세, 우수한 회피\n특수:\n주인 레벨\n5: 우수한 투명화 1회 / 일\n10: 몽롱함의 화살 2회 / 일\n15: 우수한 투명화 2회 / 일\n20: 몽롱함의 화살 3회 / 일, 우수한 투명화 3회 / 일",,,,,,0,0
+ 20: Bolt, Confuse 3x and Improved Invisibility 3x","요정 용은 장난과 그럴듯한 농담을 좋아하는 작은 용입니다. 하지만 장난기 많은 성격 때문에 이들을 과소평가하면 안 됩니다. 주인의 레벨이 5레벨 오를때 마다, 요정 용은 우수한 투명화 및 혼미의 숨결 무기를 얻습니다.\n\n기술: 숨기, 조용히 이동\n재주: 경계태세, 우수한 회피\n특수:\n주인 레벨\n5: 우수한 투명화 1회 / 일\n10: 혼미의 화살 2회 / 일\n15: 우수한 투명화 2회 / 일\n20: 혼미의 화살 3회 / 일, 우수한 투명화 3회 / 일",,,,,,0,0
 9160,,,"Pseudodragons resemble miniature red dragons, but in looks alone. They do not commit evil acts, in fact they dislike evil acts very much. They do gain the power of fire like their large cousins starting at the masters 5th level.
 
 Skills: Hide, Move Silently
@@ -16249,7 +16249,7 @@ If you wish to keep your changes, you will have to do one of the following:
 10230,,,"Human, Female, Evil, Fanatic","인간 여성, 사악한 광신자",,,,,,0,0
 10231,,,"Human, Male, Evil, Fanatic","인간 남성, 사악한 광신자",,,,,,0,0
 10232,,,"Elf, Female, Sensible","엘프 여성, 분별 있는",,,,,,0,0
-10233,,,"Human, Female, Barmaid, Flirty","인간 여성, 바람둥이 바텐더",,,,,,0,0
+10233,,,"Human, Female, Barmaid, Flirty","인간 여성, 바람둥이 술집 아가씨",,,,,,0,0
 10234,,,"Elf, Female, Commoner, Pleasant","엘프 여성, 예의바른 평민",,,,,,0,0
 10235,,,"Human, Male, Older, World-Weary","인간 남성, 세상 물정에 지친 노인",,,,,,0,0
 10236,,,"Human, Male, Commoner, Uneducated","인간 남성, 무지한 평민",,,,,,0,0
@@ -17992,7 +17992,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13372,,,Harp of Haunting,귀신들린 하프,,,,,,0,0
 13373,,,"Carved from old bones and strung with the bowstrings of dead heroes, these grim instruments are not often put on display. They are brutally effective in combat, however, and several famous bards have used them when circumstances made it necessary.","오래된 뼈를 깎고 죽은 영웅들의 활줄로 현을 맨 이 음산한 악기들은 자주 눈에 띄진 않습니다. 하지만 인정사정 없을 정도로 전투에 효과적이며, 몇몇 유명한 음유시인이 필요한 상황일 때 사용했습니다.",,,,,,0,0
 13374,,,Harp of Pandemonium,복마전의 하프,,,,,,0,0
-13375,,,"Like their namesake plane, these instruments produce shifting, disconsolate tones that seem to penetrate the ear and confuse the senses. When strummed by a talent, these random notes coalesce into fields of pure chaos, turning dedicated enemies into dazed idiots.","같은 이름의 차원처럼, 이 악기는 술책을 부리는 음색과 비탄에 잠긴 음색을 귀에 침투 시켜 감각을 혼란하게 만듭니다. 재능있는 이가 현을 울리면, 임의의 음의 울림이 주변을 순수한 혼돈의 장으로 만들어 헌신적인 적들을 몽롱한 멍청이로 만들어 버립니다.",,,,,,0,0
+13375,,,"Like their namesake plane, these instruments produce shifting, disconsolate tones that seem to penetrate the ear and confuse the senses. When strummed by a talent, these random notes coalesce into fields of pure chaos, turning dedicated enemies into dazed idiots.","같은 이름의 차원처럼, 이 악기는 술책을 부리는 음색과 비탄에 잠긴 음색을 귀에 침투 시켜 감각을 혼란하게 만듭니다. 재능있는 이가 현을 울리면, 임의의 음의 울림이 주변을 순수한 혼돈의 장으로 만들어 헌신적인 적들을 혼미한 멍청이로 만들어 버립니다.",,,,,,0,0
 13376,,,Scabbard of Blessing,축복의 칼집,,,,,,0,0
 13377,,,"Most scabbards of this type were created by a long-forgotten order of paladins and militant clerics, but today they see use by all sorts of warriors, both good and evil.","이런 유형의 칼집은 대부분 오랜시간 잊혀진 성기사와 전투적인 성직자가 만들었지만, 오늘날엔 선과 악, 모든 성향의 투사들이 사용하는 것을 볼 수 있습니다.",,,,,,0,0
 13378,,,Meat,고기,,,,,,0,0
@@ -18154,7 +18154,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 13533,,,This stone was given to you by Aribeth during the plague outbreak in the city of Neverwinter. If activated it will transport you to the nearest Temple of Tyr.,이 돌은 네버윈터 시에서 전염병이 발생했을 때 아리베스가 준 것입니다. 활성화하면 가장 가까운 티르의 신전으로 이동합니다.,,,,,,0,0
 13534,,,Resistance,저항,,,,,,0,0
 13535,,,Ray of Frost,서리 광선,,,,,,0,0
-13536,,,Daze,몽롱함,,,,,,0,0
+13536,,,Daze,혼미,,,,,,0,0
 13537,,,Light,빛,,,,,,0,0
 13538,,,Endure Elements,원소 인내,,,,,,0,0
 13539,,,Protection from Alignment,가치관으로부터 보호,,,,,,0,0
@@ -19033,7 +19033,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 14403,,,"This magic weapon has an enhancement bonus to attack and damage, but it doesn't bear the hallmarks of any specific maker.","이 마법 무기는 명중과 피해에 대한 강화 보너스가 있지만, 특정 제작자의 품질 보증 인장은 없습니다.",,,,,,0,0
 14404,,,Short Sword +3,소검 +3,,,,,,0,0
 14405,,,Throwing Axe +1,투척도끼 +1,,,,,,0,0
-14406,,,"These axes are so named because each strikes with a blast of thunder, often dazing or deafening the target. Though legend holds that the axes were a gift from the heavens themselves, they are too variable in power to have come from a single source. Most scholars agree that they were likely fashioned by several different artisans, perhaps in tribute to a lost original.","이 도끼는 매 타격 시 종종 대상을 몽롱하게 하거나 귀를 먹게 하는 천둥을 동반하기 때문에 이런 이름이 붙었습니다. 전설에 따르면 도끼는 천상에서 내려준 선물이라고 하지만, 능력이 너무 다양하기 때문에 한 가지 근원에서 나왔을 수는 없습니다. 대부분의 학자들은 아마도 잃어버린 원본을 기리기 위해 여러 다른 공예가들이 만들었을 것이라는 데 동의합니다.",,,,,,0,0
+14406,,,"These axes are so named because each strikes with a blast of thunder, often dazing or deafening the target. Though legend holds that the axes were a gift from the heavens themselves, they are too variable in power to have come from a single source. Most scholars agree that they were likely fashioned by several different artisans, perhaps in tribute to a lost original.","이 도끼는 매 타격 시 종종 대상을 혼미하게 하거나 귀를 먹게 하는 천둥을 동반하기 때문에 이런 이름이 붙었습니다. 전설에 따르면 도끼는 천상에서 내려준 선물이라고 하지만, 능력이 너무 다양하기 때문에 한 가지 근원에서 나왔을 수는 없습니다. 대부분의 학자들은 아마도 잃어버린 원본을 기리기 위해 여러 다른 공예가들이 만들었을 것이라는 데 동의합니다.",,,,,,0,0
 14407,,,Thunderbeast Axe,천둥야수 도끼,,,,,,0,0
 14408,,,"The pride of the Thunderkind Corps until their dissolution in 1095 DR, these axes have seen battle countless times. Unfortunately, any individual acts of heroism accomplished with these weapons have been forgotten, forever overshadowed by a more dubious honor. Hangard's Axe is the only one of the lot individually remembered, losing its original name after a dwarf fond of ale made it famous by continually burying it in the foreheads of his friends.","DR 1095년 해산하기 전까지 천둥일족 군단의 자부심이었던 이 도끼는 수없이 많은 전투를 보아왔습니다. 불행하게도 이 무기들로 이루어진 영웅적 행위는 영원히 잊혀지고 더 수상쩍은 명예에 가려졌습니다. 행가드의 도끼가 개별적으로 기억되는 유일한 물건인데, 에일을 좋아하던 드워프가 계속해서 자신의 친구들의 미간에 두고 매장하여 유명해지면서 원래 이름을 잃어버렸습니다.",,,,,,0,0
 14409,,,Axe of the Coming Storm,다가오는 폭풍 도끼,,,,,,0,0
@@ -19569,7 +19569,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 24563,,,House Guard,주택 경비병,,,,,,0,0
 24566,,,Luskan,러스칸,,,,,,0,0
 24573,,,Aedoric,에이도릭,,,,,,0,0
-24577,,,Frightened,겁먹음,,,,,,0,0
+24577,,,Frightened,공포,,,,,,0,0
 24578,,,Bloodsailor,핏빛 항해자,,,,,,0,0
 24581,,,Gubdlo,굽들로,,,,,,0,0
 24582,,,the Dockworker,부두 일꾼,,,,,,0,0
@@ -19942,10 +19942,10 @@ The message is dated 1360DR, so it is more than a decade old.","이 브로치의
 25002,,,Cloaktower Door,망토탑 문,,,,,,0,0
 25003,,,Metal Door,금속 문,,,,,,0,0
 25004,,,Tyrran Door,티르 신도 문,,,,,,0,0
-25005,,,Helmite Door,헬름의 사제 문,,,,,,0,0
+25005,,,Helmite Door,헬름 신도 문,,,,,,0,0
 25006,,,DryadGuardian,드라이어드수호자,,,,,,0,0
 25007,,,Empty Encounter,빈 입구,,,,,,0,0
-25008,,,False Helmite (Inactive),가짜 헬름의 사제(비활성),,,,,,0,0
+25008,,,False Helmite (Inactive),가짜 헬름 사제(비활성),,,,,,0,0
 25009,,,Mummy,미라,,,,,,0,0
 25010,,,Zombie-M1Q5N,Zombie-M1Q5N,,,,,,0,0
 25011,,,Zombie-M1Q5T,Zombie-M1Q5T,,,,,,0,0
@@ -19969,7 +19969,7 @@ The message is dated 1360DR, so it is more than a decade old.","이 브로치의
 25029,,,Undead Weak,약한 언데드,,,,,,0,0
 25030,,,Undead Normal,일반 언데드,,,,,,0,0
 25031,,,Undead Difficult,어려운 언데드,,,,,,0,0
-25032,,,False Helmites,가짜 헬름의 사제,,,,,,0,0
+25032,,,False Helmites,가짜 헬름 사제들,,,,,,0,0
 25033,,,M1Q6D1Ogre,M1Q6D1Ogre,,,,,,0,0
 25034,,,M1S1Talonites,M1S1Talonites,,,,,,0,0
 25035,,,M1S2Guards,M1S2Guards,,,,,,0,0
@@ -20344,7 +20344,7 @@ Entry 249:
 25373,,,Chain Mail +2,사슬 갑옷 +2,,,,,,0,0
 25374,,,Artifact,유물,,,,,,0,0
 25375,,,Bertrand's Suit,베르트랑의 의상,,,,,,0,0
-25376,,,Welcome Mat,환영하는 깔개,,,,,,0,0
+25376,,,Welcome Mat,현관 깔개,,,,,,0,0
 25377,,,Chest,궤짝,,,,,,0,0
 25378,,,To City Core,도시 중심부로,,,,,,0,0
 25379,,,To Militia HQ,민병대 본부로,,,,,,0,0
@@ -20381,7 +20381,7 @@ Entry 249:
 26338,,,Armor of Lord Nasher,나셰르 영주의 갑옷,,,,,,0,0
 26339,,,Armor: Tyrran,갑옷: 티르의 신도,,,,,,0,0
 26340,,,Clothing: Tyrran,옷: 티르의 신도,,,,,,0,0
-26341,,,Armor: Helmite Plate,갑옷: 헬름의 사제의 판금,,,,,,0,0
+26341,,,Armor: Helmite Plate,갑옷: 헬름 사제 판금,,,,,,0,0
 26342,,,Black Grimoire,검은 마도서,,,,,,0,0
 26343,,,"This aged text feels cold to the touch, and your fingers are numb after handling it. Within its tainted pages are revealed the methods by which a person can summon forth the most heinous of creatures. Interestingly, there are also instructions on how to banish evil once summoned, should it prove too troublesome for the caster to deal with. This book would have to be used in very controlled circumstances, lest it have no effect, or worse, an uncontrolled one. Merely having it in one's possession will allow the use of a properly prepared altar.","이 오래된 문서는 만지면 차갑게 느껴지며, 그것을 만지고 나면 손가락이 저립니다. 그 오염된 장들 안에는 개인으로서 가장 극악한 생명체를 소환할 수 있는 방법을 밝히고 있습니다. 흥미롭게도, 한번 소환하고 나서, 시전자가 다루기에 너무 골칫거리인 경우에 악을 추방하는 방법에 대한 지침도 있습니다. 이 책은 매우 통제된 상황에서 사용해야 할 것 입니다.아니라면 효과가 없거나, 더 나쁜 일이 일어날 테니 말입니다. 이것을 소유하고 있기만 하면 제대로 준비된 제단을 사용할 수 있을 겁니다.",,,,,,0,0
 26344,,,This key allows access to some of the holding cells beneath Helm's Hold.,이 열쇠를 사용하면 헬름의 요새 아래에 있는 일부 감옥에 접근할 수 있습니다.,,,,,,0,0
@@ -20613,7 +20613,7 @@ Centered around the caster, this spell rains down holy damage on all within the 
 40195,,,"Projectile Trap, Circle of Death","투사체 함정, 죽음의 원진",,,,,,0,0
 40196,,,"Projectile Trap, Cloudkill","투사체 함정, 죽음구름",,,,,,0,0
 40197,,,"Projectile Trap, Dart","투사체 함정, 표창",,,,,,0,0
-40198,,,"Projectile Trap, Daze","투사체 함정, 몽롱함",,,,,,0,0
+40198,,,"Projectile Trap, Daze","투사체 함정, 혼미",,,,,,0,0
 40199,,,"Projectile Trap, Delayed Blast Fireball","투사체 함정, 지연 폭발 화염구",,,,,,0,0
 40200,,,"Projectile Trap, Dispel Magic","투사체 함정, 주문해제",,,,,,0,0
 40201,,,"Projectile Trap, Entangle","투사체 함정, 휘감기",,,,,,0,0
@@ -20908,7 +20908,7 @@ Centered around the caster, this spell rains down holy damage on all within the 
 41239,,,Mixed Armor,혼합 갑옷,,,,,,0,0
 41240,,,Peasant Outfit,농부 의상,,,,,,0,0
 41241,,,Merchant Outfit,상인 의상,,,,,,0,0
-41242,,,Barmaid Outfit,여급 의상,,,,,,0,0
+41242,,,Barmaid Outfit,술집 아가씨 의상,,,,,,0,0
 41243,,,Innkeeper Outfit,여관주인 의상,,,,,,0,0
 41244,,,Farmer Outfit,농부 의상,,,,,,0,0
 41245,,,Mage Robes,마법학자 로브,,,,,,0,0
@@ -22445,7 +22445,7 @@ Your server-side character has been saved.",서버를 종료할 준비를 하고
 57382,,,"Still wearing the tatters of his prison uniform, this escaped dwarf has the vicious look of someone with nothing to lose.",아직도 너덜너덜한 죄수복을 입고 있는 이 드워프 탈옥수는 더 잃을 것이 없는 것 같은 악랄한 모습을 하고 있습니다.,,,,,,0,0
 57383,,,"Still wearing the tatters of his prison uniform, this escaped half-orc has the vicious look of someone with nothing to lose.",아직도 너덜너덜한 죄수복을 입고 있는 이 하프오크 탈옥수는 더 잃을 것이 없는 것 같은 악랄한 모습을 하고 있습니다.,,,,,,0,0
 57384,,,"A smartly dressed and ordered militia captain. He shares the weary look of those under him, however. The plague is a strain on everyone.",깔끔하게 차려입고 명령을 내리는 민병대 대장입니다. 하지만 아랫 사람들 처럼 지친 표정을 하고 있습니다. 전염병은 모든 사람들을 힘들게 하고 있습니다.,,,,,,0,0
-57385,,,"A simple barmaid, looking a bit tired from the strain of continuing to serve customers while the world apparently ends outside.","바깥 세상은 끝난 것처럼 보이는데, 계속해서 손님들을 응대하느라 압박감에 약간 지친 모습의 평범한 술집 여급입니다.",,,,,,0,0
+57385,,,"A simple barmaid, looking a bit tired from the strain of continuing to serve customers while the world apparently ends outside.","바깥 세상은 끝난 것처럼 보이는데, 계속해서 손님들을 응대하느라 압박감에 약간 지친 모습의 평범한 술집 아가씨입니다.",,,,,,0,0
 57386,,,"A thoroughly repugnant creature, the Waterdhavian Intellect Devourer radiates evil. You cannot read its strange features, but only a fool would think it friendly.","완전히 불쾌한 생명체인 워터딥의 지성 포식귀는 사악함을 뿜어냅니다. 당신은 그것에게서 이상한 특징을 읽어낼 순 없지만, 멍청이들만이 그것을 우호적이라 생각할 겁니다.",,,,,,0,0
 57387,,,"This woman appears aware of everything around her, thriving amidst the chaos. She doesn't have the tired look her militia companions suffer from.","이 여성은 혼란이 퍼지는 가운데에도, 자신 주변의 모든 것들에 대해 의식하고 있는 것 같습니다. 그녀는 민병대 동료들처럼 지쳐 보이지 않습니다.",,,,,,0,0
 57388,,,"A privately hired guard, this elf regards you coldly. He appears quite capable of defending himself, if need be.",사설 경비병인 이 엘프는 당신을 차갑게 보고 있습니다. 필요하다면 그는 자신을 방어할 능력이 있어 보입니다.,,,,,,0,0
@@ -22845,22 +22845,22 @@ Both have now been recovered. No doubt Formosa will be eager for their delivery.
 57679,,,This child does not look like she enjoys the zoo. Seeing the animals caged appears to make her sad.,이 아이는 동물원이 즐겁지 않아 보입니다. 우리에 갇힌 동물들을 보니 슬픈 것 같습니다.,,,,,,0,0
 57680,,,"A blustering noble, enjoying the fact that the animals are caged for his amusement.",동물들이 자신의 즐거움을 위해 우리에 갇혀 있다는 사실을 즐기며 뽐내는 귀족입니다.,,,,,,0,0
 57683,,,"The Guardian of Helm stands before you, a truly imposing figure of righteous law and strength.",헬름의 수호자가 당신 앞에 서 있습니다. 진정으로 정의로운 법과 힘을 지닌 위풍당당한 모습입니다.,,,,,,0,0
-57684,,,"Having given up impersonating the good followers of Helm, this False Helmite is openly hostile and ready for a fight.",헬름의 선한 추종자로 가장하는 것을 포기한 이 가짜 헬름 신도는 대놓고 적대적이며 싸울 준비가 되어 있습니다.,,,,,,0,0
+57684,,,"Having given up impersonating the good followers of Helm, this False Helmite is openly hostile and ready for a fight.",헬름의 선한 추종자로 가장하는 것을 포기한 이 가짜 헬름 사제는 대놓고 적대적이며 싸울 준비가 되어 있습니다.,,,,,,0,0
 57685,,,The Cure at Last,드디어 치료제,,,,,,0,0
 57686,,,"After hours of preparation, the arcane ritual to construct the cure for the plague is about to begin, as per the instructions of Khelben ""Blackstaff"" Arunsun of Waterdeep. Aribeth, Fenthick, Desther and a half-dozen others now plan to combine the four strange reagents that were almost lost amidst the dying streets of Neverwinter. Lord Nasher watches on, awaiting the arrival of the recruit that made all of this possible.","몇 시간의 준비 끝에, 워터딥의 \""검은지팡이\"" 켈벤 아룬선의 설명에 따라, 전염병의 치료제를 만들기 위한 비전의 의식이 곧시작될 것이다. 아리베스, 펜딕, 데스터와 6명의 다른 사람들은 이제 죽어가는 네버윈터의 거리에서 잃어버릴 뻔한 4개의 이상한 시약을 결합할 계획이다. 나셰르 영주는 이 모든 것을 가능하게 한 신병의 도착을 기다리며 지켜보고 있다.",,,,,,0,0
 57687,,,"The arcane ritual to construct the cure for the plague is about to begin, as per the instructions of Khelben ""Blackstaff"" Arunsun of Waterdeep. Each of Lord Nasher, Lady Aribeth, Fenthick and Desther need to be spoken to before the ritual will commence.","워터딥의 \""검은지팡이\"" 켈벤 아룬선의 설명에 따라, 전염병의 치료제를 만들기 위한 비전의 의식이 곧 시작될 것이다. 의식을 시작하기 전에 나셰르 영주, 아리베스 경, 펜딕, 데스터와 각각 이야기를 해야 한다.",,,,,,0,0
 57688,,,"The ritual can now begin. Desther, Fenthick and Aribeth have added their skill to the ritual, mixing arcane and divine energy. The cure for the Wailing Death is within Neverwinter's reach.","이제 의식을 시작할 수 있다. 데스터, 펜딕, 아리베스는 자신들의 기술을 의식에 추가하여 비전과 신성 에너지를 섞었다. 울부짖는 죽음 역병의 치료제가 네버윈터의 손에 닿았다.",,,,,,0,0
-57689,,,"Disaster! The ritual to complete the cure for the Wailing Death has worked as planned, but Desther has proven to be a traitor and has stolen the result. He has fled through a magical portal while his False Helmites attacked, and Fenthick has followed.","큰일났다! 울부짖는 죽음 역병을 위한 치료제를 완성하기 위한 의식은 계획대로 되었지만, 데스터가 배신자임이 드러났고 결과물을 훔쳐가 버렸다. 그의 가짜 헬름의 사제들이 공격하는 동안 그는 마법의 차원문을 통해 도망쳤고, 펜딕이 그 뒤를 따라갔다.",,,,,,0,0
+57689,,,"Disaster! The ritual to complete the cure for the Wailing Death has worked as planned, but Desther has proven to be a traitor and has stolen the result. He has fled through a magical portal while his False Helmites attacked, and Fenthick has followed.","큰일났다! 울부짖는 죽음 역병을 위한 치료제를 완성하기 위한 의식은 계획대로 되었지만, 데스터가 배신자임이 드러났고 결과물을 훔쳐가 버렸다. 그의 가짜 헬름 사제들이 공격하는 동안 그는 마법의 차원문을 통해 도망쳤고, 펜딕이 그 뒤를 따라갔다.",,,,,,0,0
 57690,,,A Devil's Deal,마귀의 거래,,,,,,0,0
-57691,,,"It stands there, flaunting its evil, with all the time in the world. Chaohinon of the Void is the name of it. Apparently the False Helmites summoned it to crush the Guardian Spirit that watches over Helm's Hold. The demon has done just that, but has not been set free, and now wants someone to find a Black Grimoire and finish the ritual to set it loose upon the world. It promises adequate reward, but they always do, don't they?","세상에서 항상 악을 과시하며 그곳에 서 있는 그것, 그것의 이름은 공허의 카오히논이다. 가짜 헬름의 사제들이 헬름의 사제를 감시하는 수호령을 분쇄하려고 그것을 소환했다. 그 악마는 방금 그 일을 마쳤지만, 풀려나지는 않았는데, 이제 누군가가 검은 마도서를 찾아서 자신을 세상에 풀어주기 위한 의식을 끝내기를 원하고 있다. 합당한 보상을 약속하고 있지만, 악마들은 항상 그랬었을 것이다.",,,,,,0,0
+57691,,,"It stands there, flaunting its evil, with all the time in the world. Chaohinon of the Void is the name of it. Apparently the False Helmites summoned it to crush the Guardian Spirit that watches over Helm's Hold. The demon has done just that, but has not been set free, and now wants someone to find a Black Grimoire and finish the ritual to set it loose upon the world. It promises adequate reward, but they always do, don't they?","세상에서 항상 악을 과시하며 그곳에 서 있는 그것, 그것의 이름은 공허의 카오히논이다. 가짜 헬름 사제들이 헬름의 요새를 지키는 수호령을 분쇄하려고 그것을 소환했다. 그 악마는 방금 그 일을 마쳤지만, 풀려나지는 않았는데, 이제 누군가가 검은 마도서를 찾아서 자신을 세상에 풀어주기 위한 의식을 끝내기를 원하고 있다. 합당한 보상을 약속하고 있지만, 악마들은 항상 그랬었을 것이다.",,,,,,0,0
 57692,,,"Chaohinon of the Void has been unleashed to inflict his evil upon the world, an act that will no doubt bring consequences. But who cares, so long as the reward was sufficient? It was, wasn't it?",세상에 악을 안겨줄 공허의 카오히논을 풀어주었다. 의심할 여지 없는 결과를 가져올 행동이었다. 하지만 보상만 충분하다면 누가 신경쓸까? 그렇겠지?,,,,,,0,0
 57693,,,"Chaohinon of the Void has been unleashed to inflict its evil upon the world, an act that will no doubt bring consequences. Attempting to refuse a reward for freeing it did no good. The taint of the act has already left its mark. ",세상에 악을 안겨줄 공허의 카오히논을 풀어주었다. 의심할 여지 없는 결과를 가져올 행동이었다. 풀어준 보상을 거부하려고 하는 일은 아무 소용이 없었다. 그 행동의 오명은 이미 흔적을 남겼다.,,,,,,0,0
 57694,,,"Chaohinon of the Void has been banished back to the dark hells that spawned him. In his place has risen the Guardian Spirit of Helm's Hold. The demon had thought the Spirit destroyed, but it was only suppressed beneath the invading evil. Now it is free to aid in defending against Desther and the cult that has ravaged the Hold so severely. The Spirit offered reward, but it was refused.","공허의 카오히논을 그것을 낳은 어두운 지옥으로 다시 추방했다. 그 자리에 헬름의 요새의 수호령이 일어났다. 그 악마는 수호령을 파괴했다고 생각했지만, 수호령은 쳐들어온 악 아래서 억압되어 있기만 했었다. 이제 수호령은 자유롭게 데스터와 요새를 심하게 파괴한 사교를 막아낼 수 있다. 수호령이 보상을 주겠다고 했지만 거절하였다.",,,,,,0,0
 57695,,,"Chaohinon of the Void has been banished back to the dark hells that spawned him. In his place has risen the Guardian Spirit of Helm's Hold. The demon had thought the Spirit destroyed, but it was only suppressed beneath the invading evil. Now it is free to aid in defending against Desther and the cult that has ravaged the Hold so severely. The Spirit offered reward, and it was gladly accepted.","공허의 카오히논을 그것을 낳은 어두운 지옥으로 다시 추방했다. 그 자리에 헬름의 요새의 수호령이 일어났다. 그 악마는 수호령을 파괴했다고 생각했지만, 수호령은 쳐들어온 악 아래서 억압되어 있기만 했었다. 이제 수호령은 자유롭게 데스터와 요새를 심하게 파괴한 사교를 막아낼 수 있다. 수호령이 보상을 주겠다고 해서 기쁘게 받아들였다.",,,,,,0,0
 57696,,,Sins of a Traitor,배신자의 죄악,,,,,,0,0
-57697,,,"Disaster! The ritual to complete the cure for the Wailing Death has worked as planned, but Desther has proven to be a traitor and has stolen the result. He has fled through a magical portal while his False Helmites attacked, and Fenthick has followed. The reasons for this great deception are unknown, as are Fenthick's motivations in following Desther. Aribeth now strains to maintain the magical portal in the hopes that someone can follow the two, though there is little hope that this can come to a peaceful end.","큰일났다! 울부짖는 죽음 역병을 위한 치료제를 완성하기 위한 의식은 계획대로 되었지만, 데스터가 배신자임이 드러났고 결과물을 훔쳐가 버렸다. 그의 가짜 헬름의 사제들이 공격하는 동안 그는 마법의 차원문을 통해 도망쳤고, 펜딕이 그 뒤를 따라갔다. 이 엄청난 속임수의 이유는 알 수 없으며, 데스터를 따라간 펜딕의 동기도 알 수 없다. 비록 평화적으로 끝날 것이라는 희망은 거의 없지만, 아리베스는 누군가가 그 둘을 따라갈 거라는 희망으로 마법의 차원문을 유지하기 위해 애쓰고 있다.",,,,,,0,0
-57698,,,"Emerging from the magical portal, Desther and Fenthick are nowhere to be seen. There is, however, a formidable keep immediately ahead. Even from a distance the proud symbols of Helm on its banners and stonework are easily visible. This is no temporary encampment meant to disguise Desther's False Helmites. This is, or was, a well-fortified bastion of Helmite worship, and if Desther and his foul brethren have taken it, it was with the deaths of many a good and devout true Helmite. It is doubtful that Fenthick would have had any part of such an action, but his motives for following Desther are, as yet, unknown. The oly thing that is certain, is that somewhere inside is the cure for the plague. It must be found.","마법의 차원문에서 나와보니, 데스터와 펜딕은 어디에도 보이지 않았다. 그러나 당장 앞에 어마어마한 성채가 있다. 멀리서도 깃발과 석조물에 새겨진 헬름의 자랑스러운 상징들을 쉽게 볼 수 있다. 그 성채는 데스터의 가짜 헬름의 사제들을 위장하기 위한 임시 야영지가 아니다. 헬름의 사제들의 신앙의 요새화된 보루이거나, 였던 곳이었고, 데스터와 그의 역겨운 신도들이 그곳을 차지했다면, 선량하고 경건한 진짜 헬름의 사제들의 죽음이 있었을 것이다. 펜딕이 그런 행동에 가담했는지는 의심스럽지만, 데스터를 따라간 동기는 아직 밝혀지지 않았다. 유일하게 확실한 것은 그곳의 내부 어딘가에 전염병 치료제가 있다는 것이다. 반드시 찾아야 한다.",,,,,,0,0
-57699,,,"Dumal was found in the cells beneath Helm's Hold, where he's been a prisoner since shortly after Desther and his False Helmites arrived. He says that Desther only took the Hold as a staging area, using it to launch an attack on somewhere else, presumably Neverwinter. This was after the plague began, reinforcing the idea that Desther did not start the Wailing, but he did have a vested interest in spreading and prolonging it. Whoever his cult masters are, they wanted as much death to the disease as possible.","헬름의 요새 아래의 감방에서 듀말을 발견했는데, 데스터와 그의 가짜 헬름의 사제들이 도착한 직후로 그는 갇혀있었다. 그는 데스터가 요새를 무대로 삼았을 뿐이며, 다른 곳, 아마도 네버윈터를 공격하기 위해 사용했다고 말했다. 그건 전염병이 시작된 이후였고, 데스터가 울부짖는 죽음 역병을 일으킨 것은 아니지만, 그것을 퍼뜨리고 지속 시키는데 관심이 있었다는 생각을 굳혀주었다. 그의 사교가 주인들이 누구든 간에, 그들은 그 질병으로 가능한 한 많은 죽음이 일어나길 원했다.",,,,,,0,0
+57697,,,"Disaster! The ritual to complete the cure for the Wailing Death has worked as planned, but Desther has proven to be a traitor and has stolen the result. He has fled through a magical portal while his False Helmites attacked, and Fenthick has followed. The reasons for this great deception are unknown, as are Fenthick's motivations in following Desther. Aribeth now strains to maintain the magical portal in the hopes that someone can follow the two, though there is little hope that this can come to a peaceful end.","큰일났다! 울부짖는 죽음 역병을 위한 치료제를 완성하기 위한 의식은 계획대로 되었지만, 데스터가 배신자임이 드러났고 결과물을 훔쳐가 버렸다. 그의 가짜 헬름 사제들이 공격하는 동안 그는 마법의 차원문을 통해 도망쳤고, 펜딕이 그 뒤를 따라갔다. 이 엄청난 속임수의 이유는 알 수 없으며, 데스터를 따라간 펜딕의 동기도 알 수 없다. 비록 평화적으로 끝날 것이라는 희망은 거의 없지만, 아리베스는 누군가가 그 둘을 따라갈 거라는 희망으로 마법의 차원문을 유지하기 위해 애쓰고 있다.",,,,,,0,0
+57698,,,"Emerging from the magical portal, Desther and Fenthick are nowhere to be seen. There is, however, a formidable keep immediately ahead. Even from a distance the proud symbols of Helm on its banners and stonework are easily visible. This is no temporary encampment meant to disguise Desther's False Helmites. This is, or was, a well-fortified bastion of Helmite worship, and if Desther and his foul brethren have taken it, it was with the deaths of many a good and devout true Helmite. It is doubtful that Fenthick would have had any part of such an action, but his motives for following Desther are, as yet, unknown. The oly thing that is certain, is that somewhere inside is the cure for the plague. It must be found.","마법의 차원문에서 나와보니, 데스터와 펜딕은 어디에도 보이지 않았다. 그러나 당장 앞에 어마어마한 성채가 있다. 멀리서도 깃발과 석조물에 새겨진 헬름의 자랑스러운 상징들을 쉽게 볼 수 있다. 그 성채는 데스터의 가짜 헬름 사제들을 위장하기 위한 임시 야영지가 아니다. 헬름 신앙의 견고한 보루이거나 그랬던 곳이며, 데스터와 그의 역겨운 신도들이 그곳을 차지했다면, 선량하고 경건한 진짜 헬름 사제들이 많이 목숨을 잃었을 것이다. 펜딕이 그런 행동에 가담했는지는 의심스럽지만, 데스터를 따라간 동기는 아직 밝혀지지 않았다. 유일하게 확실한 것은 그곳의 내부 어딘가에 전염병 치료제가 있다는 것이다. 반드시 찾아야 한다.",,,,,,0,0
+57699,,,"Dumal was found in the cells beneath Helm's Hold, where he's been a prisoner since shortly after Desther and his False Helmites arrived. He says that Desther only took the Hold as a staging area, using it to launch an attack on somewhere else, presumably Neverwinter. This was after the plague began, reinforcing the idea that Desther did not start the Wailing, but he did have a vested interest in spreading and prolonging it. Whoever his cult masters are, they wanted as much death to the disease as possible.","헬름의 요새 아래의 감방에서 듀말을 발견했는데, 데스터와 그의 가짜 헬름 사제들이 도착한 직후로 그는 갇혀있었다. 그는 데스터가 요새를 무대로 삼았을 뿐이며, 다른 곳, 아마도 네버윈터를 공격하기 위해 사용했다고 말했다. 그건 전염병이 시작된 이후였고, 데스터가 울부짖는 죽음 역병을 일으킨 것은 아니지만, 그것을 퍼뜨리고 지속 시키는데 관심이 있었다는 생각을 굳혀주었다. 그의 사교가 주인들이 누구든 간에, 그들은 그 질병으로 가능한 한 많은 죽음이 일어나길 원했다.",,,,,,0,0
 57700,,,"Fenthick has been found in Helm's Hold. He is a broken man. His reasons for following Desther are innocent, but selfish, and may cost all of Neverwinter dearly. He desperately needed Desther to prove himself worth trusting. If Fenthick helped him one last time, or spoke up for him just a little more, there was the slimmest of hope that this would all turn out to be a mistake. In Fenthick's mind, if Desther was definitely a traitor, then he himself had helped the man kill thousands of innocent people under the guise of helping them. Rather than accept this burden, Fenthick hoped to prove it mistaken. He was not able to, and must accept his role in this crime against Neverwinter. He no longer cares about his fate, though it is certain that the people of Neverwinter will. He has been the advocate of the greatest villain they have ever known, and their vengeance will not separate the two.","헬름의 요새에서 펜딕을 발견했다. 그는 낙담해 있었다. 데스터를 따르던 그의 동기는 결백했지만, 이기적이며 네버윈터의 모든 것을 희생시킬 수도 있다. 그는 자신이 믿을 만한 가치가 있다는 것을 증명하기 위해 데스터가 절실히 필요했다. 펜딕이 마지막으로 그를 돕거나, 조금 더 그를 대변해서, 이 모든 것이 실수로 판명될 것이라는 아주 희박한 희망을 가지고 있다. 펜딕의 생각엔, 만약 데스터가 정말 배신자라면, 자신도 사람들을 돕는다는 미명하에 수천 명의 무고한 사람들을 죽이는 것을 돕게된 것이니, 이런 부담을 받아들이기보다는 그것이 실수였다는 것을 증명하기를 원했다. 그는 네버윈터를 상대로 한 이 범죄에서 자신이 맡은 역할을 받아들일 수 없었지만, 감내해야만 했다. 네버윈터의 사람들이 가만두지 않을 것을 알면서도, 그는 더 이상 자신의 운명에 대해 신경 쓰지 않았다. 그는 사람들이 아는 가장 최악의 악당을 옹호하였으니, 사람들의 복수심이 그 둘을 별개로 보진 않을 것이다.",,,,,,0,0
 57701,,,"Desther is near. He seemingly intends to make his last stand here to prove his worth to the cult that put him up to all of this. He likely still has the cure, though whether he intends to use it as bait or bargaining power is unknown. He must be brought to justice. Only then will the reasons behind this horrible attack be known. The toll has been too great to let these questions go unanswered.","데스터가 가까이 있다. 그는 자신을 이 모든 일에 몰아넣은 사교에게 자신의 가치를 증명하기 위해 여기서 최후의 저항을 할 작정인 것 같다. 미끼로 사용할 것인지 협상에 사용할 것인지는 알 수 없지만, 그는 아직 치료제를 가지고 있을 가능성이 높다. 그는 법의 심판을 받아야 한다. 그래야만 이 끔찍한 공격의 배후가 밝혀질 것이다. 이 질문들에 답하지 않고 넘어가기에는 사상자가 너무 많았다.",,,,,,0,0
 57702,,,"A strange woman has delivered an unsettling message outside of Helm's Hold. She claimed that Desther had served his purpose and was no longer needed. He now struggles to fortify in the Hold, hoping to raise enough undead to protect himself. The woman claimed that he would serve as a lesson that your fate cannot be avoided, and that Neverwinter should learn from this. Then she was gone.","헬름의 요새 밖에서 낯선 여성이 불안한 이야기를 전했다. 그녀는 데스터가 목적을 달성했고 더 이상 필요하지 않다고 주장했다. 그는 이제 요새에서 자신을 보호하기 위해 언데드를 충분히 일으키고자 노력하고 있다고 한다. 그 여자는 그가 운명은 피할 수 없다는 교훈을 줄 것이라며, 네버윈터도 이로부터 배워야 한다고 주장했다. 그리고 그녀는 사라졌다.",,,,,,0,0
@@ -22878,7 +22878,7 @@ Both have now been recovered. No doubt Formosa will be eager for their delivery.
 57716,,,"This half-orc is raving, and looks absolutely insane.","이 미쳐 날뛰는 하프오크는, 완전히 제정신이 아닌 것처럼 보입니다.",,,,,,0,0
 57717,,,"This young man cowers before you, deathly afraid.","이 소년은 죽을 만큼 두려워서, 당신 앞에 몸을 웅크리고 있습니다.",,,,,,0,0
 57718,,,This fanatical underling of Desther still wears the tatters of the robe he and his cohorts used to impersonate the good followers of Helm.,데스터의 광신적인 부하들은 아직도 헬름의 선한 추종자로 사칭하기 위해 사용했었던 너덜너덜한 로브를 입고 있습니다.,,,,,,0,0
-57719,,,This is one of the undead Desther is presumably raising to try and fill the ranks of his fallen False Helmites.,이것은 아마도 데스터가 타락한 가짜 헬름 신도들의 대열을 채우기 위해 일으킨 언데드 중 하나일 것 입니다.,,,,,,0,0
+57719,,,This is one of the undead Desther is presumably raising to try and fill the ranks of his fallen False Helmites.,이것은 아마도 데스터가 쓰러진 가짜 헬름 사제들의 대열을 채우기 위해 일으킨 언데드 중 하나일 것 입니다.,,,,,,0,0
 57720,,,"Desther is absolutely incensed, frantically attempting to complete his ritual. His plans are crumbling around him, and he does not look pleased.","데스터는 완전히 격분하여, 의식을 끝내려고 미친듯이 노력하고 있습니다. 그의 계획은 무너지고 있으며, 그도 기뻐 보이지는 않습니다.",,,,,,0,0
 57721,,,This hastily ensorcelled collection of body parts is channeling raw magical energy. Desther is doubtless conducting some sort of ritual to fortify his position.,이 황급하게 마법을 부여한 신체 부위들의 집합은 원시 마법적 에너지와 연결되어 있습니다. 데스터는 의심의 여지 없이 자신의 상태를 강화하기 위한 일종의 의식을 행하고 있습니다.,,,,,,0,0
 57871,,,This man looks vicious and hateful. His nondescript apparel gives no indication of what group or individual he might work for.,이 남자는 사악하고 증오에 차 보입니다. 특징없는 복장을 입고 있어 그가 어떤 단체나 개인을 위해 일하는지는 알 수 없습니다.,,,,,,0,0
@@ -23580,7 +23580,7 @@ Feats Required: Simple, Druid, Monk, or Wizard","기본 피해량: 1d6\n기본 �
 62461,,,<CUSTOM0> : Immune to Poison.,<CUSTOM0> : 독에 면역.,,,,,,0,0
 62462,,,<CUSTOM0> : Immune to Sneak Attacks.,<CUSTOM0> : 기습 공격에 면역.,,,,,,0,0
 62463,,,<CUSTOM0> : Immune to Sleep.,<CUSTOM0> : 수면에 면역.,,,,,,0,0
-62464,,,<CUSTOM0> : Immune to Daze.,<CUSTOM0> : 몽롱함에 면역.,,,,,,0,0
+62464,,,<CUSTOM0> : Immune to Daze.,<CUSTOM0> : 혼미에 면역.,,,,,,0,0
 62465,,,<CUSTOM0> : Immune to Confusion.,<CUSTOM0> : 혼란에 면역.,,,,,,0,0
 62466,,,<CUSTOM0> : Immune to Stun.,<CUSTOM0> : 기절에 면역.,,,,,,0,0
 62467,,,<CUSTOM0> : Immune to Blindness.,<CUSTOM0> : 실명에 면역.,,,,,,0,0
@@ -24891,7 +24891,7 @@ Golden Sickle: Requires special holy water and a magic sickle.","망치의 마�
 66145,,,Immunity: Dominate,면역: 지배,,,,,,0,0
 66146,,,Immunity: Confuse,면역: 혼란,,,,,,0,0
 66147,,,Immunity: Curse,면역: 저주,,,,,,0,0
-66148,,,Immunity: Dazed,면역: 몽롱함,,,,,,0,0
+66148,,,Immunity: Dazed,면역: 혼미,,,,,,0,0
 66149,,,Immunity: Ability decrease,면역: 능력 감소,,,,,,0,0
 66150,,,Immunity: Attack decrease,면역: 공격 감소,,,,,,0,0
 66151,,,Immunity: Damage decrease,면역: 피해 감소,,,,,,0,0
@@ -25156,11 +25156,11 @@ Golden Sickle: Requires special holy water and a magic sickle.",바룬의 무기
 66717,,,Use Generic Appearance,일반 외형 사용,,,,,,0,0
 66723,,,Expansion Pack %d,확장팩 %d,,,,,,0,0
 66738,,,Empower,강화,,,,,,0,0
-66739,,,Extend,연장화,,,,,,0,0
+66739,,,Extend,연장,,,,,,0,0
 66740,,,Maximize,극대화,,,,,,0,0
-66741,,,Quicken,신속,,,,,,0,0
-66742,,,Silent,무음,,,,,,0,0
-66743,,,Still,부동,,,,,,0,0
+66741,,,Quicken,신속화,,,,,,0,0
+66742,,,Silent,무음화,,,,,,0,0
+66743,,,Still,부동화,,,,,,0,0
 66746,,,Remove items from the player's inventory,플레이어의 인벤토리에서 아이템을 제거,,,,,,0,0
 66753,,,Tell,말하기,,,,,,0,0
 66754,,,Talk,대화하기,,,,,,0,0
@@ -25168,9 +25168,9 @@ Golden Sickle: Requires special holy water and a magic sickle.",바룬의 무기
 66756,,,DM,DM,,,,,,0,0
 66762,,,Empowered,강화됨,,,,,,0,0
 66763,,,Extended,연장됨,,,,,,0,0
-66764,,,Maximized,극대화된,,,,,,0,0
+66764,,,Maximized,극대화됨,,,,,,0,0
 66765,,,Quickened,신속화됨,,,,,,0,0
-66766,,,Silenced,무음화함,,,,,,0,0
+66766,,,Silenced,무음화됨,,,,,,0,0
 66767,,,Stilled,부동화됨,,,,,,0,0
 66768,,,There was already an entry with the ID %d. The new node was given ID %d.,ID %d는 이미 진입한 상태입니다. ID %d 가 새로운 노드를 부여했습니다 .,,,,,,0,0
 66769,,,Only One Party,Only One Party,,,,,,0,0
@@ -26212,7 +26212,7 @@ Use: Automatic.","작은 키(Small stature)\n재주 유형: 종족\n선결 조�
 67987,,,Taunting Women,조롱하는 여성,,,,,,0,0
 67988,,,Taunts Noble Group,조롱하는 귀족 무리,,,,,,0,0
 67989,,,Taunts Commoner Group,조롱하는 평민 무리,,,,,,0,0
-67990,,,Tavern Barmaid,선술집 여성 바텐더,,,,,,0,0
+67990,,,Tavern Barmaid,술집 아가씨,,,,,,0,0
 67991,,,Tavern Bartender,선술집 바텐더,,,,,,0,0
 67992,,,Tavern Claps,선술집 환호소리,,,,,,0,0
 67993,,,Tavern Glass Clinks,선술집에서 유리잔 부딪히는 소리,,,,,,0,0
@@ -26752,7 +26752,7 @@ Use: Selected (In order to scribe a scroll, the character has to cast the spell 
 69048,,,"Projectile Trap Trigger, Balagarn's Iron Horn (Weak)","투사체 함정 트리거, 발러가른의 철 뿔피리 (약한)",,,,,,0,0
 69049,,,"Projectile Trap Trigger, Bolt (Weak)","투사체 함정 트리거, 쇠뇌화살 (약한)",,,,,,0,0
 69050,,,"Projectile Trap Trigger, Dart (Weak)","투사체 함정 트리거, 표창 (약한)",,,,,,0,0
-69051,,,"Projectile Trap Trigger, Daze (Weak)","투사체 함정 트리거, 몽롱함 (약한)",,,,,,0,0
+69051,,,"Projectile Trap Trigger, Daze (Weak)","투사체 함정 트리거, 혼미 (약한)",,,,,,0,0
 69052,,,"Projectile Trap Trigger, Grenade - Acid (Weak)","투사체 함정 트리거, 수류탄 - 산성 (약한)",,,,,,0,0
 69053,,,"Projectile Trap Trigger, Grenade - Caltrops (Weak)","투사체 함정 트리거, 수류탄 - 마름쇠 (약한)",,,,,,0,0
 69054,,,"Projectile Trap Trigger, Grenade - Choking (Weak)","투사체 함정 트리거, 수류탄 - 질식 (약한)",,,,,,0,0
