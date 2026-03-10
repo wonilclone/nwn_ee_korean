@@ -1,8 +1,8 @@
 ﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
 69305,PC,Player Character,<StartAction>Leave the lab alone.</Start>,<StartAction>실험실을 내버려둡니다.</Start>,q1a_focuslab,,,,,0,0
-69306,PC,Player Character,<StartAction>Create focus crystals.</Start>,<StartAction>초첨 수정을 만듭니다.</Start>,q1a_focuslab,,,,,0,0
+69306,PC,Player Character,<StartAction>Create focus crystals.</Start>,<StartAction>초점 수정을 만듭니다.</Start>,q1a_focuslab,,,,,0,0
 69307,PC,Player Character,<StartAction>Search the lab.</Start>,<StartAction>실험실을 수색합니다.</Start>,q1a_focuslab,,con_q1a2table_1,,,0,0
-69308,PC,Player Character,<StartAction>How do I create a focus crystal?</Start>,<StartAction>초첨 수정을 어떻게 만들지?</Start>,q1a_focuslab,,,,,0,0
+69308,PC,Player Character,<StartAction>How do I create a focus crystal?</Start>,<StartAction>초점 수정을 어떻게 만들지?</Start>,q1a_focuslab,,,,,0,0
 69360,PC,Player Character,What do I care? Stop bothering me.,내가 왜 신경 써야 해? 귀찮게 하지 마.,q1amischa,,,,,0,0
 69361,PC,Player Character,"I just want out of here, that's all.",난 그냥 여기서 나가고 싶을 뿐이야.,q1amischa,,,,,0,0
 69362,PC,Player Character,"I'll say whatever I like, girl.","내가 하고 싶은 말 하는 거야, 아가씨.",q1amischa,,,,,0,0
@@ -841,7 +841,7 @@
 105279,PC,Player Character,"""Just wait a bit. Just until I get to the Elder Brain.""","""조금만 기다려. 내가 엘더 브레인에 도착할 때까지만.""",q2dslaveleader,,,,,0,0
 105280,PC,Player Character,"""You're right. Go now, before it's too late. Hurry.""","""네 말이 맞아. 지금 가, 너무 늦기 전에. 서둘러.""",q2dslaveleader,,,,,0,0
 105281,PC,Player Character,"<StartAction>Intimidate</Start> ""Either give me some time, or I'll kill you all now!""","<StartAction>위협</Start> ""시간을 줘, 아니면 지금 당장 다 죽일 거야!""",q2dslaveleader,,,,,0,0
-105282,PC,Player Character,"<StartAction>Bluff</Start> ""I'm going to poison the Elder Brain, crippling all the illithid.""","<StartAction>허세</Start> ""엘더 브레인을 독살해서 일리시드를 전부 무력화시킬 거야.""""""",q2dslaveleader,,,,,0,0
+105282,PC,Player Character,"<StartAction>Bluff</Start> ""I'm going to poison the Elder Brain, crippling all the illithid.""","<StartAction>허세</Start> ""엘더 브레인을 독살해서 일리시드를 전부 무력화시킬 거야.""",q2dslaveleader,,,,,0,0
 105283,PC,Player Character,"<StartAction>Persuade</Start> ""Consider it payback for me freeing you.""","<StartAction>설득</Start> ""널 해방시켜 준 것에 대한 보답이라고 생각해.""",q2dslaveleader,,,,,0,0
 105284,PC,Player Character,"""You're annoying me. Time to die."" <StartAction>Attack the thralls.</Start>","""짜증나게 하는군. 죽을 시간이야."" <StartAction>노예들을 공격합니다.</Start>",q2dslaveleader,act_q2dslaveld_1,,,,0,0
 105285,PC,Player Character,"""You're free. Go now, before the illithid discover you've escaped.""","""이제 자유야. 일리시드가 탈출한 걸 발견하기 전에 가.""",q2dslaveleader,,,,,0,0
