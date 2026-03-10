@@ -43,33 +43,33 @@
 23107,PC,Player Character,"You see lotta survivors, or just dead guys?","너 생존자 많이 봤어, 아니면 죽은 놈들만 봤어?",m1q5a09bert,,[지능 낮음],,,0,0
 23108,PC,Player Character,Is this the only safe place he might have gone?,그가 갔을 만한 안전한 곳이 여기뿐인가?,m1q5a09bert,,[지능 보통],,,0,0
 23109,PC,Player Character,This the only safe place he maybe be?,그가 있을 안전한 데 여기뿐이야?,m1q5a09bert,,[지능 낮음],,,0,0
-62944,PC,Player Character [M1Q5A09],<StartAction>(Hold up staff)</Start> You know staff? Me finds it on his body.,<StartAction>(지팡이를 들어 보인다)</Start> 이 지팡이 알아? 나 그 사람 시신에서 찾았어.,m1q5a09bert,m1q5_b_showstaff,m1q5a09bertclgi,[M1Q5A09],,0,0
-62945,PC,Player Character [M1Q5A09],<StartAction>(Hold up staff)</Start> Do you recognize this staff? I found it on his body.,<StartAction>(지팡이를 들어 보인다)</Start> 이 지팡이 알아봐? 그의 시신에서 찾았어.,m1q5a09bert,m1q5_b_showstaff,m1q5a09bertclg5,[M1Q5A09],,0,0
-62946,PC,Player Character [M1Q5A09],"<StartCheck>[Persuade]</Start> <StartAction>(Hold up Journal)</Start> Me find body of his. Look, his book he write. ","<StartCheck>[설득]</Start> <StartAction>(일지를 들어 보인다)</Start> 나 그 사람 시신 찾았어. 봐, 그 사람이 쓴 책.",m1q5a09bert,,m1q5a09bert0002,[M1Q5A09],,0,0
-62947,PC,Player Character [M1Q5A09],"<StartCheck>[Persuade]</Start> <StartAction>(Hold up Journal)</Start> I found his body. Look, I found his journal. ","<StartCheck>[설득]</Start> <StartAction>(일지를 들어 보인다)</Start> 그의 시신을 찾았어. 봐, 일지를 찾았어.",m1q5a09bert,,m1q5a09bert0001,[M1Q5A09],,0,0
+62944,PC,Player Character [M1Q5A09],<StartAction>(Hold up staff)</Start> You know staff? Me finds it on his body.,<StartAction>(지팡이를 들어 보입니다)</Start> 이 지팡이 알아? 나 그 사람 시신에서 찾았어.,m1q5a09bert,m1q5_b_showstaff,m1q5a09bertclgi,[M1Q5A09],,0,0
+62945,PC,Player Character [M1Q5A09],<StartAction>(Hold up staff)</Start> Do you recognize this staff? I found it on his body.,<StartAction>(지팡이를 들어 보입니다)</Start> 이 지팡이 알아봐? 그의 시신에서 찾았어.,m1q5a09bert,m1q5_b_showstaff,m1q5a09bertclg5,[M1Q5A09],,0,0
+62946,PC,Player Character [M1Q5A09],"<StartCheck>[Persuade]</Start> <StartAction>(Hold up Journal)</Start> Me find body of his. Look, his book he write. ","<StartCheck>[설득]</Start> <StartAction>(일지를 들어 보입니다)</Start> 나 그 사람 시신 찾았어. 봐, 그 사람이 쓴 책.",m1q5a09bert,,m1q5a09bert0002,[M1Q5A09],,0,0
+62947,PC,Player Character [M1Q5A09],"<StartCheck>[Persuade]</Start> <StartAction>(Hold up Journal)</Start> I found his body. Look, I found his journal. ","<StartCheck>[설득]</Start> <StartAction>(일지를 들어 보입니다)</Start> 그의 시신을 찾았어. 봐, 일지를 찾았어.",m1q5a09bert,,m1q5a09bert0001,[M1Q5A09],,0,0
 62948,PC,Player Character [M1Q5A09],Me gots staff stick. Yous gonna have to pay lots.,나 지팡이 막대기 있어. 너 많이 돈 내야 해.,m1q5a09bert,,m1q5a09bertclgi,[M1Q5A09],,0,0
 62949,PC,Player Character [M1Q5A09],"I have his staff. You will pay well for it, I think.",그의 지팡이가 있어. 당신은 비싸게 값을 치를 거야.,m1q5a09bert,,m1q5a09bertclg5,[M1Q5A09],,0,0
 62950,PC,Player Character,You gots to pay more. Gimmie.,너 돈 더 내야 해. 내놔.,m1q5a09bert,,[지능 낮음],,,0,0
 62951,PC,Player Character,That's not enough. I demand more.,그걸로는 부족해. 더 내놔.,m1q5a09bert,,[지능 보통],,,0,0
-62952,PC,Player Character,That okay. You take staff.,나 더 많이 돈 받을 거야.,m1q5a09bert,m1q5_bert0006,[지능 낮음],,,0,0
-62953,PC,Player Character,That will do nicely. Take the staff.,더 많이 줘야 해.,m1q5a09bert,m1q5_bert0006,[지능 보통],,,0,0
+62952,PC,Player Character,That okay. You take staff.,그거 됐어. 지팡이 가져.,m1q5a09bert,m1q5_bert0006,[지능 낮음],,,0,0
+62953,PC,Player Character,That will do nicely. Take the staff.,그 정도면 충분해. 지팡이 가져.,m1q5a09bert,m1q5_bert0006,[지능 보통],,,0,0
 62954,PC,Player Character [M1Q5A09],Me gots staff he had. You just have it. Me give.,너 이거 가져. 이제 너한테 줄게.,m1q5a09bert,m1q5a09bertelc,m1q5a09bertclgi,[M1Q5A09],,0,0
 62955,PC,Player Character [M1Q5A09],I have his staff. You can simply have it.,이거 가져. 너 갖고 있어.,m1q5a09bert,m1q5a09bertelc,m1q5a09bertclg5,[M1Q5A09],,0,0
-62956,PC,Player Character [M1Q5A09],Me wants pay for book he wroted.,<StartAction>(지팡이를 건넨다)</Start> 여기. 이게 그의 지팡이야.,m1q5a09bert,,m1q5a09bert0002,[M1Q5A09],,0,0
-62957,PC,Player Character [M1Q5A09],I demand payment for his journal.,"<StartAction>(지팡이를 건넨다)</Start> 여기, 그의 지팡이야.",m1q5a09bert,,m1q5a09bert0001,[M1Q5A09],,0,0
-62958,PC,Player Character,"No, that not enough.",<StartAction>(일지를 건넨다)</Start> 여기 일지. 그가 쓴 거야.,m1q5a09bert,,[지능 낮음],,,0,0
-62959,PC,Player Character,"No, that's not enough.",<StartAction>(일지를 건넨다)</Start> 여기 그의 일지.,m1q5a09bert,,[지능 보통],,,0,0
+62956,PC,Player Character [M1Q5A09],Me wants pay for book he wroted.,나 그 사람이 쓴 책 대가 원해.,m1q5a09bert,,m1q5a09bert0002,[M1Q5A09],,0,0
+62957,PC,Player Character [M1Q5A09],I demand payment for his journal.,일지에 대한 대가를 요구하겠어.,m1q5a09bert,,m1q5a09bert0001,[M1Q5A09],,0,0
+62958,PC,Player Character,"No, that not enough.","아니, 그건 부족해.",m1q5a09bert,,[지능 낮음],,,0,0
+62959,PC,Player Character,"No, that's not enough.","아니, 그걸로는 부족해.",m1q5a09bert,,[지능 보통],,,0,0
 62960,PC,Player Character [M1Q5A09],That good. Take dumb book.,알았어. 가져.,m1q5a09bert,m1q5a09bert0006,[지능 낮음],[M1Q5A09],,0,0
 62961,PC,Player Character [M1Q5A09],That will do nicely. Take the lousy journal.,좋아. 가져.,m1q5a09bert,m1q5a09bert0006,[지능 보통],[M1Q5A09],,0,0
 62962,PC,Player Character,Then you gets nothing.,나 이거 갖고 있을래.,m1q5a09bert,,[지능 낮음],,,0,0
 62963,PC,Player Character,"Well, then you get nothing.",이건 내가 갖고 있을게.,m1q5a09bert,,[지능 보통],,,0,0
-62964,PC,Player Character [M1Q5A09],Me gots book. What me need book for? You just takes it.,<StartAction>(펜홀드가의 법복을 건넨다)</Start> 이것도 있었어.,m1q5a09bert,m1q5a09bert0005,m1q5a09bert0002,[M1Q5A09],,0,0
-62965,PC,Player Character [M1Q5A09],I have his journal. I will give it to you.,<StartAction>(펜홀드가의 법복을 건넨다)</Start> 이것도 갖고 있었어.,m1q5a09bert,m1q5a09bert0005,m1q5a09bert0001,[M1Q5A09],,0,0
-62966,PC,Player Character,"<StartCheck>[Lie]</Start> No, there nothing else me find.",이걸로 끝이야. 더 이상 없어.,m1q5a09bert,,[지능 낮음],,,0,0
-62967,PC,Player Character,"<StartCheck>[Lie]</Start> No, there was nothing else that I found.",그게 다야.,m1q5a09bert,,[지능 보통],,,0,0
-62968,PC,Player Character,<StartCheck>[Persuade]</Start> Me see him dead. Honest. You believe because it true.,<StartAction>(로브를 건넨다)</Start> 여기 로브. 가져.,m1q5a09bert,,[지능 낮음],,,0,0
-62969,PC,Player Character,"<StartCheck>[Persuade]</Start> I swear to you, I saw his body. You will have to accept my word.",<StartAction>(로브를 건넨다)</Start> 로브야. 가져.,m1q5a09bert,,[지능 보통],,,0,0
-62970,PC,Player Character,"<StartCheck>[Lie]</Start> No, there nothing. Me sorry.",나 더 필요해. 줘.,m1q5a09bert,,[지능 낮음],,,0,0
-62971,PC,Player Character,"<StartCheck>[Lie]</Start> No, I'm sorry. There was nothing.",더 많이 줘. 충분하지 않아.,m1q5a09bert,,[지능 보통],,,0,0
+62964,PC,Player Character [M1Q5A09],Me gots book. What me need book for? You just takes it.,나 책 있어. 나한테 책이 뭐 필요해? 그냥 가져.,m1q5a09bert,m1q5a09bert0005,m1q5a09bert0002,[M1Q5A09],,0,0
+62965,PC,Player Character [M1Q5A09],I have his journal. I will give it to you.,그의 일지가 있어. 줄게.,m1q5a09bert,m1q5a09bert0005,m1q5a09bert0001,[M1Q5A09],,0,0
+62966,PC,Player Character,"<StartCheck>[Lie]</Start> No, there nothing else me find.","<StartCheck>[거짓말]</Start> 아니, 다른 거 못 찾았어.",m1q5a09bert,,[지능 낮음],,,0,0
+62967,PC,Player Character,"<StartCheck>[Lie]</Start> No, there was nothing else that I found.","<StartCheck>[거짓말]</Start> 아니, 그 밖에 찾은 건 없었어.",m1q5a09bert,,[지능 보통],,,0,0
+62968,PC,Player Character,<StartCheck>[Persuade]</Start> Me see him dead. Honest. You believe because it true.,<StartCheck>[설득]</Start> 나 그 사람 죽은 거 봤어. 진짜야. 진짜니까 믿어.,m1q5a09bert,,[지능 낮음],,,0,0
+62969,PC,Player Character,"<StartCheck>[Persuade]</Start> I swear to you, I saw his body. You will have to accept my word.","<StartCheck>[설득]</Start> 맹세하는데, 그의 시신을 봤어. 내 말을 받아들여야 할 거야.",m1q5a09bert,,[지능 보통],,,0,0
+62970,PC,Player Character,"<StartCheck>[Lie]</Start> No, there nothing. Me sorry.","<StartCheck>[거짓말]</Start> 아니, 아무것도 없어. 미안.",m1q5a09bert,,[지능 낮음],,,0,0
+62971,PC,Player Character,"<StartCheck>[Lie]</Start> No, I'm sorry. There was nothing.","<StartCheck>[거짓말]</Start> 아니, 미안하지만 아무것도 없었어.",m1q5a09bert,,[지능 보통],,,0,0
 62972,PC,Player Character,Me got's nothing more to says to you.,나 더 말할 거 없어.,m1q5a09bert,,[지능 낮음],,,0,0
 62973,PC,Player Character,I have nothing more to say to you.,더 이상 할 말이 없어요.,m1q5a09bert,,[지능 보통],,,0,0

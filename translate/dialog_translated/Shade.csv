@@ -1,5 +1,5 @@
 StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
-50468,Creature,Shade,"Hello, <FirstName>. You don't know me, but you can just call me Shade. ","안녕, <FirstName>. 날 모르겠지만, 그냥 쉐이드라고 불러.",M0Q01A08SHAD,,,,,0,0
+50468,Creature,Shade,"Hello, <FirstName>. You don't know me, but you can just call me Shade. ","안녕, <FirstName>. 날 모르겠지만, 그냥 셰이드라고 불러.",M0Q01A08SHAD,,,,,0,0
 50469,Creature,Shade,"Back again, <FirstName>? Need to pick my brain one more time, or is there something else?","다시 왔네, <FirstName>? 한 번 더 내 머리를 빌리려고, 아니면 다른 일이 있어?",M0Q01A08SHAD,,,,,0,0
 50470,Creature,Shade,"Don't worry, it's nothing sinister. Just a little harmless spying on my part. Ketta says I need to practice my espionage skills. I've been watching you for quite some time.","걱정 마, 불길한 건 아니야. 그냥 내 나름의 해가 없는 스파이질이지. 케타가 첩보 기술을 연습해야 한다고 했거든. 꽤 오랫동안 널 지켜봤어.",M0Q01A08SHAD,,,,,0,0
 50471,Creature,Shade,But now that you're almost done with your training here at the Academy I'm going to have to find someone else to spy on. Hmmm... maybe Lady Aribeth would make a nice target.,"하지만 이제 여기 사관학교 훈련이 거의 끝나가니 다른 사람을 찾아야겠어. 흠... 아마 아리베스 경이 좋은 목표가 될 거야.",M0Q01A08SHAD,nw_d1_talklevel,,,,0,0
@@ -42,4 +42,4 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 50508,Creature,Shade,It really isn't my place to say any more. You should really speak to Silk about this.,더 말할 입장이 아니야. 이건 정말 실크한테 직접 물어봐야 해.,M0Q01A08SHAD,,,,,0,0
 50509,Creature,Shade,"Hmmm... there might be some questions you ask that I really shouldn't answer, especially if they concern my fellow students.","흠... 내가 정말 대답하면 안 되는 질문도 있을 수 있어, 특히 동료 학생들에 관한 거라면.",M0Q01A08SHAD,,,,,0,0
 50510,Creature,Shade,She's over there in the northeast alcove of the room. She's been watching you this whole time.,저기 방 북동쪽 벽감에 있어. 계속 널 지켜보고 있었어.,M0Q01A08SHAD,,,,,0,0
-50958,Creature,Shade,Shade,쉐이드,M0Q01A08SHAD,,,,,0,0
+50958,Creature,Shade,Shade,셰이드,M0Q01A08SHAD,,,,,0,0

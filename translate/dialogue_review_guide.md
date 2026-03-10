@@ -37,70 +37,70 @@
 
 ### OC-프롤로그/챕터1 (59파일, 5,156 대사)
 - [x] PC_m0q01a01pave (75) → PAVE
-- [ ] PC_m0q01a02olge (99) → OLGE
-- [ ] PC_m0q01a03bern (60) → BERN
-- [ ] PC_m0q01a05erda (41) → NPC_E_small
-- [ ] PC_m0q01a05gilb (89) → Gilbert
-- [ ] PC_m0q01a05herb (112) → HERB
-- [ ] PC_m0q01a06chan (91) → Chandra
-- [ ] PC_m0q01a06jaro (84) → JARO
-- [ ] PC_m0q01a06zedi (46) → Zedir
-- [ ] PC_m0q01a07anse (46) → Ansel
-- [ ] PC_m0q01a07elyn (88) → ELYN
-- [ ] PC_m0q01a07tabi (44) → TABI
-- [ ] PC_m0q01a08kett (95) → KETT
-- [ ] PC_m0q01a08shad (95) → Shade
-- [ ] PC_m0q01a08silk (91) → Silk
-- [ ] PC_m0q01a09arib (54) → ARIB
-- [ ] PC_m0q01a0bim (118) → BIM
-- [ ] PC_m0q01a12pave (98) → PAVE
-- [ ] PC_m0q01a15gend (43) → GEND
-- [ ] PC_m0q01a23fent (78) → FENT
-- [ ] PC_m1q00deathcleric (75) → DEATHCLERIC
-- [ ] PC_m1q01a03eltr (49) → ELTR
-- [ ] PC_m1q02allhelm (64) → ALLHELM
-- [ ] PC_m1q02alltowf (43) → NPC_A_small
-- [ ] PC_m1q02alltown (42) → NPC_A_small
-- [ ] PC_m1q1_gateblak (86) → GATEBLAK
-- [ ] PC_m1q1_gatedock (87) → GATEDOCK
-- [ ] PC_m1q1_gatepen (86) → GATEPEN
-- [ ] PC_m1q1a00com1 (103) → Commoner
-- [ ] PC_m1q1a00com2 (101) → Commoner
-- [ ] PC_m1q1a00com3 (60) → Commoner
-- [ ] PC_m1q1a00gen1 (101) → GEN1
-- [ ] PC_m1q1a00gen2 (101) → GEN2
-- [ ] PC_m1q1a00gen3 (91) → GEN3
-- [ ] PC_m1q1a00gen4 (110) → GEN4
-- [ ] PC_m1q1a00gen5 (114) → GEN5
-- [ ] PC_m1q1a00guard01 (87) → GUARD01
-- [ ] PC_m1q1a00harlot (93) → HARLOT
-- [ ] PC_m1q1a01olef (177) → OLEF
-- [ ] PC_m1q1a01push (86) → PUSH
-- [ ] PC_m1q1a01s1br (73) → BR
-- [ ] PC_m1q1a01s1wm (65) → WM
-- [ ] PC_m1q1a05nyat (128) → NYAT
-- [ ] PC_m1q1a05s1m1 (36) → batch01, batch05
-- [ ] PC_m1q1a06gill (136) → GILL
-- [ ] PC_m1q1a06luce (103) → LUCE
-- [ ] PC_m1q1a06malp (70) → MALP
-- [ ] PC_m1q1a06ophal (128) → OPHAL
-- [ ] PC_m1q1a06tamo (167) → TAMO
-- [ ] PC_m1q1a06tani (112) → TANI
-- [ ] PC_m1q1a07s1_h (53) → H
-- [ ] PC_m1q1a07s1bt (43) → BT
-- [ ] PC_m1q1a07s1g1f (41) → F
-- [ ] PC_m1q1a07s1g1m (41) → M
-- [ ] PC_m1q1a08marr (133) → MARR
-- [ ] PC_m1q1faribeth (231) → Aribeth
-- [ ] PC_m1q1fdeath (81) → FDEATH
-- [ ] PC_m1q1kfenthick (142) → Fenthick
-- [ ] PC_m1q1knurse (70) → Nurse
+- [x] PC_m0q01a02olge (99) → OLGE
+- [x] PC_m0q01a03bern (60) → BERN
+- [x] PC_m0q01a05erda (41) → NPC_E_small
+- [x] PC_m0q01a05gilb (89) → Gilbert
+- [x] PC_m0q01a05herb (112) → HERB
+- [x] PC_m0q01a06chan (91) → Chandra
+- [x] PC_m0q01a06jaro (84) → JARO
+- [x] PC_m0q01a06zedi (46) → Zedir
+- [x] PC_m0q01a07anse (46) → Ansel
+- [x] PC_m0q01a07elyn (88) → ELYN
+- [x] PC_m0q01a07tabi (44) → TABI
+- [x] PC_m0q01a08kett (95) → KETT
+- [x] PC_m0q01a08shad (95) → Shade
+- [x] PC_m0q01a08silk (91) → Silk
+- [x] PC_m0q01a09arib (54) → ARIB
+- [x] PC_m0q01a0bim (118) → BIM
+- [x] PC_m0q01a12pave (98) → PAVE
+- [x] PC_m0q01a15gend (43) → GEND
+- [x] PC_m0q01a23fent (78) → FENT
+- [x] PC_m1q00deathcleric (75) → DEATHCLERIC
+- [x] PC_m1q01a03eltr (49) → ELTR
+- [x] PC_m1q02allhelm (64) → ALLHELM
+- [x] PC_m1q02alltowf (43) → NPC_A_small
+- [x] PC_m1q02alltown (42) → NPC_A_small
+- [x] PC_m1q1_gateblak (86) → GATEBLAK
+- [x] PC_m1q1_gatedock (87) → GATEDOCK
+- [x] PC_m1q1_gatepen (86) → GATEPEN
+- [x] PC_m1q1a00com1 (103) → Commoner
+- [x] PC_m1q1a00com2 (101) → Commoner
+- [x] PC_m1q1a00com3 (60) → Commoner
+- [x] PC_m1q1a00gen1 (101) → GEN1
+- [x] PC_m1q1a00gen2 (101) → GEN2
+- [x] PC_m1q1a00gen3 (91) → GEN3
+- [x] PC_m1q1a00gen4 (110) → GEN4
+- [x] PC_m1q1a00gen5 (114) → GEN5
+- [x] PC_m1q1a00guard01 (87) → GUARD01
+- [x] PC_m1q1a00harlot (93) → HARLOT
+- [x] PC_m1q1a01olef (177) → OLEF
+- [x] PC_m1q1a01push (86) → PUSH
+- [x] PC_m1q1a01s1br (73) → BR
+- [x] PC_m1q1a01s1wm (65) → WM
+- [x] PC_m1q1a05nyat (128) → NYAT
+- [x] PC_m1q1a05s1m1 (36) → batch01, batch05
+- [x] PC_m1q1a06gill (136) → GILL
+- [x] PC_m1q1a06luce (103) → LUCE
+- [x] PC_m1q1a06malp (70) → MALP
+- [x] PC_m1q1a06ophal (128) → OPHAL
+- [x] PC_m1q1a06tamo (167) → TAMO
+- [x] PC_m1q1a06tani (112) → TANI
+- [x] PC_m1q1a07s1_h (53) → H
+- [x] PC_m1q1a07s1bt (43) → BT
+- [x] PC_m1q1a07s1g1f (41) → F
+- [x] PC_m1q1a07s1g1m (41) → M
+- [x] PC_m1q1a08marr (133) → MARR
+- [x] PC_m1q1faribeth (231) → Aribeth
+- [x] PC_m1q1fdeath (81) → FDEATH
+- [x] PC_m1q1kfenthick (142) → Fenthick
+- [x] PC_m1q1knurse (70) → Nurse
 
 ### OC-챕터1 지구별 (49파일, 3,855 대사)
-- [ ] PC_m1q2_emernik (65) → Emernik
-- [ ] PC_m1q2_formguard8 (56) → FORMGUARD8
-- [ ] PC_m1q2_kurdan (46) → Kurdan_Fenkt
-- [ ] PC_m1q2_sedos (118) → Sedos_Sebile
+- [x] PC_m1q2_emernik (65) → Emernik
+- [x] PC_m1q2_formguard8 (56) → FORMGUARD8
+- [x] PC_m1q2_kurdan (46) → Kurdan_Fenkt
+- [x] PC_m1q2_sedos (118) → Sedos_Sebile
 - [ ] PC_m1q3ablapatr (99) → Blacklake_Patrol
 - [ ] PC_m1q3aclean (127) → Blacklake_cleaning_lady
 - [ ] PC_m1q3adryad (58) → Blacklake_Dryad
@@ -527,6 +527,7 @@
 
 ## 진행 현황
 - **소규모(small) 파일**: 15파일 7,414대사 ✅ 완료
+- **OC-프롤로그/챕터1 (m0q01)**: 20파일 ✅ 완료
 - **나머지**: 미착수
 
 ## 우선순위 제안 (다음 단계)

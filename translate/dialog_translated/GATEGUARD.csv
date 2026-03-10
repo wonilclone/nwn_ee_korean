@@ -41,9 +41,9 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 21197,Dialog,GATEGUARD,Make it quick.,빨리 하시오.,M1Q3GATEGUARD,,,,,0,0
 21198,Dialog,GATEGUARD,What else do you want to know?,또 뭘 알고 싶소?,M1Q3GATEGUARD,,,,,0,0
 21199,Dialog,GATEGUARD,"I wouldn't be surprised if you got lost often. Oh, nevermind.",자주 길 잃어도 이상하지 않겠소. 아 됐소.,M1Q3GATEGUARD,,,,,0,0
-21200,Dialog,GATEGUARD,Try the Board Laid Bare. It's just north of here and should have everything you need. ,적나라한 게시판에 가보시오. 여기서 바로 북쪽이고 필요한 건 다 있을 거요. ,M1Q3GATEGUARD,,,,,0,0
+21200,Dialog,GATEGUARD,Try the Board Laid Bare. It's just north of here and should have everything you need. ,까놓은 패 선술집에 가보시오. 여기서 바로 북쪽이고 필요한 건 다 있을 거요. ,M1Q3GATEGUARD,,,,,0,0
 21201,Dialog,GATEGUARD,There are no temples in the Blacklake district. Nobility doesn't have time to be pious. ,검은호수 지구엔 신전이 없소. 귀족들은 경건할 시간이 없거든. ,M1Q3GATEGUARD,,,,,0,0
-21202,Dialog,GATEGUARD,Not many shops in the area. Err... I guess you could try the Board Laid Bare. It's a tavern just north of here. ,이 근방엔 상점이 별로 없소. 어... 적나라한 게시판에 가보시오. 여기서 바로 북쪽에 있는 술집이오. ,M1Q3GATEGUARD,,,,,0,0
+21202,Dialog,GATEGUARD,Not many shops in the area. Err... I guess you could try the Board Laid Bare. It's a tavern just north of here. ,이 근방엔 상점이 별로 없소. 어... 까놓은 패 선술집에 가보시오. 여기서 바로 북쪽에 있는 술집이오. ,M1Q3GATEGUARD,,,,,0,0
 21203,Dialog,GATEGUARD,You could always visit the zoo. It's run by some of the nobility and there is quite a selection of exotic animals. ,동물원에 가봐도 되오. 귀족들이 운영하는데 진귀한 동물이 꽤 있소. ,M1Q3GATEGUARD,,,,,0,0
 21204,Dialog,GATEGUARD,Is there something else?,다른 건?,M1Q3GATEGUARD,,,,,0,0
 21205,Dialog,GATEGUARD,Did you not hear what I said? Only guards and nobles are allowed into the Blacklake area. Period. Now begone.,내 말 못 들었소? 경비대와 귀족만 검은호수에 들어갈 수 있소. 끝. 가시오.,M1Q3GATEGUARD,,,,,0,0
@@ -64,7 +64,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 57110,Dialog,GATEGUARD,"Forgive me, lass, but I don't find your... interest... all that appealing. Let's discuss something else, hmm?","미안하오 아가씨 하지만 그런... 관심은... 별로 반갑지 않소. 다른 얘기 하는 게 어떻소?",M1Q3GATEGUARD,,,,,0,0
 57111,Dialog,GATEGUARD,"Ahh, it's not worth worrying about. He's been taken care of, I hear. He was the main problem in Blacklake, as far as I'm concerned. It's pretty quiet now.","아 걱정할 것 없소. 처리됐다고 들었소. 내가 보기엔 그자가 검은호수의 골칫덩이였소. 지금은 조용하오.",M1Q3GATEGUARD,,,,,0,0
 62822,Dialog,GATEGUARD,"Oh, the gate is already open. Just head on through.","아 문은 이미 열려 있소. 그냥 지나가시오.",M1Q3GATEGUARD,,,,,0,0
-62823,Dialog,GATEGUARD,"Patrolling the tavern, that is. The Board Laid Bare is where Thurin spends his off-hours.","술집 순찰 말이오. 적나라한 게시판이 투린이 쉬는 시간 보내는 곳이오.",M1Q3GATEGUARD,,,,,0,0
+62823,Dialog,GATEGUARD,"Patrolling the tavern, that is. The Board Laid Bare is where Thurin spends his off-hours.","술집 순찰 말이오. 까놓은 패 선술집이 투린이 쉬는 시간 보내는 곳이오.",M1Q3GATEGUARD,,,,,0,0
 62824,Dialog,GATEGUARD,"But, he's no longer a concern. I heard someone put him in his place, or something. The Blacklake is really quiet now.","하지만 그는 이제 걱정 없소. 누가 혼내줬다나 뭐라나 들었소. 검은호수는 지금 조용하오.",M1Q3GATEGUARD,,,,,0,0
 62825,Dialog,GATEGUARD,"Greetings to you. I swear, I've seen more traffic just recently than since the plague began.","반갑소. 맹세코 역병 시작 이래 최근만큼 왕래가 많았던 적이 없소.",M1Q3GATEGUARD,,,,,0,0
 62826,Dialog,GATEGUARD,"You are here on militia business, I assume? Nobody else comes through this area except us guards.",민병대 일로 온 거겠지? 우리 경비대 말곤 이쪽으로 오는 사람이 없소.,M1Q3GATEGUARD,,,,,0,0
