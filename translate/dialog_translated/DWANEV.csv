@@ -1,5 +1,5 @@
 ﻿StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueContext,SoundRef,VolumeVariance,PitchVariance
-35706,Dialog,DWANEV,"How in the name of the gods did you get in here?! Prepare to be destroyed, utterly!","신이시여, 어떻게 여기로 들어온 거지?! 완전히 박살날 각오를 하는게 좋을거다!",M2Q3DWANEV,,,,vs_nwizarm3_050,0,0
+35706,Dialog,DWANEV,"How in the name of the gods did you get in here?! Prepare to be destroyed, utterly!","신이시여, 어떻게 여기로 들어온 거지?! 완전히 박살날 각오를 하는 게 좋을 거다!",M2Q3DWANEV,,,,vs_nwizarm3_050,0,0
 35707,Dialog,DWANEV,"Perhaps I was too rash in attacking you. Please, accept my apology.",내가 너무 성급하게 덤벼들었군. 부디 사과를 받아 주게.,M2Q3DWANEV,m2q3wanev004,,,vs_nwizarm3_052,0,0
 35708,Dialog,DWANEV,Then I shall blast you into dust!,그렇다면 너를 먼지로 만들어 주겠다!,M2Q3DWANEV,m2q3wanev009,,,,0,0
 35709,Dialog,DWANEV,What questions do you have?,무슨 질문이 있지?,M2Q3DWANEV,,,,,0,0
@@ -8,8 +8,8 @@
 35712,Dialog,DWANEV,"So the Serpent still seeks an easy way home. Well, he shall have to become used to disappointment. He cannot have the gem.","그 독사 녀석은 여전히 손쉬운 방법을 찾는군. 뭐, 실망하는 법도 익혀야겠지. 그 보석은 가질 수 없다.",M2Q3DWANEV,,,,,0,0
 35713,Dialog,DWANEV,"You don't understand! I have lost the gem and am quite unable to retrieve it, despite my powers. You would be wise to forget about this job and leave now.","모르는군! 난 그 보석을 잃어버렸고, 내 힘으로도 도저히 되찾을 수가 없어. 그 일은 잊고 지금 떠나는 게 현명할 거다.",M2Q3DWANEV,,,,,0,0
 35714,Dialog,DWANEV,"<StartCheck>[Success]</Start> Well, if you wish to get yourself killed, why should I care?","<StartCheck>[성공]</Start> 그래, 죽고 싶다면 내 알 바 아니지?",M2Q3DWANEV,,,,,0,0
-35715,Dialog,DWANEV,"<StartCheck>[Failure]</Start> In good conscience, I cannot! For your own good, <sir/madam>, do not press the issue!","<StartCheck>[실패]</Start> 양심상 그렇게는 못 ! 당신을 위해서도, 선생님, 더는 우기지 말게!",M2Q3DWANEV,,,,,0,0
-35716,Dialog,DWANEV,"(sigh) I've been defeated by a common houseburglar? Fine, take my gold you barbaric leech!","(한숨) 하찮은 빈집털이한테 당한거였나? 좋아, 금화나 가져가, 이 야만적인 거머리 같으니!",M2Q3DWANEV,m2q3wanev001,,,,0,0
+35715,Dialog,DWANEV,"<StartCheck>[Failure]</Start> In good conscience, I cannot! For your own good, <sir/madam>, do not press the issue!","<StartCheck>[실패]</Start> 양심상 그렇게는 못 하겠네! 당신을 위해서도, 선생, 더는 우기지 말게!",M2Q3DWANEV,,,,,0,0
+35716,Dialog,DWANEV,"(sigh) I've been defeated by a common houseburglar? Fine, take my gold you barbaric leech!","(한숨) 하찮은 빈집털이한테 당한 거였나? 좋아, 금화나 가져가, 이 야만적인 거머리 같으니!",M2Q3DWANEV,m2q3wanev001,,,,0,0
 35717,Dialog,DWANEV,Will you not even leave me enough to feed myself?! Take it and begone!,먹고살 만큼도 남겨 두지 않겠다는 거야?! 가지고 꺼져!,M2Q3DWANEV,m2q3wanev002,,,,0,0
 35718,Dialog,DWANEV,There is no more gold. I shall be henceforth known as 'Wanev the Idiot Pauper' by those bastards in the Gibbering Twelve! My reputation is ruined!,금화는 더 없어. 이제부터 그 지껄이는 열두 놈들이 날 '바보 거지 와네브'라고 부르겠지! 내 명성은 끝장이야!,M2Q3DWANEV,,,,,0,0
 35719,Dialog,DWANEV,"Stop, please! If you are so vey desperate take this and begone!","그만, 제발! 그렇게까지 절박하다면 이걸 가져가고 꺼져라!",M2Q3DWANEV,m2q3wanev002,,,,0,0

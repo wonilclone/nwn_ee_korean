@@ -861,7 +861,7 @@ Use: Automatic.",엄청난 인내(Great fortitude)\n재주 유형: 일반\n선�
 404,,,"Type of Feat: General
 Prerequisite: Str 13+, Power Attack.
 Specifics: This feat allows the character to trade a -10 penalty on his attack roll to gain a +10 bonus on his damage roll. It is very useful when fighting tough, easy-to-hit opponents.
-Use: Combat Mode.","우수한 강한 공격(Improved power attack)\n재주 유형: 일반\n선결 조건: 근력 13이상, 강한 공격\n세부 사항: 이 재주는 사용자가 명줄굴림에 -10의 페널티를 받는 대신 피해굴림에 +10의 보너스를 얻습니다. 명중하기 쉬운 적과 싸울 때 매우 유용합니다.\n사용: 전투 모드",,,,,,0,0
+Use: Combat Mode.","우수한 강한 공격(Improved power attack)\n재주 유형: 일반\n선결 조건: 근력 13이상, 강한 공격\n세부 사항: 이 재주는 사용자가 명중굴림에 -10의 페널티를 받는 대신 피해굴림에 +10의 보너스를 얻습니다. 명중하기 쉬운 적과 싸울 때 매우 유용합니다.\n사용: 전투 모드",,,,,,0,0
 405,,,Improved Parry,우수한 쳐내기,,,,,,0,0
 406,,,"Type of Feat: General
 Prerequisite: Intelligence 13+.
@@ -905,7 +905,7 @@ Use: Combat Mode.","강한 공격(Power attack)\n재주 유형: 일반\n선결 �
 420,,,"Type of Feat: General
 Prerequisite: Dex 13+, Point Blank Shot.
 Specifics: A character with this feat gains an extra attack per round with a ranged weapon (excluding crossbows). When a Rapid Shot is attempted, the extra attack is made at the character's highest base attack bonus, but all attacks within the round suffer a -2 penalty.
-Use: Selected.","속사(Rapid shot)\n재주 유형: 일반\n선결 조건: 민첩 13이상, 직사\n세부 사항: 쇠뇌를 포함한 원거리 무기를 사용할 때 라운드당 한번의 추가 공격 횟수를 얻습니다. 이 추가 공격은 캐릭터의 가장 높은 기본 공격 보너스(BAB)로 이루어지지만, 해당 라운드의 모든 공격의 명중 굴림에 -2의 페널티를 받습니다.\n사용: 전투 모드",,,,,,0,0
+Use: Selected.","속사(Rapid shot)\n재주 유형: 일반\n선결 조건: 민첩 13이상, 직사\n세부 사항: 쇠뇌를 포함한 원거리 무기를 사용할 때 라운드당 한번의 추가 공격 횟수를 얻습니다. 이 추가 공격은 캐릭터의 가장 높은 기본 공격 보너스(BAB)로 이루어지지만, 해당 라운드의 모든 공격의 명중굴림에 -2의 페널티를 받습니다.\n사용: 전투 모드",,,,,,0,0
 421,,,Sap,후려치기,,,,,,0,0
 422,,,"Type of Feat: General
 Prerequisite: Base Attack Bonus +1, Called Shot.
@@ -1256,7 +1256,7 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 654,,,AC Bonus vs. Damage Type,피해 유형에 대한 방어도(AC) 보너스,,,,,,0,0
 655,,,AC Bonus vs. Specific Alignment,특정 가치관에 대한 방어도(AC) 보너스,,,,,,0,0
 656,,,Enhancement Bonus vs. Alignment Group,가치관 군에 대한 강화 보너스,,,,,,0,0
-657,,,Enhancement Bonus vs. Racial Group,피해 유형에 대한 강화 보너스,,,,,,0,0
+657,,,Enhancement Bonus vs. Racial Group,종족 군에 대한 강화 보너스,,,,,,0,0
 658,,,Enhancement Bonus vs. Specific Alignment,특정 가치관에 대한 강화 보너스,,,,,,0,0
 659,,,Enhancement Bonus,강화 보너스,,,,,,0,0
 660,,,Attack and Damage Penalty,명중 및 피해 페널티,,,,,,0,0
@@ -1334,11 +1334,11 @@ Use: All classes except monks, rogues, sorcerers, and wizards have this feat for
 731,,,Skill Bonus,기술 보너스,,,,,,0,0
 732,,,Regeneration: Vampiric,재생: 흡혈귀,,,,,,0,0
 733,,,Immunity: Specific Spell,면역: 특정 주문,,,,,,0,0
-734,,,Attack Bonus vs. Alignment Group,가치관 군에 대한 명중굴림 보너스,,,,,,0,0
-735,,,Attack Bonus,명중굴림 보너스,,,,,,0,0
-736,,,Decreased Attack Modifier,명중굴림 감소,,,,,,0,0
-737,,,Attack Bonus vs. Racial Group,종족 군에 대한 명중굴림 보너스,,,,,,0,0
-738,,,Attack Bonus vs. Specific Alignment,특정 가치관에 대한 명중굴림 보너스,,,,,,0,0
+734,,,Attack Bonus vs. Alignment Group,가치관 군에 대한 공격 보너스,,,,,,0,0
+735,,,Attack Bonus,공격 보너스,,,,,,0,0
+736,,,Decreased Attack Modifier,공격 수정치 감소,,,,,,0,0
+737,,,Attack Bonus vs. Racial Group,종족 군에 대한 공격 보너스,,,,,,0,0
+738,,,Attack Bonus vs. Specific Alignment,특정 가치관에 대한 공격 보너스,,,,,,0,0
 739,,,Unlimited Ammunition,무한 탄약,,,,,,0,0
 740,,,Vorpal,보팔,,,,,,0,0
 741,,,Wounding,상처,,,,,,0,0
@@ -1711,10 +1711,10 @@ The caster's coloring changes to match the surroundings, gaining a +10 competenc
 1082,,,Area Transition,지역 전환,,,,,,0,0
 1083,,,"Enhancement Bonus vs. Specific Alignment: This property grants a bonus to the wielder's attack and damage rolls made with the weapon, but only against a specific alignment (such as chaotic neutral, lawful evil, or neutral good, for example).","특정 가치관에 대한 강화 보너스: 이 속성은 해당 무기의 명중굴림과 피해굴림에 보너스를 주지만 특정 가치관(예: 혼돈 중립, 질서 악 등)에게만 적용됩니다.",,,,,,0,0
 1084,,,"Enhancement Bonus vs. Alignment Group: This property grants a bonus to the wielder's attack and damage rolls made with the weapon, but only against a specific alignment group (such as evil or lawful creatures, for example). ","가치관 군에 대한 강화 보너스: 이 속성은 해당 무기의 명중굴림과 피해굴림에 보너스를 주지만 특정 가치관 군(예: 악 성향, 질서 성향 등)에만 적용 됩니다.",,,,,,0,0
-1085,,,"Attack Bonus: This property grants an enhancement bonus to attack rolls made with the weapon, but does not improve the damage dealt by the weapon on a successful hit.",명중굴림 보너스: 이 속성은 해당 무기의 명중굴림에 보너스를 주지만 피해에는 보너스를 주지 않습니다.,,,,,,0,0
-1086,,,"Attack Bonus vs. Monster Type: This property grants an enhancement bonus to attack rolls made with the weapon, but does not improve the damage dealt by the weapon on a successful hit. It grants this bonus only against a specific monster type, such as giants, undead, or shapeshifters.",괴물 유형에 대한 명중굴림 보너스: 이 속성은 무기의 명중굴림에 보너스를 주지만 피해에는 보너스를 주지 않고 거인이나 언데드 같이 특정 괴물 유형에만 적용됩니다.,,,,,,0,0
-1087,,,"Attack Bonus vs. Specific Alignment: This property grants an enhancement bonus to attack rolls made with the weapon, but does not improve the damage dealt by the weapon on a successful hit. It grants this bonus only when used against creatures of a specific alignment, such as chaotic neutral, lawful evil, or neutral good.","특정 가치관에 대한 명중굴림 보너스: 이 속성은 무기의 명중굴림에 보너스를 주지만 피해에는 보너스를 주지 않고 혼돈 중립, 질서 악, 중립 선 같은 특정 가치관을 가진 대상에게만 적용됩니다.",,,,,,0,0
-1088,,,"Attack Bonus vs. Alignment Group: This property grants an enhancement bonus to attack rolls made with the weapon, but does not improve the damage dealt by the weapon on a successful hit. It grants this bonus only when used against creatures from a specific alignment group, such as evil or lawful creatures.",가치관 군에 대한 명중굴림 보너스: 이 속성은 무기의 명중굴림에 보너스를 주지만 피해에는 보너스를 주지 않고 악 성향이나 질서 성향 등의 특정 가치관 군의 대상에게만 적용됩니다.,,,,,,0,0
+1085,,,"Attack Bonus: This property grants an enhancement bonus to attack rolls made with the weapon, but does not improve the damage dealt by the weapon on a successful hit.",공격 보너스: 이 속성은 해당 무기의 명중굴림에 보너스를 주지만 피해에는 보너스를 주지 않습니다.,,,,,,0,0
+1086,,,"Attack Bonus vs. Monster Type: This property grants an enhancement bonus to attack rolls made with the weapon, but does not improve the damage dealt by the weapon on a successful hit. It grants this bonus only against a specific monster type, such as giants, undead, or shapeshifters.",괴물 유형에 대한 공격 보너스: 이 속성은 무기의 명중굴림에 보너스를 주지만 피해에는 보너스를 주지 않고 거인이나 언데드 같이 특정 괴물 유형에만 적용됩니다.,,,,,,0,0
+1087,,,"Attack Bonus vs. Specific Alignment: This property grants an enhancement bonus to attack rolls made with the weapon, but does not improve the damage dealt by the weapon on a successful hit. It grants this bonus only when used against creatures of a specific alignment, such as chaotic neutral, lawful evil, or neutral good.","특정 가치관에 대한 공격 보너스: 이 속성은 무기의 명중굴림에 보너스를 주지만 피해에는 보너스를 주지 않고 혼돈 중립, 질서 악, 중립 선 같은 특정 가치관을 가진 대상에게만 적용됩니다.",,,,,,0,0
+1088,,,"Attack Bonus vs. Alignment Group: This property grants an enhancement bonus to attack rolls made with the weapon, but does not improve the damage dealt by the weapon on a successful hit. It grants this bonus only when used against creatures from a specific alignment group, such as evil or lawful creatures.",가치관 군에 대한 공격 보너스: 이 속성은 무기의 명중굴림에 보너스를 주지만 피해에는 보너스를 주지 않고 악 성향이나 질서 성향 등의 특정 가치관 군의 대상에게만 적용됩니다.,,,,,,0,0
 1089,,,"Damage Bonus: This property grants an enhancement bonus to the weapon's damage, but does not improve attack rolls made with the weapon.",피해 보너스: 이 속성은 무기의 피해를 상승시키지만 명중굴림에는 보너스를 주지 않습니다.,,,,,,0,0
 1090,,,"Damage Bonus vs. Monster Type: This property grants an enhancement bonus to the weapon's damage, but does not improve attack rolls made with the weapon. It grants this bonus only when used against a specific monster type, such as giants, undead, or shapeshifters.","괴물 유형에 대한 피해 보너스: 이 속성은 무기의 피해를 상승시키지만 명중굴림에는 보너스를 주지 않습니다, 그리고 거인이나 언데드 같이 특정 괴물 유형에만 적용됩니다.",,,,,,0,0
 1091,,,"Damage Bonus vs. Specific Alignment: This property grants an enhancement bonus to the weapon's damage, but does not improve attack rolls made with the weapon. It grants this bonus only when used against creatures of a specific alignment, such as chaotic neutral, lawful evil, or neutral good.","특정 가치관에 대한 피해 보너스: 이 속성은 무기의 피해를 상승시키지만 명중굴림에는 보너스를 주지 않습니다, 그리고 혼돈 중립, 질서 악, 중립 선 같은 특정 가치관을 가진 대상에게만 적용됩니다.",,,,,,0,0
@@ -2080,7 +2080,7 @@ Bonuses:
 +3 to hit (to a max of +5)
 +1d6 damage (same damage type as the weapon) vs Evil
 +16 SR
-25% Chance of Dispel Magic on hit",성스러운 복수자: 성기사만 이 속성을 가진 무기를 사용할 수 있습니다.\n보너스:\n+3 향상보너스(최대 +5)\n악 가치관에 대해 추가 +1d6 피해(무기와 동일한 피해 유형)\n+16 주문 저항\n명중시 25% 기회로 디스펠,,,,,,0,0
+25% Chance of Dispel Magic on hit",성스러운 복수자: 성기사만 이 속성을 가진 무기를 사용할 수 있습니다.\n보너스:\n+3 강화 보너스(최대 +5)\n악 가치관에 대해 추가 +1d6 피해(무기와 동일한 피해 유형)\n+16 주문 저항\n명중시 25% 기회로 디스펠,,,,,,0,0
 1437,,,"Specific Alignment Limitation: Only creatures with a specific alignment (lawful evil or neutral good, for example) may use an item with this property.",특정 가치관 제한: 이 속성을 가진 아이템은 질서 악이나 중립 선 등의 정해진 가치관에 해당하는 대상만 사용할 수 있습니다.,,,,,,0,0
 1438,,,The OnTrapTriggered Event occurs when the Trap on the object is activated.,OnTrapTriggered 이벤트는 오브젝트 상의 함정이 활성화될 때 발생합니다.,,,,,,0,0
 1439,,,Enhanced Container - Weight: This property magically reduces the weight of any item placed inside.,우수한 상자 - 무게: 이 속성은 안에 있는 모든 항목의 무게를 마법적으로 줄여줍니다.,,,,,,0,0
@@ -8331,7 +8331,7 @@ Use: Automatic, but limited to one use per day. Flat-footed characters cannot ma
 6042,,,"Type of Feat: Class
 Prerequisite: Rogue level 10.
 Specifics: The rogue gains a +4 competence bonus to attack rolls when making attacks of opportunity.
-Use: Automatic.",기회주의자(Opportunist)\n재주 유형: 직업\n선결 조건: 도적 레벨 10\n세부 사항: 도적은 기회 공격을 할 때에 명중 굴림에 +4의 숙련 보너스를 받습니다.\n사용: 자동,,,,,,0,0
+Use: Automatic.",기회주의자(Opportunist)\n재주 유형: 직업\n선결 조건: 도적 레벨 10\n세부 사항: 도적은 기회 공격을 할 때에 명중굴림에 +4의 숙련 보너스를 받습니다.\n사용: 자동,,,,,,0,0
 6043,,,"Type of Feat: Class
 Prerequisite: Rogue level 10.
 Specifics: When using the Disable Trap, Open Lock, and Set Trap skills, the character automatically takes 20 on any skill checks, even if in combat.
@@ -14803,7 +14803,7 @@ Level
 9: Enchant Arrow +5.
 10: Arrow of Death - Fire an arrow that can instantly kill an opponent.
 
-","(상위 직업)\n엘프 전쟁부대의 달인인 비전 궁수는 전투 기량을 보조하기 위해 마법을 사용하는데 능숙한 투사입니다. 전사, 순찰자, 성기사, 야만전사는 그들의 전투 능력에 약간의 마법을 더하기 위해 비전 궁수가 됩니다. 반대로 마법사와 요술사는 그들이 할 수 있는 것에 전투적 역량을 더하기 위해 이 상위 직업을 가집니다.\n\n요구사항:\n종족: 엘프 또는 하프엘프\n- 기본 공격 보너스(BAB): +6이상\n- 재주: 무기 집중(장궁 또는 단궁), 직사\n-주문 시전: 1레벨 이상 비전 주문 시전 능력\n\n일반 능력:\n- 생명점 주사위(HD): d8\n- 숙달: 단순 무기, 군용 무기, 경장, 평장, 방패\n- 기술 점수: 4 + 지능 수정치\n\n레벨\n1: 화살 강화 - 비전 궁수가 사용하는 화살은 +1점의 향상 보너스를 받습니다. 1레벨 이후 매 비전 궁수 2레벨 마다 향상 보너스가 +1씩 더해집니다.\n2: 고취시킨 화살 - 하루에 세번 화염구 마법이 부여된 마법적 화살을 소환하여 적에게 발사할 수 있습니다.\n4: 추적 화살 - 하루에 한번 빗나가지 않는 화살을 발사하는 능력을 얻습니다. 6레벨이 되면 이 능력을 하루에 두번 사용할 수 있습니다.\n8: 빗발치는 화살 - 하루에 한번 사거리 내의 모두를 맞추는 능력을 얻습니다.\n10: 죽음의 화살 - 하루에 한번 상대를 즉시 죽일 수 있는 화살을 발사할 수 있습니다.",,,,,,0,0
+","(상위 직업)\n엘프 전쟁부대의 달인인 비전 궁수는 전투 기량을 보조하기 위해 마법을 사용하는데 능숙한 투사입니다. 전사, 순찰자, 성기사, 야만전사는 그들의 전투 능력에 약간의 마법을 더하기 위해 비전 궁수가 됩니다. 반대로 마법사와 요술사는 그들이 할 수 있는 것에 전투적 역량을 더하기 위해 이 상위 직업을 가집니다.\n\n요구사항:\n종족: 엘프 또는 하프엘프\n- 기본 공격 보너스(BAB): +6이상\n- 재주: 무기 집중(장궁 또는 단궁), 직사\n-주문 시전: 1레벨 이상 비전 주문 시전 능력\n\n일반 능력:\n- 생명점 주사위(HD): d8\n- 숙달: 단순 무기, 군용 무기, 경장, 평장, 방패\n- 기술 점수: 4 + 지능 수정치\n\n레벨\n1: 화살 강화 - 비전 궁수가 사용하는 화살은 +1점의 강화 보너스를 받습니다. 1레벨 이후 매 비전 궁수 2레벨 마다 강화 보너스가 +1씩 더해집니다.\n2: 고취시킨 화살 - 하루에 세번 화염구 마법이 부여된 마법적 화살을 소환하여 적에게 발사할 수 있습니다.\n4: 추적 화살 - 하루에 한번 빗나가지 않는 화살을 발사하는 능력을 얻습니다. 6레벨이 되면 이 능력을 하루에 두번 사용할 수 있습니다.\n8: 빗발치는 화살 - 하루에 한번 사거리 내의 모두를 맞추는 능력을 얻습니다.\n10: 죽음의 화살 - 하루에 한번 상대를 즉시 죽일 수 있는 화살을 발사할 수 있습니다.",,,,,,0,0
 9007,,,Assassin,암살자,,,,,,0,0
 9008,,,Assassins,암살자,,,,,,0,0
 9009,,,assassin,암살자,,,,,,0,0
@@ -20130,17 +20130,17 @@ Things are very different now, though they might not appear as such from the out
 25188,,,Short Sword +1,소검 +1,,,,,,0,0
 25189,,,"This halberd has an enhancement bonus to attack and damage, but it doesn't bear the hallmarks of any specific maker.","이 미늘창은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25190,,,"This spear has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 창은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
-25191,,,"This heavy crossbow has a bonus to its attack, but does not bear the mark of a specific craftsman.","이 중쇠뇌는 공격에 대한 향상 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
-25192,,,"This light crossbow has abonus to its attack, but does not bear the mark of a specific craftsman.","이 경쇠뇌는 공격에 대한 향상 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
-25193,,,"This longbow has a bonus to its attack, but does not bear the mark of a specific craftsman.","이 장궁은 공격에 대한 향상 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
-25194,,,"This shortbow has a bonus to its attack, but does not bear the mark of a specific craftsman.","이 단궁은 공격에 대한 향상 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+25191,,,"This heavy crossbow has a bonus to its attack, but does not bear the mark of a specific craftsman.","이 중쇠뇌는 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+25192,,,"This light crossbow has abonus to its attack, but does not bear the mark of a specific craftsman.","이 경쇠뇌는 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+25193,,,"This longbow has a bonus to its attack, but does not bear the mark of a specific craftsman.","이 장궁은 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+25194,,,"This shortbow has a bonus to its attack, but does not bear the mark of a specific craftsman.","이 단궁은 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25195,,,"This arrow provides a damage bonus, but does not bear the mark of a specific craftsman.
-","이 화살은 피해에 대한 향상 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+","이 화살은 피해 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25196,,,Magical Arrow,마법적 화살,,,,,,0,0
 25197,,,"This arrow carries a small bladder at the tip, not only piercing its victim but injecting a small dose of magical acid as well. This acid eats away at the wound, increasing its severity.","이 화살은 끝에 작은 주머니가 있어서, 대상을 관통할 뿐만 아니라 마법의 산을 소량 투입합니다. 이 산은 상처를 침식하여 상처를 더 심각하게 만듭니다.",,,,,,0,0
 25198,,,A Fire Arrow is a magical arrow that will burst into flames as it is fired at an enemy. The effect is similar to an arrow doused in oil and set aflame.,화염 화살은 적을 향해 발사할 때 화염에 휩싸이는 마법의 화살입니다. 그 효과는 화살을 기름에 적셔 불을 붙이는 것과 비슷합니다.,,,,,,0,0
 25199,,,"This bolt provides a damage bonus, but does not bear the mark of a specific craftsman.
-","이 쇠뇌화살은 피해에 대한 향상 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+","이 쇠뇌화살은 피해 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25200,,,Magical Bolt,마법적 쇠뇌화살,,,,,,0,0
 25201,,,"Ice-cold to the touch, these bolts have a short message imprinted on the shaft:
 
@@ -20164,14 +20164,14 @@ Hmm -- that was odd. I thought I heard something crashing around downstairs but 
 25219,,,Nunchaku,쌍절곤,,,,,,0,0
 25220,,,Magical Bullet,마법적 탄환,,,,,,0,0
 25221,,,"This bullet provides a damage bonus, but does not bear the mark of a specific craftsman.
-","이 탄환은 피해에 대한 향상 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+","이 탄환은 피해 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25222,,,This map of the Blacklake district is well annotated and easy to memorize.,이 검은호수 지구의 지도는 주석이 잘 달려있어 외우기 쉽습니다.,,,,,,0,0
 25223,,,This map of the Beggar's Nest district is well annotated and easy to memorize.,이 거지 소굴 지구의 지도는 주석이 잘 달려있어 외우기 쉽습니다.,,,,,,0,0
 25224,,,This map of the Docks district is well annotated and easy to memorize.,이 항만 지구의 지도는 주석이 잘 달려있어 외우기 쉽습니다.,,,,,,0,0
 25225,,,This map of the Peninsula district is well annotated and easy to memorize.,이 반도 지구의 지도는 주석이 잘 달려있어 외우기 쉽습니다.,,,,,,0,0
 25226,,,"This quarterstaff has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 육척봉은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25227,,,"This sickle has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 낫은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
-25228,,,"This sling has a bonus to its attack, but does not bear the mark of a specific craftsman.","이 투석구는 공격과 피해에 대한 향상 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+25228,,,"This sling has a bonus to its attack, but does not bear the mark of a specific craftsman.","이 투석구는 공격과 피해 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25229,,,"This scythe has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 대낫은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25230,,,"This potion restores life force drained by creatures of negative energy, the liquid glowing slightly when brought near a living being. The ingredients are impossible to discern.","이 물약은 부정적인 에너지를 가진 생명체들에 의해 배출된 생명력을 회복시키는데, 이 액체를 살아있는 생명체 근처로 가져가면 살짝 빛이 납니다. 그 재료들을 식별하는 것은 불가능합니다.",,,,,,0,0
 25231,,,Castle Never,네버 성,,,,,,0,0
@@ -22723,11 +22723,11 @@ Now that everything is in place, Lady Aribeth awaits her recruits at the Hall of
 57576,,,"Nyatar, a druid beneath the great tree in the City Core, claims that animals in a Blacklake District zoo are being ill-treated and require rescue. Nyatar has provided a Teleport Via Plants scroll which is to be used on one of the trees near the zoo. Once broken from their confinement, any animals that are led to the tree will use it to teleport to safety at Nyatar's side.","도시 중심부의 거대한 나무 아래에 있는 드루이드인 니아타르는 검은호수 지구에 있는 동물원의 동물들이 학대를 받고 있으며 구조를 해야 한다고 주장한다. 니아타르는 동물원 근처의 나무들 중 하나에다 사용할 수 있는 나무길 열기 두루마리를 주었다. 일단 동물들이 풀려나면, 나무로 인도한 동물들은 모두 니아타르의 곁에 있는 안전한 곳으로 순간이동하기 위해 나무를 이용할 것이다.",,,,,,0,0
 57577,,,Nyatar is pleased. All of the captive animals have been rescued from the zoo and now benefit from his druidic protection.,"니아타르는 기뻐했다. 붙잡힌 동물들을 전부 동물원에서 구조했고, 이제 동물들은 드루이드 보호를 받고 있다.",,,,,,0,0
 57578,,,Blacklake: The Gauntlet Arena,검은호수: 시련장 투기장,,,,,,0,0
-57579,,,There are rumors of a private warrior's club called the Gauntlet operating beneath the Board Laid Bare Inn in the Blacklake District. A pass has been obtained from a man named Graxx. Apparently anyone carrying the pass can obtain a key to the club from the bartender. It sounds like the kind of place where strong warriors could probably make a name for themselves.,검은호수 지구의 까놓은 패 선술집 아래에는 시련장이라는 사설 투사 동호회가 운영되고 있다는 소문이 있다. 그랙스라는 남자로부터 통행증을 얻었다. 통행증을 소지한 자라면 누구나 바텐더에게 동호회의 열쇠를 받을 수 있다는 것 같다. 강한 투사들이 이름을 날릴 수 있는 곳처럼 보인다.,,,,,,0,0
-57580,,,There are rumors of a private warrior's club called the Gauntlet operating beneath the Board Laid Bare Inn in the Blacklake District. The key obtained from the bartender grants access to the basement. It's the kind of place where strong warriors could probably make a name for themselves.,검은호수 지구의 까놓은 패 선술집 아래에는 시련장이라는 사설 투사 동호회가 운영되고 있다는 소문이 있다. 바텐더로부터 얻은 열쇠가 있으면 지하실에 출입할 수 있다. 이곳은 아마도 강한 투사들이 이름을 날릴 수 있는 곳일 것이다.,,,,,,0,0
-57581,,,"I've been awarded the 1st Round Medal at the Gauntlet warrior's club, beneath the Blacklake District's Board Laid Bare Inn. It's not much, but I'm just getting started...","난 검은호수 지구의 까놓은 패 선술집 아래에 있는 시련장 투사 동호회에서 1회전 메달을 받았다. 별건 아니지만, 이제 시작일 뿐이다...",,,,,,0,0
-57582,,,"I've been awarded the 2nd Round Medal at the Gauntlet warrior's club, beneath the Blacklake District's Board Laid Bare Inn. There'll be more where that came from, that's for sure...","난 검은호수 지구의 까놓은 패 선술집 아래에 있는 시련장 투사 동호회에서 2회전 메달을 받았다. 이게 뭐든 더 있을 것이다, 확실히...",,,,,,0,0
-57583,,,"I've been awarded the 3rd Round Medal at the Gauntlet warrior's club, beneath the Blacklake District's Board Laid Bare Inn. I'm almost at the top... now I have to take on the owner of the place.",난 검은호수 지구의 까놓은 패 선술집 아래에 있는 시련장 투사 동호회에서 3회전 메달을 받았다. 거의 정상에 다다랐다... 이제 난 이 장소의 주인을 상대해야 한다.,,,,,,0,0
+57579,,,There are rumors of a private warrior's club called the Gauntlet operating beneath the Board Laid Bare Inn in the Blacklake District. A pass has been obtained from a man named Graxx. Apparently anyone carrying the pass can obtain a key to the club from the bartender. It sounds like the kind of place where strong warriors could probably make a name for themselves.,검은호수 지구의 까놓은 패 선술집 아래에는 시련장이라는 전사들의 사설 단체가 운영되고 있다는 소문이 있다. 그랙스라는 남자로부터 통행증을 얻었다. 통행증을 소지한 자라면 누구나 바텐더에게 동호회의 열쇠를 받을 수 있다는 것 같다. 강한 투사들이 이름을 날릴 수 있는 곳처럼 보인다.,,,,,,0,0
+57580,,,There are rumors of a private warrior's club called the Gauntlet operating beneath the Board Laid Bare Inn in the Blacklake District. The key obtained from the bartender grants access to the basement. It's the kind of place where strong warriors could probably make a name for themselves.,검은호수 지구의 까놓은 패 선술집 아래에는 시련장이라는 전사들의 사설 단체가 운영되고 있다는 소문이 있다. 바텐더로부터 얻은 열쇠가 있으면 지하실에 출입할 수 있다. 이곳은 아마도 강한 투사들이 이름을 날릴 수 있는 곳일 것이다.,,,,,,0,0
+57581,,,"I've been awarded the 1st Round Medal at the Gauntlet warrior's club, beneath the Blacklake District's Board Laid Bare Inn. It's not much, but I'm just getting started...","난 검은호수 지구의 까놓은 패 선술집 아래에 있는 시련장이라는 전사들의 사설 단체에서 1회전 메달을 받았다. 별건 아니지만, 이제 시작일 뿐이다...",,,,,,0,0
+57582,,,"I've been awarded the 2nd Round Medal at the Gauntlet warrior's club, beneath the Blacklake District's Board Laid Bare Inn. There'll be more where that came from, that's for sure...","난 검은호수 지구의 까놓은 패 선술집 아래에 있는 시련장이라는 전사들의 사설 단체에서 2회전 메달을 받았다. 이게 뭐든 더 있을 것이다, 확실히...",,,,,,0,0
+57583,,,"I've been awarded the 3rd Round Medal at the Gauntlet warrior's club, beneath the Blacklake District's Board Laid Bare Inn. I'm almost at the top... now I have to take on the owner of the place.",난 검은호수 지구의 까놓은 패 선술집 아래에 있는 시련장이라는 전사들의 사설 단체에서 3회전 메달을 받았다. 거의 정상에 다다랐다... 이제 난 이 장소의 주인을 상대해야 한다.,,,,,,0,0
 57584,,,"The Boar Laid Bare is under new managment now. Claudus lost it when he was beaten in the Gauntlet. Unfortunately, he was the driving force behind the club, and all the gladiators have left with him. There should be some profit in owning the place, however.","까놓은 패 선술집은 지금 새로운 관리자를 맞이했다. 클로더스는 시련장에서 패배하면서 여관을 잃었다. 안타깝게도 그는 동호회의 구심점이었고, 모든 검투사들이 그와 함께 떠났다. 하지만 그곳을 소유하면 약간의 이익을 얻을 수 있을 것이다.",,,,,,0,0
 57585,,,"The Blacklake District's Board Laid Bare Inn has fallen under new management. Until further notice, the Gauntlet battle arena held in its basement has been suspended.","검은호수 지구의 까놓은 패 선술집은 새로운 관리하에 놓이게 되었다. 추가 공지가 있을 때까지, 지하실에서 열리는 시련장의 결투는 열리지 않는다.",,,,,,0,0
 57586,,,Moonstone Mask: Art Theft,월장석 가면 여관: 미술품 절도,,,,,,0,0
@@ -30822,7 +30822,7 @@ For one, 22nd level character.","언더다크의 군단\n1장\n3인 기준, 22�
 100961,,,Ironwood Quarterstaff,경질 목재 육척봉,,,,,,0,0
 100962,,,Ironwood Club,경질 목재 곤봉,,,,,,0,0
 100963,,,"Ironwood is an extremely durable yet light type of wood that can only be found in the oldest and deepest forests. Despite its amazing properties it is is considered a non magical material.
-Weapons made from ironwood are highly accurate and offer a +1 bonus to attack rolls. ",경질 목재는 가장 오래되고 깊은 숲에서만 발견되는 내구성이 매우 강하면서도 가벼운 목재입니다. 놀라운 성질에도 불구하고 마법적인 물질로 여겨지지 않습니다.\n경질 목재로 만든 무기는 명중률이 뛰어나 명중 굴림에 +1의 가접을 얻습니다.,,,,,,0,0
+Weapons made from ironwood are highly accurate and offer a +1 bonus to attack rolls. ",경질 목재는 가장 오래되고 깊은 숲에서만 발견되는 내구성이 매우 강하면서도 가벼운 목재입니다. 놀라운 성질에도 불구하고 마법적인 물질로 여겨지지 않습니다.\n경질 목재로 만든 무기는 명중률이 뛰어나 명중굴림에 +1의 가접을 얻습니다.,,,,,,0,0
 100964,,,"Azer, Male","아제르, 남성",,,,,,0,0
 100965,,,"Azer, Female","아제르, 여성",,,,,,0,0
 100970,,,magical beast,마법적 야수,,,,,,0,0

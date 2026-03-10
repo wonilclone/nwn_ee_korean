@@ -101,206 +101,206 @@
 - [x] PC_m1q2_formguard8 (56) → FORMGUARD8
 - [x] PC_m1q2_kurdan (46) → Kurdan_Fenkt
 - [x] PC_m1q2_sedos (118) → Sedos_Sebile
-- [ ] PC_m1q3ablapatr (99) → Blacklake_Patrol
-- [ ] PC_m1q3aclean (127) → Blacklake_cleaning_lady
-- [ ] PC_m1q3adryad (58) → Blacklake_Dryad
-- [ ] PC_m1q3adumbgua (58) → Grommin
-- [ ] PC_m1q3aformosa (139) → (없음)
-- [ ] PC_m1q3ameldanen (127) → Meldanen
-- [ ] PC_m1q3anobman (112) → Disgruntled_Nobleman
-- [ ] PC_m1q3anobwom (112) → Disgruntled_Woman
-- [ ] PC_m1q3asamuel (72) → ASAMUEL
-- [ ] PC_m1q3athurin (146) → ATHURIN
-- [ ] PC_m1q3gategua (88) → GATEGUA
-- [ ] PC_m1q3gateguard (116) → GATEGUARD
-- [ ] PC_m1q3i_cend2 (62) → CEND2
-- [ ] PC_m1q4a00com1 (97) → COM1_
-- [ ] PC_m1q4a00com2 (108) → COM2_
-- [ ] PC_m1q4a01bloodsail (31) → NPC_B_small
-- [ ] PC_m1q4a01burn (40) → BURN
-- [ ] PC_m1q4a01noble1 (99) → NOBLE1
-- [ ] PC_m1q4a02mugg01 (57) → MUGG01
-- [ ] PC_m1q4b01auct (61) → AUCT
-- [ ] PC_m1q4b01avista (39) → NPC_A_small
-- [ ] PC_m1q4b07daranei (91) → DARANEI
-- [ ] PC_m1q4b07gilda (64) → GILDA
-- [ ] PC_m1q4b08jerol (37) → NPC_J_small
-- [ ] PC_m1q4d03christ (68) → CHRIST
-- [ ] PC_m1q4d03jalek (96) → JALEK
-- [ ] PC_m1q4d05chef (61) → CHEF
-- [ ] PC_m1q4d05info (92) → INFO
-- [ ] PC_m1q4d05sauna (58) → SAUNA
-- [ ] PC_m1q4f23vengaul (41) → NPC_V_small
-- [ ] PC_m1q5a01atte (72) → ATTE
-- [ ] PC_m1q5a01gen1 (79) → GEN1
-- [ ] PC_m1q5a01gen2 (76) → GEN2
-- [ ] PC_m1q5a03ergs (59) → ERGS
-- [ ] PC_m1q5a07aldo (62) → Aldo
-- [ ] PC_m1q5a07hect (44) → NPC_H_small
-- [ ] PC_m1q5a09bert (151) → BERT
-- [ ] PC_m1q5a09hlmt (47) → HLMT
-- [ ] PC_m1q5a12siri (50) → SIRI
-- [ ] PC_m1q5a13kres (45) → KRES
-- [ ] PC_m1q5a14jema (82) → JEMA
-- [ ] PC_m1q5b01harb (135) → HARB
-- [ ] PC_m1q5b02drak (66) → DRAK
-- [ ] PC_m1q5c02walt (85) → WALT
-- [ ] PC_m1q5e08jard (61) → JARD
+- [x] PC_m1q3ablapatr (99) → Blacklake_Patrol
+- [x] PC_m1q3aclean (127) → Blacklake_cleaning_lady
+- [x] PC_m1q3adryad (58) → Blacklake_Dryad
+- [x] PC_m1q3adumbgua (58) → Grommin
+- [x] PC_m1q3aformosa (139) → (없음)
+- [x] PC_m1q3ameldanen (127) → Meldanen
+- [x] PC_m1q3anobman (112) → Disgruntled_Nobleman
+- [x] PC_m1q3anobwom (112) → Disgruntled_Woman
+- [x] PC_m1q3asamuel (72) → ASAMUEL
+- [x] PC_m1q3athurin (146) → ATHURIN
+- [x] PC_m1q3gategua (88) → GATEGUA
+- [x] PC_m1q3gateguard (116) → GATEGUARD
+- [x] PC_m1q3i_cend2 (62) → CEND2
+- [x] PC_m1q4a00com1 (97) → COM1_
+- [x] PC_m1q4a00com2 (108) → COM2_
+- [x] PC_m1q4a01bloodsail (31) → NPC_B_small
+- [x] PC_m1q4a01burn (40) → BURN
+- [x] PC_m1q4a01noble1 (99) → NOBLE1
+- [x] PC_m1q4a02mugg01 (57) → MUGG01
+- [x] PC_m1q4b01auct (61) → AUCT
+- [x] PC_m1q4b01avista (39) → NPC_A_small
+- [x] PC_m1q4b07daranei (91) → DARANEI
+- [x] PC_m1q4b07gilda (64) → GILDA
+- [x] PC_m1q4b08jerol (37) → NPC_J_small
+- [x] PC_m1q4d03christ (68) → CHRIST
+- [x] PC_m1q4d03jalek (96) → JALEK
+- [x] PC_m1q4d05chef (61) → CHEF
+- [x] PC_m1q4d05info (92) → INFO
+- [x] PC_m1q4d05sauna (58) → SAUNA
+- [x] PC_m1q4f23vengaul (41) → NPC_V_small
+- [x] PC_m1q5a01atte (72) → ATTE
+- [x] PC_m1q5a01gen1 (79) → GEN1
+- [x] PC_m1q5a01gen2 (76) → GEN2
+- [x] PC_m1q5a03ergs (59) → ERGS
+- [x] PC_m1q5a07aldo (62) → Aldo
+- [x] PC_m1q5a07hect (44) → NPC_H_small
+- [x] PC_m1q5a09bert (151) → BERT
+- [x] PC_m1q5a09hlmt (47) → HLMT
+- [x] PC_m1q5a12siri (50) → SIRI
+- [x] PC_m1q5a13kres (45) → KRES
+- [x] PC_m1q5a14jema (82) → JEMA
+- [x] PC_m1q5b01harb (135) → HARB
+- [x] PC_m1q5b02drak (66) → DRAK
+- [x] PC_m1q5c02walt (85) → WALT
+- [x] PC_m1q5e08jard (61) → JARD
 
 ### OC-챕터1 최종 (10파일, 693 대사)
-- [ ] PC_m1q6_farmer (52) → FARMER
-- [ ] PC_m1q6a01aribeth (111) → Aribeth
-- [ ] PC_m1q6a01desth (47) → DESTH
-- [ ] PC_m1q6a01fenth (86) → FENTH
-- [ ] PC_m1q6a01nash (83) → NASH
-- [ ] PC_m1q6b01surr (69) → SURR
-- [ ] PC_m1q6b09fenthick (61) → FENTHICK_1
-- [ ] PC_m1q6f08demon (80) → DEMON
-- [ ] PC_m1q6f08guardian (45) → Guardian_of_Helm
-- [ ] PC_m1q6f11desther (59) → DESTHER_1
+- [x] PC_m1q6_farmer (52) → FARMER
+- [x] PC_m1q6a01aribeth (111) → Aribeth
+- [x] PC_m1q6a01desth (47) → DESTH
+- [x] PC_m1q6a01fenth (86) → FENTH
+- [x] PC_m1q6a01nash (83) → NASH
+- [x] PC_m1q6b01surr (69) → SURR
+- [x] PC_m1q6b09fenthick (61) → FENTHICK_1
+- [x] PC_m1q6f08demon (80) → DEMON
+- [x] PC_m1q6f08guardian (45) → Guardian_of_Helm
+- [x] PC_m1q6f11desther (59) → DESTHER_1
 
 ### OC-챕터1 기타 (1파일, 70 대사)
-- [ ] PC_m1qknurse (70) → QKNURSE
+- [x] PC_m1qknurse (70) → QKNURSE
 
 ### OC-챕터2 (79파일, 7,436 대사)
-- [ ] PC_m2q1000jahel (130) → JAHEL
-- [ ] PC_m2q1000slmon (102) → SLMON
-- [ ] PC_m2q1000taran (127) → TARAN
-- [ ] PC_m2q1a00bmaid (48) → BMAID
-- [ ] PC_m2q1a00dghtr (68) → DGHTR
-- [ ] PC_m2q1a00farmr (76) → FARMR
-- [ ] PC_m2q1a00merc (56) → MERC
-- [ ] PC_m2q1a00mung (75) → MUNG
-- [ ] PC_m2q1a00prchv (79) → PRCHV
-- [ ] PC_m2q1a00son (101) → SON
-- [ ] PC_m2q1a02bran (58) → BRAN
-- [ ] PC_m2q1a02geth (45) → GETH
-- [ ] PC_m2q1a02krath (48) → KRATH
-- [ ] PC_m2q1a02neurk (208) → NEURK
-- [ ] PC_m2q1a03alhlr (82) → ALHLR
-- [ ] PC_m2q1a03ander (184) → ANDER
-- [ ] PC_m2q1a03darkt (76) → DARKT
-- [ ] PC_m2q1a03setra (42) → SETRA
-- [ ] PC_m2q1a08dellh (91) → DELLH
-- [ ] PC_m2q1a08kend (230) → KEND
-- [ ] PC_m2q1a08strge (219) → STRGE
-- [ ] PC_m2q1a08wyvrn (73) → WYVRN
-- [ ] PC_m2q1a08zor (63) → ZOR
-- [ ] PC_m2q1a09eltra (141) → ELTRA
-- [ ] PC_m2q1a10urth (54) → URTH
-- [ ] PC_m2q1a14odeel (67) → ODEEL
-- [ ] PC_m2q1aballard (49) → NPC_A_small
-- [ ] PC_m2q1adeath (75) → ADEATH
-- [ ] PC_m2q1aelaith (202) → AELAITH
-- [ ] PC_m2q1afarmer (56) → AFARMER
-- [ ] PC_m2q1afarmwife (52) → AFARMWIFE
-- [ ] PC_m2q1athfsto (33) → ATHFSTO
-- [ ] PC_m2q1binn (135) → BINN
-- [ ] PC_m2q1shaldr (156) → SHALDR
-- [ ] PC_m2q1yesgar (46) → NPC_Y_small
-- [ ] PC_m2q2aarche (69) → AARCHE
-- [ ] PC_m2q2ajanis (106) → Janis
-- [ ] PC_m2q2ajax2 (159) → AJAX2
-- [ ] PC_m2q2alent (117) → Lenton
-- [ ] PC_m2q2aliz (79) → ALIZ
-- [ ] PC_m2q2arevat (159) → AREVAT
-- [ ] PC_m2q2bpris (47) → NPC_D_small
-- [ ] PC_m2q2eaawill (170) → EAAWILL
-- [ ] PC_m2q2eelgar (47) → Elgar
-- [ ] PC_m2q2ehenna (82) → Henna
-- [ ] PC_m2q2ejaer (108) → Jaer
-- [ ] PC_m2q2ejanken (50) → Janken
-- [ ] PC_m2q2ewelcar (77) → Welcar
-- [ ] PC_m2q2fdryad (60) → Dryad
-- [ ] PC_m2q2fnymph2 (148) → FNYMPH2
-- [ ] PC_m2q2grelmar (76) → Relmar
-- [ ] PC_m2q2gspirit (56) → Spirit_of_the_Wood
-- [ ] PC_m2q2hslave1 (37) → NPC_H_small
-- [ ] PC_m2q2hterari (100) → Terari
-- [ ] PC_m2q2iorlane (98) → Orlane
-- [ ] PC_m2q2jbree (94) → Bree
-- [ ] PC_m2q2jsetara (122) → Setara
-- [ ] PC_m2q3_belial (53) → MBELIAL
-- [ ] PC_m2q3alerk (37) → NPC_A_small
-- [ ] PC_m2q3b01hero (47) → HERO
-- [ ] PC_m2q3dwanev (119) → DWANEV
-- [ ] PC_m2q3e_constance (185) → Constance_ODeel
-- [ ] PC_m2q3e_erik (157) → Erik
-- [ ] PC_m2q3e_ingo (101) → Ingo
-- [ ] PC_m2q3e_mary (84) → Mary_ODeel
-- [ ] PC_m2q3e_pete (122) → Pete_ODeel
-- [ ] PC_m2q3e_silverback (46) → NPC_S_small
-- [ ] PC_m2q3econstance (218) → ECONSTANCE
-- [ ] PC_m2q3g02cult1 (43) → CULT1
-- [ ] PC_m2q3g02fence (33) → NPC_F_small
-- [ ] PC_m2q3g02house (66) → HOUSE
-- [ ] PC_m2q3g02man (67) → MAN
-- [ ] PC_m2q3g02mayor (67) → MAYOR
-- [ ] PC_m2q3g02woman (72) → WOMAN
-- [ ] PC_m2q3h14quint2 (133) → QUINT2
-- [ ] PC_m2q3h_guardian (159) → GUARDIAN
-- [ ] PC_m2q3i_karlat (85) → Karlat_Jhareg
-- [ ] PC_m2q3j_quint (83) → Quint_Jhareg
-- [ ] PC_m2q3k10balor (51) → BALOR
+- [x] PC_m2q1000jahel (130) → JAHEL
+- [x] PC_m2q1000slmon (102) → SLMON
+- [x] PC_m2q1000taran (127) → TARAN
+- [x] PC_m2q1a00bmaid (48) → BMAID
+- [x] PC_m2q1a00dghtr (68) → DGHTR
+- [x] PC_m2q1a00farmr (76) → FARMR
+- [x] PC_m2q1a00merc (56) → MERC
+- [x] PC_m2q1a00mung (75) → MUNG
+- [x] PC_m2q1a00prchv (79) → PRCHV
+- [x] PC_m2q1a00son (101) → SON
+- [x] PC_m2q1a02bran (58) → BRAN
+- [x] PC_m2q1a02geth (45) → GETH
+- [x] PC_m2q1a02krath (48) → KRATH
+- [x] PC_m2q1a02neurk (208) → NEURK
+- [x] PC_m2q1a03alhlr (82) → ALHLR
+- [x] PC_m2q1a03ander (184) → ANDER
+- [x] PC_m2q1a03darkt (76) → DARKT
+- [x] PC_m2q1a03setra (42) → SETRA
+- [x] PC_m2q1a08dellh (91) → DELLH
+- [x] PC_m2q1a08kend (230) → KEND
+- [x] PC_m2q1a08strge (219) → STRGE
+- [x] PC_m2q1a08wyvrn (73) → WYVRN
+- [x] PC_m2q1a08zor (63) → ZOR
+- [x] PC_m2q1a09eltra (141) → ELTRA
+- [x] PC_m2q1a10urth (54) → URTH
+- [x] PC_m2q1a14odeel (67) → ODEEL
+- [x] PC_m2q1aballard (49) → NPC_A_small
+- [x] PC_m2q1adeath (75) → ADEATH
+- [x] PC_m2q1aelaith (202) → AELAITH
+- [x] PC_m2q1afarmer (56) → AFARMER
+- [x] PC_m2q1afarmwife (52) → AFARMWIFE
+- [x] PC_m2q1athfsto (33) → ATHFSTO
+- [x] PC_m2q1binn (135) → BINN
+- [x] PC_m2q1shaldr (156) → SHALDR
+- [x] PC_m2q1yesgar (46) → NPC_Y_small
+- [x] PC_m2q2aarche (69) → AARCHE
+- [x] PC_m2q2ajanis (106) → Janis
+- [x] PC_m2q2ajax2 (159) → AJAX2
+- [x] PC_m2q2alent (117) → Lenton
+- [x] PC_m2q2aliz (79) → ALIZ
+- [x] PC_m2q2arevat (159) → AREVAT
+- [x] PC_m2q2bpris (47) → NPC_D_small
+- [x] PC_m2q2eaawill (170) → EAAWILL
+- [x] PC_m2q2eelgar (47) → Elgar
+- [x] PC_m2q2ehenna (82) → Henna
+- [x] PC_m2q2ejaer (108) → Jaer
+- [x] PC_m2q2ejanken (50) → Janken
+- [x] PC_m2q2ewelcar (77) → Welcar
+- [x] PC_m2q2fdryad (60) → Dryad
+- [x] PC_m2q2fnymph2 (148) → FNYMPH2
+- [x] PC_m2q2grelmar (76) → Relmar
+- [x] PC_m2q2gspirit (56) → Spirit_of_the_Wood
+- [x] PC_m2q2hslave1 (37) → NPC_H_small
+- [x] PC_m2q2hterari (100) → Terari
+- [x] PC_m2q2iorlane (98) → Orlane
+- [x] PC_m2q2jbree (94) → Bree
+- [x] PC_m2q2jsetara (122) → Setara
+- [x] PC_m2q3_belial (53) → MBELIAL
+- [x] PC_m2q3alerk (37) → NPC_A_small
+- [x] PC_m2q3b01hero (47) → HERO
+- [x] PC_m2q3dwanev (119) → DWANEV
+- [x] PC_m2q3e_constance (185) → Constance_ODeel
+- [x] PC_m2q3e_erik (157) → Erik
+- [x] PC_m2q3e_ingo (101) → Ingo
+- [x] PC_m2q3e_mary (84) → Mary_ODeel
+- [x] PC_m2q3e_pete (122) → Pete_ODeel
+- [x] PC_m2q3e_silverback (46) → NPC_S_small
+- [x] PC_m2q3econstance (218) → ECONSTANCE
+- [x] PC_m2q3g02cult1 (43) → CULT1
+- [x] PC_m2q3g02fence (33) → NPC_F_small
+- [x] PC_m2q3g02house (66) → HOUSE
+- [x] PC_m2q3g02man (67) → MAN
+- [x] PC_m2q3g02mayor (67) → MAYOR
+- [x] PC_m2q3g02woman (72) → WOMAN
+- [x] PC_m2q3h14quint2 (133) → QUINT2
+- [x] PC_m2q3h_guardian (159) → GUARDIAN
+- [x] PC_m2q3i_karlat (85) → Karlat_Jhareg
+- [x] PC_m2q3j_quint (83) → Quint_Jhareg
+- [x] PC_m2q3k10balor (51) → BALOR
 
 ### OC-챕터2 후반 (19파일, 2,055 대사)
-- [ ] PC_m2q41athfsto (36) → ATHFSTO
-- [ ] PC_m2q5a04frmer (211) → FRMER
-- [ ] PC_m2q5a04son (47) → Farmers_Son
-- [ ] PC_m2q5a04wife (46) → WIFE
-- [ ] PC_m2q5c02ptrol (38) → NPC_P_small
-- [ ] PC_m2q5c12gking (62) → GKING
-- [ ] PC_m2q5d15prsnr (53) → NPC_P_small
-- [ ] PC_m2q5e03nglat (60) → NGLAT
-- [ ] PC_m2q5f07crtkr (104) → CRTKR
-- [ ] PC_m2q5l01dydd (40) → NPC_D_small
-- [ ] PC_m2q5l01gam (67) → GAM
-- [ ] PC_m2q5l01grkan (48) → GRKAN
-- [ ] PC_m2q5l01mtmin (84) → MTMIN
-- [ ] PC_m2q5l01wtres (40) → NPC_W_small
-- [ ] PC_m2q5n17yunti (57) → YUNTI
-- [ ] PC_m2q5zshaldr (49) → ZSHALDR
-- [ ] PC_m2q6a02aarin (541) → AARIN ★대형
-- [ ] PC_m2q6a02abeth (403) → ABETH ★대형
-- [ ] PC_m2q6bdeath (69) → BDEATH
+- [x] PC_m2q41athfsto (36) → ATHFSTO
+- [x] PC_m2q5a04frmer (211) → FRMER
+- [x] PC_m2q5a04son (47) → Farmers_Son
+- [x] PC_m2q5a04wife (46) → WIFE
+- [x] PC_m2q5c02ptrol (38) → NPC_P_small
+- [x] PC_m2q5c12gking (62) → GKING
+- [x] PC_m2q5d15prsnr (53) → NPC_P_small
+- [x] PC_m2q5e03nglat (60) → NGLAT
+- [x] PC_m2q5f07crtkr (104) → CRTKR
+- [x] PC_m2q5l01dydd (40) → NPC_D_small
+- [x] PC_m2q5l01gam (67) → GAM
+- [x] PC_m2q5l01grkan (48) → GRKAN
+- [x] PC_m2q5l01mtmin (84) → MTMIN
+- [x] PC_m2q5l01wtres (40) → NPC_W_small
+- [x] PC_m2q5n17yunti (57) → YUNTI
+- [x] PC_m2q5zshaldr (49) → ZSHALDR
+- [x] PC_m2q6a02aarin (541) → AARIN ★대형
+- [x] PC_m2q6a02abeth (403) → ABETH ★대형
+- [x] PC_m2q6bdeath (69) → BDEATH
 
 ### OC-챕터3 (40파일, 3,378 대사)
-- [ ] PC_m3blackstore (32) → NPC_B_small
-- [ ] PC_m3deathcleric (77) → DEATHCLERIC
-- [ ] PC_m3q00sold (47) → SOLD
-- [ ] PC_m3q01a01aari (281) → AARI ★대형
-- [ ] PC_m3q01a01aver (46) → AVER
-- [ ] PC_m3q01a01haed (125) → HAED
-- [ ] PC_m3q01a01igla (73) → IGLA
-- [ ] PC_m3q01a01neur (111) → NEUR
-- [ ] PC_m3q01a01rolk (106) → ROLK
-- [ ] PC_m3q01a01yusa (101) → YUSA
-- [ ] PC_m3q01a01zed (62) → ZED
-- [ ] PC_m3q01a08crom (121) → CROM
-- [ ] PC_m3q01a09riba (107) → RIBA
-- [ ] PC_m3q01a10anda (75) → ANDA
-- [ ] PC_m3q01a11lill (185) → LILL
-- [ ] PC_m3q02a10bret (60) → BRET
-- [ ] PC_m3q02a10ecke (39) → NPC_E_small
-- [ ] PC_m3q02a10ecwi (44) → ECWI
-- [ ] PC_m3q02a11dama (173) → DAMA
-- [ ] PC_m3q02allsapp (132) → ALLSAPP
-- [ ] PC_m3q02g08loka (51) → NPC_L_small
-- [ ] PC_m3q02g17gols (84) → Slave_Worker
-- [ ] PC_m3q02g19gols (84) → Slave_Worker
-- [ ] PC_m3q02g21gols (84) → Slave_Worker
-- [ ] PC_m3q02golspirit (36) → NPC_G_small
-- [ ] PC_m3q03d08zoka (66) → ZOKA
-- [ ] PC_m3q04a02obul (35) → NPC_O_small
-- [ ] PC_m3q04a03uths (41) → NPC_U_small
-- [ ] PC_m3q04c03akul (72) → Akulatraxas
-- [ ] PC_m3q04f02gorg (79) → GORG
-- [ ] PC_m3q04g08woga (57) → WOGA
-- [ ] PC_m3q04h04drag (26) → NPC_D_small
-- [ ] PC_m3q04h07klau (138) → KLAU
-- [ ] PC_m3q3a01rang (92) → RANG
-- [ ] PC_m3q3a02vaath (37) → NPC_V_small
-- [ ] PC_m3q3b09nax (116) → NAX
+- [x] PC_m3blackstore (32) → NPC_B_small
+- [x] PC_m3deathcleric (77) → DEATHCLERIC
+- [x] PC_m3q00sold (47) → SOLD
+- [x] PC_m3q01a01aari (281) → AARI ★대형
+- [x] PC_m3q01a01aver (46) → AVER
+- [x] PC_m3q01a01haed (125) → HAED
+- [x] PC_m3q01a01igla (73) → IGLA
+- [x] PC_m3q01a01neur (111) → NEUR
+- [x] PC_m3q01a01rolk (106) → ROLK
+- [x] PC_m3q01a01yusa (101) → YUSA
+- [x] PC_m3q01a01zed (62) → ZED
+- [x] PC_m3q01a08crom (121) → CROM
+- [x] PC_m3q01a09riba (107) → RIBA
+- [x] PC_m3q01a10anda (75) → ANDA
+- [x] PC_m3q01a11lill (185) → LILL
+- [x] PC_m3q02a10bret (60) → BRET
+- [x] PC_m3q02a10ecke (39) → NPC_E_small
+- [x] PC_m3q02a10ecwi (44) → ECWI
+- [x] PC_m3q02a11dama (173) → DAMA
+- [x] PC_m3q02allsapp (132) → ALLSAPP
+- [x] PC_m3q02g08loka (51) → NPC_L_small
+- [x] PC_m3q02g17gols (84) → Slave_Worker
+- [x] PC_m3q02g19gols (84) → Slave_Worker
+- [x] PC_m3q02g21gols (84) → Slave_Worker
+- [x] PC_m3q02golspirit (36) → NPC_G_small
+- [x] PC_m3q03d08zoka (66) → ZOKA
+- [x] PC_m3q04a02obul (35) → NPC_O_small
+- [x] PC_m3q04a03uths (41) → NPC_U_small
+- [x] PC_m3q04c03akul (72) → Akulatraxas
+- [x] PC_m3q04f02gorg (79) → GORG
+- [x] PC_m3q04g08woga (57) → WOGA
+- [x] PC_m3q04h04drag (26) → NPC_D_small
+- [x] PC_m3q04h07klau (138) → KLAU
+- [x] PC_m3q3a01rang (92) → RANG
+- [x] PC_m3q3a02vaath (37) → NPC_V_small
+- [x] PC_m3q3b09nax (116) → NAX
 - [ ] PC_m3q3c03arwyl (68) → ARWYL
 - [ ] PC_m3q3c07hodd (66) → HODD
 - [ ] PC_m3q3c10sdrgn (81) → SDRGN
@@ -328,36 +328,36 @@
 - [ ] PC_nw_hen_sha (928) → Henchman_SHA ★대형
 - [ ] PC_nw_g_animal (40) → Henchman_NW_G_ANIMAL
 
-### XP1-챕터2 (29파일, 3,465 대사)
-- [ ] PC_2q4a_aruph (101) → ARUPH
-- [ ] PC_2q4a_bridgegd (99) → BRIDGEGD
-- [ ] PC_2q4a_colmarr (76) → COLMARR
-- [ ] PC_2q4a_elynwyd (187) → ELYNWYD
-- [ ] PC_2q4a_galrone (130) → Galrone
-- [ ] PC_2q4a_jadale (165) → Lady_Jadale
-- [ ] PC_2q4a_londa (154) → LONDA
-- [ ] PC_2q4a_luskinfo_m (68) → LUSKINFO_M
-- [ ] PC_2q4a_luskintinfo (68) → LUSKINTINFO
-- [ ] PC_2q4a_luskmerch (54) → LUSKMERCH
-- [ ] PC_2q4a_waitress (41) → NPC_W_small
-- [ ] PC_2q4c_bela (136) → BELA
-- [ ] PC_2q4c_crtinlng (70) → CRTINLNG
-- [ ] PC_2q4c_erb (158) → ERB
-- [ ] PC_2q4c_oreth (153) → ORETH
-- [ ] PC_2q4c_rhaine (154) → Rhaine
-- [ ] PC_2q4c_yvette (129) → Yvette
-- [ ] PC_2q4d_evaine (79) → EVAINE
-- [ ] PC_2q4d_kurth (217) → High_Captain_Kurth ★대형
-- [ ] PC_2q4d_prisoner (81) → PRISONER_1
-- [ ] PC_2q4e_baram (215) → High_Captain_Baram ★대형
-- [ ] PC_2q4f_outcast (92) → Ghoul_Outcast
-- [ ] PC_2q6a_captain (78) → CAPTAIN
-- [ ] PC_2q6b_orcambass (117) → Gurak_Entrailspiller
-- [ ] PC_2q6b_yeanasha (120) → Yeanasha
-- [ ] PC_2q6c_nyphithys (179) → NYPHITHYS
-- [ ] PC_2q6c_rimardo (111) → RIMARDO
-- [ ] PC_2q6d_arklem (101) → ARKLEM
-- [ ] PC_2q6d_deltagar (132) → DELTAGAR
+### OC-챕터2 러스칸 (29파일, 3,465 대사) ✅ 완료
+- [x] PC_2q4a_aruph (101) → ARUPH
+- [x] PC_2q4a_bridgegd (99) → BRIDGEGD
+- [x] PC_2q4a_colmarr (76) → COLMARR
+- [x] PC_2q4a_elynwyd (187) → ELYNWYD
+- [x] PC_2q4a_galrone (130) → Galrone
+- [x] PC_2q4a_jadale (165) → Lady_Jadale
+- [x] PC_2q4a_londa (154) → LONDA
+- [x] PC_2q4a_luskinfo_m (68) → LUSKINFO_M
+- [x] PC_2q4a_luskintinfo (68) → LUSKINTINFO
+- [x] PC_2q4a_luskmerch (54) → LUSKMERCH
+- [x] PC_2q4a_waitress (41) → NPC_W_small
+- [x] PC_2q4c_bela (136) → BELA
+- [x] PC_2q4c_crtinlng (70) → CRTINLNG
+- [x] PC_2q4c_erb (158) → ERB
+- [x] PC_2q4c_oreth (153) → ORETH
+- [x] PC_2q4c_rhaine (154) → Rhaine
+- [x] PC_2q4c_yvette (129) → Yvette
+- [x] PC_2q4d_evaine (79) → EVAINE
+- [x] PC_2q4d_kurth (217) → High_Captain_Kurth ★대형
+- [x] PC_2q4d_prisoner (81) → PRISONER_1
+- [x] PC_2q4e_baram (215) → High_Captain_Baram ★대형
+- [x] PC_2q4f_outcast (92) → Ghoul_Outcast
+- [x] PC_2q6a_captain (78) → CAPTAIN
+- [x] PC_2q6b_orcambass (117) → Gurak_Entrailspiller
+- [x] PC_2q6b_yeanasha (120) → Yeanasha
+- [x] PC_2q6c_nyphithys (179) → NYPHITHYS
+- [x] PC_2q6c_rimardo (111) → RIMARDO
+- [x] PC_2q6d_arklem (101) → ARKLEM
+- [x] PC_2q6d_deltagar (132) → DELTAGAR
 
 ### XP2 본편 (94파일, 9,635 대사)
 - [ ] PC_pre_argali (102) → ARGALI
@@ -528,7 +528,13 @@
 ## 진행 현황
 - **소규모(small) 파일**: 15파일 7,414대사 ✅ 완료
 - **OC-프롤로그/챕터1 (m0q01)**: 20파일 ✅ 완료
-- **나머지**: 미착수
+- **OC-챕터1 본편 (m1q1)**: 20파일 ✅ 완료
+- **OC-챕터1 지구별 (m1q2~m1q5)**: 46파일 ✅ 완료
+- **OC-챕터1 최종+기타 (m1q6)**: 11파일 ✅ 완료
+- **OC-챕터2 (m2q)**: 98파일 ✅ 완료
+- **OC-챕터2 러스칸 (2q4/2q6)**: 29파일 ✅ 완료
+- **OC-챕터3 (m3q)**: 진행 중 (36/40 완료)
+
 
 ## 우선순위 제안 (다음 단계)
 1. 스토리 중요도 높은 파일 먼저 (Aribeth, Fenthick, Aarin, Nasher 등 주요 NPC)
