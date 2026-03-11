@@ -30,27 +30,27 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 98896,PC,Player Character,"""Become kind-hearted and good!""","""착하고 선한 자가 돼!""",h9_mephistophele,,c_false,,,0,0
 98897,PC,Player Character,"""I command you to die!""","""죽으라고 명령한다!""",h9_mephistophele,,,,,0,0
 98906,PC,Player Character,"""Side with him, then. I knew you'd betray me eventually.""","""그럼 그 편에 서. 언젠간 날 배신할 줄 알았어.""",h9_mephistophele,h9a_meph_betray2,,,,0,0
-98907,PC,Player Character,"""Qeyifalia the Skyseeker, I command you to side with me!""","""하늘을 찾는 케이팔리아, 내 편에 서라고 명령한다!""",h9_mephistophele,a_true_nath,h9c_meph_nathy2,,,0,0
+98907,PC,Player Character,"""Qeyifalia the Skyseeker, I command you to side with me!""","""하늘탐구자 퀴팔리아, 내 편에 서라고 명령한다!""",h9_mephistophele,a_true_nath,h9c_meph_nathy2,,,0,0
 98908,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Whose wrath would you rather face? His or mine!?""","<StartCheck>[위협]</Start> ""누구한테 찍히고 싶어? 그놈한테야, 나한테야!?""",h9_mephistophele,,,,,0,0
 98909,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Ignore him, Nathyrra. You've left the Red Sisters behind you.""","<StartCheck>[설득]</Start> ""무시해, 나시라. 넌 이미 붉은 자매단을 떠났잖아.""",h9_mephistophele,,,,,0,0
 98910,PC,Player Character,"""Then to the Hells with you, I'll kill you both!""","""그럼 지옥에나 가, 둘 다 죽여버릴 거야!""",h9_mephistophele,h9a_meph_betray1,,,,0,0
-98911,PC,Player Character,"""Va'ardalia the Twinsouled, I command you to side with me!""","""쌍둥이 영혼의 바아르달리아, 내 편에 서라고 명령한다!""",h9_mephistophele,a_true_ari,h9c_meph_ari_2,,,0,0
+98911,PC,Player Character,"""Va'ardalia the Twinsouled, I command you to side with me!""","""두영혼의 바아르달리아, 내 편에 서라고 명령한다!""",h9_mephistophele,a_true_ari,h9c_meph_ari_2,,,0,0
 98912,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""I'm far more evil than he'll ever be, dear...""","<StartCheck>[위협]</Start> ""난 그 녀석보다 훨씬 더 사악해...""",h9_mephistophele,,,,,0,0
 98913,PC,Player Character,"<StartCheck>[Persuade]</Start> ""May I propose a double-cross?""","<StartCheck>[설득]</Start> ""뒤통수 한 번 쳐볼래?""",h9_mephistophele,,,,,0,0
 98914,PC,Player Character,"""Once a traitor, always a traitor, then...""","""한번 배신자는 영원한 배신자구나...""",h9_mephistophele,h9a_meph_betray1,,,,0,0
-98915,PC,Player Character,"""Va'ardalia the Twinsouled, I command you to fight alongside me!""","""쌍둥이 영혼의 바아르달리아, 내 곁에서 싸우라고 명령한다!""",h9_mephistophele,a_true_ari,h9c_meph_ari_2,,,0,0
+98915,PC,Player Character,"""Va'ardalia the Twinsouled, I command you to fight alongside me!""","""두영혼의 바아르달리아, 내 곁에서 싸우라고 명령한다!""",h9_mephistophele,a_true_ari,h9c_meph_ari_2,,,0,0
 98916,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""I will make your death more painful than your life ever was!""","<StartCheck>[위협]</Start> ""살면서 겪은 고통 따윈 비교도 안 되게 죽여줄 거야!""",h9_mephistophele,,,,,0,0
 98917,PC,Player Character,"<StartCheck>[Persuade]</Start> ""He lies! Your faith is what you make of it, Aribeth.""","<StartCheck>[설득]</Start> ""거짓말이야! 네 믿음은 네가 만드는 거야, 아리베스.""",h9_mephistophele,,,,,0,0
 98918,PC,Player Character,"""Why are you doing this?""","""왜 이러는 거야?""",h9_mephistophele,,,,,0,0
 98919,PC,Player Character,"""Sorry, the Hells froze over.""","""미안하지만, 거긴 좀 추워서 나왔어.""",h9_mephistophele,,,,,0,0
 109638,PC,Player Character,"""You can't even make your own decisions! You disgust me. Betray me, then.""","""자기 결정도 못 내리잖아! 꼴도 보기 싫어. 배신하든가.""",h9_mephistophele,h9a_meph_betray4,,,,0,0
 109639,PC,Player Character,"""Betray me if you will but I will miss you, Deekin.""","""배신하고 싶으면 해, 하지만 보고 싶을 거야, 디킨.""",h9_mephistophele,hx_end_deebetray,,,,0,0
-109640,PC,Player Character,"""Ixthyria the Scalesinger, ignore Mephistopheles and remain with me!""","""비늘의 노래꾼 익스시리아, 메피스토펠레스를 무시하고 내 곁에 있어라!""",h9_mephistophele,a_true_deekin,h9c_meph_deek2,,,0,0
+109640,PC,Player Character,"""Ixthyria the Scalesinger, ignore Mephistopheles and remain with me!""","""비늘소리꾼 익시리아, 메피스토펠레스를 무시하고 내 곁에 있어라!""",h9_mephistophele,a_true_deekin,h9c_meph_deek2,,,0,0
 109641,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""I'll wring your neck if you betray me, Deekin!""","<StartCheck>[위협]</Start> ""배신하면 목을 비틀어버릴 거야, 디킨!""",h9_mephistophele,,,,,0,0
 109642,PC,Player Character,"""That's it, Deekin! You're in for it now!""","""이제 끝이야, 디킨! 각오해!""",h9_mephistophele,,,,,0,0
 109643,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Don't listen to him, Deekin! We're a team, remember?""","<StartCheck>[설득]</Start> ""그 말 듣지 마, 디킨! 우리 한 팀이잖아, 기억나지?""",h9_mephistophele,,,,,0,0
 109644,PC,Player Character,"""I never trusted you anyway. Betray me and die with Mephistopheles, then.""","""어차피 널 믿은 적 없어. 그래, 배신해서 메피스토펠레스랑 같이 죽어.""",h9_mephistophele,h9a_meph_betray3,,,,0,0
-109645,PC,Player Character,"""Oeskathine the Demonwrestler, I command you to stand at my side.""","""악마와 싸우는 자 외스카틴, 내 곁에 서라고 명령한다.""",h9_mephistophele,a_true_valen,h9c_meph_valen2,,,0,0
+109645,PC,Player Character,"""Oeskathine the Demonwrestler, I command you to stand at my side.""","""악마씨름꾼 오에스카틴, 내 곁에 서라고 명령한다.""",h9_mephistophele,a_true_valen,h9c_meph_valen2,,,0,0
 109646,PC,Player Character,"<StartCheck>[Intimidate]</Start> ""Betray me and I'll kill you, Valen, I swear it!""","<StartCheck>[위협]</Start> ""배신하면 죽여버릴 거야, 발렌, 맹세해!""",h9_mephistophele,,,,,0,0
 109647,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Don't listen to his lies, Valen! I need you at my side!""","<StartCheck>[설득]</Start> ""그의 거짓말에 속지 마, 발렌! 네가 내 곁에 필요해!""",h9_mephistophele,,,,,0,0
 109648,PC,Player Character,"<StartCheck>[Persuade]</Start> ""Isn't your love for me stronger than that, Valen?""","<StartCheck>[설득]</Start> ""날 향한 사랑이 그보다 강하지 않아, 발렌?""",h9_mephistophele,,x2_valromancey,,,0,0

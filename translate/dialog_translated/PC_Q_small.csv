@@ -1003,7 +1003,7 @@
 106494,PC,Player Character,"""I want to ask you some questions.""","""질문 좀 하고 싶어.""",q6_apprentice,,,,,0,0
 106495,PC,Player Character,"""How did a town of winged elves end up in the Underdark?""","""날개달린 엘프 마을이 어떻게 언더다크에 있게 된 거야?""",q6_apprentice,,,,,0,0
 106496,PC,Player Character,"""What can you tell me about the castle?""","""성에 대해 뭘 말해줄 수 있어?""",q6_apprentice,,,,,0,0
-106497,PC,Player Character,"""How did you get that mirror shard you gave me?""","""내게 준 거울 파편은 어떻게 구한 거야?""",q6_apprentice,,,,,0,0
+106497,PC,Player Character,"""How did you get that mirror shard you gave me?""","""내게 준 거울 조각은 어떻게 구한 거야?""",q6_apprentice,,,,,0,0
 106498,PC,Player Character,"""Who are you?""","""넌 누구야?""",q6_apprentice,,,,,0,0
 106499,PC,Player Character,"""Give me one reason I should let you live.""","""살려줄 이유를 하나 말해봐.""",q6_apprentice,,,,,0,0
 106976,PC,Player Character,"""I'll be going now.""","""이만 가볼게.""",q6_queen2,,,,,0,0
@@ -1022,7 +1022,7 @@
 107164,PC,Player Character,"""I've got no further use for you. Time to die."" <StartAction>Attack.</Start>",너한테 더 이상 쓸모가 없어. 죽을 시간이야. <StartAction>공격합니다.</Start>,q6_wizard,q6_at_wizard1,,,,0,0
 107165,PC,Player Character,"""What can you tell me about the tower?""","""탑에 대해 뭘 말해줄 수 있어?""",q6_wizard,,,,,0,0
 107166,PC,Player Character,"""Tell me about your apprentice.""","""네 견습생에 대해 말해줘.""",q6_wizard,,,,,0,0
-107167,PC,Player Character,"""Does your apprentice still have this mirror shard?""","""네 견습생이 아직 이 거울 파편을 갖고 있어?""",q6_wizard,,q6_wiz_shard,,,0,0
+107167,PC,Player Character,"""Does your apprentice still have this mirror shard?""","""네 견습생이 아직 이 거울 조각을 갖고 있어?""",q6_wizard,,q6_wiz_shard,,,0,0
 107168,PC,Player Character,"""Why did you give up on magic?""","""왜 마법을 포기한 거야?""",q6_wizard,,,,,0,0
 107169,PC,Player Character,"""I'm looking for pieces of a broken mirror.""","""부서진 거울 조각을 찾고 있어.""",q6_wizard,,q6_mirror10,,,0,0
 107170,PC,Player Character,"""I'm <FullName>. Pleased to meet you.""","""나는 <FullName>이야. 만나서 반가워.""",q6_wizard,,,,,0,0

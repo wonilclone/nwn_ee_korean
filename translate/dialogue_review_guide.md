@@ -301,23 +301,23 @@
 - [x] PC_m3q3a01rang (92) → RANG
 - [x] PC_m3q3a02vaath (37) → NPC_V_small
 - [x] PC_m3q3b09nax (116) → NAX
-- [ ] PC_m3q3c03arwyl (68) → ARWYL
-- [ ] PC_m3q3c07hodd (66) → HODD
-- [ ] PC_m3q3c10sdrgn (81) → SDRGN
-- [ ] PC_m3q3d05balor (68) → BALOR
+- [x] PC_m3q3c03arwyl (68) → ARWYL
+- [x] PC_m3q3c07hodd (66) → HODD
+- [x] PC_m3q3c10sdrgn (81) → SDRGN
+- [x] PC_m3q3d05balor (68) → BALOR
 
 ### OC-챕터4 (11파일, 1,078 대사)
-- [ ] PC_m4_finalhaedra (49) → FINALHAEDRA
-- [ ] PC_m4q01a04aari (175) → Aarin_Gend
-- [ ] PC_m4q01a04haed (114) → Haedraline
-- [ ] PC_m4q01a04nash (124) → Nasher_Alagondar
-- [ ] PC_m4q01a06luce (53) → Luce_1
-- [ ] PC_m4q01a07tran (105) → Trancar
-- [ ] PC_m4q01b11oldm (43) → Asgard
-- [ ] PC_m4q01b25arib (226) → ARIB ★대형
-- [ ] PC_m4q01c03arch (46) → ARCH
-- [ ] PC_m4q01d02pala (66) → PALA
-- [ ] PC_m4q01deathcleric (77) → DEATHCLERIC
+- [x] PC_m4_finalhaedra (49) → FINALHAEDRA
+- [x] PC_m4q01a04aari (175) → Aarin_Gend
+- [x] PC_m4q01a04haed (114) → Haedraline
+- [x] PC_m4q01a04nash (124) → Nasher_Alagondar
+- [x] PC_m4q01a06luce (53) → Luce_1
+- [x] PC_m4q01a07tran (105) → Trancar
+- [x] PC_m4q01b11oldm (43) → Asgard
+- [x] PC_m4q01b25arib (226) → ARIB ★대형
+- [x] PC_m4q01c03arch (46) → ARCH
+- [x] PC_m4q01d02pala (66) → PALA
+- [x] PC_m4q01deathcleric (77) → DEATHCLERIC
 
 ### OC-동료 (7파일 + Henchman 6파일, 약 4,710 대사)
 - [ ] PC_nw_hen_bod (779) → Henchman_BOD ★대형
@@ -360,119 +360,119 @@
 - [x] PC_2q6d_deltagar (132) → DELTAGAR
 
 ### XP2 본편 (94파일, 9,635 대사)
-- [ ] PC_pre_argali (102) → ARGALI
-- [ ] PC_pre_daelan (80) → DAELAN
-- [ ] PC_pre_deekin (82) → DEEKIN
-- [ ] PC_pre_durnan (257) → DURNAN ★대형
-- [ ] PC_pre_grayban (68) → GRAYBAN
-- [ ] PC_pre_linu (63) → LINU
-- [ ] PC_pre_parley (63) → PARLEY
-- [ ] PC_pre_sharwyn (64) → SHARWYN_1
-- [ ] PC_pre_tamsil (74) → TAMSIL
-- [ ] PC_pre_tanarell (58) → TANARELL
-- [ ] PC_pre_tomi (60) → TOMI
-- [ ] PC_q1_daschnaya (78) → DASCHNAYA_1
-- [ ] PC_q1_haniah (162) → HANIAH
-- [ ] PC_q1_katriana (177) → Katriana
-- [ ] PC_q1bguard (59) → Hilltop_Guard
-- [ ] PC_q1bnora (97) → Nora_Blake
-- [ ] PC_q1bszaren (142) → BSZAREN
-- [ ] PC_q1btorias (78) → BTORIAS
-- [ ] PC_q1dkobold (71) → DKOBOLD
-- [ ] PC_q1dlodar (93) → Lodar_the_Tavernmaster
-- [ ] PC_q1fblacksmith (184) → FBLACKSMITH
-- [ ] PC_q1ferran (129) → Ferran_Valiantheart
-- [ ] PC_q1footrumgut (90) → FOOTRUMGUT
-- [ ] PC_q1ggilford (59) → Gilford
-- [ ] PC_q1gpiper (112) → Piper
-- [ ] PC_q1herbalist (57) → HERBALIST
-- [ ] PC_q1hkobold (38) → NPC_H_small
-- [ ] PC_q1idaschnaya (56) → Daschnaya
-- [ ] PC_q1ifurten (57) → IFURTEN
-- [ ] PC_q1ikatriana (134) → IKATRIANA
-- [ ] PC_q1ruralnathan (91) → Nathan_Hurst
-- [ ] PC_q1ruralrebecca (92) → Becka_Hurst
-- [ ] PC_q1storeszaren (72) → Szaren
-- [ ] PC_q2_nilmaldor (114) → Spirit_of_Nilmaldor
-- [ ] PC_q2_urko (108) → Urko
-- [ ] PC_q2a_ali2 (176) → ALI2
-- [ ] PC_q2acavallas (67) → Cavallas
-- [ ] PC_q2adaelan (88) → ADAELAN
-- [ ] PC_q2agrayban (98) → AGRAYBAN
-- [ ] PC_q2agrovel (59) → AGROVEL
-- [ ] PC_q2alinu (98) → ALINU
-- [ ] PC_q2amadame (86) → AMADAME
-- [ ] PC_q2anathyrra (110) → ANATHYRRA
-- [ ] PC_q2aparley (63) → APARLEY
-- [ ] PC_q2asharwyn (94) → ASHARWYN
-- [ ] PC_q2asobrey (73) → ASOBREY
-- [ ] PC_q2atanarell (73) → ATANARELL
-- [ ] PC_q2atomi (97) → ATOMI
-- [ ] PC_q2aypguard (35) → NPC_A_small
-- [ ] PC_q2azesyyr (61) → AZESYYR
-- [ ] PC_q2b03ogrehighmag (71) → OGREHIGHMAG
-- [ ] PC_q2cberger (52) → CBERGER
-- [ ] PC_q2crakbrit (62) → CRAKBRIT
-- [ ] PC_q2crakshasa1 (102) → CRAKSHASA1
-- [ ] PC_q2d2slaver (58) → SLAVER
-- [ ] PC_q2d_halaster (45) → Halaster_Blackcloak
-- [ ] PC_q2delderbrain (72) → DELDERBRAIN
-- [ ] PC_q2e_kelgaras (192) → KELGARAS
-- [ ] PC_q2evilnymph (95) → EVILNYMPH
-- [ ] PC_q3_blumberg (83) → BLUMBERG
-- [ ] PC_q3_gishnak (207) → GISHNAK ★대형
-- [ ] PC_q3_glendir (103) → GLENDIR
-- [ ] PC_q3_musharak (222) → MUSHARAK ★대형
-- [ ] PC_q3_nafeeli (85) → Nafeeli
-- [ ] PC_q3b_sphinx (135) → SPHINX
-- [ ] PC_q3san_deva (99) → SAN_DEVA
-- [ ] PC_q3vil_leader (60) → LEADER
-- [ ] PC_q3vil_man_1 (61) → MAN_1
-- [ ] PC_q3vil_woman_1 (64) → WOMAN_1
-- [ ] PC_q4b_dahanna (90) → DAHANNA
-- [ ] PC_q4c_aghaaz (118) → AGHAAZ
-- [ ] PC_q4c_ferron (119) → FERRON
-- [ ] PC_q4c_ghost (70) → GHOST
-- [ ] PC_q5_arzig (178) → ARZIG
-- [ ] PC_q5_attiz (91) → ATTIZ
-- [ ] PC_q5_jnah (295) → JNAH ★대형
-- [ ] PC_q5_klumph (115) → KLUMPH
-- [ ] PC_q5_torias (78) → TORIAS_1
-- [ ] PC_q5_tymofarar (455) → TYMOFARAR ★최대
-- [ ] PC_q5a_jasmeena (69) → Jasmeena
-- [ ] PC_q5a_worguard (56) → WORGUARD
-- [ ] PC_q5b_garrick (142) → Garrick_Halassar
-- [ ] PC_q5b_priest (182) → Minister_of_Ao
-- [ ] PC_q5b_valana (64) → VALANA
-- [ ] PC_q6_deekin (299) → DEEKIN ★대형
-- [ ] PC_q6_greeters (56) → GREETERS
-- [ ] PC_q6_guard (55) → GUARD_1
-- [ ] PC_q6_medusa (83) → MEDUSA
-- [ ] PC_q6_merchant (61) → MERCHANT
-- [ ] PC_q6_priest (95) → PRIEST
-- [ ] PC_q6_queen (66) → Shaori
-- [ ] PC_q6_the_fool (119) → THE_FOOL
-- [ ] PC_q7_cut_val0c (70) → CUT_VAL0C
-- [ ] PC_q7dhermit (142) → DHERMIT
+- [x] PC_pre_argali (102) → ARGALI
+- [x] PC_pre_daelan (80) → DAELAN
+- [x] PC_pre_deekin (82) → DEEKIN
+- [x] PC_pre_durnan (257) → DURNAN ★대형
+- [x] PC_pre_grayban (68) → GRAYBAN
+- [x] PC_pre_linu (63) → LINU
+- [x] PC_pre_parley (63) → PARLEY
+- [x] PC_pre_sharwyn (64) → SHARWYN_1
+- [x] PC_pre_tamsil (74) → TAMSIL
+- [x] PC_pre_tanarell (58) → TANARELL
+- [x] PC_pre_tomi (60) → TOMI
+- [x] PC_q1_daschnaya (78) → DASCHNAYA_1
+- [x] PC_q1_haniah (162) → HANIAH
+- [x] PC_q1_katriana (177) → Katriana
+- [x] PC_q1bguard (59) → Hilltop_Guard
+- [x] PC_q1bnora (97) → Nora_Blake
+- [x] PC_q1bszaren (142) → BSZAREN ← 1수정(말투)
+- [x] PC_q1btorias (78) → BTORIAS ← 1수정(오타)
+- [x] PC_q1dkobold (71) → DKOBOLD
+- [x] PC_q1dlodar (93) → Lodar_the_Tavernmaster ← 1수정(조사)
+- [x] PC_q1fblacksmith (184) → FBLACKSMITH
+- [x] PC_q1ferran (129) → Ferran_Valiantheart
+- [x] PC_q1footrumgut (90) → FOOTRUMGUT
+- [x] PC_q1ggilford (59) → Gilford
+- [x] PC_q1gpiper (112) → Piper
+- [x] PC_q1herbalist (57) → HERBALIST
+- [x] PC_q1hkobold (38) → NPC_H_small
+- [x] PC_q1idaschnaya (56) → Daschnaya ← 1수정(이름)
+- [x] PC_q1ifurten (57) → IFURTEN ← 1수정(말투)
+- [x] PC_q1ikatriana (134) → IKATRIANA ← 1수정(오역)
+- [x] PC_q1ruralnathan (91) → Nathan_Hurst
+- [x] PC_q1ruralrebecca (92) → Becka_Hurst
+- [x] PC_q1storeszaren (72) → Szaren
+- [x] PC_q2_nilmaldor (114) → Spirit_of_Nilmaldor
+- [x] PC_q2_urko (108) → Urko
+- [x] PC_q2a_ali2 (176) → ALI2
+- [x] PC_q2acavallas (67) → Cavallas
+- [x] PC_q2adaelan (88) → ADAELAN
+- [x] PC_q2agrayban (98) → AGRAYBAN
+- [x] PC_q2agrovel (59) → AGROVEL
+- [x] PC_q2alinu (98) → ALINU
+- [x] PC_q2amadame (86) → AMADAME ← 1수정(맞춤법)
+- [x] PC_q2anathyrra (110) → ANATHYRRA ← 4수정(맞춤법)
+- [x] PC_q2aparley (63) → APARLEY
+- [x] PC_q2asharwyn (94) → ASHARWYN
+- [x] PC_q2asobrey (73) → ASOBREY ← 2수정(오타+서술체)
+- [x] PC_q2atanarell (73) → ATANARELL
+- [x] PC_q2atomi (97) → ATOMI
+- [x] PC_q2aypguard (35) → NPC_A_small
+- [x] PC_q2azesyyr (61) → AZESYYR
+- [x] PC_q2b03ogrehighmag (71) → OGREHIGHMAG
+- [x] PC_q2cberger (52) → CBERGER
+- [x] PC_q2crakbrit (62) → CRAKBRIT ← 2수정(서술체+오타)
+- [x] PC_q2crakshasa1 (102) → CRAKSHASA1 ← 1수정(띄어쓰기)
+- [x] PC_q2d2slaver (58) → SLAVER
+- [x] PC_q2d_halaster (45) → Halaster_Blackcloak ← 4수정(띄어쓰기)
+- [x] PC_q2delderbrain (72) → DELDERBRAIN ← 4수정(말투통일)
+- [x] PC_q2e_kelgaras (192) → KELGARAS
+- [x] PC_q2evilnymph (95) → EVILNYMPH
+- [x] PC_q3_blumberg (83) → BLUMBERG
+- [x] PC_q3_gishnak (207) → GISHNAK ★대형 — NPC "즐나"→"즈나" 오타 수정
+- [x] PC_q3_glendir (103) → GLENDIR
+- [x] PC_q3_musharak (222) → MUSHARAK ★대형 — NPC 하오체 통일 3건 (해요체→하오체)
+- [x] PC_q3_nafeeli (85) → Nafeeli
+- [x] PC_q3b_sphinx (135) → SPHINX
+- [x] PC_q3san_deva (99) → SAN_DEVA
+- [x] PC_q3vil_leader (60) → LEADER
+- [x] PC_q3vil_man_1 (61) → MAN_1
+- [x] PC_q3vil_woman_1 (64) → WOMAN_1
+- [x] PC_q4b_dahanna (90) → DAHANNA — NPC "상대" 중복 제거 1건
+- [x] PC_q4c_aghaaz (118) → AGHAAZ — PC 띄어쓰기 1건, NPC 하오체 통일/띄어쓰기/용어통일 4건
+- [x] PC_q4c_ferron (119) → FERRON — PC "창조주"→"제작자" 용어통일 3건
+- [x] PC_q4c_ghost (70) → GHOST — NPC "영혼 보석"→"영혼석" 용어통일, "레버리지"→"패" 1건
+- [x] PC_q5_arzig (178) → ARZIG
+- [x] PC_q5_attiz (91) → ATTIZ
+- [x] PC_q5_jnah (295) → JNAH ★대형
+- [x] PC_q5_klumph (115) → KLUMPH
+- [x] PC_q5_torias (78) → TORIAS_1
+- [x] PC_q5_tymofarar (455) → TYMOFARAR ★최대 — PC "마법이 관심 가"→"마법에 관심 있어" 조사 수정 1건
+- [x] PC_q5a_jasmeena (69) → Jasmeena — NPC "팔으니"→"파니" ㄹ탈락 수정 1건
+- [x] PC_q5a_worguard (56) → WORGUARD
+- [x] PC_q5b_garrick (142) → Garrick_Halassar
+- [x] PC_q5b_priest (182) → Minister_of_Ao
+- [x] PC_q5b_valana (64) → VALANA
+- [x] PC_q6_deekin (299) → DEEKIN ★대형 ✓
+- [x] PC_q6_greeters (56) → GREETERS — "사원"→"신전" 통일
+- [x] PC_q6_guard (55) → GUARD_1 — "바래요"→"바라요"
+- [x] PC_q6_medusa (83) → MEDUSA ✓
+- [x] PC_q6_merchant (61) → MERCHANT ✓
+- [x] PC_q6_priest (95) → PRIEST — "거울 파편"→"거울 조각", CSV따옴표 수정
+- [x] PC_q6_queen (66) → Shaori — CSV따옴표 수정
+- [x] PC_q6_the_fool (119) → THE_FOOL — "파편"→"조각","사원"→"신전","파에냐"→"파엔야"
+- [x] PC_q7_cut_val0c (70) → CUT_VAL0C ✓
+- [x] PC_q7dhermit (142) → DHERMIT ✓
 
 ### XP-동료 (17파일 + Henchman, 약 12,000 대사)
-- [ ] PC_xp1_drogan_conv (114) → DROGAN_CONV
-- [ ] PC_xp1_hen_dee (1330) → Henchman_DEE ★최대
-- [ ] PC_xp1_hen_dor (697) → Henchman_DOR ★대형
-- [ ] PC_xp1_hen_xan (802) → Henchman_XAN ★대형
-- [ ] PC_xp1_q1ayala (230) → AYALA
-- [ ] PC_xp1_q1drogan (81) → DROGAN
-- [ ] PC_xp1_q1xanos (33) → (없음)
-- [ ] PC_xp2_hen_dae (595) → Henchman_DAE ★대형
-- [ ] PC_xp2_hen_dee (1655) → Henchman_DEE ★최대
-- [ ] PC_xp2_hen_linu (368) → Henchman_LINU
-- [ ] PC_xp2_hen_nat (976) → Henchman_NAT ★대형
-- [ ] PC_xp2_hen_shar (497) → Henchman_SHAR ★대형
-- [ ] PC_xp2_hen_template (197) → Henchman_TEMPLATE
-- [ ] PC_xp2_hen_tomi (448) → Henchman_TOMI ★대형
-- [ ] PC_xp2_hen_val (1047) → Henchman_VAL ★최대
-- [ ] PC_xp2_nathyrra (109) → NATHYRRA
-- [ ] PC_xp2_seer (245) → SEER
+- [x] PC_xp1_drogan_conv (114) → DROGAN_CONV ✓
+- [ ] PC_xp1_hen_dee (1330) → Henchman_DEE ★최대 [헨치맨 스킵]
+- [ ] PC_xp1_hen_dor (697) → Henchman_DOR ★대형 [헨치맨 스킵]
+- [ ] PC_xp1_hen_xan (802) → Henchman_XAN ★대형 [헨치맨 스킵]
+- [x] PC_xp1_q1ayala (230) → AYALA ✓
+- [x] PC_xp1_q1drogan (81) → DROGAN ✓
+- [x] PC_xp1_q1xanos (33) → (없음) ✓
+- [ ] PC_xp2_hen_dae (595) → Henchman_DAE ★대형 [헨치맨 스킵]
+- [ ] PC_xp2_hen_dee (1655) → Henchman_DEE ★최대 [헨치맨 스킵]
+- [ ] PC_xp2_hen_linu (368) → Henchman_LINU [헨치맨 스킵]
+- [ ] PC_xp2_hen_nat (976) → Henchman_NAT ★대형 [헨치맨 스킵]
+- [ ] PC_xp2_hen_shar (497) → Henchman_SHAR ★대형 [헨치맨 스킵]
+- [ ] PC_xp2_hen_template (197) → Henchman_TEMPLATE [헨치맨 스킵]
+- [ ] PC_xp2_hen_tomi (448) → Henchman_TOMI ★대형 [헨치맨 스킵]
+- [ ] PC_xp2_hen_val (1047) → Henchman_VAL ★최대 [헨치맨 스킵]
+- [x] PC_xp2_nathyrra (109) → NATHYRRA — 직역 어색 문장 수정 1건
+- [x] PC_xp2_seer (245) → SEER ✓
 
 ### XP2-기타 (20파일, 4,591 대사)
 - [ ] PC_h2_devil_gruul (157) → Gruul_the_Quarry_Boss
@@ -533,7 +533,10 @@
 - **OC-챕터1 최종+기타 (m1q6)**: 11파일 ✅ 완료
 - **OC-챕터2 (m2q)**: 98파일 ✅ 완료
 - **OC-챕터2 러스칸 (2q4/2q6)**: 29파일 ✅ 완료
-- **OC-챕터3 (m3q)**: 진행 중 (36/40 완료)
+- **OC-챕터3 (m3q)**: 40파일 ✅ 완료
+- **OC-챕터4 (m4q)**: 11파일 ✅ 완료
+- **OC-동료 (Henchman)**: 스킵 (추후 진행)
+- **XP2 본편**: 진행 중
 
 
 ## 우선순위 제안 (다음 단계)

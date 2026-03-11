@@ -18,7 +18,7 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 106110,PC,Player Character,"""Leader of the rebels?""","""반란군의 지도자?""",q4c_ferron,,,,,0,0
 106111,PC,Player Character,"""Sentient golems? What are you talking about?""","""지성 있는 골렘? 무슨 말이야?""",q4c_ferron,,,,,0,0
 106112,PC,Player Character,"""I'll be back once I have the Power Source.""","""동력원을 얻으면 다시 올게.""",q4c_ferron,,q4c_ferron99-,,,0,0
-106113,PC,Player Character,"""You should know something: the Maker is dead.""","""알아야 할 게 있어. 창조주가 죽었어.""",q4c_ferron,,q4c_makerdead,,,0,0
+106113,PC,Player Character,"""You should know something: the Maker is dead.""","""알아야 할 게 있어. 제작자가 죽었어.""",q4c_ferron,,q4c_makerdead,,,0,0
 106114,PC,Player Character,"""I want to ask you some questions.""","""몇 가지 물어볼 게 있어.""",q4c_ferron,,,,,0,0
 106115,PC,Player Character,"""Tell me about the Power Source.""","""동력원에 대해 말해줘.""",q4c_ferron,,q4c_ferron99-,,,0,0
 106116,PC,Player Character,"""How long have you been here?""","""여기 얼마나 오래 있었어?""",q4c_ferron,,,,,0,0
@@ -29,9 +29,9 @@ StrRef,SpeakerType,SpeakerName,TextEng,Text,DLG,Scripts,Conditions,DialogueConte
 106121,PC,Player Character,"""Famous?""","""유명하다고?""",q4c_ferron,,,,,0,0
 106122,PC,Player Character,"""Tell me about Aghaaz and his followers.""","""아가즈와 그의 추종자들에 대해 말해줘.""",q4c_ferron,,q4c_ferron99-,,,0,0
 106123,PC,Player Character,"""Tell me about yourself and your followers.""","""너와 네 추종자들에 대해 말해줘.""",q4c_ferron,,,,,0,0
-106124,PC,Player Character,"""Tell me about the Maker.""","""창조주에 대해 말해줘.""",q4c_ferron,,,,,0,0
+106124,PC,Player Character,"""Tell me about the Maker.""","""제작자에 대해 말해줘.""",q4c_ferron,,,,,0,0
 106125,PC,Player Character,"""I want to ask you something else.""","""다른 것도 물어보고 싶어.""",q4c_ferron,,,,,0,0
-106126,PC,Player Character,"""Why haven't you searched for the Maker?""","""왜 창조주를 찾지 않았어?""",q4c_ferron,,,,,0,0
+106126,PC,Player Character,"""Why haven't you searched for the Maker?""","""왜 제작자를 찾지 않았어?""",q4c_ferron,,,,,0,0
 106127,PC,Player Character,"""Aghaaz sent me to destroy you.""","""아가즈가 널 파괴하라고 보냈어.""",q4c_ferron,,q4c_aghaaz10,,,0,0
 106128,PC,Player Character,<StartAction> Tell Ferron about the Valsharess and Aghaaz's offer.</Start>,<StartAction>페론에게 발샤레스와 아가즈의 제안에 대해 말합니다.</Start>,q4c_ferron,,,,,0,0
 106129,PC,Player Character,"""You really think you could survive against me?""","""정말 나한테 이길 수 있다고 생각해?""",q4c_ferron,,,,,0,0
