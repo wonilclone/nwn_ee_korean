@@ -1,7 +1,7 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 _stores,git,Creature List/0/FirstName,0,-1,TEST: Storekeep,
 _stores,git,Creature List/1/FirstName,0,12716,Conv Ability System Tester,
-_stores,git,List/0/LocalizedName,0,535,Gold Piece,
+_stores,git,List/0/LocalizedName,0,535,Gold Piece,금화
 _stores,git,StoreList/0/LocName,0,-1,TestStore,
 _stores,git,StoreList/0/StoreList/4/ItemList/0/DescIdentified,0,-1,"Some pirates consider it a mark of pride to pay their way in jewels rather than in proper coin. ""Mint me a coin with no king or ruler on the back o' it,"" the Dread Pirate Kraggus is reported to have said, ""and I'll gladly make it mine.""",
 _stores,git,StoreList/0/StoreList/4/ItemList/0/LocalizedName,0,-1,Hoard of Jewels,
@@ -705,11 +705,11 @@ a0_mrbelowdeck,git,Creature List/5/Description,0,-1,This old sea hand helps run 
 a0_mrbelowdeck,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,-1,"Your buttons gleam and the wind tugs at the dyed cotton. This uniform bears the rank and insignia of Ship's Sailor. While it's a lowly rank aboard the Midnight Rose, it's nevertheless highly regarded when in port.",
 a0_mrbelowdeck,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,Uniform of the Midnight Rose,
 a0_mrbelowdeck,git,Creature List/5/FirstName,0,-1,Sailor,
-a0_mrbelowdeck,git,Door List/0/LocName,0,5349,Door,
-a0_mrbelowdeck,git,Door List/1/LocName,0,5349,Door,
-a0_mrbelowdeck,git,Door List/4/Description,0,9078,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",
+a0_mrbelowdeck,git,Door List/0/LocName,0,5349,Door,문
+a0_mrbelowdeck,git,Door List/1/LocName,0,5349,Door,문
+a0_mrbelowdeck,git,Door List/4/Description,0,9078,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",거칠게 깎은 나무로 만들어진 이 단순한 문은 맞지 않는 경첩 때문에 흔들립니다.
 a0_mrbelowdeck,git,Door List/4/LocName,0,5349,"""Captain's Quarters""",
-a0_mrbelowdeck,git,Door List/5/LocName,0,5349,Door,
+a0_mrbelowdeck,git,Door List/5/LocName,0,5349,Door,문
 a0_mrbelowdeck,git,Placeable List/109/Description,0,-1,This hempen rope has been carefully coiled to ensure it doesn't get tangled with future use.,
 a0_mrbelowdeck,git,Placeable List/109/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a0_mrbelowdeck,git,Placeable List/109/ItemList/0/LocalizedName,0,-1,Tinder,
@@ -734,7 +734,7 @@ a0_mrbelowdeck,git,Placeable List/118/ItemList/1/LocalizedName,0,-1,Tinder,
 a0_mrbelowdeck,git,Placeable List/118/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a0_mrbelowdeck,git,Placeable List/118/ItemList/2/LocalizedName,0,-1,Tinder,
 a0_mrbelowdeck,git,Placeable List/118/LocName,0,-1,Fishing Net,
-a0_mrbelowdeck,git,Placeable List/119/LocName,0,14576,Bookshelf,
+a0_mrbelowdeck,git,Placeable List/119/LocName,0,14576,Bookshelf,책장
 a0_mrbelowdeck,git,Placeable List/18/Description,0,-1,"You gaze at your reflection in the puddle. You look pretty good today, all things considered.",
 a0_mrbelowdeck,git,Placeable List/18/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a0_mrbelowdeck,git,Placeable List/18/ItemList/0/LocalizedName,0,-1,Tinder,
@@ -751,7 +751,7 @@ a0_mrbelowdeck,git,Placeable List/2/ItemList/0/DescIdentified,0,-1,"According to
 a0_mrbelowdeck,git,Placeable List/2/ItemList/0/LocalizedName,0,-1,Rahman Madani's Spellbook,
 a0_mrbelowdeck,git,Placeable List/2/ItemList/1/DescIdentified,0,-1,You inspect the potatoes carefully but can't seem to find anything particularly magical about them.,
 a0_mrbelowdeck,git,Placeable List/2/ItemList/1/LocalizedName,0,-1,Magic Potatoes,
-a0_mrbelowdeck,git,Placeable List/3/Description,0,84596,You can sense the powerful magic bound into this arcane circle. Symbols like this are often used in planar summoning rituals ... or worse.,
+a0_mrbelowdeck,git,Placeable List/3/Description,0,84596,You can sense the powerful magic bound into this arcane circle. Symbols like this are often used in planar summoning rituals ... or worse.,이 비전의 원에 묶인 강력한 마법이 느껴집니다. 이런 상징은 종종 차원 소환 의식에 사용됩니다... 또는 더 나쁜 것에.
 a0_mrbelowdeck,git,Placeable List/30/Description,0,-1,There's barely enough room in this simple strongbox for any treasure at all...,
 a0_mrbelowdeck,git,Placeable List/30/LocName,0,-1,Small Chest,
 a0_mrbelowdeck,git,Placeable List/36/Description,0,-1,There's barely enough room in this simple strongbox for any treasure at all...,
@@ -904,36 +904,36 @@ a1_trogstrhold2,git,Creature List/8/Description,0,-1,"Troglodytes are cave-dwell
 a1_trogstrhold2,git,Creature List/8/FirstName,0,-1,Troglodyte,
 a1_trogstrhold2,git,Creature List/9/Description,0,-1,"Troglodytes are cave-dwelling reptilian humanoids who take pleasure in fighting battles and in eating the bodies of their dead foes.  While not very bright, trogs are known for their ferocity, cunning, and horrific stench.",
 a1_trogstrhold2,git,Creature List/9/FirstName,0,-1,Troglodyte,
-a1_trogstrhold2,git,Placeable List/0/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/0/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/0/LocName,0,5800,Garm,
-a1_trogstrhold2,git,Placeable List/1/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/1/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/1/LocName,0,5800,Garm,
-a1_trogstrhold2,git,Placeable List/10/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/10/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/10/LocName,0,5800,Prince Aktul,
-a1_trogstrhold2,git,Placeable List/11/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/11/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/11/LocName,0,5800,Prince Aktul,
-a1_trogstrhold2,git,Placeable List/12/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/12/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/12/LocName,0,5800,Prince Aktul,
-a1_trogstrhold2,git,Placeable List/13/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/13/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/13/LocName,0,5800,Prince Aktul,
-a1_trogstrhold2,git,Placeable List/14/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/14/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/14/LocName,0,5800,Prince Aktul,
-a1_trogstrhold2,git,Placeable List/15/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/15/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/15/LocName,0,5800,Garm,
-a1_trogstrhold2,git,Placeable List/16/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/16/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/16/LocName,0,5800,Prince Aktul,
 a1_trogstrhold2,git,Placeable List/17/LocName,0,5800,King Utnal,
 a1_trogstrhold2,git,Placeable List/18/LocName,0,5800,Gas Cloud,
 a1_trogstrhold2,git,Placeable List/19/LocName,0,5800,Gas Cloud,
-a1_trogstrhold2,git,Placeable List/2/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/2/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/2/LocName,0,5800,Garm,
 a1_trogstrhold2,git,Placeable List/20/LocName,0,5800,Gas Cloud,
 a1_trogstrhold2,git,Placeable List/21/LocName,0,5800,Gas Cloud,
 a1_trogstrhold2,git,Placeable List/22/LocName,0,5800,Gas Cloud,
 a1_trogstrhold2,git,Placeable List/23/LocName,0,5800,Gas Cloud,
-a1_trogstrhold2,git,Placeable List/3/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/3/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/3/LocName,0,5800,Garm,
-a1_trogstrhold2,git,Placeable List/4/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_trogstrhold2,git,Placeable List/4/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_trogstrhold2,git,Placeable List/4/LocName,0,5800,Garm,
 a1_trogstrhold2,git,Placeable List/5/LocName,0,5800,King Utnal,
 a1_trogstrhold2,git,Placeable List/6/LocName,0,5800,King Utnal,
@@ -1009,7 +1009,7 @@ a1_trogstrhold3,git,Creature List/8/Description,0,-1,"Troglodytes are cave-dwell
 a1_trogstrhold3,git,Creature List/8/FirstName,0,-1,Troglodyte,
 a1_trogstrhold3,git,Creature List/9/Description,0,-1,"Troglodytes are cave-dwelling reptilian humanoids who take pleasure in fighting battles and in eating the bodies of their dead foes.  While not very bright, trogs are known for their ferocity, cunning, and horrific stench.",
 a1_trogstrhold3,git,Creature List/9/FirstName,0,-1,Troglodyte,
-a1_trogstrhold3,git,Door List/0/LocName,0,5349,Door,
+a1_trogstrhold3,git,Door List/0/LocName,0,5349,Door,문
 a1_trogstrhold3,git,Placeable List/11/LocName,0,-1,Trog Shrine,
 a1_trogstrhold3,git,WaypointList/0/LocalizedName,0,14817,Troglodyte Holding Cell,
 a1_trogstrhold3,git,WaypointList/1/LocalizedName,0,14817,Carms Position,
@@ -1204,7 +1204,7 @@ a1ochrejellycave,git,Placeable List/51/Description,0,-1,"A small school of fish 
 a1ochrejellycave,git,Placeable List/51/LocName,0,-1,School of Fish,
 a1ochrejellycave,git,Placeable List/6/Description,0,-1,The kelp sways gently in the ocean current.,
 a1ochrejellycave,git,Placeable List/6/LocName,0,-1,Kelp 3 Small,
-a1ochrejellycave,git,Placeable List/63/Description,0,84192,"Beautiful and certainly thousands of years old, these crystals seem to glow in a soft light from within.",
+a1ochrejellycave,git,Placeable List/63/Description,0,84192,"Beautiful and certainly thousands of years old, these crystals seem to glow in a soft light from within.",아름답고 확실히 수천 년은 되었을 이 수정들은 내부에서 은은한 빛을 발하는 것 같습니다.
 a1ochrejellycave,git,Placeable List/7/Description,0,-1,The kelp sways gently in the ocean current.,
 a1ochrejellycave,git,Placeable List/7/LocName,0,-1,Kelp 3 Small,
 a1ochrejellycave,git,Placeable List/8/Description,0,-1,The kelp sways gently in the ocean current.,
@@ -1251,7 +1251,7 @@ a1ochrejellycave,git,WaypointList/2/LocalizedName,0,14814,South Exit,
 a1ochrejellycave,git,WaypointList/2/MapNote,0,14815,To Tropical Island: South Shore,
 a1ochrejellycave,git,WaypointList/3/LocalizedName,0,14814,North Exit,
 a1ochrejellycave,git,WaypointList/3/MapNote,0,14815,To Tropical Island: North Shore,
-a2_lighthousedun,git,Door List/13/LocName,0,5349,Door,
+a2_lighthousedun,git,Door List/13/LocName,0,5349,Door,문
 a2_lighthousedun,git,Encounter List/0/LocalizedName,0,-1,Ghost Pirate - Ranged,
 a2_lighthousedun,git,Encounter List/1/LocalizedName,0,-1,Ghost Pirate - Melee,
 a2_lighthousedun,git,Encounter List/10/LocalizedName,0,-1,Ghost Pirate - Ranged,
@@ -1781,7 +1781,7 @@ a2_rascpetes,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,12923,NPC: Ras
 a2_rascpetes,git,Creature List/0/FirstName,0,-1,Rascally Pete,
 a2_rascpetes,git,Creature List/0/ItemList/2/DescIdentified,0,-1,This is the ring Rascally Pete gave to Sir Francis for safekeeping before surreptitiously stealing it back and ensnaring Sir Francis in a wrongful debt of honor.,
 a2_rascpetes,git,Creature List/0/ItemList/2/LocalizedName,0,13485,Pete's Ring,
-a2_rascpetes,git,Door List/0/LocName,0,5349,Door,
+a2_rascpetes,git,Door List/0/LocName,0,5349,Door,문
 a2_rascpetes,git,Placeable List/1/Description,0,-1,"You gaze at your reflection in the puddle. You look pretty good today, all things considered.",
 a2_rascpetes,git,Placeable List/1/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a2_rascpetes,git,Placeable List/1/ItemList/0/LocalizedName,0,-1,Tinder,
@@ -1948,15 +1948,15 @@ a3fdlrsgrn,git,Placeable List/172/LocName,0,-1,Kelp 3 Small,
 a3fdlrsgrn,git,Placeable List/173/LocName,0,-1,Kelp 3 Medium,
 a3fdlrsgrn,git,Placeable List/174/LocName,0,-1,Kelp 3 Small,
 a3fdlrsgrn,git,Placeable List/175/LocName,0,-1,Bubbles Small,
-a3fdlrsgrn,git,Placeable List/176/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-a3fdlrsgrn,git,Placeable List/177/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-a3fdlrsgrn,git,Placeable List/178/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-a3fdlrsgrn,git,Placeable List/179/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
+a3fdlrsgrn,git,Placeable List/176/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+a3fdlrsgrn,git,Placeable List/177/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+a3fdlrsgrn,git,Placeable List/178/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+a3fdlrsgrn,git,Placeable List/179/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
 a3fdlrsgrn,git,Placeable List/18/LocName,0,-1,Kelp 2 Large,
-a3fdlrsgrn,git,Placeable List/180/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-a3fdlrsgrn,git,Placeable List/181/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-a3fdlrsgrn,git,Placeable List/182/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-a3fdlrsgrn,git,Placeable List/183/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
+a3fdlrsgrn,git,Placeable List/180/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+a3fdlrsgrn,git,Placeable List/181/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+a3fdlrsgrn,git,Placeable List/182/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+a3fdlrsgrn,git,Placeable List/183/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
 a3fdlrsgrn,git,Placeable List/184/LocName,0,-1,Penants & Signs 001,
 a3fdlrsgrn,git,Placeable List/185/LocName,0,-1,Penants & Signs 001,
 a3fdlrsgrn,git,Placeable List/19/LocName,0,-1,School of Fish 1,
@@ -2161,19 +2161,19 @@ a3fdlrsgrn,git,WaypointList/21/LocalizedName,0,-1,cs_camera_pos_3,
 a3fdlrsgrn,git,WaypointList/34/LocalizedName,0,-1,cs_camera_pos_10,
 a3fdlrsgrn,git,WaypointList/44/LocalizedName,0,-1,cs_camera_pos_11,
 a3fdlrsgrn,git,WaypointList/45/LocalizedName,0,-1,cs_camera_pos_12,
-a3fdlrsgrn,git,WaypointList/50/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/51/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/52/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/53/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/54/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/55/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/56/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/57/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/58/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/59/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/60/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/61/LocalizedName,0,14817,Waypoint,
-a3fdlrsgrn,git,WaypointList/62/LocalizedName,0,14817,Waypoint,
+a3fdlrsgrn,git,WaypointList/50/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/51/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/52/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/53/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/54/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/55/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/56/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/57/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/58/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/59/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/60/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/61/LocalizedName,0,14817,Waypoint,웨이포인트
+a3fdlrsgrn,git,WaypointList/62/LocalizedName,0,14817,Waypoint,웨이포인트
 a3fdlrsgrn,git,WaypointList/63/LocalizedName,0,-1,cs_camera_pos_100,
 a3fdlrsgrn,git,WaypointList/64/LocalizedName,0,14814,Temple-Under-the-Sea,
 a3fdlrsgrn,git,WaypointList/64/MapNote,0,14815,To the Temple-Under-the-Sea,
@@ -2183,7 +2183,7 @@ a3fdlrsgrn,git,WaypointList/8/LocalizedName,0,-1,cs_camera_pos_1,
 a3fdlrsgrn,git,WaypointList/9/LocalizedName,0,-1,cs_camera_pos_2,
 a3introiotd,git,Creature List/0/Description,0,12569,One of Old Tom's heads glances nervously in your direction.,
 a3introiotd,git,Creature List/0/FirstName,0,12570,Old Tom,
-a3introiotd,git,Creature List/1/FirstName,0,12716,Spectre,
+a3introiotd,git,Creature List/1/FirstName,0,12716,Spectre,악령
 a3introiotd,git,Creature List/2/Description,0,-1,You can't help but notice the bony hand that extends from Kolmarr's left sleeve.,
 a3introiotd,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,12835,NPC: Captain Kolmarr's Tunic,
 a3introiotd,git,Creature List/2/FirstName,0,-1,Kolmarr the Grim,
@@ -2221,7 +2221,7 @@ a3introiotd,git,Placeable List/18/ItemList/1/LocalizedName,0,-1,Tinder,
 a3introiotd,git,Placeable List/18/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a3introiotd,git,Placeable List/18/ItemList/2/LocalizedName,0,-1,Tinder,
 a3introiotd,git,Placeable List/18/LocName,0,-1,Fishing Net,
-a3introiotd,git,Placeable List/3/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a3introiotd,git,Placeable List/3/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a3introiotd,git,Placeable List/3/LocName,0,5800,At Sea,
 a3introiotd,git,Placeable List/32/Description,0,-1,This egg is large and heavy. You wonder what manner of creature lies dead or dormant within its shell.,
 a3introiotd,git,Placeable List/32/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -2504,7 +2504,7 @@ a3mrbelowdecks,git,Placeable List/100/ItemList/1/LocalizedName,0,-1,Tinder,
 a3mrbelowdecks,git,Placeable List/100/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a3mrbelowdecks,git,Placeable List/100/ItemList/2/LocalizedName,0,-1,Tinder,
 a3mrbelowdecks,git,Placeable List/100/LocName,0,-1,Starfish,
-a3mrbelowdecks,git,Placeable List/101/LocName,0,14576,Bookshelf,
+a3mrbelowdecks,git,Placeable List/101/LocName,0,14576,Bookshelf,책장
 a3mrbelowdecks,git,Placeable List/13/Description,0,-1,"You gaze at your reflection in the puddle. You look pretty good today, all things considered.",
 a3mrbelowdecks,git,Placeable List/13/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a3mrbelowdecks,git,Placeable List/13/ItemList/0/LocalizedName,0,-1,Tinder,
@@ -2722,20 +2722,20 @@ a3sepulchre,git,Creature List/0/ItemList/4/DescIdentified,0,-1,"This bottle is f
 a3sepulchre,git,Creature List/0/ItemList/4/LocalizedName,0,-1,Potion of Inflict Light Wounds,
 a3sepulchre,git,Creature List/0/ItemList/5/DescIdentified,0,-1,"This bottle is filled with a vile, ichor-like substance. You hope no one expects you to actually drink it.",
 a3sepulchre,git,Creature List/0/ItemList/5/LocalizedName,0,-1,Potion of Inflict Light Wounds,
-a3sepulchre,git,Placeable List/10/Description,0,84596,You can sense the powerful magic bound into this arcane circle. Symbols like this are often used in planar summoning rituals ... or worse.,
-a3sepulchre,git,WaypointList/10/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/11/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/12/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/13/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/14/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/15/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/16/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/17/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/18/LocalizedName,0,14817,Waypoint,
+a3sepulchre,git,Placeable List/10/Description,0,84596,You can sense the powerful magic bound into this arcane circle. Symbols like this are often used in planar summoning rituals ... or worse.,이 비전의 원에 묶인 강력한 마법이 느껴집니다. 이런 상징은 종종 차원 소환 의식에 사용됩니다... 또는 더 나쁜 것에.
+a3sepulchre,git,WaypointList/10/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/11/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/12/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/13/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/14/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/15/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/16/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/17/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/18/LocalizedName,0,14817,Waypoint,웨이포인트
 a3sepulchre,git,WaypointList/20/LocalizedName,0,-1,cs_camera_pos_1,
-a3sepulchre,git,WaypointList/7/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/8/LocalizedName,0,14817,Waypoint,
-a3sepulchre,git,WaypointList/9/LocalizedName,0,14817,Waypoint,
+a3sepulchre,git,WaypointList/7/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/8/LocalizedName,0,14817,Waypoint,웨이포인트
+a3sepulchre,git,WaypointList/9/LocalizedName,0,14817,Waypoint,웨이포인트
 a3shgnpssg,git,Encounter List/0/LocalizedName,0,-1,Sahaugin Bosses,
 a3shgnpssg,git,Encounter List/1/LocalizedName,0,-1,Sahaugin Bosses,
 a3shgnpssg,git,Encounter List/2/LocalizedName,0,-1,Sahaugin Bosses,
@@ -2749,29 +2749,29 @@ a3shgnpssg,git,Placeable List/0/Description,0,-1,A portal glows softly before yo
 a3shgnpssg,git,Placeable List/0/LocName,0,-1,Strange Portal,
 a3shgnpssg,git,Placeable List/1/Description,0,-1,"It's a nice enough chest, you reckon, but not the sort you'd want to trust your favorite treasures to...",
 a3shgnpssg,git,Placeable List/1/LocName,0,-1,Mid-Sized Chest,
-a3shgnpssg,git,Placeable List/10/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/10/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/10/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/100/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/100/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/100/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/101/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/101/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/101/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/102/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/102/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/102/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/103/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/103/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/103/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/104/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/104/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/104/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/105/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/105/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/105/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/106/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/106/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/106/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/107/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/107/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/107/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/108/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/108/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/108/LocName,0,68803,Red Barricade,
 a3shgnpssg,git,Placeable List/109/Description,0,-1,This sturdy chest looks like just the sort for burying treasure in!,
 a3shgnpssg,git,Placeable List/109/LocName,0,-1,Large Chest,
-a3shgnpssg,git,Placeable List/11/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/11/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/11/LocName,0,68803,Green Barricade,
 a3shgnpssg,git,Placeable List/110/Description,0,-1,There's barely enough room in this simple strongbox for any treasure at all...,
 a3shgnpssg,git,Placeable List/110/LocName,0,-1,Small Chest,
@@ -2786,7 +2786,7 @@ a3shgnpssg,git,Placeable List/116/LocName,0,14673,Blue Sparks,
 a3shgnpssg,git,Placeable List/117/LocName,0,14673,Blue Sparks,
 a3shgnpssg,git,Placeable List/118/LocName,0,14673,Blue Sparks,
 a3shgnpssg,git,Placeable List/119/LocName,0,14673,Blue Sparks,
-a3shgnpssg,git,Placeable List/12/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/12/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/12/LocName,0,68803,Green Barricade,
 a3shgnpssg,git,Placeable List/120/LocName,0,14673,Blue Sparks,
 a3shgnpssg,git,Placeable List/121/LocName,0,14673,Blue Sparks,
@@ -2805,7 +2805,7 @@ a3shgnpssg,git,Placeable List/128/Description,0,14672,Green sparks rise up from 
 a3shgnpssg,git,Placeable List/128/LocName,0,14673,Green Sparks,
 a3shgnpssg,git,Placeable List/129/Description,0,14672,Green sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/129/LocName,0,14673,Green Sparks,
-a3shgnpssg,git,Placeable List/13/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/13/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/13/LocName,0,68803,Blue Barricade,
 a3shgnpssg,git,Placeable List/130/Description,0,14672,Green sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/130/LocName,0,14673,Green Sparks,
@@ -2827,7 +2827,7 @@ a3shgnpssg,git,Placeable List/138/Description,0,14672,White sparks rise up from 
 a3shgnpssg,git,Placeable List/138/LocName,0,14673,White Sparks,
 a3shgnpssg,git,Placeable List/139/Description,0,14672,White sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/139/LocName,0,14673,White Sparks,
-a3shgnpssg,git,Placeable List/14/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/14/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/14/LocName,0,68803,Blue Barricade,
 a3shgnpssg,git,Placeable List/140/Description,0,14672,White sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/140/LocName,0,14673,White Sparks,
@@ -2849,7 +2849,7 @@ a3shgnpssg,git,Placeable List/148/Description,0,14672,White sparks rise up from 
 a3shgnpssg,git,Placeable List/148/LocName,0,14673,White Sparks,
 a3shgnpssg,git,Placeable List/149/Description,0,14672,White sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/149/LocName,0,14673,White Sparks,
-a3shgnpssg,git,Placeable List/15/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/15/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/15/LocName,0,68803,Red Barricade,
 a3shgnpssg,git,Placeable List/150/Description,0,14672,White sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/150/LocName,0,14673,White Sparks,
@@ -2871,7 +2871,7 @@ a3shgnpssg,git,Placeable List/158/Description,0,14672,Red sparks rise up from th
 a3shgnpssg,git,Placeable List/158/LocName,0,14673,Red Sparks,
 a3shgnpssg,git,Placeable List/159/Description,0,14672,Red sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/159/LocName,0,14673,Red Sparks,
-a3shgnpssg,git,Placeable List/16/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/16/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/16/LocName,0,68803,Red Barricade,
 a3shgnpssg,git,Placeable List/160/Description,0,14672,Red sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/160/LocName,0,14673,Red Sparks,
@@ -2886,7 +2886,7 @@ a3shgnpssg,git,Placeable List/166/LocName,0,14673,Blue Sparks,
 a3shgnpssg,git,Placeable List/167/LocName,0,14673,Blue Sparks,
 a3shgnpssg,git,Placeable List/168/LocName,0,14673,Blue Sparks,
 a3shgnpssg,git,Placeable List/169/LocName,0,14673,Blue Sparks,
-a3shgnpssg,git,Placeable List/17/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/17/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/17/LocName,0,68803,Red Barricade,
 a3shgnpssg,git,Placeable List/170/LocName,0,14673,Blue Sparks,
 a3shgnpssg,git,Placeable List/171/Description,0,14672,Red sparks rise up from the ground like will-o'-wisps on cool night air.,
@@ -2907,7 +2907,7 @@ a3shgnpssg,git,Placeable List/178/Description,0,14672,Green sparks rise up from 
 a3shgnpssg,git,Placeable List/178/LocName,0,14673,Green Sparks,
 a3shgnpssg,git,Placeable List/179/Description,0,14672,Red sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/179/LocName,0,14673,Red Sparks,
-a3shgnpssg,git,Placeable List/18/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/18/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/18/LocName,0,68803,Red Barricade,
 a3shgnpssg,git,Placeable List/180/Description,0,14672,Red sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/180/LocName,0,14673,Red Sparks,
@@ -2929,7 +2929,7 @@ a3shgnpssg,git,Placeable List/188/Description,0,14672,White sparks rise up from 
 a3shgnpssg,git,Placeable List/188/LocName,0,14673,White Sparks,
 a3shgnpssg,git,Placeable List/189/Description,0,14672,White sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/189/LocName,0,14673,White Sparks,
-a3shgnpssg,git,Placeable List/19/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/19/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/19/LocName,0,68803,Red Barricade,
 a3shgnpssg,git,Placeable List/190/Description,0,14672,White sparks rise up from the ground like will-o'-wisps on cool night air.,
 a3shgnpssg,git,Placeable List/190/LocName,0,14673,White Sparks,
@@ -2948,173 +2948,173 @@ a3shgnpssg,git,Placeable List/196/LocName,0,-1,Mid-Sized Chest,
 a3shgnpssg,git,Placeable List/197/Description,0,-1,A hidden chest rises from the sands...,
 a3shgnpssg,git,Placeable List/197/LocName,0,-1,Buried Treasure,
 a3shgnpssg,git,Placeable List/2/LocName,0,84594,Green Obelisk,
-a3shgnpssg,git,Placeable List/20/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/20/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/20/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/21/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/21/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/21/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/22/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/22/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/22/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/23/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/23/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/23/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/24/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/24/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/24/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/25/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/25/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/25/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/26/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/26/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/26/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/27/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/27/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/27/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/28/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/28/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/28/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/29/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/29/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/29/LocName,0,68803,Red Barricade,
 a3shgnpssg,git,Placeable List/3/LocName,0,84594,Blue Obelisk,
-a3shgnpssg,git,Placeable List/30/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/30/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/30/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/31/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/31/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/31/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/32/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/32/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/32/LocName,0,68803,Red Barricade,
 a3shgnpssg,git,Placeable List/33/LocName,0,84594,White Obelisk,
-a3shgnpssg,git,Placeable List/34/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/34/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/34/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/35/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/35/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/35/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/36/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/36/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/36/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/37/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/37/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/37/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/38/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/38/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/38/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/39/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/39/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/39/LocName,0,68803,Green Barricade,
 a3shgnpssg,git,Placeable List/4/LocName,0,84594,Red Obelisk,
-a3shgnpssg,git,Placeable List/40/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/40/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/40/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/41/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/41/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/41/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/42/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/42/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/42/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/43/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/43/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/43/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/44/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/44/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/44/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/45/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/45/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/45/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/46/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/46/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/46/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/47/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/47/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/47/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/48/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/48/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/48/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/49/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/49/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/49/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/5/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/5/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/5/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/50/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/50/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/50/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/51/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/51/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/51/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/52/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/52/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/52/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/53/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/53/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/53/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/54/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/54/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/54/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/55/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/55/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/55/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/56/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/56/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/56/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/57/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/57/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/57/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/58/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/58/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/58/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/59/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/59/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/59/LocName,0,68803,Blue Barricade,
-a3shgnpssg,git,Placeable List/6/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/6/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/6/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/60/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/60/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/60/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/61/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/61/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/61/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/62/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/62/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/62/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/63/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/63/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/63/LocName,0,68803,Green Barricade,
-a3shgnpssg,git,Placeable List/64/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/64/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/64/LocName,0,68803,Green Barricade,
 a3shgnpssg,git,Placeable List/65/LocName,0,84594,Red Obelisk,
 a3shgnpssg,git,Placeable List/66/LocName,0,84594,Blue Obelisk,
 a3shgnpssg,git,Placeable List/67/LocName,0,84594,Green Obelisk,
-a3shgnpssg,git,Placeable List/68/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/68/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/68/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/69/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/69/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/69/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/7/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/7/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/7/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/70/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/70/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/70/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/71/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/71/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/71/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/72/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/72/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/72/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/73/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/73/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/73/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/74/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/74/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/74/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/75/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/75/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/75/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/76/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/76/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/76/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/77/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/77/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/77/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/78/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/78/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/78/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/79/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/79/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/79/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/8/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/8/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/8/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/80/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/80/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/80/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/81/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/81/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/81/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/82/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/82/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/82/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/83/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/83/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/83/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/84/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/84/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/84/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/85/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/85/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/85/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/86/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/86/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/86/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/87/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/87/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/87/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/88/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/88/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/88/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/89/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/89/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/89/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/9/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/9/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/9/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/90/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/90/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/90/LocName,0,68803,Red Barricade,
-a3shgnpssg,git,Placeable List/91/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/91/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/91/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/92/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/92/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/92/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/93/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/93/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/93/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/94/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/94/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/94/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/95/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/95/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/95/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/96/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/96/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/96/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/97/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/97/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/97/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/98/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/98/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/98/LocName,0,68803,White Barricade,
-a3shgnpssg,git,Placeable List/99/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+a3shgnpssg,git,Placeable List/99/Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 a3shgnpssg,git,Placeable List/99/LocName,0,68803,White Barricade,
 a3shgnpssg,git,TriggerList/0/LocalizedName,0,-1,Blue Barricade Trigger,
 a3shgnpssg,git,TriggerList/1/LocalizedName,0,-1,Green Barricade Trigger,
@@ -3352,7 +3352,7 @@ a3sosiotdead,git,Placeable List/19/ItemList/1/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/19/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a3sosiotdead,git,Placeable List/19/ItemList/2/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/19/LocName,0,-1,Fishing Net,
-a3sosiotdead,git,Placeable List/2/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",
+a3sosiotdead,git,Placeable List/2/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",마법사에게 의미가 있는 것처럼 보이는 복잡한 일련의 룬입니다. 하지만 애초에 처음 만들었던 마법사에게만 의미가 있을겁니다.
 a3sosiotdead,git,Placeable List/2/LocName,0,14629,Glowing Sigil,
 a3sosiotdead,git,Placeable List/20/Description,0,-1,This small fishing net has been strung out to dry.,
 a3sosiotdead,git,Placeable List/20/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -3362,7 +3362,7 @@ a3sosiotdead,git,Placeable List/20/ItemList/1/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/20/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a3sosiotdead,git,Placeable List/20/ItemList/2/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/20/LocName,0,-1,Fishing Net,
-a3sosiotdead,git,Placeable List/3/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",
+a3sosiotdead,git,Placeable List/3/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",마법사에게 의미가 있는 것처럼 보이는 복잡한 일련의 룬입니다. 하지만 애초에 처음 만들었던 마법사에게만 의미가 있을겁니다.
 a3sosiotdead,git,Placeable List/3/LocName,0,14629,Glowing Sigil,
 a3sosiotdead,git,Placeable List/34/Description,0,-1,This egg is large and heavy. You wonder what manner of creature lies dead or dormant within its shell.,
 a3sosiotdead,git,Placeable List/34/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -3392,7 +3392,7 @@ a3sosiotdead,git,Placeable List/37/ItemList/1/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/37/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a3sosiotdead,git,Placeable List/37/ItemList/2/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/37/LocName,0,-1,Fishing Net,
-a3sosiotdead,git,Placeable List/4/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",
+a3sosiotdead,git,Placeable List/4/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",마법사에게 의미가 있는 것처럼 보이는 복잡한 일련의 룬입니다. 하지만 애초에 처음 만들었던 마법사에게만 의미가 있을겁니다.
 a3sosiotdead,git,Placeable List/4/LocName,0,14629,Glowing Sigil,
 a3sosiotdead,git,Placeable List/42/Description,0,-1,This small fishing net has been strung out to dry.,
 a3sosiotdead,git,Placeable List/42/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -3426,7 +3426,7 @@ a3sosiotdead,git,Placeable List/49/ItemList/1/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/49/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a3sosiotdead,git,Placeable List/49/ItemList/2/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/49/LocName,0,-1,Sea Shell,
-a3sosiotdead,git,Placeable List/5/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",
+a3sosiotdead,git,Placeable List/5/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",마법사에게 의미가 있는 것처럼 보이는 복잡한 일련의 룬입니다. 하지만 애초에 처음 만들었던 마법사에게만 의미가 있을겁니다.
 a3sosiotdead,git,Placeable List/5/LocName,0,14629,Glowing Sigil,
 a3sosiotdead,git,Placeable List/50/Description,0,-1,This small mollusk shell is tinted a charming pink towards its base.,
 a3sosiotdead,git,Placeable List/50/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -3452,7 +3452,7 @@ a3sosiotdead,git,Placeable List/52/ItemList/1/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/52/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 a3sosiotdead,git,Placeable List/52/ItemList/2/LocalizedName,0,-1,Tinder,
 a3sosiotdead,git,Placeable List/52/LocName,0,-1,Starfish,
-a3sosiotdead,git,Placeable List/6/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",
+a3sosiotdead,git,Placeable List/6/Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",마법사에게 의미가 있는 것처럼 보이는 복잡한 일련의 룬입니다. 하지만 애초에 처음 만들었던 마법사에게만 의미가 있을겁니다.
 a3sosiotdead,git,Placeable List/6/LocName,0,14629,Glowing Sigil,
 a3sosiotdead,git,TriggerList/0/LocalizedName,0,14759,NPC_ADVPATH_AD,
 a3sosiotdead,git,TriggerList/1/LocalizedName,0,14759,NPC_ADVPATH_AG,
@@ -3734,12 +3734,12 @@ a3sosiotdead,git,WaypointList/293/LocalizedName,0,-1,FOLLOW_POINT,
 a3sosiotdead,git,WaypointList/294/LocalizedName,0,-1,FOLLOW_POINT,
 a3sosiotdead,git,WaypointList/295/LocalizedName,0,-1,FOLLOW_POINT,
 a3sosiotdead,git,WaypointList/296/LocalizedName,0,-1,FOLLOW_POINT,
-a3sosiotdead,git,WaypointList/299/LocalizedName,0,14817,Waypoint,
+a3sosiotdead,git,WaypointList/299/LocalizedName,0,14817,Waypoint,웨이포인트
 a3sosiotdead,git,WaypointList/3/LocalizedName,0,14817,Sigil,
 a3sosiotdead,git,WaypointList/3/MapNote,0,-1,Sigil,
 a3sosiotdead,git,WaypointList/30/LocalizedName,0,-1,FOLLOW_POINT,
 a3sosiotdead,git,WaypointList/31/LocalizedName,0,-1,FOLLOW_POINT,
-a3sosiotdead,git,WaypointList/310/LocalizedName,0,14817,Waypoint,
+a3sosiotdead,git,WaypointList/310/LocalizedName,0,14817,Waypoint,웨이포인트
 a3sosiotdead,git,WaypointList/311/LocalizedName,0,-1,A3_SPAWN_PCENTER,
 a3sosiotdead,git,WaypointList/314/LocalizedName,0,14817,Treasure Waypoint,
 a3sosiotdead,git,WaypointList/315/LocalizedName,0,14817,Treasure Waypoint,
@@ -3748,7 +3748,7 @@ a3sosiotdead,git,WaypointList/317/LocalizedName,0,14817,Treasure Waypoint,
 a3sosiotdead,git,WaypointList/318/LocalizedName,0,14817,Treasure Waypoint,
 a3sosiotdead,git,WaypointList/319/LocalizedName,0,14817,Treasure Waypoint,
 a3sosiotdead,git,WaypointList/32/LocalizedName,0,-1,FOLLOW_POINT,
-a3sosiotdead,git,WaypointList/320/LocalizedName,0,14814,Map Note,
+a3sosiotdead,git,WaypointList/320/LocalizedName,0,14814,Map Note,지도 설명
 a3sosiotdead,git,WaypointList/320/MapNote,0,14815,The Skull & Bones,
 a3sosiotdead,git,WaypointList/321/LocalizedName,0,14814,Skull and Bones,
 a3sosiotdead,git,WaypointList/321/MapNote,0,14815,The Skull and Bones,
@@ -3973,7 +3973,7 @@ a3umbrtemple,git,Placeable List/0/ItemList/2/LocalizedName,0,2982,Aromatic Oil,
 a3umbrtemple,git,Placeable List/0/ItemList/3/DescIdentified,0,2990,"Fountains of aromatic oils flow through Umberlee's Temple-Under-the-Sea, giving its air-filled upper chambers a saccharine, sickly smell. Despite its ceremonial use, it appears highly flammable, a property that may prove useful.",
 a3umbrtemple,git,Placeable List/0/ItemList/3/LocalizedName,0,2982,Aromatic Oil,
 a3umbrtemple,git,Placeable List/0/LocName,0,5706,Oil Fountain,
-a3umbrtemple,git,Placeable List/1/Description,0,14662,"You look about you, suspicious, but see nothing.",
+a3umbrtemple,git,Placeable List/1/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a3umbrtemple,git,Placeable List/1/LocName,0,5800,Monster Controller,
 a3umbrtemple,git,Placeable List/10/Description,0,14639,"Aromatic oils flow through this fountain in a vain attempt to battle the overpowering scent of mildew. Despite its ceremonial use, the oil appears highly flammable, a property that may prove useful.",
 a3umbrtemple,git,Placeable List/10/ItemList/0/DescIdentified,0,2990,"Fountains of aromatic oils flow through Umberlee's Temple-Under-the-Sea, giving its air-filled upper chambers a saccharine, sickly smell. Despite its ceremonial use, it appears highly flammable, a property that may prove useful.",
@@ -4138,7 +4138,7 @@ a3umbrtemple,git,WaypointList/42/LocalizedName,0,-1,cs_wp,
 a3umbrtemple,git,WaypointList/43/LocalizedName,0,-1,cs_wp,
 area,git,Creature List/0/Description,0,12472,"The semi-aquatic bronze dragons are powerful swimmers with webbed feat and smooth, flat scales. They often visit the depths to cool off or hunt for pearls and sunken treasure. Against seafaring opponents they conjure up a storm or use their tails to smash the vessels' hulls.",
 area,git,Creature List/0/FirstName,0,12473,Yxondralu,
-area,git,Door List/0/LocName,0,66683,Door,
+area,git,Door List/0/LocName,0,66683,Door,문
 area,git,Placeable List/0/LocName,0,-1,Penants & Signs 001,
 area,git,Placeable List/1/LocName,0,-1,Bubbles Medium,
 area,git,Placeable List/10/Description,0,-1,"Bubbles stream upwards from a small fissure in the sea floor. Whether they are a product of geothermal activity or some form of life that lurks below, you cannot tell.",
@@ -4161,7 +4161,7 @@ area,git,Placeable List/9/LocName,0,-1,Bubbles Large,
 area,git,WaypointList/1/LocalizedName,0,14817,PoTSC Respawn Point,
 area,git,WaypointList/2/LocalizedName,0,14814,Exit,
 area,git,WaypointList/2/MapNote,0,14815,To the Temple-Under-the-Sea: Sahuagin Passage,
-area001,git,Door List/0/LocName,0,5349,Door,
+area001,git,Door List/0/LocName,0,5349,Door,문
 area001,git,Placeable List/2/Description,0,84171,An old fire pit.,
 area001,git,Placeable List/2/LocName,0,83425,Fire Pit,
 area001,git,Placeable List/3/Description,0,-1,This small fishing net has been strung out to dry.,
@@ -4198,9 +4198,9 @@ area002,git,Placeable List/0/Description,0,14540,"Torn from a recent shipwreck, 
 area002,git,Placeable List/0/LocName,0,14541,Sacred Wood,
 area002,git,Placeable List/1/Description,0,14540,"Torn from a recent shipwreck, the troglodyte feed these sturdy timbers to their sacred fire to keep it burning night and day.",
 area002,git,Placeable List/1/LocName,0,14541,Sacred Wood,
-area002,git,Placeable List/10/Description,0,14662,"You look about you, suspicious, but see nothing.",
+area002,git,Placeable List/10/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 area002,git,Placeable List/10/LocName,0,5800,a1_cut_vfxtarg5,
-area002,git,Placeable List/11/Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,
+area002,git,Placeable List/11/Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,좀약 냄새가 이 장식장의 나무에 스며든 지 오래입니다.
 area002,git,Placeable List/11/LocName,0,14549,a1_cutraft,
 area002,git,Placeable List/2/Description,0,14540,"Torn from a recent shipwreck, the troglodyte feed these sturdy timbers to their sacred fire to keep it burning night and day.",
 area002,git,Placeable List/2/LocName,0,14541,Sacred Wood,
@@ -4210,13 +4210,13 @@ area002,git,Placeable List/4/Description,0,14540,"Torn from a recent shipwreck, 
 area002,git,Placeable List/4/LocName,0,14541,Sacred Wood,
 area002,git,Placeable List/5/Description,0,14540,"Torn from a recent shipwreck, the troglodyte feed these sturdy timbers to their sacred fire to keep it burning night and day.",
 area002,git,Placeable List/5/LocName,0,14541,Sacred Wood,
-area002,git,Placeable List/6/Description,0,14662,"You look about you, suspicious, but see nothing.",
+area002,git,Placeable List/6/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 area002,git,Placeable List/6/LocName,0,5800,a1_cut_vfxtarg4,
-area002,git,Placeable List/7/Description,0,14662,"You look about you, suspicious, but see nothing.",
+area002,git,Placeable List/7/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 area002,git,Placeable List/7/LocName,0,5800,a1_cut_vfxtarg3,
-area002,git,Placeable List/8/Description,0,14662,"You look about you, suspicious, but see nothing.",
+area002,git,Placeable List/8/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 area002,git,Placeable List/8/LocName,0,5800,a1_cut_vfxtarg1,
-area002,git,Placeable List/9/Description,0,14662,"You look about you, suspicious, but see nothing.",
+area002,git,Placeable List/9/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 area002,git,Placeable List/9/LocName,0,5800,a1_cut_vfxtarg2,
 area002,git,SoundList/0/LocName,0,-1,pp1_allendry022,
 area002,git,SoundList/1/LocName,0,-1,pp1_allendry023,
@@ -4233,8 +4233,8 @@ area002,git,WaypointList/35/LocalizedName,0,-1,cs_camera_pos_10,
 area002,git,WaypointList/37/LocalizedName,0,-1,cuta1_escape,
 area002,git,WaypointList/38/LocalizedName,0,-1,cs_camera_pos_1,
 area002,git,WaypointList/39/LocalizedName,0,-1,cs_camera_pos_1,
-area003,git,Door List/0/Description,0,9074,Bloodstains and arcane markings cover the surface of this heavy stone door.,
-area003,git,Door List/0/LocName,0,5349,Door,
+area003,git,Door List/0/Description,0,9074,Bloodstains and arcane markings cover the surface of this heavy stone door.,이 무거운 돌문 표면은 핏자국과 비전 표시로 덮여 있습니다.
+area003,git,Door List/0/LocName,0,5349,Door,문
 area003,git,Encounter List/0/LocalizedName,0,-1,Ooze Encounter,
 area003,git,Encounter List/1/LocalizedName,0,-1,Ooze Encounter,
 area003,git,Placeable List/17/Description,0,-1,This sturdy chest looks like just the sort for burying treasure in!,
@@ -4358,7 +4358,7 @@ ashipatsea001,git,SoundList/3/LocName,0,-1,pp1_allendry015,
 ashipatsea001,git,SoundList/4/LocName,0,-1,pp1_allendry016,
 ashipatsea001,git,SoundList/5/LocName,0,-1,pp1_allendry017,
 ashipatsea001,git,WaypointList/0/LocalizedName,0,-1,intro_ship_way_1,
-ashipatsea001,git,WaypointList/1/LocalizedName,0,14817,Waypoint,
+ashipatsea001,git,WaypointList/1/LocalizedName,0,14817,Waypoint,웨이포인트
 ashipatsea001,git,WaypointList/10/LocalizedName,0,-1,cs_wp,
 ashipatsea001,git,WaypointList/11/LocalizedName,0,-1,cs_wp,
 ashipatsea001,git,WaypointList/12/LocalizedName,0,-1,cs_wp,
@@ -4446,7 +4446,7 @@ belowdeckonthemi,git,Creature List/4/FirstName,0,-1,Sailor,
 belowdeckonthemi,git,Creature List/5/Description,0,-1,This haughty young man sniffs disdainfully as you pass by.,
 belowdeckonthemi,git,Creature List/5/FirstName,0,-1,Rahman,
 belowdeckonthemi,git,Creature List/5/LastName,0,-1,Madani,
-belowdeckonthemi,git,Door List/1/Description,0,9078,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",
+belowdeckonthemi,git,Door List/1/Description,0,9078,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",거칠게 깎은 나무로 만들어진 이 단순한 문은 맞지 않는 경첩 때문에 흔들립니다.
 belowdeckonthemi,git,Placeable List/0/Description,0,14535,You don't quite recognize the creature depicted by this barnacle-encrusted statue but it's clearly aquatic in nature. The stone is old and deeply weathered.,
 belowdeckonthemi,git,Placeable List/0/LocName,0,14536,Mysterious Statue,
 belowdeckonthemi,git,Placeable List/15/Description,0,-1,"You gaze at your reflection in the puddle. You look pretty good today, all things considered.",
@@ -4465,7 +4465,7 @@ belowdeckonthemi,git,Placeable List/20/Description,0,-1,There's barely enough ro
 belowdeckonthemi,git,Placeable List/20/LocName,0,-1,Small Chest,
 belowdeckonthemi,git,Placeable List/26/Description,0,-1,There's barely enough room in this simple strongbox for any treasure at all...,
 belowdeckonthemi,git,Placeable List/26/LocName,0,-1,Small Chest,
-belowdeckonthemi,git,Placeable List/3/Description,0,84596,You can sense the powerful magic bound into this arcane circle. Symbols like this are often used in planar summoning rituals ... or worse.,
+belowdeckonthemi,git,Placeable List/3/Description,0,84596,You can sense the powerful magic bound into this arcane circle. Symbols like this are often used in planar summoning rituals ... or worse.,이 비전의 원에 묶인 강력한 마법이 느껴집니다. 이런 상징은 종종 차원 소환 의식에 사용됩니다... 또는 더 나쁜 것에.
 belowdeckonthemi,git,Placeable List/31/Description,0,-1,"It's a nice enough chest, you reckon, but not the sort you'd want to trust your favorite treasures to...",
 belowdeckonthemi,git,Placeable List/31/LocName,0,-1,Mid-Sized Chest,
 belowdeckonthemi,git,Placeable List/32/ItemList/0/DescIdentified,0,-1,Navigational charts are becoming increasingly popular on modern ships. Previously everyone sailed willy-nilly with no clear idea of where they were or where they were headed.,
@@ -4557,7 +4557,7 @@ belowdeckonthemi,git,Placeable List/83/ItemList/1/LocalizedName,0,-1,Tinder,
 belowdeckonthemi,git,Placeable List/83/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 belowdeckonthemi,git,Placeable List/83/ItemList/2/LocalizedName,0,-1,Tinder,
 belowdeckonthemi,git,Placeable List/83/LocName,0,-1,Fishing Net,
-belowdeckonthemi,git,Placeable List/84/Description,0,14667,The sack seems plump and full.,
+belowdeckonthemi,git,Placeable List/84/Description,0,14667,The sack seems plump and full.,이 자루는 불룩하게 가득찬 것 같습니다.
 belowdeckonthemi,git,Placeable List/84/ItemList/0/DescIdentified,0,-1,A few chips mar the rim of this sturdy cup. It's clearly seen many voyages aboard the Midnight Rose.,
 belowdeckonthemi,git,Placeable List/84/ItemList/0/LocalizedName,0,-1,Small Porcelain Cup,
 belowdeckonthemi,git,Placeable List/84/LocName,0,5656,Mess Kit,
@@ -4613,7 +4613,7 @@ belowdeckonthemi,git,Placeable List/92/ItemList/1/LocalizedName,0,-1,Tinder,
 belowdeckonthemi,git,Placeable List/92/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 belowdeckonthemi,git,Placeable List/92/ItemList/2/LocalizedName,0,-1,Tinder,
 belowdeckonthemi,git,Placeable List/92/LocName,0,-1,Starfish,
-belowdeckonthemi,git,Placeable List/93/LocName,0,14576,Bookshelf,
+belowdeckonthemi,git,Placeable List/93/LocName,0,14576,Bookshelf,책장
 belowdeckonthemi,git,TriggerList/0/LocalizedName,0,14759,SnitchTrig,
 belowdeckonthemi,git,TriggerList/1/LocalizedName,0,14759,EavesTrig,
 belowdeckonthemi,git,WaypointList/0/LocalizedName,0,-1,Focus 1,
@@ -4772,18 +4772,18 @@ desertedisland,git,Placeable List/161/ItemList/0/LocalizedName,0,-1,Tinder,
 desertedisland,git,Placeable List/161/LocName,0,-1,Palm Tree,
 desertedisland,git,Placeable List/163/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 desertedisland,git,Placeable List/163/ItemList/0/LocalizedName,0,-1,Stone,
-desertedisland,git,Placeable List/163/LocName,0,52998,Boulder,
+desertedisland,git,Placeable List/163/LocName,0,52998,Boulder,바위
 desertedisland,git,Placeable List/164/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 desertedisland,git,Placeable List/164/ItemList/0/LocalizedName,0,-1,Stone,
-desertedisland,git,Placeable List/164/LocName,0,52998,Boulder,
+desertedisland,git,Placeable List/164/LocName,0,52998,Boulder,바위
 desertedisland,git,Placeable List/165/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 desertedisland,git,Placeable List/165/ItemList/0/LocalizedName,0,-1,Stone,
-desertedisland,git,Placeable List/165/LocName,0,52998,Boulder,
+desertedisland,git,Placeable List/165/LocName,0,52998,Boulder,바위
 desertedisland,git,Placeable List/168/LocName,0,-1,Driftwood 02,
 desertedisland,git,Placeable List/170/LocName,0,-1,Tropical Tree02,
 desertedisland,git,Placeable List/171/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 desertedisland,git,Placeable List/171/ItemList/0/LocalizedName,0,-1,Stone,
-desertedisland,git,Placeable List/171/LocName,0,52998,Boulder,
+desertedisland,git,Placeable List/171/LocName,0,52998,Boulder,바위
 desertedisland,git,Placeable List/51/LocName,0,-1,TropicalTree,
 desertedisland,git,Placeable List/52/LocName,0,-1,TropicalTree,
 desertedisland,git,Placeable List/53/LocName,0,-1,TropicalTree,
@@ -4819,20 +4819,20 @@ desertedisland,git,WaypointList/7/LocalizedName,0,14817,PoTSC Respawn Point,
 desertedisland,git,WaypointList/9/LocalizedName,0,14814,Sailor Snitch,
 desertedisland,git,WaypointList/9/MapNote,0,14815,Sailor Snitch,
 docksgldnppl,git,Creature List/0/Description,0,57358,This older serving maid seems friendly enough. ,
-docksgldnppl,git,Creature List/0/FirstName,0,24618,Gilda,
-docksgldnppl,git,Creature List/1/Description,0,57379,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone finally escaping the shadow of plague.",
+docksgldnppl,git,Creature List/0/FirstName,0,24618,Gilda,길다
+docksgldnppl,git,Creature List/1/Description,0,57379,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone finally escaping the shadow of plague.","네버윈터의 일반인이자, 단순한 옷차림을 한 이 사람은 어찌할 바를 모르는 모습으로 전염병의 그림자 속에 살고 있습니다."
 docksgldnppl,git,Creature List/1/FirstName,0,24750,Patron,
-docksgldnppl,git,Creature List/2/Description,0,57379,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone finally escaping the shadow of plague.",
+docksgldnppl,git,Creature List/2/Description,0,57379,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone finally escaping the shadow of plague.","네버윈터의 일반인이자, 단순한 옷차림을 한 이 사람은 어찌할 바를 모르는 모습으로 전염병의 그림자 속에 살고 있습니다."
 docksgldnppl,git,Creature List/2/FirstName,0,24750,Patron,
-docksgldnppl,git,Creature List/3/Description,0,57379,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone finally escaping the shadow of plague.",
+docksgldnppl,git,Creature List/3/Description,0,57379,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone finally escaping the shadow of plague.","네버윈터의 일반인이자, 단순한 옷차림을 한 이 사람은 어찌할 바를 모르는 모습으로 전염병의 그림자 속에 살고 있습니다."
 docksgldnppl,git,Creature List/3/FirstName,0,24750,Patron,
 docksgldnppl,git,Creature List/4/Description,0,57379,"A commoner of Neverwinter, this woman wears simple clothes and the harried look of someone finally escaping the shadow of plague.",
 docksgldnppl,git,Creature List/4/FirstName,0,24750,Patron,
 docksgldnppl,git,Creature List/5/Description,0,-1,This barmaid's hair dangles in sweaty tangles from her brow. It's been a busy night.,
-docksgldnppl,git,Creature List/5/FirstName,0,12799,Waitress,
+docksgldnppl,git,Creature List/5/FirstName,0,12799,Waitress,여종업원
 docksgldnppl,git,Creature List/6/Description,0,57379,"A commoner of Neverwinter, this woman wears simple clothes and the harried look of someone finally escaping the shadow of plague.",
 docksgldnppl,git,Creature List/6/FirstName,0,24750,Patron,
-docksgldnppl,git,Creature List/7/Description,0,57379,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone finally escaping the shadow of plague.",
+docksgldnppl,git,Creature List/7/Description,0,57379,"A common man of Neverwinter, this person wears simple clothes and the harried look of someone finally escaping the shadow of plague.","네버윈터의 일반인이자, 단순한 옷차림을 한 이 사람은 어찌할 바를 모르는 모습으로 전염병의 그림자 속에 살고 있습니다."
 docksgldnppl,git,Creature List/7/FirstName,0,24750,Patron,
 docksgldnppl,git,Placeable List/10/Description,0,-1,"You gaze at your reflection in the puddle. You look pretty good today, all things considered.",
 docksgldnppl,git,Placeable List/10/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -4913,7 +4913,7 @@ dockssdtvrn,git,Creature List/0/FirstName,0,24631,Patron,
 dockssdtvrn,git,Creature List/1/Description,0,57658,This rough looking customer of the Seedy Tavern eyes the room warmly. He seems comfortable. Perhaps he's a regular.,
 dockssdtvrn,git,Creature List/1/FirstName,0,24631,Patron,
 dockssdtvrn,git,Creature List/10/Description,0,-1,"This large man is stained by sweat and swill. He's thrown more than one grown man out of his tavern, you suspect.",
-dockssdtvrn,git,Creature List/10/FirstName,0,12374,Bartender,
+dockssdtvrn,git,Creature List/10/FirstName,0,12374,Bartender,바텐더
 dockssdtvrn,git,Creature List/2/Description,0,57658,This rough looking customer of the Seedy Tavern eyes the room warmly. He seems comfortable. Perhaps he's a regular.,
 dockssdtvrn,git,Creature List/2/FirstName,0,24631,Patron,
 dockssdtvrn,git,Creature List/3/Description,0,57658,This rough looking customer of the Seedy Tavern eyes the room warmly. He seems comfortable. Perhaps he's a regular.,
@@ -5136,7 +5136,7 @@ docksslvrsls,git,Placeable List/30/LocName,0,14616,Shipping and Receiving,
 docksslvrsls,git,TriggerList/0/LocalizedName,0,14759,Dialog Trigger,
 docksslvrsls,git,WaypointList/0/LocalizedName,0,14814,Merchant,
 docksslvrsls,git,WaypointList/0/MapNote,0,14815,Silver Sails Merchant Office,
-docksslvrsls,git,WaypointList/1/LocalizedName,0,14814,Map Note,
+docksslvrsls,git,WaypointList/1/LocalizedName,0,14814,Map Note,지도 설명
 docksslvrsls,git,WaypointList/2/LocalizedName,0,14814,Exit,
 docksslvrsls,git,WaypointList/2/MapNote,0,14815,To Neverwinter: Docks,
 dockstwntqvr,git,Creature List/0/FirstName,0,12457,Guard Dog,
@@ -5227,8 +5227,8 @@ dockstwntqvr,git,Placeable List/7/Description,0,-1,There's barely enough room in
 dockstwntqvr,git,Placeable List/7/LocName,0,-1,Small Chest,
 dockstwntqvr,git,Placeable List/8/Description,0,-1,"It's a nice enough chest, you reckon, but not the sort you'd want to trust your favorite treasures to...",
 dockstwntqvr,git,Placeable List/8/LocName,0,-1,Mid-Sized Chest,
-dockstwntqvr,git,Placeable List/9/LocName,0,14576,Bookshelf,
-dockstwntqvr,git,TriggerList/0/LocalizedName,0,14794,Minor Tangle Trap,
+dockstwntqvr,git,Placeable List/9/LocName,0,14576,Bookshelf,책장
+dockstwntqvr,git,TriggerList/0/LocalizedName,0,14794,Minor Tangle Trap,약한 덩굴 함정
 dockstwntqvr,git,WaypointList/14/LocalizedName,0,14814,Exit,
 dockstwntqvr,git,WaypointList/14/MapNote,0,14815,To Neverwinter: Docks,
 dockstwntqvr,git,WaypointList/15/LocalizedName,0,14814,Guardroom,
@@ -5416,7 +5416,7 @@ ganghideout3,git,Placeable List/3/ItemList/1/LocalizedName,0,-1,Tinder,
 ganghideout3,git,Placeable List/3/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 ganghideout3,git,Placeable List/3/ItemList/2/LocalizedName,0,-1,Tinder,
 ganghideout3,git,Placeable List/3/LocName,0,-1,Fishing Net,
-ganghideout3,git,Placeable List/31/LocName,0,14576,Bookshelf,
+ganghideout3,git,Placeable List/31/LocName,0,14576,Bookshelf,책장
 ganghideout3,git,Placeable List/32/Description,0,-1,This hempen rope has been carefully coiled to ensure it doesn't get tangled with future use.,
 ganghideout3,git,Placeable List/32/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 ganghideout3,git,Placeable List/32/ItemList/0/LocalizedName,0,-1,Tinder,
@@ -5671,7 +5671,7 @@ ganghideout3,git,WaypointList/4/LocalizedName,0,14817,DW_PAWN2,
 ganghideout3,git,WaypointList/5/LocalizedName,0,14817,DW_PAWN2,
 ganghideout3,git,WaypointList/6/LocalizedName,0,14817,DW_PAWN3,
 ganghideout3,git,WaypointList/7/LocalizedName,0,14817,DW_PAWN4,
-ganghideout4,git,Door List/0/LocName,0,5349,Door,
+ganghideout4,git,Door List/0/LocName,0,5349,Door,문
 ganghideout4,git,Placeable List/15/Description,0,-1,This small fishing net has been strung out to dry.,
 ganghideout4,git,Placeable List/15/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 ganghideout4,git,Placeable List/15/ItemList/0/LocalizedName,0,-1,Tinder,
@@ -5908,9 +5908,9 @@ goldenapplepstrs,git,Creature List/4/LastName,0,-1,Alcrest,
 goldenapplepstrs,git,Creature List/5/Description,0,-1,This man is well-armed and looking for trouble.,
 goldenapplepstrs,git,Creature List/5/FirstName,0,12373,Thug,
 goldenapplepstrs,git,Door List/0/LocName,0,14450,Door,
-goldenapplepstrs,git,Door List/1/LocName,0,5349,Door,
-goldenapplepstrs,git,Door List/2/LocName,0,5349,Door,
-goldenapplepstrs,git,Door List/3/LocName,0,5349,Door,
+goldenapplepstrs,git,Door List/1/LocName,0,5349,Door,문
+goldenapplepstrs,git,Door List/2/LocName,0,5349,Door,문
+goldenapplepstrs,git,Door List/3/LocName,0,5349,Door,문
 goldenapplepstrs,git,Placeable List/0/LocName,0,5800,Mysterious Voice,
 goldenapplepstrs,git,Placeable List/1/Description,0,-1,There's barely enough room in this simple strongbox for any treasure at all...,
 goldenapplepstrs,git,Placeable List/1/LocName,0,-1,Small Chest,
@@ -6084,11 +6084,11 @@ jungledgrmmslb,git,Creature List/0/ItemList/1/DescIdentified,0,-1,"This is the i
 jungledgrmmslb,git,Creature List/0/ItemList/1/LocalizedName,0,-1,Edgrimm's Head,
 jungledgrmmslb,git,Creature List/0/ItemList/2/DescIdentified,0,-1,"These plans, drafted by Edgrimm the Mad, outline how to construct a Reversible Alternative Flotation Thingy, or R.A.F.T. The primary construction material appears to be planks of wood.",
 jungledgrmmslb,git,Creature List/0/ItemList/2/LocalizedName,0,-1,R.A.F.T. Plans,
-jungledgrmmslb,git,Door List/0/LocName,0,5349,Door,
-jungledgrmmslb,git,Door List/1/LocName,0,5349,Door,
+jungledgrmmslb,git,Door List/0/LocName,0,5349,Door,문
+jungledgrmmslb,git,Door List/1/LocName,0,5349,Door,문
 jungledgrmmslb,git,Placeable List/19/Description,0,84589,Only marooned dwarven inventors would know what use this bizarre tube could be put towards.,
 jungledgrmmslb,git,Placeable List/19/LocName,0,84571,Trash Compactor,
-jungledgrmmslb,git,Placeable List/2/Description,0,84169,You can only guess how many tons of stone have been used to create this almost breathing statue of a giant...,
+jungledgrmmslb,git,Placeable List/2/Description,0,84169,You can only guess how many tons of stone have been used to create this almost breathing statue of a giant...,거의 숨 쉬는 것 같은 이 거인 조각상을 만드는 데 얼마나 많은 톤의 돌이 사용되었는지 짐작만 할 수 있습니다...
 jungledgrmmslb,git,Placeable List/20/Description,0,84589,Only marooned dwarven inventors would know what use this bizarre tube could be put towards.,
 jungledgrmmslb,git,Placeable List/20/LocName,0,84571,Trash Compactor,
 jungledgrmmslb,git,Placeable List/21/Description,0,84589,Only marooned dwarven inventors would know what use this bizarre tube could be put towards.,
@@ -6105,14 +6105,14 @@ jungledgrmmslb,git,Placeable List/26/LocName,0,68810,Building Supplies,
 jungledgrmmslb,git,Placeable List/27/LocName,0,68810,Building Supplies,
 jungledgrmmslb,git,Placeable List/28/LocName,0,68902,Building Supplies,
 jungledgrmmslb,git,Placeable List/29/LocName,0,14647,Building Supplies,
-jungledgrmmslb,git,Placeable List/3/Description,0,84169,You can only guess how many tons of stone have been used to create this almost breathing statue of a giant...,
+jungledgrmmslb,git,Placeable List/3/Description,0,84169,You can only guess how many tons of stone have been used to create this almost breathing statue of a giant...,거의 숨 쉬는 것 같은 이 거인 조각상을 만드는 데 얼마나 많은 톤의 돌이 사용되었는지 짐작만 할 수 있습니다...
 jungledgrmmslb,git,Placeable List/33/LocName,0,14734,Building Supplies,
 jungledgrmmslb,git,Placeable List/35/LocName,0,67715,Building Supplies,
 jungledgrmmslb,git,Placeable List/36/LocName,0,14541,Building Supplies,
 jungledgrmmslb,git,Placeable List/37/LocName,0,5739,Building Supplies,
 jungledgrmmslb,git,Placeable List/38/LocName,0,68821,Building Supplies,
 jungledgrmmslb,git,TriggerList/5/LocalizedName,0,14759,Henchman Popup Trigger: A1_EDGRIMM,
-jungledgrmmslb,git,WaypointList/0/LocalizedName,0,14814,Map Note,
+jungledgrmmslb,git,WaypointList/0/LocalizedName,0,14814,Map Note,지도 설명
 jungledgrmmslb,git,WaypointList/0/MapNote,0,14815,Exit,
 jungledgrmmslb,git,WaypointList/7/LocalizedName,0,14814,Exit,
 jungledgrmmslb,git,WaypointList/7/MapNote,0,14815,To Tropical Island: North Shore,
@@ -6220,30 +6220,30 @@ neverwinterdcks,git,Creature List/4/Equip_ItemList/0/LocalizedName,0,-1,Uniform 
 neverwinterdcks,git,Creature List/4/Equip_ItemList/2/LocalizedName,0,13205,Pirates of the Sword Coast,
 neverwinterdcks,git,Creature List/4/FirstName,0,-1,Nisar,
 neverwinterdcks,git,Creature List/4/LastName,0,-1,Zayid,
-neverwinterdcks,git,Creature List/5/Equip_ItemList/0/Description,0,24980,"This is the somewhat garish uniform of the Bloodsailors pirate guild. By wearing this, a person might be able to fool a casual observer into thinking they are a Bloodsailor. Other actual members would probably see through the deception, however, as such groups are usually very adept at recognizing their own people.",
+neverwinterdcks,git,Creature List/5/Equip_ItemList/0/Description,0,24980,"This is the somewhat garish uniform of the Bloodsailors pirate guild. By wearing this, a person might be able to fool a casual observer into thinking they are a Bloodsailor. Other actual members would probably see through the deception, however, as such groups are usually very adept at recognizing their own people.","이것은 핏빛 항해자 해적 조합의 다소 요란한 제복입니다. 이것을 착용하면, 무심한 목격자들이 착용자를 핏빛 항해자라고 생각하도록 속일 수 있습니다. 그러나 실제 다른 구성원들은 대개 자기 편을 알아보는 데 매우 능숙하기 때문에 아마도 속임수를 간파할 겁니다."
 neverwinterdcks,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,12930,NPC: Bloodsailor Uniform,
-neverwinterdcks,git,Creature List/5/FirstName,0,24576,Bloodsailor,
-neverwinterdcks,git,Creature List/6/Description,0,57348,"A proud looking ruffian in a red and blue uniform, obviously a member of a mercenary company or a highly organized group of bandits.",
-neverwinterdcks,git,Creature List/6/Equip_ItemList/0/Description,0,24980,"This is the somewhat garish uniform of the Bloodsailors pirate guild. By wearing this, a person might be able to fool a casual observer into thinking they are a Bloodsailor. Other actual members would probably see through the deception, however, as such groups are usually very adept at recognizing their own people.",
+neverwinterdcks,git,Creature List/5/FirstName,0,24576,Bloodsailor,핏빛 항해자
+neverwinterdcks,git,Creature List/6/Description,0,57348,"A proud looking ruffian in a red and blue uniform, obviously a member of a mercenary company or a highly organized group of bandits.","붉은색과 푸른색 제복을 입은 거만한 악당은, 분명 용병 회사의 일원이거나 고도로 조직화된 도적떼의 일원으로 보입니다."
+neverwinterdcks,git,Creature List/6/Equip_ItemList/0/Description,0,24980,"This is the somewhat garish uniform of the Bloodsailors pirate guild. By wearing this, a person might be able to fool a casual observer into thinking they are a Bloodsailor. Other actual members would probably see through the deception, however, as such groups are usually very adept at recognizing their own people.","이것은 핏빛 항해자 해적 조합의 다소 요란한 제복입니다. 이것을 착용하면, 무심한 목격자들이 착용자를 핏빛 항해자라고 생각하도록 속일 수 있습니다. 그러나 실제 다른 구성원들은 대개 자기 편을 알아보는 데 매우 능숙하기 때문에 아마도 속임수를 간파할 겁니다."
 neverwinterdcks,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,12930,NPC: Bloodsailor Uniform,
-neverwinterdcks,git,Creature List/6/FirstName,0,24576,Bloodsailor,
-neverwinterdcks,git,Creature List/7/Equip_ItemList/0/Description,0,24980,"This is the somewhat garish uniform of the Bloodsailors pirate guild. By wearing this, a person might be able to fool a casual observer into thinking they are a Bloodsailor. Other actual members would probably see through the deception, however, as such groups are usually very adept at recognizing their own people.",
+neverwinterdcks,git,Creature List/6/FirstName,0,24576,Bloodsailor,핏빛 항해자
+neverwinterdcks,git,Creature List/7/Equip_ItemList/0/Description,0,24980,"This is the somewhat garish uniform of the Bloodsailors pirate guild. By wearing this, a person might be able to fool a casual observer into thinking they are a Bloodsailor. Other actual members would probably see through the deception, however, as such groups are usually very adept at recognizing their own people.","이것은 핏빛 항해자 해적 조합의 다소 요란한 제복입니다. 이것을 착용하면, 무심한 목격자들이 착용자를 핏빛 항해자라고 생각하도록 속일 수 있습니다. 그러나 실제 다른 구성원들은 대개 자기 편을 알아보는 데 매우 능숙하기 때문에 아마도 속임수를 간파할 겁니다."
 neverwinterdcks,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,12930,NPC: Bloodsailor Uniform,
-neverwinterdcks,git,Creature List/7/FirstName,0,24576,Bloodsailor,
+neverwinterdcks,git,Creature List/7/FirstName,0,24576,Bloodsailor,핏빛 항해자
 neverwinterdcks,git,Creature List/8/Description,0,-1,This young woman offers you a cautious smile.,
 neverwinterdcks,git,Creature List/8/FirstName,0,-1,Blackriver Bandit,
 neverwinterdcks,git,Creature List/9/Description,0,-1,This young lad offers you a cautious grin.,
 neverwinterdcks,git,Creature List/9/FirstName,0,-1,Blackriver Bandit,
 neverwinterdcks,git,Door List/0/LocName,0,14450,Door,
-neverwinterdcks,git,Door List/1/LocName,0,5349,Door,
+neverwinterdcks,git,Door List/1/LocName,0,5349,Door,문
 neverwinterdcks,git,Door List/10/LocName,0,-1,Wooden Door,
 neverwinterdcks,git,Door List/11/LocName,0,-1,Wooden Door,
-neverwinterdcks,git,Door List/14/LocName,0,5349,Door,
+neverwinterdcks,git,Door List/14/LocName,0,5349,Door,문
 neverwinterdcks,git,Door List/16/LocName,0,-1,Wooden Door,
 neverwinterdcks,git,Door List/17/LocName,0,-1,Stone Door,
 neverwinterdcks,git,Door List/2/LocName,0,14450,Door,
 neverwinterdcks,git,Door List/3/LocName,0,14450,Door,
-neverwinterdcks,git,Door List/4/LocName,0,63205,Gate,
+neverwinterdcks,git,Door List/4/LocName,0,63205,Gate,관문
 neverwinterdcks,git,Door List/6/LocName,0,-1,Wooden Door,
 neverwinterdcks,git,Door List/7/LocName,0,-1,Wooden Door,
 neverwinterdcks,git,Door List/8/LocName,0,-1,Stone Door,
@@ -6263,7 +6263,7 @@ neverwinterdcks,git,Encounter List/9/LocalizedName,0,-1,Bloodsailor Encounter,
 neverwinterdcks,git,Placeable List/0/Description,0,22544,"The Silver Sails Trading Company. 
 Warehouse storage and shipping.",
 neverwinterdcks,git,Placeable List/0/LocName,0,25079,The Silver Sails Trading Company,
-neverwinterdcks,git,Placeable List/10/Description,0,14662,"You look about you, suspicious, but see nothing.",
+neverwinterdcks,git,Placeable List/10/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 neverwinterdcks,git,Placeable List/10/LocName,0,5800,Spawn Blackriver Bandit Ctrlr ,
 neverwinterdcks,git,Placeable List/101/Description,0,-1,The clamshell that forms the back of this simple chair is bigger than any you've ever seen.,
 neverwinterdcks,git,Placeable List/101/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -7252,7 +7252,7 @@ neverwinterdcks,git,Placeable List/88/ItemList/1/LocalizedName,0,-1,Tinder,
 neverwinterdcks,git,Placeable List/88/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 neverwinterdcks,git,Placeable List/88/ItemList/2/LocalizedName,0,-1,Tinder,
 neverwinterdcks,git,Placeable List/88/LocName,0,-1,Driftwood,
-neverwinterdcks,git,Placeable List/9/Description,0,14662,"You look about you, suspicious, but see nothing.",
+neverwinterdcks,git,Placeable List/9/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 neverwinterdcks,git,Placeable List/9/LocName,0,5800,Spawn Bloodsailor Ctrlr ,
 neverwinterdcks,git,Placeable List/91/Description,0,-1,"You hold the conch shell up to your ear, eager to hear the sea...",
 neverwinterdcks,git,Placeable List/91/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -7288,13 +7288,13 @@ neverwinterdcks,git,Placeable List/96/ItemList/1/LocalizedName,0,-1,Tinder,
 neverwinterdcks,git,Placeable List/96/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 neverwinterdcks,git,Placeable List/96/ItemList/2/LocalizedName,0,-1,Tinder,
 neverwinterdcks,git,Placeable List/96/LocName,0,-1,Driftwood,
-neverwinterdcks,git,SoundList/0/LocName,0,68002,Torch Fire Small,
-neverwinterdcks,git,SoundList/23/LocName,0,68002,Torch Fire Small,
-neverwinterdcks,git,SoundList/24/LocName,0,68002,Torch Fire Small,
-neverwinterdcks,git,SoundList/25/LocName,0,68002,Torch Fire Small,
-neverwinterdcks,git,SoundList/26/LocName,0,68002,Torch Fire Small,
-neverwinterdcks,git,SoundList/27/LocName,0,68002,Torch Fire Small,
-neverwinterdcks,git,SoundList/28/LocName,0,68002,Torch Fire Small,
+neverwinterdcks,git,SoundList/0/LocName,0,68002,Torch Fire Small,작은 횃불
+neverwinterdcks,git,SoundList/23/LocName,0,68002,Torch Fire Small,작은 횃불
+neverwinterdcks,git,SoundList/24/LocName,0,68002,Torch Fire Small,작은 횃불
+neverwinterdcks,git,SoundList/25/LocName,0,68002,Torch Fire Small,작은 횃불
+neverwinterdcks,git,SoundList/26/LocName,0,68002,Torch Fire Small,작은 횃불
+neverwinterdcks,git,SoundList/27/LocName,0,68002,Torch Fire Small,작은 횃불
+neverwinterdcks,git,SoundList/28/LocName,0,68002,Torch Fire Small,작은 횃불
 neverwinterdcks,git,TriggerList/0/LocalizedName,0,14759,Delas Ambush Warning,
 neverwinterdcks,git,TriggerList/1/LocalizedName,0,14759,Henchman Popup Trigger: A0_SILVERSAILS,
 neverwinterdcks,git,TriggerList/2/LocalizedName,0,14759,Henchman Popup Trigger: A0_TATTOOPARLOR,
@@ -7304,7 +7304,7 @@ neverwinterdcks,git,TriggerList/5/LocalizedName,0,14759,init_blackriver,
 neverwinterdcks,git,TriggerList/6/LocalizedName,0,14759,Henchman Popup Trigger: A0_TWENTYQUIVER,
 neverwinterdcks,git,TriggerList/7/LocalizedName,0,14759,Fear Trigger,
 neverwinterdcks,git,WaypointList/0/LocalizedName,0,-1,The Silver Sails Trading Company,
-neverwinterdcks,git,WaypointList/0/MapNote,0,25270,Silver Sails Trading Company,
+neverwinterdcks,git,WaypointList/0/MapNote,0,25270,Silver Sails Trading Company,은빛 돛 무역 회사
 neverwinterdcks,git,WaypointList/1/LocalizedName,0,-1,Golden Apple,
 neverwinterdcks,git,WaypointList/1/MapNote,0,25271,The Golden Apple Inn,
 neverwinterdcks,git,WaypointList/2/LocalizedName,0,-1,Twenty In A Quiver,
@@ -7330,13 +7330,13 @@ neverwinterdcks,git,WaypointList/61/LocalizedName,0,14814,Gang Hideout 3,
 neverwinterdcks,git,WaypointList/61/MapNote,0,14815,Gang Hideout,
 neverwinterdcks,git,WaypointList/62/LocalizedName,0,14814,Gang Hideout 4,
 neverwinterdcks,git,WaypointList/62/MapNote,0,14815,Gang Hideout,
-neverwinterdcks,git,WaypointList/63/LocalizedName,0,14814,Map Note,
+neverwinterdcks,git,WaypointList/63/LocalizedName,0,14814,Map Note,지도 설명
 neverwinterdcks,git,WaypointList/63/MapNote,0,14815,Gang Hideout (Cleared),
-neverwinterdcks,git,WaypointList/64/LocalizedName,0,14814,Map Note,
+neverwinterdcks,git,WaypointList/64/LocalizedName,0,14814,Map Note,지도 설명
 neverwinterdcks,git,WaypointList/64/MapNote,0,14815,Gang Hideout (Cleared),
-neverwinterdcks,git,WaypointList/65/LocalizedName,0,14814,Map Note,
+neverwinterdcks,git,WaypointList/65/LocalizedName,0,14814,Map Note,지도 설명
 neverwinterdcks,git,WaypointList/65/MapNote,0,14815,Gang Hideout (Cleared),
-neverwinterdcks,git,WaypointList/66/LocalizedName,0,14814,Map Note,
+neverwinterdcks,git,WaypointList/66/LocalizedName,0,14814,Map Note,지도 설명
 neverwinterdcks,git,WaypointList/66/MapNote,0,14815,Gang Hideout (Cleared),
 neverwinterdcks,git,WaypointList/67/LocalizedName,0,-1,Rusty Al's Tattoo & Pawn,
 neverwinterdcks,git,WaypointList/67/MapNote,0,25271,Rusty Al's Tattoo & Pawn,
@@ -7514,8 +7514,8 @@ spindriftblkbrds,git,Creature List/3/FirstName,0,-1,Governor,
 spindriftblkbrds,git,Creature List/3/LastName,0,-1,Blackeye,
 spindriftblkbrds,git,Creature List/4/Description,0,-1,Governor Blackeye's burly prison guard seems to do a fair enough job of keeping the inmates in check.,
 spindriftblkbrds,git,Creature List/4/FirstName,0,12696,Prison Guard,
-spindriftblkbrds,git,Door List/2/LocName,0,5349,Door,
-spindriftblkbrds,git,Door List/5/LocName,0,5349,Door,
+spindriftblkbrds,git,Door List/2/LocName,0,5349,Door,문
+spindriftblkbrds,git,Door List/5/LocName,0,5349,Door,문
 spindriftblkbrds,git,Placeable List/0/LocName,0,68907,Rusty Grate,
 spindriftblkbrds,git,Placeable List/1/Description,0,14694,This cell be reserved for the likes o' Rascally Pete so he can come and go as he pleases. Death by scurvy to all caught trespassin'.,
 spindriftblkbrds,git,Placeable List/1/LocName,0,14688,No Trespassing,
@@ -7965,19 +7965,19 @@ spindriftlghths,git,Placeable List/8/LocName,0,84569,Crystal Mechanism,
 spindriftlghths,git,Placeable List/9/LocName,0,84569,Crystal Mechanism,
 spindriftlghths,git,SoundList/0/LocName,0,-1,Wind Gust Soft,
 spindriftlghths,git,SoundList/1/LocName,0,-1,Very Soft Gulls,
-spindriftlghths,git,WaypointList/0/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/1/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/10/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/11/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/12/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/13/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/14/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/15/LocalizedName,0,14817,Waypoint,
+spindriftlghths,git,WaypointList/0/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/1/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/10/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/11/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/12/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/13/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/14/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/15/LocalizedName,0,14817,Waypoint,웨이포인트
 spindriftlghths,git,WaypointList/16/LocalizedName,0,-1,cs_wp,
 spindriftlghths,git,WaypointList/17/LocalizedName,0,-1,cs_camera_pos_1,
 spindriftlghths,git,WaypointList/18/LocalizedName,0,-1,cs_camera_pos_1,
 spindriftlghths,git,WaypointList/19/LocalizedName,0,-1,cs_camera_pos_1,
-spindriftlghths,git,WaypointList/2/LocalizedName,0,14817,Waypoint,
+spindriftlghths,git,WaypointList/2/LocalizedName,0,14817,Waypoint,웨이포인트
 spindriftlghths,git,WaypointList/20/LocalizedName,0,-1,cs_wp,
 spindriftlghths,git,WaypointList/21/LocalizedName,0,-1,cs_wp,
 spindriftlghths,git,WaypointList/22/LocalizedName,0,-1,cs_wp,
@@ -7988,13 +7988,13 @@ spindriftlghths,git,WaypointList/26/LocalizedName,0,14814,Exit,
 spindriftlghths,git,WaypointList/26/MapNote,0,14815,To Spindrift: Sandy Spit,
 spindriftlghths,git,WaypointList/27/LocalizedName,0,14814,Lighthouse Controls,
 spindriftlghths,git,WaypointList/27/MapNote,0,14815,Lighthouse Control Mechanism,
-spindriftlghths,git,WaypointList/3/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/4/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/5/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/6/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/7/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/8/LocalizedName,0,14817,Waypoint,
-spindriftlghths,git,WaypointList/9/LocalizedName,0,14817,Waypoint,
+spindriftlghths,git,WaypointList/3/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/4/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/5/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/6/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/7/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/8/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftlghths,git,WaypointList/9/LocalizedName,0,14817,Waypoint,웨이포인트
 spindriftmknctls,git,Creature List/0/Description,0,-1,"A hearty smile on his well-lined face, Grogbeard welcomes you to the Monkey's Cutlass. ",
 spindriftmknctls,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,NPC: Pirate Clothes (Brown),
 spindriftmknctls,git,Creature List/0/FirstName,0,-1,Grogbeard,
@@ -8197,8 +8197,8 @@ spindriftsndspt,git,Creature List/0/Description,0,-1,"Clad in highly visible gar
 spindriftsndspt,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,13854,NPC: Vantabular's Garb,
 spindriftsndspt,git,Creature List/0/FirstName,0,-1,Vantabular,
 spindriftsndspt,git,Creature List/0/LastName,0,-1,Garsp,
-spindriftsndspt,git,Door List/0/LocName,0,5349,Door,
-spindriftsndspt,git,Door List/2/LocName,0,5349,Door,
+spindriftsndspt,git,Door List/0/LocName,0,5349,Door,문
+spindriftsndspt,git,Door List/2/LocName,0,5349,Door,문
 spindriftsndspt,git,Placeable List/0/LocName,0,-1,Tropical Tree02,
 spindriftsndspt,git,Placeable List/1/LocName,0,-1,Tropical Tree02,
 spindriftsndspt,git,Placeable List/10/LocName,0,-1,TropicalTree,
@@ -8263,14 +8263,14 @@ spindriftsndspt,git,Placeable List/251/LocName,0,-1,Starfish,
 spindriftsndspt,git,Placeable List/255/LocName,0,-1,Driftwood 01,
 spindriftsndspt,git,Placeable List/26/LocName,0,-1,TropicalTree,
 spindriftsndspt,git,Placeable List/27/LocName,0,-1,Tropical Tree02,
-spindriftsndspt,git,Placeable List/270/Description,0,14577,"Loosely nailed, this wooden crate appears intended for temporary storage.",
+spindriftsndspt,git,Placeable List/270/Description,0,14577,"Loosely nailed, this wooden crate appears intended for temporary storage.",느슨하게 못을 박은 이 나무 궤짝은 임시 보관용으로 보입니다.
 spindriftsndspt,git,Placeable List/270/ItemList/0/LocalizedName,0,-1,Black Beard's Map,
-spindriftsndspt,git,Placeable List/270/LocName,0,14578,Crate,
-spindriftsndspt,git,Placeable List/271/Description,0,14577,"Loosely nailed, this wooden crate appears intended for temporary storage.",
-spindriftsndspt,git,Placeable List/271/LocName,0,14578,Crate,
+spindriftsndspt,git,Placeable List/270/LocName,0,14578,Crate,궤짝
+spindriftsndspt,git,Placeable List/271/Description,0,14577,"Loosely nailed, this wooden crate appears intended for temporary storage.",느슨하게 못을 박은 이 나무 궤짝은 임시 보관용으로 보입니다.
+spindriftsndspt,git,Placeable List/271/LocName,0,14578,Crate,궤짝
 spindriftsndspt,git,Placeable List/272/Description,0,-1,The raft was dashed to pieces on the rocks when you landed. There's no hope that it could be rebuilt into anything capable of floating.,
 spindriftsndspt,git,Placeable List/272/LocName,0,-1,Destroyed Raft,
-spindriftsndspt,git,Placeable List/273/Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,
+spindriftsndspt,git,Placeable List/273/Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,좀약 냄새가 이 장식장의 나무에 스며든 지 오래입니다.
 spindriftsndspt,git,Placeable List/273/LocName,0,14549,a2_cutraft,
 spindriftsndspt,git,Placeable List/274/LocName,0,-1,Tropical Tree02,
 spindriftsndspt,git,Placeable List/275/LocName,0,-1,TropicalTree,
@@ -8693,8 +8693,8 @@ spindriftsndspt,git,SoundList/7/LocName,0,-1,Sea Surf background,
 spindriftsndspt,git,SoundList/8/LocName,0,-1,Sea Surf background,
 spindriftsndspt,git,SoundList/9/LocName,0,-1,Sea Surf background,
 spindriftsndspt,git,TriggerList/1/LocalizedName,0,14759,trig_pirateinit,
-spindriftsndspt,git,WaypointList/0/LocalizedName,0,14817,Waypoint,
-spindriftsndspt,git,WaypointList/1/LocalizedName,0,14814,Map Note,
+spindriftsndspt,git,WaypointList/0/LocalizedName,0,14817,Waypoint,웨이포인트
+spindriftsndspt,git,WaypointList/1/LocalizedName,0,14814,Map Note,지도 설명
 spindriftsndspt,git,WaypointList/1/MapNote,0,14815,Town Gate,
 spindriftsndspt,git,WaypointList/10/LocalizedName,0,-1,cs_wp,
 spindriftsndspt,git,WaypointList/11/LocalizedName,0,-1,cs_wp,
@@ -8706,7 +8706,7 @@ spindriftsndspt,git,WaypointList/16/LocalizedName,0,-1,cs_wp,
 spindriftsndspt,git,WaypointList/17/LocalizedName,0,-1,cs_wp,
 spindriftsndspt,git,WaypointList/18/LocalizedName,0,-1,cs_wp,
 spindriftsndspt,git,WaypointList/19/LocalizedName,0,-1,cs_camera_pos_1,
-spindriftsndspt,git,WaypointList/2/LocalizedName,0,14814,Map Note,
+spindriftsndspt,git,WaypointList/2/LocalizedName,0,14814,Map Note,지도 설명
 spindriftsndspt,git,WaypointList/2/MapNote,0,14815,Lighthouse,
 spindriftsndspt,git,WaypointList/20/LocalizedName,0,-1,cs_camera_pos_4,
 spindriftsndspt,git,WaypointList/21/LocalizedName,0,14817,Treasure Waypoint,
@@ -8750,7 +8750,7 @@ spindriftswrs,git,Creature List/0/ItemList/0/DescIdentified,0,-1,This glob of sm
 spindriftswrs,git,Creature List/0/ItemList/0/LocalizedName,0,-1,Ichor,
 spindriftswrs,git,Creature List/0/ItemList/1/DescIdentified,0,-1,This glob of smelly ichor sticks to your fingers as you handle it. You wonder if it has any particular use.,
 spindriftswrs,git,Creature List/0/ItemList/1/LocalizedName,0,-1,Ichor,
-spindriftswrs,git,Door List/6/LocName,0,5349,Door,
+spindriftswrs,git,Door List/6/LocName,0,5349,Door,문
 spindriftswrs,git,Encounter List/0/LocalizedName,0,-1,Ooze Encounter,
 spindriftswrs,git,Encounter List/1/LocalizedName,0,-1,Sewer Encounters Insects,
 spindriftswrs,git,Encounter List/2/LocalizedName,0,-1,Ooze Encounter,
@@ -9155,7 +9155,7 @@ spindrifttmplmrl,git,Placeable List/148/ItemList/1/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/148/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindrifttmplmrl,git,Placeable List/148/ItemList/2/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/148/LocName,0,-1,Sea Throne,
-spindrifttmplmrl,git,Placeable List/149/Description,0,14575,"A dizzying array of written works, each catalogued according to some fashion you cannot fathom. A number of them appear to be written in foreign tongues altogether.",
+spindrifttmplmrl,git,Placeable List/149/Description,0,14575,"A dizzying array of written works, each catalogued according to some fashion you cannot fathom. A number of them appear to be written in foreign tongues altogether.",아찔하게 많은 저작물 각각이 당신이 헤아릴 수없는 방식으로 분류되어 있습니다. 이 중 다수는 전체를 외국어로 작성한 것으로 보입니다.
 spindrifttmplmrl,git,Placeable List/149/ItemList/0/DescIdentified,0,-1,"In his heyday, Governor Blackeye captured a king's ransom in Maztican silver. What he didn't spend on building Spindrift Town, he buried in the island's sands. You've found a portion of his fabled treasure map but it's not enough to give you your bearings. 
 
 If you find all four fragments of Blackeye's map, use any one of them to piece together the whole.",
@@ -9180,7 +9180,7 @@ spindrifttmplmrl,git,Placeable List/157/ItemList/1/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/157/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindrifttmplmrl,git,Placeable List/157/ItemList/2/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/157/LocName,0,-1,Sea Shell,
-spindrifttmplmrl,git,Placeable List/16/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/16/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/16/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/161/Description,0,-1,"You hold the conch shell up to your ear, eager to hear the sea...",
 spindrifttmplmrl,git,Placeable List/161/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -9222,7 +9222,7 @@ spindrifttmplmrl,git,Placeable List/166/ItemList/1/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/166/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindrifttmplmrl,git,Placeable List/166/ItemList/2/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/166/LocName,0,-1,Puddle,
-spindrifttmplmrl,git,Placeable List/17/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/17/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/17/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/174/Description,0,-1,"It's a nice enough chest, you reckon, but not the sort you'd want to trust your favorite treasures to...",
 spindrifttmplmrl,git,Placeable List/174/LocName,0,-1,Mid-Sized Chest,
@@ -9288,7 +9288,7 @@ spindrifttmplmrl,git,Placeable List/184/ItemList/1/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/184/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindrifttmplmrl,git,Placeable List/184/ItemList/2/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/184/LocName,0,-1,Floating Candle,
-spindrifttmplmrl,git,Placeable List/186/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/186/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/186/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/187/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/187/LocName,0,-1,Kelp 1 Large,
@@ -9300,7 +9300,7 @@ spindrifttmplmrl,git,Placeable List/188/ItemList/1/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/188/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindrifttmplmrl,git,Placeable List/188/ItemList/2/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/188/LocName,0,-1,Barnacle-Covered Obelisk,
-spindrifttmplmrl,git,Placeable List/19/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/19/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/19/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/194/Description,0,-1,"You gaze at your reflection in the puddle. You look pretty good today, all things considered.",
 spindrifttmplmrl,git,Placeable List/194/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -9337,7 +9337,7 @@ spindrifttmplmrl,git,Placeable List/200/ItemList/1/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/200/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindrifttmplmrl,git,Placeable List/200/ItemList/2/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/200/LocName,0,-1,Puddle,
-spindrifttmplmrl,git,Placeable List/201/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/201/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/201/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/202/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/202/LocName,0,-1,Kelp 1 Large,
@@ -9350,7 +9350,7 @@ spindrifttmplmrl,git,Placeable List/205/ItemList/1/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/205/ItemList/2/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindrifttmplmrl,git,Placeable List/205/ItemList/2/LocalizedName,0,-1,Tinder,
 spindrifttmplmrl,git,Placeable List/205/LocName,0,-1,Sea Throne,
-spindrifttmplmrl,git,Placeable List/21/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/21/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/21/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/215/Description,0,14540,"The parting waves painted onto the barnacle-encrusted stone mark this as a shrine to the sea goddess, Umberlee.",
 spindrifttmplmrl,git,Placeable List/215/ItemList/0/DescIdentified,0,-1,This scepter plays an occasional ceremonial role within the Umberlant temple on Spindrift Island. The Sisters use it to bless newly wedded couples and to perform burials at sea. Both are common enough occurences that its absence will not go unnoticed for very long.,
@@ -9382,47 +9382,47 @@ spindrifttmplmrl,git,Placeable List/221/Description,0,14540,"The parting waves p
 spindrifttmplmrl,git,Placeable List/221/ItemList/0/DescIdentified,0,-1,This scepter plays an occasional ceremonial role within the Umberlant temple on Spindrift Island. The Sisters use it to bless newly wedded couples and to perform burials at sea. Both are common enough occurences that its absence will not go unnoticed for very long.,
 spindrifttmplmrl,git,Placeable List/221/ItemList/0/LocalizedName,0,-1,Scepter of Storms,
 spindrifttmplmrl,git,Placeable List/221/LocName,0,14541,Umberlant Shrine,
-spindrifttmplmrl,git,Placeable List/23/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/23/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/23/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/24/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/24/LocName,0,-1,Kelp 3 Large,
-spindrifttmplmrl,git,Placeable List/25/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/25/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/25/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/26/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/26/LocName,0,-1,Kelp 1 Large,
-spindrifttmplmrl,git,Placeable List/27/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/27/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/27/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/28/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/28/LocName,0,-1,Kelp 3 Large,
 spindrifttmplmrl,git,Placeable List/29/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/29/LocName,0,-1,Kelp 2 Large,
-spindrifttmplmrl,git,Placeable List/30/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/30/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/30/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/31/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/31/LocName,0,-1,Kelp 2 Large,
-spindrifttmplmrl,git,Placeable List/32/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/32/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/32/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/33/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/33/LocName,0,-1,Kelp 2 Large,
-spindrifttmplmrl,git,Placeable List/34/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/34/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/34/LocName,0,5704,Sacred Pool,
-spindrifttmplmrl,git,Placeable List/35/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/35/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/35/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/36/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/36/LocName,0,-1,Kelp 1 Large,
-spindrifttmplmrl,git,Placeable List/37/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/37/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/37/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/38/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/38/LocName,0,-1,Kelp 1 Large,
-spindrifttmplmrl,git,Placeable List/39/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/39/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/39/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/40/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/40/LocName,0,-1,Kelp 3 Large,
-spindrifttmplmrl,git,Placeable List/41/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/41/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/41/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/42/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/42/LocName,0,-1,Kelp 3 Large,
-spindrifttmplmrl,git,Placeable List/43/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,
+spindrifttmplmrl,git,Placeable List/43/Description,0,64111,The marble is smooth and cool to the touch. This pool is where important items that have been lost appear.,대리석은 매끄럽고 만지면 차갑습니다. 이 웅덩이는 잃어버린 중요한 물건들이 나타나는 곳입니다.
 spindrifttmplmrl,git,Placeable List/43/LocName,0,5704,Sacred Pool,
 spindrifttmplmrl,git,Placeable List/44/Description,0,-1,The kelp sways gently in the ocean current.,
 spindrifttmplmrl,git,Placeable List/44/LocName,0,-1,Kelp 1 Large,
@@ -9563,7 +9563,7 @@ spindrifttmplmrl,git,Placeable List/99/LocName,0,-1,Sea Shell,
 spindrifttmplmrl,git,WaypointList/0/LocalizedName,0,14817,Treasure Waypoint,
 spindrifttmplmrl,git,WaypointList/1/LocalizedName,0,14817,Treasure Waypoint,
 spindrifttmplmrl,git,WaypointList/2/LocalizedName,0,14817,Treasure Waypoint,
-spindrifttmplmrl,git,WaypointList/24/LocalizedName,0,14814,Map Note,
+spindrifttmplmrl,git,WaypointList/24/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttmplmrl,git,WaypointList/24/MapNote,0,14815,Rope to the Sewers,
 spindrifttmplmrl,git,WaypointList/25/LocalizedName,0,14814,Sewer Exit,
 spindrifttmplmrl,git,WaypointList/25/MapNote,0,14815,To Spindrift: Sewers,
@@ -9619,13 +9619,13 @@ spindrifttwn,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,NPC: Umberl
 spindrifttwn,git,Creature List/8/FirstName,0,-1,Umberlant Acolyte,
 spindrifttwn,git,Door List/0/LocName,0,5349,Gate,
 spindrifttwn,git,Door List/1/LocName,0,5349,Oak Door,
-spindrifttwn,git,Door List/10/LocName,0,5349,Door,
-spindrifttwn,git,Door List/4/LocName,0,5349,Door,
+spindrifttwn,git,Door List/10/LocName,0,5349,Door,문
+spindrifttwn,git,Door List/4/LocName,0,5349,Door,문
 spindrifttwn,git,Door List/5/LocName,0,5349,Rusted Door,
 spindrifttwn,git,Door List/6/LocName,0,5349,Rusted Door,
 spindrifttwn,git,Door List/7/LocName,0,5349,Rusted Door,
 spindrifttwn,git,Door List/8/LocName,0,5349,Rusted Door,
-spindrifttwn,git,Door List/9/LocName,0,5349,Door,
+spindrifttwn,git,Door List/9/LocName,0,5349,Door,문
 spindrifttwn,git,Placeable List/0/LocName,0,14561,The Monkey's Cutlass Tavern,
 spindrifttwn,git,Placeable List/105/Description,0,-1,This starfish has one more arm than you were expecting...,
 spindrifttwn,git,Placeable List/105/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -10257,7 +10257,7 @@ spindrifttwn,git,Placeable List/263/Description,0,-1,"Palm fronds sway in the tr
 spindrifttwn,git,Placeable List/263/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindrifttwn,git,Placeable List/263/ItemList/0/LocalizedName,0,-1,Tinder,
 spindrifttwn,git,Placeable List/263/LocName,0,-1,Palm Tree,
-spindrifttwn,git,Placeable List/264/Description,0,68964,"A grate set into the floor, made of wood.",
+spindrifttwn,git,Placeable List/264/Description,0,68964,"A grate set into the floor, made of wood.",바닥에 설치된 나무 격자입니다.
 spindrifttwn,git,Placeable List/28/Description,0,14540,"The parting waves painted onto the barnacle-encrusted stone mark this as a shrine to the sea goddess, Umberlee.",
 spindrifttwn,git,Placeable List/28/ItemList/0/DescIdentified,0,-1,This scepter plays an occasional ceremonial role within the Umberlant temple on Spindrift Island. The Sisters use it to bless newly wedded couples and to perform burials at sea. Both are common enough occurences that its absence will not go unnoticed for very long.,
 spindrifttwn,git,Placeable List/28/ItemList/0/LocalizedName,0,-1,Scepter of Storms,
@@ -10609,17 +10609,17 @@ spindrifttwn,git,WaypointList/15/LocalizedName,0,14817,Treasure Waypoint,
 spindrifttwn,git,WaypointList/16/LocalizedName,0,14817,Treasure Waypoint,
 spindrifttwn,git,WaypointList/17/LocalizedName,0,14817,Treasure Waypoint,
 spindrifttwn,git,WaypointList/18/LocalizedName,0,14817,PoTSC Respawn Point,
-spindrifttwn,git,WaypointList/19/LocalizedName,0,14814,Map Note,
+spindrifttwn,git,WaypointList/19/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttwn,git,WaypointList/19/MapNote,0,14815,Governer Blackbeard's Manor,
-spindrifttwn,git,WaypointList/2/LocalizedName,0,14814,Map Note,
+spindrifttwn,git,WaypointList/2/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttwn,git,WaypointList/2/MapNote,0,14815,Prugdush's World of Weapons,
-spindrifttwn,git,WaypointList/20/LocalizedName,0,14814,Map Note,
+spindrifttwn,git,WaypointList/20/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttwn,git,WaypointList/20/MapNote,0,14815,Sandy Spit,
-spindrifttwn,git,WaypointList/21/LocalizedName,0,14814,Map Note,
+spindrifttwn,git,WaypointList/21/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttwn,git,WaypointList/21/MapNote,0,14815,Temple of Umberlee,
 spindrifttwn,git,WaypointList/22/LocalizedName,0,14814,Sewer Exit,
 spindrifttwn,git,WaypointList/22/MapNote,0,14815,To Spindrift: Sewers,
-spindrifttwn,git,WaypointList/23/LocalizedName,0,14814,Map Note,
+spindrifttwn,git,WaypointList/23/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttwn,git,WaypointList/23/MapNote,0,14815,Whipped Willigan's Manor,
 spindrifttwn,git,WaypointList/24/LocalizedName,0,14814,Governor Blackeye's Manor,
 spindrifttwn,git,WaypointList/24/MapNote,0,14815,Governor Blackeye's Manor,
@@ -10633,7 +10633,7 @@ spindrifttwn,git,WaypointList/28/LocalizedName,0,14814,Shop: Cartographer,
 spindrifttwn,git,WaypointList/28/MapNote,0,14815,Map Vendor,
 spindrifttwn,git,WaypointList/29/LocalizedName,0,14814,Temple of Umberlee,
 spindrifttwn,git,WaypointList/29/MapNote,0,14815,Temple of Umberlee,
-spindrifttwn,git,WaypointList/3/LocalizedName,0,14814,Map Note,
+spindrifttwn,git,WaypointList/3/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttwn,git,WaypointList/3/MapNote,0,14815,The Skull & Bones,
 spindrifttwn,git,WaypointList/30/LocalizedName,0,14814,The Monkey's Cutlass,
 spindrifttwn,git,WaypointList/30/MapNote,0,14815,The Monkey's Cutlass Tavern,
@@ -10648,9 +10648,9 @@ spindrifttwn,git,WaypointList/34/MapNote,0,14815,To Spindrift: Sandy Spit,
 spindrifttwn,git,WaypointList/35/LocalizedName,0,14814,Prugdush Smithy,
 spindrifttwn,git,WaypointList/35/MapNote,0,14815,Prugdush's World of Weapons,
 spindrifttwn,git,WaypointList/4/MapNote,0,14815,Warehouse,
-spindrifttwn,git,WaypointList/5/LocalizedName,0,14814,Map Note,
+spindrifttwn,git,WaypointList/5/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttwn,git,WaypointList/5/MapNote,0,14815,Grogbeard's Rumrunning Ladder,
-spindrifttwn,git,WaypointList/6/LocalizedName,0,14814,Map Note,
+spindrifttwn,git,WaypointList/6/LocalizedName,0,14814,Map Note,지도 설명
 spindrifttwn,git,WaypointList/6/MapNote,0,14815,Falstaff's Follies Tattoo Parlor,
 spindrifttwn,git,WaypointList/7/LocalizedName,0,-1,cs_wp,
 spindrifttwn,git,WaypointList/8/LocalizedName,0,14817,Treasure Waypoint,
@@ -10666,7 +10666,7 @@ spindriftwlgnmnr,git,Creature List/1/FirstName,0,-1,Fanny Blackeye's Sister,
 spindriftwlgnmnr,git,Creature List/2/Description,0,-1,Whipped Willigan's sister-in-law seems... bigger than you imagined.,
 spindriftwlgnmnr,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,13854,NPC: Fanny's Sisters' Dress,
 spindriftwlgnmnr,git,Creature List/2/FirstName,0,-1,Fanny Blackeye's Sister,
-spindriftwlgnmnr,git,Door List/5/LocName,0,5349,Door,
+spindriftwlgnmnr,git,Door List/5/LocName,0,5349,Door,문
 spindriftwlgnmnr,git,Placeable List/100/Description,0,-1,This starfish has one more arm than you were expecting...,
 spindriftwlgnmnr,git,Placeable List/100/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 spindriftwlgnmnr,git,Placeable List/100/ItemList/0/LocalizedName,0,-1,Tinder,
@@ -11010,19 +11010,19 @@ spindriftwrhs,git,Creature List/2/ItemList/0/LocalizedName,0,14375,Pirate's Cutl
 spindriftwrhs,git,Creature List/3/Description,0,-1,"Gretchen the Hun strikes you as a swarthy and able fighter. Personal hygiene, however, appears to be lower on her list of priorities. ",
 spindriftwrhs,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,NPC: Pirate Clothes (Blue),
 spindriftwrhs,git,Creature List/3/FirstName,0,-1,Gretchen the Hun,
-spindriftwrhs,git,Creature List/4/FirstName,0,10526,Dire Wolf,
-spindriftwrhs,git,Creature List/5/FirstName,0,5991,Panther,
+spindriftwrhs,git,Creature List/4/FirstName,0,10526,Dire Wolf,흉포한 늑대
+spindriftwrhs,git,Creature List/5/FirstName,0,5991,Panther,표범
 spindriftwrhs,git,Creature List/6/Description,0,-1,Redtip flexes his muscles in a convincing display of power.,
 spindriftwrhs,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,66579,NPC: Redtip's Arena Hide,
 spindriftwrhs,git,Creature List/6/FirstName,0,-1,Redtip,
-spindriftwrhs,git,Door List/0/LocName,0,5349,Door,
+spindriftwrhs,git,Door List/0/LocName,0,5349,Door,문
 spindriftwrhs,git,Placeable List/13/LocName,0,68922,Stone Grate,
 spindriftwrhs,git,Placeable List/14/Description,0,14694,This here grate belongs to You-Know-Who. No trespassin' allowed or I'll kellhaul the lot o' you...,
 spindriftwrhs,git,Placeable List/14/LocName,0,14688,No Trespassing,
-spindriftwrhs,git,Placeable List/15/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,
-spindriftwrhs,git,Placeable List/15/LocName,0,14643,Torch Bracket,
-spindriftwrhs,git,Placeable List/5/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,
-spindriftwrhs,git,Placeable List/5/LocName,0,14643,Torch Bracket,
+spindriftwrhs,git,Placeable List/15/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,횃불이 주변을 따뜻하게 칠하고 있습니다. 당신은 그 불빛에 감사하는 자신을 발견합니다.
+spindriftwrhs,git,Placeable List/15/LocName,0,14643,Torch Bracket,횃불 걸이
+spindriftwrhs,git,Placeable List/5/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,횃불이 주변을 따뜻하게 칠하고 있습니다. 당신은 그 불빛에 감사하는 자신을 발견합니다.
+spindriftwrhs,git,Placeable List/5/LocName,0,14643,Torch Bracket,횃불 걸이
 spindriftwrhs,git,WaypointList/0/LocalizedName,0,-1,cs_camera_pos_1,
 spindriftwrhs,git,WaypointList/1/LocalizedName,0,-1,cs_camera_pos_2,
 spindriftwrhs,git,WaypointList/17/MapNote,0,14815,Sewer Entrance,
@@ -11046,14 +11046,14 @@ spindriftwrhs,git,WaypointList/8/LocalizedName,0,-1,cs_wp,
 spindriftwrldwpn,git,Creature List/0/Description,0,-1,This muscular sahuagin seems perfectly at ease toiling over the swelteringly hot forge.,
 spindriftwrldwpn,git,Creature List/0/FirstName,0,-1,Prugdush,
 spindriftwrldwpn,git,Creature List/0/LastName,0,-1,Glurp,
-spindriftwrldwpn,git,Door List/0/LocName,0,5349,Door,
+spindriftwrldwpn,git,Door List/0/LocName,0,5349,Door,문
 spindriftwrldwpn,git,Placeable List/11/Description,0,14662,This is Prugdush's forge.,
 spindriftwrldwpn,git,Placeable List/11/LocName,0,5800,Prugdush's Forge,
-spindriftwrldwpn,git,Placeable List/4/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
-spindriftwrldwpn,git,Placeable List/4/LocName,0,5691,Barrel,
-spindriftwrldwpn,git,Placeable List/5/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
-spindriftwrldwpn,git,Placeable List/5/LocName,0,5691,Barrel,
-spindriftwrldwpn,git,Placeable List/6/Description,0,14662,"You look about you, suspicious, but see nothing.",
+spindriftwrldwpn,git,Placeable List/4/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
+spindriftwrldwpn,git,Placeable List/4/LocName,0,5691,Barrel,통
+spindriftwrldwpn,git,Placeable List/5/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
+spindriftwrldwpn,git,Placeable List/5/LocName,0,5691,Barrel,통
+spindriftwrldwpn,git,Placeable List/6/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 spindriftwrldwpn,git,Placeable List/6/LocName,0,5800,PrugdushAnvil,
 spindriftwrldwpn,git,Placeable List/7/Description,0,-1,"You gaze at your reflection in the puddle. You look pretty good today, all things considered.",
 spindriftwrldwpn,git,Placeable List/7/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
@@ -11087,7 +11087,7 @@ spindriftwrldwpn,git,WaypointList/1/LocalizedName,0,14814,Prugdush's Forge,
 spindriftwrldwpn,git,WaypointList/1/MapNote,0,14815,Prugdush's Forge,
 stormybeachdrkcv,git,Placeable List/1/Description,0,84171,An old fire pit.,
 stormybeachdrkcv,git,Placeable List/1/LocName,0,83425,Fire Pit,
-stormybeachdrkcv,git,Placeable List/2/Description,0,66888,A sad pile of humanoid bones lay on the ground.,
+stormybeachdrkcv,git,Placeable List/2/Description,0,66888,A sad pile of humanoid bones lay on the ground.,슬픈 인간형 뼈 무더기가 땅에 놓여 있습니다.
 stormybeachdrkcv,git,Placeable List/2/ItemList/0/DescIdentified,0,-1,"Journal Entry - Day 1:
    Storm-driven, the Widow's Promise foundered on unseen shoals during the night, tearing her asunder. I somehow managed to find shore amidst the tumult of the waves and am now stranded on this forsaken isle.
 -----
@@ -11487,7 +11487,7 @@ templeofumberlee,git,Placeable List/9/ItemList/2/DescIdentified,0,-1,"This is a 
 templeofumberlee,git,Placeable List/9/ItemList/2/LocalizedName,0,-1,Tinder,
 templeofumberlee,git,Placeable List/9/LocName,0,-1,Fishing Net,
 templeofumberlee,git,TriggerList/0/LocalizedName,0,14759,Henchman Popup Trigger: A2_STORMCALL,
-templeofumberlee,git,TriggerList/2/LocalizedName,0,14759,New Generic,
+templeofumberlee,git,TriggerList/2/LocalizedName,0,14759,New Generic,새 일반
 templeofumberlee,git,WaypointList/1/LocalizedName,0,-1,cs_wp,
 templeofumberlee,git,WaypointList/10/LocalizedName,0,-1,cs_wp,
 templeofumberlee,git,WaypointList/11/LocalizedName,0,-1,cs_wp,
@@ -11683,7 +11683,7 @@ troglodytestrong,git,Creature List/9/FirstName,0,-1,Troglodyte Guard,
 troglodytestrong,git,Creature List/9/ItemList/0/DescIdentified,0,-1,"This crude shortbow has been fashioned from catgut and driftwood. While hardly supple, it still has enough spring to launch an arrow.",
 troglodytestrong,git,Creature List/9/ItemList/0/LocalizedName,0,-1,Crude Bow,
 troglodytestrong,git,Door List/0/LocName,0,5349,Cave Exit,
-troglodytestrong,git,Door List/1/LocName,0,5349,Door,
+troglodytestrong,git,Door List/1/LocName,0,5349,Door,문
 troglodytestrong,git,Placeable List/0/LocName,0,-1,Troglodyte Throne,
 troglodytestrong,git,Placeable List/1/Description,0,14662,"The troglodytes have pulled the nails out of this section of the ship, preparing it for the sacred fire.",
 troglodytestrong,git,Placeable List/1/ItemList/0/DescIdentified,0,-1,This weathered planking has been torn from the remains of an old shipwreck. The troglodytes on this island consider the wood to be sacred and use it to feed their mighty bonfires.,
@@ -11734,21 +11734,21 @@ troglodytestrong,git,Placeable List/119/Description,0,-1,This egg is large and h
 troglodytestrong,git,Placeable List/119/ItemList/0/DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
 troglodytestrong,git,Placeable List/119/ItemList/0/LocalizedName,0,-1,Tinder,
 troglodytestrong,git,Placeable List/119/LocName,0,-1,Egg,
-troglodytestrong,git,Placeable List/124/Description,0,14662,"You look about you, suspicious, but see nothing.",
+troglodytestrong,git,Placeable List/124/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 troglodytestrong,git,Placeable List/124/LocName,0,5800,TROGLODYTE NEUTRAL FACTION (DO NOT DESTROY AGAIN),
 troglodytestrong,git,Placeable List/19/LocName,0,68910,Sssacred Fire - Do Not Extinguisssh,
-troglodytestrong,git,Placeable List/2/Description,0,14662,"You look about you, suspicious, but see nothing.",
+troglodytestrong,git,Placeable List/2/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 troglodytestrong,git,Placeable List/2/LocName,0,5800,Trog Hostile Faction,
 troglodytestrong,git,Placeable List/20/LocName,0,-1,Trog Shrine,
 troglodytestrong,git,Placeable List/24/Description,0,14662,"The troglodyte's sacred fire is a gift from the warmblood goddess, protecting them from the cave's chills.",
 troglodytestrong,git,Placeable List/24/LocName,0,5800,Sacred Fire,
-troglodytestrong,git,Placeable List/26/Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",
+troglodytestrong,git,Placeable List/26/Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",불이 맹렬한 열기로 모든 것을 먹어 치우며 탁탁 소리와 함께 타오릅니다.
 troglodytestrong,git,Placeable List/26/LocName,0,14625,Large Flame,
-troglodytestrong,git,Placeable List/27/Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",
+troglodytestrong,git,Placeable List/27/Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",불이 맹렬한 열기로 모든 것을 먹어 치우며 탁탁 소리와 함께 타오릅니다.
 troglodytestrong,git,Placeable List/27/LocName,0,14625,Large Flame,
-troglodytestrong,git,Placeable List/28/Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",
+troglodytestrong,git,Placeable List/28/Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",불이 맹렬한 열기로 모든 것을 먹어 치우며 탁탁 소리와 함께 타오릅니다.
 troglodytestrong,git,Placeable List/28/LocName,0,14625,Large Flame,
-troglodytestrong,git,Placeable List/29/Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",
+troglodytestrong,git,Placeable List/29/Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",불이 맹렬한 열기로 모든 것을 먹어 치우며 탁탁 소리와 함께 타오릅니다.
 troglodytestrong,git,Placeable List/29/LocName,0,14625,Large Flame,
 troglodytestrong,git,Placeable List/3/LocName,0,5800,Trog Neutral Faction,
 troglodytestrong,git,Placeable List/31/Description,0,68814,This misshapen tin bucket seems intended for carrying drinking water.,
@@ -11840,7 +11840,7 @@ tropicalislandju,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,The ti
 tropicalislandju,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,Fire-Hardened Spear,
 tropicalislandju,git,Door List/0/LocName,0,5349,Bloody Stone Door,
 tropicalislandju,git,Door List/1/LocName,0,5349,Stone Passage,
-tropicalislandju,git,Door List/2/LocName,0,5349,Door,
+tropicalislandju,git,Door List/2/LocName,0,5349,Door,문
 tropicalislandju,git,Encounter List/0/LocalizedName,0,-1,Boar Encounter,
 tropicalislandju,git,Encounter List/1/LocalizedName,0,-1,Boar Encounter,
 tropicalislandju,git,Encounter List/2/LocalizedName,0,-1,Boar Encounter,
@@ -12228,24 +12228,24 @@ tropicalislandju,git,Placeable List/183/ItemList/0/LocalizedName,0,-1,Tinder,
 tropicalislandju,git,Placeable List/183/LocName,0,-1,Palm Tree,
 tropicalislandju,git,Placeable List/184/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 tropicalislandju,git,Placeable List/184/ItemList/0/LocalizedName,0,-1,Stone,
-tropicalislandju,git,Placeable List/184/LocName,0,52998,Boulder,
+tropicalislandju,git,Placeable List/184/LocName,0,52998,Boulder,바위
 tropicalislandju,git,Placeable List/185/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 tropicalislandju,git,Placeable List/185/ItemList/0/LocalizedName,0,-1,Stone,
-tropicalislandju,git,Placeable List/185/LocName,0,52998,Boulder,
+tropicalislandju,git,Placeable List/185/LocName,0,52998,Boulder,바위
 tropicalislandju,git,Placeable List/186/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 tropicalislandju,git,Placeable List/186/ItemList/0/LocalizedName,0,-1,Stone,
-tropicalislandju,git,Placeable List/186/LocName,0,52998,Boulder,
+tropicalislandju,git,Placeable List/186/LocName,0,52998,Boulder,바위
 tropicalislandju,git,Placeable List/187/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 tropicalislandju,git,Placeable List/187/ItemList/0/LocalizedName,0,-1,Stone,
-tropicalislandju,git,Placeable List/187/LocName,0,52998,Boulder,
+tropicalislandju,git,Placeable List/187/LocName,0,52998,Boulder,바위
 tropicalislandju,git,Placeable List/188/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 tropicalislandju,git,Placeable List/188/ItemList/0/LocalizedName,0,-1,Stone,
-tropicalislandju,git,Placeable List/188/LocName,0,52998,Boulder,
+tropicalislandju,git,Placeable List/188/LocName,0,52998,Boulder,바위
 tropicalislandju,git,Placeable List/189/ItemList/0/DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
 tropicalislandju,git,Placeable List/189/ItemList/0/LocalizedName,0,-1,Stone,
-tropicalislandju,git,Placeable List/189/LocName,0,52998,Boulder,
+tropicalislandju,git,Placeable List/189/LocName,0,52998,Boulder,바위
 tropicalislandju,git,Placeable List/30/Description,0,66888,A sad pile of humanoid bones lies on the ground.  They appear almost petrified with age.,
-tropicalislandju,git,Placeable List/30/LocName,0,52997,Bones,
+tropicalislandju,git,Placeable List/30/LocName,0,52997,Bones,뼈
 tropicalislandju,git,Placeable List/37/LocName,0,5800,oWP_PALMTR,
 tropicalislandju,git,Placeable List/38/LocName,0,5800,oWP_PALMTR,
 tropicalislandju,git,Placeable List/39/LocName,0,5800,a1_CutTarg02,
@@ -12473,7 +12473,7 @@ tropicalislandju,git,SoundList/12/LocName,0,-1,Stream Soft,
 tropicalislandju,git,SoundList/13/LocName,0,-1,Stream Soft,
 tropicalislandju,git,SoundList/14/LocName,0,-1,Stream Soft,
 tropicalislandju,git,SoundList/15/LocName,0,-1,Stream Soft,
-tropicalislandju,git,TriggerList/1/LocalizedName,0,14759,New Generic,
+tropicalislandju,git,TriggerList/1/LocalizedName,0,14759,New Generic,새 일반
 tropicalislandju,git,TriggerList/2/LocalizedName,0,14759,Henchman Popup Trigger: A1_TROGCAVE,
 tropicalislandju,git,WaypointList/0/LocalizedName,0,14817,Fire Demon,
 tropicalislandju,git,WaypointList/1/LocalizedName,0,14817,wp_clone02,

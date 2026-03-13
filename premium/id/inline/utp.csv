@@ -1,10 +1,10 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 arrow_plc,utp,LocName,0,14629,Arrow,
 bluearrow,utp,LocName,0,-1,Blue Arrow,
-bossitemmarker,utp,Description,0,14720,A searing shaft of cyan light descends from some unseen place above.,
+bossitemmarker,utp,Description,0,14720,A searing shaft of cyan light descends from some unseen place above.,청록 빛의 불태우는 줄기가 보이지도 않는 위에서 내려옵니다.
 bossitemmarker,utp,LocName,0,14719,BossItemMarker,
-brazier_plc,utp,Description,0,14579,"The brazier gives off a hot glow. As you reach toward it, you can feel beads of sweat forming on the palm of your hand.",
-catalogspeaker,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+brazier_plc,utp,Description,0,14579,"The brazier gives off a hot glow. As you reach toward it, you can feel beads of sweat forming on the palm of your hand.",화로가 뜨겁게 타고 있습니다. 손을 뻗으면 손바닥에 땀방울이 맺히는 것을 느낄 수 있습니다.
+catalogspeaker,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 catalogspeaker,utp,LocName,0,5800,Catalog,
 color_plc_1,utp,LocName,0,5800,Blue Rune,
 color_plc_2,utp,LocName,0,5800,Cyan Rune,
@@ -15,7 +15,7 @@ color_plc_6,utp,LocName,0,5800,Red Rune,
 color_plc_7,utp,LocName,0,5800,White Rune,
 color_plc_8,utp,LocName,0,5800,Yellow Rune,
 cpu,utp,LocName,0,5800,CPU,
-crystal_plc,utp,Description,0,84183,From the orb's cold crystal surface a deformed reflection of yourself is staring back at you.,
+crystal_plc,utp,Description,0,84183,From the orb's cold crystal surface a deformed reflection of yourself is staring back at you.,구체의 차가운 수정 표면에서 일그러진 자신의 모습이 당신을 응시합니다.
 crystal_plc,utp,LocName,0,83438,Summoning Crystal,
 crystalmech,utp,LocName,0,84569,Crystal Mechanism,
 globe_plc,utp,LocName,0,84569,Crystal Globe,
@@ -38,11 +38,11 @@ id1_con012,utp,LocName,0,-1,Chest,
 id1_con013,utp,LocName,0,-1,Chest,
 id1_con014,utp,LocName,0,-1,Sacks,
 id1_corpse_plc,utp,LocName,0,5763,Pile of Corpses,
-id1_gzboulder,utp,Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
+id1_gzboulder,utp,Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
 id1_gzbtel,utp,LocName,0,-1,Teleporter to G'Zhorb's Pit,
 id1_gzhorb_chasm,utp,LocName,0,5800,Falling Rock,
 id1_hagtel,utp,LocName,0,-1,Teleporter to Widow Hagatha's Home,
-id1_halasterport,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,
+id1_halasterport,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,차원문이 당신 앞에서 은은하게 빛나고 있습니다. 당신은 차원문이 어디로 이어지는지 궁금합니다.
 id1_haltel,utp,LocName,0,-1,Teleporter to Halaster's Domain,
 id1_hartel,utp,LocName,0,-1,Teleporter to Harat's Sanctum,
 id1_magtel,utp,LocName,0,-1,Teleporter to Maggris' Hive,
@@ -328,20 +328,20 @@ id1_plotplc031,utp,Description,0,-1,There is something different about this urn.
 id1_plotplc031,utp,LocName,0,-1,Urn,
 id1_plotplc032,utp,Description,0,-1,This well seems to be in good shape and looks like it is used frequently.,
 id1_plotplc032,utp,LocName,0,-1,Well,
-id1_puzport,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,
+id1_puzport,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,차원문이 당신 앞에서 은은하게 빛나고 있습니다. 당신은 차원문이 어디로 이어지는지 궁금합니다.
 id1_puzport,utp,LocName,0,5670,Secret Portal,
 id1_sdoor001,utp,LocName,0,-1,Secret Door,
 id1_sdoor002,utp,LocName,0,-1,Secret Door,
 id1_sdoor003,utp,LocName,0,-1,Secret Door,
 id1_skullpole,utp,LocName,0,68910,Skull Totem,
-interact_plc,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+interact_plc,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 interact_plc,utp,LocName,0,5800,Arrow,
 inventory,utp,LocName,0,5800,Inventory,
 lever,utp,LocName,0,-1,Lever,
 map,utp,LocName,0,5800,Map,
-node_plc,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+node_plc,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 node_plc,utp,LocName,0,5800,Termination Node,
-pedastel_plc,utp,LocName,0,5718,Pedestal,
+pedastel_plc,utp,LocName,0,5718,Pedestal,받침대
 phl_switch_plc,utp,LocName,0,14704,Activation Switch,
 pillar_plc_1,utp,LocName,0,68900,Blue Rune Pillar,
 pillar_plc_2,utp,LocName,0,68900,Cyan Rune Pillar,
@@ -365,7 +365,7 @@ rune_plc_5,utp,LocName,0,14704,Switch,
 rune_plc_7,utp,LocName,0,14704,Switch,
 rune_plc_9,utp,LocName,0,14704,Switch,
 solblue,utp,LocName,0,14719,Blue Shaft of Light,
-solcyan,utp,Description,0,14720,A searing shaft of cyan light descends from some unseen place above.,
+solcyan,utp,Description,0,14720,A searing shaft of cyan light descends from some unseen place above.,청록 빛의 불태우는 줄기가 보이지도 않는 위에서 내려옵니다.
 solcyan,utp,LocName,0,14719,Cyan Shaft of Light,
 solgreen,utp,LocName,0,14719,Green Shaft of Light,
 solorange,utp,LocName,0,14719,Orange Shaft of Light,
@@ -375,22 +375,22 @@ solwhite,utp,LocName,0,14719,White Shaft of Light,
 solyellow,utp,LocName,0,14719,Yellow Shaft of Light,
 sparks_plc_1,utp,LocName,0,14673,Blue Sparks,
 sparks_plc_2,utp,LocName,0,14673,Cyan Sparks,
-sparks_plc_3,utp,Description,0,14675,Green sparks rise up from the ground like will-o'-wisps on cool night air.,
+sparks_plc_3,utp,Description,0,14675,Green sparks rise up from the ground like will-o'-wisps on cool night air.,녹색 스파크가 서늘한 밤 하늘의 도깨비불처럼 땅에서 솟아올랐습니다.
 sparks_plc_3,utp,LocName,0,14673,Green Sparks,
 sparks_plc_4,utp,LocName,0,14673,Orange Sparks,
-sparks_plc_5,utp,Description,0,14677,Purple sparks rise up from the ground like will-o'-wisps on cool night air.,
+sparks_plc_5,utp,Description,0,14677,Purple sparks rise up from the ground like will-o'-wisps on cool night air.,보라색 스파크가 서늘한 밤 하늘의 도깨비불처럼 땅에서 솟아올랐습니다.
 sparks_plc_5,utp,LocName,0,14673,Purple Sparks,
 sparks_plc_6,utp,LocName,0,14673,Red Sparks,
 sparks_plc_7,utp,LocName,0,14673,White Sparks,
-sparks_plc_8,utp,Description,0,14680,Golden sparks rise up from the ground like will-o'-wisps on cool night air.,
+sparks_plc_8,utp,Description,0,14680,Golden sparks rise up from the ground like will-o'-wisps on cool night air.,황금색 스파크가 서늘한 밤 하늘의 도깨비불처럼 땅에서 솟아올랐습니다.
 sparks_plc_8,utp,LocName,0,14673,Yellow Sparks,
 sphere_plc,utp,LocName,0,84569,Energized Sphere,
-statue_plc,utp,Description,0,84170,This statue depicts a humanoid creature in a worshipping pose. It must be made from some kind of stone not affected by the flames engulfing statues head and hands.,
+statue_plc,utp,Description,0,84170,This statue depicts a humanoid creature in a worshipping pose. It must be made from some kind of stone not affected by the flames engulfing statues head and hands.,이 조각상은 숭배하는 자세의 인간형 생명체를 묘사합니다. 머리와 손을 휘감는 불꽃에 영향받지 않는 돌로 만들어진 것 같습니다.
 stdown,utp,LocName,0,-1,StDown,
 stup,utp,LocName,0,-1,StUp,
-switch_plc,utp,Description,0,14579,"The brazier gives off a hot glow. As you reach toward it, you can feel beads of sweat forming on the palm of your hand.",
+switch_plc,utp,Description,0,14579,"The brazier gives off a hot glow. As you reach toward it, you can feel beads of sweat forming on the palm of your hand.",화로가 뜨겁게 타고 있습니다. 손을 뻗으면 손바닥에 땀방울이 맺히는 것을 느낄 수 있습니다.
 switchtemplate,utp,LocName,0,14704,Switch Template,
-temporaryblocker,utp,Description,0,84577,This marble bookcase is filled with dusty old tomes.,
+temporaryblocker,utp,Description,0,84577,This marble bookcase is filled with dusty old tomes.,이 대리석 책장에는 먼지 쌓인 오래된 책들이 가득합니다.
 temporaryblocker,utp,LocName,0,84564,Temporary Blocker,
 tile00,utp,LocName,0,-1,Tile00,
 tile01,utp,LocName,0,-1,Tile01,
@@ -405,4 +405,4 @@ tile09,utp,LocName,0,-1,Tile09,
 tile10,utp,LocName,0,-1,Tile10,
 tile11,utp,LocName,0,-1,Tile11,
 tile12,utp,LocName,0,-1,Tile12,
-whitesol_plc,utp,LocName,0,14719,Shaft of Light,
+whitesol_plc,utp,LocName,0,14719,Shaft of Light,빛줄기

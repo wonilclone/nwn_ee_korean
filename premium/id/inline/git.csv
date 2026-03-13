@@ -4865,7 +4865,7 @@ area066,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET,
 area066,git,WaypointList/8/LocalizedName,0,-1,WP_PUZZLE,
 area066,git,WaypointList/8/MapNote,0,-1,Camp,
 area066,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET,
-area067,git,Door List/0/LocName,0,5349,Door,
+area067,git,Door List/0/LocName,0,5349,Door,문
 area067,git,Door List/10/LocName,0,-1,Door,
 area067,git,Door List/11/LocName,0,-1,Door,
 area067,git,Door List/12/LocName,0,-1,Door,
@@ -11271,7 +11271,7 @@ area140,git,WaypointList/62/LocalizedName,0,-1,WP_SECRET_ENCOUNTER,
 area140,git,WaypointList/7/LocalizedName,0,-1,WP_SECRET_DOOR,
 area140,git,WaypointList/8/LocalizedName,0,-1,WP_SECRET_DOOR_EXIT,
 area140,git,WaypointList/9/LocalizedName,0,-1,WP_SECRET_DOOR,
-area141,git,Door List/0/LocName,0,5349,Door,
+area141,git,Door List/0/LocName,0,5349,Door,문
 area141,git,Door List/10/LocName,0,-1,Door,
 area141,git,Door List/11/LocName,0,-1,Door,
 area141,git,Door List/12/LocName,0,-1,Door,
@@ -24674,7 +24674,7 @@ dungeonentrance,git,Door List/0/LocName,0,-1,Door,
 dungeonentrance,git,Door List/2/LocName,0,5349,test2,
 dungeonentrance,git,Door List/3/LocName,0,-1,Door,
 dungeonentrance,git,Door List/4/LocName,0,5349,Dungeon Entrance,
-dungeonentrance,git,Placeable List/30/Description,0,14662,"You look about you, suspicious, but see nothing.",
+dungeonentrance,git,Placeable List/30/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 dungeonentrance,git,Placeable List/30/LocName,0,5800,Catalog,
 dungeonentrance,git,SoundList/0/LocName,0,67942,"Narrator, Scene 1, Line 1",
 dungeonentrance,git,SoundList/1/LocName,0,67942,"Narrator, Scene 1, Line 2",
@@ -24691,7 +24691,7 @@ dungeonentrance,git,WaypointList/17/LocalizedName,0,-1,cs_camera_pos_8,
 dungeonentrance,git,WaypointList/2/LocalizedName,0,-1,GZHORB_TELEPORTER,
 dungeonentrance,git,WaypointList/20/LocalizedName,0,-1,cs_camera_pos_1,
 dungeonentrance,git,WaypointList/23/LocalizedName,0,-1,cs_camera_pos_3,
-dungeonentrance,git,WaypointList/25/LocalizedName,0,14817,Waypoint,
+dungeonentrance,git,WaypointList/25/LocalizedName,0,14817,Waypoint,웨이포인트
 dungeonentrance,git,WaypointList/26/LocalizedName,0,-1,cs_camera_pos_2,
 dungeonentrance,git,WaypointList/29/LocalizedName,0,-1,cs_camera_pos_4,
 dungeonentrance,git,WaypointList/3/LocalizedName,0,-1,MAGGRIS_TELEPORTER,
@@ -24729,22 +24729,22 @@ gzhorb,git,Door List/0/LocName,0,5349,Area Door,
 gzhorb,git,Door List/1/LocName,0,5349,Area Door,
 gzhorb,git,Door List/2/LocName,0,5349,Area Door,
 gzhorb,git,Door List/3/LocName,0,5349,Area Door,
-gzhorb,git,Placeable List/113/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/114/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/115/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/116/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/117/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/118/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/119/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/120/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/121/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/122/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/123/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/124/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/125/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/126/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/127/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
-gzhorb,git,Placeable List/128/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",
+gzhorb,git,Placeable List/113/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/114/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/115/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/116/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/117/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/118/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/119/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/120/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/121/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/122/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/123/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/124/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/125/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/126/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/127/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+gzhorb,git,Placeable List/128/Description,0,66885,"A large, solid piece of granite juts out from the ground. The stone seems to be supporting a portion of the cavern's ceiling.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
 gzhorb,git,SoundList/0/LocName,0,67942,G'Zhorb-Rocks1,
 gzhorb,git,SoundList/1/LocName,0,67942,G'Zhorb-Rocks2,
 gzhorb,git,WaypointList/48/LocalizedName,0,-1,BOSS_LAIR_TELEPORTER,
@@ -24861,13 +24861,13 @@ narrator,git,WaypointList/32/LocalizedName,0,-1,cs_camera_pos_33,
 narrator,git,WaypointList/34/LocalizedName,0,-1,cs_camera_pos_51,
 narrator,git,WaypointList/37/LocalizedName,0,-1,cs_camera_pos_52,
 narrator,git,WaypointList/38/LocalizedName,0,-1,cs_camera_pos_53,
-narrator,git,WaypointList/52/LocalizedName,0,14817,Waypoint,
+narrator,git,WaypointList/52/LocalizedName,0,14817,Waypoint,웨이포인트
 narrator,git,WaypointList/52/MapNote,0,-1,Area Exit,
-narrator,git,WaypointList/53/LocalizedName,0,14817,Waypoint,
+narrator,git,WaypointList/53/LocalizedName,0,14817,Waypoint,웨이포인트
 narrator,git,WaypointList/53/MapNote,0,-1,Area Exit,
-narrator,git,WaypointList/54/LocalizedName,0,14817,Waypoint,
+narrator,git,WaypointList/54/LocalizedName,0,14817,Waypoint,웨이포인트
 narrator,git,WaypointList/54/MapNote,0,-1,Area Exit,
-narrator,git,WaypointList/55/LocalizedName,0,14817,Waypoint,
+narrator,git,WaypointList/55/LocalizedName,0,14817,Waypoint,웨이포인트
 narrator,git,WaypointList/55/MapNote,0,-1,Area Exit,
 narrator,git,WaypointList/8/LocalizedName,0,-1,cs_camera_pos_21,
 ruinslair,git,Door List/0/LocName,0,-1,Door,

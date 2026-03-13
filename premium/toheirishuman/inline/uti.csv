@@ -1,4 +1,4 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 anothernote,uti,Description,0,-1,"This note has a few hastily scribbled words written on it.
 
 if you it",
@@ -6,9 +6,9 @@ anothernote,uti,LocalizedName,0,-1,Note,
 cortoforkey,uti,LocalizedName,0,-1,Gate Key,
 drowkey,uti,Description,0,-1,This key belonged to a drow priestess.,
 drowkey,uti,LocalizedName,0,-1,Drow Key,
-it_gold002,uti,LocalizedName,0,535,Gold Piece,
-maarcl008,uti,DescIdentified,0,13724,"The treant Birch is not noted for his tolerance toward those who threaten his forest. When giants felled a grove of his oldest oaks, he vowed revenge and enlisted the aid of a group of rangers. To help his new friends, he infused their armor with all the protective energy he could muster. Their combined might was enough to soundly defeat the invaders, and giants of the north still tell of the angry forest spirits that drove them from the lowlands. The rangers' suits have since scattered to the corners of the world.",
-maarcl008,uti,LocalizedName,0,13723,The Great Oak,
+it_gold002,uti,LocalizedName,0,535,Gold Piece,금화
+maarcl008,uti,DescIdentified,0,13724,"The treant Birch is not noted for his tolerance toward those who threaten his forest. When giants felled a grove of his oldest oaks, he vowed revenge and enlisted the aid of a group of rangers. To help his new friends, he infused their armor with all the protective energy he could muster. Their combined might was enough to soundly defeat the invaders, and giants of the north still tell of the angry forest spirits that drove them from the lowlands. The rangers' suits have since scattered to the corners of the world.","트렌트 버치는 자신의 숲을 위협하는 자들에 대해 아량을 배풀지 않는 것으로 유명합니다. 거인들이 그의 오래된 참나무 숲을 베어넘기자, 그는 복수를 맹세하고 순찰자 무리의 도움을 받았습니다. 새로운 친구들을 돕기 위해, 그는 모을 수 있는 모든 방어적인 에너지를 순찰자들의 갑옷에 불어넣었습니다. 이 연합의 힘은 침략자들을 철저하게 쓰러뜨리기에 충분했고, 아직도 북부의 거인들은 자신들을 저지대에서 몰아낸 분노에 찬 숲의 정령들에 대해 얘기합니다. 그 이후로 순찰자의 옷은 세계 구석으로 흩어졌습니다."
+maarcl008,uti,LocalizedName,0,13723,The Great Oak,위대한 참나무
 morenote,uti,Description,0,-1,"This note has a few hastily scribbled words written on it.
 
 know nothing about",
@@ -24,7 +24,7 @@ note2,uti,Description,0,-1,"This note has a few hastily scribbled words written 
 
 everything and wrong",
 note2,uti,LocalizedName,0,-1,Note,
-wamar002,uti,LocalizedName,0,1517,Arrow,
+wamar002,uti,LocalizedName,0,1517,Arrow,화살
 yetanothernote,uti,Description,0,-1,"This note has a few hastily scribbled words written on it.
 
 there's you can",

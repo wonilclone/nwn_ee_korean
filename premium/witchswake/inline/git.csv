@@ -3,19 +3,19 @@ angmarshouse,git,Door List/0/Description,0,-1,"Fashioned from rough-hewn wood, t
 angmarshouse,git,Door List/0/LocName,0,5349,Wooden Door,
 angmarshouse,git,Door List/1/Description,0,-1,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",
 angmarshouse,git,Door List/1/LocName,0,5349,Wooden Door,
-angmarshouse,git,Placeable List/13/Description,0,14599,"With its bucket head and straw-filled chest, the combat dummy seems far from threatening.",
+angmarshouse,git,Placeable List/13/Description,0,14599,"With its bucket head and straw-filled chest, the combat dummy seems far from threatening.",양동이 머리와 짚으로 가득 찬 몸통을 가진 훈련용 허수아비는 위협과는 거리가 먼 것 같습니다.
 angmarshouse,git,Placeable List/13/LocName,0,5681,Armorer's Dummy,
-angmarshouse,git,Placeable List/17/Description,0,14748,"The sound of your footsteps echoes back to you, resonating from the urn's dark depths.",
-angmarshouse,git,Placeable List/17/LocName,0,5745,Urn,
-angmarshouse,git,Placeable List/4/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",
-angmarshouse,git,Placeable List/4/LocName,0,5703,Candelabra,
+angmarshouse,git,Placeable List/17/Description,0,14748,"The sound of your footsteps echoes back to you, resonating from the urn's dark depths.",당신의 발자국 소리가 항아리의 깊은 어둠속에서 울려퍼지는 것처럼 당신의 뒤에서 메아리 칩니다.
+angmarshouse,git,Placeable List/17/LocName,0,5745,Urn,단지
+angmarshouse,git,Placeable List/4/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",동물 기름으로 만든 두툼한 초가 철제 받침대 위에서 낮게 타오릅니다. 떨어진 촛농이 쌓여 아래쪽에는 작은 언덕을 형성하고 있습니다.
+angmarshouse,git,Placeable List/4/LocName,0,5703,Candelabra,가지달린 촛대
 angmarshouse,git,SoundList/0/LocName,0,-1,Furnace,
 angmarshouse,git,SoundList/1/LocName,0,-1,Firepit,
 angmarshouse,git,SoundList/2/LocName,0,-1,Firepit,
 angmarshouse,git,WaypointList/0/LocalizedName,0,14814,To Brogan's Arm,
 angmarshouse,git,WaypointList/0/MapNote,0,14815,To Brogan's Arm,
-brogansarm,git,Creature List/0/Description,0,12677,These heavy draft animals are prized possessions that not all farmers can afford. Oxen are well suited to pulling plows and milling grain.,
-brogansarm,git,Creature List/0/FirstName,0,12678,Ox,
+brogansarm,git,Creature List/0/Description,0,12677,These heavy draft animals are prized possessions that not all farmers can afford. Oxen are well suited to pulling plows and milling grain.,모든 농부들이 이 육중한 가축을 살 수 있는 것은 아닙니다. 황소는 쟁기를 끌거나 곡물을 제분하는데 아주 적합합니다.
+brogansarm,git,Creature List/0/FirstName,0,12678,Ox,소
 brogansarm,git,Creature List/1/Description,0,-1,"The grim blacksmith eyes you suspiciously as he goes about his work. His lower lip hangs limply, baring the gray gums below his crooked teeth.",
 brogansarm,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,These durable leather garments are pocked and scarred by sparks from the forge.,
 brogansarm,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,Blacksmith's Leather,
@@ -24,14 +24,14 @@ brogansarm,git,Creature List/1/FirstName,0,-1,Angmar,
 brogansarm,git,Creature List/1/ItemList/0/DescIdentified,0,-1,This is the key to Angmar's house in Brogan's Arm.,
 brogansarm,git,Creature List/1/ItemList/0/LocalizedName,0,-1,Angmar's House Key,
 brogansarm,git,Creature List/1/LastName,0,-1,Rockspitter,
-brogansarm,git,Creature List/10/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",
-brogansarm,git,Creature List/10/FirstName,0,12416,Chicken,
-brogansarm,git,Creature List/11/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",
-brogansarm,git,Creature List/11/FirstName,0,12416,Chicken,
-brogansarm,git,Creature List/12/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",
-brogansarm,git,Creature List/12/FirstName,0,12416,Chicken,
-brogansarm,git,Creature List/13/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",
-brogansarm,git,Creature List/13/FirstName,0,12416,Chicken,
+brogansarm,git,Creature List/10/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",이 날지 못하고 길들여진 새는 부드러운 고기와 거의 매일 알을 낳기 때문에 모두 소중하게 여깁니다.
+brogansarm,git,Creature List/10/FirstName,0,12416,Chicken,닭
+brogansarm,git,Creature List/11/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",이 날지 못하고 길들여진 새는 부드러운 고기와 거의 매일 알을 낳기 때문에 모두 소중하게 여깁니다.
+brogansarm,git,Creature List/11/FirstName,0,12416,Chicken,닭
+brogansarm,git,Creature List/12/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",이 날지 못하고 길들여진 새는 부드러운 고기와 거의 매일 알을 낳기 때문에 모두 소중하게 여깁니다.
+brogansarm,git,Creature List/12/FirstName,0,12416,Chicken,닭
+brogansarm,git,Creature List/13/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",이 날지 못하고 길들여진 새는 부드러운 고기와 거의 매일 알을 낳기 때문에 모두 소중하게 여깁니다.
+brogansarm,git,Creature List/13/FirstName,0,12416,Chicken,닭
 brogansarm,git,Creature List/14/Description,0,-1,"This dwarven armsman looks uncomfortable in his heavy armor, as if he rarely has cause to wear it.",
 brogansarm,git,Creature List/14/Equip_ItemList/0/DescIdentified,0,-1,"Fashioned from thrice-forged steel, dwarven scale is solid protection from almost any blow.",
 brogansarm,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,Dwarven Scale,
@@ -68,10 +68,10 @@ brogansarm,git,Creature List/7/Equip_ItemList/0/DescIdentified,0,-1,"Fashioned f
 brogansarm,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,Dwarven Scale,
 brogansarm,git,Creature List/7/Equip_ItemList/3/LocalizedName,0,-1,WW Subrace: Cairn Dwarf,
 brogansarm,git,Creature List/7/FirstName,0,-1,Armsman,
-brogansarm,git,Creature List/8/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",
-brogansarm,git,Creature List/8/FirstName,0,12416,Chicken,
-brogansarm,git,Creature List/9/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",
-brogansarm,git,Creature List/9/FirstName,0,12416,Chicken,
+brogansarm,git,Creature List/8/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",이 날지 못하고 길들여진 새는 부드러운 고기와 거의 매일 알을 낳기 때문에 모두 소중하게 여깁니다.
+brogansarm,git,Creature List/8/FirstName,0,12416,Chicken,닭
+brogansarm,git,Creature List/9/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",이 날지 못하고 길들여진 새는 부드러운 고기와 거의 매일 알을 낳기 때문에 모두 소중하게 여깁니다.
+brogansarm,git,Creature List/9/FirstName,0,12416,Chicken,닭
 brogansarm,git,Door List/0/LocName,0,5349,Gate,
 brogansarm,git,Door List/1/Description,0,-1,"A threadbare road, muddy and rutted, leads south from Brogan's Arm. The gate is locked, however, and under guard.",
 brogansarm,git,Door List/1/LocName,0,5349,South Gate,
@@ -352,9 +352,9 @@ broganstears,git,WaypointList/2/LocalizedName,0,14814,To the Barrow Site,
 broganstears,git,WaypointList/2/MapNote,0,14815,To the Barrow Site,
 councillorblauha,git,Door List/0/Description,0,-1,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",
 councillorblauha,git,Door List/0/LocName,0,5349,Wooden Door,
-councillorblauha,git,List/0/LocalizedName,0,535,Gold Piece,
-councillorblauha,git,Placeable List/3/Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,
-councillorblauha,git,Placeable List/3/LocName,0,14549,Armoire,
+councillorblauha,git,List/0/LocalizedName,0,535,Gold Piece,금화
+councillorblauha,git,Placeable List/3/Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,좀약 냄새가 이 장식장의 나무에 스며든 지 오래입니다.
+councillorblauha,git,Placeable List/3/LocName,0,14549,Armoire,장식장
 councillorblauha,git,SoundList/0/LocName,0,-1,Magic Cauldron,
 councillorblauha,git,SoundList/1/LocName,0,-1,Torch Fire Medium,
 councillorblauha,git,WaypointList/0/LocalizedName,0,14814,To Brogan's Arm,
@@ -365,23 +365,23 @@ councillorgreinl,git,Door List/1/Description,0,-1,"Etched and oiled, the carving
 councillorgreinl,git,Door List/1/LocName,0,5349,Carved Door,
 councillorgreinl,git,Door List/2/Description,0,-1,Detailed carvings cover the surface of this finely-crafted door. The handiwork is of high quality and no doubt came at quite an expense.,
 councillorgreinl,git,Door List/2/LocName,0,5349,Inlaid Door,
-councillorgreinl,git,List/0/LocalizedName,0,535,Gold Piece,
-councillorgreinl,git,Placeable List/0/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",
-councillorgreinl,git,Placeable List/0/LocName,0,5703,Candelabra,
-councillorgreinl,git,Placeable List/13/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,
-councillorgreinl,git,Placeable List/13/LocName,0,14643,Torch Bracket,
-councillorgreinl,git,Placeable List/14/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,
-councillorgreinl,git,Placeable List/14/LocName,0,14643,Torch Bracket,
-councillorgreinl,git,Placeable List/20/Description,0,14585,The wood's rich grain adds an unexpected vibrancy to this humble cabinet. Whoever crafted it clearly did so with great love.,
-councillorgreinl,git,Placeable List/20/ItemList/0/DescIdentified,0,13444,"This milky red potion seems to open the drinker's perception of his environment, making him at once more observant and more resistant to effects that target the mind.",
-councillorgreinl,git,Placeable List/20/ItemList/0/LocalizedName,0,13445,Potion of Owl's Wisdom,
-councillorgreinl,git,Placeable List/20/ItemList/1/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Faerun.",
-councillorgreinl,git,Placeable List/20/ItemList/1/LocalizedName,0,13447,Potion of Lore,
-councillorgreinl,git,Placeable List/20/LocName,0,5650,Cabinet,
-councillorgreinl,git,Placeable List/4/Description,0,14607,A small drawer extends beneath the gleaming tabletop. It probably doubles as a desk when there's the need.,
-councillorgreinl,git,Placeable List/4/LocName,0,5655,Desk,
-councillorgreinl,git,Placeable List/6/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",
-councillorgreinl,git,Placeable List/6/LocName,0,5703,Candelabra,
+councillorgreinl,git,List/0/LocalizedName,0,535,Gold Piece,금화
+councillorgreinl,git,Placeable List/0/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",동물 기름으로 만든 두툼한 초가 철제 받침대 위에서 낮게 타오릅니다. 떨어진 촛농이 쌓여 아래쪽에는 작은 언덕을 형성하고 있습니다.
+councillorgreinl,git,Placeable List/0/LocName,0,5703,Candelabra,가지달린 촛대
+councillorgreinl,git,Placeable List/13/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,횃불이 주변을 따뜻하게 칠하고 있습니다. 당신은 그 불빛에 감사하는 자신을 발견합니다.
+councillorgreinl,git,Placeable List/13/LocName,0,14643,Torch Bracket,횃불 걸이
+councillorgreinl,git,Placeable List/14/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,횃불이 주변을 따뜻하게 칠하고 있습니다. 당신은 그 불빛에 감사하는 자신을 발견합니다.
+councillorgreinl,git,Placeable List/14/LocName,0,14643,Torch Bracket,횃불 걸이
+councillorgreinl,git,Placeable List/20/Description,0,14585,The wood's rich grain adds an unexpected vibrancy to this humble cabinet. Whoever crafted it clearly did so with great love.,나무의 다채로운 결이 이 보잘것없는 보관장에 예기치 않은 반향을 더하고 있습다. 누가 만들었는지는 몰라도 대단한 애정으로 만들었습니다.
+councillorgreinl,git,Placeable List/20/ItemList/0/DescIdentified,0,13444,"This milky red potion seems to open the drinker's perception of his environment, making him at once more observant and more resistant to effects that target the mind.","이 우유가 들어간 붉은 물약은 술꾼의 마신 이의 환경에 대한 통찰력을 열어주는 것으로 보이며, 마시게 되면 즉시 더 높은 관찰력과 정신에 영향을 미치는 효과에 대한 더 높은 저항력을 얻습니다."
+councillorgreinl,git,Placeable List/20/ItemList/0/LocalizedName,0,13445,Potion of Owl's Wisdom,올빼미의 지혜 물약
+councillorgreinl,git,Placeable List/20/ItemList/1/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Faerun.","이 물약은 모험가와 학자들 모두가 원하고 있으며, 페이룬의 던전에서 많이 쓰이는걸 볼 수 있습니다."
+councillorgreinl,git,Placeable List/20/ItemList/1/LocalizedName,0,13447,Potion of Lore,전승지식의 물약
+councillorgreinl,git,Placeable List/20/LocName,0,5650,Cabinet,보관장
+councillorgreinl,git,Placeable List/4/Description,0,14607,A small drawer extends beneath the gleaming tabletop. It probably doubles as a desk when there's the need.,윤이 나는 탁자의 상판 아래로 작은 서랍이 열립니다. 필요할 때는 책상을 두 배 크기로 쓸 수 있어 보입니다.
+councillorgreinl,git,Placeable List/4/LocName,0,5655,Desk,책상
+councillorgreinl,git,Placeable List/6/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",동물 기름으로 만든 두툼한 초가 철제 받침대 위에서 낮게 타오릅니다. 떨어진 촛농이 쌓여 아래쪽에는 작은 언덕을 형성하고 있습니다.
+councillorgreinl,git,Placeable List/6/LocName,0,5703,Candelabra,가지달린 촛대
 councillorgreinl,git,SoundList/0/LocName,0,-1,Torch Fire Small,
 councillorgreinl,git,SoundList/1/LocName,0,-1,Torch Fire Small,
 councillorgreinl,git,SoundList/2/LocName,0,-1,Magic Portal Fire,
@@ -434,21 +434,21 @@ embattledcaverns,git,List/5/DescIdentified,0,-1,"This is a standard, disposable 
 embattledcaverns,git,List/5/LocalizedName,0,-1,Torch,
 embattledcaverns,git,Placeable List/3/Description,0,-1,Place this object in any area where you want tracking to occur.  Set Will to the DC of tracking in this area.,
 embattledcaverns,git,Placeable List/3/LocName,0,-1,Tracker,
-embattledcaverns,git,Placeable List/4/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",
-embattledcaverns,git,Placeable List/4/ItemList/0/Description,0,13317,"When cut and polished, aventurine is alluring as its name. It resembles misty quartz, but contains glistening flecks of green that give it a unique sheen. The witches of Rashemen are said to use aventurine for invocations, evocations, and spirit work.",
-embattledcaverns,git,Placeable List/4/ItemList/0/LocalizedName,0,13316,Aventurine,
-embattledcaverns,git,Placeable List/4/ItemList/1/Description,0,13293,"Fire agate forms in thin brown layers that refract the incoming light, giving the gem its ""fire."" The refraction often forms patterns reminiscent of a dragon's scales, which makes it prized by sorcerers who claim to trace their lineage back to dragonkin. A well-cut stone has its outer layers polished and ground away until only the fire is visible.",
-embattledcaverns,git,Placeable List/4/ItemList/1/LocalizedName,0,13292,Fire Agate,
-embattledcaverns,git,Placeable List/4/ItemList/2/Description,0,13291,"As its name indicates, this gem is generally green in color. Typical samples, however, have a pattern of overlapping edges that range from yellow-green to almost black. When polished, they have a beautiful play of light within their crystalline structure.",
-embattledcaverns,git,Placeable List/4/ItemList/2/LocalizedName,0,13290,Greenstone,
-embattledcaverns,git,Placeable List/4/LocName,0,5348,Chest,
-embattledcaverns,git,Placeable List/5/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",
-embattledcaverns,git,Placeable List/5/ItemList/0/Description,0,13303,"Favored by druids for its graceful and natural beauty, malachite is known for its strikingly ornamental bands of light and dark green that alternate throughout the entire stone. Painters have also been known to crush the gem and use it as a pigment. Adventurers have discovered that the gem bubbles and dissolves readily in acid, making it an effective - if expensive - means of identifying certain dangerous substances.",
-embattledcaverns,git,Placeable List/5/ItemList/0/LocalizedName,0,13302,Malachite,
-embattledcaverns,git,Placeable List/5/ItemList/1/Description,0,13297,"A singularly beautiful stone, phenalope is dusty pink in color, dramatically marked with black streaks. Even when mounted in jewelry, phenalope maintains a rough texture, pocked with tiny holes that cannot be polished out. For some, this is part of the stone's attraction, and they wear it as a symbol of their own tenacious natures.",
-embattledcaverns,git,Placeable List/5/ItemList/1/LocalizedName,0,13296,Phenalope,
-embattledcaverns,git,Placeable List/5/ItemList/2/LocalizedName,0,535,Gold Piece,
-embattledcaverns,git,Placeable List/5/LocName,0,5348,Chest,
+embattledcaverns,git,Placeable List/4/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",낮고 평평한 이 궤짝은 상인의 거래 장부를 보관하기 위해 설계된 것 같습니다.
+embattledcaverns,git,Placeable List/4/ItemList/0/Description,0,13317,"When cut and polished, aventurine is alluring as its name. It resembles misty quartz, but contains glistening flecks of green that give it a unique sheen. The witches of Rashemen are said to use aventurine for invocations, evocations, and spirit work.","잘라서 광택을 낸 사금석은 굉장히 유혹적입니다. 흐릿한 석영처럼 생겼지만, 독특한 광택을 내는 반짝이는 녹색 반점을 가지고 있습니다. 라셰맨의 마녀들은 사금석을 기원과 방출술 그리고 영적인 일에 사용한다고 합니다."
+embattledcaverns,git,Placeable List/4/ItemList/0/LocalizedName,0,13316,Aventurine,사금석
+embattledcaverns,git,Placeable List/4/ItemList/1/Description,0,13293,"Fire agate forms in thin brown layers that refract the incoming light, giving the gem its ""fire."" The refraction often forms patterns reminiscent of a dragon's scales, which makes it prized by sorcerers who claim to trace their lineage back to dragonkin. A well-cut stone has its outer layers polished and ground away until only the fire is visible.","화염 마노는 들어오는 빛을 굴절시키는 얇은 갈색 층으로 형성되어 있기 때문에 보석에 \""화염\""을 주고 있습니다. 굴절은 종종 용의 비늘을 연상시키는 무늬를 만드는데, 이것은 자신이 용의 혈통을 가지고 있다고 주장하는 요술사들이 귀하게 여깁니다. 잘 깎은 것은 바깥 층을 다듬어 화염만 보일 때까지 갈아냅니다."
+embattledcaverns,git,Placeable List/4/ItemList/1/LocalizedName,0,13292,Fire Agate,화염 마노
+embattledcaverns,git,Placeable List/4/ItemList/2/Description,0,13291,"As its name indicates, this gem is generally green in color. Typical samples, however, have a pattern of overlapping edges that range from yellow-green to almost black. When polished, they have a beautiful play of light within their crystalline structure.","이름에서 알 수 있듯이, 이 보석은 일반적으로 녹색을 띕니다. 그러나 전형적인 표본은 황록색부터 검은색까지 이르는 겹쳐진 가장자리 무늬를 가지고 있습니다. 세공을 하면 결정 구조 안에 아름다운 빛의 연주가 펼쳐집니다."
+embattledcaverns,git,Placeable List/4/ItemList/2/LocalizedName,0,13290,Greenstone,녹석
+embattledcaverns,git,Placeable List/4/LocName,0,5348,Chest,궤짝
+embattledcaverns,git,Placeable List/5/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",낮고 평평한 이 궤짝은 상인의 거래 장부를 보관하기 위해 설계된 것 같습니다.
+embattledcaverns,git,Placeable List/5/ItemList/0/Description,0,13303,"Favored by druids for its graceful and natural beauty, malachite is known for its strikingly ornamental bands of light and dark green that alternate throughout the entire stone. Painters have also been known to crush the gem and use it as a pigment. Adventurers have discovered that the gem bubbles and dissolves readily in acid, making it an effective - if expensive - means of identifying certain dangerous substances.","우아하고 자연스러운 아름다움으로 드루이드들의 사랑을 받는 공작석은 돌 전체에 번갈아 나타나는 두드러진 밝고 어두운 녹색의 줄무늬 장식으로 알려져 있습니다. 또한 화가들은 이 보석을 부숴 안료로 사용하는 것으로 알려져 있습니다다. 모험가들은 이 보석이 산에 닿으면 거품을 내며 쉽게 녹는다는 것을 발견했는데, 이것은 비싸지만 위험한 물질을 식별하는 효과적인 수단입니다."
+embattledcaverns,git,Placeable List/5/ItemList/0/LocalizedName,0,13302,Malachite,공작석
+embattledcaverns,git,Placeable List/5/ItemList/1/Description,0,13297,"A singularly beautiful stone, phenalope is dusty pink in color, dramatically marked with black streaks. Even when mounted in jewelry, phenalope maintains a rough texture, pocked with tiny holes that cannot be polished out. For some, this is part of the stone's attraction, and they wear it as a symbol of their own tenacious natures.","매우 아름다운 돌인 페넬로페는 윤기가 없는 분홍색을 띄며, 극적인 검은 줄무늬가 있습니다. 보석으로 장착할 때에도, 페넬로페는 거친 표면 때문에 다듬을 수 없는 작은 구멍 자국이 있습니다. 어떤 사람들에게는, 이것 또한 돌의 매력적인 요소이며 자신의 결연한 성질의 상징으로 착용합니다."
+embattledcaverns,git,Placeable List/5/ItemList/1/LocalizedName,0,13296,Phenalope,페넬로페
+embattledcaverns,git,Placeable List/5/ItemList/2/LocalizedName,0,535,Gold Piece,금화
+embattledcaverns,git,Placeable List/5/LocName,0,5348,Chest,궤짝
 embattledcaverns,git,SoundList/0/LocName,0,-1,Torch Fire Medium,
 embattledcaverns,git,SoundList/1/LocName,0,-1,Torch Fire Medium,
 embattledcaverns,git,SoundList/10/LocName,0,-1,Torch Fire Small,
@@ -585,16 +585,16 @@ guildhallexhibit,git,WaypointList/3/LocalizedName,0,14814,Guild Exhibits - Exit,
 guildhallexhibit,git,WaypointList/3/MapNote,0,14815,Guild Exhibits - Exit,
 helgashouse,git,Door List/0/Description,0,-1,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",
 helgashouse,git,Door List/0/LocName,0,5349,Wooden Door,
-helgashouse,git,List/23/DescIdentified,0,52941,"Either a dark red or pale yellow, wine is made from the pressing of grapes that have been fermented and aged. This wine is of an exceptionally fine vintage.",
+helgashouse,git,List/23/DescIdentified,0,52941,"Either a dark red or pale yellow, wine is made from the pressing of grapes that have been fermented and aged. This wine is of an exceptionally fine vintage.",진한 붉은색이나 옅은 노란색인 포도주는 발효 숙성된 포도를 압착하여 만듭니다.
 helgashouse,git,List/23/LocalizedName,0,13452,Vintage Wine,
-helgashouse,git,Placeable List/1/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",
-helgashouse,git,Placeable List/1/LocName,0,5703,Candelabra,
-helgashouse,git,Placeable List/2/Description,0,14702,The plant seems cramped within its rootbound pot.,
-helgashouse,git,Placeable List/2/LocName,0,5726,Potted Plant,
-helgashouse,git,Placeable List/3/Description,0,14598,The antique drawer pulls are touched by rust and the drawers themselves fit ill within their sockets. It seems the damp air has not been kind to this piece.,
+helgashouse,git,Placeable List/1/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",동물 기름으로 만든 두툼한 초가 철제 받침대 위에서 낮게 타오릅니다. 떨어진 촛농이 쌓여 아래쪽에는 작은 언덕을 형성하고 있습니다.
+helgashouse,git,Placeable List/1/LocName,0,5703,Candelabra,가지달린 촛대
+helgashouse,git,Placeable List/2/Description,0,14702,The plant seems cramped within its rootbound pot.,그 식물이 뿌리 내린 화분은 비좁아 보입니다.
+helgashouse,git,Placeable List/2/LocName,0,5726,Potted Plant,화분
+helgashouse,git,Placeable List/3/Description,0,14598,The antique drawer pulls are touched by rust and the drawers themselves fit ill within their sockets. It seems the damp air has not been kind to this piece.,이 골동품 서랍은 녹이 만져지고 서랍 자체도 꽂는 곳과 잘 맞지 않습니다. 눅눅한 공기가 이 작품과 맞지 않는 것으로 보입니다.
 helgashouse,git,Placeable List/3/ItemList/6/DescIdentified,0,-1,This is the key to the Guild Hall Exhibits in Brogan's Arm.,
 helgashouse,git,Placeable List/3/ItemList/6/LocalizedName,0,-1,Exhibits Key,
-helgashouse,git,Placeable List/3/LocName,0,5654,Chest of Drawers,
+helgashouse,git,Placeable List/3/LocName,0,5654,Chest of Drawers,서랍장
 helgashouse,git,WaypointList/0/LocalizedName,0,14814,To Brogan's Arm,
 helgashouse,git,WaypointList/0/MapNote,0,14815,To Brogan's Arm,
 homeofthenightha,git,Creature List/0/FirstName,0,-1,Ethereal Leak Spawner,
@@ -681,16 +681,16 @@ This card depicts a white-robed figure standing beneath a stormy sky. Shafts of 
 homeofthenightha,git,Creature List/1/ItemList/9/LocalizedName,0,-1,Tarot Card - Child of Virtue,
 homeofthenightha,git,Door List/0/Description,0,-1,Bloodstains and arcane markings cover the surface of this heavy stone door.,
 homeofthenightha,git,Door List/0/LocName,0,5349,Bloodstained Door,
-homeofthenightha,git,Placeable List/16/Description,0,14607,A small drawer extends beneath the gleaming tabletop. It probably doubles as a desk when there's the need.,
+homeofthenightha,git,Placeable List/16/Description,0,14607,A small drawer extends beneath the gleaming tabletop. It probably doubles as a desk when there's the need.,윤이 나는 탁자의 상판 아래로 작은 서랍이 열립니다. 필요할 때는 책상을 두 배 크기로 쓸 수 있어 보입니다.
 homeofthenightha,git,Placeable List/16/ItemList/0/DescIdentified,0,-1,"This small bundle of feathers, wax, and twine appears to be some sort of levitation fetish. There doesn't seem to be any way to activate it, however, so it likely serves as a catalyst for an enchanted mechanism of some sort.",
 homeofthenightha,git,Placeable List/16/ItemList/0/Description,0,-1,"You examine the small bundle of feathers, wax, and twine but can't seem to identify any particular use for it.",
 homeofthenightha,git,Placeable List/16/ItemList/0/LocalizedName,0,-1,Feather Fetish,
 homeofthenightha,git,Placeable List/16/ItemList/2/LocalizedName,0,13362,Healer's Kit +2,
-homeofthenightha,git,Placeable List/16/LocName,0,5655,Desk,
-homeofthenightha,git,Placeable List/36/Description,0,14574,"The books lay piled atop each other with little in the way of rhyme or reason, as if someone was interrupted while in the process of returning them to their place.",
+homeofthenightha,git,Placeable List/16/LocName,0,5655,Desk,책상
+homeofthenightha,git,Placeable List/36/Description,0,14574,"The books lay piled atop each other with little in the way of rhyme or reason, as if someone was interrupted while in the process of returning them to their place.","누군가 책을 제자리에 돌려놓는 과정에서 방해라도 받은 듯이, 책들은 음절이나 이유와 관계없이 쌓여 있습니다."
 homeofthenightha,git,Placeable List/36/ItemList/0/DescIdentified,0,-1,"This heavy tome, stolen from the Night Hag's desk, is bound in a strange, oily leather. The text inside is of no language you can recognize and what few pictures you can find seem to be of senseless, though vaguely humanoid shapes.",
 homeofthenightha,git,Placeable List/36/ItemList/0/LocalizedName,0,-1,The Night Hag's Tome,
-homeofthenightha,git,Placeable List/36/LocName,0,5698,Book Piles,
+homeofthenightha,git,Placeable List/36/LocName,0,5698,Book Piles,책 더미
 homeofthenightha,git,SoundList/0/LocName,0,-1,Campfire & Pot,
 homeofthenightha,git,SoundList/1/LocName,0,-1,Magic Bubbling Beaker,
 homeofthenightha,git,SoundList/2/LocName,0,-1,Chiselings,
@@ -704,8 +704,8 @@ homeofthenightha,git,SoundList/9/LocName,0,-1,Ethereal Leak Loop,
 homeofthenightha,git,StoreList/0/LocName,0,-1,Night Hag's Store,
 homeofthenightha,git,StoreList/0/StoreList/3/ItemList/12/DescIdentified,0,14195,"Wearing of losing young students to the dangers of their newfound power, the great wizard Arkanion began crafting these wands for their protection.",
 homeofthenightha,git,StoreList/0/StoreList/3/ItemList/12/LocalizedName,0,14196,Wand of Armor,
-homeofthenightha,git,StoreList/0/StoreList/3/ItemList/13/DescIdentified,0,58591,"Wands of Sleep are among the most stable and least expensive of magical wands, making them quite popular with adventurers. Though not instruments of mass destruction, when properly applied a Wand of Sleep can prove to be a powerful weapon against unexpected encounters with orcs, goblins and their ilk. Many adventuring parties owe their lives to the anonymous mage who first fashioned this simple but highly effective item.",
-homeofthenightha,git,StoreList/0/StoreList/3/ItemList/13/LocalizedName,0,58592,Wand of Sleep,
+homeofthenightha,git,StoreList/0/StoreList/3/ItemList/13/DescIdentified,0,58591,"Wands of Sleep are among the most stable and least expensive of magical wands, making them quite popular with adventurers. Though not instruments of mass destruction, when properly applied a Wand of Sleep can prove to be a powerful weapon against unexpected encounters with orcs, goblins and their ilk. Many adventuring parties owe their lives to the anonymous mage who first fashioned this simple but highly effective item.","수면의 마법봉은 가장 안정적이고 저렴한 마법봉 중 하나로, 모험가들에게 인기가 많습니다. 대량 파괴 도구는 아니지만, 적절히 사용하면 오크, 고블린 같은 적과의 예상치 못한 조우에서 강력한 무기가 될 수 있습니다. 많은 모험단이 이 단순하지만 매우 효과적인 아이템을 처음 만든 무명의 마법사 덕분에 목숨을 구했습니다."
+homeofthenightha,git,StoreList/0/StoreList/3/ItemList/13/LocalizedName,0,58592,Wand of Sleep,수면의 마법봉
 homeofthenightha,git,StoreList/0/StoreList/4/ItemList/0/DescIdentified,0,-1,This bag holds a small collection of stone dice.,
 homeofthenightha,git,StoreList/0/StoreList/4/ItemList/0/LocalizedName,0,-1,Dice Bag,
 homeofthenightha,git,StoreList/0/StoreList/4/ItemList/12/DescIdentified,0,-1,"If ingested, the leaves of the deadly nightshade plant will cause a quick and painless death.",
@@ -990,10 +990,10 @@ myrkwood,git,Encounter List/4/LocalizedName,0,14515,Zombies,
 myrkwood,git,Encounter List/5/LocalizedName,0,14515,Zombies,
 myrkwood,git,Encounter List/6/LocalizedName,0,14515,Zombies,
 myrkwood,git,Encounter List/7/LocalizedName,0,14515,Zombies,
-myrkwood,git,Placeable List/2/Description,0,66888,A sad pile of humanoid bones lay on the ground.,
+myrkwood,git,Placeable List/2/Description,0,66888,A sad pile of humanoid bones lay on the ground.,슬픈 인간형 뼈 무더기가 땅에 놓여 있습니다.
 myrkwood,git,Placeable List/2/ItemList/0/DescIdentified,0,-1,This key appears to have been crafted long ago. The metal is heavily tarnished but still free of rust.,
 myrkwood,git,Placeable List/2/ItemList/0/LocalizedName,0,-1,Ancient Key,
-myrkwood,git,Placeable List/2/LocName,0,52997,Bones,
+myrkwood,git,Placeable List/2/LocName,0,52997,Bones,뼈
 myrkwood,git,Placeable List/3/Description,0,-1,Place this object in any area where you want tracking to occur.  Set Will to the DC of tracking in this area.,
 myrkwood,git,Placeable List/3/LocName,0,-1,Tracker,
 myrkwood,git,SoundList/0/LocName,0,-1,Stream Medium-Soft,
@@ -1052,15 +1052,15 @@ oldmannimmermaer,git,Door List/0/Description,0,-1,"Etched and oiled, the carving
 oldmannimmermaer,git,Door List/0/LocName,0,5349,Carved Door,
 oldmannimmermaer,git,Placeable List/0/Description,0,14646,This bizarre contraption whizzes and hums contentedly to itself. The floor around it is littered with bird droppings.,
 oldmannimmermaer,git,Placeable List/0/LocName,0,14647,Infernal Contraption,
-oldmannimmermaer,git,Placeable List/10/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,
-oldmannimmermaer,git,Placeable List/10/LocName,0,14643,Torch Bracket,
-oldmannimmermaer,git,Placeable List/11/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,
-oldmannimmermaer,git,Placeable List/11/LocName,0,14643,Torch Bracket,
-oldmannimmermaer,git,Placeable List/12/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,
-oldmannimmermaer,git,Placeable List/12/LocName,0,14643,Torch Bracket,
-oldmannimmermaer,git,Placeable List/3/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",
-oldmannimmermaer,git,Placeable List/3/LocName,0,5703,Candelabra,
-oldmannimmermaer,git,Placeable List/4/Description,0,14595,"Strange runes and pictographs, likely arcane in nature, have been scorched into the sides of this hide-covered strongbox.",
+oldmannimmermaer,git,Placeable List/10/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,횃불이 주변을 따뜻하게 칠하고 있습니다. 당신은 그 불빛에 감사하는 자신을 발견합니다.
+oldmannimmermaer,git,Placeable List/10/LocName,0,14643,Torch Bracket,횃불 걸이
+oldmannimmermaer,git,Placeable List/11/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,횃불이 주변을 따뜻하게 칠하고 있습니다. 당신은 그 불빛에 감사하는 자신을 발견합니다.
+oldmannimmermaer,git,Placeable List/11/LocName,0,14643,Torch Bracket,횃불 걸이
+oldmannimmermaer,git,Placeable List/12/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,횃불이 주변을 따뜻하게 칠하고 있습니다. 당신은 그 불빛에 감사하는 자신을 발견합니다.
+oldmannimmermaer,git,Placeable List/12/LocName,0,14643,Torch Bracket,횃불 걸이
+oldmannimmermaer,git,Placeable List/3/Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",동물 기름으로 만든 두툼한 초가 철제 받침대 위에서 낮게 타오릅니다. 떨어진 촛농이 쌓여 아래쪽에는 작은 언덕을 형성하고 있습니다.
+oldmannimmermaer,git,Placeable List/3/LocName,0,5703,Candelabra,가지달린 촛대
+oldmannimmermaer,git,Placeable List/4/Description,0,14595,"Strange runes and pictographs, likely arcane in nature, have been scorched into the sides of this hide-covered strongbox.",자연의 비전 마법과도 같은 이상한 룬과 그림문자가 이 생가죽으로 덮인 금고의 옆면에 그을려 있습니다.
 oldmannimmermaer,git,Placeable List/4/ItemList/0/DescIdentified,0,-1,"This leather bag oozes a strange alchemical goo which grows tough and resilient on exposure to air. You'd hate to be entangled in it if the bag were to rupture.
 
 This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
@@ -1081,15 +1081,15 @@ oldmannimmermaer,git,Placeable List/4/ItemList/7/DescIdentified,0,-1,"Alchemist'
 
 This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
 oldmannimmermaer,git,Placeable List/4/ItemList/7/LocalizedName,0,-1,Alchemist's Fire,
-oldmannimmermaer,git,Placeable List/4/LocName,0,5348,Chest,
+oldmannimmermaer,git,Placeable List/4/LocName,0,5348,Chest,궤짝
 oldmannimmermaer,git,Placeable List/5/Description,0,14632,"A slender lever rises from the floor, apparently controlling the nearby contraption.",
 oldmannimmermaer,git,Placeable List/5/LocName,0,14633,Lever to Infernal Contraption,
-oldmannimmermaer,git,Placeable List/6/Description,0,14574,"The books lay piled atop each other with little in the way of rhyme or reason, as if someone was interrupted while in the process of returning them to their place.",
-oldmannimmermaer,git,Placeable List/6/LocName,0,5698,Book Piles,
+oldmannimmermaer,git,Placeable List/6/Description,0,14574,"The books lay piled atop each other with little in the way of rhyme or reason, as if someone was interrupted while in the process of returning them to their place.","누군가 책을 제자리에 돌려놓는 과정에서 방해라도 받은 듯이, 책들은 음절이나 이유와 관계없이 쌓여 있습니다."
+oldmannimmermaer,git,Placeable List/6/LocName,0,5698,Book Piles,책 더미
 oldmannimmermaer,git,Placeable List/7/Description,0,14539,"Incense smolders in a pot, filling the room with a pungent purple smoke.",
-oldmannimmermaer,git,Placeable List/7/LocName,0,5685,Alchemist's Apparatus,
-oldmannimmermaer,git,Placeable List/8/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,
-oldmannimmermaer,git,Placeable List/8/LocName,0,14643,Torch Bracket,
+oldmannimmermaer,git,Placeable List/7/LocName,0,5685,Alchemist's Apparatus,연금술사의 기구
+oldmannimmermaer,git,Placeable List/8/Description,0,14642,The torch paints its environs in warmer hues. You find yourself grateful for its glow. ,횃불이 주변을 따뜻하게 칠하고 있습니다. 당신은 그 불빛에 감사하는 자신을 발견합니다.
+oldmannimmermaer,git,Placeable List/8/LocName,0,14643,Torch Bracket,횃불 걸이
 oldmannimmermaer,git,SoundList/0/LocName,0,-1,Torch Fire Small,
 oldmannimmermaer,git,SoundList/1/LocName,0,-1,Magic Bubbling Beaker,
 oldmannimmermaer,git,SoundList/2/LocName,0,-1,Torch Fire Small,
@@ -1103,8 +1103,8 @@ oldmannimmermaer,git,StoreList/0/StoreList/2/ItemList/43/DescIdentified,0,13440,
 oldmannimmermaer,git,StoreList/0/StoreList/2/ItemList/43/LocalizedName,0,13441,Potion of Resistance,
 oldmannimmermaer,git,StoreList/0/StoreList/3/ItemList/11/DescIdentified,0,14195,"Wearing of losing young students to the dangers of their newfound power, the great wizard Arkanion began crafting these wands for their protection.",
 oldmannimmermaer,git,StoreList/0/StoreList/3/ItemList/11/LocalizedName,0,14196,Wand of Armor,
-oldmannimmermaer,git,StoreList/0/StoreList/3/ItemList/9/DescIdentified,0,58591,"Wands of Sleep are among the most stable and least expensive of magical wands, making them quite popular with adventurers. Though not instruments of mass destruction, when properly applied a Wand of Sleep can prove to be a powerful weapon against unexpected encounters with orcs, goblins and their ilk. Many adventuring parties owe their lives to the anonymous mage who first fashioned this simple but highly effective item.",
-oldmannimmermaer,git,StoreList/0/StoreList/3/ItemList/9/LocalizedName,0,58592,Wand of Sleep,
+oldmannimmermaer,git,StoreList/0/StoreList/3/ItemList/9/DescIdentified,0,58591,"Wands of Sleep are among the most stable and least expensive of magical wands, making them quite popular with adventurers. Though not instruments of mass destruction, when properly applied a Wand of Sleep can prove to be a powerful weapon against unexpected encounters with orcs, goblins and their ilk. Many adventuring parties owe their lives to the anonymous mage who first fashioned this simple but highly effective item.","수면의 마법봉은 가장 안정적이고 저렴한 마법봉 중 하나로, 모험가들에게 인기가 많습니다. 대량 파괴 도구는 아니지만, 적절히 사용하면 오크, 고블린 같은 적과의 예상치 못한 조우에서 강력한 무기가 될 수 있습니다. 많은 모험단이 이 단순하지만 매우 효과적인 아이템을 처음 만든 무명의 마법사 덕분에 목숨을 구했습니다."
+oldmannimmermaer,git,StoreList/0/StoreList/3/ItemList/9/LocalizedName,0,58592,Wand of Sleep,수면의 마법봉
 oldmannimmermaer,git,StoreList/0/StoreList/4/ItemList/0/DescIdentified,0,-1,This bag holds a small collection of stone dice.,
 oldmannimmermaer,git,StoreList/0/StoreList/4/ItemList/0/LocalizedName,0,-1,Dice Bag,
 oldmannimmermaer,git,StoreList/0/StoreList/4/ItemList/1/DescIdentified,0,-1,"This is a standard, disposable torch. Its duration is limited so it is wise to stock up on them and save them until they're needed.",
@@ -1612,15 +1612,15 @@ planeofsorrows,git,Placeable List/120/LocName,0,64112,Filcher's Gold,
 planeofsorrows,git,Placeable List/121/LocName,0,64112,Filcher's Loot,
 planeofsorrows,git,Placeable List/122/LocName,0,64112,Filcher's Loot,
 planeofsorrows,git,Placeable List/123/LocName,0,64112,Filcher's Loot,
-planeofsorrows,git,Placeable List/124/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",
+planeofsorrows,git,Placeable List/124/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",땅 위로 무거운 레버가 솟아올라 아래 보이지 않는 기계 장치를 제어하고 있습니다.
 planeofsorrows,git,Placeable List/124/LocName,0,14633,Door Lever,
-planeofsorrows,git,Placeable List/125/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",
+planeofsorrows,git,Placeable List/125/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",땅 위로 무거운 레버가 솟아올라 아래 보이지 않는 기계 장치를 제어하고 있습니다.
 planeofsorrows,git,Placeable List/125/LocName,0,14633,Door Lever,
-planeofsorrows,git,Placeable List/126/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",
+planeofsorrows,git,Placeable List/126/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",땅 위로 무거운 레버가 솟아올라 아래 보이지 않는 기계 장치를 제어하고 있습니다.
 planeofsorrows,git,Placeable List/126/LocName,0,14633,Door Lever,
-planeofsorrows,git,Placeable List/127/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",
+planeofsorrows,git,Placeable List/127/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",땅 위로 무거운 레버가 솟아올라 아래 보이지 않는 기계 장치를 제어하고 있습니다.
 planeofsorrows,git,Placeable List/127/LocName,0,14633,Door Lever,
-planeofsorrows,git,Placeable List/128/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",
+planeofsorrows,git,Placeable List/128/Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",땅 위로 무거운 레버가 솟아올라 아래 보이지 않는 기계 장치를 제어하고 있습니다.
 planeofsorrows,git,Placeable List/128/LocName,0,14633,Door Lever,
 planeofsorrows,git,Placeable List/13/LocName,0,64112,Filcher's Gold,
 planeofsorrows,git,Placeable List/14/LocName,0,64112,Filcher's Gold,
@@ -1767,7 +1767,7 @@ planeofsorrows,git,WaypointList/8/LocalizedName,0,14814,The Tree of Life,
 planeofsorrows,git,WaypointList/8/MapNote,0,14815,The Tree of Life,
 playerawakes001,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 playerawakes001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,Studded King's Armor,
-playerawakes001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,1519,Bolt,
+playerawakes001,git,Creature List/0/Equip_ItemList/2/LocalizedName,0,1519,Bolt,쇠뇌화살
 playerawakes001,git,Creature List/0/FirstName,0,-1,Corpse,
 playerawakes001,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 playerawakes001,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,King's Marching Plate,
@@ -1777,7 +1777,7 @@ playerawakes001,git,Creature List/10/Equip_ItemList/0/LocalizedName,0,-1,King's 
 playerawakes001,git,Creature List/10/FirstName,0,-1,Corpse,
 playerawakes001,git,Creature List/11/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 playerawakes001,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,King's Marching Plate,
-playerawakes001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,1522,Club,
+playerawakes001,git,Creature List/11/Equip_ItemList/1/LocalizedName,0,1522,Club,곤봉
 playerawakes001,git,Creature List/11/FirstName,0,-1,Corpse,
 playerawakes001,git,Creature List/12/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 playerawakes001,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,Studded King's Armor,
@@ -1825,7 +1825,7 @@ playerawakes001,git,Creature List/24/Equip_ItemList/0/LocalizedName,0,-1,King's 
 playerawakes001,git,Creature List/24/FirstName,0,-1,Corpse,
 playerawakes001,git,Creature List/25/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 playerawakes001,git,Creature List/25/Equip_ItemList/0/LocalizedName,0,-1,King's Leather,
-playerawakes001,git,Creature List/25/Equip_ItemList/2/LocalizedName,0,1521,Bullet,
+playerawakes001,git,Creature List/25/Equip_ItemList/2/LocalizedName,0,1521,Bullet,탄환
 playerawakes001,git,Creature List/25/FirstName,0,-1,Corpse,
 playerawakes001,git,Creature List/26/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 playerawakes001,git,Creature List/26/Equip_ItemList/0/LocalizedName,0,-1,King's Scale,
@@ -1941,17 +1941,17 @@ playerawakes001,git,Creature List/8/FirstName,0,-1,Corpse,
 playerawakes001,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 playerawakes001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,King's Scale,
 playerawakes001,git,Creature List/9/FirstName,0,-1,Corpse,
-playerawakes001,git,List/0/LocalizedName,0,1517,Arrow,
-playerawakes001,git,List/1/LocalizedName,0,1519,Bolt,
-playerawakes001,git,List/4/LocalizedName,0,1525,Dart,
-playerawakes001,git,List/7/LocalizedName,0,1517,Arrow,
+playerawakes001,git,List/0/LocalizedName,0,1517,Arrow,화살
+playerawakes001,git,List/1/LocalizedName,0,1519,Bolt,쇠뇌화살
+playerawakes001,git,List/4/LocalizedName,0,1525,Dart,표창
+playerawakes001,git,List/7/LocalizedName,0,1517,Arrow,화살
 playerawakes001,git,List/8/DescIdentified,0,-1,"This is a standard, disposable torch. Its duration is limited so it is wise to stock up on them and save them until they're needed.",
 playerawakes001,git,List/8/LocalizedName,0,-1,Torch,
 playerawakes001,git,List/9/DescIdentified,0,-1,"This bloodstained battleaxe seems solidly crafted and the inlaid gold seems genuine. Etched into the heavy blade is a single word: ""Witchbane.""",
 playerawakes001,git,List/9/LocalizedName,0,-1,Witchbane,
 playerawakes001,git,Placeable List/138/Description,0,-1,Place this object in any area where you want tracking to occur.  Set Will to the DC of tracking in this area.,
 playerawakes001,git,Placeable List/138/LocName,0,-1,Tracker,
-playerawakes001,git,Placeable List/60/Description,0,14656,"The sun-bleached corpse groans and shifts, a gust of wind giving it the brief appearance of unlife.",
+playerawakes001,git,Placeable List/60/Description,0,14656,"The sun-bleached corpse groans and shifts, a gust of wind giving it the brief appearance of unlife.",햇빛에 바랜 시체에 돌풍이 불어와 잠깐 동안 그 생명이 없는 모습은 신음 소리를 내며 움직입니다.
 playerawakes001,git,Placeable List/60/LocName,0,14657,Prince Ahmed,
 playerawakes001,git,SoundList/0/LocName,0,-1,Crickets Loop,
 playerawakes001,git,SoundList/1/LocName,0,-1,Hawk Cry,
@@ -2047,29 +2047,29 @@ steinfaarmines,git,Encounter List/6/LocalizedName,0,-1,Rats,
 steinfaarmines,git,Encounter List/7/LocalizedName,0,-1,Rats,
 steinfaarmines,git,Encounter List/8/LocalizedName,0,-1,Rats,
 steinfaarmines,git,Encounter List/9/LocalizedName,0,-1,Rats,
-steinfaarmines,git,Placeable List/0/Description,0,14588,Something roasts over the crackling fire. Grease drippings feed the flames below.,
+steinfaarmines,git,Placeable List/0/Description,0,14588,Something roasts over the crackling fire. Grease drippings feed the flames below.,뭔가가 탁탁 소리를 내며 타오릅니다. 지방이 방울방울 아래의 불꽃으로 스며들고 있습니다.
 steinfaarmines,git,Placeable List/0/LocName,0,5700,Spitted Roast,
 steinfaarmines,git,Placeable List/1/Description,0,14596,Dust gathers on this sturdy chest. It seems well-cared for but unused in recent days.,
 steinfaarmines,git,Placeable List/1/ItemList/0/DescIdentified,0,-1,"This is a standard, disposable torch. Its duration is limited so it is wise to stock up on them and save them until they're needed.",
 steinfaarmines,git,Placeable List/1/ItemList/0/LocalizedName,0,-1,Torch,
 steinfaarmines,git,Placeable List/1/LocName,0,5348,Torch Storage Chest,
-steinfaarmines,git,Placeable List/10/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/10/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/10/LocName,0,5691,Powderkeg,
-steinfaarmines,git,Placeable List/11/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/11/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/11/LocName,0,5691,Powderkeg,
-steinfaarmines,git,Placeable List/12/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/12/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/12/LocName,0,5691,Powderkeg,
-steinfaarmines,git,Placeable List/13/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/13/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/13/LocName,0,5691,Powderkeg,
-steinfaarmines,git,Placeable List/14/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/14/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/14/LocName,0,5691,Powderkeg,
-steinfaarmines,git,Placeable List/15/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/15/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/15/LocName,0,5691,Powderkeg,
 steinfaarmines,git,Placeable List/16/Description,0,14596,Dust gathers on this sturdy chest. It seems well-cared for but unused in recent days.,
 steinfaarmines,git,Placeable List/16/ItemList/0/DescIdentified,0,-1,"This is a standard, disposable torch. Its duration is limited so it is wise to stock up on them and save them until they're needed.",
 steinfaarmines,git,Placeable List/16/ItemList/0/LocalizedName,0,-1,Torch,
 steinfaarmines,git,Placeable List/16/LocName,0,5348,Torch Storage Chest,
-steinfaarmines,git,Placeable List/19/Description,0,14662,"You look about you, suspicious, but see nothing.",
+steinfaarmines,git,Placeable List/19/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 steinfaarmines,git,Placeable List/19/LocName,0,5800,Ghostly Figure,
 steinfaarmines,git,Placeable List/2/Description,0,14596,Dust gathers on this sturdy chest. It seems well-cared for but unused in recent days.,
 steinfaarmines,git,Placeable List/2/ItemList/0/DescIdentified,0,-1,"This is a standard, disposable torch. Its duration is limited so it is wise to stock up on them and save them until they're needed.",
@@ -2085,13 +2085,13 @@ steinfaarmines,git,Placeable List/4/ItemList/0/LocalizedName,0,-1,Torch,
 steinfaarmines,git,Placeable List/4/LocName,0,5348,Torch Storage Chest,
 steinfaarmines,git,Placeable List/5/Description,0,-1,Place this object in any area where you want tracking to occur.  Set Will to the DC of tracking in this area.,
 steinfaarmines,git,Placeable List/5/LocName,0,-1,Tracker,
-steinfaarmines,git,Placeable List/6/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/6/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/6/LocName,0,5691,Powderkeg,
-steinfaarmines,git,Placeable List/7/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/7/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/7/LocName,0,5691,Powderkeg,
-steinfaarmines,git,Placeable List/8/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/8/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/8/LocName,0,5691,Powderkeg,
-steinfaarmines,git,Placeable List/9/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+steinfaarmines,git,Placeable List/9/Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 steinfaarmines,git,Placeable List/9/LocName,0,5691,Powderkeg,
 steinfaarmines,git,SoundList/0/LocName,0,-1,Lava Pool,
 steinfaarmines,git,SoundList/1/LocName,0,-1,Fire Bowl,
@@ -2331,20 +2331,20 @@ thebattlefield,git,Creature List/47/FirstName,0,-1,Corpse,
 thebattlefield,git,Creature List/48/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 thebattlefield,git,Creature List/48/Equip_ItemList/0/LocalizedName,0,-1,King's Splint,
 thebattlefield,git,Creature List/48/FirstName,0,-1,Corpse,
-thebattlefield,git,Creature List/49/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.",
+thebattlefield,git,Creature List/49/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.","차가운 눈과 윤기나는 검은 깃털을 가진, 이 떠다니는 시체 청소부들은 종종 죽음의 징조나 전조로 여겨집니다."
 thebattlefield,git,Creature List/49/FirstName,0,6008,Crow,
 thebattlefield,git,Creature List/5/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, these robes are intended for both battle and ceremonial use.",
 thebattlefield,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,King's Robes,
 thebattlefield,git,Creature List/5/FirstName,0,-1,Corpse,
-thebattlefield,git,Creature List/50/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.",
+thebattlefield,git,Creature List/50/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.","차가운 눈과 윤기나는 검은 깃털을 가진, 이 떠다니는 시체 청소부들은 종종 죽음의 징조나 전조로 여겨집니다."
 thebattlefield,git,Creature List/50/FirstName,0,6008,Crow,
-thebattlefield,git,Creature List/51/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.",
+thebattlefield,git,Creature List/51/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.","차가운 눈과 윤기나는 검은 깃털을 가진, 이 떠다니는 시체 청소부들은 종종 죽음의 징조나 전조로 여겨집니다."
 thebattlefield,git,Creature List/51/FirstName,0,6008,Crow,
-thebattlefield,git,Creature List/52/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.",
+thebattlefield,git,Creature List/52/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.","차가운 눈과 윤기나는 검은 깃털을 가진, 이 떠다니는 시체 청소부들은 종종 죽음의 징조나 전조로 여겨집니다."
 thebattlefield,git,Creature List/52/FirstName,0,6008,Crow,
-thebattlefield,git,Creature List/53/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.",
+thebattlefield,git,Creature List/53/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.","차가운 눈과 윤기나는 검은 깃털을 가진, 이 떠다니는 시체 청소부들은 종종 죽음의 징조나 전조로 여겨집니다."
 thebattlefield,git,Creature List/53/FirstName,0,6008,Crow,
-thebattlefield,git,Creature List/54/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.",
+thebattlefield,git,Creature List/54/Description,0,12686,"With their cold eyes and glossy black feathers, these airborne scavengers are often considered ill omens or harbingers of death.","차가운 눈과 윤기나는 검은 깃털을 가진, 이 떠다니는 시체 청소부들은 종종 죽음의 징조나 전조로 여겨집니다."
 thebattlefield,git,Creature List/54/FirstName,0,6008,Crow,
 thebattlefield,git,Creature List/6/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, these robes are intended for both battle and ceremonial use.",
 thebattlefield,git,Creature List/6/Equip_ItemList/0/LocalizedName,0,-1,King's Robes,
@@ -2358,8 +2358,8 @@ thebattlefield,git,Creature List/8/FirstName,0,-1,Corpse,
 thebattlefield,git,Creature List/9/Equip_ItemList/0/DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 thebattlefield,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,King's Marching Plate,
 thebattlefield,git,Creature List/9/FirstName,0,-1,Corpse,
-thebattlefield,git,Placeable List/138/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-thebattlefield,git,Placeable List/138/LocName,0,52998,Boulder,
+thebattlefield,git,Placeable List/138/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+thebattlefield,git,Placeable List/138/LocName,0,52998,Boulder,바위
 thebattlefield,git,Placeable List/139/Description,0,-1,Place this object in any area where you want tracking to occur.  Set Will to the DC of tracking in this area.,
 thebattlefield,git,Placeable List/139/LocName,0,-1,Tracker,
 thebattlefield,git,Placeable List/140/LocName,0,5738,Cairn Stones,
@@ -2410,13 +2410,13 @@ thebattlefield,git,WaypointList/2/LocalizedName,0,14816,Death Spawnpoint X,
 thebattlefield,git,WaypointList/20/LocalizedName,0,14814,To the Northern Pass,
 thebattlefield,git,WaypointList/20/MapNote,0,14815,To the Northern Pass,
 thebridge,git,Creature List/0/FirstName,0,-1,Ethereal Leak Spawner,
-thebridge,git,Creature List/1/Description,0,2927,"Kobolds are small humanoids, dangerous only in great numbers.",
+thebridge,git,Creature List/1/Description,0,2927,"Kobolds are small humanoids, dangerous only in great numbers.","코볼트는 작은 인간형 생명체로, 많은 수의 무리로 있을때 위험합니다."
 thebridge,git,Creature List/1/Equip_ItemList/0/DescIdentified,0,-1,"Panels of hardened leather have been stitched onto the underlying rags. The leather has a sour smell, as if improperly cured.",
 thebridge,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,Ragged Armor,
 thebridge,git,Creature List/1/FirstName,0,2925,Kobold War Captain,
 thebridge,git,Creature List/2/Equip_ItemList/0/DescIdentified,0,-1,This once fine burial armor now reeks of rot and decay.,
 thebridge,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,Dead Man's Armor,
-thebridge,git,Door List/0/LocName,0,5349,Door,
+thebridge,git,Door List/0/LocName,0,5349,Door,문
 thebridge,git,Door List/1/LocName,0,5349,Broken Gate,
 thebridge,git,Door List/2/LocName,0,5349,Bone Gate,
 thebridge,git,Door List/3/Description,0,-1,"Moss clings to the ancient stonework, slowly overwhelming it.",

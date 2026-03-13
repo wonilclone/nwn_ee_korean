@@ -12,9 +12,9 @@ area,git,Placeable List/43/LocName,0,84561,Papers,
 area,git,Placeable List/44/Description,0,84574,Various scraps of paper.,
 area,git,Placeable List/44/LocName,0,84561,Playbills,
 area,git,Placeable List/46/LocName,0,5800,Journal,
-area002,git,Placeable List/79/Description,0,14662,"You look about you, suspicious, but see nothing.",
+area002,git,Placeable List/79/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 area002,git,Placeable List/79/LocName,0,5800,Destiny,
-area002,git,Placeable List/80/Description,0,14533,A portal glows softly before you. You wonder where it leads.,
+area002,git,Placeable List/80/Description,0,14533,A portal glows softly before you. You wonder where it leads.,차원문이 당신 앞에서 은은하게 빛나고 있습니다. 당신은 차원문이 어디로 이어지는지 궁금합니다.
 area003,git,Creature List/0/FirstName,0,12574,Leftovers,
 area003,git,Creature List/1/Equip_ItemList/0/LocalizedName,0,-1,male surgery slave,
 area003,git,Creature List/1/FirstName,0,-1,Slave,
@@ -31,10 +31,10 @@ area003,git,Creature List/6/Equip_ItemList/1/DescIdentified,0,-1,A Ring of Sendi
 area003,git,Creature List/6/Equip_ItemList/1/Description,0,-1,A plain-looking silver ring.,
 area003,git,Creature List/6/Equip_ItemList/1/LocalizedName,0,-1,Ring of Sending,
 area003,git,Creature List/6/FirstName,0,-1,Aladara,
-area003,git,Door List/1/LocName,0,5349,Door,
-area003,git,Door List/2/LocName,0,5349,Door,
+area003,git,Door List/1/LocName,0,5349,Door,문
+area003,git,Door List/2/LocName,0,5349,Door,문
 area003,git,Placeable List/12/LocName,0,5737,Slave,
-area003,git,Placeable List/23/Description,0,14600,Either he owned little to begin with or this man was stripped of all he had.,
+area003,git,Placeable List/23/Description,0,14600,Either he owned little to begin with or this man was stripped of all he had.,"처음부터 아무것도 없었거나, 또는 자신이 가진 것을 모두 빼앗긴 상태입니다."
 area003,git,Placeable List/23/LocName,0,14601,Bloody Corpse,
 area003,git,Placeable List/5/LocName,0,5737,Slave,
 area003,git,Placeable List/58/Description,0,14662,A bloodied notebook containing ghastly anatomy diagrams.,
@@ -63,11 +63,11 @@ area003,git,Placeable List/67/Description,0,14572,"The faint outline of dried bl
 area003,git,Placeable List/68/Description,0,14752,"A well appointed wine rack rests here, stocked with some surprisingly rare vintages.",
 area003,git,Placeable List/68/LocName,0,5748,Wine Rack,
 area003,git,Placeable List/69/LocName,0,14549,Larder,
-area003,git,Placeable List/7/Description,0,6792,There is nothing special about this object.,
+area003,git,Placeable List/7/Description,0,6792,There is nothing special about this object.,해당 물체에는 특별한 점이 없습니다.
 area003,git,Placeable List/7/LocName,0,5737,Slave,
 area003,git,TriggerList/1/LocalizedName,0,14759,AladaraDialog,
 area003,git,TriggerList/3/LocalizedName,0,14759,Secret Door,
-area004,git,Door List/0/LocName,0,5349,Door,
+area004,git,Door List/0/LocName,0,5349,Door,문
 area004,git,Door List/2/Description,0,9078,A typical wooden door.,
 area004,git,Placeable List/5/Description,0,14708,"A wide assortment of tea from all over the Planes, along with a tea kettle that has seen better days.",
 area004,git,Placeable List/5/LocName,0,14709,Cloth Bags,
@@ -98,10 +98,10 @@ area006,git,Creature List/7/Equip_ItemList/0/LocalizedName,0,-1,Cultist Outfit,
 area006,git,Creature List/7/FirstName,0,-1,Cultist,
 area006,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,Cultist Outfit,
 area006,git,Creature List/8/FirstName,0,-1,Cultist,
-area006,git,Door List/0/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+area006,git,Door List/0/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 area006,git,Door List/0/LocName,0,5349,Thick Stone Door,
-area006,git,Placeable List/103/Description,0,6792,There is nothing special about this object.,
-area006,git,Placeable List/73/Description,0,14596,"Metal studs poke through the woodwork of this ornate chest. Judging by the fine craftsmanship, this strongbox appears to have been intended for public display.",
+area006,git,Placeable List/103/Description,0,6792,There is nothing special about this object.,해당 물체에는 특별한 점이 없습니다.
+area006,git,Placeable List/73/Description,0,14596,"Metal studs poke through the woodwork of this ornate chest. Judging by the fine craftsmanship, this strongbox appears to have been intended for public display.",이 화려한 궤짝의 목조 부분에 금속 징이 튀어나와 있습니다. 훌륭한 솜씨로 판단하건대 이 금고는 대중 전시를 위해 만들어진 것으로 보입니다.
 area006,git,Placeable List/74/LocName,0,68939,Barrel,
 area006,git,Placeable List/81/LocName,0,68869,Ornate Chest,
 area006,git,TriggerList/4/LocalizedName,0,14759,1.DDF_NPC_Karkualii_FINAL,
@@ -121,8 +121,8 @@ area007,git,Creature List/2/ItemList/4/LocalizedName,0,13798,City Guard Armor,
 area007,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,Terana Clank Clothes,
 area007,git,Creature List/3/FirstName,0,-1,Terana,
 area007,git,Creature List/3/LastName,0,-1,Clank,
-area007,git,Door List/5/LocName,0,5349,Door,
-area007,git,Door List/6/LocName,0,5349,Door,
+area007,git,Door List/5/LocName,0,5349,Door,문
+area007,git,Door List/6/LocName,0,5349,Door,문
 area007,git,Placeable List/21/Description,0,14577,A sturdy rack for storing weapons.,
 area007,git,Placeable List/21/LocName,0,14578,Weapon Rack,
 area007,git,Placeable List/22/Description,0,14577,A sturdy rack for storing weapons.,
@@ -153,10 +153,10 @@ area008,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,Slaves of Ulan M
 area008,git,Creature List/8/FirstName,0,-1,Slave,
 area008,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,Slaves of Ulan Mens Clothes,
 area008,git,Creature List/9/FirstName,0,-1,Slave,
-area008,git,Door List/4/LocName,0,5349,Door,
+area008,git,Door List/4/LocName,0,5349,Door,문
 area008,git,Door List/5/LocName,0,5349,Locked Guard Post Door,
 area008,git,Door List/6/LocName,0,5349,Locked Guard Post Door,
-area008,git,Door List/7/LocName,0,5349,Door,
+area008,git,Door List/7/LocName,0,5349,Door,문
 area008,git,Encounter List/0/LocalizedName,0,-1,Ulan Warehouse Encounter,
 area008,git,Placeable List/103/Description,0,84576,"This document, ratified in triplicate by the Fraternity of Order, details the sale of this warehouse to House Corano.",
 area008,git,Placeable List/103/LocName,0,84563,Bill of Sale,
@@ -166,7 +166,7 @@ area008,git,Placeable List/105/Description,0,84576,"A detailed list of stock fro
 area008,git,Placeable List/105/LocName,0,84563,Shipping Manifest,
 area008,git,Placeable List/108/Description,0,14653,These bales of hay appear to be used to change out the bedding of the slaves. They seem to be unused and smell faintly of rot.,
 area008,git,Placeable List/108/LocName,0,14654,Hay Bales,
-area008,git,Placeable List/80/Description,0,68936,"A pile of books, carelessly discarded.",
+area008,git,Placeable List/80/Description,0,68936,"A pile of books, carelessly discarded.",부주의하게 버려진 책 더미입니다.
 area008,git,Placeable List/80/ItemList/0/DescIdentified,0,-1,"Several entries fill this ledger in a loose, flowing hand.
 
 One entry you see is a note Ulan wrote to himself. It mentions needing to use the secret door in the back of the warehouse more -- now that the Coranos are no longer ""laundering"" them, the slaves needed to be delivered directly to a woman named Aladara for ""processing."" He curses the hassle and lack of efficiency in the process of masking slaves as penitent to a ""spiritual advisor.""
@@ -206,7 +206,7 @@ area009,git,Creature List/4/ItemList/0/LocalizedName,0,-1,Worldwine Potion,
 area009,git,Door List/1/Description,0,9078,A typical wooden door.,
 area009,git,Door List/2/Description,0,9078,A typical wooden door.,
 area009,git,Encounter List/0/LocalizedName,0,-1,Rathole NPC's 1,
-area009,git,StoreList/0/LocName,0,14813,General Store,
+area009,git,StoreList/0/LocName,0,14813,General Store,일반 상점
 area010,git,Creature List/1/FirstName,0,2925,Warband Thug,
 area010,git,Creature List/10/FirstName,0,2933,Warband Sneaker,
 area010,git,Creature List/11/FirstName,0,2933,Warband Sneaker,
@@ -226,7 +226,7 @@ area010,git,Creature List/7/FirstName,0,2933,Warband Sneaker,
 area010,git,Creature List/8/FirstName,0,2933,Warband Sneaker,
 area010,git,Creature List/9/FirstName,0,2933,Warband Sneaker,
 area010,git,Door List/2/Description,0,-1,A solid stone door with a central keyhole. Scrape marks on the floor suggest someone might have used it recently.,
-area010,git,Door List/3/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+area010,git,Door List/3/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 area010,git,Door List/3/LocName,0,5349,Thick Stone Door,
 area010,git,Encounter List/0/LocalizedName,0,-1,Ochre Jelly in Smuggler's Tunnels,
 area010,git,Encounter List/1/LocalizedName,0,-1,Ochre Jelly in Smuggler's Tunnels,
@@ -293,7 +293,7 @@ area011,git,Creature List/8/ItemList/1/LocalizedName,0,-1,Worldwine Potion,
 area011,git,Creature List/8/ItemList/2/DescIdentified,0,-1,"A bottle of a thick, sweet-looking purple liquid. Worldwine is said to cause a dreamlike state in mortals. Wherever the substance itself originally came from, the *container* looks like a repurposed spirits bottle, from a tavern called Rooster's Roost.",
 area011,git,Creature List/8/ItemList/2/Description,0,-1,"A bottle of a thick, sweet-looking purple liquid. Worldwine is said to cause a dreamlike state in mortals. Wherever the substance itself originally came from, the *container* looks like a repurposed spirits bottle, from a tavern called Rooster's Roost.",
 area011,git,Creature List/8/ItemList/2/LocalizedName,0,-1,Worldwine Potion,
-area011,git,Creature List/9/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",
+area011,git,Creature List/9/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.",이 날지 못하고 길들여진 새는 부드러운 고기와 거의 매일 알을 낳기 때문에 모두 소중하게 여깁니다.
 area011,git,Creature List/9/FirstName,0,12416,Roosters Rooster,
 area011,git,Placeable List/0/LocName,0,84565,Dresser,
 area011,git,Placeable List/23/LocName,0,68861,Bar,
@@ -350,10 +350,10 @@ coranovilla001,git,Creature List/8/Equip_ItemList/1/LocalizedName,0,13798,City G
 coranovilla001,git,Creature List/8/FirstName,0,-1,City Guard,
 coranovilla001,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,Noble Garb 5,
 coranovilla001,git,Creature List/9/FirstName,0,-1,Winthrop,
-coranovilla001,git,Door List/3/LocName,0,5349,Door,
+coranovilla001,git,Door List/3/LocName,0,5349,Door,문
 coranovilla001,git,Door List/4/LocName,0,5349,BackDoor,
 coranovilla001,git,Placeable List/0/Description,0,68936,A pile of books and documents.,
-coranovilla001,git,Placeable List/0/LocName,0,68935,Book Piles,
+coranovilla001,git,Placeable List/0/LocName,0,68935,Book Piles,책 더미
 coranovilla001,git,Placeable List/1/ItemList/0/Description,0,-1,This collection of documents includes the deed for a building in the North Market District being rented by one Aladara the Dreamer. It's notarized by the Fraternity of Order. Farasano Corano paid more for her building than you would likely see in a lifetime of adventuring.,
 coranovilla001,git,Placeable List/1/ItemList/0/LocalizedName,0,-1,North Market Property Deeds,
 coranovilla001,git,Placeable List/1/ItemList/3/Description,0,-1,"These documents detail the deeds and ownership of several warehouses in the Sea Market district, including one rented out to a slaver named Ulan Aurintar. Attached are receipts for the purchase of a very large number of slaves from Ulan, including notes that reference to the quality of the slaves ""post-recovery."" It doesn't detail what they are recovering from.",
@@ -365,7 +365,7 @@ coranovilla001,git,Placeable List/33/LocName,0,84592,Broken Shelves,
 coranovilla001,git,Placeable List/70/Description,0,14597,This box is filled with some very expensive and sweet smelling pipeweed.,
 coranovilla001,git,Placeable List/70/LocName,0,5348,Tobacco Box,
 coranovilla001,git,Placeable List/71/Description,0,68936,One of the books details the theorized layout of the Inner and Outer planes.,
-coranovilla001,git,Placeable List/71/LocName,0,68935,Book Piles,
+coranovilla001,git,Placeable List/71/LocName,0,68935,Book Piles,책 더미
 coranovilla001,git,Placeable List/72/Description,0,14572,This streaked blood and single footprint indicates that this was the point of entry for a single assassin. Chilling to think one person may have been responsible for all the death here.,
 coranovilla001,git,Placeable List/72/LocName,0,5789,Bloody Footprint,
 coranovilla001,git,SoundList/6/LocName,0,67826,coughs and whispers,
@@ -405,7 +405,7 @@ firstnightmare,git,Creature List/8/Description,0,-1,A ghastly shadow.,
 firstnightmare,git,Creature List/8/FirstName,0,-1,Nightmare Shadow,
 firstnightmare,git,Creature List/9/Description,0,-1,A ghastly shadow.,
 firstnightmare,git,Creature List/9/FirstName,0,-1,Nightmare Shadow,
-firstnightmare,git,Placeable List/0/Description,0,14662,"You look about you, suspicious, but see nothing.",
+firstnightmare,git,Placeable List/0/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 firstnightmare,git,Placeable List/0/LocName,0,5800,Mysterious Voice,
 firstnightmare,git,TriggerList/0/LocalizedName,0,14759,1.P_N1_MYSTERIOUS_VOICE.nmys_001,
 firstnightmare,git,TriggerList/1/LocalizedName,0,14759,1.DDF_NPC_AladaraExplode,
@@ -475,7 +475,7 @@ midtownmunicipal,git,Placeable List/12/Description,0,-1,A door mat,
 midtownmunicipal,git,Placeable List/12/LocName,0,-1,Entrance to Records Building,
 midtownmunicipal,git,Placeable List/15/LocName,0,14616,"""To Sea Market""",
 midtownmunicipal,git,Placeable List/16/LocName,0,14616,"""To Sea Market""",
-midtownmunicipal,git,Placeable List/2/Description,0,41263,A wooden door.,
+midtownmunicipal,git,Placeable List/2/Description,0,41263,A wooden door.,나무 문.
 midtownmunicipal,git,Placeable List/2/LocName,0,63463,Records Building Door,
 midtownmunicipal,git,Placeable List/22/Description,0,6792,A basket with crumbs.,
 midtownmunicipal,git,Placeable List/22/LocName,0,111668,Bread Basket,
@@ -489,12 +489,12 @@ midtownmunicipal,git,Placeable List/38/LocName,0,-1,DDF Flag C01,
 midtownmunicipal,git,Placeable List/5/Description,0,14662,The aroma of fresh baked goods is trapped behind this window.,
 midtownmunicipal,git,Placeable List/5/LocName,0,5800,Bakery Window,
 midtownmunicipal,git,Placeable List/9/LocName,0,14616,"""Boggart's Bakery""",
-midtownmunicipal,git,TriggerList/0/LocalizedName,0,14759,New Generic,
+midtownmunicipal,git,TriggerList/0/LocalizedName,0,14759,New Generic,새 일반
 midtownmunicipal,git,WaypointList/13/MapNote,0,14815,Area Exit,
 midtownmunicipal,git,WaypointList/14/MapNote,0,14815,Municipal Records Building,
-midtownmunicipal,git,WaypointList/15/LocalizedName,0,14814,Map Note,
+midtownmunicipal,git,WaypointList/15/LocalizedName,0,14814,Map Note,지도 설명
 midtownmunicipal,git,WaypointList/15/MapNote,0,14815,Back Door of Municipal Records Building,
-midtownmunicipal,git,WaypointList/16/LocalizedName,0,14814,Map Note,
+midtownmunicipal,git,WaypointList/16/LocalizedName,0,14814,Map Note,지도 설명
 midtownmunicipal,git,WaypointList/16/MapNote,0,14815,Bakery,
 northmarket,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,City Guard Teeth Helmet,
 northmarket,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,City Guard Armor,
@@ -563,7 +563,7 @@ ratholestreets,git,Creature List/5/Equip_ItemList/1/LocalizedName,0,13798,City G
 ratholestreets,git,Creature List/5/FirstName,0,-1,City Guard,
 ratholestreets,git,Door List/0/LocName,0,5349,Inn Door,
 ratholestreets,git,Door List/1/LocName,0,5349,Gate,
-ratholestreets,git,Door List/2/LocName,0,5349,Door,
+ratholestreets,git,Door List/2/LocName,0,5349,Door,문
 ratholestreets,git,Door List/3/Description,0,-1,This is a private residence of no consequence; you can't get inside.,
 ratholestreets,git,Door List/3/LocName,0,-1,Unusable Door,
 ratholestreets,git,Door List/4/Description,0,-1,This is a private residence of no consequence; you can't get inside.,
@@ -604,12 +604,12 @@ recordbuilding,git,Creature List/1/Equip_ItemList/1/LocalizedName,0,13798,Guvner
 recordbuilding,git,Creature List/1/FirstName,0,-1,Fraternity of Order Guard,
 recordbuilding,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,13798,Guvner Guard Armor,
 recordbuilding,git,Creature List/2/FirstName,0,-1,Fraternity of Order Clerk,
-recordbuilding,git,Door List/2/LocName,0,5349,Door,
+recordbuilding,git,Door List/2/LocName,0,5349,Door,문
 recordbuilding,git,Placeable List/27/Description,0,68936,A pile of record books waiting to be refiled.,
 recordbuilding,git,Placeable List/27/LocName,0,68935,Book Pile,
 recordbuilding,git,Placeable List/28/Description,0,68934,"""The Care and Keeping of Records""  A well worn book on the topic of record keeping best practices passed down through the ages.",
-recordbuilding,git,Placeable List/28/LocName,0,68933,Tome,
-recordbuilding,git,Placeable List/5/Description,0,66696,"Stuffed with tomes of all shapes and sizes, this bookcase stores a wealth of knowledge.",
+recordbuilding,git,Placeable List/28/LocName,0,68933,Tome,책
+recordbuilding,git,Placeable List/5/Description,0,66696,"Stuffed with tomes of all shapes and sizes, this bookcase stores a wealth of knowledge.",모든 모양과 크기의 책으로 가득 찬 이 책장에는 풍부한 지식이 저장되어 있습니다.
 seamarket,git,Creature List/0/Description,0,-1,"The gnome, Quilian, stands before you hunched over, the result of hours of work. His brown skin is covered in small patches of dirt and ash he absently wipes at. It doesn't help. Blue hair sticks out of his peaked cap, also patched with grime of an indeterminate nature. His belt is lashed with pouches and it seems the other clothes he wears, from his half robe to his vest to his belt, are made of pockets. He constantly looks around and you'd swear his image shimmers and wavers out of the corner of your eye.",
 seamarket,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,Unused Armor,
 seamarket,git,Creature List/0/FirstName,0,-1,Quillian,
@@ -760,7 +760,7 @@ seamarket,git,Door List/15/Description,0,-1,Nothing to see here.,
 seamarket,git,Door List/15/LocName,0,-1,Unusable Door,
 seamarket,git,Door List/16/Description,0,-1,Nothing to see here.,
 seamarket,git,Door List/16/LocName,0,-1,Unusable Door,
-seamarket,git,Door List/5/LocName,0,5349,Door,
+seamarket,git,Door List/5/LocName,0,5349,Door,문
 seamarket,git,Encounter List/0/LocalizedName,0,-1,Guards Outside Ulans Warehouse,
 seamarket,git,Encounter List/1/LocalizedName,0,-1,Guards Outside Ulans Warehouse,
 seamarket,git,Encounter List/2/LocalizedName,0,-1,SeaMarket Merchant Commoners,
@@ -778,18 +778,18 @@ seamarket,git,Placeable List/179/LocName,0,14616,Sea Market Exit,
 seamarket,git,Placeable List/180/LocName,0,14616,Sea Market Exit,
 seamarket,git,Placeable List/184/Description,0,-1,A door mat,
 seamarket,git,Placeable List/184/LocName,0,-1,Entrance to City Guard Post,
-seamarket,git,Placeable List/233/Description,0,14618,A banner - stitched and dyed - denoting a point of interest.,
+seamarket,git,Placeable List/233/Description,0,14618,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 seamarket,git,Placeable List/233/LocName,0,14616,Sea Market Exit,
-seamarket,git,Placeable List/234/Description,0,14618,A banner - stitched and dyed - denoting a point of interest.,
+seamarket,git,Placeable List/234/Description,0,14618,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 seamarket,git,Placeable List/234/LocName,0,14616,Sea Market Exit,
-seamarket,git,Placeable List/258/Description,0,6792,There is nothing special about this object.,
+seamarket,git,Placeable List/258/Description,0,6792,There is nothing special about this object.,해당 물체에는 특별한 점이 없습니다.
 seamarket,git,Placeable List/258/LocName,0,111222,Sea Market Exit,
 seamarket,git,Placeable List/259/LocName,0,111222,Sea Market Exit,
 seamarket,git,Placeable List/278/LocName,0,14616,Sea Market Exit,
 seamarket,git,Placeable List/279/LocName,0,14616,Sea Market Exit,
-seamarket,git,Placeable List/289/Description,0,14618,A banner - stitched and dyed - denoting a point of interest.,
+seamarket,git,Placeable List/289/Description,0,14618,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 seamarket,git,Placeable List/289/LocName,0,14616,South Market Banner,
-seamarket,git,Placeable List/290/Description,0,14618,A banner - stitched and dyed - denoting a point of interest.,
+seamarket,git,Placeable List/290/Description,0,14618,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 seamarket,git,Placeable List/290/LocName,0,14616,South Market Banner,
 seamarket,git,Placeable List/294/Description,0,14560,A marker denoting a point of interest.,
 seamarket,git,Placeable List/294/LocName,0,14561,A weather worn sign,
@@ -816,7 +816,7 @@ seamarket,git,Placeable List/380/Description,0,-1,The flag of Furiae.,
 seamarket,git,Placeable List/380/LocName,0,-1,DDF Flag B01,
 seamarket,git,Placeable List/381/Description,0,-1,The flag of Furiae.,
 seamarket,git,Placeable List/381/LocName,0,-1,DDF Flag D01,
-seamarket,git,Placeable List/385/Description,0,14610,"The old wagon lies empty, abandoned, like a faithful pet that still expects its master to come home.",
+seamarket,git,Placeable List/385/Description,0,14610,"The old wagon lies empty, abandoned, like a faithful pet that still expects its master to come home.",낡은 마차는 주인이 집에 돌아오기를 바라는 충직한 애완동물처럼 텅 빈 채 버려져 있습니다.
 seamarket,git,Placeable List/385/LocName,0,14611,UlanWarehouseCageBlocker,
 seamarket,git,SoundList/62/LocName,0,67870,Laundry Woman,
 seamarket,git,SoundList/63/LocName,0,67870,Laundry Woman,
@@ -830,8 +830,8 @@ seamarket,git,TriggerList/0/LocalizedName,0,14759,0.ULAN_WHOUSE_DESCRIPTION,
 seamarket,git,TriggerList/1/LocalizedName,0,14759,GuardDialog,
 seamarket,git,TriggerList/2/LocalizedName,0,14759,StartCinemaIncitingIncident,
 seamarket,git,TriggerList/3/LocalizedName,0,14760,Area Transition,
-seamarket,git,TriggerList/5/LocalizedName,0,68970,Secret Walldoor Stone,
-seamarket,git,WaypointList/0/LocalizedName,0,14817,Waypoint,
+seamarket,git,TriggerList/5/LocalizedName,0,68970,Secret Walldoor Stone,비밀 돌 벽 문
+seamarket,git,WaypointList/0/LocalizedName,0,14817,Waypoint,웨이포인트
 seamarket,git,WaypointList/157/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy,
 seamarket,git,WaypointList/158/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy,
 seamarket,git,WaypointList/32/LocalizedName,0,14817,UlanWarehouseCageBlockerWaypoint,
@@ -851,7 +851,7 @@ seamarket,git,WaypointList/60/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy,
 seamarket,git,WaypointList/61/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy,
 seamarket,git,WaypointList/62/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy,
 seamarket,git,WaypointList/63/LocalizedName,0,-1,WP_Walk_DDF_NPC_Teddy,
-seamarket,git,WaypointList/66/LocalizedName,0,14814,Map Note,
+seamarket,git,WaypointList/66/LocalizedName,0,14814,Map Note,지도 설명
 seamarket,git,WaypointList/66/MapNote,0,14815,Ulan's Warehouse,
 seamarket,git,WaypointList/67/MapNote,0,14815,Destroyed Warehouse,
 seamarket,git,WaypointList/68/LocalizedName,0,14814,City Guard,
@@ -869,7 +869,7 @@ seamarket,git,WaypointList/73/MapNote,0,14815,Kresh,
 seamarket,git,WaypointList/74/LocalizedName,0,14814,Cochrane,
 seamarket,git,WaypointList/74/MapNote,0,14815,Cochrane,
 seamarket,git,WaypointList/75/LocalizedName,0,-1,CochraneBar,
-seamarket,git,WaypointList/99/LocalizedName,0,14816,Post,
+seamarket,git,WaypointList/99/LocalizedName,0,14816,Post,주둔지
 seamarketguar001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,City Guard Teeth Helmet,
 seamarketguar001,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,13798,City Guard Armor,
 seamarketguar001,git,Creature List/0/FirstName,0,-1,City Guard,
@@ -879,12 +879,12 @@ seamarketguar001,git,Creature List/1/FirstName,0,-1,City Guard,
 seamarketguar001,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,City Guard Teeth Helmet,
 seamarketguar001,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,13798,City Guard Armor,
 seamarketguar001,git,Creature List/2/FirstName,0,-1,City Guard,
-secondnightmare,git,Creature List/0/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.",
+secondnightmare,git,Creature List/0/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 secondnightmare,git,Creature List/0/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,Creature List/1/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,Creature List/10/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,Creature List/11/FirstName,0,12827,Slave Zombie,
-secondnightmare,git,Creature List/12/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.",
+secondnightmare,git,Creature List/12/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 secondnightmare,git,Creature List/12/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,Creature List/13/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,Creature List/14/Description,0,-1,"This woman is the very picture of a seer. Her long dark hair is held in a tangled ponytail. She wears a set of blood-speckled grey robes, as tattered, torn, and frayed as her unfocused gaze. A collection of beads and baubles rests around her neck, making soft clicking sounds when she moves.",
@@ -902,18 +902,18 @@ secondnightmare,git,Creature List/17/Equip_ItemList/0/LocalizedName,0,-1,Karkual
 secondnightmare,git,Creature List/17/Equip_ItemList/1/LocalizedName,0,-1,Karkualii's Claws,
 secondnightmare,git,Creature List/17/Equip_ItemList/2/LocalizedName,0,-1,Karkualii's Bite,
 secondnightmare,git,Creature List/17/FirstName,0,-1,Mog,
-secondnightmare,git,Creature List/2/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.",
+secondnightmare,git,Creature List/2/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 secondnightmare,git,Creature List/2/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,Creature List/3/FirstName,0,12827,Slave Zombie,
-secondnightmare,git,Creature List/4/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.",
+secondnightmare,git,Creature List/4/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 secondnightmare,git,Creature List/4/FirstName,0,12827,Slave Zombie,
-secondnightmare,git,Creature List/5/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.",
+secondnightmare,git,Creature List/5/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 secondnightmare,git,Creature List/5/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,Creature List/6/FirstName,0,12827,Slave Zombie,
-secondnightmare,git,Creature List/7/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.",
+secondnightmare,git,Creature List/7/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 secondnightmare,git,Creature List/7/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,Creature List/8/FirstName,0,12827,Slave Zombie,
-secondnightmare,git,Creature List/9/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.",
+secondnightmare,git,Creature List/9/Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 secondnightmare,git,Creature List/9/FirstName,0,12827,Slave Zombie,
 secondnightmare,git,TriggerList/0/LocalizedName,0,14759,1.DDF_NPC_AladaraDead,
 secondnightmare,git,TriggerList/1/LocalizedName,0,14759,1.DDF_NPC_HarasiNightmare,
@@ -932,7 +932,7 @@ smoothies,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,Noble Garb 2,
 smoothies,git,Creature List/11/FirstName,0,-1,Noble,
 smoothies,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,12928,Devil 1 Outfit,
 smoothies,git,Creature List/12/FirstName,0,-1,Cambion,
-smoothies,git,Creature List/13/Description,0,111457,"Horses make useful beasts of burden, and the best of them also make good warhorses.",
+smoothies,git,Creature List/13/Description,0,111457,"Horses make useful beasts of burden, and the best of them also make good warhorses.","Horses make useful beasts of burden, and the best of them also make good warhorses."
 smoothies,git,Creature List/13/FirstName,0,111456,Nugget the Horse,
 smoothies,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,Commoner Garb,
 smoothies,git,Creature List/14/FirstName,0,-1,Citizen,
@@ -942,12 +942,12 @@ smoothies,git,Creature List/16/Equip_ItemList/0/LocalizedName,0,-1,Noble Garb 7,
 smoothies,git,Creature List/16/FirstName,0,-1,Nobel Citizen,
 smoothies,git,Creature List/18/Equip_ItemList/0/LocalizedName,0,-1,Commoner Garb,
 smoothies,git,Creature List/18/FirstName,0,-1,Nobel Citizen,
-smoothies,git,Creature List/19/Description,0,111457,"Horses make useful beasts of burden, and the best of them also make good entertainers.",
+smoothies,git,Creature List/19/Description,0,111457,"Horses make useful beasts of burden, and the best of them also make good entertainers.","Horses make useful beasts of burden, and the best of them also make good warhorses."
 smoothies,git,Creature List/19/FirstName,0,111456,Dancer the Horse,
 smoothies,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,City Guard Teeth Helmet,
 smoothies,git,Creature List/2/Equip_ItemList/1/LocalizedName,0,13798,City Guard Armor,
 smoothies,git,Creature List/2/FirstName,0,-1,City Guard,
-smoothies,git,Creature List/20/Description,0,111457,"Horses make useful beasts of burden, and the best of them also make good oat eaters.",
+smoothies,git,Creature List/20/Description,0,111457,"Horses make useful beasts of burden, and the best of them also make good oat eaters.","Horses make useful beasts of burden, and the best of them also make good warhorses."
 smoothies,git,Creature List/20/FirstName,0,111456,James the Legn't Horse,
 smoothies,git,Creature List/3/Equip_ItemList/0/LocalizedName,0,-1,City Guard Teeth Helmet,
 smoothies,git,Creature List/3/Equip_ItemList/1/LocalizedName,0,13798,City Guard Teeth Armor,
@@ -968,7 +968,7 @@ smoothies,git,Creature List/8/Equip_ItemList/0/LocalizedName,0,-1,Noble Garb 1,
 smoothies,git,Creature List/8/FirstName,0,-1,Noble,
 smoothies,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,Noble Garb 1,
 smoothies,git,Creature List/9/FirstName,0,-1,Noble,
-smoothies,git,Door List/0/LocName,0,5349,Door,
+smoothies,git,Door List/0/LocName,0,5349,Door,문
 smoothies,git,Door List/3/Description,0,-1,Nothing to see here.,
 smoothies,git,Door List/3/LocName,0,-1,Unusable Door,
 smoothies,git,Door List/4/Description,0,-1,Nothing to see here.,
@@ -988,7 +988,7 @@ smoothies,git,Placeable List/196/Description,0,-1,The flag of Furiae.,
 smoothies,git,Placeable List/196/LocName,0,-1,DDF Flag B01,
 smoothies,git,TriggerList/0/LocalizedName,0,14759,Teddy_Diva_Talk,
 smoothies,git,WaypointList/10/MapNote,0,14815,Corano Villa Back Door,
-smoothies,git,WaypointList/5/LocalizedName,0,14817,Waypoint,
+smoothies,git,WaypointList/5/LocalizedName,0,14817,Waypoint,웨이포인트
 smoothies,git,WaypointList/8/MapNote,0,14815,Area Exit,
 smoothies,git,WaypointList/9/MapNote,0,14815,Corano Villa,
 soultradeinn,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,Hamel Clothes,
@@ -1002,15 +1002,15 @@ soultradeinn,git,Creature List/3/FirstName,0,-1,Federus,
 soultradeinn,git,Creature List/3/LastName,0,-1,Norial,
 soultradeinn,git,Door List/1/Description,0,9078,A typical wooden door.,
 soultradeinn,git,Door List/2/Description,0,9078,A typical wooden door.,
-soultradeinn,git,Door List/4/LocName,0,5349,Door,
-soultradeinn,git,Door List/5/Description,0,9078,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",
-soultradeinn,git,Door List/5/LocName,0,5349,Door,
+soultradeinn,git,Door List/4/LocName,0,5349,Door,문
+soultradeinn,git,Door List/5/Description,0,9078,"Fashioned from rough-hewn wood, this simple door swings on ill-fitting hinges.",거칠게 깎은 나무로 만들어진 이 단순한 문은 맞지 않는 경첩 때문에 흔들립니다.
+soultradeinn,git,Door List/5/LocName,0,5349,Door,문
 soultradeinn,git,Encounter List/0/LocalizedName,0,-1,NPC Soul Trade1,
 soultradeinn,git,TriggerList/0/LocalizedName,0,14760,DoorToHarasiSoulApt,
 soultradeinn,git,TriggerList/1/LocalizedName,0,14759,Set Visited Wing Flag,
 soultradeinn,git,WaypointList/1/MapNote,0,14815,Area Exit,
 soultradeinn,git,WaypointList/2/MapNote,0,14815,Harasi's Suite,
-the_end,git,Placeable List/73/Description,0,14662,"You look about you, suspicious, but see nothing.",
+the_end,git,Placeable List/73/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 the_end,git,Placeable List/73/LocName,0,5800,Destiny,
 the_end,git,Placeable List/74/LocName,0,5800,Narrator,
 the_end,git,TriggerList/0/LocalizedName,0,14759,1.end_dialog_object,
@@ -1059,24 +1059,24 @@ tunnels01,git,Creature List/8/FirstName,0,-1,Slave,
 tunnels01,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,Slaver Outfit,
 tunnels01,git,Creature List/9/FirstName,0,-1,Slaver Caster,
 tunnels01,git,Creature List/9/LastName,0,-1,Slaver,
-tunnels01,git,Door List/1/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+tunnels01,git,Door List/1/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 tunnels01,git,Door List/1/LocName,0,5349,Thick Stone Door,
-tunnels01,git,Door List/13/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+tunnels01,git,Door List/13/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 tunnels01,git,Door List/13/LocName,0,5349,Thick Stone Door,
-tunnels01,git,Door List/14/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+tunnels01,git,Door List/14/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 tunnels01,git,Door List/14/LocName,0,5349,Thick Stone Door,
-tunnels01,git,Door List/15/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+tunnels01,git,Door List/15/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 tunnels01,git,Door List/15/LocName,0,5349,Thick Stone Door,
-tunnels01,git,Door List/2/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+tunnels01,git,Door List/2/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 tunnels01,git,Door List/2/LocName,0,5349,Thick Stone Door,
-tunnels01,git,Door List/3/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+tunnels01,git,Door List/3/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 tunnels01,git,Door List/3/LocName,0,5349,Thick Stone Door,
-tunnels01,git,Door List/4/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+tunnels01,git,Door List/4/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 tunnels01,git,Door List/4/LocName,0,5349,Thick Stone Door,
-tunnels01,git,Door List/5/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",
+tunnels01,git,Door List/5/Description,0,9076,"Bound in iron strips, this stone door hangs heavily upon its stout hinges.",이 돌문은 쇠줄로 묶여 튼튼한 경첩에 힘껏 걸려 있습니다.
 tunnels01,git,Door List/5/LocName,0,5349,Thick Stone Door,
-tunnels01,git,Door List/6/LocName,0,5349,Door,
-tunnels01,git,Door List/7/LocName,0,5349,Door,
+tunnels01,git,Door List/6/LocName,0,5349,Door,문
+tunnels01,git,Door List/7/LocName,0,5349,Door,문
 tunnels01,git,Encounter List/0/LocalizedName,0,-1,Undercity Spiders,
 tunnels01,git,Encounter List/1/LocalizedName,0,-1,Undercity Spiders,
 tunnels01,git,Encounter List/2/LocalizedName,0,-1,Undercity Spiders,
@@ -1085,23 +1085,23 @@ tunnels01,git,Placeable List/227/LocName,0,68938,Barrel,
 tunnels01,git,TriggerList/0/LocalizedName,0,14759,Start Shavann Dialog,
 tunnels01,git,TriggerList/1/LocalizedName,0,-1,Generic Trigger 001,
 tunnels01,git,WaypointList/1/LocalizedName,0,14817,Test Undercity Waypoint,
-tunnels01,git,WaypointList/2/LocalizedName,0,14814,Map Note,
+tunnels01,git,WaypointList/2/LocalizedName,0,14814,Map Note,지도 설명
 tunnels01,git,WaypointList/2/MapNote,0,14815,To Tunnels,
-tunnels01,git,WaypointList/3/LocalizedName,0,14814,Map Note,
+tunnels01,git,WaypointList/3/LocalizedName,0,14814,Map Note,지도 설명
 tunnels01,git,WaypointList/3/MapNote,0,14815,To Lair,
 yourapartment,git,Placeable List/10/Description,0,14756,You've spent many a night staring into the flame of this stove.,
-yourapartment,git,Placeable List/10/LocName,0,14757,Oven,
+yourapartment,git,Placeable List/10/LocName,0,14757,Oven,오븐
 yourapartment,git,Placeable List/28/Description,0,68960,"The view isn't great, but it's yours.",
-yourapartment,git,Placeable List/6/Description,0,68856,"Well-made and covered in soft blankets, this bed would clearly comfort all but the most pampered of royalty.",
+yourapartment,git,Placeable List/6/Description,0,68856,"Well-made and covered in soft blankets, this bed would clearly comfort all but the most pampered of royalty.",잘 만들어지고 부드러운 담요로 덮인 이 침대는 가장 호화로운 왕족을 제외한 모든 이에게 편안함을 줄 것입니다.
 yourapartment,git,Placeable List/67/Description,0,68936,"You have a, some would say obsessive, tendency to take copious notes. No matter what you're doing. There are some old journals here -- you keep your current one on you.",
 yourapartment,git,Placeable List/68/Description,0,14585,It might be time to organize the contents of this dresser.,
 yourapartment,git,Placeable List/68/LocName,0,5650,Dresser,
 yourapartment,git,Placeable List/71/Description,0,14752,Newsstand,
 yourapartment,git,Placeable List/71/LocName,0,5748,Newsstand,
-yourapartment,git,Placeable List/72/Description,0,14662,"You look about you, suspicious, but see nothing.",
+yourapartment,git,Placeable List/72/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 yourapartment,git,Placeable List/72/LocName,0,5800,Narrator,
-yourapartment,git,WaypointList/0/LocalizedName,0,14817,Waypoint,
-yourapartmentnm,git,Placeable List/6/Description,0,68856,"Well-made and covered in soft blankets, this bed would clearly comfort all but the most pampered of royalty.",
+yourapartment,git,WaypointList/0/LocalizedName,0,14817,Waypoint,웨이포인트
+yourapartmentnm,git,Placeable List/6/Description,0,68856,"Well-made and covered in soft blankets, this bed would clearly comfort all but the most pampered of royalty.",잘 만들어지고 부드러운 담요로 덮인 이 침대는 가장 호화로운 왕족을 제외한 모든 이에게 편안함을 줄 것입니다.
 yourapartmentnm,git,Placeable List/74/LocName,0,5748,Newsstand,
 yourneighborhood,git,Creature List/0/FirstName,0,-1,Jerkins,
 yourneighborhood,git,Creature List/1/FirstName,0,-1,Thrashgar,
@@ -1111,7 +1111,7 @@ yourneighborhood,git,Creature List/11/Equip_ItemList/0/LocalizedName,0,-1,Terana
 yourneighborhood,git,Creature List/11/FirstName,0,-1,Citizen,
 yourneighborhood,git,Creature List/12/Equip_ItemList/0/LocalizedName,0,-1,Commoner 2 Clothes,
 yourneighborhood,git,Creature List/12/FirstName,0,-1,Citizen,
-yourneighborhood,git,Creature List/13/Description,0,111457,"Horses make useful beasts of burden, and the best of them also make good best friends.",
+yourneighborhood,git,Creature List/13/Description,0,111457,"Horses make useful beasts of burden, and the best of them also make good best friends.","Horses make useful beasts of burden, and the best of them also make good warhorses."
 yourneighborhood,git,Creature List/13/FirstName,0,111456,Rosey,
 yourneighborhood,git,Creature List/14/Equip_ItemList/0/LocalizedName,0,-1,City Guard Teeth Helmet,
 yourneighborhood,git,Creature List/14/Equip_ItemList/1/LocalizedName,0,13798,City Guard Armor,
@@ -1131,7 +1131,7 @@ yourneighborhood,git,Creature List/18/FirstName,0,-1,City Guard,
 yourneighborhood,git,Creature List/2/Equip_ItemList/0/LocalizedName,0,-1,Worldwine Fanatic Outfit,
 yourneighborhood,git,Creature List/2/FirstName,0,-1,Trishana,
 yourneighborhood,git,Creature List/3/FirstName,0,-1,Rag Peddler,
-yourneighborhood,git,Creature List/4/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.  This one is red.",
+yourneighborhood,git,Creature List/4/Description,0,12415,"This flightless, domesticated bird is prized both for its tender meat and for the eggs it lays on an almost daily basis.  This one is red.",이 날지 못하고 길들여진 새는 부드러운 고기와 거의 매일 알을 낳기 때문에 모두 소중하게 여깁니다.
 yourneighborhood,git,Creature List/4/FirstName,0,12416,Red Hen,
 yourneighborhood,git,Creature List/5/Description,0,-1,"This human is friendliness in the shape of a man, yet otherwise unremarkable. The kind of person you would have a rousing talk with at a tavern, yet not be able to describe well after. The smile found on his round face is warm and invites conversation. A crumpled paper is tucked under his arm, nestled against plain, brown, linen clothing. His eyes never stay on one sight for too long.",
 yourneighborhood,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,-1,Tag Clothes,
@@ -1146,7 +1146,7 @@ yourneighborhood,git,Creature List/9/Equip_ItemList/0/LocalizedName,0,-1,Commone
 yourneighborhood,git,Creature List/9/FirstName,0,-1,Citizen,
 yourneighborhood,git,Door List/1/LocName,0,5349,Forvor's Shop Door,
 yourneighborhood,git,Door List/3/LocName,0,5349,Your Apartment Door,
-yourneighborhood,git,Door List/4/Description,0,9071,Rust pocks the once-smooth surface of this metal-plated door.,
+yourneighborhood,git,Door List/4/Description,0,9071,Rust pocks the once-smooth surface of this metal-plated door.,금속으로 도금된 문의 매끄러웠었던 표면은 녹슬어 구멍나고 있습니다.
 yourneighborhood,git,Door List/4/LocName,0,5349,Rusted Iron Door,
 yourneighborhood,git,Door List/6/Description,0,-1,Nothing to see here.,
 yourneighborhood,git,Door List/6/LocName,0,-1,Unusable Door,
@@ -1168,19 +1168,19 @@ yourneighborhood,git,Placeable List/40/LocName,0,14616,Neighborhood Exit,
 yourneighborhood,git,Placeable List/41/LocName,0,14616,Neighborhood Exit,
 yourneighborhood,git,Placeable List/42/LocName,0,14616,Neighborhood Exit,
 yourneighborhood,git,Placeable List/43/LocName,0,14616,Neighborhood Exit,
-yourneighborhood,git,WaypointList/10/LocalizedName,0,14814,Map Note,
+yourneighborhood,git,WaypointList/10/LocalizedName,0,14814,Map Note,지도 설명
 yourneighborhood,git,WaypointList/10/MapNote,0,14815,Entrance to Smuggler's Tunnels,
 yourneighborhood,git,WaypointList/11/LocalizedName,0,14817,LieutenantDaySix,
 yourneighborhood,git,WaypointList/2/LocalizedName,0,14817,Quillian Hangout,
-yourneighborhood,git,WaypointList/4/LocalizedName,0,14814,Map Note,
+yourneighborhood,git,WaypointList/4/LocalizedName,0,14814,Map Note,지도 설명
 yourneighborhood,git,WaypointList/4/MapNote,0,14815,Your Apartment,
-yourneighborhood,git,WaypointList/5/LocalizedName,0,14814,Map Note,
+yourneighborhood,git,WaypointList/5/LocalizedName,0,14814,Map Note,지도 설명
 yourneighborhood,git,WaypointList/5/MapNote,0,14815,Area Exit,
-yourneighborhood,git,WaypointList/6/LocalizedName,0,14814,Map Note,
+yourneighborhood,git,WaypointList/6/LocalizedName,0,14814,Map Note,지도 설명
 yourneighborhood,git,WaypointList/6/MapNote,0,14815,Area Exit,
-yourneighborhood,git,WaypointList/7/LocalizedName,0,14814,Map Note,
+yourneighborhood,git,WaypointList/7/LocalizedName,0,14814,Map Note,지도 설명
 yourneighborhood,git,WaypointList/7/MapNote,0,14815,Area Exit,
-yourneighborhood,git,WaypointList/8/LocalizedName,0,14814,Map Note,
+yourneighborhood,git,WaypointList/8/LocalizedName,0,14814,Map Note,지도 설명
 yourneighborhood,git,WaypointList/8/MapNote,0,14815,Forvor's Favors,
-yourneighborhood,git,WaypointList/9/LocalizedName,0,14814,Map Note,
+yourneighborhood,git,WaypointList/9/LocalizedName,0,14814,Map Note,지도 설명
 yourneighborhood,git,WaypointList/9/MapNote,0,14815,Tag,

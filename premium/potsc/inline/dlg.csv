@@ -1,4 +1,4 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 a0_allendrydocks,dlg,EntryList/0/Text,0,-1,"""Hey there, ye said ye'd sail with me as far as Calimshan, aye? Well we won't get there with ye just lollygagging about, now, will we?""",
 a0_allendrydocks,dlg,EntryList/1/Text,0,-1,"""Aye, and ye ain't the Captain, neither. So, until ye are, ye'd best either help when I say help or swim when I say shark. Ye didn't have enough to pay yer passage but I be a kind enough man to let ye work off the remainder, so don't ye forget it.""",
 a0_allendrydocks,dlg,EntryList/10/Text,0,-1,"""Nisar knows the port well, so he be the one to ask if ye have any questions. Now do you need any supplies to get the job done or are you ready to get a move on?""",
@@ -602,7 +602,7 @@ a0_guilda,dlg,ReplyList/0/Text,0,-1,"""Never mind.""",
 a0_guilda,dlg,ReplyList/1/Text,0,-1,"""I'm here to meet Lady Tasina.""",
 a0_hench_nisar,dlg,EntryList/0/Text,0,-1,"""We should get over to the Silver Sails. That's where the cargo's waiting and where Martins was supposed to meet the dockhands.""",
 a0_hench_nisar,dlg,EntryList/1/Text,0,-1,"""I wouldn't mind stopping off at the tattoo parlor but the Cap'n says we should head to the Silver Sails first. That's where the cargo's waiting and where Martins was supposed to meet the dockhands.""",
-a0_hench_nisar,dlg,EntryList/10/Text,0,102761,"""Aye. It never struck me as a wise plan in the first place, to be honest.""",
+a0_hench_nisar,dlg,EntryList/10/Text,0,102761,"""Aye. It never struck me as a wise plan in the first place, to be honest.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
 a0_hench_nisar,dlg,EntryList/100/Text,0,-1,"""If we hurry we may still have time to hit the tattoo parlor before the Cap'n sounds the bell.""",
 a0_hench_nisar,dlg,EntryList/101/Text,0,-1,"""Done and done, hey? The Cap'n will be pleased to be setting sail. Neverwinter's a good port but there's still nothing like the open sea.""",
 a0_hench_nisar,dlg,EntryList/102/Text,0,-1,"""Can you hear the bell? I think the Cap'n wants all of us aboard the Rose and manning the ropes. Come on, let's go.""",
@@ -613,7 +613,7 @@ a0_hench_nisar,dlg,EntryList/106/Text,0,-1,"""Ha! The Cap'n says I'm the one alw
 a0_hench_nisar,dlg,EntryList/107/Text,0,-1,"""It be getting light out, <FirstName>. We'd best see the Lady safe aboard the Rose or the Cap'n will set sail without us and tan our hides on his return.""",
 a0_hench_nisar,dlg,EntryList/108/Text,0,-1,"""Aye, well done and the Rose be fit to set sail for Calimshan. We still have an hour or so while the Cap'n settles with the harbormaster so, if you need supplies, I suggest you get them soon.""",
 a0_hench_nisar,dlg,EntryList/109/Text,0,-1,"""If you reckon you have all you need, report in to the Cap'n one last time so he knows that you're aboard.""",
-a0_hench_nisar,dlg,EntryList/11/Text,0,102762,"""Ix-nay on the drunken elligerence-bay. Gotcha, mate.""",
+a0_hench_nisar,dlg,EntryList/11/Text,0,102762,"""Ix-nay on the drunken elligerence-bay. Gotcha, mate.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
 a0_hench_nisar,dlg,EntryList/110/Text,0,-1,"""And I never did get around to showing you the tattoo parlor. We can still make it if you'd like to...""",
 a0_hench_nisar,dlg,EntryList/111/Text,0,-1,"""Aye, it be a funny place, this Spindrift Town. What's got you thinking, Cap'n?""",
 a0_hench_nisar,dlg,EntryList/112/Text,0,-1,"""Hey, do you think this town has a tattoo parlor? I've seen some nice ones on some of the blokes around the docks. Keep your eyes out.""",
@@ -624,7 +624,7 @@ a0_hench_nisar,dlg,EntryList/116/Text,0,-1,"""Nice tattoo, mate. Hehe. Now we ju
 a0_hench_nisar,dlg,EntryList/117/Text,0,-1,"""Hey, it's a shame about Tasina escaping aboard the Rose but look on the bright side: that tattoo makes you look real tough, mate. Come on, let's head down to the docks and find us another ship that can give chase.""",
 a0_hench_nisar,dlg,EntryList/118/Text,0,-1,"""Come on, mate. Let's find us a proper crew for this Kolmarr chap and his Skull and Bones. The sooner we set sail, the sooner we'll find the Midnight Rose. And the sooner we find the Midnight Rose, the sooner we can claim Allendry's vengeance.""",
 a0_hench_nisar,dlg,EntryList/119/Text,0,-1,"""Yo, tattoo-<man/woman>! Let's find some way to clear this storm so we can steal the Midnight Rose.""",
-a0_hench_nisar,dlg,EntryList/12/Text,0,102763,"""Ha! I'm no creeper in the shadows, <FirstName>, but I'll do my best to avoid kicking buckets about if you think it will help.""",
+a0_hench_nisar,dlg,EntryList/12/Text,0,102763,"""Ha! I'm no creeper in the shadows, <FirstName>, but I'll do my best to avoid kicking buckets about if you think it will help.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
 a0_hench_nisar,dlg,EntryList/120/Text,0,-1,"""Hey, it's a shame about Tasina escaping aboard the Rose but look on the bright side: that tattoo makes you look real tough, mate. Come on, let's head down to the docks and find us another ship that can give chase.""",
 a0_hench_nisar,dlg,EntryList/121/Text,0,-1,"""What are we waiting for, mate? We have everything we need to set sail aboard the Skull and Bones and give chase to that thief Tasina and the Rose! Come on, I'll race you down to the docks to speak with Master Kolmarr...""",
 a0_hench_nisar,dlg,EntryList/122/Text,0,-1,"""I think Master Kolmarr wants to speak with us, <FirstName>. He's waiting by the gangplank.""",
@@ -635,7 +635,7 @@ a0_hench_nisar,dlg,EntryList/126/Text,0,-1,"""Aye, Cap'n, why the lollygagging a
 a0_hench_nisar,dlg,EntryList/127/Text,0,-1,"""I'm in no mood for talking right now, <FirstName>. Let's go break the news to Old Tom, get the hells off this island, and go find the Midnight Rose like we should have been doing all along."" ",
 a0_hench_nisar,dlg,EntryList/128/Text,0,-1,"""We're sinking fast, Cap'n! You've got to bail water and get those holes plugged before the ship goes down. Garm and I will do what we can to keep the sahuagin off your back.""",
 a0_hench_nisar,dlg,EntryList/129/Text,0,-1,"""Aye, good job, Cap'n! All the holes are plugged and we just have to take care of the last of these sahuagin!""",
-a0_hench_nisar,dlg,EntryList/13/Text,0,102764,"""Fair enough. I feel pretty stupid pounding away at things with just my knuckles, anyway.""",
+a0_hench_nisar,dlg,EntryList/13/Text,0,102764,"""Fair enough. I feel pretty stupid pounding away at things with just my knuckles, anyway.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
 a0_hench_nisar,dlg,EntryList/130/Text,0,-1,"""That was a close one, Cap'n, but the Skull and Bones still floats and the sahuagin have all retreated. Look, the men have lowered another ladder. Let's go topside and make sure everyone's okay.""",
 a0_hench_nisar,dlg,EntryList/131/Text,0,-1,"""There she is, <FirstName>, the Midnight Rose... Well, her deck's empty and there's no wind to fill her sail or ours but, other than that, she looks just like we left her. Let's go check the Captain's Quarters below and make sure all is well.""",
 a0_hench_nisar,dlg,EntryList/132/Text,0,-1,"""You heard the Cap'n, <FirstName>. The priestesses are underneath those waves and we've got nowhere to go but down. Let Allendry take us down so we can finally avenge him and put his soul to rest...""",
@@ -645,40 +645,40 @@ a0_hench_nisar,dlg,EntryList/135/Text,0,-1,"""Bloody dragons... Look, I can't sp
 a0_hench_nisar,dlg,EntryList/136/Text,0,-1,"""I sure as all hells hope you know where your allegiances lie, <FirstName>. Come on, the dragon can deal with this Dweller thing however it wants. Let's just get inside that temple and hunt Tasina.""",
 a0_hench_nisar,dlg,EntryList/137/Text,0,-1,"""I can't believe you'd sell Allendry up the river like that, <FirstName>. Admittedly, the prospect of living again doesn't sound so bad... Let's find a way to kill this Dweller thing. You and I can settle any of our disputes safe aboard the Rose.""",
 a0_hench_nisar,dlg,EntryList/138/Text,0,-1,"""Now's hardly the time to chat, <FirstName>! Cap'n Allendry's murder is almost avenged!""",
-a0_hench_nisar,dlg,EntryList/139/Text,0,86431,"""Hah! Need some help, do you?""",
-a0_hench_nisar,dlg,EntryList/14/Text,0,102765,"""I can try to bash it open, if need be. Don't go expecting anything subtle in that regard, though.""",
-a0_hench_nisar,dlg,EntryList/140/Text,0,89979,"""Here? Wait 'til the Cap'n gets a load of this!""",
-a0_hench_nisar,dlg,EntryList/141/Text,0,89980,"""That's what I thought. Good thing the Cap'n sent me to watch after you.""",
-a0_hench_nisar,dlg,EntryList/142/Text,0,102747,"""Bah, you've got enough help as it is. Don't tell the Cap'n but I think I might stop in for a drink at the Seedy Tavern.""",
+a0_hench_nisar,dlg,EntryList/139/Text,0,86431,"""Hah! Need some help, do you?""","""그러니까... 토미 실력이 또 필요한 거야? 언더마운틴엔 함정이 엄청 많거든, 알지? 혼자 가는 것보단 같이 가는 게 낫지."""
+a0_hench_nisar,dlg,EntryList/14/Text,0,102765,"""I can try to bash it open, if need be. Don't go expecting anything subtle in that regard, though.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+a0_hench_nisar,dlg,EntryList/140/Text,0,89979,"""Here? Wait 'til the Cap'n gets a load of this!""","""영원히 여기 서 있을 생각은 없어... 근데 좋아. 일단 여기 있을게."""
+a0_hench_nisar,dlg,EntryList/141/Text,0,89980,"""That's what I thought. Good thing the Cap'n sent me to watch after you.""","""좋아! 가자고!"""
+a0_hench_nisar,dlg,EntryList/142/Text,0,102747,"""Bah, you've got enough help as it is. Don't tell the Cap'n but I think I might stop in for a drink at the Seedy Tavern.""","토미가 당신의 동료들을 의심스럽게 바라봅니다. ""흠. 재미 없게 굴고 싶진 않은데, 이미 사람이 꽤 많네. 좀 줄어들면 나한테 와서 소리 질러줘, 알았지?"""
 a0_hench_nisar,dlg,EntryList/143/Text,0,-1,"""Is that you, <FirstName>? Well, I'll be! It's about time I saw a friendly face, <lad/lass> - I'd pretty much written you off as dead.""",
 a0_hench_nisar,dlg,EntryList/144/Text,0,-1,"""Makes Spindrift here sound like an island paradise, mate. Welcome back to civilization, if you can call it that...""",
 a0_hench_nisar,dlg,EntryList/145/Text,0,-1,"""Rrrawk! Did you miss me? Rrrawk!""",
 a0_hench_nisar,dlg,EntryList/146/Text,0,-1,"""You, Poly? Never.""",
 a0_hench_nisar,dlg,EntryList/147/Text,0,-1,"""Ssssss!""",
 a0_hench_nisar,dlg,EntryList/148/Text,0,-1,"""Uh... I can see that... He doesn't bite, does he?""",
-a0_hench_nisar,dlg,EntryList/16/Text,0,102767,"""Oy! Will do, mate.""",
-a0_hench_nisar,dlg,EntryList/17/Text,0,102768,"""I'm best when rushing headlong into the thick of combat, believe it or not. Just point me in the right direction and let me go, mate.""",
+a0_hench_nisar,dlg,EntryList/16/Text,0,102767,"""Oy! Will do, mate.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+a0_hench_nisar,dlg,EntryList/17/Text,0,102768,"""I'm best when rushing headlong into the thick of combat, believe it or not. Just point me in the right direction and let me go, mate.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
 a0_hench_nisar,dlg,EntryList/19/Text,0,-1,"""Any other advice you care to hand out?""",
 a0_hench_nisar,dlg,EntryList/2/Text,0,-1,"""I wonder what happened out there... Martins ain't the type to drop a job half-done and he's got an impatient streak a league wide. I wouldn't want to be a dockhand on the wrong side of him, that's for sure... Anything else you wanted?""",
 a0_hench_nisar,dlg,EntryList/20/Text,0,-1,"""If there's something in it for me... What do you need?""",
-a0_hench_nisar,dlg,EntryList/21/Text,0,101787,"""Hmph. That's so, is it? Care to narrow it down a little? Let me rattle off the list of what I know.""",
-a0_hench_nisar,dlg,EntryList/22/Text,0,101788,"""Nice choice. Are you sure you want me to do this?""",
-a0_hench_nisar,dlg,EntryList/23/Text,0,101791,"""Aye, that's the fun part. Are you interested in a short-term pick-me-up or something with long-term staying power?""",
-a0_hench_nisar,dlg,EntryList/24/Text,0,101789,"""Fair enough. Who should I target with this happy barrage of joy?""",
-a0_hench_nisar,dlg,EntryList/25/Text,0,101790,"""All right. Let's see how many of these I can remember off the top of my head...""",
+a0_hench_nisar,dlg,EntryList/21/Text,0,101787,"""Hmph. That's so, is it? Care to narrow it down a little? Let me rattle off the list of what I know.""","""제 마법은 당신이 사용하실 수 있어요. 어떤 주문을 시전하길 원하세요?"""
+a0_hench_nisar,dlg,EntryList/22/Text,0,101788,"""Nice choice. Are you sure you want me to do this?""","""확실하세요?"""
+a0_hench_nisar,dlg,EntryList/23/Text,0,101791,"""Aye, that's the fun part. Are you interested in a short-term pick-me-up or something with long-term staying power?""","""현명한 결정이에요. 많은 전투가 준비 부족으로 패배하죠. 어떤 종류의 강화 주문을 시전하길 원하세요?"""
+a0_hench_nisar,dlg,EntryList/24/Text,0,101789,"""Fair enough. Who should I target with this happy barrage of joy?""","""그럼 제 마법의 대상은 누구여야 하나요?"""
+a0_hench_nisar,dlg,EntryList/25/Text,0,101790,"""All right. Let's see how many of these I can remember off the top of my head...""","""금방 끝날 거예요."""
 a0_hench_nisar,dlg,EntryList/26/Text,0,-1,"""Sorry, mate. I'm all spent. Maybe after we've had a chance to catch some rest.""",
-a0_hench_nisar,dlg,EntryList/27/Text,0,87456,"""My rage is best used when there's trouble afoot. Are you sure you want me to unleash it here and now?""",
-a0_hench_nisar,dlg,EntryList/28/Text,0,101809,"""Aye, I was born a barbarian and soon found I had some talent for sorcery as well. I'm currently focusing my training exclusively on my magical studies and ignoring my barbarian heritage, as you suggested.""",
-a0_hench_nisar,dlg,EntryList/29/Text,0,101810,"""Aye, I was born a barbarian and soon found I had some talent for sorcery as well. I'm currently focusing my training exclusively on my barbarian heritage and ignoring my magical studies as you suggested.""",
-a0_hench_nisar,dlg,EntryList/3/Text,0,102750,"""The Cap'n gave me an order, <FirstName>, and I ain't one to take him lightly. I'm to stick to you like tar and see to it that the Rose is ready to sail by dawn. So quit stalling, mate. We've got work to do.""",
-a0_hench_nisar,dlg,EntryList/30/Text,0,101811,"""Aye, balance. That's the tricky bit, isn't it? Fine and good, then. Whenever one class lags behind, I'll focus on it exclusively until my abilities are equal once again. Thanks for the advice.""",
-a0_hench_nisar,dlg,EntryList/31/Text,0,101812,"""Aye, I was born a barbarian and soon found I had some talent for sorcery as well. I'm currently trying to bring the two into balance. Whenever I fall behind in one area, I try to become more experienced in it until the two are equal.""",
-a0_hench_nisar,dlg,EntryList/32/Text,0,101813,"""That's the best advice I've heard all day!""",
-a0_hench_nisar,dlg,EntryList/33/Text,0,101814,"""Trying to civilize me, are you? Very well, I'll do my best to become a better sorcerer. Thanks for the advice.""",
-a0_hench_nisar,dlg,EntryList/34/Text,0,101815,"""We're a long way from the jungles of Chult but it will feel good to return to my roots as a barbarian. Thanks for the advice.""",
-a0_hench_nisar,dlg,EntryList/35/Text,0,102771,"""Who, me? Is it all right if I lie? Ha! Very well, hand it over and I'll see if there's anything in there I might recognize.""",
+a0_hench_nisar,dlg,EntryList/27/Text,0,87456,"""My rage is best used when there's trouble afoot. Are you sure you want me to unleash it here and now?""","하프오크가 자네에게 이상한 표정을 짓습니다. ""내 분노는 전투에서 사용하는 게 최선이야. 지금 내 분노를 폭발시키길 확실히 원하나?"""
+a0_hench_nisar,dlg,EntryList/28/Text,0,101809,"""Aye, I was born a barbarian and soon found I had some talent for sorcery as well. I'm currently focusing my training exclusively on my magical studies and ignoring my barbarian heritage, as you suggested.""","""현재 당신이 제안하신 대로, 암살자로서의 기술을 향상시키는 데만 집중하고 마법사로서의 훈련은 무시하고 있어요."""
+a0_hench_nisar,dlg,EntryList/29/Text,0,101810,"""Aye, I was born a barbarian and soon found I had some talent for sorcery as well. I'm currently focusing my training exclusively on my barbarian heritage and ignoring my magical studies as you suggested.""","""현재 당신이 제안하신 대로, 마법사로서의 기술을 향상시키는 데만 집중하고 암살자로서의 훈련은 무시하고 있어요."""
+a0_hench_nisar,dlg,EntryList/3/Text,0,102750,"""The Cap'n gave me an order, <FirstName>, and I ain't one to take him lightly. I'm to stick to you like tar and see to it that the Rose is ready to sail by dawn. So quit stalling, mate. We've got work to do.""","그는 눈살을 찌푸리며, 걱정스러워 보입니다. ""원한다면요. 피할 수 있다면 당신을 적절한 방어 없이 두고 떠나고 싶지 않소."""
+a0_hench_nisar,dlg,EntryList/30/Text,0,101811,"""Aye, balance. That's the tricky bit, isn't it? Fine and good, then. Whenever one class lags behind, I'll focus on it exclusively until my abilities are equal once again. Thanks for the advice.""","""알겠어요. 마법사와 암살자로서의 능력 균형을 맞추도록 노력하겠어요. 한 직업이 뒤처질 때마다, 능력이 다시 균형을 이룰 때까지 그것에 집중하겠어요."""
+a0_hench_nisar,dlg,EntryList/31/Text,0,101812,"""Aye, I was born a barbarian and soon found I had some talent for sorcery as well. I'm currently trying to bring the two into balance. Whenever I fall behind in one area, I try to become more experienced in it until the two are equal.""","""현재 마법 능력과 암살자 기술 사이의 균형을 맞추려고 노력하고 있어요. 한 영역에서 뒤처질 때마다, 두 가지가 균형을 이룰 때까지 더 경험을 쌓으려고 해요."""
+a0_hench_nisar,dlg,EntryList/32/Text,0,101813,"""That's the best advice I've heard all day!""","""물론이죠."""
+a0_hench_nisar,dlg,EntryList/33/Text,0,101814,"""Trying to civilize me, are you? Very well, I'll do my best to become a better sorcerer. Thanks for the advice.""","""암살자로서의 제 기술이 주문보다 더 유용하다고 생각하신다면, 암살자로서 경험을 쌓는 데만 집중하겠어요."""
+a0_hench_nisar,dlg,EntryList/34/Text,0,101815,"""We're a long way from the jungles of Chult but it will feel good to return to my roots as a barbarian. Thanks for the advice.""","""제 주문이 암살자 기술보다 그룹에 더 가치 있다고 생각하신다면, 마법사로서 더 많은 경험을 쌓는 데 집중하겠어요."""
+a0_hench_nisar,dlg,EntryList/35/Text,0,102771,"""Who, me? Is it all right if I lie? Ha! Very well, hand it over and I'll see if there's anything in there I might recognize.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 a0_hench_nisar,dlg,EntryList/36/Text,0,-1,"""Anything else you're wanting, mate?""",
-a0_hench_nisar,dlg,EntryList/37/Text,0,102770,"""You want to pilfer it, more like it... Bah, go ahead. It all be standard issue anyhow.""",
+a0_hench_nisar,dlg,EntryList/37/Text,0,102770,"""You want to pilfer it, more like it... Bah, go ahead. It all be standard issue anyhow.""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 a0_hench_nisar,dlg,EntryList/38/Text,0,-1,"""The boats are usually better and the shore leaves less creepy but, other than that, things are about the same. I sure do miss Cap'n Allendry, though.""",
 a0_hench_nisar,dlg,EntryList/39/Text,0,-1,"""I don't really know. I guess he was the first one to ever really give me a chance. He was a good cap'n and he died for his ship. He earned my respect... If we don't make Tasina pay, who will?""",
 a0_hench_nisar,dlg,EntryList/4/Text,0,-1,"""Not bloody likely. You, Poly, and myself are the only known survivors of the Midnight Rose and I'm not letting you out of my sight another wink, mate. If we want the Rose back, we have to stick together.""",
@@ -703,7 +703,7 @@ a0_hench_nisar,dlg,EntryList/56/Text,0,-1,"""Shakey McGuire seems a little off h
 a0_hench_nisar,dlg,EntryList/57/Text,0,-1,"""That Minotaur, Redtip, sure would be a fine addition, though I'd rather not be the one to face him in the ring. He'd be a good one to have watching our backs if we ever got into trouble, however.""",
 a0_hench_nisar,dlg,EntryList/58/Text,0,-1,"""Sir Francis is a gullible fool but a fine pirate nonetheless. If we can get him that ring he's looking for, I'm sure he'll come aboard.""",
 a0_hench_nisar,dlg,EntryList/59/Text,0,-1,"""That priestess, Sweetie Marie, is a pretty lass and nowhere near as zealous as the rest of that foul brood. Charm her a little and maybe she'll come aboard. Maybe she'll teach us a few tricks we can use against Tasina...""",
-a0_hench_nisar,dlg,EntryList/6/Text,0,102758,"""Ha! Beating anything that comes within reach be a perfectly acceptable tactic, if you ask me. It helps to be a little bit drunk, mind you. If there's something specific you need me to do, though, just say the word.""",
+a0_hench_nisar,dlg,EntryList/6/Text,0,102758,"""Ha! Beating anything that comes within reach be a perfectly acceptable tactic, if you ask me. It helps to be a little bit drunk, mind you. If there's something specific you need me to do, though, just say the word.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 a0_hench_nisar,dlg,EntryList/60/Text,0,-1,"""That Paulson fellow in the Monkey's Cutlass may have a wooden leg and a broken heart but he's no slouch as a sailor. I can't believe I'm saying this but maybe you should seduce him with a little bit of love and alcohol until he comes around.""",
 a0_hench_nisar,dlg,EntryList/61/Text,0,-1,"""That lighthouse gnome, Vantabular, seemed a friendly sort and no doubt he knows these islands like the back of his hand. An unlikely candidate, perhaps, but I think he'd prove his worth.""",
 a0_hench_nisar,dlg,EntryList/62/Text,0,-1,"""Well, if Vengaul Bloodsail's eager for that Sceptre of Storms, I say we give it to him. It'd be good luck to have a man of his experience aboard, I think, and the head of the Bloodsailors, no less.""",
@@ -725,7 +725,7 @@ a0_hench_nisar,dlg,EntryList/76/Text,0,-1,"""...That came out wrong, didn't it..
 a0_hench_nisar,dlg,EntryList/77/Text,0,-1,"""Let's just take this one step at a time, all right, lass?""",
 a0_hench_nisar,dlg,EntryList/78/Text,0,-1,"""Nisar and <FirstName>, sitting in a tree, K-I-S-S-I-N-G. Rrrawk!""",
 a0_hench_nisar,dlg,EntryList/79/Text,0,-1,"""Bah, what's there to know? I've been sailing for most of my life, though I was born to a chieftain and his wife in the jungles of Chult, far south of here. They sold me to a band of river raiders who then sold me to a pirate to serve as a surgeon's whelp.""",
-a0_hench_nisar,dlg,EntryList/8/Text,0,102759,"""Bah! I can never see the things anyway. Makes sense that I shouldn't be poking my nose in them to see if they go off.""",
+a0_hench_nisar,dlg,EntryList/8/Text,0,102759,"""Bah! I can never see the things anyway. Makes sense that I shouldn't be poking my nose in them to see if they go off.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
 a0_hench_nisar,dlg,EntryList/80/Text,0,-1,"""Somewhere along the line, I earned my freedom and took on honest work out of the Nelanther Isles. Captain Allendry's been good to me so I've been sailing with him for the past five seasons now, maybe six.""",
 a0_hench_nisar,dlg,EntryList/81/Text,0,-1,"""Aye, if that's what interests you.""",
 a0_hench_nisar,dlg,EntryList/82/Text,0,-1,"""Never. I wasn't born at sea but I hope to live and die there, given half the chance. Harbors be for drinking and spending your hard-earned gold, nothing more.""",
@@ -736,7 +736,7 @@ a0_hench_nisar,dlg,EntryList/86/Text,0,-1,"""Ha! Those lazy scallywags say Marti
 a0_hench_nisar,dlg,EntryList/87/Text,0,-1,"""Seems odd that Martins would leave a job undone like that, though... If it's true he ran screaming from it, that's even stranger. Reminds me of some of the things I've seen back home in Chult... Bah, enough with bad memories! What else do you want?""",
 a0_hench_nisar,dlg,EntryList/88/Text,0,-1,"""Well, we found Martins, sure enough. I say we buy the old salt a drink and find out what happened. I get the sense he won't be too cooperative 'til we get an ale or two into him. Or me, for that matter... Got any better ideas?""",
 a0_hench_nisar,dlg,EntryList/89/Text,0,-1,"""Who knows what to make of Martins' tale? Back home in Chult, there are foods and venoms that make you see all manner of strange things but just by touching a statue...? The way he talks of it, I halfways believe him...""",
-a0_hench_nisar,dlg,EntryList/9/Text,0,102760,"""Are you sure? I'm a bit of a bull in a potter's shop when it comes to that sort of thing. Serves me right for letting the Cap'n put you in charge, I suppose.""",
+a0_hench_nisar,dlg,EntryList/9/Text,0,102760,"""Are you sure? I'm a bit of a bull in a potter's shop when it comes to that sort of thing. Serves me right for letting the Cap'n put you in charge, I suppose.""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
 a0_hench_nisar,dlg,EntryList/90/Text,0,-1,"""Let's go back to the Silver Sails and have a word with those dockhands. The Cap'n wants that statue aboard the Rose so, if Martins won't help us, we'd best find some way to do it... Anything else?""",
 a0_hench_nisar,dlg,EntryList/91/Text,0,-1,"""Impressive work, <FirstName>! We got that statue packed in record time.""",
 a0_hench_nisar,dlg,EntryList/92/Text,0,-1,"""Let's get back to the Rose so we can make our report the Cap'n and ready our bunks for sea.""",
@@ -748,18 +748,18 @@ a0_hench_nisar,dlg,EntryList/97/Text,0,-1,"""Come to think of it, let's make sur
 a0_hench_nisar,dlg,EntryList/98/Text,0,-1,"""All right, we've got Madani's stupid book. Let's get it back to the wizard and be done with it.""",
 a0_hench_nisar,dlg,EntryList/99/Text,0,-1,"""I swear if we make port in Calimshan and see that wizard's back on the gangplank, it won't be a minute too soon. If he's as haughty with the Cap'n as he has been with us, we might just be towing him behind us as shark bait...""",
 a0_hench_nisar,dlg,ReplyList/111/Text,0,-1,"""Oops, wrong spell. Let me pick another one.""",
-a0_hench_nisar,dlg,ReplyList/114/Text,0,102406,"""I need you to cast some buffing spells.""",
+a0_hench_nisar,dlg,ReplyList/114/Text,0,102406,"""I need you to cast some buffing spells.""","""강화 주문들을 시전해야겠어."""
 a0_hench_nisar,dlg,ReplyList/115/Text,0,-1,"""Actually, don't cast anything.""",
-a0_hench_nisar,dlg,ReplyList/116/Text,0,102408,"""Give me everything you've got.""",
-a0_hench_nisar,dlg,ReplyList/117/Text,0,102409,"""Cast your long-term buffing spells.""",
-a0_hench_nisar,dlg,ReplyList/118/Text,0,102410,"""Cast your short duration buffing spells.""",
-a0_hench_nisar,dlg,ReplyList/119/Text,0,102389,"""Cast it on all the party members.""",
+a0_hench_nisar,dlg,ReplyList/116/Text,0,102408,"""Give me everything you've got.""","""가진 강화 주문 전부 시전해."""
+a0_hench_nisar,dlg,ReplyList/117/Text,0,102409,"""Cast your long-term buffing spells.""","""지속시간이 긴 강화 주문 전부 시전해."""
+a0_hench_nisar,dlg,ReplyList/118/Text,0,102410,"""Cast your short duration buffing spells.""","""지속시간이 짧은 강화 주문 전부 시전해."""
+a0_hench_nisar,dlg,ReplyList/119/Text,0,102389,"""Cast it on all the party members.""","""모든 파티원에게 시전해."""
 a0_hench_nisar,dlg,ReplyList/134/Text,0,-1,"""Cast anything that will benefit undead.""",
-a0_hench_nisar,dlg,ReplyList/137/Text,0,87618,"""Maybe you'd better not, then.""",
-a0_hench_nisar,dlg,ReplyList/139/Text,0,102416,"""I want to discuss your training.""",
-a0_hench_nisar,dlg,ReplyList/142/Text,0,102418,"""Continue with what you're doing now.""",
-a0_hench_nisar,dlg,ReplyList/144/Text,0,102419,"""Concentrate on your skills at sorcery.""",
-a0_hench_nisar,dlg,ReplyList/146/Text,0,102420,"""Concentrate on your barbarian heritage.""",
+a0_hench_nisar,dlg,ReplyList/137/Text,0,87618,"""Maybe you'd better not, then.""","""다시 생각해 보니 그럴 필요 없어."""
+a0_hench_nisar,dlg,ReplyList/139/Text,0,102416,"""I want to discuss your training.""","""네 훈련에 대해 논의하고 싶어."""
+a0_hench_nisar,dlg,ReplyList/142/Text,0,102418,"""Continue with what you're doing now.""","""지금 하는 대로 계속해."""
+a0_hench_nisar,dlg,ReplyList/144/Text,0,102419,"""Concentrate on your skills at sorcery.""","""암살자가 되는 데 집중해."""
+a0_hench_nisar,dlg,ReplyList/146/Text,0,102420,"""Concentrate on your barbarian heritage.""","""마법사 훈련에만 집중했으면 좋겠어."""
 a0_hench_nisar,dlg,ReplyList/152/Text,0,-1,"""So is life at sea always like this, Nisar?""",
 a0_hench_nisar,dlg,ReplyList/153/Text,0,-1,"""Why is it so important you avenge Allendry?""",
 a0_hench_nisar,dlg,ReplyList/154/Text,0,-1,"""Do you think we'll make it out of this?""",
@@ -770,21 +770,21 @@ a0_hench_nisar,dlg,ReplyList/160/Text,0,-1,"""What are your thoughts on a crew?"
 a0_hench_nisar,dlg,ReplyList/161/Text,0,-1,"""How do you feel about Tasina?""",
 a0_hench_nisar,dlg,ReplyList/164/Text,0,-1,"""How did you end up here in Spindrift?""",
 a0_hench_nisar,dlg,ReplyList/167/Text,0,-1,"<StartAction>[Flirt]</Start> ""Do you find me attractive?""",
-a0_hench_nisar,dlg,ReplyList/171/Text,0,103381,"""Tell me a bit about yourself, Nisar.""",
+a0_hench_nisar,dlg,ReplyList/171/Text,0,103381,"""Tell me a bit about yourself, Nisar.""","""잠깐 멈춰서 이야기하자."""
 a0_hench_nisar,dlg,ReplyList/173/Text,0,-1,"""Back to my other questions.""",
 a0_hench_nisar,dlg,ReplyList/174/Text,0,-1,"""Have you ever thought of giving up the sea?""",
 a0_hench_nisar,dlg,ReplyList/175/Text,0,-1,"""Have you ever wanted a ship of your own?""",
 a0_hench_nisar,dlg,ReplyList/176/Text,0,-1,"""Have you ever wanted to return home?""",
 a0_hench_nisar,dlg,ReplyList/177/Text,0,-1,"<StartAction>[Flirt]</Start> ""I've always had a fancy for exotic men...""",
 a0_hench_nisar,dlg,ReplyList/191/Text,0,-1,"""Poly and I were marooned on an island full of troglodytes.""",
-a0_hench_nisar,dlg,ReplyList/2/Text,0,103358,"""Thanks, that's everything.""",
-a0_hench_nisar,dlg,ReplyList/21/Text,0,103373,"""Stay a long distance away.""",
-a0_hench_nisar,dlg,ReplyList/22/Text,0,103374,"""Keep a medium distance.""",
-a0_hench_nisar,dlg,ReplyList/23/Text,0,103375,"""Stay close.""",
+a0_hench_nisar,dlg,ReplyList/2/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+a0_hench_nisar,dlg,ReplyList/21/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+a0_hench_nisar,dlg,ReplyList/22/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+a0_hench_nisar,dlg,ReplyList/23/Text,0,103375,"""Stay close.""",가까이 있어.
 a0_hench_nisar,dlg,ReplyList/29/Text,0,-1,"""I need you to do something for me.""",
-a0_hench_nisar,dlg,ReplyList/3/Text,0,103359,"""I think we need to part ways.""",
-a0_hench_nisar,dlg,ReplyList/30/Text,0,102306,"""I need you to cast a specific spell.""",
-a0_hench_nisar,dlg,ReplyList/5/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
+a0_hench_nisar,dlg,ReplyList/3/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
+a0_hench_nisar,dlg,ReplyList/30/Text,0,102306,"""I need you to cast a specific spell.""","""주문을 시전해줘야겠어."""
+a0_hench_nisar,dlg,ReplyList/5/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
 a0_hench_popups,dlg,EntryList/0/Text,0,-1,"""Rrrawk! Sharks and shipwrecks! Sharks and shipwrecks! Rrrawk!""",
 a0_hench_popups,dlg,EntryList/1/Text,0,-1,"""There is sssacred wood up ahead, Eater-of-Garm. We ssshould ssseek ssshelter there and gather our thoughtsss.""",
 a0_hench_popups,dlg,EntryList/10/Text,0,-1,"""I've always heard tell of ghost ships, Cap'n, but I never thought I'd sail one. At least the Skull and Bones be aptly named..."" ",
@@ -1672,40 +1672,40 @@ a1_garmsurr,dlg,ReplyList/7/Text,0,-1,"""Fine. I will eat your flesh.""",
 a1_garmsurr,dlg,ReplyList/8/Text,0,-1,"""Eww! Even the thought is revolting!""",
 a1_garmsurr,dlg,ReplyList/9/Text,0,-1,"""If I promise to eat you, what do I get in return?""",
 a1_hench_garm,dlg,EntryList/0/Text,0,-1,"""You ssseek my counsssel, Eater-of-Garm? I recommend basssting me with a marinade and ssseasssoning my liver with the leavesss of the sssavory Gadja plant.""",
-a1_hench_garm,dlg,EntryList/1/Text,0,102750,"""But you are the Eater-of-Garm. You have sssworn it, warmblood! I mussst be with you ssshould you hunger...""",
-a1_hench_garm,dlg,EntryList/10/Text,0,102765,"""Doorsss, chessstsss... I have ssseen sssuch thingsss wasssh assshore. They are made of sssacred wood, yesss? I ssshall basssh them and keep the ssshardsss.""",
-a1_hench_garm,dlg,EntryList/11/Text,0,102766,"""Where would you like to place thisss meat upon your plate?""",
-a1_hench_garm,dlg,EntryList/12/Text,0,102767,"""Asss you wisssh, warmblood...""",
-a1_hench_garm,dlg,EntryList/13/Text,0,102768,"""I ssshall do Laogzed proud.""",
-a1_hench_garm,dlg,EntryList/14/Text,0,102769,"""My life isss yoursss... If it isss protection you ssseek, you ssshall have it.""",
+a1_hench_garm,dlg,EntryList/1/Text,0,102750,"""But you are the Eater-of-Garm. You have sssworn it, warmblood! I mussst be with you ssshould you hunger...""","그는 눈살을 찌푸리며, 걱정스러워 보입니다. ""원한다면요. 피할 수 있다면 당신을 적절한 방어 없이 두고 떠나고 싶지 않소."""
+a1_hench_garm,dlg,EntryList/10/Text,0,102765,"""Doorsss, chessstsss... I have ssseen sssuch thingsss wasssh assshore. They are made of sssacred wood, yesss? I ssshall basssh them and keep the ssshardsss.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+a1_hench_garm,dlg,EntryList/11/Text,0,102766,"""Where would you like to place thisss meat upon your plate?""","""그럼 어디에 있으면 될까요?"""
+a1_hench_garm,dlg,EntryList/12/Text,0,102767,"""Asss you wisssh, warmblood...""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+a1_hench_garm,dlg,EntryList/13/Text,0,102768,"""I ssshall do Laogzed proud.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+a1_hench_garm,dlg,EntryList/14/Text,0,102769,"""My life isss yoursss... If it isss protection you ssseek, you ssshall have it.""","""말씀대로 뒤를 지키며 따르겠습니다."""
 a1_hench_garm,dlg,EntryList/15/Text,0,-1,"""Have you more of thessse thingsss you call tacticsss?""",
 a1_hench_garm,dlg,EntryList/16/Text,0,-1,"""Rrrawk! Stop sucking so much! Rrrawk!""",
 a1_hench_garm,dlg,EntryList/17/Text,0,-1,"""My people pluck birdsss before we eat them, you know...""",
 a1_hench_garm,dlg,EntryList/18/Text,0,-1,"""Rrrawk!""",
 a1_hench_garm,dlg,EntryList/19/Text,0,-1,"""Keep yer trap shut, bird, or <FirstName> here will have me changing your tactics in a minute...""",
-a1_hench_garm,dlg,EntryList/2/Text,0,102758,"""Tacticsss... It isss not sssomething of which my people ssspeak. But for the Eater-of-Garm, I ssshall make an effort.""",
+a1_hench_garm,dlg,EntryList/2/Text,0,102758,"""Tacticsss... It isss not sssomething of which my people ssspeak. But for the Eater-of-Garm, I ssshall make an effort.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 a1_hench_garm,dlg,EntryList/20/Text,0,-1,"""Of courssse... What isss the wisssh of the Eater-of-Garm. Have you grown hungry, perhapsss?""",
-a1_hench_garm,dlg,EntryList/21/Text,0,101787,"""There are many blesssingsss in the teachingsss of Laogzed. Which of them would you have me bessstow?""",
-a1_hench_garm,dlg,EntryList/22/Text,0,101788,"""You are sssure, Eater-of-Garm?""",
-a1_hench_garm,dlg,EntryList/23/Text,0,101791,"""You asssk for the blesssingsss of Laogzed? I am honored, Eater-of-Garm. Laogzed offersss hisss followersss two typesss of blesssingsss: thossse that are ssspent in the fury of the battle and thossse that linger on throughout the day.""",
-a1_hench_garm,dlg,EntryList/24/Text,0,101789,"""Who ssshould receive Laogzed'sss blesssingsss?""",
-a1_hench_garm,dlg,EntryList/25/Text,0,101790,"""Be patient, Eater-of-Garm. Laogzed isss a sssimple god and hisss prayersss do not take long...""",
-a1_hench_garm,dlg,EntryList/26/Text,0,101809,"""I am sssworn to walk the two-fold path of Laogzed. My mind isss that of a priessst and my heart isss that of a warrior. I currently focusss on the warrior'sss path and am ignoring that of the priessst, asss the Eater-of-Garm hasss requesssted.""",
-a1_hench_garm,dlg,EntryList/27/Text,0,101810,"""I am sssworn to walk the two-fold path of Laogzed. My mind isss that of a priessst and my heart isss that of a warrior. I currently focusss on the priessstly path and am ignoring that of the warrior, asss the Eater-of-Garm hasss requesssted.""",
-a1_hench_garm,dlg,EntryList/28/Text,0,101811,"""The path of the priessst isss a noble one in the eyesss of Laogzed and the path of the warrior bringsss ssstrength to hisss followersss. I ssshall do asss the Eater-of-Garm requessstsss and ssseek a balance between the two.""",
-a1_hench_garm,dlg,EntryList/29/Text,0,101812,"""I am sssworn to walk the two-fold path of Laogzed. My mind isss that of a priessst and my heart isss that of a warrior. Currently I ssstrive to follow both the pathsss of Laogzed until I have brought them into balance.""",
+a1_hench_garm,dlg,EntryList/21/Text,0,101787,"""There are many blesssingsss in the teachingsss of Laogzed. Which of them would you have me bessstow?""","""제 마법은 당신이 사용하실 수 있어요. 어떤 주문을 시전하길 원하세요?"""
+a1_hench_garm,dlg,EntryList/22/Text,0,101788,"""You are sssure, Eater-of-Garm?""","""확실하세요?"""
+a1_hench_garm,dlg,EntryList/23/Text,0,101791,"""You asssk for the blesssingsss of Laogzed? I am honored, Eater-of-Garm. Laogzed offersss hisss followersss two typesss of blesssingsss: thossse that are ssspent in the fury of the battle and thossse that linger on throughout the day.""","""현명한 결정이에요. 많은 전투가 준비 부족으로 패배하죠. 어떤 종류의 강화 주문을 시전하길 원하세요?"""
+a1_hench_garm,dlg,EntryList/24/Text,0,101789,"""Who ssshould receive Laogzed'sss blesssingsss?""","""그럼 제 마법의 대상은 누구여야 하나요?"""
+a1_hench_garm,dlg,EntryList/25/Text,0,101790,"""Be patient, Eater-of-Garm. Laogzed isss a sssimple god and hisss prayersss do not take long...""","""금방 끝날 거예요."""
+a1_hench_garm,dlg,EntryList/26/Text,0,101809,"""I am sssworn to walk the two-fold path of Laogzed. My mind isss that of a priessst and my heart isss that of a warrior. I currently focusss on the warrior'sss path and am ignoring that of the priessst, asss the Eater-of-Garm hasss requesssted.""","""현재 당신이 제안하신 대로, 암살자로서의 기술을 향상시키는 데만 집중하고 마법사로서의 훈련은 무시하고 있어요."""
+a1_hench_garm,dlg,EntryList/27/Text,0,101810,"""I am sssworn to walk the two-fold path of Laogzed. My mind isss that of a priessst and my heart isss that of a warrior. I currently focusss on the priessstly path and am ignoring that of the warrior, asss the Eater-of-Garm hasss requesssted.""","""현재 당신이 제안하신 대로, 마법사로서의 기술을 향상시키는 데만 집중하고 암살자로서의 훈련은 무시하고 있어요."""
+a1_hench_garm,dlg,EntryList/28/Text,0,101811,"""The path of the priessst isss a noble one in the eyesss of Laogzed and the path of the warrior bringsss ssstrength to hisss followersss. I ssshall do asss the Eater-of-Garm requessstsss and ssseek a balance between the two.""","""알겠어요. 마법사와 암살자로서의 능력 균형을 맞추도록 노력하겠어요. 한 직업이 뒤처질 때마다, 능력이 다시 균형을 이룰 때까지 그것에 집중하겠어요."""
+a1_hench_garm,dlg,EntryList/29/Text,0,101812,"""I am sssworn to walk the two-fold path of Laogzed. My mind isss that of a priessst and my heart isss that of a warrior. Currently I ssstrive to follow both the pathsss of Laogzed until I have brought them into balance.""","""현재 마법 능력과 암살자 기술 사이의 균형을 맞추려고 노력하고 있어요. 한 영역에서 뒤처질 때마다, 두 가지가 균형을 이룰 때까지 더 경험을 쌓으려고 해요."""
 a1_hench_garm,dlg,EntryList/3/Text,0,-1,"""Isss there sssomething elssse of which you wisssh to ssspeak, Eater-of-Garm?""",
-a1_hench_garm,dlg,EntryList/30/Text,0,101813,"""Of courssse, Eater-of-Garm. I ssshall continue down thisss path until you sssee fit to tassste of me.""",
-a1_hench_garm,dlg,EntryList/31/Text,0,101814,"""The path of the warrior bringsss ssstrength to the followersss of Laogzed. I ssshall do asss the Eater-of-Garm requestsss.""",
-a1_hench_garm,dlg,EntryList/32/Text,0,101815,"""The path of the priessst isss a noble one in the eyesss of Laogzed. I ssshall do asss the Eater-of-Garm requessstsss.""",
+a1_hench_garm,dlg,EntryList/30/Text,0,101813,"""Of courssse, Eater-of-Garm. I ssshall continue down thisss path until you sssee fit to tassste of me.""","""물론이죠."""
+a1_hench_garm,dlg,EntryList/31/Text,0,101814,"""The path of the warrior bringsss ssstrength to the followersss of Laogzed. I ssshall do asss the Eater-of-Garm requestsss.""","""암살자로서의 제 기술이 주문보다 더 유용하다고 생각하신다면, 암살자로서 경험을 쌓는 데만 집중하겠어요."""
+a1_hench_garm,dlg,EntryList/32/Text,0,101815,"""The path of the priessst isss a noble one in the eyesss of Laogzed. I ssshall do asss the Eater-of-Garm requessstsss.""","""제 주문이 암살자 기술보다 그룹에 더 가치 있다고 생각하신다면, 마법사로서 더 많은 경험을 쌓는 데 집중하겠어요."""
 a1_hench_garm,dlg,EntryList/33/Text,0,-1,"""Good luck with that, mate.""",
-a1_hench_garm,dlg,EntryList/34/Text,0,102771,"""Perhapsss, though your warmblood goodsss are ssstrange to me.""",
+a1_hench_garm,dlg,EntryList/34/Text,0,102771,"""Perhapsss, though your warmblood goodsss are ssstrange to me.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 a1_hench_garm,dlg,EntryList/35/Text,0,-1,"""Isss there any other tasssk you wisssh your coming meal to perform?""",
 a1_hench_garm,dlg,EntryList/36/Text,0,-1,"""Rrrawk! Sticks and stones! Sticks and stones!""",
-a1_hench_garm,dlg,EntryList/37/Text,0,102770,"""You would honor me with sssteel, perhapsss?""",
+a1_hench_garm,dlg,EntryList/37/Text,0,102770,"""You would honor me with sssteel, perhapsss?""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 a1_hench_garm,dlg,EntryList/38/Text,0,-1,"""Rrrawk! Can't do nothing 'bout the smell! Can't do nothing 'bout the smell! Rrrawk!""",
 a1_hench_garm,dlg,EntryList/39/Text,0,-1,"""Aye, let us show you a real weapon, Garm.""",
-a1_hench_garm,dlg,EntryList/4/Text,0,102759,"""Trapsss are bessst avoided, yesss.""",
+a1_hench_garm,dlg,EntryList/4/Text,0,102759,"""Trapsss are bessst avoided, yesss.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
 a1_hench_garm,dlg,EntryList/40/Text,0,-1,"""You are sssworn to feed on me, Eater-of-Garm, and thisss changesss nothing. Had you consssidered thisss eventuality, you would have either eaten me sssooner or pickled me for sssafekeeping...""",
 a1_hench_garm,dlg,EntryList/41/Text,0,-1,"""That isss all I asssk. The hunger of the dead isss ssstronger than the hunger of the living ssso I do not think my wait will be long. You will sssuccumb sssoon enough...""",
 a1_hench_garm,dlg,EntryList/42/Text,0,-1,"""You're disgusting, Cap'n. Remind me to never get marooned on an island with you, all right?""",
@@ -1716,7 +1716,7 @@ a1_hench_garm,dlg,EntryList/46/Text,0,-1,"""I ssstudy the waysss of your warmblo
 a1_hench_garm,dlg,EntryList/47/Text,0,-1,"""Ssstone housssesss, ssstone ssstreetsss, ssstone monumentsss... While they ssstill lived and honored Laogzed, my people were rich in ssstone but we did not sssee itsss worth. Among the warmbloodsss, we would have lived asss kingsss.""",
 a1_hench_garm,dlg,EntryList/48/Text,0,-1,"""Yesss, I have noticed that but do not worry... Garm isss not a warmblood. When the hunger comesss to you, it will not be againssst your cussstomsss to feassst on me."" ",
 a1_hench_garm,dlg,EntryList/49/Text,0,-1,"""My people sssurrendered their right to be remembered the day they followed Utnal and turned their back upon the old godsss. As for the waysss of Laogzed, they are alwaysss with me. There isss nothing for me to misss, Eater-of-Garm.""",
-a1_hench_garm,dlg,EntryList/5/Text,0,102760,"""Trapsss? Garm will sssee what he can do.""",
+a1_hench_garm,dlg,EntryList/5/Text,0,102760,"""Trapsss? Garm will sssee what he can do.""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
 a1_hench_garm,dlg,EntryList/50/Text,0,-1,"""Perhapsss there wasss a time... but I am Garm-that-isss-to-be-Eaten now. I pray to Laogzed only for sssteel and ssspellsss that I might ssserve you until the hunger comesss...""",
 a1_hench_garm,dlg,EntryList/51/Text,0,-1,"""Aye, or a troglodyte woman in every port! Ha!""",
 a1_hench_garm,dlg,EntryList/52/Text,0,-1,"""Gold, maybe. But stone?""",
@@ -1727,7 +1727,7 @@ a1_hench_garm,dlg,EntryList/56/Text,0,-1,"""Quessstionsss... Are all you warmblo
 a1_hench_garm,dlg,EntryList/57/Text,0,-1,"""My people do many thingsss, Eater-of-Garm. That isss sssimply what we do bessst...""",
 a1_hench_garm,dlg,EntryList/58/Text,0,-1,"""Rrrawk! Shuffleboard? Parcheesi?""",
 a1_hench_garm,dlg,EntryList/59/Text,0,-1,"""Why do you warmbloodsss not worssship Laogzed? I am what I am, Eater-of-Garm, and I follow the old godsss. Much like you, Utnal'sss warmblood bitch goddesss isss ssstronger than ssshe ssseemsss. But I do not fear her nor give her my worssship...""",
-a1_hench_garm,dlg,EntryList/6/Text,0,102761,"""Thank you. It isss not Laogzed'sss way to ssskulk about in the ssshadowsss.""",
+a1_hench_garm,dlg,EntryList/6/Text,0,102761,"""Thank you. It isss not Laogzed'sss way to ssskulk about in the ssshadowsss.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
 a1_hench_garm,dlg,EntryList/60/Text,0,-1,"""If I become the Eater-of-Utnal, then I become king. Sssuch isss forbidden of Laogzed'sss priessstsss. If one of my people were brave enough to become the Eater-of-Utnal, I would asssissst them. But my people are craven and fear hisss goddesss.""",
 a1_hench_garm,dlg,EntryList/61/Text,0,-1,"""Rrrawk! Garm is great, Garm is good. Let us thank him for our food. Rrrawk!""",
 a1_hench_garm,dlg,EntryList/62/Text,0,-1,"""You have yet to ssspeak with King Utnal, Eater-of-Garm. He watchesss usss and ssseesss that you have not yet grown hungry for my flesssh. You had bessst go to him and beg your favorsss while you can...""",
@@ -1738,7 +1738,7 @@ a1_hench_garm,dlg,EntryList/66/Text,0,-1,"""According to the two-fold teachingss
 a1_hench_garm,dlg,EntryList/67/Text,0,-1,"""The Edgrimm beassst is dead. Let usss return the head to Utnal ssso we may convince him that it isss that of Laogzed. Let him believe the lie of that until Laogzed isss ready once again to ssspeak unto hisss people...""",
 a1_hench_garm,dlg,EntryList/68/Text,0,-1,"""The sssacred wood isss oursss and pleasssing in the eyesss of Laogzed. Utnal led my people assstray but, through your coming, the old godsss have had their reckoning! Now thisss island isss a place of death. We mussst leave it and not return.""",
 a1_hench_garm,dlg,EntryList/69/Text,0,-1,"""What a ssstrange place, Eater-of-Garm, and ssstranger yet that we did not fall off the edge of the world to get here... I wonder how it isss that we could not sssee thisss tower of light from my people'sss island...""",
-a1_hench_garm,dlg,EntryList/7/Text,0,102762,"""Then I look forward to the fight. You asssk much of your next meal.""",
+a1_hench_garm,dlg,EntryList/7/Text,0,102762,"""Then I look forward to the fight. You asssk much of your next meal.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
 a1_hench_garm,dlg,EntryList/70/Text,0,-1,"""This place isss home to the warmblood goddesss and her priessstesssesss. I wisssh to infiltrate their holy place ssso I may ssstudy their waysss and learn their weaknesssesss... Maybe I will eat them if they ssstruggle...""",
 a1_hench_garm,dlg,EntryList/71/Text,0,-1,"""Ssso there are two waysss into thisss temple of the warmblood goddesss, are there? The sssewersss they ssspeak of sssound warm and damp and pleasssant. But I would alssso like to ssstudy their holy garmentsss.""",
 a1_hench_garm,dlg,EntryList/72/Text,0,-1,"""Let usss go to thisss warmblood known asss Pegleg Paulssson ssso we can acquire the robesss from him.""",
@@ -1749,7 +1749,7 @@ a1_hench_garm,dlg,EntryList/76/Text,0,-1,"""Hsss... Massster Kolmarr wissshesss 
 a1_hench_garm,dlg,EntryList/77/Text,0,-1,"""The two-headed one hasss mapsss for usss, Eater-of-Garm. I mussst admit, you are a kinder massster than hisss.""",
 a1_hench_garm,dlg,EntryList/78/Text,0,-1,"""Thessse sssigilsss are fassscinating. They remind me of the workingsss of the old godsss though their purpossse ssseemsss sssomehow darker..."" ",
 a1_hench_garm,dlg,EntryList/79/Text,0,-1,"""We have done asss Kolmarr asssked and filled all the sssigilsss... Let usss go ssspeak with him atop the hill ssso I may learn more of thisss ritual...""",
-a1_hench_garm,dlg,EntryList/8/Text,0,102763,"""And cower in fear? You asssk much of your next meal.""",
+a1_hench_garm,dlg,EntryList/8/Text,0,102763,"""And cower in fear? You asssk much of your next meal.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
 a1_hench_garm,dlg,EntryList/80/Text,0,-1,"""You mussst feassst upon me very sssoon, Eater-of-Garm. I fear my flesssh isss beginning to ssspoil...""",
 a1_hench_garm,dlg,EntryList/81/Text,0,-1,"""The price of knowledge isss high, yesss? Ssstill, the old godsss have blesssed usss and Laogzed isss mindful of our sssouls, even now...""",
 a1_hench_garm,dlg,EntryList/82/Text,0,-1,"""The sssacred wood isss sssinking, Eater-of-Garm! Quick, pump out the water and patch the holesss while Nisssar and I feed upon the viciousss fissshmen!""",
@@ -1760,27 +1760,27 @@ a1_hench_garm,dlg,EntryList/86/Text,0,-1,"""Thisss ghossst you call Allendry wis
 a1_hench_garm,dlg,EntryList/87/Text,0,-1,"""Can you tassste the sssalt? It isss a pressservative, you know. It will add flavor to my flesssh and keep the rot from ssspreading further. Garm-that-isss-to-be-Eaten isss mossst pleasssed...""",
 a1_hench_garm,dlg,EntryList/88/Text,0,-1,"""That beassst is the one that performsss the will of the warmblood goddesss in thisss place. That isss what must find a way to kill, not the priessstesss Tasssina. Come, let usss find sssome other way to lure it out and gain the advantage.""",
 a1_hench_garm,dlg,EntryList/89/Text,0,-1,"""You mussst lisssten to my ssscale-kin, Eater-of-Garm. The onesss that you call dragonsss are sssmarter than all of usss combined. Lisssten to itsss teachingsss and you will become ssstrong in the waysss of Laogzed.""",
-a1_hench_garm,dlg,EntryList/9/Text,0,102764,"""Doorsss, chessstsss... I have ssseen sssuch thingsss wasssh assshore. They are made of sssacred wood, yesss? I ssshall not defile them and sssave them inssstead for burning.""",
+a1_hench_garm,dlg,EntryList/9/Text,0,102764,"""Doorsss, chessstsss... I have ssseen sssuch thingsss wasssh assshore. They are made of sssacred wood, yesss? I ssshall not defile them and sssave them inssstead for burning.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
 a1_hench_garm,dlg,EntryList/90/Text,0,-1,"""Your promissse to my ssscale-kin, Yxondralu, wasss well-made. The hard part now isss to keep it. You musssn't be blinded like Nisssar isss. Ssseek the truth of Laogzed within your heart... We mussst make our way higher into thisss temple ssso it mussst ssstrain to reach usss.""",
 a1_hench_garm,dlg,EntryList/91/Text,0,-1,"""You are blind like Nisssar, warmblood, but you have made your choice. Garm-that-isss-to-be-Eaten will obey. Let usss dessstroy thisss thing that Tasssina hasss become ssso we may return to the sssacred wood that floatsss upon the sssurface...""",
 a1_hench_garm,dlg,EntryList/92/Text,0,-1,"""Even though you are a warmblood, you have learned to walk the pathsss of Laogzed. I am proud to be eaten by one such asss you, <FullName>... Come, let usss defeat thisss beassst of the warmblood goddesss asss a sssingle sssoul.""",
-a1_hench_garm,dlg,EntryList/93/Text,0,86431,"""You have returned. Have you grown hungry, Eater-of-Garm?""",
-a1_hench_garm,dlg,EntryList/94/Text,0,89979,"""Asss you wisssh, warmblood. I will be here for when the hunger overtakesss you...""",
-a1_hench_garm,dlg,EntryList/95/Text,0,89980,"""To the cookpot and beyond. May Laogzed blesss your meal, Eater-of-Garm.""",
-a1_hench_garm,dlg,ReplyList/0/Text,0,103358,"""Thanks, that's everything.""",
+a1_hench_garm,dlg,EntryList/93/Text,0,86431,"""You have returned. Have you grown hungry, Eater-of-Garm?""","""그러니까... 토미 실력이 또 필요한 거야? 언더마운틴엔 함정이 엄청 많거든, 알지? 혼자 가는 것보단 같이 가는 게 낫지."""
+a1_hench_garm,dlg,EntryList/94/Text,0,89979,"""Asss you wisssh, warmblood. I will be here for when the hunger overtakesss you...""","""영원히 여기 서 있을 생각은 없어... 근데 좋아. 일단 여기 있을게."""
+a1_hench_garm,dlg,EntryList/95/Text,0,89980,"""To the cookpot and beyond. May Laogzed blesss your meal, Eater-of-Garm.""","""좋아! 가자고!"""
+a1_hench_garm,dlg,ReplyList/0/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 a1_hench_garm,dlg,ReplyList/113/Text,0,-1,"""Oops, wrong spell. Let me pick another one.""",
-a1_hench_garm,dlg,ReplyList/116/Text,0,102406,"""I need you to cast some buffing spells.""",
+a1_hench_garm,dlg,ReplyList/116/Text,0,102406,"""I need you to cast some buffing spells.""","""강화 주문들을 시전해야겠어."""
 a1_hench_garm,dlg,ReplyList/117/Text,0,-1,"""Actually, don't cast anything.""",
-a1_hench_garm,dlg,ReplyList/118/Text,0,102408,"""Give me everything you've got.""",
-a1_hench_garm,dlg,ReplyList/119/Text,0,102409,"""Cast your long-term buffing spells.""",
-a1_hench_garm,dlg,ReplyList/120/Text,0,102410,"""Cast your short duration buffing spells.""",
-a1_hench_garm,dlg,ReplyList/121/Text,0,102389,"""Cast it on all the party members.""",
+a1_hench_garm,dlg,ReplyList/118/Text,0,102408,"""Give me everything you've got.""","""가진 강화 주문 전부 시전해."""
+a1_hench_garm,dlg,ReplyList/119/Text,0,102409,"""Cast your long-term buffing spells.""","""지속시간이 긴 강화 주문 전부 시전해."""
+a1_hench_garm,dlg,ReplyList/120/Text,0,102410,"""Cast your short duration buffing spells.""","""지속시간이 짧은 강화 주문 전부 시전해."""
+a1_hench_garm,dlg,ReplyList/121/Text,0,102389,"""Cast it on all the party members.""","""모든 파티원에게 시전해."""
 a1_hench_garm,dlg,ReplyList/136/Text,0,-1,"""Cast anything that will benefit undead.""",
-a1_hench_garm,dlg,ReplyList/137/Text,0,102416,"""I want to discuss your training.""",
-a1_hench_garm,dlg,ReplyList/138/Text,0,102417,"""I'd like you to find a balance between the two.""",
-a1_hench_garm,dlg,ReplyList/140/Text,0,102418,"""Continue with what you're doing now.""",
-a1_hench_garm,dlg,ReplyList/142/Text,0,102419,"""Concentrate on the path of the warrior.""",
-a1_hench_garm,dlg,ReplyList/144/Text,0,102420,"""Concentrate on the path of the priest.""",
+a1_hench_garm,dlg,ReplyList/137/Text,0,102416,"""I want to discuss your training.""","""네 훈련에 대해 논의하고 싶어."""
+a1_hench_garm,dlg,ReplyList/138/Text,0,102417,"""I'd like you to find a balance between the two.""","""둘 사이의 균형을 찾는 걸로 돌아갔으면 좋겠어."""
+a1_hench_garm,dlg,ReplyList/140/Text,0,102418,"""Continue with what you're doing now.""","""지금 하는 대로 계속해."""
+a1_hench_garm,dlg,ReplyList/142/Text,0,102419,"""Concentrate on the path of the warrior.""","""암살자가 되는 데 집중해."""
+a1_hench_garm,dlg,ReplyList/144/Text,0,102420,"""Concentrate on the path of the priest.""","""마법사 훈련에만 집중했으면 좋겠어."""
 a1_hench_garm,dlg,ReplyList/154/Text,0,-1,"""I don't think I can eat you, Garm. You're starting to rot.""",
 a1_hench_garm,dlg,ReplyList/155/Text,0,-1,"""Fine, I'll eat you... just not anytime soon.""",
 a1_hench_garm,dlg,ReplyList/157/Text,0,-1,"""Why are you so obsessed with being eaten?""",
@@ -1790,19 +1790,19 @@ a1_hench_garm,dlg,ReplyList/161/Text,0,-1,"""So what do you think of civilizatio
 a1_hench_garm,dlg,ReplyList/163/Text,0,-1,"""Have you noticed that warmbloods don't eat each other?""",
 a1_hench_garm,dlg,ReplyList/164/Text,0,-1,"""Do you miss your ways, your people?""",
 a1_hench_garm,dlg,ReplyList/165/Text,0,-1,"""Do you dream of being wealthy, Garm?""",
-a1_hench_garm,dlg,ReplyList/168/Text,0,103381,"""Tell me a bit about yourself, Garm.""",
+a1_hench_garm,dlg,ReplyList/168/Text,0,103381,"""Tell me a bit about yourself, Garm.""","""잠깐 멈춰서 이야기하자."""
 a1_hench_garm,dlg,ReplyList/171/Text,0,-1,"""Back to my other questions.""",
 a1_hench_garm,dlg,ReplyList/172/Text,0,-1,"""Do troglodytes do anything other than eat each other?""",
 a1_hench_garm,dlg,ReplyList/174/Text,0,-1,"""Why don't you worship Utnal's goddess?""",
 a1_hench_garm,dlg,ReplyList/175/Text,0,-1,"""Why do you not take revenge on Utnal?""",
-a1_hench_garm,dlg,ReplyList/179/Text,0,90246,"""Stay here.""",
-a1_hench_garm,dlg,ReplyList/181/Text,0,90247,"""Come with me.""",
-a1_hench_garm,dlg,ReplyList/20/Text,0,103373,"""Stay a long distance away.""",
-a1_hench_garm,dlg,ReplyList/21/Text,0,103374,"""Keep a medium distance.""",
-a1_hench_garm,dlg,ReplyList/22/Text,0,103375,"""Stay close.""",
+a1_hench_garm,dlg,ReplyList/179/Text,0,90246,"""Stay here.""","""아니, 당분간 여기 있어."""
+a1_hench_garm,dlg,ReplyList/181/Text,0,90247,"""Come with me.""","""응, 나랑 같이 가."""
+a1_hench_garm,dlg,ReplyList/20/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+a1_hench_garm,dlg,ReplyList/21/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+a1_hench_garm,dlg,ReplyList/22/Text,0,103375,"""Stay close.""",가까이 있어.
 a1_hench_garm,dlg,ReplyList/31/Text,0,-1,"""I need you to do something for me.""",
-a1_hench_garm,dlg,ReplyList/32/Text,0,102306,"""I need you to cast a specific spell.""",
-a1_hench_garm,dlg,ReplyList/4/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
+a1_hench_garm,dlg,ReplyList/32/Text,0,102306,"""I need you to cast a specific spell.""","""주문을 시전해줘야겠어."""
+a1_hench_garm,dlg,ReplyList/4/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
 a1_narrator,dlg,EntryList/0/Text,0,-1,"HAWYARD TO DO - Player leaves troglodyte island (Solo effort)
 
 [Player working] ""To be marooned on an island""",
@@ -3601,35 +3601,35 @@ a2_prugdush,dlg,EntryList/0/Text,0,-1,"""You again, glub glub? You here to buy a
 a2_prugdush,dlg,EntryList/1/Text,0,-1,"""You pirate, right? Glub glub. New to Spindrift? Prugdush has trouble telling you soft-skins apart, but you look new, smell new... not sure how you taste. Glub glub.""",
 a2_prugdush,dlg,EntryList/10/Text,0,-1,"""Eye Oh Ewe? Oh, little paper thingy! Yuh, okay, glub glub. Let me scrounge around and see what me have. Ah! Here, how's this?""",
 a2_prugdush,dlg,EntryList/11/Text,0,-1,"""Glub glub? Prugdush sell weapons and armor, not crewmembers. Maybe someone down in market sell crewmembers...""",
-a2_prugdush,dlg,EntryList/12/Text,0,87375,"""Prugdush is journeyman blacksmith, glub glub. Shields and armor are good things to make better, but Prugdush favors weapons for enhancing.""",
-a2_prugdush,dlg,EntryList/13/Text,0,87377,"""Just put the weapon or armor or shield in the forge and come talk to me, glub glub. Tell me what upgrades you want and Prugdush will do it.""",
+a2_prugdush,dlg,EntryList/12/Text,0,87375,"""Prugdush is journeyman blacksmith, glub glub. Shields and armor are good things to make better, but Prugdush favors weapons for enhancing.""","""내가 명장이라고 말 안 했어? 금화만 충분히 주면 어떤 무기든 더 좋게 만들 수 있어."""
+a2_prugdush,dlg,EntryList/13/Text,0,87377,"""Just put the weapon or armor or shield in the forge and come talk to me, glub glub. Tell me what upgrades you want and Prugdush will do it.""","""무기만 가져와, 내 대장간의 마법으로 개선해줄 수 있어. 마법 부여를 추가하거나, 화염, 냉기, 번개의 힘을 불어넣을 수 있지. 필요한 건 뭐든 해줄 수 있어."""
 a2_prugdush,dlg,EntryList/14/Text,0,-1,"""Glub glub... Prugdush is just a journeyman and can only upgrade weapons and armor. I can't do anything with that <CUSTOM9809> you put in there. Put in a proper weapon and we'll talk, glub glub.""",
 a2_prugdush,dlg,EntryList/15/Text,0,-1,"""A ranged weapon, glub glub... How do you want Prugdush to enhance your <CUSTOM9809>?""",
-a2_prugdush,dlg,EntryList/16/Text,0,87381,"""But your <CUSTOM9809> already has unlimited ammunition, glub glub.""",
-a2_prugdush,dlg,EntryList/17/Text,0,87383,"""But your <CUSTOM9809> already has the maximum might that I can give it, glub glub.""",
-a2_prugdush,dlg,EntryList/18/Text,0,87384,"""But your <CUSTOM9809> already has the maximum attack bonus I can give it, glub glub.""",
-a2_prugdush,dlg,EntryList/19/Text,0,87379,"""A melee weapon, glub glub... How do you want Prugdush to enhance your <CUSTOM9809>?""",
+a2_prugdush,dlg,EntryList/16/Text,0,87381,"""But your <CUSTOM9809> already has unlimited ammunition, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/17/Text,0,87383,"""But your <CUSTOM9809> already has the maximum might that I can give it, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/18/Text,0,87384,"""But your <CUSTOM9809> already has the maximum attack bonus I can give it, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/19/Text,0,87379,"""A melee weapon, glub glub... How do you want Prugdush to enhance your <CUSTOM9809>?""","""손에 무기가 있네. 강화해줄까?"""
 a2_prugdush,dlg,EntryList/2/Text,0,-1,"""That is joke! Prugdush eats no soft-skins. Priestesses say not to. Might choke on all the the bones. Glub glub. You and Prugdush is to be good friends.""",
-a2_prugdush,dlg,EntryList/20/Text,0,87386,"""Is there something else Prugdush can do for you, glub glub? You want weapons? Armor? Upgrades? You tell Prugdush and Prugdush make it happen.""",
-a2_prugdush,dlg,EntryList/21/Text,0,87387,"""But your <CUSTOM9809> already has vampiric regeneration, glub glub.""",
-a2_prugdush,dlg,EntryList/22/Text,0,87388,"""But your <CUSTOM9809> already has magic resistance, glub glub.""",
-a2_prugdush,dlg,EntryList/23/Text,0,87390,"""But your <CUSTOM9809> already has the keen property, glub glub.""",
-a2_prugdush,dlg,EntryList/24/Text,0,87392,"""But your <CUSTOM9809> already does electrical damage, glub glub.""",
-a2_prugdush,dlg,EntryList/25/Text,0,87393,"""But your <CUSTOM9809> already does fire damage, glub glub.""",
-a2_prugdush,dlg,EntryList/26/Text,0,87394,"""But your <CUSTOM9809> already does cold damage, glub glub.""",
-a2_prugdush,dlg,EntryList/27/Text,0,87397,"""But your <CUSTOM9809> already does acid damage, glub glub.""",
-a2_prugdush,dlg,EntryList/28/Text,0,87398,"""You don't have enough gold. Maybe you'd be willing to sell me some of your items, glub glub...""",
-a2_prugdush,dlg,EntryList/29/Text,0,87399,"""Excellent choice, glub glub... There, the upgrade is complete.""",
+a2_prugdush,dlg,EntryList/20/Text,0,87386,"""Is there something else Prugdush can do for you, glub glub? You want weapons? Armor? Upgrades? You tell Prugdush and Prugdush make it happen.""","""더 해줄 게 있어?"""
+a2_prugdush,dlg,EntryList/21/Text,0,87387,"""But your <CUSTOM9809> already has vampiric regeneration, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/22/Text,0,87388,"""But your <CUSTOM9809> already has magic resistance, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/23/Text,0,87390,"""But your <CUSTOM9809> already has the keen property, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/24/Text,0,87392,"""But your <CUSTOM9809> already does electrical damage, glub glub.""","""네 <CUSTOM9809>엔 이미 피해 강화가 되어 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/25/Text,0,87393,"""But your <CUSTOM9809> already does fire damage, glub glub.""","""네 <CUSTOM9809>엔 이미 피해 강화가 되어 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/26/Text,0,87394,"""But your <CUSTOM9809> already does cold damage, glub glub.""","""네 <CUSTOM9809>엔 이미 피해 강화가 되어 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/27/Text,0,87397,"""But your <CUSTOM9809> already does acid damage, glub glub.""","""네 <CUSTOM9809>엔 이미 피해 강화가 되어 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/28/Text,0,87398,"""You don't have enough gold. Maybe you'd be willing to sell me some of your items, glub glub...""","""미안하지만 금화가 부족한 것 같아. 마법 용광로의 불을 피우려면 금화가 필요해. 금화만이 내 마법을 쓸 만큼 뜨겁고 깨끗하게 타거든."""
+a2_prugdush,dlg,EntryList/29/Text,0,87399,"""Excellent choice, glub glub... There, the upgrade is complete.""","""명장의 작업을 지켜봐."""
 a2_prugdush,dlg,EntryList/3/Text,0,-1,"""You want weapons? Armor? Upgrades? Glub glub. Prugdush make something for you. Prugdush make something for all you crazy pirates, right?""",
-a2_prugdush,dlg,EntryList/30/Text,0,87400,"""But your <CUSTOM9809> already has the maximum enhancement I can give it, glub glub.""",
+a2_prugdush,dlg,EntryList/30/Text,0,87400,"""But your <CUSTOM9809> already has the maximum enhancement I can give it, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
 a2_prugdush,dlg,EntryList/31/Text,0,-1,"""You put a shield in my forge, glub glub. Prugdush can do something to make it more useful. What would you like Prugdush to do?""",
 a2_prugdush,dlg,EntryList/32/Text,0,-1,"""You put armor in forge for Prugdush. It is good to have strong protection, glub, glub. What protection do you seek?""",
-a2_prugdush,dlg,EntryList/33/Text,0,87400,"""But your <CUSTOM9809> already has the maximum damage reduction I can give it, glub glub.""",
-a2_prugdush,dlg,EntryList/34/Text,0,87387,"""But your <CUSTOM9809> already has regeneration, glub glub.""",
-a2_prugdush,dlg,EntryList/35/Text,0,87387,"""But your <CUSTOM9809> already has a universal saving throw, glub glub.""",
-a2_prugdush,dlg,EntryList/36/Text,0,87400,"""But your <CUSTOM9809> already has the maximum armor class bonus I can give it, glub glub.""",
-a2_prugdush,dlg,EntryList/37/Text,0,101584,"""Glub glub... The item you put in my forge is already pretty enhanced. If Prugdush were to enhance it further, it might cause all Spindrift Town to explode. The Governor wouldn't be happy with that, glub glub. Try something else.""",
-a2_prugdush,dlg,EntryList/38/Text,0,101583,"""Glub glub... Throwing weapons? Prugdush doesn't learn how to do throwing weapons until sometime next year. Why can't you crazy pirates stick to simple things like longbows and cutlasses, glub glub?""",
+a2_prugdush,dlg,EntryList/33/Text,0,87400,"""But your <CUSTOM9809> already has the maximum damage reduction I can give it, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/34/Text,0,87387,"""But your <CUSTOM9809> already has regeneration, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/35/Text,0,87387,"""But your <CUSTOM9809> already has a universal saving throw, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/36/Text,0,87400,"""But your <CUSTOM9809> already has the maximum armor class bonus I can give it, glub glub.""","""네 <CUSTOM9809>엔 이미 그 속성이 있어. 금화만 낭비하게 될 거야."""
+a2_prugdush,dlg,EntryList/37/Text,0,101584,"""Glub glub... The item you put in my forge is already pretty enhanced. If Prugdush were to enhance it further, it might cause all Spindrift Town to explode. The Governor wouldn't be happy with that, glub glub. Try something else.""","""들고 계신 무기는 이미 많은 강력한 마법부여가 되어 있습니다. 그렇게 강력한 아이템을 다루는 건 위험하므로 작업할 수 없습니다."""
+a2_prugdush,dlg,EntryList/38/Text,0,101583,"""Glub glub... Throwing weapons? Prugdush doesn't learn how to do throwing weapons until sometime next year. Why can't you crazy pirates stick to simple things like longbows and cutlasses, glub glub?""","""현재 들고 계신 무기는 투척 무기입니다. 죄송하지만 그것들은 업그레이드할 수 없습니다. 하지만 원거리나 근접 무기는 업그레이드할 수 있습니다."""
 a2_prugdush,dlg,EntryList/39/Text,0,-1,"""There's nothing in my forge, glub glub. Go put something inside and Prugdush will show you what he can do.""",
 a2_prugdush,dlg,EntryList/4/Text,0,-1,"""Sometime crazy pirates come here and try to sell me their crazy stuff but me all out right now. Maybe you want weapons and armor instead, glub glub?""",
 a2_prugdush,dlg,EntryList/40/Text,0,-1,"""You've put too many items in the forge, glub glub! Prugdush can only work on one item at a time.""",
@@ -3642,25 +3642,25 @@ a2_prugdush,dlg,EntryList/9/Text,0,-1,"""Glub glub? Crazy pirate stuff. Prugdush
 a2_prugdush,dlg,ReplyList/10/Text,0,-1,"""I have this I.O.U. in your name.""",
 a2_prugdush,dlg,ReplyList/11/Text,0,-1,"""I'm looking for crewmembers to sail the Skull and Bones.""",
 a2_prugdush,dlg,ReplyList/12/Text,0,-1,"""I'm looking for crewmembers to steal the Midnight Rose.""",
-a2_prugdush,dlg,ReplyList/13/Text,0,87403,"""I want to upgrade an item.""",
-a2_prugdush,dlg,ReplyList/14/Text,0,87415,"""You upgrade items?""",
-a2_prugdush,dlg,ReplyList/15/Text,0,87416,"""How does upgrading work?""",
-a2_prugdush,dlg,ReplyList/17/Text,0,87418,<StartAction>[Add unlimited ammunition. Costs <CUSTOM9614> gp]</Start>,
-a2_prugdush,dlg,ReplyList/19/Text,0,87420,<StartAction>[Increment the mighty property by +1. Costs <CUSTOM9612> gp]</Start>,
+a2_prugdush,dlg,ReplyList/13/Text,0,87403,"""I want to upgrade an item.""","""무기 업그레이드를 하고 싶어."""
+a2_prugdush,dlg,ReplyList/14/Text,0,87415,"""You upgrade items?""","""무기 업그레이드를 할 수 있어?"""
+a2_prugdush,dlg,ReplyList/15/Text,0,87416,"""How does upgrading work?""","""어떻게 작동하는 거야?"""
+a2_prugdush,dlg,ReplyList/17/Text,0,87418,<StartAction>[Add unlimited ammunition. Costs <CUSTOM9614> gp]</Start>,<StartAction>[무한 탄약 +5 추가. 비용 금화 <CUSTOM9614>개]</Start>
+a2_prugdush,dlg,ReplyList/19/Text,0,87420,<StartAction>[Increment the mighty property by +1. Costs <CUSTOM9612> gp]</Start>,<StartAction>[강력함 +5 추가. 비용 금화 <CUSTOM9612>개]</Start>
 a2_prugdush,dlg,ReplyList/2/Text,0,-1,"""Goodbye.""",
-a2_prugdush,dlg,ReplyList/21/Text,0,87421,<StartAction>[Increment the attack bonus by +1. Costs <CUSTOM9611> gp]</Start>,
-a2_prugdush,dlg,ReplyList/24/Text,0,87424,<StartAction>[Add +2 vampiric regeneration. Costs <CUSTOM9716> gp]</Start>,
-a2_prugdush,dlg,ReplyList/26/Text,0,87425,<StartAction>[Add +10 SR magic resistance. Costs <CUSTOM9715> gp]</Start>,
-a2_prugdush,dlg,ReplyList/28/Text,0,87427,<StartAction>[Add the keen property. Costs <CUSTOM9713> gp]</Start>,
+a2_prugdush,dlg,ReplyList/21/Text,0,87421,<StartAction>[Increment the attack bonus by +1. Costs <CUSTOM9611> gp]</Start>,<StartAction>[공격 보너스 +1 추가. 비용 금화 <CUSTOM9611>개. 최대 공격 보너스는 +10]</Start>
+a2_prugdush,dlg,ReplyList/24/Text,0,87424,<StartAction>[Add +2 vampiric regeneration. Costs <CUSTOM9716> gp]</Start>,<StartAction>[무기가 내 체력을 재생하도록 만들기 (라운드당 2 HP). 비용 금화 <CUSTOM9716>개]</Start>
+a2_prugdush,dlg,ReplyList/26/Text,0,87425,<StartAction>[Add +10 SR magic resistance. Costs <CUSTOM9715> gp]</Start>,<StartAction>[무기에 마법 저항력을 부여하도록 만들기 (+20 주문저항). 비용 금화 <CUSTOM9715>개]</Start>
+a2_prugdush,dlg,ReplyList/28/Text,0,87427,<StartAction>[Add the keen property. Costs <CUSTOM9713> gp]</Start>,<StartAction>[무기를 예리하게 만들기. 비용 금화 <CUSTOM9713>개]</Start>
 a2_prugdush,dlg,ReplyList/3/Text,0,-1,"""Do you have any booty for sale?""",
-a2_prugdush,dlg,ReplyList/30/Text,0,87429,<StartAction>[Add +1d6 electrical damage. Costs <CUSTOM9711> gp]</Start>,
-a2_prugdush,dlg,ReplyList/32/Text,0,87430,<StartAction>[Add +1d6 fire damage. Costs <CUSTOM9711> gp]</Start>,
-a2_prugdush,dlg,ReplyList/34/Text,0,87431,<StartAction>[Add +1d6 cold damage. Costs <CUSTOM9711> gp]</Start>,
-a2_prugdush,dlg,ReplyList/36/Text,0,87432,<StartAction>[Add +1d6 acid damage. Costs <CUSTOM9711> gp]</Start>,
-a2_prugdush,dlg,ReplyList/38/Text,0,87433,<StartAction>[Increment the enhancement bonus by +1. Costs <CUSTOM9717> gp]</Start>,
+a2_prugdush,dlg,ReplyList/30/Text,0,87429,<StartAction>[Add +1d6 electrical damage. Costs <CUSTOM9711> gp]</Start>,<StartAction>[전기 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>
+a2_prugdush,dlg,ReplyList/32/Text,0,87430,<StartAction>[Add +1d6 fire damage. Costs <CUSTOM9711> gp]</Start>,<StartAction>[화염 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>
+a2_prugdush,dlg,ReplyList/34/Text,0,87431,<StartAction>[Add +1d6 cold damage. Costs <CUSTOM9711> gp]</Start>,<StartAction>[냉기 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>
+a2_prugdush,dlg,ReplyList/36/Text,0,87432,<StartAction>[Add +1d6 acid damage. Costs <CUSTOM9711> gp]</Start>,<StartAction>[산성 피해 +2d6 추가. 비용 금화 <CUSTOM9711>개]</Start>
+a2_prugdush,dlg,ReplyList/38/Text,0,87433,<StartAction>[Increment the enhancement bonus by +1. Costs <CUSTOM9717> gp]</Start>,<StartAction>[강화 보너스 +1 추가. 비용 금화 <CUSTOM9717>개. 최대 강화 보너스는 +10]</Start>
 a2_prugdush,dlg,ReplyList/4/Text,0,-1,"""Back to my other questions.""",
 a2_prugdush,dlg,ReplyList/42/Text,0,-1,"<StartAction>[Add +1 damage reduction. Costs <CUSTOM9914> gp]</Start> ""I don't want to feel anything when most weapons hit me.""",
-a2_prugdush,dlg,ReplyList/44/Text,0,87424,"<StartAction>[Add +1 regeneration. Costs <CUSTOM9913> gp]</Start> ""I want to regenerate when I'm wounded.""",
+a2_prugdush,dlg,ReplyList/44/Text,0,87424,"<StartAction>[Add +1 regeneration. Costs <CUSTOM9913> gp]</Start> ""I want to regenerate when I'm wounded.""",<StartAction>[무기가 내 체력을 재생하도록 만들기 (라운드당 2 HP). 비용 금화 <CUSTOM9716>개]</Start>
 a2_prugdush,dlg,ReplyList/46/Text,0,-1,"<StartAction>[Add +2 universal saving throw. Costs <CUSTOM9912> gp]</Start> ""Make it easier for me to avoid spells and poisons and such.""",
 a2_prugdush,dlg,ReplyList/48/Text,0,-1,"<StartAction>[Increment the AC bonus by +1. Costs <CUSTOM9911> gp]</Start> ""Just give me a general enhancement.""",
 a2_prugdush,dlg,ReplyList/5/Text,0,-1,"""No thanks.""",

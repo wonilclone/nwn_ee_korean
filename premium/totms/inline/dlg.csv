@@ -1,4 +1,4 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 tm_aerel,dlg,EntryList/0/Text,0,-1,"This burly fellow looks stressed at having to manage such an overcrowded inn. He barely glances at you as he speaks. ""What d'you want, stranger?""",
 tm_aerel,dlg,EntryList/1/Text,0,-1,The innkeeper turns away without another word.,
 tm_aerel,dlg,EntryList/2/Text,0,-1,"""Short and sweet. Choose your poison, then.""",
@@ -2296,26 +2296,26 @@ tm_hench_astar,dlg,EntryList/12/Text,0,-1,"""Voonlar is safe for the moment. It'
 tm_hench_astar,dlg,EntryList/13/Text,0,-1,"""If we're going to hunt down this cult, then we're going to need some way to leave Voonlar. Until the lockdown is declared over and the gates are opened, we're stuck here. I'd suggest asking around - there must be someone who knows a way out of this damned town.""",
 tm_hench_astar,dlg,EntryList/14/Text,0,-1,"""Very well. I will return to the Swords' Meet Inn in Voonlar and await you there.""",
 tm_hench_astar,dlg,EntryList/15/Text,0,-1,"""As you wish. I will await you in the Swaying Bough in Elventree.""",
-tm_hench_astar,dlg,EntryList/16/Text,0,102758,"Astar raises an eyebrow. ""My natural instincts are to trust in my blade and let the battle flow its course, but I'll listen to your suggestions.""",
+tm_hench_astar,dlg,EntryList/16/Text,0,102758,"Astar raises an eyebrow. ""My natural instincts are to trust in my blade and let the battle flow its course, but I'll listen to your suggestions.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 tm_hench_astar,dlg,EntryList/17/Text,0,-1,"""As you wish. What now?""",
-tm_hench_astar,dlg,EntryList/18/Text,0,102759,"""My eye for traps was never great. I'll leave them for someone more proficient than me.""",
-tm_hench_astar,dlg,EntryList/19/Text,0,102760,"""I fear you have me confused with a common thief! I'll try - but make sure you are on hand with healing in the event something goes terribly wrong...""",
+tm_hench_astar,dlg,EntryList/18/Text,0,102759,"""My eye for traps was never great. I'll leave them for someone more proficient than me.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
+tm_hench_astar,dlg,EntryList/19/Text,0,102760,"""I fear you have me confused with a common thief! I'll try - but make sure you are on hand with healing in the event something goes terribly wrong...""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
 tm_hench_astar,dlg,EntryList/2/Text,0,-1,"""I'm just a mercenary. One who fights better than most. I was half-asleep when the screams started. By the time I had my armor on and came downstairs, the attack was already well underway.""",
-tm_hench_astar,dlg,EntryList/20/Text,0,102761,"""Thank Helm. I've always preferred direct combat to sneaking around.""",
-tm_hench_astar,dlg,EntryList/21/Text,0,102762,"""I'm no assassin. I meet foes head on, cold steel in hand! Still, I will attempt this for you. Just don't expect a great deal of success.""",
-tm_hench_astar,dlg,EntryList/22/Text,0,102763,"""I fear I lack the skills to remain hidden. My talents lie in the sword, not skulking around in shadows. Still, I will do my best.""",
-tm_hench_astar,dlg,EntryList/23/Text,0,102764,"""I agree - a swordsman's art is wasted on bashing apart doors and chests.""",
-tm_hench_astar,dlg,EntryList/24/Text,0,102765,"""I lack thieving skills, but my sword arm is strong enough to bash through wood easily enough. I'll help where I can.""",
-tm_hench_astar,dlg,EntryList/25/Text,0,102766,"""A strange request, but go on.""",
-tm_hench_astar,dlg,EntryList/26/Text,0,102767,"""As you wish.""",
-tm_hench_astar,dlg,EntryList/27/Text,0,102768,"""Few are my equal in a direct fight. Be sure to keep an eye out for mages; even the most skilled blade cannot turn aside a magical onslaught.""",
-tm_hench_astar,dlg,EntryList/28/Text,0,102769,"Astar nods, pleased. ""Only a fool rushes in when he can bide his time and work the situation to his advantage. I'll watch your back until you say otherwise.""",
+tm_hench_astar,dlg,EntryList/20/Text,0,102761,"""Thank Helm. I've always preferred direct combat to sneaking around.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
+tm_hench_astar,dlg,EntryList/21/Text,0,102762,"""I'm no assassin. I meet foes head on, cold steel in hand! Still, I will attempt this for you. Just don't expect a great deal of success.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
+tm_hench_astar,dlg,EntryList/22/Text,0,102763,"""I fear I lack the skills to remain hidden. My talents lie in the sword, not skulking around in shadows. Still, I will do my best.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
+tm_hench_astar,dlg,EntryList/23/Text,0,102764,"""I agree - a swordsman's art is wasted on bashing apart doors and chests.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+tm_hench_astar,dlg,EntryList/24/Text,0,102765,"""I lack thieving skills, but my sword arm is strong enough to bash through wood easily enough. I'll help where I can.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+tm_hench_astar,dlg,EntryList/25/Text,0,102766,"""A strange request, but go on.""","""그럼 어디에 있으면 될까요?"""
+tm_hench_astar,dlg,EntryList/26/Text,0,102767,"""As you wish.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+tm_hench_astar,dlg,EntryList/27/Text,0,102768,"""Few are my equal in a direct fight. Be sure to keep an eye out for mages; even the most skilled blade cannot turn aside a magical onslaught.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+tm_hench_astar,dlg,EntryList/28/Text,0,102769,"Astar nods, pleased. ""Only a fool rushes in when he can bide his time and work the situation to his advantage. I'll watch your back until you say otherwise.""","""말씀대로 뒤를 지키며 따르겠습니다."""
 tm_hench_astar,dlg,EntryList/29/Text,0,-1,"""Anything else?""",
 tm_hench_astar,dlg,EntryList/3/Text,0,-1,"""Farewell for now. I'll remain here in case you have need of a travel companion.""",
 tm_hench_astar,dlg,EntryList/30/Text,0,-1,"""Yes?""",
-tm_hench_astar,dlg,EntryList/31/Text,0,102771,"""I'm no mage, but I've seen a lot of magic in my travels. I'm confident I can recognize the more common magical items if you give me a moment.""",
+tm_hench_astar,dlg,EntryList/31/Text,0,102771,"""I'm no mage, but I've seen a lot of magic in my travels. I'm confident I can recognize the more common magical items if you give me a moment.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 tm_hench_astar,dlg,EntryList/32/Text,0,-1,"""Anything else, <FirstName>?""",
-tm_hench_astar,dlg,EntryList/33/Text,0,102770,"""I'll let you see what I'm carrying - but take care not to lose my sword or armor!""",
+tm_hench_astar,dlg,EntryList/33/Text,0,102770,"""I'll let you see what I'm carrying - but take care not to lose my sword or armor!""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 tm_hench_astar,dlg,EntryList/34/Text,0,-1,"""Of course. Ask.""",
 tm_hench_astar,dlg,EntryList/35/Text,0,-1,"""Make sure you are well-equipped with enchanted weapons and ample healing supplies. This is no orc-bashing exercise we are undertaking; demons, slaadi, and worse lie before us, and we're going to need powerful magic to combat them effectively.""",
 tm_hench_astar,dlg,EntryList/36/Text,0,-1,"""We must continue to head east. That is where our destination lies.""",
@@ -2363,23 +2363,23 @@ tm_hench_astar,dlg,ReplyList/1/Text,0,-1,"""Your help is appreciated, whoever yo
 tm_hench_astar,dlg,ReplyList/11/Text,0,-1,"""Who is this wizard you mentioned?""",
 tm_hench_astar,dlg,ReplyList/12/Text,0,-1,"""What do you know about this attack?""",
 tm_hench_astar,dlg,ReplyList/13/Text,0,-1,"""I have need of your skill at arms.""",
-tm_hench_astar,dlg,ReplyList/16/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_astar,dlg,ReplyList/17/Text,0,103359,"""I think we need to part ways.""",
+tm_hench_astar,dlg,ReplyList/16/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_astar,dlg,ReplyList/17/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
 tm_hench_astar,dlg,ReplyList/2/Text,0,-1,"""Who in the Nine Hells are you anyway?""",
-tm_hench_astar,dlg,ReplyList/21/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
-tm_hench_astar,dlg,ReplyList/28/Text,0,103368,"""Stay stealthy but only until the next fight.""",
+tm_hench_astar,dlg,ReplyList/21/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
+tm_hench_astar,dlg,ReplyList/28/Text,0,103368,"""Stay stealthy but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만."""
 tm_hench_astar,dlg,ReplyList/3/Text,0,-1,"""You must be a powerful warrior to have taken on fiends.""",
-tm_hench_astar,dlg,ReplyList/37/Text,0,103373,"""Stay a long distance away.""",
-tm_hench_astar,dlg,ReplyList/38/Text,0,103374,"""Keep a medium distance.""",
-tm_hench_astar,dlg,ReplyList/39/Text,0,103375,"""Stay close.""",
+tm_hench_astar,dlg,ReplyList/37/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+tm_hench_astar,dlg,ReplyList/38/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+tm_hench_astar,dlg,ReplyList/39/Text,0,103375,"""Stay close.""",가까이 있어.
 tm_hench_astar,dlg,ReplyList/4/Text,0,-1,"""Farewell.""",
-tm_hench_astar,dlg,ReplyList/43/Text,0,103377,"""Defend me, and don't attack until I do.""",
+tm_hench_astar,dlg,ReplyList/43/Text,0,103377,"""Defend me, and don't attack until I do.""","""날 방어하고 내가 공격하기 전까지 공격하지 마."""
 tm_hench_astar,dlg,ReplyList/45/Text,0,-1,"""I need you to do something for me.""",
 tm_hench_astar,dlg,ReplyList/50/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_astar,dlg,ReplyList/51/Text,0,-1,"""What are your thoughts on our current situation?""",
 tm_hench_astar,dlg,ReplyList/52/Text,0,-1,"""What are your thoughts on the Order?""",
 tm_hench_astar,dlg,ReplyList/53/Text,0,-1,"""How did you end up in Voonlar?""",
-tm_hench_astar,dlg,ReplyList/55/Text,0,103381,"""Tell me a bit about yourself, Astar.""",
+tm_hench_astar,dlg,ReplyList/55/Text,0,103381,"""Tell me a bit about yourself, Astar.""","""잠깐 멈춰서 이야기하자."""
 tm_hench_astar,dlg,ReplyList/57/Text,0,-1,"""Back to my other questions.""",
 tm_hench_astar,dlg,ReplyList/58/Text,0,-1,"""What do you seek to gain by travelling with me?""",
 tm_hench_astar,dlg,ReplyList/59/Text,0,-1,"""What was your life like before becoming a sellsword?""",
@@ -2396,17 +2396,17 @@ tm_hench_astar,dlg,ReplyList/72/Text,0,-1,"""Who was that assassin?""",
 tm_hench_astar,dlg,ReplyList/8/Text,0,-1,"My name is <FullName>. I could use some help.""",
 tm_hench_beirmou,dlg,EntryList/0/Text,0,-1,"Note: This line should never show! ***** ""Yes? What do you want now? *****",
 tm_hench_beirmou,dlg,EntryList/1/Text,0,-1,"""Why, I have never been so insulted! Actually, that's not true. Apparently, I can be quite irritating. My slaves-- um, partners - often need a little break from me. Just so they can realize what they're missing. Whatever. I'm not jealous. Later!""",
-tm_hench_beirmou,dlg,EntryList/10/Text,0,102766,"""Why is that? Scared I might accidentally skewer you? That hardly ever happens!""",
-tm_hench_beirmou,dlg,EntryList/11/Text,0,102767,"""All right.""",
-tm_hench_beirmou,dlg,EntryList/12/Text,0,102768,"""Yep. Beirmoura see, Beirmoura kill. I got it.""",
-tm_hench_beirmou,dlg,EntryList/13/Text,0,102769,"""Defense is the best form of attack! Is that right? That can't be right...""",
+tm_hench_beirmou,dlg,EntryList/10/Text,0,102766,"""Why is that? Scared I might accidentally skewer you? That hardly ever happens!""","""그럼 어디에 있으면 될까요?"""
+tm_hench_beirmou,dlg,EntryList/11/Text,0,102767,"""All right.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+tm_hench_beirmou,dlg,EntryList/12/Text,0,102768,"""Yep. Beirmoura see, Beirmoura kill. I got it.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+tm_hench_beirmou,dlg,EntryList/13/Text,0,102769,"""Defense is the best form of attack! Is that right? That can't be right...""","""말씀대로 뒤를 지키며 따르겠습니다."""
 tm_hench_beirmou,dlg,EntryList/14/Text,0,-1,"""What else?""",
 tm_hench_beirmou,dlg,EntryList/15/Text,0,-1,"""Oh, here we go...""",
-tm_hench_beirmou,dlg,EntryList/16/Text,0,102771,"""You want me to look over your haphazard collection of magical junk? Here's a tip: it's all garbage. I'm the only enchanted item you need!""",
+tm_hench_beirmou,dlg,EntryList/16/Text,0,102771,"""You want me to look over your haphazard collection of magical junk? Here's a tip: it's all garbage. I'm the only enchanted item you need!""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 tm_hench_beirmou,dlg,EntryList/17/Text,0,-1,"""Are we done yet? I haven't killed something in a while.""",
 tm_hench_beirmou,dlg,EntryList/18/Text,0,-1,"""I have all day. And all night. Pretty much the whole year to be honest.""",
-tm_hench_beirmou,dlg,EntryList/19/Text,0,102770,"""Look at me. I'm a flying sword. What equipment do you expect me to carry? Next request, genius.""",
-tm_hench_beirmou,dlg,EntryList/2/Text,0,102758,"""The nerve! 'I want to change your tactics.' Like I was created as a mere tool to serve your needs! Well, I mean, I WAS - but that's not the point! *Sigh* Go on, then - I suppose I'll indulge you this once.""",
+tm_hench_beirmou,dlg,EntryList/19/Text,0,102770,"""Look at me. I'm a flying sword. What equipment do you expect me to carry? Next request, genius.""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
+tm_hench_beirmou,dlg,EntryList/2/Text,0,102758,"""The nerve! 'I want to change your tactics.' Like I was created as a mere tool to serve your needs! Well, I mean, I WAS - but that's not the point! *Sigh* Go on, then - I suppose I'll indulge you this once.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 tm_hench_beirmou,dlg,EntryList/20/Text,0,-1,"""Ask away. I literally have forever.""",
 tm_hench_beirmou,dlg,EntryList/21/Text,0,-1,"""We need to follow up these leads. One of them will lead us to Maganus and Dominion. And then the violence truly begins.""",
 tm_hench_beirmou,dlg,EntryList/22/Text,0,-1,"""Weren't you paying attention to that half-elf floozy friend of yours? Or the Dukes of Daggerford and their questionable choice of attire? The stronghold is to the north. We just need to fight our way through.""",
@@ -2417,7 +2417,7 @@ tm_hench_beirmou,dlg,EntryList/26/Text,0,-1,"""I'm a talking sword. There really
 tm_hench_beirmou,dlg,EntryList/27/Text,0,-1,"""Of course, the time would've flown by much quicker if I'd had the fortune to find my way into the hands of a series of hunky heroes instead of spending centuries locked away in moldy tombs. That's where the whole Cult of the Bright Sword comes in.""",
 tm_hench_beirmou,dlg,EntryList/28/Text,0,-1,"""Yes?""",
 tm_hench_beirmou,dlg,EntryList/29/Text,0,-1,"""Go on; reel them off.""",
-tm_hench_beirmou,dlg,EntryList/3/Text,0,102759,"""Traps never really bothered me. I just float right over them.""",
+tm_hench_beirmou,dlg,EntryList/3/Text,0,102759,"""Traps never really bothered me. I just float right over them.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
 tm_hench_beirmou,dlg,EntryList/30/Text,0,-1,"""You mean to say I'm not powerful enough? I'm insulted! Although... I heard the Vault of Swords in Hillsfar can bestow blessings upon a weapon direct from Tempus himself - if you have the gold to pay for it. Maybe we should check it out.""",
 tm_hench_beirmou,dlg,EntryList/31/Text,0,-1,"""A group of adventurers stumbled into the city's sewers decades back. They promptly got murdered by wererats, who, it turns out, make excellent minions. They were my very first worshippers.""",
 tm_hench_beirmou,dlg,EntryList/32/Text,0,-1,"""Eventually, the city guard descended into the sewers and wiped them out. One of these guards found me and brought me to the surface. He eventually became Watchlord, which gave me ample opportunity to spread my influence.""",
@@ -2428,7 +2428,7 @@ tm_hench_beirmou,dlg,EntryList/36/Text,0,-1,"""That's easy for you to say, with 
 tm_hench_beirmou,dlg,EntryList/37/Text,0,-1,"""Being worshipped feels AMAZING. No wonder the gods are always starting wars to win more followers! Mainly, though, I formed a cult so that I would never be forgotten. Can you imagine being sentient, immortal, and lost in a dungeon for eternity? The idea terrifies me.""",
 tm_hench_beirmou,dlg,EntryList/38/Text,0,-1,"""How could a girl refuse an offer like that? Just promise you won't start hacking apart doors and chests with me. That REALLY takes the edge off my blade. And for the love of Jergal, keep me away from rust monsters...""",
 tm_hench_beirmou,dlg,EntryList/39/Text,0,-1,"""The Netherese are somewhere ahead. Don't let them live, <FirstName>! I want to taste Shadovar blood!""",
-tm_hench_beirmou,dlg,EntryList/4/Text,0,102760,"""This is going to be painful to watch.""",
+tm_hench_beirmou,dlg,EntryList/4/Text,0,102760,"""This is going to be painful to watch.""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
 tm_hench_beirmou,dlg,EntryList/40/Text,0,-1,"""Well, you messed that up, didn't you? He was a good host! Nice and easy to control! Now I'll need to find some other fools-- ah, partners - to help me rid the ruins of the cursed Netherese!""",
 tm_hench_beirmou,dlg,EntryList/41/Text,0,-1,"""Hah, fat chance. I'm going back to that nice inn. If you feel like you could use a hand - or, at least, an additional blade - feel free to come speak with me.""",
 tm_hench_beirmou,dlg,EntryList/42/Text,0,-1,"""Fine with me. I'll just stay here, floating around. It's actually quite a nice inn. A lot better than some I've been in. If I move over by the bar, I wonder if a nice man will offer me a drink?""",
@@ -2439,7 +2439,7 @@ tm_hench_beirmou,dlg,EntryList/46/Text,0,-1,"""Can't a sword be both? Actually, 
 tm_hench_beirmou,dlg,EntryList/47/Text,0,-1,"""I'll float alongside you for now. If you want to wield me, just ask.""",
 tm_hench_beirmou,dlg,EntryList/48/Text,0,-1,"""Hey, HE hunted ME down! He should have known I was a sentient sword. It's in all the legends! DUH! Besides, I can only manipulate a desire that already exists within a mortal's heart. He wanted this. I just gave him the courage to act.""",
 tm_hench_beirmou,dlg,EntryList/49/Text,0,-1,"""Who am *I*? Only Beirmoura, also known as the Bright Sword, infamous bringer of doom upon mages and their foul ilk! What am I? An instrument of death! A lover of good wit! And a pretty useful hat-stand in a pinch!""",
-tm_hench_beirmou,dlg,EntryList/5/Text,0,102761,"""Hurray for that.""",
+tm_hench_beirmou,dlg,EntryList/5/Text,0,102761,"""Hurray for that.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
 tm_hench_beirmou,dlg,EntryList/50/Text,0,-1,"""Drat. I should have known this would happen. Why couldn't the Dukes of Daggerford have found me instead? I hear Alazander really knows how to treat a weapon.""",
 tm_hench_beirmou,dlg,EntryList/51/Text,0,-1,"""Oh, hey, it's you again. I'm bored. Care to take me on a date? And by 'date,' I mean cleaving apart wizard skulls and generally wreaking havoc. Just to be clear.""",
 tm_hench_beirmou,dlg,EntryList/52/Text,0,-1,** The lines below (except the hire line) are used in the Shadovar Search Party quest. **,
@@ -2450,42 +2450,42 @@ tm_hench_beirmou,dlg,EntryList/56/Text,0,-1,"""You have some really strange frie
 tm_hench_beirmou,dlg,EntryList/57/Text,0,-1,"""Dominion must be nearby. When we find it, stand aside and let me do my thing. Ladies first...""",
 tm_hench_beirmou,dlg,EntryList/58/Text,0,-1,"""I've always wanted to be wielded by a pirate captain. A handsome one, with a wicked smile and a confident swagger. There's only one problem. I can't swim.""",
 tm_hench_beirmou,dlg,EntryList/59/Text,0,-1,"""So, Orcus awaits us. He's more ancient than I am. One of the few beings in the multiverse capable of destroying me utterly. I'm not feeling so confident all of a sudden...""",
-tm_hench_beirmou,dlg,EntryList/6/Text,0,102762,"""Gotcha.""",
+tm_hench_beirmou,dlg,EntryList/6/Text,0,102762,"""Gotcha.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
 tm_hench_beirmou,dlg,EntryList/60/Text,0,-1,"""You know what will really annoy me? If it turns out we've run into Elminster in disguise. He's always running around in disguise, annoying adventurers with cryptic mumbo-jumbo. I'll teach him not to banish me to Hades for a hundred years...""",
 tm_hench_beirmou,dlg,EntryList/61/Text,0,-1,** The above line is an interjection. Lines below are plot-situation companion dialogue with usual companion responses. **,
 tm_hench_beirmou,dlg,EntryList/62/Text,0,-1,"""Well, that was a memorable adventure, and I don't say that lightly, seeing as I'm old enough to recall the Fall of Netheril. I still want to get my hands - metaphorically speaking - on Dominion. We make quite the team, so you're welcome to join me.""",
-tm_hench_beirmou,dlg,EntryList/7/Text,0,102763,"""I'm a floating sword, so that might be tough. I'll do my best.""",
-tm_hench_beirmou,dlg,EntryList/8/Text,0,102764,"""That's okay. I wasn't planning to.""",
-tm_hench_beirmou,dlg,EntryList/9/Text,0,102765,"""Let me guess. You want me to swing like a moron at some booby-trapped chest as though I were a woodsman's axe felling a tree. If you weren't such a promising minion-- ah, partner - I would tell you to shove it!""",
+tm_hench_beirmou,dlg,EntryList/7/Text,0,102763,"""I'm a floating sword, so that might be tough. I'll do my best.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
+tm_hench_beirmou,dlg,EntryList/8/Text,0,102764,"""That's okay. I wasn't planning to.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+tm_hench_beirmou,dlg,EntryList/9/Text,0,102765,"""Let me guess. You want me to swing like a moron at some booby-trapped chest as though I were a woodsman's axe felling a tree. If you weren't such a promising minion-- ah, partner - I would tell you to shove it!""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
 tm_hench_beirmou,dlg,ReplyList/0/Text,0,-1,"""Thanks, that's everything.""",
-tm_hench_beirmou,dlg,ReplyList/1/Text,0,103359,"""I think we need to part ways.""",
-tm_hench_beirmou,dlg,ReplyList/11/Text,0,103368,"""Stay stealthy but only until the next fight.""",
-tm_hench_beirmou,dlg,ReplyList/20/Text,0,103373,"""Stay a long distance away.""",
-tm_hench_beirmou,dlg,ReplyList/21/Text,0,103374,"""Keep a medium distance.""",
-tm_hench_beirmou,dlg,ReplyList/22/Text,0,103375,"""Stay close.""",
-tm_hench_beirmou,dlg,ReplyList/26/Text,0,103377,"""Defend me and don't attack until I do.""",
+tm_hench_beirmou,dlg,ReplyList/1/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
+tm_hench_beirmou,dlg,ReplyList/11/Text,0,103368,"""Stay stealthy but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만."""
+tm_hench_beirmou,dlg,ReplyList/20/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+tm_hench_beirmou,dlg,ReplyList/21/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+tm_hench_beirmou,dlg,ReplyList/22/Text,0,103375,"""Stay close.""",가까이 있어.
+tm_hench_beirmou,dlg,ReplyList/26/Text,0,103377,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격하기 전까지 공격하지 마."""
 tm_hench_beirmou,dlg,ReplyList/28/Text,0,-1,"""I need you to do something for me.""",
-tm_hench_beirmou,dlg,ReplyList/31/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_beirmou,dlg,ReplyList/31/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_beirmou,dlg,ReplyList/32/Text,0,-1,"""Back to my other questions.""",
-tm_hench_beirmou,dlg,ReplyList/33/Text,0,103359,"""I think we need to part ways.""",
+tm_hench_beirmou,dlg,ReplyList/33/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
 tm_hench_beirmou,dlg,ReplyList/35/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_beirmou,dlg,ReplyList/38/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_beirmou,dlg,ReplyList/39/Text,0,-1,"""What are your thoughts on our current situation?""",
-tm_hench_beirmou,dlg,ReplyList/4/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
+tm_hench_beirmou,dlg,ReplyList/4/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
 tm_hench_beirmou,dlg,ReplyList/40/Text,0,-1,"""What do you know about Dominion?""",
-tm_hench_beirmou,dlg,ReplyList/42/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_beirmou,dlg,ReplyList/42/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_beirmou,dlg,ReplyList/43/Text,0,-1,"""Back to my other questions.""",
-tm_hench_beirmou,dlg,ReplyList/44/Text,0,103381,"""Tell me a bit about yourself, Beirmoura.""",
+tm_hench_beirmou,dlg,ReplyList/44/Text,0,103381,"""Tell me a bit about yourself, Beirmoura.""","""잠깐 멈춰서 이야기하자."""
 tm_hench_beirmou,dlg,ReplyList/46/Text,0,-1,"""Back to my other questions.""",
-tm_hench_beirmou,dlg,ReplyList/47/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_beirmou,dlg,ReplyList/48/Text,0,103359,"""I think we need to part ways.""",
+tm_hench_beirmou,dlg,ReplyList/47/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_beirmou,dlg,ReplyList/48/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
 tm_hench_beirmou,dlg,ReplyList/50/Text,0,-1,"""I need you to do something for me.""",
 tm_hench_beirmou,dlg,ReplyList/51/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_beirmou,dlg,ReplyList/52/Text,0,-1,"""What are your thoughts on our current situation?""",
 tm_hench_beirmou,dlg,ReplyList/53/Text,0,-1,"""Is there any way I can make you more powerful?""",
 tm_hench_beirmou,dlg,ReplyList/54/Text,0,-1,"""Why did you make Thentia your home?""",
 tm_hench_beirmou,dlg,ReplyList/56/Text,0,-1,"""What do you know about Dominion?""",
-tm_hench_beirmou,dlg,ReplyList/58/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_beirmou,dlg,ReplyList/58/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_beirmou,dlg,ReplyList/59/Text,0,-1,"""Back to my other questions.""",
 tm_hench_beirmou,dlg,ReplyList/60/Text,0,-1,"""Why do you hate wizards so much?""",
 tm_hench_beirmou,dlg,ReplyList/61/Text,0,-1,"""Don't you think there's more to life than killing?""",
@@ -2505,31 +2505,31 @@ tm_hench_eremuth,dlg,EntryList/10/Text,0,-1,"""The peasants here lack culture an
 tm_hench_eremuth,dlg,EntryList/11/Text,0,-1,"""We need to leave this pitiful backwater. If we can't simply force the Bron to open the gates, then we'll have to look for an alternative way out of town.""",
 tm_hench_eremuth,dlg,EntryList/12/Text,0,-1,"""You think you can survive the trials ahead without me? Ha! We will see. I will return to the Swords' Meet in Voonlar and await your imminent apology.""",
 tm_hench_eremuth,dlg,EntryList/13/Text,0,-1,"""Then you are a fool. I'll see you in the Swaying Bough in Elventree when you change your mind.""",
-tm_hench_eremuth,dlg,EntryList/14/Text,0,102758,"""Your arrogance is remarkable. However, since I agreed to accompany you, I'll let you decide how best to accomplish our goals.""",
+tm_hench_eremuth,dlg,EntryList/14/Text,0,102758,"""Your arrogance is remarkable. However, since I agreed to accompany you, I'll let you decide how best to accomplish our goals.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 tm_hench_eremuth,dlg,EntryList/15/Text,0,-1,"""Not a moment too soon. That was growing tedious.""",
-tm_hench_eremuth,dlg,EntryList/16/Text,0,102759,"""Music to my ears. My eyes see many things, yet hidden traps are not among them.""",
-tm_hench_eremuth,dlg,EntryList/17/Text,0,102760,"""I'm no thief! I'll try my admirable best, but surely there are other, more ROTTEN companions better suited to this task?""",
-tm_hench_eremuth,dlg,EntryList/18/Text,0,102761,"""In truth, one such as I has little need for stealth anyway.""",
-tm_hench_eremuth,dlg,EntryList/19/Text,0,102762,"""I will do my best.""",
+tm_hench_eremuth,dlg,EntryList/16/Text,0,102759,"""Music to my ears. My eyes see many things, yet hidden traps are not among them.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
+tm_hench_eremuth,dlg,EntryList/17/Text,0,102760,"""I'm no thief! I'll try my admirable best, but surely there are other, more ROTTEN companions better suited to this task?""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
+tm_hench_eremuth,dlg,EntryList/18/Text,0,102761,"""In truth, one such as I has little need for stealth anyway.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
+tm_hench_eremuth,dlg,EntryList/19/Text,0,102762,"""I will do my best.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
 tm_hench_eremuth,dlg,EntryList/2/Text,0,-1,"""My apologies - this backwater town has darkened my spirits. My name is Eremuth Silverwind. Don't be fooled by my appearance; I'm as much human as I am elf, although a certain haughty noble in Waterdeep would never admit it.""",
-tm_hench_eremuth,dlg,EntryList/20/Text,0,102763,"""*Sigh* Stealth is not one of my many talents. I'll try to remain hidden - but surely an improved invisibility spell would prove FAR more effective...""",
-tm_hench_eremuth,dlg,EntryList/21/Text,0,102764,"""That is fine with me. I'll save my magic for obliterating our enemies.""",
-tm_hench_eremuth,dlg,EntryList/22/Text,0,102765,"""I doubt there are many locks that can hold firm against my magic!""",
-tm_hench_eremuth,dlg,EntryList/23/Text,0,102766,"""How far shall I stay?""",
-tm_hench_eremuth,dlg,EntryList/24/Text,0,102767,"""As you desire.""",
-tm_hench_eremuth,dlg,EntryList/25/Text,0,102768,"""Hmm. A lesser mage might think you're sending them on a suicide mission. Fortunately, I've yet to come across a foe that can withstand my magic and still be capable of fighting back.""",
-tm_hench_eremuth,dlg,EntryList/26/Text,0,102769,"""Luring the enemy into a false sense of security is a sensible tactic. I'll hold back until you say otherwise.""",
+tm_hench_eremuth,dlg,EntryList/20/Text,0,102763,"""*Sigh* Stealth is not one of my many talents. I'll try to remain hidden - but surely an improved invisibility spell would prove FAR more effective...""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
+tm_hench_eremuth,dlg,EntryList/21/Text,0,102764,"""That is fine with me. I'll save my magic for obliterating our enemies.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+tm_hench_eremuth,dlg,EntryList/22/Text,0,102765,"""I doubt there are many locks that can hold firm against my magic!""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+tm_hench_eremuth,dlg,EntryList/23/Text,0,102766,"""How far shall I stay?""","""그럼 어디에 있으면 될까요?"""
+tm_hench_eremuth,dlg,EntryList/24/Text,0,102767,"""As you desire.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+tm_hench_eremuth,dlg,EntryList/25/Text,0,102768,"""Hmm. A lesser mage might think you're sending them on a suicide mission. Fortunately, I've yet to come across a foe that can withstand my magic and still be capable of fighting back.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+tm_hench_eremuth,dlg,EntryList/26/Text,0,102769,"""Luring the enemy into a false sense of security is a sensible tactic. I'll hold back until you say otherwise.""","""말씀대로 뒤를 지키며 따르겠습니다."""
 tm_hench_eremuth,dlg,EntryList/27/Text,0,-1,"""I'm DYING to hear what other suggestions you have in store for me.""",
 tm_hench_eremuth,dlg,EntryList/28/Text,0,-1,"""That sounds ominous. What, in particular, were you thinking of?""",
-tm_hench_eremuth,dlg,EntryList/29/Text,0,101787,"""As you desire. What shall I cast?""",
+tm_hench_eremuth,dlg,EntryList/29/Text,0,101787,"""As you desire. What shall I cast?""","""제 마법은 당신이 사용하실 수 있어요. 어떤 주문을 시전하길 원하세요?"""
 tm_hench_eremuth,dlg,EntryList/3/Text,0,-1,"""Return here if you would seek my assistance on your travels. The prospect of your company intrigues me.""",
-tm_hench_eremuth,dlg,EntryList/30/Text,0,101788,"""Nice choice. Are you sure you want me to do this?""",
-tm_hench_eremuth,dlg,EntryList/31/Text,0,101791,"""Excellent idea. Shall I cast short-duration spells or the lengthier variety?""",
-tm_hench_eremuth,dlg,EntryList/32/Text,0,101789,"""Excellent. Who shall I target with my magic?""",
-tm_hench_eremuth,dlg,EntryList/33/Text,0,101790,"""All right. Let's see how many of these I can remember off the top of my head...""",
-tm_hench_eremuth,dlg,EntryList/34/Text,0,102771,"I've studied under Waterdeep's most powerful mages. My knowledge of arcane paraphernalia is encyclopedic! Show me what you have.""",
+tm_hench_eremuth,dlg,EntryList/30/Text,0,101788,"""Nice choice. Are you sure you want me to do this?""","""확실하세요?"""
+tm_hench_eremuth,dlg,EntryList/31/Text,0,101791,"""Excellent idea. Shall I cast short-duration spells or the lengthier variety?""","""현명한 결정이에요. 많은 전투가 준비 부족으로 패배하죠. 어떤 종류의 강화 주문을 시전하길 원하세요?"""
+tm_hench_eremuth,dlg,EntryList/32/Text,0,101789,"""Excellent. Who shall I target with my magic?""","""그럼 제 마법의 대상은 누구여야 하나요?"""
+tm_hench_eremuth,dlg,EntryList/33/Text,0,101790,"""All right. Let's see how many of these I can remember off the top of my head...""","""금방 끝날 거예요."""
+tm_hench_eremuth,dlg,EntryList/34/Text,0,102771,"I've studied under Waterdeep's most powerful mages. My knowledge of arcane paraphernalia is encyclopedic! Show me what you have.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 tm_hench_eremuth,dlg,EntryList/35/Text,0,-1,"""Do you need anything else?""",
-tm_hench_eremuth,dlg,EntryList/36/Text,0,102770,"""That sounds even more ominous! I'll allow you to provide me with better equipment should we come across any in our travels, but I warn you: leave my wizard's staff well alone...""",
+tm_hench_eremuth,dlg,EntryList/36/Text,0,102770,"""That sounds even more ominous! I'll allow you to provide me with better equipment should we come across any in our travels, but I warn you: leave my wizard's staff well alone...""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 tm_hench_eremuth,dlg,EntryList/37/Text,0,-1,"""Questions, questions... ask away but take care not to pry too deeply. The trauma of my childhood has created emotional blocks that are all but unsurpassable.""",
 tm_hench_eremuth,dlg,EntryList/38/Text,0,-1,"""I'm pleased you seem to value my superior intellect. I would suggest you ensure that you have sufficient magic to inflict serious damage on our foes. Fiends tend to shrug off non-magical weapons as though they were made of parchment.""",
 tm_hench_eremuth,dlg,EntryList/39/Text,0,-1,"""Hillsfar is our destination. I may be a half-elf, but I'm sure I can sneak in without arousing the suspicion of the xenophobic fools.""",
@@ -2568,40 +2568,40 @@ tm_hench_eremuth,dlg,ReplyList/10/Text,0,-1,"""You mentioned haughty nobles?""",
 tm_hench_eremuth,dlg,ReplyList/11/Text,0,-1,"""A certain haughty noble?""",
 tm_hench_eremuth,dlg,ReplyList/12/Text,0,-1,"""I understand you helped too. You have my thanks.""",
 tm_hench_eremuth,dlg,ReplyList/126/Text,0,-1,"""Oops, wrong spell. Let me pick another one.""",
-tm_hench_eremuth,dlg,ReplyList/129/Text,0,102406,"""I need you to cast some buffing spells.""",
+tm_hench_eremuth,dlg,ReplyList/129/Text,0,102406,"""I need you to cast some buffing spells.""","""강화 주문들을 시전해야겠어."""
 tm_hench_eremuth,dlg,ReplyList/13/Text,0,-1,"""I have need of your magic.""",
 tm_hench_eremuth,dlg,ReplyList/130/Text,0,-1,"""Actually, don't cast anything.""",
-tm_hench_eremuth,dlg,ReplyList/131/Text,0,102408,"""Give me everything you've got.""",
-tm_hench_eremuth,dlg,ReplyList/132/Text,0,102409,"""Cast your long-term spells.""",
-tm_hench_eremuth,dlg,ReplyList/133/Text,0,102410,"""Cast your short-duration spells.""",
-tm_hench_eremuth,dlg,ReplyList/134/Text,0,102389,"""Cast it on all the party members.""",
-tm_hench_eremuth,dlg,ReplyList/15/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_eremuth,dlg,ReplyList/131/Text,0,102408,"""Give me everything you've got.""","""가진 강화 주문 전부 시전해."""
+tm_hench_eremuth,dlg,ReplyList/132/Text,0,102409,"""Cast your long-term spells.""","""지속시간이 긴 강화 주문 전부 시전해."""
+tm_hench_eremuth,dlg,ReplyList/133/Text,0,102410,"""Cast your short-duration spells.""","""지속시간이 짧은 강화 주문 전부 시전해."""
+tm_hench_eremuth,dlg,ReplyList/134/Text,0,102389,"""Cast it on all the party members.""","""모든 파티원에게 시전해."""
+tm_hench_eremuth,dlg,ReplyList/15/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_eremuth,dlg,ReplyList/153/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_eremuth,dlg,ReplyList/154/Text,0,-1,"""What are your thoughts on our current situation?""",
 tm_hench_eremuth,dlg,ReplyList/155/Text,0,-1,"""For a half-elf, you don't look very human.""",
 tm_hench_eremuth,dlg,ReplyList/156/Text,0,-1,"""What were you doing in Voonlar?""",
-tm_hench_eremuth,dlg,ReplyList/158/Text,0,103381,"""Tell me a bit about yourself, Eremuth.""",
-tm_hench_eremuth,dlg,ReplyList/16/Text,0,103359,"""I think we need to part ways.""",
+tm_hench_eremuth,dlg,ReplyList/158/Text,0,103381,"""Tell me a bit about yourself, Eremuth.""","""잠깐 멈춰서 이야기하자."""
+tm_hench_eremuth,dlg,ReplyList/16/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
 tm_hench_eremuth,dlg,ReplyList/160/Text,0,-1,"""Let me ask something else.""",
 tm_hench_eremuth,dlg,ReplyList/161/Text,0,-1,"""How did you come to learn magic?""",
 tm_hench_eremuth,dlg,ReplyList/162/Text,0,-1,"""What became of your father?""",
 tm_hench_eremuth,dlg,ReplyList/163/Text,0,-1,"""What happened to your mother after she left Waterdeep?""",
 tm_hench_eremuth,dlg,ReplyList/2/Text,0,-1,"""I'm not sure I like your tone.""",
-tm_hench_eremuth,dlg,ReplyList/20/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
-tm_hench_eremuth,dlg,ReplyList/27/Text,0,103368,"""Stay stealthy but only until the next fight.""",
+tm_hench_eremuth,dlg,ReplyList/20/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
+tm_hench_eremuth,dlg,ReplyList/27/Text,0,103368,"""Stay stealthy but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만."""
 tm_hench_eremuth,dlg,ReplyList/3/Text,0,-1,"""Farewell.""",
-tm_hench_eremuth,dlg,ReplyList/36/Text,0,103373,"""Stay a long distance away.""",
-tm_hench_eremuth,dlg,ReplyList/37/Text,0,103374,"""Keep a medium distance.""",
-tm_hench_eremuth,dlg,ReplyList/38/Text,0,103375,"""Stay close.""",
-tm_hench_eremuth,dlg,ReplyList/42/Text,0,103377,"""Defend me and don't attack until I do.""",
+tm_hench_eremuth,dlg,ReplyList/36/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+tm_hench_eremuth,dlg,ReplyList/37/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+tm_hench_eremuth,dlg,ReplyList/38/Text,0,103375,"""Stay close.""",가까이 있어.
+tm_hench_eremuth,dlg,ReplyList/42/Text,0,103377,"""Defend me and don't attack until I do.""","""날 방어하고 내가 공격하기 전까지 공격하지 마."""
 tm_hench_eremuth,dlg,ReplyList/44/Text,0,-1,"""I need you to do something for me.""",
-tm_hench_eremuth,dlg,ReplyList/45/Text,0,102306,"""I need you to cast a specific spell.""",
+tm_hench_eremuth,dlg,ReplyList/45/Text,0,102306,"""I need you to cast a specific spell.""","""주문을 시전해줘야겠어."""
 tm_hench_eremuth,dlg,ReplyList/5/Text,0,-1,"""I hear you helped fight off the fiends.""",
 tm_hench_eremuth,dlg,ReplyList/6/Text,0,-1,"""Let me ask you something else.""",
 tm_hench_eremuth,dlg,ReplyList/7/Text,0,-1,"""I am <FullName>. Would you care to travel with me?""",
-tm_hench_eremuth,dlg,ReplyList/79/Text,0,102341,"""Neutralize Poison.""",
+tm_hench_eremuth,dlg,ReplyList/79/Text,0,102341,"""Neutralize Poison.""","""독성 무효화."""
 tm_hench_eremuth,dlg,ReplyList/9/Text,0,-1,"""Do you know anything about this attack?""",
-tm_hench_eremuth,dlg,ReplyList/90/Text,0,102352,"""Lesser Mind Blank.""",
+tm_hench_eremuth,dlg,ReplyList/90/Text,0,102352,"""Lesser Mind Blank.""","""하급 정신 차단."""
 tm_hench_in_beir,dlg,EntryList/0/Text,0,-1,"""This is it. Orcus is up ahead. I hope I can hurt him - I hear demon lords are extremely resistant to even the strongest of magical weapons.""",
 tm_hench_in_beir,dlg,EntryList/1/Text,0,-1,"""So much fire. So much death. Reminds me of the Fall of Netheril. Good times.""",
 tm_hench_in_beir,dlg,EntryList/10/Text,0,-1,"""I wonder where this Manshoon character is? I haven't killed a truly powerful wizard in far too long...""",
@@ -2689,26 +2689,26 @@ tm_hench_lyressa,dlg,EntryList/20/Text,0,-1,"""Really? I was enjoying our time t
 tm_hench_lyressa,dlg,EntryList/21/Text,0,-1,"""I was afraid you'd say that. I'll wait for you in the Swaying Bough in Elventree.""",
 tm_hench_lyressa,dlg,EntryList/22/Text,0,-1,"""Okay. I'll be at Still Waters in Elmwood if you need me.""",
 tm_hench_lyressa,dlg,EntryList/23/Text,0,-1,"""Are you sure? I'll meet you at the Floating Fighter in Melvaunt when you come to your senses.""",
-tm_hench_lyressa,dlg,EntryList/24/Text,0,102758,"""That sounds interesting. How about I 'play dead,' draw the enemy in, and then you finish them off? No? Just a suggestion...""",
+tm_hench_lyressa,dlg,EntryList/24/Text,0,102758,"""That sounds interesting. How about I 'play dead,' draw the enemy in, and then you finish them off? No? Just a suggestion...""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 tm_hench_lyressa,dlg,EntryList/25/Text,0,-1,"""You're the boss. What else do you want?""",
-tm_hench_lyressa,dlg,EntryList/26/Text,0,102759,"""Traps are one of my specialties, but if you want to handle them, that's fine by me.""",
-tm_hench_lyressa,dlg,EntryList/27/Text,0,102760,"""Sounds perfect. There are few traps beyond my skill to disarm. Besides, the dead don't feel pain - who cares if I end up with an iron spike through the chest?!""",
-tm_hench_lyressa,dlg,EntryList/28/Text,0,102761,"""If that's what you want. I prefer to keep myself hidden, but you're the boss.""",
-tm_hench_lyressa,dlg,EntryList/29/Text,0,102762,"""You want me to be your assassin? For some reason that makes me uncomfortable, but I'll do it anyway.""",
+tm_hench_lyressa,dlg,EntryList/26/Text,0,102759,"""Traps are one of my specialties, but if you want to handle them, that's fine by me.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
+tm_hench_lyressa,dlg,EntryList/27/Text,0,102760,"""Sounds perfect. There are few traps beyond my skill to disarm. Besides, the dead don't feel pain - who cares if I end up with an iron spike through the chest?!""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
+tm_hench_lyressa,dlg,EntryList/28/Text,0,102761,"""If that's what you want. I prefer to keep myself hidden, but you're the boss.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
+tm_hench_lyressa,dlg,EntryList/29/Text,0,102762,"""You want me to be your assassin? For some reason that makes me uncomfortable, but I'll do it anyway.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
 tm_hench_lyressa,dlg,EntryList/3/Text,0,-1,"""I'm Lyressa. Fool me for picking the Boring Pig for a quiet drink, I guess! If it's not rowdy drunks looking for a brawl, it's howling fiends tearing the door off its hinges.""",
-tm_hench_lyressa,dlg,EntryList/30/Text,0,102763,"""That's easily done. Our enemies won't know I'm there until it's too late.""",
-tm_hench_lyressa,dlg,EntryList/31/Text,0,102764,"""Mmm, you think you can do better? We'll see!""",
-tm_hench_lyressa,dlg,EntryList/32/Text,0,102765,"""Now you're talking my language! It's strange; despite being dead three years, I'm still free of rigor mortis - as nimble and skilled as any living thief.""",
-tm_hench_lyressa,dlg,EntryList/33/Text,0,102766,"""Do I smell THAT bad?""",
-tm_hench_lyressa,dlg,EntryList/34/Text,0,102767,"""Okay.""",
-tm_hench_lyressa,dlg,EntryList/35/Text,0,102768,""" Head-on fighting isn't really my style, but if that's what you want...""",
-tm_hench_lyressa,dlg,EntryList/36/Text,0,102769,"""Sounds like a good plan. I'm most effective when I can attack the enemy from the sides or behind.""",
+tm_hench_lyressa,dlg,EntryList/30/Text,0,102763,"""That's easily done. Our enemies won't know I'm there until it's too late.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
+tm_hench_lyressa,dlg,EntryList/31/Text,0,102764,"""Mmm, you think you can do better? We'll see!""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+tm_hench_lyressa,dlg,EntryList/32/Text,0,102765,"""Now you're talking my language! It's strange; despite being dead three years, I'm still free of rigor mortis - as nimble and skilled as any living thief.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+tm_hench_lyressa,dlg,EntryList/33/Text,0,102766,"""Do I smell THAT bad?""","""그럼 어디에 있으면 될까요?"""
+tm_hench_lyressa,dlg,EntryList/34/Text,0,102767,"""Okay.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+tm_hench_lyressa,dlg,EntryList/35/Text,0,102768,""" Head-on fighting isn't really my style, but if that's what you want...""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+tm_hench_lyressa,dlg,EntryList/36/Text,0,102769,"""Sounds like a good plan. I'm most effective when I can attack the enemy from the sides or behind.""","""말씀대로 뒤를 지키며 따르겠습니다."""
 tm_hench_lyressa,dlg,EntryList/37/Text,0,-1,"""Anything else you need?""",
 tm_hench_lyressa,dlg,EntryList/38/Text,0,-1,"""No problem. What do you need?""",
-tm_hench_lyressa,dlg,EntryList/39/Text,0,102771,""" I can't even remember who I am, never mind all the assorted magical items I've seen. But I'll take a look, just in case.""",
+tm_hench_lyressa,dlg,EntryList/39/Text,0,102771,""" I can't even remember who I am, never mind all the assorted magical items I've seen. But I'll take a look, just in case.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 tm_hench_lyressa,dlg,EntryList/4/Text,0,-1,"""You're going so soon? Well, I'll wait right here in case you decide you have need of me.""",
 tm_hench_lyressa,dlg,EntryList/40/Text,0,-1,"""What else do you need?""",
-tm_hench_lyressa,dlg,EntryList/41/Text,0,102770,"""Well, okay, but try to be discreet about it. I'd hate for people to get the wrong impression. Especially since, well, you know... I'm dead and all.""",
+tm_hench_lyressa,dlg,EntryList/41/Text,0,102770,"""Well, okay, but try to be discreet about it. I'd hate for people to get the wrong impression. Especially since, well, you know... I'm dead and all.""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 tm_hench_lyressa,dlg,EntryList/42/Text,0,-1,"""Sure, go ahead.""",
 tm_hench_lyressa,dlg,EntryList/43/Text,0,-1,"""First, dress up warm! I may be able to stroll around naked in freezing temperatures, but you need to be a little more careful. Also, look for anything, weapons or otherwise, that will prove useful against fiends and other outsiders.""",
 tm_hench_lyressa,dlg,EntryList/44/Text,0,-1,"""The Shind Road is dangerous. You shouldn't feel ashamed if you need to return to Voonlar every so often to rest and improve your equipment.""",
@@ -2778,22 +2778,22 @@ tm_hench_lyressa,dlg,ReplyList/19/Text,0,-1,"""Why's the tavern so busy?""",
 tm_hench_lyressa,dlg,ReplyList/2/Text,0,-1,"""My name is <FirstName>, and I go where I please.""",
 tm_hench_lyressa,dlg,ReplyList/20/Text,0,-1,"""Tell me about the slaad attack.""",
 tm_hench_lyressa,dlg,ReplyList/21/Text,0,-1,"""I could use your thieving skills.""",
-tm_hench_lyressa,dlg,ReplyList/23/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_lyressa,dlg,ReplyList/24/Text,0,103359,"""I think we need to part ways.""",
+tm_hench_lyressa,dlg,ReplyList/23/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_lyressa,dlg,ReplyList/24/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
 tm_hench_lyressa,dlg,ReplyList/3/Text,0,-1,"""I'm <FullName>. I mean you no harm.""",
-tm_hench_lyressa,dlg,ReplyList/30/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
-tm_hench_lyressa,dlg,ReplyList/37/Text,0,103368,"""Stay stealthy but only until the next fight.""",
+tm_hench_lyressa,dlg,ReplyList/30/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
+tm_hench_lyressa,dlg,ReplyList/37/Text,0,103368,"""Stay stealthy but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만."""
 tm_hench_lyressa,dlg,ReplyList/4/Text,0,-1,"""Farewell.""",
-tm_hench_lyressa,dlg,ReplyList/46/Text,0,103373,"""Stay a long distance away.""",
-tm_hench_lyressa,dlg,ReplyList/47/Text,0,103374,"""Keep a medium distance.""",
-tm_hench_lyressa,dlg,ReplyList/48/Text,0,103375,"""Stay close.""",
+tm_hench_lyressa,dlg,ReplyList/46/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+tm_hench_lyressa,dlg,ReplyList/47/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+tm_hench_lyressa,dlg,ReplyList/48/Text,0,103375,"""Stay close.""",가까이 있어.
 tm_hench_lyressa,dlg,ReplyList/54/Text,0,-1,"""I need you to do something for me.""",
 tm_hench_lyressa,dlg,ReplyList/59/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_lyressa,dlg,ReplyList/6/Text,0,-1,"""Why are you hiding your face?""",
 tm_hench_lyressa,dlg,ReplyList/60/Text,0,-1,"""What are your thoughts on our current situation?""",
 tm_hench_lyressa,dlg,ReplyList/61/Text,0,-1,"""Being undead must have its benefits.""",
 tm_hench_lyressa,dlg,ReplyList/62/Text,0,-1,"""Do you have any means of healing yourself?""",
-tm_hench_lyressa,dlg,ReplyList/64/Text,0,103381,"""Tell me a bit about yourself, Lyressa.""",
+tm_hench_lyressa,dlg,ReplyList/64/Text,0,103381,"""Tell me a bit about yourself, Lyressa.""","""잠깐 멈춰서 이야기하자."""
 tm_hench_lyressa,dlg,ReplyList/66/Text,0,-1,"""Back to my other questions.""",
 tm_hench_lyressa,dlg,ReplyList/67/Text,0,-1,"""Don't you want to find out who you were before?""",
 tm_hench_lyressa,dlg,ReplyList/68/Text,0,-1,"""It must be better than being a zombie.""",
@@ -2807,18 +2807,18 @@ tm_hench_lyressa,dlg,ReplyList/85/Text,0,-1,"""What do you want?""",
 tm_hench_lyressa,dlg,ReplyList/9/Text,0,-1,"""Abomination! I shall send you back to the grave!""",
 tm_hench_sharaly,dlg,EntryList/0/Text,0,-1,"""Are you ready to travel together?""",
 tm_hench_sharaly,dlg,EntryList/1/Text,0,-1,"""I'll be right here.""",
-tm_hench_sharaly,dlg,EntryList/10/Text,0,102759,"""That's probably for the best.""",
-tm_hench_sharaly,dlg,EntryList/100/Text,0,102767,"""Sure.""",
-tm_hench_sharaly,dlg,EntryList/101/Text,0,102768,"""I'm not cut out to serve as the vanguard, but I'll give it my best shot.""",
-tm_hench_sharaly,dlg,EntryList/102/Text,0,102769,"""That sounds like a good plan.""",
+tm_hench_sharaly,dlg,EntryList/10/Text,0,102759,"""That's probably for the best.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
+tm_hench_sharaly,dlg,EntryList/100/Text,0,102767,"""Sure.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+tm_hench_sharaly,dlg,EntryList/101/Text,0,102768,"""I'm not cut out to serve as the vanguard, but I'll give it my best shot.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+tm_hench_sharaly,dlg,EntryList/102/Text,0,102769,"""That sounds like a good plan.""","""말씀대로 뒤를 지키며 따르겠습니다."""
 tm_hench_sharaly,dlg,EntryList/103/Text,0,-1,"""Anything else?""",
 tm_hench_sharaly,dlg,EntryList/104/Text,0,-1,"""Of course.""",
-tm_hench_sharaly,dlg,EntryList/105/Text,0,102771,"""I'm glad you asked. Decades of helping supply Harper allies has given me a fine eye for rare equipment.""",
+tm_hench_sharaly,dlg,EntryList/105/Text,0,102771,"""I'm glad you asked. Decades of helping supply Harper allies has given me a fine eye for rare equipment.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 tm_hench_sharaly,dlg,EntryList/106/Text,0,-1,"""Anything else, <FirstName>?""",
-tm_hench_sharaly,dlg,EntryList/107/Text,0,102770,"""If that's what you think is best.""",
+tm_hench_sharaly,dlg,EntryList/107/Text,0,102770,"""If that's what you think is best.""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 tm_hench_sharaly,dlg,EntryList/108/Text,0,-1,"""Of course.""",
 tm_hench_sharaly,dlg,EntryList/109/Text,0,-1,"""It is rarely easy and even more rarely appreciated by many folks in the Realms. That goes double in the Moonsea. The good we do is often behind the scenes.""",
-tm_hench_sharaly,dlg,EntryList/11/Text,0,102760,"""That sounds risky, but you're in charge.""",
+tm_hench_sharaly,dlg,EntryList/11/Text,0,102760,"""That sounds risky, but you're in charge.""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
 tm_hench_sharaly,dlg,EntryList/110/Text,0,-1,"""My mother's people, the Tel-quessir, consider music essential for life. I was lucky to inherit my mother's voice. Storm Silverhand herself taught me the harp. My power lies in the ability to influence men and women with my words. It is perhaps the greatest power there is.""",
 tm_hench_sharaly,dlg,EntryList/111/Text,0,-1,"""Back when I was a child, Hillsfar was ruled by a council made up of all different races. It wasn't perfect, but at least the people had a voice. Maalthiir changed all that. He is the worst kind of tyrant: the one who considers himself to be doing the greater good.""",
 tm_hench_sharaly,dlg,EntryList/112/Text,0,-1,"""I can't believe it. Murders in Elmwood? Is no place safe anymore?""",
@@ -2829,7 +2829,7 @@ tm_hench_sharaly,dlg,EntryList/116/Text,0,-1,"""I cannot believe we stumbled acr
 tm_hench_sharaly,dlg,EntryList/117/Text,0,-1,"""This citadel is every bit as grim as I imagined it would be. Let's finish our business here and return south. This is no place for those of elven blood.""",
 tm_hench_sharaly,dlg,EntryList/118/Text,0,-1,"""I can only agree, my lady.""",
 tm_hench_sharaly,dlg,EntryList/119/Text,0,-1,*Sigh*,
-tm_hench_sharaly,dlg,EntryList/12/Text,0,102761,"""I can do that.""",
+tm_hench_sharaly,dlg,EntryList/12/Text,0,102761,"""I can do that.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
 tm_hench_sharaly,dlg,EntryList/120/Text,0,-1,"""We must enlist the help of the Mulmaster navy and break this blockade.""",
 tm_hench_sharaly,dlg,EntryList/121/Text,0,-1,"""I always knew it would come down to this. We make for the Grand Temple of the Black Lord - the heart of the Zhentarim's power.""",
 tm_hench_sharaly,dlg,EntryList/122/Text,0,-1,"""Being a Harper often involves making difficult decisions. Sometimes there is no right or wrong - only a compromise that enables us to sleep at night.""",
@@ -2840,7 +2840,7 @@ tm_hench_sharaly,dlg,EntryList/126/Text,0,-1,"""The great wastes of Thar have lo
 tm_hench_sharaly,dlg,EntryList/127/Text,0,-1,"""I despise him as much as you, but Eremuth is no longer our main threat. If you still wish to hunt him down, perhaps we should investigate this group, 'the Unseen,' mentioned in his journal.""",
 tm_hench_sharaly,dlg,EntryList/128/Text,0,-1,"""It would not just be Zhentil Keep that suffers. To reach Zhentil Keep, the monstrous army would need to go through Thentia, Melvaunt, and countless other settlements along the way.""",
 tm_hench_sharaly,dlg,EntryList/129/Text,0,-1,"""If we do not stop Maganus, thousands will die. Not just the Zhentarim but also innocent civilians. Farmers. Women. Children. His hatred blinds him to his actions, but we cannot allow Maganus to rally an army.""",
-tm_hench_sharaly,dlg,EntryList/13/Text,0,102762,"""I'll strike from the shadows just as you ask.""",
+tm_hench_sharaly,dlg,EntryList/13/Text,0,102762,"""I'll strike from the shadows just as you ask.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
 tm_hench_sharaly,dlg,EntryList/130/Text,0,-1,"""What should we do?""",
 tm_hench_sharaly,dlg,EntryList/131/Text,0,-1,"""The cities of Thentia and Melvaunt on the north coast of the Moonsea both neighbor Thar. We know that Maganus was born in Zhentil Keep. Any of those three cities could hold leads on Maganus: his current location, his plans, even his background. Understanding the mage may help us defeat him.""",
 tm_hench_sharaly,dlg,EntryList/132/Text,0,-1,"""Fortunately, I have Harper contacts who may be able to guide us: Ulblyn Blackalbuck in Melvaunt and Kornah the Crazy in Zhentil Keep. I also have a contact in Mulmaster, Chesslyn Onaubra. The City of Danger may hold further clues for us.""",
@@ -2851,23 +2851,23 @@ tm_hench_sharaly,dlg,EntryList/136/Text,0,-1,"""Then it's settled. We'll track d
 tm_hench_sharaly,dlg,EntryList/137/Text,0,-1,"""First things first. Ye're going to need a ship. I've opened the docks for traffic again - ye might want to ask one of the captains there. And, ah, I wanted to give ye this. It was mine from me adventuring days. I won't be needing it any more.""",
 tm_hench_sharaly,dlg,EntryList/138/Text,0,-1,"""Thanks again for all ye've done for us. Ye're forever welcome in Elmwood, all three of ye.""",
 tm_hench_sharaly,dlg,EntryList/139/Text,0,-1,"""We must set sail for Zhentil Keep immediately! If Orcus is not stopped, he and his demonic forces will take the city in short order. Once he does, it is only a matter of time before the Moonsea falls under his sway.""",
-tm_hench_sharaly,dlg,EntryList/14/Text,0,102763,"""I'll try my best.""",
+tm_hench_sharaly,dlg,EntryList/14/Text,0,102763,"""I'll try my best.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
 tm_hench_sharaly,dlg,EntryList/140/Text,0,-1,"""I can't believe I'm praying the Zhentarim can hold out against a common foe. These are strange times we live in.""",
 tm_hench_sharaly,dlg,EntryList/141/Text,0,-1,"""The Thar threat has been neutralized. The Zhentarim have been weakened. And a formidable demon lord has been banished back to the Abyss. You're a true hero, <FirstName>. You have my gratitude - for everything.""",
-tm_hench_sharaly,dlg,EntryList/15/Text,0,102764,"""Fine with me. I'll let someone else handle it.""",
-tm_hench_sharaly,dlg,EntryList/16/Text,0,102765,"""I can certainly help with that.""",
-tm_hench_sharaly,dlg,EntryList/17/Text,0,102766,"""How far should I stay?""",
-tm_hench_sharaly,dlg,EntryList/18/Text,0,102767,"""Sure.""",
-tm_hench_sharaly,dlg,EntryList/19/Text,0,102768,"""I'm not cut out to serve as the vanguard, but I'll give it my best shot.""",
+tm_hench_sharaly,dlg,EntryList/15/Text,0,102764,"""Fine with me. I'll let someone else handle it.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+tm_hench_sharaly,dlg,EntryList/16/Text,0,102765,"""I can certainly help with that.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+tm_hench_sharaly,dlg,EntryList/17/Text,0,102766,"""How far should I stay?""","""그럼 어디에 있으면 될까요?"""
+tm_hench_sharaly,dlg,EntryList/18/Text,0,102767,"""Sure.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+tm_hench_sharaly,dlg,EntryList/19/Text,0,102768,"""I'm not cut out to serve as the vanguard, but I'll give it my best shot.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
 tm_hench_sharaly,dlg,EntryList/2/Text,0,-1,"""For the good folk of the Realms.""",
-tm_hench_sharaly,dlg,EntryList/20/Text,0,102769,"""That sounds like a good plan.""",
+tm_hench_sharaly,dlg,EntryList/20/Text,0,102769,"""That sounds like a good plan.""","""말씀대로 뒤를 지키며 따르겠습니다."""
 tm_hench_sharaly,dlg,EntryList/21/Text,0,-1,"""Anything else?""",
 tm_hench_sharaly,dlg,EntryList/22/Text,0,-1,"""Of course.""",
-tm_hench_sharaly,dlg,EntryList/23/Text,0,102771,"""I'm glad you asked. Decades of helping supply Harper allies has given me a fine eye for rare equipment.""",
+tm_hench_sharaly,dlg,EntryList/23/Text,0,102771,"""I'm glad you asked. Decades of helping supply Harper allies has given me a fine eye for rare equipment.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 tm_hench_sharaly,dlg,EntryList/24/Text,0,-1,"""Anything else, <FirstName>?""",
 tm_hench_sharaly,dlg,EntryList/25/Text,0,-1,"""Certainly.""",
 tm_hench_sharaly,dlg,EntryList/26/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
-tm_hench_sharaly,dlg,EntryList/27/Text,0,102770,"""If that's what you think is best.""",
+tm_hench_sharaly,dlg,EntryList/27/Text,0,102770,"""If that's what you think is best.""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 tm_hench_sharaly,dlg,EntryList/28/Text,0,-1,"""Go ahead.""",
 tm_hench_sharaly,dlg,EntryList/29/Text,0,-1,"""We should speak to Thoyana in Elmwood. She's a Harper ally and should be happy to help us.""",
 tm_hench_sharaly,dlg,EntryList/3/Text,0,-1,"""I'm sorry about your friend. Yet another life lost to the evils that plague the Realms.""",
@@ -2879,55 +2879,55 @@ tm_hench_sharaly,dlg,EntryList/34/Text,0,-1,"""I had received intel that the Ord
 tm_hench_sharaly,dlg,EntryList/35/Text,0,-1,"""The folk of Voonlar are no more inherently bad than the people of the Dalelands. That goes for all the people of the Moonsea. We are all shaped by our environment. I fight for them as hard as I would the men and women of Cormyr.""",
 tm_hench_sharaly,dlg,EntryList/36/Text,0,-1,"""Certainly.""",
 tm_hench_sharaly,dlg,EntryList/37/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
-tm_hench_sharaly,dlg,EntryList/38/Text,0,102758,"""You're the boss.""",
+tm_hench_sharaly,dlg,EntryList/38/Text,0,102758,"""You're the boss.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 tm_hench_sharaly,dlg,EntryList/39/Text,0,-1,"""I'm happy if you are.""",
 tm_hench_sharaly,dlg,EntryList/4/Text,0,-1,"""Elmwood is a quiet village. I hope the constable, Thoyana Jorgadul, can provide some assistance with hunting down Eremuth.""",
 tm_hench_sharaly,dlg,EntryList/40/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
-tm_hench_sharaly,dlg,EntryList/41/Text,0,102759,"""That's probably for the best.""",
-tm_hench_sharaly,dlg,EntryList/42/Text,0,102760,"""That sounds risky, but you're in charge.""",
-tm_hench_sharaly,dlg,EntryList/43/Text,0,102761,"""I can do that.""",
-tm_hench_sharaly,dlg,EntryList/44/Text,0,102762,"""I'll strike from the shadows just as you ask.""",
-tm_hench_sharaly,dlg,EntryList/45/Text,0,102763,"""I'll try my best.""",
-tm_hench_sharaly,dlg,EntryList/46/Text,0,102764,"""Fine with me. I'll let someone else handle it.""",
-tm_hench_sharaly,dlg,EntryList/47/Text,0,102765,"""I can certainly help with that.""",
-tm_hench_sharaly,dlg,EntryList/48/Text,0,102766,"""How far should I stay?""",
-tm_hench_sharaly,dlg,EntryList/49/Text,0,102767,"""Sure.""",
+tm_hench_sharaly,dlg,EntryList/41/Text,0,102759,"""That's probably for the best.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
+tm_hench_sharaly,dlg,EntryList/42/Text,0,102760,"""That sounds risky, but you're in charge.""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
+tm_hench_sharaly,dlg,EntryList/43/Text,0,102761,"""I can do that.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
+tm_hench_sharaly,dlg,EntryList/44/Text,0,102762,"""I'll strike from the shadows just as you ask.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
+tm_hench_sharaly,dlg,EntryList/45/Text,0,102763,"""I'll try my best.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
+tm_hench_sharaly,dlg,EntryList/46/Text,0,102764,"""Fine with me. I'll let someone else handle it.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+tm_hench_sharaly,dlg,EntryList/47/Text,0,102765,"""I can certainly help with that.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+tm_hench_sharaly,dlg,EntryList/48/Text,0,102766,"""How far should I stay?""","""그럼 어디에 있으면 될까요?"""
+tm_hench_sharaly,dlg,EntryList/49/Text,0,102767,"""Sure.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
 tm_hench_sharaly,dlg,EntryList/5/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
-tm_hench_sharaly,dlg,EntryList/50/Text,0,102768,"""I'm not cut out to serve as the vanguard, but I'll give it my best shot.""",
-tm_hench_sharaly,dlg,EntryList/51/Text,0,102769,"""That sounds like a good plan.""",
+tm_hench_sharaly,dlg,EntryList/50/Text,0,102768,"""I'm not cut out to serve as the vanguard, but I'll give it my best shot.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+tm_hench_sharaly,dlg,EntryList/51/Text,0,102769,"""That sounds like a good plan.""","""말씀대로 뒤를 지키며 따르겠습니다."""
 tm_hench_sharaly,dlg,EntryList/52/Text,0,-1,"""Anything else?""",
 tm_hench_sharaly,dlg,EntryList/53/Text,0,-1,"""Of course.""",
-tm_hench_sharaly,dlg,EntryList/54/Text,0,102771,"""I'm glad you asked. Decades of helping supply Harper allies has given me a fine eye for rare equipment.""",
+tm_hench_sharaly,dlg,EntryList/54/Text,0,102771,"""I'm glad you asked. Decades of helping supply Harper allies has given me a fine eye for rare equipment.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 tm_hench_sharaly,dlg,EntryList/55/Text,0,-1,"""Anything else, <FirstName>?""",
 tm_hench_sharaly,dlg,EntryList/56/Text,0,-1,"""Certainly.""",
 tm_hench_sharaly,dlg,EntryList/57/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
-tm_hench_sharaly,dlg,EntryList/58/Text,0,102770,"""If that's what you think is best.""",
+tm_hench_sharaly,dlg,EntryList/58/Text,0,102770,"""If that's what you think is best.""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 tm_hench_sharaly,dlg,EntryList/59/Text,0,-1,"""You should know a lot about me by now. I am a Harper who strives to do good - yet everyone I call friend seems to die. My family, Kalor Onehand, Astar... Am I cursed to bring doom upon all who know me?""",
 tm_hench_sharaly,dlg,EntryList/6/Text,0,-1,"""I don't think that's wise, but you're in charge. I'll be at the Floating Fighter in Melvaunt.""",
 tm_hench_sharaly,dlg,EntryList/60/Text,0,-1,"""I will do what I can to help you. I'm half the fighter Astar was and half the thief Lyressa appears to be, and my magic amounts to little more than party tricks. But I have considerable knowledge of the Moonsea, and I hope my voice can inspire you to great deeds.""",
 tm_hench_sharaly,dlg,EntryList/61/Text,0,-1,"""Certainly.""",
 tm_hench_sharaly,dlg,EntryList/62/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
-tm_hench_sharaly,dlg,EntryList/63/Text,0,102758,"""You're the boss.""",
+tm_hench_sharaly,dlg,EntryList/63/Text,0,102758,"""You're the boss.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 tm_hench_sharaly,dlg,EntryList/64/Text,0,-1,"""I'm happy if you are.""",
 tm_hench_sharaly,dlg,EntryList/65/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
-tm_hench_sharaly,dlg,EntryList/66/Text,0,102759,"""That's probably for the best.""",
-tm_hench_sharaly,dlg,EntryList/67/Text,0,102760,"""That sounds risky, but you're in charge.""",
-tm_hench_sharaly,dlg,EntryList/68/Text,0,102761,"""I can do that.""",
-tm_hench_sharaly,dlg,EntryList/69/Text,0,102762,"""I'll strike from the shadows just as you ask.""",
-tm_hench_sharaly,dlg,EntryList/7/Text,0,102758,"""You're the boss.""",
-tm_hench_sharaly,dlg,EntryList/70/Text,0,102763,"""I'll try my best.""",
-tm_hench_sharaly,dlg,EntryList/71/Text,0,102764,"""Fine with me. I'll let someone else handle it.""",
-tm_hench_sharaly,dlg,EntryList/72/Text,0,102765,"""I can certainly help with that.""",
-tm_hench_sharaly,dlg,EntryList/73/Text,0,102766,"""How far should I stay?""",
-tm_hench_sharaly,dlg,EntryList/74/Text,0,102767,"""Sure.""",
-tm_hench_sharaly,dlg,EntryList/75/Text,0,102768,"""I'm not cut out to serve as the vanguard, but I'll give it my best shot.""",
-tm_hench_sharaly,dlg,EntryList/76/Text,0,102769,"""That sounds like a good plan.""",
+tm_hench_sharaly,dlg,EntryList/66/Text,0,102759,"""That's probably for the best.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
+tm_hench_sharaly,dlg,EntryList/67/Text,0,102760,"""That sounds risky, but you're in charge.""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
+tm_hench_sharaly,dlg,EntryList/68/Text,0,102761,"""I can do that.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
+tm_hench_sharaly,dlg,EntryList/69/Text,0,102762,"""I'll strike from the shadows just as you ask.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
+tm_hench_sharaly,dlg,EntryList/7/Text,0,102758,"""You're the boss.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
+tm_hench_sharaly,dlg,EntryList/70/Text,0,102763,"""I'll try my best.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
+tm_hench_sharaly,dlg,EntryList/71/Text,0,102764,"""Fine with me. I'll let someone else handle it.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+tm_hench_sharaly,dlg,EntryList/72/Text,0,102765,"""I can certainly help with that.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+tm_hench_sharaly,dlg,EntryList/73/Text,0,102766,"""How far should I stay?""","""그럼 어디에 있으면 될까요?"""
+tm_hench_sharaly,dlg,EntryList/74/Text,0,102767,"""Sure.""",그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+tm_hench_sharaly,dlg,EntryList/75/Text,0,102768,"""I'm not cut out to serve as the vanguard, but I'll give it my best shot.""","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+tm_hench_sharaly,dlg,EntryList/76/Text,0,102769,"""That sounds like a good plan.""","""말씀대로 뒤를 지키며 따르겠습니다."""
 tm_hench_sharaly,dlg,EntryList/77/Text,0,-1,"""Anything else?""",
 tm_hench_sharaly,dlg,EntryList/78/Text,0,-1,"""Of course.""",
-tm_hench_sharaly,dlg,EntryList/79/Text,0,102771,"""I'm glad you asked. Decades of helping supply Harper allies has given me a fine eye for rare equipment.""",
+tm_hench_sharaly,dlg,EntryList/79/Text,0,102771,"""I'm glad you asked. Decades of helping supply Harper allies has given me a fine eye for rare equipment.""","""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 tm_hench_sharaly,dlg,EntryList/8/Text,0,-1,"""I'm happy if you are.""",
 tm_hench_sharaly,dlg,EntryList/80/Text,0,-1,"""Anything else, <FirstName>?""",
-tm_hench_sharaly,dlg,EntryList/81/Text,0,102770,"""If that's what you think is best.""",
+tm_hench_sharaly,dlg,EntryList/81/Text,0,102770,"""If that's what you think is best.""",그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 tm_hench_sharaly,dlg,EntryList/82/Text,0,-1,"""Of course.""",
 tm_hench_sharaly,dlg,EntryList/83/Text,0,-1,"""It is rarely easy and even more rarely appreciated by many folks in the Realms. That goes double in the Moonsea. The good we do is often behind the scenes.""",
 tm_hench_sharaly,dlg,EntryList/84/Text,0,-1,"""My mother's people, the Tel-quessir, consider music essential for life. I was lucky to inherit my mother's voice. Storm Silverhand herself taught me the harp. My power lies in the ability to influence men and women with my words. It is perhaps the greatest power there is.""",
@@ -2935,47 +2935,47 @@ tm_hench_sharaly,dlg,EntryList/85/Text,0,-1,"""Back when I was a child, Hillsfar
 tm_hench_sharaly,dlg,EntryList/86/Text,0,-1,"""You should know a lot about me by now. I am a Harper who strives to do good - yet everyone I call friend seems to die. My family, Kalor Onehand, Astar... Am I cursed to bring doom upon all who know me?""",
 tm_hench_sharaly,dlg,EntryList/87/Text,0,-1,"""I will do what I can to help you. I'm half the fighter Astar was and half the thief Lyressa appears to be, and my magic amounts to little more than party tricks. But I have considerable knowledge of the Moonsea, and I hope my voice can inspire you to great deeds.""",
 tm_hench_sharaly,dlg,EntryList/88/Text,0,-1,"""Certainly.""",
-tm_hench_sharaly,dlg,EntryList/89/Text,0,102758,"""You're the boss.""",
+tm_hench_sharaly,dlg,EntryList/89/Text,0,102758,"""You're the boss.""","""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
 tm_hench_sharaly,dlg,EntryList/9/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
 tm_hench_sharaly,dlg,EntryList/90/Text,0,-1,"""I'm happy if you are.""",
 tm_hench_sharaly,dlg,EntryList/91/Text,0,-1,"""Are you sure you want to continue without me? If you change your mind, I'll be waiting for you at the Still Waters Inn in Elmwood.""",
-tm_hench_sharaly,dlg,EntryList/92/Text,0,102759,"""That's probably for the best.""",
-tm_hench_sharaly,dlg,EntryList/93/Text,0,102760,"""That sounds risky, but you're in charge.""",
-tm_hench_sharaly,dlg,EntryList/94/Text,0,102761,"""I can do that.""",
-tm_hench_sharaly,dlg,EntryList/95/Text,0,102762,"""I'll strike from the shadows just as you ask.""",
-tm_hench_sharaly,dlg,EntryList/96/Text,0,102763,"""I'll try my best.""",
-tm_hench_sharaly,dlg,EntryList/97/Text,0,102764,"""Fine with me. I'll let someone else handle it.""",
-tm_hench_sharaly,dlg,EntryList/98/Text,0,102765,"""I can certainly do that.""",
-tm_hench_sharaly,dlg,EntryList/99/Text,0,102766,"""How far should I stay?""",
+tm_hench_sharaly,dlg,EntryList/92/Text,0,102759,"""That's probably for the best.""","""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
+tm_hench_sharaly,dlg,EntryList/93/Text,0,102760,"""That sounds risky, but you're in charge.""","그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
+tm_hench_sharaly,dlg,EntryList/94/Text,0,102761,"""I can do that.""","그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
+tm_hench_sharaly,dlg,EntryList/95/Text,0,102762,"""I'll strike from the shadows just as you ask.""","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
+tm_hench_sharaly,dlg,EntryList/96/Text,0,102763,"""I'll try my best.""","그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
+tm_hench_sharaly,dlg,EntryList/97/Text,0,102764,"""Fine with me. I'll let someone else handle it.""","""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+tm_hench_sharaly,dlg,EntryList/98/Text,0,102765,"""I can certainly do that.""","그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+tm_hench_sharaly,dlg,EntryList/99/Text,0,102766,"""How far should I stay?""","""그럼 어디에 있으면 될까요?"""
 tm_hench_sharaly,dlg,ReplyList/0/Text,0,-1,"""Farewell.""",
-tm_hench_sharaly,dlg,ReplyList/10/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_sharaly,dlg,ReplyList/102/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
-tm_hench_sharaly,dlg,ReplyList/103/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_sharaly,dlg,ReplyList/104/Text,0,103359,"""I think we need to part ways.""",
-tm_hench_sharaly,dlg,ReplyList/11/Text,0,103359,"""I think we need to part ways.""",
-tm_hench_sharaly,dlg,ReplyList/112/Text,0,103368,"""Stay stealthy but only until the next fight.""",
-tm_hench_sharaly,dlg,ReplyList/121/Text,0,103373,"""Stay a long distance away.""",
-tm_hench_sharaly,dlg,ReplyList/122/Text,0,103374,"""Keep a medium distance.""",
-tm_hench_sharaly,dlg,ReplyList/123/Text,0,103375,"""Stay close.""",
+tm_hench_sharaly,dlg,ReplyList/10/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_sharaly,dlg,ReplyList/102/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
+tm_hench_sharaly,dlg,ReplyList/103/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_sharaly,dlg,ReplyList/104/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
+tm_hench_sharaly,dlg,ReplyList/11/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
+tm_hench_sharaly,dlg,ReplyList/112/Text,0,103368,"""Stay stealthy but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만."""
+tm_hench_sharaly,dlg,ReplyList/121/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+tm_hench_sharaly,dlg,ReplyList/122/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+tm_hench_sharaly,dlg,ReplyList/123/Text,0,103375,"""Stay close.""",가까이 있어.
 tm_hench_sharaly,dlg,ReplyList/129/Text,0,-1,"""I need you to do something for me.""",
-tm_hench_sharaly,dlg,ReplyList/132/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_sharaly,dlg,ReplyList/132/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_sharaly,dlg,ReplyList/133/Text,0,-1,"""Back to my other questions.""",
 tm_hench_sharaly,dlg,ReplyList/136/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_sharaly,dlg,ReplyList/137/Text,0,-1,"""What is life like as a Harper?""",
 tm_hench_sharaly,dlg,ReplyList/138/Text,0,-1,"""What made you decide to become a bard?""",
 tm_hench_sharaly,dlg,ReplyList/139/Text,0,-1,"""Tell me more about the Hillsfar you remember.""",
-tm_hench_sharaly,dlg,ReplyList/140/Text,0,103381,"""Tell me a bit about yourself, Sharalyn.""",
+tm_hench_sharaly,dlg,ReplyList/140/Text,0,103381,"""Tell me a bit about yourself, Sharalyn.""","""잠깐 멈춰서 이야기하자."""
 tm_hench_sharaly,dlg,ReplyList/142/Text,0,-1,"""Back to my other questions.""",
-tm_hench_sharaly,dlg,ReplyList/143/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_sharaly,dlg,ReplyList/145/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
-tm_hench_sharaly,dlg,ReplyList/146/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_sharaly,dlg,ReplyList/147/Text,0,103359,"""I think we need to part ways.""",
-tm_hench_sharaly,dlg,ReplyList/155/Text,0,103368,"""Stay stealthy but only until the next fight.""",
-tm_hench_sharaly,dlg,ReplyList/164/Text,0,103373,"""Stay a long distance away.""",
-tm_hench_sharaly,dlg,ReplyList/165/Text,0,103374,"""Keep a medium distance.""",
-tm_hench_sharaly,dlg,ReplyList/166/Text,0,103375,"""Stay close.""",
+tm_hench_sharaly,dlg,ReplyList/143/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_sharaly,dlg,ReplyList/145/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
+tm_hench_sharaly,dlg,ReplyList/146/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_sharaly,dlg,ReplyList/147/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
+tm_hench_sharaly,dlg,ReplyList/155/Text,0,103368,"""Stay stealthy but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만."""
+tm_hench_sharaly,dlg,ReplyList/164/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+tm_hench_sharaly,dlg,ReplyList/165/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+tm_hench_sharaly,dlg,ReplyList/166/Text,0,103375,"""Stay close.""",가까이 있어.
 tm_hench_sharaly,dlg,ReplyList/172/Text,0,-1,"""I need you to do something for me.""",
-tm_hench_sharaly,dlg,ReplyList/175/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_sharaly,dlg,ReplyList/175/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_sharaly,dlg,ReplyList/176/Text,0,-1,"""Back to my other questions.""",
 tm_hench_sharaly,dlg,ReplyList/179/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_sharaly,dlg,ReplyList/180/Text,0,-1,"""What is life like as a Harper?""",
@@ -2983,44 +2983,44 @@ tm_hench_sharaly,dlg,ReplyList/181/Text,0,-1,"""What made you decide to become a
 tm_hench_sharaly,dlg,ReplyList/182/Text,0,-1,"""Tell me more about the Hillsfar you remember.""",
 tm_hench_sharaly,dlg,ReplyList/187/Text,0,-1,<StartAction>[Say nothing.]</Start>,
 tm_hench_sharaly,dlg,ReplyList/188/Text,0,-1,"""Forget Maganus. I still want Eremuth's blood.""",
-tm_hench_sharaly,dlg,ReplyList/19/Text,0,103368,"""Stay stealthy but only until the next fight.""",
+tm_hench_sharaly,dlg,ReplyList/19/Text,0,103368,"""Stay stealthy but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만."""
 tm_hench_sharaly,dlg,ReplyList/190/Text,0,-1,"""Why not? Let them burn Zhentil Keep to the ground.""",
 tm_hench_sharaly,dlg,ReplyList/192/Text,0,-1,"""We cannot allow him to succeed.""",
 tm_hench_sharaly,dlg,ReplyList/2/Text,0,-1,"""Yes. Let's go.""",
-tm_hench_sharaly,dlg,ReplyList/28/Text,0,103373,"""Stay a long distance away.""",
-tm_hench_sharaly,dlg,ReplyList/29/Text,0,103374,"""Keep a medium distance.""",
-tm_hench_sharaly,dlg,ReplyList/30/Text,0,103375,"""Stay close.""",
+tm_hench_sharaly,dlg,ReplyList/28/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+tm_hench_sharaly,dlg,ReplyList/29/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+tm_hench_sharaly,dlg,ReplyList/30/Text,0,103375,"""Stay close.""",가까이 있어.
 tm_hench_sharaly,dlg,ReplyList/36/Text,0,-1,"""I need you to do something for me.""",
-tm_hench_sharaly,dlg,ReplyList/39/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_sharaly,dlg,ReplyList/4/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_sharaly,dlg,ReplyList/39/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_sharaly,dlg,ReplyList/4/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_sharaly,dlg,ReplyList/40/Text,0,-1,"""Back to my other questions.""",
-tm_hench_sharaly,dlg,ReplyList/41/Text,0,103359,"""I think we need to part ways.""",
+tm_hench_sharaly,dlg,ReplyList/41/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
 tm_hench_sharaly,dlg,ReplyList/44/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_sharaly,dlg,ReplyList/47/Text,0,-1,"""Can I ask you some questions?""",
 tm_hench_sharaly,dlg,ReplyList/48/Text,0,-1,"""What are your thoughts on our current situation?""",
 tm_hench_sharaly,dlg,ReplyList/49/Text,0,-1,"""You've taken a risk deciding to travel with me.""",
-tm_hench_sharaly,dlg,ReplyList/5/Text,0,103359,"""I think we need to part ways.""",
+tm_hench_sharaly,dlg,ReplyList/5/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
 tm_hench_sharaly,dlg,ReplyList/50/Text,0,-1,"""What were you doing in Voonlar anyway?""",
-tm_hench_sharaly,dlg,ReplyList/52/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_sharaly,dlg,ReplyList/52/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_sharaly,dlg,ReplyList/53/Text,0,-1,"""Back to my other questions.""",
-tm_hench_sharaly,dlg,ReplyList/54/Text,0,103359,"""I think we need to part ways.""",
-tm_hench_sharaly,dlg,ReplyList/57/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
-tm_hench_sharaly,dlg,ReplyList/58/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_sharaly,dlg,ReplyList/59/Text,0,103359,"""I think we need to part ways.""",
-tm_hench_sharaly,dlg,ReplyList/67/Text,0,103368,"""Stay stealthy but only until the next fight.""",
-tm_hench_sharaly,dlg,ReplyList/76/Text,0,103373,"""Stay a long distance away.""",
-tm_hench_sharaly,dlg,ReplyList/77/Text,0,103374,"""Keep a medium distance.""",
-tm_hench_sharaly,dlg,ReplyList/78/Text,0,103375,"""Stay close.""",
+tm_hench_sharaly,dlg,ReplyList/54/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
+tm_hench_sharaly,dlg,ReplyList/57/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
+tm_hench_sharaly,dlg,ReplyList/58/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_sharaly,dlg,ReplyList/59/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
+tm_hench_sharaly,dlg,ReplyList/67/Text,0,103368,"""Stay stealthy but only until the next fight.""","""은밀하게 행동해, 하지만 다음 전투까지만."""
+tm_hench_sharaly,dlg,ReplyList/76/Text,0,103373,"""Stay a long distance away.""",먼 거리를 유지해.
+tm_hench_sharaly,dlg,ReplyList/77/Text,0,103374,"""Keep a medium distance.""",중간 거리를 유지해.
+tm_hench_sharaly,dlg,ReplyList/78/Text,0,103375,"""Stay close.""",가까이 있어.
 tm_hench_sharaly,dlg,ReplyList/84/Text,0,-1,"""I need you to do something for me.""",
-tm_hench_sharaly,dlg,ReplyList/87/Text,0,103358,"""Thanks, that's everything.""",
+tm_hench_sharaly,dlg,ReplyList/87/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
 tm_hench_sharaly,dlg,ReplyList/88/Text,0,-1,"""Back to my other questions.""",
-tm_hench_sharaly,dlg,ReplyList/89/Text,0,103359,"""I think we need to part ways.""",
-tm_hench_sharaly,dlg,ReplyList/9/Text,0,103364,"""I don't want to change any of your other tactics right now.""",
+tm_hench_sharaly,dlg,ReplyList/89/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
+tm_hench_sharaly,dlg,ReplyList/9/Text,0,103364,"""I don't want to change any of your other tactics right now.""","""지금은 다른 건 바꾸고 싶지 않아."""
 tm_hench_sharaly,dlg,ReplyList/92/Text,0,-1,"""Can I ask you some questions?""",
-tm_hench_sharaly,dlg,ReplyList/95/Text,0,103381,"""Tell me a bit about yourself, Sharalyn.""",
+tm_hench_sharaly,dlg,ReplyList/95/Text,0,103381,"""Tell me a bit about yourself, Sharalyn.""","""잠깐 멈춰서 이야기하자."""
 tm_hench_sharaly,dlg,ReplyList/97/Text,0,-1,"""Back to my other questions.""",
-tm_hench_sharaly,dlg,ReplyList/98/Text,0,103358,"""Thanks, that's everything.""",
-tm_hench_sharaly,dlg,ReplyList/99/Text,0,103359,"""I think we need to part ways.""",
+tm_hench_sharaly,dlg,ReplyList/98/Text,0,103358,"""Thanks, that's everything.""","""신경 쓰지 마."""
+tm_hench_sharaly,dlg,ReplyList/99/Text,0,103359,"""I think we need to part ways.""","""우리 헤어져야 할 것 같아."""
 tm_hermuk,dlg,EntryList/0/Text,0,-1,"""Welcome to my humble store. My name's Hermuk, and, as the name of my store suggests, you can find almost anything here. Even items that are not strictly, shall we say, 'legitimate.' """,
 tm_hermuk,dlg,EntryList/1/Text,0,-1,"""Remember: Hermuk's Allgoods will buy anything at a fair price.""",
 tm_hermuk,dlg,EntryList/2/Text,0,-1,"""It would be my pleasure. Should you appropriate anything in a manner those of a more law-abiding nature might consider improper, I would be happy to take it off your hands.""",

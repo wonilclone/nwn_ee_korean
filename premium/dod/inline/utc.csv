@@ -160,7 +160,7 @@ ac_rootherat,utc,Description,0,-1,This rat's eyes convey a creature of great int
 ac_rootherat,utc,FirstName,0,-1,Roo,
 ac_sejellus,utc,FirstName,0,-1,Sejellus,
 ac_sejellus,utc,LastName,0,-1,Krimp,
-ac_smallrat,utc,FirstName,0,3103,Rat,
+ac_smallrat,utc,FirstName,0,3103,Rat,쥐
 ac_torso,utc,FirstName,0,12423,Torso,
 ac_tyler,utc,Description,0,-1,"This young boy has the earnest, needy look of an only child who lacks friends his own age.",
 ac_tyler,utc,FirstName,0,-1,Tyler,
@@ -196,10 +196,10 @@ ac_zombie16,utc,FirstName,0,-1,Prototype 227-I,
 ac_zombie17,utc,FirstName,0,-1,Prototype 230-E,
 ac_zombie18,utc,FirstName,0,-1,Prototype 235-C,
 bw_alaffinel,utc,FirstName,0,12591,Alaffinel,
-bw_bandit005,utc,FirstName,0,12371,Bandit Mage,
-bw_banditboss,utc,FirstName,0,12373,Bandit Chief,
-bw_beardire,utc,FirstName,0,12386,Dire Bear,
-bw_boardire,utc,FirstName,0,12399,Dire Boar,
+bw_bandit005,utc,FirstName,0,12371,Bandit Mage,산적 마법학자
+bw_banditboss,utc,FirstName,0,12373,Bandit Chief,산적 두목
+bw_beardire,utc,FirstName,0,12386,Dire Bear,흉포한 곰
+bw_boardire,utc,FirstName,0,12399,Dire Boar,흉포한 멧돼지
 bw_boonmoppet,utc,Description,0,-1,"This imp has a queerly human-looking face, devilish horns, and demonic, bat-like wings.",
 bw_boonmoppet,utc,FirstName,0,-1,Boonmoppet,
 bw_bronwyn,utc,Description,0,-1,"Lady Bronwyn, Duke Pwyll Greatshout's younger sister, has an easy smile, and is jolly from the depths of her soul.",
@@ -213,21 +213,21 @@ bw_ddwarf02,utc,FirstName,0,12511,Dwarf Corpse,
 bw_duke,utc,Description,0,-1,"Duke Pwyll Greatshout has ruled the town of Daggerford for longer than any other Duke in the small town's recorded history. The Duke's face is solid, ruggedly formed with bright twinkling eyes, and a proud chin.",
 bw_duke,utc,FirstName,0,-1,Duke,
 bw_duke,utc,LastName,0,-1,Greatshout,
-bw_gargoyle,utc,FirstName,0,12550,Gargoyle,
-bw_ghast,utc,FirstName,0,12552,Ghast,
-bw_gnoll01,utc,FirstName,0,3097,Gnoll,
-bw_gnoll02,utc,FirstName,0,3097,Gnoll,
-bw_gnoll03,utc,FirstName,0,3097,Gnoll,
-bw_gnoll04,utc,FirstName,0,3097,Gnoll,
+bw_gargoyle,utc,FirstName,0,12550,Gargoyle,가고일
+bw_ghast,utc,FirstName,0,12552,Ghast,가스트
+bw_gnoll01,utc,FirstName,0,3097,Gnoll,놀
+bw_gnoll02,utc,FirstName,0,3097,Gnoll,놀
+bw_gnoll03,utc,FirstName,0,3097,Gnoll,놀
+bw_gnoll04,utc,FirstName,0,3097,Gnoll,놀
 bw_gnoll05,utc,FirstName,0,3097,Gnoll Elite,
 bw_gnollking,utc,FirstName,0,3099,Rattlefang,
-bw_gnthill,utc,FirstName,0,12562,Hill Giant,
+bw_gnthill,utc,FirstName,0,12562,Hill Giant,언덕 거인
 bw_griffon,utc,Description,0,-1,One of the Griffon Mercenaries of Daggerford town. The Griffon Mercenaries must be part of the Zhentarim Alliance!,
 bw_griffon,utc,FirstName,0,-1,Griffon Mercenary,
-bw_gypsy004,utc,FirstName,0,12587,Gypsy Mage,
-bw_gypsy005,utc,FirstName,0,12588,Gypsy Healer,
-bw_gypsyboss,utc,FirstName,0,12589,Gypsy Chief,
-bw_harpy,utc,FirstName,0,3076,Harpy,
+bw_gypsy004,utc,FirstName,0,12587,Gypsy Mage,집시 마법사
+bw_gypsy005,utc,FirstName,0,12588,Gypsy Healer,집시 치유사
+bw_gypsyboss,utc,FirstName,0,12589,Gypsy Chief,집시 족장
+bw_harpy,utc,FirstName,0,3076,Harpy,하피
 bw_korin,utc,Description,0,-1,"Korin Ironeater leads a clan of dwarves that have chosen to remain in the old ruins of Illefarn, hoping to one day restore its lost glory. Korin is the brother of Derval Brightblade, master smith of Daggerford.",
 bw_korin,utc,FirstName,0,-1,Korin Ironeater,
 bw_lizfolk01,utc,Description,0,-1,Lizardfolk are primitive reptilian humanoids that can be very dangerous if provoked.,
@@ -237,24 +237,24 @@ bw_lizfolk02,utc,FirstName,0,-1,Lizardfolk Savage,
 bw_methim,utc,FirstName,0,2976,Methim,
 bw_necro,utc,Description,0,-1,This man appears to be a disciple of the black art of necromancy.,
 bw_necro,utc,FirstName,0,-1,Necromancer,
-bw_ogre01,utc,FirstName,0,12664,Ogre,
-bw_ogre02,utc,FirstName,0,12664,Ogre,
+bw_ogre01,utc,FirstName,0,12664,Ogre,오우거
+bw_ogre02,utc,FirstName,0,12664,Ogre,오우거
 bw_ogre03,utc,FirstName,0,12665,Ogre Bridgekeeper,
 bw_ogre04,utc,FirstName,0,12665,Ogre Bridgekeeper,
-bw_ogre05,utc,FirstName,0,12665,Ogre Berserker,
-bw_ogre06,utc,FirstName,0,12665,Ogre Berserker,
-bw_ogre10,utc,FirstName,0,12664,Ogre,
-bw_ogre11,utc,FirstName,0,12664,Ogre,
-bw_ogreboss,utc,FirstName,0,56571,Ogre Chieftain,
-bw_ogrechief01,utc,FirstName,0,12665,Ogre Berserker,
-bw_ogrechief02,utc,FirstName,0,12665,Ogre Berserker,
-bw_ogreking,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak. This appears to be the self-proclaimed king of the Wild Hills ogres.",
+bw_ogre05,utc,FirstName,0,12665,Ogre Berserker,오우거 광전사
+bw_ogre06,utc,FirstName,0,12665,Ogre Berserker,오우거 광전사
+bw_ogre10,utc,FirstName,0,12664,Ogre,오우거
+bw_ogre11,utc,FirstName,0,12664,Ogre,오우거
+bw_ogreboss,utc,FirstName,0,56571,Ogre Chieftain,오우거 족장
+bw_ogrechief01,utc,FirstName,0,12665,Ogre Berserker,오우거 광전사
+bw_ogrechief02,utc,FirstName,0,12665,Ogre Berserker,오우거 광전사
+bw_ogreking,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak. This appears to be the self-proclaimed king of the Wild Hills ogres.","오우거는 약탈과 쓰레기를 뒤지며 살아가는 못생기고 탐욕스러운 생명체 입니다. 이들은 거인, 트롤과 자유롭게 어울리며, 약한 사람들을 먹이감으로 삼기 위해 뭉칩니다."
 bw_ogreking,utc,FirstName,0,56571,Guruk,
 bw_ogreking,utc,LastName,0,-1,Bonesnap,
-bw_ogremage,utc,FirstName,0,12666,Ogre Mage,
-bw_ogremage01,utc,FirstName,0,12666,Ogre Mage,
-bw_orcboss,utc,FirstName,0,56573,Orc Chieftain,
-bw_orcwiza,utc,FirstName,0,12676,Orc Shaman,
+bw_ogremage,utc,FirstName,0,12666,Ogre Mage,오우거 마법사
+bw_ogremage01,utc,FirstName,0,12666,Ogre Mage,오우거 마법사
+bw_orcboss,utc,FirstName,0,56573,Orc Chieftain,오크 족장
+bw_orcwiza,utc,FirstName,0,12676,Orc Shaman,오크 주술사
 bw_slave002,utc,Description,0,-1,This man was probably worked until he simply collapsed. His back is blood-soaked and torn ragged with deep lashings.,
 bw_slave002,utc,FirstName,0,12393,Slave Corpse,
 bw_slave01,utc,Description,0,-1,"This man appears bone-weary and broken, his hands blackened from forced labor and his cheeks hollowed from malnourishment.",
@@ -265,21 +265,21 @@ bw_slave03,utc,Description,0,-1,"This dwarf appears bone-weary and broken, his h
 bw_slave03,utc,FirstName,0,12393,Mine Slave,
 bw_smith,utc,Description,0,-1,This dwarven apparition appears to be a blacksmith.,
 bw_smith,utc,FirstName,0,-1,Ghost Smith,
-bw_spiddire,utc,FirstName,0,12718,Dire Spider,
-bw_spiderboss,utc,FirstName,0,56576,Queen Spider,
-bw_troll,utc,FirstName,0,12786,Troll,
-bw_trollwiz,utc,FirstName,0,12788,Troll Shaman,
-bw_worg01,utc,FirstName,0,12820,Worg,
+bw_spiddire,utc,FirstName,0,12718,Dire Spider,흉포한 거미
+bw_spiderboss,utc,FirstName,0,56576,Queen Spider,거미 여왕
+bw_troll,utc,FirstName,0,12786,Troll,트롤
+bw_trollwiz,utc,FirstName,0,12788,Troll Shaman,트롤 주술사
+bw_worg01,utc,FirstName,0,12820,Worg,워그
 bw_worgboss,utc,FirstName,0,12820,Pack Leader,
-bw_zombie01,utc,FirstName,0,12827,Zombie,
-bw_zombie02,utc,FirstName,0,12827,Zombie,
+bw_zombie01,utc,FirstName,0,12827,Zombie,좀비
+bw_zombie02,utc,FirstName,0,12827,Zombie,좀비
 c_kocrachn,utc,Description,0,-1,"Kocrachons are diabolic torturers. When the damned are sent to hell to face torment, it is often the insectoid kocrachons that perform the sick and terrible duties - and they relish the task.",
 c_kocrachn,utc,FirstName,0,-1,Kocrachon,
 ct_troll002,utc,Description,0,-1,"Trolls are horrid carnivores, devouring everything from grubs to humanoids. Most creatures avoid these beasts, as they know no fear and attack unceasingly when hungry.",
 ct_troll002,utc,FirstName,0,-1,Troll,
 ct_troll1,utc,Description,0,-1,"Trolls are horrid carnivores, devouring everything from grubs to humanoids. Most creatures avoid these beasts, as they know no fear and attack unceasingly when hungry.",
 ct_troll1,utc,FirstName,0,-1,Troll,
-ct_troll2,utc,FirstName,0,56577,Troll Chieftain,
+ct_troll2,utc,FirstName,0,56577,Troll Chieftain,트롤 족장
 db_amara1,utc,Description,0,-1,The light glints off this young woman's raven black hair. Superficially she looks rather like your friend Talarenne.,
 db_amara1,utc,FirstName,0,-1,Amara,
 db_amara1,utc,LastName,0,-1,Leontyne,
@@ -299,18 +299,18 @@ db_barracudacler,utc,Description,0,-1,This fellow seems to have had a few too ma
 db_barracudacler,utc,FirstName,0,-1,Smuggler Priest,
 db_barracudarog,utc,Description,0,-1,Not the most welcoming or hygienic of souls.,
 db_barracudarog,utc,FirstName,0,-1,Smuggler,
-db_bear,utc,Description,0,12385,"Dire Bears are larger, more vicious versions of their common cousins. They are often found in the company of powerful ranger or druids.",
+db_bear,utc,Description,0,12385,"Dire Bears are larger, more vicious versions of their common cousins. They are often found in the company of powerful ranger or druids.","흉포한 곰은 더 크고, 더 포악한 곰의 사촌입니다. 종종 강력한 순찰자나 드루이드의 동료로 발견됩니다."
 db_bear,utc,FirstName,0,56563,Huge Dire Bear,
 db_brenda,utc,Description,0,-1,"Brenda's small stature is counter balanced by her ""up and at 'em"" attitude to life.",
 db_brenda,utc,FirstName,0,-1,Brenda Jantermooke,
 db_cow01,utc,Description,0,12427,The cow gazes at you with an inscrutable look in its eyes before returning to some obviously delicious grass.,
-db_cow01,utc,FirstName,0,12428,Cow,
+db_cow01,utc,FirstName,0,12428,Cow,소
 db_deadcow,utc,Description,0,12427,This cow has been savagely slashed and partially dismembered.,
 db_deadcow,utc,FirstName,0,12428,Dead Cow,
 db_deadox,utc,Description,0,12677,This ox has been cruelly cut and lies in a pool of warm blood.,
 db_deadox,utc,FirstName,0,12678,Dead Ox,
-db_deer,utc,Description,0,12439,"Typically docile in nature, these wild, skittish herbivores gather in small groupings that scatter quickly when threatened.",
-db_deer,utc,FirstName,0,12440,Deer,
+db_deer,utc,Description,0,12439,"Typically docile in nature, these wild, skittish herbivores gather in small groupings that scatter quickly when threatened.",전형적으로 온순한 이 야생의 겁많은 초식 동물은 작은 무리를 지어 모이며 위협을 받으면 재빨리 흩어집니다.
+db_deer,utc,FirstName,0,12440,Deer,사슴
 db_dervil,utc,Description,0,-1,"Derval Brightblade, talented smith and owner of Daggerford's most famous forge.",
 db_dervil,utc,FirstName,0,-1,Derval Ironeater,
 db_dog,utc,Description,0,-1,A hard working farmer's dog.,
@@ -429,11 +429,11 @@ db_orcgrunt01,utc,FirstName,0,12674,Orc Soldier,
 db_orcgrunt02,utc,FirstName,0,12674,Orc Soldier,
 db_orcsmith,utc,Description,0,-1,"This crossbreed orc's powerful muscles ripple impressively and despite the absence of a left hand, he is still a fearsome sight.",
 db_orcsmith,utc,FirstName,0,-1,One-Handed Half-Orc Smith,
-db_orcwiza,utc,FirstName,0,12676,Orc Shaman,
+db_orcwiza,utc,FirstName,0,12676,Orc Shaman,오크 주술사
 db_osprey,utc,Description,0,12684,Ospreys are beautifully colored sea eagles whose eggs are such a delicacy that their very existence is threatened by cruel nest thieves.,
 db_osprey,utc,FirstName,0,12685,Osprey,
 db_ox01,utc,Description,0,12677,"Fed on the rich grass of the Wild Pastures, this ox is plump and healthy.",
-db_ox01,utc,FirstName,0,12678,Ox,
+db_ox01,utc,FirstName,0,12678,Ox,소
 db_patron1,utc,Description,0,-1,"An audience member, here to check out Evani's show.",
 db_patron1,utc,FirstName,0,-1,Audience Member,
 db_patron2,utc,Description,0,-1,"An audience member, here to check out Evani's show.",
@@ -469,7 +469,7 @@ db_shepherd2,utc,Description,0,-1,"Scratched and bruised, Jerick has clearly suf
 db_shepherd2,utc,FirstName,0,-1,Jerick the Shepherd,
 db_shipscaptain,utc,Description,0,-1,"With her striking red hair and distinctive leather armor, Captain Herab is clearly a competent and wily foe.",
 db_shipscaptain,utc,FirstName,0,-1,Captain Herab,
-db_sieronius_gas,utc,Description,0,103814,"The barely visible, incorporeal form of a creature moves with the wind...",
+db_sieronius_gas,utc,Description,0,103814,"The barely visible, incorporeal form of a creature moves with the wind...","거의 보이지 않는, 비실체의 존재가 바람과 함께 움직입니다..."
 db_sieronius_gas,utc,FirstName,0,12798,Gaseous Form of Sieronius Dethick,
 db_sossimunroe,utc,Description,0,-1,"A kobold, obviously. And a pretty stupid looking one to boot!",
 db_sossimunroe,utc,FirstName,0,-1,Sossi 'Munroe',
@@ -510,7 +510,7 @@ db_whiteglove,utc,Description,0,-1,"Dressed in a pristine white outfit, and scen
 db_whiteglove,utc,FirstName,0,-1,White Glove,
 db_wilsey,utc,Description,0,-1,Mayor Wilsey is the elected leader of the people of Trade Way villages.,
 db_wilsey,utc,FirstName,0,-1,Mayor Wilsey,
-db_worg01,utc,FirstName,0,12820,Worg,
+db_worg01,utc,FirstName,0,12820,Worg,워그
 db_xanda_end,utc,Description,0,-1,Xanda the seamstress of Liam's Hold.,
 db_xanda_end,utc,FirstName,0,-1,Xanda Pennywell,
 db_xanda_live,utc,Description,0,-1,Xanda's nimble fingers move with great care over the fine silks and satins that she uses in the production of beautiful garments.,
@@ -523,7 +523,7 @@ db_yagemunroe,utc,Description,0,-1,A woman with... attitude. And poor sense of h
 db_yagemunroe,utc,FirstName,0,-1,Yage Munroe,
 db_yano,utc,Description,0,-1,"Yano's opinion of himself is quite considerably higher than it probably should be, and he has perfected the art of looking down his nose over many years of practice. In short, a pompous and rather unlikeable fellow.",
 db_yano,utc,FirstName,0,-1,Yano Kent,
-drgblack003,utc,Description,0,12460,"Black Dragons are evil-tempered, cunning, and malevolent. Especially fond of coins, they often question their humanoid prey about stockpiles of gold before killing them.",
+drgblack003,utc,Description,0,12460,"Black Dragons are evil-tempered, cunning, and malevolent. Especially fond of coins, they often question their humanoid prey about stockpiles of gold before killing them.","흑룡은 성질이 사악하고 교활하며 악의로 가득차있습니다. 특히 돈을 좋아하기 때문에, 그들은 종종 인간형 생명체 먹잇감을 심문하여 금화를 비축한 곳을 알아냅니다."
 drgblack003,utc,FirstName,0,12461,Young Black Dragon,
 flyingseagull,utc,Description,0,-1,"This seagull eyes you cautiously, trying to determine whether or not you can be classified as food.",
 flyingseagull,utc,FirstName,0,-1,Hungry Seagull,
@@ -638,7 +638,7 @@ ks_gate_tanarukk,utc,FirstName,0,-1,Tanarukk Elite,
 ks_gergrick,utc,Description,0,-1,"Although you are not certain if any of these strange people are real, they are definitely part of Prince Julap-Adeep's twisted puzzles.",
 ks_gergrick,utc,FirstName,0,-1,Gergrick,
 ks_gergrick,utc,LastName,0,-1,Kootchki,
-ks_goblin_invis,utc,Description,0,12565,"While Goblins are often considered little more than a nuisance, an unchecked population can often balloon into a serious threat to normally civilized areas.",
+ks_goblin_invis,utc,Description,0,12565,"While Goblins are often considered little more than a nuisance, an unchecked population can often balloon into a serious threat to normally civilized areas.","고블린은 보통 성가신 존재에 불과하지만, 인구를 억제하지 않으면 종종 부풀어 올라 문명화된 지역에 심각한 위협이 될 수 있습니다."
 ks_goblin_invis,utc,FirstName,0,12567,Goblin Rustler,
 ks_golden_girl,utc,Description,0,-1,This young girl carries a large stack of books tucked under one arm.,
 ks_golden_girl,utc,FirstName,0,-1,Girl Carrying Books,
@@ -1062,7 +1062,7 @@ pm_zhentagnt_cl2,utc,Description,0,-1,"A cleric of the Zhentarim. Cold blooded, 
 pm_zhentagnt_cl2,utc,FirstName,0,-1,Zhentarim Agent,
 psc_parrot,utc,Description,0,-1,"With a vividly colorful plumage, parrots cannot help but catch the eye. Their ability to mimic and speak, however, can make them either a good companion or a very exasperating one.",
 psc_parrot,utc,FirstName,0,-1,Parrot,
-rat003,utc,Description,0,3104,The rat has always been seen as the carrier of disease and evil in nature.,
+rat003,utc,Description,0,3104,The rat has always been seen as the carrier of disease and evil in nature.,시궁쥐는 자연에서 항상 질병과 악의 매개체로 여겨져 왔습니다.
 rat003,utc,FirstName,0,3103,"Rat, Small",
 rb_daxiong,utc,Description,0,-1,"This corpse is recognizable as Daxiong, the necromancer you encountered in the crypt below the graveyard at Gillian's Hill. No doubt he entered this place in search of more corpses on which to perform his experiments, but has now himself joined the ranks of the dead. Several bloody wounds on his neck indicate the cause of his relatively recent death.",
 rb_daxiong,utc,FirstName,0,12518,Daxiong,
@@ -1070,7 +1070,7 @@ rb_deadboar,utc,Description,0,12398,This large boar has been the victim of a wol
 rb_deadboar,utc,FirstName,0,12399,Dead Boar,
 rb_orcarcher,utc,Description,0,-1,A skilled orc marksman wielding a heavy crossbow.,
 rb_orcarcher,utc,FirstName,0,-1,Orc Marksman,
-rb_pixie,utc,FirstName,0,6005,Pixie,
+rb_pixie,utc,FirstName,0,6005,Pixie,픽시
 rb_sulfurus,utc,Description,0,-1,"Although this black dragon is still relatively young, the acidic droplets that spray from its mouth with each breath suggest it is already a fearsome opponent.",
 rb_sulfurus,utc,FirstName,0,-1,Sulfurus,
 rb_zhentagent_fg,utc,Description,0,-1,"A warrior of the Zhentarim. Cold blooded, calculated and damned evil. ",

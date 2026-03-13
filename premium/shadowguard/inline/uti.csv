@@ -682,46 +682,46 @@ it_misc_med_001,uti,LocalizedName,0,-1,A Tattered Note,
 it_misc_med_002,uti,DescIdentified,0,-1,"These stones are used throughout the Sharakhan Empire to give off heavy electrical charges.  Though a bit unpredictable, the stones can be effectively used as weapons, giving off a rather strong electrical explosion when activated.  It is wise to be wary when using them, and to quickly move out of the path of the explosion once the device is set...",
 it_misc_med_002,uti,LocalizedName,0,-1,Electrical Charge Grenade,
 it_misc_poti_000,uti,LocalizedName,0,-1,IT_MISC_POTI_000,
-it_misc_poti_001,uti,DescIdentified,0,13440,"Used in times of trouble, these priestly waters comfort the sorrowful and make great men of lowly cowards.",
-it_misc_poti_001,uti,LocalizedName,0,13441,Potion of Aid,
+it_misc_poti_001,uti,DescIdentified,0,13440,"Used in times of trouble, these priestly waters comfort the sorrowful and make great men of lowly cowards.","역경의 시대에 사용되었던 이 사제의 물은 슬픔에 잠긴 이들을 위로하며, 하찮은 겁쟁이도 위인이 되도록 합니다."
+it_misc_poti_001,uti,LocalizedName,0,13441,Potion of Aid,지원의 물약
 it_misc_poti_002,uti,DescIdentified,0,-1,"A weak, watered down fluid flows sluggishly in this flask.",
 it_misc_poti_002,uti,LocalizedName,0,-1,Ale,
-it_misc_poti_003,uti,DescIdentified,0,13420,"This tonic is sovereign against venoms, mineral toxins, diseases, and poisons of all sorts.",
-it_misc_poti_003,uti,LocalizedName,0,13421,Potion of Antidote,
-it_misc_poti_004,uti,DescIdentified,0,13426,"Called ""portable priests"" by more cynical adventurers, these holy infusions are of great use to the average adventurer.",
-it_misc_poti_004,uti,LocalizedName,0,13427,Potion of Bless,
-it_misc_poti_005,uti,DescIdentified,0,13438,"These blood-red infusions, made from the horns and heart of young bulls, grant the drinker great physical strength.",
-it_misc_poti_005,uti,LocalizedName,0,13439,Potion of Bull's Strength,
-it_misc_poti_006,uti,DescIdentified,0,13436,This sparkling potion greatly increases the drinker's Dexterity.,
-it_misc_poti_006,uti,LocalizedName,0,13437,Potion of Cat's Grace,
-it_misc_poti_007,uti,DescIdentified,0,13422,"Made of hot liquid poured over scorched and pungent beans, this strong-smelling brew did not get its name from its appearance. It helps clear and fortify the mind against spells that affect the mind.",
-it_misc_poti_007,uti,LocalizedName,0,13423,Potion of Clarity,
-it_misc_poti_008,uti,DescIdentified,0,13428,"With their ability to smooth the complexion, gloss the hair, and brighten the eyes, these potions find regular use among the nobility. But it shall make anyone more comely.",
-it_misc_poti_008,uti,LocalizedName,0,13429,Potion of Eagle's Splendor,
-it_misc_poti_009,uti,DescIdentified,0,13442,"These potions are eagerly sought by sages, scholars, and adventuring wizards alike. When imbibed, they grant a bonus to the drinker's Intelligence score.",
-it_misc_poti_009,uti,LocalizedName,0,13443,Potion of Fox's Cunning,
-it_misc_poti_010,uti,DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, allowing for the imbiber to clear their thoughts in the pursuit of remembering vague legends and tales of old.",
-it_misc_poti_010,uti,LocalizedName,0,13447,Potion of Lore,
-it_misc_poti_011,uti,DescIdentified,0,13444,"This milky red potion seems to open the drinker's perception of his environment, making him at once more observant and more resistant to effects that target the mind.",
-it_misc_poti_011,uti,LocalizedName,0,13445,Potion of Owl's Wisdom,
-it_misc_poti_012,uti,DescIdentified,0,13410,"Used as often in the peasant's home as the dungeon's dark, these simple concoctions are common throughout Abaran.",
-it_misc_poti_012,uti,LocalizedName,0,13411,Potion of Cure Light Wounds,
-it_misc_poti_013,uti,DescIdentified,0,13448,"These curative potions are too expensive for most civilians, and are used almost exclusively by soldiers and adventurers.",
-it_misc_poti_013,uti,LocalizedName,0,13449,Potion of Cure Moderate Wounds,
-it_misc_poti_014,uti,DescIdentified,0,13412,"With the power to staunch the flow of blood or knit a broken bone, these potions are in common use among the dangerous professions.",
-it_misc_poti_014,uti,LocalizedName,0,13413,Potion of Cure Serious Wounds,
-it_misc_poti_015,uti,DescIdentified,0,13434,"A potion of endurance combines various magical components to increase stamina and overall health, though it does not heal damage.",
-it_misc_poti_015,uti,LocalizedName,0,13435,Potion of Endurance,
-it_misc_poti_016,uti,DescIdentified,0,13418,"This thick concoction smells dark and musty, like a forest after heavy rains.",
-it_misc_poti_016,uti,LocalizedName,0,13419,Potion of Barkskin,
-it_misc_poti_017,uti,DescIdentified,0,13414,"With the power to return people from the very brink of death, these potions do not come cheaply.",
-it_misc_poti_017,uti,LocalizedName,0,13415,Potion of Cure Critical Wounds,
+it_misc_poti_003,uti,DescIdentified,0,13420,"This tonic is sovereign against venoms, mineral toxins, diseases, and poisons of all sorts.",이 강장제는 독기나 광물의 독소와 질병 그리고 모든 종류의 독을 막아줍니다.
+it_misc_poti_003,uti,LocalizedName,0,13421,Potion of Antidote,해독의 물약
+it_misc_poti_004,uti,DescIdentified,0,13426,"Called ""portable priests"" by more cynical adventurers, these holy infusions are of great use to the average adventurer.","냉소적인 모험가들이 \""휴대용 사제\""라고 부르는, 이 신성한 차는 평범한 모험가들에게 매우 유용합니다."
+it_misc_poti_004,uti,LocalizedName,0,13427,Potion of Bless,축복의 물약
+it_misc_poti_005,uti,DescIdentified,0,13438,"These blood-red infusions, made from the horns and heart of young bulls, grant the drinker great physical strength.",어린 황소의 뿔과 심장으로 만든 이 핏빛 달임차는 마신 이에게 큰 물리적 힘을 제공합니다.
+it_misc_poti_005,uti,LocalizedName,0,13439,Potion of Bull's Strength,황소의 근력 물약
+it_misc_poti_006,uti,DescIdentified,0,13436,This sparkling potion greatly increases the drinker's Dexterity.,이 탄산이 든 물약을 마시면 민첩이 크게 올라갑니다.
+it_misc_poti_006,uti,LocalizedName,0,13437,Potion of Cat's Grace,고양이의 우아함 물약
+it_misc_poti_007,uti,DescIdentified,0,13422,"Made of hot liquid poured over scorched and pungent beans, this strong-smelling brew did not get its name from its appearance. It helps clear and fortify the mind against spells that affect the mind.",톡 쏘는 콩을 그을려 위에 뜨거운 액체를 부어 우려낸 이 강한 향이 나는 차는 겉모습으로 이름을 얻은게 아닙니다. 이것은 정신에 영향을 미치는 주문에 대항하여 정신을 맑게 유지하고 강화 하는데 도움을 줍니다.
+it_misc_poti_007,uti,LocalizedName,0,13423,Potion of Clarity,맑은 정신의 물약
+it_misc_poti_008,uti,DescIdentified,0,13428,"With their ability to smooth the complexion, gloss the hair, and brighten the eyes, these potions find regular use among the nobility. But it shall make anyone more comely.","안색은 부드럽게 만들고, 머리칼은 윤기나게 만들며, 눈을 반짝이게 만드는 능력으로 인해, 이 물약은 귀족들이 자주 사용합니다. 하지만 누구라도 더 아름답게 만들 겁니다."
+it_misc_poti_008,uti,LocalizedName,0,13429,Potion of Eagle's Splendor,독수리의 위엄 물약
+it_misc_poti_009,uti,DescIdentified,0,13442,"These potions are eagerly sought by sages, scholars, and adventuring wizards alike. When imbibed, they grant a bonus to the drinker's Intelligence score.",현자와 학자 그리고 모험하는 마법사와 같은 모두가 이 물약을 간절히 원합니다. 마시고 나면 마신 이의 지능 점수에 이점을 제공합니다.
+it_misc_poti_009,uti,LocalizedName,0,13443,Potion of Fox's Cunning,여우의 교활함 물약
+it_misc_poti_010,uti,DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, allowing for the imbiber to clear their thoughts in the pursuit of remembering vague legends and tales of old.","이 물약은 모험가와 학자들 모두가 원하고 있으며, 페이룬의 던전에서 많이 쓰이는걸 볼 수 있습니다."
+it_misc_poti_010,uti,LocalizedName,0,13447,Potion of Lore,전승지식의 물약
+it_misc_poti_011,uti,DescIdentified,0,13444,"This milky red potion seems to open the drinker's perception of his environment, making him at once more observant and more resistant to effects that target the mind.","이 우유가 들어간 붉은 물약은 술꾼의 마신 이의 환경에 대한 통찰력을 열어주는 것으로 보이며, 마시게 되면 즉시 더 높은 관찰력과 정신에 영향을 미치는 효과에 대한 더 높은 저항력을 얻습니다."
+it_misc_poti_011,uti,LocalizedName,0,13445,Potion of Owl's Wisdom,올빼미의 지혜 물약
+it_misc_poti_012,uti,DescIdentified,0,13410,"Used as often in the peasant's home as the dungeon's dark, these simple concoctions are common throughout Abaran.",던전의 어둠 만큼이나 농부의 집에서도 자주 사용하는 이런 간단한 혼합물은 페이룬 전역에서 흔히 볼 수 있습니다.
+it_misc_poti_012,uti,LocalizedName,0,13411,Potion of Cure Light Wounds,가벼운 상처 치료의 물약
+it_misc_poti_013,uti,DescIdentified,0,13448,"These curative potions are too expensive for most civilians, and are used almost exclusively by soldiers and adventurers.","이 치료 물약은 대부분의 시민들에게 너무 비싸기 때문에, 대부분은 군인과 모험가들만이 사용하고 있습니다."
+it_misc_poti_013,uti,LocalizedName,0,13449,Potion of Cure Moderate Wounds,일반 상처 치료의 물약
+it_misc_poti_014,uti,DescIdentified,0,13412,"With the power to staunch the flow of blood or knit a broken bone, these potions are in common use among the dangerous professions.",출혈을 멈추거나 부러진 뼈를 접합하는 힘을 가진 이런 물약은 일반적으로 위험한 일을 하는 이들이 사용합니다.
+it_misc_poti_014,uti,LocalizedName,0,13413,Potion of Cure Serious Wounds,심각한 상처 치료의 물약
+it_misc_poti_015,uti,DescIdentified,0,13434,"A potion of endurance combines various magical components to increase stamina and overall health, though it does not heal damage.","지구력의 물약은 비록 피해를 치유하지는 않지만, 체력과 전반적인 건강을 증진시키기 위한 다양한 마법적 요소들을 갖추고 있습니다."
+it_misc_poti_015,uti,LocalizedName,0,13435,Potion of Endurance,지구력의 물약
+it_misc_poti_016,uti,DescIdentified,0,13418,"This thick concoction smells dark and musty, like a forest after heavy rains.",이 걸쭉한 혼합물은 마치 폭우가 내린 숲처럼 짙은 퀴퀴한 냄새가 납니다.
+it_misc_poti_016,uti,LocalizedName,0,13419,Potion of Barkskin,나무껍질 피부의 물약
+it_misc_poti_017,uti,DescIdentified,0,13414,"With the power to return people from the very brink of death, these potions do not come cheaply.",죽음의 문턱에 있는 사람들을 되돌릴 힘이 있는 이 물약은 값싸게 나오지 않습니다.
+it_misc_poti_017,uti,LocalizedName,0,13415,Potion of Cure Critical Wounds,치명적인 상처 치료의 물약
 it_misc_ring_000,uti,LocalizedName,0,-1,IT_MISC_RING_000,
 it_misc_ring_010,uti,LocalizedName,0,-1,IT_MISC_RING_010,
 it_misc_ring_011,uti,DescIdentified,0,13454,"Imbued with minor magical protections, this ring grants its wearer some extra defense in combat.",
-it_misc_ring_011,uti,LocalizedName,0,13453,Ring of Protection +1,
+it_misc_ring_011,uti,LocalizedName,0,13453,Ring of Protection +1,보호의 반지 +1
 it_misc_ring_012,uti,DescIdentified,0,56645,"Engraved with runes of stamina and strength, this ring allows its wearer to endure far greater physical stress upon their body.",
-it_misc_ring_012,uti,LocalizedName,0,56644,Ring of Fortitude +1,
+it_misc_ring_012,uti,LocalizedName,0,56644,Ring of Fortitude +1,인내의 반지 +1
 it_misc_ring_013,uti,DescIdentified,0,56645,"Engraved with runes of quickness and lightness of foot, this ring enhances its wearers reflexes against danger.",
 it_misc_ring_013,uti,LocalizedName,0,56644,Ring of Agility +1,
 it_misc_ring_014,uti,DescIdentified,0,56645,"Engraved with runes of mental protection, this ring gifts its master with added defense against mental and psychic assaults.",
@@ -746,8 +746,8 @@ it_misc_torc_003,uti,LocalizedName,0,-1,Torch,
 it_misc_torc_004,uti,LocalizedName,0,-1,Torch,
 it_misc_torc_005,uti,LocalizedName,0,-1,Torch,
 it_misc_trap_000,uti,LocalizedName,0,-1,IT_MISC_TRAP_000,
-it_misc_ttl_001,uti,LocalizedName,0,13523,Thieves' Tools +1,
-it_misc_ttl_002,uti,LocalizedName,0,13524,Thieves' Tools +3,
+it_misc_ttl_001,uti,LocalizedName,0,13523,Thieves' Tools +1,도둑의 도구 +1
+it_misc_ttl_002,uti,LocalizedName,0,13524,Thieves' Tools +3,도둑의 도구 +3
 it_plot_000,uti,LocalizedName,0,-1,IT_PLOT_000,
 it_plot_001,uti,DescIdentified,0,-1,"[This summons has been personally addressed to you, requesting that you come to the Isle of Zhantara, where Overlord Vhorkas, a high ranking official of the Sharakhan Empire, wishes to discuss a matter of ""great importance"".]
 

@@ -1,4 +1,4 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 afterdeath,dlg,EntryList/0/Text,0,-1,"<FirstName>? Oh good, you're alive. I'm not sure this place is safe though, but it was the best I could find.",
 afterdeath2,dlg,EntryList/0/Text,0,-1,For a moment I thought you wouldn't recover. I hope you're strong enough to continue?,
 announcements,dlg,EntryList/0/Text,0,-1,Sir Gilbert Hawklin is pleased to announce a tourney will take place in Thunderstone to seek the greatest knights in the land. The tourney will be held in the fields on the east side of town.,
@@ -1366,32 +1366,32 @@ dla_dummycontest,dlg,ReplyList/4/Text,0,-1,Got it.,
 dla_dummycontest,dlg,ReplyList/5/Text,0,-1,<StartAction>[Begin!]</Start>,
 dla_dummycontest,dlg,ReplyList/6/Text,0,-1,I don't have that much gold.,
 dla_dummycontest,dlg,ReplyList/8/Text,0,-1,Alright.,
-dla_horse_convo,dlg,EntryList/0/Text,0,85794,<StartAction>[This horse looks you in the eye as you approach.]</Start>,
-dla_horse_convo,dlg,EntryList/1/Text,0,87502,<StartAction>[The horse nuzzles your hand as you take the reins...]</Start>,
+dla_horse_convo,dlg,EntryList/0/Text,0,85794,<StartAction>[This horse looks you in the eye as you approach.]</Start>,"""다시 함께하길 원하나?"""
+dla_horse_convo,dlg,EntryList/1/Text,0,87502,<StartAction>[The horse nuzzles your hand as you take the reins...]</Start>,"""'붉은 호랑이' 부족의 일원인 것처럼 맹렬한 충성으로 자네를 섬기겠네."""
 dla_horse_convo,dlg,EntryList/2/Text,0,-1,<StartAction>[You already have 3 horses of your own.]</Start>,
 dla_horse_convo,dlg,EntryList/3/Text,0,-1,<StartAction>[The horse pays no attention to you.]</Start>,
-dla_horse_convo,dlg,EntryList/4/Text,0,85795,<StartAction>[Your horse turns its head towards you.]</Start>,
-dla_horse_convo,dlg,EntryList/5/Text,0,87443,<StartAction>[Your horse stands placidly...]</Start>,
-dla_horse_convo,dlg,EntryList/6/Text,0,87451,<StartAction>[Your horse stands ready.]</Start>,
+dla_horse_convo,dlg,EntryList/4/Text,0,85795,<StartAction>[Your horse turns its head towards you.]</Start>,"""그래?"""
+dla_horse_convo,dlg,EntryList/5/Text,0,87443,<StartAction>[Your horse stands placidly...]</Start>,"""어떤 전술을 바꾸고 싶나?"""
+dla_horse_convo,dlg,EntryList/6/Text,0,87451,<StartAction>[Your horse stands ready.]</Start>,"""알겠네. 얼마나 떨어져 있길 원하나?"""
 dla_horse_convo,dlg,EntryList/7/Text,0,-1,"<StartAction>[Undaunted, your horse whickers as you make the change.]</Start>",
-dla_horse_convo,dlg,EntryList/8/Text,0,87454,"<StartAction>[Your warhorse raises its ears, clearly understanding your command.]</Start>",
-dla_horse_convo,dlg,ReplyList/0/Text,0,87646,<StartAction>[Leave the horse]</Start>,
-dla_horse_convo,dlg,ReplyList/1/Text,0,87647,<StartAction>[Take the horse]</Start>,
-dla_horse_convo,dlg,ReplyList/10/Text,0,87602,I don't want to change anything else right now.,
-dla_horse_convo,dlg,ReplyList/11/Text,0,87605,<StartAction>[Remove the muffling from your horse's hooves.]</Start>,
-dla_horse_convo,dlg,ReplyList/12/Text,0,87607,"<StartAction>[Muffle your horse's hooves, reducing the noise it makes, but also its speed.]</Start>",
-dla_horse_convo,dlg,ReplyList/13/Text,0,87610,<StartAction>[Change the length of your leading rein.]</Start>,
-dla_horse_convo,dlg,ReplyList/14/Text,0,87611,<StartAction>[Use 6 spans of leading rein.]</Start>,
-dla_horse_convo,dlg,ReplyList/15/Text,0,87612,<StartAction>[Use 4 spans of leading rein.]</Start>,
-dla_horse_convo,dlg,ReplyList/16/Text,0,87613,<StartAction>[Shorten it to 2 spans]</Start>,
-dla_horse_convo,dlg,ReplyList/18/Text,0,87614,<StartAction>[Give the command word to attack on sighting enemies]</Start>,
-dla_horse_convo,dlg,ReplyList/19/Text,0,87615,<StartAction>[Give the command word to attack only when you do.]</Start>,
-dla_horse_convo,dlg,ReplyList/21/Text,0,87616,<StartAction>[Open the packs on your horse.]</Start>,
+dla_horse_convo,dlg,EntryList/8/Text,0,87454,"<StartAction>[Your warhorse raises its ears, clearly understanding your command.]</Start>","""내 목숨으로 자네 생명을 지킬 거고, 전투에서 자네로부터 지시를 받겠네."""
+dla_horse_convo,dlg,ReplyList/0/Text,0,87646,<StartAction>[Leave the horse]</Start>,"""아니, 아직 아냐. 여기 있어."""
+dla_horse_convo,dlg,ReplyList/1/Text,0,87647,<StartAction>[Take the horse]</Start>,"""그래, 같이 가자."""
+dla_horse_convo,dlg,ReplyList/10/Text,0,87602,I don't want to change anything else right now.,"""지금은 다른 건 바꾸고 싶지 않아."""
+dla_horse_convo,dlg,ReplyList/11/Text,0,87605,<StartAction>[Remove the muffling from your horse's hooves.]</Start>,"""더 이상 은신하지 마."""
+dla_horse_convo,dlg,ReplyList/12/Text,0,87607,"<StartAction>[Muffle your horse's hooves, reducing the noise it makes, but also its speed.]</Start>","""항상 은신 상태를 유지하도록 해."""
+dla_horse_convo,dlg,ReplyList/13/Text,0,87610,<StartAction>[Change the length of your leading rein.]</Start>,"""나와의 거리를 조절하고 싶어."""
+dla_horse_convo,dlg,ReplyList/14/Text,0,87611,<StartAction>[Use 6 spans of leading rein.]</Start>,멀리 떨어져 있어.
+dla_horse_convo,dlg,ReplyList/15/Text,0,87612,<StartAction>[Use 4 spans of leading rein.]</Start>,중간 거리를 유지해.
+dla_horse_convo,dlg,ReplyList/16/Text,0,87613,<StartAction>[Shorten it to 2 spans]</Start>,가까이 붙어 있어.
+dla_horse_convo,dlg,ReplyList/18/Text,0,87614,<StartAction>[Give the command word to attack on sighting enemies]</Start>,"""적을 보는 즉시 공격해."""
+dla_horse_convo,dlg,ReplyList/19/Text,0,87615,<StartAction>[Give the command word to attack only when you do.]</Start>,"""나를 지키되 내가 공격하기 전까지는 공격하지 마."""
+dla_horse_convo,dlg,ReplyList/21/Text,0,87616,<StartAction>[Open the packs on your horse.]</Start>,"""네 장비를 조정하고 싶어."""
 dla_horse_convo,dlg,ReplyList/4/Text,0,-1,<StartAction>[Untie the horse from the hitching post]</Start>,
-dla_horse_convo,dlg,ReplyList/6/Text,0,87596,<StartAction>[Don't change anything.]</Start>,
+dla_horse_convo,dlg,ReplyList/6/Text,0,87596,<StartAction>[Don't change anything.]</Start>,"""신경 쓰지 마."""
 dla_horse_convo,dlg,ReplyList/7/Text,0,-1,<StartAction>[Tie all horses to the nearest hitching post.]</Start>,
-dla_horse_convo,dlg,ReplyList/8/Text,0,87597,<StartAction>[Release your horse and leave it behind.]</Start>,
-dla_horse_convo,dlg,ReplyList/9/Text,0,87601,<StartAction>[Make adjustments to your horse.]</Start>,
+dla_horse_convo,dlg,ReplyList/8/Text,0,87597,<StartAction>[Release your horse and leave it behind.]</Start>,"""우린 헤어져야 할 것 같아."""
+dla_horse_convo,dlg,ReplyList/9/Text,0,87601,<StartAction>[Make adjustments to your horse.]</Start>,"""네 전술을 바꾸고 싶어."""
 dla_joust_colors,dlg,EntryList/0/Text,0,-1,Greetings <sir/madam>.  How can I help you today?  Are you looking for colors for the tourney? Armor perhaps?,
 dla_joust_colors,dlg,EntryList/1/Text,0,-1,Thank you for returning the armor. Please place it in the chest.,
 dla_joust_colors,dlg,EntryList/10/Text,0,-1,Here they are.  Would you like to use these colors?,
@@ -1687,7 +1687,7 @@ edgar,dlg,EntryList/156/Text,0,-1,I don't think he did it deliberately.,
 edgar,dlg,EntryList/157/Text,0,-1,"Well of course not! I know little of Galaghard, but we have him to be thankful for defeating the Witch Lords.",
 edgar,dlg,EntryList/158/Text,0,-1,Him and the elves.,
 edgar,dlg,EntryList/159/Text,0,-1,"General dialogue in underground caves, WC. XXX",
-edgar,dlg,EntryList/16/Text,0,77917,Then TO BATTLE!,
+edgar,dlg,EntryList/16/Text,0,77917,Then TO BATTLE!,이제 자노스의 분노를 목격하라!
 edgar,dlg,EntryList/160/Text,0,-1,"Something lives in here, and it smells very bad.",
 edgar,dlg,EntryList/161/Text,0,-1,Nothing good could smell that bad. I think we should be ready for danger.,
 edgar,dlg,EntryList/162/Text,0,-1,"I have a tendency to agree with you on this one Godfroy. The memory it stirs is not a good one, though I can't think why.",
@@ -1698,7 +1698,7 @@ edgar,dlg,EntryList/166/Text,0,-1,"I can't place it, but it smells like mold.",
 edgar,dlg,EntryList/167/Text,0,-1,Or something like it...,
 edgar,dlg,EntryList/168/Text,0,-1,"That rules out pirates or smugglers, but what could it be?",
 edgar,dlg,EntryList/169/Text,0,-1,I can smell salt on the breeze. We must be approaching the lake.,
-edgar,dlg,EntryList/17/Text,0,77916,I'll have a go if you like...,
+edgar,dlg,EntryList/17/Text,0,77916,I'll have a go if you like...,에. 아마도. 자노스가 네 물건 좀 뒤져볼게. 감정할 수 있는 게 발견되면 말해주지. 충분하지?
 edgar,dlg,EntryList/170/Text,0,-1,"The water is brackish in the lake, almost like seawater. That's why farms are not common on the lake shore.",
 edgar,dlg,EntryList/171/Text,0,-1,I even read there are sharks in the lake!,
 edgar,dlg,EntryList/172/Text,0,-1,"I have read the same thing, something about a gate to the elemental plane of water... but unless we are intending to swim, I think we are likely safe from them on this quest.",
@@ -1720,7 +1720,7 @@ edgar,dlg,EntryList/186/Text,0,-1,What an odd place.,
 edgar,dlg,EntryList/187/Text,0,-1,"Torm preserve us, but that is a very nasty smell!",
 edgar,dlg,EntryList/188/Text,0,-1,I think it's coming from those toadstools there.,
 edgar,dlg,EntryList/189/Text,0,-1,And...oh...by Tyr...what a stench!,
-edgar,dlg,EntryList/19/Text,0,77921,Who is in need of this aid?,
+edgar,dlg,EntryList/19/Text,0,77921,Who is in need of this aid?,누구한테 시전하라는 거지?
 edgar,dlg,EntryList/190/Text,0,-1,"And...oh...Lord of Battles, what is that awful smell?",
 edgar,dlg,EntryList/191/Text,0,-1,And...oh...Sweet Lathander...what a stench!,
 edgar,dlg,EntryList/192/Text,0,-1,"Careful on the bridge, it's slippery.",
@@ -1732,7 +1732,7 @@ edgar,dlg,EntryList/197/Text,0,-1,"I shall guard you Lady Kathryn, have no fear 
 edgar,dlg,EntryList/198/Text,0,-1,"I can look after myself, thank you very much!",
 edgar,dlg,EntryList/199/Text,0,-1,No offence intended Lady Kathryn. You have already shown us your skills.,
 edgar,dlg,EntryList/2/Text,0,-1,"The skills I have always given my King and country are the same ones I offer you: my skill with the blade and my knowledge of battle. I am regarded as a fine warrior, but also due to long years of dedication to the service of Torm, I am a recognised paladin, able to meet evil with the divine powers of The Loyal Fury, Torm himself.",
-edgar,dlg,EntryList/20/Text,0,77922,Very well.,
+edgar,dlg,EntryList/20/Text,0,77922,Very well.,자노스가 하지...
 edgar,dlg,EntryList/200/Text,0,-1,"Oh I'm sorry, Edgar! I didn't mean to sound unkind, you just sounded so stuffy!",
 edgar,dlg,EntryList/201/Text,0,-1,"I take my duties seriously...too seriously perhaps, but I know your father would never forgive me if I returned and you did not.",
 edgar,dlg,EntryList/202/Text,0,-1,Somehow that doesn't surprise me.,
@@ -1743,7 +1743,7 @@ edgar,dlg,EntryList/206/Text,0,-1,This is a strange place to leave a pair of mir
 edgar,dlg,EntryList/207/Text,0,-1,"These are clearly magic mirrors of some sort. I have heard of mirrors that don't reflect light, but reflect instead only magic.",
 edgar,dlg,EntryList/208/Text,0,-1,"Well the mirrors are large; small enough to carry, but not for any extended time. I am guessing these mirrors are used for something here in the castle.",
 edgar,dlg,EntryList/209/Text,0,-1,The Keeper mentioned something about mirrors and beams involved in a puzzle. We should probably take these.,
-edgar,dlg,EntryList/21/Text,0,77921,Who do you want me to lay hands on?,
+edgar,dlg,EntryList/21/Text,0,77921,Who do you want me to lay hands on?,누구한테 시전하라는 거지?
 edgar,dlg,EntryList/210/Text,0,-1,They're not much use. I can't even fix my hair with these!,
 edgar,dlg,EntryList/211/Text,0,-1,"I think they must be important, otherwise they would not just be left standing here.",
 edgar,dlg,EntryList/212/Text,0,-1,"Well they look useless to me, but if you want to take them <FirstName>, go ahead.",
@@ -1754,7 +1754,7 @@ edgar,dlg,EntryList/216/Text,0,-1,I guess that must be the Mythallar.,
 edgar,dlg,EntryList/217/Text,0,-1,"We do not have the knowledge or the tools necessary to break a Mythallar. We must find out how it powers the castle, and break whatever channels its power.",
 edgar,dlg,EntryList/218/Text,0,-1,"This is not something that my sword or my faith can conquer. I hope you understand these things better than I, <FirstName>.",
 edgar,dlg,EntryList/219/Text,0,-1,I suppose the answers must lie here somewhere within the castle.,
-edgar,dlg,EntryList/22/Text,0,77922,Very well.,
+edgar,dlg,EntryList/22/Text,0,77922,Very well.,자노스가 하지...
 edgar,dlg,EntryList/220/Text,0,-1,"The question is, how do we shut off the Mythallar's power? Clearly we can't just climb up and stop it. There must be another way.",
 edgar,dlg,EntryList/221/Text,0,-1,It's very pretty isn't it? Seems a shame to try and stop it working.,
 edgar,dlg,EntryList/222/Text,0,-1,Oh child! Why can't you concentrate on the task in hand? It is for your father's good that we deal with this thing. Let us concentrate.,
@@ -1765,7 +1765,7 @@ edgar,dlg,EntryList/226/Text,0,-1,You are right. I will concentrate on the task 
 edgar,dlg,EntryList/227/Text,0,-1,Look at the state of this place! The water must come in here all the time!,
 edgar,dlg,EntryList/228/Text,0,-1,"I thought this place would be more...well magical, and less horrible. Why would a dragon want to live here?",
 edgar,dlg,EntryList/229/Text,0,-1,"I don't think I will even attempt to guess, Lady Kathryn. Dragons are not something I know that much about.",
-edgar,dlg,EntryList/23/Text,0,77918,What is it you wish me to cast?,
+edgar,dlg,EntryList/23/Text,0,77918,What is it you wish me to cast?,주문? 뭘 시전하길 원하는 거야?
 edgar,dlg,EntryList/230/Text,0,-1,"It does seem a pretty nasty place to live, doesn't it?",
 edgar,dlg,EntryList/231/Text,0,-1,"Because dragons live in the real world, child, not in fairy tales, and generally they are not the gentle, playful creatures you've read about in all of your books!",
 edgar,dlg,EntryList/232/Text,0,-1,"If anyone is going to live in here, there must be a system of watertight doors, otherwise they'd all drown.",
@@ -1776,7 +1776,7 @@ edgar,dlg,EntryList/236/Text,0,-1,"If anyone is going to live in here, there mus
 edgar,dlg,EntryList/237/Text,0,-1,"If anyone is going to live in here, there must be a system of watertight doors, otherwise they'd all drown.",
 edgar,dlg,EntryList/238/Text,0,-1,"This chamber stinks and it's big enough to house the dragon, so I think it must be Wyvernvapor's lair. It looks like we're in luck though. The dragon is away. We should use our time wisely.",
 edgar,dlg,EntryList/239/Text,0,-1,Maybe we can shut down the Mythallar and make our escape before the dragon returns.,
-edgar,dlg,EntryList/24/Text,0,77921,Upon whom should I cast it?,
+edgar,dlg,EntryList/24/Text,0,77921,Upon whom should I cast it?,누구한테 시전하라는 거지?
 edgar,dlg,EntryList/240/Text,0,-1,"This castle is very odd. It may seem deserted, but I thought I saw something move up on the roof.",
 edgar,dlg,EntryList/241/Text,0,-1,"If you look up at the top of the keep, you can see a watermark. I think the top of the castle never gets totally submerged. It's possible something might live up there.",
 edgar,dlg,EntryList/242/Text,0,-1,"We must be on our guard. If something is on the roof, it's a good vantage point from which to attack.",
@@ -1787,7 +1787,7 @@ edgar,dlg,EntryList/246/Text,0,-1,Though I don't see a way across this chasm.,
 edgar,dlg,EntryList/247/Text,0,-1,We could possibly jump a horse across. There's room for a run-up.,
 edgar,dlg,EntryList/248/Text,0,-1,I think we should stick to our mission though. After all the castle won't be in there.,
 edgar,dlg,EntryList/249/Text,0,-1,"At least, that's my view.",
-edgar,dlg,EntryList/25/Text,0,77922,Very well.,
+edgar,dlg,EntryList/25/Text,0,77922,Very well.,자노스가 하지...
 edgar,dlg,EntryList/250/Text,0,-1,I agree. We have a task that we should stick to.,
 edgar,dlg,EntryList/251/Text,0,-1,"The Mythallar might be though, or a secret way in.",
 edgar,dlg,EntryList/252/Text,0,-1,"Well, I suppose that is possible.",
@@ -1811,15 +1811,15 @@ edgar,dlg,EntryList/269/Text,0,-1,Well actually I have head that Wyvernvapor is 
 edgar,dlg,EntryList/27/Text,0,-1,Very well.,
 edgar,dlg,EntryList/270/Text,0,-1,Well I'm sure we'll find out soon enough.,
 edgar,dlg,EntryList/271/Text,0,-1,"I have heard many people moan about the prices in the Six Coffers Trading Coster, but they say you can't beat it for variety. I couldn't tell you if it's true though. Most of my equipment came either from my family or the army.",
-edgar,dlg,EntryList/272/Text,0,76057,"Well <FirstName>, as far as I am concerned, I still owe you one for rescuing me from the barrows. If you'll have me, I am ready to fight at your side once more.",
-edgar,dlg,EntryList/273/Text,0,78095,"Fine, if that is what you wish I shall remain here in the hope that you change your mind.",
-edgar,dlg,EntryList/274/Text,0,78289,<StartHighlight>Edgar is currently unconscious and will likely die if he is not given aid very soon.</Start>,
-edgar,dlg,EntryList/275/Text,0,76052,Was that death? A strange experience...Torm grant me I shan't face that again!,
-edgar,dlg,EntryList/276/Text,0,78287,"By Torm, Of course I will!",
-edgar,dlg,EntryList/277/Text,0,78288,"There's work to be done, <FirstName>. When you're ready, then so am I.",
+edgar,dlg,EntryList/272/Text,0,76057,"Well <FirstName>, as far as I am concerned, I still owe you one for rescuing me from the barrows. If you'll have me, I am ready to fight at your side once more.",자노스에게 다시 합류하자고 요청하러 온 거지?
+edgar,dlg,EntryList/273/Text,0,78095,"Fine, if that is what you wish I shall remain here in the hope that you change your mind.",젠장! 그럼 네가 정신 차릴 때까지 여기 있겠어.
+edgar,dlg,EntryList/274/Text,0,78289,<StartHighlight>Edgar is currently unconscious and will likely die if he is not given aid very soon.</Start>,"<StartHighlight>자노스는 현재 의식이 없고, 도움을 받지 못하면 곧 죽을 것입니다.</Start>"
+edgar,dlg,EntryList/275/Text,0,76052,Was that death? A strange experience...Torm grant me I shan't face that again!,흥. 네가 제대로 했다면 자노스가 이런 불쾌함을 겪지 않아도 됐을 텐데.
+edgar,dlg,EntryList/276/Text,0,78287,"By Torm, Of course I will!",알았어. 갈게.
+edgar,dlg,EntryList/277/Text,0,78288,"There's work to be done, <FirstName>. When you're ready, then so am I.",여기 남아 있겠어. 가고 싶으면 가.
 edgar,dlg,EntryList/278/Text,0,-1,Good <QuarterDay> <FullName>.,
 edgar,dlg,EntryList/279/Text,0,-1,You are not worthy to be called a Cormyrian. I will not help you.,
-edgar,dlg,EntryList/28/Text,0,77904,"Very well, I am a willing student...",
+edgar,dlg,EntryList/28/Text,0,77904,"Very well, I am a willing student...",자노스는 원하는 대로 실력과 능력을 키울 거다.
 edgar,dlg,EntryList/280/Text,0,-1,What is it?,
 edgar,dlg,EntryList/281/Text,0,-1,"Sounds like you have. I caught a couple more skulking about too, but probably the victory would not have been possible without your help.",
 edgar,dlg,EntryList/282/Text,0,-1,Didn't you have companions with you?,
@@ -1830,7 +1830,7 @@ edgar,dlg,EntryList/286/Text,0,-1,I see. Battle is like that sometimes...takes f
 edgar,dlg,EntryList/287/Text,0,-1," I've lost a lot of soldiers, but it could have been worse. I thank you sincerely, <FullName>. It is probable you have saved several lives. We must get back and report to Sir Hawklin.",
 edgar,dlg,EntryList/288/Text,0,-1,"No, can't you hear? There's still fighting going on somewhere. See if you can find it and help out.",
 edgar,dlg,EntryList/289/Text,0,-1,I'll meet you back here once the job is done.,
-edgar,dlg,EntryList/29/Text,0,77915,"Fine <FirstName>, if you think that is a good idea.",
+edgar,dlg,EntryList/29/Text,0,77915,"Fine <FirstName>, if you think that is a good idea.",*한숨* 좋아. 여기 내 장비다.
 edgar,dlg,EntryList/290/Text,0,-1,"I am not certain, but it's pretty systematic. Either they know they're good for loot, or whoever's behind these raids is looking for something, though I have no idea what.",
 edgar,dlg,EntryList/291/Text,0,-1,"We tracked a large force of raiders into this barrow, and had them trapped. Things were going well, when one of the scouts posted outside warned me a second force was approaching.",
 edgar,dlg,EntryList/292/Text,0,-1,"They never strike a barrow with two forces, so either they were tipped off by a scout, or they got lost and hit the wrong barrow. Whichever, the second force got here before we could disengage, and it was our turn to get trapped.",
@@ -1853,21 +1853,21 @@ edgar,dlg,EntryList/306/Text,0,-1,"I am not certain, but it's pretty systematic.
 edgar,dlg,EntryList/307/Text,0,-1,"We tracked a large force of raiders into this barrow and had them trapped. Things were going well, when one of the scouts posted outside warned me a second force was approaching.",
 edgar,dlg,EntryList/308/Text,0,-1,"They never strike a barrow with two forces, so either they were tipped off by a scout, or they got lost and hit the wrong barrow. Whichever, the second force got here before we could disengage and it was our turn to get trapped.",
 edgar,dlg,EntryList/309/Text,0,-1,"I got forced into a side passage, a small group of soldiers with me. We managed to kill our foes and drive our way back to the main branch. The rest of my troops got driven deeper into the barrow. That's where the fighting is and that's where I want you to go and help out.",
-edgar,dlg,EntryList/31/Text,0,77914,"Very sensible, I would say. Is there anything else?",
+edgar,dlg,EntryList/31/Text,0,77914,"Very sensible, I would say. Is there anything else?",알았어.
 edgar,dlg,EntryList/310/Text,0,-1,"No, you save yours, I've got my own. I'll be ready for combat again in a few minutes, but don't waste time waiting for me. Go and help the rest of the troops!",
 edgar,dlg,EntryList/311/Text,0,-1,Then why are you here?,
 edgar,dlg,EntryList/312/Text,0,-1,Are you serious? I suppose you were just walking in the forest right?,
 edgar,dlg,EntryList/313/Text,0,-1,"Only Sir Hawklin knows I'm here, so he must have sent you to help. Stop wasting time now. Men are dying while we talk.",
-edgar,dlg,EntryList/32/Text,0,77914,"If they're beyond you, they're likely beyond me too. I'll more likely have to smash my way past any locks, but I'll do my best. Was there anything else?",
-edgar,dlg,EntryList/33/Text,0,77914,That's a relief. Sneaking about sits very ill with me. Is there anything else?,
-edgar,dlg,EntryList/34/Text,0,77914,"There's a big difference between trying and succeeding. I'll do my best, but I make more noise than a charging boar. Was there anything else?",
-edgar,dlg,EntryList/35/Text,0,77914,"I'm not sure you'll find me much use in that, but I'll try. Is there anything else?",
-edgar,dlg,EntryList/36/Text,0,77914,"Agreed, I'll keep an eye out for enemies. It's a good plan <CUSTOM1020>. Anything more?",
+edgar,dlg,EntryList/32/Text,0,77914,"If they're beyond you, they're likely beyond me too. I'll more likely have to smash my way past any locks, but I'll do my best. Was there anything else?",알았어.
+edgar,dlg,EntryList/33/Text,0,77914,That's a relief. Sneaking about sits very ill with me. Is there anything else?,알았어.
+edgar,dlg,EntryList/34/Text,0,77914,"There's a big difference between trying and succeeding. I'll do my best, but I make more noise than a charging boar. Was there anything else?",알았어.
+edgar,dlg,EntryList/35/Text,0,77914,"I'm not sure you'll find me much use in that, but I'll try. Is there anything else?",알았어.
+edgar,dlg,EntryList/36/Text,0,77914,"Agreed, I'll keep an eye out for enemies. It's a good plan <CUSTOM1020>. Anything more?",알았어.
 edgar,dlg,EntryList/37/Text,0,-1,I am sorry if I have failed in that respect. How can I help you better on this?,
-edgar,dlg,EntryList/38/Text,0,77914,"That seems a little wasteful of our resources <FirstName>, but I am sure you know what you are doing. Is there anything else you need?",
-edgar,dlg,EntryList/39/Text,0,77914,"The direct approach. It lacks subtlety, but I prefer it that way. Is there anything else?",
+edgar,dlg,EntryList/38/Text,0,77914,"That seems a little wasteful of our resources <FirstName>, but I am sure you know what you are doing. Is there anything else you need?",알았어.
+edgar,dlg,EntryList/39/Text,0,77914,"The direct approach. It lacks subtlety, but I prefer it that way. Is there anything else?",알았어.
 edgar,dlg,EntryList/4/Text,0,-1,"My name is Edgar Truesilver, son of Sir Edrick Truesilver, from a fairly minor branch of the Truesilver family. I serve Cormyr in whatever way that I can.",
-edgar,dlg,EntryList/40/Text,0,77914,"Very well, then. Is there anything else?",
+edgar,dlg,EntryList/40/Text,0,77914,"Very well, then. Is there anything else?",알았어.
 edgar,dlg,EntryList/41/Text,0,-1,Just tell me where you want me.,
 edgar,dlg,EntryList/42/Text,0,-1,Just don't kill everything before I can get into combat! Is there anything else?,
 edgar,dlg,EntryList/43/Text,0,-1,Of course. Is there anything else?,
@@ -1878,18 +1878,18 @@ edgar,dlg,EntryList/47/Text,0,-1,"I'm sorry <FirstName>, but my training is not 
 edgar,dlg,EntryList/48/Text,0,-1,"But if there is anything else on tactics, we can discuss that. Was there?",
 edgar,dlg,EntryList/49/Text,0,-1,Yes?,
 edgar,dlg,EntryList/5/Text,0,-1,"I am an officer in the Purple Dragons, but also I am on friendly terms with Sir Gilbert Hawklin. My commission in the army is not a regular one: I have earned from the Royal Family in person, the right to come and go as I please. It can cause trouble with Oversword Laheralson, the commander in Thunderstone, as you have already seen, but the benefit is always for Cormyr.",
-edgar,dlg,EntryList/50/Text,0,89922,"You don't need to worry about me, <FirstName>, I have fought in more battles than I can remember. A few scratches goes with the territory.",
+edgar,dlg,EntryList/50/Text,0,89922,"You don't need to worry about me, <FirstName>, I have fought in more battles than I can remember. A few scratches goes with the territory.","""다 완전 끝내줘. 더할 나위 없지. 뭐... 내가 엄청 부자에 글래머한 하플링 아가씨들 하렘에 둘러싸여 있으면 더 좋겠지만... 그건 당장은 안 되겠지, 하하하!"""
 edgar,dlg,EntryList/51/Text,0,-1,Was there anything else?,
 edgar,dlg,EntryList/52/Text,0,-1,"Yes. In fact I feel Torm's hand in all of this. Meeting you was no coincidence, I am sure of it.",
-edgar,dlg,EntryList/53/Text,0,89931,"These are just scratches <FirstName>, nothing to worry about. I've had worse shaving.",
+edgar,dlg,EntryList/53/Text,0,89931,"These are just scratches <FirstName>, nothing to worry about. I've had worse shaving.","""프흣, 난 걱정 마. 그냥 긁힌 상처 몇 개야."""
 edgar,dlg,EntryList/54/Text,0,-1,Was there anything else?,
-edgar,dlg,EntryList/55/Text,0,89932,"I've been worse. All this blood can be really tough to get out of the armor though. If you could spare me some bandages, I wouldn't say no.",
+edgar,dlg,EntryList/55/Text,0,89932,"I've been worse. All this blood can be really tough to get out of the armor though. If you could spare me some bandages, I wouldn't say no.","""아까 좀 엉망이 되긴 했지, 헤. 볼 것까지는 없어."""
 edgar,dlg,EntryList/56/Text,0,-1,Else I'm sure I'll manage.,
-edgar,dlg,EntryList/57/Text,0,89933,"These wounds will leave me with a few more scars, that's for certain. I am in a worse state than in any battle I can remember. I mustn't grumble though, wounds are to be expected.",
-edgar,dlg,EntryList/58/Text,0,89930,"Well I can't actually see anything <FirstName>. I was hoping you might actually have noticed by now! Anyway, I'm not sure if there is anything you can do about it, but...",
-edgar,dlg,EntryList/59/Text,0,89934,"I'm fine, nothing I can't handle, just feel like I've caught fire, that's all. I think something might have poisoned me a little bit.",
+edgar,dlg,EntryList/57/Text,0,89933,"These wounds will leave me with a few more scars, that's for certain. I am in a worse state than in any battle I can remember. I mustn't grumble though, wounds are to be expected.","""그냥... 몇 군데 긁혔을 뿐이야, 별거 아냐."" 그는 얼굴을 찡그리며 빈 팔로 배에서 솟는 심한 피를 틀어막으려 합니다."
+edgar,dlg,EntryList/58/Text,0,89930,"Well I can't actually see anything <FirstName>. I was hoping you might actually have noticed by now! Anyway, I'm not sure if there is anything you can do about it, but...","""괜찮을 거야, 아마. 근데 여기가 정말 어두운 건지... 내가 진짜 눈이 먼 건지 말해 줄래? 살짝 걱정돼서."""
+edgar,dlg,EntryList/59/Text,0,89934,"I'm fine, nothing I can't handle, just feel like I've caught fire, that's all. I think something might have poisoned me a little bit.","""어이! 완전 멀쩡해-내 혈관을 타고 흐르는 불덩이만 빼면 말이지. 그건... 알아서 해결되겠지..."""
 edgar,dlg,EntryList/6/Text,0,-1,"Now is such a time. I would like to join you on your current quest. I owe you one, <CUSTOM1020>, but this is also for Cormyr. Will you have me at your side?",
-edgar,dlg,EntryList/60/Text,0,89935,"No, I am fairly certain I've caught something. Disease always follows a soldier, I should know that, but this is a very bad time to be ill.",
+edgar,dlg,EntryList/60/Text,0,89935,"No, I am fairly certain I've caught something. Disease always follows a soldier, I should know that, but this is a very bad time to be ill.","""피부에 이상한 반점이 좀 생긴 것만 빼면 나쁘지 않아. 이거... 안 좋은 건가?"""
 edgar,dlg,EntryList/61/Text,0,-1,"If you have something to cure me, I would appreciate your using it. Otherwise, I am certain I can manage.",
 edgar,dlg,EntryList/62/Text,0,-1,I don't have anything else to say just now. Perhaps later.,
 edgar,dlg,EntryList/63/Text,0,-1,"I told you how the queen had laid out the truth about Elaine before me? That was a defining moment for me. She is a smart woman, Filfaeril. She put me in a place where my love and my duty were directly in opposition. One of them had to break. I chose to believe her, as I think she always knew I would. Duty won out over love.",
@@ -1951,7 +1951,7 @@ edgar,dlg,ReplyList/113/Text,0,-1,I want to discuss your training.,
 edgar,dlg,ReplyList/115/Text,0,-1,I think we are done for the moment.,
 edgar,dlg,ReplyList/116/Text,0,-1,Yes.,
 edgar,dlg,ReplyList/117/Text,0,-1,Let's talk.,
-edgar,dlg,ReplyList/118/Text,0,90208,Is everything OK?,
+edgar,dlg,ReplyList/118/Text,0,90208,Is everything OK?,"""어떻게 지내?"""
 edgar,dlg,ReplyList/12/Text,0,-1,I'm done.,
 edgar,dlg,ReplyList/124/Text,0,-1,I'll see what I have...,
 edgar,dlg,ReplyList/125/Text,0,-1,Tell me a little more about yourself.,
@@ -1993,7 +1993,7 @@ edgar,dlg,ReplyList/22/Text,0,-1,I want you to use your paladin abilities.,
 edgar,dlg,ReplyList/23/Text,0,-1,I need to talk about something else.,
 edgar,dlg,ReplyList/24/Text,0,-1,I need you to remove disease.,
 edgar,dlg,ReplyList/25/Text,0,-1,I've changed my mind. Let's discuss something else.,
-edgar,dlg,ReplyList/26/Text,0,78373,I am.,
+edgar,dlg,ReplyList/26/Text,0,78373,I am.,나한테 시전해줘.
 edgar,dlg,ReplyList/275/Text,0,-1,Why would that be useful?,
 edgar,dlg,ReplyList/276/Text,0,-1,Can you tell me what they might be for?,
 edgar,dlg,ReplyList/28/Text,0,-1,I need you to lay on hands.,
@@ -2003,16 +2003,16 @@ edgar,dlg,ReplyList/294/Text,0,-1,"Kathryn, stop being stupid and stick to our q
 edgar,dlg,ReplyList/296/Text,0,-1,Must you do this now?,
 edgar,dlg,ReplyList/298/Text,0,-1,That is enough. I trust you both. Let's concentrate on the Mythallar.,
 edgar,dlg,ReplyList/3/Text,0,-1,Tell me a little about yourself.,
-edgar,dlg,ReplyList/30/Text,0,78373,Me.,
+edgar,dlg,ReplyList/30/Text,0,78373,Me.,나한테 시전해줘.
 edgar,dlg,ReplyList/308/Text,0,-1,I agree.,
 edgar,dlg,ReplyList/309/Text,0,-1,What for?,
-edgar,dlg,ReplyList/31/Text,0,78374,Yourself.,
+edgar,dlg,ReplyList/31/Text,0,78374,Yourself.,자네한테 시전해줘.
 edgar,dlg,ReplyList/311/Text,0,-1,You're imagining things.,
 edgar,dlg,ReplyList/314/Text,0,-1,What did you see?,
-edgar,dlg,ReplyList/33/Text,0,78318,I need you to cast a spell.,
-edgar,dlg,ReplyList/34/Text,0,78319,Let's talk about something else.,
-edgar,dlg,ReplyList/344/Text,0,78631,And I have still need of your help. Travel with me once more.,
-edgar,dlg,ReplyList/346/Text,0,78632,And you should remain here until you recover fully. You are yet weak.,
+edgar,dlg,ReplyList/33/Text,0,78318,I need you to cast a spell.,주문을 시전해줘.
+edgar,dlg,ReplyList/34/Text,0,78319,Let's talk about something else.,아니야.
+edgar,dlg,ReplyList/344/Text,0,78631,And I have still need of your help. Travel with me once more.,가자.
+edgar,dlg,ReplyList/346/Text,0,78632,And you should remain here until you recover fully. You are yet weak.,여기 있어.
 edgar,dlg,ReplyList/348/Text,0,-1,Goodbye for now.,
 edgar,dlg,ReplyList/349/Text,0,-1,I think I've cleaned out the enemy.,
 edgar,dlg,ReplyList/35/Text,0,-1,Prayer.,
@@ -2031,7 +2031,7 @@ edgar,dlg,ReplyList/365/Text,0,-1,Do you need healing?,
 edgar,dlg,ReplyList/366/Text,0,-1,I don't want to do any more fighting.,
 edgar,dlg,ReplyList/367/Text,0,-1,<StartCheck>[Bluff]</Start> I heard the noise so I came to investigate.,
 edgar,dlg,ReplyList/369/Text,0,-1,I came to find you.,
-edgar,dlg,ReplyList/37/Text,0,78369,Greater Magic Weapon,
+edgar,dlg,ReplyList/37/Text,0,78369,Greater Magic Weapon,황소의 근력
 edgar,dlg,ReplyList/370/Text,0,-1,I'm going to find and slay the rest of the enemy.,
 edgar,dlg,ReplyList/372/Text,0,-1,I am <FullName>,
 edgar,dlg,ReplyList/373/Text,0,-1,That's what Sir Hawklin sent me for.,
@@ -2047,16 +2047,16 @@ edgar,dlg,ReplyList/385/Text,0,-1,Do you need healing?,
 edgar,dlg,ReplyList/386/Text,0,-1,I don't want to do any more fighting.,
 edgar,dlg,ReplyList/387/Text,0,-1,<StartCheck>[Bluff]</Start> I heard the noise so I came to investigate.,
 edgar,dlg,ReplyList/389/Text,0,-1,I came to find you.,
-edgar,dlg,ReplyList/39/Text,0,78364,Eagle's Splendor.,
+edgar,dlg,ReplyList/39/Text,0,78364,Eagle's Splendor.,독수리의 위엄
 edgar,dlg,ReplyList/40/Text,0,-1,Divine Favor,
 edgar,dlg,ReplyList/41/Text,0,-1,Dispel Magic.,
 edgar,dlg,ReplyList/42/Text,0,-1,Death Ward.,
-edgar,dlg,ReplyList/43/Text,0,78369,Deafening Clang,
-edgar,dlg,ReplyList/51/Text,0,78369,Bless Weapon,
+edgar,dlg,ReplyList/43/Text,0,78369,Deafening Clang,황소의 근력
+edgar,dlg,ReplyList/51/Text,0,78369,Bless Weapon,황소의 근력
 edgar,dlg,ReplyList/52/Text,0,-1,Bless.,
 edgar,dlg,ReplyList/56/Text,0,-1,Aura of Glory.,
 edgar,dlg,ReplyList/57/Text,0,-1,Aid.,
-edgar,dlg,ReplyList/58/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Edgar]</Start>.,
+edgar,dlg,ReplyList/58/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Edgar]</Start>.,레벨업을 해줬으면 해.
 edgar,dlg,ReplyList/6/Text,0,-1,Why do you have these special rights you mentioned?,
 edgar,dlg,ReplyList/60/Text,0,-1,Dismount from your horse.,
 edgar,dlg,ReplyList/61/Text,0,-1,Mount up!,
@@ -2568,7 +2568,7 @@ godfroy,dlg,EntryList/126/Text,0,-1,"Well, kings are not infallible it's true, t
 godfroy,dlg,EntryList/127/Text,0,-1,It's hard to imagine it was built by Cormyrians when you see it now filled with such evil.,
 godfroy,dlg,EntryList/128/Text,0,-1,King Galaghard must have built this place to keep evil at bay. All he achieved was to make them a new stronghold.,
 godfroy,dlg,EntryList/129/Text,0,-1,Was Galaghard evil then?,
-godfroy,dlg,EntryList/13/Text,0,77917,Then TO BATTLE!,
+godfroy,dlg,EntryList/13/Text,0,77917,Then TO BATTLE!,이제 자노스의 분노를 목격하라!
 godfroy,dlg,EntryList/130/Text,0,-1,I don't think he did it deliberately.,
 godfroy,dlg,EntryList/131/Text,0,-1,"Well of course not! I know little of Galaghard, but we have him to be thankful for defeating the Witch Lords.",
 godfroy,dlg,EntryList/132/Text,0,-1,Him and the elves.,
@@ -2579,7 +2579,7 @@ godfroy,dlg,EntryList/136/Text,0,-1,"I didn't think so, and besides, he will nee
 godfroy,dlg,EntryList/137/Text,0,-1,We were also due to pay his rents. Perhaps he'll be more interested in that.,
 godfroy,dlg,EntryList/138/Text,0,-1,"Oh come on, Jonas! In a time like this you think Valetto's going to ask us for money!",
 godfroy,dlg,EntryList/139/Text,0,-1,Don't you think he might help us? I think we should ask.,
-godfroy,dlg,EntryList/14/Text,0,77916,I'll have a go if you like... ,
+godfroy,dlg,EntryList/14/Text,0,77916,I'll have a go if you like... ,에. 아마도. 자노스가 네 물건 좀 뒤져볼게. 감정할 수 있는 게 발견되면 말해주지. 충분하지?
 godfroy,dlg,EntryList/140/Text,0,-1,True enough.,
 godfroy,dlg,EntryList/141/Text,0,-1,Valetto owned our farms.,
 godfroy,dlg,EntryList/142/Text,0,-1,"I have met him once, when our father first negotiated the rents on the farms. A friendly sort, but a hard bargainer.",
@@ -2612,7 +2612,7 @@ godfroy,dlg,EntryList/166/Text,0,-1,"Don't regret it, Godfroy. You had no idea w
 godfroy,dlg,EntryList/167/Text,0,-1,"Well, revenge will make you feel better, I'm sure.",
 godfroy,dlg,EntryList/168/Text,0,-1,"Well, revenge will make you feel better, I'm sure.",
 godfroy,dlg,EntryList/169/Text,0,-1,"No, it is not revenge I want, but to stop such a dreadful thing happening to others.",
-godfroy,dlg,EntryList/17/Text,0,89234,What sort?,
+godfroy,dlg,EntryList/17/Text,0,89234,What sort?,"""알겠어. 어떤 종류의 강화 주문을 사용하길 원하나?"""
 godfroy,dlg,EntryList/170/Text,0,-1,"I once sailed on the lake with my cousin Ayesunder. It is not really such a big stretch of water, and it was always an embarrassment to him that he could never find the pirates on the lake.",
 godfroy,dlg,EntryList/171/Text,0,-1,I read somewhere there are sharks in the lake. I'm not sure I'd want to sail on it.,
 godfroy,dlg,EntryList/172/Text,0,-1,"Where magic is concerned, you can never be sure of anything. Your cousin must have endured a lot of comments. Well I know how that can feel...",
@@ -2623,7 +2623,7 @@ godfroy,dlg,EntryList/176/Text,0,-1,I hope that too... ,
 godfroy,dlg,EntryList/177/Text,0,-1,What an odd place.,
 godfroy,dlg,EntryList/178/Text,0,-1,And... oh... by Tyr... what a stench!,
 godfroy,dlg,EntryList/179/Text,0,-1,"And... oh... Lord of Battles, what is that awful smell?",
-godfroy,dlg,EntryList/18/Text,0,86380,"Is there something else, then?",
+godfroy,dlg,EntryList/18/Text,0,86380,"Is there something else, then?","""그럼 또 다른 일이 있나?"""
 godfroy,dlg,EntryList/180/Text,0,-1,And... oh... Sweet Lathander... what a stench!,
 godfroy,dlg,EntryList/181/Text,0,-1,"Torm preserve us, but that is a very nasty smell!",
 godfroy,dlg,EntryList/182/Text,0,-1,I think it's coming from those toadstools there.,
@@ -2634,7 +2634,7 @@ godfroy,dlg,EntryList/186/Text,0,-1,Somehow that doesn't surprise me.,
 godfroy,dlg,EntryList/187/Text,0,-1,"Bats are harmless, Kathryn. You shouldn't believe all that superstition about them.",
 godfroy,dlg,EntryList/188/Text,0,-1,"Anyway, don't fear, <FirstName> and I are with you.",
 godfroy,dlg,EntryList/189/Text,0,-1,I appreciate that Godfory.,
-godfroy,dlg,EntryList/19/Text,0,89237,And what is my target?,
+godfroy,dlg,EntryList/19/Text,0,89237,And what is my target?,"""그럼 내 목표는 뭐지?"""
 godfroy,dlg,EntryList/190/Text,0,-1,This is a strange place to leave a pair of mirrors.,
 godfroy,dlg,EntryList/191/Text,0,-1,"These are clearly magic mirrors of some sort. I have heard of mirrors that don't reflect light, but reflect instead only magic.",
 godfroy,dlg,EntryList/192/Text,0,-1,I am not sure.,
@@ -2646,7 +2646,7 @@ godfroy,dlg,EntryList/197/Text,0,-1,The Keeper mentioned something about mirrors
 godfroy,dlg,EntryList/198/Text,0,-1,They're not much use. I can't even fix my hair with these!,
 godfroy,dlg,EntryList/199/Text,0,-1,"I think they must be important, otherwise they would not just be left standing here.",
 godfroy,dlg,EntryList/2/Text,0,-1,Well I'm pretty useful with a weapon now. I've had to defend my home before. I just wish I could have been there this time... ,
-godfroy,dlg,EntryList/20/Text,0,86381,So be it!,
+godfroy,dlg,EntryList/20/Text,0,86381,So be it!,"""좋아!"""
 godfroy,dlg,EntryList/200/Text,0,-1,"Well they look useless to me, but if you want to take them <FirstName>, go ahead.",
 godfroy,dlg,EntryList/201/Text,0,-1,"These are not ordinary mirrors. Look, their surface is shiny but they don't reflect anything.",
 godfroy,dlg,EntryList/202/Text,0,-1,Let's take them. They must have a use.,
@@ -2657,7 +2657,7 @@ godfroy,dlg,EntryList/206/Text,0,-1,"We do not have the knowledge or the tools n
 godfroy,dlg,EntryList/207/Text,0,-1,"This is not something that my sword or my faith can conquer. I hope you understand these things better than I, <FirstName>.",
 godfroy,dlg,EntryList/208/Text,0,-1,I suppose the answers must lie here somewhere within the castle.,
 godfroy,dlg,EntryList/209/Text,0,-1,"The question is, how do we shut off the Mythallar's power? Clearly we can't just climb up and jam it with a stick. There must be another way.",
-godfroy,dlg,EntryList/21/Text,0,77918,Sure. What's it to be?,
+godfroy,dlg,EntryList/21/Text,0,77918,Sure. What's it to be?,주문? 뭘 시전하길 원하는 거야?
 godfroy,dlg,EntryList/210/Text,0,-1,I just hope we can find it.,
 godfroy,dlg,EntryList/211/Text,0,-1,It's very pretty isn't it? Seems a shame to try and stop it working.,
 godfroy,dlg,EntryList/212/Text,0,-1,Oh child! Why can't you concentrate on the task in hand? It is for your father's good that we deal with this thing. Let us concentrate.,
@@ -2718,7 +2718,7 @@ godfroy,dlg,EntryList/266/Text,0,-1,Can I hear fighting? I think there's a battl
 godfroy,dlg,EntryList/267/Text,0,-1,There must be more of them about. I can't wait to kill a few. Lena's death needs to be paid for!,
 godfroy,dlg,EntryList/268/Text,0,-1,"It's very strange. Edgar Truesilver has a fine reputation as a commander. He would have posted sentries outside the barrow, so the enemy must have come up behind him.",
 godfroy,dlg,EntryList/269/Text,0,-1,It's Jonas... he seems distant.,
-godfroy,dlg,EntryList/27/Text,0,77922,Very well.,
+godfroy,dlg,EntryList/27/Text,0,77922,Very well.,자노스가 하지...
 godfroy,dlg,EntryList/270/Text,0,-1,"It's nothing, just...",
 godfroy,dlg,EntryList/271/Text,0,-1,"I wish you had come back sooner, <FirstName>.",
 godfroy,dlg,EntryList/272/Text,0,-1,"I'm sure it wouldn't have made a difference, but it just feels like... things would have gone better. We would never have been forced to leave the King's Forest, then Lena would not have... died.",
@@ -2729,7 +2729,7 @@ godfroy,dlg,EntryList/276/Text,0,-1,I don't care about other people. I just want
 godfroy,dlg,EntryList/277/Text,0,-1,"Well, I'm sure Sir Hawklin will help us.",
 godfroy,dlg,EntryList/278/Text,0,-1,"You sound like Godfroy. Vengeance is what I want, <FirstName>, and I expect Sir Hawklin to give it to us.",
 godfroy,dlg,EntryList/279/Text,0,-1,"I'm sure it wouldn't have made a difference, but it just feels like... things would have gone better. We would never have been forced to leave the King's Forest, then Lena would not have... died.",
-godfroy,dlg,EntryList/28/Text,0,77904,Why don't you show me?,
+godfroy,dlg,EntryList/28/Text,0,77904,Why don't you show me?,자노스는 원하는 대로 실력과 능력을 키울 거다.
 godfroy,dlg,EntryList/280/Text,0,-1,"The Blight would still have come, whether <FirstName> was here or not, and though my parents' deaths hurt, I am sure that it was the will of Lathander.",
 godfroy,dlg,EntryList/281/Text,0,-1,"You sound like your father, Godfroy. I don't think it was anyone's will that Lena or our father died, just the work of something evil.",
 godfroy,dlg,EntryList/282/Text,0,-1,Well we will do what we can so others don't have to share our pain.,
@@ -2740,7 +2740,7 @@ godfroy,dlg,EntryList/286/Text,0,-1,We should be nearly at the place Sir Hawklin
 godfroy,dlg,EntryList/287/Text,0,-1,"I'm sure there's nothing for us to worry about. If Sir Hawklin trusts the Forest Folk, then I'm sure we can.",
 godfroy,dlg,EntryList/288/Text,0,-1,"Yeah, well Godfroy, on this I prefer to be cautious rather than walk into a trap.",
 godfroy,dlg,EntryList/289/Text,0,-1,"I think we should be on our guard. There's lots said about the Forest Folk, and it's not all nice.",
-godfroy,dlg,EntryList/29/Text,0,77915,"Fine <FirstName>, if you think that is a good idea.",
+godfroy,dlg,EntryList/29/Text,0,77915,"Fine <FirstName>, if you think that is a good idea.",*한숨* 좋아. 여기 내 장비다.
 godfroy,dlg,EntryList/290/Text,0,-1,"Let's just hope there isn't a trap ahead, laid by this Manthis person.",
 godfroy,dlg,EntryList/291/Text,0,-1,"I have heard many people moan about the prices in the Six Coffers Trading Coster, but they say you can't beat it for variety.",
 godfroy,dlg,EntryList/292/Text,0,-1,"This is Thunderstone. I've heard the local commander here is a little bit rough with the laws, so we should be careful.",
@@ -2759,13 +2759,13 @@ godfroy,dlg,EntryList/302/Text,0,-1,"I guess you've not been here for a while, h
 godfroy,dlg,EntryList/303/Text,0,-1,"You left for too long, <FirstName>. In Cormyr you can't carry weapons that are not Peacebonded without a Charter allowing you to do so. A woodaxe or a hunting bow are fine, but anything more used to mean trouble.",
 godfroy,dlg,EntryList/304/Text,0,-1,"In this area they used to take Peacebonding very seriously. If anyone was seen without a Peacestring tied over their weapon, and was found without a Charter, they were arrested immediately. ",
 godfroy,dlg,EntryList/305/Text,0,-1,"But things changed when war started. Cormyr was in such desperate danger that we all carried weapons, and freely too. I doubt Peacebonding is as important as it used to be.",
-godfroy,dlg,EntryList/306/Text,0,76057,Hello <FirstName>. Shall we work together once more?,
-godfroy,dlg,EntryList/307/Text,0,78095,"I'll stay here then, but if you need me, just say. Whatever our differences, I'll follow you until this is resolved.",
-godfroy,dlg,EntryList/308/Text,0,78289,<StartHighlight>Godfroy is currently unconscious and will likely die if he is not given aid very soon.</Start>,
-godfroy,dlg,EntryList/309/Text,0,76052,Lathander spare me! I thought I had died!,
+godfroy,dlg,EntryList/306/Text,0,76057,Hello <FirstName>. Shall we work together once more?,자노스에게 다시 합류하자고 요청하러 온 거지?
+godfroy,dlg,EntryList/307/Text,0,78095,"I'll stay here then, but if you need me, just say. Whatever our differences, I'll follow you until this is resolved.",젠장! 그럼 네가 정신 차릴 때까지 여기 있겠어.
+godfroy,dlg,EntryList/308/Text,0,78289,<StartHighlight>Godfroy is currently unconscious and will likely die if he is not given aid very soon.</Start>,"<StartHighlight>자노스는 현재 의식이 없고, 도움을 받지 못하면 곧 죽을 것입니다.</Start>"
+godfroy,dlg,EntryList/309/Text,0,76052,Lathander spare me! I thought I had died!,흥. 네가 제대로 했다면 자노스가 이런 불쾌함을 겪지 않아도 됐을 텐데.
 godfroy,dlg,EntryList/31/Text,0,-1,That's probably sensible. Is there anything else?,
-godfroy,dlg,EntryList/310/Text,0,78287,"Until this is resolved, <FirstName>, I will follow you to the end, no matter what are differences are.",
-godfroy,dlg,EntryList/311/Text,0,78288,"I'll stay then, but if you need me, just say. Whatever our differences, I'll follow you until this is resolved.",
+godfroy,dlg,EntryList/310/Text,0,78287,"Until this is resolved, <FirstName>, I will follow you to the end, no matter what are differences are.",알았어. 갈게.
+godfroy,dlg,EntryList/311/Text,0,78288,"I'll stay then, but if you need me, just say. Whatever our differences, I'll follow you until this is resolved.",여기 남아 있겠어. 가고 싶으면 가.
 godfroy,dlg,EntryList/312/Text,0,-1,Good <QuarterDay> <FullName>.,
 godfroy,dlg,EntryList/313/Text,0,-1,"We are done with each other, <FirstName>. Leave me in peace.",
 godfroy,dlg,EntryList/314/Text,0,-1,"I can't bare to look, <FirstName>. We should head for Morfen soon. The quicker we reach Sir Hawklin, the quicker we can warn others.",
@@ -2781,8 +2781,8 @@ godfroy,dlg,EntryList/39/Text,0,-1,"Yes, it's better not to take risks, I agree.
 godfroy,dlg,EntryList/4/Text,0,-1,"It's a shame we never got a chance to know each other better <FirstName>, though of course both Jonas and your father mentioned you often.",
 godfroy,dlg,EntryList/40/Text,0,-1,"I think my skills would be better saved for when they're really needed, but as you like.",
 godfroy,dlg,EntryList/41/Text,0,-1,Is there anything else you need?,
-godfroy,dlg,EntryList/42/Text,0,77914,I hadn't planned to just watch! Is there anything else?,
-godfroy,dlg,EntryList/43/Text,0,77914,"That's easy to say <FirstName>, but only as long as no one is at risk. Was there anything more?",
+godfroy,dlg,EntryList/42/Text,0,77914,I hadn't planned to just watch! Is there anything else?,알았어.
+godfroy,dlg,EntryList/43/Text,0,77914,"That's easy to say <FirstName>, but only as long as no one is at risk. Was there anything more?",알았어.
 godfroy,dlg,EntryList/44/Text,0,-1,Just tell me where you want me.,
 godfroy,dlg,EntryList/45/Text,0,-1,As you wish. Is there anything else?,
 godfroy,dlg,EntryList/46/Text,0,-1,"You have a lot more experience than I do <FirstName>. You can help me, I'm certain.",
@@ -2792,19 +2792,19 @@ godfroy,dlg,EntryList/49/Text,0,-1,"At the moment I'm trying to balance between 
 godfroy,dlg,EntryList/5/Text,0,-1,My family have known yours since almost before you left. We owned one of the farms near yours in the King's Forest. The war really pushed us together though. Those were tough times.,
 godfroy,dlg,EntryList/50/Text,0,-1,That's a good suggestion <FirstName>. I'll do that.,
 godfroy,dlg,EntryList/51/Text,0,-1,Yes?,
-godfroy,dlg,EntryList/52/Text,0,89922,Absolutely! Don't worry about me <FirstName>. I won't let you down.,
+godfroy,dlg,EntryList/52/Text,0,89922,Absolutely! Don't worry about me <FirstName>. I won't let you down.,"""다 완전 끝내줘. 더할 나위 없지. 뭐... 내가 엄청 부자에 글래머한 하플링 아가씨들 하렘에 둘러싸여 있으면 더 좋겠지만... 그건 당장은 안 되겠지, 하하하!"""
 godfroy,dlg,EntryList/53/Text,0,-1,Was there anything else?,
 godfroy,dlg,EntryList/54/Text,0,-1,"I am fine, <FirstName>. I don't believe we can fail in this quest to be honest. Lathander is with us I'm sure.",
-godfroy,dlg,EntryList/55/Text,0,89931,"I think I will soon develop my first scars, but I would say they are all worth it if it means one less innocent is killed.",
+godfroy,dlg,EntryList/55/Text,0,89931,"I think I will soon develop my first scars, but I would say they are all worth it if it means one less innocent is killed.","""프흣, 난 걱정 마. 그냥 긁힌 상처 몇 개야."""
 godfroy,dlg,EntryList/56/Text,0,-1,Was there anything else?,
-godfroy,dlg,EntryList/57/Text,0,89932,Would you call these scratches <FirstName>? Or is it OK to say I am wounded and need healing? Do you have anything?,
-godfroy,dlg,EntryList/58/Text,0,89933,"I knew battle would be tough, but how do you continue with wounds like these? Please heal me if you have anything.",
-godfroy,dlg,EntryList/59/Text,0,89930,"I can't see, <FirstName>. By Lathander, I had not imagined how bad this feels. Do you have anything that can help?",
+godfroy,dlg,EntryList/57/Text,0,89932,Would you call these scratches <FirstName>? Or is it OK to say I am wounded and need healing? Do you have anything?,"""아까 좀 엉망이 되긴 했지, 헤. 볼 것까지는 없어."""
+godfroy,dlg,EntryList/58/Text,0,89933,"I knew battle would be tough, but how do you continue with wounds like these? Please heal me if you have anything.","""그냥... 몇 군데 긁혔을 뿐이야, 별거 아냐."" 그는 얼굴을 찡그리며 빈 팔로 배에서 솟는 심한 피를 틀어막으려 합니다."
+godfroy,dlg,EntryList/59/Text,0,89930,"I can't see, <FirstName>. By Lathander, I had not imagined how bad this feels. Do you have anything that can help?","""괜찮을 거야, 아마. 근데 여기가 정말 어두운 건지... 내가 진짜 눈이 먼 건지 말해 줄래? 살짝 걱정돼서."""
 godfroy,dlg,EntryList/6/Text,0,-1,"We should stick together <FirstName>, that's the best way to see this through. How about it?",
-godfroy,dlg,EntryList/60/Text,0,89934,"My head burns, <FirstName>, and my muscles are cramping! I think I must be poisoned!",
+godfroy,dlg,EntryList/60/Text,0,89934,"My head burns, <FirstName>, and my muscles are cramping! I think I must be poisoned!","""어이! 완전 멀쩡해-내 혈관을 타고 흐르는 불덩이만 빼면 말이지. 그건... 알아서 해결되겠지..."""
 godfroy,dlg,EntryList/61/Text,0,-1,"If you have an antidote, that would be great, otherwise I'll just have to manage.",
 godfroy,dlg,EntryList/62/Text,0,-1,"OK, I'll do my best. Was there anything else?",
-godfroy,dlg,EntryList/63/Text,0,89935,I remember when the Blight struck our farms in the King's Forest it made us all sick. I feel a bit like that. I don't suppose there's anything we can do about it though.,
+godfroy,dlg,EntryList/63/Text,0,89935,I remember when the Blight struck our farms in the King's Forest it made us all sick. I feel a bit like that. I don't suppose there's anything we can do about it though.,"""피부에 이상한 반점이 좀 생긴 것만 빼면 나쁘지 않아. 이거... 안 좋은 건가?"""
 godfroy,dlg,EntryList/64/Text,0,-1,Was there anything else?,
 godfroy,dlg,EntryList/65/Text,0,-1,We have more important things to worry about just now. Perhaps later.,
 godfroy,dlg,EntryList/66/Text,0,-1,"I am the last Cormas, and if we should fail in this quest, I will forever be the last Cormas... ",
@@ -2847,14 +2847,14 @@ godfroy,dlg,EntryList/99/Text,0,-1,"It looks largely undisturbed. Whoever dug th
 godfroy,dlg,ReplyList/0/Text,0,-1,Greetings Godfroy.,
 godfroy,dlg,ReplyList/1/Text,0,-1,Do you have any skills I could use?,
 godfroy,dlg,ReplyList/105/Text,0,-1,I've changed my mind. Let's discuss something else.,
-godfroy,dlg,ReplyList/106/Text,0,102389,Cast on all the party members.,
-godfroy,dlg,ReplyList/108/Text,0,102397,Cast it on <CUSTOM77102>.,
+godfroy,dlg,ReplyList/106/Text,0,102389,Cast on all the party members.,"""모든 파티원에게 시전해."""
+godfroy,dlg,ReplyList/108/Text,0,102397,Cast it on <CUSTOM77102>.,"""<CUSTOM77102>에게 시전해."""
 godfroy,dlg,ReplyList/11/Text,0,-1,I'm done.,
-godfroy,dlg,ReplyList/110/Text,0,102398,Cast it on <CUSTOM77101>.,
+godfroy,dlg,ReplyList/110/Text,0,102398,Cast it on <CUSTOM77101>.,"""<CUSTOM77101>에게 시전해."""
 godfroy,dlg,ReplyList/117/Text,0,-1,Bless.,
 godfroy,dlg,ReplyList/119/Text,0,-1,Aid.,
 godfroy,dlg,ReplyList/12/Text,0,-1,"Thank you for your help, but now it is time we parted company.",
-godfroy,dlg,ReplyList/120/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Godfroy]</Start>.,
+godfroy,dlg,ReplyList/120/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Godfroy]</Start>.,레벨업을 해줬으면 해.
 godfroy,dlg,ReplyList/122/Text,0,-1,Dismount from your horse.,
 godfroy,dlg,ReplyList/123/Text,0,-1,Mount up!,
 godfroy,dlg,ReplyList/126/Text,0,-1,Let's discuss tactics.,
@@ -2904,7 +2904,7 @@ godfroy,dlg,ReplyList/170/Text,0,-1,<StartAction>Godfroy will level up as a Figh
 godfroy,dlg,ReplyList/171/Text,0,-1,Good. I think we are done for the moment.,
 godfroy,dlg,ReplyList/172/Text,0,-1,Let's discuss something else.,
 godfroy,dlg,ReplyList/173/Text,0,-1,Let's talk.,
-godfroy,dlg,ReplyList/174/Text,0,90208,Is everything OK?,
+godfroy,dlg,ReplyList/174/Text,0,90208,Is everything OK?,"""어떻게 지내?"""
 godfroy,dlg,ReplyList/179/Text,0,-1,Let me see if I have anything... ,
 godfroy,dlg,ReplyList/180/Text,0,-1,I have nothing. You'll have to manage.,
 godfroy,dlg,ReplyList/181/Text,0,-1,I'm done for now.,
@@ -2922,14 +2922,14 @@ godfroy,dlg,ReplyList/201/Text,0,-1,I'm done for now.,
 godfroy,dlg,ReplyList/202/Text,0,-1,I did not. Tell me more.,
 godfroy,dlg,ReplyList/204/Text,0,-1,Why would a priest be a bad match?,
 godfroy,dlg,ReplyList/205/Text,0,-1,Why?,
-godfroy,dlg,ReplyList/21/Text,0,88323,I don't want you to cast any spells until I say otherwise.,
+godfroy,dlg,ReplyList/21/Text,0,88323,I don't want you to cast any spells until I say otherwise.,"""내가 달리 말하기 전까지는 주문을 사용하지 마."""
 godfroy,dlg,ReplyList/210/Text,0,-1,We don't have time for this now.,
 godfroy,dlg,ReplyList/211/Text,0,-1,What is it?,
 godfroy,dlg,ReplyList/212/Text,0,-1,Never mind.,
-godfroy,dlg,ReplyList/22/Text,0,88324,I want you to go ahead and cast spells on your own.,
-godfroy,dlg,ReplyList/23/Text,0,89479,I need you to cast a group of buffing spells.,
-godfroy,dlg,ReplyList/24/Text,0,89480,Never mind.,
-godfroy,dlg,ReplyList/25/Text,0,89587,"No, nothing else.",
+godfroy,dlg,ReplyList/22/Text,0,88324,I want you to go ahead and cast spells on your own.,"""앞으로 주문은 네 판단대로 사용해."""
+godfroy,dlg,ReplyList/23/Text,0,89479,I need you to cast a group of buffing spells.,"""강화 주문 묶음을 시전해 줘."""
+godfroy,dlg,ReplyList/24/Text,0,89480,Never mind.,"""신경 쓰지 마."""
+godfroy,dlg,ReplyList/25/Text,0,89587,"No, nothing else.","""아니, 다른 건 없어."""
 godfroy,dlg,ReplyList/253/Text,0,-1,Do you think he might help us?,
 godfroy,dlg,ReplyList/257/Text,0,-1,Let's just avoid him.,
 godfroy,dlg,ReplyList/259/Text,0,-1,Let's go and find out.,
@@ -2937,27 +2937,27 @@ godfroy,dlg,ReplyList/26/Text,0,-1,Yes.,
 godfroy,dlg,ReplyList/260/Text,0,-1,"Either way, we don't have any to give.",
 godfroy,dlg,ReplyList/262/Text,0,-1,Valetto Stoutbold?,
 godfroy,dlg,ReplyList/264/Text,0,-1,"Well, thanks for the information.",
-godfroy,dlg,ReplyList/27/Text,0,89481,Cast all the buffing spells you have.,
-godfroy,dlg,ReplyList/28/Text,0,89482,Cast all the buffing spells that last a long time.,
-godfroy,dlg,ReplyList/29/Text,0,89483,Cast all the short duration buffing spells.,
+godfroy,dlg,ReplyList/27/Text,0,89481,Cast all the buffing spells you have.,"""가진 강화 주문을 모두 시전해."""
+godfroy,dlg,ReplyList/28/Text,0,89482,Cast all the buffing spells that last a long time.,"""지속시간이 긴 강화 주문을 모두 시전해."""
+godfroy,dlg,ReplyList/29/Text,0,89483,Cast all the short duration buffing spells.,"""지속시간이 짧은 강화 주문을 모두 시전해."""
 godfroy,dlg,ReplyList/3/Text,0,-1,Tell me a little about yourself.,
-godfroy,dlg,ReplyList/30/Text,0,89566,I've changed my mind.,
+godfroy,dlg,ReplyList/30/Text,0,89566,I've changed my mind.,"""마음을 바꿨어."""
 godfroy,dlg,ReplyList/308/Text,0,-1,Why would that be useful?,
-godfroy,dlg,ReplyList/31/Text,0,89567,Cast on all the party members.,
+godfroy,dlg,ReplyList/31/Text,0,89567,Cast on all the party members.,"""파티원 전체에게 시전해."""
 godfroy,dlg,ReplyList/310/Text,0,-1,"No, we'll leave them here.",
 godfroy,dlg,ReplyList/312/Text,0,-1,Good idea.,
 godfroy,dlg,ReplyList/313/Text,0,-1,Can you tell me what they might be for?,
-godfroy,dlg,ReplyList/32/Text,0,89577,Cast it on my animal companion.,
-godfroy,dlg,ReplyList/33/Text,0,89578,Cast it on my familiar.,
+godfroy,dlg,ReplyList/32/Text,0,89577,Cast it on my animal companion.,"""내 동물 동료에게 시전해."""
+godfroy,dlg,ReplyList/33/Text,0,89578,Cast it on my familiar.,"""내 사역마에게 시전해."""
 godfroy,dlg,ReplyList/333/Text,0,-1,"Lacinda, you still have to prove yourself.",
 godfroy,dlg,ReplyList/334/Text,0,-1,"Kathryn, stop being stupid and stick to our quest.",
 godfroy,dlg,ReplyList/336/Text,0,-1,Must you do this now?,
 godfroy,dlg,ReplyList/338/Text,0,-1,That is enough. I trust you both. Let's concentrate on the Mythallar.,
-godfroy,dlg,ReplyList/34/Text,0,89579,Cast it on me.,
-godfroy,dlg,ReplyList/35/Text,0,89580,Cast it on yourself.,
+godfroy,dlg,ReplyList/34/Text,0,89579,Cast it on me.,"""나한테 시전해."""
+godfroy,dlg,ReplyList/35/Text,0,89580,Cast it on yourself.,"""너한테 시전해."""
 godfroy,dlg,ReplyList/352/Text,0,-1,You're imagining things.,
 godfroy,dlg,ReplyList/359/Text,0,-1,What did you see?,
-godfroy,dlg,ReplyList/38/Text,0,78319,Never mind.,
+godfroy,dlg,ReplyList/38/Text,0,78319,Never mind.,아니야.
 godfroy,dlg,ReplyList/391/Text,0,-1,I had business of my own.,
 godfroy,dlg,ReplyList/392/Text,0,-1,I came back as fast as I could when I heard of the war.,
 godfroy,dlg,ReplyList/397/Text,0,-1,That's what I want too.,
@@ -2973,8 +2973,8 @@ godfroy,dlg,ReplyList/425/Text,0,-1,What's a Charter?,
 godfroy,dlg,ReplyList/427/Text,0,-1,What is a Charter?,
 godfroy,dlg,ReplyList/428/Text,0,-1,Tell me about Peacebonding.,
 godfroy,dlg,ReplyList/430/Text,0,-1,Thanks.,
-godfroy,dlg,ReplyList/433/Text,0,78631,"Godfroy, I still need your help. Will you join me?",
-godfroy,dlg,ReplyList/435/Text,0,78632,You should remain here until you recover fully. You are still weak.,
+godfroy,dlg,ReplyList/433/Text,0,78631,"Godfroy, I still need your help. Will you join me?",가자.
+godfroy,dlg,ReplyList/435/Text,0,78632,You should remain here until you recover fully. You are still weak.,여기 있어.
 godfroy,dlg,ReplyList/437/Text,0,-1,Agreed.,
 godfroy,dlg,ReplyList/438/Text,0,-1,I want to discuss something.,
 godfroy,dlg,ReplyList/50/Text,0,-1,Spell resistance.,
@@ -2991,13 +2991,13 @@ godfroy,dlg,ReplyList/80/Text,0,-1,Greater restoration.,
 godfroy,dlg,ReplyList/81/Text,0,-1,Greater undead.,
 godfroy,dlg,ReplyList/84/Text,0,-1,Freedom of movement.,
 godfroy,dlg,ReplyList/88/Text,0,-1,Entropic shield.,
-godfroy,dlg,ReplyList/90/Text,0,78319,Never mind.,
-godfroy,dlg,ReplyList/94/Text,0,78364,Eagle's Splendor.,
+godfroy,dlg,ReplyList/90/Text,0,78319,Never mind.,아니야.
+godfroy,dlg,ReplyList/94/Text,0,78364,Eagle's Splendor.,독수리의 위엄
 godfroy,dlg,ReplyList/95/Text,0,-1,Divine Favor,
 godfroy,dlg,ReplyList/96/Text,0,-1,Death ward.,
-godfroy,dlg,ReplyList/97/Text,0,78369,Cure Moderate Wounds,
-godfroy,dlg,ReplyList/98/Text,0,78369,Cure Minor Wounds,
-godfroy,dlg,ReplyList/99/Text,0,78369,Cure Light Wounds,
+godfroy,dlg,ReplyList/97/Text,0,78369,Cure Moderate Wounds,황소의 근력
+godfroy,dlg,ReplyList/98/Text,0,78369,Cure Minor Wounds,황소의 근력
+godfroy,dlg,ReplyList/99/Text,0,78369,Cure Light Wounds,황소의 근력
 grave,dlg,EntryList/0/Text,0,-1,The remains of your father rest within this grave.,
 grave2,dlg,EntryList/0/Text,0,-1,"The grave of your father has been defaced, the corner spires chipped off and the surface daubed with offal.",
 gravedigger,dlg,EntryList/0/Text,0,-1,HOLDER,
@@ -3893,60 +3893,60 @@ horn1,dlg,ReplyList/6/Text,0,-1,Yes.,
 horn1,dlg,ReplyList/7/Text,0,-1,Unlikely.,
 horn1,dlg,ReplyList/8/Text,0,-1,Maybe later.,
 horn1,dlg,ReplyList/9/Text,0,-1,"OK, we'll do that.",
-horsebandit,dlg,EntryList/0/Text,0,85794,<StartAction>[This horse looks you in the eye as you approach.]</Start>,
-horsebandit,dlg,EntryList/1/Text,0,87502,<StartAction>[The horse nuzzles your hand as you take the reins...]</Start>,
+horsebandit,dlg,EntryList/0/Text,0,85794,<StartAction>[This horse looks you in the eye as you approach.]</Start>,"""다시 함께하길 원하나?"""
+horsebandit,dlg,EntryList/1/Text,0,87502,<StartAction>[The horse nuzzles your hand as you take the reins...]</Start>,"""'붉은 호랑이' 부족의 일원인 것처럼 맹렬한 충성으로 자네를 섬기겠네."""
 horsebandit,dlg,EntryList/2/Text,0,-1,<StartAction>[You already have 3 horses of your own.]</Start>,
-horsebandit,dlg,EntryList/3/Text,0,85794,<StartAction>[The horse is placid despite the recent battle and the loss of its master.]</Start>,
+horsebandit,dlg,EntryList/3/Text,0,85794,<StartAction>[The horse is placid despite the recent battle and the loss of its master.]</Start>,"""다시 함께하길 원하나?"""
 horsebandit,dlg,EntryList/4/Text,0,-1,<StartAction>[The horse pays no attention to you.]</Start>,
-horsebandit,dlg,EntryList/5/Text,0,85795,<StartAction>[Your horse turns its head towards you.]</Start>,
-horsebandit,dlg,EntryList/6/Text,0,87443,<StartAction>[Your horse stands placidly...]</Start>,
-horsebandit,dlg,EntryList/7/Text,0,87451,<StartAction>[Your horse stands ready.]</Start>,
+horsebandit,dlg,EntryList/5/Text,0,85795,<StartAction>[Your horse turns its head towards you.]</Start>,"""그래?"""
+horsebandit,dlg,EntryList/6/Text,0,87443,<StartAction>[Your horse stands placidly...]</Start>,"""어떤 전술을 바꾸고 싶나?"""
+horsebandit,dlg,EntryList/7/Text,0,87451,<StartAction>[Your horse stands ready.]</Start>,"""알겠네. 얼마나 떨어져 있길 원하나?"""
 horsebandit,dlg,EntryList/8/Text,0,-1,"<StartAction>[Undaunted, your horse whickers as you make the change.]</Start>",
-horsebandit,dlg,EntryList/9/Text,0,87454,"<StartAction>[Your warhorse raises its ears, clearly understanding your command.]</Start>",
-horsebandit,dlg,ReplyList/0/Text,0,87646,<StartAction>[Leave the horse]</Start>,
-horsebandit,dlg,ReplyList/1/Text,0,87647,<StartAction>[Take the horse]</Start>,
-horsebandit,dlg,ReplyList/10/Text,0,87601,<StartAction>[Make adjustments to your horse.]</Start>,
-horsebandit,dlg,ReplyList/11/Text,0,87602,I don't want to change anything else right now.,
-horsebandit,dlg,ReplyList/12/Text,0,87605,<StartAction>[Remove the muffling from your horse's hooves.]</Start>,
-horsebandit,dlg,ReplyList/13/Text,0,87607,"<StartAction>[Muffle your horse's hooves, reducing the noise it makes, but also its speed.]</Start>",
-horsebandit,dlg,ReplyList/14/Text,0,87610,<StartAction>[Change the length of your leading rein.]</Start>,
-horsebandit,dlg,ReplyList/15/Text,0,87611,<StartAction>[Use 6 spans of leading rein.]</Start>,
-horsebandit,dlg,ReplyList/16/Text,0,87612,<StartAction>[Use 4 spans of leading rein.]</Start>,
-horsebandit,dlg,ReplyList/17/Text,0,87613,<StartAction>[Shorten it to 2 spans]</Start>,
-horsebandit,dlg,ReplyList/19/Text,0,87614,<StartAction>[Give the command word to attack on sighting enemies]</Start>,
-horsebandit,dlg,ReplyList/20/Text,0,87615,<StartAction>[Give the command word to attack only when you do.]</Start>,
-horsebandit,dlg,ReplyList/22/Text,0,87616,<StartAction>[Open the packs on your horse.]</Start>,
+horsebandit,dlg,EntryList/9/Text,0,87454,"<StartAction>[Your warhorse raises its ears, clearly understanding your command.]</Start>","""내 목숨으로 자네 생명을 지킬 거고, 전투에서 자네로부터 지시를 받겠네."""
+horsebandit,dlg,ReplyList/0/Text,0,87646,<StartAction>[Leave the horse]</Start>,"""아니, 아직 아냐. 여기 있어."""
+horsebandit,dlg,ReplyList/1/Text,0,87647,<StartAction>[Take the horse]</Start>,"""그래, 같이 가자."""
+horsebandit,dlg,ReplyList/10/Text,0,87601,<StartAction>[Make adjustments to your horse.]</Start>,"""네 전술을 바꾸고 싶어."""
+horsebandit,dlg,ReplyList/11/Text,0,87602,I don't want to change anything else right now.,"""지금은 다른 건 바꾸고 싶지 않아."""
+horsebandit,dlg,ReplyList/12/Text,0,87605,<StartAction>[Remove the muffling from your horse's hooves.]</Start>,"""더 이상 은신하지 마."""
+horsebandit,dlg,ReplyList/13/Text,0,87607,"<StartAction>[Muffle your horse's hooves, reducing the noise it makes, but also its speed.]</Start>","""항상 은신 상태를 유지하도록 해."""
+horsebandit,dlg,ReplyList/14/Text,0,87610,<StartAction>[Change the length of your leading rein.]</Start>,"""나와의 거리를 조절하고 싶어."""
+horsebandit,dlg,ReplyList/15/Text,0,87611,<StartAction>[Use 6 spans of leading rein.]</Start>,멀리 떨어져 있어.
+horsebandit,dlg,ReplyList/16/Text,0,87612,<StartAction>[Use 4 spans of leading rein.]</Start>,중간 거리를 유지해.
+horsebandit,dlg,ReplyList/17/Text,0,87613,<StartAction>[Shorten it to 2 spans]</Start>,가까이 붙어 있어.
+horsebandit,dlg,ReplyList/19/Text,0,87614,<StartAction>[Give the command word to attack on sighting enemies]</Start>,"""적을 보는 즉시 공격해."""
+horsebandit,dlg,ReplyList/20/Text,0,87615,<StartAction>[Give the command word to attack only when you do.]</Start>,"""나를 지키되 내가 공격하기 전까지는 공격하지 마."""
+horsebandit,dlg,ReplyList/22/Text,0,87616,<StartAction>[Open the packs on your horse.]</Start>,"""네 장비를 조정하고 싶어."""
 horsebandit,dlg,ReplyList/4/Text,0,-1,<StartAction>[Untie the horse from the hitching post]</Start>,
-horsebandit,dlg,ReplyList/5/Text,0,87646,<StartAction>[Leave the horse]</Start>,
-horsebandit,dlg,ReplyList/7/Text,0,87596,<StartAction>[Don't change anything.]</Start>,
+horsebandit,dlg,ReplyList/5/Text,0,87646,<StartAction>[Leave the horse]</Start>,"""아니, 아직 아냐. 여기 있어."""
+horsebandit,dlg,ReplyList/7/Text,0,87596,<StartAction>[Don't change anything.]</Start>,"""신경 쓰지 마."""
 horsebandit,dlg,ReplyList/8/Text,0,-1,<StartAction>[Tie all horses to the nearest hitching post.]</Start>,
-horsebandit,dlg,ReplyList/9/Text,0,87597,<StartAction>[Release your horse and leave it behind.]</Start>,
-horsestandard,dlg,EntryList/0/Text,0,85794,<StartAction>[This horse looks you in the eye as you approach.]</Start>,
-horsestandard,dlg,EntryList/1/Text,0,87502,<StartAction>[The horse nuzzles your hand as you take the reins...]</Start>,
+horsebandit,dlg,ReplyList/9/Text,0,87597,<StartAction>[Release your horse and leave it behind.]</Start>,"""우린 헤어져야 할 것 같아."""
+horsestandard,dlg,EntryList/0/Text,0,85794,<StartAction>[This horse looks you in the eye as you approach.]</Start>,"""다시 함께하길 원하나?"""
+horsestandard,dlg,EntryList/1/Text,0,87502,<StartAction>[The horse nuzzles your hand as you take the reins...]</Start>,"""'붉은 호랑이' 부족의 일원인 것처럼 맹렬한 충성으로 자네를 섬기겠네."""
 horsestandard,dlg,EntryList/2/Text,0,-1,<StartAction>[You already have 3 horses of your own.]</Start>,
 horsestandard,dlg,EntryList/3/Text,0,-1,<StartAction>[The horse pays no attention to you.]</Start>,
-horsestandard,dlg,EntryList/4/Text,0,85795,<StartAction>[Your horse turns its head towards you.]</Start>,
-horsestandard,dlg,EntryList/5/Text,0,87443,<StartAction>[Your horse stands placidly...]</Start>,
-horsestandard,dlg,EntryList/6/Text,0,87451,<StartAction>[Your horse stands ready.]</Start>,
+horsestandard,dlg,EntryList/4/Text,0,85795,<StartAction>[Your horse turns its head towards you.]</Start>,"""그래?"""
+horsestandard,dlg,EntryList/5/Text,0,87443,<StartAction>[Your horse stands placidly...]</Start>,"""어떤 전술을 바꾸고 싶나?"""
+horsestandard,dlg,EntryList/6/Text,0,87451,<StartAction>[Your horse stands ready.]</Start>,"""알겠네. 얼마나 떨어져 있길 원하나?"""
 horsestandard,dlg,EntryList/7/Text,0,-1,"<StartAction>[Undaunted, your horse whickers as you make the change.]</Start>",
-horsestandard,dlg,EntryList/8/Text,0,87454,"<StartAction>[Your warhorse raises its ears, clearly understanding your command.]</Start>",
-horsestandard,dlg,ReplyList/0/Text,0,87646,<StartAction>[Leave the horse]</Start>,
-horsestandard,dlg,ReplyList/1/Text,0,87647,<StartAction>[Take the horse]</Start>,
-horsestandard,dlg,ReplyList/10/Text,0,87602,I don't want to change anything else right now.,
-horsestandard,dlg,ReplyList/11/Text,0,87605,<StartAction>[Remove the muffling from your horse's hooves.]</Start>,
-horsestandard,dlg,ReplyList/12/Text,0,87607,"<StartAction>[Muffle your horse's hooves, reducing the noise it makes, but also its speed.]</Start>",
-horsestandard,dlg,ReplyList/13/Text,0,87610,<StartAction>[Change the length of your leading rein.]</Start>,
-horsestandard,dlg,ReplyList/14/Text,0,87611,<StartAction>[Use 6 spans of leading rein.]</Start>,
-horsestandard,dlg,ReplyList/15/Text,0,87612,<StartAction>[Use 4 spans of leading rein.]</Start>,
-horsestandard,dlg,ReplyList/16/Text,0,87613,<StartAction>[Shorten it to 2 spans]</Start>,
-horsestandard,dlg,ReplyList/18/Text,0,87614,<StartAction>[Give the command word to attack on sighting enemies]</Start>,
-horsestandard,dlg,ReplyList/19/Text,0,87615,<StartAction>[Give the command word to attack only when you do.]</Start>,
-horsestandard,dlg,ReplyList/21/Text,0,87616,<StartAction>[Open the packs on your horse.]</Start>,
+horsestandard,dlg,EntryList/8/Text,0,87454,"<StartAction>[Your warhorse raises its ears, clearly understanding your command.]</Start>","""내 목숨으로 자네 생명을 지킬 거고, 전투에서 자네로부터 지시를 받겠네."""
+horsestandard,dlg,ReplyList/0/Text,0,87646,<StartAction>[Leave the horse]</Start>,"""아니, 아직 아냐. 여기 있어."""
+horsestandard,dlg,ReplyList/1/Text,0,87647,<StartAction>[Take the horse]</Start>,"""그래, 같이 가자."""
+horsestandard,dlg,ReplyList/10/Text,0,87602,I don't want to change anything else right now.,"""지금은 다른 건 바꾸고 싶지 않아."""
+horsestandard,dlg,ReplyList/11/Text,0,87605,<StartAction>[Remove the muffling from your horse's hooves.]</Start>,"""더 이상 은신하지 마."""
+horsestandard,dlg,ReplyList/12/Text,0,87607,"<StartAction>[Muffle your horse's hooves, reducing the noise it makes, but also its speed.]</Start>","""항상 은신 상태를 유지하도록 해."""
+horsestandard,dlg,ReplyList/13/Text,0,87610,<StartAction>[Change the length of your leading rein.]</Start>,"""나와의 거리를 조절하고 싶어."""
+horsestandard,dlg,ReplyList/14/Text,0,87611,<StartAction>[Use 6 spans of leading rein.]</Start>,멀리 떨어져 있어.
+horsestandard,dlg,ReplyList/15/Text,0,87612,<StartAction>[Use 4 spans of leading rein.]</Start>,중간 거리를 유지해.
+horsestandard,dlg,ReplyList/16/Text,0,87613,<StartAction>[Shorten it to 2 spans]</Start>,가까이 붙어 있어.
+horsestandard,dlg,ReplyList/18/Text,0,87614,<StartAction>[Give the command word to attack on sighting enemies]</Start>,"""적을 보는 즉시 공격해."""
+horsestandard,dlg,ReplyList/19/Text,0,87615,<StartAction>[Give the command word to attack only when you do.]</Start>,"""나를 지키되 내가 공격하기 전까지는 공격하지 마."""
+horsestandard,dlg,ReplyList/21/Text,0,87616,<StartAction>[Open the packs on your horse.]</Start>,"""네 장비를 조정하고 싶어."""
 horsestandard,dlg,ReplyList/4/Text,0,-1,<StartAction>[Untie the horse from the hitching post]</Start>,
-horsestandard,dlg,ReplyList/6/Text,0,87596,<StartAction>[Don't change anything.]</Start>,
+horsestandard,dlg,ReplyList/6/Text,0,87596,<StartAction>[Don't change anything.]</Start>,"""신경 쓰지 마."""
 horsestandard,dlg,ReplyList/7/Text,0,-1,<StartAction>[Tie all horses to the nearest hitching post.]</Start>,
-horsestandard,dlg,ReplyList/8/Text,0,87597,<StartAction>[Release your horse and leave it behind.]</Start>,
-horsestandard,dlg,ReplyList/9/Text,0,87601,<StartAction>[Make adjustments to your horse.]</Start>,
+horsestandard,dlg,ReplyList/8/Text,0,87597,<StartAction>[Release your horse and leave it behind.]</Start>,"""우린 헤어져야 할 것 같아."""
+horsestandard,dlg,ReplyList/9/Text,0,87601,<StartAction>[Make adjustments to your horse.]</Start>,"""네 전술을 바꾸고 싶어."""
 horseuse1,dlg,EntryList/0/Text,0,-1,<StartAction>[There is enough room here for you to jump this chasm on horseback. Do you wish to?]</Start>,
 horseuse1,dlg,ReplyList/0/Text,0,-1,No.,
 horseuse1,dlg,ReplyList/1/Text,0,-1,Yes.,
@@ -4769,10 +4769,10 @@ jonas,dlg,EntryList/112/Text,0,-1,"I guess you've not been here for a while, hav
 jonas,dlg,EntryList/113/Text,0,-1,"You left for too long, <FirstName>. In Cormyr you can't carry weapons that are not Peacebonded without a Charter allowing you to do so. A woodaxe or a hunting bow are fine, but anything more used to mean trouble.",
 jonas,dlg,EntryList/114/Text,0,-1,"In this area they used to take Peacebonding very seriously. If anyone was seen without a Peacestring tied over their weapon, and was found without a Charter, they were arrested immediately. ",
 jonas,dlg,EntryList/115/Text,0,-1,"But things changed when war started. Cormyr was in such desperate danger that we all carried weapons, and freely too. I doubt Peacebonding is as important as it used to be.",
-jonas,dlg,EntryList/116/Text,0,78289,<StartHighlight>Jonas is currently unconscious and will likely die if he is not given aid very soon.</Start>,
-jonas,dlg,EntryList/117/Text,0,76052,"That... that was bad. You ever experienced that, <FirstName>? It felt like death... ",
-jonas,dlg,EntryList/118/Text,0,78287,"Come on then, let's get on. I don't want to think too much about what just happened.",
-jonas,dlg,EntryList/119/Text,0,78288,Not likely <FirstName>. I'm sticking with you.,
+jonas,dlg,EntryList/116/Text,0,78289,<StartHighlight>Jonas is currently unconscious and will likely die if he is not given aid very soon.</Start>,"<StartHighlight>자노스는 현재 의식이 없고, 도움을 받지 못하면 곧 죽을 것입니다.</Start>"
+jonas,dlg,EntryList/117/Text,0,76052,"That... that was bad. You ever experienced that, <FirstName>? It felt like death... ",흥. 네가 제대로 했다면 자노스가 이런 불쾌함을 겪지 않아도 됐을 텐데.
+jonas,dlg,EntryList/118/Text,0,78287,"Come on then, let's get on. I don't want to think too much about what just happened.",알았어. 갈게.
+jonas,dlg,EntryList/119/Text,0,78288,Not likely <FirstName>. I'm sticking with you.,여기 남아 있겠어. 가고 싶으면 가.
 jonas,dlg,EntryList/12/Text,0,-1,"Szass Morg, the Witch Lord, is not the only one of his kind. There are others, more powerful, like the Witch Duke.",
 jonas,dlg,EntryList/120/Text,0,-1,You call yourself family? I'm disgusted by you... ,
 jonas,dlg,EntryList/121/Text,0,-1,Can we get a move on <FirstName>? Vengeance can't wait for ever.,
@@ -4795,19 +4795,19 @@ jonas,dlg,EntryList/19/Text,0,-1,"He is still here somewhere, watching. Perhaps 
 jonas,dlg,EntryList/2/Text,0,-1,"As I put the gem on the pedestal, the force held me here. Maybe I did something wrong, I don't know, but I can feel it draining me. Please do something, <FirstName>, and quickly!",
 jonas,dlg,EntryList/20/Text,0,-1,"Let's get going, <FirstName>.",
 jonas,dlg,EntryList/21/Text,0,-1,"Yes, what is it?",
-jonas,dlg,EntryList/22/Text,0,77916,I'll have a go if you like... ,
-jonas,dlg,EntryList/23/Text,0,77904,"As if you could teach me, <FirstName>! Go on then, show me what it is you know and I don't!",
-jonas,dlg,EntryList/24/Text,0,77915,"Well, if you must, though I don't know who made you our leader... ",
+jonas,dlg,EntryList/22/Text,0,77916,I'll have a go if you like... ,에. 아마도. 자노스가 네 물건 좀 뒤져볼게. 감정할 수 있는 게 발견되면 말해주지. 충분하지?
+jonas,dlg,EntryList/23/Text,0,77904,"As if you could teach me, <FirstName>! Go on then, show me what it is you know and I don't!",자노스는 원하는 대로 실력과 능력을 키울 거다.
+jonas,dlg,EntryList/24/Text,0,77915,"Well, if you must, though I don't know who made you our leader... ",*한숨* 좋아. 여기 내 장비다.
 jonas,dlg,EntryList/25/Text,0,-1,What do you need?,
 jonas,dlg,EntryList/26/Text,0,-1,As you like. Anything else?,
-jonas,dlg,EntryList/27/Text,0,77914,"You think I'd be any better at it, do you? I'm just going to bash them if you can't open them. Is there anything else?",
-jonas,dlg,EntryList/28/Text,0,77914,"Thank <Deity>, I was sick of sneaking about. Is there anything else?",
-jonas,dlg,EntryList/29/Text,0,77914,"I'll try <FirstName>, but remember I was never any good at Hide and Sneak when we were young. Is there anything else?",
+jonas,dlg,EntryList/27/Text,0,77914,"You think I'd be any better at it, do you? I'm just going to bash them if you can't open them. Is there anything else?",알았어.
+jonas,dlg,EntryList/28/Text,0,77914,"Thank <Deity>, I was sick of sneaking about. Is there anything else?",알았어.
+jonas,dlg,EntryList/29/Text,0,77914,"I'll try <FirstName>, but remember I was never any good at Hide and Sneak when we were young. Is there anything else?",알았어.
 jonas,dlg,EntryList/3/Text,0,-1,"The puzzle that guards the Crown can only be unlocked by a knight of Cormyr. That is the safeguard on this barrow. The safeguard was not put here not by the Cormyrians themselves, but by the Witch Duke who built it, to stop any of the Witch Lords trying to take the Crown for themselves.",
-jonas,dlg,EntryList/30/Text,0,77914,I will do. Is there anything else?,
-jonas,dlg,EntryList/31/Text,0,77914,"Well I would've thought two pairs of eyes are better than one, but alright. Is there anything else?",
-jonas,dlg,EntryList/32/Text,0,77914,That's more like it! Is there anything else?,
-jonas,dlg,EntryList/33/Text,0,77914,You're kidding me aren't you? You expect me to just stand idle when there are enemies to kill?,
+jonas,dlg,EntryList/30/Text,0,77914,I will do. Is there anything else?,알았어.
+jonas,dlg,EntryList/31/Text,0,77914,"Well I would've thought two pairs of eyes are better than one, but alright. Is there anything else?",알았어.
+jonas,dlg,EntryList/32/Text,0,77914,That's more like it! Is there anything else?,알았어.
+jonas,dlg,EntryList/33/Text,0,77914,You're kidding me aren't you? You expect me to just stand idle when there are enemies to kill?,알았어.
 jonas,dlg,EntryList/34/Text,0,-1," Oh alright <FirstName>, I know that look. Is there anything else?",
 jonas,dlg,EntryList/35/Text,0,-1,Just tell me where you want me.,
 jonas,dlg,EntryList/36/Text,0,-1,"Just so long as there are still enemies standing by the time I get into the fight, I'm fine with that. Is there anything else?",
@@ -4818,19 +4818,19 @@ jonas,dlg,EntryList/4/Text,0,-1,"The Witch Duke knew that if he were to die, bef
 jonas,dlg,EntryList/40/Text,0,-1,"See the whites of their eyes, that sort of thing, right? Suits me. I want to see them going down. Is there anything else?",
 jonas,dlg,EntryList/41/Text,0,-1,"You probably know better on this, but don't think it gives you the right to boss me about. I'll train how I like. Was there anything else?",
 jonas,dlg,EntryList/42/Text,0,-1,Yes?,
-jonas,dlg,EntryList/43/Text,0,89922,Nothing bothering me <FirstName>. How about you? You OK?,
+jonas,dlg,EntryList/43/Text,0,89922,Nothing bothering me <FirstName>. How about you? You OK?,"""다 완전 끝내줘. 더할 나위 없지. 뭐... 내가 엄청 부자에 글래머한 하플링 아가씨들 하렘에 둘러싸여 있으면 더 좋겠지만... 그건 당장은 안 되겠지, 하하하!"""
 jonas,dlg,EntryList/44/Text,0,-1,"Well you'll manage, I'm sure. Was there anything else?",
 jonas,dlg,EntryList/45/Text,0,-1,Was there anything else?,
 jonas,dlg,EntryList/46/Text,0,-1,"I'm fine <FirstName>. Bit thirsty, that's all.",
-jonas,dlg,EntryList/47/Text,0,89931,I've got a few cuts and scrapes. Nothing to worry about.,
+jonas,dlg,EntryList/47/Text,0,89931,I've got a few cuts and scrapes. Nothing to worry about.,"""프흣, 난 걱정 마. 그냥 긁힌 상처 몇 개야."""
 jonas,dlg,EntryList/48/Text,0,-1,Was there anything else?,
-jonas,dlg,EntryList/49/Text,0,89932,"I've been better. These wounds hurt, but I can probably manage.",
+jonas,dlg,EntryList/49/Text,0,89932,"I've been better. These wounds hurt, but I can probably manage.","""아까 좀 엉망이 되긴 했지, 헤. 볼 것까지는 없어."""
 jonas,dlg,EntryList/5/Text,0,-1,"Szass Morg believed that I, as a Cormyrian and a squire, might be enough, but when I tried to place the first piece of the puzzle, this power seized me and froze me here, and now I can feel it leeching my life away!",
-jonas,dlg,EntryList/50/Text,0,89933,"No, I'm in serious trouble here <FirstName>. Look at me!",
+jonas,dlg,EntryList/50/Text,0,89933,"No, I'm in serious trouble here <FirstName>. Look at me!","""그냥... 몇 군데 긁혔을 뿐이야, 별거 아냐."" 그는 얼굴을 찡그리며 빈 팔로 배에서 솟는 심한 피를 틀어막으려 합니다."
 jonas,dlg,EntryList/51/Text,0,-1,"Are we out of healing, or do you have anything?",
-jonas,dlg,EntryList/52/Text,0,89930,I thought the fact that I keep putting my arms out in front of me might have alerted you to the fact there is something wrong with my eyes. I can't see a thing.,
-jonas,dlg,EntryList/53/Text,0,89934,I... I don't think so <FirstName>. I think I've been poisoned.,
-jonas,dlg,EntryList/54/Text,0,89935,"Well I'm sweating, there are spots all over my skin, and I'm about to be sick. If you think that sounds like I'm OK, then I guess we're not going to get very far.",
+jonas,dlg,EntryList/52/Text,0,89930,I thought the fact that I keep putting my arms out in front of me might have alerted you to the fact there is something wrong with my eyes. I can't see a thing.,"""괜찮을 거야, 아마. 근데 여기가 정말 어두운 건지... 내가 진짜 눈이 먼 건지 말해 줄래? 살짝 걱정돼서."""
+jonas,dlg,EntryList/53/Text,0,89934,I... I don't think so <FirstName>. I think I've been poisoned.,"""어이! 완전 멀쩡해-내 혈관을 타고 흐르는 불덩이만 빼면 말이지. 그건... 알아서 해결되겠지..."""
+jonas,dlg,EntryList/54/Text,0,89935,"Well I'm sweating, there are spots all over my skin, and I'm about to be sick. If you think that sounds like I'm OK, then I guess we're not going to get very far.","""피부에 이상한 반점이 좀 생긴 것만 빼면 나쁘지 않아. 이거... 안 좋은 건가?"""
 jonas,dlg,EntryList/55/Text,0,-1,"If you've got something to cure me, you'd better use it. Else, we have no choice but to go on.",
 jonas,dlg,EntryList/56/Text,0,-1,"What do you mean, 'tell me about yourself'? I'm your brother. Are you saying you've forgotten everything about me?",
 jonas,dlg,EntryList/57/Text,0,-1,"Come on <FirstName>, get serious. We have things to do. Are you done wasting time?",
@@ -4903,8 +4903,8 @@ jonas,dlg,ReplyList/151/Text,0,-1,What's a Charter?,
 jonas,dlg,ReplyList/153/Text,0,-1,What is a Charter?,
 jonas,dlg,ReplyList/154/Text,0,-1,Tell me about Peacebonding.,
 jonas,dlg,ReplyList/156/Text,0,-1,Thanks.,
-jonas,dlg,ReplyList/157/Text,0,78631,I need your help Jonas. Come with me.,
-jonas,dlg,ReplyList/159/Text,0,78632,You should remain here until you recover fully. You are still weak.,
+jonas,dlg,ReplyList/157/Text,0,78631,I need your help Jonas. Come with me.,가자.
+jonas,dlg,ReplyList/159/Text,0,78632,You should remain here until you recover fully. You are still weak.,여기 있어.
 jonas,dlg,ReplyList/16/Text,0,-1,How would that help him?,
 jonas,dlg,ReplyList/161/Text,0,-1,You're right. Let's go.,
 jonas,dlg,ReplyList/162/Text,0,-1,I need to discuss something.,
@@ -4913,7 +4913,7 @@ jonas,dlg,ReplyList/165/Text,0,-1,Why would I help you?,
 jonas,dlg,ReplyList/17/Text,0,-1,How do I reach the Wyvern Crown?,
 jonas,dlg,ReplyList/19/Text,0,-1,Where is the Witch Lord now?,
 jonas,dlg,ReplyList/21/Text,0,-1,I'm done.,
-jonas,dlg,ReplyList/24/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Jonas]</Start>.,
+jonas,dlg,ReplyList/24/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Jonas]</Start>.,레벨업을 해줬으면 해.
 jonas,dlg,ReplyList/26/Text,0,-1,Dismount from your horse.,
 jonas,dlg,ReplyList/27/Text,0,-1,Mount up!,
 jonas,dlg,ReplyList/30/Text,0,-1,Let's discuss tactics.,
@@ -4927,7 +4927,7 @@ jonas,dlg,ReplyList/37/Text,0,-1,Stop sneaking. I need to know where you are so 
 jonas,dlg,ReplyList/38/Text,0,-1,No.,
 jonas,dlg,ReplyList/39/Text,0,-1,Yes.,
 jonas,dlg,ReplyList/4/Text,0,-1,<StartAction>[Decide what to do with your brother Jonas.]</Start>,
-jonas,dlg,ReplyList/40/Text,0,102294,"Stay stealthy, but only until the next fight.",
+jonas,dlg,ReplyList/40/Text,0,102294,"Stay stealthy, but only until the next fight.","""은밀하게 행동해, 하지만 다음 전투까지만."""
 jonas,dlg,ReplyList/41/Text,0,-1,Use creeping tactics when we see enemies.,
 jonas,dlg,ReplyList/42/Text,0,-1,No.,
 jonas,dlg,ReplyList/43/Text,0,-1,Yes.,
@@ -4964,7 +4964,7 @@ jonas,dlg,ReplyList/73/Text,0,-1,I want to discuss your training.,
 jonas,dlg,ReplyList/74/Text,0,-1,"No, that's it for now.",
 jonas,dlg,ReplyList/75/Text,0,-1,Yes.,
 jonas,dlg,ReplyList/76/Text,0,-1,Let's talk.,
-jonas,dlg,ReplyList/77/Text,0,90208,Is everything OK?,
+jonas,dlg,ReplyList/77/Text,0,90208,Is everything OK?,"""어떻게 지내?"""
 jonas,dlg,ReplyList/78/Text,0,-1,I'm not feeling too good.,
 jonas,dlg,ReplyList/79/Text,0,-1,I'm fine thanks.,
 jonas,dlg,ReplyList/8/Text,0,-1,<StartAction>[Take the Witch Ring from your brother and cast it into the pit.]</Start>,
@@ -5114,7 +5114,7 @@ kathryn,dlg,EntryList/216/Text,0,-1,"I just said it was pretty, that's all.",
 kathryn,dlg,EntryList/217/Text,0,-1,You are right. I will concentrate on the task in hand.,
 kathryn,dlg,EntryList/218/Text,0,-1,Look at the state of this place! The water must come in here all the time!,
 kathryn,dlg,EntryList/219/Text,0,-1,"I thought this place would be more... well magical, and less horrible. Why would a dragon want to live here?",
-kathryn,dlg,EntryList/22/Text,0,77917,Then TO BATTLE!,
+kathryn,dlg,EntryList/22/Text,0,77917,Then TO BATTLE!,이제 자노스의 분노를 목격하라!
 kathryn,dlg,EntryList/220/Text,0,-1,What a dreadful place.,
 kathryn,dlg,EntryList/221/Text,0,-1,"I don't think I will even attempt to guess, Lady Kathryn. Dragons are not something I know that much about.",
 kathryn,dlg,EntryList/222/Text,0,-1,"It does seem a pretty nasty place to live, doesn't it?",
@@ -5125,7 +5125,7 @@ kathryn,dlg,EntryList/226/Text,0,-1,Although that wouldn't apply to Wyvernvapor;
 kathryn,dlg,EntryList/227/Text,0,-1,"If anyone is going to live in here, there must be a system of watertight doors, otherwise they'd all drown.",
 kathryn,dlg,EntryList/228/Text,0,-1,"If anyone is going to live in here, there must be a system of watertight doors, otherwise they'd all drown.",
 kathryn,dlg,EntryList/229/Text,0,-1,Whew! What a smell!,
-kathryn,dlg,EntryList/23/Text,0,77916,I'll have a go if you like... ,
+kathryn,dlg,EntryList/23/Text,0,77916,I'll have a go if you like... ,에. 아마도. 자노스가 네 물건 좀 뒤져볼게. 감정할 수 있는 게 발견되면 말해주지. 충분하지?
 kathryn,dlg,EntryList/230/Text,0,-1,Is that how bad dragons smell? I'm glad there's no one at home. It's overpowering!,
 kathryn,dlg,EntryList/231/Text,0,-1,Maybe this is where the dragon lives?,
 kathryn,dlg,EntryList/232/Text,0,-1,Yes but where is he?,
@@ -5158,7 +5158,7 @@ kathryn,dlg,EntryList/256/Text,0,-1,Perhaps it's a smuggler's den?,
 kathryn,dlg,EntryList/257/Text,0,-1,"For once child, you might be right.",
 kathryn,dlg,EntryList/258/Text,0,-1,Well we've found the castle... ,
 kathryn,dlg,EntryList/259/Text,0,-1,Now we must find the Mythallar.,
-kathryn,dlg,EntryList/26/Text,0,89234,Like what?,
+kathryn,dlg,EntryList/26/Text,0,89234,Like what?,"""알겠어. 어떤 종류의 강화 주문을 사용하길 원하나?"""
 kathryn,dlg,EntryList/260/Text,0,-1,I'm sure that the end of our troubles is not far away.,
 kathryn,dlg,EntryList/261/Text,0,-1,Now to find the dragon. Can you believe it? We're actually looking for a dragon! It's like those tales about dragons in the history books... ,
 kathryn,dlg,EntryList/262/Text,0,-1,"""Then Kathryn and <FirstName> approached the great castle... """,
@@ -5169,7 +5169,7 @@ kathryn,dlg,EntryList/266/Text,0,-1,"Some of the troubles of the realm rest on h
 kathryn,dlg,EntryList/267/Text,0,-1,"Child, your imagination is running away again. Try to remember that dragons are dangerous and spiteful lizards, not tales from your childhood. In any event we are looking for the Mythallar, not the dragon.",
 kathryn,dlg,EntryList/268/Text,0,-1,Well actually I have head that Wyvernvapor is not a dangerous dragon.,
 kathryn,dlg,EntryList/269/Text,0,-1,Well I'm sure we'll find out soon enough.,
-kathryn,dlg,EntryList/27/Text,0,86380,"Is there something else, then?",
+kathryn,dlg,EntryList/27/Text,0,86380,"Is there something else, then?","""그럼 또 다른 일이 있나?"""
 kathryn,dlg,EntryList/270/Text,0,-1,Look at this place!,
 kathryn,dlg,EntryList/271/Text,0,-1,Can I hear fighting? I think there's a battle going on inside!,
 kathryn,dlg,EntryList/272/Text,0,-1,There must be more of them about. Let's hope so. I have a debt to repay on these scum on behalf of my Lena.,
@@ -5180,25 +5180,25 @@ kathryn,dlg,EntryList/276/Text,0,-1,"Yeah, well Godfroy, on this I prefer to be 
 kathryn,dlg,EntryList/277/Text,0,-1,"I think we should be on our guard. There's lots said about the Forest Folk, and it's not all nice.",
 kathryn,dlg,EntryList/278/Text,0,-1,"Let's just hope there isn't a trap ahead, laid by this Manthis person.",
 kathryn,dlg,EntryList/279/Text,0,-1,"I have heard many people moan about the prices in the Six Coffers Trading Coster, but they say you can't beat it for variety.",
-kathryn,dlg,EntryList/28/Text,0,89237,And what is my target?,
-kathryn,dlg,EntryList/280/Text,0,76057,"Oh, did you come back for me, <FirstName>? Does his mean we will be together again?",
-kathryn,dlg,EntryList/281/Text,0,78095,Oh... then I'll wait here in case you change your mind.,
-kathryn,dlg,EntryList/282/Text,0,78289,<StartHighlight>Kathryn is currently unconscious and will likely die if he is not given aid very soon.</Start>,
-kathryn,dlg,EntryList/283/Text,0,76052,I... I thought I died! I am so glad I didn't!,
-kathryn,dlg,EntryList/284/Text,0,78287,But of course!,
-kathryn,dlg,EntryList/285/Text,0,78288,"Yes, you're probably right.",
+kathryn,dlg,EntryList/28/Text,0,89237,And what is my target?,"""그럼 내 목표는 뭐지?"""
+kathryn,dlg,EntryList/280/Text,0,76057,"Oh, did you come back for me, <FirstName>? Does his mean we will be together again?",자노스에게 다시 합류하자고 요청하러 온 거지?
+kathryn,dlg,EntryList/281/Text,0,78095,Oh... then I'll wait here in case you change your mind.,젠장! 그럼 네가 정신 차릴 때까지 여기 있겠어.
+kathryn,dlg,EntryList/282/Text,0,78289,<StartHighlight>Kathryn is currently unconscious and will likely die if he is not given aid very soon.</Start>,"<StartHighlight>자노스는 현재 의식이 없고, 도움을 받지 못하면 곧 죽을 것입니다.</Start>"
+kathryn,dlg,EntryList/283/Text,0,76052,I... I thought I died! I am so glad I didn't!,흥. 네가 제대로 했다면 자노스가 이런 불쾌함을 겪지 않아도 됐을 텐데.
+kathryn,dlg,EntryList/284/Text,0,78287,But of course!,알았어. 갈게.
+kathryn,dlg,EntryList/285/Text,0,78288,"Yes, you're probably right.",여기 남아 있겠어. 가고 싶으면 가.
 kathryn,dlg,EntryList/286/Text,0,-1,Good <QuarterDay> <FullName>.,
 kathryn,dlg,EntryList/287/Text,0,-1,"I thought you were my friend, but I've learnt my lesson now. Why don't you leave me alone?",
 kathryn,dlg,EntryList/288/Text,0,-1,"Hello. I am Kathryn Hawklin. You're <FullName>, aren't you?",
 kathryn,dlg,EntryList/289/Text,0,-1,You are! I know it. Father took you on as a squire didn't he? He said you had put new hope in his heart. I bet that's why he had Owain's room prepared... it was probably for you!,
-kathryn,dlg,EntryList/29/Text,0,86381,So be it!,
+kathryn,dlg,EntryList/29/Text,0,86381,So be it!,"""좋아!"""
 kathryn,dlg,EntryList/290/Text,0,-1,"Owain, yes. He was my brother... but he was killed in the war. Father hasn't even been in his room, nor Giles's, for more than two years. You must be special if it's because of you he had the room prepared. I wonder if that means father is starting to feel better?",
 kathryn,dlg,EntryList/291/Text,0,-1,Oh how exciting it is to meet you! Father has said lots of nice things about you. He said you had put new hope in his heart. I bet that's why he had Owain's room prepared... it was probably for you!,
 kathryn,dlg,EntryList/3/Text,0,-1,"I'm also training myself to be a ranger. It's difficult because it's so hard to get out, but I'm a good tracker and know some of the ways of the wild.",
-kathryn,dlg,EntryList/30/Text,0,77918,What is it you wish me to cast?,
-kathryn,dlg,EntryList/36/Text,0,77922,Very well.,
-kathryn,dlg,EntryList/37/Text,0,77904,Sounds good to me. What can you show me?,
-kathryn,dlg,EntryList/38/Text,0,77915,"Fine <FirstName>, just don't look too closely! You might see something that you don't think I should have!",
+kathryn,dlg,EntryList/30/Text,0,77918,What is it you wish me to cast?,주문? 뭘 시전하길 원하는 거야?
+kathryn,dlg,EntryList/36/Text,0,77922,Very well.,자노스가 하지...
+kathryn,dlg,EntryList/37/Text,0,77904,Sounds good to me. What can you show me?,자노스는 원하는 대로 실력과 능력을 키울 거다.
+kathryn,dlg,EntryList/38/Text,0,77915,"Fine <FirstName>, just don't look too closely! You might see something that you don't think I should have!",*한숨* 좋아. 여기 내 장비다.
 kathryn,dlg,EntryList/39/Text,0,-1,OK. What do you want to change?,
 kathryn,dlg,EntryList/4/Text,0,-1,So can I come with you?,
 kathryn,dlg,EntryList/40/Text,0,-1,How?,
@@ -5209,8 +5209,8 @@ kathryn,dlg,EntryList/44/Text,0,-1,Easy enough. Is there anything else?,
 kathryn,dlg,EntryList/45/Text,0,-1,Now you're talking! I can see you understand what I do best. Was there anything else you needed?,
 kathryn,dlg,EntryList/46/Text,0,-1,"Did you think I wasn't looking? Oh..I see, you mean REALLY search. No problem. Was there anything else?",
 kathryn,dlg,EntryList/47/Text,0,-1,"Well it goes against my nature, but I suppose I can stop for a bit. Is there anything else?",
-kathryn,dlg,EntryList/48/Text,0,77914,Is there any other way? Of course I will! Anything else you need?,
-kathryn,dlg,EntryList/49/Text,0,77914,You're the boss. I can do that. Anything else?,
+kathryn,dlg,EntryList/48/Text,0,77914,Is there any other way? Of course I will! Anything else you need?,알았어.
+kathryn,dlg,EntryList/49/Text,0,77914,You're the boss. I can do that. Anything else?,알았어.
 kathryn,dlg,EntryList/5/Text,0,-1,"Well obviously I am Sir Gilbert's daughter and so I have been brought up to fight and look after myself. I may only be young, but I am a quick learner, and dying to get out of this castle.",
 kathryn,dlg,EntryList/50/Text,0,-1,Afraid I might get too close and pinch something from you?,
 kathryn,dlg,EntryList/51/Text,0,-1,"Oh, you're too trusting, <FirstName>! Is there anything else?",
@@ -5221,21 +5221,21 @@ kathryn,dlg,EntryList/55/Text,0,-1,"I figured I could do with improving my wilde
 kathryn,dlg,EntryList/56/Text,0,-1,I'm doing a bit of everything at the moment.,
 kathryn,dlg,EntryList/57/Text,0,-1,"OK, no problem! Was there anything else on tactics?",
 kathryn,dlg,EntryList/58/Text,0,-1,Yes?,
-kathryn,dlg,EntryList/59/Text,0,89922,I'm fine thanks <FirstName>.,
+kathryn,dlg,EntryList/59/Text,0,89922,I'm fine thanks <FirstName>.,"""다 완전 끝내줘. 더할 나위 없지. 뭐... 내가 엄청 부자에 글래머한 하플링 아가씨들 하렘에 둘러싸여 있으면 더 좋겠지만... 그건 당장은 안 되겠지, 하하하!"""
 kathryn,dlg,EntryList/6/Text,0,-1,But that's not my only reason. I can't just sit by and watch while my father's fortunes tumble. We stand to lose everything that we have left if we can't tackle the raids and who's behind them.,
 kathryn,dlg,EntryList/60/Text,0,-1,Did you need anything else?,
 kathryn,dlg,EntryList/61/Text,0,-1,Actually I'm feeling pretty good. I just wish I had a comb handy.,
 kathryn,dlg,EntryList/62/Text,0,-1,Did you need anything else?,
-kathryn,dlg,EntryList/63/Text,0,89931,I have a few scratches and cuts. I think father would be proud of me.,
+kathryn,dlg,EntryList/63/Text,0,89931,I have a few scratches and cuts. I think father would be proud of me.,"""프흣, 난 걱정 마. 그냥 긁힌 상처 몇 개야."""
 kathryn,dlg,EntryList/64/Text,0,-1,"Although I'd like it if you could heal the one on my face, I don't want a scar.",
-kathryn,dlg,EntryList/65/Text,0,89932,I've felt a lot better. Some of these wounds are a bit painful.,
-kathryn,dlg,EntryList/66/Text,0,89933,"<FirstName>, do I actually look alright to you? Heal me would you, I've got wounds all over.",
+kathryn,dlg,EntryList/65/Text,0,89932,I've felt a lot better. Some of these wounds are a bit painful.,"""아까 좀 엉망이 되긴 했지, 헤. 볼 것까지는 없어."""
+kathryn,dlg,EntryList/66/Text,0,89933,"<FirstName>, do I actually look alright to you? Heal me would you, I've got wounds all over.","""그냥... 몇 군데 긁혔을 뿐이야, 별거 아냐."" 그는 얼굴을 찡그리며 빈 팔로 배에서 솟는 심한 피를 틀어막으려 합니다."
 kathryn,dlg,EntryList/67/Text,0,-1,Or shall we just talk while I bleed to death?,
-kathryn,dlg,EntryList/68/Text,0,89930,I can't see anything by Tyr! It's terrifying.,
+kathryn,dlg,EntryList/68/Text,0,89930,I can't see anything by Tyr! It's terrifying.,"""괜찮을 거야, 아마. 근데 여기가 정말 어두운 건지... 내가 진짜 눈이 먼 건지 말해 줄래? 살짝 걱정돼서."""
 kathryn,dlg,EntryList/69/Text,0,-1,Is there anything you can do to help?,
 kathryn,dlg,EntryList/7/Text,0,-1,I just need a chance to help my father and do whatever I can.,
-kathryn,dlg,EntryList/70/Text,0,89934,"I can't say I've been on many adventures, but is it normal for wounds to make you feel like there's fire running through you? And my hands keep cramping too. Oh, and my chest hurts as well.",
-kathryn,dlg,EntryList/71/Text,0,89935,Actually I feel really ill. I think I must have caught some sort of disease.,
+kathryn,dlg,EntryList/70/Text,0,89934,"I can't say I've been on many adventures, but is it normal for wounds to make you feel like there's fire running through you? And my hands keep cramping too. Oh, and my chest hurts as well.","""어이! 완전 멀쩡해-내 혈관을 타고 흐르는 불덩이만 빼면 말이지. 그건... 알아서 해결되겠지..."""
+kathryn,dlg,EntryList/71/Text,0,89935,Actually I feel really ill. I think I must have caught some sort of disease.,"""피부에 이상한 반점이 좀 생긴 것만 빼면 나쁘지 않아. 이거... 안 좋은 건가?"""
 kathryn,dlg,EntryList/72/Text,0,-1,"If you've got anything to help me feel better, that would be good.",
 kathryn,dlg,EntryList/73/Text,0,-1,I don't have anything else to say just now. Perhaps later.,
 kathryn,dlg,EntryList/74/Text,0,-1,"I was talking about Effie before, wasn't I? Oh, we had such fun together <FirstName>.  Even after what happened, I still miss her.",
@@ -5268,20 +5268,20 @@ kathryn,dlg,EntryList/98/Text,0,-1,"When my mother heard the news, she just sort
 kathryn,dlg,EntryList/99/Text,0,-1,"Father came back of course, but he's not the same man. He always seems sad. He's so afraid of losing me too, that for the last few months he has barely let me leave the castle.",
 kathryn,dlg,ReplyList/1/Text,0,-1,Do you have any skills I could use?,
 kathryn,dlg,ReplyList/10/Text,0,-1,Not just now thanks.,
-kathryn,dlg,ReplyList/100/Text,0,78364,Eagle's Splendor.,
+kathryn,dlg,ReplyList/100/Text,0,78364,Eagle's Splendor.,독수리의 위엄
 kathryn,dlg,ReplyList/101/Text,0,-1,Divine Favor,
 kathryn,dlg,ReplyList/102/Text,0,-1,Death ward.,
-kathryn,dlg,ReplyList/103/Text,0,78369,Cure Moderate Wounds,
-kathryn,dlg,ReplyList/104/Text,0,78369,Cure Minor Wounds,
-kathryn,dlg,ReplyList/105/Text,0,78369,Cure Light Wounds,
+kathryn,dlg,ReplyList/103/Text,0,78369,Cure Moderate Wounds,황소의 근력
+kathryn,dlg,ReplyList/104/Text,0,78369,Cure Minor Wounds,황소의 근력
+kathryn,dlg,ReplyList/105/Text,0,78369,Cure Light Wounds,황소의 근력
 kathryn,dlg,ReplyList/111/Text,0,-1,I've changed my mind. Let's discuss something else.,
-kathryn,dlg,ReplyList/112/Text,0,102389,Cast on all the party members.,
-kathryn,dlg,ReplyList/114/Text,0,102397,Cast it on <CUSTOM77102>.,
-kathryn,dlg,ReplyList/116/Text,0,102398,Cast it on <CUSTOM77101>.,
+kathryn,dlg,ReplyList/112/Text,0,102389,Cast on all the party members.,"""모든 파티원에게 시전해."""
+kathryn,dlg,ReplyList/114/Text,0,102397,Cast it on <CUSTOM77102>.,"""<CUSTOM77102>에게 시전해."""
+kathryn,dlg,ReplyList/116/Text,0,102398,Cast it on <CUSTOM77101>.,"""<CUSTOM77101>에게 시전해."""
 kathryn,dlg,ReplyList/12/Text,0,-1,Certainly. Come with me.,
 kathryn,dlg,ReplyList/123/Text,0,-1,Bless.,
 kathryn,dlg,ReplyList/125/Text,0,-1,Aid.,
-kathryn,dlg,ReplyList/126/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Kathryn]</Start>.,
+kathryn,dlg,ReplyList/126/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Kathryn]</Start>.,레벨업을 해줬으면 해.
 kathryn,dlg,ReplyList/128/Text,0,-1,Dismount from your horse.,
 kathryn,dlg,ReplyList/129/Text,0,-1,Mount up!,
 kathryn,dlg,ReplyList/132/Text,0,-1,Let's discuss tactics.,
@@ -5337,7 +5337,7 @@ kathryn,dlg,ReplyList/180/Text,0,-1,<StartAction>Kathryn will level up as a Rang
 kathryn,dlg,ReplyList/181/Text,0,-1,Good. I think we are done for the moment.,
 kathryn,dlg,ReplyList/182/Text,0,-1,Yes.,
 kathryn,dlg,ReplyList/183/Text,0,-1,Let's talk.,
-kathryn,dlg,ReplyList/184/Text,0,90208,Is everything OK?,
+kathryn,dlg,ReplyList/184/Text,0,90208,Is everything OK?,"""어떻게 지내?"""
 kathryn,dlg,ReplyList/193/Text,0,-1,Let me see what I have... ,
 kathryn,dlg,ReplyList/194/Text,0,-1,Tell me a little more about yourself.,
 kathryn,dlg,ReplyList/196/Text,0,-1,It sounds like you don't see her any more.,
@@ -5365,40 +5365,40 @@ kathryn,dlg,ReplyList/230/Text,0,-1,Let's discuss something else.,
 kathryn,dlg,ReplyList/232/Text,0,-1,We don't have time for this now.,
 kathryn,dlg,ReplyList/233/Text,0,-1,What is it?,
 kathryn,dlg,ReplyList/26/Text,0,-1,I want you to use your magic.,
-kathryn,dlg,ReplyList/27/Text,0,88323,I don't want you to cast any spells until I say otherwise.,
-kathryn,dlg,ReplyList/28/Text,0,88324,I want you to go ahead and cast spells on your own.,
-kathryn,dlg,ReplyList/29/Text,0,89479,I need you to cast a group of buffing spells.,
-kathryn,dlg,ReplyList/30/Text,0,89480,Never mind.,
-kathryn,dlg,ReplyList/31/Text,0,89587,"No, nothing else.",
+kathryn,dlg,ReplyList/27/Text,0,88323,I don't want you to cast any spells until I say otherwise.,"""내가 달리 말하기 전까지는 주문을 사용하지 마."""
+kathryn,dlg,ReplyList/28/Text,0,88324,I want you to go ahead and cast spells on your own.,"""앞으로 주문은 네 판단대로 사용해."""
+kathryn,dlg,ReplyList/29/Text,0,89479,I need you to cast a group of buffing spells.,"""강화 주문 묶음을 시전해 줘."""
+kathryn,dlg,ReplyList/30/Text,0,89480,Never mind.,"""신경 쓰지 마."""
+kathryn,dlg,ReplyList/31/Text,0,89587,"No, nothing else.","""아니, 다른 건 없어."""
 kathryn,dlg,ReplyList/316/Text,0,-1,Why would that be useful?,
 kathryn,dlg,ReplyList/317/Text,0,-1,Can you tell me what they might be for?,
 kathryn,dlg,ReplyList/32/Text,0,-1,Yes.,
-kathryn,dlg,ReplyList/33/Text,0,89481,Cast all the buffing spells you have.,
+kathryn,dlg,ReplyList/33/Text,0,89481,Cast all the buffing spells you have.,"""가진 강화 주문을 모두 시전해."""
 kathryn,dlg,ReplyList/338/Text,0,-1,"Lacinda, you still have to prove yourself.",
 kathryn,dlg,ReplyList/339/Text,0,-1,"Kathryn, stop being stupid and stick to our quest.",
-kathryn,dlg,ReplyList/34/Text,0,89482,Cast all the buffing spells that last a long time.,
+kathryn,dlg,ReplyList/34/Text,0,89482,Cast all the buffing spells that last a long time.,"""지속시간이 긴 강화 주문을 모두 시전해."""
 kathryn,dlg,ReplyList/341/Text,0,-1,Must you do this now?,
 kathryn,dlg,ReplyList/343/Text,0,-1,That is enough. I trust you both. Let's concentrate on the Mythallar.,
-kathryn,dlg,ReplyList/35/Text,0,89483,Cast all the short duration buffing spells.,
+kathryn,dlg,ReplyList/35/Text,0,89483,Cast all the short duration buffing spells.,"""지속시간이 짧은 강화 주문을 모두 시전해."""
 kathryn,dlg,ReplyList/359/Text,0,-1,You're imagining things.,
-kathryn,dlg,ReplyList/36/Text,0,89566,I've changed my mind.,
+kathryn,dlg,ReplyList/36/Text,0,89566,I've changed my mind.,"""마음을 바꿨어."""
 kathryn,dlg,ReplyList/363/Text,0,-1,What did you see?,
-kathryn,dlg,ReplyList/37/Text,0,89567,Cast on all the party members.,
-kathryn,dlg,ReplyList/38/Text,0,89577,Cast it on my animal companion.,
-kathryn,dlg,ReplyList/39/Text,0,89578,Cast it on my familiar.,
+kathryn,dlg,ReplyList/37/Text,0,89567,Cast on all the party members.,"""파티원 전체에게 시전해."""
+kathryn,dlg,ReplyList/38/Text,0,89577,Cast it on my animal companion.,"""내 동물 동료에게 시전해."""
+kathryn,dlg,ReplyList/39/Text,0,89578,Cast it on my familiar.,"""내 사역마에게 시전해."""
 kathryn,dlg,ReplyList/397/Text,0,-1,Good.,
 kathryn,dlg,ReplyList/398/Text,0,-1,Do you think we should expect trouble?,
 kathryn,dlg,ReplyList/4/Text,0,-1,Tell me a little about yourself.,
-kathryn,dlg,ReplyList/40/Text,0,89579,Cast it on me.,
-kathryn,dlg,ReplyList/406/Text,0,78631,I have still need of your help. Travel with me once more.,
-kathryn,dlg,ReplyList/408/Text,0,78632,You should remain here until you recover fully. You are yet weak.,
-kathryn,dlg,ReplyList/41/Text,0,89580,Cast it on yourself.,
+kathryn,dlg,ReplyList/40/Text,0,89579,Cast it on me.,"""나한테 시전해."""
+kathryn,dlg,ReplyList/406/Text,0,78631,I have still need of your help. Travel with me once more.,가자.
+kathryn,dlg,ReplyList/408/Text,0,78632,You should remain here until you recover fully. You are yet weak.,여기 있어.
+kathryn,dlg,ReplyList/41/Text,0,89580,Cast it on yourself.,"""너한테 시전해."""
 kathryn,dlg,ReplyList/410/Text,0,-1,I might be,
 kathryn,dlg,ReplyList/411/Text,0,-1,No,
 kathryn,dlg,ReplyList/412/Text,0,-1,Did you want something?,
 kathryn,dlg,ReplyList/413/Text,0,-1,Owain?,
 kathryn,dlg,ReplyList/415/Text,0,-1,Yes,
-kathryn,dlg,ReplyList/44/Text,0,78319,Never mind.,
+kathryn,dlg,ReplyList/44/Text,0,78319,Never mind.,아니야.
 kathryn,dlg,ReplyList/56/Text,0,-1,Spell resistance.,
 kathryn,dlg,ReplyList/57/Text,0,-1,Restoration.,
 kathryn,dlg,ReplyList/58/Text,0,-1,Shield of faith.,
@@ -5412,7 +5412,7 @@ kathryn,dlg,ReplyList/86/Text,0,-1,Greater restoration.,
 kathryn,dlg,ReplyList/87/Text,0,-1,Greater undead.,
 kathryn,dlg,ReplyList/90/Text,0,-1,Freedom of movement.,
 kathryn,dlg,ReplyList/94/Text,0,-1,Entropic shield.,
-kathryn,dlg,ReplyList/96/Text,0,78319,Never mind.,
+kathryn,dlg,ReplyList/96/Text,0,78319,Never mind.,아니야.
 keeper,dlg,EntryList/0/Text,0,-1,Yes?,
 keeper,dlg,EntryList/1/Text,0,-1,"Well of course! The Wyvern Crown used to belong to the Witch Lords hundreds of years ago, and this was their castle. Of course the Witch Lords were defeated by Cormyr, and the Royal Family had the crown for ages, but it was stolen and then lost.",
 keeper,dlg,EntryList/10/Text,0,-1,GUARDIANS,
@@ -5492,10 +5492,10 @@ killkathryn,dlg,EntryList/2/Text,0,-1,Kill the Cormyrian dogs!,
 lacinda,dlg,EntryList/0/Text,0,-1,ROOT of general questions.,
 lacinda,dlg,EntryList/1/Text,0,-1,"When I watched you riding in the joust, I saw the person that I wish I had become. I admire you <FullName>. I can't fully explain it, but it seems to me you have all the trappings of the knight I once wished to be.",
 lacinda,dlg,EntryList/10/Text,0,-1,"I am honored, <FullName>.",
-lacinda,dlg,EntryList/100/Text,0,89930,"I can't see, <FirstName>. It's not the first time; if you play around with magic, it can happen; but that doesn't make it any less frightening. I'll go on if we have to, but do you have anything to cure me?",
-lacinda,dlg,EntryList/101/Text,0,89934,I've played with enough potions to know when I've been poisoned. I hope you have an antidote.,
+lacinda,dlg,EntryList/100/Text,0,89930,"I can't see, <FirstName>. It's not the first time; if you play around with magic, it can happen; but that doesn't make it any less frightening. I'll go on if we have to, but do you have anything to cure me?","""괜찮을 거야, 아마. 근데 여기가 정말 어두운 건지... 내가 진짜 눈이 먼 건지 말해 줄래? 살짝 걱정돼서."""
+lacinda,dlg,EntryList/101/Text,0,89934,I've played with enough potions to know when I've been poisoned. I hope you have an antidote.,"""어이! 완전 멀쩡해-내 혈관을 타고 흐르는 불덩이만 빼면 말이지. 그건... 알아서 해결되겠지..."""
 lacinda,dlg,EntryList/102/Text,0,-1,"If you don't, then there's nothing I can do except carry on.",
-lacinda,dlg,EntryList/103/Text,0,89935,"There's something wrong with me <FirstName>. I can't stop itching, and I'm feeling sick. I must have caught a disease. Do you have anything?",
+lacinda,dlg,EntryList/103/Text,0,89935,"There's something wrong with me <FirstName>. I can't stop itching, and I'm feeling sick. I must have caught a disease. Do you have anything?","""피부에 이상한 반점이 좀 생긴 것만 빼면 나쁘지 않아. 이거... 안 좋은 건가?"""
 lacinda,dlg,EntryList/104/Text,0,-1,I don't have anything else to say just now. Perhaps later.,
 lacinda,dlg,EntryList/105/Text,0,-1,"I told you how knighthood was closed to me, and the hopes of fame and chivalry soon faded as I realised what they were; a fool's dreams. There was no time for bitterness. I could find no way to support myself, and no one to employ me even if I had had any skill worth using. By necessity I fell to theft, I soon lost my pride, and some would say I lost my dignity.",
 lacinda,dlg,EntryList/106/Text,0,-1,"I could not have been further from the King's eye, or so I thought. What possible threat could I be? But wily Vangerderhast, the Court Wizard, was always on the watch for trouble, and seeing what had become of me, saw a risk that desperation might make me turn on the Crown.",
@@ -5726,12 +5726,12 @@ lacinda,dlg,EntryList/308/Text,0,-1,"Let's just hope there isn't a trap ahead, l
 lacinda,dlg,EntryList/309/Text,0,-1,The Six Coffers Trading Coster is the main merchant's Coster in Thunderstone.,
 lacinda,dlg,EntryList/31/Text,0,-1,Well... my name is Lacinda Cormaeril... ,
 lacinda,dlg,EntryList/310/Text,0,-1,"I have heard many people moan about the prices in the Six Coffers Trading Coster, but you can't beat it for variety. Magurk's might serve us better for everyday equipping, but if we need something special, we may have more luck here.",
-lacinda,dlg,EntryList/311/Text,0,76057,Are we ready to journey together once more?,
-lacinda,dlg,EntryList/312/Text,0,78095,"Fine, if that is what you wish I shall remain here in the hope that you change your mind.",
-lacinda,dlg,EntryList/313/Text,0,78289,<StartHighlight>Lacinda is currently unconscious and will likely die if he is not given aid very soon.</Start>,
-lacinda,dlg,EntryList/314/Text,0,76052,"Sometimes sorcery and magic can take us close to the realm of death, but that was the real thing, I am sure of it. This must be your doing, <FirstName>. My thanks.",
-lacinda,dlg,EntryList/315/Text,0,78287,Very well. I will come with you once again.,
-lacinda,dlg,EntryList/316/Text,0,78288,I shall stay then. Journey well.,
+lacinda,dlg,EntryList/311/Text,0,76057,Are we ready to journey together once more?,자노스에게 다시 합류하자고 요청하러 온 거지?
+lacinda,dlg,EntryList/312/Text,0,78095,"Fine, if that is what you wish I shall remain here in the hope that you change your mind.",젠장! 그럼 네가 정신 차릴 때까지 여기 있겠어.
+lacinda,dlg,EntryList/313/Text,0,78289,<StartHighlight>Lacinda is currently unconscious and will likely die if he is not given aid very soon.</Start>,"<StartHighlight>자노스는 현재 의식이 없고, 도움을 받지 못하면 곧 죽을 것입니다.</Start>"
+lacinda,dlg,EntryList/314/Text,0,76052,"Sometimes sorcery and magic can take us close to the realm of death, but that was the real thing, I am sure of it. This must be your doing, <FirstName>. My thanks.",흥. 네가 제대로 했다면 자노스가 이런 불쾌함을 겪지 않아도 됐을 텐데.
+lacinda,dlg,EntryList/315/Text,0,78287,Very well. I will come with you once again.,알았어. 갈게.
+lacinda,dlg,EntryList/316/Text,0,78288,I shall stay then. Journey well.,여기 남아 있겠어. 가고 싶으면 가.
 lacinda,dlg,EntryList/317/Text,0,-1,Good <QuarterDay> <FullName>.,
 lacinda,dlg,EntryList/318/Text,0,-1,I do not wish to speak to you. Go away.,
 lacinda,dlg,EntryList/319/Text,0,-1,"So, <FullName>, I am impressed! Truly you did ride well as my champion.",
@@ -5761,21 +5761,21 @@ lacinda,dlg,EntryList/47/Text,0,-1,"Yes, what is it?",
 lacinda,dlg,EntryList/48/Text,0,-1,"That is a shame <FirstName>. I am enjoying doing something meaningful for once, something more... knightly, as I have craved for much of my life. Let me stay.",
 lacinda,dlg,EntryList/49/Text,0,-1,As you wish. I shall pass by The Sign of Thunder from time to time if you change your mind. I would be pleased if you change your mind.,
 lacinda,dlg,EntryList/5/Text,0,-1,We would have to be better friends before I feel comfortable talking about myself. Too often I have been judged by someone before they have even met me.,
-lacinda,dlg,EntryList/50/Text,0,77916,I'll have a go if you like... ,
+lacinda,dlg,EntryList/50/Text,0,77916,I'll have a go if you like... ,에. 아마도. 자노스가 네 물건 좀 뒤져볼게. 감정할 수 있는 게 발견되면 말해주지. 충분하지?
 lacinda,dlg,EntryList/51/Text,0,-1,"I'll do whatever you need, <FirstName>. Just tell me what you want.",
 lacinda,dlg,EntryList/52/Text,0,-1,I take it you want me to save my powers for the bigger challenges. Is there anything else?,
 lacinda,dlg,EntryList/53/Text,0,-1,What is it?,
 lacinda,dlg,EntryList/54/Text,0,-1,As you wish. Is there anything else?,
 lacinda,dlg,EntryList/55/Text,0,-1,As you wish. Is there anything else?,
-lacinda,dlg,EntryList/56/Text,0,89234,"Of course, but can you be more specific?",
-lacinda,dlg,EntryList/57/Text,0,86380,"Is there something else, then?",
-lacinda,dlg,EntryList/58/Text,0,89237,And what is my target?,
-lacinda,dlg,EntryList/59/Text,0,86381,So be it!,
+lacinda,dlg,EntryList/56/Text,0,89234,"Of course, but can you be more specific?","""알겠어. 어떤 종류의 강화 주문을 사용하길 원하나?"""
+lacinda,dlg,EntryList/57/Text,0,86380,"Is there something else, then?","""그럼 또 다른 일이 있나?"""
+lacinda,dlg,EntryList/58/Text,0,89237,And what is my target?,"""그럼 내 목표는 뭐지?"""
+lacinda,dlg,EntryList/59/Text,0,86381,So be it!,"""좋아!"""
 lacinda,dlg,EntryList/6/Text,0,-1,"Take me with you, and you will soon find my true worth. Judge me by my actions, not from what you've heard about my family, that's all I ask. Will you take me?",
-lacinda,dlg,EntryList/60/Text,0,77918,What shall I cast?,
-lacinda,dlg,EntryList/66/Text,0,77922,Very well.,
-lacinda,dlg,EntryList/67/Text,0,77904,"I would be glad to hear whatever you  have to recommend, <FirstName>.",
-lacinda,dlg,EntryList/68/Text,0,77915,This is what I have... ,
+lacinda,dlg,EntryList/60/Text,0,77918,What shall I cast?,주문? 뭘 시전하길 원하는 거야?
+lacinda,dlg,EntryList/66/Text,0,77922,Very well.,자노스가 하지...
+lacinda,dlg,EntryList/67/Text,0,77904,"I would be glad to hear whatever you  have to recommend, <FirstName>.",자노스는 원하는 대로 실력과 능력을 키울 거다.
+lacinda,dlg,EntryList/68/Text,0,77915,This is what I have... ,*한숨* 좋아. 여기 내 장비다.
 lacinda,dlg,EntryList/69/Text,0,-1,What do you need?,
 lacinda,dlg,EntryList/7/Text,0,-1,"I'm not surprised, and you probably deserve it. Only an idiot trusts a Cormaeril.",
 lacinda,dlg,EntryList/70/Text,0,-1,"Alright, if you think you can handle them. Is there anything else?",
@@ -5785,8 +5785,8 @@ lacinda,dlg,EntryList/73/Text,0,-1,I can do that. Is there anything else?,
 lacinda,dlg,EntryList/74/Text,0,-1,"Fine, though I can't use my spells that way.",
 lacinda,dlg,EntryList/75/Text,0,-1,Like the secret door back there? I'm just joking <FirstName>! I'll do what I can. Is there anything else?,
 lacinda,dlg,EntryList/76/Text,0,-1,"If you like, but I think I can help. Is there anything else?",
-lacinda,dlg,EntryList/77/Text,0,77914,Agreed. Is there anything else?,
-lacinda,dlg,EntryList/78/Text,0,77914,"Very well, then. Is there anything else?",
+lacinda,dlg,EntryList/77/Text,0,77914,Agreed. Is there anything else?,알았어.
+lacinda,dlg,EntryList/78/Text,0,77914,"Very well, then. Is there anything else?",알았어.
 lacinda,dlg,EntryList/79/Text,0,-1,Just tell me where you want me.,
 lacinda,dlg,EntryList/8/Text,0,-1,"And there is a fine example. Though her father knows better, this child thinks with her ears.",
 lacinda,dlg,EntryList/80/Text,0,-1,Good thinking. Is there anything else?,
@@ -5801,13 +5801,13 @@ lacinda,dlg,EntryList/88/Text,0,-1,At present I am concentrating on on a little 
 lacinda,dlg,EntryList/89/Text,0,-1,This is definitely my preferred choice. Was there anything else on tactics?,
 lacinda,dlg,EntryList/9/Text,0,-1,As you wish. I shall pass by The Sign of Thunder from time to time if you change your mind. I would be pleased if you would let me come with you.,
 lacinda,dlg,EntryList/90/Text,0,-1,Yes?,
-lacinda,dlg,EntryList/91/Text,0,89922,Is it alright to say I am almost... enjoying myself? I feel like I am finally doing something with meaning.,
+lacinda,dlg,EntryList/91/Text,0,89922,Is it alright to say I am almost... enjoying myself? I feel like I am finally doing something with meaning.,"""다 완전 끝내줘. 더할 나위 없지. 뭐... 내가 엄청 부자에 글래머한 하플링 아가씨들 하렘에 둘러싸여 있으면 더 좋겠지만... 그건 당장은 안 되겠지, 하하하!"""
 lacinda,dlg,EntryList/92/Text,0,-1,"Anyway, was there anything else?",
 lacinda,dlg,EntryList/93/Text,0,-1,"I am feeling impatient <FirstName>. I want to get to the bottom of this, and feel like the victory is ours. Otherwise, I am fine.",
-lacinda,dlg,EntryList/94/Text,0,89931,"I have a few cuts and bruises, but nothing that dims my spirit. Let's get on with our quest.",
+lacinda,dlg,EntryList/94/Text,0,89931,"I have a few cuts and bruises, but nothing that dims my spirit. Let's get on with our quest.","""프흣, 난 걱정 마. 그냥 긁힌 상처 몇 개야."""
 lacinda,dlg,EntryList/95/Text,0,-1,Unless there was anything else?,
-lacinda,dlg,EntryList/96/Text,0,89932,"I've been better, <FirstName>. These wounds won't kill me, but they hurt.",
-lacinda,dlg,EntryList/97/Text,0,89933,I am bleeding and badly wounded.,
+lacinda,dlg,EntryList/96/Text,0,89932,"I've been better, <FirstName>. These wounds won't kill me, but they hurt.","""아까 좀 엉망이 되긴 했지, 헤. 볼 것까지는 없어."""
+lacinda,dlg,EntryList/97/Text,0,89933,I am bleeding and badly wounded.,"""그냥... 몇 군데 긁혔을 뿐이야, 별거 아냐."" 그는 얼굴을 찡그리며 빈 팔로 배에서 솟는 심한 피를 틀어막으려 합니다."
 lacinda,dlg,EntryList/98/Text,0,-1,I hope you have some healing handy?,
 lacinda,dlg,EntryList/99/Text,0,-1,Then I'll have to manage. Was there anything else?,
 lacinda,dlg,ReplyList/0/Text,0,-1,Why do you want to come with me?,
@@ -5822,23 +5822,23 @@ lacinda,dlg,ReplyList/126/Text,0,-1,Greater restoration.,
 lacinda,dlg,ReplyList/127/Text,0,-1,Greater undead.,
 lacinda,dlg,ReplyList/130/Text,0,-1,Freedom of movement.,
 lacinda,dlg,ReplyList/134/Text,0,-1,Entropic shield.,
-lacinda,dlg,ReplyList/136/Text,0,78319,Never mind.,
+lacinda,dlg,ReplyList/136/Text,0,78319,Never mind.,아니야.
 lacinda,dlg,ReplyList/14/Text,0,-1,No,
-lacinda,dlg,ReplyList/140/Text,0,78364,Eagle's Splendor.,
+lacinda,dlg,ReplyList/140/Text,0,78364,Eagle's Splendor.,독수리의 위엄
 lacinda,dlg,ReplyList/141/Text,0,-1,Divine Favor,
 lacinda,dlg,ReplyList/142/Text,0,-1,Death ward.,
-lacinda,dlg,ReplyList/143/Text,0,78369,Cure Moderate Wounds,
-lacinda,dlg,ReplyList/144/Text,0,78369,Cure Minor Wounds,
-lacinda,dlg,ReplyList/145/Text,0,78369,Cure Light Wounds,
+lacinda,dlg,ReplyList/143/Text,0,78369,Cure Moderate Wounds,황소의 근력
+lacinda,dlg,ReplyList/144/Text,0,78369,Cure Minor Wounds,황소의 근력
+lacinda,dlg,ReplyList/145/Text,0,78369,Cure Light Wounds,황소의 근력
 lacinda,dlg,ReplyList/15/Text,0,-1,I might be.,
 lacinda,dlg,ReplyList/151/Text,0,-1,I've changed my mind. Let's discuss something else.,
-lacinda,dlg,ReplyList/152/Text,0,102389,Cast on all the party members.,
-lacinda,dlg,ReplyList/154/Text,0,102397,Cast it on <CUSTOM77102>.,
-lacinda,dlg,ReplyList/156/Text,0,102398,Cast it on <CUSTOM77101>.,
+lacinda,dlg,ReplyList/152/Text,0,102389,Cast on all the party members.,"""모든 파티원에게 시전해."""
+lacinda,dlg,ReplyList/154/Text,0,102397,Cast it on <CUSTOM77102>.,"""<CUSTOM77102>에게 시전해."""
+lacinda,dlg,ReplyList/156/Text,0,102398,Cast it on <CUSTOM77101>.,"""<CUSTOM77101>에게 시전해."""
 lacinda,dlg,ReplyList/16/Text,0,-1,Yes,
 lacinda,dlg,ReplyList/163/Text,0,-1,Bless.,
 lacinda,dlg,ReplyList/165/Text,0,-1,Aid.,
-lacinda,dlg,ReplyList/166/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Lacinda]</Start>.,
+lacinda,dlg,ReplyList/166/Text,0,78302,With some training you could improve your skills. Let's take a moment to teach you some useful tricks.<StartHighlight>[Level Lacinda]</Start>.,레벨업을 해줬으면 해.
 lacinda,dlg,ReplyList/168/Text,0,-1,Dismount from your horse.,
 lacinda,dlg,ReplyList/169/Text,0,-1,Mount up!,
 lacinda,dlg,ReplyList/17/Text,0,-1,I'm not interested in riding for you.,
@@ -5855,7 +5855,7 @@ lacinda,dlg,ReplyList/180/Text,0,-1,Yes.,
 lacinda,dlg,ReplyList/181/Text,0,-1,Stop sneaking. I need to know where you are so I don't hit you.,
 lacinda,dlg,ReplyList/182/Text,0,-1,No.,
 lacinda,dlg,ReplyList/183/Text,0,-1,Yes.,
-lacinda,dlg,ReplyList/184/Text,0,102294,"Stay stealthy, but only until the next fight.",
+lacinda,dlg,ReplyList/184/Text,0,102294,"Stay stealthy, but only until the next fight.","""은밀하게 행동해, 하지만 다음 전투까지만."""
 lacinda,dlg,ReplyList/185/Text,0,-1,No.,
 lacinda,dlg,ReplyList/186/Text,0,-1,Yes.,
 lacinda,dlg,ReplyList/187/Text,0,-1,Use creeping tactics when we see enemies.,
@@ -5900,7 +5900,7 @@ lacinda,dlg,ReplyList/222/Text,0,-1,<StartAction>Lacinda will level up as a Sorc
 lacinda,dlg,ReplyList/223/Text,0,-1,Good. I think we are done for the moment.,
 lacinda,dlg,ReplyList/224/Text,0,-1,Yes.,
 lacinda,dlg,ReplyList/225/Text,0,-1,Let's talk.,
-lacinda,dlg,ReplyList/226/Text,0,90208,Is everything OK?,
+lacinda,dlg,ReplyList/226/Text,0,90208,Is everything OK?,"""어떻게 지내?"""
 lacinda,dlg,ReplyList/23/Text,0,-1,Why would you do that?,
 lacinda,dlg,ReplyList/231/Text,0,-1,I don't.,
 lacinda,dlg,ReplyList/232/Text,0,-1,"No, that's all.",
@@ -5958,8 +5958,8 @@ lacinda,dlg,ReplyList/401/Text,0,-1,You're imagining things.,
 lacinda,dlg,ReplyList/408/Text,0,-1,What did you see?,
 lacinda,dlg,ReplyList/442/Text,0,-1,Good.,
 lacinda,dlg,ReplyList/443/Text,0,-1,Do you think we should expect trouble?,
-lacinda,dlg,ReplyList/453/Text,0,78631,I still need your help. Travel with me once more.,
-lacinda,dlg,ReplyList/455/Text,0,78632,You should remain here until you recover fully. You are still weak.,
+lacinda,dlg,ReplyList/453/Text,0,78631,I still need your help. Travel with me once more.,가자.
+lacinda,dlg,ReplyList/455/Text,0,78632,You should remain here until you recover fully. You are still weak.,여기 있어.
 lacinda,dlg,ReplyList/457/Text,0,-1,Thank you.,
 lacinda,dlg,ReplyList/458/Text,0,-1,You should have expected it.,
 lacinda,dlg,ReplyList/459/Text,0,-1,It was only possible because of your horse.,
@@ -5976,32 +5976,32 @@ lacinda,dlg,ReplyList/54/Text,0,-1,"Thank you for your help, but now it is time 
 lacinda,dlg,ReplyList/55/Text,0,-1,"Very well, you can stay.",
 lacinda,dlg,ReplyList/56/Text,0,-1,No. I do not need you at the moment. Maybe later.,
 lacinda,dlg,ReplyList/60/Text,0,-1,Let's discuss your magic use.,
-lacinda,dlg,ReplyList/61/Text,0,102287,I don't want you to cast any spells until I say otherwise.,
+lacinda,dlg,ReplyList/61/Text,0,102287,I don't want you to cast any spells until I say otherwise.,"""내가 달리 말하기 전까지 주문을 시전하지 마."""
 lacinda,dlg,ReplyList/62/Text,0,-1,No.,
 lacinda,dlg,ReplyList/63/Text,0,-1,Yes.,
-lacinda,dlg,ReplyList/64/Text,0,102289,Do not try to use dispel magic spells to remove disabling effects from party members.,
-lacinda,dlg,ReplyList/65/Text,0,102290,Use dispel magic spells to remove disabling effects from party members.,
-lacinda,dlg,ReplyList/66/Text,0,88323,I don't want you to cast any spells until I say otherwise.,
+lacinda,dlg,ReplyList/64/Text,0,102289,Do not try to use dispel magic spells to remove disabling effects from party members.,"""파티원의 무력화 효과를 제거하기 위해 주문해제를 사용하지 마."""
+lacinda,dlg,ReplyList/65/Text,0,102290,Use dispel magic spells to remove disabling effects from party members.,"""파티원의 무력화 효과를 제거하기 위해 주문해제를 사용해."""
+lacinda,dlg,ReplyList/66/Text,0,88323,I don't want you to cast any spells until I say otherwise.,"""내가 달리 말하기 전까지는 주문을 사용하지 마."""
 lacinda,dlg,ReplyList/67/Text,0,-1,No.,
 lacinda,dlg,ReplyList/68/Text,0,-1,Yes.,
-lacinda,dlg,ReplyList/69/Text,0,88324,I want you to go ahead and cast spells on your own.,
+lacinda,dlg,ReplyList/69/Text,0,88324,I want you to go ahead and cast spells on your own.,"""앞으로 주문은 네 판단대로 사용해."""
 lacinda,dlg,ReplyList/70/Text,0,-1,No.,
 lacinda,dlg,ReplyList/71/Text,0,-1,Yes.,
-lacinda,dlg,ReplyList/72/Text,0,89479,I need you to cast a group of buffing spells.,
-lacinda,dlg,ReplyList/73/Text,0,89480,Never mind.,
-lacinda,dlg,ReplyList/74/Text,0,89587,"No, nothing else.",
+lacinda,dlg,ReplyList/72/Text,0,89479,I need you to cast a group of buffing spells.,"""강화 주문 묶음을 시전해 줘."""
+lacinda,dlg,ReplyList/73/Text,0,89480,Never mind.,"""신경 쓰지 마."""
+lacinda,dlg,ReplyList/74/Text,0,89587,"No, nothing else.","""아니, 다른 건 없어."""
 lacinda,dlg,ReplyList/75/Text,0,-1,Yes.,
-lacinda,dlg,ReplyList/76/Text,0,89481,Cast all the buffing spells you have.,
-lacinda,dlg,ReplyList/77/Text,0,89482,Cast all the buffing spells that last a long time.,
-lacinda,dlg,ReplyList/78/Text,0,89483,Cast all the short duration buffing spells.,
-lacinda,dlg,ReplyList/79/Text,0,89566,I've changed my mind.,
+lacinda,dlg,ReplyList/76/Text,0,89481,Cast all the buffing spells you have.,"""가진 강화 주문을 모두 시전해."""
+lacinda,dlg,ReplyList/77/Text,0,89482,Cast all the buffing spells that last a long time.,"""지속시간이 긴 강화 주문을 모두 시전해."""
+lacinda,dlg,ReplyList/78/Text,0,89483,Cast all the short duration buffing spells.,"""지속시간이 짧은 강화 주문을 모두 시전해."""
+lacinda,dlg,ReplyList/79/Text,0,89566,I've changed my mind.,"""마음을 바꿨어."""
 lacinda,dlg,ReplyList/8/Text,0,-1,Not just now thanks.,
-lacinda,dlg,ReplyList/80/Text,0,89567,Cast on all the party members.,
-lacinda,dlg,ReplyList/81/Text,0,89577,Cast it on my animal companion.,
-lacinda,dlg,ReplyList/82/Text,0,89578,Cast it on my familiar.,
-lacinda,dlg,ReplyList/83/Text,0,89579,Cast it on me.,
-lacinda,dlg,ReplyList/84/Text,0,89580,Cast it on yourself.,
-lacinda,dlg,ReplyList/87/Text,0,78319,Never mind.,
+lacinda,dlg,ReplyList/80/Text,0,89567,Cast on all the party members.,"""파티원 전체에게 시전해."""
+lacinda,dlg,ReplyList/81/Text,0,89577,Cast it on my animal companion.,"""내 동물 동료에게 시전해."""
+lacinda,dlg,ReplyList/82/Text,0,89578,Cast it on my familiar.,"""내 사역마에게 시전해."""
+lacinda,dlg,ReplyList/83/Text,0,89579,Cast it on me.,"""나한테 시전해."""
+lacinda,dlg,ReplyList/84/Text,0,89580,Cast it on yourself.,"""너한테 시전해."""
+lacinda,dlg,ReplyList/87/Text,0,78319,Never mind.,아니야.
 lacinda,dlg,ReplyList/99/Text,0,-1,Spell resistance.,
 latim,dlg,EntryList/0/Text,0,-1,I must sail on the next tide. There is no time for chatter just now.,
 latim,dlg,EntryList/1/Text,0,-1,There is nothing more for us to discuss. I have matters to attend to.,
@@ -7304,7 +7304,7 @@ purpledragon1,dlg,ReplyList/6/Text,0,-1,Where is the cemetery?,
 purpledragon1,dlg,ReplyList/7/Text,0,-1,My thanks to you.,
 purpledragon1,dlg,ReplyList/8/Text,0,-1,Where can I find merchants to trade with?,
 purpledragon1,dlg,ReplyList/9/Text,0,-1,Livestock if that includes horses.,
-q3d_debris,dlg,EntryList/0/Text,0,82025,The room ahead does not appear to be safe. The ceiling itself seems precariously close to giving way and crushing anyone underneath it.,
+q3d_debris,dlg,EntryList/0/Text,0,82025,The room ahead does not appear to be safe. The ceiling itself seems precariously close to giving way and crushing anyone underneath it.,앞쪽 복도는 안전해 보이지 않습니다. 천장이 금방이라도 무너져 아래에 있는 이를 깔아뭉갤 듯합니다.
 ring1,dlg,EntryList/0/Text,0,-1,Look! What a strange ring!,
 rope,dlg,EntryList/0/Text,0,-1,<StartAction>[You could use a rope here. Do you wish to?]</Start>,
 rope,dlg,ReplyList/0/Text,0,-1,No.,

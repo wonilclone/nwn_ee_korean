@@ -358,8 +358,9 @@ def build_repacked_module(config: dict, module_name: str, output_dir: Path) -> P
     if not modified_resources:
         return None
 
-    # 모듈 재패킹
-    output_path = output_dir / module_path.name
+    # 모듈 재패킹 (mod_output이 있으면 출력 파일명 변경)
+    output_name = config.get("mod_output", module_path.name)
+    output_path = output_dir / output_name
     repack_erf(module_path, output_path, modified_resources)
 
     return output_path

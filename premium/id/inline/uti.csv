@@ -573,75 +573,75 @@ id1_tokenmastery,uti,Description,0,-1,This Token of Mastery will allow you token
 id1_tokenmastery,uti,LocalizedName,0,-1,Token of Mastery,
 id_bscroll,uti,LocalizedName,0,-1,Scroll,
 id_bwand,uti,LocalizedName,0,-1,Magic Wand,
-id_m2bsword,uti,LocalizedName,0,172,Two-Bladed Sword,
+id_m2bsword,uti,LocalizedName,0,172,Two-Bladed Sword,쌍날검
 id_mamulet,uti,LocalizedName,0,-1,Amulet,
-id_marrow,uti,LocalizedName,0,1517,Arrow,
-id_mbanded,uti,LocalizedName,0,12843,Banded Mail,
-id_mbaxe,uti,LocalizedName,0,169,Battleaxe,
+id_marrow,uti,LocalizedName,0,1517,Arrow,화살
+id_mbanded,uti,LocalizedName,0,12843,Banded Mail,철판 갑옷
+id_mbaxe,uti,LocalizedName,0,169,Battleaxe,전투도끼
 id_mbelt,uti,LocalizedName,0,-1,Belt,
-id_mbolt,uti,LocalizedName,0,1519,Bolt,
+id_mbolt,uti,LocalizedName,0,1519,Bolt,쇠뇌화살
 id_mboots,uti,LocalizedName,0,-1,Boots,
 id_mbracer,uti,LocalizedName,0,-1,Bracer,
-id_mbreast,uti,LocalizedName,0,12842,Breastplate,
-id_mbsword,uti,LocalizedName,0,168,Bastard Sword,
-id_mbullet,uti,LocalizedName,0,1521,Bullet,
-id_mchain,uti,LocalizedName,0,184,Chainmail,
+id_mbreast,uti,LocalizedName,0,12842,Breastplate,가슴판갑
+id_mbsword,uti,LocalizedName,0,168,Bastard Sword,잡종 검
+id_mbullet,uti,LocalizedName,0,1521,Bullet,탄환
+id_mchain,uti,LocalizedName,0,184,Chainmail,사슬갑옷
 id_mcloak,uti,LocalizedName,0,-1,Cloak,
 id_mcloth,uti,DescIdentified,0,-1,"This is a robe. Simple, yet functional.",
 id_mcloth,uti,LocalizedName,0,12908,Robe,
 id_mcloth2,uti,DescIdentified,0,-1,"This is a robe. Simple, yet functional.",
 id_mcloth2,uti,LocalizedName,0,12908,Robe,
-id_mclub,uti,LocalizedName,0,1522,Club,
-id_mcshirt,uti,LocalizedName,0,12844,Chain Shirt,
-id_mdagger,uti,LocalizedName,0,191,Dagger,
-id_mdart,uti,LocalizedName,0,1525,Dart,
-id_mdaxe,uti,LocalizedName,0,1527,Double Axe,
-id_mdmace,uti,LocalizedName,0,1526,Dire Mace,
-id_mdwaxe,uti,LocalizedName,0,83310,Dwarven Waraxe,
+id_mclub,uti,LocalizedName,0,1522,Club,곤봉
+id_mcshirt,uti,LocalizedName,0,12844,Chain Shirt,사슬 상의
+id_mdagger,uti,LocalizedName,0,191,Dagger,단검
+id_mdart,uti,LocalizedName,0,1525,Dart,표창
+id_mdaxe,uti,LocalizedName,0,1527,Double Axe,쌍날도끼
+id_mdmace,uti,LocalizedName,0,1526,Dire Mace,철퇴봉
+id_mdwaxe,uti,LocalizedName,0,83310,Dwarven Waraxe,드워프제 전투도끼
 id_medikit,uti,LocalizedName,0,13362,Healer's Kit,
-id_mfplate,uti,LocalizedName,0,181,Full Plate,
-id_mgaxe,uti,LocalizedName,0,515,Greataxe,
+id_mfplate,uti,LocalizedName,0,181,Full Plate,전신 판금 갑옷
+id_mgaxe,uti,LocalizedName,0,515,Greataxe,대도끼
 id_mgloves,uti,LocalizedName,0,-1,Gloves,
-id_mgsword,uti,LocalizedName,0,167,Greatsword,
-id_mhalberd,uti,LocalizedName,0,175,Halberd,
+id_mgsword,uti,LocalizedName,0,167,Greatsword,대검
+id_mhalberd,uti,LocalizedName,0,175,Halberd,미늘창
 id_mhelm,uti,LocalizedName,0,-1,Helmet,
-id_mhflail,uti,LocalizedName,0,1529,Heavy Flail,
-id_mhide,uti,LocalizedName,0,12840,Hide Armor,
-id_mhmaxe,uti,LocalizedName,0,1532,Handaxe,
-id_mhplate,uti,LocalizedName,0,12839,Half Plate,
-id_mhxbow,uti,LocalizedName,0,173,Heavy Crossbow,
-id_mkama,uti,LocalizedName,0,1534,Kama,
-id_mkatana,uti,LocalizedName,0,1535,Katana,
-id_mkukri,uti,LocalizedName,0,1536,Kukri,
-id_mlarge,uti,LocalizedName,0,1550,Large Shield,
-id_mlbow,uti,LocalizedName,0,170,Longbow,
-id_mleather,uti,LocalizedName,0,12835,Leather Armor,
-id_mlflail,uti,LocalizedName,0,176,Light Flail,
-id_mlhammer,uti,LocalizedName,0,1531,Light Hammer,
-id_mlsword,uti,LocalizedName,0,166,Longsword,
-id_mlxbow,uti,LocalizedName,0,174,Light Crossbow,
-id_mmace,uti,LocalizedName,0,177,Mace,
-id_mmstar,uti,LocalizedName,0,1541,Morningstar,
-id_mpadded,uti,LocalizedName,0,12841,Padded Armor,
-id_mqstaff,uti,LocalizedName,0,1544,Quarterstaff,
-id_mrapier,uti,LocalizedName,0,1545,Rapier,
+id_mhflail,uti,LocalizedName,0,1529,Heavy Flail,중도리깨
+id_mhide,uti,LocalizedName,0,12840,Hide Armor,생가죽 갑옷
+id_mhmaxe,uti,LocalizedName,0,1532,Handaxe,손도끼
+id_mhplate,uti,LocalizedName,0,12839,Half Plate,판금 갑옷
+id_mhxbow,uti,LocalizedName,0,173,Heavy Crossbow,중쇠뇌
+id_mkama,uti,LocalizedName,0,1534,Kama,카마
+id_mkatana,uti,LocalizedName,0,1535,Katana,카타나
+id_mkukri,uti,LocalizedName,0,1536,Kukri,쿠크리
+id_mlarge,uti,LocalizedName,0,1550,Large Shield,대형 방패
+id_mlbow,uti,LocalizedName,0,170,Longbow,장궁
+id_mleather,uti,LocalizedName,0,12835,Leather Armor,가죽 갑옷
+id_mlflail,uti,LocalizedName,0,176,Light Flail,경도리깨
+id_mlhammer,uti,LocalizedName,0,1531,Light Hammer,경량 망치
+id_mlsword,uti,LocalizedName,0,166,Longsword,장검
+id_mlxbow,uti,LocalizedName,0,174,Light Crossbow,경쇠뇌
+id_mmace,uti,LocalizedName,0,177,Mace,철퇴
+id_mmstar,uti,LocalizedName,0,1541,Morningstar,가시철퇴
+id_mpadded,uti,LocalizedName,0,12841,Padded Armor,누비 갑옷
+id_mqstaff,uti,LocalizedName,0,1544,Quarterstaff,육척봉
+id_mrapier,uti,LocalizedName,0,1545,Rapier,세검
 id_mring,uti,LocalizedName,0,-1,Ring,
-id_msbow,uti,LocalizedName,0,171,Shortbow,
-id_mscale,uti,LocalizedName,0,12837,Scale Mail,
-id_mscimitar,uti,LocalizedName,0,1547,Scimitar,
-id_mscythe,uti,LocalizedName,0,1549,Scythe,
-id_mshuriken,uti,LocalizedName,0,1553,Shuriken,
-id_msickle,uti,LocalizedName,0,1554,Sickle,
-id_msling,uti,LocalizedName,0,1555,Sling,
-id_msmail,uti,LocalizedName,0,12838,Splint Mail,
-id_msmall,uti,LocalizedName,0,179,Small Shield,
-id_mspear,uti,LocalizedName,0,1552,Spear,
-id_mssword,uti,LocalizedName,0,106,Short Sword,
-id_mstudded,uti,LocalizedName,0,12836,Studded Leather Armor,
-id_mtaxe,uti,LocalizedName,0,1557,Throwing Axe,
-id_mtower,uti,LocalizedName,0,1551,Tower Shield,
-id_mwhammer,uti,LocalizedName,0,178,Warhammer,
-id_mwhip,uti,LocalizedName,0,83617,Whip,
+id_msbow,uti,LocalizedName,0,171,Shortbow,단궁
+id_mscale,uti,LocalizedName,0,12837,Scale Mail,비늘 갑옷
+id_mscimitar,uti,LocalizedName,0,1547,Scimitar,시미터
+id_mscythe,uti,LocalizedName,0,1549,Scythe,대낫
+id_mshuriken,uti,LocalizedName,0,1553,Shuriken,수리검
+id_msickle,uti,LocalizedName,0,1554,Sickle,낫
+id_msling,uti,LocalizedName,0,1555,Sling,투석구
+id_msmail,uti,LocalizedName,0,12838,Splint Mail,미늘 갑옷
+id_msmall,uti,LocalizedName,0,179,Small Shield,작은 방패
+id_mspear,uti,LocalizedName,0,1552,Spear,창
+id_mssword,uti,LocalizedName,0,106,Short Sword,소검
+id_mstudded,uti,LocalizedName,0,12836,Studded Leather Armor,징박은 가죽 갑옷
+id_mtaxe,uti,LocalizedName,0,1557,Throwing Axe,투척도끼
+id_mtower,uti,LocalizedName,0,1551,Tower Shield,장방패
+id_mwhammer,uti,LocalizedName,0,178,Warhammer,전쟁망치
+id_mwhip,uti,LocalizedName,0,83617,Whip,채찍
 id_potion001,uti,DescIdentified,0,90921,"For the duration of the spell, the imbiber gains a +10 bonus to all Spot and Listen checks.",
 id_potion001,uti,LocalizedName,0,90920,Potion of Clairaudience/Clairvoyance,
 id_potion002,uti,DescIdentified,0,90921,"This potion attempts to strip all magical effects from the imbiber. To remove an effect from a creature the imbiber makes a dispel check of 1d20, +1 per spell level (to a maximum of +5) against a DC of 11 + the spell effect's caster level.",
@@ -975,7 +975,7 @@ Lord Antoine Baccha, Vizier de Guise, was a notorious hunter and party host, who
 Lord Antione's Party Favors include his party hat, his brandy, his noisemaker, his humor gloves, and his funny face mask. Why he would have brought so many of these into Undermountain is beyond knowing.
 
 The noisemaker can be used to direct a specific, damaging sound, or generate a terribly confusing cloud of noise.",
-test,uti,Description,0,48894,A small but well-crafted hand-held harp.,
+test,uti,Description,0,48894,A small but well-crafted hand-held harp.,작지만 정교하게 제작된 휴대용 하프입니다.
 test,uti,LocalizedName,0,48893,test,
 testobject,uti,LocalizedName,0,-1,Test Object,
 white_gem_it,uti,LocalizedName,0,-1,White Gem,

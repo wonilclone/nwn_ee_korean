@@ -2,7 +2,7 @@
 archery_aim,utp,LocName,0,-1,archery_aim,
 archery_targe001,utp,LocName,0,-1,Archery Target (South),
 archery_target_0,utp,LocName,0,-1,Archery Target (North),
-ballista,utp,Description,0,14552,"A heavy javelin sits in its groove, notched against the ballista's taut-drawn wire. You can imagine how a well-aimed shot might have the power to fell a dragon from the sky.",
+ballista,utp,Description,0,14552,"A heavy javelin sits in its groove, notched against the ballista's taut-drawn wire. You can imagine how a well-aimed shot might have the power to fell a dragon from the sky.",무거운 투창이 노포의 팽팽하게 당겨진 줄위에 올려져 홈에 안착되어 있습니다. 당신은 잘 겨냥하여 발사하면 용을 하늘에서 떨어뜨릴 수 있을지 상상할 수 있습니다.
 banner2,utp,LocName,0,68931,Banner2,
 bones001,utp,Description,0,66888,A sad pile of humanoid bones lie on the ground.,
 bones2,utp,Description,0,66888,A sad pile of humanoid bones lie on the ground.,
@@ -22,7 +22,7 @@ dart_score0,utp,Description,0,14689,This seems to be the scoreboard for the dart
 dart_score0,utp,LocName,0,14688,Scorecard 1,
 dart_score1,utp,Description,0,14689,This seems to be the scoreboard for the dart game.,
 dart_score1,utp,LocName,0,14688,Scorecard 2,
-dart_throwing,utp,Description,0,14703,The small pressure plate appears to activate some hidden mechanism below.,
+dart_throwing,utp,Description,0,14703,The small pressure plate appears to activate some hidden mechanism below.,이 작은 누름판은 아래 숨겨진 기계장치를 작동시키는 것으로 보입니다.
 dart_throwing,utp,LocName,0,14704,Dart Throwing Box,
 dla_bladebarrier,utp,LocName,0,-1,Blade Barrier,
 dla_dartboard,utp,Description,0,76386,"*Dart Rules*
@@ -47,10 +47,10 @@ Scoring a critical hit means you hit the top stripe on the board, which scores d
 
 **Notice from the management**  Due to recent complaints of cheating, the board has been warded against magic.  Thank you, the management.",
 dla_dartboard,utp,LocName,0,76385,Dartboard,
-dla_forcetalk,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+dla_forcetalk,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 dla_forcetalk,utp,LocName,0,5800,dla_forcetalk,
 dla_horse_packs,utp,LocName,0,-1,Horse큦 Packs,
-dla_inventory,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+dla_inventory,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 dla_joust_shield,utp,LocName,0,-1,Shield Regions Map,
 dla_pillar005,utp,LocName,0,-1,Sword Pillar,
 dla_pl_invt003,utp,LocName,0,-1,Archery Miss North 1,
@@ -60,11 +60,11 @@ dla_pl_invt1,utp,LocName,0,-1,Archery Wildshot (north),
 dla_pl_invt2,utp,LocName,0,-1,Archery Wildshot (south),
 dla_pl_invt4,utp,LocName,0,-1,Archery Miss North 2,
 dla_statue001,utp,LocName,0,-1,Flaming Wyvern Statue,
-dla_strengthdumm,utp,Description,0,14599,"With its bucket head and straw-filled chest, the combat dummy seems far from threatening.",
+dla_strengthdumm,utp,Description,0,14599,"With its bucket head and straw-filled chest, the combat dummy seems far from threatening.",양동이 머리와 짚으로 가득 찬 몸통을 가진 훈련용 허수아비는 위협과는 거리가 먼 것 같습니다.
 dla_strengthdumm,utp,LocName,0,5681,Sir Janners: 100 damage,
 dlajflagop,utp,LocName,0,-1,opponent flag place holder,
 dlajflagpc,utp,LocName,0,-1,pc flag place holder,
-flamelarge001,utp,Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",
+flamelarge001,utp,Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",불이 맹렬한 열기로 모든 것을 먹어 치우며 탁탁 소리와 함께 타오릅니다.
 gn_gema1,utp,LocName,0,-1,Ruby,
 gn_gema2,utp,LocName,0,-1,Emerald,
 gn_gema3,utp,LocName,0,-1,Diamond,
@@ -78,13 +78,13 @@ grave1,utp,Description,0,14711,The remains of your father rest within this grave
 grave1,utp,LocName,0,14710,Father's Grave,
 grave2,utp,Description,0,14712,"The grave of your father has been defaced, the corner spires chipped off and the surface daubed with offal.",
 grave2,utp,LocName,0,14710,Defaced Father's Grave,
-hawklinflag,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+hawklinflag,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 hawklinflag,utp,LocName,0,14616,Hawklin Flag,
 hawklinflag001,utp,Description,0,14615,This flag marks a position that you can place your squad.,
 hawklinflag001,utp,LocName,0,14616,Battle Flag,
 hitchingpost,utp,Description,0,66698,A hitching post for horses.,
 hitchingpost,utp,LocName,0,66697,Hitching Post,
-invistalk,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+invistalk,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 invistalk,utp,LocName,0,5800,Polterblade,
 ivorycrate,utp,Description,0,14577,This crate is clearly marked 'Imelda Trading'.,
 joustlist1,utp,LocName,0,-1,Joust List 1,
@@ -107,9 +107,9 @@ pf_lightnight,utp,LocName,0,68931,"Lightshaft, Moon",
 recoverychest,utp,LocName,0,-1,Recovery Chest,
 silvermirror_plc,utp,Description,0,84186,"This mirror does not reflect, but instead shows a perfect silver sheen.",
 silvermirror_plc,utp,LocName,0,83444,Silver Mirror,
-sporemush,utp,Description,0,84191,The color and stench of this patch of mushrooms makes you think that it would not be a good idea to eat them.,
+sporemush,utp,Description,0,84191,The color and stench of this patch of mushrooms makes you think that it would not be a good idea to eat them.,이 버섯 무리의 색깔과 악취를 보면 요리하는 것은 좋은 생각이 아닐 것 같습니다.
 sporemush,utp,LocName,0,83443,Spore Mushroom,
-testjumper,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+testjumper,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 testjumper,utp,LocName,0,5800,Debug Object,
 tnoambientbird,utp,LocName,0,-1,TNO Ambient Bird,
 tnoappletreelg,utp,LocName,0,-1,TNO Apple Tree Lg,
@@ -157,25 +157,25 @@ tnobrazier,utp,LocName,0,-1,Brazier,
 tnobush,utp,LocName,0,-1,TNO Bush,
 tnobush002,utp,LocName,0,-1,TNO Bush 2,
 tnodirtpatch,utp,LocName,0,9268,TNO Dirt Patch,
-tnodirtpatch2,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",
+tnodirtpatch2,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",더러워지거나 진흙을 만드는 것 외에는 거의 쓸모없는 큰 흙더미입니다.
 tnodirtpatch2,utp,LocName,0,9268,TNO Dirt Patch,
-tnodirtpatch3,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",
+tnodirtpatch3,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",더러워지거나 진흙을 만드는 것 외에는 거의 쓸모없는 큰 흙더미입니다.
 tnodirtpatch3,utp,LocName,0,9268,TNO Dirt Patch,
 tnofishrack,utp,LocName,0,-1,TNO Fish Rack,
 tnofishtable,utp,LocName,0,-1,TNO Fish Table,
 tnoflage002,utp,LocName,0,14616,Cyrric Flag,
-tnoflage003,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage003,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage003,utp,LocName,0,14616,Hawklin Banner,
 tnoflage01,utp,LocName,0,14616,TNO Flag E01,
 tnoflage02,utp,LocName,0,14616,TNO Flag E02,
 tnoflage03,utp,LocName,0,14616,TNO Flag E03,
 tnoflage04,utp,LocName,0,14616,TNO Flag E04,
-tnoflage041,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage041,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage041,utp,LocName,0,14616,TNO Flag E41,
 tnoflage11,utp,LocName,0,14616,TNO Flag E11,
-tnoflage12,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage12,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage12,utp,LocName,0,14616,TNO Flag E12,
-tnoflage13,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage13,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage13,utp,LocName,0,14616,TNO Flag E13,
 tnoflage21,utp,LocName,0,14616,TNO Flag E21,
 tnoflage22,utp,LocName,0,14616,TNO Flag E22,
@@ -186,16 +186,16 @@ tnoflage32,utp,LocName,0,14616,TNO Flag E32,
 tnoflage33,utp,LocName,0,14616,TNO Flag E33,
 tnoflage34,utp,LocName,0,14616,TNO Flag E34,
 tnoflage41,utp,LocName,0,14616,TNO Flag E41,
-tnoflage42,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage42,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage42,utp,LocName,0,14616,TNO Flag E42,
 tnoflage43,utp,LocName,0,14616,TNO Flag E43,
 tnoflage44,utp,LocName,0,14616,TNO Flag E44,
 tnoflage45,utp,LocName,0,14616,TNO Flag E45,
-tnoflage46,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage46,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage46,utp,LocName,0,14616,TNO Flag E46,
-tnoflage47,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage47,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage47,utp,LocName,0,14616,TNO Flag E47,
-tnoflage48,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage48,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage48,utp,LocName,0,14616,TNO Flag E48,
 tnoflage51,utp,LocName,0,14616,TNO Flag E51,
 tnoflage52,utp,LocName,0,14616,TNO Flag E52,

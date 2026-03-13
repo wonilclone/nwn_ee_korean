@@ -6,17 +6,17 @@ a0_poly,utp,LocName,0,-1,Poly the Parrot,
 a0_potsc_cutches,utp,LocName,0,-1,a0_potsc_cutchest,
 a1_chsttnls,utp,Description,0,-1,"Salvaged from the wreck of an unknown ship, Utnal's treasure chest is slightly damaged and the lock is beginning to rust.",
 a1_chsttnls,utp,LocName,0,-1,Utnal's Trove,
-a1_convobj,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+a1_convobj,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a1_convobj,utp,LocName,0,5800,Darkness surrounds you...,
-a1_cutplc1a,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,
+a1_cutplc1a,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,좀약 냄새가 이 장식장의 나무에 스며든 지 오래입니다.
 a1_cutplc1a,utp,LocName,0,14549,a1_cutplc1a,
-a1_cutplc1b,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,
+a1_cutplc1b,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,좀약 냄새가 이 장식장의 나무에 스며든 지 오래입니다.
 a1_cutplc1b,utp,LocName,0,14549,a1_cutplc1b,
-a1_cutplc2a,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,
+a1_cutplc2a,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,좀약 냄새가 이 장식장의 나무에 스며든 지 오래입니다.
 a1_cutplc2a,utp,LocName,0,14549,a1_cutplc2a,
-a1_cutplc2b,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,
+a1_cutplc2b,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,좀약 냄새가 이 장식장의 나무에 스며든 지 오래입니다.
 a1_cutplc2b,utp,LocName,0,14549,a1_cutplc2b,
-a1_cutraft,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,
+a1_cutraft,utp,Description,0,14548,The smell of mothballs has long since seeped into the wood of this armoire.,좀약 냄새가 이 장식장의 나무에 스며든 지 오래입니다.
 a1_cutraft,utp,LocName,0,14549,a1_cutraft,
 a1_driftwood,utp,Description,0,-1,Seaweed still clings to the salt-bleached wood.,
 a1_driftwood,utp,LocName,0,-1,Driftwood,
@@ -28,11 +28,11 @@ a1_driftwood003,utp,Description,0,-1,This well-weathered driftwood washed in wit
 a1_driftwood003,utp,LocName,0,-1,Driftwood,
 a1_driftwood004,utp,Description,0,-1,This well-weathered driftwood washed in with the recent tide.,
 a1_driftwood004,utp,LocName,0,-1,Driftwood,
-a1_firelrg,utp,Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",
+a1_firelrg,utp,Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",불이 맹렬한 열기로 모든 것을 먹어 치우며 탁탁 소리와 함께 타오릅니다.
 a1_firelrg,utp,LocName,0,14625,Large Flame,
-a1_firemed,utp,Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",
+a1_firemed,utp,Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",불이 맹렬한 열기로 모든 것을 먹어 치우며 탁탁 소리와 함께 타오릅니다.
 a1_firemed,utp,LocName,0,14625,Medium Flame,
-a1_firesmall,utp,Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",
+a1_firesmall,utp,Description,0,14624,"The fire crackles and burns, consuming everything within its scorching heat.",불이 맹렬한 열기로 모든 것을 먹어 치우며 탁탁 소리와 함께 타오릅니다.
 a1_firesmall,utp,LocName,0,14625,Small Flame,
 a1_palmfron,utp,Description,0,-1,The palm tree sways in the breeze. Perhaps you can find some tinder amond the dried fronds.,
 a1_palmfron,utp,LocName,0,-1,Palm Tree,
@@ -48,7 +48,7 @@ a2_midrose_mid,utp,Description,0,-1,"The Midnight Rose rests at anchor, just sli
 a2_midrose_mid,utp,LocName,0,-1,The Midnight Rose,
 a2_plcflower,utp,Description,0,67632,"An small and exquisite wildflower blooms beneath the foliage of this shrub. If it weren't for Pegleg's map, you never would have found it.",
 a2_plcflower,utp,LocName,0,5725,Wildflowers,
-a2_portal_lh,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,
+a2_portal_lh,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,차원문이 당신 앞에서 은은하게 빛나고 있습니다. 당신은 차원문이 어디로 이어지는지 궁금합니다.
 a2_portal_to_lh,utp,Description,0,14533,A portal glows softly before you. You presume it leads back to Vantabular's lighthouse on Spindrift Island.,
 a2_shrine,utp,Description,0,14540,This shrine's spigot has run dry and the pool of water at its base has grown murky. You think you can see something lurking below the thin film of algae.,
 a2_shrine,utp,LocName,0,14541,Shrine of Umberlee,
@@ -66,13 +66,13 @@ a2puz_grnarrow,utp,Description,0,14631,A green arrow points to one of the lighth
 a2puz_grnarrow,utp,LocName,0,14629,Green Arrow,
 a2puz_redarrow,utp,Description,0,14631,A blue arrow points to one of the lighthouse's prism casings.,
 a2puz_redarrow,utp,LocName,0,14629,Red Arrow,
-a3_controller01,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+a3_controller01,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 a3_controller01,utp,LocName,0,5800,Monster Controller,
 a3_escape,utp,Description,0,14739,A ladder extends to the hatch above.,
 a3_escape,utp,LocName,0,5740,Ladder,
 a3_fishstatue,utp,Description,0,-1,"All four of Umberlee's long-absent Sea Statues rest solemnly on the dais. Brushing your fingers up against it, you realize now what had frightened poor Martins so badly.",
 a3_fishstatue,utp,LocName,0,-1,Sea Statue,
-a3_floatingorb,utp,Description,0,84585,This odd device appears organic and is warm to the touch. A tremor or pulse runs through it when you touch it.,
+a3_floatingorb,utp,Description,0,84585,This odd device appears organic and is warm to the touch. A tremor or pulse runs through it when you touch it.,이 이상한 장치는 유기체처럼 보이며 만지면 따뜻합니다. 만지면 떨림이나 맥박이 느껴집니다.
 a3_floatingorb,utp,LocName,0,84569,Mysterious Mechanism,
 a3_gangplank,utp,Description,0,68833,A gangplank extends ominously from the deck of the Midnight Rose.,
 a3_gangplank,utp,LocName,0,68832,Gangplank,
@@ -89,10 +89,10 @@ a3_plankpuddle,utp,LocName,0,-1,Puddle,
 a3_portal,utp,Description,0,-1,A portal glows softly before you. You wonder where it leads.,
 a3_portal,utp,LocName,0,-1,Strange Portal,
 a3_seigehole,utp,Description,0,84172,"Sahuagin have drilled a hole through the hull of the Skull and Bones! She's taken on water and you're torn between grabbing some repair planking to patch the hole or manning the bilge pump to lower the water. You'd better decide fast before the leaky old brig goes under, crushing you within her hull.",
-a3_seigehole,utp,LocName,0,83426,Small Hole,
+a3_seigehole,utp,LocName,0,83426,Small Hole,작은 구멍
 a3_sgwater,utp,Description,0,14662,The salt water teems with marine life.,
 a3_sgwater,utp,LocName,0,5800,Water,
-a3_sigil,utp,Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",
+a3_sigil,utp,Description,0,14628,"A complex series of runes that look as if they may mean something to a wizard. Perhaps only to the wizard who made them in the first place, though.",마법사에게 의미가 있는 것처럼 보이는 복잡한 일련의 룬입니다. 하지만 애초에 처음 만들었던 마법사에게만 의미가 있을겁니다.
 a3_sigil,utp,LocName,0,14629,Glowing Sigil,
 a3_sprlk_blue,utp,LocName,0,14673,Blue Sparks,
 a3_sprlk_green,utp,Description,0,14672,Green sparks rise up from the ground like will-o'-wisps on cool night air.,
@@ -120,7 +120,7 @@ algaethrone,utp,Description,0,-1,Barnacles encrust this weathered throne. The bo
 algaethrone,utp,LocName,0,-1,Barnacle-Covered Throne,
 altrevil002,utp,Description,0,14540,"Torn from a recent shipwreck, the troglodyte feed these sturdy timbers to their sacred fire to keep it burning night and day.",
 altrevil002,utp,LocName,0,14541,Sacred Wood,
-boulder,utp,LocName,0,52998,Boulder,
+boulder,utp,LocName,0,52998,Boulder,바위
 bubbles002,utp,Description,0,-1,"Bubbles stream upwards from a small fissure in the sea floor. Whether they are a product of geothermal activity or some form of life that lurks below, you cannot tell.",
 bubbles002,utp,LocName,0,-1,Bubbles Small,
 bubbles003,utp,Description,0,-1,"Bubbles stream upwards from a small fissure in the sea floor. Whether they are a product of geothermal activity or some form of life that lurks below, you cannot tell.",
@@ -131,7 +131,7 @@ candle,utp,Description,0,-1,Seashells and colored sands have been mixed in with 
 candle,utp,LocName,0,-1,Candle,
 clr_blue,utp,LocName,0,14719,Blue Pillar of Light,
 clr_cyan,utp,LocName,0,14719,Cyan Pillar of Light,
-clr_green,utp,Description,0,14721,A searing shaft of green light descends from some unseen place above.,
+clr_green,utp,Description,0,14721,A searing shaft of green light descends from some unseen place above.,녹색 빛의 불태우는 줄기가 보이지도 않는 위에서 내려옵니다.
 clr_green,utp,LocName,0,14719,Green Pillar of Light,
 clr_purple,utp,LocName,0,14724,Purple Pillar of Light,
 clr_red,utp,LocName,0,14719,Red Pillar of Light,
@@ -147,7 +147,7 @@ creaturenest001,utp,Description,0,-1,A pair of brightly-colored eggs rests in a 
 creaturenest001,utp,LocName,0,-1,Creature Nest,
 egg,utp,Description,0,-1,This egg is large and heavy. You wonder what manner of creature lies dead or dormant within its shell.,
 egg,utp,LocName,0,-1,Egg,
-final_light,utp,Description,0,14726,A searing shaft of white light descends from some unseen place above.,
+final_light,utp,Description,0,14726,A searing shaft of white light descends from some unseen place above.,하얀 빛의 불태우는 줄기가 보이지도 않는 위에서 내려옵니다.
 final_light,utp,LocName,0,14719,White Pillar of Light,
 fish002,utp,Description,0,-1,"A small school of fish darts about, seemingly oblivious to your presence.",
 fish002,utp,LocName,0,-1,School of Fish,
@@ -187,13 +187,13 @@ parrotstand,utp,LocName,0,-1,Parrot Stand,
 piratepenant,utp,LocName,0,-1,Pirate Pennant,
 piratepenant001,utp,Description,0,-1,The Jolly Roger grimaces at you from this tattered pennant.,
 piratepenant001,utp,LocName,0,-1,Pirate Pennant,
-plc_a3_feild,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,
+plc_a3_feild,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,차원문이 당신 앞에서 은은하게 빛나고 있습니다. 당신은 차원문이 어디로 이어지는지 궁금합니다.
 plc_a3_feild,utp,LocName,0,5670,Force Field,
 plc_a3_srcblue,utp,LocName,0,84594,Blue Obelisk,
 plc_a3_srcgreen,utp,LocName,0,84594,Green Obelisk,
 plc_a3_srcpurple,utp,LocName,0,84594,White Obelisk,
 plc_a3_srcred,utp,LocName,0,84594,Red Obelisk,
-plc_blbrrcd,utp,Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+plc_blbrrcd,utp,Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 plc_blbrrcd,utp,LocName,0,68803,Blue Barricade,
 plc_bubbles01,utp,LocName,0,-1,Bubbles Small,
 plc_bubbles02,utp,LocName,0,-1,Bubbles Medium,
@@ -201,7 +201,7 @@ plc_bubbles03,utp,LocName,0,-1,Bubbles Large,
 plc_fish01,utp,LocName,0,-1,School of Fish 1,
 plc_fish02,utp,LocName,0,-1,School of Fish 2,
 plc_fish03,utp,LocName,0,-1,School of Fish 3,
-plc_grnbrrcd,utp,Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+plc_grnbrrcd,utp,Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 plc_grnbrrcd,utp,LocName,0,68803,Green Barricade,
 plc_iou_governor,utp,Description,0,-1,Somebody got to this chest before you did!,
 plc_iou_governor,utp,LocName,0,-1,Looted Chest,
@@ -222,7 +222,7 @@ plc_kelp3_02,utp,LocName,0,-1,Kelp 3 Medium,
 plc_kelp3_03,utp,LocName,0,-1,Kelp 3 Small,
 plc_map_sewers,utp,Description,0,-1,"It's a nice enough chest, you reckon, but not the sort you'd want to trust your favorite treasures to...",
 plc_map_sewers,utp,LocName,0,-1,Rascally Pete's Stash,
-plc_map_silver2,utp,Description,0,14575,"A dizzying array of written works, each catalogued according to some fashion you cannot fathom. A number of them appear to be written in foreign tongues altogether.",
+plc_map_silver2,utp,Description,0,14575,"A dizzying array of written works, each catalogued according to some fashion you cannot fathom. A number of them appear to be written in foreign tongues altogether.",아찔하게 많은 저작물 각각이 당신이 헤아릴 수없는 방식으로 분류되어 있습니다. 이 중 다수는 전체를 외국어로 작성한 것으로 보입니다.
 plc_map_spindrif,utp,Description,0,84574,Someone left some sheets of paper on the table.,
 plc_map_spindrif,utp,LocName,0,84561,Forgotten Notes,
 plc_mapchest001,utp,Description,0,-1,This here chest be for pirate treasure!,
@@ -243,9 +243,9 @@ plc_mapchest008,utp,Description,0,-1,Here be the chest in which lies the last o'
 plc_mapchest008,utp,LocName,0,-1,Blackeye's Silver,
 plc_mpchst_iotd,utp,Description,0,-1,You wonder how long this crate has been here.,
 plc_mpchst_iotd,utp,LocName,0,-1,Treasure Crate,
-plc_prplbrrcd,utp,Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+plc_prplbrrcd,utp,Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 plc_prplbrrcd,utp,LocName,0,68803,White Barricade,
-plc_redbrrcd,utp,Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",
+plc_redbrrcd,utp,Description,0,68804,"This is the sidepiece of a structure often used to contain dangerous animals and sometimes, people.",위험한 동물이나 때로는 사람을 가두는 데 자주 사용되는 구조물의 옆면입니다.
 plc_redbrrcd,utp,LocName,0,68803,Red Barricade,
 plc_umbrshrine,utp,Description,0,14540,"Barnacles have clogged the spigot of this shrine, blocking the flow of water. ",
 plc_umbrshrine,utp,LocName,0,14541,Shrine of Umberlee,
@@ -253,8 +253,8 @@ pllrlever1,utp,Description,0,14698,The Skull and Bones has a reputation as a lea
 pllrlever1,utp,LocName,0,14684,Bilge Pump,
 potsc_bkpls,utp,LocName,0,14576,Pile of Books,
 potsc_bkpls001,utp,LocName,0,14576,Pile of Books,
-potsc_bkshlfd,utp,LocName,0,14576,Bookshelf,
-potsc_plcmp,utp,Description,0,68866,This map depicts much of the known realms.,
+potsc_bkshlfd,utp,LocName,0,14576,Bookshelf,책장
+potsc_plcmp,utp,Description,0,68866,This map depicts much of the known realms.,이 지도는 알려진 영역의 대부분을 그리고 있습니다.
 potsc_plcmp,utp,LocName,0,68865,Treasure Map,
 potsc_plcx,utp,Description,0,-1,X apparently marks the spot...,
 potsc_plcx,utp,LocName,0,-1,Pirate X,

@@ -1,105 +1,105 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
-archer,dlg,EntryList/0/Text,0,-1,No time to talk. Those undead will be crawling up the ramparts again any minute.,
-archer,dlg,EntryList/1/Text,0,-1,"If you're here to help against the winds, go inside and talk to Lord Eremor.",
-captainjord,dlg,EntryList/0/Text,0,-1,"The wind's blowing too hard, <FirstName>! I'm sorry, <lad/lass>, but we've had to put aground!",
-captainjord,dlg,EntryList/1/Text,0,-1,I saw some sort of keep at the top o' this place! Run and let whoever's up there know we're here. I'll stay down here and batten down the hatches!,
-christer,dlg,EntryList/0/Text,0,-1,"Look, I've got to go seal myself into the crypts before we run out of time. Go on up and talk to Lord Eremor.",
-christer,dlg,EntryList/1/Text,0,-1,"What brings you this cursed rock, stranger?",
-christer,dlg,EntryList/2/Text,0,-1,"Well, you've picked a hell of a night to come to Mount Eremor. This kind of storm only comes once a year and it brings an ill wind every time. This year it's my turn, I guess.",
-christer,dlg,EntryList/3/Text,0,-1,"Well I'm Christer... You picked a hell of a night to come to Mount Eremor, <FirstName>. This kind of storm only comes once a year and it brings an ill wind every time. This year it's my turn, I guess.",
-christer,dlg,EntryList/4/Text,0,-1,"Look, I've got to go seal myself into the crypts before we run out of time. Go on up and talk to Lord Eremor. He'll... He'll know what's best.",
-christer,dlg,ReplyList/0/Text,0,-1,Hrmm. Me not tell you.,
-christer,dlg,ReplyList/1/Text,0,-1,Same what bring me anywhere: adventures!,
-christer,dlg,ReplyList/10/Text,0,-1,"What you mean it be your ""turn.""",
-christer,dlg,ReplyList/11/Text,0,-1,Who's in charge here?,
-christer,dlg,ReplyList/12/Text,0,-1,What kind of ill wind are you talking about?,
-christer,dlg,ReplyList/13/Text,0,-1,"What do you mean it's your ""turn?""",
-christer,dlg,ReplyList/2/Text,0,-1,Ship guy say we be here until storm blow over.,
-christer,dlg,ReplyList/3/Text,0,-1,Me be <FirstName>.,
-christer,dlg,ReplyList/4/Text,0,-1,It's none of your business.,
-christer,dlg,ReplyList/5/Text,0,-1,I thought I might find some adventure here.,
-christer,dlg,ReplyList/6/Text,0,-1,Our ship's captain has pulled in until the storm passes.,
-christer,dlg,ReplyList/7/Text,0,-1,My name is <FullName>.,
-christer,dlg,ReplyList/8/Text,0,-1,"Uh, who be in charge here?",
-christer,dlg,ReplyList/9/Text,0,-1,Ill wind? This not be normal storm?,
-lorderemor,dlg,EntryList/0/Text,0,-1,"You can feel the electricity in the air, can't you... That's Morgroth's spirit riding on the wind.",
-lorderemor,dlg,EntryList/1/Text,0,-1,You're the one my men saw sail in on the storm?,
-lorderemor,dlg,EntryList/10/Text,0,-1,"Christer was well-liked. It would be like killing him twice and I can't ask my men to do that... Maybe that's where you come in, stranger.",
-lorderemor,dlg,EntryList/11/Text,0,-1,"Then you are a guest on my island and it is my sworn duty to see to your protection. Until the storm lets up or you change your mind, those four doors will remain locked.",
-lorderemor,dlg,EntryList/12/Text,0,-1,"As I said, stranger, Christer is already dead. As for the rest of us, we've survived this before and we'll survive it again.",
-lorderemor,dlg,EntryList/13/Text,0,-1,"If your own conscience drives you to help out, then you have my blessing. If it doesn't then you are a guest on my island and it is my duty to protect you. Those four doors will remain locked until you change your mind.",
-lorderemor,dlg,EntryList/14/Text,0,-1,I can't promise that you'll survive to see them but the crypts are down by the docks where you came in. You already have the key... Now bring me his heart!,
-lorderemor,dlg,EntryList/15/Text,0,-1,I can't promise that you'll survive to see them but the crypts are down by the docks where you came in. Here's the key... Now bring me his heart!,
-lorderemor,dlg,EntryList/16/Text,0,-1,Legend is he was an old pirate. This keep was once his but now the King's Navy's siezed it. Gods know why but it's my curse now to keep it from falling into enemy hands. Even the bony fingers of old Morgroth himself...,
-lorderemor,dlg,EntryList/17/Text,0,-1,"He's already dead, stranger. Just like your captain, remember? Can't you hear my men now? Morgroth's horde is already climbing out of the sea and scaling the ramparts.",
-lorderemor,dlg,EntryList/18/Text,0,-1,"Even these heavy doors cannot shut out the horror of the night. Do you have Christer's -- I mean Morgroth's heart, yet? Damn this wind!",
-lorderemor,dlg,EntryList/19/Text,0,-1,Then I recommend you get it and soon.,
-lorderemor,dlg,EntryList/2/Text,0,-1,I'm afraid there is no one else and I am quite sure that your captain is already dead.,
-lorderemor,dlg,EntryList/20/Text,0,-1,"It's true, this rotten flesh could be no other's. Even now I can hear the winds receding. If you wish, you may join the fight against the remaining undead but you will set sail when dawn comes.",
-lorderemor,dlg,EntryList/21/Text,0,-1,"I can't vouch for your safety once my men learn that you came to me bearing Christer's heart. You have done your job, stranger, and are free to keep whatever treasure you have found. Are you ready to set sail?",
-lorderemor,dlg,EntryList/22/Text,0,-1,"As you wish. The night is still young, however. When you are ready to depart, come speak with me once more.",
-lorderemor,dlg,EntryList/23/Text,0,-1,As you wish. Depart this accursed isle knowing that you have my thanks.,
-lorderemor,dlg,EntryList/24/Text,0,-1,"You fight bravely, my friend, but is it time to leave?",
-lorderemor,dlg,EntryList/25/Text,0,-1,Present yourself.,
-lorderemor,dlg,EntryList/3/Text,0,-1,I think we might be beyond your help by now. I have no doubt that your captain is already dead.,
-lorderemor,dlg,EntryList/4/Text,0,-1,Well I am quite sure that your captain is already dead.,
-lorderemor,dlg,EntryList/5/Text,0,-1,"Don't be a fool. The threat is not from me! The threat is out there, in the winds you rode in on.",
-lorderemor,dlg,EntryList/6/Text,0,-1,"This storm is known as Morgroth's wind. Every time it comes and chooses another of my men. This time it chose Christer, who I assume you met on your way up.",
-lorderemor,dlg,EntryList/7/Text,0,-1,"When the winds peak, Christer will die and his body will transform into that of Morgroth, the Undead Lord. That is why he is sealing himself into the crypts as we speak. It is for our protection.",
-lorderemor,dlg,EntryList/8/Text,0,-1,"Morgroth's undead hordes will ride in on the winds and lay siege to this keep until the coming dawn, at which point Christer's martyred corpse will have to be recovered from the crypts.",
-lorderemor,dlg,EntryList/9/Text,0,-1,Losing one of my men's enough. I could send an expedition to the crypts to kill Morgroth once and for all but it wouldn't succeed.,
-lorderemor,dlg,ReplyList/0/Text,0,-1,"You talk 'bout storm again, okay?",
-lorderemor,dlg,ReplyList/1/Text,0,-1,Tell me about the storm again.,
-lorderemor,dlg,ReplyList/10/Text,0,-1,Are you threatening me?,
-lorderemor,dlg,ReplyList/12/Text,0,-1,What do you mean? What's going on?,
-lorderemor,dlg,ReplyList/15/Text,0,-1,Okay. How me help?,
-lorderemor,dlg,ReplyList/16/Text,0,-1,"So you give up on that Christer guy real easy, huh?",
-lorderemor,dlg,ReplyList/17/Text,0,-1,Who this Morgroth be?,
-lorderemor,dlg,ReplyList/18/Text,0,-1,Is there any way I can help?,
-lorderemor,dlg,ReplyList/2/Text,0,-1,"Uh, no... Me be someone else.",
-lorderemor,dlg,ReplyList/20/Text,0,-1,"Hmm. No, me no think me do it.",
-lorderemor,dlg,ReplyList/21/Text,0,-1,Me do it for gold. How much you offer?,
-lorderemor,dlg,ReplyList/22/Text,0,-1,"Yuh. Me go to crypts and kill that Christer-Morgroth guy, okay?",
-lorderemor,dlg,ReplyList/23/Text,0,-1,No thanks. I'm not interested.,
-lorderemor,dlg,ReplyList/24/Text,0,-1,How much is this worth to you?,
-lorderemor,dlg,ReplyList/26/Text,0,-1,Alright. I'll go to the crypts and kill whatever's left of Christer.,
-lorderemor,dlg,ReplyList/29/Text,0,-1,"What, you've given up on Christer just like that?",
-lorderemor,dlg,ReplyList/3/Text,0,-1,Me here to help.,
-lorderemor,dlg,ReplyList/30/Text,0,-1,Who is Morgroth?,
-lorderemor,dlg,ReplyList/31/Text,0,-1,But that Christer guy. You just give up on him?,
-lorderemor,dlg,ReplyList/32/Text,0,-1,And Christer. You're prepared to give up on him that easily?,
-lorderemor,dlg,ReplyList/33/Text,0,-1,"Huh? Not yet, nope.",
-lorderemor,dlg,ReplyList/34/Text,0,-1,Yuh. Me kill big pirate guy and take heart. Here you go.,
-lorderemor,dlg,ReplyList/35/Text,0,-1,"No. Not yet, m'Lord.",
-lorderemor,dlg,ReplyList/37/Text,0,-1,"Yes, I defeated Morgroth in his lair and seized his heart.",
-lorderemor,dlg,ReplyList/39/Text,0,-1,No. Me go outside and help fight undead.,
-lorderemor,dlg,ReplyList/4/Text,0,-1,Yuh. The ship guy say maybe we find shelter here.,
-lorderemor,dlg,ReplyList/40/Text,0,-1,"Yuh, okay. Me done here.",
-lorderemor,dlg,ReplyList/41/Text,0,-1,"No, I would like to help defend against the remaining undead.",
-lorderemor,dlg,ReplyList/43/Text,0,-1,"Yes, I am done here.",
-lorderemor,dlg,ReplyList/5/Text,0,-1,"No, you must be thinking of someone else.",
-lorderemor,dlg,ReplyList/6/Text,0,-1,I'm here to help.,
-lorderemor,dlg,ReplyList/7/Text,0,-1,"Yes, the captain thought we might find shelter here.",
-lorderemor,dlg,ReplyList/8/Text,0,-1,Grr... You threaten <FirstName>?,
-lorderemor,dlg,ReplyList/9/Text,0,-1,Huh? What happening?,
-patrol,dlg,EntryList/0/Text,0,-1,No time to talk. Those undead will be crawling up the ramparts again any minute.,
-patrol,dlg,EntryList/1/Text,0,-1,"If you're here to help against the winds, go on up and talk to Lord Eremor.",
-po2_guardsman,dlg,EntryList/0/Text,0,-1,"What brings you to this cursed rock, stranger?",
-po2_guardsman,dlg,EntryList/1/Text,0,-1,"Well, <FullName>, you picked a hell of a night to come. This storm comes only once a year and it brings an ill wind every time. Still, maybe Lord Eremor could put someone like you to use tonight.",
-po2_guardsman,dlg,EntryList/2/Text,0,-1,He's king of the hill around here. Lord of Eremor Keep and will be tomorrow if he survives the night.,
-po2_guardsman,dlg,ReplyList/0/Text,0,-1,Uh? Me no tell you.,
-po2_guardsman,dlg,ReplyList/1/Text,0,-1,Same reason me go anywhere: adventures!,
-po2_guardsman,dlg,ReplyList/10/Text,0,-1,Lord Eremor? Who that be?,
-po2_guardsman,dlg,ReplyList/11/Text,0,-1,"Why, what's the trouble here?",
-po2_guardsman,dlg,ReplyList/12/Text,0,-1,Is he willing to pay?,
-po2_guardsman,dlg,ReplyList/13/Text,0,-1,Lord Eremor? Who's that?,
-po2_guardsman,dlg,ReplyList/2/Text,0,-1,Ship guy say we stay here 'til storm go away.,
-po2_guardsman,dlg,ReplyList/3/Text,0,-1,Me no stranger. Me be <FirstName>.,
-po2_guardsman,dlg,ReplyList/4/Text,0,-1,I don't think that's any of your business.,
-po2_guardsman,dlg,ReplyList/5/Text,0,-1,It seemed like a good night for adventure.,
-po2_guardsman,dlg,ReplyList/6/Text,0,-1,The ship's captain says we're pulling up here until the storm passes.,
-po2_guardsman,dlg,ReplyList/7/Text,0,-1,The name's <FullName>.,
-po2_guardsman,dlg,ReplyList/8/Text,0,-1,"Why, what be wrong here?",
-po2_guardsman,dlg,ReplyList/9/Text,0,-1,He pay big money?,
-po2_noexit01,dlg,EntryList/0/Text,0,-1,The rains are heavy and the night winds strong. You'll find no shelter in these woods...,
-throne,dlg,EntryList/0/Text,0,-1,Present yourself before me...,
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+archer,dlg,EntryList/0/Text,0,-1,No time to talk. Those undead will be crawling up the ramparts again any minute.,말할 시간이 없소. 곧 언데드들이 다시 성벽을 기어오를 거요.
+archer,dlg,EntryList/1/Text,0,-1,"If you're here to help against the winds, go inside and talk to Lord Eremor.","바람에 맞서 도우러 왔다면, 안으로 들어가 에레모르 영주에게 말을 거시오."
+captainjord,dlg,EntryList/0/Text,0,-1,"The wind's blowing too hard, <FirstName>! I'm sorry, <lad/lass>, but we've had to put aground!","바람이 너무 세다, <FirstName>! 미안하지만 <lad/lass>, 배를 댈 수밖에 없었어!"
+captainjord,dlg,EntryList/1/Text,0,-1,I saw some sort of keep at the top o' this place! Run and let whoever's up there know we're here. I'll stay down here and batten down the hatches!,"이 섬 꼭대기에 성채 같은 게 보였어! 달려가서 위에 있는 사람한테 우리가 왔다고 알려줘. 난 여기서 배를 단단히 묶어 놓을게!"
+christer,dlg,EntryList/0/Text,0,-1,"Look, I've got to go seal myself into the crypts before we run out of time. Go on up and talk to Lord Eremor.","이봐요, 시간이 없으니 저는 지하묘지에 들어가 봉인해야 합니다. 올라가서 에레모르 영주에게 말을 거세요."
+christer,dlg,EntryList/1/Text,0,-1,"What brings you this cursed rock, stranger?","이 저주받은 바위섬에 무슨 일로 왔소, 낯선 이여?"
+christer,dlg,EntryList/2/Text,0,-1,"Well, you've picked a hell of a night to come to Mount Eremor. This kind of storm only comes once a year and it brings an ill wind every time. This year it's my turn, I guess.","허, 하필이면 이런 밤에 에레모르 산에 오다니. 이런 폭풍은 일 년에 한 번만 불어오는데 매번 불길한 바람을 몰고 오지. 올해는 내 차례인 모양이야."
+christer,dlg,EntryList/3/Text,0,-1,"Well I'm Christer... You picked a hell of a night to come to Mount Eremor, <FirstName>. This kind of storm only comes once a year and it brings an ill wind every time. This year it's my turn, I guess.","난 크리스터라오... 하필이면 이런 밤에 에레모르 산에 오다니, <FirstName>. 이런 폭풍은 일 년에 한 번만 불어오는데 매번 불길한 바람을 몰고 오지. 올해는 내 차례인 모양이야."
+christer,dlg,EntryList/4/Text,0,-1,"Look, I've got to go seal myself into the crypts before we run out of time. Go on up and talk to Lord Eremor. He'll... He'll know what's best.","이봐요, 시간이 없으니 지하묘지에 들어가 봉인해야 합니다. 올라가서 에레모르 영주에게 말을 거세요. 그분이... 최선을 아실 겁니다."
+christer,dlg,ReplyList/0/Text,0,-1,Hrmm. Me not tell you.,흐음. 안 알려줌.
+christer,dlg,ReplyList/1/Text,0,-1,Same what bring me anywhere: adventures!,어딜 가든 마찬가지: 모험!
+christer,dlg,ReplyList/10/Text,0,-1,"What you mean it be your ""turn.""","""차례""라니 무슨 소리야."
+christer,dlg,ReplyList/11/Text,0,-1,Who's in charge here?,여기 책임자가 누구요?
+christer,dlg,ReplyList/12/Text,0,-1,What kind of ill wind are you talking about?,무슨 불길한 바람을 말하는 거요?
+christer,dlg,ReplyList/13/Text,0,-1,"What do you mean it's your ""turn?""","당신 ""차례""라니 무슨 뜻이오?"
+christer,dlg,ReplyList/2/Text,0,-1,Ship guy say we be here until storm blow over.,배 아저씨가 폭풍 끝날 때까지 여기 있으래.
+christer,dlg,ReplyList/3/Text,0,-1,Me be <FirstName>.,나 <FirstName>.
+christer,dlg,ReplyList/4/Text,0,-1,It's none of your business.,당신이 알 바 아니오.
+christer,dlg,ReplyList/5/Text,0,-1,I thought I might find some adventure here.,여기서 모험거리를 찾을 수 있을 거라 생각했소.
+christer,dlg,ReplyList/6/Text,0,-1,Our ship's captain has pulled in until the storm passes.,우리 배 선장이 폭풍이 지나갈 때까지 정박했소.
+christer,dlg,ReplyList/7/Text,0,-1,My name is <FullName>.,내 이름은 <FullName>이오.
+christer,dlg,ReplyList/8/Text,0,-1,"Uh, who be in charge here?","어, 여기 대장 누구야?"
+christer,dlg,ReplyList/9/Text,0,-1,Ill wind? This not be normal storm?,불길한 바람? 이거 보통 폭풍 아냐?
+lorderemor,dlg,EntryList/0/Text,0,-1,"You can feel the electricity in the air, can't you... That's Morgroth's spirit riding on the wind.","공기 중의 전기를 느낄 수 있겠지... 모르그로스의 영혼이 바람을 타고 있는 것이오."
+lorderemor,dlg,EntryList/1/Text,0,-1,You're the one my men saw sail in on the storm?,내 부하들이 폭풍을 뚫고 들어오는 것을 봤다는 자가 당신이오?
+lorderemor,dlg,EntryList/10/Text,0,-1,"Christer was well-liked. It would be like killing him twice and I can't ask my men to do that... Maybe that's where you come in, stranger.","크리스터는 모두에게 사랑받았소. 그를 두 번 죽이는 것과 다름없어 부하들에게는 차마 시킬 수 없소... 아마 거기서 당신이 필요한 거요, 낯선 이여."
+lorderemor,dlg,EntryList/11/Text,0,-1,"Then you are a guest on my island and it is my sworn duty to see to your protection. Until the storm lets up or you change your mind, those four doors will remain locked.","그렇다면 당신은 이 섬의 손님이고 당신을 보호하는 것이 나의 의무요. 폭풍이 잦아들거나 마음이 바뀔 때까지, 저 네 개의 문은 잠겨 있을 거요."
+lorderemor,dlg,EntryList/12/Text,0,-1,"As I said, stranger, Christer is already dead. As for the rest of us, we've survived this before and we'll survive it again.","말했듯이, 크리스터는 이미 죽은 것이나 다름없소. 나머지 우리는 전에도 이겨냈고 이번에도 이겨낼 거요."
+lorderemor,dlg,EntryList/13/Text,0,-1,"If your own conscience drives you to help out, then you have my blessing. If it doesn't then you are a guest on my island and it is my duty to protect you. Those four doors will remain locked until you change your mind.","양심이 시켜서 돕겠다면 내 축복을 드리겠소. 아니라면 당신은 이 섬의 손님이고 당신을 보호하는 것이 나의 의무요. 마음이 바뀔 때까지 저 네 개의 문은 잠겨 있을 거요."
+lorderemor,dlg,EntryList/14/Text,0,-1,I can't promise that you'll survive to see them but the crypts are down by the docks where you came in. You already have the key... Now bring me his heart!,"살아 돌아온다는 보장은 못 하지만 지하묘지는 당신이 들어온 부두 쪽에 있소. 열쇠는 이미 갖고 있지... 이제 그놈의 심장을 가져오시오!"
+lorderemor,dlg,EntryList/15/Text,0,-1,I can't promise that you'll survive to see them but the crypts are down by the docks where you came in. Here's the key... Now bring me his heart!,"살아 돌아온다는 보장은 못 하지만 지하묘지는 당신이 들어온 부두 쪽에 있소. 여기 열쇠를 받으시오... 이제 그놈의 심장을 가져오시오!"
+lorderemor,dlg,EntryList/16/Text,0,-1,Legend is he was an old pirate. This keep was once his but now the King's Navy's siezed it. Gods know why but it's my curse now to keep it from falling into enemy hands. Even the bony fingers of old Morgroth himself...,"전설에 의하면 그는 오래된 해적이었소. 이 성채는 원래 그의 것이었으나 이제 왕립 해군이 접수했지. 신만이 아시겠지만 적의 손에 넘어가지 않게 지키는 것이 지금 나의 저주요. 모르그로스 그 늙은이의 뼈다귀 손가락까지도..."
+lorderemor,dlg,EntryList/17/Text,0,-1,"He's already dead, stranger. Just like your captain, remember? Can't you hear my men now? Morgroth's horde is already climbing out of the sea and scaling the ramparts.","그는 이미 죽었소, 낯선 이여. 당신의 선장처럼 말이오, 기억하시오? 내 부하들의 소리가 들리지 않소? 모르그로스의 무리가 이미 바다에서 기어 나와 성벽을 타고 오르고 있소."
+lorderemor,dlg,EntryList/18/Text,0,-1,"Even these heavy doors cannot shut out the horror of the night. Do you have Christer's -- I mean Morgroth's heart, yet? Damn this wind!","이 무거운 문으로도 밤의 공포를 막을 수 없구려. 크리스터의 -- 아니 모르그로스의 심장을 가져왔소? 빌어먹을 바람!"
+lorderemor,dlg,EntryList/19/Text,0,-1,Then I recommend you get it and soon.,그렇다면 서둘러 가져오기를 권하겠소.
+lorderemor,dlg,EntryList/2/Text,0,-1,I'm afraid there is no one else and I am quite sure that your captain is already dead.,다른 사람은 없을 거요. 그리고 당신의 선장은 이미 죽었을 것이 확실하오.
+lorderemor,dlg,EntryList/20/Text,0,-1,"It's true, this rotten flesh could be no other's. Even now I can hear the winds receding. If you wish, you may join the fight against the remaining undead but you will set sail when dawn comes.","사실이오, 이 썩은 살덩이는 다른 자의 것일 수 없소. 지금도 바람이 물러가는 소리가 들리오. 원한다면 남은 언데드와의 싸움에 합류해도 좋지만, 새벽이 오면 떠나야 하오."
+lorderemor,dlg,EntryList/21/Text,0,-1,"I can't vouch for your safety once my men learn that you came to me bearing Christer's heart. You have done your job, stranger, and are free to keep whatever treasure you have found. Are you ready to set sail?","내 부하들이 당신이 크리스터의 심장을 들고 왔다는 걸 알면 안전을 보장하기 어렵소. 할 일을 다했으니, 낯선 이여, 찾은 보물은 가져도 좋소. 출항할 준비가 되었소?"
+lorderemor,dlg,EntryList/22/Text,0,-1,"As you wish. The night is still young, however. When you are ready to depart, come speak with me once more.","좋을 대로 하시오. 하지만 밤은 아직 길소. 떠날 준비가 되면 다시 나에게 말을 거시오."
+lorderemor,dlg,EntryList/23/Text,0,-1,As you wish. Depart this accursed isle knowing that you have my thanks.,좋을 대로 하시오. 내 감사를 안고 이 저주받은 섬을 떠나시오.
+lorderemor,dlg,EntryList/24/Text,0,-1,"You fight bravely, my friend, but is it time to leave?","용감하게 싸웠소, 벗이여. 이제 떠날 때가 되었소?"
+lorderemor,dlg,EntryList/25/Text,0,-1,Present yourself.,신원을 밝히시오.
+lorderemor,dlg,EntryList/3/Text,0,-1,I think we might be beyond your help by now. I have no doubt that your captain is already dead.,이제 당신의 도움으로는 어찌할 수 없을 것 같소. 당신의 선장은 이미 죽었을 것이오.
+lorderemor,dlg,EntryList/4/Text,0,-1,Well I am quite sure that your captain is already dead.,당신의 선장은 이미 죽었을 것이 확실하오.
+lorderemor,dlg,EntryList/5/Text,0,-1,"Don't be a fool. The threat is not from me! The threat is out there, in the winds you rode in on.","바보짓 하지 마시오. 위협은 내가 아니오! 위협은 저 바깥, 당신이 타고 온 바람 속에 있소."
+lorderemor,dlg,EntryList/6/Text,0,-1,"This storm is known as Morgroth's wind. Every time it comes and chooses another of my men. This time it chose Christer, who I assume you met on your way up.","이 폭풍은 모르그로스의 바람이라 불리오. 올 때마다 내 부하 중 하나를 선택하지. 이번에는 올라오면서 만났을 크리스터를 골랐소."
+lorderemor,dlg,EntryList/7/Text,0,-1,"When the winds peak, Christer will die and his body will transform into that of Morgroth, the Undead Lord. That is why he is sealing himself into the crypts as we speak. It is for our protection.","바람이 절정에 이르면 크리스터는 죽고 그의 몸은 언데드 군주 모르그로스로 변할 것이오. 그래서 지금 스스로를 지하묘지에 봉인하고 있는 거요. 우리를 보호하기 위해서."
+lorderemor,dlg,EntryList/8/Text,0,-1,"Morgroth's undead hordes will ride in on the winds and lay siege to this keep until the coming dawn, at which point Christer's martyred corpse will have to be recovered from the crypts.","모르그로스의 언데드 무리가 바람을 타고 와서 새벽까지 이 성채를 포위할 것이오. 새벽이 오면 크리스터의 희생된 시신을 지하묘지에서 수습해야 하오."
+lorderemor,dlg,EntryList/9/Text,0,-1,Losing one of my men's enough. I could send an expedition to the crypts to kill Morgroth once and for all but it wouldn't succeed.,"부하를 한 명 잃는 것만으로도 충분하오. 지하묘지에 원정대를 보내 모르그로스를 영원히 처치할 수도 있겠지만, 성공하지 못할 것이오."
+lorderemor,dlg,ReplyList/0/Text,0,-1,"You talk 'bout storm again, okay?","폭풍 얘기 다시 해줘, 응?"
+lorderemor,dlg,ReplyList/1/Text,0,-1,Tell me about the storm again.,폭풍에 대해 다시 말해 주시오.
+lorderemor,dlg,ReplyList/10/Text,0,-1,Are you threatening me?,나를 위협하는 거요?
+lorderemor,dlg,ReplyList/12/Text,0,-1,What do you mean? What's going on?,무슨 뜻이오? 무슨 일이 벌어지고 있는 거요?
+lorderemor,dlg,ReplyList/15/Text,0,-1,Okay. How me help?,알았어. 어떻게 도와?
+lorderemor,dlg,ReplyList/16/Text,0,-1,"So you give up on that Christer guy real easy, huh?","그래서 그 크리스터란 사람 쉽게 포기해, 응?"
+lorderemor,dlg,ReplyList/17/Text,0,-1,Who this Morgroth be?,모르그로스가 누구야?
+lorderemor,dlg,ReplyList/18/Text,0,-1,Is there any way I can help?,제가 도울 방법이 있소?
+lorderemor,dlg,ReplyList/2/Text,0,-1,"Uh, no... Me be someone else.","어, 아니... 나 다른 사람이야."
+lorderemor,dlg,ReplyList/20/Text,0,-1,"Hmm. No, me no think me do it.","흠. 아니, 나 안 할래."
+lorderemor,dlg,ReplyList/21/Text,0,-1,Me do it for gold. How much you offer?,금 주면 해줄게. 얼마 줄 거야?
+lorderemor,dlg,ReplyList/22/Text,0,-1,"Yuh. Me go to crypts and kill that Christer-Morgroth guy, okay?","응. 나 지하묘지 가서 그 크리스터-모르그로스 죽일게, 알았지?"
+lorderemor,dlg,ReplyList/23/Text,0,-1,No thanks. I'm not interested.,아니오. 관심 없소.
+lorderemor,dlg,ReplyList/24/Text,0,-1,How much is this worth to you?,이 일의 대가가 얼마나 되오?
+lorderemor,dlg,ReplyList/26/Text,0,-1,Alright. I'll go to the crypts and kill whatever's left of Christer.,알겠소. 지하묘지에 가서 크리스터의 남은 것이 무엇이든 처치하겠소.
+lorderemor,dlg,ReplyList/29/Text,0,-1,"What, you've given up on Christer just like that?","뭐, 크리스터를 그냥 포기하는 거요?"
+lorderemor,dlg,ReplyList/3/Text,0,-1,Me here to help.,나 도우러 왔어.
+lorderemor,dlg,ReplyList/30/Text,0,-1,Who is Morgroth?,모르그로스가 누구요?
+lorderemor,dlg,ReplyList/31/Text,0,-1,But that Christer guy. You just give up on him?,근데 크리스터. 그냥 포기하는 거야?
+lorderemor,dlg,ReplyList/32/Text,0,-1,And Christer. You're prepared to give up on him that easily?,그리고 크리스터. 그렇게 쉽게 포기할 준비가 되어 있소?
+lorderemor,dlg,ReplyList/33/Text,0,-1,"Huh? Not yet, nope.","뭐? 아직 아니야, 아직."
+lorderemor,dlg,ReplyList/34/Text,0,-1,Yuh. Me kill big pirate guy and take heart. Here you go.,응. 나 큰 해적놈 죽이고 심장 가져왔어. 여기.
+lorderemor,dlg,ReplyList/35/Text,0,-1,"No. Not yet, m'Lord.","아닙니다. 아직이옵니다, 영주님."
+lorderemor,dlg,ReplyList/37/Text,0,-1,"Yes, I defeated Morgroth in his lair and seized his heart.","네, 모르그로스를 소굴에서 쓰러뜨리고 심장을 가져왔소."
+lorderemor,dlg,ReplyList/39/Text,0,-1,No. Me go outside and help fight undead.,아니. 나 밖에 나가서 언데드 싸우는 거 도울래.
+lorderemor,dlg,ReplyList/4/Text,0,-1,Yuh. The ship guy say maybe we find shelter here.,응. 배 아저씨가 여기서 피할 수 있을 거래.
+lorderemor,dlg,ReplyList/40/Text,0,-1,"Yuh, okay. Me done here.","응, 알았어. 나 여기 다 끝났어."
+lorderemor,dlg,ReplyList/41/Text,0,-1,"No, I would like to help defend against the remaining undead.","아니오, 남은 언데드에 맞서 방어를 돕고 싶소."
+lorderemor,dlg,ReplyList/43/Text,0,-1,"Yes, I am done here.","네, 여기서 할 일은 끝났소."
+lorderemor,dlg,ReplyList/5/Text,0,-1,"No, you must be thinking of someone else.","아니오, 다른 사람과 착각하시는 것 같소."
+lorderemor,dlg,ReplyList/6/Text,0,-1,I'm here to help.,도우러 왔소.
+lorderemor,dlg,ReplyList/7/Text,0,-1,"Yes, the captain thought we might find shelter here.","네, 선장이 여기서 피할 수 있을 거라 했소."
+lorderemor,dlg,ReplyList/8/Text,0,-1,Grr... You threaten <FirstName>?,으르르... 네가 <FirstName> 위협해?
+lorderemor,dlg,ReplyList/9/Text,0,-1,Huh? What happening?,뭐? 무슨 일이야?
+patrol,dlg,EntryList/0/Text,0,-1,No time to talk. Those undead will be crawling up the ramparts again any minute.,말할 시간이 없소. 곧 언데드들이 다시 성벽을 기어오를 거요.
+patrol,dlg,EntryList/1/Text,0,-1,"If you're here to help against the winds, go on up and talk to Lord Eremor.","바람에 맞서 도우러 왔다면, 올라가서 에레모르 영주에게 말을 거시오."
+po2_guardsman,dlg,EntryList/0/Text,0,-1,"What brings you to this cursed rock, stranger?","이 저주받은 바위섬에 무슨 일로 왔소, 낯선 이여?"
+po2_guardsman,dlg,EntryList/1/Text,0,-1,"Well, <FullName>, you picked a hell of a night to come. This storm comes only once a year and it brings an ill wind every time. Still, maybe Lord Eremor could put someone like you to use tonight.","허, <FullName>, 하필이면 이런 밤에 오다니. 이 폭풍은 일 년에 한 번만 오는데 매번 불길한 바람을 몰고 오지. 하지만 에레모르 영주라면 오늘 밤 당신 같은 사람을 쓸 수 있을지도 모르겠소."
+po2_guardsman,dlg,EntryList/2/Text,0,-1,He's king of the hill around here. Lord of Eremor Keep and will be tomorrow if he survives the night.,여기서 최고 권력자지. 에레모르 성채의 영주이고 오늘 밤만 살아남으면 내일도 그럴 거요.
+po2_guardsman,dlg,ReplyList/0/Text,0,-1,Uh? Me no tell you.,어? 안 알려줌.
+po2_guardsman,dlg,ReplyList/1/Text,0,-1,Same reason me go anywhere: adventures!,어딜 가든 마찬가지: 모험!
+po2_guardsman,dlg,ReplyList/10/Text,0,-1,Lord Eremor? Who that be?,에레모르 영주? 그 누구야?
+po2_guardsman,dlg,ReplyList/11/Text,0,-1,"Why, what's the trouble here?","왜, 여기 무슨 일이 있소?"
+po2_guardsman,dlg,ReplyList/12/Text,0,-1,Is he willing to pay?,대가를 치를 용의가 있소?
+po2_guardsman,dlg,ReplyList/13/Text,0,-1,Lord Eremor? Who's that?,에레모르 영주? 누구요?
+po2_guardsman,dlg,ReplyList/2/Text,0,-1,Ship guy say we stay here 'til storm go away.,배 아저씨가 폭풍 끝날 때까지 여기 있으래.
+po2_guardsman,dlg,ReplyList/3/Text,0,-1,Me no stranger. Me be <FirstName>.,나 낯선 사람 아냐. 나 <FirstName>.
+po2_guardsman,dlg,ReplyList/4/Text,0,-1,I don't think that's any of your business.,당신이 알 바 아니오.
+po2_guardsman,dlg,ReplyList/5/Text,0,-1,It seemed like a good night for adventure.,모험하기 좋은 밤 같아서 왔소.
+po2_guardsman,dlg,ReplyList/6/Text,0,-1,The ship's captain says we're pulling up here until the storm passes.,우리 배 선장이 폭풍이 지나갈 때까지 여기 정박한다고 했소.
+po2_guardsman,dlg,ReplyList/7/Text,0,-1,The name's <FullName>.,이름은 <FullName>이오.
+po2_guardsman,dlg,ReplyList/8/Text,0,-1,"Why, what be wrong here?","왜, 여기 뭐가 잘못된 거야?"
+po2_guardsman,dlg,ReplyList/9/Text,0,-1,He pay big money?,그 사람 돈 많이 줘?
+po2_noexit01,dlg,EntryList/0/Text,0,-1,The rains are heavy and the night winds strong. You'll find no shelter in these woods...,비가 거세고 밤바람이 강하다. 이 숲에서는 피할 곳을 찾지 못할 것이다...
+throne,dlg,EntryList/0/Text,0,-1,Present yourself before me...,내 앞에 나서라...

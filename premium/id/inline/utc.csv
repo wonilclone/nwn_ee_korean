@@ -4,17 +4,17 @@ dungeonangel,utc,FirstName,0,-1,Erica,
 henchman,utc,FirstName,0,-1,Governess Henchman,
 id1_antoine,utc,Description,0,-1,This boorish noble seems to be both eccentric and ferocious at the same time.,
 id1_antoine,utc,FirstName,0,-1,"Lord Antoine Baccha, Visier de Guise",
-id1_camoboar,utc,FirstName,0,12399,Dire Boar,
-id1_cltavngr,utc,FirstName,0,12431,Celestial Avenger,
+id1_camoboar,utc,FirstName,0,12399,Dire Boar,흉포한 멧돼지
+id1_cltavngr,utc,FirstName,0,12431,Celestial Avenger,천족 복수자
 id1_cs_ant_ant1,utc,FirstName,0,-1,"Lord Antoine Baccha, Visier de Guise",
 id1_cs_ant_ant2,utc,FirstName,0,-1,"Lord Antoine Baccha, Visier de Guise",
-id1_cs_ant_boar,utc,FirstName,0,12397,Boar,
+id1_cs_ant_boar,utc,FirstName,0,12397,Boar,멧돼지
 id1_cs_ant_npc1,utc,FirstName,0,12586,Gypsy,
 id1_cs_ant_npc2,utc,FirstName,0,12584,Gypsy,
 id1_cs_ant_npc3,utc,FirstName,0,12617,Mercenary,
 id1_cs_ant_npc4,utc,FirstName,0,12583,Gypsy,
 id1_cs_ant_npc5,utc,FirstName,0,12589,Mercenary,
-id1_cs_gzh_behld,utc,FirstName,0,3058,Beholder,
+id1_cs_gzh_behld,utc,FirstName,0,3058,Beholder,주시자
 id1_cs_gzh_gzhrb,utc,FirstName,0,3058,"G'Zhorb, the All-Seeing Eye",
 id1_cs_gzh_npc1,utc,FirstName,0,-1,Adventurer,
 id1_cs_gzh_npc2,utc,FirstName,0,-1,Adventurer,
@@ -24,7 +24,7 @@ id1_cs_hgt_min1,utc,FirstName,0,-1,Giant,
 id1_cs_hgt_min2,utc,FirstName,0,-1,Giant,
 id1_cs_hls_peng,utc,FirstName,0,-1,Penguin,
 id1_cs_hrt_harat,utc,FirstName,0,-1,"Harat, Lord of Darkness",
-id1_cs_hrt_imp,utc,FirstName,0,5999,Imp,
+id1_cs_hrt_imp,utc,FirstName,0,5999,Imp,임프
 id1_cs_hrt_min,utc,FirstName,0,-1,Erinyes,
 id1_cs_hrt_spkr,utc,FirstName,0,-1,"Harat, Lord of Darkness",
 id1_cs_mag_magrs,utc,FirstName,0,-1,"Maggris, the Hive Mother",
@@ -38,7 +38,7 @@ id1_cs_mst_min1,utc,FirstName,0,-1,Spectre,
 id1_cs_mst_min2,utc,FirstName,0,-1,Spectre,
 id1_cs_mst_mstrs,utc,FirstName,0,-1,"Masterius, the Lich King",
 id1_cs_nar1_advn,utc,FirstName,0,-1,Adventurer,
-id1_cs_nar1_ogre,utc,FirstName,0,12664,Ogre,
+id1_cs_nar1_ogre,utc,FirstName,0,12664,Ogre,오우거
 id1_cs_nar3_min1,utc,FirstName,0,12664,Minion,
 id1_cs_nar3_min2,utc,FirstName,0,12664,Minion,
 id1_cs_nar3_min3,utc,FirstName,0,12664,Minion,
@@ -76,8 +76,8 @@ id1_hlstrpngn2,utc,Description,0,-1,A penguin is usually a peaceful bird. Usuall
 id1_hlstrpngn2,utc,FirstName,0,-1,Stoic Penguin,
 id1_hlstrpngn3,utc,Description,0,-1,A penguin is usually a peaceful bird. Usually.,
 id1_hlstrpngn3,utc,FirstName,0,-1,Benign Penguin,
-id1_hlstrsprt1,utc,FirstName,0,6005,Pixie,
-id1_hlstrsprt2,utc,FirstName,0,6005,Pixie,
+id1_hlstrsprt1,utc,FirstName,0,6005,Pixie,픽시
+id1_hlstrsprt2,utc,FirstName,0,6005,Pixie,픽시
 id1_hostile,utc,FirstName,0,-1,Hostile,
 id1_journalcre,utc,FirstName,0,-1,Dungeon Journal,
 id1_littletimmy,utc,Description,0,-1,"This strange, little boy seems confused, frightened and yet cocky all at the same time.",
@@ -122,11 +122,11 @@ id_adtdrgred,utc,FirstName,0,12489,Red Dragon,
 id_adtdrgsilver,utc,Description,0,-1,"Silver Dragons are regal and statuesque. They cheerfully assist good creatures in genuine need, often taking human or elven form to maintain their anonymity.",
 id_adtdrgsilver,utc,FirstName,0,-1,Silver Dragon,
 id_adtdrgwhite,utc,FirstName,0,12497,White Dragon,
-id_airelder,utc,FirstName,0,12356,Elder Air Elemental,
-id_airgreat,utc,FirstName,0,12357,Greater Air Elemental,
+id_airelder,utc,FirstName,0,12356,Elder Air Elemental,대기의 원소 정령 장로
+id_airgreat,utc,FirstName,0,12357,Greater Air Elemental,상급 대기의 원소 정령
 id_alhoon,utc,Description,0,-1,These undead mind flayers are a rising power in the twisted politics of the Underdark.,
 id_alhoon,utc,FirstName,0,-1,Alhoon,
-id_allip,utc,FirstName,0,12360,Allip,
+id_allip,utc,FirstName,0,12360,Allip,알립
 id_ancdrgblack,utc,FirstName,0,12463,Black Great Wyrm,
 id_ancdrgblue,utc,FirstName,0,12467,Blue Great Wyrm,
 id_ancdrgbrass,utc,Description,0,-1,"Brass Dragons are talkative gossipmongers. They may have useful information, but usually share it only after long rambling and hinting for a gift.",
@@ -158,32 +158,32 @@ id_banditmb004,utc,Description,0,-1,This is one of the bandit leaders in Undermo
 id_banditmb004,utc,FirstName,0,-1,Prince of Thieves,
 id_banditmb005,utc,Description,0,-1,This is one of the bandit leaders in Undermountain.,
 id_banditmb005,utc,FirstName,0,-1,Lady of the Mask,
-id_basilisk,utc,FirstName,0,2861,Basilisk,
-id_bat,utc,FirstName,0,12376,Bat,
+id_basilisk,utc,FirstName,0,2861,Basilisk,바실리스크
+id_bat,utc,FirstName,0,12376,Bat,박쥐
 id_batlrg,utc,FirstName,0,12376,Large Bat,
 id_batsml,utc,FirstName,0,12376,Small Bat,
-id_bearbrwn,utc,FirstName,0,12384,Brown Bear,
+id_bearbrwn,utc,FirstName,0,12384,Brown Bear,불곰
 id_bearlegend,utc,FirstName,0,12386,Legendary Bear,
-id_beastmalar,utc,FirstName,0,2976,Malar Panther,
-id_beholder,utc,FirstName,0,3058,Beholder,
+id_beastmalar,utc,FirstName,0,2976,Malar Panther,말라의 표범
+id_beholder,utc,FirstName,0,3058,Beholder,주시자
 id_beholdermage,utc,FirstName,0,3058,Beholder Mage,
 id_beholdermageh,utc,FirstName,0,3058,Huge Beholder Mage,
-id_beholdermb001,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways. An Unblinking One is an even more powerful member of the beholder species.",
+id_beholdermb001,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways. An Unblinking One is an even more powerful member of the beholder species.","주시자는 어마어마한 상대이며, 다양하고 끔찍한 방법으로 적을 무력화시킬 수 있습니다."
 id_beholdermb001,utc,FirstName,0,3058,Unblinking One,
-id_beholdermb002,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways.  A Minion is an even more powerful member of the beholder species.",
+id_beholdermb002,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways.  A Minion is an even more powerful member of the beholder species.","주시자는 어마어마한 상대이며, 다양하고 끔찍한 방법으로 적을 무력화시킬 수 있습니다."
 id_beholdermb002,utc,FirstName,0,3058,Minion of the All-Seeing Eye,
-id_beholdermb003,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways. A favored servant is an even more powerful member of the beholder species.",
+id_beholdermb003,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways. A favored servant is an even more powerful member of the beholder species.","주시자는 어마어마한 상대이며, 다양하고 끔찍한 방법으로 적을 무력화시킬 수 있습니다."
 id_beholdermb003,utc,FirstName,0,3058,Favored Servant,
-id_beholdermb004,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways. A High Sentinel is an even more powerful member of the beholder species.",
+id_beholdermb004,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways. A High Sentinel is an even more powerful member of the beholder species.","주시자는 어마어마한 상대이며, 다양하고 끔찍한 방법으로 적을 무력화시킬 수 있습니다."
 id_beholdermb004,utc,FirstName,0,3058,High Sentinel,
-id_beholdermb005,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways. An arch orb is an even more powerful member of the beholder species.",
+id_beholdermb005,utc,Description,0,84399,"Beholders are formidable opponents, capable of incapacitating their enemies in a variety of horrible ways. An arch orb is an even more powerful member of the beholder species.","주시자는 어마어마한 상대이며, 다양하고 끔찍한 방법으로 적을 무력화시킬 수 있습니다."
 id_beholdermb005,utc,FirstName,0,3058,Arch Orb,
 id_blindeye,utc,FirstName,0,3058,Blind Eye,
 id_boarlegend,utc,FirstName,0,12399,Legendary Boar,
 id_btlbomb_d,utc,FirstName,0,12403,Deadly Bombardier Beetle,
 id_btlbomblg,utc,FirstName,0,12403,Large Bombardier Beetle,
-id_btlstag,utc,FirstName,0,12407,Stag Beetle,
-id_btlstag_m,utc,FirstName,0,12407,Stag Beetle,
+id_btlstag,utc,FirstName,0,12407,Stag Beetle,사슴벌레
+id_btlstag_m,utc,FirstName,0,12407,Stag Beetle,사슴벌레
 id_btlstaghg,utc,FirstName,0,12407,Huge Stag Beetle,
 id_btlstagsml,utc,FirstName,0,12407,Small Stag Beetle,
 id_btlstinksml,utc,FirstName,0,12409,Small Stink Beetle,
@@ -191,11 +191,11 @@ id_bugbear002,utc,FirstName,0,12411,Bugbear Cleric,
 id_bugbear008,utc,FirstName,0,12411,Bugbear Rogue,
 id_bugbear010,utc,FirstName,0,12411,Bugbear Wizard,
 id_bugbear012,utc,FirstName,0,12411,Bugbear Fighter,
-id_cockatrice,utc,FirstName,0,40596,Cockatrice,
-id_cougar,utc,FirstName,0,12426,Cougar,
+id_cockatrice,utc,FirstName,0,40596,Cockatrice,코카트리스
+id_cougar,utc,FirstName,0,12426,Cougar,쿠거
 id_cougarsml,utc,FirstName,0,12426,Small Cougar,
-id_cragcat,utc,Description,0,12429,"The fabled 'Hunter-of-Men' is a sure-footed predator of the North. More than just a simple bobcat, however, it wields some magical properties as well.",
-id_cragcat,utc,FirstName,0,57919,Crag Cat,
+id_cragcat,utc,Description,0,12429,"The fabled 'Hunter-of-Men' is a sure-footed predator of the North. More than just a simple bobcat, however, it wields some magical properties as well.",전설적인 '인간 사냥꾼'은 확실한 북쪽의 포식자입니다. 그러나 단순한 스라소니와 달리 약간의 마법적 속성도 가지고 있습니다다.
+id_cragcat,utc,FirstName,0,57919,Crag Cat,바위 고양이
 id_cultistmb001,utc,Description,0,-1,"An Accursed One is a svirfneblin cultist who enslaves his own people. Though his kin must follow his orders, the Accursed Ones are hated even more than the cultists he works for.",
 id_cultistmb001,utc,FirstName,0,-1,Accursed One,
 id_cultistmb002,utc,Description,0,-1,This is one of the High Priestesses of the cultists in Undermountain.,
@@ -206,7 +206,7 @@ id_cultistmb004,utc,Description,0,-1,A Dark Prelate is a powerful drow mage who 
 id_cultistmb004,utc,FirstName,0,-1,Dark Prelate,
 id_cultistmb005,utc,Description,0,-1,This is a cultist leader and a cruel foe.,
 id_cultistmb005,utc,FirstName,0,-1,Arch Heretic,
-id_darkfeymb001,utc,Description,0,12504,"Dryads are exquisitely beautiful tree sprites found deep in secluded woodlands. They sometimes aid adventurers and can prove a source of useful information. Lords of the dark fey, the Unseelie rule the night and are some of the only creatures who can actually command the Fey.",
+id_darkfeymb001,utc,Description,0,12504,"Dryads are exquisitely beautiful tree sprites found deep in secluded woodlands. They sometimes aid adventurers and can prove a source of useful information. Lords of the dark fey, the Unseelie rule the night and are some of the only creatures who can actually command the Fey.",드라이어드는 외딴 삼림지대 깊은 곳에서 발견되는 매우 아름다운 나무의 요정입니다. 그들은 때때로 모험가들을 돕고 유용한 정보를 제공합니다.
 id_darkfeymb001,utc,FirstName,0,12505,Unseelie Courtesan,
 id_darkfeymb002,utc,Description,0,-1,"The Lighteaters are elite drow warriors and assassins who are sent to destroy specific targets on the surface, such as elven strongholds.",
 id_darkfeymb002,utc,FirstName,0,-1,Lighteater Guard,
@@ -220,9 +220,9 @@ id_dead_butler,utc,Description,0,12826,"Corpses reanimated through necromancy, m
 id_dead_butler,utc,FirstName,0,12827,Dead Butler,
 id_demilich,utc,Description,0,-1,"Demiliches are wiser, older and far deadlier than common liches.",
 id_demilich,utc,FirstName,0,-1,Demlich,
-id_demonmb001,utc,Description,0,12452,"With perfect builds and flawless skin, Succubi are the most comely of demons. They live to tempt mortal men into crimes of passion. Arch Minions have risen in the ranks of demonkind and rule ruthlessly over their lessers.",
+id_demonmb001,utc,Description,0,12452,"With perfect builds and flawless skin, Succubi are the most comely of demons. They live to tempt mortal men into crimes of passion. Arch Minions have risen in the ranks of demonkind and rule ruthlessly over their lessers.",완벽한 체격에 흠잡을 데 없는 피부를 가진 서큐버스는 악마 중 가장 흔합니다. 그들은 필멸자 남성을 욕정의 죄악으로 유도합니다.
 id_demonmb001,utc,FirstName,0,12453,Arch Minion,
-id_demonmb002,utc,Description,0,12454,"Bony, vulture-like creatures, Vrocks are the foot soldiers of the Abyss. Notoriously vain, they prance about in battle, admiring their sharp claws and beaks. Vile Contenders have risen in the ranks of fiendkind and rule ruthlessly over their lessers.",
+id_demonmb002,utc,Description,0,12454,"Bony, vulture-like creatures, Vrocks are the foot soldiers of the Abyss. Notoriously vain, they prance about in battle, admiring their sharp claws and beaks. Vile Contenders have risen in the ranks of fiendkind and rule ruthlessly over their lessers.",뼈가 드러난 독수리 같은 생명체인 브록은 심연의 보병입니다. 허영심이 강한 것으로 악명높은 이들은 날카로운 발톱과 부리를 뽐내며 전장을 누빕니다.
 id_demonmb002,utc,FirstName,0,12455,Vile Contender,
 id_demonmb003,utc,Description,0,-1,"Unlike other devils, erinyes appear attractive to humans, resembling very comely women except for their huge feathery wings and sinister eyes. Fell Lieutenants have risen in the ranks of devilkind and rule ruthlessly over their lessers.
 ",
@@ -230,15 +230,15 @@ id_demonmb003,utc,FirstName,0,-1,Fell Lieutenant,
 id_demonmb004,utc,Description,0,3096,"Pit fiends are the undisputed leaders of the baatezu. They are large and powerful humanoids with nasty fangs that drip with a vile green liquid. High fiends have risen in the ranks of devilkind and rule ruthlessly over their lessers.
 
 
-",
+",나락의 마귀는 논란의 여지가 없는 바테주의 지도자입니다. 역겨운 녹색 액체가 방울방울 떨어지는 더러운 송곳니를 가진 크고 강력한 인간형 생명체 입니다.
 id_demonmb004,utc,FirstName,0,3095,High Fiend,
-id_demonmb005,utc,Description,0,12442,"With their flaming wings and skull-like countenance, these demons are among the greatest and most feared of their kind. Fell Masters have risen in the ranks of demonkind and rule ruthlessly over their lessers.",
+id_demonmb005,utc,Description,0,12442,"With their flaming wings and skull-like countenance, these demons are among the greatest and most feared of their kind. Fell Masters have risen in the ranks of demonkind and rule ruthlessly over their lessers.",불타는 날개와 해골 같은 얼굴을 가진 이 악마는 악마들 중에 가장 위대하며 가장 두려운 존재입니다.
 id_demonmb005,utc,FirstName,0,12443,Fell Master,
-id_direbadg,utc,FirstName,0,12447,Dire Badger,
-id_direrat,utc,FirstName,0,3105,Dire Rat,
-id_direwolf,utc,FirstName,0,10526,Dire Wolf,
-id_dog,utc,FirstName,0,12457,Dog,
-id_dracolich,utc,FirstName,0,3062,Dracolich,
+id_direbadg,utc,FirstName,0,12447,Dire Badger,흉포한 오소리
+id_direrat,utc,FirstName,0,3105,Dire Rat,흉포한 시궁쥐
+id_direwolf,utc,FirstName,0,10526,Dire Wolf,흉포한 늑대
+id_dog,utc,FirstName,0,12457,Dog,개
+id_dracolich,utc,FirstName,0,3062,Dracolich,드라코리치
 id_dragonmb001,utc,FirstName,0,12499,White Sire,
 id_dragonmb002,utc,FirstName,0,12463,Black Sire,
 id_dragonmb003,utc,Description,0,-1,"While most wyrmlings are rather fragile, a Paragon Wyrmling is larger and healthier, usually surviving longer than its brethren. Some of the largest and most powerful dragons began as Paragons.",
@@ -252,7 +252,7 @@ id_drider002,utc,FirstName,0,3063,Drider Cleric,
 id_drider004,utc,FirstName,0,3063,Drider Fighter,
 id_drider008,utc,FirstName,0,3063,Drider Rogue,
 id_drider010,utc,FirstName,0,3063,Drider Wizard,
-id_dryad,utc,FirstName,0,12505,Dryad,
+id_dryad,utc,FirstName,0,12505,Dryad,드라이어드
 id_dwarf002,utc,Description,0,-1,This is a dwarf.,
 id_dwarf002,utc,FirstName,0,-1,Dwarf Cleric,
 id_dwarf004,utc,Description,0,-1,This is a dwarf.,
@@ -261,7 +261,7 @@ id_dwarf008,utc,Description,0,-1,This is a dwarf.,
 id_dwarf008,utc,FirstName,0,-1,Dwarf Rogue,
 id_dwarf010,utc,Description,0,-1,This is a dwarf.,
 id_dwarf010,utc,FirstName,0,-1,Dwarf Wizard,
-id_earthhuge,utc,FirstName,0,12517,Huge Earth Elemental,
+id_earthhuge,utc,FirstName,0,12517,Huge Earth Elemental,거대한 대지의 원소 정령
 id_elf002,utc,Description,0,-1,This is an elf.,
 id_elf002,utc,FirstName,0,-1,Elven Cleric,
 id_elf002a,utc,Description,0,-1,"The drow are an evil subrace of elves, living deep underground in the dangerous Underdark.",
@@ -281,39 +281,39 @@ id_elf010a,utc,FirstName,0,-1,Drow Wizard,
 id_erinyes,utc,Description,0,-1,"Unlike other devils, erinyes appear attractive to humans, resembling very comely women except for their huge feathery wings and sinister eyes.",
 id_erinyes,utc,FirstName,0,-1,Erinyes,
 id_etherealmb001,utc,FirstName,0,12716,Poltergeist,
-id_etherealmb002,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. They are but an extension of their master's will. Forgotten Warriors have more power in death than common skeletons do.",
+id_etherealmb002,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. They are but an extension of their master's will. Forgotten Warriors have more power in death than common skeletons do.","죽은 이의 뼈를 어둠의 마법으로 되살려낸, 해골은 마음을 가지고 있지 않습니다. 단지 주인의 의지에 따를 뿐입니다."
 id_etherealmb002,utc,FirstName,0,12701,Forgotten Warrior,
-id_etherealmb003,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. They are but an extension of their master's will. Forgotten Kings have more power in death than their subjects do, just like in life.",
+id_etherealmb003,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. They are but an extension of their master's will. Forgotten Kings have more power in death than their subjects do, just like in life.","죽은 이의 뼈를 어둠의 마법으로 되살려낸, 해골은 마음을 가지고 있지 않습니다. 단지 주인의 의지에 따를 뿐입니다."
 id_etherealmb003,utc,FirstName,0,12701,Forgotten King,
 id_etherealmb004,utc,Description,0,-1,"Created by demented wizards, Bone Golems are generally used to guard prized possessions. Their bodies are pieced together from various creatures, both humanoid and monster. A Bone Lord is simply a tougher, more deadly version of a Bone Golem.",
 id_etherealmb004,utc,FirstName,0,-1,Bone Lord,
 id_etherealmb005,utc,FirstName,0,12822,High Haunt,
-id_ettercap,utc,FirstName,0,12522,Ettercap,
+id_ettercap,utc,FirstName,0,12522,Ettercap,이터캡
 id_eyeball,utc,FirstName,0,3058,Eyeball,
-id_fleshymb001,utc,Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut. Rotten servants, because good help is so hard to find.",
+id_fleshymb001,utc,Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut. Rotten servants, because good help is so hard to find.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 id_fleshymb001,utc,FirstName,0,12827,Rotten Servant,
-id_fleshymb002,utc,Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut. Rotten Masters are zombies that have more powerful enchantments placed upon their bodies, making them more durable than a normal zombie.",
+id_fleshymb002,utc,Description,0,12826,"Corpses reanimated through necromancy, Zombies are mindless undead that shamble about, trying to satiate the dull ache of hunger in their decaying gut. Rotten Masters are zombies that have more powerful enchantments placed upon their bodies, making them more durable than a normal zombie.","걍령술로 되살아난 시체인, 좀비는 마음이 없는 언데드로 어기적거리며 썩어가는 내장에서 느껴지는 배고픔을 달래려고 애씁니다."
 id_fleshymb002,utc,FirstName,0,12827,Rotten Master,
 id_fleshymb003,utc,FirstName,0,12827,Zombie Lord,
-id_fleshymb004,utc,Description,0,12655,"Ritually preserved and animated corpses that maintain their timeless vigil over tombs and temple complexes, Mummies are an effective deterrent to would-be grave-robbers. A Forsaken Pharoah was a despotic ruler in life who commands greater power than a regular mummy in death.",
+id_fleshymb004,utc,Description,0,12655,"Ritually preserved and animated corpses that maintain their timeless vigil over tombs and temple complexes, Mummies are an effective deterrent to would-be grave-robbers. A Forsaken Pharoah was a despotic ruler in life who commands greater power than a regular mummy in death.","의식에 따라 보존되었으며 되살아난 시체인, 무덤과 사원을 끝없이 지키고 있는 미라는 무덤 도굴꾼들에게 효과적인 억제책입니다."
 id_fleshymb004,utc,FirstName,0,12656,Forsaken Pharoah,
-id_fleshymb005,utc,Description,0,12551,"More deadly and cunning than their lesser kin, the Ghoul, these undead carrion eaters have the added ability to paralyze their victims. He Who Hungers is even more deadly than a regular ghast.",
+id_fleshymb005,utc,Description,0,12551,"More deadly and cunning than their lesser kin, the Ghoul, these undead carrion eaters have the added ability to paralyze their victims. He Who Hungers is even more deadly than a regular ghast.","그들의 하급 친척인 구울보다 더 치명적이고 교활하며, 이 썩은 고기를 먹는 언데드는 희생자를 마비시키는 추가적인 능력을 가지고 있습니다."
 id_fleshymb005,utc,FirstName,0,12552,He Who Hungers,
-id_form_immature,utc,Description,0,40606,"A formian resembles a strange, centaur-like creature with the body and head of a giant ant, but with humanoid forelimbs. Their bodies are encased in a brownish-red, black or white carapace. They are not cruel, but live in a strict, regimented society.",
+id_form_immature,utc,Description,0,40606,"A formian resembles a strange, centaur-like creature with the body and head of a giant ant, but with humanoid forelimbs. Their bodies are encased in a brownish-red, black or white carapace. They are not cruel, but live in a strict, regimented society.","포르미안은 거대한 개미의 몸과 머리를 가진 켄타우로스 같은 이상한 생명체를 닮았지만, 앞다리는 인간형입니다. 몸은 적갈색, 검은색 또는 흰색 갑각으로 덮여 있습니다. 잔인하지는 않지만 엄격하고 규율 잡힌 사회에서 삽니다. 포르미안 일꾼은 가장 낮은 계급이자 가장 흔한 포르미안입니다. 오직 봉사하기 위해 존재하며, 벌집에 필요한 모든 필수적이고 하찮은 일을 수행합니다. 서투른 발톱은 육체 노동에만 적합합니다."
 id_form_immature,utc,FirstName,0,2887,Immature Formian,
-id_form_taskmast,utc,FirstName,0,40603,Formian Taskmaster,
-id_gargoyle,utc,FirstName,0,12550,Gargoyle,
+id_form_taskmast,utc,FirstName,0,40603,Formian Taskmaster,포르미안 작업반장
+id_gargoyle,utc,FirstName,0,12550,Gargoyle,가고일
 id_gargoylelg,utc,FirstName,0,12550,Large Gargoyle,
 id_gargoyleparag,utc,FirstName,0,12550,Gargoyle Paragon,
-id_gelcube,utc,FirstName,0,84439,Gelatinous Cube,
-id_ghoul,utc,FirstName,0,12554,Ghoul,
-id_giantmb001,utc,Description,0,12563,"These brutish cave dwellers live communally and some have a basic grasp of magic. Intensely protective of their kin, they are generally reluctant to trust outsiders. A Smasher is the leader of a tribe of Mountain Giants.",
+id_gelcube,utc,FirstName,0,84439,Gelatinous Cube,젤리같은 육면체
+id_ghoul,utc,FirstName,0,12554,Ghoul,구울
+id_giantmb001,utc,Description,0,12563,"These brutish cave dwellers live communally and some have a basic grasp of magic. Intensely protective of their kin, they are generally reluctant to trust outsiders. A Smasher is the leader of a tribe of Mountain Giants.","이 잔인한 동굴 거주자는 공동생활을 하며 몇몇은 마법을 기본적으로 이해합니다. 친족을 극심하게 보호하고, 일반적으로 외지인을 믿지 않습니다."
 id_giantmb001,utc,FirstName,0,12564,Smasher,
-id_giantmb002,utc,Description,0,12523,"Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night. Their two heads make them exceptionally sharp-eyed and alert. A Basher is an older, more powerful ettin.",
+id_giantmb002,utc,Description,0,12523,"Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night. Their two heads make them exceptionally sharp-eyed and alert. A Basher is an older, more powerful ettin.","두 개의 머리를 가진 거인인 에틴은 사악하고 예측이 불가능한 사냥꾼이자 한밤의 추적자입니다. 두 개의 머리 덕택에 특출나게 날카로운 눈을 가졌으며, 빈틈없는 경계를 펼칩니다."
 id_giantmb002,utc,FirstName,0,12524,Basher,
-id_giantmb003,utc,Description,0,12559,"Frost giants are justifiably feared as brutal and wantonly destructive raiders. They have the appearance of oversized, muscular humans with snow-white or ivory skin. A Warden is a powerful guardian of a frost giant tribe.",
+id_giantmb003,utc,Description,0,12559,"Frost giants are justifiably feared as brutal and wantonly destructive raiders. They have the appearance of oversized, muscular humans with snow-white or ivory skin. A Warden is a powerful guardian of a frost giant tribe.",서리 거인은 잔혹하고 제멋데로 파괴하는 침략자이기 때문에 두려움의 대상입니다. 이들은 눈처럼 희거나 상아색 피부를 가진 거대하고 근육질 인간의 외형을 가지고 있습니다.
 id_giantmb003,utc,FirstName,0,12560,Warden,
-id_giantmb005,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak. Widowguards are the elite warriors of the ogres.",
+id_giantmb005,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak. Widowguards are the elite warriors of the ogres.","오우거는 약탈과 쓰레기를 뒤지며 살아가는 못생기고 탐욕스러운 생명체 입니다. 이들은 거인, 트롤과 자유롭게 어울리며, 약한 사람들을 먹이감으로 삼기 위해 뭉칩니다."
 id_giantmb005,utc,FirstName,0,12666,Widowgaurd,
 id_gnoll002,utc,FirstName,0,3097,Gnoll Cleric,
 id_gnoll007,utc,FirstName,0,3097,Gnoll Ranger,
@@ -339,7 +339,7 @@ id_gntfire002,utc,FirstName,0,12558,Fire Giant Cleric,
 id_gntfire004,utc,FirstName,0,12558,Fire Giant Fighter,
 id_gntfrost002,utc,FirstName,0,12560,Frost Giant Cleric,
 id_gntfrost004,utc,FirstName,0,12560,Frost Giant Fighter,
-id_gntmount,utc,FirstName,0,12564,Mountain Giant,
+id_gntmount,utc,FirstName,0,12564,Mountain Giant,산 거인
 id_goblin002,utc,FirstName,0,12567,Goblin Cleric,
 id_goblin008,utc,FirstName,0,12567,Goblin Rogue,
 id_goblin010,utc,FirstName,0,12567,Goblin Wizard,
@@ -348,20 +348,20 @@ id_goladam,utc,Description,0,-1,Weapons and armor made from adamantium are far t
 id_goladam,utc,FirstName,0,-1,Adamantium Golem,
 id_golbone,utc,Description,0,-1,"Created by demented wizards, Bone Golems are generally used to guard prized possessions. Their bodies are pieced together from various creatures, both humanoid and monster.",
 id_golbone,utc,FirstName,0,-1,Bone Golem,
-id_golclay,utc,FirstName,0,12572,Clay Golem,
+id_golclay,utc,FirstName,0,12572,Clay Golem,진흙 골렘
 id_golclayhg,utc,FirstName,0,12572,Huge Clay Golem,
 id_goldemon,utc,Description,0,-1,"The first known creation of this type was by a powerful devil, Maligothez, who stripped the flesh from an enemy demon, Llargash. Maligothez bound his rival's flesh to the bones of a troll and then animated them, creating a powerful construct of pure malevolence. Although Maligothez was eventually destroyed by rival devils, his creation survived his death and killed most of its master's attackers with a ferocity that impressed all devil-kin. The creation of other, similar constructs has become something akin to a sport on certain levels of hell. ",
 id_goldemon,utc,FirstName,0,-1,Demonflesh Golem,
-id_golflesh,utc,FirstName,0,12574,Flesh Golem,
+id_golflesh,utc,FirstName,0,12574,Flesh Golem,살덩이 골렘
 id_golironhg,utc,FirstName,0,12576,Huge Iron Golem,
 id_golmith,utc,Description,0,-1,"A mithril golem is capable of quick and lethal action, making it one of the most powerful of golems.",
 id_golmith,utc,FirstName,0,-1,Mithril Golem,
 id_golstonehg,utc,FirstName,0,12578,Huge Stone Golem,
-id_grayrend,utc,FirstName,0,12579,Gray Render,
-id_grig,utc,FirstName,0,12581,Grig,
+id_grayrend,utc,FirstName,0,12579,Gray Render,잿빛 파쇄자
+id_grig,utc,FirstName,0,12581,Grig,그릭
 id_grmummy,utc,FirstName,0,12656,Greater Mummy,
-id_gzrbhldr,utc,FirstName,0,3058,Beholder,
-id_gzreyeball,utc,FirstName,0,3058,Beholder,
+id_gzrbhldr,utc,FirstName,0,3058,Beholder,주시자
+id_gzreyeball,utc,FirstName,0,3058,Beholder,주시자
 id_halfcelest002,utc,Description,0,-1,"Although extremely rare, half-celestial humanoids have an otherworldly power and often have features of their angelic progenitors.",
 id_halfcelest002,utc,FirstName,0,-1,Half-Celestial Cleric,
 id_halfcelest004,utc,Description,0,-1,"Although extremely rare, half-celestial humanoids have an otherworldly power and often have features of their angelic progenitors.",
@@ -412,7 +412,7 @@ id_halforc009,utc,Description,0,-1,This is a half-orc.,
 id_halforc009,utc,FirstName,0,-1,Half-Orc Sorcerer,
 id_haratminion,utc,Description,0,-1,"Unlike other devils, erinyes appear attractive to humans, resembling very comely women except for their huge feathery wings and sinister eyes.",
 id_haratminion,utc,FirstName,0,-1,Erinyes,
-id_harpy,utc,FirstName,0,3076,Harpy,
+id_harpy,utc,FirstName,0,3076,Harpy,하피
 id_helmedhor,utc,Description,0,-1,"Helmed Horrors are suits of empty armor imbued with magical life and purpose. They make tireless and extremely effective guardians, soldiers, and bounty hunters.",
 id_helmedhor,utc,FirstName,0,-1,Helmed Horror,
 id_hgskeleton,utc,FirstName,0,12701,Huge Skeleton,
@@ -432,18 +432,18 @@ id_human008,utc,Description,0,-1,This is a human.,
 id_human008,utc,FirstName,0,-1,Human Rogue,
 id_human010,utc,Description,0,-1,This is a human.,
 id_human010,utc,FirstName,0,-1,Human Wizard,
-id_humanoidmb001,utc,Description,0,12673,"Orcs are aggressive humanoids that raid, pillage, and battle other creatures. They have a hatred of elves and dwarves that goes back many generations. The Mud Tribe elders are the rulers over a large number of orcs.",
+id_humanoidmb001,utc,Description,0,12673,"Orcs are aggressive humanoids that raid, pillage, and battle other creatures. They have a hatred of elves and dwarves that goes back many generations. The Mud Tribe elders are the rulers over a large number of orcs.","오크는 다른 생명체들을 습격하고, 약탈하고, 싸우는 공격적인 인간형 생명체입니다. 그들은 엘프와 드워프에 대해 몇 세대에 걸친 증오심을 가지고 있습니다."
 id_humanoidmb001,utc,FirstName,0,12674,Mud Tribe Elder,
-id_humanoidmb002,utc,Description,0,12565,"While Goblins are often considered little more than a nuisance, an unchecked population can often balloon into a serious threat to normally civilized areas. The Elders of the Rat Tribe are skilled and cunning warriors, easily dominating their goblin cousins.",
+id_humanoidmb002,utc,Description,0,12565,"While Goblins are often considered little more than a nuisance, an unchecked population can often balloon into a serious threat to normally civilized areas. The Elders of the Rat Tribe are skilled and cunning warriors, easily dominating their goblin cousins.","고블린은 보통 성가신 존재에 불과하지만, 인구를 억제하지 않으면 종종 부풀어 올라 문명화된 지역에 심각한 위협이 될 수 있습니다."
 id_humanoidmb002,utc,FirstName,0,12567,Rat Tribe Elder,
-id_humanoidmb003,utc,Description,0,3098,"Gnolls are every bit like the hyena they resemble; Cruel and vicious. Dog Tribe Elders are the most cruel and vicious, using the nastiest tricks to keep their kin in line.",
+id_humanoidmb003,utc,Description,0,3098,"Gnolls are every bit like the hyena they resemble; Cruel and vicious. Dog Tribe Elders are the most cruel and vicious, using the nastiest tricks to keep their kin in line.",놀은 그들과 모습이 닮은 하이에나와 매우 흡사하게 잔인하고 악랄합니다.
 id_humanoidmb003,utc,FirstName,0,3097,Dog Tribe Elder,
-id_humanoidmb004,utc,Description,0,110640,"Troglodytes are cave-dwelling reptilian humanoids who take pleasure in fighting battles and in eating the bodies of their dead foes. While not very bright, trogs are known for their ferocity, cunning, and horrific stench. The Rib Tribe Elders are known for their ferocity and cunning in battle.",
+id_humanoidmb004,utc,Description,0,110640,"Troglodytes are cave-dwelling reptilian humanoids who take pleasure in fighting battles and in eating the bodies of their dead foes. While not very bright, trogs are known for their ferocity, cunning, and horrific stench. The Rib Tribe Elders are known for their ferocity and cunning in battle.","동굴인은 동굴에 사는 인간형 파충류 생명체로써 전투를 즐기고 죽은 적의 시체를 먹는 것을 즐깁니다. 똑똑하지는 않지만, 흉포함과 교활함 그리고 끔찍한 악취로 유명합니다."
 id_humanoidmb004,utc,FirstName,0,110636,Rib Tribe Elder,
-id_humanoidmb005,utc,Description,0,12410,"The biggest and strongest of the goblinoids, Bugbears receive their name from their bear-like noses, strong upper body, and keen sense of smell. A Bone Tribe Elder is an elite guard of the bugbears.",
+id_humanoidmb005,utc,Description,0,12410,"The biggest and strongest of the goblinoids, Bugbears receive their name from their bear-like noses, strong upper body, and keen sense of smell. A Bone Tribe Elder is an elite guard of the bugbears.","고블린형 생명체 중 가장 크고 힘이 센 버그베어는 곰처럼 생긴 코와 튼튼한 상체, 예민한 후각에서 이름을 따왔습니다."
 id_humanoidmb005,utc,FirstName,0,12411,Bone Tribe Elder,
 id_immbeholder,utc,FirstName,0,3058,Immature Beholder,
-id_imp,utc,FirstName,0,5999,Imp,
+id_imp,utc,FirstName,0,5999,Imp,임프
 id_insectmb001,utc,Description,0,12402,Hive Workers seem organized and efficient. Their ability to hurl balls of acid across a distance also makes them potent defenders.,
 id_insectmb001,utc,FirstName,0,12403,Hive Worker,
 id_insectmb002,utc,Description,0,12723,"With their chitinous, seemingly metallic shell, Hive Warriors are hard to kill. More dangerous, however, are the sharpened, blade-like appendages that they wield in defense of their territory.",
@@ -454,48 +454,48 @@ id_insectmb004,utc,Description,0,12402,Hive defenders are able to lob balls of d
 id_insectmb004,utc,FirstName,0,12403,Hive Defender,
 id_insectmb005,utc,Description,0,12717,"Consorts to the Hive Mother, these creatures have two jobs: to fertilize the eggs and to defend the Hive Mother.",
 id_insectmb005,utc,FirstName,0,56576,Hive Breeder,
-id_invstalk,utc,FirstName,0,12621,Invisible Stalker,
-id_jaguar,utc,FirstName,0,12623,Jaguar,
+id_invstalk,utc,FirstName,0,12621,Invisible Stalker,투명 추적자
+id_jaguar,utc,FirstName,0,12623,Jaguar,재규어
 id_kobold002,utc,FirstName,0,2924,Kobold Cleric,
 id_kobold008,utc,FirstName,0,2924,Kobold Rogue,
 id_kobold009,utc,FirstName,0,2924,Kobold Sorcerer,
 id_kobold012,utc,FirstName,0,2924,Kobold Fighter,
-id_krenshar,utc,FirstName,0,12625,Krenshar,
-id_leopard,utc,FirstName,0,12414,Leopard,
+id_krenshar,utc,FirstName,0,12625,Krenshar,크렌샤
+id_leopard,utc,FirstName,0,12414,Leopard,표범
 id_lgmohrg,utc,FirstName,0,12651,Large Mohrg,
 id_lgmummy,utc,FirstName,0,12656,Large Mummy,
 id_lgskeldevour,utc,Description,0,-1,"Returned to vigor by evil sorcerers, these undead Intellect Devourers are more resilient and have greater mental acuity than their still-living brethren.",
 id_lgskeldevour,utc,FirstName,0,-1,Large Skeletal Devourer,
 id_lgskeleton,utc,FirstName,0,12701,Large Skeleton,
 id_lgzombie,utc,FirstName,0,12827,Large Zombie,
-id_lich,utc,FirstName,0,12629,Lich,
-id_lion,utc,FirstName,0,12632,Lion,
+id_lich,utc,FirstName,0,12629,Lich,리치
+id_lion,utc,FirstName,0,12632,Lion,사자
 id_lionsml,utc,FirstName,0,12632,Small Lion,
 id_liontny,utc,FirstName,0,12632,Cat,
 id_lizardfolk003,utc,FirstName,0,12671,Lizardfolk Druid,
 id_lizardfolk007,utc,FirstName,0,12671,Lizardfolk Ranger,
 id_lizardfolk015,utc,FirstName,0,12671,Lizardfolk Rogue,
-id_lizardmb001,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Meelok Hierophants are the elite warrior kings of certain lizardfolk tribes.",
+id_lizardmb001,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Meelok Hierophants are the elite warrior kings of certain lizardfolk tribes.","원시적이고 야만적인 이 파충류 인간형 생명체를 도발한다면 매우 위험할 수 있습니다. 이들은 사나울 정도로 영역 지향적이며, 서식하는 습지대를 보호하기 위해 무리를 짓습니다."
 id_lizardmb001,utc,FirstName,0,12671,Meelok Hierophant,
-id_lizardmb002,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Garlok Hierophants are the female leaders of certain tribes of lizardfolk.",
+id_lizardmb002,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Garlok Hierophants are the female leaders of certain tribes of lizardfolk.","원시적이고 야만적인 이 파충류 인간형 생명체를 도발한다면 매우 위험할 수 있습니다. 이들은 사나울 정도로 영역 지향적이며, 서식하는 습지대를 보호하기 위해 무리를 짓습니다."
 id_lizardmb002,utc,FirstName,0,12671,Garlok Hierophant,
-id_lizardmb003,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Sleeblok Hierophants are the ferocious chieftains of certain lizardfolk tribes.",
+id_lizardmb003,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Sleeblok Hierophants are the ferocious chieftains of certain lizardfolk tribes.","원시적이고 야만적인 이 파충류 인간형 생명체를 도발한다면 매우 위험할 수 있습니다. 이들은 사나울 정도로 영역 지향적이며, 서식하는 습지대를 보호하기 위해 무리를 짓습니다."
 id_lizardmb003,utc,FirstName,0,12671,Sleeblok Hierophant,
-id_lizardmb004,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Bzurglok Hierophant are the rulers of certain tribes of lizardfolk.",
+id_lizardmb004,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Bzurglok Hierophant are the rulers of certain tribes of lizardfolk.","원시적이고 야만적인 이 파충류 인간형 생명체를 도발한다면 매우 위험할 수 있습니다. 이들은 사나울 정도로 영역 지향적이며, 서식하는 습지대를 보호하기 위해 무리를 짓습니다."
 id_lizardmb004,utc,FirstName,0,12671,Bzurglok Hierophant,
-id_lizardmb005,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Zthissqlok Hierophants are the deadliest of the lizardfolk assassins.",
+id_lizardmb005,utc,Description,0,12667,"Primitive and savage, these reptilian humanoids can be very dangerous if provoked. They are fiercely territorial, banding together to protect the swamplands they inhabit. Zthissqlok Hierophants are the deadliest of the lizardfolk assassins.","원시적이고 야만적인 이 파충류 인간형 생명체를 도발한다면 매우 위험할 수 있습니다. 이들은 사나울 정도로 영역 지향적이며, 서식하는 습지대를 보호하기 위해 무리를 짓습니다."
 id_lizardmb005,utc,FirstName,0,12671,Zthissqlok Hierophant,
-id_lycanmb001,utc,Description,0,12807,"In their hybrid form, Wererats are secretive and untrustworthy. They make excellent thieves and spies, however -- if you're willing to risk being double-crossed. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.",
+id_lycanmb001,utc,Description,0,12807,"In their hybrid form, Wererats are secretive and untrustworthy. They make excellent thieves and spies, however -- if you're willing to risk being double-crossed. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.","혼합된 형상을 가진, 시궁쥐인간은 비밀스럽고 믿을 수 없습니다. 하지만 그들은 훌륭한 도둑과 첩자일 수 있습니다. 만약 당신이 이중첩자에 대한 위험을 감수한다면 말이죠."
 id_lycanmb001,utc,FirstName,0,12808,Baron,
-id_lycanmb002,utc,Description,0,12805,"In their hybrid form, Werecats are selfish and manipulative. They have been known to toy with and enslave their prey, often driving them to madness. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.",
+id_lycanmb002,utc,Description,0,12805,"In their hybrid form, Werecats are selfish and manipulative. They have been known to toy with and enslave their prey, often driving them to madness. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.","혼합된 형상을 가진, 고양이인간은 이기적이고 교활합니다. 이들은 먹잇감을 가지고 장난치고 노예로 삼는 것으로 알려져 있으며, 종종 자신을 광기로 몰아넣습니다."
 id_lycanmb002,utc,FirstName,0,12806,Contessa,
-id_lycanmb003,utc,Description,0,12809,"The most common of the lycanthropes, Werewolves are also the most complex, socially. While some lead solitary existences, others form complicated ritual-bound societies. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.",
+id_lycanmb003,utc,Description,0,12809,"The most common of the lycanthropes, Werewolves are also the most complex, socially. While some lead solitary existences, others form complicated ritual-bound societies. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.","가장 흔한 야수인간인 늑대인간은 사회적인 면에서 가장 복잡합니다. 어떤 이들은 고독한 삶을 영위하지만, 어떤 이들은 복잡한 의식에 얽매인 사회를 형성합니다."
 id_lycanmb003,utc,FirstName,0,12810,Earl,
-id_lycanmb004,utc,Description,0,12807,"In their hybrid form, Wererats are secretive and untrustworthy. They make excellent thieves and spies, however -- if you're willing to risk being double-crossed. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.",
+id_lycanmb004,utc,Description,0,12807,"In their hybrid form, Wererats are secretive and untrustworthy. They make excellent thieves and spies, however -- if you're willing to risk being double-crossed. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.","혼합된 형상을 가진, 시궁쥐인간은 비밀스럽고 믿을 수 없습니다. 하지만 그들은 훌륭한 도둑과 첩자일 수 있습니다. 만약 당신이 이중첩자에 대한 위험을 감수한다면 말이죠."
 id_lycanmb004,utc,FirstName,0,12808,Marquis,
-id_lycanmb005,utc,Description,0,12809,"The most common of the lycanthropes, Werewolves are also the most complex, socially. While some lead solitary existences, others form complicated ritual-bound societies. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.",
+id_lycanmb005,utc,Description,0,12809,"The most common of the lycanthropes, Werewolves are also the most complex, socially. While some lead solitary existences, others form complicated ritual-bound societies. The Nobles - including Barons, Contessas, Duchesses, Earls and Marquis - are a group of shapechangers who have set themselves up as a council of rulers over all lycanthropes.","가장 흔한 야수인간인 늑대인간은 사회적인 면에서 가장 복잡합니다. 어떤 이들은 고독한 삶을 영위하지만, 어떤 이들은 복잡한 의식에 얽매인 사회를 형성합니다."
 id_lycanmb005,utc,FirstName,0,12810,Duchess,
-id_magicmb001,utc,Description,0,12573,"While not true undead, these ghoulish constructs are crafted from collections of stolen human body parts, stitched together into single composite form. A Forgotten Servant is an even more powerful version of this type of golem.",
+id_magicmb001,utc,Description,0,12573,"While not true undead, these ghoulish constructs are crafted from collections of stolen human body parts, stitched together into single composite form. A Forgotten Servant is an even more powerful version of this type of golem.","사실 언데드는 아니지만, 이 구울 같은 구조물은 인간의 신체 부위를 훔쳐 모아 하나의 형태로 엮어 만든 합성물입니다."
 id_magicmb001,utc,FirstName,0,12574,Forgotten Servant,
 id_magicmb002,utc,FirstName,0,12531,Accursed Servant,
 id_magicmb003,utc,Description,0,-1,Master mages use Enchanted Servants as guardians of their realms.,
@@ -503,10 +503,10 @@ id_magicmb003,utc,FirstName,0,-1,Enchanted Servant,
 id_magicmb004,utc,Description,0,-1,Weapons and armor made from adamantium are far tougher than their steel brethren. Take the toughness of a steel golem and multiply that by a factor of all that is unholy and you get the rough idea of what you face here. A Favored Servant is an even more powerful version of this type of golem.,
 id_magicmb004,utc,FirstName,0,-1,Favored Servant,
 id_magicmb005,utc,FirstName,0,12800,Beloved Servant,
-id_medusa,utc,FirstName,0,2854,Medusa,
-id_mepearth,utc,FirstName,0,12638,Earth Mephit,
-id_mepsalt,utc,FirstName,0,12641,Salt Mephit,
-id_mepsteam,utc,FirstName,0,12642,Steam Mephit,
+id_medusa,utc,FirstName,0,2854,Medusa,메두사
+id_mepearth,utc,FirstName,0,12638,Earth Mephit,대지 메피트
+id_mepsalt,utc,FirstName,0,12641,Salt Mephit,소금 메피트
+id_mepsteam,utc,FirstName,0,12642,Steam Mephit,증기 메피트
 id_mindflayer002,utc,FirstName,0,90403,Mind Flayer Cleric,
 id_mindflayer004,utc,FirstName,0,90403,Mind Flayer Fighter,
 id_mindflayer008,utc,FirstName,0,90403,Mind Flayer Rogue,
@@ -516,13 +516,13 @@ id_minogon,utc,FirstName,0,-1,Minogon,
 id_miscmb001,utc,FirstName,0,12648,Minotaur Shaman,
 id_miscmb002,utc,Description,0,53073,"At the same time both savage and maternal, the Primordial Render is a deadly predator that often protects weaker creatures within its habitat. It is far more powerful than the more common Grey Renders.",
 id_miscmb002,utc,FirstName,0,12579,Primordial Render,
-id_miscmb003,utc,Description,0,40615,"A manticore is a monster in every sense of the word.  It has the head of a vaguely humanoid beast, the body of a lion and the wings of a dragon.  The creature's back is set with curved barbs, and its long tail ends in a cluster of vicious spikes, which it can hurl to deadly effect. A Paragon is simply a larger, deadlier manticore.",
+id_miscmb003,utc,Description,0,40615,"A manticore is a monster in every sense of the word.  It has the head of a vaguely humanoid beast, the body of a lion and the wings of a dragon.  The creature's back is set with curved barbs, and its long tail ends in a cluster of vicious spikes, which it can hurl to deadly effect. A Paragon is simply a larger, deadlier manticore.","만티코어는 그야말로 괴물입니다. 어렴풋이 인간을 닮은 짐승의 머리, 사자의 몸통, 용의 날개를 지녔습니다. 등에는 휜 가시가 돋아 있고, 긴 꼬리 끝에는 날카로운 가시 다발이 달려 있어 적에게 던질 수 있습니다."
 id_miscmb003,utc,FirstName,0,2865,Manticore Paragon,
 id_miscmb004,utc,FirstName,0,2854,Imperial Medusa,
 id_miscmb005,utc,FirstName,0,110534,Elder Sea Hag,
-id_nixie,utc,FirstName,0,12658,Nixie,
-id_nymph,utc,FirstName,0,12662,Nymph,
-id_ogremage,utc,FirstName,0,12666,Ogre Mage,
+id_nixie,utc,FirstName,0,12658,Nixie,닉시
+id_nymph,utc,FirstName,0,12662,Nymph,님프
+id_ogremage,utc,FirstName,0,12666,Ogre Mage,오우거 마법사
 id_olddrgblack,utc,FirstName,0,12461,Old Black Dragon,
 id_olddrgbrass,utc,Description,0,-1,"Brass Dragons are talkative gossipmongers. They may have useful information, but usually share it only after long rambling and hinting for a gift.",
 id_olddrgbrass,utc,FirstName,0,-1,Old Brass Dragon,
@@ -537,45 +537,45 @@ id_olddrgpris001,utc,Description,0,-1,"Prismatic dragons are flamboyant, persona
 id_olddrgpris001,utc,FirstName,0,-1,Prismatic Great Wyrm,
 id_olddrgprismat,utc,Description,0,-1,"Prismatic dragons are flamboyant, personable and charming. They avoid confrontation, fighting only if attacked",
 id_olddrgprismat,utc,FirstName,0,-1,Old Prismatic Dragon,
-id_olddrgred,utc,FirstName,0,12490,Old Red Dragon,
+id_olddrgred,utc,FirstName,0,12490,Old Red Dragon,원숙한 적룡
 id_olddrgsilver,utc,Description,0,-1,"Silver Dragons are regal and statuesque. They cheerfully assist good creatures in genuine need, often taking human or elven form to maintain their anonymity.",
 id_olddrgsilver,utc,FirstName,0,-1,Old Silver Dragon,
 id_orc000,utc,FirstName,0,12674,Orc Barbarian,
 id_orc002,utc,FirstName,0,12674,Orc Cleric,
 id_orc008,utc,FirstName,0,12674,Orc Rogue,
 id_orc010,utc,FirstName,0,12674,Orc Wizard,
-id_panther,utc,FirstName,0,5991,Panther,
+id_panther,utc,FirstName,0,5991,Panther,표범
 id_panthersml,utc,FirstName,0,5991,Small Panther,
 id_panthertny,utc,FirstName,0,5991,Cat,
-id_pixie,utc,FirstName,0,6005,Pixie,
+id_pixie,utc,FirstName,0,6005,Pixie,픽시
 id_pseudodrg,utc,Description,0,-1,"Pseudodragons resemble miniature red dragons, but are red-brown in color rather than deep red.  They have fine scales and sharp horns and teeth.  Their barbed, venomous tails are a favored weapon.",
 id_pseudodrg,utc,FirstName,0,-1,Pseudodragon,
-id_rat,utc,FirstName,0,3103,Rat,
-id_seahag,utc,FirstName,0,110534,Sea Hag,
-id_shadow,utc,FirstName,0,12689,Shadow,
-id_shguard,utc,FirstName,0,12693,Shield Guardian,
+id_rat,utc,FirstName,0,3103,Rat,쥐
+id_seahag,utc,FirstName,0,110534,Sea Hag,바다 할망구
+id_shadow,utc,FirstName,0,12689,Shadow,그림자
+id_shguard,utc,FirstName,0,12693,Shield Guardian,방패 수호자
 id_shguardhg,utc,FirstName,0,12693,Huge Shield Guardian,
-id_shmastif,utc,FirstName,0,12695,Shadow Mastiff,
+id_shmastif,utc,FirstName,0,12695,Shadow Mastiff,그림자 마스티프
 id_sickimp,utc,FirstName,0,5999,Sickly Imp,
 id_skeldevour,utc,Description,0,-1,"Returned to vigor by evil sorcerers, these undead Intellect Devourers are more resilient and have greater mental acuity than their still-living brethren.",
 id_skeldevour,utc,FirstName,0,-1,Skeletal Devourer,
-id_skeleton,utc,FirstName,0,12701,Skeleton,
-id_skeleton_comm,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. This skeleton has been granted the spark of intelligence in order to command others of its kind.",
+id_skeleton,utc,FirstName,0,12701,Skeleton,해골
+id_skeleton_comm,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. This skeleton has been granted the spark of intelligence in order to command others of its kind.","죽은 이의 뼈를 어둠의 마법으로 되살려낸, 해골은 마음을 가지고 있지 않습니다. 단지 주인의 의지에 따를 뿐입니다."
 id_skeleton_comm,utc,FirstName,0,12701,Skeleton Commander,
 id_skeletonsml,utc,FirstName,0,12701,Small Skeleton,
 id_skeletonsmtny,utc,FirstName,0,12701,Tiny Skeleton,
-id_slaadblack,utc,FirstName,0,90430,Black Slaad,
-id_slaaddeath,utc,FirstName,0,12708,Death Slaad,
-id_slaadred,utc,FirstName,0,12714,Red Slaad,
-id_slaadwhite,utc,FirstName,0,90431,White Slaad,
-id_spectre,utc,FirstName,0,12716,Spectre,
-id_spiddire_m,utc,FirstName,0,12718,Dire Spider,
-id_spidgiant,utc,FirstName,0,12720,Giant Spider,
-id_spidgiant_m,utc,FirstName,0,12720,Giant Spider,
-id_spidphase,utc,FirstName,0,12722,Phase Spider,
-id_spidswrd,utc,FirstName,0,12724,Sword Spider,
-id_spidswrd_m,utc,FirstName,0,12724,Sword Spider,
-id_stirge,utc,FirstName,0,12727,Stirge,
+id_slaadblack,utc,FirstName,0,90430,Black Slaad,흑색 슬라드
+id_slaaddeath,utc,FirstName,0,12708,Death Slaad,죽음의 슬라드
+id_slaadred,utc,FirstName,0,12714,Red Slaad,붉은 슬라드
+id_slaadwhite,utc,FirstName,0,90431,White Slaad,화이트 슬라드
+id_spectre,utc,FirstName,0,12716,Spectre,악령
+id_spiddire_m,utc,FirstName,0,12718,Dire Spider,흉포한 거미
+id_spidgiant,utc,FirstName,0,12720,Giant Spider,거대 거미
+id_spidgiant_m,utc,FirstName,0,12720,Giant Spider,거대 거미
+id_spidphase,utc,FirstName,0,12722,Phase Spider,위상 거미
+id_spidswrd,utc,FirstName,0,12724,Sword Spider,칼날 거미
+id_spidswrd_m,utc,FirstName,0,12724,Sword Spider,칼날 거미
+id_stirge,utc,FirstName,0,12727,Stirge,스터지
 id_tiefling002,utc,FirstName,0,12784,Tiefling Cleric,
 id_tiefling004,utc,FirstName,0,12784,Tiefling Fighter,
 id_tiefling008,utc,FirstName,0,12784,Tiefling Rogue,
@@ -584,8 +584,8 @@ id_tigerlegend,utc,FirstName,0,12448,Legendary Tiger,
 id_troglodyte000,utc,FirstName,0,110636,Troglodyte Barbarian,
 id_troglodyte002,utc,FirstName,0,110636,Troglodyte Cleric,
 id_troglodyte008,utc,FirstName,0,110636,Troglodyte Fighter,
-id_troll,utc,FirstName,0,12786,Troll,
-id_umberhulk,utc,FirstName,0,12790,Umber Hulk,
+id_troll,utc,FirstName,0,12786,Troll,트롤
+id_umberhulk,utc,FirstName,0,12790,Umber Hulk,움버 헐크
 id_undermb001,utc,Description,0,-1,A Consort is a high ranking drow female who follows Lolth.,
 id_undermb001,utc,FirstName,0,-1,Consort,
 id_undermb002,utc,Description,0,-1,A Mistress is a title for a drow female who teaches young female drow how to rule a household. ,
@@ -604,14 +604,14 @@ id_vamp008,utc,Description,0,-1,"Forever anchored to their coffins and the unhol
 id_vamp008,utc,FirstName,0,-1,Vampire Rogue,
 id_vamp010,utc,Description,0,-1,"Forever anchored to their coffins and the unholy earth of their graves, these nocturnal predators scheme constantly to fill the world with their foul progeny.",
 id_vamp010,utc,FirstName,0,-1,Vampire Wizard,
-id_watelder,utc,FirstName,0,12800,Elder Water Elemental,
-id_water,utc,FirstName,0,12802,Water Elemental,
-id_waterhuge,utc,FirstName,0,12804,Huge Water Elemental,
-id_werecat,utc,FirstName,0,12806,Werecat,
-id_wererat,utc,FirstName,0,12808,Wererat,
+id_watelder,utc,FirstName,0,12800,Elder Water Elemental,물의 원소 정령 장로
+id_water,utc,FirstName,0,12802,Water Elemental,물의 원소 정령
+id_waterhuge,utc,FirstName,0,12804,Huge Water Elemental,거대한 물의 원소 정령
+id_werecat,utc,FirstName,0,12806,Werecat,고양이인간
+id_wererat,utc,FirstName,0,12808,Wererat,늑대인간 쥐
 id_wererat_mangy,utc,FirstName,0,12808,Mangy Wererat,
-id_werewolf,utc,FirstName,0,12810,Werewolf,
-id_willowisp,utc,FirstName,0,12814,Will-O'-Wisp,
+id_werewolf,utc,FirstName,0,12810,Werewolf,늑대인간
+id_willowisp,utc,FirstName,0,12814,Will-O'-Wisp,도깨비불
 id_wlgdrgblack,utc,Description,0,-1,"Black dragons are evil-tempered, cunning and malevolent, characteristics that are reflected in their crafty, sinister faces.  Even at a young age, they are already dangerous.  The wyrmling's scales are thin, small, and glossy. ",
 id_wlgdrgblack,utc,FirstName,0,-1,Black Wyrmling,
 id_wlgdrgblue,utc,Description,0,-1,Wyrmling blue dragons have scales of iridescent azure and lack the large horn that grows on their snout as they age.  Their wings beat with quick energy and tend to hum and crackle faintly with built-up static electricity.,
@@ -632,14 +632,14 @@ id_wlgdrgsilver,utc,Description,0,-1,"Silver dragons are cheerful and good-natur
 id_wlgdrgsilver,utc,FirstName,0,-1,Silver Wyrmling,
 id_wlgdrgwhite,utc,Description,0,-1,"Among the smallest and least intelligent of dragonkind, most white dragons are simply animalistic predators, the young in particular.  The scales of a wyrmling white dragon glisten like mirrors, and it is marked by a crisp, faintly chemical odor.",
 id_wlgdrgwhite,utc,FirstName,0,-1,White Wyrmling,
-id_wolf,utc,FirstName,0,12816,Wolf,
+id_wolf,utc,FirstName,0,12816,Wolf,늑대
 id_wolflegend,utc,FirstName,0,10526,Legendary Wolf,
-id_wolfwint,utc,FirstName,0,12818,Winter Wolf,
-id_worg,utc,FirstName,0,12820,Worg,
-id_wraith,utc,FirstName,0,12822,Wraith,
+id_wolfwint,utc,FirstName,0,12818,Winter Wolf,겨울 늑대
+id_worg,utc,FirstName,0,12820,Worg,워그
+id_wraith,utc,FirstName,0,12822,Wraith,망령
 id_yaunti002,utc,FirstName,0,12823,Yuan-ti Cleric,
 id_yaunti007,utc,FirstName,0,12823,Yuan-ti Ranger,
 id_yaunti015,utc,FirstName,0,12823,Yuan-ti Rogue,
 intronarrative,utc,FirstName,0,-1,Narrator,
 neutralchunk,utc,FirstName,0,3058,Neutral Chunk,
-puz_imp,utc,FirstName,0,5999,Imp,
+puz_imp,utc,FirstName,0,5999,Imp,임프

@@ -1,122 +1,122 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
-gamemaster,dlg,EntryList/0/Text,0,-1,"There is currently a game in progress, but another player is needed. Would you like to join the game?",
-gamemaster,dlg,EntryList/1/Text,0,-1,"There is currently a game in progress, but the game has no players. Would you like to join the game?",
-gamemaster,dlg,EntryList/10/Text,0,-1,And so the game continues.,
-gamemaster,dlg,EntryList/11/Text,0,-1,And so the game begins.,
-gamemaster,dlg,EntryList/12/Text,0,-1,You have been assigned the Black side. Find another player to play against and have them speak to me.,
-gamemaster,dlg,EntryList/13/Text,0,-1,You have been assigned the White side. Find another player to play against and have them speak to me.,
-gamemaster,dlg,EntryList/14/Text,0,-1,Find another player to join your game. Unless you would like to play both sides just for fun. Would you like to do this?,
-gamemaster,dlg,EntryList/15/Text,0,-1,"The game is over, what would you like to do?",
-gamemaster,dlg,EntryList/2/Text,0,-1,What do you want?,
-gamemaster,dlg,EntryList/3/Text,0,-1,The game is now paused. The player that wishes to take your place should speak with me.,
-gamemaster,dlg,EntryList/4/Text,0,-1,You have forfeited. The game is now over.,
-gamemaster,dlg,EntryList/5/Text,0,-1,The sides have been assigned and the game has begun. Leave me alone.,
-gamemaster,dlg,EntryList/6/Text,0,-1,Would you like to play a game of chess?,
-gamemaster,dlg,EntryList/7/Text,0,-1,The Black side has been assigned to another player. Would you like to play the White side?,
-gamemaster,dlg,EntryList/8/Text,0,-1,The White side has been assigned to another player. Would you like to play the Black side?,
-gamemaster,dlg,EntryList/9/Text,0,-1,Which side would you like to be?,
-gamemaster,dlg,ReplyList/0/Text,0,-1,No.,
-gamemaster,dlg,ReplyList/1/Text,0,-1,Yes.,
-gamemaster,dlg,ReplyList/10/Text,0,-1,Yes.,
-gamemaster,dlg,ReplyList/11/Text,0,-1,"No, I decided not to play.",
-gamemaster,dlg,ReplyList/12/Text,0,-1,Yes.,
-gamemaster,dlg,ReplyList/13/Text,0,-1,"I'd like to play both sides, just for fun.",
-gamemaster,dlg,ReplyList/14/Text,0,-1,I'd like to play the Black side.,
-gamemaster,dlg,ReplyList/15/Text,0,-1,I'd like to play the White side.,
-gamemaster,dlg,ReplyList/16/Text,0,-1,"No, I'd like you to terminate this game.",
-gamemaster,dlg,ReplyList/17/Text,0,-1,"No, I'd rather not play with myself.",
-gamemaster,dlg,ReplyList/18/Text,0,-1,"Sure, why not.",
-gamemaster,dlg,ReplyList/19/Text,0,-1,Nothing at this time.,
-gamemaster,dlg,ReplyList/2/Text,0,-1,"No, I'd like you to terminate this game.",
-gamemaster,dlg,ReplyList/20/Text,0,-1,Clear the board and start a new game please.,
-gamemaster,dlg,ReplyList/21/Text,0,-1,Clear the board please.,
-gamemaster,dlg,ReplyList/3/Text,0,-1,No.,
-gamemaster,dlg,ReplyList/4/Text,0,-1,Yes.,
-gamemaster,dlg,ReplyList/5/Text,0,-1,"I'm leaving, but don't end the game so someone else can take my place.",
-gamemaster,dlg,ReplyList/6/Text,0,-1,"Please end the game, I forfeit.",
-gamemaster,dlg,ReplyList/7/Text,0,-1,No.,
-gamemaster,dlg,ReplyList/8/Text,0,-1,Yes.,
-gamemaster,dlg,ReplyList/9/Text,0,-1,"No, I decided not to play.",
-pieces,dlg,EntryList/0/Text,0,-1,Yes?,
-pieces,dlg,EntryList/1/Text,0,-1,Yes?,
-pieces,dlg,EntryList/10/Text,0,-1,"Leave me alone, I'm fighting.",
-pieces,dlg,EntryList/11/Text,0,-1,"Excuse me, do I know you?",
-pieces,dlg,EntryList/12/Text,0,-1,"The game been paused, one of the players has left. Someone should speak with the Gamemaster to take their place.",
-pieces,dlg,EntryList/13/Text,0,-1,The game is over. Talk to the Gamemaster to clear the board or restart the game.,
-pieces,dlg,EntryList/2/Text,0,-1,Yes?,
-pieces,dlg,EntryList/3/Text,0,-1,Yes?,
-pieces,dlg,EntryList/4/Text,0,-1,Yes?,
-pieces,dlg,EntryList/5/Text,0,-1,How many spaces?,
-pieces,dlg,EntryList/6/Text,0,-1,Yes?,
-pieces,dlg,EntryList/7/Text,0,-1,Promote me to what?,
-pieces,dlg,EntryList/8/Text,0,-1,It's the other side's turn.,
-pieces,dlg,EntryList/9/Text,0,-1,"Leave me alone, I'm watching the fight.",
-pieces,dlg,ReplyList/0/Text,0,-1,Castle king-side,
-pieces,dlg,ReplyList/1/Text,0,-1,Castle queen-side,
-pieces,dlg,ReplyList/10/Text,0,-1,Take left (<CUSTOM103>),
-pieces,dlg,ReplyList/11/Text,0,-1,Move left (<CUSTOM103>),
-pieces,dlg,ReplyList/12/Text,0,-1,Take forward-right (<CUSTOM102>),
-pieces,dlg,ReplyList/13/Text,0,-1,Move forward-right (<CUSTOM102>),
-pieces,dlg,ReplyList/14/Text,0,-1,Take forward (<CUSTOM101>),
-pieces,dlg,ReplyList/15/Text,0,-1,Move forward (<CUSTOM101>),
-pieces,dlg,ReplyList/16/Text,0,-1,Take forward-left (<CUSTOM100>),
-pieces,dlg,ReplyList/17/Text,0,-1,Move forward-left (<CUSTOM100>),
-pieces,dlg,ReplyList/18/Text,0,-1,Move backward-right,
-pieces,dlg,ReplyList/19/Text,0,-1,Move backward-left,
-pieces,dlg,ReplyList/2/Text,0,-1,Take backward-right (<CUSTOM107>),
-pieces,dlg,ReplyList/20/Text,0,-1,Move forward-right,
-pieces,dlg,ReplyList/21/Text,0,-1,Move forward-left,
-pieces,dlg,ReplyList/22/Text,0,-1,"Take backward one, right two (<CUSTOM107>)",
-pieces,dlg,ReplyList/23/Text,0,-1,"Move backward one, right two (<CUSTOM107>)",
-pieces,dlg,ReplyList/24/Text,0,-1,"Take backward one, left two (<CUSTOM106>)",
-pieces,dlg,ReplyList/25/Text,0,-1,"Move backward one, left two (<CUSTOM106>)",
-pieces,dlg,ReplyList/26/Text,0,-1,"Take backward two, right one (<CUSTOM105>)",
-pieces,dlg,ReplyList/27/Text,0,-1,"Move backward two, right one (<CUSTOM105>)",
-pieces,dlg,ReplyList/28/Text,0,-1,"Take backward two, left one (<CUSTOM104>)",
-pieces,dlg,ReplyList/29/Text,0,-1,"Move backward two, left one (<CUSTOM104>)",
-pieces,dlg,ReplyList/3/Text,0,-1,Move backward-right (<CUSTOM107>),
-pieces,dlg,ReplyList/30/Text,0,-1,"Take forward one, right two (<CUSTOM103>)",
-pieces,dlg,ReplyList/31/Text,0,-1,"Move forward one, right two (<CUSTOM103>)",
-pieces,dlg,ReplyList/32/Text,0,-1,"Take forward one, left two (<CUSTOM102>)",
-pieces,dlg,ReplyList/33/Text,0,-1,"Move forward one, left two (<CUSTOM102>)",
-pieces,dlg,ReplyList/34/Text,0,-1,"Take forward two, right one (<CUSTOM101>)",
-pieces,dlg,ReplyList/35/Text,0,-1,"Move forward two, right one (<CUSTOM101>)",
-pieces,dlg,ReplyList/36/Text,0,-1,"Take forward two, left one (<CUSTOM100>)",
-pieces,dlg,ReplyList/37/Text,0,-1,"Move forward two, left one (<CUSTOM100>)",
-pieces,dlg,ReplyList/38/Text,0,-1,Castle!,
-pieces,dlg,ReplyList/39/Text,0,-1,Move right,
-pieces,dlg,ReplyList/4/Text,0,-1,Take backward (<CUSTOM106>),
-pieces,dlg,ReplyList/40/Text,0,-1,Move left,
-pieces,dlg,ReplyList/41/Text,0,-1,Move backward,
-pieces,dlg,ReplyList/42/Text,0,-1,Move forward,
-pieces,dlg,ReplyList/43/Text,0,-1,"Changed my mind, stay here.",
-pieces,dlg,ReplyList/44/Text,0,-1,Move 7 and take the piece there (<CUSTOM113>),
-pieces,dlg,ReplyList/45/Text,0,-1,Move 6 and take the piece there (<CUSTOM112>),
-pieces,dlg,ReplyList/46/Text,0,-1,Move 5 and take the piece there (<CUSTOM111>),
-pieces,dlg,ReplyList/47/Text,0,-1,Move 4 and take the piece there (<CUSTOM110>),
-pieces,dlg,ReplyList/48/Text,0,-1,Move 3 and take the piece there (<CUSTOM109>),
-pieces,dlg,ReplyList/49/Text,0,-1,Move 2 and take the piece there (<CUSTOM108>),
-pieces,dlg,ReplyList/5/Text,0,-1,Move backward (<CUSTOM106>),
-pieces,dlg,ReplyList/50/Text,0,-1,Move 1 and take the piece there (<CUSTOM107>),
-pieces,dlg,ReplyList/51/Text,0,-1,Move 7 (<CUSTOM106>),
-pieces,dlg,ReplyList/52/Text,0,-1,Move 6 (<CUSTOM105>),
-pieces,dlg,ReplyList/53/Text,0,-1,Move 5 (<CUSTOM104>),
-pieces,dlg,ReplyList/54/Text,0,-1,Move 4 (<CUSTOM103>),
-pieces,dlg,ReplyList/55/Text,0,-1,Move 3 (<CUSTOM102>),
-pieces,dlg,ReplyList/56/Text,0,-1,Move 2 (<CUSTOM101>),
-pieces,dlg,ReplyList/57/Text,0,-1,Move 1 (<CUSTOM100>),
-pieces,dlg,ReplyList/58/Text,0,-1,Stay here,
-pieces,dlg,ReplyList/59/Text,0,-1,"Move forward-right ""en passant"" (<CUSTOM103>)",
-pieces,dlg,ReplyList/6/Text,0,-1,Take backward-left (<CUSTOM105>),
-pieces,dlg,ReplyList/60/Text,0,-1,"Move forward-left ""en passant"" (<CUSTOM102>)",
-pieces,dlg,ReplyList/61/Text,0,-1,Take the piece forward-right of you (<CUSTOM103>),
-pieces,dlg,ReplyList/62/Text,0,-1,Take the piece forward-left of you (<CUSTOM102>),
-pieces,dlg,ReplyList/63/Text,0,-1,Move forward two (<CUSTOM101>),
-pieces,dlg,ReplyList/64/Text,0,-1,Move forward one (<CUSTOM100>),
-pieces,dlg,ReplyList/65/Text,0,-1,Queen,
-pieces,dlg,ReplyList/66/Text,0,-1,Bishop,
-pieces,dlg,ReplyList/67/Text,0,-1,Knight,
-pieces,dlg,ReplyList/68/Text,0,-1,Rook,
-pieces,dlg,ReplyList/7/Text,0,-1,Move backward-left (<CUSTOM105>),
-pieces,dlg,ReplyList/8/Text,0,-1,Take right (<CUSTOM104>),
-pieces,dlg,ReplyList/9/Text,0,-1,Move right (<CUSTOM104>),
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+gamemaster,dlg,EntryList/0/Text,0,-1,"There is currently a game in progress, but another player is needed. Would you like to join the game?","현재 게임이 진행 중이지만 다른 플레이어가 필요합니다. 게임에 참가하시겠습니까?"
+gamemaster,dlg,EntryList/1/Text,0,-1,"There is currently a game in progress, but the game has no players. Would you like to join the game?","현재 게임이 진행 중이지만 플레이어가 없습니다. 게임에 참가하시겠습니까?"
+gamemaster,dlg,EntryList/10/Text,0,-1,And so the game continues.,게임을 계속합니다.
+gamemaster,dlg,EntryList/11/Text,0,-1,And so the game begins.,게임을 시작합니다.
+gamemaster,dlg,EntryList/12/Text,0,-1,You have been assigned the Black side. Find another player to play against and have them speak to me.,흑 진영이 배정되었습니다. 상대 플레이어를 찾아서 저에게 말을 걸게 하세요.
+gamemaster,dlg,EntryList/13/Text,0,-1,You have been assigned the White side. Find another player to play against and have them speak to me.,백 진영이 배정되었습니다. 상대 플레이어를 찾아서 저에게 말을 걸게 하세요.
+gamemaster,dlg,EntryList/14/Text,0,-1,"Find another player to join your game. Unless you would like to play both sides just for fun. Would you like to do this?","상대 플레이어를 찾아보세요. 아니면 재미삼아 혼자서 양쪽을 모두 플레이할 수도 있습니다. 그렇게 하시겠습니까?"
+gamemaster,dlg,EntryList/15/Text,0,-1,"The game is over, what would you like to do?","게임이 끝났습니다. 어떻게 하시겠습니까?"
+gamemaster,dlg,EntryList/2/Text,0,-1,What do you want?,무슨 용건입니까?
+gamemaster,dlg,EntryList/3/Text,0,-1,The game is now paused. The player that wishes to take your place should speak with me.,게임이 일시 중단되었습니다. 대신 플레이할 사람은 저에게 말을 걸면 됩니다.
+gamemaster,dlg,EntryList/4/Text,0,-1,You have forfeited. The game is now over.,기권하셨습니다. 게임이 끝났습니다.
+gamemaster,dlg,EntryList/5/Text,0,-1,The sides have been assigned and the game has begun. Leave me alone.,진영이 배정되었고 게임이 시작되었습니다. 이만 가 주세요.
+gamemaster,dlg,EntryList/6/Text,0,-1,Would you like to play a game of chess?,체스 한 판 하시겠습니까?
+gamemaster,dlg,EntryList/7/Text,0,-1,The Black side has been assigned to another player. Would you like to play the White side?,흑 진영은 다른 플레이어에게 배정되었습니다. 백 진영을 맡으시겠습니까?
+gamemaster,dlg,EntryList/8/Text,0,-1,The White side has been assigned to another player. Would you like to play the Black side?,백 진영은 다른 플레이어에게 배정되었습니다. 흑 진영을 맡으시겠습니까?
+gamemaster,dlg,EntryList/9/Text,0,-1,Which side would you like to be?,어느 진영을 맡으시겠습니까?
+gamemaster,dlg,ReplyList/0/Text,0,-1,No.,아니요.
+gamemaster,dlg,ReplyList/1/Text,0,-1,Yes.,네.
+gamemaster,dlg,ReplyList/10/Text,0,-1,Yes.,네.
+gamemaster,dlg,ReplyList/11/Text,0,-1,"No, I decided not to play.","아니요, 안 하기로 했습니다."
+gamemaster,dlg,ReplyList/12/Text,0,-1,Yes.,네.
+gamemaster,dlg,ReplyList/13/Text,0,-1,"I'd like to play both sides, just for fun.","재미삼아 양쪽 다 플레이하겠습니다."
+gamemaster,dlg,ReplyList/14/Text,0,-1,I'd like to play the Black side.,흑 진영을 맡겠습니다.
+gamemaster,dlg,ReplyList/15/Text,0,-1,I'd like to play the White side.,백 진영을 맡겠습니다.
+gamemaster,dlg,ReplyList/16/Text,0,-1,"No, I'd like you to terminate this game.","아니요, 이 게임을 종료해 주세요."
+gamemaster,dlg,ReplyList/17/Text,0,-1,"No, I'd rather not play with myself.","아니요, 혼자 하긴 싫습니다."
+gamemaster,dlg,ReplyList/18/Text,0,-1,"Sure, why not.","네, 좋습니다."
+gamemaster,dlg,ReplyList/19/Text,0,-1,Nothing at this time.,지금은 없습니다.
+gamemaster,dlg,ReplyList/2/Text,0,-1,"No, I'd like you to terminate this game.","아니요, 이 게임을 종료해 주세요."
+gamemaster,dlg,ReplyList/20/Text,0,-1,Clear the board and start a new game please.,판을 치우고 새 게임을 시작해 주세요.
+gamemaster,dlg,ReplyList/21/Text,0,-1,Clear the board please.,판을 치워 주세요.
+gamemaster,dlg,ReplyList/3/Text,0,-1,No.,아니요.
+gamemaster,dlg,ReplyList/4/Text,0,-1,Yes.,네.
+gamemaster,dlg,ReplyList/5/Text,0,-1,"I'm leaving, but don't end the game so someone else can take my place.","자리를 비우지만, 다른 사람이 대신할 수 있도록 게임은 끝내지 마세요."
+gamemaster,dlg,ReplyList/6/Text,0,-1,"Please end the game, I forfeit.","게임을 끝내 주세요, 기권합니다."
+gamemaster,dlg,ReplyList/7/Text,0,-1,No.,아니요.
+gamemaster,dlg,ReplyList/8/Text,0,-1,Yes.,네.
+gamemaster,dlg,ReplyList/9/Text,0,-1,"No, I decided not to play.","아니요, 안 하기로 했습니다."
+pieces,dlg,EntryList/0/Text,0,-1,Yes?,네?
+pieces,dlg,EntryList/1/Text,0,-1,Yes?,네?
+pieces,dlg,EntryList/10/Text,0,-1,"Leave me alone, I'm fighting.","방해하지 마세요, 싸우는 중입니다."
+pieces,dlg,EntryList/11/Text,0,-1,"Excuse me, do I know you?","실례합니다만, 누구시죠?"
+pieces,dlg,EntryList/12/Text,0,-1,"The game been paused, one of the players has left. Someone should speak with the Gamemaster to take their place.","게임이 일시 중단되었습니다. 플레이어 한 명이 자리를 비웠습니다. 대신할 사람은 게임 마스터에게 말을 거세요."
+pieces,dlg,EntryList/13/Text,0,-1,The game is over. Talk to the Gamemaster to clear the board or restart the game.,게임이 끝났습니다. 판을 치우거나 재시작하려면 게임 마스터에게 말을 거세요.
+pieces,dlg,EntryList/2/Text,0,-1,Yes?,네?
+pieces,dlg,EntryList/3/Text,0,-1,Yes?,네?
+pieces,dlg,EntryList/4/Text,0,-1,Yes?,네?
+pieces,dlg,EntryList/5/Text,0,-1,How many spaces?,몇 칸 이동합니까?
+pieces,dlg,EntryList/6/Text,0,-1,Yes?,네?
+pieces,dlg,EntryList/7/Text,0,-1,Promote me to what?,어떤 말로 승진시키겠습니까?
+pieces,dlg,EntryList/8/Text,0,-1,It's the other side's turn.,상대 진영의 차례입니다.
+pieces,dlg,EntryList/9/Text,0,-1,"Leave me alone, I'm watching the fight.","방해하지 마세요, 싸움을 보는 중입니다."
+pieces,dlg,ReplyList/0/Text,0,-1,Castle king-side,킹 사이드 캐슬링
+pieces,dlg,ReplyList/1/Text,0,-1,Castle queen-side,퀸 사이드 캐슬링
+pieces,dlg,ReplyList/10/Text,0,-1,Take left (<CUSTOM103>),좌측 잡기 (<CUSTOM103>)
+pieces,dlg,ReplyList/11/Text,0,-1,Move left (<CUSTOM103>),좌측 이동 (<CUSTOM103>)
+pieces,dlg,ReplyList/12/Text,0,-1,Take forward-right (<CUSTOM102>),우전방 잡기 (<CUSTOM102>)
+pieces,dlg,ReplyList/13/Text,0,-1,Move forward-right (<CUSTOM102>),우전방 이동 (<CUSTOM102>)
+pieces,dlg,ReplyList/14/Text,0,-1,Take forward (<CUSTOM101>),전방 잡기 (<CUSTOM101>)
+pieces,dlg,ReplyList/15/Text,0,-1,Move forward (<CUSTOM101>),전방 이동 (<CUSTOM101>)
+pieces,dlg,ReplyList/16/Text,0,-1,Take forward-left (<CUSTOM100>),좌전방 잡기 (<CUSTOM100>)
+pieces,dlg,ReplyList/17/Text,0,-1,Move forward-left (<CUSTOM100>),좌전방 이동 (<CUSTOM100>)
+pieces,dlg,ReplyList/18/Text,0,-1,Move backward-right,우후방 이동
+pieces,dlg,ReplyList/19/Text,0,-1,Move backward-left,좌후방 이동
+pieces,dlg,ReplyList/2/Text,0,-1,Take backward-right (<CUSTOM107>),우후방 잡기 (<CUSTOM107>)
+pieces,dlg,ReplyList/20/Text,0,-1,Move forward-right,우전방 이동
+pieces,dlg,ReplyList/21/Text,0,-1,Move forward-left,좌전방 이동
+pieces,dlg,ReplyList/22/Text,0,-1,"Take backward one, right two (<CUSTOM107>)","후방 1, 우측 2 잡기 (<CUSTOM107>)"
+pieces,dlg,ReplyList/23/Text,0,-1,"Move backward one, right two (<CUSTOM107>)","후방 1, 우측 2 이동 (<CUSTOM107>)"
+pieces,dlg,ReplyList/24/Text,0,-1,"Take backward one, left two (<CUSTOM106>)","후방 1, 좌측 2 잡기 (<CUSTOM106>)"
+pieces,dlg,ReplyList/25/Text,0,-1,"Move backward one, left two (<CUSTOM106>)","후방 1, 좌측 2 이동 (<CUSTOM106>)"
+pieces,dlg,ReplyList/26/Text,0,-1,"Take backward two, right one (<CUSTOM105>)","후방 2, 우측 1 잡기 (<CUSTOM105>)"
+pieces,dlg,ReplyList/27/Text,0,-1,"Move backward two, right one (<CUSTOM105>)","후방 2, 우측 1 이동 (<CUSTOM105>)"
+pieces,dlg,ReplyList/28/Text,0,-1,"Take backward two, left one (<CUSTOM104>)","후방 2, 좌측 1 잡기 (<CUSTOM104>)"
+pieces,dlg,ReplyList/29/Text,0,-1,"Move backward two, left one (<CUSTOM104>)","후방 2, 좌측 1 이동 (<CUSTOM104>)"
+pieces,dlg,ReplyList/3/Text,0,-1,Move backward-right (<CUSTOM107>),우후방 이동 (<CUSTOM107>)
+pieces,dlg,ReplyList/30/Text,0,-1,"Take forward one, right two (<CUSTOM103>)","전방 1, 우측 2 잡기 (<CUSTOM103>)"
+pieces,dlg,ReplyList/31/Text,0,-1,"Move forward one, right two (<CUSTOM103>)","전방 1, 우측 2 이동 (<CUSTOM103>)"
+pieces,dlg,ReplyList/32/Text,0,-1,"Take forward one, left two (<CUSTOM102>)","전방 1, 좌측 2 잡기 (<CUSTOM102>)"
+pieces,dlg,ReplyList/33/Text,0,-1,"Move forward one, left two (<CUSTOM102>)","전방 1, 좌측 2 이동 (<CUSTOM102>)"
+pieces,dlg,ReplyList/34/Text,0,-1,"Take forward two, right one (<CUSTOM101>)","전방 2, 우측 1 잡기 (<CUSTOM101>)"
+pieces,dlg,ReplyList/35/Text,0,-1,"Move forward two, right one (<CUSTOM101>)","전방 2, 우측 1 이동 (<CUSTOM101>)"
+pieces,dlg,ReplyList/36/Text,0,-1,"Take forward two, left one (<CUSTOM100>)","전방 2, 좌측 1 잡기 (<CUSTOM100>)"
+pieces,dlg,ReplyList/37/Text,0,-1,"Move forward two, left one (<CUSTOM100>)","전방 2, 좌측 1 이동 (<CUSTOM100>)"
+pieces,dlg,ReplyList/38/Text,0,-1,Castle!,캐슬링!
+pieces,dlg,ReplyList/39/Text,0,-1,Move right,우측 이동
+pieces,dlg,ReplyList/4/Text,0,-1,Take backward (<CUSTOM106>),후방 잡기 (<CUSTOM106>)
+pieces,dlg,ReplyList/40/Text,0,-1,Move left,좌측 이동
+pieces,dlg,ReplyList/41/Text,0,-1,Move backward,후방 이동
+pieces,dlg,ReplyList/42/Text,0,-1,Move forward,전방 이동
+pieces,dlg,ReplyList/43/Text,0,-1,"Changed my mind, stay here.","마음이 바뀌었습니다, 여기 있겠습니다."
+pieces,dlg,ReplyList/44/Text,0,-1,Move 7 and take the piece there (<CUSTOM113>),7칸 이동 후 잡기 (<CUSTOM113>)
+pieces,dlg,ReplyList/45/Text,0,-1,Move 6 and take the piece there (<CUSTOM112>),6칸 이동 후 잡기 (<CUSTOM112>)
+pieces,dlg,ReplyList/46/Text,0,-1,Move 5 and take the piece there (<CUSTOM111>),5칸 이동 후 잡기 (<CUSTOM111>)
+pieces,dlg,ReplyList/47/Text,0,-1,Move 4 and take the piece there (<CUSTOM110>),4칸 이동 후 잡기 (<CUSTOM110>)
+pieces,dlg,ReplyList/48/Text,0,-1,Move 3 and take the piece there (<CUSTOM109>),3칸 이동 후 잡기 (<CUSTOM109>)
+pieces,dlg,ReplyList/49/Text,0,-1,Move 2 and take the piece there (<CUSTOM108>),2칸 이동 후 잡기 (<CUSTOM108>)
+pieces,dlg,ReplyList/5/Text,0,-1,Move backward (<CUSTOM106>),후방 이동 (<CUSTOM106>)
+pieces,dlg,ReplyList/50/Text,0,-1,Move 1 and take the piece there (<CUSTOM107>),1칸 이동 후 잡기 (<CUSTOM107>)
+pieces,dlg,ReplyList/51/Text,0,-1,Move 7 (<CUSTOM106>),7칸 이동 (<CUSTOM106>)
+pieces,dlg,ReplyList/52/Text,0,-1,Move 6 (<CUSTOM105>),6칸 이동 (<CUSTOM105>)
+pieces,dlg,ReplyList/53/Text,0,-1,Move 5 (<CUSTOM104>),5칸 이동 (<CUSTOM104>)
+pieces,dlg,ReplyList/54/Text,0,-1,Move 4 (<CUSTOM103>),4칸 이동 (<CUSTOM103>)
+pieces,dlg,ReplyList/55/Text,0,-1,Move 3 (<CUSTOM102>),3칸 이동 (<CUSTOM102>)
+pieces,dlg,ReplyList/56/Text,0,-1,Move 2 (<CUSTOM101>),2칸 이동 (<CUSTOM101>)
+pieces,dlg,ReplyList/57/Text,0,-1,Move 1 (<CUSTOM100>),1칸 이동 (<CUSTOM100>)
+pieces,dlg,ReplyList/58/Text,0,-1,Stay here,여기 있기
+pieces,dlg,ReplyList/59/Text,0,-1,"Move forward-right ""en passant"" (<CUSTOM103>)","우전방 앙파상 (<CUSTOM103>)"
+pieces,dlg,ReplyList/6/Text,0,-1,Take backward-left (<CUSTOM105>),좌후방 잡기 (<CUSTOM105>)
+pieces,dlg,ReplyList/60/Text,0,-1,"Move forward-left ""en passant"" (<CUSTOM102>)","좌전방 앙파상 (<CUSTOM102>)"
+pieces,dlg,ReplyList/61/Text,0,-1,Take the piece forward-right of you (<CUSTOM103>),우전방의 말 잡기 (<CUSTOM103>)
+pieces,dlg,ReplyList/62/Text,0,-1,Take the piece forward-left of you (<CUSTOM102>),좌전방의 말 잡기 (<CUSTOM102>)
+pieces,dlg,ReplyList/63/Text,0,-1,Move forward two (<CUSTOM101>),전방 2칸 이동 (<CUSTOM101>)
+pieces,dlg,ReplyList/64/Text,0,-1,Move forward one (<CUSTOM100>),전방 1칸 이동 (<CUSTOM100>)
+pieces,dlg,ReplyList/65/Text,0,-1,Queen,퀸
+pieces,dlg,ReplyList/66/Text,0,-1,Bishop,비숍
+pieces,dlg,ReplyList/67/Text,0,-1,Knight,나이트
+pieces,dlg,ReplyList/68/Text,0,-1,Rook,룩
+pieces,dlg,ReplyList/7/Text,0,-1,Move backward-left (<CUSTOM105>),좌후방 이동 (<CUSTOM105>)
+pieces,dlg,ReplyList/8/Text,0,-1,Take right (<CUSTOM104>),우측 잡기 (<CUSTOM104>)
+pieces,dlg,ReplyList/9/Text,0,-1,Move right (<CUSTOM104>),우측 이동 (<CUSTOM104>)

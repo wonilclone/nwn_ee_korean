@@ -1,4 +1,4 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 ac_easel,dlg,EntryList/0/Text,0,-1,This is a painting of Duke Greatshout in his younger days.,
 ac_easel,dlg,EntryList/1/Text,0,-1,This is the fake painting of Duke Greatshout that you exchanged for the real painting.,
 ac_easel,dlg,ReplyList/0/Text,0,-1,<StartAction>[Leave it alone.]</Start>,
@@ -3552,41 +3552,41 @@ at_purfbin,dlg,EntryList/33/Text,0,-1,"""Are you sure?"" Purfbin looks disappoin
 at_purfbin,dlg,EntryList/34/Text,0,-1,"Purfbin nods approvingly. ""Good idea.""",
 at_purfbin,dlg,EntryList/35/Text,0,-1,"""Fear not, fellow adventurer! I can find my own way home.""",
 at_purfbin,dlg,EntryList/36/Text,0,-1,"""Fine, but save some of the good loot for me too!""",
-at_purfbin,dlg,EntryList/37/Text,0,89906,"""Yes? What do you want me to do?""",
+at_purfbin,dlg,EntryList/37/Text,0,89906,"""Yes? What do you want me to do?""","""그래, 날 시켜서 뭘 하라고?"""
 at_purfbin,dlg,EntryList/38/Text,0,-1,"""Is there something else?""",
-at_purfbin,dlg,EntryList/39/Text,0,89907,"""Of course."" Purfbin eyes your pack closely and jokes, ""If you should happen to die in an unfortunate accident, I shall take very good care of your possessions.""",
+at_purfbin,dlg,EntryList/39/Text,0,89907,"""Of course."" Purfbin eyes your pack closely and jokes, ""If you should happen to die in an unfortunate accident, I shall take very good care of your possessions.""","""정말? 음... 그렇다면야..."""
 at_purfbin,dlg,EntryList/4/Text,0,-1,"""Mine is a lengthy, ponderous tale, and one which I've already related to countless occupants of this fine establishment. It seems sailors will proffer alcohol in exchange for a fine, ripping yarn.""",
-at_purfbin,dlg,EntryList/40/Text,0,89908,"Purfbin pats several of the many bulging pockets sewn into his robes. ""I might have a few wires and gizmos in here to help with even the most stubborn of traps.""",
-at_purfbin,dlg,EntryList/41/Text,0,89909,"""My Granda Retsotnert always used to say that running was the better part of bravery. And believe me, I've done my share of running!""",
-at_purfbin,dlg,EntryList/42/Text,0,89910,"""I will try not to make even the smallest of sounds.""",
-at_purfbin,dlg,EntryList/43/Text,0,89911,"""Then what do you have me around for?"" He shrugs. ""Suit yourself.""",
-at_purfbin,dlg,EntryList/44/Text,0,89912,"Purfbin pats several of the many bulging pockets sewn into his robes. ""I might have a few wires and gizmos in here to help with even the most stubborn of locks."" He smiles mischievously, ""Of course, after I open a chest, I might be tempted to remove a few of the more valuable items!""",
-at_purfbin,dlg,EntryList/45/Text,0,89913,"""I was so hoping that you would mention that!"" Purfbin jokes, ""You haven't had a chance to bath recently, have you?""",
+at_purfbin,dlg,EntryList/40/Text,0,89908,"Purfbin pats several of the many bulging pockets sewn into his robes. ""I might have a few wires and gizmos in here to help with even the most stubborn of traps.""","""좋아, 최선을 다해볼게."""
+at_purfbin,dlg,EntryList/41/Text,0,89909,"""My Granda Retsotnert always used to say that running was the better part of bravery. And believe me, I've done my share of running!""","""몰래 기어 다니긴 그만두고 이제 뛰라고? 알겠어."""
+at_purfbin,dlg,EntryList/42/Text,0,89910,"""I will try not to make even the smallest of sounds.""","""좋아! 은밀하게 가는 거지!"""
+at_purfbin,dlg,EntryList/43/Text,0,89911,"""Then what do you have me around for?"" He shrugs. ""Suit yourself.""","""그럼 날 데리고 다니는 이유가 뭐야?"" 그는 어깨를 으쓱합니다. ""좋을 대로 해."""
+at_purfbin,dlg,EntryList/44/Text,0,89912,"Purfbin pats several of the many bulging pockets sewn into his robes. ""I might have a few wires and gizmos in here to help with even the most stubborn of locks."" He smiles mischievously, ""Of course, after I open a chest, I might be tempted to remove a few of the more valuable items!""","""응, 그런 건 당연히 내 도움이 필요하지."""
+at_purfbin,dlg,EntryList/45/Text,0,89913,"""I was so hoping that you would mention that!"" Purfbin jokes, ""You haven't had a chance to bath recently, have you?""","""그래서 얼마나 떨어져 있으라구?"""
 at_purfbin,dlg,EntryList/46/Text,0,-1,"""Yes! An excellent suggestion! I'm certain that the air will be much fresher upwind!""",
 at_purfbin,dlg,EntryList/47/Text,0,-1,"""Yes! I can still keep an eye on your pack."" Purfbin laughs, ""Sorry, I meant to say back! I can still keep an eye on your back!""",
-at_purfbin,dlg,EntryList/48/Text,0,89914,"""That wasn't what I had in mind, friend."" Purfbin shrugs and winks, ""but it does afford me the opportunity to borrow what I need from your pack!""",
-at_purfbin,dlg,EntryList/49/Text,0,89915,"""Excellent! That means I'll get first share of their loot, right?""",
+at_purfbin,dlg,EntryList/48/Text,0,89914,"""That wasn't what I had in mind, friend."" Purfbin shrugs and winks, ""but it does afford me the opportunity to borrow what I need from your pack!""","그는 어깨를 으쓱한다. ""좋아, 뭐."""
+at_purfbin,dlg,EntryList/49/Text,0,89915,"""Excellent! That means I'll get first share of their loot, right?""","""그냥 달려 들어가라고? 좋아!"""
 at_purfbin,dlg,EntryList/5/Text,0,-1,"""I'm afraid repeated tellings might result in the cessation of speech altogether. Ask me again, mi<lord/lady>, when my vocal chords have had some time to recover.",
-at_purfbin,dlg,EntryList/50/Text,0,89916,"He nods. ""I can do that.""",
-at_purfbin,dlg,EntryList/51/Text,0,89917,"""Fine, but don't take anything that doesn't belong to you.""",
+at_purfbin,dlg,EntryList/50/Text,0,89916,"He nods. ""I can do that.""","그는 고개를 끄덕입니다. ""최선을 다해볼게."""
+at_purfbin,dlg,EntryList/51/Text,0,89917,"""Fine, but don't take anything that doesn't belong to you.""","""좋아, 알았어. 근데 피투성이 손으로 막 더듬거리는 건 금지야."""
 at_purfbin,dlg,EntryList/52/Text,0,-1,"""You are inviting me to look through your pack? How very...trusting...of you."" Purfbin quickly grabs your pack and starts rummaging around joking, ""Do not worry, friend! I shall let you know if I find anything in here that I want!""",
 at_purfbin,dlg,EntryList/53/Text,0,-1,"""You want to pilfer goods from my pack?"" Purfbin jokes, ""Go ahead. Help yourself. I have already hidden the best loot where you'll never find it...deep in my pockets!""",
 at_purfbin,dlg,EntryList/54/Text,0,-1,"""Talk? But we seek the Great Prize...and talk will only slow us down... *sigh*. Very well, what do you wish to talk about?""",
-at_purfbin,dlg,EntryList/55/Text,0,89922,"""I'd be feeling much better with a few more gold pieces in my pockets,"" Purfbin jokes, as he casually pats several of the bulging pockets on his colorful robes. ""I don't suppose you care enough to make a small donation?""",
-at_purfbin,dlg,EntryList/56/Text,0,89923,"""Is there something else that you wish to discuss with me?""",
-at_purfbin,dlg,EntryList/57/Text,0,89924,"""We need less talking and more looting!"" Purfbin winks as he rubs his small hands together with obvious glee.",
-at_purfbin,dlg,EntryList/58/Text,0,89925,"""I'm happier than a fat mole in a hole full of dirt!"" Purfbin laughs heartily as he pats his over-stuffed pockets. ""Except, this mole isn't collecting dirt, if you know what I mean!""",
-at_purfbin,dlg,EntryList/59/Text,0,89926,"""Well, <FirstName>, I was thinking...how do you feel about increasing my share of the loot? No? Oh do not be so hasty, my friend! We can talk about this later, perhaps when you're feeling more generous?""",
+at_purfbin,dlg,EntryList/55/Text,0,89922,"""I'd be feeling much better with a few more gold pieces in my pockets,"" Purfbin jokes, as he casually pats several of the bulging pockets on his colorful robes. ""I don't suppose you care enough to make a small donation?""","""다 완전 끝내줘. 더할 나위 없지. 뭐... 내가 엄청 부자에 글래머한 하플링 아가씨들 하렘에 둘러싸여 있으면 더 좋겠지만... 그건 당장은 안 되겠지, 하하하!"""
+at_purfbin,dlg,EntryList/56/Text,0,89923,"""Is there something else that you wish to discuss with me?""","""다른 특별한 얘기 있어?"""
+at_purfbin,dlg,EntryList/57/Text,0,89924,"""We need less talking and more looting!"" Purfbin winks as he rubs his small hands together with obvious glee.","""가스가 좀..."" 그의 눈이 휘둥그레지더니, 갑자기 요란하게 트림을 내뿜습니다. ""아, 됐다. 신경 꺼."""
+at_purfbin,dlg,EntryList/58/Text,0,89925,"""I'm happier than a fat mole in a hole full of dirt!"" Purfbin laughs heartily as he pats his over-stuffed pockets. ""Except, this mole isn't collecting dirt, if you know what I mean!""","""왜 나한테 신경을 써? 가서 할 일이나 해."""
+at_purfbin,dlg,EntryList/59/Text,0,89926,"""Well, <FirstName>, I was thinking...how do you feel about increasing my share of the loot? No? Oh do not be so hasty, my friend! We can talk about this later, perhaps when you're feeling more generous?""","""알았어, 알았어. 그냥 머릿속으로 내 회고록을 쓰는 중이었거든."""
 at_purfbin,dlg,EntryList/6/Text,0,-1,"""Lost something?! No...no...not at all. It's a simple affectation, from years of carrying around valuable items in these bulbous pockets of mine.""",
-at_purfbin,dlg,EntryList/60/Text,0,89927,"""Wonderful! I just had the most amazing idea for a prank involving a crossbow and a decapitated orc's head. Would you like to...oh...never mind.""",
-at_purfbin,dlg,EntryList/61/Text,0,89928,"""Excellent!"" Purfbin smiles gleefully as he pauses momentarily to sniff the air. ""Can you smell that? It's the smell of opportunity! There's a very rich <man/woman> nearby who is not guarding <his/her> possessions closely enough."" He winks at you.",
-at_purfbin,dlg,EntryList/62/Text,0,89929,"""This is a fine <day/night> to be relieving unwary folks of their possessions. No...no...I wouldn't call it stealing, exactly. I mean, if a rich man can't be troubled to take care of his possessions, then he probably doesn't deserve 'em...that's what I always say!""",
-at_purfbin,dlg,EntryList/63/Text,0,89930,"""I might be blind, but do not despair, <FirstName>, for we gnomes are used to walking around in the dark!""",
-at_purfbin,dlg,EntryList/64/Text,0,89931,"""I have a few small cuts and bruises, but we have more important matters to discuss right now."" Purfbin smiles and jokes, ""Matters such as how best to increase my share of the loot!""",
-at_purfbin,dlg,EntryList/65/Text,0,89932,"""So much blood!"" Purfbin looks down at the blood splattered on his robes and sighs. ""I never liked the sight of blood. Especially when it's my own!""",
-at_purfbin,dlg,EntryList/66/Text,0,89933,"""I am very badly injured, friend."" Despite his grave wounds, Purfbin smiles and jests, ""If you force me to walk another footstep, I may drop down dead at your feet.""",
-at_purfbin,dlg,EntryList/67/Text,0,89934,"""I have been poisoned! My stomach feels like it is trying to crawl up my throat and visit my tongue! Oh...this is worse than that time when Ellywick spiced my breakfast cereal with Halruaan hot peppers!""",
-at_purfbin,dlg,EntryList/68/Text,0,89935,"""Well, <FirstName>, my skin is covered with brown itchy spots."" Purfbin laughs as he waves one of his diseased arms under your nose. ""It is probably contagious, you know!""",
+at_purfbin,dlg,EntryList/60/Text,0,89927,"""Wonderful! I just had the most amazing idea for a prank involving a crossbow and a decapitated orc's head. Would you like to...oh...never mind.""","""나쁘진 않아. 문명이 있는 곳으로 돌아가면 서커스에 들어가볼까 생각 중인데, 어때?"""
+at_purfbin,dlg,EntryList/61/Text,0,89928,"""Excellent!"" Purfbin smiles gleefully as he pauses momentarily to sniff the air. ""Can you smell that? It's the smell of opportunity! There's a very rich <man/woman> nearby who is not guarding <his/her> possessions closely enough."" He winks at you.","""피 묻은 전리품에서 내 몫 좀 더 챙겨줘도 좋고. 헤헷."""
+at_purfbin,dlg,EntryList/62/Text,0,89929,"""This is a fine <day/night> to be relieving unwary folks of their possessions. No...no...I wouldn't call it stealing, exactly. I mean, if a rich man can't be troubled to take care of his possessions, then he probably doesn't deserve 'em...that's what I always say!""","""엉덩이에 종기가 하나 난 것 같긴 한데, 그거 말곤 완전 멀쩡해."""
+at_purfbin,dlg,EntryList/63/Text,0,89930,"""I might be blind, but do not despair, <FirstName>, for we gnomes are used to walking around in the dark!""","""괜찮을 거야, 아마. 근데 여기가 정말 어두운 건지... 내가 진짜 눈이 먼 건지 말해 줄래? 살짝 걱정돼서."""
+at_purfbin,dlg,EntryList/64/Text,0,89931,"""I have a few small cuts and bruises, but we have more important matters to discuss right now."" Purfbin smiles and jokes, ""Matters such as how best to increase my share of the loot!""","""프흣, 난 걱정 마. 그냥 긁힌 상처 몇 개야."""
+at_purfbin,dlg,EntryList/65/Text,0,89932,"""So much blood!"" Purfbin looks down at the blood splattered on his robes and sighs. ""I never liked the sight of blood. Especially when it's my own!""","""아까 좀 엉망이 되긴 했지, 헤. 볼 것까지는 없어."""
+at_purfbin,dlg,EntryList/66/Text,0,89933,"""I am very badly injured, friend."" Despite his grave wounds, Purfbin smiles and jests, ""If you force me to walk another footstep, I may drop down dead at your feet.""","""그냥... 몇 군데 긁혔을 뿐이야, 별거 아냐."" 그는 얼굴을 찡그리며 빈 팔로 배에서 솟는 심한 피를 틀어막으려 합니다."
+at_purfbin,dlg,EntryList/67/Text,0,89934,"""I have been poisoned! My stomach feels like it is trying to crawl up my throat and visit my tongue! Oh...this is worse than that time when Ellywick spiced my breakfast cereal with Halruaan hot peppers!""","""어이! 완전 멀쩡해-내 혈관을 타고 흐르는 불덩이만 빼면 말이지. 그건... 알아서 해결되겠지..."""
+at_purfbin,dlg,EntryList/68/Text,0,89935,"""Well, <FirstName>, my skin is covered with brown itchy spots."" Purfbin laughs as he waves one of his diseased arms under your nose. ""It is probably contagious, you know!""","""피부에 이상한 반점이 좀 생긴 것만 빼면 나쁘지 않아. 이거... 안 좋은 건가?"""
 at_purfbin,dlg,EntryList/69/Text,0,-1,"""Well, <FirstName>, all gnomes come from very large families. Granda Retsotnert always used to say that there's no such thing as an empty burrow!""",
 at_purfbin,dlg,EntryList/7/Text,0,-1,"""I prefer the title 'professional treasure hunter'... You see, I'm not one for common skulduggery, like slitting purses and lifting wallets. No, I'm more interested in the recovery of rare artifacts and items of great power.""",
 at_purfbin,dlg,EntryList/70/Text,0,-1,"""It was joyous...wondrous... Each day was a new adventure! While we gnome children played together in close quarters, the earth above our heads trembled with the sounds of our laughter!""",
@@ -3764,26 +3764,26 @@ at_purfbin,dlg,ReplyList/56/Text,0,-1,I'll see you later.,
 at_purfbin,dlg,ReplyList/58/Text,0,-1,Wait here.,
 at_purfbin,dlg,ReplyList/6/Text,0,-1,"Perhaps I'll do that, gnome, as I imagine it's a tale worth hearing. Goodbye for now.",
 at_purfbin,dlg,ReplyList/60/Text,0,-1,I want to change your tactics.,
-at_purfbin,dlg,ReplyList/61/Text,0,90187,I don't want to change anything else right now.,
+at_purfbin,dlg,ReplyList/61/Text,0,90187,I don't want to change anything else right now.,"""지금은 다른 건 바꾸고 싶지 않아."""
 at_purfbin,dlg,ReplyList/62/Text,0,-1,No. We're done.,
-at_purfbin,dlg,ReplyList/63/Text,0,90188,I want you to leave any traps that you see alone.,
-at_purfbin,dlg,ReplyList/65/Text,0,90189,I want you to disarm any traps that you see.,
-at_purfbin,dlg,ReplyList/67/Text,0,90190,I want to move faster and not bother with searching or stealth.,
-at_purfbin,dlg,ReplyList/69/Text,0,90191,I need you to be stealthy right now.,
+at_purfbin,dlg,ReplyList/63/Text,0,90188,I want you to leave any traps that you see alone.,"""보이는 함정은 그냥 내버려 둬."""
+at_purfbin,dlg,ReplyList/65/Text,0,90189,I want you to disarm any traps that you see.,"""보이는 함정은 모두 해제해 줘."""
+at_purfbin,dlg,ReplyList/67/Text,0,90190,I want to move faster and not bother with searching or stealth.,"""더 빨리 움직이고 탐색이나 은신은 신경 쓰지 마."""
+at_purfbin,dlg,ReplyList/69/Text,0,90191,I need you to be stealthy right now.,"""지금은 은밀하게 행동해 줘."""
 at_purfbin,dlg,ReplyList/7/Text,0,-1,"I'm in need of skilled companions. Since you are new to Daggerford, might you be interested in joining me?",
-at_purfbin,dlg,ReplyList/71/Text,0,90192,Don't help me if I fail to open a locked door or chest.,
-at_purfbin,dlg,ReplyList/73/Text,0,90193,Help me if I fail to open a locked door or chest.,
-at_purfbin,dlg,ReplyList/75/Text,0,90194,I want to change the distance you stay away from me.,
+at_purfbin,dlg,ReplyList/71/Text,0,90192,Don't help me if I fail to open a locked door or chest.,"""잠긴 문이나 상자를 여는 데 실패해도 돕지 마."""
+at_purfbin,dlg,ReplyList/73/Text,0,90193,Help me if I fail to open a locked door or chest.,"""잠긴 문이나 상자를 여는 데 실패하면 도와줘."""
+at_purfbin,dlg,ReplyList/75/Text,0,90194,I want to change the distance you stay away from me.,"""나와의 거리를 바꾸고 싶어."""
 at_purfbin,dlg,ReplyList/8/Text,0,-1,"Have you lost something, gnome?",
-at_purfbin,dlg,ReplyList/82/Text,0,90198,Go ahead and attack as soon as you see enemies.,
-at_purfbin,dlg,ReplyList/84/Text,0,90199,Defend me and don't attack until I do.,
-at_purfbin,dlg,ReplyList/86/Text,0,90200,I want to adjust your equipment.,
+at_purfbin,dlg,ReplyList/82/Text,0,90198,Go ahead and attack as soon as you see enemies.,"""적을 보는 즉시 공격해."""
+at_purfbin,dlg,ReplyList/84/Text,0,90199,Defend me and don't attack until I do.,"""날 지키고 내가 공격할 때까지 공격하지 마."""
+at_purfbin,dlg,ReplyList/86/Text,0,90200,I want to adjust your equipment.,"""장비를 조정하고 싶어."""
 at_purfbin,dlg,ReplyList/88/Text,0,-1,Can you identify my equipment?,
 at_purfbin,dlg,ReplyList/9/Text,0,-1,You're a thief?,
 at_purfbin,dlg,ReplyList/90/Text,0,-1,I want to adjust your equipment.,
 at_purfbin,dlg,ReplyList/92/Text,0,-1,"Might we stop and talk a moment, Purfbin?",
 at_purfbin,dlg,ReplyList/93/Text,0,-1,That's all the questions I had.,
-at_purfbin,dlg,ReplyList/94/Text,0,90208,How is everything?,
+at_purfbin,dlg,ReplyList/94/Text,0,90208,How is everything?,"""어떻게 지내?"""
 at_quintessa,dlg,EntryList/0/Text,0,-1,"""Oh dear! When is the last time you bathed, <sir/madam>? Your malodorous fragrance threatens to take my very breath away.""",
 at_quintessa,dlg,EntryList/1/Text,0,-1,"""Oh please don't be offended, <sir/madam>. I'm just a bit blunt when it comes to matters of hygiene.""",
 at_quintessa,dlg,EntryList/10/Text,0,-1,"""Only 50 gold pieces. I think you will find the price quite reasonable when measured against the benefits received from my perfume.""",
@@ -3948,47 +3948,47 @@ at_raegen,dlg,EntryList/35/Text,0,-1,"""You... You wish for us to part ways?"" R
 at_raegen,dlg,EntryList/36/Text,0,-1,"""You choose wisely, my friend.""",
 at_raegen,dlg,EntryList/37/Text,0,-1,"""Farewell to you, <FirstName>. May the 'Vigilant One' guide your steps.""",
 at_raegen,dlg,EntryList/38/Text,0,-1,"""Very well, but not leave me here overlong, as I dislike boredom most of all.""",
-at_raegen,dlg,EntryList/39/Text,0,89906,"""Of course, <FirstName>. I shall adjust my strategies according to your wishes.""",
+at_raegen,dlg,EntryList/39/Text,0,89906,"""Of course, <FirstName>. I shall adjust my strategies according to your wishes.""","""그래, 날 시켜서 뭘 하라고?"""
 at_raegen,dlg,EntryList/4/Text,0,-1,"""I'm not a tour guide. Go chase down that plucky wench in the market, if you desire the grand tour of Daggerford.""",
 at_raegen,dlg,EntryList/40/Text,0,-1,"""Is there something else you need of me?""",
-at_raegen,dlg,EntryList/41/Text,0,89909,"""Yes. Let us make our presence known, so the enemy may quake with fear!""",
+at_raegen,dlg,EntryList/41/Text,0,89909,"""Yes. Let us make our presence known, so the enemy may quake with fear!""","""몰래 기어 다니긴 그만두고 이제 뛰라고? 알겠어."""
 at_raegen,dlg,EntryList/42/Text,0,-1,"""Will there be anything else?""",
-at_raegen,dlg,EntryList/43/Text,0,89910,"""Not my specialty, but I will do what I can to remain out of sight.""",
+at_raegen,dlg,EntryList/43/Text,0,89910,"""Not my specialty, but I will do what I can to remain out of sight.""","""좋아! 은밀하게 가는 거지!"""
 at_raegen,dlg,EntryList/44/Text,0,-1,"""Will there be anything else?""",
-at_raegen,dlg,EntryList/45/Text,0,89911,"""As you wish, <FirstName>.""",
+at_raegen,dlg,EntryList/45/Text,0,89911,"""As you wish, <FirstName>.""","""그럼 날 데리고 다니는 이유가 뭐야?"" 그는 어깨를 으쓱합니다. ""좋을 대로 해."""
 at_raegen,dlg,EntryList/46/Text,0,-1,"""Will there be anything else?""",
-at_raegen,dlg,EntryList/47/Text,0,89912,"""I shall handle doors and chests for you, if I am strong enough to do so."" Raegen unselfconsciously adjusts her belt, allowing you to see the corded mass of muscles that line her forearms.",
+at_raegen,dlg,EntryList/47/Text,0,89912,"""I shall handle doors and chests for you, if I am strong enough to do so."" Raegen unselfconsciously adjusts her belt, allowing you to see the corded mass of muscles that line her forearms.","""응, 그런 건 당연히 내 도움이 필요하지."""
 at_raegen,dlg,EntryList/48/Text,0,-1,"""Will there be anything else?""",
-at_raegen,dlg,EntryList/49/Text,0,89913,"""Very well. Where shall I stand?""",
+at_raegen,dlg,EntryList/49/Text,0,89913,"""Very well. Where shall I stand?""","""그래서 얼마나 떨어져 있으라구?"""
 at_raegen,dlg,EntryList/5/Text,0,-1,"""Oh, I see. You desire a spot of tavern banter, so you might uncover work for a down-on-<his/her>-luck mercenary.""",
-at_raegen,dlg,EntryList/50/Text,0,89914,"""I shall do as you command.""",
+at_raegen,dlg,EntryList/50/Text,0,89914,"""I shall do as you command.""","그는 어깨를 으쓱한다. ""좋아, 뭐."""
 at_raegen,dlg,EntryList/51/Text,0,-1,"""Will there be anything else?""",
-at_raegen,dlg,EntryList/52/Text,0,89915,"""A wise decision, friend. I shall slice through our enemies like a scythe through grass.""",
+at_raegen,dlg,EntryList/52/Text,0,89915,"""A wise decision, friend. I shall slice through our enemies like a scythe through grass.""","""그냥 달려 들어가라고? 좋아!"""
 at_raegen,dlg,EntryList/53/Text,0,-1,"""Will there be anything else?""",
-at_raegen,dlg,EntryList/54/Text,0,89916,"""I shall assume a defensive stance, if you deem it necessary.""",
+at_raegen,dlg,EntryList/54/Text,0,89916,"""I shall assume a defensive stance, if you deem it necessary.""","그는 고개를 끄덕입니다. ""최선을 다해볼게."""
 at_raegen,dlg,EntryList/55/Text,0,-1,"""Will there be anything else?""",
-at_raegen,dlg,EntryList/56/Text,0,89917,"""Do as you wish. With the exception of sword and shield, material goods hold little value to me.""",
+at_raegen,dlg,EntryList/56/Text,0,89917,"""Do as you wish. With the exception of sword and shield, material goods hold little value to me.""","""좋아, 알았어. 근데 피투성이 손으로 막 더듬거리는 건 금지야."""
 at_raegen,dlg,EntryList/57/Text,0,-1,"""Will there be anything else?""",
 at_raegen,dlg,EntryList/58/Text,0,-1,"""I will try, <FirstName>, though my lore is geared towards weaponry and armor.""",
 at_raegen,dlg,EntryList/59/Text,0,-1,"""Do as you wish. I care not for worldly goods.""",
 at_raegen,dlg,EntryList/6/Text,0,-1,"""So, the hardened mercenary cuts right to the chase...leaving words for suckling sycophants and prancing politicos. I like that.""",
 at_raegen,dlg,EntryList/60/Text,0,-1,"""We would do better to save our energy for battle, not waste it on needless conversation.""",
-at_raegen,dlg,EntryList/61/Text,0,89922,"""I feel just fine, <FirstName>...ready for whatever comes to pass.""",
-at_raegen,dlg,EntryList/62/Text,0,89923,"""Is there something else that you wish to discuss with me?""",
-at_raegen,dlg,EntryList/63/Text,0,89924,"""I'm feeling a tad weary, though not enough to impact my duties.""",
-at_raegen,dlg,EntryList/64/Text,0,89925,"""I feel that I made the right decision joining up with you, <FirstName>. You are a natural leader and have shown great initiative thus far.""",
-at_raegen,dlg,EntryList/65/Text,0,89926,"""I feel boredom encroaching quickly. Might we move on?""",
-at_raegen,dlg,EntryList/66/Text,0,89927,"""About the same as always, which is boredom when I stand and vigor when there's work to be done.""",
-at_raegen,dlg,EntryList/67/Text,0,89928,"""Your concern for my welfare is endearing...though misguided, for I tend to keep my emotional state in check, lest it interfere with my work.""",
-at_raegen,dlg,EntryList/68/Text,0,89929,"""How am I feeling? That's a rather odd question, <FirstName>. Soldiers don't feel much of anything when on duty...except fatigue and hunger.""",
-at_raegen,dlg,EntryList/69/Text,0,89930,"""Father! FATHER!!! Do not leave me here in the dark... I cannot see, Father!! I cannot see!!!"" Raegen is frantic and mumbling like a frightened child. From the glassy look in her eyes, you can tell she is completely blind.",
+at_raegen,dlg,EntryList/61/Text,0,89922,"""I feel just fine, <FirstName>...ready for whatever comes to pass.""","""다 완전 끝내줘. 더할 나위 없지. 뭐... 내가 엄청 부자에 글래머한 하플링 아가씨들 하렘에 둘러싸여 있으면 더 좋겠지만... 그건 당장은 안 되겠지, 하하하!"""
+at_raegen,dlg,EntryList/62/Text,0,89923,"""Is there something else that you wish to discuss with me?""","""다른 특별한 얘기 있어?"""
+at_raegen,dlg,EntryList/63/Text,0,89924,"""I'm feeling a tad weary, though not enough to impact my duties.""","""가스가 좀..."" 그의 눈이 휘둥그레지더니, 갑자기 요란하게 트림을 내뿜습니다. ""아, 됐다. 신경 꺼."""
+at_raegen,dlg,EntryList/64/Text,0,89925,"""I feel that I made the right decision joining up with you, <FirstName>. You are a natural leader and have shown great initiative thus far.""","""왜 나한테 신경을 써? 가서 할 일이나 해."""
+at_raegen,dlg,EntryList/65/Text,0,89926,"""I feel boredom encroaching quickly. Might we move on?""","""알았어, 알았어. 그냥 머릿속으로 내 회고록을 쓰는 중이었거든."""
+at_raegen,dlg,EntryList/66/Text,0,89927,"""About the same as always, which is boredom when I stand and vigor when there's work to be done.""","""나쁘진 않아. 문명이 있는 곳으로 돌아가면 서커스에 들어가볼까 생각 중인데, 어때?"""
+at_raegen,dlg,EntryList/67/Text,0,89928,"""Your concern for my welfare is endearing...though misguided, for I tend to keep my emotional state in check, lest it interfere with my work.""","""피 묻은 전리품에서 내 몫 좀 더 챙겨줘도 좋고. 헤헷."""
+at_raegen,dlg,EntryList/68/Text,0,89929,"""How am I feeling? That's a rather odd question, <FirstName>. Soldiers don't feel much of anything when on duty...except fatigue and hunger.""","""엉덩이에 종기가 하나 난 것 같긴 한데, 그거 말곤 완전 멀쩡해."""
+at_raegen,dlg,EntryList/69/Text,0,89930,"""Father! FATHER!!! Do not leave me here in the dark... I cannot see, Father!! I cannot see!!!"" Raegen is frantic and mumbling like a frightened child. From the glassy look in her eyes, you can tell she is completely blind.","""괜찮을 거야, 아마. 근데 여기가 정말 어두운 건지... 내가 진짜 눈이 먼 건지 말해 줄래? 살짝 걱정돼서."""
 at_raegen,dlg,EntryList/7/Text,0,-1,"""It's written on your face, <lad/lass>. You've got the desperate look of one who hasn't had a good night's sleep or a hearty meal in days. I'd buy you a leg of mutton, if I didn't share your predicament.""",
 at_raegen,dlg,EntryList/70/Text,0,-1,"""<FirstName>? Why...of course, please forgive me. I fear the dark perhaps a bit more than is justified.""",
-at_raegen,dlg,EntryList/71/Text,0,89931,"""I'm fine, <FirstName>. I enjoyed that last battle. A good scrap!"" Raegen seems completely unaware of the dozen or so nicks and bruises that cover her face and hands.",
-at_raegen,dlg,EntryList/72/Text,0,89932,"""My wounds are grave, <FirstName>. I could use some healing if you have some on hand."" It is a wonder Raegen still stands with a veritable crimson geyser pouring out of a several gaping wounds.",
-at_raegen,dlg,EntryList/73/Text,0,89933,"""I am injured, <FirstName>, though not severely. If you could lend me some healing I would be grateful."" Raegen seems oblivious to the pain of her injuries.",
-at_raegen,dlg,EntryList/74/Text,0,89934,"""Poisoned... My veins are on fire!"" Raegen's bloodshot eyes have the hunted look of a rabid dog.",
-at_raegen,dlg,EntryList/75/Text,0,89935,"""I've certainly had worse illnesses...such as that spot of black rot in the Keczulla gem mines. But overall, I feel pretty terrible, truth be told."" Raegen is so weak she can barely stand.",
+at_raegen,dlg,EntryList/71/Text,0,89931,"""I'm fine, <FirstName>. I enjoyed that last battle. A good scrap!"" Raegen seems completely unaware of the dozen or so nicks and bruises that cover her face and hands.","""프흣, 난 걱정 마. 그냥 긁힌 상처 몇 개야."""
+at_raegen,dlg,EntryList/72/Text,0,89932,"""My wounds are grave, <FirstName>. I could use some healing if you have some on hand."" It is a wonder Raegen still stands with a veritable crimson geyser pouring out of a several gaping wounds.","""아까 좀 엉망이 되긴 했지, 헤. 볼 것까지는 없어."""
+at_raegen,dlg,EntryList/73/Text,0,89933,"""I am injured, <FirstName>, though not severely. If you could lend me some healing I would be grateful."" Raegen seems oblivious to the pain of her injuries.","""그냥... 몇 군데 긁혔을 뿐이야, 별거 아냐."" 그는 얼굴을 찡그리며 빈 팔로 배에서 솟는 심한 피를 틀어막으려 합니다."
+at_raegen,dlg,EntryList/74/Text,0,89934,"""Poisoned... My veins are on fire!"" Raegen's bloodshot eyes have the hunted look of a rabid dog.","""어이! 완전 멀쩡해-내 혈관을 타고 흐르는 불덩이만 빼면 말이지. 그건... 알아서 해결되겠지..."""
+at_raegen,dlg,EntryList/75/Text,0,89935,"""I've certainly had worse illnesses...such as that spot of black rot in the Keczulla gem mines. But overall, I feel pretty terrible, truth be told."" Raegen is so weak she can barely stand.","""피부에 이상한 반점이 좀 생긴 것만 빼면 나쁘지 않아. 이거... 안 좋은 건가?"""
 at_raegen,dlg,EntryList/76/Text,0,-1,"""You're concerned about my admission to being an escaped convict?""",
 at_raegen,dlg,EntryList/77/Text,0,-1,"""I...I don't know. Once again, I feel lost...in a quandary of religious dogma that keeps circling back upon itself...like a snake feasting on its own tail.""",
 at_raegen,dlg,EntryList/78/Text,0,-1,"""I grow weary from too much soul-searching. Let us continue on, unless you have some other questions for me.""",
@@ -4022,7 +4022,7 @@ at_raegen,dlg,ReplyList/100/Text,0,-1,Can you identify my equipment?,
 at_raegen,dlg,ReplyList/102/Text,0,-1,I want to adjust your equipment.,
 at_raegen,dlg,ReplyList/104/Text,0,-1,Let's stop and talk a moment.,
 at_raegen,dlg,ReplyList/105/Text,0,-1,That's all the questions I have for now.,
-at_raegen,dlg,ReplyList/106/Text,0,90208,"How are you feeling to<day/night>, Raegen?",
+at_raegen,dlg,ReplyList/106/Text,0,90208,"How are you feeling to<day/night>, Raegen?","""어떻게 지내?"""
 at_raegen,dlg,ReplyList/114/Text,0,-1,"Snap out of it, Raegen. You just got blinded during the battle.",
 at_raegen,dlg,ReplyList/115/Text,0,-1,"Raegen? Are you OK? It's me, <FirstName>.",
 at_raegen,dlg,ReplyList/116/Text,0,-1,"It's alright, Raegen. It's <FirstName>. You were blinded during the battle. You will improve with time.",
@@ -4142,17 +4142,17 @@ at_raegen,dlg,ReplyList/75/Text,0,-1,"Be patient for a change, battle-wench.",
 at_raegen,dlg,ReplyList/76/Text,0,-1,"I'll return as soon as I can, Raegen.",
 at_raegen,dlg,ReplyList/77/Text,0,-1,"I'll return shortly, Raegen.",
 at_raegen,dlg,ReplyList/78/Text,0,-1,I want to change your tactics.,
-at_raegen,dlg,ReplyList/79/Text,0,90187,I don't want to change anything else about our tactics.,
+at_raegen,dlg,ReplyList/79/Text,0,90187,I don't want to change anything else about our tactics.,"""지금은 다른 건 바꾸고 싶지 않아."""
 at_raegen,dlg,ReplyList/8/Text,0,-1,Enough talk! Are you looking for work or aren't you?,
 at_raegen,dlg,ReplyList/80/Text,0,-1,No. We're done.,
-at_raegen,dlg,ReplyList/81/Text,0,90190,I want to move faster and not bother with searching or stealth.,
-at_raegen,dlg,ReplyList/83/Text,0,90191,I need you to be stealthy right now.,
-at_raegen,dlg,ReplyList/85/Text,0,90192,Don't help me if I fail to open a locked door or chest.,
-at_raegen,dlg,ReplyList/87/Text,0,90193,Help me if I fail to open a locked door or chest.,
-at_raegen,dlg,ReplyList/89/Text,0,90194,I want to change the distance you stay away from me.,
-at_raegen,dlg,ReplyList/94/Text,0,90198,Go ahead and attack as soon as you see enemies.,
-at_raegen,dlg,ReplyList/96/Text,0,90199,Defend me and don't attack until I do.,
-at_raegen,dlg,ReplyList/98/Text,0,90200,I want to adjust your equipment.,
+at_raegen,dlg,ReplyList/81/Text,0,90190,I want to move faster and not bother with searching or stealth.,"""더 빨리 움직이고 탐색이나 은신은 신경 쓰지 마."""
+at_raegen,dlg,ReplyList/83/Text,0,90191,I need you to be stealthy right now.,"""지금은 은밀하게 행동해 줘."""
+at_raegen,dlg,ReplyList/85/Text,0,90192,Don't help me if I fail to open a locked door or chest.,"""잠긴 문이나 상자를 여는 데 실패해도 돕지 마."""
+at_raegen,dlg,ReplyList/87/Text,0,90193,Help me if I fail to open a locked door or chest.,"""잠긴 문이나 상자를 여는 데 실패하면 도와줘."""
+at_raegen,dlg,ReplyList/89/Text,0,90194,I want to change the distance you stay away from me.,"""나와의 거리를 바꾸고 싶어."""
+at_raegen,dlg,ReplyList/94/Text,0,90198,Go ahead and attack as soon as you see enemies.,"""적을 보는 즉시 공격해."""
+at_raegen,dlg,ReplyList/96/Text,0,90199,Defend me and don't attack until I do.,"""날 지키고 내가 공격할 때까지 공격하지 마."""
+at_raegen,dlg,ReplyList/98/Text,0,90200,I want to adjust your equipment.,"""장비를 조정하고 싶어."""
 at_rootherat,dlg,EntryList/0/Text,0,-1,"""So, the brave adventurer enters the lair of the dread MRCD!""",
 at_rootherat,dlg,EntryList/1/Text,0,-1,"""Ahhhh...an adventurer with spirit. That is good...much better than those frightened children outside. They are not worthy of death at the hands of the MRCD.""",
 at_rootherat,dlg,EntryList/10/Text,0,-1,"""Do I resemble a beast who has slain countless adventurers by rending them limb from limb and gnawing the flesh clean off their bones? No. I am not the creature you seek.""",

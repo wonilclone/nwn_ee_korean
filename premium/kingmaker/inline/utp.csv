@@ -1,126 +1,136 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
-billboard002,utp,LocName,0,14561,Welcome to the Keep of Cyan,
-billboard003,utp,LocName,0,14561,Graveyard,
-billboard004,utp,LocName,0,14561,Thanlor Manor - Haunted - Please see Serah Blackhand.,
-billboard005,utp,LocName,0,14561,The Smithy,
-billboard006,utp,LocName,0,14561,Quartermaster's Store,
-billboard007,utp,LocName,0,14561,Silvertongue Manor,
-billboard008,utp,LocName,0,14561,Becket Manor,
-billboard009,utp,LocName,0,14561,Blackhand Homestead,
-billboard010,utp,LocName,0,14561,The Mossy Tree,
-billboard011,utp,LocName,0,14561,The Tarnished Tankard,
-billboard012,utp,LocName,0,14561,Pawnshop,
-corpse002,utp,Description,0,14600,Either he owned little to begin with or this man was stripped of all he had.,
+billboard002,utp,LocName,0,14561,Welcome to the Keep of Cyan,시안 요새에 오신 것을 환영합니다
+billboard003,utp,LocName,0,14561,Graveyard,묘지
+billboard004,utp,LocName,0,14561,Thanlor Manor - Haunted - Please see Serah Blackhand.,탠로 저택 - 유령 출몰 - 세라 블랙핸드에게 문의하세요.
+billboard005,utp,LocName,0,14561,The Smithy,대장간
+billboard006,utp,LocName,0,14561,Quartermaster's Store,보급관 상점
+billboard007,utp,LocName,0,14561,Silvertongue Manor,실버텅 저택
+billboard008,utp,LocName,0,14561,Becket Manor,베켓 저택
+billboard009,utp,LocName,0,14561,Blackhand Homestead,블랙핸드 농장
+billboard010,utp,LocName,0,14561,The Mossy Tree,이끼낀 나무
+billboard011,utp,LocName,0,14561,The Tarnished Tankard,빛바랜 맥주잔
+billboard012,utp,LocName,0,14561,Pawnshop,전당포
+corpse002,utp,Description,0,14600,Either he owned little to begin with or this man was stripped of all he had.,"처음부터 아무것도 없었거나, 또는 자신이 가진 것을 모두 빼앗긴 상태입니다."
 flrlever002,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-km_deathlight,utp,Description,0,14726,A searing shaft of white light descends from some unseen place above.,
-km_deathlight,utp,LocName,0,14719,Shaft of Light,
-km_finalbracket,utp,LocName,0,14704,Mysterious Bracket,
-km_finalmirror,utp,LocName,0,83421,Large Rotating Mirror,
-km_mainmirror,utp,Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",
-km_mainmirror,utp,LocName,0,83421,Large Rotating Mirror,
+km_deathlight,utp,Description,0,14726,A searing shaft of white light descends from some unseen place above.,하얀 빛의 불태우는 줄기가 보이지도 않는 위에서 내려옵니다.
+km_deathlight,utp,LocName,0,14719,Shaft of Light,빛줄기
+km_finalbracket,utp,LocName,0,14704,Mysterious Bracket,수수께끼의 받침대
+km_finalmirror,utp,LocName,0,83421,Large Rotating Mirror,큰 회전 거울
+km_mainmirror,utp,Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",이 거대한 돌 테두리 거울의 반짝이는 표면에 비친 자신의 모습을 바라봅니다.
+km_mainmirror,utp,LocName,0,83421,Large Rotating Mirror,큰 회전 거울
 ooc_kai_lever,utp,Description,0,14632,Sets the Kaidala plot.,
-ooc_kai_lever,utp,LocName,0,14633,OOC Kaidala Lever,
-os_combat_dummy,utp,Description,0,14599,"With its bucket head and straw-filled chest, the combat dummy seems far from threatening.",
-os_hidden_gwood,utp,LocName,0,68906,Secret Grate,
-os_setup_axes,utp,LocName,0,14549,OOC Armoire Axes,
-os_setup_bladed,utp,LocName,0,14549,OOC Armoire Bladed,
-os_setup_blunt,utp,LocName,0,14549,OOC Armoire Blunt,
-os_setup_double,utp,LocName,0,14549,OOC Armoire Double,
-os_setup_exotic,utp,LocName,0,14549,OOC Armoire Exotic,
-os_setup_polearm,utp,LocName,0,14549,OOC Armoire Polearm,
-os_setup_ranged,utp,LocName,0,14549,OOC Armoire Ranged,
-os_trap_dart,utp,LocName,0,5800,Dart Trap Object,
-pl_hiddendr002,utp,LocName,0,2962,Hidden Wall Door,
-puz_beamjunct,utp,LocName,0,5800,Terminator Junction,
-q1_beehive1,utp,LocName,0,14578,Beehive,
-q1_fern,utp,Description,0,66749,"The bright, healthy green leaves and stems of this fern shift slighty in the breeze.",
-q1_fern,utp,LocName,0,52999,Danberry Shrub,
+ooc_kai_lever,utp,LocName,0,14633,OOC Kaidala Lever,OOC Kaidala Lever
+os_combat_dummy,utp,Description,0,14599,"With its bucket head and straw-filled chest, the combat dummy seems far from threatening.",양동이 머리와 짚으로 가득 찬 몸통을 가진 훈련용 허수아비는 위협과는 거리가 먼 것 같습니다.
+os_hidden_gwood,utp,LocName,0,68906,Secret Grate,비밀 격자
+os_setup_axes,utp,LocName,0,14549,OOC Armoire Axes,OOC Armoire Axes
+os_setup_bladed,utp,LocName,0,14549,OOC Armoire Bladed,OOC Armoire Bladed
+os_setup_blunt,utp,LocName,0,14549,OOC Armoire Blunt,OOC Armoire Blunt
+os_setup_double,utp,LocName,0,14549,OOC Armoire Double,OOC Armoire Double
+os_setup_exotic,utp,LocName,0,14549,OOC Armoire Exotic,OOC Armoire Exotic
+os_setup_polearm,utp,LocName,0,14549,OOC Armoire Polearm,OOC Armoire Polearm
+os_setup_ranged,utp,LocName,0,14549,OOC Armoire Ranged,OOC Armoire Ranged
+os_trap_dart,utp,LocName,0,5800,Dart Trap Object,다트 함정 물체
+pl_hiddendr002,utp,LocName,0,2962,Hidden Wall Door,숨겨진 벽 문
+puz_beamjunct,utp,LocName,0,5800,Terminator Junction,종결 접합부
+q1_beehive1,utp,LocName,0,14578,Beehive,벌집
+q1_fern,utp,Description,0,66749,"The bright, healthy green leaves and stems of this fern shift slighty in the breeze.",이 양치류의 밝고 건강한 녹색 잎과 줄기가 바람에 살짝 흔들립니다.
+q1_fern,utp,LocName,0,52999,Danberry Shrub,댄베리 관목
 q1_plc_headcori,utp,Description,0,-1,"Cori May was a sweet natured fey,
 Until a very disturbing day,
 When all grew dark, and the great lord did frown,
 And with a callous gesture did set her down.
 But from the grave she still gives power,
-And all it costs is a single flower.",
-q1_plc_headcori,utp,LocName,0,-1,Cori's Headstone,
+And all it costs is a single flower.","코리 메이는 상냥한 요정이었으나,
+매우 불길한 날이 찾아왔다네,
+모든 것이 어두워지자, 위대한 군주가 눈살을 찌푸리며,
+냉담한 손짓으로 그녀를 내려놓았다네.
+하지만 무덤에서도 여전히 힘을 주니,
+대가는 꽃 한 송이뿐."
+q1_plc_headcori,utp,LocName,0,-1,Cori's Headstone,코리의 묘비
 q1_plc_headdan,utp,Description,0,-1,"The white side of Dan was kind and cheery,
 But the dark side did sometimes make him dreary,
 And when t'was determined a mistake he made,
 Into this coffin his corpse was laid.
 As his spirit still here tarries,
-Do be kind and bring him berries.",
-q1_plc_headdan,utp,LocName,0,-1,Daniel's Headstone,
-q1_poisonhive,utp,LocName,0,14578,Beehive,
-q1e_kai_dirt,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",
-q1e_kai_shrub,utp,Description,0,67632,A nondescript bit of shrubbery.,
-q1e_kai_tree,utp,Description,0,14746,"Birds play in the branches above you, chirping merrily.",
-q2_armorstand,utp,LocName,0,5681,Armor Stand,
-q2_candelabra,utp,Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",
+Do be kind and bring him berries.","단의 밝은 면은 친절하고 쾌활했으나,
+어두운 면은 가끔 그를 우울하게 만들었다네,
+그가 실수를 저질렀다 판명되자,
+이 관 속에 그의 시신이 뉘여졌다네.
+그의 영혼이 아직 이곳에 머물고 있으니,
+부디 친절하게 그에게 열매를 가져다주게."
+q1_plc_headdan,utp,LocName,0,-1,Daniel's Headstone,다니엘의 묘비
+q1_poisonhive,utp,LocName,0,14578,Beehive,벌집
+q1e_kai_dirt,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",더러워지거나 진흙을 만드는 것 외에는 거의 쓸모없는 큰 흙더미입니다.
+q1e_kai_shrub,utp,Description,0,67632,A nondescript bit of shrubbery.,특징 없는 관목 숲.
+q1e_kai_tree,utp,Description,0,14746,"Birds play in the branches above you, chirping merrily.",새들이 당신 위에 있는 나무가지에서 즐겁게 지저귀며 놀고 있습니다.
+q2_armorstand,utp,LocName,0,5681,Armor Stand,갑옷 거치대
+q2_candelabra,utp,Description,0,14589,"Thick tallow candles burn low upon their iron stand. Small mounds have formed on the floor below, where the fallen tallow has accumulated.",동물 기름으로 만든 두툼한 초가 철제 받침대 위에서 낮게 타오릅니다. 떨어진 촛농이 쌓여 아래쪽에는 작은 언덕을 형성하고 있습니다.
 q2_ooc_goblever,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_goblever,utp,LocName,0,14633,OOC Goblin Lever,
+q2_ooc_goblever,utp,LocName,0,14633,OOC Goblin Lever,OOC Goblin Lever
 q2_ooc_grdarc001,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_grdarc001,utp,LocName,0,14633,OOC FROM ENIVID,
+q2_ooc_grdarc001,utp,LocName,0,14633,OOC FROM ENIVID,OOC FROM ENIVID
 q2_ooc_grdarc002,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_grdarc002,utp,LocName,0,14633,OOC FROM BECKET,
+q2_ooc_grdarc002,utp,LocName,0,14633,OOC FROM BECKET,OOC FROM BECKET
 q2_ooc_grdarch1,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_grdarch1,utp,LocName,0,14633,OOC Live Archaeologist,
+q2_ooc_grdarch1,utp,LocName,0,14633,OOC Live Archaeologist,OOC Live Archaeologist
 q2_ooc_grdarch2,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_grdarch2,utp,LocName,0,14633,OOC Dead Archaeologist,
+q2_ooc_grdarch2,utp,LocName,0,14633,OOC Dead Archaeologist,OOC Dead Archaeologist
 q2_ooc_grdcow1,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_grdcow1,utp,LocName,0,14633,OOC Live Cow,
+q2_ooc_grdcow1,utp,LocName,0,14633,OOC Live Cow,OOC Live Cow
 q2_ooc_grdcow2,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_grdcow2,utp,LocName,0,14633,OOC Dead Cow,
+q2_ooc_grdcow2,utp,LocName,0,14633,OOC Dead Cow,OOC Dead Cow
 q2_ooc_grdduer1,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_grdduer1,utp,LocName,0,14633,OOC Duergar Lever,
+q2_ooc_grdduer1,utp,LocName,0,14633,OOC Duergar Lever,OOC Duergar Lever
 q2_ooc_qmlev1,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_qmlev1,utp,LocName,0,14633,OOC Manticore Right,
+q2_ooc_qmlev1,utp,LocName,0,14633,OOC Manticore Right,OOC Manticore Right
 q2_ooc_qmlev2,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_qmlev2,utp,LocName,0,14633,OOC Manticore Wrong,
+q2_ooc_qmlev2,utp,LocName,0,14633,OOC Manticore Wrong,OOC Manticore Wrong
 q2_ooc_votelever,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q2_ooc_votelever,utp,LocName,0,14633,OOC Vote Lever,
-q2_ring_grate,utp,LocName,0,68907,Grate,
-q2c19_inv_grate,utp,LocName,0,5800,Invisible Grate Object,
-q2c22_grate,utp,LocName,0,68906,Grate,
-q2c22b_inv_grate,utp,LocName,0,5800,Invisible Grate Object,
-q2c24c_inv_grate,utp,LocName,0,5800,Invisible Grate Object,
-q2c_ooc_leverpri,utp,LocName,0,14633,OOC Prison Lever,
-q3_advisor,utp,LocName,0,14731,Advisor,
-q3_bale_grain,utp,LocName,0,-1,Bale,
-q3_bale_static,utp,LocName,0,-1,Bale,
-q3_deaddrow,utp,LocName,0,14731,Corpse,
-q3_goblinchest,utp,Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",
-q3_illithidlight,utp,LocName,0,14719,Shaft of Light,
-q3_inv_ilithid,utp,LocName,0,5800,Invisible Ilithid,
-q3_jewel_box,utp,LocName,0,5348,Jewel Box,
-q3_kobold_chest,utp,LocName,0,83439,Kobold Chest,
-q3_lightrock,utp,Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-q3_orbpedestal,utp,LocName,0,84567,Orb Pedestal,
-q3_plc_box,utp,LocName,0,-1,Box,
-q3_plc_explosive,utp,LocName,0,5738,Explosive Barrel,
-q3_plc_grain,utp,LocName,0,-1,Grain,
-q3_psioniclight,utp,LocName,0,14719,Psionic Gem,
-q3_undeadchest,utp,Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",
+q2_ooc_votelever,utp,LocName,0,14633,OOC Vote Lever,OOC Vote Lever
+q2_ring_grate,utp,LocName,0,68907,Grate,격자
+q2c19_inv_grate,utp,LocName,0,5800,Invisible Grate Object,투명 격자 물체
+q2c22_grate,utp,LocName,0,68906,Grate,격자
+q2c22b_inv_grate,utp,LocName,0,5800,Invisible Grate Object,투명 격자 물체
+q2c24c_inv_grate,utp,LocName,0,5800,Invisible Grate Object,투명 격자 물체
+q2c_ooc_leverpri,utp,LocName,0,14633,OOC Prison Lever,OOC Prison Lever
+q3_advisor,utp,LocName,0,14731,Advisor,조언자
+q3_bale_grain,utp,LocName,0,-1,Bale,건초 더미
+q3_bale_static,utp,LocName,0,-1,Bale,건초 더미
+q3_deaddrow,utp,LocName,0,14731,Corpse,시체
+q3_goblinchest,utp,Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",낮고 평평한 이 궤짝은 상인의 거래 장부를 보관하기 위해 설계된 것 같습니다.
+q3_illithidlight,utp,LocName,0,14719,Shaft of Light,빛줄기
+q3_inv_ilithid,utp,LocName,0,5800,Invisible Ilithid,투명 일리시드
+q3_jewel_box,utp,LocName,0,5348,Jewel Box,보석 상자
+q3_kobold_chest,utp,LocName,0,83439,Kobold Chest,코볼트 상자
+q3_lightrock,utp,Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+q3_orbpedestal,utp,LocName,0,84567,Orb Pedestal,오브 받침대
+q3_plc_box,utp,LocName,0,-1,Box,상자
+q3_plc_explosive,utp,LocName,0,5738,Explosive Barrel,폭발 통
+q3_plc_grain,utp,LocName,0,-1,Grain,곡물
+q3_psioniclight,utp,LocName,0,14719,Psionic Gem,염력 보석
+q3_undeadchest,utp,Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",낮고 평평한 이 궤짝은 상인의 거래 장부를 보관하기 위해 설계된 것 같습니다.
 q3af_temp_key,utp,Description,0,14595,"Red: North of Green
 Yellow: East of Red
 Blue: East of Purple
 Purple: South of Yellow
 Green: West of Purple
 Orange: North of Blue",
-q3af_temp_key,utp,LocName,0,5348,Key Box,
-q3af_urn_neast,utp,LocName,0,5745,North East Urn,
-q3af_urn_north,utp,LocName,0,5745,North Urn,
-q3af_urn_nwest,utp,LocName,0,5745,North West Urn,
-q3af_urn_seast,utp,LocName,0,5745,South East Urn,
-q3af_urn_south,utp,LocName,0,5745,South Urn,
-q3af_urn_swest,utp,LocName,0,5745,South West Urn,
-q3ag_plc_fallen,utp,Description,0,68811,These pieces of masonry look as if they may have been broken off a nearby structure.,
-q3ag_plc_infeste,utp,LocName,0,14641,Corpse,
-q3ag_plc_loose1,utp,Description,0,14736,"A few small stones are gathered here, their dull surfaces washed clean.",
-q3ag_plc_loose1,utp,LocName,0,5738,Loose Stones,
-q3ah_plc_invjump,utp,LocName,0,5800,Invisible Jump Object,
-q3ai_inv_q2ab,utp,LocName,0,5800,Invisible Door Object,
+q3af_temp_key,utp,LocName,0,5348,Key Box,열쇠 상자
+q3af_urn_neast,utp,LocName,0,5745,North East Urn,북동쪽 항아리
+q3af_urn_north,utp,LocName,0,5745,North Urn,북쪽 항아리
+q3af_urn_nwest,utp,LocName,0,5745,North West Urn,북서쪽 항아리
+q3af_urn_seast,utp,LocName,0,5745,South East Urn,남동쪽 항아리
+q3af_urn_south,utp,LocName,0,5745,South Urn,남쪽 항아리
+q3af_urn_swest,utp,LocName,0,5745,South West Urn,남서쪽 항아리
+q3ag_plc_fallen,utp,Description,0,68811,These pieces of masonry look as if they may have been broken off a nearby structure.,이 석재 조각들은 근처 구조물에서 떨어져 나온 것처럼 보입니다.
+q3ag_plc_infeste,utp,LocName,0,14641,Corpse,시체
+q3ag_plc_loose1,utp,Description,0,14736,"A few small stones are gathered here, their dull surfaces washed clean.","몇 개의 작은 돌이 여기에 모여 있는데, 돌의 둔탁한 표면은 깨끗하게 씻겨져 있습니다."
+q3ag_plc_loose1,utp,LocName,0,5738,Loose Stones,흔들리는 돌
+q3ah_plc_invjump,utp,LocName,0,5800,Invisible Jump Object,투명 점프 물체
+q3ai_inv_q2ab,utp,LocName,0,5800,Invisible Door Object,투명 문 물체
 q3d_doorlever,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
 q3h_gem_barrel,utp,Description,0,84582,[TEMP] Desc BlackBarrel	,
-q3h_gem_barrel,utp,LocName,0,84567,Crystal Crushing Barrel,
+q3h_gem_barrel,utp,LocName,0,84567,Crystal Crushing Barrel,수정 분쇄 통
 q3h_mantilever,utp,Description,0,14632,Set Leviosa Plot to complete without trap,
-q3h_mantilever,utp,LocName,0,14633,Lever,
-signpost001,utp,LocName,0,5732,North - Emerald Hills  West- Keep of Cyan,
+q3h_mantilever,utp,LocName,0,14633,Lever,레버
+signpost001,utp,LocName,0,5732,North - Emerald Hills  West- Keep of Cyan,북 - 에메랄드 언덕  서 - 시안 요새

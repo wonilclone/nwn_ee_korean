@@ -1,4 +1,4 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 ak_st_0_disciple,dlg,EntryList/1/Text,0,-1,"Speak with Ghasaran, <Race> <man/woman>! He desires to share words with you, and you shall do as he commands!",
 ak_st_0_disciple,dlg,EntryList/2/Text,0,-1,"<< Set owner's journal quest to ""JT_PREL_KARA"" >>",
 ak_st_0_disciple,dlg,EntryList/3/Text,0,-1,"<< Set owner's journal quest to ""JT_PREL_KARA_2"" >>",
@@ -78,7 +78,7 @@ animalcompanion,dlg,EntryList/4/Text,0,-1,<StartAction> The creature looks curio
 animalcompanion,dlg,EntryList/5/Text,0,-1,<StartAction> The creature looks askance at you. </Start>,
 animalcompanion,dlg,EntryList/6/Text,0,-1,<StartAction> The creature nods its agreement. </Start>,
 animalcompanion,dlg,EntryList/7/Text,0,-1,<StartAction>You now have a container with your companion's items.</Start>,
-animalcompanion,dlg,ReplyList/10/Text,0,58441,Me needs you to do something else.,
+animalcompanion,dlg,ReplyList/10/Text,0,58441,Me needs you to do something else.,다른 걸 해야겠어.
 animalcompanion,dlg,ReplyList/12/Text,0,-1,Me needs you to be faster. Stop look out now.,
 animalcompanion,dlg,ReplyList/14/Text,0,-1,Me can't see you. Stop hides now.,
 animalcompanion,dlg,ReplyList/2/Text,0,-1,I am done managing your inventory.,
@@ -303,17 +303,17 @@ familiar,dlg,EntryList/25/Text,0,-1,I will try to be brave and join the fight wi
 familiar,dlg,EntryList/26/Text,0,-1,As you command---I wil try to fight and run away when it gets scary!,
 familiar,dlg,EntryList/27/Text,0,-1,"I will avoid danger, attacking only the weakest enemies.",
 familiar,dlg,EntryList/28/Text,0,-1,Thank you <master/mistress> ! I am honored that you care for my wishes!,
-familiar,dlg,EntryList/29/Text,0,58511,"As you desire, <master/mistress>. I shall stop being so watchful.",
+familiar,dlg,EntryList/29/Text,0,58511,"As you desire, <master/mistress>. I shall stop being so watchful.","분부대로, <master/mistress>. 경계하겠지만 조금 느려질 거예요."
 familiar,dlg,EntryList/3/Text,0,-1,You now have a container with any items I possess.,
-familiar,dlg,EntryList/30/Text,0,58512,"I shall return from the shadows, <master/mistress>...",
+familiar,dlg,EntryList/30/Text,0,58512,"I shall return from the shadows, <master/mistress>...","가능할 때마다 숨어 있을게요, <master/mistress>... 조금 느려지겠지만요."
 familiar,dlg,EntryList/34/Text,0,-1,Tell me what to do; I will obey you.,
 familiar,dlg,EntryList/35/Text,0,-1,"My life is forfeit then, o Master. I will try my best.",
 familiar,dlg,EntryList/36/Text,0,-1,I will try to be brave and join the fight with you always!,
 familiar,dlg,EntryList/37/Text,0,-1,As you command---I wil try to fight and run away when it gets scary!,
 familiar,dlg,EntryList/38/Text,0,-1,"I will avoid danger, attacking only the weakest enemies.",
 familiar,dlg,EntryList/39/Text,0,-1,Thank you <master/mistress> ! I am honored that you care for my wishes!,
-familiar,dlg,EntryList/40/Text,0,58511,"As you desire, <master/mistress>. I shall stop being so watchful.",
-familiar,dlg,EntryList/42/Text,0,58512,"I shall return from the shadows, <master/mistress>...",
+familiar,dlg,EntryList/40/Text,0,58511,"As you desire, <master/mistress>. I shall stop being so watchful.","분부대로, <master/mistress>. 경계하겠지만 조금 느려질 거예요."
+familiar,dlg,EntryList/42/Text,0,58512,"I shall return from the shadows, <master/mistress>...","가능할 때마다 숨어 있을게요, <master/mistress>... 조금 느려지겠지만요."
 familiar,dlg,ReplyList/1/Text,0,-1,I am done managing your inventory.,
 familiar,dlg,ReplyList/11/Text,0,-1,You makin boo boos. You do somefin diffent way?,
 familiar,dlg,ReplyList/12/Text,0,-1,Stop you being wimp eh? We fight.. Die if we haf ta!,
@@ -321,8 +321,8 @@ familiar,dlg,ReplyList/13/Text,0,-1,"You big toughy. Stay wif me always, unless 
 familiar,dlg,ReplyList/14/Text,0,-1,You fight lots wif me. All but dem real nasty ones.,
 familiar,dlg,ReplyList/15/Text,0,-1,You dun keep get hurt. Leave em all but the little uns.,
 familiar,dlg,ReplyList/16/Text,0,-1,You do what you fink is good eh.,
-familiar,dlg,ReplyList/17/Text,0,58483,You dun go real slow. Stop lookin around so much eh?,
-familiar,dlg,ReplyList/19/Text,0,58485,Where is you? Come back where me can see you.,
+familiar,dlg,ReplyList/17/Text,0,58483,You dun go real slow. Stop lookin around so much eh?,주변을 잘 살펴.
+familiar,dlg,ReplyList/19/Text,0,58485,Where is you? Come back where me can see you.,시야에서 더 벗어나 있어.
 familiar,dlg,ReplyList/2/Text,0,-1,I would like to manage your inventory.,
 familiar,dlg,ReplyList/25/Text,0,-1,I want you to behave differently when we face danger.,
 familiar,dlg,ReplyList/26/Text,0,-1,I want you to fight for me to the death!,
@@ -331,9 +331,9 @@ familiar,dlg,ReplyList/28/Text,0,-1,Try not to get into trouble. Avoid tough foe
 familiar,dlg,ReplyList/29/Text,0,-1,"I don't want you to get hurt, my friend. Try to avoid all but the easiest combat.",
 familiar,dlg,ReplyList/3/Text,0,-1,Please show me your inventory.,
 familiar,dlg,ReplyList/30/Text,0,-1,Trust your instincts when enemies approach us. I want you to be comfortable.,
-familiar,dlg,ReplyList/31/Text,0,58483,I don't need you to search anymore.,
-familiar,dlg,ReplyList/33/Text,0,58485,You can return to sight now.,
-familiar,dlg,ReplyList/9/Text,0,58479,Me needs you to do something else.,
+familiar,dlg,ReplyList/31/Text,0,58483,I don't need you to search anymore.,주변을 잘 살펴.
+familiar,dlg,ReplyList/33/Text,0,58485,You can return to sight now.,시야에서 더 벗어나 있어.
+familiar,dlg,ReplyList/9/Text,0,58479,Me needs you to do something else.,네가 하는 일을 바꿔야겠어.
 ghaar_alia,dlg,EntryList/1/Text,0,-1,"That enchantment I placed on the Irilium Crystals seems to have greatly weakened Janthos' golems. And just in time, too, judging by how all those Crimson Followers tried to turn them against us...",
 ghaar_alia,dlg,EntryList/10/Text,0,-1,"Ah, Irilium Crystals. In the end, they're just stones like any other and I know a spell or two that should influence them. They won't destroy the golems but it should make them a little less dangerous at least. Are you really willing to do this for me?",
 ghaar_alia,dlg,EntryList/11/Text,0,-1,"If you say so, citizen <LastName>. If you've got something to do, then you had best go do it. I'll be fine right here, thank you very much...",
@@ -1549,13 +1549,13 @@ ghaar_zhiram,dlg,ReplyList/9/Text,0,-1,"Interesting, but I truly must be leaving
 hench_bruk,dlg,EntryList/1/Text,0,-1,"I welcome you into the ShadowGuard, my <brother/sister>...",
 hench_bruk,dlg,EntryList/10/Text,0,-1,"No time for words now, friend... Time to go!",
 hench_bruk,dlg,EntryList/100/Text,0,-1,"Very well, I will heal you only if I am not in hand-to-hand combat.",
-hench_bruk,dlg,EntryList/101/Text,0,56180,As you wish.,
-hench_bruk,dlg,EntryList/102/Text,0,56147,And how far away do you need me?,
-hench_bruk,dlg,EntryList/103/Text,0,56174,"I do hope you are not trying tell me something, but I shall do as you wish.",
-hench_bruk,dlg,EntryList/104/Text,0,56173,"Not too close, then, and not too far. I get it.",
-hench_bruk,dlg,EntryList/105/Text,0,56172,Fine. I shall stay as close as is reasonable.,
-hench_bruk,dlg,EntryList/106/Text,0,62539,I can do that. When the combat begins I'll rush in and use melee weapons.,
-hench_bruk,dlg,EntryList/107/Text,0,62540,Of course. When the combat begins I'll stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.,
+hench_bruk,dlg,EntryList/101/Text,0,56180,As you wish.,알겠어.
+hench_bruk,dlg,EntryList/102/Text,0,56147,And how far away do you need me?,얼마나 떨어져 있으면 돼?
+hench_bruk,dlg,EntryList/103/Text,0,56174,"I do hope you are not trying tell me something, but I shall do as you wish.",오? 내가 방해돼? 알겠어... 거리를 둘게.
+hench_bruk,dlg,EntryList/104/Text,0,56173,"Not too close, then, and not too far. I get it.","너무 가깝지도 멀지도 않게, 알겠어."
+hench_bruk,dlg,EntryList/105/Text,0,56172,Fine. I shall stay as close as is reasonable.,좋아. 합리적인 만큼 가까이 있을게.
+hench_bruk,dlg,EntryList/106/Text,0,62539,I can do that. When the combat begins I'll rush in and use melee weapons.,"그렇게 할 수 있어. 전투가 시작되면 여전히 주문을 사용하겠지만, 마법을 사용하지 않을 때는 돌진해서 근접 무기를 사용할게."
+hench_bruk,dlg,EntryList/107/Text,0,62540,Of course. When the combat begins I'll stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.,"물론이지. 전투가 시작되면 여전히 주문을 사용하겠지만, 뒤에 머물러서 거리에서 원거리 무기로 공격할게."
 hench_bruk,dlg,EntryList/108/Text,0,-1,What would you like me to do?,
 hench_bruk,dlg,EntryList/109/Text,0,-1,Very well. I will avoid melee combat unless I am cornered.,
 hench_bruk,dlg,EntryList/11/Text,0,-1,Even demons bleed...,
@@ -1565,7 +1565,7 @@ hench_bruk,dlg,EntryList/112/Text,0,-1,"Very well, I'll wait until the last poss
 hench_bruk,dlg,EntryList/113/Text,0,-1,Very well. I will do what I feel is best.,
 hench_bruk,dlg,EntryList/114/Text,0,-1,There is no need to scout ahead. We are safe here. ,
 hench_bruk,dlg,EntryList/115/Text,0,-1,I'll see what I can find.,
-hench_bruk,dlg,EntryList/116/Text,0,56222,"Hold on, then. Give me a moment to rest, and I'll be ready to assist you.",
+hench_bruk,dlg,EntryList/116/Text,0,56222,"Hold on, then. Give me a moment to rest, and I'll be ready to assist you.","잠깐만. 쉴 시간을 좀 주면, 도울 준비가 될게."
 hench_bruk,dlg,EntryList/117/Text,0,-1,"<< Set owner's journal quest to ""JT_PREL_TARI"" >>",
 hench_bruk,dlg,EntryList/12/Text,0,-1,RARGHH!,
 hench_bruk,dlg,EntryList/13/Text,0,-1,"Destroy him, Harkon! Tear that fool apart!",
@@ -1642,22 +1642,22 @@ hench_bruk,dlg,EntryList/8/Text,0,-1,"<< Activates ""N_TALK_SWITCH"" if ""N_MODU
 hench_bruk,dlg,EntryList/80/Text,0,-1,"<StartAction>[The man's cold gaze fixes upon you.]</Start> If you need something, talk to the halfling.",
 hench_bruk,dlg,EntryList/81/Text,0,-1,"<< Activates ""N_TALK_SWITCH"" if ""N_MODULE_STAGE"" is 0. >>",
 hench_bruk,dlg,EntryList/82/Text,0,-1,"<< This conversation node does nothing but reset the variable ""N_TALK_SWITCH"" >>",
-hench_bruk,dlg,EntryList/83/Text,0,56145,"What do you wish of me, <FirstName>?",
-hench_bruk,dlg,EntryList/84/Text,0,56168,"<StartAction>[Lyen eyes you for a moment, and turns away.]</Start>",
-hench_bruk,dlg,EntryList/85/Text,0,56150,Are you certain? I feel I may still be of some use to you.,
+hench_bruk,dlg,EntryList/83/Text,0,56145,"What do you wish of me, <FirstName>?","응, 왜? 무슨 일이야?"
+hench_bruk,dlg,EntryList/84/Text,0,56168,"<StartAction>[Lyen eyes you for a moment, and turns away.]</Start>",알겠어.
+hench_bruk,dlg,EntryList/85/Text,0,56150,Are you certain? I feel I may still be of some use to you.,"그렇게 생각해? 흠. 정말 그러길 원한다면, 필요 없는 곳에서 돕지 않을게."
 hench_bruk,dlg,EntryList/86/Text,0,-1,"I'm glad to hear you say that. We should start moving, there is still much to do.",
-hench_bruk,dlg,EntryList/87/Text,0,56169,"Very well, I'll return to the Ravenclaw tavern. You can find me there if you are ever in need of my skills.",
+hench_bruk,dlg,EntryList/87/Text,0,56169,"Very well, I'll return to the Ravenclaw tavern. You can find me there if you are ever in need of my skills.",그럼 가. 마음이 바뀌면 여기서 찾을 수 있을 거야.
 hench_bruk,dlg,EntryList/88/Text,0,-1,"As you wish, <FirstName>.",
-hench_bruk,dlg,EntryList/89/Text,0,56146,"My services are at your command, <FirstName>.",
+hench_bruk,dlg,EntryList/89/Text,0,56146,"My services are at your command, <FirstName>.",다른 걸 하길 원해? 예를 들면?
 hench_bruk,dlg,EntryList/9/Text,0,-1,Talk to Vhorkas...,
 hench_bruk,dlg,EntryList/90/Text,0,-1,Very well.,
 hench_bruk,dlg,EntryList/91/Text,0,-1,Very well.,
-hench_bruk,dlg,EntryList/92/Text,0,56186,"Fine, I shall leave such things to you.",
-hench_bruk,dlg,EntryList/93/Text,0,56185,"Of course, I can always help with that.",
-hench_bruk,dlg,EntryList/94/Text,0,56184,"And walk out in the open? All right, if you wish.",
-hench_bruk,dlg,EntryList/95/Text,0,56183,My pleasure.,
-hench_bruk,dlg,EntryList/96/Text,0,56182,"Very well, I will no longer search while we are moving.",
-hench_bruk,dlg,EntryList/97/Text,0,56181,"Very well, I will no longer search while we are moving.",
+hench_bruk,dlg,EntryList/92/Text,0,56186,"Fine, I shall leave such things to you.","좋아, 직접 열어."
+hench_bruk,dlg,EntryList/93/Text,0,56185,"Of course, I can always help with that.","물론, 언제든 도울 수 있어."
+hench_bruk,dlg,EntryList/94/Text,0,56184,"And walk out in the open? All right, if you wish.","그리고 개방된 곳을 걸으라고? 알겠어, 원한다면."
+hench_bruk,dlg,EntryList/95/Text,0,56183,My pleasure.,기꺼이.
+hench_bruk,dlg,EntryList/96/Text,0,56182,"Very well, I will no longer search while we are moving.","알겠어, 이동할 때마다 탐색할게."
+hench_bruk,dlg,EntryList/97/Text,0,56181,"Very well, I will no longer search while we are moving.","알겠어, 이동 중에는 더 이상 탐색하지 않을게."
 hench_bruk,dlg,EntryList/99/Text,0,-1,I will try to heal you even if I am being attacked at close range.,
 hench_bruk,dlg,ReplyList/0/Text,0,-1,"No, I work better alone.",
 hench_bruk,dlg,ReplyList/1/Text,0,-1,"Yes, I would.",
@@ -1702,9 +1702,9 @@ hench_bruk,dlg,ReplyList/57/Text,0,-1,"That's really not necessary, Lyen...",
 hench_bruk,dlg,ReplyList/58/Text,0,-1,"I can do better on my own, Lyen. Stay here.",
 hench_bruk,dlg,ReplyList/61/Text,0,-1,"<StartAction>[Sigh]</Start> Then please, join me Lyen.",
 hench_bruk,dlg,ReplyList/62/Text,0,-1,Let's go then.,
-hench_bruk,dlg,ReplyList/69/Text,0,55683,I think we should part paths for the moment.,
+hench_bruk,dlg,ReplyList/69/Text,0,55683,I think we should part paths for the moment.,혼자가 더 나을 것 같아.
 hench_bruk,dlg,ReplyList/7/Text,0,-1,Where is Tarin now?,
-hench_bruk,dlg,ReplyList/72/Text,0,55739,"Not at the moment, Lyen. Perhaps later.",
+hench_bruk,dlg,ReplyList/72/Text,0,55739,"Not at the moment, Lyen. Perhaps later.",그래. 가.
 hench_bruk,dlg,ReplyList/74/Text,0,-1,I would like to manage your inventory.,
 hench_bruk,dlg,ReplyList/77/Text,0,-1,Back to my other questions,
 hench_bruk,dlg,ReplyList/78/Text,0,-1,Could you please not disable traps?,
@@ -1804,7 +1804,7 @@ hench_kara,dlg,EntryList/18/Text,0,-1,"<StartAction>[Kara turns her dark eyes to
 hench_kara,dlg,EntryList/180/Text,0,-1,"<< Set owner's journal quest to ""JT_PREL_KARA"" >>",
 hench_kara,dlg,EntryList/181/Text,0,-1,"<< Activates ""N_TALK_SWITCH"" if ""N_MODULE_STAGE"" is 0. >>",
 hench_kara,dlg,EntryList/182/Text,0,-1,"<< This conversation node does nothing but reset the variable ""N_TALK_SWITCH"" >>",
-hench_kara,dlg,EntryList/183/Text,0,56145,"What may I do for you, <FirstName>?",
+hench_kara,dlg,EntryList/183/Text,0,56145,"What may I do for you, <FirstName>?","응, 왜? 무슨 일이야?"
 hench_kara,dlg,EntryList/185/Text,0,-1,"As you wish, <FirstName>.",
 hench_kara,dlg,EntryList/186/Text,0,-1,"It is a painful and draining experience to summon forth a dweller of the Underworld, <FirstName>. I can do as you ask, but I will be required to rest afterwards if I am to accomplish such a feat again.",
 hench_kara,dlg,EntryList/187/Text,0,-1,Are you sure you still wish for me to do this?,
@@ -1832,17 +1832,17 @@ hench_kara,dlg,EntryList/205/Text,0,-1,You already have all the protections I ca
 hench_kara,dlg,EntryList/206/Text,0,-1,No one here needs the protections I've got ready.,
 hench_kara,dlg,EntryList/207/Text,0,-1,Sorry: I've done all I can.,
 hench_kara,dlg,EntryList/208/Text,0,-1,"As you wish, <FirstName>.",
-hench_kara,dlg,EntryList/209/Text,0,56150,"If you feel such is necessary, <FirstName>, then so be it. I shall await you here should you require my services once more.",
+hench_kara,dlg,EntryList/209/Text,0,56150,"If you feel such is necessary, <FirstName>, then so be it. I shall await you here should you require my services once more.","그렇게 생각해? 흠. 정말 그러길 원한다면, 필요 없는 곳에서 돕지 않을게."
 hench_kara,dlg,EntryList/21/Text,0,-1,"Do you wish for me to join you on the trip to the docks? I am a priestess of no small skill, and may prove valuable to you.",
 hench_kara,dlg,EntryList/210/Text,0,-1,"Very well, then, <FirstName>. I shall stay by your side for the time being.",
-hench_kara,dlg,EntryList/211/Text,0,56169,"Very well, <FirstName>. I shall go for now. Feel free to seek me out should you need my assistance at a later time.",
-hench_kara,dlg,EntryList/212/Text,0,56146,"My services are at your command, <FirstName>.",
+hench_kara,dlg,EntryList/211/Text,0,56169,"Very well, <FirstName>. I shall go for now. Feel free to seek me out should you need my assistance at a later time.",그럼 가. 마음이 바뀌면 여기서 찾을 수 있을 거야.
+hench_kara,dlg,EntryList/212/Text,0,56146,"My services are at your command, <FirstName>.",다른 걸 하길 원해? 예를 들면?
 hench_kara,dlg,EntryList/213/Text,0,-1,"Very well, <FirstName>.",
 hench_kara,dlg,EntryList/214/Text,0,-1,"Very well, <FirstName>.",
 hench_kara,dlg,EntryList/22/Text,0,-1,"Then lead the way, <FirstName>, and I shall follow.",
 hench_kara,dlg,EntryList/222/Text,0,-1,I will try to heal you even if I am being attacked at close range.,
 hench_kara,dlg,EntryList/223/Text,0,-1,"Very well, I will heal you only if I am not in hand-to-hand combat.",
-hench_kara,dlg,EntryList/224/Text,0,56180,As you wish.,
+hench_kara,dlg,EntryList/224/Text,0,56180,As you wish.,알겠어.
 hench_kara,dlg,EntryList/229/Text,0,-1,"Why, what is the matter with what I'm doing now?",
 hench_kara,dlg,EntryList/23/Text,0,-1,"<< Set owner's journal quest to ""JT_ST_1_MAIN"" >>",
 hench_kara,dlg,EntryList/230/Text,0,-1,"Very well, but I will still refrain from healing you if I am in close-range combat.",
@@ -1853,7 +1853,7 @@ hench_kara,dlg,EntryList/234/Text,0,-1,"Very well, I won't use spells unless we 
 hench_kara,dlg,EntryList/235/Text,0,-1,I'll try to do a better job at conserving them.,
 hench_kara,dlg,EntryList/236/Text,0,-1,Magic is an effective way to deal with our enemies. I'll do as you say.,
 hench_kara,dlg,EntryList/237/Text,0,-1,Sounds good. I'll cast when I feel comfortable doing so.,
-hench_kara,dlg,EntryList/239/Text,0,62540,"Of course. When the combat begins I'll still use my spells, but I'll also stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.",
+hench_kara,dlg,EntryList/239/Text,0,62540,"Of course. When the combat begins I'll still use my spells, but I'll also stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.","물론이지. 전투가 시작되면 여전히 주문을 사용하겠지만, 뒤에 머물러서 거리에서 원거리 무기로 공격할게."
 hench_kara,dlg,EntryList/24/Text,0,-1,"<< Set owner's journal quest to ""JT_PREL_KARA"" >>",
 hench_kara,dlg,EntryList/240/Text,0,-1,Sure. What would you like me to do?,
 hench_kara,dlg,EntryList/241/Text,0,-1,Very well. I will avoid melee combat unless I am cornered.,
@@ -2013,9 +2013,9 @@ hench_kara,dlg,ReplyList/202/Text,0,-1,Please magically enhance my familiar.,
 hench_kara,dlg,ReplyList/203/Text,0,-1,Please magically enhance me for battle.,
 hench_kara,dlg,ReplyList/205/Text,0,-1,Buff the party up for battle with all your spells!,
 hench_kara,dlg,ReplyList/207/Text,0,-1,I would like to manage your inventory.,
-hench_kara,dlg,ReplyList/209/Text,0,55683,I feel that we should part paths for the moment.,
+hench_kara,dlg,ReplyList/209/Text,0,55683,I feel that we should part paths for the moment.,혼자가 더 나을 것 같아.
 hench_kara,dlg,ReplyList/21/Text,0,-1,What do you know of Overlord Vhorkas?,
-hench_kara,dlg,ReplyList/210/Text,0,55740,"On second thought, how about staying around for a while?",
+hench_kara,dlg,ReplyList/210/Text,0,55740,"On second thought, how about staying around for a while?",아니. 있어.
 hench_kara,dlg,ReplyList/216/Text,0,-1,Could you please not disable traps?,
 hench_kara,dlg,ReplyList/217/Text,0,-1,Could you please disable traps?,
 hench_kara,dlg,ReplyList/23/Text,0,-1,Can you tell me a bit about Tarin Lightfingers?,
@@ -2104,7 +2104,7 @@ hench_lyen,dlg,EntryList/129/Text,0,-1,"<< Set owner's journal quest to ""JT_PRE
 hench_lyen,dlg,EntryList/13/Text,0,-1,"Shall we be on our way to the Docks once more, <FirstName>?",
 hench_lyen,dlg,EntryList/130/Text,0,-1,"<< Activates ""N_TALK_SWITCH"" if ""N_MODULE_STAGE"" is 0. >>",
 hench_lyen,dlg,EntryList/131/Text,0,-1,"<< This conversation node does nothing but reset the variable ""N_TALK_SWITCH"" >>",
-hench_lyen,dlg,EntryList/132/Text,0,56145,"What do you wish of me, <FirstName>?",
+hench_lyen,dlg,EntryList/132/Text,0,56145,"What do you wish of me, <FirstName>?","응, 왜? 무슨 일이야?"
 hench_lyen,dlg,EntryList/134/Text,0,-1,"As you wish, <FirstName>.",
 hench_lyen,dlg,EntryList/135/Text,0,-1,"As you wish, <FirstName>. I hope that we may continue to work with one another at a later time, and I bid you a fond farewell.",
 hench_lyen,dlg,EntryList/136/Text,0,-1,"Should you decide that you do indeed need my aid, you may find me within the Imperial Academy. Farewell, and good luck.",
@@ -2112,17 +2112,17 @@ hench_lyen,dlg,EntryList/137/Text,0,-1,"I ask that you remain at my side for the
 hench_lyen,dlg,EntryList/138/Text,0,-1,"<< Set owner's journal quest to ""JT_PREL_LYEN"" >>",
 hench_lyen,dlg,EntryList/139/Text,0,-1,"<< Activates ""N_TALK_SWITCH"" if ""N_MODULE_STAGE"" is 0. >>",
 hench_lyen,dlg,EntryList/14/Text,0,-1,"As you wish, <FirstName>. Be wary of danger, and know I shall await your return here, should you need my assistance further.",
-hench_lyen,dlg,EntryList/140/Text,0,56146,"My services are at your command, <FirstName>.",
+hench_lyen,dlg,EntryList/140/Text,0,56146,"My services are at your command, <FirstName>.",다른 걸 하길 원해? 예를 들면?
 hench_lyen,dlg,EntryList/141/Text,0,-1,"Very well, <FirstName>.",
 hench_lyen,dlg,EntryList/142/Text,0,-1,"Very well, <FirstName>.",
-hench_lyen,dlg,EntryList/143/Text,0,56186,"Fine, as shall leave such things to you.",
+hench_lyen,dlg,EntryList/143/Text,0,56186,"Fine, as shall leave such things to you.","좋아, 직접 열어."
 hench_lyen,dlg,EntryList/15/Text,0,-1,"Markius wishes to speak you, <lad/lass>. It seems Ghaarak is no longer safe for you...",
 hench_lyen,dlg,EntryList/150/Text,0,-1,I will try to heal you even if I am being attacked at close range.,
 hench_lyen,dlg,EntryList/151/Text,0,-1,"Very well, I will heal you only if I am not in hand-to-hand combat.",
-hench_lyen,dlg,EntryList/152/Text,0,56180,As you wish.,
-hench_lyen,dlg,EntryList/154/Text,0,56174,"I do hope you are not trying tell me something, but I shall do as you wish.",
-hench_lyen,dlg,EntryList/157/Text,0,62539,I can do that. When the combat begins I'll rush in and use melee weapons.,
-hench_lyen,dlg,EntryList/158/Text,0,62540,Of course. When the combat begins I'll stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.,
+hench_lyen,dlg,EntryList/152/Text,0,56180,As you wish.,알겠어.
+hench_lyen,dlg,EntryList/154/Text,0,56174,"I do hope you are not trying tell me something, but I shall do as you wish.",오? 내가 방해돼? 알겠어... 거리를 둘게.
+hench_lyen,dlg,EntryList/157/Text,0,62539,I can do that. When the combat begins I'll rush in and use melee weapons.,"그렇게 할 수 있어. 전투가 시작되면 여전히 주문을 사용하겠지만, 마법을 사용하지 않을 때는 돌진해서 근접 무기를 사용할게."
+hench_lyen,dlg,EntryList/158/Text,0,62540,Of course. When the combat begins I'll stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.,"물론이지. 전투가 시작되면 여전히 주문을 사용하겠지만, 뒤에 머물러서 거리에서 원거리 무기로 공격할게."
 hench_lyen,dlg,EntryList/159/Text,0,-1,What would you like me to do?,
 hench_lyen,dlg,EntryList/16/Text,0,-1,"<StartAction>[The tall, grim man standing before you appears expressionless as you approach.]</Start>",
 hench_lyen,dlg,EntryList/160/Text,0,-1,Very well. I will avoid melee combat unless I am cornered.,
@@ -2247,7 +2247,7 @@ hench_lyen,dlg,ReplyList/13/Text,0,-1,And where is this Harkon now?,
 hench_lyen,dlg,ReplyList/130/Text,0,-1,"Fair enough, I will assist you.",
 hench_lyen,dlg,ReplyList/132/Text,0,-1,Markius? You must be the one Instructor Jarvis sent me to meet.,
 hench_lyen,dlg,ReplyList/134/Text,0,-1,I would like to manage your inventory.,
-hench_lyen,dlg,ReplyList/136/Text,0,55683,I feel that we should part paths for the moment.,
+hench_lyen,dlg,ReplyList/136/Text,0,55683,I feel that we should part paths for the moment.,혼자가 더 나을 것 같아.
 hench_lyen,dlg,ReplyList/142/Text,0,-1,Could you please not disable traps?,
 hench_lyen,dlg,ReplyList/143/Text,0,-1,Could you please disable traps?,
 hench_lyen,dlg,ReplyList/15/Text,0,-1,Not right now.,
@@ -2402,7 +2402,7 @@ hench_mark,dlg,EntryList/187/Text,0,-1,"<< Set owner's journal quest to ""JT_PRE
 hench_mark,dlg,EntryList/188/Text,0,-1,"<< Activates ""N_TALK_SWITCH"" if ""N_MODULE_STAGE"" is 0. >>",
 hench_mark,dlg,EntryList/189/Text,0,-1,"<< This conversation node does nothing but reset the variable ""N_TALK_SWITCH"" >>",
 hench_mark,dlg,EntryList/19/Text,0,-1,"Of course, Harkon... <StartAction>[Markius turns towards you.]</Start> <FirstName>, it seems there is little hope remaining for Ghaarak. You must come with us to our ship!",
-hench_mark,dlg,EntryList/190/Text,0,56145,"What do you wish of me, <FirstName>?",
+hench_mark,dlg,EntryList/190/Text,0,56145,"What do you wish of me, <FirstName>?","응, 왜? 무슨 일이야?"
 hench_mark,dlg,EntryList/192/Text,0,-1,"What part of my inventory would you like to manage, <FirstName>?",
 hench_mark,dlg,EntryList/193/Text,0,-1,Which item would you like me to unequip?,
 hench_mark,dlg,EntryList/194/Text,0,-1,"Very well, <FirstName>. I have unequipped all my items.",
@@ -2425,16 +2425,16 @@ hench_mark,dlg,EntryList/208/Text,0,-1,"As you wish, <FirstName>. I hope that we
 hench_mark,dlg,EntryList/209/Text,0,-1,"Should you decide that you do indeed need my aid, I will be waiting in the Imperial Academy. Seek me out there should you feel you need my assistance.",
 hench_mark,dlg,EntryList/21/Text,0,-1,"<StartAction>[Markius seems flustered by your response.]</Start> There is no time for this, <FirstName>! The Crimson Followers are entering the Docks as we speak, and the rest of the city is poised to fall as well!",
 hench_mark,dlg,EntryList/210/Text,0,-1,"I am afraid I cannot depart your company just yet, <FirstName>. Come, let us be on our way.",
-hench_mark,dlg,EntryList/211/Text,0,56146,"My services are at your command, <FirstName>.",
+hench_mark,dlg,EntryList/211/Text,0,56146,"My services are at your command, <FirstName>.",다른 걸 하길 원해? 예를 들면?
 hench_mark,dlg,EntryList/212/Text,0,-1,"Very well, <FirstName>.",
 hench_mark,dlg,EntryList/213/Text,0,-1,"Very well, <FirstName>.",
 hench_mark,dlg,EntryList/22/Text,0,-1,"Once we are away from the city, I promise to tell you more of our purpose, but for now we do not have time! You must come quickly!",
 hench_mark,dlg,EntryList/221/Text,0,-1,I will try to heal you even if I am being attacked at close range.,
 hench_mark,dlg,EntryList/222/Text,0,-1,"Very well, I will heal you only if I am not in hand-to-hand combat.",
-hench_mark,dlg,EntryList/223/Text,0,56180,As you wish.,
-hench_mark,dlg,EntryList/225/Text,0,56174,"I hope this is a wise decision, as I am far more skilled on the front lines of battle, but I shall do as you command.",
-hench_mark,dlg,EntryList/228/Text,0,62539,I can do that. When the combat begins I'll rush in and use melee weapons.,
-hench_mark,dlg,EntryList/229/Text,0,62540,Of course. When the combat begins I'll stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.,
+hench_mark,dlg,EntryList/223/Text,0,56180,As you wish.,알겠어.
+hench_mark,dlg,EntryList/225/Text,0,56174,"I hope this is a wise decision, as I am far more skilled on the front lines of battle, but I shall do as you command.",오? 내가 방해돼? 알겠어... 거리를 둘게.
+hench_mark,dlg,EntryList/228/Text,0,62539,I can do that. When the combat begins I'll rush in and use melee weapons.,"그렇게 할 수 있어. 전투가 시작되면 여전히 주문을 사용하겠지만, 마법을 사용하지 않을 때는 돌진해서 근접 무기를 사용할게."
+hench_mark,dlg,EntryList/229/Text,0,62540,Of course. When the combat begins I'll stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.,"물론이지. 전투가 시작되면 여전히 주문을 사용하겠지만, 뒤에 머물러서 거리에서 원거리 무기로 공격할게."
 hench_mark,dlg,EntryList/23/Text,0,-1,"For Rakha and the glory of the Sharakhan Empire, these foul demons shall fall!",
 hench_mark,dlg,EntryList/230/Text,0,-1,Sure. What would you like me to do?,
 hench_mark,dlg,EntryList/231/Text,0,-1,Very well. I will avoid melee combat unless I am cornered.,
@@ -2688,7 +2688,7 @@ hench_mark,dlg,ReplyList/300/Text,0,-1,<CUSTOM11004><CUSTOM11019>,
 hench_mark,dlg,ReplyList/301/Text,0,-1,<CUSTOM11003><CUSTOM11018>,
 hench_mark,dlg,ReplyList/302/Text,0,-1,<CUSTOM11002><CUSTOM11017>,
 hench_mark,dlg,ReplyList/303/Text,0,-1,<CUSTOM11001><CUSTOM11016>,
-hench_mark,dlg,ReplyList/305/Text,0,55683,I feel that we should part paths for the moment.,
+hench_mark,dlg,ReplyList/305/Text,0,55683,I feel that we should part paths for the moment.,혼자가 더 나을 것 같아.
 hench_mark,dlg,ReplyList/311/Text,0,-1,Could you please not disable traps?,
 hench_mark,dlg,ReplyList/312/Text,0,-1,Could you please disable traps?,
 hench_mark,dlg,ReplyList/32/Text,0,-1,I will not end my days in this miserable place!,
@@ -2849,24 +2849,24 @@ hench_tarin,dlg,EntryList/178/Text,0,-1,"<StartAction>[Suddenly, you notice the 
 hench_tarin,dlg,EntryList/179/Text,0,-1,"Really? He said that? Well, if that's what he chooses to consider me, consider me honored.",
 hench_tarin,dlg,EntryList/18/Text,0,-1,"You lent me your aid against Nightcrawler's men, now let me give you mine! I have all manner of useful roguish skills, all of which I am willing to put at your disposal, <FirstName>!",
 hench_tarin,dlg,EntryList/180/Text,0,-1,"<< Activates ""N_TALK_SWITCH"" if ""N_MODULE_STAGE"" is 0. >>",
-hench_tarin,dlg,EntryList/181/Text,0,56145,"What can ol' Tarin Lightfingers do for you, <CUSTOM6004>?",
+hench_tarin,dlg,EntryList/181/Text,0,56145,"What can ol' Tarin Lightfingers do for you, <CUSTOM6004>?","응, 왜? 무슨 일이야?"
 hench_tarin,dlg,EntryList/183/Text,0,-1,I think we're safe enough here.,
 hench_tarin,dlg,EntryList/184/Text,0,-1,Very well.,
 hench_tarin,dlg,EntryList/185/Text,0,-1,"What part of my inventory would you like to manage, <FirstName>?",
-hench_tarin,dlg,EntryList/186/Text,0,56145,"What do you wish of me, <FirstName>?",
+hench_tarin,dlg,EntryList/186/Text,0,56145,"What do you wish of me, <FirstName>?","응, 왜? 무슨 일이야?"
 hench_tarin,dlg,EntryList/189/Text,0,-1,"As you wish, <FirstName>. I hope that we may continue to work with one another at a later time, but for now I bid you farewell.",
 hench_tarin,dlg,EntryList/190/Text,0,-1,"Should you decide that you do indeed need my aid, I will be in the Imperial District. Seek me out there should you feel you need my assistance.",
-hench_tarin,dlg,EntryList/191/Text,0,56146,"My services are at your command, <FirstName>.",
+hench_tarin,dlg,EntryList/191/Text,0,56146,"My services are at your command, <FirstName>.",다른 걸 하길 원해? 예를 들면?
 hench_tarin,dlg,EntryList/192/Text,0,-1,"Very well, <FirstName>.",
 hench_tarin,dlg,EntryList/193/Text,0,-1,"Very well, <FirstName>.",
 hench_tarin,dlg,EntryList/2/Text,0,-1,Would you like some help in your mission?,
 hench_tarin,dlg,EntryList/20/Text,0,-1,"Good to see you again, <FirstName>, though I regret that it has to be under such unfortunate circumstances...",
 hench_tarin,dlg,EntryList/201/Text,0,-1,I will try to heal you even if I am being attacked at close range.,
 hench_tarin,dlg,EntryList/202/Text,0,-1,"Very well, I will heal you only if I am not in hand-to-hand combat.",
-hench_tarin,dlg,EntryList/203/Text,0,56180,As you wish.,
-hench_tarin,dlg,EntryList/205/Text,0,56174,"I hope this is a wise decision, as I am far more skilled on the front lines of battle, but I shall do as you command.",
-hench_tarin,dlg,EntryList/208/Text,0,62539,I can do that. When the combat begins I'll rush in and use melee weapons.,
-hench_tarin,dlg,EntryList/209/Text,0,62540,Of course. When the combat begins I'll stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.,
+hench_tarin,dlg,EntryList/203/Text,0,56180,As you wish.,알겠어.
+hench_tarin,dlg,EntryList/205/Text,0,56174,"I hope this is a wise decision, as I am far more skilled on the front lines of battle, but I shall do as you command.",오? 내가 방해돼? 알겠어... 거리를 둘게.
+hench_tarin,dlg,EntryList/208/Text,0,62539,I can do that. When the combat begins I'll rush in and use melee weapons.,"그렇게 할 수 있어. 전투가 시작되면 여전히 주문을 사용하겠지만, 마법을 사용하지 않을 때는 돌진해서 근접 무기를 사용할게."
+hench_tarin,dlg,EntryList/209/Text,0,62540,Of course. When the combat begins I'll stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.,"물론이지. 전투가 시작되면 여전히 주문을 사용하겠지만, 뒤에 머물러서 거리에서 원거리 무기로 공격할게."
 hench_tarin,dlg,EntryList/21/Text,0,-1,"Aye, at least for the time being anyway. You see, these fine chaps are helping me pay off some of my old gambling debts... They're fairly nice folk as well, once you get used to 'em...",
 hench_tarin,dlg,EntryList/210/Text,0,-1,Sure. What would you like me to do?,
 hench_tarin,dlg,EntryList/211/Text,0,-1,Very well. I will avoid melee combat unless I am cornered.,
@@ -2908,8 +2908,8 @@ hench_tarin,dlg,EntryList/25/Text,0,-1,"Lead the way, <FirstName>! You can count
 hench_tarin,dlg,EntryList/253/Text,0,-1,I will try to heal you even if I am being attacked at close range.,
 hench_tarin,dlg,EntryList/254/Text,0,-1,"Very well, I will heal you only if I am not in hand-to-hand combat.",
 hench_tarin,dlg,EntryList/26/Text,0,-1,"<< Set owner's journal quest to ""JT_ST_1_MAIN"" >>",
-hench_tarin,dlg,EntryList/261/Text,0,56175,Is there anything else?,
-hench_tarin,dlg,EntryList/263/Text,0,62540,"Of course. When the combat begins I'll still use my spells, but I'll also stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.",
+hench_tarin,dlg,EntryList/261/Text,0,56175,Is there anything else?,다른 건 없어?
+hench_tarin,dlg,EntryList/263/Text,0,62540,"Of course. When the combat begins I'll still use my spells, but I'll also stay back and attack with my ranged weapons from a distance. I'll switch weapons if the enemies get too close.","물론이지. 전투가 시작되면 여전히 주문을 사용하겠지만, 뒤에 머물러서 거리에서 원거리 무기로 공격할게."
 hench_tarin,dlg,EntryList/264/Text,0,-1,Sure. What would you like me to do?,
 hench_tarin,dlg,EntryList/265/Text,0,-1,Very well. I will avoid melee combat unless I am cornered.,
 hench_tarin,dlg,EntryList/266/Text,0,-1,They will not catch me off-guard!,
@@ -3055,7 +3055,7 @@ hench_tarin,dlg,ReplyList/190/Text,0,-1,Scout ahead for enemies. Engage in comba
 hench_tarin,dlg,ReplyList/191/Text,0,-1,I would like to manage your inventory.,
 hench_tarin,dlg,ReplyList/192/Text,0,-1,I do not wish to manage your inventory any further at this time.,
 hench_tarin,dlg,ReplyList/194/Text,0,-1,Please try to identify my items.,
-hench_tarin,dlg,ReplyList/197/Text,0,55683,I feel that we should part paths for the moment.,
+hench_tarin,dlg,ReplyList/197/Text,0,55683,I feel that we should part paths for the moment.,혼자가 더 나을 것 같아.
 hench_tarin,dlg,ReplyList/2/Text,0,-1,"Perhaps, but I'd rather you stay here for now...",
 hench_tarin,dlg,ReplyList/202/Text,0,-1,Could you please not disable traps?,
 hench_tarin,dlg,ReplyList/203/Text,0,-1,Could you please disable traps?,

@@ -1,4 +1,4 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 a2_puzzfloor,dlg,EntryList/0/Text,0,-1,"You gaze at the empty tile, pondering what to do...",
 a2_puzzfloor,dlg,EntryList/1/Text,0,-1,What direction would you like the arrow to face?,
 a2_puzzfloor,dlg,EntryList/2/Text,0,-1,"You lay the arrow down, snapping it into place on the tiled floor.",
@@ -176,151 +176,151 @@ When the statue breaks, don't you run,
 You'll find the prize, once you've beaten it.",
 id1_follower,dlg,EntryList/0/Text,0,-1,What do you need?,
 id1_follower,dlg,EntryList/1/Text,0,-1,Are you sure you want me to leave? I doubt we'll meet again.,
-id1_follower,dlg,EntryList/10/Text,0,102765,I will try my best to get past any locks.,
-id1_follower,dlg,EntryList/11/Text,0,102766,"Where would you have me, then?",
-id1_follower,dlg,EntryList/12/Text,0,102767,Right!,
-id1_follower,dlg,EntryList/13/Text,0,102768,"Jump right into the fray, got it.",
-id1_follower,dlg,EntryList/14/Text,0,102769,"I won't rush into combat, unless you need help.",
+id1_follower,dlg,EntryList/10/Text,0,102765,I will try my best to get past any locks.,"그가 어깨를 으쓱합니다. ""필요하면 두들겨서 열 수는 있어. 그 점에선 은밀함은 기대하지 마."""
+id1_follower,dlg,EntryList/11/Text,0,102766,"Where would you have me, then?","""그럼 어디에 있으면 될까요?"""
+id1_follower,dlg,EntryList/12/Text,0,102767,Right!,그가 아무 말 없이 동의하며 고개를 끄덕입니다.
+id1_follower,dlg,EntryList/13/Text,0,102768,"Jump right into the fray, got it.","그가 고개를 끄덕입니다. ""믿기 힘들겠지만, 전투의 한복판으로 돌진할 때 가장 효과적이에요."""
+id1_follower,dlg,EntryList/14/Text,0,102769,"I won't rush into combat, unless you need help.","""말씀대로 뒤를 지키며 따르겠습니다."""
 id1_follower,dlg,EntryList/15/Text,0,-1,Any other changes?,
 id1_follower,dlg,EntryList/16/Text,0,-1,"I guess you're the boss, for now. What do you need?",
-id1_follower,dlg,EntryList/17/Text,0,101787,Which spell did you want me to cast?,
-id1_follower,dlg,EntryList/18/Text,0,101788,An interesting choice. Are you certain about that?,
-id1_follower,dlg,EntryList/19/Text,0,101791,"What were you looking for, short or long term spells?",
-id1_follower,dlg,EntryList/2/Text,0,102758,How would you like me to act?,
-id1_follower,dlg,EntryList/20/Text,0,101789,Who is the target of my casting?,
-id1_follower,dlg,EntryList/21/Text,0,101790,I shall do my best.,
-id1_follower,dlg,EntryList/22/Text,0,102771,I can take a look. No promises.,
+id1_follower,dlg,EntryList/17/Text,0,101787,Which spell did you want me to cast?,"""제 마법은 당신이 사용하실 수 있어요. 어떤 주문을 시전하길 원하세요?"""
+id1_follower,dlg,EntryList/18/Text,0,101788,An interesting choice. Are you certain about that?,"""확실하세요?"""
+id1_follower,dlg,EntryList/19/Text,0,101791,"What were you looking for, short or long term spells?","""현명한 결정이에요. 많은 전투가 준비 부족으로 패배하죠. 어떤 종류의 강화 주문을 시전하길 원하세요?"""
+id1_follower,dlg,EntryList/2/Text,0,102758,How would you like me to act?,"""어떻게 행동해야 하는지 말씀해주시면 그렇게 노력하겠습니다."""
+id1_follower,dlg,EntryList/20/Text,0,101789,Who is the target of my casting?,"""그럼 제 마법의 대상은 누구여야 하나요?"""
+id1_follower,dlg,EntryList/21/Text,0,101790,I shall do my best.,"""금방 끝날 거예요."""
+id1_follower,dlg,EntryList/22/Text,0,102771,I can take a look. No promises.,"""마법 지식은 심연에 있을 때 들은 몇 가지 이야기에 국한되어 있어요. 가지고 있는 것들을 살펴보고 알아보는 게 있으면 말씀드릴게요... 하지만 별로 자신 없어요."""
 id1_follower,dlg,EntryList/23/Text,0,-1,Was there anything else you wanted?,
-id1_follower,dlg,EntryList/24/Text,0,102770,If that's what you want.,
+id1_follower,dlg,EntryList/24/Text,0,102770,If that's what you want.,그가 배낭을 벗어 아무 말 없이 당신에게 건넵니다.
 id1_follower,dlg,EntryList/25/Text,0,-1,I'm perfectly fine. Thank you for asking.,
 id1_follower,dlg,EntryList/26/Text,0,-1,I can feel some kind of poison burning in my blood.,
 id1_follower,dlg,EntryList/27/Text,0,-1,"I am in a little pain, but nothing a short rest couldn't cure.",
 id1_follower,dlg,EntryList/28/Text,0,-1,"I'm on the brink of death. I need healing, badly.",
 id1_follower,dlg,EntryList/3/Text,0,-1,Good enough. What else?,
-id1_follower,dlg,EntryList/4/Text,0,102759,No touching the traps. Right.,
-id1_follower,dlg,EntryList/5/Text,0,102760,I will do my best to get rid of any traps we spot.,
-id1_follower,dlg,EntryList/6/Text,0,102761,No more stealth. Right.,
-id1_follower,dlg,EntryList/7/Text,0,102762,"I will be in the shadows, should you need me.",
-id1_follower,dlg,EntryList/8/Text,0,102763,Right. Stay quiet and out of sight.,
-id1_follower,dlg,EntryList/9/Text,0,102764,I'll leave that to you.,
-id1_follower,dlg,ReplyList/0/Text,0,103358,"Thanks, that's everything.",
-id1_follower,dlg,ReplyList/1/Text,0,103359,I don't need your help anymore.,
-id1_follower,dlg,ReplyList/10/Text,0,103367,Don't try to be stealthy anymore.,
-id1_follower,dlg,ReplyList/100/Text,0,102379,Displacement.,
-id1_follower,dlg,ReplyList/101/Text,0,102380,Dispel Magic.,
-id1_follower,dlg,ReplyList/102/Text,0,102381,Death Ward.,
-id1_follower,dlg,ReplyList/103/Text,0,102382,Death Armor.,
-id1_follower,dlg,ReplyList/104/Text,0,102383,Create Undead.,
-id1_follower,dlg,ReplyList/105/Text,0,102384,Continual Flame.,
-id1_follower,dlg,ReplyList/106/Text,0,102385,Clarity.,
-id1_follower,dlg,ReplyList/107/Text,0,102386,Cat's Grace.,
-id1_follower,dlg,ReplyList/108/Text,0,102387,Bull's Strength.,
-id1_follower,dlg,ReplyList/109/Text,0,102403,Bless.,
-id1_follower,dlg,ReplyList/110/Text,0,102404,Animate Dead.,
+id1_follower,dlg,EntryList/4/Text,0,102759,No touching the traps. Right.,"""좋아요. 제가 함정을 '해제'하는 방법을 생각하면 훨씬 덜 고통스럽겠네요."""
+id1_follower,dlg,EntryList/5/Text,0,102760,I will do my best to get rid of any traps we spot.,"그가 눈썹을 치켜올리며 반쯤 웃습니다. ""내가 할 수 있다고 생각하면 해보지."""
+id1_follower,dlg,EntryList/6/Text,0,102761,No more stealth. Right.,"그가 고개를 끄덕입니다. ""어차피 실제로 탐지를 피하고 있었던 건 아니니까요."""
+id1_follower,dlg,EntryList/7/Text,0,102762,"I will be in the shadows, should you need me.","""그럼 전투가 시작될 때까지 최대한 조용히 할게요."""
+id1_follower,dlg,EntryList/8/Text,0,102763,Right. Stay quiet and out of sight.,"그가 잠깐 비웃습니다. ""난 그림자 속에 숨는 자가 아니야, <FirstName>, 하지만 네게 도움이 된다면 양동이를 발로 차는 건 피하도록 노력할게."""
+id1_follower,dlg,EntryList/9/Text,0,102764,I'll leave that to you.,"""그렇게 하죠. 어차피 자물쇠를 부숴야 할 테니까요."""
+id1_follower,dlg,ReplyList/0/Text,0,103358,"Thanks, that's everything.","""신경 쓰지 마."""
+id1_follower,dlg,ReplyList/1/Text,0,103359,I don't need your help anymore.,"""우리 헤어져야 할 것 같아."""
+id1_follower,dlg,ReplyList/10/Text,0,103367,Don't try to be stealthy anymore.,"""이제 은밀하게 행동하지 마."""
+id1_follower,dlg,ReplyList/100/Text,0,102379,Displacement.,"""변위."""
+id1_follower,dlg,ReplyList/101/Text,0,102380,Dispel Magic.,"""주문해제."""
+id1_follower,dlg,ReplyList/102/Text,0,102381,Death Ward.,"""죽음 방비."""
+id1_follower,dlg,ReplyList/103/Text,0,102382,Death Armor.,"""죽음의 갑옷."""
+id1_follower,dlg,ReplyList/104/Text,0,102383,Create Undead.,"""언데드 생성."""
+id1_follower,dlg,ReplyList/105/Text,0,102384,Continual Flame.,"""영속 불꽃."""
+id1_follower,dlg,ReplyList/106/Text,0,102385,Clarity.,"""맑은 정신."""
+id1_follower,dlg,ReplyList/107/Text,0,102386,Cat's Grace.,"""고양이의 우아함."""
+id1_follower,dlg,ReplyList/108/Text,0,102387,Bull's Strength.,"""황소의 근력."""
+id1_follower,dlg,ReplyList/109/Text,0,102403,Bless.,"""축복."""
+id1_follower,dlg,ReplyList/110/Text,0,102404,Animate Dead.,"""시체 조종."""
 id1_follower,dlg,ReplyList/111/Text,0,-1,"Oops, wrong spell. Let me pick another one.",
-id1_follower,dlg,ReplyList/112/Text,0,102373,"Yes, go ahead.",
-id1_follower,dlg,ReplyList/113/Text,0,102405,Aid.,
-id1_follower,dlg,ReplyList/114/Text,0,102406,I need you to cast some buffing spells.,
+id1_follower,dlg,ReplyList/112/Text,0,102373,"Yes, go ahead.","""그래, 계속해."""
+id1_follower,dlg,ReplyList/113/Text,0,102405,Aid.,"""지원."""
+id1_follower,dlg,ReplyList/114/Text,0,102406,I need you to cast some buffing spells.,"""강화 주문들을 시전해야겠어."""
 id1_follower,dlg,ReplyList/115/Text,0,-1,I've changed my mind.,
-id1_follower,dlg,ReplyList/116/Text,0,102408,Give me everything you've got.,
-id1_follower,dlg,ReplyList/117/Text,0,102409,Cast your long-term buffing spells.,
-id1_follower,dlg,ReplyList/118/Text,0,102410,Cast your short duration buffing spells.,
-id1_follower,dlg,ReplyList/119/Text,0,102389,Target all the party members.,
-id1_follower,dlg,ReplyList/12/Text,0,103368,"Stay stealthy, but only until the next fight.",
-id1_follower,dlg,ReplyList/120/Text,0,102394,Target yourself.,
-id1_follower,dlg,ReplyList/121/Text,0,102399,Target my animal companion.,
-id1_follower,dlg,ReplyList/122/Text,0,102400,Target my familiar.,
-id1_follower,dlg,ReplyList/123/Text,0,102401,Target me.,
-id1_follower,dlg,ReplyList/124/Text,0,102402,Target yourself.,
-id1_follower,dlg,ReplyList/126/Text,0,103379,Can you identify my equipment?,
-id1_follower,dlg,ReplyList/128/Text,0,103378,I want to adjust your equipment.,
+id1_follower,dlg,ReplyList/116/Text,0,102408,Give me everything you've got.,"""가진 강화 주문 전부 시전해."""
+id1_follower,dlg,ReplyList/117/Text,0,102409,Cast your long-term buffing spells.,"""지속시간이 긴 강화 주문 전부 시전해."""
+id1_follower,dlg,ReplyList/118/Text,0,102410,Cast your short duration buffing spells.,"""지속시간이 짧은 강화 주문 전부 시전해."""
+id1_follower,dlg,ReplyList/119/Text,0,102389,Target all the party members.,"""모든 파티원에게 시전해."""
+id1_follower,dlg,ReplyList/12/Text,0,103368,"Stay stealthy, but only until the next fight.","""은밀하게 행동해, 하지만 다음 전투까지만."""
+id1_follower,dlg,ReplyList/120/Text,0,102394,Target yourself.,"""<CUSTOM77105>에게 시전해."""
+id1_follower,dlg,ReplyList/121/Text,0,102399,Target my animal companion.,"""내 동물 동료에게 시전해."""
+id1_follower,dlg,ReplyList/122/Text,0,102400,Target my familiar.,"""내 사역마에게 시전해."""
+id1_follower,dlg,ReplyList/123/Text,0,102401,Target me.,"""나에게 시전해."""
+id1_follower,dlg,ReplyList/124/Text,0,102402,Target yourself.,"""너 자신에게 시전해."""
+id1_follower,dlg,ReplyList/126/Text,0,103379,Can you identify my equipment?,"""내 장비를 감정해줄 수 있어?"""
+id1_follower,dlg,ReplyList/128/Text,0,103378,I want to adjust your equipment.,"""장비를 조정했으면 해."""
 id1_follower,dlg,ReplyList/130/Text,0,-1,How are you feeling right now?,
-id1_follower,dlg,ReplyList/14/Text,0,103369,Try to remain stealthy all the time.,
-id1_follower,dlg,ReplyList/16/Text,0,103370,Don't help me if I fail to open a locked door or chest.,
-id1_follower,dlg,ReplyList/18/Text,0,103371,Help me if I fail to open a locked door or chest.,
+id1_follower,dlg,ReplyList/14/Text,0,103369,Try to remain stealthy all the time.,"""항상 은밀하게 행동하도록 해."""
+id1_follower,dlg,ReplyList/16/Text,0,103370,Don't help me if I fail to open a locked door or chest.,"""잠긴 문이나 상자를 여는 데 실패하면 돕지 마."""
+id1_follower,dlg,ReplyList/18/Text,0,103371,Help me if I fail to open a locked door or chest.,"""잠긴 문이나 상자를 여는 데 실패하면 도와줘."""
 id1_follower,dlg,ReplyList/2/Text,0,-1,Stay with me.,
-id1_follower,dlg,ReplyList/20/Text,0,103372,I want to change the distance you stay away from me.,
-id1_follower,dlg,ReplyList/21/Text,0,103373,Stay a long distance away.,
-id1_follower,dlg,ReplyList/22/Text,0,103374,Keep a medium distance.,
-id1_follower,dlg,ReplyList/23/Text,0,103375,Stay close.,
-id1_follower,dlg,ReplyList/25/Text,0,103376,Go ahead and attack as soon as you see enemies.,
-id1_follower,dlg,ReplyList/27/Text,0,103377,Defend me and don't attack until I do.,
+id1_follower,dlg,ReplyList/20/Text,0,103372,I want to change the distance you stay away from me.,"""나와의 거리를 조정했으면 좋겠어."""
+id1_follower,dlg,ReplyList/21/Text,0,103373,Stay a long distance away.,먼 거리를 유지해.
+id1_follower,dlg,ReplyList/22/Text,0,103374,Keep a medium distance.,중간 거리를 유지해.
+id1_follower,dlg,ReplyList/23/Text,0,103375,Stay close.,가까이 있어.
+id1_follower,dlg,ReplyList/25/Text,0,103376,Go ahead and attack as soon as you see enemies.,"""적을 보는 즉시 공격해."""
+id1_follower,dlg,ReplyList/27/Text,0,103377,Defend me and don't attack until I do.,"""날 방어하고 내가 공격하기 전까지 공격하지 마."""
 id1_follower,dlg,ReplyList/29/Text,0,-1,I need you to do something for me.,
 id1_follower,dlg,ReplyList/3/Text,0,-1,Leave me.,
-id1_follower,dlg,ReplyList/30/Text,0,102306,I need you to cast a specific spell.,
-id1_follower,dlg,ReplyList/31/Text,0,102308,Ultravision.,
-id1_follower,dlg,ReplyList/32/Text,0,102309,True Seeing.,
-id1_follower,dlg,ReplyList/33/Text,0,102310,Summon Creature IX.,
-id1_follower,dlg,ReplyList/34/Text,0,102311,Summon Creature VIII.,
-id1_follower,dlg,ReplyList/35/Text,0,102312,Summon Creature VII.,
-id1_follower,dlg,ReplyList/36/Text,0,102313,Summon Creature VI.,
-id1_follower,dlg,ReplyList/37/Text,0,102314,Summon Creature V.,
-id1_follower,dlg,ReplyList/38/Text,0,102315,Summon Creature IV.,
-id1_follower,dlg,ReplyList/39/Text,0,102316,Summon Creature III.,
-id1_follower,dlg,ReplyList/4/Text,0,103363,I want to change your tactics.,
-id1_follower,dlg,ReplyList/40/Text,0,102317,Summon Creature II.,
-id1_follower,dlg,ReplyList/41/Text,0,102318,Summon Creature I.,
-id1_follower,dlg,ReplyList/42/Text,0,102319,Stoneskin.,
-id1_follower,dlg,ReplyList/43/Text,0,102320,Spell Resistance.,
-id1_follower,dlg,ReplyList/44/Text,0,102321,Spell Mantle.,
-id1_follower,dlg,ReplyList/45/Text,0,102322,Shield of Faith.,
-id1_follower,dlg,ReplyList/46/Text,0,102323,Shield.,
-id1_follower,dlg,ReplyList/47/Text,0,102324,Shadow Shield.,
-id1_follower,dlg,ReplyList/48/Text,0,102325,See Invisibility.,
-id1_follower,dlg,ReplyList/49/Text,0,102326,Sanctuary.,
-id1_follower,dlg,ReplyList/5/Text,0,103364,I don't want to change any of your other tactics right now.,
-id1_follower,dlg,ReplyList/50/Text,0,102327,Restoration.,
-id1_follower,dlg,ReplyList/51/Text,0,102328,Resistance.,
-id1_follower,dlg,ReplyList/52/Text,0,102329,Resist Elements.,
-id1_follower,dlg,ReplyList/53/Text,0,102330,Remove Paralysis.,
-id1_follower,dlg,ReplyList/54/Text,0,102331,Remove Fear.,
-id1_follower,dlg,ReplyList/55/Text,0,102332,Remove Disease.,
-id1_follower,dlg,ReplyList/56/Text,0,102333,Remove Curse.,
-id1_follower,dlg,ReplyList/57/Text,0,102334,Remove Blindness/Deafness.,
-id1_follower,dlg,ReplyList/58/Text,0,102335,Regenerate.,
-id1_follower,dlg,ReplyList/59/Text,0,102336,Protection From Spells.,
-id1_follower,dlg,ReplyList/6/Text,0,103365,I want you to leave any traps that you see alone for now.,
-id1_follower,dlg,ReplyList/60/Text,0,102337,Protection From Elements.,
-id1_follower,dlg,ReplyList/61/Text,0,102338,Premonition.,
-id1_follower,dlg,ReplyList/62/Text,0,102339,Prayer.,
-id1_follower,dlg,ReplyList/63/Text,0,102340,Owl's Wisdom.,
-id1_follower,dlg,ReplyList/64/Text,0,102341,Neutralize poison.,
-id1_follower,dlg,ReplyList/65/Text,0,102342,Monstrous Regeneration.,
-id1_follower,dlg,ReplyList/66/Text,0,102343,Minor Globe of Invulnerability.,
-id1_follower,dlg,ReplyList/67/Text,0,102344,Mind Blank.,
-id1_follower,dlg,ReplyList/68/Text,0,102345,Mestil's Acid Sheath.,
-id1_follower,dlg,ReplyList/69/Text,0,102346,Mass Haste.,
-id1_follower,dlg,ReplyList/70/Text,0,102347,Magical Vestment.,
-id1_follower,dlg,ReplyList/71/Text,0,102348,Mage Armor.,
-id1_follower,dlg,ReplyList/72/Text,0,102349,Light.,
-id1_follower,dlg,ReplyList/73/Text,0,102350,Lesser Spell Mantle.,
-id1_follower,dlg,ReplyList/74/Text,0,102351,Lesser Restoration.,
-id1_follower,dlg,ReplyList/75/Text,0,102352,Lesser Mind Blank,
-id1_follower,dlg,ReplyList/76/Text,0,102353,Lesser Dispel.,
-id1_follower,dlg,ReplyList/77/Text,0,102354,Knock.,
-id1_follower,dlg,ReplyList/78/Text,0,102355,Invisibility Sphere.,
-id1_follower,dlg,ReplyList/79/Text,0,102356,Invisibility.,
-id1_follower,dlg,ReplyList/8/Text,0,103366,I want you to disarm any traps that you see.,
-id1_follower,dlg,ReplyList/80/Text,0,102357,Improved Invisibility.,
-id1_follower,dlg,ReplyList/81/Text,0,102358,Haste.,
-id1_follower,dlg,ReplyList/82/Text,0,102359,Greater Stoneskin.,
-id1_follower,dlg,ReplyList/83/Text,0,102360,Greater Spell Mantle.,
-id1_follower,dlg,ReplyList/84/Text,0,102361,Greater Sanctuary.,
-id1_follower,dlg,ReplyList/85/Text,0,102362,Greater Restoration.,
-id1_follower,dlg,ReplyList/86/Text,0,102363,Greater Dispelling.,
-id1_follower,dlg,ReplyList/87/Text,0,102364,Globe of Invulnerability.,
-id1_follower,dlg,ReplyList/88/Text,0,102365,Ghostly Visage.,
-id1_follower,dlg,ReplyList/89/Text,0,102366,Freedom of Movement.,
-id1_follower,dlg,ReplyList/90/Text,0,102367,Fox's Cunning.,
-id1_follower,dlg,ReplyList/91/Text,0,102368,Find Traps.,
-id1_follower,dlg,ReplyList/92/Text,0,102369,Ethereal Visage.,
-id1_follower,dlg,ReplyList/93/Text,0,102370,Entropic Shield.,
-id1_follower,dlg,ReplyList/94/Text,0,102371,Energy Buffer.,
-id1_follower,dlg,ReplyList/95/Text,0,102374,Endure Elements.,
-id1_follower,dlg,ReplyList/96/Text,0,102375,Endurance.,
-id1_follower,dlg,ReplyList/97/Text,0,102376,Elemental Shield.,
-id1_follower,dlg,ReplyList/98/Text,0,102377,Eagle's Splendor.,
-id1_follower,dlg,ReplyList/99/Text,0,102378,Divine Power.,
+id1_follower,dlg,ReplyList/30/Text,0,102306,I need you to cast a specific spell.,"""주문을 시전해줘야겠어."""
+id1_follower,dlg,ReplyList/31/Text,0,102308,Ultravision.,"""초시야."""
+id1_follower,dlg,ReplyList/32/Text,0,102309,True Seeing.,"""진실의 시야."""
+id1_follower,dlg,ReplyList/33/Text,0,102310,Summon Creature IX.,"""생명체 소환 9."""
+id1_follower,dlg,ReplyList/34/Text,0,102311,Summon Creature VIII.,"""생명체 소환 8."""
+id1_follower,dlg,ReplyList/35/Text,0,102312,Summon Creature VII.,"""생명체 소환 7."""
+id1_follower,dlg,ReplyList/36/Text,0,102313,Summon Creature VI.,"""생명체 소환 6."""
+id1_follower,dlg,ReplyList/37/Text,0,102314,Summon Creature V.,"""생명체 소환 5."""
+id1_follower,dlg,ReplyList/38/Text,0,102315,Summon Creature IV.,"""생명체 소환 4."""
+id1_follower,dlg,ReplyList/39/Text,0,102316,Summon Creature III.,"""생명체 소환 3."""
+id1_follower,dlg,ReplyList/4/Text,0,103363,I want to change your tactics.,"""전술을 바꿨으면 좋겠어."""
+id1_follower,dlg,ReplyList/40/Text,0,102317,Summon Creature II.,"""생명체 소환 2."""
+id1_follower,dlg,ReplyList/41/Text,0,102318,Summon Creature I.,"""생명체 소환 1."""
+id1_follower,dlg,ReplyList/42/Text,0,102319,Stoneskin.,"""돌 피부."""
+id1_follower,dlg,ReplyList/43/Text,0,102320,Spell Resistance.,"""주문 저항."""
+id1_follower,dlg,ReplyList/44/Text,0,102321,Spell Mantle.,"""주문 망토."""
+id1_follower,dlg,ReplyList/45/Text,0,102322,Shield of Faith.,"""믿음의 방패."""
+id1_follower,dlg,ReplyList/46/Text,0,102323,Shield.,"""방패."""
+id1_follower,dlg,ReplyList/47/Text,0,102324,Shadow Shield.,"""그림자 방패."""
+id1_follower,dlg,ReplyList/48/Text,0,102325,See Invisibility.,"""투명 간파."""
+id1_follower,dlg,ReplyList/49/Text,0,102326,Sanctuary.,"""성역."""
+id1_follower,dlg,ReplyList/5/Text,0,103364,I don't want to change any of your other tactics right now.,"""지금은 다른 건 바꾸고 싶지 않아."""
+id1_follower,dlg,ReplyList/50/Text,0,102327,Restoration.,"""회복."""
+id1_follower,dlg,ReplyList/51/Text,0,102328,Resistance.,"""저항."""
+id1_follower,dlg,ReplyList/52/Text,0,102329,Resist Elements.,"""원소 저항."""
+id1_follower,dlg,ReplyList/53/Text,0,102330,Remove Paralysis.,"""마비 해제."""
+id1_follower,dlg,ReplyList/54/Text,0,102331,Remove Fear.,"""공포 해제."""
+id1_follower,dlg,ReplyList/55/Text,0,102332,Remove Disease.,"""질병 해제."""
+id1_follower,dlg,ReplyList/56/Text,0,102333,Remove Curse.,"""저주 해제."""
+id1_follower,dlg,ReplyList/57/Text,0,102334,Remove Blindness/Deafness.,"""실명/청각 상실 해제."""
+id1_follower,dlg,ReplyList/58/Text,0,102335,Regenerate.,"""재생."""
+id1_follower,dlg,ReplyList/59/Text,0,102336,Protection From Spells.,"""주문으로부터 보호."""
+id1_follower,dlg,ReplyList/6/Text,0,103365,I want you to leave any traps that you see alone for now.,"""지금은 보이는 함정을 그대로 놔둬."""
+id1_follower,dlg,ReplyList/60/Text,0,102337,Protection From Elements.,"""원소로부터 보호."""
+id1_follower,dlg,ReplyList/61/Text,0,102338,Premonition.,"""예감."""
+id1_follower,dlg,ReplyList/62/Text,0,102339,Prayer.,"""기도."""
+id1_follower,dlg,ReplyList/63/Text,0,102340,Owl's Wisdom.,"""부엉이의 지혜."""
+id1_follower,dlg,ReplyList/64/Text,0,102341,Neutralize poison.,"""독성 무효화."""
+id1_follower,dlg,ReplyList/65/Text,0,102342,Monstrous Regeneration.,"""괴물같은 재생."""
+id1_follower,dlg,ReplyList/66/Text,0,102343,Minor Globe of Invulnerability.,"""하급 무적의 구체."""
+id1_follower,dlg,ReplyList/67/Text,0,102344,Mind Blank.,"""정신 차단."""
+id1_follower,dlg,ReplyList/68/Text,0,102345,Mestil's Acid Sheath.,"""메스틸의 산성 보호막."""
+id1_follower,dlg,ReplyList/69/Text,0,102346,Mass Haste.,"""대규모 가속."""
+id1_follower,dlg,ReplyList/70/Text,0,102347,Magical Vestment.,"""마법 의복."""
+id1_follower,dlg,ReplyList/71/Text,0,102348,Mage Armor.,"""마법학자 갑옷."""
+id1_follower,dlg,ReplyList/72/Text,0,102349,Light.,"""빛."""
+id1_follower,dlg,ReplyList/73/Text,0,102350,Lesser Spell Mantle.,"""하급 주문 망토."""
+id1_follower,dlg,ReplyList/74/Text,0,102351,Lesser Restoration.,"""하급 회복."""
+id1_follower,dlg,ReplyList/75/Text,0,102352,Lesser Mind Blank,"""하급 정신 차단."""
+id1_follower,dlg,ReplyList/76/Text,0,102353,Lesser Dispel.,"""하급 주문해제."""
+id1_follower,dlg,ReplyList/77/Text,0,102354,Knock.,"""개방."""
+id1_follower,dlg,ReplyList/78/Text,0,102355,Invisibility Sphere.,"""투명화 구체."""
+id1_follower,dlg,ReplyList/79/Text,0,102356,Invisibility.,"""투명화."""
+id1_follower,dlg,ReplyList/8/Text,0,103366,I want you to disarm any traps that you see.,"""보이는 함정은 모두 해제해."""
+id1_follower,dlg,ReplyList/80/Text,0,102357,Improved Invisibility.,"""우수한 투명화."""
+id1_follower,dlg,ReplyList/81/Text,0,102358,Haste.,"""가속."""
+id1_follower,dlg,ReplyList/82/Text,0,102359,Greater Stoneskin.,"""상급 돌 피부."""
+id1_follower,dlg,ReplyList/83/Text,0,102360,Greater Spell Mantle.,"""상급 주문 망토."""
+id1_follower,dlg,ReplyList/84/Text,0,102361,Greater Sanctuary.,"""상급 성역."""
+id1_follower,dlg,ReplyList/85/Text,0,102362,Greater Restoration.,"""상급 회복."""
+id1_follower,dlg,ReplyList/86/Text,0,102363,Greater Dispelling.,"""상급 주문해제."""
+id1_follower,dlg,ReplyList/87/Text,0,102364,Globe of Invulnerability.,"""무적의 구체."""
+id1_follower,dlg,ReplyList/88/Text,0,102365,Ghostly Visage.,"""유령의 형상."""
+id1_follower,dlg,ReplyList/89/Text,0,102366,Freedom of Movement.,"""자유 이동."""
+id1_follower,dlg,ReplyList/90/Text,0,102367,Fox's Cunning.,"""여우의 교활함."""
+id1_follower,dlg,ReplyList/91/Text,0,102368,Find Traps.,"""함정 찾기."""
+id1_follower,dlg,ReplyList/92/Text,0,102369,Ethereal Visage.,"""에테르 형상."""
+id1_follower,dlg,ReplyList/93/Text,0,102370,Entropic Shield.,"""혼돈의 보호막."""
+id1_follower,dlg,ReplyList/94/Text,0,102371,Energy Buffer.,"""에너지 감쇄."""
+id1_follower,dlg,ReplyList/95/Text,0,102374,Endure Elements.,"""원소 인내."""
+id1_follower,dlg,ReplyList/96/Text,0,102375,Endurance.,"""인내."""
+id1_follower,dlg,ReplyList/97/Text,0,102376,Elemental Shield.,"""원소 방패."""
+id1_follower,dlg,ReplyList/98/Text,0,102377,Eagle's Splendor.,"""독수리의 위엄."""
+id1_follower,dlg,ReplyList/99/Text,0,102378,Divine Power.,"""신성한 권능."""
 id1_forge,dlg,EntryList/1/Text,0,-1,Which property do you wish to add to this item?,
 id1_forge,dlg,EntryList/10/Text,0,-1,Which type of weight reduction power would you like to add to this item?,
 id1_forge,dlg,EntryList/11/Text,0,-1,Which type of vision related power would you like to add to this item?,

@@ -1,8 +1,8 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 blockwarehousebl,utp,LocName,0,111341,BlockWarehouseBlocker,
 cagewall,utp,LocName,0,68803,UlanWarehouseCageBlocker,
-ddf_inviswal001,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
-ddf_inviswal001,utp,LocName,0,111341,"Invisible Wall (blocks movement, visible for easy placement until initial state is set to ""Deactivated"").",
+ddf_inviswal001,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
+ddf_inviswal001,utp,LocName,0,111341,"Invisible Wall (blocks movement, visible for easy placement until initial state is set to ""Deactivated"").","Invisible Wall (blocks movement, visible for easy placement until initial state is set to \""Deactivated\"")."
 ddfflag1,utp,Description,0,-1,The flag of Furiae.,
 ddfflag1,utp,LocName,0,-1,DDF Flag 1,
 ddfflaga01,utp,Description,0,-1,The flag of Furiae.,
@@ -17,12 +17,12 @@ ddfplacard1,utp,Description,0,-1,The flag of Furiae.,
 ddfplacard1,utp,LocName,0,-1,DDF Placard 1,
 extdoormat,utp,Description,0,-1,A door mat,
 extdoormat,utp,LocName,0,-1,ExtDoorMat,
-invis_ros,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+invis_ros,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 invis_ros,utp,LocName,0,5800,Ring of Sending,
 invisobj,utp,LocName,0,5800,Invisible Interactive Object,
-invisobj001,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+invisobj001,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 invisobj001,utp,LocName,0,5800,Mysterious Voice,
-invisobj002,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+invisobj002,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 invisobj002,utp,LocName,0,5800,Nightmare Two Wake,
 ivy,utp,LocName,0,9208,Strong Ivy,
 pl_dlg_fs,utp,LocName,0,-1,Furiae Sentinel,

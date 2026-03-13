@@ -1,373 +1,412 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
-armhe006,uti,DescIdentified,0,40655,This helm mounts two special crystal lenses over the wearer's eyes that grant a +5 bonus to Spot checks. ,
-armhe008,uti,DescIdentified,0,40659,"This metallurgist's helm bears the distinctive look of gnomish make.  It has been specially constructed to allow an intricate series of lenses to swivel over the wearer's eyes. They enable much improved close-range vision and are very useful for locating or identifying features such as tiny seams, marks, cracks, or imperfections.  ",
+armhe006,uti,DescIdentified,0,40655,This helm mounts two special crystal lenses over the wearer's eyes that grant a +5 bonus to Spot checks. ,"이 투구는 착용자의 눈 위에 두 개의 특수 수정 렌즈를 달아 발견 판정에 +5 보너스를 줍니다.
+
+국경 수호에 철저한 달숲의 엘프들은 약탈하는 오크를 감시하고 숲을 지킬 때 활을 정확히 겨누기 위해 이 투구를 자주 씁니다."
+armhe008,uti,DescIdentified,0,40659,"This metallurgist's helm bears the distinctive look of gnomish make.  It has been specially constructed to allow an intricate series of lenses to swivel over the wearer's eyes. They enable much improved close-range vision and are very useful for locating or identifying features such as tiny seams, marks, cracks, or imperfections.  ","란탄 특유의 양식이 돋보이는 금속공의 투구입니다. 정교한 렌즈 여러 개가 눈 위로 돌아가도록 특수 제작되어 있어 근거리 시야가 크게 좋아지고, 작은 이음새나 자국, 균열, 결함 등을 찾아내는 데 아주 유용합니다.
+
+란탄의 고고학자들이 실험 장치를 다룰 때 조사용으로도, 보호구로도 쓸 수 있어 귀하게 여깁니다."
 armhe009,uti,DescIdentified,0,40661,"This helm mounts two lenses of dark crystal over the wearer's eyes. Even though the lenses are opaque, when placed over the eyes of the wearer they enable normal sight and also grant darkvision.
 
-Common equipment for adventurers who like to explore deep caves and underground ruins, these helms are also hailed as ""the great equalizer"" by humans and are quite popular among human rogues.",
-armhe010,uti,DescIdentified,0,40663,Woven round the brim of this helm is a light cord with a small gem set so that it rests upon the forehead of the wearer.  The magic of the headband has the power to dramatically sharpen the wearer's intellect.,
-armhe012,uti,DescIdentified,0,67761,"The god Callahi expects his followers to have ""honey-tongues"" when dealing with others. For those who do not come by this naturally, there are always magical enhancments. While many consider such enhancements to be mere vanity, many merchants will swear that they have doubled their profits with said assistance.",
-ashmlw005,uti,DescIdentified,0,12867,"Forged by clerics of Suhili, the sun goddess, these shields are constantly aglow with the golden fires of the sun. Depending on the skill and intent of the crafter, some Shields of the Sun carry more potent powers as well.",
+Common equipment for adventurers who like to explore deep caves and underground ruins, these helms are also hailed as ""the great equalizer"" by humans and are quite popular among human rogues.","눈 위에 짙은 수정 렌즈 두 개가 달린 투구입니다. 렌즈가 불투명하지만 쓰면 정상 시야는 물론 암시까지 얻게 됩니다.
+
+언더다크 모험가들 사이에서 흔한 장비로, 인간들은 ""위대한 평형추""라 부르며 특히 인간 도적들에게 인기가 높습니다."
+armhe010,uti,DescIdentified,0,40663,Woven round the brim of this helm is a light cord with a small gem set so that it rests upon the forehead of the wearer.  The magic of the headband has the power to dramatically sharpen the wearer's intellect.,"투구 테두리를 감은 가벼운 끈에 작은 보석이 박혀 이마에 닿게 되어 있습니다. 이 머리띠의 마법이 착용자의 지성을 비약적으로 높여줍니다.
+
+일부 마법사는 '편법'이라 여기지만, 많은 마법사가 열성적으로 찾으며 특히 테이의 붉은 마법사단에게 인기가 높습니다."
+armhe012,uti,DescIdentified,0,67761,"The god Callahi expects his followers to have ""honey-tongues"" when dealing with others. For those who do not come by this naturally, there are always magical enhancments. While many consider such enhancements to be mere vanity, many merchants will swear that they have doubled their profits with said assistance.","신 칼라히는 추종자들이 사람을 대할 때 ""꿀처럼 달콤한 혀""를 가지길 기대합니다. 이 투구는 착용자에게 그런 능력을 부여합니다."
+ashmlw005,uti,DescIdentified,0,12867,"Forged by clerics of Suhili, the sun goddess, these shields are constantly aglow with the golden fires of the sun. Depending on the skill and intent of the crafter, some Shields of the Sun carry more potent powers as well.","태양의 여신 수힐리의 사제들이 단조한 이 방패들은 항상 빛나고 있으며, 그 빛의 선이 일시적으로 적의 눈을 멀게 할 수 있습니다."
 cloth003,uti,DescIdentified,0,47613,"The lesser robe of eyes, like its more powerful counterpart, provides the wearer with improved vision and the ability to detect many things that are hidden. Once per day, the wearer can invoke the power of the robe to pierce the veil of invisibility or etherealness.
-",
-darkcloak,uti,LocalizedName,0,-1,Dark Cloak,
-dd_eastegg_km001,uti,DescIdentified,0,-1,The leather mask scowls at you. You're not entirely sure when or where you acquired it but it seems to have been in your pack for some time.,
-dd_eastegg_km001,uti,LocalizedName,0,-1,The Jester's Mask,
-drowkey,uti,LocalizedName,0,-1,Drow Key,
-duegarkey,uti,LocalizedName,0,-1,Duergar Key,
-ghostlyoutfit,uti,LocalizedName,0,-1,Ghostly Outfit,
-goblinkey,uti,LocalizedName,0,-1,Goblin Key,
-hen_hide_cal,uti,LocalizedName,0,-1,Calibast Hide,
-it_adahelm001,uti,DescIdentified,0,-1,"This is a very heavy helmet, made from a dense, durable metal. A small inscription on the inside of the helm says, ""Made in Stettler"". You've never heard of such a place, but it is most likely some lost civilization.",
+","하급 눈의 로브는 더 강력한 상위 물건처럼 착용자에게 향상된 시야와 숨겨진 많은 것들을 감지하는 능력을 제공합니다. 하루에 한 번, 착용자는 로브의 힘을 발동해 투명화나 에테르 상태의 장막을 꿰뚫을 수 있습니다.
+
+완전히 갑옷을 입지 않았을 때, 헬름의 더 강력한 성직자들은 무장을 유지할 수 없을 때도 경계를 유지할 수 있도록 이런 로브를 자주 입습니다."
+darkcloak,uti,LocalizedName,0,-1,Dark Cloak,어둠의 망토
+dd_eastegg_km001,uti,DescIdentified,0,-1,The leather mask scowls at you. You're not entirely sure when or where you acquired it but it seems to have been in your pack for some time.,가죽 가면이 당신을 노려봅니다. 언제 어디서 얻었는지 확실히 기억나지 않지만 꽤 오래전부터 배낭에 있었던 것 같습니다.
+dd_eastegg_km001,uti,LocalizedName,0,-1,The Jester's Mask,광대의 가면
+drowkey,uti,LocalizedName,0,-1,Drow Key,드로우 열쇠
+duegarkey,uti,LocalizedName,0,-1,Duergar Key,듀에르가 열쇠
+ghostlyoutfit,uti,LocalizedName,0,-1,Ghostly Outfit,유령의 의복
+goblinkey,uti,LocalizedName,0,-1,Goblin Key,고블린 열쇠
+hen_hide_cal,uti,LocalizedName,0,-1,Calibast Hide,칼리바스트의 가죽
+it_adahelm001,uti,DescIdentified,0,-1,"This is a very heavy helmet, made from a dense, durable metal. A small inscription on the inside of the helm says, ""Made in Stettler"". You've never heard of such a place, but it is most likely some lost civilization.","매우 무거운 투구로, 밀도 높고 내구성이 강한 금속으로 만들어졌습니다. 투구 안쪽에 ""스테틀러에서 제작""이라는 작은 글귀가 새겨져 있습니다. 그런 곳은 들어본 적 없지만, 아마 사라진 문명의 것일 겁니다."
 it_mbelt002,uti,DescIdentified,0,48287,"This simple rope belt, when wrapped around a person's waist, confers increased ability in unarmed combat.  
 
-When the Shining Moon order of monks were attacked by a rival order, it was necessary for some of the apprentices to rise more rapidly than they normally could. These belts allowed the younger monks to defend their order with great speed and skill.",
-it_mbelt006,uti,DescIdentified,0,13329,"Near the end of the Age of the Magi, legends tell that the first Emporer of Valratha used hunters who seemed to resist many of the spells used by their victims. By the end of his rule, the Emporer had destroyed the majority of mages across Valratha. Even today, mages of any power are few and far between.",
+When the Shining Moon order of monks were attacked by a rival order, it was necessary for some of the apprentices to rise more rapidly than they normally could. These belts allowed the younger monks to defend their order with great speed and skill.","허리에 두르면 맨손 전투 능력이 향상되는 단순한 밧줄 허리띠입니다.
+
+네더 산맥의 '여인의 손' 수도원에서는 최근 모든 수도사에게 이것을 지급하고 있습니다. 소문에 따르면 수도원에는 강력한 네더릴 무기가 있다고 하지만, 최근 모루엠 청룡 일족과 충돌하면서 그보다 못한 장비에 의지할 수밖에 없게 되었습니다."
+it_mbelt006,uti,DescIdentified,0,13329,"Near the end of the Age of the Magi, legends tell that the first Emporer of Valratha used hunters who seemed to resist many of the spells used by their victims. By the end of his rule, the Emporer had destroyed the majority of mages across Valratha. Even today, mages of any power are few and far between.","마법사 시대 말기, 전설에 따르면 발라스의 초대 황제가 전쟁에서 입은 부상을 치유하기 위해 이 벨트를 착용했다고 합니다."
 it_mbelt012,uti,DescIdentified,0,56605,"An unusual tradition in the mountainous village of Kale sprang up around 5 years ago, where villagers would take blunted arrows and fire them at each other in contests. Two lines would form up, with each person directly across from the other firing on command. Anyone not hit would remain, while all others backed out, until one person was left standing.
 Travellers to the village reported the games were, ""Marvellous fun to watch, but you'd have to be a bloody idiot to participate.""
-After a few years and several unfortunate deaths, the villagers went back to shooting at stuffed targets.",
+After a few years and several unfortunate deaths, the villagers went back to shooting at stuffed targets.",산악 마을 케일에서 약 5년 전에 시작된 특이한 전통이 있습니다. 최고의 씨름꾼에게 이 벨트를 수여하는 것이죠.
 it_mbelt015,uti,DescIdentified,0,56605,"An unusual tradition in the mountainous village of Kale sprang up around 5 years ago, where villagers would take blunted arrows and fire them at each other in contests. Two lines would form up, with each person directly across from the other firing on command. Anyone not hit would remain, while all others backed out, until one person was left standing.
 Travellers to the village reported the games were, ""Marvellous fun to watch, but you'd have to be a bloody idiot to participate.""
-After a few years and several unfortunate deaths, the villagers went back to shooting at stuffed targets.",
-it_mbelt016,uti,DescIdentified,0,67769,"Suhili herself is said to have blessed these belts when the greatest of her clerics, Selduna Rai, held a week long pagent in her honor. The followers of Suhili continue to use these belts in their war on the undead.",
-it_mbelt019,uti,DescIdentified,0,67773,"Attempting to form an anti-thieves' guild, Ronger Delphos, a successful merchant, paid thieves to become security experts. The guards were trained to use wands with the Hold Person spell, to capture the thieves for interrogation. To counteract this security measure, magical belts were purchased by the thieves' guild, which nullified the effects of such spells. In the escalating war between the two guilds, many of these belts found their way into pawnshops and equipment stores.",
-it_mboots002,uti,DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
-it_mboots003,uti,DescIdentified,0,48317,"The Tumblers were a group of assassins who worked together to topple rich, powerful nobles and merchants. Emperor Fenias IV used them to regain control over the various provinces of Valratha, whose nobles had become almost entirely independent of the crown.",
-it_mboots003,uti,LocalizedName,0,48316,Lesser Tumblers,
-it_mboots005,uti,DescIdentified,0,48317,"The Tumblers were a group of assassins who worked together to topple rich, powerful nobles and merchants. Emperor Fenias IV used them to regain control over the various provinces of Valratha, whose nobles had become almost entirely independent of the crown.",
-it_mboots005,uti,LocalizedName,0,48318,The Tumblers,
-it_mboots006,uti,DescIdentified,0,13336,"Several wars have sprung up between man and elf kind, since the discovery that humans were actually making these boots out of elves. The elves believe they have finally taught the humans how to make the boots properly from regular leather, but there is no underestimating the stupidity of some humans.",
-it_mboots007,uti,DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
-it_mboots011,uti,DescIdentified,0,56609,"The dancing thief was a legendary character who would set up a series of spectacular traps, then dance his way through them, creating a spectacle of explosions and effects to entertain and amuse audiences. While the onlookers were distracted, his followers, young pickpockets, would move through the crowd, taking what they could, then slipping away.",
-it_mboots011,uti,LocalizedName,0,56610,Dancing Boots +1,
-it_mboots012,uti,DescIdentified,0,56609,"The dancing thief was a legendary character who would set up a series of spectacular traps, then dance his way through them, creating a spectacle of explosions and effects to entertain and amuse audiences. While the onlookers were distracted, his followers, young pickpockets, would move through the crowd, taking what they could, then slipping away.",
-it_mboots012,uti,LocalizedName,0,56611,Dancing Boots +2,
-it_mboots020,uti,DescIdentified,0,67472,Monks who are followers of Suhili know that nothing is a persistant or dangerous as the sun. These boots a rewarded to those who master different techniques within the Rising Sun Order.,
-it_mbracer002,uti,DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
-it_mbracer003,uti,DescIdentified,0,48321,"Cold to the touch, these bracers seem to gleam with an unnatural light. Pressing one of the gems on the bracer seems to enable a type of dark aura around the wearer. ",
-it_mbracer003,uti,LocalizedName,0,48320,Bracers of the Dead,
-it_mbracer005,uti,DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
-it_mbracer013,uti,DescIdentified,0,67782,"While these magical items have been around for thousands of years, their popularity never seems to decrease. Recently, a party of adventurers out of Delish uncovered a vast treasure trove, filled with magical items like these. The sudden influx of magical gauntlets does not seem to have decreased their value, as every adventurer across the land clamors for the assistance of these useful artifacts.",
-it_mglove004,uti,DescIdentified,0,13369,"The elderly priestess, Milladolin, found that age was affecting her and her fellows quite rapidly, causing their hands to shake and preventing them from performing many of their priestly duties. With Rictos's blessings, Milladolin created magical gloves that steadied their hands and heightened their muscle control. Years later, a young Rictosian was caught for thievery - guilty of using the gloves. Word spread, and soon the gloves themselves were stolen away.",
-it_mglove007,uti,DescIdentified,0,48884,The gloves are covered with small copper rivets.  The wearer may use the gloves to throw a sharp electric jolt at a nearby target.,
-it_mglove027,uti,DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.",
-it_mglove028,uti,DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.",
+After a few years and several unfortunate deaths, the villagers went back to shooting at stuffed targets.",산악 마을 케일에서 약 5년 전에 시작된 특이한 전통이 있습니다. 최고의 씨름꾼에게 이 벨트를 수여하는 것이죠.
+it_mbelt016,uti,DescIdentified,0,67769,"Suhili herself is said to have blessed these belts when the greatest of her clerics, Selduna Rai, held a week long pagent in her honor. The followers of Suhili continue to use these belts in their war on the undead.",수힐리 자신이 가장 위대한 사제가 성전에 참여했을 때 이 벨트들을 축복했다고 합니다.
+it_mbelt019,uti,DescIdentified,0,67773,"Attempting to form an anti-thieves' guild, Ronger Delphos, a successful merchant, paid thieves to become security experts. The guards were trained to use wands with the Hold Person spell, to capture the thieves for interrogation. To counteract this security measure, magical belts were purchased by the thieves' guild, which nullified the effects of such spells. In the escalating war between the two guilds, many of these belts found their way into pawnshops and equipment stores.","도둑 방지 조합을 설립하려던, 성공한 상인 롱거 델포스는 도둑들에게 돈을 내고 보안 전문가가 되어 워터딥의 상인들을 보호했습니다. 경비병들은 사람 포박 주문이 담긴 마법봉을 사용하여 도둑들을 잡아 심문하도록 훈련받았습니다. 이 보안 조치에 대항하기 위해, 도둑 조합은 마법 허리띠를 구입했는데, 이는 그런 주문의 효과를 무효화했습니다. 두 조합 간의 전쟁이 격화되면서, 이 허리띠들 중 많은 수가 전당포와 장비점으로 흘러 들어갔습니다."
+it_mboots002,uti,DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",상인과 여행의 신 칼라히의 사제들이 축복한 이 장화는 착용자에게 여정을 편안하게 해 주는 듯합니다.
+it_mboots003,uti,DescIdentified,0,48317,"The Tumblers were a group of assassins who worked together to topple rich, powerful nobles and merchants. Emperor Fenias IV used them to regain control over the various provinces of Valratha, whose nobles had become almost entirely independent of the crown.",텀블러는 부유하고 권력 있는 자들을 무너뜨리기 위해 협력한 암살자 집단이었습니다.
+it_mboots003,uti,LocalizedName,0,48316,Lesser Tumblers,하급 텀블러
+it_mboots005,uti,DescIdentified,0,48317,"The Tumblers were a group of assassins who worked together to topple rich, powerful nobles and merchants. Emperor Fenias IV used them to regain control over the various provinces of Valratha, whose nobles had become almost entirely independent of the crown.",텀블러는 부유하고 권력 있는 자들을 무너뜨리기 위해 협력한 암살자 집단이었습니다.
+it_mboots005,uti,LocalizedName,0,48318,The Tumblers,텀블러
+it_mboots006,uti,DescIdentified,0,13336,"Several wars have sprung up between man and elf kind, since the discovery that humans were actually making these boots out of elves. The elves believe they have finally taught the humans how to make the boots properly from regular leather, but there is no underestimating the stupidity of some humans.","인간이 엘프의 장화 제조 비법을 훔쳤다는 사실이 발견된 이래, 인간과 엘프 사이에 여러 차례 전쟁이 벌어졌습니다."
+it_mboots007,uti,DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",상인과 여행의 신 칼라히의 사제들이 축복한 이 장화는 착용자에게 여정을 편안하게 해 주는 듯합니다.
+it_mboots011,uti,DescIdentified,0,56609,"The dancing thief was a legendary character who would set up a series of spectacular traps, then dance his way through them, creating a spectacle of explosions and effects to entertain and amuse audiences. While the onlookers were distracted, his followers, young pickpockets, would move through the crowd, taking what they could, then slipping away.",춤추는 도둑은 화려한 공연을 벌여 놓고 그 사이에 관객의 지갑을 털어가던 전설적인 인물이었습니다.
+it_mboots011,uti,LocalizedName,0,56610,Dancing Boots +1,춤추는 장화 +1
+it_mboots012,uti,DescIdentified,0,56609,"The dancing thief was a legendary character who would set up a series of spectacular traps, then dance his way through them, creating a spectacle of explosions and effects to entertain and amuse audiences. While the onlookers were distracted, his followers, young pickpockets, would move through the crowd, taking what they could, then slipping away.",춤추는 도둑은 화려한 공연을 벌여 놓고 그 사이에 관객의 지갑을 털어가던 전설적인 인물이었습니다.
+it_mboots012,uti,LocalizedName,0,56611,Dancing Boots +2,춤추는 장화 +2
+it_mboots020,uti,DescIdentified,0,67472,Monks who are followers of Suhili know that nothing is a persistant or dangerous as the sun. These boots a rewarded to those who master different techniques within the Rising Sun Order.,수힐리를 따르는 수도승들은 불보다 지속적이고 위험한 것은 없다는 것을 알고 있습니다.
+it_mbracer002,uti,DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.","마법사 시대의 유물로, 이 팔보호대는 여전히 일반 시장에서 발견할 수 있습니다."
+it_mbracer003,uti,DescIdentified,0,48321,"Cold to the touch, these bracers seem to gleam with an unnatural light. Pressing one of the gems on the bracer seems to enable a type of dark aura around the wearer. ","만지면 차갑고, 부자연스러운 빛으로 빛납니다. 가까이 대면 언데드의 속삭임이 들립니다."
+it_mbracer003,uti,LocalizedName,0,48320,Bracers of the Dead,죽음의 팔보호대
+it_mbracer005,uti,DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.","마법사 시대의 유물로, 이 팔보호대는 여전히 일반 시장에서 발견할 수 있습니다."
+it_mbracer013,uti,DescIdentified,0,67782,"While these magical items have been around for thousands of years, their popularity never seems to decrease. Recently, a party of adventurers out of Delish uncovered a vast treasure trove, filled with magical items like these. The sudden influx of magical gauntlets does not seem to have decreased their value, as every adventurer across the land clamors for the assistance of these useful artifacts.","이런 마법 아이템들은 수천 년 동안 존재했지만, 인기는 결코 줄어들지 않는 것 같습니다. 최근에, 칼림샨에서 온 모험가들 무리가 이런 마법 아이템들로 가득 찬 거대한 보물창고를 발견했습니다. 모든 모험가들이 이 유용한 유물의 도움을 받고자 하기 때문에, 마법의 팔목장갑의 공급이 갑작스럽게 밀려들더라도 그 가치는 떨어지 않는 것으로 보입니다."
+it_mglove004,uti,DescIdentified,0,13369,"The elderly priestess, Milladolin, found that age was affecting her and her fellows quite rapidly, causing their hands to shake and preventing them from performing many of their priestly duties. With Rictos's blessings, Milladolin created magical gloves that steadied their hands and heightened their muscle control. Years later, a young Rictosian was caught for thievery - guilty of using the gloves. Word spread, and soon the gloves themselves were stolen away.",노령의 여사제 밀라돌린은 나이가 자신과 동료 사제들의 능력에 영향을 미치고 있음을 깨달았습니다.
+it_mglove007,uti,DescIdentified,0,48884,The gloves are covered with small copper rivets.  The wearer may use the gloves to throw a sharp electric jolt at a nearby target.,작은 구리 리벳으로 덮인 장갑입니다. 착용자는 장갑을 사용하여 에너지를 집중할 수 있습니다.
+it_mglove027,uti,DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.","성 솔라스의 제자들이라고도 불리는 노랑 장미 수도회는 동맹에 대한 큰 충성과 적에 대한 큰 파괴 행위로 똑같이 알려져 있습니다. 이 교단의 수도사들은 자주 일메이터의 성기사와 함께 여행하며, 고통받는 군주의 기사들에게 신뢰할 수 있는 안내자이자 동반자 역할을 합니다."
+it_mglove028,uti,DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.","성 솔라스의 제자들이라고도 불리는 노랑 장미 수도회는 동맹에 대한 큰 충성과 적에 대한 큰 파괴 행위로 똑같이 알려져 있습니다. 이 교단의 수도사들은 자주 일메이터의 성기사와 함께 여행하며, 고통받는 군주의 기사들에게 신뢰할 수 있는 안내자이자 동반자 역할을 합니다."
 it_mmedmisc002,uti,DescIdentified,0,48889,"This appears to be a piece of simple gold jewelry used to fasten a cloak or cape. In addition to this mundane task, the Brooch of Shielding can be activated with a touch to place an invisible field of force around the wearer, granting extra protection and immunity to magic missiles.
-",
-it_mneck002,uti,DescIdentified,0,-1,"When Jacin Maltis, a petty lord in Sembia, paid for the crafting of an amulet to increase his health, he expected a tasteful necklace with a small, but precious gem mounted in it. When he placed the necklace around his neck and the diamond turned a gaudy blood red, he refused to pay the wizard who created it. The wizard simply smiled, and loosed a spell that instantly destroyed the noble. Copies of this amulet were found circulating months later in the distant city of Waterdeep.",
-it_mneck002,uti,LocalizedName,0,-1,Amulet of Vitality +2,
-it_mneck025,uti,DescIdentified,0,56634,"Thebe the Forceful was a great leader in the worship halls of Pharos. In honor of her life, her death day is celebrated every year with the creation of these amulets of will power.",
-it_mneck026,uti,DescIdentified,0,56634,"Thebe the Forceful was a great leader in the worship halls of Pharos. In honor of her life, her death day is celebrated every year with the creation of these amulets of will power.",
-it_mpotion009,uti,DescIdentified,0,13424,"The crutch of shoddy thieves and cowardly paladins, these potions are well known across the face of Valratha.",
-it_mpotion020,uti,DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.",
-it_mring002,uti,DescIdentified,0,40089,"Only a few of these rings exist, and almost all of them are owned by very powerful mages. It is a status symbol to own such a ring.",
-it_mring003,uti,DescIdentified,0,40089,"Only a few of these rings exist, and almost all of them are owned by very powerful mages. It is a status symbol to own such a ring.",
-it_mring004,uti,DescIdentified,0,48923,"This ring is actually a magic leather cord that ties around a finger.  It is tanned to be vaguely flesh-toned and is so subtle that it often goes unnoticed when worn.  Similarly, it allows the wearer to blend easily into the background to escape detection..",
-it_mring006,uti,DescIdentified,0,48927,"These simple iron bands generate a large shield-sized invisible wall of force that stays with the ring and can be wielded by the wearer as if it were a normal shield. This special creation, since it can be activated and deactivated at will, has no armor check penalty or arcane spell failure chance.",
-it_mring007,uti,DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
-it_mring015,uti,DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
-it_mring016,uti,DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
-it_mring024,uti,DescIdentified,0,-1,"Samile the Nervous was a golddigger known for surviving the betrayal of at least five partners. He always seemed to be aware of what was going on, seconds before anyone else did. Being successful at finding gold made him wealthy, but he was never happy. Always disgusted with humanity, Samile would complain bitterly to anyone who would listen. Some would comment that it was more likely this barrage of complaints that drove his partners to try to kill him, more than greed.",
-it_mring024,uti,LocalizedName,0,13485,Golddigger's Ring,
-it_mring025,uti,DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",
-it_mring026,uti,DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",
-it_mthnmisc015,uti,LocalizedName,0,62349,Golden Chalice of Suhili,
-item,uti,LocalizedName,0,-1,Lampy's Light,
-key_koboldcows,uti,DescIdentified,0,-1,"After the trouble with the Kobold colony began in the Emerald Hills, the farmers requested assistance from the Keep's militia. The Keep, however, was under a near constant state of siege and no guards could be spared to clean out the caves. The farmers who lived near the area could not deal with the Kobolds directly due to their lack of experience. They instead created a pen around the caves to hold the creatures in. This unfortunately had little effect on the Kobold horde as they simply climbed the wall. In the end, the farmers left the pen sealed to keep wanderers from meeting their doom within the caves.",
-key_koboldcows,uti,LocalizedName,0,-1,Kobold Enclosure Key,
-key_manticore,uti,DescIdentified,0,-1,"A long time ago there was an ivory tower in the Emerald Hills which housed a wizard's academy. The school thrived for many generations until the headmaster passed away. Soon after, the lesser instructors of the school began squabbling over control of the academy. As the bickering and scheming of the instructors became more belligerent, the size of the faculty decreased until only two instructors remained. In the final battle for control of the school, the two instructors destroyed one another, taking the upper levels of the academy with them. Only the subterranean level, where the creatures used for making the academy's famed magical items were held, survived unscathed.",
-key_manticore,uti,LocalizedName,0,-1,Wizards Academy Key,
-km_ghost_rhmirrr,uti,DescIdentified,0,-1,This small hand mirror was left for you by the ghost of Lady Rehan who once haunted Manybrick Manor.,
-km_ghost_rhmirrr,uti,LocalizedName,0,-1,Lady Rehan's Mirror,
-km_immunema,uti,LocalizedName,0,90572,Immue To Mind Affecting,
-koboldkey,uti,LocalizedName,0,-1,Kobold Key,
-maarcl002,uti,LocalizedName,0,13711,Lesser Armor of the Wolf,
+","망토나 케이프를 고정하는 단순한 금 장신구처럼 보입니다. 하지만 차폐의 브로치는 만지면 착용자 주위에 보이지 않는 역장을 펼쳐, 추가 보호와 마법 화살 면역을 부여합니다.
+
+마법사들이 즐겨 쓰는 방어 도구로, 보통 미스트라나 아주스의 상징이 새겨져 있습니다."
+it_mneck002,uti,DescIdentified,0,-1,"When Jacin Maltis, a petty lord in Sembia, paid for the crafting of an amulet to increase his health, he expected a tasteful necklace with a small, but precious gem mounted in it. When he placed the necklace around his neck and the diamond turned a gaudy blood red, he refused to pay the wizard who created it. The wizard simply smiled, and loosed a spell that instantly destroyed the noble. Copies of this amulet were found circulating months later in the distant city of Waterdeep.","셈비아의 하급 영주 자신 말티스가 건강을 증진시키는 부적 제작을 의뢰했을 때, 작지만 귀한 보석이 박힌 우아한 목걸이를 기대했습니다. 목에 걸자 다이아몬드가 천박한 핏빛으로 변하자 제작한 마법사에게 대금 지불을 거부했습니다. 마법사는 미소만 지은 채 주문을 풀어 순식간에 그 귀족을 소멸시켰습니다. 이 부적의 복제품들은 몇 달 후 먼 도시 워터딥에서 유통되고 있었습니다."
+it_mneck002,uti,LocalizedName,0,-1,Amulet of Vitality +2,활력의 부적 +2
+it_mneck025,uti,DescIdentified,0,56634,"Thebe the Forceful was a great leader in the worship halls of Pharos. In honor of her life, her death day is celebrated every year with the creation of these amulets of will power.",강인한 테베는 파로스 신전에서 위대한 지도자였습니다. 그녀를 기리기 위해 이 목걸이가 만들어졌습니다.
+it_mneck026,uti,DescIdentified,0,56634,"Thebe the Forceful was a great leader in the worship halls of Pharos. In honor of her life, her death day is celebrated every year with the creation of these amulets of will power.",강인한 테베는 파로스 신전에서 위대한 지도자였습니다. 그녀를 기리기 위해 이 목걸이가 만들어졌습니다.
+it_mpotion009,uti,DescIdentified,0,13424,"The crutch of shoddy thieves and cowardly paladins, these potions are well known across the face of Valratha.","조악한 도둑들과 비겁한 성기사들의 목발이 되어주는, 이 물약은 페이룬의 지상 전체에 잘 알려져 있습니다."
+it_mpotion020,uti,DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.","이 물약은 모험가와 학자들 모두가 원하고 있으며, 페이룬의 던전에서 많이 쓰이는걸 볼 수 있습니다."
+it_mring002,uti,DescIdentified,0,40089,"Only a few of these rings exist, and almost all of them are owned by very powerful mages. It is a status symbol to own such a ring.","이 반지는 극소수만 존재하며, 거의 모두 매우 강력한 마법사들이 소유하고 있습니다."
+it_mring003,uti,DescIdentified,0,40089,"Only a few of these rings exist, and almost all of them are owned by very powerful mages. It is a status symbol to own such a ring.","이 반지는 극소수만 존재하며, 거의 모두 매우 강력한 마법사들이 소유하고 있습니다."
+it_mring004,uti,DescIdentified,0,48923,"This ring is actually a magic leather cord that ties around a finger.  It is tanned to be vaguely flesh-toned and is so subtle that it often goes unnoticed when worn.  Similarly, it allows the wearer to blend easily into the background to escape detection..","사실 손가락에 묶는 마법 가죽끈입니다. 희미한 살색으로 무두질되어 착용해도 눈에 잘 띄지 않습니다. 착용자도 배경에 쉽게 섞여 탐지를 피할 수 있습니다.
+
+도둑이나 눈에 띄고 싶지 않은 자들이 흔히 쓰는 물건이지만, 웨스트게이트 도시 경비대에 따르면 야간 가면단의 표준 장비로 빠르게 자리 잡고 있다고 합니다."
+it_mring006,uti,DescIdentified,0,48927,"These simple iron bands generate a large shield-sized invisible wall of force that stays with the ring and can be wielded by the wearer as if it were a normal shield. This special creation, since it can be activated and deactivated at will, has no armor check penalty or arcane spell failure chance.",이 단순한 철 고리는 방패 크기의 투명한 힘의 벽을 생성합니다.
+it_mring007,uti,DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
+it_mring015,uti,DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
+it_mring016,uti,DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
+it_mring024,uti,DescIdentified,0,-1,"Samile the Nervous was a golddigger known for surviving the betrayal of at least five partners. He always seemed to be aware of what was going on, seconds before anyone else did. Being successful at finding gold made him wealthy, but he was never happy. Always disgusted with humanity, Samile would complain bitterly to anyone who would listen. Some would comment that it was more likely this barrage of complaints that drove his partners to try to kill him, more than greed.",신경질적인 사밀레는 최소 다섯 명의 동료의 배신에서 살아남은 것으로 유명한 금광업자였습니다. 항상 다른 누구보다 몇 초 앞서 상황을 파악하는 듯했습니다. 금을 찾아 부유해졌지만 결코 행복하지 않았습니다. 항상 인간에 역겨워하며 듣는 사람에게 끊임없이 불평을 늘어놓았습니다. 어떤 이들은 탐욕보다 이 끊임없는 불평이 동료들이 그를 죽이려 한 진짜 이유라 말했습니다.
+it_mring024,uti,LocalizedName,0,13485,Golddigger's Ring,금광꾼의 반지
+it_mring025,uti,DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",이 반지들은 발라스 너머 바다 건너편의 땅에서 만들어졌다는 소문이 있습니다.
+it_mring026,uti,DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",이 반지들은 발라스 너머 바다 건너편의 땅에서 만들어졌다는 소문이 있습니다.
+it_mthnmisc015,uti,LocalizedName,0,62349,Golden Chalice of Suhili,수힐리의 황금 성배
+item,uti,LocalizedName,0,-1,Lampy's Light,램피의 빛
+key_koboldcows,uti,DescIdentified,0,-1,"After the trouble with the Kobold colony began in the Emerald Hills, the farmers requested assistance from the Keep's militia. The Keep, however, was under a near constant state of siege and no guards could be spared to clean out the caves. The farmers who lived near the area could not deal with the Kobolds directly due to their lack of experience. They instead created a pen around the caves to hold the creatures in. This unfortunately had little effect on the Kobold horde as they simply climbed the wall. In the end, the farmers left the pen sealed to keep wanderers from meeting their doom within the caves.","에메랄드 언덕에서 코볼트 군집과의 문제가 시작된 후, 농부들은 성채 민병대에 도움을 요청했습니다. 하지만 성채는 거의 항시 포위 상태에 있어 동굴을 정리할 경비병을 보낼 여유가 없었습니다. 인근에 사는 농부들은 경험 부족으로 코볼트들을 직접 상대할 수 없었습니다. 대신 동굴 주변에 울타리를 만들어 가두려 했지만, 코볼트 무리는 그냥 벽을 기어올랐기에 별 효과가 없었습니다. 결국 농부들은 방랑자들이 동굴에서 최후를 맞지 않도록 울타리를 봉인한 채 남겨두었습니다."
+key_koboldcows,uti,LocalizedName,0,-1,Kobold Enclosure Key,코볼트 울타리 열쇠
+key_manticore,uti,DescIdentified,0,-1,"A long time ago there was an ivory tower in the Emerald Hills which housed a wizard's academy. The school thrived for many generations until the headmaster passed away. Soon after, the lesser instructors of the school began squabbling over control of the academy. As the bickering and scheming of the instructors became more belligerent, the size of the faculty decreased until only two instructors remained. In the final battle for control of the school, the two instructors destroyed one another, taking the upper levels of the academy with them. Only the subterranean level, where the creatures used for making the academy's famed magical items were held, survived unscathed.",오래전 에메랄드 언덕에 마법사 학원이 자리한 상아탑이 있었습니다. 학교는 여러 세대에 걸쳐 번성했으나 학장이 세상을 떠나자 하급 교관들이 학원 지배권을 놓고 다투기 시작했습니다. 언쟁과 음모가 점점 격렬해지면서 교수진은 줄어들어 결국 두 명만 남았습니다. 학교 지배권을 놓고 벌인 최후의 전투에서 두 교관은 서로를 파괴하며 학원 상층부도 함께 무너뜨렸습니다. 학원의 유명한 마법 물품을 만드는 데 쓰이던 생물들이 사육되던 지하층만이 무사히 남았습니다.
+key_manticore,uti,LocalizedName,0,-1,Wizards Academy Key,마법사 학원 열쇠
+km_ghost_rhmirrr,uti,DescIdentified,0,-1,This small hand mirror was left for you by the ghost of Lady Rehan who once haunted Manybrick Manor.,한때 매니브릭 저택에 출몰하던 레한 부인의 유령이 당신에게 남긴 작은 손거울입니다.
+km_ghost_rhmirrr,uti,LocalizedName,0,-1,Lady Rehan's Mirror,레한 부인의 거울
+km_immunema,uti,LocalizedName,0,90572,Immue To Mind Affecting,정신 영향 면역
+koboldkey,uti,LocalizedName,0,-1,Kobold Key,코볼트 열쇠
+maarcl002,uti,LocalizedName,0,13711,Lesser Armor of the Wolf,하급 늑대의 갑옷
 maarcl040,uti,DescIdentified,0,66562,"These cloaks of resistance are commonly found among the frost giant clans in the northern reaches of Valratha. 
 
-The wearer can withstand extremes of cold weather and magical cold damage as well.",
-maarcl061,uti,DescIdentified,0,13809,"Made from the bones of a creature long extinct, this kind of armor is rare and highly sought after. Rumors tell of a recent find in the north of Valratha, where several skeletons of this creature have been found.",
-maarcl097,uti,DescIdentified,0,56651,The Temple of the Nine Gods has invested time and energy into various cloaks that can be used by the followers of their wide-ranging beliefs.,
-maarcl098,uti,DescIdentified,0,56653,The Temple of the Nine Gods has invested time and energy into various cloaks that can be used by the followers of their wide-ranging beliefs.,
-maarcl099,uti,DescIdentified,0,56655,The Temple of the Nine Gods has invested time and energy into various cloaks that can be used by the followers of their wide-ranging beliefs.,
-maarcl100,uti,DescIdentified,0,56657,The Temple of the Nine Gods has invested time and energy into various cloaks that can be used by the followers of their wide-ranging beliefs.,
-maarcl105,uti,DescIdentified,0,67588,"Borderland guards have traditionally donned these cloaks while on duty. In recent years the borderlands have become more dangerous, and fewer soldiers are willing to enter the northern reaches of Valratha.",
-mcloth012,uti,DescIdentified,0,67731,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.",
-mcloth012,uti,Description,0,-1,This is a magic robe.,
-mcloth014,uti,DescIdentified,0,67729,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.",
-mcloth014,uti,Description,0,-1,This is a magic robe.,
-mcloth015,uti,DescIdentified,0,67729,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.",
+The wearer can withstand extremes of cold weather and magical cold damage as well.","이 저항의 망토는 얼어붙은 북방의 서리 거인과 다른 아우릴 숭배 생물들 사이에서 흔히 발견됩니다. 망토는 흰색이며 흰 털로 장식되어 있습니다.
+
+착용자는 극한의 추운 날씨와 마법의 냉기 피해도 견딜 수 있습니다."
+maarcl061,uti,DescIdentified,0,13809,"Made from the bones of a creature long extinct, this kind of armor is rare and highly sought after. Rumors tell of a recent find in the north of Valratha, where several skeletons of this creature have been found.",오래전 멸종한 생명체의 뼈로 만든 이 종류의 갑옷은 희귀하고 높이 평가됩니다.
+maarcl097,uti,DescIdentified,0,56651,The Temple of the Nine Gods has invested time and energy into various cloaks that can be used by the followers of their wide-ranging beliefs.,아홉 신의 신전은 사제들을 보호하기 위한 다양한 망토에 시간과 노력을 투자해 왔습니다.
+maarcl098,uti,DescIdentified,0,56653,The Temple of the Nine Gods has invested time and energy into various cloaks that can be used by the followers of their wide-ranging beliefs.,아홉 신의 신전은 사제들을 보호하기 위한 다양한 망토에 시간과 노력을 투자해 왔습니다.
+maarcl099,uti,DescIdentified,0,56655,The Temple of the Nine Gods has invested time and energy into various cloaks that can be used by the followers of their wide-ranging beliefs.,아홉 신의 신전은 사제들을 보호하기 위한 다양한 망토에 시간과 노력을 투자해 왔습니다.
+maarcl100,uti,DescIdentified,0,56657,The Temple of the Nine Gods has invested time and energy into various cloaks that can be used by the followers of their wide-ranging beliefs.,아홉 신의 신전은 사제들을 보호하기 위한 다양한 망토에 시간과 노력을 투자해 왔습니다.
+maarcl105,uti,DescIdentified,0,67588,"Borderland guards have traditionally donned these cloaks while on duty. In recent years the borderlands have become more dangerous, and fewer soldiers are willing to enter the northern reaches of Valratha.",변경 경비대는 전통적으로 근무 중에 이 망토를 입었습니다. 최근 이 망토에 마법 부여가 추가되었습니다.
+mcloth012,uti,DescIdentified,0,67731,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.","마법사가 풍부했던 마법사 시대의 유물로, 이 로브는 여전히 흔히 발견됩니다."
+mcloth012,uti,Description,0,-1,This is a magic robe.,마법 로브입니다.
+mcloth014,uti,DescIdentified,0,67729,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.","마법사가 풍부했던 마법사 시대의 유물로, 이 로브는 여전히 흔히 발견됩니다."
+mcloth014,uti,Description,0,-1,This is a magic robe.,마법 로브입니다.
+mcloth015,uti,DescIdentified,0,67729,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.","마법사가 풍부했던 마법사 시대의 유물로, 이 로브는 여전히 흔히 발견됩니다."
 mduerar011,uti,DescIdentified,0,-1,"The dark earthy colors of the robe are enhanced with magical properties of protection.
-",
-mduerar011,uti,LocalizedName,0,12918,Earth Mage Robe,
-orckey,uti,LocalizedName,0,-1,Orc Key,
-os_bearskin,uti,LocalizedName,0,-1,Bear Skin,
-os_blackdragon,uti,LocalizedName,0,13759,Black Dragon Armor,
-os_cal_helm,uti,DescIdentified,0,-1,"Calibast's helm is a family heirloom, a rememberance of his long dead parents. Though he does not speak of them much, his occassional stretches of melancholy are often due to his reminicing about his childhood. Obviously the scavengers could not wrest the helm off of his flaming head.",
-os_cal_helm,uti,LocalizedName,0,-1,Calibast's Helm,
-os_cut_rags,uti,DescIdentified,0,-1,These scraps of cloth are all that you were left with when you died. ,
-os_cut_rags,uti,Description,0,-1,These scraps of cloth are all that you were left with when you died. ,
-os_cut_rags,uti,LocalizedName,0,12910,Shredded Clothes,
-os_divineplate,uti,LocalizedName,0,13820,Divine Plate,
-os_dynarmor,uti,LocalizedName,0,13828,Dynschall's Armor,
-os_godhelm,uti,DescIdentified,0,-1,Enivid's helm.,
-os_godhelm,uti,Description,0,-1,Enivid's helm.,
-os_godhelm,uti,LocalizedName,0,12849,Godly Courage,
-os_hen_calring,uti,LocalizedName,0,-1,Calibast's Ring,
-os_hunterscloak,uti,DescIdentified,0,-1,"You earned this old hunter's cloak when you traded a manticore hide for it from Levio'Sa, the foresters guildmaster.",
-os_hunterscloak,uti,Description,0,-1,"You earned this old hunter's cloak when you traded a manticore hide for it from Levio'Sa, the foresters guildmaster.",
-os_hunterscloak,uti,LocalizedName,0,-1,Hunter's Cloak,
+","로브의 어두운 흙빛에 마법적 보호 속성이 부여되어 있습니다.
+"
+mduerar011,uti,LocalizedName,0,12918,Earth Mage Robe,대지 마법사의 로브
+orckey,uti,LocalizedName,0,-1,Orc Key,오크 열쇠
+os_bearskin,uti,LocalizedName,0,-1,Bear Skin,곰 가죽
+os_blackdragon,uti,LocalizedName,0,13759,Black Dragon Armor,흑룡 갑옷
+os_cal_helm,uti,DescIdentified,0,-1,"Calibast's helm is a family heirloom, a rememberance of his long dead parents. Though he does not speak of them much, his occassional stretches of melancholy are often due to his reminicing about his childhood. Obviously the scavengers could not wrest the helm off of his flaming head.","칼리바스트의 투구는 가문의 가보로, 오래전 세상을 떠난 부모님의 유품입니다. 부모님에 대해 많이 말하지 않지만, 가끔 우울해지는 것은 어린 시절을 회상하기 때문입니다. 분명히 약탈자들도 그의 불타는 머리에서 투구를 벗길 수는 없었을 것입니다."
+os_cal_helm,uti,LocalizedName,0,-1,Calibast's Helm,칼리바스트의 투구
+os_cut_rags,uti,DescIdentified,0,-1,These scraps of cloth are all that you were left with when you died. ,당신이 죽었을 때 남은 것은 이 천 조각뿐이었습니다.
+os_cut_rags,uti,Description,0,-1,These scraps of cloth are all that you were left with when you died. ,당신이 죽었을 때 남은 것은 이 천 조각뿐이었습니다.
+os_cut_rags,uti,LocalizedName,0,12910,Shredded Clothes,찢어진 옷
+os_divineplate,uti,LocalizedName,0,13820,Divine Plate,신성한 판금 갑옷
+os_dynarmor,uti,LocalizedName,0,13828,Dynschall's Armor,딘셜의 갑옷
+os_godhelm,uti,DescIdentified,0,-1,Enivid's helm.,에니비드의 투구.
+os_godhelm,uti,Description,0,-1,Enivid's helm.,에니비드의 투구.
+os_godhelm,uti,LocalizedName,0,12849,Godly Courage,신의 용기
+os_hen_calring,uti,LocalizedName,0,-1,Calibast's Ring,칼리바스트의 반지
+os_hunterscloak,uti,DescIdentified,0,-1,"You earned this old hunter's cloak when you traded a manticore hide for it from Levio'Sa, the foresters guildmaster.",산림 조합장 레비오사에게 만티코어 가죽을 건네고 얻은 낡은 사냥꾼의 망토입니다.
+os_hunterscloak,uti,Description,0,-1,"You earned this old hunter's cloak when you traded a manticore hide for it from Levio'Sa, the foresters guildmaster.",산림 조합장 레비오사에게 만티코어 가죽을 건네고 얻은 낡은 사냥꾼의 망토입니다.
+os_hunterscloak,uti,LocalizedName,0,-1,Hunter's Cloak,사냥꾼의 망토
 os_itm_noteassas,uti,DescIdentified,0,-1,"This note appears to have been torn from another peice of parchment. There is a portion you cannot read, right at the top, but the bottom says,
 ""Don't worry about the local girl, I can take care of her. This new meat is beginning to grate. Remove it and you will have my gratitude and, as always, your regular fee.""
-",
+","이 쪽지는 다른 양피지에서 찢어낸 것 같습니다. 윗부분은 읽을 수 없지만, 아래에는 이렇게 적혀 있습니다.
+""그 마을 계집은 걱정 마라, 내가 처리하겠다. 이 새로운 놈이 거슬리기 시작한다. 제거하면 감사와 함께 항상 그랬듯 정해진 보수를 받을 것이다.""
+"
 os_itm_noteassas,uti,Description,0,-1,"This note appears to have been torn from another peice of parchment. There is a portion you cannot read, right at the top, but the bottom says,
 ""Don't worry about the local girl, I can take care of her. This new meat is beginning to grate. Remove it and you will have my gratitude and, as always, your regular fee.""
-",
-os_itm_noteassas,uti,LocalizedName,0,-1,Assassin Note,
-os_itm_notepaper,uti,DescIdentified,0,-1,"This is a peice of parchment that appears to have been ripped, as some of the words at the bottom have been torn off. You can't make out what they say... if only you had the other half.",
-os_itm_notepaper,uti,Description,0,-1,"This is a peice of parchment that appears to have been ripped, as some of the words at the bottom have been torn off. You can't make out what they say... if only you had the other half.",
-os_itm_notepaper,uti,LocalizedName,0,-1,Note Paper,
-os_jab_boots,uti,DescIdentified,0,-1,"Jaboli's well-worn boots may not draw a lot of attention for those looking for a fashion statement, but they are very useful. Jaboli has had this same set of boots for many years and will not willingly give them up.",
-os_jab_boots,uti,LocalizedName,0,-1,Jaboli's Boots,
-os_jab_hide,uti,LocalizedName,0,-1,Jaboli's Hide,
-os_jab_tears,uti,DescIdentified,0,-1,"This is an item that Jaboli made for you, as a gift of friendship. Finding your actions to be honorable, Jaboli was willing to part with some of her life energy to give you such a dear gift.",
-os_jab_tears,uti,Description,0,-1,"This is an item that Jaboli made for you, as a gift of friendship. Finding your actions to be honorable, Jaboli was willing to part with some of her life energy to give you such a dear gift.",
-os_jab_tears,uti,LocalizedName,0,-1,Tears of the Rakshasa,
-os_kai_leaf,uti,DescIdentified,0,-1,This outfit is magically made from the leaves and bark of a tree from Kaidala's home. It was a gift from the forest and Kaidala treasures it. She will not willingly part with this last rememberance of her former life.,
-os_kai_leaf,uti,LocalizedName,0,-1,Kaidala's Leaves,
-os_manticorehide,uti,DescIdentified,0,-1,This is the hide of a manticore you killed.,
-os_manticorehide,uti,Description,0,-1,This is the hide of a manticore you killed.,
-os_manticorehide,uti,LocalizedName,0,-1,Manticore Hide,
-os_merchantgodar,uti,LocalizedName,0,13798,Golden Plate,
-os_mw2bsword,uti,LocalizedName,0,-1,Magic Two-Bladed Sword,
-os_mwbaxe,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwbaxe,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwbaxe,uti,LocalizedName,0,-1,Magic Battle Axe,
-os_mwbsword,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwbsword,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwbsword,uti,LocalizedName,0,-1,Magic Bastard Sword,
-os_mwclub,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwclub,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwclub,uti,LocalizedName,0,-1,Magic Club,
-os_mwdagger,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwdagger,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwdagger,uti,LocalizedName,0,-1,Magic Dagger,
-os_mwdaxe,uti,LocalizedName,0,-1,Magic Double Axe,
-os_mwdmace,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwdmace,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwdmace,uti,LocalizedName,0,-1,Magic Dire Mace,
-os_mwgaxe,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwgaxe,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwgaxe,uti,LocalizedName,0,-1,Magic Great Axe,
-os_mwgsword,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwgsword,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwgsword,uti,LocalizedName,0,-1,Magic Great Sword,
-os_mwhalberd,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwhalberd,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwhalberd,uti,LocalizedName,0,-1,Magic Halberd,
-os_mwhaxe,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwhaxe,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwhaxe,uti,LocalizedName,0,-1,Magic Hand Axe,
-os_mwhflail,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwhflail,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwhflail,uti,LocalizedName,0,-1,Magic Heavy Flail,
-os_mwhxbow,uti,LocalizedName,0,-1,Magic Heavy Crossbow,
-os_mwkama,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwkama,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwkama,uti,LocalizedName,0,-1,Magic Kama,
-os_mwkatana,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwkatana,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwkatana,uti,LocalizedName,0,-1,Magic Katana,
-os_mwkukri,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwkukri,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwkukri,uti,LocalizedName,0,-1,Magic Kukri,
-os_mwlbow,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlbow,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlbow,uti,LocalizedName,0,-1,Magic Longbow,
-os_mwlflail,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlflail,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlflail,uti,LocalizedName,0,-1,Magic Light Flail,
-os_mwlhammer,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlhammer,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlhammer,uti,LocalizedName,0,-1,Magic Light Hammer,
-os_mwlsword,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlsword,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlsword,uti,LocalizedName,0,-1,Magic Long Sword,
-os_mwlxbow,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlxbow,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwlxbow,uti,LocalizedName,0,-1,Magic Light Crossbow,
-os_mwmace,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwmace,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwmace,uti,LocalizedName,0,-1,Magic Mace,
-os_mwmstar,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwmstar,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwmstar,uti,LocalizedName,0,-1,Magic Morningstar,
-os_mwqstaff,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwqstaff,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwqstaff,uti,LocalizedName,0,-1,Magic Quarterstaff,
-os_mwrapier,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwrapier,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwrapier,uti,LocalizedName,0,-1,Magic Rapier,
-os_mwsbow,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwsbow,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwsbow,uti,LocalizedName,0,-1,Magic Shortbow,
-os_mwscim,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwscim,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwscim,uti,LocalizedName,0,-1,Magic Scimitar,
-os_mwscythe,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwscythe,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwscythe,uti,LocalizedName,0,-1,Magic Scythe,
-os_mwsickle,uti,LocalizedName,0,-1,Magic Sickle,
-os_mwsling,uti,LocalizedName,0,-1,Magic Sling,
-os_mwspear,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwspear,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwspear,uti,LocalizedName,0,-1,Magic Spear,
-os_mwssword,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwssword,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwssword,uti,LocalizedName,0,-1,Magic Short Sword,
-os_mwwarham,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwwarham,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",
-os_mwwarham,uti,LocalizedName,0,-1,Magic Warhammer,
-os_trip_belt,uti,DescIdentified,0,-1,"This belt was taken from Sir Becket's home, by the wererat, Trip. 
-The belt appears to strengthen the wearer's upper body and make the wearer harder to hit, but its fit is so tight, the wearer is often short of breath.",
-os_trip_belt,uti,Description,0,-1,"This belt was taken from Sir Becket's home, by the wererat, Trip. ",
-os_trip_belt,uti,LocalizedName,0,-1,Belcher's Belt,
-os_trip_hide,uti,LocalizedName,0,-1,Trip's Properties,
-os_trip_talsmn,uti,DescIdentified,0,-1,"This is Trip's magic talisman, a dirty, old rat's skull hung on a leather thong. Trip often chews on the skull and believes it brings him luck. He will not part with the charm.",
-os_trip_talsmn,uti,LocalizedName,0,-1,Trip's Ratskull Talisman,
-os_tripclaws001,uti,LocalizedName,0,-1,Trip's Claws 1,
-os_tripclaws002,uti,LocalizedName,0,-1,Trip's Claws 2,
-os_tripclaws003,uti,LocalizedName,0,-1,Trip's Claws 3,
-os_tripsamulet,uti,DescIdentified,0,-1,"This is Trip's smelly, old rat skull necklace. He frequently chews and drools on it. Despite its worthless-looking nature, the pendant actually has several magical enhancements. Unfortunately the smell alone is enough to reduce the wearer's appeal to most civilized company.",
-os_tripsamulet,uti,Description,0,-1,"This is Trip's smelly, old rat skull necklace. He frequently chews and drools on it. Despite its worthless-looking nature, the pendant actually has several magical enhancements. Unfortunately the smell alone is enough to reduce the wearer's appeal to most civilized company.",
-os_tripsamulet,uti,LocalizedName,0,-1,Trip's Amulet,
-os_warriorring,uti,LocalizedName,0,13484,Warrior's Ring,
-os_wolfpelt,uti,LocalizedName,0,-1,Wolf Pelt,
-pzl_mobilemirror,uti,DescIdentified,0,-1,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",
-pzl_mobilemirror,uti,LocalizedName,0,-1,Mysterious Mirror,
-q1_dan_helm,uti,LocalizedName,0,-1,Dan's Helm,
-q1_danberry,uti,DescIdentified,0,58566,These are the berries made by the danberry bush.,
-q1_danberry,uti,LocalizedName,0,13494,Danberry,
-q1_herm_arm,uti,LocalizedName,0,-1,Nature's Armor,
-q1_hermitarmor,uti,DescIdentified,0,13776,"Hardened ironwood roots are knotted together and smoothed with age and magic. This unusual armor has the consistency of chainmail, though it is actually made of wood. It is significantly lighter than the metal version.",
-q1_hermitarmor,uti,Description,0,-1,"Hardened ironwood roots are knotted together and smoothed with age and magic. This unusual armor has the consistency of chainmail, though it is actually made of wood. It is significantly lighter than the metal version.",
-q1_hermitarmor,uti,LocalizedName,0,13818,Twisted Roots,
-q1_hermitclub,uti,DescIdentified,0,-1,This is the club the hermit gave you for telling him about the kobolds who were stealing his honey.,
-q1_hermitclub,uti,Description,0,-1,This is the club the hermit gave you for telling him about the kobolds who were stealing his honey.,
-q1_hermitclub,uti,LocalizedName,0,-1,Hermit's Club,
-q1_hermitstaff,uti,LocalizedName,0,14148,The Given Branch,
-q1_honey,uti,DescIdentified,0,-1,"This is honey from the hermit's beehives. It has a rich, pleasant odor.",
-q1_honey,uti,Description,0,-1,"This is honey from the hermit's beehives. It has a rich, pleasant odor.",
-q1_honey,uti,LocalizedName,0,-1,Honey,
+","이 쪽지는 다른 양피지에서 찢어낸 것 같습니다. 윗부분은 읽을 수 없지만, 아래에는 이렇게 적혀 있습니다.
+""그 마을 계집은 걱정 마라, 내가 처리하겠다. 이 새로운 놈이 거슬리기 시작한다. 제거하면 감사와 함께 항상 그랬듯 정해진 보수를 받을 것이다.""
+"
+os_itm_noteassas,uti,LocalizedName,0,-1,Assassin Note,암살자의 쪽지
+os_itm_notepaper,uti,DescIdentified,0,-1,"This is a peice of parchment that appears to have been ripped, as some of the words at the bottom have been torn off. You can't make out what they say... if only you had the other half.","찢어진 양피지 조각으로, 아래쪽 글자들이 찢겨져 나갔습니다. 무슨 내용인지 알아볼 수 없습니다... 나머지 반쪽이 있다면 좋겠지만."
+os_itm_notepaper,uti,Description,0,-1,"This is a peice of parchment that appears to have been ripped, as some of the words at the bottom have been torn off. You can't make out what they say... if only you had the other half.","찢어진 양피지 조각으로, 아래쪽 글자들이 찢겨져 나갔습니다. 무슨 내용인지 알아볼 수 없습니다... 나머지 반쪽이 있다면 좋겠지만."
+os_itm_notepaper,uti,LocalizedName,0,-1,Note Paper,쪽지
+os_jab_boots,uti,DescIdentified,0,-1,"Jaboli's well-worn boots may not draw a lot of attention for those looking for a fashion statement, but they are very useful. Jaboli has had this same set of boots for many years and will not willingly give them up.",자볼리의 낡은 장화는 멋을 추구하는 이들의 눈길을 끌지는 못하지만 매우 실용적입니다. 자볼리는 수년간 이 장화를 신어왔으며 자진해서 내어놓지 않을 것입니다.
+os_jab_boots,uti,LocalizedName,0,-1,Jaboli's Boots,자볼리의 장화
+os_jab_hide,uti,LocalizedName,0,-1,Jaboli's Hide,자볼리의 가죽
+os_jab_tears,uti,DescIdentified,0,-1,"This is an item that Jaboli made for you, as a gift of friendship. Finding your actions to be honorable, Jaboli was willing to part with some of her life energy to give you such a dear gift.",자볼리가 우정의 선물로 만들어준 물건입니다. 당신의 행동이 고결하다고 여긴 자볼리는 기꺼이 자신의 생명 에너지 일부를 나누어 이 소중한 선물을 주었습니다.
+os_jab_tears,uti,Description,0,-1,"This is an item that Jaboli made for you, as a gift of friendship. Finding your actions to be honorable, Jaboli was willing to part with some of her life energy to give you such a dear gift.",자볼리가 우정의 선물로 만들어준 물건입니다. 당신의 행동이 고결하다고 여긴 자볼리는 기꺼이 자신의 생명 에너지 일부를 나누어 이 소중한 선물을 주었습니다.
+os_jab_tears,uti,LocalizedName,0,-1,Tears of the Rakshasa,라크샤사의 눈물
+os_kai_leaf,uti,DescIdentified,0,-1,This outfit is magically made from the leaves and bark of a tree from Kaidala's home. It was a gift from the forest and Kaidala treasures it. She will not willingly part with this last rememberance of her former life.,카이달라의 고향에 있는 나무의 잎과 나무껍질로 마법을 이용해 만든 의복입니다. 숲에서 받은 선물이며 카이달라는 이전 삶의 마지막 기억인 이것을 소중히 여기며 기꺼이 내어놓지 않을 것입니다.
+os_kai_leaf,uti,LocalizedName,0,-1,Kaidala's Leaves,카이달라의 나뭇잎
+os_manticorehide,uti,DescIdentified,0,-1,This is the hide of a manticore you killed.,당신이 죽인 만티코어의 가죽입니다.
+os_manticorehide,uti,Description,0,-1,This is the hide of a manticore you killed.,당신이 죽인 만티코어의 가죽입니다.
+os_manticorehide,uti,LocalizedName,0,-1,Manticore Hide,만티코어 가죽
+os_merchantgodar,uti,LocalizedName,0,13798,Golden Plate,황금 판금 갑옷
+os_mw2bsword,uti,LocalizedName,0,-1,Magic Two-Bladed Sword,마법 쌍날검
+os_mwbaxe,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwbaxe,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwbaxe,uti,LocalizedName,0,-1,Magic Battle Axe,마법 전투 도끼
+os_mwbsword,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwbsword,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwbsword,uti,LocalizedName,0,-1,Magic Bastard Sword,마법 잡종 검
+os_mwclub,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwclub,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwclub,uti,LocalizedName,0,-1,Magic Club,마법 곤봉
+os_mwdagger,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwdagger,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwdagger,uti,LocalizedName,0,-1,Magic Dagger,마법 단검
+os_mwdaxe,uti,LocalizedName,0,-1,Magic Double Axe,마법 쌍날도끼
+os_mwdmace,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwdmace,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwdmace,uti,LocalizedName,0,-1,Magic Dire Mace,마법 철퇴봉
+os_mwgaxe,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwgaxe,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwgaxe,uti,LocalizedName,0,-1,Magic Great Axe,마법 대도끼
+os_mwgsword,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwgsword,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwgsword,uti,LocalizedName,0,-1,Magic Great Sword,마법 대검
+os_mwhalberd,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwhalberd,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwhalberd,uti,LocalizedName,0,-1,Magic Halberd,마법 미늘창
+os_mwhaxe,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwhaxe,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwhaxe,uti,LocalizedName,0,-1,Magic Hand Axe,마법 손도끼
+os_mwhflail,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwhflail,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwhflail,uti,LocalizedName,0,-1,Magic Heavy Flail,마법 중도리깨
+os_mwhxbow,uti,LocalizedName,0,-1,Magic Heavy Crossbow,마법 중쇠뇌
+os_mwkama,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwkama,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwkama,uti,LocalizedName,0,-1,Magic Kama,마법 카마
+os_mwkatana,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwkatana,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwkatana,uti,LocalizedName,0,-1,Magic Katana,마법 카타나
+os_mwkukri,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwkukri,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwkukri,uti,LocalizedName,0,-1,Magic Kukri,마법 쿠크리
+os_mwlbow,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlbow,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlbow,uti,LocalizedName,0,-1,Magic Longbow,마법 장궁
+os_mwlflail,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlflail,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlflail,uti,LocalizedName,0,-1,Magic Light Flail,마법 경도리깨
+os_mwlhammer,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlhammer,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlhammer,uti,LocalizedName,0,-1,Magic Light Hammer,마법 경량 망치
+os_mwlsword,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlsword,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlsword,uti,LocalizedName,0,-1,Magic Long Sword,마법 장검
+os_mwlxbow,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlxbow,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwlxbow,uti,LocalizedName,0,-1,Magic Light Crossbow,마법 경쇠뇌
+os_mwmace,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwmace,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwmace,uti,LocalizedName,0,-1,Magic Mace,마법 철퇴
+os_mwmstar,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwmstar,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwmstar,uti,LocalizedName,0,-1,Magic Morningstar,마법 가시철퇴
+os_mwqstaff,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwqstaff,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwqstaff,uti,LocalizedName,0,-1,Magic Quarterstaff,마법 육척봉
+os_mwrapier,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwrapier,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwrapier,uti,LocalizedName,0,-1,Magic Rapier,마법 세검
+os_mwsbow,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwsbow,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwsbow,uti,LocalizedName,0,-1,Magic Shortbow,마법 단궁
+os_mwscim,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwscim,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwscim,uti,LocalizedName,0,-1,Magic Scimitar,마법 시미터
+os_mwscythe,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwscythe,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwscythe,uti,LocalizedName,0,-1,Magic Scythe,마법 대낫
+os_mwsickle,uti,LocalizedName,0,-1,Magic Sickle,마법 낫
+os_mwsling,uti,LocalizedName,0,-1,Magic Sling,마법 투석구
+os_mwspear,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwspear,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwspear,uti,LocalizedName,0,-1,Magic Spear,마법 창
+os_mwssword,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwssword,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwssword,uti,LocalizedName,0,-1,Magic Short Sword,마법 소검
+os_mwwarham,uti,DescIdentified,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwwarham,uti,Description,0,-1,"This is the mysterious magic weapon that saved your life and appeared on your body. Besides using it in combat, the weapon has a number of different abilities, some of which you may not have discovered yet.",이것은 당신의 생명을 구하고 몸에 나타난 신비한 마법 무기입니다. 전투에 사용하는 것 외에도 아직 발견하지 못한 다양한 능력이 있습니다.
+os_mwwarham,uti,LocalizedName,0,-1,Magic Warhammer,마법 전쟁망치
+os_trip_belt,uti,DescIdentified,0,-1,"This belt was taken from Sir Becket's home, by the wererat, Trip.
+The belt appears to strengthen the wearer's upper body and make the wearer harder to hit, but its fit is so tight, the wearer is often short of breath.","쥐인간 트립이 베켓 경의 집에서 가져온 벨트입니다.
+착용자의 상체를 강화하고 맞기 어렵게 만드는 듯하지만, 너무 꽉 조여서 종종 숨이 차게 됩니다."
+os_trip_belt,uti,Description,0,-1,"This belt was taken from Sir Becket's home, by the wererat, Trip. ",쥐인간 트립이 베켓 경의 집에서 가져온 벨트입니다.
+os_trip_belt,uti,LocalizedName,0,-1,Belcher's Belt,벨처의 벨트
+os_trip_hide,uti,LocalizedName,0,-1,Trip's Properties,트립의 속성
+os_trip_talsmn,uti,DescIdentified,0,-1,"This is Trip's magic talisman, a dirty, old rat's skull hung on a leather thong. Trip often chews on the skull and believes it brings him luck. He will not part with the charm.","트립의 마법 부적으로, 가죽 끈에 매달린 더럽고 낡은 쥐 두개골입니다. 트립은 종종 두개골을 씹으며 행운을 가져다준다고 믿습니다. 이 부적을 절대 내어놓지 않을 것입니다."
+os_trip_talsmn,uti,LocalizedName,0,-1,Trip's Ratskull Talisman,트립의 쥐두개골 부적
+os_tripclaws001,uti,LocalizedName,0,-1,Trip's Claws 1,트립의 발톱 1
+os_tripclaws002,uti,LocalizedName,0,-1,Trip's Claws 2,트립의 발톱 2
+os_tripclaws003,uti,LocalizedName,0,-1,Trip's Claws 3,트립의 발톱 3
+os_tripsamulet,uti,DescIdentified,0,-1,"This is Trip's smelly, old rat skull necklace. He frequently chews and drools on it. Despite its worthless-looking nature, the pendant actually has several magical enhancements. Unfortunately the smell alone is enough to reduce the wearer's appeal to most civilized company.",트립의 냄새나는 낡은 쥐 두개골 목걸이입니다. 자주 씹으며 침을 흘립니다. 쓸모없어 보이지만 실제로 여러 마법 강화가 붙어 있습니다. 불행히도 냄새만으로도 대부분의 문명인들에게 호감을 떨어뜨리기에 충분합니다.
+os_tripsamulet,uti,Description,0,-1,"This is Trip's smelly, old rat skull necklace. He frequently chews and drools on it. Despite its worthless-looking nature, the pendant actually has several magical enhancements. Unfortunately the smell alone is enough to reduce the wearer's appeal to most civilized company.",트립의 냄새나는 낡은 쥐 두개골 목걸이입니다. 자주 씹으며 침을 흘립니다. 쓸모없어 보이지만 실제로 여러 마법 강화가 붙어 있습니다. 불행히도 냄새만으로도 대부분의 문명인들에게 호감을 떨어뜨리기에 충분합니다.
+os_tripsamulet,uti,LocalizedName,0,-1,Trip's Amulet,트립의 부적
+os_warriorring,uti,LocalizedName,0,13484,Warrior's Ring,전사의 반지
+os_wolfpelt,uti,LocalizedName,0,-1,Wolf Pelt,늑대 가죽
+pzl_mobilemirror,uti,DescIdentified,0,-1,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",이 거대한 돌 테두리 거울의 반짝이는 표면에 비친 자신의 모습을 바라봅니다.
+pzl_mobilemirror,uti,LocalizedName,0,-1,Mysterious Mirror,신비한 거울
+q1_dan_helm,uti,LocalizedName,0,-1,Dan's Helm,단의 투구
+q1_danberry,uti,DescIdentified,0,58566,These are the berries made by the danberry bush.,댄베리 관목에서 열리는 열매입니다.
+q1_danberry,uti,LocalizedName,0,13494,Danberry,댄베리
+q1_herm_arm,uti,LocalizedName,0,-1,Nature's Armor,자연의 갑옷
+q1_hermitarmor,uti,DescIdentified,0,13776,"Hardened ironwood roots are knotted together and smoothed with age and magic. This unusual armor has the consistency of chainmail, though it is actually made of wood. It is significantly lighter than the metal version.","단단해진 철목 뿌리가 엮이고, 오랜 세월과 마법으로 매끄럽게 다듬어졌습니다."
+q1_hermitarmor,uti,Description,0,-1,"Hardened ironwood roots are knotted together and smoothed with age and magic. This unusual armor has the consistency of chainmail, though it is actually made of wood. It is significantly lighter than the metal version.",단단한 철목 뿌리들이 서로 엮이고 시간과 마법으로 매끄럽게 다듬어졌습니다. 이 독특한 갑옷은 사슬 갑옷의 견고함을 가지고 있지만 실제로는 나무로 만들어졌습니다. 금속 갑옷보다 훨씬 가볍습니다.
+q1_hermitarmor,uti,LocalizedName,0,13818,Twisted Roots,뒤틀린 뿌리
+q1_hermitclub,uti,DescIdentified,0,-1,This is the club the hermit gave you for telling him about the kobolds who were stealing his honey.,은둔자가 꿀을 훔치는 코볼트에 대해 알려준 대가로 준 곤봉입니다.
+q1_hermitclub,uti,Description,0,-1,This is the club the hermit gave you for telling him about the kobolds who were stealing his honey.,은둔자가 꿀을 훔치는 코볼트에 대해 알려준 대가로 준 곤봉입니다.
+q1_hermitclub,uti,LocalizedName,0,-1,Hermit's Club,은둔자의 곤봉
+q1_hermitstaff,uti,LocalizedName,0,14148,The Given Branch,내려준 가지
+q1_honey,uti,DescIdentified,0,-1,"This is honey from the hermit's beehives. It has a rich, pleasant odor.",은둔자의 벌통에서 얻은 꿀입니다. 풍부하고 기분 좋은 향기가 납니다.
+q1_honey,uti,Description,0,-1,"This is honey from the hermit's beehives. It has a rich, pleasant odor.",은둔자의 벌통에서 얻은 꿀입니다. 풍부하고 기분 좋은 향기가 납니다.
+q1_honey,uti,LocalizedName,0,-1,Honey,꿀
 q1_kaidala_seed,uti,DescIdentified,0,-1,"This tiny acorn is a gift of trust from your companion, Kaidala. She has granted you with this acorn in the hopes that, together, you may find a safe place to plant it.
-",
-q1_kaidala_seed,uti,LocalizedName,0,-1,Acorn,
-q1_poisondagger,uti,DescIdentified,0,-1,"The Sophic Society of Assassins have only a single symbol marking one of their order. The Ithari is a poisoned dagger that causes a burning sensation when it touches bare skin, and drains the strength of those who are injured by it. Whoever left this dagger here belonged to one of the most powerful and deadly organizations in Valratha.",
-q1_poisondagger,uti,Description,0,-1,"The Sophic Society of Assassins have only a single symbol marking one of their order. The Ithari is a poisoned dagger that causes a burning sensation when it touches bare skin, and drains the strength of those who are injured by it. Whoever left this dagger here belonged to one of the most powerful and deadly organizations in Valratha.",
-q1_poisondagger,uti,LocalizedName,0,-1,Poison Blade,
-q2_bulgersbelt,uti,DescIdentified,0,-1,Bulger was a cowardly wizard who specialized in crafting magical items of a defensive nature. Sadly his paranioa caused him to become such a recluse that no one has seen him in over 200 years.,
-q2_bulgersbelt,uti,LocalizedName,0,-1,Bulger's Belt,
-q2_bulgersboots,uti,DescIdentified,0,-1,Bulger was a cowardly wizard who specialized in crafting magical items of a defensive nature. Sadly his paranioa caused him to become such a recluse that no one has seen him in over 200 years.,
-q2_bulgersboots,uti,LocalizedName,0,-1,Bulger's Boots,
-q2_bulgersbracer,uti,DescIdentified,0,-1,Bulger was a cowardly wizard who specialized in crafting magical items of a defensive nature. Sadly his paranioa caused him to become such a recluse that no one has seen him in over 200 years.,
-q2_bulgersbracer,uti,LocalizedName,0,-1,Bulger's Bracer,
-q2_cloakofspi001,uti,DescIdentified,0,-1,"This cloak was a gift from Stiletto, a thief you helped free from prison. It appears to give the wearer some of the properties of a spider.",
-q2_cloakofspi001,uti,Description,0,-1,"This cloak was a gift from Stiletto, a thief you helped free from prison. ",
-q2_cloakofspi001,uti,LocalizedName,0,-1,Cloak of Spiders,
-q2_cloakofspider,uti,LocalizedName,0,66543,Cloak of Spiders,
-q2_coriscloak,uti,LocalizedName,0,-1,Cori's Cloak,
-q2_flower,uti,DescIdentified,0,-1,"This is a beautiful, gentle flower.",
-q2_flower,uti,Description,0,-1,"This is a beautiful, gentle flower.",
-q2_flower,uti,LocalizedName,0,-1,Cori's Bloom,
+","이 작은 도토리는 동료 카이달라가 신뢰의 표시로 준 선물입니다. 함께 안전한 곳을 찾아 심을 수 있기를 바라며 이 도토리를 주었습니다.
+"
+q1_kaidala_seed,uti,LocalizedName,0,-1,Acorn,도토리
+q1_poisondagger,uti,DescIdentified,0,-1,"The Sophic Society of Assassins have only a single symbol marking one of their order. The Ithari is a poisoned dagger that causes a burning sensation when it touches bare skin, and drains the strength of those who are injured by it. Whoever left this dagger here belonged to one of the most powerful and deadly organizations in Valratha.","소픽 암살자 결사는 자신들의 조직원임을 나타내는 단 하나의 상징만을 가지고 있습니다. 이타리는 맨살에 닿으면 화끈거리는 감각을 일으키고, 부상당한 자의 힘을 빼앗는 독단검입니다. 이 단검을 이곳에 남긴 자는 발라타에서 가장 강력하고 치명적인 조직 중 하나에 속했던 것입니다."
+q1_poisondagger,uti,Description,0,-1,"The Sophic Society of Assassins have only a single symbol marking one of their order. The Ithari is a poisoned dagger that causes a burning sensation when it touches bare skin, and drains the strength of those who are injured by it. Whoever left this dagger here belonged to one of the most powerful and deadly organizations in Valratha.","소픽 암살자 결사는 자신들의 조직원임을 나타내는 단 하나의 상징만을 가지고 있습니다. 이타리는 맨살에 닿으면 화끈거리는 감각을 일으키고, 부상당한 자의 힘을 빼앗는 독단검입니다. 이 단검을 이곳에 남긴 자는 발라타에서 가장 강력하고 치명적인 조직 중 하나에 속했던 것입니다."
+q1_poisondagger,uti,LocalizedName,0,-1,Poison Blade,독의 칼날
+q2_bulgersbelt,uti,DescIdentified,0,-1,Bulger was a cowardly wizard who specialized in crafting magical items of a defensive nature. Sadly his paranioa caused him to become such a recluse that no one has seen him in over 200 years.,벌저는 방어용 마법 아이템 제작을 전문으로 하는 겁쟁이 마법사였습니다. 안타깝게도 그의 편집증으로 인해 200년이 넘도록 아무도 그를 본 적이 없을 정도로 은둔하게 되었습니다.
+q2_bulgersbelt,uti,LocalizedName,0,-1,Bulger's Belt,벌저의 벨트
+q2_bulgersboots,uti,DescIdentified,0,-1,Bulger was a cowardly wizard who specialized in crafting magical items of a defensive nature. Sadly his paranioa caused him to become such a recluse that no one has seen him in over 200 years.,벌저는 방어용 마법 아이템 제작을 전문으로 하는 겁쟁이 마법사였습니다. 안타깝게도 그의 편집증으로 인해 200년이 넘도록 아무도 그를 본 적이 없을 정도로 은둔하게 되었습니다.
+q2_bulgersboots,uti,LocalizedName,0,-1,Bulger's Boots,벌저의 장화
+q2_bulgersbracer,uti,DescIdentified,0,-1,Bulger was a cowardly wizard who specialized in crafting magical items of a defensive nature. Sadly his paranioa caused him to become such a recluse that no one has seen him in over 200 years.,벌저는 방어용 마법 아이템 제작을 전문으로 하는 겁쟁이 마법사였습니다. 안타깝게도 그의 편집증으로 인해 200년이 넘도록 아무도 그를 본 적이 없을 정도로 은둔하게 되었습니다.
+q2_bulgersbracer,uti,LocalizedName,0,-1,Bulger's Bracer,벌저의 완갑
+q2_cloakofspi001,uti,DescIdentified,0,-1,"This cloak was a gift from Stiletto, a thief you helped free from prison. It appears to give the wearer some of the properties of a spider.",감옥에서 탈출시켜 준 도적 스틸레토가 준 망토입니다. 착용자에게 거미의 특성 일부를 부여하는 듯합니다.
+q2_cloakofspi001,uti,Description,0,-1,"This cloak was a gift from Stiletto, a thief you helped free from prison. ",감옥에서 탈출시켜 준 도적 스틸레토가 준 망토입니다.
+q2_cloakofspi001,uti,LocalizedName,0,-1,Cloak of Spiders,거미의 망토
+q2_cloakofspider,uti,LocalizedName,0,66543,Cloak of Spiders,거미의 망토
+q2_coriscloak,uti,LocalizedName,0,-1,Cori's Cloak,코리의 망토
+q2_flower,uti,DescIdentified,0,-1,"This is a beautiful, gentle flower.",아름답고 부드러운 꽃입니다.
+q2_flower,uti,Description,0,-1,"This is a beautiful, gentle flower.",아름답고 부드러운 꽃입니다.
+q2_flower,uti,LocalizedName,0,-1,Cori's Bloom,코리의 꽃
 q2_goblinnote,uti,DescIdentified,0,-1,"This is a note, written by a crude, goblin hand.
 ""This be all the gold that be left from getting ogres to join army. If the Master wants us to hire more things, like a barbarian tribe or a dragon, we gonna need more gold! This might buy more goblins, but Master not seem real impressed with us so far.
-Um... and ogres smashed Bedzil to jelly, so now me gonna need new partner.""",
+Um... and ogres smashed Bedzil to jelly, so now me gonna need new partner.""","고블린의 서투른 손으로 쓴 쪽지입니다.
+""이거 오거들 군대에 넣으려고 쓰고 남은 금 전부다. 주인님이 야만인 부족이나 용 같은 거 더 고용하라면 금 더 필요하다! 이 정도면 고블린 더 살 수 있긴 한데, 주인님이 우리한테 별로 감동 안 한 것 같다.
+음... 그리고 오거들이 베질을 젤리처럼 으깼으니까 이제 새 동료 찾아야 한다."""
 q2_goblinnote,uti,Description,0,-1,"This is a note, written by a crude, goblin hand.
 ""This be all the gold that be left from getting ogres to join army. If the Master wants us to hire more things, like a barbarian tribe or a dragon, we gonna need more gold! This might buy more goblins, but Master not seem real impressed with us so far.
-Um... and ogres smashed Bedzil to jelly, so now me gonna need new partner.""",
-q2_goblinnote,uti,LocalizedName,0,-1,Goblin Note,
-q2_itm_beckring,uti,DescIdentified,0,56645,This is an enchanted ring bearing the Becket family crest.,
-q2_itm_beckring,uti,LocalizedName,0,56644,Becket's Ring,
+Um... and ogres smashed Bedzil to jelly, so now me gonna need new partner.""","고블린의 서투른 손으로 쓴 쪽지입니다.
+""이거 오거들 군대에 넣으려고 쓰고 남은 금 전부다. 주인님이 야만인 부족이나 용 같은 거 더 고용하라면 금 더 필요하다! 이 정도면 고블린 더 살 수 있긴 한데, 주인님이 우리한테 별로 감동 안 한 것 같다.
+음... 그리고 오거들이 베질을 젤리처럼 으깼으니까 이제 새 동료 찾아야 한다."""
+q2_goblinnote,uti,LocalizedName,0,-1,Goblin Note,고블린 쪽지
+q2_itm_beckring,uti,DescIdentified,0,56645,This is an enchanted ring bearing the Becket family crest.,베켓 가문의 문장이 새겨진 마법 반지입니다.
+q2_itm_beckring,uti,LocalizedName,0,56644,Becket's Ring,베켓의 반지
 q2_limitedbracer,uti,DescIdentified,0,-1,"Friskar Talisin was an eccentric mage who created a menagerie of magical items that were neither really good, nor really bad. For every useful power he would imbue the bracers with, he would add something negative to balance their usefulness.
-In the end, Friskar was killed using his lost Ring of Endless Fireballs, which dropped small meteorites on the head of the person blasting his opponents with fireballs.",
-q2_limitedbracer,uti,Description,0,-1,These were stolen from Yenna's tower by Trip.,
-q2_limitedbracer,uti,LocalizedName,0,-1,Bracers of Limited Functionality,
-q2_lordshelm,uti,DescIdentified,0,-1,A good ruler must be persuasive and capable of defending both themselves and their people. This helm is the traditional crown of the Lord or Lady of the Keep in the north. Long have the rulers of the north been known as competent and difficult to kill.,
-q2_lordshelm,uti,Description,0,-1,A good ruler must be persuasive and capable of defending both themselves and their people. This helm is the traditional crown of the Lord or Lady of the Keep in the north. Long have the rulers of the north been known as competent and difficult to kill.,
-q2_lordshelm,uti,LocalizedName,0,-1,Lord's Helm,
-q2_rafaelcoin,uti,DescIdentified,0,-1,"This strange coin was the toy of Rafael, priest of Callahi. It appears that the coin exists only in a single moment of time, which is why it always lands heads when flipped. Using the coin might enable you to slip into that moment in time, effectively stopping time for a short period. Using it this way would likely destroy the coin, unfortunately.",
-q2_rafaelcoin,uti,Description,0,-1,"This strange coin was the toy of Rafael, priest of Callahi.",
-q2_rafaelcoin,uti,LocalizedName,0,-1,Rafael's Coin,
-q2_whitewand,uti,DescIdentified,0,-1,This wand belonged to the White Warlock Lord of the north. It was a gift from his spirit.,
-q2_whitewand,uti,Description,0,-1,This wand belonged to the White Warlock Lord of the north. It was a gift from his spirit.,
-q2_whitewand,uti,LocalizedName,0,-1,The White Wand,
-q2_yawning,uti,LocalizedName,0,-1,Yawning Boots,
-q2c24b_cellkey,uti,LocalizedName,0,-1,Cell Key,
-q2c_itm_keyhaunt,uti,DescIdentified,0,-1,"This is the key to the house you purchased. The house is supposed to be haunted, so it is doubtful anyone will be breaking in any time soon.",
-q2c_itm_keyhaunt,uti,Description,0,-1,"This is the key to the house you purchased. The house is supposed to be haunted, so it is doubtful anyone will be breaking in any time soon.",
-q2c_itm_keyhaunt,uti,LocalizedName,0,-1,Haunted House Key,
-q3_brokenelem,uti,DescIdentified,0,-1,"This looks to have been some kind of magical urn, possibly used in summoning a water elemental. This would explain how such a weak creature could have a water elemental in its control.",
-q3_brokenelem,uti,LocalizedName,0,-1,Broken Urn,
-q3_crystalorb,uti,LocalizedName,0,-1,Crystal Orb,
-q3_dragonslipper,uti,DescIdentified,0,13338,These slippers appear to be made of dragon skin.,
-q3_grain,uti,DescIdentified,0,-1,"You might be able to use this grain to lure the cows out of the kobold caves, if you can keep the chickens from eating it.",
-q3_grain,uti,Description,0,-1,"You might be able to use this grain to lure the cows out of the kobold caves, if you can keep the chickens from eating it.",
-q3_grain,uti,LocalizedName,0,-1,Grain,
+In the end, Friskar was killed using his lost Ring of Endless Fireballs, which dropped small meteorites on the head of the person blasting his opponents with fireballs.","프리스카르 탈리신은 정말 좋지도 나쁘지도 않은 마법 아이템들을 만든 괴짜 마법사였습니다. 완갑에 유용한 능력을 부여할 때마다 유용성을 상쇄하기 위해 부정적인 것을 추가했습니다.
+결국 프리스카르는 자신이 잃어버린 끝없는 화염구 반지에 의해 죽었는데, 이 반지는 화염구로 적을 폭파하는 사람의 머리 위에 작은 운석을 떨어뜨리는 것이었습니다."
+q2_limitedbracer,uti,Description,0,-1,These were stolen from Yenna's tower by Trip.,트립이 예나의 탑에서 훔친 것입니다.
+q2_limitedbracer,uti,LocalizedName,0,-1,Bracers of Limited Functionality,제한된 기능의 완갑
+q2_lordshelm,uti,DescIdentified,0,-1,A good ruler must be persuasive and capable of defending both themselves and their people. This helm is the traditional crown of the Lord or Lady of the Keep in the north. Long have the rulers of the north been known as competent and difficult to kill.,훌륭한 통치자는 설득력이 있어야 하며 자신과 백성 모두를 방어할 수 있어야 합니다. 이 투구는 북부 요새 영주의 전통적인 왕관입니다. 오랫동안 북부의 통치자들은 유능하고 죽이기 어려운 것으로 알려져 왔습니다.
+q2_lordshelm,uti,Description,0,-1,A good ruler must be persuasive and capable of defending both themselves and their people. This helm is the traditional crown of the Lord or Lady of the Keep in the north. Long have the rulers of the north been known as competent and difficult to kill.,훌륭한 통치자는 설득력이 있어야 하며 자신과 백성 모두를 방어할 수 있어야 합니다. 이 투구는 북부 요새 영주의 전통적인 왕관입니다. 오랫동안 북부의 통치자들은 유능하고 죽이기 어려운 것으로 알려져 왔습니다.
+q2_lordshelm,uti,LocalizedName,0,-1,Lord's Helm,영주의 투구
+q2_rafaelcoin,uti,DescIdentified,0,-1,"This strange coin was the toy of Rafael, priest of Callahi. It appears that the coin exists only in a single moment of time, which is why it always lands heads when flipped. Using the coin might enable you to slip into that moment in time, effectively stopping time for a short period. Using it this way would likely destroy the coin, unfortunately.","칼라히의 사제 라파엘의 장난감이었던 이상한 동전입니다. 이 동전은 시간의 한 순간에만 존재하는 것 같으며, 그래서 던지면 항상 앞면이 나옵니다. 이 동전을 사용하면 그 시간의 순간에 빠져들어 짧은 시간 동안 시간을 멈출 수 있을지도 모릅니다. 불행히도 그렇게 사용하면 동전이 파괴될 가능성이 높습니다."
+q2_rafaelcoin,uti,Description,0,-1,"This strange coin was the toy of Rafael, priest of Callahi.",칼라히의 사제 라파엘의 장난감이었던 이상한 동전입니다.
+q2_rafaelcoin,uti,LocalizedName,0,-1,Rafael's Coin,라파엘의 동전
+q2_whitewand,uti,DescIdentified,0,-1,This wand belonged to the White Warlock Lord of the north. It was a gift from his spirit.,이 마법봉은 북부의 백색 흑마법사 영주의 것이었습니다. 그의 영혼이 준 선물입니다.
+q2_whitewand,uti,Description,0,-1,This wand belonged to the White Warlock Lord of the north. It was a gift from his spirit.,이 마법봉은 북부의 백색 흑마법사 영주의 것이었습니다. 그의 영혼이 준 선물입니다.
+q2_whitewand,uti,LocalizedName,0,-1,The White Wand,백색 마법봉
+q2_yawning,uti,LocalizedName,0,-1,Yawning Boots,하품의 장화
+q2c24b_cellkey,uti,LocalizedName,0,-1,Cell Key,감방 열쇠
+q2c_itm_keyhaunt,uti,DescIdentified,0,-1,"This is the key to the house you purchased. The house is supposed to be haunted, so it is doubtful anyone will be breaking in any time soon.",당신이 구입한 집의 열쇠입니다. 유령이 나온다는 소문이 있어서 누군가 침입할 가능성은 낮습니다.
+q2c_itm_keyhaunt,uti,Description,0,-1,"This is the key to the house you purchased. The house is supposed to be haunted, so it is doubtful anyone will be breaking in any time soon.",당신이 구입한 집의 열쇠입니다. 유령이 나온다는 소문이 있어서 누군가 침입할 가능성은 낮습니다.
+q2c_itm_keyhaunt,uti,LocalizedName,0,-1,Haunted House Key,유령의 집 열쇠
+q3_brokenelem,uti,DescIdentified,0,-1,"This looks to have been some kind of magical urn, possibly used in summoning a water elemental. This would explain how such a weak creature could have a water elemental in its control.","일종의 마법 항아리였던 것 같으며, 아마도 물의 정령을 소환하는 데 사용된 것으로 보입니다. 그토록 약한 생물이 물의 정령을 지배할 수 있었던 이유가 설명됩니다."
+q3_brokenelem,uti,LocalizedName,0,-1,Broken Urn,부서진 항아리
+q3_crystalorb,uti,LocalizedName,0,-1,Crystal Orb,수정 구슬
+q3_dragonslipper,uti,DescIdentified,0,13338,These slippers appear to be made of dragon skin.,드래곤 가죽으로 만든 것으로 보이는 슬리퍼입니다.
+q3_grain,uti,DescIdentified,0,-1,"You might be able to use this grain to lure the cows out of the kobold caves, if you can keep the chickens from eating it.","닭들이 먹지 못하게 할 수 있다면, 이 곡물로 코볼트 동굴에서 소들을 유인할 수 있을 것입니다."
+q3_grain,uti,Description,0,-1,"You might be able to use this grain to lure the cows out of the kobold caves, if you can keep the chickens from eating it.","닭들이 먹지 못하게 할 수 있다면, 이 곡물로 코볼트 동굴에서 소들을 유인할 수 있을 것입니다."
+q3_grain,uti,LocalizedName,0,-1,Grain,곡물
 q3_itm_archjourn,uti,DescIdentified,0,-1,"This is the journal of the last lord of the keep's advisor. It seems to be largely intact and mostly boring until near the end. These are a few interesting excerpts:
 ""My Lord has become more and more obsessed with the idea of controlling an undead army. He has the key I found that will open the planar gate, yet I fear that we are missing something... something very important. I have found some oblique references to another key, but I know not what the other key would do, nor where it lies. I shall have to return to the ruins and see if I can finally discover a way to activate the crystal ball. I am sure the answers must be hidden within it.""
 The last entry:
 ""My lord is impatient to open the planar gate. I have begged him to hold off until I am done here, and my efforts have finally paid off. Today I managed to activate the crystal ball! The second key is used for controlling the undead army. Without it, opening the planar gate would be suicide! I can now return and tell my lord exactly where the second key is and how it works. I am sure he will be pleased with... now where did my page run off to? There was a noise in the antechamber, which I sent him to investigate, but he hasn't returned. I guess I shall have to go find him, then return to the keep.""
-",
+","요새의 마지막 영주의 고문관이 쓴 일지입니다. 대체로 온전하며 끝부분을 제외하면 대부분 지루한 내용입니다. 흥미로운 발췌 몇 가지:
+""영주님께서 언데드 군대를 지배하겠다는 생각에 점점 더 집착하고 계신다. 내가 찾은 차원문을 열 열쇠를 갖고 계시지만, 무언가를 놓치고 있는 것 같다... 매우 중요한 무언가를. 다른 열쇠에 대한 간접적인 언급을 찾았지만, 그 열쇠가 무엇을 하는지도, 어디에 있는지도 모르겠다. 폐허로 돌아가 수정 구슬을 활성화할 방법을 찾아봐야겠다. 답은 분명 그 안에 숨겨져 있을 것이다.""
+마지막 기록:
+""영주님께서 차원문을 열고 싶어 안달이시다. 여기서 작업이 끝날 때까지 기다려 달라고 간청했고, 마침내 노력이 결실을 맺었다. 오늘 수정 구슬을 활성화하는 데 성공했다! 두 번째 열쇠는 언데드 군대를 지배하는 데 쓰인다. 그것 없이 차원문을 여는 것은 자살 행위다! 이제 돌아가 영주님께 두 번째 열쇠의 위치와 사용법을 정확히 알려드릴 수 있다. 분명 기뻐하실... 그런데 시종이 어디로 간 거지? 전실에서 소리가 나서 조사하러 보냈는데 돌아오지 않는다. 직접 가서 찾은 다음 요새로 돌아가야겠다.""
+"
 q3_itm_archjourn,uti,Description,0,-1,"This is the journal of the last lord of the keep's advisor. It seems to be largely intact and mostly boring until near the end. These are a few interesting excerpts:
 ""My Lord has become more and more obsessed with the idea of controlling an undead army. He has the key I found that will open the planar gate, yet I fear that we are missing something... something very important. I have found some oblique references to another key, but I know not what the other key would do, nor where it lies. I shall have to return to the ruins and see if I can finally discover a way to activate the crystal ball. I am sure the answers must be hidden within it.""
 The last entry:
 ""My lord is impatient to open the planar gate. I have begged him to hold off until I am done here, and my efforts have finally paid off. Today I managed to activate the crystal ball! The second key is used for controlling the undead army. Without it, opening the planar gate would be suicide! I can now return and tell my lord exactly where the second key is and how it works. I am sure he will be pleased with... now where did my page run off to? There was a noise in the antechamber, which I sent him to investigate, but he hasn't returned. I guess I shall have to go find him, then return to the keep.""
-",
-q3_itm_archjourn,uti,LocalizedName,0,-1,Undead Journal,
-q3_itm_chiefhead,uti,DescIdentified,0,-1,"This is the head of the goblin chief, whose tribe had taken over some local caves. This might be valuable to show someone what you have accomplished.",
-q3_itm_chiefhead,uti,Description,0,-1,"This is the head of the goblin chief, whose tribe had taken over some local caves. This might be valuable to show someone what you have accomplished.",
-q3_itm_chiefhead,uti,LocalizedName,0,-1,Goblin Head,
-q3_itm_duerhamm,uti,LocalizedName,0,178,Duergar Hammer,
-q3_itm_duerhead,uti,LocalizedName,0,-1,Duergar Head,
+","요새의 마지막 영주의 고문관이 쓴 일지입니다. 대체로 온전하며 끝부분을 제외하면 대부분 지루한 내용입니다. 흥미로운 발췌 몇 가지:
+""영주님께서 언데드 군대를 지배하겠다는 생각에 점점 더 집착하고 계신다. 내가 찾은 차원문을 열 열쇠를 갖고 계시지만, 무언가를 놓치고 있는 것 같다... 매우 중요한 무언가를. 다른 열쇠에 대한 간접적인 언급을 찾았지만, 그 열쇠가 무엇을 하는지도, 어디에 있는지도 모르겠다. 폐허로 돌아가 수정 구슬을 활성화할 방법을 찾아봐야겠다. 답은 분명 그 안에 숨겨져 있을 것이다.""
+마지막 기록:
+""영주님께서 차원문을 열고 싶어 안달이시다. 여기서 작업이 끝날 때까지 기다려 달라고 간청했고, 마침내 노력이 결실을 맺었다. 오늘 수정 구슬을 활성화하는 데 성공했다! 두 번째 열쇠는 언데드 군대를 지배하는 데 쓰인다. 그것 없이 차원문을 여는 것은 자살 행위다! 이제 돌아가 영주님께 두 번째 열쇠의 위치와 사용법을 정확히 알려드릴 수 있다. 분명 기뻐하실... 그런데 시종이 어디로 간 거지? 전실에서 소리가 나서 조사하러 보냈는데 돌아오지 않는다. 직접 가서 찾은 다음 요새로 돌아가야겠다.""
+"
+q3_itm_archjourn,uti,LocalizedName,0,-1,Undead Journal,언데드 일지
+q3_itm_chiefhead,uti,DescIdentified,0,-1,"This is the head of the goblin chief, whose tribe had taken over some local caves. This might be valuable to show someone what you have accomplished.",지역 동굴을 점령한 고블린 부족의 족장 머리입니다. 누군가에게 당신이 이룬 일을 보여주는 데 유용할 수 있습니다.
+q3_itm_chiefhead,uti,Description,0,-1,"This is the head of the goblin chief, whose tribe had taken over some local caves. This might be valuable to show someone what you have accomplished.",지역 동굴을 점령한 고블린 부족의 족장 머리입니다. 누군가에게 당신이 이룬 일을 보여주는 데 유용할 수 있습니다.
+q3_itm_chiefhead,uti,LocalizedName,0,-1,Goblin Head,고블린 머리
+q3_itm_duerhamm,uti,LocalizedName,0,178,Duergar Hammer,듀에르가 망치
+q3_itm_duerhead,uti,LocalizedName,0,-1,Duergar Head,듀에르가 머리
 q3_itm_kobjourn,uti,DescIdentified,0,-1,"Some rough and difficult scratchings in this book lead you to believe that the kobold chief was trying to record his life, but most of it is unreadable. One of the things you do manage to make out is that the kobolds don't really like working for the ""Master"", but everytime they try to quit, he makes their head's hurt.
-The rest of the book has scribblings of strange animals that live in some kind of woods and have various adventures. The main character is rather round and seems to have some kind of honey fetish. Hardly surprising considering what you've noticed about the kobold tribe.",
-q3_itm_kobjourn,uti,LocalizedName,0,-1,Kobold Journal,
-q3_itm_slavekey,uti,LocalizedName,0,-1,Goblin Key,
-q3_jabamulet,uti,DescIdentified,0,-1,"This is an item that Jaboli made for you, as a gift of friendship. Finding your actions to be honorable, Jaboli was willing to part with some of her life energy to give you such a dear gift.",
-q3_jabamulet,uti,Description,0,-1,"This is an item that Jaboli made for you, as a gift of friendship. Finding your actions to be honorable, Jaboli was willing to part with some of her life energy to give you such a dear gift.",
-q3_jabamulet,uti,LocalizedName,0,-1,Jaboli's Amulet,
-q3_laughingblade,uti,DescIdentified,0,14382,It is doubtful the victim of a Laughing Blade finds anything humorous about it. ,
-q3_lightningrod,uti,LocalizedName,0,-1,Lightning Rod,
-q3_minersbelt,uti,LocalizedName,0,-1,Miner's Belt,
-q3_mj_armor,uti,LocalizedName,0,-1,Momma Ji's Armor,
-q3_naturalarmour,uti,DescIdentified,0,13381,An amulet of natural armor.,
-q3_poisoncrystal,uti,LocalizedName,0,-1,Poison Crystal,
-q3_psionicgem,uti,LocalizedName,0,-1,Psionic Gem,
-q3_stonefireaxe,uti,DescIdentified,0,13928,A stonefire axe.,
-q3_witherstick,uti,DescIdentified,0,14138,A powerful quarterstaff.,
-q3_witherstick,uti,LocalizedName,0,14139,Wither-Stick,
-q3ac_key_barbed,uti,LocalizedName,0,-1,Barbed Key,
-q3ac_key_copper,uti,LocalizedName,0,-1,Copper Key,
-q3ac_key_gold,uti,LocalizedName,0,-1,Gold Key,
-q3ac_key_shell,uti,LocalizedName,0,-1,Shell Key,
-q3ac_key_silver,uti,LocalizedName,0,-1,Silver Key,
-q3ac_key_skull,uti,LocalizedName,0,-1,Skull Key,
-q3ac_key_tooth,uti,LocalizedName,0,-1,Tooth Key,
-q3af_stn_blue,uti,LocalizedName,0,-1,Blue Glass,
-q3af_stn_green,uti,LocalizedName,0,-1,Green Glass,
-q3af_stn_orange,uti,LocalizedName,0,-1,Orange Glass,
-q3af_stn_purple,uti,LocalizedName,0,-1,Purple Glass,
-q3af_stn_red,uti,LocalizedName,0,-1,Red Glass,
-q3af_stn_yellow,uti,LocalizedName,0,-1,Yellow Glass,
-q3ag_itm_shovel,uti,LocalizedName,0,-1,Shovel,
-q3ai_cal_rathide,uti,LocalizedName,0,-1,Rat Hide,
-stuff1,uti,LocalizedName,0,-1,stuff1,
-stuff2,uti,LocalizedName,0,-1,stuff2,
-stuff3,uti,LocalizedName,0,-1,stuff3,
-stuff4,uti,LocalizedName,0,-1,stuff4,
-themaskedhelm,uti,LocalizedName,0,-1,The Masked Helm,
-wblmhw012,uti,LocalizedName,0,14012,Glassy's Hammer,
-wbwmln008,uti,DescIdentified,0,14051,"These bows seem primitive at first glance, but behind the crude sinew and hide is a powerful weapon. They are most often found in the far north of Valratha, but unfortunately, they are also most often found in the hands of one of the Cold Tongue orc raiders. Most observers will get a good look at the point of the arrows before ever seeing the bow.",
-wbwmln008,uti,LocalizedName,0,14052,Cold Tongue Bow,
-wmgmrd007,uti,DescIdentified,0,58589,"Because they must constantly have their charges replenished, rods and wands in Valratha have become scarce. There simply aren't enough powerful mages to recharge these items.",
-wplmss008,uti,DescIdentified,0,14242,"Briarspikes look like they could have been plucked from some giant quill-covered beast, but the methods involved are very sophisticated. ",
-wswmbs006,uti,LocalizedName,0,14295,Lawmaker,
-wswmss009,uti,DescIdentified,0,13925,"Desperately seeking to escape the attention of the emporer's assassins, the wizard, Worlit Thent fled to the fey hidden lands, Kahnahda. Peace and beauty are exalted above all else in these lands, so the emporer's assassins were unable to enter. When Worlit decided it was time to leave, the fey gave him an unprecidented gift. The feyduster was a weapon of beauty, but still a weapon. The fairy who gave it to Worlit told him it was from an age when the fey lived more in the world and made war on the big folk.",
+The rest of the book has scribblings of strange animals that live in some kind of woods and have various adventures. The main character is rather round and seems to have some kind of honey fetish. Hardly surprising considering what you've noticed about the kobold tribe.","이 책에 거칠고 알아보기 어려운 긁적거림을 보면 코볼트 족장이 자신의 삶을 기록하려 했던 것 같지만 대부분 읽을 수 없습니다. 간신히 알아볼 수 있는 내용 중 하나는 코볼트들이 ""주인""을 위해 일하는 것을 별로 좋아하지 않지만, 그만두려 할 때마다 주인이 머리를 아프게 한다는 것입니다.
+책의 나머지 부분에는 어떤 숲에 사는 이상한 동물들이 다양한 모험을 하는 낙서가 있습니다. 주인공은 꽤 둥글고 꿀에 대한 집착이 있는 것 같습니다. 코볼트 부족에 대해 알게 된 점을 생각하면 그리 놀랍지 않습니다."
+q3_itm_kobjourn,uti,LocalizedName,0,-1,Kobold Journal,코볼트 일지
+q3_itm_slavekey,uti,LocalizedName,0,-1,Goblin Key,고블린 열쇠
+q3_jabamulet,uti,DescIdentified,0,-1,"This is an item that Jaboli made for you, as a gift of friendship. Finding your actions to be honorable, Jaboli was willing to part with some of her life energy to give you such a dear gift.","자볼리가 우정의 선물로 만들어준 아이템입니다. 당신의 행동이 명예로운 것을 알고, 자볼리는 이 소중한 선물을 주기 위해 자신의 생명 에너지 일부를 기꺼이 내놓았습니다."
+q3_jabamulet,uti,Description,0,-1,"This is an item that Jaboli made for you, as a gift of friendship. Finding your actions to be honorable, Jaboli was willing to part with some of her life energy to give you such a dear gift.","자볼리가 우정의 선물로 만들어준 아이템입니다. 당신의 행동이 명예로운 것을 알고, 자볼리는 이 소중한 선물을 주기 위해 자신의 생명 에너지 일부를 기꺼이 내놓았습니다."
+q3_jabamulet,uti,LocalizedName,0,-1,Jaboli's Amulet,자볼리의 부적
+q3_laughingblade,uti,DescIdentified,0,14382,It is doubtful the victim of a Laughing Blade finds anything humorous about it. ,"웃는 칼날의 희생자가 검에 대해 재밌는 것을 발견했는지는 불확실합니다. 이 아이템들은 자신이 만든 울타리 미로를 흥미롭게 비틀길 원했던 달인 환영술사 다니엘 서더가 만들었습니다. 몇몇 자동 장치가 이 무기로 장비하고 있었고 그의 도전을 받아들인 영웅들은 자동 장치, 미로, 그리고 자신의 감각과 싸워야 했습니다. 결국 서더는 그의 저택에서 몇 명이 사망한 이후 투옥되고 말았습니다."
+q3_lightningrod,uti,LocalizedName,0,-1,Lightning Rod,번개 막대
+q3_minersbelt,uti,LocalizedName,0,-1,Miner's Belt,광부의 벨트
+q3_mj_armor,uti,LocalizedName,0,-1,Momma Ji's Armor,지 아줌마의 갑옷
+q3_naturalarmour,uti,DescIdentified,0,13381,An amulet of natural armor.,자연 갑옷의 부적입니다.
+q3_poisoncrystal,uti,LocalizedName,0,-1,Poison Crystal,독 수정
+q3_psionicgem,uti,LocalizedName,0,-1,Psionic Gem,초능력 보석
+q3_stonefireaxe,uti,DescIdentified,0,13928,A stonefire axe.,석화 도끼입니다.
+q3_witherstick,uti,DescIdentified,0,14138,A powerful quarterstaff.,강력한 봉술 지팡이입니다.
+q3_witherstick,uti,LocalizedName,0,14139,Wither-Stick,시듦의 지팡이
+q3ac_key_barbed,uti,LocalizedName,0,-1,Barbed Key,가시 열쇠
+q3ac_key_copper,uti,LocalizedName,0,-1,Copper Key,구리 열쇠
+q3ac_key_gold,uti,LocalizedName,0,-1,Gold Key,금 열쇠
+q3ac_key_shell,uti,LocalizedName,0,-1,Shell Key,조개 열쇠
+q3ac_key_silver,uti,LocalizedName,0,-1,Silver Key,은 열쇠
+q3ac_key_skull,uti,LocalizedName,0,-1,Skull Key,해골 열쇠
+q3ac_key_tooth,uti,LocalizedName,0,-1,Tooth Key,이빨 열쇠
+q3af_stn_blue,uti,LocalizedName,0,-1,Blue Glass,파란 유리
+q3af_stn_green,uti,LocalizedName,0,-1,Green Glass,초록 유리
+q3af_stn_orange,uti,LocalizedName,0,-1,Orange Glass,주황 유리
+q3af_stn_purple,uti,LocalizedName,0,-1,Purple Glass,보라 유리
+q3af_stn_red,uti,LocalizedName,0,-1,Red Glass,빨간 유리
+q3af_stn_yellow,uti,LocalizedName,0,-1,Yellow Glass,노란 유리
+q3ag_itm_shovel,uti,LocalizedName,0,-1,Shovel,삽
+q3ai_cal_rathide,uti,LocalizedName,0,-1,Rat Hide,쥐 가죽
+stuff1,uti,LocalizedName,0,-1,stuff1,stuff1
+stuff2,uti,LocalizedName,0,-1,stuff2,stuff2
+stuff3,uti,LocalizedName,0,-1,stuff3,stuff3
+stuff4,uti,LocalizedName,0,-1,stuff4,stuff4
+themaskedhelm,uti,LocalizedName,0,-1,The Masked Helm,가면의 투구
+wblmhw012,uti,LocalizedName,0,14012,Glassy's Hammer,글래시의 망치
+wbwmln008,uti,DescIdentified,0,14051,"These bows seem primitive at first glance, but behind the crude sinew and hide is a powerful weapon. They are most often found in the far north of Valratha, but unfortunately, they are also most often found in the hands of one of the Cold Tongue orc raiders. Most observers will get a good look at the point of the arrows before ever seeing the bow.","이 활은 언뜻 보기에는 원시적으로 보이지만, 투박한 힘줄과 생가죽 이면에는 강력한 무기가 있습니다. 대부분 먼 북쪽에서 발견되지만, 불행하게도 얼음처녀 아우릴의 신도들에게서 또한 자주 발견됩니다. 대부분의 목격자들은 활에 채 시선이 닿기도 전에 화살촉을 구경하게 하게 될 것입니다."
+wbwmln008,uti,LocalizedName,0,14052,Cold Tongue Bow,냉혹한 혀 활
+wmgmrd007,uti,DescIdentified,0,58589,"Because they must constantly have their charges replenished, rods and wands in Valratha have become scarce. There simply aren't enough powerful mages to recharge these items.","충전을 계속 보충해야 하기 때문에, 발라스에서는 지팡이와 완드를 그리 높이 평가하지 않습니다."
+wplmss008,uti,DescIdentified,0,14242,"Briarspikes look like they could have been plucked from some giant quill-covered beast, but the methods involved are very sophisticated. ","브라이어 가시못은 보기엔 가시로 뒤덮인 거대한 짐승에서 뽑아낸 것처럼 보이지만, 제작 과정은 매우 정교하며 워터딥의 메놀드의 품질 보증 인장을 가지고 있습니다. 메놀드는 몇 년 전 그의 탑을 오크가 습격하고 나서 실종되었기 때문에, 이것이 그의 운명을 밝혀줄지도 모릅니다. 그는 자신의 기술로 자유를 사려 했을지도 모르지만, 오히려 더 유용한 포로가 되고 말았을 겁니다."
+wswmbs006,uti,LocalizedName,0,14295,Lawmaker,율법 집행자
+wswmss009,uti,DescIdentified,0,13925,"Desperately seeking to escape the attention of the emporer's assassins, the wizard, Worlit Thent fled to the fey hidden lands, Kahnahda. Peace and beauty are exalted above all else in these lands, so the emporer's assassins were unable to enter. When Worlit decided it was time to leave, the fey gave him an unprecidented gift. The feyduster was a weapon of beauty, but still a weapon. The fairy who gave it to Worlit told him it was from an age when the fey lived more in the world and made war on the big folk.","황제의 암살자들의 관심에서 필사적으로 벗어나고자, 마법사는 이 검에 거의 모든 마력을 쏟아부었습니다."

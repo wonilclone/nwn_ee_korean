@@ -36,21 +36,21 @@ bandithorse,utc,Description,0,-1,This light horse was left after your battle wit
 bandithorse,utc,FirstName,0,-1,Horse,
 banditleader,utc,Description,0,-1,"Since the war, bandits have become commonplace along the roads of Cormyr, especially in the King's and Hullack Forests.",
 banditleader,utc,FirstName,0,-1,Bandit Leader,
-battlecurst,utc,Description,0,66927,The eyes of a Curst show pain and madness. Such creatures suffer powerful magical curses that bind them to undeath. They know peace only when destroyed.,
-battlecurst,utc,FirstName,0,12437,Curst Ranger,
+battlecurst,utc,Description,0,66927,The eyes of a Curst show pain and madness. Such creatures suffer powerful magical curses that bind them to undeath. They know peace only when destroyed.,저주받은 자의 눈에는 고통과 광기가 보입니다. 이런 생명체들은 그들을 언데드 상태로 묶는 강력한 마법의 저주를 받습니다. 그들은 파괴될 때만 평화를 알게 됩니다.
+battlecurst,utc,FirstName,0,12437,Curst Ranger,커스트 순찰자
 battlehawk,utc,Description,0,-1,A soldier from Sir Gilbert's personal guard.,
 battlehawk,utc,FirstName,0,-1,Hawklin Household Guard,
-battlehgl,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
+battlehgl,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",홉고블린의 고블린의 더 커다란 사촌입니다. 그들은 조직적이고 호전적이며 다른 인간형 종족들과 싸우는 것을 즐깁니다.
 battlehgl,utc,FirstName,0,3100,Hobgoblin Leader,
-battlehgs,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
+battlehgs,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",홉고블린의 고블린의 더 커다란 사촌입니다. 그들은 조직적이고 호전적이며 다른 인간형 종족들과 싸우는 것을 즐깁니다.
 battlehgs,utc,FirstName,0,3100,Hobgoblin Soldier,
 battlehgw,utc,Description,0,-1,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
 battlehgw,utc,FirstName,0,-1,Hobgoblin Shaman,
-battlemage,utc,FirstName,0,12702,Skeleton Mage,
-battleol,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.",
+battlemage,utc,FirstName,0,12702,Skeleton Mage,해골 마법사
+battleol,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.","오우거는 약탈과 쓰레기를 뒤지며 살아가는 못생기고 탐욕스러운 생명체 입니다. 이들은 거인, 트롤과 자유롭게 어울리며, 약한 사람들을 먹이감으로 삼기 위해 뭉칩니다."
 battleol,utc,FirstName,0,12664,Ogre Chieftain,
-battleos,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.",
-battleos,utc,FirstName,0,12664,Ogre,
+battleos,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.","오우거는 약탈과 쓰레기를 뒤지며 살아가는 못생기고 탐욕스러운 생명체 입니다. 이들은 거인, 트롤과 자유롭게 어울리며, 약한 사람들을 먹이감으로 삼기 위해 뭉칩니다."
+battleos,utc,FirstName,0,12664,Ogre,오우거
 battlepdka,utc,Description,0,-1,"A 'blade' of the Purple Dragons, the regular soldiers of Cormyr. These men and women are tough and experienced after the recent war with the ghazneths that rolled across Cormyr.",
 battlepdka,utc,FirstName,0,-1,Purple Dragon Archer,
 battlepdkc,utc,Description,0,-1,"A cleric of the Purple Dragons, the fighting force of Cormyr.",
@@ -59,11 +59,11 @@ battlepdkl,utc,Description,0,-1,"A 'lionar' of the Purple Dragons, the regular s
 battlepdkl,utc,FirstName,0,-1,Purple Dragon Lionar,
 battlepdkm,utc,Description,0,-1,"A 'blade' of the Purple Dragons, the regular soldiers of Cormyr. These men and women are tough and experienced after the recent war with the ghazneths that rolled across Cormyr.",
 battlepdkm,utc,FirstName,0,-1,Purple Dragon Blade,
-battleskel,utc,FirstName,0,12704,Skeleton Warrior,
-battlespec,utc,FirstName,0,12716,Spectre,
+battleskel,utc,FirstName,0,12704,Skeleton Warrior,해골 전사
+battlespec,utc,FirstName,0,12716,Spectre,악령
 battlewl,utc,Description,0,12628,"The powerful Witch Lord and Lich Szass Morg. Thought defeated by King Galagherd more than 400 years ago, the Witch Lords have returned...",
 battlewl,utc,FirstName,0,12629,Witch Lord,
-birdy,utc,FirstName,0,6008,Raven,
+birdy,utc,FirstName,0,6008,Raven,까마귀
 blackcobra,utc,Description,0,-1,"These snakes are not common, but are found in the forests and marshes of Cormyr. They are dangerous when approached, and at times can be found in groups, though the reason for this is not known.",
 blackcobra,utc,FirstName,0,-1,Black Cormyrian Cobra,
 blackcobra003,utc,Description,0,-1,"Related to the Black Cobra, these snakes are rare. They are found in damp places, surviving often where other creatures do not. They are dangerous when approached, and at times can be found in groups, though the reason for this is not known.",
@@ -76,9 +76,9 @@ blackcobra3,utc,Description,0,-1,"Spitting cobras can quirt a stream of venom se
 blackcobra3,utc,FirstName,0,-1,Spitting Cobra,
 blackcobra4,utc,Description,0,-1,"These snakes are not common, but are found in the forests and marshes of Cormyr. They are dangerous when approached, and at times can be found in groups, though the reason for this is not known. This one seems to have mutated in some way.",
 blackcobra4,utc,FirstName,0,-1,Hybrid Cormyrian Cobra,
-boneskel,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. They are but an extension of their master's will.",
+boneskel,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. They are but an extension of their master's will.","죽은 이의 뼈를 어둠의 마법으로 되살려낸, 해골은 마음을 가지고 있지 않습니다. 단지 주인의 의지에 따를 뿐입니다."
 boneskel,utc,FirstName,0,12701,Bone Skeleton,
-boneskel2,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. They are but an extension of their master's will.",
+boneskel2,utc,Description,0,12697,"The bones of the dead, animated by dark magic, Skeletons have no mind of their own. They are but an extension of their master's will.","죽은 이의 뼈를 어둠의 마법으로 되살려낸, 해골은 마음을 가지고 있지 않습니다. 단지 주인의 의지에 따를 뿐입니다."
 boneskel2,utc,FirstName,0,12701,Bone Skeleton,
 brondar,utc,Description,0,-1,"Brondar, a retired War Wizard now living in Morfen.",
 brondar,utc,FirstName,0,-1,Brondar,
@@ -105,8 +105,8 @@ creature002,utc,Description,0,-1,"A so-called merchant from Sembia, sent to find
 creature002,utc,FirstName,0,-1,'Sembian Merchant',
 creature003,utc,Description,0,-1,"One-armed Magurk, a retired adventurer and owner of a store catering to his fellows.",
 creature003,utc,FirstName,0,-1,One-armed Magurk,
-curst004,utc,Description,0,66927,The eyes of a Curst show pain and madness. Such creatures suffer powerful magical curses that bind them to undeath. They know peace only when destroyed.,
-curst004,utc,FirstName,0,12437,Curst Ranger,
+curst004,utc,Description,0,66927,The eyes of a Curst show pain and madness. Such creatures suffer powerful magical curses that bind them to undeath. They know peace only when destroyed.,저주받은 자의 눈에는 고통과 광기가 보입니다. 이런 생명체들은 그들을 언데드 상태로 묶는 강력한 마법의 저주를 받습니다. 그들은 파괴될 때만 평화를 알게 됩니다.
+curst004,utc,FirstName,0,12437,Curst Ranger,커스트 순찰자
 dart_commoner,utc,FirstName,0,12374,Commoner,
 dart_guardsman,utc,FirstName,0,-1,Guardsman,
 dart_knghterrant,utc,FirstName,0,-1,Knight Errant,
@@ -246,19 +246,19 @@ hawklinguard,utc,Description,0,-1,A guard of Sir Hawklin's household.,
 hawklinguard,utc,FirstName,0,-1,Hawklin Guard,
 hawklinguard001,utc,Description,0,-1,A guard of Huntcrown's household.,
 hawklinguard001,utc,FirstName,0,-1,Huntcrown Guard,
-hobgoblin002,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
+hobgoblin002,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",홉고블린의 고블린의 더 커다란 사촌입니다. 그들은 조직적이고 호전적이며 다른 인간형 종족들과 싸우는 것을 즐깁니다.
 hobgoblin002,utc,FirstName,0,3100,Dead Hobgoblin Soldier,
-hobgoblinchampi,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
+hobgoblinchampi,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",홉고블린의 고블린의 더 커다란 사촌입니다. 그들은 조직적이고 호전적이며 다른 인간형 종족들과 싸우는 것을 즐깁니다.
 hobgoblinchampi,utc,FirstName,0,3100,Hobgoblin Champion,
-hobgoblinleader,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
+hobgoblinleader,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",홉고블린의 고블린의 더 커다란 사촌입니다. 그들은 조직적이고 호전적이며 다른 인간형 종족들과 싸우는 것을 즐깁니다.
 hobgoblinleader,utc,FirstName,0,3100,Hobgoblin Leader,
-hobgoblinleaderm,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
+hobgoblinleaderm,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",홉고블린의 고블린의 더 커다란 사촌입니다. 그들은 조직적이고 호전적이며 다른 인간형 종족들과 싸우는 것을 즐깁니다.
 hobgoblinleaderm,utc,FirstName,0,3100,Hobgoblin Leader,
-hobgoblinscout,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
+hobgoblinscout,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",홉고블린의 고블린의 더 커다란 사촌입니다. 그들은 조직적이고 호전적이며 다른 인간형 종족들과 싸우는 것을 즐깁니다.
 hobgoblinscout,utc,FirstName,0,3100,Hobgoblin Scout,
 hobgoblinshaman,utc,Description,0,-1,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
 hobgoblinshaman,utc,FirstName,0,-1,Hobgoblin Shaman,
-hobgoblinsoldie,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",
+hobgoblinsoldie,utc,Description,0,3101,"Hobgoblins are larger cousins of goblins. They are organized, aggressive and they delight in warring with other humanoid races.",홉고블린의 고블린의 더 커다란 사촌입니다. 그들은 조직적이고 호전적이며 다른 인간형 종족들과 싸우는 것을 즐깁니다.
 hobgoblinsoldie,utc,FirstName,0,3100,Hobgoblin Soldier,
 horse,utc,Description,0,-1,"A horse. Hoses make useful beasts of burden, and the best of them also make good warhorses.",
 horse,utc,FirstName,0,-1,Horse,
@@ -339,11 +339,11 @@ nightmarebattle,utc,Description,0,-1,"Nightmares are proud and evil creatures wi
 nightmarebattle,utc,FirstName,0,-1,Nightmare,
 nightmareplain,utc,Description,0,-1,"Nightmares are proud and evil creatures with hearts as black as the dark abysses from which they come. They are wild and restless creatures, doing evil wherever they can.",
 nightmareplain,utc,FirstName,0,-1,Nightmare,
-ogre,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.",
-ogre,utc,FirstName,0,12664,Ogre,
-ogre2,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.",
-ogre2,utc,FirstName,0,12664,Ogre,
-ogrechief,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.",
+ogre,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.","오우거는 약탈과 쓰레기를 뒤지며 살아가는 못생기고 탐욕스러운 생명체 입니다. 이들은 거인, 트롤과 자유롭게 어울리며, 약한 사람들을 먹이감으로 삼기 위해 뭉칩니다."
+ogre,utc,FirstName,0,12664,Ogre,오우거
+ogre2,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.","오우거는 약탈과 쓰레기를 뒤지며 살아가는 못생기고 탐욕스러운 생명체 입니다. 이들은 거인, 트롤과 자유롭게 어울리며, 약한 사람들을 먹이감으로 삼기 위해 뭉칩니다."
+ogre2,utc,FirstName,0,12664,Ogre,오우거
+ogrechief,utc,Description,0,12663,"Ogres are ugly, greedy creatures who live by raiding and scavenging. They associate freely with Giants and Trolls, banding together to prey on the weak.","오우거는 약탈과 쓰레기를 뒤지며 살아가는 못생기고 탐욕스러운 생명체 입니다. 이들은 거인, 트롤과 자유롭게 어울리며, 약한 사람들을 먹이감으로 삼기 위해 뭉칩니다."
 ogrechief,utc,FirstName,0,12664,Ogre Chieftain,
 pirate,utc,Description,0,-1,"Pirates are a plague on the Sea of Dragons and the Wyvernwater. Tales greatly romanticize them, though most are plain killers for loot.",
 pirate,utc,FirstName,0,-1,Pirate,
@@ -389,7 +389,7 @@ satyr,utc,Description,0,-1,"Satyrs are hedonistic creatures that frolic in the w
 satyr,utc,FirstName,0,-1,Satyr,
 satyr001,utc,Description,0,-1,"Satyrs are hedonistic creatures that frolic in the wild places. They are keen on drink and drunkeness, but can make stealthy hunters too.",
 satyr001,utc,FirstName,0,-1,Satyr,
-sharkgoblin001,utc,Description,0,110849,"This extremely rare type of shark is distinctive for its long beak that protrudes out over its jaws. Normally solitary and timid, the Goblin Shark has been known to be aggressive. Some say it gets its name from its strange appearance, others because it can be as evil as a goblin.",
+sharkgoblin001,utc,Description,0,110849,"This extremely rare type of shark is distinctive for its long beak that protrudes out over its jaws. Normally solitary and timid, the Goblin Shark has been known to be aggressive. Some say it gets its name from its strange appearance, others because it can be as evil as a goblin.",This extremely rare type of shark is distinctive for its long beak that protrudes out over its vicious jaws. Most adventurers when sighting a Goblin Shark for the first time are stunned by how deeply weird it looks and usually succumb to rows of pointed teeth soon after.
 sharkhammer001,utc,Description,0,110848,"Though naturally wary, some species of hammerhead can be dangerous. It is rumored that there are darker, unnatural species that form alliances with other races and are brutal killers...",
 sharkmako001,utc,Description,0,110847,"A smaller but faster relative of the Great White, Mako sharks are dangerous and aggressive predators normally found in open waters. Their ability to keep the temperature of their blood warmer than their surroundings makes them capable of astonishing bursts of speed.",
 sirgilbert,utc,Description,0,-1,"Sir Gilbert Hawklin, a minor noble of the Hawklin family based in Thunderstone. Your father was his squire before he was injured.",
@@ -402,11 +402,11 @@ smith,utc,Description,0,-1,"This half-elf is the new smith in Wangle's Livery. S
 smith,utc,FirstName,0,-1,Smith,
 staffsnake,utc,Description,0,-1,"Spitting cobras can quirt a stream of venom several feet, aimin for the eyes of their prey. When approached without caution, these snakes can be dangerous.",
 staffsnake,utc,FirstName,0,-1,Staff Cobra,
-vampire,utc,FirstName,0,5637,Vampire,
-vampire1,utc,FirstName,0,5637,Vampire,
-vampire2,utc,FirstName,0,5637,Vampire,
-vampire3,utc,FirstName,0,5637,Vampire,
-vampire4,utc,FirstName,0,5637,Vampire,
+vampire,utc,FirstName,0,5637,Vampire,흡혈귀
+vampire1,utc,FirstName,0,5637,Vampire,흡혈귀
+vampire2,utc,FirstName,0,5637,Vampire,흡혈귀
+vampire3,utc,FirstName,0,5637,Vampire,흡혈귀
+vampire4,utc,FirstName,0,5637,Vampire,흡혈귀
 wangle,utc,Description,0,-1,"Wangle, pretty much the only source of livestock in Thunderstone.",
 wangle,utc,FirstName,0,-1,Wangle,
 warwizardplaceho,utc,Description,0,-1,"War Wizards are the backbone of Cormyr's army: a network of wizards of varying power throughout the land answering to the Princess Regent and Caladnei, their leader.",
@@ -423,7 +423,7 @@ wc_wolf,utc,Description,0,12815,"Attracted by the scent of carrion, wolves have 
 wereboar,utc,Description,0,-1,"Whatever their form, wereboars fight with the ferocity of a cornered wild boar. This lycanthropes are tenacious and difficult to bring down.",
 wereboar,utc,FirstName,0,-1,Wereboar,
 whitestag,utc,Description,0,12439,"The fabled White Stag, a near-mystical creature of Hullack Forest. Many hunters have hunted its hide, but it is extremely swift. ",
-whitestag,utc,FirstName,0,12441,White Stag,
+whitestag,utc,FirstName,0,12441,White Stag,순백색 수사슴
 witchlord2,utc,Description,0,12628,The Witch Lord himself. A lich and a formidable foe...,
 witchlord2,utc,FirstName,0,12629,Witch Lord,
 witchlordghost,utc,Description,0,12628,This strange creature appeared when Jonas picked up a ring...,

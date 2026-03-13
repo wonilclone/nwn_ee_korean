@@ -145,8 +145,8 @@ hcrhelpwand,uti,DescIdentified,0,-1,"This version of the HCR Helper is designed 
 
 Use with caution as many of the HCR systems have been removed or substantially altered within ""The Witch's Wake"" modules.",
 hcrhelpwand,uti,LocalizedName,0,-1,HCR Helper (for Player DMs),
-henchpotion,uti,DescIdentified,0,13414,"With the power to return people from the very brink of death, these potions do not come cheaply.",
-henchpotion,uti,LocalizedName,0,13415,Potion of Cure Critical Wounds,
+henchpotion,uti,DescIdentified,0,13414,"With the power to return people from the very brink of death, these potions do not come cheaply.",죽음의 문턱에 있는 사람들을 되돌릴 힘이 있는 이 물약은 값싸게 나오지 않습니다.
+henchpotion,uti,LocalizedName,0,13415,Potion of Cure Critical Wounds,치명적인 상처 치료의 물약
 herdkeepersgarb,uti,DescIdentified,0,-1,"Crafted from fine dwarven leathers, this light armor is traditonally worn by respected herdkeepers. Its intent is not to protect the wearer in battle but to keep at bay the thorns and thistles of the wild and the occasional bite of an angered animal.",
 herdkeepersgarb,uti,LocalizedName,0,-1,Herdkeeper's Garb,
 hg_element_props,uti,LocalizedName,0,13190,HG Elemental Properties,
@@ -160,8 +160,8 @@ holywaterflask,uti,DescIdentified,0,-1,"Blessed by devout priests, this water is
 This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
 holywaterflask,uti,LocalizedName,0,-1,Holy Water,
 invisstalkerprop,uti,LocalizedName,0,13193,Stalker Properties,
-it_creitem022,uti,LocalizedName,0,13069,Vrock Properties,
-it_creitemun010,uti,LocalizedName,0,13199,"Zombie, Tyrantfog Properties",
+it_creitem022,uti,LocalizedName,0,13069,Vrock Properties,브록 속성
+it_creitemun010,uti,LocalizedName,0,13199,"Zombie, Tyrantfog Properties",폭군안개 좀비 속성
 it_crewbs002,uti,DescIdentified,0,-1,"Prized possessions of the fierce warlods of the Stygian depths, it is rare for such a weapon to fall into the hands of mere mortals.",
 it_crewbs002,uti,LocalizedName,0,56599,Sword of the Stygian Lords,
 it_crewgs007,uti,DescIdentified,0,-1,"Wielded in battle by fierce Megaloth raiders in the Stygian inlands, these swords are wreathed in magic flame.",
@@ -174,9 +174,9 @@ it_medkit005,uti,LocalizedName,0,13364,Healer's Kit +8,
 it_medkit013,uti,LocalizedName,0,13362,Healer's Kit +2,
 it_medkit032,uti,LocalizedName,0,13363,Healer's Kit +5,
 it_medkit052,uti,LocalizedName,0,13364,Healer's Kit +9,
-it_mmidmisc006,uti,DescIdentified,0,58558,A large piece of meat has dislodged from the creature. It would not be wise to eat it.  Perhaps if you cook it on a campfire it would be safe to consume.,
+it_mmidmisc006,uti,DescIdentified,0,58558,A large piece of meat has dislodged from the creature. It would not be wise to eat it.  Perhaps if you cook it on a campfire it would be safe to consume.,생명체에서 큰 고깃덩어리가 떨어져 나왔습니다. 먹지 않는 게 좋을 것입니다.
 it_mmidmisc006,uti,LocalizedName,0,13378,Raw meat,
-it_mpotion024,uti,DescIdentified,0,52941,"Either a dark red or pale yellow, wine is made from the pressing of grapes that have been fermented and aged. This wine is of an exceptionally fine vintage.",
+it_mpotion024,uti,DescIdentified,0,52941,"Either a dark red or pale yellow, wine is made from the pressing of grapes that have been fermented and aged. This wine is of an exceptionally fine vintage.",진한 붉은색이나 옅은 노란색인 포도주는 발효 숙성된 포도를 압착하여 만듭니다.
 it_mpotion024,uti,LocalizedName,0,13452,Vintage Wine,
 kingsarmor001,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
 kingsarmor001,uti,LocalizedName,0,-1,Quilted King's Armor,
@@ -310,8 +310,8 @@ winterwolfpelt,uti,DescIdentified,0,-1,"Taken from a winter wolf, the fur of thi
 winterwolfpelt,uti,LocalizedName,0,-1,Winter Wolf Pelt,
 wmgwn008,uti,DescIdentified,0,14195,"Wearing of losing young students to the dangers of their newfound power, the great wizard Arkanion began crafting these wands for their protection.",
 wmgwn008,uti,LocalizedName,0,14196,Wand of Armor,
-wmgwn013,uti,DescIdentified,0,58591,"Wands of Sleep are among the most stable and least expensive of magical wands, making them quite popular with adventurers. Though not instruments of mass destruction, when properly applied a Wand of Sleep can prove to be a powerful weapon against unexpected encounters with orcs, goblins and their ilk. Many adventuring parties owe their lives to the anonymous mage who first fashioned this simple but highly effective item.",
-wmgwn013,uti,LocalizedName,0,58592,Wand of Sleep,
+wmgwn013,uti,DescIdentified,0,58591,"Wands of Sleep are among the most stable and least expensive of magical wands, making them quite popular with adventurers. Though not instruments of mass destruction, when properly applied a Wand of Sleep can prove to be a powerful weapon against unexpected encounters with orcs, goblins and their ilk. Many adventuring parties owe their lives to the anonymous mage who first fashioned this simple but highly effective item.","수면의 마법봉은 가장 안정적이고 저렴한 마법봉 중 하나로, 모험가들에게 인기가 많습니다. 대량 파괴 도구는 아니지만, 적절히 사용하면 오크, 고블린 같은 적과의 예상치 못한 조우에서 강력한 무기가 될 수 있습니다. 많은 모험단이 이 단순하지만 매우 효과적인 아이템을 처음 만든 무명의 마법사 덕분에 목숨을 구했습니다."
+wmgwn013,uti,LocalizedName,0,58592,Wand of Sleep,수면의 마법봉
 wolfpelt,uti,DescIdentified,0,-1,The gray fur of this wolf pelt is soft and warm. It still has the soft undercoat of a young pup but its smaller size reduces its value.,
 wolfpelt,uti,LocalizedName,0,-1,Wolf Pup Pelt,
 wolfpelt001,uti,DescIdentified,0,-1,The gray fur of this wolf pelt is soft and warm.,

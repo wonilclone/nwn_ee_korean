@@ -22,7 +22,7 @@ cormanthor,git,Creature List/8/FirstName,0,-1,Ranger,
 cormanthor,git,Creature List/9/Description,0,-1,"This ranger stands by the fire, surveying his wounded men and shaking his head with a bitter, twisted smile.",
 cormanthor,git,Creature List/9/FirstName,0,-1,Seeker,
 cormanthor,git,Creature List/9/LastName,0,-1,Jorian,
-cormanthor,git,Door List/0/LocName,0,5349,Door,
+cormanthor,git,Door List/0/LocName,0,5349,Door,문
 cormanthor,git,SoundList/0/LocName,0,-1,Ailing Men,
 cormanthor,git,SoundList/1/LocName,0,-1,Ailing Men,
 cormanthor,git,SoundList/2/LocName,0,-1,Ailing Men,
@@ -31,46 +31,46 @@ cormanthor,git,SoundList/4/LocName,0,-1,Firepit & Pot,
 cormanthor,git,SoundList/5/LocName,0,-1,Firepit,
 cormanthor,git,SoundList/6/LocName,0,-1,Waterfall Over Edge Medium,
 cormanthor,git,SoundList/7/LocName,0,-1,Wind Gust Chasm,
-cormanthor,git,WaypointList/4/LocalizedName,0,14817,Waypoint,
+cormanthor,git,WaypointList/4/LocalizedName,0,14817,Waypoint,웨이포인트
 cormanthor,git,WaypointList/5/LocalizedName,0,14814,Ranger Camp,
 cormanthor,git,WaypointList/5/MapNote,0,14815,Ranger Camp,
 cormanthor,git,WaypointList/6/LocalizedName,0,14814,To Forest,
 cormanthor,git,WaypointList/6/MapNote,0,14815,To Forest,
-dangerousforest,git,Encounter List/4/LocalizedName,0,14520,"Vermin, Spider Group",
-dangerousforest,git,Placeable List/0/Description,0,14600,Either he owned little to begin with or this man was stripped of all he had.,
+dangerousforest,git,Encounter List/4/LocalizedName,0,14520,"Vermin, Spider Group","해충, 거미 무리"
+dangerousforest,git,Placeable List/0/Description,0,14600,Either he owned little to begin with or this man was stripped of all he had.,"처음부터 아무것도 없었거나, 또는 자신이 가진 것을 모두 빼앗긴 상태입니다."
 dangerousforest,git,Placeable List/0/ItemList/0/Description,0,-1,"This note has a few hastily scribbled words written on it.
 
 everything and wrong",
 dangerousforest,git,Placeable List/0/ItemList/0/LocalizedName,0,-1,Note,
-dangerousforest,git,Placeable List/0/LocName,0,14601,Corpse,
-dangerousforest,git,Placeable List/1/Description,0,14531,"With the face turned down, it's hard to determine if the victim was male or female.",
+dangerousforest,git,Placeable List/0/LocName,0,14601,Corpse,시체
+dangerousforest,git,Placeable List/1/Description,0,14531,"With the face turned down, it's hard to determine if the victim was male or female.",얼굴이 뒤집혀 있으면 피해자가 남성이었는지 여성이었는지 판단하기 어렵습니다.
 dangerousforest,git,Placeable List/1/ItemList/0/Description,0,-1,"This note has a few hastily scribbled words written on it.
 
 if you it",
 dangerousforest,git,Placeable List/1/ItemList/0/LocalizedName,0,-1,Note,
-dangerousforest,git,Placeable List/1/LocName,0,14601,Corpse,
-dangerousforest,git,Placeable List/11/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",
-dangerousforest,git,Placeable List/11/LocName,0,5348,Chest,
-dangerousforest,git,Placeable List/2/Description,0,14603,"In death, the face of the bare-chested man seems frozen with fear. You wonder what it was that killed him.",
+dangerousforest,git,Placeable List/1/LocName,0,14601,Corpse,시체
+dangerousforest,git,Placeable List/11/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",낮고 평평한 이 궤짝은 상인의 거래 장부를 보관하기 위해 설계된 것 같습니다.
+dangerousforest,git,Placeable List/11/LocName,0,5348,Chest,궤짝
+dangerousforest,git,Placeable List/2/Description,0,14603,"In death, the face of the bare-chested man seems frozen with fear. You wonder what it was that killed him.",죽음 속에서 가슴을 드러낸 남자의 얼굴은 두려움으로 얼어붙어 있습니다. 당신은 무엇이 그를 죽였는지 궁금합니다.
 dangerousforest,git,Placeable List/2/ItemList/0/Description,0,-1,"This note has a few hastily scribbled words written on it.
 
 know nothing about",
 dangerousforest,git,Placeable List/2/ItemList/0/LocalizedName,0,-1,Note,
-dangerousforest,git,Placeable List/2/LocName,0,14601,Corpse,
-dangerousforest,git,Placeable List/3/Description,0,14602,Rats nibble on the corpse's fingers and scurry about his ears. It looks like the body has been here awhile.,
+dangerousforest,git,Placeable List/2/LocName,0,14601,Corpse,시체
+dangerousforest,git,Placeable List/3/Description,0,14602,Rats nibble on the corpse's fingers and scurry about his ears. It looks like the body has been here awhile.,시궁쥐들이 시체의 손가락을 물어뜯고 귀 주변을 서성거립니다. 시체는 여기 온 지 꽤 된 것 같아 보입니다.
 dangerousforest,git,Placeable List/3/ItemList/0/Description,0,-1,"This note has a few hastily scribbled words written on it.
 
 there's you can",
 dangerousforest,git,Placeable List/3/ItemList/0/LocalizedName,0,-1,Note,
-dangerousforest,git,Placeable List/3/LocName,0,14601,Corpse,
-dangerousforest,git,Placeable List/6/Description,0,14602,Rats nibble on the corpse's fingers and scurry about his ears. It looks like the body has been here awhile.,
+dangerousforest,git,Placeable List/3/LocName,0,14601,Corpse,시체
+dangerousforest,git,Placeable List/6/Description,0,14602,Rats nibble on the corpse's fingers and scurry about his ears. It looks like the body has been here awhile.,시궁쥐들이 시체의 손가락을 물어뜯고 귀 주변을 서성거립니다. 시체는 여기 온 지 꽤 된 것 같아 보입니다.
 dangerousforest,git,Placeable List/6/ItemList/0/Description,0,-1,"This note has a few hastily drawn words on it.
 
 What is do
 
 ",
 dangerousforest,git,Placeable List/6/ItemList/0/LocalizedName,0,-1,Note,
-dangerousforest,git,Placeable List/6/LocName,0,14601,Corpse,
+dangerousforest,git,Placeable List/6/LocName,0,14601,Corpse,시체
 dangerousforest,git,SoundList/0/LocName,0,-1,Woodpecker Pecks,
 dangerousforest,git,SoundList/1/LocName,0,-1,Songbird Chirps,
 dangerousforest,git,SoundList/2/LocName,0,-1,Toad,
@@ -88,16 +88,16 @@ dangerousforest,git,WaypointList/1/MapNote,0,14815,To Caverns,
 drowcaverns,git,Creature List/0/Description,0,-1,"This deep gnome, or svirfneblin, seems nervous and confused.",
 drowcaverns,git,Creature List/0/FirstName,0,-1,Ber,
 drowcaverns,git,Creature List/0/LastName,0,-1,Delanion,
-drowcaverns,git,Creature List/1/Description,0,64101,"The drow are an evil subrace of elves, living deep underground in the dangerous Underdark.",
+drowcaverns,git,Creature List/1/Description,0,64101,"The drow are an evil subrace of elves, living deep underground in the dangerous Underdark.",드로우는 위험한 언더다크 지하 깊은 곳에 사는 사악한 엘프 아종족입니다.
 drowcaverns,git,Creature List/1/FirstName,0,12500,The Mistress,
 drowcaverns,git,Creature List/1/ItemList/0/Description,0,-1,This key belonged to a drow priestess.,
 drowcaverns,git,Creature List/1/ItemList/0/LocalizedName,0,-1,Drow Key,
-drowcaverns,git,Door List/2/LocName,0,5349,Door,
-drowcaverns,git,Encounter List/1/LocalizedName,0,14480,"Elf, Drow Group",
-drowcaverns,git,Encounter List/4/LocalizedName,0,14480,"Elf, Drow Group",
-drowcaverns,git,Encounter List/5/LocalizedName,0,14480,"Elf, Drow Group",
-drowcaverns,git,Placeable List/8/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",
-drowcaverns,git,Placeable List/8/LocName,0,5348,Chest,
+drowcaverns,git,Door List/2/LocName,0,5349,Door,문
+drowcaverns,git,Encounter List/1/LocalizedName,0,14480,"Elf, Drow Group","엘프, 드로우 무리"
+drowcaverns,git,Encounter List/4/LocalizedName,0,14480,"Elf, Drow Group","엘프, 드로우 무리"
+drowcaverns,git,Encounter List/5/LocalizedName,0,14480,"Elf, Drow Group","엘프, 드로우 무리"
+drowcaverns,git,Placeable List/8/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",낮고 평평한 이 궤짝은 상인의 거래 장부를 보관하기 위해 설계된 것 같습니다.
+drowcaverns,git,Placeable List/8/LocName,0,5348,Chest,궤짝
 drowcaverns,git,SoundList/0/LocName,0,-1,Flies Loop,
 drowcaverns,git,SoundList/1/LocName,0,-1,Flies Loop,
 drowcaverns,git,SoundList/10/LocName,0,-1,Water Laps,
@@ -109,7 +109,7 @@ drowcaverns,git,SoundList/6/LocName,0,-1,Rock Crumbles Cave Large,
 drowcaverns,git,SoundList/7/LocName,0,-1,Chants Men Inside,
 drowcaverns,git,SoundList/8/LocName,0,-1,Water Drips,
 drowcaverns,git,SoundList/9/LocName,0,-1,Water Drips,
-drowcaverns,git,WaypointList/3/LocalizedName,0,14817,Waypoint,
+drowcaverns,git,WaypointList/3/LocalizedName,0,14817,Waypoint,웨이포인트
 drowcaverns,git,WaypointList/4/LocalizedName,0,14814,To Forest,
 drowcaverns,git,WaypointList/4/MapNote,0,14815,To Cormanthor,
 drowcaverns,git,WaypointList/5/LocalizedName,0,14814,The Mistress,

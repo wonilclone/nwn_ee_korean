@@ -5,7 +5,7 @@ ac_cheese2,utp,Description,0,-1,"Encased in a thick wax, this flavorful cheese i
 ac_cheese2,utp,LocName,0,-1,Churlgo Cheese Sample,
 ac_cheese3,utp,Description,0,-1,"Encased in a thick wax, this flavorful cheese is emitting a ripe odor to which some would turn their noses up at, or perhaps simply plug them.",
 ac_cheese3,utp,LocName,0,-1,Churlgo Cheese Sample,
-ac_dustcloud,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+ac_dustcloud,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 ac_dustcloud,utp,LocName,0,5800,Dust cloud,
 ac_footprints,utp,Description,0,66884,"There are footprints in the thick dust on the floor. They seem to indicate a shuffling gait, and point towards the door of the crypt.",
 ac_footprints,utp,LocName,0,66778,Footprints,
@@ -19,7 +19,7 @@ ac_plc_portrait,utp,Description,0,-1,This barrel has been cracked open and its c
 ac_plc_portrait,utp,LocName,0,-1,Portrait of Duke,
 ac_plc_purplight,utp,LocName,0,5800,Purple light,
 ac_plc_redlight,utp,LocName,0,5800,Red light,
-ac_trans_sarco,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+ac_trans_sarco,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 ac_trans_sarco,utp,LocName,0,5800,Sarcophagus,
 ac_woodburning,utp,LocName,0,9224,Wood burning stove,
 am_bluewater1x1,utp,LocName,0,-1,Water Blue 1x1,
@@ -64,19 +64,19 @@ bw_ar0807_portal,utp,LocName,0,-1,Magic Portal,
 bw_ar0807_pred,utp,Description,0,-1,"This portal was opened by a mischievous imp. It appears to be a gate to the imp's home plane, and dangerous creatures continue to emerge from it. The portal appears to have a solid surface. Perhaps it could be rendered unusable...",
 bw_ar0807_pred,utp,LocName,0,-1,Magic Portal,
 bw_barrier,utp,LocName,0,-1,Invisible Barrier,
-bw_portal,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,
-bw_reloot01,utp,Description,0,14666,The sack seems small and poorly-sewn.,
+bw_portal,utp,Description,0,14533,A portal glows softly before you. You wonder where it leads.,차원문이 당신 앞에서 은은하게 빛나고 있습니다. 당신은 차원문이 어디로 이어지는지 궁금합니다.
+bw_reloot01,utp,Description,0,14666,The sack seems small and poorly-sewn.,이 자루는 작고 엉성하게 바느질 된 것 같습니다.
 bw_reloot01,utp,LocName,0,5656,Sack,
-bw_reloot02,utp,Description,0,14670,"The satchel lies half-open, as if abandoned in the very act of being filled.",
+bw_reloot02,utp,Description,0,14670,"The satchel lies half-open, as if abandoned in the very act of being filled.",손가방이 마치 채우는 도중에 버려진 것처럼 반쯤 열려 있습니다.
 bw_reloot02,utp,LocName,0,5656,Satchel,
-bw_reloot03,utp,Description,0,14671,The satchel-clasp is hooked and drawn to ensure its contents don't spill out.,
+bw_reloot03,utp,Description,0,14671,The satchel-clasp is hooked and drawn to ensure its contents don't spill out.,손가방의 걸쇠로 안의 내용물이 흘러내리지 않도록 닫혀 있습니다.
 bw_reloot03,utp,LocName,0,5656,Pack,
 bw_reloot04,utp,LocName,0,5656,Sack,
-bw_reloot05,utp,Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",
+bw_reloot05,utp,Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",철로 감싸졌고 자물쇠가 채워진 이 무거운 궤짝은 분명히 가치 있는 무언가를 보호하기 위한 것입니다.
 bw_rowboat,utp,LocName,0,-1,Rowboat,
 bw_sdoor,utp,Description,0,75934,A door has been cleverly disguised as part of the stonework here.,
 bw_sdoor,utp,LocName,0,68906,Secret Door,
-bw_sdoorman,utp,Description,0,14662,"You look about you, suspicious, but see nothing.",
+bw_sdoorman,utp,Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 bw_sdoorman,utp,LocName,0,5800,Secret Door DC:10,
 bw_strap,utp,Description,0,76379,A trap door was cleverly concealed in the stonework here.,
 dag_apple,utp,Description,0,-1,This succulent apple is almost picture-perfect with its green and red hues and shiny skin. Such perfect specimens have been known to be poisoned before...,
@@ -540,11 +540,11 @@ pl_berrybush_1,utp,Description,0,-1,"This small bush grows close to the ground, 
 pl_berrybush_1,utp,LocName,0,-1,Berry Bush,
 pm_fernigolddead,utp,Description,0,14662,The corpse of Fernigold the Younger lies at your feet.,
 pm_fernigolddead,utp,LocName,0,5800,Corpse of Fernigold the Younger,
-pm_impchest,utp,Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",
+pm_impchest,utp,Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",철로 감싸졌고 자물쇠가 채워진 이 무거운 궤짝은 분명히 가치 있는 무언가를 보호하기 위한 것입니다.
 pm_impchest,utp,LocName,0,5348,Talking Chest,
 pm_sewergrate1,utp,Description,0,84171,"A smelly sewer grate, not the most inviting thing in town.",
 pm_sewergrate1,utp,LocName,0,83425,Sewer Grate,
-pm_sewergrate2,utp,Description,0,68924,"Strange, ineffable smell wafts up from the grate in this heavy stone sewer grate.",
+pm_sewergrate2,utp,Description,0,68924,"Strange, ineffable smell wafts up from the grate in this heavy stone sewer grate.",이 무거운 돌 덫문의 격자에서 이상하고 형언할 수 없는 냄새가 올라옵니다.
 pm_sewergrate2,utp,LocName,0,68922,Sewer Grate,
 pm_voice,utp,Description,0,14662,You hear the sound of a voice.,
 pm_voice,utp,LocName,0,5800,Voice,
@@ -671,9 +671,9 @@ tnobrazier,utp,LocName,0,-1,TNO Brazier,
 tnobush,utp,LocName,0,-1,TNO Bush,
 tnobush002,utp,LocName,0,-1,TNO Bush 2,
 tnodirtpatch,utp,LocName,0,9268,TNO Dirt Patch,
-tnodirtpatch2,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",
+tnodirtpatch2,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",더러워지거나 진흙을 만드는 것 외에는 거의 쓸모없는 큰 흙더미입니다.
 tnodirtpatch2,utp,LocName,0,9268,TNO Dirt Patch,
-tnodirtpatch3,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",
+tnodirtpatch3,utp,Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",더러워지거나 진흙을 만드는 것 외에는 거의 쓸모없는 큰 흙더미입니다.
 tnodirtpatch3,utp,LocName,0,9268,TNO Dirt Patch,
 tnofishrack,utp,LocName,0,-1,TNO Fish Rack,
 tnofishtable,utp,LocName,0,-1,TNO Fish Table,
@@ -681,12 +681,12 @@ tnoflage01,utp,LocName,0,14616,TNO Flag E01,
 tnoflage02,utp,LocName,0,14616,TNO Flag E02,
 tnoflage03,utp,LocName,0,14616,TNO Flag E03,
 tnoflage04,utp,LocName,0,14616,TNO Flag E04,
-tnoflage041,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage041,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage041,utp,LocName,0,14616,TNO Flag E41,
 tnoflage11,utp,LocName,0,14616,TNO Flag E11,
-tnoflage12,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage12,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage12,utp,LocName,0,14616,TNO Flag E12,
-tnoflage13,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage13,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage13,utp,LocName,0,14616,TNO Flag E13,
 tnoflage21,utp,LocName,0,14616,TNO Flag E21,
 tnoflage22,utp,LocName,0,14616,TNO Flag E22,
@@ -697,16 +697,16 @@ tnoflage32,utp,LocName,0,14616,TNO Flag E32,
 tnoflage33,utp,LocName,0,14616,TNO Flag E33,
 tnoflage34,utp,LocName,0,14616,TNO Flag E34,
 tnoflage41,utp,LocName,0,14616,TNO Flag E41,
-tnoflage42,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage42,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage42,utp,LocName,0,14616,TNO Flag E42,
 tnoflage43,utp,LocName,0,14616,TNO Flag E43,
 tnoflage44,utp,LocName,0,14616,TNO Flag E44,
 tnoflage45,utp,LocName,0,14616,TNO Flag E45,
-tnoflage46,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage46,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage46,utp,LocName,0,14616,TNO Flag E46,
-tnoflage47,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage47,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage47,utp,LocName,0,14616,TNO Flag E47,
-tnoflage48,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,
+tnoflage48,utp,Description,0,14615,A banner - stitched and dyed - denoting a point of interest.,바느질로 만들어 염색한 깃발이 관심 지점을 나타냅니다.
 tnoflage48,utp,LocName,0,14616,TNO Flag E48,
 tnoflage51,utp,LocName,0,14616,TNO Flag E51,
 tnoflage52,utp,LocName,0,14616,TNO Flag E52,
@@ -838,5 +838,5 @@ wmi_mapbtn_help,utp,Description,0,-1,"This is the Daggerford map help.
 
 Just click on something! :)",
 wmi_mapbtn_help,utp,LocName,0,-1,Map Help Button,
-wmi_pin,utp,Description,0,14725,A searing shaft of red light descends from some unseen place above.,
+wmi_pin,utp,Description,0,14725,A searing shaft of red light descends from some unseen place above.,붉은 빛의 불태우는 줄기가 보이지도 않는 위에서 내려옵니다.
 wmi_pin,utp,LocName,0,14719,Map: Current Location,

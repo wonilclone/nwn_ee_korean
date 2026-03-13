@@ -1,77 +1,77 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
-q1_gate_q3d2,utd,LocName,0,5349,Gate,
-q1_gate_q3j,utd,LocName,0,5349,Gate,
-q1aa_at_q1ab,utd,LocName,0,5349,Rural Exit,
-q1aa_at_q1ad,utd,LocName,0,5349,River Exit,
-q1aa_at_q2aa,utd,LocName,0,5349,Gate,
-q1ab_at_q1aa,utd,LocName,0,5349,Rural Exit,
-q1ab_at_q3ad2,utd,LocName,0,5349,Cave Entrance,
-q1ab_at_q3af,utd,LocName,0,5349,Crypt Entrance,
-q1ab_at_q3ag,utd,LocName,0,5349,Cave Entrance,
-q1ab_at_q3ah,utd,LocName,0,5349,Cave Entrance,
-q1ab_at_q3aj,utd,LocName,0,5349,Cave Entrance,
-q1ab_at_q3ak2,utd,LocName,0,5349,Crypt Entrance,
-q1ac_at_q3ae,utd,LocName,0,5349,Tree Door,
-q1ac_at_q3ai,utd,LocName,0,5349,Bridge Door,
-q1ad_at_q1aa,utd,LocName,0,5349,River Exit,
-q1b_at_q1e,utd,LocName,0,5349,Forest Exit,
-q1e_at_q1b,utd,LocName,0,5349,Cave Exit,
-q2aa_at_q1aa,utd,LocName,0,5349,Fortress Gate,
-q2aa_at_q2ab,utd,LocName,0,5349,City Gate,
-q2ab11_at_q2ab,utd,LocName,0,5349,Pawnshop Exit,
-q2ab14_at_q2ab,utd,LocName,0,5349,Inn Exit,
-q2ab15_at_q2ab,utd,LocName,0,5349,Pub Exit,
-q2ab8_at_q2ab,utd,LocName,0,5349,Smithy Exit,
-q2ab9_at_q2ab,utd,LocName,0,5349,QuarterMaster Exit,
-q2ab_at_q2aa,utd,LocName,0,5349,City Gate,
-q2ab_at_q2ab11,utd,LocName,0,5349,Pawnshop Entrance,
-q2ab_at_q2ab14,utd,LocName,0,5349,Inn Entrance,
-q2ab_at_q2ab15,utd,LocName,0,5349,Pub Entrance,
-q2ab_at_q2ab8,utd,LocName,0,5349,Smithy Entrance,
-q2ab_at_q2ab9,utd,LocName,0,5349,QuarterMaster Entrance,
-q2ab_at_q2ac,utd,LocName,0,5349,City Door,
-q2ac12_at_q2ac,utd,LocName,0,5349,Tower Exit,
-q2ac16_at_q2ac,utd,LocName,0,5349,Inn Exit,
-q2ac17_at_q2ac,utd,LocName,0,5349,Temple Exit,
-q2ac19_at_q2ac,utd,LocName,0,5349,Granary Exit,
-q2ac22a_at_q2ac,utd,LocName,0,5349,Manor Exit,
-q2ac22b_at_q2ac,utd,LocName,0,5349,Manor Exit,
-q2ac24_at_q2ac,utd,LocName,0,5349,Prison Exit,
-q2ac24a_q2ac24c,utd,LocName,0,5349,Prison Door,
-q2ac24c_at_q2ac2,utd,LocName,0,5349,Prison Door,
-q2ac25a_at_q2ac,utd,LocName,0,5349,Castle Exit,
-q2ac5_at_q2ac,utd,LocName,0,5349,Manor Exit,
-q2ac_at_q2ab,utd,LocName,0,5349,City Door,
-q2ac_at_q2ac12,utd,LocName,0,5349,Tower Entrance,
-q2ac_at_q2ac16,utd,LocName,0,5349,Inn Entrance,
-q2ac_at_q2ac17,utd,LocName,0,5349,Temple Entrance,
-q2ac_at_q2ac19,utd,LocName,0,5349,Granary Entrance,
-q2ac_at_q2ac22a,utd,LocName,0,5349,Manor Entrance,
-q2ac_at_q2ac22b,utd,LocName,0,5349,Manor Entrance,
-q2ac_at_q2ac24,utd,LocName,0,5349,Prison Entrance,
-q2ac_at_q2ac25a,utd,LocName,0,5349,Castle Entrance,
-q2ac_at_q2ac5,utd,LocName,0,5349,Manor Entrance,
-q2b14_at_q2beast,utd,LocName,0,5349,Inn Exit,
-q2b_at_q2b14east,utd,LocName,0,5349,Inn Entrance,
-q2c24b_door_pris,utd,LocName,0,5349,Prison Door,
-q2c24b_door_stil,utd,LocName,0,5349,Prison Door,
-q2c24c_side_door,utd,LocName,0,5349,Side Door,
-q3_bridge_locked,utd,Description,0,-1,Locked Bridge Door,
-q3_gate_moral,utd,LocName,0,5349,Gates of Morality,
-q3_gate_pain,utd,LocName,0,5349,Gates of Pain,
-q3_gate_riches,utd,LocName,0,5349,Gates of Riches,
-q3_gate_spirit,utd,LocName,0,5349,Gates of Spirit,
-q3ad2_at_q1ab,utd,LocName,0,5349,Cave Exit,
-q3ae_at_q1ac,utd,LocName,0,5349,Tree Exit,
-q3af_at_q1ab,utd,LocName,0,5349,Crypt Exit,
-q3af_door_gem,utd,LocName,0,5349,Gem Door,
-q3ag_at_q1ab,utd,LocName,0,5349,Cave Exit,
-q3ag_door_cage,utd,LocName,0,5349,Cage Door,
-q3ah_at_q1ab,utd,LocName,0,5349,Exit,
-q3ai_at_q1ac,utd,LocName,0,5349,Cave Exit,
-q3aj_at_q1ab,utd,LocName,0,5349,Cave Exit,
-q3c_at_q3d,utd,LocName,0,5349,Dungeon Exit,
-q3d_at_q3c,utd,LocName,0,5349,Cave Exit,
-q3k1_at_q3k2,utd,LocName,0,5349,Dungeon Exit,
-q3k2_at_q1b,utd,LocName,0,5349,Dungeon Exit,
-q3k2_at_q3k1,utd,LocName,0,5349,Cave Door,
+q1_gate_q3d2,utd,LocName,0,5349,Gate,문
+q1_gate_q3j,utd,LocName,0,5349,Gate,문
+q1aa_at_q1ab,utd,LocName,0,5349,Rural Exit,시골 출구
+q1aa_at_q1ad,utd,LocName,0,5349,River Exit,강 출구
+q1aa_at_q2aa,utd,LocName,0,5349,Gate,문
+q1ab_at_q1aa,utd,LocName,0,5349,Rural Exit,시골 출구
+q1ab_at_q3ad2,utd,LocName,0,5349,Cave Entrance,동굴 입구
+q1ab_at_q3af,utd,LocName,0,5349,Crypt Entrance,지하묘 입구
+q1ab_at_q3ag,utd,LocName,0,5349,Cave Entrance,동굴 입구
+q1ab_at_q3ah,utd,LocName,0,5349,Cave Entrance,동굴 입구
+q1ab_at_q3aj,utd,LocName,0,5349,Cave Entrance,동굴 입구
+q1ab_at_q3ak2,utd,LocName,0,5349,Crypt Entrance,지하묘 입구
+q1ac_at_q3ae,utd,LocName,0,5349,Tree Door,나무 문
+q1ac_at_q3ai,utd,LocName,0,5349,Bridge Door,다리 문
+q1ad_at_q1aa,utd,LocName,0,5349,River Exit,강 출구
+q1b_at_q1e,utd,LocName,0,5349,Forest Exit,숲 출구
+q1e_at_q1b,utd,LocName,0,5349,Cave Exit,동굴 출구
+q2aa_at_q1aa,utd,LocName,0,5349,Fortress Gate,요새 문
+q2aa_at_q2ab,utd,LocName,0,5349,City Gate,도시 문
+q2ab11_at_q2ab,utd,LocName,0,5349,Pawnshop Exit,전당포 출구
+q2ab14_at_q2ab,utd,LocName,0,5349,Inn Exit,여관 출구
+q2ab15_at_q2ab,utd,LocName,0,5349,Pub Exit,선술집 출구
+q2ab8_at_q2ab,utd,LocName,0,5349,Smithy Exit,대장간 출구
+q2ab9_at_q2ab,utd,LocName,0,5349,QuarterMaster Exit,보급관 출구
+q2ab_at_q2aa,utd,LocName,0,5349,City Gate,도시 문
+q2ab_at_q2ab11,utd,LocName,0,5349,Pawnshop Entrance,전당포 입구
+q2ab_at_q2ab14,utd,LocName,0,5349,Inn Entrance,여관 입구
+q2ab_at_q2ab15,utd,LocName,0,5349,Pub Entrance,선술집 입구
+q2ab_at_q2ab8,utd,LocName,0,5349,Smithy Entrance,대장간 입구
+q2ab_at_q2ab9,utd,LocName,0,5349,QuarterMaster Entrance,보급관 입구
+q2ab_at_q2ac,utd,LocName,0,5349,City Door,도시 문
+q2ac12_at_q2ac,utd,LocName,0,5349,Tower Exit,탑 출구
+q2ac16_at_q2ac,utd,LocName,0,5349,Inn Exit,여관 출구
+q2ac17_at_q2ac,utd,LocName,0,5349,Temple Exit,신전 출구
+q2ac19_at_q2ac,utd,LocName,0,5349,Granary Exit,곡물 창고 출구
+q2ac22a_at_q2ac,utd,LocName,0,5349,Manor Exit,저택 출구
+q2ac22b_at_q2ac,utd,LocName,0,5349,Manor Exit,저택 출구
+q2ac24_at_q2ac,utd,LocName,0,5349,Prison Exit,감옥 출구
+q2ac24a_q2ac24c,utd,LocName,0,5349,Prison Door,감옥 문
+q2ac24c_at_q2ac2,utd,LocName,0,5349,Prison Door,감옥 문
+q2ac25a_at_q2ac,utd,LocName,0,5349,Castle Exit,성 출구
+q2ac5_at_q2ac,utd,LocName,0,5349,Manor Exit,저택 출구
+q2ac_at_q2ab,utd,LocName,0,5349,City Door,도시 문
+q2ac_at_q2ac12,utd,LocName,0,5349,Tower Entrance,탑 입구
+q2ac_at_q2ac16,utd,LocName,0,5349,Inn Entrance,여관 입구
+q2ac_at_q2ac17,utd,LocName,0,5349,Temple Entrance,신전 입구
+q2ac_at_q2ac19,utd,LocName,0,5349,Granary Entrance,곡물 창고 입구
+q2ac_at_q2ac22a,utd,LocName,0,5349,Manor Entrance,저택 입구
+q2ac_at_q2ac22b,utd,LocName,0,5349,Manor Entrance,저택 입구
+q2ac_at_q2ac24,utd,LocName,0,5349,Prison Entrance,감옥 입구
+q2ac_at_q2ac25a,utd,LocName,0,5349,Castle Entrance,성 입구
+q2ac_at_q2ac5,utd,LocName,0,5349,Manor Entrance,저택 입구
+q2b14_at_q2beast,utd,LocName,0,5349,Inn Exit,여관 출구
+q2b_at_q2b14east,utd,LocName,0,5349,Inn Entrance,여관 입구
+q2c24b_door_pris,utd,LocName,0,5349,Prison Door,감옥 문
+q2c24b_door_stil,utd,LocName,0,5349,Prison Door,감옥 문
+q2c24c_side_door,utd,LocName,0,5349,Side Door,옆문
+q3_bridge_locked,utd,Description,0,-1,Locked Bridge Door,잠긴 다리 문
+q3_gate_moral,utd,LocName,0,5349,Gates of Morality,도덕의 문
+q3_gate_pain,utd,LocName,0,5349,Gates of Pain,고통의 문
+q3_gate_riches,utd,LocName,0,5349,Gates of Riches,부의 문
+q3_gate_spirit,utd,LocName,0,5349,Gates of Spirit,영혼의 문
+q3ad2_at_q1ab,utd,LocName,0,5349,Cave Exit,동굴 출구
+q3ae_at_q1ac,utd,LocName,0,5349,Tree Exit,나무 출구
+q3af_at_q1ab,utd,LocName,0,5349,Crypt Exit,지하묘 출구
+q3af_door_gem,utd,LocName,0,5349,Gem Door,보석 문
+q3ag_at_q1ab,utd,LocName,0,5349,Cave Exit,동굴 출구
+q3ag_door_cage,utd,LocName,0,5349,Cage Door,우리 문
+q3ah_at_q1ab,utd,LocName,0,5349,Exit,출구
+q3ai_at_q1ac,utd,LocName,0,5349,Cave Exit,동굴 출구
+q3aj_at_q1ab,utd,LocName,0,5349,Cave Exit,동굴 출구
+q3c_at_q3d,utd,LocName,0,5349,Dungeon Exit,지하 감옥 출구
+q3d_at_q3c,utd,LocName,0,5349,Cave Exit,동굴 출구
+q3k1_at_q3k2,utd,LocName,0,5349,Dungeon Exit,지하 감옥 출구
+q3k2_at_q1b,utd,LocName,0,5349,Dungeon Exit,지하 감옥 출구
+q3k2_at_q3k1,utd,LocName,0,5349,Cave Door,동굴 문

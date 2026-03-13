@@ -1,5 +1,5 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
-altrevil001,utp,Description,0,14540,"A small altar rests before you. Age-old bloodstains have seeped into the stone, mingling with scorchmarks left from a long-extinguished fire.",
+altrevil001,utp,Description,0,14540,"A small altar rests before you. Age-old bloodstains have seeped into the stone, mingling with scorchmarks left from a long-extinguished fire.",작은 제단이 당신 앞에 놓여 있습니다. 오래된 핏자국이 돌 속으로 스며들어 오랫동안 꺼진 불이 남긴 그을음과 섞여있습니다.
 altrevil001,utp,LocName,0,14541,Scroll,
 bedroll,utp,Description,0,-1,"This is an adventurer's bedroll. made to be slept on, then packed up and carried with you.",
 bedroll,utp,LocName,0,-1,Bedroll,
@@ -17,7 +17,7 @@ deathcorpse,utp,Description,0,-1,This is a players Death Corpse.,
 deathcorpse,utp,LocName,0,-1,Death Corpse,
 dicebag,utp,LocName,0,-1,Dice Bag,
 dm_itemhandler,utp,LocName,0,-1,Dungeon Master,
-doorunlocklever,utp,Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",
+doorunlocklever,utp,Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",땅 위로 무거운 레버가 솟아올라 아래 보이지 않는 기계 장치를 제어하고 있습니다.
 doorunlocklever,utp,LocName,0,14633,Door Lever,
 dyingcorpse,utp,LocName,0,-1,Dropped Items,
 el_cleaner,utp,Description,0,14615,An unfortunate creature's corpse,
@@ -262,15 +262,15 @@ Worry no more! When monsters or NPCs die, they leave their corpses behind. Use t
 
 To get back the starting merchant please click on use this item.",
 headstone,utp,LocName,0,5712,HCR Signpost,
-impledcrpse002,utp,Description,0,14656,"The sun-bleached corpse groans and shifts, a gust of wind giving it the brief appearance of unlife.",
+impledcrpse002,utp,Description,0,14656,"The sun-bleached corpse groans and shifts, a gust of wind giving it the brief appearance of unlife.",햇빛에 바랜 시체에 돌풍이 불어와 잠깐 동안 그 생명이 없는 모습은 신음 소리를 내며 움직입니다.
 impledcrpse002,utp,LocName,0,14657,Prince Ahmed,
 invisobj001,utp,LocName,0,5800,Seat,
 invisobj002,utp,LocName,0,5800,Secret Door Placeholder,
 jagerinvis2,utp,LocName,0,14657,Dungeon Master,
 limbomarker,utp,LocName,0,-1,Fugue Marker,
 limbomarker001,utp,LocName,0,-1,StorageMarker,
-memorialboulder2,utp,Description,0,66885,"A large, solid piece of granite juts out from the ground.",
-memorialboulder2,utp,LocName,0,52998,Boulder,
+memorialboulder2,utp,Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
+memorialboulder2,utp,LocName,0,52998,Boulder,바위
 nighthagtour,utp,LocName,0,5800,Night Hag,
 poolinvis,utp,LocName,0,14657,Barrow Pool,
 princeahmed,utp,Description,0,14656,"Blood clings to the prince's lips, dripping to the ground so far below. It is clear that he doesn't have long to live. Nevertheless, his blue eyes are focused on you, brilliant and intense.",
@@ -307,9 +307,9 @@ ww1_firestatu001,utp,Description,0,14535,"This hunched creature overlooks the gr
 ww1_firestatue,utp,Description,0,14535,"This hunched creature overlooks the grounds below. There is a hand-shaped indentation on its haunches, its palm deeply etched with an intricate design.",
 ww1_firestatue,utp,LocName,0,14536,Fire Statue,
 ww1_ironring,utp,LocName,0,-1,Iron Ring,
-ww1_powderkeg,utp,Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+ww1_powderkeg,utp,Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.","두꺼운 금속 띠가 통의 판자를 감싸고 있어, 단단히 밀봉되어 있습니다."
 ww1_powderkeg,utp,LocName,0,5691,Powderkeg,
-ww1_ratroast,utp,Description,0,14588,Something roasts over the crackling fire. Grease drippings feed the flames below.,
+ww1_ratroast,utp,Description,0,14588,Something roasts over the crackling fire. Grease drippings feed the flames below.,뭔가가 탁탁 소리를 내며 타오릅니다. 지방이 방울방울 아래의 불꽃으로 스며들고 있습니다.
 ww1_ratroast,utp,LocName,0,5700,Spitted Roast,
 ww1_slotlever,utp,Description,0,14632,"A slender lever rises from the floor, apparently controlling the nearby contraption.",
 ww1_slotlever,utp,LocName,0,14633,Lever to the Infernal Contraption,

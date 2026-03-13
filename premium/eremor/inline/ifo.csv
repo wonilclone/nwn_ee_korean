@@ -1,9 +1,15 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 module,ifo,Mod_Description,0,-1,"""The Winds of Eremor""
 by BioWare
 
-Seeking shelter from a sudden storm, your ship docks at a mysteriously fortified island. As the tempest grows ever stronger, you must solve the mystery and learn the horrible truth behind the Winds of Eremor. 
+Seeking shelter from a sudden storm, your ship docks at a mysteriously fortified island. As the tempest grows ever stronger, you must solve the mystery and learn the horrible truth behind the Winds of Eremor.
 
 Recommended Levels: 5 - 15
-Number of Players: 1 - 4",
-module,ifo,Mod_Name,0,-1,The Winds of Eremor,
+Number of Players: 1 - 4","""에레모르의 바람""
+바이오웨어 제작
+
+갑작스러운 폭풍을 피해 배가 수수께끼의 요새 섬에 정박합니다. 폭풍이 점점 거세지는 가운데, 에레모르의 바람 뒤에 숨겨진 끔찍한 진실을 밝혀야 합니다.
+
+권장 레벨: 5 - 15
+플레이어 수: 1 - 4"
+module,ifo,Mod_Name,0,-1,The Winds of Eremor,에레모르의 바람

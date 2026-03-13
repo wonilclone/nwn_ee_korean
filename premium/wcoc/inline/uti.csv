@@ -61,7 +61,7 @@ bagofsnuff,uti,LocalizedName,0,13488,Bag of Snuff,
 bagofwind,uti,DescIdentified,0,90539,"A bag of wind. When opened, a strong gust of wind billows forth, knocking enemies from their feet.",
 bagofwind,uti,Description,0,-1,"A loose bag tied off with a string. If anything, it seems to be full of air.",
 bagofwind,uti,LocalizedName,0,90538,Bag of Wind,
-bandedmail1,uti,LocalizedName,0,12843,Banded Mail,
+bandedmail1,uti,LocalizedName,0,12843,Banded Mail,철판 갑옷
 bandedmailv,uti,DescIdentified,0,-1,"Piecemeal or complete armors of this type offer protection that is equal to banded or splint mail. Some, like this one, have minor enchantments on them, though no maker's mark is upon them.",
 bandedmailv,uti,LocalizedName,0,12843,Fine Banded Mail,
 bane,uti,DescIdentified,0,-1,"Bane is a black-hafted axe, set with two gold bands. Crafted for the servants of evil, this fearsome axe brings doom upon its victims.",
@@ -153,8 +153,8 @@ bracerofmalar,uti,Description,0,-1,A somewhat ornate armlet.,
 bracerofmalar,uti,LocalizedName,0,-1,Bracer of Malar,
 brasstalisman,uti,DescIdentified,0,-1,These minor talismans usually have very basic magic properties.,
 brasstalisman,uti,LocalizedName,0,-1,Brass Talisman,
-breastplate002,uti,LocalizedName,0,12842,Breastplate,
-breastplate1,uti,LocalizedName,0,12842,Breastplate,
+breastplate002,uti,LocalizedName,0,12842,Breastplate,가슴판갑
+breastplate1,uti,LocalizedName,0,12842,Breastplate,가슴판갑
 breastplatev,uti,DescIdentified,0,-1,"This is a high quality breastplate with minor enchantments on it, though no maker's mark.",
 breastplatev,uti,LocalizedName,0,12842,Fine Breastplate,
 brightstaramulet,uti,DescIdentified,0,-1,This golden necklace carries a holy pendant that emits a steady low light. The amulet's powers are aimed at those that must combat the Undead.,
@@ -183,10 +183,10 @@ censer,uti,DescIdentified,0,62369,"A small censer filled with a narcotic that ca
 censer,uti,LocalizedName,0,62367,Censer,
 centaurgloves,uti,DescIdentified,0,-1,"Made by the centaur Galuros from the hair of his comrades, these gloves make the wearer almost at one with their horse, a true centaur.",
 centaurgloves,uti,LocalizedName,0,-1,Centaur Gloves,
-chainmail1,uti,LocalizedName,0,184,Chainmail,
+chainmail1,uti,LocalizedName,0,184,Chainmail,사슬갑옷
 chainmailv,uti,DescIdentified,0,-1,"A fine coat of mail with minor enchantments on it, though no maker's mark.",
 chainmailv,uti,LocalizedName,0,184,Fine Chainmail,
-chainshirt1,uti,LocalizedName,0,12844,Chain Shirt,
+chainshirt1,uti,LocalizedName,0,12844,Chain Shirt,사슬 상의
 chainshirtb,uti,LocalizedName,0,184,Chain Shirt,
 chainshirtv,uti,DescIdentified,0,-1,"A fine suit of scalemale imbued with minor enchantments, though no maker's mark.",
 chainshirtv,uti,LocalizedName,0,-1,Fine Chain Shirt,
@@ -346,7 +346,7 @@ emeraldwarhamme,uti,LocalizedName,0,178,Emerald Warhammer,
 emptybottle,uti,DescIdentified,0,-1,"An empty bottle with a stopper.
 
 <c ÿÿ>Note: Bottles are filled by placing them in a container which has a liquid in it. If drunk from they are consumed.<cÿÿÿ>",
-emptybottle,uti,LocalizedName,0,13665,Empty Bottle,
+emptybottle,uti,LocalizedName,0,13665,Empty Bottle,빈 병
 enchantingstone,uti,DescIdentified,0,62369,"An enchanting stone can be rubbed on a weapon to temporarily enhance it. The more skillful the crafter, the better the enhancement, which typically lasts about 4 minutes. Truly great weaponsmiths can sometimes make the enhancement stick permanently, although no smith has managed to get one of these stones to work on a weapon that already has an enhancement bonus on it.
 
 <c ÿÿ>Use: Cast on the melee weapon of your choice. Note: Do not use the Enchanting Stone on a weapon that already has a +1 (or more) bonus to hit/damage, nor on a ranged weapon.<cÿÿÿ>",
@@ -474,7 +474,7 @@ helmofthesea,uti,Description,0,-1,An unusual helmet.,
 helmofthesea,uti,LocalizedName,0,-1,Helm of the Sea,
 heraldsoutfit,uti,DescIdentified,0,-1,A suit of scalemail belonging to the Purple Dragons.,
 heraldsoutfit,uti,LocalizedName,0,-1,Herald's Outfit,
-hidearmour1,uti,LocalizedName,0,12840,Hide Armor,
+hidearmour1,uti,LocalizedName,0,12840,Hide Armor,생가죽 갑옷
 hidearmourp1,uti,LocalizedName,0,12840,Hide Armor +1,
 hidearmourv,uti,DescIdentified,0,-1,"Probably crafted by a tribal smith, this barbaric looking hide armor has a minor enchantment on it.",
 hidearmourv,uti,LocalizedName,0,-1,Fine Hide Armor,
@@ -603,8 +603,8 @@ lathandersmace,uti,DescIdentified,0,-1,These maces are blessed weapons from the 
 lathandersmace,uti,Description,0,-1,A finely made mace with a symbol on it that looks a bit like a rising sun.,
 lathandersmace,uti,LocalizedName,0,-1,Lathander's Mace,
 leatherarmor3,uti,LocalizedName,0,12835,Leather Armour,
-leatherarmour002,uti,LocalizedName,0,12835,Leather Armor,
-leatherarmour1,uti,LocalizedName,0,12835,Leather Armor,
+leatherarmour002,uti,LocalizedName,0,12835,Leather Armor,가죽 갑옷
+leatherarmour1,uti,LocalizedName,0,12835,Leather Armor,가죽 갑옷
 leatherarmourv,uti,DescIdentified,0,-1,"This leather jerkin has no maker's mark, but is imbued with a minor enchantment. Clearly, the heavier protection on the right arm suggests it is for use with a shield.",
 leatherarmourv,uti,LocalizedName,0,12835,Fine Leather Armor,
 leatherchainhaub,uti,DescIdentified,0,-1,A short mail hauberk and leather trews.,
@@ -1002,8 +1002,8 @@ robesofthepuremi,uti,LocalizedName,0,-1,Robes of the Pure Minded,
 rodofice,uti,DescIdentified,0,-1,These rods are crafted to hold repertoires of ice based spells.,
 rodofice,uti,Description,0,-1,A white rod.,
 rodofice,uti,LocalizedName,0,-1,Rod of Ice,
-rodofresurrect,uti,LocalizedName,0,14166,Rod of Resurrection,
-rodofterror,uti,LocalizedName,0,14168,Rod of Terror,
+rodofresurrect,uti,LocalizedName,0,14166,Rod of Resurrection,부활의 단장
+rodofterror,uti,LocalizedName,0,14168,Rod of Terror,공포의 단장
 rope,uti,DescIdentified,0,58562,"A length of rope with a rudimentary grapple on one end.
 
 <c ÿÿ>Note: The option to use a rope is given automatically when you approach an area where it is possible to use one - a cliff edge, hole, shaft, etc...but ONLY if you (or a henchman) possess a rope in your inventory.<cÿÿÿ>",
@@ -1040,7 +1040,7 @@ saintlyhelm,uti,Description,0,-1,An unusual helmet.,
 saintlyhelm,uti,LocalizedName,0,-1,Saintly Helm,
 salvatoriscoat,uti,DescIdentified,0,-1,A fine set of garments complete with overcoat.,
 salvatoriscoat,uti,LocalizedName,0,12835,Valetto's Coat,
-scalemail1,uti,LocalizedName,0,12837,Scale Mail,
+scalemail1,uti,LocalizedName,0,12837,Scale Mail,비늘 갑옷
 scalemailv,uti,DescIdentified,0,-1,"This scale mail jerkin has no maker's mark, but is imbued with a minor enchantment.",
 scalemailv,uti,LocalizedName,0,12837,Fine Scale Mail,
 scimitarofspeed,uti,DescIdentified,0,-1,"This strange, unmarked weapon feels remarkably light in the hand...",
@@ -1146,10 +1146,10 @@ spiderfigurine,uti,LocalizedName,0,-1,Spider Figurine,
 spiritualshield,uti,DescIdentified,0,-1,"These deceptively plain shields offer no additional protection to the bearer, unless a special command word is spoken, whereupon lights dance around the bearer. For a short duration of a few minutes, the defenses of the bearer are greatly enhanced, especially against spells and mind based attacks.",
 spiritualshield,uti,Description,0,-1,A plain wooden shield with a large metal boss in the center.,
 spiritualshield,uti,LocalizedName,0,-1,Spiritual Shield,
-splintmail2,uti,LocalizedName,0,12838,Splint Mail,
+splintmail2,uti,LocalizedName,0,12838,Splint Mail,미늘 갑옷
 splintmailv,uti,DescIdentified,0,-1,"Piecemeal or complete armors of this type offer protection that is equal to banded or splint mail. This one has an enchantment on it, though no maker's mark.",
 splintmailv,uti,LocalizedName,0,12843,Fine Splint Mail,
-staffofpower,uti,LocalizedName,0,14182,Staff of Power,
+staffofpower,uti,LocalizedName,0,14182,Staff of Power,힘의 지팡이
 stalwartring,uti,DescIdentified,0,-1,"This simple silver band is set with two garnets, but its true value lies in the protective spells upon it. Designed for commanders before battle, its powers will benefit anyone whose courage is in danger of wavering.",
 stalwartring,uti,Description,0,-1,"This simple silver band is set with two garnets, and should fetch a good price at market.",
 stalwartring,uti,LocalizedName,0,-1,Stalwart Ring,
@@ -1292,7 +1292,7 @@ tribalcharm,uti,DescIdentified,0,-1,A charm made of bronze and semi-precious sto
 tribalcharm,uti,Description,0,-1,A charm made of bronze and semi-precious stones.,
 tribalcharm,uti,LocalizedName,0,-1,Tribal Charm,
 tridentofpinni,uti,DescIdentified,0,-1,"This wide-pronged trident is tipped with a water-resistant, magic essence that runs through the blood of the victim, causing them to become groggy and slow.",
-tridentofpinni,uti,Description,0,110846,This three-tined variation of a spear is a favored weapon of some undersea humanoids.,
+tridentofpinni,uti,Description,0,110846,This three-tined variation of a spear is a favored weapon of some undersea humanoids.,This three-tined variation of a spear is a favored weapon of some undersea humanoids.
 tridentofpinni,uti,LocalizedName,0,67251,Trident of Pinning,
 truesighthelm,uti,DescIdentified,0,-1,"These helmets have a thin, transparent material across the eyeslits, that help the wearer see. The aid is magical in nature though, and it takes a while to get used to the strange vision granted.",
 truesighthelm,uti,Description,0,-1,A strange helmet.,
@@ -1322,13 +1322,13 @@ wandererscloak,uti,DescIdentified,0,-1,"This tattered cloak is travel-stained an
 wandererscloak,uti,Description,0,-1,A tattered cloak.,
 wandererscloak,uti,LocalizedName,0,-1,Wanderer's Cloak,
 wandofdeath,uti,LocalizedName,0,-1,Wand of Death,
-wandofdispelli,uti,DescIdentified,0,14203,"Of all the items sold to adventurers and militias, Wands of Arcane Disjunction cause the most dissent and argument among wizards and sorcerers. While the market cannot be denied, some find it disturbing that spellcasters sell the very thing that may mean the death of one of their kind. Sellers don't mind the debate. Controversy means an increase in demand.",
-wandofdispelli,uti,LocalizedName,0,14204,Wand of Arcane Disjunction,
+wandofdispelli,uti,DescIdentified,0,14203,"Of all the items sold to adventurers and militias, Wands of Arcane Disjunction cause the most dissent and argument among wizards and sorcerers. While the market cannot be denied, some find it disturbing that spellcasters sell the very thing that may mean the death of one of their kind. Sellers don't mind the debate. Controversy means an increase in demand.","모험가와 민병대에게 파는 모든 아이템들 중에서, 비전 분열의 마법봉은 마법사와 요술사들 사이의 가장 많은 반대 의견과 논쟁을 불러 일으킵니다. 시장을 부정할 수 없지만, 어떤 사람들은 주문시전자들이 자신들 중 하나의 죽음을 의미하는 물건을 판다는 것이 불안하다고 생각합니다. 판매자는 논쟁에 신경쓰지 않습니다. 논란은 곧 수요의 증가를 의미하기 때문입니다."
+wandofdispelli,uti,LocalizedName,0,14204,Wand of Arcane Disjunction,비전 분열의 마법봉
 wandofflames,uti,LocalizedName,0,-1,Wand of Flames,
 wandoflight,uti,DescIdentified,0,-1,These simple wands give light upon a magic command.,
 wandoflight,uti,Description,0,-1,A simple wand.,
 wandoflight,uti,LocalizedName,0,-1,Wand of Light,
-wandoftheheav,uti,LocalizedName,0,14200,Wand of the Heavens,
+wandoftheheav,uti,LocalizedName,0,14200,Wand of the Heavens,하늘의 마법봉
 wandoftrapdet,uti,LocalizedName,0,-1,Wand of Trap Detection,
 warriorfigure,uti,DescIdentified,0,-1,This tiny figure of a warrior can be used to grant protection from fear on two occasions.,
 warriorfigure,uti,LocalizedName,0,13665,Warrior Figure,

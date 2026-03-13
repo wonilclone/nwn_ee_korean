@@ -1,248 +1,398 @@
-﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 module,jrl,Categories/0/EntryList/0/Text,0,-1,"The mage, Yenna, told me that I have some sort of outsider blood running in my veins. I am not sure what this means, but it probably has something to do with my mysterious benefactor. Whoever is helping me is obviously powerful, since Yenna is bound by some kind of magic compulsion not to reveal many details to me.
 
-She suggested that I go and speak to Garrot, the proprietor of the Silver Lily. He might be able to shed more light on this situation.",
+She suggested that I go and speak to Garrot, the proprietor of the Silver Lily. He might be able to shed more light on this situation.","마법사 예나가 내 혈관에 어떤 종류의 이계인 피가 흐르고 있다고 말했다. 이것이 무엇을 의미하는지 잘 모르겠지만, 아마도 나의 신비한 후원자와 관련이 있을 것이다. 나를 돕는 자가 누구든 분명 강력한데, 예나가 일종의 마법적 강제에 의해 나에게 많은 세부 사항을 밝히지 못하기 때문이다.
+
+그녀는 은빛 백합의 주인인 가롯에게 가서 이야기하라고 제안했다. 그가 이 상황에 대해 더 많은 것을 알려줄 수 있을지도 모른다."
 module,jrl,Categories/0/EntryList/1/Text,0,-1,"The mage, Yenna, told me that I have some sort of outsider blood running in my veins. I am not sure what this means, but it probably has something to do with my mysterious benefactor. Whoever is helping me is obviously powerful, since Yenna is bound by some kind of magic compulsion not to reveal many details to me.
 
 Garrot, the proprietor of the Silver Lily, told me a strange tale about a mysterious woman who came to his inn and magically called me to come north. Apparently that is why I was so compelled to follow the Masked Man. I still don't know who is behind all this, but I must be careful. The maid who served the lady was found gruesomely murdered after talking about her. I shall have to proceed carefully.
 
-I wonder if my magic weapon is hiding some of the answers from me?",
-module,jrl,Categories/0/Name,0,-1,A Legacy in Blood,
-module,jrl,Categories/1/EntryList/0/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.",
+I wonder if my magic weapon is hiding some of the answers from me?","마법사 예나가 내 혈관에 어떤 종류의 이계인 피가 흐르고 있다고 말했다. 이것이 무엇을 의미하는지 잘 모르겠지만, 아마도 나의 신비한 후원자와 관련이 있을 것이다. 나를 돕는 자가 누구든 분명 강력한데, 예나가 일종의 마법적 강제에 의해 나에게 많은 세부 사항을 밝히지 못하기 때문이다.
+
+은빛 백합의 주인 가롯이 자신의 여관에 찾아와 마법으로 나를 북쪽으로 불러낸 신비한 여인에 대해 이상한 이야기를 해주었다. 내가 그토록 가면의 남자를 따라가고 싶었던 것은 바로 그 때문인 듯하다. 이 모든 것의 배후에 누가 있는지 아직 모르지만, 조심해야 한다. 그 여인을 시중든 하녀가 그녀에 대해 이야기한 후 끔찍하게 살해된 채 발견되었다. 신중하게 행동해야겠다.
+
+내 마법 무기가 일부 답을 숨기고 있는 건 아닐까?"
+module,jrl,Categories/0/Name,0,-1,A Legacy in Blood,혈통의 유산
+module,jrl,Categories/1/EntryList/0/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.",군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
 module,jrl,Categories/1/EntryList/1/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-Do I go and speak to Feran when he is sober, or talk to Ellysia at Silvertongue Manor?",
+Do I go and speak to Feran when he is sober, or talk to Ellysia at Silvertongue Manor?","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+페란이 술이 깼을 때 이야기할까, 아니면 실버텅 저택에서 엘리시아와 이야기할까?"
 module,jrl,Categories/1/EntryList/10/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-Feran is dead and I will not be able to gain the military guild vote.",
+Feran is dead and I will not be able to gain the military guild vote.","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+페란이 죽었고 군사 길드 표를 얻을 수 없게 되었다."
 module,jrl,Categories/1/EntryList/2/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-I decided to go and speak to Ellysia. I was able to convince her that Feran would be a better husband. That nets me the noble's vote. I should go and speak to Feran now. ",
+I decided to go and speak to Ellysia. I was able to convince her that Feran would be a better husband. That nets me the noble's vote. I should go and speak to Feran now. ","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+엘리시아에게 가서 이야기하기로 했다. 페란이 더 나은 남편이 될 거라고 설득할 수 있었다. 이것으로 귀족 표를 얻었다. 이제 페란에게 가서 이야기해야겠다."
 module,jrl,Categories/1/EntryList/3/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-I decided to go and speak to Ellysia. I was able to convince her that Feran would be a better husband. Feran is excited and will be giving me the military vote. Two more votes for me!",
+I decided to go and speak to Ellysia. I was able to convince her that Feran would be a better husband. Feran is excited and will be giving me the military vote. Two more votes for me!","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+엘리시아에게 가서 이야기하기로 했다. 페란이 더 나은 남편이 될 거라고 설득할 수 있었다. 페란은 기뻐하며 군사 투표를 나에게 주겠다고 했다. 두 표를 더 얻었다!"
 module,jrl,Categories/1/EntryList/4/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-I blackmailed Feran into giving me his vote.",
+I blackmailed Feran into giving me his vote.","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+페란을 협박하여 투표권을 얻어냈다."
 module,jrl,Categories/1/EntryList/5/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-I blackmailed Feran into giving me gold.",
+I blackmailed Feran into giving me gold.","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+페란을 협박하여 금을 얻어냈다."
 module,jrl,Categories/1/EntryList/6/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-I spoke to Feran and he is giving me his vote.",
+I spoke to Feran and he is giving me his vote.","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+페란에게 이야기했더니 투표권을 주겠다고 했다."
 module,jrl,Categories/1/EntryList/7/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-Feran has resigned his position and I will not be able to gain the military guild vote.",
+Feran has resigned his position and I will not be able to gain the military guild vote.","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+페란이 직위를 사임하여 군사 길드 표를 얻을 수 없게 되었다."
 module,jrl,Categories/1/EntryList/8/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-I decided to go and speak to Ellysia. She is willing to forgive Feran. I should go and speak to him.",
+I decided to go and speak to Ellysia. She is willing to forgive Feran. I should go and speak to him.","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+엘리시아에게 가서 이야기하기로 했다. 그녀는 페란을 용서할 의향이 있다. 페란에게 가서 이야기해야겠다."
 module,jrl,Categories/1/EntryList/9/Text,0,-1,"I have met the leader of the military guild, an elf called Feran. The military guild will support Enivid, naturally. He seems to be friendly enough and invited me to join him for a drink at the Mossy Tree one of these nights.
 
 Feran and I had a few drinks and he told me of how he is still in love with Sir Becket's fiance, Ellysia. Feran was indirectly responsible for the death of Ellysia's sister.
 
-I decided to go and speak to Ellysia. She now hates Feran. I am unsure of what I have gained here, but I did enjoy causing such chaos.",
-module,jrl,Categories/1/Name,0,-1,A Lover not a Fighter,
-module,jrl,Categories/10/EntryList/0/Text,0,-1,"Local dwarven miners have been driven from their home by their dark cousins, the duergar. The dwarves have asked that someone kill the duergar mage that leads the host, so that the dwarves can regain their home.",
+I decided to go and speak to Ellysia. She now hates Feran. I am unsure of what I have gained here, but I did enjoy causing such chaos.","군사 길드의 지도자인 페란이라는 엘프를 만났다. 군사 길드는 당연히 에니비드를 지지할 것이다. 꽤 친절해 보이며 언젠가 이끼 나무 여관에서 함께 한 잔 하자고 초대했다.
+
+페란과 몇 잔 하면서 그가 아직도 베켓 경의 약혼녀 엘리시아를 사랑하고 있다는 이야기를 들었다. 페란은 엘리시아의 언니의 죽음에 간접적으로 책임이 있었다.
+
+엘리시아에게 가서 이야기하기로 했다. 그녀는 이제 페란을 미워한다. 여기서 무엇을 얻었는지 모르겠지만, 혼란을 일으키는 것은 즐거웠다."
+module,jrl,Categories/1/Name,0,-1,A Lover not a Fighter,전사가 아닌 연인
+module,jrl,Categories/10/EntryList/0/Text,0,-1,"Local dwarven miners have been driven from their home by their dark cousins, the duergar. The dwarves have asked that someone kill the duergar mage that leads the host, so that the dwarves can regain their home.",지역 드워프 광부들이 어둠의 사촌 듀에르가에게 고향을 빼앗겼다. 드워프들은 누군가가 듀에르가 무리를 이끄는 마법사를 죽여서 고향을 되찾을 수 있게 해달라고 부탁했다.
 module,jrl,Categories/10/EntryList/1/Text,0,-1,"Local dwarven miners have been driven from their home by their dark cousins, the duergar. The dwarves have asked that someone kill the duergar mage that leads the host, so that the dwarves can regain their home.
 
-The dwarven mines are split into two caves. The first is the old mines, the second, the dwarven hall. The mage has made the hall his home. If I want, I can just sneak past the majority of the duergar, pull the lever in the east cave, then go down through the gate in the northeast tunnel. If I kill all the duergar, however, I should be able to find the dwarf chieftain's hammer. Of course, if I kill all of the duergar, the dwarves will also pay me more.",
+The dwarven mines are split into two caves. The first is the old mines, the second, the dwarven hall. The mage has made the hall his home. If I want, I can just sneak past the majority of the duergar, pull the lever in the east cave, then go down through the gate in the northeast tunnel. If I kill all the duergar, however, I should be able to find the dwarf chieftain's hammer. Of course, if I kill all of the duergar, the dwarves will also pay me more.","지역 드워프 광부들이 어둠의 사촌 듀에르가에게 고향을 빼앗겼다. 드워프들은 누군가가 듀에르가 무리를 이끄는 마법사를 죽여서 고향을 되찾을 수 있게 해달라고 부탁했다.
+
+드워프 광산은 두 동굴로 나뉜다. 첫 번째는 오래된 광산이고 두 번째는 드워프 홀이다. 마법사가 홀을 자신의 거처로 삼았다. 원한다면 대부분의 듀에르가를 지나쳐서 동쪽 동굴의 레버를 당긴 다음 북동쪽 터널의 문으로 내려갈 수 있다. 하지만 듀에르가를 모두 죽이면 드워프 족장의 망치를 찾을 수 있다. 물론 전부 죽이면 드워프들도 더 많이 지불할 것이다."
 module,jrl,Categories/10/EntryList/2/Text,0,-1,"Local dwarven miners have been driven from their home by their dark cousins, the duergar. The dwarves have asked that someone kill the duergar mage that leads the host, so that the dwarves can regain their home.
 
 The duergar mage is dead and I can go collect my bounty from the dwarves now.
-",
+","지역 드워프 광부들이 어둠의 사촌 듀에르가에게 고향을 빼앗겼다. 드워프들은 누군가가 듀에르가 무리를 이끄는 마법사를 죽여서 고향을 되찾을 수 있게 해달라고 부탁했다.
+
+듀에르가 마법사가 죽었으니 이제 드워프들에게 가서 현상금을 받을 수 있다."
 module,jrl,Categories/10/EntryList/3/Text,0,-1,"Local dwarven miners have been driven from their home by their dark cousins, the duergar. The dwarves have asked that someone kill the duergar mage that leads the host, so that the dwarves can regain their home.
 
-The duergar mage is dead and the dwarves have paid me for my trouble.",
-module,jrl,Categories/10/Name,0,-1,Nobody Tosses a Dwarf,
-module,jrl,Categories/11/EntryList/0/Text,0,-1,Dynschall has invited me to join the priests' guild. There are two tests to becoming a member. The first test is to distribute food to the poor. I must take three fish and give them to the beggars in the lower keep.,
-module,jrl,Categories/11/EntryList/1/Text,0,-1,Dynschall has invited me to join the priests' guild. There are two tests to becoming a member. The first test is to distribute food to the poor. I have delivered the food and must now return to the temple for my second test.,
-module,jrl,Categories/11/EntryList/2/Text,0,-1,Dynschall has invited me to join the priests' guild. There are two tests to becoming a member. Unfortunately I failed a test and was unable to join the guild.,
-module,jrl,Categories/11/EntryList/3/Text,0,-1,"Dynschall has invited me to join the priests' guild. There are two tests to becoming a member. My final test is to swear an oath to my god that I will protect the community. Having made this oath, I am a full member and have the backing of the priests' guild in my bid for the throne.",
-module,jrl,Categories/11/Name,0,-1,Prove Your Faith,
-module,jrl,Categories/12/EntryList/0/Text,0,-1,"I have met Gelani, a halfling who used to be the guildmaster for the merchants' guild. I convinced her to fight the current guildmaster in exchange for her vote in the coming election.",
-module,jrl,Categories/12/EntryList/1/Text,0,-1,"I have met Gelani, a halfling, who used to be the guildmaster for the merchants' guild. I was unable to convince her to fight the current guildmaster in exchange for her vote in the coming election, however. Perhaps I will have better luck with the current guildmaster.",
-module,jrl,Categories/12/Name,0,-1,She Works Hard For The Money,
+The duergar mage is dead and the dwarves have paid me for my trouble.","지역 드워프 광부들이 어둠의 사촌 듀에르가에게 고향을 빼앗겼다. 드워프들은 누군가가 듀에르가 무리를 이끄는 마법사를 죽여서 고향을 되찾을 수 있게 해달라고 부탁했다.
+
+듀에르가 마법사가 죽었고 드워프들이 수고비를 지불했다."
+module,jrl,Categories/10/Name,0,-1,Nobody Tosses a Dwarf,드워프를 던지는 자는 없다
+module,jrl,Categories/11/EntryList/0/Text,0,-1,Dynschall has invited me to join the priests' guild. There are two tests to becoming a member. The first test is to distribute food to the poor. I must take three fish and give them to the beggars in the lower keep.,딘셜이 사제 길드에 가입하라고 초대했다. 회원이 되려면 두 가지 시험이 있다. 첫 번째 시험은 가난한 이들에게 음식을 나눠주는 것이다. 생선 세 마리를 가져가 하부 요새의 거지들에게 주어야 한다.
+module,jrl,Categories/11/EntryList/1/Text,0,-1,Dynschall has invited me to join the priests' guild. There are two tests to becoming a member. The first test is to distribute food to the poor. I have delivered the food and must now return to the temple for my second test.,딘셜이 사제 길드에 가입하라고 초대했다. 회원이 되려면 두 가지 시험이 있다. 첫 번째 시험인 음식 배달을 완료했으며 이제 두 번째 시험을 위해 성전으로 돌아가야 한다.
+module,jrl,Categories/11/EntryList/2/Text,0,-1,Dynschall has invited me to join the priests' guild. There are two tests to becoming a member. Unfortunately I failed a test and was unable to join the guild.,딘셜이 사제 길드에 가입하라고 초대했다. 회원이 되려면 두 가지 시험이 있다. 불행히도 시험에 실패하여 길드에 가입할 수 없었다.
+module,jrl,Categories/11/EntryList/3/Text,0,-1,"Dynschall has invited me to join the priests' guild. There are two tests to becoming a member. My final test is to swear an oath to my god that I will protect the community. Having made this oath, I am a full member and have the backing of the priests' guild in my bid for the throne.","딘셜이 사제 길드에 가입하라고 초대했다. 회원이 되려면 두 가지 시험이 있다. 마지막 시험은 공동체를 보호하겠다는 신에 대한 맹세를 하는 것이다. 이 맹세를 하여 정식 회원이 되었고, 왕좌를 향한 나의 입후보에 사제 길드의 지지를 얻었다."
+module,jrl,Categories/11/Name,0,-1,Prove Your Faith,신앙을 증명하라
+module,jrl,Categories/12/EntryList/0/Text,0,-1,"I have met Gelani, a halfling who used to be the guildmaster for the merchants' guild. I convinced her to fight the current guildmaster in exchange for her vote in the coming election.",전 상인 길드마스터였던 하플링 젤라니를 만났다. 다가오는 선거에서 투표해 주는 대가로 현 길드마스터에 맞서 싸우도록 설득했다.
+module,jrl,Categories/12/EntryList/1/Text,0,-1,"I have met Gelani, a halfling, who used to be the guildmaster for the merchants' guild. I was unable to convince her to fight the current guildmaster in exchange for her vote in the coming election, however. Perhaps I will have better luck with the current guildmaster.",전 상인 길드마스터였던 하플링 젤라니를 만났다. 하지만 다가오는 선거에서 투표해 주는 대가로 현 길드마스터에 맞서 싸우도록 설득하는 데 실패했다. 현 길드마스터와 이야기해보면 운이 더 좋을지도 모른다.
+module,jrl,Categories/12/Name,0,-1,She Works Hard For The Money,돈을 위해 열심히
 module,jrl,Categories/13/EntryList/0/Text,0,-1,"The guildmaster of the foresters' guild is a dwarf named Levio'Sa. She is willing to give me her vote if I can return with the skin of a manticore that lingers in the old wizard's school in the Emerald Hills outside of Cyan. If I use an old trap the wizards left there, I should be able to kill the manticore without hurting the hide. If I return with the hide intact, Levio'Sa has promised me a magical cloak.
 
-The trap involves dissolving some crystalized poison in rain barrels to create a gas. If I can lure the manticore into an enclosed space where the gas is present, I should be able to kill it without damaging the hide.",
+The trap involves dissolving some crystalized poison in rain barrels to create a gas. If I can lure the manticore into an enclosed space where the gas is present, I should be able to kill it without damaging the hide.","산림 길드의 길드마스터는 레비오사라는 드워프다. 시안 외곽 에메랄드 언덕의 옛 마법사 학원에 서식하는 만티코어의 가죽을 가져오면 투표해 주겠다고 한다. 마법사들이 남긴 오래된 함정을 사용하면 가죽을 손상시키지 않고 만티코어를 죽일 수 있을 것이다. 가죽을 온전히 가져오면 레비오사가 마법 망토를 약속했다.
+
+함정은 빗물통에 결정화된 독을 녹여 가스를 만드는 것이다. 가스가 있는 밀폐된 공간으로 만티코어를 유인할 수 있다면 가죽 손상 없이 죽일 수 있을 것이다."
 module,jrl,Categories/13/EntryList/1/Text,0,-1,"The guildmaster of the foresters' guild is a dwarf named Levio'Sa. She is willing to give me her vote if I can return with the skin of a manticore that lingers in the old wizard's school in the Emerald Hills outside of Cyan. If I use an old trap the wizards left there, I should be able to kill the manticore without hurting the hide. If I return with the hide intact, Levio'Sa has promised me a magical cloak.
 
-I killed the manticore, but without using the trap. At least I should get a vote out of the deal.",
+I killed the manticore, but without using the trap. At least I should get a vote out of the deal.","산림 길드의 길드마스터는 레비오사라는 드워프다. 시안 외곽 에메랄드 언덕의 옛 마법사 학원에 서식하는 만티코어의 가죽을 가져오면 투표해 주겠다고 한다. 마법사들이 남긴 오래된 함정을 사용하면 가죽을 손상시키지 않고 만티코어를 죽일 수 있을 것이다. 가죽을 온전히 가져오면 레비오사가 마법 망토를 약속했다.
+
+함정을 사용하지 않고 만티코어를 죽였다. 최소한 투표는 얻을 수 있을 것이다."
 module,jrl,Categories/13/EntryList/2/Text,0,-1,"The guildmaster of the foresters' guild is a dwarf named Levio'Sa. She is willing to give me her vote if I can return with the skin of a manticore that lingers in the old wizard's school in the Emerald Hills outside of Cyan. If I use an old trap the wizards left there, I should be able to kill the manticore without hurting the hide. If I return with the hide intact, Levio'Sa has promised me a magical cloak.
 
-I killed the manticore, but without using the trap. At least I got a vote out of the deal.",
+I killed the manticore, but without using the trap. At least I got a vote out of the deal.","산림 길드의 길드마스터는 레비오사라는 드워프다. 시안 외곽 에메랄드 언덕의 옛 마법사 학원에 서식하는 만티코어의 가죽을 가져오면 투표해 주겠다고 한다. 마법사들이 남긴 오래된 함정을 사용하면 가죽을 손상시키지 않고 만티코어를 죽일 수 있을 것이다. 가죽을 온전히 가져오면 레비오사가 마법 망토를 약속했다.
+
+함정을 사용하지 않고 만티코어를 죽였다. 최소한 투표는 얻었다."
 module,jrl,Categories/13/EntryList/3/Text,0,-1,"The guildmaster of the foresters' guild is a dwarf named Levio'Sa. She is willing to give me her vote if I can return with the skin of a manticore that lingers in the old wizard's school in the Emerald Hills outside of Cyan. If I use an old trap the wizards left there, I should be able to kill the manticore without hurting the hide. If I return with the hide intact, Levio'Sa has promised me a magical cloak.
 
-I killed the manticore using the wizards' trap. I should get a vote and a cloak for this once I bring the undamaged hide to Levio'Sa.",
+I killed the manticore using the wizards' trap. I should get a vote and a cloak for this once I bring the undamaged hide to Levio'Sa.","산림 길드의 길드마스터는 레비오사라는 드워프다. 시안 외곽 에메랄드 언덕의 옛 마법사 학원에 서식하는 만티코어의 가죽을 가져오면 투표해 주겠다고 한다. 마법사들이 남긴 오래된 함정을 사용하면 가죽을 손상시키지 않고 만티코어를 죽일 수 있을 것이다. 가죽을 온전히 가져오면 레비오사가 마법 망토를 약속했다.
+
+마법사의 함정을 사용하여 만티코어를 죽였다. 손상되지 않은 가죽을 레비오사에게 가져가면 투표와 망토를 얻을 수 있을 것이다."
 module,jrl,Categories/13/EntryList/4/Text,0,-1,"The guildmaster of the foresters' guild is a dwarf named Levio'Sa. She is willing to give me her vote if I can return with the skin of a manticore that lingers in the old wizard's school in the Emerald Hills outside of Cyan. If I use an old trap the wizards left there, I should be able to kill the manticore without hurting the hide. If I return with the hide intact, Levio'Sa has promised me a magical cloak.
 
-I killed the manticore using the wizards' trap. I received a vote and a cloak for my efforts.",
-module,jrl,Categories/13/Name,0,-1,Slip Me Some Skin,
-module,jrl,Categories/14/EntryList/0/Text,0,-1,"Dynschall, the priests' guildmaster, will only change his vote if I can get the other two priests to side with me.",
+I killed the manticore using the wizards' trap. I received a vote and a cloak for my efforts.","산림 길드의 길드마스터는 레비오사라는 드워프다. 시안 외곽 에메랄드 언덕의 옛 마법사 학원에 서식하는 만티코어의 가죽을 가져오면 투표해 주겠다고 한다. 마법사들이 남긴 오래된 함정을 사용하면 가죽을 손상시키지 않고 만티코어를 죽일 수 있을 것이다. 가죽을 온전히 가져오면 레비오사가 마법 망토를 약속했다.
+
+마법사의 함정을 사용하여 만티코어를 죽였다. 노력의 대가로 투표와 망토를 받았다."
+module,jrl,Categories/13/Name,0,-1,Slip Me Some Skin,가죽 좀 건네주오
+module,jrl,Categories/14/EntryList/0/Text,0,-1,"Dynschall, the priests' guildmaster, will only change his vote if I can get the other two priests to side with me.",사제 길드마스터 딘셜은 다른 두 사제가 내 편에 서야만 투표를 바꾸겠다고 한다.
 module,jrl,Categories/14/EntryList/1/Text,0,-1,"Dynschall, the priests' guildmaster, will only change his vote if I can get the other two priests to side with me.
 
-Lavos is willing to side with me. She believes her goddess, Mistress Death, wants her to support me. Her talk of visions is strange, but who am I to argue?",
+Lavos is willing to side with me. She believes her goddess, Mistress Death, wants her to support me. Her talk of visions is strange, but who am I to argue?","사제 길드마스터 딘셜은 다른 두 사제가 내 편에 서야만 투표를 바꾸겠다고 한다.
+
+라보스가 내 편이 되겠다고 했다. 그녀의 여신 죽음의 여주인이 나를 지지하라는 환영을 보여줬다고 믿고 있다. 환영에 대한 그녀의 이야기가 이상하지만, 내가 뭐라 할 수 있겠는가?"
 module,jrl,Categories/14/EntryList/2/Text,0,-1,"Dynschall, the priests' guildmaster, will only change his vote if I can get the other two priests to side with me.
 
-Rafael is willing to vote for me in exchange for a large sum of gold. This could get expensive.",
+Rafael is willing to vote for me in exchange for a large sum of gold. This could get expensive.","사제 길드마스터 딘셜은 다른 두 사제가 내 편에 서야만 투표를 바꾸겠다고 한다.
+
+라파엘이 많은 금을 주면 투표해 주겠다고 한다. 비용이 많이 들 수 있다."
 module,jrl,Categories/14/EntryList/3/Text,0,-1,"Dynschall, the priests' guildmaster, will only change his vote if I can get the other two priests to side with me.
 
 Lavos is willing to side with me. She believes her goddess, Mistress Death, wants her to support me. Her talk of visions is strange, but who am I to argue?
 
-Rafael is willing to vote for me in exchange for a large sum of gold. This could get expensive.",
+Rafael is willing to vote for me in exchange for a large sum of gold. This could get expensive.","사제 길드마스터 딘셜은 다른 두 사제가 내 편에 서야만 투표를 바꾸겠다고 한다.
+
+라보스가 내 편이 되겠다고 했다. 그녀의 여신 죽음의 여주인이 나를 지지하라는 환영을 보여줬다고 믿고 있다. 환영에 대한 그녀의 이야기가 이상하지만, 내가 뭐라 할 수 있겠는가?
+
+라파엘이 많은 금을 주면 투표해 주겠다고 한다. 비용이 많이 들 수 있다."
 module,jrl,Categories/14/EntryList/4/Text,0,-1,"Dynschall, the priests' guildmaster, will only change his vote if I can get the other two priests to side with me.
 
 Lavos is willing to side with me. She believes her goddess, Mistress Death, wants her to support me. Her talk of visions is strange, but who am I to argue?
 
 Rafael is willing to vote for me, since I paid him a large sum of gold. 
 
-All that remains is to speak to Dynschall again.",
+All that remains is to speak to Dynschall again.","사제 길드마스터 딘셜은 다른 두 사제가 내 편에 서야만 투표를 바꾸겠다고 한다.
+
+라보스가 내 편이 되겠다고 했다. 그녀의 여신 죽음의 여주인이 나를 지지하라는 환영을 보여줬다고 믿고 있다. 환영에 대한 그녀의 이야기가 이상하지만, 내가 뭐라 할 수 있겠는가?
+
+라파엘에게 많은 금을 주고 투표를 확보했다.
+
+이제 딘셜에게 다시 이야기하면 된다."
 module,jrl,Categories/14/EntryList/5/Text,0,-1,"Dynschall, the priests' guildmaster, will only change his vote if I can get the other two priests to side with me.
 
 Lavos is willing to side with me. She believes her goddess, Mistress Death, wants her to support me. Her talk of visions is strange, but who am I to argue?
 
 Rafael is willing to vote for me, since I paid him a large sum of gold. 
 
-Dynschall has admitted defeat and will be voting for me now.",
+Dynschall has admitted defeat and will be voting for me now.","사제 길드마스터 딘셜은 다른 두 사제가 내 편에 서야만 투표를 바꾸겠다고 한다.
+
+라보스가 내 편이 되겠다고 했다. 그녀의 여신 죽음의 여주인이 나를 지지하라는 환영을 보여줬다고 믿고 있다. 환영에 대한 그녀의 이야기가 이상하지만, 내가 뭐라 할 수 있겠는가?
+
+라파엘에게 많은 금을 주고 투표를 확보했다.
+
+딘셜이 패배를 인정하고 이제 나에게 투표하겠다고 했다."
 module,jrl,Categories/14/EntryList/6/Text,0,-1,"Dynschall, the priests' guildmaster, will only change his vote if I can get the other two priests to side with me.
 
 Lavos is willing to side with me. She believes her goddess, Mistress Death, wants her to support me. Her talk of visions is strange, but who am I to argue?
 
 Rafael is willing to vote for me, since I paid him a large sum of gold.
  
-I was fooled into making a promise to Dynschall that I should not have made. I guess I lost that vote.",
-module,jrl,Categories/14/Name,0,-1,The Holy Triumvirate,
+I was fooled into making a promise to Dynschall that I should not have made. I guess I lost that vote.","사제 길드마스터 딘셜은 다른 두 사제가 내 편에 서야만 투표를 바꾸겠다고 한다.
+
+라보스가 내 편이 되겠다고 했다. 그녀의 여신 죽음의 여주인이 나를 지지하라는 환영을 보여줬다고 믿고 있다. 환영에 대한 그녀의 이야기가 이상하지만, 내가 뭐라 할 수 있겠는가?
+
+라파엘에게 많은 금을 주고 투표를 확보했다.
+
+딘셜에게 하지 말았어야 할 약속을 속아서 해버렸다. 그 투표는 잃은 것 같다."
+module,jrl,Categories/14/Name,0,-1,The Holy Triumvirate,성스러운 삼두 정치
 module,jrl,Categories/15/EntryList/0/Text,0,-1,"After experiencing a painful and humiliating death, I was raised by a strange, magical force. The force spoke to me and transformed itself into a magic weapon. The weapon told me that my companions are also dead, and that I must choose two of them to bring back to life to accompany me.
 
-The Masked Man who we have been pursuing appears to have been killed by the same blast that I was and his forces have been scattered, at least for now. If I am to regain my power and purge the region of his followers once and for all, I must do so from within the safety of the keep. I will need my companions help if I am to succeed.",
+The Masked Man who we have been pursuing appears to have been killed by the same blast that I was and his forces have been scattered, at least for now. If I am to regain my power and purge the region of his followers once and for all, I must do so from within the safety of the keep. I will need my companions help if I am to succeed.","고통스럽고 굴욕적인 죽음을 겪은 후, 이상한 마법의 힘에 의해 살아났다. 그 힘이 나에게 말을 걸었고 마법 무기로 변했다. 무기는 동료들도 죽었으며 함께할 두 명을 골라 되살려야 한다고 말했다.
+
+우리가 추적하던 가면의 남자도 나와 같은 폭발에 의해 죽은 것 같고, 그의 세력은 적어도 지금은 흩어졌다. 힘을 되찾고 그의 추종자들을 완전히 제거하려면 요새의 안전 안에서 해야 한다. 성공하려면 동료들의 도움이 필요할 것이다."
 module,jrl,Categories/15/EntryList/1/Text,0,-1,"After experiencing a painful and humiliating death, I was raised by a strange, magical force. The force spoke to me and transformed itself into a magic weapon. The weapon told me that my companions are also dead, and that I must choose two of them to bring back to life to accompany me.
 
 The Masked Man who we have been pursuing appears to have been killed by the same blast that I was and his forces have been scattered, at least for now. If I am to regain my power and purge the region of his followers once and for all, I must do so from within the safety of the keep. I will need my companions help if I am to succeed.
 
-I have chosen two companions and am ready to go to the keep.",
+I have chosen two companions and am ready to go to the keep.","고통스럽고 굴욕적인 죽음을 겪은 후, 이상한 마법의 힘에 의해 살아났다. 그 힘이 나에게 말을 걸었고 마법 무기로 변했다. 무기는 동료들도 죽었으며 함께할 두 명을 골라 되살려야 한다고 말했다.
+
+우리가 추적하던 가면의 남자도 나와 같은 폭발에 의해 죽은 것 같고, 그의 세력은 적어도 지금은 흩어졌다. 힘을 되찾고 그의 추종자들을 완전히 제거하려면 요새의 안전 안에서 해야 한다. 성공하려면 동료들의 도움이 필요할 것이다.
+
+두 명의 동료를 선택했고 요새로 갈 준비가 되었다."
 module,jrl,Categories/15/EntryList/2/Text,0,-1,"After experiencing a painful and humiliating death, I was raised by a strange, magical force. The force spoke to me and transformed itself into a magic weapon. I have revived two of my companions to accompany me.
 
 The Masked Man who we have been pursuing appears to have been killed by the same blast that I was and his forces have been scattered, at least for now. If I am to regain my power and purge the region of his followers once and for all, I must do so from within the safety of the keep.
 
-I am now involved in an election to become the ruler of the keep. I will need to speak to the various guildmasters and see if I can convince enough of them to vote for me.",
+I am now involved in an election to become the ruler of the keep. I will need to speak to the various guildmasters and see if I can convince enough of them to vote for me.","고통스럽고 굴욕적인 죽음을 겪은 후, 이상한 마법의 힘에 의해 살아났다. 그 힘이 나에게 말을 걸었고 마법 무기로 변했다. 두 명의 동료를 되살려 함께하게 했다.
+
+우리가 추적하던 가면의 남자도 나와 같은 폭발에 의해 죽은 것 같고, 그의 세력은 적어도 지금은 흩어졌다. 힘을 되찾고 그의 추종자들을 완전히 제거하려면 요새의 안전 안에서 해야 한다.
+
+이제 요새의 통치자가 되기 위한 선거에 참여하고 있다. 다양한 길드마스터들과 이야기하여 충분한 표를 확보해야 한다."
 module,jrl,Categories/15/EntryList/3/Text,0,-1,"After experiencing a painful and humiliating death, I was raised by a strange, magical force. The force spoke to me and transformed itself into a magic weapon. I have revived two of my companions to accompany me.
 
 The Masked Man who we have been pursuing appears to have been killed by the same blast that I was and his forces have been scattered, at least for now. If I am to regain my power and purge the region of his followers once and for all, I must do so from within the safety of the keep.
 
-I have won an election and am now ruler of a keep that lies on the brink of annihilation. The Masked Man, apparently an illithid, somehow escaped death, perhaps much as I have. Rather than waiting in the keep for him to come to us, I have gone on the offensive and intend to destroy him before he has a chance to rebuild his army and sieze the keep as his own.",
-module,jrl,Categories/15/Name,0,-1,The Magic Weapon,
-module,jrl,Categories/16/EntryList/0/Text,0,-1,The Stan's most important quest is to lead an archeologist safely into a crypt full of undead. The archeologist is waiting outside the crypt.,
-module,jrl,Categories/16/EntryList/1/Text,0,-1,"The Stan's most important quest is to lead an archeologist safely into a crypt full of undead. The archeologist has been researching some kind of powerful magic that surrounds the keep. As he was waiting, he saw a group of goblins and orcs, led by a drow, enter the cave. They can only have been agents of my enemy, the Masked Man. If the his forces seek this knowledge, I will probably need it too.",
+I have won an election and am now ruler of a keep that lies on the brink of annihilation. The Masked Man, apparently an illithid, somehow escaped death, perhaps much as I have. Rather than waiting in the keep for him to come to us, I have gone on the offensive and intend to destroy him before he has a chance to rebuild his army and sieze the keep as his own.","고통스럽고 굴욕적인 죽음을 겪은 후, 이상한 마법의 힘에 의해 살아났다. 그 힘이 나에게 말을 걸었고 마법 무기로 변했다. 두 명의 동료를 되살려 함께하게 했다.
+
+우리가 추적하던 가면의 남자도 나와 같은 폭발에 의해 죽은 것 같고, 그의 세력은 적어도 지금은 흩어졌다. 힘을 되찾고 그의 추종자들을 완전히 제거하려면 요새의 안전 안에서 해야 한다.
+
+선거에서 승리하여 이제 멸망 직전의 요새를 통치하게 되었다. 가면의 남자는, 분명 일리시드인데, 나처럼 어떻게든 죽음을 피한 것 같다. 요새에서 그가 올 때까지 기다리기보다, 공세를 취하여 그가 군대를 재건하고 요새를 차지하기 전에 처치하려 한다."
+module,jrl,Categories/15/Name,0,-1,The Magic Weapon,마법 무기
+module,jrl,Categories/16/EntryList/0/Text,0,-1,The Stan's most important quest is to lead an archeologist safely into a crypt full of undead. The archeologist is waiting outside the crypt.,더 스탠의 가장 중요한 임무는 언데드로 가득한 묘지 안으로 고고학자를 안전하게 인도하는 것이다. 고고학자가 묘지 밖에서 기다리고 있다.
+module,jrl,Categories/16/EntryList/1/Text,0,-1,"The Stan's most important quest is to lead an archeologist safely into a crypt full of undead. The archeologist has been researching some kind of powerful magic that surrounds the keep. As he was waiting, he saw a group of goblins and orcs, led by a drow, enter the cave. They can only have been agents of my enemy, the Masked Man. If the his forces seek this knowledge, I will probably need it too.","더 스탠의 가장 중요한 임무는 언데드로 가득한 묘지 안으로 고고학자를 안전하게 인도하는 것이다. 고고학자는 요새를 둘러싼 강력한 마법을 연구해 왔다. 기다리는 동안 드로우가 이끄는 고블린과 오크 무리가 동굴에 들어가는 것을 목격했다. 분명 나의 적 가면의 남자의 요원일 것이다. 그의 세력이 이 지식을 찾는다면, 나도 아마 필요할 것이다."
 module,jrl,Categories/16/EntryList/2/Text,0,-1,"The Stan's most important quest is to lead an archeologist safely into a crypt full of undead. The archeologist has been researching some kind of powerful magic that surrounds the keep. As he was waiting, he saw a group of goblins and orcs, led by a drow, enter the cave. They can only have been agents of my enemy, the Masked Man. If the his forces seek this knowledge, I will probably need it too.
 
-The archeologist was killed. Maybe I shouldn't tell The Stan. It would probably just upset him.",
+The archeologist was killed. Maybe I shouldn't tell The Stan. It would probably just upset him.","더 스탠의 가장 중요한 임무는 언데드로 가득한 묘지 안으로 고고학자를 안전하게 인도하는 것이다. 고고학자는 요새를 둘러싼 강력한 마법을 연구해 왔다. 기다리는 동안 드로우가 이끄는 고블린과 오크 무리가 동굴에 들어가는 것을 목격했다. 분명 나의 적 가면의 남자의 요원일 것이다.
+
+고고학자가 죽었다. 더 스탠에게는 말하지 않는 게 좋겠다. 그냥 속상해할 테니."
 module,jrl,Categories/16/EntryList/3/Text,0,-1,"The Stan's most important quest is to lead an archeologist safely into a crypt full of undead. The archeologist has been researching some kind of powerful magic that surrounds the keep. As he was waiting, he saw a group of goblins and orcs, led by a drow, enter the cave. They can only have been agents of my enemy, the Masked Man. If the his forces seek this knowledge, I will probably need it too.
 
-The archeologist is happily ensconsed in his work and I should return to The Stan so I can collect my pay. I suspect my old friend, the Masked Man, will be suitably infuriated with me.",
+The archeologist is happily ensconsed in his work and I should return to The Stan so I can collect my pay. I suspect my old friend, the Masked Man, will be suitably infuriated with me.","더 스탠의 가장 중요한 임무는 언데드로 가득한 묘지 안으로 고고학자를 안전하게 인도하는 것이다. 고고학자는 요새를 둘러싼 강력한 마법을 연구해 왔다. 기다리는 동안 드로우가 이끄는 고블린과 오크 무리가 동굴에 들어가는 것을 목격했다. 분명 나의 적 가면의 남자의 요원일 것이다.
+
+고고학자가 행복하게 연구에 몰두하고 있으니, 더 스탠에게 돌아가 보수를 받아야겠다. 오랜 친구 가면의 남자가 적절히 격분할 것 같다."
 module,jrl,Categories/16/EntryList/4/Text,0,-1,"The Stan's most important quest is to lead an archeologist safely into a crypt full of undead. The archeologist has been researching some kind of powerful magic that surrounds the keep. As he was waiting, he saw a group of goblins and orcs, led by a drow, enter the cave. They can only have been agents of my enemy, the Masked Man. If the his forces seek this knowledge, I will probably need it too.
 
-The archeologist is happily ensconsed in his work and the Stan has paid me for my troubles. I suspect my old friend, the Masked Man, will be suitably infuriated with me.",
-module,jrl,Categories/16/Name,0,-1,Til Death Do Us Part,
-module,jrl,Categories/2/EntryList/0/Text,0,-1,"Southpaw has offered to allow me to join the thieves' guild, if I can get a prisoner out of the keep's prison tower. I have to either convince Enivid to release Stiletto, the prisoner, or help him escape. Neither option sounds particularily easy.",
-module,jrl,Categories/2/EntryList/1/Text,0,-1,"Southpaw has offered to vote for me in the election, if I can get a prisoner out of the keep's prison tower. I have to either convince Enivid to release Stiletto, the prisoner, or help him escape. Neither option sounds particularily easy.",
-module,jrl,Categories/2/EntryList/2/Text,0,-1,Stiletto is free from captivity. I should go tell Southpaw right away.,
-module,jrl,Categories/2/EntryList/3/Text,0,-1,"Southpaw was pleased with my rescue of Stiletto, who left a gift behind for me. I'm rather glad I didn't murder him now.",
-module,jrl,Categories/2/EntryList/4/Text,0,-1,Stiletto is dead. I doubt Southpaw will help me now.,
-module,jrl,Categories/2/EntryList/5/Text,0,-1,I was right. Southpaw was upset with the death of his friend. I guess I'll need to find some other help now.,
-module,jrl,Categories/2/Name,0,-1,A Sharp Prisoner,
-module,jrl,Categories/3/EntryList/0/Text,0,-1,"The guildmaster of the nobles is a young woman, Lady Ellysia. She is engaged to marry her love, Sir Becket. There is slim hope that I will be able to gain the noble's vote.",
+The archeologist is happily ensconsed in his work and the Stan has paid me for my troubles. I suspect my old friend, the Masked Man, will be suitably infuriated with me.","더 스탠의 가장 중요한 임무는 언데드로 가득한 묘지 안으로 고고학자를 안전하게 인도하는 것이다. 고고학자는 요새를 둘러싼 강력한 마법을 연구해 왔다. 기다리는 동안 드로우가 이끄는 고블린과 오크 무리가 동굴에 들어가는 것을 목격했다. 분명 나의 적 가면의 남자의 요원일 것이다.
+
+고고학자가 행복하게 연구에 몰두하고 있고, 더 스탠이 보수를 지불했다. 오랜 친구 가면의 남자가 적절히 격분할 것 같다."
+module,jrl,Categories/16/Name,0,-1,Til Death Do Us Part,죽음이 갈라놓을 때까지
+module,jrl,Categories/2/EntryList/0/Text,0,-1,"Southpaw has offered to allow me to join the thieves' guild, if I can get a prisoner out of the keep's prison tower. I have to either convince Enivid to release Stiletto, the prisoner, or help him escape. Neither option sounds particularily easy.",사우스포가 요새 감옥탑에서 죄수를 빼내올 수 있으면 도적 길드에 가입시켜 주겠다고 제안했다. 에니비드를 설득하여 죄수 스틸레토를 석방하거나 탈출을 도와야 한다. 어느 쪽이든 쉽지 않아 보인다.
+module,jrl,Categories/2/EntryList/1/Text,0,-1,"Southpaw has offered to vote for me in the election, if I can get a prisoner out of the keep's prison tower. I have to either convince Enivid to release Stiletto, the prisoner, or help him escape. Neither option sounds particularily easy.",사우스포가 선거에서 죄수를 빼내올 수 있으면 투표해 주겠다고 제안했다. 에니비드를 설득하여 죄수 스틸레토를 석방하거나 탈출을 도와야 한다. 어느 쪽이든 쉽지 않아 보인다.
+module,jrl,Categories/2/EntryList/2/Text,0,-1,Stiletto is free from captivity. I should go tell Southpaw right away.,스틸레토가 감금에서 풀려났다. 사우스포에게 빨리 알려야겠다.
+module,jrl,Categories/2/EntryList/3/Text,0,-1,"Southpaw was pleased with my rescue of Stiletto, who left a gift behind for me. I'm rather glad I didn't murder him now.","사우스포는 스틸레토 구출에 기뻐했고, 스틸레토가 나에게 선물을 남겼다. 그를 죽이지 않아서 다행이다."
+module,jrl,Categories/2/EntryList/4/Text,0,-1,Stiletto is dead. I doubt Southpaw will help me now.,스틸레토가 죽었다. 사우스포가 이제 나를 도와줄 것 같지 않다.
+module,jrl,Categories/2/EntryList/5/Text,0,-1,I was right. Southpaw was upset with the death of his friend. I guess I'll need to find some other help now.,역시나 사우스포는 친구의 죽음에 화가 났다. 다른 도움을 찾아야겠다.
+module,jrl,Categories/2/Name,0,-1,A Sharp Prisoner,날카로운 죄수
+module,jrl,Categories/3/EntryList/0/Text,0,-1,"The guildmaster of the nobles is a young woman, Lady Ellysia. She is engaged to marry her love, Sir Becket. There is slim hope that I will be able to gain the noble's vote.",귀족의 길드마스터는 엘리시아라는 젊은 여성이다. 그녀는 사랑하는 베켓 경과 약혼한 사이다. 귀족 표를 얻을 가능성은 희박하다.
 module,jrl,Categories/3/EntryList/1/Text,0,-1,"The guildmaster of the nobles is a young woman, Lady Ellysia. She is engaged to marry her love, Sir Becket. There is slim hope that I will be able to gain the noble's vote.
 
 I found a passage to a crawl space that leads under Lady Ellysia's home. Through a sewer grate, I was able to overhear of an affair between Sir Becket and Ellysia's chamber maid.
 
-I must decide if this information should be taken to Sir Becket or Lady Ellysia.",
+I must decide if this information should be taken to Sir Becket or Lady Ellysia.","귀족의 길드마스터는 엘리시아라는 젊은 여성이다. 그녀는 사랑하는 베켓 경과 약혼한 사이다. 귀족 표를 얻을 가능성은 희박하다.
+
+엘리시아 집 아래 기어갈 수 있는 통로를 발견했다. 하수구 격자를 통해 베켓 경과 엘리시아의 시녀 사이의 불륜 이야기를 엿들을 수 있었다.
+
+이 정보를 베켓 경에게 가져갈지 엘리시아에게 가져갈지 결정해야 한다."
 module,jrl,Categories/3/EntryList/2/Text,0,-1,"The guildmaster of the nobles is a young woman, Lady Ellysia. She is engaged to marry her love, Sir Becket. There is slim hope that I will be able to gain the noble's vote.
 
 I found a passage to a crawl space that leads under Lady Ellysia's home. Through a sewer grate, I was able to overhear of an affair between Sir Becket and Ellysia's chamber maid.
 
-I decided to go to Lady Ellysia with this information. She has decided to leave Sir Becket and give me the noble's vote.",
+I decided to go to Lady Ellysia with this information. She has decided to leave Sir Becket and give me the noble's vote.","귀족의 길드마스터는 엘리시아라는 젊은 여성이다. 그녀는 사랑하는 베켓 경과 약혼한 사이다. 귀족 표를 얻을 가능성은 희박하다.
+
+엘리시아 집 아래 기어갈 수 있는 통로를 발견했다. 하수구 격자를 통해 베켓 경과 엘리시아의 시녀 사이의 불륜 이야기를 엿들을 수 있었다.
+
+이 정보를 엘리시아에게 가져가기로 했다. 그녀는 베켓 경을 떠나기로 결심하고 나에게 귀족 표를 주었다."
 module,jrl,Categories/3/EntryList/3/Text,0,-1,"The guildmaster of the nobles is a young woman, Lady Ellysia. She is engaged to marry her love, Sir Becket. There is slim hope that I will be able to gain the noble's vote.
 
 I found a passage to a crawl space that leads under Lady Ellysia's home. Through a sewer grate, I was able to overhear of an affair between Sir Becket and Ellysia's chamber maid.
 
-I took this information to Sir Becket and blackmailed him for gold.",
-module,jrl,Categories/3/Name,0,-1,Beauty or the Beast,
-module,jrl,Categories/4/EntryList/0/Text,0,-1,"Alias's Aunt Serah is the landowners' guildmaster. A cave on her property has been overrun by goblins from the Masked Man's forces and I have been asked to destroy them and bring back the chieftain's head. Doing so will not only buy me a vote in the election, but Serah can also stall the election until I have enough votes to win.",
+I took this information to Sir Becket and blackmailed him for gold.","귀족의 길드마스터는 엘리시아라는 젊은 여성이다. 그녀는 사랑하는 베켓 경과 약혼한 사이다. 귀족 표를 얻을 가능성은 희박하다.
+
+엘리시아 집 아래 기어갈 수 있는 통로를 발견했다. 하수구 격자를 통해 베켓 경과 엘리시아의 시녀 사이의 불륜 이야기를 엿들을 수 있었다.
+
+이 정보를 베켓 경에게 가져가서 금으로 협박했다."
+module,jrl,Categories/3/Name,0,-1,Beauty or the Beast,미녀와 야수
+module,jrl,Categories/4/EntryList/0/Text,0,-1,"Alias's Aunt Serah is the landowners' guildmaster. A cave on her property has been overrun by goblins from the Masked Man's forces and I have been asked to destroy them and bring back the chieftain's head. Doing so will not only buy me a vote in the election, but Serah can also stall the election until I have enough votes to win.","앨리어스의 이모 세라가 지주 길드마스터다. 그녀 영지의 동굴이 가면의 남자 세력인 고블린에게 점령당했고, 나에게 그들을 처치하고 족장의 머리를 가져와 달라고 부탁했다. 그렇게 하면 선거에서 투표뿐만 아니라, 세라가 내가 이길 수 있을 만큼 표를 모을 때까지 선거를 지연시켜 줄 수도 있다."
 module,jrl,Categories/4/EntryList/1/Text,0,-1,"Alias's Aunt Serah is the landowners' guildmaster. A cave on her property has been overrun by goblins from the Masked Man's forces and I have been asked to destroy them and bring back the chieftain's head. Doing so will not only buy me a vote in the election, but Serah can also stall the election until I have enough votes to win.
 
-I have the chieftain's head and will need to return it to Serah at the landowners' guild office in the keep.",
+I have the chieftain's head and will need to return it to Serah at the landowners' guild office in the keep.","앨리어스의 이모 세라가 지주 길드마스터다. 그녀 영지의 동굴이 가면의 남자 세력인 고블린에게 점령당했고, 나에게 그들을 처치하고 족장의 머리를 가져와 달라고 부탁했다. 그렇게 하면 선거에서 투표뿐만 아니라, 세라가 내가 이길 수 있을 만큼 표를 모을 때까지 선거를 지연시켜 줄 수도 있다.
+
+족장의 머리를 손에 넣었으니 요새의 지주 길드 사무실에 있는 세라에게 돌아가야 한다."
 module,jrl,Categories/4/EntryList/2/Text,0,-1,"Alias's Aunt Serah is the landowners' guildmaster. A cave on her property has been overrun by goblins from the Masked Man's forces and I have been asked to destroy them and bring back the chieftain's head. Doing so will not only buy me a vote in the election, but Serah can also stall the election until I have enough votes to win.
 
-The goblins are destroyed and I now have an ally among the guildmasters.",
-module,jrl,Categories/4/Name,0,-1,Buying Time,
-module,jrl,Categories/5/EntryList/0/Text,0,-1,"I have met a gnome named Thaddeus who asked me to kill Typhus, an agressive customer, for him. I agreed to do it for 100 gold.",
-module,jrl,Categories/5/EntryList/1/Text,0,-1,"When Thaddeus paid me for killing Typhus, he tried to demand his gold back by blackmailing me. I refused and he let me keep the gold, but I don't think I'll be getting his vote now.",
-module,jrl,Categories/5/EntryList/2/Text,0,-1,"When Thaddeus paid me for killing Typhus, he tried to demand his gold back by blackmailing me. I relented and he told me to keep the gold. Apparently this was some kind of test. Now Thaddeus wants me to kill the old merchants' guildmaster, Gelani. She is usually found at the Mossy Tree Inn.",
+The goblins are destroyed and I now have an ally among the guildmasters.","앨리어스의 이모 세라가 지주 길드마스터다. 그녀 영지의 동굴이 가면의 남자 세력인 고블린에게 점령당했고, 나에게 그들을 처치하고 족장의 머리를 가져와 달라고 부탁했다. 그렇게 하면 선거에서 투표뿐만 아니라, 세라가 내가 이길 수 있을 만큼 표를 모을 때까지 선거를 지연시켜 줄 수도 있다.
+
+고블린을 처치했고 이제 길드마스터 중에 동맹을 얻었다."
+module,jrl,Categories/4/Name,0,-1,Buying Time,시간 벌기
+module,jrl,Categories/5/EntryList/0/Text,0,-1,"I have met a gnome named Thaddeus who asked me to kill Typhus, an agressive customer, for him. I agreed to do it for 100 gold.","타데우스라는 노움을 만났는데, 공격적인 손님 타이푸스를 죽여달라고 부탁했다. 100금에 하기로 동의했다."
+module,jrl,Categories/5/EntryList/1/Text,0,-1,"When Thaddeus paid me for killing Typhus, he tried to demand his gold back by blackmailing me. I refused and he let me keep the gold, but I don't think I'll be getting his vote now.","타데우스가 타이푸스를 죽인 대가를 지불한 후, 협박하여 금을 돌려달라고 했다. 거부하자 금은 가지라고 했지만, 그의 표를 얻기는 어려울 것 같다."
+module,jrl,Categories/5/EntryList/2/Text,0,-1,"When Thaddeus paid me for killing Typhus, he tried to demand his gold back by blackmailing me. I relented and he told me to keep the gold. Apparently this was some kind of test. Now Thaddeus wants me to kill the old merchants' guildmaster, Gelani. She is usually found at the Mossy Tree Inn.","타데우스가 타이푸스를 죽인 대가를 지불한 후, 협박하여 금을 돌려달라고 했다. 양보하자 금은 가지라고 했다. 일종의 시험이었던 모양이다. 이제 타데우스는 전 상인 길드마스터 젤라니를 죽여달라고 한다. 그녀는 보통 이끼 나무 여관에 있다."
 module,jrl,Categories/5/EntryList/3/Text,0,-1,"When Thaddeus paid me for killing Typhus, he tried to demand his gold back by blackmailing me. I relented and he told me to keep the gold. Apparently this was some kind of test. Now Thaddeus wants me to kill the old merchants' guildmaster, Gelani. She is usually found at the Mossy Tree Inn.
 
-Gelani is dead. I had better go report to Thaddeus, back at the Tarnished Tankard.",
-module,jrl,Categories/5/EntryList/4/Text,0,-1,"Thaddeus was overjoyed at the death of Typhus, his rival, and I am one vote closer to my goal.",
+Gelani is dead. I had better go report to Thaddeus, back at the Tarnished Tankard.","타데우스가 타이푸스를 죽인 대가를 지불한 후, 협박하여 금을 돌려달라고 했다. 양보하자 금은 가지라고 했다. 일종의 시험이었던 모양이다. 이제 타데우스는 전 상인 길드마스터 젤라니를 죽여달라고 한다. 그녀는 보통 이끼 나무 여관에 있다.
+
+젤라니가 죽었다. 녹슨 술잔 여관에 있는 타데우스에게 보고해야겠다."
+module,jrl,Categories/5/EntryList/4/Text,0,-1,"Thaddeus was overjoyed at the death of Typhus, his rival, and I am one vote closer to my goal.","타데우스는 경쟁자 타이푸스의 죽음에 매우 기뻐했고, 나는 목표에 한 표 더 가까워졌다."
 module,jrl,Categories/5/EntryList/5/Text,0,-1,"When Thaddeus paid me for killing Typhus, he tried to demand his gold back by blackmailing me. I relented and he told me to keep the gold. Apparently this was some kind of test. Now Thaddeus wants me to kill the old merchants' guildmaster, Gelani. She is usually found at the Mossy Tree Inn.
 
-I liked Gelani better than Thaddeus and have decided to help her instead.",
+I liked Gelani better than Thaddeus and have decided to help her instead.","타데우스가 타이푸스를 죽인 대가를 지불한 후, 협박하여 금을 돌려달라고 했다. 양보하자 금은 가지라고 했다. 일종의 시험이었던 모양이다. 이제 타데우스는 전 상인 길드마스터 젤라니를 죽여달라고 한다. 그녀는 보통 이끼 나무 여관에 있다.
+
+타데우스보다 젤라니가 더 마음에 들어서 그녀를 돕기로 했다."
 module,jrl,Categories/5/EntryList/6/Text,0,-1,"When Thaddeus paid me for killing Typhus, he tried to demand his gold back by blackmailing me. I relented and he told me to keep the gold. Apparently this was some kind of test. Now Thaddeus wanted me to kill the old merchants' guildmaster, Gelani.
 
-I refused to do any more dirty work for him. So much for his vote. Perhaps I should speak with Gelani.",
-module,jrl,Categories/5/Name,0,-1,Guilty as Charged,
-module,jrl,Categories/6/EntryList/0/Text,0,-1,"I have purchased Manybrick Manor, a house in North Cyan. Apparently the house is haunted and it will be up to me to clear out the restless spirits.",
-module,jrl,Categories/6/EntryList/1/Text,0,-1,"I have seen the ghost of Lady Rehan, who haunts Manybrick Manor in North Cyan. As she brushed past me, I heard her muttering the words ""Naref... Naref..."" though I have no idea what that might mean. Perhaps I should explore the Manor further or approach the temple about having it exorcised.",
+I refused to do any more dirty work for him. So much for his vote. Perhaps I should speak with Gelani.","타데우스가 타이푸스를 죽인 대가를 지불한 후, 협박하여 금을 돌려달라고 했다. 양보하자 금은 가지라고 했다. 일종의 시험이었던 모양이다. 타데우스는 전 상인 길드마스터 젤라니를 죽여달라고 했다.
+
+더 이상 그를 위한 더러운 일은 거부했다. 그의 표는 물 건너간 것 같다. 젤라니와 이야기해 봐야겠다."
+module,jrl,Categories/5/Name,0,-1,Guilty as Charged,유죄 확정
+module,jrl,Categories/6/EntryList/0/Text,0,-1,"I have purchased Manybrick Manor, a house in North Cyan. Apparently the house is haunted and it will be up to me to clear out the restless spirits.",북쪽 시안에 있는 벽돌 저택을 구입했다. 유령이 나온다고 하니 불안한 영혼들을 직접 처리해야 할 것이다.
+module,jrl,Categories/6/EntryList/1/Text,0,-1,"I have seen the ghost of Lady Rehan, who haunts Manybrick Manor in North Cyan. As she brushed past me, I heard her muttering the words ""Naref... Naref..."" though I have no idea what that might mean. Perhaps I should explore the Manor further or approach the temple about having it exorcised.","북쪽 시안의 벽돌 저택에 출몰하는 레한 부인의 유령을 보았다. 그녀가 스쳐 지나가며 ""나레프... 나레프...""라고 중얼거리는 것을 들었지만 무슨 뜻인지 모르겠다. 저택을 더 탐색하거나 성전에 퇴마를 요청해야 할 것 같다."
 module,jrl,Categories/6/EntryList/2/Text,0,-1,"I have seen the ghost of Lady Rehan, who haunts Manybrick Manor in North Cyan. As she brushed past me, I heard her muttering the words ""Naref... Naref..."" though I have no idea what that might mean.
 
-Shortly thereafter, I stumbled upon a secret passage that led into a crawl space beneath the manor. Perhaps there was something she wanted me to see down there, I don't know. ",
-module,jrl,Categories/6/EntryList/3/Text,0,-1,"I have purchased Manybrick Manor, a house in North Cyan. It was haunted by vengeful spirits, however, and I have requested the church's help in exorcising them. Lavos, the priestess of Mistress Death, has expended a charge from my Magic Weapon to aid her in this task and claims that the manor should be free of spirits by the time I return.",
-module,jrl,Categories/6/EntryList/4/Text,0,-1,"The ghost of Lady Rehan, the original owner of Manybrick Manor in North Cyan, has finally been put to rest now that her sister, Elyssia, has finally returned to Feran's loving arms. As an expression of her gratitude, Lady Rehan left a present for me with her former butler. It's a ghostly hand mirror that she claims will allow me to bring my friends and loved ones back to life.",
-module,jrl,Categories/6/Name,0,-1,Home Improvement,
+Shortly thereafter, I stumbled upon a secret passage that led into a crawl space beneath the manor. Perhaps there was something she wanted me to see down there, I don't know. ","북쪽 시안의 벽돌 저택에 출몰하는 레한 부인의 유령을 보았다. 그녀가 스쳐 지나가며 ""나레프... 나레프...""라고 중얼거리는 것을 들었지만 무슨 뜻인지 모르겠다.
+
+곧이어 저택 아래 기어갈 수 있는 비밀 통로를 발견했다. 아마도 그녀가 그곳에서 무언가를 보여주고 싶었던 건지 모르겠다."
+module,jrl,Categories/6/EntryList/3/Text,0,-1,"I have purchased Manybrick Manor, a house in North Cyan. It was haunted by vengeful spirits, however, and I have requested the church's help in exorcising them. Lavos, the priestess of Mistress Death, has expended a charge from my Magic Weapon to aid her in this task and claims that the manor should be free of spirits by the time I return.","북쪽 시안의 벽돌 저택을 구입했다. 원한에 찬 영혼이 출몰했고, 교회에 퇴마를 요청했다. 죽음의 여신의 여사제 라보스가 마법 무기의 충전을 하나 사용하여 이 작업을 돕겠다고 했으며, 내가 돌아올 때쯤이면 영혼이 사라져 있을 거라고 한다."
+module,jrl,Categories/6/EntryList/4/Text,0,-1,"The ghost of Lady Rehan, the original owner of Manybrick Manor in North Cyan, has finally been put to rest now that her sister, Elyssia, has finally returned to Feran's loving arms. As an expression of her gratitude, Lady Rehan left a present for me with her former butler. It's a ghostly hand mirror that she claims will allow me to bring my friends and loved ones back to life.",북쪽 시안 벽돌 저택의 원래 주인인 레한 부인의 유령이 마침내 안식을 얻었다. 그녀의 여동생 엘리시아가 마침내 페란의 사랑하는 품으로 돌아왔기 때문이다. 감사의 표시로 레한 부인은 전 집사에게 나를 위한 선물을 남겼다. 친구와 사랑하는 이들을 되살릴 수 있게 해준다는 유령의 손거울이다.
+module,jrl,Categories/6/Name,0,-1,Home Improvement,집 수리
 module,jrl,Categories/7/EntryList/0/Text,0,-1,"Dylan, the young soldier who opened the keep's gates to me, is now trying to quell panic and maintain order in the Prison Tower. They captured a lot of the Masked Man's men in the recent battle but they now appear to have broken free of their cells and are attempting an escape. The guards there have held the monsters back, but I have been asked to help clear them out and kill their apparent ringleader, a hobgoblin sighted in the lower dungeon.
 
-In light of the greater enemy that the keep now faces, Dylan has granted me permission to free any of the keep's original prisoners in exchange for their help in quelling the escape of the Masked Man's forces.",
+In light of the greater enemy that the keep now faces, Dylan has granted me permission to free any of the keep's original prisoners in exchange for their help in quelling the escape of the Masked Man's forces.","요새 문을 열어준 젊은 병사 딜런이 감옥탑에서 공황을 진압하고 질서를 유지하려 하고 있다. 최근 전투에서 가면의 남자의 부하들을 많이 잡았지만, 감방에서 탈출하여 도주를 시도하고 있다. 경비병들이 괴물을 막아냈지만, 나에게 소탕하고 하층 지하 감옥에서 목격된 호브고블린 주모자를 처치해 달라고 부탁했다.
+
+요새가 직면한 더 큰 적에 비추어, 딜런은 가면의 남자 세력의 탈출 진압을 돕는 조건으로 원래 수감자들을 풀어줄 권한을 나에게 주었다."
 module,jrl,Categories/7/EntryList/1/Text,0,-1,"Dylan, the young soldier who opened the keep's gates to me, is now trying to quell panic and maintain order in the Prison Tower. They captured a lot of the Masked Man's men in the recent battle but they now appear to have broken free of their cells and are attempting an escape. The guards there have held the monsters back, but I have been asked to help clear them out and kill their apparent ringleader, a hobgoblin sighted in the lower dungeon.
 
-I have killed the Goblin Taskmaster. Dylan should be notified that the task has been completed.",
+I have killed the Goblin Taskmaster. Dylan should be notified that the task has been completed.","요새 문을 열어준 젊은 병사 딜런이 감옥탑에서 공황을 진압하고 질서를 유지하려 하고 있다. 최근 전투에서 가면의 남자의 부하들을 많이 잡았지만, 감방에서 탈출하여 도주를 시도하고 있다. 경비병들이 괴물을 막아냈지만, 나에게 소탕하고 하층 지하 감옥에서 목격된 호브고블린 주모자를 처치해 달라고 부탁했다.
+
+고블린 감독관을 처치했다. 딜런에게 임무 완료를 알려야겠다."
 module,jrl,Categories/7/EntryList/2/Text,0,-1,"Dylan, the young soldier who opened the keep's gates to me, is now trying to quell panic and maintain order in the Prison Tower. They captured a lot of the Masked Man's men in the recent battle but they now appear to have broken free of their cells and are attempting an escape. The guards there have held the monsters back, but I have been asked to help clear them out and kill their apparent ringleader, a hobgoblin sighted in the lower dungeon.
 
-I have managed to restore order in the prison's depths. Dylan will have some stonemasons come down and reinforce the cells in case more of the Masked Man's forces are captured in future battles.",
-module,jrl,Categories/7/Name,0,-1,Invaders in the Keep,
-module,jrl,Categories/8/EntryList/0/Text,0,-1,"Kaidala has told me of the horrific burning of her once idyllic forest home and entrusted me with the last remaining acorn from her tree there. She has asked me to seek out a safe and quiet grove where the acorn can be planted and a new tree allowed to grow. Though I am sure that she could accomplish such a simple task without my aid, it appears to have taken on some sort of larger significance for her. I am beginning to suspect that the acorn is a symbol of her growing trust in me.",
+I have managed to restore order in the prison's depths. Dylan will have some stonemasons come down and reinforce the cells in case more of the Masked Man's forces are captured in future battles.","요새 문을 열어준 젊은 병사 딜런이 감옥탑에서 공황을 진압하고 질서를 유지하려 하고 있다. 최근 전투에서 가면의 남자의 부하들을 많이 잡았지만, 감방에서 탈출하여 도주를 시도하고 있다. 경비병들이 괴물을 막아냈지만, 나에게 소탕하고 하층 지하 감옥에서 목격된 호브고블린 주모자를 처치해 달라고 부탁했다.
+
+감옥 지하의 질서를 회복했다. 딜런이 석공을 보내 감방을 보강하여 앞으로 가면의 남자 세력이 더 잡힐 경우에 대비할 것이다."
+module,jrl,Categories/7/Name,0,-1,Invaders in the Keep,요새의 침입자들
+module,jrl,Categories/8/EntryList/0/Text,0,-1,"Kaidala has told me of the horrific burning of her once idyllic forest home and entrusted me with the last remaining acorn from her tree there. She has asked me to seek out a safe and quiet grove where the acorn can be planted and a new tree allowed to grow. Though I am sure that she could accomplish such a simple task without my aid, it appears to have taken on some sort of larger significance for her. I am beginning to suspect that the acorn is a symbol of her growing trust in me.","카이달라가 한때 목가적이었던 숲속 고향이 불타버린 끔찍한 이야기를 들려주었고, 그곳 나무의 마지막 남은 도토리를 나에게 맡겼다. 도토리를 심어 새 나무가 자랄 수 있는 안전하고 조용한 숲을 찾아달라고 부탁했다. 내 도움 없이도 이런 간단한 일을 해낼 수 있을 것 같지만, 이것이 그녀에게 더 큰 의미를 가진 것 같다. 도토리가 나에 대한 그녀의 신뢰가 커지고 있음을 상징하는 것 같다."
 module,jrl,Categories/8/EntryList/1/Text,0,-1,"Kaidala has told me of the horrific burning of her once idyllic forest home and entrusted me with the last remaining acorn from her tree there. She has asked me to seek out a safe and quiet grove where the acorn can be planted and a new tree allowed to grow. Though I am sure that she could accomplish such a simple task without my aid, it appears to have taken on some sort of larger significance for her. I am beginning to suspect that the acorn is a symbol of her growing trust in me.
 
-I have planted the acorn in a secluded grove southwest of Cyan and Kaidala has helped it grow into a strong and healthy sapling. The sight of the first budding leaves has filled her with a joy I haven't seen in her before and she seems more trusting of me now than ever.",
-module,jrl,Categories/8/Name,0,-1,Kaidala's Trust,
+I have planted the acorn in a secluded grove southwest of Cyan and Kaidala has helped it grow into a strong and healthy sapling. The sight of the first budding leaves has filled her with a joy I haven't seen in her before and she seems more trusting of me now than ever.","카이달라가 한때 목가적이었던 숲속 고향이 불타버린 끔찍한 이야기를 들려주었고, 그곳 나무의 마지막 남은 도토리를 나에게 맡겼다. 도토리를 심어 새 나무가 자랄 수 있는 안전하고 조용한 숲을 찾아달라고 부탁했다. 도토리가 나에 대한 그녀의 신뢰가 커지고 있음을 상징하는 것 같다.
+
+시안 남서쪽의 외딴 숲에 도토리를 심었고 카이달라가 튼튼하고 건강한 묘목으로 키워주었다. 첫 봉오리가 피어나는 모습에 그녀는 전에 보지 못한 기쁨으로 가득 찼고, 그 어느 때보다 나를 신뢰하는 것 같다."
+module,jrl,Categories/8/Name,0,-1,Kaidala's Trust,카이달라의 신뢰
 module,jrl,Categories/9/EntryList/0/Text,0,-1,"The Stan, guildmaster of the trades, has asked that I rescue some farmer's cows that were stolen by kobolds. It seems that the kobolds are responsible for gathering food for the remnants of the Masked Man's army, so stopping them is more important than just rescuing some cows.
 
-The kobolds have also stored some grain, so I might be able to use it to lead the cows out of the cave.",
+The kobolds have also stored some grain, so I might be able to use it to lead the cows out of the cave.","직업 길드마스터 더 스탠이 코볼트에게 도둑맞은 농부의 소를 구출해 달라고 부탁했다. 코볼트들이 가면의 남자 군대의 식량 조달을 맡고 있으니 그들을 막는 것이 단순히 소 구출 이상의 의미가 있다.
+
+코볼트들이 곡물도 저장해 두었으니 소를 동굴 밖으로 유인하는 데 사용할 수 있을 것이다."
 module,jrl,Categories/9/EntryList/1/Text,0,-1,"The Stan, guildmaster of the trades, has asked that I rescue some farmer's cows that were stolen by kobolds. It seems that the kobolds are responsible for gathering food for the remnants of the Masked Man's army, so stopping them is more important than just rescuing some cows.
 
-The kobolds have some kind of fixation for honey. If I bring them some, they will leave me alone. Otherwise, I will have to kill them all. Decisions, decisions.",
+The kobolds have some kind of fixation for honey. If I bring them some, they will leave me alone. Otherwise, I will have to kill them all. Decisions, decisions.","직업 길드마스터 더 스탠이 코볼트에게 도둑맞은 농부의 소를 구출해 달라고 부탁했다. 코볼트들이 가면의 남자 군대의 식량 조달을 맡고 있으니 그들을 막는 것이 단순히 소 구출 이상의 의미가 있다.
+
+코볼트들이 꿀에 대한 집착이 있다. 꿀을 가져다주면 나를 내버려 둘 것이다. 아니면 전부 죽여야 한다. 결정, 결정."
 module,jrl,Categories/9/EntryList/2/Text,0,-1,"The Stan, guildmaster of the trades, has asked that I rescue some farmer's cows that were stolen by kobolds. It seems that the kobolds are responsible for gathering food for the remnants of the Masked Man's army, so stopping them is more important than just rescuing some cows.
 
-The cows are rescued and all that remains is for me to go back to The Stan and get paid.",
+The cows are rescued and all that remains is for me to go back to The Stan and get paid.","직업 길드마스터 더 스탠이 코볼트에게 도둑맞은 농부의 소를 구출해 달라고 부탁했다. 코볼트들이 가면의 남자 군대의 식량 조달을 맡고 있으니 그들을 막는 것이 단순히 소 구출 이상의 의미가 있다.
+
+소를 구출했으니 더 스탠에게 돌아가서 보수를 받으면 된다."
 module,jrl,Categories/9/EntryList/3/Text,0,-1,"The Stan, guildmaster of the trades, has asked that I rescue some farmer's cows that were stolen by kobolds. It seems that the kobolds are responsible for gathering food for the remnants of the Masked Man's army, so stopping them is more important than just rescuing some cows.
 
-The cows are rescued and The Stan has paid me for my troubles.",
+The cows are rescued and The Stan has paid me for my troubles.","직업 길드마스터 더 스탠이 코볼트에게 도둑맞은 농부의 소를 구출해 달라고 부탁했다. 코볼트들이 가면의 남자 군대의 식량 조달을 맡고 있으니 그들을 막는 것이 단순히 소 구출 이상의 의미가 있다.
+
+소를 구출했고 더 스탠이 보수를 지불했다."
 module,jrl,Categories/9/EntryList/4/Text,0,-1,"The Stan, guildmaster of the trades, has asked that I rescue some farmer's cows that were stolen by kobolds. It seems that the kobolds are responsible for gathering food for the remnants of the Masked Man's army, so stopping them is more important than just rescuing some cows.
 
-I'v bungled the operation and the cows are all dead. The Stan will not be paying me.",
-module,jrl,Categories/9/Name,0,-1,"Kobolds and Chickens and Cows, Oh My!",
+I'v bungled the operation and the cows are all dead. The Stan will not be paying me.","직업 길드마스터 더 스탠이 코볼트에게 도둑맞은 농부의 소를 구출해 달라고 부탁했다. 코볼트들이 가면의 남자 군대의 식량 조달을 맡고 있으니 그들을 막는 것이 단순히 소 구출 이상의 의미가 있다.
+
+작전을 망쳐서 소가 전부 죽었다. 더 스탠이 보수를 주지 않을 것이다."
+module,jrl,Categories/9/Name,0,-1,"Kobolds and Chickens and Cows, Oh My!","코볼트와 닭과 소, 이런!"

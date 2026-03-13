@@ -1,27 +1,27 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 bastionoftheenem,git,Creature List/15/ItemList/2/LocalizedName,0,-1,Orc Key,
 bastionoftheenem,git,Creature List/27/ItemList/0/LocalizedName,0,-1,Duergar Key,
-bastionoftheenem,git,Creature List/34/FirstName,0,2924,Kobold,
-bastionoftheenem,git,Creature List/42/FirstName,0,2925,Kobold Thug,
+bastionoftheenem,git,Creature List/34/FirstName,0,2924,Kobold,코볼트
+bastionoftheenem,git,Creature List/42/FirstName,0,2925,Kobold Thug,코볼트 깡패
 bastionoftheenem,git,Creature List/42/ItemList/0/LocalizedName,0,-1,Kobold Key,
 bastionoftheenem,git,Creature List/44/ItemList/0/LocalizedName,0,-1,Drow Key,
-bastionoftheenem,git,Creature List/53/Description,0,64101,"The drow are an evil subrace of elves, living deep underground in the dangerous Underdark.",
+bastionoftheenem,git,Creature List/53/Description,0,64101,"The drow are an evil subrace of elves, living deep underground in the dangerous Underdark.",드로우는 위험한 언더다크 지하 깊은 곳에 사는 사악한 엘프 아종족입니다.
 bastionoftheenem,git,Creature List/6/FirstName,0,3100,Hobgoblin Chieftain,
 bastionoftheenem,git,Creature List/6/ItemList/0/LocalizedName,0,-1,Goblin Key,
-bastionoftheenem,git,Door List/0/LocName,0,5349,Door,
-bastionoftheenem,git,Encounter List/1/LocalizedName,0,14506,"Orc, Low Group",
-bastionoftheenem,git,Encounter List/2/LocalizedName,0,91343,Duergar Encounter,
-bastionoftheenem,git,Encounter List/3/LocalizedName,0,91348,Kobold Encounter,
-bastionoftheenem,git,Placeable List/0/Description,0,14703,The small pressure plate appears to activate some hidden mechanism below.,
+bastionoftheenem,git,Door List/0/LocName,0,5349,Door,문
+bastionoftheenem,git,Encounter List/1/LocalizedName,0,14506,"Orc, Low Group","오크, 하위 무리"
+bastionoftheenem,git,Encounter List/2/LocalizedName,0,91343,Duergar Encounter,듀에르가 인카운터
+bastionoftheenem,git,Encounter List/3/LocalizedName,0,91348,Kobold Encounter,코볼트 인카운터
+bastionoftheenem,git,Placeable List/0/Description,0,14703,The small pressure plate appears to activate some hidden mechanism below.,이 작은 누름판은 아래 숨겨진 기계장치를 작동시키는 것으로 보입니다.
 bastionoftheenem,git,Placeable List/0/LocName,0,14704,Mysterious Bracket,
 bastionoftheenem,git,Placeable List/1/LocName,0,14704,Mysterious Bracket,
 bastionoftheenem,git,Placeable List/10/LocName,0,83421,Large Rotating Mirror,
-bastionoftheenem,git,Placeable List/11/Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",
+bastionoftheenem,git,Placeable List/11/Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",이 거대한 돌 테두리 거울의 반짝이는 표면에 비친 자신의 모습을 바라봅니다.
 bastionoftheenem,git,Placeable List/11/LocName,0,83421,Large Rotating Mirror,
 bastionoftheenem,git,Placeable List/14/LocName,0,83421,Large Rotating Mirror,
 bastionoftheenem,git,Placeable List/15/LocName,0,83421,Large Rotating Mirror,
 bastionoftheenem,git,Placeable List/18/LocName,0,5800,Terminator Junction,
-bastionoftheenem,git,Placeable List/19/Description,0,14662,"You look about you, suspicious, but see nothing.",
+bastionoftheenem,git,Placeable List/19/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 bastionoftheenem,git,Placeable List/19/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/2/LocName,0,14704,Mysterious Bracket,
 bastionoftheenem,git,Placeable List/20/LocName,0,5800,Terminator Junction,
@@ -34,7 +34,7 @@ bastionoftheenem,git,Placeable List/26/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/27/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/28/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/29/LocName,0,5800,Terminator Junction,
-bastionoftheenem,git,Placeable List/3/Description,0,14703,The small pressure plate appears to activate some hidden mechanism below.,
+bastionoftheenem,git,Placeable List/3/Description,0,14703,The small pressure plate appears to activate some hidden mechanism below.,이 작은 누름판은 아래 숨겨진 기계장치를 작동시키는 것으로 보입니다.
 bastionoftheenem,git,Placeable List/3/LocName,0,14704,Mysterious Bracket,
 bastionoftheenem,git,Placeable List/30/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/31/LocName,0,5800,Terminator Junction,
@@ -42,7 +42,7 @@ bastionoftheenem,git,Placeable List/32/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/33/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/34/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/35/LocName,0,5800,Terminator Junction,
-bastionoftheenem,git,Placeable List/36/Description,0,14662,"You look about you, suspicious, but see nothing.",
+bastionoftheenem,git,Placeable List/36/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 bastionoftheenem,git,Placeable List/36/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/37/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/38/LocName,0,5800,Terminator Junction,
@@ -58,7 +58,7 @@ bastionoftheenem,git,Placeable List/46/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/47/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/48/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/49/LocName,0,5800,Terminator Junction,
-bastionoftheenem,git,Placeable List/5/Description,0,14703,The small pressure plate appears to activate some hidden mechanism below.,
+bastionoftheenem,git,Placeable List/5/Description,0,14703,The small pressure plate appears to activate some hidden mechanism below.,이 작은 누름판은 아래 숨겨진 기계장치를 작동시키는 것으로 보입니다.
 bastionoftheenem,git,Placeable List/5/LocName,0,14704,Mysterious Bracket,
 bastionoftheenem,git,Placeable List/50/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/51/LocName,0,5800,Terminator Junction,
@@ -73,13 +73,13 @@ bastionoftheenem,git,Placeable List/59/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/60/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/61/LocName,0,83421,Large Rotating Mirror,
 bastionoftheenem,git,Placeable List/62/LocName,0,14704,Mysterious Bracket,
-bastionoftheenem,git,Placeable List/63/Description,0,14662,"You look about you, suspicious, but see nothing.",
+bastionoftheenem,git,Placeable List/63/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 bastionoftheenem,git,Placeable List/63/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/64/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/65/LocName,0,5800,Terminator Junction,
-bastionoftheenem,git,Placeable List/66/Description,0,14662,"You look about you, suspicious, but see nothing.",
-bastionoftheenem,git,Placeable List/67/Description,0,14662,"You look about you, suspicious, but see nothing.",
-bastionoftheenem,git,Placeable List/7/Description,0,84588,"This is a large control panel, with what might be a viewing panel embedded in it. ",
+bastionoftheenem,git,Placeable List/66/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
+bastionoftheenem,git,Placeable List/67/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
+bastionoftheenem,git,Placeable List/7/Description,0,84588,"This is a large control panel, with what might be a viewing panel embedded in it. ",관찰 패널로 보이는 것이 내장된 큰 제어판입니다.
 bastionoftheenem,git,Placeable List/72/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/73/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/74/LocName,0,5800,Terminator Junction,
@@ -93,14 +93,14 @@ bastionoftheenem,git,Placeable List/80/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/81/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/82/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/83/LocName,0,5800,Terminator Junction,
-bastionoftheenem,git,Placeable List/84/Description,0,14662,"You look about you, suspicious, but see nothing.",
+bastionoftheenem,git,Placeable List/84/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 bastionoftheenem,git,Placeable List/84/LocName,0,5800,Terminator Junction,
-bastionoftheenem,git,Placeable List/85/Description,0,14662,"You look about you, suspicious, but see nothing.",
+bastionoftheenem,git,Placeable List/85/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 bastionoftheenem,git,Placeable List/85/LocName,0,5800,Terminator Junction,
-bastionoftheenem,git,Placeable List/86/Description,0,14662,"You look about you, suspicious, but see nothing.",
+bastionoftheenem,git,Placeable List/86/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 bastionoftheenem,git,Placeable List/86/LocName,0,5800,Terminator Junction,
 bastionoftheenem,git,Placeable List/88/LocName,0,5800,Masked Man,
-bastionoftheenem,git,Placeable List/89/Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",
+bastionoftheenem,git,Placeable List/89/Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",이 거대한 돌 테두리 거울의 반짝이는 표면에 비친 자신의 모습을 바라봅니다.
 bastionoftheenem,git,Placeable List/89/LocName,0,83421,Large Rotating Mirror,
 bastionoftheenem,git,Placeable List/9/LocName,0,84569,Glowing Mechanism,
 bastionoftheenem,git,Placeable List/90/LocName,0,5800,Terminator Junction,
@@ -121,7 +121,7 @@ ccaves,git,Creature List/4/FirstName,0,-1,Dying Woman,
 ccaves,git,Creature List/5/Equip_ItemList/0/LocalizedName,0,178,Duergar Hammer,
 ccaves,git,Creature List/5/ItemList/0/LocalizedName,0,-1,Psionic Gem,
 ccaves,git,Creature List/5/ItemList/1/LocalizedName,0,-1,Duergar Head,
-ccaves,git,Door List/3/LocName,0,5349,Door,
+ccaves,git,Door List/3/LocName,0,5349,Door,문
 ccaves,git,Door List/7/LocName,0,5349,Dungeon Exit,
 ccaves,git,Placeable List/0/Description,0,14595,"Red: North of Green
 Yellow: East of Red
@@ -137,9 +137,9 @@ ccaves,git,Placeable List/0/ItemList/4/LocalizedName,0,-1,Silver Key,
 ccaves,git,Placeable List/0/ItemList/5/LocalizedName,0,-1,Skull Key,
 ccaves,git,Placeable List/0/ItemList/6/LocalizedName,0,-1,Tooth Key,
 ccaves,git,Placeable List/0/LocName,0,5348,Key Box,
-ccaves,git,Placeable List/1/Description,0,84170,This statue depicts a humanoid creature in a worshipping pose. It must be made from some kind of stone not affected by the flames engulfing statues head and hands.,
-ccaves,git,Placeable List/29/Description,0,84170,This statue depicts a humanoid creature in a worshipping pose. It must be made from some kind of stone not affected by the flames engulfing statues head and hands.,
-ccaves,git,Placeable List/30/Description,0,84170,This statue depicts a humanoid creature in a worshipping pose. It must be made from some kind of stone not affected by the flames engulfing statues head and hands.,
+ccaves,git,Placeable List/1/Description,0,84170,This statue depicts a humanoid creature in a worshipping pose. It must be made from some kind of stone not affected by the flames engulfing statues head and hands.,이 조각상은 숭배하는 자세의 인간형 생명체를 묘사합니다. 머리와 손을 휘감는 불꽃에 영향받지 않는 돌로 만들어진 것 같습니다.
+ccaves,git,Placeable List/29/Description,0,84170,This statue depicts a humanoid creature in a worshipping pose. It must be made from some kind of stone not affected by the flames engulfing statues head and hands.,이 조각상은 숭배하는 자세의 인간형 생명체를 묘사합니다. 머리와 손을 휘감는 불꽃에 영향받지 않는 돌로 만들어진 것 같습니다.
+ccaves,git,Placeable List/30/Description,0,84170,This statue depicts a humanoid creature in a worshipping pose. It must be made from some kind of stone not affected by the flames engulfing statues head and hands.,이 조각상은 숭배하는 자세의 인간형 생명체를 묘사합니다. 머리와 손을 휘감는 불꽃에 영향받지 않는 돌로 만들어진 것 같습니다.
 ccaves,git,Placeable List/8/ItemList/1/DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
 ccaves,git,TriggerList/0/LocalizedName,0,-1,"OS One-Liner, Non-Random",
 ccaves,git,WaypointList/0/LocalizedName,0,14817,Shell Key Waypoint,
@@ -196,7 +196,9 @@ ecumenicaltemple,git,StoreList/0/StoreList/0/ItemList/36/DescIdentified,0,56657,
 ecumenicaltemple,git,StoreList/0/StoreList/3/ItemList/2/DescIdentified,0,56634,"Thebe the Forceful was a great leader in the worship halls of Pharos. In honor of her life, her death day is celebrated every year with the creation of these amulets of will power.",
 ecumenicaltemple,git,StoreList/0/StoreList/3/ItemList/3/DescIdentified,0,56634,"Thebe the Forceful was a great leader in the worship halls of Pharos. In honor of her life, her death day is celebrated every year with the creation of these amulets of will power.",
 ecumenicaltemple,git,StoreList/0/StoreList/4/ItemList/1/DescIdentified,0,48889,"This appears to be a piece of simple gold jewelry used to fasten a cloak or cape. In addition to this mundane task, the Brooch of Shielding can be activated with a touch to place an invisible field of force around the wearer, granting extra protection and immunity to magic missiles.
-",
+","망토나 케이프를 고정하는 단순한 금 장신구처럼 보입니다. 하지만 차폐의 브로치는 만지면 착용자 주위에 보이지 않는 역장을 펼쳐, 추가 보호와 마법 화살 면역을 부여합니다.
+
+마법사들이 즐겨 쓰는 방어 도구로, 보통 미스트라나 아주스의 상징이 새겨져 있습니다."
 ecumenicaltemple,git,TriggerList/0/LocalizedName,0,-1,"OS One-Liner, Non-Random",
 ecumenicaltemple,git,WaypointList/0/LocalizedName,0,14817,Dynschall Home Waypoint,
 ecumenicaltemple,git,WaypointList/1/LocalizedName,0,14817,Slave Waypoint,
@@ -206,7 +208,7 @@ emptybtlthree,git,Creature List/0/LastName,0,-1,Kinthalis,
 emptybtlthree,git,Creature List/1/Description,0,-1,These elven twins are the leaders of a merchant caravan.,
 emptybtlthree,git,Creature List/1/FirstName,0,-1,Alexis,
 emptybtlthree,git,Creature List/1/LastName,0,-1,Kinthalis,
-emptybtlthree,git,Creature List/16/FirstName,0,12457,Dog,
+emptybtlthree,git,Creature List/16/FirstName,0,12457,Dog,개
 emptybtlthree,git,Creature List/2/Description,0,-1,This is one of the caravan guards.,
 emptybtlthree,git,Creature List/2/FirstName,0,-1,Guard,
 emptybtlthree,git,Creature List/3/Description,0,-1,This is one of the caravan guards.,
@@ -217,28 +219,32 @@ emptybtlthree,git,Creature List/5/Description,0,-1,This is one of the caravan gu
 emptybtlthree,git,Creature List/5/FirstName,0,-1,Guard,
 emptybtlthree,git,Door List/0/LocName,0,5349,Cave Passage,
 emptybtlthree,git,Door List/3/LocName,0,5349,Iron Gate,
-emptybtlthree,git,Placeable List/0/LocName,0,5699,Brazier,
-emptybtlthree,git,Placeable List/1/LocName,0,5699,Brazier,
-emptybtlthree,git,Placeable List/2/LocName,0,5699,Brazier,
-emptybtlthree,git,Placeable List/3/LocName,0,5699,Brazier,
-emptybtlthree,git,Placeable List/4/LocName,0,5699,Brazier,
-emptybtlthree,git,Placeable List/5/LocName,0,5699,Brazier,
-emptybtlthree,git,Placeable List/6/LocName,0,5699,Brazier,
-emptybtlthree,git,Placeable List/7/LocName,0,5699,Brazier,
+emptybtlthree,git,Placeable List/0/LocName,0,5699,Brazier,화로
+emptybtlthree,git,Placeable List/1/LocName,0,5699,Brazier,화로
+emptybtlthree,git,Placeable List/2/LocName,0,5699,Brazier,화로
+emptybtlthree,git,Placeable List/3/LocName,0,5699,Brazier,화로
+emptybtlthree,git,Placeable List/4/LocName,0,5699,Brazier,화로
+emptybtlthree,git,Placeable List/5/LocName,0,5699,Brazier,화로
+emptybtlthree,git,Placeable List/6/LocName,0,5699,Brazier,화로
+emptybtlthree,git,Placeable List/7/LocName,0,5699,Brazier,화로
 emptybtlthree,git,StoreList/0/LocName,0,-1,Caravan,
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/29/DescIdentified,0,67729,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.",
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/30/DescIdentified,0,40655,This helm mounts two special crystal lenses over the wearer's eyes that grant a +5 bonus to Spot checks. ,
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/30/DescIdentified,0,40655,This helm mounts two special crystal lenses over the wearer's eyes that grant a +5 bonus to Spot checks. ,"이 투구는 착용자의 눈 위에 두 개의 특수 수정 렌즈를 달아 발견 판정에 +5 보너스를 줍니다.
+
+국경 수호에 철저한 달숲의 엘프들은 약탈하는 오크를 감시하고 숲을 지킬 때 활을 정확히 겨누기 위해 이 투구를 자주 씁니다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/31/DescIdentified,0,12867,"Forged by clerics of Suhili, the sun goddess, these shields are constantly aglow with the golden fires of the sun. Depending on the skill and intent of the crafter, some Shields of the Sun carry more potent powers as well.",
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/32/DescIdentified,0,48287,"This simple rope belt, when wrapped around a person's waist, confers increased ability in unarmed combat.  
 
-When the Shining Moon order of monks were attacked by a rival order, it was necessary for some of the apprentices to rise more rapidly than they normally could. These belts allowed the younger monks to defend their order with great speed and skill.",
+When the Shining Moon order of monks were attacked by a rival order, it was necessary for some of the apprentices to rise more rapidly than they normally could. These belts allowed the younger monks to defend their order with great speed and skill.","허리에 두르면 맨손 전투 능력이 향상되는 단순한 밧줄 허리띠입니다.
+
+네더 산맥의 '여인의 손' 수도원에서는 최근 모든 수도사에게 이것을 지급하고 있습니다. 소문에 따르면 수도원에는 강력한 네더릴 무기가 있다고 하지만, 최근 모루엠 청룡 일족과 충돌하면서 그보다 못한 장비에 의지할 수밖에 없게 되었습니다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/33/DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/34/DescIdentified,0,67472,Monks who are followers of Suhili know that nothing is a persistant or dangerous as the sun. These boots a rewarded to those who master different techniques within the Rising Sun Order.,
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/35/DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/36/DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/37/DescIdentified,0,67588,"Borderland guards have traditionally donned these cloaks while on duty. In recent years the borderlands have become more dangerous, and fewer soldiers are willing to enter the northern reaches of Valratha.",
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/38/DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.",
-emptybtlthree,git,StoreList/0/StoreList/0/ItemList/39/DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.",
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/38/DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.","성 솔라스의 제자들이라고도 불리는 노랑 장미 수도회는 동맹에 대한 큰 충성과 적에 대한 큰 파괴 행위로 똑같이 알려져 있습니다. 이 교단의 수도사들은 자주 일메이터의 성기사와 함께 여행하며, 고통받는 군주의 기사들에게 신뢰할 수 있는 안내자이자 동반자 역할을 합니다."
+emptybtlthree,git,StoreList/0/StoreList/0/ItemList/39/DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.","성 솔라스의 제자들이라고도 불리는 노랑 장미 수도회는 동맹에 대한 큰 충성과 적에 대한 큰 파괴 행위로 똑같이 알려져 있습니다. 이 교단의 수도사들은 자주 일메이터의 성기사와 함께 여행하며, 고통받는 군주의 기사들에게 신뢰할 수 있는 안내자이자 동반자 역할을 합니다."
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/40/DescIdentified,0,-1,"The dark earthy colors of the robe are enhanced with magical properties of protection.
 ",
 emptybtlthree,git,StoreList/0/StoreList/0/ItemList/40/LocalizedName,0,12918,Earth Mage Robe,
@@ -254,7 +260,7 @@ emptybtlthree,git,WaypointList/3/MapNote,0,14815,Keep of Cyan,
 faction1area,git,Creature List/0/FirstName,0,-1,q2_factguy,
 faction2,git,Creature List/0/FirstName,0,-1,q2_factguy2,
 fcaves,git,Creature List/0/ItemList/0/LocalizedName,0,-1,Purple Glass,
-fcaves,git,Creature List/1/FirstName,0,56579,Zombie Lord,
+fcaves,git,Creature List/1/FirstName,0,56579,Zombie Lord,좀비 군주
 fcaves,git,Creature List/1/ItemList/0/LocalizedName,0,-1,Blue Glass,
 fcaves,git,Creature List/10/FirstName,0,12567,Goblin Corpse,
 fcaves,git,Creature List/11/FirstName,0,12567,Goblin Corpse,
@@ -266,7 +272,7 @@ fcaves,git,Creature List/16/FirstName,0,12567,Goblin Corpse,
 fcaves,git,Creature List/17/FirstName,0,12567,Goblin Corpse,
 fcaves,git,Creature List/18/FirstName,0,12567,Goblin Corpse,
 fcaves,git,Creature List/19/FirstName,0,12567,Goblin Corpse,
-fcaves,git,Creature List/2/FirstName,0,56570,Mummy Lord,
+fcaves,git,Creature List/2/FirstName,0,56570,Mummy Lord,미라 군주
 fcaves,git,Creature List/2/ItemList/0/LocalizedName,0,-1,Psionic Gem,
 fcaves,git,Creature List/20/FirstName,0,12567,Goblin Corpse,
 fcaves,git,Creature List/21/FirstName,0,12567,Goblin Corpse,
@@ -290,12 +296,14 @@ fcaves,git,Encounter List/2/LocalizedName,0,14513,Ghoul Group,
 fcaves,git,Encounter List/3/LocalizedName,0,14513,Allip Group,
 fcaves,git,Placeable List/0/LocName,0,5745,North Urn,
 fcaves,git,Placeable List/1/LocName,0,5745,North East Urn,
-fcaves,git,Placeable List/10/Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",
+fcaves,git,Placeable List/10/Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",철로 감싸졌고 자물쇠가 채워진 이 무거운 궤짝은 분명히 가치 있는 무언가를 보호하기 위한 것입니다.
 fcaves,git,Placeable List/10/ItemList/0/LocalizedName,0,-1,Orange Glass,
 fcaves,git,Placeable List/10/ItemList/1/DescIdentified,0,47613,"The lesser robe of eyes, like its more powerful counterpart, provides the wearer with improved vision and the ability to detect many things that are hidden. Once per day, the wearer can invoke the power of the robe to pierce the veil of invisibility or etherealness.
-",
+","하급 눈의 로브는 더 강력한 상위 물건처럼 착용자에게 향상된 시야와 숨겨진 많은 것들을 감지하는 능력을 제공합니다. 하루에 한 번, 착용자는 로브의 힘을 발동해 투명화나 에테르 상태의 장막을 꿰뚫을 수 있습니다.
+
+완전히 갑옷을 입지 않았을 때, 헬름의 더 강력한 성직자들은 무장을 유지할 수 없을 때도 경계를 유지할 수 있도록 이런 로브를 자주 입습니다."
 fcaves,git,Placeable List/11/LocName,0,5348,Jewel Box,
-fcaves,git,Placeable List/12/Description,0,14730,It's hard to tell if the spears killed him or if his enemies pierced the corpse as a means of defilement.,
+fcaves,git,Placeable List/12/Description,0,14730,It's hard to tell if the spears killed him or if his enemies pierced the corpse as a means of defilement.,"창을 찔러 그를 죽였는지, 아니면 모욕의 의미로 죽은 시체를 창으로 꿰뚫었는지 정확하게 알수 없습니다."
 fcaves,git,Placeable List/12/ItemList/0/DescIdentified,0,-1,"This is the journal of the last lord of the keep's advisor. It seems to be largely intact and mostly boring until near the end. These are a few interesting excerpts:
 ""My Lord has become more and more obsessed with the idea of controlling an undead army. He has the key I found that will open the planar gate, yet I fear that we are missing something... something very important. I have found some oblique references to another key, but I know not what the other key would do, nor where it lies. I shall have to return to the ruins and see if I can finally discover a way to activate the crystal ball. I am sure the answers must be hidden within it.""
 The last entry:
@@ -313,14 +321,14 @@ fcaves,git,Placeable List/3/LocName,0,5745,South Urn,
 fcaves,git,Placeable List/4/LocName,0,5745,South East Urn,
 fcaves,git,Placeable List/46/ItemList/0/DescIdentified,0,48321,"Cold to the touch, these bracers seem to gleam with an unnatural light. Pressing one of the gems on the bracer seems to enable a type of dark aura around the wearer. ",
 fcaves,git,Placeable List/46/ItemList/0/LocalizedName,0,48320,Bracers of the Dead,
-fcaves,git,Placeable List/47/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",
+fcaves,git,Placeable List/47/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",낮고 평평한 이 궤짝은 상인의 거래 장부를 보관하기 위해 설계된 것 같습니다.
 fcaves,git,Placeable List/5/LocName,0,5745,South West Urn,
 fcaves,git,Placeable List/6/Description,0,84582,The orb on this pedestal is cracked and useless. You have no idea what might have broken the orb.,
 fcaves,git,Placeable List/6/LocName,0,84567,Orb Pedestal,
 fcaves,git,Placeable List/7/ItemList/0/LocalizedName,0,-1,Yellow Glass,
-fcaves,git,Placeable List/8/Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",
+fcaves,git,Placeable List/8/Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",철로 감싸졌고 자물쇠가 채워진 이 무거운 궤짝은 분명히 가치 있는 무언가를 보호하기 위한 것입니다.
 fcaves,git,Placeable List/8/ItemList/0/LocalizedName,0,-1,Red Glass,
-fcaves,git,Placeable List/9/Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",
+fcaves,git,Placeable List/9/Description,0,14594,"Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value.",철로 감싸졌고 자물쇠가 채워진 이 무거운 궤짝은 분명히 가치 있는 무언가를 보호하기 위한 것입니다.
 fcaves,git,Placeable List/9/ItemList/0/LocalizedName,0,-1,Green Glass,
 fcaves,git,Placeable List/9/ItemList/1/DescIdentified,0,-1,"This is a very heavy helmet, made from a dense, durable metal. A small inscription on the inside of the helm says, ""Made in Stettler"". You've never heard of such a place, but it is most likely some lost civilization.",
 fcaves,git,SoundList/2/LocName,0,-1,Chain Rattles,
@@ -362,13 +370,13 @@ gcaves,git,Creature List/1/FirstName,0,-1,Enslaved Farmhand,
 gcaves,git,Creature List/10/FirstName,0,12567,Goblin Archer,
 gcaves,git,Creature List/11/FirstName,0,12567,Goblin Bomber,
 gcaves,git,Creature List/12/FirstName,0,12567,Goblin Bomber,
-gcaves,git,Creature List/13/FirstName,0,12567,Goblin,
-gcaves,git,Creature List/14/FirstName,0,12567,Goblin,
-gcaves,git,Creature List/15/FirstName,0,12567,Goblin,
-gcaves,git,Creature List/16/FirstName,0,12567,Goblin,
-gcaves,git,Creature List/17/FirstName,0,12567,Goblin,
-gcaves,git,Creature List/18/FirstName,0,12567,Goblin,
-gcaves,git,Creature List/19/FirstName,0,12567,Goblin,
+gcaves,git,Creature List/13/FirstName,0,12567,Goblin,고블린
+gcaves,git,Creature List/14/FirstName,0,12567,Goblin,고블린
+gcaves,git,Creature List/15/FirstName,0,12567,Goblin,고블린
+gcaves,git,Creature List/16/FirstName,0,12567,Goblin,고블린
+gcaves,git,Creature List/17/FirstName,0,12567,Goblin,고블린
+gcaves,git,Creature List/18/FirstName,0,12567,Goblin,고블린
+gcaves,git,Creature List/19/FirstName,0,12567,Goblin,고블린
 gcaves,git,Creature List/2/Description,0,-1,These are slaves taken from local farms. They look ragged and beaten.,
 gcaves,git,Creature List/2/FirstName,0,-1,Enslaved Farmhand,
 gcaves,git,Creature List/20/ItemList/0/LocalizedName,0,-1,Goblin Key,
@@ -385,7 +393,7 @@ gcaves,git,Creature List/4/FirstName,0,-1,Enslaved Farmhand,
 gcaves,git,Creature List/7/FirstName,0,-1,Goblin Water Wizard,
 gcaves,git,Creature List/7/ItemList/9/DescIdentified,0,-1,"This looks to have been some kind of magical urn, possibly used in summoning a water elemental. This would explain how such a weak creature could have a water elemental in its control.",
 gcaves,git,Creature List/7/ItemList/9/LocalizedName,0,-1,Broken Urn,
-gcaves,git,Creature List/9/Description,0,12565,"While Goblins are often considered little more than a nuisance, an unchecked population can often balloon into a serious threat to normally civilized areas.",
+gcaves,git,Creature List/9/Description,0,12565,"While Goblins are often considered little more than a nuisance, an unchecked population can often balloon into a serious threat to normally civilized areas.","고블린은 보통 성가신 존재에 불과하지만, 인구를 억제하지 않으면 종종 부풀어 올라 문명화된 지역에 심각한 위협이 될 수 있습니다."
 gcaves,git,Creature List/9/FirstName,0,12567,Goblin Bomber,
 gcaves,git,Door List/0/LocName,0,5349,Cave Exit,
 gcaves,git,Door List/6/Description,0,-1,Locked Bridge Door,
@@ -393,7 +401,7 @@ gcaves,git,Door List/8/LocName,0,5349,Cage Door,
 gcaves,git,Encounter List/1/LocalizedName,0,14513,Goblin Elite,
 gcaves,git,Placeable List/0/LocName,0,5738,Loose Stones,
 gcaves,git,Placeable List/1/LocName,0,-1,Box,
-gcaves,git,Placeable List/13/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",
+gcaves,git,Placeable List/13/Description,0,14597,"Low and flat, this chest seems to have been designed for the storage and filing of a merchant's accounts.",낮고 평평한 이 궤짝은 상인의 거래 장부를 보관하기 위해 설계된 것 같습니다.
 gcaves,git,Placeable List/13/ItemList/0/DescIdentified,0,-1,"This is a note, written by a crude, goblin hand.
 ""This be all the gold that be left from getting ogres to join army. If the Master wants us to hire more things, like a barbarian tribe or a dragon, we gonna need more gold! This might buy more goblins, but Master not seem real impressed with us so far.
 Um... and ogres smashed Bedzil to jelly, so now me gonna need new partner.""",
@@ -401,7 +409,7 @@ gcaves,git,Placeable List/13/ItemList/0/Description,0,-1,"This is a note, writte
 ""This be all the gold that be left from getting ogres to join army. If the Master wants us to hire more things, like a barbarian tribe or a dragon, we gonna need more gold! This might buy more goblins, but Master not seem real impressed with us so far.
 Um... and ogres smashed Bedzil to jelly, so now me gonna need new partner.""",
 gcaves,git,Placeable List/13/ItemList/0/LocalizedName,0,-1,Goblin Note,
-gcaves,git,Placeable List/14/Description,0,66885,"A large, solid piece of granite juts out from the ground.",
+gcaves,git,Placeable List/14/Description,0,66885,"A large, solid piece of granite juts out from the ground.",커다랗고 단단한 화강암 조각이 땅에서 솟아 있습니다.
 gcaves,git,Placeable List/2/LocName,0,-1,Chief's Chest - Stay Out!,
 gcaves,git,SoundList/2/LocName,0,-1,Cave Drips,
 gcaves,git,SoundList/7/LocName,0,-1,Cave Bats,
@@ -418,7 +426,7 @@ granaryroom,git,Creature List/0/FirstName,0,-1,Zebulun,
 granaryroom,git,WaypointList/0/LocalizedName,0,14817,Secret Grate Waypoint,
 graveyard001,git,Door List/0/LocName,0,5349,River Exit,
 graveyard001,git,Encounter List/0/LocalizedName,0,14513,Bear Group,
-graveyard001,git,Placeable List/0/Description,0,66749,"The bright, healthy green leaves and stems of this fern shift slighty in the breeze.",
+graveyard001,git,Placeable List/0/Description,0,66749,"The bright, healthy green leaves and stems of this fern shift slighty in the breeze.",이 양치류의 밝고 건강한 녹색 잎과 줄기가 바람에 살짝 흔들립니다.
 graveyard001,git,Placeable List/0/ItemList/0/DescIdentified,0,58566,These are the berries made by the danberry bush.,
 graveyard001,git,Placeable List/0/ItemList/0/LocalizedName,0,13494,Danberry,
 graveyard001,git,Placeable List/0/LocName,0,52999,Danberry Shrub,
@@ -444,7 +452,7 @@ graveyard001,git,WaypointList/0/LocalizedName,0,14814,Cori's Waypoint,
 graveyard001,git,WaypointList/1/LocalizedName,0,14814,Dan's Waypoint,
 graveyard001,git,WaypointList/2/LocalizedName,0,14817,Mapnote: Exit Waypoint,
 graveyard001,git,WaypointList/2/MapNote,0,-1,Exit,
-hcaves,git,Creature List/0/FirstName,0,2865,Manticore,
+hcaves,git,Creature List/0/FirstName,0,2865,Manticore,만티코어
 hcaves,git,Creature List/0/ItemList/0/DescIdentified,0,-1,This is the hide of a manticore you killed.,
 hcaves,git,Creature List/0/ItemList/0/Description,0,-1,This is the hide of a manticore you killed.,
 hcaves,git,Creature List/0/ItemList/0/LocalizedName,0,-1,Manticore Hide,
@@ -452,8 +460,8 @@ hcaves,git,Creature List/1/FirstName,0,12566,Goblin,
 hcaves,git,Creature List/1/ItemList/0/LocalizedName,0,-1,Poison Crystal,
 hcaves,git,Creature List/1/ItemList/1/LocalizedName,0,-1,Psionic Gem,
 hcaves,git,Door List/0/LocName,0,5349,Exit,
-hcaves,git,Door List/1/LocName,0,5349,Door,
-hcaves,git,Door List/2/LocName,0,5349,Door,
+hcaves,git,Door List/1/LocName,0,5349,Door,문
+hcaves,git,Door List/2/LocName,0,5349,Door,문
 hcaves,git,Encounter List/0/LocalizedName,0,91343,Magical Encounter,
 hcaves,git,Encounter List/1/LocalizedName,0,91343,Magical Encounter,
 hcaves,git,Encounter List/2/LocalizedName,0,14520,Spider Group,
@@ -470,7 +478,7 @@ hcaves,git,Placeable List/15/ItemList/1/LocalizedName,0,48316,Lesser Tumblers,
 hcaves,git,Placeable List/2/ItemList/0/LocalizedName,0,-1,Poison Crystal,
 hcaves,git,Placeable List/20/ItemList/0/DescIdentified,0,-1,"Samile the Nervous was a golddigger known for surviving the betrayal of at least five partners. He always seemed to be aware of what was going on, seconds before anyone else did. Being successful at finding gold made him wealthy, but he was never happy. Always disgusted with humanity, Samile would complain bitterly to anyone who would listen. Some would comment that it was more likely this barrage of complaints that drove his partners to try to kill him, more than greed.",
 hcaves,git,Placeable List/20/ItemList/0/LocalizedName,0,13485,Golddigger's Ring,
-hcaves,git,Placeable List/22/Description,0,68841,These random pieces of bone have been lashed together by the Manticore.,
+hcaves,git,Placeable List/22/Description,0,68841,These random pieces of bone have been lashed together by the Manticore.,"뼈 조각들이 묶여 있는데, 주문이나 의식에 쓰이는 듯합니다."
 hcaves,git,Placeable List/22/LocName,0,68840,Giant Bones,
 hcaves,git,Placeable List/3/ItemList/0/LocalizedName,0,-1,Poison Crystal,
 hcaves,git,Placeable List/4/LocName,0,5800,Invisible Jump Object,
@@ -511,14 +519,14 @@ hillside,git,Door List/6/LocName,0,5349,Gate,
 hillside,git,Door List/8/LocName,0,5349,Gate,
 hillside,git,Door List/9/LocName,0,5349,Cave Entrance,
 hillside,git,Encounter List/0/LocalizedName,0,14513,Wolf Group,
-hillside,git,Encounter List/1/LocalizedName,0,14525,Zombie Group,
+hillside,git,Encounter List/1/LocalizedName,0,14525,Zombie Group,좀비 무리
 hillside,git,Encounter List/10/LocalizedName,0,-1,Kobold Encounter,
-hillside,git,Encounter List/11/LocalizedName,0,14487,Goblin Group,
-hillside,git,Encounter List/12/LocalizedName,0,14487,Goblin Group,
-hillside,git,Encounter List/13/LocalizedName,0,14487,Goblin Group,
-hillside,git,Encounter List/2/LocalizedName,0,14525,Zombie Group,
-hillside,git,Encounter List/4/LocalizedName,0,91343,Duergar Encounter,
-hillside,git,Encounter List/5/LocalizedName,0,91343,Duergar Encounter,
+hillside,git,Encounter List/11/LocalizedName,0,14487,Goblin Group,고블린 무리
+hillside,git,Encounter List/12/LocalizedName,0,14487,Goblin Group,고블린 무리
+hillside,git,Encounter List/13/LocalizedName,0,14487,Goblin Group,고블린 무리
+hillside,git,Encounter List/2/LocalizedName,0,14525,Zombie Group,좀비 무리
+hillside,git,Encounter List/4/LocalizedName,0,91343,Duergar Encounter,듀에르가 인카운터
+hillside,git,Encounter List/5/LocalizedName,0,91343,Duergar Encounter,듀에르가 인카운터
 hillside,git,Encounter List/6/LocalizedName,0,91343,Magical Encounter,
 hillside,git,Encounter List/7/LocalizedName,0,91343,Magical Encounter,
 hillside,git,Encounter List/8/LocalizedName,0,-1,Kobold Encounter,
@@ -579,7 +587,7 @@ prisondungeon,git,WaypointList/1/LocalizedName,0,14817,Prison Dungeon Exit,
 prisondungeon,git,WaypointList/1/MapNote,0,-1,Dungeon Exit,
 prisondungeon,git,WaypointList/2/LocalizedName,0,14817,Prisoner Fight Waypoint,
 q1e,git,Door List/0/LocName,0,5349,Cave Exit,
-q1e,git,Placeable List/13/Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",
+q1e,git,Placeable List/13/Description,0,68824,"A large patch of dirt, unsuitable for almost anything but getting dirty or making mud.",더러워지거나 진흙을 만드는 것 외에는 거의 쓸모없는 큰 흙더미입니다.
 q1e,git,TriggerList/0/LocalizedName,0,-1,"OS One-Liner, Non-Random",
 q1e,git,TriggerList/1/LocalizedName,0,14759,Henchmen Grove,
 q1e,git,WaypointList/0/LocalizedName,0,14814,Kaidala Home,
@@ -682,11 +690,15 @@ q2b11,git,Creature List/3/FirstName,0,12423,Commoner,
 q2b11,git,Creature List/4/Description,0,-1,The rogues living in the keep are unusually arrogant.,
 q2b11,git,Door List/0/LocName,0,5349,Pawnshop Exit,
 q2b11,git,StoreList/0/LocName,0,-1,Thief Store,
-q2b11,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,40659,"This metallurgist's helm bears the distinctive look of gnomish make.  It has been specially constructed to allow an intricate series of lenses to swivel over the wearer's eyes. They enable much improved close-range vision and are very useful for locating or identifying features such as tiny seams, marks, cracks, or imperfections.  ",
+q2b11,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,40659,"This metallurgist's helm bears the distinctive look of gnomish make.  It has been specially constructed to allow an intricate series of lenses to swivel over the wearer's eyes. They enable much improved close-range vision and are very useful for locating or identifying features such as tiny seams, marks, cracks, or imperfections.  ","란탄 특유의 양식이 돋보이는 금속공의 투구입니다. 정교한 렌즈 여러 개가 눈 위로 돌아가도록 특수 제작되어 있어 근거리 시야가 크게 좋아지고, 작은 이음새나 자국, 균열, 결함 등을 찾아내는 데 아주 유용합니다.
+
+란탄의 고고학자들이 실험 장치를 다룰 때 조사용으로도, 보호구로도 쓸 수 있어 귀하게 여깁니다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,40661,"This helm mounts two lenses of dark crystal over the wearer's eyes. Even though the lenses are opaque, when placed over the eyes of the wearer they enable normal sight and also grant darkvision.
 
-Common equipment for adventurers who like to explore deep caves and underground ruins, these helms are also hailed as ""the great equalizer"" by humans and are quite popular among human rogues.",
-q2b11,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,67773,"Attempting to form an anti-thieves' guild, Ronger Delphos, a successful merchant, paid thieves to become security experts. The guards were trained to use wands with the Hold Person spell, to capture the thieves for interrogation. To counteract this security measure, magical belts were purchased by the thieves' guild, which nullified the effects of such spells. In the escalating war between the two guilds, many of these belts found their way into pawnshops and equipment stores.",
+Common equipment for adventurers who like to explore deep caves and underground ruins, these helms are also hailed as ""the great equalizer"" by humans and are quite popular among human rogues.","눈 위에 짙은 수정 렌즈 두 개가 달린 투구입니다. 렌즈가 불투명하지만 쓰면 정상 시야는 물론 암시까지 얻게 됩니다.
+
+언더다크 모험가들 사이에서 흔한 장비로, 인간들은 ""위대한 평형추""라 부르며 특히 인간 도적들에게 인기가 높습니다."
+q2b11,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,67773,"Attempting to form an anti-thieves' guild, Ronger Delphos, a successful merchant, paid thieves to become security experts. The guards were trained to use wands with the Hold Person spell, to capture the thieves for interrogation. To counteract this security measure, magical belts were purchased by the thieves' guild, which nullified the effects of such spells. In the escalating war between the two guilds, many of these belts found their way into pawnshops and equipment stores.","도둑 방지 조합을 설립하려던, 성공한 상인 롱거 델포스는 도둑들에게 돈을 내고 보안 전문가가 되어 워터딥의 상인들을 보호했습니다. 경비병들은 사람 포박 주문이 담긴 마법봉을 사용하여 도둑들을 잡아 심문하도록 훈련받았습니다. 이 보안 조치에 대항하기 위해, 도둑 조합은 마법 허리띠를 구입했는데, 이는 그런 주문의 효과를 무효화했습니다. 두 조합 간의 전쟁이 격화되면서, 이 허리띠들 중 많은 수가 전당포와 장비점으로 흘러 들어갔습니다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,56609,"The dancing thief was a legendary character who would set up a series of spectacular traps, then dance his way through them, creating a spectacle of explosions and effects to entertain and amuse audiences. While the onlookers were distracted, his followers, young pickpockets, would move through the crowd, taking what they could, then slipping away.",
 q2b11,git,StoreList/0/StoreList/0/ItemList/13/LocalizedName,0,56610,Dancing Boots +1,
 q2b11,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,56609,"The dancing thief was a legendary character who would set up a series of spectacular traps, then dance his way through them, creating a spectacle of explosions and effects to entertain and amuse audiences. While the onlookers were distracted, his followers, young pickpockets, would move through the crowd, taking what they could, then slipping away.",
@@ -695,17 +707,23 @@ q2b11,git,StoreList/0/StoreList/0/ItemList/15/DescIdentified,0,48317,"The Tumble
 q2b11,git,StoreList/0/StoreList/0/ItemList/15/LocalizedName,0,48318,The Tumblers,
 q2b11,git,StoreList/0/StoreList/0/ItemList/16/DescIdentified,0,48317,"The Tumblers were a group of assassins who worked together to topple rich, powerful nobles and merchants. Emperor Fenias IV used them to regain control over the various provinces of Valratha, whose nobles had become almost entirely independent of the crown.",
 q2b11,git,StoreList/0/StoreList/0/ItemList/16/LocalizedName,0,48316,Lesser Tumblers,
-q2b11,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.",
+q2b11,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.","성 솔라스의 제자들이라고도 불리는 노랑 장미 수도회는 동맹에 대한 큰 충성과 적에 대한 큰 파괴 행위로 똑같이 알려져 있습니다. 이 교단의 수도사들은 자주 일메이터의 성기사와 함께 여행하며, 고통받는 군주의 기사들에게 신뢰할 수 있는 안내자이자 동반자 역할을 합니다."
 q2b11,git,StoreList/0/StoreList/0/ItemList/18/DescIdentified,0,13369,"The elderly priestess, Milladolin, found that age was affecting her and her fellows quite rapidly, causing their hands to shake and preventing them from performing many of their priestly duties. With Rictos's blessings, Milladolin created magical gloves that steadied their hands and heightened their muscle control. Years later, a young Rictosian was caught for thievery - guilty of using the gloves. Word spread, and soon the gloves themselves were stolen away.",
 q2b11,git,StoreList/0/StoreList/1/ItemList/38/DescIdentified,0,13925,"Desperately seeking to escape the attention of the emporer's assassins, the wizard, Worlit Thent fled to the fey hidden lands, Kahnahda. Peace and beauty are exalted above all else in these lands, so the emporer's assassins were unable to enter. When Worlit decided it was time to leave, the fey gave him an unprecidented gift. The feyduster was a weapon of beauty, but still a weapon. The fairy who gave it to Worlit told him it was from an age when the fey lived more in the world and made war on the big folk.",
-q2b11,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.",
-q2b11,git,StoreList/0/StoreList/3/ItemList/6/DescIdentified,0,48923,"This ring is actually a magic leather cord that ties around a finger.  It is tanned to be vaguely flesh-toned and is so subtle that it often goes unnoticed when worn.  Similarly, it allows the wearer to blend easily into the background to escape detection..",
+q2b11,git,StoreList/0/StoreList/2/ItemList/3/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.","이 물약은 모험가와 학자들 모두가 원하고 있으며, 페이룬의 던전에서 많이 쓰이는걸 볼 수 있습니다."
+q2b11,git,StoreList/0/StoreList/3/ItemList/6/DescIdentified,0,48923,"This ring is actually a magic leather cord that ties around a finger.  It is tanned to be vaguely flesh-toned and is so subtle that it often goes unnoticed when worn.  Similarly, it allows the wearer to blend easily into the background to escape detection..","사실 손가락에 묶는 마법 가죽끈입니다. 희미한 살색으로 무두질되어 착용해도 눈에 잘 띄지 않습니다. 착용자도 배경에 쉽게 섞여 탐지를 피할 수 있습니다.
+
+도둑이나 눈에 띄고 싶지 않은 자들이 흔히 쓰는 물건이지만, 웨스트게이트 도시 경비대에 따르면 야간 가면단의 표준 장비로 빠르게 자리 잡고 있다고 합니다."
 q2b11,git,StoreList/1/LocName,0,-1,Thief Store,
-q2b11,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,40659,"This metallurgist's helm bears the distinctive look of gnomish make.  It has been specially constructed to allow an intricate series of lenses to swivel over the wearer's eyes. They enable much improved close-range vision and are very useful for locating or identifying features such as tiny seams, marks, cracks, or imperfections.  ",
+q2b11,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,40659,"This metallurgist's helm bears the distinctive look of gnomish make.  It has been specially constructed to allow an intricate series of lenses to swivel over the wearer's eyes. They enable much improved close-range vision and are very useful for locating or identifying features such as tiny seams, marks, cracks, or imperfections.  ","란탄 특유의 양식이 돋보이는 금속공의 투구입니다. 정교한 렌즈 여러 개가 눈 위로 돌아가도록 특수 제작되어 있어 근거리 시야가 크게 좋아지고, 작은 이음새나 자국, 균열, 결함 등을 찾아내는 데 아주 유용합니다.
+
+란탄의 고고학자들이 실험 장치를 다룰 때 조사용으로도, 보호구로도 쓸 수 있어 귀하게 여깁니다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,40661,"This helm mounts two lenses of dark crystal over the wearer's eyes. Even though the lenses are opaque, when placed over the eyes of the wearer they enable normal sight and also grant darkvision.
 
-Common equipment for adventurers who like to explore deep caves and underground ruins, these helms are also hailed as ""the great equalizer"" by humans and are quite popular among human rogues.",
-q2b11,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,67773,"Attempting to form an anti-thieves' guild, Ronger Delphos, a successful merchant, paid thieves to become security experts. The guards were trained to use wands with the Hold Person spell, to capture the thieves for interrogation. To counteract this security measure, magical belts were purchased by the thieves' guild, which nullified the effects of such spells. In the escalating war between the two guilds, many of these belts found their way into pawnshops and equipment stores.",
+Common equipment for adventurers who like to explore deep caves and underground ruins, these helms are also hailed as ""the great equalizer"" by humans and are quite popular among human rogues.","눈 위에 짙은 수정 렌즈 두 개가 달린 투구입니다. 렌즈가 불투명하지만 쓰면 정상 시야는 물론 암시까지 얻게 됩니다.
+
+언더다크 모험가들 사이에서 흔한 장비로, 인간들은 ""위대한 평형추""라 부르며 특히 인간 도적들에게 인기가 높습니다."
+q2b11,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,67773,"Attempting to form an anti-thieves' guild, Ronger Delphos, a successful merchant, paid thieves to become security experts. The guards were trained to use wands with the Hold Person spell, to capture the thieves for interrogation. To counteract this security measure, magical belts were purchased by the thieves' guild, which nullified the effects of such spells. In the escalating war between the two guilds, many of these belts found their way into pawnshops and equipment stores.","도둑 방지 조합을 설립하려던, 성공한 상인 롱거 델포스는 도둑들에게 돈을 내고 보안 전문가가 되어 워터딥의 상인들을 보호했습니다. 경비병들은 사람 포박 주문이 담긴 마법봉을 사용하여 도둑들을 잡아 심문하도록 훈련받았습니다. 이 보안 조치에 대항하기 위해, 도둑 조합은 마법 허리띠를 구입했는데, 이는 그런 주문의 효과를 무효화했습니다. 두 조합 간의 전쟁이 격화되면서, 이 허리띠들 중 많은 수가 전당포와 장비점으로 흘러 들어갔습니다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/13/DescIdentified,0,56609,"The dancing thief was a legendary character who would set up a series of spectacular traps, then dance his way through them, creating a spectacle of explosions and effects to entertain and amuse audiences. While the onlookers were distracted, his followers, young pickpockets, would move through the crowd, taking what they could, then slipping away.",
 q2b11,git,StoreList/1/StoreList/0/ItemList/13/LocalizedName,0,56610,Dancing Boots +1,
 q2b11,git,StoreList/1/StoreList/0/ItemList/14/DescIdentified,0,56609,"The dancing thief was a legendary character who would set up a series of spectacular traps, then dance his way through them, creating a spectacle of explosions and effects to entertain and amuse audiences. While the onlookers were distracted, his followers, young pickpockets, would move through the crowd, taking what they could, then slipping away.",
@@ -714,11 +732,13 @@ q2b11,git,StoreList/1/StoreList/0/ItemList/15/DescIdentified,0,48317,"The Tumble
 q2b11,git,StoreList/1/StoreList/0/ItemList/15/LocalizedName,0,48316,Lesser Tumblers,
 q2b11,git,StoreList/1/StoreList/0/ItemList/16/DescIdentified,0,48317,"The Tumblers were a group of assassins who worked together to topple rich, powerful nobles and merchants. Emperor Fenias IV used them to regain control over the various provinces of Valratha, whose nobles had become almost entirely independent of the crown.",
 q2b11,git,StoreList/1/StoreList/0/ItemList/16/LocalizedName,0,48318,The Tumblers,
-q2b11,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.",
+q2b11,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,67487,"Also referred to as the Disciples of the Saint Sollars, the Monastic Order of the Yellow Rose is known equally for its acts of great loyalty to its allies and those of great destruction to its enemies. Monks of this Order frequently travel alongside paladins of Jaess, serving as trusted guides and companions to these knights of the servant lord.","성 솔라스의 제자들이라고도 불리는 노랑 장미 수도회는 동맹에 대한 큰 충성과 적에 대한 큰 파괴 행위로 똑같이 알려져 있습니다. 이 교단의 수도사들은 자주 일메이터의 성기사와 함께 여행하며, 고통받는 군주의 기사들에게 신뢰할 수 있는 안내자이자 동반자 역할을 합니다."
 q2b11,git,StoreList/1/StoreList/0/ItemList/18/DescIdentified,0,13369,"The elderly priestess, Milladolin, found that age was affecting her and her fellows quite rapidly, causing their hands to shake and preventing them from performing many of their priestly duties. With Rictos's blessings, Milladolin created magical gloves that steadied their hands and heightened their muscle control. Years later, a young Rictosian was caught for thievery - guilty of using the gloves. Word spread, and soon the gloves themselves were stolen away.",
 q2b11,git,StoreList/1/StoreList/1/ItemList/39/DescIdentified,0,13925,"Desperately seeking to escape the attention of the emporer's assassins, the wizard, Worlit Thent fled to the fey hidden lands, Kahnahda. Peace and beauty are exalted above all else in these lands, so the emporer's assassins were unable to enter. When Worlit decided it was time to leave, the fey gave him an unprecidented gift. The feyduster was a weapon of beauty, but still a weapon. The fairy who gave it to Worlit told him it was from an age when the fey lived more in the world and made war on the big folk.",
-q2b11,git,StoreList/1/StoreList/2/ItemList/3/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.",
-q2b11,git,StoreList/1/StoreList/3/ItemList/6/DescIdentified,0,48923,"This ring is actually a magic leather cord that ties around a finger.  It is tanned to be vaguely flesh-toned and is so subtle that it often goes unnoticed when worn.  Similarly, it allows the wearer to blend easily into the background to escape detection..",
+q2b11,git,StoreList/1/StoreList/2/ItemList/3/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.","이 물약은 모험가와 학자들 모두가 원하고 있으며, 페이룬의 던전에서 많이 쓰이는걸 볼 수 있습니다."
+q2b11,git,StoreList/1/StoreList/3/ItemList/6/DescIdentified,0,48923,"This ring is actually a magic leather cord that ties around a finger.  It is tanned to be vaguely flesh-toned and is so subtle that it often goes unnoticed when worn.  Similarly, it allows the wearer to blend easily into the background to escape detection..","사실 손가락에 묶는 마법 가죽끈입니다. 희미한 살색으로 무두질되어 착용해도 눈에 잘 띄지 않습니다. 착용자도 배경에 쉽게 섞여 탐지를 피할 수 있습니다.
+
+도둑이나 눈에 띄고 싶지 않은 자들이 흔히 쓰는 물건이지만, 웨스트게이트 도시 경비대에 따르면 야간 가면단의 표준 장비로 빠르게 자리 잡고 있다고 합니다."
 q2b11,git,TriggerList/0/LocalizedName,0,-1,"OS One-Liner, Non-Random",
 q2b14a,git,Creature List/0/Description,0,-1,Gelani the halfling is the part owner of the Mossy Tree Inn. She was once the guildmaster for the Merchant's guild.,
 q2b14a,git,Creature List/0/FirstName,0,-1,Gelani,
@@ -766,8 +786,8 @@ q2b14a,git,WaypointList/6/LocalizedName,0,14817,Waitress Waypoint,
 q2b14a,git,WaypointList/7/LocalizedName,0,14817,Waitress Waypoint,
 q2b14a,git,WaypointList/8/LocalizedName,0,14817,Waitress Waypoint,
 q2b14a,git,WaypointList/9/LocalizedName,0,14817,Henchman Home Waypoint,
-q2b14b,git,Door List/0/LocName,0,5349,Door,
-q2b14b,git,Door List/1/LocName,0,5349,Door,
+q2b14b,git,Door List/0/LocName,0,5349,Door,문
+q2b14b,git,Door List/1/LocName,0,5349,Door,문
 q2b9,git,Creature List/0/FirstName,0,-1,Levio'Sa,
 q2b9,git,Creature List/1/Description,0,-1,This is one of the hunters that frequent the Quartermaster's Store.,
 q2b9,git,Creature List/1/FirstName,0,-1,Fell,
@@ -785,10 +805,12 @@ q2b9,git,Creature List/6/FirstName,0,12423,Local Warrior,
 q2b9,git,Creature List/7/Description,0,-1,This is one of the keep's commoners.,
 q2b9,git,Creature List/7/FirstName,0,12423,Commoner,
 q2b9,git,Door List/0/LocName,0,5349,QuarterMaster Exit,
-q2b9,git,Placeable List/16/Description,0,14599,"With its bucket head and straw-filled chest, the combat dummy seems far from threatening.",
+q2b9,git,Placeable List/16/Description,0,14599,"With its bucket head and straw-filled chest, the combat dummy seems far from threatening.",양동이 머리와 짚으로 가득 찬 몸통을 가진 훈련용 허수아비는 위협과는 거리가 먼 것 같습니다.
 q2b9,git,StoreList/0/LocName,0,-1,General Store,
 q2b9,git,StoreList/0/StoreList/0/ItemList/12/LocalizedName,0,13711,Lesser Armor of the Wolf,
-q2b9,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,40655,This helm mounts two special crystal lenses over the wearer's eyes that grant a +5 bonus to Spot checks. ,
+q2b9,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,40655,This helm mounts two special crystal lenses over the wearer's eyes that grant a +5 bonus to Spot checks. ,"이 투구는 착용자의 눈 위에 두 개의 특수 수정 렌즈를 달아 발견 판정에 +5 보너스를 줍니다.
+
+국경 수호에 철저한 달숲의 엘프들은 약탈하는 오크를 감시하고 숲을 지킬 때 활을 정확히 겨누기 위해 이 투구를 자주 씁니다."
 q2b9,git,StoreList/0/StoreList/0/ItemList/14/DescIdentified,0,56605,"An unusual tradition in the mountainous village of Kale sprang up around 5 years ago, where villagers would take blunted arrows and fire them at each other in contests. Two lines would form up, with each person directly across from the other firing on command. Anyone not hit would remain, while all others backed out, until one person was left standing.
 Travellers to the village reported the games were, ""Marvellous fun to watch, but you'd have to be a bloody idiot to participate.""
 After a few years and several unfortunate deaths, the villagers went back to shooting at stuffed targets.",
@@ -799,17 +821,21 @@ q2b9,git,StoreList/0/StoreList/0/ItemList/16/DescIdentified,0,13336,"Several war
 q2b9,git,StoreList/0/StoreList/0/ItemList/17/DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
 q2b9,git,StoreList/0/StoreList/0/ItemList/18/DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
 q2b9,git,StoreList/0/StoreList/0/ItemList/19/DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
-q2b9,git,StoreList/0/StoreList/0/ItemList/20/DescIdentified,0,67782,"While these magical items have been around for thousands of years, their popularity never seems to decrease. Recently, a party of adventurers out of Delish uncovered a vast treasure trove, filled with magical items like these. The sudden influx of magical gauntlets does not seem to have decreased their value, as every adventurer across the land clamors for the assistance of these useful artifacts.",
+q2b9,git,StoreList/0/StoreList/0/ItemList/20/DescIdentified,0,67782,"While these magical items have been around for thousands of years, their popularity never seems to decrease. Recently, a party of adventurers out of Delish uncovered a vast treasure trove, filled with magical items like these. The sudden influx of magical gauntlets does not seem to have decreased their value, as every adventurer across the land clamors for the assistance of these useful artifacts.","이런 마법 아이템들은 수천 년 동안 존재했지만, 인기는 결코 줄어들지 않는 것 같습니다. 최근에, 칼림샨에서 온 모험가들 무리가 이런 마법 아이템들로 가득 찬 거대한 보물창고를 발견했습니다. 모든 모험가들이 이 유용한 유물의 도움을 받고자 하기 때문에, 마법의 팔목장갑의 공급이 갑작스럽게 밀려들더라도 그 가치는 떨어지 않는 것으로 보입니다."
 q2b9,git,StoreList/0/StoreList/0/ItemList/21/DescIdentified,0,66562,"These cloaks of resistance are commonly found among the frost giant clans in the northern reaches of Valratha. 
 
-The wearer can withstand extremes of cold weather and magical cold damage as well.",
-q2b9,git,StoreList/0/StoreList/1/ItemList/37/DescIdentified,0,14051,"These bows seem primitive at first glance, but behind the crude sinew and hide is a powerful weapon. They are most often found in the far north of Valratha, but unfortunately, they are also most often found in the hands of one of the Cold Tongue orc raiders. Most observers will get a good look at the point of the arrows before ever seeing the bow.",
+The wearer can withstand extremes of cold weather and magical cold damage as well.","이 저항의 망토는 얼어붙은 북방의 서리 거인과 다른 아우릴 숭배 생물들 사이에서 흔히 발견됩니다. 망토는 흰색이며 흰 털로 장식되어 있습니다.
+
+착용자는 극한의 추운 날씨와 마법의 냉기 피해도 견딜 수 있습니다."
+q2b9,git,StoreList/0/StoreList/1/ItemList/37/DescIdentified,0,14051,"These bows seem primitive at first glance, but behind the crude sinew and hide is a powerful weapon. They are most often found in the far north of Valratha, but unfortunately, they are also most often found in the hands of one of the Cold Tongue orc raiders. Most observers will get a good look at the point of the arrows before ever seeing the bow.","이 활은 언뜻 보기에는 원시적으로 보이지만, 투박한 힘줄과 생가죽 이면에는 강력한 무기가 있습니다. 대부분 먼 북쪽에서 발견되지만, 불행하게도 얼음처녀 아우릴의 신도들에게서 또한 자주 발견됩니다. 대부분의 목격자들은 활에 채 시선이 닿기도 전에 화살촉을 구경하게 하게 될 것입니다."
 q2b9,git,StoreList/0/StoreList/1/ItemList/37/LocalizedName,0,14052,Cold Tongue Bow,
 q2b9,git,StoreList/0/StoreList/3/ItemList/3/DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",
 q2b9,git,StoreList/0/StoreList/3/ItemList/4/DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",
 q2b9,git,StoreList/1/LocName,0,-1,General Store,
 q2b9,git,StoreList/1/StoreList/0/ItemList/16/LocalizedName,0,13711,Lesser Armor of the Wolf,
-q2b9,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,40655,This helm mounts two special crystal lenses over the wearer's eyes that grant a +5 bonus to Spot checks. ,
+q2b9,git,StoreList/1/StoreList/0/ItemList/17/DescIdentified,0,40655,This helm mounts two special crystal lenses over the wearer's eyes that grant a +5 bonus to Spot checks. ,"이 투구는 착용자의 눈 위에 두 개의 특수 수정 렌즈를 달아 발견 판정에 +5 보너스를 줍니다.
+
+국경 수호에 철저한 달숲의 엘프들은 약탈하는 오크를 감시하고 숲을 지킬 때 활을 정확히 겨누기 위해 이 투구를 자주 씁니다."
 q2b9,git,StoreList/1/StoreList/0/ItemList/18/DescIdentified,0,56605,"An unusual tradition in the mountainous village of Kale sprang up around 5 years ago, where villagers would take blunted arrows and fire them at each other in contests. Two lines would form up, with each person directly across from the other firing on command. Anyone not hit would remain, while all others backed out, until one person was left standing.
 Travellers to the village reported the games were, ""Marvellous fun to watch, but you'd have to be a bloody idiot to participate.""
 After a few years and several unfortunate deaths, the villagers went back to shooting at stuffed targets.",
@@ -819,9 +845,11 @@ After a few years and several unfortunate deaths, the villagers went back to sho
 q2b9,git,StoreList/1/StoreList/0/ItemList/20/DescIdentified,0,13336,"Several wars have sprung up between man and elf kind, since the discovery that humans were actually making these boots out of elves. The elves believe they have finally taught the humans how to make the boots properly from regular leather, but there is no underestimating the stupidity of some humans.",
 q2b9,git,StoreList/1/StoreList/0/ItemList/21/DescIdentified,0,66562,"These cloaks of resistance are commonly found among the frost giant clans in the northern reaches of Valratha. 
 
-The wearer can withstand extremes of cold weather and magical cold damage as well.",
-q2b9,git,StoreList/1/StoreList/0/ItemList/22/DescIdentified,0,67782,"While these magical items have been around for thousands of years, their popularity never seems to decrease. Recently, a party of adventurers out of Delish uncovered a vast treasure trove, filled with magical items like these. The sudden influx of magical gauntlets does not seem to have decreased their value, as every adventurer across the land clamors for the assistance of these useful artifacts.",
-q2b9,git,StoreList/1/StoreList/1/ItemList/37/DescIdentified,0,14051,"These bows seem primitive at first glance, but behind the crude sinew and hide is a powerful weapon. They are most often found in the far north of Valratha, but unfortunately, they are also most often found in the hands of one of the Cold Tongue orc raiders. Most observers will get a good look at the point of the arrows before ever seeing the bow.",
+The wearer can withstand extremes of cold weather and magical cold damage as well.","이 저항의 망토는 얼어붙은 북방의 서리 거인과 다른 아우릴 숭배 생물들 사이에서 흔히 발견됩니다. 망토는 흰색이며 흰 털로 장식되어 있습니다.
+
+착용자는 극한의 추운 날씨와 마법의 냉기 피해도 견딜 수 있습니다."
+q2b9,git,StoreList/1/StoreList/0/ItemList/22/DescIdentified,0,67782,"While these magical items have been around for thousands of years, their popularity never seems to decrease. Recently, a party of adventurers out of Delish uncovered a vast treasure trove, filled with magical items like these. The sudden influx of magical gauntlets does not seem to have decreased their value, as every adventurer across the land clamors for the assistance of these useful artifacts.","이런 마법 아이템들은 수천 년 동안 존재했지만, 인기는 결코 줄어들지 않는 것 같습니다. 최근에, 칼림샨에서 온 모험가들 무리가 이런 마법 아이템들로 가득 찬 거대한 보물창고를 발견했습니다. 모든 모험가들이 이 유용한 유물의 도움을 받고자 하기 때문에, 마법의 팔목장갑의 공급이 갑작스럽게 밀려들더라도 그 가치는 떨어지 않는 것으로 보입니다."
+q2b9,git,StoreList/1/StoreList/1/ItemList/37/DescIdentified,0,14051,"These bows seem primitive at first glance, but behind the crude sinew and hide is a powerful weapon. They are most often found in the far north of Valratha, but unfortunately, they are also most often found in the hands of one of the Cold Tongue orc raiders. Most observers will get a good look at the point of the arrows before ever seeing the bow.","이 활은 언뜻 보기에는 원시적으로 보이지만, 투박한 힘줄과 생가죽 이면에는 강력한 무기가 있습니다. 대부분 먼 북쪽에서 발견되지만, 불행하게도 얼음처녀 아우릴의 신도들에게서 또한 자주 발견됩니다. 대부분의 목격자들은 활에 채 시선이 닿기도 전에 화살촉을 구경하게 하게 될 것입니다."
 q2b9,git,StoreList/1/StoreList/1/ItemList/37/LocalizedName,0,14052,Cold Tongue Bow,
 q2b9,git,StoreList/1/StoreList/3/ItemList/3/DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",
 q2b9,git,StoreList/1/StoreList/3/ItemList/4/DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",
@@ -861,8 +889,8 @@ q2c,git,Creature List/4/Description,0,-1,The commoners in the keep live a life f
 q2c,git,Creature List/4/FirstName,0,12423,Commoner,
 q2c,git,Creature List/5/FirstName,0,-1,Local Guard,
 q2c,git,Creature List/6/FirstName,0,-1,Local Guard,
-q2c,git,Creature List/7/FirstName,0,12634,Boy,
-q2c,git,Creature List/8/FirstName,0,12525,Girl,
+q2c,git,Creature List/7/FirstName,0,12634,Boy,소년
+q2c,git,Creature List/8/FirstName,0,12525,Girl,소녀
 q2c,git,Creature List/9/Description,0,-1,This is the third in command of the keep guards.,
 q2c,git,Creature List/9/FirstName,0,-1,Dylan,
 q2c,git,Creature List/9/LastName,0,-1,Ogder,
@@ -915,9 +943,11 @@ q2c,git,WaypointList/8/MapNote,0,14815,Haunted Mansion,
 q2c,git,WaypointList/9/LocalizedName,0,14817,North Guard Waypoint,
 q2c013,git,Creature List/0/Description,0,-1,"Yenna is the wizard of the keep, and being one of the most powerful people around has made her the guildmaster of a guild consisting of only the one member.",
 q2c013,git,Creature List/0/FirstName,0,-1,Yenna,
-q2c013,git,Placeable List/0/Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",
+q2c013,git,Placeable List/0/Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",이 거대한 돌 테두리 거울의 반짝이는 표면에 비친 자신의 모습을 바라봅니다.
 q2c013,git,StoreList/0/LocName,0,14807,Mage Store,
-q2c013,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,40663,Woven round the brim of this helm is a light cord with a small gem set so that it rests upon the forehead of the wearer.  The magic of the headband has the power to dramatically sharpen the wearer's intellect.,
+q2c013,git,StoreList/0/StoreList/0/ItemList/10/DescIdentified,0,40663,Woven round the brim of this helm is a light cord with a small gem set so that it rests upon the forehead of the wearer.  The magic of the headband has the power to dramatically sharpen the wearer's intellect.,"투구 테두리를 감은 가벼운 끈에 작은 보석이 박혀 이마에 닿게 되어 있습니다. 이 머리띠의 마법이 착용자의 지성을 비약적으로 높여줍니다.
+
+일부 마법사는 '편법'이라 여기지만, 많은 마법사가 열성적으로 찾으며 특히 테이의 붉은 마법사단에게 인기가 높습니다."
 q2c013,git,StoreList/0/StoreList/0/ItemList/11/DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
 q2c013,git,StoreList/0/StoreList/0/ItemList/12/DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
 q2c013,git,StoreList/0/StoreList/0/ItemList/13/DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
@@ -926,17 +956,19 @@ q2c013,git,StoreList/0/StoreList/0/ItemList/8/DescIdentified,0,67729,"Left over 
 q2c013,git,StoreList/0/StoreList/0/ItemList/8/Description,0,-1,This is a magic robe.,
 q2c013,git,StoreList/0/StoreList/0/ItemList/9/DescIdentified,0,67731,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.",
 q2c013,git,StoreList/0/StoreList/0/ItemList/9/Description,0,-1,This is a magic robe.,
-q2c013,git,StoreList/0/StoreList/2/ItemList/111/DescIdentified,0,13424,"The crutch of shoddy thieves and cowardly paladins, these potions are well known across the face of Valratha.",
-q2c013,git,StoreList/0/StoreList/2/ItemList/112/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.",
+q2c013,git,StoreList/0/StoreList/2/ItemList/111/DescIdentified,0,13424,"The crutch of shoddy thieves and cowardly paladins, these potions are well known across the face of Valratha.","조악한 도둑들과 비겁한 성기사들의 목발이 되어주는, 이 물약은 페이룬의 지상 전체에 잘 알려져 있습니다."
+q2c013,git,StoreList/0/StoreList/2/ItemList/112/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.","이 물약은 모험가와 학자들 모두가 원하고 있으며, 페이룬의 던전에서 많이 쓰이는걸 볼 수 있습니다."
 q2c013,git,StoreList/0/StoreList/3/ItemList/20/DescIdentified,0,58589,"Because they must constantly have their charges replenished, rods and wands in Valratha have become scarce. There simply aren't enough powerful mages to recharge these items.",
-q2c013,git,StoreList/0/StoreList/3/ItemList/21/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
-q2c013,git,StoreList/0/StoreList/3/ItemList/22/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
-q2c013,git,StoreList/0/StoreList/3/ItemList/23/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
+q2c013,git,StoreList/0/StoreList/3/ItemList/21/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
+q2c013,git,StoreList/0/StoreList/3/ItemList/22/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
+q2c013,git,StoreList/0/StoreList/3/ItemList/23/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
 q2c013,git,StoreList/0/StoreList/3/ItemList/24/DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",
 q2c013,git,StoreList/0/StoreList/3/ItemList/25/DescIdentified,0,40089,"Only a few of these rings exist, and almost all of them are owned by very powerful mages. It is a status symbol to own such a ring.",
 q2c013,git,StoreList/0/StoreList/3/ItemList/26/DescIdentified,0,40089,"Only a few of these rings exist, and almost all of them are owned by very powerful mages. It is a status symbol to own such a ring.",
 q2c013,git,StoreList/1/LocName,0,14807,Mage Store,
-q2c013,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,40663,Woven round the brim of this helm is a light cord with a small gem set so that it rests upon the forehead of the wearer.  The magic of the headband has the power to dramatically sharpen the wearer's intellect.,
+q2c013,git,StoreList/1/StoreList/0/ItemList/10/DescIdentified,0,40663,Woven round the brim of this helm is a light cord with a small gem set so that it rests upon the forehead of the wearer.  The magic of the headband has the power to dramatically sharpen the wearer's intellect.,"투구 테두리를 감은 가벼운 끈에 작은 보석이 박혀 이마에 닿게 되어 있습니다. 이 머리띠의 마법이 착용자의 지성을 비약적으로 높여줍니다.
+
+일부 마법사는 '편법'이라 여기지만, 많은 마법사가 열성적으로 찾으며 특히 테이의 붉은 마법사단에게 인기가 높습니다."
 q2c013,git,StoreList/1/StoreList/0/ItemList/11/DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
 q2c013,git,StoreList/1/StoreList/0/ItemList/12/DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
 q2c013,git,StoreList/1/StoreList/0/ItemList/13/DescIdentified,0,13349,"Relics from the Age of the Magi, these bracers can still be found in the common gear of most adventurers. Anything that makes an adventurer quicker and harder to hit is a must-have item.",
@@ -945,11 +977,11 @@ q2c013,git,StoreList/1/StoreList/0/ItemList/8/DescIdentified,0,67731,"Left over 
 q2c013,git,StoreList/1/StoreList/0/ItemList/8/Description,0,-1,This is a magic robe.,
 q2c013,git,StoreList/1/StoreList/0/ItemList/9/DescIdentified,0,67729,"Left over from the Age of the Magi, when mages were plentiful, these robes are sturdy, but fairly common. They last a long time, rarely wearing out.",
 q2c013,git,StoreList/1/StoreList/0/ItemList/9/Description,0,-1,This is a magic robe.,
-q2c013,git,StoreList/1/StoreList/2/ItemList/113/DescIdentified,0,13424,"The crutch of shoddy thieves and cowardly paladins, these potions are well known across the face of Valratha.",
-q2c013,git,StoreList/1/StoreList/2/ItemList/114/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.",
-q2c013,git,StoreList/1/StoreList/3/ItemList/20/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
-q2c013,git,StoreList/1/StoreList/3/ItemList/21/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
-q2c013,git,StoreList/1/StoreList/3/ItemList/22/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.",
+q2c013,git,StoreList/1/StoreList/2/ItemList/113/DescIdentified,0,13424,"The crutch of shoddy thieves and cowardly paladins, these potions are well known across the face of Valratha.","조악한 도둑들과 비겁한 성기사들의 목발이 되어주는, 이 물약은 페이룬의 지상 전체에 잘 알려져 있습니다."
+q2c013,git,StoreList/1/StoreList/2/ItemList/114/DescIdentified,0,13446,"These potions are in equal demand by adventurers and scholars, and see much use in the dungeons of Valratha.","이 물약은 모험가와 학자들 모두가 원하고 있으며, 페이룬의 던전에서 많이 쓰이는걸 볼 수 있습니다."
+q2c013,git,StoreList/1/StoreList/3/ItemList/20/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
+q2c013,git,StoreList/1/StoreList/3/ItemList/21/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
+q2c013,git,StoreList/1/StoreList/3/ItemList/22/DescIdentified,0,13464,"Tormented by voices that incessantly attacked his mind, young Resino of Lavin begged his local church to kill him. Understanding his pain but unable to identify any specific demonic influence, the church tried crafting rings that they hoped would clear his thoughts. Unfortunately, while the rings enhanced his senses they did nothing for the voices, and Resino eventually took his own life.","끊임없이 정신을 공격하는 목소리에 괴로워하던 베레고스트의 젊은 레시노는 지역 교회에 자신을 죽여달라고 간청했습니다. 그의 고통을 이해하지만 구체적으로 악마의 영향을 특정할 수 없었던 교회는 그의 생각을 맑게 만들길 바라는 반지를 만들어 보았습니다. 불행하게도, 반지는 그의 감각을 향상시켰지만, 목소리를 어찌하지는 못했고, 레시노는 결국 자신의 목숨을 끊었습니다."
 q2c013,git,StoreList/1/StoreList/3/ItemList/23/DescIdentified,0,56645,"It is rumored that these rings were created in lands across the sea from Valratha. Since no ships have ever survived such a crossing of the seas, few believe these stories.",
 q2c013,git,StoreList/1/StoreList/3/ItemList/24/DescIdentified,0,40089,"Only a few of these rings exist, and almost all of them are owned by very powerful mages. It is a status symbol to own such a ring.",
 q2c013,git,StoreList/1/StoreList/3/ItemList/25/DescIdentified,0,40089,"Only a few of these rings exist, and almost all of them are owned by very powerful mages. It is a status symbol to own such a ring.",
@@ -990,8 +1022,8 @@ q2c24a,git,Creature List/5/Description,0,-1,This is the third in command of the 
 q2c24a,git,Creature List/5/FirstName,0,-1,Dylan,
 q2c24a,git,Creature List/5/LastName,0,-1,Ogder,
 q2c24a,git,Door List/0/LocName,0,5349,Prison Door,
-q2c24a,git,Door List/1/LocName,0,5349,Door,
-q2c24a,git,Placeable List/34/Description,0,14600,Either he owned little to begin with or this man was stripped of all he had.,
+q2c24a,git,Door List/1/LocName,0,5349,Door,문
+q2c24a,git,Placeable List/34/Description,0,14600,Either he owned little to begin with or this man was stripped of all he had.,"처음부터 아무것도 없었거나, 또는 자신이 가진 것을 모두 빼앗긴 상태입니다."
 q2c24a,git,Placeable List/41/LocName,0,5681,Armor Stand,
 q2c24a,git,TriggerList/0/LocalizedName,0,14759,Dylan Initiates Trigger,
 q2c24a,git,TriggerList/1/LocalizedName,0,14759,Henchmen Prison,
@@ -1017,7 +1049,7 @@ q2c25,git,Creature List/6/FirstName,0,12422,Commoner,
 q2c25,git,Creature List/7/Description,0,-1,The commoners in the keep live a life filled with tension. They desperately seek a strong leader to guide them.,
 q2c25,git,Creature List/7/FirstName,0,12423,Commoner,
 q2c25,git,Door List/0/LocName,0,5349,Castle Exit,
-q2c25,git,Placeable List/27/Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",
+q2c25,git,Placeable List/27/Description,0,84167,"You gaze back at your own reflection created by the shiny surface of this huge, stone-framed mirror.",이 거대한 돌 테두리 거울의 반짝이는 표면에 비친 자신의 모습을 바라봅니다.
 q2c25,git,Placeable List/40/LocName,0,5800,Shaft of Light,
 q2c25,git,TriggerList/0/LocalizedName,0,14759,Alias Keep Trigger,
 q2c25,git,TriggerList/1/LocalizedName,0,-1,"OS One-Liner, Non-Random",
@@ -1074,7 +1106,7 @@ q2c5,git,Creature List/0/FirstName,0,-1,Guard,
 q2c5,git,Creature List/1/Description,0,-1,Sir Becket's guard eyes you with suspicion.,
 q2c5,git,Creature List/1/FirstName,0,-1,Guard,
 q2c5,git,Door List/0/LocName,0,5349,Manor Exit,
-q2c5,git,Placeable List/0/Description,0,68862,A solid wooden desk.,
+q2c5,git,Placeable List/0/Description,0,68862,A solid wooden desk.,튼튼한 나무 책상입니다.
 q2c5,git,Placeable List/0/ItemList/0/DescIdentified,0,-1,"This is a peice of parchment that appears to have been ripped, as some of the words at the bottom have been torn off. You can't make out what they say... if only you had the other half.",
 q2c5,git,Placeable List/0/ItemList/0/Description,0,-1,"This is a peice of parchment that appears to have been ripped, as some of the words at the bottom have been torn off. You can't make out what they say... if only you had the other half.",
 q2c5,git,Placeable List/0/ItemList/0/LocalizedName,0,-1,Note Paper,
@@ -1085,15 +1117,15 @@ q3d,git,Creature List/1/FirstName,0,12508,Duergar Head Miner,
 q3d,git,Door List/0/LocName,0,5349,Cave Exit,
 q3d,git,Door List/1/Description,0,-1,Locked Bridge Door,
 q3d,git,Door List/2/LocName,0,5349,Cave Exit,
-q3d,git,Encounter List/0/LocalizedName,0,91343,Duergar Encounter,
-q3d,git,Encounter List/1/LocalizedName,0,91343,Duergar Encounter,
-q3d,git,Encounter List/2/LocalizedName,0,91343,Duergar Encounter,
-q3d,git,Encounter List/3/LocalizedName,0,91343,Duergar Encounter,
-q3d,git,Encounter List/4/LocalizedName,0,91343,Duergar Encounter,
+q3d,git,Encounter List/0/LocalizedName,0,91343,Duergar Encounter,듀에르가 인카운터
+q3d,git,Encounter List/1/LocalizedName,0,91343,Duergar Encounter,듀에르가 인카운터
+q3d,git,Encounter List/2/LocalizedName,0,91343,Duergar Encounter,듀에르가 인카운터
+q3d,git,Encounter List/3/LocalizedName,0,91343,Duergar Encounter,듀에르가 인카운터
+q3d,git,Encounter List/4/LocalizedName,0,91343,Duergar Encounter,듀에르가 인카운터
 q3d,git,Placeable List/0/Description,0,14632,Set Leviosa Plot to complete without trap,
 q3d,git,Placeable List/1/LocName,0,5738,Explosive Barrel,
 q3d,git,Placeable List/16/ItemList/0/LocalizedName,0,-1,Miner's Belt,
-q3d,git,Placeable List/16/ItemList/1/DescIdentified,0,14242,"Briarspikes look like they could have been plucked from some giant quill-covered beast, but the methods involved are very sophisticated. ",
+q3d,git,Placeable List/16/ItemList/1/DescIdentified,0,14242,"Briarspikes look like they could have been plucked from some giant quill-covered beast, but the methods involved are very sophisticated. ","브라이어 가시못은 보기엔 가시로 뒤덮인 거대한 짐승에서 뽑아낸 것처럼 보이지만, 제작 과정은 매우 정교하며 워터딥의 메놀드의 품질 보증 인장을 가지고 있습니다. 메놀드는 몇 년 전 그의 탑을 오크가 습격하고 나서 실종되었기 때문에, 이것이 그의 운명을 밝혀줄지도 모릅니다. 그는 자신의 기술로 자유를 사려 했을지도 모르지만, 오히려 더 유용한 포로가 되고 말았을 겁니다."
 q3d,git,Placeable List/2/LocName,0,5738,Explosive Barrel,
 q3d,git,SoundList/6/LocName,0,-1,Cave Drips,
 q3d,git,TriggerList/0/LocalizedName,0,-1,"OS One-Liner, Non-Random",
@@ -1107,10 +1139,10 @@ q3e,git,Door List/0/LocName,0,5349,Tree Exit,
 q3e,git,TriggerList/0/LocalizedName,0,-1,"OS One-Liner, Non-Random",
 q3e,git,TriggerList/1/LocalizedName,0,14759,Henchmen Hermit,
 q3e,git,WaypointList/0/LocalizedName,0,69063,Hermit's Home,
-q3j,git,Creature List/0/FirstName,0,12428,Cow,
-q3j,git,Creature List/1/FirstName,0,12428,Cow,
-q3j,git,Creature List/2/FirstName,0,12428,Cow,
-q3j,git,Creature List/3/FirstName,0,12428,Cow,
+q3j,git,Creature List/0/FirstName,0,12428,Cow,소
+q3j,git,Creature List/1/FirstName,0,12428,Cow,소
+q3j,git,Creature List/2/FirstName,0,12428,Cow,소
+q3j,git,Creature List/3/FirstName,0,12428,Cow,소
 q3j,git,Creature List/4/FirstName,0,2926,Kobold Chief,
 q3j,git,Creature List/9/FirstName,0,-1,Snivel,
 q3j,git,Door List/0/LocName,0,5349,Cave Exit,
@@ -1153,8 +1185,8 @@ q3j,git,WaypointList/7/LocalizedName,0,14817,Cow Hammer,
 q3j,git,WaypointList/8/LocalizedName,0,14817,Cow Hammer,
 q3j,git,WaypointList/9/LocalizedName,0,14817,Cow Hammer,
 q3k2,git,Door List/1/LocName,0,5349,Cave Door,
-q3k2,git,Door List/2/LocName,0,5349,Door,
-q3k2,git,Door List/3/LocName,0,5349,Door,
+q3k2,git,Door List/2/LocName,0,5349,Door,문
+q3k2,git,Door List/3/LocName,0,5349,Door,문
 q3k2,git,TriggerList/0/LocalizedName,0,14759,Magic Weapon Initiates Trigger,
 q3k2,git,TriggerList/1/LocalizedName,0,14759,Surrender Initiates Trigger,
 q3k2,git,WaypointList/0/LocalizedName,0,14817,Calibast Waypoint,
@@ -1166,11 +1198,11 @@ q3k2,git,WaypointList/4/MapNote,0,-1,Exit,
 q3k3,git,Creature List/0/Equip_ItemList/3/LocalizedName,0,-1,Mindflayer Tentacle,
 q3k3,git,Creature List/0/Equip_ItemList/4/LocalizedName,0,-1,Mind Flayer Properties,
 q3k3,git,Creature List/0/FirstName,0,-1,Illithid,
-q3k3,git,Creature List/2/FirstName,0,12445,Intellect Devourer,
-q3k3,git,Door List/0/LocName,0,5349,Door,
-q3k3,git,Door List/1/LocName,0,5349,Door,
+q3k3,git,Creature List/2/FirstName,0,12445,Intellect Devourer,지성 포식귀
+q3k3,git,Door List/0/LocName,0,5349,Door,문
+q3k3,git,Door List/1/LocName,0,5349,Door,문
 q3k3,git,Placeable List/0/ItemList/3/LocalizedName,0,62349,Golden Chalice of Suhili,
-q3k3,git,Placeable List/2/ItemList/0/DescIdentified,0,67773,"Attempting to form an anti-thieves' guild, Ronger Delphos, a successful merchant, paid thieves to become security experts. The guards were trained to use wands with the Hold Person spell, to capture the thieves for interrogation. To counteract this security measure, magical belts were purchased by the thieves' guild, which nullified the effects of such spells. In the escalating war between the two guilds, many of these belts found their way into pawnshops and equipment stores.",
+q3k3,git,Placeable List/2/ItemList/0/DescIdentified,0,67773,"Attempting to form an anti-thieves' guild, Ronger Delphos, a successful merchant, paid thieves to become security experts. The guards were trained to use wands with the Hold Person spell, to capture the thieves for interrogation. To counteract this security measure, magical belts were purchased by the thieves' guild, which nullified the effects of such spells. In the escalating war between the two guilds, many of these belts found their way into pawnshops and equipment stores.","도둑 방지 조합을 설립하려던, 성공한 상인 롱거 델포스는 도둑들에게 돈을 내고 보안 전문가가 되어 워터딥의 상인들을 보호했습니다. 경비병들은 사람 포박 주문이 담긴 마법봉을 사용하여 도둑들을 잡아 심문하도록 훈련받았습니다. 이 보안 조치에 대항하기 위해, 도둑 조합은 마법 허리띠를 구입했는데, 이는 그런 주문의 효과를 무효화했습니다. 두 조합 간의 전쟁이 격화되면서, 이 허리띠들 중 많은 수가 전당포와 장비점으로 흘러 들어갔습니다."
 q3k3,git,Placeable List/2/ItemList/1/DescIdentified,0,13334,"Blessed by priests of Calahi the god of merchants and travel, these boots seem to make even the most arduous journey easier and more pleasant. This is accomplished not by increasing the wearer's speed, but by making him hardier and more resistant to pain. Numerous versions of these boots exist, their power varying largely in accordance with the priest who blessed them.",
 q3k3,git,SoundList/1/LocName,0,-1,Illithid Elder Brain,
 q3k3,git,SoundList/2/LocName,0,-1,Cave Drips,
@@ -1186,8 +1218,8 @@ smithy,git,Creature List/0/Equip_ItemList/1/LocalizedName,0,14012,Glassy's Hamme
 smithy,git,Creature List/0/FirstName,0,-1,"Baless ""Glassy""",
 smithy,git,Creature List/0/LastName,0,-1,Hopper,
 smithy,git,Door List/0/LocName,0,5349,Smithy Exit,
-smithy,git,StoreList/0/LocName,0,14812,Weapon and Armor Store,
-smithy,git,StoreList/1/LocName,0,14812,Weapon and Armor Store,
+smithy,git,StoreList/0/LocName,0,14812,Weapon and Armor Store,무기 및 방어구 상점
+smithy,git,StoreList/1/LocName,0,14812,Weapon and Armor Store,무기 및 방어구 상점
 start_woodsedge,git,Creature List/0/Description,0,-1,"Calibast is the fiery azer who once led your stalwart party of five. He is largely immune to fire-based attacks, and is powerfully built.",
 start_woodsedge,git,Creature List/0/Equip_ItemList/0/DescIdentified,0,-1,"Calibast's helm is a family heirloom, a rememberance of his long dead parents. Though he does not speak of them much, his occassional stretches of melancholy are often due to his reminicing about his childhood. Obviously the scavengers could not wrest the helm off of his flaming head.",
 start_woodsedge,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,Calibast's Helm,
@@ -1249,9 +1281,9 @@ thanlormanor001,git,Creature List/0/Equip_ItemList/0/LocalizedName,0,-1,Lampy's 
 thanlormanor001,git,Creature List/0/FirstName,0,-1,Candelabra,
 thanlormanor001,git,Creature List/1/FirstName,0,-1,Suit of Armor,
 thanlormanor001,git,Door List/3/LocName,0,5349,Manor Exit,
-thanlormanor001,git,Encounter List/0/LocalizedName,0,14493,Incorporeal Undead Group,
-thanlormanor001,git,Encounter List/1/LocalizedName,0,14493,Incorporeal Undead Group,
-thanlormanor001,git,Placeable List/0/Description,0,14662,"You look about you, suspicious, but see nothing.",
+thanlormanor001,git,Encounter List/0/LocalizedName,0,14493,Incorporeal Undead Group,형체가 없는 언데드 무리
+thanlormanor001,git,Encounter List/1/LocalizedName,0,14493,Incorporeal Undead Group,형체가 없는 언데드 무리
+thanlormanor001,git,Placeable List/0/Description,0,14662,"You look about you, suspicious, but see nothing.","당신은 뭔가 의심스러운 듯이 보이지만, 아무것도 보지 못합니다."
 thanlormanor001,git,Placeable List/0/LocName,0,5800,Invisible Grate Object,
 thanlormanor001,git,Placeable List/27/LocName,0,5800,km_ghostseat,
 thanlormanor001,git,Placeable List/28/LocName,0,5800,km_ghostseat,
@@ -1271,7 +1303,7 @@ thanlormanor001,git,TriggerList/0/LocalizedName,0,-1,"OS One-Liner, Non-Random",
 thanlormanor001,git,WaypointList/0/LocalizedName,0,14817,Secret Grate Waypoint,
 thanlormanor001,git,WaypointList/1/LocalizedName,0,14817,Mapnote: Exit Waypoint,
 thanlormanor001,git,WaypointList/1/MapNote,0,-1,Exit,
-thanlormanor001,git,WaypointList/2/LocalizedName,0,14817,Waypoint,
+thanlormanor001,git,WaypointList/2/LocalizedName,0,14817,Waypoint,웨이포인트
 thebattleatthe02,git,Creature List/0/FirstName,0,-1,Spirit of Calibast,
 thebattleatthe02,git,Creature List/1/FirstName,0,-1,Spirit of Jaboli,
 thebattleatthe02,git,Creature List/10/FirstName,0,-1,Dead Orcish Warrior,
@@ -1290,7 +1322,7 @@ thebattleatthe02,git,Creature List/7/FirstName,0,-1,Dead Orcish Warrior,
 thebattleatthe02,git,Creature List/8/FirstName,0,-1,Dead Orcish Warrior,
 thebattleatthe02,git,Creature List/9/FirstName,0,-1,Dead Orcish Warrior,
 thebattleatthe02,git,Door List/0/LocName,0,5349,Barred Door,
-thebattleatthe02,git,Placeable List/3/Description,0,14579,"The brazier gives off a hot glow. As you reach toward it, you can feel beads of sweat forming on the palm of your hand.",
+thebattleatthe02,git,Placeable List/3/Description,0,14579,"The brazier gives off a hot glow. As you reach toward it, you can feel beads of sweat forming on the palm of your hand.",화로가 뜨겁게 타고 있습니다. 손을 뻗으면 손바닥에 땀방울이 맺히는 것을 느낄 수 있습니다.
 thebattleatthe02,git,SoundList/13/LocName,0,-1,km1_weapon019,
 thebattleatthega,git,Creature List/0/FirstName,0,12503,Drow,
 thebattleatthega,git,Creature List/1/FirstName,0,12503,Drow,
@@ -1340,4 +1372,4 @@ thesilverlily,git,Creature List/4/FirstName,0,12423,Commoner,
 thesilverlily,git,Door List/0/LocName,0,5349,Inn Exit,
 thesilverlily,git,TriggerList/0/LocalizedName,0,-1,"OS One-Liner, Non-Random",
 thesilverlily,git,WaypointList/0/LocalizedName,0,14817,Garrot Home Waypoint,
-thesilverlilyups,git,Door List/1/LocName,0,5349,Door,
+thesilverlilyups,git,Door List/1/LocName,0,5349,Door,문

@@ -1,7 +1,7 @@
 ﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
 door_ttr_07,utd,Description,0,-1,The gate has been bolted and locked closed by a havy locking mechanism.,
 door_ttr_07,utd,LocName,0,5349,gate,
-dooreasy2,utd,LocName,0,5349,Door,
-pm_lockeddoor,utd,LocName,0,5349,Door,
+dooreasy2,utd,LocName,0,5349,Door,문
+pm_lockeddoor,utd,LocName,0,5349,Door,문
 pm_lockeddoor2,utd,Description,0,-1,TNO version of locked door,
-pm_lockeddoor2,utd,LocName,0,5349,Door,
+pm_lockeddoor2,utd,LocName,0,5349,Door,문
