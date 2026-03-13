@@ -1,0 +1,668 @@
+﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+module,jrl,Categories/0/EntryList/0/Text,0,-1,"While you were busy inside Polter's Fort, someone else seems to have followed you in. Your horse has been untied from the post where you left it, and is gone. Only some scuff marks and prints remain.",
+module,jrl,Categories/0/EntryList/1/Text,0,-1,"While you were busy inside Polter's Fort, someone else seems to have followed you in. Beside your tied up horse, a man lies dying, more than likely kicked by your horse.",
+module,jrl,Categories/0/EntryList/2/Text,0,-1,"While you were busy inside Polter's Fort, someone else seems to have followed you in. Your horse has been untied from the post where you left it, and is gone. Only some scuff marks and prints remain, but they were enough for you to work out where the thieves went, and you have followed them into the trees.",
+module,jrl,Categories/0/EntryList/3/Text,0,-1,"While you were busy inside Polter's Fort, someone else followed you in. Beside your tied up horse, you found a man, a thief after your horse. He died before you could get much of use out of him, but it seems he and his band have been preying on the fort from a camp not far away. You followed his last directions, heading into the trees and after the rest of his band.",
+module,jrl,Categories/0/EntryList/4/Text,0,-1,"While you were busy inside Polter's Fort, someone else followed you in. Beside your tied up horse, you found a man. It's possible he was stealing your horse, but he died before you could get anything useful from him",
+module,jrl,Categories/0/EntryList/5/Text,0,-1,"While you were busy inside Polter's Fort, someone else followed you in, hoping to steal your horse while you were otherwise occupied. You tracked the band back into the woods and found their encampment so that you could teach them the error of their ways.",
+module,jrl,Categories/0/EntryList/6/Text,0,-1,"While you were busy inside Polter's Fort, someone else followed you in. Your horse was untied from the post where you left it, and is gone. Only some scuff marks and prints remained, and you were unable to make anything of these. It looks like you will have to buy a new horse from the Wangle's Livery in Thunderstone.",
+module,jrl,Categories/0/Name,0,-1,A Careless Master,
+module,jrl,Categories/1/EntryList/0/Text,0,-1,"While in Thunderstone Town an old man came running out of the cemetery yelling about a kidnapping. He has told you that he saw a woman in a blue dress bundled over the back wall of the cemetery and carried into the forest. 
+
+With the old man as your guide, you have pursued the kidnappers into the forest.",
+module,jrl,Categories/1/EntryList/1/Text,0,-1,"While in Thunderstone Town an old man came running out of the cemetery yelling about a kidnapping. He told you that he saw a woman in a blue dress bundled over the back wall of the cemetery and carried into the forest. Luckily you recognize an lunatic when you see one, and sent him packing.",
+module,jrl,Categories/1/EntryList/2/Text,0,-1,"While in Thunderstone Town an old man came running out of the cemetery yelling about a kidnapping. He has told you that he saw a woman in a blue dress bundled over the back wall of the cemetery and carried into the forest. You are pursuing the kidnappers.
+
+Overcome with fear, the old man who was serving as your guide has fled.",
+module,jrl,Categories/1/EntryList/3/Text,0,-1,"While in Thunderstone Town an old man came running out of the cemetery yelling about a kidnapping. He told you that he saw a woman in a blue dress bundled over the back wall of the cemetery and carried into the forest. You and the old man pursued the kidnappers a little way, but then both of you decided to retrace your steps to Thunderstone, leaving the woman to her fate.",
+module,jrl,Categories/1/EntryList/4/Text,0,-1,"While in Thunderstone Town an old man came running out of the cemetery yelling about a kidnapping. He told you that he saw a woman in a blue dress bundled over the back wall of the cemetery and carried into the forest. 
+
+You pursued the kidnappers, only to find that the so-called 'damsel in distress' was a sorceress in cahoots with the kidnappers. After slaying the sorceress, you have returned to find the old man back in Kelemvor's Garden (the cemetery) in Thunderstone.",
+module,jrl,Categories/1/EntryList/5/Text,0,-1,"While in Thunderstone Town an old man came running out of the cemetery yelling about a kidnapping. He told you that he saw a woman in a blue dress bundled over the back wall of the cemetery and carried into the forest. 
+
+You pursued the kidnappers, only to find that the so-called 'damsel in distress' was a sorceror in cahoots with the kidnappers. It seems this was a trap to catch you alone.",
+module,jrl,Categories/1/EntryList/6/Text,0,-1,"While in Thunderstone Town an old man came running out of the cemetery yelling about a kidnapping. He told you that he saw a woman in a blue dress bundled over the back wall of the cemetery and carried into the forest. 
+
+You pursued the kidnappers, only to find that the so-called 'damsel in distress' was a sorceress in cahoots with the kidnappers. After slaying the sorceress, you returned to find the old man back in Kelemvor's Garden (the cemetery) in Thunderstone, feigning innocence. When you drew your blade on him he moved with surprising speed and fled into town.",
+module,jrl,Categories/1/Name,0,-1,A Damsel in Distress,
+module,jrl,Categories/10/EntryList/0/Text,0,-1,"Your Deity is <CUSTOM1056>.
+
+Names in Wyvern Crown
+====================
+NPCs refer to you using both your first and your last name in Wyvern Crown. In order for dialogues to make sense therefore, it is sensible to have both names set for your character, rather than choosing a name like ""Hawk the Slayer"".
+
+Rest
+====
+You can rest in several areas within Wyvern Crown, although in many of them there is a chance that your sleep will be disturbed by wandering monsters, so pick your spot wisely! In any event, you must wait at least one hour before you can rest a second time (except in inns, where you can rest at any time).
+
+If you travel using inns, you will arrive at your destination rested with your spells replenished. Inns however have a cost and are not always available.
+
+",
+module,jrl,Categories/10/EntryList/1/Text,0,-1,"Your Deity is <CUSTOM1056>.
+
+Names in Wyvern Crown
+====================
+NPCs refer to you using both your first and your last name in Wyvern Crown. In order for dialogues to make sense therefore, it is sensible to have both names set for your character, rather than choosing a name like ""Hawk the Slayer"".
+
+Rest
+====
+You can rest in several areas within Wyvern Crown, although in many of them there is a chance that your sleep will be disturbed by wandering monsters, so pick your spot wisely! In any event, you must wait at least one hour before you can rest a second time (except in inns, where you can rest at any time).
+
+If you travel using inns, you will arrive at your destination rested with your spells replenished. Inns however have a cost and are not always available.
+
+",
+module,jrl,Categories/10/Name,0,-1,Game Notes,
+module,jrl,Categories/11/EntryList/0/Text,0,-1,"Henchmen
+=========
+Throughout The Wyvern Crown, you will find several companions are available to you. At any time, you can have up to two of them with you. Except under specific circumstances, a henchman cannot die, but will instead respawn at the end of a battle. Respawned henchmen generally need immediate healing, whilst a henchmen that has not respawned, can instead be raised/resurrected only by use of the appropriate spell, not via healing. In addition, if you die and have at least one surviving companion within 30 feet, they will rescue you and drag you to safety, allowing you to respawn. Otherwise, you cannot respawn and will have to reload, so travelling without any companions will make the module considerably more challenging.
+
+Henchman commands:
+======================
+You can shout commands at your henchmen (open chat and type the command in game). If you add the first letter of the henchman's name at the beginning, only he or she will obey the command. For example, gcome will make just Godfroy move to you, whereas come will bring all your henchmen running. Note: if a henchman is doing nothing, he probably can't hear you (out of range, deafened, etc).
+====The Commands are:
+come - move henchmen to the PC (this command is disabled in a couple of areas for gameplay reasons). Remove stand ground commands.
+open - open the nearest lock (if it is possible)
+hide - into/out of stealth mode
+search - into/out of search mode
+combat - attack nearest perceived enemy. It clears the stand ground command, and reapplies standard HotU combat behaviour after the first action. Note that spellcasters are more likely to use their weapons than spells when you do this.
+disarm - disarm the nearest trap (if possible)
+stop - puts henchman in stand ground mode
+flee - flee from the enemy you are currently fighting, and remain out of combat (using stand ground) unless attacked. Use this one only in emergencies, as the direction and reliability of 'flee' is dependant on NPC facing, enemy positions, etc.
+
+Your brother Jonas will not obey these shouted commands as he is more independantly minded than to listen to his sibling in everything!",
+module,jrl,Categories/11/EntryList/1/Text,0,-1,"Henchmen
+=========
+Throughout The Wyvern Crown, you will find several companions are available to you. At any time, you can have up to two of them with you. Except under specific circumstances, a henchman cannot die, but will instead respawn at the end of a battle. Respawned henchmen generally need immediate healing, whilst a henchmen that has not respawned, can instead be raised/resurrected only by use of the appropriate spell, not via healing. In addition, if you die and have at least one surviving companion within 30 feet, they will rescue you and drag you to safety, allowing you to respawn. Otherwise, you cannot respawn and will have to reload, so travelling without any companions will make the module considerably more challenging.
+
+Henchman commands:
+======================
+You can shout commands at your henchmen (oen chat and type the command in game). If you add the first letter of the henchman's name at the beginning, only he or she will obey the command. For example, gcome will make just Godfroy move to you, whereas come will bring all your henchmen running. Note: if a henchman is doing nothing, he probably can't hear you (out of range, deafened, etc).
+====The Commands are:
+come - move henchmen to the PC (this command is disabled in a couple of areas for gameplay reasons). Remove stand ground commands.
+open - open the nearest lock (if it is possible)
+hide - into/out of stealth mode
+search - into/out of search mode
+combat - attack nearest perceived enemy. It clears the stand ground command, and reapplies standard HotU combat behaviour after the first action. Note that spellcasters are more likely to use their weapons than spells when you do this.
+disarm - disarm the nearest trap (if possible)
+stop - puts henchman in stand ground mode
+flee - flee from the enemy you are currently fighting, and remain out of combat (using stand ground) unless attacked. Use this one only in emergencies, as the direction and reliability of 'flee' is dependant on NPC facing, enemy positions, etc.
+
+Your brother Jonas will not obey these shouted commands as he is more independantly minded than to listen to his sibling in everything!",
+module,jrl,Categories/11/Name,0,-1,Henchmen,
+module,jrl,Categories/12/EntryList/0/Text,0,-1,"Horses
+======
+In order to mount or dismount a horse that you own, select the mount or dismount option from your radial menu (which is found in class actions). Then 'target' your horse. You can tell your henchmen to mount via their dialogue, or using the radial menu to command them to mount, and they will mount any unmounted horse you have in your party.
+
+There are several types of horses in game. Those that are trained for war can be used for battle, and you can improve your ability to fight on horseback through the available feats. If you try to use an untrained horse in battle, it is more than likely that it will flee, leaving you highly vulnerable to your opponents.
+
+It may seem obvious, but you cannot use horses indoors. If you enter a building, your horses will be tied to the nearest hitching post. Don't forget to go and retrieve them if you need them, though if you use overland travel, the option to automatically gather horses will be offered to you (though you will travel on foot unless you opt to mount them).
+
+Horses of course can have several advantages if used properly. Some can fight even unmounted, and if you have some of the mounted feats, you will become a powerful warrior on horseback. With packs, all horses can carry equipment. Don't overlook some of the more obvious benefits of horses too: a mounted man is quicker than one on foot and a horse is also stronger than a man. On occasion all of these benefits may have a use.",
+module,jrl,Categories/12/Name,0,-1,Horses,
+module,jrl,Categories/13/EntryList/0/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+This note is certain to be of interest to Sir Hawklin or the Law in Thunderstone.",
+module,jrl,Categories/13/EntryList/1/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest. It seems these transactions were handled by a gnome in the service of the Witch Lord. You decided the gnome had no choice and should go free.
+
+",
+module,jrl,Categories/13/EntryList/10/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+You showed the note to Sir Hawklin, who was outraged by the discovery. He urged you to find and arrest the merchant Imelda, but you were unconvinced that Sir Hawklin was innocent and have persuaded Hurim Thiodor at the Crown Office to investigate. In the meantime you should act as though nothing unusual has happened.",
+module,jrl,Categories/13/EntryList/2/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest. It seems these transactions were handled by a gnome in the service of the Witch Lord. You decided the gnome should die for his involvement..
+",
+module,jrl,Categories/13/EntryList/3/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+You showed the note to Hurim Thiodor in the Crown Office in Thunderstone. Thiodor suggested you might want to keep the note in order to show it to Sir Hawklin, since Imelda can always be arrested later.",
+module,jrl,Categories/13/EntryList/4/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+You showed the note to Hurim Thiodor in the Crown Office in Thunderstone. Thiodor has agreed that he will investigate it.",
+module,jrl,Categories/13/EntryList/5/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+You showed the note to Sir Hawklin, who was outraged by the discovery. He has urged you to find and arrest the merchant Imelda. It is likely she will be in Thunderstone for the next tournament.",
+module,jrl,Categories/13/EntryList/6/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+You showed the note to Sir Hawklin, who was outraged by the discovery. He has urged you to find and arrest the merchant Imelda. It is likely she will be in Thunderstone for the next tournament. You refused, telling Sir Hawklin it was his own problem to clear up.",
+module,jrl,Categories/13/EntryList/7/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+You took the note to Imelda. Though she claimed it was a forgery, she was prepared to buy it off you in order to save herself embarrassment. You agreed.",
+module,jrl,Categories/13/EntryList/8/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+You showed the note to Sir Hawklin, who was outraged by the discovery. He urged you to find and arrest the merchant Imelda, but instead you arranged a deal with her: a good deal of gold in return for your silence on the matter while she makes good her escape.",
+module,jrl,Categories/13/EntryList/9/Text,0,-1,"Deep within Polter's Fort you found a document from the merchant Imelda, Sir Hawklin's business partner. Convinced that Valetto is attacking her ships on Lake Wyvernwater, Imelda has been paying the Witch Lord to attack Valetto's farms along the edge of Hullack Forest.
+
+You showed the note to Sir Hawklin, who was outraged by the discovery. He urged you to find and arrest the merchant Imelda. You found her at the tournament ground and forced her to come with you to the Crown Office, where she was arrested by Hurim Thiodor. Soon she will have to face trial for her crimes.",
+module,jrl,Categories/13/Name,0,-1,Imelda's Revenge,
+module,jrl,Categories/14/EntryList/0/Text,0,-1,Baldo Tolman has a suspect jousting style but if his opponent lowers their shield they are likely to break Baldo Tolman's lance and so lose a point.,
+module,jrl,Categories/14/Name,0,-1,Jousting: Baldo Tolman,
+module,jrl,Categories/15/EntryList/0/Text,0,-1,"Local gossip says that Bandobras Tolman is a fine jouster. His style forces his opponents to raise their shields, when he unhorses them.",
+module,jrl,Categories/15/Name,0,-1,Jousting: Bandobras Tolman,
+module,jrl,Categories/16/EntryList/0/Text,0,-1,The famous Hathnor Thunderblow rides in the next joust. His favored tactic is to aim high for the helm. The best defense against such an attack would be to duck the head.,
+module,jrl,Categories/16/Name,0,-1,Jousting: Hathnor Thunderblow,
+module,jrl,Categories/17/EntryList/0/Text,0,-1,Inuman Insar the gnome is soon to ride in his first joust. He has a strong and true aim; only those that lean right have a good chance of breaking his lance and conceding the point.,
+module,jrl,Categories/17/Name,0,-1,Jousting: Inuman Insar,
+module,jrl,Categories/18/EntryList/0/Text,0,-1,"Apparently Lady Arianne FitzCormaeril is a fine jouster and has obviously ridden in several jousts, despite the debate over the wisdom of letting a Cormaeril ride. She finds the lance a bit heavy however, so opponents that raise their shields can cause her to miss.",
+module,jrl,Categories/18/Name,0,-1,Jousting: Lady Arianne FitzCormaeril,
+module,jrl,Categories/19/EntryList/0/Text,0,-1,"Apparently Lady Arianne FitzCormaeril is a fine jouster and has obviously ridden in several jousts, despite the debate over the wisdom of letting a Cormaeril ride. She finds the lance a bit heavy however, so opponents that raise their shields can cause her to miss.",
+module,jrl,Categories/19/Name,0,-1,Jousting: Lady Arianne FitzCormaeril,
+module,jrl,Categories/2/EntryList/0/Text,0,-1,"You have picked up an item with deity specific powers. If this item is dedicated to your Deity, then equipping the item will reveal them. Such a find can only mean your god has favored you!",
+module,jrl,Categories/2/Name,0,-1,A Gift from the Gods!,
+module,jrl,Categories/20/EntryList/0/Text,0,-1,"Lady Morgana Wyvernspur rarely rides in the lists, but when she does she is almost always underestimated. Her opponents always lower their helms to put their full force behind their lances. Doing so is the surest way to lose against Lady Morgana Wyvernspur!",
+module,jrl,Categories/20/Name,0,-1,Jousting: Lady Morgana Wyvernspur,
+module,jrl,Categories/21/EntryList/0/Text,0,-1,"When jousting, Millas Hoffin favors a strike at the base of the shield, according to gossip started by one of his opponents. If this is so, lowering the shield will cause his lance to break, giving him the point.",
+module,jrl,Categories/21/Name,0,-1,Jousting: Millas Hoffin,
+module,jrl,Categories/22/EntryList/0/Text,0,-1,"Rose Greenwood rarely rides in the lists, but when she does she is almost always underestimated. Her opponents always lower their helms to put their full force behind their lances. Doing so is the surest way to lose against Rose Greenwood!",
+module,jrl,Categories/22/Name,0,-1,Jousting: Rose Greenwood,
+module,jrl,Categories/23/EntryList/0/Text,0,-1,"Local gossip says that Sir Azar Truesilver is a fine jouster. His style forces his opponents to raise their shields, when he unhorses them.",
+module,jrl,Categories/23/Name,0,-1,Jousting: Sir Azar Truesilver,
+module,jrl,Categories/24/EntryList/0/Text,0,-1,The famous Sir Baradin Hawklin rides in the next joust. His favored tactic is to aim high for the helm. The best defense against such an attack would be to duck the head.,
+module,jrl,Categories/24/Name,0,-1,Jousting: Sir Baradin Hawklin,
+module,jrl,Categories/25/EntryList/0/Text,0,-1,Sir Gilbert Hawklin's nephew Sir Blakeney is soon to ride in his first joust. He has a strong and true aim; those that lean right have a good chance of breaking his lance and conceding the point.,
+module,jrl,Categories/25/Name,0,-1,Jousting: Sir Blakeney Hawklin,
+module,jrl,Categories/26/EntryList/0/Text,0,-1,Sir Drake Huntcrown has a suspect jousting style but if his opponent lowers their shield they are likely to break Sir Drake Huntcrown's lance and so lose a point.,
+module,jrl,Categories/26/Name,0,-1,Jousting: Sir Drake Huntcrown,
+module,jrl,Categories/27/EntryList/0/Text,0,-1,"When jousting, Sir Giolin Wyvernspur favors a strike at the base of the shield, according to gossip started by one of his opponents. If this is so, lowering the shield will cause his lance to break, giving him the point.",
+module,jrl,Categories/27/Name,0,-1,Jousting: Sir Giolin Wyvernspur,
+module,jrl,Categories/28/EntryList/0/Text,0,-1,"Sir Reginald Huntsilver almost always strikes the same way in a joust. If his opponent leans right then Sir Reginald Huntsilver will likely break his lance, taking a point.",
+module,jrl,Categories/28/Name,0,-1,Jousting: Sir Reginald Huntsilver,
+module,jrl,Categories/29/EntryList/0/Text,0,-1,"Stren Sternhelm almost always strikes the same way in a joust. If his opponent leans right then Stren Sternhelm will likely break his lance, taking a point.",
+module,jrl,Categories/29/Name,0,-1,Jousting: Stren Sternhelm,
+module,jrl,Categories/3/EntryList/0/Text,0,-1,"Behind you your farm is burnt and your father dead at the hands of unknown raiders. Penniless and thirsting for vengeance, you have been forced to search for a new life, and have set out with your companions for Thunderstone and your father's master Sir Gilbert Hawklin.
+
+In the nearby hamlet of Morfen, you came across the merchant Valetto Stoutbold, the owner of your farm. He made an offer to you to travel up to Thunderstone with him. You accepted his offer.",
+module,jrl,Categories/3/EntryList/1/Text,0,-1,"Behind you your farm is burnt and your father dead at the hands of unknown raiders. Penniless and thirsting for vengeance, you have been forced to search for a new life, and have set out with your companions for Thunderstone and your father's master Sir Gilbert Hawklin.
+
+You have arrived in Thunderstone. You have agreed between you to seek out Sir Hawklin and convince him to take you on as a squire. This will hopefully help you find out who was behind the raid.",
+module,jrl,Categories/3/EntryList/10/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+You have returned to Sir Hawklin and told him about the so-called Witch Lord. Sir Hawklin has told you that the Witch Lords have been dead for many years, but was very concerned about Wyvernvapor's search for the Wyvern Crown. He has told you he will try to confer with the Royal Wizard Caladnei.",
+module,jrl,Categories/3/EntryList/11/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+Riding in the tournament, you have been poisoned by a Black Knight. Caladnei has driven back the magical poison, but was unable to fully cure you. She has however deciphered the map to the Wyvern Crown and is ready to march with a troop of Purple Dragons. She has urged you to lead the troops while she counters the Witch Lord. Whatever happens, Cormyr must reach the Wyvern Crown before the Witch Lord. Even if you wanted to avoid the battle, you must now slay the Witch Lord to break the poison's hold on you.",
+module,jrl,Categories/3/EntryList/12/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+Despite being duped by the Witch Lord into destroying the dragon's base, you have returned to Thunderstone in honor. Sir Hawklin cannot read the map to the Wyvern Crown either, but expects Caladnei to arrive shortly. There is nothing else either of you can do until she arrives, and in the meantime you are the Guest of Honor in the joust. If you can win it, prestige and a new life could be yours, or so Sir Hawklin has suggested.",
+module,jrl,Categories/3/EntryList/13/Text,0,-1,"Your quest for vengeance is almost complete... the Wyvern Crown is in your possession. All that remains is to face down the Witch Lord, who awaits you at the end of the bridge...",
+module,jrl,Categories/3/EntryList/14/Text,0,-1,"Behind you your farm is burnt and your father dead at the hands of unknown raiders. Penniless and thirsting for vengeance, you set out for a new life, taking service with your father's master, Sir Gilbert Hawklin in Thunderstone.
+ 
+You got the information from Manthis regarding the raiders. Sir Hawklin ordered you to the aid of Edgar Truesilver, who has tracked a band of raiders to a nearby barrow. Sir Hawklin has stressed that the aid, or even rescue, of Edgar is more important than the information from Manthis right now.",
+module,jrl,Categories/3/EntryList/15/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+You have discovered from the fisherman the location of Wyvernwater castle. To find it you must follow the coast north until you come to a causeway down to the beach. You will find sandbars stretching west into the lake. These will lead you to the castle, as long as there is fog on the lake. You must find some way to block the Mythallar in Wyvernwater Castle and sink the castle for good. This will prevent the dragon Wyvernvapor from his search for the Wyvern Crown.",
+module,jrl,Categories/3/EntryList/16/Text,0,-1,"Your father and your brother, driven from the King's Forest by blight, have settled on the edge of Hullack Forest, renting farms from the rich merchant Valetto. Though you returned to Cormyr to rescue your country, you found your family needs you more, and you swapped your arms for the equipment of a hunter and a woodcutter.
+
+After a trip gathering lumber in the forest with your brother and Godfroy, you have been called back to your farms by smoke above the trees. There your new lives lie destroyed: flames licking the beams of your farms, and blood pooling around the bodies of your loved ones. You and your companions have decided your best hope is to find Sir Gilbert Hawklin, your father's old master, in Thunderstone.",
+module,jrl,Categories/3/EntryList/17/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+You have returned to Sir Hawklin and told him about the so-called Witch Lord. Sir Hawklin has told you that the Witch Lords have been dead for many years, but was very concerned about Wyvernvapor's search for the Wyvern Crown. He has told you he will try to confer with the Royal Wizard, Caladnei. In the meantime you must deal with the threats you can, and find some way to block the Mythallar in Wyvernwater Castle and sink the castle for good. First you must find the castle, and Sir Hawklin has suggested a fisherman on the edge of Lake Wyvernwater.",
+module,jrl,Categories/3/EntryList/18/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+You have now found Wyvernwater Castle, the lair of the dragon Wyvernvapor. You must find some way to block the Mythallar in Wyvernwater Castle and sink the castle for good. This will prevent the dragon Wyvernvapor from his search for the Wyvern Crown.",
+module,jrl,Categories/3/EntryList/19/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+Battle has been joined, and it seems that Cormyr may have the victory in the battle, but the war is in danger of being lost. The Witch Lord has teleported from the field and can only have gone after the Wyvern Crown. You must reach it first if you are to defeat the Witch Lord and break the poison's hold on you.",
+module,jrl,Categories/3/EntryList/2/Text,0,-1,"Behind you your farm is burnt and your father dead at the hands of unknown raiders. Penniless and thirsting for vengeance, you have been forced to search for a new life, and have set out with your companions for Thunderstone and your father's master Sir Gilbert Hawklin.
+
+You showed your prowess in the tournament in Thunderstone, defeating enough opponents to satisfy Sir Hawklin. Though clearly in financial trouble himself, Sir Hawklin made you a squire and immediately gave you your first task in finding the raiders who destroyed your home. He has sent you to meet Manthis, head of the Forest Folk, who may know who is behind the raids. You will need to journey to Hullack Forest to meet this informant, then share the information using your messenger bird.",
+module,jrl,Categories/3/EntryList/3/Text,0,-1,"Behind you your farm is burnt and your father dead at the hands of unknown raiders. Penniless and thirsting for vengeance, you set out for a new life, taking service with your father's master, Sir Gilbert Hawklin in Thunderstone.
+
+As ordered, you got the information from Manthis regarding the raiders, and sent it by messenger bird to Sir Hawklin. In his reply he has ordered you to the aid of Edgar Truesilver, who has tracked a band of raiders to a nearby barrow.",
+module,jrl,Categories/3/EntryList/4/Text,0,-1,"Behind you your farm is burnt and your father dead at the hands of unknown raiders. Penniless and thirsting for vengeance, you set out for a new life, taking service with your father's master, Sir Gilbert Hawklin in Thunderstone.
+
+You returned to Thunderstone with Edgar Truesilver, only to be arrested as you entered the town! The commander of the Purple Dragons was probably only prevented from stripping you by the arrival of Valetto, with an Adventurer's Charter in hand. Valetto said there was something he would like done in return, and that Sir Hawklin would give you the details. Edgar told you that if you should need him, you should seek him out in the Sign of Thunder Inn.",
+module,jrl,Categories/3/EntryList/5/Text,0,-1,"Behind you your farm is burnt and your father dead at the hands of unknown raiders. Penniless and thirsting for vengeance, you set out for a new life, taking service with your father's master, Sir Gilbert Hawklin in Thunderstone.
+
+For the rescue of Edgar Truesilver and the destruction of the raiders, Sir Hawklin has knighted you, though it will not come into force until confirmed by the Crown. In the meantime Sir Hawklin has urged you to tackle those responsible for the raids now that you know where they originate from. You must travel to Polter's Fort if you wish to put an end to them.",
+module,jrl,Categories/3/EntryList/6/Text,0,-1,"Behind you your farm is burnt and your father dead at the hands of unknown raiders. Penniless and thirsting for vengeance, you set out for a new life, taking service with your father's master, Sir Gilbert Hawklin in Thunderstone.
+
+Deep in the bowels of Polter's Fort you came across a masked creature, referred to as the Witch Lord. You bested this creature, and while pleading for its life, it gave you a stream of information. The self-styled Witch Lord worked for another, the dragon Wyvernvapor, who is searching for the Wyvern Crown. The Witch Lord told you a tale of a magic castle on Lake Wyvernwater that sinks beneath the lake unless there is mist. It seems that Wyvernvapor is the driving force behind the raids that destroyed your home.",
+module,jrl,Categories/3/EntryList/7/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+By removing the crystal ball from its pedestal on the Pinnacle, you have sent Castle Wyvernwater back into the depths of the lake. Without his home, Wyvernvapor will have better things to do than search for the Wyvern Crown. You on the other hand, must get back through the portal and out of the castle before it sinks!",
+module,jrl,Categories/3/EntryList/8/Text,0,-1,"Your quest for vengeance continues. It seems you have been caught up in the hunt for a legendary artifact: the Wyvern Crown.
+
+By removing the crystal ball from its pedestal on the Pinnacle, you have sent Castle Wyvernwater back into the depths of the lake. As you made your escape however, the dragon himself confronted you, revealing to you that you were just a tool. The Witch Lord had fooled you, for hidden within the castle were the phylacteries of the Witch Lords. While these were under the power of the dragon, the Witch Lord, a powerful lich, dared not take the Wyvern Crown for himself. With the dragon's power broken, at least temporarily, it is certain the Witch Lord will strike for the Wyvern Crown. Wyvernvapor gave you an archaic map to find the Crown before the Witch Lord, but you will need Sir Hawklin's help to read it.",
+module,jrl,Categories/3/EntryList/9/Text,0,-1,"Your father and your brother, driven from the King's Forest by blight, have settled on the edge of Hullack Forest, renting farms from the rich merchant Valetto. Though you returned to Cormyr to rescue your country, you found your family needs you more, and you swapped your arms for the equipment of a hunter and a woodcutter.",
+module,jrl,Categories/3/Name,0,-1,A New Life in Cormyr,
+module,jrl,Categories/30/EntryList/0/Text,0,-1,"Mareth the squire has told you to treat any information you get on <CUSTOM1064> with caution, as his style has a lot more variety than some would think. She also told you a tip on how to beat <CUSTOM1061> if you meet. He likes to strike for the helm, so aim for the center-line on him, not Sinister or Dexter, and you'll get through the match.",
+module,jrl,Categories/30/Name,0,-1,Jousting: Various,
+module,jrl,Categories/31/EntryList/0/Text,0,-1,"You have managed to keep your spoils from the barrow by virtue of an Adventurer's Charter, purchased on your behalf by Valetto. The cost for the Charter has however been added to Sir Gilbert Hawklin's debts.",
+module,jrl,Categories/31/EntryList/1/Text,0,-1,"You have managed to keep your spoils from the barrow by virtue of an Adventurer's Charter, purchased on your behalf by Valetto. The cost for the Charter has however been added to Sir Gilbert Hawklin's debts. You are considering whether you should pay Sir Gilbert the 1000 golden lions required to pay off the debt.",
+module,jrl,Categories/31/EntryList/2/Text,0,-1,"You have managed to keep your spoils from the barrow by virtue of an Adventurer's Charter, purchased on your behalf by Valetto. The cost for the Charter has however been added to Sir Gilbert Hawklin's debts. You have promised to pay Sir Gilbert the 1000 golden lions required to pay off the debt.",
+module,jrl,Categories/31/EntryList/3/Text,0,-1,"You have managed to keep your spoils from the barrow by virtue of an Adventurer's Charter, purchased on your behalf by Valetto. The cost for the Charter was however added to Sir Gilbert Hawklin's debts. 
+
+Acting as you believe a true knight should, you have now returned the required 1000 golden lions to Sir Hawklin in order to settle the debt.",
+module,jrl,Categories/31/EntryList/4/Text,0,-1,"You have managed to keep your spoils from the barrow by virtue of an Adventurer's Charter, purchased on your behalf by Valetto. The cost for the Charter was however added to Sir Gilbert Hawklin's debts, very handy, as this means you don't have to pay anything!",
+module,jrl,Categories/31/Name,0,-1,Payment for the Charter,
+module,jrl,Categories/32/EntryList/0/Text,0,-1,"Deep within Polter's Fort, the Witch Lord revealed to you that the piracy that is plaguing Lake Wyvernwater is being carried out by Valetto. The Witch Lord claimed that Valetto was working for the dragon Wyvernvapor, and used the dragon's magic castle to hide his pirate ship from the Cormyrian navy. The magic castle can only be found when there is a mist on the lake.",
+module,jrl,Categories/32/EntryList/1/Text,0,-1,"Deep within Polter's Fort, the Witch Lord revealed to you that the piracy that is plaguing Lake Wyvernwater is being carried out by Valetto. The Witch Lord claimed that Valetto was working for the dragon Wyvernvapor, and used the dragon's magic castle to hide his pirate ship from the Cormyrian navy. The magic castle can only be found when there is a mist on the lake.
+
+You convinced Hawklin of Valetto's guilt and he told you to find and bring the pirate to justice or destroy his ship.",
+module,jrl,Categories/32/EntryList/2/Text,0,-1,"Deep within Polter's Fort, the Witch Lord revealed to you that the piracy that is plaguing Lake Wyvernwater is being carried out by Valetto. The Witch Lord claimed that Valetto was working for the dragon Wyvernvapor, and used the dragon's magic castle to hide his pirate ship from the Cormyrian navy. You found Valetto's ship hidden beneath the castle and set it alight with barrels of oil.",
+module,jrl,Categories/32/EntryList/3/Text,0,-1,"Deep within Polter's Fort, the Witch Lord revealed to you that the piracy that is plaguing Lake Wyvernwater is being carried out by Valetto. The Witch Lord claimed that Valetto was working for the dragon Wyvernvapor, and used the dragon's magic castle to hide his pirate ship from the Cormyrian navy. 
+
+Within the castle you found Valetto himself. He told you that he had been forced to piracy for the greater good in order to search for the Wyvern Crown. You struck a deal with Valetto, allowing him to remove his ship from the castle unharmed. You hope he will prove trustworthy.",
+module,jrl,Categories/32/EntryList/4/Text,0,-1,"Deep within Polter's Fort, the Witch Lord revealed to you that the piracy that is plaguing Lake Wyvernwater is being carried out by Valetto. The Witch Lord claimed that Valetto was working for the dragon Wyvernvapor, and used the dragon's magic castle to hide his pirate ship from the Cormyrian navy. 
+
+Within the castle you found Valetto himself. He told you that he had been forced to piracy for the greater good in order to search for the Wyvern Crown. Despite Valetto's attempts to do a deal with you, you refused and forced him to fight for his life.",
+module,jrl,Categories/32/EntryList/5/Text,0,-1,"Deep within Polter's Fort, the Witch Lord revealed to you that the piracy that is plaguing Lake Wyvernwater is being carried out by Valetto. The Witch Lord claimed that Valetto was working for the dragon Wyvernvapor, and used the dragon's magic castle to hide his pirate ship from the Cormyrian navy. Sure enough, you found Valetto's ship hidden beneath the castle.",
+module,jrl,Categories/32/EntryList/6/Text,0,-1,"Wyvernwater Castle has sunk beneath the waves of Lake Wyvernwater, trapping some of the pirates within and removing their base. Before the castle sank, you struck a deal with Valetto, allowing him and his ship to escape. He now owes you his side of the bargain. You just hope he will prove trustworthy.",
+module,jrl,Categories/32/EntryList/7/Text,0,-1,"Wyvernwater Castle has sunk beneath the waves of Lake Wyvernwater, trapping some of the pirates within and removing their base. Their pirate ship also remains entombed within the castle, destroyed. The Lake is now free of pirates, at least for the moment. Sir Gilbert Hawklin in Thunderstone will be relieved to hear this news.",
+module,jrl,Categories/32/EntryList/8/Text,0,-1,"Wyvernwater Castle has sunk beneath the waves of Lake Wyvernwater, trapping some of the pirates within and removing their base. Their pirate ship also remains entombed within the castle, destroyed. The Lake is now free of pirates, at least for the moment. 
+
+You have delivered the news of your victory to Sir Gilbert.",
+module,jrl,Categories/32/EntryList/9/Text,0,-1,"Wyvernwater Castle has sunk beneath the waves of Lake Wyvernwater, trapping some of the pirates within and removing their base. Before the castle sank, you struck a deal with Valetto, allowing him and his ship to escape. He now owes you his side of the bargain. You just hope he will prove trustworthy.
+
+You have reported the destruction of the pirate base to Sir Hawklin.",
+module,jrl,Categories/32/Name,0,-1,Piracy!,
+module,jrl,Categories/33/EntryList/0/Text,0,-1,"You have met with the satyr Manthis, who has told you that bands of hobgoblins are responsible for the destruction along the edge of Hullack Forest. The raiders originate from fan old fort by the name of Polter's Fort. This was once abandoned but is now inhabited once more.
+
+This is the information that Sir Hawklin was hoping for. You should send the messenger bird he gave you to share it immediately.",
+module,jrl,Categories/33/EntryList/1/Text,0,-1,"You have met with the satyr Manthis, who has told you that bands of hobgoblins are responsible for the destruction along the edge of Hullack Forest. The raiders originate from an old fort by the name of Polter's Fort. This was once abandoned but is now inhabited once more.
+
+Sir Hawklin has sent a reply to your message with this news, urging you to locate the barrow near Four Oaks Farm. A group of Purple Dragons led by Edgar Truesilver have tracked some raiders there. Sir Hawklin has ordered you to go and help Edgar, though you do not know the way to the barrow. Doubtless Manthis will know.",
+module,jrl,Categories/33/EntryList/2/Text,0,-1,"You have met with the satyr Manthis, who has told you that bands of hobgoblins are responsible for the destruction along the edge of Hullack Forest. The raiders originate from an old fort by the name of Polter's Fort. This was once abandoned but is now inhabited once more.
+
+Sir Hawklin has sent a reply to your message with this news, urging you to locate the barrow near Four Oaks Farm. A group of Purple Dragons led by Edgar Truesilver have tracked some raiders there. Sir Hawklin has ordered you to go and help Edgar, and Manthis has told you how to reach the barrow.",
+module,jrl,Categories/33/EntryList/3/Text,0,-1,"You have met with the satyr Manthis, who has told you that bands of hobgoblins are responsible for the destruction along the edge of Hullack Forest. The raiders originate from an old fort by the name of Polter's Fort. This was once abandoned but is now inhabited once more.
+
+You have tracked down Edgar Truesilver and his force, but the battle in the barrow has gone badly. Though Edgar lives, the battle still rages further into the barrow. Edgar has urged you to help clean out the raiders while he heals himself. You are to meet back in the entrance chamber once all the raiders are eliminated.",
+module,jrl,Categories/33/EntryList/4/Text,0,-1,"You have met with the satyr Manthis, who has told you that bands of hobgoblins are responsible for the destruction along the edge of Hullack Forest. The raiders originate from an old fort by the name of Polter's Fort. This was once abandoned but is now inhabited once more.
+
+You tracked down Edgar Truesilver who had been sent by Sir Hawklin to intercept a band of raiders. With your help. the raiders are all dead and Edgar rescued. You should return to Sir Hawklin with Edgar so that you can complete your mission, and find out more about Polter's Fort.",
+module,jrl,Categories/33/EntryList/5/Text,0,-1,"You have met with the satyr Manthis, who has told you that bands of hobgoblins are responsible for the destruction along the edge of Hullack Forest. The raiders originate from an old fort by the name of Polter's Fort. This was once abandoned but is now inhabited once more.
+
+You gave the information to Sir Hawklin, but more pressing business has come up. A group of Purple Dragons led by Edgar Truesilver have tracked some raiders to an old barrow. Sir Hawklin has ordered you to go and help Edgar.",
+module,jrl,Categories/33/Name,0,-1,Raids,
+module,jrl,Categories/34/EntryList/0/Text,0,-1,"While you were buying a horse from Wangle's Livery, Lacinda Cormaeril approached you and asked you if you would be prepared to champion for her in the tournament, in return for the loan of her horse. You agreed, and managed to persuade her that you would make a fine champion. Now all you have to do is live up to her expectations and bring her honor.",
+module,jrl,Categories/34/EntryList/1/Text,0,-1,"While you were buying a horse from Wangle's Livery, Lacinda Cormaeril approached you and asked you if you would be prepared to champion for her in the tournament, in return for the loan of her horse. You agreed, and through some fine jousting have brought her a great deal of honor. As a result she seems to feel indebted to you and has offered to help you in your quest.",
+module,jrl,Categories/34/Name,0,-1,Ride for a Lady,
+module,jrl,Categories/35/EntryList/0/Text,0,-1,"The satyr Manthis, a leader of the Forest Folk who is providing help to Sir Gilbert Hawklin, has outlined troubles of his own. Someone from Thunderstone is hunting the Forest Folk. You have agreed to find out who, and if possible, stop the hunting. If you succeed, Manthis will reward you with something that will allow you to ride so well that others will think you a centaur. Manthis has promised that you will meet again, though he gave no clue when. You must find the answer before this meeting.",
+module,jrl,Categories/35/EntryList/1/Text,0,-1,"The satyr Manthis has told you someone from Thunderstone is hunting the Forest Folk.  You have agreed to find out who, and if possible, stop the hunting. If you succeed, Manthis will reward you with something that will allow you to ride so well that others will think you a centaur. Manthis has promised that you will meet again, though he gave no clue when. You must find the answer before this meeting.
+
+You have discovered from Alice Broadhand that the unicorn horn you are being asked to recover formally belonged to Lord Marvin Huntcrown. It's possible that he got hold of the horn through hunting, though without the horn you have no proof.",
+module,jrl,Categories/35/EntryList/10/Text,0,-1,"The satyr Manthis told you someone from Thunderstone was hunting the Forest Folk. You have managed to work out that Lord Marvin Huntcrown was behind the illegal hunting, but have been unable to get any proof. You have shared your suspicions with Manthis, but were unable to prevent further hunting of the Forest Folk. At least with your information Manthis can have Huntcrown watched.",
+module,jrl,Categories/35/EntryList/2/Text,0,-1,"The satyr Manthis has told you someone from Thunderstone is hunting the Forest Folk.  You have agreed to find out who, and if possible, stop the hunting. If you succeed, Manthis will reward you with something that will allow you to ride so well that others will think you a centaur. Manthis has promised that you will meet again, though he gave no clue when. You must find the answer before this meeting.
+
+Kathryn Hawklin has recalled a conversation she had with Lord Marvin Huntcrown where he mentioned a desire to hunt unicorns. This is your first lead.",
+module,jrl,Categories/35/EntryList/3/Text,0,-1,"The satyr Manthis has told you someone from Thunderstone is hunting the Forest Folk.  You have agreed to find out who, and if possible, stop the hunting. If you succeed, Manthis will reward you with something that will allow you to ride so well that others will think you a centaur. Manthis has promised that you will meet again, though he gave no clue when. You must find the answer before this meeting.
+
+Using your suspicions that Huntcrown is behind the hunting, you have been to his house and blackmailed him. There is no guarantee this will stop the hunting, but it has provided you with a nice some of money.
+",
+module,jrl,Categories/35/EntryList/4/Text,0,-1,"The satyr Manthis has told you someone from Thunderstone is hunting the Forest Folk.  You have agreed to find out who, and if possible, stop the hunting. If you succeed, Manthis will reward you with something that will allow you to ride so well that others will think you a centaur. Manthis has promised that you will meet again, though he gave no clue when. You must find the answer before this meeting.
+
+Kathryn Hawklin has recalled a conversation with Lord Marvin Huntcrown. Lord Huntcrown told her that he had always wanted to hunt unicorns, though unfortunately to do so was illegal.",
+module,jrl,Categories/35/EntryList/5/Text,0,-1,"The satyr Manthis has told you someone from Thunderstone is hunting the Forest Folk.  You have agreed to find out who, and if possible, stop the hunting. If you succeed, Manthis will reward you with something that will allow you to ride so well that others will think you a centaur. Manthis has promised that you will meet again, though he gave no clue when.
+
+You have managed to work out that Lord Marvin Huntcrown was behind the illegal hunting. With the information you have managed to force out of him a written oath to stop. With this you should be able to claim your reward from Manthis, if he ever shows himself again.",
+module,jrl,Categories/35/EntryList/6/Text,0,-1,"The satyr Manthis told you someone from Thunderstone was hunting the Forest Folk. You have managed to work out that Lord Marvin Huntcrown was behind the illegal hunting and managed to force out of him a written oath to stop. With this you claimed your reward from the grateful Manthis, and as a result you are a substantially better rider - though not quite a centaur!",
+module,jrl,Categories/35/EntryList/7/Text,0,-1,"The satyr Manthis has told you someone from Thunderstone is hunting the Forest Folk. You have agreed to find out and prevent if possible the hunting. If you succeed, Manthis will reward you with something that will allow you to ride so well that others will think you a centaur. Manthis has promised that you will meet again, though he gave no clue when. You must find the answer before this meeting.
+
+Using your suspicions that Huntcrown is behind the hunting, you attempted to force an oath out of him to stop. Unfortunately Huntcrown continued to deny any involvement. If you see Manthis again, you can only hope that trying was enough.",
+module,jrl,Categories/35/EntryList/8/Text,0,-1,"The satyr Manthis told you someone from Thunderstone was hunting the Forest Folk. You have managed to work out that Lord Marvin Huntcrown was behind the illegal hunting and managed to force out of him a written oath to stop. With this you had hoped to claim your reward, but this seems unlikely now. After your last meeting with Manthis you got the impression you would not see him again.",
+module,jrl,Categories/35/EntryList/9/Text,0,-1,"The satyr Manthis told you someone from Thunderstone was hunting the Forest Folk. Unfortunately you were not able to work out who was behind it, and therefore could make no effort to stop it. Manthis has told you that you will not meet again, but otherwise seemed to hold no grudge.",
+module,jrl,Categories/35/Name,0,-1,Ride like a Centaur,
+module,jrl,Categories/36/EntryList/0/Text,0,-1,"You have found Sir Gilbert Hawklin in Thunderstone and requested his help in finding revenge for the raid on your farms. It seems though that Sir Hawklin has his own unspecified troubles. He did however make you an offer largely out of respect for your father: defeat two consecutive opponents in a joust tourney and he will take you on as a squire, with a shot at revenge. This is more than likely the only avenue open to you to find revenge any time soon. You will need to defeat two opponents in the joust.",
+module,jrl,Categories/36/EntryList/1/Text,0,-1,"You have succeeded in defeating two opponents in a row in the jousting in the Thunderstone tournament. As result Sir Gilbert Hawklin has promised to aid you in your quest to avenge your father. He has told you to report to him in Hawklin Castle at the south end of Thunderstone once you are ready, where he will give you your first task.",
+module,jrl,Categories/36/EntryList/2/Text,0,-1,"Your first step on the road to avenging your father's murder is completed. Sir Gilbert Hawklin, your father's master, has agreed to take you on as a squire and has paid you in advance to equip yourself. He has made you agree to two conditions: that you obey his orders until he makes you a knight, and that you should behave in a knightly fashion even as a squire.",
+module,jrl,Categories/36/EntryList/3/Text,0,-1,"You have found Sir Gilbert Hawklin in Thunderstone and requested his help in finding revenge for the raid on your farms. It seems though that Sir Hawklin has his own unspecified troubles. He did however make you an offer largely out of respect for your father: defeat two consecutive opponents in a joust tourney and he will take you on as a squire, with a shot at revenge. 
+
+By getting through the first two matches of the tourney, you have ridden well enough in the joust to satisfy Sir Gilbert Hawklin's conditions, though you may continue and attempt to win the tourney if you wish.",
+module,jrl,Categories/36/Name,0,-1,Sir Hawklin's Offer,
+module,jrl,Categories/37/EntryList/0/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He claims that the Matron siezed him and forced him to work for her because of his superior smithcraft.",
+module,jrl,Categories/37/EntryList/1/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He claims that the Matron siezed him and forced him to work for her because of his superior smithcraft.
+
+You have told Londro not to complain about this any more, as you will not be helping him.",
+module,jrl,Categories/37/EntryList/10/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him. You have spoken to the Matron and extracted a promise from her to pay Londro better. However it has transpired that Londro will not be able to make the promised weapon.",
+module,jrl,Categories/37/EntryList/11/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him. You have spoken to the Matron and extracted a promise from her to pay Londro better. However it has transpired that Londro will not be able to make the promised weapon, though you did manage to get some gold out of him, since he made the promise.",
+module,jrl,Categories/37/EntryList/12/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him. 
+
+You have spoken to the Matron and extracted a promise from her to pay Londro better. However it has transpired that Londro will not be able to make the promised weapon. You did however manage to get an oath out of Londro to stop drinking. Perhaps this way he will keep some of his money, live a better life, and put in better work to boot!",
+module,jrl,Categories/37/EntryList/13/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him. You have spoken to the Matron and extracted a promise from her to pay Londro better. However it has transpired that Londro will not be able to make the promised weapon. In punishment you destroyed the document promising him better pay. Perhaps next time Londro will know better than to lie.",
+module,jrl,Categories/37/EntryList/14/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him. You have spoken to the Matron and extracted a promise from her to pay Londro better. However it has transpired that Londro will not be able to make the promised weapon. Even so, you took pity on Londro, and gave him the witnessed document that promised him better pay.",
+module,jrl,Categories/37/EntryList/15/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him.
+
+You have spoken to the Matron and extracted a document from her to pay Londro better and had it witnessed by Mander in the Alehouse. All that remains is to tell Londro and claim your prize.",
+module,jrl,Categories/37/EntryList/2/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He claims that the Matron siezed him and forced him to work for her because of his superior smithcraft. He has offered to craft a magic weapon for those that are prepared to help him.",
+module,jrl,Categories/37/EntryList/3/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He claims that the Matron siezed him and forced him to work for her because of his superior smithcraft. He has offered to craft a magic weapon for those that are prepared to help him, and you have agreed to go and force some decent pay out of the Matron. Her house can be found opposite the Alehouse of Morfen. There is usually a wheelbarrow outside the door.",
+module,jrl,Categories/37/EntryList/4/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He claims that the Matron siezed him and forced him to work for her because of his superior smithcraft.
+
+You gave Londro a little money and told him not to complain about this any more, as you will not be helping him further.",
+module,jrl,Categories/37/EntryList/5/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him, but unfortunately you have been unable to get the Matron to agree. It seems you will have to tell Londro the bad news.",
+module,jrl,Categories/37/EntryList/6/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him. You have spoken to the Matron and extracted a promise from her to pay Londro better. All that remains is to tell Londro and claim your prize.",
+module,jrl,Categories/37/EntryList/7/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him. You have spoken to the Matron and extracted a document from her to pay Londro better. All that remains is to get Mander in the Alehouse to witness it, tell Londro and claim your prize.",
+module,jrl,Categories/37/EntryList/8/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, told you how he was a slave to the 'Matron', with barely enough food to survive. He offered to craft a magic weapon for those that were prepared to help him. You spoke to the Matron, but were unable to help Londro. When you found Londro to tell him, he was drunk and didn't seem too bothered by the news.",
+module,jrl,Categories/37/EntryList/9/Text,0,-1,"Londro Hardhelm, a dwarf that you found in the smithy of Morfen, has told you how he is a slave to the 'Matron', with barely enough food to survive. He has offered to craft a magic weapon for those that are prepared to help him. You have spoken to the Matron and extracted a document from her to pay Londro better. You spoke to Londro, but he reminded you that you need the witness for it to be any use.",
+module,jrl,Categories/37/Name,0,-1,The Apprentice Slave,
+module,jrl,Categories/38/EntryList/0/Text,0,-1,"The Keeper has told you that three keystones are required to open the portal to the Pinnacle, and to unlock the crystal ball from its pedestal. One of these keystones can be found in a room behind the chapel on the upper level of the castle. The Keeper did not tell you what was in that room.",
+module,jrl,Categories/38/EntryList/1/Text,0,-1,In a room behind the old chapel in Wyvernwater castle you came across a strange chamber filled with snakes and weird fungi. In the center of the chamber was a box containing a strange keystone.,
+module,jrl,Categories/38/EntryList/2/Text,0,-1,"The Keeper has told you that three keystones are required to open the portal to the Pinnacle, and to unlock the crystal ball from its pedestal. You have recovered one of these from the room behind the chapel.",
+module,jrl,Categories/38/EntryList/3/Text,0,-1,In a room behind the old chapel in Wyvernwater castle you came across a strange chamber filled with snakes and weird fungi. In the center of the chamber was a box containing a strange keystone. This strange keystone was one of three needed to make the portal in the castle courtyard operate.,
+module,jrl,Categories/38/Name,0,-1,The Chapel Room,
+module,jrl,Categories/39/EntryList/0/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. Jonas seems to have been possessed by the ring, even running at you and trying to kill you. It seems he managed to resist the urge and fled before it could overcome him...
+
+",
+module,jrl,Categories/39/EntryList/1/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. Jonas seems to have been possessed by the ring, killing your companion <CUSTOM1026> and even running at you and trying to kill you. It seems he managed to resist the urge and fled before it could overcome him...
+
+",
+module,jrl,Categories/39/EntryList/10/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison. Only the Witch Lord can lift this poison, voluntarily or by his destruction. You have since seen Jonas riding in the battle against you, though it seems he has fled with the Witch Lord...
+
+
+",
+module,jrl,Categories/39/EntryList/11/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison. Only the Witch Lord can lift this poison, voluntarily or by his destruction.
+
+You found your brother trapped by some strange force that protects the resting place of the Wyvern Crown. At last, able to take your revenge, you have killed him.",
+module,jrl,Categories/39/EntryList/2/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome.
+
+In a house by Polter's Fort, you have found a charm that almost certainly was your brother's. Has he taken up living with the enemy, or was he watching their movements?
+",
+module,jrl,Categories/39/EntryList/3/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison.
+
+",
+module,jrl,Categories/39/EntryList/4/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison. You did not reveal to Caladnei that you knew who this mysterious knight actually was.
+
+",
+module,jrl,Categories/39/EntryList/5/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison. Only the Witch Lord can lift this poison, voluntarily or by his destruction.
+
+",
+module,jrl,Categories/39/EntryList/6/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison. Only the Witch Lord can lift this poison, voluntarily or by his destruction. You did not reveal to Caladnei that you knew who this mysterious knight actually was.
+
+
+",
+module,jrl,Categories/39/EntryList/7/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison. Only the Witch Lord can lift this poison, voluntarily or by his destruction.
+
+You found your brother trapped by some strange force that protects the resting place of the Wyvern Crown. While he was trapped, you managed to remove the ring from his finger, and throw it into the pit.",
+module,jrl,Categories/39/EntryList/8/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison. Only the Witch Lord can lift this poison, voluntarily or by his destruction.
+
+You found your brother trapped by some strange force that protects the resting place of the Wyvern Crown. At last, able to take your revenge, you have killed him.",
+module,jrl,Categories/39/EntryList/9/Text,0,-1,"In a chamber within an old barrow, your brother found an ancient ring. When he picked it up, an apparition appeared and persuaded him to put it on. The ring seemed to drive him to some sort of insanity, and he fled before he could be overcome. Clearly though, he could not resist it for long; riding as a mysterious Black Knight, he carried a tipped lance in the joust and poisoned you with some incurable poison. Only the Witch Lord can lift this poison, voluntarily or by his destruction.
+
+You found your brother trapped by some strange force that protects the resting place of the Wyvern Crown. Freed of both the ring and the bonds by your actions, you have redeemed your brother to fight by your side once more, should you wish it. ",
+module,jrl,Categories/39/Name,0,-1,The Fall of Jonas,
+module,jrl,Categories/4/EntryList/0/Text,0,-1,Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. Eleanor was last seen with a Sembian merchant. Margery has told you how everybody knows the Sembians are slavers. She has urged you to report it to the Crown Office since she has been unable to get any action taken.,
+module,jrl,Categories/4/EntryList/1/Text,0,-1,"Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. Eleanor was last seen with a Sembian merchant. 
+
+Hurim Thiodor, the herald from the Crown Office, has told you that such stories of abduction are commonplace. Though he has investigated them many times, they have always turned out to be false. More likely Eleanor has run off with this merchant, he believes. He has told you to investigate it yourself.",
+module,jrl,Categories/4/EntryList/2/Text,0,-1,"Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. Eleanor was last seen with a Sembian merchant. 
+
+You found Eleanor on a Sembian ship in the docks. She was with Latim Bey, with whom she plans to elope.  There was no evidence of coercion so you took pity on the couple and let them go.",
+module,jrl,Categories/4/EntryList/3/Text,0,-1,"Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. Eleanor was last seen with a Sembian merchant. 
+
+You found Eleanor on a Sembian ship in the docks. She was with Latim Bey, with whom she plans to elope.  Though there was no evidence of coercion, you persuaded the couple to talk it over with Margery before leaving. You may wish to share your decision with Margery in the Furniture's Fate.",
+module,jrl,Categories/4/EntryList/4/Text,0,-1,"Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. Eleanor was last seen with a Sembian merchant. 
+
+You found Eleanor on a Sembian ship in the docks. She was with Latim Bey, with whom she planned to elope. You had a brief struggle with the Sembian, but overpowered him, and can now escort Eleanor back to the Furniture's Fate.",
+module,jrl,Categories/4/EntryList/5/Text,0,-1,"Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. Eleanor was last seen with a Sembian merchant. 
+
+You found Eleanor on a Sembian ship in the docks. She was with Latim Bey, with whom she planned to elope. You had a brief struggle with the Sembian, but overpowered him, and escorted Eleanor back to the Furniture's Fate to be reunited with her mother.",
+module,jrl,Categories/4/EntryList/6/Text,0,-1,"Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. With better things to do, you left the woman to sort out her own troubles.",
+module,jrl,Categories/4/EntryList/7/Text,0,-1,"Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. Eleanor was last seen with a Sembian merchant. 
+
+You found Eleanor on a Sembian ship in the docks. She was with Latim Bey, with whom she planned to elope. You attempted to force Eleanor to return to her mother but were knocked unconscious and dumped on the docks. Since then the ship has been replaced by another and Eleanor is long gone.",
+module,jrl,Categories/4/EntryList/8/Text,0,-1,"Margery Fullston approached you in the Furniture's Fate Inn in Thunderstone with a story of the abduction of her daughter Eleanor. Eleanor was last seen with a Sembian merchant. 
+
+You found Eleanor on a Sembian ship in the docks. She was with Latim Bey, with whom she planned to elope. You were unable to convince her to return to her mother, and passed on this news to Margery in the Furntiture's Fate.",
+module,jrl,Categories/4/Name,0,-1,Abduction,
+module,jrl,Categories/40/EntryList/0/Text,0,-1,"The Keeper has told you that three keystones are required to open the portal to the Pinnacle, and to unlock the crystal ball from its pedestal. One of these keystones can be found in the basement of the castle, protected by a puzzle. The Keeper was a bit vague about the detail, except that he said it involved beams, mirrors and doors. He warned you to be on your guard for working parties of troglodytes who are clearing old collapses.",
+module,jrl,Categories/40/EntryList/1/Text,0,-1,"In the basement of Wyvernwater Castle you worked your way through a strange puzzle to an old chamber. In that chamber you found a strange keystone, though you cannot guess what it is for.",
+module,jrl,Categories/40/EntryList/2/Text,0,-1,"The Keeper has told you that three keystones are required to open the portal to the Pinnacle, and to unlock the crystal ball from its pedestal. You have recovered one of these from a chamber in the basement of the castle, having successfully solved the puzzle that protected it.",
+module,jrl,Categories/40/EntryList/3/Text,0,-1,In the basement of Wyvernwater Castle you worked your way through a strange puzzle to an old chamber. In that chamber you found a strange keystone. This strange keystone was one of three needed to make the portal in the castle courtyard operate.,
+module,jrl,Categories/40/Name,0,-1,The Infernal Puzzle,
+module,jrl,Categories/41/EntryList/0/Text,0,-1,"In Wyvernwater Castle you have come across an eccentric old man who calls himself the Keeper. He has told you that although the Mythallar powers the rise and fall of the castle, what controls it is a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.",
+module,jrl,Categories/41/EntryList/1/Text,0,-1,"In Wyvernwater Castle you have come across an eccentric old man who calls himself the Keeper. He has told you that although the Mythallar powers the rise and fall of the castle, what controls it is a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.
+
+The crystal ball is on a seperate island called the Pinnacle, which can be reached only through the portal in the castle grounds.",
+module,jrl,Categories/41/EntryList/10/Text,0,-1,"In Wyvernwater Castle you came across an eccentric old man who told you that the only way to stop the Mythallar that powers the rise and fall of the castle, was by finding a crystal ball. You removed the crystal ball from its pedestal, causing the castle to sink. As you fled the castle, the dragon Wyvernvapor returned and you gave him the crystal ball.",
+module,jrl,Categories/41/EntryList/2/Text,0,-1,"In Wyvernwater Castle you have come across an eccentric old man who calls himself the Keeper. He has told you that although the Mythallar powers the rise and fall of the castle, what controls it is a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.
+
+The crystal ball is on a seperate island called the Pinnacle, which can be reached only through the portal in the castle grounds. The portal however has been locked. Only possessing the 3 keystones will allow you to pass through the portal. These same keystones will also allow you to remove the ball from the pedestal. Unfortunately these keystones are each guarded by a Guardian.",
+module,jrl,Categories/41/EntryList/3/Text,0,-1,"In Wyvernwater Castle you have come across an eccentric old man who calls himself the Keeper. He has told you that although the Mythallar powers the rise and fall of the castle, what controls it is a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.
+
+The crystal ball is on a seperate island called the Pinnacle, which can be reached only through the portal in the castle grounds. The portal however has been locked. Only possessing the 3 keystones will allow you to pass through the portal. These same keystones will also allow you to remove the ball from the pedestal. You now have one of the keystones.",
+module,jrl,Categories/41/EntryList/4/Text,0,-1,"In Wyvernwater Castle you have come across an eccentric old man who calls himself the Keeper. He has told you that although the Mythallar powers the rise and fall of the castle, what controls it is a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.
+
+The crystal ball is on a seperate island called the Pinnacle, which can be reached only through the portal in the castle grounds. The portal however has been locked. Only possessing the 3 keystones will allow you to pass through the portal. These same keystones will also allow you to remove the ball from the pedestal. You now have all of the keystones.",
+module,jrl,Categories/41/EntryList/5/Text,0,-1,"In Wyvernwater Castle you have come across an eccentric old man who calls himself the Keeper. He has told you that although the Mythallar powers the rise and fall of the castle, what controls it is a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.
+
+The crystal ball is on a seperate island called the Pinnacle, which can be reached only through the portal in the castle grounds. The portal however has been locked. Only possessing the 3 keystones will allow you to pass through the portal. These same keystones will also allow you to remove the ball from the pedestal. You now have two of the keystones.",
+module,jrl,Categories/41/EntryList/6/Text,0,-1,"In Wyvernwater Castle you came across an eccentric old man who told you that the only way to stop the Mythallar that powers the rise and fall of the castle, was by finding a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.
+
+You have reached the Pinnacle, where the crystal ball is to be found. All that remains is to locate the pedestal, and unlock it using the keystones that you possess.",
+module,jrl,Categories/41/EntryList/7/Text,0,-1,"In Wyvernwater Castle you came across an eccentric old man who told you that the only way to stop the Mythallar that powers the rise and fall of the castle, was by finding a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.
+
+You have unlocked the pedestal and removed the crystal ball.",
+module,jrl,Categories/41/EntryList/8/Text,0,-1,"In Wyvernwater Castle you came across an eccentric old man who told you that the only way to stop the Mythallar that powers the rise and fall of the castle, was by finding a crystal ball. You removed the crystal ball from its pedestal, causing the castle to sink. As you fled the castle, the dragon Wyvernvapor returned and you gave him the crystal ball in return for a magic necklace that can summon a wyvern.",
+module,jrl,Categories/41/EntryList/9/Text,0,-1,"In Wyvernwater Castle you came across an eccentric old man who told you that the only way to stop the Mythallar that powers the rise and fall of the castle, was by finding a crystal ball. If the crystal ball were removed from its pedestal then the castle would sink beneath the lake. If the ball is destroyed then the castle will sink below the waves forever.
+
+You have unlocked the pedestal, removed the crystal ball and destroyed it, sending the castle below the waves forever.",
+module,jrl,Categories/41/Name,0,-1,The Mythallar,
+module,jrl,Categories/42/EntryList/0/Text,0,-1,"Magnus, the priest in the Shrine of Tempus in Thunderstone, has told you that Polter's Fort got its name from the Poltergeist that lives there. He has urged you, should you visit the fort, to take with you the means to exorcise the spirit. Probably Magnus has whatever is needed.",
+module,jrl,Categories/42/EntryList/1/Text,0,-1,"Magnus, the priest in the Shrine of Tempus in Thunderstone, has told you that Polter's Fort got its name from the Poltergeist that lives there. He has urged you, should you visit the fort, to exorcise the spirit by subduing it, then sprinkling specially prepared holy water on it. He has given you the holy water to do the job should you encounter the Poltergeist.",
+module,jrl,Categories/42/EntryList/2/Text,0,-1,"Magnus, the priest in the Shrine of Tempus in Thunderstone, told you that Polter's Fort got its name from the Poltergeist that lives there. He urged you to take with you the means to exorcise the spirit.
+
+You managed to subdue the spirit which was possessing a sword. You took the sword, and as you did so the spirit accused you of destroying it. Nevertheless, the power of the poltergeist seems trapped within the sword. This seems to be to your benefit, as the sword has magic powers.",
+module,jrl,Categories/42/EntryList/3/Text,0,-1,"Magnus, the priest in the Shrine of Tempus in Thunderstone, has told you that Polter's Fort got its name from a Poltergeist that lives there. He urged you to take with you the means to exorcise the spirit.
+
+You managed to subdue the spirit, and then by sprinkling holy water along the blade it possessed, free it. In the process the blade broke.",
+module,jrl,Categories/42/EntryList/4/Text,0,-1,"Magnus, the priest in the Shrine of Tempus in Thunderstone, told you that Polter's Fort got its name from the Poltergeist that lived there. You travelled to the fort and subdued the spirit, then released it from it's torment. You reported the deed to Magnus. When you told him about the broken blade, he urged you to take it to the smith in Wangle's Livery and have the weapon reforged.",
+module,jrl,Categories/42/EntryList/5/Text,0,-1,"Magnus, the priest in the Shrine of Tempus in Thunderstone, has told you that Polter's Fort got its name from the Poltergeist that lives there. He urged you to take with you the means to exorcise the spirit.
+
+You managed to subdue the spirit, and then by holy prayers, free it. In the process the blade it possessed broke.",
+module,jrl,Categories/42/EntryList/6/Text,0,-1,"Magnus, the priest in the Shrine of Tempus in Thunderstone, told you that Polter's Fort got its name from the Poltergeist that lived there. You travelled to the fort and subdued the spirit, then released it from it's torment. You reported the deed to Magnus, but avoided mentioning the broken blade that remained, since he seemed a bit too inquisitive.",
+module,jrl,Categories/42/EntryList/7/Text,0,-1,"Magnus, the priest in the Shrine of Tempus in Thunderstone, told you that Polter's Fort got its name from the Poltergeist that lived there. He urged you to take with you the means to exorcise the spirit.
+
+You managed to subdue the spirit which was possessing a sword. You kept this sword, along with the poltergeist in it. However after a while the magic powers of the blade faded and the blade itself crumbled.
+",
+module,jrl,Categories/42/Name,0,-1,The Poltergeist of Polter's Fort,
+module,jrl,Categories/43/EntryList/0/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, has asked you to recover a unicorn horn stolen from one of her clients. It seems that this item is now in the hands of the priest Magnus, in the Shrine of Tempus. Alice Broadhand has offered 800 golden lions for its return. She has recommended to you that threatening Magnus is the most likely way to succeed, but warned you against drawing your weapon.",
+module,jrl,Categories/43/EntryList/1/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, has asked you to recover a unicorn horn stolen from one of her clients. It seems that this item is now in the hands of the priest Magnus, in the Shrine of Tempus. Alice Broadhand has offered 800 golden lions for its return. She has recommended to you that threatening Magnus is the most likely way to succeed, but warned you against drawing your weapon.
+
+You have managed to discover in addition from Alice, that the horn was stolen from Lord Huntcrown.",
+module,jrl,Categories/43/EntryList/10/Text,0,-1,"Alice Broadhand, a shady woman often found in the Six Coffers Trading Coster, is looking for someone to recover a stolen item for her. You have declined the offer.
+",
+module,jrl,Categories/43/EntryList/2/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, has asked you to recover a unicorn horn stolen from one of her clients. It seems that this item is now in the hands of the priest Magnus, in the Shrine of Tempus. Alice Broadhand has offered 800 golden lions for its return. She has recommended to you that threatening Magnus is the most likely way to succeed, but warned you against drawing your weapon.
+
+Kathryn Hawklin has suggested that Lord Huntcrown probably is the one seeking the unicorn horn, as he showed a great deal of interest in one during a recent conversation.",
+module,jrl,Categories/43/EntryList/3/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, has asked you to recover a unicorn horn stolen from one of her clients. Alice Broadhand has offered 800 golden lions for its return. 
+
+Through a mixture of threats and cajoling, you have managed to get the horn out of Magnus the priest and can now return with it to Alice if you wish. Magnus however seemed to think it might serve well for making a magic item and suggested you take the horn to the smith in Wangle's Livery.",
+module,jrl,Categories/43/EntryList/4/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, has asked you to recover a unicorn horn stolen from one of her clients. Alice Broadhand has offered 800 golden lions for its return. 
+
+You have purchased the horn from Magnus the priest and can now return with it to Alice if you wish. Magnus however seemed to think it might serve well for making a magic item and suggested you take the horn to the smith in Wangle's Livery.",
+module,jrl,Categories/43/EntryList/5/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, asked you to recover a unicorn horn stolen from one of her clients. You managed to get the horn from the priest Magnus and return it to Alice. She paid you 800 golden lions for its return, more than the horn was actually worth. 
+",
+module,jrl,Categories/43/EntryList/6/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, asked you to recover a unicorn horn stolen from one of her clients. You managed to get the horn from the priest Magnus and return it to Alice. She paid you 800 golden lions for its return, more than the horn was actually worth. In addition, Alice let slip that client who had requested the return of the horn was Lord Marvin Huntcrown.
+",
+module,jrl,Categories/43/EntryList/7/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, asked you to recover a unicorn horn stolen from one of her clients. You managed to get the horn from the priest Magnus, but instead of taking it to Alice, you took it direct to Lord Huntcrown and set up your own deal.
+
+",
+module,jrl,Categories/43/EntryList/8/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, asked you to recover a unicorn horn stolen from one of her clients. You managed to get the horn from the priest Magnus, but instead of taking it to Alice, you took it to the smith in Wangle's Livery. Together with some old but broken magic items that you had found, the smith reforged a powerful weapon with the horn.",
+module,jrl,Categories/43/EntryList/9/Text,0,-1,"Alice Broadhand, a shady woman who often resides in the Six Coffers Trading Coster, has asked you to recover a unicorn horn stolen from one of her clients. Alice Broadhand has offered 800 golden lions for its return. Unfortunately, whatever you do, Magnus will not surrender the horn.
+
+",
+module,jrl,Categories/43/Name,0,-1,Theft to Order,
+module,jrl,Categories/44/EntryList/0/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. She offered you 200 golden lions for the task. You have declined.",
+module,jrl,Categories/44/EntryList/1/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. She offered you 200 golden lions for the task. You have accepted the task.",
+module,jrl,Categories/44/EntryList/10/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. You found the door and reported it back to Alice, who paid you 200 golden lions.",
+module,jrl,Categories/44/EntryList/2/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. She offered you 200 golden lions for the task. 
+
+You have searched all the likely areas, but have been unable to find the secret door. Perhaps there isn't one? You will need to report back to Alice.",
+module,jrl,Categories/44/EntryList/3/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. She offered you 200 golden lions for the task. 
+
+After some searching of the castle, you have found a lever on one of the statues that opens a secret door. The door seems to be one way, an exit rather than an entrance to the castle. You will need to tell Alice this information.",
+module,jrl,Categories/44/EntryList/4/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. She offered you 200 golden lions for the task. 
+
+You have revealed Alice's request to Sir Gilbert Hawklin. Sir Hawklin has asked you to share with Alice the location of the secret door (which is opened by a lever on one of the statues). He will then try and find out who her client is that requested the information.",
+module,jrl,Categories/44/EntryList/5/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. Though you were unable to find the door, Alice believed you had been thorough enough to prove there wasn't one. She paid you the 200 golden lions for the task, despite finding nothing.",
+module,jrl,Categories/44/EntryList/6/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. You were unable to find the door and Alice saw straight through your lies when you tried to bluff her, so the job ended up being a waste of time.",
+module,jrl,Categories/44/EntryList/7/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. You were unable to find the door. Instead, you fed Alice a lie and she believed you. She paid you the 200 golden lions for the task, despite the fact that you actually found nothing in the castle.",
+module,jrl,Categories/44/EntryList/8/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. You found the door and reported it back to Alice, who paid you 200 golden lions.",
+module,jrl,Categories/44/EntryList/9/Text,0,-1,"In the Six Coffers Trading Coster, a woman by the name of Alice Broadhand asked you to search Hawklin Castle for a secret door on behalf of an unidentified client. Sir Hawklin asked you to report the location of the door back to Alice Broadhand, which you have done. Alice paid you for the information, little knowing that Sir Hawklin is now watching her.",
+module,jrl,Categories/44/Name,0,-1,To be a Spy,
+module,jrl,Categories/45/EntryList/0/Text,0,-1,"With the help of Sir Gilbert Hawklin, you have received 200 golden lions for revealing to Alice Broadhand the location of a secret door in Hawklin Castle. Little did Alice know that she is now being trailed. You should check whether Sir Hawklin has made any progress in finding out who was behind the request to spy on his castle.",
+module,jrl,Categories/45/EntryList/1/Text,0,-1,"Sir Gilbert Hawklin has discovered that the spies who have been seeking information on his castle are a group of Sembian merchants and a local woman. After having them followed, he has discovered they are currently in a house opposite the Sign of Thunder inn. He has urged you to go and clean out this house as a service to him. None of the occupants must escape.",
+module,jrl,Categories/45/EntryList/2/Text,0,-1,"Sir Gilbert Hawklin has discovered that the spies who have been seeking information on his castle are a group of Sembian merchants and a local woman. You attempted to surprise the spies in a house in Thunderstone, but unfortunately it seems that one escaped using some kind of teleportation spell. Now that one of the Sembians is loose, there are bound to be repercussions.",
+module,jrl,Categories/45/EntryList/3/Text,0,-1,"The mystery of who has been spying on Sir Gilbert Hawklin's castle seems to have been cleared up. The agent who escaped you in Thunderstone had laid an ambush for you on the road. The agent was carrying a note clearly written on behalf of the Witch Lord, since the agent originated from Polter's Fort. Hawklin will be interested to hear this.",
+module,jrl,Categories/45/EntryList/4/Text,0,-1,"Sir Gilbert Hawklin discovered that the spies who have been seeking information on his castle were a group of Sembian merchants and a local woman. After having them followed, he discovered they were in a house opposite the Sign of Thunder inn. He urged you to go and clean out this house but you made it clear it was not your business, nor your duty.",
+module,jrl,Categories/45/EntryList/5/Text,0,-1,"The mystery of who has been spying on Sir Gilbert Hawklin's castle seems to have been cleared up. The agent who escaped you in Thunderstone had laid an ambush for you on the road. The agent was carrying a note clearly written on behalf of the Witch Lord, since the agent originated from Polter's Fort, though it isn't clear how old the orders are. Hawklin has warned you to be on your guard against any surviving agents of the Witch Lord.",
+module,jrl,Categories/45/Name,0,-1,To Catch a Spy,
+module,jrl,Categories/46/EntryList/0/Text,0,-1,"You have bought a map from Mander, the barman in the Alehouse in Morfen, that shows the location of some treasure. According to him, the treasure is likely to be unclaimed, since it is guarded. The map carries details of how to find the treasure's location, in a swamp just off the road to Thunderstone. The treasure itself is supposedly hidden beneath a rock.",
+module,jrl,Categories/46/EntryList/1/Text,0,-1,"You have bought a map from Mander, the barman in the Alehouse in Morfen, that shows the location of some treasure. According to him, the treasure is likely to be unclaimed, since it is guarded.
+
+You have found your way to the swamp where the treasure is purported to lie hidden beneath a rock.",
+module,jrl,Categories/46/EntryList/2/Text,0,-1,"It turns out that the map Mander sold you was genuine. Within the swamp near the road to Thunderstone, you came across the Curst and its treasure. The treasure was indeed hidden beneath a rock.",
+module,jrl,Categories/46/Name,0,-1,Treasure Map,
+module,jrl,Categories/47/EntryList/0/Text,0,-1,"VERSION INFORMATION:
+Module Version: 3.10
+
+This journal entry is provided for testers and will be removed when module is to be released.   It typically uses this scheme.
+VERSION.revision number
+",
+module,jrl,Categories/47/Name,0,-1,Version,
+module,jrl,Categories/48/EntryList/0/Text,0,-1,"Within the burning remains of your father's farmhouse, you have found his old magic sword. The sword however is broken and useless to you unless you can find some way to fix it.",
+module,jrl,Categories/48/EntryList/1/Text,0,-1,"Within the barrow you were sent to help Edgar Truesilver, you have come across an old spearhead. You can feel the magic in the spearhead but it is broken and useless to you unless you can find some way to fix it.",
+module,jrl,Categories/48/EntryList/10/Text,0,-1,"Within the burning remains of your father's farmhouse, you found his old magic sword. The sword however is broken and useless to you unless you can find some way to fix it. Londro Hardhelm, a smith in Morfen confessed to you that he thought such a blade could never be fixed.",
+module,jrl,Categories/48/EntryList/2/Text,0,-1,"Deep within Polter's Fort you found the poltergeist after which it was named. You defeated the poltergeist, exorcising its spirit from the sword it inhabited. All that is left is a broken blade, though you can still feel magic within it.",
+module,jrl,Categories/48/EntryList/3/Text,0,-1,"Hidden within an ancient treasury deep in Wyvernwater Castle, you have come across an old but broken blade, possibly from an axe or poleaxe. You can tell it is magic by the faint hum it emits, though without some way of reforging it, it is useless to you.",
+module,jrl,Categories/48/EntryList/4/Text,0,-1,"The smith in Wangle's Livery in Thunderstone has looked at a broken magic weapon you brought in, and has told you that it can be reforged. She has urged you not only to find more similar pieces, but also to collect special ingredients that can be used to set magic properties on the weapon when it is reforged. One such ingredient is Fairy Dust, which can be obtained from the Six Coffers Trading Coster in Thunderstone.
+
+You have now collected two broken magic weapons.",
+module,jrl,Categories/48/EntryList/5/Text,0,-1,"The smith in Wangle's Livery in Thunderstone has looked at a broken magic weapon you brought in, and has told you that it can be reforged. She has urged you not only to find more similar pieces, but also to collect special ingredients that can be used to set magic properties on the weapon when it is reforged. One such ingredient is Fairy Dust, which can be obtained from the Six Coffers Trading Coster in Thunderstone.
+
+You have now collected three broken magic weapons.",
+module,jrl,Categories/48/EntryList/6/Text,0,-1,"The smith in Wangle's Livery in Thunderstone has looked at a broken magic weapon you brought in, and has told you that it can be reforged. She has urged you not only to find more similar pieces, but also to collect special ingredients that can be used to set magic properties on the weapon when it is reforged. One such ingredient is Fairy Dust, which can be obtained from the Six Coffers Trading Coster in Thunderstone.
+
+Hidden within an ancient treasury deep in Wyvernwater Castle, you have come across an old but broken blade, possibly from an axe or poleaxe. You can tell it is magic by the faint hum it emmits. You have now collected four broken magic weapons.",
+module,jrl,Categories/48/EntryList/7/Text,0,-1,"The smith in Wangle's Livery in Thunderstone has looked at a broken magic weapon you brought in, and has told you that it can be reforged. She has urged you not only to find more similar pieces, but also to collect special ingredients that can be used to set magic properties on the weapon when it is reforged. One such ingredient is Fairy Dust, which can be obtained from the Six Coffers Trading Coster in Thunderstone.",
+module,jrl,Categories/48/EntryList/8/Text,0,-1,"With the help of the smith in Wangle's Livery, you have forged a weapon worthy of a true knight. With such a weapon in hand, who can stand before you?",
+module,jrl,Categories/48/EntryList/9/Text,0,-1,"Within the burning remains of your father's farmhouse, you found his old magic sword. The sword however is broken and useless to you unless you can find some way to fix it. The Matron, a smith in Morfen, told you that reforging the weapon was beyond her, though she knew that some smiths were capable of such a feat.",
+module,jrl,Categories/48/Name,0,-1,Weapon of a True Knight,
+module,jrl,Categories/49/EntryList/0/Text,0,-1,"The Keeper has told you that three keystones are required to open the portal to the Pinnacle, and to unlock the crystal ball from its pedestal. One of these keystones can be found on the roof in whatever serves the wyverns as a home.",
+module,jrl,Categories/49/EntryList/1/Text,0,-1,On the roof of Wyvernwater Castle you came across a roosting place for wyverns. In amongst their garbage you found a strange keystone.,
+module,jrl,Categories/49/EntryList/2/Text,0,-1,"The Keeper has told you that three keystones are required to open the portal to the Pinnacle, and to unlock the crystal ball from its pedestal. You have recovered one of these from the wyverns on the roof.",
+module,jrl,Categories/49/EntryList/3/Text,0,-1,On the roof of Wyvernwater Castle you came across a roosting place for wyverns. In amongst their garbage you found a keystone. This strange keystone was one of three needed to make the portal in the castle courtyard operate.,
+module,jrl,Categories/49/Name,0,-1,Wyverns on the Roof,
+module,jrl,Categories/5/EntryList/0/Text,0,-1,"Cormyr, the land of your birth, and the land you love, is a different place from the land you left. When you set forth upon your adventures, Cormyr was an oasis of stability, enjoying the long and largely peaceful reign of King Azoun IV. When rumors of war reached you on your travels, you rushed back to find Cormyr very different. The King and his daughter Tanalasta were dead, sacrificed in the fight to bring Cormyr victory against the Devil Dragon and the ghazneths. Much of the country has been laid to waste by war and by blight. The ghazneths, strange warped creatures formed from ancient traitors to Cormyr, have sucked dry much of the magic to be found, and destroyed farmland and crops with their blight. Victory and peace have come at a great cost.
+
+Alusair, the princess and regent of Cormyr, walks a delicate path of diplomacy, a role she is largely unsuited for, while the people of Cormyr struggle to get their lives back in order. Your father and brother Jonas have been forced to move by the blight. They have rented a farm at the edge of Hullack Forest, and with peace returning, you have returned to Cormyr in time to help them rebuild your family's fortunes.
+
+But with the Sembians agitating to the east, a strange silence to the north and lawlessness along the forest edges, Cormyr's troubles are far from over...",
+module,jrl,Categories/5/EntryList/1/Text,0,-1,"Cormyr, the land of your birth, and the land you love, is a different place from the land you left. When you set forth upon your adventures, Cormyr was an oasis of stability, enjoying the long and largely peaceful reign of King Azoun IV. When rumors of war reached you on your travels, you rushed back to find Cormyr very different. The King and his daughter Tanalasta were dead, sacrificed in the fight to bring Cormyr victory against the Devil Dragon and the ghazneths. Much of the country has been laid to waste by war and by blight. The ghazneths, strange warped creatures formed from ancient traitors to Cormyr, have sucked dry much of the magic to be found, and destroyed farmland and crops with their blight. Victory and peace have come at a great cost.
+
+Alusair, the princess and regent of Cormyr, walks a delicate path of diplomacy, a role she is largely unsuited for, while the people of Cormyr struggle to get their lives back in order. Your father and brother Jonas have been forced to move by the blight. They have rented a farm at the edge of Hullack Forest, and with peace returning, you have returned to Cormyr in time to help them rebuild your family's fortunes.
+
+But with the Sembians agitating to the east, a strange silence to the north and lawlessness along the forest edges, Cormyr's troubles are far from over...",
+module,jrl,Categories/5/Name,0,-1,Background,
+module,jrl,Categories/6/EntryList/0/Text,0,-1,"You met the merchant Valetto, the owner of your destroyed home. He has taken some pity on your circumstances and offered you the chance to travel with him to Thunderstone in return for guarding his caravan.",
+module,jrl,Categories/6/EntryList/1/Text,0,-1,"You met the merchant Valetto, the owner of your destroyed home. He took pity on your circumstances and offered you the chance to travel with him to Thunderstone in return for guarding his caravan. You accepted.",
+module,jrl,Categories/6/EntryList/2/Text,0,-1,"You met the merchant Valetto, the owner of your destroyed home. He took pity on your circumstances and offered you the chance to travel with him to Thunderstone in return for guarding his caravan. You managed to persuade him to pay you the regular rate before accepting.",
+module,jrl,Categories/6/EntryList/3/Text,0,-1,"You met the merchant Valetto, the owner of your destroyed home. He took pity on your circumstances and offered you the chance to travel with him to Thunderstone in return for guarding his caravan. You declined. Valetto also advised you to close any affairs in Morfen as the road will likely soon be closed.",
+module,jrl,Categories/6/EntryList/4/Text,0,-1,"In Morfen you met the merchant Valetto, the owner of your destroyed home. He took pity on your circumstances and offered you the chance to travel with him to Thunderstone in return for guarding his caravan. 
+
+On the road the caravan has been forced to stop because of a problem with one of the wagons. Valetto has told you to scout the area while he sees to the problem.",
+module,jrl,Categories/6/EntryList/5/Text,0,-1,"In Morfen you met the merchant Valetto, the owner of your destroyed home. He took pity on your circumstances and offered you the chance to travel with him to Thunderstone in return for guarding his caravan. 
+
+You have survived an attack by bandits on the caravan. Confident that the caravan is now safe, Valetto has told you to head on to Thunderstone alone.
+",
+module,jrl,Categories/6/EntryList/6/Text,0,-1,"In Morfen you met the merchant Valetto, the owner of your destroyed home. He took pity on your circumstances and offered you the chance to travel with him to Thunderstone in return for guarding his caravan. 
+
+You have survived an attack by bandits on the caravan. Glad of your help, Valetto gave you a bonus for your part in the battle. Confident that the caravan is now safe, Valetto has also told you to head on to Thunderstone alone.",
+module,jrl,Categories/6/EntryList/7/Text,0,-1,"In Morfen you met the merchant Valetto, the owner of your destroyed home. He took pity on your circumstances and offered you the chance to travel with him to Thunderstone in return for guarding his caravan. 
+
+You have survived an attack by bandits on the caravan. Confident that the caravan is now safe, you have set off for Thunderstone alone.
+",
+module,jrl,Categories/6/Name,0,-1,Caravan Duty,
+module,jrl,Categories/7/EntryList/0/Text,0,-1,"Occasionally in your travels you may come across a cursed item. If you are unfortunate enough to pick it up, you will not be able to avoid using the item, and will have to seek help to get it removed. Usually a priest is a good place to start for this.",
+module,jrl,Categories/7/EntryList/1/Text,0,-1,"You have managed to get rid of the cursed item you had found, using your own wits.",
+module,jrl,Categories/7/EntryList/2/Text,0,-1,"You have managed to get rid of the cursed item you had found, with the help of Magnus, the priest of Tempus in Thunderstone.",
+module,jrl,Categories/7/Name,0,-1,Cursed!,
+module,jrl,Categories/8/EntryList/0/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Hurim Thioder, the Herald and officer of the Crown in Thunderstone has agreed to issue you a licence to bury your father's remains, but you will need to pay him for it.",
+module,jrl,Categories/8/EntryList/1/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Hurim Thioder, the Herald and officer of the Crown in Thunderstone has granted you a licence to bury your father's remains. You took the licence to the gravedigger, but do not yet have the money to pay for the grave.",
+module,jrl,Categories/8/EntryList/10/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Jenny Drabb has told you how she saw your father's grave being defaced by <CUSTOM1022>, whom you defeated in the joust. <CUSTOM1022> can sometimes be found in the Sign of Thunder when he stays in Thunderstone.",
+module,jrl,Categories/8/EntryList/11/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Hurim Thioder, the Herald and officer of the Crown in Thunderstone has granted you a licence to bury your father's remains. You took the licence to the gravedigger, but have decided that it is not worth the cost to bury your father's remains in Kelemvor's Garden.",
+module,jrl,Categories/8/EntryList/12/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. You found the culprit, <CUSTOM1022> and made them pay for their crime, then you ordered a new gravestone. Hopefully your father can now rest in peace in Kelemvor's Garden.",
+module,jrl,Categories/8/EntryList/13/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. You have hunted down the culprit, <CUSTOM1022>, and made them do a penance over your father's grave. You have still to order a new gravestone though.",
+module,jrl,Categories/8/EntryList/14/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. You have reported this outrage to Hurim Thiodor in the Crown Office, and he has promised to investigate it. You have still to order a new gravestone though.",
+module,jrl,Categories/8/EntryList/15/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. You found the culprit, <CUSTOM1022> and made them pay for their crime, then you ordered a new gravestone. Hopefully your father can now rest in peace in Kelemvor's Garden.
+",
+module,jrl,Categories/8/EntryList/16/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. You found the culprit, <CUSTOM1022> and made them do a pennance for their crime, then you ordered a new gravestone. Hopefully your father can now rest in peace in Kelemvor's Garden.
+",
+module,jrl,Categories/8/EntryList/17/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. You have reported this outrage to Hurim Thiodor in the Crown Office, and he has promised to investigate it, then you ordered a new gravestone. Hopefully your father can now rest in peace in Kelemvor's Garden.",
+module,jrl,Categories/8/EntryList/18/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Hurim Thioder, the Herald and officer of the Crown in Thunderstone has granted you a licence to bury your father's remains. You should show this licence to the gravedigger who lives next to the cemetery.",
+module,jrl,Categories/8/EntryList/19/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. Once your father's remains were safely reburied properly, you contracted Alice Broadhand to murder <CUSTOM1022> as revenge for defacing your father's grave. A few days after you contacted Alice, <CUSTOM1022> was to disappear for good.",
+module,jrl,Categories/8/EntryList/2/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Hurim Thioder, the Herald and officer of the Crown in Thunderstone has granted you a licence to bury your father's remains. You took the licence to the gravedigger, but have nothing to bury since you did not recover your father's remains.",
+module,jrl,Categories/8/EntryList/3/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Hurim Thioder, the Herald and officer of the Crown in Thunderstone has granted you a licence to bury your father's remains. You took the licence to the gravedigger, and paid for the grave and for the burial to take place.",
+module,jrl,Categories/8/EntryList/4/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. You have ordered a new gravestone, but have yet to find the culprit who vandalized your father's grave.",
+module,jrl,Categories/8/EntryList/5/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. You have hunted down the culprit, <CUSTOM1022>, who you beat in the joust, and forced some money out of them to pay for this outrage. You have still to order a new gravestone though.",
+module,jrl,Categories/8/EntryList/6/Text,0,-1,"Amongst the burning remains of your farm you came across the charred but intact chest of your father's. Amongst the contents you found his Will. He expressed within it the hope that he might be buried in the Family Grave in Thunderstone after he died. Now destitute, you have no way to get his body there, but you might at least be able to bury his head in honor of his wishes.",
+module,jrl,Categories/8/EntryList/7/Text,0,-1,"Amongst the burning remains of your farm you came across the charred but intact chest of your father's. Amongst the contents you found his Will. He expressed within it the hope that he might be buried in the Family Grave in Thunderstone after he died.
+
+The gravedigger in Thunderstone has told you that in order to do the burial and make the grave, you will need a licence as plots within Kelemvor's Garden are now very limited. A licence can be obtained at the Crown Office on the central square of Thunderstone.",
+module,jrl,Categories/8/EntryList/8/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone.",
+module,jrl,Categories/8/EntryList/9/Text,0,-1,"Your father always expressed the hope that he might be buried in the Family Grave in Thunderstone after he died. You have set out to fulfill his wishes.
+
+Your father's remains now lie buried in the family plot in Kelemvor's Garden, but when you went to the grave, you discovered that it had been defaced by someone. The old man at a nearby grave told that you a woman by the name of Jenny Drabb may know more about this. She can sometimes be found in the Furniture's Fate on the east side of Thunderstone.",
+module,jrl,Categories/8/Name,0,-1,Family Grave,
+module,jrl,Categories/9/EntryList/0/Text,0,-1,"Jenny Drabb has asked for a favor from you in return for the information on who defaced your father's grave. Overcome with love for an unnamed lord, she wants to win his affection by giving him the hide of the fabled White Stag. She knows little of the White Stag; only that it is fast, lives in the forest, and you will need to get close if you are to kill it without damaging its hide.",
+module,jrl,Categories/9/EntryList/1/Text,0,-1,"Jenny Drabb has asked for a favor from you in return for the information on who defaced your father's grave. Overcome with love for an unnamed lord, she wants to win his affection by giving him the hide of the fabled White Stag. She knows little of the White Stag; only that it is fast, lives in the forest, and you will need to get close if you are to kill it without damaging its hide.
+
+Lord Huntcrown has told you to look for the Stag around Lake Wyvernwater. He warned you against using magic on the stag, as this will surely damage the hide.",
+module,jrl,Categories/9/EntryList/2/Text,0,-1,"Jenny Drabb has asked for a favor from you in return for the information on who defaced your father's grave. Overcome with love for an unnamed lord, she wants to win his affection by giving him the hide of the fabled White Stag. She knows little of the White Stag; only that it is fast, lives in the forest, and you will need to get close if you are to kill it without damaging its hide.
+
+A fisherman who lives on the shore of Lake Wyvernwater has told you how the White Stag sometimes can be seen on the other side of the chasm behind his hut, though he believed you would need a rope or a horse to cross the chasm. He tried to catch the Stag once, but it was too fast for him.",
+module,jrl,Categories/9/EntryList/3/Text,0,-1,"Jenny Drabb in the Furniture's Fate in Thunderstone asked for a favor from you in return for the information on who defaced your father's grave. Overcome with love for an unnamed lord, she wants to win his affection by giving him the hide of the fabled White Stag. 
+
+You have found the White Stag, and skillfully hunted it, bringing it down without damaging the hide. The beautiful coat is likely to be worth quite a lot.
+
+",
+module,jrl,Categories/9/EntryList/4/Text,0,-1,"Jenny Drabb in the Furniture's Fate in Thunderstone asked for a favor from you in return for the information on who defaced your father's grave. Overcome with love for an unnamed lord, she wants to win his affection by giving him the hide of the fabled White Stag. 
+
+You have found the White Stag, and managed to catch and kill it. Unfortunately, since you are not a skilled hunter, you botched the kill and damaged the hide. The beautiful coat is likely to be worth very little now.
+
+",
+module,jrl,Categories/9/EntryList/5/Text,0,-1,"Jenny Drabb in the Furniture's Fate in Thunderstone asked for a favor from you in return for the information on who defaced your father's grave. Overcome with love for an unnamed lord, she wants to win his affection by giving him the hide of the fabled White Stag. 
+
+You managed to locate the White Stag, but it was far too fast for you and escaped into the forest. It looks like Jenny Drabb's love will remain unanswered.
+
+",
+module,jrl,Categories/9/EntryList/6/Text,0,-1,"Jenny Drabb in the Furniture's Fate in Thunderstone asked for a favor from you in return for the information on who defaced your father's grave. Overcome with love for an unnamed lord, she wants to win his affection by giving him the hide of the fabled White Stag. 
+
+You found the White Stag, and skilfully hunted it, bringing it down without damaging the hide so that you could deliver it to Jenny in Thunderstone. She was almost overcome with thanks, declaring you the swiftest knight in the land.
+
+",
+module,jrl,Categories/9/EntryList/7/Text,0,-1,"Jenny Drabb in the Furniture's Fate in Thunderstone asked for a favor from you in return for the information on who defaced your father's grave. Overcome with love for an unnamed lord, she wants to win his affection by giving him the hide of the fabled White Stag. 
+
+You found the White Stag and killed it, but unfortunately damaged its hide. When you tried to give it to Jenny in Thunderstone she was distraught to find the hide was damaged and useless to her. Though you have earned a reputation as one of the swiftest knights in the land, Jenny's love will remain unrequited.
+
+",
+module,jrl,Categories/9/Name,0,-1,For the Love of a Lord,

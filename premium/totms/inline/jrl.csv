@@ -1,0 +1,462 @@
+﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+module,jrl,Categories/0/EntryList/0/Text,0,-1,"Your Harper contact, Ulblyn Blackalbuck, informed you that an adventuring party known as the Dukes of Daggerford recently returned from the Kur-Tharsu stronghold in Thar. They may know more about the whereabouts of Maganus. 
+
+The Dukes are somewhere in Melvaunt still. You should check the local inns and taverns.",
+module,jrl,Categories/0/EntryList/1/Text,0,-1,"You spoke with the Dukes, a decidedly odd bunch, and learned that a wizard calling himself ""the Raven Mage"" is working with the ogres of Kur-Tharsu. This is almost certainly an alias of Maganus, who often takes raven form. ",
+module,jrl,Categories/0/Name,0,-1,A Date with the Dukes,
+module,jrl,Categories/1/EntryList/0/Text,0,-1,"You met a merchant named Cheswick and his wife, Amberlyn, outside Hillsfar. They need shelter until Hillsfar opens its gates. You offered to help them find a temporary solution, should the opportunity present itself.",
+module,jrl,Categories/1/EntryList/1/Text,0,-1,"You met a merchant named Cheswick and his wife, Amberlyn, outside Hillsfar. They needed shelter until Hillsfar opens its gates. You told them of Ogson's caravan, stranded outside Yulash. Though the caravan is small, it should suffice as a temporary shelter for Cheswick and his wife. You should check on them at some point to ensure they arrived safely.",
+module,jrl,Categories/1/EntryList/2/Text,0,-1,"You encountered Cheswick on the road to Voonlar. He made it to Ogson's caravan, but his wife wasn't so fortunate. A tribe of frost giants thundered from the hills and kidnapped her. 
+
+You have agreed to rescue Amberlyn. Cheswick believes the frost giants can be found somewhere west of Yulash.",
+module,jrl,Categories/1/EntryList/3/Text,0,-1,"Following an encounter with the frost giant jarl, you were able to rescue Amberlyn before she ended up in the giant's cook pot. Amberlyn then informed you Cheswick bargained her away in return for his own life. He even seemed to derive pleasure from the act, going so far as to boast he would send you after her in order to get you killed.
+
+You should escort Amberlyn back to Ogson's caravan.",
+module,jrl,Categories/1/EntryList/4/Text,0,-1,"Cheswick was gone when you arrived. He fled upon being caught attempting to steal Ogson's merchandise. He left behind a dagger with the strange inscription ""Hidden but never unseen.""
+
+Ogson offered Amberlyn the shelter of his wagon after taking pity on her plight. Cheswick's current location is unknown, but you get the feeling you haven't seen the last of the treacherous merchant.",
+module,jrl,Categories/1/Name,0,-1,A Tale of Two Merchants,
+module,jrl,Categories/10/EntryList/0/Text,0,-1,"You have been joined by a sentient, floating longsword calling itself Beirmoura, aka the Bright Sword of Thentia. Identifying as female, she holds a burning hatred of wizards, particularly the Netherese. In addition to following you around and fighting your enemies, Beirmoura is willing to be wielded in combat. You need only ask her.",
+module,jrl,Categories/10/Name,0,-1,Companion: Beirmoura,
+module,jrl,Categories/11/EntryList/0/Text,0,-1,"A half-elven wizard from Waterdeep, Eremuth Silverwind, has joined you on your quest. He is highly intelligent and obviously powerful, but behind his delicate good looks and rapier wit, you sense a darker soul. Eremuth's motivation for joining you seems to be the pursuit of power rather than a desire to make the Moonsea safe from the Order of the Crippled Fang.",
+module,jrl,Categories/11/EntryList/1/Text,0,-1,"Your companion Eremuth turned out to be a malaugrym, an evil shapeshifter from the Plane of Shadow. Whatever alliance you once had is permanently severed.",
+module,jrl,Categories/11/Name,0,-1,Companion: Eremuth,
+module,jrl,Categories/12/EntryList/0/Text,0,-1,"An undead rogue named Lyressa has joined your party. Unlike other undead, Lyressa is self-aware and harbors no ill will towards the living. She claims to remember nothing of her former life and that her memories stretch back only a few years to when she awakened in a necromancer's laboratory in Suzail. One thing is certain: she is a thief of almost unsurpassed skill.",
+module,jrl,Categories/12/EntryList/1/Text,0,-1,"With her memories restored, Lyressa is a different person. She is a cold-blooded killer in every sense of the phrase. Her assassin training should prove useful in combat.",
+module,jrl,Categories/12/Name,0,-1,Companion: Lyressa,
+module,jrl,Categories/13/EntryList/0/Text,0,-1,The Harper agent Sharalyn Lockleaf has joined your party. The bard is highly knowledgeable about the Moonsea region and possesses a diverse set of skills to assist you in your quest.,
+module,jrl,Categories/13/Name,0,-1,Companion: Sharalyn,
+module,jrl,Categories/14/EntryList/0/Text,0,-1,"You have unlocked the door of the keep belonging to Dragoth the Bone Mage, a necromancer and Lyressa's former lover. You should head within and see what you can uncover about his relationship with your traveling companion.",
+module,jrl,Categories/14/EntryList/1/Text,0,-1,"You met a skeletal butler, who was in actuality a conduit for Dragoth's voice. The necromancer was shocked to see Lyressa and invited her to his study so that he may explain what happened to her.",
+module,jrl,Categories/14/EntryList/2/Text,0,-1,"Dragoth revealed that he performed the ritual that resulted in Lyressa's current state in order to save her life after the two fought. The ritual was a failure, and he accidentally wiped her memories in addition to damning her to an undead state. He offered to perform another ritual to restore her memories and skills, but disgusted by what she had learned from her former lover, Lyressa refused.
+
+A distraught Dragoth will now have to spend his remaining years alone with the dead, reflecting on his poor decisions.
+",
+module,jrl,Categories/14/EntryList/3/Text,0,-1,"Dragoth revealed that he performed the ritual that resulted in Lyressa's current state in order to save her life after the two fought. The ritual was a failure, and he accidentally wiped her memories in addition to damning her to an undead state. He offered to perform another ritual to restore her memories and skills, but disgusted by what she had learned from her former lover, Lyressa refused.
+
+A distraught Dragoth will now have to spend his remaining years alone with the dead, reflecting on his poor decisions.
+",
+module,jrl,Categories/14/EntryList/4/Text,0,-1,"You decided to kill Dragoth anyway. All things considered, he was probably grateful for death.",
+module,jrl,Categories/14/EntryList/5/Text,0,-1,"Dragoth revealed that he performed the ritual that resulted in Lyressa's current state in order to save her life after the two fought. The ritual was a failure, and he accidentally wiped her memories in addition to damning her to an undead state. He offered to perform another ritual to restore her memories and skills, and Lyressa agreed.
+
+The ritual was a success - and a renewed Lyressa promptly killed her former lover. She is not the same person she was before. Indeed, she is now an assassin to rival the best in the Realms.",
+module,jrl,Categories/14/EntryList/6/Text,0,-1,"You handed Lyressa Dragoth's journal, which recorded the sorry chain of events that led to her current situation. At least she now knows who she truly is.",
+module,jrl,Categories/14/Name,0,-1,Dragoth the Bone Mage,
+module,jrl,Categories/15/EntryList/0/Text,0,-1,"You have discovered that your former cell-mate from the Hillsfar arena, Elf, is a slave being held in Melvaunt's Livestock Pen.",
+module,jrl,Categories/15/EntryList/1/Text,0,-1,"You have spoken with your former gladiator comrade, Elf, and learned that he was sold into slavery by an agent of Slavemaster Creel. You should look for a way to free Elf - he may make a useful ally. ",
+module,jrl,Categories/15/EntryList/10/Text,0,-1,Ilandra informed you that her crew have now whisked the slaves away to safety aboard the Mingledblood. She mentioned that Elf remained behind because her crew didn't approve of his orcish nature. You should track him down in the shipyard.,
+module,jrl,Categories/15/EntryList/11/Text,0,-1,"You found Elf in an abandoned warehouse. He was grateful for your help, though he now seems somewhat at a loose end. Perhaps you will find a use for him later.",
+module,jrl,Categories/15/EntryList/2/Text,0,-1,"Elf advised you to seek help from allies in the city, if you have any. Otherwise, he mentioned that the slavemaster, Creel, is a fan of getting whipped. Perhaps there is somewhere in the city you may gain more information in order to blackmail him.",
+module,jrl,Categories/15/EntryList/3/Text,0,-1,"You have learned that the price of freeing every single slave in the Livestock Pen is an exorbitant 100,000 gold pieces. You may be better off speaking with Elf and seeing if he can suggest another way to free the slaves.",
+module,jrl,Categories/15/EntryList/4/Text,0,-1,You have spoken with the High Whipmistress of the temple of Loviatar and learned that Creel is a frequent patron there. You could use this information to blackmail him.,
+module,jrl,Categories/15/EntryList/5/Text,0,-1,"You successfully blackmailed Creel into freeing the slaves. Elf was very grateful, though he has nowhere to go. Perhaps you will find a use for him later.",
+module,jrl,Categories/15/EntryList/6/Text,0,-1,"You bought the freedom of each and every slave at the cost of a king's ransom. Elf was very grateful, though he has nowhere to go. Perhaps you will find a use for him later.",
+module,jrl,Categories/15/EntryList/7/Text,0,-1,"You bought the freedom of each and every slave at a much-reduced cost. Elf was very grateful, though he has nowhere to go. Perhaps you will find a use for him later.",
+module,jrl,Categories/15/EntryList/8/Text,0,-1,"Captain Ilandra Wavemistress of the Mingledblood has ordered her crew to create a distraction to draw the guards to the docks, giving you a chance to slip in and free the slaves. You had best hurry.",
+module,jrl,Categories/15/EntryList/9/Text,0,-1,You have taken advantage of the distraction caused by Ilandra's crew to free the slaves from the Livestock Pen. You should return to the Breakwater Inn and let her know.,
+module,jrl,Categories/15/Name,0,-1,Elf in Chains,
+module,jrl,Categories/16/EntryList/0/Text,0,-1,"Lady Shrae informed you of the existence of catacombs beneath the town that have been used for decades to inter priests of Bane. In recent weeks, the priests of the temple have been animating these corpses to use against the Order of the Crippled Fang, but something has gone wrong.
+
+Now, the controlling priests are all dead, and it won't be long before the undead find their way to the surface. You agreed to enter the catacombs and exterminate the threat. The catacomb entrance is inside an abandoned house in the western half of town.",
+module,jrl,Categories/16/EntryList/1/Text,0,-1,"You have located a hidden trapdoor leading to the catacombs, which are crawling with undead, all seemingly acting with a singular purpose. You should hunt down whatever is directing them.",
+module,jrl,Categories/16/EntryList/2/Text,0,-1,ENTRY NOT USED.,
+module,jrl,Categories/16/EntryList/3/Text,0,-1,"Upon collecting the pieces of a holy symbol of Bane and inserting them into a pillar, you gained access to a sealed chamber below the catacombs. There, you confronted the Banelich Shrazgul, an undead priest imprisoned by the Black Lord as punishment for his hubris.",
+module,jrl,Categories/16/EntryList/4/Text,0,-1,"Bane himself appeared before you. The god warned you not to fail in your efforts to stop the Order of the Crippled Fang, which the Black Lord believes serves his rival, Cyric. Perhaps Lady Shrae can shed light on these events.",
+module,jrl,Categories/16/EntryList/5/Text,0,-1,"Shrae was shocked to learn of Bane's appearance. She fears the Order's activities may be the prelude to a holy war that could tear the Moonsea apart. At least for now, the undead threat to Voonlar has been dealt with.",
+module,jrl,Categories/16/Name,0,-1,Evil Beneath Voonlar,
+module,jrl,Categories/17/EntryList/0/Text,0,-1,"In order to reach the Kur-Tharsu stronghold and breach its defenses, you will need every ally you can get. You should speak with your friends and contacts in the region. Some may be able to provide help or point you in the direction of others who can.",
+module,jrl,Categories/17/EntryList/1/Text,0,-1,"Your former cellmate from the Hillsfar arena, Blizzard, has agreed to help take the fight to Kur-Tharsu. She will await you in the Scarred Lands.
+
+You can continue your quest for more allies, or you may head directly to the Scarred Lands and prepare to assault Kur-Tharsu.",
+module,jrl,Categories/17/EntryList/2/Text,0,-1,"The troubled orc warrior Elf - your one-time cellmate from the Hillsfar arena - has pledged his scimitars to your cause. He will wait for you in the Scarred Lands.
+
+You can continue your quest for more allies, or you may head directly to the Scarred Lands and prepare to assault Kur-Tharsu.
+",
+module,jrl,Categories/17/EntryList/3/Text,0,-1,"The Gondish invention known as the Wrecker - Rex for short - is now yours to direct against the defenses of Kur-Tharsu. The construct has made its own way to Thar and will await you near the walls of the stronghold.
+
+You can continue your quest for more allies, or you may head directly to the Scarred Lands and prepare to assault Kur-Tharsu.
+",
+module,jrl,Categories/17/EntryList/4/Text,0,-1,You have recruited every ally you can possibly find. You should now be well-prepared to begin the assault on Kur-Tharsu.,
+module,jrl,Categories/17/EntryList/5/Text,0,-1,You have reached the stronghold of Kur-Tharsu and convened with your allies.,
+module,jrl,Categories/17/EntryList/6/Text,0,-1,"You have reached the stronghold of Kur-Tharsu. Unfortunately, you were not able to find any allies to aid you in assaulting the citadel.",
+module,jrl,Categories/17/Name,0,-1,Expedition to Thar: Allies,
+module,jrl,Categories/18/EntryList/0/Text,0,-1,"Thar is a vast, inhospitable country plagued by humanoids, giants, and worse. You will require mounts to reach the Scarred Lands without being dogged by monsters every step of the way. You may be able to acquire some in one of the cities of the Moonsea.",
+module,jrl,Categories/18/EntryList/1/Text,0,-1,"You purchased horses from Angrym's Livery in Thentia. You should now be able to reach the Scarred Lands while avoiding marauding monsters. However, mounts are likely to be of limited effectiveness outside of wide open terrain.
+
+[To mount your horse, use the radial menu to select the horse menu under ""Special Abilities."" There are five commands available:
+
+Individual mount: If targeted on a horse, the PC will mount that horse. If targeted on a henchman of the PC, that henchman will mount its assigned horse.
+
+Individual dismount: If the target is mounted, it will dismount.
+
+Party mount: This will cause all henchmen of the PC to mount their assigned horses. If targeted on a horse, then in addition, the PC will mount the target.
+
+Party dismount: This will cause the PC and all henchmen on that PC to dismount (if they are currently riding a horse). It does not matter what is targeted by this command, but a target is required for technical reasons.
+
+Assign mount: This is used to assign horses to riders. An assigned horse becomes a henchman of the rider. There are two basic modes of operation for this command.
+
+Assign a horse to a rider: Target the horse, then use this command again and target the rider. The horse will become a henchman of the rider and will be the assigned mount referenced by the ""individual mount"" and ""party mount"" commands.
+
+Remove mount assignment: Target the horse, then use this command again and target the horse a second time. The horse will be removed from the PC's party. If the horse in question is a paladin mount, then the horse will be unsummoned.]",
+module,jrl,Categories/18/Name,0,-1,Expedition to Thar: Mounts,
+module,jrl,Categories/19/EntryList/0/Text,0,-1,You've been pickpocketed by a young girl named Sparrow. You should follow her and confront her.,
+module,jrl,Categories/19/EntryList/1/Text,0,-1,"Sparrow informed you that something is very wrong with Tyana Softfoot, the leader of Zhentil Keep's Thieves' Guild. She has asked you to meet her at the entrance to the abandoned orphanage.",
+module,jrl,Categories/19/EntryList/2/Text,0,-1,The thief Jackdaw told you that Tyana seemed very different after spending time in the sewers a while back. You agreed to use the various grates dotted around Zhentil Keep to descend into the sewers to investigate.,
+module,jrl,Categories/19/EntryList/3/Text,0,-1,"No sooner did you lay eyes on Tyana Softfoot than the guild leader banished both you and Sparrow from the hideout. Fortunately, another thief named Jackdaw stepped in to look out for Sparrow.",
+module,jrl,Categories/19/EntryList/4/Text,0,-1,"Sparrow used a secret code to unlock the door to the abandoned orphanage, which now serves as the headquarters of the Thieves' Guild. You should enter and speak with the leader, Tyana.",
+module,jrl,Categories/19/EntryList/5/Text,0,-1,"You have slain Gorlax the Many-Eyed, a huge beholder that was mentally dominating Tyana with its magic. You should return to the Thieves' Guild to see what effect your actions had.",
+module,jrl,Categories/19/EntryList/6/Text,0,-1,You returned to the Thieves' Guild to find Tyana is once again her old self. She apologized to Sparrow and took her back into the guild. She also rewarded you and has made the guild headquarters available to you. You may now sleep there and partake of its supplies.,
+module,jrl,Categories/19/EntryList/7/Text,0,-1,"Unfortunately, Zhentil Keep is now under attack from the armies of Orcus, and Tyana, Sparrow, and the rest of the guild have fled. You have no choice but to move on and leave your business with the Thieves' Guild unfinished.",
+module,jrl,Categories/19/Name,0,-1,Gorlax the Many-Eyed,
+module,jrl,Categories/2/EntryList/0/Text,0,-1,"The archmage Maganus has allied with the ogre mages of the Kur-Tharsu stronghold in Thar. Together, they plan to launch a humanoid invasion of the Moonsea region. No doubt Maganus is putting Dominion's powers to use in mustering an army capable of such devastation.
+
+You must gain entrance to the stronghold and put an end to the wizard's schemes before the region is drowned in blood. 
+
+The Dukes warned you that the main gates of the stronghold are extremely durable. You will likely need powerful magic or some kind of siege weapon in order to break through.",
+module,jrl,Categories/2/EntryList/1/Text,0,-1,You've passed through the Scarred Lands and into a swampy wetland said to be the domain of the great black dragon Iyrauroth. The Kur-Tharsu stronghold still lies ahead of you.,
+module,jrl,Categories/2/EntryList/2/Text,0,-1,You have reached the great stronghold of Kur-Tharsu. Now you must breach the gates and make it inside while the citadel's defenders attempt to hold you off!,
+module,jrl,Categories/2/EntryList/3/Text,0,-1,"You have finally entered Kur-Tharsu after slaying a formidable ogre named Kragdar - the self-proclaimed Tharkul, or Ogre King, of the Great Gray Land.",
+module,jrl,Categories/2/Name,0,-1,Assault on Kur-Tharsu,
+module,jrl,Categories/20/EntryList/0/Text,0,-1,"You have awakened in a strange place. Your head throbs, and with the pain comes the realization of where you are: the dreaded Hillsfar Arena. For the moment, there is little to do but speak with your fellow gladiators and wait for someone to unlock the door of your cell.",
+module,jrl,Categories/20/EntryList/1/Text,0,-1,"You have spoken with the Innovator of Pain, the infamous master of Hillsfar Arena. He informed you that you are to fight for the entertainment of Hillsfar's citizens. Your first battle is against a tanarruk.",
+module,jrl,Categories/20/EntryList/10/Text,0,-1,"Aware of Onehand's treachery, Maalthiir forced you to fight the Red Plume Captain himself. Tortured to the edge of madness, Kalor attacked you, believing you to be one of the orcs that killed his family. You had no choice but to defend yourself.
+
+Though Kalor's wounds proved fatal, he managed to regain his senses before he died. He expressed regret at using you as a pawn in his plans. You suspect the spirit of the recently departed Father Garth was somehow responsible for Onehand's final moment of clarity.",
+module,jrl,Categories/20/EntryList/2/Text,0,-1,You survived your first battle. You are now back in your cell awaiting whatever trials lie ahead of you.,
+module,jrl,Categories/20/EntryList/3/Text,0,-1,"The Innovator of Pain is preparing your next fight. In the meantime, you have a visitor. Kalor Onehand awaits you by the pool on the lower floor of the Arena complex.",
+module,jrl,Categories/20/EntryList/4/Text,0,-1,"You survived your first battle. Your next fight is against a trio of driders, horrid creatures from the bowels of the Underdark.",
+module,jrl,Categories/20/EntryList/5/Text,0,-1,"Once again, you have overcome the odds, defeating three driders in mortal combat. Now, as before, there is nothing to do but rest until the sadistic Innovator of Pain decides it is time for your next ""performance.""",
+module,jrl,Categories/20/EntryList/6/Text,0,-1,"Once again, you have overcome the odds, defeating three driders in mortal combat. Now, it seems you are to witness the death of your cellmate Blizzard, after which you will battle a pair of ogre berserkers.",
+module,jrl,Categories/20/EntryList/7/Text,0,-1,"[CUT] After a period of unconsciousness, you have awakened in a strange place. Your head throbs, and with the pain comes the realization of where you are: the dreaded Hillsfar Arena. The very air smells of blood and death, and the thick stone around you seems to groan with the tortured spirits of the countless thousand that have died in the pit above.
+
+You survived your first battle. The fight announcer did his best to paint you as a villain and a threat to Hillsfar for the benefit of the spectators, but you triumphed against the strange tanarukk nonetheless. Now you are back in your cell awaiting whatever trials are ahead of you.
+
+Once again, you have overcome the odds, defeating three driders in mortal combat. Now, it seems you are to witness the death of your cellmate Blizzard, after which you will battle a couple ogre berserkers. The Innovator of Pain grows more sadistic with each fight...
+
+In the end, the Arena Master's claim that you were to fight a pair of ogre berserkers was a lie to disguise the nature of your true opponent: a magic golem. While you were able to defeat the construct, Blizzard was not so fortunate. It remains to be seen how the Innovator of Pain will react to events in the Pit.",
+module,jrl,Categories/20/EntryList/8/Text,0,-1,"The Arena Master's claim that you were to fight a pair of ogre berserkers was a lie to disguise the nature of your true opponent: a magic golem. While you were able to defeat the construct, Blizzard was not so fortunate. 
+
+Your defeat of the magic golem has drawn the attention of the ruler of Hillsfar, Lord Maalthiir. The tyrant is planning to watch your next fight, which is against none other than the Red Minotaur, an ex-champion of the Arena. This is your opportunity to impress Maalthiir and perhaps be granted an audience at the wizard's castle.",
+module,jrl,Categories/20/EntryList/9/Text,0,-1,"The Red Minotaur was a ferocious opponent, but eventually you emerged victorious. Lord Maalthiir was sufficiently impressed to grant you an audience at Castle Maalthiir. Kalor Onehand's plan appears to be reaching fruition; could this be your opportunity to rid Hillsfar of the tyrannical mage?",
+module,jrl,Categories/20/Name,0,-1,Hillsfar Arena,
+module,jrl,Categories/21/EntryList/0/Text,0,-1,"You have spoken with an angry young mage calling herself Blizzard. Despite her relative youth, she appears to have suffered many horrors, though she still holds out hope that someday she will escape. The wizard certainly seems capable and may prove a useful ally.",
+module,jrl,Categories/21/EntryList/1/Text,0,-1,"You witnessed Blizzard being struck down by a magic golem, a creature she could not hope to defeat. You refused to deal the fatal blow when asked to do so by the fight announcer. Although she is badly wounded, Blizzard will live.",
+module,jrl,Categories/21/EntryList/2/Text,0,-1,"After defeating the magic golem that struck down Blizzard, you dealt the wizard her deathblow yourself, much to the delight of the crowd.",
+module,jrl,Categories/21/EntryList/3/Text,0,-1,"In a surprising turns of events, Blizzard was freed from the Arena. She also revealed her father to be none other than Maalthiir, lord of Hillsfar. Blizzard then departed on business of her own, but she expressed a wish to one day see you again. For now, you must bid farewell to the young mage.",
+module,jrl,Categories/21/EntryList/4/Text,0,-1,"In a surprising turns of events, Blizzard was freed from the Arena. She also revealed her father to be none other than Maalthiir, lord of Hillsfar. Blizzard then departed on business of her own, but she expressed a wish to one day see you again. For now, you must bid farewell to the young mage.",
+module,jrl,Categories/21/Name,0,-1,Hillsfar Arena: Blizzard,
+module,jrl,Categories/22/EntryList/0/Text,0,-1,"You had a strange conversation with an orc who believes himself to be an elf. Other than this, he appears sane and amiable.",
+module,jrl,Categories/22/EntryList/1/Text,0,-1,Elf was slain by the fearsome Red Minotaur. It is unlikely you will ever learn more about the strange orc.,
+module,jrl,Categories/22/EntryList/2/Text,0,-1,"Father Garth's sacrifice brought Elf back from the brink of death. You have bid your farewells for now. Perhaps one day you will meet again and learn more of the mysterious ""Elf.""",
+module,jrl,Categories/22/Name,0,-1,Hillsfar Arena: Elf the Orc,
+module,jrl,Categories/23/EntryList/0/Text,0,-1,"You have met a kindly old priest of Ilmater named Father Garth. Despite his frail appearance, the old man has survived in the Arena for over eight years. As a priest of the god of self-sacrifice, Father Garth intends to spend his remaining years taking on the burden of suffering from the other prisoners.",
+module,jrl,Categories/23/EntryList/1/Text,0,-1,"Father Garth's recent visit to the Pit left him beaten and bruised. Still, he soldiers on, believing he is doing some good in this place of suffering.",
+module,jrl,Categories/23/EntryList/2/Text,0,-1,"After eight years of suffering, Father Garth has finally found peace at the hands of the fearsome Red Minotaur. He spent the last of his strength imbuing you with the power of Ilmater, thereby helping you defeat his monstrous killer.
+
+Perhaps if you ever escape the Arena, you will find an opportunity to share the story of Father Garth's sacrifice.",
+module,jrl,Categories/23/EntryList/3/Text,0,-1,"After eight years of suffering, Father Garth has finally found peace at the hands of the fearsome Red Minotaur. He spent the last of his strength healing your fellow gladiator, Elf.
+
+Perhaps if you ever escape the Arena, you will find an opportunity to share the story of Father Garth's sacrifice.",
+module,jrl,Categories/23/EntryList/4/Text,0,-1,"You met a troubled priest of Ilmater in Hillsfar. He was on the verge of renouncing his faith until you told him of Father Garth's sacrifice. Moved to tears by the story, he reconsidered, vowing to further spread Father Garth's tale to all who would listen.",
+module,jrl,Categories/23/EntryList/5/Text,0,-1,"You met a troubled priest of Ilmater in Hillsfar. He was on the verge of renouncing his faith until you told him of Father Garth's sacrifice. Moved to tears by the story, he reconsidered, vowing to further spread Father Garth's tale to all who would listen.",
+module,jrl,Categories/23/EntryList/6/Text,0,-1,"You met a troubled priest of Ilmater in Hillsfar. He was on the verge of renouncing his faith. You made no effort to encourage him to keep believing, and so he decided to leave the service of the Broken God.",
+module,jrl,Categories/23/EntryList/7/Text,0,-1,"You met a troubled priest of Ilmater in Hillsfar. He was on the verge of renouncing his faith. You made no effort to encourage him to keep believing, and so he decided to leave the service of the Broken God.",
+module,jrl,Categories/23/Name,0,-1,Hillsfar Arena: Father Garth,
+module,jrl,Categories/24/EntryList/0/Text,0,-1,"Though you stopped the Order of the Crippled Fang, it turns out you guided Dominion into the hands of one more dangerous still: your onetime ally Eremuth, who is in actuality a malaugrym. Whatever the Shadowmaster plans for the ancient artifact, you must hunt him down before it is too late. The Sentinel, a mysterious androgynous mage, claims it detected Dominion's presence somewhere near Elmwood.",
+module,jrl,Categories/24/EntryList/1/Text,0,-1,"According to Alamarayne at the Temple of the Half-moon, Elenawen was murdered in exactly the same manner as Astar. It seems that Eremuth is somewhere in Elmwood.",
+module,jrl,Categories/24/EntryList/2/Text,0,-1,"Eremuth has finally revealed himself. Having murdered the druid Ezril and taken his place, he evidently felt the need to kill Elenawen when she threatened to uncover him.",
+module,jrl,Categories/24/EntryList/3/Text,0,-1,You found a note on the body of one of Eremuth's doppelganger companions indicating the mage has a secret hideout beneath the old well in Elmwood.,
+module,jrl,Categories/24/EntryList/4/Text,0,-1,You uncovered Eremuth's secret lair beneath Elmwood only to find Maganus had beaten you to the punch. He revealed his plan to use Dominion to unite the monstrous armies of Thar before teleporting away with the sword. Eremuth also escaped - though it seems he has put his plans on hold for the time being. Perhaps you will meet the treacherous malaugrym again someday.,
+module,jrl,Categories/24/EntryList/5/Text,0,-1,Eremuth has finally revealed himself. He murdered the druid Ezril and took his place. You should ask around Elmwood to discover whether Eremuth can be brought to justice.,
+module,jrl,Categories/24/Name,0,-1,Hunt for the Traitor,
+module,jrl,Categories/25/EntryList/0/Text,0,-1,"A gnome by the name of Isaac Glinkle has asked you to break into the private chambers of the late inventor, Ikathilo, and recover his notes on golem creation. His notes are likely to be heavily guarded by powerful golems.",
+module,jrl,Categories/25/EntryList/1/Text,0,-1,"You have recovered Ikathilo's masterwork, ""The Art of Golem Crafting."" You should return it to Isaac in the temple.",
+module,jrl,Categories/25/EntryList/2/Text,0,-1,Isaac was delighted with your find and rewarded you with a powerful tome to boost your understanding of the world to heights previously unimagined. Perhaps this explains why nothing he said made sense...,
+module,jrl,Categories/25/Name,0,-1,Ikathilo's Extraplanar Workshop,
+module,jrl,Categories/26/EntryList/0/Text,0,-1,You encountered a balor by the name of Kazz'Temmet on the road east to Hillsfar. The demons and the slaadi summoned by the Order are in a state of conflict. You agreed to slay the slaad lord Grazkahn in return for great reward. The death slaad is somewhere close to Hillsfar.,
+module,jrl,Categories/26/EntryList/1/Text,0,-1,You have killed Grazkahn. You should report your success to Kazz'Temmet on the road near Voonlar.,
+module,jrl,Categories/26/EntryList/10/Text,0,-1,"Grazkahn believes that by utilizing the planar power within Kazz'Temmet's sword, he can break free of the magic binding him to the Material Plane. You agreed to travel back along the road to retrieve the balor's sword and return it to Grazkahn.",
+module,jrl,Categories/26/EntryList/11/Text,0,-1,"Even when presented with the possibility of ridding himself of his troublesome rival, Kazz'Temmet was unwilling to surrender his sword. In a fit of rage, he attacked you. You slaughtered him, and now the sword is yours nonetheless. You should return it to Grazkahn.",
+module,jrl,Categories/26/EntryList/12/Text,0,-1,"Grazkahn proved true to his word and used the sword's power to break the magic binding the slaadi to the Material Plane. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/13/Text,0,-1,"You chose to keep Kazz'Temmet's sword rather than give it to Grazkahn. The death slaad attacked you, but you proved stronger. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/14/Text,0,-1,"You encountered a balor by the name of Kazz'Temmet on the road east to Hillsfar. The demons and the slaadi summoned by the Order are in a state of conflict. Kazz'Temmet wished you to kill the leader of the slaadi, Grazkahn, but you refused and slew the demon instead.
+
+The Shind Road should now be free of demons, although there are still slaadi abroad.",
+module,jrl,Categories/26/EntryList/15/Text,0,-1,"Grazkahn believes that by utilizing the planar power within Kazz'Temmet's sword, he can break free of the magic binding him to the Material Plane. You agreed to travel back along the road to retrieve the balor's sword and return it to Grazkahn.",
+module,jrl,Categories/26/EntryList/16/Text,0,-1,"You gave Grazkahn the sword of Kazz'Temmet. By utilizing its power, the slaad broke free of the bonds keeping him on the Material Plane and returned home. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/17/Text,0,-1,"You chose to keep Kazz'Temmet's sword rather than give it to Grazkahn. The death slaad attacked you, but you proved stronger. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/18/Text,0,-1,"Following an epic struggle, you slew the death slaad Grazkahn. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/19/Text,0,-1,"You vanquished a balor by the name of Kazz'Temmet on the road east to Hillsfar. The Shind Road should now be free of demons, although there are still slaadi abroad.",
+module,jrl,Categories/26/EntryList/2/Text,0,-1,"Kazz'Temmet was pleased with your success but predictably decided to betray you. You dealt him the same fate as Grazkahn. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/20/Text,0,-1,"You encountered the balor Kazz'Temmet and slew the vile fiend. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/21/Text,0,-1,"You encountered a balor by the name of Kazz'Temmet on the road east to Hillsfar. The demons and the slaadi summoned by the Order are in a state of conflict. You agreed to slay the slaad lord Grazkahn in return for great reward. However, Grazkahn believes that by utilizing the planar power within Kazz'Temmet's sword, he can break free of the magic binding him to the Material Plane. You have a decision to make on which of these creatures to assist.",
+module,jrl,Categories/26/EntryList/3/Text,0,-1,"You have learned that the slaadi are bound to the Material Plane by powerful magic, but the slaad lord Grazkahn believes that by utilizing the planar power within Kazz'Temmet's sword, he can break free of it. You agreed to travel back along the road to retrieve the balor's sword and return it to Grazkahn.",
+module,jrl,Categories/26/EntryList/4/Text,0,-1,"Kazz'Temmet was unwilling to surrender his sword. In a fit of rage, he attacked you. You slaughtered him, and now the sword is yours nonetheless. You should return it to Grazkahn.",
+module,jrl,Categories/26/EntryList/5/Text,0,-1,"Grazkahn proved true to his word and used the sword's power to break the magic binding the slaadi to the Material Plane. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/6/Text,0,-1,"You chose to keep Kazz'Temmet's sword rather than give it to Grazkahn. The death slaad attacked you, but you proved stronger. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/EntryList/7/Text,0,-1,"You encountered a powerful slaad by the name of Grazkahn on the road approaching Hillsfar. Though Grazkahn was willing to talk, you had little time for the death slaad's words and slew him. The Shind Road should now be free of slaadi, although there are still demons abroad.",
+module,jrl,Categories/26/EntryList/8/Text,0,-1,ENTRY NOT USED.,
+module,jrl,Categories/26/EntryList/9/Text,0,-1,"You encountered the balor Kazz'Temmet and told him of Grazkahn's death. The fiend was delighted but, in the twisted tradition of all his foul kind, attempted to slay you. He died for his mistake. For a time, at least, you have cleared the Shind Road of fiendish invaders.",
+module,jrl,Categories/26/Name,0,-1,Infernal Warfare,
+module,jrl,Categories/27/EntryList/0/Text,0,-1,You have agreed to rescue the father of Lashan Waters from the Locktower. You will need to find a way in. One of the Bron's deputies is drunk in his room in the Swords' Meet. That may be a good place to start.,
+module,jrl,Categories/27/EntryList/1/Text,0,-1,"You have obtained a key to the Locktower, although one of the deputies is now a corpse.",
+module,jrl,Categories/27/EntryList/10/Text,0,-1,"In a bizarre turn of events, you struck Bennart Waters and killed him with a single blow. All that remains is to report your heinous act to Lashan.",
+module,jrl,Categories/27/EntryList/11/Text,0,-1,"By playing along with Dazel, you convinced him to let you take Bennart Waters to the Temple of Chauntea for healing.",
+module,jrl,Categories/27/EntryList/12/Text,0,-1,You have knocked the deputy unconscious. You should take Bennart from the tower before Dazel wakes up and the other deputies discover what has happened.,
+module,jrl,Categories/27/EntryList/13/Text,0,-1,You have rescued Bennart Waters from the dungeons beneath the tower. Now you must make it outside alive.,
+module,jrl,Categories/27/EntryList/14/Text,0,-1,"You have rescued Bennart Waters from his cell and carried him from the Locktower. Weak and exhausted, Bennart chose to return home to recover his strength. He asked you to go to the Meet and tell Lashan the good news.",
+module,jrl,Categories/27/EntryList/15/Text,0,-1,"You have rescued Bennart Waters from his cell and carried him from the Locktower. Weak and exhausted, Bennart chose to return home to recover his strength. He asked you to go to the Meet and tell Lashan the good news.
+
+You returned to the Swords' Meet to find both Lashan and the deputy missing. Perhaps you should ask about their whereabouts downstairs.",
+module,jrl,Categories/27/EntryList/16/Text,0,-1,"Aerel, innkeeper of the Swords' Meet, told you Lashan was taken to the stocks by one of the Bron's deputies. ",
+module,jrl,Categories/27/EntryList/17/Text,0,-1,You found Lashan with Grimswold at the stocks near the center of town. Grimswold fled rather than face you. Lashan then invited you to his house so that he and his father can thank you properly.,
+module,jrl,Categories/27/EntryList/18/Text,0,-1,"Bennart and Lashan were grateful to you for rescuing them. Though their reward was modest, you have done a good deed.",
+module,jrl,Categories/27/EntryList/19/Text,0,-1,Lashan did not believe you when you told him of your foul act and unwisely ran off to discover the truth for himself. It is unlikely you will see him again.,
+module,jrl,Categories/27/EntryList/2/Text,0,-1,You convinced the deputy on gate watch to open the Locktower with a huge bribe. The rest of the Bron's deputies are still likely to attack you on sight.,
+module,jrl,Categories/27/EntryList/20/Text,0,-1,You decided to let Deputy Grimswold have his way with Lashan. You should probably let Bennart know and put the old man out of his misery.,
+module,jrl,Categories/27/EntryList/21/Text,0,-1,"It seems Grimswold killed both father and son during a confrontation with Bennart Waters, bringing an end to this sorry tale.",
+module,jrl,Categories/27/EntryList/3/Text,0,-1,You managed to fool the gate guard into believing you were one of his fellow deputies. You will need to exercise caution to avoid being discovered.,
+module,jrl,Categories/27/EntryList/4/Text,0,-1,You have managed to incur the wrath of the entire tower.,
+module,jrl,Categories/27/EntryList/5/Text,0,-1,"You magically charmed the deputy on watch duty and convinced him to open the Locktower. However, the Bron's other deputies are still likely to attack you on sight.",
+module,jrl,Categories/27/EntryList/6/Text,0,-1,"You magically dominated the deputy on watch duty and forced him to open the Locktower. However, the Bron's other deputies are likely to attack you on sight.",
+module,jrl,Categories/27/EntryList/7/Text,0,-1,"OPTION REMOVED - You've agreed to rescue the father of a young man named Lashan Waters from the Locktower; a foreboding keep and the base from which the Bron terrorizes Voonlar. You'll need to find a way in first and unless you want to risk bringing all of the Bron's deputies down on you, you'll need to attempt a little subtlety. One of the Bron's deputies is drunk and sleeping in his room in the Swords' Meet, so that seems like a good place to start.
+
+You managed to use your womanly charms and convince the deputy on gate watch duty to open the Locktower. Whatever happens next, it should be interesting...
+",
+module,jrl,Categories/27/EntryList/8/Text,0,-1,"Apparently, Deputy Dazel is waiting to speak to you. He is in the training room on the tower's second floor.",
+module,jrl,Categories/27/EntryList/9/Text,0,-1,"One of the Bron's brutish deputies, Dazel, mistook you for his partner in crime, Grimswold. He has accompanied you to the dungeons beneath the tower to ""have some fun with the prisoners."" This could be your chance.",
+module,jrl,Categories/27/Name,0,-1,Locktower Rescue,
+module,jrl,Categories/28/EntryList/0/Text,0,-1,"It turns out the old man is actually Wak Rathar, a close friend of Maalthiir and the self-appointed Keeper of the Peace. You have unfortunately incurred his wrath.",
+module,jrl,Categories/28/EntryList/1/Text,0,-1,A crazy old man dressed in filthy rags approached you outside Hillsfar's gates ranting about some spoon he believes you stole from him. He made little sense and hobbled off after you pushed him away.,
+module,jrl,Categories/28/EntryList/2/Text,0,-1,"While speaking with Drizzle the alchemist, you learned that Wak Rathar cast a Geas on you while you were unconscious. The Geas, which prohibits you from inflicting harm on the Innovator of Pain, can only be removed by either forcing Wak to remove the spell or killing him.
+
+You also learned that Wak has a tower in the Temple District known ominously as the Dreadspire.",
+module,jrl,Categories/28/EntryList/3/Text,0,-1,You have slain both Wak Rathar and the Innovator of Pain. Their deaths bring some measure of revenge for their victims.,
+module,jrl,Categories/28/EntryList/4/Text,0,-1,"Wak Rathar, together with two Red Plumes, approached you on the streets of Hillsfar. The wizard had convinced the two men that you were to blame for the death of Onehand. A passing officer talked them down, and Wak teleported away before you had the chance to strike at him. He invited you to the Dreadspire, where he says another guest awaits you.",
+module,jrl,Categories/28/EntryList/5/Text,0,-1,"Wak Rathar, together with two Red Plumes, approached you on the streets of Hillsfar. The wizard had convinced the two men that you were to blame for the death of Onehand. A passing officer talked them down, and Wak teleported away before you had the chance to strike at him. He invited you to the Dreadspire, where he says another guest awaits you.",
+module,jrl,Categories/28/EntryList/6/Text,0,-1,"You slew Wak Rathar shortly after entering the Dreadspire, though the mage fell easily - perhaps too easily...",
+module,jrl,Categories/28/EntryList/7/Text,0,-1,"A pit fiend, one of Wak Rathar's servants, informed you that the wizard you slew was but one of Wak's many simulacrums. The real Wak is waiting for you in the tower ahead, and he has a guest: the Innovator of Pain!",
+module,jrl,Categories/28/EntryList/8/Text,0,-1,The Geas placed upon you by Wak Rathar was broken by his death. You should now be able to harm the Innovator of Pain.,
+module,jrl,Categories/28/Name,0,-1,Madmen and Villains,
+module,jrl,Categories/29/EntryList/0/Text,0,-1,The halfling Ulblyn Blackalbuck at Blackalbuck's Swap Shop in Melvaunt is apparently a Harper. He may be able to provide useful information relating to the archmage Maganus.,
+module,jrl,Categories/29/EntryList/1/Text,0,-1,"As luck would have it, Ulblyn Blackalbuck recently spoke to a group of adventurers fresh out of Thar. They ventured near the Kar-Tharsu stronghold that is currently troubling Melvaunt and may well be connected to Maganus' plans for the region.
+
+Blackalbuck recommended you search for the adventuring band known as ""The Dukes of Daggerford"" in the local inns and taverns.",
+module,jrl,Categories/29/Name,0,-1,Melvaunt: Ulblyn Blackalbuck,
+module,jrl,Categories/3/EntryList/0/Text,0,-1,"Lyressa handed you a letter she found on Astar's body addressed to his widow in Mulmaster. It appears he never found the courage or conviction to send it. If you happen to visit Mulmaster, you may wish to ask Chesslyn Onaubra if she knows the woman's whereabouts.",
+module,jrl,Categories/3/EntryList/1/Text,0,-1,"Chesslyn recommended you speak with Rikard, who frequents the gambling tables inside the Gate of Good Fortune. He apparently knows Lana Graysteel well.",
+module,jrl,Categories/3/EntryList/2/Text,0,-1,It turns out Rikard is now Lana's husband. He pointed you to the Zhents' Quarter but refused to give specific directions.,
+module,jrl,Categories/3/EntryList/3/Text,0,-1,An old man named Jeffers marked the location of Lana Graysteel's house on your map.,
+module,jrl,Categories/3/EntryList/4/Text,0,-1,"You spoke with Lana Graysteel and informed her of Astar's death. Despite the delicate contents of the letter, you decided to hand it to her. She was grateful and gave you her wedding band, which carries powerful magic, as a reward. However, Rikard's gambling is still a problem. Perhaps you should speak with him again.",
+module,jrl,Categories/3/EntryList/5/Text,0,-1,"You spoke with Lana Graysteel and informed her of Astar's death. Rather than hand her the letter, you glossed over the truth. She was grateful and gave you her wedding band, which carries powerful magic, as a reward. However, Rikard's gambling is still a problem. Perhaps you should speak with him again.",
+module,jrl,Categories/3/EntryList/6/Text,0,-1,"You convinced Rikard to stop gambling, and he left the Gate of Good Fortune to make amends with Lana.",
+module,jrl,Categories/3/EntryList/7/Text,0,-1,You convinced Chesslyn to ban Rikard from the Gate of Good Fortune. It remains to be seen if this will truly end well.,
+module,jrl,Categories/3/EntryList/8/Text,0,-1,"You managed to intimidate Rikard into quitting gambling, though it's likely this will only prove a temporary measure.",
+module,jrl,Categories/3/Name,0,-1,Astar's Widow,
+module,jrl,Categories/30/EntryList/0/Text,0,-1,"The Harper agent Chesslyn Onaubra works as a guard at the Gate of Good Fortune in Mulmaster. If there is information to be uncovered about Maganus in the City of Danger, she is the best person to ask.",
+module,jrl,Categories/30/EntryList/1/Text,0,-1,"Chesslyn was not able to provide any information about Maganus. However, she suggested you visit the Zhents' Quarter, which houses many refugees from Zhentil Keep. Someone there may remember the wizard.",
+module,jrl,Categories/30/EntryList/2/Text,0,-1,"You encountered an old man named Jeffers who remembered the name ""Maganus"" from an incident many years ago. Apparently, the wizard was arrested in Zhentil Keep after trying to exact vengeance for his family. Despite the terrible suffering he endured, he somehow survived.",
+module,jrl,Categories/30/Name,0,-1,Mulmaster: Chesslyn Onaubra,
+module,jrl,Categories/31/EntryList/0/Text,0,-1,"High Artificer Muragh Hlessen of the Purple Portals in Melvaunt is working on a siege golem he refers to as ""the Wrecker."" He requires several components to complete his creation: ten bars of mithral, two diamonds, and a flawless sapphire.
+
+A flawless sapphire can only be obtained from the oldest and most powerful water elementals. The stretch of Moonsea near Melvaunt is apparently heavily populated by elementals due to magical runoff from the City of Swords. Perhaps you should sail near Melvaunt for a while and see what you encounter.",
+module,jrl,Categories/31/EntryList/1/Text,0,-1,"You have brought Muragh all the components he requires to finish building the Wrecker. Now you must simply wait for him to be done - or, perhaps, you can return another time.",
+module,jrl,Categories/31/EntryList/2/Text,0,-1,"High Artificer Muragh Hlessen has finally realized a decades-old dream; the Wrecker, or Rex as he likes to call it, is now fully operational. The golem resembles a human-sized mithral golem and is apparently the ultimate siege weapon. 
+
+You should return and speak with Muragh if you ever have use for such a construct...",
+module,jrl,Categories/31/Name,0,-1,Muragh's Magnificent Machine,
+module,jrl,Categories/32/EntryList/0/Text,0,-1,"You arrived in Elmwood to learn that a murder has taken place. You should speak with the village's leader, Thoyana, at the docks to learn more.",
+module,jrl,Categories/32/EntryList/1/Text,0,-1,"You learned from Thoyana that the serving girl at the Still Waters inn, Elenawen, was brutally killed. The innkeeper at Still Waters, Enrad Daleborn, and the high priestess of the Temple of the Half-moon, Alamarayne, may have more information to point you in the direction of her killer.",
+module,jrl,Categories/32/EntryList/2/Text,0,-1,"Enrad Daleborn told you that Elenawen was secretly seeing the druid Ezril, who tends a grove in the south of Elmwood.",
+module,jrl,Categories/32/EntryList/3/Text,0,-1,"You have spoken with Ezril, who struck you as a little odd. Perhaps you should investigate the forest and see what you can uncover.",
+module,jrl,Categories/32/EntryList/4/Text,0,-1,"Having found the body of the real Ezril, you confronted Eremuth, who was revealed as the Elmwood murderer. Eremuth fled the scene shouting that the Blade of Netheril must be protected.",
+module,jrl,Categories/32/EntryList/5/Text,0,-1,You have found Eremuth's journal. You should bring this to Thoyana as proof of Eremuth's guilt.,
+module,jrl,Categories/32/EntryList/6/Text,0,-1,You have solved the murder in Elmwood. Thoyana was grateful for your assistance and rewarded you generously. She also reopened the docks.,
+module,jrl,Categories/32/EntryList/7/Text,0,-1,"You have spoken with Ezril, who wasn't much help. You should continue your search for the murderer.",
+module,jrl,Categories/32/EntryList/8/Text,0,-1,"Having found the body of a murdered druid, you were confronted by his killer, Eremuth, who fled the scene shouting that the Blade of Netheril must be protected. You should ask around Elmwood to discover whether this killer can be brought to justice.",
+module,jrl,Categories/32/Name,0,-1,Murder in Elmwood,
+module,jrl,Categories/33/EntryList/0/Text,0,-1,"While sailing north across the Moonsea, you encountered the Lord of Waves, admiral of Melvaunt's navy. He offered a reward for the heads of three pirate captains active in the region: Veris of the Purple Star, Burak the Mongrel of the Flotsam, and Illandra Wavemistress of the Mingledblood. Their whereabouts are unknown, but like most pirates, they likely enjoy a drink. You should bring the grisly evidence of their deaths to Dryden Bruil at the Floating Fighter Inn in Melvaunt.",
+module,jrl,Categories/33/EntryList/1/Text,0,-1,"You slew the vicious pirate captain Burak the Mongrel. You should bring his head to Dryden Bruil in the Floating Fighter Inn in Melvaunt,",
+module,jrl,Categories/33/EntryList/10/Text,0,-1,"Though you did not slay all of the pirate captains, Dryden Bruil believes otherwise and will bring news of your success to Admiral Meldonder. He gave you a generous reward for your efforts.",
+module,jrl,Categories/33/EntryList/11/Text,0,-1,"Though you ultimately slew them all, you were not able to provide proof of the deaths of all three pirate captains to Dryden Bruil. Regardless, with Zhentil Keep now under attack, you have bigger things to worry about.",
+module,jrl,Categories/33/EntryList/2/Text,0,-1,You slew the brutal pirate captain Veris. You should bring his head to Dryden Bruil in the Floating Fighter Inn in Melvaunt.,
+module,jrl,Categories/33/EntryList/3/Text,0,-1,You slew the half-elf pirate captain Ilandra Wavemistress. You should bring the grisly evidence of her death to Dryden Bruil in the Floating Fighter Inn in Melvaunt.,
+module,jrl,Categories/33/EntryList/4/Text,0,-1,"You encountered the brutal pirate captain Veris. Rather than come to blows, you agreed to bring his signet ring to Dryden Bruil in the Floating Fighter Inn as proof of his ""death.""",
+module,jrl,Categories/33/EntryList/5/Text,0,-1,"You encountered the half-elf pirate captain Ilandra Wavemistress. You were able to avoid bloodshed and have agreed to bring Ilandra's signet ring to Dryden Bruil in the Floating Fighter Inn as proof of her ""death.""",
+module,jrl,Categories/33/EntryList/6/Text,0,-1,You have received your reward for bringing evidence of Burak's demise to Dryden Bruil.,
+module,jrl,Categories/33/EntryList/7/Text,0,-1,You have received your reward for bringing evidence of Veris' demise to Dryden Bruil.,
+module,jrl,Categories/33/EntryList/8/Text,0,-1,You have received your reward for bringing evidence of Ilandra's demise to Dryden Bruil.,
+module,jrl,Categories/33/EntryList/9/Text,0,-1,You have cleansed the Moonsea of its three most infamous pirate captains and claimed their bounties. Those who sail the great lake under black sails will whisper your name for years to come.,
+module,jrl,Categories/33/Name,0,-1,Pirates of the Moonsea,
+module,jrl,Categories/34/EntryList/0/Text,0,-1,You have learned that a powerful group of Netherese from the returned City of Shade are searching the nearby ruins of Candlemas. You will need to determine exactly where the ruins are located before you can venture there and investigate.,
+module,jrl,Categories/34/EntryList/1/Text,0,-1,You followed Bale Khodolis and other nobles to the ruins. The Shadovar search party should be somewhere within. Perhaps you can discover what they want.,
+module,jrl,Categories/34/EntryList/2/Text,0,-1,Beirmoura told you the location of the ruins. The Shadovar search party should be somewhere within. Perhaps you can discover what they want.,
+module,jrl,Categories/34/EntryList/3/Text,0,-1,"You spoke with the leader of the Shadovar, Thalia Telamont. The conversation quickly turned to violence, and you slew her.",
+module,jrl,Categories/34/EntryList/4/Text,0,-1,"You spoke with the leader of the Shadovar, Thalia Telamont. Her party is looking for Dominion. Should you get an idea of its whereabouts, you may be able to convince her to help recover it.",
+module,jrl,Categories/34/EntryList/5/Text,0,-1,"You informed Thalia Telamont that Dominion is in the possession of Maganus, who is likely within the Kur-Tharsu Stronghold. She promised to send assassins to help, though she insisted that Dominion belongs to her.",
+module,jrl,Categories/34/Name,0,-1,Shadovar Search Party,
+module,jrl,Categories/35/EntryList/0/Text,0,-1,"Summoned by the archmage Maganus, the Prince of Undeath, Orcus, has been unleashed on the Realms.  During the ritual, the cabal of ogre magi assisting Maganus were sacrificed to assuage Orcus' bloodlust.
+
+Now, the demon prince is leading an assault upon Zhentil Keep. Unless he is stopped, everyone in the city - men, women and children - will die. But there is no guarantee Orcus will stop there. He must be defeated and banished back to the Abyss before the entire Moonsea is subjected to his demonic rule.",
+module,jrl,Categories/35/EntryList/1/Text,0,-1,"Judging by the flames rising above the city, Orcus is clearly wreaking havoc in Zhentil Keep, but you are unable to reach the demon prince until the pirate blockade is broken.",
+module,jrl,Categories/35/EntryList/2/Text,0,-1,"You have finally docked in Zhentil Keep, perhaps for the last time. The trail of destruction left by Orcus and his minions leads straight to the Grand Temple of the Black Lord.",
+module,jrl,Categories/35/EntryList/3/Text,0,-1,"During an epic confrontation within the heart of the Temple of the Black Lord, you defeated Orcus and banished the demon prince back to the Abyss. In doing so, you have doubtless earned the eternal enmity of one of the most terrifying beings in existence. For now, the Moonsea is safe - or at least as safe as it will ever be.",
+module,jrl,Categories/35/Name,0,-1,So High a Price,
+module,jrl,Categories/36/EntryList/0/Text,0,-1,"A delegation from Thay arrived in Mulmaster just before you. Apparently, a dozen gem golems are to be presented to High Blade Selfaril and his wife, Tharchion Dmitra Flass, at the Thayan Enclave to celebrate their anniversary.
+
+This may represent a rare opportunity to gain an audience with Selfaril, Mulmaster's cagey ruler. In order to attend the ceremony, you will require a pass.",
+module,jrl,Categories/36/EntryList/1/Text,0,-1,You have managed to obtain a pass for the ceremony due to take place in the Thayan Enclave in Mulmaster.,
+module,jrl,Categories/36/EntryList/2/Text,0,-1,"In a surprising turns of events, the gem golems presented to Selfaril and his wife as gifts from Thay turned hostile. You must protect them both - if either Selfaril or Dmitra die, you will never be able to leave Mulmaster and finish your quest.",
+module,jrl,Categories/36/EntryList/3/Text,0,-1,"High Blade Selfaril Uoumdolphin was polite enough, answering your questions and granting you permission to loot the remains of the shattered gem golems. However, he is clearly as ruthless as every other tyrant in the Moonsea. He made clear that you should depart his city as soon as possible.",
+module,jrl,Categories/36/EntryList/4/Text,0,-1,"Fighting alongside Selfaril, you destroyed the gem golems while managing to keep both Selfaril and Dmitra alive. The High Blade of Mulmaster has asked to speak with you in private.",
+module,jrl,Categories/36/Name,0,-1,Thayan Ambassadors,
+module,jrl,Categories/37/EntryList/0/Text,0,-1,"You have arrived in Voonlar, gateway to the Moonsea. After paying you handsomely for escorting him north, the merchant Madoc now awaits you in the Swords' Meet Inn. Apparently, he has a new proposal for you.",
+module,jrl,Categories/37/EntryList/1/Text,0,-1,"Madoc turned out to be a Zhentarim agent. Worse, he foolishly tried to steal from the Black Network. The Bron, ruler of Voonlar, took exception to you while apprehending Madoc and has challenged you to a fight outside the inn.",
+module,jrl,Categories/37/EntryList/2/Text,0,-1,"You defeated the Bron, but the treacherous Zhentarim killed Madoc regardless. Just as they were about to attack you, demons appeared and began laying waste to everything in sight. You must hunt down the wizard responsible for summoning the demons before it is too late.",
+module,jrl,Categories/37/EntryList/3/Text,0,-1,"You discovered one of the leaders of the Order, a one-eyed mage, inside the Black Lord's temple. He escaped, though you managed to slay his lieutenant.
+
+Upon leaving the temple, a half-elf named Sharalyn Lockleaf approached and revealed herself as a Harper. She asked you to meet her in her room in the Swords' Meet Inn.",
+module,jrl,Categories/37/EntryList/4/Text,0,-1,"You agreed to hunt down the Order of the Crippled Fang and put a stop their activities. If you fail, the Moonsea is surely doomed to a winter of war, famine, and countless deaths.",
+module,jrl,Categories/37/Name,0,-1,The Dead of Winter,
+module,jrl,Categories/38/EntryList/0/Text,0,-1,"You have encountered the dark cult which calls itself ""The Order of the Crippled Fang."" One of their leaders - a smartly dressed, one-eyed mage - killed Gormstadd during a confrontation inside the Temple of Bane. You have a feeling this won't be your last encounter with the mysterious mage...",
+module,jrl,Categories/38/EntryList/1/Text,0,-1,Lady Shrae gave you the key to Voonlar's eastern gate. The Shind Road - and Hillsfar - lie before you.,
+module,jrl,Categories/38/EntryList/10/Text,0,-1,You have brought Dominion to the Swaying Bough Inn. Hilrad and the Sentinel confirmed it was Netherese in origin and that its magic was responsible for recruiting and controlling the human members of the cult.,
+module,jrl,Categories/38/EntryList/11/Text,0,-1,"The archmage Maganus appeared briefly in Elventree. Before he left, he told you of his hatred for the Zhentarim and how his alliance with The Crippled Fang, sealed with the sword Dominion, was the means through which he intended to see that organization destroyed. Though the Order has been defeated, Maganus yet remains at large.
+",
+module,jrl,Categories/38/EntryList/12/Text,0,-1,"Sharalyn Lockleaf suggested you begin your search for the Order of the Crippled Fang in Hillsfar. The city has long been an enemy of the Zhentarim, and it is possible the city's ruler, Maalthiir, is sponsoring the attacks as a means of furthering his power in the Moonsea.
+
+Before leaving Voonlar, you will need to collect the key to the eastern gate from Lady Shrae at the temple of Chauntea.",
+module,jrl,Categories/38/EntryList/13/Text,0,-1,"You have encountered Gloomfang, a shadow dragon claiming to be working with The Order of the Crippled Fang. Before you fought, she told you of a wizard named Maganus. Could this be the one-eyed mage you encountered briefly in Voonlar?
+
+
+",
+module,jrl,Categories/38/EntryList/14/Text,0,-1,"Only a short way from Voonlar, you encountered the battered remnants of a Zhentarim patrol sent to reinforce the town. Their captain claimed they were attacked by a shadowy monster.",
+module,jrl,Categories/38/EntryList/15/Text,0,-1,"You have arrived in Hillsfar. Kalor Onehand got you into the city, but the gates were locked behind you. For now, you must face whatever Hillsfar brings before resuming your hunt for the Order.",
+module,jrl,Categories/38/EntryList/2/Text,0,-1,"You have encountered Gloomfang, a shadow dragon claiming to be working with The Order of the Crippled Fang. Before you fought, she told you of a wizard named Maganus. Could this be the one-eyed mage you encountered briefly in Voonlar?
+
+Whatever the case may be, you slew Gloomfang. She will murder no more travelers on the Shind Road.
+",
+module,jrl,Categories/38/EntryList/3/Text,0,-1,"While returning to Elventree, you were attacked by the half-dragon commander of the Order, Karandas. You must defeat him in order to put an end to the cult.",
+module,jrl,Categories/38/EntryList/4/Text,0,-1,Lord Maalthiir of Hillsfar has revealed that he is not behind the Order's attacks on the Zhents. He believes the Order is hiding in the Cormanthor forest somewhere close to Elventree.,
+module,jrl,Categories/38/EntryList/5/Text,0,-1,"You have learned that the Order has been attacking citizens of Elventree for the last month. Some have been killed while others have disappeared. You are the only one capable of putting an end to this evil.
+
+The Order encampment can be found in the Cormanthor forest south of Elventree.",
+module,jrl,Categories/38/EntryList/6/Text,0,-1,"Following a difficult trek through the forest in which you were constantly beset by members of the cult, you have arrived at the Order's camp. Strangely, the place appears to be deserted.",
+module,jrl,Categories/38/EntryList/7/Text,0,-1,You have defeated the powerful dracolich known as The Crippled Fang. You should make your way back to Elventree and report your success to Hilrad and the others.,
+module,jrl,Categories/38/EntryList/8/Text,0,-1,"You have slain Karandas, the half-dragon leader of The Order of the Crippled Fang. There is still no sign of the archmage Maganus, but for now, you should report your success to Hilrad in the Swaying Bough Inn.",
+module,jrl,Categories/38/EntryList/9/Text,0,-1,"Hilrad was aghast to learn that you left behind Dominion, the mighty blade wielded by Karandas. In the wrong hands, this artifact could bring disaster to the Realms. You should retrieve Dominion immediately.",
+module,jrl,Categories/38/Name,0,-1,The Order of the Crippled Fang,
+module,jrl,Categories/39/EntryList/0/Text,0,-1,"The leader of the pirate coalition, a legendary pirate king named Avagard, has requested a parlay. He wishes to speak with you aboard his ship.",
+module,jrl,Categories/39/EntryList/1/Text,0,-1,The High Blade of Mulmaster agreed to dispatch his navy to break the pirate blockade surrounding Zhentil Keep's harbor. You should return there and assist the navy in defeating the pirates.,
+module,jrl,Categories/39/EntryList/2/Text,0,-1,"You sailed to Zhentil Keep only to run into a huge blockade of pirate ships surrounding the harbor. There is no way through without a navy to assist you. The only city willing and able to send such a navy is Mulmaster. You must seek an audience with that city's ruler, High Blade Selfaril Uoumdolphin.",
+module,jrl,Categories/39/EntryList/3/Text,0,-1,"In an unexpected twist, it turns out your nemesis, the malaugrym Eremuth, coordinated the pirate attack to lure you into an elaborate trap. Using Dominion, he controlled the minds of the pirate captains, forcing you to slay them all.",
+module,jrl,Categories/39/EntryList/4/Text,0,-1,"You have broken the pirate blockade and can now continue on to Zhentil Keep - though, once again, Eremuth escaped.",
+module,jrl,Categories/39/Name,0,-1,The Pirate King's Blockade,
+module,jrl,Categories/4/EntryList/0/Text,0,-1,You have agreed to hunt three vicious monsters on behalf of the Malarites in the Lodge of the Great Hunt in Zhentil Keep. The dragon Vaporandir can be found near the River Lis; a brutal werebear haunts the inns of Thentia; and a terrible abomination known only as the Render can be found in the ruins of old Zhentil Keep. You should bring proof of their deaths to Huntmaster Baerdeth in the Lodge.,
+module,jrl,Categories/4/EntryList/1/Text,0,-1,You have slain Vaporandir. You should bring her tongue to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/4/EntryList/10/Text,0,-1,"You have claimed your reward for the death of the Render.  Once you also return proof of the deaths of Vaporandir and the werebear, you will have completed the three hunts.",
+module,jrl,Categories/4/EntryList/11/Text,0,-1,"Huntmaster Baerdeth has invited you to join him and his priests in the forest south of Elventree. There, the high priest of Malar claims you will hunt the ultimate prey.",
+module,jrl,Categories/4/EntryList/12/Text,0,-1,"Huntmaster Baerdeth and the other priests of Malar betrayed you, claiming you were the ""ultimate prize"" all along! You were forced to slay them. They should have thought better than to manipulate such a formidable hero.",
+module,jrl,Categories/4/EntryList/13/Text,0,-1,"Huntmaster Baerdeth and the other priests of Malar betrayed you, claiming you were the ""ultimate prize"" all along! However, you were able to talk them down. Perhaps next time they will think better of trying to manipulate such a formidable hero. ",
+module,jrl,Categories/4/EntryList/14/Text,0,-1,"Unfortunately, Zhentil Keep is now under attack from the armies of Orcus, and the Malarites have fled the city. The hunt is therefore over.",
+module,jrl,Categories/4/EntryList/2/Text,0,-1,You have slain the werebear Karim. You should bring his pelt to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/4/EntryList/3/Text,0,-1,You have slain the Render. You should bring its head to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/4/EntryList/4/Text,0,-1,"You have spoken with Vaporandir and agreed to retrieve the tongue of a dead green dragon in the forest south of Elventree. The replacement is intended to fool the Malarites into believing you slew Vaporandir.
+
+",
+module,jrl,Categories/4/EntryList/5/Text,0,-1,"You have agreed to bring a bear pelt to Karim Ninetrees in the ""Inlet"" in Thentia. He will cover it in his blood so that you may fool the Malarites into believing Karim is dead.",
+module,jrl,Categories/4/EntryList/6/Text,0,-1, You should bring the fake tongue to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/4/EntryList/7/Text,0,-1,You should bring the fake pelt to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/4/EntryList/8/Text,0,-1,"You have claimed your reward for the death of Vaporandir. Once you also return proof of the deaths of the Render and the werebear, you will have completed the three hunts.",
+module,jrl,Categories/4/EntryList/9/Text,0,-1,"You have claimed your reward for the death of the werebear Karim Ninetrees.  Once you also return proof of the deaths of the Render and Vaporandir, you will have completed the three hunts.",
+module,jrl,Categories/4/Name,0,-1,Big Game Hunt,
+module,jrl,Categories/40/EntryList/0/Text,0,-1,"You have learned that Maganus is somewhere within the Kur-Tharsu stronghold. He is working with the ogre mages, or oni, of Kur-Tharsu to summon a dreaded demon lord. You must track him down and stop him before it is too late.",
+module,jrl,Categories/40/EntryList/1/Text,0,-1,"Though you were able to defeat Maganus, you were unable to stop his summoning ritual, and Orcus now stalks the Realms. Maganus has bargained with the demon lord, offering his soul in return for some kind of help. Both Maganus and Orcus have now gone to Zhentil Keep.",
+module,jrl,Categories/40/EntryList/2/Text,0,-1,"Maganus is to be executed for his crimes. The Raven Mage, leader of the Crippled Fang and scourge of the Zhentarim, will be hanged and his soul delivered to Orcus for an eternity of torment.",
+module,jrl,Categories/40/EntryList/3/Text,0,-1,"Unwilling to condemn Maganus to Zhentarim 'justice,' you fought your way free of the Grand Temple of the Black Lord, Maganus beside you. He promised to end his bloody crusade against the Black Network - though whether he lives up to his promise remains to be seen.",
+module,jrl,Categories/40/Name,0,-1,The Raven Mage,
+module,jrl,Categories/41/EntryList/0/Text,0,-1,A huge ranger named Craster Rees informed you that Sharalyn and your companions reached Elventree a short time ago. They are awaiting you in the Swaying Bough Inn.,
+module,jrl,Categories/41/EntryList/1/Text,0,-1,"You have made it to the tree city of Elventree, an oasis of beauty in the harsh Moonsea. For now, your main priority is to help the town deal with The Order of the Crippled Fang.",
+module,jrl,Categories/41/EntryList/2/Text,0,-1,"[CUT] Following a difficult trek through the forest, in which you were constantly beset by members of the cult, you have found your way to the Order's camp. Strangely, the place appears to be deserted.",
+module,jrl,Categories/41/EntryList/3/Text,0,-1,"[CUT] The Order waited until you were deep in their camp before launching a surprise attack. The draconic warrior Hilrad mentioned fled, but now you must contend with The Crippled Fang itself, as well as the remaining members of the Order.",
+module,jrl,Categories/41/EntryList/4/Text,0,-1,"[CUT] You have encountered and slain Karandas, the half dragon commander of the Order and son of The Crippled Fang. Though the Order has been destroyed, the archmage Maganus is still alive, his current whereabouts unknown.
+
+You should report your success to Hilrad in the Swaying Bough Inn.",
+module,jrl,Categories/41/EntryList/5/Text,0,-1,"Elventree is under attack by the Zhentarim, who seem to believe it is somehow behind the Order's activities.  You must aid in the city's defense.",
+module,jrl,Categories/41/EntryList/6/Text,0,-1,"You successfully defended Elventree from the Zhentarim. You were confronted by Zalazar himself, but before you could engage him, Maganus appeared and took matters into his own hands.
+
+A disturbance at the Swaying Bough Inn gave the archmage the opportunity to flee. You should investigate the inn.",
+module,jrl,Categories/41/EntryList/7/Text,0,-1,"You have said your farewells to Astar. Now you must depart Elventree and begin the hunt for your treacherous former companion, Eremuth, and the Netherese artifact he stole.",
+module,jrl,Categories/41/EntryList/8/Text,0,-1,[CUT] You have defeated the powerful dracolich known as The Crippled Fang. You should make your way back to Elventree and report your success to Hilrad and the others.,
+module,jrl,Categories/41/Name,0,-1,The Town in the Trees,
+module,jrl,Categories/42/EntryList/0/Text,0,-1,"You read an entry in Eremuth's journal mentioning a secret meeting that is soon to take place between members of an organization called ""the Unseen."" 
+
+The malaugrym was supposed to meet his contacts in Laris's Curios in Hillsfar's Temple District. The journal mentions a secret pass phrase - but does not indicate what it might be.",
+module,jrl,Categories/42/EntryList/1/Text,0,-1,"You correctly guessed the pass phrase to be ""Hidden but never unseen"" - the same phrase inscribed on the dagger Cheswick dropped. The door to Laris's Curios is now open.",
+module,jrl,Categories/42/EntryList/2/Text,0,-1,"You met and fought Nightshade, a malaugrym and sister to Eremuth. On her body was a missive from someone named Hlaavin instructing her to meet Eremuth and Cheswick - actually a greater doppelganger, which explains much - in the shop. They were then to meet with the rest of the cell in a warehouse in Melvaunt.",
+module,jrl,Categories/42/EntryList/3/Text,0,-1,"You gave the pass phrase ""The druuth shall always win"" to whomever guarded the warehouse door. The door is now unlocked; it is time to finish this.",
+module,jrl,Categories/42/EntryList/4/Text,0,-1,"In a secure warehouse in Melvaunt, you stumbled across a meeting between powerful members of a hidden organization known as the Unseen. Though Eremuth's mother, another malaugrym named Amarune, fled, you were able to kill the greater doppelgangers as well as the ulitharid who were doubtless plotting to seize power in Melvaunt.",
+module,jrl,Categories/42/Name,0,-1,The Unseen,
+module,jrl,Categories/43/EntryList/0/Text,0,-1,"Sharalyn Lockleaf recommends you speak to one of the retired archmages living in Thentia. Since powerful wizards tend to keep tabs on each other, it is likely one of them knows of Maganus.",
+module,jrl,Categories/43/EntryList/1/Text,0,-1,"You spoke with the wizard Flammuldinath ""Firefingers"" Thuldoum, who revealed that Maganus served as his apprentice many years ago. Maganus was apparently obsessed with demonic summoning and hunting down the Blades of Netheril. Firefingers also told you that Maganus was intrigued by the ogre mages of Kur-Tharsu, a citadel east of Melvaunt.",
+module,jrl,Categories/43/Name,0,-1,Thentia: Retired Archmages,
+module,jrl,Categories/44/EntryList/0/Text,0,-1,"You spoke with a young man named Bale Khodolis, who leads a group of nobles calling themselves ""Thentia's Resistance Army."" Khodolis seemed off, though, as if he wasn't himself. In a seeming moment of clarity, he begged you to search the desk in his room in the Beacon Inn.",
+module,jrl,Categories/44/EntryList/1/Text,0,-1,"You found Bale Khodolis' diary in his room in the Beacon Inn. It reveals that he was searching for a weapon named Beirmoura, ""the Bright Sword."" If Bale was correct, the sword is, in fact, sentient and quite possibly has imposed its will on him. You should confront Bale with this revelation.",
+module,jrl,Categories/44/EntryList/2/Text,0,-1,"You confronted Bale, who immediately ordered his nobles to attack the Shadovar in Candlemas. You refused to let him pass and killed him, revealing the source of his personality change to be the Bright Sword, Beirmoura. Thentia's Resistance Army is no more.",
+module,jrl,Categories/44/EntryList/3/Text,0,-1,"You confronted Bale, who immediately ordered his nobles to attack the Shadovar in Candlemas. You decided to let them leave, but you should pay a visit to the ruins to see what became of Thentia's Resistance Army.",
+module,jrl,Categories/44/EntryList/4/Text,0,-1,"Almost inevitably, you stumbled across the bodies of Bale Khodolis and the other nobles while exploring Candlemas. Thentia's Resistance Army is no more.",
+module,jrl,Categories/44/Name,0,-1,Thentia's Resistance Army,
+module,jrl,Categories/45/EntryList/0/Text,0,-1,"Sharalyn knows of a Harper contact in Zhentil Keep, Kornah the Crazy, who may be able to provide information about the archmage Maganus. Kornah apparently works as a guide in the city.",
+module,jrl,Categories/45/EntryList/1/Text,0,-1,Kornah was unable to provide much information beyond showing you firsthand the devastating results of a monstrous invasion of Zhentil Keep. She will keep you updated if she learns anything - but you will need to wait for her to contact you.,
+module,jrl,Categories/45/EntryList/2/Text,0,-1,"Unfortunately, Zhentil Keep is now under attack from the armies of Orcus, and Kornah the Crazy is likely either in hiding or has fled the city.",
+module,jrl,Categories/45/Name,0,-1,Zhentil Keep: Kornah the Crazy,
+module,jrl,Categories/5/EntryList/0/Text,0,-1,You have agreed to hunt three vicious monsters on behalf of the Malarites in the Lodge of the Great Hunt in Zhentil Keep. One is a terrible abomination known only as the Render found in the ruins of old Zhentil Keep. You should bring proof of its death to Huntmaster Baerdeth in the Lodge.,
+module,jrl,Categories/5/EntryList/1/Text,0,-1,You have slain the Render. You should bring its head to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/5/EntryList/2/Text,0,-1,"You have claimed your reward for the death of the Render. Once you also return proof of the deaths of Vaporandir and the werebear, you will have completed the three hunts.",
+module,jrl,Categories/5/EntryList/3/Text,0,-1,"Unfortunately, Zhentil Keep is now under attack from the armies of Orcus, and the Malarites have fled the city. The hunt is therefore over.",
+module,jrl,Categories/5/Name,0,-1,Big Game Hunt: The Render,
+module,jrl,Categories/6/EntryList/0/Text,0,-1,You have agreed to hunt three vicious monsters on behalf of the Malarites in the Lodge of the Great Hunt in Zhentil Keep. One is a brutal werebear haunting the inns of Thentia. You should bring proof of its death to Huntmaster Baerdeth in the Lodge.,
+module,jrl,Categories/6/EntryList/1/Text,0,-1,You have slain the werebear Karim. You should bring his pelt to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/6/EntryList/2/Text,0,-1,"You have agreed to bring a bear pelt to Karim Ninetrees in the ""Inlet"" in Thentia. He will cover it in his blood so that you may fool the Malarites into believing Karim is dead.",
+module,jrl,Categories/6/EntryList/3/Text,0,-1,You should bring the fake pelt to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/6/EntryList/4/Text,0,-1,"You have claimed your reward for the death of the werebear Karim Ninetrees.  Once you also return proof of the deaths of the Render and Vaporandir, you will have completed the three hunts.",
+module,jrl,Categories/6/EntryList/5/Text,0,-1,"Unfortunately, Zhentil Keep is now under attack from the armies of Orcus, and the Malarites have fled the city. The hunt is therefore over.",
+module,jrl,Categories/6/Name,0,-1,Big Game Hunt: The Werebear,
+module,jrl,Categories/7/EntryList/0/Text,0,-1,"You have agreed to hunt three vicious monsters on behalf of the Malarites in the Lodge of the Great Hunt in Zhentil Keep. One is Vaporandir, a dragon laired near the River Lis. You should bring proof of its death to Huntmaster Baerdeth in the Lodge.",
+module,jrl,Categories/7/EntryList/1/Text,0,-1,You have slain Vaporandir. You should bring her tongue to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/7/EntryList/2/Text,0,-1,You have spoken with Vaporandir and agreed to retrieve the tongue of a dead green dragon in the forest south of Elventree. The replacement is intended to fool the Malarites into believing you slew Vaporandir.,
+module,jrl,Categories/7/EntryList/3/Text,0,-1,You should bring the fake tongue to Baerdeth in the Lodge of the Great Hunt in Zhentil Keep.,
+module,jrl,Categories/7/EntryList/4/Text,0,-1,"You have claimed your reward for the death of Vaporandir. Once you also return proof of the deaths of the Render and the werebear, you will have completed the three hunts.",
+module,jrl,Categories/7/EntryList/5/Text,0,-1,"Unfortunately, Zhentil Keep is now under attack from the armies of Orcus, and the Malarites have fled the city. The hunt is therefore over.",
+module,jrl,Categories/7/Name,0,-1,Big Game Hunt: Vaporandir,
+module,jrl,Categories/8/EntryList/0/Text,0,-1,Hillsfar is covered in a blanket of snow. Kalor Onehand fears it will soon run red with blood if war with Zhentil Keep breaks out. He has asked you to meet him in the Diamond in the Dung inn to discuss your quest to hunt down and defeat the Order. The inn is east of the central market.,
+module,jrl,Categories/8/EntryList/1/Text,0,-1,"Kalor believes the Order of the Crippled Fang is acting independently of Hillsfar, but he has received news of several attacks in the Cormanthor forest near Elventree. Officer Onehand suspects the Order is behind them.
+
+Before you depart, Kalor has something important to ask of you.
+",
+module,jrl,Categories/8/EntryList/2/Text,0,-1,"You have been betrayed. Kalor Onehand struck you down from behind while you were preoccupied, but his actions make no sense. Why would Sharalyn ask you to seek out Kalor only for him to betray you? Whatever the truth, it appears you won't be leaving Hillsfar for a while.",
+module,jrl,Categories/8/EntryList/3/Text,0,-1,"Upon speaking with Kalor Onehand, you learned that his betrayal was part of a greater plan to see the Lord of Hillsfar overthrown. Though he seemed regretful of his actions, Onehand was nonetheless steadfast in his determination to see Maalthiir dead at all costs.",
+module,jrl,Categories/8/EntryList/4/Text,0,-1,"The years Kalor Onehand spent plotting the downfall of Maalthiir were in vain. The merchant-wizard's reputation as a shrewd manipulator proved fully deserved; Maalthiir knew of Onehand's plans all along. The merchant-wizard is growing concerned about the Order of the Crippled Fang, and, far from sponsoring the cult, wants them hunted down and destroyed. He gave you a pass granting access to Hillsfar's Temple District and allowing you to enter and leave the city at will.",
+module,jrl,Categories/8/EntryList/5/Text,0,-1,"[CUT] Hillsfar is covered in a blanket of snow and Kalor Onehand fears it soon run red with blood if war with Zhentil Keep comes to pass. He has asked you to meet him at the Diamond in the Dung inn to discuss your quest. The inn can be found east of the central market.
+
+Kalor believes that Hillsfar has nothing to do with the Order of the Crippled Fang. However, he did have news of an incident that occurred a little way east, just outside the Cormanthor forest near Elventree. Two elves, apparently Harpers, were found dead. Officer Onehand suspects that the Order was behind the attack and that it may be based somewhere close to Elventree.
+
+Before you depart and follow the road east to the edge of the Cormanthor, Kalor has something important he wishes to tell you. He has asked that you make sure you are prepared before he imparts whatever information he has. You're not sure what's going on, but you're bound to find out soon enough...
+
+You have been betrayed! Kalor Onehand struck you down from behind while you were preoccupied with the crazy old man that approached you outside Hillsfar. His actions seem to make no sense; why would Sharalyn ask you to seek out Kalor Onehand only for him to betray you? Whatever the truth may be, it appears that you won't be leaving Hillsfar for a while...
+
+Upon once more speaking with Kalor Onehand, you learned that his betrayal was part of a greater plan to see the lord of Hillsfar murdered and overthrown. Although he seemed to show regret at his actions, the rogue Red Plume was steadfast in his determination to see Maalthiir dead at all costs.
+
+The years, the decades, that Kalor Onehand has spent plotting the downfall of Maalthiir have been wasted. The merchant-wizard's reputation as a shrewd manipulator without peer is fully deserved: Maalthiir knew of Onehand's plans all along and was using the unwitting Red Plume to glean information about plots forming against him.
+
+Fortunately, the ruler of Hillsfar still has a use for you. He is growing increasingly concerned about the Order of the Crippled Fang and far being an ally of the group, he now wants them hunted down and destroyed. He has given you a pass that will enable you enter and leave Hillsfar at will, as well as enter the Temple District.
+
+Maalthiir has arranged for an agent of his to meet you in Laris's Curios, in the Temple District. She will teleport you near Elventree so that you may continue your hunt for the Order.
+
+You have met with Nightshade, Maalthiir's icy sorceress ally, inside Laris's Curios. She wasn't much for conversation and departed immediately after creating a portal to Elventree. You are now free to travel between Hillsfar and Elventree as you see fit, although you may only take up to three companions through the portal at any one time.
+
+You can only pray to Tymora that your time in Elventree will prove far less troublesome than in the city of Hillsfar...",
+module,jrl,Categories/8/Name,0,-1,City of Trade,
+module,jrl,Categories/9/EntryList/0/Text,0,-1,"You have been joined by a gray-haired, blue-eyed warrior named Astar Graysteel. Though he is well into his middle years, Astar remains in peak physical condition. Despite his insistence that he is but a simple mercenary, you suspect there is much more to his tale than he lets on. Perhaps, in time, you will learn more.",
+module,jrl,Categories/9/EntryList/1/Text,0,-1,"Astar is dead, slain by Eremuth, who was in reality a malaugrym: a creature of ineffable evil.",
+module,jrl,Categories/9/Name,0,-1,Companion: Astar,

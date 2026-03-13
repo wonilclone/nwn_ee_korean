@@ -1,0 +1,52 @@
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+module,ifo,Mod_Description,0,-1,"Neverwinter Chess
+Release v1.2
+
+For 2 players.
+Or 1 if you feel like playing against yourself.
+
+Discuss this and other modules in the Neverwinter Nights Modules forum - http://nwn.bioware.com/forums/
+
+Instructions:
+To start or join the game, talk to the Gamemaster. If you wish to leave or end the game, talk to the Gamemaster.
+Once the game is underway, players move their pieces by talking to the piece they wish to move. A dialogue will start to show the player what moves are available for that piece.
+
+For advanced users:
+If you wish to make the fights between pieces more interesting, you can start by editing the piece blueprints (located under the Special->Custom 1 heading of the Custom creature blueprints) - just don't modify the tags or the plot flags.
+More advanced users can try modifying the fight behaviour by changing the ContinueFight function in the chessinc.nss script - note that Build Module (under the Build menu) should be used after modifying chessinc.nss, since all of the scripts will need to be recompiled.
+
+Jonathan Epp
+
+Release History
+=============
+v1.2:
+- Fixed an error in the checkmate script. There was a specific circumstance where the game would mistakenly think it was in a checkmate condition. Thanks to Kellas Reeves who gave me an excellent example of the problem.
+
+v1.1:
+- Fixed a problem with pawn promotion
+- Fixed an instance where a king could be moved beside the opposing king
+- Can no longer castle through or out of check
+- Can now castle by talking to the King or the Rook
+- Changed all GetObjectByTag commands to GetNearestObjectByTag to allow multiple boards in the same module
+- Board orientation now takes the facing of the center waypoint into account, which means the board can be rotated. Users who wish to place the chess game on their own maps can set the board orientation by rotating the waypoint in the toolset.
+
+v1.01:
+- Fixed a problem with en passant moves
+- Added test for check and checkmate after pawn promotion
+
+v1.0:
+- Initial release
+
+
+Thanks to everyone who gave me bug reports, comments and suggestions!","네버윈터 체스
+Release v1.2
+
+2인용.
+혼자서 양쪽을 다 플레이할 수도 있습니다.
+
+사용법:
+게임을 시작하거나 참가하려면 게임 마스터에게 말을 거세요. 게임을 떠나거나 끝내려면 게임 마스터에게 말을 거세요.
+게임이 시작되면 플레이어는 움직이고 싶은 말에게 말을 걸어 이동시킵니다. 해당 말이 할 수 있는 이동을 보여주는 대화가 시작됩니다.
+
+Jonathan Epp"
+module,ifo,Mod_Name,0,-1,Neverwinter Chess,네버윈터 체스

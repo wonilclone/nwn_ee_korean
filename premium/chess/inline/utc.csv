@@ -1,0 +1,14 @@
+Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+bishop_b,utc,FirstName,0,-1,Black Bishop,흑 비숍
+bishop_w,utc,FirstName,0,-1,White Bishop,백 비숍
+gamemaster,utc,FirstName,0,-1,Game Master,게임 마스터
+king_b,utc,FirstName,0,-1,Black King,흑 킹
+king_w,utc,FirstName,0,-1,White King,백 킹
+knight_b,utc,FirstName,0,-1,Black Knight,흑 나이트
+knight_w,utc,FirstName,0,-1,White Knight,백 나이트
+pawn_b,utc,FirstName,0,-1,Black Pawn,흑 폰
+pawn_w,utc,FirstName,0,-1,White Pawn,백 폰
+queen_b,utc,FirstName,0,-1,Black Queen,흑 퀸
+queen_w,utc,FirstName,0,-1,White Queen,백 퀸
+rook_b,utc,FirstName,0,-1,Black Rook,흑 룩
+rook_w,utc,FirstName,0,-1,White Rook,백 룩

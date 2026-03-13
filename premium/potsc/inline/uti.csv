@@ -1,0 +1,881 @@
+﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+_generic_booty,uti,LocalizedName,0,-1,_GENERIC_BOOTY,
+_survival_items,uti,LocalizedName,0,-1,_SURVIVAL_ITEMS,
+_tattoos,uti,LocalizedName,0,-1,_TATTOOS,
+_turf_war_loot,uti,LocalizedName,0,-1,_BOSS_LOOT,
+_unique_booty,uti,LocalizedName,0,-1,_UNIQUE_BOOTY,
+a0_bldfullplate,uti,LocalizedName,0,181,NPC: Bloodsailor Full Plate,
+a0_bldhalfplate,uti,LocalizedName,0,12930,NPC: Bloodsailor Half Plate,
+a0_bldlcrssbw,uti,DescIdentified,0,-1,You took this crossbow from the corpse of a nefarious Bloodsailor gang leader while in Neverwinter.,
+a0_bldlcrssbw,uti,LocalizedName,0,174,Bloodsailor Crossbow,
+a0_bldmace,uti,DescIdentified,0,-1,You took this mace from the corpse of a nefarious Bloodsailor gang leader while in Neverwinter.,
+a0_bldmace,uti,LocalizedName,0,177,Bloodsailor Mace,
+a0_bldmrnstr,uti,DescIdentified,0,-1,This morningstar once belonged to a member of the nefarious Bloodsailor gang in Neverwinter.,
+a0_bldmrnstr,uti,LocalizedName,0,1541,Bloodsailor Morningstar,
+a0_bldrobe,uti,DescIdentified,0,-1,"As leader of Neverwinter's Bloodsailor gang, Vengaul Bloodsail was the one to choose their colors. Blue for the sea and red for blood on the water. The gold was for filthy lucre, ne'er to be forgotten.",
+a0_bldrobe,uti,LocalizedName,0,12909,NPC: Bloodsailor Robe,
+a0_bldsheild,uti,DescIdentified,0,-1,You took this shield from the corpse of a nefarious Bloodsailor gang leader while in Neverwinter.,
+a0_bldsheild,uti,LocalizedName,0,179,Bloodsailor Shield,
+a0_bldshrtswrd,uti,DescIdentified,0,-1,You took this short sword from the corpse of a nefarious Bloodsailor gang leader while in Neverwinter.,
+a0_bldshrtswrd,uti,LocalizedName,0,106,Bloodsailor Blade,
+a0_bldtsheild,uti,LocalizedName,0,1551,NPC: Bloodsailor Tower Shield,
+a0_blkbswrd,uti,DescIdentified,0,-1,You took this bastard sword from the corpse of a nefarious Blackriver Bandit leader while in Neverwinter.,
+a0_blkbswrd,uti,LocalizedName,0,168,Blackriver Bastard Sword,
+a0_blkclothes,uti,LocalizedName,0,13143,NPC: Blackriver Clothing,
+a0_blkdggr,uti,DescIdentified,0,-1,You took this dagger from the corpse of a nefarious Blackriver Bandit leader while in Neverwinter.,
+a0_blkdggr,uti,LocalizedName,0,191,Blackriver Dagger,
+a0_blklcrssbw,uti,DescIdentified,0,-1,This crossbow once belonged to a nefarious Blackriver Bandit leader in Neverwinter.,
+a0_blklcrssbw,uti,LocalizedName,0,174,Blackriver Crossbow,
+a0_blklight,uti,LocalizedName,0,12835,NPC: Blackriver Leather Armor,
+a0_blkmace,uti,DescIdentified,0,-1,You took this mace from the corpse of a nefarious Blackriver Bandit leader while in Neverwinter.,
+a0_blkmace,uti,LocalizedName,0,177,Blackriver Mace,
+a0_blksheild,uti,DescIdentified,0,-1,You took this shield from the corpse of a nefarious Blackriver Bandit leader while in Neverwinter.,
+a0_blksheild,uti,LocalizedName,0,179,Blackriver Shield,
+a0_blktwaxe,uti,DescIdentified,0,-1,You took this axe from the corpse of a nefarious Blackriver Bandit leader while in Neverwinter.,
+a0_blktwaxe,uti,LocalizedName,0,169,Blackriver Axe,
+a0_rahmansbook,uti,DescIdentified,0,-1,"According to the ornate inscription engraved on the cover in multiple languages, this spellbook belongs to a certain Rahman Madani, Esteemed Magi of the Fourth Circle of the Shifting Sands. The internal contents of the book are unintelligible to you, however, written in some unknown code. For all you know, it might actually be gibberish.",
+a0_rahmansbook,uti,LocalizedName,0,-1,Rahman Madani's Spellbook,
+a0_rahmanskey,uti,DescIdentified,0,-1,This simple key is to Rahman Madani's quarters aboard the Midnight Rose.,
+a0_rahmanskey,uti,LocalizedName,0,-1,Rahman's Cabin Key,
+a0_tattoo_anchor,uti,DescIdentified,0,-1,"This is the 'Rope & Anchor' tattoo you got as a memento of your time in Neverwinter. According to your crewmate, Nisar, tattoos are sometimes a source of mystical powers...",
+a0_tattoo_anchor,uti,LocalizedName,0,-1,Tattoo of a Rope & Anchor,
+a0_tattoo_eye,uti,DescIdentified,0,-1,"This is the 'Eye & Tears' tattoo you got as a memento of your time in Neverwinter. According to your crewmate, Nisar, tattoos are sometimes a source of mystical powers...",
+a0_tattoo_eye,uti,LocalizedName,0,-1,Tattoo of an Eye & Tears,
+a0_tattoo_gnaked,uti,DescIdentified,0,-1,"This is the 'Gnaked Gnome' tattoo you got as a memento of your time in Neverwinter. According to your crewmate, Nisar, tattoos are sometimes a source of mystical powers...",
+a0_tattoo_gnaked,uti,LocalizedName,0,-1,Tattoo of a Gnaked Gnome,
+a0_tattoo_heart,uti,DescIdentified,0,-1,"This is the 'Heart & Arrow' tattoo you got as a memento of your time in Neverwinter. According to your crewmate, Nisar, tattoos are sometimes a source of mystical powers...",
+a0_tattoo_heart,uti,LocalizedName,0,-1,Tattoo of a Heart & Arrow,
+a1_arrow,uti,DescIdentified,0,-1,This batch of crude arrows is made of brittle wood and has been crudely fletched with seagull feathers.,
+a1_arrow,uti,LocalizedName,0,-1,Crude Arrow,
+a1_arrow_s,uti,DescIdentified,0,-1,This crude arrow is made of brittle wood and has been crudely fletched with seagull feathers.,
+a1_arrow_s,uti,LocalizedName,0,-1,Superior Crude Arrow,
+a1_bow,uti,DescIdentified,0,-1,"This crude shortbow has been fashioned from catgut and driftwood. While hardly supple, it still has enough spring to launch an arrow.",
+a1_bow,uti,LocalizedName,0,-1,Crude Bow,
+a1_bow_s,uti,DescIdentified,0,-1,"This crude shortbow has been fashioned from catgut and driftwood. While hardly supple, it still has enough spring to launch an arrow.",
+a1_bow_s,uti,LocalizedName,0,-1,Superior Crude Bow,
+a1_bucket_empty,uti,DescIdentified,0,-1,Rust mars the surface of this metal bucket but has not yet corroded through. It still appears to be watertight.,
+a1_bucket_empty,uti,LocalizedName,0,-1,Empty Bucket,
+a1_bucket_full,uti,DescIdentified,0,-1,Water sloshes back and forth in this rusty metal bucket.,
+a1_bucket_full,uti,LocalizedName,0,-1,Bucket of Water,
+a1_bullet,uti,DescIdentified,0,-1,This jagged piece of rock is ill-balanced for a sling bullet but it will still serve to take down your prey from afar.,
+a1_bullet,uti,LocalizedName,0,-1,Crushed Stone Bullet,
+a1_bullet_s,uti,DescIdentified,0,-1,This jagged piece of rock is ill-balanced for a sling bullet but it will still serve to take down your prey from afar.,
+a1_bullet_s,uti,LocalizedName,0,-1,Superior Crushed Stone Bullet,
+a1_catgut,uti,DescIdentified,0,-1,This catgut string makes for a strong line. You wonder if there's anything you can use it for.,
+a1_catgut,uti,LocalizedName,0,-1,Catgut,
+a1_cookedmeat,uti,DescIdentified,0,-1,This meat has been cooked and cured and is ready to eat.,
+a1_cookedmeat,uti,LocalizedName,0,-1,Cooked Meat,
+a1_edgrimmshead,uti,DescIdentified,0,-1,"This is the ill-shaven head of the marooned dwarven inventor, Edgrimm the Mad. Given the savagery of your situation, it seems appropriate to keep a grisly trophy of your accomplishments here.",
+a1_edgrimmshead,uti,LocalizedName,0,-1,Edgrimm's Head,
+a1_feather,uti,DescIdentified,0,-1,"You stare at the ragged seagull's feather, deep in thought. You wonder what you could fashion out of it.",
+a1_feather,uti,LocalizedName,0,-1,Seagull Feather,
+a1_firespear,uti,DescIdentified,0,-1,The tip of this crude wooden spear has been hardened to a charred point.,
+a1_firespear,uti,LocalizedName,0,-1,Fire-Hardened Spear,
+a1_firespear_s,uti,DescIdentified,0,-1,The tip of this crude wooden spear has been hardened to a charred point.,
+a1_firespear_s,uti,LocalizedName,0,-1,Superior Fire-Hardened Spear,
+a1_flint,uti,DescIdentified,0,-1,"You recognize this small black stone as a shard of flint. Provided you can find some tinder and a proper firepit, this should make starting a fire a breeze.",
+a1_flint,uti,Description,0,-1,Light glints dully off this small black stone. You wonder if it's worth keeping.,
+a1_flint,uti,LocalizedName,0,-1,Small Shard of Flint,
+a1_ichor,uti,DescIdentified,0,-1,This glob of smelly ichor sticks to your fingers as you handle it. You wonder if it has any particular use.,
+a1_ichor,uti,LocalizedName,0,-1,Ichor,
+a1_leather,uti,DescIdentified,0,-1,This uncured animal hide is still soft and wet. You wonder if there's something you could fashion out of it.,
+a1_leather,uti,LocalizedName,0,-1,Leather Hide,
+a1_maul,uti,DescIdentified,0,-1,"A stone has been tied to this piece of driftwood with strips of leather, creating a crude maul.",
+a1_maul,uti,LocalizedName,0,-1,Maul,
+a1_maul_s,uti,DescIdentified,0,-1,"A stone has been tied to this piece of driftwood with strips of leather, creating a crude maul.",
+a1_maul_s,uti,LocalizedName,0,-1,Superior Maul,
+a1_raftplans,uti,DescIdentified,0,-1,"These plans, drafted by Edgrimm the Mad, outline how to construct a Reversible Alternative Flotation Thingy, or R.A.F.T. The primary construction material appears to be planks of wood.",
+a1_raftplans,uti,LocalizedName,0,-1,R.A.F.T. Plans,
+a1_rawmeat,uti,DescIdentified,0,-1,Blood still trickles from this raw shank of meat. You could eat it like this but it would be safest to cook it first.,
+a1_rawmeat,uti,LocalizedName,0,-1,Raw Meat,
+a1_ruineduniform,uti,DescIdentified,0,-1,"The tattered, salt-stiffened remnants of your sailor's uniform chafe and rub. You're still surprised you survived the capture of the Midnight Rose at all.",
+a1_ruineduniform,uti,LocalizedName,0,-1,Ruined Uniform of the Midnight Rose,
+a1_sacredwood,uti,DescIdentified,0,-1,This weathered planking has been torn from the remains of an old shipwreck. The troglodytes on this island consider the wood to be sacred and use it to feed their mighty bonfires.,
+a1_sacredwood,uti,LocalizedName,0,-1,Sacred Wood,
+a1_sling,uti,DescIdentified,0,-1,"Fashioned from uncured hide, this ragged sling is nevertheless a useful means of striking at your opponents from afar.",
+a1_sling,uti,LocalizedName,0,-1,Crude Sling,
+a1_sling_s,uti,DescIdentified,0,-1,"Fashioned from uncured hide, this ragged sling is nevertheless a useful means of striking your opponents from afar.",
+a1_sling_s,uti,LocalizedName,0,-1,Superior Crude Sling,
+a1_stick,uti,DescIdentified,0,-1,"This weathered piece of driftwood should make an adequate club. It's dry enough to serve as firewood, as well. You wonder if there's anything else you could use it for. ",
+a1_stick,uti,LocalizedName,0,-1,Sturdy Stick,
+a1_stick_long,uti,DescIdentified,0,-1,"This slender piece of driftwood should make an adequate quarterstaff. It's dry enough to serve as firewood, as well. You wonder if there's anything else you could use it for. ",
+a1_stick_long,uti,LocalizedName,0,-1,Long Stick,
+a1_stone,uti,DescIdentified,0,-1,You wonder if this simple stone might prove useful.,
+a1_stone,uti,LocalizedName,0,-1,Stone,
+a1_tinder,uti,DescIdentified,0,-1,"This is a thin piece of dry, fibrous bark torn from one of the island's many palm trees. It would make an excellent tinder, provided you could find a proper firepit and a means of lighting it.",
+a1_tinder,uti,LocalizedName,0,-1,Tinder,
+a1_torch,uti,DescIdentified,0,-1,The ichor atop this stick burns bright and true. Hopefully it will be enough to keep the island's wildlife at bay.,
+a1_torch,uti,LocalizedName,0,-1,Makeshift Torch,
+a1_torch_long,uti,DescIdentified,0,-1,The ichor at either end of this long stick burns bright and true. Hopefully it will be enough to keep the island's wildlife at bay.,
+a1_torch_long,uti,LocalizedName,0,-1,Double-Ended Torch,
+a1_utnalarmr,uti,LocalizedName,0,12843,NPC: King Utnal's Armor,
+a1_utnlkey,uti,DescIdentified,0,-1,King Utnal and his troglodyte subjects were apparently able to salvage your belongings from when Lady Tasina threw you overboard. They await you within a locked chest behind the throne. This key allows you to reclaim the items you'd thought long since lost...,
+a1_utnlkey,uti,LocalizedName,0,-1,Key to your Belongings!,
+a2_astrolabe,uti,DescIdentified,0,-1,"This must be the family heirloom that the Lighthouse Gnome, Vantabular Garsp, was searching for. Lichens grow on the mottled brass and one of the arcs has been bent out of shape. You doubt you'd have any reason to keep it for yourself.",
+a2_astrolabe,uti,LocalizedName,0,-1,Ancient Astrolabe,
+a2_exeaxe,uti,LocalizedName,0,169,NPC: Executioner's Axe,
+a2_exegarb,uti,DescIdentified,0,-1,"The duties of an executioner invite all manner of soils and stains. Blood, vomit, spittle, and rotten fruit must all be endured and then wiped clean at the end of the day. Sturdy, non-absorbent leathers are preferred and full coverage from head to toe is a must.",
+a2_exegarb,uti,LocalizedName,0,12918,NPC: Executioner's Garb,
+a2_exemask,uti,LocalizedName,0,90531,NPC: Executioner's Mask,
+a2_fannydress,uti,DescIdentified,0,13855,"Though one must feel pity for any woman forced to grow up with Blackbeard as a last name, Fanny appears to have survived well enough and now revels in her father's position as Governor of Spindrift Town. Swapping out the pirate blacks for naval blues, this voluminous dress shows all the trappings of high society. ",
+a2_fannydress,uti,LocalizedName,0,13854,NPC: Fanny's Dress,
+a2_fannysisdress,uti,LocalizedName,0,13854,NPC: Fanny's Sisters' Dress,
+a2_flowers,uti,DescIdentified,0,-1,Pegleg Paulson tells you that this wildflower was always one of Sweetie Marie's favorites. It grows on a low-lying bush out by the lighthouse. You never would have found it without the help of his map.,
+a2_flowers,uti,LocalizedName,0,-1,Wildflower,
+a2_hidepirategho,uti,LocalizedName,0,13205,Ghost Pirate Properties,
+a2_ioutatt,uti,DescIdentified,0,-1,"You examine the small sheet of well-worn vellum. The handwriting is thick and black:
+
+""If ye be stout o' heart and firm o' will, ye can redeem this here deed with the likes o' Falstaff the Tattooist for whate'er he has in mind...""
+
+It is stamped at the bottom with a skull and crossbones.",
+a2_ioutatt,uti,LocalizedName,0,-1,I.O.U. - Falstaff,
+a2_karrimtunic,uti,LocalizedName,0,12835,NPC: Captain Kolmarr's Tunic,
+a2_langer1,uti,LocalizedName,0,12914,NPC: Langer's Original Clothes,
+a2_langer2,uti,LocalizedName,0,12914,NPC: Langer's X-treme Clothes,
+a2_makeshiftarmo,uti,DescIdentified,0,-1,Nisar couldn't bear to remove the Midnight Rose's insignia from the sleeve of this uniform but he's put a lot of effort into disguising its origins while laying low in Spindrift. It seems better suited now to the dangerous times that are no doubt still ahead.,
+a2_makeshiftarmo,uti,LocalizedName,0,-1,Nisar's Uniform,
+a2_mayorgarb,uti,LocalizedName,0,-1,NPC: Governor Blackbeard's Clothes,
+a2_npcumbrobe,uti,LocalizedName,0,-1,NPC: Umberlant Robe,
+a2_nsrbttlx,uti,DescIdentified,0,-1,"You find it hard to remember, let alone imagine your crewmate Nisar without his trusty battleaxe. He's quite fearsome with it in battle and you pity anyone who finds their flesh at its cutting edge.",
+a2_nsrbttlx,uti,LocalizedName,0,169,Nisar's Battleaxe,
+a2_nwscepter,uti,DescIdentified,0,-1,This scepter plays an occasional ceremonial role within the Umberlant temple on Spindrift Island. The Sisters use it to bless newly wedded couples and to perform burials at sea. Both are common enough occurences that its absence will not go unnoticed for very long.,
+a2_nwscepter,uti,LocalizedName,0,-1,Scepter of Storms,
+a2_petering,uti,DescIdentified,0,-1,This is the ring Rascally Pete gave to Sir Francis for safekeeping before surreptitiously stealing it back and ensnaring Sir Francis in a wrongful debt of honor.,
+a2_petering,uti,LocalizedName,0,13485,Pete's Ring,
+a2_rascpete,uti,LocalizedName,0,12923,NPC: Rascally Pete's Outfit,
+a2_tattoo,uti,LocalizedName,0,12917,NPC: Falstaff's Outfit,
+a2_tattoo_dragon,uti,DescIdentified,0,-1,This is the 'Copper Dragon' tattoo you got as a memento of your time in Spindrift. Many believe tattoos to be a source of mystical power.,
+a2_tattoo_dragon,uti,LocalizedName,0,-1,Tattoo of a Copper Dragon,
+a2_tattoo_flame,uti,DescIdentified,0,-1,This is the 'Flaming Skull' tattoo you got as a memento of your time in Spindrift. Many believe tattoos to be a source of mystical power.,
+a2_tattoo_flame,uti,LocalizedName,0,-1,Tattoo of a Flaming Skull,
+a2_tattoo_pirate,uti,DescIdentified,0,-1,This is the 'Skull & Crossbones' tattoo you got as a memento of your time in Spindrift. Many believe tattoos to be a source of mystical power.,
+a2_tattoo_pirate,uti,LocalizedName,0,-1,Tattoo of a Skull & Crossbones,
+a2_tattoo_waves,uti,DescIdentified,0,-1,This is the 'Umberlee's Waves' tattoo you got as a memento of your time in Spindrift. Many believe tattoos to be a source of mystical power.,
+a2_tattoo_waves,uti,LocalizedName,0,-1,Tattoo of Umberlee's Waves,
+a2_umbrlntrobe,uti,DescIdentified,0,-1,"You acquired this robe from Pegleg Paulson in the hopes that it might help you infiltrate the Umberlant Temple in Spindrift. He let it out a bit at the sides and there are some unseemly sweatstains in the armpits but, other than that, it seems wearable enough.",
+a2_umbrlntrobe,uti,LocalizedName,0,-1,Umberlant Robe,
+a2_vantabgarb,uti,LocalizedName,0,13854,NPC: Vantabular's Garb,
+a2_willy1,uti,DescIdentified,0,-1,<no desc>,
+a2_willy1,uti,LocalizedName,0,12929,"NPC: Whipped Willigan - no garb, no boots",
+a2_willy2,uti,DescIdentified,0,-1,<no desc>,
+a2_willy2,uti,LocalizedName,0,12929,"NPC: Whipped Willigan - no garb, with boots",
+a2_willy3,uti,DescIdentified,0,-1,<no desc>,
+a2_willy3,uti,LocalizedName,0,12835,"NPC: Whipped Willigan - with garb, no boots",
+a2_wwboots,uti,DescIdentified,0,-1,Whipped Willigan's fine leather boots are a little less fine now than they had been in his prime. The leather has cracked with age and mildew is beginning to overtake the cuffs.,
+a2_wwboots,uti,LocalizedName,0,-1,Whipped Willigan's Fine Leather Boots,
+a2_wwcutless,uti,DescIdentified,0,-1,"The blade of Whipped Willigan's trusty cutlass is etched ornately with the image of a fantastical sea monster. It's hard to make out, however, beneath the rust.",
+a2_wwcutless,uti,LocalizedName,0,-1,Whipped Willigan's Trusty Cutlass,
+a2_wwgarb,uti,DescIdentified,0,-1,"Whipped Willigan must have looked quite debonair in his former pirate garb. Unfortunately, moths appear to have made short work of the seat.",
+a2_wwgarb,uti,LocalizedName,0,12835,Whipped Willigan's Pirate Garb,
+a3_aspecttrident,uti,LocalizedName,0,-1,NPC: Aspect of Umberlee Trident,
+a3_cptns_nfrm,uti,DescIdentified,0,-1,This uniform bears the rank and insignia of Ship's Captain.,
+a3_cptns_nfrm,uti,LocalizedName,0,-1,NPC: Captain Allendry's Uniform,
+a3_elitetrident,uti,LocalizedName,0,-1,NPC: Elite Sahuagin Trident,
+a3_fplt_umrl,uti,LocalizedName,0,-1,NPC: Umberlee Armor,
+a3_oilflask,uti,DescIdentified,0,2990,"Fountains of aromatic oils flow through Umberlee's Temple-Under-the-Sea, giving its air-filled upper chambers a saccharine, sickly smell. Despite its ceremonial use, it appears highly flammable, a property that may prove useful.",
+a3_oilflask,uti,LocalizedName,0,2982,Aromatic Oil,
+a3_sigilkey,uti,DescIdentified,0,-1,This arcane device is apparently used to activate the ancient sigils on the Isle of the Dead. Kolmarr has given the crew clear instructions to follow whoever wields it.,
+a3_sigilkey,uti,LocalizedName,0,-1,Sigil Activator,
+a3_talisaman,uti,DescIdentified,0,-1,Old Tom gave you this small protective bracelet when you first arrived on the Isle of the Dead. It appears to be some sort of lucky charm.,
+a3_talisaman,uti,LocalizedName,0,-1,Old Tom's Trinket,
+a3_tashide,uti,LocalizedName,0,110536,Tasina's Sea Hag Hide,
+a3_tasrobe,uti,LocalizedName,0,-1,NPC: Tasina's Robe,
+a3_undeaditem001,uti,DescIdentified,0,-1,"This piece of rough-edged charcoal has been imbued with negative energy. When thrown, the energy is released, damaging any living creatures with the resulting blast. ",
+a3_undeaditem001,uti,LocalizedName,0,-1,Deadman's Boon,
+a3_undeaditem002,uti,DescIdentified,0,-1,"Negative Energy has been stored within this glass rod. If you tilt it into the light, you can release the energy as a ray.",
+a3_undeaditem002,uti,LocalizedName,0,-1,Minor Prism of Negativity,
+a3_undeaditem003,uti,DescIdentified,0,-1,"Negative Energy has been stored within this glass rod. If you tilt it into the light, you can release the energy as a ray.",
+a3_undeaditem003,uti,LocalizedName,0,-1,Lesser Prism of Negativity,
+a3_undeaditem004,uti,DescIdentified,0,-1,"Negative Energy has been stored within this glass rod. If you tilt it into the light, you can release the energy as a ray.",
+a3_undeaditem004,uti,LocalizedName,0,-1,Moderate Prism of Negativity,
+a3_undeaditem005,uti,DescIdentified,0,-1,"Negative Energy has been stored within this glass rod. If you tilt it into the light, you can release the energy as a ray.",
+a3_undeaditem005,uti,LocalizedName,0,-1,Greater Prism of Negativity,
+a3_undeaditem006,uti,DescIdentified,0,-1,"Negative Energy has been stored within this glass rod. If you tilt it into the light, you can release the energy as a ray.",
+a3_undeaditem006,uti,LocalizedName,0,-1,Major Prism of Negativity,
+a3_wdnbrds,uti,DescIdentified,0,-1,These pre-nailed wooden planks are intended for rapid repairs should the ship's hull be damaged while at sea.,
+a3_wdnbrds,uti,LocalizedName,0,-1,Repair Planking,
+blk_fulplate,uti,DescIdentified,0,13776,You took this full plate armor from the corpse of a nefarious Blackriver Bandit leader while in Neverwinter.,
+blk_fulplate,uti,LocalizedName,0,91065,Blackriver Plate,
+blk_robe,uti,LocalizedName,0,12909,NPC: Blackriver Robe,
+blkrvr_halfplate,uti,LocalizedName,0,13139,NPC: Blackriver Half Plate,
+cloth005,uti,DescIdentified,0,-1,"Though mostly black, this revealing outfit bears the red and blue coloring of the Bloodsailor gang, albeit in muted tones. The original wearer probably wasn't a full-fledged member of Neverwinter's long-standing gang though they likely shared some tacit allegiance.",
+cloth005,uti,LocalizedName,0,12905,NPC: Dela's Tunic,
+cloth006,uti,DescIdentified,0,-1,"Edgrimm's robe is old and dusty but otherwise clean. It is a testament to his mental fortitude that he's retained the discipline to wash it regularly. On the other hand, it may be related to the robe's lingering magic.",
+cloth006,uti,Description,0,-1,"Edgrimm's robe is old and dusty but otherwise clean. It is a testament to his mental fortitude that he's retained the discipline to wash it regularly. On the other hand, it might be magic.",
+cloth006,uti,LocalizedName,0,12906,NPC: Edgrimm's Robe,
+clw_drspdr,uti,LocalizedName,0,13251,PotSC Dire Spider Bite,
+cup,uti,DescIdentified,0,-1,A few chips mar the rim of this sturdy cup. It's clearly seen many voyages aboard the Midnight Rose.,
+cup,uti,LocalizedName,0,-1,Small Porcelain Cup,
+cwpn_cbslm,uti,LocalizedName,0,90562,PotSC Cube Slam,
+grayoozebody,uti,LocalizedName,0,-1,Gray Ooze Properties,
+grayoozeslam,uti,LocalizedName,0,-1,Gray Ooze Slam,
+it_crewps011,uti,LocalizedName,0,13242,Shark Bite 1d8 (+1),
+item002,uti,DescIdentified,0,-1,"Crusted with salt and dirtied with crate-dust, these sturdy workman's clothes have been well-used.",
+item002,uti,LocalizedName,0,-1,NPC: Dockhand's Garb,
+journalofadwarve,uti,DescIdentified,0,-1,"Journal Entry - Day 1:
+   Storm-driven, the Widow's Promise foundered on unseen shoals during the night, tearing her asunder. I somehow managed to find shore amidst the tumult of the waves and am now stranded on this forsaken isle.
+-----
+Journal Entry - Day 2:
+   Beset by wild boars, I have been unable to find a safe place to rest. I have been able to procure a stout stick from amongst the driftwood and beat them off, at least. I even managed to kill one though I dare not eat the meat raw. I need to find a safe place to rest and build a fire. I see a great pillar of smoke across the shark-infested bay but I can find no means of getting there. Even so, it is reassuring to think that perhaps another sailor of the Widow's Promise has survived.
+-----
+Journal Entry - Day 3
+   I discovered a small cave, inhabited by strange, land-dwelling jellyfish. Their touch stings quite ferociously, leaving a bright red welt. Luckily, I was able to club them to death with my trusty stick, resulting in a foul-smelling ichor.
+   Using fibrous palm bark as tinder, I tried to strike a spark from a rock. It is harder than it looks and I fear this place has already taken a toll upon my strength. If only I had a flint! With some work and quick hands, however, I was able to drill my trusty stick between my hands and create an ember, however. It caught and I fed my precious stick to the resulting fire.
+   Boar meat roasts on the fire as I write this and I can see more of those strange land-jellies lurking in the shadows. They seem to fear the fire's light. Luckily I'ver gathered enough sticks to keep it burning through the night.
+-----
+Journal Entry - Day 4
+   Today has been a day of armaments. I tore the boar's leather into a sling and bashed the stone I was carrying into bullets. I've even taken another of my precious sticks and used the fire to harden its point into a spear. I have seen jaguars prowling about and I intend to kill one for a prize.
+-----
+Journal Entry - Day 6
+   Severely mauled by a jaguar, it has taken me two days to nurse my wounds and recover. I dare not let my precious fire go out, for I dearly need the rest. In my explorations, however, I spied the entrance to another cave. I suspect it leads to the far side of the island, across the bay. Judging by the plume of smoke, the fire there is large and burns continuously.
+   I had best find some means of making my fire portable if I intend to keep this new cave's inhabitants at bay. The foul-smelling ichor from the land-jellies looks flamable so perhaps I could fashion some kind of crude torch with it.
+-----
+Journal Entry - Day 7
+   I have squandered all my wood on weapons and experiments with torches. To my horror, all the driftwood that washed ashore today was sodden and useless and I've already used all the tinder I could find. With nothing left to fuel it, my precious fire has sputtered and gone out. As I write this, the last of the daylight is still keeping the land-jellies at bay. I know it will not last. I can only pray that my crude weapons will see me through the night...",
+journalofadwarve,uti,LocalizedName,0,-1,Survivor's Journal,
+key_goldenapple,uti,DescIdentified,0,-1,"This key grants access to the rooms on the upper floor of the Golden Apple Inn. For security reasons, these are typically available only to guests and servants of the Golden Apple.",
+key_goldenapple,uti,LocalizedName,0,-1,Golden Apple Room Key,
+map_flower,uti,DescIdentified,0,-1,"Sweetie Marie's favorite wildflower grows near the Lighthouse in the Sandy Spit. Luckily, you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+map_flower,uti,LocalizedName,0,-1,Treasure Map - Wildflowers,
+map_scepter,uti,DescIdentified,0,-1,"Somewhere within the Temple of Umberlee hides the coveted Scepter of Storms. Luckily, you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+map_scepter,uti,LocalizedName,0,-1,Treasure Map - Scepter of Storms,
+nw_cloth029,uti,Description,0,24980,"This is the somewhat garish uniform of the Bloodsailors pirate guild. By wearing this, a person might be able to fool a casual observer into thinking they are a Bloodsailor. Other actual members would probably see through the deception, however, as such groups are usually very adept at recognizing their own people.",
+nw_cloth029,uti,LocalizedName,0,12930,NPC: Bloodsailor Uniform,
+ochrejellycore,uti,LocalizedName,0,-1,Ochre Jelly (Core),
+ochrejellyeasy,uti,LocalizedName,0,-1,Ochre Jelly (Easy),
+ochrejellyhard,uti,LocalizedName,0,-1,Ochre Jelly (Hard),
+ochrejellymed,uti,LocalizedName,0,-1,Ochre Jelly (Med),
+ochreslameasy,uti,LocalizedName,0,-1,Ochre Jelly Slam (Easy),
+ochreslamhard,uti,LocalizedName,0,-1,Ochre Jelly Slam (Hard),
+ochreslammed,uti,LocalizedName,0,-1,Ochre Jelly Slam (Med),
+partialscale,uti,DescIdentified,0,-1,Garm has cobbled this partial suit of scale mail together from scavenged parts.,
+partialscale,uti,LocalizedName,0,-1,Garm's Scale,
+pirateclothes,uti,LocalizedName,0,-1,NPC: Pirate Clothes (Red w Pegleg),
+pirateclothes001,uti,LocalizedName,0,-1,NPC: Pirate Clothes (Red),
+pirateclothes002,uti,LocalizedName,0,-1,NPC: Pirate Clothes (Blue w Hook),
+pirateclothes003,uti,LocalizedName,0,-1,NPC: Pirate Clothes (Brown w Hook & Pegleg),
+pirateclothes004,uti,LocalizedName,0,-1,NPC: Pirate Clothes (Blue),
+pirateclothes005,uti,LocalizedName,0,-1,NPC: Pirate Clothes (Brown),
+poly_hide,uti,LocalizedName,0,-1,Poly's Hide,
+potsc_crystskll,uti,DescIdentified,0,-1,You've got to give it 'A' for effort but Poly's artwork clearly suffers from a lack of opposable thumbs...,
+potsc_crystskll,uti,LocalizedName,0,-1,Poly's Ill-Fated Craft Project,
+potsc_dmwand,uti,DescIdentified,0,-1,"This wand is for DMs only and is intended for use in the 'Pirates of the Sword Coast' premium module. It allows the user to:
+
+  - Toggle NPC conversation on and off. ",
+potsc_dmwand,uti,LocalizedName,0,-1,DM Wand - Pirates of the Sword Coast,
+potsc_gnrcndd,uti,LocalizedName,0,13205,Isle of Dead Undead Hide,
+potsc_goldpiece,uti,LocalizedName,0,535,Gold Piece,
+potsc_lkngglss,uti,DescIdentified,0,-1,"Thanks, Poly... Thanks...",
+potsc_lkngglss,uti,LocalizedName,0,-1,Poly's Precious Droppings,
+potsc_mrmdhr,uti,DescIdentified,0,-1,You're not entirely sure why Poly gave you a pair of the few feathers she still has left. You hope it's not like giving someone a lock of your hair because that would be... awkward.,
+potsc_mrmdhr,uti,LocalizedName,0,-1,Poly's Mangy Feathers,
+potsc_pc_hide,uti,LocalizedName,0,13205,Pirates of the Sword Coast,
+potsc_plycrstlgg,uti,DescIdentified,0,-1,"You've been confused about Poly's gender for quite some time. If this is actually 'hers,' then you suppose that should settle the matter. Even so...",
+potsc_plycrstlgg,uti,LocalizedName,0,-1,Poly's Crystal Egg,
+potsc_plygoldngg,uti,DescIdentified,0,-1,"You've been confused about Poly's gender for quite some time. If this is actually 'hers,' then you suppose that should settle the matter. Even so...",
+potsc_plygoldngg,uti,LocalizedName,0,-1,Poly's Golden Egg,
+potsc_rdrgnscl,uti,DescIdentified,0,-1,"You don't think this tongue is actually Poly's. A part of you wishes it was, mind you...",
+potsc_rdrgnscl,uti,LocalizedName,0,-1,Poly's Parrot Tongue,
+potsc_redtiphide,uti,LocalizedName,0,66579,NPC: Redtip's Arena Hide,
+potsc_shrkhd,uti,LocalizedName,0,66579,NPC: Shark Hide,
+potsc_umrnstr,uti,DescIdentified,0,-1,"You took this morningstar from the corpse of Utnal, King of Troglodyte Island.",
+potsc_umrnstr,uti,LocalizedName,0,1541,King Utnal's Morningstar,
+potsc_undead,uti,LocalizedName,0,13205,Kolmarr's Curse,
+potsc_undeadclwl,uti,LocalizedName,0,13277,PC Undead Claw (Left),
+potsc_undeadclwr,uti,LocalizedName,0,13277,PC Undead Claw (Right),
+ptn_nflct_crtwnd,uti,DescIdentified,0,-1,"This bottle is filled with a vile, ichor-like substance. You hope no one expects you to actually drink it.",
+ptn_nflct_crtwnd,uti,LocalizedName,0,-1,Potion of Inflict Critical Wounds,
+ptn_nflct_lgtwnd,uti,DescIdentified,0,-1,"This bottle is filled with a vile, ichor-like substance. You hope no one expects you to actually drink it.",
+ptn_nflct_lgtwnd,uti,LocalizedName,0,-1,Potion of Inflict Light Wounds,
+ptn_nflct_mdrwnd,uti,DescIdentified,0,-1,"This bottle is filled with a vile, ichor-like substance. You hope no one expects you to actually drink it.",
+ptn_nflct_mdrwnd,uti,LocalizedName,0,-1,Potion of Inflict Moderate Wounds,
+ptn_nflct_minwnd,uti,DescIdentified,0,-1,"This bottle is filled with a vile, ichor-like substance. You hope no one expects you to actually drink it.",
+ptn_nflct_minwnd,uti,LocalizedName,0,-1,Potion of Inflict Minor Wounds,
+ptn_nflct_srswnd,uti,DescIdentified,0,-1,"This bottle is filled with a vile, ichor-like substance. You hope no one expects you to actually drink it.",
+ptn_nflct_srswnd,uti,LocalizedName,0,-1,Potion of Inflict Serious Wounds,
+sahaugintrident,uti,LocalizedName,0,-1,NPC: Sahuagin Trident,
+sailorsuniform,uti,DescIdentified,0,-1,"Your buttons gleam and the wind tugs at the dyed cotton. This uniform bears the rank and insignia of Ship's Sailor. While it's a lowly rank aboard the Midnight Rose, it's nevertheless highly regarded when in port.",
+sailorsuniform,uti,LocalizedName,0,-1,Uniform of the Midnight Rose,
+tattooist_garb,uti,DescIdentified,0,-1,"Crusted with rust and blood, this tattooist's garb seems... unhygenic...",
+tattooist_garb,uti,LocalizedName,0,-1,NPC: Rusty Al's Garb,
+trs_g_jnk_001,uti,DescIdentified,0,-1,Something about this wooden eye is creeping you out. You wonder how many pirates it's belonged to...,
+trs_g_jnk_001,uti,LocalizedName,0,-1,Wooden Eye,
+trs_g_jnk_002,uti,DescIdentified,0,-1,That's odd... You didn't think fish had gizzards...,
+trs_g_jnk_002,uti,LocalizedName,0,-1,Fish Gizzard,
+trs_g_jnk_003,uti,DescIdentified,0,-1,It seems rather small for a whale's ear. Perhaps you shouldn't have gotten your hopes up...,
+trs_g_jnk_003,uti,LocalizedName,0,-1,Whale's Ear,
+trs_g_jnk_004,uti,DescIdentified,0,-1,This is a dead cockroach... At least you *think* it's dead...,
+trs_g_jnk_004,uti,LocalizedName,0,-1,Dead Roach,
+trs_g_jnk_005,uti,DescIdentified,0,-1,You admit that you've never really thought of squid tentacles as being particularly lucky before...,
+trs_g_jnk_005,uti,LocalizedName,0,-1,Lucky Squid Tentacle,
+trs_g_jnk_006,uti,DescIdentified,0,-1,A deck of playing cards to pass the time at sea.,
+trs_g_jnk_006,uti,LocalizedName,0,-1,Playing Cards,
+trs_g_jnk_007,uti,DescIdentified,0,-1,A kite to fly behind your ship and pass the time at sea.,
+trs_g_jnk_007,uti,LocalizedName,0,-1,Sailor's Kite,
+trs_g_jnk_008,uti,DescIdentified,0,-1,"A lock of hair, often given to sailors by their lovers to serve as a memento while at sea.",
+trs_g_jnk_008,uti,LocalizedName,0,-1,Lock of Hair,
+trs_g_jnk_009,uti,DescIdentified,0,-1,"Worn smooth by sea and sand, this piece of broken glass catches the light in such a remarkable way...",
+trs_g_jnk_009,uti,LocalizedName,0,-1,Driftglass,
+trs_g_jnk_010,uti,DescIdentified,0,-1,Kazoos provide great entertainment to those who play them. Those forced to listen often take a dimmer view of things.,
+trs_g_jnk_010,uti,LocalizedName,0,-1,Kazoo,
+trs_g_jnk_011,uti,DescIdentified,0,-1,A piece of colored glass cut to look like a proper gem. You suppose it could fool some people...,
+trs_g_jnk_011,uti,LocalizedName,0,-1,Blueglass Bauble,
+trs_g_jnk_012,uti,DescIdentified,0,-1,A piece of colored glass cut to look like a proper gem. You suppose it could fool some people...,
+trs_g_jnk_012,uti,LocalizedName,0,-1,Greenglass Bauble,
+trs_g_jnk_013,uti,DescIdentified,0,-1,"You're not sure exactly what type of poison this might be but, judging by the skull on the stopper and the little warning label that reads ""DANGER: Poison,"" you assume it must do something nasty...",
+trs_g_jnk_013,uti,LocalizedName,0,-1,Deathly Poison,
+trs_g_jnk_014,uti,DescIdentified,0,-1,A round ball used in the popular tossing game of bocce. You wonder if you could get someone to install a bocce pit on your next ship...,
+trs_g_jnk_014,uti,LocalizedName,0,-1,Bocce Ball,
+trs_g_jnk_015,uti,DescIdentified,0,-1,"A patch of sturdy sailcloth, often used by sailors to repair holes in the knees or the seat of their pants.",
+trs_g_jnk_015,uti,LocalizedName,0,-1,Sailcloth Patch,
+trs_g_jnk_016,uti,DescIdentified,0,-1,"You're not exactly sure what this is but the gold ought to be worth something, at least.",
+trs_g_jnk_016,uti,LocalizedName,0,-1,Golden Whatsit,
+trs_g_jnk_017,uti,DescIdentified,0,-1,"You found a stowaway! Unfortunately, it doesn't look like this one survived the crossing...",
+trs_g_jnk_017,uti,LocalizedName,0,-1,Stowaway,
+trs_g_jnk_018,uti,DescIdentified,0,-1,This ill-made harp is warped and out of tune. You're almost afraid to play it as you suspect the merest note might cause the flimsy old thing to collapse into dust.,
+trs_g_jnk_018,uti,LocalizedName,0,-1,Sailor's Harp,
+trs_g_jnk_019,uti,DescIdentified,0,-1,"A troglodyte mask, perfect for playing pranks on your bunkmates in the middle of the night.",
+trs_g_jnk_019,uti,LocalizedName,0,-1,Troglodyte Mask,
+trs_g_jnk_020,uti,DescIdentified,0,-1,The strangely doughy fruit of the so-called breadplant is bland and tasteless but surprisingly nourishing. ,
+trs_g_jnk_020,uti,LocalizedName,0,-1,Breadfruit,
+trs_g_jnk_021,uti,DescIdentified,0,-1,This haddock has been stuffed and mounted. Whoever caught it must have been very proud of the accomplishment.,
+trs_g_jnk_021,uti,LocalizedName,0,-1,Prize Haddock,
+trs_g_jnk_022,uti,DescIdentified,0,-1,This rock cod has been stuffed and mounted. Whoever caught it must have been very proud of the accomplishment.,
+trs_g_jnk_022,uti,LocalizedName,0,-1,Prize Rock Cod,
+trs_g_jnk_023,uti,DescIdentified,0,-1,This alewife has been stuffed and mounted. Whoever caught it must have been very proud of the accomplishment.,
+trs_g_jnk_023,uti,LocalizedName,0,-1,Prize Alewife,
+trs_g_jnk_024,uti,DescIdentified,0,-1,This herring has been stuffed and mounted. Whoever caught it must have been very proud of the accomplishment.,
+trs_g_jnk_024,uti,LocalizedName,0,-1,Prize Herring,
+trs_g_jnk_025,uti,DescIdentified,0,-1,"By reflecting the light of the sun, this signal mirror allows ships to communicate over quite a distance.",
+trs_g_jnk_025,uti,LocalizedName,0,-1,Signal Mirror,
+trs_g_jnk_026,uti,DescIdentified,0,-1,"A recent innovation, these goblets have proven quite popular among pirates and honest sailors alike. A suction cup at the goblet's base ensures that it doesn't tip in even the roughest seas.",
+trs_g_jnk_026,uti,LocalizedName,0,-1,Suction Goblet,
+trs_g_jnk_027,uti,DescIdentified,0,-1,"A devil mask, perfect for playing pranks on your bunkmates in the middle of the night.",
+trs_g_jnk_027,uti,LocalizedName,0,-1,Devil's Mask,
+trs_g_jnk_028,uti,DescIdentified,0,-1,Navigational charts are becoming increasingly popular on modern ships. Previously everyone sailed willy-nilly with no clear idea of where they were or where they were headed.,
+trs_g_jnk_028,uti,LocalizedName,0,-1,Navigational Charts - Moonshae Isles,
+trs_g_jnk_029,uti,DescIdentified,0,-1,Navigational charts are becoming increasingly popular on modern ships. Previously everyone sailed willy-nilly with no clear idea of where they were or where they were headed.,
+trs_g_jnk_029,uti,LocalizedName,0,-1,Navigational Charts - Sea of Fallen Stars,
+trs_g_jnk_030,uti,DescIdentified,0,-1,"Obtaining a Letter of Marque from the local government grants you immunity from prosecution for raiding enemy ships. As such, it is an important rite of passage for those hoping to become a noble Privateer and ultimately a respected Pirate King. This one has a blank line where you can sign your name if you so wish.",
+trs_g_jnk_030,uti,LocalizedName,0,-1,Letter of Marque,
+trs_g_jnk_031,uti,DescIdentified,0,-1,You found a message in a bottle! How exciting! Unfortunately it's in a foreign language that you can't seem to make heads or tails of. Darn ocean currents...,
+trs_g_jnk_031,uti,LocalizedName,0,-1,Message in a Bottle,
+trs_g_jnk_032,uti,DescIdentified,0,-1,You inspect the potatoes carefully but can't seem to find anything particularly magical about them.,
+trs_g_jnk_032,uti,LocalizedName,0,-1,Magic Potatoes,
+trs_g_jnk_033,uti,DescIdentified,0,-1,"Known for their scaly peel and bittersweet taste, dragonfruit are appreciated more for their novelty than their nourishment.",
+trs_g_jnk_033,uti,LocalizedName,0,-1,Dragonfruit,
+trs_g_jnk_034,uti,DescIdentified,0,-1,"If you were marooned on a desert island, what is the one book you'd take with you?",
+trs_g_jnk_034,uti,LocalizedName,0,-1,Half-Eaten Book,
+trs_g_jnk_035,uti,DescIdentified,0,-1,"Electric blankets are popular items aboard ships heading for colder climes. Judging by the frayed cord and exposed wires, this one has seen better days...",
+trs_g_jnk_035,uti,LocalizedName,0,-1,Electric Blanket,
+trs_g_jnk_036,uti,DescIdentified,0,-1,"For thousands of years, sailors have relied on the astrolabe to help them navigate the seas with the aid of the night stars. Now everyone uses the sextant because it has a cooler name.",
+trs_g_jnk_036,uti,LocalizedName,0,-1,Abandoned Astrolabe,
+trs_g_jnk_037,uti,DescIdentified,0,-1,"Stronger and less prone to rot than softer cotton, hempen ropes are commonly used to hoist the rigging and secure the ship.",
+trs_g_jnk_037,uti,LocalizedName,0,-1,Hempen Rope,
+trs_g_jnk_038,uti,DescIdentified,0,-1,"Tragically, much of the finest art of the Maztican Empire has been melted down into bars and ingots to better fill the holds of its Amnish conquerors.",
+trs_g_jnk_038,uti,LocalizedName,0,-1,Maztican Silver,
+trs_g_jnk_039,uti,DescIdentified,0,-1,"Notoriously prone to breakage, large glass mirrors rarely survive for any length at sea. Some luxury ships have tried to remedy the situation by supplying their wealthy passengers with mirrors fashioned from a polished, reflective tin.",
+trs_g_jnk_039,uti,LocalizedName,0,-1,Glossed Tin Mirror,
+trs_g_jnk_040,uti,DescIdentified,0,-1,"Small enough to fit in the hand yet explosive enough to sow the seeds of chaos, small firekegs such as these are popular among buccaneers and raiders.",
+trs_g_jnk_040,uti,LocalizedName,0,-1,Small Firekeg,
+trs_g_jnk_041,uti,DescIdentified,0,-1,"Some pirates consider it a mark of pride to pay their way in jewels rather than in proper coin. ""Mint me a coin with no king or ruler on the back o' it,"" the Dread Pirate Kraggus is reported to have said, ""and I'll gladly make it mine.""",
+trs_g_jnk_041,uti,LocalizedName,0,-1,Hoard of Jewels,
+trs_g_jnk_042,uti,DescIdentified,0,-1,A round ball used in the popular tossing game of bocce. This ball is intended for the more X-treme version of the sport where physical contact and dismemberment is actively encouraged. You wonder if you could get someone to install a bocce pit on your next ship...,
+trs_g_jnk_042,uti,LocalizedName,0,-1,X-treme Bocce Ball,
+trs_g_jnk_043,uti,DescIdentified,0,-1,What seafarers insist on referring to as a 'deck swab' is actually just a normal wetmop.,
+trs_g_jnk_043,uti,LocalizedName,0,-1,Deck Swab,
+trs_g_jnk_044,uti,DescIdentified,0,-1,You've never understood why people insist on collecting things like driftwood and rocks and seashells. What's so bloody special about them anyway?,
+trs_g_jnk_044,uti,LocalizedName,0,-1,Driftwood,
+trs_g_jnk_045,uti,DescIdentified,0,-1,There's something very piratey about crossbones but you can't quite put your finger on what it is.,
+trs_g_jnk_045,uti,LocalizedName,0,-1,Crossbones,
+trs_g_jnk_046,uti,DescIdentified,0,-1,There's something very piratey about skulls but you can't quite put your finger on what it is.,
+trs_g_jnk_046,uti,LocalizedName,0,-1,Skull,
+trs_g_jnk_047,uti,DescIdentified,0,-1,Mmmm. Cured sausage never goes bad... Well almost never...,
+trs_g_jnk_047,uti,LocalizedName,0,-1,Cured Sausage,
+trs_g_jnk_048,uti,DescIdentified,0,-1,Someone's already removed the message from this bottle. You wonder if you could fit a ship in it somehow...,
+trs_g_jnk_048,uti,LocalizedName,0,-1,Message Bottle,
+trs_g_jnk_049,uti,DescIdentified,0,-1,"A recent innovation, these goblets have proven quite popular among pirates and honest sailors alike. A suction cup at the goblet's base ensures that it doesn't tip in even the roughest seas.",
+trs_g_jnk_049,uti,LocalizedName,0,-1,Suction Goblet,
+trs_g_jnk_050,uti,DescIdentified,0,-1,"A recent innovation, these goblets have proven quite popular among pirates and honest sailors alike. A suction cup at the goblet's base ensures that it doesn't tip in even the roughest seas. Something about this wooden version smacks of a cheap ripoff, however.",
+trs_g_jnk_050,uti,LocalizedName,0,-1,Wooden Suction Goblet,
+trs_g_jnk_051,uti,DescIdentified,0,-1,"How did that pixie get in there, anyways? Dang pixies...",
+trs_g_jnk_051,uti,LocalizedName,0,-1,Pixie in a Bottle,
+trs_g_jnk_052,uti,DescIdentified,0,-1,Cod tongue is often considered a delicacy by those who haven't already tried it...,
+trs_g_jnk_052,uti,LocalizedName,0,-1,Cod Tongue,
+trs_g_jnk_053,uti,DescIdentified,0,-1,"Like their landlubber cousins, lawn darts, deck darts are rubber-tipped for safety. More fun than cards or bocce, many sailors consider a good game of deck darts as a perfectly acceptable way to pass the time while at sea.",
+trs_g_jnk_053,uti,LocalizedName,0,-1,Deck Darts,
+trs_g_jnk_054,uti,DescIdentified,0,-1,It's a nice enough flask but far too empty for your tastes...,
+trs_g_jnk_054,uti,LocalizedName,0,-1,Sailor's Flask,
+trs_g_jnk_055,uti,DescIdentified,0,-1,You wonder where these were looted and pillaged from...,
+trs_g_jnk_055,uti,LocalizedName,0,-1,Fine Silverware,
+trs_g_jnk_056,uti,DescIdentified,0,-1,"Too weak to serve as a dagger, this knife's broadly serrated edge and thin profile make it ideal for gutting fish.",
+trs_g_jnk_056,uti,LocalizedName,0,-1,Fish Knife,
+trs_g_jnk_057,uti,DescIdentified,0,-1,Line winches are often used to tighten the rigging or secure the ropes in the cargo hold.,
+trs_g_jnk_057,uti,LocalizedName,0,-1,Line Winch,
+trs_g_jnk_058,uti,DescIdentified,0,-1,"You're not entirely sure why you haven't thrown this away yet. If you leave it long enough, maybe someone else will do it.",
+trs_g_jnk_058,uti,LocalizedName,0,-1,Stinky Fish Bones,
+trs_g_jnk_059,uti,DescIdentified,0,-1,These sharp and shattered fragments are likely all that remain of a once-fine bottle of rum.,
+trs_g_jnk_059,uti,LocalizedName,0,-1,Broken Glass,
+trs_g_jnk_060,uti,DescIdentified,0,-1,Something about this silver statuette unnerves you. Most Maztican jewelry and art was melted down into ingots by their Amnish conquerors.,
+trs_g_jnk_060,uti,LocalizedName,0,-1,Maztican Statuette,
+trs_g_jnk_061,uti,DescIdentified,0,-1,"Pirates have long considered it a mark of pride to pay their way in jewels rather than in proper coin. ""Mint me a coin with no king or ruler on the back o' it,"" the Dread Pirate Kraggus is reported to have said, ""and I'll gladly make it mine."" When none would accept his challenge, he chose to mint his own. His so-called 'Pirate Coins' are still in wide use today.",
+trs_g_jnk_061,uti,LocalizedName,0,-1,Pirate Coin,
+trs_g_jnk_062,uti,DescIdentified,0,-1,This silver necklace is sadly striking. Most Maztican jewelry and art was melted down into ingots by their Amnish conquerors.,
+trs_g_jnk_062,uti,LocalizedName,0,-1,Maztican Necklace,
+trs_g_jnk_063,uti,DescIdentified,0,-1,"Pirates have long considered it a mark of pride to pay their way in jewels rather than in proper coin. ""Mint me a coin with no king or ruler on the back o' it,"" the Dread Pirate Kraggus is reported to have said, ""and I'll gladly make it mine."" When none would accept his challenge, he chose to mint his own. He and his crew fashioned the first batch into amulets and wore them proudly about their necks forever more.",
+trs_g_jnk_063,uti,LocalizedName,0,-1,Pirate Coin Amulet,
+trs_g_jnk_064,uti,DescIdentified,0,-1,"Having seen far too many clumsy buccaneers become entangled in the rigging while leaping onto enemy ships, the half-elven pirate, Darius Gulch, spent the bulk of his fortune on the development of teleportation-enabled 'boarding arrows.'
+
+Sadly, loss of life seems just as prevalent among those using his new invention, as they tended to appear in the midst of well-armed naval officers, fragile longbows still in hand.",
+trs_g_jnk_064,uti,LocalizedName,0,-1,Boarding Arrows,
+trs_g_jnk_065,uti,DescIdentified,0,-1,There's something about a silken sash about the waist that makes you look like you know what you're talking about.,
+trs_g_jnk_065,uti,LocalizedName,0,-1,Silken Sash,
+trs_g_jnk_066,uti,DescIdentified,0,-1,"Requiring little skill to fire and doing great damage to ship and sail alike, so-called 'Sail Burner' bolts are a popular starting point for those with piratical intent.",
+trs_g_jnk_066,uti,LocalizedName,0,-1,Sail Burners,
+trs_g_jnk_067,uti,DescIdentified,0,-1,"""Arrr, Yarrr, and Garrr: A Guide to the Pirate Idiom""
+
+This handy reference book for new pirates is already in its third printing.",
+trs_g_jnk_067,uti,LocalizedName,0,-1,"Arrr, Yarrr, and Garrr",
+trs_g_jnk_068,uti,DescIdentified,0,-1,"""Mothers, Don't Let Your Sons Grow Up to be Pirates""
+
+In recent years, so-called 'pirate poetry' has grown from a literary oddity to a full-fledged genre. Its proponents call the writing timeless but, secretly, you wonder if it's just a fad.",
+trs_g_jnk_068,uti,LocalizedName,0,-1,"Mothers, Don't Let Your Sons...",
+trs_g_jnk_069,uti,DescIdentified,0,-1,"You keep meaning to read this series of mystery novels but the thought of having to start all the way back at ""A is for Anchors"" rather shivers your timbers...",
+trs_g_jnk_069,uti,LocalizedName,0,-1,S is for Scurvy: A Pirate Potboiler,
+trs_g_jnk_070,uti,DescIdentified,0,-1,"""Off the Map: A Pirate's Guide to Stand-up Comedy""
+
+Not as funny as the back cover led you to believe...",
+trs_g_jnk_070,uti,LocalizedName,0,-1,Off the Map!,
+trs_g_jnk_071,uti,DescIdentified,0,-1,Jules Verne? Never heard of him...,
+trs_g_jnk_071,uti,LocalizedName,0,-1,"20,000 Leagues Under the Sea",
+trs_g_jnk_072,uti,DescIdentified,0,-1,"The life of a swashbuckler is full of bravery, grand adventure, and epic fencing duels. Aside from being remarkably comfortable, these swashbuckling boots allow you to dodge your opponent's strikes with greater flair. ",
+trs_g_jnk_072,uti,LocalizedName,0,-1,Swashbuckler's Boots,
+trs_g_jnk_073,uti,DescIdentified,0,-1,This well-used pair of rawhide gloves offer great protection for your hands at the expense of dexterity.,
+trs_g_jnk_073,uti,LocalizedName,0,-1,Shipwright's Gloves,
+trs_g_jnk_074,uti,DescIdentified,0,-1,"In military terms, the ensign is the lowest rank of commisioned officiers. On pirate vessels, ensigns are the first ones off the boat when you land at the mysterious island, and the ones asked to open the treasure chest in case of traps.",
+trs_g_jnk_074,uti,LocalizedName,0,-1,Ensign's Tunic,
+trs_g_jnk_075,uti,DescIdentified,0,90962,"The sea urchin is a small, spine-covered creature found on the seafloor. The roe of the urchin is a popular food. The spines produce a mild poison which will injure but not kill a foe.
+",
+trs_g_jnk_075,uti,LocalizedName,0,90969,Sea Urchin Poison,
+trs_g_jnk_076,uti,DescIdentified,0,90962,"Blowfish venom is highly toxic, resulting in nausea and breathing problems. Death can occur within minutes. If poisoned, apply a vinegar-based anti-vemon and seek medical attention.",
+trs_g_jnk_076,uti,LocalizedName,0,90977,Blowfish Venom,
+trs_g_jnk_077,uti,DescIdentified,0,90962,Poisoning from a stingray attack is very serious and must be treated immediately. It usually takes 24-48 hours for an individual to recover completely.,
+trs_g_jnk_077,uti,LocalizedName,0,90975,Stingray Poison,
+trs_g_jnk_078,uti,DescIdentified,0,-1,This simple ceramic bowl could have come from any home along the Sword Coast. It definitely shows signs of looting and pillaging...,
+trs_g_jnk_078,uti,LocalizedName,0,-1,Ceramic Bowl,
+trs_g_jnk_079,uti,DescIdentified,0,-1,This finely crafted clock bears the mark of one of Waterdeep's most skilled clocksmiths. It also shows clear signs of looting and pillaging...,
+trs_g_jnk_079,uti,LocalizedName,0,-1,Expensive Clock,
+trs_g_jnk_080,uti,DescIdentified,0,-1,"You've heard street hawkers claim that shards such as these were discovered during an excavation of one of the lost cities of Faerun. Over the years, you've stayed at a number of inns that had bowls and cups with the same pattern.",
+trs_g_jnk_080,uti,LocalizedName,0,-1,Pottery Shards,
+trs_g_jnk_081,uti,DescIdentified,0,13414,Even the most experienced sailor will experience seasickness now and then. A good ship's chaplain should always have an adequate supply of curative potions on hand.,
+trs_g_jnk_081,uti,LocalizedName,0,13415,Elixir of Cure Critical Seasickness,
+trs_g_jnk_082,uti,DescIdentified,0,13448,Even the most experienced sailor will experience seasickness now and then. A good ship's chaplain should always have an adequate supply of curative potions on hand.,
+trs_g_jnk_082,uti,LocalizedName,0,13449,Elixir of Cure Moderate Seasickness,
+trs_g_jnk_083,uti,DescIdentified,0,13412,Even the most experienced sailor will experience seasickness now and then. A good ship's chaplain should always have an adequate supply of curative potions on hand.,
+trs_g_jnk_083,uti,LocalizedName,0,13413,Elixir of Cure Serious Seasickness,
+trs_g_jnk_084,uti,DescIdentified,0,-1,These bolts look like they have been specifically designed to be fired while underwater.,
+trs_g_jnk_084,uti,LocalizedName,0,-1,Aquatic Bolts,
+trs_g_jnk_085,uti,DescIdentified,0,-1,"These coral nodules have been shaped into near-perfect spheres. They emit a high-pitched sound, like a boatswain's whistle, as they fly towards their target.",
+trs_g_jnk_085,uti,LocalizedName,0,-1,Coral Bullets,
+trs_g_jnk_086,uti,DescIdentified,0,-1,"The Twelve Short Adventurers were a popular seafaring circus that traveled the length and breadth of the Nelanthar Isles. The company, comprised of halfling acrobats and escape artists, gained fame and renown for their lavish and imaginative performances.",
+trs_g_jnk_086,uti,LocalizedName,0,-1,Juggling Axes of the 12 Short Adventurers,
+trs_g_jnk_087,uti,DescIdentified,0,-1,Carpal tunnel syndrome is a common complaint among sailors forced to wind the rigging day and night.,
+trs_g_jnk_087,uti,LocalizedName,0,-1,Wrist Splint,
+trs_g_jnk_088,uti,DescIdentified,0,-1,A warm cloak can mean the difference between life and death while at sea.,
+trs_g_jnk_088,uti,LocalizedName,0,-1,Salt-Crusted Sailor's Cloak,
+trs_g_jnk_089,uti,DescIdentified,0,-1,Sealing your belongings within this bag should keep them from getting too wet.,
+trs_g_jnk_089,uti,LocalizedName,0,-1,Oilskin Bag,
+trs_g_jnk_090,uti,DescIdentified,0,-1,"When clenching this blade between your teeth, be careful not to slice your tongue.",
+trs_g_jnk_090,uti,LocalizedName,0,-1,Rusty Pirate's Dagger,
+trs_g_jnk_091,uti,DescIdentified,0,-1,"Naval battles are a fearful prospect at the best of times but, should you ever witness the surface of the sea erupt in flames about you, it's said you'll never catch a wink of sleep again.",
+trs_g_jnk_091,uti,LocalizedName,0,-1,Burning Oil,
+trs_g_jnk_092,uti,DescIdentified,0,-1,"Intended for chopping ropes and rigging in times of emergencies, ruthless buccaneers have been known to turn these blades to other uses while in port. ",
+trs_g_jnk_092,uti,LocalizedName,0,-1,Ropecutter,
+trs_g_jnk_093,uti,DescIdentified,0,-1,"This pirate's cutlass is lightweight and finely balanced, a perfect mix for swashbuckling.",
+trs_g_jnk_093,uti,LocalizedName,0,-1,Fine Pirate Cutlass,
+trs_g_jnk_094,uti,DescIdentified,0,-1,This heavy cutlass has a considerable heft and weight for its size. It's intended more for clearing the decks than for lengthy swashbuckling duels. ,
+trs_g_jnk_094,uti,LocalizedName,0,-1,Heavy Cutlass,
+trs_g_jnk_095,uti,DescIdentified,0,-1,"With its short blade and upturned tip, this simple knife is ideal for hostile boarding actions. While its leading edge is deathly sharp, the other has been intentionally dulled so you can carry it between your teeth while you swing with both hands from the rigging.",
+trs_g_jnk_095,uti,LocalizedName,0,-1,Boarding Knife,
+trs_g_jnk_096,uti,DescIdentified,0,-1,"Ten years ago, bold mercenaries in the service of Amn dared the Trackless Sea, sailing into the sunset for week after week until they reached an unexplored land -- Maztica. Fighting against the strange warriors of the land, they established a foothold on the western continent. Several powerful merchant companies now struggle to wring wealth from this new land. Trade, discovery, and no small amount of fighting against hostile Mazticans and competing Faerunians is the result.
+
+Maztica is a land of forbidding natural barriers and hundreds of remote, reclusive cultures, most of whome are hostile to each other. Every year more silver, gemstones, and valuable new crops such as vanilla and coffee are brought back to Faerun in Amnian carracks, a one-sided trade that promises to enrich that nation beyond belief.",
+trs_g_jnk_096,uti,LocalizedName,0,-1,Maztica: Discovery & Conquest,
+trs_g_jnk_097,uti,DescIdentified,0,-1,"Umberlee is widely considered a malicious, mean, and evil deity who breaks agreements on a whim and takes great pleasure in watching others die by drowning or in the jaws of sea predators. Often portrayed as vain and desirous of flattery, she's apparently excessively greedy for power and revels in ecercising it.
+
+Sailors and pirates frequent Umberlant temples to make offerings of candles, flowers, candies, or coins to appease the Sea Queen's wrath. Her clerics support themselves with these offerings and sometimes hire themselves out aboard ships as guardians, since sailors think Umberlee won't take one of her own.
+
+The church of Umberlee is disorganized and run differently in different locales. Its clerics are often given to dueling with each other to settle disputes of rank or purported heresy.
+
+Umberlant clerics pray for spells at high tide and their two public rituals are the First Tide and the Stormcall. The first involves a parade through town with a caged animal, which is then tied to a rock and hurled into the sea. If it reaches shore alive, it is treated as a sacred animal for the rest of its days. Stormcall is a sanctifying prayer to summon or turn aside a storm. Its participants pray around pools upon which float candles on driftwood planks. Small offerings are occasionally thrown into the pools.",
+trs_g_jnk_097,uti,LocalizedName,0,-1,On the Worship of Umberlee,
+trs_g_jnk_098,uti,DescIdentified,0,-1,"The Nelanthar Isles are a widely scattered chain of nearly a thousand islands sprinkled from Amn into the Trackless Sea. More than half the islands lack water and are fit only for wrecking ships upon. The hundreds of islands that have drinkable water and can support life are widely contested by foreign powers and the region's inhabitants alike.
+
+The Nelanthar Isles have always divided Faerun's northern seafarers from its southern waters. With the rise of the mercantile powers of the northern waters -- Amn, Waterdeep, Luskan, and Neverwinter -- traffic through the Nelanthar Isles has burgeoned into a rich stream of trade. That activity, of course, has attracted pirates like a battlefield draws crows.
+
+The raiders of the Nelanthar Isles live by the winds that fill their sails on the Sea of Swords and die by the gales that occasionally smash them to Umberlee's depths. The pirates here are born into the society's violent cycle and escape only by dying, usually while young.",
+trs_g_jnk_098,uti,LocalizedName,0,-1,The Nelanthar Isles,
+trs_g_jnk_099,uti,DescIdentified,0,-1,"These helmets are named for the behemoth of the seas, the kraken. Krakens resemble immense squids but they have eight tentacles and can grow to a length of 90 feet.
+
+Merchants assure queasy customers that the helmet isn't actually made from kraken flesh but owners often swear their skin feels slimy after wearing it.",
+trs_g_jnk_099,uti,LocalizedName,0,-1,Krakenhelm,
+trs_g_jnk_100,uti,DescIdentified,0,-1,There's nothing particularly special about these pirate leathers but they sure look dashing.,
+trs_g_jnk_100,uti,LocalizedName,0,12835,Fancy Pirate Leathers,
+trs_g_jnk_101,uti,DescIdentified,0,-1,"This book is a collection of maritime tales and seafaring ballads from across Faerun. One particular story catches your eye.
+
+Ghost Ships:
+
+The Sword Coast is famed for brutal battles between rival navies, pirates and merchants, sailors and the monsters of the deeps seeking to drag them down - and dragons pouncing from the skies, seeking to smash and sink or slay. Such strife never ceases.
+
+Over the centuries, thousands of vessels have been lost at sea... and not all of them lie quietly beneath the waves. Wherever sailors in taverns talk of the sea, they mention Those Who Sail Forever, then duck their heads and make warding circles with their thumbs to keep the undead from hearing and coming for them.
+
+While some pirates and slavers use the cloaks of night, fog, and bobbing skull-masks to pose as ""ghost ships,"" true ghost ships do sail the waters of Faerun. Spells on the hull or tainted and corrupted magical energies used on the cargo keep some such ships afloat. They sail empty, or with skeletons or zombies as crew. They may ride the waves with or without sails rigged, or wallow along waterlogged, with decks awash yet refusing to sink. Others are true phantoms: wraithlike clouds that are images of their former selves.
+
+It's said that the sea goddess, Umberlee, uses ghost ships to bring long-drowned magic items back into the hands of those who'll take them ashore, or bear treasure tales into port to draw the greedy out into her clutches.
+
+Famous ghost ships include ""Red Prow"" of Calimport, a slave ship that sank under the weight of the gold and gems it carried. It now houses wraiths and 'weirder things' that ride folk like steeds. Perhaps most feared is ""Ravager"" of the Dread Pirate Gonchklas, a wallowing wreck of a caravel with tattered sails and a zombie and skeleton crew who storm and board every vessel they encounter.",
+trs_g_jnk_101,uti,LocalizedName,0,-1,Maritime Tales of Faerun,
+trs_g_jnk_102,uti,DescIdentified,0,-1,"This book is a collection of tales and traditional ballads from across Faerun.   One particular story catches you eye.
+
+Sariah and the Ocean Strider:
+
+Once upon a time, Sariah Badgeriver met an Ocean Strider. Sariah was fishing, as she did most every day, when she was set upon by an Ocean Strider who had moved into her river and claimed it for its own. Sariah's family had lived along that river for generations and, in her pride, she was not about to give up to home to anyone, even a ravenous, gargantuan fey...
+
+Upon further reading you find several versions of the same story. Some versions have Sariah battling the Ocean Strider to the death while others describe her tricking the Ocean Strider into relinquishing its claim on the river. In yet another version of the story, Sariah embarks on a lengthy quest on the Ocean Strider's behalf, in exchange for its promise to leave the rive and never return.
+
+Whichever way the stories unfold, one part always remains the same: In the end, Sariah Badgerriver always winds up possessing the Ocean Strider's scimitar, be it through force, trickery or as an honest boon.",
+trs_g_jnk_102,uti,LocalizedName,0,-1,Folklore of Faerun,
+trs_g_jnk_103,uti,DescIdentified,0,-1,"The Order of the Calming Wave is a monastic order devoted to following the principles established by Valkur, God of Sails. The monks of this order are explorers, adventurers and sailors. This is one of the many proselytizing texts written by the Order and used to illustrate their monastic philosophy.
+
+Valkur says: If humankind is to expand its reach, daring men and women must defy the odds and achieve the impossible.
+
+So consider this tale: The trap was difficult to detect and nearly impossible to disarm, as dwarven traps are bound to be. After nearly an hour of intense concentration, however, Rhistel Erinenen was finally able to dismantle the mechanism. Stepping back, she began to breathe again. The ornate door is covered in dwarven runes that she has seen before but cannot understand. The answers she seeks must lie behind the door.
+
+The thought that she will soon be where no one has set foot for thousands of years only increases her resolve to pick the lock. As she unpacks her thieves' tools, she can hear faint sounds of scratching on the other side of the door. Considering the door's size, Rhistel cannot fathom how that can be so she takes her Horn of Hearing and places it to her ear.
+
+The scratching becomes more pronounced, coupled with other sounds. Many more other sounds...
+Rhistel unlocks the door.
+",
+trs_g_jnk_103,uti,LocalizedName,0,-1,"Valkur's Text for Better Living, v.1",
+trs_g_jnk_104,uti,DescIdentified,0,-1,"The Order of the Calming Wave is a monastic order devoted to following the principles established by Valkur, God of Sails. The monks of this order are explorers, adventurers and sailors. This is one of the many proselytizing texts written by the Order and used to illustrate their monastic philosophy.
+
+Valkur says: There is always risk but, without risk, life is empty.
+
+So consider this tale: Scarlett Willowdale peers through a spyglass at the island in the distance. After five days, the fog had finally lifted but unfortunately did nothing to lift the spirits of the crew.
+
+The sahuagin attack still fresh in their minds, it took them three weeks to regain their course following the storm. Rations are running low, bringing the crew's morale with it. Whispers from belowdeck suggest that the treasure promised by the sea hag may no longer be worth the effort.
+
+Scarlett knows that once they reach land and resupply, talk of mutiny will fade away but her heart sinks at what she sees through the spyglass. The island is crawling with undead...
+
+She decides not to tell the crew of her discovery until it is already too late for them to turn back.",
+trs_g_jnk_104,uti,LocalizedName,0,-1,"Valkur's Text for Better Living, v.2",
+trs_g_jnk_105,uti,DescIdentified,0,-1,"The Order of the Calming Wave is a monastic order devoted to following the principles established by Valkur, God of Sails. The monks of this order are explorers, adventurers and sailors. This is one of the many proselytizing texts written by the Order and used to illustrate their monastic philosophy.
+
+Valkur says: Life is to be lived. Damn the consequences.
+
+Andre La Guerre stares deeply into the eyes of the Lady Sanchester as she finally breaks away from his kiss. Those eyes, as green as flawless emeralds, have captured his heart.
+ 
+He did not come to Waterdeep looking to fall in love. He came searching for an agent of the Black Network; an assassin, wizard and saboteur sent to sow dissent and chaos within the City of Splendor and beyond.
+
+Instead he found Lady Ryder Sanchester, born into the wealth and privilege of the city's noble class. She was denied nothing in her youth but she grew into no weak and pampered princess. Andre sees in her the beauty of a fey, the mind of a scholar, the soul of a paladin, and the spirit of a dragon.  But she is also the wife of the man Andre is hunting.
+
+Having never felt this way about a woman before, Andre considers his love for her to be greater than the number of stars in the sky. He wishes he could tell her how he feels; he must tell her how he feels...
+
+Before the words can leave his lips, however, they are interrupted by a fierce pounding on her chamber door. An angry voice cries out for her. It is the Lord Sanchester. If Andre is found within, he endangers his own life as well as that of his newfound love, to say nothing of the failure of his mission.
+
+Andre spies the open window. Though he has but one chance to escape, he cannot tear himself away from his lover's side. He draws her close to him for another kiss as the door splinters into a slivered cloud...",
+trs_g_jnk_105,uti,LocalizedName,0,-1,"Valkur's Text for Better Living, v.3",
+trs_g_jnk_106,uti,DescIdentified,0,-1,"The boots were obviously made for surface dwellers and not the sea devils for which they are named. They fit snugly and are made from a water-resistant material, making them popular with sailors and fishermen.",
+trs_g_jnk_106,uti,LocalizedName,0,-1,Boots of the Sahuagin,
+trs_g_jnk_107,uti,DescIdentified,0,-1,"The Order of the Calming Wave was founded by a group of pirates after a particularly fierce storm. The ship's cleric decreed that the Captain had angered Umberlee and brought the storm upon them but Valkur had looked favorably upon them and saw fit to protect them from her wrath.
+
+Forsaking their old ways, the former pirates devoted themselves to Valkur's service and the spreading of his gospel by land and sea.",
+trs_g_jnk_107,uti,LocalizedName,0,-1,Boots of the Calming Wave +1,
+trs_g_jnk_108,uti,DescIdentified,0,-1,"A piece of coral has been coaxed and smoothed into the shape of a ring.
+
+As aquatic elves wear little clothing or armor, they tend to rely on enchanted jewelry to aid in them in times of peace and war.",
+trs_g_jnk_108,uti,LocalizedName,0,-1,Ring of the Aquatic Elves +1,
+trs_g_jnk_109,uti,DescIdentified,0,-1,"Waving lines, gleaming pearls, and a three-pronged head mark this strange spear as being of Sahuagin origin.",
+trs_g_jnk_109,uti,LocalizedName,0,-1,Sahuagin Spear,
+trs_u_nml_001,uti,DescIdentified,0,-1,There be two types o' pirates in the world. Noble Privateers grow up to be Pirate Kings while nefarious Buccaneers stake their fame and fortune on becoming Dread Pirates. This medallion be one that once belonged to the latter.,
+trs_u_nml_001,uti,LocalizedName,0,-1,Dread Pirate's Medallion,
+trs_u_nml_002,uti,DescIdentified,0,-1,"The life of a swashbuckler is full of bravery, grand adventure, and epic fencing duels. Fashioned from light and breathable cotton, this nimble swashbuckling suit gives you a secret edge when fighting with two weapons.",
+trs_u_nml_002,uti,LocalizedName,0,-1,Swashbuckler's Secret,
+trs_u_nml_003,uti,DescIdentified,0,-1,"Alexis von Stromme, a disgraced and fallen paladin of Torm, took to the high seas in an effort to hide himself from the accusing eyes of his former god. He never succeeded, of course, and felt ashamed of his misdeeds to the end of his days.
+
+As part of his attempted attonement, Alexis wore his once-holy armor night and day, fearing that, if he took it off, Torm would not allow him re-equip it the next morn. Over time, the sea air brought it to rust and ruin though Torm never withdrew its favors.",
+trs_u_nml_003,uti,LocalizedName,0,-1,Faded Glory,
+trs_u_nml_004,uti,DescIdentified,0,-1,"Weary of the endless rains that seemed to follow him wherever he went, the famed gnomish navigator, Admiral Olaf Olafson developed a protective rain slicker that was as effective as it was garish. Fashioned from oiled leather and sealed with the waterproof sap of the Chultan rubber tree, Olaf continually improved the design until his unfortunate death by chafing twelve years later. Though his will demanded that he be buried in his precious oilskin, his wife bought him a proper three-piece suit for the occasion.",
+trs_u_nml_004,uti,LocalizedName,0,-1,Admiral Olaf's Oilskin,
+trs_u_nml_005,uti,DescIdentified,0,-1,"One of the more disciplined pirates to ply the seas, Captain Will Cuthbert maintained a strict daily regimen of proper excercise and a protein-rich diet. His aversion to fruits and vegetables ultimately led to death by scurvy well before the peak of his still nascent career. ",
+trs_u_nml_005,uti,LocalizedName,0,-1,Strength of Will,
+trs_u_nml_006,uti,DescIdentified,0,-1,"Scholars remain divided regarding the inner motivations of Dread Pirate Admiral, Tasha MacQueen. Some consider her a trickster and a scallywag of the most nefarious sort while others call her a jokingly innocent naif who simply got caught up in the wrong crowd. All agree that, intentionally or otherwise, she was one of the worst-dressed pirates to ever plague the peoples of the Sword Coast.",
+trs_u_nml_006,uti,LocalizedName,0,-1,Tasha's Hideous Getup,
+trs_u_nml_007,uti,DescIdentified,0,-1,"Short even by dwarven standards, famed Pirate King Kjell Kristofferson had an almost pathological hatred for tall-masted ships. Whenever he captured one at sea, he would immediately chop down the mainmast and order his tireless crew to row her back to port as if she were a dwarven longship. Despite his noble reputation, mutinies were common.",
+trs_u_nml_007,uti,LocalizedName,0,-1,Mastfeller,
+trs_u_nml_008,uti,DescIdentified,0,-1,There be two types o' pirates in the world. Noble Privateers grow up to be Pirate Kings while nefarious Buccaneers stake their fame and fortune on becoming Dread Pirates. This bandolier be one that once belonged to the latter.,
+trs_u_nml_008,uti,LocalizedName,0,-1,Dread Pirate's Bandolier,
+trs_u_nml_009,uti,DescIdentified,0,-1,There be two types o' pirates in the world. Noble Privateers grow up to be Pirate Kings while nefarious Buccaneers stake their fame and fortune on becoming Dread Pirates. These fine calfskin boots be ones that once belonged to the latter.,
+trs_u_nml_009,uti,LocalizedName,0,-1,Dread Pirate's Calfskin Boots,
+trs_u_nml_010,uti,DescIdentified,0,-1,These popular gloves have a leather palm for extra grip and a breathable knit back of Cormyrian cotton for extra comfort.,
+trs_u_nml_010,uti,LocalizedName,0,-1,Improved Shipwright's Gloves,
+trs_u_nml_011,uti,DescIdentified,0,-1,These gloves are made from fine-grained pigskin. Their unique design exposes the tips of two fingers and the thumb for greater control in even the toughest jobs.,
+trs_u_nml_011,uti,LocalizedName,0,-1,Master Shipwright's Gloves,
+trs_u_nml_012,uti,DescIdentified,0,-1,"The bosun or boatswain acts as a link between the officiers and the crew, by summoning the crew to their duties and  relieving them at watch. The boatswain also ensures that all rigging and cargo are secured.
+
+A boatswain's uniform must provide all the same comfort and protection as a crewman's but with a formality to reflect their greater responsibilities.",
+trs_u_nml_012,uti,LocalizedName,0,-1,Boatswain's Uniform,
+trs_u_nml_013,uti,DescIdentified,0,-1,"The shipwright is responsible for ensuring that the hull, masts, yardarms and all other wooden structures aboard the ship are good working order.",
+trs_u_nml_013,uti,LocalizedName,0,-1,Shipwright's Tunic,
+trs_u_nml_014,uti,DescIdentified,0,-1,"Syllialis ""Sea Menace"" Cladreshe had this suit of armor made to commemorate the day he obtained the title of Pirate King. His fearsome reputation and legendary exploits were enough to inspire his crew but he knew he'd need more than that to protect himself against anyone bold enough to challenge the title.",
+trs_u_nml_014,uti,LocalizedName,0,-1,Armor of the Pirate King,
+trs_u_nml_015,uti,DescIdentified,0,-1,"A seaman is responsible for any duties on deck save navigation. The duties are many and varied, ranging from cleaning the deck and the operation and handling of the rigging to manning the lifeboat in times of emergency.
+
+Clothing worn by a seaman must be light and comfortable enough for long hours of work, while still providing protection from the elements.",
+trs_u_nml_015,uti,LocalizedName,0,-1,Shirt of the Able Seaman,
+trs_u_nml_016,uti,DescIdentified,0,-1,"Happy Jack the pirate began his career at age nine when he was kidnapped by the Dread Pirate Silverfalls and forced to serve as midshipman.
+ 
+A midshipman is the captain's servant while learning the basics of seamanship and navigation.",
+trs_u_nml_016,uti,LocalizedName,0,-1,Midshipman's Garb,
+trs_u_nml_017,uti,DescIdentified,0,-1,"Born into a proud noble family, Talissa Sagewell served as a Purple Dragon Knight of Cormyr until being discharged for a crime she did not commit. Disheartened and bitter, she was eventually drawn into a life of piracy where she allowed the sea to wash away her pain and hostility.
+
+Upon acquiring her first ship, she used the shield she bore as a Purple Knight as the figurehead, a reminder that she alone was responsible for the path that she had chosen. It served as a marker towards the true path of her heart; one of honor and discipline. Noble privateers honor her to this day.",
+trs_u_nml_017,uti,LocalizedName,0,-1,Privateer Sagewell's Figurehead,
+trs_u_nml_018,uti,DescIdentified,0,-1,"This ring is made up of tiny prongs, wires, and other small devices that spring to life on command. Pirates are notorious for accidentally locking themselves out of their own treasure chests.",
+trs_u_nml_018,uti,LocalizedName,0,-1,Lockpicker's Ring,
+trs_u_nml_019,uti,DescIdentified,0,-1,"This portrait of a distinguished gentleman of Luskan stares back at you. His eyes seem to follow you wherever you go, as if blaming you for all the looting and pillaging that brought him here.",
+trs_u_nml_019,uti,LocalizedName,0,-1,Haunting Portrait,
+trs_u_nml_020,uti,DescIdentified,0,-1,"Life at sea is a dangerous prospect at the best of times. The calmest of waters can be home to the foulest of beasts. Even in times of peace, however, it's a useful means of charming your way into the ship's larder.",
+trs_u_nml_020,uti,LocalizedName,0,-1,Harp of the Beastmaster,
+trs_u_nml_021,uti,DescIdentified,0,-1,"The Pirate King Brohm was a privateer of impeccable honor. He and his crew sailed his longship, the Clanhold, against only the most nefarious of buccaneers and Dread Pirates.
+
+In Brohm's absence, however, orcs descended on the ship's undefended namesake, killing off all of the crew's kith and kin who had stayed ashore. When they returned home and saw what the orcs had wrought, Brohm's men burned their mighty longship and swore never again to sail the seas.",
+trs_u_nml_021,uti,LocalizedName,0,-1,The Clanhold Defender,
+trs_u_nml_022,uti,DescIdentified,0,-1,"The dolphin etched into the base of this trident signifies that it once served a cleric of the Elven god, Deep Sashelas.
+Elven script winds its way up the stock.
+
+Translated it reads: ""Promote knowledge and grant reasonable folk use of the sea. Fight those who would taint its beauty or deplete its bounty.""",
+trs_u_nml_022,uti,LocalizedName,0,-1,The Dolphin Prince,
+trs_u_nml_023,uti,DescIdentified,0,-1,"The sole benefit of being attacked at sea is that it's very hard to be ambushed. Though pirates are certainly feared for their skill with cutlasses and rapiers, the heart of the battle occurs at range. Once they've boarded, you've already lost...",
+trs_u_nml_023,uti,LocalizedName,0,-1,The Fleet Admiral's Favorite,
+trs_u_nml_024,uti,DescIdentified,0,-1,"What sailor hasn't dreamed of mastering the winds? While wands such as these certainly have their use, one would have to fill an entire hold with them if you hoped to sail any distance under their power.",
+trs_u_nml_024,uti,LocalizedName,0,-1,Wand of the Winds,
+trs_u_nml_025,uti,DescIdentified,0,-1,"The life of a swashbuckler is full of bravery, grand adventure, and epic fencing duels. Aside from looking rather dashing, this swashbuckling cape will also protect you from the blades of your nefarious enemies.",
+trs_u_nml_025,uti,LocalizedName,0,-1,Swashbuckler's Cape,
+trs_u_nml_026,uti,DescIdentified,0,-1,The sea holds many secrets within her depths and much knowledge long thought lost. It is said that those who wear this helm will gain at least some portion of her ancient wisdom.,
+trs_u_nml_026,uti,LocalizedName,0,-1,Sea's Bounty,
+trs_u_nml_027,uti,DescIdentified,0,-1,"The Might Seahawks were a cabal of ill-fated Waterdhavian nobles who led a secret life at sea. Anonymous beneath their hawklike helms, they plundered countless of their city's own treasure galleons in their endless quest for riches.
+
+Fearful of a scandal, the Admiral of the Waterdhavian Navy who finally captured them ordered that they be hung with their helmets still in place, that their identities would never become public knowledge. Three cheated death and escaped, however. Conspiracies that they were the Admiral's own sons persist unto this day.",
+trs_u_nml_027,uti,LocalizedName,0,-1,Seahawk's Helm,
+trs_u_nml_028,uti,DescIdentified,0,-1,Storms at sea are a common occurrence. Some have been known to descend from a clear blue sky before disappearing as suddenly as they arrived.,
+trs_u_nml_028,uti,LocalizedName,0,-1,Sudden Squall,
+trs_u_nml_029,uti,DescIdentified,0,-1,"Lightning is a fickle mistress, even moreso when you're at sea. After all, you're surrounded by water and your crowsnest is often the highest point for miles around...",
+trs_u_nml_029,uti,LocalizedName,0,-1,Staff of the Ill-Fated Mariner,
+trs_u_nml_030,uti,DescIdentified,0,-1,"Somethings are best dealt with at the end of a ten-foot pole. Barring that, a stout five-foot yardarm should suffice, provided you no longer need it to hold up the sail...",
+trs_u_nml_030,uti,LocalizedName,0,-1,Yardarm,
+trs_u_nml_031,uti,DescIdentified,0,-1,"In the chaotic melee of a boarding action, there's nothing some pirates like better than a small hook for sweeping people's feet out from under them.",
+trs_u_nml_031,uti,LocalizedName,0,-1,Ankle Cutter,
+trs_u_nml_032,uti,DescIdentified,0,-1,Shields such as this one are often carried by honest deckhands plying their trade in troubled shipping lanes. The first sign of an impending pirate attack is often the sudden volley of arrows from a passing ship.,
+trs_u_nml_032,uti,LocalizedName,0,-1,Deckhand's Defence,
+trs_u_nml_033,uti,DescIdentified,0,-1,Visper steps out of her shelter only to be knocked back in by a blast of frigid air. It has been ten days since she and her crew were forced to abandon her ship to the ice-packed seas. Their only hope now rests in being able to trek south across the spine of the world to reach Icewind Dale before their supplies dwindle or their resolve fails. The prospect would seem less daunting if it wasn't for this pitiless wind.,
+trs_u_nml_033,uti,LocalizedName,0,-1,Windbreaker,
+trs_u_nml_034,uti,DescIdentified,0,-1,"The cloud giant Stratadin Icehammer was a blacksmith of great regard. He crafted a suit of armor much like this as a tribute to his god Stronmaus. As trade ties are strong between Stratadin's clan and the coastal settlements of peaceful 'little people' that live in their shadow, the design was quickly copied and adapted to suit the needs of their tiny lords and warriors.",
+trs_u_nml_034,uti,LocalizedName,0,-1,Endless Skies,
+trs_u_nml_035,uti,DescIdentified,0,-1,A dragonbreath arrow has a shaft soaked in resin or pitch and a slightly enlarged head filled with a vial of alchemist's fire.,
+trs_u_nml_035,uti,LocalizedName,0,-1,Dragonbreath Arrow,
+trs_u_nml_036,uti,DescIdentified,0,-1,"The Order of the Calming Wave is a monastic order devoted to following the principles established by Valkur, God of Sails. The monks of this order are explorers, adventurers and sailors, infusing their vestments with magic in order to protect themselves from the elements.",
+trs_u_nml_036,uti,LocalizedName,0,-1,Robe of the Calming Wave,
+trs_u_nml_037,uti,DescIdentified,0,-1,"Salt spray on your face, a blue sky overhead, emerald seas stretching out to the far horizon: these are the objects of your desire.
+
+Life is good and you guzzle from destiny's wineskin with big gulps and a hearty cry of 'Yo-ho-ho!' Your hold is filled with goods and cargo and you have fair winds at your back all the way to port.
+
+Maybe you'll dance with the Governor's eldest while in town or find yourself dining with nobles. Or perhaps you'll share a cask of rum down at the tavern with your crew and head out into the streets, eager for a brawl and heady with adventure.
+
+All this is possible with the purchase of a simple Swashbuckler's shirt. Whatever the situation, you can look calm, cool, and collected, knowing you look fantastic.
+
+Roomy and breathable, made from 100% Cormyrian cotton. Comes with with a dashing V-neck, puffed sleeves, and real pearl buttons. Sizes: Small, Medium, Large, Huge, Gargantuan*
+
+*(Gargantuan size by special order only.  May take up to 6-8 weeks for delivery)",
+trs_u_nml_037,uti,LocalizedName,0,-1,Swashbuckler's Frock,
+trs_u_nml_038,uti,DescIdentified,0,-1,"Designed in honor of Umberlee's sahuagin servants, this armor was first worn by the Dread Pirate, Admiral Bluenose. Having already been struck by lightning once for disobeying the goddess' commands, he was doing his best to make amends.",
+trs_u_nml_038,uti,LocalizedName,0,-1,Stormscale,
+trs_u_nml_039,uti,DescIdentified,0,-1,"The aquatic lifestyle common to many bronze dragons can make them easy pickings for those pirates daring (or foolish) enough to deal in dragon hides.
+ ",
+trs_u_nml_039,uti,LocalizedName,0,-1,Bronze Dragon Armor,
+trs_u_nml_040,uti,DescIdentified,0,-1,"Undrinkable by humans, the warm waters of the Lake of Steam are rich in minerals that cause many species of weeds, shellfish, birds, and turtles, to grow to great size.
+
+Adventurers daring enough to battle these monsters are guaranteed to find a merchant in Calimport willing to take the coveted shells and hides of any so-called 'dragon turtles' off their hands.",
+trs_u_nml_040,uti,LocalizedName,0,-1,Dragon Turtle Armor,
+trs_u_nml_041,uti,DescIdentified,0,-1,"Historically, some Dread Pirates prefer anonymity as it allows for a more comfortable retirement. In some cases, multiple pirates have shared the title between themselves with the current Dread Pirate being whoever is wearing the mask.",
+trs_u_nml_041,uti,LocalizedName,0,-1,Dread Pirate's Helm,
+trs_u_nml_042,uti,DescIdentified,0,-1,"The outlawed privateer, Swinson Dee, was renowned for his efforts to champion the poor. His band of seafaring raiders would steal from wealthy traders and others passing through his swath of sea, only to turn around and surrender the loot to the peasant fisherman along the nearby coast.
+
+In time, however he was disgraced and banned from the sea by the local fishermen's union when it was discovered that his First Mate was embezzling some of the funds on the side.",
+trs_u_nml_042,uti,LocalizedName,0,-1,Embezzler's Leathers,
+trs_u_nml_043,uti,DescIdentified,0,-1,"This armor seems strangely cool to the touch, no matter what the environment. Manufactured in Calimshan, chainmail of this type is greatly prized all along the Shining Sea, particularly in the vicinity of the Calim Desert, where the extreme temperatures otherwise make it quite difficult to wear metal armors.",
+trs_u_nml_043,uti,LocalizedName,0,-1,Calishite Chain,
+trs_u_nml_044,uti,DescIdentified,0,-1,"The Order of the Calming Wave was founded by a group of pirates after a particularly fierce storm. The ship's cleric decreed that the Captain had angered Umberlee and brought the storm upon them but Valkur had looked favorably upon them and saw fit to protect them from her wrath.
+
+Forsaking their old ways, the former pirates devoted themselves to Valkur's service and the spreading of his gospel by land and sea.",
+trs_u_nml_044,uti,LocalizedName,0,-1,Boots of the Calming Wave +2,
+trs_u_nml_045,uti,DescIdentified,0,-1,"The Order of the Calming Wave was founded by a group of pirates after a particularly fierce storm. The ship's cleric decreed that the Captain had angered Umberlee and brought the storm upon them but Valkur had looked favorably upon them and saw fit to protect them from her wrath.
+
+Forsaking their old ways, the former pirates devoted themselves to Valkur's service and the spreading of his gospel by land and sea.",
+trs_u_nml_045,uti,LocalizedName,0,-1,Boots of the Calming Wave +3,
+trs_u_nml_046,uti,DescIdentified,0,-1,"Sirines are playful and gregarious aquatic fey who often draw strangers into their games and parties, only to tire of their companionship after a few hours and slip away. If someone has been particularly charming company, however, the sirine will bestow the gift of a shell or small gem on their admirer.",
+trs_u_nml_046,uti,LocalizedName,0,-1,Sirine's Cloak +1,
+trs_u_nml_047,uti,DescIdentified,0,-1,"Sirines are playful and gregarious aquatic fey who often draw strangers into their games and parties, only to tire of their companionship after a few hours and slip away. If someone has been particularly charming company, however, the sirine will bestow the gift of a shell or small gem on their admirer.",
+trs_u_nml_047,uti,LocalizedName,0,-1,Sirine's Cloak +2,
+trs_u_nml_048,uti,DescIdentified,0,-1,"The Order of the Calming Wave was founded by a group of pirates after a particularly fierce storm. The ship's cleric decreed that the Captain had angered Umberlee and brought the storm upon them but Valkur had looked favorably upon them and saw fit to protect them from her wrath.
+
+Forsaking their old ways, the former pirates devoted themselves to Valkur's service and the spreading of his gospel by land and sea.",
+trs_u_nml_048,uti,LocalizedName,0,-1,Gloves of the Calming Wave +1,
+trs_u_nml_049,uti,DescIdentified,0,-1,"The Order of the Calming Wave was founded by a group of pirates after a particularly fierce storm. The ship's cleric decreed that the Captain had angered Umberlee and brought the storm upon them but Valkur had looked favorably upon them and saw fit to protect them from her wrath.
+
+Forsaking their old ways, the former pirates devoted themselves to Valkur's service and the spreading of his gospel by land and sea.",
+trs_u_nml_049,uti,LocalizedName,0,-1,Gloves of the Calming Wave +2,
+trs_u_nml_050,uti,DescIdentified,0,-1,"The Order of the Calming Wave was founded by a group of pirates after a particularly fierce storm. The ship's cleric decreed that the Captain had angered Umberlee and brought the storm upon them but Valkur had looked favorably upon them and saw fit to protect them from her wrath.
+
+Forsaking their old ways, the former pirates devoted themselves to Valkur's service and the spreading of his gospel by land and sea.",
+trs_u_nml_050,uti,LocalizedName,0,-1,Gloves of the Calming Wave +3,
+trs_u_nml_051,uti,DescIdentified,0,-1,"A tough cord of woven kelp passes a series of colorful seashells and tide-smoothed stones. You find the amulet surprisingly lightweight and remarkably beautiful.
+
+As aquatic elves wear little clothing or armor, they tend to rely on enchanted jewelry to aid in them in times of peace and war.",
+trs_u_nml_051,uti,LocalizedName,0,-1,Necklace of the Aquatic Elves +1,
+trs_u_nml_052,uti,DescIdentified,0,-1,"A tough cord of woven kelp passes a series of colorful seashells and tide-smoothed stones. You find the amulet surprisingly lightweight and remarkably beautiful.
+
+As aquatic elves wear little clothing or armor, they tend to rely on enchanted jewelry to aid in them in times of peace and war.
+",
+trs_u_nml_052,uti,LocalizedName,0,-1,Necklace of the Aquatic Elves +2,
+trs_u_nml_053,uti,DescIdentified,0,-1,"A piece of coral has been coaxed and smoothed into the shape of a ring.
+
+As aquatic elves wear little clothing or armor, they tend to rely on enchanted jewelry to aid in them in times of peace and war.",
+trs_u_nml_053,uti,LocalizedName,0,-1,Ring of the Aquatic Elves +2,
+trs_u_nml_054,uti,DescIdentified,0,-1,"A piece of coral has been coaxed and smoothed into the shape of a ring.
+
+As aquatic elves wear little clothing or armor, they tend to rely on enchanted jewelry to aid in them in times of peace and war.
+",
+trs_u_nml_054,uti,LocalizedName,0,-1,Ring of the Aquatic Elves +3,
+trs_u_nml_055,uti,DescIdentified,0,-1,"""Give us a song, Angus!""
+
+""Do you know this one, Angus?""
+
+No one ever asked if Angus wanted to sing. Maybe he just wanted to sit quietly in the stern of the ship and drink his rum but no one ever let him. He wrote this little jig for the next damned crewman to ask...",
+trs_u_nml_055,uti,LocalizedName,0,-1,Angus McAngry's Jig,
+trs_u_nml_056,uti,DescIdentified,0,-1,"Kelandra Halelanles was a recalcitrant waveservant of Umberlee who eventually renounced the teachings of her goddess to become a ranger. She spent many subsequent years battling the Queen of the Deep's minions and offering her protection to sailors and noble privateers.
+
+Kelandra's current whereabouts are unknown but some say that, at low tide, you can see the ranger's footsteps in the sand.",
+trs_u_nml_056,uti,LocalizedName,0,-1,Kelandra's Deep Sight,
+trs_u_nml_057,uti,DescIdentified,0,13213,"Similar to a scimitar, the cutlass is a slightly curved sword with a heavy blade, often worn unsheathed. It is popular among sailors and pirates.",
+trs_u_nml_057,uti,LocalizedName,0,14375,Pirate's Cutlass,
+trs_u_nml_058,uti,DescIdentified,0,-1,"Horatio Sillifield had a simple philosophy: To be truly happy in life all one needed was a fine blade and a strong west wind. After years of searching, he finally found a blacksmith worthy of his dreams and had this weapon forged.
+
+Unfortunately, Horatio's bliss was short-lived. On his next sea journey, he took only this rapier and no other provisions. His body was found six weeks later, floating on a crudely constructed life-raft. He was still clutching his most prized possession.",
+trs_u_nml_058,uti,LocalizedName,0,-1,Horatio's Last and Most Loyal Friend,
+trs_u_nml_059,uti,DescIdentified,0,-1,Folk legends claim that this blade once belonged to an Ocean Strider until the mighty fey was outwitted by a resourceful druid named Sariah Badgerriver.,
+trs_u_nml_059,uti,LocalizedName,0,-1,Prize of the Ocean Strider,
+trs_u_nml_060,uti,DescIdentified,0,13213,"This finely balanced rapier once belonged to Grogbeard the Privateer, a renowned if ill-fated swashbuckler of the Nelanther Isles. He ultimately took sick with a festering wound, having never read the safety warning regarding heavy drinking, high-stakes dueling, and swinging from the mizzenmast while on stormy seas...",
+trs_u_nml_060,uti,LocalizedName,0,14374,Grogbeard's Grimace,
+trs_u_nml_061,uti,DescIdentified,0,-1,"Dire sharks attack anything they perceive to be edible, even larger creatures. They bite with their powerful jaws, sometimes swallowing smaller creatures whole.
+
+To encounter one is rare. To survive and tell the tale is even rarer. Most talespinners find that being able to produce a weapon crafted from the teeth of a dire shark will lend sufficient credence to their story.",
+trs_u_nml_061,uti,LocalizedName,0,-1,Dire Shark Blade,
+trs_u_nml_062,uti,DescIdentified,0,-1,"An enigmatic inscription is engraved into the handle:
+
+""Death to that which should not live...""",
+trs_u_nml_062,uti,LocalizedName,0,-1,Nature's Wrath,
+trs_u_nml_063,uti,DescIdentified,0,-1,"Assassins often overlook crossbows when plying their trade, preferring the visceral thrill of a melee kill. Nevertheless, the crossbow's effectiveness cannot be denied. Lightweight and easy to conceal, they allow their wielders to deal death from the shadows, sight unseen. So the next time there is someone you just have to kill, don't think melee... Think crossbow!",
+trs_u_nml_063,uti,LocalizedName,0,-1,Swift and Silent,
+trs_u_sys_iotd,uti,DescIdentified,0,-1,"Gullym has given you this treasure map at Master Kolmarr's request. It marks the locations of the five sigils on the Isle of the Dead. Your crew will activate each one as it is found. Once all five sigils have been activated, you're to meet Kolmarr at the top of the hill for the completion of the ritual.
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_iotd,uti,LocalizedName,0,-1,Treasure Map - Isle of the Dead,
+trs_u_sys_iou001,uti,DescIdentified,0,-1,"You examine the small sheet of well-worn vellum. The handwriting is thick and black:
+
+""If ye be stout o' heart and firm o' will, ye can redeem this here deed with the likes o' Jack Ketch for whate'er he has in mind...""
+
+It is stamped at the bottom with a skull and crossbones.",
+trs_u_sys_iou001,uti,LocalizedName,0,-1,I.O.U. - Jack Ketch,
+trs_u_sys_iou002,uti,DescIdentified,0,-1,"You examine the small sheet of well-worn vellum. The handwriting is thick and black:
+
+""If ye be stout o' heart and firm o' will, ye can redeem this here deed with the likes o' Governor Blackeye for whate'er he has in mind...""
+
+It is stamped at the bottom with a skull and crossbones.",
+trs_u_sys_iou002,uti,LocalizedName,0,-1,I.O.U. - Governor Blackeye,
+trs_u_sys_iou003,uti,DescIdentified,0,-1,"You examine the small sheet of well-worn vellum. The handwriting is thick and black:
+
+""If ye be stout o' heart and firm o' will, ye can redeem this here deed with the likes o' Grogbeard for whate'er he has in mind...""
+
+It is stamped at the bottom with a skull and crossbones.",
+trs_u_sys_iou003,uti,LocalizedName,0,-1,I.O.U. - Grogbeard,
+trs_u_sys_iou004,uti,DescIdentified,0,-1,"You examine the small sheet of well-worn vellum. The handwriting is thick and black:
+
+""If ye be stout o' heart and firm o' will, ye can redeem this here deed with the likes o' Prugdush for whate'er he has in mind...""
+
+It is stamped at the bottom with a skull and crossbones.",
+trs_u_sys_iou004,uti,LocalizedName,0,-1,I.O.U. - Prugdush,
+trs_u_sys_iou005,uti,DescIdentified,0,-1,"You examine the small sheet of well-worn vellum. The handwriting is thick and black:
+
+""If ye be stout o' heart and firm o' will, ye can redeem this here deed with the likes o' what's-his-name, the Prison Guard, for whate'er he has in mind...""
+
+It is stamped at the bottom with a skull and crossbones.",
+trs_u_sys_iou005,uti,LocalizedName,0,-1,I.O.U. - Prison Guard,
+trs_u_sys_map001,uti,DescIdentified,0,-1,"Someone has buried pirate treasure in the Sewers beneath Spindrift Town and you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_map001,uti,LocalizedName,0,-1,Treasure Map - Spindrift Sewers,
+trs_u_sys_map002,uti,DescIdentified,0,-1,"Someone has buried pirate treasure in the Sea Caves beneath the Lighthouse and you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_map002,uti,LocalizedName,0,-1,Treasure Map - Lighthouse Caverns,
+trs_u_sys_map003,uti,DescIdentified,0,-1,"Someone has buried pirate treasure in Willigan Manor and you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_map003,uti,LocalizedName,0,-1,Treasure Map - Willigan Manor,
+trs_u_sys_map004,uti,DescIdentified,0,-1,"Someone has buried pirate treasure in the Sea Caves beneath the Temple of Umberlee and you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_map004,uti,LocalizedName,0,-1,Treasure Map - Caves of Umberlee,
+trs_u_sys_map005,uti,DescIdentified,0,-1,"Someone has buried pirate treasure in Spindrift Town and you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_map005,uti,LocalizedName,0,-1,Treasure Map - Spindrift Town,
+trs_u_sys_map006,uti,DescIdentified,0,-1,"Someone has buried pirate treasure in Spindrift Town and you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_map006,uti,LocalizedName,0,-1,Treasure Map - Spindrift Town,
+trs_u_sys_map007,uti,DescIdentified,0,-1,"Someone has buried pirate treasure in the Sandy Spit near the Lighthouse and you have the map!
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_map007,uti,LocalizedName,0,-1,Treasure Map - Sandy Spit,
+trs_u_sys_map008,uti,DescIdentified,0,-1,"In his heyday, Governor Blackeye captured a king's ransom in Maztican silver. What he didn't spend on building Spindrift Town, he buried in the island's sands. You've finally discovered all four parts of his fabled treasure map and you recognize the area it depicts as the Sandy Spit where you arrived by R.A.F.T. 
+
+To follow a treasure map, go to the area it depicts and use it to get your bearings. Follow the map's instructions and use it again when in the landmark's vicinity to get your bearings to the next. A pirate treasure waits at the end of the trail.",
+trs_u_sys_map008,uti,LocalizedName,0,-1,Treasure Map - Blackeye's Silver,
+trs_u_sys_map009,uti,DescIdentified,0,-1,"In his heyday, Governor Blackeye captured a king's ransom in Maztican silver. What he didn't spend on building Spindrift Town, he buried in the island's sands. You've found a portion of his fabled treasure map but it's not enough to give you your bearings. 
+
+If you find all four fragments of Blackeye's map, use any one of them to piece together the whole.",
+trs_u_sys_map009,uti,LocalizedName,0,-1,Treasure Map - Blackeye's Silver (Part 1 of 4),
+trs_u_sys_map010,uti,DescIdentified,0,-1,"In his heyday, Governor Blackeye captured a king's ransom in Maztican silver. What he didn't spend on building Spindrift Town, he buried in the island's sands. You've found a portion of his fabled treasure map but it's not enough to give you your bearings. 
+
+If you find all four fragments of Blackeye's map, use any one of them to piece together the whole.",
+trs_u_sys_map010,uti,LocalizedName,0,-1,Treasure Map - Blackeye's Silver (Part 2 of 4),
+trs_u_sys_map011,uti,DescIdentified,0,-1,"In his heyday, Governor Blackeye captured a king's ransom in Maztican silver. What he didn't spend on building Spindrift Town, he buried in the island's sands. You've found a portion of his fabled treasure map but it's not enough to give you your bearings. 
+
+If you find all four fragments of Blackeye's map, use any one of them to piece together the whole.",
+trs_u_sys_map011,uti,LocalizedName,0,-1,Treasure Map - Blackeye's Silver (Part 3 of 4),
+trs_u_sys_map012,uti,DescIdentified,0,-1,"In his heyday, Governor Blackeye captured a king's ransom in Maztican silver. What he didn't spend on building Spindrift Town, he buried in the island's sands. You've found a portion of his fabled treasure map but it's not enough to give you your bearings. 
+
+If you find all four fragments of Blackeye's map, use any one of them to piece together the whole.",
+trs_u_sys_map012,uti,LocalizedName,0,-1,Treasure Map - Blackeye's Silver (Part 4 of 4),
+wpn_dvnbld,uti,DescIdentified,0,-1,"This blade bears the symbol of the Wanderer God, Shaundakul. A traditional blessing has been inscribed on the blade:
+
+""Ride the wind and let it take you wherever it blows. Journey to distant horizons. Survive to see the rising sun.""",
+wpn_dvnbld,uti,LocalizedName,0,106,Dawn's Succor,
+wpn_rprdela,uti,DescIdentified,0,-1,"You took this weapon off the corpse of Dela, a blackmarket goods trader who tried to ambush you while in Neverwinter.",
+wpn_rprdela,uti,LocalizedName,0,1545,Dela's Rapier,

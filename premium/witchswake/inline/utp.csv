@@ -1,0 +1,325 @@
+﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+altrevil001,utp,Description,0,14540,"A small altar rests before you. Age-old bloodstains have seeped into the stone, mingling with scorchmarks left from a long-extinguished fire.",
+altrevil001,utp,LocName,0,14541,Scroll,
+bedroll,utp,Description,0,-1,"This is an adventurer's bedroll. made to be slept on, then packed up and carried with you.",
+bedroll,utp,LocName,0,-1,Bedroll,
+blauhartinvis,utp,LocName,0,14657,Councilman Blauhart,
+cairn,utp,Description,0,14707,A small cairn has been erected at the site where Prince Ahmed died.,
+cairn,utp,LocName,0,5727,Cairn,
+cairnstones1,utp,LocName,0,5738,Cairn Stones,
+cemeterybirdcage,utp,Description,0,14570,"Moths flit about this strange birdcage, as if drawn to a light that isn't there.",
+cemeterybirdcage,utp,LocName,0,14571,Strange Bird Cage,
+chair,utp,LocName,0,-1,Chair,
+chair002,utp,LocName,0,5822,_SITABLES,
+chest_torch,utp,Description,0,14596,Dust gathers on this sturdy chest. It seems well-cared for but unused in recent days.,
+chest_torch,utp,LocName,0,5348,Torch Storage Chest,
+deathcorpse,utp,Description,0,-1,This is a players Death Corpse.,
+deathcorpse,utp,LocName,0,-1,Death Corpse,
+dicebag,utp,LocName,0,-1,Dice Bag,
+dm_itemhandler,utp,LocName,0,-1,Dungeon Master,
+doorunlocklever,utp,Description,0,14634,"A heavy lever protrudes out of the ground, controlling some unseen mechanism below.",
+doorunlocklever,utp,LocName,0,14633,Door Lever,
+dyingcorpse,utp,LocName,0,-1,Dropped Items,
+el_cleaner,utp,Description,0,14615,An unfortunate creature's corpse,
+el_cleaner,utp,LocName,0,14616,Cleaner,
+el_corpsetoloot,utp,Description,0,14615,An unfortunate creature's corpse,
+el_corpsetoloot,utp,LocName,0,14616,Corpse,
+elkentree,utp,LocName,0,14657,Elkentree,
+etherealleak,utp,Description,0,14662,"Negative energy streams about you, escaping into the land of the living from the Plane of Sorrows.",
+etherealleak,utp,LocName,0,5800,Ethereal Leak,
+filcherstreas001,utp,LocName,0,64112,Filcher's Gold,
+filcherstreas002,utp,LocName,0,64112,Filcher's Gold,
+filcherstreas003,utp,LocName,0,64112,Filcher's Loot,
+filcherstreas004,utp,LocName,0,64112,Filcher's Loot,
+filcherstreas005,utp,LocName,0,64112,Filcher's Loot,
+filcherstreas006,utp,LocName,0,64112,Filcher's Loot,
+filcherstreas007,utp,LocName,0,64112,Filcher's Loot,
+filcherstreas008,utp,LocName,0,64112,Filcher's Loot,
+filcherstreas009,utp,LocName,0,64112,Filcher's Crate,
+filcherstreas010,utp,LocName,0,64112,Filcher's Crate,
+filcherstreas011,utp,LocName,0,64112,Filcher's Crate,
+filcherstreas012,utp,LocName,0,64112,Filcher's Crate,
+filcherstreas013,utp,LocName,0,64112,Filcher's Chest,
+filcherstreas014,utp,LocName,0,64112,Filcher's Chest,
+filcherstreas015,utp,LocName,0,64112,Filcher's Chest,
+filcherstreas016,utp,LocName,0,64112,Filcher's Chest,
+filcherstreasure,utp,LocName,0,64112,Filcher's Gold,
+filchertreasure,utp,LocName,0,64112,Filcher's Treasure,
+flag5,utp,LocName,0,14616,Cemetery Banner,
+graveyard,utp,LocName,0,-1,GraveYard,
+greinlagerinvis,utp,LocName,0,14657,Councilman Greinlager,
+guildexhibit,utp,LocName,0,14657,Guild Exhibit,
+gz_obj_hogsign,utp,Description,0,14716,"Hall of the Gods
+
+You have been transported here by a Dungeon Master for inventory inspection. Please wait here until the process has been completed, you will be transported back then.
+
+The best thing you can do now is to do absolutely nothing (except chatting). 
+
+Any action (like attacking the door or this sign, moving, etc) could result in the loss of your equipment!
+
+Please note that in D&D it is the DM's right to inspect a player's inventory at an time, because he needs to know if the player is over or underpowered for his campaign. 
+
+If you cannot not accept this, you should probably leave this server now, or try to talk to your Dungeon Master, explaining him your position.",
+gz_obj_hogsign,utp,LocName,0,5732,Hall of the Gods - Examine me!,
+gz_obj_hogsign2,utp,Description,0,14716,"Hall of the Gods
+
+Hail to thee fellow DM
+
+You have just transported a player into the Hall of the Gods for Inventory Inspection. To start the process, just use the device you used on the player on the Inventory Inspection Container in this room.
+
+After having loaded the player's inventory in the container, you can freely interact with it, examine it, replace or remove items and finally, ""reupload"" it back to the player.
+
+Please note that player's tend to be very caring about their characters, so you should have talked to the player BEFORE transporting him here. Anyway, it is a good moment to tell him what you are doing now
+
+Also do not take too much time for this process, the player will find it kind of boring to sit here, unable to do anything.
+
+
+About this Script
+----------------------------
+The Hall of the Gates is part of the Player Inventory Spy Package by Dom Queron (dom@gulbsoft.de), downloadable from www.gulbsoft.de.
+The code for the whole system is extremely commented, you best start having a look at the file _about_invspy in the toolset",
+gz_obj_hogsign2,utp,LocName,0,5732,Hall of the Gods -  DM Examine me!,
+gz_obj_trashbin,utp,LocName,0,5691,Trashcan,
+handhold,utp,Description,0,14645,These scraps and detritus provide a reliable handhold for you to climb down to the rock below.,
+handhold,utp,LocName,0,5799,Handhold,
+headstone,utp,Description,0,14655,"Persistent World Support
+So long as the server remains online, the status that a player leaves the world in is the status the player will return to the world in. So if a player is dying at -5 hp and they quit out of the game, they will return dying at -5 hp. This also holds true if the server is restarted from a saved game.
+
+Character Generation
+When a character with 0 experience points enters the game, they are stripped of all items, and given the PHB amount of gold for their class. The player character may now purchase basic items by clicking on the HCR Signpost (custom placeable item). You may either choose to place your start point in the _Base area with a one-way portal to your module's actual start area or create your own start area with the same properties.
+
+Adjusting the Minimum Character Level for the Module
+You can set your module up so that all characters start with a minimum level.
+
+Subraces
+Subraces are supported. Subraces which require an ECL (effective character level) are not included.
+
+Experience in HCR
+HCR is meant to be played with the modules experience slider set to 0.  
+
+Experience in HCR is now handled per the DMG pg 165. The current Bioware system takes into account Familiars, Summoned Creatures, Animal Companions and Henchmen when calculating your average level. Plus it bases exp on the individual (and pets) level and doesn't do a party split of the EXP. In fact, a single creature actually gives more exp in a larger party with pets than a single pc fighting solo. 
+
+If the CR of the creature is 8 more or less than the Average party level, they will gain 0 experience.  8 CR below is no challenge, 8 CR above they should be unable to defeat, so the DM should award exp in that case.
+
+Leveling Up and Trainers
+Level trainers (turned on by default) are now supported. When turned on, a person must go to a trainer to level. If he/she levels without going to a trainer he/she will lose that level and must go to the trainer to regain it. 
+
+Death and Dying
+Death and dying follows what is defined in the Player Handbook (PHB) pg 129 as closely as is possible.
+
+When a player takes damage that reduces them to 0 hp, they are DISABLED.  While disabled, a player receives an 80% movement penalty, is Slowed, and is Cursed with -5 pts to all stats save constitution and charisma.
+
+When a player takes damage that reduces them between -1 and -9 hp, they begin to die.  They fall to the ground, and a Death Corpse (DC) appears beside them.  Everything not equipped on the character, including their gold, appears on the DC.  Anyone can loot these items, the intent being that your party members can use the cure potion you have on your body to heal you.
+
+Once a round (6 sec) there is a 10% chance that you will STABILIZE.  If you do, you stop bleeding, if not, you take 1pt of damage.  Once stabilized, there is a 10% chance per hour (2 min by default timer) that you will enter RECOVERY, if not, you take 1pt of damage.  Once in recovery, you have a 10% chance per day of beginning to heal normally.  While in recovery, you suffer the exact same penalties as when disabled.
+
+If you heal ANY while -1 to -9, you automatically jump to a stable heal state.  You will take no more damage and are under the same effects as when in Recovery.
+
+Once you reach -10 hp, you are dead.  All equipped items join your Death Corpse, along with the Player Corpse Token (PCT).
+
+When you die, you get one automatic roll to see if your Deity chooses to notice your passing and resurrect you.  There is a 5% chance this will happen, +1% per 4 levels.  If not, you are off to the Fugue Plane.
+
+One on the Fugue Plane, you are able to move, but not attack anyone.  You stay here till you decide you are tired of waiting, or till you get resurrected (See below)
+
+Back in the real world, your corpse may be dragged by anyone who picks up your PCT. It weighs 130lbs.  When they pick up your PCT, your DC goes to the Storage area, making it look like they picked up your corpse.  When they drop the PCT, your DC reappears where they drop it.
+
+The PCT may be activated targeting a NPC cleric of level 9 or higher.  The NPC cleric will raise the dead person, if the person using the PCT has 50gp*level of NPC cleric for raise dead, 70*level for resurrection and 90*level for true resurrection.  Raise dead and Resurrection have an additional 500gp cost, and true resurrection has an additional 5000gp cost, so 950gp minimum.  (Thus its usually not financially feasible to raise a level 1 person). When resurrected by any means other than Deity, you lose 1 level, going to the middle of the previous level.  If level 1, you lose 1 hp.  BUG: If you are multiclassed and lose a level, it bugs your character if you are only 1/1 in level. Will be fixed soon.
+
+When you return to life, everything on your Death Corpse is put back on you and it and the PCT vanish.
+
+Resting and Natural Healing
+You can rest in game once every 24 hours (48 min). If you have a bedroll, that time becomes every 8 hours (16 min). This is done so that casters do not just cast all their spells, rest for 30 seconds and then rinse and repeat. 
+
+Quitting and returning does not reset this timer. 
+
+If you are using the FOODSYSTEM you need food on you to be able to rest. (Cant rest on an empty stomach you just toss and turn all night). 
+
+When you rest, you only heal 1 hit point per level instead of full heal.  This prevents fighters from attack, rest, attack sequence. 
+
+Rest Button
+When your character can rest, the rest button will now blink. This way, Any spellcasters can safely cast all his/her spells right before resting. 
+
+Resting In Armor
+Resting in Armor with a total bonus of AC 6 or more will produce fatigue (-2 to Str, -2 to Dex, walk only). Resting in armor while fatigued will produce exhaustion (-6 to Str, -6 to Dex, slow walk only). 
+
+Understandably, this isn't 100% PHB behavior, but PHB behavior requires querying an armor's Armor Check penalty. Bioware, in their wisdom failed to supply us with any method that would give us this much needed data. 
+
+Skills
+Healing
+When using the HC Healing kits, the Healing skill now follows the PHB. Healing only serves to stabilize anyone who is bleeding to death, allows the healer to attempt to cure poison or disease (on a successful heal check), or allows the healer to attempt long term care. 
+
+Scroll and Potion Creation
+The Magic Item Creation System Add-on allows mages to create scrolls and potions if they have enough money and XP. For detailed instructions on how to use this addon, please read the MagicItemCreationSystem.txt file in the HardCoreERFMI.zip addon file. 
+
+Searching and Traps
+Searching
+A new search and trap system has been introduced as of release 1.5.2 to better emulate PHB rules and to get rid of the automatic ""Take 20"" roll. In order to detect traps, a player must now use a ""Search Tool"". This tool completely replaces the NWN search button. When HCRTRAPS is set to 1, this tool is automatically given to any players that don't have one when they log in. 
+
+Builders adept at scripting may also use this tool to allow players to find hidden items. Simply insert your search code in the preEvent or postEvent hooks (see tablescriptsevenrow on event hooks). 
+
+Traps and Locks
+When using this system, in order to disarm traps or open locks, the player must now use the HC ""Thieves' Tools"". 
+
+Traps of DC 21 or more may only be dectected and disarmed by Rogues. 
+
+You may not use the thieves' tools if you are untrained in disarm trap or unlock. Do so only at your own risk. 
+
+Spells and Special Abilities
+Spell Changes
+The Summon Creature line (I-IX) now lasts the duration given in the PHB, i.e. 1 round per caster level. (Plus 1 round to make up for NWN Game mechanics).  If you want this to last longer, you may set SUMMONTIMER to the number of rounds/level you want it to last.  This change does not affect Familiars, which still last till dead or you rest.
+
+You may designate what they Summon Creature line will summon. You may either have one per spell level, or a random set per spell level. This is all defined in the script:  hc_summon_inc
+
+The Cure <blank> Wounds series of spells has been modified such that they do not cure for maximum when cast on Players.
+
+The spells Raise Dead and Resurrection have been modified to apply the resurrection penalty of level loss.
+
+Material Components
+If you set MATERCOMP in hc_inc to 1 you will turn on requirements for material components. Note, if you choose to use them (I recommend it) you must also install the add-on Material Components (HardCoreERFMC.zip) if you did not download the Full Hardcore set.
+
+When material components are turned on, Clerics and Paladins must now carry a holy/unholy symbol.
+
+Wild Magic and Null Magic
+No, not druid spells.
+
+Wild magic is magic gone awry -- usually due to the magical nature of the area (such as a planar area) or perhaps due to some really powerful wards and glyphs. The possible effects are random (and not always good or bad). You may place the wild magic effect upon your whole module, an area or several areas, or an object (creature, placeable, item, etc).
+
+Null Magic is simply that... for some reason, the area/object/creature nullifies spells.
+
+Sound Familiar?
+When a Familiar dies, the familiar's master will now lose 200xp x level of the owner. The owner will be given a chance to avoid half the penalty by making a successful Fortitude check. 
+
+Feeding a familiar will no longer heal it fully. Sorry, but the ability to spontaneously heal is reserved for Artifact Familiars. 
+
+If you feel your familiar is getting a bit too daring, simply unsummon it. 
+
+Turning Undead
+Evil Clerics may now dominate the most powerful undead creature that was supposed to be destroyed. The rest of the undead that were meant to die will now follow the cleric. 
+
+Determining the turning levels for pure Paladins and Paladin/Cleric multiclass is now correct as per PHB p. 56 (fixes a Bioware bug). 
+
+Miscellaneous
+Login message
+A login message appears to all players when logging in.
+
+Locking the Server
+Say your playing along, and you like your current grouping, or you don't want new players for the moment? Simply use the command line (hit ` to bring it up) and type:
+
+To Lock the server: 
+dmsetmodulevarint LOCKED 1
+
+To unlock the server:
+dmsetmodulevarint LOCKED 0
+
+DM reservation system
+By setting DMRESERVE in hc_inc to some number greater than 0, the game will limit the number of players to that number, regardless of what Maxplayers is set to on the server.  This allows the DM to always have a slot to log into.
+
+HCR Helper
+There is a new tool for DM's called the HCR helper. This tool allows the DM to turn HCR settings on or off on the fly, or to change HCR settings on the fly. Feel your party isn't making enough money to level? Lower leveling costs! It's that simple! Monsters giving too much XP? As long as you didn't place them by hand, simply change the XP settings at will! And you get all of this for the low price of... FREE! Act now and we'll even throw in this manual! 
+
+Be very careful, though, as some settings would be very bad to change under certain circumstances... such as turning off the LOOTSYSTEM off while someone is dead. 
+
+DM Helper
+If you downloaded the full Hardcore file, or installed the DM Helper add-on package, all DM뭩 are given a DM Helper upon login. (See DM Helper below)
+
+Event Hooks
+Event hooks are a great way to add custom code to your modules, and yet make it very easy to upgrade from HC version to HC version. As long as you do not touch the base files and put any modified code in the event hooks, upgrading to a new HC module should be very quick and very painless (perhaps not as painless as a wax job, but it's getting there). 
+
+Event hooks can now be used to completely bypass HCR behavior. 
+
+Potions
+There are four new potions that may be used on others rather than just self. They are the Cure <blank> wounds series. They appear under miscellaneous since Bioware has potions hardcoded as self only. These potions cost IAW the PHB. Its strongly recommended you remove the normal cure potions from vendors and just use the improved ones.
+
+Sittables
+Any item may be made sittable upon by addition of the hc_pc_sittable script (hey, its cheesy, but I liked it).
+
+Summoned Monsters and Random Encounters
+An add-on summon monster system adds more than 200 creatures to the possible results when casting Summon Creature
+
+.A wandering monster system is available, allowing you to set the strength and chance of wandering critters when players rest.
+
+Communication
+An add-on bulletin board system is available. at this link: http://nwn.darkemud.com/~darke/HC/download.htm
+
+Player Killer Tracking and Banning
+A PK Tracker system  Setting PKTRACKER to a number higher than 0 in hc_inc will make it so that if anyone kills more PC's than that number, they are booted from the game and cannot get back in in any form till the server resets.  If TELLONPK is set to 1 in hc_in (default) then all dm's are told anytime a player kills a player.  Note that PK's against members of your own party do not count against your total allowed (whoops, fireball)
+
+Natural Light Sources
+Natural light objects have a duration per the PHB, duration settable by BURNTORCH in hc_inc. You would want to remove all NWN torches from the game. HC Torches are dimmer so that a lantern can be brighter than a torch.
+
+Grenade Like Weapons and Oil Flasks
+Oil, Holy Water, Alchemist's Fire and Acid Flasks can be thrown per phb pg 109, 113, 114, and 138
+
+Players may use a flask of oil to create a campfire that they can sit around.
+
+Where's the beef?
+Players may use a skinning knife to carve meat from dead animals and then cook it on a campfire.
+
+Monster and NPC Corpses
+Tired of watching seeing your awesome kills simply vanish into thin air, only to leave tons of loot in a tiny little bag? 
+
+Worry no more! When monsters or NPCs die, they leave their corpses behind. Use this to search for loot instead of the loot bags. 
+
+To get back the starting merchant please click on use this item.",
+headstone,utp,LocName,0,5712,HCR Signpost,
+impledcrpse002,utp,Description,0,14656,"The sun-bleached corpse groans and shifts, a gust of wind giving it the brief appearance of unlife.",
+impledcrpse002,utp,LocName,0,14657,Prince Ahmed,
+invisobj001,utp,LocName,0,5800,Seat,
+invisobj002,utp,LocName,0,5800,Secret Door Placeholder,
+jagerinvis2,utp,LocName,0,14657,Dungeon Master,
+limbomarker,utp,LocName,0,-1,Fugue Marker,
+limbomarker001,utp,LocName,0,-1,StorageMarker,
+memorialboulder2,utp,Description,0,66885,"A large, solid piece of granite juts out from the ground.",
+memorialboulder2,utp,LocName,0,52998,Boulder,
+nighthagtour,utp,LocName,0,5800,Night Hag,
+poolinvis,utp,LocName,0,14657,Barrow Pool,
+princeahmed,utp,Description,0,14656,"Blood clings to the prince's lips, dripping to the ground so far below. It is clear that he doesn't have long to live. Nevertheless, his blue eyes are focused on you, brilliant and intense.",
+princeahmed,utp,LocName,0,14657,Prince Ahmed,
+princeahmedinvis,utp,LocName,0,14657,Prince Ahmed,
+ragpickerinvis,utp,LocName,0,14657,Ragpicker,
+secret_door,utp,LocName,0,5800,Secret Door,
+steinfaarinvis,utp,LocName,0,14657,Jager Steinfaar,
+steinfaarinvis2,utp,LocName,0,14657,Jager Steinfaar,
+tracker,utp,Description,0,-1,Place this object in any area where you want tracking to occur.  Set Will to the DC of tracking in this area.,
+tracker,utp,LocName,0,-1,Tracker,
+trainingcenter,utp,LocName,0,-1,Training Center,
+well,utp,Description,0,14755,The well is old and wreathed in moss. A foul-smelling steam wafts up from below.,
+well,utp,LocName,0,5749,The Old Man's Well,
+ww1_ahmedcorpse,utp,Description,0,14707,Prince Ahmed's body is stiff and cold. A gaping wound in his chest marks where the pike pierced him.,
+ww1_ahmedcorpse,utp,LocName,0,5727,Prince Ahmed,
+ww1_exhibit002,utp,Description,0,14700,This station is part of a larger historical exhibit by the dwarven Guild Council of Brogan's Arm. The exhibit explains the cultural history of the Barrow Dwarves as well as of the village itself.,
+ww1_exhibit002,utp,LocName,0,14701,2 - Brogan's Journey Into Stygia,
+ww1_exhibit003,utp,Description,0,14700,This station is part of a larger historical exhibit by the dwarven Guild Council of Brogan's Arm. The exhibit explains the cultural history of the Barrow Dwarves as well as of the village itself.,
+ww1_exhibit003,utp,LocName,0,14701,3 - The Death of Brogan Nachtjager and the Exile of the Clan,
+ww1_exhibit004,utp,Description,0,14700,This station is part of a larger historical exhibit by the dwarven Guild Council of Brogan's Arm. The exhibit explains the cultural history of the Barrow Dwarves as well as of the village itself.,
+ww1_exhibit004,utp,LocName,0,14701,4 - Old Man Cavanaugh and the Discovery of Brogan's Arm,
+ww1_exhibit007,utp,Description,0,14700,This station is part of a larger historical exhibit by the dwarven Guild Council of Brogan's Arm. The exhibit explains the cultural history of the Barrow Dwarves as well as of the village itself.,
+ww1_exhibit007,utp,LocName,0,14701,7 - Jager Steinfaar and the Vein of Iron,
+ww1_exhibit1,utp,Description,0,14700,This station is part of a larger historical exhibit by the dwarven Guild Council of Brogan's Arm. The exhibit explains the cultural history of the Barrow Dwarves as well as of the village itself.,
+ww1_exhibit1,utp,LocName,0,14701,"1 - The Barrow Dwarves, Sons of Brogan",
+ww1_exhibit5a,utp,Description,0,14700,This station is part of a larger historical exhibit by the dwarven Guild Council of Brogan's Arm. The exhibit explains the cultural history of the Barrow Dwarves as well as of the village itself.,
+ww1_exhibit5a,utp,LocName,0,14701,5a - The Cavanaugh Stone and Brogan's Tears,
+ww1_exhibit5b,utp,Description,0,14700,This station is part of a larger historical exhibit by the dwarven Guild Council of Brogan's Arm. The exhibit explains the cultural history of the Barrow Dwarves as well as of the village itself.,
+ww1_exhibit5b,utp,LocName,0,14701,5b - The Cavanaugh Stone and Brogan's Tears,
+ww1_exhibit6,utp,Description,0,14700,This station is part of a larger historical exhibit by the dwarven Guild Council of Brogan's Arm. The exhibit explains the cultural history of the Barrow Dwarves as well as of the village itself.,
+ww1_exhibit6,utp,LocName,0,14701,6 - Haunted Rocks: The Steinfaar Gem Mine,
+ww1_firestatu001,utp,Description,0,14535,"This hunched creature overlooks the grounds below. There is a hand-shaped indentation on its haunches, its palm deeply etched with an intricate design.",
+ww1_firestatue,utp,Description,0,14535,"This hunched creature overlooks the grounds below. There is a hand-shaped indentation on its haunches, its palm deeply etched with an intricate design.",
+ww1_firestatue,utp,LocName,0,14536,Fire Statue,
+ww1_ironring,utp,LocName,0,-1,Iron Ring,
+ww1_powderkeg,utp,Description,0,14555,"Thick metal bands encircle the barrel-planks, ensuring a tight seal.",
+ww1_powderkeg,utp,LocName,0,5691,Powderkeg,
+ww1_ratroast,utp,Description,0,14588,Something roasts over the crackling fire. Grease drippings feed the flames below.,
+ww1_ratroast,utp,LocName,0,5700,Spitted Roast,
+ww1_slotlever,utp,Description,0,14632,"A slender lever rises from the floor, apparently controlling the nearby contraption.",
+ww1_slotlever,utp,LocName,0,14633,Lever to the Infernal Contraption,
+ww1_slotmachine,utp,Description,0,14646,This bizarre contraption whizzes and hums contentedly to itself. The floor around it is littered with bird droppings.,
+ww1_slotmachine,utp,LocName,0,14647,Infernal Contraption,
+ww1_statichole,utp,LocName,0,14657,Small Hole,
+ww1_tearsmessage,utp,Description,0,14655,A message is scrawled in chalk upon this abutment.,
+ww1_tearsmessage,utp,LocName,0,5712,Scrawled Message,
+ww1_treehole,utp,LocName,0,14657,Small Hole,
+ww1_wellrope,utp,Description,0,14705,Dim light shines down from a well-hole far above. The rope looks sturdy enough to hold your weight should you need it to.,
+ww1_wellrope,utp,LocName,0,14706,Rope,
+ww_treeoflife,utp,Description,0,14747,"Fed by the waters of the River Styx, far below, the Tree of Life bars the progress of all those who are no longer bonded to the Land of the Living.",
+ww_treeoflife,utp,LocName,0,5743,Tree of Life,

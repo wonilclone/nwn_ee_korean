@@ -1,0 +1,19 @@
+﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+module,ifo,Mod_Description,0,-1,"v0.492
+- Fixed issues with flags not appearing in Purple HQ
+- Fixed bugs with multiple team selections
+- Added polling code to remove players from the active battlemap
+- Added like/dislike setup for joining the active battlemap
+
+v0.491
+- Fixed issues with item cost scaling
+- A few dialog tweaks
+- Fixed rewards system.
+- Fixed issue with team switching
+- Fixed issue with changing number of teams to 2
+
+Contest of Champions is an arena where you can pit your favorite character against your friends... or your enemies. Characters who enter will be divided into teams to fight to the death. 
+WARNING: All plot specific items will be stripped when the players enter this module.
+
+Server Requirements: Make sure the 'Only One Party' button in the server's advanced options is off.",
+module,ifo,Mod_Name,0,-1,Contest of Champions,

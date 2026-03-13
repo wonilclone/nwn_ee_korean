@@ -1,0 +1,442 @@
+﻿Resource,ResType,FieldPath,LangID,StrRef,TextEng,Text
+aarcl012,uti,DescIdentified,0,-1,"Fashioned in the fires of Stygia by the vicious Megaloth, armors such as this protect them from the viscious heat of their homeland.",
+aarcl012,uti,LocalizedName,0,12843,Banded Mail of the Megaloth,
+acidflask,uti,DescIdentified,0,-1,"Acid bubbles inside this heavy flask. 
+
+This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
+acidflask,uti,LocalizedName,0,-1,Acid Flask,
+alchemistsfire,uti,DescIdentified,0,-1,"Alchemist's Fire is a sticky, adhesive substance that ignites on contact with air.
+
+This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
+alchemistsfire,uti,LocalizedName,0,-1,Alchemist's Fire,
+ardrowhe002,uti,LocalizedName,0,90449,Skull Helm,
+autofollow,uti,DescIdentified,0,-1,"DM Tool:
+
+Target this wand on a player or non-player character. The character you are currently possessing will follow the target until you assign it an overriding action.",
+autofollow,uti,LocalizedName,0,-1,Auto-Follow Wand,
+baatezuqualities,uti,LocalizedName,0,-1,Baatezu Qualities,
+bagofgold,uti,DescIdentified,0,-1,Coins clatter and shift within this canvas bag.,
+bagofgold,uti,LocalizedName,0,-1,Bag of Gold,
+bedroll,uti,DescIdentified,0,-1,This is a bedroll.  You can use it by placing it on the ground.,
+bedroll,uti,Description,0,-1,"This is a bedroll, to use it, drop it on the ground.",
+bedroll,uti,LocalizedName,0,-1,bedroll,
+bite_plaguerat,uti,LocalizedName,0,3108,Plague Rat Bite,
+blacksmithsleath,uti,DescIdentified,0,-1,These durable leather garments are pocked and scarred by sparks from the forge.,
+blacksmithsleath,uti,LocalizedName,0,-1,Blacksmith's Leather,
+bookofsummons,uti,DescIdentified,0,-1,"Bound in the thick hide of some unknown creature, this tome is filled with pictures of countless exotic creatures. Judging by the content, the tome must serve as an aid to various forms of arcane summoning.",
+bookofsummons,uti,LocalizedName,0,-1,Book of Summons,
+celestial12,uti,LocalizedName,0,-1,Celestial 12,
+celestial1_3,uti,LocalizedName,0,-1,Celestial 1_3,
+celestial4_7,uti,LocalizedName,0,-1,Celestial 4_7,
+chisel,uti,DescIdentified,0,-1,"This simple chisel is weighted for stonecutting and, judging by the notches in its blade, it has been well-used. It could function as a weapon in a pinch but would be very awkward to wield as such.",
+chisel,uti,LocalizedName,0,-1,Chisel,
+cookedfood,uti,DescIdentified,0,-1,"This is a plate of cooked food, recently prepared. Enjoy!",
+cookedfood,uti,LocalizedName,0,-1,Cooked food,
+deadmansarmor,uti,DescIdentified,0,-1,This once fine burial armor now reeks of rot and decay.,
+deadmansarmor,uti,LocalizedName,0,-1,Dead Man's Armor,
+deadmansarmor001,uti,DescIdentified,0,-1,This once fine burial armor now reeks of rot and decay.,
+deadmansarmor001,uti,LocalizedName,0,-1,Dead Man's Armor,
+devilsgarter,uti,DescIdentified,0,-1,"These revealing garments are worn with pride among the alluring succubi, enhancing their already sinister beauty.",
+devilsgarter,uti,LocalizedName,0,-1,Devil's Garter,
+dicebag,uti,DescIdentified,0,-1,This bag holds a small collection of stone dice.,
+dicebag,uti,LocalizedName,0,-1,Dice Bag,
+direwolfhide,uti,DescIdentified,0,-1,Bony plates down the spine mark this as a Dire Wolf's pelt. The gray fur is soft and warm within your hand.,
+direwolfhide,uti,LocalizedName,0,-1,Dire Wolf Pelt,
+dmshelper,uti,DescIdentified,0,-1,"DM Tool:
+
+If cast on a player...
+- Display attributes (stats, equipped items, player name, etc)
+- Change alignment (Law, Chaos, Good, Evil) by one or five points
+- Give the player a full map of the area
+- Follow the player
+- Force the player to follow you (for a short period of time)
+- Take items - all equipped, all unequipped, all items, or an item equipped into a specific slot
+- Penguin the player - paralyze the player, and turn him into a penguin
+- Unpenguin the player
+- Boot the PC out of the game
+- Roll a skill or ability check
+- Join the PC's party
+- Leave the party
+
+If cast on a creature...
+- Display attributes (stats, equipped items, player name, etc)
+- Change alignment (Law, Chaos, Good, Evil) by one or five points
+- Follow the creature
+- Force the creature to follow you for a short period of time (it will resume walking waypoints, if any, once it stops following)
+- Tell the creature to run the ""nw_c2_default9"" script (resumes waypoint walking)
+- Take items - all equipped, all unequipped, all items, or an item equipped into a specific slot
+- Kill creature, leaving a corpse
+- Change All Players or One Players faction with this creatures faction.
+
+If cast on a creature or selectable object...
+- Kill object, leaving any loot it would normally leave
+- Destroy this object
+- Turn this object on or off (for placeables that can turn on and off)
+
+If cast without a target...
+- Reload the current running module (use with caution, may cause server to become unstable on large maps)
+- Advance the current time of day by one, three, or five hours
+- Advance to the next day or night period
+- Destroy an object that is close by (includes untargettable objects)
+- Turn an object that is close by on or off (for placeables that can turn on and off) -- (Warning: some objects may not show the change until the observer has exited the area and re-entered. This is probably related to a similar problem with destroying static objects)
+- List All Player Names with their Character Names.
+- Jump to a PC (player name and character name listed together to make it easier to tell who to jump to).
+- Jump a PC to you (same as above)",
+dmshelper,uti,LocalizedName,0,-1,DM's Helper,
+dwarvencounci001,uti,DescIdentified,0,-1,"There are various ranks and orders within the Brogan's Arm Guild Council, with each having their own garb and insignia. This fine garment probably indicates someone of fairly high rank.",
+dwarvencounci001,uti,LocalizedName,0,-1,Dwarven Council Robes,
+dwarvencouncilro,uti,DescIdentified,0,-1,"There are various ranks and orders within the Brogan's Arm Guild Council, with each having their own garb and insignia. This fine garment probably indicates someone of fairly high rank.",
+dwarvencouncilro,uti,LocalizedName,0,-1,Dwarven Council Robes,
+dwarvenscale,uti,DescIdentified,0,-1,"Fashioned from thrice-forged steel, dwarven scale is solid protection from almost any blow.",
+dwarvenscale,uti,LocalizedName,0,-1,Dwarven Scale,
+e_fireeleprop,uti,LocalizedName,0,13189,E Fire Elemental Properties,
+e_watereleprops,uti,LocalizedName,0,13188,E Water Elemental Properties,
+eld_element_prop,uti,LocalizedName,0,13186,Eld Elemental Properties,
+elemental_prop,uti,LocalizedName,0,13193,S/M Elemental Properties,
+elkenbeasthide,uti,DescIdentified,0,-1,This delicate hide is that of the northern elkenbeast. Their herds once dominated the northern mountains but hunting has reduced their numbers substantially.,
+elkenbeasthide,uti,LocalizedName,0,-1,Elkenbeast Hide,
+emotewand,uti,DescIdentified,0,-1,"Roleplaying Tool:
+
+This wand allows your character to perform a variety of emotes and other helpful roleplaying actions. It is especially useful in a multiplayer environment and has been given to you for your convenience.",
+emotewand,uti,LocalizedName,0,-1,Emote Wand,
+fiendish12,uti,LocalizedName,0,-1,Fiendish 12,
+fiendish1_3,uti,LocalizedName,0,-1,Fiendish 1_3,
+fiendish4_7,uti,LocalizedName,0,-1,Fiendish 4_7,
+flawlesswolfpelt,uti,DescIdentified,0,-1,A row of bony plates down the spine mark this as a Dire Wolf's pelt. The gray fur is flawless and should fetch a fair price.,
+flawlesswolfpelt,uti,LocalizedName,0,-1,Flawless Wolf Pelt,
+foodration,uti,DescIdentified,0,-1,One standard food ration,
+foodration,uti,LocalizedName,0,-1,Food Ration,
+foodration001,uti,DescIdentified,0,-1,This is a cooked steak.  You cannot tell which animal it came from.,
+foodration001,uti,Description,0,-1,This is a standard food ration,
+foodration001,uti,LocalizedName,0,-1,Cooked Steak,
+fuguerobe,uti,DescIdentified,0,-1,The clothing of the fugue plane,
+fuguerobe,uti,LocalizedName,0,-1,Fugue Robe,
+garboftheguildcu,uti,DescIdentified,0,-1,This ceremonial garment has been worn by the curator of the Guild Hall in Brogan's Arm for years... and rarely washed.,
+garboftheguildcu,uti,LocalizedName,0,-1,Garb of the Guild Curator,
+goblinarmor,uti,DescIdentified,0,-1,"Scavenged from various sources, this goblin-fashioned armor is ill-fitting and a couple of sizes too small.",
+goblinarmor,uti,LocalizedName,0,-1,Goblin Mail,
+goblinarmor001,uti,DescIdentified,0,-1,"Scavenged from various sources, this goblin-fashioned armor is ill-fitting and a couple of sizes too small.",
+goblinarmor001,uti,LocalizedName,0,-1,Goblin Leather,
+golddwarfsubrace,uti,DescIdentified,0,-1,"Subrace Token:
+
+This item grants the Gold Dwarf subrace their special abilities.",
+golddwarfsubrace,uti,LocalizedName,0,-1,Subrace Token: Gold Dwarf,
+graveclothes,uti,DescIdentified,0,-1,These once fine burial clothes now reek of rot and decay.,
+graveclothes,uti,LocalizedName,0,-1,Graveclothes,
+graveclothes001,uti,DescIdentified,0,-1,These once fine burial clothes now reek of rot and decay.,
+graveclothes001,uti,LocalizedName,0,-1,Graveclothes,
+gz_it_invspyring,uti,DescIdentified,0,-1,"DM Tool:
+
+This ring can be used to teleport players and NPCs to the Dungeon Master's Halls, where their inventory can be inspected and verified. Use wisely and with sufficient warning as it can be quite disruptive to play.",
+gz_it_invspyring,uti,LocalizedName,0,-1,Player Inventory Spy Ring,
+hc_tangle,uti,DescIdentified,0,-1,"This leather bag oozes a strange alchemical goo which grows tough and resilient on exposure to air. You'd hate to be entangled in it if the bag were to rupture.
+
+This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
+hc_tangle,uti,LocalizedName,0,-1,Tanglefoot Bag,
+hc_thunder,uti,DescIdentified,0,-1,"This manufactured lump of hardened alchemical substance creates a deafening bang when it strikes a hard surface.
+
+This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
+hc_thunder,uti,LocalizedName,0,-1,Thunderstone,
+hcrhelper,uti,DescIdentified,0,-1,"DM Tool:
+
+Aside from its more mundane properties, this DM Tool also gives you the power to toggle various elements of the Hardcore Ruleset (HCR) on and off. Do this with care, however, as many of the HCR components have been removed or substantially altered in ""The Witch's Wake"" modules.",
+hcrhelper,uti,LocalizedName,0,-1,HCRHelper,
+hcrhelpwand,uti,DescIdentified,0,-1,"This version of the HCR Helper is designed to accommodate players who have temporarily been assigned DM status. It allows them to control various aspects of how the HCR rules function.
+
+Use with caution as many of the HCR systems have been removed or substantially altered within ""The Witch's Wake"" modules.",
+hcrhelpwand,uti,LocalizedName,0,-1,HCR Helper (for Player DMs),
+henchpotion,uti,DescIdentified,0,13414,"With the power to return people from the very brink of death, these potions do not come cheaply.",
+henchpotion,uti,LocalizedName,0,13415,Potion of Cure Critical Wounds,
+herdkeepersgarb,uti,DescIdentified,0,-1,"Crafted from fine dwarven leathers, this light armor is traditonally worn by respected herdkeepers. Its intent is not to protect the wearer in battle but to keep at bay the thorns and thistles of the wild and the occasional bite of an angered animal.",
+herdkeepersgarb,uti,LocalizedName,0,-1,Herdkeeper's Garb,
+hg_element_props,uti,LocalizedName,0,13190,HG Elemental Properties,
+hg_fireeleprop,uti,LocalizedName,0,13191,HG Fire Elemental Properties,
+hg_watereleprops,uti,LocalizedName,0,13192,HG Water Elemental Properties,
+hge_fireeleslam,uti,LocalizedName,0,13227,Fire Elemental Slam HGE,
+holysymbol,uti,DescIdentified,0,-1,"A holy symbol, it may also be used to attack, but very poorly.",
+holysymbol,uti,LocalizedName,0,-1,Holy Symbol,
+holywaterflask,uti,DescIdentified,0,-1,"Blessed by devout priests, this water is imbued with positive energy that is harmful to most forms of undead.
+
+This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
+holywaterflask,uti,LocalizedName,0,-1,Holy Water,
+invisstalkerprop,uti,LocalizedName,0,13193,Stalker Properties,
+it_creitem022,uti,LocalizedName,0,13069,Vrock Properties,
+it_creitemun010,uti,LocalizedName,0,13199,"Zombie, Tyrantfog Properties",
+it_crewbs002,uti,DescIdentified,0,-1,"Prized possessions of the fierce warlods of the Stygian depths, it is rare for such a weapon to fall into the hands of mere mortals.",
+it_crewbs002,uti,LocalizedName,0,56599,Sword of the Stygian Lords,
+it_crewgs007,uti,DescIdentified,0,-1,"Wielded in battle by fierce Megaloth raiders in the Stygian inlands, these swords are wreathed in magic flame.",
+it_crewgs007,uti,LocalizedName,0,13210,Sword of the Megaloth,
+it_mbracer003,uti,DescIdentified,0,13351,A glass bead has been stitched to each of these strange leather bracers. A pale blue light swirls within their opaliescent depths.,
+it_mbracer003,uti,LocalizedName,0,13350,Blueglass Bracers,
+it_medkit003,uti,LocalizedName,0,13363,Healer's Kit +4,
+it_medkit004,uti,LocalizedName,0,13364,Healer's Kit +7,
+it_medkit005,uti,LocalizedName,0,13364,Healer's Kit +8,
+it_medkit013,uti,LocalizedName,0,13362,Healer's Kit +2,
+it_medkit032,uti,LocalizedName,0,13363,Healer's Kit +5,
+it_medkit052,uti,LocalizedName,0,13364,Healer's Kit +9,
+it_mmidmisc006,uti,DescIdentified,0,58558,A large piece of meat has dislodged from the creature. It would not be wise to eat it.  Perhaps if you cook it on a campfire it would be safe to consume.,
+it_mmidmisc006,uti,LocalizedName,0,13378,Raw meat,
+it_mpotion024,uti,DescIdentified,0,52941,"Either a dark red or pale yellow, wine is made from the pressing of grapes that have been fermented and aged. This wine is of an exceptionally fine vintage.",
+it_mpotion024,uti,LocalizedName,0,13452,Vintage Wine,
+kingsarmor001,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
+kingsarmor001,uti,LocalizedName,0,-1,Quilted King's Armor,
+kingsarmor002,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
+kingsarmor002,uti,LocalizedName,0,-1,King's Leather,
+kingsarmor003,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
+kingsarmor003,uti,LocalizedName,0,-1,Studded King's Armor,
+kingsarmor004,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
+kingsarmor004,uti,LocalizedName,0,-1,King's Scale,
+kingsarmor005,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
+kingsarmor005,uti,LocalizedName,0,-1,King's Cuirass,
+kingsarmor006,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
+kingsarmor006,uti,LocalizedName,0,-1,King's Splint,
+kingsarmor007,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both battle and ceremonial use.",
+kingsarmor007,uti,LocalizedName,0,-1,King's Marching Plate,
+kingsarmor008,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, these robes are intended for both battle and ceremonial use.",
+kingsarmor008,uti,LocalizedName,0,-1,King's Robes,
+l_fireele_slm,uti,LocalizedName,0,13218,Fire Elemental Slam L,
+l_fireeleprop,uti,LocalizedName,0,13193,L Fire Elemental Properties,
+l_watereleprops,uti,LocalizedName,0,13193,L Water Elemental Properties,
+lemureimmunity,uti,LocalizedName,0,-1,Lemure Immunity,
+lgelementalprop,uti,LocalizedName,0,13193,Lg Elemental Properties,
+lootingarmororcl,uti,LocalizedName,0,-1,Looting Armor or Cloth. Please Wait,
+m_fireele_slam,uti,LocalizedName,0,13218,Fire Elemental Slam M,
+mcloth012,uti,DescIdentified,0,67731,"Worn by the Tymbra'lane, a warlike feline race still considered as newcomers among the many cultures of Stygian depths, this light armor offers extraodrinary flexibility and range of motion. ",
+mcloth012,uti,LocalizedName,0,67726,Leather of the Tymbra'lane,
+medicinebag,uti,DescIdentified,0,-1,"The kit is full of herbs, salves, bandages, and other useful material.  It may be used to stop bleeding, cure poison or disease, and increase the recovery rate of resting patients.",
+medicinebag,uti,LocalizedName,0,-1,Medicine Bag,
+oilflask,uti,DescIdentified,0,-1,"An oil-soaked rag plugs the mouth of this bottle.
+
+This is a grenade-like weapon. Target it at your enemies and beware of splash damage.",
+oilflask,uti,LocalizedName,0,-1,Oil Flask,
+onearmedrobes,uti,DescIdentified,0,-1,The left sleeve of this strange garment has been sewn shut as if intended for a one-armed man. ,
+onearmedrobes,uti,LocalizedName,0,-1,One-Armed Robes,
+paladinsbadgeofc,uti,DescIdentified,0,-1,Paladins are renowned for their courage in the face of evil and such courage is an infectious gift. A quick blessing said over this simple talisman will help calm the fears of those you travel with. ,
+paladinsbadgeofc,uti,Description,0,-1,This allows you to imbue your friends with courage when they are near you.,
+paladinsbadgeofc,uti,LocalizedName,0,-1,Paladin's Talisman of Courage,
+paladinsholysymb,uti,DescIdentified,0,-1,"This is the Symbol of your Holy Order and a direct channel to the righteousness of your chosen god. With it, you are able to identify the auras of evil beings within your vicinity.
+
+Reciting a simple prayer over the Symbol will give you a general sense of nearby auras. Reciting the prayer three times in a row will help you to focus in on the specific sources of those auras.",
+paladinsholysymb,uti,LocalizedName,0,-1,Paladin's Holy Symbol,
+playercorpse,uti,DescIdentified,0,-1,"This is a Player Corpse, for more information, USE it.",
+playercorpse,uti,Description,0,-1,"This is a Player Corpse, for more information, USE it",
+playercorpse,uti,LocalizedName,0,-1,Player Corpse,
+potionofcurel001,uti,DescIdentified,0,-1,"These curative potions are too expensive for most civilians, and are used almost exclusively by soldiers and adventurers.",
+potionofcurel001,uti,LocalizedName,0,-1,Potion of Cure Moderate Wounds,
+potionofcurel002,uti,DescIdentified,0,-1,"With the power to staunch the flow of blood or knit a broken bone, these potions are in common use among the dangerous professions.",
+potionofcurel002,uti,LocalizedName,0,-1,Potion of Cure Serious Wounds,
+potionofcurel003,uti,DescIdentified,0,-1,"Used as often in the peasant's home as the dungeon's dark, these simple concoctions are common throughout Faerun.",
+potionofcurel003,uti,LocalizedName,0,-1,Potion of Cure Light Wounds,
+potionofcurel004,uti,DescIdentified,0,-1,"With the power to return people from the very brink of death, these potions do not come cheaply.",
+potionofcurel004,uti,LocalizedName,0,-1,Potion of Cure Critical Wounds,
+pwdb_objects,uti,DescIdentified,0,-1,"This item is used to track numerous HCR variables using the Persistent World Database System (PWDB).
+
+If you have picked it up, please return it to where you found it. Keeping it in your inventory can cause your Client to crash and can cause a lot of the HCR rules to function improperly.
+
+Thank you,
+The Management.",
+pwdb_objects,uti,LocalizedName,0,-1,PWDB_OBJECTS,
+pwdb_values,uti,DescIdentified,0,-1,"This item is used to track numerous HCR variables using the Persistent World Database System (PWDB).
+
+If you have picked it up, please return it to where you found it. Keeping it in your inventory can cause your Client to crash and can cause a lot of the HCR rules to function improperly.
+
+Thank you,
+The Management.",
+pwdb_values,uti,LocalizedName,0,-1,PWDB_VALUES,
+raggedarmor,uti,DescIdentified,0,-1,"Panels of hardened leather have been stitched onto the underlying rags. The leather has a sour smell, as if improperly cured.",
+raggedarmor,uti,LocalizedName,0,-1,Ragged Armor,
+raggedarmor001,uti,DescIdentified,0,-1,"These filthy rags have been stuffed with leaves, providing a meager amount of added protection.",
+raggedarmor001,uti,LocalizedName,0,-1,Stuffed Armor,
+ragpickersrobes,uti,LocalizedName,0,12902,Ragpicker's Robes,
+rags,uti,DescIdentified,0,-1,A foul aroma rises from these filthy rags.,
+rags,uti,LocalizedName,0,-1,Rags,
+rags001,uti,DescIdentified,0,-1,A foul aroma rises from these filthy rags.,
+rags001,uti,LocalizedName,0,-1,Rags,
+robesofthenighth,uti,LocalizedName,0,-1,Robes of the Night Hag,
+s_fireele_slam,uti,LocalizedName,0,13218,Fire Elemental Slam S,
+searchtool,uti,DescIdentified,0,-1,This tool is used to conduct active searches for traps.  It is used instead of the normal BW automagic Search,
+searchtool,uti,LocalizedName,0,-1,Search Tool,
+sei_sla_1,uti,DescIdentified,0,-1,"Subrace Token:
+
+Your subrace is able to cast Blindness / Deafness once per day.",
+sei_sla_1,uti,LocalizedName,0,-1,"Subrace Token: Blindness/Deafness, 1/Day ",
+sei_sla_2,uti,DescIdentified,0,-1,"Subrace Token:
+
+Your subrace is able to cast Darkness once per day.",
+sei_sla_2,uti,LocalizedName,0,-1,Subrace Token: Darkness 1/Day,
+sei_sla_3,uti,DescIdentified,0,-1,"Subrace Token:
+
+Your subrace is able to cast Invisibility once per day.",
+sei_sla_3,uti,LocalizedName,0,-1,Subrace Token: Invisibility 1/Day,
+severedfinger,uti,DescIdentified,0,-1,A crust of blood clings to the base of this severed finger. It used to bear a ring.,
+severedfinger,uti,LocalizedName,0,-1,Severed Finger,
+skinningknife,uti,DescIdentified,0,-1,This is a skinning knife.  It is not very useful in combat but when used on a corpse can produce hide and meat.  Rangers also use it to hunt.,
+skinningknife,uti,LocalizedName,0,-1,Skinning Knife,
+sm_fireeleprop,uti,LocalizedName,0,13187,SM Fire Elemental Properties,
+steinfaararmor,uti,DescIdentified,0,-1,"This practical garb was worn by Ilsa Steinfaar, a mine-owner's wife in the northern Barrow Dwarf community of Brogan's Arm.",
+steinfaararmor,uti,LocalizedName,0,-1,Steinfaar Armor,
+strongheartsubra,uti,DescIdentified,0,-1,"Subrace Token:
+
+This item grants the Strongheart Halfling subrace their special abilities.
+",
+strongheartsubra,uti,LocalizedName,0,-1,Subrace Token: Strongheart Halfling,
+sunelfsubrace,uti,DescIdentified,0,-1,"Subrace Token:
+
+This item grants the Sun Elf subrace their special abilities.",
+sunelfsubrace,uti,LocalizedName,0,-1,Subrace Token: Sun Elf,
+tatteredkingsarm,uti,DescIdentified,0,-1,"Worn by men and women in the King's service, this armor is intended for both practical and ceremonial use. The breastplate is missing, however, and the fabric is torn and muddy from battle.",
+tatteredkingsarm,uti,LocalizedName,0,-1,Tattered King's Armor,
+thievestools,uti,DescIdentified,0,-1,This is the primary tool thieves use to disarm traps and pick locks,
+thievestools,uti,LocalizedName,0,-1,Thieves' Tools,
+thievestoolsmstr,uti,DescIdentified,0,-1,This is the primary tool thieves use to disarm traps and pick locks  It seems extremely well made,
+thievestoolsmstr,uti,LocalizedName,0,-1,"Thieves' Tools, Masterwork",
+torch,uti,DescIdentified,0,-1,"This is a standard, disposable torch. Its duration is limited so it is wise to stock up on them and save them until they're needed.",
+torch,uti,LocalizedName,0,-1,Torch,
+trackertool,uti,DescIdentified,0,-1,"At home in natural surroundings, some classes and subraces have learned to read the tracks and trails of the various creatures with whom they frequently cross paths. Activate this item whenever you wish to use your tracking skill.",
+trackertool,uti,LocalizedName,0,-1,Tracking Tool,
+wandoffx,uti,DescIdentified,0,-1,"DM Tool:
+
+This wand allows you to trigger a variety of special effects to enhance the atmosphere of your games. You can change the weather and music in an area and spawn various visual effects into the world.",
+wandoffx,uti,LocalizedName,0,-1,Wand of Effects,
+watercanteen,uti,DescIdentified,0,-1,"This is a water canteen. No adventurer should be without one.
+
+Target a source of water to fill the canteen, or target the ground near you while you are standing next to water.",
+watercanteen,uti,LocalizedName,0,-1,Water Canteen,
+wildelfsubrace,uti,DescIdentified,0,-1,"Subrace Token:
+
+This item grants the Wild Elf subrace their special abilities.",
+wildelfsubrace,uti,LocalizedName,0,-1,Subrace Token: Wild Elf,
+winterwolfpelt,uti,DescIdentified,0,-1,"Taken from a winter wolf, the fur of this fine pelt is a soft and pristine white.",
+winterwolfpelt,uti,LocalizedName,0,-1,Winter Wolf Pelt,
+wmgwn008,uti,DescIdentified,0,14195,"Wearing of losing young students to the dangers of their newfound power, the great wizard Arkanion began crafting these wands for their protection.",
+wmgwn008,uti,LocalizedName,0,14196,Wand of Armor,
+wmgwn013,uti,DescIdentified,0,58591,"Wands of Sleep are among the most stable and least expensive of magical wands, making them quite popular with adventurers. Though not instruments of mass destruction, when properly applied a Wand of Sleep can prove to be a powerful weapon against unexpected encounters with orcs, goblins and their ilk. Many adventuring parties owe their lives to the anonymous mage who first fashioned this simple but highly effective item.",
+wmgwn013,uti,LocalizedName,0,58592,Wand of Sleep,
+wolfpelt,uti,DescIdentified,0,-1,The gray fur of this wolf pelt is soft and warm. It still has the soft undercoat of a young pup but its smaller size reduces its value.,
+wolfpelt,uti,LocalizedName,0,-1,Wolf Pup Pelt,
+wolfpelt001,uti,DescIdentified,0,-1,The gray fur of this wolf pelt is soft and warm.,
+wolfpelt001,uti,LocalizedName,0,-1,Wolf Pelt,
+woodelfsubrace,uti,DescIdentified,0,-1,"Subrace Token:
+
+This item grants the Wood Elf subrace their special abilities.",
+woodelfsubrace,uti,LocalizedName,0,-1,Subrace Token: Wood Elf,
+worgpelt,uti,DescIdentified,0,-1,Worg fur is often mangy and oils excreted into the fur leave it with a foul smell.,
+worgpelt,uti,LocalizedName,0,-1,Worg Pelt,
+ww1_ahmedpike,uti,DescIdentified,0,-1,"This simple pike was party to Prince Ahmed's untimely death. It held his broken body aloft upon its ragged point, making his final hours long and painful.",
+ww1_ahmedpike,uti,LocalizedName,0,-1,The Prince's Pike,
+ww1_angmarshouse,uti,DescIdentified,0,-1,This is the key to Angmar's house in Brogan's Arm.,
+ww1_angmarshouse,uti,LocalizedName,0,-1,Angmar's House Key,
+ww1_bridgekey,uti,DescIdentified,0,-1,This crudely fashioned key opens the bridge gate north of Brogan's Arm.,
+ww1_bridgekey,uti,LocalizedName,0,-1,Bridge Key,
+ww1_cemeterykey,uti,DescIdentified,0,-1,"This key, given to you by the Night Hag, feels cold within your tight-clenched fist. It opens the cemetery gate just south of her home.",
+ww1_cemeterykey,uti,LocalizedName,0,-1,Cemetery Key,
+ww1_exhibitskey,uti,DescIdentified,0,-1,This is the key to the Guild Hall Exhibits in Brogan's Arm.,
+ww1_exhibitskey,uti,LocalizedName,0,-1,Exhibits Key,
+ww1_finescabbard,uti,DescIdentified,0,-1,An elegant pattern has been pressed into this scabbard's leather and ornate stitching marks the seams. The metalwork at the mouth and tip is inlaid with silver.,
+ww1_finescabbard,uti,LocalizedName,0,-1,Fine Scabbard,
+ww1_gleeriderarm,uti,DescIdentified,0,-1,This leather armor is tailored in a style once worn by an ancient order of elven skalds called Gleeriders. Songs still tell of how they'd laugh even in the face of certain death.,
+ww1_gleeriderarm,uti,LocalizedName,0,-1,Armor of the Gleeriders,
+ww1_goldring,uti,DescIdentified,0,-1,This elegant ring bears the warm glow of true gold. It looks like it belongs on the hand of a courtier or noble.,
+ww1_goldring,uti,LocalizedName,0,-1,Gold Ring,
+ww1_graveaxe,uti,DescIdentified,0,-1,"Marking the grave of some unknown warrior, this greataxe is slowly succumbing to rust.",
+ww1_graveaxe,uti,LocalizedName,0,515,Rusted Greataxe,
+ww1_graveaxe_p,uti,DescIdentified,0,-1,"This mighty axe once marked the grave of some unknown warrior. Now that it has been polished, you can see a message dimly etched into the iron shaft: ""Strike out against the evil. Strike at all costs.""",
+ww1_graveaxe_p,uti,LocalizedName,0,515,Greataxe of the Knight Avenger,
+ww1_gravehelm,uti,DescIdentified,0,-1,The vagaries of time have erased all memory of whose head this rusted gravemarker once adorned.,
+ww1_gravehelm,uti,LocalizedName,0,12850,Rusted Helm,
+ww1_gravehelm_p,uti,DescIdentified,0,-1,"This helm once languished as someone's rusty gravemarker. A good polishing has restored it to its former glory, however, and appears to have banished whatever spirit once haunted it.",
+ww1_gravehelm_p,uti,LocalizedName,0,12850,Polished Helm,
+ww1_gravesword,uti,DescIdentified,0,-1,This rusted gravemarker appears to be suffering from years of exposure to the elements.,
+ww1_gravesword,uti,LocalizedName,0,-1,Rusted Gravesword,
+ww1_gravesword_p,uti,DescIdentified,0,-1,"The polished steel of this former gravemarker now glistens with its former glory. Inscribed along the blade in elven characters is the single word, ""Gleerider.""",
+ww1_gravesword_p,uti,LocalizedName,0,-1,Gravesword of the Gleerider,
+ww1_helgashouse,uti,DescIdentified,0,-1,This is the key to Helga's house in Brogan's Arm.,
+ww1_helgashouse,uti,LocalizedName,0,-1,Helga's House Key,
+ww1_ironring,uti,DescIdentified,0,-1,"Small figures, crudely cut, dance chaotically around the ring's circumference. You doubt the ring would fetch more than a few coppers from a merchant but something tells you that it holds a greater significance. You seem to remember it from an earlier time. Perhaps you wore one like it once or saw it on another's hand. ",
+ww1_ironring,uti,LocalizedName,0,-1,Strange Iron Ring,
+ww1_levfetish,uti,DescIdentified,0,-1,"This small bundle of feathers, wax, and twine appears to be some sort of levitation fetish. There doesn't seem to be any way to activate it, however, so it likely serves as a catalyst for an enchanted mechanism of some sort.",
+ww1_levfetish,uti,Description,0,-1,"You examine the small bundle of feathers, wax, and twine but can't seem to identify any particular use for it.",
+ww1_levfetish,uti,LocalizedName,0,-1,Feather Fetish,
+ww1_nighthagbook,uti,DescIdentified,0,-1,"This heavy tome, stolen from the Night Hag's desk, is bound in a strange, oily leather. The text inside is of no language you can recognize and what few pictures you can find seem to be of senseless, though vaguely humanoid shapes.",
+ww1_nighthagbook,uti,LocalizedName,0,-1,The Night Hag's Tome,
+ww1_nighthagfey,uti,DescIdentified,0,-1,"This heavy tome, stolen from the Night Hag's desk, is bound in a strange, oily leather. You've been told that the text inside is fey in origin but have yet to find someone to translate it for you. What few pictures you can find seem to be of senseless, though vaguely humanoid shapes.",
+ww1_nighthagfey,uti,LocalizedName,0,-1,The Night Hag's Tome,
+ww1_nightshade,uti,DescIdentified,0,-1,"If ingested, the leaves of the deadly nightshade plant will cause a quick and painless death.",
+ww1_nightshade,uti,LocalizedName,0,-1,Deadly Nightshade,
+ww1_nimsdevice,uti,DescIdentified,0,-1,"This strange device was crafted by Old Man Nimmermaer, a dwarven wizard from Brogan's Arm. He's asked you to use it on any Ethereal Leaks you find so he can begin to map the ley lines along which they're situated.",
+ww1_nimsdevice,uti,LocalizedName,0,-1,Nimmermaer's Curious Device,
+ww1_pot_resist,uti,DescIdentified,0,13440,"Crafted with care, these murky waters will bolster the imbiber's chances against a wide assortment of diseases, ailments, poisons, and exposures.",
+ww1_pot_resist,uti,LocalizedName,0,13441,Potion of Resistance,
+ww1_scrawltrans,uti,DescIdentified,0,-1,"You found a message written in chalk in the Brogan's Tears section of the Guild Hall Exhibits. Old Man Nimmermaer has scribbled his translation of the elven text on the back: ""If the Cavanaugh Stone gave birth to Brogan's Tears, then to find the mother I must pursue the child.""",
+ww1_scrawltrans,uti,LocalizedName,0,-1,Translated Message,
+ww1_shatteredswo,uti,DescIdentified,0,-1,This blade has shattered in the battle's fury. There is enough salvageable material that it might fetch a small price at market.,
+ww1_shatteredswo,uti,LocalizedName,0,-1,Shattered Sword,
+ww1_tarotanger,uti,DescIdentified,0,-1,"This hand-painted Tarot card is old and well-worn. Drawn from the Warlock's Hand, it is said to represent the past.
+
+This card depicts a savage figure, blade held high and wreathed in blood. Lightning strikes in the background, illuminating an ash-grey scene of carnage.
+",
+ww1_tarotanger,uti,LocalizedName,0,-1,Tarot Card - Child of Anger,
+ww1_tarotfear,uti,DescIdentified,0,-1,"This hand-painted Tarot card is old and well-worn. Drawn from the Warlock's Hand, it is said to represent the past.
+
+You draw a card depicting a hunched figure amidst a heavy storm. A feeble lantern is held high, but the figure's eyes seem haunted by the tortured shapes just beyond the lantern's glow.
+",
+ww1_tarotfear,uti,LocalizedName,0,-1,Tarot Card - Child of Fear,
+ww1_tarotfool,uti,DescIdentified,0,-1,"This hand-painted Tarot card is old and well-worn. Drawn from the Witch's Hand, it is said to represent the future.
+
+This card depicts a figure sitting cross-legged atop a wall. The moon is held in one hand and the sun in the other. A golden chalice is suspended in the air above.",
+ww1_tarotfool,uti,LocalizedName,0,-1,Tarot Card - The Fool,
+ww1_tarotleader,uti,DescIdentified,0,-1,"This hand-painted Tarot card is old and well-worn. Drawn from the Witch's Hand, it is said to represent the future.
+
+This card depicts a figure who walks upon the upraised hands of compatriots. The figure is reaching for a golden chalice suspended in the air above.
+",
+ww1_tarotleader,uti,LocalizedName,0,-1,Tarot Card - The Leader,
+ww1_tarotpassion,uti,DescIdentified,0,-1,"This hand-painted Tarot card is old and well-worn. Drawn from the Warlock's Hand, it is said to represent the past.
+
+This card depicts a man and woman, their naked limbs entwined with satin sheets. They stare deeply into each others eyes, oblivious to the shadows being cast over them.
+",
+ww1_tarotpassion,uti,LocalizedName,0,-1,Tarot Card - Child of Passion,
+ww1_tarotsorrow,uti,DescIdentified,0,-1,"This hand-painted Tarot card is old and well-worn. Drawn from the Warlock's Hand, it is said to represent the past.
+
+This card depicts a black-robed figure kneeling beside a frozen corpse. Snow falls upon the icy scene, the corpse already partly buried beneath its weight.
+",
+ww1_tarotsorrow,uti,LocalizedName,0,-1,Tarot Card - Child of Sorrow,
+ww1_tarottraitor,uti,DescIdentified,0,-1,"This hand-painted Tarot card is old and well-worn. Drawn from the Witch's Hand, it is said to represent the future.
+
+This card depicts a figure reaching for a golden chalice suspended in the air above. The figure's hands are red with blood and their jaw is set in grim determination.",
+ww1_tarottraitor,uti,LocalizedName,0,-1,Tarot Card - The Traitor,
+ww1_tarotvirtue,uti,DescIdentified,0,-1,"This hand-painted Tarot card is old and well-worn. Drawn from the Warlock's Hand, it is said to represent the past.
+
+This card depicts a white-robed figure standing beneath a stormy sky. Shafts of light beam down upon the figure's upturned face, giving it a holy radiance.",
+ww1_tarotvirtue,uti,LocalizedName,0,-1,Tarot Card - Child of Virtue,
+ww1_templekey,uti,DescIdentified,0,-1,This key appears to have been crafted long ago. The metal is heavily tarnished but still free of rust.,
+ww1_templekey,uti,LocalizedName,0,-1,Ancient Key,
+ww1_tornscabbard,uti,DescIdentified,0,-1,This once-fine scabbard appears to have suffered much in recent battle. The leather is pocked and torn and the metal trim is dented as if by a great blow. ,
+ww1_tornscabbard,uti,LocalizedName,0,-1,Torn Scabbard,
+ww1_untranslated,uti,DescIdentified,0,-1,You found a message written in chalk in the Brogan's Tears section of the Guild Hall Exhibit. You were unable to translate it but perhaps you can find someone who can.,
+ww1_untranslated,uti,LocalizedName,0,-1,Untranslated Message,
+ww1_witchbane,uti,DescIdentified,0,-1,"This bloodstained battleaxe seems solidly crafted and the inlaid gold seems genuine. Etched into the heavy blade is a single word: ""Witchbane.""",
+ww1_witchbane,uti,LocalizedName,0,-1,Witchbane,
+ww1_yorick_skull,uti,DescIdentified,0,-1,"Alas, poor Yorick! I knew him, Horatio: a fellow of infinite jest, of most excellent fancy: he hath borne me on his back a thousand times; and now, how abhorred in my imagination it is! my gorge rims at it. Here hung those lips that I have kissed I know not how oft. Where be your gibes now? your gambols? your songs? your flashes of merriment, that were wont to set the table on a roar? Not one now, to mock your own grinning?",
+ww1_yorick_skull,uti,LocalizedName,0,-1,Poor Yorick's Skull,
+ww_plothandler,uti,DescIdentified,0,-1,"DM Tool:
+
+This rod handles any functionality unique to The Witch's Wake. To use it, simply target the rod at any creature (even yourself).",
+ww_plothandler,uti,LocalizedName,0,-1,Witch Wake Handler,
+ww_sr_air,uti,LocalizedName,0,-1,WW Subrace: Air-Touched,
+ww_sr_cairn,uti,LocalizedName,0,-1,WW Subrace: Cairn Dwarf,
+ww_sr_deep,uti,LocalizedName,0,-1,WW Subrace: Deep Gnome,
+ww_sr_earth,uti,LocalizedName,0,-1,WW Subrace: Earth-Touched,
+ww_sr_feral,uti,LocalizedName,0,-1,WW Subrace: Feral Halfling,
+ww_sr_fire,uti,LocalizedName,0,-1,WW Subrace: Fire-Touched,
+ww_sr_imperial,uti,LocalizedName,0,-1,WW Subrace: Imperial Halfling,
+ww_sr_lore,uti,LocalizedName,0,-1,WW Subrace: Lorekeeper Dwarf,
+ww_sr_nomad,uti,LocalizedName,0,-1,WW Subrace: Nomad Elf,
+ww_sr_peregrine,uti,LocalizedName,0,-1,WW Subrace: Peregrine Human,
+ww_sr_shadow,uti,LocalizedName,0,-1,WW Subrace: Shadow Elf,
+ww_sr_sojourner,uti,LocalizedName,0,-1,WW Subrace: Sojourner Half-Orc,
+ww_sr_sylvan,uti,LocalizedName,0,-1,WW Subrace: Sylvan Elf,
+ww_sr_tainted,uti,LocalizedName,0,-1,WW Subrace: Tainted Human,
+ww_sr_tinker,uti,LocalizedName,0,-1,WW Subrace: Tinker Gnome,
+ww_sr_water,uti,LocalizedName,0,-1,WW Subrace: Water-Touched,
+zombiehead,uti,DescIdentified,0,-1,"You found this crude burlap sack oozing blood atop an altar north of Brogan's Arm. Peering inside, you see the head of a long-dead dwarf. The kobolds must have claimed it from one of the zombies in the Meerwood.",
+zombiehead,uti,LocalizedName,0,-1,Zombie Head,
