@@ -165,8 +165,8 @@ PATCHES = [
     {
         'name': 'Glyph padding',
         'offset': 0xc56c0,
-        'original': bytes.fromhex('65008052'),
-        'patched': bytes.fromhex('05028052'),
+        'original': bytes.fromhex('65008052'),  # mov w5, #3
+        'patched': bytes.fromhex('05068052'),   # mov w5, #48 (고배율 UI 블리딩 해소, Android/Windows와 동일)
     },
     # Phase 4: Nuklear UI Korean glyph range
     # nk_sdl_refresh_config에서 glyph range 선택 시

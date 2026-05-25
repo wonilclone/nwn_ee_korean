@@ -93,8 +93,8 @@ PATCHES = [
         'name': 'CAuroraTTFTexture::Load glyph padding',
         'offset': 0xc56c0,
         'original': bytes.fromhex('65008052'),  # mov w5, #3
-        'patched': bytes.fromhex('05028052'),   # mov w5, #16 → padding 3 → 16
-        'description': 'glyph padding 3 → 16 (글리프 간 여백 증가)',
+        'patched': bytes.fromhex('05068052'),   # mov w5, #48 → padding 3 → 48
+        'description': 'glyph padding 3 → 48 (글리프 블리딩 해소, Android/Windows와 동일)',
     },
     # Nuklear UI 패치 제거 - EE UI는 별도 시스템 (Nuklear GUI)을 사용하며,
     # 해당 UI 문자열은 영문 TLK를 사용하는 것으로 대체함.
