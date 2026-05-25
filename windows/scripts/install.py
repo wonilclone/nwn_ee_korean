@@ -215,12 +215,14 @@ def get_patches_for_version() -> List[dict]:
             'original': bytes([0x81, 0xfa, 0xff, 0x00, 0x00, 0x00]),  # cmp edx, 0xFF
             'patched': bytes([0x81, 0xfa, 0x35, 0x0a, 0x00, 0x00]),   # cmp edx, 0x0A35 (2613)
         },
-        # Glyph Padding: 3 -> 16 (문자 침범 문제 해결)
+        # Glyph Padding: 3 -> 48 (문자 침범 + 글리프 블리딩 해결, Android와 동일)
+        # padding=48 -> 글리프당 24px 여백. 4096x4096 텍스처에 2606자 수용 가능.
+        # 고배율 UI에서 인접 글리프 침범/블리딩 해소 (Android에서 검증된 값)
         {
-            'name': 'Glyph padding 3 -> 16',
+            'name': 'Glyph padding 3 -> 48',
             'offset': CURRENT_OFFSETS['glyph_padding'],
             'original': bytes([0x48, 0xc7, 0x45, 0xbc, 0x03, 0x00, 0x00, 0x00]),
-            'patched': bytes([0x48, 0xc7, 0x45, 0xbc, 0x10, 0x00, 0x00, 0x00]),
+            'patched': bytes([0x48, 0xc7, 0x45, 0xbc, 0x30, 0x00, 0x00, 0x00]),
         },
     ]
 

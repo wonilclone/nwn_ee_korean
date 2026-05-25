@@ -67,7 +67,7 @@ build.bat
 |-----|------|------|------|
 | `0x000eaf20` | `81 fa ff 00 00 00` | `81 fa 35 0a 00 00` | GetSymbolCoords cmp 255→2613 |
 | `0x000ed39f` | `81 fa ff 00 00 00` | `81 fa 35 0a 00 00` | SetSymbolCoords cmp 255→2613 |
-| `0x000fb880` | `48 c7 45 bc 03...` | `48 c7 45 bc 10...` | Glyph padding 3→16 |
+| `0x000fb880` | `48 c7 45 bc 03...` | `48 c7 45 bc 30...` | Glyph padding 3→48 (Android와 동일) |
 
 ### Phase 2: Bake 함수 후킹 (DLL)
 

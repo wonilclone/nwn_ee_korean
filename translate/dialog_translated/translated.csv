@@ -189,7 +189,7 @@ The caster gains a +1 bonus to attack and weapon damage rolls for every three ca
 165,,,Choose Predefined,기존 설정 선택,,,,,,0,0
 166,,,Longsword,장검,,,,,,0,0
 167,,,Greatsword,대검,,,,,,0,0
-168,,,Bastard Sword,잡종 검,,,,,,0,0
+168,,,Bastard Sword,반수검,,,,,,0,0
 169,,,Battleaxe,전투도끼,,,,,,0,0
 170,,,Longbow,장궁,,,,,,0,0
 171,,,Shortbow,단궁,,,,,,0,0
@@ -953,7 +953,7 @@ Special: Halflings and gnomes are Small creatures and as such they can never use
 Prerequisite: Base attack bonus +1 or higher.
 Specifics: This feat allows effective use of all exotic weapons. The exotic weapons list includes the bastard sword, dire mace, dwarven waraxe, double axe, kama, katana, kukri, scythe, shuriken, whip, and two-bladed sword.
 Normal: A character cannot equip weapons they are not proficient in.
-Use: Automatic.","무기 숙달: 이국적(Weapon proficiency: exotic)\n재주 유형: 일반\n선결 조건: 기본 공격 보너스(BAB) +1이상\n세부 사항: 이 재주가 있으면 모든 이국적인 무기를 사용 가능합니다. 이국적인 무기의 목록은 다음과 같습니다: 잡종검, 철퇴봉, 드워프제 전쟁도끼, 쌍날도끼, 카마, 카타나, 쿠크리, 대낫, 수리검, 채찍, 쌍날검\n사용: 자동",,,,,,0,0
+Use: Automatic.","무기 숙달: 이국적(Weapon proficiency: exotic)\n재주 유형: 일반\n선결 조건: 기본 공격 보너스(BAB) +1이상\n세부 사항: 이 재주가 있으면 모든 이국적인 무기를 사용 가능합니다. 이국적인 무기의 목록은 다음과 같습니다: 반수검, 철퇴봉, 드워프제 전쟁도끼, 쌍날도끼, 카마, 카타나, 쿠크리, 대낫, 수리검, 채찍, 쌍날검\n사용: 자동",,,,,,0,0
 439,,,Weapon Proficiency (martial),무기 숙달 (군용),,,,,,0,0
 440,,,"Type of Feat: General
 Prerequisite: None.
@@ -2624,7 +2624,7 @@ The caster throws poisonous quills at a target, doing 1d8 points of damage (+1 p
 1815,,,Improved Critical (shuriken),우수한 치명타 (수리검),,,,,,0,0
 1816,,,Improved Critical (scythe),우수한 치명타 (대낫),,,,,,0,0
 1817,,,Improved Critical (katana),우수한 치명타 (카타나),,,,,,0,0
-1818,,,Improved Critical (bastard sword),우수한 치명타 (잡종검),,,,,,0,0
+1818,,,Improved Critical (bastard sword),우수한 치명타 (반수검),,,,,,0,0
 1819,,,"Caster Level(s): Druid 5
 Innate Level: 2
 School: Transmutation
@@ -2674,7 +2674,7 @@ The target gains an enhancement bonus to Wisdom equal to half the caster's level
 1853,,,Weapon Focus (shuriken),무기 집중 (수리검),,,,,,0,0
 1854,,,Weapon Focus (scythe),무기 집중 (대낫),,,,,,0,0
 1855,,,Weapon Focus (katana),무기 집중 (카타나),,,,,,0,0
-1856,,,Weapon Focus (bastard sword),무기 집중 (잡종검),,,,,,0,0
+1856,,,Weapon Focus (bastard sword),무기 집중 (반수검),,,,,,0,0
 1857,,,"Caster Level(s): Wizard / Sorcerer 0
 Innate Level: 0
 School: Evocation
@@ -2736,7 +2736,7 @@ Masses of flame (one per caster level) appear and randomly target and hit any ho
 1891,,,Weapon Specialization (shuriken),무기 전문화 (수리검),,,,,,0,0
 1892,,,Weapon Specialization (scythe),무기 전문화 (대낫),,,,,,0,0
 1893,,,Weapon Specialization (katana),무기 전문화 (카타나),,,,,,0,0
-1894,,,Weapon Specialization (bastard sword),무기 전문화 (잡종검),,,,,,0,0
+1894,,,Weapon Specialization (bastard sword),무기 전문화 (반수검),,,,,,0,0
 1895,,,Firebrand,낙인,,,,,,0,0
 1896,,,Weapon Specialization (dire mace),무기 전문화 (철퇴봉),,,,,,0,0
 1897,,,Weapon Specialization (double axe),무기 전문화 (쌍날도끼),,,,,,0,0
@@ -3125,7 +3125,7 @@ Masses of flame (one per caster level) appear and randomly target and hit any ho
 2285,,,"Small boxes help with inventory management, providing a place to keep the various smaller items an adventurer collects. The weight of the items within is not reduced, however.",작은 상자는 모험자들이 모은 다양한 작은 아이템을 보관할 수 있는 공간을 제공합니다. 그러나 안에 들어있는 아이템의 무게가 줄어들지는 않습니다.,,,,,,0,0
 2286,,,A large shield is effective protection for the adventurer who can afford the added weight and encumbrance.,대형 방패는 무게와 거추장스러움을 감당할 수 있다면 효과적인 방어구입니다.,,,,,,0,0
 2287,,,"When used properly, a small shield can grant lightweight protection with very little encumbrance to the wielder.","적절하게 사용한다면, 소형 방패는 거의 거추장스럽지 않게 가벼운 보호를 제공합니다.",,,,,,0,0
-2288,,,"Bastard swords are also known as hand-and-a-half swords, falling between the longsword and greatsword in length.",잡종검은 장검과 대검 사이 정도의 길이를 가지며 한손 반짜리 검이라고도 불립니다.,,,,,,0,0
+2288,,,"Bastard swords are also known as hand-and-a-half swords, falling between the longsword and greatsword in length.",반수검은 장검과 대검 사이 정도의 길이를 가지며 한손 반짜리 검이라고도 불립니다.,,,,,,0,0
 2289,,,"Containers are essential for inventory management, and can hold many items, both large and small. The weight of the items within will still be a factor, however, especially when added to that of the container itself.",상자는 인벤토리 관리에 필수적입니다. 크고 작은 여러 물건들을 보관할 수 있습니다. 그러나 안에 들어있는 아이템의 무게가 줄어들지는 않습니다.,,,,,,0,0
 2290,,,"While obviously resembling the farm implement it is derived from, a scythe built for war is reinforced to withstand the rigors of combat.","대낫은 농장에서 쓰이던 도구와 분명 비슷하지만, 전투에도 버틸수 있도록 보강되어 있습니다.",,,,,,0,0
 2291,,,Commoner,평민,,,,,,0,0
@@ -5758,7 +5758,7 @@ Use: Automatic.","파괴적인 치명타(Devastating critical)\n재주 유형: �
 3939,,,Devastating Critical (shuriken),파괴적인 치명타 (수리검),,,,,,0,0
 3940,,,Devastating Critical (scythe),파괴적인 치명타 (대낫),,,,,,0,0
 3941,,,Devastating Critical (katana),파괴적인 치명타 (카타나),,,,,,0,0
-3942,,,Devastating Critical (bastard sword),파괴적인 치명타 (잡종검),,,,,,0,0
+3942,,,Devastating Critical (bastard sword),파괴적인 치명타 (반수검),,,,,,0,0
 3943,,,Devastating Critical (dire mace),파괴적인 치명타 (철퇴봉),,,,,,0,0
 3944,,,Devastating Critical (double axe),파괴적인 치명타 (쌍날도끼),,,,,,0,0
 3945,,,Devastating Critical (two-bladed sword),파괴적인 치명타 (쌍날검),,,,,,0,0
@@ -11808,7 +11808,7 @@ would you like to use?",이 캐릭터 버전이 이미\n저장된 게임 내에 
 6761,,,Two-Handed,양손무기,,,,,,0,0
 6762,,,Great,대형,,,,,,0,0
 6763,,,Bladed,날붙이,,,,,,0,0
-6764,,,Bastard Swords,잡종검,,,,,,0,0
+6764,,,Bastard Swords,반수검,,,,,,0,0
 6765,,,Daggers,단검,,,,,,0,0
 6766,,,Great Swords,대검,,,,,,0,0
 6767,,,Longswords,장검,,,,,,0,0
@@ -13894,7 +13894,7 @@ Use: Automatic.","초월적 무기 집중(Epic weapon focus)\n재주 유형: 전
 8446,,,Epic Weapon Focus (scythe),초월적 무기 집중 (대낫),,,,,,0,0
 8447,,,Follow me. Now.,따라 와. 당장.,,,,,,0,0
 8448,,,Epic Weapon Focus (katana),초월적 무기 집중 (카타나),,,,,,0,0
-8449,,,Epic Weapon Focus (bastard sword),초월적 무기 집중 (잡종검),,,,,,0,0
+8449,,,Epic Weapon Focus (bastard sword),초월적 무기 집중 (반수검),,,,,,0,0
 8450,,,Epic Weapon Focus (dire mace),초월적 무기 집중 (철퇴봉),,,,,,0,0
 8451,,,Epic Weapon Focus (double axe),초월적 무기 집중 (쌍날도끼),,,,,,0,0
 8452,,,Epic Weapon Focus (two-bladed sword),초월적 무기 집중 (쌍날검),,,,,,0,0
@@ -13940,7 +13940,7 @@ Use: Automatic.","초월적 무기 전문화(Epic weapon specialization)\n재주
 8486,,,Epic Weapon Specialization (shuriken),초월적 무기 전문화 (수리검),,,,,,0,0
 8487,,,Epic Weapon Specialization (scythe),초월적 무기 전문화 (대낫),,,,,,0,0
 8488,,,Epic Weapon Specialization (katana),초월적 무기 전문화 (카타나),,,,,,0,0
-8489,,,Epic Weapon Specialization (bastard sword),초월적 무기 전문화 (잡종검),,,,,,0,0
+8489,,,Epic Weapon Specialization (bastard sword),초월적 무기 전문화 (반수검),,,,,,0,0
 8490,,,Epic Weapon Specialization (dire mace),초월적 무기 전문화 (철퇴봉),,,,,,0,0
 8491,,,Epic Weapon Specialization (double axe),초월적 무기 전문화 (쌍날도끼),,,,,,0,0
 8492,,,Epic Weapon Specialization (two-bladed sword),초월적 무기 전문화 (쌍날검),,,,,,0,0
@@ -14029,7 +14029,7 @@ Use: Automatic.","압도적인 치명타(Overwhelming critical)\n재주 유형: 
 8554,,,Overwhelming Critical (shuriken),압도적인 치명타 (수리검),,,,,,0,0
 8555,,,Overwhelming Critical (scythe),압도적인 치명타 (대낫),,,,,,0,0
 8556,,,Overwhelming Critical (katana),압도적인 치명타 (카타나),,,,,,0,0
-8557,,,Overwhelming Critical (bastard sword),압도적인 치명타 (잡종검),,,,,,0,0
+8557,,,Overwhelming Critical (bastard sword),압도적인 치명타 (반수검),,,,,,0,0
 8558,,,Overwhelming Critical (dire mace),압도적인 치명타 (철퇴봉),,,,,,0,0
 8559,,,Overwhelming Critical (double axe),압도적인 치명타 (쌍날도끼),,,,,,0,0
 8560,,,Overwhelming Critical (two-bladed sword),압도적인 치명타 (쌍날검),,,,,,0,0
@@ -14766,7 +14766,7 @@ Check your log file for the list of missing hak paks.","필요한 HAK파일이 �
 8994,,,Weapon of Choice (heavy flail),무기 선택 (중도리깨),,,,,,0,0
 8995,,,Weapon of Choice (scythe),무기 선택 (대낫),,,,,,0,0
 8996,,,Weapon of Choice (katana),무기 선택 (카타나),,,,,,0,0
-8997,,,Weapon of Choice (bastard sword),무기 선택 (잡종검),,,,,,0,0
+8997,,,Weapon of Choice (bastard sword),무기 선택 (반수검),,,,,,0,0
 8998,,,Weapon of Choice (dire mace),무기 선택 (철퇴봉),,,,,,0,0
 8999,,,Weapon of Choice (double axe),무기 선택 (쌍날도끼),,,,,,0,0
 9000,,,Weapon of Choice (two-bladed sword),무기 선택 (쌍날검),,,,,,0,0
@@ -14903,7 +14903,7 @@ Level
 8: Sacred Defense  - +4 to all saving throws.
 10: Sacred Defense  - +5 to all saving throws.
 
-Champions of Torm receive a bonus feat every second level.","(상위 직업)\n톰의 용사는 톰의 대의를 위해 헌신하고, 성지를 지키며, 교회의 적을 파괴하고, 신화적 야수를 처치하는 강력한 전사입니다. 톰은 성기사의 후원자이며 부패와 악의 흔들림없는 적입니다.\n\n요구사항:\n- 가치관: 모든 악하지 않은 가치관\n- 기본 공격 보너스(BAB): +7이상\n- 재주: 무기 집중(근접 무기)\n\n일반 능력:\n- 생명점 주사위(HD): d10\n- 숙달: 단순 무기, 군용 무기, 경장, 평장, 방패\n- 기술 점수: 2 + 지능 수정치\n\n레벨\n1: 안수 치유 - 하루에 한번 직업 레벨과 매력 수정치를 곱한 만큼의 피해를 치유하며 언데드에게 피해를 입힙니다.\n2: 신성한 방어 - 톰의 대투사 2레벨 마다 모든 내성굴림에 +1의 보너스를 제공합니다.\n정의의 일격: 하루에 한번 악한 적에게 명중굴림에 매력 수정치를 더한 공격을 할 수 있습니다.\n5: 신의 분노 - 하루에 한번 매력 수정치 당 1라운드 동안 명중굴림에 +3점, 피해굴림과 내성굴림에 매력 수정치 만큼의 보너스를 받습니다. 또한 5/+1의 피해 감소도 얻습니다.\n톰의 대투사는 2레벨마다 추가 재주를 얻습니다.",,,,,,0,0
+Champions of Torm receive a bonus feat every second level.","(상위 직업)\n톰의 용사는 톰의 대의를 위해 헌신하고, 성지를 지키며, 교회의 적을 파괴하고, 신화적 야수를 처치하는 강력한 전사입니다. 톰은 성기사의 후원자이며 부패와 악의 흔들림없는 적입니다.\n\n요구사항:\n- 가치관: 모든 악하지 않은 가치관\n- 기본 공격 보너스(BAB): +7이상\n- 재주: 무기 집중(근접 무기)\n\n일반 능력:\n- 생명점 주사위(HD): d10\n- 숙달: 단순 무기, 군용 무기, 경장, 평장, 방패\n- 기술 점수: 2 + 지능 수정치\n\n레벨\n1: 안수 치유 - 하루에 한번 직업 레벨과 매력 수정치를 곱한 만큼의 피해를 치유하며 언데드에게 피해를 입힙니다.\n2: 신성한 방어 - 톰의 용사 2레벨 마다 모든 내성굴림에 +1의 보너스를 제공합니다.\n정의의 일격: 하루에 한번 악한 적에게 명중굴림에 매력 수정치를 더한 공격을 할 수 있습니다.\n5: 신의 분노 - 하루에 한번 매력 수정치 당 1라운드 동안 명중굴림에 +3점, 피해굴림과 내성굴림에 매력 수정치 만큼의 보너스를 받습니다. 또한 5/+1의 피해 감소도 얻습니다.\n톰의 용사는 2레벨마다 추가 재주를 얻습니다.",,,,,,0,0
 9019,,,Weapon Master,무기의 달인,,,,,,0,0
 9020,,,Pale Master,사령의 대가,,,,,,0,0
 9021,,,weapon master,무기의 달인,,,,,,0,0
@@ -18911,7 +18911,7 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 14286,,,Golden Sickle +2,황금 낫 +2,,,,,,0,0
 14287,,,Sickle +2,낫 +2,,,,,,0,0
 14288,,,Sickle +3,낫 +3,,,,,,0,0
-14289,,,Bastard Sword +1,잡종검 +1,,,,,,0,0
+14289,,,Bastard Sword +1,반수검 +1,,,,,,0,0
 14290,,,"Legend states that the warrior Alesia brought the Nameless Light from the stars, although other tales claim it was forged by a grieving father, or was the weapon of a virtuous paladin. In truth, several such blades exist. They were created with the blessing of the Harpers, and each has had many stories from any number of owners. Perhaps that is their true power: they compel people to craft heroes of their own.","전설에 따르면 투사 알레시아가 별들에게서 이름없는 빛을 가져왔다고 합니다. 다른 이야기에선 비통한 아버지가 만들었다거나 고결한 성기사의 무기였다고도 하지만 말입니다. 실제로 이러한 검은 여럿 존재합니다. 검은 하퍼의 축복으로 만들어졌고, 각각의 소유자들은 많은 이야기를 가지고 있었습니다. 아마도 검이 사람들을 그들 자신의 영웅이 되도록 만드는 것이야 말로 검의 진정한 힘일 것입니다.",,,,,,0,0
 14291,,,Nameless Light,이름없는 빛,,,,,,0,0
 14292,,,"Forged in smoldering brimstone fires and cooled in the blood of its creator, a Bloodletter blade is a typically evil weapon, the kind of sword that has inspired more than a little diabolical laughter while being waved in the face of one or another virtuous knight. It is possessed of thoroughly heinous life-stealing energies, but if the fates of its previous owners are any indication, its major characteristic could well be the attraction of ""comeuppance.""","이 혈마 검은 연기를 내뿜는 유황 불에서 단조하여 제작자의 피로 냉각한 전형적인 사악한 무기로, 하나 이상의 고결한 기사의 얼굴앞에서 물결치는 동안 사악한 웃음보다 더 많은 것을 불러일으킨 검입니다. 생명력을 빼앗는 철저히 극악무도한 에너지를 지니고 있지만, 이전 주인의 운명이 어떤 징조라면 무기의 주요한 특징은 당연하게도 \""마땅한 벌\""이란 매력일 겁니다.",,,,,,0,0
@@ -18923,8 +18923,8 @@ Lord Nasher is always accompanied by his bodyguard, the Neverwinter Nine. These 
 14298,,,"A line of black crystal runs the length of this blade, marking it the handiwork of Ortius of Gond, the Mad Tinker. Blades from his stock resonate unnaturally when struck, and although mortal ears can barely perceive the tone, they certainly suffer the effects well enough. The origin of the crystal is not clear, though Ortius was known to have bartered his services to planar creatures on occasion.","검은 수정으로 된 선이 칼날을 따라 그려져 있는 이 검은 곤드의 정신 나간 땜장이 오르티우스의 작품입니다. 그가 만든 칼날은 어딘가 부딪히면 해괴하게 공명하는데, 필멸자의 귀로는 음색을 거의 알아채지 못하지만 효과는 충분히 잘 받습니다. 오르티우스는 때때로 다른 차원의 생명체와 그의 기술을 가지고 거래한 것으로 알려졌지만, 그 수정의 기원은 명확하지 않습니다.",,,,,,0,0
 14299,,,Discord,불협화음,,,,,,0,0
 14300,,,<Delete>Discord,<Delete>불협화음,,,,,,0,0
-14301,,,Bastard Sword +2,잡종검 +2,,,,,,0,0
-14302,,,Bastard Sword +3,잡종검 +3,,,,,,0,0
+14301,,,Bastard Sword +2,반수검 +2,,,,,,0,0
+14302,,,Bastard Sword +3,반수검 +3,,,,,,0,0
 14303,,,Dagger +1,단검 +1,,,,,,0,0
 14304,,,"Courtesan assassins were famous for using their wit and charm to infiltrate the intimate chambers of the enemy by the most disarming method imaginable: they were invited. The practice became infamous, which is likely why it is used so infrequently today.",창녀 암살자는 자신들의 재치와 매력을 이용해 적의 사적인 침실에 초대받아 침투하는 것으로 유명했습니다. 이런 일들이 악명 높아지는 바람에 오늘날에는 그다지 자주 사용되는 방법은 아닙니다.,,,,,,0,0
 14305,,,Courtesan Blade,창녀의 칼날,,,,,,0,0
@@ -20120,7 +20120,7 @@ Things are very different now, though they might not appear as such from the out
 25178,,,"Weary is the traveler who must walk the winding road. Blessed by priests of Shaundakul the Windrider, these boots are crafted to make the road rise up to meet you and to keep the wind forever at your back. Numerous versions exist, their power varying largely in accordance with the priest who blessed them.","구불구불한 길을 걸어야 하는 나그네는 피곤합니다. 바람기수 샤운다쿨의 사제들의 축복을 받은 이 장화를 신으면 길이 솟아올라 당신을 맞이하고 당신의 등뒤엔 영원한 바람이 불어옵니다. 이것들은 수많은 형태가 존재하며, 축복을 내린 사제에 따라 힘도 크게 달라집니다.",,,,,,0,0
 25179,,,"These items at first appear to be simple wrist or arm guards, but they surround the wearer with an invisible field of force, and grant protection as though actual armor. They are likely from the armory of some disbanded militia.","이 아이템은 언뜻보면 단순한 손목 보호대나 팔 보호대처럼 보이지만, 착용하면 보이지 않는 역장이 펼쳐져, 마치 갑옷처럼 보호합니다. 이것들은 몇몇 해산한 민병대의 무기고에서 왔을 가능성이 높습니다.",,,,,,0,0
 25180,,,"Gauntlets of this type were likely developed in Kara-Tur to aid masters of the martial arts. Legends speak of such masters from the Far East bringing these items with them on their journeys, though details remain sketchy.","이런 유형의 팔목장갑은 무술의 달인을 지원하기 위해 카라투르에서 개발한 것으로 보입니다. 전설에 따르면 극동에서 온 거장들이 여행길에 이 아이템을 가지고 왔다는 이야기도 있지만, 자세한 내용은 아직 알려져 있지 않습니다.",,,,,,0,0
-25181,,,"This bastard sword has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 잡종검은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
+25181,,,"This bastard sword has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 반수검은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25182,,,"This dagger has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 단검은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25183,,,"This longsword has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 장검은 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
 25184,,,"This katana has an enhancement bonus to attack and damage, but does not bear the mark of a specific craftsman.","이 카타나는 공격과 피해에 대한 강화 보너스를 가지고 있지만, 특정한 장인의 상징을 지니고 있지는 않습니다.",,,,,,0,0
@@ -25093,8 +25093,8 @@ Golden Sickle: Requires special holy water and a magic sickle.",바룬의 무기
 66634,,,Kukri +5,쿠크리 +5,,,,,,0,0
 66635,,,Sickle +4,낫 +4,,,,,,0,0
 66636,,,Sickle +5,낫 +5,,,,,,0,0
-66637,,,Bastard Sword +4,잡종검 +4,,,,,,0,0
-66638,,,Bastard Sword +5,잡종검 +5,,,,,,0,0
+66637,,,Bastard Sword +4,반수검 +4,,,,,,0,0
+66638,,,Bastard Sword +5,반수검 +5,,,,,,0,0
 66639,,,Dagger +4,단검 +4,,,,,,0,0
 66640,,,Dagger +5,단검 +5,,,,,,0,0
 66641,,,Greatsword +4,대검 +4,,,,,,0,0
@@ -27687,7 +27687,7 @@ Returns a single target corpse to life with full Hit Points.","부활(Resurrecti
 79759,,,Shadovar Robes,섀도바 로브,,,,,,0,0
 79760,,,Mechanics of Flight,비행 역학,,,,,,0,0
 79762,,,Rusted Two-Bladed Sword,녹슨 쌍날검,,,,,,0,0
-79764,,,Rusted Bastard Sword,녹슨 잡종검,,,,,,0,0
+79764,,,Rusted Bastard Sword,녹슨 반수검,,,,,,0,0
 79765,,,Rusted Battleaxe,녹슨 전투도끼,,,,,,0,0
 79768,,,Rotten Club,썩은 곤봉,,,,,,0,0
 79769,,,Rusted Dagger,녹슨 단검,,,,,,0,0
@@ -29819,8 +29819,8 @@ Use: Automatic.","초월적 우월한 무기 집중(Epic superior weapon focus)\
 91245,,,Sickle +6,낫 +6,,,,,,0,0
 91246,,,Sickle +7,낫 +7,,,,,,0,0
 91247,,,Golden Sickle +8,황금 낫 +8,,,,,,0,0
-91249,,,Bastard Sword +6,잡종검 +6,,,,,,0,0
-91250,,,Bastard Sword +7,잡종검 +7,,,,,,0,0
+91249,,,Bastard Sword +6,반수검 +6,,,,,,0,0
+91250,,,Bastard Sword +7,반수검 +7,,,,,,0,0
 91251,,,Bloodletter +8,혈마 +8,,,,,,0,0
 91253,,,Souldrinker,영혼흡수자,,,,,,0,0
 91254,,,Dagger +6,단검 +6,,,,,,0,0
@@ -31518,7 +31518,7 @@ For one, 18th level character.
 110070,,,hx_treas_4,hx_treas_4,,,,,,0,0
 110071,,,hx_mimic_enemy_wp_rw_rs045,hx_mimic_enemy_wp_rw_rs045,,,,,,0,0
 110072,,,hx_treas_1,hx_treas_1,,,,,,0,0
-110073,,,Pit Fiend's Bastard Sword,나락의 마귀의 잡종검,,,,,,0,0
+110073,,,Pit Fiend's Bastard Sword,나락의 마귀의 반수검,,,,,,0,0
 110074,,,Horde Cutscene,무리 컷씬,,,,,,0,0
 110075,,,hx_treas_6,hx_treas_6,,,,,,0,0
 110076,,,To City of Lost Souls,잃어버린 영혼들의 도시로,,,,,,0,0
